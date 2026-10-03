@@ -56,6 +56,20 @@ $$C \qquad A \qquad B$$
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**9-T1. Mach Number (Mach Number)**
+
+A microphone located at point $A$ on a horizontal surface recorded a signal from a supersonic aircraft after time $t$ following the aircraft's passage directly overhead this point. After an additional time interval $t$, sound began to be registered by a microphone located at point $B$.
+
+It is known that the first signal recorded by microphone $B$ was emitted by the aircraft from point $C$. The aircraft flew at constant speed along a straight line in the same vertical plane as the microphones.
+
+$$C \qquad A \qquad B$$
+
+1. Using geometric constructions, reconstruct the flight trajectory of the aircraft and determine its positions at the moments when sound signals were detected by the microphones.
+
+*Note.* Standard geometric construction procedures are considered known.
+
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="[VsOSh 2025 Final] — Quesito 2" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/cylinder"></span>
@@ -96,6 +110,16 @@ La tavola si muove con una costante accelerazione orizzontale $a$, orientata ver
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**9-T2. Singularity**
+
+On a horizontal surface, there are two bodies: a long board of height $h$ and a uniform cylinder of radius $R = 2h$, touching each other. The mass of the cylinder is $M$. The coefficients of friction between the cylinder and the surface, as well as between the two bodies themselves, are equal and amount to $\mu$.
+
+The board moves with a constant horizontal acceleration $a$, directed perpendicular to the line of contact with the cylinder. The acceleration due to gravity is $g$.
+
+1. For what values of the board's acceleration $a$ will the cylinder not rotate about a horizontal axis, if the coefficient of friction $\mu$ can take any positive values?
 
 
 
@@ -166,6 +190,30 @@ Nota: tutti gli oggetti possono essere considerati punti di forza, non sono in f
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**9-T3. Three-Body Problem**
+
+In a faraway galaxy, alien stations are capable of attracting spacecraft within their range of influence. The attractive force $\vec{F}$ is directly proportional to the distance $\vec{r}$ between the station and the spacecraft: $\vec{F} = -P\vec{r}$, where $P$ is the force coefficient of the station.
+
+Three such stations are located at the vertices of a right triangle with an angle $30°$ and hypotenuse of length $l$. The two stations at the vertices of the acute angles have a force coefficient $P$, while the station at the right-angle vertex has a force coefficient $2P$.
+
+In parts 1–3, the space stations are stationary.
+
+1. Determine the distances from each station to the point at which the spacecraft will be in equilibrium.
+
+At the initial moment, a spacecraft of mass $m$ is located at the midpoint of the hypotenuse of the triangle, where the stations are situated. The spacecraft's initial velocity is zero and its engines are not operating.
+
+2. Determine the maximum speed $v_{\max}$ of the spacecraft during its subsequent motion.
+
+3. What is the minimum distance the spacecraft will approach the station located at the right-angle vertex during its motion?
+
+The spacecraft again finds itself at the midpoint of the hypotenuse with zero initial velocity. However, at this moment, the station located at the right-angle vertex begins to move with constant velocity $u = 2v_{\max}$ along a straight line perpendicular to the initial direction toward the spacecraft. The stations at the vertices of the acute angles remain stationary.
+
+4. After what time and at what distance from the initial position will the ship stop for the first time?
+
+*Note:* all objects may be considered point-like, and no other forces act on the ship besides the gravitational forces from the stations.
+
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="[VsOSh 2025 Final] — Quesito 4" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
@@ -214,6 +262,20 @@ Il grafico delle unità è costituito da un'ossina $N_{\text{ср}}$; si possono
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**9-T4. Hot–Cold**
+
+The figure shows a fragment of the graph depicting time dependence of $\tau$, the average power $N_{\text{ср}}$, defined as the ratio of the total amount of heat transferred to a silver ingot of mass $m = 50$ g to the time of heat exchange with external bodies. After some time following the start of heat exchange, the ingot's temperature in state $A$ increased to $t_A = 40\,°C$, and after another $2{,}2$ minutes (in state $B$), it again became equal to $t_A$. The specific heat capacity of silver is $c = 240\,\frac{\text{Дж}}{\text{кг}\cdot°C}$.
+
+On the graph, the axis $N_{\text{ср}}$ is marked in watts; points $A$, $C$, $D$, and $B$ are visible at $N_{\text{ср}} = 4{,}0$ W.
+
+1. Restore the coordinate axes and their scale on the graph, given that the beginning of the time axis for heating coincides with the origin of axis $N_{\text{ср}}$.
+
+2. Find the initial temperature $t_0$ of the silver ingot (at $\tau = 0$).
+
+3. Find the temperature of the ingot, as well as the average and instantaneous heat exchange powers with external bodies in states corresponding to points $C$ and $D$.
 
 
 
@@ -276,6 +338,26 @@ Le resistenze dei resistori $R_1$, $R_2$ e $R_3$, nonché i coefficienti $\alpha
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**9-T5. Non-lamp Diode**
+
+The figure shows an electrical circuit with a controllable current source $I_0$, resistors $R_1$, $R_2$, $R_3$, and an ammeter. Such a source delivers to the external circuit an electric current of a specified magnitude, while the voltage at its terminals adjusts according to the parameters of the external circuit.
+
+When connecting in series a diode and a lamp between terminals $A$ and $B$, the ammeter reads zero for two non-zero values of current through the source $I_{01}$ and $I_{02}$.
+
+The current $I_{\text{л}}$ through the lamp and the voltage across it are related by:
+$$I_{\text{л}} = \alpha U_{\text{л}}^{2/3}.$$
+
+For the diode, the current $I_{\text{д}}$ is proportional to the square of the voltage across it:
+$$I_{\text{д}} = \beta U_{\text{д}}^{2}.$$
+
+The resistances of resistors $R_1$, $R_2$, and $R_3$, as well as the coefficients $\alpha$ and $\beta$, are unknown.
+
+1. At what non-zero value of current $I_{03}$ from the source will the ammeter read zero if only the lamp is connected between terminals $A$ and $B$?
+
+2. At what non-zero value of current $I_{04}$ from the source will the ammeter read zero if only the diode is connected between terminals $A$ and $B$?
+
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="[VsOSh 2025 Final] — Quesito 6" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
@@ -329,6 +411,22 @@ Dal punto $A$, situato su una riva di fiume di larghezza $l$, si trasporta sulla
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**10-T1. Crossing**
+
+A small motorboat departs from point $A$ located on one bank of a river with width $l$ and crosses to the opposite bank. The banks of the river are parallel to each other. The speed of the river current is everywhere constant and equal to $u$. On the opposite bank, along the same perpendicular to the banks as point $A$, lies point $B$. The speed of the boat relative to the water is constant in magnitude and equal to $2u$, and its velocity vector remains perpendicular to the straight line $BC$ throughout the entire crossing time, where $C$ is the center of the boat. At some moment in time $t_1$, the velocity of the boat relative to the bank becomes perpendicular to the riverbank.
+
+1. In which direction did the boat start moving from point $A$: downstream or upstream? Justify your answer.
+
+2. Find the angle $\angle ABC$ at time $t_1$.
+
+3. At what distance from point $B$ will the boat be when it reaches the opposite bank of the river?
+
+4. At what distance from point $B$ will the boat be at time $t_1$?
+
+5. Find the radius of curvature of the boat’s trajectory in the reference frame of the bank for two cases: a) at the moment of departure from point $A$; b) at time $t_1$.
+
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="[VsOSh 2025 Final] — Quesito 7" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/wedge,object/block,object/pulley"></span>
@@ -377,6 +475,20 @@ Uspрение свободного падения равно $g$.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Wedge (object)|Wedge]], [[Block (object)|Block]], [[Pulley (object)|Pulley]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**10-T2. Prism**
+
+On a rough horizontal surface of a table, there is a system consisting of a prism of mass $m$ equipped with a light pulley, and a block of mass $M = 2m$. The lateral surface of the prism is smooth, and the angle between the face on which the block rests and the tabletop equals $\alpha$ ($\sin\alpha = 3/5$). A light inextensible string is attached to the block, runs over the pulley, and a horizontal force $F$ is applied to its opposite end. It is known that the prism's acceleration does not depend on the magnitude of this force.
+
+The inclined segment of the string is parallel to the left lateral face of the prism. Friction in the pulley's axle is absent.
+
+1. Determine the possible values of the coefficient of friction $\mu$ between the prism and the tabletop.
+
+2. For each value obtained in part 1, $\mu$, find the acceleration of the prism $a$.
+
+The acceleration due to gravity is $g$.
 
 
 
@@ -439,6 +551,26 @@ Condizioni: * la capacità di trasporto e di trasporto di energia è molto bassa
 **Objects:** [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**10-T3. Falling Piston**
+
+In a vertically oriented cylindrical vessel in the gravitational field, an ideal monoatomic gas is enclosed below a massive horizontal piston of mass $m = 100$ kg. Above the piston there is vacuum. The piston is in equilibrium and can move along the vessel walls with negligible friction.
+
+The piston is fixed at this equilibrium position, after which a weight of mass $M$ kg is placed on it. Then the piston is released. During its subsequent motion with the weight, the minimum distance $h_{\min}$ of the piston from the bottom of the vessel is half the original distance $h_0 = 1{,}0$ m.
+
+Determine:
+
+1. the mass of the weight $M$;
+
+2. the magnitude of the maximum acceleration $a_{\max}$ of the piston with the weight during motion;
+
+3. the magnitude of the maximum velocity $v_{\max}$ of the piston with the weight during motion.
+
+4. After a long time, the piston comes to rest. Find the distance $h$ from the bottom of the vessel at which the piston will be located in its new thermodynamic equilibrium.
+
+*Assumptions:* The heat capacity of the vessel and piston is negligible; there is no heat exchange with the environment. During motion from the initial position to its first stop, processes in the gas may be considered quasi-static. The mass of the gas is much smaller than that of the piston. Acceleration due to gravity $g = 10\,\text{м/с}^2$.
+
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="[VsOSh 2025 Final] — Quesito 9" data-tags="kg/prova,paese/Russia,comp/VsOSh"></span>
@@ -496,6 +628,24 @@ I punti $O$, $O'$, $A$, $B$ e $C$ si trovano nella stessa area della figura pert
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**10-T4. Square vs Circle**
+
+From a thin, non-conducting flat plate, five figures of different shapes and sizes were cut out. Each figure was given an electric charge with a constant, positive, and identical surface charge density for all figures.
+
+**Figure 1** — a square with side $2a$, from which a smaller square of side $a$ was removed from one corner (Figure 1). The magnitude of the electric field created at point $O$ (in the cut-out corner) is equal to $E_0$.
+
+1. Find the ratio $E'/E_0$, where $E'$ is the magnitude of the electric field at point $O'$ **of the second figure**, which has the shape of a square with side $2\lambda a$, from which a square of side $\lambda a$ was removed from one corner (Figure 2). $\lambda$ is some positive number.
+
+2. Determine the magnitude and direction of the electric field vector $\vec{E}_A$ at point $A$ **of the third figure** — a square with side $8a$, from which a square of side $a$ was removed from one corner (Figure 3). Express the magnitude $|\vec{E}_A|$ in terms of $E_0$.
+
+3. Determine the magnitude and direction of the electric field vector $\vec{E}_B$ at point $B$ **of the fourth figure** — a quarter of an annular ring (Figure 4) with inner radius $a$ and outer radius $2a$. Express the magnitude $|\vec{E}_B|$ in terms of $E_0$.
+
+4. Determine the magnitude and direction of the electric field vector $\vec{E}_C$ at point $C$ **of the fifth figure** — a trapezoid (Figure 5) with bases $a$ and $2a$, and angles at the larger base equal to $60°$. Express the magnitude $|\vec{E}_C|$ in terms of $E_0$.
+
+Points $O$, $O'$, $A$, $B$, and $C$ lie in the same plane as their respective figures.
+
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="[VsOSh 2025 Final] — Quesito 10" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/battery,object/resistor"></span>
@@ -549,6 +699,22 @@ In una corrente elettrica infinita, un frammento del schema che è rappresentato
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**10-T5. The Wai Code!**
+
+In an infinite electric circuit, a fragment of the circuit is shown in the figure. Each triangular cell contains three sources with identical internal resistances $r$, but different electromotive forces (EMFs) $\mathcal{E}$, $2\mathcal{E}$ and $3\mathcal{E}$, with the polarity of connection for sources having the same EMF changing periodically.
+
+1. What is the potential difference $(\varphi_+ - \varphi_-)$ between the positive and negative terminals of each source in this circuit?
+
+2. Determine the currents through all sources in this circuit.
+
+3. What resistance $R_1$ will an ohmmeter indicate when connected to the positive and negative terminals of the source with EMF $\mathcal{E}$ located in this circuit? What resistances $R_2$ and $R_3$ will the instrument indicate if the same is done for sources $2\mathcal{E}$ and $3\mathcal{E}$, respectively? Will the ohmmeter readings depend on the polarity of its connection?
+
+4. One source with EMF $2\mathcal{E}$ is replaced by another source with EMF equal to $\mathcal{E}$ and internal resistance $r/2$. What will be the current $I$ through the replaced source in this case?
+
+Assume that values $\mathcal{E}$ and $r$ are known. The resistance of connecting wires may be neglected.
+
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="[VsOSh 2025 Final] — Quesito 11" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/projectile"></span>
@@ -589,6 +755,18 @@ Determina la grandezza di questo angolo $\varphi$ e la distanza tra le pietre $l
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**11-T1. Two Stones**
+
+From the top of a tower of height $h$, two stones are simultaneously thrown at the same speed $v$ in directions perpendicular to each other, and at different angles relative to the horizontal, such that their motion occurs in one vertical plane. After some time following the throw—just immediately before one stone hits the ground—it turns out that the velocity vectors of both stones are directed at identical angles relative to the horizontal.
+
+Determine the value of this angle $\varphi$ and the distance between the stones $l$ at that moment.
+
+It is known that initially both stones move away from the ground surface, and just before one stone hits the ground, the other stone is also approaching the ground. The tower stands on a horizontal surface. The acceleration due to gravity is $g$. Air resistance may be neglected.
+
+---
 
 
 
@@ -642,6 +820,22 @@ Temperature dei tre punti del ciclo: $T_1 = T_3 = 2T_0$, $T_4 = T_0$. In punto 4
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**11-T2. Cycle, as a cycle**
+
+In Lord Kelvin's archives, notes were found about a cycle composed of four sequentially performed quasistatic processes by a classical ideal polyatomic gas: $1{-}2$, $2{-}3$, $3{-}4$, and $4{-}1$. The cycle's graph was lost, but it became known that:
+- in processes $1{-}2$ and $3{-}4$, on any small segment, the change in internal energy was exactly equal to the work done by the gas;
+- in processes $2{-}3$ and $4{-}1$, on any small segment, the change in internal energy was exactly equal to the work done by external forces on the gas.
+
+The temperatures of three points of the cycle are given: $T_1 = T_3 = 2T_0$, $T_4 = T_0$. At point 4, the pressure and volume are respectively $p_4 = p_0$, $V_4 = V_0$.
+
+1. What was the temperature of the gas $T_2$ at point 2?
+
+2. Reconstruct the cycle's graph in coordinates $\log_2\dfrac{p}{p_0}$ versus $\log_2\dfrac{V}{V_0}$.
+
+3. Determine the efficiency of the cycle.
 
 
 
@@ -702,6 +896,25 @@ Poi hanno tagliato un piccolo anello e lo hanno rimosso. In questo caso il centr
 **Objects:** [[Cylinder (object)|Cylinder]], [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+**11-T3. Electrostatic Levitation**
+
+A vertical semi-infinite solid homogeneous dielectric cylinder of radius $R$ is uniformly charged throughout its volume with a constant volumetric charge density $\rho$. A thin disk of thickness $d$ ($d \ll R$) is cut from the cylinder, then reattached and released. The disk remains stationary, with the only force of interaction between the disk and cylinder being the electrostatic repulsion force, whose magnitude is:
+$$F_0 = \frac{4}{3}\,\frac{\rho^2 R^3 d}{\varepsilon_0}.$$
+
+1. Find the density of the material of the cylinder $D$.
+
+2. The disk is given a velocity $v_0$ directed vertically upward, such that it performs small oscillations while moving translationally. Determine the period of these oscillations.
+
+Next, a small ring is cut from the disk and removed. The center of the disk remains on the cylinder's axis, and the new radius is $R' = R - \Delta R$, where $\Delta R \ll R$.
+
+3. Determine the equilibrium position of the disk of radius $R'$. In your answer, indicate the width of the gap $z_0$ between the disk and cylinder in equilibrium.
+
+4. Suppose a disk of radius $R'$ is in equilibrium. Determine the period of small oscillations of the disk during its translational motion along the cylinder's axis after being given a velocity $v_0$ directed vertically upward. If you did not solve part 3, assume $z_0 > 0$ is known.
+
+*Notes.* The acceleration due to gravity is $g$. Assume that the disk can move only translationally along the symmetry axis of the system, and that the bases of the disk are horizontal. All friction forces are absent. Any possible collisions are perfectly elastic. Do not consider gravitational interaction between the disk and cylinder, magnetism, or electromagnetic radiation. Consider the dielectric to be non-polarizable.
+
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="[VsOSh 2025 Final] — Quesito 14" data-tags="kg/prova,paese/Russia,comp/VsOSh,object/capacitor,object/droplet,object/battery"></span>
@@ -754,6 +967,22 @@ In uno degli esperimenti il condensatore di Gluca è stato collegato successivam
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Droplet (object)|Droplet]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**11-T4. Gluk's Capacitor**
+
+At the very beginning of his career, experimenter Gluk was fascinated by developing new devices. One such device was a capacitor of rather unusual design.
+
+Metallic coatings (P), serving as the capacitor plates, were applied to two surfaces of a rectangular glass plate with thickness $h = 0{,}5$ mm. One side of the plate was fully covered with metal, while the other was only partially coated. A small droplet of conducting liquid (K), which does not wet glass, was placed on the uncovered region. A conductor connected to the plate with liquid branched such that one part was attached to the coated region, and the other end was immersed in the droplet.
+
+In one experiment, Gluk's capacitor was connected in series with another capacitor of constant capacitance (reference), to a voltage source whose output could be smoothly adjusted. The source voltage was gradually increased from zero, and the dependence of the voltage across the reference capacitor $U_C$ on the source voltage $U$ was studied. The resulting graph consisted of two linear segments, and at the point of inflection, the voltage across the reference capacitor was one-third of the source voltage $U_1$ corresponding to that point.
+
+1. What was the voltage across the reference capacitor when the source voltage was $U = 2U_1$?
+
+2. Determine the surface tension coefficient of the liquid used by Gluk, if $U_1 = 5{,}9$ kV.
+
+*Given:* $\varepsilon_0 = 8{,}85 \times 10^{-12}$ F/m; dielectric constant of glass $\varepsilon = 7$; thickness of the glass plate is small compared to its dimensions; coefficients of surface tension of the liquid at the interface with air and with glass are equal; effect of gravitational force may be neglected.
 
 
 
@@ -819,3 +1048,27 @@ L' schermo è fissato a una distanza $L_4 = 40F/9$ dalla fonte.
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1Y1kT-NSvEw68UUef5hO1T7uWc5mV3Qge/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+**11-T5. Two Halves**
+
+A point monochromatic light source $S$ with wavelength $\lambda$ is located on the main optical axis (MOA) of a thin converging lens with focal length $F$. The diameter of the lens is $D$, with $\sqrt{\lambda F} \ll D \ll F$.
+
+The lens is cut into two identical halves (half-lenses), which are displaced parallel to their original positions along the MOA. One half (upper) is located at a distance $d_1 = 4F/3$ from the source, and the other half (lower) is located at a distance $d_2 = 2F$.
+
+1. Find the distances $l_1$ and $l_2$ from the source to the images formed by the upper and lower halves of the lens, respectively.
+
+Perpendicular to the MOA, a screen is placed at some distance $L$ from the source.
+
+2. Describe the pattern observed on the screen (sketch it schematically and determine values of essential characteristics) for $L_1 = 3F$ and $L_2 = 6F$.
+
+3. At what distance $L_3 > 2F$ from the source will a circular-shaped image be observed on the screen?
+
+The screen is fixed at distance $L_4 = 40F/9$ from the source.
+
+4. Qualitatively describe and explain the pattern observed on the screen, indicating all characteristic features.
+
+5. Moving from the point where the screen intersects the MOA upward to the edge of the observable pattern, determine how many intervals along this path will exhibit increasing screen illumination? Use the values: $F = 4$ m, $\lambda = 650$ nm, $D = 5$ cm.
+
+*Conditions:* the original lens was ideal: it possessed tautochronism (rays from one source, passing through different points of the lens, reach a new point of intersection in equal time) and upon passing through its focus, the phase of the light wave abruptly changed by $\pi$. All rays not directly reaching the semilens from the source are blocked by diaphragms.

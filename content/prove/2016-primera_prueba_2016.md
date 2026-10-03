@@ -1250,10 +1250,8 @@ FASE DE ARAGÓN
 
 <div class="qlang-split" data-lang="it"></div>
 
-P2 Soluzione
-a)
-La forza netta è la somma (vectoriale) delle repulsioni elettrostatiche delle due cariche situate nei
-le estremità del bastone. Prendendo un senso positivo verso destra
+P2 Soluzione a)
+La forza netta è la somma (vettoriale) delle repulsioni elettrostatiche esercitate dalle due cariche poste agli estremi della sbarra. Prendendo come verso positivo quello verso destra
 2
 2
 2
@@ -1261,16 +1259,7 @@ le estremità del bastone. Prendendo un senso positivo verso destra
 )
 (
 )
-(
-x
-d
-q
-k
-x
-d
-q
-k
-F
+( x d q k x d q k F
 
 2
 2
@@ -1278,45 +1267,24 @@ F
 )
 (
 )
-(
-$\cdot$
-4
-x
-d
-x
-d
-x
-d
-kq
-F
+( $\cdot$
+4 x d x d x d kq F
 
-b) Se x << d, disprezzando x rispetto a d nel denominatore dell'espressione precedente, la forza viene ridotta a
+b) Se x << d, trascurando x rispetto a d nel denominatore dell'espressione precedente, la forza si riduce a
 3
 2
-4
-d
-x
-kq
-F
+4 d x kq F
 
-Si ottiene una forza che, approssimativamente, è direttamente proporzionale al spostamento x e in
-Il modello di forza di un'altra parte è il modello di forza di un'altra parte.
-oscillazioni approssimativamente armoniche, con frequenza angolare
+Si ottiene una forza che, approssimativamente, è direttamente proporzionale allo spostamento x e ha verso opposto (forza del tipo "molla"), quindi se la carica viene spostata leggermente da O e poi rilasciata compierà delle oscillazioni approssimativamente armoniche, con pulsazione angolare
 3
 3
 2
 2
-4
-md
-k
-q
-md
-kq
+4 md k q md kq
 
 (1)
-c)
-La forza elettrica che agisce sulla carica q è conservatrice. Sviluppare la conservazione dell'energia
-Meccanica tra A e O si ha
+
+c) La forza elettrica che agisce sulla carica q è conservativa. Applicando la conservazione dell'energia meccanica tra A e O si ha
 2
 0
 2
@@ -1330,121 +1298,52 @@ Meccanica tra A e O si ha
 19
 20
 /
-21
-mv
-d
-q
-k
-d
-q
-k
-d
-q
-k
+21 mv d q k d q k d q k
 
-Operando si ottiene
+Svolgendo i calcoli si ottiene
+md k q md q k v 10 399 4 2 0
 
-md
-k
-q
-md
-q
-k
-v
-10
-399
-4
-2
-0
+A questo risultato approssimato si può arrivare anche tenendo conto delle conclusioni del punto b). In un moto armonico, la velocità nel passaggio per O (velocità massima) è A , dove A è l'ampiezza dell'oscillazione, cioè
+md k q md k q d d v 10 2 20 20 3
 
-Questo ultimo risultato approssimativo può essere raggiunto anche tenendo conto delle conclusioni del
-il paragrafo b). In un'oscillazione armonica, la velocità passando per O (velocità massima) è A, dove A è
-l'ampiezza dell'oscillazione, cioè
+d) Evidentemente, la carica si muoverà fino alla posizione simmetrica rispetto a quella iniziale, dove l'energia cinetica è nulla e l'energia potenziale coincide con quella iniziale, cioè
+20 d x x A B
 
-md
-k
-q
-md
-k
-q
-d
-d
-v
-10
-2
-20
-20
-3
+e) Come già osservato, se x << d l'equazione del moto è quella di un oscillatore armonico
 
-d)
-Ovviamente, la carica si muoverà fino alla posizione simmetrica dell'iniziale, dove l'energia cinetica è
-zero e il potenziale coincide con l'iniziale, cioè
-20
-d
-x
-x
-A
-B
-
-e)
-Come già detto, se x << d l'equazione di movimento è quella corrispondente ad un oscillatore
-Armonica
-ma
-d
-x
-kq
+ma d x kq
 F
 
 3
 2
 4
- $\to$
-x
-x
-md
-kq
-a
+ $\to$ x x md kq a
 2
 3
 2
 4
 
-La frequenza angolare di oscillazione sarà data in (1), e il tempo che la particella impiega per andare da A a
-B sarà medio periodo
+La pulsazione angolare delle oscillazioni sarà quella data in (1), e il tempo impiegato dalla particella per andare da A a B sarà la metà del periodo
 
  2
 ,
-T
-t
+T t
 B
 A
- $\to$
-k
-md
-q
-t
+ $\to$ k md q t
 B
 A
 3
 ,
 2
-XXXVII Olimpiadi di fisica spagnola
-Fase di ARAGON
-P3.- L'effetto serra.
-Alcuni gas presenti nell'atmosfera come il vapore acqueo, CO2, CH4 e NOx sono denominati gas
-di effetto serra. Questi gas assorbono e reemettono verso la corteccia terrestre gran parte della radiazione
-l'infrarosso emesso dalla Terra, raggiungendo un equilibrio che rende possibile che la superficie di questo pianeta sia
-mantenere una temperatura media compatibile con la vita. Ma un aumento antropogeno della concentrazione
-di tali gas può produrre un aumento della temperatura terrestre con conseguenze disastrose. L'obiettivo
-di una serie di riunioni internazionali sul cambiamento climatico l'ultima a Parigi alla fine del 2015 è
-Infine, la Commissione ha deciso di ridurre le emissioni di gas serra.
-Questo esercizio pone alcuni aspetti relativi alla radiazione solare, e l'ultimo paragrafo
-si presenta un trattamento di base dell'effetto serra.
-L'alto strato dell'atmosfera terrestre riceve una radiazione solare la cui intensità (potenza per unità di
-superficie) è
+XXXVII OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN
+ P3.- L'effetto serra.
+Alcuni gas presenti nell'atmosfera, come vapore acqueo, CO₂, CH₄ e NOₓ, sono denominati "gas serra". Questi gas assorbono e riemettono verso la crosta terrestre gran parte della radiazione infrarossa emessa dalla Terra, raggiungendo un equilibrio che rende possibile il mantenimento della superficie di questo pianeta a una temperatura media compatibile con la vita. Tuttavia, un aumento antropogenico della concentrazione di tali gas può provocare un innalzamento della temperatura terrestre con conseguenze funeste. L'obiettivo di una serie di riunioni internazionali sul cambiamento climatico, l'ultima a Parigi alla fine del 2015, è proprio quello di ridurre le emissioni dei gas serra.
+In questo esercizio vengono affrontati alcuni aspetti relativi alla radiazione solare, e nell'ultimo paragrafo viene presentato un trattamento elementare dell'effetto serra.
+La parte alta dell'atmosfera terrestre riceve una radiazione solare la cui intensità (potenza per unità di superficie) è
 2
-3
-m
+3 m
 W/
 10
 37
@@ -1452,8 +1351,7 @@ W/
 
 T
 S
-. La distanza tra il Sole e la Terra è
-m
+. La distanza tra il Sole e la Terra è m
 10
 5,1
 11
@@ -1462,12 +1360,10 @@ ST
 R
 
 1)
-Determina e calcola la potenza totale con cui emette il Sole,
+Determina e calcola la potenza totale con cui il Sole emette energia,
 S
 W .
-La velocità della luce nel vuoto è
-s/
-m
+La velocità della luce nel vuoto è s/ m
 10
 0
 ,3
@@ -1475,15 +1371,13 @@ m
 
 c
 .
+
 2)
-Calcola la massa che il Sole perde per unità di tempo,
-t
-m
+Calcola la massa persa dal Sole nell'unità di tempo, t m
 
 /
 , per generare tale quantità di energia.
-Il raggio del sole è
-m
+Il raggio del Sole è m
 10
 0
 ,
@@ -1493,43 +1387,41 @@ m
 S
 R
 .
+
 3)
 Determina e calcola la potenza per unità di superficie,
 S
 S
-, che emette il sole sulla sua superficie.
-La legge di Stefan-Boltzmann relaziona la potenza per unità di superficie emessa da un corpo nero
-Con la sua temperatura assoluta, T. La sua espressione è:
+, emessa dal Sole sulla sua superficie.
+La legge di Stefan-Boltzmann collega la potenza per unità di superficie emessa da un corpo nero con la sua temperatura assoluta, T. La sua espressione è:
 4
 T
 S
 
-, in cui
+, dove
 4
 2
 8
-K
-m
+K m
 W
 10
 7
 ,5
 
-(Constante di
-Stefan-Boltzmann). Considera che la radiazione solare soddisfa questa legge, cioè che il sole si comporta come un
-corpo nero.
+ (costante di Stefan-Boltzmann). Considera che la radiazione solare rispetti tale legge, ossia che il Sole si comporti come un corpo nero.
+
 4)
 Qual è la temperatura sulla superficie del Sole,
 S
 T ?
-Dal sole la Terra appare come un disco di area
+
+Dal Sole, la Terra appare come un disco di area
 2
 T
 R
 A
 
-, dove
-m
+, dove m
 10
 37
 ,
@@ -1537,23 +1429,21 @@ m
 6
 
 T
-R
-è il radio della
-Terra. Questa zona è la sezione efficace della Terra per la radiazione solare.
+R è il raggio della Terra. Questa area rappresenta la sezione efficace della Terra per la radiazione solare.
+
 5)
-Determina e calcola la potenza solare che riceve la Terra,
+Determina e calcola la potenza solare ricevuta dalla Terra,
 T
 W .
-Come illustrato in figura 1, il 33% dell'energia solare che arriva sulla Terra si riflette, il 22% si riflette.
-Il 45% è assorbito nell'atmosfera e il 45% del resto nella corteccia terrestre. Considereremo in principio
-che, una volta raggiunto uno stato di stazionarietà in cui si bilanciano guadagni e perdite energetiche, la
-La corteccia terrestre e l'atmosfera sono alla stessa temperatura media (media di giorno e di notte), T
+Come mostrato in figura 1, il 33% dell'energia solare che raggiunge la Terra viene riflesso, il 22% viene assorbito nell'atmosfera e il 45% rimanente viene assorbito nella crosta terrestre. Consideriamo inizialmente che, una volta raggiunto uno stato stazionario in cui si bilanciano guadagno e perdita di energia, la crosta terrestre e l'atmosfera si trovino alla stessa temperatura media (media tra giorno e notte), T
 T .
-Ammette che lo spessore dell'atmosfera è sconsiderato rispetto al raggio terrestre.
-Atmosfera a temperatura T
+Si si supone inoltre che lo spessore dell'atmosfera sia trascurabile rispetto al raggio della Terra.
+
+Atmosfera alla temperatura T
 T
 Fig. 1
-Corte terrestre a temperatura T
+
+Corteccia terrestre alla temperatura T
 T
 33%
 22%
@@ -1561,35 +1451,31 @@ T
 4
 T
 T
-XXXVII Olimpiadi di fisica spagnola
-Fase di ARAGON
-6)
-Determina e calcola la temperatura di equilibrio del sistema corteccio-atmosfera,
+
+XXXVII OLIMPIADA SPAGNOLA DI FISICA
+FASE DI ARAGONA
+
+6) Determina e calcola la temperatura di equilibrio del sistema corteccia-atmosfera,
 T
-T , considerando il
-insieme come un unico corpo nero.
-La proposta di direttiva del Consiglio che istituisce un sistema di protezione dei consumatori è stata adottata nel corso del suo corso.
-T temperatura
-La temperatura media della Terra è notevolmente inferiore alla temperatura media reale della Terra,
+T , considerando l'insieme come un unico corpo nero.
+
+Nel trattamento del punto precedente non è stato considerato l'effetto serra, e per questo la temperatura T
+T così ottenuta è significativamente inferiore alla temperatura media reale della Terra, T
 T .
-La radiazione che emette la Terra è nel raggio dell'infrarosso, e proprio l'atmosfera assorbe questa radiazione.
-la radioterapia con grande efficacia a causa dei gas serra contenuti (CO2, NOx, ecc.).
-Come modello più elaborato, consideriamo ora una situazione di equilibrio in cui tutta la radiazione
-infrarossi che emettono la corteccia terrestre a una temperatura T
-T, è completamente assorbita dall'atmosfera, a
-una temperatura
+
+La radiazione emessa dalla Terra si trova nel campo dell'infrarosso, e proprio l'atmosfera assorbe con grande efficienza questa radiazione a causa dei gas serra che contiene (CO₂, NOₓ, ecc.).
+
+Come modello più elaborato, consideriamo ora una situazione di equilibrio in cui tutta la radiazione infrarossa emessa dalla corteccia terrestre, alla temperatura T
+T , viene completamente assorbita dall'atmosfera, alla temperatura
 A
-T . L'atmosfera emette uguali emissioni in tutte le direzioni, quindi emette
-la stessa radiazione verso lo spazio esterno che verso la corteccia, come illustrato in figura 2.
-7)
-Determina e calcola la temperatura di equilibrio nella corteccia terrestre,
+T . Inoltre, l'atmosfera irradia in modo isotropo, per cui emette la stessa quantità di radiazione verso lo spazio esterno e verso la corteccia, come schematizzato in figura 2.
+
+7) Determina e calcola la temperatura di equilibrio sulla corteccia terrestre,
 T
-T, supponendo che sia tanto la
-La corteccia come l'atmosfera si comporta come corpi neri.
+T , supponendo che sia la corteccia che l'atmosfera si comportino come corpi neri.
 
 Fig. 2
-Atmosfera, con gas di effetto
-serra, a temperatura
+Atmosfera, con gas serra, alla temperatura
 T
 A
 T
@@ -1607,33 +1493,24 @@ T
 A
 T
 
-Corte terrestre, a temperatura
+Corteza terrestre, a temperatura
 45%
 22%
 T
 T
 33%
-XXXVII Olimpiadi di fisica spagnola
-Fase di ARAGON
-
+XXXVII OLIMPIADA SPAGNOLA DI FISICA
+Fase di Aragona
 
 <!--fig:start-->
 ![[_attachments/2016 primera_prueba_2016/2016 primera_prueba_2016_p5_f6.png]]
-*Stocca con sfera carica agli estremi*
+*Varilla con sfere cariche agli estremi*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gC9wrdWMH1TI2Dwb_H380csBSyY7sL5j/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-P2 Solution
-a)
-The net force is the (vectoral) sum of the electrostatic repulsions of the two charges in the
-ends of the rod. Taking a positive direction to the right
+P2 Solution a)
+The net force is the vector sum of the electrostatic repulsions from the two charges located at the ends of the rod. Taking positive direction to the right
 2
 2
 2
@@ -1641,16 +1518,7 @@ ends of the rod. Taking a positive direction to the right
 )
 (
 )
-(
-x
-d
-q
-k
-x
-d
-q
-k
-F
+( x d q k x d q k F
 
 2
 2
@@ -1658,45 +1526,24 @@ F
 )
 (
 )
-(
-$\cdot$
-4
-x
-d
-x
-d
-x
-d
-kq
-F
+( $\cdot$
+4 x d x d x d kq F
 
-(b) If x << d, neglecting x versus d in the denominator of the above expression, the force is reduced to
+b) If x << d, neglecting x compared to d in the denominator of the previous expression, the force reduces to
 3
 2
-4
-d
-x
-kq
-F
+4 d x kq F
 
-The force is obtained which is approximately directly proportional to the displacement x and in
-The force is the opposite direction (force type muelle), so if the load is slightly separated from O and released it will be
-approximately harmonic oscillations, with angular frequency
+This yields a force approximately proportional to the displacement x and directed oppositely (spring-like force), so if the charge is slightly displaced from O and released, it will undergo approximately harmonic oscillations with angular frequency
 3
 3
 2
 2
-4
-md
-k
-q
-md
-kq
+4 md k q md kq
 
 (1)
-c)
-The electrical force acting on the charge q is conservative. The Commission is also considering the need to develop a new approach to energy conservation.
-The mechanics between A and O is
+
+c) The electric force acting on charge q is conservative. Applying conservation of mechanical energy between points A and O gives
 2
 0
 2
@@ -1706,125 +1553,61 @@ The mechanics between A and O is
 1
 2
 20
-/
-19
+/ 19
 20
-/
-21
-mv
-d
-q
-k
-d
-q
-k
-d
-q
-k
+/ 21 mv d q k d q k d q k
 
-Operating is obtained
+Simplifying yields
+md k q md q k v 10 399 4 2 0
 
-md
-k
-q
-md
-q
-k
-v
-10
-399
-4
-2
-0
-
-This last approximate result can also be reached by taking into account the conclusions of the
-the following points are added: In a harmonic oscillation, the speed passing through O (maximum velocity) is A, where A is
-the amplitude of the oscillation, i.e.
-
-md
-k
-q
-md
-k
-q
-d
-d
-v
-10
-2
-20
-20
-3
+This same approximate result may also be obtained by using the conclusions from part (b). In a harmonic oscillation, the velocity at point O (maximum velocity) is Aω, where A is the amplitude of oscillation. Thus
+md k q md k q d d v 10 2 20 20 3
 
 d)
-Obviously, the charge will move to the symmetrical position of the initial, where the kinetic energy is
-The potential is zero and the potential is equal to the initial, i.e.
-20
-d
-x
-x
-A
-B
+Evidently, the charge will move until it reaches the symmetric position with respect to its initial location, where kinetic energy is zero and potential energy equals the initial value, that is
+20 d x x A B
 
 e)
-As already mentioned, if x << d the equation of motion is the corresponding one to an oscillator
-of a kind used for the manufacture of
-ma
-d
-x
-kq
+As already mentioned, if x << d, the equation of motion corresponds to a harmonic oscillator:
+ma d x kq
 F
 
 3
 2
 4
- $\to$
-x
-x
-md
-kq
-a
+$\to$
+x x md kq a
 2
 3
 2
 4
 
-The angular frequency of oscillation shall be given in (1), and the time it will take the particle to go from A to
-B is half-term
+The angular frequency of oscillation will be given by (1), and the time taken by the particle to move from A to B will be half a period:
 
- 2
+2
 ,
-T
-t
+T t
 B
 A
- $\to$
-k
-md
-q
-t
+$\to$
+k md q t
 B
 A
 3
 ,
 2
-XXXVII Spanish Olympics in Physics
-The following is the list of the categories of products:
-P3.- The greenhouse effect.
-Some gases in the atmosphere such as water vapor, CO2, CH4 and NOx are called gases
-greenhouse effect. These gases absorb and re-emitted much of the radiation to the Earth's crust.
-Infrared emission from the Earth, achieving a balance that makes it possible for the surface of this planet to be
-Keep it at a life-compatible average temperature. But an anthropogenic increase in concentration
-The effects of these gases can cause an increase in the Earth's temperature with dire consequences. The objective
-of a series of international climate change meetings the latest in Paris at the end of 2015 is
-The Commission has already decided to reduce the greenhouse gas emissions.
-This exercise discusses some aspects of solar radiation, and the last paragraph
-a basic treatment of the greenhouse effect is provided.
-The upper layer of the Earth's atmosphere receives solar radiation whose intensity (power per unit of
-surface area) is
+
+XXXVII SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
+P3. The greenhouse effect.
+
+Some gases present in the atmosphere—such as water vapor, CO₂, CH₄, and NOₓ—are known as "greenhouse gases." These gases absorb and re-emit a large portion of the infrared radiation emitted by Earth toward its surface, establishing an equilibrium that allows the planet’s surface to remain at a mean temperature compatible with life. However, a human-induced increase in the concentration of these gases may lead to an undesirable rise in Earth’s temperature. The goal of a series of international meetings on climate change—most recently held in Paris at the end of 2015—is precisely to reduce emissions of greenhouse gases.
+
+In this problem, several aspects related to solar radiation are considered. In the final section, a basic treatment of the greenhouse effect is presented.
+
+The upper layer of Earth’s atmosphere receives solar radiation with an intensity (power per unit area) of
 2
-3
-m
+3 m
 W/
 10
 37
@@ -1832,8 +1615,7 @@ W/
 
 T
 S
-. The distance between the sun and the earth is
-m
+. The distance between the Sun and Earth is m
 10
 5,1
 11
@@ -1842,98 +1624,74 @@ ST
 R
 
 1)
-Determine and calculate the total power the Sun emits,
+Determine and calculate the total power emitted by the Sun,
 S
 W .
-The speed of light in a vacuum is
-s/
-m
+The speed of light in vacuum is
+s/m
 10
-0
-,3
+3.0
 8
+c .
 
-c
-.
 2)
-Calculate the mass the Sun loses per unit of time,
-t
-m
-
-/
-, to generate such a large amount of energy.
-The radius of the sun is
+Calculate the mass lost by the Sun per unit time,
+t m / , to generate such amount of energy.
+The radius of the Sun is
 m
 10
-0
-,
-7
+7.0
 8
+S
+R .
 
-S
-R
-.
 3)
-Determine and calculate the power per unit area,
+Determine and calculate the power per unit surface area,
 S
-S
-, which emits the sun on its surface.
-Stefan-Boltzmann's law relates the power per unit area emitted by a black body
-with its absolute temperature, T. His expression is:
+S , emitted by the Sun at its surface.
+The Stefan-Boltzmann law relates the power per unit surface area emitted by a black body to its absolute temperature, T. Its expression is:
 4
 T
-S
-
-, in which
-4
-2
-8
-K
-m
+S , where
+K m
 W
 10
-7
-,5
+7.5
+2 8
+4
+ (Stefan-Boltzmann constant). Assume that solar radiation obeys this law, i.e., the Sun behaves as a black body.
 
-(Constant of
-The Commission has already adopted a number of proposals. He considers that solar radiation complies with this law, that is, the Sun behaves like a
-black body.
 4)
-What is the temperature on the surface of the Sun,
+What is the temperature at the surface of the Sun,
 S
 T ?
-From the Sun, the Earth looks like a disk of area
+
+From the Sun, Earth appears as a disk of area
 2
 T
 R
-A
-
-, where
+A , where
 m
 10
-37
-,
+3.76
 6
-6
-
 T
-R
-It's the radio of the
-Earth. This area is the effective section of the Earth for solar radiation.
+R is the radius of Earth. This area is the effective cross-sectional area of Earth for solar radiation.
+
 5)
-It determines and calculates the solar power that the Earth receives,
+Determine and calculate the solar power received by Earth,
 T
 W .
-As shown in Figure 1, 33% of solar energy reaching the Earth is reflected, 22% is
-It absorbs in the atmosphere and the remaining 45% is absorbed in the Earth's crust. We'll consider in principle
-The energy efficiency of the energy sector is also a major factor in the reduction of energy consumption.
-Earth's crust and atmosphere are at the same average temperature (average between day and night), T
-T .
-He goes on to admit that the thickness of the atmosphere is despicable in the face of the Earth's radius.
-Atmosphere at T temperature
+As schematically shown in Figure 1, 33% of the solar energy reaching Earth is reflected, 22% is absorbed in the atmosphere, and the remaining 45% is absorbed by Earth’s crust. We will initially assume that, once a stationary state is reached in which energy gains and losses are balanced, Earth’s crust and atmosphere are at the same average temperature (mean between day and night),
 T
-Fig. 1
-Earth's crust at T temperature
+T .
+From now on, assume that the thickness of the atmosphere is negligible compared to Earth's radius.
+
+Atmosphere at temperature T
+T
+Figure 1
+
+Earth’s crust at temperature T
 T
 33%
 22%
@@ -1941,35 +1699,30 @@ T
 4
 T
 T
-XXXVII Spanish Olympics in Physics
-The following is the list of the categories of products:
-6)
-Determines and calculates the equilibrium temperature of the cortex-atmosphere system,
+XXXVII SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND
+
+6) Determine and calculate the equilibrium temperature of the Earth’s crust–atmosphere system,
 T
-T , having regard to the
-together as a single black body.
-The Greenhouse effect has not been taken into account in the above paragraph and the Commission has therefore
-T temperature
-The resulting T is appreciably lower than the actual average temperature of the Earth, T
+T , considering the entire system as a single black body.
+
+In the previous part’s formulation, the greenhouse effect was not taken into account; therefore, the temperature T
+T obtained is significantly lower than Earth’s actual average temperature, T
 T .
-The radiation that the Earth emits is in the infrared range, and precisely the atmosphere absorbs this radiation.
-radiation with high efficiency due to the greenhouse gases it contains (CO2, NOx, etc.).
-As a more elaborate model, let's now consider a situation of equilibrium in which all radiation is
-Infrared emission from the Earth's crust at a temperature of T
-T, is completely absorbed by the atmosphere, a
-a temperature
-A
-T . On the other hand, the atmosphere emits the same in all directions, so it emits
-The same radiation to the outer space as to the crust, as outlined in Figure 2.
-7)
-Determines and calculates the equilibrium temperature in the Earth's crust,
-T
-T, assuming that both the
-Cortex like the atmosphere behaves like black bodies.
 
-Fig. 2
-Atmosphere, with effect gases
-Greenhouse, at temperature
+Earth's emitted radiation lies in the infrared range, and precisely this radiation is strongly absorbed by the atmosphere due to greenhouse gases it contains (CO₂, NOₓ, etc.).
+
+As a more refined model, consider now an equilibrium situation in which all infrared radiation emitted by the Earth’s crust at temperature T
+T is completely absorbed by the atmosphere, which is at temperature
+A
+T . Furthermore, the atmosphere emits radiation equally in all directions, so it emits the same amount of radiation toward outer space as toward the crust, as schematically shown in Figure 2.
+
+7) Determine and calculate the equilibrium temperature of Earth’s crust,
+T
+T , assuming both the crust and atmosphere behave as black bodies.
+
+Figure 2
+Atmosphere, containing greenhouse gases, at temperature
 T
 A
 T
@@ -1987,26 +1740,19 @@ T
 A
 T
 
-Earth's crust at temperature
+Earth's crust, at temperature
 45%
 22%
 T
 T
 33%
-XXXVII Spanish Olympics in Physics
-The following is the list of the categories of products:
-
+XXXVII SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
 
 <!--fig:start-->
 ![[_attachments/2016 primera_prueba_2016/2016 primera_prueba_2016_p5_f6.png]]
-*Stick with sphere loaded to the ends*
+*Rod with charged spheres at the ends*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gC9wrdWMH1TI2Dwb_H380csBSyY7sL5j/view)
 
 
 
@@ -2803,12 +2549,11 @@ Questa nuova temperatura è più $confortable\dots$ e si adatta alla realtà.
 
 P3 Solution
 1)
-If the distance between the Sun and the Earth is
+If the distance between the Sun and Earth is
 ST
-R
-And the power that the Earth receives per unit area is
+R and the power received by Earth per unit surface area is
 T
-S , the total energy emitted by the Sun is
+S , then the total energy emitted by the Sun is
 
 W
 10
@@ -2826,67 +2571,46 @@ R
 W
 
 2)
-According to Einstein's well-known expression, a mass
-m
+According to the well-known Einstein expression, a mass m of Sun corresponds to an energy E given by
 
-The energy of the Sun is equal to one
+2 c m
 E
 
-given by
-
+Therefore, the power (energy per unit time) generated by the Sun, t
+E c t m
 2
-c
-m
-E
-
-So the energy per unit of time (power) that the Sun generates,
-t
-E
-WS
-
-/
-, assuming one
-Loss of mass per unit of time
+1
+/ , implies a mass loss per unit time
 
 t
-E
-c
-t
-m
-
+E c t m
 2
 1
 
-s/
-kg
+s/ kg
 10
 3
-,
-4
+,4
 9
 2
 
 c
-W
-t
-m
+W t m
 S
 
 3)
-Si
+If
 S
-R is the radius of the Sun, the power per unit area it emits on its surface is
+R is the radius of the Sun, then the power per unit surface area emitted at its surface is
 
 2
 7
-2
-m
+2 m
 /
 W
 10
 3
-,
-6
+,6
 4
 
 S
@@ -2897,10 +2621,9 @@ W
 S
 
 4)
-If the Sun is considered a black body at temperature
+If the Sun is considered as a black body at temperature
 S
-T, under the Stefan-Boltzmann law,
-You got it.
+T , then according to the Stefan-Boltzmann law,
 
 K
 10
@@ -2915,14 +2638,11 @@ S
 T
 
 5)
-The energy that carries the solar radiation affects the Earth through its effective section,
+The energy carried by solar radiation reaches Earth through its effective cross-sectional area,
 2
 T
 R
-A
-
-,
-So the power that reaches the earth is
+A , so the power arriving at Earth is
 
 T
 T
@@ -2943,18 +2663,14 @@ W
 T
 W
 
- 6)
-Of the solar energy that reaches Earth, 33 percent is reflected. The remaining 67% is absorbed into the atmosphere or
-in the Earth's crust. If both Earth and atmosphere are in thermal equilibrium at a temperature
+6)
+Of the solar energy reaching Earth, 33% is reflected. The remaining 67% is absorbed by the atmosphere or Earth's crust. If both Earth and atmosphere are in thermal equilibrium at temperature
 T
-T , y
-Supposing that the whole behaves as a single black body, the energy it emits per unit of
-Time has to be equal to what it gets,
+T , and assuming the combined system behaves as a single black body, then the energy emitted per unit time must equal that received:
 T
 W
 67
-,0
- . I mean,
+,0 . That is,
 
 T
 T
@@ -2971,15 +2687,14 @@ R
 ,0
 4
 
-Where did you come from?
+From this follows
 
 4
 /
 1
 4
 67
-,
-0
+,0
 
 T
 T
@@ -2993,20 +2708,16 @@ K
 
 T
 T
-XXXVII Spanish Olympics in Physics
-The following is the list of the categories of products:
+XXXVII SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL PHASE
 7)
-The temperature obtained in the previous paragraph (21 oC) is certainly too cool. To obtain
-The Commission has already adopted a proposal for a directive on the protection of the environment.
-contained in the atmosphere, which we will assume at a temperature
+The temperature obtained in the previous section (21 °C) is undoubtedly too cool. To achieve a more realistic result, it is necessary to improve the model by taking into account greenhouse gases in the atmosphere, which we assume are at temperature
 A
-T . The atmosphere, considered as a
-It emits the energy it receives from the sun and the cortex in isotropic form, and therefore a part of the solar system.
-It will escape into space and another like it will reach the Earth's crust. Assuming also that the crust is
-a black body at T temperature
-T , the following balances can be made:
+T . The atmosphere, considered as a black body, emits energy received from the Sun and from the Earth's crust in an isotropic manner; thus, half of it escapes into space and the other half returns to the Earth's crust. Assuming also that the crust is a black body at temperature
+T
+T , the following energy balances can be established:
 
-The Earth's crust:
+Earth's crust:
 
 4
 2
@@ -3014,12 +2725,10 @@ The Earth's crust:
 2
 4
 :
-It broadcasts
+Emits
 4
-45
-,
-0
-Receive
+45,0
+Absorbs
 T
 T
 A
@@ -3031,7 +2740,7 @@ T
 R
 W
 
-In a state of equilibrium
+In equilibrium:
 
 4
 2
@@ -3039,9 +2748,7 @@ In a state of equilibrium
 2
 4
 4
-45
-,
-0
+45,0
 T
 T
 A
@@ -3053,15 +2760,13 @@ T
 R
 W
 
-Taking into account (1) and simplifying
+Taking into account (1) and simplifying:
 
 4
 4
 4
 4
-45
-,
-0
+45,0
 T
 A
 T
@@ -3071,9 +2776,9 @@ S
 
 (3)
 
-As for the atmosphere, the energy balance is
+As for the atmosphere, the energy balance is:
 
-The atmosphere:
+Atmosphere:
 
 4
 2
@@ -3082,12 +2787,10 @@ The atmosphere:
 4
 2
 :
-It broadcasts
+Emits
 4
-22
-,
-0
-Receive
+22,0
+Absorbs
 A
 T
 T
@@ -3099,7 +2802,7 @@ T
 R
 W
 
-So what?
+Therefore:
 
 4
 2
@@ -3109,9 +2812,7 @@ So what?
 4
 2
 4
-22
-,
-0
+22,0
 A
 T
 T
@@ -3127,9 +2828,7 @@ R
 
 2
 8
-22
-,
-0
+22,0
 4
 4
 T
@@ -3141,23 +2840,20 @@ T
 
 (4)
 
-Substitution of (4) by (3) and simplification is obtained
+Substituting (4) into (3) and simplifying yields:
 
 T
 T
 S
 T
-28
-,
-0
+28,0
 4
 
-Having regard to the second paragraph of Article 2 of the Treaty,
+Taking into account (2), the final result is:
 
 4
 4
-67
-,1
+67,1
 T
 T
 T
@@ -3165,28 +2861,20 @@ T
 
 K
 286
-14
-,1
+14,1
 
 T
 T
 T
 T
 
-This new temperature is more $confortable\dots$ and it's in line with reality.
-
+This new temperature is more $confortable\dots$ and consistent with reality.
 
 <!--fig:start-->
 ![[_attachments/2016 primera_prueba_2016/2016 primera_prueba_2016_p7_f7.png]]
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+*Atmospheric greenhouse effect diagram*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2016 primera_prueba_2016/2016 primera_prueba_2016_p8_f8.png]]
-The following table shows the results of the calculation of the temperature of the product:
+*Earth's crust–atmosphere temperature diagram*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Astrophysics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1gC9wrdWMH1TI2Dwb_H380csBSyY7sL5j/view)

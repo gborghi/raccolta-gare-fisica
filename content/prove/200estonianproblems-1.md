@@ -187,15 +187,9 @@ The time it took a kid to sledge down from an evenly sloped hill of height $h = 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**P6 Sledge**
+**P6 Slittino**
 
-Il tempo necessario per scivolare un bambino da una collina di altezza uguale $h = 2.0$ m era $t = 3.0$ s. What was the minimal angle of inclination $\alpha$ of the hill if the kid started to sledge from rest?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1dLddqRMa-IlT8QIdk0C3W43I1JlkqAB9/view)
+Il tempo impiegato da un bambino per scendere con lo slittino lungo una collina con pendenza uniforme di altezza $h = 2.0$ m è stato di $t = 3.0$ s. Qual era l'angolo minimo di inclinazione $\alpha$ della collina, supponendo che il bambino partisse da fermo?
 
 
 
@@ -1384,13 +1378,7 @@ Robin Hood is in an archery competition where he has to hit a target at a distan
 
 **P37 Robin Hood**
 
-Robin Hood è in una competizione di tiro con l'arco dove deve colpire un bersaglio a una distanza $L = 200$ m. At what angle $\alpha$ with respect to the horizontal direction has to Robin shoot with his bow so he would hit the target exactly in the middle? Mentre si sforza l'arco, il lavoro di Robin è $A = 500$ J e il coefficiente di efficienza dell'arco è $\eta = 0.17$. La massa della freccia è $m = 54$ g e viene sparata $h = 70$ cm più in alto del centro del bersaglio. Non tenere conto della resistenza all'aria. L'accelerazione gravitazionale è $g = 9.8$ m/s2.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1dLddqRMa-IlT8QIdk0C3W43I1JlkqAB9/view)
+Robin Hood si trova in una gara di tiro con l'arco, dove deve colpire un bersaglio distante $L = 200$ m. A quale angolo $\alpha$ rispetto alla direzione orizzontale deve sparare Robin con il suo arco per colpire esattamente al centro del bersaglio? Mentre tende l'arco, il lavoro svolto da Robin è di $A = 500$ J e il rendimento dell'arco è pari a $\eta = 0.17$. La massa della freccia è di $m = 54$ g e viene sparata $h = 70$ cm più in alto rispetto al centro del bersaglio. Non considerare la resistenza dell'aria. L'accelerazione di gravità è di $g = 9.8$ m/s².
 
 
 

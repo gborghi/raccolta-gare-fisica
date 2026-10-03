@@ -743,100 +743,75 @@ Alcuni dei partecipanti a questa Olimpiada di Fisica contribuiscono ai progressi
 
 <div class="qlang-split" data-lang="en"></div>
 
-P2. Travel to next b.
-Alpha Centauri is a star system composed of three stars, the smallest of which, Próxima
-Centauri, it's a red dwarf and the closest star to the Sun, 4.25 light-years away. Next Centauri has at least
-A planet, Proxima b, discovered in 2016, and that sparked much interest because it's Earth-sized.
-And to be in the habitable zone of the star, where liquid water can exist.
-With current technology it would take the order of 30,000 years to reach the
-The star system of Alpha Centauri. However, a recent proposal called
-Breakthrough Starshot1, led by Zuckerberg and Hawking, proposed to achieve it
-In 20 years with miniaturized spacecraft of a few grams of pushed mass
-by means of light candles. This technology is still to be developed, but it seems to be a
-A milestone accessible in a few years of research.
-It considers that the mass of the spacecraft is $1{,}5$ g and that, starting from the rest, it reaches a speed of
-The cruise ship's stable $v_0$, which it maintains for 20 years of its journey.
-a)
-Calculate the speed $v_0$, assuming that it is reached immediately.
-The speed $v_0$ is not acquired immediately, but the ship must be accelerated during the
-a certain time $\Delta t$, using a constant force $F$, acting on the sail.
-(b) Expresses the force $F$ required to reach $v_0$, according to $\Delta t$.
-The light candles will use the radiation pressure of a laser beam emitted from Earth to generate
-The necessary momentum over the candle, much greater than that of solar radiation. To see how light can
-empujar una vela tienes que pensar que la luz está compuesta por partículas, los fotones, que tienen energía, $E$
-and linear momentum, $p$, although they have no mass, the ratio between them being $p = E/c$, where $c$ is the velocity of
-The light. It considers that the candle behaves like a perfect mirror (equivalent to a rigid wall) and that the
-photons affect the candle perpendicularly.
-c)
-Get the expression of the force applied to the sail by a large number of photons, $N$, during the
-time, $\Delta t$, in which the acceleration system, i.e. the laser, is active.
-Suppose the candle has dimensions of $4\times4\ \text{m}^2$, and the laser system illuminates it with an intensity
-de $6{,}25\ \text{GW/m}^2$.
-(d) Calculate the intensity of the light that hits the candle.
-e)
-¿Durante cuánto tiempo $\Delta t$ tendrá que estar encendido el sistema láser para conseguir impulsar la nave
-to next b as desired?
-Solar candles are made of very thin and durable materials, such as polymer
-The first is the capton, which is widely used in space applications and is stable to $400\ ^\circ\text{C}$, has a
-densidad de $1{,}42\ \text{g/cm}^3$, y un calor específico de $1090\ \text{J/kg·K}$. The Kapton must carry a coating of
-Multilayer that gives it great reflectivity, although a small part of the energy (about $10^{-11}$ times
-The resulting radiation is absorbed by heating the material. Consider that the sheet has a thickness of
-$0{,}05$ micras.
-f)
-Calculate the temperature increase of the candle during the time it is illuminated by the laser.
-Date: speed of light in vacuum $c = 3\times10^5$ km/s.
+P2. Journey to Proxima b.
 
-The Commission has also adopted a number of measures to combat fraud.
+Alpha Centauri is a stellar system composed of three stars, the smallest of which, Proxima Centauri, is a red dwarf and the star closest to the Sun, located at 4.25 light-years away. Proxima Centauri has at least one planet, Proxima b, discovered in 2016, which generated significant interest because it is similar in size to Earth and lies within the star's habitable zone, where liquid water could exist.
+
+With current technology, it would take on the order of 30,000 years to reach the Alpha Centauri stellar system. However, a recent proposal called Breakthrough Starshot¹, led by Zuckerberg and Hawking, suggests achieving this in 20 years using miniature spacecraft of a few grams' mass propelled by light sails. This technology still needs to be developed, but it appears to be an achievable milestone within a few years of research.
+
+Assume the spacecraft has a mass of $1{,}5$ g and, starting from rest, reaches a stable cruising speed of $v_0$, which it maintains for the 20 years of its journey.
+
+a)
+Calculate the velocity $v_0$, assuming it is achieved instantaneously.
+In reality, the velocity $v_0$ is not acquired instantly; instead, the spacecraft must be accelerated over a certain time interval $\Delta t$ using a constant force $F$ acting on the sail.
+
+b)
+Express the force $F$ required to achieve $v_0$, in terms of $\Delta t$.
+The light sails will use the radiation pressure from a laser beam emitted from Earth to generate the necessary thrust on the sail, much greater than that provided by solar radiation. To understand how light can push a sail, you must consider that light is composed of particles—photons—that possess energy, $E$ and linear momentum, $p$, even though they have no mass, with the relationship between them given by $p = E/c$, where $c$ is the speed of light. Assume that the sail behaves like a perfect mirror (equivalent to a rigid wall) and that photons strike the sail perpendicularly.
+
+c) Derive the expression for the force exerted on the sail by a large number of photons, $N$, during the time interval, $\Delta t$, while the acceleration system—i.e., the laser—is active.
+Assume that the sail has dimensions $4\times4\ \text{m}^2$, and that the laser system illuminates it with an intensity of $6{,}25\ \text{GW/m}^2$.
+
+d) Calculate the power of light incident on the sail.
+
+e) For how long, $\Delta t$, must the laser system remain active to accelerate the spacecraft to Proxima b as desired?
+Solar sails are made of very thin and strong materials, such as the polymer known as Kapton, widely used in space applications, which is stable up to $400\ ^\circ\text{C}$, has a density of $1{,}42\ \text{g/cm}^3$, and a specific heat capacity of $1090\ \text{J/kg·K}$. Kapton must have a multilayer coating that provides high reflectivity, although a small portion of the energy (approximately $10^{-11}$ times the incident radiation) will be absorbed, heating the material. Consider that the sheet has a thickness of $0{,}05$ micrometers.
+
+f) Calculate the temperature increase of the sail during the time it is illuminated by the laser.
+Given: speed of light in vacuum $c = 3\times10^5$ km/s.
+
+1 https://breakthroughinitiatives.org/initiative/3
 
 P2. Solution
-a)
-The distance between Proxima b and Earth is 4.25 light years, and the time of travel from Earth must be
-20 years, so the speed at which the ship moves (constant assumption) is
+a) The distance between Proxima b and Earth is 4.25 light-years, and the travel time from Earth must be 20 years; thus, the velocity at which the spacecraft moves (assumed constant) is
 
 $$v_0 = \frac{4{,}25}{20}c \quad\to\quad v_0 = 0{,}21c.$$
-
 (1)
-(b) In uniformly accelerated motion starting from rest we can obtain acceleration from
-the change of speed at a given time interval,
+
+b) In uniformly accelerated motion starting from rest, we can obtain the acceleration from the change in velocity over a given time interval:
 
 $$a = \frac{\Delta v}{\Delta t} = \frac{v_0 - 0}{\Delta t} = \frac{0{,}21c}{\Delta t},$$
-
 (2)
-So the force expressed in SI units is as
+
+so that the force expressed in SI units becomes
 
 $$F = m\cdot a = 1{,}5\times10^{-3}\,\frac{0{,}21\times3\times10^8}{\Delta t} \quad\to\quad F = \frac{94500}{\Delta t}.$$
 (3)
-c)
-We can calculate the force from the linear momentum transferred by the photon to the sail mirror,
+
+c) We can calculate the force from the linear momentum transferred by the photon to the solar sail,
+
 $N$, $\Delta p$,
 
 $$F = \frac{\Delta p}{\Delta t}.$$
 
-(4)
-Como cada fotón incide con momento $p$ y se refleja con el mismo momento en sentido contrario, el
-The momentum transferred by the photon is $2p$, so we can calculate the mean force produced by the photon
-choque de $N$ fotones como
+(4) Since each photon strikes with momentum $p$ and reflects back with the same magnitude of momentum in the opposite direction, the momentum transferred by the photon is $2p$; thus, we can calculate the average force produced by the collision of $N$ photons as
 
 $$F = \frac{N\cdot 2p}{\Delta t},$$
 
 (5)
-and, taking into account the $p = E/c$ ratio,
+and, taking into account the relation $p = E/c$, we obtain
 
 $$F = \frac{2NE}{c\Delta t}.$$
 
 (6)
-This calculation would not be correct if there were only one particle, but since there are $N$ particles that collide with
-The candle during the time $\Delta t$ in which the laser is active, we can calculate the average force on the
-And then you're going to look at it all the time, in a similar way to the way you do in the study of molecular pressure.
-of a gas on the wall of the container containing it.
-(d) The power collected by the candle can be calculated as the product of the light intensity multiplied by the
-by the surface of the candle,
+This calculation would not be correct if there were only a single particle, but since $N$ particles collide with the sail during the time $\Delta t$ that the laser is active, we can compute the average force on the sail over the entire duration, similarly to how pressure from gas molecules is calculated in a container wall.
 
-$$P = I\cdot A = 6{,}25\times4\times4\ \text{GW} \quad\to\quad P = 100\ \text{GW}.$$
-(7)
-e)
-From the power that affects the candle, we can get the energy received in time $\Delta t$ that
-The laser is activated by the impact of $N$ photons,
+(d) The power collected by the sail can be computed as the product of the light intensity multiplied by the area of the sail,
+
+$$P = I\cdot A = 6{,}25\times4\times4\ \text{GW} \quad\to\quad P = 100\ \text{GW}.$$ (7)
+
+(e)
+From the power incident on the sail, we can determine the energy received during the time $\Delta t$ that the laser is active due to collisions with the $N$ photons,
 
 $$NE = P\Delta t,$$
 
@@ -847,29 +822,28 @@ $$F = \frac{2P}{c} = \frac{2\times10^{11}}{3\times10^8} = 667\ \text{N}.$$
 
 (9)
 
-Therefore, the $\Delta t$ time the laser must be on is obtained from equation (3),
+Therefore, the time $\Delta t$ that the laser must be turned on is obtained from equation (3),
 
 $$\Delta t = \frac{94500}{F} = \frac{94500}{667} \quad\to\quad \Delta t = 142\ \text{s}.$$
 
 (10)
-f)
-The temperature variation of Kapton sheet is proportional to the heat, $Q$, absorbed by it,
+
+(f) The temperature change of the Kapton film is proportional to the heat, $Q$, absorbed by it,
 
 $$\Delta T = \frac{Q}{mc_e},$$
 
 (11)
-where $m$ is the mass of the candle and $c_e$ the specific heat of the material. The mass of the candle can be obtained from
-from the density $\rho$ of Kapton, the thickness $d$ and the surface $A$,
+where $m$ is the mass of the candle and $c_e$ is the specific heat capacity of the material. The mass of the candle can be obtained from the density $\rho$ of Kapton, its thickness $d$, and its surface area $A$,
 
 $$m = \rho A d.$$
 
 (12)
-The heat absorbed by the material shall be
+The heat absorbed by the material will be
 
 $$Q = 10^{-11}P\Delta t.$$
 
 (13)
-By entering (12) and (13) in (11) we get
+Substituting (12) and (13) into (11), we obtain
 
 $$\Delta T = \frac{10^{-11}P\Delta t}{\rho A d c_e} = \frac{10^{-11}\times10^{11}\times142}{1{,}42\times10^3\times4\times4\times0{,}05\times10^{-6}\times1090},$$
 
@@ -877,17 +851,7 @@ $$\Delta T = 115\ \text{K} = 115\ ^\circ\text{C}.$$
 
 (11)
 
-The technology available today does not allow the production of such thin Kapton sheets or the
-the creation of coatings with a reflectivity as high as those indicated in the financial year. These
-The requirements, along with other challenges inherent in the Breakthrough Starshot mission, pose a formidable
-The European Union is a world leader in the field of science and technology. This challenge will be addressed in the coming decades, and it is likely that the
-Some of the participants in this Physics Olympiad contribute to advances in this field.
-
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Photon (object)|Photon]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1eNgr-xjyYDdb9Xk2r04cIKobNQ14mBXm/view)
+Currently, available technology does not allow the production of Kapton sheets as thin as those indicated in the problem, nor the creation of coatings with such high reflectance. These requirements, along with other challenges inherent to the Breakthrough Starshot mission, present a formidable scientific and technological challenge. This challenge will be addressed in the coming decades, and it is likely that some of the participants in this Physics Olympiad will contribute to advances in this field.
 
 
 
@@ -1295,121 +1259,85 @@ $$F(x = 0) = \frac{q(V_p - V_0)}{\lambda} \quad\to\quad F(x = 0) = 3{,}52\times1
 <div class="qlang-split" data-lang="en"></div>
 
 P3. Physical model of a neuron.
-On 25 October 2023, a new building was opened at Paraninfo, University of Zaragoza.
-new permanent exhibition space dedicated to the figure of Santiago Ramón y Cajal, Nobel Prize winner of the Nobel Prize in Literature
-Medicine in 1906, in recognition of his work on the structure of the nervous system. The neuron
-It is the basic element of the nervous system (Fig. 1). The impulse is transmitted through the axon.
-It's nerve-wracking from the cell body to the axon terminals.
-We can think of the axon as a cylinder surrounded by the
-cell membrane and filling by axoplasm, which is a dissolving of
-The water is a source of water for the production of hydrocarbons. The exterior of the
-The axon membrane is also surrounded by a solution with different
-concentrations of the same ions. In the membrane there is a set of
-channels that allow or block the passage of ions and proteins
-So-called sodium-potassium pumps, which extract sodium and introduce potassium,
-The Commission has already established that the Commission is not in a position to adopt a decision on the basis of the information provided by the Commission.
-When the neuron is at rest, the inner wall of the membrane
-Cell phone is negatively charged and the outer wall is charged.
-positive, with a difference in electrostatic potential
-$$V_0 = -70\ \text{mV}$$
-relative to the outer membrane. In this situation of rest, the
-concentration of Na+ and K+ ions inside and outside the
-The membrane is the one shown in Table 1.
-In addition to the effect on ions of the electrostatic potential, the
-The difference in the concentration of each ion between the inside and the outside tends to be
-to be equal across the membrane. This effect can be expressed by a potential $V_X$, which is
-The resulting X ion, called the Nerst potential, is determined by the
+
+On October 25, 2023, a new permanent exhibition space dedicated to Santiago Ramón y Cajal, Nobel Prize in Medicine awarded in 1906 for his work on the structure of the nervous system, was inaugurated in the Paraninfo building of the University of Zaragoza. The neuron constitutes the fundamental unit of the nervous system (Fig. 1). The nerve impulse is transmitted along the axon from the cell body to the axonal terminals.
+
+We can consider the axon as a cylinder surrounded by the cellular membrane and filled with axoplasm, which is an aqueous solution of various ions, including Na+ and K+. The exterior of the axon's membrane is also surrounded by a solution with different concentrations of these same ions. The membrane contains a set of ion channels that allow or block the passage of ions, as well as proteins known as sodium-potassium pumps, which actively export sodium and import potassium at the cost of metabolic energy.
+
+When the neuron is at rest, the inner wall of the cellular membrane carries a negative charge and the outer wall carries a positive charge, resulting in an electrostatic potential difference $$V_0 = -70\ \text{mV}$$ relative to the outside of the membrane. Under this resting condition, the concentrations of Na+ and K+ ions inside and outside the membrane are as shown in Table 1.
+In addition to the effect on ions due to the electrostatic potential, differences in concentration of each ion between the inside and outside tend to equalize across the membrane. This effect can be expressed through a potential $V_X$, to which ion X is subjected, known as the Nernst potential, determined by
 
 $$V_X = \frac{RT}{eN_A}\ln\frac{[X]_\text{ext}}{[X]_\text{int}},$$
 
 (1)
-with $R$ the ideal gas constant, $T$ the temperature, $e$ the elementary load unit, $N_A$ the number of
-Avogadro, and $[X]_\text{int}$ and $[X]_\text{ext}$ the X-ion concentrations in the inner and outer cell membrane,
-the Commission.
-The 'duel' between the electrical interaction and the concentration gradient of both ions between the interior
-and the cell surface result in a different potential difference $V_X^\text{eff}$, called effective potential,
-for each X ion, given by
+where $R$ is the ideal gas constant, $T$ is the temperature, $e$ is the elementary charge unit, $N_A$ is Avogadro's number, and $[X]_\text{int}$ and $[X]_\text{ext}$ are the concentrations of ion X inside and outside the cell membrane, respectively.
+
+The "duel" between electrical interaction and concentration gradient for both ions across the inside and outside of the cell results in a potential difference $V_X^\text{eff}$, known as the effective potential, which differs for each ion X and is given by
 
 $$V_X^\text{eff} = V_X - V_0.$$
 
 (2)
-a)
-The effective potential is calculated using the concentrations of Na+ and K+ ions shown in Table 1.
-for each ion. What effect will this effective potential produce on each ion on both sides of the membrane?
-It considers that a K+ ion passes from the inside to the outside of the membrane without experiencing any type of
-The axis of the axis of the axis shall be the axis of the axis of the axis of the axis of the axis.
-(b) Determines the velocity of the K+ ion when it leaves the cell membrane.
-c)
-How long does it take the K+ ion to travel through the axon radius?
 
-| Ion | Concentración $(\text{mol/m}^3)$ Interior | Concentración $(\text{mol/m}^3)$ Exterior |
+a) Using the concentrations of Na+ and K+ ions shown in Table 1, calculate the effective potential for each ion. What effect will this effective potential have on each ion on both sides of the membrane?
+
+Consider that a K+ ion moves from inside to outside the cell membrane without experiencing any friction, starting from rest at a point on the axon's axis.
+
+b) Determine the velocity of the K+ ion as it exits the cell membrane.
+
+c) How long does it take for the K+ ion to traverse the radius of the axon?
+
+| Ion | Concentration $(\text{mol/m}^3)$ Inside | Concentration $(\text{mol/m}^3)$ Outside |
 | --- | --- | --- |
 | Na+ | 15 | 145 |
 | K+ | 150 | 5 |
 
-The following table shows the following:
+Table 1
 
 Figure 1
 
-When a nerve stimulus reaches an axon point (which we take as $x = 0$), the difference in
-The potential of the membrane at that point increases to $V_p = +40$ mV. This potential difference is decreasing
-with the distance along the axis until the resting potential $V_0$ is reached due to two effects: current
-which is lost through the membrane due to permanently open ion channels, characterized by
-the so-called conductivity per unit area, $g_m \approx 0{,}01\ \text{k}\Omega^{-1}\text{cm}^{-2}$; and a resistance along the axon due
-The axoplasm, $R_L$, which is directly proportional to the intracellular fluid resistivity, $\rho_a$, at the length
-The axis, $L_a$, and inversely proportional to the cross section of the axis, $S_a$.
-(d) Write the expression of the electrical resistance $R_L$ in terms of $\rho_a$, $L_a$ and axon radius. Calculate your
-the numerical value.
-It is possible to express the potential difference along the axon as λ
+When a nervous stimulus reaches a point on the axon (which we take as $x = 0$), the membrane potential at that point increases up to $V_p = +40$ mV. This potential difference decreases along the axon until reaching the resting potential $V_0$ due to two effects: current leakage through the membrane caused by permanently open ion channels, characterized by a quantity known as specific conductance per unit area, $g_m \approx 0{,}01\ \text{k}\Omega^{-1}\text{cm}^{-2}$; and axial resistance along the axon due to the axoplasm, $R_L$, which is directly proportional to the intracellular fluid resistivity, $\rho_a$, to the axon length, $L_a$, and inversely proportional to the cross-sectional area of the axon, $S_a$.
+
+d) Write the expression for the electrical resistance $R_L$ in terms of $\rho_a$, $L_a$ and the axon radius. Calculate its numerical value.
+
+It is possible to express the potential difference along the axon as a function of λ:
 
 $$V(x) = (V_p - V_0)e^{-x/\lambda},$$
 
 (3)
-where $\lambda = 1/\sqrt{g_m R_L}$ is called 'spatial parameter', and indicates the distance travelled by a current
-electrical to a weak stimulus before most of it is lost through the membrane.
+where $\lambda = 1/\sqrt{g_m R_L}$ is called the "spatial parameter", and indicates the distance a current travels before most of it leaks out through the membrane under a weak stimulus.
+
 e)
-Get the value of the spatial parameter $\lambda$.
+Determine the value of the spatial parameter $\lambda$.
+
 f)
-Calculates the work done on a Na+ ion to move it from $x = 0$ to a distance
-$x_m = 0{,}2$ cm.
+Calculate the work done on a Na⁺ ion to transport it from $x = 0$ to a distance of $x_m = 0{,}2$ cm.
+
 g)
-Get the expression in $x$ of the electrical force acting on a load $q$ along the axon
-The value of the underlying asset is the sum of the underlying asset's assets.
-Assistance: Be $f(x) = a\cdot e^{b\cdot x}$ with $a$ and $b$ constants, then $\dfrac{df(x)}{dx} = a\cdot b\cdot e^{b\cdot x}$.
-(h) Calculates the value of the force acting in the direction of the axis of the axon on the Na+ ion located at the
-posición $x = 0$.
+Derive the expression, in terms of $x$, for the electric force acting on a charge $q$ along the axon, based on the derivative (gradient) of the potential.
 
-The data:
-•
-The ideal gas constant is $R = 8{,}31\ \text{J mol}^{-1}\text{K}^{-1}$
-•
-Human body temperature: $T_\text{cuerpo} = 37\ ^\circ\text{C}$
-•
-Unidad de carga elemental: $1e = 1{,}602\times10^{-19}$ C.
-•
-Avogadro number: $N_A = 6{,}022\times10^{23}\ \text{mol}^{-1}$
-•
-The axis diameter is $D_A = 10\ \mu\text{m}$.
-•
-Masas atómicas: $m(\text{Na}) = 23\,\text{u}$, $m(\text{K}) = 39\,\text{u}$.
-•
-The atomic mass unit is $1\,\text{u} = 1{,}66\times10^{-27}$ kg.
-•
-Resistivity of intracellular fluid: $\rho_a = 60\ \Omega$ cm.
-•
-The axle length: $L_a = 5$ mm.
+Hint: Let $f(x) = a\cdot e^{b\cdot x}$ with $a$ and $b$ constants, then $\dfrac{df(x)}{dx} = a\cdot b\cdot e^{b\cdot x}$.
 
-P3. Solution
-a)
-With the expression (1), we calculate the Nerst potential for each ion:
+h)
+Calculate the value of the force acting along the axis of the axon on a Na⁺ ion located at position $x = 0$.
 
-$$V_{K^+} = \frac{RT}{eN_A}\ln\frac{[K^+]_\text{ext}}{[K^+]_\text{int}} = \frac{8{,}31\times310{,}15}{1{,}602\times10^{-19}\times6{,}022\times10^{23}}\ln\left(\frac{5}{150}\right) = -91\ \text{mV},$$
-(4)
+Given data:
+• Ideal gas constant: $R = 8{,}31\ \text{J mol}^{-1}\text{K}^{-1}$
+• Human body temperature: $T_\text{cuerpo} = 37\ ^\circ\text{C}$
+• Elementary charge unit: $1e = 1{,}602\times10^{-19}$ C
+• Avogadro's number: $N_A = 6{,}022\times10^{23}\ \text{mol}^{-1}$
+• Axon diameter: $D_A = 10\ \mu\text{m}$
+• Atomic masses: $m(\text{Na}) = 23\,\text{u}$, $m(\text{K}) = 39\,\text{u}$
+• Atomic mass unit: $1\,\text{u} = 1{,}66\times10^{-27}$ kg
+• Intracellular fluid resistivity: $\rho_a = 60\ \Omega$ cm
+• Axon length: $L_a = 5$ mm
 
-$$V_{Na^+} = \frac{RT}{eN_A}\ln\frac{[Na^+]_\text{ext}}{[Na^+]_\text{int}} = \frac{8{,}31\times310{,}15}{1{,}602\times10^{-19}\times6{,}022\times10^{23}}\ln\left(\frac{145}{15}\right) = 61\ \text{mV}.$$
-(5)
-Substituting the Nerst potential in the expression (2) and taking into account that the potential at rest is
-$V_0 = -70\ \text{mV}$, we get the effective potential for each ion:
+P3. Solution a)
+Using expression (1), we compute the Nernst potential for each ion:
+
+$$V_{K^+} = \frac{RT}{eN_A}\ln\frac{[K^+]_\text{ext}}{[K^+]_\text{int}} = \frac{8{,}31\times310{,}15}{1{,}602\times10^{-19}\times6{,}022\times10^{23}}\ln\left(\frac{5}{150}\right) = -91\ \text{mV},$$ (4)
+
+$$V_{Na^+} = \frac{RT}{eN_A}\ln\frac{[Na^+]_\text{ext}}{[Na^+]_\text{int}} = \frac{8{,}31\times310{,}15}{1{,}602\times10^{-19}\times6{,}022\times10^{23}}\ln\left(\frac{145}{15}\right) = 61\ \text{mV}.$$ (5)
+Substituting the Nernst potential into expression (2), and considering that the resting potential is $V_0 = -70\ \text{mV}$, we obtain the effective potential for each ion:
 
 $$V_{K^+}^\text{eff} = 21\ \text{mV},$$
 
@@ -1418,62 +1346,50 @@ $$V_{K^+}^\text{eff} = 21\ \text{mV},$$
 $$V_{Na^+}^\text{eff} = -131\ \text{mV}.$$
 
 (7)
-Since the effective potential for K+ is positive, K+ ions will experience a force that tends to
-Get them out of the cell. The situation is the opposite for the Na+ as the actual potential is negative.
-Na+ ions tend to enter the cell. When the ion channels are opened, there will be a flow
-K+ ions out and a flow of Na+ ions in.
-(b) Inside the cell, the K+ ion is at rest and therefore has only potential energy,
-$E_{p,\text{int}} = qV_{K^+}^\text{eff}$. However, outside the cell the potential is zero, so all the energy
-the initial potential has been converted to kinetic energy:
+Since the effective potential for K⁺ is positive, K⁺ ions will experience a force tending to expel them from the cell. In contrast, for Na⁺ ions, the situation is reversed because the effective potential is negative; thus, Na⁺ ions tend to enter the cell. When ion channels open, there will be an outward flow of K⁺ ions and an inward flow of Na⁺ ions.
+
+b) Inside the cell, the K⁺ ion is at rest and therefore possesses only potential energy,
+$E_{p,\text{int}} = qV_{K^+}^\text{eff}$. However, outside the cell, the potential is zero; thus, all of the initial potential energy will have been converted into kinetic energy:
 
 $$E_{p,\text{int}} = E_{c,\text{ext}} \quad\to\quad qV_{K^+}^\text{eff} = \frac{1}{2}mv^2,$$
 
 (8)
 
-$$v = \sqrt{\frac{2qV_{K^+}^\text{eff}}{m}} = \sqrt{\frac{2\times1{,}602\times10^{-19}\times0{,}021}{39\times1{,}66\times10^{-27}}} \quad\to\quad v = 322{,}4\ \text{m/s}.$$
-(9)
-c)
-When subjected to electrical force, the K+ ion describes an MRUA in which the velocity and the
-The distance travelled (radius $r_a$ of the axon) can be expressed as follows:
+$$v = \sqrt{\frac{2qV_{K^+}^\text{eff}}{m}} = \sqrt{\frac{2\times1{,}602\times10^{-19}\times0{,}021}{39\times1{,}66\times10^{-27}}} \quad\to\quad v = 322{,}4\ \text{m/s}.$$ (9)
+c) Subjected to the electric force, the K⁺ ion undergoes uniformly accelerated rectilinear motion (MRUA), in which velocity and distance traveled (the radius $r_a$ of the axon) can be expressed as follows:
 
-$$\left.\begin{aligned} v &= at \\ r_a &= \tfrac{1}{2}at^2 \end{aligned}\right\} \to t = \frac{2r_a}{v} = \frac{2\times5\times10^{-6}}{322{,}4} \quad\to\quad t = 31\ \text{ns}.$$
-(10)
-(d) We can express the electrical resistance as:
+$$\left.\begin{aligned} v &= at \\ r_a &= \tfrac{1}{2}at^2 \end{aligned}\right\} \to t = \frac{2r_a}{v} = \frac{2\times5\times10^{-6}}{322{,}4} \quad\to\quad t = 31\ \text{ns}.$$ (10)
+d) We may express the electrical resistance as:
 
 $$R_L = \rho_a\frac{L_a}{S_a}.$$
 
 (11)
-Considering that the axis is a cylinder, the cross section depending on the axis radius will come
-given by $S_a = \pi r_a^2$. So, what?
+Assuming the axon is a cylinder, the cross-sectional area as a function of the axon's radius is given by $S_a = \pi r_a^2$. Therefore,
 
 $$R_L = \rho_a\frac{L_a}{\pi r_a^2}.$$
 
 (12)
-
-Substituting the values of the problem data in (12)
+Substituting the values from the problem data into (12):
 
 $$R_L = 3{,}8\times10^7\ \Omega = 38\ \text{M}\Omega.$$
 
 (13)
-e)
-Substituting the values of $R_L$ and $g_m$ in the expression $\lambda = 1/\sqrt{g_m R_L}$ is obtained
+e) Substituting into expression $\lambda = 1/\sqrt{g_m R_L}$ the values of $R_L$ and $g_m$ yields:
 
 $$\lambda = 0{,}05\ \text{cm}.$$
 
 (14)
-f)
-The work done on a Na+ ion to move it from $x = 0$ to $x_m = 0{,}2$ cm will be given by
+f) The work done on a Na⁺ ion to transport it from $x = 0$ to $x_m = 0{,}2$ cm is given by:
 
 $$W = -q[V(x_m)-V(0)] = q(V_p - V_0)(1-e^{-x_m/\lambda}) \quad\to\quad W = 1{,}73\times10^{-20}\ \text{J}.$$
 
 (15)
-g)
-We get the expression of the electrical force from the derivative of the potential,
+g) We obtain the expression for the electric force from the derivative of the potential,
 
 $$F(x) = qE(x) = -q\frac{dV(x)}{dx} \quad\to\quad F(x) = \frac{q(V_p - V_0)}{\lambda}e^{-x/\lambda}.$$
 
 (16)
-(h) Substituting $x = 0$ in the expression (16),
+h) Substituting $x = 0$ into expression (16),
 
 $$F(x = 0) = \frac{q(V_p - V_0)}{\lambda} \quad\to\quad F(x = 0) = 3{,}52\times10^{-17}\ \text{N}.$$
 
@@ -1481,11 +1397,5 @@ $$F(x = 0) = \frac{q(V_p - V_0)}{\lambda} \quad\to\quad F(x = 0) = 3{,}52\times1
 
 <!--fig:start-->
 ![[_attachments/2024 35 OAF 2024 PRUEBA TEORICA/2024 35 OAF 2024 PRUEBA TEORICA_p8_f5.png]]
-*illustrazione anatomia neurone*
+*anatomical illustration of a neuron*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Circuits]], [[Newtonian Mechanics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Differential Equations (metodo)|Differential Equations]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Membrane (object)|Membrane]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1eNgr-xjyYDdb9Xk2r04cIKobNQ14mBXm/view)

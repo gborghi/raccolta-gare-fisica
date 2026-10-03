@@ -13,6 +13,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2025 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/cylinder"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
+
 **T1: Sunny (10 pts)**
 
 You are asked to study the features of the brightly lit circle and dark rings in the figures below. Make your calculations for an idealized situation: the chair leg is strictly cylindrical of radius $a$, strictly vertical, with a perfectly smooth, cylindrical, and perfectly reflecting surface. You may make any additional model assumptions and approximations you deem reasonable that will simplify your calculations.
@@ -38,8 +42,34 @@ b) (5 pts) In the following figure some fingers are blocking some of the light f
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**T1: Sunny (10 punti)**
+
+Ti viene chiesto di studiare le caratteristiche del cerchio luminoso e degli anelli scuri nelle figure seguenti. Esegui i calcoli per una situazione idealizzata: la gamba della sedia è rigorosamente cilindrica di raggio $a$, rigorosamente verticale, con una superficie perfettamente liscia, cilindrica e perfettamente riflettente. Puoi fare qualsiasi ulteriore ipotesi di modello e approssimazione che ritieni ragionevole e che semplificherà i tuoi calcoli.
+
+a) (5 punti) Determina come il surplus di illuminamento $I(r,\theta)$ all'interno del cerchio luminoso sul pavimento dipende dalle coordinate polari $r \gg a$ e $\theta$. L'illuminamento quantifica la quantità di luce incidente per area. Per "surplus" intendiamo l'illuminamento aggiuntivo introdotto a causa della presenza del cilindro. Esprimi la risposta in termini di $I_0$ definito come la differenza di illuminamento tra i punti A e B nella figura.
+
+b) (5 punti) Nella figura seguente alcune dita bloccano parte della luce che raggiunge la gamba della sedia. Sia $R(\theta)$ la distanza radiale dell'anello scuro centrale in funzione dell'angolo $\theta$ e sia $R_{\min}$ il valore minimo di $R(\theta)$. Determina $R(\theta) - R_{\min}$.
+
+<!--fig:start-->
+![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f1.png]]
+*Brightly lit circle and dark rings around chair leg*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f2.png]]
+*Fingers blocking light, dark ring R(θ)*
+<!--fig:end-->
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2025 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 **T2: Floating table (10 pts)**
 
@@ -64,8 +94,32 @@ The masses of the chains and the frame can be neglected. The chains are friction
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**T2: Tavolo flottante (10 punti)**
+
+Un tavolo è realizzato fissando un telaio metallico a una lastra massiccia omogenea (in modo che formino un corpo rigido) e collegandolo con catene a un altro telaio fissato al suolo orizzontale. Il moto del tavolo è limitato al piano della vista laterale (figura a destra).
+
+a) (4 punti) Mostrare che nella configurazione della vista laterale, il tavolo è in equilibrio stabile.
+
+b) (6 punti) Trovare il periodo $T$ delle piccole oscillazioni.
+
+Le masse delle catene e del telaio possono essere trascurate. Le catene sono prive di attrito, inestensibili e rimangono in tensione durante le oscillazioni. Il passo della griglia è $a = 0.100$ m, l'accelerazione di gravità $g = 9.81$ m/s$^2$.
+
+<!--fig:start-->
+![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f3.png]]
+*Floating table with chains, side view diagram*
+<!--fig:end-->
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2025 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/magnetism,topic/electromagnetism,argomento/meccanica,object/wire"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 **T3: Crossed wires (10 pts)**
 
@@ -86,4 +140,22 @@ c) (4 pts) Let $L$ be the length of this field line between P and its point of c
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1wtSbzc8AVx7cWl_qYUiIxoYuUTkyDV-l/view)
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**T3: Fili incrociati (10 punti)**
+
+a) (1 punto) Una corrente scorre attraverso un filo infinito, rettilineo e sottile. È presente un campo magnetico uniforme imposto dall'esterno, diretto parallelamente al filo. Disegna qualitativamente una delle linee del campo magnetico.
+
+b) (5 punti) Considera ora due fili infiniti, rettilinei e sottili (fili $X$ e $Y$), ciascuno percorso da una corrente $I$ come mostrato in figura. L'asse $x$ coincide con il filo $X$, mentre il filo $Y$ è parallelo all'asse $y$ e passa per il punto $(0, 0, -a)$. Sia P il punto $(3a, 0, r)$. Assumendo $r \ll a$, calcola $d$, la distanza di massimo avvicinamento della linea del campo magnetico che passa per P al filo $X$.
+
+<!--fig:start-->
+![[_attachments/EuPhO_2025_theory/EuPhO_2025_theory_p1_f4.png]]
+*Two crossed current-carrying wires X and Y with point P*
+<!--fig:end-->
+
+c) (4 punti) Sia $L$ la lunghezza di questa linea di campo tra P e il suo punto di massimo avvicinamento al filo $X$. Usando i valori $a = 10$ cm e $r = 1.0$ mm, calcola $L$ con un errore relativo entro il 20%.
+
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1YX6XKs1Ou7I9pAhUtxy0_lZESabvUXKQ/view)

@@ -352,166 +352,100 @@ Prova selettiva 2005
 
 <div class="qlang-split" data-lang="en"></div>
 
-The 21st Colombian Olympics in Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-1. Don't open this brochure, make it not pointed out to you.
-2. The tests are labeled with the name of the participant, however, it fills in the information
-requested in the allocated spaces. Don't write about the barcode.
-2. This is a test of general physics knowledge at the high school level. Its results will not be used to classify schools, its main purpose is to motivate the study of physics
-And discover students who are especially gifted for this subject.
-3. You have two hours to solve the test.
-4. Use during the test is valid for calculators, calculation rules, trigonometric tables
-and logarithms, writing instruments and blank sheets. No notes allowed
-class, books or consultations with other students or teachers.
-5. Make your preliminary calculations on a separate sheet, and record in the space assigned to
-Every problem you have. I think it's necessary.
-6. Take where gravity is necessary the value $10\ \text{m/s}^2$, water density
-$1\cdot10^3\ \text{kg}\cdot\text{m}^{-3}$ y presión atmosférica $1\cdot10^5$ Pa.
-7. The qualifying jury reserves the right not to consider solutions confusing or illegible.
-8. The Organizing Committee reserves the right to reexamine any student before
-Accept your score as an officer.
-The 21st Colombian Olympics in Physics
-Selective testing
-9 September 2005
-Other articles
-The following is the list of the categories of products:
-- What ?
-School
-The Commission has also adopted a proposal for a regulation on the
-Telephone
+XXI Colombian Physics Olympiad
+GENERAL INSTRUCTIONS
+
+1. DO NOT OPEN THIS BULLETIN UNTIL YOU ARE INSTRUCTED TO DO SO.
+2. The test papers are labeled with the participant's name, but please fill in the requested information in the designated spaces. DO NOT WRITE ON THE BARCODE.
+3. This is a general physics knowledge test at the secondary school level. Your results will not be used to rank schools; its main purpose is to encourage the study of physics and identify students especially gifted in this subject.
+4. You have 2 hours to complete the test.
+5. During the exam, you may use calculators, slide rules, trigonometric and logarithmic tables, writing instruments, and blank sheets of paper. Class notes, textbooks, or communication with other students or teachers are not permitted.
+6. Perform your preliminary calculations on a separate sheet, and record in the space provided for each problem what you consider necessary.
+7. Use $10\ \text{m/s}^2$ for the acceleration due to gravity, $1\cdot10^3\ \text{kg}\cdot\text{m}^{-3}$ for the density of water, and $1\cdot10^5$ Pa for atmospheric pressure where needed.
+8. The grading committee reserves the right not to accept unclear or illegible solutions.
+9. The Organizing Committee reserves the right to re-examine any student before accepting their score as official.
+
+XXI COLOMBIAN PHYSICS OLYMPIAD
+Selection Test
+September 9, 2005
+
+LAST NAME
+FIRST NAME
+GRADE:
+SCHOOL
+PERSONAL ADDRESS
+PHONE NUMBER
 CITY
+
 ¡I M P O R T A N T E!
-I certify with my signature that this is my personal work and I have not received any outside collaboration.
-Signature of the participant
-Don't write it here.
+By my signature, I certify that this is my personal work and that I received no external assistance.
+Participant's signature
+Do not write here
 
-Selective test 2005
-Proposed problems
-1) A duck is in the middle of a circular pond, in calm water.
-Unfortunately, there's a whore on the shore stalking him. To lift the flight
-Duck must be on land, because from water he cannot do it. If the speed
-The duck in the water is equal to 1 m/s determine the minimum speed that must be
-To catch the fox to catch the bird safely, knowing that the fox does not
-You can get into the water.
+Selective Test 2005
+Proposed Problems
 
-The 21st Colombian Olympics in Physics
-2) The attached graph shows 4 different straight lines.
-Complete the table below, writing for each movement, the total time of the
-The total movement (t), total movement (x), final speed ($v_f$) and
-the acceleration (a).
-t, s
-v, m/s
-1
-1
-2
-2
-3
-3
-4
-4
-5
-5
-6
-6
-7
-7
-8
-8
-9
-9
-10
-10
-I
-II
-The Commission shall adopt implementing acts.
-IV
-I
-II
-The Commission shall adopt implementing acts.
-IV
-t, s
-x, m
-$v_f$, m/s
-$a$, m/s$^2$
+1) A duck is located at the center of a circular pond, in calm water. Unfortunately, a fox is waiting on the shore, watching it. In order to take flight, the duck must be on land, as it cannot do so from water. If the duck's speed in water is 1 m/s, determine the minimum speed the fox must achieve to safely catch the duck, knowing that the fox cannot enter the water.
 
-Selective test 2005
-3) An aircraft to take off must reach a speed of 252 km/h. Determine
-the time required and the average acceleration if the track length is 980 m.
-(b) Calculation of the acceleration
-(a) Calculation of time
+XXI Colombian Physics Olympiad
 
-The 21st Colombian Olympics in Physics
-4) A helicopter at a certain height starts at
-descender verticalmente con aceleración $0{,}2\ \text{m/s}^2$. Their
-The length of the aspas is 5 m and they perform 300 rpm
-(Revolutiones per minute)
-(a) Determine the number of turns made by the sweepers while the
-Helicopter descends 40 m.
-- **B.** Calculate the linear velocity of the ends of the axles.
-- **C.** Calculate the centrifugal acceleration of the end of the axles.
+2) The attached graph shows four different rectilinear motions.
+Complete the table below by writing for each motion: the total time of motion (t), the total displacement (x), the final velocity ($v_f$), and the acceleration (a).
 
-Selective test 2005
-5) What force must the person apply to the box shown in the figure in order to
-Didn't you slip? The weight of the box is 200 N and the coefficient of friction with the plane
-es $\dfrac{\sqrt{3}}{6}$.
+t, s  | v, m/s
+1     | 1
+2     | 2
+3     | 3
+4     | 4
+5     | 5
+6     | 6
+7     | 7
+8     | 8
+9     | 9
+10    | 10
+
+I     II    III   IV
+I     II    III   IV
+
+t, s  | x, m  | $v_f$, m/s | $a$, m/s $^2$
+
+Selective Test 2005
+
+3) An airplane must reach a speed of 252 km/h to take off. Determine how much time it requires and the average acceleration, given that the runway length is 980 m.
+b) Calculation of acceleration
+a) Calculation of time
+
+XXI Colombian Physics Olympiad
+4) A helicopter initially at a certain height begins to descend vertically with acceleration $0{,}2\ \text{m/s}^2$. Its blades have a length of 5 m and rotate at 300 rpm (revolutions per minute).
+a) Determine the number of revolutions the blades have made while the helicopter descends 40 m.
+- **B.** Calculate the linear speed of the blade tips.
+- **C.** Calculate the centripetal acceleration at the tip of the blades.
+
+Selective Exam 2005
+5) What force must the person apply to the box shown in the figure so that it does not slip? The weight of the box is 200 N and the coefficient of friction with the plane is $\dfrac{\sqrt{3}}{6}$.
 
 $30^\circ$
 
-The 21st Colombian Olympics in Physics
-6) On a straight track a train moves at a speed of 20 m/s. Un
-A student on a plank moving at a rate of 25 m/s throws towards the train one
-ball with a speed of 10 m/s with respect to it (i.e. 35 m/s with respect to the ball
-floor). The ball hits the last carriage and bounces back elastically. How fast?
-You see the student approaching the ball after the rebound? (Does the effect disregard
-gravity, which means the ball doesn't come down.)
+XXI Colombian Physics Olympiad
+6) Along a straight trajectory, a train moves at 20 m/s. A student on a skateboard moving at 25 m/s throws a ball toward the train with a speed of 10 m/s relative to himself (i.e., 35 m/s relative to the ground). The ball hits the last car and rebounds elastically. What speed does the student observe for the ball approaching him after the rebound? (Neglect the effect of gravity, i.e., the ball does not fall.)
 20 m/s
 35 m/s
 25 m/s
 
-Selective test 2005
-7) What is the power that can be obtained
-of a generator in a hydroelectric power plant, if the
-The turbine pallets or flaps reach $250\ \text{m}^3$ of
-Water in 1 second from a height of 96 m
-free fall.
+Selective Exam 2005
+7) What is the power that can be obtained from a generator in a hydroelectric plant, if $250\ \text{m}^3$ of water reach the turbine blades per second from a height of 96 m in free fall?
 
-The 21st Colombian Olympics in Physics
-8) A side cube $L$ with a density of $2\ \text{g/cm}^3$ floats submerged to half its capacity in the
-a liquid density $4\ \text{g/cm}^3$ as shown in Figure 1. A student pouring water
-The density $1\ \text{g/cm}^3$ until it barely covers the cube as shown in Figure 2.
-What fraction of L remains submerged in the dense liquid? (Water and liquid not
-mix it up.)
+XXI Colombian Physics Olympiad
+8) A cube of side $L$, with density $2\ \text{g/cm}^3$, floats submerged exactly halfway into a liquid of density $4\ \text{g/cm}^3$, as shown in Figure 1. A student pours water of density $1\ \text{g/cm}^3$ until it just covers the cube, as shown in Figure 2.
+What fraction of L remains submerged in the dense liquid? (Water and liquid do not mix.)
 Figure 1
 Figure 2
 
-Selective test 2005
-9) Many things in nature take the shape of a sphere. For example, the
-The sand grains, the soap bubbles, the water droplets, the Earth itself, the
-The moon and even the sun are spherical. Explain, at least in these cases, why these
-bodies take this shape.
+Selective Test 2005
+9) Many things in nature take on a spherical shape. For example, sand grains, soap bubbles, water droplets, even Earth, the Moon, and the Sun are spherical. Explain, at least in these cases, why such bodies adopt this shape.
 
-The 21st Colombian Olympics in Physics
-10) In the wetlands (3 000 m above sea level)
-There is a cabin with a sea level
-large glass windows with their
-interior insulated from the outside
-It has an efficient system of
-Heating. At sea level there is one
-house with large windows of
-Other, of a kind used for the manufacture of goods of heading 8106
-It has an air system.
-- It's conditioned.
-Describe in each of these cases
-How they are stained
-glass of these houses, indicating
-The causes of this happening
-and explaining their characteristics and
-effects.
+XXI Colombian Physics Olympiad
+10) In the páramo (3,000 m above sea level), there is a cabin with large glass windows, its interior thermally isolated from the outside because it has an efficient heating system. At sea level, there is a house with large glass windows similarly isolated from the outside because it has an air conditioning system.
+Describe, in each of these cases, how the glass windows become fogged up, indicating the causes for this phenomenon and explaining their characteristics and effects.
 
-Selective test 2005
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Block (object)|Block]], [[Ball (object)|Ball]], [[Bubble (object)|Bubble]], [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZB234tOS6xBkGnTMPFIfvGKJuLvvLev9/view)
+Selective Test 2005

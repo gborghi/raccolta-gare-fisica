@@ -13,6 +13,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2025 — Sperimentale — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
+
 **E1 – Deep Learning (10 pts)**
 
 Modern ANNs (artificial neural networks) are made of billions of neurons. Each neuron transforms its input(s) $x_1, x_2, \dots, x_n$ to an output $y$. First,
@@ -69,8 +73,61 @@ tolerances.
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**E1 – Deep Learning (10 punti)**
+
+Le moderne ANN (reti neurali artificiali) sono fatte di miliardi di neuroni. Ogni neurone trasforma il suo input $x_1, x_2, \dots, x_n$ in un output $y$. Prima viene calcolato $$z = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b$$, con pesi reali $w_i$ e bias reale $b$. Poi una funzione di attivazione viene applicata a $z$ per produrre l'output finale $y(x_1, x_2, \dots)$. Nel presente problema studierai un modello fisico di un neurone con le tensioni elettriche $x_1$ e $x_2$ come input, con la funzione di attivazione che è $A\sigma(z)$, dove $\sigma(z) = 1/(1+\exp(-z))$ è chiamata funzione sigmoide.
+
+La scatola contiene un generatore di tensione, un circuito elettronico che modella il neurone ($z(x) = w_1x_1 + w_2x_2 + b$, output $A\sigma(z)$ attraverso un resistore di uscita in serie $R_{\mathrm{out}}$ al terminale Y), e due potenziometri (A e B, terminali A1–A3 e B1–B3). GND è il terminale negativo comune per $+V$, $x_1$, $x_2$ e $y$; X1 e X2 sono i terminali positivi delle tensioni di ingresso $x_1$ e $x_2$ (l'output si comporta in modo imprevedibile se uno di questi terminali non ha tensione di ingresso); Y si comporta come un generatore di tensione reale (generatore ideale $y$ in serie con $R_{\mathrm{out}}$). Il terminale T non deve essere utilizzato.
+
+Compito 1 (0,5 punti)
+I terminali A1, A2 e A3 sono collegati al potenziometro RP e a un resistore di carico aggiuntivo RL.
+Quale degli schemi sottostanti corrisponde al circuito nella scatola? Determina le resistenze RL e
+RP ; documenta le misurazioni effettuate.
+A1
+A2
+RP RL
+1
+A3
+A1
+A2
+RP
+RL
+2
+A3
+A1
+A2
+RL RP
+3
+A3
+Nota
+Il potenziometro B è collegato ai terminali B1, B2, B3 esattamente nello stesso modo con le stesse resistenze RL e RP , entro le tolleranze di fabbricazione.
+
+<!--fig:start-->
+**p.2** — Schema sinusoidi con ampiezza e periodo
+![[_attachments/EuPhO_2025_experiment/EuPhO_2025_experiment_p2_f1.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.2** — Pattern visto al microscopio con passo s
+![[_attachments/EuPhO_2025_experiment/EuPhO_2025_experiment_p2_f2.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.2** — Componenti A B C H J disposti per l'esperimento
+![[_attachments/EuPhO_2025_experiment/EuPhO_2025_experiment_p2_f3.png]]
+<!--fig:end-->
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2025 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 Task 2 - (0.5 pts)
 Sketch how the terminals have to be connected so
@@ -85,8 +142,20 @@ widest possible range.
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+Attività 2 - (0,5 punti)
+Disegna come devono essere collegati i terminali affinché le tensioni di ingresso del neurone possano essere variate con la gamma più ampia possibile.
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2025 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 Task 3 - (1.5 pts)
 Devise (and document) a strategy allowing you to
@@ -103,8 +172,20 @@ and document your measurements.
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+Attività 3 - (1,5 punti)
+Ideare (e documentare) una strategia che permetta di trovare la combinazione di tensioni di ingresso x1 e x2 che massimizza la tensione di uscita y con il minor numero possibile di misurazioni, indipendentemente dal insieme di tensioni di ingresso da cui si inizia la ricerca. Determinare questa tensione massima ymax che sarà d'ora in poi utilizzata come approssimazione per l'ampiezza A, e documentare le misurazioni.
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="EuPhO 2025 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 Task 4 - (3.5 pts)
 Determine the weights w1, w2 and the bias b. Describe
@@ -126,8 +207,22 @@ you define are clearly marked in your circuits.
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+Attività 4 - (3.5 punti)
+Determinare i pesi w1, w2 e il bias b. Descrivere le misurazioni e documentare i dati in una tabella. Stimare w1, w2 e b utilizzando un approccio grafico.
+L'addestramento comporta l'ottimizzazione dei pesi della rete per ottenere la funzionalità desiderata. Ciò consente alle ANN di approssimare funzioni arbitrarie.
+Per ciascuno dei seguenti compiti è necessario approssimare una diversa funzione di una singola tensione di ingresso utilizzando l'attrezzatura fornita. Assicurarsi che l'ingresso e l'uscita definiti siano chiaramente contrassegnati nei circuiti.
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
+
+
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="EuPhO 2025 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/meccanica"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 Task 5 - (1.5 pts)
 Connect the terminal X1 directly to +V. Design
@@ -150,8 +245,21 @@ the value of b5 from your data.
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+Attività 5 - (1.5 punti)
+Collegare il terminale X1 direttamente a +V. Progettare un circuito per approssimare la funzione
+$y_5(x) = A\,\sigma(w_2 x/2 + b_5)$, dove x è la tensione applicata al terminale di ingresso da te appena definito. Determinare b5 teoricamente. Implementare il circuito, effettuare misurazioni e verificare che il tuo setup funzioni come previsto. Convalidare il valore di b5 dai tuoi dati.
+
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
+
+
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="EuPhO 2025 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/circuits,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/lens,object/screen"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 Task 6 - (2.5 pts)
 a Determine the internal series output resistance
@@ -255,4 +363,70 @@ tabular form;
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DvpXIKjZRI_KOWGw1JwZSV3LQ4dZO_xv/view)
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+Quesito 6 - (2.5 punti)
+a Determinare la resistenza di uscita interna in serie
+Rout del terminale Y. (0.5 punti)
+b Progettare e realizzare un circuito per approssimare la funzione $y_6(x) = A_6\,\sigma(w_2 x + b) + B_6$, dove
+B6 = 1.48 V.
+Determinare teoricamente A6.
+Realizzare il circuito e verificare sperimentalmente che il vostro allestimento funzioni come previsto. Confermare i valori di A6 e B6 dai vostri dati. (2.0 punti)
+Problemi Sperimentali Lingua: Inglese
+E2 – Pattern nascosto (10 punti)
+Vi viene fornita una pellicola piatta semitrasparente con un micropattern stampato sulla sua superficie che è invisibile a occhio nudo.
+Il pattern è costituito da un gran numero di sinusoidi identiche di ampiezza A, che corrono orizzontalmente con periodo spaziale $\Lambda$, e traslate verticalmente di una distanza d l'una rispetto all'altra, come schematicamente mostrato in Fig. 1. Al microscopio, si può vedere che il pattern stampato è composto da segmenti di linea rigorosamente orizzontali, ciascuno spostato verticalmente rispetto ai suoi vicini di un passo costante s, come mostrato in Fig. 2.
+2A d
+$\Lambda$
+Figura 1: Pattern (non in scala)
+d s
+Figura 2: Pattern come visto al microscopio
+Attrezzatura (vedi anche Fig. 3)
+Una pellicola semitrasparente con un micropattern stampato sulla sua superficie.
+Un diodo laser con lunghezza d'onda $\lambda$ = (654 $\pm$ 5) nm. Il diodo laser può essere focalizzato alla distanza desiderata ruotando il tappo terminale con una lente all'interno.
+Avvertenza:
+Non svitare completamente il tappo terminale! All'interno, ci sono una lente orientata e una molla.
+Nessun laser di ricambio sarà fornito se danneggiato o smontato.
+C Due assi di acciaio a forma di L con angolo di 90 gradi che servono da supporti per la pellicola e il diodo laser. La pellicola può essere fissata a una delle assi usando le piccole clip fornite.
+Il diodo laser può essere montato sull'altra asse con una clip colorata più grande o con l'elastico fornito.
+D Un foglio di carta con un goniometro stampato – un sistema di coordinate polari con passi radiali di 1 mm e
+A
+C
+C
+J
+B
+H
+H
+A
+C
+C
+J
+B
+H
+H
+Figura 3: Componenti A, B, C, H e J disposti per l'esperimento.
+divisioni angolari in gradi.
+E Uno schermo: la superficie grande della scatola contenente i materiali sperimentali. Svuotare la scatola e collocarla sulla scrivania con la sua superficie grande verticale.
+F Righello.
+G Metro a nastro.
+H Nastro adesivo attaccato al righello. Usare pezzi di nastro per fissare il goniometro stampato allo schermo o per assicurare i componenti al tavolo. È possibile chiedere altro nastro se necessario.
+I Carta millimetrata.
+J Una scala di misura in carta da 80 mm con linee di riferimento diagonali che consentono di misurare frazioni delle divisioni principali della scala, con precisione di
+$\pm0.1$ mm.
+Suggerimento: in tutte le vostre misurazioni siete liberi di disegnare o apporre segni sullo schermo.
+Importante: Assumere che la superficie del tavolo sperimentale sia piana, e che lo schermo sia strettamente perpendicolare al tavolo.
+Compiti (10.0 punti)
+Determinare il più precisamente possibile:
+a Il periodo della sinusoide $\Lambda$. (2 punti)
+b Lo scostamento verticale d delle sinusoidi adiacenti (2 punti)
+c L'ampiezza della sinusoide A (3 punti)
+d L'altezza del gradino s (3 punti)
+In tutti i compiti ci si aspetta che:
+1. disegnare un setup e/o motivare un metodo per misurare le grandezze corrispondenti;
+2. riportare le misure e i calcoli in forma tabellare;
+3. stimare le grandezze desiderate e le loro incertezze graficamente, ove ragionevole.
+
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1WRE7F2jIP-Xtoms0RfOmDpVlwdViJ6PQ/view)

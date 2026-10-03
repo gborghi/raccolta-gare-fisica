@@ -168,6 +168,10 @@ Adapted from the Italian Physics Olympiad
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/diffraction-grating,object/slit,object/screen,object/planet"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 2 : Si gira (16 punti)
 Parte A. Si riflette (5 punti)
 Un vascello spaziale emette una luce monocromatica di lunghezza d'onda $\lambda_0$ in vostra direzione
@@ -272,6 +276,71 @@ Fonte : O. Gingerich, Sky & Telescope 28, 278, 1964.
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Mirror (object)|Mirror]], [[Diffraction Grating (object)|Diffraction Grating]], [[Slit (object)|Slit]], [[Screen (object)|Screen]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 2: You Turn (16 points)
+
+Part A. You Reflect (5 points)
+
+A spaceship emits a monochromatic light of wavelength $\lambda_0$ toward you while receding from you at velocity $v$.
+
+i. (2 pt) Show that the wavelength $\lambda'$ you observe satisfies the relation
+$$\lambda' = \sqrt{\frac{1 + \beta}{1 - \beta}}\,\lambda_0 \quad \text{dove} \quad \beta = \frac{v_r}{c}, \quad (3)$$, where $c$ is the speed of light and $v_r$ is the velocity of the spaceship relative to you (by convention, $v_r$ is positive when the spaceship recedes).
+
+ii. (0.5 pt) Now suppose you are emitting the same light of wavelength $\lambda_0$ toward the spaceship, which is receding from you at velocity $v$. What is the wavelength $\lambda'$ observed by a person on the spaceship? Give your answer in terms of the given variables and physical constants.
+
+iii. (1 pt) On board the spaceship, a mirror is installed that reflects back toward you the light you emitted with wavelength $\lambda_0$. What is the wavelength $\lambda''$ you now observe? Give your answer in terms of the given variables and physical constants.
+
+iv. (1.5 pt) Show that, for small values of $\beta$ ($\beta \ll 1$), the difference $\Delta\lambda$ between the wavelengths $\lambda''$ and $\lambda_0$ satisfies the equation in $\beta$
+$$\Delta\lambda = 2\beta\lambda_0. \quad (4)$$
+
+Part B. You Spin (2 points)
+
+Consider a planet of radius $R$ rotating with angular velocity $\Omega$. The planet's rotation axis is perpendicular to the axis $x$, on which both you and the center of the planet are located. You therefore lie in the plane defined by the planet's equator (cf., Fig. 1).
+Observer
+$x$
+$z$
+Observer
+$x$
+$z$
+Observer
+$x$
+$z$
+Fig. 1 – The direction of rotation is given by the black arrow.
+Consider the distance between you and the planet as very large.
+i. (1 pt) Draw on a graph the projection onto the $x$ axis of the tangential velocity of a point on the planet's equator as a function of its coordinate $z$.
+ii. (1 pt) On the same graph, sketch the minimum and maximum velocity as a function of the $x$ axis that a satellite orbiting the planet must maintain with orbit radius $r$ between $r_1$ and $r_2$ ($R < r_1 < r_2$).
+What is the relation between the velocities and $r$?
+Part C. A spectrum (4 points)
+When Saturn is in opposition to the sun (that is, the Earth is between the Sun and Saturn), astronomers measured the spectrum of sunlight reflected by Saturn by passing it through a slit and then through a diffraction grating, before projecting it onto a screen (see Fig. 2). The height of the slit limits the height of the projection obtained, while the diffraction grating projects the spectrum of the light. Light sources with known wavelength were placed at the ends of the slit to have a reference spectrum. The extension of the slit in
+$z$ is much greater than in $y$. The size of the slit in $y$ does not produce a light diffraction phenomenon.
+This part is given by the diffraction grating and is independent of the following part.
+i. (0.5 pt) Sketch the zero-order diffraction image projected on the screen through the grating. Describe your drawing.
+
+ii. (3.5 pt) The first-order diffraction image obtained in configuration 2 is shown in Figure 3. Determine the distance $L$ (measured along axis $x$) between the grating and the screen, given that the width of one slit in the grating is $d = 800$ nm. Use the spectrum shown in Figure 3 and assume it is drawn to scale (1:1).
+
+$z$
+$x$
+A
+B
+$y_A$
+$y_B$
+Figure 2 – The distance between Saturn and the slit is not to scale: it is actually much larger. Axis $x$ and axis $z$ are the same as in Figure 1. Axis $y$ on the screen corresponds to axis $y$ in Figure 3. The plane containing Saturn’s rings is slightly tilted with respect to axis $xz$.
+
+Part D. An Unusual Spectrum (5 points)
+
+i. (1 pt) From which point on Saturn do wavelengths similar to those in the reference spectra originate?
+
+ii. (1 pt) Identify whether the spectrum shown originates from region A or B of the screen. Justify your answer and indicate in which direction axis $z$ should be labeled on the figure (from left to right or from right to left).
+
+iii. (2 pt) Calculate Saturn’s rotational angular velocity using the provided spectra.
+iv. (1 pt) Explain why the inclination of the spectral lines in the ring region is opposite to that of the planet's spectral lines.
+$y$
+Fig. 3 –
+Part of the spectrogram of Saturn measured by the Lick Observatory on August 19, 1964, by H. Spinrad and L. Giver. Wavelengths are indicated on the $y$ axis in Å.
+Source: O. Gingerich, Sky & Telescope 28, 278, 1964.
 
 
 

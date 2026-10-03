@@ -203,95 +203,70 @@ era de esperar.
 <div class="qlang-split" data-lang="it"></div>
 
 P1. Fisica sul treno.
-Albert Einstein e la sua seconda moglie hanno visitato la Spagna tra marzo e marzo.
-Aprile 1923, quando era già pubblico che gli erano stati concessi il premio
-Il Nobel di fisica. Il suo arrivo in treno a Barcellona è stato pittoresco, perché
-Si dimenticò di segnalare con quale treno arrivarono, così non c'era nessuno che li aspettava.
-- La stazione. Fortunatamente, all'arrivo a Saragozza, il 12 marzo,
-fu accolto come meritava un genio del suo livello.
-I lunghi viaggi in treno dell'epoca sicura che permettevano di
-Einstein meditare sulle sue teorie. Infatti, uno dei suoi esperimenti
-e che gli ha aiutato a dedurre la sua teoria della relatività,
-È legato a un treno e a un raggio di luce.
-Se avete l'occasione di viaggiare in treno, potete fare il seguente:
-Esperimento: Immaginate un pendolo appeso all'interno del treno. Se il treno
-Se il pendolo è fermo, rimane in posizione di equilibrio (Fig. 1a).
-Al contrario, quando il treno parte, il pendolo si muove
-misteriosamente a causa dell'inerzia (Fig. 1b).
 
-a) Indica in che direzione il treno sta accelerando.
-Considera che il treno si muove a costante accelerazione, $a$, e il
-il pendolo ha una lunghezza $L$ e una massa $m$.
+Albert Einstein e sua seconda moglie visitarono la Spagna tra marzo e aprile del 1923, quando ormai era di pubblico dominio che gli era stato assegnato il premio Nobel per la Fisica. Il loro arrivo in treno a Barcellona fu pittoresco, poiché dimenticarono di avvisare su quale treno arrivassero, con il risultato che non c’era nessuno ad aspettarli alla stazione. Per fortuna, all'arrivo a Saragozza il 12 marzo, fu ricevuto come si conveniva a un genio del suo livello.
 
-b) Disegna il diagramma del corpo libero del pendolo, cioè le forze
-che agiscono su di lui.
+I lunghi viaggi in treno dell’epoca probabilmente diedero ad Einstein l’opportunità di riflettere sulle sue teorie. Infatti, uno dei suoi esperimenti mentali più famosi, che lo aiutò a dedurre la sua teoria della relatività, è legato a un treno e a un raggio di luce.
 
-c) Calcola il rapporto tra l'accelerazione del treno, $a$, e l'angolo di inclinamento del pendolo, $\theta$.
+Se hai occasione di viaggiare in treno puoi effettuare il seguente esperimento: immagina un pendolo appeso all’interno del treno. Se il treno è fermo, il pendolo rimarrà nella sua posizione di equilibrio (Fig. 1a).
+Al contrario, quando il treno partirà, il pendolo si muoverà “misteriosamente” a causa dell’inerzia (Fig. 1b).
 
-Questo semplice sistema può essere utilizzato1 per calcolare la distanza tra due stazioni ferroviarie, supponendo che
-che il movimento del treno è composto dalla concatenamento di molteplici movimenti rettilini
-l'accelerazione per ciascuno di essi dall'angolo che forma l'angolo
-pendolo con la verticale.
-Immaginiamo che il treno parte dal riposo e misuriamo l'angolo medio in intervalli di 10 secondi,
-considerando che l'accelerazione è praticamente costante nell'intervallo. Noi otteniamo
-i seguenti valori:
+a) Indica in che senso sta accelerando il treno.
+
+Considera che il treno si muove con accelerazione costante, $a$, e che il pendolo ha una lunghezza $L$ e massa $m$.
+
+b) Disegna il diagramma di corpo libero del pendolo, ossia le forze che agiscono su di esso.
+
+c) Calcola il rapporto tra l’accelerazione del treno, $a$, e l’angolo di inclinazione del pendolo, $\theta$.
+
+Questo semplice sistema può essere utilizzato per calcolare la distanza tra due stazioni ferroviarie, supponendo che lo spostamento del treno sia composto dalla concatenazione di numerose fasi di moto rettilineo uniformemente accelerato e determinando l'accelerazione per ciascuna di esse a partire dall'angolo formato dal pendolo con la verticale.
+
+Immaginiamo che il treno sia parte da fermo e misuriamo l'angolo medio in intervalli di 10 secondi, assumendo che l'accelerazione rimanga praticamente costante nell'intervallo. Otteniamo i seguenti valori:
 
 | $t_i - t_f$ (s) | 0-10 | 11-20 | 21-30 | 31-40 | 41-50 |
 | --- | --- | --- | --- | --- | --- |
 | $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
 
-d) Calcola la distanza percorsa durante i 50 secondi.
+d) Calcola la distanza percorsa dal treno nei 50 secondi.
 
-Quando il treno viaggia a costante accelerazione, $a$, separamo leggermente il pendolo dalla sua posizione di
-equilibrio.
+Quando il treno si muove con accelerazione costante, $a$, il pendolo si sposta leggermente rispetto alla sua posizione di equilibrio.
 
-e) Calcola il periodo di oscillazione risultante intorno alla posizione di equilibrio.
+e) Calcola il periodo dell'oscillazione risultante intorno alla posizione di equilibrio.
 
-A partire da un certo momento il treno si muove a velocità costante.
+A partire da un certo istante, il treno si muove con velocità costante.
 
-f) Calcola in questo caso il periodo di oscillazione intorno alla posizione di equilibrio.
+f) Calcola in questo caso il periodo dell'oscillazione intorno alla posizione di equilibrio.
 
-1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60,
-La Commissione ha adottato una decisione che prevede che il Consiglio europeo di sicurezza possa prendere decisioni in merito a tali decisioni.
+1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60, 748-751 (2022) https://doi.org/10.1119/5.0043205
 
 P1. Soluzione
 
-a) La massa sospesa del pendolo tende a rimanere a riposo a causa dell'inerzia
-mentre il treno accelera, essendo la componente della tensione della corda in
-direzione orizzontale che lo fa muoversi in solidarietà con il treno. Pertanto, come
-mostra la figura. 2, il treno sta accelerando a destra.
+a) La massa appesa del pendolo tende a rimanere in quiete per effetto dell'inerzia mentre il treno accelera, essendo la componente della tensione del filo nella direzione orizzontale quella che lo fa muovere solidamente con il treno. Pertanto, come mostrato in Figura 2, il treno sta accelerando verso destra.
 
-b) Le uniche forze reali che agiscono sul pendolo sono il peso,
-$m\vec{g}$, y la
-tensione della corda,
-$\vec{T}$, con cui il diagramma di corpo libero sarebbe rimasto come
-mostra la figura 2.
+b) Le uniche forze "reali" che agiscono sul pendolo sono il peso, $m\vec{g}$, e la tensione del filo, $\vec{T}$; pertanto il diagramma delle forze sul corpo libero risulterà come mostrato in Figura 2.
 
-c) Applicando la seconda legge di Newton, abbiamo
+c) Applicando la seconda legge di Newton, otteniamo
 
 $$\vec{F} = m\sum \vec{a} \quad (1)$$
 
-Se si decompone in assi orizzontali, $x$, e verticali, $y$, si ottiene
+Scomponendo lungo gli assi orizzontale, $x$, e verticale, $y$, otteniamo
 
 $$\begin{cases} T\cos\theta - mg = 0 \\ T\,\text{sen}\,\theta = ma \end{cases} \quad (2)$$
 
-Da dove possiamo chiarire $a$ in funzione di $\theta$,
+Da cui possiamo ricavare $a$ in funzione di $\theta$,
 
 $$a = g\,\text{tg}\,\theta \quad (3)$$
 
-d) Lo spazio percorso in ogni tratto sarà dato dall'equazione di spostamento in movimento
-accelerato uniformemente,
+d) Lo spazio percorso in ciascun tratto sarà dato dall'equazione del moto uniformemente accelerato,
 
 $$x_i = v_{0,i}\,\Delta t_i + \tfrac{1}{2} a_i\,\Delta t_i^2 \quad (4)$$
 
-Per ogni tratto dobbiamo sapere la velocità iniziale, che verrà data dall'accelerazione e dalla velocità
-iniziale del precedente tratto
+Per ciascun tratto dobbiamo conoscere la velocità iniziale, che sarà determinata dall'accelerazione e dalla velocità iniziale del tratto precedente
 
 $$v_{0,i+1} = v_{0,i} + a_i\,\Delta t_i \quad (5)$$
 
-con
-$v_{0,1} = 0$, poiché il treno parte dal riposo.
-Da queste equazioni (3), (4) e (5) si ottiene
+con $v_{0,1} = 0$, poiché il treno parte da fermo.
+A partire dalle equazioni (3), (4) e (5) otteniamo
 
 | $i$ | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -301,253 +276,58 @@ Da queste equazioni (3), (4) e (5) si ottiene
 | $v_{0,i}$ (m/s) | 0 | 5,1 | 13,7 | 25,7 | 36,0 |
 | $x_i$ (m) | 25,5 | 94,0 | 197,0 | 308,5 | 394,5 |
 
-Quindi il totale dello spazio percorso nei primi 50 secondi sarà
+Così lo spazio totale percorso nei primi 50 secondi sarà
 
 $$x = \sum_{i=1}^{5} x_i = 1019{,}5\ \text{m} \quad (6)$$
 
-e) In un pendolo che è solo sottoposto all'accelerazione della gravità, il periodo di oscillazione è dato da
+e) Nel caso di un pendolo soggetto soltanto all'accelerazione di gravità, il periodo di oscillazione è dato da
 
 $$P_0 = 2\pi\sqrt{\frac{L}{g}} \quad (7)$$
 
-Un osservatore montato sul treno è un osservatore non inerziale (si muove a velocità non costante).
-Quando si parte il treno con una certa accelerazione
-$\vec{a}$, l'osservatore montato sul treno vede che il pendolo si
-inclina senza che apparentemente non agisca alcuna forza su di lui, quindi decide
-inventare una forza indietro,
-$\vec{F}_i = -m\vec{a}$, che definisce la forza di
-Inerzia (Fig. 3).
-Questa è la misteriosa forza che sembra spingerci indietro quando
-Siamo in un treno ad alta velocità. Ma questa forza è immaginaria, non esiste. Visto
-da un osservatore inertile esterno, fissato al pavimento della strada, ciò che accade è
-che il treno accelera mentre il passeggero tende a mantenere la velocità
-costante. Per questo il passeggero deve aggrapparsi alla barra del treno per non
-restare indietro rispetto al treno, e quindi cadere a terra.
-Per l'osservatore che viaggia in treno il pendolo è in equilibrio, quindi
-che il diagramma delle forze sul pendolo sarebbe quello mostrato nella figura 3,
-Quindi
+Un osservatore montato sul treno è un osservatore non inerziale (si muove con velocità non costante).
+All'accensione del treno con una certa accelerazione
+$\vec{a}$, l'osservatore montato sul treno osserva che il pendolo si inclina senza che su di esso apparentemente agisca alcuna forza, per cui decide di inventarsi una forza indietro,
+$\vec{F}_i = -m\vec{a}$, che denomina "forza d'inerzia" (Fig. 3).
+Questa è la misteriosa forza che sembra spingerci indietro quando viaggiamo su un treno che accelera. Ma questa forza è fittizia, non esiste. Vista da un osservatore inerziale esterno, fisso al suolo della strada, ciò che avviene è che il treno accelera mentre il passeggero tende a mantenere una velocità costante. Per questo motivo, il passeggero deve aggrapparsi alla sbarra del treno per non rimanere indietro rispetto al treno, e quindi cadere sul pavimento.
+Per l'osservatore che viaggia sul treno, il pendolo è in equilibrio, per cui il diagramma delle forze sul pendolo sarebbe quello mostrato in figura 3, tale che
 
 $$\vec{T} = m(\vec{g} - \vec{a}) \quad (8)$$
 
-L'osservatore non inerziale interpreta che il pendolo si orienta in direzione di una gravità
-apparece
-$\vec{g}\,'$, mostrato in figura 3, dato da
+L'osservatore non inerziale interpreta che il pendolo si orienta nella direzione di una gravità
+"apparente"
+$\vec{g}\,'$, mostrata in figura 3, data da
 
 $$\vec{g}\,' = \vec{g} - \vec{a} \quad (9)$$
 
-Per analogia con l'espressione (7) sottoposta a questa gravità apparente, separandola leggermente dalla
-posizione di equilibrio il pendolo oscilla con un periodo
+Per analogia con l'espressione (7), soggetto a questa "gravità apparente", allontanandolo leggermente dalla posizione di equilibrio, il pendolo oscilla con un periodo
 
 $$P = 2\pi\sqrt{\frac{L}{g'}} \quad (10)$$
 
-A partire da (9) si ottiene il modulo della gravità apparente,
-$g'$,
+Dalla (9) otteniamo il modulo dell'accelerazione gravitazionale apparente,
+
+$g'$
 
 $$g' = \sqrt{g^2 + a^2} \quad (11)$$
 
-E sostituendo $a$ con l'espressione ottenuta in (3),
+Sostituendo $a$ con l'espressione ottenuta in (3),
 
 $$g' = \sqrt{g^2 + (g\,\text{tg}\,\theta)^2} = g\sqrt{1 + (\text{tg}\,\theta)^2} = \frac{g}{\cos\theta} \quad (12)$$
 
-Quindi il periodo del pendolo che si muove con l'accelerazione $a$ viene dato da
+Così il periodo del pendolo che si muove con accelerazione $a$ è dato da
 
 $$P = 2\pi\sqrt{\frac{L\cos\theta}{g}} \quad (13)$$
 
-f) Se il treno si muove a velocità costante, un osservatore montato sul treno sarà un osservatore
-Inerziale e quindi applicherà le leggi di Newton come se fosse a riposo. Il periodo di
-il pendolo sarà il dato per l'espressione (7).
+f) Se il treno si muove con velocità costante, un osservatore a bordo del treno è un osservatore inerziale e pertanto applicherà le leggi di Newton come se fosse fermo. Di conseguenza, il periodo del pendolo sarà quello dato dall'espressione (7).
 
 $$P_0 = 2\pi\sqrt{\frac{L}{g}}$$
 
-Si può verificare che questa espressione coincida con la (12) quando
+Si può verificare che questa espressione coincide con la (12) quando
 $a = 0$ (e quindi
-$\theta = 0$), come
-Era da aspettare.
+$\theta = 0$), come ci si aspettava.
 
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p2_f1.png]]
-*Pendila sul treno fermo e in frenata*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p3_f2.png]]
-*Diagramma corpo libero pendolo (Fig. 2) *
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p4_f3.png]]
-*FBD pendolo con forza d'inerzia (Fig. 3)*
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-P1. Physicist on the train.
-Albert Einstein and his second wife visited Spain between March and
-April 1923, when it was already public that he had been awarded the prize
-Nobel Prize in physics. His arrival by train to Barcelona was picturesque, since
-He forgot to tell me what train they were coming with, so there was no one waiting for them.
-At the station. Fortunately, upon his arrival in Zaragoza on March 12,
-He was received as a genius of his level deserved.
-The long train journeys of the safe era allowed
-Einstein meditating on his theories. In fact, one of his experiments
-He was the first to write about the theory of relativity.
-It's related to a train and a lightning strike.
-If you have the opportunity to travel by train you can do the following:
-Experiment: Imagine a pendulum hanging from the inside of the train. If the train
-The pendulum is still, the pendulum will remain in its equilibrium position (Fig. 1a).
-On the contrary, when the train starts, the pendulum will move
-mysteriously due to inertia (Fig. 1b).
-
-(a) Indicate the direction in which the train is accelerating.
-It considers that the train is moving at constant speed, $a$, and the
-The pendulum has a length $L$ and mass $m$.
-
-(b) Draw the free-body diagram of the pendulum, i.e. the forces
-who act upon him.
-
-(c) Calculate the ratio of the train's acceleration, $a$, to the angle of inclination of the pendulum, $\theta$.
-
-This simple system can be used1 to calculate the distance between two train stations, assuming that the
-that the movement of the train is composed of the concatenation of multitude of rectal movements
-The acceleration of the current is the same as the acceleration of the current.
-the vertical pendant.
-Let's say the train leaves the rest and we measure the average angle at intervals of 10 seconds,
-Whereas acceleration is practically constant at interval. We get the
-the following values:
-
-| $t_i - t_f$ (s) | 0-10 | 11-20 | 21-30 | 31-40 | 41-50 |
-| --- | --- | --- | --- | --- | --- |
-| $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
-
-(d) Calculate the distance travelled during the 50 seconds.
-
-When the train is travelling at constant speed, $a$, we slightly separate the pendulum from its position of
-The balance.
-
-(e) Calculate the period of oscillation around the equilibrium position.
-
-From a certain moment on, the train moves at a constant speed.
-
-(f) Calculate the period of oscillation around the equilibrium position.
-
-1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60,
-The Commission has also adopted a number of proposals for the European Parliament and the Council.
-
-P1. Solution
-
-(a) The suspended mass of the pendulum tends to remain at rest by effect of inertia
-The train is accelerating, the rope tension component being the
-horizontal direction that makes you move in solidarity with the train. Therefore, as
-Fig. 1 shows the figure. 2, the train is speeding to the right.
-
-(b) The only real forces acting on the pendulum are weight,
-$m\vec{g}$, y la
-the tension of the rope,
-$\vec{T}$, with which the free body diagram would be as follows:
-The following table shows the figures for the following categories:
-
-c) Applying Newton's second law, we have
-
-$$\vec{F} = m\sum \vec{a} \quad (1)$$
-
-By breaking down into the horizontal, $x$, and vertical, $y$ axes, we have
-
-$$\begin{cases} T\cos\theta - mg = 0 \\ T\,\text{sen}\,\theta = ma \end{cases} \quad (2)$$
-
-Where we can clear $a$ according to $\theta$,
-
-$$a = g\,\text{tg}\,\theta \quad (3)$$
-
-(d) The space travelled in each section shall be given by the equation of motion
-uniformly accelerated,
-
-$$x_i = v_{0,i}\,\Delta t_i + \tfrac{1}{2} a_i\,\Delta t_i^2 \quad (4)$$
-
-For each stretch we need to know the initial velocity, which will be given by the acceleration and velocity
-initial of the previous tranche
-
-$$v_{0,i+1} = v_{0,i} + a_i\,\Delta t_i \quad (5)$$
-
-with
-$v_{0,1} = 0$, since the train leaves at rest.
-From the equations (3), (4) and (5) we get
-
-| $i$ | 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- | --- |
-| $\Delta t_i$ (s) | 10 | 10 | 10 | 10 | 10 |
-| $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
-| $a_i$ ($\text{m/s}^2$) | 0,51 | 0,86 | 1,20 | 1,03 | 0,69 |
-| $v_{0,i}$ (m/s) | 0 | 5,1 | 13,7 | 25,7 | 36,0 |
-| $x_i$ (m) | 25,5 | 94,0 | 197,0 | 308,5 | 394,5 |
-
-So the total space travelled in the first 50 seconds will be
-
-$$x = \sum_{i=1}^{5} x_i = 1019{,}5\ \text{m} \quad (6)$$
-
-(e) In a pendulum subjected only to gravitational acceleration, the period of oscillation is given by
-
-$$P_0 = 2\pi\sqrt{\frac{L}{g}} \quad (7)$$
-
-A train-mounted observer is a non-inercial observer (moving at non-constant speed).
-When starting the train at a certain speed
-$\vec{a}$, el observador montado en el tren ve que el péndulo se
-He bends without apparent force acting upon him, so he decides
-inventing a force backwards,
-$\vec{F}_i = -m\vec{a}$, which refers to the force of
-The following is a list of the main types of energy sources: 3).
-This is the mysterious force that seems to push us back when
-We were traveling on a high-speed train. But this force is fictitious, it doesn't exist. I saw it.
-By an outside inertial observer, fixed to the street floor, what happens is
-The train is accelerating while the passenger tends to keep up with speed.
-It's constant. That is why the passenger needs to hold onto the train bar to avoid
-falling behind the train and therefore falling to the ground.
-For the observer travelling on the train the pendulum is in balance, so
-The force diagram on the pendulum would be as shown in Figure 3,
-So that
-
-$$\vec{T} = m(\vec{g} - \vec{a}) \quad (8)$$
-
-The non-inercial observer interprets that the pendulum is oriented in the direction of gravity
- appearing
-$\vec{g}\,'$, shown in Figure 3, given by
-
-$$\vec{g}\,' = \vec{g} - \vec{a} \quad (9)$$
-
-By analogy with the expression (7), subjected to this apparent gravity, by slightly separating it from the
-The pendulum oscillates with a period
-
-$$P = 2\pi\sqrt{\frac{L}{g'}} \quad (10)$$
-
-From (9) we get the module of apparent gravity,
-$g'$,
-
-$$g' = \sqrt{g^2 + a^2} \quad (11)$$
-
-And replacing $a$ with the expression obtained in (3),
-
-$$g' = \sqrt{g^2 + (g\,\text{tg}\,\theta)^2} = g\sqrt{1 + (\text{tg}\,\theta)^2} = \frac{g}{\cos\theta} \quad (12)$$
-
-So the period of the pendulum moving at $a$ is given by
-
-$$P = 2\pi\sqrt{\frac{L\cos\theta}{g}} \quad (13)$$
-
-(f) If the train is moving at constant speed, an observer mounted on the train shall be an observer.
-It's inert and will therefore apply Newton's laws as if it were at rest. The period of the
-The pendulum is the given for the expression (7).
-
-$$P_0 = 2\pi\sqrt{\frac{L}{g}}$$
-
-This expression can be found to be in line with (12) when
-$a = 0$ (and therefore
-$\theta = 0$), as follows:
-It was a wait.
-
-<!--fig:start-->
-![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p2_f1.png]]
-*Pending it in the stationary and accelerating train*
+*Pendolo nel treno fermo e accelerante*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p3_f2.png]]
@@ -558,11 +338,143 @@ It was a wait.
 *FBD pendolo con forza d'inerzia (Fig 3)*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
+<div class="qlang-split" data-lang="en"></div>
+
+P1. Physics on the Train.
+
+Albert Einstein and his second wife visited Spain between March and April 1923, by which time it was already public that he had been awarded the Nobel Prize in Physics. Their arrival by train in Barcelona was picturesque, as they forgot to inform which train they were taking, so no one was waiting for them at the station. Fortunately, upon their arrival in Zaragoza on March 12th, he was received as befit a genius of his stature.
+
+The long train journeys of that era surely gave Einstein time to reflect on his theories. Indeed, one of his most famous thought experiments—helping him deduce his theory of relativity—is related to a train and a beam of light.
+
+If you ever have the opportunity to travel by train, you can perform the following experiment: Imagine a pendulum hanging inside the train. If the train is stationary, the pendulum will remain at rest in its equilibrium position (Fig. 1a).
+On the other hand, when the train starts moving, the pendulum will move "mysteriously" due to inertia (Fig. 1b).
+
+a) Indicate in which direction the train is accelerating.
+
+Assume that the train moves with constant acceleration, $a$, and that the pendulum has length $L$ and mass $m$.
+
+b) Draw the free-body diagram of the pendulum, that is, all forces acting on it.
+
+c) Calculate the ratio between the train's acceleration, $a$, and the pendulum’s angle of inclination, $\theta$.
+
+This simple system can be used to calculate the distance between two train stations, assuming that the train's displacement consists of a concatenation of numerous uniformly accelerated rectilinear motions and obtaining the acceleration for each segment from the angle formed by the pendulum with the vertical.
+
+Let us imagine that the train starts from rest and we measure the average angle in intervals of 10 seconds, assuming that the acceleration remains practically constant over each interval. We obtain the following values:
+
+| $t_i - t_f$ (s) | 0–10 | 11–20 | 21–30 | 31–40 | 41–50 |
+| --- | --- | --- | --- | --- | --- |
+| $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
+
+d) Calculate the distance traveled by the train during the 50 seconds.
+
+When the train moves with constant acceleration, $a$, the pendulum is slightly displaced from its equilibrium position.
+
+e) Calculate the period of oscillation around the equilibrium position in this case.
+
+From a certain point onward, the train moves with constant velocity.
+
+f) Calculate the period of oscillation around the equilibrium position in this case.
+
+1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60, 748–751 (2022) https://doi.org/10.1119/5.0043205
+
+P1. Solution
+
+a) The suspended mass of the pendulum tends to remain at rest due to inertia while the train accelerates, and it is the horizontal component of the string's tension that causes it to move together with the train. Therefore, as shown in Figure 2, the train is accelerating to the right.
+
+b) The only "real" forces acting on the pendulum are its weight, $m\vec{g}$, and the tension in the string, $\vec{T}$; thus, the free-body diagram would appear as shown in Figure 2.
+
+c) Applying Newton's second law, we have
+
+$$\vec{F} = m\sum \vec{a} \quad (1)$$
+
+Decomposing into horizontal, $x$, and vertical, $y$, components, we obtain
+
+$$\begin{cases} T\cos\theta - mg = 0 \\ T\,\text{sen}\,\theta = ma \end{cases} \quad (2)$$
+
+From this, we can solve for $a$ in terms of $\theta$,
+
+$$a = g\,\text{tg}\,\theta \quad (3)$$
+
+d) The distance traveled in each segment is given by the equation for displacement under uniformly accelerated motion,
+
+$$x_i = v_{0,i}\,\Delta t_i + \tfrac{1}{2} a_i\,\Delta t_i^2 \quad (4)$$
+
+For each segment, we need the initial velocity, which is determined by the acceleration and initial velocity of the previous segment:
+
+$$v_{0,i+1} = v_{0,i} + a_i\,\Delta t_i \quad (5)$$
+
+with $v_{0,1} = 0$, since the train starts from rest.
+From equations (3), (4), and (5) we obtain
+
+| $i$ | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| $\Delta t_i$ (s) | 10 | 10 | 10 | 10 | 10 |
+| $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
+| $a_i$ ($\text{m/s}^2$) | 0.51 | 0.86 | 1.20 | 1.03 | 0.69 |
+| $v_{0,i}$ (m/s) | 0 | 5.1 | 13.7 | 25.7 | 36.0 |
+| $x_i$ (m) | 25.5 | 94.0 | 197.0 | 308.5 | 394.5 |
+
+Thus, the total distance traveled in the first 50 seconds is
+
+$$x = \sum_{i=1}^{5} x_i = 1019{,}5\ \text{m} \quad (6)$$
+
+e) In a pendulum subjected only to the acceleration due to gravity, the oscillation period is given by
+
+$$P_0 = 2\pi\sqrt{\frac{L}{g}} \quad (7)$$
+
+An observer riding on the train is a non-inertial observer (moving with non-constant velocity).
+As the train starts accelerating with a certain acceleration
+$\vec{a}$, the observer on the train sees that the pendulum tilts even though no apparent force acts upon it, so he decides to invent a backward-directed force,
+$\vec{F}_i = -m\vec{a}$, which he calls the "inertial force" (Figure 3).
+This is the mysterious force that seems to push us backward when traveling in an accelerating train. But this force is fictitious and does not actually exist. From the perspective of an external inertial observer fixed to the ground, what happens is that the train accelerates while the passenger tends to maintain constant velocity. Therefore, the passenger must hold onto the train’s handrail in order not to fall behind relative to the train, and thus avoid falling onto the floor.
+
+For the observer traveling on the train, the pendulum is in equilibrium; thus, the force diagram acting on the pendulum would be as shown in Figure 3, so that
+
+$$\vec{T} = m(\vec{g} - \vec{a}) \quad (8)$$
+
+The non-inertial observer interprets the pendulum as aligning itself along an "apparent gravity"
+$\vec{g}\,'$, shown in Figure 3, given by
+
+$$\vec{g}\,' = \vec{g} - \vec{a} \quad (9)$$
+
+By analogy with expression (7), under this "apparent gravity," if the pendulum is slightly displaced from equilibrium, it oscillates with a period
+
+$$P = 2\pi\sqrt{\frac{L}{g'}} \quad (10)$$
+
+From (9) we obtain the magnitude of the apparent gravity,
+
+$g'$
+
+$$g' = \sqrt{g^2 + a^2} \quad (11)$$
+
+And substituting $a$ with the expression obtained in (3),
+
+$$g' = \sqrt{g^2 + (g\,\text{tg}\,\theta)^2} = g\sqrt{1 + (\text{tg}\,\theta)^2} = \frac{g}{\cos\theta} \quad (12)$$
+
+Thus, the period of the pendulum moving with acceleration $a$ is given by
+
+$$P = 2\pi\sqrt{\frac{L\cos\theta}{g}} \quad (13)$$
+
+f) If the train moves with constant velocity, an observer on board is an inertial observer and therefore applies Newton's laws as if at rest. Hence, the pendulum's period will be given by expression (7).
+
+$$P_0 = 2\pi\sqrt{\frac{L}{g}}$$
+
+It can be verified that this expression coincides with (12) when
+$a = 0$ (and therefore
+$\theta = 0$), as expected.
+
+<!--fig:start-->
+![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p2_f1.png]]
+*Pendulum in a stationary and accelerating train*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p3_f2.png]]
+*Free-body diagram of pendulum (Fig 2)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p4_f3.png]]
+*Free-body diagram of pendulum with inertial force (Fig 3)*
+<!--fig:end-->
 
 
 
@@ -1419,154 +1331,97 @@ $$h = h_0 + s = 6870\ \text{m}$$
 <div class="qlang-split" data-lang="en"></div>
 
 P3. Einstein and the speed of light.
-In his visit to Zaragoza, Einstein gave two lectures at the Paraninfo of the University. The first one
-He devoted some of these to expounding his theory of special relativity. One of the most important proposals of the
-This theory is that the speed of light in vacuum, $c$, is constant and independent of relative motion.
-between the transmitter, receiver and observer. With a simple mental experiment we can deduce some of the
-The Commission has not yet taken any further action.
-Consider a train moving at constant speed $v$. One of them.
-A young physics student riding a train (Fig. 1) observes
-a pulse of light is emitted from a ground-based focus towards the
-a mirror placed on the roof of the train, at a height $L$ from the
-So the light is reflected back into the focus.
 
-(a) Calculate the time
-$\Delta t$ que, desde el punto de vista de la
-Student, it takes the pulse from the exit of the focus until the
-It's back to the same.
+During his visit to Zaragoza, Einstein gave two lectures at the University's Paraninfo. The first of these was devoted to presenting his Special Theory of Relativity. One of the most important postulates of this theory is that the speed of light in vacuum, $c$, is constant and independent of the relative motion between emitter, receiver, and observers. With a simple thought experiment we can deduce some of the consequences of this postulate.
 
-A colleague of yours, watching the train pass, observes that
-The light describes a different path (Fig. 2), although according to the
-Einstein's postulate, the speed of light, $c$, is the same for him
-than the one watching her partner on the train. Therefore, for him, the
-Pulse will take a while
-$\Delta t_0 > \Delta t$ en volver al foco.
+Consider a train moving at constant velocity $v$. A young physics student riding on the train (Figure 1) observes that a pulse of light is emitted from a source located on the floor toward a mirror mounted on the ceiling of the train, at height $L$ above the floor, so that the light reflects and returns to the source.
 
-(b) Calculate based on time
-$\Delta t_0$ the distance $D$ travelled
-The light from the focus to the mirror from the point of view of the
-student on leave.
+a) Calculate the time $\Delta t$, from the student’s point of view, that the pulse takes to travel from the source until it returns to the same point.
 
-(c) Calculate, based on $v$, $c$ and $L$, the time
-$\Delta t_0$ que, desde el punto de vista del estudiante en reposo, tarda
-pulse from the moment it exits the focus until it returns to the same.
+Her classmate, who is watching the train pass by, observes that the light follows a different trajectory (Figure 2), although according to Einstein’s postulate, the speed of light, $c$, is the same for him as it is for his companion on the train. Therefore, from his point of view, the pulse takes a time $\Delta t_0 > \Delta t$ to return to the source.
 
-(d) Expressed
-$\Delta t$ depending on the
-$\Delta t_0$.
+b) Calculate, in terms of time $\Delta t_0$, the distance $D$ that the light travels from the source to the mirror, as seen by the student at rest.
 
-The expression
-the amount of time you have received in d) corresponds to the time dilation
-Relativist: a moving clock lags behind a resting clock.
-This effect allows particles like charged pions to reach the Earth's surface
-$\pi^\pm$, which
-They occur in the upper atmosphere by the constant bombardment of charged particles.
-(mainly protons and heavier atomic nuclei) coming from outer space, known as
-like cosmic rays. The resting pions have a half-life of 25 ns, before disintegrating.
-In other particles, they would hardly have time to reach the Earth's surface. However,
-And because of the time dilation that occurs when they're seen moving at high speed, they could be
-first detected in 1947 at the Cosmic Ray Physics Laboratory in Chacaltaya, Bolivia,
-located at 5200 m above sea level. Suppose the pions travel through the atmosphere at a speed
-constant
-$v$ close to that of the light,
-$v = 0{,}99999c$.
+c) Calculate, in terms of $v$, $c$ and $L$, the time $\Delta t_0$ that, from the point of view of the student at rest, the pulse takes to travel from the source and return to it.
 
-(e) Determines the half-life of the pions at that speed which an observer will measure at the
-The lab.
+d) Express $\Delta t$ in terms of $\Delta t_0$.
 
-(f) Calculate the average elevation above sea level at which these pions were generated in the atmosphere.
+The expression you obtained in d) corresponds to relativistic time dilation: a moving clock runs slow compared to one at rest. This effect allows particles such as charged pions $\pi^\pm$, produced in the upper layers of the atmosphere by constant bombardment from charged particles (mainly protons and nuclei of heavier atoms) coming from outer space, known as cosmic rays, to reach Earth's surface. Pions at rest have a mean lifetime of 25 ns before decaying into other particles, so they would hardly have time to reach Earth's surface. However, thanks to relativistic time dilation when observed moving at high speed, they were first detected in 1947 at the Chacaltaya Cosmic Ray Physics Laboratory (Bolivia), located 5200 m above sea level. Suppose the pions travel through the atmosphere at a constant speed $v$ close to that of light, $v = 0{,}99999c$.
+
+e) Determine the mean lifetime of pions at this speed as measured by an observer in the laboratory.
+
+f) Calculate the average height above sea level at which these pions were generated in the atmosphere.
 
 $c = 3\cdot 10^5\ \text{km/s}$
 
 P3. Solution
 
-(a) For the observation apparatus mounted on the train, the light pulse travels a distance $2L$ and moves at speed
-$c$, therefore
+a) For the observer riding on the train, the light pulse travels a distance $2L$ and moves with velocity $c$, therefore
 
 $$\Delta t = \frac{2L}{c} \quad (1)$$
 
-(b) For the observer watching the train passing at $v$, the distance $s$ travelled by the train from
-The pulse of light that comes out of the focus until it comes back to the same is given by
+b) For the observer watching the train pass with velocity $v$, the distance $s$ that the train travels from when the light pulse leaves the source until it returns to the same point is given by
 
 $$s = v\,\Delta t_0 \quad (2)$$
 
-Applying the Pythagorean theorem (Fig. 3), the $D$ distance travelled by the light between
-The focus and the mirror is
+Applying the Pythagorean theorem (Fig. 3), the distance $D$ that light travels between source and mirror is
 
 $$D = \sqrt{L^2 + \left(\frac{s}{2}\right)^2} \;\Rightarrow\; D = \sqrt{L^2 + \left(\frac{v\,\Delta t_0}{2}\right)^2} \quad (3)$$
 
-(c) For the observer at rest, the pulse of light travels a distance $2D$ and, according to the postulate of
-Einstein, it also moves at $c$, so
+c) For the observer at rest, the light pulse travels a distance $2D$ and, according to Einstein's postulate, also moves with velocity $c$, therefore
 
 $$\Delta t_0 = \frac{2D}{c} \quad (4)$$
 
-Substituting (4) for (3) we find the following relationship,
+Substituting (4) into (3), we find the following relation:
 
 $$\Delta t_0 = \frac{2}{c}\sqrt{L^2 + \left(\frac{v\,\Delta t_0}{2}\right)^2} \quad (5)$$
 
-By passing $c/2$ by multiplying to the left and by squaring both terms we can remove the root
-square,
+Moving $c/2$ to the left side, multiplying by it and squaring both sides allows us to eliminate the square root:
 
 $$\frac{c^2}{4}\,\Delta t_0^2 = L^2 + \left(\frac{v\,\Delta t_0}{2}\right)^2 \quad (6)$$
 
-where, with a little bit of algebra, we can clear
-$\Delta t_0$,
+From which, with a bit of algebra, we can solve for $\Delta t_0$,
 
 $$\Delta t_0 = \frac{2L}{\sqrt{c^2 - v^2}} \quad (7)$$
 
-To compare the value of
-$\Delta t$ obtained for the moving observer, the expression (7) is
-You can write in the form
+To compare with the value of $\Delta t$ obtained by the moving observer, expression (7) can be rewritten in the form
 
 $$\Delta t_0 = \frac{2L}{c}\frac{1}{\sqrt{1 - \left(\dfrac{v}{c}\right)^2}} \quad (8)$$
 
-(d) From the expression (8) we can write,
+d) From expression (8), we can write,
 
 $$\Delta t_0\sqrt{1 - \left(\frac{v}{c}\right)^2} = \frac{2L}{c} \quad (9)$$
 
-Comparing the expression (9) with the expression (1) is obtained
+Comparing expression (9) with (1), we obtain
 
 $$\Delta t = \Delta t_0\sqrt{1 - \left(\frac{v}{c}\right)^2} \quad (10)$$
 
-(e) In the pione reference system (in motion at speed)
-$v = 0{,}99999c$ for the laboratory)
-Its half-life is
-$\Delta t = 25$ ns. For the lab observer, who is at rest, the weather
-the half-life of the pion,
-$\Delta t_0$, can be obtained by clearing the equation (10),
+e) In the pion's reference frame (moving with velocity $v = 0{,}99999c$ relative to the laboratory),
+its mean lifetime is $\Delta t = 25$ ns. For the observer in the laboratory, who is at rest, the pion's mean lifetime $\Delta t_0$ can be obtained by solving equation (10):
 
 $$\Delta t_0 = \frac{\Delta t}{\sqrt{1 - (v/c)^2}} \;\Rightarrow\; \Delta t_0 = 5590\ \text{ns} \quad (11)$$
 
-(f) The average distance travelled by the furthest pions from the time they occur to the point of
-The detection, $s$, shall be given by:
+f) The average distance traveled by the most distant pions from their production point to the detection point, $s$, is given by
 
 $$s = v \cdot \Delta t_0 \quad (12)$$
 
-So that
+Therefore,
 
 $$s = 0{,}99999c \cdot \Delta t_0 \;\Rightarrow\; s = 1670\ \text{m} \quad (13)$$
 
-As the laboratory at Chacaltaya is located at an altitude
-$h_0 = 5200\ \text{m}$, the average height above the level
-The sea from which these pions are produced is
+Since the Chacaltaya laboratory is located at an altitude $h_0 = 5200\ \text{m}$, the average height above sea level at which these pions are produced is
 
 $$h = h_0 + s = 6870\ \text{m}$$
 
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p10_f4.png]]
-*Luce verticale nel treno (Figura 1)*
+*Vertical light beam in the train (Figure 1)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p10_f5.png]]
-*Luce diagonale D osservatore fermo (Figura 2)*
+*Diagonal light beam D for the stationary observer (Figure 2)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p11_f6.png]]
-*Triangolo pitagorico percorso luce (Figura 3)*
+*Right triangle for light path (Figure 3)*
 <!--fig:end-->
-
-**Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)

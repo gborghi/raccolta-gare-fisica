@@ -192,21 +192,7 @@ without friction. Under certain circumstances, the ring suddenly jumps, more or 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3. Un esperimento analizzato approfonditamente negli ultimi due decenni è noto nel campo scientifico
-comunità denominata jumping ring, presentata per la prima volta nel 1887. L'analisi di questo esperimento
-La Commissione ha inoltre adottato una proposta di direttiva che, in base alle disposizioni del regolamento (CE) n. La base
-Il progetto di esperimento richiede la presenza di una bobina con un nucleo di ferro (che è più lungo della
-la bobina stessa), accoppiata a una fonte di tensione e posizionata in modo tale che il suo asse di simmetria sia verticale. La bobina
-ha un ciclo circolare e il nucleo di ferro ha una sezione trasversale circolare di diametro esterno $D$. Un direttore,
-si inserisce un anello non magneto di diametro interno $D$, diametro esterno $D + 2x$, spessore $H$ e densità $\rho$
-sopra la bobina, in modo che sia concentrica con la bobina e il suo nucleo di ferro. L' anello può muoversi verticalmente
-senza attrito. In certe circostanze, l'anello salta improvvisamente, più o meno.
-
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nIWHT3-h-leYcU0Oc6fq4s0-Ijm0F7Em/view)
+Problema 3. Un esperimento analizzato approfonditamente negli ultimi due decenni è noto nella comunità scientifica col nome di "anello che salta", presentato per la prima volta nel 1887. L'analisi di questo esperimento ha portato all'emergere di dozzine di video dimostrativi, nonché di alcuni articoli scientifici. Il schema base dell'esperimento richiede la presenza di una bobina con nucleo di ferro (più lunga della bobina stessa), collegata a una sorgente di tensione e posizionata in modo che il suo asse di simmetria sia verticale. La bobina è costituita da spire circolari, e il nucleo di ferro ha una sezione trasversale circolare con diametro esterno $D$. Un anello conduttore, non magnetico, di diametro interno $D$, diametro esterno $D + 2x$, spessore $H$ e densità $\rho$ viene posto sopra la bobina, in modo da essere concentrico con essa e col suo nucleo di ferro. L'anello può muoversi verticalmente senza attrito. In certe condizioni, l'anello salta improvvisamente, più o meno.
 
 
 

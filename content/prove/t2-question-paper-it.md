@@ -204,149 +204,102 @@ Figura 5
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total cost of the vehicle:
+**Figure 5**
 
-Pay it. 1 di 2
+Page 1 of 2
 T-2
 Q
 
-The Principle of Variation
-(Scoring)
-Total: 10
-The Principle of Variability in Mechanics
-Consider the friction-free x-y horizontal plane of the Fig. 1. It is divided into
-Two regions, I and II, from a line AB of the equation. Energy
-The potential of a pointed particle mass is in
-The Commission has already decided to adopt a proposal for a regulation on the approximation of the laws of the Member States relating to the use of the electricity sector in the Community. The particle was launched with
-speed from the origin O, in a direction that forms the angle with
-The x-axis. It reaches a point P in Region II, travelling through it
-with a velocity in a direction that forms the angle with
-The x-axis. All in all T-2 (in all parts of the problem) neglects gravity
-And the relativistic effects.
+The Variational Principle (Total Score: 10)
+A The Variational Principle in Mechanics
+
+Consider the frictionless horizontal x-y plane shown in Fig. 1. It is divided into two regions, I and II, by a line AB with equation . The potential energy of a point mass particle of mass is in region I, while it is in region II. The particle is launched from the origin O with velocity , at an angle with respect to the x-axis. It reaches a point P in region II, traveling through it with velocity along a direction forming an angle with the x-axis. Throughout T-2 (in all parts of the problem), neglect gravity and relativistic effects.
 
 A1
-It takes an expression of function of , and .
+Derive an expression for in terms of , and .
 0.2
+
 A2
-Expressions in terms of , e .
+Express in terms of , and .
 0.3
 
-A size $\int$ is defined, called action; it represents an infinitesimal displacement
-The trajectory of a moving mass particle along a velocity and integral path is extended to the
-I'm going to walk. For example, in the case of a moving particle along a circular path of radius, with
-The action for a spin is . For a particle of constant energy , yes .
-It can demonstrate that, between all possible trajectories between two data points, the actual trajectory is that where the
-The size defined above takes on an extreme value (minimum or maximum). Historically, this case
-is known as the Minimum Action Principle (MAP).
+A quantity $\int$ is defined, called action; it represents an infinitesimal displacement along the trajectory for a particle of mass , moving with velocity and the integral is understood to be taken over the path. For example, in the case of a particle moving along a circular path of radius , with constant speed magnitude , the action for one complete revolution is . For a particle with constant energy, it can be shown that among all possible trajectories between two given points, the actual trajectory is the one for which the quantity defined above takes an extreme value (minimum or maximum). Historically, this case is known as the Principle of Least Action (PLA).
 
 A3
-The MPA shows that the trajectory of a moving particle between two data points in a region with
-The constant potential must be straight. Let's say the two fixed points and Fig. 1 have
-coordinates and ; the border point where the particle passes through Region I respectively
-The Commission has a number of proposals for a new programme for the European Community.
-Coordinated . It was the expression of action . Use the WFP to obtain the relationship between
-These coordinates.
+From the Principle of Least Action (PLA), it follows that the trajectory of a particle moving between two given points in a region with constant potential must be straight. Suppose the two fixed points in Fig. 1 have coordinates respectively and ; let the boundary point at which the particle passes from region I to region II have coordinates . Note that is fixed and that the action depends only on the coordinate . Derive the expression for the action . Use the PLA to derive the relation between and these coordinates.
+
 1.0
-B The principle of variation in optics
-A beam of light passes from a medium I to a medium II with indices of
-refraction and . The two means are separated by a line
-parallel to the x-axis. The light beam forms an angle with the y-axis in the
-The average of the two samples is the average of the two samples. 2). In order to obtain the
-The radius trajectory, we will use another variational principle (of
-The maximum or minimum time) known as the Fermat principle of minimum time.
+
+B The Variational Principle in Optics
+A light ray passes from medium I to medium II, with refractive indices respectively and . The two media are separated by a line parallel to the x-axis. The light ray forms an angle with the y-axis in medium I and an angle in medium II (see Fig. 2). To determine the ray’s trajectory, we will use another variational principle (minimum or maximum), known as Fermat's Principle of Least Time.
 
 B1
-The principle states that between two data points a beam of light moves along a path such that the
-The time taken between the two points is extreme. The Fermat principle states that the relationship between the two
- e .
+The principle states that, between two given points, a light ray travels along a path such that the time taken between the points is an extremum. Based on Fermat’s Principle, derive the relation between and .
+
 0.5
 
-In the Fig. 3 is the path of a laser beam diagrammed
-The sugar content of the product is not to exceed the limit of the quantity of sugar in the product.
-The concentration of sugar decreases with height. As a result,
-The refractive index of the solution decreases with height.
+In Fig. 3, a schematic representation of the path of a laser beam incident horizontally on a sugar solution is shown, in which the sugar concentration decreases with height. Consequently, the refractive index of the solution also decreases with height.
 
 B2
-Suppose the refractive index depends only on . Use the equation obtained in B1 to obtain
-The slope of the radius path is expressed as a function of the refractive index ,
-corresponding to , and of .
+Assume that the refractive index depends only on . Use the equation obtained in B1 to derive an expression for the slope of the ray path as a function of the refractive index , corresponding to , and .
 1.5
+
 B3
-The laser beam starts from the source in a horizontal direction and enters the sugar solution in the
-a height from the bottom of the tank, as shown in Figure 3. Pons , where and
-They're constantly positive. For the actual trajectory of the laser beam, it is expressed as a function of
+The laser beam starts from the origin in a horizontal direction and enters the sugar solution at a height above the bottom of the container, as shown in Figure 3. Set , where and are positive constants. For the actual trajectory of the laser beam, derive an expression for in terms of
 1.2
 Figure 2
-The following is the list of the following:
-Figure 3: Baskets with sugar solution
+Figure 1
+Figure 3: Container with sugar solution
 
 I
 II
 
-Pay it. 2 di 2
+Page 2 of 2
 T-2
-Q
-and the associated greatness.
-You can use the ratio: $\int$ constant, where
+Q and the associated quantities.
+You may use the relation: $\int$ constant, where
 ⁄
 
-or the report: $\int$
+or alternatively the relation: $\int$
 
 $\sqrt{}$ ( $\sqrt{}$ )
+
 B4
-It takes the value of , the point where the light beam touches the bottom of the tank. Put your cm,
- , cm (1 cm = 10-2 m).
+Derive the value of , the point at which the light beam touches the bottom of the container. Set cm,
+, cm (1 cm = 10⁻² m).
 0.8
 
-C The Principle of Variation and the Wave Nature of Matter
-We will now explore the relationship between the PMA and the wave nature of a moving particle. For that purpose,
-Let's say that a particle that moves to can travel all the possible paths and we look for
-A trajectory that is the result of constructive interference between de Broglie waves.
+C The Principle of Least Action and the Wave Nature of Matter
+We will now explore the relationship between the PMA and the wave nature of a moving particle. To this end, assume that a particle moving at may traverse all possible trajectories and seek the trajectory resulting from constructive interference between de Broglie waves.
 
 C1
-Since a particle describes an infinitesimal stretch of its trajectory, it expresses the variation
-The resulting waveform is the de Broglie wave phase, which is a function of the change in the action and the constant of the
-Planck, please.
+Given that a particle traverses an infinitesimal segment of its trajectory, express the change in phase of its de Broglie wave as a function of the change in action and Planck's constant.
 0.6
-C2
-Take the problem of Part A where the particle goes from a to a
-(see Fig. 4). Suppose we put a blurry separation on the
-The border between the two regions. In this case, a small
-Open , wide , as it is .
 
-Consider two extreme paths and , so that
-The classical trajectory described in Part A. He was getting the
-The first step is the phase difference between the two paths, in the first order of
-The approximation is
+C2
+Return to the problem of Part A, where the particle moves from point a to point b (see Fig. 4). Suppose an opaque barrier is placed at the boundary between the two regions. In region II there is a small opening of width d, such that d ≪ λ and d ≪ L (where λ is the de Broglie wavelength and L is a characteristic length scale).
+
+Consider two extreme paths, γ₁ and γ₂, such that γ₁ lies along the classical trajectory discussed in Part A. Derive the phase difference between these two paths, to first-order approximation.
 1.2
-D Interference of material waves
-Consider an electronic cannon placed in , which sends a
-a beam of electrons collimated on a narrow crack; this is
-obtained from opaque separation in a position
-So it's a straight path. It's a point on the top.
-The screen in (see Fig. 5). The velocity in I is
- m s e si ha . The potential in II is such that the
-The speed of the result m s . The distance
-è di ( ). Interaction is traced
-The electron-electron.
+
+D Interference of Matter Waves
+Consider an electron cannon located at point S, emitting a collimated beam of electrons toward a narrow slit F. The slit is made in the opaque barrier at such a position that it results in a straight path from S to F. Let P be a point on the screen (see Fig. 5). The electron velocity in region I is v₁ = 1.0 × 10⁶ m s⁻¹, and the de Broglie wavelength is λ₁ = 7.3 × 10⁻¹⁰ m. The potential in region II is such that the electron velocity becomes v₂ = 5.0 × 10⁵ m s⁻¹. The distance from the slit F to point P is L = 1.0 m (assume L ≫ d). Neglect electron-electron interactions.
 
 D1
-Assuming the electrons in were accelerated by stops, calculate the potential accelerator.
+Assuming the electrons in s were accelerated from rest, calculate the accelerating potential.
 0.3
+
 D2
-In the separation a second split is made identical to a distance of nm (nm)
-(m) below the cleft (Fig. 5). Indicating by the phase difference between the waves of de
-Brokers coming to point P through the two fissures F and G, calculate.
+In the separation a second slit identical to the first is created at a distance of nm (nm m) below the first slit (Fig. 5). Denoting by the phase difference between the de Broglie waves arriving at point P through the two slits F and G, calculate .
 0.8
+
 D3
-What is the minimum distance from P for which a zero value (zero) is expected to be found in the
-electron detection on the screen? [Note: approximation may be useful for you
- ].
+What is the minimum distance from P for which a zero (null) value in electron detection on the screen is expected? [Note: you may find it useful to use the approximation ]
 1.2
+
 D4
-The beam has a square cross section of and the apparatus has a length of 2 m.
-What is the minimum Imin flow density (number of electrons per unit of normal area and per unit of
-The time required for the device to be in operation is the time required for the device to be in operation.
+The beam has a square cross-section of and the apparatus has a length of 2 m.
+What must be the minimum flux density Imin (number of electrons per unit normal area and per unit time) such that, on average, at least one electron is present in the apparatus at any given instant?
 0.4
 
 Figure 4
@@ -357,33 +310,28 @@ Figure 5
 250 mm
 
 <!--fig:start-->
- Plan with regions I and II, trajectory
+**p.1** — Plane with regions I and II, trajectory
 ![[_attachments/T2-Question-paper-IT/T2-Question-paper-IT_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1 **  Refraction between means n1 and n2
+**p.1** — Refraction between media n1 and n2
 ![[_attachments/T2-Question-paper-IT/T2-Question-paper-IT_p1_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1 **  Baskets with sugar solution
+**p.1** — Container with sugar solution
 ![[_attachments/T2-Question-paper-IT/T2-Question-paper-IT_p1_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+**p.2** — Trajectories A, B, C, D between regions
 ![[_attachments/T2-Question-paper-IT/T2-Question-paper-IT_p2_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following shall be added to the list of the following:
+**p.2** — Inclined wavefronts, points F and G
 ![[_attachments/T2-Question-paper-IT/T2-Question-paper-IT_p2_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Modern-Quantum Physics]], [[Geometric Optics]], [[Newtonian Mechanics]]
-**Metodi:** [[de Broglie Relation (metodo)|de Broglie Relation]], [[Snell's Law (metodo)|Snell's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1LiFo6rEIb-LHcR98A0xMNCXsc-okmRAI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18dICVbI-7GWC9rT9SuXaOtmhv6Heorqm/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/18dICVbI-7GWC9rT9SuXaOtmhv6Heorqm/view)

@@ -63,46 +63,31 @@ Lamp
 
 <div class="qlang-split" data-lang="it"></div>
 
-D1 In questa domanda vi viene chiesto di fare stime e ipotesi motivate. Questi
-deve essere chiaramente indicato
+Q1 In questo quesito ti viene chiesto di effettuare stime e ipotesi ragionate. Queste devono essere chiaramente esplicate.
 
 a)
 Figura 1.1
 Figura 1.2
 
-La figura 1.1 mostra una fotografia del ghiaccio in una vasca di uccelli in pietra. La figura 1.2 mostra un
-immagine dettagliata del pilastro di ghiaccio mostrato alla figura 1.1. La vasca d'acciaio era all'aria aperta e...
-Non c'è stata acqua dall'alto. Proponi una spiegazione.
+La Figura 1.1 mostra una fotografia del ghiaccio in un abbeveratoio per uccelli realizzato in pietra. La Figura 1.2 mostra un’immagine dettagliata del pilastro di ghiaccio visibile nella Figura 1.1. L’abbeveratoio era all’aperto e non è caduta acqua dall’alto. Proponi una spiegazione.
 
-b) Un recente articolo della notizia nazionale ha riferito  Gli scienziati dicono che i braccialetti magnetici non riescono a
-cura dolori e dolori . Descrivere le difficoltà di eseguire un doppio test cieco per risolvere questo problema.
-- La domanda.
+b) Un recente articolo di notizie nazionali ha riportato: “Gli scienziati affermano che i braccialetti magnetici non curano dolori e affaticamenti”. Illustra le difficoltà nell’effettuare un esperimento a doppio cieco per risolvere questa questione.
 
-c) Figura 1.3
+c)
+Figura 1.3
 
-La figura 1.3 mostra una dimostrazione dell'ombra oscura di una fiamma di gas che contiene particelle di sale
-in it. La lampada è una lampada a bassa pressione di sodio luminosa. Senza il sale c'è poca ombra.
-La sostituzione della lampada con una lampada a filamento di tungsteno e un filtro giallo distrugge il nero
-- Oh, l'ombra. - Spiegami.
+La Figura 1.3 mostra una dimostrazione dell’ombra scura di una fiamma di gas contenente particelle di sale. La lampada è una lampada al sodio a bassa pressione molto intensa. Senza il sale, l’ombra è scarsa.
+Sostituendo la lampada con una lampada a filamento di tungsteno e un filtro giallo, l’ombra nera scompare. Spiega.
 
-d) In una giornata di estate chiara, la normale radiazione incidente sulla superficie della Terra
-dal Sole è di circa 1000 Wm-2. In base a tali ipotesi, la Commissione può
-- la potenza per metro quadrato di radiazioni emesse dalla superficie del Sole e
-- la pressione sulla superficie del Sole dovuta a questa radiazione. Si può presumere che il
-l'energia di un fotone è hf, la frequenza f e il suo impulso hf/c. Calcolare come
-Molti fotoni di lunghezza d'onda 590 nm sarebbero necessari per accelerare un protone a una velocità
-equivalente a una temperatura di 106 K.
+d) In un giorno sereno d’estate, la radiazione solare normale incidente sulla superficie della Terra è circa 1000 Wm⁻². Facendo opportune semplificazioni, determina:
+(i) la potenza per metro quadrato di radiazione emessa dalla superficie del Sole;
+(ii) la pressione sulla superficie del Sole dovuta a questa radiazione.
+Puoi assumere che l’energia di un fotone sia hf, con frequenza f, e il suo quantità di moto sia hf/c. Calcola quanti fotoni di lunghezza d’onda 590 nm sarebbero necessari per accelerare un protone fino a una velocità equivalente a una temperatura di 10⁶ K.
 
-Disegno
+Schermo
 Fiamma
 Lampada
 3
-
-**Topic:** [[Order-of-Magnitude Estimation]], [[Modern-Quantum Physics]], [[Oscillations & Waves]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1DRBN3DWT_abaO94ynnGwI_xsP-Boaawm/view)
 
 
 

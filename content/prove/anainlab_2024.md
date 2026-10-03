@@ -54,37 +54,31 @@ Per ogni grandezza indica la sensibilità dello strumento usato (bilancia e acce
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PART 1  Measurement of acceleration and data collection (Table 1) **
+**PART 1 — Measurement of Acceleration and Data Collection (Table 1)**
 
-A variable mass $M$ 'slit' is resting on a horizontal table and connected by a wire running on a metal bolt to a constant mass $m$ body in fall. Using the **ARDUINO SCIENCE JOURNAL (ASJ) ** app mounted on the sled, measure the $a_{\rm eff}$ acceleration of the sled for at least 7 different values of $M$, repeating each measurement at least 4 times. It also records the "background acceleration" (reading of the smartphone with a fixed sleigh) and corrects it at each test.
+A "sled" of variable mass $M$ is placed on a horizontal table and connected via a string passing over a metal pin to a body of constant mass $m$ undergoing free fall. Using the **ARDUINO SCIENCE JOURNAL (ASJ)** app mounted on the sled, measure the acceleration $a_{\rm eff}$ of the sled for at least 7 different values of $M$, repeating each measurement at least 4 times. Also record the "background acceleration" (smartphone reading when the sled is stationary) and subtract it from each measurement.
 
 It can be shown that, in the absence of friction, the theoretical acceleration of the sled would be:
 $$a_t = \frac{m}{M+m}\,g \quad (1)$$
 
-where $m$ is the mass of the tractor body (constant), $M$ the mass of the sled, $g$ the acceleration by gravity. The measured acceleration $a_{\rm eff}$ is less than $a_t$ for the presence of friction.
+where $m$ is the mass of the pulling body (constant), $M$ is the sled's mass, $g$ is the acceleration due to gravity. The measured acceleration $a_{\rm eff}$ turns out to be less than $a_t$ due to the presence of friction.
 
-The following information is provided in Table 1 (data sheet):
-- registration number
-- mass of the sled $M$ (in kg)
-- bottom acceleration (in m/s2)
-- Acceleration $a_{\rm eff}$ adjusted for bottom (in m/s2)
+Record in **Table 1** (data sheet):
+- recording number
+- sled mass $M$ (in kg)
+- background acceleration (in m/s²)
+- corrected acceleration $a_{\rm eff}$ (in m/s²)
 
-For each size, indicate the sensitivity of the instrument used (balance sheet and accelerometer) and the correct SI units.
+For each quantity, indicate the instrument's sensitivity (balance and accelerometer) and use correct SI units.
 
 <!--fig:start-->
 ![[_attachments/ANAinLAB_2024/ANAinLAB_2024_p13_f1.png]]
-*Schema of table sleigh with drawing weight*
+*Diagram of sled on table with hanging pulling mass*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/ANAinLAB_2024/ANAinLAB_2024_p15_f2.png]]
-The following information is provided by the Commission to the European Parliament and to the Council.
+*Smartphone orientation on the sled*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/11OHZHdkO--RYJt9FTOMeP0DXVO1tM13q/view)
 
 
 

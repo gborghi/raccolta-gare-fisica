@@ -13,6 +13,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="EuPhO 2026 — Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/meccanica,object/rod"></span>
 
+<div class="qlang-switch" data-default="en"></div>
+
+
+
 **T1: Jumper (10 pts)**
 
 Two uniform rods, each of mass $m$ and length $\ell$, are connected at one end by a hinge equipped with a torsional spring. The spring exerts equal and opposite restoring torques $\tau$ on the rods about the hinge,
@@ -31,8 +35,26 @@ Jumper jumps after the hinge is released. Determine the maximum height $h$ reach
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**T1: Saltatore (10 punti)**
+
+Due aste omogenee, ciascuna di massa $m$ e lunghezza $\ell$, sono collegate a un'estremità da una cerniera dotata di una molla torsionale. La molla esercita sulle aste, rispetto alla cerniera, momenti richiamanti uguali e opposti $\tau$,
+$$\tau = 2k\theta,$$ dove $2\theta$ è l'angolo tra le aste (in radianti), e $k$ ($k \gg mg\ell$) è la costante elastica torsionale della molla.
+
+Il sistema è posto su una superficie piana orizzontale con le estremità libere delle aste appoggiate al pavimento e la cerniera sopra di esse. La cerniera viene quindi spinta verso il basso finché le aste giacciono piatte sul pavimento in direzioni opposte, corrispondenti a $\theta = \pi/2$. L'attrito tra le aste e il pavimento è trascurabile.
+
+Il saltatore salta dopo che la cerniera è stata rilasciata. Determina l'altezza massima $h$ raggiunta dal centro di massa del sistema con una precisione migliore di $1\%$.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
+
+
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="EuPhO 2026 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/magnetism,topic/electromagnetic-induction,argomento/elettromagnetismo,object/solenoid"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 **T2: Hysteresis (10 pts)**
 
@@ -56,8 +78,31 @@ c) (4.7 pts) The current $I(t)$ exhibits two qualitatively distinct phases of be
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
 
 
+<div class="qlang-split" data-lang="it"></div>
+
+**T2: Isteresi (10 punti)**
+
+Si consideri un solenoide con $N \gg 1$ spire, raggio $R$ e lunghezza $\ell \gg R$. Il solenoide ha un nucleo ferromagnetico con curva di isteresi come mostrato in figura. $M$ denota la magnetizzazione del nucleo e sarebbe zero senza il materiale del nucleo. Essa è legata a $H$, l'intensità del campo magnetico generato dalla corrente nella bobina del solenoide, e a $B$ da $B = \mu_0 (H + M)$. $M_0$ e $H_0$ sono dello stesso ordine di grandezza. Si assuma che $M$ possa cambiare solo se $|H| \ge H_0$.
+
+![[_attachments/eupho_2026_theory/eupho_2026_theory_t2_f1.png|Hysteresis curve]]
+
+Un condensatore ideale con capacità $C$ è ora collegato al solenoide formando un circuito chiuso. Si assuma che tutti i fili abbiano resistenza trascurabile.
+
+a) (3.0 punti) Inizialmente nel circuito scorre una corrente $I_i$ e il condensatore è scarico. $I_i$ è sufficientemente grande affinché $H(I_i) \gg H_0$. Dopo un'oscillazione la corrente raggiunge nuovamente un valore massimo. Determinare la differenza tra $I_i$ e questo valore.
+
+b) (2.3 punti) Trovare la corrente massima che può essere raggiunta dopo molte oscillazioni.
+
+c) (4.7 punti) La corrente $I(t)$ presenta due fasi di comportamento qualitativamente distinte, A e B. Il sistema può rimanere nella fase A indefinitamente, mentre qualsiasi singolo intervallo trascorso nella fase B ha durata limitata. Trovare la massima durata possibile di un intervallo in fase B, se $I_i$ è scelto in modo ottimale.
+
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
+
+
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="EuPhO 2026 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/EuPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/disk"></span>
+
+<div class="qlang-switch" data-default="en"></div>
+
+
 
 **T3: Dry ice hockey (10 pts)**
 
@@ -80,4 +125,24 @@ Treat the $\mathrm{CO}_2$ gas as ideal. Assume no tilting of the puck at any mom
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Puck (object)]]
 **Fonte:** [Testo (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_ENG.pdf)
+**Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)
+
+
+<div class="qlang-split" data-lang="it"></div>
+
+**T3: Hockey su ghiaccio secco (10 punti)**
+
+Alla pressione $p_0 = 100\,\mathrm{kPa}$, il $\mathrm{CO}_2$ solido (ghiaccio secco) sublima (passa dallo stato solido a quello gassoso) a $T_s = -78.5\,^\circ\mathrm{C}$. La sua pressione di vapore saturo segue la relazione di Clausius--Clapeyron:
+$$\frac{\mathrm{d}p_{\mathrm{sat}}}{\mathrm{d}T} = \frac{\mu\lambda p_{\mathrm{sat}}}{R T^2},$$ dove il calore latente di sublimazione è $\lambda = 600\,\mathrm{kJ/kg}$, la massa molare è $\mu = 0.044\,\mathrm{kg/mol}$, e la costante dei gas è $R = 8.3\,\mathrm{J/(mol\cdot K)}$. La conducibilità termica del gas $\mathrm{CO}_2$ è $\kappa = 10\,\mathrm{mW/(m\cdot K)}$ e la sua viscosità dinamica è $\eta = 10\,\mu\mathrm{Pa\cdot s}$. La densità del ghiaccio secco è $\rho = 1500\,\mathrm{kg/m}^3$ e l'accelerazione di gravità è $g = 10\,\mathrm{m/s}^2$.
+
+Un disco di raggio $r = 10\,\mathrm{mm}$ è costituito da un disco di ghiaccio secco di spessore $h = 1\,\mathrm{mm}$, e da un disco metallico di massa $M = 0.01\,\mathrm{kg}$ sopra di esso. La temperatura iniziale del disco è $T_s$ e la pressione ambiente è $p_0$.
+
+Il disco è posto su una piastra metallica orizzontale mantenuta a temperatura costante $T = T_s + \Delta T$, e gli viene data una velocità orizzontale iniziale $v = 10\,\mathrm{mm/s}$. Dopo un tempo molto lungo, si misura lo spostamento orizzontale $L$ del disco metallico.
+
+a) (2 punti) Quando $\Delta T$ è sufficientemente piccolo, $L$ è trascurabile e indipendente da $\Delta T$. Tuttavia, quando $\Delta T$ raggiunge un valore critico $\Delta T_c$, la funzione $L(\Delta T)$ inizia a crescere. Stimare $\Delta T_c$.
+
+b) (8 punti) Stimare il valore massimo $L_{\max}$ della funzione $L(\Delta T)$.
+
+Trattare il gas $\mathrm{CO}_2$ come ideale. Assumere che il disco non si inclini in alcun momento, che tutte le superfici siano perfettamente lisce, e che le conducibilità termiche del metallo, del ghiaccio secco e del gas soddisfino $\kappa_{\mathrm{metal}} \gg \kappa_{\mathrm{ice}} \gg \kappa$.
+
 **Soluzione:** [Soluzioni (PDF)](https://eupho.ee/wp-content/uploads/2026/06/EuPhO_2026_Theory_AC__Copy_v1.0.pdf)

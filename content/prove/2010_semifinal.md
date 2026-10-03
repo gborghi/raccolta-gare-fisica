@@ -73,17 +73,11 @@ Ignore any effects due to magnetism or radiation; do not assume that $b - a$ is 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Question A2**
+**Problema A2**
 
-Un guscio sferico di raggio interno $a$ e raggio esterno $b$ è costituito da un materiale di resistività $\rho$ e di attività dielettrica trascurabile. Una carica a singolo punto $q_0$ si trova al centro della conchiglia. At time $t = 0$ all of the material of the shell is electrically neutral, including both the inner and outer surfaces. Qual è la carica totale sulla superficie esterna della conchiglia in funzione del tempo per $t > 0$?
+Una calotta sferica di raggio interno $a$ e raggio esterno $b$ è realizzata con un materiale di resistività $\rho$ e attività dielettrica trascurabile. Una singola carica puntiforme $q_0$ è posta al centro della calotta. All’istante $t = 0$ tutto il materiale della calotta è elettricamente neutro, comprese le superfici interna ed esterna. Qual è la carica totale sulla superficie esterna della calotta in funzione del tempo per $t > 0$?
 
-Ignorare eventuali effetti dovuti al magnetismo o alle radiazioni; non supporre che $b - a$ sia piccolo.
-
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1csTx6W_OBnUpb377Ya-76yxdK_PcMRI9/view)
+Trascurare ogni effetto dovuto al magnetismo o alla radiazione; non assumere che $b - a$ sia piccolo.
 
 
 

@@ -35,20 +35,12 @@ presente nel problema.
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. (1.5) Calcolare, secondo la fisica classica, l’intervallo delle velocità verticali $v_z(z)$ dei neutroni che, entrati ad
-The height $z$ can reach detector D. Assume that $L$ is much larger than any other length
-The Commission has already taken a number of measures.
+1. (1.5) According to classical physics, calculate the range of vertical velocities $v_z(z)$ of neutrons that, having entered at height $z$, can reach the detector D. Assume that $L$ is much greater than any other length present in the problem.
 
 <!--fig:start-->
-**p.1** — Schema apparato cavita neutroni specchio assorbitore rivelatore
+**p.1** — Schematic diagram of neutron cavity apparatus: mirror, absorber, detector
 ![[_attachments/Problema3_I/Problema3_I_p1_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1oBBvTQt_or4yKgqF1m8b1NSLVXQT0SEE/view)
 
 
 

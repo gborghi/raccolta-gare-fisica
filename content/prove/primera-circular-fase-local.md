@@ -112,184 +112,124 @@ atentamente un saludo
 
 <div class="qlang-split" data-lang="it"></div>
 
-Elena Giménez Martín
+**Elena Giménez Martín**
 
-Università di Jane
+UNIVERSIDAD DE JAÉN
 Dipartimento di Fisica
 
 Elena Giménez Martín
 Dipartimento di Fisica
-Scuola superiore di tecnica (A3-418)
-Università di Jane
-23071 JANE
+Scuola Politecnica Superiore (A3‐418)
+UNIVERSIDAD DE JAÉN
+23071 JAÉN
 Telefono: +34 953 21 24 29
 
-Fax: +34 953 21 28 38
-egimenez@ujaen.es
+Fax: +34 953 21 28 38 egimenez@ujaen.es
 
-Campus Las Lagunillas, s/n. Edificio A3  Telefono 953 21 24 29  Fax 953 21 24 20 -23071- JAEN
-Gien 30 gennaio 2014
-Sr. Capo del Dipartimento di Fisica e Chimica
+Campus Las Lagunillas, s/n. Edificio A3 – Telefono 953 21 24 29 – Fax 953 21 24 20 -23071- JAÉN
+Jaén, 30 gennaio 2014
 
-Caro amico e compagno:
+Sig. Responsabile del Dipartimento di Fisica e Chimica
 
-Ti scrivo in queste date, come negli anni precedenti, per richiedere di nuovo il tuo sforzo e
-collaborazione per partecipare con i tuoi studenti alle Olimpiadi di Fisica. Data della fase
-Lo stesso vale per la nostra politica di sviluppo.
-di marzo, venerdì, e come lo scorso anno il orario sarà dalle 17:00 alle 20:30. La prova si svolgerà
-nella classe 6 del edificio B4, del Campus delle Lagunillas dell'Università di Jaén.
-Il tema della prova sarà quello dei blocchi di gravità, vibrazioni e
-onde e elettromagnetismo. È importante, a sua volta, rivedere i contenuti del primo baccalaureato
-La Commissione ha adottato una proposta di regolamento che prevede che le misure di sicurezza e di sicurezza di cui all'articolo 6 del regolamento (CEE) n.
-Applicazione ai problemi.
-La prova avrà due parti distribuite come segue:
-1. Parte 1: un problema e quattro domande teoriche (di ragionamento) dalle 17.00 alle 18.30.
-2. Parte 2: due problemi dalle 19:00 alle 20:30.
-È la mia intenzione avere i risultati e la medaglia di classificazione elaborato nel prossimo
-settimana prima della realizzazione della prova, per avere almeno tre ore di tarda in vista di poterla esaminare;
-con gli studenti selezionati alcuni aspetti della prova sperimentale che non sono raccolti in
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le misure adottate per la realizzazione di un'attività di ricerca e di sviluppo siano state adottate in modo adeguato.
-La fase nazionale si terrà a A Coruña dal 4 al 7 aprile.
-Università di Jaén, il suo sforzo nel coprire le spese di spostamento dei primi tre
-I quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali sono i quali i quali sono i quali i quali sono i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali sono i quali i quali sono i quali i quali i quali i quali sono i quali sono i quali i quali sono i quali sono i quali i quali i quali sono i quali i quali sono i quali i quali i quali sono i quali sono i quali sono i quali i quali i quali sono i quali i quali i quali sono i quali i quali sono i quali i quali sono i quali i quali sono i quali sono i quali i quali i quali i quali sono i quali i quali sono i quali sono i quali i quali sono i quali i quali i quali sono i quali i quali sono i quali i quali i quali sono i quali i quali i quali sono i quali i quali sono i quali sono i quali i quali i quali. In questo messaggio vi invito come allegato la prima circolare.
-Ti chiedo di parlare con i tuoi studenti che pensano di partecipare.
-Il suo impegno, per quanto possibile, è di raggiungere la fine del processo, cioè la fase
-Il programma di formazione professionale è stato sviluppato in Italia nel corso del periodo di lavoro.
-L'importanza e la grande esperienza di partecipare alla Fase Nazionale verrà commentata all'inizio
-della prova per lo studente di ingegneria, Jose Antonio Moral, che è stato il vincitore della Fase Locale dell'anno
-La Commissione ha inoltre adottato una proposta di direttiva che prevede l'applicazione di misure di sicurezza per l'ambiente.
-sta studiando un diploma in ingegneria industriale all'Università di Jaén. Credo che sia la persona che
-e che può meglio trasmettere ai partecipanti ciò che rappresenta questa esperienza.
-Mi capita di dirti che tutte le informazioni relative alle Olimpiadi di Fisica,
-raccolta dal link di questa pagina della Real Sociedad Española de Física:
-Il programma di ricerca è stato sviluppato in Italia.
-e che le informazioni relative alla Fase Locale di Jaén saranno aggiornate nella tabella Olimpiada 2014 del
-di collegamento,
-http://www10.ujaen.es/conoscienti/dipartimenti/fisca/ponenza
+Caro amico e collega:
 
-Università di Jane
+Ti scrivo in queste date, come negli anni precedenti, per chiederti nuovamente il tuo impegno e collaborazione affinché i tuoi studenti partecipino alla Olimpiade di Fisica. La data della fase locale, che ricorderai aver concordato nella riunione tenutasi il 3 dicembre, sarà venerdì 7 marzo prossimo e, come l'anno scorso, la durata sarà dalle 17.00 alle 20.30. La prova si svolgerà nell'aula 6 dell'edificio B4 del Campus Las Lagunillas dell'Università di Jaén.
+
+Il programma per la prova riguarderà i blocchi relativi alla Gravitazione, alle Vibrazioni e Onde ed all'Elettromagnetismo. È altrettanto importante rivedere i contenuti del primo anno del Biennio relativi alla Cinematica, Dinamica e Lavoro ed Energia, sia dal punto di vista teorico che applicativo in problemi.
+
+La prova sarà suddivisa in due parti, distribuite come segue:
+1. Prima parte: un problema e quattro domande teoriche (di ragionamento) dalle 17.00 alle 18.30.
+2. Seconda parte: due problemi dalle 19.00 alle 20.30.
+
+È mia intenzione avere i risultati e la classifica finale elaborata nella settimana successiva alla prova, al fine di poter disporre, almeno, di tre pomeriggi per ripassare con gli studenti selezionati alcuni aspetti della prova sperimentale non trattati nei vostri programmi e che sono importanti per la fase pratica della Fase Nazionale.
+
+La Fase Nazionale si svolgerà ad A Coruña dal 4 al 7 aprile, e nuovamente ringraziamo l'Università di Jaén per lo sforzo compiuto nel coprire le spese di viaggio dei primi tre classificati e del docente accompagnatore. In questo messaggio ti invio in allegato la prima circolare.
+
+Approfittando di questo punto, ti chiedo di comunicare ai tuoi studenti che potrebbero partecipare il loro impegno, nella misura del possibile, a raggiungere la conclusione del processo, ovvero la Fase Nazionale, al fine di poter organizzare con sufficiente anticipo sia il viaggio che il soggiorno.
+L'importanza e la grande esperienza di partecipare alla Fase Nazionale verranno illustrate all'inizio della prova dallo studente di Ingegneria, José Antonio Moral, vincitore della Fase Locale lo scorso anno, medaglia d'argento alla Fase Nazionale e menzione d'onore per il miglior approccio teorico, che sta frequentando la Laurea in Ingegneria Industriale all'Università di Jaén. Credo che sia la persona più adatta a trasmettere ai partecipanti il significato di questa esperienza.
+
+Approfitto per informarla che tutta l'informazione relativa alle Olimpiadi di Fisica è raccolta nel seguente link della Real Sociedad Española de Física: http://www.rsef.es/oef/ e che le informazioni relative alla Fase Locale di Jaén verranno aggiornate nella scheda Olimpiada 2014 del link http://www10.ujaen.es/conocenos/departamentos/fisica/ponencia.
+
+UNIVERSIDAD DE JAÉN
 Dipartimento di Fisica
 
 Elena Giménez Martín
 Dipartimento di Fisica
-Scuola superiore di tecnica (A3-418)
-Università di Jane
-23071 JANE
+Scuola Politecnica Superiore (A3‐418)
+UNIVERSIDAD DE JAÉN
+23071 JAÉN
 Telefono: +34 953 21 24 29
 
-Fax: +34 953 21 28 38
-egimenez@ujaen.es
+Fax: +34 953 21 28 38 egimenez@ujaen.es
 
-Campus Las Lagunillas, s/n. Edificio A3  Telefono 953 21 24 29  Fax 953 21 24 20 -23071- JAEN
+Campus Las Lagunillas, s/n. Edificio A3 – Telefono 953 21 24 29 – Fax 953 21 24 20 -23071- JAÉN
 
-Ricordo che gli studenti partecipanti devono assistere con DNI, nonché l'originale della
-- Il modulo di iscrizione. Come supporto potranno utilizzare solo calcolatori non programmabili, se:
-all'esame è vietato l'uso di qualsiasi dispositivo elettronico.
+Le ricordo che gli studenti partecipanti dovranno presentarsi muniti di D.N.I. e del modulo d'iscrizione originale. A supporto della prova potranno utilizzare soltanto una calcolatrice non programmabile, essendo vietato durante l'esame l'uso di qualsiasi dispositivo elettronico.
 
-Le iscrizioni sono effettuate completando il foglio di iscrizione e inviandolo per e-mail a:
-egimenez@ujaen.es, indicando nella questione PARTICIPACIÓN OLIMPIADA DE FISICA. Nel messaggio si deve
-segnalare la casella, richiedere conferma di lettura. Il termine per l'iscrizione sarà dal lunedì 24 febbraio
-mercoledì 5 marzo.
+Le iscrizioni si effettueranno compilando il modulo allegato e inviandolo via email a:
+egimenez@ujaen.es, indicando nell'oggetto "PARTICIPAZIONE OLIMPIADE DI FISICA". Nel messaggio si dovrà spuntare la casella e richiedere la conferma di lettura. Il termine per le iscrizioni sarà dal lunedì 24 febbraio al mercoledì 5 marzo.
 
-Speriamo di contare ancora un anno con la vostra vasta e qualificata partecipazione e ringraziando
-profondamente il tuo collaborazione,
+Nel ringraziare profondamente per il tuo contributo e sperando di poter contare nuovamente, come negli anni precedenti, sulla tua ampia e qualificata partecipazione,
 
-Un saluto attento
-
-**Topic:** [[Gravitation]], [[Oscillations & Waves]], [[Electromagnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1aKH-BzQ9ZyheUstU5ElUD0P04DGUZDMo/view)
+con i miei saluti distinti
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat fraud.
+**Elena Giménez Martín**
 
-The University of Jane
+UNIVERSITY OF JAÉN
 Department of Physics
 
-Elena Giménez Martín is the first woman to be elected to the
+Elena Giménez Martín
 Department of Physics
-Higher Polytechnic School (A3-418)
-The University of Jane
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Telephone number: +34 953 21 24 29
+School of Polytechnic Engineering (A3‐418)
+UNIVERSITY OF JAÉN
+23071 JAÉN
+Phone: +34 953 21 24 29
 
-Fax: +34 953 21 28 38
-The Commission has decided to extend the period of validity of the proposal.
+Fax: +34 953 21 28 38 egimenez@ujaen.es
 
-Campus Las Lagunillas, s/n. Building A3  Telephone 953 21 24 29  Fax 953 21 24 20 -23071- JAEN
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-Sr. Head of the Department of Physics and Chemistry
+Campus Las Lagunillas, s/n. Building A3 – Phone 953 21 24 29 – Fax 953 21 24 20 -23071- JAÉN
+Jaén, January 30, 2014
 
-Dear friend and colleague:
+Dear Department Head of Physics and Chemistry,
 
-I am writing you on these dates, as in previous years, to ask you to put forth your efforts and
-collaboration to participate with your students in the Physics Olympiad. Date of the phase
-Local, which as you may recall we agreed at the meeting we had on December 3rd, will be next 7th
-March, Friday, and as last year, the hours will be from 5 to 8.30 p.m. The test will take place
-in class 6 of building B4, Lagunillas Campus of the University of Jaén.
-The test material shall be the one corresponding to the Gravity, Vibration and
-Waves and electromagnetism. It is important, in turn, to review the contents of the first Bachelor's degree
-The main areas of research and development are cinema, dynamics and labour and energy, both theoretically and in the field of
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
-The test shall have two parts distributed as follows:
-1. Part one: a problem and four theoretical questions (for reasoning) from 5.00pm to 6.30pm.
-2. Part two: two problems from 7:00 to 8:30 p.m.
-I intend to have the results and the classification medal drawn up in the following
-The test shall be carried out within one week of the test being carried out, with a view to giving at least three afternoons to review the test.
-with selected students some aspects of the experimental test that are not included in the
-The Commission's proposals are not only relevant to the practical part of the national phase.
-The National Stage will take place in A Coruña from 4 to 7 April, and we thank the
-University of Jaén the effort it makes to cover the travel expenses of the first three
-The number of students is limited to the following: In this message I am sending you the first circular as an annex.
-I take this point to ask you to speak to your students who think they're interested in participating.
-The Commission has also taken the view that the Commission should be able to take the necessary measures to ensure that the
-National, in order to be able to prepare both the trip and the stay with sufficient time.
-The importance and great experience of participating in the National Phase will be discussed at the beginning
-of the test by the engineering student, Jose Antonio Moral, who was the winner of the Local Phase in the year
-The European Parliament has also adopted a number of proposals for a new framework for the
-She is pursuing a degree in Industrial Engineering at the University of Jaén. I think he's the person that
-It's better to convey to the participants what this experience represents.
-I take the opportunity to inform you that all the information regarding the Physics Olympics,
-The following link is provided by the Spanish Royal Society of Physics:
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-and that the information regarding the Local Phase of Jaén will be updated in the tab Olympia 2014 of the
-the link,
-The Commission has also adopted a number of proposals for the new rules on the protection of the environment.
+I am writing to you at this time, as in previous years, to kindly request your continued effort and collaboration in involving your students in the Physics Olympiad. The local phase of the competition, which as you recall was agreed upon during our meeting on December 3rd, will take place next Friday, March 7th, from 5:00 p.m. to 8:30 p.m., just as last year. The exam will be held in classroom 6 of building B4 on the Las Lagunillas Campus of the University of Jaén.
 
-The University of Jane
+The exam syllabus will cover the topics in Gravitation, Vibrations and Waves, and Electromagnetism. Additionally, it is important to review the first-year Bachillerato content on Kinematics, Dynamics, and Work and Energy, both from a theoretical standpoint and in terms of problem-solving applications.
+
+The exam will consist of two parts, distributed as follows:
+1. First part: one problem and four theoretical questions (reasoning-based) from 5:00 p.m. to 6:30 p.m.
+2. Second part: two problems from 7:00 p.m. to 8:30 p.m.
+
+It is my intention to have the results and the ranking medal list prepared in the following week after the exam, so as to have at least three afternoons available to review with the selected students certain aspects of the experimental exam not covered in your syllabi, which are important for the practical part of the National Phase.
+
+The National Phase will take place in A Coruña from April 4th to 7th, and once again we thank the University of Jaén for its effort in covering travel expenses for the top three ranked students and their accompanying teacher. I am sending you, as an attachment to this message, the first circular.
+
+I take this opportunity to kindly ask you to discuss with your students who intend to participate, emphasizing their commitment—wherever possible—to go through the entire process up to the National Phase, so that we can adequately prepare both travel arrangements and accommodation in sufficient time.
+The importance and extensive experience of participating in the National Phase will be discussed at the beginning of the exam by Jose Antonio Moral, an Engineering student who won the Local Phase last year, earned a silver medal in the National Phase, and received an honorable mention for the best theoretical approach. He is currently pursuing a degree in Industrial Engineering at the University of Jaén. I believe he is best suited to convey to participants what this experience entails.
+
+I take the opportunity to inform you that all information regarding the Physics Olympiads can be found in this link from the Real Sociedad Española de Física: http://www.rsef.es/oef/, and that information about the Jaén Local Phase will be updated in the "Olimpiada 2014" tab of this link: http://www10.ujaen.es/conocenos/departamentos/fisica/ponencia.
+
+UNIVERSITY OF JAÉN
 Department of Physics
 
-Elena Giménez Martín is the first woman to be elected to the
+Elena Giménez Martín
 Department of Physics
-Higher Polytechnic School (A3-418)
-The University of Jane
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Telephone number: +34 953 21 24 29
+School of Polytechnic Engineering (A3‐418)
+UNIVERSITY OF JAÉN
+23071 JAÉN
+Phone: +34 953 21 24 29
 
-Fax: +34 953 21 28 38
-The Commission has decided to extend the period of validity of the proposal.
+Fax: +34 953 21 28 38 egimenez@ujaen.es
 
-Campus Las Lagunillas, s/n. Building A3  Telephone 953 21 24 29  Fax 953 21 24 20 -23071- JAEN
+Campus Las Lagunillas, s/n. Building A3 – Phone 953 21 24 29 – Fax 953 21 24 20 -23071- JAÉN
 
-I remind you that the participating students must attend with DNI as well as the original of the
-the registration form. Only non-programmable calculators may be used as supporting material, if:
-the use of any electronic device shall be prohibited during the examination.
+I remind you that participating students must bring their D.N.I. as well as the original copy of the registration form. As supporting materials, only non-programmable calculators will be allowed; the use of any electronic device during the exam is strictly prohibited.
 
-Registration shall be made by filling in the accompanying form and sending it by e-mail to:
-egimenez@ujaen.es, indicating in the subject matter PARTICIPATION OLIMPIADA DE FISIC. In the message it is due
-mark the box, request confirmation of reading. The deadline for registration will be Monday 24 February
-on Wednesday 5 March.
+Registrations will be carried out by completing the attached form and sending it via email to:
+egimenez@ujaen.es, indicating in the subject line PARTICIPATION IN PHYSICS OLYMPIAD. In the message, you must check the box and request a read receipt. The registration period will run from Monday 24 February to Wednesday 5 March.
 
-Looking forward to counting on another year with your broad and qualified participation and thanking
-deeply your collaboration,
+Looking forward once again to counting on your broad and qualified participation, and sincerely thanking you for your collaboration,
 
-A greeting carefully
-
-**Topic:** [[Gravitation]], [[Oscillations & Waves]], [[Electromagnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1aKH-BzQ9ZyheUstU5ElUD0P04DGUZDMo/view)
+best regards

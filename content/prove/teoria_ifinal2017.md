@@ -198,25 +198,14 @@ Olimpiadi Internazionali di Fisica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 (25 points)
-A circuit consisting of two diodes and two capacitors shown in Figure (a) below
-is fed in input A by a source of the type of saw tooth shown in figure (b).
-Assuming that the capacitors are initially discharged, and that the diodes are
-They function as ideal switches to and from the current direction.
-shows the change in voltage at points B and D over the three complete cycles of the
-the source of the saw tooth. This type of circuit is known as DC voltage bending,
-where at output B, after a few cycles, you get a continuous voltage of 2V0.
+Problem 3 (25 points)
+A circuit composed of two diodes and two capacitors, as shown in the figure (a) below, is driven at input A by a sawtooth source as shown in figure (b).
+Assuming the capacitors are initially uncharged, and that the diodes act as ideal switches—opening or closing depending on current direction—determine how the voltage varies at points B and D during three complete cycles of the sawtooth source. This type of circuit is known as a DC voltage doubler, where at output B, after several cycles, a continuous voltage of 2V₀ is obtained.
+
 3
-
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
-
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Physical Modeling (metodo)|Physical Modeling]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1wuoeLLljN_T0ejf2lawoLbSPfoiSvnWt/view)
+Theoretical Examination I – Final Selection 2017
+International Physics Olympiad
+March 22, 2017
 
 
 
@@ -349,61 +338,47 @@ Olimpiadi Internazionali di Fisica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 (25 points)
-In particle physics, some symmetries are important to describe the
-large number of particles observed in a simple and concise manner, establishing
-connections and patterns that may not be obvious at first glance. Examples of this are the
-pions, which appear in 3 different charges, but which are actually different states
-of a single particle. Protons and neutrons are another example.
-From a dynamic point of view, there are symmetries as well, but they are more difficult to understand
-I'm going to understand. Collisions between two particles can produce other different particles,
-But any combination of these particles at the beginning will produce results that
-They follow the same pattern. This is due to the symmetries that are preserved in the
-the interactions between particles.
-The Mandelstam variables, introduced by physicist Stanley Mandelstam in 1958,
-The use of these symmetries is particularly easy, allowing the use of the
-The first is the use of the term 'symmetry' and the second is the use of the term 'symmetry' to describe the properties of relativistic kinematics.
+Problem 4 (25 points)
+
+In Particle Physics, certain symmetries are crucial for describing the large number of observed particles in a simple and concise way, establishing connections and patterns that are not immediately obvious at first glance. Examples include pions, which appear in three different charges but are actually different states of a single particle. Proton and neutron are another example.
+
+From a dynamical perspective, symmetries also exist, but they are more difficult to perceive. Collisions between two particles can produce different final particles, yet any initial combination of these particles will result in outcomes that follow the same pattern. This arises due to symmetries preserved in particle interactions.
+
+The Mandelstam variables, introduced by physicist Stanley Mandelstam in 1958, allow for a particularly straightforward use of these symmetries, enabling the exploitation of symmetries while simultaneously accounting for properties of relativistic kinematics.
+
 These variables are defined by:
 
-{
-s= ( ki+ pi )2
-t= ( $ki-$ kf)2
-u= ( $ki-$ pf)2
+{ s = (ki + pi)²
+t = (kf − $ki-$)²
+u = (pf − $ki-$)² }
 
 (1)
 
-Two initial quadruple particles ki and pi collide and out of the process two
-finite quadruple particles kf and pf. The resting masses of the particles of
-The time k and p are $\mu$ and m respectively.
-Show that s + t + u = $2\mu2$ + 2m2
+Two particles with initial four-momenta ki and pi collide, producing two final-state particles with four-momenta kf and pf. The rest masses of the particles with momenta k and p are, respectively, $\mu$ and m.
+
+Show that s + t + u = $2\mu2$ + 2m²
 4
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
+Theoretical Examination I – Final Selection 2017
+International Physics Olympiad
+March 22, 2017
 5
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
+Theoretical Examination I Final Selection 2017
+International Physics Olympiad
+March 22, 2017
 6
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
+Theoretical Examination I Final Selection 2017
+International Physics Olympiad
+March 22, 2017
 7
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
+Theoretical Examination I Final Selection 2017
+International Physics Olympiad
+March 22, 2017
 8
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
-
-**Topic:** [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Conservation Laws (metodo)|Conservation Laws]], [[Lorentz Transformation (metodo)|Lorentz Transformation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1wuoeLLljN_T0ejf2lawoLbSPfoiSvnWt/view)
+Theoretical Examination I Final Selection 2017
+International Physics Olympiad
+March 22, 2017

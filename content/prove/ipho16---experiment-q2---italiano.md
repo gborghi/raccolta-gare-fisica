@@ -109,12 +109,7 @@ The test results shall be presented in accordance with the following formula:
 
 3. A glove
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fMHuKcDU3Fh6bYqVnYvfNgcdql7iD250/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
 
 
 

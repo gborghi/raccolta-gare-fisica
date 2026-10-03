@@ -253,16 +253,9 @@ vinte questões.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to adopt a proposal for a regulation on the protection of the environment.
+**twenty questions**
 
-01) This test is intended exclusively for students in grades 8 and 9 of primary school. It contains
-20 questions.
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** -
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IZSob_EB3vMIkuhjUeiSuPH_yZhsU9Zk/view)
+01) This exam is intended exclusively for students in the 8th and 9th years of elementary school. It contains twenty questions.
 
 
 
@@ -758,44 +751,29 @@ mostrati in figura
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. Data: gravity acceleration at the earth's surface $10\ \text{m/s}^2$, water density $10^3\ \text{kg/m}^3$; $\pi = 3$;
-The speed of light in vacuum $3\times10^8$ m/s, $\cos 60^\circ = 0{,}5$; $\text{sen}\,60^\circ = 0{,}8$.
-4. No laboratório de química, uma aluna fez uma experiência em que colocava um bloco de gelo ($-5{,}0\ ^\circ\text{C}$)
-inside a Becker. Then it supplied heat to the system (Becker + ice), using the flame of a
-Bunsen's beak with constant thermal power. Throughout the experiment, she noticed that the ice started to
-melting. Taking the thermometer she again held the temperature of the ice, finding that while the ice
-Fused:
-- **A** It gets hot, but its temperature increases;
-- **B.** It is warm but its temperature remains constant;
-- **C.** It gives off heat and its temperature rises;
+1. Given: acceleration due to gravity at Earth's surface $10\ \text{m/s}^2$, density of water $10^3\ \text{kg/m}^3$; $\pi = 3$;
+speed of light in vacuum $3\times10^8$ m/s, $\cos 60^\circ = 0{,}5$; $\text{sen}\,60^\circ = 0{,}8$.
 
-(d) It gives off heat and its temperature decreases;
-(e) It gives off heat and its temperature remains constant.
+4. In the chemistry laboratory, a student performed an experiment in which she placed an ice block ($-5{,}0\ ^\circ\text{C}$)
+into a beaker. Subsequently, she supplied heat to the system (beaker + ice), using the flame of a Bunsen burner with constant thermal power. Throughout the experiment, she observed that the ice began to melt. Using a thermometer, she measured the temperature of the ice again, noting that while melting:
+- **A.** Receives heat, but its temperature increases;
+- **B.** Receives heat, but its temperature remains constant;
+- **C.** Releases heat and its temperature increases;
 
-5. In another experiment, conducted at sea level, Professor Physicson asked a group of students to
-Put a liter of water in a small container and another liter of water in a large basin, both open.
-as shown below, leaving them exposed to the sun between the hours of 10am and 2pm. At the end of the experiment,
-The students collected the water from the containers, measured their volumes and correctly found that:
-I. There was more water in the smaller container than in the basin, because the larger the exposure area, the larger the
-the evaporation process;
-II. There was more water in the smaller container than in the basin, because the larger the exposure area, the smaller the
-the evaporation process;
-The Commission shall adopt implementing acts. There was more water in the smaller container, because the smaller the exposure area, the greater the intensity of the
-the radiation from the sun;
-(a) I and II are correct;
+d) Releases heat and its temperature decreases;
+e) Releases heat and its temperature remains constant.
 
-(b) II and III are correct;
+5. In another experiment conducted at sea level, Professor Physicson asked a group of students to place one liter of water in a small container and another liter of water in a large basin, both open as shown in the figures below, leaving them exposed to sunlight between 10 a.m. and 2 p.m. At the end of the experiment, the students collected the water from both containers, measured their volumes, and correctly observed that:
+I. There was more water in the smaller container than in the basin, because the larger the surface area exposed, the greater the evaporation process;
+II. There was more water in the smaller container than in the basin, because the larger the surface area exposed, the lower the evaporation process;
+III. There was more water in the smaller container, because the smaller the surface area exposed, the greater the intensity of solar radiation;
+a) I and II are correct;
+b) II and III are correct;
+c) I and III are correct;
+d) Only I is correct;
+e) All are correct
 
-(c) I and III are correct;
-(d) Only I is correct;
-
-(e) All correct
-
-6. On the physics lab bench, Professor Physicson developed with the students an experiment
-which consisted of measuring the position and time of a moving object along an accelerating line
-constantly. At the time the timer was showing $t_1 = 7{,}0$ s, the mobile was in the $x_1 = 70{,}0$ position.
-cm; no momento $t_2 = 9{,}0$ s na posição $x_2 = 80{,}0$ cm e no momento $t_3 = 15{,}0$ s, na posição $x_3 = 230{,}0$ cm. Stop
-In this situation, the students concluded that the intensity of the mobile acceleration is:
+6. On the laboratory bench, Professor Physicson carried out with the students an experiment consisting of measuring the position and time of a moving object traveling along a ruler with constant acceleration. At the moment when the stopwatch showed $t_1 = 7{,}0$ s, the object was at position $x_1 = 70{,}0$ cm; at time $t_2 = 9{,}0$ s, it was at position $x_2 = 80{,}0$ cm; and at time $t_3 = 15{,}0$ s, it was at position $x_3 = 230{,}0$ cm. For this situation, the students concluded that the magnitude of the object's acceleration is:
 - **A.** $5{,}0\ \text{cm/s}^2$
 - **B.** $2{,}5\ \text{cm/s}^2$
 - **C.** $7{,}5\ \text{cm/s}^2$
@@ -803,99 +781,63 @@ In this situation, the students concluded that the intensity of the mobile accel
 
 e) $8{,}5\ \text{cm/s}^2$
 
-7. In times of harsh winter, we often encounter strong thunder and lightning, which end
-For scaring people. The fact that we see the lightning before we hear the thunder it produces can
-be explained:
-- **A.** For the production of thunder a few seconds after the occurrence of lightning;
-- **B.** For the diffraction of sound waves in clouds;
+7. In periods of severe winter, it is common to experience strong thunderstorms and lightning, which often frighten people. The fact that we see the lightning before hearing the thunder it produces can be explained by:
+- **A.** The thunder being generated a few seconds after the lightning occurs;
+- **B.** The diffraction of sound waves in clouds;
+- **C.** The polarization phenomenon, which occurs with sound waves;
+- **D.** The dispersion of light;
+- **E.** The difference between the propagation speeds of light and sound in air.
 
-(c) by the phenomenon of polarization, which occurs with sound waves;
-(d) By the phenomenon of light scattering.
-(e) The difference between the propagation speeds of light and sound in the air.
+8. Two experiments were carried out in class by Professor Physicson. In the first, he placed a piece of wood vertically into a transparent container filled with water, warning his students about equilibrium and, in particular, the water level in the container. Before performing the second task, the Professor asks the class:
+• How will the water level in the container change if we place the same piece of wood horizontally? Assume the dimensions of the wooden piece are smaller than those of the container, so it can be freely placed either horizontally or vertically. Also, initially, the water level occupies half of the container. Correctly, the students answered:
+- **A.** The water level in the container will rise because, in the new position, the weight of the wooden piece must increase;
+- **B.** The water level in the container will remain unchanged, since the weight of the wooden piece has not changed;
+- **C.** The water level in the container will decrease because, in the new position, the weight of the wooden piece must decrease;
+- **D.** The water level in the container will rise because, in this new position, the pressure exerted by the wooden piece on the water must increase;
+e) The water level in the container will rise because, in this new position, the density of the wooden piece has increased.
 
-8. Two experiments were conducted in class by Professor Physicson. In the first, he put a
-The first is a piece of wood in a transparent water container, in a vertical position, alerting its students to the
-the balance and in particular the water level in the container. Before completing the second task, the Professor asks
-The class:
-• How the water level in the container should vary if the same piece of wood is placed in the position
-- What's the horizontal? Consider the dimensions of the piece of wood smaller than those of the container, in that if
-can place it freely in the horizontal or vertical position. In addition, the water level before the experiments
-It takes up half the container. The students correctly answered:
-- **A.** The water level in the container will increase as the weight of the piece of wood in the new position will increase;
-- **B.** The water level in the container will be the same as long as the weight of the piece of wood has not changed;
-- **C.** The water level in the container will decrease as the weight of the piece of wood in the new position will decrease;
-- **D.** The water level in the container will increase as in this new position the pressure exerted by the piece of wood
-on water should increase;
-(e) The water level in the container will increase as the density of the piece of wood in this new position,
-It's increased.
+9. In the school's physics laboratory, there is a fun device that students often use to learn about linear momentum, energy, and their conservation. This device consists of several balls made of the same metal and equal volumes, hanging side by side from ideal strings of identical length, arranged so that the distance between them is very small, as shown in the figure.
 
-9. In the school's physics lab, there's a legal device that students often have fun with.
-while learning about linear momentum, energies and their conservation. This device consists of:
-Multiple balls of the same metal and of equal volume, suspended together in equal idealized wires
-The Commission has already taken a number of measures to ensure that the Community's financial resources are used to finance the implementation of the common agricultural policy.
-Let's say a student pushes the ball away and lets it go. How will the other balls behave after the
-What's the shock? For that situation, disregard all friction and dissipation of energy.
-- **A.** The balls (06 and 05) move away while the other ones stay still;
-- **B.** Nothing happens, which means all the balls are stopped;
-- **C.** Only the ball (06) moves away while the others are stopped;
-- **D.** Todas as bolas afastam-se, apenas a (01) fica parada;
-- **E.** As bolas (06) e (01) afastam-se.
-10.
-A material point performs a uniform circular motion on a flat reference data. From the point of view of
-In the view of an observer who perceives this movement, it is correct to state that:
-- **A.** The vector acceleration of the particle has a constant modulus;
+Imagine a student pulls aside ball (01) and releases it. How will the other balls behave after the collision? For this situation, neglect all friction and energy dissipation.
+
+- **A.** Balls (06 and 05) move away, while the others remain at rest;
+- **B.** Nothing happens; that is, all balls remain at rest;
+- **C.** Only ball (06) moves away, while the others remain at rest;
+- **D.** All balls move away except ball (01), which remains at rest;
+- **E.** Balls (06) and (01) move away.
+
+10. A point mass performs uniform circular motion in a given planar reference frame. From the perspective of an observer who sees this motion, it is correct to state that:
+
+- **A.** The vector acceleration of the particle has constant magnitude;
 - **B.** The vector acceleration of the particle is zero;
-- **C.** The normal acceleration component is zero;
+- **C.** The normal component of acceleration is zero;
 - **D.** The force acting on the particle is zero;
-- **E.** The particle speed module is variable;
+- **E.** The magnitude of the particle's velocity is variable;
 
 11.
-You push a rectangular block of wood over a certain floor at a constant speed,
-applying a force $F_1$ to it. You decide to turn the block so that it now has the face of the minor
-area (twice smaller) above the floor. In this new position, to maintain the same previous speed, you must
-apply a force $F_2$ which is approximately:
-(a) four times greater than $F_1$;
-
-(b) Four times less than $F_1$;
-
-(c) equal to $F_1$;
-(d) Half of $F_1$;
-
-(e) Double the $F_1$.
+You push a rectangular wooden block at constant speed across a certain floor, applying a force $F_1$. You decide to rotate the block so that now its face with smaller area (two times smaller) is in contact with the floor. In this new position, to maintain the same previous speed, you must apply a force $F_2$ that is approximately:
+a) Four times greater than $F_1$;
+b) Four times smaller than $F_1$;
+c) Equal to $F_1$;
+d) Half of $F_1$;
+e) Double of $F_1$.
 
 12.
-During the 1980s and 1990s, various academic research led us to
-Consideration of alternative conceptual or intuitive mistakes that people made regarding certain
-the scientific concepts. Among these, it is common to have intuitive or Aristotelian ideas that the movement is
-relating to the acts of pushing, lifting or pulling. So we can understand that a carriage
-pulled by four horses will go faster than the same chariot pulled by just two horses.
-So our intuition tells us that the applied force is a function of (do):
-- **A ** time;
-- **B ** speed;
-- **C.** acceleration; d) change in the time;
-- **E ** mass
+During the 1980s and 1990s, various academic studies led us to consider alternative or intuitive misconceptions that people commonly held regarding certain scientific concepts. Among these, it is common to have intuitive or Aristotelian ideas that motion is related to actions such as pushing, lifting, or pulling. Thus, we can understand that a cart pulled by four horses will move faster than the same cart being pulled by only two horses.
+Therefore, our intuition tells us that the applied force is a function of (the):
+- **A.** time;
+- **B.** velocity;
+- **C.** acceleration;
+- d) change in time;
+- **E.** mass.
 
 13.
-Consider two metal blocks of the same volume, one weighing twice the other,
-Sliding over a flat, horizontal table at the same speed. The air resistance is disregarded after
-leave the table:
-(a) The heaviest block reaches the ground approximately halfway up the horizontal distance from the base of the
-table to the point where the lightest block hit the ground;
-(b) The lightest block reaches the ground approximately halfway up the horizontal distance from the base of the table
-to the point where the heaviest block hit the ground;
-(c) The heavier block hits the ground much closer to the table base than the lighter block, but not
-necessarily halfway across the horizontal distance;
-(d) The blocks reach the ground at approximately the same horizontal distance from the base of the table;
-(e) The lighter block hits the floor much closer to the table base than the heavier block, but not
-necessarily halfway across the horizontal.
+Consider two metal blocks of equal volume, where the weight of one is double that of the other, sliding on a smooth horizontal table with the same speed. Neglecting air resistance, after leaving the table:
+a) The heavier block hits the ground approximately at half the horizontal distance from the base of the table to the point where the lighter block struck the ground;
+b) The lighter block hits the ground approximately at half the horizontal distance from the base of the table to the point where the heavier block struck the ground;
+c) The heavier block hits the ground much closer to the base of the table than the lighter block, but not necessarily at half the horizontal distance;
+d) Both blocks hit the ground at approximately the same horizontal distance from the base of the table;
+e) The lighter block hits the ground much closer to the base of the table than the heavier block, but not necessarily at half the horizontal distance.
 
 14.
-In the physics lab, Professor Physicson proposed an experiment that involved launching a
-the same speed and simultaneously two metal balls of the same mass and volume on the rails
-shown in figure
-
-**Topic:** [[Thermodynamics]], [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IZSob_EB3vMIkuhjUeiSuPH_yZhsU9Zk/view)
+In the physics laboratory, Professor Physicson proposed an experiment consisting of launching simultaneously and with the same speed two metal spheres of equal mass and volume along the tracks shown in the figure.

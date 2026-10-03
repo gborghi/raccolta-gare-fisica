@@ -379,17 +379,11 @@ in analogia con la legge universale delle transizioni di fase $M \sim (T_\text{c
 
 <div class="qlang-split" data-lang="en"></div>
 
-**C.3** (1.4 pt)
+**C.3** (1.4 points)
 
-Determine the $b$ exponent and estimate the uncertainty.
+Determine the exponent $b$ and estimate the uncertainty.
 
-*Content:* The system order parameter behaves as follows:
-$$\left|\frac{N_1 - N_2}{N_1 + N_2}\right| \sim |A^2_\text{crit} - A^2|^b$$
-in analogia con la legge universale delle transizioni di fase $M \sim (T_\text{crit} - T)^b$.
+*Context:* The order parameter of the system behaves as:
+$$\left|\frac{N_1 - N_2}{N_1 + N_2}\right| \sim |A^2_\text{crit} - A^2|^b$$, in analogy with the universal law of phase transitions $M \sim (T_\text{crit} - T)^b$.
 
-**Topic:** [[Thermodynamics]], [[Oscillations & Waves]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-4xkjrwGY4lgdII41oFwddFE60iGMBCH/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)

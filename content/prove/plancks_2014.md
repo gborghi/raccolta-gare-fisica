@@ -140,24 +140,18 @@ Newton's cradle is a well-known gadget and physics demonstration. It is usually 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cradle di Newton**  *Jan van Ruitenbeek, Università di Leiden*
+**Catenella di Newton** — *Jan van Ruitenbeek, Università di Leiden*
 
 <!--fig:start-->
 ![[PLANCKS_2014_p7_f1.png]]
-*Figura 2: Culla di Newton.*
+*Figure 2: Newton's Cradle.*
 <!--fig:end-->
 
-La culla di Newton è un'apparecchiatura ben nota e una dimostrazione di fisica. Di solito viene descritto come dimostrando le leggi della conservazione dell'energia e della conservazione dell'impulso. Per semplicità, il movimento è unidimensional e le collisioni elastic.
+La catenella di Newton è un noto oggetto e dimostrazione di fisica. Di solito viene descritta come un esempio che illustra le leggi di conservazione dell'energia e della quantità di moto. Per semplicità assumiamo il moto unidimensionale e le collisioni elastiche.
 
-** [1] ** *5 punti * Lanciamo una sola palla sulle altre palle che sono in riposo, e consideriamo la situazione subito dopo la collisione. For any number $N$ of balls (including the launched ball) in the cradle how many solutions do the laws of conservation of energy and momentum permit? Per $N = 2$ e $N = 3$ descrivere l'insieme delle soluzioni consentite nello spazio di velocità dimensionale $N$.
+**[1]** *5 punti* Lanciamo una singola pallina verso le altre palline ferme, e consideriamo la situazione subito dopo l'urto. Per qualsiasi numero $N$ di palline (inclusa quella lanciata) nella catenella, quante soluzioni consentono le leggi di conservazione dell'energia e della quantità di moto? Per $N = 2$ e $N = 3$ descrivere l'insieme delle soluzioni ammesse nello spazio delle velocità a $N$ dimensioni.
 
-**[2]** *5 punti* Quando eseguiamo l'esperimento per $N = 3$ troviamo che si ottiene solo una soluzione. Qual è la soluzione e spiegate il perché.
-
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1aZAb9ZhPsTbiZ1Skf89dY7_iV13w1ukf/view)
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
+**[2]** *5 punti* Quando effettuiamo l'esperimento per $N = 3$, osserviamo che si realizza soltanto una delle soluzioni. Quale è questa soluzione, e spiegare perché.
 
 
 

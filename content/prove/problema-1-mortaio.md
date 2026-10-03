@@ -525,63 +525,32 @@ d’acqua
 
 <div class="qlang-split" data-lang="en"></div>
 
-3. The Way of Rest
+3. The Resting Mode
 
-Both
-the constant flow of water in the bucket: in this case you must not
-neglect the amount of water flowing in the bucket during the drive.
-3.1. Assume that the bucket is always full enough to water the water
+Let the constant flow rate of water flowing into the bucket be considered: in this case, the amount of water flowing into the bucket during the lever's motion must not be neglected.
+
+3.1. Assume that the bucket is always filled to such an extent that water
 5
-The first of these is the International Physics Olympiad in Hanoi, Vietnam.
+39th International Physics Olympiad - Hanoi - Vietnam - 2008
 Theoretical Problem No. 1
 
-It's running away.
-3.1.1. You draw a graph of the moment
-of the torque in terms of angle
-near
-. What kind of balance does the position correspond to?
-of the
-- What?
-3.1.2. It is an analytical expression of the moment.
-of the pair in
-function of
-, by putting
-, with
-- It's a little boy.
-3.1.3. Write the equation of the lever's motion, left with zero initial speed
-in position
-(with
-(Little). Let's see what this bike is, with
-Good approximation, harmonic oscillation. If the period is determined
-.
-3.2. For a certain value of
-, the bucket remains full of water so that it can be poured
-It's always gone if the lever moves slowly enough. There is an upper limit
-The frequency of the oscillations, which depends on the
-. Find the minimum value
-di
-(expressed in kg/s) so that the lever can perform a harmonic oscillating motion of
-1° wide.
-3.3. The Commission will take the view that the
-It's big enough because when the lever moves
-The angle of inclination descends from the
- a
-There's always water that's
-It's flowing out of the bucket. However, if
-The mortar is too big to work.
-The minimum torque shall be estimated by treating the lever movement as a harmonic oscillator.
-Water
-Because the rice mill doesn't work.
+slip away.
+3.1.1. Draw a graph of the torque as a function of angle near . To which type of equilibrium does the lever's position correspond?
+
+3.1.2. Find an analytical expression for the torque as a function of , assuming small, with .
+
+3.1.3. Write the equation of motion for the lever, released from rest at position (with small). Show that this motion is approximately simple harmonic. Determine its period .
+
+3.2. For a certain value of , the bucket remains full of water such that water only spills when the lever moves slowly enough. There is an upper limit on the amplitude of oscillations, depending on . Find the minimum value of (expressed in kg/s) such that the lever can perform simple harmonic oscillations with an amplitude of 1°.
+
+3.3. Assume is large enough so that whenever the lever moves freely and its inclination angle decreases from to , water continuously flows out of the bucket. However, if is too large, the mortar cannot function properly.
+Treating the lever’s motion as simple harmonic, estimate the minimum water flow rate for which the rice mortar will not work.
+
 6
 
 <!--fig:start-->
-**p.4 **  Figure 3: structure and size of the mortar
+**p.4** — Figure 3: structure and dimensions of the mortar
 ![[_attachments/Problema 1 mortaio/Problema 1 mortaio_p4_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1F3f4myCHph-4lx_7gXvL1EngSJO-qy0k/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1F1pwWlq0EIQdkI6-kzR8oMT8lzRr2p/view)

@@ -1014,31 +1014,18 @@ acqua nel bicchiere sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number fourteen. A physics student is flying in a pressurized cabin. O
-flight is on a straight line, without turbulence, when the pilot reports that the speed of the
-The plane is at 850 km/h.
-In the table in front of you, there's a glass of water halfway over the surface, which works as
-One level. Using this surface as a measuring instrument, the student realizes that the
-The situation is the same as it would be if the plane were at rest.
-Consider now the following changes, each made within a few seconds:
-I. The aircraft maintains its retrograde trajectory but increases its speed from 850 km/h to 900
-km/h.
-II. The plane keeps its speed, but it starts to make a turn.
-The Commission shall adopt implementing acts. The aircraft maintains its speed and trajectory but slightly adjusts the internal pressure of the
-Cabin.
-The changes that can be perceived by the student by tilting the surface of the
-water in the glass are:
-- **A ** Only I
+Problem 14. A physics student is traveling by airplane in a pressurized cabin. The flight is on a straight, turbulence-free segment when the pilot announces that the airplane's speed is 850 km/h.
+In front of him, there is a cup half-filled with water, whose surface acts as a level. Using this surface as a measuring instrument, the student observes that the situation is identical to what it would be if the airplane were at rest.
+Now consider the following changes, each occurring within a few seconds:
+I. The airplane maintains its straight trajectory but increases its speed from 850 km/h to 900 km/h.
+II. The airplane maintains its speed but begins to make a turn.
+III. The airplane maintains its speed and trajectory, but slightly adjusts the cabin's internal pressure.
+The changes that can be perceived by the student through the inclination of the water surface in the cup are:
+- **A.** Only I
 - **B.** Only II
 - **C.** Only III
-- **D.** I e II
-- **E ** I and III
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1tuCChUoT39JkRPiyTPhLp00GeApqR5Mz/view)
+- **D.** I and II
+- **E.** I and III
 
 
 

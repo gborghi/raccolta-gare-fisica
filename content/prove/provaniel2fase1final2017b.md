@@ -315,16 +315,9 @@ caderno.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+**answer sheet**
 
-06) The Student Identification Sheet is on the last page of this
-- The notebook.
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** -
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
+06) The Answer Sheet with the student's identification is located on the last page of this booklet.
 
 
 
@@ -468,14 +461,12 @@ de um observador que percebe este movimento, é correto afirmar que:
 
 <div class="qlang-split" data-lang="it"></div>
 
-08) È vietato l'uso di qualsiasi tipo di calcolatore e di cellulare.
+08) È vietato l'uso di qualsiasi tipo di calcolatrice e telefono cellulare.
 
-Data: accelerazione della gravità sulla superficie terrestre $10\ \text{m/s}^2$, densità dell'acqua $10^3\ \text{kg/m}^3$; $\pi = 3$;
-La velocità della luce nel vuoto $3\times10^8$ m/s; $\text{sen}\,60^\circ = \sqrt{3}/2 = 0{,}8$; $\cos 60^\circ = 0{,}5$
-3. (esclusiva della prima serie) - Qual è l'accelerazione acquisita da un corpo di massa (m) discendendo da un
-piano inclinato senza attrito, con una velocità iniziale di 1,0 m/s, sapendo che alla fine del terzo secondo
-La velocità del corpo è diventata doppia rispetto alla velocità che aveva al termine del primo secondo di
-movimento.
+Dati: accelerazione dovuta alla gravità sulla superficie terrestre $10\ \text{m/s}^2$, densità dell'acqua $10^3\ \text{kg/m}^3$; $\pi = 3$;
+velocità della luce nel vuoto $3\times10^8$ m/s; $\text{sen}\,60^\circ = \sqrt{3}/2 = 0{,}8$ ; $\cos 60^\circ = 0{,}5$
+
+3. (esclusiva della 1ª serie) - Qual è l'accelerazione che deve acquisire un corpo di massa (m), scendendo lungo un piano inclinato privo di attrito, con una velocità iniziale di 1,0 m/s, sapendo che alla fine del terzo secondo del moto il corpo ha una velocità doppia rispetto a quella posseduta alla fine del primo secondo di moto?
 a) $2{,}0\ \text{m/s}^2$
 
 b) $0{,}1\ \text{m/s}^2$
@@ -486,83 +477,54 @@ d) $0{,}5\ \text{m/s}^2$
 
 e) $1{,}0\ \text{m/s}^2$
 
-4. (esclusiva della prima serie) - Una palla omogenea di peso $100\sqrt{3}$ N si trova appoggiata su una
-superficie piana, senza attrito e presa da una corda inestensibile, come indicato nella figura seguente. Considerando che la
-se essa è in equilibrio e sottoposta all'azione di una forza F di intensità pari a 50 N, determina la
-intensità della reazione normale tra la palla e il piano, considerando il centro della palla come il punto di
-La Commissione ha inoltre adottato una decisione che prevede che le misure di sicurezza e di sicurezza di cui all'articolo 6 del regolamento (CE) n.
+4. (esclusiva della 1ª serie) - Una sfera omogenea di peso $100\sqrt{3}$ N si trova appoggiata su una superficie piana, priva di attrito e collegata tramite un filo inestensibile, come mostrato nella figura qui sotto. Considerando che la sfera si trova in equilibrio e soggetta all'azione di una forza F di intensità pari a 50 N, determinare l'intensità della reazione normale tra la sfera e il piano, assumendo che il centro della sfera sia il punto di intersezione delle forze applicate su essa, trascurando ogni tipo di rotazione.
 - **A.** 300 N
 - **B.** $150\sqrt{3}$ N
 - **C.** $300\sqrt{3}$ N
 - **D.** 100 N
 - **E.** $125\sqrt{3}$ N
 
-5. (esclusiva della prima classe) - Nel libro Prinzipi matematici della filosofia naturale, di Isaac Newton
-e pubblicato nel 1726 (versione in latino), racconta tra le sue tre famose leggi del movimento, le varie misure
-effettuate da astronomi, utilizzando orologi a pendolo per determinare l'accelerazione della gravità,
-osservando che si muovono più lentamente quando si avvicina all'equatore, rispetto a
-Le misure adottate a Parigi. In una di queste misure effettuata dall'espedizione dell'astronomo francese Pierre
-Il couplet, che arrivò in Paraíba nel 1698, si è rivelato che rispetto a Parigi ($g = 9{,}81\ \text{m/s}^2$), le oscillazioni
-Le ricerche hanno ridotto i risultati di questo studio di 125 secondi al giorno, rendendo $g = 9{,}78\ \text{m/s}^2$. Sulla base di queste informazioni,
-possiamo affermare con ragione che:
-a) Il periodo dei penduli testati è inversamente proporzionale alla radice quadrata dell'accelerazione della gravità
-il luogo;
-- **B.** Il periodo dei penduli testati è proporzionale alla radice quadrata dell'accelerazione della gravità locale;
-- **C.** La temperatura locale non influisce sul determinare il periodo di oscillazione;
-- **D.** Doppiando la lunghezza di un semplice pendolo, il suo periodo quadruplicato;
-- **E.** La frequenza di oscillazione è inversamente proporzionale all'accelerazione della gravità locale.
+5. (esclusa dalla 1ª serie) – Nel libro “Principia Mathematica Philosophiae Naturalis”, scritto da Isaac Newton e pubblicato nel 1726 (edizione in latino), tra le sue tre famose leggi del moto, si menzionano diverse misurazioni effettuate da astronomi utilizzando orologi a pendolo per determinare l'accelerazione di gravità, osservando che essi si muovono più lentamente quando vicini all'equatore, rispetto alle misurazioni effettuate a Parigi. In una di queste misurazioni effettuata dall'espedita dell’astronomo francese Pierre Couplet, giunto in Paraíba nel 1698, si è riscontrato che rispetto a Parigi ($g = 9{,}81\ \text{m/s}^2$), le oscillazioni effettuate erano ridotte di 125 secondi al giorno, rendendo $g = 9{,}78\ \text{m/s}^2$. A partire da queste informazioni, possiamo affermare con sicurezza che:
+a) Il periodo dei pendoli testati è inversamente proporzionale alla radice quadrata dell'accelerazione di gravità locale;
+- **B.** Il periodo dei pendoli testati è proporzionale alla radice quadrata dell'accelerazione di gravità locale;
+- **C.** La temperatura locale non influisce sulla determinazione del periodo di oscillazione;
+- **D.** Raddoppiando la lunghezza di un pendolo semplice, il suo periodo si quadruplica;
+- **E.** La frequenza di oscillazione è inversamente proporzionale all'accelerazione di gravità locale.
 
-6. La figura seguente mostra il grafico della forza (F) che agisce su un corpo di massa di 1000,0 g a funzione del
-spostamento prodotto. Si sa che all'inizio il corpo era a riposo. In questo caso,
-lavoro svolto da 0,0 m a 0,6 m.
-- **A.** 4,5 N.m
-- **B.** 6,3 N.m
+6. La figura seguente mostra il grafico della forza (F) che agisce su un corpo di massa 1000,0 g in funzione dello spostamento prodotto. Si sa che inizialmente il corpo era fermo. Per questo caso, determinare il lavoro compiuto tra 0,0 m e 0,6 m.
+- **A.** 4,5 N·m
+- **B.** 6,3 N·m
 
- c) 3,6 J
- d) 4,8 J
-
- e) 4,8 N.m
+c) 3,6 J
+d) 4,8 J
+e) 4,8 N·m
 
 F
-7. Nel laboratorio di fisica della scuola c'è un dispositivo legale con cui gli studenti si divertono,
-mentre imparano il momento lineare, le energie e le loro conservazioni. Il dispositivo è costituito da:
-di una massa di >= 0,5% di massa,
-La distanza tra loro è così piccola, come si vede nella figura.
-Immaginiamo che uno studente allontani la palla (01) e la rilasci. Come si comportano le altre palle dopo il
-- lo shock? Per questo, disprezza ogni scontri e dissipazione di energia.
 
-a) Le palle (06 e 05) si allontanano mentre le altre
-- Non si fanno più.
-- **B.**Nulla succede, cioè tutte le palle si fermano;
-- **C.** Solo la palla (06) si allontana mentre le altre
-si fermano;
-d) tutte le palle si allontanano, solo (01) si ferma;
-e) Le palle (06) e (01) si allontanano.
+7. Nel laboratorio di fisica della scuola esiste un dispositivo divertente, con cui gli studenti si divertono mentre imparano sui momenti lineari, sull'energia e sulla loro conservazione. Questo dispositivo è costituito da diverse palline di metallo identiche, appese una accanto all'altra con fili ideali e di ugual lunghezza, in modo che la distanza tra esse sia molto piccola, come mostrato nella figura.
+Immaginiamo che uno studente sposti la pallina (01) e la lasci andare. Come si comporteranno le altre palline dopo l'urto? Per questa situazione trascurare tutti gli attriti e le dissipazioni di energia.
 
-8. Un punto materiale esegue un movimento circolare uniforme su un dato di riferimento piano. Dal punto di vista
-di un osservatore che percepe questo movimento, è corretto affermare che:
-- **A.** L'accelerazione vetorale della particella è zero;
-- **B.** La normale componente di accelerazione è zero;
-- **C.** L'accelerazione vetorale della particella è costante;
+a) Le palline (06 e 05) si allontanano, mentre le altre rimangono ferme.
+- **B.** Non accade nulla, cioè tutte le palline rimangono ferme;
+- **C.** Solo la pallina (06) si allontana, mentre le altre rimangono ferme;
+d) Tutte le palline si allontanano, solo la (01) rimane ferma;
+e) Le palline (06) e (01) si allontanano.
+
+8. Un punto materiale compie un moto circolare uniforme in un dato riferimento piano. Dal punto di vista di un osservatore che percepisce questo moto, è corretto affermare che:
+- **A.** L'accelerazione vettoriale della particella è nulla;
+- **B.** La componente normale dell'accelerazione è nulla;
+- **C.** L'accelerazione vettoriale della particella ha modulo costante;
 - **D.** La forza che agisce sulla particella è nulla;
-- **E.** Il modulo di velocità della particella è variabile.
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
+- **E.** Il modulo della velocità della particella è variabile.
 
 <div class="qlang-split" data-lang="en"></div>
 
-08) The use of any kind of calculator and mobile phone is prohibited.
+08) The use of any type of calculator or mobile phone is forbidden.
 
-Data: gravity acceleration on the earth's surface $10\ \text{m/s}^2$, water density $10^3\ \text{kg/m}^3$; $\pi = 3$;
-The speed of light in vacuum $3\times10^8$ m/s; $\text{sen}\,60^\circ = \sqrt{3}/2 = 0{,}8$; $\cos 60^\circ = 0{,}5$
-3. (excluding 1st series) - What is the acceleration to be achieved by a mass body (m) descending a
-a flat, unflinching slope, with an initial speed of 1,0 m/s, it being known that at the end of the third second
-The body's speed was double that at the end of the first second of
-Move it.
+Given: acceleration due to gravity at Earth's surface $10\ \text{m/s}^2$, density of water $10^3\ \text{kg/m}^3$; $\pi = 3$;
+speed of light in vacuum $3\times10^8$ m/s; $\text{sen}\,60^\circ = \sqrt{3}/2 = 0{,}8$ ; $\cos 60^\circ = 0{,}5$
+
+3. (exclusive to the 1st series) - What must be the acceleration acquired by a body of mass (m), descending an inclined plane without friction, with an initial velocity of 1.0 m/s, knowing that at the end of the third second of motion, the body had double the velocity it possessed at the end of the first second of motion?
 a) $2{,}0\ \text{m/s}^2$
 
 b) $0{,}1\ \text{m/s}^2$
@@ -573,72 +535,45 @@ d) $0{,}5\ \text{m/s}^2$
 
 e) $1{,}0\ \text{m/s}^2$
 
-4. (excluding 1st class) - A homogeneous ball of $100\sqrt{3}$ N weight is resting on a
-flat surface, frictionless and attached by an unstretchable rope, as shown below. Whereas the
-If the force is in equilibrium and subjected to an F force of 50 N, determine the
-the intensity of the normal reaction between the ball and the plane, considering the centre of the ball as the point of
-The Commission has already taken a number of measures to ensure that the Commission is able to take the necessary measures to ensure that the measures taken are not distorted.
+4. (exclusive to the 1st series) - A homogeneous ball of weight $100\sqrt{3}$ N is resting on a flat, frictionless surface and attached by an inextensible string, as shown in the figure below. Considering that it is in equilibrium and subjected to a force F of magnitude 50 N, determine the magnitude of the normal reaction force between the ball and the plane, taking the center of the ball as the point of intersection of the applied forces, and neglecting any kind of rotation in it.
 - **A.** 300 N
 - **B.** $150\sqrt{3}$ N
 - **C.** $300\sqrt{3}$ N
 - **D.** 100 N
 - **E.** $125\sqrt{3}$ N
 
-5. (exclusively of the first class) - In the book Mathematical Principles of Natural Philosophy, by Isaac Newton
-and published in 1726 (Latin version), relates among his three famous laws of motion, the various measures
-conducted by astronomers using pendulum clocks to determine the acceleration of gravity,
-Noting that they move more slowly when they are near the equator, compared to
-The measures taken in Paris. In one such measure carried out by the expedition of the French astronomer Pierre
-Couplet, which arrived in Paraíba in 1698, found that compared to Paris ($g = 9{,}81\ \text{m/s}^2$), the fluctuations in the
-The number of days of training was reduced by 125 seconds per day, making it $g = 9{,}78\ \text{m/s}^2$. Based on that information,
-We can rightly state that:
-(a) The duration of the pendulums tested is inversely proportional to the square root of gravity acceleration
-the location;
-- **B.** The duration of the test pendulums shall be proportional to the square root of the local gravity acceleration;
-- **C.** The local temperature does not influence the determination of the period of oscillation;
-- **D.** Doubling the length of a single pendulum, its period quadruples;
-- **E.** The oscillation frequency is inversely proportional to the acceleration of local gravity.
+5. (exclusive to the 1st series) – In the book "Principia Mathematica Philosophiae Naturalis," written by Isaac Newton and published in 1726 (Latin edition), among his three famous laws of motion, it recounts various measurements carried out by astronomers using pendulum clocks to determine the acceleration due to gravity, noting that they move more slowly near the equator compared to measurements taken in Paris. In one such measurement conducted by the French astronomer Pierre Couplet's expedition, which arrived in Paraíba in 1698, it was found that compared to Paris ($g = 9{,}81\ \text{m/s}^2$), the oscillations were reduced by 125 seconds per day, resulting in $g = 9{,}78\ \text{m/s}^2$. Based on these data, we can confidently state that:
+a) The period of the tested pendulums is inversely proportional to the square root of the local acceleration due to gravity;
+- **B.** The period of the tested pendulums is proportional to the square root of the local acceleration due to gravity;
+- **C.** Local temperature does not affect the determination of the oscillation period;
+- **D.** Doubling the length of a simple pendulum causes its period to quadruple;
+- **E.** The oscillation frequency is inversely proportional to the local acceleration due to gravity.
 
-6. The figure below shows the graph of the force (F) acting on a body of mass 1000.0 g as a function of the
-displacement produced. It is known that the body was initially at rest. In this case, determine the
-work carried out between 0,0 m and 0,6 m.
-- **A.** 4,5 N.m
-- **B.** 6,3 N.m
-
- c) 3,6 J
- d) 4,8 J
-
- e) 4,8 N.m
+6. The figure below shows the graph of force (F) acting on a body of mass 1000.0 g as a function of the displacement produced. It is known that initially the body was at rest. For this case, determine the work done between 0.0 m and 0.6 m.
+- **A.** 4.5 N·m
+- **B.** 6.3 N·m
+c) 3.6 J
+d) 4.8 J
+e) 4.8 N·m
 
 F
-7. In the school's physics lab, there's a legal device that students often have fun with.
-while learning about linear momentum, energies and their conservation. This device shall consist of:
-Multiple identical metal balls, suspended together in ideal wires of equal length, and of such a kind
-So the distance between them is very small, as shown in the figure.
-Let's say a student pushes the ball away and lets it go. How will the other balls behave after the
-What's the shock? For that situation, disregard all friction and dissipation of energy.
 
-(a) The balls (06 and 05) move away while the other balls
-They're standing still.
-- **B.** Nothing happens, which means all the balls are stopped;
-- **C.** Only the ball (06) moves away while the other balls
-are stopped;
-(d) All balls move away, only the (01) is stopped;
-(e) The balls (06) and (01) move away.
+7. In the school's physics laboratory, there is a clever device that students often enjoy using while learning about linear momentum, energy, and their conservation. This device consists of several identical metal balls suspended side by side from ideal strings of equal length, arranged so that the distance between them is very small, as shown in the figure.
+Imagine a student pulls aside ball (01) and releases it. How will the other balls behave after the collision? For this situation, neglect all friction and energy dissipation.
 
-8. A material point performs a uniform circular motion on a flat reference data. From the point of view of the
-of an observer who perceives this movement, it is correct to state that:
-- **A.** The vector acceleration of the particle is zero;
-- **B.** The normal acceleration component is zero;
-- **C.** The vector acceleration of the particle has a constant modulus;
+a) Balls (06 and 05) move away, while the others remain at rest.
+- **B.** Nothing happens; that is, all balls remain at rest.
+- **C.** Only ball (06) moves away, while the others remain at rest.
+d) All balls move away, except ball (01), which remains at rest.
+e) Balls (06 and 01) move away.
+
+8. A point mass performs uniform circular motion in a given planar reference frame. From the perspective of an observer who perceives this motion, which of the following statements is correct?
+
+- **A.** The particle's vector acceleration is zero;
+- **B.** The normal component of the acceleration is zero;
+- **C.** The particle's vector acceleration has constant magnitude;
 - **D.** The force acting on the particle is zero;
-- **E.** The particle velocity module is variable.
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]], [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
+- **E.** The magnitude of the particle's velocity is variable.
 
 
 
@@ -1379,27 +1314,17 @@ radiare da sole;
 
 <div class="qlang-split" data-lang="en"></div>
 
-19. In another experiment, conducted at sea level, Professor Physicson asked a group of students to
-Put a liter of water in a small container and a liter of water in a large basin, both open.
-as shown below, leaving them exposed to the sun between the hours of 10am and 2pm. At the end of the experiment,
-The students collected the water from the containers, measured their volumes and correctly found that:
-I. There was more water in the smaller container than in the basin, because the larger the exposure area, the greater the
-the evaporation process;
-II. There was more water in the smaller container than in the basin, because the larger the exposure area, the smaller the
-the evaporation process;
-The Commission shall adopt implementing acts. There was more water in the smaller container, because the smaller the exposure area, the greater the intensity of the
-the radiation from the sun;
+19. In another experiment, conducted at sea level, Professor Physicson asked a group of students to place one liter of water in a small container and another liter of water in a large basin, both open as shown in the figures below, leaving them exposed to sunlight between 10 a.m. and 2 p.m. At the end of the experiment, the students collected the water from both containers, measured their volumes, and correctly observed that:
+
+I. There was more water in the smaller container than in the basin, because the larger the surface area exposed, the greater the evaporation process will be;
+II. There was more water in the smaller container than in the basin, because the larger the surface area exposed, the smaller the evaporation process will be;
+III. There was more water in the smaller container, because the smaller the surface area exposed, the greater the intensity of solar radiation will be.
+
 - **A.** I and II are correct;
 - **B.** II and III are correct;
 - **C.** Only I is correct;
 - **D.** I and III are correct;
-- **E.** All correct;
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
+- **E.** All are correct;
 
 
 
@@ -1598,27 +1523,12 @@ e) L'accelerazione della palla dopo l'uscita di P è minima.
 
 <div class="qlang-split" data-lang="en"></div>
 
-22. During a laboratory experiment, Professor Physicson showed his students his
-Art in photography. On the occasion, he used his flash machine in multi mode to make multiple
-exposures of a small ball pushed upwards by an ideal spring. The spring, with the ball on top, was
-initially compressed to the point (P) and released. The ball left the spring at point (Q) and reached the height
-maximum in point (R), as shown in Figure 1. The Commission has already taken a number of measures to ensure that the
-to state correctly that:
-(a) The acceleration of the ball is constant at all points
-the trajectory Q to R;
-(b) The acceleration of the ball was maximized immediately
-before reaching point Q, still in contact with the
-spring;
-(c) The acceleration of the ball decreased as it passed the
-point Q to R;
-(d) The acceleration of the ball at point R is zero;
-(e) The acceleration of the ball after P is out is minimal.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
+22. During a laboratory experiment, Professor Physicson showed his students his skill in photography. At the time, he used his camera with the flash set to multi-mode to take multiple exposures of a small ball launched upward by an ideal spring. The spring, with the ball on top, was initially compressed until point (P) and then released. The ball left the spring at point (Q) and reached maximum height at point (R), as shown in the figure. Neglecting any resistances present in the process, we can correctly state that:
+a) The ball's acceleration is constant at all points along the trajectory from Q to R;
+b) The ball's acceleration was maximum immediately before reaching point Q, while still in contact with the spring;
+c) The ball's acceleration decreased when it moved from point Q to R;
+d) The ball's acceleration at point R is zero;
+e) The ball's acceleration after leaving P is minimum.
 
 
 
@@ -1860,48 +1770,38 @@ e
 
 <div class="qlang-split" data-lang="it"></div>
 
-25. Un pesce che nuota sotto la superficie dell'acqua in P, come mostrato nella figura. Essendo un osservatore in Q, dove
-e l'immagine che vedrà sarà:
-a) A una profondità inferiore a quella che ha realmente
-è;
-- **B.** Nella stessa profondità;
-- **C ** In una profondità maggiore di quella che ha realmente
-è;
-d) Nella stessa profondità, ma a destra da dove esso
-E ' davvero così;
-e) Nella stessa profondità, ma a sinistra da dove
-E ' davvero così;
-OLIMPIATA BRASILANA di FISIca  2017
-Fase 1  11 MAIO 2017
+25. Un pesce nuota sotto la superficie dell'acqua in P, come mostrato nella figura. Essendo un osservatore in Q, dove si troverà l'immagine vista da lui:
+a) A una profondità minore rispetto a quella effettiva;
+- **B.** Alla stessa profondità;
+- **C.** A una profondità maggiore rispetto a quella effettiva;
+d) Alla stessa profondità, ma alla destra di dove si trova effettivamente;
+e) Alla stessa profondità, ma alla sinistra di dove si trova effettivamente;
+OLIMPÍADA BRASILEIRA DE FÍSICA – 2017
+1a FASE – 11 DI MAGGIO 2017
 
-NIVEL II - Scuole secondarie - 1o e 2o anno
+NÍVEL II - Scuola Secondaria di Primo Grado - 1a e 2a classi
 
-Preencher usando una lettera di forma.
-Nome: __________________________________________________ Serial: __________
-Telefono P/CONTACTO:_______) ______________ E-mail: ____________________________
-La Commissione ha adottato una decisione che prevede che il programma di formazione professionale sia integrato nel programma di formazione professionale.
-La Commissione ha adottato una decisione che prevede che il Consiglio di sicurezza del paese non abbia alcun diritto di autorizzazione.
+COMPILARE USANDO LETTERA MAIUSCOLA.
+NOME: ___________________________________________________________ CLASSE: __________
+TELEFONO DI CONTATTO:(___)_____________ E-MAIL: ____________________________
+SCUOLA:______________________________________________________
+COMUNE:__________________________________
 
-STATO:
+STATO:__________
 
-SINATURA: __________________________________
+FIRMA: ____________________________________________
 
-TABELLA RISPONDI (inserire un X)
-La questione
-a
-b
-c
-d
-e
-01(esclusa della prima serie)
+TABELLA DELLE RISPOSTE (inserire una X)
+Domanda a b c d e
+01(esclusiva della 1a classe)
 
-2(esclusa della prima serie)
+02(esclusiva della 1a classe)
 
-03(esclusa della prima serie)
+03(esclusiva della 1a classe)
 
-04(esclusa della prima serie)
+04(esclusiva della 1a classe)
 
-05(esclusa della prima serie)
+05(esclusiva della 1a classe)
 
 06
 
@@ -1942,57 +1842,42 @@ e
 24
 
 25
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-25. A fish swimming below the surface of the water in P, as shown in the figure. Being an observer in Q, where
-The image he sees will be:
-(a) At a depth lower than it actually is
-is;
+25. A fish swims below the surface of the water at point P, as shown in the figure. With an observer located at Q, where will the image appear to him:
+a) At a shallower depth than its actual position;
 - **B.** At the same depth;
-- **C ** At a depth greater than it actually is
-is;
-(d) At the same depth but to the right of where it is
-It really is;
-(e) At the same depth but to the left of where it
-It really is;
-The Brazilian Olympic Games in Physics 2017
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+- **C.** At a greater depth than its actual position;
+d) At the same depth, but to the right of where it actually is;
+e) At the same depth, but to the left of where it actually is;
 
-NIVEL II - Secondary education - 1st and 2nd series
+BRASILIAN PHYSICS OLYMPIAD – 2017
+FIRST ROUND – MAY 11, 2017
 
-PREENCHER using the letter of the form.
-The following is the list of the countries of the European Union:
-The following information is provided by the Commission to the European Parliament and to the Council:
-The following is the list of the countries of the European Union:
-The following is the list of the countries of the European Union:
+LEVEL II - High School - 1st and 2nd years
 
-The following is the list of the Member States:
+FILL IN USING CAPITAL LETTERS.
+NAME: ___________________________________________________________ GRADE: __________
+PHONE FOR CONTACT: (___)_____________ E-MAIL: ____________________________
+SCHOOL:______________________________________________________
+CITY:__________________________________
 
-The following is the list of the countries of the European Union:
+STATE:__________
 
-Table of answers (put an X)
-Question No
-a
-b
-c
-d
-e
-01(excluding 1st series)
+SIGNATURE: ____________________________________________
 
-02(excluding 1st series)
+ANSWER SHEET (place an X)
+Question a b c d e
+01 (exclusive to 1st year)
 
-03(excluding 1st class)
+02 (exclusive to 1st year)
 
-04(excluding 1st series)
+03 (exclusive to 1st year)
 
-05(excluding 1st series)
+04 (exclusive to 1st year)
+
+05 (exclusive to 1st year)
 
 06
 
@@ -2033,9 +1918,3 @@ e
 24
 
 25
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1eegYPxZelWJqjIMQEYu4kExuE0T9ExFM/view)

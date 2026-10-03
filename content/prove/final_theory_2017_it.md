@@ -288,6 +288,10 @@ Problems
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 3 : Effetto Hall (16 punti)
 In questo problema ci interessiamo al funzionamento di un sensore a effetto Hall e alle sue
 potenziali applicazioni.
@@ -461,8 +465,131 @@ Domande brevi
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 3: Hall Effect (16 points)
+In this problem we are interested in the operation of a Hall effect sensor and its potential applications.
+Part A. Let's put some resistance ...
+(3 points)
+l d w
+$\rho_e$
+Fig. 1: Piece of conductor
+In the following we will use a piece of silver, which `e un buon conduttore elettrico, avente resistivit` electrical $\rho_e = 1.587 \times 10^{-8}\ \Omega\cdot\text{m}$, length l, width d and thickness w (see figure 1).
+l
+A
+B
+$U_{AB}$
+I
+Fig. 2:
+Diagram of the electrical circuit; the squares represent the ammeter (I) and the voltage generator ($U_{AB}$).
+We connect the two ends A and B along the length to a voltage generator $U_{AB}$ and measure the current I that flows through the piece of conductor (see figure 2). We repeat the measurement several times; the results are shown in table 1.
+#
+$U_{AB}$ ($\mu\text{V}$)
+I (A)
+1
+-10
+-0.252
+2
+-2
+-0.05
+3
+5
+0.126
+4
+15
+0.378
+Tab. 1:
+Current measurements made on the piece of conductor i. (2 pt) Using the measurements in table 1, determine the resistance of the piece of conductor. Assume that the resistance in the rest of the circuit is negligible.
+ii. (1 pt) Determine the thickness w as a function of the other variables mentioned above.
+(For the numerical calculation use $l = 5\ \text{cm}$ and $d = 2\ \text{cm}$)
+Part B. ... to the current (3 points)
+We would like to express the current flowing from A to B as a function of the average velocity `a media degli elettroni nel materiale $v_d$, della loro densit` per unit volume $n_e$, of their charge e and of the appropriate geometric dimensions of the piece of conductor.
+i.
+(2 pt)
+Find the value of the exponents in the following expression for the current:
+$$I = n_e^\alpha\, e^\beta\, v_d^\gamma\, w^\delta\, d^\varepsilon\, l^\kappa$$ ii. (0.5 pt) In which direction do the electrons go?
+iii. (0.5 pt) What are the parameters that depend on the material (and not on its geometry)?
+Part C. In the fields (5 points)
+Now we place the piece of conductor in a uniform magnetic field perpendicular to I and d (see figure 3). The current always flows from A to
+B.
+i. (0.5 pt) What `e la direzione della forza di Lorentz che agisce sugli elettroni che si spostano all’interno del pezzo di conduttore? (Una risposta senza spiegazioni/motivazioni o schizzo non verr` taken into consideration)
+ii. (0.5 pt) What is the value of this force?
+If a voltmeter is connected between points C and D, a voltage $U_{CD}$ is measured, stable after enough time.
+iii. (2.5 pt) Can you explain why? (Develop your answer as much as possible. NB: It is better to answer this question after having answered other points of part C)
+SwissPhO : $2^\circ$ round
+Problems
+25.03.2017
+A
+B
+$U_{AB}$
+C
+D
+$\vec{B}$
+Fig. 3: Piece of conductor iv. (0.5 pt) In which direction does the electric field between C and D point?
+v. (0.5 pt) What `e la direzione della forza elettrica che agisce sugli elettroni che si muovono all’interno del pezzo di conduttore? (Una risposta senza spiegazioni/motivazioni o schizzo non verr` taken into consideration)
+vi. (0.5 pt) What is the value of this force?
+Part D. The climax (5 points)
+After a certain period of time the forces cancel out and the electrons are no longer deflected from their path inside the conductor despite the voltage $U_{CD}$ still being present!
+i. (2 pt) Write $I_{AB}$ and $U_{CD}$ as a function of B, E,
+$n_e$, e and the appropriate geometric parameters.
+ii. (1 pt) The Hall resistance is defined as
+$$R_H = \frac{U_{CD}}{I_{AB}}$$
+Calculate this value algebraically.
+iii. (0.5 pt) Find the value of $n_e$ if for a magnetic field of $0.5\ \text{T}$ and $U_{AB} = 2\ \text{V}$ one measures
+$U_{CD} = 14\,717\ \mu\text{V}$.
+Now our sensor is ready! We place it in a uniform magnetic field and measure a voltage $U_{CD} = 10\ \text{mV}$ when a voltage $U_{AB} = 0.7\ \text{V}$ is applied.
+iv.
+(0.5 pt)
+What is the `e l’intensit` of the magnetic field in which the sensor is immersed?
+v. (1 pt) Does this value allow us to know the direction of the magnetic field? (Motivate your answer)
+Swiss Physics Olympiad
+Second selection
+Aarau, 25 March 2017
+Theoretical part 2
+: 6 short questions
+Duration
+: 60 minutes
+Total
+: 24 points $(6 \cdot 4)$
+Authorized materials : - Non-programmable calculator
+- Writing and drawing materials
+NB : Start each problem on a new sheet
+Good work !
+ERNST GÖHNER STIFTUNG neue kantonsschule aarau
+Supported by :
+State Secretariat for Education and Research and Innovation
+BASF (Basel)
+German-speaking Swiss Physics Commission VSMP / DPK
+Materials Science & Technology
+Ecole Polytechnique Fédérale de Lausanne
+ETH Zurich Department of Physics
+Fondation Claude & Giuliana
+Ernst Göhner Stiftung, Zug
+Hasler Stiftung, Bern
+Metrohm Stiftung, Herisau
+Neue Kantonsschule Aarau
+Novartis International AG (Basel)
+Quantum Science and Technology
+F. Hoffman-La Roche AG (Basel)
+Société Valaisanne de Physique
+Swiss Academy of Engineering Sciences SATW
+Swiss Academy of Sciences
+Swiss Physical Society
+Syngenta AG
+Università della Svizzera italiana
+Universität Bern FB Physik/Astronomie
+Universität Zürich FB Physik Mathematik
+SwissPhO : Second round
+Short questions
+26.03.2017
+
+
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Problema 1 : Il marziano (4 Punti)
 Vogliamo stimare il balzo di un astronauta di massa $70\ \text{kg}$. A questo scopo gli preghiamo
@@ -488,6 +615,18 @@ non picchi la testa sul soffitto)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 1: The Martian (4 points)
+We want to estimate the jump of an astronaut of mass $70\ \text{kg}$. For this purpose, we ask him to jump as high as he can in our training station here on Earth. He first bends his knees, so as to lower his center of mass by $40\ \text{cm}$. At the highest point of the jump, his center of mass reaches a height $50\ \text{cm}$ greater than when he is standing upright.
+i. (2 Pts) Calculate the average force his legs exert on the floor during the jump. Neglect any friction force.
+ii. (1.5 Pts) Now we want to estimate how high the astronaut could jump on
+Mars. Assume that he performs the same motion he performed on Earth and that he wears a space suit of mass $100\ \text{kg}$.
+The acceleration of gravity `a sulla superficie di Marte misura $g_\text{Marte} = 0.38 \cdot g_\text{Terra}$. L’atmosfera ` is very low, so you can also neglect any friction here.
+Assuming there is a climate-controlled base station on Mars in which the astronaut can move without a space suit.
+iii. (0.5 Pts) How high can he jump under these conditions? (Also assume that while jumping he does not hit his head on the ceiling)
 
 
 
@@ -540,6 +679,10 @@ ii. (1.5 Points) Indicate a maximum limit for the height that the tennis ball co
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet,object/star"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Problema 3 : Doppio tramonto (4 Punti)
 Vuoi trascorrere un serata romantica con la tua compagna/il tuo compagno e ti rechi
 con questa persona sulla spiaggia per vedere il tramonto con un elevatore meccanico. Nel
@@ -566,6 +709,22 @@ Figura 1: Source : xkcd.com
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1wIrDrj5Dv0NoyCDCtTtadB2oyu-oSn4c/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 3: Double sunset (4 points)
+You want to spend a romantic evening with your partner and you go with this person to the beach to watch the sunset with a mechanical elevator. At the moment when the sun sets, you turn on the elevator and rise to a height $h = 6\ \text{m}$.
+The elevator rises at a speed $v = 0.3\ \text{m}\cdot\text{s}^{-1}$. Assume that you are already in the elevator when you observe the sunset for the first time, that is, you will observe it once at sea level, and the second time exactly at $6\ \text{m}$.
+i. (0.5 Pts) By what angle has the Earth rotated in the time it takes the elevator to reach the desired height?
+ii. (1 Pt) How far "above" you will the sun's rays be when you have reached the desired height? Report your result in algebraic form.
+iii. (1.5 Pts) Can you see the sunset a second time? The radius of the Earth measures
+$r_E = 6371\ \text{km}$.
+iv. (1 Pt) If s`ı, potreste osservare il tramonto anche se la velocit`a of the elevator were smaller than $\Delta v = -0.02\ \text{m}\cdot\text{s}^{-1}$? If not, could you observe the sunset if the elevator were faster than $\Delta v = 0.02\ \text{m}\cdot\text{s}^{-1}$?
+SwissPhO: Second round
+Short questions
+26.03.2017
+Figure 1: Source: xkcd.com
 
 
 

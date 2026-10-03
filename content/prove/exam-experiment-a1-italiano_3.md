@@ -147,78 +147,78 @@ Italiano (Italy)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Experiments
+Experiment
 A1-1
 Italian (Italy)
-Part A. The properties of the planet
-A.1 (2.0 pt)
+Part A. Planet's Properties
+A.1 (2.0 points)
 
 $g=$
 
 $\Delta g=$
 
-Experiments
+Experiment
 A1-2
 Italian (Italy)
-A.1 (c) The following points shall be added:
-A.2 (0.5 pt)
+A.1 (continued)
+A.2 (0.5 point)
 
 $R=$
 
-Experiments
+Experiment
 A1-3
 Italian (Italy)
-A.3 (0.5 pt)
+A.3 (0.5 point)
 
 $M=$
 
 $\Delta M=$
 
-It points out that the effect on accuracy of $M$ has the greatest influence.
-Resistance of the air acting on the sphere.
-Coriolis force $F_C = 2m\vec{v}\times\vec{\omega}$ acting on the sphere, with $m$, $\vec{v}$ and $\vec{\omega}$ denoting the mass and velocity of the ball and the angular velocity of the planet, respectively.
-Corrections of a higher order than gravity from general relativity, the relative intensity of which is the order of the angle at which a photon is deflected by the gravitational pull of the planet.
+Check the effect that has the greatest influence on the accuracy of $M$.
+Air resistance acting on the sphere.
+Coriolis force $F_C = 2m\vec{v}\times\vec{\omega}$ acting on the sphere, where $m$, $\vec{v}$, and $\vec{\omega}$ denote respectively the mass and velocity of the ball and the angular velocity of the planet.
+Higher-order corrections to gravity from general relativity, whose relative strength is on the order of the angle by which a photon is deflected due to the planet's gravitational attraction.
 Centrifugal force acting on the sphere.
-Changes in $g$ due to the distance from the Earth changing during the fall.
+Variations in $g$ due to changing distance from Earth during the fall.
 
-Experiments
+Experiment
 A1-4
 Italian (Italy)
-Part B. The atmospheric properties
-B.1 (2.0 pt)
+Part B. Atmospheric Properties
+B.1 (2.0 points)
 
 $u=$
 
 $\Delta u=$
 
-Experiments
+Experiment
 A1-5
 Italian (Italy)
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
+B.1 (continued)
 
-Experiments
+Experiment
 A1-6
 Italian (Italy)
-B.2 (1.0 pt)
+B.2 (1.0 point)
 
 $\rho_{a0} =$
 
 $\Delta\rho_{a0} =$
 
-Experiments
+Experiment
 A1-7
 Italian (Italy)
-B.3 (3.0 pt)
+B.3 (3.0 points)
 
 $H_0 =$
 
 $\Delta H_0 =$
 
-Experiments
+Experiment
 A1-8
 Italian (Italy)
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-B.4 (0.5 pt)
+B.3 (continued)
+B.4 (0.5 point)
 
 $\mu=$
 
@@ -228,48 +228,43 @@ $p_0 =$
 
 $\Delta p_0 =$
 
-Experiments
+Experiment
 A1-9
 Italian (Italy)
-Part C. Duration of one day
-C.1 (2.5 pt)
+Part C. Length of a Day
+C.1 (2.5 points)
 
 $T_p=$
 
 $\Delta T_p=$
 
-Experiments
+Experiment
 A1-10
 Italian (Italy)
-C.1 (c) The following points are added:
+C.1 (continued)
 
-Experiments
+Experiment
 A1-11
 Italian (Italy)
 Additional millimeter paper
 
-Experiments
+Experiment
 A1-12
 Italian (Italy)
 Additional millimeter paper
 
-Experiments
+Experiment
 A1-13
 Italian (Italy)
 Additional millimeter paper
 
-Experiments
+Experiment
 A1-14
 Italian (Italy)
 Additional millimeter paper
 
-Experiments
+Experiment
 A1-15
 Italian (Italy)
 
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Thermodynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Planet (object)|Planet]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/12-1W1hulZBOU-hEF9YDSnPGxI01xYP7f/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KXuT6bDQq8jiG9IX-LCpWdWEAMX1ndDS/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KXuT6bDQq8jiG9IX-LCpWdWEAMX1ndDS/view)

@@ -229,30 +229,11 @@ platform A from $I_1$ to $I_2$? Declare your answer in M, R, $I_1$, $I_2$, and $
 
 <div class="qlang-split" data-lang="it"></div>
 
-5. 13 punti)
-In un quadro di riferimento (terra) che ruota intorno a O con velocità angolare $\omega_0$, esistono
-una piattaforma A che si trova a distanza R dal centro di riferimento O. Supponiamo
-che la piattaforma ruota senza attrito dal suo asse. Sopra la piattaforma A, esistono
-alcune persone che si diffondono sul bordo della piattaforma, in modo che ha massa totale
-di M (supponendo che il centro di massa sia situato esattamente sopra l'asse) e il momento
-inerzia $I_1$. Inizialmente, la piattaforma si muove insieme alla cornice di riferimento (terra),
-In modo tale che $\omega_{A,O}=0$ (Non vi sia movimento relativo tra la piattaforma A rispetto alla
-quadro di riferimento O). Tuttavia, se analizzato da un quadro di riferimento non inerziale (ad esempio,
-da spazio), la piattaforma ruota con velocità angolare $\omega'_{A,NI}=0$ e ruota anche
-circa il centro di riferimento O.
-Come le particelle di un tornado che ruotano e si spostano verso il loro centro (dove la pressione è inferiore) le persone si spostano verso il centro della piattaforma A, in modo che il momento
-inerzia della piattaforma A diminuita a $I_2$. Supponiamo che il centro di massa non cambie
-L'articolo 5 del regolamento (CE) n.
-a. Velocità angolare finale $A(\omega_{A,O})$ rispetto al quadro di riferimento (terra)! Declare
-la risposta in M, R, $I_1$, $I_2$ e $\omega_0$. La rotazione è in senso orario o in senso antiorario?
-b. L'energia che deve essere rilasciata da queste persone per cambiare l'inerzia del momento
-piattaforma A da $I_1$ a $I_2$? Declare la tua risposta in M, R, $I_1$, $I_2$ e $\omega_0$.
-
-**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1IOvFQiWRzIySXzT4F60Xpf-eqpS6CJty/view)
+5. (13 punti)
+In un sistema di riferimento (Terra) che ruota attorno al punto O con velocità angolare $\omega_0$, esiste una piattaforma A posta a distanza R dal centro del sistema di riferimento O. Si assuma che la piattaforma ruoti senza attrito attorno al proprio asse. Al di sopra della piattaforma A si trovano alcune persone distribuite lungo il bordo della piattaforma, in modo che la massa totale sia M (si assuma che il centro di massa si trovi esattamente sopra l'asse) e il momento d’inerzia sia $I_1$. Inizialmente, la piattaforma si muove insieme al sistema di riferimento (Terra), in modo che $\omega_{A,O}=0$ (non c’è moto relativo tra la piattaforma A e il sistema di riferimento O). Tuttavia, se analizzata da un sistema di riferimento non inerziale (ad esempio dallo spazio), la piattaforma ruota con velocità angolare $\omega'_{A,NI}=0$ e si muove in orbita attorno al centro di riferimento O.
+Come avviene per le particelle di un tornado che ruotano e si muovono verso il centro (dove la pressione è più bassa), le persone si spostano verso il centro della piattaforma A, in modo che il momento d’inerzia della piattaforma A diminuisca fino a $I_2$. Si assuma che il centro di massa non cambi durante il moto. Determinare:
+a. La velocità angolare finale $A(\omega_{A,O})$ relativa al sistema di riferimento (Terra)! Esporre la risposta in termini di M, R, $I_1$, $I_2$ e $\omega_0$. Il moto è orario o antiorario?
+b. L’energia che deve essere rilasciata dalle persone per modificare il momento d’inerzia della piattaforma A da $I_1$ a $I_2$? Esporre la risposta in termini di M, R, $I_1$, $I_2$ e $\omega_0$.
 
 
 

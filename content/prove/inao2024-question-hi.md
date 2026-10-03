@@ -111,94 +111,70 @@ Table 1: उत्सजर्नरेखांए
 
 <div class="qlang-split" data-lang="it"></div>
 
-1. In questo momento, ciascuno di questi interrogativi è risposto con un'attenta e accurata attenzione.
-(a) (2 punti) 17 luglio2023CossuyarstKeturantabad, FTAMEPSMIKSTZKEPULTINKATAKA
-Il cielo ha già cercato di fargli vedere i suoi occhi.
-Il programma di ricerca e di ricerca è stato sviluppato nel corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso del corso.
-• dal 17 luglio si deve aumentare la distanza tra i servizi.
-• L'11 agosto si è iniziato a tagliare le distanze tra i servizi di servizio e i servizi di telecomunicazione.
-• ha anche visto il suo intero anno di vita per un tempo di tempo di grandezza in cielo
-पास) नहींिदखा।
-Se non c'è un'esistenza di fumetti, non ci sono problemi.
-Le osservazioni sono utili.
-b) (2 punti) in seguito, si può utilizzare per la gestione della città, per il controllo di un'area di sicurezza e di un'area di sicurezza.
-(Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (Continuazione) (C) (C)
-E poi, in un'altra parte, il segnale di un'altra parte del sistema di accensioni è stato riportato.
-Il tempo di trasmissione è il tempo di trasmissione.
+1. Rispondi brevemente e in modo conciso a ciascuna delle seguenti domande.
+
+(a) (2 punti) Il 17 luglio 2023, subito dopo il tramonto del Sole, un osservatore ha visto con i propri occhi (senza strumenti) un oggetto celeste molto luminoso. Ha osservato lo stesso oggetto ogni giorno, sempre alla stessa ora, fino al 4 settembre 2023. Le sue osservazioni sono state le seguenti:
+• Dopo il 17 luglio, la distanza tra l’oggetto e il Sole è aumentata.
+• Dopo l'11 agosto, la distanza tra l’oggetto e il Sole è diminuita.
+• Ha notato inoltre che per tutto l’anno, l’oggetto non è mai apparso direttamente sopra la testa (vicino al zenit) nel cielo.
+
+Se l’oggetto non è un cometa solare, indica il nome di uno tra i seguenti oggetti che risulta compatibile con queste osservazioni.
+
+(b) (2 punti) Nella figura qui sotto, puoi vedere il Sole sopra l’orizzonte di una città (Ujjain) in un certo giorno dell’anno. Nella figura sono indicati: il piano dell’eclittica (ecliptic), l’equatore celeste (celestial equator) e il punto W che indica la direzione dell’ovest. Tra i percorsi numerati da 1 a 6, quale rappresenta più accuratamente il cammino che il Sole segue nel cielo in quel giorno, quando si alza sopra l’orizzonte?
+
 W
-Eclittica
-Equatore celeste
+Ecliptic
+Celestial Equator
 2
 3
 4
 5
 6
 1
-(c) (2 punti) Tre osservatori A, B e C, rispettivamente, sulla Luna, sul Venere e sul Mungo.
-Il suo osservatore della Terra vede quasi tutte le arti che possono essere fatte.
-Il crescente, come l'arte della terra, la metà della terra, l'arte della terra.
-(d) (4 punti) Un'unica persona che ha un complesso di rappresentanza per il suo sempre più grande successo.
-Il suo livello di massa è stato di un'altezza massima $50^\circ$ e di un'altezza minima $20^\circ$.
-- Cosa? - Cosa?
-(e) (2 punti) La Commissione annuale di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di lavoro/di/di lavoro/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di/di
-- **A.** agosto
-- **B.** नवंबर
-- **C.** febbraio
-- **D.** मई
-(f) (4 punti) Innumerosi documenti di carattere professionale/settiplici di carattere professionale
-- Posso?
-- **A.** Non esiste alcun sistema di controllo o di controllo.
-- **B.** Il sistema solare è molto piccolo.
-- **C.** Qualsiasi cosmonauta ha la sua velocità tangenziale più alta,
-Quando si tratta di un problema.
-D. Tutti gli astrosurceti sono in un'unica posizione in un'altra direzione.
-g) (5 punti) un'arma remota o un'arma di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza o di sicurezza
-Emitteranno e genereranno, in particolare, il loro spettro.
-E' un pianeta estraneo, un pianeta estraneo, un pianeta estraneo.
-Qualche altro satellite orbitante (un satellite orbitante) su una superficie
-Il progetto di misurazione del spettro di Chandrayaan-300 è stato realizzato in modo che il suo spettro fosse più veloce.
-La frequenza di un'onda di frequenza è molto bassa.
-Le parti di cui sopra sono state poste.
-Bannacappincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincraseincrasein
-La stessa struttura è stata creata in un'unità di controllo.
-L'intensità delle linee è quasi in forma di un'aumento della capacità storica di una fonte di energia
-स्पेक्टर्ममेंउसेआसानीदेखाजासके।
-Somma314-B-1 è un'unica fonte di sostanze chimiche che è stata identificata.
-- di cui
-तरंगदैध्यर्1
-तरंगदैध्यर्2
-तरंगदैध्यर्3
-Fh
-193.44
-–
-–
-Dz
-149.18
-159.73
+
+(c) (2 punti) Tre osservatori A, B e C si trovano rispettivamente sulla Luna, su Venere e su Marte. Quale di questi osservatori può vedere praticamente tutte le fasi della Terra – dalle fasi crescenti (come la luna crescente), alla metà, alle fasi gibbosa e fino all’ultima fase (piena Terra)?
+
+(d) (4 punti) Una stella è sempre visibile sopra l’orizzonte per un intero giorno. Durante questo periodo, la sua altezza massima sopra l’orizzonte è $50^\circ$ e il valore minimo è $20^\circ$. Qual è (o quali sono) la(latitudine) del luogo di osservazione?
+
+(e) (2 punti) In quale mese o mesi dell’anno la luna nuova si troverà nella costellazione del Leone?
+- **A.** Agosto
+- **B.** Novembre
+- **C.** Febbraio
+- **D.** Maggio
+
+(f) (4 punti) Quale delle seguenti affermazioni NON può essere dedotta dalle leggi di Keplero?
+- **A.** Qualsiasi pianeta orbita intorno al Sole su un'orbita ellittica o circolare.
+- **B.** L'eccentricità delle orbite di tutti i pianeti del sistema solare è molto piccola.
+- **C.** Qualsiasi pianeta del sistema solare raggiunge la massima velocità tangenziale quando si trova più vicino al Sole.
+- **D.** Tutti i pianeti orbitano intorno al Sole in orbite quasi circolari e approssimativamente nel medesimo piano.
+
+(g) (5 punti) L'analisi dei componenti chimici presenti nella polvere di un lontano oggetto sferico viene effettuata osservando le righe spettrali emesse nella sua emissione, che sono caratteristiche di ciascun elemento chimico. In futuro, un satellite (Nome: Somma 314-B-1) si poserà su una superficie lontana, e un modulo lunare (Chandrayaan-300) atterrerà sulla superficie, dove misurerà uno spettro (come mostrato qui sotto). Lo strumento spettrale è dotato di piccole irregolarità (piccoli rilievi e avvallamenti) che generano segnali reali, ma piccoli. Le due assi del grafico mostrato qui sotto sono espresse in unità numeriche, con valori indicati. Di seguito è riportata una tabella completa delle righe spettrali emesse da vari elementi chimici, con le lunghezze d'onda espresse nella stessa unità usata nel grafico sopra. Si assuma che, se un elemento è presente nella sorgente, le sue righe spettrali appaiono con intensità significativamente più elevate rispetto al fondo, e quindi possono essere facilmente identificate nello spettro mostrato.
+Identificare gli elementi chimici presenti nella polvere della superficie di Somma 314-B-1.
+
+| Lunghezza d'onda 1 | Lunghezza d'onda 2 | Lunghezza d'onda 3 | Elemento |
+|---------------------|--------------------|--------------------|--------|
+| 193.44              | –                  | –                  | Fh     |
+|                     |                    |                    | Dz     |
+149,18
+159,73
 –
 Ab
-111.71
-122.87
-177.94
+111,71
+122,87
+177,94
 Hm
-132.67
-139.56
+132,67
+139,56
 –
 Cw
-119.55
-139.32
+119,55
+139,32
 –
 Xy
-148.90
-159.69
+148,90
+159,69
 –
-Tabella 1: linee di emissione
-
-**Topic:** [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AkgADhUSvhljAYBxBdcB-ECIcoXKnCMp/view)
+Tabella 1: linee di flusso
 
 
 
@@ -333,36 +309,18 @@ $f_{n+1}$ और$f_n$ केबीचएकपुनरावतɁ सूत्�
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. A e B sono due elementi, ′genenessessessamenaltan (volume) V è la quantità di materia (volume)
-In me c'è solo il latte e in me c'è solo l'acqua.
-Trasferimento di un luogo di trasferimento. Un luogo di trasferimento di un luogo di trasferimento.
-है:
-• Fase 1: Prendi un po' di acqua e prendilo, lo mandi e fai un buon lavoro.
-• Fase 2: per il periodo B, per il periodo L, per il periodo di tempo e per il periodo di tempo
-िमलाएँ।
-Ogni trasferimento di dati è effettuato in modo che il volume di trasferimento sia uguale.
-कɃ $n$-वेंस्थानांतरणिक्रयाकेअंतमेंबतर्नA मेंदूधकɃ सांद्रताको$C^A_M(n)$ से˃चȥन्हतिकयाजाताहै।यहाँहमसांद्रता
-In questo modo si fanno:
+3. A e B sono due recipienti che contengono la stessa quantità di liquido (fluido) di volume V. Inizialmente, A contiene solo latte e B contiene solo acqua. Preleviamo una certa quantità di liquido da ciascuno dei due recipienti e, mescolandola, la trasferiamo. Un'operazione di trasferimento è definita come il completamento dei due seguenti passaggi:
+• Passaggio 1: prelevare da A un certo volume definito (L), versarlo in B e mescolare bene.
+• Passaggio 2: prelevare da B la stessa quantità (L) di liquido misto e rimetterlo in A, mescolando bene.
+Alla fine di ogni operazione di trasferimento, la quantità di liquido in entrambi i recipienti è esattamente uguale, cioè V. Supponiamo che alla fine della $n$-esima operazione di trasferimento, la concentrazione del latte nel recipiente A sia indicata con $C^A_M(n)$. Qui definiamo la concentrazione come segue:
 $$C^A_M(n) = \frac{\text{बतर्न A मेंदूधकɃ मात्रा}}{\text{बतर्न A मेंकुलतरलपदाथर्कɃ मात्रा}} \quad (n\ \text{पूणर्स्थानांतरणिक्रयाओंकेबाद})$$
-इसीप्रकार, आप$C^A_W$, $C^B_M$ एवं$C^B_W$ कोभीपȼरभािषतकरसकतेहैं।
-(a) (4 marks) पहलीस्थानांतरणिक्रयाकेअंतमेंबतर्नA मेंदूधकɃ सांद्रतायानी$C^A_M(1)$ काव्यंजक, आयतन
-L e V sono in forma di calcolo.
-b) (8 punti) faremo $\varepsilon$ $\varepsilon = \dfrac{L}{V}$ in forma di paralisi.$\varepsilon$
-Relazione)  composizioni, ʹcome $C^A_M(n)$ e $C^A_M(n-1)$, cioè n e n $-1$ in
-Si tratta di un'attività di ricerca e di ricerca che si svolge in un'area di ricerca e sviluppo.
-c) (3 punti) più volte (in numerosi casi) concentrazione di trasferimento di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di
-Il valore di equilibrio è quasi pari a quello raggiunto da una specie, come il $\varepsilon$ in una forma di rilievo.
-कामूल्यक्याहोगा?
-(d) (5 punti) Noi univiazione$f_n$ così faremo,
+Allo stesso modo, potete definire anche $C^A_W$, $C^B_M$ e $C^B_W$.
+(a) (4 punti) Scrivete l'espressione della concentrazione del latte nel recipiente A alla fine della prima operazione di trasferimento, cioè $C^A_M(1)$, in funzione dei volumi L e V.
+(b) (8 punti) Definiremo $\varepsilon$ come $\varepsilon = \dfrac{L}{V}$. Con l'aiuto di $\varepsilon$, costruite una relazione ricorsiva (recursion relation) che mostri la relazione tra $C^A_M(n)$ e $C^A_M(n-1)$, cioè le concentrazioni del latte presenti nel recipiente A dopo n e n $-1$ operazioni.
+(c) (3 punti) Dopo aver eseguito molte operazioni di trasferimento (in numero molto grande), la concentrazione del latte nei due recipienti raggiunge quasi il valore di equilibrio, che può essere scritto come una funzione di $\varepsilon$. Quale sarà il valore di questa concentrazione di equilibrio?
+(d) (5 punti) Definiremo una nuova variabile $f_n$ nel modo seguente,
 $$f_n = C^A_M(n) - 1/2$$
-Tra i $f_{n+1}$ e $f_n$ si ripete la formulazione di un'operazione, e l'aiuto di questa formulazione da $C^A_M(n)$ a $\varepsilon$ e $n$
-Una semplice funzione in forma personale.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1AkgADhUSvhljAYBxBdcB-ECIcoXKnCMp/view)
+Costruite una relazione ricorsiva tra $f_{n+1}$ e $f_n$, e con l'aiuto di questa relazione esprimete $C^A_M(n)$ come una semplice funzione di $\varepsilon$ e $n$.
 
 
 

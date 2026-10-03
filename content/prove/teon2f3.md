@@ -112,77 +112,44 @@ Ensino Médio
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 2 (esclusiva per studenti della prima elementare)  In un'opera è necessario scaricare pile di rifiuti
-usando una casamba, una polizza e un cavo. Il materiale deve lasciare il piano superiore a velocità zero
-e raggiungere il suolo, situato $10{,}0\ \text{m}$ sotto, anche a velocità zero. In ogni viaggio, la caccia
-trasporta $50{,}0\ \text{kg}$ di materiale e il cavo utilizzato può rompersi sottoposto a tensione
-superiore a $2000\ \text{N}$. Considerare un schema che faccia il viaggio di discesa nel minor intervallo possibile
-il quale è subordinato alla condizione di sicurezza che la tensione del cavo non superi il 70% del suo valore di rottura.
-In questo schema, quanto tempo ci vuole ogni viaggio di discesa? (Considerate dispregiate le forze
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
-Leggi attentamente le istruzioni qui sotto
-1 - Questo test è destinato esclusivamente agli studenti della prima e della seconda serie di istruzione secondaria. Contiene
-dodici domande. Ogni domanda ha un valore di 10 punti e la prova un totale di 80 punti (massimo otto punti).
-(cfr.
-2 - Gli studenti della prima elementare possono scegliere liberamente otto domande da rispondere. Alunni della seconda elementare
-rispondono alle otto domande non indicate come esclusive per i bambini della prima elementare.
-3 - Il Libro delle Risposte contiene istruzioni che devono essere lette con attenzione prima dell'inizio della
-Prova.
-4 - Tutti i risultati numerici devono essere espressi in unità nel Sistema internazionale e
-seguendo le istruzioni specifiche della questione.
-5 - La durata di questo esame è di quattro ore e il studente deve rimanere in sala per un minimo di tempo.
-60 minuti.
-Se necessario, e salvo indicazione contraria, utilizzare: velocità di luce nel vuoto = $3{,}0\times10^8\ \text{m/s}$;
-aceleração da gravidade $g =10\ \text{m/s}^2$; velocidade do som no ar = $340\ \text{m/s}$; $1\ \text{atm} = 10^5\ \text{Pa}$;
-la densità dell'acqua liquida = $1{,}00\ \text{g/cm}^3$; calore specifico dell'acqua liquida = $4{,}2\ \text{J/gK}$;
-calore specifico del ghiaccio = $2{,}1\ \text{J/g.K}$; calore latente di fusione del ghiaccio = $33\ \text{J/g}$;
-$\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$.
-Nivel II
-Istruzione secondaria
-1a e 2a serie
+Quesito 2 (esclusivo per gli studenti della prima classe) – In un cantiere è necessario abbassare pile di detriti utilizzando una scatola, una carrucola e un cavo. Il materiale deve lasciare il piano superiore con velocità nulla ed arrivare al piano terra, situato a $10{,}0\ \text{m}$ di distanza, anch’esso con velocità nulla. In ogni viaggio, la scatola trasporta $50{,}0\ \text{kg}$ di materiale e il cavo può rompersi se sottoposto a una tensione superiore a $2000\ \text{N}$. Si consideri uno schema che realizza il viaggio di discesa nel minor intervallo possibile, rispettando ancora la condizione di sicurezza che la tensione nel cavo non superi il 70% del suo valore di rottura.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
+In questo schema, quanto tempo impiega ogni viaggio di discesa? (Si considerino trascurabili le forze dissipative e le masse della carrucola, della scatola e del cavo).
+
+LEGGI ATTENTAMENTE LE ISTRUZIONI DI SEGUITO
+1 - Questo compito è destinato esclusivamente agli studenti della prima e seconda classe del Liceo. Contiene dodici quesiti. Ogni quesito vale 10 punti e il compito ha un totale di 80 punti (massimo otto quesiti risolti).
+2 - Gli studenti della prima classe possono scegliere liberamente otto quesiti da risolvere. Gli studenti della seconda classe risolvono gli otto quesiti non contrassegnati come "esclusivi per studenti della prima classe".
+3 - Il quaderno delle risposte contiene istruzioni che devono essere lette con attenzione prima dell'inizio del compito.
+4 - Tutti i risultati numerici devono essere espressi in unità del Sistema Internazionale e seguire le istruzioni specifiche del quesito.
+5 - La durata di questo test è di quattro ore, e lo studente deve rimanere nella sala per almeno sessanta minuti.
+
+Se necessario, a meno che non sia diversamente indicato, utilizzare: velocità della luce nel vuoto = $3{,}0\times10^8\ \text{m/s}$; accelerazione di gravità $g =10\ \text{m/s}^2$; velocità del suono nell'aria = $340\ \text{m/s}$; $1\ \text{atm} = 10^5\ \text{Pa}$; densità dell'acqua liquida = $1{,}00\ \text{g/cm}^3$; calore specifico dell'acqua liquida = $4{,}2\ \text{J/gK}$; calore specifico del ghiaccio = $2{,}1\ \text{J/g.K}$; calore latente di fusione del ghiaccio = $33\ \text{J/g}$; $\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$.
+
+LIVELLO II
+Scuola Secondaria di II grado
+Prima e seconda superiore
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2 (exclusive to 1st graders)  In a work it is necessary to download debris batteries
-using a hook, a pole and a cable. The material must leave the upper floor at zero speed
-and reach the ground below $10{,}0\ \text{m}$, also at zero speed. On each trip, the hunter
-carries $50{,}0\ \text{kg}$ of material and the cable used may break if subjected to a stress
-greater than $2000\ \text{N}$. Consider a scheme that makes the descent journey as short as possible
-subject to the safety condition that the voltage in the cable does not exceed 70% of its break value.
-In that scheme, how long does each descent take? (Consider the forces despicable
-The Commission has not yet adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the use of the electricity sector.
-Read the instructions carefully below
-1 - This test is intended exclusively for students in the first and second grades of secondary education. It contains
-Twelve questions. Each question is worth 10 points and the test a total of 80 points (maximum eight points).
-Questions answered).
-2 - Students in the first grade can freely choose eight questions to answer. Secondary school pupils
-answer the eight questions not indicated as exclusive for 1st graders.
-3 - The Answer Book contains instructions which must be read carefully before the start of the
-I'll try that.
-4 - All numerical results shall be expressed in units in the International System and
-following the specific instructions in the matter.
-5 - The duration of this test is four hours and the student must remain in the classroom for at least
-60 minutes.
-If necessary, and unless otherwise stated, use: vacuum light speed = $3{,}0\times10^8\ \text{m/s}$;
-aceleração da gravidade $g =10\ \text{m/s}^2$; velocidade do som no ar = $340\ \text{m/s}$; $1\ \text{atm} = 10^5\ \text{Pa}$;
-densidade da água líquida = $1{,}00\ \text{g/cm}^3$; calor específico da água líquida = $4{,}2\ \text{J/gK}$;
-The heat of the ice specific = $2{,}1\ \text{J/g.K}$; latent heat of the ice melting = $33\ \text{J/g}$;
-$\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$.
-Level II
-Secondary education
-1st and 2nd series
+Problem 2 (exclusive for 1st-year students) – In a construction site, it is necessary to lower piles of debris using a bucket, a pulley, and a cable. The material must leave the upper floor with zero velocity and arrive at ground level, located $10{,}0\ \text{m}$ below, also with zero velocity. In each trip, the bucket carries $50{,}0\ \text{kg}$ of material and the cable may break if subjected to a tension exceeding $2000\ \text{N}$. Consider a scheme that performs the descent trip in the shortest possible time, while still satisfying the safety condition that the cable tension does not exceed 70% of its breaking strength.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
+Under this scheme, how long does each descent trip take? (Neglect dissipative forces and the masses of the pulley, bucket, and cable.)
+
+READ THE INSTRUCTIONS BELOW CAREFULLY
+1 – This exam is exclusively for 1st- and 2nd-year high school students. It contains twelve questions. Each question is worth 10 points, and the exam has a total of 80 points (maximum eight questions answered).
+2 – 1st-year students may freely choose any eight questions to answer. 2nd-year students must answer the eight questions not marked as "exclusive for 1st-year students."
+3 – The Answer Booklet contains instructions that must be read carefully before starting the exam.
+4 – All numerical results must be expressed in SI units and according to the specific instructions given in each question.
+5 - The duration of this exam is four hours, and the student must remain in the examination room for at least sixty minutes.
+If necessary, and unless otherwise specified, use: speed of light in vacuum = $3{,}0\times10^8\ \text{m/s}$;
+acceleration due to gravity $g =10\ \text{m/s}^2$; speed of sound in air = $340\ \text{m/s}$; $1\ \text{atm} = 10^5\ \text{Pa}$;
+density of liquid water = $1{,}00\ \text{g/cm}^3$; specific heat capacity of liquid water = $4{,}2\ \text{J/gK}$;
+specific heat capacity of ice = $2{,}1\ \text{J/g.K}$; latent heat of fusion of ice = $33\ \text{J/g}$;
+$\pi = 3$; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$.
+
+LEVEL II
+High School
+1st and 2nd years
 
 
 
@@ -665,25 +632,7 @@ $p=3/4$. Qual è la probabilità che un gruppo di 6 atomi abbia la magnetizzazio
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 11  The paramagnetism of materials can be explained by the alignment behaviour or
-Not the moments of magnetic dipole of your atoms. In the light of the above, the Commission has not yet adopted a proposal for a directive.
-The magnetic dipole moment component z can assume
-only the values $+\mu_0$ (upwards) or $-\mu_0$ (downwards) where $\mu_0$ is the dipole moment intensity
-magnetic of each atom. In the absence of an external magnetic field, the moments of magnetic dipole
-The atoms are randomly oriented so that the magnetization M of the system, given by the sum of the
-magnetic dipole moments, it is zero. In the presence of a magnetic field pointing in the direction z, M
-It's different from zero because the magnetic dipoles tend to align with the outer field. In the meantime, the
-The alignment is not complete, as in addition to the interaction with the field, thermal interactions are also present that favour the
-It's a mess. In paramagnetic materials, the external field intensity B and temperature T
-determine the probability of alignment of a magnetic dipole with the field. Consider one
-a given situation in which the probability of a magnetic dipole orienting in the direction of the field is
-$p=3/4$. What is the probability that a group of 6 atoms will have the magnetization $M=2\mu_0$?
-
-**Topic:** [[Magnetism]], [[Thermodynamics]]
-**Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]], [[Magnetic Dipole (object)|Magnetic Dipole]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ORfV_McefDmHhOPz43B-CFbqtO67bMAP/view)
+Problem 11 – The paramagnetism of materials can be explained by the behavior of alignment or non-alignment of the magnetic dipole moments of their atoms. Simplified, in a convention where the Cartesian z-axis points upward, the z-component of the magnetic dipole moment can only take the values $+\mu_0$ (upward) or $-\mu_0$ (downward), where $\mu_0$ is the magnitude of the magnetic dipole moment of each atom. In the absence of an external magnetic field, the magnetic dipole moments of the atoms are randomly oriented, so that the magnetization M of the system, given by the sum of the magnetic dipole moments, is zero. In the presence of a magnetic field pointing in the z-direction, M differs from zero because the magnetic dipoles tend to align with the external field. However, alignment is not complete, since in addition to interaction with the field, there are thermal interactions that favor disorder. In paramagnetic materials, the strength of the external magnetic field B and the temperature T determine the probability of alignment of a magnetic dipole with the field. Consider a certain situation in which the probability that a magnetic dipole aligns along the direction of the field is $p=3/4$. What is the probability that a group of 6 atoms exhibits magnetization $M=2\mu_0$?
 
 
 

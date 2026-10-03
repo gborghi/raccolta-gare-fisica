@@ -496,77 +496,27 @@ Ora studiamo il salto con ha
 
 <div class="qlang-split" data-lang="en"></div>
 
-P3. Greek jump
-Classical authors such as Herodotus, Plutarch, Aristophanes, and Pausanias, say that in the 5th century BCE. C. an athlete
-The Greek named Phayllos (Croton Fail) set a record for long jump during the pentathlon of
-The Delphic games. The pentathlon consisted of 5 events:
-race, boar throwing, disc throwing,
-Long jump and wrestling competition. La
-Phayllos' feat was recorded in the following
-epigram: Phayllos jumped 5 feet over 50 feet and threw
-The disc 5 feet less than 100 feet (Palatine Anthology,
-The following is the list of the following: A deaf foot measured 29.6 cm, which is
-implies that Phayllos jumped 16.28 m and threw the disc
-a 28,12 m. While the performance in the launch of
-The new system is designed to be more efficient and to be more efficient.
-Weights used in antiquity, long jump
-It has been a matter of controversy since no athlete
-Modern is capable of jumping that distance.
-After studying a number of sources, both written and
-The first is that the long jump is a very important aspect of the
-It was done while the athlete was standing on the floor and carrying
-Weights (or halters) on the hands during the jump. The way in which
-How the jump was done and how these weights helped the athlete
-The Commission has been discussing this issue for a long time.
-time. Several authors suggest that the athlete balanced the
-arms standing on the ground, he made the jump and, once
-He was in the air, throwing his halters backwards.
-to increase the length of the jump. In addition, according to some authors, the athletes made three leaps (or five) in the event of a fall.
-The total number of jumps was calculated as the sum of all the jumps.
-The precise analysis of the Greek leap is very complex and involves advanced knowledge of mechanics and
-The biomechanics. In this problem we're going to look at very simplified models to study two types of jumps.
-First we'll analyze a non-running jump, with both feet resting on the floor without a hammer.
-We shall then examine the leap to the Greek style, under the same conditions as the previous one, but with a
-the hand stops that are thrown by the athlete during flight. We want to know if jumping with a hammer is
-An advantage or not. In the whole problem we will disregard the influence of air on the jumper and take
-For acceleration of gravity the value
-2
-9,8 m/s
-g =
-.
-In order to study the athlete's movements and halters during the jump, the concept of
-The mass center, which we will introduce next. Given a system of n particles, each mass
-i
-m
-and position vector
-(
-)
-,
-i
-i
-i
-r
-x y
-=
+P3. Greek Jump
+Classical authors such as Herodotus, Plutarch, Aristophanes, and Pausanias recount that in the 5th century B.C., a Greek athlete named Phayllos (Phayllus of Crotona) set a record in the long jump during the Pythian Games' pentathlon. The pentathlon consisted of five events:
+running, javelin throw, discus throw, long jump, and wrestling competition. Phayllos's feat was recorded in the following epigram: “Phayllos jumped 5 feet more than 50 feet and threw the discus 5 feet less than 100 feet” (Palatine Anthology, Appendix 297). A Pythian foot measured 29.6 cm, implying that Phayllos jumped 16.28 m and threw the discus to a distance of 28.12 m. While today’s performance in the discus throw seems acceptable given ancient techniques and weights, the long jump has been a subject of controversy because no modern athlete is able to achieve such a distance.
+After studying numerous written and pictorial sources, many authors conclude that the long jump was performed with the athlete standing still on the ground while holding weights (or halteres) in their hands during the jump. The manner in which the jump was executed and how these weights assisted the athlete has been debated for a long time. Various authors suggest that the athlete swung their arms while standing on the ground, performed the jump, and once airborne, threw the halteres backward to increase the jumping distance. Additionally, according to some authors, athletes performed three jumps (or five jumps according to others) consecutively, and the total distance recorded was the sum of all individual jumps.
 
-, the center of mass (CM) of the system is defined as the point of space
-given by the vector
+The precise analysis of the Greek long jump is highly complex and requires advanced knowledge in mechanics and biomechanics. In this problem, we will examine two highly simplified models to study two types of jumps.
+
+First, we will analyze a jump without a run-up, with both feet at rest on the ground and no halteres.
+
+Subsequently, we will analyze the Greek-style jump under identical conditions as above, but with halteres held in the hands that are thrown by the athlete during flight. We wish to determine whether jumping with halteres provides an advantage or not. Throughout the problem, we will neglect air resistance on the jumper and take the acceleration due to gravity as
+2
+9.8 m/s g = .
+To study the motion of the athlete and the weights during the jump, it is necessary to use the concept of center of mass, which we introduce below. Given a system of n particles, each with mass i m and position vector (
+)
+, i i i r x y
+= , the center of mass (CM) of the system is defined as the point in space given by the vector
 CM
 1
 1
 1
-,
-n
-n
-i
-i
-i
-i
-i
-i
-r
-m x
-m y
+, n n i i i i i i r m x m y
 M
 =
 =
@@ -577,82 +527,40 @@ $\sum$
 $\sum$
 
 , where
-1
-n
-i
-i
-M
-m
+1 n i i
+M m
 =
-$=\sum$
-is the total mass of the particle system.
-The CM of a system containing bars (rigid, homogeneous and very thin) and particles with mass is
-You get this by considering that each bar is equivalent to a particle that has the mass of the bar and is in the
-the geometric center of the bar. The position of the system CM is then calculated from these
-particles equivalent to bars, together with the point masses that are also part of the system.
-Greek vase from 540 BC. C. showing an athlete making a long jump with weights (halters) in his hands.
-Halters of a Greek long jumper.
+$=\sum$ is the total mass of the system of particles.
 
-Figures 1 to 5 show a very simplified biomechanical model of athlete. We shall consider that the
-legs, trunk (including neck and head) and arms are very thin, homogeneous stiff bars.
-In addition, the only joints are those of the arms with the trunk (shoulders) and the legs with the trunk
-(hips) All figures indicate the position of the CM of the system with a black circle. In all the
-calculations we will disregard the horizontal dimensions of the athlete's trunk.
+The CM of a system containing bars (rigid, homogeneous, and very thin) and point masses is obtained by considering each bar as equivalent to a particle having the mass of the bar and located at the geometric center of the bar. Subsequently, the position of the CM of the system is calculated based on these equivalent particles representing the bars, together with the point masses that also form part of the system.
 
-Figure 1 shows a frontal view of the athlete with the body stretched and without the halters; Figure 2 is the same
-Figure 1 but with a hammer in the athlete's hands. Figure 3 shows a lateral view of the athlete in the
-The highest point of its trajectory in the jump; the 4 is the same figure as the 3 but with halters in the hands.
-Figure 5 shows a lateral view of the athlete just as he takes ground after the jump. The Commission
-Leg lengths, trunk and arms are respectively
-pl ,
-tl y
-bl . The athlete's height is
-1,80 m
-l =
+Greek vase from 540 B.C. depicting an athlete performing a long jump with weights (halteres) in his hands.
+Halteres of a Greek long jumper.
 
-(distance from the feet to the top of the head), the legs measure
-0,55
-pl
-l
-=
-, the trunk
-0,3
-tl
-l
-=
-And the arms
-0,4
-bl
-l
-=
-. The athlete has a mass
-75 kg
-m =
-, the total mass of both legs is
-0.35m , the mass of the trunk is 0.55m , and the total of both arms is 0.10m . To simplify the calculation,
-We will consider that the mass of the neck and head is included in the mass of the trunk. The total mass of
-The two halters are
-0,05
-h
-m
-m
-=
-.
-(a) Get the position of the athlete 's CM from Figures 1, 2 and 5 by calculating distances 1r , 2r and 5r .
-Consider a parabolic shot in the XY plane of a point mass thrown from the point (
-)
+In figures 1 to 5 a highly simplified biomechanical model of an athlete is shown. We will consider the legs, trunk (including neck and head), and arms as thin, homogeneous rigid rods.
+Additionally, the only joints are those between the arms and trunk (shoulders) and between the legs and trunk (hips). In all figures, the center of mass (CM) of the system is indicated by a black circle. In all calculations, we will neglect the horizontal dimensions of the athlete’s trunk.
+
+Figure 1 shows a front view of the athlete with body fully extended and without weights; figure 2 is identical to figure 1 but with weights held in the athlete’s hands. Figure 3 shows a side view of the athlete at the highest point of their trajectory during the jump; figure 4 is identical to figure 3 but with weights held in the hands.
+Figure 5 shows a side view of the athlete exactly at the moment they land after the jump. The lengths of legs, trunk, and arms are respectively pl, tl, and bl. The athlete’s height is
+1.80 m l =
+
+(distance from feet to top of head), the legs measure
+0.55 pl l = , the trunk
+0.3 tl l = , and the arms
+0.4 bl l = . The athlete has a mass
+75 kg m = , the total mass of both legs is
+0.35m , the trunk mass is 0.55m , and the total mass of both arms is
+0.10m . For simplicity, we will assume that the masses of the neck and head are included in the trunk mass. The total mass of the two weights is
+0.05 h m m = .
+
+a) Determine the position of the CM of the athlete in figures 1, 2, and 5 by calculating the distances 1r , 2r , and 5r .
+
+Consider a projectile motion in the XY plane of a point mass launched from point (
 0
 0
-,
-x
-y
-with
-a module speed of at least one
-0v (we'll call velocity the speed module) and forming an angle
-$\theta$ with respect to the horizontal. The X axis is horizontal, rising to the right, and is above the ground; the Y axis
-It's vertical and rising up. The origin of coordinates is in the ground. It can be shown that the
-The maximum range (i.e. maximum horizontal distance to the
-The mass falls to the ground) and the maximum range is
+, x y ) with an initial velocity of magnitude
+0v (we will call speed the magnitude of velocity) and forming an angle
+$\theta$ with respect to the horizontal. The X-axis is horizontal, increasing to the right, and lies on the ground; the Y-axis is vertical and increases upward. The origin of coordinates is located on the ground. It can be shown that the launch angle for maximum range (i.e., the maximum horizontal distance until the mass hits the ground) and said maximum range are
 2
 0
 0
@@ -661,22 +569,10 @@ The mass falls to the ground) and the maximum range is
 0
 2
 0
-0
-Arctans
+0 arctan
 ,
 2
-2
-Max
-Max
-v
-v
-x
-x
-v
-g y
-g
-v
-g y
+2 max max v v x x v g y g v g y
 $\theta$
 =
 =
@@ -684,50 +580,16 @@ $\theta$
 +
 +
 
-Now let's look at the athlete's jump without a stop. The motion of a solid system in which the
-The internal forces between the parts of the system comply with Newton's third law (as our model of
-The second law of Newton for particle systems is that the sum of the external forces is equal to the sum of the
-the total mass of the system multiplied by the acceleration of the CM. This implies that the internal forces of the
-These guys can't accelerate the CM of the system, and so we can study the athlete's movement from
-the movement of its CM.
+Let us now analyze the athlete's jump without weights. The motion of a system of rigid bodies, in which internal forces between the parts of the system satisfy Newton's third law (as in our athlete model), obeys Newton's second law for systems of particles: the sum of external forces equals the total mass of the system multiplied by the acceleration of the center of mass (CM). This implies that internal forces of this type cannot accelerate the CM of the system; therefore, we can study the athlete's motion based on the motion of their CM.
 
-1 In this problem we will not take into account either rotations or conservation of angular momentum.
+1 In this problem, we will not consider rotations or conservation of angular momentum.
 
-As regards the technique of jumping, we shall assume that at the time of the jump, the athlete's body is
-a total of at least one of the following:
+With regard to the jumping technique, we assume that at the moment of takeoff, the athlete's body is fully extended (i.e., in the position shown in Figure 1), forming an angle
 0
-25o
-$\alpha$ =
-with regard to the
-the soil (see Figure 6). Experimentally, by analysing the performance of a group of jumpers, it is shown that the
-This value is close to the optimal (in the biomechanical sense) for this type of
-I'm going to jump. For that group of jumpers, the average CM speed of the athlete in
-The time of the jump is
+25° $\alpha$ with respect to the ground (see Figure 6). Experimentally, by analyzing the performance of a group of jumpers, it is found that this value is close to the biomechanically optimal one for this type of jump. For this group of athletes, the average speed of the athlete's center of mass (CM) at takeoff is
 0
-3,5 m s
-v =
-. To calculate the length of the jump,
-We will consider that, at the time of landing, the athlete is placed
-as shown in Figure 5. So the contact point of the athlete with the ground is the
-the end of the leg (i.e. the toes). After contacting the ground,
-The athlete turns forward, so that the previous contact point is the
-determining the total length of the jump. We'll make the approximation that,
-When the athlete touches the ground, the trunk, legs and arms are
-aligned at the same height and horizontally.
-(b) Consider the athlete without a hammer. Knowing that in the jump your CM describes the same movement that
-a parabolic shot, and applying the conditions so that the horizontal range of the athlete's CM is
-Maximum, calculates the angle
-Max
-$\theta$
-with respect to the horizontal that the initial CM velocity must have
-the athlete, and calculates the maximum jump length
-I jump
-d
-.
-Now we're going to study the jump with ha
+3.5 m s v = . To compute the jump length, we assume that at the moment of landing, the athlete is positioned as shown in Figure 5. Thus, the point of contact between the athlete and the ground is at the end of the leg (i.e., the toes). After contacting the ground, the athlete rotates forward so that the previous contact point determines the total jump length. We make the approximation that, when the athlete contacts the ground, the trunk, legs, and arms are aligned at the same height and horizontally.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1IsconoUp1l4WADY8Y6IIox2ICGj_i6Uu/view)
+b) Consider the athlete without weights. Knowing that during the jump, the CM follows motion identical to a projectile motion, and applying the conditions for maximum horizontal range of the athlete's CM, calculate the angle max $\theta$ that the initial speed of the CM must make with respect to the horizontal, and calculate the maximum jump length d.
+
+Now we will study the jump with weights.

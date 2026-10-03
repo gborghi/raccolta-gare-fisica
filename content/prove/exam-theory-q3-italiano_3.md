@@ -90,72 +90,42 @@ in cui si sta muovendo. L’unità della viscosità è $\text{kg/(m}\cdot\text{s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Scaling Laws (8 points)**
 
-The laws of scale describe the functional relationship between two physical quantities that are connected to each other.
-In a very wide range of variability. This functional relationship is generally a law of power.
-But there are other possibilities. It is often very difficult to write the exact expression of the report.
-But we can still get the laws of scale.
+Scaling laws describe the functional relationship between two physical quantities that are connected over a very wide range of variability. This functional relationship is usually a power law, although other possibilities exist. Often it is very difficult to write down the exact expression for the relationship; however, scaling laws can still be derived.
 
-Part A. One Spaghetti (2.0 points)
+Part A. One 'Spaghetti' (2.0 points)
 
 A.1
-A spaghetti of $d$ diameter shall be balanced horizontally in its centre
-As shown in the figure. If $d = 1\ \text{mm}$, the spaghetti breaks under its own weight
-when its length reaches $l = 50\ \text{cm}$. What is the maximum length $l'$
-of a thickness $d' = 1\ \text{cm}$ before breaking underneath its own
-weight?
-2.0pt
+A spaghetti of diameter $d$ is balanced horizontally at its center, as shown in the figure. If a spaghetti of length $d = 1\ \text{mm}$ breaks under its own weight when its length reaches $l = 50\ \text{cm}$, what is the maximum length $l'$ of a spaghetti of diameter $d' = 1\ \text{cm}$ before it breaks under its own weight?
+2.0 pt
 
-Part B. Sand castle (2,0 points)
+Part B. Sandcastle (2.0 points)
 
 B.1
-The average volume of grains of grain sand is 10 times higher than the average volume of grain sand.
-The one with the fine grain sand. Wet fine grain sand and sand
-Wet bulk grains have an optimal water content (from
-The maximum strength of the resistance is assumed to be at the highest level) and are used
-To build two cylinders of exactly the same shape and size. The resistance of each cylinder is tested by pressing it between two parallel plates. Il
-The cylinder made of sand with a thick grain of sand is destroyed when the force applied to the
-the pressure on the plates reaches $F_c = 10\ \text{N}$. How large is the force $F_f$ required
-To destroy the fine grain sand cylinder? You can ignore the effects of
-gravity.
-2.0pt
+The average volume of the grains of coarse sand is 10 times greater than that of fine sand. Both wet coarse sand and wet fine sand have an optimal water content (assumed to yield maximum resistance force) and are used to build two cylinders of exactly the same shape and dimensions. The resistance of each cylinder is tested by pressing it between two parallel plates. The cylinder made of coarse sand breaks when the applied force to press the plates reaches $F_c = 10\ \text{N}$. What is the magnitude of the force $F_f$ required to break the cylinder made of fine sand? You may ignore gravitational effects.
+2.0 pt
 
-Part C. The following is the list of the countries of the European Union:
+Part C. Interstellar travel (2.0 points)
 
 C.1
-The spacecraft of an interstellar expedition travels at a constant acceleration $g = 10\ \text{m/s}^2$, i.e. this is the acceleration of the spacecraft in the inertial reference system where it is instantly stationary. Passengers must be in
-They can return to Earth within their remaining expected life span of 50 years. The maximum distance from Earth reached by the spacecraft is $d$. If the acceleration is coming
-Increased to $g' = 15\ \text{m/s}^2$, the vessel can reach a greater distance
-$d'$. What is the $d'/d$ ratio?
-Suggestion one. You might want to use the relativistic addition formula of
-The Commission has already taken a number of measures to improve the efficiency of the Community's transport system.
-Suggestion two. It may be necessary to manage the hyperbolic functions defined as follows: $\cosh x = \frac{1}{2}(e^x + e^{-x})$, $\sinh x = \frac{1}{2}(e^x - e^{-x})$, $\tanh x = \frac{e^x - e^{-x}}{e^x + e^{-x}}$.
-Suggestion three. Depending on your approach, you may need one or more
-of these integers: $\int \frac{dx}{1-x^2} = \operatorname{atanh} x + C$, $\int \frac{dx}{\sqrt{1+x^2}} = \operatorname{asinh} x + C$, $\int \sinh x\, dx = \cosh x + C$, where $\operatorname{asinh} x$ and $\operatorname{atanh} x$ are the inverse functions of the respective
-the hyperbolic functions.
+The spaceship of an interstellar expedition travels with a constant acceleration $g = 10\ \text{m/s}^2$, meaning this is the spaceship's acceleration in the inertial reference frame where it is instantaneously at rest. The passengers must be able to return to Earth within their remaining expected lifetime of 50 years. The maximum distance from Earth reached by the spaceship is $d$. If the acceleration is increased to $g' = 15\ \text{m/s}^2$, the spaceship can reach a greater distance $d'$. What is the ratio $d'/d$?
+Hint 1. You might want to use the relativistic velocity addition formula, although there are other approaches as well.
+Hint 2. It may be necessary to handle hyperbolic functions defined as follows: $\cosh x = \frac{1}{2}(e^x + e^{-x})$, $\sinh x = \frac{1}{2}(e^x - e^{-x})$, $\tanh x = \frac{e^x - e^{-x}}{e^x + e^{-x}}$.
+Hint 3. Depending on your approach, you might need one or more of these integrals: $\int \frac{dx}{1-x^2} = \operatorname{atanh} x + C$, $\int \frac{dx}{\sqrt{1+x^2}} = \operatorname{asinh} x + C$, $\int \sinh x\, dx = \cosh x + C$, where $\operatorname{asinh} x$ and $\operatorname{atanh} x$ are the inverse functions of the respective hyperbolic functions.
 2.0pt
 
-The following is the list of the following: The feeling of sinking (2.0 points)
+Part D. The sensation of sinking (2.0 points)
 
 D.1
-A solid wooden ball of $r_0$ radius floats in the water. Ignoring the Effects
-The frequency of small oscillations would be $\omega_0$, but because of the viscous friction, after being moved vertically, the frequency of the
-The resulting oscillations are actually $0.99\,\omega_0$. What is the minimum radius $r_\text{min}$ of a
-a wooden ball floating in water and subject to slight oscillations when
-is it being moved?
-Suggestion: the viscous resistance force acting on a given body is proportional to its speed with respect to the fluid and viscosity $\eta$ of the fluid itself
-where it's moving. The viscosity unit is $\text{kg/(m}\cdot\text{s)}$.
+A solid wooden ball of radius $r_0$ floats in water. Ignoring the effects of friction, the frequency of small oscillations would be $\omega_0$, but due to viscous friction, after being displaced vertically, the frequency of the damped oscillations is actually $0.99\,\omega_0$. What is the minimum radius $r_\text{min}$ of a wooden sphere that floats in water and undergoes small oscillations when displaced?
+Hint: The viscous resistance force acting on a given body is proportional to its velocity relative to the fluid and to the fluid’s viscosity $\eta$. The unit of viscosity is $\text{kg/(m}\cdot\text{s)}$.
+
 2.0pt
 
 <!--fig:start-->
-**p.1 **  Balanced spaghetti on the core, length l and diameter d
+**p.1** — Spaghetti balanced on the fulcrum, length l and diameter d
 ![[_attachments/exam-theory-Q3-italiano_3/exam-theory-Q3-italiano_3_p1_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Elasticity & Materials]], [[Special Relativity]], [[Oscillations & Waves]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Cylinder (object)|Cylinder]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1NvpqYUB2IS7xRIagm7pRufci1lu0pdc1/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jvO9AqGyzqjTS9_rYg5eJKpajN4UzDpq/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jvO9AqGyzqjTS9_rYg5eJKpajN4UzDpq/view)

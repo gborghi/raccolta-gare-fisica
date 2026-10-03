@@ -33,16 +33,9 @@ Sekunden anzeigen.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Secondo annuncio**
+**Visualizzazione in secondi**
 
-1. Questo Oszilloskop può den Verlauf der Spannung für ein Zeitfenster von 10 Nanosekunden bis 100
-- Un secondo.
-
-**Topic:** [[Oscillations & Waves]], [[Circuits]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.35](https://drive.google.com/file/d/1BmRnkYeejAopKLgifRAcXcvcqc66rJ8J/view)
+1. Questo oscilloscopio può mostrare l'andamento della tensione per un intervallo temporale da 10 nanosecondi a 100 secondi.
 
 
 
@@ -107,20 +100,8 @@ jeder Kanal entweder mit einer internen Terminierung $50\ \Omega$ oder mit hoher
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. In primo luogo, il BNC-Kabel mit den Kanälen, il Du anzeigen möchtest (CH1 und/oder CH2).
-Ativere i rispettivi canali, indem du auf die Schaltfläche F oder G in Abbildung Ax1.2
-- Non lo so. Se le linee appariranno, le singole linee di navigazione corrisponderanno alle linee di navigazione (giallo per il CH1 e blu per il CH1 e blu per il CH1 e blu per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 e per il CH1 per il CH1 e per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1 per il CH1
-CH2). Il programma di ricerca e di ricerca (CEDEFOP) è stato sviluppato nel corso del
-Infatti, la struttura di un'ingresso di due metri è stata costruita in modo che la struttura di un'ingresso di due metri fosse più grande. Quando si muore
-Non è possibile fare clic nuovamente su Schaltflächen F und/oder G. Beachte, dass
-jeder Kanal entweder mit einer internen Terminierung $50\ \Omega$ oder mit hoher Impedanz
-($1\ \text{M}\Omega$) utilizzati. - E' stato Du Benötigen.
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.35](https://drive.google.com/file/d/1BmRnkYeejAopKLgifRAcXcvcqc66rJ8J/view)
+3. Collega inizialmente i cavi BNC ai canali che desideri visualizzare (CH1 e/o CH2).
+Attiva i relativi canali facendo clic sul pulsante F o G nella Figura Ax1.2. Dovrebbero comparire delle linee corrispondenti ai singoli canali (gialla per CH1 e blu per CH2). Se ciò non avviene, scollega il cavo e verifica se ora le linee compaiono (poiché può capitare che la tensione collegata sia al di fuori dell'intervallo visibile sullo schermo). Se le linee non compaiono, fai nuovamente clic sui pulsanti F e/o G corrispondenti. Nota che ogni canale può essere utilizzato con una terminazione interna $50\ \Omega$ oppure con un'impedenza elevata ($1\ \text{M}\Omega$). Scegli attentamente in base alle tue esigenze.
 
 
 
@@ -177,20 +158,7 @@ DC = Gleichstrom, auch Offset eingeschlossen).
 
 <div class="qlang-split" data-lang="it"></div>
 
-5. Il ricco trigger deve essere inserito. Il Trigger identifica un determinato Merkmal in
-Spannungskurve und beginnt mit der Darstellung, sobald dieses Merkmal auftritt (esattamente anche)
-già qualcosa di precedente). In questo caso, il processo di produzione di prodotti di base di cui all'articolo 1, paragrafo 1, del regolamento (CEE) n.
-Infine, la nunna sul lato destro delle finestre dovrebbe apparire. Per quanto riguarda il tipo di
-L'ingresso è stato fatto. - La Commissione ha deciso di non intervenire. Stelle die Steigung ein/ändere sie,
-d. h. Il Trigger è attivato nel caso in cui la spinta si intensifichi o si abbatta. "Stai, allora, che c'è"
-Modus Auto ist, und wähle die Kopplung (AC = Wechselstrom, ogni compensazione viene abgeschnitten, oppure
-DC = Gleichstrom, auch Offset eingeschlossen).
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.35](https://drive.google.com/file/d/1BmRnkYeejAopKLgifRAcXcvcqc66rJ8J/view)
+5. Il trigger corretto deve essere impostato. Il trigger identifica un particolare carattere nella curva della tensione e inizia la visualizzazione non appena tale carattere si verifica (in realtà già leggermente prima). Per impostarlo, premi il tasto L nella Figura Ax1.2 per aprire il menu del trigger, che dovrebbe ora comparire sul lato destro della finestra. Assicurati che il tipo sia impostato su "edge". Scegli il canale da utilizzare come trigger. Imposta o modifica la pendenza, ossia stabilisci se il trigger deve attivarsi quando la tensione cresce o decresce. Infine, verifica che il modo sia impostato su "Auto" e seleziona la modalità di accoppiamento (AC = corrente alternata, ogni offset viene eliminato, o DC = corrente continua, anche l'offset è incluso).
 
 
 
@@ -268,13 +236,7 @@ La cornice di un canale di navigazione è un'area di navigazione che si sviluppa
 
 <div class="qlang-split" data-lang="it"></div>
 
-1. Der Wert entspricht einer Kachel (d. h. dell'Elemento 9, sotto il profilo), 5: Spannungsskala von Kanal
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.36](https://drive.google.com/file/d/1BmRnkYeejAopKLgifRAcXcvcqc66rJ8J/view)
+1. Il valore corrisponde a una tessera (cioè all'altezza dell'elemento 9, vedere sotto), 5: scala della tensione del canale
 
 
 
@@ -397,115 +359,67 @@ The reflection vanishes if the resistor meets the cab
 
 <div class="qlang-split" data-lang="it"></div>
 
-2. Der Wert entspricht einer Kachel (d. h. der Höhe von Punkt 9, siehe unten), 6: Zeitskala beider Kanäle,
-Il valore di ogni canale è pari al valore di ogni canale (vedere paragrafo 10), 7:
-Trigger utilizza e si scatta durante la caduta Flanke aus, quando il canale 2 muore Triggerpannung unterschreitet
-(vedere anche punto 8). 8: Triggerpegel (qui per il canale 2, vedere punto 7). 9: Höhe einer Kachel, equivalente al
-Spannungsskala von Punkt 4 oder Punkt 5. 10: Breite einer Kachel, corrispondente alla Zeitskala von Punkt 6. Morire
-I punti 11-15 si applicano solo per i servizi di navigazione: 11: Copplung, Welle: ob der DC-Offset abgeschnitten wird
-(normalmente utilizzato con frequenza elevata), gerade Linie über gestrichelter Linie: auch DC-Offset
-In questo caso, la Commissione ha deciso di non limitare la sua partecipazione al progetto di progetto. 12: Inversione della curva,
-Dovrebbe essere fuori. 13: Bandbreitenbegrenzung, gewisse Filterung (Abschaltung bei $20\ \text{MHz}$), normalerweise
-- E' un'altra cosa. 14: tra Spannung und Strm umschalten, wähle Spannung 1x. 15: Art des Zooms, Centro
-Dovrebbe essere meglio.
-Abbildung Ax1.2: Erklärung der Regler und Tasten des Oszilloskops: A: BNC-Eingangskanal 1, B: BNC-
-C: C: C: Eingang für externen Trigger (caso utilizzato/benötigt), D1 und D2: Drehknopf
-per l'espansione dei relativi canali, E1 e E2:
-Corrispondenti canali, F: zum Aktivieren von Kanal 1, G: zum Aktivieren von Kanal 2, H: Ändern der
-Scala orizzontale per entrambi i canali, I: orizzontali Verschieben der beiden Kurven, J: Triggerpegel, siehe
-Anche 7 e 8 in Abbildung Ax1.1, K: Quando l'oscillo non si attiva, può morire per forza. Morire
-In questo caso, la Commissione ha deciso di non intervenire. L: Trigger-Menü, ricambio
-Su la pagina di diritto dei display, M: Auto-Taste, setzt alle parametri su Werte, die das Oszilloskop für
-- Si', tieni. In questo caso, la Commissione ha deciso di non limitare la sua attenzione al problema della sicurezza. ..
-Anexo 2: Generatore di segnali
-Per questo esperimento potrebbe essere utile un segnale periodico. Il generatore di segnali disponibile
-Various Wellenformen in einem grossen Frequenzbereich. Per l'esperimento potrebbe tuttavia essere un altro
-Einstellung sinnvoller sein: un segnale TTL, d. h. Un diritto che mi fa un lato più forte. Questo
-Il segnale è disponibile in TTL-Anschluss, cfr. Bildunterschrift von Abbildung Ax2.1. "Stai sicuro, che tutti"
-Conformemente alle norme, il diritto di lavoro è un diritto di lavoro.
-Abbildung Ax2.1: Erläuterung Generatore di segnali: 1: Taster zum Ein- und Ausschalten. 2: Einstellen des
-Frequenza. 3: Anzeige der Frequenz. 4: Drehknopf zum Einstellen der Grobfrequenz, 5: Drehknopf
-- per il controllo delle frequenze. 6: TTL-Ausgang.
-Appendice 3: Il multimetro
-Per le comunicazioni generali che possono essere utilizzate un multimetro, vedere Abblidung Ax3.1. Uniche generalità
-- Il punto:
-• La rete deve essere inserita nella rete COM. Dies ist der Nullpunkt (üblicherweise das schwarze) è un punto di riferimento per la
-Cable).
-• Il messaggio di spannings ist hochohmig, cioè: E' un flusso che vola attraverso il
-Multimetro.
-• Il potere di trasmissione è inferiore, cioè È possibile un grosso stromo attraverso il multimetro
-Fliessen
-• Generale bei der Messung von Strömen: Il flusso passa attraverso il multimetro, accoglie un sacco di
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le misure di sicurezza siano state adottate in modo da garantire la sicurezza dei consumatori. Infatti, possiamo fare un grosso strome
-Multimetro (o die Spannungsquelle) distruggere! Pertanto darf das Multimeter in questa configurazione
-Non è un caso di un'esame di mercato, ma di un'esame di mercato.
-Abbildung Ax3.1: Erläuterung der verschiedenen Punkte: 1: Aus-Position, 2: COM-Buchse, 3: Buchse für
-Spannung und Widerstand (und andere Größen), 4: Anschluss für kleine Ströme, 5: Buchse für große
-Ströme. 6: Messung kleiner Spannungen (Wechselstrom und Gleichstrom, zum Umschalten 11 verwenden),
-7: Gleichspannungen, 8: Wechselspannungen, 9: Messung des ohmschen Widerstands, 10: Strommessungen
-(verschiedene Bereiche), 11: Umschaltung zwischen Gleich- und Wechselstrom für kleine Spannungen (6) o
-Ströme (10). L'attuale situazione sarà mostrata in 12 angeli. 12: Display
-Soluzione
-Sperimentazione: soluzioni
-Esperimento 3.1: Signalausbreitung a Koaxialkabeln
-Einleitung
-Questo esperimento ha condotto un'indagine sulla Wellenausbreitung a Koaxialkabeln. Questa cabina è di tre anni
-Le lettere, una delle lettere, della normalità del segnale, e una delle lettere,
-- La nostra intera situazione. Questo è un elemento che è in genere legato all'Earth. La nostra attenzione
-b) il codice di sicurezza (BNC-Standard) e il codice di sicurezza (BNC-Standard)
-Il CABEL è stato utilizzato dal CABEL BNC.
-Un sistema di corrente chiuso per consentire, in regola, di avere almeno due livelli di cavo,
-In un'altra occasione, la geometria è stata interamente ordinata. Die Geometrie und die verwendeten Materialien (Materiali di geometria e di materie utilizzate)
-- la definizione delle proprietà dell'Ausbreitung der Signale im Kabel. Se $L'$ e $C'$ si inductivitate
-Kapazität (d.h. Induktivität und Kapazität pro Länge). Il rapporto tra l'amplitudine
-in den Leitungen fliessenden Strome $I_0$ und der Spannung $V_0$
-charakteristische Impedanz $Z_0$ (im Grenzfall hoher Frequenzen) als
+2. Il valore corrisponde a una tessera (cioè all'altezza del punto 9, vedere sotto), 6: scala temporale dei due canali, il valore corrisponde alla larghezza di ogni tessera (vedere 10), 7: impostazioni del trigger, qui viene utilizzato il canale 2 come trigger e si attiva sulla fronte discendente, quando il canale 2 supera la tensione di trigger (vedere anche punto 8). 8: livello del trigger (qui per il canale 2, vedere punto 7). 9: altezza di una tessera, corrisponde alla scala delle tensioni del punto 4 o del punto 5. 10: larghezza di una tessera, corrisponde alla scala temporale del punto 6. I punti 11-15 si applicano solo al menu canale: 11: accoppiamento, "onda": se l'offset DC viene eliminato (normalmente usato a elevate frequenze), linea continua sopra linea tratteggiata: includere anche l'offset DC, simbolo di massa: cortocircuito, nulla può essere misurato. 12: inversione della curva, dovrebbe essere spenta. 13: limitazione della banda passante, alcune filtrature (disattivazione in $20\ \text{MHz}$), normalmente spenta. 14: commutare tra tensione e corrente, scegliere tensione 1x. 15: tipo di zoom, "centro" dovrebbe essere preferibile.
+
+Figura Ax1.2: Spiegazione dei comandi e dei pulsanti dell'oscilloscopio: A: ingresso BNC canale 1, B: ingresso BNC
+Canale di ingresso 2, C: ingresso per trigger esterno (se utilizzato/ necessario), D1 e D2: rotella per modificare la scala della tensione verticale del rispettivo canale, E1 e E2: offset verticale del rispettivo canale, F: per attivare il canale 1, G: per attivare il canale 2, H: modifica della scala orizzontale per entrambi i canali, I: spostamento orizzontale delle due curve, J: livello di trigger, vedere anche 7 e 8 nella Figura Ax1.1, K: se l'oscilloscopio non si triggera, è possibile forzare il trigger. Ciò può fornire informazioni sulla curva e aiutare nella regolazione del trigger. L: menu di trigger, appare sulla destra dello schermo, M: tasto Auto, imposta tutti i parametri sui valori che l'oscilloscopio ritiene adatti. A volte una buona prima stima, a volte completamente errata.
+
+Allegato 2: Generatore di segnali
+Per questo esperimento potrebbe essere utile un segnale periodico. Il generatore di segnali disponibile permette diverse forme d'onda in un ampio intervallo di frequenze. Tuttavia, per l'esperimento potrebbe essere più opportuno un’altra impostazione: un segnale TTL, ossia una onda quadra con fronte particolarmente ripido. Questo segnale è disponibile sul connettore TTL, vedere didascalia della Figura Ax2.1. Assicurarsi che tutti i pulsanti siano premuti, in particolare DUTY (come impostato di default).
+
+Figura Ax2.1: Spiegazione generatore di segnali: 1: pulsante per accensione e spegnimento. 2: regolazione del...
+Fascia di frequenza. 3: Visualizzazione della frequenza. 4: Pulsante rotativo per regolare la frequenza grossolana, 5: Pulsante rotativo per il raffinamento fine della frequenza. 6: Uscita TTL.
+
+Allegato 3: Il multimetro
+Per misurazioni generali può essere utilizzato un multimetro, vedi Figura Ax3.1. Alcuni punti generali:
+• Un cavo deve sempre essere inserito nella presa COM. Questo rappresenta il punto di riferimento zero (di solito il cavo nero).
+• L'ingresso per la misurazione della tensione ha alta resistenza, cioè attraverso il multimetro circola praticamente nessuna corrente.
+• L'ingresso per la misurazione della corrente ha bassa resistenza, cioè può circolare una grande corrente attraverso il multimetro.
+• In generale, durante la misurazione delle correnti: la corrente passa attraverso il multimetro, che ha una resistenza molto più bassa rispetto alla misurazione della tensione. Di conseguenza, possono circolare correnti elevate e danneggiare il multimetro (o la fonte di tensione)! Pertanto, in questa configurazione il multimetro NON DEVE MAI essere collegato in parallelo alla fonte di tensione, ma soltanto in serie con un carico.
+
+Figura Ax3.1: Spiegazione dei vari punti: 1: Posizione spento, 2: Presa COM, 3: Presa per tensione e resistenza (e altre grandezze), 4: Collegamento per correnti piccole, 5: Presa per correnti elevate. 6: Misurazione di piccole tensioni (corrente alternata e corrente continua, per commutare usare 11).
+7: Tensioni continue, 8: Tensioni alternate, 9: Misura della resistenza ohmica, 10: Misurazioni di corrente (diversi campi), 11: Commutazione tra corrente continua e alternata per piccole tensioni (6) o piccole correnti (10). La configurazione attuale viene visualizzata sul display 12. 12: Display
+
+SOLUZIONE
+Esperimenti: Soluzioni
+Esperimento 3.1: Propagazione del segnale nei cavi coassiali
+
+Introduzione
+Questo esperimento studia la propagazione delle onde nei cavi coassiali. Questi cavi sono costituiti da due conduttori, un conduttore interno che normalmente trasmette il segnale e un conduttore esterno cilindrico che avvolge quello interno. Il conduttore esterno è di solito collegato a massa. Consideriamo lo standard BNC comunemente usato (una particolare realizzazione di cavi coassiali) e indicheremo il cavo utilizzato in seguito come cavo BNC.
+
+Per consentire un circuito chiuso, i cavi hanno di solito almeno due conduttori disposti in una geometria fissa rispetto all'altro. La geometria e i materiali impiegati determinano le proprietà di propagazione dei segnali nel cavo. Siano $L'$ e $C'$ l'induttanza e la capacità (cioè, induttanza e capacità per unità di lunghezza). Il rapporto tra l'ampiezza della corrente $I_0$ che scorre nei conduttori e la tensione $V_0$ tra i due conduttori è dato dall'impedenza caratteristica $Z_0$ (nel limite di alte frequenze) come
 
 $$\frac{V_0}{I_0} = Z_0 = \sqrt{\frac{L'}{C'}}$$
 
-E' un'unica proprietà dei cavi.
-Quando due cavi con impedenza diversa sono stati collegati tra loro (o un'ohmscher)
-L'esistenza di un'organizzazione di lavoro e di un'organizzazione di lavoro
-In questo caso, la Commissione ha deciso di non intervenire. Altrimenti si deve riflettere su un'altra
-Sulla base di tale relazione, il Parlamento europeo ha adottato una decisione che prevede che il Consiglio possa adottare misure di sicurezza per la sicurezza dei trasporti.
-Impedanzen è dato. Darüber hinaus ist die Geschwindigkeit $v_p$, mit der sich eine Welle ausbreitet
-(Fase velocità), attraverso
+dato e rappresenta una proprietà del cavo stesso.
+Se due cavi con diversa impedenza vengono collegati tra loro (o viene aggiunto un resistore ohmico all'estremità del cavo), l'onda può essere completamente trasmessa solo se le impedenze dei due cavi sono uguali. In caso contrario, si verifica una riflessione all'interfaccia, in modo che il rapporto tra corrente e tensione nei due cavi sia determinato dalle rispettive impedenze. Inoltre, la velocità $v_p$ con cui si propaga un'onda (velocità di fase) è data da
 
 $$v_p = \frac{1}{\sqrt{L'C'}}$$
 
-Infatti, la Commissione ha adottato una proposta di direttiva che prevede che le norme di cui all'articolo 1 del regolamento (CEE) n.
-Rispetto a questa velocità con la velocità di un segnale (Gruppengeschwindigkeit)
-- Sì, ma...
-Per la realizzazione degli esperimenti sono disponibili i seguenti materiali:
-Materiale
-• Generatore di segnali, dettagli nell'allegato. Verwende für dieses Experiments nur den mittleren (Sviluppo di questo esperimento nel corso della mia vita)
-Anschluss mit der Bezeichnung output TTL und ziehe die Knöpfe nicht heraus. Il progetto di bilancio è stato approvato dal Consiglio europeo di sicurezza. Il Consiglio
-D'un diritto di segnale, che potrebbe essere utilizzato.
-• Ein Oszilloskop, dettagli nell'allegato. Beachte, dass jeder Kanal entweder mit einer $50\ \Omega$
-Il termine "interne terminierung oder mit hoher impedanz" ($1\ \text{M}\Omega$) può essere utilizzato. Valerie
-- E' stato il tuo bene.
-• Un multimetro, dettagli nell'allegato.
-• BNC-Kabel mit einer Länge von $1\ \text{m}$, $2\ \text{m}$, $3\ \text{m}$ (2x).
-• Ein Kabel mit Klemmen an seinem Ende.
-• 2 parti per un collegamento tra un cavo BNC e un altro.
-• Ein T-Stück, das an das Oszilloskop angeschlossen werden kann, und zwei Kabel können verbunden (Un pezzo di un oscillo che può essere reso possibile, e due cavi che possono essere collegati)
-- Non lo so.
-• Ein Satz verschiedener Widerstände.
-Tasche
-Parte A. Impedanzmessung
-Hier möchten wir die Wellenimpedanz $Z_0$ in unseren BNC-Kabeln schätzen.
-i. Entwickle einen Versuchsaufbau, um die Impedanz $Z_0$ des Kabels zu bestimmen. Documentiere Deinen Aufbau mit einer Zeichnung und beschreiben die Vorgehensweise. Cascate Du
-Difficoltà avete, un esperimento di auszudenken, puoi ottenere un'indicazione,
-La Commissione ha adottato una decisione che non prevede alcuna modifica.
-Idea: lasciare che il segnale si diffonda attraverso il cavo e cambiare l'impedenza uscente con le resistenze fissate alla fine.
-(indicare se implicitamente chiara)
-Il riflesso scompare se la resistenza incontra la cabina.
+e indipendente dalla frequenza (nel quadro del semplice modello utilizzato qui).
+Di conseguenza, questa velocità coincide con la velocità di un segnale (velocità di gruppo).
 
-**Topic:** [[Oscillations & Waves]], [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.36](https://drive.google.com/file/d/1BmRnkYeejAopKLgifRAcXcvcqc66rJ8J/view)
+Per eseguire gli esperimenti ti sono forniti i seguenti materiali:
+Materiali
+• Un generatore di segnali, dettagli vedere allegato. Per questo esperimento utilizza soltanto il morsetto centrale contrassegnato "output TTL" e non estrarre i pulsanti. In questo modo otterrai un segnale rettangolare, che potrebbe risultare utile.
+• Un oscilloscopio, dettagli vedere allegato. Nota che ogni canale può essere utilizzato con una terminazione interna $50\ \Omega$ o con impedenza elevata ($1\ \text{M}\Omega$). Scegli attentamente ciò che ti serve.
+• Un multimetro, dettagli vedere allegato.
+• Cavi BNC di lunghezza $1\ \text{m}$, $2\ \text{m}$, $3\ \text{m}$ (2x).
+• Un cavo con morsetti all'estremità.
+• 2 pezzi per collegare un cavo BNC a un altro.
+• Un tubo T che può essere collegato all’oscilloscopio, al quale possono essere collegati due cavi.
+• Un insieme di diverse resistenze.
+
+Compiti
+Parte A. Misura dell’impedenza
+In questa parte vogliamo stimare l'impedenza d’onda $Z_0$ nei nostri cavi BNC.
+
+i. Proponi un montaggio sperimentale per determinare l’impedenza $Z_0$ del cavo. Documenta il tuo montaggio con un disegno e descrivi la procedura da seguire. Se hai difficoltà a ideare un esperimento, puoi richiedere un suggerimento, ma perderai i punti per questo compito.
+
+Idea: far propagare il segnale nel cavo e modificare l’impedenza di uscita collegando resistenze in estremità.
+(puoi ottenere punti anche se è implicito)
+
+La riflessione scompare se la resistenza corrisponde all’impedenza del cavo
 
 
 

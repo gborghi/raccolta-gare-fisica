@@ -355,73 +355,51 @@ The oxygen molecule has a molar mass of 0.032 kg.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Q2
-a)
-Scrivi un'equazione energetica che esprima la prima legge della termodinamica.
-Defini tutti i termini dell'equazione.
+Q2 a)
+Scrivere un'equazione energetica che esprima il primo principio della termodinamica.
+Definire tutti i termini dell'equazione.
 
 [5]
 
 b)
-L'acqua in una caldaia elettrica viene portata a bollire in 180 secondi aumentando la sua temperatura da
- 20o C to 100o C. Successivamente ci vogliono altri 1200 secondi per far bollire il caldaio a secco. Calcolare il specifico
-calore latente di vaporizzazione dell'acqua, L, a 100oC. La capacità termica specifica dell'acqua
-is 4200 J kg-1K-1.
+L’acqua in un bollitore elettrico viene portata a ebollizione in 180 s, riscaldandosi da 20 °C a 100 °C. Ci vogliono ulteriori 1200 s perché il bollitore si asciughi completamente. Calcolare il calore latente specifico di vaporizzazione dell’acqua, L, a 100 °C. La capacità termica specifica dell’acqua è 4200 J kg⁻¹K⁻¹.
 
-Indicare le ipotesi fatte.
+Indicare ogni ipotesi fatta.
 
 [4]
 
 c)
-Un cilindro, con pistone senza peso, ha un diametro interno di 0,24 m. Il cilindro
-contiene acqua e vapore a 100°C. Si trova in un bagno a temperatura costante a
-100o C, figura 2.1. La pressione atmosferica è di 1,01 $\times$ 105 Pa. Il vapore nel cilindro
-ha una lunghezza di 0,20 m e una massa di 0,37 g.
-0.2m
+Un cilindro, con un pistone privo di massa, ha un diametro interno di 0.24 m. Il cilindro contiene acqua e vapore acqueo a 100 °C. È immerso in un bagno termostatico a 100 °C, come mostrato in Figura 2.1. La pressione atmosferica è di 1.01 $\times$ 10⁵ Pa. Il vapore nel cilindro occupa una lunghezza di 0.20 m ed ha una massa di 0.37 g.
+
+0,2 m
 Pressione atmosferica
-- L'acqua.
-Temperatura costante
-bagno a 1000C
+Acqua
+Bagno termostatico a 100 °C
 
 Figura 2.1
-
 Figura 2.1
 
 (i)
-Qual è la pressione P del vapore del cilindro?
+Qual è la pressione P del vapore nel cilindro?
 (ii)
-Se il pistone si muove molto lentamente verso il basso a una distanza di 0,10 m, quanto lavoro, W,
-La Commissione ha deciso di limitare il volume del sistema.
+Se il pistone si muove lentamente verso il basso di una distanza pari a 0.10 m, quanto lavoro W viene compiuto per ridurre il volume del sistema?
 (iii)
-Qual è la temperatura finale, Tf, nel cilindro?
+Qual è la temperatura finale Tf nel cilindro?
 (iv)
 Determinare il calore Qc prodotto nel cilindro.
 
 [6]
 
 d)
-Una molecola di ossigeno vicino alla superficie della Terra ha una velocità verticalmente verso l'alto
-pari in magnitudo al valore medio quadrato (rms) della radice. Se non si riunisce
-un'altra molecola, calcolare:
+Una molecola di ossigeno vicino alla superficie della Terra ha una velocità diretta verticalmente verso l’alto, con modulo pari al valore quadratico medio (rms). Se non incontra un'altra molecola, calcolare:
 
-(i)
-l'altezza raggiunta da H se la temperatura superficiale è di 283 K
-(ii)
-la temperatura superficiale Ts necessaria per la molecola per fuggire dalle Terres
-campo gravitazionale se l'energia potenziale per unità di massa della superficie terrestre è
-- GME/RE.
+(i) l'altezza H raggiunta se la temperatura superficiale è 283 K
+(ii) la temperatura superficiale Ts necessaria affinché la molecola possa sfuggire al campo gravitazionale della Terra, se l'energia potenziale per unità di massa alla superficie terrestre è (-GME/RE).
 
 La molecola di ossigeno ha una massa molare di 0,032 kg.
 
- [5]
-
+[5]
 4
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]], [[Gravitation]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1avei0SwIRo91-r96w93LiLkNOLdcUTGp/view)
 
 
 

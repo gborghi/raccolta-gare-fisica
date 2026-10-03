@@ -211,29 +211,27 @@ Il circuito con τ= 1.00 $\times 10-6$ s rappresenta un neuristor?
 <div class="qlang-split" data-lang="en"></div>
 
 Theory
-Italian (Italy)
+Italiano (Italy)
+
 Q2-1
-Non-linear dynamics in electrical circuits (10 points)
-Please read the general instructions in the separate envelope before you start working on
-I'm not going to let you know.
-The Commission
-Other, of a kind used for the manufacture of electrical equipment Thyristor (s) are widely used in electronics as switches and generators of electromagnetic oscillations. The main scope
-The thyristor is in the control of alternating currents in power electronic circuits, for example for the
-conversion of alternating current (AC) to direct current (DC) with power of the order of megawatt.
-The two-dimensional elements can also be used to model self-organizing phenomena in physics (the
-The problem is that part B of the problem relates to this topic, in biology (see. (c) and in other fields of
-modern nonlinear science.
+Nonlinear Dynamics in Electrical Circuits (10 points)
+
+Please read the general instructions provided in the separate envelope before beginning work on this problem.
+
+Introduction
+Bistable nonlinear semiconductor elements (e.g., thyristors) are widely used in electronics as switches and sources of electromagnetic oscillations. The primary application field for thyristors is the control of alternating currents in power electronic circuits, for example, for converting alternating current (AC) into direct current (DC) at power levels on the order of megawatts.
+
+Bistable elements can also be used to model self-organization phenomena in physics (part B of the problem refers to this topic), biology (see part C), and other areas of modern nonlinear science.
+
 Objectives
-Studying the instability and non-trivial dynamics of circuits containing curved elements
-caratteristica $I-Vnon$ lineare.
-Discover possible applications of such circuits in engineering and biological system modelling.
-Part A. Stabilisation and instability (3 points)
-Figure 1 shows the characteristic curve $I-V$, called S, of a non-linear element X. In the interval
-di d.d.p. between Uh = 4.00 V (maintenance voltage - holding voltage) and Uth = 10.0 V (threshold voltage)
-- threshold voltage) this curve characteristic $I-Vè$ a multi-valued function. For simplicity the graph
-Figure 1 has been chosen as a non-linear curve a tracts (each branch consists of a segment of
-I'm going to be a little bit more careful. In particular, the uppermost branch belongs to a straight line passing through the origin.
-This approximation gives a good description of a real thyristor.
+Investigate instabilities and nontrivial dynamics in circuits containing elements with a characteristic curve $I-Vnon$ that is linear.
+Discover possible applications of such circuits in engineering and in modeling biological systems.
+
+Part A. Stationary States and Instabilities (3 points)
+Figure 1 shows the characteristic curve $I-V$, known as an S-shaped curve, of a nonlinear element X. In the voltage range between Uh = 4.00 V (holding voltage) and Uth = 10.0 V (threshold voltage),
+- threshold voltage) this characteristic curve $I-Vè$ is a multi-valued function. For simplicity, the graph in Figure 1 has been chosen as a piecewise nonlinear "curve" (each branch consists of a straight-line segment). In particular, the uppermost branch belongs to a line passing through the origin.
+
+This approximation provides a good description of a real thyristor.
 
 Theory
 Italian (Italy)
@@ -262,91 +260,86 @@ U [V]
 9
 10
 Uh
-Other
+Uth
 I [A]
-Figure 1: Characteristic curve $I-Vdell’elemento$ non-linear X.
+Figure 1: Nonlinear characteristic curve $I-Vdell’elemento$ X.
+
 A.1
-Using the graph, it determines the resistance of the Ron of the X element in the upper branch of the characteristic curve $I-V$, and Roff in the lower branch, respectively.
+Using the graph, determine the resistance Ron of element X in the upper branch of the characteristic curve $I-V$, and Roff in the lower branch, respectively.
 The intermediate branch is described by the equation
-I= I0 $-U$
-Other
+I = I0 $-U$
+Rint
 .
 (1)
-Find the value of the parameters I0 and Rint.
-0.4pt
-The X element is connected in series (see. Figure 2 shows that with the resistor R, the inductor Le is an ideal generator for
-d.d.p. E. It is said that the circuit is in a stationary state if the current is constant over time, I(t) = const.
+Find the values of the parameters I0 and Rint.
+0.4 pt
+
+Element X is connected in series (see Figure 2) with resistor R, inductor L, and an ideal voltage source E. The circuit is said to be in a steady state if the current is constant over time, I(t) = const.
+
 E
 R
 L
-Figure 2: Circuit with X element, a resistor R, an inductor Le and a power generator E.
+Figure 2: Circuit with element X, resistor R, inductor L, and voltage source E.
+
 A.2
-What are the possible numbers of stationary states that the circuit in Figure 2 can
-have for a given value Edella d.d.p. of the generator and for R= 3.00 $\Omega$?
-How does the answer change for R=1.00 $\Omega$?
-1pt
+What are the possible numbers of steady states that the circuit in Figure 2 can have for a given value E of the voltage source and R = 3.00 $\Omega$?
+How does the answer change for R = 1.00 $\Omega$?
+1 pt
 
 Theory
 Italian (Italy)
 Q2-3
 A.3
-Sia R= 3.00 $\Omega$, L= 1.00 μH ed E= 15.0 V nel circuito mostrato in figura 2. Determine the value of the current stationary and the d.d.p. Vstationary to the heads of the element
-nonlinear X, in the stationary state.
+Let R = 3.00 $\Omega$, L = 1.00 μH, and E = 15.0 V in the circuit shown in Figure 2. Determine the value of the stationary current Istationary and the stationary voltage Vstationary across the nonlinear element X, in the steady state.
+
 0.6pt
-The circuit in Figure 2 is in a stationary state with I(t) = Istationary.
-This stationary state is said to be stable if, following a small shift (the current increases or
-The current returns to the stationary state value. If the system tends to drift away
-Further down the steady state, it is said that this is unstable.
+The circuit of Figure 2 is in a steady state with I(t) = Istationary.
+This steady state is said to be stable if, following a small perturbation (the current increases or decreases), the current returns to the value of the steady state. If instead the system tends to move further away from the steady state, it is said to be unstable.
+
 A.4
-Use the numerical values of the A.3 question and study the stability of the state
-The following is the list of the following: Is it stable or unstable?
+Use the numerical values from question A.3 and analyze the stability of the steady state with I(t) = Istationary. Is it stable or unstable?
+
 1pt
-Part B. Non-linear biastable elements in physics: radio transmitter (5 points)
-Consider now a different circuit configuration (v. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. This time the nonlinear element X is connected in parallel to a capacitor C=1.00 μF. This block is connected
-in series with resistor R= 3,00 $\Omega$ and an ideal d.d.p. generator. The value of the product shall be the same as the value of the product.
-It turns out that the circuit starts to oscillate with the nonlinear element X that jumps from a branch of the curve
-The characteristic $I-Vad$ is another, over a cycle.
+Part B. Nonlinear bistable elements in physics: radio transmitter (5 points)
+Now consider a different circuit configuration (see Figure 3). This time, the nonlinear element X is connected in parallel with a capacitor of capacitance C = 1.00 μF. This block is connected in series with a resistor of resistance R = 3.00 $\Omega$ and an ideal constant-voltage source E = 15.0 V.
+
+It turns out that the circuit begins to oscillate, with the nonlinear element X switching back and forth between different branches of the characteristic curve $I-Vad$ during each cycle.
+
 C
 E
 R
-Figure 3: Circuit with element X, capacitor C, resistor Re and power generator E.
+Figure 3: Circuit with the element X, capacitor C, resistor R, and voltage source E.
+
 B.1
-Trace the oscillation cycle on the graph of the characteristic curve $I-V$, specifying its direction (time or counter-time). Justify your answer with equations
-and sketches.
+Draw the oscillation cycle on the characteristic curve diagram $I-V$, specifying its direction (clockwise or counterclockwise). Justify your answer using equations and sketches.
 1.8pt
+
 B.2
-Find the expressions of the times t1 and t2 during which the system is located in each
-The time of one oscillation of the two branches of the characteristic curve $I-Vdurante$.
-Determine their numerical values. Find the numerical value of the oscillation period Assuming that the time required to jump from one branch to another
-della curva $I-Vsiano$ trascurabili.
+Find the expressions for the times t₁ and t₂ during which the system resides on each of the two branches of the characteristic curve $I-Vdurante$, and determine the period of one oscillation.
+Determine their numerical values. Find the numerical value of the oscillation period T, assuming that the times required to jump from one branch to another on the curve $I-Vsiano$ are negligible.
 1.9pt
+
 B.3
-Estimate the average power lost in the nonlinear element during the
-The result is a slight oscillation. It is sufficient to give the order of magnitude.
+Estimate the average power Pdissipated in the nonlinear element over one oscillation cycle. It is sufficient to provide only the order of magnitude.
 0.7pt
 
 Theory
-Italian (Italy)
+Italiano (Italy)
 Q2-4
-The circuit in Figure 3 is used to build a radio transmitter.
-For this purpose, the Xviene element connected to an end of a linear antenna (a long straight wire) of s length. The other end of the wire is free. An electromagnetic wave is formed in the antenna. La
-The speed of the electromagnetic wave along the antenna is the same as that of the vacuum. The transmitter uses the harmonic
-The main system that has the period T is application B.2.
+The circuit shown in Figure 3 is used to build a radio transmitter.
+For this purpose, element X is connected to one end of a linear antenna (a long straight wire) of length s. The other end of the wire is free. An electromagnetic wave forms along the antenna. The speed of the electromagnetic wave along the antenna equals that in vacuum. The transmitter uses the fundamental harmonic of the system, whose period is T from question B.2.
+
 B.4
-What is the optimal value of assessing that it cannot exceed the
-a mile in length?
+What is the optimal value of s, assuming it cannot exceed 1 km?
 0.6pt
-Part C. Nonlinear biotable elements in biology: the neuristor (2 points)
-In this part of the problem we consider the application of nonlinear bistable elements to model biological processes. A neuron in the human brain has this property: When excited by an external signal, it makes a single oscillation and returns to its original state. This is called excitement. Because of this property, pulses can propagate through the network.
-of paired neurons that form the nervous system. A semiconductor chip designed to simulate
-The excitation and propagation of a pulse is called a neuristor (from neuron and transistor).
-We're trying to model a simple neuristor using a circuit that includes the nonlinear element
-We've studied this before. That's why the D.D.P. The circuit in Figure 3 is decreased
-The value of the test chemical is $E'$ = 12,0 V. The oscillations stop and the system reaches a stationary state. In
-Following the D.D.P. is suddenly returned to E= 15.0 V, and after a time interval τ
-(with τ< T) is set again to $E'$ (v. The Commission shall adopt implementing acts in accordance with Article 4 (1) of this Regulation.
-It is seen that there is a certain critical value τcrit., and that the system shows a different behaviour in
-The second is whether it is τ< τcrit or τ> τcrit.
+
+Part C. Bistable nonlinear elements in biology: the neuristor (2 points)
+In this part of the problem we consider an application of nonlinear bistable elements to model biological processes. A neuron in the human brain exhibits this property: when excited by an external signal, it performs a single oscillation and returns to its initial state. This characteristic is called excitability. Due to this property, nerve impulses can propagate through networks of coupled neurons forming nervous systems. A semiconductor chip designed to simulate excitability and impulse propagation is called a neuristor (from neuron and transistor).
+
+We aim to model a simple neuristor using a circuit that includes the nonlinear element X we studied previously. For this, the electromotive force E in the circuit of Figure 3 is reduced to the value $E'$ = 12.0 V. Oscillations cease and the system reaches a steady state. Subsequently, the electromotive force is suddenly restored to E = 15.0 V, and after a time interval τ (with τ < T) it is again set to the value $E'$ (see Figure 4).
+
+It can be observed that there exists a certain critical value τcrit, and the system exhibits different behavior depending on whether τ < τcrit oppure τ> τcrit.
+
 t
 11
 12
@@ -354,48 +347,42 @@ t
 14
 15
 16
-E
-t0
-t0 + $\tau$
-Figure 4: D.d.p. The time of the day depends on the time of day.
+E t0 t0 + $\tau$
+Figure 4: Voltage across the generator as a function of time.
+
 C.1
-Draw a diagram of the current IX(t) that passes through the nonlinear element X in the case τ< τcrit and τ> τcrit.
+Sketch the graph of the current IX(t) passing through the nonlinear element X in the case τ < τcrit e nel caso τ> τcrit.
 1.2pt
 
 Theory
 Italian (Italy)
 Q2-5
 C.2
-Find the expression and numerical value of the critical time for which the
-The behavior changes.
+Find the expression and numerical value of the critical time τcrit at which the behavior changes.
 0.6pt
+
 C.3
-The circuit with τ=1.00 $\times 10-6$ s is a neuristor?
+Does the circuit with τ = 1.00 $\times 10-6$ s represent a neuristor?
 0.2pt
 
 <!--fig:start-->
-**p.2** — Curva caratteristica I-V elemento non-lineare X
+**p.2** — I-V characteristic curve of nonlinear element X
 ![[_attachments/vvisoV-IPhO16 - Theory Q2 - Italiano/vvisoV-IPhO16 - Theory Q2 - Italiano_p2_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Circuito con elemento X, R, L, generatore
+**p.2** — Circuit with element X, R, L, and voltage source
 ![[_attachments/vvisoV-IPhO16 - Theory Q2 - Italiano/vvisoV-IPhO16 - Theory Q2 - Italiano_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Circuito con elemento X, condensatore C, resistore R
+**p.3** — Circuit with element X, capacitor C, and resistor R
 ![[_attachments/vvisoV-IPhO16 - Theory Q2 - Italiano/vvisoV-IPhO16 - Theory Q2 - Italiano_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — Andamento temporale della tensione del generatore
+**p.4** — Time evolution of the voltage source
 ![[_attachments/vvisoV-IPhO16 - Theory Q2 - Italiano/vvisoV-IPhO16 - Theory Q2 - Italiano_p4_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Oscillations & Waves]], [[Electromagnetic Induction]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1XCxjzAVI_81_d63t8ky1e5lYhsGOsJqD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)

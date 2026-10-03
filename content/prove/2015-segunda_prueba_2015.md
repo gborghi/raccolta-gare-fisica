@@ -120,17 +120,17 @@ e) Estimare l'incertezza di $n$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The experimental problem. Snell's Law.
+**Experimental Problem. Snell's Law.**
 
-When a flat wave propagating through one material medium hits the flat surface of another medium, the experience indicates that a wave is transmitted to the second medium and another wave returns to the first. These waves are named refractate and reflected, respectively. Experimentally, the reflected wave is found to propagate in a direction symmetrical to that of incidence relative to the normal (see Fig. 1). The direction of propagation of the refracted wave meets the well-known Snell's Law:
+When a plane wave propagating through a material medium strikes the flat surface of another different medium, experimental observation shows that a transmitted wave appears in the second medium and a reflected wave returns toward the first. These waves are called refracted and reflected, respectively. Experimentally it is found that the reflected wave propagates in a direction symmetric to that of incidence with respect to the normal (see Figure 1). The propagation direction of the refracted wave obeys the well-known Snell's Law:
 
 $$n_1 \sin\theta_i = n_2 \sin\theta_r \quad (1)$$
 
-In this expression, $\theta_i$ and $\theta_r$ are the angle of incidence and refraction respectively, and the additive constants $n_1$ and $n_2$ are the refraction indices of the two means. The refractive index $n$ is an intrinsic property of each material and characterizes the speed at which light propagates through that material. Specifically, $n = c/v$, where $v$ and $c$ are the speeds of light in that material and in the vacuum, respectively.
+In this expression, $\theta_i$ and $\theta_r$ are the angles of incidence and refraction, respectively, and the dimensionless constants $n_1$ and $n_2$ are the refractive indices of the two media. The refractive index $n$ is an intrinsic property of each material and characterizes the speed at which light propagates in that material. Specifically, $n = c/v$, where $v$ and $c$ are the speeds of light in that material and in vacuum, respectively.
 
-The assembly outlined in Fig. 1 may be used to experimentally determine the refractive index of a transparent material. 2: a narrow beam of laser light hits the centre of the flat face of a semicircular of that material, which is supported on the centre of a rotating, graduated circular platform (goniometer; angle measuring instrument). Observing the laser beam trace before and after refraction on the flat face can measure the angle of incidence and refraction. In the Fig. 3 shows a photograph of a real assembly of this type, with which the angles of Table I have been measured.
+To experimentally determine the refractive index of a transparent material, the setup illustrated in Fig. 2 may be used: a narrow laser beam strikes the center of the flat face of a semicylindrical piece made from that material, which is placed on the center of a circular, rotatable and graduated platform (goniometer; an instrument for measuring angles). By observing the laser beam trace before and after refraction at the flat face, the incident and refracted angles can be measured. Figure 3 shows a photograph of an actual setup of this type, from which the angles in Table I were measured.
 
-The following table shows the following information:
+**Table I**
 
 | $\theta_i$ (°) | $\theta_r$ (°) |
 |:-:|:-:|
@@ -143,27 +143,21 @@ The following table shows the following information:
 | 70 | 38 |
 | 80 | 41 |
 
-(a) Explain why a semicylinder is used, and not a piece with another geometry.
+a) Explain why a semicylinder is used, and not a piece with another geometry.
 
-(b) Graphically represents on millimeter paper the eight values pairs $(x, y) = (\sin\theta_i,\, \sin\theta_r)$.
+b) Plot graphically on millimeter paper the eight pairs of values $(x, y) = (\sin\theta_i,\, \sin\theta_r)$.
 
-(c) Adjust a straight line to these experimental points.
+c) Fit a straight line to these experimental points.
 
-(d) From this adjustment, determine the refractive index of the part, $n$. It considers that the refractive index of air is practically the same as that of vacuum.
+d) From this fit, determine the refractive index of the piece, $n$. Assume that the refractive index of air is practically equal to that of vacuum.
 
-(e) Estimate the uncertainty of $n$.
+e) Estimate the uncertainty in $n$.
 
 <!--fig:start-->
 ![[_attachments/2015 segunda_prueba_2015/2015 segunda_prueba_2015_p2_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 1: reflection and refraction diagram*
+*Fig. 1: reflection and refraction diagram*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2015 segunda_prueba_2015/2015 segunda_prueba_2015_p2_f2.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the results of the test:
+*Fig. 2 and 3: semicylinder goniometer setup*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1LGdCbvpKVmBB08BIfBTG1Ovz7ho8qxkB/view)

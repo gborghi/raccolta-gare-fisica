@@ -69,54 +69,47 @@ $$\int_0^{1} \frac{dx}{\sqrt{1 - x^2}} = \frac{\pi}{2}.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**(vibrazioni di una reticola di cristallo lineare) **
+**(vibrazioni di una struttura reticolare lineare)**
 
-Un numero molto elevato di particelle mobili identiche a punto $N$ ($N \gg 1$), ciascuna con massa $m$, è montata in catena retta con sorgenti senza massa identiche $N + 1$, ciascuna con rigidità (constante sorgente) $S$, che le collegano tra loro e le estremità sono attaccate a due particelle immobili supplementari. Vedi la figura. Questa catena servirà come modello delle modalità di vibrazione di un cristallo unidimensionato. Quando la catena viene messa in movimento, le vibrazioni longitudinali della catena possono essere considerate come una sovrapposizione di semplici oscillazioni (chiamate modalità) ciascuna con la propria frequenza caratteristica di modalità.
+Un numero molto grande $N$ di particelle puntiformi identiche e mobili ($N \gg 1$), ciascuna di massa $m$, è disposto in una catena dritta con $N + 1$ molle identiche prive di massa, ciascuna di rigidezza (costante elastica) $S$, che le collegano tra loro e agli estremi fissati a due ulteriori particelle immobili. Si veda la figura. Questa catena servirà da modello per i modi di vibrazione di un cristallo monodimensionale. Quando la catena viene messa in moto, le vibrazioni longitudinali della catena possono essere considerate come una sovrapposizione di oscillazioni semplici (chiamate modi), ciascuna con la propria frequenza caratteristica del modo.
 
 ![[APhO_2002_theory_Q1_p1_f1.png]]
 
-**(a) ** Scrivi l'equazione di movimento della particella $n^{\text{th}}$. **[0,7 punti]**
+**(a)** Scrivere l'equazione del moto della particella $n^{\text{th}}$. **[0.7 punti]**
 
-**(b) ** Per cercare di risolvere l'equazione di movimento della parte (a) utilizzare la soluzione di prova
+**(b)** Per tentare di risolvere l'equazione del moto del punto (a), utilizzare la soluzione provvisoria
 
 $$X_n(t) = A \sin nka \, \cos(\omega t + \varphi),$$
 
-se $X_n(t)$ è lo spostamento della particella $n^{\text{th}}$ dall'equilibrio, $\omega$ è la frequenza angolare della modalità di vibrazione e $A$, $k$ e $\varphi$ sono costanti; $k$ e $\omega$ sono rispettivamente i numeri d'onda e le frequenze di modalità. Per ogni $k$, vi sarà una frequenza corrispondente $\omega$. Trova la dipendenza di $\omega$ da $k$, i valori consentiti di $k$ e il valore massimo di $\omega$. La vibrazione della catena è quindi una sovrapposizione di tutti questi modi di vibrazione. Formule utili:
+dove $X_n(t)$ è lo spostamento della particella $n^{\text{th}}$ dalla posizione di equilibrio, $\omega$ la velocità angolare del modo di vibrazione e $A$, $k$ e $\varphi$ sono costanti; $k$ e $\omega$ sono rispettivamente il numero d'onda e la frequenza del modo. Per ogni $k$, esiste una corrispondente frequenza $\omega$. Determinare la dipendenza di $\omega$ da $k$, i valori consentiti di $k$ e il valore massimo di $\omega$. La vibrazione della catena è quindi una sovrapposizione di tutti questi modi di vibrazione. Formule utili:
 
 $$\frac{d}{dx}\cos\alpha x = -\alpha \sin\alpha x, \qquad \frac{d}{dx}\sin\alpha x = \alpha \cos\alpha x, \quad \alpha = \text{constant}.$$
 
 $$\sin(A + B) = \sin A \cos B + \cos A \sin B, \qquad \cos(A + B) = \cos A \cos B - \sin A \sin B$$
 
-**[2,2 punti]**
+**[2.2 punti]**
 
-Secondo Planck l'energia di un fotone con una frequenza di $\omega$ è $\hbar\omega$, dove $\hbar$ è la costante di Planck divisa da $2\pi$. Einstein ha fatto un salto da questo supponendo che una data modalità di vibrazione cristallina con frequenza $\omega$ ha anche questa energia. Si noti che una modalità di vibrazione non è una particella, ma una semplice configurazione di oscillazione dell'intera catena. Questa modalità di vibrazione è analoga al fotone e si chiama un fonone **. In questo caso, la Commissione ha deciso di adottare un'azione di riforma. Supponiamo che un cristallo sia composto da un numero molto grande ($\sim 10^{23}$) di particelle in una catena dritta.
+Secondo Planck l'energia di un fotone con frequenza $\omega$ è $\hbar\omega$, dove $\hbar$ è la costante di Planck divisa per $2\pi$. Einstein compì un passo avanti assumendo che una data modalità di vibrazione del cristallo con frequenza $\omega$ possieda anch'essa tale energia. Si noti che una modalità di vibrazione non è una particella, ma una semplice configurazione oscillante dell'intera catena. Questa modalità di vibrazione è analoga al fotone ed è detta *fonone*. Esamineremo le conseguenze di questo concetto nel resto del problema. Supponiamo che un cristallo sia formato da un numero molto grande ($\sim 10^{23}$) di particelle disposte in una catena dritta.
 
-**(c) ** Per un dato $\omega$ (o $k$) autorizzato non possono esserci fononi; oppure possono esserci uno; o due; o qualsiasi numero di fononi. Pertanto è logico cercare di calcolare l'energia media $\langle E(\omega) \rangle$ di una determinata modalità con una frequenza $\omega$. $P_p(\omega)$ rappresenta la probabilità che ci siano fononi $p$ con questa frequenza $\omega$. Quindi la media richiesta è
+**(c)** Per un dato $\omega$ (o $k$) ammesso può non esserci alcun fonone; oppure ne può esserci uno; o due; o qualsiasi numero di fononi. Pertanto ha senso cercare di calcolare l'energia media $\langle E(\omega) \rangle$ di una particolare modalità con frequenza $\omega$. Sia $P_p(\omega)$ la probabilità che vi siano $p$ fononi con questa frequenza $\omega$. Allora l'energia media richiesta è
 
 $$\langle E(\omega) \rangle = \frac{\displaystyle\sum_{p=0}^{\infty} p\hbar\omega \, P_p(\omega)}{\displaystyle\sum_{p=0}^{\infty} P_p(\omega)}.$$
 
-Sebbene i fononi siano discreti, il fatto che ne siano così tanti (e la $P_p$ diventa minuscola per la grande $p$) ci permette di estendere la somma a $p = \infty$, con errore trascurabile. Ora la probabilità $P_p$ viene data dalla formula di Boltzmann
+Anche se i fononi sono discreti, il fatto che ne esistano moltissimi (e che $P_p$ diventi trascurabile per grandi valori di $p$) ci permette di estendere la sommatoria fino a $p = \infty$, con errore trascurabile. Ora la probabilità $P_p$ è data dalla formula di Boltzmann
 
 $$P_p(\omega) \propto \exp(-p\hbar\omega / k_B T),$$
 
-dove $k_B$ è costante di Boltzmann e $T$ è la temperatura assoluta del cristallo, costante presunta. La costante di proporzionalità non dipende da $p$. Calcolare l'energia media dei fononi di frequenza $\omega$. Formula potenzialmente utile: $\dfrac{d}{dx} e^{f(x)} = \left(\dfrac{df}{dx}\right) e^{f(x)}$. ** [2 punti] **
+dove $k_B$ è la costante di Boltzmann e $T$ è la temperatura assoluta del cristallo, supposta costante. La costante di proporzionalità non dipende da $p$. Calcolare l'energia media per fononi di frequenza $\omega$. Formula forse utile: $\dfrac{d}{dx} e^{f(x)} = \left(\dfrac{df}{dx}\right) e^{f(x)}$. **[2 punti]**
 
-**(d) ** Vorremmo quindi calcolare l'energia totale $E_T$ del cristallo. Nella parte (c) abbiamo trovato l'energia media $\langle E(\omega) \rangle$ per la modalità di vibrazione $\omega$. Per trovare $E_T$ dobbiamo moltiplicare $\langle E(\omega) \rangle$ per il numero di modi del cristallo per unità di frequenza $\omega$ e quindi sommare tutti questi per l'intero intervallo da $\omega = 0$ a $\omega_{\max}$. Prendi un intervallo $\Delta k$ nell'intervallo dei numeri d'onda. Per $N$ molto grandi e per $\Delta k$ molto più grandi dell'intervallo tra i valori successivi (permessi) $k$, quante modalità si possono trovare nell'intervallo $\Delta k$? **[1 segno]**
+**(d)** Vogliamo ora calcolare l'energia totale $E_T$ del cristallo. Nella parte (c) abbiamo trovato l'energia media $\langle E(\omega) \rangle$ per il modo di vibrazione $\omega$. Per trovare $E_T$ dobbiamo moltiplicare $\langle E(\omega) \rangle$ per il numero di modi del cristallo per unità di frequenza $\omega$ e poi sommare tutti questi contributi nell'intero intervallo da $\omega = 0$ a $\omega_{\max}$. Consideriamo un intervallo $\Delta k$ nell'intervallo dei numeri d’onda. Per molto grande $N$ e per $\Delta k$ molto maggiore della distanza tra i valori successivi (permessi) di $k$, quanti modi si possono trovare nell'intervallo $\Delta k$? **[1 punto]**
 
-**(e) ** Per utilizzare i risultati delle lettere a) e b), approssimare $\Delta k$ con $(dk/d\omega)\,d\omega$ e sostituire qualsiasi somma con un'integrale sopra $\omega$. (È più conveniente utilizzare la variabile $\omega$ al posto di $k$ in questo punto.) Indicare il numero totale di modi del cristallo in questa approssimazione. Derivare anche un'espressione $E_T$ ma non valutarla. La seguente integrale può essere utile:
+**(e)** Per utilizzare i risultati di (a) e (b), approssimare $\Delta k$ con $(dk/d\omega)\,d\omega$ e sostituire ogni somma con un integrale su $\omega$. (È più conveniente usare la variabile $\omega$ al posto di $k$ in questo punto.) Indicare il numero totale di modi del cristallo in questa approssimazione. Derivare inoltre un'espressione $E_T$, ma non valutarla. L'integrale seguente potrebbe essere utile:
 
 $$\int_0^{1} \frac{dx}{\sqrt{1 - x^2}} = \frac{\pi}{2}.$$
 
 **[2,2 punti]**
 
-La capacità termico molare $C_V$ di un cristallo a volume costante è accessibile sperimentalmente: $C_V = dE_T/dT$ (temperatura assoluta $T = $). Per il cristallo in discussione, determinare la dipendenza di $C_V$ da $T$ per temperature molto elevate e molto basse (cioè, è costante, lineare o potenza dipendente per un intervallo di temperatura?). Segnare un grafico qualitativo di $C_V$ contro $T$, indicando le tendenze previste per $T$ molto basso e molto alto. **[1,9 punti]**
-
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1aHT6cQga3zxcY4Nwla8uhnsQ89LtQlTm/view)
-
-**Topic:** [[Oscillations & Waves]], [[Modern-Quantum Physics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
+**(f)** La capacità termica molare $C_V$ di un cristallo a volume costante è accessibile sperimentalmente: $C_V = dE_T/dT$ ($T = $ temperatura assoluta). Per il cristallo in esame determinare la dipendenza di $C_V$ da $T$ per temperature molto elevate e molto basse (cioè è costante, lineare o dipendente da una potenza in un intervallo della temperatura?). Tracciare un grafico qualitativo di $C_V$ in funzione di $T$, indicando le tendenze previste per temperature molto basse e molto elevate di $T$. **[1,9 punti]**
 
 
 

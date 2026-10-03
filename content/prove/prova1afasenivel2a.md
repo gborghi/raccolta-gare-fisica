@@ -242,16 +242,9 @@ Il programma di ricerca è stato sviluppato in modo da migliorare la qualità de
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the amendment.
+**twenty-five questions**
 
-01) This test is intended exclusively for students in the first and second grades of secondary school. It contains
-Twenty-five questions.
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
+01) This exam is intended exclusively for students in the 1st and 2nd years of high school. It contains twenty-five questions.
 
 
 
@@ -445,16 +438,9 @@ caderno.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+**answer sheet**
 
-06) The Student Identification Sheet is on the last page of this
-- The notebook.
-
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
+06) The Answer Sheet with the student's identification is located on the last page of this booklet.
 
 
 
@@ -778,53 +764,28 @@ e) A variação da quantidade de movimento do motorista é igual à variação d
 
 <div class="qlang-split" data-lang="it"></div>
 
-10. Infine, l'obbligo di airbag per le nuove auto, cioè da ora in poi, tutti i veicoli
-La Commissione ha inoltre deciso di non limitare il numero di persone che hanno ricevuto tali informazioni. Sentendo questo
-La scienza, il professor Physicson ha dato la seguente spiegazione in classe ai suoi studenti:
-L'airbag è costituito da un sacchetto di plastica che, quando si gonfia rapidamente, si
-un forte rallentamento del veicolo, si trova tra il conducente/passagero e la struttura rigida del veicolo,
-in tal modo minimizzare l'impatto reciproco.
-Se avete queste informazioni, giudicate le seguenti voci, verificando se le informazioni sono corrette:
-a) Uno dei vantaggi dell'airbag durante l'incontro è di aumentare il tempo di contatto tra il volto del conducente e la
-la struttura rigida dell'automobile, riducendo così l'impatto.
-b) L'impatto di un autista contro l'airbag dura meno di un altro autista
-direttamente contro la struttura del veicolo.
-c) La forza esercitata dalla struttura del veicolo sul conducente non è pari alla variazione della quantità di
-movimento del conducente.
-d) La variazione della quantità di movimento del conducente del veicolo è diversa in una collisione, con o senza la
-protezione dell'airbag.
-e) La variazione della quantità di movimento del conducente è pari alla variazione della quantità di movimento del veicolo.
+10. «Da ora in poi diventa obbligatorio l’uso dell’airbag nei nuovi veicoli, ossia da ora in poi tutti i veicoli devono uscire dalle fabbriche con questi dispositivi, garantisce il governo» (http://g1.globo.com/carros/noticia/). Al sentire questa notizia, il professore Physicson ha dato in classe la seguente spiegazione ai suoi studenti:
+«L’airbag è costituito da un sacchetto di materiale plastico che, quando si gonfia rapidamente nel momento in cui avviene una forte decelerazione del veicolo, si interpone tra il guidatore/passeggero e la struttura rigida del veicolo, attenuando così l’impatto reciproco».
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
+In base a queste informazioni, valutare i seguenti punti, identificando quello che contiene un’informazione corretta:
+a) Una delle vantaggi dell'airbag durante l'impatto è aumentare il tempo di contatto tra il volto del guidatore e la struttura rigida dell’automobile, riducendo così l’impatto.
+b) L'impatto del guidatore contro l'airbag dura meno rispetto all’impatto di un altro guidatore direttamente contro la struttura del veicolo.
+c) L’impulso esercitato dalla struttura del veicolo sul guidatore non è uguale alla variazione della quantità di moto del guidatore.
+d) La variazione della quantità di moto del guidatore durante un impatto è diversa, con o senza la protezione dell’airbag.
+e) La variazione della quantità di moto del guidatore è uguale alla variazione della quantità di moto del veicolo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-10. Airbags are now compulsory for new cars, i.e. all vehicles are now
-The government guarantees that these items must be removed from the factory (http://g1.globo.com/car/noticia/). When I hear this
-Professor Physicson gave the following explanation in the classroom to his students:
-The airbag consists of a plastic bag which, when rapidly inflated, occurs as a result of the
-a sharp deceleration of the vehicle, is between the driver/passenger and the rigid structure of the vehicle,
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-If you have this information, please consider the following items, verifying that the correct information is provided:
-(a) One of the advantages of the airbag during a collision is that it increases the contact time between the driver's face and the driver's
-The rigid structure of the car, thus reducing the impact.
-(b) The collision of one driver with the airbag shall be of a shorter duration than the collision of another driver
-directly against the vehicle structure.
-(c) The force exerted by the vehicle structure on the driver is not equal to the change in the quantity of
-the driver's movement.
-(d) The variation in the amount of movement of the driver of the vehicle is different in a collision, with or without the
-protection of the airbag.
-(e) The change in the amount of movement of the driver is equal to the change in the amount of movement of the vehicle.
+10. "The mandatory use of airbags for new cars begins, meaning from now on all vehicles must leave the factory equipped with these devices," announced the government (http://g1.globo.com/carros/noticia/).). Upon hearing this news, Professor Physicson gave the following explanation in class to his students:
+"The airbag consists of a plastic bag that rapidly inflates at the moment of strong deceleration of the vehicle, interposing itself between the driver/passenger and the rigid structure of the car, thus reducing the mutual impact."
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
+Based on this information, evaluate the following items and identify which one presents correct information:
+
+a) One of the advantages of the "airbag" during a collision is increasing the contact time between the driver's face and the rigid structure of the car, thereby reducing the impact.
+b) The collision of a driver against the "airbag" lasts less than the collision of another driver directly against the vehicle's structure.
+c) The impulse exerted by the vehicle’s structure on the driver is not equal to the change in momentum of the driver.
+d) The change in momentum of the vehicle’s driver is different, depending on whether or not there is airbag protection during a collision.
+e) The change in momentum of the driver is equal to the change in momentum of the vehicle.
 
 
 
@@ -1058,318 +1019,200 @@ e) Cilíndricas e 2,5.
 
 <div class="qlang-split" data-lang="it"></div>
 
-12. Il professore di fisica porta in classe un piano inclinato rugoso, come mostrato nella figura seguente. Dopo averlo messo
-il blocco sul piano inclinato, gradendolo in $30^\circ$, informa i seguenti dati:
-Sapendo che esiste uno scatto, il cui coefficiente di scatto statico è di 0,2, se il blocco in questione ha un peso $10\ \text{N}$,
-quale sarà la forza minima (F) applicata sul blocco, rappresentata dalla freccia nella figura, in grado di mantenerlo in equilibrio
-sul piano:
-- **A.** 1,50N
-- **B.** 4,62N
-- **C.** 5,50N
-- **D.** 3,40N
-- **E.** 7,50N
+12. Il professore di Fisica porta in classe un piano inclinato ruvido, come mostrato nella figura seguente. Dopo aver posto il blocco sul piano inclinato, regolandolo a $30^\circ$, egli fornisce i seguenti dati:
+Sapendo che esiste attrito, il cui coefficiente di attrito statico vale 0,2, e che il blocco in questione ha un peso di $10\ \text{N}$, quale sarà la forza minima (F) applicata sul blocco, rappresentata dalla freccia nella figura, in grado di mantenerlo in equilibrio sul piano?
+- **A.** 1,50 N
+- **B.** 4,62 N
+- **C.** 5,50 N
+- **D.** 3,40 N
+- **E.** 7,50 N
 
-13 Durante le lezioni sulle leggi di Newton, in particolare sulle condizioni di attrito tra superfici in
-contatto, il professore ha posto un oggetto con massa $1{,}0\ \text{kg}$ appoggiato su una tavola $4{,}0\ \text{kg}$, come mostra
-la figura qui sotto. Il professore poi tira l'oggetto applicando una forza $\vec{F}$
-orizzontale e costante.
-considerando che il frattamento tra la tavola e la tavola è scarsa e che i coefficienti di frattamento statico e
-la dinamica tra l'oggetto e la tavola è pari a 0,8 e 0,6, rispettivamente, l'accelerazione maggiore della tavola
-può acquistare da:
+13 Durante le lezioni sulle leggi di Newton, in particolare sulle condizioni di attrito tra superfici a contatto, il professore ha posto un oggetto di massa $1{,}0\ \text{kg}$ appoggiato su una tavola di massa $4{,}0\ \text{kg}$, come mostrato nella figura seguente. Successivamente, il professore ha tirato l’oggetto applicandogli una forza $\vec{F}$ orizzontale e costante.
+Considerando che l’attrito tra la tavola e il pavimento sia trascurabile e che i coefficienti di attrito statico e dinamico tra l’oggetto e la tavola siano rispettivamente 0,8 e 0,6, l’accelerazione massima che la tavola può raggiungere sarà di:
 a) $1{,}0\ \text{m/s}^2$
-
 b) $1{,}2\ \text{m/s}^2$
-
 c) $1{,}5\ \text{m/s}^2$
 d) $1{,}6\ \text{m/s}^2$
-
 e) $2{,}0\ \text{m/s}^2$
 
-14. Nel fare un esperimento nel laboratorio della scuola, il professore suggerisce agli studenti di lanciare un blocco
-di $1{,}0\ \text{kg}$ su una tavola parzialmente liscia in modo che essa si schiunga con un anteparco attaccato a una
-molla di costante elastica $2{,}0\ \text{N/m}$, come mostrato nella figura seguente. Sapendo che il coefficiente di attrito dinamico
-tra le superfici in contatto vale 0,1, si verifica che la compressione massima della molla dopo la collisione è stata di
-$20\ \text{cm}$. In questo contesto, gli studenti hanno concluso che la velocità del blocco all'istante di colpimento era di
-approssimativamente:
-a) 0,7m/s
+14. Durante un'esperimento in laboratorio, il professore suggerisce agli studenti di lanciare un blocco di massa $1{,}0\ \text{kg}$ su un tavolo parzialmente liscio, in modo che esso urti con uno schermo fissato a una molla di costante elastica $2{,}0\ \text{N/m}$, come mostrato nella figura seguente. Sapendo che il coefficiente di attrito dinamico tra le superfici a contatto vale 0,1, si osserva che la compressione massima della molla dopo l'urto è di $20\ \text{cm}$. In base a questo contesto, gli studenti concludono che la velocità del blocco nell'istante dell'urto era approssimativamente di:
+a) 0,7 m/s
+- **B.** 1,0 m/s
+- **C.** 1,5 m/s
+- **D.** 3,8 m/s
+- **E.** 4,5 m/s
 
-- **B.** 1,0m/s
-- **C.** 1,5m/s
-- **D.** 3,8m/s
-- **E.** 4,5m/s
+15. Il blocco di massa inerziale si trova in quiete sul piano inclinato della figura seguente. Subito dopo, il professore lo spinge, lanciandolo verso l'alto, e osserva che esso si ferma dopo aver percorso una distanza di $1\ \text{m}$. A partire da questo contesto, egli chiede alla classe di determinare la velocità iniziale del lancio del blocco, approssimativamente, sapendo che il coefficiente di attrito dinamico tra essi vale 0,2.
+- **A.** 1,50 m/s
+- **B.** 3,63 m/s
+- **C.** 5,50 m/s
+- **D.** 3,0 m/s
+- **E.** 7,50 m/s
 
-15. Il blocco di massa inerziale si trova sul piano inclinato della figura seguente. All'improvviso, il professore
-lo spinge, lo lancia verso l'alto, notando che si ferma dopo aver percorso una distanza di $1\ \text{m}$. A partire da questo
-Context, chiede alla classe di determinare la velocità di lancio del blocco, in valori approssimativi,
-se si sa che il coefficiente di attrito cinetico tra loro è di 0,2.
-- **A.** 1,50m/s
-- **B.** 3,63m/s
-- **C.** 5,50m/s
-- **D.** 3,0m/s
-- **E.** 7,50m/s
+16. Durante lezioni sulla gravitazione universale, la maggior parte dei professori delle scuole superiori racconta attraverso una pseudo-storia che Isaac Newton avrebbe riflettuto su questa legge nel momento in cui una mela gli è caduta sulla testa. È ovvio che, data la genialità di Newton, non fosse necessario che ciò accadesse. Considerando la possibilità che tale situazione si verificasse, identificate l'affermazione(oni) corretta(e):
+I. Poiché il peso della mela è piccolo, questa situazione non comporterebbe alcun rischio, indipendentemente dall'altezza da cui cade;
+II. La forza esercitata dalla mela sulla testa di Newton dipende dalla velocità con cui colpisce e dall'intervallo temporale dell'impatto, oltre che dal suo peso stesso;
+III. In questo caso, la forza esercitata sulla testa dalla mela dipende soltanto dalla velocità con cui essa arriva.
+a) I b) II c) III d) I e II e) II e III
 
-16. Durante le lezioni di gravità universale, la maggior parte degli insegnanti del liceo riferisce attraverso
-una pseudo-storia che Isaac Newton avrebbe pensato di questa legge nel momento in cui una mela gli è caduta
-- Sulla testa. Naturalmente, per la genialità di Newton, non era necessario che questo accadesse. Considerando che
-se è possibile, indicare la proposizione corretta:
-I. Poiché il peso della mela è piccolo, questa situazione non comporta alcun rischio, indipendentemente dalla altezza da cui si trova
-caduta;
-II. La forza che l'apola eserciterà sulla testa di Newton, tiene conto della velocità con cui colpisce e
-l'intervallo di tempo del colpisso, oltre al suo peso;
-III. In questo caso, la forza esercitata sulla testa dalla mela dipende solo dalla velocità con cui arriva.
-a) I b) II c) III d) I e II e II e III
-
-17. Il professor Physicson fa un esperimento in classe usando una bilancia di braccia uguale,
-il modello è rappresentato nella figura. Si costruiscono due sfere con massa di modellazione, verificando che una
-di cui $0{,}6\ \text{cm}^3$, $m_1 = 1{,}0\ \text{g}$ di massa, completamente immerso in acqua e preso da un
-un filo sottile di un volume e una massa scarsa, ad uno dei bracci della bilancia. Ricordando che la densità dell'acqua vale
-$1{,}0\ \text{g/cm}^3$, quindi la massa $m_2$ (in grammo) dell'altra sfera che deve essere sospesa sull'altro braccio della bilancia, per
-mantenere in equilibrio:
+17. Il professore Physicson realizza un'esperimento in classe utilizzando una bilancia a bracci uguali, il cui modello è rappresentato nella figura. Realizza due sfere con della plastilina, verificando che una di esse ha volume $0{,}6\ \text{cm}^3$, massa $m_1 = 1{,}0\ \text{g}$ e si trova completamente immersa nell'acqua ed è fissata, tramite un filo sottile di volume e massa trascurabili, a uno dei bracci della bilancia. Ricordando che la densità dell'acqua vale $1{,}0\ \text{g/cm}^3$, allora la massa $m_2$ (in grammi) dell'altra sfera, che deve essere appesa all'altro braccio della bilancia per mantenerla in equilibrio, è di:
 - **A.** 0,2
 - **B.** 0,3
 - **C.** 0,4
 - **D.** 0,5
 - **E.** 0,6
 
-18. Recentemente, tutti i fan del visionario regista J. J. Abrams vibranti e uniti per tornare nella galassia.
-molto, molto lontano, nel ritorno alla serie di science fiction Star Wars, l'insorgimento della Forza. Il contesto delle
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le misure adottate per la protezione dei consumatori siano state applicate in tutti i paesi dell'Unione. L'esempio
-In base a questa premessa, possiamo evidenziare la scena dell'esplosione di una nave spaziale che viene ascoltata da altre navi nel mondo.
-il vuoto dello spazio esterno. In relazione a questo fatto è corretto affermare che:
-- **A.** questo non corrisponde alla realtà, poiché non è possibile diffondere il suono nel vuoto.
-- **B.** isso ocorre na realidade, pois o som pode se propagar no vácuo.
-- **C.** isto ocorre na realidade, uma vez que o som se propagará junto com a imagem da explosão.
-- **D ** è vero, poiché le onde sonore sono onde di tipo elettromagnetico e non hanno bisogno di un mezzo per la loro
-diffusione.
-e) è vero, poiché meno denso è il mezzo, maggiore sarà la velocità di diffusione delle onde sonore.
+18. Di recente, tutti gli appassionati del visionario regista J.J. Abrams hanno vibrato e unito le forze per tornare alla galassia molto, molto lontana, con il ritorno della serie di fantascienza "Star Wars – L’alba della Forza". Il contesto delle numerose scene, ricche di montaggi computazionali, è favorevole all'esplorazione di concetti scientifici. A titolo esemplificativo, possiamo evidenziare la scena dell'esplosione di una nave spaziale, udita da altre navi nel vuoto dello spazio siderale. Riguardo a questo fatto, è corretto affermare che:
+- **A.** ciò non corrisponde alla realtà, poiché non è possibile la propagazione del suono nel vuoto.
+- **B.** ciò avviene nella realtà, poiché il suono può propagarsi nel vuoto.
+- **C.** ciò avviene nella realtà, poiché il suono si propagherà insieme all'immagine dell'esplosione.
+- **D.** è vero, poiché le onde sonore sono onde del tipo elettromagnetico e non necessitano di un mezzo per la loro propagazione.
+e) è vero, poiché quanto meno denso sarà il mezzo, tanto maggiore sarà la velocità di propagazione delle onde sonore.
 
-19. Durante una lezione sui fenomeni ondulatori, il professore ha tenuto considerazioni su alcuni di essi,
-quando una delle sue studentesse, che ascoltava attentamente le sue spiegazioni, chiese:
-La più elegante che penso nella natura è quella dell'arcobaleno. Come si fa la sua formazione, professore?
-Il professore, sfruttando il segno, estese la domanda alla classe, ottenendo alcune risposte. Vediamo:
-I.L'arcobaleno con i suoi colori nasce a causa del fenomeno della riflessione della luce nelle goccioline d'acqua sospese in
-atmosfera;
-II.I colori sono quelli dei gocciolini, indipendentemente dal riflesso della luce;
-III.Il fenomeno che provoca la formazione dei colori è chiamato dispersione della luce del sole sulle goccioline d'acqua.
-Per quanto riguarda le affermazioni, possiamo affermare che:
-a) Solo I è corretto
+19. Durante una lezione sui fenomeni ondulatori, il professore faceva osservazioni su alcuni di essi, quando una delle sue allieve, che ascoltava attentamente la spiegazione, fece la seguente domanda: «Uno dei fenomeni più eleganti che trovo nella natura è quello dell'arcobaleno. Come si forma, professore?».
 
-b) Solo III è corretto
+Il professore, approfittando dell'occasione, estese la domanda alla classe, ottenendo alcune risposte. Vediamo:
+I. L'arcobaleno con le sue colorazioni si forma a causa del fenomeno della riflessione della luce nelle goccioline d'acqua sospese nell'atmosfera;
+II. I colori sono propri delle goccioline, indipendenti dalla riflessione della luce;
+III. Il fenomeno responsabile della formazione dei colori si chiama dispersione della luce solare sulle goccioline d'acqua.
 
-c) I e II sono corretti
+Riguardo alle affermazioni, possiamo dire che:
+a) Solo I è corretta
 
-d) Tutti corretti
+b) Solo III è corretta
+
+c) I e II sono corrette
+
+d) Tutte sono corrette
 
 e) II e III sono corrette
 
-20. Isaac Newton, nel 1672, pubblicò nel suo libro "L'ottica" un esperimento che fece sull'ottica.
-decomposizione della luce. Anche senza considerare il modello ondulatorio, Newton ha mostrato che incidendo luce bianca
-su due prisme, adeguatamente combinate, era possibile decomporre e ricomporre la luce bianca del Sole.
-Considerando oggi il carattere ondulatorio della luce, possiamo affermare con certezza che le onde luminose corrispondenti
-e i colori diversi, avranno sempre, nel vuoto,
+20. Isaac Newton, nell'anno 1672, pubblicò nel suo libro "Ottica" un esperimento che aveva condotto sulla decomposizione della luce. Anche senza considerare il modello ondulatorio, Newton dimostrò che facendo incidere luce bianca su due prismi opportunamente combinati era possibile decomporre e ricomporre la luce bianca del Sole.
+
+Considerando oggi il carattere ondulatorio della luce, possiamo affermare con sicurezza che le onde luminose corrispondenti ai diversi colori avranno sempre, nel vuoto,
 a) la stessa lunghezza d'onda;
 
 b) la stessa frequenza;
 
 c) lo stesso periodo;
-(d) la stessa larghezza;
+d) la stessa ampiezza;
 
 e) la stessa velocità.
-21. Thomas Young (1773-1829) divenne famoso per l'esperimento della doppia fessura, nel quale sostenne che il sistema di scambio di dati di una rete di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di dati di scambio di scambio di dati di scambio di scambio di dati di scambio di scambio di dati di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scambio di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi di scopi
-comportamento ondulatorio della luce, così fortemente discusso un secolo prima da Isaac Newton (16431727),
-Christiaan Huygens (1629-1695) tra gli altri. Oltre a essere un fisico, T. Young era anche un medico, uno dei
-I primi a descrivere correttamente l'anatomia dell'occhio umano. In uno dei suoi studi scientifici,
-Observations on Vision, descrive il processo di formazione dell'immagine nella retina, dando al cristalino
-la responsabilità di focalizzare oggetti situati a diverse distanze. Da questa prospettiva,
-Indicare qui sotto la proposizione corretta:
-I.Il cristallino è un tipo di lente convergente;
-II.L'immagine formata nella retina in un occhio normale (emetrope) è reale, invertita e inferiore all'oggetto
-a fuoco;
-III.L'illusione e la presbiopia (vista stanca) si correggono con l'uso di obiettivi convergenti;
-IV.La miopia e l'astigmatismo sono corretti con l'uso di lenti divergenti e cilindrici, rispettivamente.
-a) tutte le informazioni sono corrette;
+21. Thomas Young (1773–1829) divenne famoso per l'esperimento delle due fenditure, in cui difese il comportamento ondulatorio della luce, oggetto di accesi dibattiti un secolo prima da parte di Isaac Newton (1643–1727), Christiaan Huygens (1629–1695) e altri. Oltre che fisico, T. Young era anche medico ed uno dei primi a descrivere correttamente l'anatomia dell'occhio umano. In uno dei suoi scritti scientifici, "Observations on Vision", egli descrive il processo di formazione dell'immagine sulla retina, attribuendo al cristallino la responsabilità della messa a fuoco di oggetti situati a diverse distanze. A partire da questa prospettiva, identificate di seguito la o le proposizioni corrette:
 
-b) I, II e III sono corretti;
+I. Il cristallino è una lente del tipo convergente;
+II. L'immagine formata sulla retina, in un occhio normale (emmetrope), è reale, capovolta e più piccola dell'oggetto messo a fuoco;
+III. L'ipermetropia e la presbiopia (vista stanca) vengono corrette con l'uso di lenti convergenti;
+IV. La miopia e l'astigmatismo vengono corretti con l'uso di lenti divergenti e lenti cilindriche, rispettivamente.
 
-c) II, III e IV sono corretti;
-d) Solo l'I è corretto;
+a) Tutte sono corrette;
+b) I, II e III sono corrette;
+c) II, III e IV sono corrette;
+d) Solo la I è corretta;
+e) I e II sono corrette
 
-e) I e II sono corretti
-
-22. Uno degli studenti del professor Physicson è andato dal medico di vista. Il medico ha esaminato il bambino, diagnosticando che
-Aveva anche un anomalia negli occhi che lo rendeva miope, e gli prescriveva gli occhiali a quattro gradi, cioè,
-$V = -4$ dioptrias. Non capendo il significato della ricetta, lo studente ha cercato il professore che ha prontamente spiegato
-receta, aggiungendo che gli occhiali devono avere lenti correttive del tipo ... e con una distanza focale uguale
-a..............cm:
-a) divergenti e 25;
-
-b) convergenti e 25;
-
-(c) divergenti e  0,5;
-(d) divergenti e  40;
-e) cilindrici e 2,5
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Geometric Optics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Block (object)|Block]], [[Spring (object)|Spring]], [[Lens (object)|Lens]], [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
+22. Uno degli studenti del professor Physicson si è recato dall'ottico. Il medico lo ha esaminato, diagnosticando che presentava un'anomalia agli occhi che lo rendeva miope, prescrivendogli degli occhiali con quattro diottrie, ossia
+$V = -4$ dioptrie. Senza capire il significato della ricetta, lo studente ha consultato il professore che immediatamente ha spiegato la ricetta, aggiungendo che gli occhiali dovranno avere lenti correttive del tipo ............. e con una distanza focale pari a .............. cm:
+a) Divergenti e 25;
+b) Convergenti e 25;
+c) Divergenti e –0,5;
+d) Divergenti e –40;
+e) Cilindriche e 2,5.
 
 <div class="qlang-split" data-lang="en"></div>
 
-12. The physics teacher takes a rough sloping plane into the classroom, as shown in the figure below. After you put
-the block on the sloping plane, grading it to $30^\circ$, shall report the following data:
-Whereas there is friction, the static friction coefficient of which is 0,2, if the block in question has a weight of $10\ \text{N}$,
-what is the minimum force (F) applied to the block, as represented by the arrow in the figure, capable of keeping it in balance
-on the plan:
-- **A.** 1,50N
-- **B.** 4,62N
-- **C.** 5,50N
-- **D.** 3,40N
-- **E.** 7,50N
+12. The Physics professor brings to the classroom a rough inclined plane, as shown in the figure below. After placing the block on the inclined plane and adjusting its angle to $30^\circ$, he provides the following data:
+It is known that friction exists, with a coefficient of static friction equal to 0.2. If the block in question has a weight of $10\ \text{N}$, what will be the smallest force (F) applied to the block—represented by the arrow in the figure—that is capable of keeping it in equilibrium on the plane?
+- **A.** 1.50 N
+- **B.** 4.62 N
+- **C.** 5.50 N
+- **D.** 3.40 N
+- **E.** 7.50 N
 
-13 During the lessons on Newton's laws, particularly on the conditions of friction between surfaces in the
-contact, the teacher placed an object with a mass of $1{,}0\ \text{kg}$ supported on a board of $4{,}0\ \text{kg}$, as shown
-the figure below. The teacher then pulls the object by applying a force $\vec{F}$
-horizontal and constant.
-Whereas the friction between the board and the table is negligible and the static friction coefficients and
-The dynamic between the object and the board shall be equal to 0,8 and 0,6, respectively, the maximum acceleration of the board
-may acquire from:
+13. During lessons on Newton's laws, particularly regarding the conditions of friction between contacting surfaces, the professor places an object with mass $1{,}0\ \text{kg}$ resting on a plank of mass $4{,}0\ \text{kg}$, as shown in the figure below. Subsequently, the professor pulls the object by applying a horizontal and constant force $\vec{F}$.
+Assuming that friction between the plank and the table is negligible, and that the coefficients of static and kinetic friction between the object and the plank are 0.8 and 0.6, respectively, what is the maximum acceleration that the plank can acquire?
 a) $1{,}0\ \text{m/s}^2$
-
 b) $1{,}2\ \text{m/s}^2$
-
 c) $1{,}5\ \text{m/s}^2$
 d) $1{,}6\ \text{m/s}^2$
-
 e) $2{,}0\ \text{m/s}^2$
 
-14. When conducting an experiment in the school laboratory, the teacher suggests that students throw a block
-of $1{,}0\ \text{kg}$ on a partially smooth table, so that it collides with a frontal bulkhead attached to a
-mola de constante elástica $2{,}0\ \text{N/m}$, como mostra a figura abaixo. The dynamic friction coefficient is
-between the contact surfaces of 0,1, it is verified that the maximum compression of the spring after the collision was of
-$20\ \text{cm}$. In this perspective, the students concluded that the block's velocity at the moment of collision was
-approximately:
-a) 0,7m/s
+14. While performing an experiment in the school laboratory, the teacher suggests that students launch a block of mass $1{,}0\ \text{kg}$ onto a partially smooth table, so that it collides with a barrier attached to a spring of spring constant $2{,}0\ \text{N/m}$, as shown in the figure below. Knowing that the coefficient of dynamic friction between the contacting surfaces is 0.1, it is observed that the maximum compression of the spring after the collision was $20\ \text{cm}$. From this standpoint, the students concluded that the block's speed at the instant of collision was approximately:
+a) 0.7 m/s
+- **B.** 1.0 m/s
+- **C.** 1.5 m/s
+- **D.** 3.8 m/s
+- **E.** 4.5 m/s
 
-- **B.** 1,0m/s
-- **C.** 1,5m/s
-- **D.** 3,8m/s
-- **E.** 4,5m/s
+15. The block of inertial mass rests on the inclined plane shown in the figure below. Suddenly, the teacher pushes it upward, observing that it stops after traveling a distance of $1\ \text{m}$. Based on this context, he asks the class to determine, approximately, the launch speed of the block, knowing that the coefficient of kinetic friction between them is 0.2.
+- **A.** 1.50 m/s
+- **B.** 3.63 m/s
+- **C.** 5.50 m/s
+- **D.** 3.0 m/s
+- **E.** 7.50 m/s
 
-15. The block of mass inert rests on the sloping plane of the figure below. Suddenly, the professor
-It pushes it upwards, realizing that it stops after a distance of $1\ \text{m}$. From this one
-context, he asks the class to determine the launch speed of the block, in approximate values,
-whereas the kinetic friction coefficient between them is 0.2.
-- **A.** 1,50m/s
-- **B.** 3,63m/s
-- **C.** 5,50m/s
-- **D.** 3,0m/s
-- **E.** 7,50m/s
+16. During lessons on universal gravitation, most high school teachers recount through a pseudo-story that Isaac Newton would have thought about this law at the very moment an apple fell on his head. Clearly, due to Newton's genius, it was not necessary for this actually to happen. Considering the possibility of such a situation, identify the correct statement(s):
 
-16. During the classes on universal gravity, most high school teachers report
-A pseudo-history that Isaac Newton would have thought about this law the moment an apple fell on him
-over his head. Of course, because of Newton's genius, it didn't have to happen. Whereas
-the possibility of such a situation, identify the correct propositions:
-I. Since the weight of the apple is small, this situation would not pose any risk, regardless of the height from which it is grown
-fall;
-II. The force the apple will exert on Newton's head takes into account the speed at which it collides and the
-the time interval of the collision, in addition to its own weight;
-The Commission shall adopt implementing acts. In this case, the force exerted on the head by the apple depends only on the speed at which it arrives.
-(a) I b) II c) III d) I and II e) II and III
+I. Since the apple's weight is small, this situation would pose no risk whatsoever, regardless of the height from which it falls;
+II. The force that the apple exerts on Newton's head takes into account the speed at which it collides, the duration of the collision, and its own weight;
+III. For this case, the force exerted on Newton's head by the apple depends only on the speed with which it arrives.
+a) I  b) II  c) III  d) I and II  e) II and III
 
-17. Professor Physicson conducts an experiment in the classroom using an equal arm swing, whose
-The model is shown in the figure. He makes two spheres with a modeling mass, verifying that one
-The volume of the water is $0{,}6\ \text{cm}^3$, the mass is $m_1 = 1{,}0\ \text{g}$ and it is completely immersed in water and trapped by a
-a fine thread of scanty weight and weight, to one of the arms of the scales. Remembering that the density of water is worth
-$1{,}0\ \text{g/cm}^3$, then the mass $m_2$ (in grams) of the other sphere which shall be suspended on the other arm of the scale, to
-keeping it in balance is to:
-- **A.** 0,2
-- **B.** 0,3
-- **C.** 0,4
-- **D.** 0,5
-- **E.** 0,6
+17. Professor Physicson conducts an experiment in the classroom using a balance with equal arms, whose model is shown in the figure. He shapes two spheres from modeling clay, verifying that one of them has volume $0{,}6\ \text{cm}^3$, mass $m_1 = 1{,}0\ \text{g}$, and is completely submerged in water, attached by a thin string of negligible volume and mass to one arm of the balance. Recalling that the density of water is $1{,}0\ \text{g/cm}^3$, then the mass $m_2$ (in grams) of the other sphere, which must be suspended on the opposite arm of the balance to keep it in equilibrium, is:
+- **A.** 0.2
+- **B.** 0.3
+- **C.** 0.4
+- **D.** 0.5
+- **E.** 0.6
 
-18. Recently, all the fans of visionary director J. J. Abrams vibrated and joined forces to return to the galaxy .
-Very, very far away, on the return of the science fiction series Star Wars: The Force Awakens. The context of the
-The Commission's proposal for a directive on the protection of workers from the risks of the use of the Internet is therefore not a sufficient basis for the adoption of the directive. The example
-From this premise, we can highlight the scene of a spacecraft explosion being heard by other spacecraft in the
-vacuum of outer space. In this respect it is correct to state that:
-- **A** this does not correspond to reality, as it is not possible to propagate sound in the vacuum.
-- **B ** this is actually happening because sound can spread in the vacuum.
-- **C.** isto ocorre na realidade, uma vez que o som se propagará junto com a imagem da explosão.
-- **D ** is true, as sound waves are electromagnetic waves and do not need a medium for their
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-(e) it is true, for the less dense the medium, the greater the speed at which the sound waves propagate.
+18. Recently, all fans of the visionary director J. J. Abrams thrilled and united their efforts to return to the very, very distant galaxy in the revival of the science fiction series "Star Wars – The Force Awakens." The various scenes, rich in computer-generated imagery, provide a favorable context for exploring scientific concepts. Following this premise, we can highlight the scene in which the explosion of a spaceship is heard by other ships in the vacuum of outer space. Regarding this event, it is correct to state that:
+- **A.** this does not correspond to reality, because sound cannot propagate in a vacuum.
+- **B.** this occurs in reality, because sound can travel through a vacuum.
+- **C.** this happens in reality, since sound will propagate together with the image of the explosion.
+- **D.** this is true, because sound waves are electromagnetic waves and do not require a medium for propagation.
+- **e.** this is true, because the less dense the medium, the greater the speed of propagation of sound waves.
 
-19. During a lecture on wave phenomena, the professor weaves considerations about some of them,
-When one of his students was listening attentively to his explanation, she asked the following question:
-The most elegant thing I think about in nature is the rainbow. How do you train yourself, Professor?
-The teacher, taking advantage of the bait, extended the question to the class, getting some answers. Let 's see .
-I.The rainbow with its colours arises from the reflection phenomenon of light in the water droplets suspended in the water
-atmosphere;
-II.The colours are those of the droplets, independent of the reflection of light;
-III.The phenomenon responsible for colour formation is called the scattering of sunlight over water droplets.
-As regards the claims, we can state that:
-(a) Only I is correct
+19. During a lesson on wave phenomena, the teacher was making observations about some of them when one of his attentive students asked: "One of the most elegant phenomena I find in nature is the rainbow. How exactly does it form, teacher?"
 
-(b) Only III is correct
+Taking advantage of the opportunity, the teacher extended the question to the whole class, receiving several responses. Let's examine them:
 
-(c) I and II are correct
+I. The rainbow with its colors arises due to the phenomenon of light reflection on tiny water droplets suspended in the atmosphere;
+II. The colors are inherent to the droplets, independent of light reflection;
+III. The phenomenon responsible for the formation of colors is called dispersion of sunlight on water droplets.
 
+With regard to these statements, we can assert that:
+a) Only I is correct
+b) Only III is correct
+c) I and II are correct
 d) All are correct
+e) II and III are correct
 
-(e) II and III are correct
+20. Isaac Newton, in the year 1672, published in his book "Opticks" an experiment he conducted on the decomposition of light. Even without considering the wave model, Newton demonstrated that shining white light through two prisms appropriately combined allowed for decomposing and then recombining the Sun's white light.
 
-20. In 1672 Isaac Newton published in his book Optics an experiment he conducted on the
-decomposition of the light. Even without considering the wave pattern, Newton showed that by focusing white light
-On two prisms, properly combined, it was possible to decompose and reconstitute the white light from the sun.
-Considering the wavelength character of light today, we can safely say that corresponding light waves
-The different colors will always have, in the vacuum,
-(a) the same wavelength;
+Considering today the wave nature of light, we can certainly affirm that light waves corresponding to different colors will always have in vacuum:
+a) the same wavelength;
+b) the same frequency;
+c) the same period;
+d) the same amplitude;
 
-(b) the same frequency;
+e) the same speed.
+21. Thomas Young (1773–1829) became famous for the double-slit experiment, in which he advocated the wave nature of light—intensely debated a century earlier by Isaac Newton (1643–1727) and Christiaan Huygens (1629–1695), among others. Besides being a physicist, T. Young was also a physician and one of the first to correctly describe the anatomy of the human eye. In one of his scientific essays, “Observations on Vision,” he described the process of image formation on the retina, attributing to the lens (crystalline) the responsibility for focusing objects located at different distances. From this perspective, identify below the correct statement(s):
 
-(c) the same period;
-(d) the same width;
+I. The crystalline lens is a converging type of lens;
+II. In a normal eye (emmetropic), the image formed on the retina is real, inverted, and smaller than the object being focused;
+III. Hypermetropia and presbyopia (tired eyes) are corrected using converging lenses;
+IV. Myopia and astigmatism are corrected using diverging lenses and cylindrical lenses, respectively.
 
-(e) the same speed.
-21. Thomas Young (17731829) became famous for the double-slit experiment, in which he defended the
-The wave-like behavior of light, so strongly discussed a century earlier by Isaac Newton (16431727),
-The following is a list of the main sources of information: In addition to physics, T. Young was also a doctor, being one of the
-The first to correctly describe the anatomy of the human eye. In one of his scientific essays,
-Observations on Vision, he describes the process of image formation in the retina, giving the lens a
-responsibility for the focusing of objects located at different distances. From that perspective,
-identify below the correct propositions:
-I.The lens is a lens of the convergent type;
-II.The image in the retina in a normal eye (hemetrope) is real, reversed and smaller than the object
-focused;
-III.Farsightedness and presbyopia (fatigue vision) are corrected by the use of convergent lenses;
-IV.Myopia and astigmatism are corrected by the use of divergent and cylindrical lenses, respectively.
-(a) All are correct;
+a) All are correct;
+b) I, II, and III are correct;
+c) II, III, and IV are correct;
+d) Only I is correct;
+e) I and II are correct
 
-(b) I, II and III are correct;
-
-(c) II, III and IV are correct;
-(d) Only I is correct;
-
-(e) I and II are correct
-
-22. One of Professor Physicson's students went to the eye doctor. The doctor examined him, diagnosing that he was
-He even had an anomaly in his eyes that made him nearsighted, prescribing him four-degree glasses, that is,
-$V = -4$ dioptrias. Without understanding the meaning of the recipe, the student sought out the teacher who promptly explained the recipe to him.
-The prescription, adding that the glasses should have corrective lenses of the type of ... and with an equal focal length
-a..............cm:
-(a) divergent and 25;
-
-(b) Convergent and 25;
-
-(c) Divergent and  0,5;
-(d) Divergent and  40;
-(e) Cylindrical and 2.5.
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Geometric Optics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Block (object)|Block]], [[Spring (object)|Spring]], [[Lens (object)|Lens]], [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/107uOUlRnTK-Zh7PIas75XxhI_c3YaiJ-/view)
+22. One of Professor Physicson's students went to an ophthalmologist. The doctor examined him, diagnosing an eye abnormality that made him nearsighted, and prescribed glasses with four diopters, i.e.,
+$V = -4$ diopters. Not understanding the meaning of the prescription, the student consulted the professor, who promptly explained it, adding that the glasses should have corrective lenses of type ............. and with a focal length equal to .............. cm:
+a) Diverging and 25;
+b) Converging and 25;
+c) Diverging and –0.5;
+d) Diverging and –40;
+e) Cylindrical and 2.5.

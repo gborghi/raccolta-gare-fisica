@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2024 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/conducting-sphere"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Figura B.1: Conduttore piano a massa infinitamente lungo con una carica $Q_1$ in una posizione $\vec{r}_1 = (x_1, y_1, z_1) = (0, 0, d)$.
 
 i. (0.25 pt) Quali sono le condizioni al contorno per il potenziale elettrostatico $V$ di questo sistema?
@@ -187,6 +191,176 @@ The egg is not very dissymmetric, so $t = \frac{1}{2}$ is a good starting point,
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]], [[Conducting Sphere (object)|Conducting Sphere]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/14f5cOECox8iz56s6uHvon5QiZdkP6xLO/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Figure B.1: Infinite plane conducting surface with a charge $Q_1$ located at position $\vec{r}_1 = (x_1, y_1, z_1) = (0, 0, d)$.
+
+i. (0.25 pt) What are the boundary conditions for the electrostatic potential $V$ of this system?
+
+ii. (1.5 pt) Consider a second physical system with the same charge $Q_1$ located at the same position $\vec{r}_1$ as in Figure B.1, but without the conducting plane. Our goal is to find a configuration with a second charge $Q_2$ located at position $\vec{r}_2$ such that the boundary conditions match those of Figure B.1. What should be the values of $Q_2$ and $\vec{r}_2 = (x_2, y_2, z_2)$ for this to happen? Why?
+
+iii. (1 pt) Using the previous results, compute the electric potential $V(x, y, z)$ above the ground in the system of Figure B.1 as a function of coordinates $(x, y, z)$, distance $d$, and charge $Q_1$. The expression may be left as a sum of two terms; full simplification is not required.
+
+iv. (1.5 pt) Sketch schematically the conductor system of Figure B.1 with the corresponding field lines, assuming that $Q_1 > 0$ (on a separate sketch, not on the problem sheet).
+
+Part C. Image charge at right angle (5.5 points)
+
+We will now consider more complex conductor geometries.
+
+i. (2.5 pt) Consider the system shown in Figure C.1. How many image charges $N$ are required to reproduce the boundary conditions of the conductor? What are their values $Q_i$ and positions $\vec{r}_i = (x_i, y_i, z_i)$ for $i = 1, 2, \dots, N$? Why?
+
+Figure C.1: Two infinitely long grounded conducting half-planes at right angles with a charge $Q_1$ at position $\vec{r}_1 = (x_1, y_1, z_1) = (d, 0, d)$.
+
+ii. (1 pt) What is the corresponding potential $V(x, y, z)$ as a function of the coordinates $(x, y, z)$, the distance $d$ and the charge $Q_1$? The expression may be left as a sum of $N$ terms, it is not necessary to simplify it completely.
+
+iii. (2 pt) Schematically draw the charge-half-plane-conductor system with the corresponding field lines, assuming that $Q_1 < 0$ (in a separate sketch, not on the problem sheet).
+
+Part D. Circular mirror charges (4 points)
+
+i. (2.5 pt) Let us now consider the system shown in Fig. D.1. It turns out that only one image charge is needed to reproduce the corresponding boundary conditions. What is its value $Q_2$ and its position $\vec{r}_2 = (x_2, y_2, z_2)$?
+
+Hint: one may use without proof that a potential satisfying the appropriate boundary conditions at the positions $(r, 0, 0)$ and $(-r, 0, 0)$ satisfies the boundary conditions on the entire sphere.
+
+Figure D.1: Grounded spherical conductor of radius $r$ with center $O$ at position $\vec{r}_0 = (0, 0, 0)$ and charge $Q_1$ at position $\vec{r}_1 = (x_1, y_1, z_1) = (r/2, 0, 0)$. Here we see a slice at $y = 0$ of the sphere in the plane $xz$.
+
+ii. (1.5 pt) What is the corresponding potential $V(x, y, z)$ as a function of the coordinates $(x, y, z)$, the radius $r$ and the charge $Q_1$? The expression may be left as a sum of two terms, it is not necessary to simplify it completely.
+
+SOLUTION
+
+Long Problems: Solutions
+
+Long Problem 2.1: Stability of an Egg
+
+Consider an egg represented by a homogeneous solid of revolution with profile $f(x) = \frac{1}{2}\sqrt{x - x^4}$ on the domain $x \in [a = 0, b = 1]$. Length units are arbitrary.
+
+Part A. Center of gravity and radius
+
+The center of mass $c$ of a solid of revolution lies on its axis and can be computed by dividing it into infinitesimally thin disks of thickness $dx$ and volume $\pi f^2(x)\, dx$:
+
+$$c = \frac{1}{V} \int_a^b x\,\pi f^2(x)\, dx,$$
+
+where $V$ is the volume of the solid.
+
+i. Compute $c$ for the egg.
+
+Following the idea of splitting the egg into disk-shaped infinitely thin slices, the volume is given by:
+
+$$V = \int_a^b \pi f^2(x)\, dx.$$
+
+Thus for the egg, we have
+
+$$c = \frac{\int_0^1 x\,\tfrac{1}{4}(x - x^4)\, dx}{\int_0^1 \tfrac{1}{4}(x - x^4)\, dx} = \frac{\int_0^1 (x^2 - x^5)\, dx}{\int_0^1 (x - x^4)\, dx} = \frac{\left[\tfrac{1}{3}x^3 - \tfrac{1}{6}x^6\right]_0^1}{\left[\tfrac{1}{2}x^2 - \tfrac{1}{5}x^5\right]_0^1},$$
+
+And finally
+
+$$c = \frac{\tfrac{1}{3} - \tfrac{1}{6}}{\tfrac{1}{2} - \tfrac{1}{5}} = \frac{\tfrac{1}{6}}{\tfrac{3}{10}} = \frac{5}{9}.$$
+
+ii. If a different factor than $\frac{1}{2}$ had been chosen in the profile $f(x)$ of the egg, what would have been the impact on the value of $c$? Justify.
+
+SOLUTION
+
+$c$ would not change, because the factor (squared) appears both in the numerator and in the denominator of $c$.
+
+This is the same reason why the egg's density doesn't play a role, nor does $\pi$.
+
+iii. Find an expression for the "radius" $r(x)$ of the egg, i.e., the distance between the center of mass and a point $(x, f(x))$ on the egg's surface. The result must be of the form $\sqrt{P(x)}$, where $P(x)$ is a polynomial.
+
+We can use the Pythagorean theorem:
+
+$$r(x) = \sqrt{f^2(x) + (x - c)^2},$$
+
+and we get
+
+$$r(x) = \sqrt{\tfrac{1}{4}x - \tfrac{1}{4}x^4 + x^2 + c^2 - 2xc} = \sqrt{-\tfrac{1}{4}x^4 + x^2 - \tfrac{31}{36}x + \tfrac{25}{81}}.$$
+
+Part B. Analytical interlude
+
+Let $g(x) > 0$ be a differentiable strictly positive function.
+
+i. Expand $\dfrac{d\sqrt{g(x)}}{dx}$, the derivative of the square root of $g(x)$.
+
+We can use the generic formula
+
+$$\frac{dg^n(x)}{dx} = n\,g^{n-1}(x)\,\frac{dg(x)}{dx}.$$
+
+Here we have the case $n = \frac{1}{2}$, so
+
+$$\frac{d\sqrt{g(x)}}{dx} = \frac{1}{2\sqrt{g(x)}}\,\frac{dg(x)}{dx}.$$
+
+Full points are awarded as long as the answer is in the required final form, even if the general formula is not explicitly stated.
+
+ii. Prove that the sign of $\dfrac{d\sqrt{g(x)}}{dx}$ is always equal to that of $\dfrac{dg(x)}{dx}$.
+
+$$g(x) > 0 \Rightarrow \sqrt{g(x)} > 0 \Rightarrow \frac{1}{2\sqrt{g(x)}} > 0.$$
+
+Thus, the factor in front of the derivative does not change the sign, so both will always be equal. This is particularly valid for the case $0$: if the derivative of $g(x)$ is zero, then so is the derivative of $\sqrt{g(x)}$.
+
+Part C. Stability of the deposited egg
+
+Now place the egg on a horizontal surface and identify the point where the egg contacts the surface by its coordinate $x$.
+
+SOLUTION
+
+i. The positions $a = 0$ and $b = 1$ are equilibrium positions, due to axial symmetry. Determine the stability of these two positions using the expression $r(x)$ obtained in A.iii., and applying the result shown in B.ii.
+
+To study stability, we need to compute the derivative of the radius found in A.iii. However, we are only interested in its sign; therefore, according to B.ii., instead we can compute the derivative of its square, $P(x)$.
+
+$$\frac{dP(x)}{dx} = -x^3 + 2x - \frac{31}{36}.$$
+
+For $x = a = 0$, $\left.\dfrac{dP(x)}{dx}\right|_a = -\dfrac{31}{36} < 0$.
+
+This means that all values slightly larger than $a$ lead to a smaller $r^2$, thus also to a smaller $r$. Since $a$ is at the end of the domain, it corresponds to a local maximum of the radius, and therefore $a$ is an unstable equilibrium.
+
+For $x = b = 1$, $\left.\dfrac{dP(x)}{dx}\right|_b = -1 + 2 - \dfrac{31}{36} = \dfrac{5}{36} > 0$.
+
+This means that all values slightly smaller than $b$ again lead to a smaller $r^2$, thus also to a smaller $r$. Since $b$ is at the other end of the domain, it corresponds to a local maximum of the radius, and therefore $b$ is an unstable equilibrium as well.
+
+There exists a position $a < s < b$ at which the egg lying on its side is in stable equilibrium.
+
+ii. What is special about $r(s)$?
+
+It is a local minimum of $r(x)$, and in fact its only minimum.
+
+Give 0.5 point if it is only mentioned that the segment of $r(s)$ is perpendicular to the egg's surface.
+
+iii. Find a polynomial equation for $s$.
+
+The condition for $s$ is that the derivative of the radius is zero.
+
+Again we can use B.ii. and only consider the derivative of $P(x)$.
+
+Thus the equation is
+
+$$-s^3 + 2s - \frac{31}{36} = 0.$$
+
+SOLUTION
+
+Unfortunately, this polynomial equation is not (easily) solvable. We will therefore seek an approximation using a Taylor expansion.
+
+iv. Choose a good starting point $t$ for the expansion. Justify your choice.
+
+If the egg were symmetric, that is an ellipse, $s$ would be at the center ($\frac{1}{2}$).
+
+The egg is not very asymmetric, so $t = \frac{1}{2}$ is a good starting point, and easy to compute.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p15_f9.png]]
+*conducting sphere with mass Figure D.1*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p25_f13.png]]
+*field lines, plane conducting surface with mass*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p27_f14.png]]
+*field lines, system of four symmetric charges*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p28_f15.png]]
+*conducting sphere Figure D.1 solution*
+<!--fig:end-->
 
 
 

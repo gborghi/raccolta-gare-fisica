@@ -162,26 +162,19 @@ Il grafico di $a(t)$ e le quattro opzioni $v(t)$ sono figure embedded nel PDF; f
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Aufgabe 2 — Bewegung! (MC-task) (5%) **
+**Problem 2 — Motion! (MC problem) (5 points)**
 
-**Deutscher.** Der nebenstehende Graph zeigt die Beschleunigung $a$ eines Körpers bei einer eindimensionalen Bewegung als Funktion der Zeit $t$.
+**German.** The graph opposite shows the acceleration $a$ of a body during a one-dimensional motion as a function of time $t$.
 
-Which of the following graphs correctly represents the body's $v$ speed as a function of time?
+Which of the following graphs correctly represents the velocity $v$ of the body as a function of time?
 
 **Problem (English translation).** The graph opposite shows the acceleration $a$ of a body during a one-dimensional movement as a function of time $t$.
 
 Which of the following graphs correctly represents the speed $v$ of the body as a function of time?
 
-*(Il grafico di $a(t)$ e le quattro opzioni $v(t)$ sono figure embedded nel PDF; fare riferimento alla pagina PDF originale.)*
-
+*(The graph of $a(t)$ and the four options $v(t)$ are figures embedded in the PDF; refer to the original PDF page.)*
 
 ---
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 
 
@@ -642,38 +635,29 @@ The heating elements are designed in such a way that they heat the entire mass o
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Testione 10  Fusione di ghiaccio (Testione MC) **
+**Problema 10 — Sciogliere il ghiaccio (domanda a scelta multipla)**
 
-**Deutscher.** An einem kalten Wintertag stehen drei identische, nicht isolierte Holzkisten vor dem Haus, die jeweils mit der gleichen Menge Eis der Temperatur $0{,}0\ ^\circ\text{C}$ befüllt werden. Per far fondere il ghiaccio, viene inserito un elemento elettrico di riscaldamento in ciascuna delle scatole. Gli elementi di riscaldamento sono identici, ma sono operati con tensioni diverse.
+**Italiano.** In un freddo giorno invernale, tre scatole di legno identiche e non isolate sono poste davanti alla casa, ognuna riempita con la stessa quantità di ghiaccio alla temperatura $0{,}0\ ^\circ\text{C}$. Per sciogliere il ghiaccio, in ciascuna scatola viene inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici, ma vengono alimentati con tensioni diverse.
 
-Nella prima casella, il caldaio è operato con una tensione $80\ \text{V}$. Tutto il ghiaccio nella scatola si scioglie in $20{,}0$ minuti. All'elemento di riscaldamento della seconda scatola viene applicata una tensione $120\ \text{V}$, che completa il ghiaccio in soli $4{,}0$ minuti. Nella terza casella viene utilizzata una tensione $40\ \text{V}$ per il caldo.
+Nella prima scatola, l'elemento riscaldante viene alimentato con una tensione di $80\ \text{V}$. L'intero ghiaccio nella scatola si scioglie in $20{,}0$ minuti. All'elemento riscaldante della seconda scatola viene applicata una tensione di $120\ \text{V}$, con il risultato che il ghiaccio si scioglie completamente in soli $4{,}0$ minuti. Nella terza scatola viene utilizzata una tensione di $40\ \text{V}$ per l'elemento riscaldante.
 
-Gli elementi di riscaldamento sono progettati per riscaldare contemporaneamente l'intera massa di ghiaccio nella cassa. Supponiamo che l'acqua in fumo non si riscalda attraverso l'elemento termico. Quale delle seguenti affermazioni è quindi corretta per il fuso dell'acqua in questa terza scatola?
+Gli elementi riscaldanti sono progettati in modo da scaldare contemporaneamente tutta la massa di ghiaccio contenuta nella rispettiva scatola. Si assuma che l'acqua di fusione non venga riscaldata dall'elemento riscaldante. Quale delle seguenti affermazioni è corretta riguardo allo scioglimento del ghiaccio nella terza scatola?
 
-- (A) Per fondere l'intero ghiaccio nella terza scatola occorrono circa $80$ minuti.
-- (B) Per fondere l'intero ghiaccio nella terza scatola occorrono circa $100$ minuti.
-- (C) Per fondere l'intero ghiaccio nella terza scatola occorrono circa $130$ minuti.
-- (D) Con la tensione utilizzata non è possibile fondere l'intero ghiaccio.
+- (A) Per sciogliere tutto il ghiaccio nella terza scatola sono necessari circa $80$ minuti.
+- (B) Per sciogliere tutto il ghiaccio nella terza scatola sono necessari circa $100$ minuti.
+- (C) Per sciogliere tutto il ghiaccio nella terza scatola sono necessari circa $130$ minuti.
+- (D) Con la tensione utilizzata, non è possibile sciogliere tutto il ghiaccio.
 
-**Problem (English translation).** On a cold winter's day, there are three identical, non-insulated wooden boxes in front of the house, each filled with the same amount of ice at a temperature of $0.0\ ^\circ\text{C}$. Per fondere il ghiaccio, un elemento di riscaldamento elettrico viene posto in ciascuna delle scatole. Gli elementi di riscaldamento sono identici, ma sono operati con voltaggi diversi.
+**Problema (traduzione italiana).** In un freddo giorno invernale si trovano davanti alla casa tre scatole di legno identiche, non isolate, ognuna riempita con la stessa quantità di ghiaccio alla temperatura di $0.0\ ^\circ\text{C}$. Per fondere il ghiaccio, in ciascuna scatola viene inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici, ma funzionano con tensioni diverse.
 
-In the first box, the heating element is operated with a voltage of $80\ \text{V}$. All of the ice in the box si scioglierà in $20.0$ minuti. Un voltage di $120\ \text{V}$ viene applicato all'elemento di riscaldamento della seconda scatola, in cui il ghiaccio si scioglie completamente in appena $4.0$ minuti. In the third box, a voltage of $40\ \text{V}$ is used for the heating element.
+Nella prima scatola, l'elemento riscaldante è alimentato con una tensione di $80\ \text{V}$. In questo caso, tutto il ghiaccio nella scatola si scioglierà in $20.0$ minuti. Nella seconda scatola, viene applicata una tensione di $120\ \text{V}$ all'elemento riscaldante, e il ghiaccio si scioglie completamente in soli $4.0$ minuti. Nella terza scatola, viene utilizzata una tensione di $40\ \text{V}$ per l'elemento riscaldante.
 
-Gli elementi di riscaldamento sono progettati in modo da riscaldare l'intera massa di ghiaccio nella rispettiva scatola allo stesso tempo. Supponiamo che l'acqua meltante non sia riscaldata dall'elemento riscaldante. Quale delle seguenti affermazioni è quindi vero per il melting of the ice in the third box?
+Gli elementi riscaldanti sono progettati in modo tale da scaldare contemporaneamente tutta la massa di ghiaccio contenuta nella rispettiva scatola. Si assuma che l'acqua di fusione non venga riscaldata dall'elemento riscaldante. Quale delle seguenti affermazioni è allora vera per la fusione del ghiaccio nella terza scatola?
 
-- (A) It takes about $80$ minutes to melt all of the ice in the third box.
-- (B) It takes about $100$ minutes to melt all of the ice in the third box.
-- (C) It will take about $130$ minutes to melt all of the ice in the third box.
+- (A) Per fondere tutto il ghiaccio nella terza scatola occorrono circa $80$ minuti.
+- (B) Per fondere tutto il ghiaccio nella terza scatola occorrono circa $100$ minuti.
+- (C) Per fondere tutto il ghiaccio nella terza scatola occorrono circa $130$ minuti.
 - (D) Con la tensione utilizzata, non è possibile fondere tutto il ghiaccio.
-
-
----
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -848,32 +832,25 @@ $$E = 9.38\ \text{TeV} = 9.38 \times 10^{12}\ \text{eV}.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Aufgabe 12 — Supernova in Barnards Galaxie**
+**Quesito 12 — Supernova nella galassia di Barnard**
 
-**Deutscher.** Bei einer Supernova in Barnards Galaxie, einer Nachbargalaxie unserer Milchstraße, gehen ein Photon und ein Proton gleichzeitig auf die Reise zur Erde. Dort wird das Proton $72$ Stunden später registriert als das Photon. L'energia totale del protone è
+**Tedesco.** In una supernova nella galassia di Barnard, una galassia vicina alla nostra Via Lattea, un fotone e un protone partono contemporaneamente verso la Terra. Lì il protone viene registrato $72$ ore più tardi del fotone. L'energia totale del protone è
 
 $$E = 9{,}38\ \text{TeV} = 9{,}38 \times 10^{12}\ \text{eV}.$$
 
-- (A) Indicare che l'energia totale del protone è circa $10\,000$ volte la sua energia di riposo.
-- (B) Calcolare la distanza dalla Terra alla quale si è verificata la supernova. Indica il tuo risultato in anni luce.
-- (C) Determina quanto tempo ha durato il viaggio del protone nel suo sistema di riferimento.
+- (A) Mostra che l'energia totale del protone è circa $10\,000$ volte la sua energia a riposo.
+- (B) Calcola a quale distanza dalla Terra è avvenuta la supernova. Fornisci il tuo risultato in anni luce.
+- (C) Determina quanto è durato il viaggio del protone nel suo sistema di riferimento.
 
-**Problem (English translation).** In the case of a supernova in Barnard's galaxy, a neighboring galaxy to our Milky Way, a photon and a proton travel to Earth at the same time. There the proton is registered $72$ hours later than the photon. L'energia totale del protone è
+**Problema (traduzione inglese).** Nel caso di una supernova nella galassia di Barnard, una galassia vicina alla nostra Via Lattea, un fotone e un protone viaggiano verso la Terra contemporaneamente. Lì il protone viene registrato $72$ ore più tardi del fotone. L'energia totale del protone è
 
 $$E = 9.38\ \text{TeV} = 9.38 \times 10^{12}\ \text{eV}.$$
 
-- (A) Mostra che l'energia totale del protone è circa $10\,000$ volte la sua energia residuale.
-- (B) Calcolare la distanza dalla terra a cui si è verificata la supernova. Date il vostro risultato in anni luce.
-- (C) Determina quanto tempo il viaggio del protone ha impiegato nel suo frame of reference.
-
+- (A) Mostra che l'energia totale del protone è circa $10\,000$ volte la sua energia a riposo.
+- (B) Calcola la distanza dalla Terra a cui è avvenuta la supernova. Fornisci il tuo risultato in anni luce.
+- (C) Determina quanto è durato il viaggio del protone nel suo sistema di riferimento.
 
 ---
-
-**Topic:** [[Special Relativity]], [[Astrophysics]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

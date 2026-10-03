@@ -189,13 +189,7 @@ Il problema 4 (Krotov, Kalda). Due superfici inclinate a forma di cucina ($\mu =
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 5 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 2 del problema 1 del problema 1 del problema 2 del problema 1 del problema 2 del problema 2 del problema 1 del problema 2 del problema 2 del problema 2 del problema 1 del problema 2 del problema 2 del problema 2 del problema 2 del problema 1 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 2 del problema 3 del problema 2 del problema 1 del problema 2 del problema 1 del problema 2 del problema 3 del problema 2 del problema 1 del problema 1 del problema 2 del problema 1 del problema 1 del problema 2 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema 1 del problema Il problema 2.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+**Problema 5** (OLIMPIADE INTERNAZIONALE DI FISICA 1984). Problema 2.
 
 
 
@@ -261,21 +255,15 @@ An equilibrium angle corresponds to the angle with respect to the vertical where
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 7 è stato risolto in base al testo del testo del testo del regolamento (CE) n. In questo problema, esploreremo il vero modello gravitazionale della terra, non quello che viene affermato nella maggior parte dei libri di testo. Contrariamente alla credenza popolare, la Terra è un cerchio piatto di raggio $R$ e ha una massa uniforme per unità di area $\sigma$. La Terra ruota con velocità angolare $\omega$.
+**Problema 7** (2020 OPhO). In questo problema esploreremo il vero modello gravitazionale della Terra, non quello che viene affermato nella maggior parte dei libri di testo. Contrariamente al comune credere, la Terra è un disco piatto di raggio $R$ e ha una massa uniforme per unità di superficie $\sigma$. La Terra ruota con velocità angolare $\omega$.
 
-(a) Un pendolo di lunghezza $\ell$ che è costretto a muoversi solo in un piano è posto sul terreno al centro della Terra. Il pendolo ha più di una frequenza angolare di piccole oscillazioni. Trova il valore di ogni frequenza angolare di piccole oscillazioni $\Omega(0), \Omega_1(0), \ldots$ in termini di $\sigma$, $\omega$, $\ell$ e costanti fisiche e l'angolo di equilibrio $\theta, \theta_1, \ldots$ a cui si verifica la frequenza. Supponiamo per tutte le parti che $\ell \ll R$.
+(a) Un pendolo di lunghezza $\ell$, vincolato a muoversi solo in un piano, viene posto sul terreno al centro della Terra. Il pendolo ha più di una frequenza angolare per piccole oscillazioni. Trovare il valore di ciascuna frequenza angolare delle piccole oscillazioni $\Omega(0), \Omega_1(0), \ldots$ in termini di $\sigma$, $\omega$, $\ell$ e costanti fisiche, nonché l'angolo di equilibrio $\theta, \theta_1, \ldots$ in cui si verifica tale frequenza. Si assuma per tutte le parti che $\ell \ll R$.
 
-Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale dove c'è un punto di equilibrio.
+Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui si ha un punto di equilibrio.
 
-b) L'intero pendolo è spostato a distanza orizzontale $r \ll R$ dal centro della Terra. È orientata in modo tale che sia costretta a muoversi solo nella direzione radial. Ora, trovare la nuova frequenza angolare $\Omega(r)$ di piccole oscillazioni circa il punto di equilibrio più basso in termini di parametri dati, supponendo che $\omega^2 r$ è molto inferiore all'accelerazione gravitazionale locale.
+(b) L'intero pendolo viene spostato una distanza orizzontale $r \ll R$ dal centro della Terra. Viene orientato in modo da essere vincolato a muoversi solo nella direzione radiale. Ora, trovare la nuova frequenza angolare $\Omega(r)$ delle piccole oscillazioni attorno al punto di equilibrio più basso, in termini dei parametri dati, assumendo che $\omega^2 r$ sia molto minore dell'accelerazione gravitazionale locale.
 
-*Nota: Le parti che non utilizzano il formalismo lagrangiano sono state rimosse.*
-
-**Topic:** [[Gravitation]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+*Nota: Le parti che non utilizzano il formalismo lagrangiano sono state escluse.*
 
 
 

@@ -111,23 +111,17 @@ Usando i dati seguenti calcola il rapporto $d_V / d_L$ e riporta i tuoi risultat
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of units of measurement used:
+**INTERMOLECULAR DISTANCE**
 
-The quantities $d_L$ and $d_V$ represent the mean distances between water molecules in the liquid phase and vapor phase respectively. Both of these phases are at $100\ ^\circ\text{C}$ temperature and atmospheric pressure; the steam can be treated as a perfect gas.
+The quantities $d_L$ and $d_V$ represent the average distances between water molecules, respectively in the liquid phase and in the vapor phase. Both phases are at a temperature of $100\ ^\circ\text{C}$ and atmospheric pressure; the vapor may be treated as an ideal gas.
 
-Using the following data, calculate the $d_V / d_L$ ratio and report your results to the answer sheet. The following is the list of the countries of the European Union:
+Using the following data, calculate the ratio $d_V / d_L$ and record your results in the answer sheet. [2.5 pts]
 
-- Density of water in liquid phase: $\rho_L = 1{,}0 \times 10^3\ \text{kg/m}^3$
+- Density of water in the liquid phase: $\rho_L = 1{,}0 \times 10^3\ \text{kg/m}^3$
 - Molar mass of water: $M = 1{,}8 \times 10^{-2}\ \text{kg/mol}$
-- Air pressure: $P_a = 1{,}0 \times 10^5\ \text{N/m}^2$
+- Atmospheric pressure: $P_a = 1{,}0 \times 10^5\ \text{N/m}^2$
 - Gas constant: $R = 8{,}3\ \text{J/(mol·K)}$
-- Avogadro number: $N_A = 6{,}0 \times 10^{23}\ \text{mol}^{-1}$
-
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1rqWeeCgKGYUTpoRvetJ6HraSuu5HwfEF/view)
+- Avogadro's number: $N_A = 6{,}0 \times 10^{23}\ \text{mol}^{-1}$
 
 
 
@@ -172,37 +166,31 @@ f) Ti viene fornita una ulteriore sorgente, variabile, di tensione continua. Pro
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to this Regulation:
+**SIMPLE SAWTOOTH SIGNAL GENERATOR**
 
-A $V_0$ saw-tooth voltage can be obtained at the capacitor heads $C$ (Fig. 1). $R$ is a variable resistance, $V_i$ is an ideal battery, SG (*spark gap*) is a pair of electrodes, adjustable distance, between which a spark can be triggered. When the potential difference between the electrodes reaches the discharge voltage $V_f$, a discharge in the air is produced that shortens the electrodes. The discharge remains until the potential difference between the same electrodes becomes very small.
+A sawtooth voltage $V_0$ can be obtained across the capacitor $C$ (Fig. 1). $R$ is a variable resistor, $V_i$ is an ideal battery, SG (*spark gap*) is a pair of electrodes with adjustable separation, between which a spark can occur. When the potential difference across the electrodes reaches the breakdown voltage $V_f$, a discharge occurs in the air that shorts the electrodes. The discharge persists until the potential difference between the electrodes becomes very small.
 
-(a) Draw the waveform of $V_0$ as a function of the time $t$ after the switch is closed. The following information shall be provided:
+a) Draw the waveform of $V_0$ as a function of time $t$, after closing the switch. [0.5 pts]
 
-(b) What condition must be met to obtain a wave $V_0$ of sawdust that grows in a practically linear manner? Report your results in the answer sheet. The following information is provided:
+b) What condition must be satisfied to obtain a practically linearly increasing sawtooth waveform $V_0$? Write your result on the answer sheet. [0.2 pts]
 
-(c) Derives a simplified expression for the period $T$ of the waveform, valid when this condition is met. Report your results in the answer sheet. The following is the list of the countries of the European Union:
+c) Derive a simplified expression for the period $T$ of the waveform, valid when this condition is satisfied. Write your result on the answer sheet. [0.4 pts]
 
-d) What should you change ($R$ and/or SG) to change only the period? Report your results in the answer sheet. The following information is provided:
+d) What should you vary ($R$ and/or SG) to change only the period? Write your result on the answer sheet. [0.2 pts]
 
-What should you vary ($R$ and/or SG) to change only the width? Report your results in the answer sheet. The following information is provided:
+e) What should you vary ($R$ and/or SG) to change only the amplitude? Write your result on the answer sheet. [0.2 pts]
 
-(f) You are provided with an additional, variable, continuous voltage source. Design and draw a new circuit indicating the terminals where to obtain a voltage that has the waveform indicated in Fig. 2 (sawing teeth with variable voltage offset). The following is the list of the countries of the European Union:
+f) You are given an additional variable source of continuous voltage. Design and draw a new circuit, indicating the terminals where you can obtain a voltage with the waveform shown in Figure 2 (a sawtooth wave with variable offset). [1.0 pts]
 
 <!--fig:start-->
-The following table shows the results of the calculations: 1)
+**p.3** — Sawtooth wave generator circuit (Figure 1)
 ![[_attachments/IT-Theo1_2/IT-Theo1_2_p3_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculation of the weighted average weight of the samples: 2)
+**p.3** — Sawtooth waveform (Figure 2)
 ![[_attachments/IT-Theo1_2/IT-Theo1_2_p3_f3.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1rqWeeCgKGYUTpoRvetJ6HraSuu5HwfEF/view)
 
 
 
@@ -232,19 +220,13 @@ Stima il diametro del fascio dopo che ha percorso orizzontalmente una lunghezza 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of atoms in the sample:
+**ATOMIC BEAM**
 
-A beam of atoms is prepared by vaporizing a sample at $T$ temperature in an oven. The atoms are allowed out horizontally through a small lateral hole (atomic size) of $D$ diameter.
+A beam of atoms is produced by vaporizing a sample at temperature $T$ in an oven. The atoms are allowed to exit horizontally through a small lateral hole (with atomic-scale dimensions) of diameter $D$.
 
-Estimate the beam diameter after it has traveled horizontally a length $L$. The mass of an atom is $M$. The following is the list of the countries of the European Union:
+Estimate the beam's diameter after it has traveled a horizontal distance $L$. The mass of one atom is $M$. [2.5 pts]
 
 <!--fig:start-->
-**p.4 **  Furnace with hole and atomic beam
+**p.4** — Oven with hole and atomic beam
 ![[_attachments/IT-Theo1_2/IT-Theo1_2_p4_f4.png]]
 <!--fig:end-->
-
-**Topic:** [[Kinetic Theory]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Particle Beam (object)|Particle Beam]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1rqWeeCgKGYUTpoRvetJ6HraSuu5HwfEF/view)

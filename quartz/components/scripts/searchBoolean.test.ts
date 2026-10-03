@@ -24,6 +24,7 @@ import {
   showResultCount,
   type AtomEl,
   markResultCount,
+  type RowFields,
 } from "./searchBoolean"
 
 // Tiny fake engine with the same semantics as the plain FlexSearch query used by the
@@ -52,23 +53,16 @@ const run = async (q: string) => {
   return (await evaluateBoolean((plan as any).ast, ctx)).sort((a, b) => a - b)
 }
 
-describe("detection: plain queries keep the original path", () => {
-  for (const q of [
-    "energia",
-    "quantità di moto",
-    "urto e energia",
-    "moto o quiete",
-    "energia and urto",
-    "not energia",
-    "x-ray",
-    "forza-peso",
-    "2016",
-    "",
-  ]) {
-    test(`plain: ${JSON.stringify(q)}`, () => {
+describe("detection: every query with a searchable word uses the boolean engine", () => {
+  for (const q of ["energia", "x-ray", "forza-peso", "2016", "di moto", "quantità di moto", "urto e energia", "moto o quiete", "energia and urto", "not energia"]) {
+    test(`no operators, still boolean (implicit AND): ${JSON.stringify(q)}`, () => {
       assert.strictEqual(hasBooleanSyntax(q), false)
-      const plan = planQuery(q)
-      assert.deepStrictEqual(plan, { mode: "plain", query: q })
+      assert.strictEqual(planQuery(q).mode, "boolean")
+    })
+  }
+  for (const q of ["", "di", "a", "e di x"]) {
+    test(`plain (nothing searchable): ${JSON.stringify(q)}`, () => {
+      assert.deepStrictEqual(planQuery(q), { mode: "plain", query: q })
       assert.strictEqual(displayTerm(q), q)
     })
   }
@@ -361,7 +355,7 @@ describe("v3: multi-word operands, stopwords, highlight", () => {
     assert.deepStrictEqual(highlightTerms(parseBooleanQuery("the spring AND a") as any), ["spring"])
     assert.strictEqual((planQuery('"di" OR il') as any).highlight, "di il") // only stopwords: kept
   })
-  test("multi-word operand: literal word order first, 'di' never searched alone", async () => {
+  test("multi-word operand: literal word order first, 'di' never searched alone (space == AND)", async () => {
     const D = ["moto di quantità studiare", "quantità di moto conservata", "dimostri la quantità del moto"]
     const asked: string[] = []
     const c: EvalContext = {
@@ -379,7 +373,7 @@ describe("v3: multi-word operands, stopwords, highlight", () => {
     const ids = await evaluateBoolean(plan.ast, c)
     assert.strictEqual(ids[0], 1)
     assert.deepStrictEqual([...ids].sort(), [0, 1, 2])
-    assert.ok(asked.includes("quantità moto"))
+    assert.ok(asked.includes("quantità") && asked.includes("moto"))
     assert.ok(!asked.some((a) => a.split(" ").includes("di")))
   })
 })
@@ -715,6 +709,35 @@ describe("v5: phrase = the phrase or its synonym phrases, nothing more", () => {
       for (const id of await run(`"${v}"`)) u.add(id)
     }
     assert.ok(p.every((id) => u.has(id)), `${p} ⊄ ${[...u]}`)
+  })
+  test("space == AND: every spelling of the same words gives the same set", async () => {
+    const ref = await run("quantità AND moto")
+    for (const q of ["quantità di moto", "quantità AND di AND moto", "(quantità moto)", "moto quantità AND di"]) {
+      assert.deepStrictEqual(await run(q), ref, q)
+    }
+    assert.deepStrictEqual(ref, [0, 1, 3, 5, 6]) // words AND-ed (0, 5, 6) + the term's synonyms (1, 3)
+  })
+  test("a phrase is a subset of its words AND-ed", async () => {
+    const and = new Set(await run("quantità moto"))
+    for (const q of ['"quantità di moto"', '"momentum"', '"moto"']) {
+      const p = await run(q)
+      if (q !== '"momentum"') assert.ok(p.every((id) => and.has(id)), `${q}: ${p} ⊄ ${[...and]}`)
+    }
+    assert.ok(!(await run('"quantità di moto"')).includes(6)) // words, not the phrase
+  })
+  test("unquoted multi-word query: literal order ranks first", async () => {
+    assert.strictEqual((await run("quantità di moto"))[0], 0)
+  })
+  test("row matcher: space == AND, phrase ⊆ AND", () => {
+    setSynonyms(SYN5)
+    const rows: [string, RowFields][] = D.map((d) => [d.t, { methods: d.m }])
+    const sel = (q: string) => rows.map((r, i) => (makeRowMatcher(q)!(r[0], r[1]) ? i : -1)).filter((i) => i >= 0)
+    const and = sel("quantità AND moto")
+    assert.deepStrictEqual(sel("quantità di moto"), and)
+    assert.deepStrictEqual(sel("quantità AND di AND moto"), and)
+    assert.ok(sel('"quantità di moto"').every((i) => and.includes(i)))
+    assert.ok(and.includes(6) && !sel('"quantità di moto"').includes(6))
+    assert.ok(!and.includes(4)) // angular momentum
   })
   test("row matcher: same synonym rule on metadata", () => {
     setSynonyms(SYN5)

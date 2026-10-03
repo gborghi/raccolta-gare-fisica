@@ -38,8 +38,10 @@
 //                    evaluation; original-term hits rank first. Plain queries keep
 //                    the original code path and only APPEND synonym-only results.
 //
-// A query WITHOUT any of the syntax above is "plain": the caller must run the
-// original, untouched search code path (identical results/ranking).
+// A query WITHOUT any of the syntax above is evaluated the same way (bare words =
+// implicit AND), so adding an operator never changes what the words alone mean. Only a
+// query with no searchable word (empty, stopwords, 1-letter tokens) is "plain": the
+// caller runs the original search code path.
 // A malformed query (unbalanced parens/quotes, dangling operator, empty group)
 // degrades to a plain search on the query stripped of operator syntax. Never throws.
 
@@ -308,7 +310,14 @@ export function highlightTerms(node: BoolNode): string[] {
 /** Decide how a (tag-stripped) query must be searched. Never throws. */
 export function planQuery(query: string): QueryPlan {
   try {
-    if (!hasBooleanSyntax(query)) return { mode: "plain", query }
+    if (!hasBooleanSyntax(query)) {
+      // Every query with a searchable word is evaluated by the boolean engine, so the
+      // same words always give the same set: `urto` ⊇ `urto -elastico`, space == AND
+      // (`triangolo isoscele` == `triangolo AND isoscele`), `"a b"` ⊆ `a b`.
+      // Only queries without one (empty, stopwords, 1-letter tokens) keep the plain path.
+      const content = query.split(/\s+/).filter((w) => w.length > 1 && !isStopword(w))
+      if (content.length < 1) return { mode: "plain", query }
+    }
     const ast = parseBooleanQuery(query)
     if (!ast) {
       const stripped = stripBooleanSyntax(query)
@@ -356,6 +365,8 @@ export interface SynonymGroup {
 let synMap: Map<string, string[]> = new Map()
 /** Every dictionary term (padHay form) -> its group's head term (first, usually Italian). */
 let synHead: Map<string, string> = new Map()
+/** Sorted content words of a multi-word dictionary term ("moto quantita") -> the term ("quantita di moto"). */
+let conceptIndex: Map<string, string> = new Map()
 
 /** Install the synonym dictionary (format of static/sinonimi.json). */
 export function setSynonyms(groups: SynonymGroup[] | null | undefined): void {
@@ -371,6 +382,12 @@ export function setSynonyms(groups: SynonymGroup[] | null | undefined): void {
   }
   synMap = new Map([...m].map(([k, v]) => [k, [...v]]))
   synHead = new Map()
+  conceptIndex = new Map()
+  for (const t of synMap.keys()) {
+    const cw = t.split(" ").filter((w) => w.length > 1 && !isStopword(w))
+    const key = [...new Set(cw)].sort().join(" ")
+    if (cw.length >= 2 && !conceptIndex.has(key)) conceptIndex.set(key, t)
+  }
   for (const g of Array.isArray(groups) ? groups : []) {
     const terms = (g?.termini || []).map((t) => padHay(t).trim()).filter(Boolean)
     if (terms.length < 2) continue
@@ -699,6 +716,57 @@ export interface EvalContext {
 type Scored = Map<number, number> // id -> rank score (lower = better)
 
 /**
+ * Operands of a conjunction, normalized so that SPACE == AND:
+ *  - nested ANDs and multi-word bare groups are flattened into single words
+ *    (`triangolo isoscele`, `triangolo AND isoscele`, `(triangolo isoscele)` are equal);
+ *  - stopwords / 1-letter words are dropped when the conjunction has another operand
+ *    ("di" would prefix-match "dimostri");
+ *  - consecutive words whose content words are a multi-word dictionary term become a
+ *    "concept" (`quantità di moto`, `quantità AND moto` -> "quantità di moto"): the words
+ *    AND-ed, OR the term's synonym phrases ("momentum"...). A quoted phrase matches a
+ *    subset of that, so `"a b"` ⊆ `a b` == `a AND b`.
+ * `runs` = typed multi-word groups: documents containing them literally rank first.
+ */
+type ConjItem = BoolNode | { type: "concept"; term: string; words: string[] }
+function conjItems(children: BoolNode[]): { items: ConjItem[]; runs: string[] } {
+  const flat: BoolNode[] = []
+  const runs: string[] = []
+  const walk = (c: BoolNode) => {
+    if (c.type === "and") c.children.forEach(walk)
+    else if (c.type === "terms" && /\s/.test(c.text.trim())) {
+      runs.push(c.text.trim())
+      for (const w of c.text.split(/\s+/)) if (w) flat.push({ type: "terms", text: w })
+    } else flat.push(c)
+  }
+  children.forEach(walk)
+  const weak = (c: BoolNode) => c.type === "terms" && (c.text.length < 2 || isStopword(c.text))
+  const kept = flat.some((c) => c.type !== "not" && !weak(c)) ? flat.filter((c) => !weak(c)) : flat
+  // AND is commutative: any subset of the positive words (largest first) that equals the
+  // content words of a dictionary term becomes that concept, whatever the order
+  const items: ConjItem[] = []
+  const wordIdx = kept.map((c, i) => (c.type === "terms" ? i : -1)).filter((i) => i >= 0)
+  const used = new Set<number>()
+  if (conceptIndex.size > 0 && wordIdx.length >= 2 && wordIdx.length <= 10) {
+    const subsets: number[][] = []
+    for (let mask = 1; mask < 1 << wordIdx.length; mask++) {
+      const sub = wordIdx.filter((_, b) => mask & (1 << b))
+      if (sub.length >= 2) subsets.push(sub)
+    }
+    subsets.sort((a, b) => b.length - a.length || a[0]! - b[0]!)
+    for (const sub of subsets) {
+      if (sub.some((i) => used.has(i))) continue
+      const words = sub.map((i) => (kept[i] as { text: string }).text)
+      const term = conceptIndex.get([...new Set(words.map(foldText))].sort().join(" "))
+      if (!term) continue
+      sub.forEach((i) => used.add(i))
+      items.push({ type: "concept", term, words })
+    }
+  }
+  kept.forEach((c, i) => used.has(i) || items.push(c))
+  return { items, runs }
+}
+
+/**
  * Rank offsets: literal-phrase hits of a multi-word operand < its other all-words hits <
  * synonym-only hits < metadata-only hits.
  */
@@ -714,25 +782,80 @@ function addRanked(m: Scored, ids: number[], offset: number): void {
   })
 }
 
+/** Hits of one phrase variant: literal (substring for the typed phrase, whole words for a
+ * synonym phrase), then keyword-bag entries holding all its content words as whole words. */
+async function variantHits(variant: string, typed: boolean, ctx: EvalContext): Promise<number[]> {
+  const needle = normalizeText(variant)
+  const literal: number[] = []
+  const loose: number[] = []
+  const seen = new Set<number>()
+  for (const id of await ctx.searchTerms(variant)) {
+    if (seen.has(id)) continue
+    seen.add(id)
+    const t = ctx.textOf(id)
+    if (typed ? normalizeText(t).includes(needle) : containsWhole(t, variant)) literal.push(id)
+    // keyword bag: every content word as a WHOLE word -- the engine's prefix match
+    // alone let "impuls" pull in "impulsi"
+    else if (ctx.isKeywordEntry?.(id) && allWordsWhole(t, variant)) loose.push(id)
+  }
+  return literal.concat(loose)
+}
+
+/** Synonym phrases of a dictionary term: text/keyword hits + metadata (whole-word sequence). */
+async function synonymPhraseHits(alts: string[], m: Scored, ctx: EvalContext): Promise<void> {
+  for (const a of alts) addRanked(m, await variantHits(a, false, ctx), OFF_SYN)
+  if (ctx.metaSearch && alts.length) addRanked(m, ctx.metaSearch("", alts), OFF_META)
+}
+
+/** AND of two scored sets: ranks add up. */
+function intersect(a: Scored, b: Scored): Scored {
+  const next: Scored = new Map()
+  for (const [id, s] of a) {
+    const s2 = b.get(id)
+    if (s2 !== undefined) next.set(id, s + s2)
+  }
+  return next
+}
+
+async function evalConj(children: BoolNode[], ctx: EvalContext): Promise<Scored> {
+  const { items, runs } = conjItems(children)
+  const positives = items.filter((c) => c.type !== "not")
+  const negatives = items.filter((c) => c.type === "not") as { type: "not"; child: BoolNode }[]
+  let acc: Scored | null = null
+  for (const c of positives) {
+    let r: Scored
+    if (c.type === "concept") {
+      // the words AND-ed (each: text/metadata prefix + its own synonyms) ...
+      r = await evalNode({ type: "terms", text: c.words[0]! }, ctx)
+      for (const w of c.words.slice(1)) r = intersect(r, await evalNode({ type: "terms", text: w }, ctx))
+      // ... OR the dictionary term's synonym phrases ("quantità di moto" -> "momentum")
+      if (ctx.expand) await synonymPhraseHits(ctx.expand(c.term), r, ctx)
+    } else r = await evalNode(c, ctx)
+    acc = acc === null ? r : intersect(acc, r)
+    if (acc.size === 0) return acc
+  }
+  if (acc === null) {
+    // only negations: start from the universe
+    acc = new Map(ctx.allIds().map((id) => [id, OFF_META * 2] as [number, number]))
+  }
+  for (const n of negatives) {
+    const ex = await evalNode(n.child, ctx)
+    for (const id of ex.keys()) acc.delete(id)
+  }
+  // typed word groups ("quantità di moto"): documents with the words in this order first
+  for (const run of runs) {
+    const needle = normalizeText(run)
+    for (const [id, s] of acc) if (!normalizeText(ctx.textOf(id)).includes(needle)) acc.set(id, s + OFF_LOOSE)
+  }
+  return acc
+}
+
 async function evalNode(node: BoolNode, ctx: EvalContext): Promise<Scored> {
   switch (node.type) {
     case "terms": {
+      if (/\s/.test(node.text.trim())) return evalConj([node], ctx)
       const m: Scored = new Map()
-      const words = node.text.split(/\s+/).filter(Boolean)
-      if (words.length < 2) {
-        addRanked(m, await ctx.searchTerms(node.text), 0)
-      } else {
-        // multi-word operand ("quantità di moto"): the words in this order rank first
-        // (like a phrase); then the other documents with all the content words
-        // (stopwords are not searched alone: "di" would prefix-match "dimostri")
-        const ids = await ctx.searchTerms(contentWords(node.text).join(" "))
-        const needle = normalizeText(node.text)
-        const literal: number[] = []
-        const loose: number[] = []
-        for (const id of ids) (normalizeText(ctx.textOf(id)).includes(needle) ? literal : loose).push(id)
-        addRanked(m, literal, 0)
-        addRanked(m, loose, OFF_LOOSE)
-      }
+      addRanked(m, await ctx.searchTerms(node.text), 0)
       const alts = ctx.expand ? ctx.expand(node.text) : []
       // synonyms: whole-word only (the engine matches prefixes -> post-filter), ranked
       // after every hit of the typed term
@@ -749,30 +872,13 @@ async function evalNode(node: BoolNode, ctx: EvalContext): Promise<Scored> {
       // phrase literally: for those, all the phrase's words are required (as in a plain
       // query) and they rank after the literal matches. Synonyms of the WHOLE phrase
       // count as literal alternatives (ranked after the original).
-      const variants = [node.text, ...(ctx.expand ? ctx.expand(node.text) : [])]
+      const alts = ctx.expand ? ctx.expand(node.text) : []
       const m: Scored = new Map()
-      for (let v = 0; v < variants.length; v++) {
-        const needle = normalizeText(variants[v]!)
-        const fneedle = variants[v]!
-        const ids = await ctx.searchTerms(variants[v]!)
-        const literal: number[] = []
-        const loose: number[] = []
-        const seen = new Set<number>()
-        for (const id of ids) {
-          if (seen.has(id)) continue
-          seen.add(id)
-          const t = ctx.textOf(id)
-          if (v === 0 ? normalizeText(t).includes(needle) : containsWhole(t, fneedle)) literal.push(id)
-          // keyword bag: every content word of the phrase (or synonym phrase) as a WHOLE
-          // word -- the engine's prefix match alone let "impuls" pull in "impulsi"
-          else if (ctx.isKeywordEntry?.(id) && allWordsWhole(t, fneedle)) loose.push(id)
-        }
-        addRanked(m, literal.concat(loose), v === 0 ? 0 : OFF_SYN)
-      }
-      // metadata: the phrase or a synonym phrase as a contiguous whole-word sequence
-      // (text "" = no word-prefix match), so a phrase never matches more than the union
-      // of its variants
-      if (ctx.metaSearch) addRanked(m, ctx.metaSearch("", variants), OFF_META)
+      addRanked(m, await variantHits(node.text, true, ctx), 0)
+      if (ctx.metaSearch) addRanked(m, ctx.metaSearch("", [node.text]), OFF_META)
+      // synonym phrases: same rule as an unquoted dictionary term, so a phrase never
+      // matches more than the union of its variants, nor more than its words AND-ed
+      await synonymPhraseHits(alts, m, ctx)
       return m
     }
     case "field": {
@@ -790,37 +896,8 @@ async function evalNode(node: BoolNode, ctx: EvalContext): Promise<Scored> {
       for (const id of all) if (!excluded.has(id)) m.set(id, OFF_META * 2)
       return m
     }
-    case "and": {
-      const positives = node.children.filter((c) => c.type !== "not")
-      const negatives = node.children.filter((c) => c.type === "not") as {
-        type: "not"
-        child: BoolNode
-      }[]
-      let acc: Scored | null = null
-      for (const c of positives) {
-        const r = await evalNode(c, ctx)
-        if (acc === null) acc = r
-        else {
-          const next: Scored = new Map()
-          for (const [id, s] of acc) {
-            const s2 = r.get(id)
-            if (s2 !== undefined) next.set(id, s + s2)
-          }
-          acc = next
-        }
-        if (acc.size === 0) return acc
-      }
-      if (acc === null) {
-        // only negations: start from the universe
-        const all = ctx.allIds()
-        acc = new Map(all.map((id) => [id, OFF_META * 2] as [number, number]))
-      }
-      for (const n of negatives) {
-        const ex = await evalNode(n.child, ctx)
-        for (const id of ex.keys()) acc.delete(id)
-      }
-      return acc
-    }
+    case "and":
+      return evalConj(node.children, ctx)
     case "or": {
       const m: Scored = new Map()
       for (const c of node.children) {
@@ -930,10 +1007,21 @@ export function makeRowMatcher(query: string): RowMatcher | null {
     const synHit = (a: string) =>
       wholeIn((hayP ??= padHay(ft)), a) || wholeIn((metaP ??= padHay(meta())), a)
     const termHit = (s: string) => allWords(ft, s) || allWords(meta(), s)
+    const word = (w: string) => termHit(w) || synonymAlternatives(w).some(synHit)
+    // same normalization as the overlay: space == AND, dictionary terms = words AND-ed OR
+    // their synonym phrases
+    const conj = (children: BoolNode[]): boolean => {
+      const { items } = conjItems(children)
+      return items.every((c) =>
+        c.type === "concept"
+          ? c.words.every(word) || synonymAlternatives(c.term).some(synHit)
+          : ev(c),
+      )
+    }
     const ev = (n: BoolNode): boolean => {
       switch (n.type) {
         case "terms":
-          return termHit(n.text) || synonymAlternatives(n.text).some(synHit)
+          return /\s/.test(n.text.trim()) ? conj([n]) : word(n.text)
         case "phrase": {
           const p = foldText(n.text)
           return ft.includes(p) || meta().includes(p) || synonymAlternatives(n.text).some(synHit)
@@ -947,7 +1035,7 @@ export function makeRowMatcher(query: string): RowMatcher | null {
         case "not":
           return !ev(n.child)
         case "and":
-          return n.children.every(ev)
+          return conj(n.children)
         case "or":
           return n.children.some(ev)
       }
@@ -978,13 +1066,13 @@ const HELP_CSS = `/*rgf-boolean-v4*/
 const HELP_HTML =
   `<summary><span class="rgf-q" aria-hidden="true">?</span>Ricerca avanzata: AND, OR, NOT, "frase", campo:valore</summary>` +
   `<ul>` +
-  `<li><code>energia urto</code> tutte le parole (come prima)</li>` +
+  `<li><code>energia urto</code> tutte le parole: lo spazio vale <code>AND</code></li>` +
   `<li><code>energia OR impulso</code> almeno una · <code>AND</code> entrambe</li>` +
   `<li><code>NOT attrito</code> oppure <code>-attrito</code> escludi</li>` +
-  `<li><code>"quantità di moto"</code> frase (prima i testi identici) · <code>( )</code> raggruppa</li>` +
+  `<li><code>"quantità di moto"</code> frase esatta o una sua traduzione: restringe <code>quantità di moto</code> · <code>( )</code> raggruppa</li>` +
   `<li><code>nazione:Japan</code> <code>anno:2019</code> <code>gara:Archimede</code> <code>argomento:geometria</code> filtra per campo (anche <code>livello</code>, <code>difficoltà</code>, <code>metodo</code>, <code>abilità</code>…)</li>` +
   `</ul>` +
-  `<div>Operatori in <b>MAIUSCOLO</b> (“e”, “o” restano parole). Con gli operatori le parole cercano anche nei metadati (nazione, gara, anno, argomento): <code>Brasil AND geometria</code>. Sinonimi in più lingue inclusi (<code>molla</code> = <code>spring</code>, <code>Giappone</code> = <code>Japan</code>).</div>`
+  `<div>Operatori in <b>MAIUSCOLO</b> (“e”, “o” restano parole). Le parole cercano anche nei metadati (nazione, gara, anno, argomento): <code>Brasil geometria</code>. Sinonimi in più lingue inclusi (<code>molla</code> = <code>spring</code>, <code>Giappone</code> = <code>Japan</code>).</div>`
 
 /** Insert the (collapsible, mobile-friendly) syntax hint right below the search input. */
 export function mountSearchHelp(searchSpace: HTMLElement, searchBar: HTMLElement): void {

@@ -1874,21 +1874,16 @@ Na figura abaixo se vê a luz emitida por um dos faróis dianteiro de um automó
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il numero di persone che hanno ricevuto il diploma è stato di circa un milione di persone.
+**Quesito 28**
 
-Nella figura seguente si vede la luce emessa da uno dei fari anteriori di un'auto. Considerando che la lampada è un punto di fuoco, quale specchio è più conveniente per riflettere le luci della lampada e produrre il fascio di luce dell'illustrazione?
+Nella figura sottostante si vede la luce emessa da uno dei fari anteriori di un'automobile. Considerando la lampada un punto nel fuoco, quale tipo di specchio è il più conveniente per riflettere le luci della lampada e produrre il fascio di luce dell'illustrazione?
 
-- **A ** Parabolico.
-- **B ** Convexo.
-- C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C. C.
-- **D.** Le tre precedenti.
-- MSK0/>E.** Piano.
+- **A.** Parabolico.
+- **B.** Convesso.
+- **C.** Concavo.
+- **D.** I tre precedenti.
+- **E.** Piano.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

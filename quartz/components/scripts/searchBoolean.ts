@@ -528,7 +528,8 @@ function shadowsOf(alt: string): RegExp | null {
   }
   out.sort((x, y) => y.length - x.length)
   const esc = (x: string) => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-  const re = out.length ? new RegExp("(?<= )(?:" + out.map(esc).join("|") + ")(?= )", "g") : null
+  // no lookbehind (older Safari): the hay is space-padded, the leading space is kept
+  const re = out.length ? new RegExp(" (?:" + out.map(esc).join("|") + ")(?= )", "g") : null
   shadowCache.set(a, re)
   return re
 }
@@ -541,7 +542,7 @@ function shadowsOf(alt: string): RegExp | null {
 function wholeIn(hay: string, alt: string): boolean {
   if (!plainWholeIn(hay, alt)) return false
   const re = shadowsOf(alt)
-  return re === null || plainWholeIn(hay.replace(re, "~"), alt)
+  return re === null || plainWholeIn(hay.replace(re, " ~"), alt)
 }
 
 /** Synonym alternative occurs as whole word(s) in a raw text. */

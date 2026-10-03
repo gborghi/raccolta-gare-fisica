@@ -6,6 +6,7 @@
 import { promises as fs } from "node:fs"
 import { readdirSync, readFileSync, existsSync } from "node:fs"
 import { nfc, nfcIndex } from "./scripts/vault-paths.mjs"
+import { lookupStem as lookupStemRaw } from "./scripts/concept-lookup.mjs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
@@ -141,15 +142,7 @@ function flagFor(country, comp, pdf) {
 
 // Wikilinks are rewritten to prove/<stem> before the list is extracted, but the
 // flag maps are keyed by the file basename. Look up both, or every row is a globe.
-function lookupStem(map, target) {
-  if (!map || !target) return ""
-  if (Object.prototype.hasOwnProperty.call(map, target)) return map[target] || ""
-  const base = String(target).split("/").pop()
-  if (base && Object.prototype.hasOwnProperty.call(map, base)) return map[base] || ""
-  const noAtom = base.replace(/__[a-z0-9]+$/i, "")
-  if (noAtom && Object.prototype.hasOwnProperty.call(map, noAtom)) return map[noAtom] || ""
-  return ""
-}
+// lookupStem/slugIndex: scripts/concept-lookup.mjs (also resolves post-transform prove/<slug>#<atom> targets)
 
 function sluggify(s) {
   // v5: OFM resolves wikilinks to LOWERCASE hrefs while pages emit at their file
@@ -159,6 +152,7 @@ function sluggify(s) {
     seg.replace(/\s/g, "-").replace(/&/g, "-and-").replace(/%/g, "-percent").replace(/\?/g, "").replace(/#/g, "").toLowerCase()
   ).join("/").replace(/\/$/, "")
 }
+const lookupStem = (map, target, h) => lookupStemRaw(map, target, h, sluggify)
 function slugFromRel(rel) {
   return sluggify(rel.replace(/\.md$/, "").split(path.sep).join("/"))
 }
@@ -293,10 +287,10 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
       h,
       l: (m[3] || target).trim(),
       s: (m[4] || "").trim(),
-      f: lookupStem(stemFlag, target),   // ISO-2 for flagcdn; "" -> globe
-      c: lookupStem(stemCountry, target),
-      lv: lookupStem(stemLevel, target),
-      y: lookupStem(stemYear, target),
+      f: lookupStem(stemFlag, target, h),   // ISO-2 for flagcdn; "" -> globe
+      c: lookupStem(stemCountry, target, h),
+      lv: lookupStem(stemLevel, target, h),
+      y: lookupStem(stemYear, target, h),
     })
   }
   if (!items.length) return null

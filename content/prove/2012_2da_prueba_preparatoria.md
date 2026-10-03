@@ -336,61 +336,57 @@ Determinare la temperatura ambiente con il termometro costruito e confrontarla c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results of the test are given in the following table:
+**Experimental Problem: Construction of a gas thermometer**
 
-The objective is to construct a gas thermometer using easily accessible elements.
+**Objective:** to construct a gas thermometer using easily accessible elements.
 
-The following information is provided by the manufacturer:
+**Brief description**
 
-A gas thermometer uses a gas as a thermometric substance. The principle of operation is that if a certain amount of gas contained in a volume enclosure $V_1$ at a pressure $P_1$ and a temperature $T_1$ comes into contact with a body at a temperature $T_2$, with which it achieves thermal equilibrium, it experiences a change in pressure and volume ($P_2$ and $V_2$).
+A gas thermometer uses a gas as the thermometric substance. The operating principle lies in the fact that if a certain amount of gas enclosed in a chamber of volume $V_1$, at a pressure $P_1$ and at a temperature $T_1$, is brought into contact with a body at a temperature $T_2$, with which it reaches thermal equilibrium, it undergoes a change in pressure and volume ($P_2$ and $V_2$).
 
-Assuming that it is an ideal gas, the change in pressure, volume and temperature will satisfy the ideal gas state equation:
+Assuming that it is an ideal gas, the change in pressure, volume and temperature will satisfy the ideal gas equation of state:
 
 $$PV = nRT,$$
 
-where $P$ is the gas pressure, $n$ the number of gas moles, $V$ the volume it occupies and $T$ the temperature at which it is located.
+where $P$ is the pressure of the gas, $n$ the number of moles of gas, $V$ the volume it occupies and $T$ the temperature at which it is found.
 
-Thus, for a constant number of moles of ideal gas, the ratio of the thermodynamic variables corresponding to state (1) and state (2) is met:
+Thus, for a constant number of moles of ideal gas, the relation between the thermodynamic variables corresponding to state (1) and state (2) is satisfied:
 
 $$\frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}.$$
 
-For the figure, it shall be complied with that:
+For the case of the figure, the following will be satisfied:
 
 $$P_1 = P_\text{atm} + \rho g h_1, \qquad P_2 = P_\text{atm} + \rho g h_2,$$
 
-where $P_\text{atm}$ is the atmospheric pressure ($1{,}013 \times 10^5\ \text{Pa}$), $\rho$ is the water density ($1{,}0\ \text{g\,cm}^{-3}$), $g$ is the acceleration of gravity ($9{,}80\ \text{m\,s}^{-2}$), $A$ is the transverse section of the tube, $h_1$ and $h_2$ are the water levels in each state.
+where $P_\text{atm}$ is the atmospheric pressure ($1{,}013 \times 10^5\ \text{Pa}$), $\rho$ is the density of water ($1{,}0\ \text{g\,cm}^{-3}$), $g$ is the acceleration due to gravity ($9{,}80\ \text{m\,s}^{-2}$), $A$ is the cross-sectional area of the small tube, $h_1$ and $h_2$ are the water levels in each state.
 
-The following approach can be drawn from the above considerations:
+With the above considerations, the following approximation can be reached:
 
 $$T_2 \approx T_1 \left(1 + \frac{\rho g\,(h_2 - h_1)}{P_\text{atm}}\right).$$
 
-The following information shall be provided:
+**Task 1**
 
-To construct a device similar to that shown in the figure. It is important to ensure that the system has no "loss" (using wax, plasticine, etc.); that is, that the amount of gas contained in the enclosure does not change.
+Carry out the construction of a device similar to the one in the figure. It is important to ensure that the system has no "leaks" (using wax, modeling clay, etc.); that is, that the amount of gas enclosed in the chamber does not change.
 
 Elements that may be useful:
-- A container with a lid (sterile flask for analysis)
-- A sorbet or a fine tube
-- Plastiline (little package)
-- Wax candles and matches (under the supervision of the teacher only)
+- A container with a lid (sterile jar for analysis)
+- A straw or thin tube
+- Modeling clay (small package)
+- Wax candle (candle) and matches (only under the teacher's supervision)
 - Water
-- Water heater (under the supervision of the teacher only)
-- Water with ice
-- Auline thermometer
-- The rule .
-- Paper adhesive tape (fine)
-- Lapicera (may be of indelible ink)
+- Water heater (only under the teacher's supervision)
+- Ice water
+- Classroom thermometer
+- Ruler
+- Paper tape (thin)
+- Pen (may be indelible ink)
 
-The following information shall be provided:
+**Task 2**
 
-Calibrate the device to function as a thermometer between $0\ {}^\circ\text{C}$ and $40\ {}^\circ\text{C}$. This calibration can be performed with a fixed point or with two known temperature values.
+Calibrate the device so that it works as a thermometer between $0\ {}^\circ\text{C}$ and $40\ {}^\circ\text{C}$. This calibration can be done with one fixed point or with two known temperature values.
 
-The following information is provided for in Article 2 (1) of Regulation (EU) No 1303/2013.
+**Task 3**
 
-Determine the ambient temperature with the built thermometer and compare it with the value indicated by the aulisk thermometer.
+Determine the ambient temperature with the constructed thermometer and compare it with the value indicated by the classroom thermometer.
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1A_ShvWDyvtvQeW9-0jianYJngfhRkj_d/view)
+

@@ -214,79 +214,47 @@ Figura 1: Presión de saturación de vapor de agua en función de la temperatura
 
 Problema 2
 Nebbia.
-La nebbia è costituita da piccole gocce d'acqua che si trovano sospese in
-l'aria. Queste gocce sono così piccole che possono rimanere sospese per intervalli
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento di base siano state adottate per il periodo di tempo molto lungo e che, in pratica, possono essere considerate non precipitose.
-Un modo per formare una nebbia è raffreddare l'aria fino a raggiungere un'umidità relativa
-del 100%, condizione nota come saturazione. A partire da questa condizione, se il
-Il raffreddamento continua, il vapore d'acqua inizia a condensi, formando le gocce di
-acqua.
-Per capire questo processo, dobbiamo prima capire il sistema su cui si forma.
-la nebbia, e poi il processo termodinamico che ne dà luogo.
-Il sistema che dobbiamo considerare (aria) è costituito da un miscela di gas. En
-In generale, si considera l'aria costituita da aria secca (azoto, ossigeno, diossido di
-carbonio, ecc.) e vapore d'acqua. La pressione totale ($p$) di questo sistema (aria secca + vapore di
-l'acqua) è $p = p_{as} + p_v$, dove $p_{as}$ è la pressione parziale dell'aria secca e $p_v$ è la pressione
-parziale del vapore d'acqua.
-NOTA: La pressione parziale di ogni componente di una miscela di gas è definita come
-la pressione che ci sarebbero stati posti da ciascuno di questi componenti della miscela se occupassero lo stesso
-volume della miscela, alla stessa temperatura, in assenza degli altri componenti.
+La nebbia è formata da piccole gocce d'acqua che si trovano sospese nell'aria. Queste gocce sono così piccole che possono rimanere sospese per intervalli di tempo molto lunghi e, in pratica, si può considerare che non precipitino.
+Un modo per formare una nebbia è raffreddare l'aria fino a raggiungere un'umidità relativa del 100%, condizione nota come saturazione. A partire da questa condizione, se il raffreddamento continua, il vapore acqueo inizia a condensare, formando le gocce d'acqua.
+Per comprendere questo processo, dobbiamo prima comprendere il sistema sul quale si forma la nebbia, e poi il processo termodinamico che dà luogo alla sua formazione.
+Il sistema che dobbiamo considerare (aria) è formato da una miscela di gas. In generale, si considera l'aria formata da aria secca (azoto, ossigeno, anidride carbonica, ecc.) e vapore acqueo. La pressione totale ($p$) di questo sistema (aria secca + vapore acqueo) è $p = p_{as} + p_v$, dove $p_{as}$ è la pressione parziale dell'aria secca e $p_v$ è la pressione parziale del vapore acqueo.
+NOTA: La pressione parziale di ciascun componente di una miscela di gas è definita come la pressione che ciascuno di tali componenti della miscela avrebbe se occupasse lo stesso volume della miscela, alla stessa temperatura, in assenza degli altri componenti.
 
-La quantità di vapore d'acqua presente in un'unità di volume d'aria, espressa
-mediante il parametro di umidità relativa, che è definito come:
+La quantità di vapore acqueo presente in un'unità di volume d'aria è espressa mediante il parametro umidità relativa, definito come:
 
 $$HR = 100\,\frac{\rho_v}{\rho_s} \quad (1)$$
 
-dove $\rho_v$ è la densità di vapore d'acqua presente e $\rho_s$ è la densità di saturazione di
-vapore d'acqua. Questa densità di saturazione del vapore d'acqua esprime la massima
-quantità di vapore d'acqua, per unità di volume d'aria, che può contenere l'aria in
-assenza di acqua liquida a una determinata temperatura. Quindi $\rho_s$ è la quantità di vapore
-di acqua per un sistema costituito da acqua liquida e vapore d'acqua,
-Temperatura, state in equilibrio.
+dove $\rho_v$ è la densità di vapore acqueo presente e $\rho_s$ è la densità di saturazione del vapore acqueo. Questa densità di saturazione del vapore acqueo esprime la massima quantità di vapore acqueo, per unità di volume d'aria, che l'aria può contenere in assenza di acqua liquida a una data temperatura. Pertanto, $\rho_s$ è la quantità di vapore acqueo affinché un sistema formato da acqua liquida e vapore acqueo, alla stessa temperatura, sia in equilibrio.
 
-Se si considera il vapore idrico come un gas ideale e, se si ipotizza che il volume di
-La specifica del vapore d'acqua è molto superiore a quella del liquido, il valore di $\rho_s$ può essere
-ottenere usando l'equazione di Clausius-Clapeyron:
+Se si considera il vapore acqueo come un gas ideale e, sotto l'ipotesi che il volume specifico del vapore acqueo sia molto maggiore di quello del liquido, il valore di $\rho_s$ si può ottenere usando l'equazione di Clausius-Clapeyron:
 
 $$p_s(T) = p_0\,\exp\left[-\frac{l_v M_v}{R}\left(\frac{1}{T}-\frac{1}{T_0}\right)\right] \quad (2)$$
 
-dove $p_s$ è la pressione di saturazione del vapore d'acqua, $l_v$ è il calore latente di
-vaporización, $M_v$ es la masa molar del vapor de agua, $R$ es la constante universal de los
-gas e exp rappresenta la funzione esponenziale (la cui funzione inversa è il logaritmo
-naturale, rappresentato da ln). L'equazione (2) è rappresentata in figura 1.
+dove $p_s$ è la pressione di saturazione del vapore acqueo, $l_v$ è il calore latente di vaporizzazione, $M_v$ è la massa molare del vapore acqueo, $R$ è la costante universale dei gas e exp rappresenta la funzione esponenziale (la cui funzione inversa è il logaritmo naturale che si rappresenta con ln). L'equazione (2) è rappresentata nella figura 1.
 
-a) Dimostra che, se il vapore d'acqua è considerato un gas ideale, l'umidità è
-relativa può essere espressa come:
+a) Dimostrare che, se si considera il vapore acqueo come un gas ideale, l'umidità relativa può essere espressa come:
 
 $$HR = 100\,\frac{p_v}{p_s} \quad (3)$$
 
-b) Se a 20 h si misura un'umidità relativa del 60% e una temperatura di $20\ ^\circ\text{C}$,
-Qual è la pressione parziale del vapore d'acqua, $p_v$, nell'aria?
+b) Se alle 20hs si misura un'umidità relativa del 60% e una temperatura di $20\ ^\circ\text{C}$,
+Qual è la pressione parziale del vapore acqueo, $p_v$, nell'aria?
 
-Considera l'aria secca come un gas ideale con una massa molare:
+Si consideri l'aria secca come un gas ideale con una massa molare:
 $M_{as} = 28{,}97\ \text{g mol}^{-1}$.
 
-c) Se la pressione atmosferica $p$ è uguale a $1000\ \text{hPa}$, qual è la densità dell'aria?
-seco $\rho_{as}$?
+c) Se la pressione atmosferica $p$ è uguale a $1000\ \text{hPa}$, qual è la densità dell'aria secca $\rho_{as}$?
 
-d) A che temperatura l'aria raggiungerà lo stato di saturazione (cioè:
-HR=100%)? A questa temperatura è nota come temperatura di scarico $T_R$.
+d) A quale temperatura l'aria raggiungerà lo stato di saturazione (cioè
+UR=100%)? Questa temperatura è nota come temperatura di rugiada $T_R$.
 
-Durante la notte, l'aria vicino alla superficie terrestre si raffredda, poiché perde calore
-per radiazioni e conduzione. Questo raffreddamento dell'intero sistema (aria secca + vapore di
-La temperatura del sistema di calore (qualità di calore) può essere considerata, fino a quando raggiunge la condizione di saturazione, come una
-processo isobarico. Quando si raggiunge la temperatura di scarico, e se continua il
-raffreddamento dell'aria, si forma nebbia (cioè si condensa l'acqua). Una volta formata la
-la pressione parziale del vapore d'acqua è la pressione di saturazione alla temperatura
-in cui si trova il sistema.
+Durante la notte, l'aria vicino alla superficie terrestre si raffredda, poiché perde calore per irraggiamento e conduzione. Questo raffreddamento dell'intero sistema (aria secca + vapore acqueo) può essere considerato, finché non raggiunge la condizione di saturazione, come un processo isobaro. Quando si raggiunge la temperatura di rugiada, e se il raffreddamento dell'aria continua, si forma la nebbia (cioè si condensa l'acqua). Una volta formata la nebbia, la pressione parziale del vapore acqueo è la pressione di saturazione alla temperatura in cui si trova il sistema.
 
-Se al sorgere del sole (6 h) si registra la temperatura minima dell'aria con un valore $11{,}0\ ^\circ\text{C}$
+Se al sorgere del sole (6 h) si registra la temperatura minima dell'aria con un valore di $11{,}0\ ^\circ\text{C}$
 
-(e) Rappresenta, nel grafico fornito nella scheda di risposta, il processo di
-raffreddamento e formazione di nebbia.
-Datati e costanti
+e) Rappresentare, nel grafico fornito nel foglio di risposta, il processo di raffreddamento e formazione della nebbia.
+Dati e costanti
 
-♬ Parametro ♬ Valore ♬ Unità
+| Parametro | Valore | Unità |
 |---|---|---|
 | $p_0$ | $6{,}11$ | hPa |
 | $T_0$ | $0{,}01$ | $^\circ\text{C}$ |
@@ -297,91 +265,54 @@ Datati e costanti
 | $M_{as}$ | $28{,}97$ | $\text{g mol}^{-1}$ |
 | $c$ | $1004$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
 
-Figura 1: Pressione di saturazione del vapore d'acqua a temperatura variabile.
+Figura 1: Pressione di saturazione del vapore acqueo in funzione della temperatura.
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 2
-It's foggy.
-The fog is made up of tiny droplets of water suspended in the
-the air. These droplets are so small they can stay suspended for lapses.
-The Commission has not yet adopted a proposal for a directive on the protection of workers' rights.
-One way to form a fog is to cool the air to a relative humidity.
-100%, a condition known as saturation. From this condition, if the
-The water vapor begins to condense, forming droplets of
-- What?
-To understand this process, we must first understand the system on which it is formed.
-The fog, and then the thermodynamic process that gives rise to its formation.
-The system we should consider (air) is made up of a mixture of gases. En
-In general, it is considered to be air formed by dry air (nitrogen, oxygen,
-carbon, etc.) and water vapour. The total pressure ($p$) of this system (dry air + steam of
-water) is $p = p_{as} + p_v$, where $p_{as}$ is the partial dry air pressure and $p_v$ is the pressure
-partial of water vapour.
-NOTE: The partial pressure of each component of a gas mixture is defined as
-The pressure that each of these components of the mixture would have if it occupied the same
-the volume of the mixture at the same temperature, in the absence of the other components.
+Fog.
+Fog is formed by small water droplets that are suspended in the air. These droplets are so small that they can remain suspended for very long periods of time and, in practice, can be considered not to precipitate.
+One way to form fog is to cool the air until it reaches a relative humidity of 100%, a condition known as saturation. From this condition, if cooling continues, the water vapor begins to condense, forming water droplets.
+To understand this process, we must first understand the system on which the fog forms, and then the thermodynamic process that gives rise to its formation.
+The system we must consider (air) is formed by a mixture of gases. In general, air is considered to be formed by dry air (nitrogen, oxygen, carbon dioxide, etc.) and water vapor. The total pressure ($p$) of this system (dry air + water vapor) is $p = p_{as} + p_v$, where $p_{as}$ is the partial pressure of the dry air and $p_v$ is the partial pressure of the water vapor.
+NOTE: The partial pressure of each component of a gas mixture is defined as the pressure that each of those components of the mixture would have if it occupied the same volume of the mixture, at the same temperature, in the absence of the other components.
 
-The amount of water vapour present in a unit of air volume, expressed as
-by the relative humidity parameter, which is defined as:
+The amount of water vapor present in a unit volume of air is expressed by the relative humidity parameter, which is defined as:
 
 $$HR = 100\,\frac{\rho_v}{\rho_s} \quad (1)$$
 
-where $\rho_v$ is the density of water vapour present and $\rho_s$ is the saturation density of
-water vapor. This density of water vapor saturation expresses the maximum
-quantity of water vapour per unit air volume, which can contain air in
-absence of liquid water at a given temperature. Therefore, $\rho_s$ is the amount of steam
-Water so that a system consisting of liquid water and water vapour, to the same
-temperature, be in balance.
+where $\rho_v$ is the density of water vapor present and $\rho_s$ is the saturation density of water vapor. This saturation density of water vapor expresses the maximum amount of water vapor, per unit volume of air, that the air can contain in the absence of liquid water at a given temperature. Therefore, $\rho_s$ is the amount of water vapor for a system made up of liquid water and water vapor, at the same temperature, to be in equilibrium.
 
-If water vapor is considered an ideal gas and, assuming that the volume of the
-The specificity of the water vapor is much higher than that of the liquid, the value of $\rho_s$ can be
-to obtain using the Clausius-Clapeyron equation:
+If water vapor is considered an ideal gas and, under the hypothesis that the specific volume of water vapor is much greater than that of the liquid, the value of $\rho_s$ can be obtained using the Clausius-Clapeyron equation:
 
 $$p_s(T) = p_0\,\exp\left[-\frac{l_v M_v}{R}\left(\frac{1}{T}-\frac{1}{T_0}\right)\right] \quad (2)$$
 
-where $p_s$ is the saturated pressure of water vapour, $l_v$ is the latent heat of
-vaporización, $M_v$ es la masa molar del vapor de agua, $R$ es la constante universal de los
-gases and exp represents the exponential function (whose inverse function is the logarithm
-natural represented by ln). The equation (2) is shown in Figure 1.
+where $p_s$ is the saturation pressure of water vapor, $l_v$ is the latent heat of vaporization, $M_v$ is the molar mass of water vapor, $R$ is the universal gas constant and exp represents the exponential function (whose inverse function is the natural logarithm denoted by ln). Equation (2) is represented in figure 1.
 
-(a) Demonstrate that, if water vapor is considered an ideal gas, humidity is
-relative may be expressed as:
+a) Show that, if water vapor is considered an ideal gas, the relative humidity can be expressed as:
 
 $$HR = 100\,\frac{p_v}{p_s} \quad (3)$$
 
-(b) If at 20h a relative humidity of 60% and a temperature of $20\ ^\circ\text{C}$ is measured,
-What is the partial pressure of water vapour, $p_v$, in the air?
+b) If at 8 pm a relative humidity of 60% and a temperature of $20\ ^\circ\text{C}$ are measured,
+What is the partial pressure of water vapor, $p_v$, in the air?
 
-Consider dry air as an ideal molar mass gas:
+Consider dry air as an ideal gas with a molar mass:
 $M_{as} = 28{,}97\ \text{g mol}^{-1}$.
 
-(c) If the atmospheric pressure $p$ is equal to $1000\ \text{hPa}$, what is the air density
-seco $\rho_{as}$?
+c) If the atmospheric pressure $p$ is equal to $1000\ \text{hPa}$, what is the density of dry air $\rho_{as}$?
 
-(d) At what temperature will the air reach saturation status (i.e.
-HR=100%)? This temperature is known as dew temperature $T_R$.
+d) At what temperature will the air reach the saturation state (that is,
+RH=100%)? This temperature is known as the dew point $T_R$.
 
-At night, the air near the earth's surface cools down, as it loses heat.
-radiation and conduction. This cooling of the whole system (dry air + steam of
-The water content of the water can be considered, to the extent that it reaches the saturation condition, as a
-The isobaric process. When the dew temperature is reached, and if the dew continues to rise,
-cooling of the air, mist is formed (i.e. water condenses). Once the
-fog, the partial pressure of water vapor is the saturation pressure at the temperature
-where the system is located.
+During the night, the air near the Earth's surface cools, since it loses heat by radiation and conduction. This cooling of the entire system (dry air + water vapor) can be considered, as long as it does not reach the saturation condition, as an isobaric process. When the dew point temperature is reached, and if the cooling of the air continues, fog forms (that is, water condenses). Once the fog has formed, the partial pressure of water vapor is the saturation pressure at the temperature at which the system is.
 
-If at sunrise (6 hs) the minimum air temperature is recorded with a value of $11{,}0\ ^\circ\text{C}$
+If at sunrise (6 a.m.) the minimum air temperature is recorded with a value of $11{,}0\ ^\circ\text{C}$
 
-(e) It represents, in the chart provided in the reply sheet, the process of
-cooling and mist formation.
+e) Represent, on the graph provided on the answer sheet, the process of cooling and fog formation.
 Data and constants
 
-♪ Parameter ♪ Value ♪ Unity ♪
+| Parameter | Value | Unit |
 |---|---|---|
 | $p_0$ | $6{,}11$ | hPa |
 | $T_0$ | $0{,}01$ | $^\circ\text{C}$ |
@@ -392,14 +323,7 @@ Data and constants
 | $M_{as}$ | $28{,}97$ | $\text{g mol}^{-1}$ |
 | $c$ | $1004$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
 
-Figure 1: Water vapour saturation pressure based on temperature.
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
-
+Figure 1: Saturation pressure of water vapor as a function of temperature.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
@@ -518,216 +442,166 @@ Prueba Teórica - Nivel 2
 
 Problema 3
 I circuiti e le loro simmetrie.
-Un ingegnere elettronico si gioca con la progettazione di circuiti elettrici, che presentano alcuni
-simmetria. Il primo circuito che progetta è mostrato nella figura seguente.
-Chiamando $I_1$ e $I_2$ le correnti che circolano per AB e AC rispettivamente:
+Un ingegnere elettronico gioca con la progettazione di circuiti elettrici, che presentano una certa simmetria. Il primo circuito che progetta è mostrato nella figura seguente.
+Chiamando $I_1$ e $I_2$ le correnti che circolano rispettivamente in AB e AC:
 
-a) Dimostra che i correnti che circolano su BD e CD sono $I_2$ e $I_1$;
-rispettivamente.
+a) Dimostrare che le correnti che circolano in BD e CD sono rispettivamente $I_2$ e $I_1$.
 
-b) Determina i correnti che circolano per BC e DA in termini di $I_1$ e $I_2$.
+b) Determinare le correnti che circolano in BC e DA in termini di $I_1$ e $I_2$.
 
-c) Determina i correnti $I_1$ e $I_2$ sapendo che $R = 10$ e $E = 20\ \text{V}$.
+c) Determinare le correnti $I_1$ e $I_2$ sapendo che $R = 10$ e $E = 20\ \text{V}$.
 
-d) Determina la resistenza equivalente $R_{eq}$ del circuito.
+d) Determinare la resistenza equivalente $R_{eq}$ del circuito.
 
-Se la resistenza in BC viene sostituita da una resistenza variabile, $R_X$, che può prendere
-Valori tra $0$ e $1\times10^{10}$:
+Se la resistenza in BC è sostituita da una resistenza variabile, $R_X$, che può assumere valori tra $0$ e $1\times10^{10}$ :
 
-e) Determina il possibile range di valori della resistenza equivalente del circuito.
-Supponiamo che quando $R_X$ prende il suo massimo valore, questo può essere considerato infinito.
+e) Determinare il possibile intervallo di valori della resistenza equivalente del circuito.
+Si supponga che quando $R_X$ assume il suo valore massimo, questo possa essere considerato infinito.
 
-Entusiasmato, l'ingegnere costruisce il seguente blocco di resistenza:
+Entusiasta, l'ingegnere costruisce il seguente blocco di resistenze:
 
-f) Se $R = 10\ \Omega$, determina la resistenza tra i punti $A_1$ e $A_2$.
+f) Se $R = 10\ \Omega$, determinare la resistenza tra i punti $A_1$ e $A_2$.
 
 Aiuto
 
-La somma delle correnti che entrano in un nodo deve essere pari alla somma delle
-correnti che usciranno dal nodo.
+La somma delle correnti che entrano in un nodo deve essere uguale alla somma delle correnti che escono dal nodo.
 
-La somma algebrica delle cascate di potenziale, in tutti gli elementi di
-Qualsiasi rete chiusa deve essere zero.
+La somma algebrica delle cadute di potenziale, in tutti gli elementi di qualsiasi maglia chiusa, deve essere zero.
 
-Prova sperimentale - Livello 1
+Prova Sperimentale - Livello 1
 
-Proprietà meccaniche di una banda elastica.
+Proprietà meccaniche di un elastico.
 Introduzione
-Lo studio della deformazione di un materiale elastico quando viene applicato un
-La forza esterna è di grande importanza per lo studio di alcune delle sue proprietà
-fisica. Un materiale polimerico è un materiale elastico formato da catene di molecole
-molto lunghi, uniti da legami chimici in alcuni punti.
+Lo studio della deformazione che subisce un materiale elastico, quando gli si applica una forza esterna, è di grande importanza per lo studio di alcune delle sue proprietà fisiche. Un materiale polimerico è un materiale elastico formato da catene di molecole molto lunghe, unite da legami chimici in alcuni punti.
 
-Quando si esercita una forza sulle estremità di un materiale polimerico, queste catene
-La Commissione ha adottato una proposta di direttiva che modifica la sua disposizione, generando una risposta diversa da quella data dalla Commissione.
-La legge di Hook.
+Quando si esercita una forza agli estremi di un materiale polimerico, queste catene cominciano a modificare la loro disposizione, generando una risposta diversa da quella data dalla legge di Hooke.
 
-Non applicata
+Senza forza applicata
 Con forza applicata
-In particolare, una banda a elastica è un materiale polimerico che, in presenza di un'applicazione di
-una forza esterna risponde, in un intervallo di lunghezza angolato, alla seguente
-espressione:
+In particolare, un elastico è un materiale polimerico e che di fronte all'applicazione di una forza esterna risponde, in un intervallo limitato di lunghezze, alla seguente espressione:
 
 $$F = A\sigma \qquad \text{donde} \qquad \sigma = \frac{l}{l_0} \quad (1)$$
 
-In questa espressione $l_0$ è la lunghezza della fascia quando non è applicata alcuna
-forza esterna, $l$ è la sua lunghezza quando si applica una forza esterna $F$, e $A$ è una
-costante caratteristica del materiale che dipende dalla temperatura.
+In questa espressione $l_0$ è la lunghezza dell'elastico quando non ha applicata alcuna forza esterna, $l$ è la sua lunghezza quando ha applicata una forza esterna $F$, e $A$ è una costante caratteristica del materiale che dipende dalla temperatura.
 
 Obiettivo: Determinare sperimentalmente il valore di $A$
 
 Elementi disponibili
-- 16 masse di $25\ \text{g}$ ciascuna
-- 1 portapiede
-- 1 base a regola fissa dove si appende la banda (vedi
+- 16 masse di circa $25\ \text{g}$ ciascuna
+- 1 portapesi
+- 1 base con righello fisso dove si appende l'elastico (Vedi
 Figura).
-- 1 banda a gas
+- 1 elastico
 - 1 bilancia
-- Papero di millimetro
+- Carta millimetrata
 
-Informazioni aggiuntive:
-Accelerazione gravitatoria: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
-Massa degli anelli in alluminio: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
+Dati aggiuntivi:
+Accelerazione di gravità: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
+Massa degli anelli di alluminio: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
 
 Procedura
-Perché questo è un esperimento in cui abbiamo fatto su una banda elastica
-Il processo è irreversibile, l'intera procedura deve essere eseguita con molta attenzione.
+Poiché questo è un esperimento in cui effettuiamo sulla banda elastica un processo irreversibile, bisogna eseguire tutta la procedura con molta attenzione.
 
-1. Misura la lunghezza $l_0$ della banda gommata.
+1. Misurare la lunghezza $l_0$ della banda di gomma.
 
-2. Metti il portapiede e continua a aggiungere pesi. I pesi devono essere aggiunti
-- il controllo delle misure di sicurezza,
-precauzioni per evitare che il processo di aggiunta dei pesi sia modificato
-la lunghezza della fascia di gomma: non si estende né si accorcia.
-Per ogni nuovo peso posto, aspettate almeno 1 minuto per eseguire la
-corrispondente misura della lunghezza della banda di gomma.
+2. Collocare il portapesi e aggiungere gradualmente i pesi. I pesi devono essere aggiunti con cura, senza rimuovere quelli che erano stati collocati precedentemente; prendere tutte le precauzioni affinché nel processo di aggiunta dei pesi non si modifichi bruscamente la lunghezza della banda di gomma: né allungandosi né accorciandosi.
+Per ogni nuovo peso collocato attendere, almeno 1 minuto, per effettuare la corrispondente misura della lunghezza della banda di gomma.
 
-3. Ripeti il punto precedente fino a aggiungere, approssimativamente, $400\ \text{g}$ in masse.
+3. Ripetere il punto precedente fino ad aggiungere, approssimativamente, $400\ \text{g}$ in masse.
 
-Consigne
-1. Indicare il valore misurato di $l_0$.
-2. Fare una tabella con i valori $l$, $m$ e $\sigma$.
-3. Grafica $m$ in funzione di $\sigma$.
-4. Indicare nel grafico l'intervallo in cui vale l'espressione [1].
-5. Aggiusta con una retta i dati dell'intervallo indicato nel punto precedente.
-Determina il valore della pendenza di tale retta.
-6. Determina il valore di $A$.
+Consegne
+1. Riportare il valore misurato di $l_0$.
+2. Fare una tabella con i valori di $l$, $m$ e $\sigma$.
+3. Tracciare il grafico di $m$ in funzione di $\sigma$.
+4. Indicare sul grafico l'intervallo in cui vale l'espressione [1].
+5. Approssimare con una retta i dati dell'intervallo indicato nel punto precedente.
+Determinare il valore della pendenza di tale retta.
+6. Determinare il valore di $A$.
 
-Prova teorica - Livello 2
+Prova Teorica - Livello 2
 
-**Topic:** [[Circuits]], [[Elasticity & Materials]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Graph Linearization (metodo)|Graph Linearization]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-The circuits and their symmetries.
-An electronic engineer plays with the design of electrical circuits, which present certain
-It's symmetry. The first circuit he designs is shown in the following figure.
-Calling $I_1$ and $I_2$ to the currents circulating by AB and AC respectively:
+Problem 3
+Circuits and their symmetries.
+An electronics engineer plays with the design of electrical circuits, which present a certain symmetry. The first circuit he designs is shown in the following figure.
+Calling $I_1$ and $I_2$ the currents flowing through AB and AC respectively:
 
-(a) Demonstrate that BD and CD currents are $I_2$ and $I_1$,
-the Commission.
+a) Show that the currents flowing through BD and CD are $I_2$ and $I_1$, respectively.
 
-(b) Determine the currents circulating in BC and DA in terms of $I_1$ and $I_2$.
+b) Determine the currents flowing through BC and DA in terms of $I_1$ and $I_2$.
 
-(c) Determine the currents $I_1$ and $I_2$ knowing that $R = 10$ and $E = 20\ \text{V}$.
+c) Determine the currents $I_1$ and $I_2$ knowing that $R = 10$ and $E = 20\ \text{V}$.
 
-(d) Determine the equivalent resistance $R_{eq}$ of the circuit.
+d) Determine the equivalent resistance $R_{eq}$ of the circuit.
 
-If the resistance in BC is replaced by a variable resistance, $R_X$, which can take
-values between $0$ and $1\times10^{10}$:
+If the resistance in BC is replaced by a variable resistance, $R_X$, which can take values between $0$ and $1\times10^{10}$ :
 
-(e) Determine the possible range of values of the equivalent resistance of the circuit.
-Suppose that when $R_X$ takes its maximum value, it can be considered infinite.
+e) Determine the possible range of values of the equivalent resistance of the circuit.
+Assume that when $R_X$ takes its maximum value, it can be considered infinite.
 
-Enthusiastic, the engineer builds the following block of resistance:
+Excited, the engineer builds the following block of resistors:
 
-(f) If $R = 10\ \Omega$, determine the resistance between the points $A_1$ and $A_2$.
+f) If $R = 10\ \Omega$, determine the resistance between points $A_1$ and $A_2$.
 
-Aid
+Help
 
-The sum of the currents entering a node must be equal to the sum of the
-currents coming out of the node.
+The sum of the currents entering a node must be equal to the sum of the currents leaving the node.
 
-The algebraic sum of the potential drops, in all the elements of
-Any closed mesh, it must be zero.
+The algebraic sum of the potential drops, in all the elements of any closed loop, must be zero.
 
-The following information shall be provided:
+Experimental Test - Level 1
 
 Mechanical properties of an elastic band.
-The following is the list of the countries of the European Union:
-The study of the deformation of an elastic material when a
-The study of some of its properties is of great importance.
-The physical. A polymer material is an elastic material formed by chains of molecules
-very long, bound by chemical bonds at some points.
+Introduction
+The study of the deformation undergone by an elastic material, when an external force is applied to it, is of great importance for the study of some of its physical properties. A polymeric material is an elastic material made up of chains of very long molecules, joined by chemical bonds at some points.
 
-When a force is applied to the ends of a polymer material, these chains are
-The Commission has already adopted a number of proposals for a new directive on the protection of workers' rights.
-Hook's law.
+When a force is exerted on the ends of a polymeric material, these chains begin to modify their arrangement, generating a response different from that given by Hooke's law.
 
-Not with applied force
+Without applied force
 With applied force
-In particular, an elastic band is a polymeric material which, when applied to a
-an external force responds, in a narrow range of lengths, to the following
-The expression:
+In particular, an elastic band is a polymeric material and, when an external force is applied, it responds, within a limited range of lengths, according to the following expression:
 
 $$F = A\sigma \qquad \text{donde} \qquad \sigma = \frac{l}{l_0} \quad (1)$$
 
-In this expression $l_0$ is the length of the elastic band when no
-The external force $l$ is its length when an external force $F$ is applied, and $A$ is a
-The material is a constant temperature-dependent characteristic.
+In this expression $l_0$ is the length of the elastic band when no external force is applied to it, $l$ is its length when an external force $F$ is applied to it, and $A$ is a constant characteristic of the material that depends on temperature.
 
-Objective: To experimentally determine the value of $A$
+Objective: To determine experimentally the value of $A$
 
-Available items
+Available elements
 - 16 masses of approximately $25\ \text{g}$ each
-- 1 weighing machine
-- 1 fixed-range base where the elastic band is suspended (see
-Figure .
+- 1 weight holder
+- 1 base with a fixed ruler where the elastic band is hung (See
+Figure).
 - 1 elastic band
-- One swing
-- Millimeter paper
+- 1 balance
+- Millimeter graph paper
 
 Additional data:
-The acceleration of gravity shall be: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
-Mass of aluminium rings: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
+Acceleration of gravity: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
+Mass of the aluminum rings: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
 
-The procedure
-Because this is an experiment where we're doing an elastic band
-The Commission has already decided to take a decision on the following:
+Procedure
+Because this is an experiment in which we carry out an irreversible process on the rubber band, the entire procedure must be performed very carefully.
 
 1. Measure the length $l_0$ of the rubber band.
 
-2. Put the weigh-in and go add weights. Weights must be added
-Take carefully, without removing any previously placed; take all the
-precautions to ensure that the weighting process is not modified
-The length of the rubber band is sharply: neither stretching nor shortening.
-For each new weight placed wait at least 1 minute to perform the
-The corresponding measurement of the length of the rubber band.
+2. Place the weight holder and gradually add weights. The weights must be added carefully, without removing those that had been placed previously; take all precautions so that in the process of adding the weights the length of the rubber band is not abruptly modified: neither stretching nor shortening.
+For each new weight placed, wait at least 1 minute to carry out the corresponding measurement of the length of the rubber band.
 
-3. Repeat the previous point until you add approximately $400\ \text{g}$ in masses.
+3. Repeat the previous point until adding approximately $400\ \text{g}$ in masses.
 
-Consignments
+Instructions
 1. Report the measured value of $l_0$.
 2. Make a table with the values of $l$, $m$ and $\sigma$.
-3. Graph $m$ according to $\sigma$.
-4. Indicate in the graph the interval in which the expression is valid [1].
-5. Adjust the data for the interval indicated in the previous point with a straight line.
-Determine the slope value of that straight.
+3. Plot $m$ as a function of $\sigma$.
+4. Indicate on the graph the interval in which expression [1] is valid.
+5. Fit the data of the interval indicated in the previous point with a straight line.
+Determine the value of the slope of that straight line.
 6. Determine the value of $A$.
 
-Theoretical proof - Level 2
-
-**Topic:** [[Circuits]], [[Elasticity & Materials]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Graph Linearization (metodo)|Graph Linearization]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
-
+Theoretical Exam - Level 2
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2016 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/cart"></span>
@@ -995,107 +869,68 @@ Figura 1: Presión de saturación de vapor de agua en función de la temperatura
 
 Problema 2
 Nebbia.
-La nebbia è costituita da piccole gocce d'acqua che si trovano sospese in
-l'aria. Queste gocce sono così piccole che possono rimanere sospese per intervalli
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento di base siano state adottate per il periodo di tempo molto lungo e che, in pratica, possono essere considerate non precipitose.
+La nebbia è formata da piccole gocce d'acqua che si trovano sospese nell'aria. Queste gocce sono così piccole che possono rimanere sospese per intervalli di tempo molto lunghi e, in pratica, si può considerare che non precipitino.
 
-Un modo per formare una nebbia è raffreddare l'aria fino a raggiungere un'umidità relativa
-del 100%, condizione nota come saturazione. A partire da questa condizione, se il
-Il raffreddamento continua, il vapore d'acqua inizia a condensi, formando le gocce di
-acqua.
+Un modo per formare una nebbia è raffreddare l'aria fino a raggiungere un'umidità relativa del 100%, condizione nota come saturazione. A partire da questa condizione, se il raffreddamento continua, il vapore acqueo inizia a condensare, formando le gocce d'acqua.
 
-Per capire questo processo, dobbiamo prima capire il sistema su cui si forma.
-la nebbia, e poi il processo termodinamico che ne dà luogo.
+Per comprendere questo processo, dobbiamo prima comprendere il sistema sul quale si forma la nebbia, e poi il processo termodinamico che dà luogo alla sua formazione.
 
-Il sistema che dobbiamo considerare (aria) è costituito da un miscela di gas. En
-In generale, si considera l'aria costituita da aria secca (azoto, ossigeno, diossido di
-carbonio, ecc.) e vapore d'acqua. La pressione totale ($p$) di questo sistema (aria secca + vapore di
-l'acqua) è $p = p_{as} + p_v$, dove $p_{as}$ è la pressione parziale dell'aria secca e $p_v$ è la pressione
-parziale del vapore d'acqua.
+Il sistema che dobbiamo considerare (aria) è formato da una miscela di gas. In generale, si considera l'aria formata da aria secca (azoto, ossigeno, anidride carbonica, ecc.) e vapore acqueo. La pressione totale ($p$) di questo sistema (aria secca + vapore acqueo) è $p = p_{as} + p_v$, dove $p_{as}$ è la pressione parziale dell'aria secca e $p_v$ è la pressione parziale del vapore acqueo.
 
-NOTA: La pressione parziale di ogni componente di una miscela di gas è definita come
-la pressione che ci sarebbero stati posti da ciascuno di questi componenti della miscela se occupassero lo stesso
-volume della miscela, alla stessa temperatura, in assenza degli altri componenti.
+NOTA: La pressione parziale di ciascun componente di una miscela di gas è definita come la pressione che ciascuno di tali componenti della miscela avrebbe se occupasse lo stesso volume della miscela, alla stessa temperatura, in assenza degli altri componenti.
 
-La quantità di vapore d'acqua presente in un'unità di volume d'aria, espressa
-mediante il parametro di umidità relativa, che è definito come:
+La quantità di vapore acqueo presente in un'unità di volume d'aria è espressa mediante il parametro umidità relativa, definito come:
 
 $$HR = 100\,\frac{\rho_v}{\rho_s} \quad (1)$$
 
-dove $\rho_v$ è la densità di vapore d'acqua presente e $\rho_s$ è la densità di saturazione di
-vapore d'acqua. Questa densità di saturazione del vapore d'acqua esprime la massima
-quantità di vapore d'acqua, per unità di volume d'aria, che può contenere l'aria in
-assenza di acqua liquida a una determinata temperatura. Quindi $\rho_s$ è la quantità di vapore
-di acqua per un sistema costituito da acqua liquida e vapore d'acqua,
-Temperatura, state in equilibrio.
+dove $\rho_v$ è la densità di vapore acqueo presente e $\rho_s$ è la densità di saturazione del vapore acqueo. Questa densità di saturazione del vapore acqueo esprime la massima quantità di vapore acqueo, per unità di volume d'aria, che l'aria può contenere in assenza di acqua liquida a una data temperatura. Pertanto, $\rho_s$ è la quantità di vapore acqueo affinché un sistema formato da acqua liquida e vapore acqueo, alla stessa temperatura, sia in equilibrio.
 
-Se si considera il vapore idrico come un gas ideale e, se si ipotizza che il volume di
-La specifica del vapore d'acqua è molto superiore a quella del liquido, il valore di $\rho_s$ può essere
-ottenere usando l'equazione di Clausius-Clapeyron:
+Se si considera il vapore acqueo come un gas ideale e, sotto l'ipotesi che il volume specifico del vapore acqueo sia molto maggiore di quello del liquido, il valore di $\rho_s$ si può ottenere usando l'equazione di Clausius-Clapeyron:
 
 $$p_s(T) = p_0\,\exp\left[-\frac{l_v M_v}{R}\left(\frac{1}{T}-\frac{1}{T_0}\right)\right] \quad (2)$$
 
-dove $p_s$ è la pressione di saturazione del vapore d'acqua, $l_v$ è il calore latente di
-vaporización, $M_v$ es la masa molar del vapor de agua, $R$ es la constante universal de los
-gas e exp rappresenta la funzione esponenziale (la cui funzione inversa è il logaritmo
-naturale, rappresentato da ln). L'equazione (2) è rappresentata in figura 1.
+dove $p_s$ è la pressione di saturazione del vapore acqueo, $l_v$ è il calore latente di vaporizzazione, $M_v$ è la massa molare del vapore acqueo, $R$ è la costante universale dei gas ed exp rappresenta la funzione esponenziale (la cui funzione inversa è il logaritmo naturale che si rappresenta con ln). L'equazione (2) è rappresentata nella figura 1.
 
-a) Dimostra che, se il vapore d'acqua è considerato un gas ideale, l'umidità è
-relativa può essere espressa come:
+a) Dimostrate che, se si considera il vapore acqueo come un gas ideale, l'umidità relativa può esprimersi come:
 
 $$HR = 100\,\frac{p_v}{p_s} \quad (3)$$
 
-b) Se a 20 h si misura un'umidità relativa del 60% e una temperatura di $20\ ^\circ\text{C}$,
-Qual è la pressione parziale del vapore d'acqua, $p_v$, nell'aria?
+b) Se alle 20hs si misura un'umidità relativa del 60% e una temperatura di $20\ ^\circ\text{C}$,
+qual è la pressione parziale del vapore acqueo, $p_v$, nell'aria?
 
-Considera l'aria secca come un gas ideale con una massa molare:
+Considerate l'aria secca come un gas ideale con una massa molare:
 $M_{as} = 28{,}97\ \text{g mol}^{-1}$.
 
-c) Se la pressione atmosferica $p$ è uguale a $1000\ \text{hPa}$, qual è la densità dell'aria?
-seco $\rho_{as}$?
+c) Se la pressione atmosferica $p$ è uguale a $1000\ \text{hPa}$, qual è la densità dell'aria secca $\rho_{as}$?
 
-d) A che temperatura l'aria raggiungerà lo stato di saturazione (cioè:
-HR=100%)? A questa temperatura è nota come temperatura di scarico $T_R$.
-Durante la notte, l'aria vicino alla superficie terrestre si raffredda, poiché perde calore
-per radiazioni e conduzione. Questo raffreddamento dell'intero sistema (aria secca + vapore di
-La temperatura del sistema di calore (qualità di calore) può essere considerata, fino a quando raggiunge la condizione di saturazione, come una
-processo isobarico. Quando si raggiunge la temperatura di scarico, e se continua il
-raffreddamento dell'aria, si forma nebbia (cioè si condensa l'acqua). Una volta formata la
-la pressione parziale del vapore d'acqua è la pressione di saturazione alla temperatura
-in cui si trova il sistema.
+d) A quale temperatura l'aria raggiungerà lo stato di saturazione (cioè
+UR=100%)? Questa temperatura è nota come temperatura di rugiada $T_R$.
+Durante la notte, l'aria vicino alla superficie terrestre si raffredda, poiché perde calore per irraggiamento e conduzione. Questo raffreddamento dell'intero sistema (aria secca + vapore acqueo) può essere considerato, finché non raggiunge la condizione di saturazione, come un processo isobaro. Quando si raggiunge la temperatura di rugiada, e se il raffreddamento dell'aria continua, si forma la nebbia (cioè si condensa acqua). Una volta formata la nebbia, la pressione parziale del vapore acqueo è la pressione di saturazione alla temperatura in cui si trova il sistema.
 
-Se al sorgere del sole (6 h) si registra la temperatura minima dell'aria con un valore $11{,}0\ ^\circ\text{C}$
+Se al sorgere del sole (6 h) si registra la temperatura minima dell'aria con un valore di $11{,}0\ ^\circ\text{C}$
 
-(e) Rappresenta, nel grafico fornito nella scheda di risposta, il processo di
-raffreddamento e formazione di nebbia.
+e) Rappresentare, nel grafico fornito nel foglio di risposta, il processo di raffreddamento e formazione della nebbia.
 
-f) Se il tasso di raffreddamento dell'aria durante la notte è $14{,}67\ \text{J kg}^{-1}\,\text{min}^{-1}$, calcola
-l'ora in cui l'aria raggiunge la condizione di saturazione. Supponiamo che la notte
-che inizia alle 20 h e che il calore specifico dell'aria a pressione costante è
+f) Se il tasso di raffreddamento dell'aria durante la notte è di $14{,}67\ \text{J kg}^{-1}\,\text{min}^{-1}$, stimare l'ora in cui l'aria raggiunge la condizione di saturazione. Supporre che la notte inizi alle 20 h e che il calore specifico dell'aria a pressione costante sia
 $c = 1004\ \text{J kg}^{-1}\,\text{K}^{-1}$.
 
-g) Quale massa di vapore $m_c$ è stata condensata per metro cubo di aria?
+g) Quale massa di vapore $m_c$ si è condensata per metro cubo d'aria?
 
-Quando si forma la nebbia, la visibilità diminuisce perché le gocce d'acqua
-disperdono la luce. L'intensità della luce che attraversa la nebbia diminuisce in base alla
-espressione seguente:
+Quando si forma la nebbia, la visibilità diminuisce perché le gocce d'acqua diffondono la luce. L'intensità della luce che attraversa la nebbia diminuisce secondo la seguente espressione:
 
 $$I = I_0\,\exp(-2NA\,z) \quad (4)$$
 
-dove $A$ è l'area trasversale delle gocce di acqua al raggio di radiazione, $N$ è la
-concentrazione di gocce (numero di gocce per unità di volume) e $I_0$ è la radiazione senza
-- Attenuare.
+dove $A$ è l'area trasversale delle gocce d'acqua rispetto al fascio di radiazione, $N$ è la concentrazione di gocce (numero di gocce per unità di volume) e $I_0$ è la radiazione senza attenuazione.
 
-Si osserva che l'intensità diminuisce all'8% del suo valore iniziale, quando il fascio di luce
-traversa 100 metri di nebbia.
+Si osserva che l'intensità diminuisce all'8% del suo valore iniziale, quando il fascio di luce attraversa 100 metri di nebbia.
 
 Considerando tutte le gocce come sfere di uguale dimensione.
 
-h) Qual è la dimensione dei gocciolotti che formano la nebbia e quale è la loro concentrazione?
+h) Quali dimensioni hanno le gocce che formano la nebbia e qual è la loro concentrazione?
 
-Datati e costanti
+Dati e costanti
 
-♬ Parametro ♬ Valore ♬ Unità
+| Parametro | Valore | Unità |
 |---|---|---|
 | $p_0$ | $6{,}11$ | hPa |
 | $T_0$ | $0{,}01$ | $^\circ\text{C}$ |
@@ -1106,119 +941,75 @@ Datati e costanti
 | $M_{as}$ | $28{,}97$ | $\text{g mol}^{-1}$ |
 | $c$ | $1004$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
 
-Figura 1: Pressione di saturazione del vapore d'acqua a temperatura variabile.
+Figura 1: Pressione di saturazione del vapore acqueo in funzione della temperatura.
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]], [[Wave Optics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 2
-It's foggy.
-The fog is made up of tiny droplets of water suspended in the
-the air. These droplets are so small they can stay suspended for lapses.
-The Commission has not yet adopted a proposal for a directive on the protection of workers' rights.
+Fog.
+Fog is formed by small water droplets that are suspended in the air. These droplets are so small that they can remain suspended for very long periods of time and, in practice, can be considered as not precipitating.
 
-One way to form a fog is to cool the air to a relative humidity.
-100%, a condition known as saturation. From this condition, if the
-The water vapor begins to condense, forming droplets of
-- What?
+One way to form fog is to cool the air until it reaches a relative humidity of 100%, a condition known as saturation. From this condition, if cooling continues, the water vapor begins to condense, forming water droplets.
 
-To understand this process, we must first understand the system on which it is formed.
-The fog, and then the thermodynamic process that gives rise to its formation.
+To understand this process, we must first understand the system on which the fog forms, and then the thermodynamic process that gives rise to its formation.
 
-The system we should consider (air) is made up of a mixture of gases. En
-In general, it is considered to be air formed by dry air (nitrogen, oxygen,
-carbon, etc.) and water vapour. The total pressure ($p$) of this system (dry air + steam of
-water) is $p = p_{as} + p_v$, where $p_{as}$ is the partial dry air pressure and $p_v$ is the pressure
-partial of water vapour.
+The system we must consider (air) is made up of a mixture of gases. In general, air is considered to be made up of dry air (nitrogen, oxygen, carbon dioxide, etc.) and water vapor. The total pressure ($p$) of this system (dry air + water vapor) is $p = p_{as} + p_v$, where $p_{as}$ is the partial pressure of the dry air and $p_v$ is the partial pressure of the water vapor.
 
-NOTE: The partial pressure of each component of a gas mixture is defined as
-The pressure that each of these components of the mixture would have if it occupied the same
-the volume of the mixture at the same temperature, in the absence of the other components.
+NOTE: The partial pressure of each component of a gas mixture is defined as the pressure that each of those components of the mixture would have if it occupied the same volume of the mixture, at the same temperature, in the absence of the other components.
 
-The amount of water vapour present in a unit of air volume, expressed as
-by the relative humidity parameter, which is defined as:
+The amount of water vapor present in a unit volume of air is expressed by the relative humidity parameter, which is defined as:
 
 $$HR = 100\,\frac{\rho_v}{\rho_s} \quad (1)$$
 
-where $\rho_v$ is the density of water vapour present and $\rho_s$ is the saturation density of
-water vapor. This density of water vapor saturation expresses the maximum
-quantity of water vapour per unit air volume, which can contain air in
-absence of liquid water at a given temperature. Therefore, $\rho_s$ is the amount of steam
-Water so that a system consisting of liquid water and water vapour, to the same
-temperature, be in balance.
+where $\rho_v$ is the density of water vapor present and $\rho_s$ is the saturation density of water vapor. This saturation density of water vapor expresses the maximum amount of water vapor, per unit volume of air, that the air can contain in the absence of liquid water at a given temperature. Therefore, $\rho_s$ is the amount of water vapor for a system made up of liquid water and water vapor, at the same temperature, to be in equilibrium.
 
-If water vapor is considered an ideal gas and, assuming that the volume of the
-The specificity of the water vapor is much higher than that of the liquid, the value of $\rho_s$ can be
-to obtain using the Clausius-Clapeyron equation:
+If water vapor is considered an ideal gas and, under the hypothesis that the specific volume of water vapor is much greater than that of the liquid, the value of $\rho_s$ can be obtained using the Clausius-Clapeyron equation:
 
 $$p_s(T) = p_0\,\exp\left[-\frac{l_v M_v}{R}\left(\frac{1}{T}-\frac{1}{T_0}\right)\right] \quad (2)$$
 
-where $p_s$ is the saturated pressure of water vapour, $l_v$ is the latent heat of
-vaporización, $M_v$ es la masa molar del vapor de agua, $R$ es la constante universal de los
-gases and exp represents the exponential function (whose inverse function is the logarithm
-natural represented by ln). The equation (2) is shown in Figure 1.
+where $p_s$ is the saturation pressure of water vapor, $l_v$ is the latent heat of vaporization, $M_v$ is the molar mass of water vapor, $R$ is the universal gas constant and exp represents the exponential function (whose inverse function is the natural logarithm denoted by ln). Equation (2) is represented in figure 1.
 
-(a) Demonstrate that, if water vapor is considered an ideal gas, humidity is
-relative may be expressed as:
+a) Show that, if water vapor is considered an ideal gas, the relative humidity can be expressed as:
 
 $$HR = 100\,\frac{p_v}{p_s} \quad (3)$$
 
-(b) If at 20h a relative humidity of 60% and a temperature of $20\ ^\circ\text{C}$ is measured,
-What is the partial pressure of water vapour, $p_v$, in the air?
+b) If at 20hs a relative humidity of 60% and a temperature of $20\ ^\circ\text{C}$ are measured,
+What is the partial pressure of water vapor, $p_v$, in the air?
 
-Consider dry air as an ideal molar mass gas:
+Consider dry air as an ideal gas with a molar mass:
 $M_{as} = 28{,}97\ \text{g mol}^{-1}$.
 
-(c) If the atmospheric pressure $p$ is equal to $1000\ \text{hPa}$, what is the air density
-seco $\rho_{as}$?
+c) If the atmospheric pressure $p$ is equal to $1000\ \text{hPa}$, what is the density of dry air $\rho_{as}$?
 
-(d) At what temperature will the air reach saturation status (i.e.
-HR=100%)? This temperature is known as dew temperature $T_R$.
-At night, the air near the earth's surface cools down, as it loses heat.
-radiation and conduction. This cooling of the whole system (dry air + steam of
-The water content of the water can be considered, to the extent that it reaches the saturation condition, as a
-The isobaric process. When the dew temperature is reached, and if the dew continues to rise,
-cooling of the air, mist is formed (i.e. water condenses). Once the
-fog, the partial pressure of water vapor is the saturation pressure at the temperature
-where the system is located.
+d) At what temperature will the air reach the saturation state (that is,
+RH=100%)? This temperature is known as the dew point $T_R$.
+During the night, the air near the Earth's surface cools; since it loses heat by radiation and conduction. This cooling of the entire system (dry air + water vapor) can be considered, as long as it does not reach the saturation condition, as an isobaric process. When the dew point temperature is reached, and if the cooling of the air continues, fog forms (that is, water condenses). Once the fog has formed, the partial pressure of water vapor is the saturation pressure at the temperature at which the system is.
 
-If at sunrise (6 hs) the minimum air temperature is recorded with a value of $11{,}0\ ^\circ\text{C}$
+If at sunrise (6 a.m.) the minimum air temperature is recorded with a value of $11{,}0\ ^\circ\text{C}$
 
-(e) It represents, in the chart provided in the reply sheet, the process of
-cooling and mist formation.
+e) Represent, on the graph provided in the answer sheet, the process of cooling and fog formation.
 
-(f) If the air cooling rate at night is $14{,}67\ \text{J kg}^{-1}\,\text{min}^{-1}$, estimate the
-the time at which the air reaches the saturation condition. Suppose the night
-It starts at 20 hs and that the specific heat of the air at constant pressure is
+f) If the cooling rate of the air during the night is $14{,}67\ \text{J kg}^{-1}\,\text{min}^{-1}$, estimate the time at which the air reaches the saturation condition. Assume that the night begins at 8 p.m. and that the specific heat of the air at constant pressure is
 $c = 1004\ \text{J kg}^{-1}\,\text{K}^{-1}$.
 
-(g) What mass of steam $m_c$ was condensed per cubic metre of air?
+g) What mass of vapor $m_c$ condensed per cubic meter of air?
 
-When fog forms, visibility decreases because the water droplets
-They scatter light. The intensity of light passing through the fog decreases according to the
-the following expression:
+When fog forms, visibility decreases because the water droplets scatter light. The intensity of light passing through the fog decreases according to the following expression:
 
 $$I = I_0\,\exp(-2NA\,z) \quad (4)$$
 
-where $A$ is the cross-sectional area of the water droplets to the radiation beam, $N$ is the
-The concentration of droplets (number of droplets per unit volume) and $I_0$ is the radiation without
-The following is the list of the categories of products:
+where $A$ is the cross-sectional area of the water droplets to the radiation beam, $N$ is the droplet concentration (number of droplets per unit volume) and $I_0$ is the radiation without attenuation.
 
-The intensity is observed to decrease to 8% of its initial value when the beam of light is
-It's 100 meters of fog.
+It is observed that the intensity decreases to 8% of its initial value when the light beam passes through 100 meters of fog.
 
 Considering all droplets as spheres of equal size.
 
-(h) What is the size of the droplets that form the fog and what is their concentration?
+h) What size are the droplets that make up the fog and what is their concentration?
 
 Data and constants
 
-♪ Parameter ♪ Value ♪ Unity ♪
+| Parameter | Value | Unit |
 |---|---|---|
 | $p_0$ | $6{,}11$ | hPa |
 | $T_0$ | $0{,}01$ | $^\circ\text{C}$ |
@@ -1229,14 +1020,7 @@ Data and constants
 | $M_{as}$ | $28{,}97$ | $\text{g mol}^{-1}$ |
 | $c$ | $1004$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
 
-Figure 1: Water vapour saturation pressure based on temperature.
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]], [[Wave Optics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Droplet (object)|Droplet]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
-
+Figure 1: Saturation vapor pressure of water as a function of temperature.
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2016 — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/resistor,object/battery"></span>
@@ -1378,258 +1162,183 @@ energía es proporcional al área encerrada en la curva de histéresis.
 
 Problema 3
 I circuiti e le loro simmetrie.
-Un ingegnere elettronico si gioca con la progettazione di circuiti elettrici, che presentano alcuni
-simmetria. Il primo circuito che progetta è mostrato nella figura seguente.
+Un ingegnere elettronico gioca con la progettazione di circuiti elettrici, che presentano una certa simmetria. Il primo circuito che progetta è mostrato nella figura seguente.
 
-Chiamando $I_1$ e $I_2$ le correnti che circolano per AB e AC rispettivamente:
+Chiamando $I_1$ e $I_2$ le correnti che circolano rispettivamente in AB e AC:
 
-a) Dimostra che i correnti che circolano su BD e CD sono $I_2$ e $I_1$;
-rispettivamente.
+a) Dimostrare che le correnti che circolano in BD e CD sono rispettivamente $I_2$ e $I_1$.
 
-b) Determina i correnti che circolano per BC e DA in termini di $I_1$ e $I_2$.
+b) Determinare le correnti che circolano in BC e DA in termini di $I_1$ e $I_2$.
 
-c) Determina i correnti $I_1$ e $I_2$ sapendo che $R = 10$ e $E = 20\ \text{V}$.
+c) Determinare le correnti $I_1$ e $I_2$ sapendo che $R = 10$ e $E = 20\ \text{V}$.
 
-d) Determina la resistenza equivalente $R_{eq}$ del circuito.
+d) Determinare la resistenza equivalente $R_{eq}$ del circuito.
 
-Se la resistenza in BC viene sostituita da una resistenza variabile, $R_X$, che può prendere
-Valori tra $0$ e $1\times10^{10}$:
-e) Determina il possibile range di valori della resistenza equivalente del circuito.
-Supponiamo che quando $R_X$ prende il suo massimo valore, questo può essere considerato infinito.
+Se la resistenza in BC viene sostituita da una resistenza variabile, $R_X$, che può assumere valori tra $0$ e $1\times10^{10}$ :
+e) Determinare il possibile intervallo di valori della resistenza equivalente del circuito.
+Si supponga che quando $R_X$ assume il suo valore massimo, questo possa essere considerato infinito.
 
-Entusiasmato, l'ingegnere costruisce il seguente blocco di resistenza:
+Entusiasta, l'ingegnere costruisce il seguente blocco di resistenze:
 
-g) Se $R = 10\ \Omega$, determina la resistenza tra i punti $A_1$ e $A_2$.
+g) Se $R = 10\ \Omega$, determinare la resistenza tra i punti $A_1$ e $A_2$.
 
 Poi aggiunge un secondo blocco.
 
-h) Determina la resistenza tra $A_3$ e $A_4$.
+h) Determinare la resistenza tra $A_3$ e $A_4$.
 
-Infine, l'ingegnere si rende conto che può aggiungere un numero molto grande di
-formando ciò che è noto come rete scalare. Come mostra la figura a
-la resistenza di questa scala è $r$.
+Infine, l'ingegnere si rende conto che può aggiungere un numero molto grande di questi blocchi e formare quella che è nota come rete a scala. Come mostra la figura seguente, questa rete a scala ha una resistenza $r$.
 
-In questo momento, aggiungere un blocco extra non produce una differenza significativa tra il
-resistenza della rete di scala, rispetto alla resistenza $r$ tra $A_{n-1}$ e $A_n$.
+In questa fase, aggiungere un blocco extra non produce una differenza significativa della resistenza della rete a scala, rispetto alla resistenza $r$ tra $A_{n-1}$ e $A_n$.
 
-(i) Considerando la figura seguente, determinare la resistenza tra O e P quando un
-blocco extra è aggiunto alla rete scalare a sinistra di $A_{n-1}$, $A_n$.
+i) Considerando la figura seguente, determinare la resistenza tra O e P quando un blocco extra viene aggiunto alla rete a scala a sinistra di $A_{n-1}$, $A_n$.
 
-j) Usa il risultato precedente per trovare la resistenza equivalente di una
-una scala infinita fatta di questi blocchi.
-Prova sperimentale - Livello 2
+j) Usare il risultato precedente per trovare la resistenza equivalente di una scala infinita fatta di questi blocchi.
+Prova Sperimentale - Livello 2
 
 Proprietà meccaniche di una banda elastica.
 Introduzione
-Lo studio della deformazione di un materiale elastico quando viene applicato un
-La forza esterna è di grande importanza per lo studio di alcune delle sue proprietà
-fisica. Un materiale polimerico è un materiale elastico formato da catene di molecole
-molto lunghi, uniti da legami chimici in alcuni punti.
+Lo studio della deformazione che subisce un materiale elastico, quando gli viene applicata una forza esterna, è di grande importanza per lo studio di alcune delle sue proprietà fisiche. Un materiale polimerico è un materiale elastico formato da catene di molecole molto lunghe, unite da legami chimici in alcuni punti.
 
-Quando si esercita una forza sulle estremità di un materiale polimerico, queste catene
-La Commissione ha adottato una proposta di direttiva che modifica la sua disposizione, generando una risposta diversa da quella data dalla Commissione.
-La legge di Hook.
+Quando si esercita una forza agli estremi di un materiale polimerico, queste catene cominciano a modificare la loro disposizione, generando una risposta diversa da quella data dalla legge di Hook.
 
-In particolare, una banda a elastica è un materiale polimerico che, in presenza di un'applicazione di
-una forza esterna risponde, in un intervallo di lunghezza angolato, alla seguente
-espressione:
+In particolare, una banda elastica è un materiale polimerico e che di fronte all'applicazione di una forza esterna risponde, in un intervallo limitato di lunghezze, alla seguente espressione:
 
 $$F = A\sigma \qquad \text{donde} \qquad \sigma = \frac{l}{l_0} \quad (1)$$
 
-In questa espressione $l_0$ è la lunghezza della fascia quando non è applicata alcuna
-forza esterna, $l$ è la sua lunghezza quando si applica una forza esterna $F$, e $A$ è una
-costante caratteristica del materiale che dipende dalla temperatura.
+In questa espressione $l_0$ è la lunghezza della banda elastica quando non è applicata alcuna forza esterna, $l$ è la sua lunghezza quando è applicata una forza esterna $F$, e $A$ è una costante caratteristica del materiale che dipende dalla temperatura.
 
-Un'altra caratteristica di questi materiali è che la loro lunghezza dipende dal fatto che si trovava in un'area di
-allungando o compresso. In altre parole, la lunghezza che il fascio acquista dipende dal fatto che
-si aumenta o si riduce il modulo di forza esterna.
+Un'altra caratteristica di questi materiali è che la loro lunghezza dipende dal fatto che esso si stesse allungando o comprimendo. Cioè, la lunghezza che acquisisce la banda elastica dipende dal fatto che si aumenti o si diminuisca il modulo della forza esterna.
 
-Se si grafica la forza applicata in funzione della lunghezza acquisita dalla banda a rallentamento,
-Quando il modulo di forza aumenta e quando diminuisce, si osserva che le
-le curve non coincidono. Questo è chiamato isteresi e questo è
-Il comportamento è dovuto all'energia che è stata immagazzinata nella
-banda elastica quando si fa lavoro su di essa.
+Se si rappresenta graficamente la forza applicata in funzione della lunghezza acquisita dalla banda elastica, quando il modulo della forza aumenta e quando questo diminuisce, si osserva che le curve non coincidono. Questo è chiamato isteresi e questo comportamento è dovuto all'energia che viene immagazzinata nella banda elastica quando si compie lavoro su di essa.
 
-Obiettivo: Determinare sperimentalmente il valore di $A$ e il lavoro
-realizzato su una banda elastica.
+Obiettivo: Determinare sperimentalmente il valore di $A$ e il lavoro compiuto su una banda elastica.
 
 Elementi disponibili
-- 16 masse di $25\ \text{g}$ ciascuna
-- 1 portapiede
-- 1 base a regola fissa dove si sospende la banda elastica
-(Vedi Figura).
-- 1 banda a gas
+- 16 masse di circa $25\ \text{g}$ ciascuna
+- 1 portapesi
+- 1 base con righello fisso dove si appende la banda elastica (Vedi Figura).
+- 1 banda elastica
 - 1 bilancia
-- Papero di millimetro
-Non applicata
+- Carta millimetrata
+Senza forza applicata
 Con forza applicata
-Informazioni aggiuntive:
-Accelerazione gravitatoria: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
-Massa degli anelli in alluminio: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
+Dati aggiuntivi:
+Accelerazione di gravità: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
+Massa degli anelli di alluminio: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
 
-Procedura
-Perché questo è un esperimento in cui abbiamo fatto su una banda elastica
-Il processo è irreversibile, l'intera procedura deve essere eseguita con molta attenzione.
+Procedimento
+Poiché questo è un esperimento in cui effettuiamo sulla banda elastica un processo irreversibile, bisogna eseguire tutto il procedimento con molta attenzione.
 
-4. Misura la lunghezza $l_0$ della banda gommata.
+4. Misurare la lunghezza $l_0$ della fascia di gomma.
 
-5. Metti il portapiede e continua a aggiungere pesi. I pesi devono essere aggiunti
-- il controllo delle misure di sicurezza,
-precauzioni per evitare che il processo di aggiunta dei pesi sia modificato
-la lunghezza della fascia di gomma: non si estende né si accorcia.
-Per ogni nuovo peso posto, aspettate almeno 1 minuto per eseguire la
-corrispondente misura della lunghezza della banda di gomma.
+5. Collocare il portapesi e aggiungere gradualmente i pesi. I pesi devono essere aggiunti con cura, senza togliere quelli che erano stati collocati precedentemente; prendere tutte le precauzioni affinché nel processo di aggiunta dei pesi non si modifichi bruscamente la lunghezza della fascia di gomma: né allungandosi né accorciandosi.
+Per ogni nuovo peso collocato attendere, almeno 1 minuto, per effettuare la corrispondente misura della lunghezza della fascia di gomma.
 
-6. Ripeti il punto precedente fino a aggiungere, approssimativamente, $400\ \text{g}$ in masse.
+6. Ripetere il punto precedente fino ad aggiungere, approssimativamente, $400\ \text{g}$ in masse.
 
-7. Inizia a rimuovere da una le masse e misura le corrispondenti lunghezze della
-band fino a non lasciare nessuna massa appesa. Quando si toglie la massa, si togliono le
-Le stesse cure che le aggiungono.
+7. Cominciare a togliere una alla volta le masse e misurare le corrispondenti lunghezze della fascia fino a non lasciare nessuna massa appesa. Quando si tolgono le masse, prendere le stesse precauzioni che nell'aggiungerle.
 
-Consigne
-7. Indicare il valore misurato di $l_0$.
-8. Fare una tabella con i valori $l$, $m$ e $\sigma$.
-9. Grafica $m$ in funzione di $\sigma$.
-10. Indicare nel grafico l'intervallo in cui vale l'espressione [1].
-11. Aggiusta con una retta i dati dell'intervallo indicato nel punto precedente.
-Determina il valore della pendenza di tale retta.
-12. Determina il valore di $A$.
-13. Grafica i valori di $m$ in funzione di $l$ per il caricamento e il discarico.
-14. Calcola l'energia che rimane conservata nella banda gommata. Dichiarazione
-l'energia è proporzionale all'area chiusa nella curva di isteresi.
+Consegne
+7. Riportare il valore misurato di $l_0$.
+8. Fare una tabella con i valori di $l$, $m$ e $\sigma$.
+9. Tracciare il grafico di $m$ in funzione di $\sigma$.
+10. Indicare sul grafico l'intervallo in cui vale l'espressione [1].
+11. Approssimare con una retta i dati dell'intervallo indicato nel punto precedente.
+Determinare il valore della pendenza di tale retta.
+12. Determinare il valore di $A$.
+13. Tracciare il grafico dei valori di $m$ in funzione di $l$ per il carico e lo scarico.
+14. Calcolare l'energia che rimane immagazzinata nella fascia di gomma. Tale energia è proporzionale all'area racchiusa nella curva di isteresi.
 
-**Topic:** [[Circuits]], [[Elasticity & Materials]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-The circuits and their symmetries.
-An electronic engineer plays with the design of electrical circuits, which present certain
-It's symmetry. The first circuit he designs is shown in the following figure.
+Problem 3
+Circuits and their symmetries.
+An electronics engineer plays with the design of electrical circuits, which present a certain symmetry. The first circuit he designs is shown in the following figure.
 
-Calling $I_1$ and $I_2$ to the currents circulating by AB and AC respectively:
+Calling $I_1$ and $I_2$ the currents flowing through AB and AC respectively:
 
-(a) Demonstrate that BD and CD currents are $I_2$ and $I_1$,
-the Commission.
+a) Show that the currents flowing through BD and CD are $I_2$ and $I_1$, respectively.
 
-(b) Determine the currents circulating in BC and DA in terms of $I_1$ and $I_2$.
+b) Determine the currents flowing through BC and DA in terms of $I_1$ and $I_2$.
 
-(c) Determine the currents $I_1$ and $I_2$ knowing that $R = 10$ and $E = 20\ \text{V}$.
+c) Determine the currents $I_1$ and $I_2$ knowing that $R = 10$ and $E = 20\ \text{V}$.
 
-(d) Determine the equivalent resistance $R_{eq}$ of the circuit.
+d) Determine the equivalent resistance $R_{eq}$ of the circuit.
 
-If the resistance in BC is replaced by a variable resistance, $R_X$, which can take
-values between $0$ and $1\times10^{10}$:
-(e) Determine the possible range of values of the equivalent resistance of the circuit.
-Suppose that when $R_X$ takes its maximum value, it can be considered infinite.
+If the resistance in BC is replaced by a variable resistance, $R_X$, which can take values between $0$ and $1\times10^{10}$:
+e) Determine the possible range of values of the equivalent resistance of the circuit.
+Assume that when $R_X$ takes its maximum value, it can be considered infinite.
 
-Enthusiastic, the engineer builds the following block of resistance:
+Excited, the engineer builds the following block of resistors:
 
-(g) If $R = 10\ \Omega$, determine the resistance between the points $A_1$ and $A_2$.
+g) If $R = 10\ \Omega$, determine the resistance between points $A_1$ and $A_2$.
 
-Then add a second block.
+Then he adds a second block.
 
-(h) Determine the resistance between $A_3$ and $A_4$.
+h) Determine the resistance between $A_3$ and $A_4$.
 
-Finally, the engineer realizes that he can add a very large number of
-These blocks and form what's known as a ladder network. As shown in Figure a
-then this ladder network has a resistance $r$.
+Finally, the engineer realizes that he can add a very large number of these blocks and form what is known as a ladder network. As shown in the following figure, this ladder network has a resistance $r$.
 
-At this stage, adding an extra block does not make a significant difference to the
-The resistance of the ladder network, with respect to the resistance $r$ between $A_{n-1}$ and $A_n$.
+At this stage, adding an extra block does not produce a significant difference in the resistance of the ladder network, with respect to the resistance $r$ between $A_{n-1}$ and $A_n$.
 
-(i) Considering the following figure, determine the resistance between O and P when a
-The extra block is added to the ladder network to the left of $A_{n-1}$, $A_n$.
+i) Considering the following figure, determine the resistance between O and P when an extra block is added to the ladder network to the left of $A_{n-1}$, $A_n$.
 
-j) Use the previous result to find the equivalent resistance of a
-infinite staircase made of these blocks.
-The following shall be added to the list of the following:
+j) Use the previous result to find the equivalent resistance of an infinite ladder made of these blocks.
+Experimental Test - Level 2
 
 Mechanical properties of an elastic band.
-The following is the list of the countries of the European Union:
-The study of the deformation of an elastic material when a
-The study of some of its properties is of great importance.
-The physical. A polymer material is an elastic material formed by chains of molecules
-very long, bound by chemical bonds at some points.
+Introduction
+The study of the deformation undergone by an elastic material, when an external force is applied to it, is of great importance for the study of some of its physical properties. A polymeric material is an elastic material formed by chains of very long molecules, joined by chemical bonds at some points.
 
-When a force is applied to the ends of a polymer material, these chains are
-The Commission has already adopted a number of proposals for a new directive on the protection of workers' rights.
-Hook's law.
+When a force is exerted on the ends of a polymeric material, these chains begin to modify their arrangement, generating a response different from that given by Hooke's law.
 
-In particular, an elastic band is a polymeric material which, when applied to a
-an external force responds, in a narrow range of lengths, to the following
-The expression:
+In particular, an elastic band is a polymeric material and, when an external force is applied, it responds, within a limited range of lengths, to the following expression:
 
 $$F = A\sigma \qquad \text{donde} \qquad \sigma = \frac{l}{l_0} \quad (1)$$
 
-In this expression $l_0$ is the length of the elastic band when no
-The external force $l$ is its length when an external force $F$ is applied, and $A$ is a
-The material is a constant temperature-dependent characteristic.
+In this expression $l_0$ is the length of the elastic band when no external force is applied to it, $l$ is its length when an external force $F$ is applied to it, and $A$ is a constant characteristic of the material that depends on the temperature.
 
-Another characteristic of these materials is that their length depends on whether they were
-stretching or compressing. That is, the length the elastic band takes depends on whether the
-You either increase the modulus of the external force or you decrease it.
+Another characteristic of these materials is that their length depends on whether it was being stretched or compressed. That is, the length acquired by the elastic band depends on whether one increases the modulus of the external force or decreases it.
 
-If the force applied is graphed according to the length acquired by the elastic band,
-When the force module increases and when it decreases, it is observed that the forces in the
-curves do not match. This is called hysteresis and this is
-The behaviour is due to the energy stored in the
-elastic band when work is done on it.
+If the applied force is plotted as a function of the length acquired by the elastic band, when the modulus of the force increases and when it decreases, it is observed that the curves do not coincide. This is called hysteresis and this behavior is due to the energy that is stored in the elastic band when work is done on it.
 
-Objective: To experimentally determine the value of $A$ and the work
-made on an elastic band.
+Objective: To determine experimentally the value of $A$ and the work done on an elastic band.
 
-Available items
+Available elements
 - 16 masses of approximately $25\ \text{g}$ each
-- 1 weighing machine
-- 1 fixed-range base where the elastic band is suspended
-(See Figure).
+- 1 weight holder
+- 1 base with a fixed ruler where the elastic band is hung (See Figure).
 - 1 elastic band
-- One swing
+- 1 balance
 - Millimeter paper
-Not with applied force
+Without applied force
 With applied force
 Additional data:
-The acceleration of gravity shall be: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
-Mass of aluminium rings: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
+Acceleration of gravity: $g = (9{,}79 \pm 0{,}01)\ \text{m s}^{-2}$
+Mass of the aluminum rings: $m = (0{,}70 \pm 0{,}01)\ \text{g}$
 
-The procedure
-Because this is an experiment where we're doing an elastic band
-The Commission has already decided to take a decision on the following:
+Procedure
+Since this is an experiment in which we carry out an irreversible process on the elastic band, the entire procedure must be carried out very carefully.
 
 4. Measure the length $l_0$ of the rubber band.
 
-5. Put the weigh-in and go add weights. Weights must be added
-Take carefully, without removing any previously placed; take all the
-precautions to ensure that the weighting process is not modified
-The length of the rubber band is sharply: neither stretching nor shortening.
-For each new weight placed wait at least 1 minute to perform the
-The corresponding measurement of the length of the rubber band.
+5. Place the weight holder and gradually add weights. The weights must be added carefully, without removing those that had been placed previously; take all precautions so that in the process of adding the weights the length of the rubber band is not abruptly modified: neither stretching nor shortening.
+For each new weight placed, wait at least 1 minute to carry out the corresponding measurement of the length of the rubber band.
 
-6. Repeat the previous point until you add approximately $400\ \text{g}$ in masses.
+6. Repeat the previous point until adding approximately $400\ \text{g}$ in masses.
 
-7. Start by removing the masses from a and measure the corresponding lengths of the
-band until no mass is left hanging. When you take the masses off, take the
-The same care as when you add them.
+7. Begin removing the masses one at a time and measure the corresponding lengths of the band until no mass is left hanging. When removing the masses, take the same precautions as when adding them.
 
-Consignments
+Instructions
 7. Report the measured value of $l_0$.
 8. Make a table with the values of $l$, $m$ and $\sigma$.
-9. Graph $m$ according to $\sigma$.
-10. Indicate in the graph the interval in which the expression is valid [1].
-11. Adjust the data for the interval indicated in the previous point with a straight line.
-Determine the slope value of that straight.
+9. Plot $m$ as a function of $\sigma$.
+10. Indicate on the graph the interval where expression [1] holds.
+11. Fit the data of the interval indicated in the previous point with a straight line.
+Determine the value of the slope of said line.
 12. Determine the value of $A$.
-13. Graph the values of $m$ according to $l$ for loading and unloading.
-14. Calculate the energy that is stored in the rubber band. This is
-energy is proportional to the enclosed area in the hysteresis curve.
+13. Plot the values of $m$ as a function of $l$ for loading and unloading.
+14. Calculate the energy that remains stored in the rubber band. Said energy is proportional to the area enclosed in the hysteresis curve.
 
-**Topic:** [[Circuits]], [[Elasticity & Materials]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1feju-vPHKGXhWKsxslJVuac1Vig7ludj/view)
+

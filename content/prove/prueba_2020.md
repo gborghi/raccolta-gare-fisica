@@ -282,88 +282,59 @@ $$\Delta A \approx \frac{1}{2}\, r_p\, \Delta r$$
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 1: Un'avventura spaziale nel Rinascimento!!!
-Una delle potenze mondiali del XVII secolo ha assunto uno scienziato
-di tempo per fare i calcoli necessari per mettere un oggetto in orbita
-intorno alla Terra. La conoscenza di allora si limitava alle leggi di Kepler
-E alcune questioni di cinematografia e molto poco di dinamica. Si disponeva anche
-La Commissione ha adottato una serie di misure per la protezione dell'ambiente, la protezione dell'ambiente e la protezione dell'ambiente.
-telescopio recentemente sviluppato da Galileo.
-Le leggi di Kepler, espresse per il movimento planetario, sono:
-1) I pianeti si muovono su elisi con il Sole in uno dei loro foci.
+Una delle potenze mondiali dell'inizio del XVII secolo assunse uno scienziato dell'epoca affinché eseguisse i calcoli necessari per mettere un oggetto in orbita attorno alla Terra. Le conoscenze dell'epoca si limitavano alle Leggi di Keplero e ad alcune questioni di cinematica e ben poco di dinamica. Si disponeva anche di dati sui parametri dell'orbita lunare ed era agli inizi l'uso del telescopio recentemente sviluppato da Galileo.
+Le Leggi di Keplero, enunciate per il moto planetario, sono:
+1) I pianeti si muovono su ellissi con il Sole in uno dei loro fuochi.
 
-2) Il radio vettore che descrive il movimento del pianeta, spazza le stesse aree in
-- E' la stessa cosa.
+2) Il raggio vettore che descrive il moto del pianeta spazza aree uguali in tempi uguali.
 
-3) Se $T_1$, $T_2$, $a_1$ e $a_2$ rappresentano i periodi e le semiaie superiori delle
-le orbite di due pianeti, 1 e 2, si ottengono la seguente relazione:
+3) Se $T_1$, $T_2$, $a_1$ e $a_2$ rappresentano i periodi e i semiasi maggiori delle orbite di due pianeti, 1 e 2, vale la seguente relazione:
 
 $$\left(\frac{T_1}{T_2}\right)^2 = \left(\frac{a_1}{a_2}\right)^3$$
 
-La Commissione ha adottato una proposta di direttiva che prevede che le misure di cui all'articolo 1 del regolamento (CEE) n.
-Kepler stesso, che in un romanzo chiamato Somnium, ha speculato sulla possibilità di
-mandare gli esseri umani a viaggiare verso la Luna.
-Il compito del ricercatore era quello di determinare le caratteristiche dell'orbita che il
-L'oggetto sarebbe stato così come pensare al modo in cui tale oggetto potrebbe essere messo in
-Orbita.
-Considerando i dati che il ricercatore aveva:
-Tabella 1: Dati con cui il scienziato contava
-Radiosfera media dell'orbita lunare
+Può risultare strano pensare a questo tipo di impostazioni, ma è noto che fu lo stesso Keplero che, in un romanzo intitolato Somnium, speculò sulla possibilità di mettere esseri umani in viaggio verso la Luna.
+Il compito dello scienziato assunto era determinare le caratteristiche dell'orbita che l'oggetto avrebbe seguito, nonché pensare al modo in cui quell'oggetto poteva essere messo in orbita.
+Considerando i dati di cui disponeva lo scienziato:
+Tabella 1: Dati di cui disponeva lo scienziato
+Raggio medio dell'orbita lunare
 $384000$ km
-Periodo di orbita lunare
+Periodo dell'orbita lunare
 $27{,}32$ giorni
-Radio medio della Terra
+Raggio medio della Terra
 $6371$ km
 
-Sapendo che tra le condizioni che il corpo messo in orbita doveva soddisfare,
-era il fatto che doveva rimanere fermo sul cielo della potenza che aveva
-Insegna al scienziato; in terminologia moderna si direbbe che era un oggetto geo
-- Sincronica.
-a) Calcolare la semicilometria maggiore dell'ellipse su cui si muove il corpo.
-Un altro requisito che è stato richiesto al scienziato rinascimentale per la progettazione della
-L'orbita, era che l'eccentricità di esso fosse $e = 0{,}30$. Ricordare che la
-eccentricità di un'ellipse è definita da:
+Sapendo che tra le condizioni che il corpo posto in orbita doveva soddisfare vi era il fatto che doveva rimanere fermo sul cielo della potenza che aveva assunto lo scienziato; nella terminologia moderna si direbbe che era un oggetto geosincrono.
+a) Calcoli il semiasse maggiore dell'ellisse su cui si muove il corpo.
+Un altro requisito che fu richiesto allo scienziato rinascimentale per la progettazione dell'orbita era che l'eccentricità della stessa fosse $e = 0{,}30$. Ricordare che l'eccentricità di un'ellisse è definita da:
 $$e = \sqrt{1 - \left(\frac{b}{a}\right)^2}$$
 
-dove $a$ è la semiscia maggiore e $b$ la semiscia minore dell'ellisse.
-b) Calcolare la semicilometria minore dell'ellipse su cui si muove il corpo.
+dove $a$ è il semiasse maggiore e $b$ il semiasse minore dell'ellisse.
+b) Calcoli il semiasse minore dell'ellisse su cui si muove il corpo.
 
-Considerando che l'equazione per un'ellipse, in coordinate polari, è
-data da:
-$$r(\theta) = \frac{a(1 - e^2)}{1 + e\cos(\theta)}$$
-dove $\theta$ è l'angolo misurato dal perigeo, in senso antiorario e tale che
-l'origine di $r$ è nel foco dell'ellipse (vedere Figura 1). E che l'area $A$ di esso
-è data da: $A = \pi a b$.
+Tenendo conto che l'equazione per un'ellisse, in coordinate polari, è data da:
+$$r(\theta) = \frac{a(1 - e^2)}{1 + e\cos(\theta)}$$ dove $\theta$ è l'angolo che si misura dal perigeo, in senso antiorario e tale che l'origine di $r$ è nel fuoco dell'ellisse (vedi Figura 1). E che l'area $A$ della stessa è data da: $A = \pi a b$.
 
-Figura 1: Elice che rappresenta il percorso del corpo in orbita intorno a
-la Terra (disegno non a scala)
+Figura 1: Ellisse che rappresenta la traiettoria del corpo posto in orbita attorno alla Terra (disegno non in scala)
 
-c) Calcolare la velocità aerea media del corpo in orbita.
+c) Calcoli la velocità areolare media del corpo nel percorrere la sua orbita.
 
-d) Calcolare la velocità media del corpo nei pressi del perigeo di
-l'orbita.
+d) Calcoli la velocità media del corpo nelle vicinanze del perigeo dell'orbita.
 
-e) Calcolare la velocità media del corpo al punto più lontano (apoggio)
-di tutto il suo percorso.
+e) Calcoli la velocità media del corpo nel punto più lontano (apogeo)
+della sua traiettoria.
 
-Finire la prova di livello 1
-Continua la prova per il livello 2
+Fine Prova Livello 1
+Continua Prova per Livello 2
 
-Altri preparati$\dots$
-Tra i compiti del scienziato rinascimentale c'era la determinazione della posizione del corpo in
-La sua orbita è a seconda del tempo. Per ottenere questo calcolato l'area dei settori
-dilimitati dalla posizione del vettore $r$ sul perihelione, $r_p$, e del vettore $r(\theta_j)$,
-dove
-$$\theta_j = \frac{2\pi j}{10}, \quad j = 0, \dots, 10$$
-e corrispondono a aver diviso l'intervallo $[0, 2\pi]$ in 10 parti uguali (vedere Figura 2).
+Alcuni preparativi in più$\dots$
+Tra i compiti dello scienziato rinascimentale c'era determinare la posizione del corpo nella sua orbita in funzione del tempo. Per riuscirci calcolò l'area dei settori delimitati dalla posizione del raggio vettore $r$ al perielio, $r_p$, e il raggio vettore $r(\theta_j)$, dove
+$$\theta_j = \frac{2\pi j}{10}, \quad j = 0, \dots, 10$$ e corrispondono ad aver diviso l'intervallo $[0, 2\pi]$ in 10 parti uguali (vedi Figura 2).
 
-Figura 2: Settore di area spazzato per il vettore di posizione
-L'area $A_j$ corrispondente al settore con angolo $\theta_j$, è data dalla espressione:
-$$A_j(a, e, \theta_j) = \frac{a^2(1 - e^2)^2}{2}\, I(e, \theta_j)$$
-dove $a$ è la semicentrismo maggiore dell'ellipse, $e$ la sua eccentricità. Quantità $I(e, \theta_j)$
-sono indicate in Tabella 2, per l'escentricità $e = 0{,}3$.
+Figura 2: Settore di area spazzata dal vettore posizione
+L'area $A_j$ corrispondente al settore con angolo $\theta_j$, è data dall'espressione:
+$$A_j(a, e, \theta_j) = \frac{a^2(1 - e^2)^2}{2}\, I(e, \theta_j)$$ dove $a$ è il semiasse maggiore dell'ellisse, $e$ la sua eccentricità. Le quantità $I(e, \theta_j)$ sono date nella Tabella 2, per l'eccentricità $e = 0{,}3$.
 
-Tabella 2: Valori delle quantità $I(e, \theta_j)$
-per $e = 0.3$
+Tabella 2: Valori delle quantità $I(e, \theta_j)$ per $e = 0.3$
 
 $I(0.3, \theta_j)$
 $\theta_j$
@@ -389,88 +360,68 @@ $\theta_j$
 5.65
 7.238
 6.28
-f) Sulla base dei dati della tabella 1, e usando le leggi di Kepler,
-Configgere una tabella per il modulo del vettore posizione del corpo
-messo in orbita in funzione del tempo. Con i dati forniti
-potrà valutare la posizione del vettore in 11 tempi diversi.
+f) A partire dai dati della Tabella 1, e usando le leggi di Keplero, confezioni una tabella per il modulo del vettore posizione del corpo posto in orbita in funzione del tempo. Con i dati forniti potrà valutare il vettore posizione in 11 tempi diversi.
 
-Infinito e oltre!!!
-Isaac Newton ha discusso dell'uso di un cannone per posizionare un oggetto in orbita. Newton
-Il suo parere è stato il seguente:
-parole: immaginiamo una montagna molto alta che la sua
-il picco è sopra l'atmosfera terrestre;
-Sul monte c'è un cannone che spara
-- Orisontale. Come ogni tiro viene fatto
-con un carico esplosivo maggiore, la pallottola di cannone avrà
-una velocità maggiore, e il proiettile cadrà sempre più.
-- lontano. Infine, a una certa velocità il proiettile non
-Toccerà la terra e resterà in orbita per sempre
-intorno alla Terra.
-Per prova e errore e procedendo secondo le
-suggerito da Newton, lo scienziato rinascimentale si prepara a lanciare il proiettile,
-direzione orizzontale, a diverse velocità. L'oggetto che volevo mettere in orbita
-Aveva una massa di $200$ kg e la massa del cannone che aveva era $2000$ kg.
-g) Progettare un metodo per misurare la velocità di uscita del proiettile
-con misurazioni della velocità di "retrocesso" del cannone.
-Pagina di risposte Problema 1
-Un'avventura spaziale nel Rinascimento!!!
+!!!All'infinito e oltre!!!
+Isaac Newton discusse l'uso di un cannone per mettere un oggetto in orbita. Newton fece il seguente ragionamento (con le sue stesse parole): immaginiamo una montagna molto alta il cui picco sia al di sopra dell'atmosfera della Terra; sulla cima di quella montagna c'è un cannone che spara orizzontalmente. Man mano che ogni sparo viene effettuato con una carica esplosiva maggiore, la palla di cannone avrà una velocità maggiore, e il proiettile cadrà sempre più lontano. Infine, a una certa velocità il proiettile non toccherà la terra e rimarrà in orbita per sempre attorno alla Terra.
+Per tentativi ed errori e procedendo secondo quanto suggerito da Newton, lo scienziato rinascimentale si accinge a lanciare il proiettile, in direzione orizzontale, a velocità diverse. L'oggetto che desiderava mettere in orbita aveva una massa di $200$ kg e la massa del cannone di cui disponeva era di $2000$ kg.
+g) Progettare un metodo per misurare la velocità di uscita del proiettile utilizzando misurazioni della velocità di "rinculo" del cannone.
+Foglio delle Risposte Problema 1
+!!!Un'Avventura Spaziale nel Rinascimento!!!
 
-Pts
-a)
-la semiezza maggiore dell'ellisse è:
+Pti a)
+il semiasse maggiore dell'ellisse è:
 
 b)
-la semiezza minore dell'ellisse è:
+il semiasse minore dell'ellisse è:
 
 c)
-la velocità aerea media è:
+la velocità areolare media è:
 
 d)
-la velocità media del corpo nei pressi del perigeo è:
+la velocità media del corpo in prossimità del perigeo è:
 
 e)
-la velocità media del corpo in apoggio è:
+la velocità media del corpo all'apogeo è:
 
-Finità di livello 1, continuazione di livello 2
+Fine Livello 1, continua Livello 2
 
 f)
-Tabella per: modulo del vettore posizione come funzione del tempo:
+Tabella per: modulo del vettore posizione in funzione del tempo:
 
 g)
-Metodo per misurare la velocità di uscita:
-Pagina di risposte Problema N°2:
-Un'avventura spaziale nel Rinascimento!!!
+metodo per misurare la velocità di uscita:
+Foglio delle Risposte Problema N°2:
+Un'Avventura Spaziale nel Rinascimento!!!
 
-Pts
-a)
-la semiezza maggiore dell'ellisse è:
+Pti a)
+il semiasse maggiore dell'ellisse è:
 
 $a_1 = 442333$ km
 
 b)
-la semiezza minore dell'ellisse è:
+il semiasse minore dell'ellisse è:
 
 $b = 40383$ km
 
 c)
-la velocità aerea media è:
+la velocità areolare media è:
 
 $$\text{vel}_\text{areolar} = \frac{\text{área de la elipse}}{\text{período de la órbita}} = \frac{\pi a b}{T}$$
 
 d)
-la velocità media del corpo nei pressi del perigeo è:
+la velocità media del corpo in prossimità del perigeo è:
 $$V_p = 15103\ \frac{\text{km}}{\text{h}}$$
 
 e)
-la velocità media del corpo in apoggio è:
+la velocità media del corpo all'apogeo è:
 
 $$v_a = \frac{2\pi b}{T(1 + e)} = 8132\ \frac{\text{km}}{\text{h}}$$
 
-Finità di livello 1, continuazione di livello 2
-continua livello 2
+Fine Livello 1, continua Livello 2 continua Livello 2
 
 f)
-Tabella per: modulo del vettore posizione come funzione del tempo:
+Tabella per: modulo del vettore posizione in funzione del tempo:
 
 $t_j$ (h)
 $r_j$ (km)
@@ -498,133 +449,92 @@ $r_j$ (km)
 29633
 
 g)
-Metodo per misurare la velocità di uscita:
+metodo per misurare la velocità di uscita:
 
-Ogni volta che si lancia il cannone si muoverà in direzione opposta al proiettile e la sua velocità
-dopo il tiro sarà:
+Ad ogni sparo il cannone si sposterà in senso contrario al proiettile e la sua velocità dopo lo sparo sarà:
 
 $$v_\text{cañón} = -\frac{m_\text{cuerpo}}{m_\text{cañón}}\, v_\text{cuerpo}$$
-La velocità media del cannone dopo il colpo è:
-$$v_\text{cañón} = \frac{d}{t}$$
-in cui $d$ è la distanza percorsa in un determinato tempo $t$. Se fissate la distanza, e
-Se riusciamo a misurare il tempo, possiamo ottenere la velocità media del cannone nel
-E' il momento di fare un passo indietro e di usare l'equazione di sopra, per ottenere la velocità con cui è stato lanciato il
-corpo nello spazio.
-Soluzione del problema "Un'avventura spaziale nel Rinascimento"
-a) Secondo la Terza Legge di Kepler, se
-$T_1$ = periodo dell'oggetto da mettere in orbita = $24$ hs
-$T_2 = T_L = 27{,}32$ giorni $= 27{,}32\times24 = 655{,}68$ hs
-$a_1$ = semicilogramma maggiore dell'orbita dell'oggetto
-$a_2$ = semicilogramma maggiore dell'orbita lunare $= 384000$ km. Allora:
+La velocità media del cannone dopo lo sparo è:
+$$v_\text{cañón} = \frac{d}{t}$$ dove $d$ è la distanza che percorre in un determinato tempo $t$. Se fissiamo la distanza, e riusciamo a misurare il tempo, possiamo ricavare la velocità media del cannone nel rinculo e usando l'equazione di sopra, ricavare la velocità con cui è stato lanciato il corpo nello spazio.
+Soluzione Problema "Un'Avventura Spaziale nel Rinascimento"
+a) Secondo la Terza Legge di Keplero, se
+$T_1$ = periodo dell'oggetto da mettere in orbita = $24$ h
+$T_2 = T_L = 27{,}32$ giorni $= 27{,}32\times24 = 655{,}68$ h
+$a_1$ = semiasse maggiore dell'orbita dell'oggetto
+$a_2$ = semiasse maggiore dell'orbita lunare $= 384000$ km. Allora:
 $$a_1 = a_2 \left(\frac{T_1}{T_2}\right)^{2/3} \implies$$
 
 $$a_1 = 384000\ \text{km} \left(\frac{24}{655{,}68}\right)^{2/3} = 42333\ \text{km}$$
 
-b) Dall'espressione di eccentricità, possiamo chiarire il semiconduzione minore
+b) Dall'espressione dell'eccentricità, possiamo ricavare il semiasse minore
 $b$:
 $$b = a\sqrt{1 - e^2}$$
-In sostituzione, si ottiene
+Sostituendo, risulta
 $$b = 42426\ \text{km} \times \sqrt{1 - (0.3)^2} = 40383\ \text{km}$$
 La velocità areolare è
 $$\text{vel}_\text{areolar} = \frac{\text{área de la elipse}}{\text{período de la órbita}} = \frac{\pi a b}{T}$$
-Secondo la seconda legge di Kepler, questa velocità è la stessa per ogni settore.
-di superficie dell'ellipse. Prendiamo due punti vicini al perihelione, come si
-mostra nella figura
+Secondo la Seconda Legge di Keplero, questa velocità è la stessa per ogni settore di area dell'ellisse. Prendiamo due punti vicini al perielio, come mostrato nella figura
 
-L'area del settore compresa tra i punti $P_1$ e $P_2$ è:
+L'area del settore compreso tra i punti $P_1$ e $P_2$, è
 $$\Delta A \approx \frac{1}{2}\, r_p\, \Delta r$$
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1pfQ0ZUmFLvRqD2yn1tMXdmobeizKuNTU/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 1: A Space Adventure in the Renaissance!!!
-One of the world's great powers of the early 17th century hired a scientist
-of time to perform the calculations necessary to put an object into orbit
-around the Earth. The knowledge of the time was limited to Kepler's laws.
-And some questions of kinematics and very little of dynamics. It was also available
-The Commission has already adopted a number of proposals for the
-A telescope recently developed by Galileo.
-Kepler's laws, stated for planetary motion, are:
-1) The planets move on ellipses with the Sun at one of their focuses.
+One of the world powers of the early 17th century hired a scientist of the time to perform the necessary calculations to put an object into orbit around the Earth. The knowledge of the time was limited to Kepler's Laws and some questions of kinematics and very little of dynamics. Data on the parameters of the lunar orbit were also available, and the use of the telescope recently developed by Galileo was in its infancy.
+Kepler's Laws, stated for planetary motion, are:
+1) The planets move along ellipses with the Sun at one of their foci.
 
-2) The radiolector that describes the motion of the planet, swept equal areas in the
-equal times.
+2) The radius vector describing the planet's motion sweeps out equal areas in equal times.
 
-3) If $T_1$, $T_2$, $a_1$ and $a_2$ represent the periods and the longer half-lives of the
-orbits of two planets, 1 and 2, the following relationship is satisfied:
+3) If $T_1$, $T_2$, $a_1$ and $a_2$ represent the periods and the semimajor axes of the orbits of two planets, 1 and 2, the following relation holds:
 
 $$\left(\frac{T_1}{T_2}\right)^2 = \left(\frac{a_1}{a_2}\right)^3$$
 
-It may seem strange to think of this kind of approach, but it is known that it was the
-Kepler himself, who, in a novel called Somnium, speculated about the possibility of
-Put humans on a journey to the moon.
-The task of the scientist was to determine the characteristics of the orbit that the
-The object would then, as well as think about the way that object could be placed in the
-orbit.
-Considering the data the scientist had:
-Table 1: Data used by the scientist
-The mean radius of lunar orbit
+It may seem strange to think about this type of proposal, but it is known that Kepler himself, in a novel called Somnium, speculated about the possibility of sending humans on a journey to the Moon.
+The task of the hired scientist was to determine the characteristics of the orbit that the object would follow, as well as to think about the way in which that object could be put into orbit.
+Considering the data available to the scientist:
+Table 1: Data available to the scientist
+Mean radius of the lunar orbit
 $384000$ km
-Period of lunar orbit
-$27{,}32$ días
-Average radio of the Earth
+Period of the lunar orbit
+$27{,}32$ days
+Average radius of the Earth
 $6371$ km
 
-Knowing that among the conditions that the body put into orbit must meet,
-There was the fact that he had to remain still over the sky of power that had
-It was a geological object.
-synchronous.
-(a) Calculate the major semicircle of the ellipse over which the body moves.
-Another requirement that was asked of the Renaissance scientist for the design of the
-The orbit was that the eccentricity of the same was $e = 0{,}30$. Remember that the
-The eccentricity of an ellipse is defined by:
+Knowing that among the conditions that the body placed in orbit had to fulfill was the fact that it had to remain still over the sky of the power that had hired the scientist; in modern terminology it would be said that it was a geosynchronous object.
+a) Calculate the semimajor axis of the ellipse on which the body moves.
+Another requirement requested of the Renaissance scientist for the design of the orbit was that its eccentricity be $e = 0{,}30$. Recall that the eccentricity of an ellipse is defined by:
 $$e = \sqrt{1 - \left(\frac{b}{a}\right)^2}$$
 
-where $a$ is the major semicircle and $b$ the minor semicircle of the ellipse.
-(b) Calculate the minor semicircle of the ellipse over which the body moves.
+where $a$ is the semimajor axis and $b$ the semiminor axis of the ellipse.
+b) Calculate the semiminor axis of the ellipse on which the body moves.
 
-Considering that the equation for an ellipse, in polar coordinates, is
-given by:
-$$r(\theta) = \frac{a(1 - e^2)}{1 + e\cos(\theta)}$$
-where $\theta$ is the angle measured from the perigee, in the anti-clockwise direction and such that
-The origin of $r$ is in the focus of the ellipse (see Figure 1). And that the area $A$ of the same
-is given by: $A = \pi a b$.
+Taking into account that the equation for an ellipse, in polar coordinates, is given by:
+$$r(\theta) = \frac{a(1 - e^2)}{1 + e\cos(\theta)}$$ where $\theta$ is the angle measured from the perigee, in the counterclockwise direction and such that the origin of $r$ is at the focus of the ellipse (see Figure 1). And that the area $A$ of the same is given by: $A = \pi a b$.
 
-Figure 1: Elipse representing the path of the body placed in orbit around the Earth
-the Earth (not-scale drawing)
+Figure 1: Ellipse representing the trajectory of the body placed in orbit around the Earth (drawing not to scale)
 
-(c) Calculate the average aerodynamic velocity of the body in its orbit.
+c) Calculate the average areolar velocity of the body as it travels its orbit.
 
-(d) Calculate the average body speed near the perigee of the
-the orbit.
+d) Calculate the average velocity of the body in the vicinity of the perigee of the orbit.
 
-e) Calculate the average body speed at the farthest point (height)
-of his career.
+e) Calculate the average velocity of the body at the farthest point (apogee)
+of its trajectory.
 
-End of test level 1
-Continue testing for Level 2
+End of Level 1 Test
+Continues Test for Level 2
 
-Some other preparations$\dots$
-Among the tasks of the Renaissance scientist was to determine the position of the body in the
-Its orbit depends on time. To achieve this, he calculated the area of the sectors
-Delimited by the position of the vector radius $r$ in perihelion, $r_p$, and the vector radius $r(\theta_j)$,
-where
-$$\theta_j = \frac{2\pi j}{10}, \quad j = 0, \dots, 10$$
-and correspond to having divided the $[0, 2\pi]$ interval into 10 equal parts (see Figure 2).
+Some more preparations$\dots$
+Among the tasks of the Renaissance scientist was to determine the position of the body in its orbit as a function of time. To achieve this he calculated the area of the sectors delimited by the position of the radius vector $r$ at the perihelion, $r_p$, and the radius vector $r(\theta_j)$, where
+$$\theta_j = \frac{2\pi j}{10}, \quad j = 0, \dots, 10$$ and correspond to having divided the interval $[0, 2\pi]$ into 10 equal parts (see Figure 2).
 
-Figure 2: Area sector swept by position vector
-The area $A_j$ corresponding to the sector with angle $\theta_j$ is given by the expression:
-$$A_j(a, e, \theta_j) = \frac{a^2(1 - e^2)^2}{2}\, I(e, \theta_j)$$
-where $a$ is the major semicircle of the ellipse, $e$ its eccentricity. The quantities $I(e, \theta_j)$
-are given in Table 2, for eccentricity $e = 0{,}3$.
+Figure 2: Sector of area swept by the position vector
+The area $A_j$ corresponding to the sector with angle $\theta_j$, is given by the expression:
+$$A_j(a, e, \theta_j) = \frac{a^2(1 - e^2)^2}{2}\, I(e, \theta_j)$$ where $a$ is the semimajor axis of the ellipse, $e$ its eccentricity. The quantities $I(e, \theta_j)$ are given in Table 2, for the eccentricity $e = 0{,}3$.
 
-Table 2: Values of the quantities $I(e, \theta_j)$
-for $e = 0.3$
+Table 2: Values of the quantities $I(e, \theta_j)$ for $e = 0.3$
 
 $I(0.3, \theta_j)$
 $\theta_j$
@@ -650,66 +560,47 @@ $\theta_j$
 5.65
 7.238
 6.28
-(f) Based on the data in Table 1, and using Kepler's laws,
-Make a table for the body position vector module
-put into orbit as a function of time. With the data provided
-You can evaluate the vector position in 11 different times.
+f) From the data in Table 1, and using Kepler's laws, prepare a table for the magnitude of the position vector of the body placed in orbit as a function of time. With the data provided you will be able to evaluate the position vector at 11 different times.
 
-To infinity and beyond!!!
-Isaac Newton discussed the use of a cannon to place an object in orbit. The newton
-The Commission has made the following reasoning (in its own words)
-Let's imagine a mountain that's very high
-peak is above the Earth's atmosphere; over
-On top of that mountain there's a cannon firing
-horizontally. As each shot is made
-With a higher explosive charge, the cannonball will have
-A higher speed, and the projectile will drop more and more.
-I'm not far away. Finally, at a certain speed the projectile does not
-It will touch the earth and remain orbiting forever
-around the Earth.
-By trial and error and proceeding according to the
-suggested by Newton, the Renaissance scientist is about to launch the projectile,
-horizontal direction, at different speeds. The object you wanted to put into orbit
-It had a mass of $200$ kg and the mass of the cannon at its disposal was $2000$ kg.
-(g) Design a method for measuring the projectile's output speed
-using measurements of the cannon's 'retrocessing' speed.
-Question 1 Answer Sheet
-A Space Adventure in the Renaissance!!!
+!!!To infinity and beyond!!!
+Isaac Newton discussed the use of a cannon to place an object into orbit. Newton made the following reasoning (in his own words): let us imagine a very high mountain whose peak is above the Earth's atmosphere; on the top of that mountain there is a cannon that fires horizontally. As each shot is made with a larger explosive charge, the cannonball will have a greater speed, and the projectile will fall farther and farther. Finally, at a certain speed the projectile will not touch the ground and will remain orbiting forever around the Earth.
+By trial and error and proceeding according to what Newton suggested, the Renaissance scientist sets out to launch the projectile, in the horizontal direction, at different speeds. The object he wanted to place in orbit had a mass of $200$ kg and the mass of the cannon he had was $2000$ kg.
+g) Design a method to measure the exit speed of the projectile using measurements of the cannon's "recoil" speed.
+Answer Sheet Problem 1
+!!!A Space Adventure in the Renaissance!!!
 
-Pts
-a)
-The major semicircle of the ellipse is:
+Pts a)
+the semimajor axis of the ellipse is:
 
 b)
-The smallest half of the ellipse is:
+the semiminor axis of the ellipse is:
 
 c)
 the mean areolar velocity is:
 
 d)
-the average body speed near perigee is:
+the average speed of the body in the vicinity of perigee is:
 
 e)
-The average body speed at peak is:
+the average speed of the body at apogee is:
 
-End of Level 1, continue to Level 2
+End Level 1, continues Level 2
 
 f)
-Table for: position vector module as a function of time:
+Table for: modulus of the position vector as a function of time:
 
 g)
-method for measuring the output speed:
-Hoja de Respuestas Problema N°2:
+method for measuring the exit velocity:
+Answer Sheet Problem No. 2:
 A Space Adventure in the Renaissance!!!
 
-Pts
-a)
-The major semicircle of the ellipse is:
+Pts a)
+the semi-major axis of the ellipse is:
 
 $a_1 = 442333$ km
 
 b)
-The smallest half of the ellipse is:
+the semi-minor axis of the ellipse is:
 
 $b = 40383$ km
 
@@ -719,19 +610,18 @@ the mean areolar velocity is:
 $$\text{vel}_\text{areolar} = \frac{\text{área de la elipse}}{\text{período de la órbita}} = \frac{\pi a b}{T}$$
 
 d)
-the average body speed near perigee is:
+the mean velocity of the body in the vicinity of perigee is:
 $$V_p = 15103\ \frac{\text{km}}{\text{h}}$$
 
 e)
-The average body speed at peak is:
+the mean velocity of the body at apogee is:
 
 $$v_a = \frac{2\pi b}{T(1 + e)} = 8132\ \frac{\text{km}}{\text{h}}$$
 
-End of Level 1, continue to Level 2
-Level 2 is continuing
+End of Level 1, Level 2 continues Level 2 continues
 
 f)
-Table for: position vector module as a function of time:
+Table for: modulus of the position vector as a function of time:
 
 $t_j$ (h)
 $r_j$ (km)
@@ -759,48 +649,34 @@ $r_j$ (km)
 29633
 
 g)
-method for measuring the output speed:
+method for measuring the exit velocity:
 
-At each shot the cannon will move in the opposite direction to the projectile and its speed
-After the shooting, it'll be:
+On each shot the cannon will move in the opposite direction to the projectile and its velocity after the shot will be:
 
 $$v_\text{cañón} = -\frac{m_\text{cuerpo}}{m_\text{cañón}}\, v_\text{cuerpo}$$
-The average gun speed after firing is:
-$$v_\text{cañón} = \frac{d}{t}$$
-where $d$ is the distance travelled at a given time $t$. If we look at the distance, and
-We can measure the time, we can get the average speed of the cannon in the
-So we're going to go back and use the equation above, take the velocity at which the
-body into space.
-Solution to the "A Space Adventure in the Renaissance" Problem
-(a) According to Kepler's Third Law, if
-$T_1$ = period of the object to be placed into orbit = $24$ hs
-$T_2 = T_L = 27{,}32$ días $= 27{,}32\times24 = 655{,}68$ hs
-$a_1$ = greater half of the object's orbit
-$a_2$ = greater half-life of the lunar orbit $= 384000$ km. So , what ?
+The average velocity of the cannon after the shot is:
+$$v_\text{cañón} = \frac{d}{t}$$ where $d$ is the distance it travels in a given time $t$. If we fix the distance, and manage to measure the time, we can obtain the average velocity of the cannon in recoil and, using the equation above, obtain the velocity with which the body was launched into space.
+Solution to the Problem "A Space Adventure in the Renaissance"
+a) According to Kepler's Third Law, if
+$T_1$ = period of the object to be placed in orbit = $24$ h
+$T_2 = T_L = 27{,}32$ days $= 27{,}32\times24 = 655{,}68$ h
+$a_1$ = semi-major axis of the object's orbit
+$a_2$ = semi-major axis of the lunar orbit $= 384000$ km. Then:
 $$a_1 = a_2 \left(\frac{T_1}{T_2}\right)^{2/3} \implies$$
 
 $$a_1 = 384000\ \text{km} \left(\frac{24}{655{,}68}\right)^{2/3} = 42333\ \text{km}$$
 
-(b) From the expression of eccentricity, we can clear the minor semicircle.
+b) From the expression for the eccentricity, we can solve for the semiminor axis
 $b$:
 $$b = a\sqrt{1 - e^2}$$
-Substituting, it turns out
+Substituting, we obtain
 $$b = 42426\ \text{km} \times \sqrt{1 - (0.3)^2} = 40383\ \text{km}$$
-The areolar velocity is
+The areal velocity is
 $$\text{vel}_\text{areolar} = \frac{\text{área de la elipse}}{\text{período de la órbita}} = \frac{\pi a b}{T}$$
-According to Kepler's Second Law, this velocity is the same for each sector.
-of the ellipse area. Let's take two points near the perihelion, as we do.
-sample in the figure
+According to Kepler's Second Law, this velocity is the same for each sector of area of the ellipse. Let us take two points near the perihelion, as shown in the figure
 
-The area of the sector between $P_1$ and $P_2$ is
+The area of the sector between the points $P_1$ and $P_2$ is
 $$\Delta A \approx \frac{1}{2}\, r_p\, \Delta r$$
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1pfQ0ZUmFLvRqD2yn1tMXdmobeizKuNTU/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2020 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/particle-beam,object/nucleus"></span>

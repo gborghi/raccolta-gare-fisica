@@ -327,58 +327,36 @@ Raggiustamento sugli assi di tutte le pollice.
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM 2: A Mission on the High Seas
+PROBLEM 2: A mission on the high seas
 
-An oceanographic ship is on a mission to measure oxygen concentration
-diluted in seawater in a region of the Atlantic Ocean in the range 0 to
-2,000 feet deep.
-The probe is made of steel, because the pressure it must exert is very high.
-They're too high to bear. It has a cylindrical radius $R= 0.25\ \text{m}$ and height $L=1\ \text{m}$.
-Its mass is $M=500\ \text{kg}$. The hook between the probe and the cable to lift it is a coupling.
-- It's a toast. The entire coupling, once rolled, is included within the probe cylinder
-And its mass is included in the mass of the probe.
-Once the probe is ready, it is transferred to the crane to submerge it to $2000\ \text{m}$
-It's deep. The steel wire, of $1.5\ \text{cm}$ in diameter, has a density of $5500\ \text{kg/m}^3$.
+An oceanographic vessel sets out on a mission to measure the concentration of dissolved oxygen in seawater, in a region of the Atlantic Ocean in the range of 0 to
+2000 meters depth.
+The probe available is made of steel, because the pressures it must withstand are very high. It has a cylindrical shape with radius $R= 0.25\ \text{m}$ and height $L=1\ \text{m}$.
+Its mass is $M=500\ \text{kg}$. The coupling between the probe and the cable to lift it is a threaded coupling. The entire coupling, once screwed on, is contained within the cylinder of the probe and its mass is included in the mass of the probe.
+Once the probe is prepared, it is transferred to the crane that will submerge it to a depth of $2000\ \text{m}$. The steel cable, with a diameter of $1.5\ \text{cm}$, has a density of $5500\ \text{kg/m}^3$.
 
-The figure shows the design of the ship's crane.
+The figure shows the schematic of the ship's crane.
 
-The $A_1$ point is the point from which the cable does not make contact with the pulley and is at $15\ \text{m}$
-above sea level. $A_2$ is the point where the cable ends and the probe begins, while the
-$A_3$ indicates the geometric centre of the probe which matches its centre of mass.
+Point $A_1$ is the point from which the cable no longer makes contact with the pulley and is $15\ \text{m}$ above sea level. $A_2$ is the point where the cable ends and the probe begins, while
+$A_3$ indicates the geometric center of the probe, which coincides with its center of mass.
 
-If the probe descends at a constant speed:
+If the probe descends at constant velocity:
 
-(a) Calculate the force that the cable is making in $A_2$ when $A_3$ is one meter above the
-sea level.
-(b) Calculate the force that the cable is making at $A_2$ when $A_3$ is one meter below
-The sea level.
-(c) Calculate the strength of the cable at $A_1$ when $A_3$ is $2000\ \text{m}$ below the level
-from the sea.
+a) Calculate the force that the cable is exerting at $A_2$ when $A_3$ is one meter above sea level.
+b) Calculate the force that the cable is exerting at $A_2$ when $A_3$ is one meter below sea level.
+c) Calculate the force that the cable exerts at $A_1$ when $A_3$ is $2000\ \text{m}$ below sea level.
 
-Once the measurements are completed, the cable begins to roll. When $A_3$ is halfway
-metre below sea level, the diameter of the coil in which the coil is rolled
-The cable is $D=64\ \text{cm}$ and the coil axis is at sea level.
+Once the measurements are finished, the cable begins to be wound. When $A_3$ is half a meter below sea level, the diameter of the reel on which the cable is wound is $D=64\ \text{cm}$ and the axis of the reel is at sea level.
 
 A1
 A2
 A3
 15m
-Level of the
-The following is a list of the countries of the European Union:
-probe
-(d) Graph the force exerted by the cable at $A_2$ since $A_3$ is $0.5\ \text{m}$ below
-the mean sea level until $A_3$ is $1.5\ \text{m}$ above sea level.
+SEA
+LEVEL probe
+d) Graph the force that the cable exerts at point $A_2$ from when $A_3$ is $0.5\ \text{m}$ below sea level until $A_3$ is $1.5\ \text{m}$ above sea level.
 
-(e) Calculate the work performed by the motor rolling the cable to carry $A_3$ from $0.5\ \text{m}$
-below sea level to $1.5\ \text{m}$ above sea level. Disdain the
-friction on the axes of all pulleys.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BMpfq4DS_9qyDwWlthPqkkjqDoDUa08z/view)
-
+e) Calculate the work done by the motor that winds the cable, to bring $A_3$ from $0.5\ \text{m}$ below sea level to $1.5\ \text{m}$ above sea level. Neglect friction in the axes of all the pulleys.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2001 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,object/cylinder,object/resistor"></span>
@@ -581,84 +559,50 @@ Si se indica con $T_P$ la temperatura alc
 
 <div class="qlang-split" data-lang="it"></div>
 
-PROBLEMA 3: Controllo della qualità
+PROBLEMA 3: Controllo di qualità
 
-Un importante gioiellero acquista barre di platino per essere utilizzate nella costruzione di
-Gioielli. Barre di cui al nome di platino 950 (che significa un'alleazione che possiede in
-contenenti il 95% di platino), sono cilindri di 1 m di lunghezza e 1 cm di diametro. El
-il direttore della società riceve informazioni che possibilmente sono vittime di un
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le misure di cui all'articolo 1 del regolamento (CEE) n.
-Nickel) in platino. Questo dubbio induce il consiglio di amministrazione a introdurre un
-controllo della qualità nella ricezione della materia prima. Questo tipo di controllo non è facile da
-La densità di entrambi i metalli preziosi è molto simile, quindi sarebbe
-La Commissione ha inoltre adottato una direttiva che prevede che le parti di tali misure siano utilizzate per la produzione di prodotti chimici.
-La Commissione ha inoltre adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento (UE) n.
-il tempo che questa analisi richiede. Se il bagno di platino ha uno spessore di 1 mm, non lo è
-un'analisi per la diffrazione di raggi X e/o la fluorescenza di raggi X sarebbe utile. Di fronte a questo
-- La società decide di assumerti. La Commissione ha adottato una proposta di risoluzione che
-problema, un compito in cui noi cercheremo di guidarlo il più possibile.
-Come primo compito, tu. raccoglie informazioni su entrambi i metalli per cercare di
-approfondire la sua conoscenza di loro. Di tutte le informazioni ottenute, le
-dati seguenti:
+Una importante gioielleria acquista barre di platino da utilizzare nella costruzione di gioielli. Le barre, del cosiddetto platino 950 (il che significa una lega che contiene il 95% di platino), sono cilindri di 1 m di lunghezza e 1 cm di diametro. Il direttore dell'azienda riceve l'informazione che probabilmente stanno subendo una truffa, poiché gli fornirebbero barre di oro bianco a 18 carati (lega di oro e nichel) placcate in platino. Questo dubbio induce il consiglio di amministrazione dell'azienda a introdurre un controllo di qualità al ricevimento della materia prima. Questo tipo di controllo non è facile da implementare, poiché, essendo la densità dei due metalli preziosi molto simile, sarebbe necessario fare un'analisi chimica a tutte le barre, il che implica distruggere una parte delle barre di platino, assumere personale specializzato e ritardare l'ingresso del materiale per il tempo che richiede questa analisi. Se la placcatura di platino ha uno spessore di 1 mm, non sarebbe utile neppure un'analisi per diffrazione di raggi X e/o fluorescenza di raggi X. Davanti a questo cupo panorama l'azienda decide di assumere Lei per proporre una soluzione al problema, compito in cui noi cercheremo di guidarla per quanto possibile.
+Come primo compito Lei raccoglie informazioni su entrambi i metalli per cercare di approfondire la sua conoscenza su di essi. Di tutte le informazioni ottenute si evidenziano i seguenti dati:
 
-Propriedade
+Proprietà
 Platino 950
 Oro bianco 18 K
 Densità ($\text{g/cm}^3$)
 19,25
 19,20
-Conduzione $(\Omega\cdot\text{cm})^{-1}$
+Conducibilità $(\Omega\cdot\text{cm})^{-1}$
 94339,6
 454545,5
-Cost (U\$S/g)
+Costo (U\$S/g)
 14,8
 8,4
 
-Dalle informazioni raccolte si evidenzia la notevole differenza tra la conducibilità e la conducibilità.
-elettrica di entrambi i metalli e questo lo porta a te. Proporre che il controllo della materia
-La prima è effettuata misurando la resistenza elettrica delle barre. Questa è
-la misurazione può essere effettuata utilizzando il seguente dispositivo:
+Dai dati raccolti emerge la notevole differenza che esiste tra la conducibilità elettrica dei due metalli e questo la porta a proporre che il controllo della materia prima venga effettuato mediante la misurazione della resistenza elettrica delle barre. Questa misurazione può essere fatta utilizzando il seguente dispositivo:
 
-(Gli elettrodi sono per garantire un buon contatto elettrico nelle estremità, hanno
-La sua lunghezza e resistenza elettrica sono anche scarsa rispetto alla
-resistenza del materiale in studio).
+(Gli elettrodi servono ad assicurare un buon contatto elettrico alle estremità, hanno lunghezza trascurabile e anche la loro resistenza elettrica è trascurabile, rispetto alla resistenza del materiale in esame).
 
-Codice di calcolo
-Codice di calcolo
-Barre di platino
-Perimetro
-Fonte di tensione
-Una volta ascoltato la sua proposta, un gestore gioiellero propone come alternativa un metodo più
-Semplice, operativo, basato sul peso delle barre e sul rilevamento delle barre adulterate a partire da
-di peso.
+Elettrodo
+Elettrodo
+Barra di Platino
+Amperometro
+Sorgente di tensione
+Sentendo la sua proposta, un dirigente della gioielleria propone come alternativa un metodo più semplice, operativamente, basato sul pesare le barre e individuare le barre adulterate a partire dal loro peso.
 
-In seguito vi indicheremo quali calcoli è necessario fare per realizzare il
-- il rapporto in cui lei dimostrerà la fattibilità della sua proposta.
+Di seguito noi le indicheremo quali calcoli deve eseguire per redigere il rapporto nel quale lei dimostrerà la fattibilità della sua proposta.
 
-a) Calcolare il peso di una barra di platino non adulterata.
+a) Calcoli il peso di una barra di platino non adulterata.
 
-b) Calcolare il peso di una barra di platino adulterata come mostrato nella figura.
+b) Calcoli il peso di una barra di platino adulterata come quella mostrata in figura.
 
-Supponiamo che le dimensioni siano $R_1= 0{,}4\ \text{cm}$; $R_2= 0{,}5\ \text{cm}$; $L= 1\ \text{m}$ e $L_1= 0{,}98\ \text{m}$.
+Supponga che le dimensioni siano $R_1= 0{,}4\ \text{cm}$; $R_2= 0{,}5\ \text{cm}$; $L= 1\ \text{m}$ e $L_1= 0{,}98\ \text{m}$.
 
-c) Supponendo che le barre di platino siano costruite con una variazione della loro lunghezza
-inferiore a $0{,}5\,\%$, determinare se è possibile individuare le barre adulterate a partire dal peso
-di quelle stesse.
+c) Supponendo che le barre di platino siano costruite con una variazione della loro lunghezza inferiore a $0{,}5\,\%$, determini se è possibile individuare le barre adulterate a partire dal loro peso.
 
-d) Calcolare il danno economico che ogni barra falsa avrebbe per il gioiellero, se fossero
-come quelle che corrispondono alle dimensioni del punto (b).
+d) Calcolare il danno economico che ogni barra falsa causerebbe alla gioielleria, se fossero come quelle che corrispondono alle dimensioni del punto b).
 
-e) Trova un'espressione per la resistenza di una barra di platino solido radio $R$ e
-lunghezza $L$. Per questo, tu. può usare l'espressione $J = \sigma E$; dove $J$ è la densità di
-corrente nel materiale (corrent per unità di area della sezione trasversale della
-bar); $\sigma$ è la conducibilità elettrica del materiale e $E$ è l'intensità del campo
-elettrico all'interno del materiale. In questo caso il campo elettrico all'interno della
-la barra è costante e il suo valore è $V/L$; dove $V$ è la differenza di potenziale applicata
-le estremità della barra e $L$ è la lunghezza della barra.
+e) Trovare un'espressione per la resistenza di una barra di platino solida di raggio $R$ e lunghezza $L$. A tal fine si può utilizzare l'espressione $J = \sigma E$; dove $J$ è la densità di corrente nel materiale (corrente per unità di area della sezione trasversale della barra); $\sigma$ è la conducibilità elettrica del materiale e $E$ è l'intensità del campo elettrico all'interno del materiale. Nel nostro caso il campo elettrico all'interno della barra è costante e il suo valore è $V/L$; dove $V$ è la differenza di potenziale applicata agli estremi della barra e $L$ è la lunghezza della barra.
 
-f) Trova, come primo approccio al problema reale, un'espressione per la
-resistenza di una barra d'oro bianco di radio $R_1$ bagnata sulla sua superficie laterale da
-un livello di platino di spessore $d$ come mostrato nella figura.
+f) Trovare, come prima approssimazione al problema reale, un'espressione per la resistenza di una barra di oro bianco di raggio $R_1$ rivestita sulla sua superficie laterale da uno strato di platino di spessore $d$ come mostrato in figura.
 
 R1
 R2
@@ -670,188 +614,129 @@ R1
 L1
 Oro
 Pt
-g) Infine, trovare un'espressione per la resistenza di una barra d'oro bianco, di
-lunghezza $L_1$ e raggio $R_1$, completamente ricoperto di platino (sulla superficie laterale e
-base) come mostrato nella figura. Nota che lo spessore delle basi non è
-necessariamente identico allo spessore della superficie laterale.
+g) Infine, trovare un'espressione per la resistenza di una barra di oro bianco, di lunghezza $L_1$ e raggio $R_1$, completamente rivestita di platino (sulla sua superficie laterale e sulle basi) come mostrato in figura. Si noti che lo spessore sulle basi non è necessariamente identico allo spessore sulla superficie laterale.
 
-h) Calcolare l'accuratezza che deve avere il sistema di misurazione delle resistenze per poter
-per rilevare le barre fraudolente, supponendo che le dimensioni
-sono $R_1 = 0{,}4\ \text{cm}$; $R_2 = 0{,}5\ \text{cm}$; $L = 1\ \text{m}$ e $L_1 = 0{,}98\ \text{m}$.
+h) Calcolare la precisione che deve avere il sistema di misura delle resistenze per poter individuare le barre fraudolente, supponendo che le dimensioni siano $R_1 = 0{,}4\ \text{cm}$; $R_2 = 0{,}5\ \text{cm}$; $L = 1\ \text{m}$ e $L_1 = 0{,}98\ \text{m}$.
 
 R2
 L
 R1
 L1
-L'OLIMPIADA ARGENTINA
-FISICA 2001
+OLIMPIADA ARGENTINA
+DE FISICA 2001
 
-OAFF 2001
+OAF’2001
 
-PROBRA ESPERIMENTE - 15 ottobre 2001
+PROVA SPERIMENTALE - 15 ottobre 2001
 
-• Scrivi il tuo nome su tutti i fogli e elencati.
-• Ricorda che non puoi usare calcolatori programmabili né calcolatori di tipo
-altri materiali non inclusi nella prova, diversi dagli utensili di
-Scrittura.
-• Prima di iniziare a lavorare sulla prova sperimentale, leggete attentamente
-L'intera frase della stessa.
-• Ud. ha 4 (quattro) ore per effettuare la prova.
+• Scrivere il proprio nome su tutti i fogli e numerarli.
+• Ricordare che non si possono usare calcolatrici programmabili né qualsiasi altro materiale non incluso nella prova, a parte gli strumenti di scrittura.
+• Prima di iniziare a lavorare alla prova sperimentale, leggere attentamente
+TUTTO l'enunciato della stessa.
+• Si dispone di 4 (quattro) ore per svolgere la prova.
 
 Nome:
 
 Numero di fogli consegnati:
 Elementi
 
-La seguente lista indica i materiali e gli apparecchiature sperimentali disponibili per la
-realizzazione dell'esperimento.
+Si elencano di seguito i materiali e gli apparecchi sperimentali disponibili per l'esecuzione dell'esperimento.
 
-1. Fonte di tensione di 10  12 Volt.
-2. Caldaio montato su base.
-3. Voltímetro digitale (indicato in Figura 1 con V).
-4. Amperimetro (indicato in Figura 1 con A).
-5. cilindro vuoto di alluminio con superficie lucidata.
-6. Termocupa (ferro costante).
-7. Un contenitore termico isolato.
+1. Sorgente di tensione da 10 – 12 Volt.
+2. Riscaldatore montato su base.
+3. Voltmetro digitale (indicato nella Figura 1 con V).
+4. Amperometro (indicato nella Figura 1 con A).
+5. Cilindro cavo di alluminio con superficie lucidata.
+6. Termocoppia (ferro costantana).
+7. Un recipiente termico isolato.
 8. Ghiaccio e acqua.
-9. Un voltimetro digitale (indicato mV in Figura 1).
-10. Tabella di calibrazione della cupola termico.
-11. Cable per le connessioni elettriche.
-12. Velo e fósfori per il nero del cilindro.
-13. Scalza di supporto.
-DETERMINATION DEL CONSTANT di S. BOLTZMANN
+9. Un voltmetro digitale (indicato mV nella Figura 1).
+10. Tabella di calibrazione della termocoppia.
+11. Cavi per i collegamenti elettrici.
+12. Candela e fiammiferi per l'annerimento del cilindro.
+13. Asta di supporto.
+DETERMINAZIONE DELLA COSTANTE DI STEFAN-BOLTZMANN
 
 Considerazioni teoriche
 
-Potenza termico $P_\text{rad}$ emessa come radiazione da un oggetto con superficie esterna
-di superficie $S$ a temperatura assoluta $T_E$ , in ambiente a temperatura assoluta $T_O$ , è
-data dalla seguente formula:
+La potenza termica $P_\text{rad}$ emessa come radiazione da un oggetto con una superficie esterna di area $S$ alla temperatura assoluta $T_E$, in un ambiente a temperatura assoluta $T_O$, è data dalla seguente formula:
 
 $$P_\text{rad} = \sigma\, e\, S \left( T_E^4 - T_O^4 \right)$$
 
-dove $\sigma$ è la costante di Stefan-Boltzmann e $e$ è una costante chiamata di emissività.
-Per un corpo che assorbe tutta l'energia che gli arriva sotto forma di radiazioni è $e=1$
-(corpo nero) e per un corpo che riflette tutta l'energia che vi arriva sotto forma di
-la radiazione è $e=0$ (riflettore ideale).
+dove $\sigma$ è la costante di Stefan-Boltzmann e $e$ è una costante chiamata emissività.
+Per un corpo che assorbe tutta l'energia che gli arriva sotto forma di radiazione è $e=1$ (corpo nero) e per un corpo che riflette tutta l'energia che gli arriva sotto forma di radiazione è $e=0$ (riflettore ideale).
 
-Un oggetto a temperatura superiore a quella dell'ambiente, invece, dissipa energia termica a
-attraverso meccanismi non radiativi: conduzione e convezione dell'aria circostante $P_\text{conv}$ .
+D'altra parte, un oggetto a temperatura maggiore di quella dell'ambiente dissipa energia termica attraverso meccanismi non radiativi: conduzione e convezione dell'aria circostante $P_\text{conv}$.
 
-Nel caso della convezione, la potenza perduta dal corpo è data,
-principio, secondo la seguente formula:
+Nel caso della dissipazione per convezione, la potenza persa dal corpo è data, in linea di principio, dalla seguente formula:
 
 $$P_\text{conv} = k \left( T_P - T_O \right)$$
 
 dove $k$ è una costante, $T_P$ è la temperatura dell'oggetto e $T_O$ è quella dell'ambiente.
-In base ai diversi processi fisici descritti, possono essere formulati due metodi:
-La cosiddetta costante di Stefan-Boltzmann è stata determinata con una serie di strumenti sperimentali.
+In base ai diversi processi fisici descritti, possono essere formulati due metodi sperimentali per la determinazione della costante di Stefan-Boltzmann.
 
-1. Metodo di potenza costante:
+1. Metodo della potenza costante:
 
-In questo metodo, il cilindro lucidato e il cilindro nero vengono riscaldati con un
-caldaio elettrico, a cui viene concessa una potenza $P_\text{elect}$ data da:
+In questo metodo, si riscaldano il cilindro lucidato e il cilindro annerito mediante un riscaldatore elettrico, al quale viene fornita una potenza $P_\text{elect}$ data da:
 
 $$P_\text{elect} = V \cdot I$$
 
-dove $V$ è la differenza di potenziale tra i terminali di resistenza al riscaldamento e $I$ è
-la corrente elettrica che circola attraverso la stessa.
-Dopo un certo tempo, durante il quale il corrente circola attraverso il riscaldatore, la temperatura
-Il cilindro (purificato o scuro come il caso) non cambia più nel tempo; questo
-È che si è raggiunti uno stato stazionario. In questo stato, tutta la potenza elettrica che viene
-la consegna per il riscaldamento del cilindro è dissipata nell'ambiente, cioè:
+dove $V$ è la differenza di potenziale tra i terminali della resistenza riscaldante e $I$ è la corrente elettrica che vi circola.
+Dopo un certo tempo, durante il quale circola corrente attraverso il riscaldatore, la temperatura del cilindro (lucidato o annerito a seconda del caso) non cambia più nel tempo; cioè si è raggiunto uno stato stazionario. In questo stato, tutta la potenza elettrica fornita per riscaldare il cilindro viene dissipata verso l'ambiente circostante, ovvero:
 
 $$P_\text{elect} = P_\text{rad} + P_\text{conv}$$
 
-dove le perdite di guida sono state disprezzate.
+dove sono state trascurate le perdite per conduzione.
 
-Se indicato con $T_P$, la temperatura alcal
+Se si indica con $T_P$ la temperatura rag
 
-**Topic:** [[Thermodynamics]], [[Circuits]], [[Electrostatics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BMpfq4DS_9qyDwWlthPqkkjqDoDUa08z/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: Quality control
+PROBLEM 3: Quality control
 
-A major jewellery store acquires platinum bars for use in the construction of
-The jewels. Platinum 950 (i.e. an alloy containing by weight more than 50% of the excess of platinum)
-95% platinum), cylinders 1 m long and 1 cm in diameter. El
-The firm's manager receives information that they are possibly victims of a
-The Commission has already taken a number of steps to ensure that the Community's financial resources are fully used.
-Nickel) bathed in platinum. This doubt leads the company's board to introduce a
-quality control at the reception of the raw material. This type of control is not easy to
-The first is that the density of the two precious metals is very similar.
-The Commission has already decided to take a further step towards the development of the Community's internal market.
-The Commission has also adopted a number of measures to ensure that the Community's financial resources are used to finance the implementation of the Community's financial instruments.
-The time taken for this analysis. If the platinum bath is 1 mm thick, neither is the platinum bath.
-X-ray diffraction and/or X-ray fluorescence analysis would be useful. In front of this
-The company decides to hire you. The Commission is therefore not prepared to accept the proposal.
-problem, a task in which we will try to guide him as soon as possible.
-As your first assignment, you're... It collects information on both metals to try to
-deepen their knowledge of them. The most important of all the information obtained is the
-the following data:
+An important jewelry store acquires platinum bars to be used in the construction of jewelry. The bars, of the so-called 950 platinum (which means an alloy that contains 95% platinum), are cylinders 1 m long and 1 cm in diameter. The manager of the firm receives information that they may be victims of a scam, since they would be supplying bars of 18-karat white gold (an alloy of gold and nickel) plated with platinum. This doubt induces the company's board of directors to introduce quality control upon receipt of the raw material. This type of control is not easy to implement, because since the density of both precious metals is very similar, it would be necessary to perform a chemical analysis on all the bars, which implies destroying part of the platinum bars, hiring specialized personnel, and delaying the entry of the material for the time this analysis takes. If the platinum plating has a thickness of 1 mm, an analysis by X-ray diffraction and/or X-ray fluorescence would also not be useful. Faced with this bleak outlook, the company decides to hire you to propose a solution to the problem, a task in which we will try to guide you as much as possible.
+As a first task, you gather information about both metals to try to deepen your knowledge about them. From all the information obtained, the following data stand out:
 
 Property
 Platinum 950
 White gold 18 K
-Densidad ($\text{g/cm}^3$)
-19,25
-19,20
-Conductividad $(\Omega\cdot\text{cm})^{-1}$
-94339,6
-454545,5
-Cost (U\$S/g)
-14,8
-8,4
+Density ($\text{g/cm}^3$)
+19.25
+19.20
+Conductivity $(\Omega\cdot\text{cm})^{-1}$
+94339.6
+454545.5
+Cost (US\$/g)
+14.8
+8.4
 
-The data collected highlight the noticeable difference between conductivity and the
-electrical of both metals and this brings you to it. The Commission has proposed that the control of the matter be
-The first test shall be carried out by measuring the electrical resistance of the bars. This one
-measurement can be made using the following device:
+From the collected data, the notable difference between the electrical conductivity of both metals stands out, and this leads you to propose that the control of the raw material be carried out by measuring the electrical resistance of the bars. This measurement can be done using the following device:
 
-(Electrodes are to ensure good electrical contact at the ends, they have
-The electrical resistance is also negligible compared to the
-the strength of the material under study).
+(The electrodes are to ensure good electrical contact at the ends; they have negligible length and their electrical resistance is also negligible compared to the resistance of the material under study).
 
-Other, of a kind used for the manufacture of goods
-Other, of a kind used for the manufacture of goods
+Electrode
+Electrode
 Platinum bar
-Other, not further worked than cutting
-The voltage source
-On hearing your proposal, a jewellery manager proposes as an alternative a more
-Simple, operatively, based on weighing bars and detecting adulterated bars from
-of the weight of the same.
+Ammeter
+Voltage source
+Upon hearing your proposal, a manager of the jewelry store proposes as an alternative a simpler method, operationally, based on weighing the bars and detecting adulterated bars from their weight.
 
-We will then tell you what calculations you should make to make the
-The report in which you demonstrate the feasibility of its proposal.
+Next we will indicate what calculations you must perform to prepare the report in which you will demonstrate the feasibility of your proposal.
 
-(a) Calculate the weight of an unadulterated platinum bar.
+a) Calculate the weight of a non-adulterated platinum bar.
 
-(b) Calculate the weight of a platinum bar adulterated as shown in Figure 1.
+b) Calculate the weight of an adulterated platinum bar like the one shown in the figure.
 
-Suppose the dimensions are $R_1= 0{,}4\ \text{cm}$; $R_2= 0{,}5\ \text{cm}$; $L= 1\ \text{m}$ and $L_1= 0{,}98\ \text{m}$.
+Assume that the dimensions are $R_1= 0{,}4\ \text{cm}$; $R_2= 0{,}5\ \text{cm}$; $L= 1\ \text{m}$ and $L_1= 0{,}98\ \text{m}$.
 
-(c) Assuming that platinum bars are constructed with a variation in their length
-less than $0{,}5\,\%$, determine whether it is possible to detect the adulterated bars from the weight
-of the same.
+c) Assuming that the platinum bars are manufactured with a variation in their length of less than $0{,}5\,\%$, determine whether it is possible to detect adulterated bars from their weight.
 
-(d) Calculate the economic damage to jewellery by each false bar if they were
-as those corresponding to the dimensions of point (b).
+d) Calculate the economic loss that each fake bar would cause to the jewelry store, if they were like those corresponding to the dimensions of point b).
 
-(e) Find an expression for the resistance of a solid platinum bar radius $R$ and
-longitud $L$. That's why you're here. can use the expression $J = \sigma E$; where $J$ is the density of
-current in the material (current per unit area of the cross section of the
-barra); $\sigma$ es la conductividad eléctrica del material y $E$ es la intensidad del campo
-electrical inside the material. In our case the electric field inside the
-The bar is constant and its value is $V/L$; where $V$ is the potential difference applied
-the ends of the bar and $L$ is the length of the bar.
+e) Find an expression for the resistance of a solid platinum bar of radius $R$ and length $L$. To do this, you may use the expression $J = \sigma E$; where $J$ is the current density in the material (current per unit area of the cross-section of the bar); $\sigma$ is the electrical conductivity of the material and $E$ is the magnitude of the electric field inside the material. In our case the electric field inside the bar is constant and its value is $V/L$; where $V$ is the potential difference applied to the ends of the bar and $L$ is the length of the bar.
 
-(f) Find, as a first approach to the real problem, an expression for the
-resistance of a radius $R_1$ white gold bar bathed on its side surface by
-a platinum layer of $d$ thickness as shown in Figure 1.
+f) Find, as a first approximation to the real problem, an expression for the resistance of a white gold bar of radius $R_1$ coated on its lateral surface by a platinum layer of thickness $d$ as shown in the figure.
 
 R1
 R2
@@ -863,104 +748,80 @@ R1
 L1
 Gold
 Pt
-(g) Finally, find an expression for the resistance of a white gold bar,
-$L_1$ length and $R_1$ radius, fully platinum-coated (on its side surface and
-The Commission's proposal for a regulation on the Note that the thickness at the bases is not
-necessarily identical to the thickness on the side surface.
+g) Finally, find an expression for the resistance of a white gold bar, of length $L_1$ and radius $R_1$, fully coated with platinum (on its lateral surface and bases) as shown in the figure. Note that the thickness on the bases is not necessarily identical to the thickness on the lateral surface.
 
-(h) Calculate the precision of the resistance measurement system to be used to measure the resistance
-The Commission will examine the following questions:
-sean $R_1 = 0{,}4\ \text{cm}$; $R_2 = 0{,}5\ \text{cm}$; $L = 1\ \text{m}$ y $L_1 = 0{,}98\ \text{m}$.
+h) Calculate the precision that the resistance measurement system must have in order to detect the fraudulent bars, assuming that the dimensions are $R_1 = 0{,}4\ \text{cm}$; $R_2 = 0{,}5\ \text{cm}$; $L = 1\ \text{m}$ and $L_1 = 0{,}98\ \text{m}$.
 
 R2
 L
 R1
 L1
-The Argentine Olympics
-The Commission has also adopted a proposal for a regulation on the
+ARGENTINE OLYMPIAD
+OF PHYSICS 2001
 
-The Commission has decided to extend the period of validity of the
+OAF’2001
 
-The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented.
+EXPERIMENTAL TEST - October 15, 2001
 
-• Write your name on all the sheets and list them.
-• Remember that you cannot use programmable calculators or any other calculators
-Other materials not included in the test, other than tools for
-The writing.
-• Read carefully before you start working on the experimental test
-All the words of it.
-• Ud. You have 4 (four) hours to perform the test.
+• Write your name on all sheets and number them.
+• Remember that programmable calculators may not be used, nor any other material not included in the test, apart from writing utensils.
+• Before starting to work on the experimental test, carefully read
+ALL the statement of the test.
+• You have 4 (four) hours to carry out the test.
 
-Name of the company:
+Name:
 
-Number of sheets delivered:
-Elements of the
+Number of sheets submitted:
+Elements
 
-The following is a list of the experimental materials and equipment available for the
-The experiment was carried out.
+The materials and experimental apparatus available for carrying out the experiment are listed below.
 
-1. The voltage source is 10  12 Volts.
-2. Heater mounted on base.
+1. Voltage source of 10 – 12 Volts.
+2. Heater mounted on a base.
 3. Digital voltmeter (indicated in Figure 1 with V).
-4. Amperimeter (indicated in Figure 1 with A).
-5. Hollow aluminium cylinder with polished surface.
-6. The heat source is the heat source.
-7. A heat vessel insulated.
+4. Ammeter (indicated in Figure 1 with A).
+5. Hollow aluminum cylinder with polished surface.
+6. Thermocouple (iron constantan).
+7. An insulated thermal container.
 8. Ice and water.
-9. A digital voltmeter (indicated by mV in Figure 1).
-10. The heat cup calibration table.
-11. Cable for electrical connections.
-12. Candle and matches for the blackened cylinder.
-13. Stick the support.
-The Commission has already decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+9. A digital voltmeter (indicated mV in Figure 1).
+10. Calibration table of the thermocouple.
+11. Cables for the electrical connections.
+12. Candle and matches for blackening the cylinder.
+13. Support rod.
+DETERMINATION OF THE STEFAN-BOLTZMANN CONSTANT
 
 Theoretical considerations
 
-The heat output $P_\text{rad}$ emitted as radiation by an object with an outer surface
-of an area $S$ at absolute temperature $T_E$ , in an environment at absolute temperature $T_O$ , is
-given by the following formula:
+The thermal power $P_\text{rad}$ emitted as radiation by an object with an outer surface of area $S$ at absolute temperature $T_E$, in an environment at absolute temperature $T_O$, is given by the following formula:
 
 $$P_\text{rad} = \sigma\, e\, S \left( T_E^4 - T_O^4 \right)$$
 
-where $\sigma$ is the Stefan-Boltzmann constant and $e$ is an emissivity constant.
-Para un cuerpo que absorbe toda la energía que le llega en forma de radiación es $e=1$
-(black body) and for a body that reflects all the energy that comes to it in the form of
-radiation is $e=0$ (ideal reflector).
+where $\sigma$ is the Stefan-Boltzmann constant and $e$ is a constant called emissivity.
+For a body that absorbs all the energy that reaches it in the form of radiation, $e=1$ (black body), and for a body that reflects all the energy that reaches it in the form of radiation, $e=0$ (ideal reflector).
 
-On the other hand, an object at a temperature higher than that of the environment dissipates thermal energy to
-through non-radiative mechanisms: conduction and convection of the surrounding air $P_\text{conv}$ .
+On the other hand, an object at a temperature higher than that of the environment dissipates thermal energy through non-radiative mechanisms: conduction and convection of the surrounding air $P_\text{conv}$.
 
-In the case of convection dissipation, the power lost by the body is given, in
-principle, by the following formula:
+In the case of dissipation by convection, the power lost by the body is given, in principle, by the following formula:
 
 $$P_\text{conv} = k \left( T_P - T_O \right)$$
 
-where $k$ is a constant, $T_P$ is the temperature of the object and $T_O$ is the temperature of the environment.
-Based on the different physical processes described, two methods can be formulated:
-The experimental methods for determining the Stefan-Boltzmann constant.
+where $k$ is a constant, $T_P$ is the temperature of the object and $T_O$ is that of the environment.
+Based on the different physical processes described, two experimental methods can be formulated for the determination of the Stefan-Boltzmann constant.
 
-1. The method of constant power:
+1. Constant power method:
 
-In this method, the polished cylinder and the blackened cylinder are heated by a
-Electric heater, to which a power $P_\text{elect}$ is delivered by:
+In this method, the polished cylinder and the blackened cylinder are heated by means of an electric heater, to which a power $P_\text{elect}$ is supplied, given by:
 
 $$P_\text{elect} = V \cdot I$$
 
-where $V$ is the potential difference between the heating resistance terminals and $I$ is
-the electric current flowing through it.
-After some time, during which current flows through the heater, the temperature
-The cylinder (cleaned or blackened as appropriate) does not change over time; this
-It's, it's reached a steady state. In this state, all electrical power that is
-the delivery to heat the cylinder is dissipated into the environment, i.e.:
+where $V$ is the potential difference between the terminals of the heating resistor and $I$ is the electric current flowing through it.
+After some time, during which current flows through the heater, the temperature of the cylinder (polished or blackened, as the case may be) no longer changes over time; that is, a steady state has been reached. In this state, all the electrical power supplied to heat the cylinder is dissipated to the environment, that is:
 
 $$P_\text{elect} = P_\text{rad} + P_\text{conv}$$
 
-Where the loss of driving has been scorned.
+where conduction losses have been neglected.
 
-If $T_P$ is indicated, the alkali temperature
+If $T_P$ denotes the temperature rea
 
-**Topic:** [[Thermodynamics]], [[Circuits]], [[Electrostatics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BMpfq4DS_9qyDwWlthPqkkjqDoDUa08z/view)
+

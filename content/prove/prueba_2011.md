@@ -240,99 +240,67 @@ $h = 5\ \text{m}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem one: Ice house.
-In places where ice builds up a lot during the winter, the inhabitants
-They don't have a freezer, they collect the ice in a compound known as the "ice house".
-This one is built with bricks, partially sunk into the ground with walls well
-isolated. The ice house has an outlet for the drainage of water resulting from the
-ice melting and an upper outlet for water vapour (see drawing). The ice that is
-The product is then ground into a glass and then compacted into the glass.
-the corresponding enclosure in the house.
+Problem 1: Ice house.
+In those places where a lot of ice accumulates during the winter, inhabitants who do not have a refrigerator gather the ice in an enclosure known as an "ice house".
+This is built with bricks, partially sunk into the ground with well-insulated walls. The "ice house" has an outlet for draining the water resulting from the melting of the ice and an upper outlet for water vapor (see drawing). The ice that is put into the "ice house" is previously ground and then compacted inside the corresponding enclosure in the house.
 
-The following:
-Consider the air mass within the house and the sublimation of the
-I'll just put some ice on the walls and assume the house walls are perfectly insulating. So, by calling:
-$E$ to the energy per unit time (power) entering the ice house and which is
-absorbed by this,
-$M$ the melting (melting) ice mass per unit of time inside the house,
-$M_v$ to the mass of water vapor evaporated from this water per unit time
-y
-$M_F$ to the water mass that finally flows per unit of time to drainage (drainage),
-the equation of the ice house, this is the mass of ice that melts per unit of
-Time is:
+Instructions:
+Consider negligible the mass of air inside the house and the sublimation of the ice and assume that the walls of the house are perfectly insulating. Thus, calling:
+$E$ the energy per unit time (power) that enters the ice house and is absorbed by it,
+$M$ the mass of ice that melts (thaws) per unit time inside the house,
+$M_v$ the mass of water vapor that evaporates from this water per unit time and
+$M_F$ the mass of water that finally flows per unit time to the drain (drainage),
+"the ice house equation", that is, the mass of ice that melts per unit time is:
 
 $$M = \frac{E - M_v L_v}{L_F} \quad (1)$$
 
-Where $L_v$ and $L_F$ are the heat of water evaporation and ice melting, respectively.
+Where $L_v$ and $L_F$ are the heats of evaporation of water and of fusion of ice, respectively.
 
-(a) Using energy conservation, deduce the equation of the ice house
-(Equation 1)
+a) Using energy conservation, derive the "ice house equation" (equation 1).
 b)
-(b1) Of an expression of ice mass per unit of time ($M_1$) which is
-It would melt if all the power entering the ice house were only
-used in melting ice; $M_v = 0$.
-(b2) Of an expression of ice mass per unit of time ($M_2$) which is
-The Commission has already decided to take the necessary measures to ensure that the Community's
-water; $M_F = 0$.
-(b3) Express the ratio between $M_1$ and $M_2$ in terms of data and calculate its
-The courage.
-(b4) Which of the two situations is less favourable to conservation
-The ice?
-Assuming a $f$ of melted ice mass evaporates, which is
-This is equivalent to saying that the ratio of melting ice mass per unit of
-time ($M$) and evaporated water mass per unit time ($M_v$) are linked
-in the form:
+b1) Give an expression for the mass of ice per unit time ($M_1$) that would melt if all the power entering the ice house were used only to melt ice; $M_v = 0$.
+b2) Give an expression for the mass of ice per unit time ($M_2$) that would melt if all the water produced eventually turned into water vapor; $M_F = 0$.
+b3) Express the ratio between $M_1$ and $M_2$ in terms of the data and calculate its value.
+b4) Which of the two situations is less favorable for the preservation of the ice?
+Assuming that a fraction $f$ of the mass of melted ice evaporates, which is equivalent to saying that the relationship between the mass of ice that melts per unit time ($M$) and the mass of water that evaporates per unit time ($M_v$) are related in the form:
 
 $$M_v = f M \quad (2)$$
 
-(c) Show that equation (1) results in:
+c) Show that equation (1) becomes:
 
 $$M = \frac{E}{L} \qquad \text{donde} \qquad L = L_F + f L_v \quad (3)$$
 
-Consider that the place where the ice is housed, within the ice house, has the
-a cylinder shape of radius $r$ and depth $h$. Suppose the heat exchange with
-The ice is produced through one of the cylinder's circular surfaces; that is, a
-through one of the $A$ area caps, given by:
+Consider that the place where the ice is stored, inside the "ice house", has the shape of a cylinder of radius $r$ and depth $h$. Assume that the heat exchange with the ice occurs through one of the circular surfaces of the cylinder; that is, through one of the end caps of area $A$, given by:
 
 $$A = \pi r^2 \quad (4)$$
 
-Suppose that during the melting process the height $h$ remains constant; it is
-That is, the melting of ice only changes the section of the ice cylinder.
-Under these conditions, the energy per unit time ($E$) entering the ice can be
-expressed as:
+Assume that during the ice melting process, the height $h$ remains constant; that is, the melting of the ice only changes the cross-section of the ice cylinder.
+Under these conditions, the energy per unit time ($E$) that enters the ice can be expressed as:
 
 $$E = -k A \Delta T \quad (5)$$
 
-where $k$ is a constant representing heat exchange with the outside
-(external conduction coefficient) and $\Delta T$ is the temperature difference (thermal jump)
-between the ice and the external environment with which the ice house exchanges heat.
+where $k$ is a constant that represents the heat exchange with the outside (external conduction coefficient) and $\Delta T$ is the temperature difference (thermal gap)
+between the ice and the external medium with which the "ice house" (the ice) exchanges heat.
 
-(d) Using equation (3) and the considerations set out in the preceding paragraph,
-demonstrate that:
+d) Using equation (3) and the considerations expressed in the previous paragraph, show that:
 
 $$M = \frac{-k m \Delta T}{\rho L h} \quad (5)$$
 
-where $m$ is the ice mass present in the ice shed at the time $t$ and $\rho$
-density of the ice.
+where $m$ is the mass of ice present in the "ice house" at time $t$ and $\rho$ is the density of the ice.
 
-From equation (5) the shape of the total ice mass varies
-que hay dentro de la “casa del hielo”, $m$, en función del tiempo. This function is of the
-shape:
+From equation (5) one can obtain the way in which the total mass of ice inside the "ice house", $m$, varies as a function of time. This function has the form:
 
 $$m(t) = m_0\, e^{-bt} \quad (5)$$
 
-where $m_0$ is the initial mass of ice (the one deposited in the ice shed at the start) and $b$
-is a constant given by:
+where $m_0$ is the initial mass of ice (the one deposited in the "ice house" at the beginning) and $b$ is a constant given by:
 
 $$b = \frac{k \Delta T}{\rho L h} \quad (6)$$
 
-(e) From equations (5) and (6) find the time for which the mass of
-ice is halved, under the following conditions:
-e1) When $f = 0$ (no evaporation)
-e2) Cuando $L = 2L_F$. For this situation, also calculate the value
-corresponding to $f$.
+e) From equations (5) and (6), find the time for which the mass of ice is reduced by half, under the following conditions:
+e1) When $f = 0$ (there is no evaporation)
+e2) When $L = 2L_F$. For this situation, in addition, calculate the corresponding value of $f$.
 Express both results in years.
-(e3) Which of the two cases is most favourable for ice conservation?
+e3) Which of the two cases is more favorable for the conservation of the ice?
 
 The values of the constants for the calculations are:
 $k = 2\ \text{W/m}^2\text{K}$
@@ -341,13 +309,6 @@ $L_V = 2{,}26 \times 10^6\ \text{J/kg}$
 $\rho = 800\ \text{kg/m}^3$
 $\Delta T = 20\ \text{K}$
 $h = 5\ \text{m}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2011 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/point-charge,object/gas"></span>
@@ -589,120 +550,55 @@ Esprimere tutti i risultati in unità corrispondenti al sistema
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two: Shazam!
-Introduction and Generals.
-The movement of air within the clouds produces a separation of electrical charges
-which are then moved to different parts of the same cell, generating multiple cells or
-loading centres. Because of the presence of these charging centres in the cloud, they generate
-In the earth, the opposite sign loading centers are induction processes as the earth
-He's a good driver. Thus, negative charge centers are generated on the earth as
-image of the positive charge centres in the cloud and vice versa.
-When the concentration of positive and/or negative loads reaches a critical level, the
-electrons are attracted by some of the positive charge cells through the
-The path of less resistance produces an electrical discharge. Sometimes the
-The discharge occurs between the cloud and the ground, and sometimes between charging centres of
-clouds or between centres of the same cloud.
-A lightning strike is a discharge between a cloud's charge center and the charge center on the cloud.
-the earth. When the potential difference between some cloud charging center and the
-The surface of the earth reaches the breakdown voltage of the air $(\Delta V_r)$, the beam is produced.
-The lightning starts as a series of steps or segments about 100 meters
-From the cloud to the earth. These segments do not carry much load and therefore
-They don't emit much light, but they're responsible for generating the channel through which it'll be produced.
-The lightning. As this channel approaches the surface, a second discharge is
-It's spreading from the earth to the cloud. When the two discharges make contact
-The channel is completed by producing a short circuit that lowers most of the load from the
-cloud to earth. This discharge, or short-circuit, lasts a thousandth of a second and can be
-repeat several times through the same channel. What is known as lightning is this
-It is usually composed of several discharges and lasts a fraction of a second.
-When lightning strikes, the electrical discharge deposits a large amount of energy
-In the channel, it reaches a high temperature. This energy is deposited
-The channel section has no
-Time to expand and the pressure increases 10 to 100 times. This great pressure
-It spreads rapidly into the air around the channel producing a wave of
-shock that eventually becomes the sound we call thunder.
+Problem 2: Shazam!
+Introduction and Generalities.
+The movement of air inside clouds produces a separation of electrical charges that are then displaced to different parts of the cloud, generating multiple cells or charge centers. Due to the presence of these charge centers in the cloud, charge centers of opposite sign are generated in the ground by a process of induction, since the ground is a good conductor. Thus, negative charge centers are generated in the ground as an image of the positive charge centers in the cloud and vice versa.
+When the concentration of positive and/or negative charges reaches a critical level, the electrons move, attracted by one of the positive charge cells, through the path of least resistance, producing an electrical discharge. Sometimes the discharge occurs between the cloud and the ground, and other times between charge centers of different clouds or between centers of the same cloud.
+A lightning bolt is a discharge between a charge center of a cloud and the charge center in the ground. When the potential difference between some charge center of the cloud and the Earth's surface reaches the breakdown voltage of air $(\Delta V_r)$, the lightning bolt occurs.
+The lightning begins as a series of steps or segments of about 100 meters from the cloud toward the ground. These segments do not carry much charge and therefore do not emit much light, but they are responsible for generating the channel through which the lightning will occur. As this channel approaches the surface, a second discharge propagates from the ground toward the cloud. When the two discharges make contact, the channel is completed, producing a short circuit that brings most of the charge down from the cloud to the ground. This discharge, or short circuit, lasts one thousandth of a second and can be repeated several times through the same channel. What is known as lightning is generally composed of several discharges and lasts a fraction of a second.
+When lightning occurs, the electrical discharge deposits a large amount of energy in the channel, causing it to reach a high temperature. This energy is deposited very quickly (about a few millionths of a second), so the cross-section of the channel does not have time to expand and the pressure increases between 10 and 100 times. This great pressure rapidly propagates into the air around the channel, producing a shock wave that eventually becomes the sound we call thunder.
 
-The problem
-The height of the base of a storm cloud, relative to land, is approximately
-1000 m. The negative electrical charge located in its lower region can be considered as
-concentrated at a point at an altitude of 5000 m on an axis passing through the
-the centre of the cloud and has a magnitude $Q = -40\ \text{C}$. The presence of this charge induces a
-load density on the earth's surface, which can be modelled by a load
-point $-Q$ located at a distance of 5000 m below ground level.
-1- Determine the electric field, $E$, which produces these charges ($Q$ and $-Q$) on the
-segment connecting them and at a height $h = 4500\ \text{m}$ (A) (see Figure 1).
-2- What is the value $Q$ to be used for the electric field at point A
-reach the break value?
+Problem
+The height of the base of a storm cloud, relative to the ground, is approximately
+1000 m. The negative electric charge located in its lower region can be considered concentrated at a point located at a height of 5000 m on an axis that passes through the center of the cloud and has a magnitude $Q = -40\ \text{C}$. The presence of this charge induces a charge density on the Earth's surface, which can be modeled by a point charge $-Q$ located at a distance of 5000 m below ground level.
+1- Determine the electric field, $E$, that these charges ($Q$ and $-Q$) produce on the segment that joins them and at a height $h = 4500\ \text{m}$ (Point A) (See figure 1).
+2- What value must $Q$ have for the electric field at point A to reach the breakdown value?
 
-Suppose that once $E_r$ is reached at point A, an ionized channel is formed
-between that point and the surface of the earth. This channel behaves like a conductor that
-has an electrical resistance of $50\ \Omega$ cm within the cloud and $350\ \Omega$ cm outside the cloud
-I'm not. Considering that the channel is straight and has a constant diameter of 46
-cm,
-3- Calculate the electrical resistance of the channel in the cloud ($R_{c1}$) and outside the cloud
-misma ($R_{c2}$).
+Assume that once the value $E_r$ is reached at point A, an ionized channel forms between that point and the Earth's surface. This channel behaves as a conductor that has an electrical resistivity of $50\ \Omega$ cm inside the cloud and $350\ \Omega$ cm outside it. Considering that the channel is straight and has a constant diameter of 46 cm,
+3- Calculate the electrical resistance of the channel inside the cloud ($R_{c1}$) and outside it ($R_{c2}$).
 4- Calculate the total electrical resistance of the channel ($R_c$).
 5- Calculate the potential difference $(\Delta V_r)$ between the ends of the channel.
 
-This channel establishes an electric current ($i_r$) that lowers the load from the cloud to the
-the earth. Assuming that the potential difference remains constant during the
-electrical discharge.
-6- Calculate the value of this current.
+In this channel an electric current is established ($i_r$) that carries charge down from the cloud to the ground. Assuming that the potential difference remains constant during the electrical discharge.
+6- Calculate the value of said current.
 
-Suppose the air is an ideal diatomic gas and initially the whole channel has a
-pressure atmosphere and a temperature of $20\ ^\circ\text{C}$.
+Assume the air to be a diatomic ideal gas and that initially the entire channel has an atmosphere of pressure and a temperature of $20\ ^\circ\text{C}$.
 7- Calculate the number of moles ($n$) of gas in the channel.
 
-The flow of current through the conductive channel increases the temperature of the conductive channel. Like the
-The process is extremely fast ($25\ \mu\text{s}$) it can be considered that the heating of the channel
-The volume of the product is not changed. Disregarding the Light Energy
-This is assuming that all the energy received by the channel through the passage of the
-The current is delivered to the gas forming the channel and no energy is lost by conduction
-the gas outside the channel,
+The passage of current through the conducting channel increases its temperature. Since the process is extremely fast ($25\ \mu\text{s}$), it can be considered that the heating of the channel occurs without it changing its volume. Neglecting the radiated light energy, that is, assuming that all the energy received by the channel from the passage of current is delivered to the gas that forms the channel and that no energy is lost by conduction to the gas outside the channel,
 8- Calculate the final temperature ($T_f$) of the channel.
 9- Calculate the final pressure ($P_f$) inside the channel.
 
-The pressure difference between the inside and outside of the channel causes a wave of
-shock, whose audible signal we call thunder. In a good approximation, you can
-Consider that the audible signal we detect travels from its emission (on the channel) to the
-the detector, at the speed of sound.
-Consider a lightning detection and location system consisting of three antennas. The Commission
-The antennas are located at the vertices of an equilateral triangle of 10 km
-side.
-Each antenna detects the light and sound signal produced by the lightning. In good condition
-The signal detected by the antennas is assumed to be emitted
-by lightning at ground level. Each antenna measures the difference in the arrival time of the
-two $(\Delta t)$ signals with an accuracy of $3 \times 10^{-2}\ \text{s}$. If antenna 1 measured a $\Delta t_1 = 24.43\ \text{s}$, the 2
-measured $\Delta t_2 = 15.51\ \text{s}$ and antenna 3 measured $\Delta_3 = 38.85\ \text{s}$,
-10- Determine the distances, above the surface of the earth, between the place where the
-The lightning struck and each of the antennas fell. Express these amounts with your
-Uncertainty.
-11- Graphically identify possible signal locations
-detected by each antenna. For this, use the millimeter sheet
-I'll get you some supplies. On the graph, indicate the position where the lightning struck.
-12- Estimate the value of the error in the position where the lightning fell from the graph.
+The pressure difference between the inside and the outside of the channel causes a shock wave, whose audible signal we call thunder. As a good approximation, it can be considered that the audible signal we detect travels from its emission (in the channel) to the detector at the speed of sound.
+Consider a lightning detection and location system consisting of three antennas. The antennas are located at the vertices of an equilateral triangle with a side of 10 km.
+Each antenna detects the light signal and the sound signal produced by the lightning. As a good approximation, it can be assumed that the signals detected by the antennas are emitted by the lightning at ground level. Each antenna measures the difference in arrival time of the two signals $(\Delta t)$ with a precision of $3 \times 10^{-2}\ \text{s}$. If antenna 1 measured a $\Delta t_1 = 24.43\ \text{s}$, antenna 2 measured a $\Delta t_2 = 15.51\ \text{s}$ and antenna 3 measured a $\Delta_3 = 38.85\ \text{s}$,
+10- Determine the distances, on the surface of the Earth, between the place where the lightning struck and each of the antennas. Express these quantities with their uncertainty.
+11- Graphically determine the possible places of emission of the signals detected by each of the antennas. To do this, use the provided millimeter paper. On the graph, indicate the position where the lightning struck.
+12- Estimate from the graph the value of the error in the position where the lightning struck.
 
-Suppose the air breakage field is $3000\ \text{V/mm}$.
-Suppose the permittivity of the air is equal to the permittivity of the vacuum,
+Assume that the breakdown field of air is $3000\ \text{V/mm}$.
+Assume that the permittivity of air is equal to the permittivity of vacuum,
 $\varepsilon_0 = 8.85 \times 10^{-12}\ \text{C/(V m)}$.
 The universal gas constant is
 $R = 8.32\ \text{J/(mol K)}$.
-Suppose the speed of propagation of the light signal is
-$c = 300000\ \text{km/s}$ y que la
-The speed of sound is
+Assume that the propagation speed of the light signal is
+$c = 300000\ \text{km/s}$ and that the speed of sound is
 $u = 330\ \text{m/s}$.
-For an ideal diatomic gas the molar heat capacity at constant volume is
+For a diatomic ideal gas the molar heat capacity at constant volume is
 $C_v = \frac{5}{2} R$.
 $1\ \text{atm} = 1.01325 \times 10^5\ \text{Pa}$.
 
-Express all your results in units for the system
-The Commission is not a party to the agreement.
-
-**Topic:** [[Electrostatics]], [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
-
+Express all your results in units corresponding to the International System.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2011 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/pendulum,object/sphere,object/ball"></span>

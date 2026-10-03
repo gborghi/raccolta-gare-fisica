@@ -61,86 +61,52 @@ del mismo  como se muestra en la figura.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Ereditariato italiano**
+**Eredità italiana**
 
-Il problema: eredità italiana 
- 
-Ho ereditato un orologio a pendolo che mio nonno mi ha portato molti anni fa e vorrei
-- lo installarlo nella mia nuova casa. È immobilizzato in una scatola di legno che, a sua volta,
-La seconda parte contiene alcune indicazioni di fabbricazione. Dopo averli tradotti, posso leggere:
-Orologio fabbricato a Roma, 1738. Il suo meccanismo consiste in un pendolo.
-costruito con un filo speciale molto sottile di 100,0 cm di lunghezza e una massa 
-de 300,0 g. Il filo può sopportare una tensione fino a 3,30 N. 
-Per controllare il funzionamento dell'orologio, libero la massa da un'ampiezza iniziale.
-e trovo che questo è in ritardo. 
-Non vorrei cambiare la struttura dell'orologio, un amico mi suggerisce di interrompere un'orologio.
-O, sopra la verticale del punto di appoggio e 50 cm sotto di esso, in modo da 
-modificare il periodo di oscillazione totale. Mi raccomanda in particolare che non ci sia
-La friczione tra il filo del pendolo e l'ostacolo che potrebbe essere considerato un cilindro.
-radio molto piccolo. Per orientarmi, mi ha fatto il seguente diagramma:
-Prima di fare i cambiamenti ho deciso di fare alcuni calcoli:
-a) Se si colloca l' ostacolo e si riparte da un' amplitude iniziale α0 = 150 . 
-Qual è l'angolo βmax di distanza massima dalla verticale? 
-b) Considerando che le amplitudini di oscillazione sono sufficientemente piccole da
-per accettare che il periodo di un pendolo senza ostacoli sia calcolato come T = 2π (L/g)1/2, 
-Qual è il nuovo periodo di oscillazione totale del pendolo modificato? 
-c) Qual è il valore della tensione sul filo per angoli 0≤ β 
-β 
-β 
-La Commissione ha adottato una decisione che non prevede che la Commissione non possa procedere a tale decisione. 
-d) È possibile modificare la proposta, date le condizioni specificate di
-fabbrica per il filo? giustifica la tua risposta con calcoli. 
- 
-NOTA: La tensione su un filo è il modulo della forza FT applicata a entrambi gli estremità 
-di questo stesso tipo come mostrato nella figura.
+Problema: Eredità italiana
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
+Ho ereditato un orologio a pendolo che il mio bisnonno ha portato molti anni fa e vorrei installarlo nella mia nuova casa. È incassato in una cassa di legno che, nella parte posteriore, presenta alcune indicazioni di fabbrica. Dopo averle tradotte posso leggere:
+“Orologio fabbricato a Roma, 1738. Il suo meccanismo consiste in un pendolo costruito con un filo speciale molto sottile di 100,0 cm di lunghezza e una massa di 300,0 g. Il filo può sopportare una tensione fino a 3,30 N”.
+Per controllare il funzionamento dell'orologio, libero la massa da un'ampiezza iniziale
+α0 e trovo che questo ritarda.
+Poiché non vorrei cambiare la struttura dell'orologio, un amico mi suggerisce di interporre un ostacolo, O, sulla verticale rispetto al punto di sospensione e 50 cm al di sotto di questo, in modo da modificare il periodo totale di oscillazione. Mi raccomanda in particolare che non deve esserci attrito tra il filo del pendolo e l'ostacolo, che si potrebbe considerare come un cilindro di raggio molto piccolo. Per orientarmi mi ha fatto il seguente diagramma:
+Prima di realizzare le modifiche decido di fare alcuni calcoli:
+a) Se collocassi l'ostacolo e lo lasciassi oscillare di nuovo da un'ampiezza iniziale α0 = 150 .
+Quale sarebbe l'angolo βmáx di massimo allontanamento dalla verticale?
+b) Considerando che le ampiezze di oscillazione sono sufficientemente piccole da accettare che il periodo di un pendolo senza ostacolo si calcoli come T = 2π (L/g)1/2,
+Quale sarebbe il nuovo periodo totale di oscillazione del pendolo modificato?
+c) Qual è il valore della tensione nel filo per angoli  0≤ β
+β
+β
+β ≤ βmax ?
+d) Sarà possibile la modifica suggerita date le condizioni specificate di fabbrica per il filo? Giustifichi la sua risposta per mezzo di calcoli.
+
+NOTA: La tensione su un filo è il modulo della forza FT applicata ad entrambi gli estremi dello stesso come mostrato in figura.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the application.
+**Italian Heritage**
 
-Problem: Italian heritage 
- 
-I inherited a pendulum watch that my great-grandfather brought me many years ago and I would like to
-install it in my new home. It's embedded in a wooden box that, in turn,
-The following is a list of manufacturing indications. After translating them I can read:
-Clock made in Rome, 1738. Its mechanism consists of a pendulum.
-It is constructed with a special very thin thread of 100,0 cm in length and a mass 
-de 300,0 g. The thread can withstand a stress of up to 3,30 N. 
-To control the clock's operation, I release the mass from an initial amplitude.
-And I find this one is late. 
-Since I wouldn't want to change the clock structure, a friend suggested I interpose a
-obstacle, O, above the vertical to the support point and 50 cm below it, so that 
-modify the total period of oscillation. I especially recommend that there should be no
-friction between the thread of the pendulum and the obstacle that you might consider a cylinder.
-Very small radio. To guide me , he gave me the following diagram:
-Before making the changes I decided to do some calculations:
-(a) If you place the obstacle and let it oscillate again from an initial amplitude α0 = 150 . 
-What would be the angle βmax of maximum vertical separation? 
-(b) Whereas the oscillation amplitudes are sufficiently small as 
-to accept that the period of an unobstructed pendulum is calculated as T = 2π (L/g) 1/2, 
-What would be the new total swing period of the modified pendulum? 
-(c) What is the value of the tension on the wire for angles 0≤ β 
-β 
-β 
-The following is the list of the products: 
-(d) Is the proposed modification possible under the conditions specified in the
-The thread factory? Justify your answer by calculating. 
- 
-NOTE: The voltage on a wire is the modulus of FT force applied at both ends 
-The same as shown in the figure.
+Problem: Italian Heritage
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
+I have inherited a pendulum clock that my great-grandfather brought many years ago and I would like to install it in my new house. It is set into a wooden case that, on its back, has some factory indications. After translating them I can read:
+"Clock made in Rome, 1738. Its mechanism consists of a pendulum built with a very thin special thread 100.0 cm long and a mass of 300.0 g. The thread can withstand a tension of up to 3.30 N."
+To check how the clock works, I release the mass from an initial amplitude
+α0 and I find that it runs slow.
+Since I would not like to change the structure of the clock, a friend suggests that I place an obstacle, O, on the vertical above the pivot point and 50 cm below it, in order to modify the total oscillation period. He especially recommends that there must be no friction between the pendulum thread and the obstacle, which could be considered as a cylinder of very small radius. To guide me he made the following diagram:
+Before making the changes I decide to do some calculations:
+a) If I placed the obstacle and let it oscillate again from an initial amplitude α0 = 150 .
+What would be the angle βmax of maximum deviation from the vertical?
+b) Considering that the oscillation amplitudes are small enough to accept that the period of a pendulum without an obstacle is calculated as T = 2π (L/g)1/2,
+What would be the new total oscillation period of the modified pendulum?
+c) What is the value of the tension in the string for angles  0≤ β
+β
+β
+β ≤ βmax ?
+d) Will the suggested modification be possible given the specified factory conditions for the string? Justify your answer by means of calculations.
 
+NOTE: The tension on a string is the magnitude of the force FT applied at both ends of the string as shown in the figure.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2000 Nazionale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/multi,object/wire"></span>
@@ -222,40 +188,25 @@ Dove ρ è la resistenza del materiale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Manufacture of fuses
+**Manufacturing fuses**
 
-Problem: Manufacturing fuses 
- 
-In the electrical installation of a factory, fuses made with a certain
-material with a maximum current of 10 A above which this material is
-It melts. 
-The fuse consists of a wire of L length and a circular section of 1 mm of 
-diameter. You want to build another fuse, also sectioned, with the same material 
-The current in the current is the same as the current in the current.
-up to 80 A. 
-What should be the diameter of this new fuse to meet the condition?
-required? 
-Note: 
-1) A cylindrical wire (such as a fuse) dissipates a power into the environment, 
-P, given by the following expression: 
-The following is the list of the following:
-Where: * k is a constant (material characteristic) 
- 
-* S is the lateral section of the wire (in contact with air) 
- 
-* Wire and environment are the temperature of the wire and the environment, 
-the Commission. 
-2) Remember that the resistance of a conductor of length L and section a is given 
-by the expression: 
-R = ρ L/a 
+Problem: Manufacturing fuses
+
+In the electrical installation of a factory, fuses made of a certain material are used that withstand a maximum current of 10 A, above which this material melts.
+The fuse consists of a wire of length L and circular cross-section of 1 mm in diameter. It is desired to build, with the same material, another fuse, also of circular cross-section, and of the same length as the previous one, that allows a current of up to 80 A to flow.
+What should be the diameter of this new fuse to meet the required condition?
+NOTE:
+1) A cylindrical wire (such as that of the fuse) dissipates into the environment a power,
+P, given by the following expression:
+P = k S (Twire-Tenvironment)
+Where:  * k is a constant (characteristic of the material)
+
+* S is the lateral surface area of the wire (in contact with the air)
+
+* Twire and Tenvironment are the temperature of the wire and of the environment, respectively.
+2) Remember that the resistance of a conductor of length L and cross-section a is given by the expression:
+R = ρ L/a
 Where ρ is the resistivity of the material.
-
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2000 Nazionale — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi"></span>
@@ -659,81 +610,58 @@ Prove sperimentali
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Winter Vacation**
 
-Problem: winter holidays
- 
-Every winter I go to my cabin, which is located in the mountains. La 
-The temperature at this time of year is usually very low. Because I spend a lot .
-This year I want to implement an automatic regulatory system for
-The temperature. To optimize the system, I need to do some preliminary studies. 
-The dimensions of the cabin, idealized by a parallel stone, are shown in Figure 1. 
- 
- 
- 
- 
-A ground image of the same is shown in Figure 2. 
- 
- 
- 
-The windows are constructed in such a way that they have the same thermal properties.
-the walls and the roof of the cabin (the floor is insulated from heat). 
-The heater I have, delivers 10,000 cal/h. The system is designed in such a way that 
-The temperature of the air inside the cabin is almost instantly homogenized. The day that 
-6 m 
-5 m 
-2.5 m 
-6 m 
-5 m 
-L=30 cm 
-window .
-window .
-The door .
+Problem: Winter Vacation
 
-I get the temperature inside the cabin is 0°C just like the temperature in the
-outside. Next thing I know, I'm going to call T to the air temperature inside the cabin. 
-During the whole time I was doing the studies, the outside temperature was kept.
-constant, and equal to 0oC. 
+Every winter I usually go to my cabin, which is located in the mountains. The temperature in this season of the year is usually very low. Because I spend a lot of fuel, this year I want to implement an automatic temperature regulation system. To optimize the system, I must do some preliminary studies.
+The dimensions of the cabin, idealized as a parallelepiped, are shown in figure 1.
+
+
+
+
+A plan view of it is shown in figure 2.
+
+
+
+The windows are built in such a way that they have the same thermal properties as the walls and the roof of the cabin (the floor is heat-insulating).
+The heater I have delivers 10000 cal/h. The system is designed in such a way that the air temperature inside the cabin homogenizes almost instantaneously. The day
+6 m
+5 m
+2.5 m
+6 m
+5 m
+L=30 cm window window door
+
+I arrive, the temperature inside the cabin is 0oC, as is the outside temperature. In what follows, I will call T the temperature of the air inside the cabin.
+During the entire time in which I carried out the studies, the outside temperature remained constant, and equal to 0oC.
  
-a) I turn on the heater and wonder: how long will I need to wait for the air to come in?
-The interior of the cabin reaches a temperature of 15°C, if the different parts which
-The building (walls and ceiling) were made of insulating materials.
-Perfect, not allowing heat loss? 
-(b) While the air in the cabin is heated, I measure the temperature (T) of the cabin with a thermometer.
-It's the same as the time value. I can observe that actually, the air 
-It takes longer to reach the desired temperature than the calculated on the item 
-previously. The data recorded are shown in Table 1 and Figure 3. 
-Based on this information: 
-b1. What is the amount of heat (P) that, per unit of time, flows from the 
-inside out at each recorded time interval? 
-To answer this question, complete Table 2 with your calculations. The weather .
-tmedium is the mean point of the time interval between two successive measurements of 
-The temperature. In turn, Tmedia is the mean value of the internal temperature in the
-the same time interval. Suppose that in each time interval considered the
-temperature changes linearly over time. This is equivalent to joining with lines.
-The following points are shown in Figure 3. 
- 
-Table 1 is replaced by the following: 
-t [h] 
-T [oC] 
-0 
-0. 
-12 
-5.86 
-24 
-10.37 
-36 
-13.83 
-48 
-16.49 
-t [h ]
+a) I take the heater and ask myself: how long will I need to wait for the air inside the cabin to reach a temperature of 15°C, if the different parts that make up the house (walls and roof) were made with perfect insulating materials that do not allow heat loss?
+b) While the air in the cabin heats up, I measure its temperature (T) with a thermometer and record its value as a function of time. I can observe that in reality, the air takes longer to reach the desired temperature than the time calculated in the previous item. The recorded data are presented in Table 1 and Figure 3.
+Based on this information:
+b1. What is the amount of heat (P) that, per unit time, flows from the inside to the outside in each recorded time interval?
+To answer this question, complete Table 2 with your calculations. The time tmedio is the midpoint of the time interval between two successive temperature measurements. In turn, Tmedia is the mean value of the interior temperature in the same time interval. Assume that in each considered time interval the temperature changes linearly with time. This is equivalent to joining the points of Figure 3 with straight lines.
+
+Table 1.
+t [h]
+T [°C]
+0
+0.
+12
+5.86
+24
+10.37
+36
+13.83
+48
+16.49 t [h ]
 0
 10
 2 0
 3 0
 4 0
 5 0
-Ti  [oC]
+Ti  [°C]
 0
 2
 4
@@ -744,17 +672,17 @@ Ti  [oC]
 14
 16
 18
- 
- 
-Figure 3 
 
- 
- 
-Table 2 
- 
-The following is the list of the categories of products:
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
-The following table shows the results of the evaluation:
+
+Figure 3
+
+
+
+Table 2
+
+tmedio[h]
+Tfinal-Tinicial [°C]
+ Tmedia [°C]
 P [cal/hour] 
  
  
@@ -779,81 +707,61 @@ P [cal/hour]
  
  
  
-(c) From the data in Table 1, calculate the time it takes for the air to be
-The cabin reaches 15oC. 
-(d) On the other hand, I have been informed that the amount of heat per unit of time that
-It escapes to the outside of the cabin depending on the thermal and geometric properties.
-of its walls, openings and ceiling in the form of
-The average of the total number of units of the unit is the total number of units of the unit.
-where k is a constant, A is the total area (walls, openings and ceiling) of the cabin, L 
-The thickness of the walls and Te is the outside temperature. If P is plotted as 
-Meanwhile, k can be determined. Use the chart shown in Figure 4 for 
-to do the graph and determine k. 
-(e) When the temperature reaches 15.5 °C the temperature control system shall:
-The heater interrupts the heat supply and when the temperature reaches the
-14.5oC, will be activated again. Determine at what time intervals it is activated and 
-turn off the heater after it has been switched on. For this, suppose 
-The average temperature of the cabin is 15oC. 
- 
+c) Using the data in table 1, calculate the time required for the air in the cabin to reach 15°C.
+d) On the other hand, I have been informed that the amount of heat per unit time that escapes to the outside of the cabin depends on the thermal and geometric properties of its walls, openings and roof in the form
+P = k A/L (Taverage –Te), where k is a constant, A is the total area (walls, openings and roof) of the cabin, L the thickness of the walls and Te is the outside temperature. If P is plotted as a function of
+Taverage, k can be determined. Use the grid provided in figure 4 to make the graph and determine k.
+e) When the temperature reaches 15.5°C the temperature regulating system will make the heater interrupt the heat supply and when the temperature reaches
+14.5°C, it will be activated again. Determine at what time intervals the heater is activated and deactivated after having entered steady state. For this, assume that the average temperature value of the cabin is 15°C.
 
-Ti [oC]
-The following is the list of the following:
-Figure 4 
- 
-The data: 
-Thermal properties of air: Thermal properties of the cabin: 
-The following table shows the results of the calculation of the total energy consumption of the product:
-Calorie capacity of ca = 240 cal/K kg 
- 
- 
- 
-The following table shows the results of the evaluation:
 
-The Argentine Olympics .
-The Commission has already adopted a proposal for a regulation on the
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
- 
- 
- 
- 
- 
- 
-The Commission has decided to extend the period of validity of the proposed Regulation.
- 
- 
- 
- 
- 
- 
- 
-• Write your name on all the sheets and list them. 
-• Remember that you cannot use programmable calculators or any other calculators 
-other material not included in the test, other than the tools of 
-The writing. 
-• Read the entire book carefully before you start solving any problem.
-The same statement. 
-• Ud. You have 4 (four) hours to perform the test. 
- 
- 
- 
- 
- 
- 
+Ti [°C]
+Loss [cal/h]
+figure 4
+
+Data:
+Thermal properties of air:                                           Thermal properties of the cabin:
+Density ρ = 1kg/m3                                                                                    Heat capacity cm = 0 cal/K kg
+Heat capacity ca = 240 cal/K kg
+
+
+
+Taverage [°C] 
+
+ARGENTINE PHYSICS OLYMPIAD 2000
+
+OAF 2000
+
+
+
+
+
+
+EXPERIMENTAL TEST - October 16, 2000
+
+
+
+
+
+
+
+• Write your name on all the sheets and number them.
+• Remember that programmable calculators or any other material not included in the test may not be used, apart from writing materials.
+• Before starting to solve each problem, read carefully ALL the statement of the same.
+• You have 4 (four) hours to complete the test.
+
+
+
+
+
+
 Name:
- 
-Number of sheets delivered: 
 
-Argentine Olympic Physics  National Institute  16 October 2000 
- 
-The test is carried out on the test subject.
+Number of sheets submitted:
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
+Argentine Physics Olympiad – National Instance – October 16, 2000
 
+EXPERIMENTAL TEST
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2000 Nazionale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/pipe-tube,object/piston,object/tank-container"></span>
@@ -1105,121 +1013,96 @@ LAP/RESET: Quando il cronometro è in corso, mostra il tempo parziale senza ferm
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Viscosometer, again **
+**Viscometer, again**
 
-Viscosimeter, again! 
- 
- 
-The Commission has also adopted a proposal for a directive on the protection of workers' rights.
- 
-It is possible to determine the viscosity coefficient of a fluid by passing it 
-through a cylindrical tube by applying a pressure difference between the two
-extremes of it. 
-When you have a tube through which a fluid circulates, the volume of the fluid that you have is
-It leaves the end of the tube, per unit of time is called flow. When the flow is
-It's constant, the state of motion of the fluid is called stationary. 
-The force resulting from the pressure difference between the ends of the tube is favourable.
-The movement of the fluid, while another force, due to its viscosity, acts.
-In the opposite direction. There will be a steady state when these forces are balanced .
-each other. 
-When the diameter of the tube is much smaller than its length (capillary tube), it is 
-It is possible to relate the flow rate to the pressure difference at the ends of the tube by 
-the following equation: 
- 
-With 
- 
- 
-Where: 
-• η is the coefficient of viscosity of the fluid 
-• L is the length of the tube 
-• Q is the flow rate 
-• a is the inner radius of the tube 
-• ∆p is the pressure difference between the ends of the tube. 
- 
-This is the Hagen-Poiseuille formula and only applies in stationary mode, i.e.
-When Q is constant. 
- 
- 
-The objective: 
- 
-The purpose of this test is to determine the viscosity coefficient of water 
-(ηwater) with its corresponding error. 
- 
-p
-k
+Viscometer, again!
+
+
+Introduction:
+
+It is possible to determine the viscosity coefficient of a fluid by making it pass through a cylindrical tube by applying a pressure difference between its ends.
+When there is a tube through which a fluid flows, the volume of it that leaves the end of the tube, per unit time, is called flow rate. When the flow rate is constant, the state of motion of the fluid is said to be steady.
+The force resulting from the pressure difference between the ends of the tube favors the motion of the fluid, while another force, due to the viscosity of the fluid, acts in the opposite direction. A steady state will occur when these forces are balanced with each other.
+When the diameter of the tube is much smaller than its length (capillary tube), it is possible to relate the flow rate to the pressure difference at the ends of the tube by means of the following equation:
+
+With
+
+
+Where:
+• η is the viscosity coefficient of the fluid
+• L is the length of the tube
+• Q is the flow rate
+• a is the internal radius of the tube
+• ∆p is the pressure difference between the ends of the tube.
+
+This is the Hagen-Poiseuille formula and it is valid only in steady regime, that is, when Q is constant.
+
+
+Objective:
+
+The objective of this test is to determine the viscosity coefficient of water (ηwater) with its corresponding error.
+
+p k
 Q
 ∆
 ⋅
 =
 ⋅
 η
-L
-k
-a
+L k a
 ⋅
 ⋅
 = 8
 4
 π
 
-Available items: 
+Available elements: 
  
-The following elements are available for the experience: 
- 
-- 
-Graduated syringe, with known mass piston (check that this value is 
-(closed) 
-- 
-Needle (the one used as a cylindrical tube)
-- 
-The time-meter .
-- 
-Rule 
-- 
-Weights of known values 
-(a) A cylindrical weight, the mass of which is indicated on the same. 
-(b) A large nut; mass: (11,5 ± 0,3) g
-(c) A medium nut; mass: (6,1 ± 0,2) g
-(d) Two small nuts; mass: (1,80 ± 0,03) g each 
-(e) Water container 
-- 
-Support 
- 
- 
-Additional information: 
- 
-As long as the flow rate is constant, the friction can be neglected.
-the embolus with the inside of the syringe. 
-For the purpose of the experiment, use the syringe positioning support.
-vertically. 
-The contribution to ∆p due to the fluid mass in the syringe may be negligible in comparison with 
-the weight due to the embodiment with or without load (weights placed on top of it). 
-Whereas the Hagen-Poiseuille formula relates the viscosity of the fluid to 
-the flow rate Q, the pressure difference ∆p, and the constant k, the value  may be used
-known air viscosity coefficient, 
-The following conditions shall apply:
-to determine the value of k. 
-When working with air, you can use the nuts to load the syringe plunger. 
-To work with water, the load to be used is the weight supplied. 
- 
- 
-Precautions: 
- 
-- 
-Be careful when handling the needle, using the protective shell. 
-- 
-Do the necessary measurements with air BEFORE using water in the syringe. 
- 
+ To carry out the experiment, the following elements are available:
 
-Use of the chronometer: 
- 
-MODE: determines the mode of the clock. It 's already sated in chronometer mode .
-Start/STOP: Start and stop the timer 
-LAP/RESET: When the timer is running, it shows the partial time without stopping the time.
-The timepiece. If the timer is stopped, turn the clock back to zero.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A6M2nxosytR77LTvdlTT_nPsaJ4vejQd/view)
+-
+Graduated syringe, with a piston of known mass (verify that this value is recorded)
+-
+Needle (the one used as a "cylindrical tube")
+-
+Stopwatch
+-
+Ruler
+-
+Weights of known values
+a) A cylindrical weight, whose mass is indicated on it.
+b) A large nut; mass: (11.5 ± 0.3) g
+c) A medium nut; mass: (6.1 ± 0.2) g
+d) Two small nuts; mass: (1.80 ± 0.03) g each
+e) Container with water
+-
+Stand
+
+
+Additional instructions:
+
+ Whenever the flow rate is verified to be constant, the friction of the plunger with the inside of the syringe may be neglected.
+ To carry out the experiment, use the stand to position the syringe vertically.
+ The contribution to ∆p due to the mass of fluid in the syringe may be neglected compared to that due to the plunger with or without load (weights placed on top of it).
+ Considering that the Hagen-Poiseuille formula relates the viscosity of the fluid to the flow rate Q, the pressure difference ∆p, and the constant k, the known value of the viscosity coefficient of air,
+ηair = 1.8 × 10-5 N s m-2 may be used to determine the value of k.
+ When working with air, the nuts may be used to "load" the plunger of the syringe.
+To work with water, the load to be used is the weight provided.
+
+
+Precautions:  
+ 
+-
+Be careful when handling the needle, using the protective sheath.
+-
+Take the necessary measurements with air BEFORE using water in the syringe.
+
+
+Use of the stopwatch:
+
+MODE: determines the mode of the watch. It is already set to stopwatch mode
+START/STOP: Starts and stops the stopwatch
+LAP/RESET: When the stopwatch is running, it shows the split time without stopping the stopwatch. If the stopwatch is stopped, it resets the watch to zero.
+
+

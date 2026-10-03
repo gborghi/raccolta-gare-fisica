@@ -121,206 +121,130 @@ $\alpha_1$ y $\alpha_2$ para que el período $T$ no dependa de $\Delta t$ en la 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un corpo che può oscillare liberamente attorno ad un asse di sospensione, sotto l'azione
-di peso, costituisce un pendolo fisico. Se il corpo ha massa $M$ e la massa del corpo è $M$
-L'accelerazione della gravità in cui si trova è $g$, è dimostrato che il
-periodo di oscillazione, per piccoli apartamenti della posizione di equilibrio è dato
-per
+Un corpo che può oscillare liberamente attorno a un asse di sospensione, sotto l'azione del proprio peso, costituisce un pendolo fisico. Se il corpo ha massa $M$ e l'accelerazione di gravità nel luogo in cui si trova è $g$, si dimostra che il periodo di oscillazione, per piccoli spostamenti dalla posizione di equilibrio, è dato da
 
 $$T = 2\pi\sqrt{\frac{I}{Mgd}} \quad (1)$$
 
-dove $I$ è il momento di inerzia del corpo rispetto all'asse di sospensione, e $d$ è la
-Distanza dall'asse al centro di massa del corpo.
-Un esempio semplice è dato da una barra omogenea di lunghezza $l$, sospesa da
-una delle loro estremità, come mostra la figura 1.
+dove $I$ è il momento d'inerzia del corpo rispetto all'asse di sospensione, e $d$ è la distanza dell'asse dal centro di massa del corpo.
+Un esempio semplice è dato da una bacchetta omogenea di lunghezza $l$, sospesa per una delle sue estremità, come mostra la figura 1.
 
-AXE di oscillazione
+ ASSE DI OSCILLAZIONE
 
  $l$
 
-Figura 1
+ Figura 1
 
-Se le dimensioni trasversali della canna sono piccole rispetto a $l$, il tempo di
-inerzia rispetto ad un asse perpendicolare alla canna e che passa attraverso una delle sue estremità
-es:
+Se le dimensioni trasversali della bacchetta sono piccole rispetto a $l$, il momento d'inerzia rispetto a un asse perpendicolare alla bacchetta e passante per una delle sue estremità è:
 
 $$I = \frac{Ml^2}{3}$$
 
 Domanda 1:
-Per un bastone di rame di $55\ \text{cm}$ di lunghezza, il cui massa $M=500\ \text{g}$, qual è
-il periodo di oscillazione se la gravità in luogo è $g=9.79\ \text{m/s}^2$?
+Per una bacchetta di rame di $55\ \text{cm}$ di lunghezza, la cui massa è $M=500\ \text{g}$, qual è il periodo di oscillazione se la gravità nel luogo è $g=9.79\ \text{m/s}^2$?
 
-Oggi sappiamo che i primi orologi di precisione sono stati costruiti basandosi sulla
-regolarità del periodo di un pendolo in pratica costituito da un corpo
-metallo, per il quale il periodo è dato dall'equazione (1). Quando è necessario grande
-La stabilità durante il periodo di oscillazione, in presenza di cambiamenti nelle condizioni esterne, è
-È necessario tenere presente che le dimensioni di un corpo si alterano a seconda delle variazioni della
-temperatura ambiente, secondo la legge di dilatazione lineare per un corpo
-omogeneo:
+Oggi sappiamo che i primi orologi di precisione furono costruiti basandosi sulla regolarità del periodo di un pendolo che in pratica è costituito da un corpo metallico, e per il quale il periodo è dato dall'equazione (1). Quando si richiede grande stabilità nel periodo di oscillazione, di fronte a cambiamenti delle condizioni esterne, è necessario tenere conto che le dimensioni di un corpo si alterano al variare della temperatura ambiente, secondo la legge di dilatazione lineare per un corpo omogeneo:
 
 $$\Delta l = \alpha\, l\, \Delta t$$
 
-dove $l$ è la lunghezza iniziale, $\Delta l$ la sua variazione a causa di un cambiamento di temperatura $\Delta t$ e $\alpha$ è
-il coefficiente di dilatazione lineare.
+dove $l$ è la lunghezza iniziale, $\Delta l$ la sua variazione di fronte a un cambiamento $\Delta t$ della temperatura e $\alpha$ è il coefficiente di dilatazione lineare.
 
 Domanda 2
-Se il valore del periodo precedentemente calcolato corrisponde a una
-temperatura ambiente di $20\ ^\circ\text{C}$, qual è il nuovo periodo del pendolo se la
-temperatura ambiente è salita a $30\ ^\circ\text{C}$ e il coefficiente di dilatazione
-il lineare del rame è $\alpha=0.0000165\ ^\circ\text{C}^{-1}$?
+Se il valore del periodo calcolato precedentemente corrisponde a una temperatura ambiente di $20\ ^\circ\text{C}$, qual è il nuovo periodo del pendolo se la temperatura ambiente è salita fino a $30\ ^\circ\text{C}$ e il coefficiente di dilatazione lineare del rame è $\alpha=0.0000165\ ^\circ\text{C}^{-1}$?
 
 Domanda 3
-Qual è la variazione nel numero di periodi in un periodo di $24$ ore, rispetto a
-- Questo cambiamento di temperatura?
+Qual è la variazione del numero di periodi in un intervallo di $24$ ore, di fronte a questo cambiamento di temperatura?
 
-Il problema che comporta la dilatazione termico per la stabilità del periodo del pendolo
-La struttura può essere migliorata con un design che utilizza lo stesso effetto per
-- Compensarlo. Prendiamo come esempio il pendolo fisico della figura 2, che è
-costituito da due bastone di materiale diverso, unite per le loro estremità, con l'asse di
-la sospensione attraverso la connessione dei due bastoni, in forma perpendicolare a questa. Per
-Semplicità supponiamo che le due bacche abbiano la stessa massa $M$, le loro lunghezze a $20\ ^\circ\text{C}$
-i coefficienti di dilatazione lineare sono $l_1$ e $l_2$ e $\alpha_1$ e $\alpha_2$. Le dimensioni
-Le parti trasversali di entrambi i bastoni sono piccole rispetto alle loro lunghezze.
+Il problema che implica la dilatazione termica per la stabilità del periodo del pendolo può essere migliorato, mediante un progetto che fa uso di questo stesso effetto per compensarlo. Consideriamo come esempio il pendolo fisico della figura 2, il quale è costituito da due aste di materiale diverso unite per i loro estremi, con l'asse di sospensione passante per l'unione delle due aste, in modo perpendicolare a questa. Per semplicità supponiamo che le due aste abbiano uguale massa $M$, le loro lunghezze a $20\ ^\circ\text{C}$ siano $l_1$ e $l_2$ e $\alpha_1$ e $\alpha_2$ siano i loro coefficienti di dilatazione lineare. Le dimensioni trasversali di entrambe le aste sono piccole rispetto alle loro lunghezze.
 
  $l_2$
 
-AXE di oscillazione
+ ASSE DI OSCILLAZIONE
 
  $l_1$
 
-Figura 2
+ Figura 2
 
 Domanda 4
-Mostra che l'espressione del periodo di oscillazione di questo pendolo per $l_1>l_2$
-è dato da
+Mostrare che l'espressione del periodo di oscillazione di questo pendolo per $l_1>l_2$ è data da
 
 $$T = 2\pi\sqrt{k\,\frac{(l_1^2 + l_2^2)}{g(l_1 - l_2)}}$$
 
 e trovare il valore numerico della costante $k$
-Aiuto: il momento di inerzia di un corpo rispetto a un certo asse è la somma dei
-momenti di inerzia di ciascuna parte del corpo rispetto a quella stessa
-Axe.
+Aiuto: il momento d'inerzia di un corpo rispetto a un certo asse è la somma dei momenti d'inerzia di ciascuna delle parti del corpo, rispetto a quello stesso asse.
 
 Domanda 5
-Qual è la dipendenza dalla temperatura, del periodo calcolato nel
-il punto precedente, nell'approccio lineare in $\Delta t=(t-20\ ^\circ\text{C})$?. Per questo, si deve avere in
-si ritiene che $\alpha_1\Delta t\ll1$ e $\alpha_2\Delta t\ll1$ ($\ll$ significa molto meno).
+Qual è la dipendenza dalla temperatura del periodo calcolato nel punto precedente, nell'approssimazione lineare in $\Delta t=(t-20\ ^\circ\text{C})$?. Per questo si tenga conto che $\alpha_1\Delta t\ll1$ e $\alpha_2\Delta t\ll1$ ($\ll$ significa molto minore).
 
-Aiuto: se $x\ll1$ allora si verifica che circa per qualsiasi $r$ intero
+Aiuto: Se $x\ll1$ allora si verifica approssimativamente che per qualsiasi $r$ intero
 
 $$(1 + x)^r \approx 1 + rx$$
 
-Domanda 6
-Per il caso che $l_1=2l_2$, qual è la condizione da soddisfare tra
-$\alpha_1$ e $\alpha_2$ in modo che il periodo $T$ non dipenda da $\Delta t$ nell'approccio lineare?
+Quesito 6
+Per il caso in cui $l_1=2l_2$, qual è la condizione che deve essere soddisfatta tra
+$\alpha_1$ e $\alpha_2$ affinché il periodo $T$ non dipenda da $\Delta t$ nell'approssimazione lineare?
 
-**Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Thermodynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1spQALWdjMBJ0-8d2eRMGBnQTgqU-AdRg/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-A body that can swing freely around a suspension axis, under the action
-It's a physical pendulum. If the body has mass $M$ and the body mass $M$ is less than
-The acceleration of gravity at the location is $g$, it is shown that the
-The period of oscillation for small apartments of the equilibrium position is given
-by
+A body that can oscillate freely around a suspension axis, under the action of its own weight, constitutes a physical pendulum. If the body has mass $M$ and the acceleration due to gravity at the place where it is located is $g$, it is shown that the period of oscillation, for small displacements from the equilibrium position, is given by
 
 $$T = 2\pi\sqrt{\frac{I}{Mgd}} \quad (1)$$
 
-where $I$ is the moment of inertia of the body with respect to the suspension axis, and $d$ is the moment of inertia of the body with respect to the suspension axis.
-distance from the axis to the centre of mass of the body.
-A simple example is a homogeneous rod of length $l$ suspended by
-one of its ends, as shown in Figure 1.
+where $I$ is the moment of inertia of the body with respect to the suspension axis, and $d$ is the distance from the axis to the center of mass of the body.
+A simple example is given by a homogeneous rod of length $l$, suspended by one of its ends, as shown in figure 1.
 
-The Oscillation Axis
+ OSCILLATION AXIS
 
  $l$
 
-Figure 1
+ Figure 1
 
-If the cross-sectional dimensions of the rod are small compared to $l$, the time of
-inertia with respect to an axis perpendicular to the rod and passing through one of its ends
-es:
+If the transverse dimensions of the rod are small compared to $l$, the moment of inertia with respect to an axis perpendicular to the rod and passing through one of its ends is:
 
 $$I = \frac{Ml^2}{3}$$
 
-Question number one:
-For a copper rod of $55\ \text{cm}$ length, whose mass $M=500\ \text{g}$, what is
-the period of oscillation if the gravity at the site is $g=9.79\ \text{m/s}^2$?
+Question 1:
+For a copper rod of length $55\ \text{cm}$, whose mass is $M=500\ \text{g}$, what is the period of oscillation if gravity at the location is $g=9.79\ \text{m/s}^2$?
 
-Today we know that the first precision watches were built based on the
-regularity of the period of a pendulum in practice consisting of a body
-metallic, and for which the period is given by equation (1). When it is required great
-The Commission's proposal for a regulation on the protection of the environment from the effects of the effects of the measures on the environment is to be adopted by the Council.
-It is necessary to take into account that the dimensions of a body are altered as the
-ambient temperature, according to the law of linear dilation for a body
-a homogeneous content of:
+Today we know that the first precision clocks were built based on the regularity of the period of a pendulum that is in practice constituted by a metallic body, and for which the period is given by equation (1). When great stability in the oscillation period is required, in the face of changes in external conditions, it is necessary to take into account that the dimensions of a body change when the ambient temperature varies, in accordance with the law of linear expansion for a homogeneous body:
 
 $$\Delta l = \alpha\, l\, \Delta t$$
 
-where $l$ is the starting length, $\Delta l$ its variation in a temperature change $\Delta t$ and $\alpha$ is
-the linear dilation coefficient.
+where $l$ is the initial length, $\Delta l$ its variation upon a change $\Delta t$ in temperature, and $\alpha$ is the coefficient of linear expansion.
 
-Question No 2
-If the value of the period calculated above corresponds to one
-ambient temperature of $20\ ^\circ\text{C}$, what is the new period of the pendulum if the
-room temperature rose to $30\ ^\circ\text{C}$ and the dilation coefficient
-linear copper is $\alpha=0.0000165\ ^\circ\text{C}^{-1}$?
+Question 2
+If the value of the period calculated previously corresponds to an ambient temperature of $20\ ^\circ\text{C}$, what is the new period of the pendulum if the ambient temperature rose to $30\ ^\circ\text{C}$ and the coefficient of linear expansion of copper is $\alpha=0.0000165\ ^\circ\text{C}^{-1}$?
 
-Question No 3
-What is the change in the number of periods in $24$ hours, compared to
-This temperature change?
+Question 3
+What is the change in the number of periods over a span of $24$ hours, given this temperature change?
 
-The problem of thermal dilation for the stability of the pendulum period
-The same effect can be improved by a design that makes use of the same effect for
-compensate him. Let's take the physical pendulum in Figure 2 as an example.
-consisting of two rods of different material joined at their ends, with the axis of
-suspension passing through the joining of the two rods, perpendicular to this. By
-Simplicity we assume that the two rods have equal mass $M$, their lengths to $20\ ^\circ\text{C}$
-The values of the linear dilation coefficients are $l_1$ and $l_2$ and $\alpha_1$ and $\alpha_2$. The dimensions
-The cross-sections of both rods are small in relation to their lengths.
+The problem involving thermal expansion for the stability of the pendulum period can be improved by means of a design that makes use of this same effect to compensate for it. Let us consider as an example the physical pendulum in figure 2, which consists of two rods of different material joined at their ends, with the suspension axis passing through the junction of the two rods, perpendicular to it. For simplicity we assume that the two rods have equal mass $M$, their lengths a $20\ ^\circ\text{C}$ are $l_1$ and $l_2$ and $\alpha_1$ and $\alpha_2$ are their coefficients of linear expansion. The transverse dimensions of both rods are small compared with their lengths.
 
  $l_2$
 
-The Oscillation Axis
+ AXIS OF OSCILLATION
 
  $l_1$
 
-Figure 2
+ Figure 2
 
-Question No 4
-Show that the expression of the oscillation period of this pendulum for $l_1>l_2$
-is given by
+Question 4
+Show that the expression for the oscillation period of this pendulum for $l_1>l_2$ is given by
 
 $$T = 2\pi\sqrt{k\,\frac{(l_1^2 + l_2^2)}{g(l_1 - l_2)}}$$
 
 and find the numerical value of the constant $k$
-Aids: the moment of inertia of a body relative to a certain axis is the sum of the
-moment of inertia of each part of the body, relative to that part of the body
-axis.
+Hint: the moment of inertia of a body about a certain axis is the sum of the moments of inertia of each of the parts of the body about that same axis.
 
-Question No 5
-What is the temperature dependence of the period calculated in the
-punto anterior, en la aproximación lineal en $\Delta t=(t-20\ ^\circ\text{C})$?. For this I have in
-cuenta que $\alpha_1\Delta t\ll1$ y $\alpha_2\Delta t\ll1$ ($\ll$ significa mucho menor).
+Question 5
+What is the dependence on temperature of the period calculated in the previous point, in the linear approximation in $\Delta t=(t-20\ ^\circ\text{C})$? For this, take into account that $\alpha_1\Delta t\ll1$ and $\alpha_2\Delta t\ll1$ ($\ll$ means much less).
 
-Assistance: If $x\ll1$ then approximately that for any $r$ whole is verified
+Hint: If $x\ll1$ then it is approximately true that for any integer $r$
 
 $$(1 + x)^r \approx 1 + rx$$
 
-Question No 6
-Para el caso que $l_1=2l_2$, ¿cuál es la condición que se debe cumplir entre
-$\alpha_1$ and $\alpha_2$ so that the $T$ period does not depend on $\Delta t$ in the linear approximation?
-
-**Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Thermodynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1spQALWdjMBJ0-8d2eRMGBnQTgqU-AdRg/view)
-
+Question 6
+For the case where $l_1=2l_2$, what is the condition that must be satisfied between
+$\alpha_1$ and $\alpha_2$ so that the period $T$ does not depend on $\Delta t$ in the linear approximation?
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1999 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/beam,object/rope-string,object/pulley"></span>
@@ -460,69 +384,37 @@ tempo [s]
 
 <div class="qlang-split" data-lang="en"></div>
 
-A traditional English family has decided to recycle their 12th century castle by hiring a
-This is a famous architectural firm. The main disadvantage faced by the
-The main task of the project is to automate the drawbridge, which allows access to the
-Castle on a pit with crocodiles. Due to the deterioration it presents it is necessary
-The new system will be designed to replace the chains used to lift the vehicle and to incorporate an electric motor to
-lift or lower the drawbridge. The architects chose beautiful chains.
-The engine was fitted with a single cylinder, with a cylinder and a single cylinder.
-But on their first attempt they burned the engine and then the chains broke.
+A traditional English family has decided to recycle its 12th-century castle by hiring a famous architecture firm for that purpose. The main drawback faced by those in charge of the work is the automation of the drawbridge that allows access to the castle over a moat with crocodiles. Due to the deterioration it presents, it is necessary to replace the chains used to raise it and to install an electric motor to raise or lower the drawbridge. The architects chose some beautiful golden chains and added a motor whose casing color matched the chains; however, on their first attempt they burned out the motor and then the chains broke.
 
-To solve this problem the architectural practice decided to tackle the problem of a
-And he decides to outsource it to you for the purpose of making them
-all the calculations necessary to make the choice of chain and device
-more convenient engine. To that end they ask you a series of questions that you should
-Answer:
+To solve this problem, the architecture firm decides to approach the problem in a more scientific way and decides to subcontract you for the purpose of carrying out all the necessary calculations to choose the most suitable chain and motor device. To that end, they ask you a series of questions that you must answer:
 
-(a) The drawbridge is constructed of solid wood, its dimensions being $5\ \text{m}$
-length, $2\ \text{m}$ width and $20\ \text{cm}$ thickness (the wood density is $1.2\ \text{gr/cm}^3$).
-The bridge can rotate around an axis that rests on the base of the entrance to the
-The castle, and on either side of the other end are attached chains of paths that allow
-Raise it and place it in a vertical or horizontal position. Assuming the bridge must be
-Rise very slowly:
+a) The drawbridge is built of solid wood, with dimensions $5\ \text{m}$ long, $2\ \text{m}$ wide, and $20\ \text{cm}$ thick (the density of the wood is $1.2\ \text{gr/cm}^3$).
+The bridge can rotate around an axis that rests on the base of the castle entrance, and on each side of the other end, respective chains are attached that allow it to be raised and placed in a vertical or horizontal position. Assuming that the bridge must be raised very slowly:
 
-(a1) what force must the chains be able to withstand in accordance with
-the angle of inclination of the bridge?
+a1) What is the force that the chains must be able to withstand as a function of the angle of inclination of the bridge?
 
-a2) What is the maximum voltage that the chains will support?
+a2) What is the maximum tension that the chains will withstand?
 
-a3) Draw approximately the expression obtained in point a1).
+a3) Approximately graph the expression obtained in point a1).
 
-(b) The bridge lifting system consists of a cylinder (A) of $5\ \text{cm}$
-a radius in which the chains are rolled, and a pole (B) of $40\ \text{cm}$ of
-The radio. The transmission is carried out by means of this pulley and another in the engine (C) connected
-through an unextended and non-slippery strap on the pulleys (B) or (C)
+b) The bridge lifting system consists of a cylinder (A) of radius $5\ \text{cm}$, on which the chains are wound, and attached to it is a pulley (B) of radius $40\ \text{cm}$. The transmission is carried out by means of this pulley and another one on the motor (C) joined by a belt that is inextensible and does not slip on pulleys (B) or (C)
 
-If the maximum torque (or torque) that the engine can provide without burning is $60\ \text{N m}$
+If the maximum torque that the motor can provide without burning out is $60\ \text{N m}$
 
-What is the maximum radius that the pulley (C) can have attached to the engine of the
-So you don't get past the maximum coupling?
+what is the maximum radius that pulley (C) attached to the motor can have so that the maximum torque is not exceeded?
 
-(c) The whole system is fitted using an engine powered by a source of
-continuous current, with a potential difference of $220\ \text{V}$; it is observed that when elevated
-The bridge the current supplied to the engine, depending on the time, has the form
-The Commission has already adopted a number of proposals.
+c) The entire system is assembled using a motor powered by a direct current source, with a potential difference of $220\ \text{V}$; it is observed that when lifting the bridge, the current supplied to the motor, as a function of time, has the form observed in the figure.
 
-(c1) What is the maximum power supplied to the engine?
+c1) What is the maximum power supplied to the motor?
 
-(c2) What is the total electrical energy consumption for lifting the bridge from its
-horizontal position until it is vertical?
+c2) What is the total electrical energy consumption to lift the bridge from its horizontal position until it is vertical?
 
-(c3) how much energy is lost, of the energy supplied in accordance with the
-Previous point, every time the bridge goes up?
-NOTE: Consider the kinetic energy of the
-It 's all right .
+c3) How much is the energy lost, of the energy supplied according to the previous point, each time the bridge is lifted?
+NOTE: CONSIDER THE KINETIC ENERGY OF THE
+BRIDGE NEGLIGIBLE AT ALL TIMES
 
 Current [A]
 time [s]
-
-**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Circuits]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1spQALWdjMBJ0-8d2eRMGBnQTgqU-AdRg/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argent 1999 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/star,object/planet"></span>

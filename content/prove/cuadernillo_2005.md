@@ -424,59 +424,42 @@ Figura A
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following conditions shall apply:
+**PT4 DC Circuit with Kirchhoff's Rules**
 
-PT4. The second river, Cordoba. Blue, please. 
- 
-Simple DC circuits include elements such as batteries, resistors and
-The Commission has also adopted a number of proposals for the establishment of a European Community framework for the development of the information society. 
-The analysis of these circuits is simplified by using Kirchhoff's Rules, which 
-The energy conservation laws and the laws of charge. 
-Most of the circuits analyzed are assumed to be in stable condition, which means that 
-The currents are of constant magnitude and direction. 
-Simple circuits can be analyzed using Ohm's law and the rules for combinations.
-in series and parallel resistors. Very often, however, it is not possible to reduce a
-I'm a single loop. The procedure for analysing more complex circuits is much simplified 
-by using the rules mentioned above. 
- 
-In this problem you are asked to set up a circuit according to the conditions presented to you and
-resolve the proposed items. For the circuit in Figure A, the value of the
-current i1, i2 and i3. 
-Consider a four-resistance circuit. The resistors are R1, R2, R3 and R4 and are connected by 
-in such a way as: 
- 
-∗ 
-R1 and R2 are in series.
-∗ 
-R3 and R4 are in series.
- 
-The internal resistance is zero. 
- 
-a. Draw the corresponding circuit. 
-In parallel and an f.e.m. 6v in parallel with these. 
+PT4. Río Segundo, Córdoba. Azul.
+
+Simple direct current circuits include elements such as batteries, resistors and capacitors in various combinations.
+The analysis of these circuits is simplified by using Kirchhoff's Rules, which arise from the laws of conservation of energy and charge.
+Most of the circuits analyzed are assumed to be in steady state, which means that the currents are constant in magnitude and direction.
+Simple circuits can be analyzed using Ohm's law and the rules for series and parallel combinations of resistors. Very often, however, it is not possible to reduce a circuit to a single loop. The procedure for analyzing more complex circuits is greatly simplified by using the aforementioned rules.
+
+In this problem you are asked to assemble a circuit according to the conditions presented to you and solve the proposed items. For the circuit in figure A, you are asked to calculate the value of the currents i1, i2 and i3.
+Consider a circuit with four resistors. The resistors are R1, R2, R3 and R4 and are connected in such a way that:
+
+∗
+R1 and R2 are in series
+∗
+R3 and R4 are in series
+
+The internal resistance is zero.
+
+a. Draw the corresponding circuit.
+In parallel and an e.m.f. of 6v in parallel with these. 
 
  
  
-b. Draw an ampere on the circuit to measure i1, i2, i3 and i4. 
-c. Si la iT = 1A. What is the total resistance value of RT? 
-d. Si R1 = 20 Ω ∧ R2  = 28 Ω . What is the value of i1 and i2? 
-e. R3 = R4 What is the value of R3? ¿i3 e i4? 
-f. Calculate the value of V1, V2, V3, V4, V12, V34 and VT. 
-g. Draw a voltmeter to measure V1, V4, V12 and VT. 
- 
+b. Draw an ammeter in the circuit to measure i1, i2, i3 and i4.
+c. If iT = 1A. What is the value of the total resistance RT?
+d. If R1 = 20 Ω ∧ R2 = 28 Ω . What is the value of i1 and i2?
+e. R3 = R4 What is the value of R3? i3 and i4?
+f. Calculate the value of V1, V2, V3, V4, V12, V34 and VT.
+g. Draw a voltmeter to measure V1, V4, V12 and VT.
+
 Figure A
-
 
 <!--fig:start-->
 ![[cuadernillo_2005_p04_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2005 Locale — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball"></span>
@@ -594,220 +577,162 @@ x(cm)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT5 Caduta libera per fotografia (gravità) **
+**PT5 Caduta libera per fotografia (gravità)**
 
-PT5. Rio Segundo, Córdoba. Blu. 
- 
-Un ricercatore ha deciso di verificare le leggi che governano la caduta dei cadaveri. Per questo, ha lasciato
-cadere una borsa pesante e ha preso una foto di flash multiple a intervalli di
+PT5. Río Segundo, Córdoba. Azul.
+
+Un ricercatore decise di verificare le leggi che governano la caduta dei corpi. A tale scopo, lasciò cadere una borsa pesante e ne scattò una fotografia con flash multiplo a intervalli di
 30
-1 s. Ha ampliato la 
-Foto, in modo che la scala fosse 1:1, e ottenne un'immagine come quella che viene rappresentata nella figura 
-La Commissione ha adottato una decisione che riguarda la questione. 
-Con l'aiuto di una regola e di un calcolatore, solo, riuscì a determinare il valore della gravità, la
-variazione della posizione e della velocità nel tempo. 
- 
-1. Perché pensi che abbia preso una borsa pesante? 
-2. Misura la posizione della palla in ogni istante di tempo e completa la tabella 1. 
-3. Rappresenta i dati tabellati in un grafico cartesiano, dove si inserisce sull'asse orizzontale 
-tempo trascorso (t) e nello spazio trascorso (x) [ presa per t, unità di 
+1 s. Ingrandì la foto, in modo tale che la scala fosse 1:1, e ottenne un'immagine come quella rappresentata nella figura corrispondente a questo problema.
+Con l'aiuto di un righello e di una calcolatrice, soltanto, riuscì a determinare il valore della gravità, la variazione della posizione e della velocità nel tempo.
+
+1. Perché pensi che abbia preso una borsa pesante?
+2. Misura la posizione della pallina in ogni istante di tempo e completa la tabella 1.
+3. Rappresenta i dati tabulati in un grafico cartesiano, dove porrai sull'asse orizzontale il tempo trascorso (t) e su quello verticale lo spazio percorso (x) [ prendi per t, unità di
 30
-1 ]. 
-Che tipo di grafica si ottiene? 
-4. Potresti determinare, dal grafico precedente, come è la dipendenza della posizione?
-riguardo al tempo per un corpo che cade? 
- 
-Il ricercatore è riuscito anche a determinare la velocità del corpo facendo il seguente ragionamento: 
-La velocità del cellulare può essere stimata in qualsiasi posizione (ad esempio, la quinta), calcolando la velocità di movimento.
-velocità media dell'intervallo tra la posizione anteriore e quella posteriore (cioè tra la quarta 
-e la sesta posizione). Quindi dobbiamo:
+1 ].
+Che tipo di grafico si ottiene?
+4. Potresti determinare, a partire dal grafico precedente, come è la dipendenza della posizione rispetto al tempo per un corpo che cade?
+
+Il ricercatore riuscì anche a determinare la velocità del corpo facendo il seguente ragionamento:
+si può stimare la velocità del mobile in qualsiasi posizione (per esempio, la quinta), calcolando la velocità media dell'intervallo compreso tra la posizione precedente e quella successiva (ossia, tra la quarta e la sesta posizione). Così, abbiamo che:
  
                                   
-5
-m
+5 m
 V
-= 
+=
 4
 6
 4
-6
-t
-t
-x
-x
+6 t t x x
 −
 −
- = 
-s
-cm
+ = s cm
 30
 /
 2
 7,8
- = 130,5 s
-cm  
- 
-5. È ragionevole il modo in cui il ricercatore ha stimato la velocità in ogni posizione? Per
-- Cosa? 
-6. Seguendo la stessa procedura, completa la tabella 2. 
+ = 130,5 s cm
+
+5. È ragionevole il modo in cui il ricercatore ha stimato la velocità in ciascuna posizione? Perché?
+6. Proseguendo con lo stesso procedimento, completa la tabella 2.
 9 Ω
 9 Ω
 3 Ω
 4 V
 8 V
-16 
-i3 
-i1 
-i2 
+16 i3 i1 i2
 
- 
- 
-7. Rappresenta i dati tabellati in un grafico cartesiano, posizionando sull'asse orizzontale, il 
-tempo trascorso e, verticale, velocità. Che tipo di grafico si ottiene? 
-8. Potresti determinare, dal grafico precedente, come è la dipendenza della velocità con 
-riguardo al tempo per un corpo che cade? 
-9. Quanto vale l'accelerazione del corpo? Come si relaziona questo valore con l'equazione trovata?
-all'articolo 4? 
- 
- 
- 
-t(s) 
-t2(s2) 
-x(cm) 
-0 
-0 
-0 
-1/30 
- 
- 
-2/30 
- 
- 
-3/30 
- 
- 
-4/30 
- 
- 
-5/30 
- 
- 
+
+
+7. Rappresenta i dati tabulati in un grafico cartesiano, ponendo sull'asse orizzontale il tempo trascorso e su quello verticale la velocità. Che tipo di grafico si ottiene?
+8. Potresti determinare, a partire dal grafico precedente, come dipende la velocità dal tempo per un corpo che cade?
+9. Quanto vale l'accelerazione del corpo? Come si relazione questo valore con l'equazione trovata al punto 4?
+
+
+
+t(s)
+t2(s2)
+x(cm)
+0
+0
+0
+1/30
+
+
+2/30
+
+
+3/30
+
+
+4/30
+
+
+5/30
+
+
 6/30
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the weight of the product:
+**PT5 Free fall by photography (gravity)**
 
-PT5. The second river, Cordoba. Blue, please. 
- 
-A researcher decided to check the laws governing the fall of bodies. For that, he left.
-dropped a heavy bag and took a multiple flash photograph at intervals of 
+PT5. Río Segundo, Córdoba. Azul.
+
+A researcher decided to verify the laws governing the fall of bodies. To do this, he dropped a heavy bag and took a multiple-flash photograph of it at intervals of
 30
-1 s. He expanded the 
-photo, so the scale was 1:1, and you got an image like the one in the figure.
-The Commission has already taken a number of measures to address this problem. 
-With the help of a rule and a calculator alone, he was able to determine the value of gravity, the
-The time of the change in position and speed. 
- 
-1. Why do you think he took a heavy bag? 
-2. Measure the position of the ball at each moment of time and complete table 1. 
-3. It represents the tabulated data on a Cartesian graph, where you'll put the 
-time elapsed (t) and in vertical the space elapsed (x) [ take for t, units of 
+1 s. He enlarged the photo, in such a way that the scale was 1:1, and obtained an image like the one represented in the figure corresponding to this problem.
+With the help of a ruler and calculator only, he managed to determine the value of gravity, the variation of position and of velocity over time.
+
+1. Why do you think he took a heavy bag?
+2. Measure the position of the ball at each instant of time and complete table 1.
+3. Represent the tabulated data in a Cartesian graph, where you will put the elapsed time (t) on the horizontal axis and the distance traveled (x) on the vertical axis [take for t, units of
 30
-1 ]. 
-What kind of graphics do you get? 
-4. Could you determine, from the graph above, what the position dependence is?
-about time for a body to fall? 
- 
-The researcher also managed to determine the speed of the body by reasoning as follows: 
-The speed of the mobile can be estimated at any position (e.g. the fifth), by calculating the 
-average speed of the interval between the anterior and posterior position (i.e. between the fourth position 
-and sixth position). So, we have to: 
+1 ].
+What type of graph is obtained?
+4. Could you determine, from the previous graph, how the dependence of position on time is for a body that falls?
+
+The researcher also managed to determine the velocity of the body by making the following reasoning:
+the velocity of the moving object can be estimated at any position (for example, the fifth), by calculating the average velocity of the interval between the previous and subsequent position (that is, between the fourth and sixth position). Thus, we have that:
  
                                   
-5
-m
+5 m
 V
-= 
+=
 4
 6
 4
-6
-t
-t
-x
-x
+6 t t x x
 −
 −
- = 
-s
-cm
+ = s cm
 30
 /
 2
-7,8
- = 130,5 s
-cm  
- 
-5. Is the way the researcher estimated the speed in each position reasonable? For what?
-- What? - What? 
-6. Following the same procedure, complete Table 2. 
-9 Ω
-9 Ω
-3 Ω
+7.8
+ = 130.5 s cm
+
+5. Is the way the researcher estimated the velocity at each position reasonable? Why?
+6. Following the same procedure, complete table 2.
+9 Ω
+9 Ω
+3 Ω
 4 V
 8 V
-16 
-i3 
-i1 
-i2 
+16 i3 i1 i2
 
- 
- 
-7. It represents the data tabulated on a Cartesian graph, placing on the horizontal axis, the 
-time and, vertically, speed. What kind of graphics do you get? 
-8. Could you determine, from the graph above, what is the speed dependence with 
-about time for a falling body? 
-9. How much is the body acceleration worth? How does this value relate to the equation found?
-in item 4? 
- 
- 
- 
-t(s) 
-t2(s2) 
-x(cm) 
-0 
-0 
-0 
-1/30 
- 
- 
-2/30 
- 
- 
-3/30 
- 
- 
-4/30 
- 
- 
-5/30 
- 
- 
+
+
+7. Represent the tabulated data in a Cartesian graph, placing the elapsed time on the horizontal axis and the velocity on the vertical axis. What type of graph is obtained?
+8. Could you determine, from the previous graph, how the velocity depends on time for a falling body?
+9. What is the acceleration of the body? How is this value related to the equation found in item 4?
+
+
+
+t(s)
+t2(s2)
+x(cm)
+0
+0
+0
+1/30
+
+
+2/30
+
+
+3/30
+
+
+4/30
+
+
+5/30
+
+
 6/30
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Argent 2005 Locale — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/rope-string,object/pulley"></span>
@@ -1243,89 +1168,57 @@ Nota: se lei Non è stato possibile determinare il tipo di Ty, lavora a 150°C p
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT7 Heat dilation and conduction**
+**PT7 Thermal expansion and heat conduction**
 
-PT7. The Eagles, Tucumán. Blue and Green. 
- 
-In order to verify some properties of materials when subjected to heat sources, a
-The student fitted the following device: an aluminium (Al) cylindrical container (similar to a
-Proof) of an internal diameter of 2 cm and a height (also internal) of 10 cm, having a mass of 40 g. En 
-She placed 31cm3 of mercury (Hg), which she will put in after the first part of her research.
-two solid cylinders: one copper (Cu) and one aluminium, both of equal length (l=10cm) and 
-section similar to the cylinder area. How he checks, we're not sure!
-But by calculating we can predict some of your results, which we ask you to do. 
- 
-Taking only the cylindrical container with mercury inside, which initially have
-a temperature of 20oC, determine (see the necessary physical constants at the end of this sentence): 
- 
-a1) The internal height of the aluminium container when the temperature reaches 100oC. 
- 
-(a2) The volume of the aluminium container when the temperature reaches 100 °C. 
- 
-(b1) The mass of mercury. 
- 
-(b2) The heat required to supply the aluminium container, in the form of
-Combined with mercury, they reach a temperature of 350K, starting at the initial temperature. Suppose 
-All the heat supplied goes directly to Al and Hg. 
- 
-(c) The temperature at which mercury reaches the upper container level of 
-aluminum, not spilled. Suppose the Hg doesn 't form any kind of meniscus with the walls of the
-container. 
- 
-Once the temperature Ty is reached - which is somehow maintained - it proceeds to
-And then we put the solid cylinders, as shown in the figure, to study the heat conduction. En 
-This installation, at the top (level 3) always keeps the temperature at 20oC and there is no 
-heat loss on the sides of all cylinders. 
- 
-Heat conduction: If the end of a body approaches a heat source, its temperature
-It's slowly rising and it's going to drive towards the other end. The different materials have
-different velocities of heat propagation, which determines a physical constant called 
-thermal conductivity  k. French physicist Jean B. Fourier (1768-1830) was concerned with the study of the
- heat conduction and stated that: the amount of heat Q passing from the extreme of the greater 
-temperature to the lowest in a time span t, will be higher as the section is longer 
-A of the body and the greater the temperature difference ∆T between the ends of the body; and 
-decreases with thickness e (length between ends): 
- 
-Q = k . A . ( ∆T / e ) . t 
- 
- 
-It is usually called the rate of transfer of heat energy to the coefficient H = Q / t 
- 
- 
-Continuing with the results predictions, our research student is asked to
-determine: 
- 
- 
-(d) The speed of heat transfer H, only for the copper cylinder if 
-Their extremes are kept at a temperature of TY and 20°C. Suppose the diameter is 2cm,
-(remember its length is 10 cm). See note at the end.
- 
- 
-(e) Taking the set of the figure where at level 1 the temperature is maintained at Ty and the temperature at the
-Level 3 to 20oC, determine the temperature at the interface Cu  Al (level 2) once the state is reached 
-The balance. 
+PT7. Aguilares, Tucumán. Azul y Verde.
 
+In order to verify some properties of materials when subjected to heat sources, a student set up the following device: a cylindrical aluminum (Al) container (similar to a graduated cylinder) with an internal diameter of 2 cm and an internal height of 10 cm, which has a mass of 40 g. In it he placed 31 cm3 of mercury (Hg), to which, after the first part of his investigations, he will then add two solid cylinders: one of copper (Cu) and another of aluminum, both of the same length (l=10cm) and with a cross-section similar to the area of the cylinder. How he makes his checks is unknown to us!, but by means of calculations we can predict some of his results, which we ask you to carry out.
+
+Taking –only– the cylindrical container with the mercury inside it, which initially have a temperature of 20ºC, determine (see the necessary physical constants at the end of this statement):
+
+a1) The internal height of the aluminum container, when the temperature reaches 100ºC.
+
+a2) The volume of the aluminum container, when the temperature reaches 100ºC.
+
+b1) The mass of the mercury.
+
+b2) The heat that must be supplied so that the aluminum container, together with the mercury, reach a temperature of 350K, starting from the initial temperature. Assume that all the heat supplied goes directly to the Al and Hg.
+ 
+c) The temperature Ty at which the mercury reaches the upper level of the aluminum container, without spilling. Assume that the Hg does not form any type of meniscus with the walls of the container.
+
+Once the temperature Ty is reached - which somehow is maintained - the solid cylinders are placed, as shown in the figure, to study heat conduction. In this setup, at the upper part (level 3) the temperature is always maintained at 20ºC and there are no heat losses through the sides of all the cylinders.
+
+Heat conduction: If the end of a body is brought close to a heat source, its temperature gradually increases and is "conducted" toward the other end. Different materials have different speeds of propagating heat, which determines a physical constant called
+"thermal conductivity" k. The French physicist Jean B. Fourier (1768-1830) studied
+"heat conduction" and established that: the amount of heat Q that passes from the end with the higher temperature to the one with the lower temperature over a time interval t will be greater the larger the cross-section
+A of the body and the greater the temperature difference ∆T between the ends of the body; and it will decrease with the thickness e (length between both ends):
+
+Q = k . A . ( ∆T / e ) . t
+
+
+The rate of thermal energy transfer is usually called H = Q / t 
  
  
-Physical constants: 
-Linear dilation coefficient of aluminium: 2.4 . 10-5 ºC-1 
-Cubic dilation coefficient of mercury is 1.82 . 10-4 ºC-1 
-Density of mercury at 20oC: 13,6 g/cm3. 
-The specific heat of aluminium: 0,215 cal / g oC 
-Specific heat of mercury: 0,033 cal / g oC 
-The thermal conductivity of copper Kcu = 386 watt / m oC 
-The thermal conductivity of aluminium: consider KAl = 0,5 Kcu 
- 
-Note: If you The Commission has not been able to determine the type of work performed by Ty, working at 150oC to respond to items (d) and (e).
+Continuing with the prediction of results, our student researcher is asked to determine:
+
+
+d) The rate of heat energy transfer H, only for the copper cylinder if its ends are maintained at a temperature Ty and 20ºC. Assume that the diameter is 2 cm (remember that its length is 10 cm). See note at the end
+
+
+e) Taking the setup from the figure where at level 1 the temperature is maintained at Ty and at level 3 at 20ºC, determine the temperature at the Cu – Al interface (level 2) once the equilibrium state has been reached.
 
 
 
-**Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+Physical constants:
+Linear expansion coefficient of aluminum: 2.4 . 10-5 ºC-1
+Cubic expansion coefficient of mercury 1.82 . 10-4 ºC-1
+Density of mercury at 20ºC: 13.6 g/cm3.
+Specific heat of aluminum: 0.215 cal / g ºC
+Specific heat of mercury: 0.033 cal / g ºC
+Thermal conductivity of copper Kcu = 386 watt / m ºC
+Thermal conductivity of aluminum: consider KAl = 0.5 Kcu
 
+Note: If you could not determine Ty, work with 150ºC to answer items d) and e).
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Argent 2005 Locale — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane,object/projectile"></span>
@@ -1731,65 +1624,43 @@ Foso:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total installed capacity of the mine:
+**PT9 Forklift in a mine (work and power)**
 
-PT9. The Eagles, Tucumán. Blue and Green. 
- 
-In the old copper mine located in Capillitas, in northwestern Argentina, near the western border with 
-In Tucuman, a similar mechanism was used to raise the mineral consisting of
-Basically in a truck that goes up a vertical tunnel with a wagon that when it reaches the part 
-higher up, he continued his journey down a stretch of railroad track. There are some variables about this situation.
-So that you can. Answer me. 
- 
-The weight of the lift is estimated to be 100 kg and that of the mineral wagon is 200 kg; the height
-50m vertical tunnel and 30s climbing time. Under these circumstances , answer:
- 
-(a1) What is the work done on the ascent? 
- 
-(a2) What is the developed useful power? 
- 
-However, it is noted that the power supplied by the electric motor during the lift was of 
-The engine is known to have a power output of 50%, and under these circumstances it is required.
-Answer: 
- 
-(b) What is the value of the average friction force acting during the lift? 
- 
-c1) If the network voltage is 220 V: what is the value of the current with which the engine operates? 
- 
-c2) What is the engine power, expressed in HP? 
- 
-When the carriage leaves the lifting station point A in figure- (mass = 200kg), initially at rest, 
-It travels a horizontal stretch in a time of 10s, reaching the end of the same point B- with a
-speed of 6 m/s; if the coefficient of kinetic friction between wheels and rails is 0,15, please 
-The answer is: 
- 
-(d) What is the value of the average driving force of the car? 
- 
-When you get to point B, where a curve slope goes up, as the speed reached is not enough 
-To ascend to the highest part, you take off some of the load, so now you chariot and load.
-Cabinets
+PT9. Aguilares, Tucumán. Azul y Verde.
 
+In the old copper mine located in Capillitas, in northwestern Argentina, near the western border with
+Tucumán, a mechanism similar to the one in the figure was used to lift the ore, consisting basically of a forklift that rises through a vertical tunnel with a cart that, upon reaching the highest part, continued its journey along a track of rails. Regarding this situation, some variables are given for you to answer.
+
+The mass of the forklift –assumed– is 100 kg and that of the cart with the ore is 200 kg; the height of the vertical tunnel is 50 m and the time to ascend is 30 s. Under these circumstances, answer:
+
+a1) What is the work done in ascending?
+
+a2) What is the useful power developed?
+
+However, it is observed that the energy supplied by the electric motor, during the ascent, was
+0.1 kWh and the efficiency of said motor is known to be 50%; under these circumstances you are asked to answer:
+
+b) What is the value of the average friction force acting during the ascent?
+
+c1) If the mains voltage is 220 V: what is the value of the current with which the motor operates?
+
+c2) What is the power of the motor, expressed in HP? 
  
- 
-The weight of the lifting material is less than 50% of the weight of the lifting material.
-If you are asked to go down, you are asked to reply to the following questions:
- 
-(e) What is the height at which it reaches the curved section? 
- 
-Since the car does not reach the highest part, it recoils and must be brake in the AB section to avoid falling to the
-The following is the list of the countries of the European Union:
- 
-(f) What is the minimum amount of braking force to stop the braking mechanism?
-car?
+When the cart leaves the forklift –point A in the figure– (mass = 200kg), initially at rest, it travels a horizontal section in a time of 10s, reaching the end of it –point B– with a speed of 6m/s; if the coefficient of kinetic friction between wheels and rails is 0.15, you are asked to answer:
+
+d) What is the value of the average force that drives the cart?
+
+Upon reaching point B, where it goes up a curved slope, since the speed reached is not enough to ascend to the highest part, part of the load is detached, so that now cart and load cabinets
 
 
 
-**Topic:** [[Conservation of Energy]], [[Circuits]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+they are left with half the mass, and there being a 10% energy loss during the ascent and/or descent, you are asked –finally– to answer the following items:
 
+e) What is the height it reaches on the curved section?
+
+Since the cart does not reach the highest part, it goes back and must be braked on section AB so as not to fall into the pit:
+
+f) What must be the minimum magnitude of the force of the braking mechanism to stop the cart?
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Argent 2005 Locale — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile,object/ball"></span>
@@ -2835,31 +2706,23 @@ Dati: Coef. di dilatazione volumetrica γ mercurio =1,8.10-4 1/oC - Mercurio =0,
 
 <div class="qlang-split" data-lang="en"></div>
 
-Pyrex glass with mercury (dilation)
+**PT20 Pyrex vessel with mercury (expansion)**
 
-PT20. City of Buenos Aires. Blue, please. 
- 
-A Pyrex glass with a capacity of 1000cm3 to 20oC contains 990cm3 of mercury at that temperature. 
-(a) Calculate the mass of mercury in the glass. 
- 
-The glass is heated with mercury until it reaches a temperature of 50°C. Using the law of 
-The following shall be reported: γ. ∆T 
- 
-(b) Calculate the amount of heat required for this. 
-(c) Calculate the volume and mass of mercury present in the glass. 
-(d) Calculate the density of mercury at 50oC and 100oC. 
-(e) What temperature should the mercury be brought to to fill the glass completely? 
-Diminish the thermal capacity and dilation of the Pyrex glass. 
- 
-The Commission has not yet adopted a proposal for a regulation. The value of the product shall be the product of the product concerned.
-The following is the list of the products concerned:
+PT20. City of Buenos Aires. Azul.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+A Pyrex vessel with a capacity of 1000cm3 at 20ºC contains 990cm3 of mercury at that temperature.
+a) Calculate the mass of mercury in the vessel.
 
+The vessel with the mercury is heated until they reach a temperature of 50ºC. Using the volumetric expansion law: ∆V=V0. γ. ∆T
+
+b) Calculate the amount of heat necessary for this.
+c) Calculate the volume and mass of mercury now in the vessel.
+d) Calculate the density of mercury at 50ºC and at 100ºC.
+e) To what temperature must the mercury be brought so that it completely fills the vessel?
+Neglect the heat capacity and expansion of the Pyrex vessel.
+
+DATA: Volumetric expansion coefficient γ mercury =1.8.10-4 1/ºC -  Cmercury =0.033cal/g ºC –
+δ mercury =13.6g/cm3
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Argent 2005 Locale — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi,object/tank-container,object/sphere"></span>
@@ -3916,20 +3779,11 @@ La temperatura massima consentita durante la laurea? (α dell'acciaio = 11x10-61
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the parameters of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement.
+**PT31 Metric scale and steel expansion**
 
-PT31. San Fernando, Catamarca, is where we are. Blue, please. 
- 
-In a laboratory a metric scale needs to be graded in such a way that the millimeter intervals are
-be accurate to a precision of 5x10-5 mm at a certain temperature. If steel is used, what is the 
-Maximum temperature variation allowed during graduation? (α of steel = 11x10-61/oC)
+PT31. San Fernando, Catamarca. Azul.
 
-**Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+In a laboratory it is necessary to graduate a metric scale in such a way that the millimeter intervals are exact with a precision of 5x10-5 mm at a certain temperature. If steel is used, what is the maximum temperature variation allowed during graduation? (α of steel = 11x10-61/ºC)
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="Argent 2005 Locale — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
@@ -4276,22 +4130,13 @@ profondità apparente quando si guarda con incidenza normale?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk
+**PT36 Refraction in ice (critical angle)**
 
-PT36. That's great. Blue, please. 
- 
-A beam of light propagating through the air forms an angle of incidence of 45° with the surface of 
-a layer of ice. The lightning is refracted inside the ice at an angle of 30 degrees.
-(a) what is the limit angle for ice? 
-(b) Is a mud mottled 1.80 cm below the surface of the ice? What 's your name ?
-Apparent depth when viewed at normal incidence?
+PT36. Formosa. Blue.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+A light ray propagating through air forms an angle of incidence of 45º with the surface of a layer of ice. The ray is refracted inside the ice at an angle of 30º
+a) What is the critical angle for ice?
+b) A speck of mud is embedded 1.80 cm below the surface of the ice. What is its apparent depth when viewed at normal incidence?
 
 
 <span class="atom-split" id="q37" data-atom="q37" data-title="Argent 2005 Locale — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/point-charge"></span>
@@ -4484,26 +4329,13 @@ c) Qual è l'angolo di incidenza se il raggio si rifracta sulla superficie di se
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT38 Make up light in an aquarium with mirror**
+**PT38 Light beam in aquarium with mirror**
 
-PT38. That's great. Blue, please. 
- 
-A narrow beam of light enters the upper surface of the water in a rectangular aquarium.
-angle of 40°. The refracted beam continues to the bottom of the tank, impacting a flat mirror.
-horizontal, which reflects it back to the surface where it refracts another vesicle as it goes out into the air.
-(a) What angle does the incident ray entering the water form with the reflected ray leaving the water? 
-(b) If the water depth is 10 cm, what is the distance between the points on the surface of the water?
-The Commission will also be able to provide the necessary information on the situation of the Member States.
-Make the graph and solve it analytically (n of H2O = 1.33 and n of air = 1).- 
-(c) What would be the angle of incidence if the beam was refracted on the air separation surface?
-- What about water?
+PT38. Formosa. Blue.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+A narrow beam of light enters through the upper surface of the water in a rectangular aquarium.- At an angle of 40º.- The refracted beam continues to the bottom of the tank, striking a horizontal flat mirror, which reflects it back to the surface where it refracts again upon exiting into the air.- a).- What angle does the incident ray that enters the water form with the reflected ray that exits the water?
+b).- If the depth of the water is 10 cm.- what distance exists between the points on the water surface corresponding to the incidence and to the emergence?.-
+Draw the graph and solve it analytically ( n of H2O = 1.33 and n of air = 1).- c).- What would be the angle of incidence if the ray refracts at the air-water interface?.-
 
 
 <span class="atom-split" id="q39" data-atom="q39" data-title="Argent 2005 Locale — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -5048,39 +4880,29 @@ c) A che altezza della S.L. Il foro deve essere praticato per rendere il raggiun
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1095/2012:
+**PT45 Hole in a container (maximum range)**
 
-PT45. City of Buenos Aires. Green, please. 
- 
-In the container of the figure a hole was drilled and the liquid reached position R. 
- 
-(a) Calculate the range d based on L1 and L2. 
+PT45. City of Buenos Aires. Green.
+
+In the container shown in the figure, a hole was made and the liquid reaches position R.
+
+a) Calculate the range d as a function of L1 and L2.
 I
 J
 C
 O
 D
-C 
+C
 F
-I 
+I
 J
-O 
+O
 D
 
- 
- 
-(b) At what height from the free surface should another hole be drilled in such a way that the
-Does the liquid have the same range as the previous one? 
-(c) At what height of the S.L. Should the hole be drilled to maximize range?
 
 
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+b) At what height from the free surface must another hole be made so that the liquid has the same range as the previous one?
+c) At what height from the F.S. must the hole be made so that the range is maximum?
 
 
 <span class="atom-split" id="q46" data-atom="q46" data-title="Argent 2005 Locale — Quesito 46" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/block,object/mirror"></span>
@@ -5482,52 +5304,36 @@ dove l'avevo gettata:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages of the European Union:
+**PT48 Karting on a steep street**
 
-PT48. The housewives, Buenos Aires. Blue, please. 
- 
-Mariano was doing various tests and calculations with his motorized karting. One Sunday afternoon, knowing
-There's little traffic in the neighborhood, he went up with his cell phone to the highest point of a steep street and left.
-He dropped it with the engine off. Disdain the gnawing. 
- 
-(a) If Mariano that together with his karting weighed 90Kg. It took seven seconds. To get down the street, whose angle was 
-de 10º. 
- 
-1) What was the length of the slope? 
- 
-2) How fast did it arrive? 
- 
-3) From what height did he jump? 
- 
-(b) When he got on foot, he kept his speed constant for fifteen meters. At that instant it turns on the 
-The engine shall be pressed at a speed of 0,5 m/s2 for 5 seconds. There you see that by the tracks of the
-Down the street begins the big freight train every Sunday. Mariano takes one second. 
-I'm not going to stop. 
-1) How far from the train was he if there was a line between the tracks and the end of the slope?
-170 meters, taking 8 seconds to stop? 
-2) What was the total time Mariano was on the move? 
- 
-C) Curious and calculating, not to get bored as the train passed, he wanted to know which one it was.
-about the height of the big trees on the sidewalk. He got off his kart, picked up some.
-He was throwing them up until he got the gun .
+PT48. Caseros, Buenos Aires. Azul.
+
+Mariano was doing different tests and calculations with his motorized kart. One Sunday afternoon, knowing that there is little traffic in the neighborhood, he went up with his mobile to the highest point of a steep street and let himself fall with the engine off. Neglecting friction.
+
+a) If Mariano, who together with his kart weighed 90 kg, took 7 s to go down the street, whose angle was 10°.
+
+1) What was the length of the slope?
+
+2) What speed did he reach?
+
+3) From what height did he throw himself?
+
+b) When he reached the bottom, he maintained his constant speed for fifteen meters. At that instant he turns on the engine, giving it an acceleration of 0.5 m/s2 for 5 seconds. There he sees that along the tracks at the end of the street the great Sunday freight train begins to pass. Mariano takes 1 s
+to begin pressing the brake.
+1) At what distance was he left from the train if between the tracks and the end of the slope there was a distance of 170 m, taking 8 seconds to stop?
+2) What was the total time that Mariano was in motion?
+
+c) Curious and calculating, so as not to get bored while the train passed, he wanted to know approximately what the height of the large trees on the sidewalk was. He got off his kart, picked up some stones from the ground and, from 1 m above the floor, threw them upward until he managed to take the
 
  
  
-time of which he reached the end of the cups. If it took 3 seconds to pass the same point since
-Where I had thrown it:
- 
-1) What was the height of the trees? 
- 
-2) What speed and height was the stone at 2 seconds? of having left? 
- 
-3) How long did it take to touch the ground and how fast did it arrive?
+time than the one that reached the end of the cups. If it took 3 seconds to pass through the same point from where it had been thrown:
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+1) What was the height of the trees?
 
+2) What velocity and height did the stone have 2 seconds after it started?
+
+3) How long did it take to touch the ground and with what velocity did it arrive?
 
 
 <span class="atom-split" id="q49" data-atom="q49" data-title="Argent 2005 Locale — Quesito 49" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/resistor,object/calorimeter"></span>
@@ -7272,65 +7078,42 @@ K(corcho).0,04 W/m(grad)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT60 Hamster su ruota (termodinamica e frizione) **
+**PT60 Criceto nella ruota (termodinamica e attrito)**
 
-PT60. Salta. Salta. Blu. 
- 
-La fisica visita la gabbia del hamster
- 
-Un biologico che studia gli sforzi degli amster è interessato a sperimentare con i
-Usando le leggi della fisica come guida di osservazione. 
-Per questo si dispone di un amster di 50 grammi di massa, contenente 0,5 gr.
-La struttura di cui all'articolo 1 del regolamento (CEE) n.
-Una tipico ruota rotante di 15 cm di raggio per il bastardo a fare la sua pratica abituale. 
-È inoltre disponibile un equipaggiamento di sensori collegati a un PC, che indichino i cambiamenti di
-La temperatura nell'aria chiusa nella scatola e la velocità angolare della ruota, sappiamo anche che
-il hamster produce 0,0625 W di potenza calorica. 
-Dopo un'ora di silenzio, il Hamster sale sul ruota e arriva rapidamente a una
-velocità uniforme di 12 RPM. 
- 
-a-Prevedi la temperatura che raggiungerà l'aria della scatola dopo aver messo l'amster durante 
-- Un'ora. 
+PT60. Salta. Blu.
 
- 
- 
- 
-b-Qual è il cambiamento della pressione all'interno della scatola?
-Calcolare. 
- 
-C-Disegnare le forze che agiscono sul Hamster, quando cammina all'interno della ruota con 
-una velocità costante, che indica inoltre la natura di ciascuna di esse. 
- 
-d- Trovare l'espressione del coefficiente di rottura tra il hamster e la ruota, sapendo che la
-temperatura dell'aria varia a una costante proporzione con il tempo secondo ∆T/t =β.oC/seg Calcolare per β =4,4 
-esp(-4) oC/sec. 
- 
-e-A un certo punto i registri di temperatura non coincidono con ciò che emerge dal modello 
-Proposta di bilancio energetico per calcolare il coefficiente di attrito del punto precedente, poiché la
-La temperatura registrata è superiore a quella teoricamente ottenuta, può presentare un modello 
-La maggior parte delle informazioni disponibili su questo sito sono disponibili su un sito web.
-La frattura tra il hamster e la ruota, con le modifiche che lei ha fatto. - Che cosa crede necessario? 
- 
-f- I dati registrati dal PC ci informano che la temperatura dell'aria varia molto poco dopo le
-4000 secondi, stabilendoci a 21,50 oC. 
-Se la parte superiore della scatola è sostituita da due tavole superposte, una di tergopol e una di cork 
-3 e 4 cm di spessore rispettivamente, in modo che si verifichi uno scambio di calore con il mezzo 
-all'esterno. Qual è il valore di temperatura nel giunto tergopol-corcho? 
- 
-Dati
-Temperatura iniziale all'interno della scatola: 20 oC 
-Temperatura all'esterno: 22 oC 
-Cp(aria). 1020 J/Kg.Grad 
-K (tergopol):0,01 W/m.
-K(corrcio).0,04 W/m(grado)
+"La fisica visita la gabbia del criceto"
+
+Un biologo dedito a studiare gli sforzi dei criceti è interessato a sperimentare con essi usando le leggi della Fisica come guida di osservazione.
+Per questo dispone di un simpatico criceto di 50 grammi di massa situato in una scatola che contiene 0,5 m3 di aria, che in principio non scambia calore con il mezzo esterno; in detta scatola si trova la tipica rotellina girevole di 15 cm di raggio affinché l'animaletto faccia la sua ginnastica abituale.
+Si dispone inoltre di un equipo di sensori collegati a un PC, che indicheranno i cambiamenti di temperatura nell'aria racchiusa nella scatola e la velocità angolare della rotellina; sappiamo inoltre che il criceto produce 0.0625 W di potenza termica.
+Dopo un'ora di non fare nulla, il Criceto sale sulla rotellina e raggiunge rapidamente una velocità uniforme di 12 RPM.
+
+a-Prevedere la temperatura che raggiungerà l'aria della scatola dopo aver collocato il criceto durante un'ora.
 
 
 
-**Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+
+b-Quanto cambia la pressione all'interno della scatola? Indicare tutte le supposizioni che ha fatto per calcolarla.
+
+c-Disegnare le forze che agiscono sul Criceto, quando questo cammina all'interno della ruota con una velocità costante, indicando inoltre la natura di ciascuna di esse.
+ 
+d- Trovare l'espressione del coefficiente di attrito tra il criceto e la ruota, sapendo che la temperatura dell'aria varia a ragione costante con il tempo secondo ∆T/t =β.oC/seg Calcolarlo per β =4,4 exp(-4) oC/seg.
+
+e- In un dato momento i registri di temperatura non coincidono con quanto si deduce dal modello di bilancio energetico proposto per calcolare il coefficiente di attrito del punto precedente, poiché la temperatura registrata è al di sopra di quella ottenuta teoricamente, può presentare un modello più realistico e indicare tutto ciò che si deve tenere in conto e trovare un'espressione del coefficiente di attrito tra il criceto e la ruota, con le modifiche che Lei ritiene necessarie?
+
+f- I dati registrati dal PC ci informano che la temperatura dell'aria varia molto poco dopo i
+4000 secondi stabilizzandosi a 21.50 oC.
+Se la parte superiore della scatola è sostituita da due lastre sovrapposte una di polistirolo e sughero di
+3 e 4 cm di spessore rispettivamente, in modo che si produce uno scambio di calore con il mezzo esterno. Qual è il valore della temperatura nel giunto polistirolo-sughero?
+
+DATI
+Temperatura iniziale all'interno della scatola: 20 oC
+Temperatura all'esterno: 22 oC
+Cp(aria). 1020 J/Kg.Grad
+K (polistirolo):0,01 W/m.(grad)
+K(sughero).0,04 W/m(grad)
+
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -8665,70 +8448,50 @@ f) Calcolare ∆f per f0 = 8 Mhz e v = 4, 25 m/s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the tests:
+**PT66 Ultrasound scanner (ultrasound and Doppler effect)**
 
-PT66. City of Buenos Aires. Blue, please. 
- 
-How does an ultrasound work ? 
-The use of ultrasound waves that interact with different tissues of the human body, 
-It allows you to get images of them in real time and with high resolution, which contributes to 
-The Commission has already taken a number of measures to address the problem of the use of the drug. 
-The method is based on the transmission of ultrasonic pulses that when propagated through tissues 
-The main reason for this is that the results of the analysis are not as clear as the results of the analysis.
-The transducer. These reflections contain the information that allows the reconstruction of the images. 
-Most ultrasound instruments have a maximum average exploration depth of 20 cm. 
-Knowing that the speed of sound in tissues is about 1540 m/s. 
- 
-(a) Calculate the time taken from the emission of the ultrasonic beam to the reception of the
-reflections coming from the deepest interfaces. 
-The ultrasound beam must travel within the body tissues at different speeds of
-The Commission will take the necessary measures to ensure that the information is available to the public. 
-Suppose that the beam is affecting a structure like that of Figure 1. Where the speed at first 
-The average is 1500 m/s, the speed in the second medium is 1000 m/s, d1=d2=10 cm and α=30o. 
- 
- 
-Figure 1: The beam's path
- 
-(b) Draw a diagram with the trajectory of the beam and its reflections. 
- 
-(c) Calculate the time of arrival of reflections 
-Ultrasound waves are also used to measure the blood flow rate in the
-arteries. For this purpose the frequency of the reflected waves is used according to the
-The speed of the reflecting surface (doppler effect). 
- 
- 
-Figure 2: Cell speed measurement Where T is the transducer, R the red cell, d the 
-distance between them , v cell speed and c ultrasound propagation speed 
- 
-(d) Calculate the time taken from the emission of the ultrasonic beam to the reception of the echoes.
-from cells in motion at times t = 0 and t = T (where T is 1/f0 frequency of 
-the ultrasound). 
- 
-(e) Demonstrate that the frequency current captured by the receiver is: 
- 
+PT66. City of Buenos Aires. Blue.
 
+How does an ultrasound scanner work?
+The use of ultrasound waves that interact with the different tissues of the human body makes it possible to obtain images of them in real time and with high resolution, which contributes greatly to medical diagnosis.
+The method is based on the transmission of ultrasound pulses that, as they propagate through soft tissues, generate reflections that are picked up by the same element that performs the transmission, the transducer. These reflections contain the information that allows the reconstruction of the images.
+Most ultrasound scanners have an average maximum exploration depth of 20 cm.
+Knowing that the speed of sound in tissues is approximately 1540 m/s.
+
+a) Calculate the time elapsed from the emission of the ultrasound beam to the reception of the reflections coming from the deepest interfaces.
+The ultrasound beam must travel within the body through tissues with different propagation speeds.
+Assuming that the beam strikes a structure like the one in figure 1. Where the speed in the first medium is 1500 m/s, the speed in the second medium is 1000 m/s, d1=d2=10 cm and α=30o.
+
+
+Figure 1: Path of the beam
+
+b) Make a diagram with the path of the ray and its reflections. 
  
- 
-c
-v
-f
-f
+c) Calculate the arrival time of the reflections
+Ultrasound waves are also used to measure the flow velocity of blood in the arteries. For this, the frequency shift of the waves reflected as a function of the velocity of the reflecting surface is used (Doppler effect).
+
+
+Figure 2: Measurement of the velocity of the cells. Where T is the transducer, R the red cell, d the distance between them, v the velocity of the cell and c the propagation velocity of the ultrasound
+
+d) Calculate the time elapsed from the emission of the ultrasonic beam until the reception of the echoes coming from the moving cells at times t = 0 and t = T (where T is 1/f0, frequency of the ultrasound beam).
+
+e) Show that the frequency shift picked up by the receiver is:
+
+
+
+
+c v f f
 0
 2
 =
 ∆
- 
- 
-Where ?
-∆f: Frequency flow 
-f0: frequency of ultrasonic beam 
-v: cell speed 
-c: speed of propagation of ultrasound 
- 
-Note: You may need the following approximation for x << 1: 
-x
-x
-x
+
+
+Where
+∆f: Frequency shift f0: frequency of the ultrasound beam v: velocity of the cell c: propagation velocity of the ultrasound
+
+Note: You may need the following approximation for x << 1:
+x x x
 2
 1
 1
@@ -8737,22 +8500,14 @@ x
 ≈
 −
 +
- 
- 
-(f) Calculate ∆f for f0 = 8 Mhz and v = 4, 25 m/s
 
+
+f) Calculate ∆f for f0 = 8 MHz and v = 4.25 m/s
 
 <!--fig:start-->
 ![[cuadernillo_2005_p38_f1.png]]
 ![[cuadernillo_2005_p38_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Biology]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q67" data-atom="q67" data-title="Argent 2005 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/projectile"></span>
@@ -10320,29 +10075,18 @@ che la massa di entrambe le auto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a regulation on the use of the 'Property of the European Union' in the field of energy efficiency.
+**PT75 Fuel consumption and reference frames**
 
-PT75. City of Buenos Aires. Green, please. 
- 
-Consumption of Nafta 
- 
-Two cars are travelling at v speed along a route. At some point one of the two accelerates to one.
-speed of 2v. In a reference system initially fixed to Earth the change in energy 
-The kinetic energy of the car is ∆Ec=1/2m (2v)2-1/2m v2=3/2m v2, however from a system initially 
-If the kinetic energy of the car is changed by fixing both cars, the result is ∆Ec=1/2m v2- 0 =1/2m v2. 
-Clearly, the consumption of naphtha cannot depend on the reference system used. How can you?
+PT75. City of Buenos Aires. Green.
 
- 
- 
-explain this difference? Consider the trajectories of the Earth 's rectangle and that the mass of the Earth is much greater .
-than the mass of both cars.
+Fuel Consumption
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+Two cars travel at speed v along a road. At a given moment one of the two accelerates to a speed of 2v. In a reference frame initially fixed to the Earth, the change in the car's kinetic energy is ∆Ec=1/2m (2v)2-1/2m v2=3/2m v2, however from a frame initially fixed to both cars the change in the car's kinetic energy turns out to be ∆Ec=1/2m v2- 0 =1/2m v2.
+Clearly the fuel consumption cannot depend on the reference frame used. How can
 
+
+
+this difference be explained? Consider straight-line trajectories and that the mass of the Earth is much greater than the mass of both cars.
 
 
 <span class="atom-split" id="q76" data-atom="q76" data-title="Argent 2005 Locale — Quesito 76" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/3,multidisciplina/mono,object/block,object/projectile"></span>
@@ -10623,126 +10367,94 @@ G: 6.67x10-11 Nm2kg-2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PT79 Esoplaneti (velocità radial, centro di massa) **
+**PT79 Esopianeti (velocità radiale, centro di massa)**
 
-PT79. Olivos, Buenos Aires. Blu. 
- 
-La ricerca di esopianeti (piano extra solare) è collegata a una delle domande motrici 
-della scienza. Siamo soli nell'universo? 
-Uno dei metodi attualmente utilizzati per rilevare gli esopianeti è il cosiddetto metodo di
-Velocità radiale (velocità lineare). 
-Fondamentalmente, la rotazione di un pianeta attorno a una stella è in realtà una rotazione congiunta.
-Il sistema pianetico-stellare attorno al centro di massa comune. 
-Questo movimento della stella è chiamato wobble (stellare wobble) e determina la
-velocità della stella in quel tremolo (con tecniche relative all'emissione di luce della stella) 
-E' ciò che permette di identificare la presenza del pianeta extra solare, che non può essere visto direttamente.
-con la tecnologia attuale. 
- 
+PT79. Olivos, Buenos Aires. Azul.
 
+La ricerca di esopianeti (pianeti extrasolari) è legata a una delle domande motrici della scienza. Siamo soli nell'Universo?
+Uno dei metodi attualmente utilizzati per rilevare esopianeti è il cosiddetto metodo della
+Velocità Radiale (velocità lineare).
+In sostanza, la rotazione di un pianeta attorno a una stella è in realtà una rotazione congiunta del sistema pianeta-stella attorno al centro di massa comune.
+Questo movimento della stella è chiamato oscillazione (stellar wobble, in inglese) e determinare la velocità della stella in tale oscillazione (con tecniche legate all'emissione di luce della stella)
+è ciò che permette di identificare la presenza del pianeta extrasolare, che non può essere visto direttamente con la tecnologia attuale.
+
+
+
+
+Supponga che la massa della stella sia M, la massa del pianeta sia α M, (α ≪ 1), e che la distanza dal centro della stella al centro del pianeta sia R.
+Vedere il diagramma.
+
+
+
+
+
+         M                           R                            α M
+
+a) Trovi un'equazione per esprimere il modulo della velocità della stella attorno al centro di massa del sistema pianeta-stella in funzione di α, M, G e R. Esprima il risultato riducendo l'espressione alla potenza minima di α,.
  
- 
-Supponiamo che la massa della stella sia M, la massa del pianeta sia α M, (α ≪ 1), e 
-che la distanza dal centro della stella al centro del pianeta è R. 
-Vedi il diagramma. 
- 
- 
- 
- 
- 
-         M                           R                            α M 
- 
-a) Trova un'equazione per esprimere la grandezza della velocità della stella attorno al centro 
-di massa del sistema pianeta-stellare in funzione di α, M, G e R. Esprimere il risultato riducendo il 
-espressione alla potenza minima di α,. 
- 
-b) Determina la posizione del centro di massa del sistema Sole-Terra utilizzando i dati che risultano 
-La Commissione ha adottato una decisione che non è stata adottata. 
- 
-c) La sensibilità delle tecniche attuali permette di determinare velocità lineari in stelle 
-dell'ordine di 3ms-1. Qual è la distanza massima che un pianeta può raggiungere dalla massa terrestre?
-essere di una stella di massa solare e ancora essere rilevato? 
- 
-Datos 
-La forza di attrazione gravitazionale tra due masse è F:
+b) Determina la posizione del centro di massa del sistema Sole-Terra utilizzando i dati che risultano necessari tra quelli offerti in calce a questo problema.
+
+c) La sensibilità delle tecniche attuali permette di determinare velocità lineari in stelle dell'ordine di 3 ms-1. Qual è la massima distanza alla quale un pianeta della massa della Terra può trovarsi da una stella della massa del Sole ed essere comunque rilevato?
+
+Dati
+La forza di attrazione gravitazionale tra due masse è F :
 2
 2
 1
 R
 M
 GM
- 
-Massa del sole: 2,0x1030 kg 
-α per la Terra: 3.0x10-6 
-Distanza Terra Sole: 1,5x1011 m 
+
+Massa del Sole: 2.0x1030 kg
+α per la Terra: 3.0x10-6
+Distanza Terra Sole : 1.5x1011 m
 G: 6.67x10-11 Nm2kg-2
 
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of exoplanets in the solar system:
+**PT79 Exoplanets (radial velocity, center of mass)**
 
-PT79. Olive trees, from Buenos Aires. Blue, please. 
- 
-The search for exoplanets (exoplanets) is connected to one of the driving questions.
-of science. Are we alone in the universe? 
-One of the methods currently used to detect exoplanets is the so-called '
-Radial velocity (linear velocity) 
-Basically, the rotation of a planet around a star is actually a joint rotation.
-The planet-star system around the common mass center. 
-This motion of the star is called a stellar wobble and determines the
-speed of the star in that wobble (with techniques related to the emission of light from the star) 
-It's what allows us to identify the presence of the extrasolar planet, which can't be seen directly.
-with the current technology. 
- 
+PT79. Olivos, Buenos Aires. Azul.
 
+The search for exoplanets (extrasolar planets) is connected with one of the driving questions of science. Are we alone in the Universe?
+One of the methods currently used to detect exoplanets is the so-called
+Radial Velocity (linear velocity) method.
+Basically, the rotation of a planet around a star is actually a joint rotation of the planet-star system around the common center of mass.
+This motion of the star is called wobble (stellar wobble, in English) and determining the velocity of the star in that wobble (with techniques related to the emission of light from the star)
+is what allows identifying the presence of the extrasolar planet, which cannot be seen directly with current technology.
+
+
+
+
+Assume that the mass of the star is M, the mass of the planet is  α M, (α ≪ 1), and that the distance from the center of the star to the center of the planet is R.
+See diagram.
+
+
+
+
+
+         M                           R                            α M
+
+a) Find an equation to express the magnitude of the velocity of the star around the center of mass of the planet-star system as a function of α, M, G and R. Express the result by reducing the expression to the lowest power of α,.
  
- 
-Suppose the mass of the star is M, the mass of the planet is α M, (α ≪ 1), and 
-That the distance from the center of the star to the center of the planet is R. 
-See the diagram. 
- 
- 
- 
- 
- 
-         M                           R                            α M 
- 
-(a) Find an equation to express the magnitude of the star's velocity around the center 
-of masses of the planet-star system based on α, M, G and R. Express the result by reducing the 
-expression at the minimum power of α,. 
- 
-(b) Determine the position of the center of mass of the Sun-Earth system using the resulting data 
-The Commission has already taken a number of measures to address the problem. 
- 
-(c) The sensitivity of current techniques allows determining up to linear velocities in stars 
-of the order of 3ms-1. What is the maximum distance a planet from Earth's mass can travel?
-Being a star of the mass of the Sun and still being detected? 
- 
-Data from the report 
-The gravitational pull between two masses is F:
+b) Determine the position of the center of mass of the Sun-Earth system using the data from those offered at the foot of this problem that are necessary.
+
+c)  The sensitivity of current techniques makes it possible to determine linear velocities in stars of the order of 3 ms-1. What is the maximum distance at which a planet with the mass of the Earth can be from a star with the mass of the Sun and still be detected?
+
+Data
+The gravitational force of attraction between two masses is F :
 2
 2
 1
 R
 M
 GM
- 
-The mass of the sun: 2.0 x 1030 kg 
-α for Earth: 3.0x10-6 
-Distance from Earth to Sun: 1.5 x 1011 m
+
+Mass of the Sun: 2.0x1030 kg
+α for the Earth: 3.0x10-6
+Earth-Sun distance : 1.5x1011 m
 G: 6.67x10-11 Nm2kg-2
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q80" data-atom="q80" data-title="Argent 2005 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono,object/projectile"></span>
@@ -10834,45 +10546,26 @@ d) Calcolare l'aumento della temperatura della pallottola durante il percorso fi
 
 <div class="qlang-split" data-lang="en"></div>
 
-Forensic: bullet with air resistance
+**PT80 Forensics: bullet with air resistance**
 
-PT80. Olive trees, from Buenos Aires. Blue, please. 
- 
-A forensics team is investigating a possible murder and needs to carry out some of the work.
-The Commission has already taken a number of decisions. 
-From the knowledge of the characteristics of the bullet found, it is known that the initial velocity at being
-The firing range is 360 ms-1. 
- 
-(a) Assuming the victim was 20 meters away, and the killer fired horizontally.
-pointing at the heart, determining what vertical distance from the heart the impact will occur. 
- 
-(b) A new, more elaborate model attempts to recalculate the value of a) taking into account resistance 
-The effects of the air in the horizontal direction are estimated at these high speeds.
-It's important. 
-It is known from experience that when the bullet is dropped from a considerable height it reaches
-a terminal speed of 90 ms-1. The bullet's mass is 20 grams, so it's easy to determine.
-the air resistance in that case. Assuming that air resistance is proportional to the square of 
-the speed, determine the initial resistance of the air to the bullet's movement when fired, and use 
-This value is used to calculate the new vertical distance the bullet will fall from the shot in case a). Explain .
-carefully all the assumptions you need to make. 
- 
-(c) It is estimated that approximately 60% of the energy released in the explosion of the gunpowder is
-It transforms into kinetic energy from the bullet. The remaining 40% is transferred to the bullet as heat. Estimate the
-Increase in bullet temperature at gun output. 
- 
+PT80. Olivos, Buenos Aires. Blue.
 
- 
- 
-specific heat of the bullet: 280 J kg-1 oC-1 
- 
-(d) Estimate the bullet's temperature increase during the course until it hits the target.
+A forensic team is investigating a possible murder and needs to make some determinations.
+From knowledge of the characteristics of the bullet found, it is known that the initial velocity when fired is 360 ms-1.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+a) Assuming that the victim was 20 meters away, and that the murderer fires horizontally aiming at the heart, determine at what vertical distance from it the impact will occur.
 
+b) A new, more elaborate model attempts to recalculate the value in a), taking into account air resistance in the horizontal direction, since at such high velocities it is estimable that the effects are important.
+It is known from experimentation that when the bullet is dropped from a considerable height it reaches a terminal velocity of 90 ms-1. The mass of the bullet is 20 grams, with which it is easy to determine the air resistance in that case. Assuming that air resistance is proportional to the square of the velocity, determine the initial air resistance to the bullet's motion when fired, and use that value to calculate the new vertical distance the bullet will fall in the shot of case a). Carefully explain all the assumptions you need to make.
+ 
+c) It is estimated that approximately 60% of the energy released in the gunpowder explosion is transformed into kinetic energy of the bullet. The remaining 40% is transferred to the bullet as heat. Estimate the increase in temperature of the bullet at the exit of the weapon.
+
+
+
+
+ specific heat of the bullet: 280 J kg-1 ºC-1
+
+d) Estimate the increase in temperature of the bullet during its travel until it hits the target.
 
 
 <span class="atom-split" id="q81" data-atom="q81" data-title="Argent 2005 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/battery,object/resistor,object/galvanometer"></span>
@@ -11190,22 +10883,12 @@ conoscere come dato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total amount of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of net profit of profit of profit of profit of net profit of net profit of net profit of net profit of net profit of profit of profit of net profit of profit of profit of net profit of net profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of profit of of profit of of
+**PT83 Ice with lead floating (melting)**
 
-PT83. Felipe Sola, from Buenos Aires. Blue, please. 
- 
-In a cylindrical container and an area equal to S, we pour water into which a piece of ice floats.
-With a lead ball inside. The volume of the piece of ice together with the ball is equal to V; 
-above the water level is 1/20 of that volume. What height does the water level in the 
-container, once the ice has melted? The densities of water, ice and lead are given by
-Knowing as data.
+PT83. Felipe Sola, Buenos Aires. Blue.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+In a cylindrical container with an area equal to S, we pour water in which a piece of ice with a small lead ball inside floats. The volume of the piece of ice together with the small ball is equal to V;
+1/20 of said volume protrudes above the water level. What height does the water level in the container descend, once the ice has melted? The densities of water, ice and lead are given as data.
 
 
 <span class="atom-split" id="q84" data-atom="q84" data-title="Argent 2005 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/mono,object/pipe-tube"></span>
@@ -11390,23 +11073,13 @@ Il risultato è stato ottenuto in tutti e tre i sistemi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages:
+**PT86 Horse drags cart (work)**
 
-PT86. I'm from Navarro, Buenos Aires. Blue, please. 
- 
-A horse drags a 1,000-pound cart down a horizontal road, 50 meters long. He 's wearing it .
-from rest to a speed of 6m/s. The force that makes the horse, which is 500 N, forms 
-a 15° angle with the forward direction of the wagon. 
-a- What variation of kinetic energy does the cart experience? 
-b- How much is the work done by the horse's force on the wagon? Express the 
-The results of the three systems.
+PT86. Navarro, Buenos Aires. Azul.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+A horse drags a 1,000 kg cart along a horizontal road for 50 m. It takes it from rest to a speed of 6 m/s. The force exerted by the horse, which is 500 N, forms an angle of 15º with the direction of advance of the cart.
+a- What change in kinetic energy does the cart undergo?
+b- What is the work done by the force exerted by the horse on the cart? Express the result in the three systems.
 
 
 <span class="atom-split" id="q87" data-atom="q87" data-title="Argent 2005 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono,object/resistor,object/battery"></span>
@@ -12086,23 +11759,11 @@ Se trovi che il coefficiente di dilatazione dell'acciaio è di 1,2 x 10-7 1/oC, 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following conditions are met:
+**PT95 Railway tracks (thermal expansion)**
 
-PT95. It's St. Louis. Blue, please. 
- 
-Because of your scientific training you 've been hired to help plan the construction of a stretch .
-The Commission has not yet adopted a proposal. A 560 km branch with 25 m length steel rails is desired.
-One at 20 degrees. To prevent the tracks from bending, complicating the transit of trains, you are asked to
-determine how many should be placed per kilometre. Given that the temperature of the
-The temperature varies from 9oC to 37oC in summer and from 10oC to 12oC in winter and consult your notes 
-You find that the coefficient of dilation of the steel is 1.2 x 10-7 1/oC, get ready to do your job.
+PT95. San Luis. Azul.
 
-**Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+Due to your scientific training, you have been hired to help plan the construction of a section of railway tracks. It is desired to cover a branch of 560 km with steel rails, each 25 m long at 20ºC. To prevent the tracks from bending, complicating train traffic, you are asked to determine how many should be placed per kilometer. Taking into account that the temperature in the area varies in summer from 9ºC to 37ºC and from –10 ºC to 12 ºC in winter, and consulting your notes you find that the coefficient of expansion of steel is 1.2 x 10-7 1/ºC, you set out to carry out your task.
 
 
 <span class="atom-split" id="q96" data-atom="q96" data-title="Argent 2005 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -12154,25 +11815,16 @@ e. A che velocità dovrebbe viaggiare Pedro per raggiungere Juan a 80 km?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject of the European Parliament's proposal for a directive on the protection of workers' rights.
+**PT96 Juan and Pedro (kinematic encounter)**
 
-PT96. May 2nd, missions. Blue, please. 
- 
-John and Peter are in Peter's house. Juan goes out to his house, which is 240 km away, to 
-a speed we'll consider constant at 40 km/h. An hour later Peter sees that John forgot .
-He took the keys to his house and set off to try to reach him, at a constant speed of 60 Km/h. 
-a. Can Peter reach John before he gets to his house? 
-b. How far from Peter's house will they be? 
-c. He makes a graph that represents the motion of both. 
-d. How long before Peter reaches John? 
-e. How fast should Peter travel to reach John at 80 km?
+PT96. Dos de Mayo, Misiones. Blue.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+Juan and Pedro are at Pedro's house. Juan leaves for his house, which is 240 km away, at a speed that we will consider constant at 40 km/h. 1 hour later Pedro sees that Juan forgot the keys to his house and set off to try to catch up with him, at a constant speed of 60 km/h.
+a. Can Pedro catch up with Juan before he reaches his house?
+b. At what distance from Pedro's house will they meet?
+c. Make a graph that represents the motion of both.
+d. In how much time does Pedro catch up with Juan?
+e. At what speed should Pedro travel to catch up with Juan at 80 km?
 
 
 <span class="atom-split" id="q97" data-atom="q97" data-title="Argent 2005 Locale — Quesito 97" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono,object/projectile"></span>
@@ -12222,24 +11874,14 @@ d. Quanto energia cinetica ha quando arriva al suolo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) 2015/2449.
+**PT97 Airplane releases package (potential energy)**
 
-PT97. May 2nd, missions. Blue, please. 
- 
-An airplane is found flying at an altitude of 2,500 meters above the ground when it releases a package.
-de 500 Kg. Assuming there is no air friction, and that the acceleration of gravity of the
-Place has a value of 9.8m/s2 
-a. What is the potential energy of the package at the time of release? 
-b. How long does it take the package to get to the ground? 
-c. How fast does it get to the ground? 
-d. How much kinetic energy does it have when it reaches the ground?
+PT97. Dos de Mayo, Misiones. Azul.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+An airplane is flying at an altitude of 2500 meters above the ground, when it releases a 500 kg package. Assuming there is no air friction, and that the acceleration due to gravity at the location has a value of 9.8 m/s2 a. What is the value of the potential energy of the package at the moment it is released?
+b. How much time does the package take to reach the ground?
+c. With what speed does it reach the ground?
+d. How much kinetic energy does it have at the moment it reaches the ground?
 
 
 <span class="atom-split" id="q98" data-atom="q98" data-title="Argent 2005 Locale — Quesito 98" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -13302,53 +12944,29 @@ Schema A
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of water-based spraying equipment used:
+**PT105 Cork in water (forces, ascent, height)**
 
-PT105. City of Buenos Aires. Green, please. 
- 
-Let's see who gets married!!!! 
- 
-In a glass container 10 centimeters high and 7 centimeters in diameter, containing water 
-As shown in Schedule A, it is supported by a cotton thread, a cork (cylinder) of 2 
-centimeters in diameter and 3 centimeters high. The module of the pressure differential between the point a 
-and point b is 0.03 Pascal, and the pressure supported at point a (over the upper surface of the 
-Cork) is 101,594 Easter. 
-I) 
-Skimming the forces acting on the cork, if the thread was cut, and we didn't know.
-What liquid and what material are they, analyze what would happen in case of higher density liquid 
-than the solid, and vice versa. 
-II) 
-If the thread is cut, calculate: 
-a. Final speed, before you get out of the water. Analyze and 
-Schematically, the forces acting on the cork in the cork are
-The moment he comes out of the water.
-b. Time it takes to rise to the surface
-without leaving the liquid. Indicate force diagrams that 
-The Commission will also be able to take action and clarify, in the event of failure to use any of the following:
-These forces for calculating time clarify the 
-The Commission has not yet adopted a decision on the basis of the present case. 
-c. Considering the cork just came out
-completely out of water, maximum height reached.
-by the same. Explain what initial speed value 
-Take it for the promotion, and justify it. 
- 
+PT105. City of Buenos Aires. Green.
+
+Let's see who gets married!!!!
+
+In a glass container 10 centimeters high and 7 centimeters in diameter, which contains water as shown in diagram A, a cork (cylindrical) 2 centimeters in diameter and 3 centimeters high is held by a cotton thread. The magnitude of the pressure differential between point a and point b is 0.03 Pascals, and the pressure at point a (on the upper surface of the cork) is 101.594 Pascals.
+I)
+Draw a diagram of the forces acting on the cork, if the thread were cut, and we did not know what liquid and what material they are, analyze what would happen in the case of a liquid of greater density than the solid, and vice versa.
+II)
+If the thread is cut, calculate:
+a. Final velocity, before leaving the water. Analyze and draw a diagram of the forces acting on the cork at the moment it leaves the water b. Time it takes to ascend to the surface without leaving the liquid.  Indicate force diagrams that act, and clarify, in case you do not use any of those forces for the calculation of the time, clarify the criterion for discarding said force.
+c. Considering that the cork has just completely left the water, maximum height reached by it. Explain what initial velocity value it takes for the ascent, and justify.
+
     Mp
 Ms
-Mp 
-Ms 
-Scheme A
-
+Mp
+Ms
+Diagram A
 
 <!--fig:start-->
 ![[cuadernillo_2005_p54_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q106" data-atom="q106" data-title="Argent 2005 Locale — Quesito 106" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/sphere,object/calorimeter"></span>
@@ -13578,20 +13196,11 @@ persona e dove è posta la carica?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PT108 Two people carrying a load on a bar (leash) **
+**PT108 Two people carry a load on a bar (lever)**
 
-PT108. Eduardo Castex, the Pampa. Blue, please. 
- 
-Two people carry a 120 kg load. suspended from a horizontal bar of 2,7 m. The Commission has already adopted a number of proposals.
-They hold on to the extremes. The front one holds a part equal to 40 kg. What effort does the other make ?
-person and where is the load placed?
+PT108. Eduardo Castex, La Pampa. Azul.
 
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]], [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+Two people carry a 120 kg load hanging from a horizontal bar 2.7 m long, which they hold by the ends. The person in front supports a part equal to 40 kg. What effort does the other person make and where is the load placed?
 
 
 <span class="atom-split" id="q109" data-atom="q109" data-title="Argent 2005 Locale — Quesito 109" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/1,multidisciplina/mono"></span>
@@ -15103,57 +14712,53 @@ La flottazione e le masse dei corpi che hanno interagito.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE2 Working with liquids (density and floating) **
+**PE2 Working with liquids (density and flotation)**
 
-PE2. The second river, Cordoba. Blue, please. 
- 
-Working with liquids. 
- 
-Part I: Mass to volume ratio 
- 
-A. Theoretical considerations 
- 
-If we compare two boxes of shoes of the same size, one occupied by air (used to say 
-empty) and the other filled with sand: 
- 
- 
- 
- 
-Empty box Box with sand
-Is the space that the boxes occupy the same or different? 
-Which one has the most matter? 
- 
-Therefore, it can be inferred that spaces ……. The test chemical may contain ……… quantities of material. 
+PE2. Río Segundo, Córdoba. Azul.
 
- 
- 
- 
-As the space occupied by each of them constitutes the volume and quantity of matter it is
-The mass denominator can be stated as: 
-Equal volumes may contain different masses. 
-* When comparing liquid water at 4 oC with frozen water at 0 oC: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Liquid water (4 oC) Frozen water (0 oC) 
- 
-Is the mass of the water, before and after freezing, the same or different? 
-What about the volume? 
-  
-Experimenting with other materials, it is also observed that by modifying the temperature of the same material 
-The mass occupies different volumes. 
-It can therefore be said that: 
- 
-Equal masses can occupy different volumes 
- 
-Consider the following case consisting of five cubes whose volumes are equal but 
-contain different substances: 
+Working with liquids.
+
+Part I: Mass/volume relationship
+
+A. Theoretical considerations
+
+If we compare two shoe boxes of equal size, one occupied by air (which we are used to calling empty) and the other filled with sand:
+
+
+
+
+                                 Empty box                                               Box with sand
+Is the space occupied by the boxes the same or different?
+In which of them is there a greater amount of matter?
+
+Therefore, it can be deduced that spaces ……. can contain ……… amounts of matter.
+
+
+
+
+Since the space occupied by each of them constitutes the volume and the amount of matter is called mass, it can be stated that:
+Equal volumes can contain different masses.
+* When liquid water at 4 ºC is compared with frozen water at 0 ºC:
+
+
+
+
+
+
+
+
+
+Liquid water (4 ºC)                               Frozen water (0 ºC)
+
+Is the mass of the water, before and after freezing, the same or different?
+And the volume?
+
+Experimenting with other materials, it is also observed that when the temperature is modified, the same mass occupies different volumes.
+Therefore, it can be said that:
+
+Equal masses can occupy different volumes
+
+Let us consider the following case consisting of five cubes whose volumes are equal but which contain different substances:
  
   
  
@@ -15163,332 +14768,283 @@ contain different substances:
  
  
  
-All cubes have the same volume (1L) but the masses are different. This allows us to deduce that 
-Equal volumes of different substances have different masses. 
-When analysing the relationship between mass and volume of water, the
-The following: 
- 
-In the case of water, if the mass of one liter (1 L) is 1 kg, the mass of half a liter (0.5 L) is 0.5 kg or the mass of the water is 0.5 kg.
-of a quarter of a liter (0.25 L) is 0,25 kg. So:
- 
-The volume
-mass
- =  
-L
-kg
-1
-1
- = 
-L
-kg
-5,0
-5,0
- = 
-L
-kg
-25
-,0
-25
-,0
- = 1 L
-kg  
- 
-The same can be said of the other elements cited, which leads to the conclusion that: 
- 
-The ________ between the mass and volume of a substance is a value of _________. 
- 
-This relationship is a very important property known as DENSITY. 
- 
-Before conducting the experimental examination, answer the following slogans: 
- 
-   I 
-   II 
-The Commission
- IV 
-  V 
-The NAFTA
-Vol: 1 L 
-Weight: 0,7 kg 
-Water
-Vol: 1 L 
-Weight: 1 kg 
-Iron .
-Vol: 1 L 
-Weight: 7.8 kg 
-Lead
-Vol: 1 L 
-Other materials of heading 83.0
-Mercury .
-Vol: 1 L 
-Weight: 13.5 kg 
- 
-Weight: 1 kg 
-The following table shows the results of the calculation:
- 
-Weight: 1 kg 
-Volume: 1 L 
+All the cubes have the same volume (1 L) but different masses. This allows us to deduce that equal volumes of different substances have different masses.
+When the relationship between the mass and the volume of water is analyzed, the following can be observed:
 
- 
- 
-a. What do you mean by Specific Weight? 
-b. In what units is it measured? 
-c. Is density and specific weight the same? 
-d. In which units is density measured? 
-e. What magnitude must be related to determine the density of a substance? 
-f. What measuring instruments would you use to determine the density of a substance? 
- 
+* In the case of water, if the mass of one liter (1 L) is 1 kg, that of half a liter (0.5 L) is 0.5 kg, or that of a quarter of a liter (0.25 L) is 0.25 kg. Then:
+
+volume mass
+ =
+L kg
+1
+1
+ =
+L kg
+0.5
+0.5
+ =
+L kg
+0.25
+0.25
+ = 1 L kg
+
+In the same way it can be analyzed with the other elements cited, allowing us to deduce that:
+
+The ________ between the mass and the volume of a substance is a _________ value.
+
+This relationship is a very important property known as DENSITY.
+
+Before carrying out the experimental examination, answer the following questions:
+
+   I
+   II
+  III
+ IV
+  V
+Gasoline
+Vol: 1 L
+Mass: 0.7 kg
+Water
+Vol: 1 L
+Mass: 1  kg
+Iron
+Vol: 1 L
+Mass: 7.8 kg
+Lead
+Vol: 1 L
+Mass: 11.3 kg
+Mercury
+Vol: 1 L
+Mass: 13.5  kg
+
+Mass: 1 kg
+Volume: 1.1 L
+
+Mass: 1 kg
+Volume: 1 L
+
+
+
+a. What do you understand by specific weight?
+b. In what units is it measured?
+c. Are density and specific weight the same?
+d. In what units is density measured?
+e. What quantities must be related to determine the density of a substance?
+f. What measuring instruments would you use to determine the density of a substance?
+
 B. Development 
  
-Equipment/Materials: 
-- 
-Graduated test. 
-- 
-Weigh it. 
-- 
-Different pieces of glass of different colour (white, green and brown). 
-- 
-600ml water bottle. 
-- 
-The syringe, the brooch. 
-- 
-Graduate receiver. 
-- 
-Water, oil and alcohol. 
-  
-Complete the following table with the data requested for each glass colour and size. Se 
-It is recommended to make a minimum of 4 measurements for each color. 
- 
-Element number one: white coloured glass 
- 
-Mass 
-Weight of the piece 
-of glass
-The volume 
-Density 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Element number two: green glass .
- 
-Mass 
-Weight of the piece 
-of glass
-The volume 
-Density 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Equipment/Materials:
+-
+Graduated cylinder.
+-
+Balance.
+-
+Different pieces of glass of different colors (white, green and brown).
+-
+600 ml beaker.
+-
+Syringe, clamp.
+-
+Graduated container.
+-
+Water, oil and alcohol.
 
- 
- 
-Element No 3: Brown glass .
- 
-Mass 
-Weight of the piece 
-of glass
-The volume 
-Density 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Final data set: 
-- 
-Density of white glass: 
-- 
-Green glass density: 
-- 
+Complete the following table with the data requested for each color and size of glass. It is recommended to take at least 4 measurements for each color.
+
+Element No. 1: WHITE GLASS
+
+Mass
+Weight of the piece of glass
+Volume
+Density
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Element No. 2: GREEN GLASS
+
+Mass
+Weight of the piece of glass
+Volume
+Density
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Element No. 3: BROWN GLASS
+
+Mass
+Weight of the piece of glass
+Volume
+Density
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparison of final data:
+-
+Density of white glass:
+-
+Density of green glass:
+-
 Density of brown glass: 
  
-a). Describe everything you have done to achieve this experience (step by step). 
-b). Does the density of glass in its different colors have the same value? You could determine the por 
-What? What experimental method of work did you use? - Why? - I don't know. 
-c). Measure 60 ml of alcohol. Then add water until you've completed 100 ml. Shake with the rod of 
-glass. Finally, dip the syringe or dropper with oil into the liquid and drop a few drops.
-(approximately 5 cm3) Observe and describe what happens. 
-Find the density of the oil from the mixture of water and alcohol. Remember that the density of the
-water is δ = 1 g/cm3 and the oil density is δ = g/cm3. 
-Complete: 
-• 
-A body submerged in a liquid is deposited in the ______________ of the container if its
-density is ______________ than that of the liquid. 
-• 
-A body ____________ on the surface of the liquid if its density is ___________ than the ___________
-of the liquid. 
-• 
-A ______________ floats within a ____________ if its density is _____________ to 
-the liquid. 
-d). He draws a conclusion that describes why the density of glass is different for different colors. 
-e). Could this technique be used to determine the density of the common salt? - Why? - I don't know. 
- 
-Part II: Sinking or floating 
- 
-Objective: Application of the Archimedes Principle and the principle of floatation. 
- 
-A. Theoretical considerations 
- 
-An object submerged in water takes up space and pushes water aside to take up that space. It 's been said .
-That the water has been displaced. It is interesting to know that the water that has been displaced pushes
-also the submerged object. For example, if the object pushes a volume of water whose weight is equal to
-At 10 N, and displacing, the water reacts by returning the same 10 N thrust to the object. In this one .
-experiment you'll investigate what determines what causes an object to sink or float in water. 
- 
-Equipment/Materials: 
- 
-- It's a dynamometer. 
-- Weigh it. 
-- The cord. 
+a). Describe everything you have done to carry out this experiment (step by step).
+b). Does the density of glass in its different colors have the same value? You could determine why. What experimental work method did you use? Why?
+c). Measure 60 ml of alcohol. Then add water until reaching 100 ml. Stir with the glass rod. Finally, immerse the dropper or syringe with oil in the liquid and let a few drops fall (approximately 5 cm3). Observe and describe what happens.
+Find the density of the oil from the mixture of water and alcohol. Remember that the density of water is δ = 1 g/cm3 and the density of the oil is δ = g/cm3.
+Complete:
+•
+A body submerged in a liquid settles at the ______________ of the container if its density is ______________ than that of the liquid.
+•
+A body ____________ on the surface of the liquid if its density is ___________ than that of the liquid.
+•
+A ______________ floats within a ____________ if its density is _____________ to that of the liquid.
+d). Write a conclusion that describes why the density of glass is different for different colors.
+e). Could this technique be used to determine the density of common salt? Why?
 
- 
- 
-- Rubber dough. 
-- 600ml glass of precipitate. 
-- Try it. 
-- Graduate receiver. 
-- It's water. 
-- It's the tape. 
-- A piece of wood. 
-- Molding clay (plastic). 
-- Hold it up. 
- 
-Development 
- 
-1. Determines the weight of an object (stone or a proportionate mass) first in air and then under the
-- What? Write down the weights and the force of float. 
- 
-• 
-Weight of the object in the air: 
-• 
-Apparent weight of the object in water: 
-• 
-Floating force on the object: 
-• 
-What is the floating force? How can it be calculated?: 
- 
-2. Designs an experiment to determine the volume of water displaced by the object. Write down the date 
-volume of water displaced. Calculate the mass and weight of that volume of water (remember that 1 ml of
-water has a mass of 1 g and a weight of 0,01 N). 
- 
-• 
-Volume of water displaced: 
-• 
-Displaced water mass: 
-• 
-Weight of displaced water: 
-• 
-What is the floating force on the submerged object, compared to the weight of the submerged object?
-displaced water?: 
- 
-3. Determine the mass of a piece of wood, and write the mass in data table A. 
- 
-NOTE: To simplify the calculations, from now on in this experiment you will measure and determine 
-mass, without calculating equivalent weights. However, don't forget that an object floats by force.
-of floating. This force is caused by the weight of the displaced water. 
-Measures the volume of water displaced when the wood floats. 
-Note in the data table A the volume and mass displaced. 
- 
-The following table shows the data for the year:
- 
-Objective 
-MASA 
-Volume of water 
-displaced (ml) 
-Mass of water 
-Displaced
-Wood .
- 
- 
- 
-Wood and bulk 
-Gums 
- 
- 
- 
-Plastic sphere 
- 
- 
- 
- 
-i. 
-What is the relationship between the floating force exerted on any object floating and the
-weight of the object itself? 
-ii. How is the mass of floating wood compared to the mass of displaced water? 
-(iii) the following: How is the floating force on the wood compared to the weight of the water?
-displaced persons. 
+Part II: Sink or float
 
- 
- 
-4. Place a mass (determines its value) on top of the piece of wood so that it moves more.
-water but still floating. That mass must be on top of the wood. Measures the volume of water displaced 
-calculates the mass, and records these values in data table A. 
- 
-5. How is the combined floating force on the wood and that mass, compared to the
-weight of displaced water? 
- 
-6. Determine the mass of a clay sphere to model. Measures the volume of water that the sphere
-It shifts when it sinks to the bottom. Calculate the displaced water mass and write down all the water displaced by the water.
-the volumes in data table A. 
-i How is the mass of water displaced by the clay compared to the mass of the clay? 
-ii. Is the floating force on submerged clay greater, less or equal to its weight in the air? 
-- Explain that. 
- 
-7. What determines whether a body sinks or floats? - Explain that. 
- 
-8. What conclusions could you draw after conducting this experiment about the force of
-The results of the study showed that the average temperature of the water and the mass of the bodies that have interacted with each other
+Objective: Application of Archimedes' Principle and the principle of flotation.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+A. Theoretical Considerations 
+ 
+An object submerged in water takes up space and pushes water aside to occupy that space. The water is said to have been displaced. It is interesting to know that the water that has been displaced also pushes the submerged object. For example, if the object pushes a volume of water whose weight is equivalent to 10 N, and displaces it, the water reacts by pushing back on the object with the same 10 N push. In this experiment you will investigate what determines whether an object sinks or floats in water.
 
+Equipment/Materials:
+
+- Dynamometer.
+- Balance.
+- String (thread).
+
+
+
+- Rubber masses.
+- 600 ml beaker.
+- Graduated cylinder.
+- Graduated container.
+- Water.
+- Adhesive tape.
+- Piece of wood.
+- Modeling clay (plasticine).
+- Stand.
+
+Procedure
+
+1. Determine the weight of an object (a stone or a provided mass) first in air and then under water. Record the weights and the buoyant force.
+
+•
+Weight of the object in air:
+•
+Apparent weight of the object in water:
+•
+Buoyant force on the object:
+•
+What is the buoyant force? How can it be calculated?:
+
+2. Design an experiment to determine the volume of water displaced by the object. Record the volume of the displaced water. Calculate the mass and the weight of that volume of water (remember that 1 ml of water has a mass of 1 g and a weight of 0.01 N).
+ 
+•
+Volume of displaced water:
+•
+Mass of displaced water:
+•
+Weight of displaced water:
+•
+How is the buoyant force on the submerged object compared with the weight of the displaced water?:
+
+3. Determine the mass of a piece of wood, and record the mass in data table A.
+
+NOTE: To simplify the calculations, from here on in this experiment you will measure and determine masses, without calculating equivalent weights. However, do not forget that an object floats thanks to the buoyant force. This force is caused by the weight of the displaced water.
+Measure the volume of displaced water when the wood floats.
+Record in data table A the volume and the displaced mass.
+
+DATA TABLE A
+
+OBJECT
+MASS
+Volume of displaced water (ml)
+Mass of displaced water
+Wood
+
+
+
+Wood and rubber mass
+
+
+
+Plasticine sphere
+
+
+
+
+i.
+What relationship is there between the buoyant force exerted on any floating object and the weight of the object itself?
+ii. How is the mass of the floating wood compared with the mass of the displaced water?.
+iii. How is the buoyant force on the wood compared with the weight of the displaced water?.
+
+
+
+4. Place a mass (determine its value) on top of the piece of wood, so that it displaces more water but still floats. That mass must be on top of the wood. Measure the volume of displaced water, calculate the mass, and record these values in data table A.
+ 
+5. How is the combined buoyant force on the wood and that mass, compared with the weight of the displaced water?
+
+6. Determine the mass of a modeling clay sphere. Measure the volume of water that the sphere displaces when it sinks to the bottom. Calculate the mass of the displaced water and record all the volumes in data table A.
+i. How is the mass of the water displaced by the clay, compared with the mass of the clay?
+ii. Is the buoyant force on the submerged clay greater than, less than, or equal to its weight in air?
+Explain.
+
+7. What determines whether a body sinks or floats? Explain.
+
+8. What conclusions could you establish after performing this experiment about the buoyant force and the masses of the bodies that have interacted?
 
 
 <span class="atom-split" id="q119" data-atom="q119" data-title="Argent 2005 Locale — Quesito 119" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container,object/pipe-tube"></span>
@@ -15952,103 +15508,78 @@ Spiegare, se possibile, quale dei due valori di f può essere più preciso.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+**PE4 Focal length of a converging lens**
 
-PE4. City of Buenos Aires. Blue, please. 
- 
-a. The objective 
-The experiment's goal is to determine the focal length of a converging lens. 
- 
-b. Materials 
-The materials to be used are: a lens support, a convergent lens, a white screen, a
-screen with a diagonal with two vertical and one horizontal threads (acting as an object), a light source 
-To illuminate the object, a meter rule and a small amount of plasticine. 
- 
-c. The procedure 
-i. Place the lens on the support in a vertical position (use plasticine if necessary). 
- 
-ii. Measure the distance w, in cm, between the two vertical threads as shown in Fig.1.1. Use the 
-horizontal thread as a guide. The value of w: w = ………..…… is recorded. 
+PE4. City of Buenos Aires. Blue.
 
- 
- 
- 
-(iii) the following: Place the two screens at a distance (d) of 55.0 cm and the lens support between the screens 
-as shown in Figure 1.2. 
- 
- 
- 
- 
-iv. Move the lens between the two screens until an enlarged image of the two threads is seen.
-vertical on the white screen. Measure the width of the distance w1, (in cm) between the images of the 
-The following two threads: w1 = ………………….. 
- 
-v. Determine the image magnification M using the formula: 
-w
-w
+a. Objective
+The objective of the experiment is to determine the focal length of a converging lens.
+
+b. Materials
+The materials to be used are: a lens holder, a converging lens, a white screen, a screen with a hole with two vertical threads and one horizontal thread (they act as the object), a light source to illuminate the object, a one-meter ruler and a small amount of modeling clay.
+
+c. Procedure i. Place the lens in the holder in a vertical position (use modeling clay if necessary).
+
+ii. Measure the distance w, in cm, between the two vertical threads as shown in Fig.1.1. Use the horizontal thread as a guide. Record the value of w: w = ………..…….
+
+
+
+
+iii. Place the two screens at a distance (d) of 55.0 cm and the holder with the lens between the screens as shown in Fig.1.2.
+
+
+
+
+iv. Move the lens between the two screens until a magnified image of the two vertical threads is observed on the white screen. Measure the width of the distance w1, (in cm) between the images of the two threads: w1 = …………………..
+
+v. Determine the magnification M of the image using the formula:
+w w
 M
 1
 =
- 
- 
-M = ………… 
- 
-vi. Keeping the distance d constant, move the lens so that you can see an image 
-It's diminished on the screen. Measure the corresponding width w2 (in cm): w2 = ….. 
+
+
+M = …………
+
+vi. Keeping the distance d constant, move the lens in such a way that a diminished image can be seen on the screen. Measure the corresponding width w2 (in cm): w2 = …..
  
 
  
  
-The following is the list of the countries of the European Union: Variate d between 45.0 cm and 65.0 cm and repeat steps iv. y vi. Get up to five values 
-corresponding to d, w1 and w2. Tabling measurements including values of (w1 + w2) for each 
-case. 
- 
-The third. Graphing (w1+w2) vs. d including point (0,0). 
- 
-d. Analysis of the data
- 
+vii. Vary d between 45.0 cm and 65.0 cm and repeat steps iv. and vi. until obtaining five corresponding values of d, w1 and w2. Tabulate the measurements including the values of (w1 + w2) for each case.
+
+viii. Plot (w1+w2) vs. d including the point (0,0).
+
+d. Analysis
+
 The theory suggests that:
 ,
 2
 )
 (
 2
-1
-w
-d
-w
-w
-f
-w
+1 w d w w f w
 −
 =
 +
- 
-where f is the focal length. 
- 
-i. Prove that the slope of the graph is: w / f . 
- 
-ii. Determine the slope of the graph. 
- 
-(iii) the following: Calculate the value of f. 
- 
-iv. Determine the intersection with the horizontal axis. 
- 
-v. The value obtained in iv. must be equal to 2.f. From this fact, calculate another value for f. 
-Explain, if possible, which of the two values of f can be more accurate.
 
+where f is the focal length.
+
+i. Show that the slope of the graph is: w / f .
+
+ii. Determine the slope of the graph.
+
+iii. Calculate the value of f.
+
+iv. Determine the intersection with the horizontal axis.
+
+v. The value obtained in iv. must be equal to 2.f. From this fact, calculate another value for f.
+Explain, if possible, which of the two values of f can be more precise.
 
 <!--fig:start-->
 ![[cuadernillo_2005_p65_f1.png]]
 ![[cuadernillo_2005_p65_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q121" data-atom="q121" data-title="Argent 2005 Locale — Quesito 121" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/ball,object/inclined-plane"></span>
@@ -16116,33 +15647,25 @@ Presenta i risultati in un rapporto contenente:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE5 Speed of the sphere to the floor (inclined plane) **
+**PE5 Speed of a sphere when it reaches the floor (inclined plane)**
 
-PE5. San Salvador, Jujuy. Blue, please. 
- 
-OBJECTIVE: Determine how fast the bowl or sphere reaches the floor. 
- 
-Elements to be used: 
-- Metal or cardboard tap. (Turned plane)
-- Metal ball or bowl. 
-- Carbon paper and white paper sheets. 
-- It's the tape. 
-- Big rule or tape measure. 
- 
-The Commission shall inform the European Parliament and the Council of the following:
-Present the results in a report containing: 
-1- Description of the procedure carried out. 
-2- Experimental values obtained from direct measurements made by you. 
-3- Calculation of the final speed of the bowl. 
-4- Determination of experimental errors for each of the measurements and for the result of the test.
-the requested.
+PE5. San Salvador, Jujuy. Blue.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+OBJECTIVE: Determine the speed with which the ball or sphere reaches the floor.
 
+ELEMENTS TO USE:
+- Metal or cardboard channel. (Inclined plane)
+- Metal sphere or ball.
+- Carbon paper and sheets of white paper.
+- Adhesive tape.
+- Large ruler or measuring tape.
+
+REPORT:
+Present the results in a report containing:
+1- Description of the procedure carried out.
+2- The experimental values obtained from direct measurements made by you.
+3- Calculation of the final speed of the ball.
+4- Determination of the experimental errors for each of the measurements and for the result of what is requested.
 
 
 <span class="atom-split" id="q122" data-atom="q122" data-title="Argent 2005 Locale — Quesito 122" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono"></span>
@@ -16228,156 +15751,96 @@ cuenta, simplificaciones realizadas y sobre los resultados obtenidos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE6 Proporzione di alcol per densità (densimetro) **
+**PE6 Proporzione di alcol tramite densità (densimetro)**
 
-PE6. San Carlo di Bariloche, Rio Negro. Blu e verde. 
- 
-Quando la soluzione è il problema. 
- 
-Considerazioni teoriche. 
-Quando pensiamo a soluzioni formate da due liquidi, come ad esempio tra acqua e alcol,
-Sappiamo che è molto semplice ottenere la stessa cosa avendo entrambi i liquidi in stato di purezza e
-mescolando la proporzione desiderata in un unico contenitore. 
-Il problema si presenta quando una determinata soluzione è conosciuta (in questo caso)
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento (CEE) n.
+PE6. San Carlos de Bariloche, Río Negro. Azul e Verde.
 
- 
- 
-- La stessa. Un modo di determinare sarebbe quello di distillare la soluzione, ma un'altra è quella di distillare la soluzione.
-Un buon metodo che richiede meno materiale, sarebbe determinare la densità della soluzione e con questo 
-Per quanto riguarda la produzione di prodotti di base, la Commissione ha adottato una decisione che prevede che il fabbisogno di base di tali prodotti sia stato fissato per il periodo di produzione. 
-La determinazione della densità può essere fatta con densimetri che sono dispositivi che galleggiano 
-parzialmente immersi nel liquido, mediante una scala graduata all'interno e calibrati 
-Per quanto riguarda la densità, la misurazione della densità è stata effettuata con precisione. Usando un densimetro e 
-Con cinque campioni di campione (soluti alcoolici in acqua a proporzione di volume)
-La quantità di prodotti che sono stati preparati con precisione è stata determinata.
-proporzione di volume di alcol in acqua di una soluzione incognita. 
-Per questo, puoi determinare con il tuo densimetro la densità di ogni campione di modello. Non dimenticare
-valutare l'errore della misurazione. Poi potete costruire un grafico cartesiano dove le abscisse
-rappresentano il rapporto volume di alcol in acqua e ordinato densità. Rivvolgere i 
-Le valori ottenute e lavorando su una scala adeguata si può costruire la retta migliore che adatta i
-punti e questa linea retta ti permetterà di determinare graficamente la proporzione del contenuto del tuo campione
-incognita. 
-Come supponiamo che il grafico è lineare (che si avvicina molto alla realtà nel range di 
-La soluzione in cui lavoriamo) ti viene chiesto di trovare l'equazione di tale retta determinando la
-la pendice (A) e la pendice all'origine (B) sono espresse come segue: 
+Quando la soluzione è il problema.
+
+Considerazioni teoriche.
+Quando pensiamo a soluzioni formate da due liquidi, come per esempio tra acqua e alcol, sappiamo che è molto semplice ottenerla avendo entrambi i liquidi allo stato puro e mescolando la proporzione desiderata in uno stesso recipiente.
+Il problema si presenta quando, data una determinata soluzione, si conoscono i componenti (in questo caso acqua e alcol) e si vogliono determinare le proporzioni in cui ciascuno di essi si trova nella
+
+
+
+stessa. Un modo di determinazione consisterebbe nel realizzare una distillazione della soluzione, ma un buon metodo che richiede meno materiale sarebbe determinare la densità della soluzione e con questo dato riuscire a stimare con la maggior precisione possibile la percentuale in cui si trova ciascun componente.
+La determinazione della densità si può fare con densimetri che sono apparecchi che, galleggiando parzialmente immersi nel liquido, per mezzo di una scala graduata al loro interno e calibrati correttamente, permettono di fare la lettura della densità corrispondente. Utilizzando un densimetro e disponendo di cinque campioni di riferimento (soluzioni di alcol in acqua con una proporzione in volume dello 0%, 10%, 20%, 30% e 40% e preparate con molta precisione) si dovrà determinare la proporzione in volume di alcol in acqua di una soluzione incognita.
+Per fare ciò puoi determinare con il tuo densimetro la densità di ciascun campione standard. Non dimenticare di stimare l'errore della tua misurazione. Poi puoi costruire un grafico cartesiano in cui le ascisse rappresentano la proporzione in volume di alcol in acqua e le ordinate la densità. Riportando i valori ottenuti e lavorando su una scala adeguata puoi costruire la retta che meglio approssima i punti e questa retta ti permetterà di determinare graficamente la proporzione del contenuto del tuo campione incognito.
+Poiché supponiamo che il grafico sia lineare (il che si avvicina abbastanza alla realtà nell'intervallo di soluzione in cui lavoriamo) ti viene chiesto di trovare l'equazione di tale retta determinando il coefficiente angolare (A) e l'intercetta all'origine (B), espressa nella seguente forma:
 Bx
-A
-y
+A y
 +
 =
- 
-Dove: y rappresenta la densità e x la proporzione di alcol nell'acqua. Per la determinazione dei
-I coefficienti A e B possono essere utilizzati per le conoscenze di funzioni lineari o di questioni di statistica.
-secondo il metodo dei quadrati minimi. 
-Con l'equazione della retta si può determinare la proporzione di alcol nella soluzione incognita.
-e la spogliando. Inoltre, questa ultima espressione ti permetterà di trovare l'errore associato al tuo
-la determinazione utilizzando la diffusione degli errori. 
- 
-Obiettivo dell'esperienza: determinare il rapporto volume di alcol in acqua di una soluzione 
-incognita, usando la densità come proprietà. 
- 
+
+Dove: y rappresenta la densità e x la proporzione di alcol in acqua. Per la determinazione dei coefficienti A e B puoi utilizzare le tue conoscenze di funzione lineare o questioni di statistica secondo il metodo dei minimi quadrati.
+Con l'equazione della retta puoi determinare la proporzione di alcol nella soluzione incognita, ricavandola dalla stessa. Inoltre quest'ultima espressione ti permetterà di trovare l'errore associato alla tua determinazione utilizzando la propagazione degli errori.
+
+Obiettivo dell'esperienza: Determinare la proporzione in volume di alcol in acqua di una soluzione incognita utilizzando come proprietà la densità.
+
 Elementi disponibili: Per realizzare questa esperienza si dispone di: 
  
-- Un densimetro .
-- Cinque soluzioni standard.
-- Una soluzione incognita.
-- Papero assorbente
-- Papero millimetrico .
-- elementi di lavoro: calcolatrice, penna, ecc. 
- 
-Requisiti: alla fine dell'esperienza deve essere consegnato un rapporto che contiene: 
-Tabella di valori di densità di campioni e soluzione incognita. 
-Grafico cartesiano densità vs. percentuale di concentrazione in volume. 
-Determinazione grafica della percentuale di alcol in volume nella soluzione richiesta. 
-Equazione della retta che rappresenta la correlazione lineare tra le due variabili. 
-Determinazione analitica della percentuale di alcol in volume nella soluzione richiesta. 
-Valutare l'errore associato alla determinazione effettuata. 
-Discussione e commenti sul metodo sperimentale utilizzato, considerazioni da tenere in considerazione 
-La Commissione ha adottato una decisione che prevede che il bilancio di bilancio sia stato ridotto a 0,5% per il periodo di cui è stato effettuato un'azione di bilancio.
+- Un densimetro
+- Cinque soluzioni standard
+- Una soluzione incognita
+- Carta assorbente
+- Carta millimetrata
+- Strumenti di lavoro: calcolatrice, matita, ecc.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+Requisiti: Al termine dell'esperienza si dovrà consegnare una relazione che contenga:
+ Tabella dei valori delle densità dei campioni standard e della soluzione incognita.
+ Grafico cartesiano densità vs. percentuale in volume della concentrazione.
+ Determinazione grafica della percentuale in volume di alcol nella soluzione richiesta.
+ Equazione della retta che rappresenta la correlazione lineare tra le due variabili.
+ Determinazione analitica della percentuale in volume di alcol nella soluzione richiesta.
+ Valutazione dell'errore associato alla determinazione effettuata.
+ Discussione e commenti sul metodo sperimentale utilizzato, considerazioni da tenere presenti, semplificazioni effettuate e sui risultati ottenuti.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the concentration of the alcohols in the product:
+**PE6 Alcohol proportion by density (hydrometer)**
 
-PE6. St. Charles of Bariloche, Rio Negro. Blue and Green. 
- 
-When the solution is the problem. 
- 
-Theoretical considerations. 
-When we think of solutions made up of two liquids, like between water and alcohol,
-We know it's very easy to achieve the same with both liquids in a state of purity and
-Mixing the desired proportion into one container. 
-The problem arises when the components of a given solution are known (in this case, the solution is known as the
-In the case of water and alcohol, the proportion of each is determined.
+PE6. San Carlos de Bariloche, Río Negro. Blue and Green.
 
- 
- 
-The same. One way of determining would be to distill the solution, but a
-The method of determining the density of the solution would be to determine the density of the solution and to determine the density of the solution.
-The data shall be used to estimate the percentage of each component as accurately as possible. 
-The density determination can be done with densimeters which are devices that float 
-partially submerged in the liquid, by a graduated scale inside and calibrated 
-The resulting density is the density of the sample. Using a densometer and 
-The sample is of five samples (water alcohol solutions with a volume ratio 
-The results of the study will be presented in the following sections:
-volume ratio of alcohol in water of an unknown solution. 
-To do this, you can use your densimeter to determine the density of each sample pattern. Don 't forget about 
-estimate the error of your measurement. Then you can build a Cartesian graph where the abscesses
-They represent the ratio of volume of alcohol to water and ordered density. Turning the lights up .
-The values obtained and working on an appropriate scale can build the best straight line that fits the
-points and this line will allow you to graphically determine the proportion of the contents of your sample 
-The unknown. 
-As we assume the graph is linear (which is pretty close to reality in the range of 
-The solution we are working on) is to find the equation of that line by determining the
-the slope (A) and the order of origin (B) are expressed as follows: 
+When the solution is the problem.
+
+Theoretical considerations.
+When we think of solutions made up of two liquids, such as water and alcohol, we know that it is very simple to achieve one by having both liquids in a pure state and mixing the desired proportion in the same container.
+The problem arises when, given a certain solution, its components are known (in this case water and alcohol) and one wants to determine the proportions in which each of them is found in
+
+
+
+it. One way of determining this would consist of carrying out a distillation of the solution, but a good method that requires less material would be to determine the density of the solution and with that data manage to estimate as precisely as possible the percentage in which each component is present.
+The determination of the density can be done with hydrometers, which are devices that, floating partially submerged in the liquid, by means of a scale graduated on their interior and correctly calibrated, allow the corresponding density to be read. Using a hydrometer and having five standard samples (alcohol-in-water solutions with a volume proportion of 0%, 10%, 20%, 30% and 40% and prepared with great precision), the volume proportion of alcohol in water of an unknown solution must be determined.
+For this, you can determine the density of each standard sample with your densimeter. Do not forget to estimate the error of your measurement. Then you can construct a Cartesian graph where the abscissas represent the proportion by volume of alcohol in water and the ordinates represent density. By plotting the obtained values and working on an appropriate scale, you can construct the best straight line that fits the points, and this line will allow you to determine graphically the proportion of the content of your unknown sample.
+Since we assume that the graph is linear (which is quite close to reality in the range of solution in which we are working), you are asked to find the equation of this straight line by determining the slope (A) and the y-intercept (B), expressed in the following form:
 Bx
-A
-y
+A y
 +
 =
+
+Where: y represents density and x the proportion of alcohol in water. To determine the coefficients A and B, you can use your knowledge of linear functions or statistical methods according to the least squares method.
+With the equation of the line, you can determine the proportion of alcohol in the unknown solution by solving for it. Moreover, this last expression will allow you to find the error associated with your determination using error propagation.
+
+Objective of the experiment: To determine the proportion by volume of alcohol in water of an unknown solution using density as the property.
+
+Available elements: To carry out this experiment, the following are available: 
  
-Where: y represents the density and x the proportion of alcohol in water. For the determination of the
-Coefficients A and B you can use your knowledge of linear function or statistical questions 
-according to the method of the minimum squares. 
-With the equation of the straight you can determine the proportion of alcohol in the solution unknown.
-clearing it up. Also, this last expression will allow you to find the error associated with your
-The data is not available for the purposes of the calculation. 
- 
-The purpose of the experiment: Determining the volume-to-water alcohol ratio of a solution 
-The unknown using density as a property. 
- 
-Available items: To carry out this experience: 
- 
-- A density meter .
-- Five standard solutions .
-- An unknown solution .
+- A hydrometer
+- Five standard solutions
+- One unknown solution
 - Absorbent paper
-- Millimeter paper .
-- Work elements: calculator, pencil, etc. 
- 
-Requirements: At the end of the experience a report must be submitted which states: 
-Table of sample density values of patterns and unknown solution. 
-Cartesian graph density vs. percentage by volume of concentration. 
-Graphical determination of the percentage by volume of alcohol in the ordered solution. 
-Equation of the linearity representing the linear correlation between the two variables. 
-Analytical determination of the percentage by volume of alcohol in the ordered solution. 
-Assessment of the error associated with the determination made. 
-Discussion and comments on the experimental method used, considerations to be taken into account 
-The Commission has also adopted a number of proposals for a new programme.
+- Graph paper
+- Work items: calculator, pencil, etc.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+Requirements: At the end of the experiment, a report must be submitted containing:
+ Table of density values of standard samples and unknown solution.
+ Cartesian graph of density vs. volume percentage of concentration.
+ Graphical determination of the volume percentage of alcohol in the requested solution.
+ Equation of the line representing the linear correlation between both variables.
+ Analytical determination of the volume percentage of alcohol in the requested solution.
+ Evaluation of the error associated with the determination made.
+ Discussion and comments on the experimental method used, considerations to be taken into account, simplifications made and on the results obtained.
 
 
 <span class="atom-split" id="q123" data-atom="q123" data-title="Argent 2005 Locale — Quesito 123" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono"></span>
@@ -16930,103 +16393,80 @@ Tus conclusiones.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE9 Misurazione di g con pendolo**
+**PE9 Misura di g con il pendolo**
 
-PE9. - Buona erba, Tucumán. Blu. 
- 
-Misurazione di g con un pendolo 
- 
-Obiettivo: Determinare il valore dell'accelerazione della gravità a Tucumán. 
- 
-Metodo: pendolo matematico e grafica. 
- 
-Sviluppo
- 
-Il rapporto tra il periodo e la lunghezza del periodo è dato da: 
- 
-                                 
+PE9. Yerba Buena, Tucumán. Azul.
+
+Misura di g con un pendolo
+
+Obiettivo: Determinare il valore dell'accelerazione di gravità a Tucumán.
+
+Metodo: Pendolo matematico e graficazione.
+
+Svolgimento
+
+La relazione tra il periodo e la sua lunghezza è data da:
+
+
 g
 L
 T
 π
 2
 =
- 
- 
-Dove π è 3,14159, l è la lunghezza della corda che sostiene il pendolo e g è l'accelerazione della
-gravità nel punto in cui oscilla il pendolo. 
- 
-Per determinare il valore di g, si procede come segue. 
- 
 
+
+Dove π è 3,14159, l è la lunghezza della corda che sostiene il pendolo e g è l'accelerazione di gravità nel luogo in cui oscilla il pendolo.
+
+Per poter determinare il valore di g procederemo nel modo seguente.
+
+
+
+
+a) Scegliamo 5 lunghezze diverse per far oscillare un pendolo e stimiamo i valori che otterremo dai corrispondenti periodi.
+
+b) Misuriamo il periodo di oscillazione di ciascuna delle lunghezze scelte, almeno tre volte con ciascuna, e ne facciamo la media e la delimitiamo con il suo errore. (Poiché nel misurare un tempo commettiamo un errore chiamato di reazione dell'ordine di 0,2 s) come vediamo questo valore è molto grande per i periodi stimati, correggiamo questo errore nel modo seguente: contiamo tra 5 e
+10 periodi consecutivi e prendiamo il tempo che il pendolo impiega a compiere quel numero di oscillazioni e poi lo dividiamo, in questo modo anche l'errore si divide, risultando tanto minore quanto maggiore è il numero di periodi consecutivi che misuriamo.
  
- 
-a) Scegliamo 5 lunghezze diverse per far oscillare un pendolo e stimamo i valori che
-La Commissione ha adottato una decisione che non è stata adottata. 
- 
-b) Misurare il periodo di oscillazione di ciascuna delle lunghezze scelte, almeno tre volte 
-con ognuna di loro e ne abbiamo preso la media e l'abbiamo abbattuta con il loro errore. (Come se si misurasse un tempo)
-commettiamo un errore che si chiama reazione dell'ordine di 0,2 s) come si vede questo valore è molto
-grande per i periodi stimati, correggiamo questo errore come segue: contare tra 5 e 
-10 periodi consecutivi e prendiamo il tempo che il pendolo impiega per eseguire quel numero di
-Quindi, quando si dividono le oscillazioni, si divide anche l'errore, risultando minore.
-più grandi sono i periodi consecutivi che misuriamo. 
- 
-c) Graficiamo nell'asse verticale i periodi elevati al quadrato, corteggiati con il loro errore 
-e sull'asse orizzontale i valori corrispondenti delle lunghezze con il proprio errore. 
- 
-d) Ciò che dovrebbe ottenere è una retta. - Perché? Calcoliamo il valore della pendenza prendendo due.
-punti sulla linea retta che abbiamo ottenuto e con loro calcoliamo il valore della pendenza da cui possiamo
-ottenere g come segue: 
- 
-                                     
-g
-m
+c) Sul grafico riportiamo sull'asse verticale i periodi elevati al quadrato, con il loro errore, e sull'asse orizzontale i valori corrispondenti delle lunghezze con il proprio errore.
+
+d) Quello che si dovrebbe ottenere è una retta. Perché? Calcoliamo il valore della pendenza prendendo due punti sulla retta che abbiamo ottenuto e con essi calcoliamo il valore della pendenza dal quale possiamo ricavare g nel modo seguente:
+
+
+g m
 π
 2
 =
-                           
+
 2
 2
-4
-m
-g
+4 m g
 π
 =
-     
- 
-Quindi possiamo dire che abbiamo graficamente media il valore delle 5 misurazioni.
-che abbiamo realizzato. 
- 
-Quindi, fai un rapporto dettagliato di tutti i passi che hai compiuto per determinare
-sperimentalmente il valore di g a Tucumán. In questo racconto della tua esperienza devi dire:
-• 
+
+
+In questo modo possiamo dire di aver "mediato graficamente" il valore delle 5 misurazioni che abbiamo effettuato.
+
+Di seguito, realizza una relazione dettagliata di tutti i passaggi che hai seguito per determinare sperimentalmente il valore di g a Tucumán. In questo resoconto della tua esperienza devi far constare:
+•
 I tuoi dati
-• 
-Gli obiettivi dell'esperimento 
-• 
-L'esperienza da realizzare 
-• 
-Relato di tutti i dettagli che sono accaduti durante le misure e come hai fatto.
-ciascuno di essi e i valori ottenuti 
-• 
-Le ipotesi che hai fatto, come il filo è estensibile, che la massa di conto
-è molto più piccola di quella del filo, che non si spacca con l'aria, ecc.) Descrivi come hai avuto
-Considerate questi fattori e in che modo hanno influenzato il vostro esperimento. 
-• 
-Devi mostrare il grafico e spiegare i risultati. 
-• 
-Come hai calcolato g e quali valori hai dato a π perché? 
-• 
-Dateci il valore di taglio che avete ottenuto da g. 
-• 
+•
+Gli obiettivi dell'esperimento
+•
+L'esperienza da realizzare
+•
+Resoconto di tutti i dettagli che si sono verificati durante le misurazioni e di come hai realizzato ciascuna di esse e i valori ottenuti
+•
+Le ipotesi che hai fatto (come che il filo sia inestensibile, che la massa del peso sia molto minore di quella del filo, che non ci sia attrito con l'aria, ecc.) Descrivi come hai tenuto conto di questi fattori e in che modo hanno influito sul tuo esperimento.
+•
+Devi mostrare il grafico e SPIEGARE i risultati di essi.
+•
+Come hai calcolato g e quali valori hai dato a π, perché?.
+•
+Dacci il valore con errore che hai ottenuto di g.
+•
 Le tue conclusioni.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -17609,106 +17049,89 @@ Requisiti:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Regulation (EU) No 1095/2012:
+**PE11 Focal length of a converging lens (images)**
 
-PE11. San Fernando, Catamarca, is where we are. Blue, please. 
- 
-The objective: 
-- Observe the positions and characteristics of images produced by converging lenses. 
-- Determine the focal length of a convergent lens. 
- 
-List of materials: 
+PE11. San Fernando, Catamarca. Azul.
+
+Objective:
+- Observe the positions and characteristics of images produced by converging lenses.
+- Determine the focal length of a converging lens.
+
+List of materials:
 - Converging lens
-- Wood meters .
-- Two subway or wooden supports. 
-- It's a cardboard screen. 
-- Light source .
-- Supports for the screen, the fountain and the lens.
-- It's a metric rule. 
- 
-The procedure: 
- 
-A) The focal length of a convergent lens 
- 
-1) To find the focal length of the converging lens, arrange your lens, meter and screen as 
-is shown in Figure 1. Point the lens towards a distant object and move the screen toward 
-forward and backward until you get a clear, sharp picture of the object. (it is easier to observe the
-The image is in the dark. 
-2) Record in Table 1 your focal length measurement. 
-3) Calculate the distance 2F and record this value in Table 1 
- 
-The focal length (cm.) 
- 
-2F(cm.) 
- 
-Height of the light source (cm) 
- 
- 
- 
- 
-(B) Converging lens 
- 
-1) Arm the device as shown in Figure 2. Put the light source somewhere,
-Beyond 2F on one side of the lens and put the screen on the opposite side. Move the screen .
-until a clear, sharp image is formed in it. Note in Table 1 the height of the source 
-The lighting is bright. 
+- Wooden meter sticks
+- Two meter or wooden supports.
+- Cardboard screen.
+- Light source
+- Supports for the screen, the source and the lens
+- Metric ruler.
+
+Procedure:
+
+A) Focal length of a converging lens
+
+1) To find the focal length of the converging lens, arrange your lens, the meter stick and the screen as shown in Figure No. 1. Point the lens toward a distant object and move the screen forward and backward until you obtain a clear and sharp image of the object. (it is easier to observe the image in the dark).
+2) Record your focal length measurement in Table 1.
+3) Calculate the distance 2F and record this value in Table 1
+
+Focal length (cm.)
+
+2F (cm.)
+
+Height of the light source (cm.)
+
+
+
+
+B) Converging lens
+
+1) Set up the device as shown in Figure No. 2. Place the light source somewhere beyond 2F on one side of the lens and place the screen on the opposite side. Move the screen until a clear and sharp image is formed on it. Record in Table 1 the height of the light source (ho).
  
  
 
  
  
-2) Record in Table 2 the measurements of distance of object), distance of image), height of image) and
-your observations of the image. 
-3) Move the light source to 2F. Move the screen until the clear, sharp image appears. 
-Note the measures obtained in Table 2. 
-4) Repeat the previous procedure by placing the light source in a position between F and 2F. 
- 
-Position of the object 
-Beyond 2F(cm.) 
-En 2F(cm.) 
-Between 2F and F (cm.) 
-do 
- 
- 
- 
-di 
- 
- 
- 
-hi 
- 
- 
- 
-Type of image: real, 
-No or virtual 
- 
- 
- 
-Position of the image: 
-Inverted or normal 
- 
- 
- 
- 
- 
-The analysis: 
-(a) Summarize the characteristics of the converging lenses in each of the lenses.
-the situations analysed. 
-(b) For each of the actual images you observed, calculate the focal length of the lens using the
-the corresponding equation. Determine the error committed. 
- 
-Requirements: 
-- Introduction to the report
+2) Record in Table 2 the measurements of do (object distance), di (image distance), hi (image height), and your observations of the image.
+3) Move the light source to 2F. Move the screen until a clear and sharp image appears.
+Write down the measurements obtained in Table 2.
+4) Repeat the previous procedure placing the light source at a position between F and 2F.
+
+Object position
+Beyond 2F (cm.)
+At 2F (cm.)
+Between 2F and F (cm.)
+do
+
+
+
+di
+
+
+
+hi
+
+
+
+Type of image: real, none or virtual
+
+
+
+Image position:
+inverted or upright
+
+
+
+
+
+Analysis:
+a) Summarize the characteristics of the images formed by converging lenses in each of the situations analyzed.
+b) For each of the real images you observed, calculate the focal length of the lens, using the corresponding equation. Determine the error made.
+
+Requirements:
+- Introduction
 - Methods:
 - Results
 - Discussion
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q128" data-atom="q128" data-title="Argent 2005 Locale — Quesito 128" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block"></span>
@@ -17802,46 +17225,37 @@ Conclusioni
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE12 Specific density and weight of aluminium**
+**PE12 Density and specific weight of aluminum**
 
-PE12. That's great. Blue, please. 
- 
-The Commission has decided to take the necessary measures to ensure that the measures are implemented.
-Calculate the specific density and weight of a solid. 
- 
-The following is a list of the official languages of the European Union:
+PE12. Formosa. Blue.
+
+OBJECTIVE:
+Calculate the density and specific weight of a solid.
+
+MATERIALS:
 Water
-Universal support 
-Aluminium parallel piped (Pe del Al = 2,7 kg/dm3) 
-Dynamometer .
-Silk thread 
-Nine double .
-Graduated sample of 100 ml 
-Stick support 
- 
-I 'm not sure .
-(a) sets out the corresponding equations by remembering that E = p  p = v . Pe and that to calculate the 
-You have to remember that you're working with water whose Pe is 1 kg/dm3. 
-(b) submit a report including the following: 
-• 
-deduction of equations to be used 
-• 
-Measurements made 
-• 
-Final results 
-• 
-Error calculation 
-• 
-Graphic 
-• 
-The Commission shall adopt the following measures:
+Universal stand
+Aluminum parallelepiped (specific weight of Al = 2.7 kg/dm3)
+Dynamometer
+Silk thread
+Double bosshead
+100 ml graduated cylinder
+Support rod
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+SUGGESTION:
+a) set up the corresponding equations remembering that E = p – p’ = v . specific weight and that to calculate the specific weight of the body you must remember that you are working with water whose specific weight = 1 kg/dm3.
+b) Present a report including the following aspects:
+• deduction of the equations to be used
+•
+Measurements taken
+•
+Final results
+•
+Error calculation
+•
+Graph
+•
+Conclusions
 
 
 <span class="atom-split" id="q129" data-atom="q129" data-title="Argent 2005 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block"></span>
@@ -17935,46 +17349,37 @@ Conclusioni
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE13 Specific density and weight of iron**
+**PE13 Density and specific weight of iron**
 
-PE13. That's great. Blue, please. 
- 
-The Commission has decided to take the necessary measures to ensure that the measures are implemented.
-Calculate the specific density and weight of a solid. 
- 
-The following is a list of the official languages of the European Union:
+PE13. Formosa. Azul.
+
+OBJECTIVE:
+Calculate the density and specific weight of a solid.
+
+MATERIALS:
 Water
-Universal support 
-Iron parallel piped (Pe del Fe: 7.85 kg/dm3 
-Dynamometer .
-Silk thread 
-Nine double .
-Graduated sample of 100 ml 
-Stick support 
-    
-I 'm not sure .
-(a) raise the corresponding complaints by remembering that E = p  p = v . Pe and that to calculate 
-The specific body weight you need to remember is that you're working with water whose Pe is 1 kg/dm3. 
-(b) submit a report including the following: 
-• 
-The following is a summary of the information:
-• 
-Measurements made 
-• 
-Final results 
-• 
-Error calculation 
-• 
-Graphic 
-• 
-The Commission shall adopt the following measures:
+Universal stand
+Iron parallelepiped (Sp of Fe: 7.85 kg/dm3
+Dynamometer
+Silk thread
+Double bosshead
+100 ml graduated cylinder
+Support rod
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+SUGGESTION:
+a)  set out the corresponding 'limentaci remembering that E = p – p’ = v . Sp   and that to calculate the specific weight of the body you must remember that you are working with water whose Sp = 1 kg/dm3.
+b) Present a report including the following aspects:
+• deduction of the limentaci to be used
+•
+Measurements taken
+•
+Final results
+•
+Error calculation
+•
+Graph
+•
+Conclusions
 
 
 <span class="atom-split" id="q130" data-atom="q130" data-title="Argent 2005 Locale — Quesito 130" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/pulley,object/disk"></span>
@@ -18090,54 +17495,45 @@ Conclusioni
 
 **PE14 MCU: omega, v and drum radius**
 
-PE14. That's great. Blue, please. 
- 
-The Commission has decided to take the necessary measures to ensure that the measures are implemented.
-Calculate ω, v and drum radius, in uniform circular motion. 
- 
-The following is a list of the official languages of the European Union:
+PE14. Formosa. Blue.
+
+OBJECTIVE:
+Calculate ω, v and drum radius, in uniform circular motion.
+
+MATERIALS:
 Pulley cone
-The time-meter .
-Printed paper disk 
-I 'm not a fan .
-Drum axis
-Power supply 
-I 'm not .
-Weight play .
-Thoracic joint
-Metallic subway .
-Reducing engine
-Nine double .
-- Handbags .
-Table screw (2) 
-250 mm support rod (2) 
- 
-I 'm not sure .
-(a) it sets out the corresponding equations by recalling the characteristics of the circular motion 
-uniform. 
-(b) submit a report including the following: 
-• 
-deduction of equations to be used 
+Stopwatch
+Printed paper disc
+Support disc
+Drum shaft
+Power supply
+String
+Set of weights
+O-ring
+Metal tape measure
+Gear motor
+Double bosshead
+Weight hanger
+Table clamp (2)
+250 mm support rod (2)
 
- 
- 
-• 
-Measurements made 
-• 
-Final results and verification 
-• 
-Error calculation 
-• 
-Graph or diagram of the device used 
-• 
-The Commission shall adopt the following measures:
+SUGGESTION:
+a) set up the corresponding equations recalling the characteristics of uniform circular motion.
+b) Submit a report including the following aspects:
+• deduction of the equations to be used
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pulley (object)|Pulley]], [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
 
+
+•
+Measurements taken
+•
+Final results and verification
+•
+Error calculation
+•
+Graph or diagram of the device used
+•
+Conclusions
 
 
 <span class="atom-split" id="q131" data-atom="q131" data-title="Argent 2005 Locale — Quesito 131" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
@@ -19187,72 +18583,55 @@ Confezionare un rapporto di questo lavoro, in cui si descrivono le fasi successi
 
 **PE19 Specific heat of glycerin**
 
-PE19. Rosario, Santa Fe. Green, please. 
- 
-Title: Specific heat of a liquid. 
- 
-Objective: Determine the specific heat of glycerin. 
- 
+PE19. Rosario, Santa Fe. Green.
 
- 
- 
-Introduction: Glycerin is a polyhydroxylic alcohol; it is incorporated into a large amount of 
-products such as moisturizers; used in the food, cosmetics, pharmaceutical industries,
-also as a lubricant, plasticizer, thickening agent; as a component of some resins and more. 
-Among its physical characteristics, the melting temperature: 18 oC and the temperature of 
-Boiling point: 290 oC. 
-Its chemical formula: HOCH2-CHOH-CH2-OH 
- 
-Available materials: 
-• 
-Telgopor calorimeter with glass inside 
-• 
-Thermometer .
-• 
-Weighing 
-• 
-I 'm not crystallizing .
-• 
-Try it .
-• 
+Title: Specific heat of a liquid.
+
+Objective: To determine the specific heat of glycerin.
+
+
+
+
+Introduction: Glycerin is a polyhydroxy alcohol; it is incorporated into a large number of products as a humectant; it is used in the food, cosmetics, and pharmaceutical industries, also as a lubricant, plasticizer, thickening agent; as a component of some resins and more.
+Among its physical characteristics, the following are relevant: melting temperature: 18 ºC and boiling temperature: 290 ºC.
+Its chemical formula: HOCH2-CHOH-CH2-OH
+
+Available materials:
+•
+Styrofoam calorimeter with glass interior
+•
+Thermometer
+•
+Balance
+•
+Crystallizing dish
+•
+Graduated cylinder
+•
 Water
-• 
-Glycerin .
-• 
-Millimeter paper 
-• 
-Absorbing paper 
- 
-Proposal for a job: 
-Planning the measurements you need to make to calculate the specific heat of glycerin, a
-Starting from the energy balance equations. 
- 
-Precautions: 
-• 
-The boiling temperature of glycerin is very high compared to the range of the
-The test chemical is a thermometer, so the glycerin temperature during the experiment should be 
-controlled to prevent the breakage of the same. 
-• 
-Glycerin is water soluble, so it is recommended not to mix it, as a
-The amount of heat in the solution that cannot be evaluated in this experiment. 
- 
-The following is the list of the Member States:
-Because of the range of the lab scales, if you need to determine the mass of any liquid,
-You'll have to use the glazer and empty it. For this purpose, the weight is placed on the scale and the pressure is pressed on the
-The display will then be left again at 0.0 g , with the glaze on top of the glass .
-I'm going to eat a plate. 
- 
-Data: Specific water temperature: 1 cal/g oC or 4,186 kJ/kg K 
-The water density: 1000 kg/m3 
- 
-Make a report of this work, detailing each step.
+•
+Glycerin
+•
+Graph paper
+•
+Absorbent paper
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+Work proposal:
+Plan the measurements that must be carried out in order to calculate the specific heat of glycerin, based on the energy balance equations.
 
+Precautions:
+•
+The boiling temperature of glycerin is very high compared with the range of the thermometers, so the temperature of the glycerin during the experiment must be controlled to prevent them from breaking.
+•
+Glycerin is soluble in water; therefore, it is indicated not to mix them, since an amount of heat is released in the dissolution that cannot be evaluated in this experiment.
+ 
+Clarification:
+Due to the range of the laboratory balances; if you need to determine the mass of any liquid, you must use the crystallizing dish and tare it empty. To do this, it is placed on the balance and the power button is pressed; then the display will again read 0.0 g, with the crystallizing dish on the pan.
+
+Data: Specific heat of water: 1 cal/g ºC or 4.186 kJ/kg K
+            Density of water: 1000 kg/m3
+
+Prepare a Report on this work, in which you detail each of the steps followed.
 
 
 <span class="atom-split" id="q136" data-atom="q136" data-title="Argent 2005 Locale — Quesito 136" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block"></span>
@@ -19525,55 +18904,35 @@ errore di misurazione della Terra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the components of the magnetic field:
+**PE22 Horizontal component of the Earth's magnetic field**
 
-PE22. City of Buenos Aires. Green, please. 
- 
-Determination of the intensity of the horizontal component of the earth's magnetic field. 
- 
-Magnetic dipoles behave in the presence of magnetic fields like a magnetic needle.
-They tend to spin and align with the field. The millenary compass takes advantage of this property: its needle.
-Magnetic dipole is a magnetic dipole that can rotate freely on a support and orient itself until it stays
-aligned with the Earth's magnetic field. If this field is superimposed by another magnetic field, the
-The needle of the compass will then align with the resulting magnetic field. This is the fact that I am
-You take advantage of the experience. 
- 
-The measuring device consists of a circular coil which, when running electric current by 
-It generates a magnetic field. The intensity of the field at the center of the coil is given by 
-the expression: 
- 
-Bbobine is equal to μ0 . I . N/ 2 . R 
- 
+PE22. City of Buenos Aires. Green.
+
+Determination of the intensity of the horizontal component of the Earth's magnetic field.
+
+Magnetic dipoles behave in magnetic fields as a magnetized needle does:
+they tend to rotate and align with the field. The ancient compass takes advantage of this property: its magnetized needle is a magnetic dipole that can rotate freely on a support and orients itself until it is aligned with the Earth's magnetic field. If another magnetic field is superimposed on this field, the compass needle will then align with the resulting magnetic field. This fact is what is used in the experiment.
+
+The measuring device consists of a circular coil that, when electric current flows through it, generates a magnetic field. The intensity of said field at the center of the coil is given by the expression:
+
+Bbobina = µ0 . I . N/ 2 . R
+
 I is the intensity of the electric current in the coil
-N is the number of turns of the coil 
-R is the radius of the coil.
-μ0 is a constant called the magnetic permittivity of the vacuum and its value is 
- 
+N is the number of turns of the coil
+R is the radius of the coil
+µ0 is a constant called the magnetic permeability of vacuum and its value is
+
 µ0 = 4 . π . 10-7 T.m/A 
  
-The procedure 
-(a) Place the compass so that the needle is oriented parallel to the plane of the coil. 
-(b) Circulate current in the coil, measuring its intensity. 
-(c) The needle of the compass has been deflected by the effect of the field generated by the coil. Measuring the
-angle α, forming the new orientation of the compass with the direction corresponding to I = 0 (is the 
-angle between the horizontal component of the Earth's magnetic field vector, Earth, and the vector 
-magnetic field of the coil in the position of the needle, Bbobina) 
-(d) Calculate the intensity of the horizontal component of the ground field from the ratio 
-The following is the list of the countries of the European Union:
- 
-Estimate the error in the determination of Bterrestre from all measurement errors involved. 
- 
-(e) Repeat the procedure with a different current value in the coil and, consequently, a different 
-The intensity of Bbobina. Determine the value of Bterrestre and its new error margin. Compared to that of 
-The following are the results of the study:
-error in the measurement of the Earth.
+Procedure
+a) Position the compass so that the needle is oriented parallel to the plane of the coil.
+b) Pass current through the coil, measure its intensity.
+c) The compass needle will have deflected due to the effect of the field generated by the coil. Measure the angle α, which the new orientation of the compass forms with the direction corresponding to I = 0 (it is the angle between the horizontal component of the Earth's magnetic field vector, Bterrestre, and the magnetic field vector of the coil at the position of the needle, Bbobina)
+d) Calculate the intensity of the horizontal component of the Earth's field from the relation tg α = Bbobina/ Bterrestre
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Coil (object)|Coil]], [[Magnetic Dipole (object)|Magnetic Dipole]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+Estimate the error in the determination of Bterrestre from all the measurement errors involved.
 
+e) Repeat the procedure with another value of current in the coil and, consequently, a different intensity of Bbobina. Determine the value of Bterrestre and its new margin of error. Compare it with that of the previous measurement and analyze the contribution of each of the experimental variables to the margin of error in the measurement of Bterrestre.
 
 
 <span class="atom-split" id="q139" data-atom="q139" data-title="Argent 2005 Locale — Quesito 139" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/5,multidisciplina/multi,object/beam,object/magnet"></span>
@@ -19955,175 +19314,152 @@ Raccomandazioni per l'uso:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE23 Young module and saw blade resonance**
+**PE23 Young's Modulus and Saw Blade Resonance**
 
-PE23. City of Buenos Aires. Blue, please. 
-Young and Resonance Module 
- 
-I. Objective 
-The aim of this experiment is to study the elasticity (Young's module) of steel and the ways in which it is
-The sound of a saw blade. 
- 
-The Commission has also adopted a number of proposals.
-When a force is applied to a body, the shape of the body changes. Elasticity is the 
-The property of bodies to return to their original form once the applied force is removed. 
-The deformation of a ∆L bar can be calculated as (see Figure 1): 
- 
+PE23. City of Buenos Aires. Blue.
+Young's Modulus and Resonance
+
+I.- Objective
+The objective of this experiment is to study the elasticity (Young's modulus) of steel and the resonance modes of a saw blade.
+
+II.- Introduction
+When a force is applied to a body, its shape changes. Elasticity is the property of bodies to return to their original shape once the applied force is removed.
+The deformation of a bar ∆L can be calculated as (see figure 1):
+
 AE
 LF
 L =
 ∆
- 
- 
- 
- 
- 
-(1) 
- 
-Where ?
-L: Bar length 
-E: Module of Young 
-F: Force applied 
-A: Bar surface 
-Young's module will be a constant that characterizes the elasticity of the different materials. 
- 
- 
-Figure 1: Deformation of a cylinder 
- 
-One way to determine the Young's modulus of a bar is to pin it on one end and
-measuring the vertical deflection of the other in relation to the weight of the other (see Figure 2)
- 
- 
-Figure 2: Bar deflection 
- 
-For small deflections the following equation can be used: 
- 
+
+
+
+
+
+(1)
+
+Where
+L: Length of the bar
+E: Young's modulus
+F: Applied force
+A: Surface area of the bar
+Young's modulus will be a constant that characterizes the elasticity of different materials.
+
+
+Figure 1: Deformation of a cylinder
+
+One of the ways to determine Young's modulus of a bar is by fixing it at one end and measuring the vertical deflection of the other end as a function of the weight hung from it (see figure 2)
+
+
+Figure 2: Deflection of the bar
+
+For small deflections the following equation can be used:
+
 3
 3
 4
-The European Union
-PL
-y =
- 
- 
- 
- 
- 
-(2) 
- 
-Where ?
-and: Free-exit deflection 
-Q: Weight suspended from the free end 
-E: Module of Young 
-a: Width of the bar (see figure 3) 
-L: Length of the bar (see figure 3) 
-e: Bar thickness (see figure 3) 
+Eea
+PL y =
 
+
+
+
+
+(2)
+
+Where y: Deflection of the free end
+P: Weight hung from the free end
+E: Young's modulus a: Width of the bar (see figure 3)
+L: Length of the bar (see figure 3)
+e: Thickness of the bar (see figure 3)
+
+
+
+
+
+Figure 3: Dimensions of the bar 
  
- 
- 
- 
-Figure 3: Bar dimensions 
- 
-Another phenomenon you'll study is resonance.
-It occurs when a vibrating body is subjected to the action of a periodic force, whose
-The vibration frequency is the same as the characteristic vibration frequencies (or frequencies of 
-The body's resonance. 
-Once the first resonance frequency is found, the following can be searched for:
-Each harmonic will have associated a characteristic mode of vibration with
-The values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first are given values of the least are defined are determined by the least.
-(as an example). 
- 
-Figure 4: Example of resonance modes 
- 
-The resonance frequencies will depend on the characteristics of the body. For the case of the sheet 
-The following shall be: 
- 
+Another phenomenon you will study is resonance. Resonance is a phenomenon that occurs when a body capable of vibrating is subjected to the action of a periodic force whose vibration frequency coincides with the characteristic vibration frequencies (or resonance frequencies) of that body.
+Once the first resonance frequency has been found, the subsequent ones can be sought, which we will call harmonics. Each harmonic will have an associated characteristic mode of vibration with its nodes (zero vibration amplitude) and antinodes (maximum vibration amplitude) (see Figure 4 as an example).
+
+Figure 4: Example of resonance modes
+
+The resonance frequencies will depend on the characteristics of the body. For the case of the saw blade they will be:
+
 3
 3
 12mL
-I am not here.
-C
-f
-m
+Eae
+C f m
 =
- 
- 
- 
- 
- 
-(3) 
- 
-Where ?
-The frequency of the sounding system shall be:
-Cm: Constant, depending on the resonance mode 
-m: Mass of saw blade 
-E, a, L and e: They've already been defined.
- 
-III. List of materials 
-• Weaving leaf, m = 19,0 ± 0.5 g 
-• A permanent magnet 
-• An electro-man
-• Signal generator with its connection cable 
-• Weights of 4,5 ± 0.5 g
-• White and millimeter sheets of paper 
-• Morsa 
-• Caliber 
-• Universal foot 
-• Rule 
+
+
+
+
+
+(3)
+
+Where f: Resonance frequency
+Cm: Constant, depends on the resonance mode m: Mass of the saw blade
+E, a, L and e: Were already defined
+
+III.- List of materials
+• Saw blade, m = 19.0 ± 0.5 g
+• A permanent magnet
+• An electromagnet
+• Signal generator with its connection cable
+• 4.5 ± 0.5 g weights
+• Sheets of white and millimeter paper
+• Vise
+• Caliper
+• Universal stand
+• Ruler 
 
  
  
-The Commission has decided to adopt a proposal for a regulation on the
-1. Measure the dimensions of the saw blade 
-2. I fixed the saw blade to the table using the walnut.
-3. Measure the deflection of the saw blade in function of the mass placed at the free end 
-4. Arms the diagram in figure 5 
-5. For a given length the frequency of the saw blade oscillation width is measured.
-the signal generator (see Annex) 
-6. Measure the resonance frequency as a function of the length of the saw blade 
- 
- 
-Figure 5: Forced oscillations in the bar 
- 
-V. Required: 
-Note: Describe in detail the criteria used to determine the errors. 
- 
-(a) Measure the dimensions of the delivered saw blade 
- 
-(b) Draw a graph of the bar deflection and weight P 
- 
-(c) From the above graph, determine the Young E module 
- 
-(d) For a single length, make a graph of oscillation amplitude in function of the
-Frequency 
- 
-(e) Find the resonance frequency (s) 
- 
-f) Draw a diagram of the shape of the vibration for each resonance by placing the nodes in 
-Each case 
- 
-(g) Draw a graph of the first resonance frequency function of L. Linearising the 
-The way you do. I think it's convenient. 
- 
-(h) From the above graph, determine the C1 constant for the first resonance 
- 
-Annex 
-I. How to use the function generator
- 
- 
-Figure 1: Function generator 
-A Function Generator is an electronic device that produces sine waves. 
-Recommendations for use: 
-• Make sure that only the black buttons in Schema 1 are pressed. 
+IV.- Experimental Procedure
+1. Measure the dimensions of the saw blade
+2. Fix the saw blade to the table using the vise
+3. Measure the deflection of the saw blade as a function of the mass placed at the free end
+4. Set up the scheme of figure 5
+5. For a given length, measure the amplitude of oscillation of the saw blade as a function of the frequency of the signal generator (See annex)
+6. Measure the resonance frequency as a function of the length of the saw blade
 
- 
- 
-• Check that the black beam in Schema 1 is timed to 
-I'm going to finish. 
-• Connect the cable between the connector and the electro-man. 
-• Use the drill under the display to vary the output frequency.
 
+Figure 5: Forced oscillations in the bar
+
+V.- Required:
+Note: Describe in detail the criteria used in determining the errors.
+
+a) Measure the dimensions of the provided saw blade
+
+b) Make a graph of the deflection of the bar as a function of the weight P
+
+c) From the previous graph, determine Young's modulus E
+
+d) For a single length, make a graph of oscillation amplitude as a function of frequency
+
+e) Find the resonance frequency or frequencies
+
+f) Make a sketch of the shape of the vibration for each resonance, locating the nodes in each case
+
+g) Make a graph of the first resonance frequency as a function of L. Linearize it in the way you deem convenient.
+
+h) From the previous graph, determine the constant C1 for the first resonance
+
+Annex
+I.- How to use the function generator 
+ 
+ 
+Figure 1: Function Generator
+A Function Generator is an electronic device that produces sinusoidal waves.
+Recommendations for using it:
+• Check that only the buttons indicated in black in diagram 1 are pressed.
+
+
+
+• Check that the knob indicated in black in diagram 1 is turned clockwise all the way.
+• Connect the cable between the connector and the electromagnet.
+• Use the knob below the display to vary the output frequency.
 
 <!--fig:start-->
 ![[cuadernillo_2005_p80_f2.png]]
@@ -20132,13 +19468,6 @@ I'm going to finish.
 ![[cuadernillo_2005_p82_f5.png]]
 ![[cuadernillo_2005_p82_f6.png]]
 <!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
-**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Beam (object)|Beam]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q140" data-atom="q140" data-title="Argent 2005 Locale — Quesito 140" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
@@ -20236,48 +19565,34 @@ le informazioni corrispondenti e tutti i commenti che ritiene pertinenti per il 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the requirements for the type of equipment used:
+**PE24 Outflow velocity of a faucet**
 
-PE24. San Miguel, Tucumán. Blue, please. 
- 
-OBJECTIVE: Find the output speed of a faucet. 
- 
-The following is a list of the official languages of the European Union:
-- Cylindrical container 
-- 
-The time-meter .
-- 
-Rule 
-- 
-Caliber 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
- 
-1) Determine the volume of the container. 
-2) Determine for different container volumes how long it takes 
-I'm not gonna fill it. Build a chart. 
-3) Determine flow (volume of water per unit of time) 
-4) Measure the section of the tap and calculate the water outlet speed. 
-5) The jet diameter decreases as it moves away from the tap. La 
-The ratio of the output output speed of the faucet to the speed at which it is
-has a distance h from the tap is given by: 
+PE24. San Miguel, Tucumán. Blue.
+
+OBJECTIVE: To find the outflow velocity of a faucet.
+
+MATERIALS:
+                           - Cylindrical container
+-
+Stopwatch
+-
+Ruler
+-
+Caliper
+
+PROCEDURE:
+
+1) Determine the volume of the container.
+2) Determine, for different volumes of the container, the time it takes to fill it. Construct a graph.
+3) Determine the flow rate (volume of water per unit time)
+4) Measure the cross-section of the faucet and calculate the outflow velocity of the water.
+5) The diameter of the stream decreases as it moves away from the faucet. The relationship between the outflow velocity of the faucet and the velocity it has at a distance h from the faucet is given by:
                                                           V2
 2 – V1
-2 = 2 g h 
-Find the output speed of the tap using only 
-It's a rule. Explain whether the distance between the faucet and the container 
-They 've influenced the measurements taken . 
- 
-Draft a report outlining all the steps taken, as well as the considerations and 
-assumptions you have made, sources of errors and analysis of how they influence the final results 
-the following information and any comments which you consider relevant to the report.
+2 = 2 g h
+                                        Find the outflow velocity of the faucet using only a ruler. Explain whether the distance between the faucet and the container has influenced the measurements taken.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
+Write a report stating all the steps carried out, as well as the considerations and assumptions you have made, sources of error and an analysis of how they influence the final results within bounds, and all those comments you consider relevant for the report.
 
 
 <span class="atom-split" id="q141" data-atom="q141" data-title="Argent 2005 Locale — Quesito 141" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
@@ -20533,127 +19848,107 @@ E qualsiasi informazione che ritenga rilevante
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the weight of the product:
+**PE25 Specific weight and Archimedes (concentration)**
 
-PE25. City of Buenos Aires. Blue, please. 
- 
-Specific weight and Archimedes 
- 
-The objective: 
-When you submerge a body in a liquid , you see that it receives an upward force called the force of the water .
-Push it. When its value is equal to the weight of the body, it will remain floating. 
-The purpose of this experiment is to determine the specific weight of pure water and that of a solution of
-water with salt with the formula of Archimedes, then determine the concentration of the solution. 
- 
-List of materials: 
-• 
-Graduated test
-• 
-Test tube .
-• 
-Plastic .
-• 
-Water and salt solution 
-• 
+PE25. City of Buenos Aires. Blue.
+
+Specific weight and Archimedes
+
+Objective:
+When submerging a body in a liquid we see that it receives an upward force called buoyancy. When its value is equal to the weight of the body, the body will remain floating.
+The objective in this experiment is to determine the specific weight of pure water and that of a salt water solution with Archimedes' formula, in order to then determine the concentration of the solution.
+
+List of materials:
+•
+Graduated cylinder
+•
+Test tube
+•
+Plasticine
+•
+Salt water solution
+•
 Water
-• 
-Accuracy scale 
-• 
-Sheets of millimetre paper 
+•
+Precision balance
+•
+Sheets of graph paper
 
- 
- 
-Instructions: 
- 
-General comments: 
-1) Before you start read all the instructions 
-2) Add to the report comments clarifying the exact procedure used in each case.
-I'm going through. If possible, include a clarifying drawing. 
-3) Write down the data obtained from the measurements in tables 
-4) Please explain any changes or deviations from the instructions, together with a brief explanation of 
-His motive. 
-5) Try to be prolific. 
- 
-Theoretical introduction 
-The forces to which submerged bodies are subject are weight and thrust. 
- 
-P = m.g 
- 
- 
- 
-E = pe.Vs 
-m: body mass 
- 
- 
-Pe: specific liquid weight = Weight / Volume 
- 
-The following shall be added to the list of the following:
- 
-Vs: Submerged volume 
- 
-The condition of equilibrium or floating is: 
- 
-P = E;  P = pe.Vs 
- 
+
+
+Instructions:
+
+General comments:
+1) Before starting, read all the instructions
+2) Add to the report the comments that clarify the exact procedure you used in each step. If possible also include a clarifying drawing.
+3) Write the data obtained in the measurements in tables
+4) Clarify any change or deviation from the instructions, together with a brief explanation of its reason.
+5) Try to be neat.
+
+Theoretical introduction
+The forces to which submerged bodies are subject are weight and buoyancy.
+
+P = m.g
+
+
+
+E = pe.Vs m: mass of the body
+
+
+pe: specific weight of the liquid = Weight  / Volume
+
+g: gravity = 9.82 m/s2
+
+Vs: Submerged volume
+
+The equilibrium or floating condition is:
+
+P = E;  P = pe.Vs
+
 (1) 
  
-Part 1: Procedure and measurements 
-1) Calculate the mass of the floating body (pipe plus plasticine) using the accuracy scale 
-2) Place the liquid inside the sample until it is filled by about half. 
-3) Insert the test tube with pieces of plasticine inside with the part open upwards. Have it .
-the precaution that no liquid is introduced into the tube. 
-4) Measure the initial and final volume within the sample to calculate the submerged volume. 
-5) Repeat these measurements for at least 10 different weights, and once with each liquid. 
-6) Graph the results obtained and obtain the weight-to-volume ratio of the submerged water.
-body. Determine the specific weight of each of the liquids used. Which corresponds to the 
-Pure water and what to the solution? 
+Part 1: Procedure and measurements
+1) Calculate the mass of the floating body (tube plus modeling clay) with the precision balance
+2) Place the liquid inside the graduated cylinder until it is approximately half full.
+3) Insert the test tube with pieces of modeling clay inside it, with the open part facing upward. Take care that no liquid enters the tube.
+4) Measure the initial and final volume inside the graduated cylinder in order to calculate the submerged volume.
+5) Repeat these measurements for at least 10 different weights, and once with each liquid.
+6) Plot the results obtained and obtain the relationship between the weight and the submerged volume of the body. Determine the specific weight of each of the liquids used. Which one corresponds to pure water and which one to the solution?
+
+Part 2: Calculation of the concentration of the solution
+Solutions are characterized by having two components: solvent and solute. In our case the solvent is water and the solute is salt. One of the ways to express the concentration of a solution is with the expression m / v sto/sc, that is, how many grams of solute there are in 100 ml of solution. For example, a 10 m/v solution has 10 g of solute in 100 ml of solution; then 50 ml of that solution will have 5 g of solute.
+What is asked is that you calculate the m/v concentration of the solution from its specific weight and from the specific weight of water. Neglect the volume occupied by the salt in the solution.
  
-Part 2: Calculation of the concentration of the solution 
-The solutions are characterised by having two components: solvent and solvent. In our case the
-Solvent is water and solvent is salt. One way to express the concentration of a solution 
-is with the expression m/v sto/sc, this is how many grams of solvent are in 100ml solution. By 
-For example, a solution of 10 m/v has 10 g of solvent in 100 ml of solution; then 50 ml of that solution.
-solution will have 5g of solvent. 
-What is required is that the m/v concentration of the solution is calculated from its specific weight and a
-from the specific weight of the water. Discount the volume of salt in the solution. 
- 
-Part 3: Preparation of a report 
-Write a report of the experience that contains the following information: 
-• 
-Title 
-• 
-The Commission has also adopted a number of proposals for the
-• 
-Hypothesis 
-• 
-Description of the experimental device (text and drawing) 
-• 
-Details of how the measurements were made (text and drawing) 
-• 
-Measurements / Tables 
-• 
-Graphics (in millimetre sheet) 
-• 
+Part 3: Preparation of a report
+Write a report on the experiment carried out that contains the following information:
+•
+Title
+•
+Introduction (brief)
+•
+Hypothesis
+•
+Description of the experimental setup (text and drawing)
+•
+Details about how the measurements were made (text and drawing)
+•
+Measurements / Tables
+•
+Graphs (on graph paper)
+•
 Calculations
-• 
-Calculation of errors 
-• 
-Results obtained 
+•
+Error calculations
+•
+Results obtained
 
- 
- 
-• 
-The Commission has also adopted a number of proposals.
-• 
-Conclusions 
-And any information you deem relevant
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
 
+•
+Final comments
+•
+Conclusions
+And any information you consider relevant
 
 
 <span class="atom-split" id="q142" data-atom="q142" data-title="Argent 2005 Locale — Quesito 142" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono"></span>
@@ -20815,80 +20110,67 @@ Fabbriche di millimetri
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test chemical is used to determine the relative humidity of the test chemical.
+**PE26 Relative humidity of the laboratory**
 
-PE26. City of Buenos Aires. Green, please. 
- 
-Objectives: 
-The purpose of this practice is to determine the relative humidity of the laboratory. 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
-The air we breathe has dissolved a large amount of water vapor. This steam exerted pressure.
-called water vapor pressure. For each temperature there is a maximum saturation pressure 
-The amount of water vapor that the air can absorb is the maximum amount of water vapor that the air can absorb. If the water vapor is
-He finds the saturation pressure and tries to evaporate more water, the air can't take more.
-water vapor, and thus condensation occurs. The following table contains the pressures 
-saturated for some temperatures. 
- 
-T   [ºC] 
-p   [pa] 
-t   [ºC] 
-p   [pa] 
-t   [ºC] 
-p   [pa] 
--10 
-261 
-2 
-705 
-50 
-12340 
--5 
-403 
-5 
-872 
-60 
-19920 
--2 
-518 
-10 
-1227 
-70 
-31160 
--1 
-562 
-20 
-2337 
-80 
-47360 
-0 
-611 
-30 
-4242 
-90 
-70110 
-1 
-656 
-40 
-7375 
-100 
-101325 
- 
-The relative humidity can be obtained by the ratio of water vapour pressure to the
-water vapor saturation pressure for the existing temperature. 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Water
-Glass receivers. 
-It's a thermometer. 
-Iced water. 
-Other, of a width of <= 600 mm
+PE26. City of Buenos Aires. Green.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+OBJECTIVES:
+The objective of this experiment is to determine the relative humidity of the laboratory.
 
+INTRODUCTION:
+The air we breathe has a certain amount of water vapor dissolved in it. This vapor exerts a pressure called water vapor pressure. For each temperature there is a maximum saturation pressure related to the maximum amount of water vapor that the air can admit. If the water vapor is at the saturation pressure and more water is to be evaporated, the air cannot admit more water vapor, and therefore condensation occurs. The following table contains the saturation pressures for some temperatures.
+
+T   [ºC]
+p   [pa]
+t   [ºC]
+p   [pa]
+t   [ºC]
+p   [pa]
+-10
+261
+2
+705
+50
+12340
+-5
+403
+5
+872
+60
+19920
+-2
+518
+10
+1227
+70
+31160
+-1
+562
+20
+2337
+80
+47360
+0
+611
+30
+4242
+90
+70110
+1
+656
+40
+7375
+100
+101325
+
+ The relative humidity can be obtained from the ratio between the water vapor pressure and the saturation water vapor pressure at the existing temperature.
+
+ELEMENTS:
+ Water
+ Glass containers.
+ Thermometers.
+ Ice.
+ Millimeter graph paper.
 
 
 <span class="atom-split" id="q143" data-atom="q143" data-title="Argent 2005 Locale — Quesito 143" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
@@ -22229,228 +21511,164 @@ ESCEMO C
 
 <div class="qlang-split" data-lang="en"></div>
 
-The total transmission coefficient of water-glass-water **
+**PE34 Total water-glass-water transmission coefficient**
 
-PE34. City of Buenos Aires. Green, please. 
- 
-Theoretical introduction 
-The difference in temperature between two points in a system causes the passage of a quantity of 
-heat in the direction of decreasing temperatures. If the temperature of each point remains
-The amount of heat is fully transmitted; consequently, the
-The temperature of each point is only a function of its coordinates: t=f(x;y;z); in this case, the regime of 
-heat transmission is called stationary. 
-If the temperature of each point varies with the s coordinates and also with time, the 
-The amount of heat is not fully transmitted, t=f(x;y;z;τ); in this case the regime is called variable. 
- 
-Heat transmission modes 
-Driving
-It is produced by the exchange of molecular kinetic energy. Transmission is carried out without variation in the
-relative positions of body particles, whether solid, liquid or gas. It is carried out through the 
-It is the same and predominant in solids. The mathematical expression known as Fourier's law, governs
-This phenomenon: 
-∆Q                        σt 
----- = - λ x ∆S x  ---- 
-∆ζ                        σe 
-Where: 
-λ = Driving coefficient 
-∆S = Contact area 
-σe = thickness 
-∆Q = Amount of heat transferred 
-σt = temperature differential 
+PE34. City of Buenos Aires. Green.
+
+Theoretical introduction
+The temperature difference between two points of a system causes the passage of a quantity of heat in the direction of decreasing temperatures. If the temperature of each point remains invariable with time, the quantity of heat is totally transmitted; consequently, the temperature of each point is only a function of its coordinates: t=f(x;y;z); in this case, the heat transmission regime is called steady.
+On the other hand, if the temperature of each point varies with the coordinates and also with time, the quantity of heat is not totally transmitted, t=f(x;y;z;τ); in this case the regime is called variable.
+
+Forms of Heat transmission
+Conduction
+It is produced by exchange of molecular kinetic energy. The transmission is carried out without the relative positions of the particles of the body varying, whether it be solid, liquid or gas. It is carried out through the body itself and predominates in solids. The mathematical expression known as Fourier's law governs this phenomenon:
+∆Q                        σt
+---- = - λ x ∆S x  ----
+∆ζ                        σe
+Where:
+λ = Conduction coefficient
+∆S = Contact surface
+σe = thickness
+∆Q = Quantity of heat transferred
+σt = temperature differential
 ∆ζ = Time 
  
 Convection
-When a fluid body comes into contact with a solid surface whose temperature is
-The heat exchange is different from the heat exchange itself and will vary its thermal state.
-both their relative specific weight, causing a shift in the heat exchanging portion, 
-creating movement in the fluid. This process is called convection. The mathematical expression 
-known as Newton's law, governs this phenomenon:
-∆Q                       
----- = - h x ∆S x  (t2-θ2) 
-∆ζ                        
- 
-Where: 
-The value of the input coefficient shall be the sum of the values of the input coefficients.
+When a body in a fluid state comes into contact with a solid surface whose temperature is different from its own, a heat exchange occurs that will change its thermal state and therefore its relative specific weight, causing a displacement of the portion that exchanges heat, creating a movement in the fluid. This process is called convection. The mathematical expression known as Newton's law governs this phenomenon:
+∆Q
+---- = - h x ∆S x  (t2-θ2)
+∆ζ
 
- 
- 
-∆S = Contact area 
-∆Q = Amount of heat transferred 
-∆ζ = Time 
-(t2-θ2) = Temperature differential 
- 
-Heat transmission through an indefinite wall of parallel and flat faces. 
-When two uniform temperature fluids θ1 and θ2 being θ1 > θ2 are separated by a wall of 
-thickness and as shown in Figure 1, the amount of heat transmitted through the wall by
-unit of time on a surface can be written as: 
-∆Q                       
----- = k x ∆S x  (θ1 -θ2) 
-∆ζ                        
-Where 
-k = Total transmission coefficient 
-∆S = Contact area 
-∆Q = Amount of heat transferred 
-∆ζ = Time 
-(θ1 -θ2) = temperature differential 
- 
-(This is related to the coefficients of the wall's conduction λ and apparent convection of 
-the surfaces.) 
- 
-A body 's cooling down .
-If you have a surface body S and mass m with an initial surface temperature tc and you get it 
-It is immersed in the breast of an infinite fluid of uniform temperature θ, if it turns out that tc > θ the body 
-It would cool down, following the law shown in Figure 2, and whose mathematical expression
-The following is deduced 
- 
-We set a balance, knowing that the heat given by the body is total and exclusively received.
-by fluid: 
- 
-- m (mass) x C (specific heat) x dt (temperature differential) = hap (transmission coefficient 
-(Apparent) x S (surface) x (t- θ) x dζ (time differential) 
- 
-The ordering of the variables is: 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
---------  =  -  --------------- 
- (t- θ )                  m 
- 
-Integrating both members between t0 and t: 
- 
-t 
- 
-                       ζ 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
- 
---------  =  -  -----------  
-  
- (t- θ )                  m 
- 
-t0  
- 
-                     ζ0 
-Applying the antithesis to both limbs, operating mathematically, we can get to the
-the following expression: 
- 
-∆Q                               ∆Q 
----- = hap x S x (t -ta) = ------ 
-∆ζ                                ∆ζ    ζ1                 
- 
- 
+Where:
+   h = Convection coefficient
 
- 
- 
-Materials to be used: 
- 
-1 Calorimeter with lid 
-Two thermometers .
-1 50 ml ball 
-Water quantity required 
-1 rubber stopper 
-1 Tripod 
-1 pinza with nut 
-1 Mechero 
-1 Metallic fabric 
-Millimeter sheets 
-1 Timekeeper 
-1 sample of 1 L 
-1 glass of precipitated 500 ml 
-Paper napkins .
-1 caliber 
- 
-Objective of the practical 
-Determine the total transmission coefficient water  glass - water 
- 
-Practical development: 
- 
-1- Water is inserted into the calorimeter, the amount needed for the balloon to be submerged,
-measure the amount of water placed and take the temperature (ta) 
-2- Fill the balloon with 50 ml of water, close it with a cap that holds a thermometer, have the
-The bulb should be kept in the center of the ball. 
-3- It is heated in the bathroom Maria, to a temperature above 95 °C, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is removed from the bathroom Maria, is heated to a temperature above the bathroom Maria, is heated to a temperature above the bathroom Maria, is heated to a temperature above the bathroom Maria, is heated to a temperature above the bathroom Maria, is heated to a temperature above the bathroom Maria, is heated to the bathroom Maria, is heated to the bathroom Maria, is heated to the bathroom Maria, is heated to the bathroom Maria, is heated to the bathroom Maria, is heated to the bathroom, is heated to the bathroom, and is heated to the bathroom, and is heated to the bathroom, and is heated to the bathroom, and is heated to the bathroom, and is heated to the bathroom, and is heated to the bathroom, and is heated to the bathroom.
-dry, put it in the thermometer. The elements must be in order as shown by the
-Scheme C. 
-Precautions: 
-(a) The water from the thermometer must cover the ball completely 
-(b) The bulbs of the thermometers must be at the same height.
-(c) The thermometer of the thermometer shall be as close as possible to the thermometer without touching it.
-4- the moment the ball is inserted into the calorimeter, the timer is started. 
-You must not be agitated. Readings of the two thermometers are recorded at 30-second intervals until the thermometer is
-The time when the difference in temperature between the ball and the temperature of the thermometer is around 
-two degrees. 
-5- The diameter of the ball (D) is measured by caliber. (Effect several measurements and average them, have in 
-the measurement error is calculated) 
- 
-Theoretical development 
-1- With the ζ vs. Tb. (ball temperatures) and tc (calorometer temperature) are
-They're mapping the cooling of the ball and the heating of the calorimeter into the same chart. 
-2- For an instant ζ1 the following convection heat transfer equation can be put forward 
-according to: 
-∆Q                       
----- = k x ∆S x  (tb-tc) i  
-∆ζ               
-where k is the total transmission coefficient of water  glass - water 
-3- For the same instant ζ1 a calorimetric equation can be proposed according to: 
-∆Q                        
- 
-             σt 
----- = mass of water x specific heat of water x ----
-∆ζ                         
- 
-             σζ     i 
- 
 
- 
- 
-4- Equalizing member to member and clearing the corresponding Kse coefficient
-It gets: 
- 
- 
- 
-          σt 
-Mass water x specific heat water x ----
- 
- 
- 
-          σζ 
-k = ---------------------------------------------------  
- 
-           
- 
-S x (tb-tc)  
- 
-5- The temperature differential (tb-tc) and the derivative σt can be measured on the graph 
-or calculated from the table of values. 
-              ---   
- 
- 
- 
- 
- 
-               σζ  
-6- The surface S is calculated by: 
-S = π x r 2 
- 
-7- Calculate K 
- 
-8- Determine the error of K. 
- 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 
+  ∆S = Contact surface
+  ∆Q = Amount of heat transferred
+   ∆ζ = Time (t2-θ2) = Temperature differential
+
+Heat transmission through an indefinite wall with parallel flat faces.
+When two fluids at uniform temperatures θ1 and θ2, with θ1 > θ2, are separated by a wall of thickness e as shown in figure 1, the amount of heat transmitted through the wall per unit time over a surface can be written as:
+∆Q
+---- = k x ∆S x  (θ1 -θ2)
+∆ζ where k = Total transmission coefficient
+  ∆S = Contact surface
+  ∆Q = Amount of heat transferred
+   ∆ζ = Time (θ1 -θ2) = Temperature differential
+
+(This is related to the conduction coefficients of the wall λ and the apparent convection of the surfaces.)
+ 
+Cooling of a body
+If there is a body with surface area S and mass m at an initial surface temperature tc and it is immersed in an infinite fluid at uniform temperature θ, if it turns out that tc > θ the body will cool, following over time the law shown in figure 2, and whose mathematical expression is derived below
+
+We set up a balance, knowing that the heat given off by the body is totally and exclusively received by the fluid:
+
+- m (mass) x C (specific heat) x dt (temperature differential) = hap (apparent transmission coefficient) x S (surface area) x (t- θ ) x dζ (time differential)
+
+Rearranging the variables gives:
+
+    dt              hap x S x dζ
+--------  =  -  --------------- (t- θ )                  m
+
+Integrating both sides between t0 and t :
+
+t
+
+                       ζ
+
+    dt              hap x S x            dζ
+
+--------  =  -  -----------
+
+ (t- θ )                  m
+
+t0
+
+                     ζ0
+Applying the antilogarithm to both sides, operating mathematically, we can arrive at the following expression:
+
+∆Q                               ∆Q
+---- = hap x S x  (t -ta) = ------
+∆ζ                                ∆ζ    ζ1
+
+
+
+
+
+Materials to Use: 
+ 
+1 Calorimeter with lid
+2 thermometers
+1 50 ml flask
+Water, required amount
+1 rubber stopper
+1 Tripod
+1 Clamp with nut
+1 Burner
+1 Wire gauze
+Graph paper sheets
+1 Stopwatch
+1 1 L graduated cylinder
+1 500 ml beaker
+Paper napkins
+1 caliper
+
+Objective of the practical
+Determine the total transmission coefficient water – glass - water
+
+Practical Development: 
+ 
+1- Water is introduced into the calorimeter, the amount necessary for the flask to be submerged; the amount of water placed is measured and the temperature is taken (ta)
+2- The flask is filled with 50 ml of water, it is closed with a stopper that holds a thermometer; take care that the bulb remains in the center of the flask.
+3- It is heated in a water bath to a temperature above 95 °C, it is removed from the water bath, dried, and placed in the calorimeter. The elements should be arranged as shown in diagram C.
+Precautions:
+a) The water in the calorimeter must completely cover the flask
+b) The bulbs of the thermometers must be at the same height
+c) The calorimeter thermometer must be as close as possible to the calorimeter without touching it
+4- At the instant the flask is introduced into the calorimeter, the stopwatch is started.
+It must not be stirred. Readings from the two thermometers are recorded at intervals of 30 seconds until the moment when the temperature difference between the flask and the calorimeter temperature is about 2 degrees.
+5- The diameter of the flask (D) is measured with a caliper. (Take several measurements and average them; take the measurement error into account)
+ 
+Theoretical development
+1- With the table of values ζ vs. Tb (balloon temperatures) and tc (calorimeter temperature), the cooling curve of the balloon and the heating curve of the calorimeter are plotted on the same graph.
+2- For an instant ζ1, the following heat transmission equation by convection can be formulated as:
+∆Q
+---- = k x ∆S x  (tb-tc) i
+∆ζ where k is the total transmission coefficient of water – glass – water
+3- For the same instant ζ1, a calorimetric equation can be formulated as:
+∆Q
+
+             σt
+---- = masswater x Specific heatwater x    ----
+∆ζ
+
+             σζ     i
+
+4- Equating member by member and performing the corresponding solving for the coefficient K, we obtain:
+
+          σt masswater x Specific heatwater x    ----
+
+          σζ k = ---------------------------------------------------
+
+S x (tb-tc)
+
+5- The temperature differential (tb-tc) and the derivative       σt        can be measured on the graph or calculated from the table of values.
+              ---
+
+               σζ
+6- The surface S is calculated with:
+S = π x r 2
+7- K is calculated
+8- Determine the error of K.
+
+DIAGRAM C
 
 <!--fig:start-->
 ![[cuadernillo_2005_p92_f1.png]]
 ![[cuadernillo_2005_p92_f2.png]]
 ![[cuadernillo_2005_p92_f3.png]]
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
-
 
 
 <span class="atom-split" id="q151" data-atom="q151" data-title="Argent 2005 Locale — Quesito 151" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/spring"></span>
@@ -22892,160 +22110,96 @@ g = ∆V / ∆t = (V2-V1) / t1-2 =
 
 <div class="qlang-split" data-lang="it"></div>
 
-**PE37 Accelerazione della gravità con risorse idrodinamiche**
+**PE37 Accelerazione di gravità con risorse idrodinamiche**
 
-PE37. Città di Buenos Aires. Verde. 
+PE37. Città di Buenos Aires. Verde.
+
+Verifica sperimentale del valore dell'accelerazione di gravità con risorse idrodinamiche.
+
+Scopo dell'esperienza: Verificare sperimentalmente il valore dell'accelerazione di gravità con risorse idrodinamiche.
+
+Introduzione teorica: L'idea su cui si basa questo metodo per misurare "g" proviene dalla seguente osservazione evidente: un getto d'acqua (foto), o di un altro fluido, si assottiglia sempre di più man mano che scende. Ciò è dovuto al fatto che, se in un dato tempo una goccia d'acqua va da A ad A', generando un volume "Vol1", in quello stesso tempo, una goccia situata in B passa fino a B', essendo BB'>AA', poiché per l'azione di "g", la velocità aumenta, per cui il getto deve assottigliarsi per mantenere l'uguaglianza
+VOL1=VOL2. Matematicamente, ciò può essere espresso così, confrontando i
+"cilindri" 1 e 2:
+VOL1=VOL2  => Sezione media AA' x AA' = Sezione media BB' x
+BB'
+Dove AA' e BB' sono le distanze tra A e A' e B e B' rispettivamente. Se dividiamo m.a m. per ∆t, il tempo di transito
+AA' (o BB') sarà:
+SAA' x AA' / ∆t = SBB' x BB' 7 ∆T  => S1V1=S2V2 essendo SAA' e SBB' le sezioni medie calcolate sopra.
+D'altra parte, se abbiamo cura di mantenere un flusso stazionario, cioè non variabile, dividendo per ∆t, si ottiene:
+VOL1 /∆t = VOL2/∆t=Q, dove Q è la portata, con cui arriviamo a
+S1V1=S2V2 = Q ó SV=Q (EQUAZIONE DI CONTINUITÀ)
  
-Verificazione sperimentale del valore dell'accelerazione della gravità con risorse 
-- I sistemi di controllo sono idrodinamici. 
- 
-Obiettivo dell'esperienza: verificare sperimentalmente il valore della
-Accelerazione della gravità con risorse idrodinamiche. 
- 
-Introduzione teorica: l'idea su cui si basa questo metodo per misurare g 
-si tratta di un'evidente osservazione: un jet d'acqua (foto), o
-Un altro fluido si sta riducendo sempre più in forma mentre scende. Questo è 
-perché, se in un certo periodo di tempo una goccia di acqua va da A a A,
-generando un volume Vol1, allo stesso tempo, una goccia situata in B, 
-passa fino a B, essendo BB>AA, poiché per l'azione di g, la velocità 
-La crescita della crescita è una delle principali cause della crescita.
-VOL1 = VOL2. Matematicamente, questo può essere espresso così, confrontando i 
-Cilindri  1 e 2: 
-VOL1=VOL2 => Sezione media AA x AA = Sezione media BB x 
-BB’ 
-Dove AA e BB sono le distanze tra A e A e B e B 
-rispettivamente. Se dividiamo m.a.m. per ∆t, tempo di transito 
-AA (o BB) sarà: 
-SAA x AA / ∆t = SBB x BB 7 ∆T => S1V1=S2V2 
-Se il valore di un'operazione è inferiore a quello di un'operazione di cui all'articolo 2, paragrafo 1, lettera a), del regolamento (CE) n. 
-D'altra parte, se siamo attenti a mantenere un flusso fisso, è
-dire non variabile, dividendo da ∆t, resta: 
-VOL1 /∆t = VOL2/∆t=Q, 
-dove Q è il flusso, con cui arriviamo a 
-S1V1=S2V2 = Q ó SV=Q 
-(Continuazione) 
- 
-Procedura di calcolo 
-Se nell'equazione S1V1=S2V2=Q potessimo misurare il flusso Q e le
-Sezioni S1 e S2, potremmo calcolare V1 e V2. Se sapessimo anche il tempo di transito da A
-fino a B, tAB, calcoliamo g come segue: 
-G = (V2  V1) / tAB 
-Ora, tAB può essere calcolato facendo 
-tAB = AB / VmediaAB 
-essendo 
-VmediaAB = (V1 + V2) / 2 
-- per essere un MRUA. Per quanto riguarda il flusso Q, poiché è un flusso stazionario, si può 
-calcolare riempendo un volume arbitrario e dividendolo per il tempo di riempimento: 
-Q = Vol / TELLENATO 
-in seguito viene dato un sequenza di calcolo, in modo guida. 
- 
-Procedura sperimentale e sequenza di calcolo 
-Con due proiettori di diapositive si proiettano le parti superiori e inferiori di un jet d'acqua, 
-simile a quello mostrato in figura 1, proveniente da una canina. Le sezioni 1 e 2 del jet fanno le volte
-Le immagini sono state illustrate in due forme: 2). Sotto il jet.
-di acqua si pone un recipiente per contenere l'acqua in caduta libera. L'obiettivo è misurare con precisione.
-i diametri d1 e d2 per poi calcolare le sezioni S1 e S2, che insieme al flusso Q ci porteranno a 
-conoscere le velocità v1 e v2, il tempo di transito per il caduto 1-2 e infine, g. 
+Procedimento di calcolo
+Se nell'equazione S1V1=S2V2=Q potessimo misurare la portata Q e le sezioni S1 e S2, potremmo calcolare V1 e V2. Se inoltre conoscessimo il tempo di transito da A a B, tAB, calcoleremmo "g" nel modo seguente:
+G = (V2 – V1) / tAB
+Ora, tAB si può calcolare ponendo tAB = AB / VmediaAB essendo
+VmediaAB = (V1 + V2) / 2 trattandosi di un MRUA. Per quanto riguarda la portata Q, trattandosi di un flusso stazionario, si può calcolare riempiendo un volume arbitrario e dividendolo per il tempo di riempimento:
+Q = Vol / tRIEMPIMENTO di seguito viene data una sequenza di calcolo, a mo' di guida.
+
+Procedimento sperimentale e sequenza di calcolo
+Con due proiettori di diapositive si proiettano le parti superiore e inferiore di un getto d'acqua, simile a quello mostrato in fig. 1, proveniente da un rubinetto. Le sezioni 1 e 2 del getto fungono da diapositive e sulla lavagna si vedono come immagini due curve morbide, (fig. 2). Sotto il getto d'acqua si colloca un recipiente per contenere l'acqua in caduta libera. L'obiettivo è misurare con precisione i diametri d1 e d2 per poi calcolare le sezioni S1 e S2, che insieme alla portata Q, ci porteranno a conoscere le velocità v1 e v2, il tempo di transito per la caduta 1-2 e infine, "g".
  
  
  
 
  
  
-i. Misurazione e calcolo per i diametri d1 e d2 
-Sono misurati (fig. 2), con precisione di 1/100mm, (torno 
-La dimensione di un'area di riferimento è di 0,0 mm,
-Le sementi che hanno l'unico scopo di essere proiettate insieme al
-Stretto d'acqua per determinare quale sia l'aumento di dimensione 
-prodotto durante la proiezione, che sarà: 
-Aumento della proiezione 1 = A1 = dv1p / dv1 
-Il diametro reale d1 del jet è: 
-d1 = dimensione dell'immagine / aumento = d1p / A1 
-In modo analogo si determina il diametro reale d2 della 
-parte inferiore del jet: 
-d2 = d2p / A2 
-dove A2 è l'aumento laterale nella proiezione inferiore: 
-A2 = dv2p / dv2 
-ii. Sezioni S1 e S2 
-saranno
-S1 = π(d1/2)2 y S2 = π(d2 / 2)2 
-iii. Caudal Q 
-Misurato il volume Vol depositato (fig. 1) e il 
-Il tempo impiegato per farlo, sarà 
-Q = Vol / t 
-iii. V1 e V2 velocità 
-De 
-la 
-Equatoria 
-de 
-continuità 
-vista 
-precedentemente, 
-V1S1 = V2S2 = Q 
-- Chiariamo:
-V1 = Q / S1   y    V2 = Q / S2 
- 
-iv. Tempo di transito in caduta 1-2 
-Se si considera l'MRUA di un piccolo 
-volume di acqua che cade nel jet da 1 
-fino a 2, sarà: 
-tempo di transizione1-2 = h1-2 / Vmedia1-2 = h1-2 / 
-½(V1+V2) 
-v. Calcolo dell'accelerazione g della 
-gravità 
+i. Misurazione e calcolo per i diametri d1 e d2
+Si misurano (fig 2), con precisione di 1/100mm, (vite micrometrica), i diametri reali di dv1 e dv2, di due steli il cui unico scopo è essere proiettati insieme al getto d'acqua per determinare qual è l'aumento di dimensione prodotto durante la proiezione, il quale sarà:
+Aumento proiezione 1 = A1 = dv1p / dv1
+Con cui il diametro reale d1 del getto risulta:
+d1 = dimensione immagine / aumento = d1p / A1 in modo analogo si determina il diametro reale d2 della porzione inferiore del getto:
+d2 = d2p / A2 dove A2 è l'aumento laterale nella proiezione inferiore:
+A2 = dv2p / dv2 ii. Sezioni S1 e S2 saranno
+S1 = π(d1/2)2 e S2 = π(d2 / 2)2 iii. Portata Q misurati il volume Vol depositato ( fig 1) e il tempo t impiegato per esso, sarà
+Q = Vol / t iii. Velocità V1 e V2
+Dall'equazione di continuità vista precedentemente,
+V1S1 = V2S2 = Q
+Ricaviamo:
+V1 = Q / S1   e    V2 = Q / S2
+
+iv. Tempo di transito nella caduta 1-2
+Se si considera il MRUA di un piccolo volume d'acqua che cade nel getto da 1 fino a 2, sarà:
+tempo transito1-2 = h1-2 / Vmedia1-2 = h1-2 /
+½(V1+V2)
+v. Calcolo dell'accelerazione "g" di gravità
 Avremo:
-g = ∆V / ∆t = (V2-V1) / t1-2 
- 
+g = ∆V / ∆t = (V2-V1) / t1-2
+
 Valori misurati e calcolati. 
  
-i. I diametri d1 e d2 (fig. 2) 
-diametri reali degli alberi 
-dv1 =  
-dv2 = 
-diametri degli alberi progettati 
-dv1p = 
-dv1 = 
-Aumento delle proiezioni 
-Aumento della proiezione 1 
-A1 = dv1p /dv1 
-Aumento della proiezione 2 
-A2 = dv2p / dv2 
- 
- 
+i. Diametri d1 e d2 (fig 2)
+diametri reali degli steli dv1 = dv2 = diametri degli steli proiettati dv1p = dv1 =
+Ingrandimento prodotto nelle proiezioni
+Ingrandimento proiezione 1
+A1 = dv1p /dv1
+Ingrandimento proiezione 2
+A2 = dv2p / dv2
 
- 
- 
-diametro reale del jet 
-- Il tratto superiore
-d1 = d1p / A1 = 
-Strato inferiore 
-d2 = d2p / A2 = 
- 
-ii. Sezioni S1 e S2 
-S1 = π(d1/2)2= 
-S2 = π(d2/2)2= 
- 
-iii. Caudal Q 
-volume depositato (fig. 1) 
-Vol = 
-tempo di riempimento 
-t = 
-Flusso
-Q = Vol / t = 
- 
-iii. V1 e V2 velocità 
-V1 = Q / s1= 
-V2 = Q / S2= 
- 
-iv. Tempo di transito in caduta 1-2 
-- velocità media di caduta 1-2 
-Vmedia 1-2 = 1⁄2(V1+V2) = 
-Tempo di transito scende 1-2 
-t1-2 = h1-2 / Vmedia 1-2 = 
- 
-v. Calcolo dell'accelerazione g della gravità 
-g = ∆V / ∆t = (V2-V1) / t1-2 =
 
+
+
+
+
+
+diametro reale del getto tratto superiore d1 = d1p / A1 = tratto inferiore d2 = d2p / A2 =
+
+ii. Sezioni S1 e S2
+S1 = π(d1/2)2=
+S2 = π(d2/2)2=
+
+iii. Portata Q volume depositato (fig 1)
+Vol = tempo di riempimento t = portata
+Q = Vol / t =
+
+iii. Velocità V1 e V2
+V1 = Q / s1=
+V2 = Q / S2=
+
+iv. Tempo di transito nella caduta 1-2 velocità media caduta 1-2 vmedia 1-2 = ½(V1+V2)= tempo transito caduta 1-2 t1-2 = h1-2 / Vmedia 1-2 =
+
+v. Calcolo dell'accelerazione "g" di gravità g = ∆V / ∆t = (V2-V1) / t1-2 =
 
 <!--fig:start-->
 ![[cuadernillo_2005_p94_f1.png]]
@@ -23053,168 +22207,97 @@ g = ∆V / ∆t = (V2-V1) / t1-2 =
 ![[cuadernillo_2005_p95_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PE37 Gravity acceleration with hydrodynamic resources**
+**PE37 Acceleration of gravity with hydrodynamic resources**
 
-PE37. City of Buenos Aires. Green, please. 
+PE37. City of Buenos Aires. Green.
+
+Experimental verification of the value of the acceleration of gravity with hydrodynamic resources.
+
+Purpose of the experiment: To experimentally verify the value of the acceleration of gravity with hydrodynamic resources.
+
+Theoretical introduction: The idea on which this method for measuring "g" is based comes from the following obvious observation: a jet of water (photo), or another fluid, becomes progressively thinner as it descends. This is because, if in a given time a drop of water goes from A to A', generating a volume "Vol1", in that same time, a drop located at B passes to B', with BB'>AA', since due to the action of "g", the velocity increases, so the jet must become thinner to maintain the equality
+VOL1=VOL2. Mathematically, this can be expressed as follows, comparing the
+"cylinders" 1 and 2:
+VOL1=VOL2  => Average section AA' x AA' = Average section BB' x
+BB'
+Where AA' and BB' are the distances between A and A' and B and B' respectively. If we divide m.a m. by ∆t, the transit time
+AA' (or BB') will be:
+SAA' x AA' / ∆t = SBB' x BB' 7 ∆T  => S1V1=S2V2 where SAA' and SBB' are the average sections calculated above.
+On the other hand, if we are careful to maintain a steady flow, that is, non-variable, when dividing by ∆t, we get:
+VOL1 /∆t = VOL2/∆t=Q, where Q is the flow rate, so we arrive at
+S1V1=S2V2 = Q or SV=Q (CONTINUITY EQUATION)
  
-Experimental verification of the value of the acceleration of gravity with resources 
-The following is the list of the types of hydrodynamic systems: 
- 
-The purpose of the experiment was to test the value of the
-acceleration of gravity with hydrodynamic resources. 
- 
-Theoretical introduction: The idea on which this method is based for measuring g 
-This is the result of the following obvious observation: a water jet (photo), or
-Another fluid thins more and more as it descends. This is it.
-Because if at any given time a drop of water goes from A to A,
-generating a volume Vol1, at the same time, a drop located in B, 
-It goes up to B, being BB>AA, since by the action of g, the velocity 
-The number of people who are in the same age group is increasing, so the jet must be thinned to maintain equality.
-VOL1 is equal to VOL2. Mathematically, this can be expressed this way, comparing the 
- cylinders  1 and 2: 
-VOL1=VOL2 => Average section AA x AA = Average section BB x 
-BB’ 
-Where AA and BB are the distances between A and A and B and B 
-the Commission. If we divide m.a.m. by ∆t, transit time 
-AA (or BB) shall be: 
-The following table shows the number of units in the range of the units:
-The average sections calculated above are SAA and SBB. 
-On the other hand, if we're careful to maintain a steady flow, it's 
-say non-variable, divided by ∆t, it is: 
-The following is the list of the following:
-where Q is the flow rate, so we get to 
-S1V1=S2V2 = Q ó SV=Q 
-(CNS) 
- 
-The calculation procedure 
-If in the equation S1V1=S2V2=Q we could measure the flow rate of Q and the 
-S1 and S2 sections, we could calculate V1 and V2. If we also knew the transit time from A
-So we're going to calculate g as follows:
-The following is the list of the following:
-Now, tAB can be calculated by doing 
-The following is the list of the main types of data:
-being 
-VmediaAB = (V1 + V2) / 2 
-For being an MRUA. As for the flow Q, because it is a stationary flow, you can 
-calculate by filling an arbitrary volume and dividing it by the filling time: 
-Q = Vol / trained 
-Then a sequence of calculations is given, in the guideline manner. 
- 
-Experimental procedure and calculation sequence 
-Two slide projectors project the upper and lower parts of a water jet, 
-similar to that shown in Figure 1, coming from a straw. Sections 1 and 2 of the jet make the times.
-The two smooth curves on the slide and on the board are seen as images, (fig. 2). Under the jet .
-A water container is placed to hold the water in free fall. The aim is to measure accurately 
-The diameters d1 and d2 to then calculate the sections S1 and S2, which together with the flow Q, will lead us to 
-Know the velocities v1 and v2, the transit time for fall 1-2 and finally, g. 
+Calculation procedure
+If in the equation S1V1=S2V2=Q we could measure the flow rate Q and the cross-sections S1 and S2, we could calculate V1 and V2. If we also knew the transit time from A to B, tAB, we would calculate "g" as follows:
+G = (V2 – V1) / tAB
+Now then, tAB can be calculated by taking tAB = AB / VmediaAB where
+VmediaAB = (V1 + V2) / 2 since it is a uniformly accelerated motion (MRUA). As for the flow rate Q, since it is a steady flow, it can be calculated by filling an arbitrary volume and dividing it by the filling time:
+Q = Vol / tFILLING below is a calculation sequence, as a guide.
+
+Experimental procedure and calculation sequence
+With two slide projectors, the upper and lower parts of a water jet, similar to the one shown in fig. 1, coming from a faucet, are projected. Cross-sections 1 and 2 of the jet act as slides and are seen on the blackboard as two smooth curves (fig. 2). Below the water jet, a container is placed to hold the water in free fall. The objective is to precisely measure the diameters d1 and d2 and then calculate the cross-sections S1 and S2, which together with the flow rate Q will lead us to know the velocities v1 and v2, the transit time for the fall 1-2 and finally, "g".
  
  
  
 
  
  
-i. Measurement and calculation for diameters d1 and d2 
-They are measured (fig. 2), with accuracy of 1/100mm, (forklift)
-The actual diameters of the paths are:
-Stems whose sole purpose is to be projected along with the
-Water jet to determine what the size increase is 
-produced during the projection, which shall be: 
-Increase projection 1 = A1 = dv1p / dv1 
-So the actual diameter of the jet d1 is:
-The following table shows the results of the calculations:
-The real diameter of the 
-lower portion of the jet: 
-d2 = d2p / A2 
-where A2 is the lateral increase in the lower projection: 
-A2 = dv2p / dv2 
-ii. Sections S1 and S2 
-They will be
-S1 = π(d1/2)2 y S2 = π(d2 / 2)2 
-(iii) the following: Flow Q 
-The volume of vol deposited (figure 1) and the volume of vol deposited (figure 1) were measured.
-time spent on it, will be 
-Q = Vol / t 
-(iii) the following: V1 and V2 speeds 
-De 
-la 
-Equation 
-de 
-continuity 
-- I see .
-previously, 
-V1S1 = V2S2 = Q 
-Let 's clear up:
-V1 = Q / S1   y    V2 = Q / S2 
- 
-iv. Transit time in the fall 1-2 
-If you consider the MRUA of a small 
-volume of water falling into the jet from 1 
-up to 2, shall be: 
-The time of transit is h1-2 = h1-2 / Vmedia1-2 = h1-2 / 
-½(V1+V2) 
-v. Calculation of the acceleration g of the 
-gravity
-We 'll have:
-g = ∆V / ∆t = (V2-V1) / t1-2 
- 
+i. Measurement and calculation for the diameters d1 and d2
+The actual diameters dv1 and dv2 of two rods are measured (fig. 2), with a precision of 1/100 mm, (micrometer screw gauge), whose sole purpose is to be projected together with the water jet in order to determine the increase in size produced during the projection, which will be:
+Projection increase 1 = A1 = dv1p / dv1
+Thus the actual diameter d1 of the jet is:
+d1 = image size / increase = d1p / A1 similarly the actual diameter d2 of the lower portion of the jet is determined:
+d2 = d2p / A2 where A2 is the lateral increase in the lower projection:
+A2 = dv2p / dv2 ii. Sections S1 and S2 will be
+S1 = π(d1/2)2 and S2 = π(d2 / 2)2 iii. Flow rate Q once the deposited volume Vol (fig. 1) and the time t taken for it have been measured, it will be
+Q = Vol / t iii. Velocities V1 and V2
+From the continuity equation seen above,
+V1S1 = V2S2 = Q
+We solve for:
+V1 = Q / S1   and    V2 = Q / S2
+
+iv. Transit time in the fall 1-2
+If the uniformly accelerated motion of a small volume of water falling in the jet from 1 to 2 is considered, it will be:
+transit time1-2 = h1-2 / Vaverage1-2 = h1-2 /
+½(V1+V2)
+v. Calculation of the acceleration "g" of gravity
+We will have:
+g = ∆V / ∆t = (V2-V1) / t1-2
+
 Measured and calculated values. 
  
-i. Diameters d1 and d2 (figure 2) 
-actual diameter of the trunks 
-dv1 =  
-dv2 = 
-diameters of the projected trunks 
-dv1p = 
-dv1 = 
-Increase in projections 
-Increase projection 1 
-A1 = dv1p /dv1 
-Increase projection 2 
-A2 = dv2p / dv2 
- 
- 
+i. Diameters d1 and d2 (fig 2)
+actual diameters of the stems dv1 = dv2 = diameters of the projected stems dv1p = dv1 =
+Increase produced in the projections
+Projection 1 increase
+A1 = dv1p /dv1
+Projection 2 increase
+A2 = dv2p / dv2
 
- 
- 
-Real jet diameter 
-upper section 
-d1 = d1p / A1 = 
-Lower section 
-d2 = d2p / A2 = 
- 
-ii. Sections S1 and S2 
-S1 = π(d1/2)2= 
-S2 = π(d2/2)2= 
- 
-(iii) the following: Flow Q 
-The amount of the deposit (figure 1) 
-I 'm not going to say .
-Time to fill up .
-t = 
-Flow rate
-Q = Vol / t = 
- 
-(iii) the following: V1 and V2 speeds 
-V1 = Q / s1= 
-V2 = Q / S2= 
- 
-iv. Transit time in the fall 1-2 
-Average speed drop 1-2 
-Vmedia 1-2 = 1⁄2(V1+V2) = 
-Transit time falls 1-2 
-The following shall be added to the list of the following:
- 
-v. Calculation of the acceleration of gravity
-g = ∆V / ∆t = (V2-V1) / t1-2 =
 
+
+
+
+actual diameter of the jet upper section d1 = d1p / A1 = lower section d2 = d2p / A2 =
+
+ii. Sections S1 and S2
+S1 = π(d1/2)2=
+S2 = π(d2/2)2=
+
+iii. Flow rate Q deposited volume (fig 1)
+Vol = filling time t = flow rate
+Q = Vol / t =
+
+iii. Velocities V1 and V2
+V1 = Q / s1=
+V2 = Q / S2=
+
+iv. Transit time in the fall 1-2 average velocity of fall 1-2 vmedia 1-2 = ½(V1+V2)= transit time of fall 1-2 t1-2 = h1-2 / Vmedia 1-2 =
+
+v. Calculation of the acceleration "g" of gravity g = ∆V / ∆t = (V2-V1) / t1-2 =
 
 <!--fig:start-->
 ![[cuadernillo_2005_p94_f1.png]]
@@ -23222,8 +22305,4 @@ g = ∆V / ∆t = (V2-V1) / t1-2 =
 ![[cuadernillo_2005_p95_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+

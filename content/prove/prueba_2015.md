@@ -93,150 +93,88 @@ $g = 10\ \text{m/s}^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un pallone meteorologico.
-Anche se sembra semplice programmare il lancio di un globo
-La meteorologia, rispetto al lancio di un satellite, è
-È necessario fare un diagramma corretto perché è molto importante
-l'apparecchiatura che porta sospesa come le informazioni che si
-vuole ottenere. Perché risolvere il problema reale è complesso,
-Ti sfido a fare qualche calcolo preliminare, che
-La Commissione ha adottato una proposta di regolamento che prevede che le misure di
-Calcoli che ci permettono di stimare il comportamento del globo
-- Meteorologia. Un globo meteorologico, di solito costruito da
-látex y lleno con hidrógeno (H$_2$) por su bajo costo, se utiliza para
-Alzare l'equipaggiamento che permette di misurare diversi parametri di
-interesse meteorologico in funzione dell'altezza (pressione, temperatura,
-umidità relativa, velocità e direzione del vento, concentrazione
-di ozono, ecc.). Poiché la pressione atmosferica diminuisce con
-L'altezza del globolo aumenta il suo volume fino a quando non si rompe, che
-determina la massima altezza che raggiungerà. Può arrivare
-circa a un'altezza di $30000\ \text{m}$ e in alcuni casi
-raggiungere alti del ordine $50000\ \text{m}$.
+Globo meteorologico.
+Sebbene possa sembrare semplice programmare il lancio di un globo meteorologico, rispetto al lancio di un satellite, è necessario fare una corretta progettazione poiché è molto importante l'equipaggiamento che porta sospeso come le informazioni che si desidera ottenere. Poiché risolvere il problema reale è complesso, ti sfido a fare alcuni calcoli preliminari, il che implicherà fare alcune approssimazioni per semplificare i calcoli, che ci permettano di stimare il comportamento del globo meteorologico. Un globo meteorologico, solitamente costruito in lattice e riempito con idrogeno (H$_2$) per il suo basso costo, viene utilizzato per sollevare equipaggiamento che permette di misurare diversi parametri di interesse meteorologico in funzione dell'altitudine (pressione, temperatura, umidità relativa, velocità e direzione del vento, concentrazione di ozono, ecc.). Poiché la pressione atmosferica diminuisce con l'altitudine il globo aumenta il suo volume fino a rompersi, il che determina l'altitudine massima che raggiungerà. Può arrivare approssimativamente a un'altitudine di $30000\ \text{m}$ e in alcuni casi raggiungere altitudini dell'ordine di $50000\ \text{m}$.
 
-Per i calcoli, supponiamo che il pallone che useremo abbia una forma sferica e
-che il gas all'interno (H$_2$) si comporta come un gas ideale, che è sottoposto alla
-la pressione atmosferica e la pressione che il globo esercita su di lei. La pressione esercitata dal globo
-Il gas dipende dal raggio $r$ del globolo e può avvicinarsi per
+Per i calcoli supporremo che il globo che utilizzeremo abbia forma sferica e che il gas al suo interno (H$_2$) si comporti come un gas ideale, il quale è sottoposto alla pressione atmosferica e alla pressione che il globo esercita su di esso. La pressione che il globo esercita sul gas dipende dal raggio $r$ che ha il globo e può essere approssimata da
 
 $$P(r) = K\left[\frac{r_0}{r} - \left(\frac{r_0}{r}\right)^7\right]$$
 
-dove $K$ è una costante che dipende dal globo e $r_0$ è il suo raggio interno quando non è
-gonfiato.
+dove $K$ è una costante che dipende dal pallone e $r_0$ è il suo raggio interno quando non è gonfiato.
 
-I dati disponibili per effettuare i calcoli sono:
+I dati di cui disponiamo per eseguire i calcoli sono:
 
 - Pressione atmosferica: $97000\ \text{Pa}$
 - Temperatura ambiente: $17\ ^\circ\text{C}$
 - $K = 80000\ \text{N/m}^2$
 - $r_0 = 10\ \text{cm}$
 - Densità del lattice: $0{,}96\ \text{g/cm}^3$
-- Spessore della parete del globo deflato: $1{,}5\ \text{mm}$
+- Spessore della parete del pallone sgonfio: $1{,}5\ \text{mm}$
 - Densità dell'aria: $1{.}29\ \text{kg/m}^3$
-- Massa molare di H$_2$: $2\ \text{g/mol}$
-- Massa di apparecchiatura sospesa: $440\ \text{g}$
+- Massa molare dell'H$_2$: $2\ \text{g/mol}$
+- Massa dell'equipaggiamento sospeso: $440\ \text{g}$
 
-a) Calcolare quanti molli di H$_2$ contengono il pallone quando viene inflato fino a un diametro
-interno di $1\ \text{m}$.
-- **B.** Determina il peso totale del globolo gonfiato
-- **C.** Calcola la spinta che si esercita sul pallone al momento del lancio.
-- **D.** Calcola la forza netta applicata sul globo meteorologico (inclusi i
-Equipaggiamento) al momento del lancio.
-e) Determina l'accelerazione del pallone al momento del lancio.
+a) Calcoli quanti moli di H$_2$ contiene il pallone quando viene gonfiato fino a un diametro interno di $1\ \text{m}$.
+- **B.** Determini il peso totale del pallone gonfiato
+- **C.** Calcoli la spinta che si esercita sul pallone al momento del lancio.
+- **D.** Calcoli qual è la forza netta applicata sul pallone meteorologico (incluso l'equipaggiamento) al momento del lancio.
+e) Determini l'accelerazione del pallone al momento del lancio.
 
-Sappiamo che quando il pallone sale l'aria lo stringe.
-il cui modulo per una sfera è $F_v = 6\pi R\eta v$, dove $R$ è il raggio della sfera, $\eta$ è la
-viscosità dell'aria e $v$ è la velocità del globolo.
+Sappiamo che quando il pallone sale l'aria gli esercita un attrito (forza viscosa)
+il cui modulo per una sfera è $F_v = 6\pi R\eta v$, dove $R$ è il raggio della sfera, $\eta$ è la viscosità dell'aria e $v$ è la velocità del pallone.
 
-f) Calcola la velocità limite che il globo raggiungerebbe durante la sua ascesa (solo
-considerando i parametri al momento del lancio)
+f) Calcoli qual è la velocità limite che raggiungerebbe il pallone nella sua ascesa (tenendo conto solo dei parametri al momento del lancio)
 
-Se il minimo spessore del muro del pallone per non rompere il pallone è $0{,}02\ \text{mm}$.
-g) Calcolare il raggio del pallone appena prima di esplodere.
+Se lo spessore minimo della parete del pallone affinché il pallone non si rompa è $0{,}02\ \text{mm}$.
+g) Calcoli qual è il raggio del pallone appena prima di esplodere.
 
-Costanti che possono essere utili:
+Costanti che possono esserle utili:
 $R = 8{.}31\ \text{J/(mol K)}$
 $\eta = 1{,}71\cdot10^{-5}\ \text{Pa·s}$
 $g = 10\ \text{m/s}^2$
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ur9waoY7PjGquAdnAYG8tLZKbc2YKvcP/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The weather balloon.
-Although it seems simple to program a balloon launch
-The weather forecast, compared to a satellite launch, is
-It is necessary to make a correct diagram because it is very important
-the equipment you carry suspended as information is
-You want to get it. Because solving the real problem is complex,
-I challenge you to do some preliminary calculations, which
-The Commission will be able to take a number of steps to simplify the
-Calculations, which allow us to estimate the behavior of the globe
-The weather. A weather balloon, usually constructed of
-Latex and hydrogen-filled (H$_2$) for its low cost, is used for
-The first is the use of a high-speed railway system.
-the meteorological interest based on altitude (pressure, temperature,
-relative humidity, wind speed and direction, concentration
-of ozone, etc.). Because the atmospheric pressure decreases with
-The height the balloon increases its volume until it breaks, which
-determines the maximum height it will reach. He can come.
-approximately $30000\ \text{m}$ and in some cases
-reaching heights of the order $50000\ \text{m}$.
+Weather balloon.
+Although it may seem simple to program the launch of a weather balloon, compared to launching a satellite, it is necessary to make a correct layout because the equipment it carries suspended, as well as the information to be obtained, is very important. Since solving the real problem is complex, I challenge you to make some preliminary calculations, which will involve making some approximations to simplify the calculations, allowing us to estimate the behavior of the weather balloon. A weather balloon, usually made of latex and filled with hydrogen (H$_2$) due to its low cost, is used to lift equipment that allows measuring various parameters of meteorological interest as a function of altitude (pressure, temperature, relative humidity, wind speed and direction, ozone concentration, etc.). Since atmospheric pressure decreases with altitude, the balloon increases its volume until it bursts, which determines the maximum height it will reach. It can reach approximately a height of $30000\ \text{m}$ and in some cases reach heights on the order of $50000\ \text{m}$.
 
-For the calculations, let's assume that the balloon we're going to use is spherical and
-The gas inside (H$_2$) behaves as an ideal gas, which is subject to the
-atmospheric pressure and the pressure exerted on the balloon. The pressure exerted by the balloon
-The gas is dependent on the radius $r$ of the balloon and can be approximated by
+For the calculations, we will assume that the balloon we will use has a spherical shape and that the gas inside it (H$_2$) behaves as an ideal gas, which is subjected to atmospheric pressure and to the pressure exerted on it by the balloon. The pressure exerted by the balloon on the gas depends on the radius $r$ of the balloon and can be approximated by
 
 $$P(r) = K\left[\frac{r_0}{r} - \left(\frac{r_0}{r}\right)^7\right]$$
 
-where $K$ is a constant that depends on the balloon and $r_0$ is its inner radius when it is not
-inflated.
+where $K$ is a constant that depends on the balloon and $r_0$ is its internal radius when it is not inflated.
 
-The data we have available for calculations are:
+The data we have to perform the calculations are:
 
-- Air pressure: $97000\ \text{Pa}$
-- Room temperature: $17\ ^\circ\text{C}$
+- Atmospheric pressure: $97000\ \text{Pa}$
+- Ambient temperature: $17\ ^\circ\text{C}$
 - $K = 80000\ \text{N/m}^2$
 - $r_0 = 10\ \text{cm}$
 - Density of latex: $0{,}96\ \text{g/cm}^3$
 - Wall thickness of the deflated balloon: $1{,}5\ \text{mm}$
-- Air density: $1{.}29\ \text{kg/m}^3$
+- Density of air: $1{.}29\ \text{kg/m}^3$
 - Molar mass of H$_2$: $2\ \text{g/mol}$
-- Mass of suspended equipment: $440\ \text{g}$
+- Mass of the suspended equipment: $440\ \text{g}$
 
-(a) Calculate how many moles of H$_2$ the balloon contains when inflated to a diameter
-interno de $1\ \text{m}$.
+a) Calculate how many moles of H$_2$ the balloon contains when it is inflated to an internal diameter of $1\ \text{m}$.
 - **B.** Determine the total weight of the inflated balloon
-- **C.** Calculate the thrust exerted on the balloon at the time of launch.
-- **D.** Calculate the net force applied to the weather balloon (including the
-The Commission has already decided to adopt a new proposal for a directive on the protection of the environment.
-(e) Determine the acceleration of the balloon at the time of launch.
+- **C.** Calculate the buoyant force exerted on the balloon at the moment of launching it.
+- **D.** Calculate the net force applied to the weather balloon (including the equipment) at the moment of launching it.
+e) Determine the acceleration of the balloon at the moment of launching it.
 
-We know that when the balloon rises the air exerts a friction.
-cuyo módulo para una esfera es $F_v = 6\pi R\eta v$, donde $R$ es el radio de la esfera, $\eta$ es la
-The viscosity of the air and $v$ is the velocity of the balloon.
+We know that when the balloon ascends the air exerts a friction (viscous force) on it
+whose magnitude for a sphere is $F_v = 6\pi R\eta v$, where $R$ is the radius of the sphere, $\eta$ is the viscosity of the air and $v$ is the velocity of the balloon.
 
-f) Calculate the maximum speed the balloon would reach in its ascent (only
-(having regard to the parameters at launch)
+f) Calculate the terminal velocity that the balloon would reach during its ascent (only taking into account the parameters at the moment of launching)
 
-If the minimum wall thickness of the balloon to prevent the balloon from breaking is $0{,}02\ \text{mm}$.
-(g) Calculate the radius of the balloon just before it explodes.
+If the minimum wall thickness of the balloon so that the balloon does not burst is $0{,}02\ \text{mm}$.
+g) Calculate the radius of the balloon just before it bursts.
 
-Constants that may be useful:
+Constants that may be useful to you:
 $R = 8{.}31\ \text{J/(mol K)}$
 $\eta = 1{,}71\cdot10^{-5}\ \text{Pa·s}$
 $g = 10\ \text{m/s}^2$
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ur9waoY7PjGquAdnAYG8tLZKbc2YKvcP/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2015 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gear,object/wheel,object/battery,object/resistor,object/switch"></span>
@@ -1141,182 +1079,112 @@ $\gamma = c_p/c_v = 7/5$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un pallone meteorologico.
-Anche se sembra semplice programmare il lancio di un globo
-La meteorologia, rispetto al lancio di un satellite, è
-È necessario fare un diagramma corretto perché è molto importante
-l'apparecchiatura che porta sospesa come le informazioni che si
-vuole ottenere. Perché risolvere il problema reale è complesso,
-Ti sfido a fare qualche calcolo preliminare, che
-La Commissione ha adottato una proposta di regolamento che prevede che le misure di
-Calcoli che ci permettono di stimare il comportamento del globo
-- Meteorologia. Un globo meteorologico, di solito costruito da
-látex y lleno con hidrógeno (H$_2$) por su bajo costo, se utiliza para
-Alzare l'equipaggiamento che permette di misurare diversi parametri di
-interesse meteorologico in funzione dell'altezza (pressione, temperatura,
-umidità relativa, velocità e direzione del vento, concentrazione
-di ozono, ecc.). Poiché la pressione atmosferica diminuisce con
-L'altezza del globolo aumenta il suo volume fino a quando non si rompe, che
-determina la massima altezza che raggiungerà. Può arrivare
-circa a un'altezza di $30000\ \text{m}$ e in alcuni casi
-raggiungere alti del ordine $50000\ \text{m}$.
+Pallone meteorologico.
+Sebbene programmare il lancio di un pallone meteorologico possa sembrare semplice, rispetto al lancio di un satellite, è necessario fare una corretta diagrammazione poiché è molto importante l'equipaggiamento che porta sospeso come le informazioni che si desidera ottenere. Poiché risolvere il problema reale è complesso, ti sfido a fare alcuni calcoli preliminari, il che implicherà di fare alcune approssimazioni per semplificare i calcoli, che ci permettano di stimare il comportamento del pallone meteorologico. Un pallone meteorologico, solitamente costruito in lattice e riempito con idrogeno (H$_2$) per il suo basso costo, viene utilizzato per sollevare equipaggiamento che permette di misurare diversi parametri di interesse meteorologico in funzione dell'altezza (pressione, temperatura, umidità relativa, velocità e direzione del vento, concentrazione di ozono, ecc.). Poiché la pressione atmosferica diminuisce con l'altezza il pallone aumenta il suo volume fino a rompersi, il che determina l'altezza massima che raggiungerà. Può arrivare approssimativamente a un'altezza di $30000\ \text{m}$ e in alcuni casi raggiungere altezze dell'ordine di $50000\ \text{m}$.
 
-Per i calcoli, supponiamo che il pallone che useremo abbia una forma sferica e
-che il gas all'interno (H$_2$) si comporta come un gas ideale, che è sottoposto alla
-la pressione atmosferica e la pressione che il globo esercita su di lei. La pressione esercitata dal globo
-Il gas dipende dal raggio $r$ del globolo e può avvicinarsi per
+Per i calcoli supporremo che il pallone che utilizzeremo abbia forma sferica e che il gas al suo interno (H$_2$) si comporti come un gas ideale, il quale è sottoposto alla pressione atmosferica e alla pressione che il pallone esercita su di esso. La pressione che il pallone esercita sul gas dipende dal raggio $r$ che ha il pallone e può essere approssimata da
 
 $$P(r) = K\left[\frac{r_0}{r} - \left(\frac{r_0}{r}\right)^7\right]$$
 
-dove $K$ è una costante che dipende dal globo e $r_0$ è il suo raggio interno quando non è
-gonfiato.
+dove $K$ è una costante che dipende dal pallone e $r_0$ è il suo raggio interno quando non è gonfiato.
 
-I dati disponibili per effettuare i calcoli sono:
+I dati di cui disponiamo per eseguire i calcoli sono:
 
 - Pressione atmosferica: $97000\ \text{Pa}$
 - Temperatura ambiente: $17\ ^\circ\text{C}$
 - $K = 80000\ \text{N/m}^2$
 - $r_0 = 10\ \text{cm}$
 - Densità del lattice: $0{,}96\ \text{g/cm}^3$
-- Spessore della parete del globo deflato: $1{,}5\ \text{mm}$
+- Spessore della parete del pallone sgonfio: $1{,}5\ \text{mm}$
 - Densità dell'aria: $1{.}29\ \text{kg/m}^3$
-- Massa molare di H$_2$: $2\ \text{g/mol}$
-- Massa di apparecchiatura sospesa: $440\ \text{g}$
+- Massa molare dell'H$_2$: $2\ \text{g/mol}$
+- Massa dell'attrezzatura sospesa: $440\ \text{g}$
 
-a) Calcolare quanti molli di H$_2$ contengono il pallone quando viene inflato fino a un diametro
-interno di $1\ \text{m}$.
-- **B.** Determina il peso totale del globolo gonfiato
-- **C.** Calcola la spinta che si esercita sul pallone al momento del lancio.
-- **D.** Calcola la forza netta applicata sul globo meteorologico (inclusi i
-Equipaggiamento) al momento del lancio.
-e) Determina l'accelerazione del pallone al momento del lancio.
+a) Calcoli quanti moli di H$_2$ contiene il pallone quando viene gonfiato fino a un diametro interno di $1\ \text{m}$.
+- **B.** Determini il peso totale del pallone gonfiato
+- **C.** Calcoli la spinta che si esercita sul pallone al momento del lancio.
+- **D.** Calcoli qual è la forza netta applicata sul pallone meteorologico (inclusa l'attrezzatura) al momento del lancio.
+e) Determini l'accelerazione del pallone al momento del lancio.
 
-Sappiamo che quando il pallone sale l'aria lo stringe.
-il cui modulo per una sfera è $F_v = 6\pi R\eta v$, dove $R$ è il raggio della sfera, $\eta$ è la
-viscosità dell'aria e $v$ è la velocità del globolo.
+Sappiamo che quando il pallone sale l'aria gli esercita un attrito (forza viscosa)
+il cui modulo per una sfera è $F_v = 6\pi R\eta v$, dove $R$ è il raggio della sfera, $\eta$ è la viscosità dell'aria e $v$ è la velocità del pallone.
 
-f) Calcola la velocità limite che il globo raggiungerebbe durante la sua ascesa (solo
-considerando i parametri al momento del lancio)
+f) Calcoli qual è la velocità limite che raggiungerebbe il pallone nella sua ascesa (tenendo conto solo dei parametri al momento del lancio)
 
-Se il minimo spessore del muro del pallone per non rompere il pallone è $0{,}02\ \text{mm}$.
-g) Calcolare il raggio del pallone appena prima di esplodere.
-h) Supponendo che il gas in salita abbia subito un'espansione adiabatica,
-determinare quale sarebbe la temperatura del gas all'interno del globo appena prima di
-esplodere.
-(i) Se l'instrumento indica che la temperatura esterna è $-60\ ^\circ\text{C}$, la temperatura esterna è valida.
-- la supposizione del punto precedente?
-j) Supponendo che la temperatura del gas all'interno del globo appena prima di
-esplodere è uguale all'esterno, determina la pressione del gas all'interno del globo.
+Se lo spessore minimo della parete del pallone affinché il pallone non scoppi è $0{,}02\ \text{mm}$.
+g) Calcoli qual è il raggio del pallone appena prima di esplodere.
+h) Supponendo che il gas nella sua ascesa abbia subito un'espansione adiabatica, determini quale sarebbe la temperatura del gas all'interno del pallone appena prima di esplodere.
+i) Se la strumentazione indica che la temperatura esterna è di $-60\ ^\circ\text{C}$, è valida l'ipotesi del punto precedente?
+j) Supponendo che la temperatura del gas all'interno del pallone appena prima di esplodere sia uguale a quella esterna, determini la pressione del gas all'interno del pallone.
 
-Sapendo che la pressione atmosferica varia con l'altezza in base all'espressione
+Sapendo che la pressione atmosferica varia con l'altezza secondo l'espressione
 
 $$P_{at}(h) = P_o\, e^{-\alpha h}$$
 
-dove $P_o$ è la pressione atmosferica a livello di pavimento e $\alpha = 0{,}116\ \text{Km}^{-1}$
+dove $P_o$ è la pressione atmosferica a livello del suolo e $\alpha = 0{,}116\ \text{Km}^{-1}$
 
-k) Calcolare la massima altezza raggiunta dal pallone prima di esplodere.
+k) calcoli l'altezza massima che raggiunge il pallone prima di scoppiare.
 
-Costanti che possono essere utili:
+Costanti che possono esserle utili:
 $R = 8{.}31\ \text{J/(mol K)}$
 $\eta = 1{,}71\cdot10^{-5}\ \text{Pa·s}$
 $g = 10\ \text{m/s}^2$
 $\gamma = c_p/c_v = 7/5$
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1ur9waoY7PjGquAdnAYG8tLZKbc2YKvcP/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The weather balloon.
-Although it seems simple to program a balloon launch
-The weather forecast, compared to a satellite launch, is
-It is necessary to make a correct diagram because it is very important
-the equipment you carry suspended as information is
-You want to get it. Because solving the real problem is complex,
-I challenge you to do some preliminary calculations, which
-The Commission will take a number of steps to simplify the
-Calculations, which allow us to estimate the behavior of the globe
-The weather. A weather balloon, usually constructed of
-Latex and hydrogen-filled (H$_2$) for its low cost, is used for
-The first is the use of a high-speed railway system.
-the meteorological interest based on altitude (pressure, temperature,
-relative humidity, wind speed and direction, concentration
-of ozone, etc.). Because the atmospheric pressure decreases with
-The height the balloon increases its volume until it breaks, which
-determines the maximum height it will reach. He can come.
-approximately $30000\ \text{m}$ and in some cases
-reaching heights of the order $50000\ \text{m}$.
+Weather balloon.
+Although it may seem simple to program the launch of a weather balloon, compared with the launch of a satellite, it is necessary to make a correct layout because the equipment it carries suspended, such as the information to be obtained, is very important. Because solving the real problem is complex, I challenge you to make some preliminary calculations, which will involve making some approximations to simplify the calculations, allowing us to estimate the behavior of the weather balloon. A weather balloon, usually made of latex and filled with hydrogen (H$_2$) due to its low cost, is used to lift equipment that allows measuring various parameters of meteorological interest as a function of altitude (pressure, temperature, relative humidity, wind speed and direction, ozone concentration, etc.). Because atmospheric pressure decreases with altitude, the balloon increases its volume until it bursts, which determines the maximum height it will reach. It can reach approximately a height of $30000\ \text{m}$ and in some cases reach heights on the order of $50000\ \text{m}$.
 
-For the calculations, let's assume that the balloon we're going to use is spherical and
-The gas inside (H$_2$) behaves as an ideal gas, which is subject to the
-atmospheric pressure and the pressure exerted on the balloon. The pressure exerted by the balloon
-The gas is dependent on the radius $r$ of the balloon and can be approximated by
+For the calculations we will assume that the balloon we will use has a spherical shape and that the gas inside it (H$_2$) behaves as an ideal gas, which is subjected to atmospheric pressure and to the pressure exerted on it by the balloon. The pressure exerted by the balloon on the gas depends on the radius $r$ that the balloon has and can be approximated by
 
 $$P(r) = K\left[\frac{r_0}{r} - \left(\frac{r_0}{r}\right)^7\right]$$
 
-where $K$ is a constant that depends on the balloon and $r_0$ is its inner radius when it is not
-inflated.
+where $K$ is a constant that depends on the balloon and $r_0$ is its internal radius when it is not inflated.
 
-The data we have available for calculations are:
+The data we have to perform the calculations are:
 
-- Air pressure: $97000\ \text{Pa}$
-- Room temperature: $17\ ^\circ\text{C}$
+- Atmospheric pressure: $97000\ \text{Pa}$
+- Ambient temperature: $17\ ^\circ\text{C}$
 - $K = 80000\ \text{N/m}^2$
 - $r_0 = 10\ \text{cm}$
 - Density of latex: $0{,}96\ \text{g/cm}^3$
 - Wall thickness of the deflated balloon: $1{,}5\ \text{mm}$
-- Air density: $1{.}29\ \text{kg/m}^3$
+- Density of air: $1{.}29\ \text{kg/m}^3$
 - Molar mass of H$_2$: $2\ \text{g/mol}$
-- Mass of suspended equipment: $440\ \text{g}$
+- Mass of the suspended equipment: $440\ \text{g}$
 
-(a) Calculate how many moles of H$_2$ the balloon contains when inflated to a diameter
-interno de $1\ \text{m}$.
+a) Calculate how many moles of H$_2$ the balloon contains when it is inflated to an internal diameter of $1\ \text{m}$.
 - **B.** Determine the total weight of the inflated balloon
-- **C.** Calculate the thrust exerted on the balloon at the time of launch.
-- **D.** Calculate the net force applied to the weather balloon (including the
-The Commission has already decided to adopt a new proposal for a directive on the protection of the environment.
-(e) Determine the acceleration of the balloon at the time of launch.
+- **C.** Calculate the buoyant force exerted on the balloon at the moment of launching it.
+- **D.** Calculate the net force applied to the weather balloon (including the equipment) at the moment of launching it.
+e) Determine the acceleration of the balloon at the moment of launching it.
 
-We know that when the balloon rises the air exerts a friction.
-cuyo módulo para una esfera es $F_v = 6\pi R\eta v$, donde $R$ es el radio de la esfera, $\eta$ es la
-The viscosity of the air and $v$ is the velocity of the balloon.
+We know that when the balloon ascends the air exerts a friction (viscous force) on it
+whose magnitude for a sphere is $F_v = 6\pi R\eta v$, where $R$ is the radius of the sphere, $\eta$ is the viscosity of the air and $v$ is the velocity of the balloon.
 
-f) Calculate the maximum speed the balloon would reach in its ascent (only
-(having regard to the parameters at launch)
+f) Calculate the terminal velocity that the balloon would reach during its ascent (only taking into account the parameters at the moment of launching)
 
-If the minimum wall thickness of the balloon to prevent the balloon from breaking is $0{,}02\ \text{mm}$.
-(g) Calculate the radius of the balloon just before it explodes.
-(h) Assuming that the gas in its rise has undergone adiabatic expansion,
-determine what the temperature of the gas inside the balloon would be just before
-I'm going to explode.
-(i) If the instrument indicates that the external temperature is $-60\ ^\circ\text{C}$, is the
-the assumption of the previous point?
-(j) Assuming that the temperature of the gas inside the balloon just before
-explode is equal to the outside, determines the gas pressure inside the balloon.
+If the minimum thickness of the balloon wall so that the balloon does not burst is $0{,}02\ \text{mm}$.
+g) Calculate the radius of the balloon just before it bursts.
+h) Assuming that the gas during its ascent has undergone an adiabatic expansion, determine what the temperature of the gas inside the balloon would be just before it bursts.
+i) If the instrumentation indicates that the external temperature is $-60\ ^\circ\text{C}$, is the assumption of the previous point valid?
+j) Assuming that the temperature of the gas inside the balloon just before it bursts is equal to the external temperature, determine the pressure of the gas inside the balloon.
 
-Knowing that the atmospheric pressure varies with height according to the expression
+Knowing that the atmospheric pressure varies with altitude according to the expression
 
 $$P_{at}(h) = P_o\, e^{-\alpha h}$$
 
-where $P_o$ is the floor-level atmospheric pressure and $\alpha = 0{,}116\ \text{Km}^{-1}$
+where $P_o$ is the atmospheric pressure at ground level and $\alpha = 0{,}116\ \text{Km}^{-1}$
 
-(k) calculate the maximum height the balloon reaches before it explodes.
+k) calculate the maximum height reached by the balloon before bursting.
 
 Constants that may be useful:
 $R = 8{.}31\ \text{J/(mol K)}$
 $\eta = 1{,}71\cdot10^{-5}\ \text{Pa·s}$
 $g = 10\ \text{m/s}^2$
 $\gamma = c_p/c_v = 7/5$
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1ur9waoY7PjGquAdnAYG8tLZKbc2YKvcP/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2015 — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,object/gear,object/wheel,object/battery,object/resistor,object/switch"></span>
@@ -1943,185 +1811,126 @@ Dove $I_a$ è il momento d'inerzia del cilindro attraversato dall'asta filettata
 
 <div class="qlang-split" data-lang="en"></div>
 
-Let's dance the magnets of the cores.
-The nuclei of atoms have a quantum physical property, with no classical analogues,
-The nuclear spine. The nuclear spine is characterized by the fact that, in the face of the
-the presence of a static and homogeneous magnetic field $\vec{B}_0$, behave as if
-were small magnets with a magnetic moment $\vec\mu = \gamma\hbar\vec{I}$, where $I$ is the vector
-The quantum angular moment of the nuclear spin, $\gamma$ the geomagnetic constant of the nucleus and $\hbar$
-The Planck constant divided by $2\pi$. The value of the nuclear spindle is indicated by the letter $I$ and
-It's called the spin quantum number. Except for the fact that the projection of $I$ in the
-The direction of the external magnetic field, see Figure 1, takes only certain values
-The magnetic moment behaviour of the spines is
-You can model by the rules of classical electromagnetism.
-We're going to deal with hydrogen nuclei (protons), which are very
-They're abundant in the human body. For these cores $I = 1/2$.
-The projection of $I$ over the $z$ axis, takes for the proton case, two
-The values $m = +1/2$ and $m = -1/2$ shall be reported.
-This means we'll have some thorns with his projection.
-on the direction of the $z$ axis pointed parallel to the external field; and
-Other anti-parallel targets to the outer field. By questions
-We'll have more spines pointing parallel to the field.
-$\vec{B}_0$ which are counterparts to the $\vec{B}_0$ field. This will give rise to a
-The net magnetization in the direction of $\vec{B}_0$, see Figure 1.
+Let's make the atomic nuclei magnets dance.
+The nuclei of atoms possess a quantum physical property, with no classical analogue, called nuclear spin. A particularity of nuclear spin is that, in the presence of a static and homogeneous magnetic field $\vec{B}_0$, they behave as if they were small magnets with a magnetic moment $\vec\mu = \gamma\hbar\vec{I}$, where $I$ is the "quantum vector" of nuclear spin angular momentum, $\gamma$ the gyromagnetic constant of the nucleus, and $\hbar$ Planck's constant divided by $2\pi$. The value of the nuclear spin is denoted by the letter $I$ and is called the spin quantum number. Except for the fact that the projection of $I$ in the direction of the external magnetic field, see Figure 1, adopts only certain discrete values (quantization), the behavior of the magnetic moment of the spins can be modeled by the rules of classical electromagnetism.
+We will deal with Hydrogen nuclei (protons), which are very abundant in the human body. For these nuclei $I = 1/2$.
+The projection of $I$ onto the $z$ axis takes, in the case of the proton, two values $m = +1/2$ and $m = -1/2$.
+This means that we will have some spins with their projection onto the direction of the $z$ axis pointing parallel to the external field and others pointing antiparallel to the external field. For energetic reasons we will have more spins pointing parallel to the field
+$\vec{B}_0$ than antiparallel to the field $\vec{B}_0$. This will give rise to a net magnetization in the direction of $\vec{B}_0$, see Figure 1.
 
-The total magnetization that arises from the nuclear spines in the sample is a
-vector quantity and is given by
+The total magnetization arising from the nuclear spins of the sample is a vector quantity and is given by
 
 $$\vec{M} = \sum_i \vec\mu_i \qquad \text{(ec. 1)}$$
 
-where $\vec\mu_i$ is the magnetic moment of the core $i$.
-Using $\vec\mu_i = \gamma\hbar\vec{I}_i$, the magnetization of the sample can be written as
+where $\vec\mu_i$ is the magnetic moment of the nucleus $i$.
+Using the fact that $\vec\mu_i = \gamma\hbar\vec{I}_i$, the magnetization of the sample can be written as
 
 $$\vec{M} = \gamma\hbar\vec{J} \qquad \text{(ec. 2)}$$
 
-where $\vec{J} = \sum_i \vec{I}_i$ is the total angular moment of spin of the sample. If the sample is
-puts in the presence of a uniform magnetic field $\vec{B}_0$, as is the case with a
-experimento de Resonancia Magnética Nuclear (RMN), se ejerce un torque $\vec{T}_M$ sobre el
-magnetization vector where the torque is given by
+where $\vec{J} = \sum_i \vec{I}_i$ is the total spin angular momentum of the sample. If the sample is placed in the presence of a uniform magnetic field $\vec{B}_0$, as is the case in a Nuclear Magnetic Resonance (NMR) experiment, a torque $\vec{T}_M$ is exerted on the magnetization vector, where the torque is given by
 
 $$\vec{T}_M = \vec{M} \times \vec{B}_0 \qquad \text{(ec. 3)}$$
 
-It can be shown that the magnetization precesses (tube movement) around the
-magnetic field at a constant angular frequency of the module
+It can be shown that the magnetization precesses (spinning-top motion) around the magnetic field at a constant angular frequency of magnitude
 
 $$\omega = \gamma B_0 \qquad \text{(ec. 4)}$$
 
 (see Figure 2).
 
-The expression of the magnetization induced by the proton nuclear spines to
-The ambient temperature ($T_a$) is
+The expression for the magnetization induced by the nuclear spins of protons at room temperature ($T_a$) is
 
 $$M = \frac{\mu_0\gamma^2\hbar^2 n}{4k_B T_a} B_0 = 4{.}04\times10^{-9}B_0 \qquad \text{(ec. 5)}$$
 
-Where $n$ is the number of proton nuclear spins per unit volume, $\mu_0$ is the
-The magnetic permeability of the vacuum, $k_B$ the Boltzmann constant and $T_a$ the temperature
-environment in K. The unit of $M$ is the Tesla ($1\ \text{Tesla} = 1\ \text{V·s/m}^2$).
-In an MRI experiment, the magnetization $M$ is used to remove the magnetization from the equilibrium by
-aplicación de un campo magnético alterno $\vec{B}_1$ perpendicular al campo externo $\vec{B}_0$. This one
-The $\vec{B}_1$ field is applied for a few microseconds. The situation after application
-This $\vec{B}_1$ field is the one shown in Figure 3. Then the magnetization $\vec{M}$ will rotate
-around the $\vec{B}_0$ field in the xy plane.
+Where $n$ is the number of nuclear spins of protons per unit volume, $\mu_0$ the magnetic permeability of vacuum, $k_B$ the Boltzmann constant and $T_a$ the room temperature in K. The unit of $M$ is the Tesla ($1\ \text{Tesla} = 1\ \text{V·s/m}^2$).
+In an NMR experiment, one uses the procedure of taking the magnetization $M$ out of equilibrium by applying an alternating magnetic field $\vec{B}_1$ perpendicular to the external field $\vec{B}_0$. This field $\vec{B}_1$ is applied for a few microseconds. The situation after applying this field $\vec{B}_1$ is the one shown in Figure 3. Then the magnetization $\vec{M}$ will rotate around the field $\vec{B}_0$ in the xy plane.
 
-To detect the signal generated by the cores in an MRI experiment,
-a coil, let's say along the x-axis, so that it detects the flow variation
-magnetic field through it, generated by the rotating magnetization $\vec{M}$ at the
-plane xy. In our particular case the magnitude of the magnetization along the axis of
-the coil will have a temporary dependence given by equation 6
+To detect the signal generated by the nuclei in an NMR experiment, a coil is placed, say along the x-axis, so that it detects the variation of magnetic field flux through it, generated by the rotating magnetization $\vec{M}$ in the xy plane. In our particular case, the magnitude of the magnetization along the coil axis will have a time dependence given by equation 6
 
 $$M(t) = M_0\,\text{sen}(\omega t) \qquad \text{(ec. 6)}$$
 
 with $\omega = 64{.}2\times2\pi$ MHz (MHz $= 1\times10^6$ Hz).
-To simplify the calculations, we will assume that $M(t)$ varies linearly over time, is
-So we're going to approximate the sinus function by a saw tooth function, see Figure 4.
+To simplify the calculations, we will assume that $M(t)$ varies linearly with time, that is, we approximate the sine function by a sawtooth function, see Figure 4.
 
-Assuming that the magnetic field-magnetization relationship is given by
+Assuming that the relationship between magnetic field and magnetization is given by
 
 $$B_M = M \qquad \text{(ec. 7)}$$
 
 and the maximum value of $M$ along the coil is $M = 6{.}06\times10^{-9}\ \text{T}$ ($1\ \text{Tesla} = 1\ \text{V·s/m}^2$).
 
-(a) From equation 5, find the value of $B_0$.
+a) From equation 5, find the value of $B_0$.
 
-(b) Determine the period of $M(t)$ (equation 6).
+b) Determine the period of $M(t)$ (equation 6).
 
-(c) Calculate the induced electromotive force (fem) due to the time variation of $M$ to
-along the coil axis. Consider a cylindrical coil of 4 turns
-and $0{.}01\ \text{m}$ in diameter. Calculate the fem for 1/4 of the initial period shown in the
-Figure 4 is shown.
+c) Calculate the induced electromotive force (emf), due to the time variation of $M$ along the coil axis. Consider a cylindrical coil with 4 turns and $0{.}01\ \text{m}$ in diameter. Calculate the emf during 1/4 of the initial period shown in
+Figure 4.
 
-Remember that the induced electromotive force, in a spindle of $A$ area, is the coefficient,
-with less sign, between the change in the magnetic field flow over the area of the
-breath, and the time interval in which that change occurs.
+Remember that the induced electromotive force, in a loop of area $A$, is the quotient, with a minus sign, between the change in magnetic field flux over the area of the loop and the time interval in which that change occurs.
 
-Resonance circuit
-The coil used in an MRI experiment is part of an electrical circuit, which
-In its simplest form it can be described by a series RLC type circuit.
+The resonant circuit
+The coil used in an NMR experiment is part of an electrical circuit, which in its simplest form can be described by a series RLC-type circuit.
 
-(d) Find an expression for the complex impedance of a serial RLC circuit,
-recuerde que $Z_L = i\omega L$, $Z_R = R$ y $Z_C = -i/(\omega C)$. Where $i$ is the imaginary unit.
+d) Find an expression for the complex impedance of a series RLC circuit; remember that $Z_L = i\omega L$, $Z_R = R$ and $Z_C = -i/(\omega C)$. Where $i$ is the imaginary unit.
 
-An RLC circuit is said to be in resonance when the working frequency is such that
-that the imaginary part of $Z$ is zero.
+An RLC circuit is said to be at resonance when the operating frequency is such that the imaginary part of $Z$ is zero.
 
-e) Assuming that for our circuit it is: $C = 10\ \text{pF}$ (p = peak $= 1\times10^{-12}$),
-The frequency of the working $R = 50\ \text{ohm}$ and the working $\omega = 64{.}2\times2\pi$ MHz (MHz $= 1\times10^6$ Hz)
-Find the value of $L$.
+e) Assuming that for our circuit: $C = 10\ \text{pF}$ (p = peak $= 1\times10^{-12}$),
+$R = 50\ \text{ohm}$ and the operating frequency $\omega = 64{.}2\times2\pi$ MHz (MHz $= 1\times10^6$ Hz)
+find the value of $L$.
 
 Relaxation
-In MRI there are physical parameters that quantify the return to equilibrium of the
-Magnetization $M$ generated by the cores. Uno de ellos es la constante de relajación $T_2$.
-This constant is used to differentiate between healthy biological tissue and biological tissue.
-I'm sick of it. To get the value of this constant, experiments are done where
-It observes the temporary decay of the magnetization. In these experiments, the
-The time dependence of magnetization is as shown by equation 7.
+In NMR there are physical parameters that quantify the return to equilibrium of the magnetization $M$ generated by the nuclei. One of them is the relaxation constant $T_2$.
+This constant is used to differentiate between healthy biological tissue and diseased biological tissue. To obtain the value of this constant, experiments are performed in which the temporal decay of the magnetization is observed. In these experiments the time dependence of the magnetization is as indicated by equation 7.
 
 $$M(t) = M_0\exp\left(-\frac{t}{T_2}\right) \qquad \text{(ec. 7)}$$
 
-The following graphs show two experimental measurements of these
-decay. The values are shown in Table 1.
+The following graphs show two experimental measurements of these decays. The values are reproduced in Table 1.
 
-Table 1: Relaxation experiments of the magnetisation $T_2$
+Table 1: Relaxation experiments $T_2$ of the magnetization
 
-| tiempo (ms) | Paciente 1 — Intensidad de magnetización ($10^{-9}$ T) | Paciente 2 — Intensidad de magnetización ($10^{-9}$ T) |
+| time (ms) | Patient 1 — Magnetization intensity ($10^{-9}$ T) | Patient 2 — Magnetization intensity ($10^{-9}$ T) |
 |---|---|---|
-| 0,0 | $11\pm1$ | $12\pm1$ |
-| 111,1 | $6{,}5\pm0{,}6$ | $7{,}0\pm0{,}7$ |
-| 222,2 | $5{,}4\pm0{,}5$ | $4{,}7\pm0{,}5$ |
-| 333,3 | $2{,}3\pm0{,}5$ | $1{,}7\pm0{,}3$ |
-| 444,4 | $2{,}0\pm0{,}4$ | $0{,}3\pm0{,}5$ |
-| 555,6 | $1{,}2\pm0{,}2$ | $0{,}3\pm0{,}5$ |
-| 666,7 | $0{,}7\pm0{,}3$ | $0{,}21\pm0{,}08$ |
-| 777,7 | $0{,}6\pm0{,}2$ | $0{,}13\pm0{,}05$ |
-| 888,8 | $0{,}3\pm0{,}1$ | $0{,}05\pm0{,}02$ |
-| 1000,0 | $0{,}20\pm0{,}08$ | $0{,}03\pm0{,}01$ |
+| 0.0 | $11\pm1$ | $12\pm1$ |
+| 111.1 | $6{,}5\pm0{,}6$ | $7{,}0\pm0{,}7$ |
+| 222.2 | $5{,}4\pm0{,}5$ | $4{,}7\pm0{,}5$ |
+| 333.3 | $2{,}3\pm0{,}5$ | $1{,}7\pm0{,}3$ |
+| 444.4 | $2{,}0\pm0{,}4$ | $0{,}3\pm0{,}5$ |
+| 555.6 | $1{,}2\pm0{,}2$ | $0{,}3\pm0{,}5$ |
+| 666.7 | $0{,}7\pm0{,}3$ | $0{,}21\pm0{,}08$ |
+| 777.7 | $0{,}6\pm0{,}2$ | $0{,}13\pm0{,}05$ |
+| 888.8 | $0{,}3\pm0{,}1$ | $0{,}05\pm0{,}02$ |
+| 1000.0 | $0{,}20\pm0{,}08$ | $0{,}03\pm0{,}01$ |
 
-(f) Get from the experimental data the values of $T_2$ for both types of
-tissues.
+f) Obtain from the experimental data the values of $T_2$ for both types of tissue.
 
-(g) Estimate an uncertainty for $T_2$ in both cases. Express the values of $T_2$ with their
-the uncertainties involved. Remember that $\Delta(\ln(M)) = \Delta M/M$.
+g) Estimate an uncertainty for $T_2$ in both cases. Express the values of $T_2$ with their respective uncertainties. Remember that $\Delta(\ln(M)) = \Delta M/M$.
 
-h) Knowing that $T_2$ for healthy tissue is $T_2 > 220\ \text{ms}$ and for diseased tissue is $T_2 > 220\ \text{ms}$
-$T_2 < 220\ \text{ms}$, indicate which curve corresponds to healthy tissue and which to tissue
-I'm sick of it.
+h) Knowing that $T_2$ for healthy tissue is $T_2 > 220\ \text{ms}$ and for diseased tissue is
+$T_2 < 220\ \text{ms}$, indicate which of the curves corresponds to healthy tissue and which to diseased tissue.
 
-Suggestion: Get the value of $T_2$ by linearising the data in Table 1 and finding in
-The graph of the straight line that best represents the experimental data.
+Hint: Obtain the value of $T_2$ by linearizing the data in Table 1 and finding graphically the line that best represents the experimental data.
 
-Alternatively: The time $t'$ for which the magnetisation has fallen to 37% of its
-The initial value is $t' = T_2$.
+Alternatively: The time $t'$ for which the magnetization has decayed to 37% of its initial value is $t' = T_2$.
 
 ---
 
-National court
-The test shall be carried out in accordance with the following conditions:
+National Instance
+Experimental Test
 Level 2
 
-Torsion pendulum.
+Torsion Pendulum.
 
-I'll give you an introduction.
-A torsion pendulum consists of a suspended body of a wire or spring.
-When the body is rotated around the wire axis, it will experience torque
-which tends to bring it back to the equilibrium position. If you let this body go free
-It will begin to oscillate around the equilibrium position. For small amplitudes the
-The torsion pendulum period is:
+Introduction.
+A torsion pendulum consists of a body suspended from a wire or a spring.
+When the body is rotated around the axis of the wire, it will experience a torque that tends to make it return to the equilibrium position. If the body is released, it will begin to oscillate around the equilibrium position. For small amplitudes the period of the torsion pendulum is:
 
 $$T = 2\pi\sqrt{\frac{I}{K}} \qquad (1)$$
 
-Where $I$ is the torque of the body with respect to the rotating axis and $K$ is the torque of the body with respect to the axis of rotation.
-The wire or spring torque constant.
+Where $I$ is the moment of inertia of the body with respect to the axis of rotation and $K$ is the torsion constant of the wire or spring.
 
-If the body is like the figure, consisting of a vertical cylinder, which is
-through a threaded rod, and two point masses ($M$) the moment of inertia
-shall be:
+If the body is like the one in the figure, consisting of a vertical cylinder, which is crossed by a threaded rod, and two point masses ($M$), the moment of inertia will be:
 
 $$I = I_a + 2Md^2 \qquad (2)$$
 
-Where $I_a$ is the moment of inertia of the cylinder through the threaded rod.
+Where $I_a$ is the moment of inertia of the cylinder crossed by the threaded rod.
 
-**Topic:** [[Magnetism]], [[Circuits]], [[Modern-Quantum Physics]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Coil (object)|Coil]], [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Nucleus (object)|Nucleus]], [[Magnetic Dipole (object)|Magnetic Dipole]]
-**Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1ur9waoY7PjGquAdnAYG8tLZKbc2YKvcP/view)
+

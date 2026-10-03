@@ -146,64 +146,30 @@ della cucina. Considera $g = 10\ \text{m/s}^2$.
 
 Problem 1: A fun game on the ice rink.
 
-A child enters an ice skating rink and finds the surface of the ice
-perfectly smooth and horizontal track, a homogeneous wooden wedge whose shape is
-It's outlined in Figure 1.
+A child enters an ice skating rink and finds on the surface of the perfectly smooth and horizontal rink a homogeneous wooden wedge whose shape is sketched in Figure 1.
 
-Figure 1a: Cut by a vertical plane
-containing the mass centers of the
-She weighs and weighs.
-Figure 1b: View from the perspective of the
-weighs it in its initial position.
+Figure 1a: Cross-section by a vertical plane containing the centers of mass of the wedge and the weight.
+Figure 1b: Perspective view of the wedge and the weight in their initial position.
 
-The wedge has a mass $M = 2\ \text{kg}$, its upper face forms an angle of $30^\circ$ with respect to the
-horizontal plane, thus forming a ramp whose upper edge is located
-at a height $h_1 = 20\ \text{cm}$ of the floor, while the lower edge is at a height $h_2 = 5\ \text{cm}$.
-The child discovers the fun game that consists of placing a homogeneous weight of
-Lead mass $m = 0,5\ \text{kg}$ (which can be considered a point), half the
-The upper edge of the wedge, which when released begins to slide down the plane
-slanted until it falls down the lower edge of the wedge. In his game, the child does not hold
-the wedge, which rests freely on the ice; and at the instant of releasing the weight
-Both the wedge and the weighing, are at rest relative to the floor.
-Assuming there's no friction between the weigh and the ramp and no friction at all.
-Between the wedge and the ice, answer the following
+The wedge has mass $M = 2\ \text{kg}$, its upper face forms an angle of $30^\circ$ with respect to the horizontal plane, thus forming a ramp whose upper edge is at a height $h_1 = 20\ \text{cm}$ from the floor, while the lower edge is at a height $h_2 = 5\ \text{cm}$.
+The child delightedly discovers the game consisting of placing a homogeneous lead weight of mass $m = 0,5\ \text{kg}$ (which can be considered a point mass) at the middle of the upper edge of the wedge, which when released begins to slide down the inclined plane until it falls off the lower edge of the wedge. In his game, the child does not hold the wedge, which rests freely on the ice; and at the instant of releasing the weight, both the wedge and the weight are at rest with respect to the floor.
+Assuming there is no friction between the weight and the ramp and also no friction between the wedge and the ice, answer the following
 
-Question number
+Questionnaire
 
-(a) Draw in Figure 1a the vectors of all the external forces acting
-The mechanical system of the wedge and the weight. Indicate the values
-of those forces which are determined from the data.
-(b) Choose a vertical coordinate system, fixed to the track, which
-contains the center of mass of the wedge and the weight and is useful for
-describe the movement of the parts of the mechanical system. Establish the
-the relationship between the vertical and horizontal coordinates of the centres
-of wedge mass and weight and angle $\alpha$. In Figure 1a, point A indicates
-the position of the center of mass of the wedge, which is at a distance
-horizontal a and a vertical distance b from the wedge point B.
+a) In Figure 1a, draw the vectors of all the external forces acting on the mechanical system consisting of the wedge and the weight. Indicate the values of those forces that are determined from the data.
+b) Choose a coordinate system in a vertical plane, fixed to the track, that contains the centers of mass of the wedge and the weight and that is useful to you for describing the motion of the parts of the mechanical system. Establish the relationship that exists between the vertical and horizontal coordinates of the centers of mass of the wedge and of the weight and the angle $\alpha$. In Figure 1a, point A indicates the position of the center of mass of the wedge, which is at a horizontal distance a and a vertical distance b from point B of the wedge.
 
-During the descent of the weight through the ramp: This recording is for points c) to f)
+During the descent of the weight along the ramp: |this note is for points c) to f)|
 
-(c) Qualitatively describe the movement of the centre of mass of the system
-It's made up of the wedge and weighs it and tells how the wedge moves.
-(d) Write the ratio between the horizontal and vertical components of the speed of
-The weights and the wedges, seen by an observer standing on the ice.
-(e) Determine whether or not total mechanical energy is conserved for an observer in the
-I'll rest on the track, explain why.
-(f) What are all the physical quantities of the mechanical system that are
-The Commission has already adopted a proposal for a regulation on the Write the corresponding conservation equations,
-expressed in the coordinate system of item (b).
+c) Describe qualitatively the motion of the center of mass of the system consisting of the wedge and the weight and say how the wedge moves.
+d) Write the relationship between the horizontal and vertical components of the velocity of the weight and of the wedge, as seen by an observer standing on the ice.
+e) Determine whether or not the total mechanical energy is conserved, for an observer at rest on the track, explaining why.
+f) What are all the physical quantities of the mechanical system that are conserved? Write the corresponding conservation equations, expressed in the coordinate system of item (b).
 
-After weighing it, he leaves the ramp:
+After the weight leaves the ramp:
 
-(g) Calculate in the coordinate system of item (b) the kinetic energy value
-from the wedge. Consider $g = 10\ \text{m/s}^2$.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wedge (object)|Wedge]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1kqV2Civ8DnkVSRwDuQvtkJHJXW7fN6oD/view)
-
+g) Calculate, in the coordinate system of item (b), the value of the kinetic energy of the wedge. Consider $g = 10\ \text{m/s}^2$.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2006 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/nucleus"></span>
@@ -511,318 +477,163 @@ El objetivo de esta práctica e
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3: Un stabilizzatore a bassa tensione a corrente continua.
+Problema 3: Uno stabilizzatore di bassa tensione in corrente continua.
 
-È noto che esistono elementi elettrici che non rispettano la legge di Ohm. Es
-la relazione tra il corrente $I$ che li attraversa e la differenza di potenziale $U$ alla
-che sono collegati è dato da una funzione $I(U)$ che non è lineare. Un esempio di
-Questa funzione, che corrisponde a una lampada incandescente L, è mostrata nella tabella di riferimento:
-Figura 2. Se abbiamo messo a punto il circuito a corrente continua di figura 1, in cui
-Usate la lampada L che risponde alla curva della figura 2. Il circuito è composto da una
-Fonte di corrente continua la cui differenza di potenziale è $e = 6\ \text{V}$ e resistenza
-L'intero valore di un'unità di resistenza di L è zero; $r$ è la resistenza di limite di corrente attraverso L.
-Tra i punti D ed E è collegata una resistenza $R$ in modo che tra D e C la resistenza
-La resistenza è $R_1$ e tra C e E è $R_2$ (cioè $R = R_1 + R_2$). Le resistenze $R$ e $r$ hanno
-Valori indipendenti dall'intensità di corrente del circuito; cioè,
-La legge di Ohm.
+È noto che esistono elementi elettrici che non rispettano la Legge di Ohm. Ovvero, la relazione tra la corrente $I$ che li attraversa e la differenza di potenziale $U$ a cui sono collegati è data da una funzione $I(U)$ che non è lineare. Un esempio di questa dipendenza, che corrisponde a una lampada a incandescenza L, è mostrato nella figura 2. Supponiamo di montare il circuito in corrente continua della figura 1, in cui usiamo la lampada L che risponde alla curva della figura 2. Il circuito è costituito da una sorgente di corrente continua la cui differenza di potenziale è $e = 6\ \text{V}$ e la cui resistenza interna può essere considerata nulla; $r$ è la resistenza limitatrice della corrente attraverso L.
+Tra i punti D ed E è collegata una resistenza $R$ in modo tale che tra D e C la resistenza è $R_1$ e tra C ed E è $R_2$ (cioè, $R = R_1 + R_2$). Le resistenze $R$ e $r$ hanno valori indipendenti dall'intensità di corrente del circuito; cioè, rispettano la Legge di Ohm.
 Questo circuito può funzionare come uno stabilizzatore della differenza di potenziale tra
-A y B.
+A e B.
 
-Consigne
+Quesiti
 
-1. Per il caso in cui un corrente $I = 0,2\ \text{A}$ circola per L, determinare, di figura 2,
-il valore di $U$ corrispondente e calcolare il valore di $r$ per farlo.
-I punti seguenti indicano che il valore di $r$ corrisponde al
-Calcolato a questo punto.
-2. Trovare, analiticamente o graficamente, utilizzando la figura 2, il valore del corrente
-massima, $I_m$, che circola per $r$ quando L è a cortocircuito ($U = 0$). Marcare
-il valore sopra l'asse $I$ nella scala indicata.
-3. Determina il valore di $R_1$, nel circuito di figura 1 con $U = 2\ \text{V}$, per il quale la
-la differenza di potenziale tra A e B è pari a zero.
-La lampada L in qualsiasi punto di lavoro sulla curva di figura 2
-presenta una resistenza differenziale  $R_D$, definita dal valore della pendenza
-di una linea di riferimento tangente alla curva $I = I(U)$ del punto di lavoro considerato.
-In altre parole, se il valore di $U$ cambia in un valore piccolo $\Delta U$ e
-in seguito il valore di $I$ cambia anche in un piccolo valore $\Delta I$, la
-resistenza $R_D$ è data da
+1. Per il caso in cui in L circoli una corrente $I = 0,2\ \text{A}$, determinare, dalla figura 2, il valore di $U$ corrispondente e calcolare il valore di $r$ affinché ciò avvenga.
+Nei punti seguenti si consideri che il valore di $r$ sia quello corrispondente a quello calcolato in questo punto.
+2. Trovare, analiticamente o graficamente, utilizzando la figura 2, il valore della corrente massima, $I_m$, che circola in $r$ quando L è cortocircuitata ($U = 0$). Segnare tale valore sull'asse $I$ nella scala indicata.
+3. Determinare il valore di $R_1$, nel circuito della figura 1 con $U = 2\ \text{V}$, per il quale la differenza di potenziale tra A e B sia uguale a zero.
+La lampada L in qualsiasi punto di lavoro sulla curva della figura 2 presenta una “resistenza differenziale” $R_D$, definita dal valore della pendenza della retta tangente alla curva $I = I(U)$ nel punto di lavoro considerato.
+In altre parole, se il valore di $U$ cambia di un valore piccolo $\Delta U$ e di conseguenza il valore di $I$ cambia anch'esso di un valore piccolo $\Delta I$, la resistenza $R_D$ è data da
 
 $$R_D = \dfrac{\Delta U}{\Delta I}$$
 
 Figura 1: Circuito.
 
-4. Determina il valore di $R_1$ per il quale la differenza di potenziale tra A e B, $U_{AB}$,
-La differenza di
-Potenza di sorgente ($|\Delta e| < 1\ \text{V}$). Calcolare il valore di $U_{AB}$ per il valore di $R_1$
-Calcolato. In questo paragrafo, utilizzerà le informazioni di cui alla figura 2 per
-fare i suoi calcoli. Rendi i conti in primo ordine nelle variazioni $\Delta e$, $\Delta I$
-y $\Delta U$.
-Supponiamo che si utilizzi il circuito di figura 1 come fonte
-Stabilizzatore a bassa tensione per collegare tra i terminali A e B un
-un dispositivo elettronico che ha una resistenza interna $r_0 = 1000\ \Omega$ e che
-la tensione di lavoro normale è $U_0 = 1,5\ \text{V}$. Si sa inoltre che tale dispositivo
-se il corrente $i_0$ che circola attraverso di esso subisce variazioni, si spegne
-in tempo $\Delta i_0 > 0,0003\ \text{A}$.
-5. Se il valore di $U_{AB}$ corrisponde a quello calcolato nel punto precedente, funzionerà
-il dispositivo elettronico connesso correttamente in tali condizioni?
-giustifica la tua risposta.
-Figura 2: Corrente $I$ vs. $U$ per l'elemento L.
-L'OLIMPIADA ARGENTINA
-FISICA 2006
+4. Determinare il valore di $R_1$ per il quale la differenza di potenziale tra A e B, $U_{AB}$, rimane costante quando si verificano piccole variazioni della differenza di potenziale della sorgente ($|\Delta e| < 1\ \text{V}$). Calcolare il valore di $U_{AB}$ per il valore di $R_1$ calcolato. In questo paragrafo si useranno le informazioni contenute nella figura 2 per fare i calcoli. Eseguire i calcoli al primo ordine nelle variazioni $\Delta e$, $\Delta I$ e $\Delta U$.
+Si supponga ora che il circuito della figura 1 venga usato come una sorgente stabilizzata di bassa tensione per collegare tra i terminali A e B un dispositivo elettronico che ha una resistenza interna $r_0 = 1000\ \Omega$ e la cui tensione normale di funzionamento è $U_0 = 1,5\ \text{V}$. Si sa inoltre che tale dispositivo elettronico si disconnette se la corrente $i_0$ che lo attraversa subisce variazioni nel tempo $\Delta i_0 > 0,0003\ \text{A}$.
+5. Se il valore di $U_{AB}$ corrisponde a quello calcolato nel punto precedente, funzionerà correttamente il dispositivo elettronico collegato in queste condizioni?
+Giustificare la risposta.
+Figura 2: Corrente $I$ vs. $U$ corrispondente all'elemento L.
+OLIMPIADE ARGENTINA
+DI FISICA 2006
 
-Instanza nazionale
+Istanza Nazionale
 
-Prove sperimentali
+PROVA SPERIMENTALE
 17 ottobre 2006
 
-- Scrivi il tuo nome su tutti i fogli e elencali.
-- Ricorda che non puoi usare calcolatori programmabili o altri
-materiale non incluso nella prova, a parte gli strumenti per la scrittura.
-- Prima di iniziare a risolvere ogni problema leggi attentamente TUTTO il
-di cui sopra.
-- Non lasciare alcun segno sul tergopol. Usa le pinze
-proporzionate.
+- Scrivete il vostro nome su tutti i fogli e numerateli.
+- Ricordate che non potete utilizzare calcolatrici programmabili né qualsiasi altro materiale non incluso nella prova, a parte gli strumenti di scrittura.
+- Prima di iniziare a risolvere ogni problema leggete attentamente TUTTO l'enunciato dello stesso.
+- Non lasciate alcun segno sul polistirolo. Usate gli spilli forniti.
 
-- Al termine del tempo di misura, accendi la lanterna.
+- Al termine del tempo di misurazione SPEGNETE la torcia.
 
 Nome:
 
-Numero totale di fogli consegnati (inclusi il foglio e le dichiarazioni):
-Olimpiada Argentina di Fisica
-Olimpiada Nazionale di Fisica 2006
+Numero totale di fogli consegnati (inclusa la copertina e gli enunciati):
+Olimpiada Argentina de Física
+Olimpiada Nacional de Física 2006
 
 Prova sperimentale:
-Misura dell'angolo di osservazione dell'arco iris
+Misura dell'Angolo di Osservazione dell'Arcobaleno
 
-Preliminarie note: Avrai 40 minuti per effettuare una
-lettura comprensiva del materiale di questa guida di lavoro. Poi si
-indicare l'apertura delle luci LED di ciascun equipaggiamento e
-si procederà al completo spegnimento delle luci del laboratorio. Se
-lavorerà in buio per 60 minuti, dopo
-che alla fine accenderanno le luci e non torneranno più.
-- Spegni. Gli altri 80 minuti saranno dedicati alla redazione
-fine delle risposte al questionario.
+Nota Preliminare: Avrete a disposizione 40 minuti per effettuare una lettura comprensiva del materiale di questa guida di lavoro. Successivamente verrà indicato l'accensione delle torce LED di ciascuna squadra e si procederà allo spegnimento completo delle luci del laboratorio. Si lavorerà in condizioni di oscurità per 60 minuti, al termine dei quali si accenderanno finalmente le luci e NON verranno più spente. I restanti 80 minuti potranno essere dedicati alla stesura finale delle risposte del questionario.
 
 1. Introduzione
 
-L'arcobaleno è un fenomeno ottico associato alla riflessione e alla refraczione della luce in gocce
-dell'acqua presente nell'atmosfera. Per l'osservazione naturale dell'arcobaleno è necessario
-che l'osservatore si faccia schiena al sole e che davanti a lui si registri una
-precipitazione pluviale o mantenere in sospensione gocce d'acqua nell'atmosfera a bassa
-altezza.
-L'arco-riversa non ha una posizione fisica determinata nel cielo, la sua forma di arco è
-un'illusione ottica generata dalle gocce d'acqua illuminate dal sole e dalla loro posizione
-apparentemente dipende dalla posizione dell'osservatore. Tuttavia, l'angolo con vertice
-in osservatore, che si forma tra la direzione di osservazione della porzione di arco
-di circunsferenza e la direzione del centro ipotetico di tale circunsferenza, è
-invariabilmente lo stesso indipendentemente dalla posizione dell'osservatore,
-dipendono solo dall'indice di refraczione dell'acqua e dal colore della luce. Questo fatto è stato
-descritto da Descartes, che per la descrizione dell'arco pioggia fece nel 1637 il
-il seguente diagramma:
-In questo diagramma di Descartes, l'angolo a cui stiamo riferendo è formato da
-le reticenze EM ed ED . Si noti che la direzione della retta che unisce l'osservatore e il
-centro dell'arcobaleno (EM) è parallelo ai raggi che arrivano dal sole (AB).
-L'esposizione di Descartes all'arco pioggia si basa sulla refraczione dei raggi del sole
-attraverso la superficie delle gocce d'acqua e nel verificarsi di un riflesso interno,
-Secondo ciò che lo stesso Descartes ha schematizzato nella parte superiore del suo diagramma, e che
-si può vedere di nuovo nel seguente grafico:
+L'arcobaleno è un fenomeno ottico associato alla riflessione e rifrazione della luce nelle gocce d'acqua presenti nell'atmosfera. Per l'osservazione naturale dell'arcobaleno è necessario che l'osservatore si trovi di spalle al sole e che davanti a lui si registri una precipitazione piovosa o si mantengano in sospensione gocce d'acqua nell'atmosfera a bassa quota.
+L'arcobaleno non ha una ubicazione fisica determinata nel cielo, la sua forma ad arco è un'illusione ottica generata dalle gocce d'acqua illuminate dal sole e la sua posizione apparente dipende dalla localizzazione dell'osservatore. Tuttavia, l'angolo con vertice nell'osservatore, che si forma tra la direzione di osservazione della porzione di arco di circonferenza e la direzione del centro ipotetico di detta circonferenza, è invariabilmente lo stesso indipendentemente dalla posizione dell'osservatore, dipendendo solo dall'indice di rifrazione dell'acqua e dal colore della luce. Questo fatto fu descritto da Descartes, il quale per la descrizione dell'arcobaleno confezionò nel 1637 il seguente diagramma:
+In questo diagramma di Descartes, l'angolo al quale facciamo riferimento è quello formato dalle rette EM ed ED . Notare che la direzione della retta che unisce l'osservatore e il
+"centro dell'arcobaleno" ( EM ) è parallela ai raggi che arrivano dal sole ( AB ).
+La spiegazione di Cartesio dell'arcobaleno è basata sulla rifrazione dei raggi del sole attraverso la superficie delle gocce d'acqua e sul verificarsi di una riflessione interna, secondo quanto lo stesso Cartesio schematizzò nella parte superiore del suo diagramma, e che può essere visto nuovamente nel seguente grafico:
 
-Rappresentazione schematica di un raggio di luce che incide
-su una goccia d'acqua, si rifracta attraverso la sua superficie
-in A, si riflette internamente in B e emerge refrattando
-Ancora in C. Per semplificare il diagramma sono stati omessi
-quelle raggi che non partecipano alla formazione dell'arco
-Il punto A e il punto A sono i raggi che si riflettono nel punto A.
-raggio refrattato che emerge dal punto B.
+Rappresentazione schematica di un raggio di luce che incide su una goccia d'acqua, si rifrange attraverso la sua superficie in A, viene riflesso internamente in B ed emerge rifrangendosi nuovamente in C. Per semplificare il diagramma sono stati omessi quei raggi che non partecipano alla formazione dell'arcobaleno, come ad esempio il raggio riflesso nel punto A e il raggio rifratto che emerge dal punto B.
 
-L'angolo di interesse è quello che si forma tra la direzione del fascio di luce
-incidente nella gota (in A) e direzione del fascio che ne emerge (in C)
-sperimentando una riflessione all'interno della goccia (in B). L'uso della
-Trigonometria, Descartes ha dimostrato che questo angolo di deviazione prende un valore
-massimo per un determinato valore della distanza tra la retta del fascio incidente e il
-centro della goccia. Inoltre, questo angolo massimo non dipende dal raggio della goccia.
-Proprio questo angolo massimo corrisponde a quello dell'osservazione dell'arco
-Iris.
+L'angolo di nostro interesse è quello che si forma tra la direzione del fascio di luce incidente nella goccia (in A) e la direzione del fascio che emerge dalla stessa (in C)
+subendo una riflessione all'interno della goccia (in B). Mediante l'uso della
+Trigonometria, Cartesio dimostrò che questo angolo di deviazione assume un valore massimo per un determinato valore della distanza tra la retta del fascio incidente e il centro della goccia. Inoltre, questo angolo massimo non dipende dal raggio della goccia.
+Precisamente, questo angolo massimo è quello corrispondente all'osservazione dell'arcobaleno.
 
-2. Sviluppo dell'esperienza
+2. Svolgimento dell'Esperienza
 
-Nota importante:
-• Poiché l'esperienza si svilupperà nel buio, cerca di
-Si abituano al buio prima di iniziare a lavorare.
-• Evita di accenderti con il torchetto dell'apparecchio. Non notare
-in modo diretto all' LED accesa.
-• Assicurarsi che il fascio di luce che emerge dal tuo equipaggiamento non si accende
-La Commissione ha adottato una proposta di direttiva che prevede che le misure di cui all'articolo
-Compagni.
-• Se avete bisogno di luce per leggere, usate lo stesso lampadino di
-il suo team.
-• Non si spostano per nessun motivo tra i tavoli all'interno del
-- La classe.
-• Se dovete uscire dal laboratorio, comunicate il vostro
-La necessità di andare al lavoro.
+Note importanti:
+• Dato che l'esperienza si svolgerà al buio, cercate di abituarvi alla penombra prima di iniziare a lavorare.
+• Evitate di rimanere abbagliati dalla torcia del vostro gruppo. Non osservate direttamente il LED acceso.
+• Fate in modo che il fascio di luce che esce dal vostro dispositivo non illumini direttamente lo spazio di lavoro dei vostri compagni.
+• Nel caso abbiate bisogno di luce per leggere, utilizzate la stessa torcia del vostro gruppo.
+• Non spostatevi per nessun motivo tra i banchi all'interno dell'aula.
+• Nel caso abbiate bisogno di uscire dal laboratorio, comunicate la vostra necessità al bidello di turno.
 
-L'obiettivo di questa pratica è
+L'obiettivo di questa pratica e
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1kqV2Civ8DnkVSRwDuQvtkJHJXW7fN6oD/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: A low-voltage DC stabilizer.
+Problem 3: A low-voltage direct current stabilizer.
 
-It is known that there are electrical elements that do not comply with Ohm's Law. Es
-That is, the ratio of the current $I$ passing through them to the potential difference $U$ to the current
-that are connected is given by a function $I(U)$ that is not linear. An example of this is
-This dependence, which corresponds to an L incandescent lamp, is shown in the following table:
-The following table shows the following: Whether we're setting up the DC circuit in Figure 1, where
-We use the L lamp that corresponds to the curve in Figure 2. The circuit consists of a
-a continuous current source whose potential difference is $e = 6\ \text{V}$ and its resistance
-The internal resistance can be considered zero; $r$ is the current limiting resistance through L.
-Between points D and E a resistance $R$ is connected so that between D and C the
-The resistance is $R_1$ and between C and E is $R_2$ (i.e. $R = R_1 + R_2$). The resistance $R$ and $r$ have
-values independent of the circuit current intensity; that is, they meet
-Ohm's law.
-This circuit can function as a potential difference stabilizer between
-A y B.
+It is known that there are electrical elements that do not obey Ohm's Law. That is, the relationship between the current $I$ flowing through them and the potential difference $U$ to which they are connected is given by a function $I(U)$ that is not linear. An example of this dependence, which corresponds to an incandescent lamp L, is shown in figure 2. Suppose we assemble the direct current circuit of figure 1, in which we use the lamp L that responds to the curve of figure 2. The circuit consists of a direct current source whose potential difference is $e = 6\ \text{V}$ and whose internal resistance can be considered zero; $r$ is the current-limiting resistance through L.
+Between points D and E a resistance $R$ is connected in such a way that between D and C the resistance is $R_1$ and between C and E it is $R_2$ (that is, $R = R_1 + R_2$). The resistances $R$ and $r$ have values independent of the current intensity in the circuit; that is, they obey Ohm's Law.
+This circuit can function as a stabilizer of the potential difference between
+A and B.
 
-Consignments
+Questions
 
-1. For the case that a current $I = 0,2\ \text{A}$ is flowing through L, determine, from Figure 2,
-the corresponding $U$ value and calculate the $r$ value to make this happen.
-In the following points consider that the value of $r$ is the value of the
-calculated at this point.
-2. Find, analytically or graphically, using Figure 2, the current value
-maximum, $I_m$, which is circulated by $r$ when L is short ($U = 0$). Marking
-This value on the $I$ axis at the indicated scale.
-3. Determine the value of $R_1$, in the circuit in Figure 1 with $U = 2\ \text{V}$, for which the
-The potential difference between A and B is zero.
-The L lamp at any working point over the curve in Figure 2
-has a differential resistance $R_D$, defined by the slope value
-of the tangent line to the curve $I = I(U)$ at the working point concerned.
-In other words, if the value of $U$ changes to a small value $\Delta U$ and
-consequently the value of $I$ also changes to a small value $\Delta I$, the
-resistance $R_D$ is given by
+1. For the case in which a current $I = 0,2\ \text{A}$ flows through L, determine, from figure 2, the corresponding value of $U$ and calculate the value of $r$ for this to occur.
+In the following points consider that the value of $r$ is the one corresponding to that calculated in this point.
+2. Find, analytically or graphically, using figure 2, the value of the maximum current, $I_m$, that flows through $r$ when L is short-circuited ($U = 0$). Mark this value on the $I$ axis on the indicated scale.
+3. Determine the value of $R_1$, in the circuit of figure 1 with $U = 2\ \text{V}$, for which the potential difference between A and B is equal to zero.
+The lamp L at any operating point on the curve of figure 2 has a “differential resistance” $R_D$, defined by the value of the slope of the line tangent to the curve $I = I(U)$ at the operating point considered.
+In other words, if the value of $U$ changes by a small value $\Delta U$ and consequently the value of $I$ also changes by a small value $\Delta I$, the resistance $R_D$ is given by
 
 $$R_D = \dfrac{\Delta U}{\Delta I}$$
 
 Figure 1: Circuit.
 
-4. Determine the value of $R_1$ for which the potential difference between A and B, $U_{AB}$,
-The difference between the two is constant when small variations in the difference between the two are present.
-The source potential ($|\Delta e| < 1\ \text{V}$). Calculate the value of $U_{AB}$ for the value of $R_1$
-Calculated. In this section, you will use the information in Figure 2 to
-Do your calculations. The first order of the calculations shall be $\Delta e$, $\Delta I$
-y $\Delta U$.
-Now suppose you use the circuit in Figure 1 as a source.
-low voltage stabilizer for connecting between terminals A and B a
-an electronic device having an internal resistance $r_0 = 1000\ \Omega$ and its
-The normal working voltage is $U_0 = 1,5\ \text{V}$. It is also known that the device
-The electron is disconnected if the current $i_0$ circulating through it undergoes variations
-in the time $\Delta i_0 > 0,0003\ \text{A}$.
-5. If the value of $U_{AB}$ is the one calculated in the previous paragraph, will it work?
-the electronic device properly connected under such conditions.
+4. Determine the value of $R_1$ for which the potential difference between A and B, $U_{AB}$, remains constant when small variations of the potential difference of the source occur ($|\Delta e| < 1\ \text{V}$). Calculate the value of $U_{AB}$ for the calculated value of $R_1$. In this section you will use information contained in figure 2 to make your calculations. Perform the calculations to first order in the variations $\Delta e$, $\Delta I$ and $\Delta U$.
+Assume now that the circuit of figure 1 is used as a stabilized low-voltage source to connect between terminals A and B an electronic device that has an internal resistance $r_0 = 1000\ \Omega$ and whose normal operating voltage is $U_0 = 1,5\ \text{V}$. It is also known that said electronic device disconnects if the current $i_0$ flowing through it undergoes variations over time $\Delta i_0 > 0,0003\ \text{A}$.
+5. If the value of $U_{AB}$ corresponds to the one calculated in the previous point, will the electronic device connected under those conditions work correctly?.
 Justify your answer.
-Figura 2: Corriente $I$ vs. $U$ corresponding to element L.
-The Argentine Olympic Games
-The Commission has not yet adopted a proposal for a regulation.
+Figure 2: Current $I$ vs. $U$ corresponding to element L.
+ARGENTINE OLYMPIAD
+OF PHYSICS 2006
 
-National court
+National Instance
 
-The test is carried out on the test subject.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+EXPERIMENTAL TEST
+October 17, 2006
 
-- Write your name on all the sheets and list them.
-- Remember you can't use programmable calculators or anything else.
-material not included in the test, other than writing instruments.
-- Before you start solving every problem read carefully ALL the
-The same statement.
-- Don't leave any mark on the tergopol. Use the pins
-proportionate.
+- Write your name on all the sheets and number them.
+- Remember that you may not use programmable calculators or any other material not included in the test, apart from writing utensils.
+- Before starting to solve each problem, carefully read the ENTIRE statement of the problem.
+- Do not leave any mark on the styrofoam. Use the pins provided.
 
-- At the end of the measuring time turn off the flashlight.
+- When the measurement time is over, TURN OFF the flashlight.
 
-Name of the company:
+Name:
 
-Total number of sheets delivered (including cover and statements):
-Argentine Olympic Games in Physics
-2006 National Olympics in Physics
+Total number of sheets handed in (including the cover page and the problem statements):
+Argentine Physics Olympiad
+National Physics Olympiad 2006
 
-The test shall be carried out:
-Measurement of the Rainbow's Observation Angle
+Experimental test:
+Measurement of the Observation Angle of the Rainbow
 
-Preliminary note: You You have 40 minutes to make a
-comprehensive reading of the material in this workbook. Then I know
-indicate the lighting of the LED lamps of each equipment and
-complete extinguishing of the laboratory lights. Se
-The work will be done in the dark for 60 minutes after the
-which will finally turn on the lights and never return to
-Turn it off. The remaining 80 minutes will be devoted to writing
-end of the questionnaire answers.
+Preliminary Note: You will have 40 minutes to carry out a comprehensive reading of the material in this work guide. Then the turning on of the LED flashlights of each team will be indicated and the laboratory lights will then be completely turned off. Work will be done in darkness for 60 minutes, after which the lights will finally be turned on and will NOT be turned off again. The remaining 80 minutes may be devoted to the final writing of the answers to the questionnaire.
 
-1. The following is the list of the countries of the European Union:
+1. Introduction
 
-Rainbow is an optical phenomenon associated with reflection and refraction of light in droplets
-of water present in the atmosphere. For natural observation of the rainbow is necessary
-The observer should stand back to the sun and a sign be registered in front of him.
-rainfall or water droplets in the downward atmosphere remain suspended
-Height.
-The rainbow has no physical location in the sky, its arc shape is
-an optical illusion generated by the droplets of water illuminated by the sun and its position
-The apparent location depends on the location of the observer. However, the angle with the vertex
-in the observer, formed between the observation direction of the arc portion
-The direction of the hypothetical centre of the circle is
-invariably the same regardless of the position of the observer,
-depending only on the refractive index of the water and the color of the light. This fact was
-Descartes, who for the description of the rainbow made in 1637 the
-the following diagram:
-In this diagram of Descartes, the angle we're referring to is the angle formed by the
-the EM and ED lines . Note that the direction of the line connecting the observer and the
-centre of the rainbow (EM) is parallel to the rays coming from the sun (AB).
-Descartes' explanation of the rainbow is based on the refraction of the sun's rays.
-through the surface of the water droplets and in the occurrence of an internal reflection,
-According to what Descartes himself sketched at the top of his diagram, and that
-can be seen again in the following graph:
+The rainbow is an optical phenomenon associated with the reflection and refraction of light in water droplets present in the atmosphere. For the natural observation of the rainbow it is necessary that the observer be with their back to the sun and that in front of them there be rainfall or water droplets suspended in the atmosphere at low altitude.
+The rainbow does not have a determined physical location in the sky; its arc shape is an optical illusion generated by the water droplets illuminated by the sun, and its apparent position depends on the location of the observer. However, the angle with its vertex at the observer, formed between the direction of observation of the portion of the circular arc and the direction of the hypothetical center of said circumference, is invariably the same regardless of the observer's position, depending only on the refractive index of water and the color of the light. This fact was described by Descartes, who for the description of the rainbow made the following diagram in 1637:
+In this diagram by Descartes, the angle to which we refer is the one formed by the lines EM and ED. Note that the direction of the line joining the observer and the
+"center of the rainbow" (EM) is parallel to the rays arriving from the sun (AB).
+Descartes' explanation of the rainbow is based on the refraction of the sun's rays through the surface of water droplets and on the occurrence of an internal reflection, as Descartes himself sketched in the upper part of his diagram, and which can be seen again in the following graphic:
 
-Schematic representation of a beam of light that impacts
-It's a drop of water, it's refracted through its surface.
-In A, it is reflected internally in B and emerges refracting
-again in C. To simplify the diagram, they were omitted.
-those rays that do not participate in the formation of the arc
-The radiation reflected at point A and the
-refracted beam emerging from point B.
+Schematic representation of a ray of light that strikes a water droplet, is refracted through its surface at A, is reflected internally at B, and emerges refracting again at C. To simplify the diagram, those rays that do not participate in the formation of the rainbow were omitted, such as for example the ray reflected at point A and the refracted ray that emerges from point B.
 
-The angle of our interest is the one that forms between the direction of the beam of light
-incident in the droplet (in A) and the direction of the beam emerging from it (in C)
-experiencing a reflection within the gout (in B). By using the
-Trigonometry, Descartes showed that this angle of deviation takes a value
-maximum for a given value of the distance between the incident beam straight and the
-the center of the droplet. In addition, this maximum angle does not depend on the radius of the drop.
-This is exactly the angle of the arc.
-I'm not going to say.
+The angle of our interest is the one formed between the direction of the beam of light incident on the droplet (at A) and the direction of the beam that emerges from it (at C)
+undergoing a reflection inside the droplet (at B). Through the use of
+Trigonometry, Descartes demonstrated that this deviation angle takes a maximum value for a determined value of the distance between the line of the incident beam and the center of the droplet. Furthermore, this maximum angle does not depend on the radius of the droplet.
+Precisely, this maximum angle is the one corresponding to the observation of the rainbow.
 
-2. Development of experience
+2. Development of the Experiment
 
 Important notes:
-• Since the experience will be developed in the dark, seek out
-Get used to the dark before you start working.
-• Avoid lighting up with the equipment's flashlight. Do not observe
-Directly to the LED on.
-• Make sure the light beam that comes out of your equipment doesn't light up
-The Commission has also proposed a number of measures to be taken to ensure that the
-- What?
-• If you need light to read, use the same flashlight as your
-his team.
-• Do not move for any reason between tables within the
-classroom.
-• If you need to leave the laboratory, please tell your doctor
-I need to be on the shift.
+• Since the experiment will be carried out in darkness, try to get used to the dim light before starting to work.
+• Avoid being dazzled by the team's flashlight. Do not look directly at the lit LED.
+• Make sure that the light beam emerging from your equipment does not shine directly on your classmates' workspace.
+• If you need light to read, use the same flashlight from your team.
+• Do not move between the tables in the classroom for any reason.
+• If you need to leave the laboratory, inform the attendant on duty.
 
-The aim of this practice is to
+The objective of this practice e
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1kqV2Civ8DnkVSRwDuQvtkJHJXW7fN6oD/view)
+

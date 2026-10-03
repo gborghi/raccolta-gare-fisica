@@ -705,33 +705,22 @@ indicato sopra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: "A defect"
+Problem 3: "A Blackout"
 
-In a small community of 40 families living in identical housing, each family
-He owns exactly the same appliances as his neighbors. The electricity in the neighborhood is
-It is provided by a single power station which consists of a generator. This is a power source.
-continuous in series with a solenoid of 600 spirals, a radius of 0,25 m and a total length of 3 m. El
-Solenoid is constructed with a wire of a nickel copper alloy of 2,5 mm radius
-(resistivity: $\sigma = 7 \times 10^{-8}\ \Omega$ m, density $\rho = 8\ \text{g/cm}^3$ and specific heat $c = 0{,}109$ cal/g $^\circ$C). Okay , that 's it .
-say the entire generator is equivalent to a serial source with a resistor and a solenoid
-The following is the list of the types of products used in the manufacture of the product: The DC power supply is constructed in such a way that the voltage
-The resulting difference between the resistance and the potential fall is always 220 V ($V_{AB} = 220$ V,
-as shown in Figure 4). This generator also has a cooling system capable of
-disipar una potencia de $1{,}663 \times 10^{6}$ W.
+In a small community made up of 40 families that occupy identical homes, each family owns exactly the same household appliances as their neighbors. The electrical energy for the neighborhood is provided by a single power plant which consists of a generator. This is a direct current source in series with a solenoid of 600 turns, 0.25 m radius and a total length of 3 m. The solenoid is built with a wire made of a nickel-copper alloy of 2.5 mm radius (resistivity: $\sigma = 7 \times 10^{-8}\ \Omega$ m, density $\rho = 8\ \text{g/cm}^3$ and specific heat $c = 0{,}109$ cal/g $^\circ$C). That is to say, the entire generator is equivalent to a source in series with a resistor and an ideal solenoid (without resistance). The direct current source is built in such a way that the resulting voltage between it and the potential drop across the resistor is always 220 V ($V_{AB} = 220$ V, as shown in figure 4). This generator also has a cooling system capable of dissipating a power of $1{,}663 \times 10^{6}$ W.
 
-The following is a list of the electrical devices that exist in each household and their respective
-characteristics:
+The following is a list of the electrical appliances that exist in each home and their respective characteristics:
 
-The following table shows the following:
-The following conditions shall apply:
-The following shall be added to the list of the following:
-1 freezer
+APPLIANCE
+CONSUMPTION (at 220V)
+MIN/MAX VOLTAGE
+1 refrigerator
 10 light bulbs
 1 dishwasher
-1 board
+1 iron
 1 TV
 400 W
-100 W (c/u)
+100 W (each)
 1500 W
 900 W
 70 W
@@ -741,127 +730,78 @@ The following shall be added to the list of the following:
 210 – 280 V
 210 – 230 V
 
-The consumption values correspond to the power output of each device.
-It is required when operating at a voltage of 220 V; the VOLTING column
-MIX/MAX corresponds to the range of voltages for which each device is
-It can work.
+The consumption values correspond to the power that each appliance requires when operating at a voltage of 220 V; the VOLTAGE
+MIX/MAX column corresponds to the range of voltages at which each appliance can operate.
 
-(a) Assuming that all appliances have a totally resistant behaviour
-draw:
-• A diagram equivalent to the electricity grid, for each household;
-• A diagram representing the community's electrical grid including the generator.
+a) Assuming that all household appliances have a totally resistive behavior, draw:
+• A diagram equivalent to the electrical network, corresponding to each house;
+• A diagram representing the community's electrical network including the generator.
 
-(b) Calculate the current delivered by the generator while all electrical devices are running
-They work in all 40 houses.
-(c) How long will it be before the temperature in the generator has risen to $40\ ^\circ\text{C}$?
+b) Calculate the current delivered by the generator while all electrical appliances are operating in the 40 houses.
+c) How much time will pass until the temperature in the generator has risen by $40\ ^\circ\text{C}$?
 
-One day, all the neighbors agreed to turn off their house switches exactly at
-At 9:15 p.m., when all the devices were running. However the Lopez family is
-He forgot what was agreed and at the scheduled time they continued to perform their usual tasks. Other
-neighbors, cut off electricity from their homes, with a few seconds difference between them,
-the appointed time.
+One certain day all the neighbors agreed to turn down the switch keys of their houses at exactly 21:15 hs, when all the appliances were operating. However, the López family forgot the agreement and at the scheduled time they continued carrying out their usual tasks. The other neighbors cut off the electrical power in their houses, with differences of a few seconds between them, at the prearranged time.
 
-The Lopez were burned only by the TV. It was then that Don Lopez, to explain the
-The current was reduced linearly, at approximately
-15 s, from the value calculated in point b to the current value that
-He was circling the electrical system of his own house. He then calculated the voltage at which
-They were all connected as the power went down. Comparing their results
-With the specifications of the devices, he couldn't explain what happened. Repeat these calculations.
+d) Only the López family's T.V. burned out. It was then that Don López, in order to explain what had happened to his children, assumed that the current decreased linearly, in approximately
+15 s, from the value calculated in point b to the value corresponding to the current that was flowing through his own house's electrical installation. He then calculated the voltage to which his appliances were connected while the current was falling. Comparing his results with the specifications of the appliances, he was unable to explain what had happened. Repeat these calculations.
 
-NOTA: Al producirse en un intervalo $\Delta t$ una variación $\Delta i$ de la corriente que circula por el
-Solenoid, is added (in value and sign) to the electrical network circuit a force
-electromotive power given by $\varepsilon = -4\pi 10^{-9}\, S\, \dfrac{N^2 \Delta i}{L \Delta t}$, where $S$ is the cross section of the
-Solenoid; $N$ and $L$ are the number of turns and the total length of the turn. Using cm and s
-as a unit of length and time respectively $\varepsilon$ results in volts.
+NOTE: When a variation $\Delta i$ of the current flowing through the solenoid occurs in an interval $\Delta t$, an electromotive force given by $\varepsilon = -4\pi 10^{-9}\, S\, \dfrac{N^2 \Delta i}{L \Delta t}$ is added (in value and sign) to the electrical grid circuit, where $S$ is the cross-sectional area of the solenoid; $N$ and $L$ are the number of turns and the total length of the same. Using cm and s as units of length and time respectively, $\varepsilon$ results in volts.
 
-(e) Subsequently obtained at the power plant a copy of the graphic current record
-The network is closed to the grid during the power outage (see Figure 5). With
-This information made calculations that allowed him to understand what happened. Could you please
-Explain why the Lopez family TV was burned? Justify your answer with new ones
-The calculations.
+e) Subsequently he obtained at the power plant a copy of the graphical record of the current flowing through the grid, while the blackout was occurring (shown in figure 5). With this information he performed calculations that allowed him to understand what had happened. Could you explain why the López family's TV burned out? Justify your answer with new calculations.
 
-Figure 6 is a repeat of Figure 5 with an extended time scale.
+Figure 6 is a repetition of figure 5 with an expanded time scale.
 
-Using Figure 6 graphically, on the provided grid, the voltage variation in the
-Generator terminals as a function of time.
+Using figure 6, plot qualitatively, on the provided grid, the variation of the voltage at the terminals of the generator as a function of time.
 
-This is an experimental test.
+EXPERIMENTAL TEST.
 
-Viscose Rusting Force in Fluids
+Viscous Friction Force in Fluids
 
-1. The following is the list of the countries of the European Union:
+1. Introduction:
 
-The viscous friction force on a radius sphere $r$ moving within a fluid
-of a density $\delta$ is:
+The viscous friction force on a sphere of radius $r$ moving within a fluid of density $\delta$ is:
 $$F = 6 \pi r \eta v \quad (1)$$
 
-where $v$ is the speed of the sphere and $\eta$ is the dynamic viscosity coefficient of the fluid. La
-Equation (1) is valid when $2r v \delta / \eta \ll 1$. On the other hand, a particle that moves in the breast
-The fluid under the action of gravity reaches a steady state in which its
-speed is constant. Such a speed is known as terminal speed. We can
-also define a parameter of interest called kinematic viscosity, $\gamma = \eta/\delta$.
+where $v$ is the velocity of the sphere and $\eta$ is the dynamic viscosity coefficient of the fluid. Equation (1) is valid when $2r v \delta / \eta \ll 1$. On the other hand, a particle moving within the fluid under the action of the force of gravity reaches a steady regime in which its velocity is constant. This velocity is known as the terminal velocity. We can also define a parameter of interest called kinematic viscosity, $\gamma = \eta/\delta$.
 
-In this experiment we aim to measure the relative kinematic viscosity of a copolymer
-(yellow liquid) compared to glycerin (transparent liquid). The Commission will also determine the
-The speed of the steel spheres with their radii is dependent on the terminal speed.
+In this experiment we intend to measure the relative kinematic viscosity of a copolymer (yellowish liquid) with respect to that of glycerin (transparent liquid). In addition, the dependence of the terminal velocity of steel spheres on their radii will be determined.
 
-2. List of materials:
+2. List of Materials:
 
-• Acrylic test with metallic support and hypodermic needle with two liquids.
-• The magnet.
-• (8) Steel balls of 1,00, 1,50, 2,00, 3,00, 3.25, 3.50, 3,75 and 4,00 mm radius.
-• Metallic pincers
-• Squad.
-• The time-range.
-• Wood rod.
-• White and millimeter paper sheets.
+• Acrylic graduated cylinder with metal support and hypodermic needle with two liquids.
+• Magnet.
+• (8) Steel spheres of 1.00, 1.50, 2.00, 3.00, 3.25, 3.50, 3.75 and 4.00 mm radius.
+• Metal clamp.
+• Set square.
+• Stopwatch.
+• Wooden rod.
+• Sheets of white and graph paper.
 
-3. The Commission shall adopt the following implementing acts:
+3. Experimental Procedure
 
-(i) Determination of the relative kinematic viscosity of a copolymer with respect to that of the
-Glycerin.
+i) Determination of the relative kinematic viscosity of a copolymer with respect to that of glycerin.
 
-Inside the sample of your experimental equipment are two liquids of different densities and different
-viscosity. By the hypodermic needle the probe has assembled , and with the help of the syringe
-I'll get you something. You can insert air bubbles into the glycerin. For this purpose, before connecting
-the syringe to the needle, remove the plunger until it is loaded with $0.03\ \text{cm}^3$ air. Then connect it to the
-Needle and with a quick movement of the plunger inward you. It will make the air bubble.
-I want it.
+Inside the test tube of your experimental equipment there are two liquids of different densities and different viscosities. Through the hypodermic needle that the test tube has assembled, and with the help of the provided syringe, you will be able to introduce air bubbles into the glycerin. To do this, before connecting the syringe to the needle, withdraw the plunger until it is loaded with $0.03\ \text{cm}^3$ of air. Then connect it to the needle and with a quick inward movement of the plunger you will manage to form the desired air bubble.
 
-Measure the time the bubble takes to transit the space between the two marks made on the
-the glycerin region and between the two marks in the copolymer region. Ud. You can
-This will determine the terminal velocity of the bubbles in both liquids.
-Using Newton's second law, the relative kinematic viscosity, $\tau$, is obtained as the
-The ratio of the terminal velocity $v_g$ (in glycerin) to the terminal velocity $v_c$ (in copolymer):
+Measure the time the bubble takes to travel the space between the two marks made on the test tube in the glycerin region and between the two marks in the copolymer region. You will thus be able to determine the terminal velocity of the bubbles in both liquids.
+Using Newton's second law, the relative kinematic viscosity, $\tau$, is obtained as the ratio between the terminal velocity $v_g$ (in glycerin) and the terminal velocity $v_c$ (in the copolymer):
 $$\tau = \frac{\gamma_c}{\gamma_g} = \frac{v_g}{v_c}$$
 
-It is required:
+The following is required:
 
 - **A.** Determine $\tau$ with its error according to the procedure indicated above.
-- **B.** Describe in detail the method used in obtaining errors.
+- **B.** Describe in detail the method used in obtaining the errors.
 
-Note: Please note that it is not necessary to expect the bubbles to reach the upper surface
-(in contact with air) to release another bubble. This will save you time.
+Note: Keep in mind that it is not necessary to wait for the bubbles to reach the upper surface (in contact with the air) to release another bubble. This will allow you to save time.
 
-(ii) Determination of the dependence on the terminal speed of steel balls moving in
-a fluid, with the radius of the same.
+ii) Determination of the dependence of the terminal velocity of steel spheres moving in a fluid, with their radius.
 
-With the provided tweezers, place the larger diameter sphere on the metal support that the
-Proof on its upper part. Notice that there are no air bubbles attached to the sphere. Once upon a time
-This is a guide, with the help of the wooden rod of your equipment, the sphere up to the
-the central support hole. Let her fall through that hole. Measure the time it takes the sphere to
-travel the interval indicated on your sample in the yellowing area.
+Using the provided tongs, place the sphere with the largest diameter on the metal support that the graduated cylinder has at its top. Observe that there are no air bubbles adhering to the sphere. Once this has been verified, guide the sphere, with the help of the wooden rod from your equipment, to the central hole of the support. Let it fall through that hole. Measure the time it takes the sphere to travel the interval indicated on your graduated cylinder in the region of the yellowish liquid.
 
-Once the fall time is determined, extract the probe's sphere with the help of the magnet. Ud.
-The steel ball may be rescued from the bottom of the sample as often as it deems necessary.
-This will allow you to make statistics with your measurements. Measure the times of
-fall for the remaining spheres, following the larger ones, repeating the procedure
-indicated above.
+Once the fall time has been determined, remove the sphere from the graduated cylinder with the help of the magnet. You
+will be able to retrieve the steel sphere from the bottom of the graduated cylinder as many times as you consider necessary.
+This will allow you to perform statistics with your measurements. Carry out the measurement of the fall times for the remaining spheres, continuing with those of larger diameter, repeating the procedure indicated above.
 
 The following is requested:
 
-**Topic:** [[Circuits]], [[Electromagnetic Induction]], [[Fluid Mechanics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Solenoid (object)|Solenoid]], [[Resistor (object)|Resistor]], [[Wire (object)|Wire]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1UZ2TZGXw5CCZZXg9O2smDDJcERQkNOtZ/view)
+

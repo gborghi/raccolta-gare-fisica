@@ -789,17 +789,10 @@ non conservatori (dissipativi) conservatori.
 
 <div class="qlang-split" data-lang="en"></div>
 
-15. The force of friction is:
+15. Friction forces are:
 conservative.
-The Commission has not yet adopted a proposal for a regulation on the protection of the environment.
-The Commission has also adopted a number of measures to combat the spread of the virus.
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+non-conservative (dissipative).
+non-conservative (dissipative) conservative.
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Argent na allenamento — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
@@ -1307,21 +1300,12 @@ b) Determina la velocità media della particella nel effettuare tale
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Situation 1**
 
 Situation 1
-Suppose a particle travels a distance d=500m, describing
-a straight path in a time t=60s.
-(a) It outlines the proposed situation.
-(b) Determine the average particle speed when performing this test.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+Suppose a particle travels a distance d= 500m, describing a rectilinear trajectory in a time t=60s.
+a) Draw a diagram of the proposed situation.
+b) Determine the average velocity of the particle when carrying out said displacement.
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Argent na allenamento — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
@@ -1371,24 +1355,15 @@ SITUATIONS PROBLEMATIche
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the manufacturer:
+**Situation 2**
 
 Situation 2
-Suppose a particle travels a distance d=500m, describing
-a straight path with and constant speed of module V= 20m/s.
-(a) It outlines the proposed situation.
-(b) Determine the time taken by the particle to perform such a test.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Problematic situations
+Suppose a particle that travels a distance d= 500m, describing a rectilinear trajectory with and constant speed of magnitude V= 20m/s.
+a) Draw a diagram of the proposed situation.
+b) Determine the time the particle takes to make said displacement.
+PROBLEMATIC SITUATIONS
 
 16
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="Argent na allenamento — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -1442,26 +1417,15 @@ la particella.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information shall be provided:
+**Situation 3**
 
 Situation 3
-Consider a particle moving a distance d= 1000m,
-I'm looking at a straight path. Suppose that particle originated from the re-
-The acceleration rate is 0.2 m/s2.
-(a) It outlines the proposed situation.
-(b) Determine the time taken by the particle to perform the des-
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-(c) Calculate the average particle velocity.
-(d) Calculate the velocity at which the particle reached the end of the path.
-(e) Of an expression for the magnitude of the instantaneous velocity of
-the particle.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+Consider a particle that travels a distance d= 1000m, describing a rectilinear trajectory. Assume that said particle started from rest and that it has an acceleration a= 0.2m/s2.
+a) Draw a diagram of the proposed situation.
+b) Determine the time the particle took to make said displacement.
+c) Calculate the average velocity of the particle.
+d) Calculate the velocity reached by the particle at the end of the path.
+e) Give an expression for the magnitude of the instantaneous velocity of the particle.
 
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="Argent na allenamento — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -1523,30 +1487,17 @@ tempo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Situation 4**
 
 Situation 4
-Consider a particle moving a distance d= 1000m,
-I'm looking at a straight path. Suppose that particle had an initial--
-It is a speed V= 20m/s and at the end of its journey its speed was
-- No, not at all. Suppose you made the shift in 100s.
-(a) It outlines the proposed situation.
-(b) Determine the acceleration of the particle during such displacement.
-I'm lying to you.
+Consider a particle that travels a distance d= 1000m, describing a rectilinear trajectory. Assume that said particle initially had a velocity V= 20m/s and that at the end of its path its velocity was zero. Assume that it made the displacement in 100s.
+a) Draw a schematic of the proposed situation.
+b) Determine the acceleration of the particle during said displacement.
 
 17
-(c) Calculate the average particle velocity.
-(d) Calculate the velocity at which the particle reached the midpoint of
-his journey.
-(e) An expression for the position of the particle in terms of the
-time.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+c) Calculate the average velocity of the particle.
+d) Calculate the velocity reached by the particle at the midpoint of its path.
+e) Give an expression for the position of the particle as a function of time.
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Argent na allenamento — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -1608,30 +1559,17 @@ tra 0 e 100
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Situation 5**
 
 Situation 5
-Consider a particle mass m=2kg on which a force of
-The following is the sum of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first of the values of the values of the values of the values of the values of the first of the values of the values of the values of the first values of the values of the first of the first of the first of the first of the values of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of the first of Suppose that particle was initially (t=0) in re-
-I'm sure the force was applied for 100 years.
-(a) It outlines the proposed situation.
-(b) Determine the acceleration of the particle during that period of
-time.
-(c) Write an expression for the instantaneous velocity of the particle
-for this period and also for a period after
-The 100s.
-(d) Calculate the velocity the particle reached at 100s.
-(e) Calculate the average particle velocity for the time interval
-between 0s and 100s.
+Consider a particle of mass m=2kg on which a force of magnitude F= 10N acts. Assume that said particle initially (t=0) was at rest and that the force was applied for 100s.
+a) Draw a diagram of the proposed situation.
+b) Determine the acceleration of the particle during said period of time.
+c) Write an expression for the instantaneous velocity of the particle for this period of time and also for a time after 100s.
+d) Calculate the velocity reached by the particle at 100s.
+e) Calculate the average velocity of the particle for the time interval between 0s and 100s.
 
 18
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="Argent na allenamento — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
@@ -1675,21 +1613,12 @@ b) Determina l'accelerazione della particella.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Situation 6**
 
 Situation 6
-Consider a particle mass m=2kg that is dragged, with a thread, me-
-The force of the module F = 10N. Suppose the pink particle over
-a surface that prints a friction force of Fr= 3N.
-(a) It outlines the proposed situation.
-(b) Determine the acceleration of the particle.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+Consider a particle of mass m=2kg that is dragged, with a string, by means of a force of magnitude F= 10N. Assume that the particle slides on a surface that exerts a friction force of Fr= 3N.
+a) Draw a diagram of the proposed situation.
+b) Determine the acceleration of the particle.
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="Argent na allenamento — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
@@ -1811,25 +1740,16 @@ d) Determina la variazione dell'energia cinetica della particella.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in Article 4 (1) of Regulation (EU) No 575/2013:
+**Situation 8**
 
 Situation 8
-Consider a particle of mass m=2kg, initially at rest, falling to
+Consider a particle of mass m=2kg, initially at rest, falling freely
 
-19
-The following shall be reported in the table below:
-(a) It outlines the proposed situation.
-(b) Determine the work carried out by the forces acting on the
-The particle.
-(c) Determine the potential energy variation of the particle.
-(d) Determine the variation in the kinetic energy of the particle.
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+19 from a height h=10m under the action of Earth's gravity.
+a) Draw a diagram of the proposed situation.
+b) Determine the work done by the forces acting on the particle.
+c) Determine the change in potential energy of the particle.
+d) Determine the change in kinetic energy of the particle.
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="Argent na allenamento — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/lever,object/rod"></span>
@@ -1883,26 +1803,17 @@ spostare l'oggetto quando si utilizza la leva.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Situation 9**
 
 Situation 9
-Consider a bar 100cm long, which will be used to make a
- first order lever and move an object of mass m=200kg. Suppose
-that the distance between the chosen support point and the object is 20 cm.
-(a) It outlines the proposed situation.
-(b) Determine the minimum force required to be applied to
-Move the object when using the lever.
+Consider a bar 100 cm long, which will be used to make a
+"first-order lever" and move an object of mass m=200 kg. Suppose that the distance between the chosen fulcrum and the object is 20 cm.
+a) Draw a diagram of the proposed situation.
+b) Determine the minimum force that must be exerted to move the object when "the lever" is used.
 
 20
 
 21
-
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
 
 
 <span class="atom-split" id="q33" data-atom="q33" data-title="Argent na allenamento — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
@@ -1952,84 +1863,44 @@ g) La altura máxima alcanzada por la carga.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cannonazo**
+**Colpo di cannone**
 
-Canionaggio!!!
-Si tratta di usare un cannone per inviare verticalmente, fino a un certo punto.
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento (UE) n.
-Il cannone è disegnato in modo tale che la forza di impulso prodotta da
-La temperatura del gas di esplosione è costante lungo il percorso del carico.
-La carica si allontana dal cannone e si annulla quando la carica si allontana. Chiamiamo F al modulo
-di questa forza e l alla lunghezza del cannone. Scommette che le forze di frattura sono disprezzate,
-sia del carico con il cannone che di questo con l'aria. Si desidera sapere:
-a) Le direzioni, i sensi e le intensità delle forze che agiscono
-sulla carica mentre essa si muove all'interno del cannone, nonché
-le conseguenti.
+Colpo di cannone!!!
+Si tratta di utilizzare un cannone per inviare verticalmente, fino a una certa altezza, carichi che contengono strumentazione scientifica.
+Il cannone è disposto in modo tale che la forza propulsiva, prodotta dai gas dell'esplosione, è costante lungo il percorso del carico all'interno del cannone e si annulla quando il carico lo abbandona. Chiamiamo F il modulo di questa forza e l la lunghezza del cannone. Si trascurano le forze di attrito, sia del carico con il cannone sia di questo con l'aria. Si desidera sapere:
+a) Le direzioni, i versi e le intensità delle forze che agiscono sul carico mentre questo si sposta all'interno del cannone, nonché quelle della sua risultante.
 b) La forza totale che agisce sul carico fuori dal cannone in:
-b) il punto medio della rotta ascendente;
-Problemi
+b1) il punto medio della traiettoria ascendente;
+PROBLEMI
 
-22
-b2) il punto di massima altezza;
-b3) il punto medio della traccia discendente.
-c) Il lavoro effettuato dalla forza F dei gas sul carico.
-d) Energia cinetica e velocità di carico all'istante di uscita
-- Per la bocca del cannone.
-e) Il tipo di movimento del carico all'interno del cannone, la legge che
-descrive quel movimento e il valore o espressione dei parametri
-o costanti di quella legge per questo problema. Fondamentalmente il suo
-- Si', si è messo.
-(f) La classe di movimento della carica fuori dal cannone, la legge che
-La data di arrivo del parametro è la data di arrivo del parametro.
-tante di quella legge per questo problema. Fondamentalmente la sua risposta.
-g) L'altezza massima raggiunta dal carico.
+22 b2) il punto di massima altezza;
+b3) il punto medio della traiettoria discendente.
+c) Il lavoro compiuto dalla forza F dei gas sulla carica.
+d) L'energia cinetica e la velocità della carica nell'istante in cui esce dalla bocca del cannone.
+e) Il tipo di movimento della carica all'interno del cannone, la legge che descrive tale movimento e il valore o l'espressione dei parametri o delle costanti di tale legge per questo problema. Motivate la vostra risposta.
+f) Il tipo di movimento della carica fuori dal cannone, la legge che descrive il suo movimento e il valore o l'espressione dei parametri o delle costanti di tale legge per questo problema. Motivate la vostra risposta.
+g) L'altezza massima raggiunta dalla carica.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages:
+**Cannon Shot**
 
-I canonise you!
-It is a question of using a cannon to send vertically, up to a certain
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1069/2009.
-The cannon is arranged in such a way that the driving force produced by the
-The resulting gas explosion is constant throughout the course of the load.
-It is removed from the cannon and is cancelled when the cargo leaves it. We call the module F.
-of this force and I to the length of the cannon. They despise the forces of friction,
-Both the cannon and the air cargo. You want to know:
-(a) The directions, senses and intensities of the forces acting
-on the load as it moves within the cannon, as well as
-the resulting one.
-(b) The total force acting on the off-gun load in:
-(b1) the middle point of the upward trajectory;
-The Problems
+Cannon shot!!!
+The idea is to use a cannon to send vertically, up to a certain height, payloads containing scientific instruments.
+The cannon is arranged in such a way that the driving force, produced by the explosion gases, is constant along the path of the payload inside the cannon and becomes zero when the payload leaves it. We call F the magnitude of this force and l the length of the cannon. Friction forces are neglected, both between the payload and the cannon and between it and the air. We wish to know:
+a) The directions, senses and magnitudes of the forces acting on the payload while it moves inside the cannon, as well as those of their resultant.
+b) The total force acting on the payload outside the cannon at:
+b1) the midpoint of the upward trajectory;
+PROBLEMS
 
-22
-(b2) the maximum height point;
-(b3) the midpoint of the downward trajectory.
-(c) The work done by the force F of the gases on the load.
-(d) Kinetic energy and speed of load at the instant of exit
-through the mouth of the canyon.
-(e) The class of movement of the load within the cannon, the law which
-describes that movement and the value or expression of the parameters
-Or constants of that law for this problem. Basically its
-I'm wearing it.
-(f) The class of movement of the load outside the cannon, the law which
-The value of the parameters or cons-
-I'm not sure I'm gonna get a lot of that law on this problem. Basically his answer.
-(g) The maximum height reached by the load.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+22 b2) the point of maximum height;
+b3) the midpoint of the descending trajectory.
+c) The work done by the force F of the gases on the load.
+d) The kinetic energy and the velocity of the load at the instant it leaves the mouth of the cannon.
+e) The type of motion of the load inside the cannon, the law that describes that motion and the value or expression of the parameters or constants of that law for this problem. Justify your answer.
+f) The type of motion of the load outside the cannon, the law that describes its motion and the value or expression of the parameters or constants of that law for this problem. Justify your answer.
+g) The maximum height reached by the load.
 
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="Argent na allenamento — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
@@ -2405,63 +2276,29 @@ Meccanica di una caloria è pari a 4.2 J.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take appropriate action.
+**Alaska, January 5, 1936**
 
 Alaska, January 5, 1936
-An Eskimo, who has lost his dogs, wants to return to his igloo. For that
-You must cross a frozen lagoon. Taking advantage of the decline of the coastline
-He climbs on his sled and, starting from the rest, lets himself slide freely towards the
+An Eskimo, who has lost his dogs, wants to return to his igloo. To do so he must cross a frozen lagoon. Taking advantage of the slope of the coast he gets on his sled and, starting from rest, lets himself slide freely toward
 
-26
-The lagoon. The splicing between the shore surface and the lagoon is soft. La
-The mass of the sled plus the mass of the Eskimo and its total load is M = 100 kg.
-(a) At the surface of the lagoon the speed of the slide is
-de 10 m/s.
-Determine the height, above the surface of the lagoon, from where
-He started to slip the sled. For this reason, suppose that, for this purpose,
-The Commission has already decided to take a decision on the following points:
-(b) At 10s of sliding over the horizontal surface of the lagoon (with
-The squid must throw some of the
-His load to hold a bear that's blocking his way. The pro-
-The weight of the metal m = 2 kg is thrown forward in the direction of
-The screw is rotated and leaves the Eskimo hand with v = 5 m/s with respect to the
-I'm going to slide.
-Calculate the slide speed after the projector is launched.
-The Commission shall adopt implementing acts.
-(c) 10 years after the projectile was dropped, the sled reaches the other shore.
-Calculate the length of the route, over the lagoon, which the ski-
-It's bad. Consider the act of throwing the projectile instantaneous.
-(d) The splicing between the horizontal surface of the lagoon and this other
-It's coastal, it's also soft. The surface (ice) of the ramp of the as-
+26 the lagoon. The junction between the surface of the coast and the lagoon is smooth. The mass of the sled plus that of the Eskimo and all his load is M = 100 kg.
+a) On reaching the surface of the lagoon the speed of the sled is 10 m/s.
+Determine the height, above the surface of the lagoon, from which the sled began to slide. For this assume that, for this part of the trip, friction can be considered negligible.
+b) 10 s after sliding along the horizontal surface of the lagoon (with friction also negligible) the Eskimo must throw part of his load to scare away a bear that is blocking his path. The projectile, of mass m = 2 kg, is thrown forward in a horizontal direction and leaves the Eskimo's hand with v = 5 m/s relative to the sled.
+Calculate the speed of the sled after the projectile is thrown.
+c) 10 s after having thrown the projectile the sled reaches the other coast.
+Calculate the length of the path, over the lagoon, that the Eskimo traveled. Consider the act of throwing the projectile as instantaneous.
+d) The junction between the horizontal surface of the lagoon and this other coast is also smooth. The surface (ice) of the "ramp" of
 
-27
-The census is flat, with a slope of 15°, but now it has ro-
-The value of the coefficient of the coefficient is μ = 0.75.
-Calculate the maximum height to which the sled could climb, if the
-The ice ramp was long enough.
-(e) In reality, the ramp is only up to 1 m above the surface of the
-The lagoon and then gently splash with a horizontal surface.
-That's it.
-Whereas the temperature of the ice on the climb ramp
-outside 0oC, calculate the amount of ice melting during the passage
-The resulting water temperature is
-also of 0oC.
-(f) Finally, calculate the speed at which the sled will start its movement.
-lie over the final horizontal surface.
-Data: For points (d), (e) and (f) consider the contributions of
-the splicing sections between the horizontal surfaces and the ramp.
-Consider the acceleration of gravity g = 10 m/s2; latent heat of fusion
-The water is 80 cal/g and its specific heat is 1 cal/g. The equivalent
-The mechanical of a calorie is equal to 4.2 J.
+27th census is flat, with a slope of 15º, but now it presents friction whose coefficient is µ = 0.75.
+Calculate the maximum height to which the sled could climb, if the icy ramp were long enough.
+e) In reality, the ramp rises only up to 1 m above the surface of the lagoon and then smoothly connects with a horizontal surface.
+Considering that the temperature of the ice of the ascent ramp were 0ºC, calculate the amount of ice that melts due to the passage of the sled, assuming that the temperature of the resulting water is also 0ºC.
+f) Finally, calculate the speed that the sled will have when it begins its motion on the final horizontal surface.
+Data: For points d), e) and f) consider negligible the contributions of the connecting sections between the horizontal surfaces and the ramp.
+Consider the acceleration of gravity g = 10 m/s2; the latent heat of fusion of water is 80 cal/g and its specific heat is 1 cal/g. The mechanical equivalent of one calorie is equal to 4.2 J.
 
 28
-
-**Topic:** [[Conservation of Energy]], [[Conservation of Momentum]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
 
 
 <span class="atom-split" id="q37" data-atom="q37" data-title="Argent na allenamento — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
@@ -2575,56 +2412,19 @@ Nota: Considera l'accelerazione della gravità, g, pari a 9,8 m/s2.
 
 <div class="qlang-split" data-lang="en"></div>
 
-A regular race
+**A regularity race**
 
-A regular race
-The owner of a small vehicle,
-of weight, decides to participate
-In a regular rally. The test regulations require that the speed of the
-The vehicle on the pavement must be kept constant and equal to
-80 km/h. A stretch of the track where the competition takes place, seen
-from the air, is shown in Figure 1.
-En
-One of them.
-de
-their
-sections
-Other
-la
-The trail
-It has
-One of them
-10 m ramp of
-The length and a
-The Commission has already adopted a proposal for a regulation on the
-The following shall be added to the list of the following:
-in Figure 2). Right after that ramp there's a
-very deep swamp 15 m long and wide of the
-- The lead. (section b-c in Figure 2).
-Figure 1
-Figure 2
+A regularity race
+The owner of a small vehicle, of weight, decides to take part in a regularity rally. The rules of the event require that the speed of the vehicles on the pavement must be kept constant and equal to
+80 km/h. A section of the track on which the competition takes place, seen from the air, is shown in figure 1.
+In one of its straight sections the track has a ramp 10 m long and with an inclination of 6° with respect to the horizontal (segment a-b in figure 2). Immediately after that ramp there is a very deep swamp 15 m long and as wide as the whole track. (segment b-c in figure 2).
+figure 1 figure 2
 
 29
-1. What additional force must be imparted to the vehicle (through the
-The engine-transmission canism) to maintain its speed
-at 80 km/h along the entire stretch (a-b)?
-2. Given the conditions laid down in the regulation, will it achieve the
-Jumping from one side of the swamp to the other? Justify your answer.
-3. Before finding the ramp and the swamp, the driver must
-The value of the input data shall be calculated as follows: This curve is cir-
-a necklace with an internal radius of r1 = 60 m and an external radius of r2 = 70 m. Knowing
-The tyre is not a flat tyre.
-The car and the pavement is μ = 0.8 and assuming that the driver
-It'll take the curve along a circular path, what's the radius?
-minimum of that circumference so the vehicle does not crash?
-Note: Consider the acceleration of gravity, g, equal to 9.8 m/s2.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+1. What additional force must be imparted to the vehicle (through the engine-transmission mechanism) so that its speed remains at 80 km/h throughout the entire stretch (a-b)?
+2. Given the conditions imposed by the regulations, will the vehicle manage to jump from one side of the swamp to the other? Justify your answer.
+3. Before encountering the ramp and the swamp, the driver must go through the curve shown in figure 1. This curve is circular in shape with inner radius r1 = 60 m and outer radius r2 = 70 m. Knowing that the coefficient of static friction between the car's tires and the pavement is µ = 0.8 and assuming that the driver will take the curve following a circular path, what is the minimum radius of that circumference so that the vehicle does not skid?
+Note: Consider the acceleration due to gravity, g, equal to 9.8 m/s2.
 
 
 <span class="atom-split" id="q38" data-atom="q38" data-title="Argent na allenamento — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/wheel"></span>
@@ -2919,50 +2719,25 @@ I punti di punta del fiocco sono i seguenti:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to adopt a decision on the application of this Regulation.
+**Italian heritage**
 
 Italian heritage
-I inherited a pendulum watch that my great-grandfather brought many years ago and
-I'd like to install it in my new home. It's embedded in a wooden box.
-which, on the back, has some factory designations. After
-I can translate them and read:
-Clock made in Rome, 1738. Its mechanism consists of:
+I have inherited a pendulum clock that my great-grandfather brought many years ago and I would like to install it in my new house. It is set into a wooden case that, on its back, has some factory indications. After translating them I can read:
+"Clock made in Rome, 1738. Its mechanism consists of
 
 32
-To control the clock's operation, I release the mass from a width
-I'm starting at α0 and I find this one is running late. I wouldn't change the structure.
-I'm gonna turn the clock, a friend suggests I put a stop, or, on the verti-
-The support shall be fixed at and 50 cm below the support point, so as to modify the
-total period of oscillation. I especially recommend that there should be no
-friction between the pendulum thread and the obstacle that you might consider as
-a very small radio cylinder. To guide me, he made me the next day...
-the following grams:
-a pendulum constructed with a special very thin thread of
-100,0 cm in length and a mass of 300,0 g. The thread can be so-
-carry a voltage of up to 3,30 N.
+To check the operation of the clock, I release the mass from an initial amplitude α0 and find that it runs slow. Since I would not like to change the structure of the clock, a friend suggests placing an obstacle, O, on the vertical below the support point and 50 cm below it, so as to modify the total oscillation period. He especially recommends that there must be no friction between the pendulum string and the obstacle, which could be considered as a cylinder of very small radius. To guide me he made the following diagram:
+a pendulum constructed with a special very thin string of
+100.0 cm in length and a mass of 300.0 g. The string can withstand a tension of up to 3.30 N".
 
 33
-Before making the changes I decided to do some calculations:
-(a) If the obstacle is placed and then again left to oscillate from a
-The following shall be reported:
-What would be the angle βmax of maximum vertical separation?
-(b) Whereas the oscillation amplitudes are sufficient
-The first is that the period of a pendulum without an ob-
-The total amount of the new period is calculated as T = 2π (L/g) 1/2, what would be the new period
-total oscillation of the modified pendulum?
-(c) What is the value of the stress on the wire for angles 0_ β _ βmax?
-(d) Is the proposed modification possible given the conditions -
-Manufactured specifications for thread? Justify your answer by
-The calculations.
-Note: The voltage on a wire is the modulus of the FT force applied to both
-The end of the same as shown in the figure.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
-
+Before making the changes I decide to do some calculations:
+a) If I were to place the obstacle and let it oscillate again from an initial amplitude α0 = 15°.
+What would be the angle βmax of maximum deviation from the vertical?
+b) Considering that the oscillation amplitudes are small enough to accept that the period of a pendulum without an obstacle is calculated as T = 2π (L/g)1/2, what would be the new total oscillation period of the modified pendulum?
+c) What is the value of the tension in the string for angles 0_ β _ βmax?
+d) Will the suggested modification be possible given the factory-specified conditions for the string? Justify your answer by means of calculations.
+Note: The tension on a string is the magnitude of the force FT applied at both ends of the string as shown in the figure.
 
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="Argent na allenamento — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/cylinder,object/rope-string,object/pulley"></span>
@@ -3068,192 +2843,108 @@ Tel.: 0351-5353701 (int. 41361) - Correo electrónico: oaf@famaf.unc.edu.ar
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un'operazione in alto mare
+**Una missione in alto mare**
 
 Una missione in alto mare
-Una nave oceanografica parte in una missione per misurare la concentrazione di
-L'ossigeno diluito nell'acqua di mare, in una regione dell'oceano Atlantico nel
+Una nave oceanografica parte per una missione volta a misurare la concentrazione di ossigeno disciolto nell'acqua di mare, in una regione dell'oceano Atlantico nel
 
-34
-da 0 a 2000 metri di profondità.
-La sonda che si dispone è costruita in acciaio, poiché le
-Le sue condizioni di vita sono molto elevate. Ha una forma radiocirculare
-R= 0,25 m e altezza L= 1 m. Il suo peso è M=500 kg. Il collegamento tra la
-la sonda e il cavo per sollevarla è un acoppiolo a riso. Tutto il coppia, una volta
-il volume di un'operazione è di circa un milione di tonnellate.
-- E' il peso della sonda. Una volta che la sonda è pronta, la trasporta alla
-il grilletto che la immergerà fino a 2000 metri di profondità. Il cavo di
-Acciaio, di diametro di 1,5 cm, ha una densità di 5500 kg/m3. Nella figura
-si mostra lo schema del grilletto della nave.
+34 intervallo da 0 a 2000 metri di profondità.
+La sonda di cui si dispone è costruita in acciaio, poiché le pressioni che deve sopportare sono molto elevate. Essa ha forma cilindrica di raggio
+R= 0.25m e di altezza L=1m. La sua massa è M=500kg. L'aggancio tra la sonda e il cavo per sollevarla è un accoppiamento filettato. Tutto l'accoppiamento, una volta avvitato, resta incluso all'interno del cilindro della sonda e la sua massa è inclusa nella massa della sonda. Una volta preparata, la sonda viene trasferita alla gru che la immergerà fino a 2000m di profondità. Il cavo d'acciaio, di 1.5cm di diametro, ha una densità di 5500kg/m3. In figura è mostrato lo schema della gru della nave.
 
 35
-Il punto A1 è il punto da cui il cavo non entra in contatto con la polea
-E' a 15 metri dal livello del mare. A2 è il punto in cui il cavo termina e
-La sonda inizia, mentre A3 indica il centro geometrico della sonda che
-coincide con il suo centro di massa. Se la sonda scende a velocità cons-
-- Non è vero.
-a) Calcolare la forza che il cavo sta facendo in A2 quando A3 è
-a un metro sul livello del mare.
-b) Calcolare la forza che il cavo sta facendo in A2 quando A3 è
-a un metro sotto il livello del mare.
-c) Calcolare la forza che il cavo fa in A1 quando A3 è a 2000 m
-Sotto il livello del mare.
-Una volta terminate le misure, il cavo inizia a rotolare. Quando
-A3 è a mezzo metro sotto il livello del mare, il diametro della bobina
-in cui il cavo è rotolato è D=64cm e l'asse della bobina è a livello
-dal mare.
-d) Graficare la forza che il cavo fa al punto A2 dal momento che A3
-E' a 0,5 metri sotto il livello del mare fino a quando l'A3 è a 1,5 metri
-sul livello del mare.
-e) Calcolare il lavoro svolto dal motore che rimuove il cavo, per
-portare l'A3 da 0,5 m al di sotto del livello del mare a 1,5 m per
+Il punto A1 è il punto a partire dal quale il cavo non è più a contatto con la carrucola e si trova a 15 m sul livello del mare. A2 è il punto in cui termina il cavo e inizia la sonda, mentre A3 indica il centro geometrico della sonda, che coincide con il suo centro di massa. Se la sonda scende con velocità costante:
+a) Calcolare la forza che il cavo esercita in A2 quando A3 è a un metro sul livello del mare.
+b) Calcolare la forza che il cavo esercita in A2 quando A3 è a un metro sotto il livello del mare.
+c) Calcolare la forza che il cavo esercita in A1 quando A3 è a 2000 m sotto il livello del mare.
+Una volta terminate le misurazioni si inizia ad avvolgere il cavo. Quando
+A3 è a mezzo metro sotto il livello del mare, il diametro della bobina su cui è avvolto il cavo è D=64 cm e l'asse della bobina è a livello del mare.
+d) Tracciare il grafico della forza che il cavo esercita nel punto A2 da quando A3 è a 0.5 m sotto il livello del mare fino a quando A3 è a 1.5 m sul livello del mare.
+e) Calcolare il lavoro compiuto dal motore che avvolge il cavo, per portare A3 da 0.5 m sotto il livello del mare fino a 1.5 m sul
 
-36
-al di sopra del livello del mare. Sfruttare il ruggine sugli assi di to-
-- Dai le polemiche.
-Le affermazioni della sezione Problemi sono state parte delle prove teoriche.
-Casse prese in diverse istanze nazionali dell'Olimpiade Argentina di
+36 sopra il livello del mare. Si trascuri l'attrito negli assi di tutte le carrucole.
+Gli enunciati della sezione Problemi hanno fatto parte delle prove teoriche assegnate in diverse Istanze Nazionali delle Olimpiadi Argentine di
 Fisica:
-- Canonizzazione!!!, 1991.
+- Cañonazo!!!, 1991.
 - Un gioco interessante, 1993.
-- Una bilancia di primavera, 1994.
+- Una bilancia a molla, 1994.
 - Alaska, 5 gennaio 1936, 1995.
-- Una corsa di regolare, 1996.
-- L'antica e la ruota, 1997.
-- Erede italiana, 2000.
+- Una corsa di regolarità, 1996.
+- La formica e la ruota, 1997.
+- Eredità italiana, 2000.
 - Una missione in alto mare, 2001.
 
 37
-A. Maiztegui, J. Sabato, Introduzione alla fisica, Editorial Kapeluz.
-R. Serway, fisica, volumi 1 e 2, editoriale Mc Graw Hill.
-R. Resnick, D. Halliday, K. Krane, fisica, volume 1, 4ta. edizione, Editorial
+A. Maiztegui, J. Sábato, Introducción a la Física, Editorial Kapeluz.
+R. Serway, Física, Tomo 1 y 2, Editorial Mc Graw Hill.
+R. Resnick, D. Halliday, K. Krane, Física, Volumen 1, 4ta. edición, Editorial
 CECSA.
-Sears, Zemansky, Young & Freedman, fisica, 12da. Editorial Addi-
-Sono-Wesley (Educazione Pearson).
+Sears, Zemansky, Young & Freedman, Física, 12da. edición, Editorial Addi- son-Wesley (Pearson Educación).
 -
 -
 -
 -
-La bibliografia suggerita
+BIBLIOGRAFÍA SUGERIDA
 
-L'Olimpiada Argentina di Fisica (OAF) promuove la partecipazione degli insegnanti e è
-La ricerca è stata condotta da un'attività scientifica extra-scolare che, pur avendo aspetti competitivi, è stata
-Tivos, non perseguita la concorrenza come fine. Si sa che l'OAF è un compito
-La scuola non è più che una scuola, ma è una scuola che si propone da fuori, ma la sua
-La preparazione e lo sviluppo devono servire come elemento di più nelle attività in materia di
-classe di fisica.
-Un'altra caratteristica della Olimpiada di Fisica è la sua decentralizzazione:
-Le regioni del paese, le scuole e gli insegnanti partecipano all'organizzazione con totale
-La Commissione ha adottato una proposta di regolamento che prevede che le regioni di cui trattasi possano essere
-e al proprio livello. Parti da ogni istituzione di istruzione individualmente
-(direttori, docenti, studenti) e poi condividere le esperienze con altri collegi
-La Commissione ha adottato una proposta di direttiva che prevede che le misure adottate per la protezione dei consumatori siano state applicate in tutti i casi.
-Un'altra caratteristica molto importante è la natura stessa della fisica che fa sì che il
-È indispensabile che le prove siano di una parte di carta e di una parte di carta e di una parte di carta.
-La misurazione è un processo di misurazione.
-Olimpiada Argentina di Fisica
-Facoltà di Matematica, Astronomia e Fisica - Università Nazionale di Cordoba
-Medina Allende s/n - Città universitaria - 5000 - Cordoba - Argentina
-Telefono: 0351-5353701 (int. 41361) - E-mail: oaf@famaf.unc.edu.ar
+L'Olimpiade Argentina di Fisica (OAF) promuove la partecipazione di docenti e studenti in un'attività scientifica extrascolastica, che pur avendo aspetti competitivi, non persegue come fine la competizione. Si intende che la OAF è un compito extrascolastico nel senso che viene proposta dall'esterno della scuola, ma la sua preparazione e il suo sviluppo devono servire come un elemento in più nelle attività in aula di Fisica.
+Una caratteristica principale dell'Olimpiade di Fisica è la sua decentralizzazione: in diverse regioni del paese, scuole e docenti partecipano all'organizzazione con totale indipendenza e senza competere tra le regioni, ciascuna entro le proprie possibilità e al proprio livello. Si parte da ogni singolo istituto educativo (dirigenti, professori, studenti), per poi condividere esperienze con altri collegi in competizioni più ampie, fino ad arrivare all'istanza nazionale.
+Un'altra caratteristica molto importante è la natura stessa della Fisica che rende imprescindibile che le prove abbiano una parte carta e penna e anche una parte sperimentale, nella quale il processo di misurazione è centrale.
+Olimpiade Argentina di Fisica
+Facoltà di Matematica, Astronomia e Fisica - Università Nazionale di Córdoba
+Medina Allende s/n - Città Universitaria - 5000 - Córdoba - Argentina
+Tel.: 0351-5353701 (int. 41361) - Posta elettronica: oaf@famaf.unc.edu.ar
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mission on the high seas
+**A Mission on the High Seas**
 
 A Mission on the High Seas
-An oceanographic vessel is embarking on a mission to measure the concentration of
-The first is the use of the oxygen in the sea water in a region of the Atlantic Ocean in the Mediterranean.
+An oceanographic vessel sets out on a mission to measure the concentration of dissolved oxygen in seawater, in a region of the Atlantic Ocean in the
 
-34
-range from 0 to 2000 metres deep.
-The probe is made of steel, because the pre-
-The sions he has to endure are very high. She has a cylindrical shape of radio
-R=0.25m and L=1m in height. Its mass is M=500kg. The link between the
-The probe and the cable to lift it is a threaded coupling. All the couples, once
-The test is carried out in a single test tube.
-It's all about the mass of the probe. Once the probe is ready, it is transferred to the
-The crane will sink it to 2,000 meters deep. The cable
-steel, of a diameter of 1,5 cm, has a density of 5500 kg/m3. In the figure
-The ship's crane diagram is shown.
+34 range from 0 to 2000 meters deep.
+The probe available is made of steel, because the pressures it must withstand are very high. It has a cylindrical shape with radius
+R= 0.25m and height L=1m. Its mass is M=500kg. The coupling between the probe and the cable used to lift it is a threaded connection. The entire coupling, once screwed on, is contained within the cylinder of the probe and its mass is included in the mass of the probe. Once the probe is prepared, it is transferred to the crane that will submerge it to a depth of 2000m. The steel cable, 1.5cm in diameter, has a density of 5500kg/m3. The figure shows the schematic of the vessel's crane.
 
 35
-Point A1 is the point from which the cable does not make contact with the pole
-And it's 15 meters above sea level. A2 is the point where the cable ends and
-The probe starts, while A3 indicates the geometric center of the probe which
-It matches its center of mass. If the probe descends at a speed cons-
-- What ?
-a) Calculate the force that the cable is making in A2 when A3 is
-At a foot above sea level.
-(b) Calculate the force that the cable is making in A2 when A3 is
-It's a foot below sea level.
-(c) Calculate the force the cable makes on A1 when A3 is at 2000m
-below sea level.
-Once the measurements are complete, the cable begins to roll. When
-A3 is half a meter below sea level, the coil diameter
-where the wire is rolled is D=64cm and the coil axis is at the same level
-from the sea.
-(d) Graph the force exerted by the cable at point A2 since A3.
-It's 0.5m below sea level until A3 is 1.5m.
-above sea level.
-(e) Calculate the work done by the motor rolling the cable, for
-Take A3 from 0.5m below sea level to 1.5m per
+Point A1 is the point from which the cable loses contact with the pulley and is 15 m above sea level. A2 is the point where the cable ends and the probe begins, while A3 indicates the geometric center of the probe, which coincides with its center of mass. If the probe descends with constant velocity:
+a) Calculate the force that the cable is exerting at A2 when A3 is one meter above sea level.
+b) Calculate the force that the cable is exerting at A2 when A3 is one meter below sea level.
+c) Calculate the force that the cable exerts at A1 when A3 is 2000 m below sea level.
+Once the measurements are finished, the cable begins to be wound. When
+A3 is half a meter below sea level, the diameter of the reel on which the cable is wound is D=64 cm and the axis of the reel is at sea level.
+d) Graph the force that the cable exerts at point A2 from when A3 is 0.5 m below sea level until A3 is 1.5 m above sea level.
+e) Calculate the work done by the motor that winds the cable, to bring A3 from 0.5 m below sea level to 1.5 m above
 
-36
-above sea level. He despises the friction on the to-
-You're gonna have to put the pulleys.
-The statements in the Problems section were part of the theoretical tests.
-Cases taken at different National Olympic Instances of Argentina in
-Physics:
-- I'm going to shoot you!
-- An interesting game, 1993.
-- A spring scale, 1994.
-- Alaska, January 5, 1936, 1995
-- A regular season race, 1996.
-- The ant and the wheel, 1997.
-- Italian heritage, 2000.
-- A mission on the high seas, 2001.
+36 above sea level. Neglect friction in the axes of all the pulleys.
+The statements in the Problems section were part of the theoretical tests given in different National Instances of the Argentine Physics Olympiad:
+- Cañonazo!!!, 1991.
+- Un juego interesante, 1993.
+- Una balanza de resorte, 1994.
+- Alaska, 5 de enero de 1936, 1995.
+- Una carrera de regularidad, 1996.
+- La hormiga y la rueda, 1997.
+- Herencia italiana, 2000.
+- Una misión en alta mar, 2001.
 
 37
-A. I'm going to go with you. Saturday, Introduction to physics, published by Kapeluz.
-R. Serway, Physics, Volumes 1 and 2, Editorial Mc Graw Hill.
-R. Resnick, D. Halliday, K. The first is Krane, Physics, Volume 1, 4th. The following is a list of the
-The Commission has not yet taken a decision.
-Sears, Zemansky, Young and Freedman, Physics, 12th. The Commission has also adopted a number of proposals for the
-I'm sorry, but I'm not sure what you're saying.
+A. Maiztegui, J. Sábato, Introducción a la Física, Editorial Kapeluz.
+R. Serway, Física, Tomo 1 y 2, Editorial Mc Graw Hill.
+R. Resnick, D. Halliday, K. Krane, Física, Volumen 1, 4ta. edición, Editorial
+CECSA.
+Sears, Zemansky, Young & Freedman, Física, 12da. edición, Editorial Addi- son-Wesley (Pearson Educación).
 -
 -
 -
 -
-The Bible is a book.
+SUGGESTED BIBLIOGRAPHY
 
-The Argentine Olympiad of Physics (OAF) promotes the participation of teachers and is the
-The main objective of the programme is to improve the quality of education and training in the field of science.
-Tivos, do not pursue competition as an end. The OAF is understood to be a task
-The main objective of the programme is to promote the development of the European Community's
-The Commission's proposal for a regulation on the
-Physics class.
-The main feature of the Physics Olympiad is its decentralization:
-The Commission's proposal for a regulation on the implementation of the Community's common agricultural policy (CAP) is to be adopted by the Council.
-The Commission has already decided to extend the scope of the programme to the regions.
-And on their own level. It is started from each educational establishment individually
-(directors, teachers, pupils) and then share experiences with other colleagues.
-The Commission's proposal for a regulation on the protection of workers' rights in the Member States is therefore not yet in force.
-The very nature of physics itself makes it very important to
-It is essential that the tests have a pencil and paper part and also a paper part.
-The experimental method is central to the measurement process.
-Argentine Olympic Games in Physics
-Faculty of Mathematics, Astronomy and Physics - National University of Cordoba
-The following is the list of the most important cities in the world:
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 41361) - E-mail: oaf@famaf.unc.edu.ar
+The Argentine Physics Olympiad (OAF) promotes the participation of teachers and students in an extracurricular scientific activity, which although it has competitive aspects, does not pursue competition as its goal. It is understood that the OAF is an extracurricular task in the sense that it is proposed from outside the school, but its preparation and development should serve as one more element in Physics classroom activities.
+A main characteristic of the Physics Olympiad is its decentralization: in different regions of the country, schools and teachers participate in the organization with total independence and without competing among regions, each one within its possibilities and at its own level. It starts from each educational establishment individually (administrators, teachers, students), to then share experiences with other schools in more comprehensive competitions, until reaching the national instance.
+Another very important characteristic is the very nature of Physics, which makes it essential that the tests have a pencil-and-paper part and also an experimental part, in which the measurement process is central.
+Argentine Physics Olympiad
+Faculty of Mathematics, Astronomy and Physics - National University of Córdoba
+Medina Allende s/n - University City - 5000 - Córdoba - Argentina
+Tel.: 0351-5353701 (ext. 41361) - Email: oaf@famaf.unc.edu.ar
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1csHz8bk8-mAxzPRzWyEMoQtFPAAeVG0u/view)
+

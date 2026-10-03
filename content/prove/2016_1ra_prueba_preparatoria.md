@@ -821,47 +821,26 @@ $27\pm3$
 
 Problema 3
 
-Considerate un furgone di
-massa $M = 2000\ \text{Kg}$ con le
-Le caratteristiche indicate nella
-Figura, dove G indica il centro
-de
-massa
-de
-la
-- Il furgone.
-Quando la velocità del camion
-es
-de
-$30\ \text{m/s}$,
-se
-applicano
-All'improvviso
-i
-freni
-de
-in modo che le ruote si fermano
-rotare e il camion si ferma a
+Si consideri un furgone di massa $M = 2000\ \text{Kg}$ con le caratteristiche indicate nella
+Figura, dove G indica il centro di massa del furgone.
+Quando la velocità del camion è di
+$30\ \text{m/s}$, vengono applicati improvvisamente i freni in modo che le ruote smettono di ruotare e il camion si ferma dopo
 $60\ \text{m}$.
 
-a) Calcolare l'accelerazione del freno del camion, supponendo un rallentamento
-costante.
+a) Calcolare l'accelerazione di frenata del camion, supponendo una decelerazione costante.
 
-b) Calcolare il tempo necessario per frenare il camion.
+b) Calcolare il tempo impiegato dal camion per fermarsi.
 
-c) Calcolare il coefficiente di rottura.
+c) Calcolare il coefficiente di attrito.
 
-d) Calcolare la grandezza della normalità e della forza di rottura su ciascuna ruota
-- L'avanguardia.
+d) Calcolare il modulo della normale e della forza di attrito su ciascuna ruota anteriore.
 
-e) Calcolare la grandezza della normalità e della forza di rottura su ciascuna ruota
-- Al fondo.
-Problema teorico 1
-Pagina di risposta
-Inciso
+e) Calcolare il modulo della normale e della forza di attrito su ciascuna ruota posteriore.
+Problema Teorico 1
+Foglio di Risposta
+Punto
 
-Punteggio
-a)
+Punteggio a)
 $v_A =$
 
 b)
@@ -884,12 +863,11 @@ $\alpha' =$
 
 f)
 $\Delta E =$
-Problema teorico 2
-Pagina di risposta
-Inciso
+Problema Teorico 2
+Foglio di Risposta
+Punto
 
-Punteggio
-a)
+Punteggio a)
 $t_{AB} =$
 
 b)
@@ -904,12 +882,11 @@ $d =$
 d)
 
 $T =$
-Problema teorico 3
-Pagina di risposta
-Inciso
+Problema Teorico 3
+Foglio di Risposta
+Punto
 
-Punteggio
-a)
+Punteggio a)
 $a =$
 
 b)
@@ -924,7 +901,7 @@ Forza normale:
 
 $N_B =$
 
-Forza di rottura:
+Forza di attrito:
 
 $F_B =$
 
@@ -934,122 +911,87 @@ Forza normale:
 
 $N_A =$
 
-Forza di rottura:
+Forza di attrito:
 
 $F_A =$
-Olimpiada Argentina di Fisica
+Olimpiada Argentina de Física
 
-Prove di preparazione
-Primo test: meccanica
-Parte sperimentale
+Prove Preparatorie
+Prima Prova: Meccanica
+Parte Sperimentale
 
-Nome: ................................................ (di cui sopra è stato modificato il titolo di articolo)
+Nome: ..................................................................
 
 D.N.I.: ......................................................................
 
-Scuola: ...................................
+Scuola: .................................................................
 
-- Prima di iniziare a risolvere il test, leggi attentamente TUTTO il testo
-La stessa frase.
-- Scrivi il tuo nome e il tuo numero di D.N.I. al posto indicato. No
-non scriva il suo nome in nessun altro posto della prova.
-- Non scrivere risposte sui fogli della frase, perché non saranno
-considerate.
-- Scrivi su un solo lato delle foglie.
+- Prima di iniziare a risolvere la prova leggere attentamente TUTTO il testo della stessa.
+- Scrivere il proprio nome e il proprio numero di D.N.I. nel posto indicato. Non scrivere il proprio nome in nessun altro posto della prova.
+- Non scrivere risposte sui fogli del testo poiché non saranno considerate.
+- Scrivere su un solo lato dei fogli.
 Obiettivi
-- Giochi con mezzi granulari.
-- studiare gli effetti dissipatori dei mezzi granulari sulla dinamica dei
-contenenti contenenti.
+- "Giocare" con mezzi granulari.
+- Studiare gli effetti dissipativi dei mezzi granulari nella dinamica dei recipienti che li contengono.
 
 Breve descrizione
-Un mezzo granulare consiste in un insieme di particelle macroscopiche che
-interagiscono tra loro attraverso forze di contatto. La dimensione dei cereali che
-La struttura è composta da materiali che vanno da millimetri a metri. Alcuni esempi
-La produzione di prodotti di granulazione è composta da: riso, sale, polenta, sabbia e anche da materiale che
-forma gli anelli di Saturno. La materia granulare può comportarsi in modo simile a
-un solido, ma può anche fluire come un liquido. La dinamica di questi mezzi è
-La situazione è quindi molto difficile da descrivere e studi teorici e
-La ricerca è stata condotta in modo da consentire una descrizione completa della stessa.
-I sistemi composti da mezzi granulari hanno un comportamento altamente
-La quantità di interazioni tra particelle che si
-che producono nel seno. Ecco perché raggiungono rapidamente uno stato di equilibrio
-in assenza di una fonte di energia esterna.
+Un mezzo granulare consiste in un insieme di particelle macroscopiche che interagiscono tra loro mediante forze di contatto. La dimensione dei grani che costituiscono questo tipo di materiali va da millimetri a metri. Alcuni esempi di mezzi granulari sono: il riso, il sale, la polenta, la sabbia e persino il materiale che forma gli anelli di Saturno. La materia granulare può comportarsi in modo simile a un solido ma può anche fluire come un liquido. La dinamica di questi mezzi è di conseguenza molto difficile da descrivere e si stanno ancora svolgendo studi teorici e sperimentali per riuscire a ottenere una descrizione completa della stessa.
+I sistemi composti da mezzi granulari hanno un comportamento altamente dissipativo, come conseguenza della quantità di interazioni tra particelle che si producono al loro interno. È per questo che raggiungono rapidamente uno stato di equilibrio in assenza di una fonte di energia esterna.
 
 Proposta
-Studiare il movimento di un frasco contenente materiale granulare.
-Per questo si propone di caricare un flacone cilindrico con materiale granulare e di farlo girare da un
-piano inclinato, e poi per una superficie orizzontale. Si intende misurare la
-Distanza massima (L) raggiunta dal frasco in funzione della quantità di sostanza granulare
-che contiene.
+Studiare il movimento di un barattolo che contiene materiale granulare.
+Per questo si propone di caricare un barattolo cilindrico con materiale granulare e farlo rotolare lungo un piano inclinato, e successivamente su una superficie orizzontale. Si intende misurare la distanza massima (L) che il barattolo raggiunge in funzione della quantità di sostanza granulare che contiene.
 
-Consigna
-Implementare un sistema sperimentale simile a quello di Figura 1 e eseguire gli esperimenti.
+Consegna
+Realizzare un allestimento sperimentale simile a quello della Figura 1 ed eseguire gli esperimenti.
 
 Elementi che possono risultare utili
-- Cintura metrica.
+- Metro a nastro.
 - Cartone rigido o lamiera.
-- Cisterna contenitore.
-- Materiale granulare secco.
-- Fascia adesiva di carta.
+- Cilindro contenitore.
+- Materiale granulare asciutto.
+- Nastro adesivo di carta.
 - Supporti per il piano inclinato (libri).
-- Dosificatore di materiale granulare.
-- Spazio libero da ostacoli, per far girare il cilindro.
+- Dosatore di materiale granulare.
+- Spazio libero da ostacoli, affinché il cilindro rotoli.
 Suggerimenti
 -
-Utilizzare come cilindro un flacone di vetro, se possibile trasparente (tipo di caffè di
+Utilizzare come cilindro un barattolo di vetro, possibilmente trasparente (tipo da caffè di
 $250\ \text{g}$).
 -
-Utilizzare diversi materiali granulari (rice, polenta, sale grossa, sale fine, sabbia)
-secca ecc.).
+Utilizzare diversi materiali granulari (riso, polenta, sale grosso, sale fino, sabbia asciutta ecc.).
 -
-Utilizzare uno strumento per quantificare il materiale granulare utilizzato nelle
-misurazioni, tipo tappeto di plastica a gas.
+Utilizzare uno strumento per quantificare il materiale granulare che si utilizza nelle misurazioni, tipo tappo di plastica di bibita.
 -
-Verificare che le relazioni tra il percorso massimo del frasco, l'angolo di
-La posizione di un piano inclinato e lo spazio disponibile sono le appropriate.
+Verificare che le relazioni tra il percorso massimo del barattolo, l'angolo del piano inclinato e lo spazio disponibili siano adeguate.
 
-Sviluppo degli esperimenti
-Una volta implementato il design sperimentale, per un angolo fisso del piano inclinato e un
-posizione fissa di partenza:
+Svolgimento degli esperimenti
+Una volta realizzato il progetto sperimentale, per un angolo fisso del piano inclinato e una posizione fissa di partenza:
 
-a) Misurare la distanza massima (L) che raggiunge il flacone vuoto.
+a) Eseguire misurazioni della distanza massima (L) che raggiunge il barattolo vuoto.
 
-b) Misura la distanza massima (L) che raggiunge il flacone quando
-contiene diverse quantità di materiale granulare. Cioè, misurazioni N vs L
-(numero di tappe di granulato in bottiglia rispetto alla distanza)
-massimo raggiunto). Estendere le misure fino a quando il materiale granulare è pieno
-completamente il frasco. Configuri una tabella con i risultati. Guarda il
-comportamento del materiale granulare contenuto nel frasco durante il
-Il corso degli esperimenti (distribuzione del materiale, comportamento
-La Commissione ha adottato una decisione che prevede che il regime di controllo dei dati sia stato applicato.
+b) Eseguire misurazioni della distanza massima (L) che raggiunge il barattolo quando contiene diverse quantità di materiale granulare. Ovvero, misurazioni N vs L (numero di tappi di materiale granulare inseriti nel barattolo rispetto alla distanza massima raggiunta). Estendere le misurazioni finché il materiale granulare riempie completamente il barattolo. Preparare una tabella con i risultati. Osservare il comportamento del materiale granulare, contenuto nel barattolo, durante lo svolgimento degli esperimenti (distribuzione del materiale, comportamento dinamico dello stesso, ecc.).
 
-c) Registrare il numero di tappi ($N_T$) necessari per completare il frasco con il suo
-La Commissione ha adottato una decisione che non è stata adottata.
+c) Registrare il numero di "tappi" ($N_T$) necessari per riempire il barattolo con la sua corrispondente incertezza.
 
 Eseguire esperimenti utilizzando almeno tre materiali granulari diversi.
 
-d) Confezionare un grafico prendendo come abcissi il numero di tapeti (N) diviso
-per $N_T$ e come ordinato la distanza L raggiunta dal cilindro. In questo grafico
-I risultati di tutti gli esperimenti (tutti i risultati di tutti gli esperimenti) devono essere contenuti.
-materiali).
+d) Preparare un grafico prendendo come ascisse il numero di tappi (N) diviso per $N_T$ e come ordinate la distanza L raggiunta dal cilindro. In questo grafico devono essere contenuti i risultati di tutti gli esperimenti (tutti i materiali).
 
-e) Analizzare e descrivere i risultati che si evidenziano dal grafico precedente.
+e) Analizzare e descrivere i risultati che si ricavano dal grafico precedente.
 
-f) Configgere un grafico log-log (scale logarithmiche) in cui siano tutti i dati
-risultati.
+f) Preparare un grafico log-log (scale logaritmiche) in cui siano contenuti tutti i risultati.
 
-g) Analizzare e descrivere i risultati che si trovano in questo nuovo grafico.
+g) Analizzare e descrivere i risultati che si ricavano da questo nuovo grafico.
 
-h) Esprimere qualitativamente tutti i risultati ottenuti e confrontarli con i risultati ottenuti.
-Le osservazioni qualitative effettuate durante gli esperimenti (distribuzione di
-La Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati sia stato modificato.
-Problema sperimentale
-Pagina di risposte.
+h) Spiegare qualitativamente tutti i risultati ottenuti e metterli in relazione con le osservazioni qualitative effettuate durante gli esperimenti (distribuzione del materiale, comportamento dinamico dello stesso, ecc.).
+Problema Sperimentale
+Foglio delle risposte.
 
-inciso
+punto
 
 punteggio
-a) y b)
+a) e b)
 
 Tabella con i risultati
 
@@ -1075,159 +1017,132 @@ Analisi del grafico log-log
 
 h)
 
-Spiegazione qualitativa dei risultati e delle osservazioni
-realizzate.
-Problema teorico 1
-Pagina di risposta
-Inciso
+Spiegazione qualitativa dei risultati e delle osservazioni effettuate.
+Problema Teorico 1
+Foglio delle Risposte
+Punto
 
-Punteggio
-a)
+Punteggio a)
 $v_A = 4{,}782\ \text{m/s}$
-1,50
-b)
+1,50 b)
 $h = 1{,}167\ \text{m}$
-1,00
-c)
+1,00 c)
 $t = 0{,}976\ \text{s}$
-1,00
-d)
+1,00 d)
 
 $v_B = 6{,}654\ \text{m/s}$
 
 $\alpha = 27{,}516^\circ$
 
-2,50
-e)
+2,50 e)
 
 $v_B' = 5{,}397\ \text{m/s}$
 
 $\alpha' = 85{,}396^\circ$
 
-2,50
-f)
+2,50 f)
 $\Delta E = -7{,}573\ \text{J}$
 1,50
 
-Per la soluzione è stato utilizzato: $g = 9{,}8\ \text{m/s}^2$
-Problema teorico 2
-Pagina di risposta
-Inciso
+Per la soluzione si è utilizzato: $g = 9{,}8\ \text{m/s}^2$
+Problema Teorico 2
+Foglio delle Risposte
+Punto
 
-Punteggio
-a)
+Punteggio a)
 $t_{AB} = 1/4\ \text{h}$
-2,50
-b)
+2,50 b)
 $\alpha = 113{,}578^\circ$
-2,50
-c)
+2,50 c)
 
 Larghezza del fiume:
 
 $d = 0{,}994\ \text{km}$
 
-2,50
-d)
+2,50 d)
 
 $T = 0{,}767\ \text{h}$
 
 2,50
 
-Per la soluzione è stato utilizzato: $g = 9{,}8\ \text{m/s}^2$
-Problema teorico 3
-Pagina di risposta
-Inciso
+Per la soluzione si è utilizzato: $g = 9{,}8\ \text{m/s}^2$
+Problema Teorico 3
+Foglio delle Risposte
+Punto
 
-Punteggio
-a)
+Punteggio a)
 $a = 7{,}5\ \text{m/s}^2$
-1,00
-b)
+1,00 b)
 $t = 4\ \text{s}$
-1,00
-c)
+1,00 c)
 $\mu = 0{,}765$
-1,00
-d)
+1,00 d)
 
 Forza normale:
 
 $N_B = 6583\ \text{N}$
 
-Forza di rottura:
+Forza di attrito:
 
 $F_B = 5038\ \text{N}$
 
-3,50
-e)
+3,50 e)
 
 Forza normale:
 
 $N_A = 3217\ \text{N}$
 
-Forza di rottura:
+Forza di attrito:
 
 $F_A = 2462\ \text{N}$
 
 3,50
 
-Per la soluzione è stato utilizzato: $g = 9{,}8\ \text{m/s}^2$
-Problema sperimentale
-Pagina di risposte.
+Per la soluzione si è utilizzato: $g = 9{,}8\ \text{m/s}^2$
+Problema Sperimentale
+Foglio delle risposte.
 
-inciso
+punto
 
 punteggio
-a) y b)
+a) e b)
 
 Tabella con i risultati
 
-9,00
-c)
+9,00 c)
 
 $N_T$
 
-2,00
-d)
+2,00 d)
 
 Grafico
 
-4,00
-e)
+4,00 e)
 
 Analisi del grafico
 
-1,00
-f)
+1,00 f)
 
 Grafico log-log
 
-2,00
-g)
+2,00 g)
 
 Analisi del grafico log-log
 
-1,00
-h)
+1,00 h)
 
-Spiegazione qualitativa dei risultati e delle osservazioni
-realizzate.
+Spiegazione qualitativa dei risultati e delle osservazioni effettuate.
 
 1,00
 
 a) e b) Tabelle.
-Gli esperimenti hanno usato polenta, riso e sale grassa.
-N Poleta
-(spacci)
+Negli esperimenti si sono usati Polenta, Riso e Sale grosso.
+N Polenta (tappi)
 L Polenta (cm)
-N Riso
-(spacci)
-L'Arrozzo
-(cm)
-N Sal Gruesa
-(spacci)
-L Sal grosso (cm)
+N Riso (tappi)
+L Riso (cm)
+N Sale grosso (tappi)
+L Sale grosso (cm)
 0
 $270\pm10$
 0
@@ -1275,523 +1190,10 @@ $27\pm3$
 18
 2
 
-
 <!--fig:start-->
 ![[_attachments/2016_1ra_prueba_preparatoria/2016_1ra_prueba_preparatoria_p4_f3.png]]
-*camione con dimensioni e centro di massa*
+*camion con dimensioni e centro di massa*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1xbj2yNnoLVybybg3au2PKsvXPwdXq0hb/view)
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-## Figurare
-
-<!--fig:start-->
-**p.9 **  cilindro il suo piano inclinato con granulare
-<!--fig:end-->
-
-<!--fig:start-->
-**p.26**  grafico log-log di portata L vs $N/N_T$
-<!--fig:end-->
-
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is 3
-
-Consider a pickup truck of
-mass $M = 2000\ \text{Kg}$ with the
-characteristics indicated in the
-Figure, where G indicates the centre
-de
-mass
-de
-la
-The van.
-When the speed of the truck
-es
-de
-$30\ \text{m/s}$,
-se
-apply
-Suddenly
-The
-Brakes
-de
-The wheel is not moving.
-The truck stops at the
-$60\ \text{m}$.
-
-(a) Calculate the braking acceleration of the truck, assuming slowdown
-It's constant.
-
-(b) Calculate the time it takes to brake the truck.
-
-(c) Calculate the friction coefficient.
-
-(d) Calculate the magnitude of the normal and the friction force on each wheel
-The front.
-
-(e) Calculate the magnitude of the normal and the friction force on each wheel
-- The back.
-Theoretical problem 1
-Answering sheet
-Incise
-
-Score
-a)
-$v_A =$
-
-b)
-$h =$
-
-c)
-$t =$
-
-d)
-
-$v_B =$
-
-$\alpha =$
-
-e)
-
-$v_B' =$
-
-$\alpha' =$
-
-f)
-$\Delta E =$
-Theoretical problem 2
-Answering sheet
-Incise
-
-Score
-a)
-$t_{AB} =$
-
-b)
-$\alpha =$
-
-c)
-
-The width of the river:
-
-$d =$
-
-d)
-
-$T =$
-Theoretical problem 3
-Answering sheet
-Incise
-
-Score
-a)
-$a =$
-
-b)
-$t =$
-
-c)
-$\mu =$
-
-d)
-
-Normal force:
-
-$N_B =$
-
-Brushing force:
-
-$F_B =$
-
-e)
-
-Normal force:
-
-$N_A =$
-
-Brushing force:
-
-$F_A =$
-Argentine Olympic Games in Physics
-
-Preparatory tests
-First test: mechanics
-The experimental part
-
-The following is the list of the countries of the European Union:
-
-D.N.I.: ......................................................................
-
-School: ........................... is not a school
-
-- Before you start solving the test read carefully ALL the
-The Commission has not yet adopted a decision.
-- Write your name and D.N.I. number. in the appropriate place. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
-Objectives
-- Play with granular media.
-- study of the dissipative effects of granular media on the dynamics of
-containers containing them.
-
-Short description
-A granular medium consists of a set of macroscopic particles which are
-They interact with each other through contact forces. The size of the grains which
-The material is of this type, from millimetres to meters. Some examples
-The grain media are: rice, salt, pollen, sand and even the material which is used to make the
-It forms the rings of Saturn. The granular material can behave similarly to
-It's a solid, but it can also flow like a liquid. The dynamics of these media are due to the
-The results of the study are therefore very difficult to describe and are still being studied theoretically and
-The Commission has already adopted a number of proposals for a new framework for the implementation of the programme.
-The granular media systems have a highly behaviour
-The resulting number of particles is the number of interactions between the particles.
-They produce in their breasts. That's why they quickly reach a state of equilibrium.
-in the absence of an external energy source.
-
-Proposal for a Council Directive
-Study the movement of a jar containing granular material.
-For this purpose it is proposed to load a cylindrical jar with granular material and roll it by a
-slanted plane, and then by a horizontal surface. The aim is to measure the
-maximum distance (L) to the vial depending on the quantity of granular substance
-It contains.
-
-Consigns
-Implement an experimental arrangement similar to that in Figure 1 and perform the experiments.
-
-Elements that may be useful
-- It's a tape recorder.
-- Hard cardboard or sheet.
-- The cylinder container.
-- Dry granular material.
-- It's a paper tape.
-- Support for the inclined plane (books).
-- A granular material decoder.
-- Barrier-free space, for the cylinder to spin.
-Suggestions
--
-Use as a cylinder a glass jar, as transparent as possible (coffee type of
-$250\ \text{g}$).
--
-Use of different granular materials (rice, pollen, thick salt, fine salt, sand)
-the water is dry, etc.).
--
-Using a tool to quantify the granular material used in the
-measurements, like a plastic gasket.
--
-Check that the relationships between the maximum flow rate of the bottle, the angle of the
-The slope and available space are the appropriate ones.
-
-Development of experiments
-Once the experimental design is implemented, for a fixed angle of inclined plane and a
-Fixed position of departure:
-
-(a) Measure the maximum distance (L) to the empty vial.
-
-(b) Measure the maximum distance (L) to the vial when
-It contains different quantities of granular material. That is, measurements N vs L
-(number of granulated carpeting in the bottle versus distance)
-maximum reached). Extend the measurements until the granular material is filled
-completely the jar. Make a table with the results. Look at the
-the behaviour of the granular material contained in the vial during the
-The results of the experiments (material distribution, behaviour)
-The following is the list of the main factors:
-
-(c) Record the number of tapits ($N_T$) needed to complete the vial with your
-The Commission has not yet adopted a proposal.
-
-Perform experiments using at least three different granular materials.
-
-d) Draw a graph taking as an abscisse the number of tapestries (N) divided by
-by $N_T$ and as ordered the distance L reached by the cylinder. In this graph
-The results of all experiments (all of the
-(including materials).
-
-(e) Analyze and describe the results from the above chart.
-
-(f) Set up a log-log chart (logarithmic scales) in which all the logs are
-The results.
-
-(g) Analyze and describe the results of this new chart.
-
-(h) Qualitatively explain all the results obtained and compare them with the results obtained.
-The results of the experiment were based on the results of the qualitative observations made during the experiments (distribution of
-The following information is provided:
-The experimental problem
-Answer sheet.
-
-of which:
-
-Score
-a) y b)
-
-Table with results
-
-c)
-
-$N_T$
-
-d)
-
-Graphic
-
-e)
-
-Analysis of the chart
-
-f)
-
-The log-log graph
-
-g)
-
-Analysis of the log-log chart
-
-h)
-
-Qualitative explanation of the results and observations
-The Commission has already taken a number of measures.
-Theoretical problem 1
-Answering sheet
-Incise
-
-Score
-a)
-$v_A = 4{,}782\ \text{m/s}$
-1,50
-b)
-$h = 1{,}167\ \text{m}$
-1,00
-c)
-$t = 0{,}976\ \text{s}$
-1,00
-d)
-
-$v_B = 6{,}654\ \text{m/s}$
-
-$\alpha = 27{,}516^\circ$
-
-2,50
-e)
-
-$v_B' = 5{,}397\ \text{m/s}$
-
-$\alpha' = 85{,}396^\circ$
-
-2,50
-f)
-$\Delta E = -7{,}573\ \text{J}$
-1,50
-
-For the solution: $g = 9{,}8\ \text{m/s}^2$
-Theoretical problem 2
-Answering sheet
-Incise
-
-Score
-a)
-$t_{AB} = 1/4\ \text{h}$
-2,50
-b)
-$\alpha = 113{,}578^\circ$
-2,50
-c)
-
-The width of the river:
-
-$d = 0{,}994\ \text{km}$
-
-2,50
-d)
-
-$T = 0{,}767\ \text{h}$
-
-2,50
-
-For the solution: $g = 9{,}8\ \text{m/s}^2$
-Theoretical problem 3
-Answering sheet
-Incise
-
-Score
-a)
-$a = 7{,}5\ \text{m/s}^2$
-1,00
-b)
-$t = 4\ \text{s}$
-1,00
-c)
-$\mu = 0{,}765$
-1,00
-d)
-
-Normal force:
-
-$N_B = 6583\ \text{N}$
-
-Brushing force:
-
-$F_B = 5038\ \text{N}$
-
-3,50
-e)
-
-Normal force:
-
-$N_A = 3217\ \text{N}$
-
-Brushing force:
-
-$F_A = 2462\ \text{N}$
-
-3,50
-
-For the solution: $g = 9{,}8\ \text{m/s}^2$
-The experimental problem
-Answer sheet.
-
-of which:
-
-Score
-a) y b)
-
-Table with results
-
-9,00
-c)
-
-$N_T$
-
-2,00
-d)
-
-Graphic
-
-4,00
-e)
-
-Analysis of the chart
-
-1,00
-f)
-
-The log-log graph
-
-2,00
-g)
-
-Analysis of the log-log chart
-
-1,00
-h)
-
-Qualitative explanation of the results and observations
-The Commission has already taken a number of measures.
-
-1,00
-
-(a) and (b) Tables.
-In the experiments, Polenta, Rice and thick salt were used.
-N Poleta
-(scoffs)
-L Polenta (cm)
-N Rice
-(scoffs)
-L Rice
-(cm)
-N Sal Gruesa
-(scoffs)
-L Salt thickness (cm)
-0
-$270\pm10$
-0
-$220\pm20$
-0
-$233\pm20$
-1
-$119\pm10$
-1
-$120\pm10$
-1
-$114\pm3$
-2
-$67\pm6$
-2
-$85\pm4$
-2
-$70\pm3$
-3
-$59\pm8$
-4
-$55\pm4$
-4
-$48\pm2$
-4
-$46\pm3$
-6
-$43\pm4$
-6
-$40\pm3$
-6
-$37\pm3$
-10
-$32\pm3$
-10
-$30\pm1$
-8
-$30\pm3$
-14
-$28\pm2$
-14
-$15\pm3$
-10
-$27\pm3$
-18
-2
-
-
-<!--fig:start-->
-![[_attachments/2016_1ra_prueba_preparatoria/2016_1ra_prueba_preparatoria_p4_f3.png]]
-* truck with dimensions and centre of mass*
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1xbj2yNnoLVybybg3au2PKsvXPwdXq0hb/view)
 
 ## Figure
 
@@ -1828,3 +1230,420 @@ $27\pm3$
 <!--fig:start-->
 **p.26** — grafico log-log alcance L vs $N/N_T$
 <!--fig:end-->
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 3
+
+Consider a truck of mass $M = 2000\ \text{Kg}$ with the characteristics indicated in the
+Figure, where G indicates the center of mass of the truck.
+When the speed of the truck is
+$30\ \text{m/s}$, the brakes are suddenly applied so that the wheels stop rotating and the truck stops after
+$60\ \text{m}$.
+
+a) Calculate the braking acceleration of the truck, assuming constant deceleration.
+
+b) Calculate the time it takes for the truck to stop.
+
+c) Calculate the coefficient of friction.
+
+d) Calculate the magnitude of the normal force and of the friction force on each front wheel.
+
+e) Calculate the magnitude of the normal force and of the friction force on each rear wheel.
+Theoretical Problem 1
+Answer Sheet
+Item
+
+Score a)
+$v_A =$
+
+b)
+$h =$
+
+c)
+$t =$
+
+d)
+
+$v_B =$
+
+$\alpha =$
+
+e)
+
+$v_B' =$
+
+$\alpha' =$
+
+f)
+$\Delta E =$
+Theoretical Problem 2
+Answer Sheet
+Item
+
+Score a)
+$t_{AB} =$
+
+b)
+$\alpha =$
+
+c)
+
+River width:
+
+$d =$
+
+d)
+
+$T =$
+Theoretical Problem 3
+Answer Sheet
+Item
+
+Score a)
+$a =$
+
+b)
+$t =$
+
+c)
+$\mu =$
+
+d)
+
+Normal force:
+
+$N_B =$
+
+Friction force:
+
+$F_B =$
+
+e)
+
+Normal force:
+
+$N_A =$
+
+Friction force:
+
+$F_A =$
+Argentine Physics Olympiad
+
+Preparatory Tests
+First Test: Mechanics
+Experimental Part
+
+Name: ..................................................................
+
+D.N.I.: ......................................................................
+
+School: .................................................................
+
+- Before starting to solve the test, carefully read the ENTIRE statement of the test.
+- Write your name and your D.N.I. number in the indicated place. Do not write your name anywhere else on the test.
+- Do not write answers on the statement sheets, as they will not be considered.
+- Write on only one side of the sheets.
+Objectives
+- "Play" with granular media.
+- Study the dissipative effects of granular media on the dynamics of the containers that hold them.
+
+Brief description
+A granular medium consists of a set of macroscopic particles that interact with each other through contact forces. The size of the grains that make up this type of material ranges from millimeters to meters. Some examples of granular media are: rice, salt, polenta, sand, and even the material that forms the rings of Saturn. Granular matter can behave similarly to a solid but can also flow like a liquid. The dynamics of these media is therefore very difficult to describe, and theoretical and experimental studies are still being carried out to achieve a complete description of it.
+Systems composed of granular media have a highly dissipative behavior, as a consequence of the number of interactions between particles that occur within them. This is why they quickly reach a state of equilibrium in the absence of an external energy source.
+
+Proposal
+Study the motion of a jar containing granular material.
+For this, it is proposed to load a cylindrical jar with granular material and roll it down an inclined plane, and then along a horizontal surface. The aim is to measure the maximum distance (L) reached by the jar as a function of the amount of granular substance it contains.
+
+Instructions
+Implement an experimental setup similar to the one in Figure 1 and carry out the experiments.
+
+Items that may be useful
+- Measuring tape.
+- Rigid cardboard or sheet metal.
+- Container cylinder.
+- Dry granular material.
+- Paper adhesive tape.
+- Supports for the inclined plane (books).
+- Dispenser for granular material.
+- Obstacle-free space, so that the cylinder can roll.
+Suggestions
+-
+Use a glass jar as the cylinder, if possible transparent (coffee type of
+$250\ \text{g}$).
+-
+Use different granular materials (rice, polenta, coarse salt, fine salt, dry sand, etc.).
+-
+Use a tool to quantify the granular material used in the measurements, such as a plastic soda bottle cap.
+-
+Check that the relationships between the maximum travel of the jar, the angle of the inclined plane and the available space are appropriate.
+
+Development of the experiments
+Once the experimental design has been implemented, for a fixed angle of the inclined plane and a fixed starting position:
+
+a) Take measurements of the maximum distance (L) reached by the empty jar.
+
+b) Take measurements of the maximum distance (L) reached by the jar when it contains different amounts of granular material. That is, measurements N vs L (number of small caps of granular material placed in the jar versus maximum distance reached). Extend the measurements until the granular material completely fills the jar. Prepare a table with the results. Observe the behavior of the granular material contained in the jar during the course of the experiments (material distribution, its dynamic behavior, etc.).
+
+c) Record the number of "small caps" ($N_T$) needed to fill the jar, with its corresponding uncertainty.
+
+Perform experiments using at least three different granular materials.
+
+d) Prepare a graph taking as abscissa the number of small caps (N) divided by $N_T$ and as ordinate the distance L reached by the cylinder. This graph must contain the results of all the experiments (all the materials).
+
+e) Analyze and describe the results that follow from the previous graph.
+
+f) Prepare a log-log graph (logarithmic scales) in which all the results are included.
+
+g) Analyze and describe the results that follow from this new graph.
+
+h) Explain qualitatively all the results obtained and relate them to the qualitative observations you made during the experiments (distribution of material, its dynamic behavior, etc.).
+Experimental Problem
+Answer sheet.
+
+part
+
+score
+a) and b)
+
+Table with the results
+
+c)
+
+$N_T$
+
+d)
+
+Graph
+
+e)
+
+Analysis of the graph
+
+f)
+
+Log-log graph
+
+g)
+
+Analysis of the log-log graph
+
+h)
+
+Qualitative explanation of the results and observations made.
+Theoretical Problem 1
+Answer Sheet
+Part
+
+Score a)
+$v_A = 4{,}782\ \text{m/s}$
+1.50 b)
+$h = 1{,}167\ \text{m}$
+1.00 c)
+$t = 0{,}976\ \text{s}$
+1.00 d)
+
+$v_B = 6{,}654\ \text{m/s}$
+
+$\alpha = 27{,}516^\circ$
+
+2.50 e)
+
+$v_B' = 5{,}397\ \text{m/s}$
+
+$\alpha' = 85{,}396^\circ$
+
+2.50 f)
+$\Delta E = -7{,}573\ \text{J}$
+1.50
+
+For the solution, the following was used: $g = 9{,}8\ \text{m/s}^2$
+Theoretical Problem 2
+Answer Sheet
+Part
+
+Score a)
+$t_{AB} = 1/4\ \text{h}$
+2.50 b)
+$\alpha = 113{,}578^\circ$
+2.50 c)
+
+River width:
+
+$d = 0{,}994\ \text{km}$
+
+2.50 d)
+
+$T = 0{,}767\ \text{h}$
+
+2.50
+
+For the solution, the following was used: $g = 9{,}8\ \text{m/s}^2$
+Theoretical Problem 3
+Answer Sheet
+Part
+
+Score a)
+$a = 7{,}5\ \text{m/s}^2$
+1.00 b)
+$t = 4\ \text{s}$
+1.00 c)
+$\mu = 0{,}765$
+1.00 d)
+
+Normal force:
+
+$N_B = 6583\ \text{N}$
+
+Friction force:
+
+$F_B = 5038\ \text{N}$
+
+3.50 e)
+
+Normal force:
+
+$N_A = 3217\ \text{N}$
+
+Friction force:
+
+$F_A = 2462\ \text{N}$
+
+3.50
+
+For the solution, the following was used: $g = 9{,}8\ \text{m/s}^2$
+Experimental Problem
+Answer sheet.
+
+part
+
+score
+a) and b)
+
+Table with the results
+
+9.00 c)
+
+$N_T$
+
+2.00 d)
+
+Graph
+
+4.00 e)
+
+Analysis of the graph
+
+1.00 f)
+
+Log-log graph
+
+2.00 g)
+
+Analysis of the log-log graph
+
+1.00 h)
+
+Qualitative explanation of the results and observations made.
+
+1.00
+
+a) and b) Tables.
+In the experiments, Polenta, Rice and Coarse salt were used.
+N Polenta (lids)
+L Polenta (cm)
+N Rice (lids)
+L Rice (cm)
+N Coarse Salt (lids)
+L Coarse salt (cm)
+0
+$270\pm10$
+0
+$220\pm20$
+0
+$233\pm20$
+1
+$119\pm10$
+1
+$120\pm10$
+1
+$114\pm3$
+2
+$67\pm6$
+2
+$85\pm4$
+2
+$70\pm3$
+3
+$59\pm8$
+4
+$55\pm4$
+4
+$48\pm2$
+4
+$46\pm3$
+6
+$43\pm4$
+6
+$40\pm3$
+6
+$37\pm3$
+10
+$32\pm3$
+10
+$30\pm1$
+8
+$30\pm3$
+14
+$28\pm2$
+14
+$15\pm3$
+10
+$27\pm3$
+18
+2
+
+<!--fig:start-->
+![[_attachments/2016_1ra_prueba_preparatoria/2016_1ra_prueba_preparatoria_p4_f3.png]]
+*truck with dimensions and center of mass*
+<!--fig:end-->
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+<!--fig:start-->
+**p.9** — cylinder on inclined plane with granular material
+<!--fig:end-->
+
+<!--fig:start-->
+**p.26** — log-log graph range L vs $N/N_T$
+<!--fig:end-->
+
+

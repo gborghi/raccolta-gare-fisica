@@ -203,86 +203,62 @@ d) Calcule la densidad del sólido.
 
 Problema 2
 
-Una lunga colonna verticale è chiusa alla sua estremità inferiore e aperta alla sua estremità
-superiore. Si riempie in parte con un liquido e si raffredda a $-5\ ^\circ\text{C}$. A questa temperatura, il
-il liquido si solidifica al di sotto di un determinato livello, rimanendo liquido al di sopra del
-La Commissione ha adottato una decisione del Consiglio. Se la temperatura scende fino a $-5{,}2\ ^\circ\text{C}$, si osserva che l'interfase
-il liquido solido sale a 40 cm.
+Una lunga colonna vertical è chiusa all'estremità inferiore e aperta all'estremità superiore. Viene riempita parzialmente con un liquido e raffreddata a $-5\ ^\circ\text{C}$. A questa temperatura, il liquido si solidifica al di sotto di un certo livello, rimanendo liquido al di sopra di esso (vedi figura). Se la temperatura diminuisce fino a $-5{,}2\ ^\circ\text{C}$, si osserva che l'interfaccia solido-liquido sale di 40 cm.
 
-È noto che:
-Il calore latente della trasformazione liquido-solido è $L = 2\ \text{cal/g}$
-La densità della fase liquida è $\rho_l = 1\ \text{g/cm}^3$.
-In tali condizioni si risponde che:
+Si sa che:
+ Il calore latente della trasformazione liquido-solido è $L = 2\ \text{cal/g}$
+ La densità della fase liquida è $\rho_l = 1\ \text{g/cm}^3$.
+ In queste condizioni si ha che:
 
 $$\frac{\Delta P}{\Delta T} = \frac{L}{T\left(\dfrac{1}{\rho_l} - \dfrac{1}{\rho_s}\right)}$$
 
-in cui $\Delta P$ rappresenta la variazione di pressione nell'interfase solido-liquido e $T$ la
-temperatura iniziale espressa in gradi Kelvin.
-Gli effetti di espansione termica possono essere trascurati.
+dove $\Delta P$ rappresenta la variazione di pressione sull'interfaccia solido-liquido e $T$ la temperatura iniziale espressa in gradi Kelvin.
+ Si possono trascurare gli effetti di dilatazione termica.
 
-a) Trova un'espressione per $(h_1 - h_2)$.
+a) Trovare un'espressione per $(h_1 - h_2)$.
 
-b) Trova un'espressione per $P_1$ (pressure sull'interfaccia liquido-solido a $T=-5^{\circ}C$)
+b) Trovare un'espressione per $P_1$ (pressione sull'interfaccia liquido-solido a $T=-5^{\circ}C$)
 e $P_2$ (pressione sull'interfaccia liquido-solido a $T=-5{,}2^{\circ}C$)
 
-c) Trova un'espressione per $\Delta P$
+c) Trovare un'espressione per $\Delta P$
 
 d) Calcolare la densità del solido.
 
-
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p3_f2.png]]
-*Collonna liquido-solido a due temperature*
+*Colonna liquido-solido a due temperature*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 2
 
-A long vertical column is closed at its lower end and open at its end
-higher. It is partially filled with a liquid and cooled to $-5\ ^\circ\text{C}$. At this temperature, the
-The liquid is solidified below a given level, remaining liquid above the
-The Commission has not yet adopted a proposal for a regulation. If the temperature decreases to $-5{,}2\ ^\circ\text{C}$, the interphase is observed to be
-solid-liquid is up to 40 cm.
+A long vertical column is closed at its lower end and open at its upper end. It is partially filled with a liquid and cooled to $-5\ ^\circ\text{C}$. At this temperature, the liquid solidifies below a given level, remaining liquid above it (see figure). If the temperature decreases to $-5{,}2\ ^\circ\text{C}$, it is observed that the solid-liquid interface rises 40 cm.
 
 It is known that:
-The latent heat of the liquid-solid transformation is $L = 2\ \text{cal/g}$
-The density of the liquid phase is $\rho_l = 1\ \text{g/cm}^3$.
-Under these conditions:
+ The latent heat of the liquid-solid transformation is $L = 2\ \text{cal/g}$
+ The density of the liquid phase is $\rho_l = 1\ \text{g/cm}^3$.
+ Under these conditions it holds that:
 
 $$\frac{\Delta P}{\Delta T} = \frac{L}{T\left(\dfrac{1}{\rho_l} - \dfrac{1}{\rho_s}\right)}$$
 
-where $\Delta P$ represents the pressure variation in the solid-liquid interface and $T$ the
-The initial temperature is expressed in Kelvin degrees.
-The effects of thermal expansion can be overlooked.
+where $\Delta P$ represents the pressure variation at the solid-liquid interface and $T$ the initial temperature expressed in degrees Kelvin.
+ The effects of thermal expansion can be neglected.
 
-(a) Find an expression for $(h_1 - h_2)$.
+a) Find an expression for $(h_1 - h_2)$.
 
-(b) Find an expression for $P_1$ (pressure on the liquid-solid interface to $T=-5^{\circ}C$)
-and $P_2$ (pressure on the liquid-solid interface to $T=-5{,}2^{\circ}C$)
+b) Find an expression for $P_1$ (pressure on the liquid-solid interface at $T=-5^{\circ}C$)
+and $P_2$ (pressure on the liquid-solid interface at $T=-5{,}2^{\circ}C$)
 
-(c) Find an expression for $\Delta P$
+c) Find an expression for $\Delta P$
 
-(d) Calculate the density of the solid.
-
+d) Calculate the density of the solid.
 
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p3_f2.png]]
-*Liquid-solid colonna at due temperature*
+*Liquid-solid column at two temperatures*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Argent 2016 — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/electron"></span>
@@ -1148,38 +1124,31 @@ Dove $P_o$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
+Problem 3
 
-An electron, traveling at $V_0 = 1\ \text{m s}^{-1}$, enters a region of space where
-a uniform electric field $E$, of a module equal to $1{,}14\times10^{-11}\ \text{N C}^{-1}$ (see figure).
-After traveling a distance of 1 m, the electron enters a region where the field is
-electrical has disappeared.
-Finally, the electron travels a distance of 20 cm and enters a region where it exists.
-a uniform magnetic field $\vec{B}$, of a modulus equal to $0{,}6\ \mu\text{G}$ (see figure).
+An electron, traveling with velocity $V_0 = 1\ \text{m s}^{-1}$, enters a region of space where there is a uniform electric field $E$, with magnitude equal to $1{,}14\times10^{-11}\ \text{N C}^{-1}$ (see figure).
+After traveling a distance of 1 m, the electron enters a region where the electric field has disappeared.
+Finally, the electron travels a distance of 20 cm and enters a region where there is a uniform magnetic field $\vec{B}$, with magnitude equal to $0{,}6\ \mu\text{G}$ (see figure).
 
-Knowing that the charge-mass ratio of the electron is $-1{,}76\times10^{8}\ \text{C/g}$ and disregarding the
-The effects of gravity.
+Knowing that the charge-to-mass ratio of the electron is $-1{,}76\times10^{8}\ \text{C/g}$ and neglecting the effects of gravity.
 
-(a) Determine the electron speed at position A.
+a) Determine the velocity of the electron at position A.
 
-(b) Determine the vertical distance to point B to which the electron passes.
+b) Determine the vertical distance from point B at which the electron passes.
 
-c) Draw a diagram of the path of the electron for the whole space.
+c) Draw a sketch of the electron's trajectory for all of space.
 
-(d) A uniform electric field is to be applied in the region where the field is located;
-magnetic, so that the electron passes through point B. Determine the
-The magnitude, direction and direction of the electric field required to accomplish this.
+d) It is desired to apply a uniform electric field, in the region where the magnetic field exists, in such a way that the electron passes through point B. Determine the magnitude, direction, and sense of the electric field necessary to accomplish this.
 
 Useful data:
 
 $1\ \text{T} = 10^4\ \text{G}$
 
-Theoretical problem 1
-Answering sheet
+Theoretical Problem 1
+Answer Sheet
 
 Solution
-Score
-a.
+Score a.
 $Q_{12} =$
 
 b.
@@ -1197,14 +1166,13 @@ f.
 $T_1 =$
 
 g.
-Eficiencia $\eta$ =
+Efficiency $\eta$ =
 
-Theoretical problem 2
-Answering sheet
+Theoretical Problem 2
+Answer Sheet
 
 Solution
-Score
-a.
+Score a.
 $h_1 - h_2 =$
 
 b.
@@ -1218,12 +1186,11 @@ $\Delta P =$
 d.
 $\rho_s =$
 
-Theoretical problem 3
-Answering sheet
+Theoretical Problem 3
+Answer Sheet
 
 Solution
-Score
-a.
+Score a.
 $V_A =$
 
 b.
@@ -1234,120 +1201,87 @@ c.
 d.
 $E =$
 
-Argentine Olympic Games in Physics
+Argentine Physics Olympiad
 
-Preparatory tests
-Second test: thermodynamics,
-Electricity and magnetism
-The experimental part
+Preparatory Tests
+Second Test: Thermodynamics,
+Electricity and Magnetism
+Experimental Part
 
-The following is the list of the countries of the European Union:
+Name: ..................................................................
 
-D.N.I.: ......................................................................
+I.D. number: ......................................................................
 
-School: ........................... is not a school
+School: .................................................................
 
-- Before you start solving the test read carefully ALL the
-The Commission has not yet adopted a decision.
-- Write your name and D.N.I. number. in the appropriate place. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
-Objective: Determine the saturation concentration of a solution of water and salt
-The table.
+- Before starting to solve the test, carefully read the ENTIRE statement of the same.
+- Write your name and your I.D. number in the indicated place. Do not write your name anywhere else on the test.
+- Do not write answers on the statement sheets since they will not be considered.
+- Write on only one side of the sheets.
+Objective: Determine the saturation concentration of a solution of water and table salt.
 
-Sodium chloride, more commonly known as table salt, is a compound whose
-The chemical formula is NaCl. Sodium chloride is one of the salts responsible for salinity
-The ocean and extracellular fluid of many organisms.
-When a mass of salt is mixed with water, a solution is formed, as the salt (soluted) is
-dissolves in water (solvent). If a new amount of salt is added to the solution, it does not
-The solution is said to have reached the point of
-saturation. This maximum concentration point depends on the temperature of the liquid, so
-as to the chemical nature of the substances involved. The saturation point is
-expressed in grams of solvent (salt) per 100 ml of water.
+Sodium chloride, more commonly known as table salt, is a compound whose chemical formula is NaCl. Sodium chloride is one of the salts responsible for the salinity of the ocean and of the extracellular fluid of many organisms.
+When a mass of salt is mixed in water, a solution is formed, since the salt (solute) dissolves in the water (solvent). If, upon adding a new amount of salt to the solution, it does not dissolve completely, then the solution is said to have reached the saturation point. This point of maximum concentration depends on the temperature of the liquid, as well as on the chemical nature of the substances involved. The saturation point is expressed in grams of solute (salt) per 100 ml of water.
 
-Proposal for a Council Directive
-Determine the saturation point of table salt in water by studying the equilibrium of the
-The force of a body when it is (partially) submerged in water. This is why I
-It proposes the construction of a variable mass densimeter.
+Proposal
+Determine the saturation point of table salt in water by studying the force equilibrium of a body when it is (partially) submerged in water. To this end, the construction of a variable-mass hydrometer is proposed.
 
-Other materials
-For the construction of the densometer:
-- disposable syringe (without needle)
-- Material for sealing and weight (e.g. plastic)
+Materials
+For the construction of the hydrometer:
+- Disposable syringe (without the needle)
+- Material to seal and use as a weight (e.g., modeling clay)
 
-For measurements:
-- Density built by you.
+For the measurements:
+- Hydrometer built by you.
 - Water
-- Get out of the table (as you wish)
-- Graduate recipient
-- A vessel of appropriate size for use in its density meter
-- Salt distiller (e.g. gasket, spoon, etc.)
-- syringe (without the needle)
-- Mixers (e.g. spoon, stick, pencil, etc.)
-- Aultic thermometer.
+- Table salt (whatever you have)
+- Graduated container
+- Container of suitable size to use your hydrometer
+- Salt dispenser (e.g., soda bottle cap, teaspoon, etc.)
+- Syringe (without the needle)
+- Stirrer (e.g., teaspoon, stick, pen, etc.)
+- Classroom thermometer.
 
-NOTE: for water and salt solution we recommend not to use more than 250-300 $\text{cm}^3$ of
-- What?
+NOTE: for the water and salt solution, we recommend not using more than 250-300 $\text{cm}^3$ of water.
 
-Construction of the densometer
-a- Dispose of the syringe plunger and seal the tip of the syringe. Add one
-mass/weight to the syringe so that when it is placed in water, it floats
-The following table shows the results of the study:
+Construction of the hydrometer a- Discard the plunger of the syringe and seal the tip of the syringe. Add a mass/weight to the syringe such that when it is placed in water, it floats vertically (See figure).
 Development of the experiment
-In the graduated container (Rg) place a known amount of water ($V_A$); in this
-container will be the solution.
+In the graduated container (Rg) place a known amount of water ($V_A$); the solution will be made in this container.
 
-b- Put water in container R and place the densometer you made.
-Add a mass of water inside the densimeter so that it stays
-I'm going to dive to a depth you set.
-Determine the volume of water used ($V_\text{agua}$). Repeat this measurement a number
-sufficient times to determine this volume with its corresponding volume
-Uncertainty. Report this value.
+b- In container R, place water and position the hydrometer you made.
+Add a mass of water inside the hydrometer so that it remains submerged to a depth defined by you.
+Determine the volume of water used ($V_\text{agua}$). Repeat this measurement a sufficient number of times to determine said volume with its corresponding uncertainty. Report this value.
 
-Add a dose of salt to the Rg container (containing $V_A$ of water) and mix well.
-Add a volume of this solution to the inside of the densimeter (empty) so that
-The same is dipped to the depth you defined in point b.
-Determine the volume of solution used ($V_\text{sol}$). Repeat this measurement a number
-sufficient times to determine this volume with its corresponding volume
-Uncertainty.
-Repeat measurements for different amounts of salt doses in the solution,
-The salt is then dissolved in the
-water). Make a table showing the number of salt (s) doses and the volume
-The solution ($V_\text{sol}$) used in the measurements with their corresponding uncertainties.
+c- Add a dose of salt to container Rg (which contains $V_A$ of water) and mix well.
+Add a volume of this solution inside the (empty) hydrometer so that it submerges to the depth defined by you in point b-.
+Determine the volume of solution used ($V_\text{sol}$). Repeat this measurement a sufficient number of times to determine said volume with its corresponding uncertainty.
+Repeat the measurements for different amounts of salt doses in the solution, until reaching the saturation point (when the salt no longer dissolves in the water). Make a table recording the number of salt doses (n) and the volume of solution ($V_\text{sol}$) used in the measurements with their corresponding uncertainties.
 
-d- Draw a graph of n vs. $V_\text{agua} / V_\text{sol}$.
+d- Make a graph of n vs. $V_\text{agua} / V_\text{sol}$.
 
-e- Perform a linear adjustment of the above graph and determine the slope and the ordered to the
-the origin of the straight resulting. Report these values with their corresponding uncertainty.
+e- Perform a linear fit of the previous graph and determine the slope and the y-intercept of the resulting line. Report these values with their corresponding uncertainty.
 
-(f) perform a theoretical analysis of the situation and demonstrate that:
+f- Perform a theoretical analysis of the situation and show that,
 
 $$\frac{V_\text{agua}}{V_\text{sol}} = \frac{m_\text{sal}}{V_A\,\rho_\text{agua}}\,n + 1$$
 
-where $m_\text{sal}$ is the salt mass of a dose and $\rho_\text{agua}=(1{,}00 \pm 0{,}01\ \text{g cm}^{-3})$ is the salt mass of the dose.
-density of water. Note that the density of the solution is:
+where $m_\text{sal}$ is the mass of salt in a dose and $\rho_\text{agua}=(1{,}00 \pm 0{,}01\ \text{g cm}^{-3})$ is the density of water. Note that the density of the solution is:
 
 $$\rho_\text{solución} = \frac{M_\text{sal} + M_A}{V_A}$$
 
-where $M_\text{sal}$ and $M_A$ are respectively the salt and water masses used in the
-The solution.
+where $M_\text{sal}$ and $M_A$ are respectively the mass of salt and water used in the solution.
 
 g- Determine $m_\text{sal}$
 
-h- Determine the salt saturation point in water. Determine the temperature at
-The test was conducted and the saturation point was compared with the reported
-I'm not sure what the literature is.
+h- Determine the saturation point of salt in water. Determine the temperature at which the experiment was carried out and compare the saturation point with the one reported by the bibliography available to you.
 
-i- Using the materials provided, apply another method to determine $m_\text{sal}$.
+i- Using the materials provided, implement another method to determine $m_\text{sal}$.
 
-The experimental problem
+Experimental Problem
 Answer sheet.
 
-Score
-a-
-Construction density
+Score a-
+Construction of the hydrometer
 
 b-
 $V_\text{agua} =$
@@ -1356,12 +1290,12 @@ c-
 Table
 
 d-
-Graphic
+Graph
 
 e-
-The pending =
+Slope =
 
-Ordered =
+Intercept =
 
 f-
 Theoretical analysis
@@ -1370,23 +1304,19 @@ g-
 $m_\text{sal} =$
 
 h-
-The following is the list of the following:
+Saturation point =
 
 i-
 $m_\text{sal} =$
 
-The test shall be carried out in accordance with the following conditions:
-Answering sheet
+Experimental Test
+Answer sheet
 
-Score
-a-
-Construction density
-5 points
-b-
+Score a-
+Construction of the hydrometer
+5 pts b-
 $V_\text{agua} = (3{,}6 \pm 0{,}2)\ \text{ml}$
-1 pto
-c-
-n
+1 pt c- n
 $V_\text{sol}$ [ml]
  Error $V_\text{sol}$ [ml]
 1
@@ -1411,169 +1341,81 @@ $V_\text{sol}$ [ml]
 2.9
 0.2
 
-1 pto per
-measurement
-up to one
-maximum
-de 5
-The Commission
-d-
+1 pt per measurement up to a maximum of 5 pts d-
 
-2 points
-e-
-Pendiente = $(0{,}022 \pm 0{,}003)$
+2 pts e-
+Slope = $(0{,}022 \pm 0{,}003)$
 
-Ordenada = $(1{,}01 \pm 0{,}01)$
-2 points
-f-
+Intercept = $(1{,}01 \pm 0{,}01)$
+2 pts f-
 
 $mg = V_\text{sumergido}\, \rho_a\, g$
 
-Where $m$ is the total mass of the densimeter and $V_\text{sumergido}$ the volume of the
-The density of the submerged density.
+Where $m$ is the total mass of the hydrometer and $V_\text{sumergido}$ the volume of the submerged hydrometer.
 
-For water ($V_\text{agua}$): $m = m_d + V_\text{agua}\, \rho_a$
+For the case of water ($V_\text{agua}$): $m = m_d + V_\text{agua}\, \rho_a$
 
 For the salt solution ($V_\text{sol}$): $m = m_d + V_\text{sol}\, \rho_\text{sal}$
 
-Where $m_d$ is the mass of the empty densimeter.
+Where $m_d$ is the mass of the empty hydrometer.
 
-2 points
+2 pts
 Then,
 
 $$V_\text{agua}\, \rho_a = V_\text{sol}\, \rho_\text{sal} = V_\text{sol}\, \frac{M_\text{sal} + M_\text{agua}}{V_A} = V_\text{sol}\, \frac{M_\text{sal}}{V_A} + \rho_a$$
 
-As $M_\text{sal} = n\, m_\text{sal}$, it is obtained,
+Since $M_\text{sal} = n\, m_\text{sal}$, one obtains,
 
 $$\frac{V_\text{agua}}{V_\text{sol}} = \frac{m_\text{sal}}{V_A\,\rho_\text{agua}}\, n + 1$$
 
 g-
 $m_\text{sal} = (6 \pm 2)\ \text{g}$
-1 pto
-h-
-Saturating point = $(20 \pm 10)$ g of salt per 100 ml of water.
-Experiments were conducted at $20^{\circ}C$ and the literature reports a
-saturation point of 36 g of salt per 100 ml of water.
-1 pto
-i-
+1 point h-
+Saturation Point = $(20 \pm 10)$ g of salt per 100 ml of water.
+The experiments were carried out at $20^{\circ}C$ and the literature reports a saturation point of 36 g of salt per 100 ml of water.
+1 point i-
 $m_\text{sal} = (8 \pm 1)\ \text{g}$
-1 pto
-Theoretical problem 1
-Answering sheet
+1 point
+Theoretical Problem 1
+Answer sheet
 
 Solution
-Score
-a.
+Score a.
 $Q_{12} = \tfrac{3}{2} P_1 V_1$
-1 pto
-b.
+1 point b.
 $W_{23} = -\tfrac{3}{2} P_1 V_1$
-1.5 pts
-c.
+1.5 points c.
 $Q_{23} = \tfrac{3}{2} P_1 V_1$
-1.5 pts
-d.
+1.5 points d.
 $W_T = -\tfrac{1}{2} P_1 V_1$
-1.5 pts
-e.
+1.5 points e.
 States 2 and 3 belong to the same isotherm.
-1.5 pts
-f.
+1.5 points f.
 $T_1 = \tfrac{T_2}{2}$
-1 pto
-g
-Eficiencia $\eta = \tfrac{1}{6}$
+1 point g
+Efficiency $\eta = \tfrac{1}{6}$
 2 points
-Theoretical problem 2
-Answering sheet
+Theoretical Problem 2
+Answer sheet
 
 Solution
-Score
-a.
+Score a.
 $h_1 - h_2 = \dfrac{\rho_s d}{\rho_l}$
-2 points
-b.
+2 points b.
 $P_1 = \rho_l g h_1 + P_o$
 
 $P_2 = \rho_l g h_2 + P_o$
 
 Where $P_o$
 
-
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p4_f3.png]]
-*Elettrone in regioni campo E e B*
+*Electron in E and B field regions*
 <!--fig:end-->
 <!--fig:start-->
-
-
-<figure class="tikz-fig">
-<!-- This file was generated by dvisvgm 3.2.2 -->
-<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='145.910918pt' height='92.472587pt' viewBox='-64.266171 -64.809412 145.910918 92.472587'>
-<defs>
-<path id='g1-120' d='M3.327522-3.008717C3.387298-3.267746 3.616438-4.184309 4.313823-4.184309C4.363636-4.184309 4.60274-4.184309 4.811955-4.054795C4.533001-4.004981 4.333748-3.755915 4.333748-3.516812C4.333748-3.35741 4.443337-3.16812 4.712329-3.16812C4.931507-3.16812 5.250311-3.347447 5.250311-3.745953C5.250311-4.26401 4.662516-4.403487 4.323786-4.403487C3.745953-4.403487 3.39726-3.875467 3.277709-3.646326C3.028643-4.303861 2.49066-4.403487 2.201743-4.403487C1.165629-4.403487 .597758-3.118306 .597758-2.86924C.597758-2.769614 .697385-2.769614 .71731-2.769614C.797011-2.769614 .826899-2.789539 .846824-2.879203C1.185554-3.935243 1.843088-4.184309 2.181818-4.184309C2.371108-4.184309 2.719801-4.094645 2.719801-3.516812C2.719801-3.20797 2.550436-2.540473 2.181818-1.145704C2.022416-.52802 1.673724-.109589 1.235367-.109589C1.175592-.109589 .946451-.109589 .737235-.239103C.986301-.288917 1.205479-.498132 1.205479-.777086C1.205479-1.046077 .986301-1.125778 .836862-1.125778C.537983-1.125778 .288917-.86675 .288917-.547945C.288917-.089664 .787049 .109589 1.225405 .109589C1.882939 .109589 2.241594-.587796 2.271482-.647572C2.391034-.278954 2.749689 .109589 3.347447 .109589C4.373599 .109589 4.941469-1.175592 4.941469-1.424658C4.941469-1.524284 4.851806-1.524284 4.821918-1.524284C4.732254-1.524284 4.712329-1.484433 4.692403-1.414695C4.363636-.348692 3.686177-.109589 3.367372-.109589C2.978829-.109589 2.819427-.428394 2.819427-.767123C2.819427-.986301 2.879203-1.205479 2.988792-1.643836L3.327522-3.008717Z'/>
-<path id='g1-121' d='M4.841843-3.795766C4.881694-3.935243 4.881694-3.955168 4.881694-4.024907C4.881694-4.204234 4.742217-4.293898 4.592777-4.293898C4.493151-4.293898 4.333748-4.234122 4.244085-4.084682C4.224159-4.034869 4.144458-3.726027 4.104608-3.5467C4.034869-3.287671 3.965131-3.01868 3.905355-2.749689L3.457036-.956413C3.417186-.806974 2.988792-.109589 2.331258-.109589C1.823163-.109589 1.713574-.547945 1.713574-.916563C1.713574-1.374844 1.882939-1.992528 2.221669-2.86924C2.381071-3.277709 2.420922-3.387298 2.420922-3.58655C2.420922-4.034869 2.102117-4.403487 1.603985-4.403487C.657534-4.403487 .288917-2.958904 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.789539 .56787-2.948941C.836862-3.88543 1.235367-4.184309 1.574097-4.184309C1.653798-4.184309 1.823163-4.184309 1.823163-3.865504C1.823163-3.616438 1.723537-3.35741 1.653798-3.16812C1.255293-2.11208 1.075965-1.544209 1.075965-1.075965C1.075965-.18929 1.703611 .109589 2.291407 .109589C2.67995 .109589 3.01868-.059776 3.297634-.33873C3.16812 .179328 3.048568 .667497 2.650062 1.195517C2.391034 1.534247 2.012453 1.823163 1.554172 1.823163C1.414695 1.823163 .966376 1.793275 .797011 1.404732C.956413 1.404732 1.085928 1.404732 1.225405 1.285181C1.325031 1.195517 1.424658 1.066002 1.424658 .876712C1.424658 .56787 1.155666 .52802 1.05604 .52802C.826899 .52802 .498132 .687422 .498132 1.175592C.498132 1.673724 .936488 2.042341 1.554172 2.042341C2.580324 2.042341 3.606476 1.135741 3.88543 .009963L4.841843-3.795766Z'/>
-<path id='g1-122' d='M1.325031-.826899C1.863014-1.404732 2.15193-1.653798 2.510585-1.96264C2.510585-1.972603 3.128269-2.500623 3.486924-2.859278C4.433375-3.785803 4.652553-4.26401 4.652553-4.303861C4.652553-4.403487 4.562889-4.403487 4.542964-4.403487C4.473225-4.403487 4.443337-4.383562 4.393524-4.293898C4.094645-3.815691 3.88543-3.656289 3.646326-3.656289S3.287671-3.805729 3.138232-3.975093C2.948941-4.204234 2.779577-4.403487 2.450809-4.403487C1.703611-4.403487 1.24533-3.476961 1.24533-3.267746C1.24533-3.217933 1.275218-3.158157 1.364882-3.158157S1.474471-3.20797 1.494396-3.267746C1.683686-3.726027 2.261519-3.73599 2.34122-3.73599C2.550436-3.73599 2.739726-3.666252 2.968867-3.58655C3.367372-3.437111 3.476961-3.437111 3.73599-3.437111C3.377335-3.008717 2.540473-2.291407 2.351183-2.132005L1.454545-1.295143C.777086-.627646 .428394-.059776 .428394 .009963C.428394 .109589 .52802 .109589 .547945 .109589C.627646 .109589 .647572 .089664 .707347-.019925C.936488-.368618 1.235367-.637609 1.554172-.637609C1.783313-.637609 1.882939-.547945 2.132005-.259029C2.30137-.049813 2.480697 .109589 2.769614 .109589C3.755915 .109589 4.333748-1.155666 4.333748-1.424658C4.333748-1.474471 4.293898-1.524284 4.214197-1.524284C4.124533-1.524284 4.104608-1.464508 4.07472-1.39477C3.845579-.747198 3.20797-.557908 2.879203-.557908C2.67995-.557908 2.500623-.617684 2.291407-.687422C1.952677-.816936 1.803238-.856787 1.594022-.856787C1.574097-.856787 1.414695-.856787 1.325031-.826899Z'/>
-<path id='g2-65' d='M3.965131-6.933998C3.915318-7.063512 3.895392-7.13325 3.73599-7.13325S3.5467-7.073474 3.496887-6.933998L1.43462-.976339C1.255293-.468244 .856787-.318804 .318804-.308842V0C.547945-.009963 .976339-.029888 1.334994-.029888C1.643836-.029888 2.161893-.009963 2.480697 0V-.308842C1.982565-.308842 1.733499-.557908 1.733499-.816936C1.733499-.846824 1.743462-.946451 1.753425-.966376L2.211706-2.271482H4.672478L5.200498-.747198C5.210461-.707347 5.230386-.647572 5.230386-.607721C5.230386-.308842 4.672478-.308842 4.403487-.308842V0C4.762142-.029888 5.459527-.029888 5.838107-.029888C6.266501-.029888 6.724782-.019925 7.143213 0V-.308842H6.963885C6.366127-.308842 6.22665-.37858 6.117061-.707347L3.965131-6.933998ZM3.437111-5.818182L4.562889-2.580324H2.321295L3.437111-5.818182Z'/>
-<path id='g2-66' d='M2.211706-3.646326V-6.097136C2.211706-6.425903 2.231631-6.495641 2.699875-6.495641H3.935243C4.901619-6.495641 5.250311-5.648817 5.250311-5.120797C5.250311-4.483188 4.762142-3.646326 3.656289-3.646326H2.211706ZM4.562889-3.556663C5.529265-3.745953 6.216687-4.383562 6.216687-5.120797C6.216687-5.987547 5.300125-6.804483 4.004981-6.804483H.358655V-6.495641H.597758C1.364882-6.495641 1.384807-6.386052 1.384807-6.027397V-.777086C1.384807-.418431 1.364882-.308842 .597758-.308842H.358655V0H4.26401C5.589041 0 6.485679-.886675 6.485679-1.823163C6.485679-2.689913 5.668742-3.437111 4.562889-3.556663ZM3.945205-.308842H2.699875C2.231631-.308842 2.211706-.37858 2.211706-.707347V-3.427148H4.084682C5.070984-3.427148 5.489415-2.500623 5.489415-1.833126C5.489415-1.125778 4.971357-.308842 3.945205-.308842Z'/>
-<path id='g0-66' d='M2.769614-3.73599V-6.366127H4.582814C5.589041-6.366127 5.768369-5.579078 5.768369-5.120797C5.768369-4.353674 5.290162-3.73599 4.323786-3.73599H2.769614ZM5.459527-3.566625C6.535492-3.755915 7.183064-4.353674 7.183064-5.120797C7.183064-6.03736 6.316314-6.834371 4.712329-6.834371H.388543V-6.366127H1.464508V-.468244H.388543V0H5.011208C6.665006 0 7.501868-.876712 7.501868-1.853051C7.501868-2.809465 6.645081-3.476961 5.459527-3.566625ZM4.60274-.468244H2.769614V-3.377335H4.702366C4.901619-3.377335 5.369863-3.377335 5.708593-2.948941C6.03736-2.530511 6.03736-1.972603 6.03736-1.863014C6.03736-1.743462 6.03736-.468244 4.60274-.468244Z'/>
-<path id='g0-69' d='M7.202989-2.729763H6.734745C6.515567-1.354919 6.236613-.468244 4.393524-.468244H2.879203V-3.277709H3.427148C4.383562-3.277709 4.483188-2.849315 4.483188-2.11208H4.951432V-4.911582H4.483188C4.483188-4.174346 4.393524-3.745953 3.427148-3.745953H2.879203V-6.306351H4.393524C5.997509-6.306351 6.256538-5.579078 6.41594-4.373599H6.884184L6.575342-6.774595H.388543V-6.306351H1.464508V-.468244H.388543V0H6.744707L7.202989-2.729763Z'/>
-</defs>
-<g id='page1'>
-<path d='M-32.0078 15.917968V-46.4453' stroke='#d9d9d9' fill='none' stroke-width='.3985' stroke-dasharray='2.98883 2.98883'/>
-<path d='M-17.8359 15.917968V-46.4453' stroke='#d9d9d9' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
-<path d='M-.8281 15.917968V-46.4453' stroke='#d9d9d9' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
-<path d='M13.3477 15.917968V-46.4453' stroke='#d9d9d9' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-dasharray='2.98883 2.98883'/>
-<path d='M-54.687499 15.917968V-48.0625' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-54.687499-54.12894C-54.867187-53.38284-55.88672-50.1094-56.99609-48.06253H-52.375C-53.48437-50.1094-54.507812-53.38284-54.687499-54.12894Z'/>
-<path d='M-54.687499-54.12894C-54.867187-53.38284-55.88672-50.1094-56.99609-48.06253H-52.375C-53.48437-50.1094-54.507812-53.38284-54.687499-54.12894Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-54.687499 15.917968H65.988' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M72.0547 15.917968C71.30861 15.738281 68.03517 14.71875 65.988299 13.60937V18.23047C68.03517 17.11719 71.30861 16.097656 72.0547 15.917968Z'/>
-<path d='M72.0547 15.917968C71.30861 15.738281 68.03517 14.71875 65.988299 13.60937V18.23047C68.03517 17.11719 71.30861 16.097656 72.0547 15.917968Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 -2.621 -76.324)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g1-121'/>
-</g>
-<g transform='matrix(1 0 0 1 131.0804 2.1447)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g1-120'/>
-</g>
-<path d='M-53.19141 11.66797C-53.19141 10.83984-53.859374 10.17187-54.687499 10.17187C-55.511718 10.17187-56.17969 10.83984-56.17969 11.66797C-56.17969 12.49219-55.511718 13.16016-54.687499 13.16016C-53.859374 13.16016-53.19141 12.49219-53.19141 11.66797Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 -10.0086 -2.1071)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g1-122'/>
-</g>
-<path d='M13.3477 15.917968C36.0234 11.66797 50.195-9.5938 64.371-46.4453' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M-16.2422 15.917968C-16.2422 15.039062-16.9531 14.32422-17.8359 14.32422C-18.7148 14.32422-19.4297 15.039062-19.4297 15.917968C-19.4297 16.796875-18.7148 17.51172-17.8359 17.51172C-16.9531 17.51172-16.2422 16.796875-16.2422 15.917968Z'/>
-<path d='M14.9414 15.917968C14.9414 15.039062 14.2266 14.32422 13.3477 14.32422C12.4648 14.32422 11.7539 15.039062 11.7539 15.917968C11.7539 16.796875 12.4648 17.51172 13.3477 17.51172C14.2266 17.51172 14.9414 16.796875 14.9414 15.917968Z'/>
-<g transform='matrix(1 0 0 1 33.1149 11.7451)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g2-65'/>
-</g>
-<g transform='matrix(1 0 0 1 64.50368 11.7451)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g2-66'/>
-</g>
-<path d='M-23.5039-9.5938H-36.4609' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-42.52732-9.59375C-41.78123-9.414062-38.50779-8.39453-36.460916-7.28516V-11.90625C-38.50779-10.79297-41.78123-9.773437-42.52732-9.59375Z'/>
-<path d='M-42.52732-9.59375C-41.78123-9.414062-38.50779-8.39453-36.460916-7.28516V-11.90625C-38.50779-10.79297-41.78123-9.773437-42.52732-9.59375Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 17.4964 -30.4492)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g0-69'/>
-</g>
-<path d='M1.1563-9.5938C1.1563-11.4727-.3672-12.9961-2.2461-12.9961C-4.1211-12.9961-5.6445-11.4727-5.6445-9.5938C-5.6445-7.7148-4.1211-6.1914-2.2461-6.1914C-.3672-6.1914 1.1563-7.7148 1.1563-9.5938Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-.9492-9.5938C-.9492-10.3086-1.5273-10.8906-2.2461-10.8906C-2.9609-10.8906-3.5391-10.3086-3.5391-9.5938C-3.5391-8.8789-2.9609-8.2969-2.2461-8.2969C-1.5273-8.2969-.9492-8.8789-.9492-9.5938Z'/>
-<g transform='matrix(1 0 0 1 48.36673 -33.284)'>
-<use x='-54.685965' y='15.918075' xlink:href='#g0-66'/>
-</g>
-</g>
-</svg>
-</figure>
-
-
-*Schema traiettoria elettrone nelle regioni*
+![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p16_f6.png]]
+*Electron trajectory diagram in the regions*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2016 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/heat-engine"></span>
@@ -2083,7 +1925,7 @@ $\vec{E} = V_A B\,\hat{\jmath} = 1.34\times10^{-10}\ \text{N C}^{-1}\,\hat{\jmat
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three:
+Problem 3:
 a-
 
 $\vec{F}_E = q \vec{E} = m \vec{a}$
@@ -2110,25 +1952,18 @@ $q\vec{E} + q\, \vec{V} \times \vec{B} = 0$
 $q\vec{E} - q V_A B\,\hat{\jmath} = 0$
 $\vec{E} = V_A B\,\hat{\jmath} = 1.34\times10^{-10}\ \text{N C}^{-1}\,\hat{\jmath}$
 
-
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p20_f9.png]]
-The following conditions shall apply:
+*Electron in a uniform electric field E*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p20_f10.png]]
-*Electron in uniform magnetic field B*
+*Electron in a uniform magnetic field B*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p21_f11.png]]
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+*Complete trajectory of the electron in the three regions*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
 
 ## Figure
 
@@ -2159,11 +1994,13 @@ The Commission has also adopted a proposal for a regulation on the protection of
 ## Figure
 
 <!--fig:start-->
-Density in water and solution
+**p.9** — Hydrometer in water and solution
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p9_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the evaluation of the results of the evaluation:
+**p.12** — Graph of Va/Vsol as a function of n
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p12_f5.png]]
 <!--fig:end-->
+
+

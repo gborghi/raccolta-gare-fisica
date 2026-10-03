@@ -306,41 +306,34 @@ d) Valutare le buone qualità del metodo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results are based on the results of the experiment.
+**Experiment 1 — Objective: Determine the atmospheric pressure**
 
-The following information is provided by the manufacturer:
+**Brief description**
 
-The molecules on the surface of a fluid form a film, which produces additional pressure on the inside of the fluid: this is called the surface tension force. It depends on the surface tension coefficient $\sigma$, which is a property of the fluid. For a spherical radial drop fluid $R$, the additional pressure due to the surface tension force is:
+The molecules on the surface of a fluid form a film, which produces an additional pressure on the interior of the fluid: this is the so-called surface tension force. It depends on the surface tension coefficient $\sigma$, which is a property of the fluid. For a fluid in the form of a spherical drop of radius $R$, the additional pressure due to the surface tension force is:
 
 $$\Delta P = \frac{2\sigma}{R}$$
 
-The following information is provided by the Commission:
-- Two sorbetes .
-- There's a rule.
+**Necessary elements**
+- Two straws
+- A ruler
 - Container with soapy solution
 
-With the help of the sorbet and the soap solution, it produces two soap pumps of different diameter.
+With the help of the straws and the soapy solution, produce two soap bubbles with different diameters.
 
-(a) Measure the diameters of the two soap pumps.
+a) Measure the diameters corresponding to the two soap bubbles.
 
-After this, carefully combine the two soap pumps and make sure that a single pump is formed.
+After this, carefully bring the two soap bubbles together and make sure that a single bubble forms.
 
-(b) Determine the diameter of this latter pump.
+b) Determine the diameter of this last bubble.
 
-You need to do this experiment pretty quickly and this will require some practice. The results are appropriate if the bubbles are stable and do not change significantly in size during measurements.
+You must perform this experiment quite quickly and this will require some practice. The results are appropriate if the bubbles are stable and do not change significantly in size during the measurements.
 
-(c) Using the measured values of diameter or radius of the three pumps and the mean value of the surface tension coefficient of the soapy water solution ($\sigma = 45{,}0 \times 10^{-3}\ \text{N/m}$), find an appropriate formula for calculating atmospheric pressure.
+c) Using the measured values of diameter or radius of the three bubbles, and the average value of the surface tension coefficient of the soapy water solution ($\sigma = 45{,}0 \times 10^{-3}\ \text{N/m}$), find a suitable formula to calculate the atmospheric pressure.
 
 Repeat the experiment several times.
 
-(d) Assess the benefits of the method.
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Bubble (object)|Bubble]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
-
+d) Evaluate the goodness of the method.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Argent 2014 '' — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,object/tank-container,object/gas"></span>
@@ -420,35 +413,31 @@ k) Esprimi le osservazioni e i risultati.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experiment 2  Objective: To study the effect of atmospheric pressure**
+**Experiment 2 — Objective: To study the effect of atmospheric pressure**
 
-The following information is provided by the Commission:
-- A candle or alcohol (gasse-coated to contain the latter)
-- There's a rule.
+**Materials needed**
+- A candle or alcohol (bottle caps to hold the latter)
+- A ruler
 - Thermometer to estimate the temperature in the classroom
-- Deep fountain or deep plate, as transparent as possible
-- A clear glass jar or glass, if possible straight
+- A deep source or a deep dish, transparent if possible
+- A transparent glass jar or a glass, straight if possible
 - Water
-- Phosphorus
+- Matches
 
-Safety: The experiment involves fuel (alcohol, wax) in combustion, be careful. Do not use large amounts of alcohol (not more than half a gauze). Keep the alcohol container away from the place where you will be performing the experiment. Use safety matches, not a lighter.
+**Safety:** the experiment involves combustibles (alcohol, wax) in combustion, be careful. Do not use large quantities of alcohol (no more than half a bottle cap). Keep the alcohol container away from the place where you will perform the experiment. Use safety matches, DO NOT USE A LIGHTER.
 
-The following information shall be provided:
+**Procedure:**
 
 - **A.** Put water in the container (source or dish).
-- **B.** Put alcohol on a rug and let it float on water. Turn the alcohol on. (If you use a candle, place it vertically in the container and light it.)
-- **C.** Cover it with the vial, trying to minimize air losses (bubbles).
-- **D.** Determine when the water inside the vial begins to rise.
-- **E.** When the fire has been extinguished, wait a few minutes and measure the height reached by the water level inside the vial (measured against the water surface of the container).
-(f) Determine the change in volume of gas.
-(g) Considering the atmospheric pressure (consult the teacher about its regional value), determine the final pressure inside the vial.
-(h) Determine the number of gas moles in the vial.
-(i) Estimate the value of the air temperature inside the vial at the start of the experiment with the data obtained.
-(j) Repeat this procedure several times.
-(k) Explain the observations and results.
+- **B.** Put alcohol in a small cap and float it on the water. Light the alcohol. (If using a candle, place it upright in the container and light it.)
+- **C.** Cover it with the jar, trying to minimize air losses (bubbles).
+- **D.** Determine the moment when the water begins to rise inside the jar.
+- **E.** When the fire has gone out, wait a few minutes and measure the height reached by the water level inside the jar (measure relative to the water surface in the container).
+f) Determine the change in volume occupied by the gas.
+g) Considering the atmospheric pressure (consult the teacher for its regional value), determine the final pressure inside the jar.
+h) Determine the number of moles of gas present in the jar.
+i) With the data obtained, estimate the value of the air temperature inside the jar at the beginning of the experiment.
+j) Repeat this procedure several times.
+k) Explain the observations and the results.
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1VSL7g7uzQYF1F6qxaHi4WKjURxgPT-C2/view)
+

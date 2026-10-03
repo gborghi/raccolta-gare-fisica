@@ -77,44 +77,26 @@ Aceleración de la gravedad $g = 9{.}8\ \text{m/s}^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1: giocare con acqua fredda
+Problema 1: GIOCANDO CON ACQUA FREDDA
 
-Si dispone di un recipiente adiabatico, cilindrico di radio $R = 1\ \text{cm}$ (vedere Figura 1). En su
-all'interno si trova una resistenza elettrica e un miscela di acqua con ghiaccio in
-equilibrio termico. Tale contenitore ha una copertura mobile che limita il contenuto
-di un recipiente con l'esterno, in modo che non sia spazio libero tra il liquido e
-la copertura. Con un bastone, la copertura spinge uno specchio piano che ruota liberamente su
-un asse sul bordo del recipiente. D'altra parte, questo dispositivo ha un laser che
-il fascio incide orizzontalmente sullo specchio all'altezza dell'asse e si proietta su una
-schermo verticale disposto a una distanza di $2R$ dal cilindro.
+Si ha un recipiente adiabatico, cilindrico di raggio $R = 1\ \text{cm}$ (vedi Figura 1). Al suo interno si trovano una resistenza elettrica e una miscela di acqua e ghiaccio in equilibrio termico. Tale recipiente è dotato di un coperchio mobile, che delimita il contenuto del recipiente rispetto all'esterno, in modo tale che non rimanga spazio libero tra il liquido e il coperchio. Mediante un'asta, il coperchio spinge uno specchio piano che ruota liberamente attorno a un asse sul bordo del recipiente. D'altra parte, questo dispositivo è dotato di un laser il cui fascio incide orizzontalmente sullo specchio all'altezza dell'asse e si proietta su uno schermo verticale disposto a una distanza di $2R$ dal cilindro.
 
-Figura 1
+FIGURA 1
 
-a) Considerando il circuito elettrico mostrato in figura 1-A, determinare il cambio di
-volume della miscela, se il circuito chiave è chiuso per il periodo di 10 s e poi si
-- Si sta chiudendo di nuovo. Il valore della resistenza è di 15 $\Omega$ e la fonte è di 12 V.
+a) Dato il circuito elettrico mostrato nella Figura 1-A, determinare la variazione di volume della miscela, se l'interruttore del circuito viene chiuso per un intervallo di 10 s e poi viene nuovamente aperto. Il valore della resistenza è di 15 $\Omega$ e la sorgente è di 12 V.
 
-b) Qual è la variazione dell'angolo dello specchio sapendo che si trova inizialmente a
+b) Qual è la variazione dell'angolo dello specchio sapendo che inizialmente si trova a
 $40^\circ$ rispetto alla faccia laterale del recipiente?
 
-c) A che altezza sullo schermo si trova il fascio di luce, a partire dalla posizione orizzontale
-Il fascio di luce laser incidente sul specchio?
+c) A quale altezza sullo schermo incide il fascio di luce, a partire dalla posizione orizzontale del fascio di luce laser incidente sullo specchio?
 
-d) Considerate che invece di una resistenza elettrica si utilizza una pallet che può essere utilizzata per
-girare in solidarietà su un asse su cui si appende, mediante una corda di massa
-un peso di 5 kg, come mostrato in Figura 1-B. Il peso è
-inizialmente riposata nella posizione iniziale e lasciata cadere da quella posizione.
-Quando la pesante ha percorso una distanza di 1 m, la corda si sgancia dall'asse e la
-La velocità di pesatura è di 1 m/s. Qual è l'angolo di variazione dello specchio sapendo
-che si trova inizialmente a $40^\circ$ rispetto alla faccia laterale del recipiente?
-(e) Qual è il limite di energia che può essere consegnata alla miscela per far sì che la
-riflesso ancora incide sullo schermo? (supponiamo uno schermo infinitamente alto)
+d) Considerare ora che al posto della resistenza elettrica si usi una paletta che può ruotare solidale a un asse sul quale è appeso, mediante una corda di massa trascurabile, un peso di 5 kg come mostrato nella Figura 1-B. Il peso è inizialmente in quiete, nella sua posizione iniziale, e lo si lascia cadere da tale posizione.
+Quando il peso ha percorso una distanza di 1 m, la corda si stacca dall'asse e la velocità del peso è di 1 m/s. Quale sarà la variazione dell'angolo dello specchio sapendo che inizialmente si trova a $40^\circ$ rispetto alla faccia laterale del recipiente?
+e) Qual è il valore limite di energia che si può fornire alla miscela affinché il fascio riflesso incida ancora sullo schermo? (si supponga uno schermo infinitamente alto)
 
-f) Supponendo che l'esterno del recipiente sia a una temperatura di $0\ ^\circ\text{C}$,
-spiegare cosa accadrebbe in caso a) se il recipiente non è adiabatico.
+f) Supponendo che l'esterno del recipiente si trovi a una temperatura di $0\ ^\circ\text{C}$, spiegare cosa accadrebbe nel caso a) se il recipiente non fosse adiabatico.
 
-NOTA: la quantità di ghiaccio presente nel miscela è sempre sufficiente per avere una
-La Commissione ha adottato una decisione che prevede che il regime di pesca sia stato applicato in tutti i casi di cui al problema.
+NOTA: La quantità di ghiaccio presente nella miscela è sempre sufficiente per avere una miscela di acqua e ghiaccio in tutti i casi proposti nel problema.
 
 Densità dell'acqua: $\rho_A = 999{.}9\ \text{kg/m}^3$
 
@@ -122,73 +104,43 @@ Densità del ghiaccio: $\rho_H = 916{.}8\ \text{kg/m}^3$
 
 Calore latente di fusione del ghiaccio: $\lambda = 80\ \text{cal/g}$
 
-Accelerazione gravitatoria $g = 9{.}8\ \text{m/s}^2$
-
-1 cal = 4.186 J
-
-**Topic:** [[Thermodynamics]], [[Geometric Optics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Mirror (object)|Mirror]], [[Resistor (object)|Resistor]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1FaB7JemnarKI1U56BMXDci3vxn7SGjS-/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1: Playing with Cold Water
-
-A cylindrical adiabatic radius $R = 1\ \text{cm}$ container is provided (see Figure 1). En su
-Inside is an electrical resistance and a mixture of water and ice in the
-The heat balance. The container has a moving lid, which limits the contents
-the container with the outside, so that no space is left between the liquid and the
-The lid. Using a stick, the lid pushes a flat mirror that rotates freely over
-an axis at the edge of the container. On the other hand, this device has a laser whose
-The beam is projected horizontally over the mirror at the axis height and is projected onto a
-a vertical display set at a distance of $2R$ from the cylinder.
-
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-
-(a) Given the electrical circuit shown in Figure 1-A, determine the change of
-The mixture volume, if the circuit breaker is closed for 10 s and then
-It's disconnecting again. The resistance value is 15 $\Omega$ and the source is 12 V.
-
-(b) What is the variation in the angle of the mirror knowing that it is initially located at
-$40^\circ$ with respect to the side face of the container?
-
-(c) At what height on the screen the beam of light is affected, from the horizontal position
-The incident laser beam of light over the mirror?
-
-(d) Consider now that instead of the electrical resistance a pallet can be used which can be used to
-rotating solidly on an axis on which it hangs, by means of a mass rope
-The weight of the product is not less than 5 kg as shown in Figure 1 - B. The weigh is
-Initially resting, in its initial position, and dropped from that position.
-When the weight has travelled a distance of 1 m, the rope is detached from the axis and the
-Weighing speed is 1m/s. What will be the variation of the angle of the mirror knowing
-initially located at $40^\circ$ with respect to the side face of the container?
-(e) What is the limit value of energy that can be delivered to the mixture so that the mixture is
-Still reflected on the screen? (assuming an infinitely high screen)
-
-(f) Assuming that the outside of the container is at a temperature of $0\ ^\circ\text{C}$,
-explain what would happen in case (a) if the container is not adiabatic.
-
-NOTE: The amount of ice in the mixture is always enough to have a
-mixing of water and ice in all the cases raised in the problem.
-
-The water density: $\rho_A = 999{.}9\ \text{kg/m}^3$
-
-Densidad del hielo: $\rho_H = 916{.}8\ \text{kg/m}^3$
-
-Latent heat of ice melting: $\lambda = 80\ \text{cal/g}$
-
-Aceleración de la gravedad $g = 9{.}8\ \text{m/s}^2$
+Accelerazione di gravità $g = 9{.}8\ \text{m/s}^2$
 
 1 cal = 4,186 J
 
-**Topic:** [[Thermodynamics]], [[Geometric Optics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Mirror (object)|Mirror]], [[Resistor (object)|Resistor]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1FaB7JemnarKI1U56BMXDci3vxn7SGjS-/view)
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 1: PLAYING WITH COLD WATER
+
+There is an adiabatic cylindrical container of radius $R = 1\ \text{cm}$ (see Figure 1). Inside it there is an electrical resistor and a mixture of water and ice in thermal equilibrium. Said container has a movable lid, which separates the contents of the container from the outside, in such a way that there is no free space between the liquid and the lid. By means of a rod, the lid pushes a flat mirror that rotates freely on an axis at the edge of the container. On the other hand, this device has a laser whose beam strikes the mirror horizontally at the height of the axis and is projected onto a vertical screen placed at a distance of $2R$ from the cylinder.
+
+FIGURE 1
+
+a) Given the electrical circuit shown in Figure 1-A, determine the change in volume of the mixture, if the circuit switch is closed for a period of 10 s and then disconnected again. The value of the resistor is 15 $\Omega$ and the source is 12 V.
+
+b) What is the variation of the angle of the mirror, knowing that initially it is at
+$40^\circ$ with respect to the lateral face of the container?
+
+c) At what height on the screen does the light beam strike, measured from the horizontal position of the laser light beam incident on the mirror?
+
+d) Now consider that instead of the electrical resistor, a paddle is used that can rotate rigidly attached to a shaft, from which a 5 kg weight is hung by means of a rope of negligible mass, as shown in Figure 1-B. The weight is initially at rest, in its initial position, and is allowed to fall from said position.
+When the weight has traveled a distance of 1 m, the rope detaches from the shaft and the speed of the weight is 1 m/s. What will be the variation of the angle of the mirror, knowing that initially it is at $40^\circ$ with respect to the lateral face of the container?
+e) What is the limiting value of energy that can be delivered to the mixture so that the reflected beam still strikes the screen? (assume an infinitely tall screen)
+
+f) Assuming that the exterior of the container is at a temperature of $0\ ^\circ\text{C}$, explain what would happen in case a) if the container is not adiabatic.
+
+NOTE: The amount of ice present in the mixture is always sufficient to have a mixture of water and ice in all cases posed in the problem.
+
+Density of water: $\rho_A = 999{.}9\ \text{kg/m}^3$
+
+Density of ice: $\rho_H = 916{.}8\ \text{kg/m}^3$
+
+Latent heat of fusion of ice: $\lambda = 80\ \text{cal/g}$
+
+Acceleration of gravity $g = 9{.}8\ \text{m/s}^2$
+
+1 cal = 4.186 J
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2010 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/capacitor,object/point-charge,object/nucleus"></span>

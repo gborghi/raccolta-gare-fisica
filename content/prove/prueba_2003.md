@@ -753,115 +753,109 @@ f) Confronta i valori $h_0$ ottenuti dal grafico per la sfera di più grande e p
 
 Problem 3: A very slippery liquid
 
-The following is the list of the countries of the European Union:
-Superfluid helium is a very cold, transparent liquid. The reason this liquid is called superfluid is because when it flows it has no viscous friction. This means that if a test particle (a sphere, for example) moves in its bosom, it does so without feeling a force of friction, that is, it moves without exchanging energy or impulse. However, after some experiments, it was observed that the absence of friction between a test particle and the superfluid is valid as long as the test particle speed is less than a critical speed $V_C$ measured relative to a reference point at which the superfluid helium is at rest.
-A very basic, but useful way to imagine superfluid is to think of it as composed of quasiparticles that have zero energy and zero momentum. In the event that a test sphere "shocks" elastically against any of the quasiparticles of the superfluid liquid, this quasiparticle acquires a p-impulse and an energy $\epsilon$.
+Introduction
+Superfluid helium is a very cold transparent liquid. The reason this liquid is called superfluid is that when it flows it has no viscous friction. This means that if a test particle (a sphere, for example) moves through it, it does so without feeling a friction force, that is, it moves without exchanging either energy or momentum. However, after performing some experiments, it was observed that the absence of friction between a test particle and the superfluid is valid as long as the speed of the test particle is less than a critical speed $V_C$ measured with respect to a reference frame in which the superfluid helium is at rest.
+A very elementary but useful way of imagining the superfluid is to think of it as composed of quasiparticles that have zero energy and zero momentum. In the case that a test sphere "collides" elastically against one of the quasiparticles of the superfluid liquid, this quasiparticle acquires a momentum p and an energy $\epsilon$.
 
-It's a problem.
-A mass particle $M = 6{,}6\times10^{-22}\ \text{g}$ moves within superfluid helium at a velocity of V. Suppose the mass test particle M collides elastically with a quasiparticle of superfluid helium. The velocity of M after impact is $V_1$ while the impulse and energy of the superfluid helium quasiparticle are p and $\epsilon$ respectively.
-Whereas there is an elastic shock between the test particle and the quasiparticle and assuming that the momentum of the particles involved in the shock is in the same direction:
+Problem.
+A particle of mass $M = 6{,}6\times10^{-22}\ \text{g}$ moves within superfluid helium at a speed V. Assume that the test particle of mass M collides elastically with a quasiparticle of the superfluid helium. The speed of M after the collision is $V_1$ while the momentum and energy of the quasiparticle of the superfluid helium are p and $\epsilon$ respectively.
+Considering that there is an elastic collision between the test particle and the quasiparticle and assuming that the momenta of the particles involved in the collision are in the same direction:
 
-(a) Find an expression for:
-(i) $\epsilon$ in terms of $V_1^2$, M and V.
-(ii) $V_1^2$ in terms of M, V and p.
-(iii) $\epsilon$ in terms of V, M and p.
+a) Find an expression for:
+i) $\epsilon$ in terms of $V_1^2$, M and V.
+ii) $V_1^2$ in terms of M, V and p.
+iii) $\epsilon$ in terms of V, M and p.
 
-Experimentally, the energy of a quasiparticle is a function of the momentum p. Given the impulse p the energy $\epsilon(p)$ can be determined from the experimental curve shown in graph 1. As an example is the cross indicating that if the momentum is $p = 1{,}1\times10^{-19}\ \text{g cm/s}$ then the energy is $\epsilon = 1{,}9\times10^{-15}\ \text{erg}$.
+Experimentally it is found that the energy of a quasiparticle is a function of the momentum p. Given the momentum p the energy $\epsilon(p)$ can be determined from the experimental curve shown in graph 1. As an example there is the cross indicating that if the momentum is $p = 1{,}1\times10^{-19}\ \text{g cm/s}$ then the energy $\epsilon = 1{,}9\times10^{-15}\ \text{erg}$.
 
-(b) According to the arguments presented in the introduction, show that there is no interaction if V is less than a critical value $V_C$.
+b) According to the arguments presented in the introduction, show that indeed there is no interaction if V is less than a critical value $V_C$ .
 
-(c) Find, graphically, two possible sets of values of p and $\epsilon$ for $V > V_C$.
+c) Find, graphically, two sets of possible values of p and $\epsilon$ for $V > V_C$.
 
-(d) Find the value or values of V for those two solutions in point (c).
-Energy based on momentum
-for the particles which compose
-Superfluid helium
+d) Find the value or values of V corresponding to those two solutions from point c).
+Energy as a function of momentum for the particles that make up superfluid helium
 0
 1e-21
 2e-21
 3e-21
-The following shall be added to the list of the following:
+Momentum p [g cm/s]
 0
 5e-16
 1e-15
 1.5e-15
 2e-15
 2.5e-15
-Energía $\epsilon$ [erg]
+Energy $\epsilon$ [erg]
 0
 5e-16
 1e-15
 1.5e-15
 2e-15
 2.5e-15
-Energía $\epsilon$ [erg]
+Energy $\epsilon$ [erg]
 
-The following table shows the following:
+Graph 1
 
-Note: The problem we have raised to you is an adequacy of the model posed by L. Landau on May 21, 1941 to the Journal of Physics to explain some of the phenomena observed in superfluids.
-The Argentine Olympic Games
-The Commission has also adopted a proposal for a regulation on the
+Note: The problem we have posed to you is an adaptation of the model proposed by L. Landau on May 21, 1941 to the Journal of Physics to explain some of the phenomena observed in superfluids.
+ARGENTINE OLYMPIAD
+OF PHYSICS 2003
 
-National court
+National Instance
 
-The test is carried out in a test.
-20 October 2003
+EXPERIMENTAL EXAM
+October 20, 2003
 
-- Write your name on all the sheets and list them.
-- Remember that you cannot use programmable calculators or any other material not included in the test, other than writing tools.
-- Before you start solving every problem, read carefully the entire statement.
+- Write your name on all sheets and number them.
+- Remember that you may not use programmable calculators or any other material not included in the exam, apart from writing utensils.
+- Before starting to solve each problem, carefully read the ENTIRE statement of the problem.
 
-Name of the company:
+Name:
 
-Total number of sheets delivered (including cover and statements):
-Argentine Olympic Games in Physics
+Total number of sheets submitted (including the cover page and the statements):
+Argentine Olympiad of Physics
 2003
-The test shall be carried out in accordance with the following conditions:
+Experimental exam
 
-The slope of the line
+Inclined plane
 
 1. Objective
 
-The objective of this experimental test is to determine the acceleration of the gravity "g" of the place.
+The objective of this experimental exam is the determination of the acceleration of gravity "g" of the location.
 
 2. Theory
 
-The acceleration $a_{CM}$ of the centre of mass of a sphere spinning without sliding on an inclined plane, having started at zero speed, is:
+The acceleration $a_{CM}$ of the center of mass of a sphere that rolls without slipping down an inclined plane, having started with zero velocity, is:
 
 $$a_{CM} = \frac{2x_0}{t^2} \quad , \qquad [1]$$
 
-where $x_0$ is the distance travelled by the centre of mass of the sphere, and t is the interval of time taken to travel that distance.
-One way to have an inclined plane is to take a "U" profile and tilt it an angle $\alpha$ to the horizontal, as shown in Figure 1(a).
+where $x_0$ is the distance traveled by the center of mass of the sphere, and t the time interval it takes to travel that distance.
+One way to have an inclined plane is to take a "U" profile and incline it at an angle $\alpha$ with respect to the horizontal, as shown in figure 1(a).
 
 Figure 1: Side view (a) and front view (b) of the experimental device.
 
-From figure 1 ((b) the $r^2 = R^2 - d^2$ ratio can be obtained where r is the distance between the centre of the sphere and the S axis, defined by the straight line passing through the points of the "U" profile on which the sphere rests, R is the radius of the sphere and d half the interior width of the profile.
-Taking into account the above relationship and knowing that a sphere that spins without sliding has kinetic energy of translation and rotation, it is found that the acceleration of its center of mass is given by:
+From figure 1(b) the relation $r^2 = R^2 - d^2$ can be obtained, where r is the distance between the center of the sphere and the axis S, defined by the line that passes through the points of the "U" profile where the sphere rests, R is the radius of the sphere and d is half the internal width of the profile.
+Taking into account the previous relation and knowing that a sphere that rolls without slipping has translational and rotational kinetic energy, it is found that the acceleration of its center of mass is given by:
 
 $\alpha$
-O
-x
-L
-h
+O x
+L h
 
-Sphere
-R
-r
+sphere
+R r
 2d
 S
-Profile in U
-(a)
+U profile (a)
 (b)
-Turning for adjusting the height of the inclined plane
+Screw to adjust the height of the inclined plane
 
 $$a_{CM} = \frac{g\,\operatorname{sen}\alpha}{\left[1 + \dfrac{2}{5}\dfrac{R^2}{(R^2 - d^2)}\right]} \quad , \qquad [2]$$
 
-where it is seen that for a value of d and a given slope $\alpha$ of the slope plane, the acceleration of the centre of mass ($a_{CM}$) will change if spheres of different radii (R) are used.
-From [2] and using $\operatorname{sen}\alpha = h/L$, it is
+where it can be seen that for a value of d and a given inclination $\alpha$ of the inclined plane, the acceleration of the center of mass ($a_{CM}$) will change if spheres of different radii (R) are used.
+From [2] and using that $\operatorname{sen}\alpha = h/L$ , it follows that
 
 $$a_{CM}\left[1 + \frac{2}{5}\frac{R^2}{(R^2 - d^2)}\right] L = g\,h \quad ,$$
 
-or equivalent
+or equivalently
 
 $$w = gh \quad , \qquad [3]$$
 
@@ -871,42 +865,38 @@ $$w = a_{CM}\left[1 + \frac{2}{5}\frac{R^2}{(R^2 - d^2)}\right] L \quad .$$
 
 2. List of materials
 
-- A profile with screw to regulate the level gap.
-- Three known radio steel spheres.
-- It's a tape recorder.
-- A timepiece. (See sheet explaining how it works).
-- Pieces of sticky paper.
+- A profile with a screw to adjust the height difference.
+- Three steel spheres of known radii.
+- A measuring tape.
+- A stopwatch. (See the sheet where its operation is explained).
+- Pieces of adhesive paper.
 - A piece of cloth.
-- A plate of iron with a conical notch.
-- It's a sheet of white, millimeter paper.
+- An iron plate with a conical notch.
+- Sheets of white and graph paper.
 - A disposable latex glove.
 
-Read ALL the instructions before you start
+Read ALL the instructions BEFORE starting
 
-3. The experimental procedure
+3. Experimental procedure
 
-The following information is provided by the Commission:
-2- Place the profile on the table so that the tip of the screw sits on the conical notch of the metal plate.
-3- Once the profile is placed in U on the table, DO NOT move it (DESPLACE) during the entire experiment.
-4- Take the lower-radio sphere, place it near the upper end of the profile in U and adjust the minimum height of the screw so that the sphere rolls if you release it.
-5- Take one of the pieces of adhesive paper and stick it to the profile at the place from which it will release all the spheres.
+1- Measure L [see figure 1(a)].
+2- Place the profile on the table so that the tip of the screw rests on the conical notch of the metal plate.
+3- Once the U-shaped profile is placed on the table, DO NOT MOVE (SHIFT) IT during the ENTIRE experiment.
+4- Take the sphere with the smallest radius, place it near the highest end of the U-shaped profile, and adjust the minimum height of the screw so that the sphere rolls if you release it.
+5- Take one of the pieces of adhesive paper and stick it on the profile at the place from which you will release all the spheres.
 6- Determine $x_0$.
-7- Hold the ball in the spot you have already marked with the adhesive paper with one finger; hold the chronometer with the other hand. The moment the sphere "loops" to start rolling, fire the chronometer and stop it when the sphere hits the sheet at the end of the profile. Use the latex glove to manipulate the sphere so that it is free of fat on the surface.
-8- Using the conveyor and the needle attached to the screw, the $\Delta h$ variations can be measured. Thus $h = h_0 + \Delta h$ is obtained [see figure 1(a) ], where $h_0$ is the minimum height value given by the screw obtained in point 4 (this experiment is designed so that neither h nor $h_0$ values need to be measured and only $\Delta h$ is needed).
-Repeat this operation with all spheres and values $\Delta h$ that you deem necessary.
+7- Hold with one finger the sphere placed at the point you already marked with the adhesive paper; in the other hand hold the stopwatch. At the moment you "release" the sphere so that it begins to roll, start the stopwatch and stop it when the sphere hits the plate located at the end of the profile. Use the latex glove to handle the sphere so as to keep its surface free of grease.
+8- Using the protractor and the needle attached to the screw, you can measure the variations $\Delta h$. In this way the result is $h = h_0 + \Delta h$ [see figure 1(a)], where $h_0$ corresponds to the value of minimum height given by the screw obtained in point 4 (this experiment is designed in such a way that it is not necessary to measure the values of h or $h_0$, being only necessary to measure $\Delta h$).
+9- Repeat this operation with all the spheres and values $\Delta h$ that you consider necessary.
 
 4. Requirements:
 
-- **A** Measure L with its error.
-- **B.** Build tables with all data from $x_0$, t and $\Delta h$ measurements.
-- **C.** Calculate $a_{CM}$ using the equation [1] for different and distinct spheres $\Delta h$.
-- **D.** Construct a graph of w based on $\Delta h$ for each of the spheres with the measured points.
+- **A.** Measure L with its error.
+- **B.** Construct tables with all the data of $x_0$, t and $\Delta h$ measured.
+- **C.** Calculate $a_{CM}$ using equation [1] for the different spheres and different $\Delta h$.
+- **D.** Construct a graph of w as a function of $\Delta h$ for each of the spheres with the measured points.
 - **E.** Determine for each case the values of g and $h_0$.
-f) Compare the values of $h_0$ obtained from the graph for the larger and smaller diameter sphere. In no more than five lines, qualitatively explain the difference observed in the comparison.
-(g) Describe in detail the criteria used to determine the errors of all quantities measured and determined.
+f) Compare the values of $h_0$ obtained from the graph for the sphere of largest and smallest diameter. In no more than five lines, explain qualitatively the difference observed in the comparison made.
+g) Describe in detail the criteria used in determining the errors of all the measured and determined quantities.
 
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Sphere (object)|Sphere]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1o8nIly0wGksr57bwMx4P4x8-93DNQcRb/view)
+

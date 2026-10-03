@@ -86,37 +86,24 @@ Accelerazione della gravità = g = 10 m/s2
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. Federal capital. Blue and green. 
- 
- 
-You drop a body of 2 kg. From point A that plastically collides with another body.
-1 kg of weight The following table shows the results of the study: He ascends to find in the BC section a
-a circle arc of 10 m. - I'm not on the radio. Then it continues its march, where from point D, the floor possesses
-a static friction coefficient of 0.8 and a kinetic coefficient of 0.6, which after 1m 
-has a spring with a fixed end on the wall (K= 50 N/m). Calculation of: 
-(a) The speed of the first body before the impact.
-(b) Speed after impact 
-(c) After the impact, does the body of both bodies rise or not from the floor? 
-d) What is the maximum spring compression ? 
-(e) If the spring is compressed, it remains at rest 
- 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
- 
-The water refractive index = nagua = 1,33 
-The acceleration of gravity = g = 10 m/s2
+1. CAPITAL FEDERAL. BLUE AND GREEN.
 
+
+A body of mass 2 kg is dropped from point A and collides plastically with another body of mass 1 kg that is at rest (see diagram). It ascends, encountering on section BC a circular arc of radius 10 m. Then it continues its motion, where from point D onward the floor has a coefficient of static friction of 0.8 and a coefficient of kinetic friction of 0.6, and after 1 m there is a spring with one end fixed to the wall (K = 50 N/m). Calculate:
+a) The velocity of the first body before the collision
+b) The velocity after the collision
+c) After the collision has occurred, does the combination of both bodies rise from the floor or not?
+d) What is the maximum compression of the spring?
+e) If, once the spring is compressed, it remains at rest
+
+
+Notes:
+
+refractive index of water = nwater = 1.33 acceleration due to gravity = g = 10 m/s2
 
 <!--fig:start-->
 ![[cuadernillo_1996_p02_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1996 Locale — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/pulley,object/rope-string"></span>
@@ -4556,58 +4543,28 @@ doble de la determinada en el punto ( c ) del presente cuestionario.
 
 <div class="qlang-split" data-lang="it"></div>
 
-58. - RANCUL, la mamma. 
- 
- 
-Un corpo viene lanciato verticalmente a una velocità di 4 m/sec. Scommettere gli effetti.
-di rottura con l' atmosfera: 
-a) realizzare un grafico qualitativo (a mano alzata) che mostra come varia la velocità in
-La funzione del tempo, identificando in esso l'istante in cui il corpo raggiunge il massimo
-altezza. 
-b) realizzare un grafico qualitativo (a mano alzata) che mostri come varia la coordinata 
-Verticale del corpo in funzione del tempo, identificando in esso l'istante in cui il corpo 
-raggiunge la massima altezza. 
-c) Determinare il tempo necessario per raggiungere la massima altezza.
-e il tempo che il corpo è in aria. 
-d) Determinare i tempi successivi ai quali il corpo passa attraverso punti che si trovano a un punto di riferimento.
-Altizza pari alla metà della massima raggiunta, velocità e senso in cui si
-La Commissione ha adottato una decisione che non prevede che il regime di pagamento dei fondi sia stato applicato. 
-e) Determinare a che velocità dovremmo lanciare se vogliamo che raggiunga un'altezza pari a
-doppio di quello indicato al punto (c) del presente questionario.
+58. REALICÓ - RANCUL, LA PAMPA.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+
+Un corpo viene lanciato verticalmente con una velocità di 4 m / s. Trascurando gli effetti dell'attrito con l'atmosfera:
+a) Realizzare un grafico qualitativo (a mano libera) che mostri come varia la velocità in funzione del tempo, identificando in esso l'istante in cui il corpo raggiunge l'altezza massima.
+b) Realizzare un grafico qualitativo (a mano libera) che mostri come varia la coordinata verticale del corpo in funzione del tempo, identificando in esso l'istante in cui il corpo raggiunge l'altezza massima.
+c) Determinare il tempo che il corpo impiegherà a raggiungere l'altezza massima, il valore di quest'ultima e il tempo che il corpo rimane in aria.
+d) Determinare i tempi dopo i quali il corpo passa per punti che si trovano a un'altezza pari alla metà di quella massima raggiunta, nonché la velocità e il verso in cui si muove in ciascuno degli istanti determinati.
+e) Determinare con quale velocità dovremmo lanciarlo se desideriamo che raggiunga un'altezza pari al doppio di quella determinata nel punto (c) del presente questionario.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-58. - Rancul, the father. 
- 
- 
-A body is launched vertically at a speed of 4 m/s. Disregarding the effects 
-the friction with the atmosphere: 
-(a) Perform a qualitative (hand-held) graph showing how the speed varies in
-The time function, identifying the moment in which the body reaches maximum
-Height. 
-(b) Draw a qualitative (upright) chart showing how the coordinate varies 
-The vertical of the body according to time, identifying in it the instant the body
-reaches the maximum height. 
-(c) Determine the time it will take the body to reach maximum height.
-And the time the body is in the air. 
-(d) Determine the time after which the body passes through points that meet a
-Height equal to half the maximum reached as well as the speed and direction in which it is
-The Commission shall adopt the following measures: 
-(e) Determine how fast we should launch it if we want it to reach a height equal to 
-double the amount determined in point (c) of this questionnaire.
+58. REALICÓ - RANCUL, LA PAMPA.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
+A body is thrown vertically with a speed of 4 m / sec. Neglecting the effects of friction with the atmosphere:
+a) Make a qualitative graph (freehand) showing how the speed varies as a function of time, identifying on it the instant at which the body reaches maximum height.
+b) Make a qualitative graph (freehand) showing how the vertical coordinate of the body varies as a function of time, identifying on it the instant at which the body reaches maximum height.
+c) Determine the time it will take the body to reach maximum height, the value of that height, and the time the body is in the air.
+d) Determine the times after which the body passes through points that are at a height equal to half of the maximum reached, as well as the speed and the direction in which it moves at each of the determined instants.
+e) Determine with what speed we should throw it if we want it to reach a height equal to twice the one determined in point (c) of this questionnaire.
 
 
 <span class="atom-split" id="q59" data-atom="q59" data-title="Argent 1996 Locale — Quesito 59" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -4761,29 +4718,13 @@ per quanto riguarda il sistema di riferimento fisso a terra, quando colpisce il 
 
 <div class="qlang-split" data-lang="en"></div>
 
-60. General Villages, good weather. 
- 
- 
-From the inside of an elevator that rises at a constant speed of 3 m/s. It 's dropped .
-a body from a point 2 m from the floor of the lift, as soon as the floor is mentioned 
-It was 10 meters from the base of the building. 
-(a) Indicate which analytical expressions will allow the discovery of the position of the body in a function.
-the time, with respect to a fixed ground reference system originating at the base of the building and 
-The first step is to describe the position of the elevator floor relative to the same system.
-reference. 
-(b) In the same figure, make qualitative graphs, depending on the time, for the position of the
-the body and floor of the lift, with respect to the fixed ground reference system referred to in point (b) of Article 2 (1) of Regulation (EC) No 1069/2009
-The first question is to identify the moment the body impacts the floor of the building.
-The elevator. 
-(c) Determine the interval of time during which the body is in the air and its position, 
-for the ground-based reference system, the moment it impacts the floor of the lift.
+60. GENERAL VILLEGAS, BUENOS AIRES.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
+From the interior of an elevator that ascends at a constant speed of 3 m/s, a body is dropped from a point located 2 m from the elevator floor, at the instant when the aforementioned floor was 10 m from the base of the building.
+a) Indicate which are the analytical expressions that will allow determining the position of the body as a function of time, with respect to a reference system fixed to the ground with origin at the base of the building, and then the one that allows describing the position of the elevator floor with respect to the same reference system.
+b) In a single figure, make qualitative graphs, as a function of time, for the position of the body and of the elevator floor, with respect to the ground-fixed reference system mentioned in the previous question, identifying on it the instant when the body impacts the elevator floor.
+c) Determine the time interval during which the body is in the air and its position, with respect to the ground-fixed reference system, at the instant when it impacts the elevator floor.
 
 
 <span class="atom-split" id="q61" data-atom="q61" data-title="Argent 1996 Locale — Quesito 61" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/block,object/wedge"></span>
@@ -4935,34 +4876,20 @@ Gli archeologi dovranno barcare verso la costa per non cadere nell'abisso?
 
 <div class="qlang-split" data-lang="en"></div>
 
-62. General Alvear, the man. Green. 
- 
- 
-Two archaeologists must leave an island where they have discovered pieces .
-The main reasons for this are the fact that the water is not so much a source of water as it is a source of water.
-ClNa molecules account for 10% of the weight of a sample of 1000 cm3. They have 
-a wooden box of 250 cm. long, 0.80m wide and 40cm high, and they want to carry a piece 
-Archaeological site of 0,1 m3 volume and 300 kg weight, 300 kg weights, 200 kg elements 
-The Commission has not yet decided whether to proceed with the procedure. 
- 
-Please note that the minimum safety of the ship disappears if it sinks more than one
-80% of its height. 
-(a) Verify that they have sailed. 
-(b) In a given area of the lake they penetrate a strong freshwater stream (density = 1 g/cm3) 
-You can do that to continue the journey without losing weight. You justify it. 
-(c) On the fast river journey, they arrive at an indicator buoy that says a 1000 m waterfall and points to the 
-coast closest to 500 m. If the river is pressing 60 km/h, to the boat, at what speed?
+62. GENERAL ALVEAR, MENDOZA. GREEN.
 
- 
-- 20 -
-Archaeologists must row to shore to avoid falling into the abyss?
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+Two archaeologists must fortuitously abandon an island where they have discovered very important archaeological pieces; to do so they must navigate a lake of salt water (such that 2 mol of NaCl molecules make up 10% by weight of the weight of a 1000 cm3 sample). They have a wooden box 250 cm long, 0.80 m wide and 40 cm high, and they wish to carry an archaeological piece of 0.1 m3 volume and 300 kg weight, 300 kg of weights, 200 kg of indispensable elements, 70 kg of boat and their own weights of 150 kg.
 
+Take into account that the minimum safety of the vessel disappears if it sinks more than
+80% of its height.
+a) Verify whether it is true that they navigated.
+b) At a determined place in the lake they enter a strong current of fresh water (density = 1 g/cm3)
+that can [help them] to continue the trip without losing cargo. Justify.
+c) On the fast trip along the river, they reach an indicator buoy that says "1000 m to waterfall" and points to the nearest coast at 500 m. If the river imparts a speed of 60 km/h to the boat, at what speed
+
+
+- 20 - must the archaeologists row toward the coast in order not to fall into the abyss?
 
 
 <span class="atom-split" id="q63" data-atom="q63" data-title="Argent 1996 Locale — Quesito 63" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
@@ -5041,38 +4968,24 @@ resistencia del aire) .
 
 <div class="qlang-split" data-lang="it"></div>
 
-64. Mentire. Blu. 
- 
- 
-Un cannone anti-aereo lancia una granata verticalmente a una velocità di 500 m/s . Calcolo: 
-a) L'altezza massima raggiunta. 
-b) Il tempo necessario per raggiungere tale altezza. 
-c) In che istante la granata passerà da un punto situato ad un' altezza di 10 km . (La Commissione disprezza la
-resistenza all'aria).
+64. MENDOZA. AZUL.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+
+Un cannone antiaereo lancia una granata verticalmente con una velocità di 500 m/s . Calcolare :
+a) L'altezza massima raggiunta.
+b) Il tempo che impiegherà a raggiungere tale altezza.
+c) In quale istante la granata passerà per un punto situato a 10 km di altezza . (Si trascura la resistenza dell'aria) .
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-64. - It's a lie. Blue. 
- 
- 
-An anti-aircraft gun fires a grenade vertically at a speed of 500 m/s . Calculation of: 
-(a) The maximum height reached. 
-(b) The time it will take to reach that height. 
-(c) At what moment the grenade will pass through a point 10 km high . (The Commission is contemptuous of the
-air resistance)
+64. MENDOZA. AZUL.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
+An anti-aircraft cannon launches a shell vertically with a speed of 500 m/s. Calculate:
+a) The maximum height reached.
+b) The time it will take to reach said height.
+c) At what instant the shell will pass through a point located at 10 km of height. (Air resistance is neglected).
 
 
 <span class="atom-split" id="q65" data-atom="q65" data-title="Argent 1996 Locale — Quesito 65" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile"></span>
@@ -6938,26 +6851,15 @@ dAc= 0,82 g/ml
 
 <div class="qlang-split" data-lang="en"></div>
 
-89. Five jumps, black river. 
- 
- 
-A cylindrical container of 40 cm. of a diameter of 10 cm floating in oil. of the surface 
-Free when inside it lies a 10 kg gold block. weight. If the block hangs now
-From the bottom of the container with a thread (of despicable weight), what will be the height that will emerge ? 
- 
-The Commission shall adopt a decision on the basis of the information provided for in this Regulation.
- 
- 
-dAc = 0,82 g/ml
+89. FIVE JUMPS, RÍO NEGRO.
 
 
+A cylindrical container 40 cm in diameter floats in oil, emerging 10 cm above the free surface when a gold block weighing 10 kg rests inside it. If the block is now hung from the bottom of the container with a thread (of negligible weight), what will be the height that will emerge?
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+dAu= 19300 kg/m3
 
+
+dAc= 0.82 g/ml
 
 
 <span class="atom-split" id="q90" data-atom="q90" data-title="Argent 1996 Locale — Quesito 90" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/cylinder,object/block,object/tank-container"></span>
@@ -7477,39 +7379,26 @@ il risultato precedente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-95. San Fernando from the Catarina Valley, Catarina. Blue. 
- 
- 
-The nuclear power plant Embalse (Pcia. The new system will be capable of delivering a power of
-590MW. Consider also that the generators at the Embalse power plant produce electricity 
-with an output voltage of 180000V. Suppose (we warn you that it is an assumption) that all energy 
-The Commission has already decided to extend the period of validity of the agreement. 
- 
-(i) Consider that the diameter of the copper conductors through which the energy is transmitted 
-Electricity from the Embalse to Salta station, it's 10cm. Calculate the power lost in the
-The same thing with Joule effect. 
- 
-(ii) Perform the same test taking into account a transmission voltage of 600000 V and compare with 
-The previous result. 
- 
-(iii) The transmission line is a low-strength but not zero conductor which causes a
-Power drop at the end of the line. Calculate the potential drop caused by the line, in both cases. 
- 
- 
- 
- 
- 
- 
+95. SAN FERNANDO DEL VALLE DE CATAMARCA, CATAMARCA. BLUE.
 
- 
+
+The Embalse Nuclear Power Plant (Province of Córdoba) delivers a power of
+590MW to the interconnected system. Also consider that the generators of the Embalse plant produce electrical energy with an output voltage of 180000V. Assume (we warn you that it is an assumption) that all the energy from said plant is consumed by the City of Salta, 1000 km away from it.
+
+i) Consider that the diameter of the copper conductors through which the electrical energy is transmitted from the Embalse Plant to Salta is 10cm. Calculate the power lost in them due to the Joule effect.
+
+ii) Perform the same calculation considering a transmission voltage of 600000V and compare with the previous result.
+
+iii) The transmission line is a low-resistance conductor, but not zero, so it causes a power drop at the end of the line. Calculate the potential drop caused by the line, in both cases.
+
+
+
+
+
+
+
+
 - 28 -
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
 
 
 <span class="atom-split" id="q96" data-atom="q96" data-title="Argent 1996 Locale — Quesito 96" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/resistor,object/battery"></span>
@@ -12355,35 +12244,22 @@ Cc.acqua = 1 cal/g oC
 
 <div class="qlang-split" data-lang="en"></div>
 
-148. Federal capital. Blue and green. 
- 
-S1 = S2 = 1 cm2 
- 
- 
-A container like the one shown in the figure contains air and water. A battery is connected.
-12 v and 2 ohm internal resistance to a 10 ohm resistance located inside the container and 
-submerged in water. Calculation: 
-(a) Current intensity circulating through the resistance and dissipated power. 
-(b) The temperature at which air starts to escape from the container 
-(c) The heat required to reach point B temperature (initial temperature = 20oC) and the time 
+148. CAPITAL FEDERAL. BLUE AND GREEN.
 
- 
-- 45 -
-The Commission has also taken the view that the Commission is not prepared to accept the amendments tabled by the Commission. 
-(d) Continue to heat up to 90°C and then disconnect the battery and wait for it to reach 
-the ambient temperature is 20 °C. Calculate the volume of air that gets trapped. 
-Cc.water = 1 cal/g oC 
-1 cal = 4.18 joule
+S1 = S2 = 1 cm2
+
+
+A container like the one shown in the figure contains air and water. A 12 V battery with 2 ohm internal resistance is connected to a 10 ohm resistor located inside the container and submerged in the water. Calculate:
+a) The current intensity flowing through the resistor and the power dissipated.
+b) The temperature at which the air begins to escape from the container
+c) The heat necessary to reach the temperature of point B (initial temperature = 20ºC) and the time
+
+
+- 45 - neglecting heat losses and the heat capacity of the air.
+d) It continues heating up to 90ºC and then the battery is disconnected and it is waited until it reaches room temperature (20ºC). Calculate the volume of the air that remains trapped.
+Cc.water = 1cal/g ºC
+  1 cal = 4.18 joule
 1 atm = 1013 hp
-
-
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
 
 
 <span class="atom-split" id="q149" data-atom="q149" data-title="Argent 1996 Locale — Quesito 149" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/multi,object/resistor,object/battery"></span>
@@ -13068,65 +12944,57 @@ focale della lente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence of the convergence.
+**Converging lens**
 
-153. I'm going to get you. Blue. 
- 
- 
-Converging Lens 
- 
- 
-Objectives 
- 
- 
-Determine, with the least possible error, the focal length of a converging lens. 
- 
- 
-The Commission has decided to extend the period of validity of the proposal.
- 
- 
-- Optical bank
- 
- 
-- Metric tape .
- 
- 
-- Light object .
- 
- 
-- Convergent thin lens .
- 
- 
-- A flat mirror .
- 
- 
-- Screen .
- 
- 
-Requirements 
- 
- 
-1) With all the materials given, design and perform an experiment to determine the distance.
-focal length of the lens. 
- 
- 
-2) Briefly explain the theoretical basis of your experience. 
- 
- 
-3) Describe the experimental method used and how you performed the measurements and calculations. 
- 
- 
-4) Draw a table with the experimental values obtained. 
- 
- 
-5) Conclusions and Schemes.
+153. CURRENTS, CURRENTS. BLUE.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
+CONVERGING LENS
+
+
+OBJECTIVES
+
+
+To determine, with the smallest possible error, the focal length of a converging lens.
+
+
+MATERIALS
+
+
+- Optical bench
+
+
+- Measuring tape
+
+
+- Luminous object
+
+
+- Thin converging lens
+
+
+- Plane mirror
+
+
+- Screen
+
+
+REQUIREMENTS
+
+
+1) With all the given materials, design and carry out an experiment to determine the focal length of the lens.
+
+
+2) Briefly explain the theoretical basis of your experiment.
+
+
+3) Describe the experimental method used and how you carried out the measurements and calculations.
+
+
+4) Make a table with the experimental values obtained.
+
+
+5) Conclusions and Diagrams.
 
 
 <span class="atom-split" id="q154" data-atom="q154" data-title="Argent 1996 Locale — Quesito 154" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/oscillations-and-waves,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
@@ -13681,44 +13549,37 @@ Risultato ottenuto
 
 <div class="qlang-split" data-lang="en"></div>
 
-157. The lake is breaking, the air is good. Blue. 
- 
-The Commission has decided to take the necessary measures to ensure that the measures are implemented.
- 
-Determine the specific weight of the marble.
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A piece of marble in an irregular shape.
- 
- 
- 
- 
-A scale. 
- 
- 
- 
- 
-A bowl of water.
- 
- 
- 
- 
-Water .
- 
-If you are:
-A report on the work carried out.
- 
- 
- 
- 
+157. TRENQUE LAUQUEN, BUENOS AIRES. BLUE.
+
+OBJECTIVE:
+
+Determine the specific weight of marble.-
+
+ELEMENTS:
+A piece of marble of irregular shape.-
+
+
+
+
+A balance.
+
+
+
+
+A beaker.-
+
+
+
+
+Water.-
+
+REQUIRED:
+A report of the work carried out.-
+
+
+
+
 The result obtained
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
-
 
 
 <span class="atom-split" id="q158" data-atom="q158" data-title="Argent 1996 Locale — Quesito 158" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
@@ -15080,60 +14941,47 @@ i valori che hai misurato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-165. The word, good air. Blue. 
- 
-The first is the optical. Reflection of light. 
-MATERIALS: TELGOPOR board, flat mirrors, wooden bases, elastic bands and pins with 
-The colored heads. 
-(The students were given a sheet with each problem to solve so that they could draw on it. ) 
- 
- 
-1) For mirror E and points A and B given in the diagram: 
- 
- 
-(a) Measure the angle value we must give to the mirror so that a light beam that 
-The impact on it in the AO direction is reflected passing through B. 
- 
- 
-(b) It justifies. 
- 
- 
-(c) Draw the rays. 
- 
- 
-2) A beam of light propagating in the AB direction is desired to pass through the CD points. 
- 
- 
-(a) Where would you place two mirrors E1 and E2 for this purpose? 
- 
- 
-(b) Is this the only option for E1 and E2? 
- 
- 
-(c) Where would you place a single mirror E so that the same beam passes through the points C and F? 
- 
- 
-(d) It justifies. 
- 
- 
-3) Place two mirrors E1 and E2 forming an angle as shown in the diagram. 
- 
- 
-(a) Count the number of images obtained for different angles a and make a table 
-The Commission has already adopted a number of proposals. (Suggested angles: 180°, 120°, 90°, 60° and 45°). 
- 
- 
-(b) Find a mathematical function that relates both magnitudes and apply it as an example of 
-the values you've measured.
+165. EL PALOMAR, BUENOS AIRES. AZUL.
+
+TOPIC: Optics. Reflection of light.
+MATERIALS: Styrofoam board, plane mirrors, wooden bases, rubber bands and pins with colored heads.
+( The students received a sheet with each problem to solve so that they could draw on it. )
 
 
+1) For the mirror E and the points A and B given in the diagram:
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
+a) Measure the value of angle a that we must give to the mirror so that a light ray that strikes it in the direction AO is reflected passing through B.
+
+
+b) Justify.
+
+
+c) Draw the rays.
+
+
+2) It is desired that a light ray propagating in the direction AB pass through points CD.
+
+
+a) Where would you place two mirrors E1 and E2 intended for this purpose?
+
+
+b) Is this the only possibility for E1 and E2?
+
+
+c) Where would you place a single mirror E so that the same ray passes through points C and F?
+
+
+d) Justify.
+
+
+3) Place two mirrors E1 and E2 forming an angle as indicated in the diagram.
+
+
+a) Count the number of images obtained for different angles a and make a table of values. (Suggested angles: 180°, 120°, 90°, 60° and 45° ).
+
+
+b) Find a mathematical function that relates both quantities and apply it as an example of the values you have measured.
 
 
 <span class="atom-split" id="q166" data-atom="q166" data-title="Argent 1996 Locale — Quesito 166" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
@@ -15313,89 +15161,81 @@ l'esperienza deve fornire un rapporto che contiene:
 
 <div class="qlang-split" data-lang="en"></div>
 
-166. General Alvear, the man. Green. 
- 
-The Commission has decided to take the necessary measures to ensure that the measures are implemented.
- 
- 
- 
-Determine the specific heat of a solid with a mixture calorimeter. 
- 
-The following is a list of the official languages of the European Union:
- 
- 
- 
-- Calorometer with its corresponding thermometer and agitator,
- 
- 
- 
-- Weigh,
- 
- 
- 
-- A glass of precipitate,
- 
- 
- 
+166. GENERAL ALVEAR, MENDOZA. GREEN.
+
+OBJECTIVE:
+
+
+
+Determine the specific heat of a solid with a mixing calorimeter.
+
+MATERIALS:
+
+
+
+- Calorimeter with its corresponding thermometer and stirrer,
+
+
+
+- Balance,
+
+
+
+- Beaker,
+
+
+
 - Sample of the substance whose specific heat we will determine,
- 
- 
- 
-- Mechero, what are you doing?
- 
- 
- 
-- Tripod, the
 
- 
+
+
+- Burner,
+
+
+
+- Tripod,
+
+
 - 52 -
- 
- 
- 
-- Asbestos leather,
- 
- 
- 
-- I'm going to get it. 
- 
-The following requirements: 
- 
- 
- 
- 
-Only the items offered, paper, pencil, calculator, may be used. At the end of the day .
-The expert shall submit a report stating: 
- 
- 
- 
-- Analytical problem setting,
- 
- 
- 
+
+
+
+- Asbestos gauze,
+
+
+
+- Thread.
+
+REQUIREMENTS:
+
+
+
+
+Only the elements offered, paper, pencil, calculator may be used. At the end of the experiment you must submit a report containing:
+
+
+
+- Analytical formulation of the problem,
+
+
+
 - Experimental method used,
- 
- 
- 
-- Values obtained from measurements made, 
- 
- 
- 
-- Error sources and analysis of how they influence the final result,
- 
- 
- 
+
+
+
+- Values obtained in the measurements made,
+
+
+
+- Sources of error and analysis of how they influence the final result,
+
+
+
 - Experimental result of what was done,
- 
- 
- 
-- Any comments you want to make
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
 
+
+- Comments you wish to make
 
 
 <span class="atom-split" id="q167" data-atom="q167" data-title="Argent 1996 Locale — Quesito 167" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/lens,object/mirror,object/screen"></span>
@@ -15544,25 +15384,17 @@ Descrive chiaramente la procedura scelta. Riprova in modo teorico e pratico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-168. Red, good air. Green. 
- 
-The Commission has decided to take the necessary measures to ensure that the measures are implemented.
- 
-Determine the density of a solid and liquid. 
- 
-Substances and materials: 
-The test is performed on the test tube.
-Silk and alcohol. 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-It clearly describes the procedure chosen. It justifies it both theoretically and practically.
+168. ROJAS, BUENOS AIRES. GREEN.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+OBJECTIVE:
 
+Determine the density of a solid body and of a liquid.
+
+SUBSTANCES AND MATERIALS:
+water-graduated cylinder-base-support-solid body-dynamometer-double nut-rods-silk thread-alcohol.
+
+PROCEDURE:
+Describe clearly the chosen procedure. Justify it theoretically and practically.
 
 
 <span class="atom-split" id="q169" data-atom="q169" data-title="Argent 1996 Locale — Quesito 169" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter"></span>
@@ -16614,57 +16446,50 @@ Archimede.
 
 <div class="qlang-split" data-lang="en"></div>
 
-175. I'm going to get you. Blue. 
- 
-The principle of the archives 
- 
-Objectives: 
- 
- 
- 
-Prove the principle of Archimedes. 
- 
-The following is a list of the official languages of the European Union:
- 
- 
- 
-- Dynamometer .
- 
- 
- 
-- Graduated test.
- 
- 
- 
-- Water .
- 
- 
- 
-- Any body (bulb , nut) 
- 
- 
- 
-- Support .
- 
-The following requirements: 
- 
-1) With all the materials given, design and conduct an experiment to demonstrate the principle of 
-Archimedes is here. 
- 
-2) Briefly explain the theoretical basis of your experience. 
- 
-3) Describe the experimental method used and how you performed the measurements and calculations. 
- 
-4) Draw a table with the experimental values obtained. 
- 
-5) Conclusions and Schemes.
+175. CURRENTS, CURRENTS. BLUE.
 
-**Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+ARCHIMEDES' PRINCIPLE
 
+OBJECTIVES:
+
+
+
+Demonstrate Archimedes' principle.
+
+MATERIALS:
+
+
+
+- Dynamometer
+
+
+
+- Graduated cylinder
+
+
+
+- Water
+
+
+
+- Any body (bolt, nut)
+
+
+
+- Stand
+
+REQUIREMENTS:
+
+1) With all the given materials, design and carry out an experiment to demonstrate Archimedes'
+principle.
+
+2) Briefly explain the theoretical basis of your experiment.
+
+3) Describe the experimental method used and how you carried out the measurements and calculations.
+
+4) Make a table with the experimental values obtained.
+
+5) Conclusions and Diagrams.
 
 
 <span class="atom-split" id="q176" data-atom="q176" data-title="Argent 1996 Locale — Quesito 176" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
@@ -17342,127 +17167,116 @@ i cubetti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-181. Sea of the Plate, good air. Blue and green. 
- 
- 
-The wood cubes numbered 1, 2, 3 and 4 have equal internal cavities, filled with 
-different materials. One is known to be filled with wood and another with air but the exact date is unknown.
-The content of the remaining materials, on the other hand, is listed below.
-Unknowns: 
- 
- 
- 
- 
- 
-Material 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1308/2013:
- 
- 
- 
- 
-Air .
- 
- 
-0 
- 
- 
- 
- 
-Wood .
- 
-0,56 
- 
- 
- 
- 
-The chromium
- 
-7,19 
- 
- 
- 
- 
-Mercury .
- 
-13,56 
- 
- 
- 
- 
-Titanium .
- 
-4,51 
- 
- 
- 
- 
-Iron .
- 
-7,86 
- 
- 
- 
- 
+181. MAR DEL PLATA, BUENOS AIRES. BLUE AND GREEN.
+
+
+The wooden cubes numbered 1, 2, 3 and 4 have identical interior cavities, filled with different materials. It is known that one is filled with "wood" and another with air, but the contents of the remaining ones are unknown; moreover, among the materials listed below are the unknown ones:
+
+
+
+
+
+Material
+Density (g/cm3)
+
+
+
+
+Air
+
+
+0
+
+
+
+
+Wood
+
+0.56
+
+
+
+
+Chromium
+
+7.19
+
+
+
+
+Mercury
+
+13.56
+
+
+
+
+Titanium
+
+4.51
+
+
+
+
+Iron
+
+7.86
+
+
+
+
 Sugar
- 
-1,6 
 
- 
+1.6
+
+
 - 57 -
- 
- 
- 
- 
-Zinc .
- 
- 
-7,14 
- 
- 
- 
- 
+
+
+
+
+Zinc
+
+
+7.14
+
+
+
+
 Copper
- 
-8,96 
- 
- 
- 
- 
-The bronze .
- 
-8,8 
- 
- 
- 
- 
-I 'm a tin man .
- 
-7,3 
- 
- 
- 
- 
+
+8.96
+
+
+
+
+Bronze
+
+8.8
+
+
+
+
+Tin
+
+7.3
+
+
+
+
 Aluminium
- 
-2,7 
- 
- 
- 
- 
-Nickel .
- 
-8,9 
- 
- 
-Determine using the table and the dynamometer delivered the unknown material contained 
-the cubes.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1EYd_UR70qVhxXctrO-8ozUZw4Pxck5x3/view)
+2.7
 
+
+
+
+Nickel
+
+8.9
+
+
+Determine, using the table and the dynamometer provided, the unknown material contained in the cubes.
 
 
 <span class="atom-split" id="q182" data-atom="q182" data-title="Argent 1996 Locale — Quesito 182" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/sphere"></span>

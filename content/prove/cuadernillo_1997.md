@@ -323,96 +323,47 @@ invisibilidad de la lente sin tener que cubrir las caras del cubo completamente?
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 3.
-I laboratori della società VIDRIEX, che produce vetri e acrili, sono
-ha scoperto un nuovo materiale le cui proprietà ottiche, termiche e meccaniche sono:
-La Commissione ha adottato una decisione che non è stata adottata. Per evitare il
-La Commissione ha adottato una proposta di direttiva che prevede che le misure di vigilanza e di vigilanza siano state adottate in modo da consentire la messa a disposizione di tali misure.
-è stato scolpito in forma di lente convergente equiconvexa (lenti con facce uguali di radius di 
-curvatura). La stessa è conservata in una valigia portante insieme ad altri tre obiettivi simili.
-geometria, ma costruite con materiali diversi. Un'intelligenza che riesce ad accedere a uno dei...
-i file sul computer centrale dell'azienda si apprendono come il materiale è stato 
-che il suo indice di refraczione è pari a 1.7748. Questa informazione viene venduta alla 
-La concorrenza, che mandano un ladro specializzato a rubare quel lente. Per questo entra una
-La notizia è stata trasmessa ai laboratori di VIDRIEX con un sistema che permette di determinare
-le distanze focali dei lenti in aria e acqua. 
-Il ladro, ponendo un oggetto a 1 m da ciascuna delle lenti, ottiene i seguenti valori di 
-le immagini distanti.
-Dist. Immagine aerea (cm)
+PROBLEMA 3.
+Nei laboratori dell'azienda VIDRIEX, dedicata alla fabbricazione di vetri e acrilici, è stato scoperto un nuovo materiale le cui proprietà ottiche, termiche e meccaniche sono straordinarie e con insospettate applicazioni tecnologiche. Al fine di evitare lo spionaggio industriale nei suoi laboratori, è stato lasciato un unico campione di quel materiale, il quale è stato tagliato a forma di lente convergente equiconvessa (lenti con facce di uguale raggio di curvatura). Lo stesso è custodito in una valigetta portalentine insieme ad altre tre lenti di uguale geometria ma costruite con materiali diversi. Una spia che riesce ad accedere a uno degli archivi nel computer centrale dell'azienda viene a sapere in che modo il materiale è stato occultato e che il suo indice di rifrazione è uguale a 1,7748. Questa informazione viene venduta alla concorrenza, che invia un ladro specializzato a rubare detta lente. A tal fine entra una notte nei laboratori dell'azienda VIDRIEX provvisto di un sistema che gli permette di determinare le distanze focali delle lenti in aria e in acqua.
+Il ladro, ponendo un oggetto a 1 m da ciascuna delle lenti, ottiene i seguenti valori delle distanze immagine.
+Dist. immagine in aria (cm)
 Dist. immagine in acqua (cm)
-Lenti 1
+Lente 1
 21.47
 134.10
-Lenti 2
+Lente 2
 18.38
 74.98
-Lenti 3
+Lente 3
 14.82
 43.21
-Lenti 4
+Lente 4
 12.80
 32.11
-a) Sapendo che l'indice di refraczione dell'aria è di 1.000 e dell'acqua di 1.333, si determina la
-Distanza focale di ciascuna lente in aria e acqua.
-b) Con i dati delle distanze focali ottenuti nel punto precedente, potresti determinare 
-Quale di queste occhiali dovrebbe portare il ladro?
-Suggerimento: Potrebbe essere utile ricordare la formula:
-n
-f
-n
-n
-R
-m
-l
-m
+a) Sapendo che l'indice di rifrazione dell'aria è 1.000 e quello dell'acqua è 1.333, determinate la distanza focale di ciascuna delle lenti in aria e in acqua.
+b) Con i dati delle distanze focali ottenute nel punto precedente, potrebbe Lei determinare quale delle lenti dovrebbe portare via il ladro?
+Suggerimento: Può esserLe utile ricordare la formula:
+n f n n
+R m l m
 =
 −
-⋅
-(
+⋅ (
 )
-2
-dove:
-nl: indice di refraczione della lente
-nm: indice di refrazione del mezzo che circonda la lente
-R: radius di curvatura delle facce della lente
-f m: distanza focale della lente (nel mezzo in cui è immersa)
-Il ladro, con la lente in mano, si trova ora di fronte al problema di portarla fuori dal paese senza essere.
-- E' stato rilevato dai controlli della polizia che hanno già fatto notare il furto. Per il fine di 
-La copertura è di circa 20 cm, con un cubo di 20 cm di lato, di un materiale trasparente di indice di
-rifrazione pari a 1,5. La lente è collocata al centro del cubo. Per non essere visibile da allora.
-Il corpo deve essere ricoperto di una parte del cubo, e il corpo deve essere ricoperto di parti del cubo.
-- Un cubo.
-c) Quali sono le posizioni, le forme e le dimensioni minime che devono essere le patch che verranno inserite su
-Le facce del cubo, così che la lente rubata non sia visibile dall'esterno?
-d) È possibile utilizzare qualsiasi materiale trasparente (cioè con qualsiasi indice di
-La rifrazione è stata effettuata in modo che il costruttore di un'unità di lavoro non abbia
-invisibilità della lente senza dover coprire completamente i volti del cubo?
+2 dove :
+nl: indice di rifrazione della lente nm: indice di rifrazione del mezzo che circonda la lente
+R : raggio di curvatura delle facce della lente f m : distanza focale della lente (nel mezzo in cui è immersa)
+Il ladro, con la lente in suo possesso, si trova ora ad affrontare il problema di portarla fuori dal paese senza essere individuato dai controlli di polizia che sono già stati allertati del furto.  Al fine di nasconderla costruisce un cubo pieno di 20 cm di lato, di un materiale trasparente con indice di rifrazione pari a 1,5. La lente è collocata al centro del cubo.  Affinché essa non sia visibile dall'esterno del cubo e riesca a passare inosservata, è necessario coprire parti delle diverse facce del cubo.
+c) Quale posizione, forma e dimensioni minime devono avere le toppe, che saranno applicate sulle facce del cubo, affinché la lente rubata non sia visibile dall'esterno?
+d) È possibile utilizzare qualsiasi materiale trasparente (cioè, con qualsiasi indice di rifrazione) per costruire il cubo, in modo tale che continui a valere la condizione di invisibilità della lente senza dover ricoprire completamente le facce del cubo?
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three.
-In the laboratories of the VIDRIEX company, which produces glass and acrylics,
-He has discovered a new material whose optical, thermal and mechanical properties are 
-The Commission has already adopted a number of proposals for a new directive. In order to avoid the
-The Commission has already taken a number of measures to ensure that the Community's financial resources are not used to finance the implementation of the Community's internal market.
-has been carved into the shape of an equiconvex convergent lens (lenses with faces of equal radius 
-curvature). It 's in a portable case with three other lenses .
-geometry but built with different materials. A spy who manages to access one of the
-The company's central computer files find out how the material has been 
-It's a hidden object and its refractive index is 1,7748. This information is sold to the 
-Competition, who send a specialist thief to steal that lens. That 's why we 're getting a new one .
-night to the laboratories of the company VIDRIEX equipped with a system that allows you to determine 
-the focal lengths of the lenses in air and water. 
-The thief, by placing an object 1 m from each lens, obtains the following values of 
-the distance images.
-Dist. Air image (cm)
-Dist. water image (cm)
+PROBLEM 3.
+In the laboratories of the company VIDRIEX, dedicated to the manufacture of glass and acrylics, a new material has been discovered whose optical, thermal and mechanical properties are extraordinary and with unsuspected technological applications. In order to prevent industrial espionage in its laboratories, a single sample of this material has been left, which has been cut in the form of an equiconvex converging lens (lenses with faces of equal radius of curvature). It is stored in a lens case together with three other lenses of the same geometry but made of different materials. A spy who manages to access one of the files on the company's central computer learns how the material has been hidden and that its refractive index is equal to 1.7748. This information is sold to the competition, who send a specialized thief to steal said lens. To that end, he enters the laboratories of the company VIDRIEX one night provided with a system that allows him to determine the focal lengths of the lenses in air and water.
+The thief, placing an object 1 m from each of the lenses, obtains the following values of the image distances.
+Image dist. in air (cm)
+Image dist. in water (cm)
 Lens 1
 21.47
 134.10
@@ -425,48 +376,21 @@ Lens 3
 Lens 4
 12.80
 32.11
-(a) Knowing that the refractive index of air is 1,000 and that of water is 1,333, determine the
-the focal length of each lens in air and water.
-(b) With the focal length data obtained in the previous point, could you determining 
-Which of the lenses should the thief wear?
-Tip: It may be helpful to remember the formula:
-n
-f
-n
-n
-R
-m
-l
-m
+a) Knowing that the refractive index of air is 1.000 and that of water is 1.333, determine the focal length of each of the lenses in air and in water.
+b) With the data of the focal lengths obtained in the previous point, could you determine which of the lenses the thief should take?
+Hint: It may be useful for you to recall the formula:
+n f n n
+R m l m
 =
 −
-⋅
-(
+⋅ (
 )
-2
-where:
-nl: refractive index of the lens
-nm: refractive index of the medium surrounding the lens
-R: radius of curvature of the lens faces
-f m: focal length of the lens (in the medium in which it is immersed)
-The thief, with the lens in his hand, is now faced with the problem of getting her out of the country without being.
-detected by police controls that have already been alerted to the theft. For the purpose of 
-The resulting layer of material is a solid 20 cm side cube of transparent material with an index of 
-refraction equal to 1.5. The lens is placed in the center of the cube. So she 's not visible from the
-The outer side of the cube and to make it pass unnoticed, it is necessary to cover parts of the different faces of the cube.
-I'm going to get a cube.
-(c) What minimum location, shape and dimensions should be given to the patches to be placed on
-The sides of the cube, so the stolen lens is not visible from the outside?
-(d) Is it possible to use any transparent material (i.e. any index of
-The re-braking of the bucket is necessary to construct the bucket in such a way that the condition of the bucket is still fulfilled.
-The invisibility of the lens without having to cover the faces of the cube completely?
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+2 where:
+nl: refractive index of the lens nm: refractive index of the medium surrounding the lens
+R: radius of curvature of the faces of the lens f m: focal length of the lens (in the medium in which it is submerged)
+The thief, with the lens in his possession, now faces the problem of taking it out of the country without being detected by the police checkpoints that have already been alerted to the theft.  In order to hide it, he builds a solid cube with a side of 20 cm, made of a transparent material with a refractive index equal to 1.5. The lens is placed at the center of the cube.  In order for it not to be visible from outside the cube and to make it go unnoticed, it is necessary to cover parts of the different faces of the cube.
+c) What location, shape, and minimum dimensions must the patches, which will be placed on the faces of the cube, have so that the stolen lens is not visible from the outside?
+d) Is it possible to use any transparent material (that is, with any refractive index) to build the cube, in such a way that the lens invisibility condition is still satisfied without having to cover the cube's faces completely?
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argent 1997 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/resistor,object/wire"></span>
@@ -1333,28 +1257,13 @@ Data: C0 = 300.000 km/sec
 
 <div class="qlang-split" data-lang="en"></div>
 
-8. City of Good Airs. Green.
-A K gun emits a laser beam in a vertical direction. The lightning hits a half-cylinder,
-The following table shows the results of the calculation: 1) at a point B located 1/3 of the length of the CA arc. The cannon .
-is 1 m above the vertical of point B. On the base of the half-cylinder is a 
-E mirror with a perpendicular axis. The axis is located at the point of impact of the beam.
-on the CA basis. Calculation of the
-(a) The angle at which the mirror must be rotated so that the beam passes through point A after reflection.
-(b) The distance travelled by the beam within the half-cylinder.
-(c) The time it takes for the beam to reach point A from the exit of the K cannon.
-(d) Assuming that there is a second mirror in point A (fig. 2) which causes the lightning to reflect and 
-reaching point D, indicate the path the beam follows after impacting on D (realize all the
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
-Date: C0 = 300,000 km/second
-
-
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+8. CITY OF BUENOS AIRES. GREEN.
+A cannon K emits a laser beam in a vertical direction. The ray strikes a half-cylinder, n = 1.5 (fig. 1) at a point B that is located at 1/3 of the length of the arc CA. The cannon is located 1 m above the vertical of point B. On the base of the half-cylinder there is a mirror E with a perpendicular axis. The axis is located at the point where the ray strikes the base CA. Calculate:
+a) The angle by which the mirror must be rotated so that the ray passes through point A after being reflected.
+b) The distance the ray travels inside the half-cylinder.
+c) The time it takes the ray from when it leaves the cannon K until it reaches point A.
+d) Assuming that at point A there is a second mirror (fig. 2) that causes the ray to be reflected and reach point D, indicate the path the ray follows after striking D (perform all necessary calculations to justify).
+Data: C0 = 300,000 km/sec
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Argent 1997 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/battery,object/resistor,object/switch"></span>
@@ -2979,200 +2888,105 @@ Se cumple:
 
 <div class="qlang-split" data-lang="it"></div>
 
-23. Città di Buoni Aerei. - Verdi.
+23. CITTÀ DI BUENOS AIRES.  VERDE.
 Un'avventura nel sud.
-Un gruppo di giovani coppie studenti di fisica si stabilirono vicino a un piccolo 
-un popolo del Patagono costruendo 21 confortevoli case. Per l'approvvigionamento di 
-La Commissione ha inoltre adottato una proposta di direttiva che prevede l'applicazione di un sistema di controllo delle importazioni di energia elettrica da Germania, che prevede l'importazione di un generatore eolico ENERCON-30 che fornisce una
-Potenza che varia a seconda della velocità del vento (vedi grafico e tabella) in una distribuzione trifase di 
-3x400 V (per valore effettivo fem) di CA sinusoidale a 50 Hz.
-Distribuire le fasi in stella in modo che il carico sia bilanciato (3 cariche uguali), 
-distribuendo tensione monopassiale a ogni abitazione (che si trova ad una determinata
-Distanza, con 3 conduttori di rame (Cu) di 120 mm2, dello stesso materiale che lavora come 
-neutro (
-m
-mm
+Un gruppo di giovani coppie studentesse di fisica si stabilisce nei pressi di un piccolo paese della Meseta Patagonica costruendo 21 confortevoli abitazioni.  Per l'approvvigionamento di energia elettrica, hanno importato dalla Germania un generatore eolico ENERCON-30 che eroga una potenza che varia in base alla velocità del vento (vedi grafico e tabella) in una distribuzione trifase di
+3x400 V (di valore efficace della fem) di C.A. sinusoidale a 50 Hz.
+Le fasi sono distribuite a stella in modo tale che il carico sia bilanciato (3 carichi uguali), distribuendo tensione monofase a ciascuna abitazione (le quali si trovano a una determinata distanza, con 3 conduttori di rame (Cu) da 120 mm2, dello stesso materiale che funziona come neutro ( m mm
 CU
 58
 1
-2 Ω
+2 Ω
 ⋅
 ρ
  ).
 
-Ogni casa ha installato un frigorifero da 200W, un TV. 300W, un video da 50W, 1 
-Lavatrice di 300W, due tubi fluorescenti di 40W c/u (con induttanza di 8W di perdite 
-- un'altra e cos φtotal = 0,5) e 3 lampade da 60W; 1 equipaggiamento musicale da 200W, 1 doccia elettrica 
-di 3000W e un calorificatore di 3600 
-h
-kcal e 700 h
-m 3
-di 5000W, essendo tutti gli artefatti 
-per 220 V.
-Inoltre il piccolo villaggio ha una pompa trifase di 5HP (745W = 1HP) di uscita 
-per 380V in stella per la fornitura di acqua, che viene estratta da un strato sotterraneo, e il cui 
-Il rendimento è dell'85% con un cos φ = 0,85.
-Infine, per l'illuminazione esterna, sono installate 12 lampade a vapore di mercurio HPLN 
-400W / 220V con un rendimento luminoso di 50 
-W
-L'energia elettrica è stata ridotta in circa un milione di tonnellate di luce.
-ballast di perdita di 30W e capacitore di 25 μF per correggere il fattore di potenza a 0,85) di 2,1 
-A cui sono collegate da un'altra struttura, insieme alla pompa, indipendentemente dalle
-alloggi.
-a) Indicare la potenza attiva elettrica totale installata, supponendo che lavori con la tensione 
-di 220V / 50Hz.
-b) Se ogni tubo fluorescente ha un capacitore per correggere il fattore di potenza a cos φ = 0,9. 
-Trovare il valore della capacità del capacitore in questione.
-c) considerando che solo 21 abitazioni dispongono di impianti per 220 V di tensione di fase in
-La capacità di funzionamento è di circa un milione di metri. Ricordate che il carico 
-La luce fluorescente non è stata corretta.
-fattore di potenza.
-d) A che distanza si trova la torre generatrice se l'80% della potenza totale installata in
-Le case e solo con cariche resistive bilanciate, la tensione è la volta nominale di 220V?
-Considerare la resistenza interna del convertitore a corrente continua a corrente alternativa è di 
-5 mΩ per fase e disprezzando la resistenza dei conducenti nelle abitazioni.
-(e) Se l'energia dissipata nel punto precedente potesse essere utilizzata dai conducenti per 
-convertire la neve accumulata in inverno in acqua a -5°C a 20°C, quanti litri per 
-Ora potreste ottenere?
-cf = 80 g
-cal; chielo = 0,5 
-C
-g
-cal
+In ciascuna delle case sono installati 1 frigorifero da 200W, 1 T.V. da 300W, un videoregistratore da 50W, 1 lavatrice da 300W,  2 tubi fluorescenti da 40W ciascuno  (con induttanza di 8W di perdite aggiuntive e cos ϕtotale = 0,5) e 3 lampade da 60W; 1 impianto stereo da 200W, 1 doccia elettrica da 3000W e un termoventilatore da 3600 h kcal  e 700 h m 3 da 5000W, essendo tutti gli apparecchi per 220 V.
+Inoltre il piccolo paese dispone di una pompa trifase da 5HP (745W = 1HP) in uscita per 380V a stella per la provvista d'acqua, la quale viene estratta da uno strato sotterraneo, e il cui rendimento è dell'85% con un cos ϕ = 0,85.
+Infine, per l'illuminazione esterna, sono installate 12 lampade a vapore di mercurio HPLN
+400W / 220V con un rendimento luminoso di 50
+W lumen  e un consumo totale di corrente (con reattore di 30W di perdita e condensatore di 25 µF per correggere il fattore di potenza a 0,85) di 2,1
+A alle quali sono collegate da un altro impianto, insieme alla pompa, indipendente dalle abitazioni.
+a) Trovare la potenza attiva elettrica totale installata, supponendo che funzioni con la tensione nominale di 220V / 50Hz.
+b) Se ogni tubo fluorescente ha un condensatore per correggere il fattore di potenza a cos ϕ = 0,9.
+Trovare il valore della capacità del condensatore in questione.
+c) Considerando che solo le 21 abitazioni hanno gli apparecchi per 220V di tensione di fase in funzionamento, qual è l'intensità di corrente che circola per fase?.  Ricordare che il carico è bilanciato ma considerare che negli apparecchi di luce fluorescenti non è stato corretto il fattore di potenza.
+d) A quale distanza si trova la torre generatrice se all'80% della potenza totale installata nelle abitazioni e solo con carichi resistivi bilanciati, la tensione è quella nominale di 220V?
+Considerare la resistenza interna del convertitore da corrente continua a corrente alternata è di
+5 mΩ per fase e trascurando la resistenza dei conduttori nelle abitazioni.
+e) Se l'energia dissipata nel punto precedente dai conduttori potesse essere utilizzata per convertire la neve che si accumula in inverno a -5°C in acqua a 20°C, quanti litri all'ora si potrebbero ottenere?
+cf = 80 g cal ; chielo = 0,5
+C g cal
 °
 ⋅
-; acqua = 1 
-C
-g
-cal
+; cagua = 1
+C g cal
 °
 ⋅
-f) Per poter fornire la potenza richiesta in ogni momento, è disponibile un gruppo di batterie 
-di accumulatori che utilizzano un convertitore di C.C. a C.A. (come indica il circuito)
-3x400 V. Le batterie hanno tra i loro terminali una differenza di potenziale di 24V, e hanno una
-capacità di 144 Ah. Quante batterie dovrebbero esistere per fornire il 70% della produzione?
-potenza installata con cos (φ) = 1 nelle abitazioni per 10 ore. Quando la velocità del vento è 
-di soli 9 m/s, la pressione è di 1013 hPa, la temperatura 15°C e la densità dell'aria 1,225 kg/m3 
-- Circa?
-g) Se le perdite di calore nelle abitazioni attraverso finestre, porte, pareti, ecc., sono di
-15%, quanto tempo ci vorrà per aumentare la temperatura da 5°C a 20°C all'interno di una casa di
-200 metri, se la pressione è costante? che lavoro aggiuntivo fa il calorificatore per
-il riscaldamento della stanza a pressione costante invece di a volume costante.
-Per l'aria: cp = 0,239 cal/g oC; cv = 0,17 cal/g oC
-Informazioni aggiuntive:
+f) Per poter erogare in ogni momento la potenza richiesta si dispone di un gruppo di batterie di accumulatori che mediante un convertitore da C.C. a C.A. (come indica il circuito) erogano i
+3x400 V.  Le batterie hanno tra i loro morsetti una differenza di potenziale di 24V, e possiedono una capacità di 144Ah.  Quante di queste batterie dovrebbero esserci per erogare il 70% della potenza installata con cos (φ) = 1 nelle abitazioni durante 10 h, quando la velocità del vento è di solo 9 m/s, la pressione è di 1013 hPa, la temperatura di 15°C e la densità dell'aria è di circa 1,225 kg/m3?
+g) Se le perdite di calore nelle abitazioni attraverso finestre, porte, pareti, ecc., sono del
+15%, quanto tempo si impiegherà a elevare la temperatura da 5°C a 20°C all'interno di un'abitazione di
+200m3, se si mantiene costante la pressione? Quale lavoro aggiuntivo esercita il termoventilatore per riscaldare la stanza a pressione costante invece che a volume costante?
+Per l'aria:  cp = 0,239 cal/g ºC   ;   cv = 0,17 cal/g ºC
+Dati Aggiuntivi:
 ENERCON-30
 Per le seguenti condizioni meteorologiche:
-Presione: 1013 hPa
+Pressione: 1013 hPa
 Temperatura: 15°C
 Densità dell'aria: 1,225 kg/m3
-Si adempie:
+Si ha:
 
-
-
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-23. City of Good Airs. Green.
-A Southern adventure.
-A group of young physics students settle in nearby a small town.
-village of the Patagonian Plateau building 21 comfortable homes. For the supply of 
-The Commission has already adopted a proposal for a regulation on the
-Power varies with wind speed (see graph and table) in a three-phase distribution of 
-3x400 V (efficient value of the fem) of C.A. Sinusoidal at 50 Hz.
-The star phases are distributed in such a way that the load is balanced (3 equal loads), 
-The main purpose of the project is to provide a single-phase voltage distribution to each household (which is located at a given
-distance, with 3 copper (Cu) conductors of 120 mm2, of the same material as 
-Neutral (
-m
-mm
+23. CITY OF BUENOS AIRES. GREEN.
+An adventure in the south.
+A group of young physics-student couples settle in the vicinity of a small town on the Patagonian Plateau, building 21 comfortable homes. For the electricity supply, they imported from Germany an ENERCON-30 wind generator that delivers a power that varies according to wind speed (see graph and table) in a three-phase distribution of
+3x400 V (rms value of the emf) of sinusoidal AC at 50 Hz.
+The phases are distributed in star so that the load is balanced (3 equal loads), distributing single-phase voltage to each home (which are located at a certain distance, with 3 copper (Cu) conductors of 120 mm2, of the same material that works as neutral ( m mm
 CU
 58
 1
-2 Ω
+2 Ω
 ⋅
 ρ
  ).
 
-Each of the houses has 1 200W freezer installed, 1 TV. 300W, a 50W video, 1
-300W washing machine, 2 fluorescent tubes of 40W c/u (with 8W loss inductance 
-additional and cos φtotal = 0,5) and 3 60W lamps; 1 200W musical equipment, 1 electric shower 
-3000W and a 3600 heat exchanger 
-h
-Kcal and 700 h
-m 3
-5000W, all the devices being 
-for 220 V.
-In addition, the small town has a three-phase pump of 5HP (745W = 1HP) output.
-for 380V in star water supply, which is extracted from an underground layer, and whose 
-yield is 85% with a body φ = 0.85.
-Finally, for outdoor lighting, 12 HPLN mercury steam lamps are installed 
-400W / 220V with a luminous output of 50 
-W
-The total electricity consumption (with
-30W loss ballast and 25 μF capacitor to correct the power factor to 0,85) of 2,1 
-The pumps are connected by another installation, together with the pump, independent of the pumps.
-Housing.
-(a) Find the total installed electrical active power, assuming that it works with the voltage 
-The nominal power output of the device shall be 220V / 50Hz.
-(b) If each fluorescent tube has a capacitor to correct the power factor to cos φ = 0,9. 
-Find the capacity value of the capacitor in question.
-(c) Whereas only 21 households have the devices for 220V phase voltage in
-operation, what is the current intensity circulating per phase? Remember that the load 
-It is balanced but consider that in fluorescent light devices the
-power factor.
-(d) How far is the generating tower if 80% of the total installed power is at 
-And with only resistive loads balanced, the voltage is the rated 220V?
-Consider the internal resistance of the DC-AC converter is of 
-5 mΩ per phase and disregarding the resistance of the drivers in the dwellings.
-(e) If the energy dissipated at the previous point could be used by the drivers for
-converting snow accumulated in winter to -5°C in water to 20°C, how many litres per 
-What time could you get?
-cf = 80 g
-Cal; chili = 0,5 
-C
-g
-Cal
+Each of the houses has installed 1 refrigerator of 200W, 1 T.V. of 300W, a video of 50W, 1 washing machine of 300W, 2 fluorescent tubes of 40W each (with inductance of 8W of additional losses and cos ϕtotal = 0.5) and 3 lamps of 60W; 1 music system of 200W, 1 electric shower of 3000W and a fan heater of 3600 h kcal and 700 h m 3 of 5000W, all appliances being for 220 V.
+In addition, the small town has a three-phase pump of 5HP (745W = 1HP) output for 380V in star for the water supply, which is extracted from an underground layer, and whose efficiency is 85% with a cos ϕ = 0.85.
+Finally, for outdoor lighting, 12 HPLN 400W / 220V mercury vapor lamps are installed with a luminous efficiency of 50
+W lumen  and a total current consumption (with a 30W loss ballast and a 25 µF capacitor to correct the power factor to 0.85) of 2.1
+A, which are connected by another installation, together with the pump, independent of the dwellings.
+a) Find the total installed active electrical power, assuming it operates at the nominal voltage of 220V / 50Hz.
+b) If each fluorescent tube has a capacitor to correct the power factor to cos ϕ = 0.9.
+Find the value of the capacitance of the capacitor in question.
+c) Considering that only the 21 dwellings have the appliances for 220V phase voltage in operation, what is the current intensity that circulates per phase? Remember that the load is balanced but consider that in the fluorescent light appliances the power factor has not been corrected.
+d) At what distance is the generating tower if, at 80% of the total power installed in the dwellings and only with balanced resistive loads, the voltage is the nominal 220V?
+Consider the internal resistance of the direct current to alternating current converter is
+5 mΩ per phase and neglecting the resistance of the conductors in the dwellings.
+e) If the energy dissipated in the previous point by the conductors could be used to convert the snow that accumulates in winter at -5°C into water at 20°C, how many liters per hour could be obtained?
+cf = 80 g cal ; chielo = 0.5
+C g cal
 °
 ⋅
-; water = 1 
-C
-g
-Cal
+; cagua = 1
+C g cal
 °
 ⋅
-(f) A battery pack is available to deliver the required power at all times.
-a power of not more than 15 kW, a C.A. (as the circuit indicates) deliver the 
-3x400 V. The batteries have a potential difference of 24V between their terminals, and they have a
-144Ah capacity. How many of these batteries should be in place to deliver 70% of the energy?
-installed power with cos (φ) = 1 in the dwellings for 10 h. When the wind speed is 
-At only 9 m/s, the pressure is 1013 hPa, the temperature 15°C and the air density 1,225 kg/m3 
-- About what?
-(g) If heat loss in homes through windows, doors, walls, etc., is of the
-15%, how long will it take to raise the temperature from 5°C to 20°C inside a dwelling in 
-200m3, if the pressure stays constant? What additional work does the heat exchanger do for 
-heat the room at constant pressure instead of at constant volume.
-For air: cp = 0,239 cal/g oC; cv = 0,17 cal/g oC
-The following data are available:
-The following information shall be provided:
-For the following weather conditions:
+f) In order to deliver the required power at all times, a group of storage batteries is available which, by means of a DC-to-AC converter (as indicated in the circuit), deliver the
+3x400 V.  The batteries have between their terminals a potential difference of 24V, and have a capacity of 144Ah.  How many of these batteries should there be to deliver 70% of the installed power with cos (φ) = 1 in the homes for 10 h when the wind speed is only 9 m/s, the pressure is 1013 hPa, the temperature is 15°C and the air density is approximately 1.225 kg/m3?
+g) If the heat losses in the homes through windows, doors, walls, etc., are
+15%, how long will it take to raise the temperature from 5°C to 20°C inside a home of
+200m3, if the pressure is kept constant? What additional work does the fan heater do to heat the room at constant pressure instead of doing so at constant volume?
+For air:  cp = 0.239 cal/g ºC   ;   cv = 0.17 cal/g ºC
+Additional Data:
+ENERCON-30
+For the following meteorological conditions:
 Pressure: 1013 hPa
-The following conditions shall apply:
-Air density: 1,225 kg/m3
-It is fulfilled:
-
-
-
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+Temperature: 15°C
+Air density: 1.225 kg/m3
+The following is satisfied:
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="Argent 1997 Locale — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/5,multidisciplina/multi,object/point-charge"></span>
@@ -3739,39 +3553,25 @@ Radio della pila = 0,80 m.
 
 <div class="qlang-split" data-lang="en"></div>
 
-31. St. Nicholas, good weather. Green.
-In the center of the upper face of a cork bucket floating in water, which is contained
-In a round pile of a table, you will find a frog weighing 200 grams (see
-The Commission has not yet adopted a proposal.
-When the frog jumps at a speed of 3m/s, the cube goes up 2 cm.
-The cube is then hooked upwards and raised using a rigid 1 m bar of 
-length that rests on the edge of the pile (see figure 2).
+31. SAN NICOLÁS, BUENOS AIRES.  GREEN.
+At the center of the upper face of a cork cube floating in water, which is contained in a round basin of a countertop, there is a frog whose mass is 200 grams (see figure 1).
+When the frog jumps with a speed of 3 m/s, the cube rises 2 cm.
+Then the cube is hooked by the upper part and raised using a rigid bar 1 m long that rests on the edge of the basin (see figure 2).
 Determine:
-(a) Draw up a diagram that qualitatively represents the forces acting on each of the
-the masses.
-(b) the volume of the cube
-(c) the maximum height at which the frog reaches and check whether it falls into or out of the stack. Besides 
-determine its kinetic energy when it passes through point A.
-(d) what driving force shall be applied to lift the cube.
-Useful data
-The acceleration of gravity is equal to 10 m/s2.
-Angle formed by the frog when jumping horizontally = 35°
-The cork mass is 0.220 kg.
-The center of the upper face of the cork cube matches the center of the cork cube.
-I'm not going to.
-The radius of the pile is 0.80 m.
-
+a) Make a diagram that qualitatively represents the forces acting on each of the masses.
+b) the volume of the cube
+c) the maximum height reached by the frog and verify whether it falls inside or outside the basin.  Also determine what its kinetic energy is when it passes through point A.
+d) what driving force must be exerted to lift the cube.
+USEFUL DATA
+Acceleration of gravity = 10 m/s2
+Angle formed by the frog when jumping with the horizontal = 35°
+Mass of the cork = 0.220 kg.
+The center of the upper face of the cork cube coincides with the center of the basin.
+Radius of the basin = 0.80 m.
 
 <!--fig:start-->
 ![[cuadernillo_1997_p26_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Fluid Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
 
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="Argent 1997 Locale — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/gas"></span>
@@ -5854,31 +5654,20 @@ b) La superficie con arrugginimento arriva esattamente fino all'inizio della pri
 
 <div class="qlang-split" data-lang="en"></div>
 
-68. St. Teresa, good weather. Green.
-The device in the figure consists of a simple pendulum of L length, from which a mass hangs 
-M1, forming an angle with the vertical.
-On the horizontal plane rests another block of mass M2 of the same material as M1.
-The dynamic coefficient of friction between M1 and M2 blocks and the floor is μ.
-At the end of the length X section, a spring is found, the proportionality of which is constant.
-es k.
-What is the variation in spring length, based on L, , M1, M2, μ, X and k, when M1 
-It falls, hits M2, sticks and (thanks to a keystroke carrying M1) together they reach the spring.
-The Commission shall adopt implementing acts.
-(a) The mass of the nail may be neglected.
-(b) The surface with the rubbing reaches exactly to the beginning of spring.
-2) Calculate the amount of heat dissipated by friction based on the same parameters.
-
+68. SANTA TERESITA, BUENOS AIRES.  GREEN.
+The device in the figure consists of a simple pendulum of length L, from which a mass M1 hangs, forming an angle  with the vertical.
+On the horizontal plane rests another block of mass M2 made of the same material as M1.
+The dynamic coefficient of friction between blocks M1 and M2 and the floor is µ.
+At the end of the section of length X, there is a spring, whose proportionality constant is k.
+What is the change in length of the spring, as a function of L, , M1, M2, µ, X and k, when M1 falls, strikes M2, sticks to it and (thanks to a small nail that M1 carries) together they reach the spring.
+Notes:
+a) The mass of the small nail may be neglected.
+b) The surface with friction reaches exactly to the beginning of the spring.
+2) Calculate the amount of heat dissipated by friction as a function of the same parameters.
 
 <!--fig:start-->
 ![[cuadernillo_1997_p34_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
 
 
 <span class="atom-split" id="q73" data-atom="q73" data-title="Argent 1997 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
@@ -6297,24 +6086,12 @@ g = 10 m/s2 .
 
 <div class="qlang-split" data-lang="en"></div>
 
-75. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-An electron is at rest at a point on the Earth's surface, located 10 cm away.
-above the midpoint of the distance separating two equal Q loads, as shown in Figure 1.
+75. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+An electron is at rest at a point on the Earth's surface, located 10 cm above the midpoint of the distance separating two equal charges Q, as shown in the figure.
 Determine:
-(a) value and sign of Q loads.
-(b) the electric field existing at the point where the electron was located.
-q e = 1,6 . 10-19 C ,
-me = 9,1 . 10 –31 kg ,
-g = 10 m/s2 .
-
-
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+a) value and sign of the charges Q.
+b) the electric field existing at the point where the electron was placed.
+q e = 1.6 . 10-19 C , me = 9.1 . 10 –31 kg , g = 10 m/s2 .
 
 
 <span class="atom-split" id="q80" data-atom="q80" data-title="Argent 1997 Locale — Quesito 80" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/inclined-plane,object/pulley,object/rope-string"></span>
@@ -6360,22 +6137,10 @@ b) Qual è la tensione della corda?
 
 <div class="qlang-split" data-lang="en"></div>
 
-76. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-A block of m1 mass = 44 kg, rests on a frictionless plane, tilted 30° with respect to 
-The horizontal, and is joined by a rope that passes through a small pole without
-a second block of mass m2 = 30 kg suspended vertically as indicated by the
-It's a figure.
-(a) What is the acceleration of each body?
-(b) What is the tension of the rope?
-
-
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+76. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+A block of mass m1 = 44 kg rests on a frictionless plane, inclined at 30º with respect to the horizontal, and is attached by a rope that passes over a small frictionless pulley to a second block of mass m2 = 30 kg suspended vertically as shown in the figure.
+a) What is the acceleration of each body?
+b) What is the tension in the rope?
 
 
 <span class="atom-split" id="q81" data-atom="q81" data-title="Argent 1997 Locale — Quesito 81" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/mono,object/sphere"></span>
@@ -6419,21 +6184,11 @@ densità dell' acqua = 103 kg/m3 .
 
 <div class="qlang-split" data-lang="en"></div>
 
-77. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-A cube that's floating in mercury has a quarter of its volume submerged. Si se 
-add enough water to cover the bucket,
-(a) What fraction of its volume will be submerged in mercury?
-(b) What would be the answer to the previous question if instead of a cube, a sphere floated in the
-the same conditions?
-Mercury density is 1.36 . 104 kg/m3 ,
-water density = 103 kg/m3 .
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+77. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+A cube floating in mercury has one quarter of its volume submerged.  If enough water is added to cover the cube,
+a) what fraction of its volume will remain submerged in the mercury?
+b) what would the answer to the previous question be if, instead of a cube, a sphere were floating under the same conditions?
+density of mercury = 1.36 . 104 kg/m3 , density of water = 103 kg/m3 .
 
 
 <span class="atom-split" id="q82" data-atom="q82" data-title="Argent 1997 Locale — Quesito 82" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
@@ -6473,19 +6228,8 @@ Potrebbe raggiungere la palla prima che essa tocchi il suolo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-78. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-An American football is kicked at a speed of 19.6 m/s and at an angle of 45o 
-about the floor. A player on the goal line, placed 54.7 m away in the direction by 
-where the ball comes in, he runs right into the ball. Assuming you do it fast .
-uniform and disregarding all kinds of friction, what must be the player's speed for that 
-Can I get the ball before it hits the ground?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+78. CIUDAD DE CÓRDOBA, CÓRDOBA.  BLUE.
+An American football is kicked with a speed of 19.6 m/s and at an angle of 45º with respect to the ground.  A player on the goal line, placed 54.7 m away in the direction from which the ball is coming, runs at that instant toward the ball.  Assuming that he does so with uniform velocity and neglecting all types of friction, what must the player's velocity be so that he can reach the ball before it touches the ground?
 
 
 <span class="atom-split" id="q83" data-atom="q83" data-title="Argent 1997 Locale — Quesito 83" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/cart,object/inclined-plane"></span>
@@ -6539,26 +6283,15 @@ b) Il lavoro totale svolto sul carrello.
 
 <div class="qlang-split" data-lang="en"></div>
 
-79. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-A child, exercising a force F = 30 N, pulls a cart whose weight P = 50 N, along a
-ramp (shown in figure). Disregarding the friction between the car and the ramp, and considering the
-displacement at b = 4m.
-He says:
-(a) The work performed by the normal reaction N→ is zero (V or F).
-(b) The angle formed by a force F→ with the displacement of the cart shall be 30° (V or F).
-(c) The angle formed by the PN→ component with the cart displacement is of .
+79. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+A child, exerting a force F = 30 N, pulls a cart whose weight P = 50 N, along a ramp (illustrated in the figure).  Neglecting the friction between the cart and the ramp, and considering the displacement a b = 4 m.
+Answer:
+a) The work done by the normal reaction N→ is zero ( T or F ).
+b) The angle formed by a force F→ with the displacement of the cart is 30º ( T or F ).
+c) The angle formed by the component PN→ with the displacement of the cart is              .
 Calculate:
-(a) The work carried out by the component P→ 
-(b) The total work carried out on the cart.
-
-
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+a) The work done by the component P→
+b) The total work done on the cart.
 
 
 <span class="atom-split" id="q84" data-atom="q84" data-title="Argent 1997 Locale — Quesito 84" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter,object/block"></span>
@@ -6610,25 +6343,15 @@ d) Con le risposte alle domande precedenti. Calcola il calore specifico del piom
 
 <div class="qlang-split" data-lang="en"></div>
 
-80. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-A heat meter of negligible thermal capacity (C=0) contains 50 g of water at
-20 ºC. Inside the apparatus is a 200 g lead block and a
-The temperature of the water is 100 oC.
-The equilibrium is 30 oC.
-He says:
-(a) Since the heat is specific to lead, how can we express the heat that leads to lead?
-- Did you lose?
-(b) What is the heat absorbed by the calorimeter ?
+80. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+A calorimeter with negligible heat capacity ( C=0 ) contains 50 g of water at
+20 ºC.  Inside the apparatus, a 200 g lead block is placed at a temperature of 100 ºC.It is observed, after some time, that the equilibrium temperature is 30 ºC.
+Answer:
+a) If ce is the specific heat of lead, how can we express the heat it lost?
+b) What is the heat absorbed by the calorimeter ?
 
 c) What heat did the water absorb ?
-(d) With their answers to the above questions. Calculate the specific heat of the lead.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+d) With your answers to the previous questions.  Calculate the specific heat of lead.
 
 
 <span class="atom-split" id="q85" data-atom="q85" data-title="Argent 1997 Locale — Quesito 85" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/3,multidisciplina/mono,object/battery,object/resistor"></span>
@@ -6672,21 +6395,12 @@ d) Dissolve per effetto Joule la batteria e la resistenza R ?
 
 <div class="qlang-split" data-lang="en"></div>
 
-81. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-A f.e.m. battery. ε = 12 and internal resistance r = 0,5 Ω , it is connected in series with a 
-R = 4Ω and with an electric f.c. motor e.m. ε = 6 V and whose internal resistance is 
-r’ = 1,5Ω .
-(a) Draw a diagram of that circuit.
-(b) What is the value of the current passing through the engine ?
-(c) What power is dissipated by Joule effect on the engine ?
-d) Does Joule discharge the battery and R resistance ?
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+81. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+A battery with e.m.f. ε = 12 and internal resistance r = 0.5 Ω is connected in series with a resistance R = 4Ω and with an electric motor with c.e.m.f. ε’ = 6 V and whose internal resistance is r’ = 1.5Ω.
+a) Draw a schematic of that circuit.
+b) What is the value of the current that passes through the motor?
+c) What power does it dissipate by Joule effect in the motor?
+d) Do the battery and the resistance R dissipate power by Joule effect?
 
 
 <span class="atom-split" id="q86" data-atom="q86" data-title="Argent 1997 Locale — Quesito 86" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
@@ -6728,20 +6442,12 @@ c) La velocità con cui lo fa:
 
 <div class="qlang-split" data-lang="en"></div>
 
-82. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-It has a parallel sheet of 5 cm thick, over which a ray of 50 o.
-The refractive index of the sheet is 1.5.
+82. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+There is a plate with parallel faces 5 cm thick; a ray strikes it at 50º; the refractive index of the plate is 1.5.
 Calculate:
-(a) The length of the inner beam.
-(b) The value of the angle of refraction
-(c) The speed at which it does so:
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+a) The length of the ray inside.
+b) The value of the angle of refraction
+c) The speed at which it does so:
 
 
 <span class="atom-split" id="q87" data-atom="q87" data-title="Argent 1997 Locale — Quesito 87" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
@@ -7994,62 +7700,49 @@ Pierden
 
 <div class="qlang-split" data-lang="it"></div>
 
-103. Generale Picco, la PAMPA. - Verdi.
-In un calometro di rame di 700 gr. Abbiamo trovato 2 litri di acqua, tutto a 70°C. Sono introdotti 
-50 grammi di ghiaccio a 7°C.
+103. GENERAL PICO, LA PAMPA.  VERDE.
+In un calorimetro di Rame da 700 gr. troviamo 2 lts di acqua, tutto a 70ºC.  Si introducono
+50 gr di ghiaccio a -7ºC.
 Determinare:
 - Sostanze che perdono e guadagnano calore.
-- quante calore guadagnano e perdono e il tipo di calore (sensibile o latente).
-- Equatoria di equilibrio del calometro.
+- Quantità di calore che guadagnano e perdono e il tipo di calore (sensibile o latente).
+- Equazione di equilibrio del calorimetro.
 - Temperatura finale della miscela
 Dati:
-Il calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di
-L'acqua è di 80 Kcal/kg.
-Ceaagua = 1 Kcal/Kg.oC
-Cuccio = 0,09 Kcal/kg.oC
+Cehielo = 0,5 Kcal/Kg.ºC
+Lfacqua = 80 Kcal/Kg.
+Ceacqua = 1 Kcal/Kg.ºC
+Cerame = 0,09 Kcal/kg.ºC
 
 Fare una tabella del tipo:
 Sostanze
-Tipo di calore
+Tipo di Calore
 Quantità di calore
 Guadagnano
-Perdere
+Perdono
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-103. General Pico, the father. Green.
-In a 700 gr. copper thermometer. We found 2 liters of water, all at 70 degrees. They 're coming in .
-50 grams of ice at 7°C.
+103. GENERAL PICO, LA PAMPA.  GREEN.
+In a copper calorimeter of 700 gr. we find 2 lts of water, all at 70ºC.  50 gr of ice at -7ºC are introduced.
 Determine:
 - Substances that lose and gain heat.
-- Amounts of heat gained and lost and type of heat (sensitive or latent).
-- Calorometer equilibrium equation.
+- Amounts of heat that are gained and lost and the type of heat (sensible or latent).
+- Equilibrium equation of the calorimeter.
 - Final temperature of the mixture
-The data:
-The following table shows the following:
-Lfagua is 80 Kcal/kg.
-The following is the list of the products listed in Annex I to Regulation (EC) No 1907/2006:
-The following table shows the total value of the product:
+Data:
+Cehielo = 0.5 Kcal/Kg.ºC
+Lfagua = 80 Kcal/Kg.
+Ceagua = 1 Kcal/Kg.ºC
+Cecobre = 0.09 Kcal/kg.ºC
 
-Make a table like this:
+Make a table of the type:
 Substances
-Type of heat
+Type of Heat
 Amount of heat
-They win
-They lose.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+Gain
+Lose
 
 
 <span class="atom-split" id="q108" data-atom="q108" data-title="Argent 1997 Locale — Quesito 108" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/block"></span>
@@ -9613,32 +9306,17 @@ Aceleración de la gravedad
 
 <div class="qlang-split" data-lang="it"></div>
 
-123. CUTRAL-CO E PLAZA HUINCUL, NY. - Verdi.
-Un'altra sfera e un cilindro (ma con un po' di 
-liquido…)
-Dato il seguente sistema idraulico, che consiste di 
-un contenitore cilindrico (di nuovo …!!!) in cui si
-mette una sfera non massica, e che è stato praticato un 
-un orizzonte nella parte inferiore (del recipiente) per
-poi l'acqua può fluire.
+123. CUTRAL-CÓ E PLAZA HUINCUL, NEUQUÉN.  VERDE.
+Un'altra sfera e un cilindro (ma con un po' di liquido…)
+Dato il seguente sistema idraulico, che consta di un recipiente cilindrico (ancora…!!!) nel quale si colloca una sfera non piena, e a cui è stato praticato un foro nella parte inferiore (del recipiente) affinché l'acqua possa poi fluire.
 Si chiede:
-a) Determinare il rapporto:
-e
-i
-r
-r
-R =
-Per far sì che la sfera vuota sia costruita con un certo materiale.
-di peso specifico di 1,8 g/cm3, flotta, secondo il suo piano 
-mezzo, essendo il fluido in cui fluttuano, acqua. (ri è il raggio interno della sfera e re l'esterno).
-b) Calcola ora le dimensioni interne, lo spessore e il peso sapendo che il diametro esterno di 
-la sfera è di 15 mm.
-c) Calcolare la velocità di uscita del foro di diametro 1,5 mm, determinando il flusso. 
-Grafica il tempo, che conclusione arriva, tenendo conto della ipotesi 
-La velocità è una delle caratteristiche più semplificate del sistema di velocità.
-d) Non eravamo contenti del semplice calcolo, quindi abbiamo deciso di effettuare il
-esperienza empiricamente ottenendo una tabella di valori della variazione di altezza rispetto a 
-a tempo stesso, espressa come segue:
+a) Determinare la relazione:
+e i r r
+R = affinché la sfera cava costruita con un certo materiale di peso specifico 1,8 g / cm3, galleggi, secondo il suo piano medio, essendo il fluido in cui galleggia, acqua. (ri è il raggio interno della sfera e re quello esterno).
+b) Ora calcolare le dimensioni interne, lo spessore e il peso sapendo che il diametro esterno della sfera è di 15 mm.
+c) Calcolare la velocità all'uscita del foro di diametro 1,5 mm, determinato la portata.
+Graficare la stessa in funzione del tempo, a quale conclusione si giunge, tenendo conto dell'ipotesi semplificativa che di solito si realizza per il calcolo della velocità?
+d) Noi non eravamo contenti del semplice calcolo, così decidemmo di realizzare l'esperienza empiricamente ottenendo una tabella di valori della variazione dell'altezza rispetto al tempo, espressa nel modo seguente:
 H [mm]
 T [Seg.]
 150
@@ -9672,9 +9350,7 @@ T [Seg.]
 575
 10
 763
-Se la legge della variazione dell'altezza in funzione del tempo pensiamo che risponde ad un'equazione
-La quadratazione è raggiunta mediante un procedimento matematico in cui viene risolto il problema.
-il seguente sistema di equazioni:
+Se la legge di variazione dell'altezza in funzione del tempo riteniamo che risponda a un'equazione quadratica alla quale si giunge per mezzo di un procedimento matematico in cui si risolve il seguente sistema di equazioni:
 3
 2
 2
@@ -9690,26 +9366,17 @@ il seguente sistema di equazioni:
 2
 1
 0
-T
-b
-T
-b
-T
-b
+T b
+T b
+T b
 HT
-T
-b
-T
-b
-T
-b
+T b
+T b
+T b
 HT
-T
-b
-T
-b
-N
-b
+T b
+T b
+N b
 H
 ∑
 ∑
@@ -9736,81 +9403,51 @@ H
 ⋅
 +
 ⋅
-=
-da cui si possono ottenere i coefficienti per generare la seguente funzione di altezza con 
-Relazione tempo, (N è la quantità di misurazioni):
+= da cui si possono ottenere i coefficienti per generare la seguente funzione dell'altezza in relazione al tempo, (N è la quantità di misurazioni):
 2
 2
 1
 0
 )
 (
-T
-b
-T
-b
-b
+T b
+T b b
 T
 H
 ⋅
 +
 ⋅
 +
-=
-in che modo si modifica il calcolo di cui al punto (c). Calcolare e graficare il richiesto 
-La Commissione ha adottato una decisione del Consiglio.
-Suggerimento: per realizzare il sistema di equazioni con la metodologia di cui sopra 
-È meglio fare una tabella con le potenze richieste per poi calcolare i loro totali e di questa 
-In questo modo si risparmia tempo e si possono evitare errori.
-Un quadro con alcuni dati che possono essere utili:
+= in che modo si modifica quanto calcolato nel punto c). Ricalcolare e graficare quanto richiesto precedentemente in detto punto.
+Suggerimento: per realizzare il sistema di equazioni mediante la metodologia prima menzionata conviene realizzare una tabella con le potenze richieste per poi calcolare i loro totali e in questo modo si risparmia tempo e si possono evitare errori.
+Tabella con alcuni dati che possono risultare utili:
 Densità dell'acqua
 1 g / cm3
 Pressione atmosferica
 Pa = 1 Atmosfera
-Accelerazione della gravità
-9,8 m/sec2
-
+Accelerazione di gravità
+9,8 m/seg2
 
 <!--fig:start-->
 ![[cuadernillo_1997_p51_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-123. CUTRAL-CÓ and HUNCUL Square, NY. Green.
-Another sphere and a cylinder (but with a little bit of 
-The following table shows the following:
-Given the following hydraulic system, which consists of 
-a cylindrical container (again…!!!) in which 
-It's a non-massive sphere, and it's been practiced a 
-The bottom hole (of the container) so that 
-Then the water can flow.
-It asks:
-(a) Determine the relationship between:
-e
-i
-r
-r
-R =
-So that the hollow sphere is built from a certain material 
-of a specific weight of 1,8 g/cm3, floating, according to its plane 
-medium being the fluid in which it floats, water. (ri is the radius inside the sphere and re the radius outside).
-(b) Now calculate the internal dimensions, thickness and weight knowing that the external diameter of the
-The sphere is 15 mm.
-(c) Calculate the velocity at the output of the 1.5 mm diameter hole, determining the flow rate. 
-Graph the same as the time, what conclusion does it reach, taking into account the hypothesis 
-The simplification that is usually done for the calculation of speed?
-(d) We were not satisfied with the simple calculation, so we decided to do the
-experience empirically obtaining a table of values of the height variation with respect to 
-at the same time, expressed as follows:
+123. CUTRAL-CÓ AND PLAZA HUINCUL, NEUQUÉN.  GREEN.
+Another sphere and a cylinder (but with a little liquid…)
+Given the following hydraulic system, which consists of a cylindrical container (again…!!!) in which a non-solid sphere is placed, and which has had a hole made in the lower part (of the container) so that the water can then flow out.
+It is asked:
+a) Determine the relation:
+e i r r
+R = so that the hollow sphere made of a certain material with specific weight 1.8 g / cm3 floats, according to its midplane, with the fluid in which it floats being water. (ri is the internal radius of the sphere and re the external one).
+b) Now calculate the internal dimensions, thickness and weight knowing that the external diameter of the sphere is 15 mm.
+c) Calculate the velocity at the outlet of the hole of diameter 1.5 mm, determining the flow rate.
+Graph it as a function of time. What conclusion do you reach, taking into account the simplifying hypothesis that is usually made for calculating the velocity?
+d) We were not satisfied with the simple calculation, so we decided to carry out the experiment empirically, obtaining a table of values of the variation of height with respect to time, expressed as follows:
 H [mm]
-T [Sec.]
+T [Seg.]
 150
 0
 140
@@ -9842,9 +9479,7 @@ T [Sec.]
 575
 10
 763
-If the law of variation of height with respect to time we think it answers an equation
-The method of calculating the value of the value of the underlying equation is a quadratic method which is achieved by a mathematical procedure in which the
-the following system of equations:
+If we believe that the law of variation of height as a function of time responds to a quadratic equation which is arrived at by means of a mathematical procedure in which the following system of equations is solved:
 3
 2
 2
@@ -9860,26 +9495,17 @@ the following system of equations:
 2
 1
 0
-T
-b
-T
-b
-T
-b
+T b
+T b
+T b
 HT
-T
-b
-T
-b
-T
-b
+T b
+T b
+T b
 HT
-T
-b
-T
-b
-N
-b
+T b
+T b
+N b
 H
 ∑
 ∑
@@ -9906,51 +9532,34 @@ H
 ⋅
 +
 ⋅
-=
-where the coefficients can be obtained to generate the following height function with the 
-time-related, (N is the number of measurements):
+= from which the coefficients can be obtained to generate the following function of height with respect to time, (N is the number of measurements):
 2
 2
 1
 0
 )
 (
-T
-b
-T
-b
-b
+T b
+T b b
 T
 H
 ⋅
 +
 ⋅
 +
-=
-the manner in which the calculation in subparagraph (c) is amended. Recalculate and chart what is requested 
-the previous paragraph.
-Suggestion: to perform the system of equations using the above methodology 
-It is best to draw up a table with the powers requested and then calculate their totals and this one 
-The Commission has already adopted a number of proposals for a new directive.
+= in what way is what was calculated in part c) modified. Recalculate and graph what was requested previously in said part.
+Suggestion: to carry out the system of equations by means of the aforementioned methodology, it is advisable to make a table with the required powers and then calculate their totals, and in this way time is saved and errors can be avoided.
 Table with some data that may be useful:
 Density of water
 1 g / cm3
-Air pressure
-Pa = 1 atmospheric
+Atmospheric pressure
+Pa = 1 Atmosphere
 Acceleration of gravity
-9,8 m/s2
-
+9.8 m/sec2
 
 <!--fig:start-->
 ![[cuadernillo_1997_p51_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
 
 
 <span class="atom-split" id="q128" data-atom="q128" data-title="Argent 1997 Locale — Quesito 128" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/multi,object/projectile"></span>
@@ -9999,82 +9608,36 @@ horizontal y considerar a las ondas de radio como instantáneas)
 
 <div class="qlang-split" data-lang="it"></div>
 
-124. San Carlos de Bariloche, Rio Negro. Blu e verde.
-Un viaggio accidentato
-Un convoglio di tre aerei-cisterna vola sull'Artico per rifornirsi di carburante a una base.
-- Esperienziale. Gli aerei volano in fila indiana a 200 metri di distanza uno dal vicino a una velocità
-di navigazione a 700 Km/h e un'altitudine di 5000 m. A un certo punto, l'aereo centrale
-ha accidentalmente subito un'esplosione. Calcolo:
-a) Quale aereo riceve prima l'onda di espansione? L'onda di shock prodotta dall'esplosione
-viaggia a 400 m/s rispetto alla terra e in tutte le direzioni.
-b) Quanto tempo ci vuole per arrivare a ciascun altro aereo?
-c) Supponiamo che l'onda di espansione dura solo 0,5 secondi, dopo i quali diminuisce.
-La Commissione ha inoltre adottato una decisione che prevede che il regime di controllo dei dati di cui all'articolo 6 del regolamento (UE) n. Qualche altro dei due?
-Gli aerei riusciranno a sfuggire alla onda?
-(d) il primo aereo che riceve la onda di colpo subisce un guasto e i suoi motori si interrompono, 
-cadendo a picchiare. Per fortuna, l'equipaggio riesce a saltare in paracadute. Supponiamo che cadano con 
+124. SAN CARLOS DE BARILOCHE, RÍO NEGRO.  AZZURRO E VERDE.
+Un viaggio accidentato…
+Un convoglio di tre aerei-cisterna sorvola l'Artico per rifornire di carburante una base sperimentale. Gli aerei volano in fila indiana distanziati di 200 m l'uno dall'altro a una velocità di crociera di 700 Km/h e a un'altitudine di 5000 m. In un momento determinato, l'aereo centrale subisce accidentalmente un'esplosione. Calcolare:
+a) Quale aereo riceve per primo l'onda d'urto? L'onda d'urto prodotta dall'esplosione viaggia a 400 m/seg rispetto al suolo e in tutte le direzioni.
+b) In quanto tempo arriva a ciascuno degli aerei rimanenti?
+c) Ora supponiamo che l'onda d'urto duri solo 0.5 seg., trascorsi i quali diminuisce considerevolmente la sua potenza (considerarla nulla dopo quel tempo). Riesce qualcuno degli altri due aerei a evitare l'onda?
+d) il primo aereo che riceve l'onda d'urto subisce un guasto e i suoi motori si fermano, precipitando in picchiata. Per fortuna l'equipaggio riesce a lanciarsi con il paracadute. Supponiamo che cadano con
 
-un'accelerazione verticale del 20% della gravità normale (9,8 m/sec2) per 10 s e poi continuano 
-scendendo a velocità costante. Quanto tempo sono in aria prima di arrivare al suolo? 
-(Considere che l'equipaggio salti nel momento in cui l'aereo riceve l'onda.)
-e) Se la velocità orizzontale dei paracadutisti non è alterata durante il cadere (il salto ha la velocità di
-La velocità dell'aereo è uguale a quella dell'aereo) che distanza, misurata nella direzione di volo, percorrono fino a raggiungere il
-- Da quando salta l'aereo?
-f) Quando arrivano al pavimento, a che distanza si trova l'altro aereo (misurato orizzontalmente)?
-g) Uno dei paracadutisti, quando è arrivato a terra ferma, ha subito un incidente e si è fratturato una.
-- La gamba. Come gli elementi per prenderlo sono sull'altro aereo, 10 minuti dopo che sono arrivati al
-Al piano di sotto viene inviato un segnale di SOS per radio. L'aereo ha bisogno di 10 minuti per girare 180°, dopo i
-che l'aereo si trova di nuovo al punto in cui ha ricevuto il segnale, con la stessa velocità
-che portava, ma questa volta in direzione degli incidenti. In quel momento il capitano dell' aereo
-decide di accelerarlo a 5 m/sec2 per 10 secondi, dopo i quali continua a velocità 
-costante. In queste nuove condizioni, quanto tempo ci vuole per arrivare? (Prendendo come distanza solo la
-(Ricerca di informazioni su un'onda radio)
+un'accelerazione verticale pari al 20% della gravità normale (9,8 m/s²) per 10 s e poi continuano a scendere con velocità costante. Quanto tempo restano in aria prima di arrivare al suolo?
+(Considerare che l'equipaggio salta nell'istante in cui l'aereo riceve l'onda.)
+e) Se la velocità orizzontale dei paracadutisti non si altera durante la caduta (al momento del salto hanno la stessa velocità dell'aereo) quale distanza, misurata nella direzione di volo, percorrono fino a raggiungere il suolo, dall'istante in cui saltano dall'aereo?
+f) Quando arrivano al suolo, a quale distanza si trova l'altro aereo (misurata orizzontalmente)?
+g) Uno dei paracadutisti, quando giunse a terra ferma, subisce un incidente e si frattura una gamba. Poiché gli elementi per soccorrerlo sono sull'altro aereo, 10 min dopo che sono arrivati al suolo viene inviato un segnale di SOS via radio. L'aereo impiega 10 min per virare di 180º, al termine dei quali l'aereo si trova nuovamente nel punto in cui ha ricevuto il segnale, con la stessa velocità che aveva, ma questa volta nella direzione degli incidentati. In quel momento il capitano dell'aereo decide di accelerarlo a ragione di 5 m/s² per 10 s, trascorsi i quali continua con velocità costante. In queste nuove condizioni, quanto tempo impiega ad arrivare? (Prendere come distanza solo quella orizzontale e considerare le onde radio come istantanee)
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-124. I'm not going to be able to do this. Blue and green.
-A trip that was accidental
-A convoy of three tank planes flying over the Arctic to fuel a base.
-It's experimental. The planes are flying in Indian queue 200 meters apart from the neighbor at a speed of one .
-cruise speed of 700 Km/h and altitude of 5000 m. At a certain point, the central plane
-accidentally suffered an explosion. Calculation of the
-(a) Which aircraft receives the first wave of expansion? The shock wave produced by the explosion .
-It travels at 400 m/s from the ground and in all directions.
-(b) How long does it take to reach each of the other aircraft?
-c) Now let's say the expansion wave lasts only 0.5 seconds, after which it decreases.
-The Commission considers that the Commission has not yet adopted a proposal for a regulation on the use of the new technology. Any of the other two?
-Do you think planes can avoid the wave?
-(d) the first aircraft to receive the shock wave is damaged and its engines are stopped, 
-falling into a trap. Luckily the crew managed to parachute. Let 's say they fall with 
+124. SAN CARLOS DE BARILOCHE, RÍO NEGRO.  BLUE AND GREEN.
+A rough trip…
+A convoy of three tanker planes flies over the Arctic to supply fuel to an experimental base. The planes fly in single file, 200 m apart from one another, at a cruising speed of 700 km/h and an altitude of 5000 m. At a certain moment, the middle plane accidentally suffers an explosion. Calculate:
+a) Which plane receives the blast wave first? The shock wave produced by the explosion travels at 400 m/s relative to the ground and in all directions.
+b) How much time does it take to reach each of the remaining planes?
+c) Now suppose that the blast wave only lasts 0.5 s, after which its power decreases considerably (consider it zero after that time). Does either of the other two planes manage to avoid the wave?
+d) the first plane that receives the shock wave suffers damage and its engines stop, falling into a dive. Luckily the crew manages to jump out with parachutes. Suppose they fall with
 
-a vertical acceleration of 20% of normal gravity (9.8 m/s2) for 10 s and then continue 
-descending at a steady rate. How long are they in the air before they hit the ground? 
-(Consider that the crew jumps the moment the plane receives the wave.)
-(e) If the parachutists' horizontal speed is not altered during the fall (the jump has the
-(the same speed as the aircraft) what distance, measured in the flight direction, they travel to reach the
-floor, from the moment you jump off the plane?
-(f) When you reach the floor, how far away is the other aircraft (measured horizontally)?
-g) One of the parachutists when he arrived on land is in an accident and fractures a .
-- The leg. As the items to attend to him are on the other plane, 10 minutes after they arrived at the
-The floor is being sent an SOS signal by radio. The plane takes 10 minutes to turn 180o, after the
-which the plane is again at the point where it received the signal, at the same speed.
-I was bringing it, but this time in the direction of the injured. At that moment the captain of the plane
-decides to accelerate at a rate of 5 m/s2 for 10 seconds, after which it continues at speed 
-It's constant. Under these new conditions, how long does it take to get there? (Take as distance only the
-(i.e. the radio waves are considered instantaneous)
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+a vertical acceleration of 20% of normal gravity (9.8 m/s2) for 10 s and then continue descending at constant speed. How long are they in the air before reaching the ground?
+(Consider that the crew jumps at the instant the plane receives the wave.)
+e) If the horizontal speed of the parachutists does not change during the fall (when they jump they have the same speed as the plane), what distance, measured in the direction of flight, do they cover until they reach the ground, from the instant they jump from the plane?
+f) When they reach the ground, at what distance is the other plane (measured horizontally)?
+g) One of the parachutists, when he reached solid ground, suffers an accident and breaks a leg. Since the elements to attend to him are in the other plane, 10 min after they reached the ground an SOS signal is sent by radio. The plane takes 10 min to turn 180º, after which the plane is again at the point where it received the signal, with the same speed it had, but this time in the direction of the injured people. At that moment the captain of the plane decides to accelerate it at a rate of 5 m/s2 for 10 s, after which it continues at constant speed. Under these new conditions, how long does it take to arrive? (Take only the horizontal distance and consider radio waves as instantaneous)
 
 
 <span class="atom-split" id="q129" data-atom="q129" data-title="Argent 1997 Locale — Quesito 129" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fisica Moderna,topic/nuclear-and-particle-physics,argomento/fisica-moderna,difficolta/4,multidisciplina/multi,object/nucleus"></span>
@@ -10298,67 +9861,38 @@ Massa della Terra: 5.975 . 1024 kg.
 
 <div class="qlang-split" data-lang="en"></div>
 
-126. I'm not going to be able to do this. Blue and green.
-It's a problem with gravity.
-A ship launches from Earth, intending to reach the moon. The funny thing is, he's...
-The method of launching it into space consists of a catapult which will be responsible for delivering the spacecraft to the spacecraft.
-The speed needed to overcome the gravitational pull of the Earth's gravitational field and reach the Moon.
+126. SAN CARLOS DE BARILOCHE, RÍO NEGRO.  BLUE AND GREEN.
+A gravitation problem.
+A ship is launched from the Earth, with the intention of reaching the Moon. The curious thing is that the method for launching it into space consists of a catapult that will be in charge of giving the ship the necessary speed to overcome the attraction of the Earth's gravitational field and reach the Moon
 
-(as in the novel by Jules Verne From the Earth to the Moon). Note: if necessary, use 
-As an expression of the gravitational potential energy that is given at the end of the problem.
-(a) What is the minimum initial speed that the ship would have to be given to escape?
-The gravitational field of the Earth? Consider only the effect of Earth's gravity.
-(b) Now suppose the ship is travelling towards the Moon following its trajectory.
-A straight line connecting the centers of the Earth and the Moon. Is there any point in this trajectory where the
-The force of the moon and earth on the ship is zero? What 's it ? (If any)
-(c) During the journey to the Moon, astronauts must dispose of a container of waste. El 
-The system used to dispose of waste consists of an arm that slowly removes the waste from the ship.
-container with the waste up to a certain distance from the ship and then release it into space without
-I 'm not going to force him . What will the astronauts see, that the vessel is left behind the
-ship, that the vessel passes them or that the vessel remains next to the ship? Justify your .
-The answer.
-(d) What would be your answer to point (c) if the operation of removing the waste container were to be carried out?
-I would have had to do at a point in space where the gravitational pull of any star
-is despicable and therefore the acceleration the ship feels is zero?
-We remind you of Newton 's law of gravitation:
+(as in Julio Verne's novel "From the Earth to the Moon"). Note: if necessary, use as the expression for gravitational potential energy the one given at the end of the problem.
+a) What is the minimum initial speed that would have to be imparted to the ship in order to escape the Earth's gravitational field? Consider only the effect of Earth's gravity.
+b) Suppose now that the ship is traveling toward the Moon following the straight-line trajectory that joins the centers of the Earth and the Moon. Is there any point on this trajectory where the (net) force exerted by the Moon and the Earth on the ship is zero? What is it? (If it exists)
+c) During the trip to the Moon, the astronauts must dispose of a container with waste. The system used to eject the waste consists of an arm that slowly takes the container with the waste out of the spacecraft to a certain distance from the spacecraft and then releases it into space without exerting any force on it. What will the astronauts see, that the container remains behind the spacecraft, that the container passes them, or that the container stays beside the spacecraft? Justify your answer.
+d) How would your answer to point c) be if the operation of taking out the container with waste had had to be done at a point in space where the gravitational attraction of any celestial body is negligible and therefore the acceleration experienced by the spacecraft is zero?
+We remind you of Newton's Law of gravitation:
 2
 2
 1.
 .
-d
-m
-m
+d m m
 G
-F =
-where F is the gravitational pull force between two bodies whose masses are respectively 
-m1 and m2, d is the distance between the mass centers of the bodies and G is the gravitational constant 
-The Commission is not responsible for the implementation of this Directive.
-The gravitational potential energy of a mass body m at a distance d from the center of the earth 
-es:
-d
-m
-m
+F = where F is the gravitational force of attraction between two bodies whose masses are respectively m1 and m2, d is the distance between the centers of mass of the bodies and G is the universal gravitational constant.
+The gravitational potential energy of a body of mass m at a distance d from the center of the earth is:
+d m m
 G
 U g
 2
 1.
 −
 =
-The data:
-Universal gravity constant, G is 6.673. 10-11 N m2 kg--2
-The mass of the Earth: 5,975 . 1024 kg.
-Earth 's mean radius is 6,371 . 106 m
-(To consider the earth and the moon as two spheres)
-Average distance from the Earth to the Moon: 3.84 .108 m
-Mass of the Moon: 7,354 . 1022 kg.
-The mass of the Earth: 5,975 . 1024 kg.
-
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+Data:
+Universal gravitational constant, G = 6.673 . 10-11 N m2 kg--2
+Mass of the Earth: 5.975 . 1024 kg.
+Mean radius of the Earth: 6.371 . 106 m (consider the earth and the moon as two spheres)
+Mean distance from the Earth to the Moon: 3.84 .108 m
+Mass of the Moon: 7.354 . 1022 kg.
+Mass of the Earth: 5.975 × 10²⁴ kg.
 
 
 <span class="atom-split" id="q131" data-atom="q131" data-title="Argent 1997 Locale — Quesito 131" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
@@ -11629,33 +11163,20 @@ commenti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-142. City of Good Airs. Green.
-A) Design a method for determining the density of the liquid contained in the container to be
-delivery as a sample, taking into account that:
-(a) The materials and instruments available on the table of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of contents of the table of contents of the table of contents of the table of contents of contents of the table of contents of contents of the table of contents of the table of contents of the table of contents of contents of the table of contents of the table of contents of the table of contents of the table of contents of contents of the table of contents of the table of contents of the table of contents of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of contents of the table of the table of contents of the table of contents of the table of the table of the table of contents of the table of the table of contents of the table of the table of the table of contents of the table of the table of contents of the table of the table of the table of the table of the table of the table of contents of the table of the table of the table of the table of the table of the table of the table of contents of the table of the table of the table of the table of contents of the table of the table of the table of the table of the table of the table shall be used by by by by by by by by by
-The lab.
-(b) If other materials are required, they must be simple, economical and available in the market.
-the lab.
-(c) If any instrument is to be constructed from the materials of the preceding item, the
-The calibration shall be carried out by the competitor.
-(d) An experimental guide containing at least:
+142. CITY OF BUENOS AIRES. GREEN.
+A) Design a method to determine the density of the liquid contained in the vessel provided as a sample, taking into account that:
+a) The materials and instruments available on the laboratory bench must be used.
+b) If other materials were required, they must be simple, inexpensive and available in the laboratory.
+c) If it were necessary to build some instrument, from the materials of the previous item, the calibration will be the responsibility of the contestant.
+d) An experimentation guide must be prepared containing at least:
 1. Theoretical foundations.
 2. List of materials.
 3. Algorithm of the process.
-4. Schematics.
-5. Figures of values of the respective measurements, calculations and error rates.
-6. If it is feasible and useful, chart values.
-7. I'm going to draw conclusions.
-(b) Testing the method designed by strict application of the same, presenting the guide 
-The Commission's proposal for a regulation on the approximation of the laws of the Member States on the approximation of the laws of the Member States relating to the protection of the environment, including the protection of the environment, is based on the principle of proportionality.
-comments.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+4. Diagrams.
+5. Tables of values of the respective measurements, calculations and error bounds.
+6. If feasible and useful, plot values.
+7. Conclusions.
+B) Test of the method designed by strict application of it, presenting the prepared guide, diagrams, tables of values and complete calculations, in addition to the conclusions and comments.
 
 
 <span class="atom-split" id="q147" data-atom="q147" data-title="Argent 1997 Locale — Quesito 147" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono"></span>
@@ -11906,44 +11427,32 @@ cm3 e la copertura è di plastica finita (simile ai vasi di caffè di MacDonald'
 
 <div class="qlang-split" data-lang="en"></div>
 
-145. City of Good Airs. Green and Blue.
-A little hot coffee.
-The following is the list of the countries of the European Union:
-Under certain conditions, when a system exchanges heat with the environment, its temperature is
-can approximate by a curve of the form T = K · e-At + T0, where t is time and A is a 
-The Commission has already adopted a number of proposals for the amendment.
-List of materials:
-- 2 plastic vessels with lid
-- One thermometer
-- Hot water and room temperature
-The time, the rule, the squad, etc. can also be used.
-The objective:
-Four cases will be analysed:
-* a glass filled with hot water with thermometer but without lid
-* a glass filled with hot water with a cap and thermometer
-* two cups (one inside the other) filled with hot water with thermometer but without lid
-* a glass filled with up to half a cup of hot water with thermometer but without cap
-In each of them indicate whether the approximation is good, in which range and the constant A 
-the corresponding.
-Report to the Commission:
-Report with:
-- description and scheme of the measurement methods used.
-- All experimental values obtained in direct measurements, with their respective values 
-I'm not sure.
-- the processing of measured values, calculation of errors and charts used.
-- The final results obtained by their respective errors.
-- Explain qualitatively the results obtained.
+145. CITY OF BUENOS AIRES.  GREEN AND BLUE.
+A Warm Little Coffee.
+Introduction:
+Under certain conditions, when a system exchanges heat with the environment, its temperature can be approximated by a curve of the form T = K · e-At + T0, where t is time and A is a constant that depends on the materials used, the shapes and other factors.
+List of Materials:
+- 2 plastic cups with lids
+- 1 thermometer
+- Hot water and water at room temperature
+A clock, ruler, set square, etc. may also be used.
+Objective:
+4 cases will be analyzed:
+* a cup full of hot water with a thermometer but without a lid
+* a cup full of hot water with a lid and thermometer
+* two cups (one inside the other) full of hot water with a thermometer but without a lid
+* a cup half full of hot water with a thermometer but without a lid
+In each of them indicate whether the approximation is good, in what range and the corresponding constant A.
+Report:
+Present a report with:
+- The description and diagram of the measurement methods used.
+- All the experimental values obtained in the direct measurements, with their respective errors.
+- The treatment of the measured values, the calculation of errors and graphs used.
+- The final results obtained with their respective errors.
+- Explain the results obtained qualitatively.
 
-Faith of the errs (clear during the test).
-Elements delivered in the experimental test: the telgopor glass, approximately 125 
-The lid is made of finite plastic (similar to MacDonald's coffee pots).
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+Errata (clarified during the exam).
+Elements provided in the experimental test: the polystyrene cup, of approximately 125 cm3, and the lid is made of thin plastic (similar to McDonald's small coffee cups).
 
 
 <span class="atom-split" id="q150" data-atom="q150" data-title="Argent 1997 Locale — Quesito 150" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/4,multidisciplina/multi,object/sphere,object/bubble,object/pipe-tube"></span>
@@ -12017,36 +11526,20 @@ risultati ottenuti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-146. City of Good Airs. Green.
-It has a glass tube closed at one end and filled with water.
-It also has a metric tape, a chronometer clock and a small sphere of
-steel.
-After placing the ball inside the tube, clog it with the rubber stopper in such a way.
-Let there be a little air bubble inside.
-Bend the tube in such a way that the sphere is pointed towards the end with the cap and bubble
-To the closed end.
-When both mobiles are in position, tilt the tube rapidly (30° horizontally) 
-So the mobile phones start moving to the opposite ends.
-It asks:
-(a) To experimentally find the law of variation of position (time-dependent position) of 
-the sphere moving through the inside of the water-filled tube (depreciate the first centimetres, 
-when the movement starts).
-(b) Find the law of variation of position (time-dependent position) of a small 
-air bubble left, by the way, inside the tube.
-(c) Perform the calculations necessary to predict the meeting place and time.
-(d) To represent the position of both mobiles in a single graph in terms of time, 
-Indicating the place and time of meeting.
-(e) Measure the meeting place and time.
-(f) To produce a report describing the full development of the practice (containing all the relevant information)
-(b) the Commission has made a detailed assessment of the errors made and discussed the
-the results obtained.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]], [[Bubble (object)|Bubble]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+146. CITY OF BUENOS AIRES.  GREEN.
+A glass tube closed at one of its ends and filled with water is available.
+There is also a measuring tape, a stopwatch, and a small steel sphere.
+After placing the small sphere inside the tube, plug it with the rubber stopper in such a way that a small air bubble remains inside.
+Tilt the tube so that the sphere moves toward the end with the stopper and the bubble toward the closed end.
+When both moving objects are in position, quickly tilt the tube (30° with the horizontal)
+so that the moving objects begin to move toward the opposite ends.
+It is asked:
+a) Experimentally find the law of variation of the position (position as a function of time) of the sphere moving through the interior of the tube filled with water (neglect the first few centimeters, when the motion begins).
+b) Find the law of variation of the position (position as a function of time) of a small air bubble left, on purpose, inside the tube.
+c) Perform the necessary calculations to predict the place and the instant of meeting.
+d) Represent on the same graph the position of both moving objects as a function of time, indicating place and instant of meeting.
+e) Measure the place and time of meeting.
+f) Produce a report describing the complete development of the practical session (containing all the previous items), carrying out an appropriate study of the errors made and discussing the results obtained.
 
 
 <span class="atom-split" id="q151" data-atom="q151" data-title="Argent 1997 Locale — Quesito 151" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
@@ -12986,21 +12479,12 @@ La scelta, i valori ottenuti, le fonti di errore e il risultato dell'esperienza.
 
 <div class="qlang-split" data-lang="en"></div>
 
-161. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-Determine the friction force between the cart and the support table by using the following 
-materials:
-- cart with known elastic constant spring (indicated on the cart)
-- the metric tape
+161. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+Determine the friction force between the cart and the support table, using the following materials:
+- cart with a spring of known spring constant (indicated on the cart)
+- measuring tape
 - hammer
-Note: a report must be submitted which clearly describes the procedure 
-The results of the study are as follows:
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Cart (object)|Cart]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+Note: a report must be submitted clearly describing the chosen procedure, the values obtained, sources of error and the result of the experiment.
 
 
 <span class="atom-split" id="q166" data-atom="q166" data-title="Argent 1997 Locale — Quesito 166" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono"></span>
@@ -13060,29 +12544,22 @@ c) Risultato sperimentale della richiesta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-162. The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to fulfil its obligations under this Regulation. Blue.
-The objective:
+162. CITY OF CÓRDOBA, CÓRDOBA.  BLUE.
+Objective:
 Calculation of the density of a solid body
-Material:
+Materials:
 Water
 Support base
 Solid body
-Non-graduated recipient
-The syringe
-Other
+Unmarked container
+Syringe
+Thread
 Requirements:
-You can only use the items offered, paper, pencil and calculator.
+You may only use the items provided, paper, pencil and calculator.
 You must submit a report stating:
-(a) Experimental method used.
-(b) Values obtained from measurements made indicating the estimated error.
-(c) Experimental result of the requested product.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+a) Experimental method used.
+b) Values obtained in the measurements made, indicating the estimated error.
+c) Experimental result of what was requested.
 
 
 <span class="atom-split" id="q167" data-atom="q167" data-title="Argent 1997 Locale — Quesito 167" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/tank-container"></span>
@@ -13251,29 +12728,21 @@ Presentare i risultati in un rapporto contenente:
 
 <div class="qlang-split" data-lang="en"></div>
 
-164. Saint Saviour, the Jew. Blue and green.
+164. SAN SALVADOR, JUJUY.  BLUE AND GREEN.
 Determination of the specific weight of an irregular body.
-Objective: Determine the specific weight of the sample using only the elements 
-provided.
-Elements to be used:
-- Dynamometer is on the way.
--Immoral body
-- The receiver
+Objective: Determine the specific weight of the given sample using only the provided elements.
+Elements to use:
+-Dynamometer
+-Irregular body
+- Container
 - Water
-- It's a nylon thread.
-Report to the Commission:
+- Nylon thread.
+Report:
 Present the results in a report containing:
-1- Description of the procedure chosen.
-2- Experimental values obtained from direct measurements made by you.
-3- Error sources and analysis of how they influence the result.
-5- Experimental result of the requested product.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+1- Description of the chosen procedure.
+2- The experimental values obtained by direct measurements made by you.
+3- Sources of error and analysis of how they influence the result.
+5- Experimental result of what was requested.
 
 
 <span class="atom-split" id="q169" data-atom="q169" data-title="Argent 1997 Locale — Quesito 169" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/spring"></span>
@@ -13308,28 +12777,19 @@ cuadrado del período en función de la masa suspendida.
 
 <div class="qlang-split" data-lang="it"></div>
 
-165. Variate località, la PAMPA. Blu e verde.
-Costante elastica di un molo lineare
-Quando un corpo di massa (m) è sospeso da un molo lineare e lo separa dal suo
-posizione di equilibrio, quando rilasciata oscilla con un periodo dato da:
-che può essere indubbiamente espressa come:
-dove (k) è una costante che caratterizza il molo impiegato e che serve a determinare il
-La Commissione ha adottato una decisione che prevede che il programma di lavoro di cui all'articolo 1 del regolamento (UE) n.
-- Un molo lineare di costante elastica (k ), da determinare.
-- Una base per montare il sistema.
-- Un supporto di massa da determinare, dove incorporare corpi per il fine di variare la massa 
-- Non ci sono.
-- Sei masse di 10 grammi.
+165. VARIE LOCALITÀ, LA PAMPA. AZZURRO E VERDE.
+Costante elastica di una molla lineare
+Quando un corpo di massa ( m ) è sospeso a una molla lineare e viene allontanato dalla sua posizione di equilibrio, lasciandolo libero oscilla con un periodo dato da:
+che indubbiamente può essere espresso come:
+dove ( k ) è una costante che caratterizza la molla utilizzata e che si intende determinare nel corso di questo lavoro, per cui si dispone dei seguenti elementi:
+- Una molla lineare di costante elastica ( k ), da determinare.
+- Una base per il montaggio del sistema.
+- Un supporto di massa da determinare, su cui inserire corpi allo scopo di variare la massa sospesa.
+- Sei masse da 10 grammi.
 - Un cronometro.
 Suggerimento:
-Per determinare la costante richiesta, dopo aver rappresentato graficamente il 
-quadrato del periodo in funzione della massa sospesa.
+Effettuare la determinazione della costante richiesta dopo aver rappresentato graficamente il quadrato del periodo in funzione della massa sospesa.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -13993,23 +13453,14 @@ fornire un rapporto in cui si trovi,
 
 <div class="qlang-split" data-lang="en"></div>
 
-171. I'm not going to be able to do this. Blue and green.
-Objective: Determine the value of the acceleration of gravity g.
-Elements: 1 tripod, 1 nut, 1 axis, 1 nut, thread, 1 rule of 30 cm length, paper 
-The Commission has decided to adopt a decision on the conclusion of the Agreement on the European Economic Area.
-Requirements: Only with the items offered. At the end of the experience, you will be required to
-to submit a report where it is contained,
-- The problem is being raised
+171. SAN CARLOS DE BARILOCHE, RÍO NEGRO.  BLUE AND GREEN.
+Objective: To determine the value of the acceleration due to gravity g.
+Elements: 1 tripod, 1 bosshead, 1 rod, 1 nut, thread, 1 ruler 30 cm long, graph paper, adhesive tape, 1 stopwatch (clock), calculator.
+Requirements: Only with the elements provided. At the end of the experiment, a report must be submitted containing,
+- Statement of the problem
 - Experimental method used
-- Value obtained from measurements made
-- Any comments you want.
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+- Values obtained in the measurements made
+- Comments you wish
 
 
 <span class="atom-split" id="q176" data-atom="q176" data-title="Argent 1997 Locale — Quesito 176" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/3,multidisciplina/mono,object/sphere"></span>
@@ -14061,45 +13512,25 @@ Stokes.
 
 <div class="qlang-split" data-lang="it"></div>
 
-172. Rosario, Santa Fede. Blu e verde.
-Vescità
-In questo lavoro di laboratorio ti viene chiesto di determinare la viscosità del detergente.
-Per farlo, è possibile disporre dei seguenti elementi:
-di vetro o di tubo
-detergente (D = 1050 ± 10 ) kg/m3
-di cui al paragrafo 1, lettera a), del regolamento (UE) n.
-di un calibro o di uno scheggio micrometrico
-cronometro
-carta di millimetro
+172. ROSARIO, SANTA FE.  AZZURRO E VERDE.
+Viscosità
+In questo lavoro di laboratorio ti viene chiesto di determinare la viscosità del detersivo.
+Per farlo disponi dei seguenti elementi:
+provetta o tubo di vetro detersivo ( D = 1050 ± 10 ) kg/m3 sferette (D = 7700 ± 100 ) kg/m3 calibro o vite micrometrica cronometro carta millimetrata
 Strumenti opzionali:
-termometro
-bilancia digitale
-Devi presentare un rapporto di lavoro in cui descrivi tutti il più chiaramente possibile.
-Le misure e le prove che hai seguito durante l'esperimento, giustificando teoricamente le misure e le misure
-i calcoli che hai fatto e il risultato ottenuto.
+termometro bilancia digitale
+Devi presentare una relazione del lavoro in cui descrivi nel modo più chiaro possibile tutti i passaggi che hai seguito durante l'esperimento, giustificando teoricamente le misurazioni e i calcoli che hai eseguito e il risultato ottenuto.
 Informazioni utili
-Quando un corpo si lascia cadere in un fluido viscoso a riposo descrive un movimento rettilineo
-variato e poi un movimento rettilineo uniforme con una certa velocità, denominata velocità
-limite o terminale.
-Quando un corpo sferico si muove a velocità relativamente piccole attraverso un
-liquido viscoso a riposo, sul corpo agisce una forza resistente a causa della viscosità, che
-è data dalla seguente espressione:
+Quando un corpo viene lasciato cadere in un fluido viscoso in quiete descrive un moto rettilineo vario e poi un moto rettilineo uniforme con una certa velocità, denominata velocità limite o terminale.
+Quando un corpo sferico si muove con velocità relativamente piccole attraverso un liquido viscoso in quiete, sul corpo agisce una forza resistente dovuta alla viscosità, che è data dalla seguente espressione:
 
-F = 6πηrv
-dove:
-η: coefficiente di viscosità o di rottura del liquido (dipendendo dalla natura del liquido e 
-ha un valore determinato per ogni temperatura)
-r: radius del corpo sferico
-v: velocità del corpo sferico rispetto al liquido
-Questa relazione fu dedotta per la prima volta da Sir George Stokes nel 1845 ed è chiamata Legge di
+F = 6πηrv dove:
+η : coefficiente di viscosità o di attrito del liquido ( dipende dalla natura del liquido e ha un valore determinato per ogni temperatura )
+r : raggio del corpo sferico v : velocità del corpo sferico rispetto al liquido
+Questa relazione fu dedotta per la prima volta da Sir George Stokes nel 1845 e si denomina Legge di
 Stokes.
 [ η ] = Pa.s
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -14271,21 +13702,12 @@ Le considerazioni che ha dovuto fare, le difficoltà che ha incontrato e le conc
 
 <div class="qlang-split" data-lang="en"></div>
 
-174. Monteros, you know. Blue and green.
-It is necessary to determine the weight of a body A and it has a spring, and a graduated scale and
-of various weights (calibrated).
-Design the experience to allow you to determine that weight.
-What's the body weight?
-Express that sum (with the corresponding error or uncertainty)
-Write a brief report of everything you've done, including the outline of the device you've used.
-The Commission's proposals for a directive on the protection of workers' rights and the rights of workers were not accepted.
-
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1S3VUKxZZOj0mq-1McHpKCLEkAMp8B_a3/view)
-
+174. MONTEROS, TUCUMÁN.  BLUE AND GREEN.
+The weight of a body A needs to be determined, and a spring is available, along with a graduated scale and several (calibrated) weights.
+Design the experiment that allows you to determine that weight.
+What is the weight of the body?
+Express that value with its bound (with the corresponding error or uncertainty).
+Write a brief report on everything done, including the diagram of the device used, the considerations you had to make, the difficulties you encountered, and the conclusions.
 
 
 <span class="atom-split" id="q179" data-atom="q179" data-title="Argent 1997 Locale — Quesito 179" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono,object/pendulum"></span>

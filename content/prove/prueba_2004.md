@@ -116,196 +116,112 @@ La constante de gravitación universal es $G = 6{,}67\times10^{-11}\ \text{m}^3/
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1: Viaggio alle stelle
+Problema 1: Viaggio verso le Stelle
 
-La serie televisiva "Viaggio alle stelle" è stata motivo di interessante discussione
-La Commissione ha adottato una proposta di regolamento (CE) n.
-dispone dell'equipaggio della nave Enterprise. Tra i più importanti di questi
-La produzione di energia da annientamento di materia antimateriale, la produzione di energia da annientamento di materia antimateriale, la produzione di energia da annientamento di materia antimateriale e la produzione di energia da annientamento di materia antimateriale,
-Teletrasportatore, il holodeck che consente di costruire hologramme di materia (non solo di
-la luce, come si può attualmente), ecc.
+La serie televisiva "Viaggio verso le Stelle" è stata motivo di interessanti discussioni sulla fattibilità scientifica e tecnologica delle risorse operative di cui dispone l'equipaggio dell'astronave Enterprise. Tra le più notevoli di queste risorse si distinguono il generatore di potenza per annichilazione materia-antimateria, il teletrasporto, l'holodeck che permette di costruire ologrammi di materia (non solo di luce, come attualmente è possibile), ecc.
 
-Un fatto molto significativo, almeno per l'autore di questo problema, è che i
-gli occupanti della nave Enterprise, indipendentemente dal luogo di spazio in cui essa si trova
-Si trova, si sente sempre l'azione di un campo gravitazionale simile a quello terrestre, il
-che permette loro di spostarsi in tutta la nave senza maggiori inconvenienti.
+Un fatto estremamente singolare, almeno per l'autore di questo problema, è che gli occupanti dell'astronave Enterprise, indipendentemente dal luogo dello spazio in cui essa si trovi, sentono sempre l'azione di un campo gravitazionale simile a quello terrestre, il quale permette loro di spostarsi per tutta l'astronave, senza maggiori inconvenienti.
 
-Il problema che si pone oggi è quello di analizzare, dal punto di vista fisico, due
-possibili modelli di costruzione della nave Enterprise, per far sì che ciò accada:
+Il presente problema ha per obiettivo analizzare, dal punto di vista fisico, due possibili modelli di costruzione dell'astronave Enterprise, affinché ciò avvenga:
 
-Modello I: Supponiamo che la nave Enterprise, di massa $m = 2{,}0\times10^7\ \text{kg}$, trascinerà
-con essa una sfera di massa $M$, come mostrato in figura 1, costruita da
-un materiale di elevata densità, $\rho$.
+Modello I: Supponiamo che l'astronave Enterprise, di massa $m = 2{,}0\times10^7\ \text{kg}$, trascini con sé una sfera di massa $M$, come mostrato nella Figura 1, costruita con un materiale di altissima densità, $\rho$.
 
 Figura 1
 
-La sfera, radio $R = 500\ \text{m}$, è saldamente legata alla nave. Inoltre, questa ha due
-motori per la sua propulsione.
+La sfera, di raggio $R = 500\ \text{m}$, è saldamente unita all'astronave. Inoltre, questa possiede due motori per la sua propulsione.
 
-a) Calcolare la massa $M$ di tale sfera in modo che il campo gravitazionale che
-genera sul pavimento della nave, corrisponde ad un'accelerazione gravitazionale uguale
-$0{,}8g$, dove $g$ è l'accelerazione della gravità terrestre, che prenderemo uguale a
-$g = 9{,}8\ \text{m/s}^2$. Valutare il valore della densità del materiale con cui è costruita la struttura
-sfera.
+a) Calcolare la massa $M$ di detta sfera affinché il campo gravitazionale che essa genera sul pavimento dell'astronave corrisponda a un'accelerazione gravitazionale pari a
+$0{,}8g$, dove $g$ è l'accelerazione di gravità terrestre, che assumeremo uguale a
+$g = 9{,}8\ \text{m/s}^2$. Valutare il valore della densità del materiale con cui è costruita la sfera.
 
-Scommette ogni effetto gravitazionale dovuto alla massa della nave Enterprise.
-Modello II: Motori della nave Enterprise, anche di massa $m = 2{,}0\times10^7\ \text{kg}$,
-permiten que ésta se desplace permanentemente con una aceleración $a$ de magnitud
-inferiore o uguale a $a_\text{max} = 0{,}8g$, in modo che tale accelerazione si senta derivata da un
-campo gravitazionale costante (vedi Figura 2). Ricorda cosa ti succede.
-Quando si sta in un colletivo e il guidatore si accelera!
+Trascurare ogni effetto gravitazionale dovuto alla massa dell'astronave Enterprise.
+Modello II: I motori dell'astronave Enterprise, anch'essa di massa $m = 2{,}0\times10^7\ \text{kg}$, permettono che questa si sposti permanentemente con un'accelerazione $a$ di modulo minore o uguale a $a_\text{max} = 0{,}8g$, cosicché tale accelerazione venga percepita come dovuta a un campo gravitazionale costante (vedi Figura 2). Tenete presente ciò che vi succede
+quando siete in piedi su un autobus e l'autista accelera!
 
 Figura 2
 
-Supponiamo che la missione dell'equipaggio dell'Enterprise sia di percorrere in linea retta una
-Distanza $D = 6{,}0\times10^{11}\ \text{km}$ in un tempo $T = 1{,}6\times10^7\ \text{s}$. A seconda di quale dei due
-Se l'Enterprise si costruisce in due modi, il Capitano deve realizzare diversi modi.
-piani di volo.
+Supponete che la missione dell'equipaggio dell'Enterprise sia percorrere in linea retta una distanza $D = 6{,}0\times10^{11}\ \text{km}$ in un tempo $T = 1{,}6\times10^7\ \text{s}$. A seconda di quale dei due modi di costruzione dell'Enterprise venga utilizzato, il Capitano deve realizzare diversi piani di volo.
 
-Se la nave è stata costruita secondo il modello I, il viaggio è pianificato dal seguente punto:
-forma: la nave, inizialmente a riposo, accelera per un tempo $T_a$ con una
-Accelerazione pari a $0{,}6g$; quindi, per un tempo $T_u$ il viaggio è effettuato a velocità
-costante, $v_f$.
+Se l'astronave è stata costruita secondo il modello I, il viaggio viene pianificato nel modo seguente: l'astronave, inizialmente in quiete, accelera per un tempo $T_a$ con un'accelerazione pari a $0{,}6g$; poi, per un tempo $T_u$ il viaggio avviene a velocità costante, $v_f$.
 
-b) Calcolare i tempi $T_a$ e $T_u$ e determinare il modulo della velocità $v_f$ a cui
-si percorre il percorso in cui il movimento è a velocità costante.
+b) Calcolare i tempi $T_a$ e $T_u$ e determinare il modulo della velocità $v_f$ alla quale viene percorso il tratto in cui il moto avviene a velocità costante.
 
-c) Calcolare l'energia totale consumata dai motori della nave in questo caso.
+c) Calcolare l'energia totale consumata dai motori dell'astronave in questo caso.
 
-Se la nave Enterprise è stata costruita secondo il modello II,
+Se l'astronave Enterprise è stata costruita secondo il modello II,
 
-d) Determina l'accelerazione da fornire alla nave per soddisfare le condizioni di
-Proposta di missione. Supponiamo di nuovo che la nave sia inizialmente a riposo.
+d) Determinare l'accelerazione che deve essere impartita all'astronave, per adempiere alla missione proposta. Supporre nuovamente che l'astronave sia inizialmente in quiete.
 
-e) In questo caso calcola l'energia totale consumata dai motori della nave.
+e) In questo caso, calcolare l'energia totale consumata dai motori dell'astronave.
 
-f) Si Ud. Infine, se si tratta di finanziare i viaggi dell'Enterprise, quale dei due modi di
-La costruzione richiederebbe? giustifica la tua risposta.
+f) Se Lei dovesse finanziare i viaggi dell'Enterprise, quale dei due modi di costruzione richiederebbe? Giustificare la risposta.
 
-In tutti i casi, si suppone che la nave viaggia solo su rotte dirette e che non realizza
-movimenti di rotazione. Inoltre, non si considerano fasi di frenata, poiché la missione
-consiste solo nell'acquistersi di un sito situato a una distanza $D$; non nel posare su
-un pianeta in posizione.
+In tutti i casi supporre che l'astronave viaggi solo su tragitti rettilinei e che non effettui movimenti di rotazione. Inoltre, non considerare le fasi di frenata, poiché la missione consiste solo nell'avvicinarsi a un sito situato a una distanza $D$; non nel posarsi su un pianeta situato nel sito.
 Figura 3
 
-Supponiamo che nel primo modello della nave Enterprise, si collochi un tavolo con
-una pista retta su cui può scivolare senza rottura, su una delle sue facce, un
-Disco di massa $\mu = 1\ \text{kg}$; vedere figura 3 (Il disegno non è a scala!). Questo disco
-Si lascia a riposo sulla pista vicino al bordo del tavolo e si osserva che fa un
-movimento oscilante, senza cadere dal tavolo.
+Supporre ora che nel primo modello dell'astronave Enterprise, si collochi un tavolo con una pista rettilinea sulla quale può scivolare senza attrito, su una delle sue facce, un piccolo disco di massa $\mu = 1\ \text{kg}$ ; vedere figura 3 (Il disegno non è in scala !). Questo disco viene lasciato in quiete sulla pista vicino al bordo del tavolo e si osserva che effettua un movimento oscillatorio, senza cadere dal tavolo.
 
-(g) giustifica che tale movimento oscilante è possibile e calcola il periodo di
-l'oscillazione di tale movimento. Per l'ultimo, distinguere le due situazioni:
-quando il movimento della nave è uniforme e (ii) quando la nave è accelerata.
+g) Giustificare che tale movimento oscillatorio è possibile e calcolare il periodo di oscillazione di detto movimento. Per quest'ultimo, distinguere le due situazioni: i)
+quando il movimento dell'astronave è uniforme, e ii) quando l'astronave è accelerata.
 
-Considera che il modulo della forza totale che agisce sul disco è costante,
-disprezzando così la distanza tra il centro del disco e il suolo della nave,
-in altre parole, considerare $R' \approx R$.
+Si consideri che il modulo della forza totale che agisce sul disco è costante, trascurando in questo modo la distanza tra il centro del disco e il suolo dell'astronave, cioè si consideri $R' \approx R$.
 
 La costante di gravitazione universale è $G = 6{,}67\times10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$.
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Disk (object)|Disk]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: Travel to the Stars
+Problem 1: Star Trek
 
-The TV series "Journey to the Stars" has been the subject of interesting discussion
-The Commission has also adopted a proposal for a regulation on the scientific and technological feasibility of the operational resources of the
-The Enterprise crew is at your disposal. Among the most outstanding of these
-The main sources of energy are the power generator by annihilation of antimatter, the
-The holodeck allows building holograms of matter (not only of
-The Commission has already adopted a number of proposals for the amendment.
+The television series "Star Trek" has been the subject of interesting discussions about the scientific and technological feasibility of the operational resources available to the crew of the Enterprise. Among the most outstanding of these resources are the matter-antimatter annihilation power generator, the transporter, the holodeck that allows the construction of matter holograms (not just light, as is currently possible), etc.
 
-The Commission has already made a number of proposals for a directive on the protection of the environment.
-Enterprise occupants, regardless of the space location where the Enterprise is located.
-You're always feeling the action of a gravitational field similar to Earth's, the
-This allows them to navigate the entire ship without any major inconvenience.
+A highly striking fact, at least for the author of this problem, is that the occupants of the Enterprise, regardless of the location in space where it is, always feel the action of a gravitational field similar to Earth's, which allows them to move throughout the ship without major inconveniences.
 
-The objective of this problem is to analyse, from a physical point of view, two
-possible Enterprise ship building models, so that this happens:
+The purpose of this problem is to analyze, from a physical point of view, two possible construction models of the Enterprise, so that this occurs:
 
-Model I: Suppose the Enterprise, with mass $m = 2{,}0\times10^7\ \text{kg}$, is dragging
-a mass sphere $M$, as shown in Figure 1, constructed from
-a material of very high density, $\rho$.
+Model I: Suppose that the Enterprise, of mass $m = 2{,}0\times10^7\ \text{kg}$, drags along with it a sphere of mass $M$, as shown in Figure 1, made of a material of very high density, $\rho$.
 
 Figure 1
 
-La esfera, de radio $R = 500\ \text{m}$, está firmemente unida a la nave. Besides, this one, it has two
-engines for propulsion.
+The sphere, of radius $R = 500\ \text{m}$, is firmly attached to the ship. Furthermore, the ship has two engines for its propulsion.
 
-(a) Calculate the mass $M$ of that sphere so that the gravitational field that
-generates on the floor of the ship, corresponding to an equal gravitational acceleration
-$0{,}8g$, where $g$ is the acceleration of Earth's gravity, which we'll take equal to
-$g = 9{,}8\ \text{m/s}^2$. Assess the density value of the material from which the building is constructed.
-The sphere.
+a) Calculate the mass $M$ of said sphere so that the gravitational field it generates on the floor of the ship corresponds to a gravitational acceleration equal to
+$0{,}8g$, where $g$ is the Earth's gravitational acceleration, which we will take as equal to
+$g = 9{,}8\ \text{m/s}^2$. Evaluate the value of the density of the material with which the sphere is built.
 
-Disregard any gravitational effects due to the mass of the Enterprise.
-Model II: Enterprise engines, also of $m = 2{,}0\times10^7\ \text{kg}$ mass,
-allow it to move permanently at a magnitude $a$ acceleration
-less than or equal to $a_\text{max} = 0{,}8g$, so that this acceleration is felt to be due to a
-The gravitational field is constant (see Figure 2). Keep in mind what's happening to you.
-When you're standing in a crowd and the driver is speeding up!
+Neglect any gravitational effect due to the mass of the Enterprise ship.
+Model II: The engines of the Enterprise ship, also of mass $m = 2{,}0\times10^7\ \text{kg}$, allow it to move permanently with an acceleration $a$ of magnitude less than or equal to $a_\text{max} = 0{,}8g$, so that this acceleration is felt as due to a constant gravitational field (see Figure 2). Keep in mind what happens to you
+when you are standing on a bus and the driver accelerates!
 
 Figure 2
 
-Suppose the mission of the Enterprise crew is to travel in a straight line one
-The distance $D = 6{,}0\times10^{11}\ \text{km}$ at a time $T = 1{,}6\times10^7\ \text{s}$. Depending on which of the
-Two modes of construction of the Enterprise are used, the Captain must perform different
-flight plans.
+Suppose that the mission of the Enterprise crew is to travel in a straight line a distance $D = 6{,}0\times10^{11}\ \text{km}$ in a time $T = 1{,}6\times10^7\ \text{s}$. Depending on which of the two modes of construction of the Enterprise is used, the Captain must carry out different flight plans.
 
-If the ship has been built in accordance with Model I, the journey is planned from the following
-shape: the ship, initially at rest, accelerates for a time $T_a$ with a
-acceleration equal to $0{,}6g$; then, for a time $T_u$ the journey is made at speed
-constante, $v_f$.
+If the ship has been built according to model I, the trip is planned as follows: the ship, initially at rest, accelerates for a time $T_a$ with an acceleration equal to $0{,}6g$; then, for a time $T_u$ the trip is made at constant speed, $v_f$.
 
-(b) Calculate the $T_a$ and $T_u$ times and determine the speed module $v_f$ at which
-The path is the path where the motion is constant.
+b) Calculate the times $T_a$ and $T_u$ and determine the magnitude of the speed $v_f$ at which the segment in which the motion is at constant speed is traveled.
 
-(c) Calculate the total energy consumed by the engines of the ship in this case.
+c) Calculate the total energy consumed by the ship's engines in this case.
 
-If the Enterprise has been built in accordance with Model II,
+If the Enterprise ship has been built according to model II,
 
-(d) Determine the acceleration to be given to the vessel in order to comply with the
-proposed mission. Suppose again that the ship is initially at rest.
+d) Determine the acceleration that must be imparted to the ship, in order to fulfill the proposed mission. Assume again that the ship is initially at rest.
 
-(e) In this case, calculate the total energy consumed by the engines of the ship.
+e) In this case, calculate the total energy consumed by the ship's engines.
 
-f) Si Ud. The Commission's proposal for a directive on the environment and the environment is therefore not an adequate one.
-construction would require? Justify your answer.
+f) If you were to finance the Enterprise's trips, which of the two construction modes would you require? Justify your answer.
 
-In all cases it assumes that the ship is only travelling on straight routes and that it does not
-rotational movements. In addition, it does not consider braking stages, since the mission
-It consists only of approaching a site at a distance $D$; not of landing on
-A planet located in the site.
+In all cases assume that the ship only travels along straight paths and does not perform rotational movements. Furthermore, do not consider braking stages, since the mission consists only of approaching a site located at a distance $D$; not in landing on a planet located at the site.
 Figure 3
 
-Now suppose that in the first model of the Enterprise, you put a table with
-A straight track over which it can slide without a scratch, over one of its faces, a
-small disk of mass $\mu = 1\ \text{kg}$; see figure 3 (The drawing is not on scale!). This record
-He's left to rest on the track near the edge of the table and you see him doing a
-oscillatory motion, without falling off the table.
+Assume now that in the first model of the Enterprise ship, a table with a straight track is placed on one of its faces, on which a small disk of mass $\mu = 1\ \text{kg}$ can slide without friction; see figure 3 (The drawing is not to scale!). This disk is left at rest on the track near the edge of the table and it is observed that it performs an oscillatory motion, without falling off the table.
 
-(g) justify that such oscillatory movement is possible and calculate the period of
-The motion of the object is oscillating. For the latter, distinguish between the two situations:
-(ii) when the ship is accelerated.
+g) Justify that such oscillatory motion is possible and calculate the period of oscillation of said motion. For the latter, distinguish the two situations: i)
+when the ship's motion is uniform, and ii) when the ship is accelerated.
 
-Consider that the modulus of the total force acting on the disc is constant,
-By thus disregarding the distance between the center of the disc and the floor of the ship,
-i.e. consider $R' \approx R$.
+Consider that the magnitude of the total force acting on the disk is constant, thus neglecting the distance between the center of the disk and the floor of the ship, that is, consider $R' \approx R$.
 
-The universal gravity constant is $G = 6{,}67\times10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$.
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Disk (object)|Disk]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
-
+The universal gravitational constant is $G = 6{,}67\times10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2004 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,object/pipe-tube,object/piston,object/gas,object/rod"></span>
@@ -647,68 +563,39 @@ magnético terrestr
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3: Energia solare
+Problema 3: Energia Solare
 
-Nella scuola rurale di Cachiyuyo (parage ospitato del nord della Cordoba) alla quale frequentano
-15 alumnos desde $1^\circ$ a $6^\circ$ grado hay uno de los 200 convertidores (distribuidos en tantas
-La Commissione ha adottato una decisione che prevede che le scuole rurali della Cordoba possano essere utilizzate per la trasformazione di energia elettrica. Questi
-i trasformatori sono chiamati pannelli solari.
-Energia elettrica prodotta dai pannelli solari, se non utilizzata da un
-dispositivo elettrico, è conservato in un gruppo di batterie da 12 V. Il schema di
-La connessione del circuito implementato nella scuola è illustrata in figura 1.
+Nella scuola rurale di Cachiyuyo (località inospitale del nord di Córdoba) alla quale frequentano
+15 alunni dalla $1^\circ$ alla $6^\circ$ classe c'è uno dei 200 convertitori (distribuiti in altrettante scuole rurali di Córdoba) di energia luminosa in energia elettrica. Questi convertitori sono denominati pannelli solari.
+L'energia elettrica prodotta nei pannelli solari, se non è utilizzata da qualche apparecchio elettrico, è immagazzinata in un gruppo di batterie da 12 V. Lo schema di collegamento del circuito implementato nella scuola è esposto nella figura 1.
 
 Figura 1
 
-La potenza elettrica prodotta dai pannelli solari dipende dalla luce del giorno.
-La figura 2 mostra la potenza fornita dai pannelli solari. L'area segnata
-in figura corrisponde all'energia prodotta dai pannelli durante le ore di luce
-(tra le 8 e le 18h).
+La potenza elettrica prodotta dai pannelli solari dipende dall'insolazione del giorno.
+Nella figura 2 è stata rappresentata graficamente la potenza fornita dai pannelli solari. L'area marcata nella figura corrisponde all'energia prodotta dai pannelli, durante le ore di luce (tra le 8 e le 18).
 
 Figura 2
 
 Se la lampada $L_1$ è accesa tutto il giorno (24 ore).
-a) Quanti joule di energia consuma in un giorno?
+a) Quanti joule di energia consuma durante un giorno?
 
-Supponiamo che, oltre alla lampada $L_1$, sia accesa la lampada $L_2$.
-b) Quanta corrente circola attraverso il conducente AB indicato in figura 1?
-L'efficienza $\eta$ di un sistema (macchina) è definita come il coefficiente tra il lavoro
-($W$) sull'energia ($E$) fornita a tale sistema. Eso es $\eta = W/E$.
-La disposizione del sistema di pompazione della scuola è riportata nella figura 3. Se
-ha bisogno di pompare 300 litri di acqua dalla napa d'acqua al serbatoio d'acqua della
-scuola. Considerando che l'intero tratto verticale del tubo che porta l'acqua al serbatoio è
-E' pieno di acqua quando si avvia il motore e viene pieno di acqua una volta che si sono versati
-i 300 litri di acqua nel serbatoio:
-c) Quanto tempo il motore impiega per sollevare i 300 litri di acqua dal pozzo al
-se l'efficienza del sistema di pompaggio è $\eta = 0{,}1$?
+Supponiamo che oltre alla lampada $L_1$ sia accesa la lampada $L_2$.
+b) Quanta corrente circola nel conduttore AB indicato nella figura 1?
+L'efficienza $\eta$ di un sistema (macchina) è definita come il rapporto tra il lavoro svolto ($W$) e l'energia ($E$) fornita a quel sistema. Cioè $\eta = W/E$.
+La disposizione del sistema di pompaggio della scuola è rappresentata graficamente nella figura 3. Si devono pompare 300 litri d'acqua dalla falda acquifera fino al serbatoio d'acqua della scuola. Considerando che tutto il tratto verticale del tubo che porta l'acqua al serbatoio è pieno d'acqua quando parte il motore e rimane pieno d'acqua una volta che i 300 litri d'acqua sono stati versati nel serbatoio:
+c) Quanto tempo impiega il motore a sollevare i 300 litri d'acqua dal pozzo al serbatoio se l'efficienza del sistema di pompaggio è $\eta = 0{,}1$?
 
 Figura 3
 
-Supponiamo che un giorno alle 18h quando la scuola di Cachiyuyo si chiude e si
-spegnere tutti gli apparecchi elettrici tranne la lampada $L_1$ le batterie hanno
-la capacità di accumulo di energia $E_0 = 2\times10^6\ \text{J}$. L'altro giorno il sole sorge alle otto del mattino e
-inizia a fornire energia elettrica come indicato in figura 2.
-d) A che ora del giorno le batterie raggiungono il minimo di energia se solo seguono:
-accesa $L_1$?
-e) Quanto vale l'energia? (Espressione il risultato in joules).
+Supponiamo che un certo giorno alle 18 quando la piccola scuola di Cachiyuyo chiude e si spengono tutti gli apparecchi elettrici tranne la lampada $L_1$ le batterie abbiano immagazzinato un'energia $E_0 = 2\times10^6\ \text{J}$. Il giorno successivo il sole sorge alle otto del mattino e inizia a fornire energia elettrica secondo quanto indicato nella figura 2.
+d) A che ora del giorno le batterie raggiungono il minimo di energia se rimane accesa solo $L_1$?
+e) Quanto vale quell'energia? (Esprimi il risultato in joule).
 
-È normale che durante l'inverno ci siano diversi giorni nuvolosi. Supponiamo che quella sia stata la
-la causa per cui tutte le batterie hanno perso tutta l'energia immagazzinata. Per fortuna
-Il sole sorge proprio il giorno in cui è impoverito dare da bere agli animali della terra
-La fattoria della scuola. Per questo è necessario accendere il motore della pompa d'acqua che ha
-un consumo costante $P_m$. Questo motore funziona solo se viene fornito tutta la potenza
-che ha bisogno, $P_m$, se non funziona, si spegne.
-Supponiamo che, con il sole, si comincia a memorizzare energia nelle batterie in base al
-los datos de la Figura 2 y que el único artefacto conectado es la bomba de agua (ni $L_1$
-è acceso). Con questi dati, consigliate alla maestra della scuola di Cachiyuyo di
-che lei conosca:
-f) Qual è l'ora più presto in cui i pannelli solari e le batterie saranno
-in condizioni di fornire al motore la potenza necessaria per funzionare
-Ininterrottamente?
-g) Per quanto tempo il motore del sistema di pompaggio sarà in funzione,
-conta il calcolo e le condizioni di funzionamento della pompa imposte nel
-punto (f)?
-h) Quanti litri di acqua il sistema può pompare nel serbatoio tenendo conto della quantità di acqua che è stata utilizzata per il trasporto di tali prodotti;
-che $\eta = 0{,}1$?
+È usuale durante l'inverno avere diversi giorni nuvolosi. Supponete che questa sia stata la causa per cui tutte le batterie hanno perso tutta l'energia immagazzinata. Per fortuna albeggia soleggiato proprio il giorno in cui è improrogabile dare da bere agli animali della fattoria della scuola. Per fare ciò si deve accendere il motore della pompa dell'acqua che ha un consumo costante $P_m$. Questo motore funziona solo se gli viene fornita tutta la potenza di cui ha bisogno, $P_m$, altrimenti non funziona, si spegne.
+Supponete che, con il sole, inizi ad accumularsi energia nelle batterie secondo i dati della Figura 2 e che l'unico apparecchio collegato sia la pompa dell'acqua (neppure $L_1$ è accesa). Con questi dati consigliate la maestra della scuola di Cachiyuyo affinché lei sappia:
+f) qual è l'ora più precoce in cui i pannelli solari e le batterie saranno in condizioni di fornire, al motore, la potenza di cui ha bisogno per funzionare ininterrottamente?
+g) Fino a che ora starà funzionando il motore del sistema di pompaggio, tenendo conto di quanto calcolato e delle condizioni di funzionamento della pompa imposte al punto f)?
+h) Quanti litri d'acqua potrà pompare il sistema al serbatoio tenendo conto che $\eta = 0{,}1$?
 
 Dati:
 Potenza consumata da:
@@ -716,311 +603,220 @@ $L_1$: $P_1 = 30\ \text{W}$
 $L_2$: $P_2 = 30\ \text{W}$
 Motore $P_m = 200\ \text{W}$
 
-Accelerazione gravitatoria $g = 9{,}8\ \text{m/s}^2$
+Accelerazione di gravità $g = 9{,}8\ \text{m/s}^2$
 Densità dell'acqua
 
 $\delta = 1\ \text{g/cm}^3$
-L'OLIMPIADA ARGENTINA
-Fisica 2004
+OLIMPIADE ARGENTINA
+DI FISICA 2004
 
-OAF 2004
+OAF’2004
 
-PROBRA sperimentale - 18 ottobre 2004
+PROVA SPERIMENTALE - 18 ottobre 2004
 
-- Scrivi il tuo nome su tutti i fogli e elencali.
-- Ricorda che non puoi usare calcolatori programmabili o altri materiali che non possano essere utilizzati da altri Stati membri.
-non è incluso nella prova, se non è per strumenti scritti.
-- Prima di iniziare a risolvere ogni problema, leggi attentamente TUTTA la frase.
-di quello stesso.
+- Scrivete il vostro nome su tutti i fogli e numerateli.
+- Ricordate che non potete utilizzare calcolatrici programmabili né qualsiasi altro materiale non incluso nella prova, a parte gli strumenti di scrittura.
+- Prima di iniziare a risolvere ogni problema leggete attentamente TUTTO l'enunciato dello stesso.
 
 Nome:
 
 Numero totale di fogli consegnati:
-Campo magnetico  momenti magnetici
+Campi magnetici – momenti magnetici
 
 1. Obiettivo
 
-L'obiettivo di questo test sperimentale è determinare il momento magnetico di un
-Il valore del campo magnetico terrestre è il valore del componente orizzontale del campo magnetico terrestre.
+L'obiettivo di questa prova sperimentale è determinare il momento magnetico di un magnete permanente e il valore della componente orizzontale del campo magnetico terrestre.
 
 2. Teoria
 
-Un magnete permanente sospeso dal suo centro di massa nel seno di un campo
-magnético externo homogéneo $H$ se orientará, de la manera que lo hace la flecha de una
-Compassa, nella direzione e nel senso della stessa. Se lo si toglie da tale posizione di
-equilibrio il magnete inizierà a oscillare. In questa situazione il campo magnetico $H$ esercita
-un torque di ripristino dato da:
+Un magnete permanente sospeso per il suo centro di massa all'interno di un campo magnetico esterno omogeneo $H$ si orienterà, come fa la freccia di una bussola, nella direzione e nel verso dello stesso. Se lo si allontana da tale posizione di equilibrio il magnete inizierà a oscillare. In questa situazione il campo magnetico $H$ esercita un momento torcente di richiamo dato da:
 $$\tau = m_H H \sin\theta \qquad [1]$$
 
-essendo $m_H$ il momento magnetico associato al magnete permanente e $\theta$ l'angolo
-compreso tra il vettore del momento magnetico e il vettore del campo magnetico esterno.
+essendo $m_H$ il momento magnetico associato al magnete permanente e $\theta$ l'angolo compreso tra il vettore momento magnetico e il vettore campo magnetico esterno.
 
-Nel limite di piccole oscillazioni, $\sin\theta$ può essere avvicinato da $\theta$ risultando:
+Nel limite delle piccole oscillazioni, $\sin\theta$ si può approssimare con $\theta$ ottenendo:
 $$\tau \approx m_H H\, \theta \qquad [2]$$
 
-Dalle equazioni di movimento che ci danno la meccanica dimostra che la
-la frequenza angolare di oscillazione è data dalla seguente espressione:
+A partire dalle equazioni del moto che ci fornisce la meccanica si dimostra che la frequenza angolare di oscillazione è data dalla seguente espressione:
 
 $$\omega^2 = \left(\frac{2\pi}{T}\right)^2 = \frac{m_H H}{I} \qquad [3]$$
 
-in cui $I$ è il momento di inerzia del magnete permanente e $T$ è il periodo di oscillazione.
+dove $I$ è il momento d'inerzia del magnete permanente e $T$ è il periodo di oscillazione.
 
-Un modo per generare un campo magnetico esterno omogeneo, di magnitudo uguale o
-più grande del campo magnetico terrestre, è attraverso un sistema noto come
-- E' il coil di Helmholtz.
+Un modo per generare un campo magnetico esterno omogeneo, di grandezza uguale o maggiore del campo magnetico terrestre, è tramite un sistema noto come bobina di Helmholtz.
 
-Un coil di Helmholtz consiste di due spirale circolari di radio $R$ separate da
-una distanza pari al suo raggio. Se entrambi i bobini hanno un numero di giri uguale a $N$ e
-Per entrambi gli spirati si circola una stessa corrente $i$ (in la stessa direzione),
-Il campo magnetico al centro tra le due spire è uniforme all'interno di un volume
-di radio $R$. Il valore di questo campo viene dato da:
+Una bobina di Helmholtz consiste di due spire circolari di raggio $R$ separate da una distanza uguale al loro raggio. Se entrambe le bobine hanno un numero di spire uguale a $N$ e attraverso entrambe le spire circola la stessa corrente $i$ (nello stesso verso), si ha che il campo magnetico al centro tra le due spire è uniforme all'interno di un volume di raggio $R$. Il valore di quel campo è dato da:
 $$H_Z = \frac{32}{\sqrt{125}}\times10^{-6}\,\pi\,\frac{N i}{R} \qquad [4]$$
 
 $$[i] = \text{mA}, \quad [H] = \text{Gauss}, \quad [R] = \text{m}$$
 
-dove $z$ è la direzione lungo l'asse delle bobine. Il senso del vettore $H$ dipende
-di direzione di circolazione del corrente.
+dove $z$ è la direzione lungo l'asse delle bobine. Il verso del vettore $H$ dipende dalla direzione di circolazione della corrente.
 
 3. Lista dei materiali
 
 -
 Un magnete permanente.
 -
-Un coil di Helmholtz.
+Una bobina di Helmholtz.
 -
 Un cronometro.
 -
-Una fonte di tensione variabile.
+Una sorgente di tensione variabile.
 -
 Un multimetro.
 -
-Cable di connessione.
+Cavo di collegamento.
 -
-Foli di carta bianca e millimetrica.
+Fogli di carta bianca e millimetrata.
 
-Leggi TUTTE le istruzioni prima di iniziare
+Leggere TUTTE le istruzioni PRIMA di iniziare
 
 4. Procedura sperimentale
 
-1- Armati il circuito come mostrato in Figura 1.
-2- Determina la posizione di equilibrio del magnete in assenza del campo magnetico
-generato dalle bobine. Fissa, come ritiene opportuno, la posizione relativa del
-magnetico rispetto all'asse delle bobine.
-3- Con la posizione fissata nell'itto 2, chiudi il circuito e misura il periodo di
-oscillazione del magnete permanente per diversi valori di campo magnetico
-externo $H$. Questo è ottenuto variando il corrente che circola attraverso la bobina di
-- Helmholtz. - Cosa?
-4- Per variare il corrente che circola attraverso le bobine si dispone di una fonte (vedi
-Figura 2) che può generare differenze di tensione tra 1,5 e 9 V. Inoltre il
-dispositivo, dove sono le bobine, ha due uscite che consentono di variare
-resistenza del circuito.
+1- Montare il circuito come mostrato nella Figura 1.
+2- Determinare la posizione di equilibrio del magnete in assenza del campo magnetico generato dalle bobine. Fissare, come si ritiene opportuno, la posizione relativa del magnete rispetto all'asse delle bobine.
+3- Con la posizione fissata al punto 2, chiudere il circuito e misurare il periodo di oscillazione del magnete permanente per diversi valori di campo magnetico esterno $H$. Ciò si ottiene variando la corrente che circola nella bobina di
+Helmholtz.
+4- Per variare la corrente che circola nelle bobine si dispone di un alimentatore (vedi
+Figura 2) che può generare differenze di tensione tra 1,5 e 9 V. Inoltre il dispositivo, in cui si trovano le bobine, dispone di due uscite che permettono di variare la resistenza del circuito.
 
-5. Richieste
+5. Requisiti
 
-a- Disegna in figura 1 la direzione e il senso della posizione di equilibrio
-La misurazione è stata determinata dal punto 2 della procedura sperimentale.
-b- Registra in una tabella i valori di corrente e di periodo corrispondenti.
-c- Calcolare la magnitudine del campo magnetico generato dalla bobina di Helmholtz
-per ciascuna corrente utilizzata e i rispettivi $\omega^2$.
-Configuri una tabella con questi valori.
-d- Grafico $\omega^2$ in funzione del campo magnetico generato dalle bobine di
-- Helmholtz. - Cosa?
-e- Calcolare il momento di inerzia del magnetico.
-f- Sulla grafica si determina il valore della componente orizzontale del campo
-Magnetico terrestre
+a- Disegnare nella Figura 1 la direzione e il verso della posizione di equilibrio determinata al punto 2 della procedura sperimentale.
+b- Registrare in una tabella i valori di corrente e il periodo corrispondente.
+c- Calcolare il modulo del campo magnetico generato dalla bobina di Helmholtz per ciascuna delle correnti utilizzate e i rispettivi $\omega^2$.
+Compilare una tabella con tali valori.
+d- Tracciare il grafico di $\omega^2$ in funzione del campo magnetico generato dalle bobine di
+Helmholtz.
+e- Calcolare il momento d'inerzia del magnete.
+f- A partire dal grafico determinare il valore della componente orizzontale del campo magnetico terrestre
 
-**Topic:** [[Circuits]], [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: Solar energy
+Problem 3: Solar Energy
 
-In the rural school of Cachiyuyo (a hostile northern Cordovan area) where students attend
-15 students from $1^\circ$ to $6^\circ$ grade are one of the 200 converters (distributed in so many
-The Commission has also adopted a proposal for a directive on the approximation of the laws of the Member States relating to the use of electricity in the transport sector. These
-converters are called solar panels.
-Electricity produced by solar panels, if not used by any
-electrical device, is stored in a group of 12 V batteries. The scheme of
-The connection of the circuit implemented in the school is shown in Figure 1.
+At the rural school of Cachiyuyo (an inhospitable area in the north of Cordoba) which is attended by
+15 students from $1^\circ$ to $6^\circ$ grade, there is one of the 200 converters (distributed among as many rural schools in Cordoba) of light energy to electrical energy. These converters are called solar panels.
+The electrical energy produced in the solar panels, if it is not used by some electrical device, is stored in a group of 12 V batteries. The connection diagram of the circuit implemented in the school is shown in figure 1.
 
 Figure 1
 
-The electricity produced by the solar panels depends on the sunshine of the day.
-Figure 2 shows the power delivered by the solar panels. The area marked
-in the figure, the energy produced by the panels during lighting hours
-(between 8h and 6h).
+The electrical power produced by the solar panels depends on the day's insolation.
+Figure 2 graphs the power delivered by the solar panels. The area marked in the figure corresponds to the energy produced by the panels during the hours of light (between 8 a.m. and 6 p.m.).
 
 Figure 2
 
-If the lamp $L_1$ is on all day (24 hours).
-(a) How many joules of energy does he consume in a day?
+If lamp $L_1$ is on all day (24 hours).
+a) How many joules of energy does it consume during one day?
 
-Suppose that in addition to the $L_1$ lamp the lamp $L_2$ is lit.
-(b) How much current is flowing through the AB conductor shown in Figure 1?
-The efficiency $\eta$ of a system (machine) is defined as the ratio between the work
-The energy input ($W$) is calculated on the energy input ($E$) delivered to that system. Eso es $\eta = W/E$.
-The layout of the school's pumping system is shown in Figure 3. Se
-You need to pump 300 liters of water from the water tank to the water tank in the water tank.
-school. Considering that the entire vertical section of the pipe that carries water to the tank is
-It's full of water when you start the engine and it's full of water once you pour it.
-the 300 litres of water in the tank:
-(c) How long does it take the engine to lift 300 litres of water from the well to the water
-tank if the efficiency of the pumping system is $\eta = 0{,}1$?
+Suppose that in addition to lamp $L_1$, lamp $L_2$ is also on.
+b) How much current flows through conductor AB indicated in figure 1?
+The efficiency $\eta$ of a system (machine) is defined as the ratio between the work done ($W$) and the energy ($E$) supplied to that system. That is $\eta = W/E$.
+The layout of the school's pumping system is shown in figure 3. It is necessary to pump 300 liters of water from the water table to the school's water tank. Considering that the entire vertical section of the pipe that carries water to the tank is full of water when the motor starts and remains full of water once the 300 liters of water have been poured into the tank:
+c) How long does it take the motor to raise the 300 liters of water from the well to the tank if the efficiency of the pumping system is $\eta = 0{,}1$?
 
 Figure 3
 
-Suppose one day at 6pm when the school in Cachiyuyo closes and you
-apagan todos los artefactos eléctricos excepto la lámpara $L_1$ las baterías tienen
-stored an energy $E_0 = 2\times10^6\ \text{J}$. The next day the sun comes up at eight in the morning and
-The electrical energy input is started as shown in Figure 2.
-(d) At what time of day do batteries reach minimum power if only
-encendida $L_1$?
-(e) How much is that energy worth? (Express your result in joules).
+Suppose that one day at 6 p.m., when the little school in Cachiyuyo closes and all electrical devices are turned off except lamp $L_1$, the batteries have stored an energy of $E_0 = 2\times10^6\ \text{J}$. The next day the sun rises at eight in the morning and begins to supply electrical energy as indicated in figure 2.
+d) At what time of day do the batteries reach the minimum energy if only $L_1$ remains on?
+e) What is that energy worth? (Express your result in joules).
 
-It is common for several cloudy days during the winter. Suppose that was the
-cause all the batteries lost all the stored energy. Thankfully
-Sunrise just the day it is impossible to give the animals of the world a drink
-school farm. To do this, the water pump engine that has
-a constant consumption of $P_m$. This engine only works if it's powered to the full.
-It needs, $P_m$, if it doesn't, it doesn't work, it turns off.
-Suppose, with the sun, you start storing energy in the batteries according to
-the data in Figure 2 and that the only connected device is the water pump (or $L_1$
-It 's on . With this data, I advise the teacher at Cachiyuyo school to
-Let her know:
-(f) What is the earliest time that the solar panels and batteries will be
-in conditions to supply the engine with the power it needs to operate
-- Uninterruptedly?
-(g) How long will the pumping system engine be running, having regard to the
-The calculation and operating conditions of the pump imposed on the
-(f)
-(h) How many litres of water can the system pump into the tank taking into account the
-que $\eta = 0{,}1$?
+It is common for there to be several cloudy days during winter. Assume that this was the cause for all the batteries losing all their stored energy. Luckily, the sun rises sunny just on the day when it is unavoidable to give the farm animals at the school water to drink. To do this, the motor of the water pump, which has a constant consumption $P_m$, must be turned on. This motor works only if it is supplied with all the power it needs, $P_m$; if not, it does not work, it turns off.
+Assume that, with the sun, energy begins to be stored in the batteries according to the data in Figure 2 and that the only device connected is the water pump ($L_1$ is not turned on either). With these data, advise the teacher of the Cachiyuyo school so that she knows:
+f) What is the earliest time at which the solar panels and the batteries will be in conditions to supply, to the motor, the power it needs to operate uninterruptedly?
+g) Until what time will the motor of the pumping system be operating, taking into account what was calculated and the operating conditions of the pump imposed in point f)?
+h) How many liters of water will the system be able to pump to the tank, taking into account that $\eta = 0{,}1$?
 
-The data:
+Data:
 Power consumed by:
 $L_1$: $P_1 = 30\ \text{W}$
 $L_2$: $P_2 = 30\ \text{W}$
 Motor $P_m = 200\ \text{W}$
 
-Aceleración de la gravedad $g = 9{,}8\ \text{m/s}^2$
+Acceleration of gravity $g = 9{,}8\ \text{m/s}^2$
 Density of water
 
 $\delta = 1\ \text{g/cm}^3$
-The Argentine Olympic Games
-The Commission has also adopted a proposal for a regulation on the
+ARGENTINE OLYMPIAD
+OF PHYSICS 2004
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+OAF’2004
 
-The Commission has not yet taken any further action.
+EXPERIMENTAL TEST - October 18, 2004
 
-- Write your name on all the sheets and list them.
-- Remember that you cannot use programmable calculators or any other material that
-not included in the test, other than written instruments.
-- Before you start solving every problem read the entire sentence carefully
-of the same.
+- Write your name on all sheets and number them.
+- Remember that you may not use programmable calculators or any other material not included in the exam, apart from writing utensils.
+- Before starting to solve each problem, read carefully ALL of its statement.
 
-Name of the company:
+Name:
 
-Total number of sheets delivered:
-Magnetic fields  magnetic moments
+Total number of sheets submitted:
+Magnetic fields – magnetic moments
 
 1. Objective
 
-The purpose of this experimental test is to determine the magnetic moment of a
-The value of the horizontal component of the earth's magnetic field.
+The objective of this experimental test is to determine the magnetic moment of a permanent magnet and the value of the horizontal component of the Earth's magnetic field.
 
 2. Theory
 
-A permanent magnet suspended from its center of mass within a field
-The external magnetic homogeneous $H$ will orient itself, as does the arrow of a
-compass, in the direction and direction of the same. If you are removed from that position of
-The magnet will begin to oscillate. In this situation the magnetic field $H$ exerts
-a restoring torque given by:
+A permanent magnet suspended from its center of mass within a homogeneous external magnetic field $H$ will orient itself, in the same way as a compass needle does, in the direction and sense of that field. If it is moved away from that equilibrium position, the magnet will begin to oscillate. In this situation the magnetic field $H$ exerts a restoring torque given by:
 $$\tau = m_H H \sin\theta \qquad [1]$$
 
-where $m_H$ is the magnetic moment associated with the permanent magnet and $\theta$ is the angle
-The magnetic moment vector is the vector of the external magnetic field.
+where $m_H$ is the magnetic moment associated with the permanent magnet and $\theta$ is the angle between the magnetic moment vector and the external magnetic field vector.
 
-In the small oscillation limit, the $\sin\theta$ can be approximated by $\theta$ resulting in:
+In the limit of small oscillations, $\sin\theta$ can be approximated by $\theta$, giving:
 $$\tau \approx m_H H\, \theta \qquad [2]$$
 
-From the equations of motion that mechanics gives us, it is shown that the
-The angular frequency of oscillation is given by the following expression:
+From the equations of motion given to us by mechanics, it is shown that the angular frequency of oscillation is given by the following expression:
 
 $$\omega^2 = \left(\frac{2\pi}{T}\right)^2 = \frac{m_H H}{I} \qquad [3]$$
 
 where $I$ is the moment of inertia of the permanent magnet and $T$ is the period of oscillation.
 
-A way to generate a homogeneous external magnetic field of equal magnitude or
-It is greater than the Earth's magnetic field, and it is by means of a system known as
-Helmholtz coil.
+One way to generate a homogeneous external magnetic field, of magnitude equal to or greater than the Earth's magnetic field, is by means of a system known as a Helmholtz coil.
 
-A Helmholtz coil consists of two circular radial spirals $R$ separated by
-a distance equal to its radius. If both coils have a spin number equal to $N$ and
-The same current $i$ circulates in both directions, the
-The magnetic field in the center between the two spirals is uniform within a volume
-a radius of $R$. The value of that field is given by:
+A Helmholtz coil consists of two circular loops of radius $R$ separated by a distance equal to their radius. If both coils have a number of turns equal to $N$ and the same current $i$ flows through both loops (in the same direction), the magnetic field at the center between the two loops is uniform within a volume of radius $R$. The value of that field is given by:
 $$H_Z = \frac{32}{\sqrt{125}}\times10^{-6}\,\pi\,\frac{N i}{R} \qquad [4]$$
 
 $$[i] = \text{mA}, \quad [H] = \text{Gauss}, \quad [R] = \text{m}$$
 
-where $z$ is the direction along the coil axis. The direction of the $H$ vector depends on
-The current flow direction.
+where $z$ is the direction along the axis of the coils. The direction of the vector $H$ depends on the direction of current flow.
 
 3. List of materials
 
 -
 A permanent magnet.
 -
-A coil from Helmholtz.
+A Helmholtz coil.
 -
-It's a timepiece.
+A stopwatch.
 -
 A variable voltage source.
 -
 A multimeter.
 -
-Cable of connection.
+Connecting cable.
 -
-Sheets of white, millimeter paper.
+Sheets of white and graph paper.
 
-Read ALL the instructions before you start
+Read ALL the instructions BEFORE starting
 
-4. The experimental procedure
+4. Experimental procedure
 
-1- Arming the circuit as shown in Figure 1.
-2- Determine the magnet's equilibrium position in the absence of the magnetic field
-generated by the coils. I shall, as I see fit, set the relative position of the
-magnet with respect to the coil axis.
-3- With the position fixed in item 2, close the circuit and measure the period of
-Permanent magnet oscillation for different magnetic field values
-externo $H$. This is achieved by varying the current circulating through the coil of
-Helmholtz. What is it?
-4- To vary the current circulating through the coils a source is used (see
-Figure 2) which can generate voltage differences between 1.5 and 9 V. In addition, the
-The device, where the coils are, has two outlets that allow for variation
-the resistance of the circuit.
+1- Set up the circuit as shown in Figure 1.
+2- Determine the equilibrium position of the magnet in the absence of the magnetic field generated by the coils. Set, as you see fit, the relative position of the magnet with respect to the axis of the coils.
+3- With the position set in item 2, close the circuit and measure the oscillation period of the permanent magnet for different values of the external magnetic field $H$. This is achieved by varying the current flowing through the Helmholtz coil.
+4- To vary the current flowing through the coils, a power supply is available (see Figure 2) that can generate voltage differences between 1.5 and 9 V. In addition, the device, where the coils are located, has two outputs that allow the resistance of the circuit to be varied.
 
 5. Requirements
 
-a- Draw in Figure 1 the direction and direction of the equilibrium position
-The test shall be carried out in accordance with the procedure described in paragraph 2.
-(b) Record current and period values in a table.
-c- Calculate the magnitude of the magnetic field generated by the Helmholtz coil
-for each of the currents used and the respective $\omega^2$.
-Make a table with those values.
-d- Graphic $\omega^2$ based on the magnetic field generated by the coils of the
-Helmholtz. What is it?
+a- Draw in Figure 1 the direction and sense of the equilibrium position determined in item 2 of the experimental procedure.
+b- Record in a table the values of current and the corresponding period.
+c- Calculate the magnitude of the magnetic field generated by the Helmholtz coil for each of the currents you have used and the respective $\omega^2$.
+Prepare a table with these values.
+d- Plot $\omega^2$ as a function of the magnetic field generated by the Helmholtz coils.
 e- Calculate the moment of inertia of the magnet.
-f- From the graph, determine the value of the horizontal component of the field
-Earth magnetic field
+f- From the graph, determine the value of the horizontal component of the Earth's magnetic field
 
-**Topic:** [[Circuits]], [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlO1Uwcel7I2gHEhNZZpBGVoXkfOHO_Z/view)
+

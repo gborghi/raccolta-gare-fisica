@@ -78,120 +78,51 @@ en el rango de temperaturas considerado.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1: Il termometro di Galileo
+Problema 1: Il Termometro di Galileo
 
-In cerca di un metodo preciso di misurazione delle temperature, nel 1597
-Galileo sviluppò il primo termometro scientifico. Anche se nel corso degli anni il
-Il suo sviluppo originale è cambiato, la sua forma attuale è essenzialmente la stessa.
-che la proposta del saggio italiano.
+Alla ricerca di un metodo preciso di misurazione delle temperature, nell'anno 1597
+Galileo sviluppò il primo termometro scientifico. Sebbene con il passare degli anni lo sviluppo originale di Galileo sia cambiato, la sua forma attuale è essenzialmente la stessa di quella proposta dal sapiente italiano.
 
-Il termometro di Galileo consiste in un tubo di vetro verticale, chiuso in entrambi i lati.
-di estrema, contenente un liquido in cui sono presenti diverse sfere galleggianti,
-etichettati con valori di temperatura diversi (vedi figura allegata). Ogni una di queste
-Le sfere hanno un peso particolare. Il principio di funzionamento del termometro è
-Basato sulla dilatazione e contrazione del liquido contenuto nel tubo, a causa dei suoi cambiamenti
-di temperatura. Di conseguenza, la densità del liquido varia con la
-La temperatura, che produce così cambiamenti nello stato di fluttuazione delle sfere. Questo ci
-indicare i diversi valori di temperatura a cui si trova il liquido in cui
-Le sfere sono immerse.
+Il termometro di Galileo consiste in un tubo di vetro verticale, chiuso a entrambe le estremità, che contiene un liquido nel quale si trovano diverse sfere galleggianti, etichettate con diversi valori di temperatura (vedi figura allegata). Ognuna di queste sfere possiede un peso particolare. Il principio di funzionamento del termometro è basato sulla dilatazione e contrazione del liquido contenuto nel tubo, a causa dei suoi cambiamenti di temperatura. Come conseguenza di ciò, la densità del liquido varia con la temperatura, producendosi, così, cambiamenti nello stato di galleggiamento delle sfere. Questo ci indicherà i diversi valori di temperatura a cui si trova il liquido nel quale sono immerse le sfere.
 
-Supponiamo che tu... Dovrebbe progettare e costruire un termometro Galileo. Per questo è stato dato
-consegna:
+Supponga che Lei debba progettare e costruire un termometro di Galileo. Per questo le viene fornito:
 
-1) una certa quantità di alcol, che deve essere usata come liquido in cui si immerge
-2) cinque sfere vuote di 3 cm di diametro quando sono $18\ ^\circ\text{C}$, di 6 gr di
-3) una certa quantità di acqua distillata con
-che può riempire le sfere in quantità diverse per ottenere un peso
-4) una tabella di densità per l'alcol a diverse
-le temperature.
+1) una certa quantità di alcol, che dovrà essere usato come liquido in cui immergere le sfere; 2) cinque sfere vuote di 3 cm di diametro quando sono a $18\ ^\circ\text{C}$, di 6 gr di massa ciascuna e con parete di spessore trascurabile; 3) una certa quantità di acqua distillata con la quale potrà riempire le sfere in quantità diverse allo scopo di ottenere un peso differente per ciascuna di esse e 4) una tabella di densità per l'alcol a diverse temperature.
 
-Ud. la sua capacità di chiudere facilmente e con l'ermetica ciascuna delle sfere in modo tale che la
-liquido contenuto in essi non può essere versato né evaporato. Inizialmente supponiamo
-che il materiale con cui sono costruite le sfere non si dilatano o si contraggono con le sfere
-variazioni di temperatura. I segni che userà per identificare ciascuna sfera
-hanno un peso dispregiato.
+Lei potrà chiudere facilmente ed ermeticamente ciascuna delle sfere in modo tale che il liquido contenuto in esse non possa fuoriuscire né evaporare. Inizialmente supporremo che il materiale con cui sono costruite le sfere non si dilati né si contragga con i cambiamenti di temperatura. Le etichette che userà per identificare ciascuna delle sfere hanno peso trascurabile.
 
-a) Esprima la condizione di fluttuazione, per una delle sfere, a una certa
-temperatura data, $T$.
+a) Esprima la condizione di galleggiamento, per una qualsiasi delle sfere, a una certa data temperatura, $T$.
 
-b) Calcolare la massa di acqua da mettere in ciascuna sfera per far sì che le stesse
-La temperatura di $18\ ^\circ\text{C}$, $20\ ^\circ\text{C}$, $22\ ^\circ\text{C}$, $24\ ^\circ\text{C}$ e $26\ ^\circ\text{C}$ è misurata con un'ottica di temperatura di $18\ ^\circ\text{C}$. Supponiamo che la densità
-di acqua distillata è $1{,}0\ \text{gr/cm}^3$ e non cambia con la temperatura in quella gamma.
+b) Calcoli la massa d'acqua che deve mettere in ciascuna delle sfere affinché le stesse permettano di misurare le temperature di $18\ ^\circ\text{C}$, $20\ ^\circ\text{C}$, $22\ ^\circ\text{C}$, $24\ ^\circ\text{C}$ e $26\ ^\circ\text{C}$. Supponga che la densità dell'acqua distillata sia $1{,}0\ \text{gr/cm}^3$ e che non cambi con la temperatura in quell'intervallo.
 
-c) Supponiamo che tu voglia costruire il termometro di Galileo come strumento di
-misurazione più precisa. Per questo ha deciso di tenere conto della dilatazione (o contrazione)
-Il materiale con cui sono costruite le sfere. Il coefficiente di dilatazione volumetrica
-di tale materiale è $\alpha = 6{,}8\times10^{-5}\ 1/\!^\circ\text{C}$. Quanto differiscono i valori di temperatura?
-Le attività di ricerca e di ricerca sono state oggetto di una serie di iniziative di ricerca.
-dilatamento (o contrazione) delle sfere?
+c) Supponga ora di voler costruire il termometro di Galileo come uno strumento di misura più preciso. Per fare ciò ha deciso di tenere conto della dilatazione (o contrazione)
+del materiale con cui sono costruite le sfere. Il coefficiente di dilatazione volumetrica di quel materiale è $\alpha = 6{,}8\times10^{-5}\ 1/\!^\circ\text{C}$. Di quanto differiscono i valori di temperatura precedentemente assegnati a ciascuna delle sfere da quelli che si ottengono tenendo conto della dilatazione (o contrazione) delle sfere?
 
-Supponiamo anche in questo caso che la densità dell'acqua distillata sia costante.
-nella gamma di temperature considerata.
+Supponga in questo caso anche che la densità dell'acqua distillata sia costante nell'intervallo di temperature considerato.
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1cdvd8WHWrOhW5gkTvpLY26FrBzUBXlpQ/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: The Galileo thermometer
+Problem 1: Galileo's Thermometer
 
-In search of an accurate method of measuring temperatures, 1597
-Galileo developed the first scientific thermometer. Although over the years the
-Galileo's original development was changing, its current form is essentially the same.
-than the proposal of the Italian sage.
+In search of a precise method of measuring temperatures, in the year 1597
+Galileo developed the first scientific thermometer. Although over the years Galileo's original development changed, its current form is essentially the same as that proposed by the Italian sage.
 
-The Galileo thermometer consists of a vertical glass tube, closed in both
-extremes, containing a liquid in which several floating spheres are found,
-labelled with different temperature values (see attached figure). Each of these
-spheres have a particular weight. The principle of operation of the thermometer is
-Based on the dilation and contraction of the fluid contained in the tube due to its changes
-The temperature is very high. As a consequence, the density of the liquid varies with the
-The temperature changes, and the spheres are in a state of floatation. This is us
-indicate the different temperature values at which the liquid in which it is
-The spheres are submerged.
+Galileo's thermometer consists of a vertical glass tube, closed at both ends, containing a liquid in which several floating spheres are found, labeled with different temperature values (see attached figure). Each of these spheres has a particular weight. The operating principle of the thermometer is based on the expansion and contraction of the liquid contained in the tube, due to its temperature changes. As a consequence of this, the density of the liquid varies with temperature, thus producing changes in the floating state of the spheres. This will indicate the different temperature values at which the liquid in which the spheres are submerged is found.
 
-Suppose you were. You have to design and build a Galileo thermometer. That is why it is
-Delivery:
+Suppose you must design and build a Galileo thermometer. For this, you are given:
 
-1) a certain amount of alcohol, which must be used as a liquid in which to be immersed
-The spheres; 2) five empty spheres of 3 cm in diameter when $18\ ^\circ\text{C}$, of 6 g of
-Each mass and wall of scanty thickness; 3) some amount of distilled water with
-which may fill the spheres in different quantities to obtain a weight
-(iv) a density table for alcohol at different
-the temperature.
+1) a certain amount of alcohol, which you should use as the liquid in which the spheres are submerged; 2) five empty spheres of 3 cm diameter when they are at $18\ ^\circ\text{C}$, of 6 g mass each and with negligibly thin walls; 3) a certain amount of distilled water with which you can fill the spheres in different amounts in order to obtain a different weight for each of them and 4) a table of densities for alcohol at different temperatures.
 
-Ud. The controller can close each of the spheres easily and tightly so that the
-the liquid contained in them shall not be spilled or evaporated. Initially we will assume
-The material from which the spheres are constructed does not expand or contract with the spheres.
-the temperature changes. The labels you'll use to identify each of the spheres
-They have a disdainful weight.
+You will be able to easily and hermetically close each of the spheres in such a way that the liquid contained in them cannot spill or evaporate. Initially we will assume that the material with which the spheres are made does not expand or contract with changes in temperature. The labels you will use to identify each of the spheres have negligible weight.
 
-(a) Express the floating condition for any of the spheres to a certain
-The temperature given is $T$.
+a) Express the flotation condition, for any of the spheres, at a certain given temperature, $T$.
 
-(b) Calculate the water mass to be placed in each of the spheres so that the same
-permitan medir las temperaturas de $18\ ^\circ\text{C}$, $20\ ^\circ\text{C}$, $22\ ^\circ\text{C}$, $24\ ^\circ\text{C}$ y $26\ ^\circ\text{C}$. Suppose that the density
-The distilled water is $1{,}0\ \text{gr/cm}^3$ and does not change with temperature in that range.
+b) Calculate the mass of water that must be placed in each of the spheres so that they allow measuring the temperatures of $18\ ^\circ\text{C}$, $20\ ^\circ\text{C}$, $22\ ^\circ\text{C}$, $24\ ^\circ\text{C}$ and $26\ ^\circ\text{C}$. Assume that the density of distilled water is $1{,}0\ \text{gr/cm}^3$ and that it does not change with temperature in that range.
 
-(c) Suppose you now want to build the Galileo thermometer as a
-more accurate measurement. For this purpose, it has decided to take into account dilation (or contraction)
-The material from which the spheres are constructed. The volumetric dilation coefficient
-of that material is $\alpha = 6{,}8\times10^{-5}\ 1/\!^\circ\text{C}$. How much difference do temperature values have?
-The Commission's proposal for a regulation on the
-dilation (or contraction) of the spheres?
+c) Now suppose you want to build Galileo's thermometer as a more precise measuring instrument. To do this, you have decided to take into account the expansion (or contraction) of the material from which the spheres are made. The volumetric expansion coefficient of that material is $\alpha = 6{,}8\times10^{-5}\ 1/\!^\circ\text{C}$. By how much do the temperature values previously assigned to each of the spheres differ from those obtained when taking into account the expansion (or contraction) of the spheres?
 
-Suppose in this case also that the density of distilled water is constant
-in the temperature range considered.
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1cdvd8WHWrOhW5gkTvpLY26FrBzUBXlpQ/view)
-
+In this case also assume that the density of the distilled water is constant over the temperature range considered.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 2002 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/tank-container"></span>
@@ -766,189 +697,140 @@ in bottiglia è $H_0$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: The Submerged City
+Problem 3: The Sunken City
 
-Several years into the late Dark Age, the Brokos race discovered
-The weak spot of the Dome of the Submerged City.
-This city was a cylinder with a very thin dome, apparently only transparent.
-to visible light, in the form of a semisphere, with a radius of 100 m (see figure). The city
-It contained an atmosphere of air. The virtue of the dome was its material, impermeable to everything.
-Type of mechanical and electromagnetic projectile used by their ancestors, the
-Brokers. After many attempts, a spy was able to break the city's secret, and
-He discovered that the dome was permeable to the balls of heaven. With this information, the
-Brokos decided to attack with these bullets and later with a He-Ne laser. La
-First mission was to upset the city leader.
-The task was assigned to Brok, the annoying one. He was in the water, just above the
-Vertice, $V$, of the dome, at a distance of 200 m from it, above the vertical direction (see
-(Figure 1).
+Several years after the end of the Decade of Darkness, the race of the Brokos discovered the weak point of the dome of the Sunken City.
+Said city was a cylinder with a very thin dome, apparently only transparent to visible light, in the shape of a hemisphere, with a radius of 100 m (see figure). The city contained an atmosphere of air. The virtue of the dome was its material, impermeable to every type of mechanical and electromagnetic projectile used by its ancestral enemies, the
+Brokos. After many attempts, a spy managed to breach the secret of the city, and discovered that the dome was permeable to paradise berries. With this information, the
+Brokos decided to attack with said berries and later with a He-Ne laser. The first mission was to annoy the leader of the city.
+The task was assigned to Brok, the annoying one. He positioned himself in the water, just above the vertex, $V$, of the dome, at a distance of 200 m from it, along the vertical direction (see figure).
 
-(a) Brok sees the leader in the city, below the top of the dome, at a distance of
-200m from the top according to the vertical.
+a) Brok sees the leader in the city, below the vertex of the dome, at a distance of
+200 m from the vertex along the vertical.
 
-What is the actual distance from the top of the dome to the leader's position?
+What is the real distance from the vertex of the dome to the leader's position?
 
-Brok gets distracted for a moment by loading his weapons and when he looks back, he sees the leader who is
-He's moved in a horizontal direction a distance, which he says is 10m.
+Brok is distracted for an instant loading his weapons and when he looks again, he sees the leader who has moved in the horizontal direction a distance , which according to him, is 10 m.
 
-(b) How far has the leader really moved?
+b) How much has the leader really moved?
 
-Brok didn't know physics, so he asked the command center for help asking which way to go.
-He had to point his weapons to hit his target.
+Since Brok didn't know physics, he asks the command center for help by asking in which direction he should aim his weapons to hit his target.
 
-(c) At what angle, with respect to the vertical, should Brok point his weapon which is
-Shooting heavenly balls?
+c) At what angle, with respect to the vertical, must Brok aim his weapon that shoots paradise berries?
 
-d) Brok was very upset, so he decided to continue to bother the leader but now with his
-He-Ne's laser weapon.
+d) Since Brok was very annoying, he decides to keep bothering the leader but now with his He-Ne laser weapon.
 
-At what angle, relative to the vertical, should Brok point his gun firing
-A laser beam from He-Ne?
+At what angle, with respect to the vertical, must Brok aim his weapon that shoots a He-Ne laser beam?
 
-Aids
+HINTS
 
-Refraction of light on a spherical surface
+Refraction of light at a spherical surface
 
-The law of refraction of light at a spherical interface separating two media
-Optical (mean 1 and half 2) is as follows:
+The law of refraction of light at a spherical interface separating two optical media (medium 1 and medium 2) is as follows:
 
 $$\frac{n_1}{S_o} + \frac{n_2}{S_i} = \frac{n_2 - n_1}{R}$$
 
-If $n_1$ is the refractive index in medium 1 (where the object is located) and $n_2$ is the
-refractive index in the medium 2.
-$S_o$ is the distance from the object to $V$, $S_i$ is the distance from the image to $V$ and $R$ is the radius
-curved.
+Where $n_1$ is the refractive index in medium 1 (where the object is located) and $n_2$ is the refractive index in medium 2.
+$S_o$ is the distance from the object to $V$, $S_i$ is the distance from the image to $V$, and $R$ is the radius of curvature.
 
-Convention of signs
+Sign convention
 
 $S_o$ is positive if the object is to the left of $V$.
 $S_i$ is positive if the image is to the right of $V$.
 $R$ is positive if the center of curvature $C$ is to the right of $V$.
 
-The refractive index values for visible light
+Refractive index values for visible light
 
-Índice de refracción del aire $n_1 = 1$
-The water refractive index $n_2 = 4/3$
+Refractive index of air $n_1 = 1$
+Refractive index of water $n_2 = 4/3$
 
-Other aid
+Other hints
 
-1) The He-Ne laser emits wavelength light within the visible range.
-2) Consider ideal balls that do not have any friction with any medium. The effects of the
-gravity can be despised.
-3) It is sufficient to calculate the amounts by considering that $\alpha \cong \operatorname{sen}\alpha \cong \operatorname{tg}\alpha$.
+1) The He-Ne laser emits light with a wavelength within the visible range.
+2) Consider ideal small balls that have no friction with any medium. The effects of gravity can be neglected.
+3) It is sufficient to do the calculations considering that $\alpha \cong \operatorname{sen}\alpha \cong \operatorname{tg}\alpha$.
 
-The first is the 2002 Olympic Games in Physics.
+ARGENTINE PHYSICS OLYMPIAD 2002
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+OAF'2002
 
-The Commission has not yet taken any further action.
+EXPERIMENTAL TEST - October 21, 2002
 
-- Write your name on all the sheets and list them.
-- Remember that you cannot use programmable calculators or any other calculators
-Other materials not included in the test, other than tools for
-The writing.
-- Before you start solving a problem, read the whole thing carefully.
-The same statement.
+- Write your name on all sheets and number them.
+- Remember that programmable calculators and any other material not included in the test, apart from writing utensils, may not be used.
+- Before starting to solve a problem, read carefully ALL of its statement.
 
-Name of the company:
+Name:
 
-Number of sheets delivered:
+Number of sheets submitted:.
 
-The test shall be carried out in accordance with the following conditions:
+Experimental Test
 
-Energy conservation, fluid flow and viscosity.
+Conservation of energy, liquid flow and viscosity.
 
 1. Theory
 
-The flow rate $Q$ of a fluid carrying a pipe can be expressed as
+The flow rate $Q$ of liquid carried by a pipe can be expressed as
 
 $$Q = v A \qquad [1]$$
 
-where $v$ is the velocity of the fluid at a point in the pipe and $A$ the area of the section
-the transverse of the pipe at that point. If the fluid is incomprehensible, the flow along the
-The length of the entire pipe, which can be of variable section, is constant.
-On the other hand, the conservation of energy applied to an element of volume of a
-The main purpose of the pipeline is to provide a clear and transparent
-The following equation
+where $v$ is the velocity of the liquid at a point in the pipe and $A$ the cross-sectional area of the pipe at that point. If the liquid is incompressible, the flow rate along the entire pipe, which may have variable cross-section, is constant.
+On the other hand, the conservation of energy applied to a volume element of an incompressible liquid, in the case where the pipe is horizontal, allows the following equation to be obtained
 
 $$\frac{p_1 - p_2}{\delta} = \frac{1}{2}\left(v_2^2 - v_1^2\right) + W_{1-2} \qquad [2]$$
 
-where $(p_1, v_1)$ and $(p_2, v_2)$ respectively indicate the pressure and speed of the element of
-volume of the fluid, when it is at point 1 and point 2 of the pipe. $\delta$ represents the
-The density of the liquid, while $W_{1-2}$ is the loss of kinetic energy due to the
-viscosity of the liquid, when the liquid volume element is from point 1 to point 2
-(see figure).
+where $(p_1, v_1)$ and $(p_2, v_2)$ indicate respectively the pressure and velocity of the volume element of the liquid, when it is at point 1 and at point 2 of the pipe. $\delta$ represents the density of the liquid, while $W_{1-2}$ is the loss of kinetic energy, due to the viscosity of the liquid, when the volume element of the liquid goes from point 1 to 2 (see figure).
 
-The pressure difference between points 1 and 2 may be expressed as $p_1 - p_2 = g\delta(h_1 - h_2)$,
-where $h_1$ and $h_2$ represent the heights of liquid columns in vertical tubes
-(manometers) connected to the pipe at points 1 and 2 respectively, $g$ is the
-acceleration of gravity with which the formula [2] is written as
+The pressure difference between points 1 and 2 can be expressed by $p_1 - p_2 = g\delta(h_1 - h_2)$, where $h_1$ and $h_2$ represent the heights of liquid columns in the vertical tubes (manometers) connected to the pipe at points 1 and 2 respectively, $g$ is the acceleration of gravity, with which formula [2] is written as
 
 $$h_1 - h_2 = \frac{1}{2g}\left(v_2^2 - v_1^2\right) + \frac{W_{1-2}}{g} \qquad [3]$$
 
-If the velocity of the liquid at point 1 is low compared to $v_2$, it can be shown that
-$W_{1-2} = \alpha v_2$, where $\alpha$ is a proportionality coefficient. Therefore, clearing $\alpha$
-The result is:
+If the velocity of the liquid at point 1 is low compared with $v_2$, it can be shown that
+$W_{1-2} = \alpha v_2$, where $\alpha$ is a proportionality coefficient. Therefore, solving for $\alpha$ gives:
 
 $$\frac{\alpha}{g} = \frac{h_1 - h_2}{v_2} - \frac{1}{2 g v_2}\left(v_2^2 - v_1^2\right) \qquad [4]$$
 
-Now let us consider the experimental device that occupies us. The liquid is water and it's
-contained in a $A_B$ section bottle and circulating through a plastic and metal pipe of
-narrowed section. Remembering that the flow rate is constant, both in the bottle and along the
-of the whole pipe, we know that $v_B A_B = v_1 A_1 = v_2 A_2$, which [4] can be rewritten as
+Let us now consider the experimental device at hand. The liquid is water and is contained in a bottle of cross-section $A_B$ and circulates through a plastic and metal pipe of reduced cross-section. Recalling that the flow rate is constant, both in the bottle and along the entire pipe, we know that $v_B A_B = v_1 A_1 = v_2 A_2$, with which [4] can be rewritten as
 
 $$\frac{\alpha}{g} = \frac{A_2}{A_B}\frac{(h_1 - h_2)}{v_B} - \frac{A_B}{2 g A_2}\left[1 - \frac{A_2^2}{A_1^2}\right]v_B \qquad [5]$$
 
-where $v_B$ represents the velocity of the water in the bottle (e.g. from a point in the
-horizontal surface of water).
-Thus with the expression [5], knowing $A_B$, $A_1$, $A_2$, $g$ and measuring $h_1$, $h_2$ and $v_B$, it is
-determines the value of $\alpha$.
+where $v_B$ represents the velocity of the water in the bottle (for example, at a point on the horizontal surface of the water).
+In this way, with expression [5], knowing $A_B$, $A_1$, $A_2$, $g$ and measuring $h_1$, $h_2$ and $v_B$, the value of $\alpha$ is determined.
 
 2. List of materials
 
-- A bottle full of water that comes out of a horizontal pipe.
-- Two water column manometers attached to the pipe with a graduated scale in
-Millimeters.
-- A key to regulate the flow of water in the pipe.
-- A plug at the end of the pipe to block the flow of water.
-- A timepiece. (See sheet explaining how it works).
-- A plastic glass in another larger container.
-- It's a sheet of white, millimeter paper.
+- A bottle filled with water from which a horizontal pipe comes out.
+- Two water-column manometers attached to the pipe with a scale graduated in millimeters.
+- A valve to regulate the water flow in the pipe.
+- A stopper at the end of the pipe to block the water flow.
+- A stopwatch. (See the sheet where its operation is explained).
+- A plastic cup inside a larger container.
+- Sheets of white and graph paper.
 
-3. The experimental procedure
+3. Experimental procedure
 
-Read ALL the instructions before you start
+Read ALL the instructions BEFORE starting
 
-(i) Check that the water level in the bottle and in the two pressure gauges is the same.
-(ii) Remove the stopper from the end of the pipe and adjust the pass key (screw with screw)
-welded) so that a height difference between the two columns appears
-The pressure is measured.
+i) Verify that the water level in the bottle and in the two manometers is the same.
+ii) Remove the stopper from the end of the pipe and regulate the valve (screw with welded washer) so that a height difference appears between the two manometric columns.
 
-(iii) Collect water that falls into the plastic glass.
+iii) Collect the water that is falling into the plastic cup.
 
-(iv) Re-placing the stopper without changing the position of the key regulating the flow and
-return the water collected from the glass to the bottle.
+iv) Put the stopper back without changing the position of the valve that regulates the flow and return the water collected in the cup to the bottle.
 
-v) Remove the plug again, wait a few seconds until $h_1 - h_2$ stabilizes and measure the
-height $H$ of the water in the bottle, depending on the time, from $H_0 = H(t=0)$ and until
-$H \approx H_0 - 2\,\text{cm}$ (the symbol $\approx$ indicates approximately). Collect that data into a table.
+v) Remove the stopper again, wait a few seconds until $h_1 - h_2$ stabilizes and measure the height $H$ of the water in the bottle, as a function of time, starting from $H_0 = H(t=0)$ and until
+$H \approx H_0 - 2\,\text{cm}$ (the symbol $\approx$ indicates approximately). Record these data in a table.
 
-vi) Put the lid back, return the glass water to the bottle and repeat v) but now
-to measure $h_1$ in terms of time. Collect that data into a table.
-Repeat the procedure to measure $h_2$ in terms of time. Collect that data into one
-The board.
-IMPORTANT: To measure $h_1(t)$ and $h_2(t)$ start the timer when the water level is
-in the bottle be $H_0$.
+vi) Replace the stopper, return the water from the glass to the bottle and repeat v) but now to measure $h_1$ as a function of time. Record these data in a table.
+Repeat the procedure to measure $h_2$ as a function of time. Record these data in a table.
+IMPORTANT: To measure $h_1(t)$ and $h_2(t)$ start the stopwatch when the water level in the bottle is $H_0$.
 
 4. Requirements
 
-1- Graph the data obtained from $H$, $h_1$ and $h_2$ according to time.
-2- Using the graphs determine $h_1 - h_2$ and $v_B$.
-3- Calculate $\alpha$ (with its error) using the equation [5].
-4- Repeat the previous points 1, 2 and 3 for different flows (different $v_2$).
-5- Graphically $\alpha$
+1- Plot the data obtained for $H$, $h_1$ and $h_2$ as a function of time.
+2- With the help of the graphs determine $h_1 - h_2$ and $v_B$.
+3- Calculate $\alpha$ (with its error) using equation [5].
+4- Repeat points 1, 2 and 3 above for various flow rates (various $v_2$).
+5- Plot $\alpha$ as a funct
 
-**Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1cdvd8WHWrOhW5gkTvpLY26FrBzUBXlpQ/view)
+

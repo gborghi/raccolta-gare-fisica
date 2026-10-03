@@ -1431,47 +1431,37 @@ N
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-A pendulum of mass m, is released from the
-rest from a position forming an angle of
-$60^\circ$ and at the lowest point of its trajectory
-impacts a block of mass $M = 3m$. Then
-The impact of the pendulum rebounds and reaches an angle
-a maximum of $20^\circ$. The $M$ block after the impact,
-a horizontal distance $D$ is moved until it is
-Brake due to surface friction
-horizontal $(\mu_d = 0{,}2)$.
+Problem 3
+A pendulum of mass m is released from rest from a position that forms an angle of
+$60^\circ$ and at the lowest point of its trajectory it impacts against a block of mass $M = 3m$. After the collision the pendulum bounces back and reaches a maximum angle of $20^\circ$. The block $M$, after the collision, moves a horizontal distance $D$ until it is stopped due to friction with the horizontal surface $(\mu_d = 0{,}2)$.
 
-The data:
+Data:
 $m = 0{,}1\ \text{g}$
 $L = 1\ \text{m}$
 $g = 10\ \text{m/s}^2$
 
-- **A.** Calculate the pendulum speed at the lowest point of the trajectory
-- **B.** Calculate pendulum and block speeds immediately after the
-It's a shock.
-(c) Determine the distance D travels through mass M until it stops.
-(d) Determine whether the impact between m and M was plastic, elastic or explosive.
+- **A.** Calculate the speed of the pendulum at the lowest point of the trajectory
+- **B.** Calculate the speeds of the pendulum and of the block immediately after the collision.
+c) Determine the distance D that the mass M travels until it stops.
+d) Determine whether the collision between m and M was plastic, elastic or explosive.
 
-Consider the $g = 10\ \text{m/s}^2$
-Theoretical problem 1
-Answering sheet
-Incise
+Consider $g = 10\ \text{m/s}^2$
+Theoretical Problem 1
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 c)
 
 d)
-Theoretical problem 2
-Answering sheet
-Incise
+Theoretical Problem 2
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
@@ -1480,90 +1470,61 @@ c)
 d)
 
 e)
-Theoretical problem 3
-Answering sheet
-Incise
+Theoretical Problem 3
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 c)
 
 d)
-Argentine Olympic Games in Physics
+Argentine Physics Olympiad
 
-Preparatory tests
-First test: mechanics
-The experimental part
+Preparatory Tests
+First Test: Mechanics
+Experimental Part
 
-The following is the list of the countries of the European Union:
+Name: ..................................................................
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+DNI: ......................................................................
 
-School: ........................... is not a school
+School: .................................................................
 
-- Before you start solving the test read it carefully
-The statement of it.
-- Write your name and ID number in the appropriate location. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
-Rotation study and small oscillations of a $rígido\dots$ almost a tube!!!
-The aim is to experimentally study the rotation of a body that is resting on a
-a flat surface as shown in Figure 1.
-The body (hereinafter: tube) consists of a very thin disk of radius a with an axis
-L is orthogonal to the same length and passes through the center of the disc. Consider that the mass
-The axis is despicable compared to the disk.
+- Before starting to solve the test, read carefully ALL the statement of the test.
+- Write your name and your ID number in the indicated place. Do not write your name in any other place of the test.
+- Do not write answers on the statement sheets, as they will not be considered.
+- Write on only one side of the sheets.
+Study of rotations and small oscillations of an $rígido\dots$ almost a spinning top!!!
+It is proposed to experimentally study the rotation of a body that is supported on a flat surface, as shown in Figure 1.
+The body (from now on: spinning top) consists of a very thin disk of radius a with an axis of length L orthogonal to it and passing through the center of the disk. Consider that the mass of the axis is negligible compared to that of the disk.
 
-If the tube is given a sufficiently large impulse parallel to the horizontal plane,
-orthogonal to its axis and applied to the disc, the tube will begin to rotate around its axis
-With angular velocity and z-axis with (maintaining approximately the tip of the axis)
-on the same point on the horizontal surface).
+If the spinning top is given a sufficiently large impulse, parallel to the horizontal plane, orthogonal to its axis and applied to the disk, the spinning top will begin to rotate around its axis with angular velocity and around the z axis with (approximately keeping the tip of the axis on the same point of the horizontal surface).
 
 Part A
-Build a tube similar to the one described. For this you can use a CD as a disc, a
-coffee jar cap, etc. As a shaft you can use a pencil, a pencil, a stick of
-brochet, a weaving needle, etc. Look for a tube with acymutal symmetry!!!
+Build a spinning top similar to the one described. For this you can use a CD, a coffee jar lid, etc. as a disk. As an axis you can use a pencil, a pen, a
+"brochet" stick, a knitting needle, etc. Make sure to obtain a spinning top with azimuthal symmetry!!!
 
-(a) Implement a method for determining speeds and acquire the
-I'm a trumpet when I'm given a certain impulse. Consider the situation in the
-the brushing forces do not work (wheel without sliding).
-(b) Measurements of and when different impulses are delivered to the tube (in the
-less than 10 determinations of y).
-(c) Graph versus and adjust the values by a straight. Determine the
-slope of the straight line.
-(d) Compare the value found with that obtained by kinematic analysis.
+a) Implement a method to determine the velocities and that the spinning top acquires when it is given a certain impulse. Consider the situation in which the friction forces do no work (it rolls without slipping).
+b) Take measurements of and when different impulses are given to the spinning top (take at least 10 determinations of and ).
+c) Plot versus and fit the values using a straight line. Determine the slope of the line.
+d) Compare the value found with the one obtained through a kinematic analysis.
 
 Part B
-If a point mass m (concentrated mass, of dimensions) is attached to the tube
-The resulting symmetry is a very small one, much smaller than the ones on the disc, so that the acymutal symmetry is broken, because the
-que Usted “veló” $tanto\dots$ el trompo, apoyado, adquirirá una posición de equilibrio en la que
-The extra mass shall be closer to the horizontal surface (Figure 2). If in this situation
-The tube is given a similar characteristic impulse to that used in the study.
-The rotational torque, but this time of smaller magnitude (a small pulse), is the torque of the torque.
-comenzará a $oscilar\dots$ y la amplitud de las oscilaciones será “pequeña”.
-Use a nut, a plum, a little plasticine, etc., as a concentrated mass and
-attach it to the face of the disc, as close to the edge of the disc as possible, without
-interferes with contact with the horizontal surface.
+If a point mass m (concentrated mass, with dimensions much smaller than those of the disk) is attached to the spinning top, in such a way that the azimuthal symmetry is "broken", by which you "veiled" $tanto\dots$ the spinning top, when supported, will acquire an equilibrium position in which the extra mass will be closer to the horizontal surface (Figure 2). If in this situation the spinning top is given an impulse with characteristics similar to the one used in the study of rotations, but this time of smaller magnitude (a small impulse), the spinning top will begin to $oscilar\dots$ and the amplitude of the oscillations will be "small".
+Use a nut, a "small lead weight", a bit of modeling clay, etc., as a concentrated mass and attach it to the face of the disk, as close to its edge as possible, without it interfering with the contact with the horizontal surface.
 
-(e) Determine the tube oscillation period T for different axle lengths L
-of the same. For this, just move the disk over the mass axis.
-I'm not a big fan of this. Do this for at least four lengths.
-(f) Determine the cosine of the angle $\alpha$ for each of the conditions under which the
-It determined the period.
-(g) Set a graph $T^2$ vs $\cos(\alpha)$. Adjust a straight line and determine the slope of the
-I'm not.
-h) From the slope determine the ratio of the mass M of the tube to the mass
-I'm the one who stuck with it.
-The experimental problem
+e) Determine the oscillation period T of the top for different lengths L of its axis. For this, it will be enough to move the disk along the axis of negligible mass. Do this for at least four lengths.
+f) Determine the cosine of the angle $\alpha$ for each of the conditions under which you determined the period.
+g) Prepare a graph $T^2$ vs $\cos(\alpha)$. Fit a straight line and determine its slope.
+h) From the slope, determine the relationship between the mass M of the top and the mass m attached to it.
+Experimental Problem
 Answer sheet.
-Incise
+Part
 
-Score
-a)
+Score a)
 
 b)
 
@@ -1578,130 +1539,85 @@ f)
 g)
 
 h)
-Theoretical problem 1
-Answering sheet
-Incise
+Theoretical Problem 1
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
-Four points.
+4 pts.
 b)
 
-Two points.
+2 pts.
 c)
 
-Two points.
+2 pts.
 d)
 
-Two points.
+2 pts.
 First Preparatory Test: Mechanics
 
-Theoretical problem 1 is solved.
+Solution to Theoretical Problem 1.
 
 a)
-The acceleration has a horizontal component equal to that of the wind and the
-The horizontal component is gravity. With regard to the coordinate system
-We can write it as:
+The acceleration has a horizontal component equal to that produced by the wind, and the horizontal component is that of gravity. With respect to the coordinate system shown, we can write it as:
 
 2
-2 s
-m
-ax
+2 s m ax
 
 2
-10 s
-m
-a y
+10 s m a y
 
-So we see that the motion in each of the components corresponds to the
-The following conditions shall apply:
+Then we see that the motion, in each of the components, corresponds to that of motion with constant acceleration (MRUV).
 
 The components of the initial velocity (t = 0 s) are:
 
-s
-m
-s
-vx
+s m s vx
 0
 )
-0
-(
+0 (
 
-s
-m
-s
-v y
+s m s v y
 20
 )
-0
-(
+0 (
 
-The time-based components of the ball's speed will therefore be:
+Therefore, the components of the ball's velocity as a function of time will be:
 
-t
-s
-m
-t
-vx
+t s m t vx
 2
 2
 )
 (
 
-s
-m
-t
-s
-m
-t
-v y
+s m t s m t v y
 20
 10
 )
 (
 2
 
-The ball position for t = 0 s is:
+The position of the ball at t = 0 s is:
 
-m
-s
-x
+m s x
 0
 )
-0
-(
+0 (
 
-m
-s
-y
+m s y
 50
 )
-0
-(
+0 (
 
-So the position of the ball, depending on the time, is:
+ Then the position of the ball, as a function of time, is:
 
 2
 2
 1
 )
-(
-t
-s
-m
-t
-x
+( t s m t x
 
-m
-t
-s
-m
-t
-s
-m
-t
-y
+m t s m t s m t y
 50
 20
 5
@@ -1711,20 +1627,8 @@ y
 2
 
 b)
-The moment the ball reaches its maximum height (tm) the vertical component of the ball is
-speed is cancelled.
-s
-m
-s
-m
-t
-s
-m
-t
-v
-m
-m
-y
+At the instant the ball reaches its maximum height (tm) the vertical component of the velocity becomes zero.
+s m s m t s m t v m m y
 0
 20
 10
@@ -1732,26 +1636,12 @@ y
 (
 2
 
-Clearing we get
-s
-tm
+Solving we obtain s tm
 2
 
-So the maximum height the ball reaches is
+Therefore the maximum height reached by the ball is
 
-m
-m
-t
-s
-m
-t
-s
-m
-t
-y
-m
-m
-m
+m m t s m t s m t y m m m
 70
 50
 20
@@ -1761,18 +1651,7 @@ m
 2
 2
 
-The speed of the ball when it reaches the maximum height has only component
-horizontal
-s
-m
-t
-s
-m
-t
-v
-m
-m
-x
+The velocity of the ball when it reaches the maximum height has only a horizontal component s m t s m t v m m x
 4
 2
 )
@@ -1780,22 +1659,9 @@ x
 2
 
 c)
-The moment the ball reaches the floor (tf), for our coordinate system, the
-vertical coordinate is void.
+At the instant the ball reaches the floor (tf), for our coordinate system, the vertical coordinate becomes zero.
 
-m
-m
-t
-s
-m
-t
-s
-m
-t
-y
-f
-f
-f
+m m t s m t s m t y f f f
 0
 50
 20
@@ -1805,32 +1671,21 @@ f
 2
 2
 
-The solutions to this equation are:
+The solutions of this equation are:
 
-m
-t f
+m t f
 742
 ,1
 1
 
-m
-t f
+m t f
 742
 ,5
 2
 
-The positive solution is the one that makes physical sense; then the horizontal distance from the
-The point of launch until it touches the floor is:
+The positive solution is the one that has physical meaning; then the horizontal distance from the launch point until it touches the floor is:
 
-m
-t
-s
-m
-t
-x
-d
-f
-f
+m t s m t x d f f
 967
 ,
 32
@@ -1843,17 +1698,9 @@ f
 2
 
 d)
-The components of the speed of the ball at the instant of impact are:
+The components of the velocity of the ball at the instant of impact are:
 
-m
-t
-s
-m
-t
-v
-f
-f
-x
+m t s m t v f f x
 483
 ,
 11
@@ -1864,17 +1711,7 @@ x
 2
 2
 
-m
-s
-m
-t
-s
-m
-t
-v
-f
-f
-y
+m s m t s m t v f f y
 417
 ,
 37
@@ -1886,20 +1723,9 @@ y
 2
 2
 
-Therefore the speed module at the instant of impact is
+Therefore the magnitude of the velocity at the instant of impact is
 
-m
-t
-v
-t
-v
-t
-v
-f
-y
-f
-x
-f
+m t v t v t v f y f x f
 139
 ,
 39
@@ -1914,76 +1740,59 @@ f
 2
 2
 2
-Theoretical problem 2
-Answering sheet
-Incise
+Theoretical Problem 2
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
-One point.
+1 pt.
 b)
 
-Three points.
+3 pts.
 
-The Commission has not yet adopted a proposal.
-si
-Just
-Put it on .
-la
-(normal)
+(1 pt.
+if only the normal is given)
 c)
 
-Two points.
+2 pts.
 d)
 
-Two points.
+2 pts.
 e)
 
-Two points.
-Preparatory tests - Correct solution to the theoretical problem 2
+2 pts.
+Preparatory Tests - Correct Solution of Theoretical Problem 2
 
 First Preparatory Test: Mechanics
 
-Theoretical problem 2.
+Resolution of Theoretical Problem 2.
 
 a)
 
-$N_0$ : Fuerza normal.
-Q: Weight strength.
-Fr: Force of friction.
+$N_0$ : Normal force.
+P : Weight force.
+Fr : Friction force.
 
 b)
-The floor of the lifting equipment exerts the normal force (in the
-The following conditions shall apply:
+Of the forces drawn above, the floor of the forklift exerts on it the normal force (in the vertical direction) and the friction force (in the horizontal direction).
 
-Let's calculate the normal force exerted by the floor. We know that in the vertical direction
+Let us calculate the normal force exerted by the floor. We know that in the vertical direction
 
-a
-m
+a m
 P
 N
 
 0
 
 4
-0
-g
-m
-mg
+0 g m mg
 N
-
 
 <!--fig:start-->
 ![[_attachments/2019_1ra_prueba_preparatoria/2019_1ra_prueba_preparatoria_p4_f1.png]]
-*pendolo blocco hits its surface*
+*pendulum hits block on its surface*
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Ty_G2bypS5x6-9aR3ic9B8iLCCkxGEXW/view)
 
 ## Figure
 
@@ -2014,21 +1823,23 @@ N
 ## Figure
 
 <!--fig:start-->
-**p.9** — disco CD su asse inclinato (Figura 1)
+**p.9** — CD disk on inclined axis (Figure 1)
 <!--fig:end-->
 
 <!--fig:start-->
-**p.10 **  sloping tube with axis and mass m (Figure 2)
+**p.10** — inclined top with axis and mass m (Figure 2)
 <!--fig:end-->
 
 <!--fig:start-->
-**p.23** — disco CD su asse inclinato soluzione (Figura 1)
+**p.23** — CD disk on inclined axis solution (Figure 1)
 <!--fig:end-->
 
 <!--fig:start-->
-**p.24** — grafico omega2 vs omega1 con retta di fit
+**p.24** — graph omega2 vs omega1 with fit line
 <!--fig:end-->
 
 <!--fig:start-->
-**p.25** — trompo con massa aderente (Figura 2)
+**p.25** — top with adhering mass (Figure 2)
 <!--fig:end-->
+
+

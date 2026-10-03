@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2015 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/cart"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -43,55 +43,26 @@ Friction effects and the size of the toy car should be neglected.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 (13 punti)
+**Problema 1 (13 punti)**
 
-Loop di follia
+Cerchio pazze
 
-An Ambitious Tinkerer costruisce i più vari tracciati per le auto da gioco. One of his favorite tracks contains a loop of radius $R = 40\ \text{cm}$ that, as sketched in the adjacent figure, is interrupted. A very small car starts from a height $h = 3R$, rolls down the slope, and then reaches the gap in the loop. La macchina salta, vola, Atterrà delicatamente all'inizio dell'altra parte del loop e continuerà il suo viaggio.
+Un appassionato costruttore di modellini realizza tracciati molto vari per auto da gioco. Uno dei suoi tracciati preferiti contiene un anello di raggio $R = 40\ \text{cm}$ che, come mostrato nella figura accanto, è interrotto. Un'auto molto piccola parte da un'altezza $h = 3R$, scende lungo la pendenza e raggiunge quindi il tratto mancante nell'anello. L'auto salta, vola... atterra dolcemente all'inizio dell'altra parte dell'anello e prosegue il suo viaggio.
 
-Calcolare la lunghezza della sezione mancante del loop.
+Calcolare la lunghezza della sezione mancante dell'anello.
 
-Gli effetti di frattura e la dimensione della macchina da gioco dovrebbero essere trascurati.
-
-<!--fig:start-->
-![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p2_f1.png]]
-*loop track with height $3R$ and angle $\alpha$*
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 (13 points)
-
-Crazy loop
-
-An ambitious tinkerer builds the most varied tracks for toy cars. One of his favorite tracks contains a loop of radius $R = 40\ \text{cm}$ that, as sketched in the adjacent figure, is interrupted. A very small car starts from a height $h = 3R$, rolls down the slope, and then reaches the gap in the loop. The car jumps, flies, lands gently at the start of the other part of the loop and continues its journey.
-
-Calculate the length of the missing section of the loop.
-
-Friction effects and the size of the toy car should be neglected.
+Si trascurino gli effetti dell’attrito e le dimensioni dell’auto da gioco.
 
 <!--fig:start-->
 ![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p2_f1.png]]
 *loop track with height $3R$ and angle $\alpha$*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/resistor,object/battery,object/star,object/planet,object/ball,object/capacitor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -188,58 +159,11 @@ The figure is available in higher resolution sul sito IPhO.
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Star (object)|Star]], [[Planet (object)|Planet]], [[Ball (object)|Ball]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (13 points)
-
-Resistor network
-
-In addition to a voltage source, the circuit shown contains resistors with resistance values $R_1$ and $R_2$. Initially, identical resistors are used, i.e. $R_1 = R_2$. The current $I$ flowing in this case is $1.0\ \text{A}$.
-
-Determine the current $I$ when the two resistors labeled $R_2$ are each replaced by resistors with twice the resistance value.
-
-Problem 4 (11 points)
-
-The Fate of the Earth
-
-Over the course of its evolution, the composition of the Sun changes due to the fusion processes taking place in its interior. By the end of its phase as a main-sequence star, the Sun's radius will therefore increase to about 1.6 times its present value, while its surface temperature drops to about 96% of today's value.
-
-At the Sun's current stage of development, neglecting the greenhouse effect, an equilibrium temperature of about $246\ \text{K}$ would be established on Earth.
-
-Estimate by how much this temperature will shift due to the change in the sun. Briefly explain what this could mean for life on Earth.
-
-For the estimate, assume that the orbital radius and other relevant parameters of the Earth do not change and that the temperature is the same over the entire Earth.
-
-Problem 3 (13 points)
-
-Chaotic physics
-
-While sorting her physics notes, Hanna finds a graph that she cannot place. Unfortunately, she forgot to label the axes. In her notes, however, she finds three experiments to which she thinks the measured values might correspond.
-
-• The observation of a bouncy ball after it impacts a flat, solid surface located $20\ \text{cm}$ above the floor: the graph shows the height of the bouncy ball (in cm) as a function of time (in ms) after the bounce.
-• The charging of a capacitor with a capacitance of $6.8\ \mu\text{F}$ through a $3.3\ \text{M}\Omega$ resistor. The capacitor is initially charged to a voltage of $20\ \text{V}$. The graph represents the capacitor voltage (in V) as a function of time (in s).
-• The heating of $100\ \text{ml}$ of water in a vessel with an electric heating device (power: $350\ \text{W}$). The water initially has ambient temperature. The graph shows the water temperature (in $^\circ\text{C}$) as a function of time (in s).
-
-In fact, the graph corresponds to exactly one of the experiments. Find out which of the experiments it is and why the other two are not possible. Justify your answer physically for all three experiments.
-
-The figure is available in higher resolution on the IPhO website.
-
-<!--fig:start-->
-![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p2_f2.png]]
-*resistor network $R_1$ $R_2$ with source $U$*
-<!--fig:end-->
-
-**Topic:** [[Astrophysics]], [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Star (object)|Star]], [[Planet (object)|Planet]], [[Ball (object)|Ball]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2015 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -292,35 +216,6 @@ The figure is available in higher resolution sul sito IPhO.
 <!--fig:start-->
 ![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p3_f4.png]]
 *match, lens, optical axis, image*
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KIJp1fefY0u29isN5rdkMNs-TtLpA4QV/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (13 points)
-
-The minimum number of points
-
-Match image
-
-A real image of a match is produced with a thin lens. In the figure, the match, the optical axis of the lens, and the image of the match head are drawn.
-
-Construct the resulting image of the entire match and mark the focal length of the lens in the figure. In doing so, explain your procedure.
-
-The figure is available in higher resolution on the IPhO website.
-
-<!--fig:start-->
-![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p3_f3.png]]
-The following table shows the results of the experiment:
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/46_IPhO_2015_1Rd_Handzettel_web/46_IPhO_2015_1Rd_Handzettel_web_p3_f4.png]]
-The following is the list of the types of equipment used:
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]

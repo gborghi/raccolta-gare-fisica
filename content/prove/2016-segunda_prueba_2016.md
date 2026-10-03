@@ -118,49 +118,45 @@ d) Estimare le incertezze di $\beta$ e $R_0$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The experimental problem. Calibrated from a thermistor.**
+**Experimental Problem. Calibration of a Thermistor.**
 
-As you know, a MSK1 thermometer is a device that allows you to measure temperature. Classical thermometers are based on the phenomenon of thermal dilation of a liquid (mercury or alcohol) which, when the temperature increases, rises by a properly graded column, that is, calibrated.
+As you well know, a *thermometer* is a device used to measure temperature. Traditional thermometers are based on the thermal expansion phenomenon of a liquid (mercury or alcohol), which rises through a suitably graduated column—i.e., calibrated—as temperature increases.
 
-The *thermists* are devices whose electrical resistance, $R$, varies with temperature, $T$. If the $R(T)$ dependence is known and $R$ is measured, $T$ can be deduced, so that they can be used as thermometers.
+*Thermistors* are devices whose electrical resistance, $R$, varies with temperature, $T$. If the dependence $R(T)$ is known and $R$ is measured, then $T$ can be deduced, so that they may be used as thermometers.
 
-In thermistors called NTC (Negative Temperature Coefficient), electrical resistance decreases as the temperature increases. These thermistors are widely used in wide temperature ranges from $-200\,°C$ to $+1500\,°C$, as they offer high sensitivity and a continuous change in their electrical resistance.
+In NTC (Negative Temperature Coefficient) thermistors, electrical resistance decreases with increasing temperature. These thermistors are widely used over broad temperature ranges, from $-200\,°C$ to $+1500\,°C$, because they offer high sensitivity and a continuous change in electrical resistance.
 
-In an NTC thermistor the $R(T)$ dependence is not linear but exponential. In particular, it fits well with a type of dependence
+In an NTC thermistor, the dependence $R(T)$ is not linear but exponential. Specifically, it fits well a relationship of the form
 
 $$R = R_0 \exp\!\left[\beta\!\left(\frac{1}{T} - \frac{1}{T_0}\right)\right] \quad (1)$$
 
-where $T$ is the absolute temperature, $\beta$ is a constant characteristic of the thermistor and $R_0$ is the resistance to the reference temperature $T_0$.
+where $T$ is absolute temperature, $\beta$ is a constant characteristic of the thermistor, and $R_0$ is the resistance at the reference temperature $T_0$.
 
-Taking logarithms in the equation (1) is obtained
+Taking logarithms in equation (1) yields
 
 $$\ln R = \beta\,\frac{1}{T} + \ln R_0 - \frac{\beta}{T_0} \quad (2)$$
 
 That is, a linear dependence is expected between the variables $y = \ln R$ and $x = 1/T$.
 
-In this experimental test we will perform the calibration of a thermistor, i.e. determine the values of the parameters $\beta$ and $R_0$, for a certain $T_0$, from a series of experimental measurements.
+In this experimental test we will perform the calibration of a thermistor, that is, determine the values of parameters $\beta$ and $R_0$ for a certain $T_0$, based on a series of experimental measurements.
 
-Calibration can be carried out by inserting the thermistor into a thermostatic bath whose temperature can be controlled. The resistance of the thermistor is measured with a polymer at different bathroom temperatures, which are measured with a standard thermometer. The results of the measures are presented in the following table:
+Calibration can be carried out by placing the thermistor in a thermostatic bath whose temperature can be controlled and varied. The thermistor's resistance is measured with a multimeter at different bath temperatures, which are measured using a reference thermometer. The results of the measurements are presented in the following table:
 
 | $T$ (°C) | 25 | 35 | 45 | 55 | 65 | 75 | 85 | 95 |
 |---|---|---|---|---|---|---|---|---|
 | $R$ (Ω) | 125 | 111 | 88 | 77 | 70 | 58 | 49 | 45 |
 
-(a) Graphically represent on millimeter paper the eight $(x, y)$ points obtained from the table data. Note that in expressions (1) and (2), $T$ is the absolute temperature.
+a) Plot graphically on millimeter paper the eight points $(x, y)$ obtained from the data in the table. Remember that, in expressions (1) and (2), $T$ is the absolute temperature.
 
-(b) Adjust a straight line to the experimental points in the above graph.
+b) Fit a straight line to the experimental points on the previous graph.
 
-(c) From this adjustment, determine the values of $\beta$ and $R_0$ for $T_0 = 298\,\text{K}$.
+c) From this fit, determine the values of $\beta$ and $R_0$ for $T_0 = 298\,\text{K}$.
 
-(d) Estimate the uncertainties of $\beta$ and $R_0$.
+d) Make an estimate of the uncertainties in $\beta$ and $R_0$.
 
 <!--fig:start-->
 ![[_attachments/2016 segunda_prueba_2016/2016 segunda_prueba_2016_p2_f1.png]]
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+*NTC thermistor component photo*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1UE2OVAByaRmnKsTK-5tBBj0B4BaGNgtx/view)
+

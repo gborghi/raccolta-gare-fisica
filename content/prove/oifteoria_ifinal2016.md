@@ -300,92 +300,71 @@ Olimpíadas Internacionais de Física
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 4 (25 punti)
-In un nucleo allo stato fondamentale i suoi componenti, protoni e neutroni,
-presentano un minimo movimento a causa del fatto che sono collegati al nucleo,
-seguendo il principio dell'incertezza. Per semplicità, consideriamo il potenziale nucleare
-infinito.
-1. Nel nucleo di riferimento, determina quale sia l'incertezza al momento del nucleone nel
-stato di minima energia dato che il suo raggio è R = Ro A1/3, dove Ro = 1,15 fm è il
-Il raggio del nucleone e A è il numero di massa del nucleo.
+Quesito 4 (25 punti)
+In un nucleo nello stato fondamentale i suoi costituenti, protoni e neutroni, presentano un movimento minimo a causa del legame con il nucleo, in accordo col Principio di Indeterminazione. Per semplicità, si consideri il potenziale nucleare infinito.
 
-2. Ora, consideriamo che nel laboratorio di riferimento il nucleo viaggia con una
-velocità v vicino alla velocità della luce, c. Determina l'incertezza del momento
-il nucleone di minima energia in questo riferimento.
+1. Nel riferimento del nucleo, determinare l'incertezza nel momento del nucleone nello stato di energia minima, sapendo che il suo raggio è R = Ro A¹/³, dove Ro = 1,15 fm è il raggio del nucleone e A è il numero di massa del nucleo.
+
+2. Ora si consideri che, nel riferimento del laboratorio, il nucleo si muova con una velocità v prossima alla velocità della luce, c. Determinare l'incertezza nel momento del nucleone nello stato di energia minima in questo riferimento.
+
 4
-
-La Commissione ha adottato una decisione che prevede che il programma di valutazione dei rischi di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+Valutazione Teorica I Selezione Finale 2016
 Olimpiadi Internazionali di Fisica
 12 aprile 2016
 5
 
-La Commissione ha adottato una decisione che prevede che il programma di valutazione dei rischi di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+Valutazione Teorica I Selezione Finale 2016
 Olimpiadi Internazionali di Fisica
 12 aprile 2016
 6
 
-La Commissione ha adottato una decisione che prevede che il programma di valutazione dei rischi di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+Valutazione Teorica I Selezione Finale 2016
 Olimpiadi Internazionali di Fisica
 12 aprile 2016
 7
 
-La Commissione ha adottato una decisione che prevede che il programma di valutazione dei rischi di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+Valutazione Teorica I Selezione Finale 2016
 Olimpiadi Internazionali di Fisica
 12 aprile 2016
 8
 
-La Commissione ha adottato una decisione che prevede che il programma di valutazione dei rischi di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+Valutazione Teorica I Selezione Finale 2016
 Olimpiadi Internazionali di Fisica
 12 aprile 2016
 
-**Topic:** [[Modern-Quantum Physics]], [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zFWdSz9Vzot2YOMIEKlXCI8WWphy9yzU/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 (25 points)
-In a nucleus in the fundamental state its components, protons and neutrons,
-They have minimal movement due to their being connected to the core,
-following the Uncertainty Principle. For simplicity, consider the nuclear potential
-It's infinite.
-1. In the nucleus reference, determine what the uncertainty at the moment of the nucleon in the
-The minimum energy state given that its radius is R = Ro A1/3, where Ro = 1.15 fm is the
-radius of the nucleon and A is the mass number of the nucleus.
+Problem 4 (25 points)
+In a nucleus in its ground state, its constituents—protons and neutrons—exhibit minimal motion due to being bound within the nucleus, in accordance with the Uncertainty Principle. For simplicity, consider an infinite nuclear potential.
 
-2. Now consider that in the lab reference the core travels with a
-speed v near the speed of light, c. Determine the uncertainty at the moment
-the minimum energy nucleon in that reference.
+1. In the nucleus's rest frame, determine the uncertainty in the nucleon’s momentum in its minimum energy state, given that its radius is R = Ro A¹/³, where Ro = 1.15 fm is the nucleon radius and A is the mass number of the nucleus.
+
+2. Now consider that, in the laboratory frame, the nucleus moves with a velocity v close to the speed of light, c. Determine the uncertainty in the momentum of the minimum-energy nucleon in this reference frame.
+
 4
+Theoretical Examination I Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 5
+Theoretical Examination I Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 6
+Theoretical Examination I Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 7
+Theoretical Examination I Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 8
+Theoretical Examination I Final Selection 2016
+International Physics Olympiad
+April 12, 2016
 
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
 
-**Topic:** [[Modern-Quantum Physics]], [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zFWdSz9Vzot2YOMIEKlXCI8WWphy9yzU/view)

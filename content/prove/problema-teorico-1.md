@@ -239,86 +239,65 @@ Terra e della Luna.
 
 <div class="qlang-split" data-lang="en"></div>
 
-2. End distance and end angular velocity of the Earth-Moon system.
-It is assumed that the equations of universal gravity and the
-Newtonian mechanics for a circular orbit, particularly for the orbit of the Moon
-around the Earth. The contribution of the Earth's rotation to the present is neglected.
-The total final angular.
+2. Final distance and final angular velocity of the Earth-Moon system.
+It is assumed that the equations of universal gravitation and Newtonian mechanics always hold for a circular orbit, in particular for the Moon's orbit around Earth. The contribution of Earth’s rotation to the total final angular momentum is neglected.
+
 2a
-It captures, in its final state, the formula for the circular motion of the Moon around the Earth.
-Earth because of gravity. Express the result in terms of
-$M_E$, $\omega_2$, $G$ e della distanza finale Terra-Luna $D_2$. $M_E$ is the mass
-della Terra e $G$ la costante gravitazionale.
+Derive, in the final state, the formula for the circular motion of the Moon around Earth due to gravitational force. Express the result in terms of $M_E$, $\omega_2$, $G$ and the final Earth-Moon distance $D_2$. $M_E$ is the mass of Earth and $G$ the gravitational constant.
 0.2
+
 2b
-It takes the distance, $D_2$, between Earth and the Moon at the end
-The trial. Express the result according to the known parameters $L_1$
-(total angular momentum), $M_E$ and $M_M$ (respectively the masses of the
-Earth and Moon) and the gravitational constant $G$.
-0.5
-2c
-It is the expression of the final angular velocity, $\omega_2$, of the Earth and
-The moon at the end of the trial. Express the result according to the
-The following parameters are known: $L_1$, $M_E$, $M_M$ and $G$.
-0.5
-The following numerical values of $D_2$ and $\omega_2$ are required to be calculated. To do this, you need
-Calculate the moment of inertia of the Earth.
-2d
-It takes the formula of the Earth's moment of inertia, $I_E$, assuming
-che sia una sfera avente densità omogenea $\rho_i$ nei punti che vanno dalla
-distance 0 to a distance $r_i$ from the centre and having the density
-homogeneous $\rho_o$ for points with a distance from the centre between $r_i$ and $r_o$,
-the radius of the earth's surface (see Figure 3).
+Derive the expression for the distance, $D_2$, between Earth and Moon at the end of the process. Express the result in terms of the known parameters $L_1$ (total angular momentum), $M_E$ and $M_M$ (respectively the masses of Earth and Moon) and the gravitational constant $G$.
 0.5
 
-You need to calculate the numerical values in the whole problem with two digits
-They're meaningful.
+2c
+Derive the expression for the final angular velocity, $\omega_2$, of Earth and Moon at the end of the process. Express the result in terms of the known parameters $L_1$, $M_E$, $M_M$ and $G$.
+0.5
+
+Below, numerical values of $D_2$ and $\omega_2$ are to be calculated. To do so, the moment of inertia of Earth must first be computed.
+
+2d
+Derive the formula for the moment of inertia, $I_E$, of the Earth, assuming it is a sphere with uniform density $\rho_i$ for points at distances from the center ranging from 0 to $r_i$, and with uniform density $\rho_o$ for points at distances from the center between $r_i$ and $r_o$, which is the radius of the Earth's surface (see Figure 3).
+0.5
+
+It is required to calculate all numerical values in the problem using two significant figures.
+
 2e
-Calculate the earth's moment of inertia, $I_E$, using $\rho_i = 1.3\times10^4\ \text{kg/m}^3$,
-$r_i = 3.5\times10^6\ \text{m}$, $\rho_o = 4.0\times10^3\ \text{kg/m}^3$, e $r_o = 6.4\times10^6\ \text{m}$.
+Calculate the moment of inertia of the Earth, $I_E$, using $\rho_i = 1.3\times10^4\ \text{kg/m}^3$,
+$r_i = 3.5\times10^6\ \text{m}$, $\rho_o = 4.0\times10^3\ \text{kg/m}^3$, and $r_o = 6.4\times10^6\ \text{m}$.
+
 0.2
-The masses of the Earth and the Moon are $M_E = 6.0\times10^{24}\ \text{kg}$ and
-$M_M = 7.3\times10^{22}\ \text{kg}$. The Earth-Moon distance at this time is
-$D_1 = 3.8\times10^8\ \text{m}$. The Earth's rotation rate is, at this moment,
-$\omega_{E1} = 7.3\times10^{-5}\ \text{s}^{-1}$. The speed at which the Moon is currently orbiting the Earth is
-$\omega_{M1} = 2.7\times10^{-6}\ \text{s}^{-1}$, la costante di gravitazione universale è
+The masses of the Earth and Moon are, respectively, $M_E = 6.0\times10^{24}\ \text{kg}$ and
+$M_M = 7.3\times10^{22}\ \text{kg}$. The Earth-Moon distance at this instant is $D_1 = 3.8\times10^8\ \text{m}$. The current rotational speed of the Earth is $\omega_{E1} = 7.3\times10^{-5}\ \text{s}^{-1}$.
+The current orbital speed of the Moon around the Earth is $\omega_{M1} = 2.7\times10^{-6}\ \text{s}^{-1}$, and the universal gravitational constant is
 $G = 6.7\times10^{-11}\ \text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$.
+
 2f
 Calculate the numerical value of the total angular momentum, $L_1$, of the system.
+
 0.2
 2g
-Calculate the numerical value of the final distance, $D_2$, separating Earth and
-Moon, expressed in meters and units of distance
-The following is the list of the current $D_1$.
+Calculate the numerical value of the final distance, $D_2$, separating Earth and Moon, expressing the result both in meters and in units equal to the current distance $D_1$.
+
 0.3
 2h
-Calculate the numerical value of the final angular velocity, $\omega_2$, by
-The result in $\text{s}^{-1}$ and calculates the duration of the day using the duration of the day
-current as a unit of measurement.
+Calculate the numerical value of the final angular velocity, $\omega_2$, expressing the result in $\text{s}^{-1}$ and calculate the length of the day using the current length of the day as the unit of measurement.
+
 0.3
-Figure 3 is shown. The Earth is a sphere
-having two densities $\rho_i$ and $\rho_o$.
-The Commission has therefore asked the Commission to verify that the approximation made to the
-The ground rotation in the calculation of the final total angular moment is acceptable. To do that
-The ratio of the Earth's angular moment to the moon's angular moment is calculated.
-It's a small amount.
+Figure 3. The Earth is a sphere with two densities $\rho_i$ and $\rho_o$.
+At this point, it is required to verify that the approximation of neglecting Earth's rotation in calculating the final total angular momentum is acceptable. To do so, compute the ratio between Earth's and Moon's angular momenta: it should result in a small quantity.
+
 2i
-Calculates the numerical value of the ratio between the end angles of the
-Earth and the Moon.
+Calculate the numerical value of the ratio between the final angular momenta of Earth and Moon.
+
 0.2
 
 <!--fig:start-->
-**p.4 **  Spherical earth with density r1 and r2
+**p.4** — Spherical Earth with densities r1 and r2
 ![[_attachments/problema teorico 1/problema teorico 1_p4_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1i1XKz8E4JFdtlEuapCb_VbdW8NvWN9hc/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2009 — Teorica — Problema 1 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/rotational-dynamics,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
@@ -399,75 +378,50 @@ anno e di quanto aumenta di conseguenza la durata di un giorno.
 
 <div class="qlang-split" data-lang="en"></div>
 
-3. How far away does the moon go in a year?
-Now you're asking to calculate how far the moon moves away from the Earth in a year. For
-First, you need to get a formula to calculate the momentum of the forces that
-They're on the moon right now. To this end, it is assumed that the two
-The two tidal peaks can be considered as the
-as two material points of mass m each located on the Earth's surface (see
-The following table shows the following: Whether $\theta$ is the angle between the straight line joining the points of mass m and the straight line which
-It connects the centers of the Earth and the Moon.
+3. How far does the Moon recede in one year?
+Now we are asked to calculate how much the Moon moves away from Earth in one year. First, it is necessary to derive a formula for calculating the torque due to the forces acting on the Moon at this moment. To this end, suppose that the two bulges on Earth generated by the two tidal maxima can be considered as two point masses of mass m each, located on Earth's surface (see Figure 4). Let $\theta$ be the angle between the line connecting the two point masses m and the line joining the centers of Earth and Moon.
+
 3a
-Calculate $F_c$, the modulus of the force generated on the Moon by mass
-The point m is closest to it by algebraically proceeding without
-The following is the list of the approximations:
+Calculate $F_c$, the magnitude of the force exerted on the Moon by the point mass m that is closer to it, proceeding algebraically without approximations.
 0.4
+
 3b
-Calculate $F_f$, the modulus of the force generated on the Moon by mass
+Calculate $F_f$, the magnitude of the force exerted on the Moon by the point mass m that is farther from it, proceeding algebraically without approximations.
 0.4
-Figure 4 is shown. Schematic drawing to be used to calculate the moment of forces
-The moon is generated by two masses m above the Earth's surface. The drawing is not
-I'm going to scale.
-point m further from it by algebraically proceeding without
-The following is the list of the approximations:
-At this point, the momentum produced by the two masses m can be calculated by
-Algebraic and, for now, no approximations.
+
+Figure 4. Schematic diagram to be used for calculating the torque on the Moon due to the two masses m located on Earth's surface. The drawing is not to scale.
+
 3c
-Calculate the $\tau_c$ modulus of momentum produced by the mass closest to the
-The moon.
+Calculate the magnitude of $\tau_c$, the torque produced by the mass closer to the Moon.
 0.4
+
 3d
-Calculate the $\tau_f$ modulus, the momentum produced by the farthest mass
-from the moon.
+Calculate the magnitude of $\tau_f$, the torque produced by the mass farther from the Moon.
 0.4
+
 3e
-Calculate an algebraic expression for the resulting momentum formula,
-$\tau$, produced by the two masses. Since $r_o \ll D_1$, at this point you must
-Approximate the result obtained to the smallest significant order
-$r_o/D_1$ using the formula $(1+x)^a \approx 1 + ax$, valid if $x \ll 1$.
+Derive an algebraic expression for the magnitude of the resultant torque,
+$\tau$, resulting from the two masses. Since $r_o \ll D_1$, at this point the result obtained must be approximated to the smallest significant order
+$r_o/D_1$ using formula $(1+x)^a \approx 1 + ax$, valid if $x \ll 1$.
 1.0
 3f
-Now calculate the numerical value of the resulting momentum form $\tau$,
-Knowing that $\theta = 3$ and $m = 3.6\times10^{16}\ \text{kg}$ (note that this mass is
-approximately $10^{-8}$ times the mass of the Earth).
+Now calculate the numerical value of the magnitude of the resultant torque $\tau$, knowing that $\theta = 3$ and $m = 3.6\times10^{16}\ \text{kg}$ (note that this mass is approximately $10^{-8}$ times the mass of Earth).
 0.5
-Since the moment of a force is the derivative of angular moment with respect to time, we
-It requires that the Earth-Moon distance increase in one year be calculated at the time of
-current motorcycle. So we need to express the angular moment of the Moon in
-current engine speed in function only of $M_M$, $M_E$, $D_1$ and $G$.
+Since the torque of a force is the time derivative of angular momentum, it is required to compute the increase in Earth-Moon distance over one year, at the current moment of motion. Therefore, it is necessary to express the Moon's angular momentum at the present moment of motion as a function only of $M_M$, $M_E$, $D_1$ and $G$.
 3g
-Find out how much Earth-Moon distance increases in a year from
-the current configuration of the system.
+Determine by how much the Earth-Moon distance increases over one year, starting from the current configuration of the system.
 1.0
-Finally, it is decided how much longer a day in a year is
-The Commission will take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+Finally, proceed to determine by how much the length of a day increases over one year, starting from the current state.
 3h
-Find how much the Earth's angular velocity decreases, $\omega_{E1}$, in a
-year and how much the length of a day increases accordingly.
+Find by how much the Earth's angular velocity $\omega_{E1}$ decreases over one year, and consequently by how much the length of a day increases.
 1.0
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total number of observations:
+**p.5** — Earth rotation and Moon motion diagram
 ![[_attachments/problema teorico 1/problema teorico 1_p5_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i1XKz8E4JFdtlEuapCb_VbdW8NvWN9hc/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2009 — Teorica — Problema 1 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/conservation-of-energy,topic/rotational-dynamics,topic/gravitation,argomento/meccanica,object/planet,object/satellite"></span>
@@ -519,42 +473,29 @@ mel momento di moto attuale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. Where is the mechanical energy that is missing from the budget?
-While the angular momentum of the system is maintained, the total mechanical energy (the
-The sum of the rotational and gravitational energies) does not remain constant. Si
-The Commission will examine this aspect of the problem in this section.
+4. Where is the missing mechanical energy in the balance?
+
+While the angular momentum of the system is conserved, the total mechanical energy (the sum of rotational and gravitational energy) does not remain constant. This aspect of the problem is analyzed in this section.
+
 4a
-It is an expression for the total mechanical energy, E, (rotational and
-gravitational force) of the Earth-Moon system at the current moment of motion.
-Express the result only as a function of $I_E$, $\omega_{E1}$, $M_M$, $M_E$, $D_1$ and $G$.
+Derive an expression for the total mechanical energy, E (rotational and gravitational), of the Earth-Moon system at the current moment in time.
+Express the result solely in terms of $I_E$, $\omega_{E1}$, $M_M$, $M_E$, $D_1$, and $G$.
 0.4
+
 4b
-It takes an expression to express the energy change $E$, $\Delta E$, in
-The function of the variations of $D_1$ and $\omega_{E1}$. Calculate the numerical value of
-$\Delta E$ in one year, using the variations of $D_1$ and $\omega_{E1}$ calculated in
-3g and 3h points.
+Derive an expression for the change in energy $E$, $\Delta E$, as a function of the changes in $D_1$ and $\omega_{E1}$. Calculate the numerical value of $\Delta E$ over one year, using the changes in $D_1$ and $\omega_{E1}$ computed in parts 3g and 3h.
 0.4
-The next part of the problem is to check that the decrease in energy
-Mechanics consists of an estimate of the energy dissipated in heat at tides that
-The moon produces on Earth. This estimate assumes that the average increase in the level of
-sea level by tidal effect is 0.5 m, i.e. a water layer of $h = 0.5\ \text{m}$
-It covers the entire surface of the Earth (for simplicity's sake, we assume that the entire surface is
-The land is covered with water. And this happens twice a day. It's supposed to be,
-The Commission also proposed that 10% of the gravitational energy be dissipated as heat generated by the
-Viscosity when the tide drops. The density of the water is $\rho_{water} = 10^3\ \text{kg/m}^3$, and
-The gravitational acceleration on the Earth's surface is $g = 9.8\ \text{m/s}^2$.
+
+The next part of the problem allows verifying that the decrease in mechanical energy is consistent with an estimate of the energy dissipated as heat by tides generated by the Moon on Earth. In this estimation, it is assumed that the average increase in sea level due to tides is 0.5 m, meaning a water layer of thickness $h = 0.5\ \text{m}$ covers the entire surface of Earth (for simplicity, it is assumed that the whole Earth's surface is covered by water). Moreover, this occurs twice per day. It is also assumed that 10% of the gravitational energy is dissipated as heat due to viscosity during tidal recession. The density of water is $\rho_{water} = 10^3\ \text{kg/m}^3$, and the acceleration due to gravity at Earth's surface is $g = 9.8\ \text{m/s}^2$.
+
 4c
-What is the mass of this surface water layer?
+What is the mass of this surface layer of water?
 0.2
 4d
-Calculates how much energy is dissipated in a year. Compare this
-value of the mechanical energy lost in one year by the Earth-Moon system
-The current moment of motion.
+
+Calculate how much energy is dissipated in one year. Compare this value with the mechanical energy lost by the Earth-Moon system in one year due to the current angular momentum.
 0.3
 
-**Topic:** [[Conservation of Energy]], [[Rotational Dynamics]], [[Gravitation]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1i1XKz8E4JFdtlEuapCb_VbdW8NvWN9hc/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
+
+

@@ -92,78 +92,32 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 1 di 15
-1. Machinery and materials:
-The apparatus and materials available are listed in the following table:
-Machinery and materials
-Quantity
-Machinery and materials
-Quantity
-A
-The following table shows the results of the calculations:
-1
-I
-Other
-2
-B
-Polarizers comprising
-rotating support
-2
-J
-Battery housing
-1
-C
-Other, of a kind used for the manufacture of goods of heading 8104
-Including TN (yellow threads)
-of rotating support
-1
-K
-Optical bench
-1
-D
-Electrical generator of
-Functions
-1
-L
-Paper sheets in part
-transparent
-2
-E
-Other, of a kind used for the manufacture of goods of heading 8102
-1
-M
-Righello
-1
-F
-Other
-2
-N
-Other, of a thickness of not more than 10 mm
-(to be applied to appliances)
-1
-G
-Alignment LC cell
-Other, of a width of not more than 30 mm
-1
-O
-Other
-1
-H
-Variable resistance
-1
-P
-Graphic paper
-10
-* Do not mark directly on the appliances. When necessary, attack a
-piece of white tape on the objects and trace the marks on the white tape.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+p. 1 of 15
+1. Apparatus and materials:
+The available apparatus and materials are listed in the following table:
 
-**Topic:** [[Wave Optics]], [[Circuits]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
+| Apparatus and materials | Quantity |
+|--------------------------|----------|
+| A Fotoradiator (PD)      | 1        |
+| B Rotatable polarizers including support | 2 |
+| C TN-type liquid crystal cell (yellow wires) including rotatable support | 1 |
+| D Function generator    | 1        |
+| E Diode laser (LD)      | 1        |
+| F Multimeter            | 2        |
+| G Parallel-aligned LC cell (orange wires) | 1 |
+| H Variable resistor     | 1        |
+| I Batteries             | 2        |
+| J Battery holder        | 1        |
+| K Optical bench         | 1        |
+| L Partially transparent paper sheets | 2 |
+| M Ruler                 | 1        |
+| N White adhesive tape* (to be applied on apparatus) | 1 |
+| O Scissors              | 1        |
+| P Graph paper           | 10       |
 
+* Do not draw marks directly on the apparatus. When necessary, attach a piece of white adhesive tape to the objects and draw marks on the white tape.
+
+Italy – Experimental problem
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2003 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>
@@ -222,7 +176,7 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 2 di 15
+p. 2 of 15
 A
 B
 B
@@ -241,34 +195,20 @@ OFF
 HI
 LO
 G
-2. Instructions for the use of the multimeter:
 
-‧
-The DC/AC switch is used to select current or voltage measurements
-The following shall be reported in the following table:
-‧
-It uses the connectors V  and COM for electrical voltage measurements and
-electrical resistance.
-‧
-Use the connectors mA and COM for measuring small electric currents. In
-In this case, the display shows the value of the current in milliamps.
-‧
-Use the selector to select the correct function to perform and the correct function
-the measurement interval. V stands for measurements of electrical voltage, A stands for measurements of
-Electric current and $\Omega$ is for measurements of electrical resistance.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+2. Instructions for using the multimeter:
+
+‧ The “DC/AC” switch is used to select measurements of direct current or voltage (DC) and alternating current or root mean square voltage (AC).
+‧ Use the “V” and “COM” connectors for measurements of electric voltage and electrical resistance.
+‧ Use the “mA” and “COM” connectors for measurements of small electric currents. In this case, the display shows the current value in milliamperes.
+‧ Use the selector switch to choose the correct function and appropriate measurement range. “V” stands for voltage measurements, “A” stands for current measurements, and “$\Omega$” stands for resistance measurements.
+
+Italy – Experimental problem
 
 <!--fig:start-->
-**p.2 **  Disposition of machinery and materials A-K
+**p.2** — Setup of apparatus and materials A-K
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p2_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2003 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
@@ -289,15 +229,8 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 3 di 15
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
-
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
+page 3 of 15
+Italy – Experimental Problem
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2003 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,argomento/elettromagnetismo"></span>
@@ -372,69 +305,38 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 4 di 15
-The following is the list of the
-Measure by measure
-the current
-Electrical
-The following is the list of the
-measure for the
-Electrical voltage
-Other electrical connectors
+p. 4 of 15
+Current measurement ranges
+Voltage measurement ranges, selector switch
 DC/AC
 Selector
-Connector for the
-Electric current
-(mA)
-The following is the list of the
-Measure by measure
-the resistance
-Electrical
-Connector
-Common
-Connector
-for the
-The following conditions shall apply:
-electricity and the
-resistance
-Electrical
-Common
-Port
-Voltage and
-Resistance
-Port
-Current
-The following information shall be provided:
-3. Instructions for the use of the functional electrical generator:
+Current connector (mA)
+Resistance measurement ranges
+Common connector
+Voltage and resistance connector
+Common port
+Voltage & Resistance port
+Current port (mA)
 
-The ignition button can be pressed to turn on (ON) and again
-the power output of the device shall be:
+3. Operating instructions for the function generator:
+
+The power button can be pressed to turn on (ON) and pressed again to turn off (OFF).
 
 Select the frequency range by pressing the corresponding button.
 
 The frequency is displayed on the digital display.
 
-Use the coarse selection knob and then the
-end selection to select the desired frequency value.
+Use the coarse adjustment knob followed by the fine adjustment knob to set the desired frequency value.
 
-Select the square round shape by pressing the leftmost button between those
-The shape of the waves.
+Select the square wave output by pressing the leftmost button among the waveform selection buttons.
 
-Use the power control to vary the voltage of the
-I'm going out.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+Use the amplitude control knob to adjust the output voltage.
+Italy – Experimental problem
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total value of the input:
+**p.4** — Multimeter with connectors and selector
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p4_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2003 — Sperimentale — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/circuits,argomento/elettromagnetismo"></span>
@@ -521,81 +423,34 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 5 di 15
-Connector
-of exit
-Manual of
-Regulation
-The intensity
-of the voltage
-of exit
-Presses for
-the selection
-of the forms
-The Commission
-The buttons for the
-Selection of
-The following table shows the
-frequency
-Display
-of the
-frequency
-Display
-Manual of
-adjustment
-Other, of a thickness of not more than 10 mm
-frequency
-Manual of
-adjustment
-The end of the
-frequency
-Pulsed
-On/Off of
-Other
-e
-Part A: Optical properties of the diode laser
-I. The Commission
-1. Other, of a kind used for the manufacture of goods
-In this experiment, the light source is a diode laser that emits laser light.
-with a wavelength of 650 nm. When the current that powers the diode laser (LD) is
-The diode laser shall be capable of transmitting a coherent monochrome light
-And it's partially polarised. When the current that powers the diode laser is less
-The intensity of the light emitted is very small. Just above the
-The threshold value, the intensity of light increases rapidly as the current increases and
-It has a linear relationship with it. If the current increases further, then
-The rate of light intensity growth relative to current becomes much higher
-It's a little bit smaller because of the higher temperature of the diode laser. In short,
-The optimum operating range of the electric current for the diode laser is the region
-where the intensity of light is linear with the current. In general, the threshold value is
-The current $I_{th}$ is defined as the point of intersection of the current axis with the
-The linear region is characterised by the strap-on line.
-Attention: Do not look directly at the direction of the beam
-The laser. You could damage your eyes!!!
+p. 5 of 15
+Output connector
+Voltage output intensity adjustment knob
+Buttons for waveform selection
+Buttons for frequency range selection
+Frequency display
+Coarse frequency adjustment knob
+Fine frequency adjustment knob
+Button
+On/Off power switch
+
+Section A: Optical Properties of the Diode Laser
+I. Introduction
+1. Diode laser
+In this experiment, the light source is a diode laser emitting laser light with a wavelength of 650 nm. When the current supplying the diode laser (LD) exceeds a threshold value, the diode laser emits monochromatic, coherent, and partially polarized light. When the current supplying the diode laser is below the threshold value, the emitted light intensity is very small. Just above the threshold value, the light intensity increases rapidly with increasing current and remains linearly related to it. If the current continues to increase, the rate at which light intensity grows with respect to current gradually decreases due to the higher temperature of the diode laser. Ultimately, the optimal operating range for the electric current in the diode laser is the region where light intensity is linearly proportional to current. Generally, the threshold current value $I_{th}$ is defined as the point where the current axis intersects the extrapolation of the line characterizing the linear region.
+
+WARNING: Do not look directly into the laser beam. You could damage your eyes!!!
+
 2.
-Other, of a kind used for the manufacture of goods
-The photodiode used in this experiment is a photodiode and
-a current amplifier. When an external electrical voltage of polarization is
-applied to the photodiode, light that hits the diode produces an electric current
-(current photo) If the temperature is maintained constant and the light that is
-The incidence is monochromatic, the photocurrent is proportional to the intensity of light. The current amplifier is then used to convert the photocurrent into an output electrical voltage. There are two transforming factors in our high- and low-income photo detector. In our experiment, it must be
-The Commission has not yet taken into account the fact that the Commission has not yet adopted a proposal for a regulation. In addition, because of the limitation of the
-The output voltage of the photodiode itself reaches a saturation of about 8 V
-If the light intensity is too high, the photodiode is no longer able to function properly. So the correct operating range of the photorevelator is
-When the electrical voltage is still proportional to the light intensity. If the light intensity is so high that the photodiode reaches saturation, the reading of the
-The photoreflector may not correctly represent the intensity of the incident light.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+Photodetector
+The photodetector used in this experiment consists of a photodiode and a current amplifier. When an external bias voltage is applied to the photodiode, incident light produces an electric current (photocurrent). In the case where temperature is kept constant and the incident light is monochromatic, the photocurrent is proportional to the light intensity. Subsequently, the current amplifier is used to convert the photocurrent into an output electrical voltage. There are two gain settings in our photodetector—high and low gain. In our experiment, only the low-gain setting must be used. Moreover, due to limitations inherent in the photodiode itself, the output electrical voltage saturates at approximately 8 V when light intensity is too high: the photodiode can no longer operate properly. Therefore, the correct operating range of the photodetector is when the output voltage remains proportional to light intensity. If the incident light intensity becomes so high that the photodiode reaches saturation, the photodetector reading may no longer accurately represent the incident light intensity.
+
+Italy – Experimental problem
 
 <!--fig:start-->
-The following information is provided for in the Annex to Regulation (EU) No 1303/2013.
+**p.5** — Waveform generator
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p5_f3.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Circuits]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2003 — Sperimentale — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor,object/battery"></span>
@@ -645,44 +500,19 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 6 di 15
+p. 6 of 15
 II. Experiment
-Oh , my dear .
+Characteristics of the diode laser and the photodetector
 
-T teristic
+ To ensure reliable measurements in subsequent steps, it is essential to achieve proper optical alignment of the light rays among the various components of the experimental setup. Additionally, the light source and detector must operate under appropriate conditions. Part A addresses these issues.
 
- he
-of the
-Other
+1. Mount the diode laser and photodetector on the optical bench along a horizontal line, as shown in Fig. 1. Connect the circuit consisting of the variable resistor, the battery pack, the multimeter set to ammeter function, a second multimeter set to voltmeter function, the diode laser, and the photodetector, following the diagram in Fig. 2. Adjust the value of the variable resistor so that the current flowing through the diode laser LD is approximately 25 mA and the laser emits light properly. Select the low-gain mode on the photodetector, with the switch set to Low. Align the diode laser and the photodetector so that the height of the laser beam coincides with the small hole in the detector housing, and the photodetector reading reaches its maximum value.
 
-Of a kind used for the manufacture of goods of heading 8406
+Warning: Do not allow the red and black battery connectors to touch each other, as this could cause a short circuit.
 
- to
-Other, not further worked than cutting
-
-In order to make the measurements taken subsequently reliable, it is essential to obtain a good optical alignment of the light rays between the various components.
-The experimental apparatus. In addition, the light source and the detector should be
-operate under the right conditions. Part A refers to these issues.
-1. Mount the diode laser and the photorevelator on the optical bench along a horizontal line, as shown in Fig. 1. Connect the resistor circuit
-variable from the total of the batteries, from the multimeter to the ampere function,
-The second multimeter in the voltmeter function, the laser to diode and the
-The photodetector, following the diagram shown in Fig. 2. It regulates the value of the
-variable resistance so that the current circulating through the diode laser
-The LED is approximately 25 mA and the diode laser emits the light correctly. Select the low-gain mode on the photo detector, switch on Low. It aligns the
-Diode laser and photorevelator until the laser beam height is reached
-the small hole in the detector box and the reading of the photoreflector reaches the maximum value.
-Note: Do not let the black and red connectors of the
-batteries to avoid short circuits.
-- What? 1 Optical assembly (LD: diode laser; PD: photorevelator)
-- What? 2 Equivalent circuit for the connection of the diode laser
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
-
-**Topic:** [[Wave Optics]], [[Circuits]], [[Geometric Optics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
+Fig. 1 Optical mounting (LD: diode laser; PD: photodetector)
+Fig. 2 Equivalent circuit for connecting the diode laser
+Italy – Experimental problem
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2003 — Sperimentale — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/circuits,argomento/elettromagnetismo,object/resistor"></span>
@@ -734,46 +564,36 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 7 di 15
+p. 7 of 15
 LD
 PD
 3 V
-2. Use the output voltage of the photorevelator to represent the $J$ intensity of the laser light. Change the variable resistance value to vary the $I$ current of the diode laser from zero to a maximum value and measure $J$ as a function
-The increase in $I$. Be careful when choosing the appropriate current increase
-during the measurement.
-The following points are added:
-Run the measurements, report them to a table and construct a graph of the $J$ curve in
-funzione di $I$.
+2. Use the output electrical voltage from the photodetector to represent the laser light intensity $J$. Vary the value of the variable resistor to change the diode laser current $I$ from zero up to its maximum value, and measure $J$ as a function of the increase in $I$. Be careful to choose an appropriate current increment during measurement.
+
+Question A-(1) (1.5 points)
+Perform the measurements, record them in a table, and construct a graph of $J$ as a function of $I$.
+
 Question A-(2) (3.5 points)
-Provide an estimate of the maximum current value $I_m$, complete uncertainty
-The measurement of the linear region of the curve $J$ in relation to $I$. In the
-Graphical representation of the curve $J$ as a function of $I$ delimits the linear region
-using arrows () and determines the value of the threshold current $I_{th}$, complete with the uncertainty of the measurement.
-3. Select the value of the electric current of the diode laser $I_{th} + 2(I_m - I_{th})/3$ in
-This is a way to make sure that the diode laser and the photorevelator work properly.
-4. To prepare for part B of the experiment: Install a polarizer on the
-The optical bench in a position close to the diode laser as shown in Figure 1. 3. Make sure the laser beam passes through the central portion of the polarizer. Adjust the polarizer so that the incident laser beam is orthogonal to the plane
-The polarizer. (Suggest: You can insert a partially transparent piece of paper as a test screen to check whether the bright spots of incident and reflected light match each other.)
-- What? 3 Polarity alignment (P: polarity)
-4. Keep the electric current of the diode laser unchanged, install another polarizer on the optical bench and make sure that the correct alignment is achieved, that is, set the source, detector and polarizers in a straight line and adjust the
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+Provide an estimate of the maximum current value $I_m$, including measurement uncertainty, for the linear region of the curve $J$ as a function of $I$. On the graphical representation of $J$ as a function of $I$, mark the linear region using arrows ( ) and determine the threshold current value $I_{th}$, including measurement uncertainty.
+
+3. Select a diode laser current value equal to $I_{th} + 2(I_m - I_{th})/3$, ensuring that both the diode laser and photodetector are operating correctly.
+4. For part B of the experiment: Set up a polarizer on the optical bench close to the diode laser as shown in Fig. 3. Ensure that the laser beam passes through the central region of the polarizer. Adjust the polarizer so that the incident laser beam is perpendicular to the plane of the polarizer. (Hint: You may insert a partially transparent piece of paper as a test screen to check whether the bright spots from the incident and reflected light coincide.)
+
+Fig. 3 Alignment of the polarizer (P: polarizer)
+
+4. Keep the diode laser’s current unchanged, mount a second polarizer on the optical bench, and ensure proper alignment is achieved—i.e., align the light source, detector, and polarizers in a straight line and pay attention to
+
+Italy – Experimental problem
 
 <!--fig:start-->
-**p.7** — Fig. 1 Optical installation of laser-photoresist
+**p.7** — Fig. 1 Optical setup laser-detector
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p7_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7** — Fig. 2 Circuit equivalent to laser connection
+**p.7** — Fig. 2 Equivalent circuit for laser connection
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p7_f5.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2003 — Sperimentale — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/electrostatics,topic/geometric-optics,argomento/elettromagnetismo"></span>
@@ -825,46 +645,23 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 8 di 15
-The plane of each polarizer shall be orthogonal to the beam of light.
-Part B Optical properties of a Nematic Liquid Crystal:
-The electrical-optical switching characteristics of a liquid crystal cell
-a rotating controller of $90^\circ$
-I.
-The Commission
-1. Other, of a kind used for the manufacture of glassware
-Liquid crystal (sometimes referred to as LC) is a state of matter intermediate between crystalline solid and amorphous liquid. A crystal
-The liquid is an organic compound with molecules stretched with the
-It's like a needle. The application of an electric field makes it easy to align them in the
-The same direction and control the overall direction. In most liquid crystal devices, a uniform or well-oriented orientation of the molecules is required.
-defined. In Fig. The structure of the liquid crystal cell used in the
-This experiment. Glass substrates are first coated with a conductive layer
-a transparent one of indium oxide and tin (electrode) and then a thin polyimide layer. Then, by slightly stretching a sheet of optical paper over the polymeric layer, microscopic strips of paper are produced, which form a preferred direction.
-For the orientation of liquid crystal molecules, thus, due to the interaction of the
-In the case of a single molecule, the entire liquid crystal layer can reach a uniform molecular orientation. The direction of the local orientation of the molecules is called the liquid crystal direction at that point.
-The liquid crystal cell shows the phenomenon called bifrangence, with two main refractive indices. When the light spreads along the director's direction,
-All polarization components propagate at the same rate $v_o = \dfrac{c}{n_o}$
-, where $n_o$ is called ordinary refractive index. This direction of propagation
-(the director's) is called the optical axis of the LC cell. When a beam of light is
-The speed of the optical axis is generally two-way.
-The Commission will take the necessary measures to ensure that the information is available. Polarised light with the electric field perpendicular to the direction
-(or parallel) to the optical axis propagates at $v_o = \dfrac{c}{n_o}$ (or respectively
-$v_e = \dfrac{c}{n_e}$, where $n_e$ is called the extraordinary refractive index). Routes followed
-The radius is called ordinary radius and extraordinary radius respectively. The optical anisotropy coefficient is defined as the difference between the extraordinary and ordinary refractive indices:
+p. 8 of 15 The condition that the plane of each polarizer be orthogonal to the light beam.
+
+Part B Optical Properties of a Nematic Liquid Crystal:
+Electro-optic switching characteristics of a nematic liquid crystal cell with rotated director $90^\circ$
+
+I. Introduction
+1. Liquid crystals
+Liquid crystal (in the following sometimes denoted LC) is a state of matter intermediate between that of a crystalline solid and an amorphous liquid. A nematic liquid crystal consists of an organic compound with elongated molecules shaped like needles. By applying an electric field, it is easy to align these molecules in the same direction and control their overall orientation. In most liquid crystal devices, a uniform or well-defined molecular alignment is required. Figure 4 shows the structure of the liquid crystal cell used in this experiment. The glass substrates are first coated with a transparent conducting layer of indium and tin oxide (electrode), followed by a thin polyimide layer. By gently rubbing the polyimide layer with an optical paper sheet, microscopic grooves are formed that provide a preferred direction for the alignment of liquid crystal molecules; thus, due to molecular interactions, the entire layer of liquid crystal can achieve a uniform molecular orientation. The direction of local molecular alignment at a given point is called the liquid crystal director at that location.
+The liquid crystal cell exhibits the phenomenon known as birefringence, with two principal refractive indices. When light propagates along the direction of the director, all polarization components travel at the same speed $v_o = \dfrac{c}{n_o}$, where $n_o$ is called the ordinary refractive index. This propagation direction (that of the director) is referred to as the optical axis of the LC cell. When a light beam propagates in the direction orthogonal to the optical axis, there are generally two propagation speeds. Light polarized with its electric field perpendicular (or respectively parallel) to the optical axis propagates at speed $v_o = \dfrac{c}{n_o}$ (or respectively $v_e = \dfrac{c}{n_e}$), where $n_e$ is called the extraordinary refractive index. The respective paths followed are known as the ordinary ray and the extraordinary ray. The optical anisotropy coefficient is defined as the difference between the extraordinary and ordinary refractive indices:
 $\Delta n \equiv n_e - n_o$.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+
+Italy – Experimental problem
 
 <!--fig:start-->
-The following table shows the results of the evaluation: 3 Polarising laser-detector alignment
+**p.8** — Fig. 3 Alignment of laser and detector polarizers
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p8_f6.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Electrostatics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Superposition Principle (metodo)|Superposition Principle]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2003 — Sperimentale — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
@@ -892,22 +689,13 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 9 di 15
-- What? 4 Structure of a cell in LC
-2. Cella a LC nematici a direttore ruotato di $90^\circ$
-In the cell shown in Fig. 5 (Cella a LC nematici a direttore ruotato di $90^\circ$, d’ora
-the rear surface LC director is rotated by
-$90^\circ$ compared to that of the front surface. A polarizer is placed upstream, with a transmission axis parallel to the direction of the front surface of the
-The cell. The incident unpolarized light is converted to polarized light by passing through the first polarizer.
-- What? 5 TN cell
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+p. 9 of 15
+Fig. 4 Structure of an LC cell
+2. Rotated-director nematic LC cell with $90^\circ$
+In the cell shown in Fig. 5 (Rotated-director nematic LC cell with $90^\circ$, henceforth referred to as TN cell), the LC director on the back surface is rotated by $90^\circ$ relative to that on the front surface. A polarizer is placed in front, with its transmission axis parallel to the director of the front surface of the cell. Incident unpolarized light is converted into polarized light upon passing through the first polarizer.
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Superposition Principle (metodo)|Superposition Principle]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
+Fig. 5 TN cell
+Italy – Experimental problem
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2003 — Sperimentale — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/electrostatics,topic/geometric-optics,argomento/elettromagnetismo"></span>
@@ -975,45 +763,31 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 10 di 15
+page 10 of 15
 LC layer
 Glass substrate
-Polymeric layer
-Electrical equipment
-Other, of a thickness of not more than 0,5%
-Other, of a kind used for the manufacture of textile materials
-Other, not further worked than cutting
+Polyimide layer
+Electrode
+Polyimide layers
+Polarizer
+Analyzer
 LC molecules
-Direction of
-Propagation
-of light
-Electrical equipment
+Direction of light propagation
+Electrode
 Glass substrate
-Polymeric layer
-When polarized light passes linearly through a TN cell, its
-Polarization follows the rotation of the liquid crystal conductor (polarized light)
-vede solo $n_e$) cosicché il fascio in uscita è ancora polarizzato ma la sua direzione di
-The resulting polarisation is rotated by $90^\circ$ (this is called the rotation effect of the polarisation by $n_e$; similarly there is a rotation effect of the polarisation by
-part of $n_o$). Then the cell can be used in a normally black (hereinafter, NB) way using a TN cell now described followed by a second polarizer (called analyzer), whose transmission axis is parallel to that of the first
-The resulting polarizer, as shown in Fig. 6. However, when the electrodes in the LC cell
-a potential difference $V$ is applied if it exceeds a critical value $V_c$ the
-LC molecule director tends to align along the direction of the outer field
-applied, which is in the direction of light propagation. In this case the effect of
-The direction of polarization in the LC cell decreases gradually and the light passes
-through the analyzer. Its electric-optical switching slope is defined
-as the $(V_{90} - V_{10})/V_{10}$ ratio, where $V_{10}$ and $V_{90}$ are the potential differences
-Applications allowing an output light intensity of 10% or more; and
-90% of the maximum luminous intensity.
-- What? 6 NB mode of operation of a TN cell
+Polyimide layer
+When linearly polarized light passes through a TN cell, its polarization follows the rotation of the liquid crystal director (the light "sees" only $n_e$), so that the outgoing beam remains polarized but its polarization direction is rotated by $90^\circ$ (this is called the polarization rotation effect due to $n_e$; similarly, there is a polarization rotation effect due to $n_o$). The cell can thus be used in a "normally black" (hereafter, NB) mode by placing the described TN cell followed by a second polarizer (called an analyzer), whose transmission axis is parallel to that of the first polarizer, as shown in Fig. 6. However, when a voltage difference $V$ is applied to the electrodes of the LC cell, if it exceeds a critical value $V_c$, the liquid crystal molecules tend to align along the direction of the external electric field, which is parallel to the light propagation direction. In this case, the polarization guiding effect in the LC cell gradually decreases and the light passes through the analyzer. The electro-optic switching slope is defined as the ratio $(V_{90} - V_{10})/V_{10}$, where $V_{10}$ and $V_{90}$ are the applied voltage differences that result in an output light intensity equal respectively to 10% and 90% of the maximum output light intensity.
+
+Fig. 6 NB operating mode of a TN cell
 II. Experiment
-Place a TN cell in NB mode between two polarizers with parallel transmission axes and, using the function generator, apply a difference of
-The potential of the wave is 100 Hz, then the amplitude varies between 0 and 7.2 V.
-($V_{rms}$).
-Suggestions for the following:
+Arrange a TN cell in the NB configuration between two polarizers whose transmission axes are parallel to each other. Using the function generator, apply a square-wave voltage at 100 Hz across the electrodes, then vary its amplitude from 0 to 7.2 V ($V_{rms}$).
+
+Hints:
 Do not touch the surface of the LC cell.
-Adjust the support so that the surface of the LC cell is orthogonal to the axis.
-In critical areas, infect the data if necessary.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+Adjust the support so that the surface of the LC cell is perpendicular to the optical axis.
+In critical regions, increase data density if necessary.
+
+Italy – Experimental problem
 
 <!--fig:start-->
 **p.10** — Fig. 4 Structure of an LC cell
@@ -1021,16 +795,9 @@ The Commission has already adopted a proposal for a directive on the protection 
 <!--fig:end-->
 
 <!--fig:start-->
-**p.10** — Fig. 5 TN cell with rotating director
+**p.10** — Fig. 5 Rotated-direction TN cell
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p10_f8.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Electrostatics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="IPhO 2003 — Sperimentale — Quesito 11" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/electrostatics,argomento/elettromagnetismo"></span>
@@ -1066,30 +833,25 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 11 di 15
-Other, of a kind used for the manufacture of textile materials
-Other, not further worked than cutting
-TN cell
+p. 11 of 15
+Polarizer
+Analyzer
+TN Cell
+
 Question B-(1) (5.0 points)
-Run the measurements, report them to a table and construct a graph of the electroptic switching curve (light intensity $J$ in terms of amplitude $V_{rms}$) for the cell
-TN in NB mode, and finds its switching slope $\gamma$, where $\gamma$ is defined
-as $(V_{90} - V_{10})/V_{10}$.
+Perform the measurements, record them in a table, and construct a graph of the electro-optic switching curve (luminous intensity $J$ as a function of amplitude $V_{rms}$) for the TN cell in normal black (NB) mode. Determine its switching slope $\gamma$, where $\gamma$ is defined as $(V_{90} - V_{10})/V_{10}$.
+
 Question B-(2) (2.5 points)
-Find the critical potential difference $V_c$ of this TN cell in NB mode. By building a detailed graph, you explicitly explain how you get the value of $V_c$.
-Tip: When the applied potential difference exceeds $V_c$, the transmitted light increases sharply and rapidly.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+Determine the critical voltage difference $V_c$ for this TN cell in normal black (NB) mode. By constructing a detailed graph, explicitly explain how you obtain the value of $V_c$.
+
+Hint: When the applied voltage difference exceeds $V_c$, the transmitted light increases abruptly and rapidly.
+
+Italy – Experimental problem
 
 <!--fig:start-->
-The following table shows the results of the evaluation: 6 Mode NB cell TN
+**p.11** — Fig. 6 Normal Black (NB) mode TN cell
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p11_f9.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Electrostatics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="IPhO 2003 — Sperimentale — Quesito 12" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
@@ -1135,40 +897,23 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 12 di 15
-Part C Optical properties of a Nematic liquid crystal
-Electrical-optical switching characteristics of a liquid crystal cell
-parallel alignment
-I.
-The Commission
-The test chemical shall be used to determine the concentration of the active substance in the test chemical.
-In a parallel aligned LC cell the front surface and the
-The rear side is parallel to each other, as shown in Figure 7. When on a
-This cell is the focal point of the polarized light parallel to the LC director (direction of the LC).
-The resulting phase modulation is only achieved as the light behaves.
-Just like an extraordinary ray.
-- What? 7 Homogeneous LC cell with parallel alignment
-Conversely, if linearly polarized light is orthogonal to a cell at
-parallel alignment but its direction of polarization forms an angle $\theta$
-The Commission's proposal for a regulation on the management of the LC (see Figure 1). 8), then you have a phase delay
-The reason for the different rates of propagation of ordinary and extraordinary rays in the
-half a LC. For example, in this configuration, by placing the cell between two parallel polarizers with each other and with $\theta = 45^\circ$ relative to the controller, the normalised transmission
-of a parallel aligned LC cell is given by
-$$T_\parallel = \cos^2\frac{\delta}{2}$$
-where the phase delay $\delta$ is given by
-$$\delta = 2\pi d\,\Delta n(V,\lambda)/\lambda$$
-where $d$ is the thickness of the liquid crystal layer, $\lambda$ the air wavelength, $V$
-The mean square width of the applied AC potential difference, $\Delta n (= n_e - n_o)$
+p. 12 of 15
+Part C Optical Properties of a Nematic Liquid Crystal
+Electro-optic Switching Characteristics of a Parallel-aligned Liquid Crystal Cell
+
+I. Introduction
+Parallel-aligned homogeneous liquid crystal cell
+
+In a parallel-aligned liquid crystal (LC) cell, the surface directors of the front and back substrates are parallel to each other, as illustrated in Figure 7. When linearly polarized light propagates along the LC director (sliding direction) incident on such a cell, only phase modulation occurs because the light behaves exclusively as an extraordinary ray.
+
+Fig. 7 Parallel-aligned homogeneous liquid crystal cell
+
+Conversely, if linearly polarized light is incident perpendicularly on a parallel-aligned cell but its polarization direction forms an angle $\theta$ with the LC director (see Figure 8), a phase delay arises due to the different propagation velocities of the ordinary and extraordinary rays within the LC medium. For example, in this configuration, placing the cell between two parallel polarizers oriented at $\theta = 45^\circ$ relative to the LC director, the normalized transmission of a parallel-aligned LC cell is given by
+$$T_\parallel = \cos^2\frac{\delta}{2}$$ where the phase delay $\delta$ is expressed as
+$$\delta = 2\pi d\,\Delta n(V,\lambda)/\lambda$$ with $d$ denoting the thickness of the liquid crystal layer, $\lambda$ the wavelength in air, $V$ the root-mean-square amplitude of the applied AC voltage, and $\Delta n (= n_e - n_o)$
 - function of $\lambda$ and $V$ - the optical anisotropy coefficient. It should be noted that when
-$V = 0$, $\Delta n$ has its maximum value, and so does $\delta$. In addition $\Delta n$ decreases when
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
-
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
+$V = 0$, $\Delta n$ reaches its maximum value, and likewise $\delta$. Moreover, $\Delta n$ decreases when
+Italy – Experimental problem
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="IPhO 2003 — Sperimentale — Quesito 13" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>
@@ -1211,37 +956,26 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 13 di 15
-Molecules of LC
+p. 13 of 15
+LC Molecules
 Substrate
-$V$ aumenta.
-In general, you have to
+$V$ increases.
+In the general case, one has that
 $$T_\parallel = 1 - \sin^2 2\theta \sin^2\frac{\delta}{2}$$
-$$T_\perp = \sin^2 2\theta \sin^2\frac{\delta}{2}$$
-where $\parallel$ and $\perp$ indicate that the transmission axis of the analyser is respectively
-parallel or orthogonal to that of the first polarizer.
+$$T_\perp = \sin^2 2\theta \sin^2\frac{\delta}{2}$$ where $\parallel$ and $\perp$ indicate that the transmission axis of the analyzer is respectively parallel or perpendicular to that of the first polarizer.
+
 II. Experiment
-1. Remove cell NT from its support and replace it with cell LC in alignment
-parallel to the other.
-2. Set the configuration to $\theta = 45^\circ$ by leaving $V = 0$, as shown in Fig. 8.
-Place the transmission axis of the orthogonal analyzer to that of the polarizer, then rotate the LC cell in parallel alignment until the light intensity
-The transmission shall reach the maximum value ($T_\perp$). This way you find the configuration with $\theta = 45^\circ$ . Enter the value of $T_\perp$, then measure the intensity ($T_\parallel$) of the
-Light transmitted from the same cell when the analyser is transmitted
-is parallel to that of the first polarizer (always $V = 0$).
-- What? 8 Scheme of experimental assembly
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+1. Remove the NT cell from its holder and replace it with the LC cell aligned in parallel.
+2. Set up the configuration with $\theta = 45^\circ$, leaving $V = 0$ as shown in Fig. 8.
+Align the transmission axis of the analyzer perpendicular to that of the polarizer, then rotate the LC cell aligned in parallel until the transmitted light intensity reaches its maximum value ($T_\perp$). In this way, you find the configuration with $\theta = 45^\circ$. Record the value of $T_\perp$, then measure the transmitted light intensity ($T_\parallel$) from the same cell when the transmission axis of the analyzer is parallel to that of the first polarizer (always with $V = 0$).
+
+Fig. 8 Experimental setup diagram
+Italy – Experimental problem
 
 <!--fig:start-->
 **p.13** — Fig. 7 LC cell with parallel alignment
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p13_f10.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="IPhO 2003 — Sperimentale — Quesito 14" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>

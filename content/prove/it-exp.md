@@ -66,52 +66,45 @@ dove il vertice è in $V(0, y_0)$ e il fuoco è in $F(0, y_0+C)$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Part 1: Determination of g using a rotating liquid [7.5 p.t]
+**PART 1: DETERMINING g USING A ROTATING LIQUID [7.5 pt]**
 
-When a cylindrical container filled with liquid rotates around the vertical axis passing through its center, with a constant angular velocity $\omega$, the surface of the liquid becomes parabolic. At equilibrium, the tangent to the surface at the point $P(x,y)$ forms an angle $\alpha$ with the horizontal, such that
+When a cylindrical container filled with liquid rotates around the vertical axis passing through its center, with constant angular velocity $\omega$, the surface of the liquid becomes parabolic. At equilibrium, the tangent to the surface at point $P(x,y)$ forms an angle $\alpha$ with the horizontal, such that
 
 $$\tan\alpha = \frac{\omega^2 x}{g} \quad (1)$$
 
-where $R$ is the container radius and $g$ is the acceleration of gravity.
+where $R$ is the radius of the container and $g$ is the acceleration due to gravity.
 
-It can be shown that, for $\omega < \omega_{\max}$ (where $\omega_{\max}$ is the speed at which the center of the liquid reaches the bottom),
+It can be shown that, for $\omega < \omega_{\max}$ (where $\omega_{\max}$ is the velocity at which the center of the liquid reaches the bottom),
 
-for $x = x_0 = R/\sqrt{2}$ we have that $y(x_0) = h_0$ (2)
+for $x = x_0 = R/\sqrt{2}$ it holds that $y(x_0) = h_0$ (2)
 
-That is, the height of the liquid is the same as if the liquid were not rotating.
+i.e., the height of the liquid is the same as if the liquid were not rotating.
 
-The profile of the rotating liquid is a parabola described by the equation:
+The shape of the rotating liquid is a parabola described by the equation:
 
 $$y = y_0 + \frac{\omega^2}{2g}x^2 \quad (3)$$
 
-where the summit is in $V(0, y_0)$ and the fire is in $F(0, y_0+C)$.
+where the vertex is located at $V(0, y_0)$ and the focus is located at $F(0, y_0+C)$.
 
-- Show the equation (1).
-- Measure the $h_0$ height of the liquid in the container and the internal diameter $2R$ of the container.
-- Put the screen between the light source and the container. Measure the distance $H$ between the screen and the rotating platform (see Fig. 2).
-- align the laser so that the beam points vertically downwards and hits the surface of the liquid at a distance $x = x_0$ from the center of the container.
-- Slowly rotate the platform. Make sure the center of the rotating liquid does not touch the bottom of the container.
-- It is known that at a distance $x = x_0$ the height of the liquid remains at the same original value $h_0$, regardless of the angular velocity $\omega$. Using this fact and measuring the $\alpha$ angle of the surface for different values of $\omega$, run an experiment to determine gravitational acceleration $g$.
-- It shows in the table the quantities measured and calculated for each value of $\omega$.
-- Draw the graph needed to calculate $g$.
-- Calculate the value of $g$ and the corresponding experimental error.
-- Returns the values $2R$, $x_0$, $h_0$, $H$, the experimental value of $g$ and its error on the reply sheet.
+- Prove Equation (1).
+- Measure the height $h_0$ of the liquid in the container and the internal diameter $2R$ of the container.
+- Insert the screen between the light source and the container. Measure the distance $H$ between the screen and the rotating platform (see Figure 2).
+- Align the laser so that the beam points vertically downward and strikes the liquid surface at a distance $x = x_0$ from the center of the container.
+- Slowly rotate the platform. Ensure that the center of the rotating liquid does not touch the bottom of the container.
+- It is known that, at a distance $x = x_0$, the height of the liquid remains equal to its original value $h_0$, regardless of the angular velocity $\omega$. Using this fact and measuring the angle $\alpha$ of the liquid surface for different values of $\omega$, perform an experiment to determine the gravitational acceleration $g$.
+- Tabulate the measured and calculated quantities for each value of $\omega$.
+- Plot the necessary graph to calculate $g$.
+- Calculate the value of $g$ and its experimental error.
+- Report the values $2R$, $x_0$, $h_0$, $H$, the experimental value of $g$ and its error on the answer sheet.
 
 <!--fig:start-->
 ![[_attachments/IT-EXP/IT-EXP_p7_f1.png]]
-The following table shows the parameters of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement.
+*Parabolic surface rotating liquid geometry*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/IT-EXP/IT-EXP_p8_f2.png]]
-The following information is provided by the Commission:
+*Experimental setup parts 1 and 2*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Gravitation]], [[Geometric Optics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2001 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/geometric-optics,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/mirror,object/tank-container,object/screen"></span>
@@ -149,32 +142,25 @@ Poiché la curvatura della superficie liquida varia con la velocità angolare $\
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**PART 2a: DETERMINATION OF THE FOCAL DISTANCE [5.5 pt]**
 
-Since the curvature of the liquid surface varies with the angular velocity $\omega$, the focal length of this optical system depends on $\omega$. The parallel optical axis light rays reflected from the parabolic surface shall be focused at $F$ (see Fig. 1).
+Since the curvature of the liquid surface varies with angular velocity $\omega$, the focal distance of this optical system depends on $\omega$. Parallel light rays to the optical axis reflected from the parabolic surface are focused at point $F$ (see Fig. 1).
 
-- Line the laser so that the beam is directed vertically downwards in the center of the container. It is contrasted with the point $P$ where the beam hits the screen: the straight line passing through this point and through the center of the container is therefore the optical axis of this system (see Fig. 2).
-- Since the surface of the liquid behaves like a parabolic mirror, any incident ray parallel to the optical axis will pass through the $F$ light on the optical axis after reflection.
-- Adjust the rotation speed so the fire is on the screen. Measure the angular speed $\omega$ and the distance $H$ between the screen and the rotating plate.
+- Align the laser so that the beam is directed vertically downward, at the center of the container. Mark point $P$ where the beam hits the screen: the line passing through this point and the center of the container is therefore the optical axis of this system (see Fig. 2).
+- Since the liquid surface behaves like a parabolic mirror, each incident ray parallel to the optical axis will pass through the focus $F$ on the optical axis after reflection.
+- Adjust the rotational speed so that the focus lies on the screen. Measure the angular velocity $\omega$ and the distance $H$ between the screen and the rotating plate.
 - Repeat the previous steps for different values of $H$.
-- Returns the measured values for $2R$ and $h_0$ and the value of $\omega$ for each value of $H$ on the reply sheet.
-- Using an appropriate graph using your data, find the relationship between focal length and angular velocity $\omega$. Put your data back on the answer sheet.
+- Record the measured values for $2R$ and $h_0$, and the value of $\omega$ for each value of $H$ on the answer sheet.
+- Using an appropriate graph based on your data, determine the relationship between focal length and angular velocity $\omega$. Record your data on the answer sheet.
 
 <!--fig:start-->
 ![[_attachments/IT-EXP/IT-EXP_p7_f3.png]]
-The following table shows the parameters of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement of the measurement.
+*Parabolic surface rotating liquid geometry*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/IT-EXP/IT-EXP_p8_f4.png]]
-The following information is provided by the Commission:
+*Experimental setup parts 1 and 2*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Fluid Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2001 — Sperimentale — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/geometric-optics,topic/fluid-mechanics,argomento/meccanica,object/mirror,object/tank-container,object/screen"></span>
@@ -206,26 +192,19 @@ In questa parte dell'esperimento, verranno analizzate le proprietà dell'"immagi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission in the field of information and communication technology:
+**PART 2b: ANALYSIS OF THE "IMAGE" [3.5 pt]**
 
-In this part of the experiment, the properties of the "image" produced by this optical system (a liquid parabolic surface such as a mirror) will be analysed.
+In this part of the experiment, the properties of the "image" produced by this optical system (a parabolic liquid surface acting as a mirror) will be analyzed.
 
-Remove the laser head by rotating it off-clock.
-- Mount the new head (provided in a bag) and turn it clockwise: the laser now produces a divergent beam of a well-defined shape, instead of a narrow beam.
-Adjust the position of the laser so that the beam, almost vertical, is directed towards the center of the bottom of the container.
-- On the horizontal screen, which you must place immediately above the container, place a sheet of paper that is semitranseparate so that the beam of light does not hit the paper which must be hit by the reflected beam.
-- Observe the size and orientation of the "image" produced by both the beam coming out of the laser and the beam reflected from the liquid when it is not rotating.
-- Turn the liquid and gradually increase the angular velocity $\omega$ to the maximum possible while you are looking at the screen. As $\omega$ grows, you can observe different frequency ranges in which the "image" properties are markedly different. To describe these observations, complete the table in the answer sheet by adding a line to the table for each frequency range, and fill in using the specified notations:
-- Direction: INV or ER
-- Change in size by increasing $\omega$: I (increase), D (decrease), NC (no change)
-- "R" if the screen is higher than the fire; "V" if the screen is lower than the fire.
-
-**Topic:** [[Geometric Optics]], [[Fluid Mechanics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Tank/Container (object)|Tank/Container]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VGN1yAdRsD-t4AGiU8bbD2VtY1lrmtAt/view)
-
+- Remove the laser head by rotating it counterclockwise.
+- Mount the new laser head (provided in a plastic bag) by rotating it clockwise: now the laser produces a clearly defined divergent beam instead of a narrow ray.
+- Adjust the position of the laser so that the nearly vertical beam is directed toward the center of the container's bottom.
+- Place a sheet of semi-transparent paper on the horizontal screen, which you must position immediately above the container, such that the light beam does not hit the paper directly, but the reflected beam from the liquid must strike it.
+- Observe the size and orientation of the "image" produced by both the outgoing beam from the laser and the reflected beam from the liquid when the liquid is not rotating.
+- Set the liquid into rotation and gradually increase the angular velocity $\omega$ up to its maximum achievable value, while observing the screen. As $\omega$ increases, you can observe different frequency intervals in which the properties of the "image" are clearly distinct. To describe these observations, complete the table in the answer sheet by adding one row for each frequency interval and fill it using the specified notations:
+  - Orientation: INV (inverted) or ER (erect)
+  - Change in size as $\omega$ increases: I (increase), D (decrease), NC (no change)
+  - "R" if the screen is higher than the focal point; "V" if the screen is lower than the focal point.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2001 — Sperimentale — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating,object/tank-container,object/screen"></span>

@@ -284,42 +284,30 @@ Per trasferire sul tablet i valori misurati sulla scheda:
 <div class="qlang-split" data-lang="en"></div>
 
 7. Thermometer (available in the exam room).
-Experiments
+Experiment
 G1-2
-Italian (Italy)
-The thermostat temperature is measured using the NTC thermistor (Negative Temperature Coefficient), its resistance depends on the absolute temperature T (in Kelvin) as follows:
-R(T) = R0eB/T,
-(1)
-B= 3500 K, and R0 is a constant that must be determined by the known ambient temperature, before activating
-the heating. The value of this constant is necessary for both experiments. The temperature of the thermostat can be controlled by changing the heating current (through the app).
-After changing the heating current, it is necessary to wait for the system to reach a
-the temperature is stable. On the other hand, the thermal balance between the components (capacitors, NTCs) is assumed to be
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2006.
-Experiments
+Italiano (Italy)
+The thermostat temperature is measured using an NTC thermistor (Negative Temperature Coefficient), whose resistance depends on the absolute temperature T (in Kelvin) according to:
+R(T) = R₀e^(B/T),  (1)
+where B = 3500 K, and R₀ is a constant to be determined from the known ambient temperature before activating the heater. The value of this constant is required for both experiments. The thermostat temperature can be controlled by adjusting the heating current (via the app).
+After changing the heating current, wait until the system reaches a stable temperature. On the other hand, it is assumed that thermal equilibrium among components (capacitors, NTC, and LED) is established "instantaneously" with no significant delay.
+
+Experiment
 G1-3
-Italian (Italy)
-To ensure more stable thermal conditions, a layer of material was placed above the thermostat.
-Insulating and pressed on it by a plastic plate held together by two screws.
-- Watch out for this.
-Avoid damaging the card and the connectors of the cables on it, make sure you connect everything
-The Commission shall adopt the measures necessary to ensure that the measures taken are implemented in a manner consistent with the objectives of the programme.
-Liquids do not mix well with electronics, so be careful when handling liquids (such as
-The water is not available for drinking. Don't spit on us by mistake.
-Experiments
+Italiano (Italy)
+To ensure more stable thermal conditions, an insulating layer has been placed above the thermostat and pressed firmly onto it using a plastic plate secured by two screws.
+Warning:
+Avoid damaging the circuit board and cable connectors; ensure all connections are made correctly without excessive force.
+Liquids do not mix well with electronics, so exercise caution when handling liquids (such as drinking water) near the experimental setup. Do not accidentally spit on it.
+
+Experiment
 G1-4
-Italian (Italy)
-Manual of use of the IPhO 2021 Experiments app
-The IPhO 2021 Experiments software can be started from the tablet's initial screen (or from the list)
-The app is accessible by scrolling the screen from bottom to top) by tapping the IPhO icon.
-To transfer the measured values on the board to the tablet:
+Italiano (Italy)
+User Manual for the IPhO 2021 Experiments App
+The IPhO 2021 Experiments software can be launched from the tablet's home screen (or from the app list, accessible by swiping upward from the bottom of the screen) by tapping the IPhO icon.
+To transfer the measured values from the data sheet to the tablet:
 
-**Topic:** [[Thermodynamics]], [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1CsJbrdP30O1QAvjAXvNhsmNAQGI2Q2Ts/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1XQJ924hStEhE452AhCosejFW74UsiSbM/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1XQJ924hStEhE452AhCosejFW74UsiSbM/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2021 — Sperimentale — G1 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo"></span>

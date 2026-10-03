@@ -384,186 +384,141 @@ Era da aspettare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-P1. Physicist on the train.
-Albert Einstein and his second wife visited Spain between March and
-April 1923, when it was already public that he had been awarded the prize
-Nobel Prize in physics. His arrival by train to Barcelona was picturesque, since
-He forgot to tell me what train they were coming with, so there was no one waiting for them.
-At the station. Fortunately, upon his arrival in Zaragoza on March 12,
-He was received as a genius of his level deserved.
-The long train journeys of the safe era allowed
-Einstein meditating on his theories. In fact, one of his experiments
-He was the first to write about the theory of relativity.
-It's related to a train and a lightning strike.
-If you have the opportunity to travel by train you can do the following:
-Experiment: Imagine a pendulum hanging from the inside of the train. If the train
-The pendulum is still, the pendulum will remain in its equilibrium position (Fig. 1a).
-On the contrary, when the train starts, the pendulum will move
-mysteriously due to inertia (Fig. 1b).
+P1. Physics on the Train.
 
-(a) Indicate the direction in which the train is accelerating.
-It considers that the train is moving at constant speed, $a$, and the
-The pendulum has a length $L$ and mass $m$.
+Albert Einstein and his second wife visited Spain between March and April 1923, by which time it was already public that he had been awarded the Nobel Prize in Physics. Their arrival by train in Barcelona was picturesque, as they forgot to inform which train they were taking, so no one was waiting for them at the station. Fortunately, upon their arrival in Zaragoza on March 12th, he was received as befit a genius of his stature.
 
-(b) Draw the free-body diagram of the pendulum, i.e. the forces
-who act upon him.
+The long train journeys of that era surely gave Einstein time to reflect on his theories. Indeed, one of his most famous thought experiments—helping him deduce his theory of relativity—is related to a train and a beam of light.
 
-(c) Calculate the ratio of the train's acceleration, $a$, to the angle of inclination of the pendulum, $\theta$.
+If you ever have the opportunity to travel by train, you can perform the following experiment: Imagine a pendulum hanging inside the train. If the train is stationary, the pendulum will remain at rest in its equilibrium position (Fig. 1a).
+On the other hand, when the train starts moving, the pendulum will move "mysteriously" due to inertia (Fig. 1b).
 
-This simple system can be used1 to calculate the distance between two train stations, assuming that the
-that the movement of the train is composed of the concatenation of multitude of rectal movements
-The acceleration of the current is the same as the acceleration of the current.
-the vertical pendant.
-Let's say the train leaves the rest and we measure the average angle at intervals of 10 seconds,
-Whereas acceleration is practically constant at interval. We get the
-the following values:
+a) Indicate in which direction the train is accelerating.
 
-| $t_i - t_f$ (s) | 0-10 | 11-20 | 21-30 | 31-40 | 41-50 |
+Assume that the train moves with constant acceleration, $a$, and that the pendulum has length $L$ and mass $m$.
+
+b) Draw the free-body diagram of the pendulum, that is, all forces acting on it.
+
+c) Calculate the ratio between the train's acceleration, $a$, and the pendulum’s angle of inclination, $\theta$.
+
+This simple system can be used to calculate the distance between two train stations, assuming that the train's displacement consists of a concatenation of numerous uniformly accelerated rectilinear motions and obtaining the acceleration for each segment from the angle formed by the pendulum with the vertical.
+
+Let us imagine that the train starts from rest and we measure the average angle in intervals of 10 seconds, assuming that the acceleration remains practically constant over each interval. We obtain the following values:
+
+| $t_i - t_f$ (s) | 0–10 | 11–20 | 21–30 | 31–40 | 41–50 |
 | --- | --- | --- | --- | --- | --- |
 | $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
 
-(d) Calculate the distance travelled during the 50 seconds.
+d) Calculate the distance traveled by the train during the 50 seconds.
 
-When the train is travelling at constant speed, $a$, we slightly separate the pendulum from its position of
-The balance.
+When the train moves with constant acceleration, $a$, the pendulum is slightly displaced from its equilibrium position.
 
-(e) Calculate the period of oscillation around the equilibrium position.
+e) Calculate the period of oscillation around the equilibrium position in this case.
 
-From a certain moment on, the train moves at a constant speed.
+From a certain point onward, the train moves with constant velocity.
 
-(f) Calculate the period of oscillation around the equilibrium position.
+f) Calculate the period of oscillation around the equilibrium position in this case.
 
-1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60,
-The Commission has also adopted a number of proposals for the European Parliament and the Council.
+1 Claire Tham et al. "Using a Simple Pendulum to Calculate the Distance Between Two Train Stations", The Physics Teacher 60, 748–751 (2022) https://doi.org/10.1119/5.0043205
 
 P1. Solution
 
-(a) The suspended mass of the pendulum tends to remain at rest by effect of inertia
-The train is accelerating, the rope tension component being the
-horizontal direction that makes you move in solidarity with the train. Therefore, as
-Fig. 1 shows the figure. 2, the train is speeding to the right.
+a) The suspended mass of the pendulum tends to remain at rest due to inertia while the train accelerates, and it is the horizontal component of the string's tension that causes it to move together with the train. Therefore, as shown in Figure 2, the train is accelerating to the right.
 
-(b) The only real forces acting on the pendulum are weight,
-$m\vec{g}$, y la
-the tension of the rope,
-$\vec{T}$, with which the free body diagram would be as follows:
-The following table shows the figures for the following categories:
+b) The only "real" forces acting on the pendulum are its weight, $m\vec{g}$, and the tension in the string, $\vec{T}$; thus, the free-body diagram would appear as shown in Figure 2.
 
 c) Applying Newton's second law, we have
 
 $$\vec{F} = m\sum \vec{a} \quad (1)$$
 
-By breaking down into the horizontal, $x$, and vertical, $y$ axes, we have
+Decomposing into horizontal, $x$, and vertical, $y$, components, we obtain
 
 $$\begin{cases} T\cos\theta - mg = 0 \\ T\,\text{sen}\,\theta = ma \end{cases} \quad (2)$$
 
-Where we can clear $a$ according to $\theta$,
+From this, we can solve for $a$ in terms of $\theta$,
 
 $$a = g\,\text{tg}\,\theta \quad (3)$$
 
-(d) The space travelled in each section shall be given by the equation of motion
-uniformly accelerated,
+d) The distance traveled in each segment is given by the equation for displacement under uniformly accelerated motion,
 
 $$x_i = v_{0,i}\,\Delta t_i + \tfrac{1}{2} a_i\,\Delta t_i^2 \quad (4)$$
 
-For each stretch we need to know the initial velocity, which will be given by the acceleration and velocity
-initial of the previous tranche
+For each segment, we need the initial velocity, which is determined by the acceleration and initial velocity of the previous segment:
 
 $$v_{0,i+1} = v_{0,i} + a_i\,\Delta t_i \quad (5)$$
 
-with
-$v_{0,1} = 0$, since the train leaves at rest.
-From the equations (3), (4) and (5) we get
+with $v_{0,1} = 0$, since the train starts from rest.
+From equations (3), (4), and (5) we obtain
 
 | $i$ | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
 | $\Delta t_i$ (s) | 10 | 10 | 10 | 10 | 10 |
 | $\theta$ ($^\circ$) | 3 | 5 | 7 | 6 | 4 |
-| $a_i$ ($\text{m/s}^2$) | 0,51 | 0,86 | 1,20 | 1,03 | 0,69 |
-| $v_{0,i}$ (m/s) | 0 | 5,1 | 13,7 | 25,7 | 36,0 |
-| $x_i$ (m) | 25,5 | 94,0 | 197,0 | 308,5 | 394,5 |
+| $a_i$ ($\text{m/s}^2$) | 0.51 | 0.86 | 1.20 | 1.03 | 0.69 |
+| $v_{0,i}$ (m/s) | 0 | 5.1 | 13.7 | 25.7 | 36.0 |
+| $x_i$ (m) | 25.5 | 94.0 | 197.0 | 308.5 | 394.5 |
 
-So the total space travelled in the first 50 seconds will be
+Thus, the total distance traveled in the first 50 seconds is
 
 $$x = \sum_{i=1}^{5} x_i = 1019{,}5\ \text{m} \quad (6)$$
 
-(e) In a pendulum subjected only to gravitational acceleration, the period of oscillation is given by
+e) In a pendulum subjected only to the acceleration due to gravity, the oscillation period is given by
 
 $$P_0 = 2\pi\sqrt{\frac{L}{g}} \quad (7)$$
 
-A train-mounted observer is a non-inercial observer (moving at non-constant speed).
-When starting the train at a certain speed
-$\vec{a}$, el observador montado en el tren ve que el péndulo se
-He bends without apparent force acting upon him, so he decides
-inventing a force backwards,
-$\vec{F}_i = -m\vec{a}$, which refers to the force of
-The following is a list of the main types of energy sources: 3).
-This is the mysterious force that seems to push us back when
-We were traveling on a high-speed train. But this force is fictitious, it doesn't exist. I saw it.
-By an outside inertial observer, fixed to the street floor, what happens is
-The train is accelerating while the passenger tends to keep up with speed.
-It's constant. That is why the passenger needs to hold onto the train bar to avoid
-falling behind the train and therefore falling to the ground.
-For the observer travelling on the train the pendulum is in balance, so
-The force diagram on the pendulum would be as shown in Figure 3,
-So that
+An observer riding on the train is a non-inertial observer (moving with non-constant velocity).
+As the train starts accelerating with a certain acceleration
+$\vec{a}$, the observer on the train sees that the pendulum tilts even though no apparent force acts upon it, so he decides to invent a backward-directed force,
+$\vec{F}_i = -m\vec{a}$, which he calls the "inertial force" (Figure 3).
+This is the mysterious force that seems to push us backward when traveling in an accelerating train. But this force is fictitious and does not actually exist. From the perspective of an external inertial observer fixed to the ground, what happens is that the train accelerates while the passenger tends to maintain constant velocity. Therefore, the passenger must hold onto the train’s handrail in order not to fall behind relative to the train, and thus avoid falling onto the floor.
+
+For the observer traveling on the train, the pendulum is in equilibrium; thus, the force diagram acting on the pendulum would be as shown in Figure 3, so that
 
 $$\vec{T} = m(\vec{g} - \vec{a}) \quad (8)$$
 
-The non-inercial observer interprets that the pendulum is oriented in the direction of gravity
- appearing
+The non-inertial observer interprets the pendulum as aligning itself along an "apparent gravity"
 $\vec{g}\,'$, shown in Figure 3, given by
 
 $$\vec{g}\,' = \vec{g} - \vec{a} \quad (9)$$
 
-By analogy with the expression (7), subjected to this apparent gravity, by slightly separating it from the
-The pendulum oscillates with a period
+By analogy with expression (7), under this "apparent gravity," if the pendulum is slightly displaced from equilibrium, it oscillates with a period
 
 $$P = 2\pi\sqrt{\frac{L}{g'}} \quad (10)$$
 
-From (9) we get the module of apparent gravity,
-$g'$,
+From (9) we obtain the magnitude of the apparent gravity,
+
+$g'$
 
 $$g' = \sqrt{g^2 + a^2} \quad (11)$$
 
-And replacing $a$ with the expression obtained in (3),
+And substituting $a$ with the expression obtained in (3),
 
 $$g' = \sqrt{g^2 + (g\,\text{tg}\,\theta)^2} = g\sqrt{1 + (\text{tg}\,\theta)^2} = \frac{g}{\cos\theta} \quad (12)$$
 
-So the period of the pendulum moving at $a$ is given by
+Thus, the period of the pendulum moving with acceleration $a$ is given by
 
 $$P = 2\pi\sqrt{\frac{L\cos\theta}{g}} \quad (13)$$
 
-(f) If the train is moving at constant speed, an observer mounted on the train shall be an observer.
-It's inert and will therefore apply Newton's laws as if it were at rest. The period of the
-The pendulum is the given for the expression (7).
+f) If the train moves with constant velocity, an observer on board is an inertial observer and therefore applies Newton's laws as if at rest. Hence, the pendulum's period will be given by expression (7).
 
 $$P_0 = 2\pi\sqrt{\frac{L}{g}}$$
 
-This expression can be found to be in line with (12) when
+It can be verified that this expression coincides with (12) when
 $a = 0$ (and therefore
-$\theta = 0$), as follows:
-It was a wait.
+$\theta = 0$), as expected.
 
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p2_f1.png]]
-*Pending it in the stationary and accelerating train*
+*Pendulum in a stationary and accelerating train*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p3_f2.png]]
-*Diagramma corpo libero pendolo (Fig 2)*
+*Free-body diagram of pendulum (Fig 2)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2023 34 OAF 2023 PRUEBA TEORICA/2023 34 OAF 2023 PRUEBA TEORICA_p4_f3.png]]
-*FBD pendolo con forza d'inerzia (Fig 3)*
+*Free-body diagram of pendulum with inertial force (Fig 3)*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1UaxomltixM7jARUskPOIsQLA3pL8aVw6/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2023 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Fisica Moderna,object/rope-string"></span>

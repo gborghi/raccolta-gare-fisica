@@ -125,23 +125,14 @@ Olimpiadi Internazionali di Fisica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2 (25 points).
-The edges of a cube are made up of R resistors. Put a battery on
-with a constant voltage V0 between points A and B of the diagonal of one of the faces. Ask if you 're
-- **A** What is the equivalent resistance of the circuit? (15)
-- **B.** Value of the currents in the resistors starting from point A. (10)
-3
+Problem 2 (25 points).
+The edges of a cube are made of resistors with resistance R. A battery with constant voltage V₀ is connected between points A and B, which are located at the ends of a diagonal on one face. It is asked:
+- **A.** What is the equivalent resistance of the circuit? (15)
+- **B.** What are the currents through the resistors that originate from point A? (10)
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1CTww2kL4Vn9SjD7nd7bqg-jpoiOe8WGA/view)
-
+Theoretical Examination II Final Selection 2015
+International Physics Olympiad
+April 16, 2015
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Brasil 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/coil,object/magnet"></span>
@@ -353,45 +344,42 @@ Olimpiadi Internazionali di Fisica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 (25 points).
-Considering the Bohr model of the atom we have to
+Problem 4 (25 points).
+Considering the Bohr model of the atom, we have the Rydberg formula, with R = 1.10 × 10⁷ m⁻¹.
 
-Rydberg formula, and R = 1,10 x 107 m-1
-1  Determine the maximum and minimum wavelength for Balmer series (nf =2) that are
-in the visible region. (05)
-2 - According to this model, the electron revolves around a positive charge nucleus. What a
-the electron's speed with respect to the center of spin? And what is the total energy of the electron.
-3  In which transition of the Balmer series can we obtain higher emission energy (intensity)?
-(justify the answer) (05)
-4  Should the relativistic effect be included or is there no need? (explain) (10)
+1 – Determine the maximum and minimum wavelengths for the Balmer series (nf = 2) that lie in the visible region. (05)
+
+2 – According to this model, the electron orbits a positively charged nucleus. What is the electron's speed relative to the center of rotation? And what is the total energy of the electron? (05)
+
+3 – In which transition of the Balmer series can we obtain the highest emission energy (intensity)?
+(Justify your answer.) (05)
+
+4 – Should relativistic effects be included, or is there no need? (Explain.) (10)
+
 5
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Theoretical Examination II Final Selection 2015
+International Physics Olympiad
+April 16, 2015
 6
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Theoretical Examination II Final Selection 2015
+International Physics Olympiad
+April 16, 2015
 7
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Theoretical Examination II Final Selection 2015
+International Physics Olympiad
+April 16, 2015
 8
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Theoretical Examination II Final Selection 2015
+International Physics Olympiad
+April 16, 2015
 9
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
-International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Theoretical Examination II Final Selection 2015
+International Physics Olympiad
+April 16, 2015
 
-**Topic:** [[Modern-Quantum Physics]], [[Special Relativity]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Electron (object)|Electron]], [[Nucleus (object)|Nucleus]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1CTww2kL4Vn9SjD7nd7bqg-jpoiOe8WGA/view)
+

@@ -109,91 +109,71 @@ IPhO 2000
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+**IPhO 2000**
 
-Countries
+Country
 Student No.
 Question No.
 Page No.
-No, not at all.
-of pages
-The following information is provided:
+Total No. of pages
+IPhO 2000
 
-The answer to the experimental problem 4
-(a)
-This part consists only of observations to be made.
-It doesn't involve scores.
+ANSWER SHEET FOR EXPERIMENTAL PROBLEM 4 (a)
+This section consists only of observations to be made.
+It carries no points.
+
 (b)(i)
-(a) the number of days
-Length of wave in nm
-Resistance in
-Conduct in -1
+(1 point)
+Wavelength in nm
+Resistance in Ω
+Conductance in S⁻¹
+
 (b)(ii)
-Draw a graph of the G conductivity on the millimeter paper provided
-The photoresistors are determined by the wavelength .
-(
+On the provided millimeter paper, draw a graph of the photoresistor’s conductance G as a function of wavelength λ.
+(2 points)
 
-2
-(point)
 (c)(i)
-Enter here under the experimental data
-(a) the number of days
+Enter the experimental data here below.
+(1 point)
 
-Countries
+Country
 Student No.
 Question No.
 Page No.
-No, not at all.
-of pages
-The following information is provided:
+Total No. of pages
+IPhO 2000
+
 (c)(ii)
-Draw a graph on the millimeter paper provided to show that the
-The A bulb emits like a black body.
-(a) the number of days
+On the provided millimeter paper, draw a graph to show that lamp A emits like a blackbody.
+(1 point)
+
 (d)
 Complete the following table:
-(three points)
-(i) The lamp shall be turned off C, at 300 K RC1 =
-(ii) Resistance of lamp C when it appears
-as B
+(3 points)
+
+(i) Resistance of lamp C when off, at 300 K
+RC1 =
+
+(ii) Resistance of lamp C when it appears identical to lamp B
 RC2 =
 RB =
-(iii) Common temperature of the filaments of the
-Lamps C and B
+
+(iii) Common temperature of filaments of lamps C and B
 T2V =
-(iv)
-Resistance of the
-A lamp, powered
-a 12 V.
+
+(iv) Resistance of lamp A when supplied with 12 V
 R12V =
-(v)
-The temperature of the
-filament of the 12 V powered lamp
+
+(v) Temperature of filament of lamp when supplied with 12 V
 T12V =
+
 (e)
-Returns the correct values of the conductivity G (in arbitrary units) in the table
-It's down here. Draw a correct chart of the conductance on millimeter paper
-G of photoresistors in function of wavelength..
-(two points)
-Long-range
-in nm
-The Commission
-in -1
-Factor of
-correction
-The correct value
-The Commission has already adopted a proposal for a regulation on the
+Enter the correct values of conductance G′ (in arbitrary units) in the table below. On the provided millimeter paper, draw a correct graph of the photoresistor’s conductance G′ as a function of wavelength λ.
+(2 points)
 
-Countries
-Student No.
-Question No.
-Page No.
-No, not at all.
-of pages
-The following information is provided:
+Wavelength in nm
+Conductance in S⁻¹
+Correction factor
+Corrected conductance value
 
-**Topic:** [[Thermodynamics]], [[Circuits]], [[Wave Optics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1QndqVTTsCrI6DfUaSpkEGhAb4TkTnbD6/view)
+

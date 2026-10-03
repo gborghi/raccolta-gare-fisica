@@ -289,267 +289,160 @@ mezzo) è collocato ad una piccola distanza d dal primo mezzo, co
 
 **Singapore**
 
-37th Olympics
-International of Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-8 to 17 July 2006
-The test shall be carried out in accordance with the following conditions:
-Wednesday 12 July 2006
+37th International Physics Olympiad
+Singapore
+8–17 July 2006
+Experimental Competition
+Wednesday, 12 July 2006
 
 Experimental Competition Page 2
-List of components
-The label
-The following components
-Quantity
-The label
-The following components
-Quantity
-Source of
-Microwaves
-1
-The net in one
-Other, not further worked than cutting
-1
-Receiver of
-Microwaves
-1
-Other instruments
-1
-Support for
-The following information shall be provided:
-2
-Support for
-Other
-1
-Other, including:
-1
-Rotating plane
-1
-Feed-in
-The voltage for the
-The source
-1
-Support for
-Lens/reflector
-1
-Other, of a kind used as
-Tiny foam
-1
-Slowly
-Other, of a kind used for the manufacture of goods
-1
-Reflector (last of the
-Other, of a kind used for the manufacture of goods of heading 8106
-1
-Other, of a width of not more than 30 mm
-2
-The following information shall be provided:
-(blue looks)
-1
-Blue-tack
-(Plastic)
-1 conf.
-Other vehicles
-(supplied separately)
-30 cm rail
-Ruler (provided for
-(Part)
+List of Components
 
-Experimental competition Page 3
-The following is the list of the measures taken:
+| Label | Component             | Quantity | Label | Component                  | Quantity |
+|-------|------------------------|----------|-------|-----------------------------|----------|
+| MW    | Microwave source       | 1        | B     | Black-box diffraction grating | 1        |
+| RX    | Microwave receiver      | 1        | G     | Protractor                  | 1        |
+| S     | Source/receiver stand   | 2        | P     | Prism support               | 1        |
+| DMM   | Digital multimeter      | 1        | R     | Rotating platform           | 1        |
+| PS    | Source power supply     | 1        | L     | Lens/reflectors support     | 1        |
+| T     | Thin plate (used as "thin film") | 1 | C     | Convex plano-lens           | 1        |
+| M     | Metallic silvered reflector (mirror) | 1 | W     | Wax prisms                  | 2        |
+| B     | Beam splitter (blue Perspex) | 1   | Tack  | Blue-Tack (plasticine)      | 1 pack   |
+|       | Vernier caliper         | (supplied separately) |     | 30 cm ruler                 | (supplied separately) |
 
-The output power of the microwave source is broadly within limits
-The safety. However, avoid looking directly, at a close distance,
-In the source loop when it is turned on.
+Experimental Competition Page 3
+Safety Precautions:
 
-Don 't open the box containing the latch .
+The microwave source output power is well within safe limits. However, avoid looking directly into the source horn at close range when it is operating.
+
+Do not open the box containing the diffraction grating.
 
 The wax prisms (used in Part 3) are fragile.
+
 Warnings:
 
-It is important to note that the output signal of the microwave receiver
+It is important to note that the microwave receiver output signal (ELECTRIC CURRENT) is proportional to the AMPLITUDE of the microwaves.
 
-(electric current) is proportional to the amplitude of the microwave
+Always set the receiver to “LO gain” (low gain).
 
- .
+Do not change the multimeter scale during data collection.
 
-Always use the receiver set to LO gain (low gain).
+Keep unused components of the experiment far away to minimize interference.
 
-Do not change the scale of the multimeter during data collection.
+In all your diagrams, always use component labels (, , $,\dots$) to identify the components themselves.
 
-Put away the components of the experiment that you're not using, to
-Minimize the interference.
+Experimental Competition Page 4
+The digital multimeter should be used with the two leads connected as shown in this photo. In this experiment, you must set the dial to the current range corresponding to “2m”.
 
-In all your designs always use the component labels (, , $,\dots$) for
-identify the components themselves.
+Red Lead
+Black Lead
 
-Experimental competition Page 4
-The digital multimeter should be used with the two wires connected as shown in
-This picture. In this experiment, you have to set the handle to the position of the
-current corresponding to 2m.
-Red Cable
-The following table shows the number of cases:
+Experimental Competition Page 5
+First Part: Michelson Interferometer
 
-Experimental competition Page 5
-Part one: Michelson interferometer
-1.1. The Commission
-In a Michelson interferometer, a beam divider sends an electromagnetic wave
-(EM) accident along two different paths, and then joins them after reflection,
-So they overlap, forming a figure of interference. Figure 1.1 shows
-The pattern of a Michelson interferometer. A wave of accidents goes from the source to the
-The receiver is on two different paths. These two waves overlap and
-They interfere with the receiver. The signal intensity in the receiver depends on the
-phase difference between the two waves, which can be varied by changing the difference of
-I'm going with the eyes.
+1.1. Introduction
+In a Michelson interferometer, a beam splitter directs an incident electromagnetic wave (EM) along two different paths, then recombines them after reflection so that they overlap and interfere, producing an interference pattern. Figure 1.1 illustrates the schematic of a Michelson interferometer. An incident wave travels from the source to the receiver along two different paths. These two waves overlap and interfere at the receiver. The signal intensity at the receiver depends on the phase difference between the two waves, which can be varied by changing the optical path length difference.
+
 Reflectors
-Beam
-Other
+Beam splitter
 Transmitter
-Other
+Receiver
 Reflectors
-Beam
-Other
+Beam splitter
 Transmitter
-Other
-1.2. List of components
+Receiver
+
+1.2. List of Components
+1) Microwave source with support stand
+2) Microwave receiver with support stand
+3) Goniometer
+4) 2 reflectors: one reflector with support and a thin plate used as a reflector
+5) Beam splitter with rotating plane, used as support
+6) Digital multimeter
+
+1.3. Objective: Determination of the microwave wavelength [2 points]
+Figure 1.1: Schematic diagram of a Michelson interferometer.
+Beam splitter
+Receiver
+Source
+Reflectors
+
+Experimental Competition Page 6
+Using only the experimental components listed in Section 1.2, assemble an experiment with a Michelson interferometer to determine the wavelength in air of the microwave. Report your data and determine the result with a precision such that its uncertainty is $\leq$ 0.02 cm.
+Note that the "thin film" is partially transmissive, so be careful not to position yourself or move behind it, as this could affect your results.
+
+Second Part: Interference with the "Thin Film"
+2.1. Introduction
+An incident electromagnetic wave beam striking a thin film made of a dielectric material splits into two beams, as shown in Figure 2.1. Beam A is reflected from the upper surface of the thin film, while beam B is reflected from the lower surface. The superposition of beams A and B produces what is known as
+“thin-film interference.”
+
+A
+B
+
+t n
+A
+B
+
+t n
+Figure 2.1: Schematic diagram of interference with the thin film.
+The difference in optical path lengths between beams A and B leads to interference that can be constructive or destructive. The intensity I of the resulting wave depends on the optical path difference between the two interfering beams. This path difference
+
+Experimental Competition Page 7 The optical path length, in turn, depends on the angle of incidence, , of the incident beam, on the wavelength of the radiation, on the thickness t and on the refractive index n of the thin film. Therefore, the refractive index n of the thin film can be determined from a graph $I-\theta1$, using the values of t and .
+
+2.2. List of components
 1) Microwave source with support
 2) Microwave receiver with support
-3) Goniometer
-4) 2 reflectors: a reflector with support and a thin sheet used as a reflector
-5) Beam divider with rotating plane used as support
+3) Plano-convex lens with support
+4) Goniometer
+5) Rotating plane
 6) Digital multimeter
-1.3. Objective: Determination of the microwave wavelength [2 points]
-Figure 1.1: Schematic drawing of a Michelson interferometer.
-The following information shall be provided:
-Receiver
-The source
-Other, of a kind used for the manufacture of textile materials
+7) Polymer plate used as "thin film"
+8) Vernier caliper
 
-Experimental competition Page 6
-Using only the experimental components listed in Section 1.2, assemble a
-experiment with a Michelson interferometer to determine the wavelength in
-microwave air. It is important to note that the data is not only the most important, but also the most important.
-The uncertainty of the measurement is $\leq$ 0.02 cm.
-Note that thin lamine is partially transmissible, so be careful not to
-You can position yourself or move behind it because that could affect your results.
-Part Two: Interference with the thin film
-2.1. The Commission
-A beam of EM waves incident on a thin sheet of dielectric material
-The Commission shall, in accordance with Article 21 (2) of Regulation (EC) No 1272/2009, adopt implementing acts laying down the rules on the application of this Regulation. The A beam is reflected by the
-surface of the thin sheet, while beam B is reflected from the surface
-The surface of the film is less than the surface of the film. The superposition of the beams A and B gives rise to the so-called
-Slim-film interference.
-A
-B
+2.3. Objective: Determination of the refractive index of the polymer plate
+[6 points]
 
-t
-n
-A
-B
+1) Derive the expressions for constructive and destructive interference in terms of , t, and n.
+[1 point]
 
-t
-n
-Figure 2.1: Schematic drawing of the interference with the thin sheet.
-The difference in the optical path lengths of beams A and B leads to an interference
-It can be constructive or destructive. The intensity I of the resulting wave depends on the
-the difference in optical path between the two interfering beams. This difference of
+2) Using only the experimental components listed in Section 2.2, set up an experiment to measure the output current signal from receiver S as a function of the angle of incidence $\theta1$ in the range from $40^{\circ}$ to $75^{\circ}$. Draw a schematic diagram of the experimental setup you used, clearly indicating the angles of incidence and reflection and the position of the thin film on the rotating plane. Label all components with the identifiers given on page 2. Tabulate your data.
+Plot on a graph the receiver output signal S as a function of the incidence angle $\theta1$. Accurately determine the angles corresponding to constructive and destructive interference.
+[3 points]
 
-Experimental competition Page 7
-The optical path, in turn, depends on the angle of incidence, the incident beam, the
-radiation wavelength, thickness t and refractive index n
-of fine sheet. So the refractive index of the thin film can be
-determined by a graph $I-\theta1$, using the values of t and .
-2.2. List of components
-1)
-Microwave source with support
-2)
-Microwave receiver with support
-3)
-Flat-convex lens with support
-4)
-Other instruments
-5)
-Rotating plane
-6)
-Other, including:
-7)
-Polymer film used as thin laminate
-8)
-Other vehicles
-2.3. Objective: Determination of the refractive index of the polymer sheet
-The following points shall be added:
-1) It collects the expressions of constructive and destructive interference in the
-function of , t, and n.
-The following points shall be added:
-2) Using only the experimental components listed in Section 2.2, set up a
-Experiment to measure the current signal output from the S receiver in
-The function of the angle of incidence $\theta1$ in the range from $40^{\circ}$ to $75^{\circ}$. Make a drawing
-The test equipment you used is a diagram showing clearly the
-angle of incidence and reflection and the position of the sheet on the rotating plane.
-Compare all components with the labels given on page 2. Table your data.
-Report the output signal of the receiver S according to the angle of
-incidenza $\theta1$. Determine the angles of interference accurately
-The Commission has already taken a number of measures to combat the spread of the virus.
-The following points shall be added:
-3) Assuming that the refractive index of the air is 1.00, it determines the order of
-interference m and refractive index n of the polymer sheet. Report the values of
-m and n on the answer sheet.
+3) Assuming the refractive index of air is 1.00, determine the interference order m and the refractive index n of the polymer slab. Record the values of m and n on the answer sheet.
+[1.5 points]
 
-Experimental competition Page 8
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-4) Analyze the errors in your results and estimate the uncertainty of the results. Write down the value
-The answer sheet is uncertain.
-The following points shall be added:
+4) Perform an error analysis of your results and estimate the uncertainty in n. Write down the value of the uncertainty in n on the answer sheet.
+[0.5 points]
 
 Warnings:
 
-The lens should be placed in front of the microwave source with the
-a flat surface facing the source to obtain a microwave beam
-Almost parallel. The distance between the flat surface of the lens and the aperture
-The source should be 3 cm thick.
+The lens should be placed in front of the microwave source with its flat surface facing the source, to obtain a nearly parallel beam of microwaves. The distance between the flat surface of the lens and the opening of the source funnel should be 3 cm.
 
-For best results, maximize the distance between source and
-- I 'm the receiver .
+For better results, maximize the distance between the source and the receiver.
 
-The fact that the microwave emitted from the source is not perfectly flat
-It can produce some extra spikes in the observed graph. In the range $40^{\circ}$
-and $75^{\circ}$ only one maximum and one minimum are due to interference.
-Part Three: Total reflection is de-iced
-3.1. The Commission
-The phenomenon of total internal reflection (TIR) may occur in the
-When the flat wave goes from an optically dense medium to a less dense one. However, at the
-The area of separation in place of the TIR, provided for in the approximation of the optics
-The first wave of the incident occurs in the second half and travels through the second half of the
-for a certain distance parallel to the separation surface before returning
-In the densest medium (v. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. This effect can be described by one
-The D-shift of the reflected radius, known as the Goos-Hänchen shift.
+The fact that the microwave emitted by the source is not perfectly plane may produce some extra peaks in the observed graph. Between $40^{\circ}$ and $75^{\circ}$, one maximum and one minimum are due to interference.
 
-Experimental competition Page 9
-Other
-Air
-n1
-n2
- 1
-D
-d
-n1
- 1
-D
-n1
-n2
-Other
-Other
+Third Part: Evanescent Total Reflection
+
+3.1. Introduction
+The phenomenon of total internal reflection (TIR) occurs when a plane wave travels from an optically denser medium to a less dense one. However, at the interface, instead of TIR expected in geometric optics approximation, actually the incident wave penetrates into the second medium and propagates for a certain distance parallel to the interface before returning back into the denser medium (see Figure 3.1). This effect can be described by a shift D of the reflected ray, known as the Goos-Hänchen shift.
+
+Experimental Competition Page 9
+Prism
+Air n1 n2
+1
+D d n1
+1
+D n1 n2
+Prism
+Prism
 Air
 Transmitter
-Other
-z
+Receiver z
 
-If another refractive index means n1 (i.e. made of the same material as the first one)
-The vehicle shall be located at a short distance d from the first vehicle, with:
+If another medium with refractive index n1 (i.e., made of the same material as the first medium) is placed at a small distance d from the first medium, then
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Lens (object)|Lens]], [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1A5RUEoxeTpyA_LCK1n0XyPi1_ni-TWcq/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G2k2d9i3b2cQzB2B9OfHoxo1BO6IZpOk/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G2k2d9i3b2cQzB2B9OfHoxo1BO6IZpOk/view)
+
+

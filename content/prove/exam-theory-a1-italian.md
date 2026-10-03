@@ -84,66 +84,46 @@ $c\simeq$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**LIGO-GW150914 (10 punti)**
+**LIGO-GW150914 (10 points)**
 
 Theory
 A1-1
 Italian (Italy)
-The following points shall be added:
+LIGO-GW150914 (10 points)
 Part A: Newtonian (stationary) orbits (3.0 points)
 A.1 (1.0 pt)
-n=
-
-α=
+n =
+α =
 A.2 (1.0 pt)
 A(μ, $\Omega$, L) =
 A.3 (1.0 pt)
-β=
-Part B: Introduction to the relativistic dissipation (7.0 points)
+β =
+
+Part B: Introduction of relativistic dissipation (7.0 points)
 B.1 (1.0 pt)
-k=
-
-a1 =
-a2 =
-a3 =
-
-b1 =
-b2 =
-b3 =
-
-c12 =
-c13 =
-c23 =
-
-c21 =
-c22 =
-c23 =
-
-c31 =
-c32 =
-c33 =
+k =
+a1 = a2 = a3 =
+b1 = b2 = b3 =
+c12 = c13 = c23 =
+c21 = c22 = c23 =
+c31 = c32 = c33 =
 B.2 (1.0 pt)
-ξ=
+ξ =
 B.3 (1.0 pt)
-Mc=
+Mc =
 
 Theory
 A1-2
 Italian (Italy)
 B.4 (2.0 pt)
-p=
+p =
 B.5 (1.0 pt)
 Mc $\simeq$
 $M\simeq$
 B.6 (1.0 pt)
 Lcollision $\simeq$
 R⊙
-Rmax $\simeq$
-The Commission shall adopt a decision on the
+Rmax $\simeq$ vcol
 $c\simeq$
 
-**Topic:** [[Gravitation]], [[Special Relativity]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Black Hole (object)|Black Hole]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cr6L1kfMnvSWINbnStZal9QMoFZQHc6F/view)
+

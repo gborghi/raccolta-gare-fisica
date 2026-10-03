@@ -168,154 +168,118 @@ corretto per cui $\lambda_\text{Peak}$ ricada nell’intervallo appropriato. Reg
 
 <div class="qlang-split" data-lang="en"></div>
 
-P1. The direction of its polarization ($E$ in Fig. 1) is $45^{\circ}$ with respect to the $x$ axis of the Q quartz plate.
-By rotating the polarizer P2, the component of the polarization of light after passing through Q, i.e. that parallel or perpendicular to the polarization direction of P1 is selected.
-The light elevator measures the intensity of light.
-Experiments
+P1. Its polarization direction ($E$ in Fig. 1) is at $45^{\circ}$ relative to the $x$ axis of the quartz plate Q.
+Rotating polarizer P2 selects the component of light polarization after passing through Q, i.e., either the component parallel or perpendicular to the polarization direction of P1.
+The photodetector measures the light intensity.
+
+Experiment
 Q2-3
 Italian (Italy)
-Figure 3: (a) Schedule and (b) Photograph of the thickness measuring device. The following is the list of the categories of products:
-White, S: crack, L1: contact lens, G: transmission diffraction lattice, P1: polarizer, Q: quartz plate, P2: polarizer, L2: focusing lens, C: cylinder of
-The Commission has decided to adopt a decision on the conclusion of the Agreement on the European Economic Area.
-Experiments
+Figure 3: (a) Schematic and (b) photograph of the thickness measurement device. LED: white LED, S: slit, L1: collimating lens, G: transmission diffraction grating, P1: polarizer, Q: quartz plate, P2: polarizer, L2: focusing lens, C: light shielding cylinder, PD: photodetector, DMM: digital multimeter.
+
+Experiment
 Q2-4
 Italian (Italy)
-Figure 4: Components and devices: 1(a). White LED (frontal view); 1(b) White LED (rear view); 2. batteries; 3. The following table shows the results of the study: 3); 4. LED with attached slit; 5. Lenses (L1, L2 in
-- What? 3); 5* (a) lens mounted; 5* (b) lens support; 5* (c) base of support; 6. Transmission diffraction lattice (6(a) front; 6(b) rear with adhesive tape) on 6(c) platform
-The following table shows the results of the calculations: 3); 6 (d) angle reading device on the rotating platform; 7.
-The polarizer (P1 in Fig. 3); 8. Quartz plate (Q in Fig. 3); 9. The vehicle shall be equipped with a brake pad.
-The rotation rate (P2 in Fig. 3).
-Experiments
+Figure 4: Components and devices: 1(a). White LED (front view); 1(b). White LED (rear view); 2. batteries; 3. slit (S in Fig. 3); 4. LED with attached slit; 5. lens (L1, L2 in Fig. 3); 5(a) mounted lens; 5(b) lens holder; 5(c) base of the holder; 6. transmission diffraction grating (6(a) front side; 6(b) back side with adhesive tape) on 6(c) rotating platform (G in Fig. 3); 6(d) angle reading device on the rotating platform; 7. polarizer (P1 in Fig. 3); 8. quartz plate (Q in Fig. 3); 9. polarizer mounted on rotating support (P2 in Fig. 3).
+
+Experiment
 Q2-5
 Italian (Italy)
-Figure 5: Components and devices (continuous): 10. a magnetic light protection cylinder
-(C to Fig. 3); 11. cylinder support; 12. The Commission has also adopted a number of proposals for the 3); 13. The following table shows the
-cylinder; 14. The number of units in the digital multimeter (DMM in Fig. 3); 15. short drive; 16. The length of the vehicle is 17. screen
-with millimeter paper; 18. white card; 19. the black card; 20. The following table shows the results of the analysis:
-Light protection box (before installation and how it is installed).
-Experiments
+Figure 5: Components and devices (continued): 10. light-shielding cylinder with magnet (C in Fig. 3); 11. cylinder support; 12. photodetector (PD in Fig. 3); 13. photodetector with cylinder; 14. digital multimeter (DMM in Fig. 3); 15. short guide; 16. long guide; 17. screen with millimeter paper; 18. white cardboard; 19. black cardboard; 20. non-slip sheets; 21 & 22. light-shielding box (before assembly and as assembled).
+
+Experiment
 Q2-6
-Italian (Italy)
-Part A. The measuring system setting (2.3 points)
-The light coming out of the LED is incident on the surface of the lattice (Fig. 6). The rotation angle $\theta$ of G for
-The normal incidence is set to $0^{\circ}$. The time-to-time and off-time rotations shall be indicated respectively
-with + and $-$. The angle of diffraction in the first order $\alpha$ is defined as shown. Indicating the step with $d$
-of the drainage (i.e. the distance between the cracks) of G, the wavelength $\lambda$ is given in terms of $\theta$ as
+Italiano (Italy)
+Part A. Setup of the measurement system (2.3 points)
+
+The light emerging from the LED is incident on the surface of the grating (Fig. 6). The rotation angle $\theta$ of G for normal incidence is fixed at $0^{\circ}$. Counterclockwise and clockwise rotations are indicated respectively by + and $-$. The first-order diffraction angle $\alpha$ is defined as illustrated. Denoting by $d$ the groove spacing (i.e., the distance between the slits) of G, the wavelength $\lambda$ is given in terms of $\theta$ as
 
 $$\lambda = d\sin(\alpha-\theta) + d\sin\theta \quad (7)$$
 
 $$= 2d\sin\frac{\alpha}{2}\cos\left(\frac{\alpha}{2}-\theta\right). \quad (8)$$
 
-The following $d = 1.00\ \mu\text{m}$ is used and the diffraction angle is set to $\alpha = 40.0^{\circ}$.
-Figure 6: The rotation angle $\theta$ of the transmission diffraction lattice G and the angle of
-diffrazione $\alpha$.
+Subsequently, we use $d = 1.00\ \mu\text{m}$ and the diffraction angle is fixed at $\alpha = 40.0^{\circ}$.
+
+Figure 6: The rotation angle $\theta$ of the transmission grating G and the diffraction angle $\alpha$.
+
 A.1
-Calculate the maximum wavelength $\lambda$ that can be measured and the relative
-$\theta$.
+Calculate the maximum wavelength $\lambda$ that can be measured and the corresponding $\theta$.
 0.3 pt
+
 A.2
 Calculate the numerical value of $\theta$ for $\lambda = 440$ nm.
 0.2 pt
-The procedures for setting up the measuring system are as follows.
-[1] Position the screen vertically with millimeter paper (17 in Fig. 5) using the pedestal
-(17(b)).
-[2] Place two batteries on the white LED module. The parts + must be directed at you.
+
+The procedures for setting up the measurement system are as follows.
+[1] Position the millimeter paper screen (17 in Fig. 5) vertically using the base (17(b)).
+
+[2] Place two batteries onto the white LED module. The “+” ends must face you.
+
 [3] Turn on the LED.
-[4] Remove the screw on the front of the LED module. Fix the crack to the LED module with the screw (4
-in Fig. 4). Using the millimeter paper screen, adjust the position of the crack so that
-The white light transmitted shall be as bright as possible and the height of the centre of the beam shall be measured.
-the clearance of the cleft (for the procedure [9]).
-[5] Make the U-shaped end with open drainage of the long drive leaning against the
-The short-range driving (Fig. 7(i)). Insert the rotating axis that exits the lower side of the platform
-The rotation of the virtual passing beam created by the guides (Fig. 7(ii)). Ensure free movement and
-Experiments
-Q2-7
-Italian (Italy)
-adjust both arms around the axis, as shown in Fig. 7 (iii) Make sure the long drive
-remain on the table $0^{\circ} \leq \alpha \leq 40.0^{\circ}$.
-Figure 7: (i) The end of the short drive with the opening channel at U below the drive
-The long-term effect is to create a virtual through hole. (ii) In the virtual forum, insert the axis that leaves the
-the lower face of the rotating platform. (iii) Viewed from the top of the rotating platform
-With the guides free to rotate around the axis. 1. short drive; 2. long-distance driving; 3. the platform of
-rotation; 4. the axis of the rotating platform.
-[6] Align the centre of the short drive with $0^{\circ}$ on the rotating platform scale and keep it in that position. It is possible to place a slip sheet under the short guide.
-[7] Assembling the lenses (5 in Fig. 4).
-[8] Position the white LED module with the split and lens (L1 in Fig. 3) on short driving. The rules
-the distance between the cleft and L1 so that the beam size, after crossing L1,
-It remains almost constant, that is, colliding, along the path of light.
-[9] Using the millimeter paper screen, measure the beam height after L1. Adjusting the level
-L1 by loosening the stop-crank of the base of the lift and moving the lift as necessary to
-The height of the beam should be kept almost the same as the one immediately after the split.
-[10] Align the centre line of the long drive with the $180^{\circ}$ of the angle scale on the platform of the
-The rotation.
-[11] Change the horizontal position of the support for the target (5(a) in Fig. 4) easing the lives of
-I'm going to stop and move it to the right or to the left. The center of the beam after L1 should align with the line
-Experiments
-Q2-8
-Italian (Italy)
-The central part of the long drive. You can place the screen with the millimeter paper backwards on the
-It's a long drive.
-[12] Attach the second surface of the biadhesive tape to the rear of the diffraction lattice to
-The Commission has also adopted a proposal for a regulation on the protection of the environment. 4) and attach it to the upper axis of the rotating platform (6 in Fig. 4).
-[13] Turn the front of the lattice towards the light source and rotate the platform so that
-The reflected light enters the cleft, i.e. $\theta = 0^{\circ}$ (normal incidence). Note the angle $\theta_\text{Stage}$ of the
-The rotating platform. It will be used in application B.1.
-[14] Move the long wheel around the axle so that $\alpha = 40.0^{\circ}$ (Fig. 6). Once fixed, it is possible to
-a second anti-slip sheet shall be placed afterwards to avoid accidental misalignment.
-[15] Position the lens (L2 in Fig. The photoreflector (PD in Fig. 3) is used to measure the light output of the device. 3) with the cylindrical support on the
-It's a long drive. To focus diffracted light on PD, adjust the distance between PD and L2 along the long drive
-and the height of L2. The vertical width of the beam is thus reduced to a minimum. Check the width of the
-I'll put it on the white card. In case it's too weak to be recognized with the naked eye,
-Use the shield box to cover PD.
-The cylinder is a small cylinder with a diameter of about 10 mm. 5). The light screen shall minimise the
-unwanted light to detect.
-[17] Link the PD to the DMM. The red (black) wire goes to the red (black) terminal. Set the multimeter to
-The measurement method for continuous voltage (DC).
-[18] Adjust the L2 height to maximize DMM readings. The intensity of light is
-identified with the voltage values on the DMM.
+
+[4] Remove the screw located on the front side of the LED module. Fix the slit to the LED module using the screw (4 in Fig. 4). Using the millimeter paper screen, adjust the slit position so that the transmitted white light beam is as bright as possible, and measure the height of the center of the beam at the slit exit (for procedure [9]).
+
+[5] Make sure that the U-shaped end with open groove of the long guide rests against that of the short guide (Fig. 7(i)). Insert the rotation shaft emerging from the bottom face of the rotating platform into the "virtual through-hole" formed by the guides (Fig. 7(ii)). Ensure free rotation and adjust both arms around the shaft as indicated in Fig. 7(iii). Make sure that the long guide remains on the table $0^{\circ} \leq \alpha \leq 40.0^{\circ}$.
+Figure 7: (i) The end of the short guide with a U-shaped groove open beneath the long guide creates a "virtual" through-hole. (ii) Insert the shaft emerging from the bottom face of the rotating platform into the virtual hole. (iii) Top view of the rotating platform with the guides free to rotate around the shaft. 1. short guide; 2. long guide; 3. rotating platform; 4. shaft of the rotating platform.
+
+[6] Align the central line of the short guide with $0^{\circ}$ on the scale of the rotating platform and keep it in this position. It is possible to place an anti-slip sheet under the short guide.
+
+[7] Assemble the lenses (5 in Fig. 4).
+
+[8] Place the white LED module with the slit and lens (L1 in Fig. 3) on the short guide. Adjust the distance between the slit and L1 so that the beam size, after passing through L1, remains approximately constant—i.e., collimated—along the light path.
+
+[9] Using the screen with millimeter paper, measure the beam height after L1. Adjust the height of L1 by loosening the locking screw of the mount base and moving the mount as needed to keep the beam height nearly equal to that immediately after the slit.
+
+[10] Align the central line of the long guide with $180^{\circ}$ on the angular scale of the rotating platform.
+[11] Adjust the horizontal position of the objective support (5(a) in Fig. 4) by loosening the locking screw and moving it left or right. The beam center after L1 should align with the central line of the long guide. It is possible to place the millimeter paper screen upside down on the long guide.
+
+[12] Attach the second surface of the double-sided tape to the back side of the transmission diffraction grating (6(b) in Fig. 4), and secure it to the upper shaft of the rotation platform (6 in Fig. 4).
+
+[13] Face the front side of the grating toward the light source, and rotate the platform so that the reflected light enters the slit, i.e., $\theta = 0^{\circ}$ (normal incidence). Record the angle $\theta_\text{Stage}$ of the rotation platform. This will be used in question B.1.
+
+[14] Rotate the long guide around its axis so that $\alpha = 40.0^{\circ}$ (Fig. 6). Once secured, it is possible to subsequently place a second anti-slip sheet to prevent accidental misalignments.
+[15] Position lens (L2 in Fig. 3) and photodetector (PD in Fig. 3) on the long guide using the cylindrical support. To focus the diffracted light onto PD, adjust the distance between PD and L2 along the long guide and the height of L2. The vertical beam width will thus be minimized. Check the beam width using the white cardboard. If the beam is too weak to be visible to the naked eye, use the shielding box to cover PD.
+
+[16] Place the sunshade cylinder onto the support (13 in Fig. 5). The light shield minimizes unwanted light detection.
+
+[17] Connect PD to the DMM. Attach the red (black) wire to the red (black) terminal. Set the multimeter to DC voltage measurement mode.
+
+[18] Adjust the height of L2 to maximize DMM readings. Subsequently, light intensity will be identified by voltage values displayed on the DMM.
+
 A.3
-Rotate the rotating platform and find the angle $\theta$ and the corresponding wavelength at which the spectral emission density of the blue LED is maximum, assuming that $\alpha = 40.0^{\circ}$. If the resulting response is between 450 and
-460 nm, the apparatus is properly aligned; write $\alpha = 40.0^{\circ}$ on the sheet of the
-I'll answer and go on. Otherwise, the true value of $\alpha$ must be found. Without changing anything, including the original value of $\lambda_\text{Peak}$ found, determine a value
-corrected so that $\lambda_\text{Peak}$ falls within the appropriate range. Record this
+Rotate the rotary platform and find angle $\theta$ and the corresponding wavelength at which the spectral emission density of the blue LED is maximum, assuming that $\alpha = 40.0^{\circ}$. If the obtained result lies between 450 and 460 nm, the apparatus is properly aligned; write $\alpha = 40.0^{\circ}$ on the answer sheet and proceed. Otherwise, determine the true value of $\alpha$. Without changing anything, including the original value of $\lambda_\text{Peak}$ previously found, determine a correct value such that $\lambda_\text{Peak}$ falls within the appropriate range. Record this value.
 
 <!--fig:start-->
-**p.1** — Scomposizione vettoriale del campo elettrico
+**p.1** — Vector decomposition of the electric field
 ![[_attachments/exam-experiment-Q2-italiano_4/exam-experiment-Q2-italiano_4_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Indice di rifrazione del quarzo vs lunghezza d'onda
+**p.2** — Refractive index of quartz vs wavelength
 ![[_attachments/exam-experiment-Q2-italiano_4/exam-experiment-Q2-italiano_4_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3**  Scheme and photograph of the measuring device
+**p.3** — Schematic and photograph of the measurement device
 ![[_attachments/exam-experiment-Q2-italiano_4/exam-experiment-Q2-italiano_4_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Assembly components and devices
+**p.4** — Components and devices of the setup
 ![[_attachments/exam-experiment-Q2-italiano_4/exam-experiment-Q2-italiano_4_p4_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5** — Componenti e dispositivi (continua)
+**p.5** — Components and devices (continued)
 ![[_attachments/exam-experiment-Q2-italiano_4/exam-experiment-Q2-italiano_4_p5_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6** — Geometria diffrazione LED reticolo fotorilevatore
+**p.6** — Diffraction geometry: LED, grating, photodetector
 ![[_attachments/exam-experiment-Q2-italiano_4/exam-experiment-Q2-italiano_4_p6_f6.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Slit (object)|Slit]], [[Lens (object)|Lens]], [[Diffraction Grating (object)|Diffraction Grating]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16yhRuI2jX6QMR5wSbR1kgZ8_Evq1G8Tt/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0bpk6Qo3XGfcwS7VBkXMfowp8py_Qk8/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0bpk6Qo3XGfcwS7VBkXMfowp8py_Qk8/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2023 — Sperimentale — Q2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/wave-optics,topic/geometric-optics,topic/oscillations-e-waves,argomento/meccanica,object/diffraction-grating"></span>

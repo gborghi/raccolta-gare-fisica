@@ -46,17 +46,9 @@ funzione di .
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first subparagraph.
+**function of**
 
-1) From expressions (1) and (2), write a new expression showing a dependence of I on
-function of .
-
-**Topic:** [[Magnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Biot-Savart Law (metodo)|Biot-Savart Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/17vuUgBsxSb6yEMPxRbURk9F_rkJ3JPY8/view)
-
+1) Starting from expressions (1) and (2), write a new expression showing the dependence of I as a function of .
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/battery,object/coil"></span>
@@ -156,15 +148,12 @@ Helmholtz
 
 <div class="qlang-split" data-lang="en"></div>
 
-2) When the device is installed, the potentiometer is turned to measure the electrical intensity, I. Stop
-Each intensity value the compass shows an angle . The results obtained in a given
-The intensities are shown in Figure 3 in the photographs.
-Millions of years.
+2) After assembling the device, the potentiometer is adjusted to take measurements of electric current, I. For each value of current, the compass shows an angle . The results obtained in a specific location in Spain are shown in the photographs collected in Figure 3, where currents are given in milliamperes.
 
-Transfer the values in Figure 3 to a table as follows:
+Transfer the values appearing in Figure 3 to a table as follows:
 
 I (A)
- (o)
+θ (°)
 
 1
 
@@ -178,27 +167,18 @@ Figure 2
 BH
 A
 B
-Power meter
-Brushes
-Stack
-Millimeter
+Potentiometer
+Compass
+Battery
+Milliammeter
 
-Power meter
-Brushes
-Millimeter
-Stack
-Parts of coils
-The Commission shall adopt implementing acts.
-Parts of coils
-The Commission shall adopt implementing acts.
- = 0
-
-**Topic:** [[Magnetism]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Battery (object)|Battery]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/17vuUgBsxSb6yEMPxRbURk9F_rkJ3JPY8/view)
-
+Potentiometer
+Compass
+Milliammeter
+Battery
+Helmholtz coil pair
+Helmholtz coil pair
+θ = 0
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
@@ -694,90 +674,94 @@ terrestre en esa localidad (Salamanca).
 
 <div class="qlang-split" data-lang="it"></div>
 
-1)
-Substituendo (1) per (2) si ottiene:
+1) Sostituendo (1) in (2), si ottiene:
 0
-8
-così
+8 tan
 5 5
 H
-N I
-rB
+N I rB
 
-Sconfiggendo, otteniamo l'intensità in funzione dell'angolo:
+Esplicitando, si ricava l'intensità in funzione dell'angolo:
 0
-5 5
-( )
-TAN (3)
+5 5 ( )
+tan (3)
 8
-H
-rB
+H rB
 I
 N
 
-2-3) Nella figura 3 si leggono i valori di intensità, convertendo da milliamperi a
-dell'angolo da cui si legge la compassa. La terza colonna è la funzione tangente dell'angolo.
+2-3) Dalla figura 3 si leggono i valori dell'intensità, convertiti da milliampere in ampere, e i valori dell'angolo ricavati dalla lettura della bussola. La terza colonna è la funzione tangente dell'angolo.
 
 I (A)
- (o)
-così
+(°)
+tan
+
 1
 0
 0
 0,000
+
 2
-0,86 10-2
+0,86 × 10⁻²
 30
 0,577
+
 3
-1,00 10-2
+1,00 × 10⁻²
 35
 0,700
+
 4
-1,21 10-2
+1,21 × 10⁻²
 40
 0,839
+
 5
-1,45 10-2
+1,45 × 10⁻²
 45
 1,000
+
 6
-1,71 10-2
+1,71 × 10⁻²
 50
 1,192
+
 7
-2,08 10-2
+2,08 × 10⁻²
 55
 1,428
+
 8
-2,55 10-2
+2,55 × 10⁻²
 60
 1,732
+
 9
-3,17 10-2
+3,17 × 10⁻²
 65
 2,145
+
 10
-4,13 10-2
+4,13 × 10⁻²
 70
 2,747
+
 11
-5,53 10-2
+5,53 × 10⁻²
 75
 3,732
+
 12
-8,20 10-2
+8,20 × 10⁻²
 80
 5,671
 
-4)
-Rappresentazione grafica dei punti sperimentali:
+4) Rappresentazione grafica dei punti sperimentali:
 
 A
 B
-5)
-Tracciamo la retta che meglio si adatta ai punti del grafico. Prendiamo due punti A e B distanti
-che attraversino la retta via e da loro calcoliamo la pendizia.
+
+5) Tracciamo la retta che meglio si adatta ai punti del grafico. Scegliamo due punti A e B distanti tra loro, che appartengano a tale retta, e da essi calcoliamo la pendenza:
 B
 A
 B
@@ -786,34 +770,21 @@ A
 0,000
 5,20
 0,00
-0,0146 A
-y
-y
-p
-x
-x
-p
+0,0146 A e y y p x x p
 
-Lo stesso risultato viene ottenuto utilizzando il metodo analitico di minimum squares.
+Si ottiene lo stesso risultato utilizzando il metodo analitico dei "minimi quadrati".
 
-6)
-In seguito è riportata una stima grafica delle retteggi con pendici massimi e minimi che sono
-La Commissione ha adottato una decisione che prevede che le misure adottate siano adeguate ai punti di prova. Si noti che le linee rette devono passare per l'origine di
-coordinate, punto (0, 0).
+6) Di seguito viene presentata un'analisi grafica delle rette con pendenza massima e minima che si adattano ragionevolmente ai punti sperimentali. Si osservi che le rette devono passare per l'origine degli assi, punto (0, 0).
 
-Dalle valori della pendenza massima e minima si ottiene l'incertezza:
+A partire dai valori della pendenza massima e minima si ricava l'incertezza:
 Bmax
-Amax
-Max
+Amax max
 Bmax
 Amax
 Bmin
-Amin
-Min
+Amin min
 Bmin
-Amin
-Max
-Min
+Amin max min
 0,068
 0,000
 0,0151 A
@@ -828,50 +799,31 @@ Min
 0,0144
 2
 2
-0,0004 A
-y
-y
-p
-x
-x
-y
-y
-p
-x
-x
-p
-p
-p
-p
+0,0004 A e y y p x x y y p x x p p p p
 
-Quindi,
-p = 0,0146 0,0004 A
+Pertanto, p = 0,0146 ± 0,0004 A
 
 Bmax
 Bmin
 Amax
 Amin
-7)
-La frase (3) di cui al paragrafo 1 indica che la pendenza è:
+
+7) Dall'espressione (3), ottenuta al punto 1, si ricava che la pendenza è
 0
 5 5
 8
-H
-rB
-p
+H rB p
 N
 
-Sconfiggiamo la componente orizzontale del campo:
+Isoliamo la componente orizzontale del campo:
 0
-8
- (4)
+8 (4)
 5 5
 H
 N p
-B
-r
+B r
 
-Con i dati del versetto e della pensione ottenuti al paragrafo 5 calcoliamo il valore numerico:
+Utilizzando i dati del testo e la pendenza calcolata al punto 5, si determina il valore numerico:
 7
 5
 -2
@@ -880,19 +832,19 @@ Con i dati del versetto e della pensione ottenuti al paragrafo 5 calcoliamo il v
 5
 8 4
 10
-185 0,0146
-2,56 10
+185 ± 0,0146
+2,56 × 10
  NA m
 5 5
-9,50 10
-2,56 10
+9,50 × 10
+2,56 × 10
  T
 H
 H
 B
 B
 
-8) Nell'espressione (4), le uniche incertezze corrispondono alla pendenza, p, e alla radio, r. Così,
+8) Nell'espressione (4), le uniche incertezze si riferiscono alla pendenza, p, e al raggio, r. Pertanto,
 2
 2
 2
@@ -901,217 +853,173 @@ B
 5
 0,0004
 0,05
-2,56 10
+2,56 × 10
 0,0146
 9,50
-0,07 10
+0,07 × 10
  T
 H
 H
 H
-H
-p
-r
+H p r
 B
-B
-p
-r
+B p r
 B
 B
 
-Quindi,
-BH = (2,56 0,07) 10-5 T
+Pertanto,
+BH = (2,56 ± 0,07) × 10⁻⁵ T
 
-Con una media di tre misure effettuate con il magnetometro di applicazione Physics
-Toolbox Suite ottiene un valore di 2,53 10-5 T per la componente orizzontale del campo magnetico
-La Commissione ha adottato una decisione che non è stata adottata.
+Il valore medio di tre misurazioni effettuate con lo strumento "magnetometro" dell'applicazione Physics Toolbox Suite è di 2,53 × 10⁻⁵ T per la componente orizzontale del campo magnetico terrestre in quella località (Salamanca).
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17vuUgBsxSb6yEMPxRbURk9F_rkJ3JPY8/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
 1)
-Substituting (1) for (2) is given by:
+Substituting (1) into (2), we obtain:
 0
-8
-So much
+8 tan
 5 5
 H
-N I
-rB
+N I rB
 
-By clearing, we get the intensity at the angle:
+Solving for the current in terms of the angle:
 0
-5 5
-( )
-so (3)
+5 5 ( )
+tan (3)
 8
-H
-rB
+H rB
 I
 N
 
-In Figure 3 we read the intensity values, converting from milliampers to ampers, and the values
-angle from the compass reading. The third column is the tangent function of the angle.
+2–3) From Figure 3, we read the current values (converted from milliamperes to amperes) and the angle values obtained from compass readings. The third column is the tangent of the angle.
 
 I (A)
- (o)
-So much
+(°)
+tan
 1
 0
 0
-0,000
+0.000
 2
-0,86 10-2
+0.86 × 10⁻²
 30
-0,577
+0.577
 3
-1,00 10-2
+1.00 × 10⁻²
 35
-0,700
+0.700
 4
-1,21 10-2
+1.21 × 10⁻²
 40
-0,839
+0.839
 5
-1,45 10-2
+1.45 × 10⁻²
 45
-1,000
+1.000
 6
-1,71 10-2
+1.71 × 10⁻²
 50
-1,192
+1.192
 7
-2,08 10-2
+2.08 × 10⁻²
 55
-1,428
+1.428
 8
-2,55 10-2
+2.55 × 10⁻²
 60
-1,732
+1.732
 9
-3,17 10-2
+3.17 × 10⁻²
 65
-2,145
+2.145
 10
-4,13 10-2
+4.13 × 10⁻²
 70
-2,747
+2.747
 11
-5,53 10-2
+5.53 × 10⁻²
 75
-3,732
+3.732
 12
-8,20 10-2
+8.20 × 10⁻²
 80
-5,671
+5.671
 
 4)
 Graphical representation of the experimental points:
 
 A
 B
-5)
-We draw the straight line that best fits the points on the graph. We take two points A and B away.
-And let them pass through the straight path, and from them We calculate the slope.
-B
-A
-B
-A
-0,076
-0,000
-5,20
-0,00
-0,0146 A
-y
-y
-p
-x
-x
-p
 
-The same result is obtained using the minimum squares analytical method.
+5)
+We draw the straight line that best fits the points on the graph. We select two distant points A and B lying on this line, and from them we calculate the slope:
+B
+A
+B
+A
+0.076
+0.000
+5.20
+0.00
+0.0146 A and y y p x x p
+
+The same result is obtained using the analytical method of "least squares".
 
 6)
-The following is a graphical estimate of the vertical slopes with maximum and minimum slopes which are
-The Commission has already decided to adopt a new proposal for a directive on the approximation of the laws of the Member States relating to the use of the chemical substances. Note that the straight lines must pass through the source of the
-The following is the list of the coordinates:
+Next, we present a graphical estimation of the lines with maximum and minimum slopes that reasonably fit the experimental points. Note that both lines must pass through the origin, point (0, 0).
 
-From the values of the maximum and minimum slope we get the uncertainty:
+From the values of maximum and minimum slope we obtain the uncertainty:
 Bmax
-The Commission shall adopt implementing acts.
-Max
+Amax max
 Bmax
-The Commission shall adopt implementing acts.
+Amax
 Bmin
-Amina
-Min
+Amin min
 Bmin
-Amina
-Max
-Min
-0,068
-0,000
-0,0151 A
-4,50
-0,00
-0,075
-0,000
-0,0144 A
-5,20
-0,00
-0,0151
-0,0144
+Amin max min
+0.068
+0.000
+0.0151 A
+4.50
+0.00
+0.075
+0.000
+0.0144 A
+5.20
+0.00
+0.0151
+0.0144
 2
 2
-0,0004 A
-y
-y
-p
-x
-x
-y
-y
-p
-x
-x
-p
-p
-p
-p
+0.0004 A y y p x x y y p x x p p p p
 
-So, what?
-p = 0,0146 0,0004 A
+Therefore, p = 0.0146 ± 0.0004 A
 
 Bmax
 Bmin
-The Commission shall adopt implementing acts.
-Amina
-7)
-The wording (3) in paragraph 1 shall be
+Amax
+Amin
+
+7) From expression (3), obtained in part 1, the slope is
+
 0
 5 5
 8
-H
-rB
-p
+H rB p
 N
 
-We clear the horizontal component of the field:
+Solving for the horizontal component of the magnetic field:
+
 0
-8
- (4)
+8 (4)
 5 5
 H
 N p
-B
-r
+B r
 
-With the data from the statement and the slope obtained in paragraph 5 we calculate the numerical value:
+Using the data from the statement and the slope obtained in part 5, we compute the numerical value:
+
 7
 5
 -2
@@ -1120,54 +1028,45 @@ With the data from the statement and the slope obtained in paragraph 5 we calcul
 5
 8 4
 10
-185 0,0146
-2,56 10
- NA m
+185 ± 0.0146
+2.56 × 10
+NA m
 5 5
-9,50 10
-2,56 10
- T
+9.50 × 10
+2.56 × 10
+T
 H
 H
 B
 B
 
-8) In expression (4), the only uncertainties are the slope, p, and the radius, r. So, this is it.
+8) In expression (4), the only uncertainties correspond to the slope, p, and the radius, r. Thus,
+
 2
 2
 2
 2
 5
 5
-0,0004
-0,05
-2,56 10
-0,0146
-9,50
-0,07 10
- T
+0.0004
+0.05
+2.56 × 10
+0.0146
+9.50
+0.07 × 10
+T
 H
 H
 H
-H
-p
-r
+H p r
 B
-B
-p
-r
+B p r
 B
 B
 
-So, what?
-BH = (2,56 0,07) 10-5 T
+Therefore,
+BH = (2.56 ± 0.07) × 10⁻⁵ T
 
-Average of three measurements taken with the magnetometer tool of the Physics application
-Toolbox Suite is obtained by a value of 2,53 10-5 T for the horizontal component of the magnetic field
-The Commission has already decided to take a decision on the basis of the information provided by the Commission.
+The average of three measurements taken with the "magnetometer" tool from the Physics Toolbox Suite yields a value of 2.53 × 10⁻⁵ T for the horizontal component of Earth's magnetic field in that location (Salamanca).
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/17vuUgBsxSb6yEMPxRbURk9F_rkJ3JPY8/view)
+

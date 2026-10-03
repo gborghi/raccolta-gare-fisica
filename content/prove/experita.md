@@ -98,84 +98,78 @@ Assumere che la conduttanza del fotoresistore ad ogni lunghezza d'onda sia diret
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**A CD ROM AS A SPECTROMETER**
 
-> Only for this experiment **NON** you are required to indicate uncertainties in your measurements.
+> For this experiment only, **you are not required** to indicate uncertainties in your measurements.
 
-The purpose of this experiment is to arrive at a graph of the $G$ conductivity of a photoresistor (LDR: *Light Dependent Resistance*, whose resistance varies when illuminated) as a function of the wavelength across the visible spectrum.
+The purpose of this experiment is to produce a graph of the conductance $G$ of a light-dependent resistor (LDR: *Light Dependent Resistance*, whose resistance varies when illuminated) as a function of wavelength across the entire visible spectrum.
 
-The conductivity $G$ is the reciprocal of the resistance and is measured in siemens (S): $1\,\text{S} = 1\,\Omega^{-1}$.
+Conductance $G$ is the reciprocal of resistance and is measured in siemens (S): $1\,\text{S} = 1\,\Omega^{-1}$.
 
-This experiment consists of five stages:
+This experiment consists of five steps:
 
-1. Producing the spectrum of light from a tungsten filament lamp (12 V, 50 W  identified by the letter "A") using as a reflective mesh a curved strip (concave) derived from a CD ROM.
-2. By scanning the first order, well-focused spectrum, measure the conductivity of the photoresistor for an appropriate number of wavelengths. Report the measurements performed on a graph, depending on the wavelength.
-3. To show that the filament of the "A" bulb behaves approximately like an ideal black body.
-4. Find the filament temperature of the "A" lamp when it is powered at 12 V.
-5. Take into account that the energy in the emission spectrum of the 'A' lamp is not evenly distributed and adjust the conductivity chart accordingly according to the wavelength.
+1. Produce the spectrum of light from a tungsten filament lamp (12 V, 50 W — identified by the letter "A") using as a reflection grating a curved (concave) strip obtained from a CD ROM.
+2. By scanning the first-order, well-focused spectrum, measure the conductance of the LDR for a sufficient number of wavelengths. Plot on a graph the measurements obtained as a function of wavelength.
+3. Demonstrate that the filament of lamp "A" behaves approximately like an ideal black body.
+4. Determine the temperature of the filament of lamp "A" when it is operated at 12 V.
+5. Account for the fact that energy in the emission spectrum of lamp "A" is not uniformly distributed, and accordingly correct the graph of conductance as a function of wavelength.
 
-### Careful
+### Precautions
 
 - Be careful not to burn yourself.
-- The lamp identified by letter 'B' shall not be powered at a voltage exceeding 2.0 V in any case.
-- The multimeter in its function of ometer shall not be connected to power circuits.
+- The bulb marked with the letter "B" must never be supplied with a voltage exceeding 2.0 V.
+- The multimeter in its ohmmeter function must not be connected to powered circuits.
 
-♪ ♪ Procedure ♪
+### Procedure
 
-**(a) ** The apparatus (shown in Figure 1) has been arranged so that the light from the lamp hits perpendicular to the curved lattice and the photoresistors are placed in line with the first order, well focused spectrum. Move the photoresistor along the first order spectrum to observe how its resistance (measured with the "X" multimeter) changes with position.
+**(a)** The apparatus (shown in Figure 1) was set up so that the light from the bulb strikes the curved grating perpendicularly and the photoresistor is positioned at the first-order spectrum, well focused. Move the photoresistor along the first-order spectrum to observe how its resistance (measured with multimeter "X") changes with position.
 
 **(b)**
 
-- (i) Take measurements of the resistance $R$ of the photoresistors at different positions along the first order spectrum and report them in the table provided.
-- (ii) Build a graph of the conductivity $G$ according to the wavelength $\lambda$ by returning it to the millimeter paper available.
+- (i) Take resistance measurements $R$ of the photoresistor at different positions along the first-order spectrum and record them in the provided table.
+- (ii) Plot a graph of conductance $G$ versus wavelength $\lambda$ on the millimeter paper provided.
 
-**Note.** The angle $\theta$ between the incident beam (white light) and the reflected beam from the lattice (wavelength $\lambda$) in the first order spectrum (see Figure 1) is given by:
+**Note.** The angle $\theta$ between the incident ray (white light) and the reflected ray from the grating (at wavelength $\lambda$) in the first-order spectrum (see Figure 1) is given by:
 
 $$\sin\theta = \frac{\lambda}{d}$$
 
-where $d$ is the separation between the lines of the lattice. The lattice has 620 lines per millimeter.
+where $d$ is the grating line spacing. The grating has 620 lines per millimeter.
 
-The graph obtained in (b) (ii) does not correctly reflect the sensitivity of the photoresistors to different wavelengths as the emission characteristics of the 'A' lamp have not been taken into account. These characteristics will be studied in Parts (c) and (d) allowing a more correct sensitivity curve to be traced (Part (e).
+The graph obtained in (b)(ii) does not correctly reflect the photoresistor's sensitivity to different wavelengths because the emission characteristics of lamp "A" were not taken into account. These characteristics will be studied in parts (c) and (d), enabling the drawing (part e) of a more accurate sensitivity curve.
 
-> Note that in part (c) three multimeters are connected with a function of amperometers; these **NON** must be adjusted or moved. Use only the fourth multimeter (indicated by the letter 'X') for all voltage measurements.
+> Note that in part (c), three multimeters are connected as ammeters; these **MUST NOT** be adjusted or moved. Therefore, use only the fourth multimeter (identified by the letter "X") for all voltage measurements.
 
-**(c) ** If the 50 W bulb emits as a black body, it can be shown that the difference between the $V$ potential applied to the filament and the current $I$ passing through it is the ratio:
+**(c)** If the 50 W lamp emits like a black body, it can be shown that between the potential difference $V$ applied to the filament and the current $I$ passing through it, the following relation holds:
 
 $$V^3 = C\,I^5$$
 
 where $C$ is a constant.
 
-Measure pairs of corresponding values of $V$ and $I$ for the lamp 'A' (in the container). The amperometer is already connected and must not be touched.
+Measure pairs of corresponding values of $V$ and $I$ for lamp "A" (inside the container). The ammeter is already connected and must not be touched.
 
-- (i) Record in the table on the answer sheet the data and values of all the quantities calculated.
-- (ii) Draw on millimeter paper a suitable chart to show that the filament emits like a black body.
+- (i) Record in the table provided on the answer sheet all data and values of any calculated quantities.
+- (ii) On the supplied millimeter paper, plot an appropriate graph to demonstrate that the filament emits like a black body.
 
-**(d) ** To make corrections to the chart constructed in (b) (ii) the working temperature of the filament of the lamp 'A' must be known. This can be done by knowing how the resistance varies with temperature.
+**(d)** To apply corrections to the graph constructed in (b)(ii), it is necessary to know the operating temperature of the filament of lamp "A". This can be determined by knowing how resistance varies with temperature.
 
-A graph showing the change in the resistivity of tungsten (measured in $\mu\Omega\,\text{cm}$) as a function of temperature (measured in Kelvin) was provided.
+A graph showing the variation of tungsten resistivity (measured in $\mu\Omega\,\text{cm}$) as a function of temperature (measured in Kelvin) has been provided.
 
-If the resistance of the filament of the "A" lamp can be measured at a given temperature, then its temperature can be determined by measuring the resistance when it is fed at 12 V. Unfortunately, the resistance of this filament at room temperature is too low to be measured accurately enough with this equipment. For this purpose a second, smaller lamp, denominated 'C', is made available. The 'C' lamp may be used as a support element in the procedure described below. Another 12 V and 50 W lamp (named 'B') identical to the 'A' lamp is also available. The 'B' and 'C' lamps are mounted on the base and connected as shown in Figure 2.
+If the resistance of lamp A's filament can be measured at a given temperature, then its temperature can be determined by measuring the resistance when it is operated at 12 V. Unfortunately, the filament's resistance at room temperature is too low to be measured with sufficient accuracy using this equipment. Therefore, a second smaller lamp, labeled "C," is provided: at room temperature, it has a higher and measurable resistance. Lamp "C" can be used as a reference component in the procedure described below. Additionally, another 12 V, 50 W lamp (labeled "B") is provided, identical to lamp "A." Lamps "B" and "C" are mounted on the base and connected as shown in Figure 2.
 
-- (i) Measure the strength of the C lamp when it is off and at room temperature. (Use the X-multimeter and assume that the ambient temperature is 300 K.) Report the value of this resistance, indicated with $R_{C1}$, on the answer sheet.
-- (ii) Use the circuit shown in Figure 2 to compare the temperature of the filaments of the "B" and "C" bulbs. If the small filament is colder than the large filament, when viewed in alignment with the other, it is visible as a thin, dark trace. Using the variable resistor, the current of the 'C' lamp can be varied until, by looking at the overlapping filaments, it can be inferred that they have the same temperature. Once these conditions are met, measure the resistance of the bulbs 'B' and 'C' and report the values of $R_{C2}$ and $R_B$ on the answer sheet. Remember, the ampere meters are already connected.
-- (iii) Use the temperature-dependent resistivity graph (provided) to deduce the common temperature of the filaments of the "B" and "C" bulbs. Report this temperature, $T_{2V}$, to the answer sheet.
-- (iv) Measure the resistance of the filament of the "A" lamp  in the container  when connected to the 12 V power supply. Once again note that the amperometer is already connected and must not be touched. Report this value, $R_{12V}$, on the reply sheet.
-- (v) Use the resistance values of the lamp 'A' when powered at 2 V and 12 V and its temperature measured at 2 V to obtain its temperature when powered at 12 V. Report this temperature value, $T_{12V}$, in the table on the reply sheet.
+(i) Measure the resistance of lamp "C" when it is off and at room temperature. (Use multimeter "X," and assume the room temperature to be 300 K.) Record the value of this resistance, denoted as $R_{C1}$, on the answer sheet.
+- (ii) Use the circuit shown in Figure 2 to compare the filament temperatures of bulbs "B" and "C". If the smaller filament is cooler than the larger one, when aligned with the other it appears as a thin dark line. By adjusting the variable resistor, vary the current through bulb "C" until, when observing the filaments superimposed, it can be deduced that they have the same temperature. Once these conditions are achieved, measure the resistances of bulbs "B" and "C", and record the values of $R_{C2}$ and $R_B$ on the answer sheet. Remember that ammeters are already connected.
 
-You've got graphs that give the relative intensity of black body radiation (Planck curve) at temperatures of: 2000 K, 2250 K, 2500 K, 2750 K, 3000 K, 3250 K.
+- (iii) Use the provided graph of resistivity versus temperature to deduce the common temperature of the filaments of bulbs "B" and "C". Record this temperature, $T_{2V}$, on the answer sheet.
 
-**(e) ** Use these graphs and the result obtained in point (d) (v) to draw a correct graph of the photoresistor conductivity (in arbitrary units) according to the wavelength using the millimeter paper delivered.
+- (iv) Measure the resistance of the filament of bulb "A" — located in the container — when connected to the 12 V power supply. Once again, note that the ammeter is already connected and must not be touched. Record this value, $R_{12V}$, on the answer sheet.
 
-Assume that the conductivity of the photoresistor at each wavelength is directly proportional to the radiation intensity at that wavelength. (This assumption is reasonable at the low intensities of light that affects the photoresistors in this experiment.) Assume that the diffraction effect of the reticulum is the same in each part of the first order spectrum.
+- (v) Use the resistance values of bulb "A" when supplied with 2 V and 12 V, along with its measured temperature at 2 V, to determine its temperature when supplied with 12 V. Record this temperature value, $T_{12V}$, in the table on the answer sheet.
 
----
+You have received graphs showing the relative intensity of blackbody radiation (Planck curves) at temperatures of: 2000 K, 2250 K, 2500 K, 2750 K, 3000 K, 3250 K.
 
-**Topic:** [[Wave Optics]], [[Thermodynamics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1w0xzRglSqtjDJrVOPHItGBs13nnRk7F-/view)
+**(e)** Use these graphs and the result obtained in point (d)(v) to draw a correct graph of the photoresistor's conductance (in arbitrary units) as a function of wavelength, using the millimeter paper provided.
 
+Assume that the photoresistor's conductance at each wavelength is directly proportional to the radiation intensity at that wavelength. (This assumption is reasonable under the low light intensity incident on the photoresistor in this experiment.) Assume that the diffraction effect of the grating is identical across all parts of the first-order spectrum.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2000 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/electromagnetic-induction,topic/newtonian-mechanics,object/magnet,object/inclined-plane,object/capacitor,object/battery"></span>

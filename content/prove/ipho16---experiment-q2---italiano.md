@@ -109,13 +109,7 @@ The test results shall be presented in accordance with the following formula:
 
 3. A glove
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fMHuKcDU3Fh6bYqVnYvfNgcdql7iD250/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2016 — Sperimentale — Q2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/oscillations-e-waves,topic/newtonian-mechanics,topic/thermodynamics,argomento/meccanica,object/membrane,object/cylinder"></span>

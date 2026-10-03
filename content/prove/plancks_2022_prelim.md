@@ -588,24 +588,17 @@ Il parametro $A$ è determinato tipicamente da esperimenti.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Luminazione di inclinazione in un aereo**
+**Flessione della luce in un piano**
 
-> *One of the concerns with moving the space station is that it might end up in a black hole and transport us to a different reality that exists only in two-dimensions. With concerns mounting, you have been tasked to investigate how light would behave in this two-dimensional world.*
+> *Una delle preoccupazioni legate al movimento della stazione spaziale è che potrebbe finire in un buco nero e trasportarci in una realtà diversa che esiste soltanto in due dimensioni. Dato che le preoccupazioni aumentano, ti è stato chiesto di indagare come si comporterebbe la luce in questo mondo a due dimensioni.*
 >
-> Immaginate di vivere in un mondo (bidimensionale) in cui l'indice di rifrazione varia in funzione dell'altezza:
+> Immagina di vivere in un mondo (a due dimensioni) dove l'indice di rifrazione varia in funzione dell'altezza:
 > $$n(y) = \sqrt{1 + e^{-y/2}}$$
-> A person in this world stands at the origin ($x = 0, y = 0$) and shines a light beam directed at $45^\circ$ upward.
+> Una persona in questo mondo si trova nell'origine ($x = 0, y = 0$) e dirige un raggio luminoso verso $45^\circ$ in direzione verticale verso l'alto.
 
-**a) (9 marchi) ** Determina l'equazione del percorso del fascio luminoso. (Signore: la luce viaggia sempre nel percorso che richiede il minor tempo.)
+**(a) (9 punti)** Determina l’equazione del percorso del raggio luminoso. (Suggerimento: la luce si muove sempre lungo il cammino che richiede il minor tempo.)
 
-**(b) (1 segno) ** Tracciare il percorso del fascio luminoso.
-
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1udBtAGYw7bUaIajuVbxr9ivlevPWuS0v/view)
-**Topic:** [[Geometric Optics]], [[Mathematics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-
+**(b) (1 punto)** Traccia il percorso del raggio luminoso.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="PLANCKS 2022 — UK&amp;Ireland Preliminary — Quesito 8" data-tags="kg/prova,paese/International,comp/PLANCKS,topic/magnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/multi,object/magnetic-dipole"></span>

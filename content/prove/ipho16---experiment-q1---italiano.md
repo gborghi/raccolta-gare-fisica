@@ -176,6 +176,7 @@ The test shall be carried out on the basis of the following information:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1WSYX6cwglNv2k0lH6i-Y26Qp8tbL-aK0/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FaU6s1Rgg7j3-vN_nlkMpN9oiUmwiZDF/view)
 
+[[IPhO16 - Experiment Q1 - Italiano__Q03]]
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2016 — Sperimentale — Q1 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/resistor"></span>

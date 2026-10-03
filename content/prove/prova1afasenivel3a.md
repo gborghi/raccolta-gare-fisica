@@ -262,23 +262,15 @@ LEIA ATENTAMENTE AS INSTRUÇÕES ABAIXO:
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. Un corpo massiccio descrive un movimento circolare uniformemente variabile su una tavola orizzontale e
-bloccato da un filo estensibile. Inizialmente in $t=0\ \text{s}$, la sua velocità di scalazione è $3{,}0\ \text{m/s}$ e dopo $2\ \text{s}$ la sua velocità di scalazione è $3{,}0\ \text{m/s}$
-La velocità passa a $4{,}0\ \text{m/s}$. Scommettere tutti gli attriti, determinare il modulo della sua accelerazione vetorale
-no tempo $t=2\ \text{s}$ , sabendo-se que o corpo gasta $8\ \text{s}$ para dar uma volta completa.
+4. Un corpo solido descrive un moto circolare uniformemente variato su un tavolo orizzontale, legato da un filo inestensibile. Inizialmente nel punto $t=0\ \text{s}$, la sua velocità scalare vale $3{,}0\ \text{m/s}$ e dopo un intervallo di tempo $2\ \text{s}$ la velocità diventa $4{,}0\ \text{m/s}$. Trascurando ogni attrito, determinare il modulo della sua accelerazione vettoriale al tempo $t=2\ \text{s}$, sapendo che il corpo impiega $8\ \text{s}$ a compiere un giro completo.
 - **A.** 2,5 m/s$^2$
 - **B.** 5 m/s$^2$
+- **C.** 1,5 m/s$^2$
+- **D.** 3,0 m/s$^2$
+- **E.** 4,0 m/s$^2$
 
-c) 1,5 m/s$^2$
- d) 3,0 m/s$^2$
- e) 4,0 m/s$^2$
-Leggi attentamente le istruzioni qui sotto:
+LEGGI ATTENTAMENTE LE ISTRUZIONI DI SEGUITO:
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -455,17 +447,9 @@ caderno.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+**answer sheet**
 
-04) The Student Identification Sheet is on the last page of this
-- The notebook.
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
-
+04) The Answer Sheet with the student's identification is located on the last page of this booklet.
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Brasil 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
@@ -567,49 +551,26 @@ e) 2,0 m/s$^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-06) È vietato l'uso di qualsiasi tipo di calcolatore e di cellulare.
-Data: accelerazione della gravità sulla superficie della terra $10\ \text{m/s}^2$; densità dell'acqua $10^3\ \text{kg/m}^3$;
-La velocità della luce nel vuoto $3\times10^8\ \text{m/s}$; $\operatorname{sen} 30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}8$; $\pi = 3$
-5. Infine, l'obbligo di airbag per le nuove auto, cioè da ora in poi, tutti i veicoli
-La Commissione ha inoltre deciso di non imporre alcuna misura ai prezzi di mercato. Sentendo questo
-La scienza, il professor Physicson ha dato la seguente spiegazione in classe ai suoi studenti:
-L'airbag è costituito da un sacchetto di plastica che, quando si gonfia rapidamente,
-Se si verifica un forte rallentamento del veicolo, si interpone tra il conducente/passagero e la struttura rigida del veicolo
-La Commissione ha inoltre adottato una decisione che prevede che il sistema di trasporto dei veicoli sia stato modificato.
-Se avete queste informazioni, giudicate le seguenti voci, verificando se le informazioni sono corrette:
-a) Uno dei vantaggi dell'airbag durante l'incontro è di aumentare il tempo di contatto tra il volto del conducente
-e la struttura rigida dell'auto, riducendo così l'impatto.
-b) L'impatto di un autista contro l'airbag dura meno di un altro autista
-direttamente contro la struttura del veicolo.
-c) La forza esercitata dalla struttura del veicolo sul conducente non è pari alla variazione della quantità di
-movimento del conducente.
-d) La variazione della quantità di movimento del conducente del veicolo è diversa in una collisione, con o senza
-la protezione dell'airbag.
-e) La variazione della quantità di movimento del conducente è pari alla variazione della quantità di movimento del
-- Veicolo.
+06) È vietato l'uso di qualsiasi tipo di calcolatrice e telefono cellulare.
+Dati: accelerazione dovuta alla gravità sulla superficie terrestre $10\ \text{m/s}^2$; densità dell'acqua $10^3\ \text{kg/m}^3$; velocità della luce nel vuoto $3\times10^8\ \text{m/s}$; $\operatorname{sen} 30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}8$; $\pi = 3$
+5. "Inizia a valere l'obbligatorietà dell'airbag per i nuovi veicoli, ossia da ora in poi tutti i veicoli devono uscire dalle fabbriche con questi dispositivi, garantisce il governo" (http://g1.globo.com/carros/noticia/).. All'udire questa notizia, il professore Physicson ha fornito in classe la seguente spiegazione ai suoi studenti:
+"L'airbag è costituito da un sacchetto di materiale plastico che, quando si gonfia rapidamente nel momento in cui avviene una forte decelerazione del veicolo, si interpone tra il guidatore/passeggero e la struttura rigida del veicolo, attenuando così l'impatto reciproco".
+In base a queste informazioni, valutare i seguenti punti, identificando quello che contiene un'informazione corretta:
+a) Una delle vantaggi dell'airbag durante l'impatto è aumentare il tempo di contatto tra il volto del guidatore e la struttura rigida dell'automobile, riducendo così l'impatto.
+b) L'impatto del guidatore contro l'airbag ha una durata minore rispetto all'impatto di un altro guidatore direttamente contro la struttura del veicolo.
+c) L'impulso esercitato dalla struttura del veicolo sul guidatore non è uguale alla variazione della quantità di moto del guidatore.
+d) La variazione della quantità di moto del guidatore è diversa, in un impatto, con o senza la protezione dell'airbag.
+e) La variazione della quantità di moto del guidatore è uguale alla variazione della quantità di moto del veicolo.
 
-6. Durante le lezioni sulle leggi di Newton, in particolare sulle condizioni di attrito tra superfici in
-contatto, il professore ha posto un oggetto con massa $1{,}0\ \text{kg}$ appoggiato su una tavola $4{,}0\ \text{kg}$, come mostra
-la figura qui sotto. Il professore poi tira l'oggetto applicando una forza $\vec{F}$
-orizzontale e costante.
-Considerando che lo scatto tra la tavola e la tavola è scarsa e che i coefficienti di scatto statico sono
-e dinamica tra l'oggetto e la scheda sono pari a 0,8 e 0,6, rispettivamente, l'accelerazione maggiore che la
-la scheda che può acquistare sarà di:
+6. Durante le lezioni sulle leggi di Newton, in particolare sulle condizioni di attrito tra superfici a contatto, il professore ha posto un oggetto di massa $1{,}0\ \text{kg}$ appoggiato su una tavola di massa $4{,}0\ \text{kg}$, come mostrato nella figura seguente. Successivamente, il professore ha tirato l'oggetto applicandogli una forza $\vec{F}$ orizzontale e costante.
+Considerando che l'attrito tra la tavola e il tavolo sia trascurabile e che i coefficienti di attrito statico e dinamico tra l'oggetto e la tavola siano rispettivamente 0,8 e 0,6, l'accelerazione massima che la tavola può raggiungere sarà di:
 
 a) 1,0 m/s$^2$
-
 b) 1,2 m/s$^2$
-
 c) 1,5 m/s$^2$
 d) 1,6 m/s$^2$
-
 e) 2,0 m/s$^2$
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -930,31 +891,20 @@ e) II e III sono corrette.
 
 <div class="qlang-split" data-lang="en"></div>
 
-10. During a lecture on wave phenomena, the professor weaves considerations about some of them,
-When one of his students listened attentively to his explanation, she asked the following question:
-The most elegant thing I think about in nature is the rainbow. How do you train yourself, Professor?
-The teacher, taking advantage of the bait, extended the question to the class, getting some answers. Let 's see .
-I. The rainbow with its colours arises from the reflection phenomenon of light in the water droplets suspended in the water
-atmosphere;
-II. The colours are those of the droplets, independent of the reflection of light.
-The Commission shall adopt implementing acts. The phenomenon responsible for the formation of colours is called the scattering of sunlight over the droplets of
-- What?
-As regards the claims, we can state that:
-(a) Only I is correct
+10. During a lesson on wave phenomena, the teacher was making observations about some of them when one of his attentive students asked: "One of the most elegant phenomena I find in nature is the rainbow. How exactly does it form, teacher?"
 
-(b) Only III is correct
+Taking advantage of the opportunity, the teacher extended the question to the whole class, receiving several responses. Let's examine them:
 
-(c) I and II are correct
+I. The rainbow with its colors arises due to the phenomenon of light reflection in water droplets suspended in the atmosphere;
+II. The colors are intrinsic to the droplets, independent of light reflection;
+III. The phenomenon responsible for the formation of colors is called dispersion of sunlight on water droplets.
+
+With regard to these statements, we can say that:
+a) Only I is correct
+b) Only III is correct
+c) I and II are correct
 d) All are correct
-
-(e) II and III are correct.
-
-**Topic:** [[Geometric Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
-
+e) II and III are correct
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Brasil 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica"></span>
@@ -1102,35 +1052,18 @@ e) I e II sono corretti
 
 <div class="qlang-split" data-lang="en"></div>
 
-12. Thomas Young (17731829) became famous for the double-slit experiment, in which he defended the
-The wave-like behavior of light, so strongly discussed a century earlier by Isaac Newton (16431727),
-The Commission has also adopted a number of measures to combat fraud. In addition to physics, T. Young was also a doctor, being one of the
-The first to correctly describe the anatomy of the human eye. In one of his scientific essays,
-Observations on Vision, he describes the process of image formation in the retina, giving the lens a
-responsibility for the focusing of objects located at different distances. From that perspective,
-identify below the correct proposition (s):
-I.
-The lens is a convergent lens;
-II.
-The image formed in the retina in a normal eye (hemetrope) is real, reversed and smaller than the object
-focused;
-The Commission shall adopt implementing acts.
-Farsightedness and presbyopia are corrected by the use of convergent lenses;
-IV.
-Myopia and astigmatism are corrected by the use of divergent and cylindrical lenses, respectively.
-- **A** All are correct;
-- **B.** I, II and III, are correct;
+12. Thomas Young (1773–1829) became famous for the double-slit experiment, in which he advocated the wave nature of light—intensely debated a century earlier by Isaac Newton (1643–1727), Christiaan Huygens (1629–1695), among others. Besides being a physicist, T. Young was also a physician and one of the first to correctly describe the anatomy of the human eye. In one of his scientific essays, "Observations on Vision," he described the process of image formation on the retina, assigning to the lens (crystalline) the responsibility for focusing objects located at different distances. Based on this perspective, identify below the correct statement(s):
 
-(c) II, III and IV are correct;
-(d) Only I is correct;
-(e) I and II are correct
+I. The crystalline lens is a converging type of lens;
+II. In a normal eye (emmetropic), the image formed on the retina is real, inverted, and smaller than the focused object;
+III. Hypermetropia and presbyopia are corrected using converging lenses;
+IV. Myopia and astigmatism are corrected using diverging lenses and cylindrical lenses, respectively.
 
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
-
+- **A.** All are correct;
+- **B.** I, II, and III are correct;
+- **C.** II, III, and IV are correct;
+- **D.** Only I is correct;
+- **E.** I and II are correct
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Brasil 2006 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/heat-engine"></span>
@@ -1414,30 +1347,17 @@ e) R$ 8,00
 
 <div class="qlang-split" data-lang="en"></div>
 
-16. A student of physics resolves to do electrical energy calculations on some devices
-more dissipative electrical power you have at home. For this purpose, he consults the sign labels of each device
-which has the following values:
- 01 ferro elétrico ($400\ \text{W}$–$220\ \text{V}$);
- 01 chuveiro elétrico ($3000\ \text{W}$–$220\ \text{V}$);
- 01 torradeira ($500\ \text{W}$–$220\ \text{V}$).
-Using each of these devices for an average of 10 minutes a day, how much will it cost (approximately in real
-The Commission has already decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the measures are implemented in a manner that is consistent with the objectives of the common agricultural policy.
+16. A physics student decides to calculate the electrical energy consumption of some of the more power-dissipating household appliances he owns. To do this, he checks the nameplates on each appliance and records the following values:
+01 electric iron ($400\ \text{W}$–$220\ \text{V}$);
+01 electric shower ($3000\ \text{W}$–$220\ \text{V}$);
+01 toaster ($500\ \text{W}$–$220\ \text{V}$).
+
+Using each of these appliances on average 10 minutes per day, what will be the approximate cost (in reais) of energy consumption over 30 days, if the local electricity company charges R$ 0.25 per 1 kWh?
 a) R$ 2,87
-
 b) R$ 10,00
-
 c) R$ 3,00
-
 d) R$ 4,87
-
 e) R$ 8,00
-
-**Topic:** [[Circuits]], [[Conservation of Energy]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Brasil 2006 — Quesito 21" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
@@ -1642,36 +1562,21 @@ d) le affermazioni II e IV sono corrette.
 
 <div class="qlang-split" data-lang="en"></div>
 
-19. The year 2015 has been considered, in the field of physics, the International Year of Light, proposed by the
-UNESCO on the occasion of the various anniversaries of the interpretation and understanding of radiation. 110 years ago,
-The physicist Albert Einstein proposed in his paper that light behaves as if its energy were concentrated.
-in discrete packets, called energy quantities, later called photons (1925).
-Notably, he used this hypothesis to describe the photoelectric effect, which Hertz saw in 1886 during the
-the conduct of his experiment in the proof of electromagnetic waves. In relation to this phenomenon,
-analyse the following proposals, identifying the correct ones:
-I. The energy of the electrons removed from the metal sheet by photons does not depend on the time of exposure to the
-the incident light;
-II. The energy of the removed electrons increases with the increase in the wavelength of the incident light;
-The Commission shall adopt implementing acts. The incident photons in the metal sheet, in order to remove electrons from it, must have an energy
-I mean, not at all.
-IV. The energy of each electron removed from the metal blade is equal to the energy of the photon that removed it.
-V. The energy quantity of a photon of incident light on the metal sheet is directly proportional to the
-its intensity.
+19. The year 2015 was considered, in the context of Physics, the International Year of Light, a proposal suggested by UNESCO due to several anniversaries related to the interpretation and understanding of radiation. One hundred ten years ago, physicist Albert Einstein proposed in his paper that light behaved as if its energy were concentrated in discrete packets called "quanta" of energy, later named photons (1925).
 
-(a) statements I and V are correct.
+Notably, he used this hypothesis to describe the photoelectric effect, observed by Hertz in 1886 during his experiment confirming electromagnetic waves. Regarding this phenomenon, analyze the following statements and identify the correct one(s):
 
-- **B ** affirmations IV and V are correct.
-- **C ** are correct assertions I and III
+I. The energy of electrons removed from the metallic plate by photons does not depend on the exposure time to incident light;
+II. The energy of electrons removed increases with increasing wavelength of incident light;
+III. Incident photons on the metallic plate must have a minimum energy in order to remove electrons from it;
+IV. The energy of each electron removed from the metallic plate is equal to the energy of the photon that removed it;
+V. The quantum of energy of a photon of incident light on the metallic plate is directly proportional to its intensity.
 
-(d) statements II and IV are correct.
-(e) statements I, III and V are correct
-
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1MO1f5ATTanvFRmbn8n7dYey6CM2Zur0G/view)
-
+a) Statements I and V are correct.
+**B.** Statements IV and V are correct.
+**C.** Statements I and III are correct.
+d) Statements II and IV are correct.
+e) Statements I, III, and V are correct
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Brasil 2006 — Quesito 24" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/tank-container"></span>

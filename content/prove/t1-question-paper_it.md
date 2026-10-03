@@ -178,160 +178,115 @@ lungo la direzione di osservazione).
 
 <div class="qlang-split" data-lang="en"></div>
 
-Particles from the Sun
+**Particles from the Sun**
 
 Page 1 of 2
 T-1
 Q
 
-Particles from the Sun
-(Score total: 10)
+Particles from the Sun (Total score: 10)
 
-Photons from the surface of the Sun and neutrinos from its core give us information
-They're also very sensitive to solar temperatures and confirm that the Sun shines through nuclear reactions.
-In this whole problem, assume g for the mass of the Sun, for the
-Its radius, W for its luminosity (relation between radiant energy emitted and time of
-The emission of CO2 from the atmosphere and the distance between the Earth and the Sun.
-Please note that:
- $\int$ (
+Photons originating from the surface of the Sun and neutrinos coming from its core provide us with information about solar temperatures and confirm that the Sun shines due to nuclear reactions.
+In this entire problem, assume g for the mass of the Sun, for its radius, W for its luminosity (ratio between emitted radiant energy and emission time), and for the Earth-Sun distance.
+Note that:
+$\int$ ( ) st t
+$\int$ ( ) st t
+$\int$ ( ) st t
 
- ) st t
- $\int$ (
-
- ) st t
- $\int$ (
-
- ) st t
-
-Radiation from the Sun:
+A Radiation from the Sun:
 
 A1
-Suppose the Sun emits radiation like a perfect black body. From this, the temperature s is calculated.
-The sun's surface.
+Assume that the Sun emits radiation as a perfect black body. Using this, calculate the surface temperature s of the Sun.
 0.3
 
-The spectrum of solar radiation can be approximated well by the Wien distribution. Secondly
-This law, the elevation of the incidence on a surface laid on the Earth, per unit of time and per unit of
-frequency, , is given by
+The spectrum of solar radiation can be well approximated by the Wien distribution. According to this law, the radiant energy incident on a surface located on Earth, per unit time and per unit frequency, , is given by
 
- e s
-where the frequency is indicated and is the direction of the incident radiation.
-Consider now a solar cell, consisting of a thin disk of semiconductor material of area,
-perpendicular to the direction of the rays coming from the Sun.
+e s where denotes the frequency and is the area of the surface perpendicular to the direction of incident radiation.
+Now consider a solar cell, consisting of a thin disk made of semiconductor material with area , oriented perpendicular to the direction of incoming rays from the Sun.
 
 A2
-The total solar radiant power incident on the surface of the
-The solar cell, i, in terms of , , , s and the fundamental constants , .
+Using Wien's displacement law, express the total solar radiant power incident on the surface of the solar cell, i, as a function of , , , s, and the fundamental constants , , .
+
 0.3
+
 A3
-Express the number of photons affecting the surface of the solar cell, per unit of time and per unit of
-frequency range, function of , , , s, and fundamental constants , .
+Express the number of photons incident on the surface of the solar cell per unit time and per unit frequency interval, , as a function of , , , s, and the fundamental constants , , .
+
 0.2
 
-The semiconductor material of the solar cell has a prohibited energy band g. Let's take the model.
-The following: each g-energy photon excites an electron, causing it to pass through the forbidden band of
-energy. Of the energy absorbed by the electron, one quantity g is used in output while the rest is used in the
-heat dissipation (not converted into useful energy).
+The semiconductor material of the solar cell has a band gap energy g. We assume the following model: each photon with energy g excites an electron, causing it to cross the band gap. Of the energy absorbed by the electron, an amount g is used for output, while the remainder is dissipated thermally (and thus not converted into useful energy).
 
 A4
-Put g g s where g g. Express the power used at cell output, ut, as a function of
-g, , , , s and the fundamental constants , .
-1.0
-A5
-Express the yield of this solar cell as g.
-0.2
-A6
-Draw a qualitative graph of  d and t of function g. Assuming values for g and for
-g must be clearly shown. What is the slope of g and g ?
-1.0
-A7
-The value of g for which it is maximum. The equation and cube it provides . The Commission shall adopt implementing acts.
-an approximate value of u  ur tezz of . That 's what you 're gonna do .
-1.0
-A8
-The forbidden band of pure silicon is g eV. Using this value, you calculate the yield of a
-The solar cell is silicon.
-0.2
-At the end of the 19th century, Kelvin and Helmholtz (KH) proposed the thesis of the
-The sun could shine. The theses are based on a large cloud of mass and matter.
+Poni g g s where g g. Express the output power used by the cell, ut, as a function of g, , , , s and the fundamental constants , , .
 
-Page 2 of 2
-T-1
-Q
-And if the density was negligible, the Sun would have started to contract continuously. The sunshine would be like this
-This is due to the release of gravitational potential energy corresponding to this slow contraction.
+1.0
+
+A5
+Express the efficiency of this solar cell as a function of g.
+
+0.2
+
+A6
+Draw a qualitative graph of the d and t of in terms of g. The values assumed for g and for g must be clearly shown. What is the slope of for g and for g?
+
+1.0
+
+A7
+Let be the value of g for which is maximized. Derive the cubic equation that gives . Determine an approximate value of u’urtezz of . From this value, calculate .
+
+1.0
+
+A8
+The band gap of pure silicon is g eV. Using this value, calculate the efficiency i of a solar cell made of silicon.
+
+0.2
+
+At the end of the nineteenth century, Kelvin and Helmholtz (KH) proposed a hypothesis to explain the Sun’s luminosity. They suggested that, starting from a large cloud of matter with mass and negligible density, the Sun had begun to contract continuously. The Sun’s luminosity would thus be due to the release of gravitational potential energy corresponding to this slow contraction.
+
 A9
-Suppose the density of matter is uniform. The Commission shall adopt the following measures:
-The total gravitational pull of the Sun today, functioning G, and.
+Assume that the interior of the Sun has uniform matter density. Derive the total gravitational potential energy of the Sun today, , as a function of G and .
+
 0.3
-A10 Estimate (in years) the maximum time the Sun could have shone if d d the thesis of KH and
-And I'm not going to say that the sun's brightness has remained constant throughout this period.
+
+A10 Estimate (in years) the maximum time during which the Sun could have shone, if the KH hypothesis were correct and assuming that the Sun’s luminosity remained constant throughout this period.
+
 0.5
 
-The time calculated above does not match the age of the solar system obtained from the study of meteorites.
+The time calculated above is inconsistent with the age of the solar system derived from meteorite studies.
 This shows that the Sun's energy source cannot be purely gravitational.
 
-B Neutrines from the Sun:
-In 1938, Hans Bethe suggested that a fusion process of the hydrogenetic heels in the core of the Sun
-could be the source of his energy. The overall nuclear reaction is:
+B Neutrinos from the Sun:
+In 1938, Hans Bethe proposed that a nuclear fusion process—specifically the fusion of hydrogen into helium in the Sun's core—could be the source of its energy. The overall nuclear reaction is:
 
-The electron neutrins produced in this reaction may be considered massless. They escape from the
-The sun and its appearance on earth confirm the presence of kings and the gods. In this
-The problem can be overlooked by the authorities.
+The "electron neutrinos" produced in this reaction may be considered massless. They escape from the Sun, and their detection on Earth confirms the occurrence of fusion reactions in the solar interior. In this problem, the energy carried by neutrinos may be neglected.
 
 B1
-Calculates the density of neutrinos flowing to Earth, in units s. The free movement of goods
-The reaction written above is . The energy from the sun is due solely to the
-I'm not going to respond to this reaction.
+Calculate the density of the incoming neutrino flux on Earth, , in units of s⁻¹. Assume that all energy emitted by the Sun is due solely to this reaction.
 0.6
 
-During the journey from the Sun's core to Earth, some electron neutrinos are transformed into other types of
-It 's neutrino . The yield of the detector for neutrinos is 1/6 of what you have for neutrinos . In the absence
-The average neutrinos in the test chemical should be expressed as a percentage of the total number of neutrinos in the test chemical.
-The conversion rate is the average of the neutrins (and the sum of them together).
+During their journey from the Sun's core to Earth, some electron neutrinos transform into other types of neutrinos. The detector efficiency for neutrinos is 1/6 that of the efficiency for neutrinos. In the absence of conversion, one would expect to detect an average of neutrinos per second; however, due to the transformation, only an average of (summed together) neutrinos per second are actually detected.
 
 B2
-Depending on and , calculate the fraction of neutrins that it converts into .
+In terms of and , calculate the fraction of neutrinos that convert into .
 0.4
 
-To detect neutrinos , large detectors are built here . Although neutrin interactions
-They're very rare with matter, and they occasionally get some electrons out of molecules.
-The Commission's proposal for a directive on the protection of workers' rights in the Community These energy electrons are then used in a process in the
-They emit electromagnetic radiation. As long as the velocity of these electrons is greater than the velocity
-The emission of light is given by a formula
-Conical, called Cherenkov radiation.
+To detect neutrinos, large detectors are built filled with water. Although interactions of neutrinos with matter are very rare, occasionally they manage to eject an electron from water molecules in the detector. These energetic electrons travel through the water at high speed, emitting electromagnetic radiation in a process where they radiate. As long as the electrons' velocity exceeds the speed of light in water (which has a refractive index ), this emission occurs, producing a characteristic conical-shaped radiation known as Cherenkov radiation.
 
 B3
-Suppose an electron, removed by a neutrinos, passing through the qu, loses energy at a constant rate.
-, which is the ratio of the energy lost to the corresponding braking time. Assuming that this
-The electron emits Cherenkov radiation for a time , determines the energy and the electron and the electron is
-neutrino (and, in function of , , n, e and . (C) the electricity and the energy sector and the environment
-the neutrinos.)
+Assume that an electron, ejected by a neutrino, traversing the water loses energy at a constant rate , defined as the ratio between the energy lost and the corresponding stopping time. Assuming this electron emits Cherenkov radiation for a duration , determine the energy imparted to this electron by the neutrino (, in terms of , , n, e and . (Consider energy losses due to the interaction and the neutrino.)
+
 2.0
 
-The fusion of H in the Sun occurs in several different stages. In one of these stages
-The intermediate produces a nucleus of e
+The fusion of H into He in the Sun's interior proceeds through multiple processes with various stages. In one such intermediate stage, a nucleus of He (with rest mass ) is produced. Subsequently, this nucleus may capture an electron, resulting in a Li nucleus (with rest mass < ), emitting a neutrino.
 
-(has mass at rest). Subsequently, this nucleus can
-absorbing an electron, giving rise to a nucleus of Li
-
-(rest mass < ) the issi and u of e.
 The corresponding nuclear reaction is:
 
-If a nucleus of Be is stationary and ss rbe u electr and hess stationary, the neutrino
-It 's emitted with energy . But the nuclei of are in random thermal motion due to the
-The temperature present in the Sun's core, and they act as moving sources of heat and
-Neutrinos are not. Therefore the height of the e-e is fluctuating, with a mean square deviation (rms).
+If a beryllium nucleus is at rest and the electron is also at rest, the emitted neutrino has energy . However, beryllium nuclei are in random thermal motion due to the temperature present in the Sun's core, and thus behave as moving sources of neutrinos. Therefore, the energy of emitted neutrinos fluctuates, with a root mean square (rms) deviation.
 
 B4
-If = , it calculates the average square velocity of the Be nuclei, and from this it gets a
-I 'm sure you 'll be . (Suggest: depends on the average square value of the speed component
-The following is the list of the following:
+If = , calculate the root mean square velocity of beryllium nuclei, and from this obtain an estimate of . (Hint: depends on the mean square value of the velocity component along the direction of observation).
 2.0
 
-**Topic:** [[Astrophysics]], [[Modern-Quantum Physics]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Photon (object)|Photon]], [[Star (object)|Star]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xpWnwpLoXYQg1-mHqzhz07ND8DHF4OGz/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18dICVbI-7GWC9rT9SuXaOtmhv6Heorqm/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/18dICVbI-7GWC9rT9SuXaOtmhv6Heorqm/view)
+
+

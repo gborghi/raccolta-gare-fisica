@@ -139,125 +139,71 @@ tubi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem T1. The following table shows the results of the calculation of the total cost of the project:
-Part A. Basics (4.5 points)
-A ball thrown at initial speed $v_0$ moves in a
-uniform gravitational field in the plane $x-z$, where the axis $x$ is
-The axis $z$ is vertical and counterparallel to the acceleration of gravity $g$; neglect air friction.
-i. (0.8 points) Throwing a ball from the origin with speed
-Initial $v_0$ can be hit within the region
-given by
+Problem T1. Miscellaneous Graphs (13 points)
+Part A. Ballistics (4.5 points)
+
+A pith ball launched with initial velocity $v_0$ moves in a uniform gravitational field in the plane $x-z$, where the axis $x$ is horizontal and the axis $z$ is vertical and antiparallel to the gravitational acceleration $g$; air resistance may be neglected.
+
+i. (0.8 points) Launching a ball from the origin with initial velocity $v_0$, targets within the region given by
 
 $$z \leq z_0 - k x^2$$
 
-Adjusting the angle of launch. You can use this fact without
-Try it. Find the constants $z_0$ and $k$.
-ii. (1.2 points) You want to hit the point
-higher than a spherical building of radius $R$
-(see figure) by printing on the ball a
-the initial speed $v_0$ as small as possible. Before you hit the target, the
-Ball cannot bounce on the building in
-other points. The launch point may be
-freely chosen at the ground level $z = 0$ and the angle of
-The launch can be adjusted as desired.
-Describe qualitatively the shape of the optimal trajectory
-for the ball (use the appropriate space in the answer sheet). Please note:
-The score is assigned only to the drawing.
-The Commission shall adopt implementing acts. (2.5 points) What is the minimum launch speed $v_\text{min}$
-Necessary to hit the highest point of the building
-The radius of the sphere $R$?
+can be hit by adjusting the launch angle. You may use this fact without proving it. Find the constants $z_0$ and $k$.
 
-The geode, the park of the villette, Paris. Photo by katchooo/flickr.com
-Part B. Air flow around a hole (4 points)
-For this Part of the Problem the following may be useful:
-Information: in the case of a liquid or a gas flowing,
-has the quantity $p + \rho g h + \frac{1}{2}\rho v^2$ constant along a line
-The speed of the $v$ is much less than the speed of the
-the speed of sound. Here $\rho$ is density, $h$ height, $g$ gravity acceleration and $p$ hydrostatic pressure. Field lines
-are defined as the trajectories of fluid particles (assuming that the flow distribution is stationary). Il
-The term $\frac{1}{2}\rho v^2$ is called dynamic pressure.
-The following figure shows the wing section of a
-aircraft together with airflow field lines
-around the wheel, as shown in the reference system
-The wings. Assume that (a) the airflow is purely two-dimensional (i.e. that the air velocity vectors lie
-(b) the configuration of the lines
-the field is not dependent on the speed of the aeroplane;
-(d) the dynamic pressure is much lower than the
-the atmospheric pressure $p_0 = 1.0\times10^5\ \text{Pa}$. You can use a reel.
-to measure the figure in the reply sheet.
+ii. (1.2 points) The goal is to hit the highest point of a spherical building of radius $R$ (see figure), by giving the ball the smallest possible initial velocity $v_0$. Prior to hitting the target, the ball must not bounce on the building at any other point. The launch point may be freely chosen at ground level $z = 0$, and the launch angle may be adjusted as desired.
 
-i. (0.8 points) If the ground-related speed of the aeroplane is
-$v_0 = 100\ \text{m/s}$, which is the air velocity $v_P$ in $P$ (signed
-(Figure 1) compared to the ground?
-ii. The average humidity of the water is about 0.
-as soon as the ground speed exceeds a critical value $v_\text{crit}$,
-A trail of water droplets forms behind the wing. The drops are
-They form from a certain point $Q$. The mark $Q$ in the
-The answering machine shall be shown on the answering machine. Explain (using the formulas and the minor
-The Commission has already decided to take a decision on the following:
-The Commission shall adopt implementing acts. (2.0 points) Estimate the critical speed $v_\text{crit}$ using the following:
-Data: relative humidity of the air $r = 90\%$, specific heat of the air at constant pressure $c_p = 1.00\times10^3\ \text{J/(kg}\cdot\text{K)}$, pressure of the air
-Saturated water vapor: $p_{sa} = 2.31\ \text{kPa}$ at air temperature
-non perturbata $T_a = 293\ \text{K}$ e $p_{sb} = 2.46\ \text{kPa}$ a $T_b = 294\ \text{K}$. A
-Depending on your estimates, you might need a
-also the specific heat of the constant volume air $c_V = 0.717\times10^3\ \text{J/(kg}\cdot\text{K)}$. NOTE: relative humidity is defined as
-the ratio of steam pressure to steam pressure
-saturated at the same temperature. The saturated vapor pressure is
-defined as the one at which the steam is in equilibrium with the
-It's liquid.
+Qualitatively draw the shape of the optimal trajectory for the ball (use the designated space on the answer sheet). NOTE:
+Only the drawing will be graded.
 
-Part C. Magnetic cannulates (4.5 points)
-Consider a cylindrical tube made of superconducting material. The length of the tube
-It is $l$ and its inner radius is $r$; moreover, $l \gg r$. Il
-The centre of the tube coincides with the source, and the
-its axis is the same as the $z$ axis. There's a tube in the tube.
-magnetic flux $\Phi$ through the central section of the tube, or the region $z = 0$,
+iii. (2.5 points) What is the minimum launch velocity $v_\text{min}$ required to hit the highest point of a spherical building of radius $R$?
+
+The Géode, Parc de la Villette, Paris. Photo: katchooo/flickr.com
+Section B. Airflow around a wing (4 points)
+
+For this part of the problem, the following information may be helpful: in the case of a liquid or gas flowing, the quantity $p + \rho g h + \frac{1}{2}\rho v^2$ is constant along a field line, provided that the velocity $v$ is much smaller than the speed of sound. Here, $\rho$ denotes density, $h$ height, $g$ gravitational acceleration, and $p$ hydrostatic pressure. Field lines are defined as the trajectories of fluid particles (assuming a steady flow distribution). The term $\frac{1}{2}\rho v^2$ is called dynamic pressure.
+
+In the figure below, a cross-section of an airplane wing is shown together with the field lines of the airflow around the wing, as seen in the reference frame attached to the wing. Assume that (a) the airflow is purely two-dimensional (i.e., all air velocity vectors lie in the plane of the figure); (b) the field line configuration does not depend on the airplane’s speed; (c) there is no wind; and (d) the dynamic pressure is much smaller than atmospheric pressure $p_0 = 1.0\times10^5\ \text{Pa}$. You may use a ruler to make measurements on the figure in the answer sheet.
+
+i. (0.8 points) If the airplane's velocity relative to the ground is $v_0 = 100\ \text{m/s}$, what is the air velocity $v_P$ at point $P$ (marked in the figure) relative to the ground?
+
+ii. (1.2 points) In the case of high relative humidity, as soon as the velocity relative to the ground exceeds a critical value $v_\text{crit}$, a trail of water droplets forms behind the wing. The droplets begin to form at a certain point $Q$. Mark the point $Q$ on the figure in the answer sheet. Explain (using formulas and as little text as possible) how you qualitatively determined its position.
+
+iii. (2.0 points) Estimate the critical velocity $v_\text{crit}$ using the following data: relative humidity of air $r = 90\%$, specific heat capacity of air at constant pressure $c_p = 1.00\times10^3\ \text{J/(kg}\cdot\text{K)}$, saturation vapor pressure: $p_{sa} = 2.31\ \text{kPa}$ at the undisturbed air temperature $T_a = 293\ \text{K}$ and $p_{sb} = 2.46\ \text{kPa}$ at $T_b = 294\ \text{K}$. Depending on your approximations, you may also need the specific heat capacity of air at constant volume $c_V = 0.717\times10^3\ \text{J/(kg}\cdot\text{K)}$. NOTE: Relative humidity is defined as the ratio of vapor pressure to saturation vapor pressure at the same temperature. Saturation vapor pressure is defined as the pressure at which vapor is in equilibrium with liquid.
+
+Part C. Magnetic Straws (4.5 points)
+Consider a cylindrical tube made of superconducting material. The length of the tube is $l$ and its internal radius is $r$; furthermore, $l \gg r$. The center of the tube coincides with the origin, and its axis coincides with the $z$ axis. Inside the tube there is a magnetic flux $\Phi$ through the central cross-section of the tube, i.e., the region $z = 0$,
 $x^2 + y^2 < r^2$.
-A superconducting material has the property of expelling any magnetic field
-from its interior (the field inside it is zero).
 
-i. (0.8 points) Draw five flow lines of the field
-The magnetic field is located in the appropriate space on the answer sheet. You go in.
-The first is the way in which the five red dots are drawn in the
-Figure representing a section of the tube passing through the
-his axis.
-ii. Find the voltage $T$ length $z$ in the middle of the tube
-(i.e. the force with which the two halves of the tube, $z>0$ and $z<0$,
-They interact with each other).
-The Commission shall adopt implementing acts. (2.5 points) Now we add a second tube, identical and parallel to the first. The second tube has the magnetic field on the back.
-The centre of the object is located in the
-$y = l$, $x = z = 0$ (as the tubes form the sides
-opposites of a huge square. The Commission shall adopt implementing acts.
-the magnetic interaction force $F$ between the two
-The pipes.
+A superconducting material has the property of expelling any magnetic field from its interior (the field inside it is zero).
+
+i. (0.8 points) Draw five magnetic field lines in the designated space on the answer sheet. Make sure they pass through the five red points drawn in the figure representing a cross-section of the tube passing through its axis.
+
+ii. (1.2 points) Find the voltage $T$ along $z$ at the center of the tube (i.e., the force with which the two halves of the tube, $z>0$ and $z<0$, interact with each other).
+
+iii. (2.5 points) Now we add a second tube, identical and parallel to the first one. The second tube carries magnetic field in the opposite direction, and its center is located at
+$y = l$, $x = z = 0$ (so that the tubes form opposite sides of a huge square). Determine the magnetic interaction force $F$ between the two tubes.
 
 <!--fig:start-->
-**p.2**  Air flow lines around the wing
+**p.2** — Airflow streamlines around the wing
 ![[_attachments/ipho12t_problems_ITA/ipho12t_problems_ITA_p2_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Edificio sferico La Géode
+**p.2** — Spherical building La Géode
 ![[_attachments/ipho12t_problems_ITA/ipho12t_problems_ITA_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Sezione verticale del tubo, assi z-y
+**p.3** — Vertical cross-section of the tube, z-y axes
 ![[_attachments/ipho12t_problems_ITA/ipho12t_problems_ITA_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Tubo con magnete S-N interno
+**p.3** — Tube with internal N-S magnet
 ![[_attachments/ipho12t_problems_ITA/ipho12t_problems_ITA_p3_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Magnetism]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Gauss's Law (metodo)|Gauss's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2012 — Teorica — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/electrostatics,topic/fluid-mechanics,topic/thermodynamics,argomento/meccanica,object/pipe-tube,object/droplet,object/capacitor"></span>
@@ -347,84 +293,40 @@ limite superiore $U_\text{max}$; trova $U_\text{max}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem T2. What is it? The number of points in the table below is the number of points.
-The Commission has already adopted a proposal for a directive on the
-the following information on surface tension. For the
-Molecules of a liquid, positions at the liquid-air interface
-The following are the main factors:
-It's liquid. So this interface is associated with the so-called
-surface energy $U = \sigma S$ where $S$ is the surface area
-dell’interfaccia e $\sigma$ è la tensione superficiale del liquido.
-In addition, two adjacent parts of the liquid surface are
-They attract each other with a force $F = \sigma l$ where $l$ is the
-length of the edge separating the two sides.
+Problem T2. Kelvin Water Dropper (8 points)
 
-A metal long capillary with diameter
-The interior $d$ is laid vertically; water
-He's slowly taking it out of his oven.
-lower extremity, as you can see in the figure. Water can be considered as a
-electrical conductor; its surface tension is $\sigma$ and its density is $\rho$. Always take it
-che $d \ll r$. $r$ indicates the radius of a
-drop that hangs from the hole and grows
-Slowly over time until it separates from the capillary to the
-cause of the gravitational acceleration $g$.
-Part A. The following points shall be added:
-i. Find the radius $r_\text{max}$ of a drop immediately before
-It's getting out of the capillary.
-ii. (b) The electrical potential of the capillary is $\varphi$,
-By zeroing the electrical potential at a great distance.
-Find the charge $Q$ when the drop radius is $r$.
-The Commission shall adopt implementing acts. In this query, assume that $r$ is kept constant and $\varphi$ is increased slowly. Se la
-The hydrostatic pressure inside it becomes smaller than the
-The pressure of the atmosphere then the drop becomes unstable and you
-It breaks into several parts. Find the critical potential $\varphi_\text{max}$ at which
-That's what's going to happen.
+For the solution of this problem, the following information about surface tension may be useful. For molecules of a liquid, positions at the liquid-air interface are less favorable than those within the bulk of the liquid. Therefore, a quantity known as surface energy $U = \sigma S$ is associated with this interface, where $S$ is the area of the interface surface and $\sigma$ is the surface tension of the liquid.
 
-Part B. Two capillaries (4 points)
-A device called a Kelvin glacier consists of
-two capillaries (identical to that described in Part A), connected by a T-joint, as shown in Figure 1. The ends
-The two capillaries are centered on two cylindrical electrodes.
-(with height $L$ and diameter)
-$D$, $L \gg D \gg r$); da entrambi i
-Hair loss $n$ drops
-per unit of time. Le
-drops fall from a height $H$ inside containers
-Other, of a kind used for the manufacture of goods
-Seats
-under the furnaces, and connected
-the electrodes as shown in Figure; the electrodes are connected via a capacity $C$. I 'm not .
-There is no net charge on the
-container system and
-the electrodes.
-Please note that the container
-The top of the water is placed on the ground.
-The first drop will have a very small charge that
-It will cause a imbalance between the two parts of the system and
-The result is a small load separation through the
-The condenser.
-i. (b) Express the form of the drop load $Q_0$
-The amount of the blood is less than the amount of the blood.
-The capacitor is $q$ in function of $r_\text{max}$ (Part A-i). Other
-the effects described in Part A-iii.
-ii. Find the $q$ dependence on the $t$ time by approximating it with a continuous $q(t)$ function and assuming that
+Moreover, two adjacent parts of the liquid surface mutually attract each other with a force $F = \sigma l$, where $l$ is the length of the boundary separating the two parts.
+
+A long metallic capillary with internal diameter $d$ is placed vertically; water drips slowly from the small hole at its lower end, as shown in the figure. Water may be considered an electrical conductor; its surface tension is $\sigma$ and its density is $\rho$. Always assume that $d \ll r$. Here, $r$ denotes the radius of a drop hanging from the hole and growing slowly over time until it detaches due to gravitational acceleration $g$.
+
+Part A. Single Capillary (4 points)
+i. (1.2 points) Find the radius $r_\text{max}$ of a drop just before it detaches from the capillary.
+ii. (1.2 points) Let $\varphi$ be the electrostatic potential of the capillary, with zero electric potential set at large distance.
+Find the charge $Q$ when the drop's radius is $r$.
+iii. (1.6 points) In this question, assume that $r$ is kept constant and that $\varphi$ is increased slowly. If the internal hydrostatic pressure becomes smaller than atmospheric pressure, then the drop becomes unstable and breaks into multiple parts. Find the critical potential $\varphi_\text{max}$ at which this occurs.
+
+Part B. Two Capillaries (4 points)
+An apparatus known as a "Kelvin dropper" consists of two capillaries (identical to the one described in Part A), connected via a T-junction, as shown in the figure. The ends of both capillaries are located at the center of two cylindrical electrodes (height $L$ and diameter
+$D$, $L \gg D \gg r$); from both capillaries, $n$ drops fall per unit time. The drops fall from a height $H$ into conducting containers located beneath the orifices, connected to electrodes as shown in the figure; the electrodes are connected through a capacitance $C$. There is no net charge on the system of containers and electrodes.
+
+Note that the upper container of water is grounded.
+The first drop to fall will carry a very small charge, causing an imbalance between the two parts of the system and thus inducing a small separation of charge across the capacitor.
+
+i. (1.2 points) Express the magnitude of the charge $Q_0$ carried by the drops detaching from the capillaries at the instant when the charge on the capacitor is $q$, in terms of $r_\text{max}$ (from Part A-i). Neglect the effects described in Part A-iii.
+
+ii. (1.5 points) Find the dependence of $q$ on time $t$, approximating it with a continuous function $q(t)$ and assuming that
 $q(0) = q_0$.
-The Commission shall adopt implementing acts. The operation of the drip can be:
-the effect shown in Part A-iii. In addition, the electrostatic repulsion between a droplet and the underlying container
-So the difference in potential between the two electrodes has a
-limite superiore $U_\text{max}$; trova $U_\text{max}$.
+
+iii. (1.3 points) The operation of the dropper may be hindered by the effect shown in Part A-iii. Moreover, the electrostatic repulsion between a drop and the underlying container causes the potential difference across the two electrodes to have an upper limit $U_\text{max}$; find $U_\text{max}$.
 
 <!--fig:start-->
-**p.4** — Apparato gocciolatore di Kelvin con elettrodi
+**p.4** — Kelvin dropper apparatus with electrodes
 ![[_attachments/ipho12t_problems_ITA/ipho12t_problems_ITA_p4_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Droplet (object)|Droplet]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2012 — Teorica — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/astrophysics,topic/gravitation,topic/thermodynamics,argomento/meccanica,object/gas,object/star"></span>
@@ -479,45 +381,22 @@ raggio finale $r_4$ e la rispettiva temperatura $T_4$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem T3. What is it? Formation of a protostar (9 points)
-Let's model the formation of a star as follows. One of them.
-A spherical cloud of rarefied interstellar gas, initially at rest, begins to collapse due to its own gravity. Il
-The initial radius of the sphere is $r_0$ and its mass is $m$. The temperature outside the cloud (where the gas is much more rarefied)
-The first is the temperature of the gas in the cloud.
-The cloud is uniformly $T_0$. Gas can be treated as a
-It's a perfect gas. The mean molar mass of the gas is $\mu$ and the ratio
-The molar heat is $\gamma > \frac{4}{3}$. Assume that $GM\mu / r_0 \gg RT_0$, where $R$
-is the gas constant and $G$ is the universal gravitational constant.
-i. (0.8 points) During most of the collapse process, the gas is so transparent that any heat generated is immediately radiated outward, i.e. the sphere is in the
-The thermodynamic balance with the outside. How many times ($n$)
-Does the pressure increase if the radius is halved ($r_1 = 0.5 r_0$)?
-Assume the density of the gas remains uniform.
-ii. (1 point) Estimate the time $t_2$ required for the radius of the
-cloud decreases from $r_0$ to $r_2 = 0.95 r_0$. The change in the
-gravitational field in the trajectory of a particle of
-gas during this phase of the fall.
-The Commission shall adopt implementing acts. (2.5 points) Assuming that the pressure remains negligible, find the time $t_{r\to0}$ needed for the sphere to
-fall from a radius $r_0$ to a much smaller radius,
-using Kepler's laws for elliptical orbits.
-iv. For a certain value of the radius $r_3 \ll r_0$, the gas
-It becomes dense enough to become opaque to thermal radiation. Calculate the amount of heat $Q$ radiated to
-The outer layer during collapse from $r_0$ to $r_3$.
-v. For radii smaller than $r_3$ you can ignore
-The radiation. Determine how the temperature $T$ is
-The radius of the sphere is $r < r_3$.
-vi. (2 points) At the end of the process we can no longer
-neglect the effect of pressure on gas dynamics,
-The collapse is stopped at a radius $r = r_4$ (where $r_4 \ll r_3$).
-However, irradiation can still be neglected and the
-The temperature is not yet high enough to trigger.
-The nuclear fusion. The pressure of this protostar is no longer
-uniform but a gross estimate, with no factors
-And the number of times that we can do is equal to the number of times that we can do. Estimate of the
-The final radius $r_4$ and the respective temperature $T_4$.
+Problem T3. Formation of a Protostar (9 points)
+We model the formation of a star as follows. A spherical cloud of rarefied interstellar gas, initially at rest, begins to collapse under its own gravity. The initial radius of the sphere is $r_0$ and its mass is $m$. The temperature outside the cloud (where the gas is much more rarefied than in the cloud) and the initial temperature of the cloud's gas are uniformly $T_0$. The gas may be treated as an ideal gas. The average molar mass of the gas is $\mu$ and the ratio of heat capacities is $\gamma > \frac{4}{3}$. Assume that $GM\mu / r_0 \gg RT_0$, where $R$ is the gas constant and $G$ is the gravitational constant.
 
-**Topic:** [[Astrophysics]], [[Gravitation]], [[Thermodynamics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1TOYcviSWlo0yFV12gysg863P3VyGL4uC/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
+i. (0.8 points) During most of the collapse process, the gas is so transparent that any heat generated is immediately radiated outward, meaning the sphere is in thermodynamic equilibrium with the outside. By what factor ($n$) does the pressure increase if the radius is halved ($r_1 = 0.5 r_0$)?
+Assume that the gas density remains uniform.
+
+ii. (1 point) Estimate the time $t_2$ required for the cloud's radius to decrease from $r_0$ to $r_2 = 0.95 r_0$. Neglect the variation of the gravitational field over the distance traveled by a gas particle during this phase of fall.
+iii. (2.5 points) Assuming that pressure remains negligible, find the time $t_{r\to0}$ required for the sphere to collapse from radius $r_0$ to a much smaller radius, using Kepler's laws for elliptical orbits.
+
+iv. (1.7 points) For a certain value of the radius $r_3 \ll r_0$, the gas becomes dense enough to become opaque to thermal radiation. Calculate the amount of heat $Q$ radiated outward during the collapse from radius $r_0$ to radius $r_3$.
+
+v. (1 point) For radii smaller than $r_3$, radiation can be neglected. Determine how the temperature $T$ of the sphere depends on its radius $r < r_3$.
+
+vi. (2 points) At the end of the process, we can no longer neglect the effect of pressure on the gas dynamics; indeed, the collapse halts at a radius $r = r_4$ (where $r_4 \ll r_3$).
+However, radiation can still be neglected and the temperature is not yet high enough to trigger nuclear fusion. The pressure in this protostar is no longer uniform, but a crude estimate—up to multiplicative numerical factors—can still be made. Estimate the final radius $r_4$ and the corresponding temperature $T_4$.
+
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pTfAFk5kF4jt_NMCJkwU9JYyecFUsdyu/view)
+
+

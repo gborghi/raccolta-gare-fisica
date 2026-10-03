@@ -107,43 +107,38 @@ zuppa
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1224/2009.
+**English (United States)**
 
 Theory
 A2-1
-Italian (Italy)
-The physics of a microwave oven - Sheet answers
-Part A: The structure and function of a magnetron (6.6 points)
+English (United States)
+The physics of a microwave oven – Answer sheet
+Part A: The structure and operation of a magnetron (6.6 points)
+
 A.1 (0.4 pt)
-
 $f_\text{est} =$
-A.2 (1.5 pt)
-1. For $\vec{u}(0) = (3E_0/B_0)\,\hat{x}$, you have $\vec{u}_D =$
 
-2. For $\vec{u}(0) = -(3E_0/B_0)\,\hat{x}$, you have $\vec{u}_D =$
+A.2 (1.5 pt)
+1. For $\vec{u}(0) = (3E_0/B_0)\,\hat{x}$, one obtains $\vec{u}_D =$
+
+2. For $\vec{u}(0) = -(3E_0/B_0)\,\hat{x}$, one obtains $\vec{u}_D =$
 
 A.3 (0.4 pt)
-
 $r =$
 
 Theory
 A2-2
-Italian (Italy)
+English (United States)
 A.4 (1.2 pt)
-point
-towards the anode
-to the cathode
-Perpendicular to the radius
+direction toward the anode toward the cathode perpendicular to the radius
 A
 B
 C
 D
 E
+
 A.5 (1.2 pt)
-points
-The angle decreases
-The angle increases
-Indeterminate change
+points the angle decreases the angle increases indeterminate change
 AB
 BC
 CA
@@ -153,43 +148,37 @@ DF
 
 Theory
 A2-3
-Italian (Italy)
+English (United States)
 A.6 (0.8 pt)
 $\omega_s =$
-A.7 (1.1 pt)
 
+A.7 (1.1 pt)
 $V_0 =$
-Part B: Interaction of microwave radiation with water molecules (3.4 points)
+
+Part B: The interaction of microwave radiation with water molecules (3.4 points)
 
 Theory
 A2-4
-Italian (Italy)
+English (United States)
 B.1 (0.5 pt)
-
 $\tau(t) =$
-
 $H_i(t) =$
+
 B.2 (0.5 pt)
-
 $\langle H(t)\rangle =$
+
 B.3 (1.1 pt)
-
 $I(z) =$
+
 B.4 (0.6 pt)
-
 $\beta =$
-B.5 (0.7 pt)
-$z_{1/2} =$
-Other materials
-$z_{1/2}$ increases over time.
-$z_{1/2}$ decreases over time.
-$z_{1/2}$ remains unchanged
-water
-Soup
 
-**Topic:** [[Electromagnetism]], [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1a-H7F9JDdneflKmTw1xWpQyfmmLQnGse/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10kT-p8BsyHkFE12sDYnF_I3iMtKHTuIT/view)
+B.5 (0.7 pt)
+$z_{1/2} =$ material
+$z_{1/2}$ increases with temperature
+$z_{1/2}$ decreases with temperature
+$z_{1/2}$ remains unchanged water soup
+
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/10kT-p8BsyHkFE12sDYnF_I3iMtKHTuIT/view)
+
+

@@ -217,6 +217,7 @@ A ruler (or squad)
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1iOY5698BMqQS2WkgBsuq2Ab95A5FTNOp/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PVhdUqC_xyQa8pOd-VuRZ2vterJ1Ugqr/view)
 
+[[ExperimentalProblem1ITA__Q06]]
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2010 — Sperimentale — Problema 1 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/gravitazione-e-astrofisica"></span>
@@ -251,27 +252,19 @@ Richieste
 <div class="qlang-split" data-lang="en"></div>
 
 7.
-A wooden base (hold it on the balance and place the transparent sheet above it)
-The experimental apparatus shall be used as shown in Fig. 3. The top of the press table can be
-be moved up and down using the butterfly dice and the force (actually the mass) applied by the press is
-measured on the scale. Important: the butterfly dice moves vertically of $2\ \text{mm}$ for each
-Full rotation, i.e. when rotating $360^\circ$. (The aluminium vertical bar is not used in
-This experiment)
-Figure 3 is shown. Photograph of the experimental apparatus required to measure curvature rigidity.
-Requests
+A wooden base (place it on the scale and position the transparent sheet above it).
+The experimental setup must be used as shown in Fig. 3. The upper plate of the press can be moved up and down using the butterfly nut, and the force (in fact, the mass) applied by the press is measured via the scale. Important: the butterfly nut moves vertically by $2\ \text{mm}$ per full turn, i.e., when it rotates by $360^\circ$. (The vertical aluminum rod is not used in this experiment)
+
+Figure 3. Photograph of the experimental apparatus required to measure the bending stiffness.
+
+Requirements
 
 <!--fig:start-->
-The test results shall be published in the Official Journal of the European Union.
+**p.3** — Experimental apparatus: press and scale
 ![[_attachments/ExperimentalProblem1ITA/ExperimentalProblem1ITA_p3_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1iOY5698BMqQS2WkgBsuq2Ab95A5FTNOp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PVhdUqC_xyQa8pOd-VuRZ2vterJ1Ugqr/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PVhdUqC_xyQa8pOd-VuRZ2vterJ1Ugqr/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2010 — Sperimentale — Problema 1 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/elasticity-e-materials,argomento/gravitazione-e-astrofisica,object/cylinder"></span>
@@ -310,31 +303,19 @@ L'analisi dell'errore sul risultato non è richiesta.
 <div class="qlang-split" data-lang="en"></div>
 
 1.
-Roll the blue cylinder-shaped sheets, one along its long side and one along its short side;
-Use the tape to fix them. A sheet should self-overlay on the adhesive for a
-length of approximately $0.5\ \text{cm}$.
-(a) Measures the mass read by the balance for each of the two cylinders in relation to the distance
-inside the top of the press table and the supporting wooden floor. The Commission's proposal for a directive on the protection of workers' rights
-(b) Returns your data to appropriate Cartesian diagrams. Using the reel and going a
-It draws the lines that best fit the data and determines the rigidity of the data.
-curvature $\kappa$ for the two cylinders. Highlights the region of the graph where the equation
-Approximation (2) (i.e. the 'stage' approximation) is valid . Estimate the value of $\dfrac{R_0}{R_c}$ at
-where $R_c$ is the cylinder radius not
-tablets. (b) the number of employees
-The error analysis on the result is not required.
+Roll the blue sheets into cylindrical shapes, one along its long side and one along its short side;
+secure them with adhesive tape. One sheet should overlap itself at the joint by approximately $0.5\ \text{cm}$.
+
+(a) For each of the two cylinders, measure the mass read by the balance as a function of the internal distance between the upper plate of the press and the wooden support surface. (1.9 points)
+(b) Plot your data on appropriate Cartesian graphs. Using a ruler and estimating visually, draw the lines that best fit the data, and determine the bending rigidity $\kappa$ for both cylinders. Mark on the graph the region where the approximate equation (2) (i.e., the "step approximation") is valid. Estimate the value of $\dfrac{R_0}{R_c}$ below which this approximation holds, where $R_c$ is the radius of the cylinders in their uncompressed state. (4.3 points)
+Error analysis of the result is not required.
 
 <!--fig:start-->
-**p.2 **  R-beam cable cylinder and length l
+**p.2** — Hollow cylinder of radius R and length l
 ![[_attachments/ExperimentalProblem1ITA/ExperimentalProblem1ITA_p2_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Curve Fitting (competenza)|Curve Fitting]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1iOY5698BMqQS2WkgBsuq2Ab95A5FTNOp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PVhdUqC_xyQa8pOd-VuRZ2vterJ1Ugqr/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PVhdUqC_xyQa8pOd-VuRZ2vterJ1Ugqr/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2010 — Sperimentale — Problema 1 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/mono,topic/elasticity-e-materials,argomento/gravitazione-e-astrofisica"></span>

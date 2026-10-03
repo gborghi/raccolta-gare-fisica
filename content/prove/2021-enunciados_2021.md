@@ -336,162 +336,115 @@ Supponiamo un angolo di discesa costante di $9^\circ$, qual è quella velocità 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: The Physics of the Bike
+Problem 1: The Physics of the Bicycle
 
 (6.5 points)
-On the last day 7 November 2020 the 17th stage of the Vuelta Ciclista a
-Spain between Sequeros and the port of Covatilla, in the province of Salamanca. En la
-Figure 1 shows the profile of the same, which was won by French runner David
-Gaudu, followed 28 seconds later by the Swiss Gino Mäder. In this problem you
-We're going to look at, from the point of view of physics, some aspects of the
-related to cycling. For this, first of all, let us familiarize ourselves with the
-some key concepts.
+On November 7, 2020, the 17th stage of the Vuelta Ciclista a España took place between Sequeros and the Puerto de la Covatilla, in the province of Salamanca. Figure 1 shows the profile of this stage, which was won by French cyclist David Gaudu, followed 28 seconds later by Swiss rider Gino Mäder. In this problem we present to you, we will analyze from a physics perspective several aspects related to cycling. To begin with, let us first become familiar with some key concepts.
 
-Figure 1: Profile of the stage. The vertical axis shows the altitude (in metres) with respect to sea level, and the horizontal
-distance (in kilometres) from the start of the stage.
-Let's start by analyzing a cyclist's pedaling. As shown in Figure 2, the
-The bicycle transmission consists of three parts: the plate, the chain and the pinion. The dish is
-a circular structure, solidary to the pedals (i.e. rotating at the same time as the pedals), equipped
-of a kind called teeth through which it connects to the chain. This one.
-is responsible for transmitting the pedal from the plate to the pins, located on the wheel
-behind it, and they turn around with it. We call it cadence or frequency of pedaling
-The number of pedals per minute a cyclist makes on his bicycle, i.e.
-number of complete pedal axis turns per minute.
+Figure 1: Stage profile. The vertical axis shows altitude (in meters) above sea level, and the horizontal axis shows distance (in kilometers) from the start of the stage.
 
-Figure 2: Relevant parts of a bicycle transmission.
-XXXII Spanish Olympics in Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local phase, University of Salamanca
+Let us begin by analyzing a cyclist's pedaling. As shown in Figure 2, the bicycle transmission consists of three parts: the chainring (plato), the chain, and the cassette sprocket (piñón). The chainring is a circular structure rigidly attached to the pedals (i.e., it rotates simultaneously with them), equipped with protrusions called teeth that connect to the chain. The chain transmits pedaling motion from the chainring to the sprockets located on the rear wheel (and which rotate rigidly with it). We define cadence or pedaling frequency as the number of pedal revolutions per minute performed by a cyclist, that is, the number of complete rotations of the pedal axle each minute.
+
+Figure 2: Relevant parts of a bicycle transmission system.
+XXXII Spanish Physics Olympiad
+March 12, 2021
+Local Phase, University of Salamanca
+
 Name and surname:
 
-The Centre:
-Course:
+School:
+Grade:
 
-1. Write the expression of the speed $v$ of a bicycle according to the cadence $\Omega$,
-the wheel radius $R$ and the number of teeth on the plate and the pin, $N_1$ and $N_2$,
-the Commission. (i.e. the number of points)
-2. Numbering: Calculates the speed in km/h of a runner pedaling with
-a cadence of $\Omega = 90$ pedals/minute, $N_1 = 54$, $N_2 = 18$ and a wheel diameter
-of a width of not more than 600 mm
+1. Write the expression for the velocity $v$ of a bicycle as a function of cadence $\Omega$, wheel radius $R$, and the number of teeth on the chainring and rear sprocket, $N_1$ and $N_2$, respectively. (0.3 points)
 
-We will then examine the key concept to understand performance and the
-quality of a rider: the power ($P$) that the rider develops on the bicycle.
-Remember that the power is the force $F$ multiplied by the speed, $P = F \cdot v$.
-We will use a simple model to do this, in which we will consider only three
-types of forces external to the rider:
-● Ascension force, $F_g$.
-● Aerodynamic strength or strength, $F_a$.
-● Asphalt or rolling force, $F_r$.
-Let's get the mathematical expression of each of them separately, being $m$
-the mass of the system [cyclist + bicycle].
-The ascending force, $F_g$, is necessary to overcome gravitational force, i.e. to
-up a slope.
-3. Write the expression of the ascent force $F_g$ for the system [cyclist + bicycle]
-que se mueve en un plano inclinado de ángulo $\theta$. The acceleration of gravity is $g$ and
-$m$ is the mass of the rider and the bicycle together. (00.25 points)
-4. Numbering: Taking into account only the ascending force and the
-Supposing our cyclist can develop 250 W of power calculates:
-- **A.** speed, (0.25 points)
-- **B.** time invested, (0.25 points)
-- **C.** and the work required (0.25 points)
-for the lifting of a section of the port of the Stone Gate of $d = 5$ km
-recorrida con ángulo de pendiente igual a $3^\circ$.
-(d) If the slope is doubled, as for example at the top of the Covailla, what would be the slope of the slope?
-the same speed with the same power? (00.25 points)
-For calculations use $g = 10\ \text{m/s}^2$ and $m = 80$ kg.
+2. Numerical application: Calculate the speed in km/h of a cyclist pedaling at a cadence of $\Omega = 90$ pedal strokes per minute, with $N_1 = 54$, $N_2 = 18$, and a wheel diameter of 700 mm. (0.2 points)
 
-I Evidently the wheels of the bicycle are supposed to roll on the asphalt without slipping. En un
-In real cases, the wheel's perimeter is slightly altered by the rider's weight, the pressure
-inflation and tyre width.
-XXXII Spanish Olympics in Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local phase, University of Salamanca
+Next, we will analyze the key concept for understanding performance and quality of a cyclist: the power $P$ developed by the cyclist on the bicycle.
+Recall that power is force $F$ multiplied by velocity, $P = F \cdot v$.
+To do this, we will use a simple model in which only three types of external forces acting on the cyclist are considered:
+● The climbing force, $F_g$.
+● The aerodynamic resistance force, $F_a$.
+● Rolling friction with the asphalt or rolling resistance force, $F_r$.
+We will now derive separately the mathematical expression for each of these forces, where $m$ denotes the mass of the system [cyclist + bicycle].
+
+The climbing force, $F_g$, is that required to overcome gravitational force, i.e., to ascend a slope.
+
+3. Write the expression for the climbing force $F_g$ for the system [cyclist + bicycle].
+a cyclist moving on an inclined plane with angle $\theta$. The acceleration due to gravity is $g$, and $m$ represents the combined mass of cyclist and bicycle. (0.25 points)
+
+4. Numerical application: Considering only the ascending force, and assuming our cyclist can generate 250 W of power, calculate:
+- **A.** the velocity, (0.25 points)
+- **B.** the time required, (0.25 points)
+- **C.** and the work needed (0.25 points)
+to climb a section of the Portillo del Puerto de las Batuecas that is $d = 5$ km long, with a slope angle of $3^\circ$.
+(d) If the slope is doubled—such as at Alto de la Covatilla—what would be the velocity achieved with the same power? (0.25 points)
+
+For calculations, use $g = 10\ \text{m/s}^2$ and $m = 80$ kg.
+
+i It is obviously assumed that the bicycle wheels roll on asphalt without slipping. In a real case, the wheel circumference is slightly modified by the cyclist’s weight, tire inflation pressure, and tire width.
+
+XXXII Spanish Physics Olympiad
+March 12, 2021
+Local Phase, University of Salamanca
+
 Name and surname:
 
-The Centre:
-Course:
+School:
+Grade:
 
-Then we're going to calculate the aerodynamic force $F_a$. It 's about strength .
-The use of the airborne resistance is necessary to overcome the resistance of airborne movement.
-Suppose the system [cyclist + bicycle] is approaching by an edge cube a and
-moving at $v$ with respect to air, the density $\rho$ of which is constant.
-5. The work of the cyclist is invested in a profit of
-kinetic energy of the air.
-- **A.** Write the kinetic energy, $E_c$, of the displaced air volume (0.3 points)
-- **B.** Perform the power balance $P = \dfrac{dE_c}{dt}$ to determine the aerodynamic strength
-(Some of the following points)
-(c) It shows that the expression of the aerodynamic force $F_a$ in terms of the
-The air density $\rho$, the frontal area of the rider $A$ and the speed of the rider $v$ takes the
-in $F_a = \dfrac{1}{2}\rho C_d A v^2$ form, where $C_d$ is the aerodynamic coefficient multiplied by the
-The result is found and is related to the shape of the body moving in the
-Air ii (0.2 points)
+Next, we will calculate the aerodynamic force $F_a$. This is the force required to overcome the resistance posed by movement through air.
 
-Finally, the force of rolling or friction, $F_r$, is necessary to overcome the
-mechanical friction.
-6. Write the expression of the friction force $F_r$ in terms of the coefficient of
-rozamiento $\mu$ en un terreno llano. (00.25 points)
+Assume that the system [cyclist + bicycle] is approximated by a cube of edge length “a”, and that it moves at velocity $v$ relative to the air, whose density $\rho$ is constant.
 
-Next, consider a cyclist who is riding a stage area between
-Ports we will consider completely flat so we do not have to consider force
-Ascending.
-7. Numerical application: Using typical values for the coefficient of
-rozamiento,  $\mu = 0.004$,  y  para  el  término  de  la  fuerza  aerodinámica  de
-$\dfrac{1}{2}\rho C_d A = 0.24\ \text{Kg/m}$,  calcula  la  potencia  necesaria  para  que  nuestro  ciclista  avance  a  una
-speed of 36 km/h on a horizontal route in the following cases:
-- **A.** Windless (0.25 points)
-- **B.** With winds of 18 km/h and winds of 18 km/h (0.5 points)
+5. Consider that the work done by the cyclist is entirely converted into kinetic energy gain of the air.
+- **A.** Write down the kinetic energy, $E_c$, of the volume of air displaced (0.3 points)
+- **B.** Perform a power balance $P = \dfrac{dE_c}{dt}$ to determine the aerodynamic force (0.5 points)
 
-In practice, depending on the shape of the object, an aerodynamic force is introduced into the
-aerodynamic coefficient $C_d$ to take into account, for example, what part of the air is moving
-sideways. For example, this coefficient will be small if the rider pedals down while
-It'll be worth a lot if it's moving very high.
-XXXII Spanish Olympics in Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local phase, University of Salamanca
+(c) Demonstrate that the expression for the aerodynamic force $F_a$ in terms of air density $\rho$, frontal area of the cyclist $A$, and cyclist's velocity $v$ takes the form of $F_a = \dfrac{1}{2}\rho C_d A v^2$, where $C_d$ is the aerodynamic coefficient that multiplies the result obtained and is related to the shape of the body moving through air (0.2 points)
+
+Finally, the rolling friction force or resistance $F_r$ is that required to overcome mechanical friction.
+
+6. Write the expression for the friction force $F_r$ in terms of the coefficient of friction $\mu$ on a flat terrain. (0.25 points)
+
+Next, let us consider a cyclist riding along a section of the stage between mountain passes that we will assume to be completely flat, so as not to have to account for the climbing force.
+
+7. Numerical application: Using typical values for the friction coefficient, $\mu = 0.004$, and for the aerodynamic force term, $\dfrac{1}{2}\rho C_d A = 0.24\ \text{Kg/m}$, calculate the power required for our cyclist to move forward at a speed of 36 km/h on a horizontal path in the following cases:
+- **A.** With no wind (0.25 points)
+- **B.** With a tailwind of 18 km/h and with a headwind of 18 km/h (0.5 points)
+
+ii In practice, depending on the shape of the object, an aerodynamic coefficient $C_d$ is introduced into the aerodynamic force to account for factors such as lateral air displacement. For example, this coefficient will be small if the cyclist is crouched while pedaling, whereas it will have a large value if the cyclist rides very upright.
+
+XXXII Spanish Physics Olympiad
+March 12, 2021
+Local Phase, University of Salamanca
+
 Name and surname:
 
-The Centre:
-Course:
+School:
+Grade:
 
-In the final part of the stage, climbing La Covatilla, a runner who runs away
-at constant speed $V$ is at a distance $L$ from the finish line. Our
-cyclist, who is in the platoon which is also travelling at the same speed $V$,
-has a time lag $T$ from the first. In order to play the stage, the
-second runner decides to attack by sharply increasing his speed to $v_0$,
-But because of fatigue, he can't keep it up, and his speed slows down.
-exponentially in the form:
+At the end of the stage, ascending La Covatilla, a runner who has escaped and is moving at constant speed $V$ finds himself a distance $L$ from the finish line. Our cyclist, who is part of the peloton moving at the same constant speed $V$, is delayed by a time $T$ relative to the first runner. In order to contest the stage, the second rider decides to attack by suddenly increasing his speed to a value $v_0$, but due to fatigue he cannot maintain it, and his speed decreases exponentially according to the expression:
 
 $$\frac{dx}{dt} = v(t) = v_0 e^{-\beta t},$$
 
-where $\beta$ is a time-reverse dimension parameter.iii
-8. Determines the minimum $v_0$ required for the runner to be second
-position to win the stage. (including the following)
-9. Aplicación numérica: Supongamos $V = 16$ km/h, $L = 4$ km, $T = 36$ s y $\beta = 4\ \text{h}^{-1}$.
-(00.25 points)
+where $\beta$ is a parameter with inverse time dimensions.
 
-After the stage is over, our cyclist starts to descend La Covatilla without pedaling
-On my way to the Béjar hotel. During the long descent you realize that your speed is increasing
-up to a certain value limited by aerodynamic force.
-10. Despreciando la fuerza de rozamiento con el asfalto o fuerza de rodadura $F_r$ y
-assuming a steady descent angle of $9^\circ$, what is that limit speed?
-(a) the number of days
+8. Determine the minimum value of $v_0$ required for the second-position rider to win the stage. (1.5 points)
 
+9. Numerical application: Suppose $V = 16$ km/h, $L = 4$ km, $T = 36$ s, and $\beta = 4\ \text{h}^{-1}$. (0.25 points)
+
+After finishing the stage, our cyclist begins descending La Covatilla without pedaling toward the hotel in Béjar. During the long descent, he notices that his speed increases until reaching a certain limiting value determined by aerodynamic drag.
+
+10. Neglecting the frictional force with the asphalt or rolling resistance $F_r$ and assuming a constant descent angle of $9^\circ$, what will that limiting speed be? (1 point)
 
 <!--fig:start-->
 ![[_attachments/2021 enunciados_2021/2021 enunciados_2021_p1_f1.png]]
-*Profilo altimetrico tappa ciclistica*
+*Altitude profile of the cycling stage*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 enunciados_2021/2021 enunciados_2021_p1_f2.png]]
-*Bicycle with pinion and label plate*
+*Bicycle with labeled sprocket and chainring*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Wheel (object)|Wheel]], [[Gear (object)|Gear]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1RTRnV56GeHsTtP3MV49jGH5eQyNhUTIa/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2021 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Gravitazione e Astrofisica"></span>
@@ -693,96 +646,84 @@ $t = 20\ ^\circ\text{C}$ (o: $T = 293$ K)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 2: Ideality factor of a silicon diode (3.5 points)
-Theoretical basis
-A diode is an electronic device that basically allows the passage of a
-through it electric current in one direction and prevents the passage in the direction
-The opposite. The symbol of a diode is shown in Figure 1.
+Problem 2: Ideality Factor of a Silicon Diode (3.5 points)
 
-The ratio of the current intensity through the diode, $I$ to the difference in
-The potential, $V_D$, can be described by Shockley's equation:
+Theoretical Background
+A diode is an electronic device that essentially allows electric current to pass through it in one direction and blocks it in the opposite direction. The symbol for a diode is shown in Figure 1.
+
+The relationship between the current through the diode, $I$, and the voltage difference across it, $V_D$, can be described by the Shockley equation:
 
 $$I = I_S\left(e^{\frac{V_D q}{\eta k T}} - 1\right) \qquad (1)$$
 
-where $I_S$ is the saturation current, $q$ is the elementary load, $k$ is the constant of
-Boltzmann, $T$ is the absolute temperature and $\eta$ is the ideal factor.
-For potential differences sufficiently high, the exponential term is very
-greater than 1 and the above equation can be approximated as follows:
+where $I_S$ is the saturation current, $q$ is the elementary charge, $k$ is Boltzmann's constant, $T$ is the absolute temperature, and $\eta$ is the ideality factor.
+
+For sufficiently high voltage differences, the exponential term greatly exceeds 1 and the above equation can be approximated as:
 
 $$I = I_S e^{\frac{V_D q}{\eta k T}} \qquad (2)$$
 
-Assembly and data collection
-The electrical circuit diagram for data collection is shown in Figure 2, and the
-The actual assembly in Figure 3.
-Other
-Catode
+Experimental Setup and Data Collection
+The circuit diagram for data collection is shown in Figure 2, and the actual setup is depicted in Figure 3.
+Anode
+Cathode
 
 Fig. 1
-XXXII Spanish Olympics in Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local phase, University of Salamanca
-Name and surname:
+XXXII Spanish Physics Olympiad
+March 12, 2021
+Local Phase, University of Salamanca
 
-The Centre:
-Course:
+Name and Surname:
 
-The potentiometer is rotated and, for potential differences, $V_D$, between 0.550 V
-and 0,775 V, at a room temperature of $20\ ^\circ\text{C}$, the corresponding values are collected
-de la intensidad $I$.
-The ten pairs of measures taken are listed below:
+School:
+Grade:
 
-The experimental procedure
-1. Transfers the previous measures to a table as follows: (0.5 points)
+The potentiometer is adjusted, and for voltage differences $V_D$ ranging from 0.550 V to 0.775 V, at an ambient temperature of $20\ ^\circ\text{C}$, the corresponding current values $I$ are recorded.
+The ten measured pairs of data are listed below:
+
+Experimental Procedure
+1. Transfer the previous measurements to a table as follows: (0.5 points)
 
 $V_D$ (V)
 $I$ (A)
 $\ln I$
 
-2. Write down the values of $\ln I$ in the third column of the table. (Some of the following points)
-3. Applies logarithms to the equation (2) in order to obtain a linear dependence
-between $\ln I$ and $V_D$.
-Write the resulting expression, which will be designated as expression (3).
-(Some of the following points)
-XXXII Spanish Olympics in Physics
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Local phase, University of Salamanca
+2. Record in the third column of the table the values of $\ln I$. (0.5 points)
+3. Apply logarithms to equation (2) in order to obtain a linear dependence between $\ln I$ and $V_D$.
+Write down the resulting expression, which will be referred to as equation (3).
+(0.5 points)
+
+XXXII Spanish Physics Olympiad
+March 12, 2021
+Local Phase, University of Salamanca
+
 Name and surname:
 
-The Centre:
-Course:
+School:
+Grade:
 
-4. Graphically represents the values of $\ln I$ [in ordered] versus those of $V_D$ [in ordered]
-The following table shows the results of the analysis: (Some of the following points)
-5. Determine the slope, $p$, of the straight line that best fits the points
-The experimental ones. (Some of the following points)
-6. Since the slope of the line must be equal to the slope of the expression (3),
-iguala ambas, halla el factor de idealidad, $\eta$, del diodo. (a) the number of days
+4. Plot graphically the values of $\ln I$ [on the vertical axis] versus those of $V_D$ [on the horizontal axis]. (0.5 points)
+5. Determine the slope, $p$, of the straight line that best fits the experimental points. (0.5 points)
+6. Since the slope of the line must equal the slope of equation (3), equate both and find the ideality factor, $\eta$, of the diode. (1 point)
 
-The data:
+Data:
 $q = 1.60 \times 10^{-19}$ C
 $k = 1.38 \times 10^{-23}\ \text{J}\cdot\text{K}^{-1}$
-$t = 20\ ^\circ\text{C}$ (o bien: $T = 293$ K)
-
+$t = 20\ ^\circ\text{C}$ (or: $T = 293$ K)
 
 <!--fig:start-->
 ![[_attachments/2021 enunciados_2021/2021 enunciados_2021_p5_f3.png]]
-*Simbolo circuitale diodo Ánodo-Cátodo*
+*Diode circuit symbol: Anode-Cathode*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 enunciados_2021/2021 enunciados_2021_p5_f4.png]]
-*Scheme of electrical circuit with diode*
+*Electrical circuit diagram with diode*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 enunciados_2021/2021 enunciados_2021_p5_f5.png]]
-*Royal assembly with measuring instruments *
+*Actual experimental setup with measuring instruments*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 enunciados_2021/2021 enunciados_2021_p6_f6.png]]
-*Multimeter photo display with experimental measurements*
+*Photo of multimeter display showing experimental measurements*
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Modern-Quantum Physics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1RTRnV56GeHsTtP3MV49jGH5eQyNhUTIa/view)
+

@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2011 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/bubble,object/gas"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -98,51 +98,11 @@ se il radius del pallone prima dell'inflazione è $r_0 = 10\ \text{cm}$. (5,5 pu
 **Objects:** [[Bubble (object)|Bubble]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 is
-Balloon (15 points)
-For this problem consider a small, air-filled balloon that has a very thin, elastic
-The skin. The balloon may always be assumed to be spherical, and the pressure exerted by
-The balloon skin on the interior of the balloon is inversely proportional to the radius of the balloon.
-- The balloon.
-To solve the problems, also use the following values:
-External air pressure
-Ambient temperature
-Gravitational acceleration
-Density of water
-$p_\text{Luft} = 1{,}0\cdot10^5\ \text{N m}^{-2}$
-$T_0 = 300\ \text{K}$
-$g = 9{,}81\ \text{m s}^{-2}$
-$\rho_\text{Wasser} = 1000\ \text{kg m}^{-3}$
-If you need further values or constants, please take them from a physics textbook.
-(a) For a balloon radius $r_0$ the pressure inside the balloon is $1{,}2\cdot10^5\ \text{Pa}$. Determine
-The pressure prevailing inside the balloon after the balloon has been inflated to a radius
-of $\frac{3}{2} r_0$. The air temperature inside the balloon should, even after
-inflating, equal to the ambient temperature. (two points)
-b) The balloon inflated in this way is now slowly submerged in water. Determine to
-The balloon must be brought so that its
-radius is again $r_0$.
-Assume for this that the balloon skin is a very good thermal conductor and that the water temperature
-is a constant $10\ ^\circ\text{C}$. (three points)
-(c) Determine, analogous to the previous part, the depth to which the balloon must be
-brought for the case in which the balloon skin is ideally thermally insulating, and also compute
-The temperature of the air inside the balloon at this depth. (4.5 points)
-(d) Calculate in each case the work that must be done to slowly submerge the balloon in water, as in
-Parts (b) and (c), to the corresponding depths,
-if the balloon radius before inflation is $r_0 = 10\ \text{cm}$. (5.5 points)
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Elasticity & Materials]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2011 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/disk,object/sphere"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -231,177 +191,64 @@ coin is replaced by a sphere of the same radius and the same, homogeneously dist
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2
-Sphere and coin in a funnel (21+9 punti)
-Un dispositivo di raccolta di fondi occasionally to be admired at fundraising events è costituito da un
-grande funnel, in cui le monete possono essere rotolate dal bordo superiore. Le monete poi rotolare
-verso il basso e vengono raccolti in un contenitore posto sotto il funile.
+**Problema 2**
+Sfera e moneta in un imbuto (21+9 punti)
+
+Un dispositivo di raccolta occasionalmente ammirato durante eventi di raccolta fondi è costituito da un grande imbuto, nel quale si possono far scivolare monete dal bordo superiore. Le monete poi scendono lungo l'imbuto e vengono raccolte in un contenitore posto al di sotto.
+
 z
 R(z)
-Figura 1: Sketch of a coin-collecting funnel
-In questo problema si sono di indagare le proprietà di tali funnels utilizzando modelli semplificati, e poi brevemente considerare un rolling
-coin in a funnel. Il radius del funile simmetrico rotativo è descritto da una funzione $R(z)$,
-che, come visto nello schema, dà il radius come un
-funzione della distanza verticale verso il basso
-- Rim. Il funnel è aperto entrambi al vertice
-e in fondo.
-Supponiamo che i corpi si muovano sempre lungo il muro del funile. L'accelerazione gravitazionale della Terra è $g = 9{,}81\ \text{m s}^{-2}$ e agisce nella direzione della
-- l'asse z.
-Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics, Olshausenstr. 62, D - 24098 Kiel
-42° IPhO 2011 - Problemi del secondo round
+Figura 1: Schizzo di un imbuto per la raccolta delle monete
+
+In questo problema si devono studiare alcune proprietà di tali imbuto utilizzando modelli semplificati, e successivamente si considera brevemente una moneta che rotola in un imbuto. Il raggio dell'imbuto, simmetrico rispetto all'asse di rotazione, è descritto da una funzione $R(z)$, che come mostrato nello schizzo fornisce il raggio in funzione della distanza verticale dal bordo inferiore. L'imbuto è aperto sia in alto che in basso.
+
+Si assuma che i corpi si muovano sempre lungo la parete dell'imbuto. L'accelerazione gravitazionale terrestre è $g = 9{,}81\ \text{m s}^{-2}$ e agisce nella direzione dell'asse z negativo.
+
+Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik, Olshausenstr. 62, D - 24098 Kiel
+42ª Olimpiade Fisica Internazionale (IPhO) 2011 - Problemi della seconda prova
+
 2.1
-Punto di massa nel funnel
-In questi problemi considerate un punto di massa $m$ che si muove senza attrito in
-- Le funzioni di controllo
-a) Il punto di massa è inserito in un funnel ad un'altezza $z$ con una velocità $v$ diretta orizzontalmente e tangentialmente alla superficie del funnel. Sorprendentemente, il
-la massa, indipendentemente dalla coordinata z scelta, rimane sempre la stessa
-alti durante il movimento, cioè La sua coordinata z è costante.
-Determine quale forma il funnel deve avere per questo, cioè give the function
-$R(z)$ come una funzione dei parametri che appaiono. Quindi, determinate come
-Tall il funnel deve quindi essere se la massa si muove con una velocità di
-$v = 1{,}0\ \text{m s}^{-1}$ and the upper and lower radius of the funnel are $50\ \text{cm}$ and $5{,}0\ \text{cm}$
-rispettivamente. (4 punti)
-b) La massa è ora collocata all'alto bordo di un altro funnel con una velocità $v$ diretta orizzontalmente e tangentialmente alla superficie del funnel. Il raggio del funnel è descritto dalla funzione $R(z) = R_\text{oben}/\sqrt{\frac{2g}{v^2}(h - z) + 1}$, dove $R_\text{oben}$ denota il funnel.
-funnel radius at the upper rim and $h$ gives the height of the funnel.
-Mostra che per ogni valore di $v$ la massa rimane sempre al bordo superiore del funile,
-i.e. non cambia le sue coordinate z.
-In aggiunta alla velocità $v$, la massa ora inizia a avere una componente di velocità $u$ perpendicolare alla velocità orizzontale e lungo la superficie del funile.
-Stat qualitativamente how the motion of the mass proceeds and, for the values
-$R_\text{oben} = h = 50\ \text{cm}$, nonché $v = 40\ \text{cm s}^{-1}$ e $u = 10\ \text{cm s}^{-1}$, estimate the time until the mass leaves the
-- Funnel. 7 punti)
-c) Ora è dato un terzo funnel, il cui raggio è descritto dalla funzione $R(z) = R_\text{unten} + c z$
-con una costante positiva $c$. Il punto di massa è di nuovo portato nel funile con solo un
-velocità orizzontale $v$.
-Mostra che per ogni sufficientemente grande valore di $v$ esiste un'altezza $z$ a cui il
-la massa rimane sempre, cioè non cambia le sue coordinate z. - Dammi questa altezza.
-Quindi, state quanto grande la velocità deve essere almeno per tali
-un'altezza di esistenza. (3 punti)
-d) Considerare un funnel as in part c) for a funnel height of $30\ \text{cm}$ as well as
-a radius superiore e inferiore del funnel di $50\ \text{cm}$ e $45\ \text{cm}$ rispettivamente. The mass is placed at the upper rim with
-la velocità orizzontale necessaria per
-E' un'idea che non si può fare a questo livello. Ora la massa è di nuovo data a velocità aggiuntiva $u$
-perpendicolare alla velocità orizzontale e lungo la superficie del funile.
-Descrivere qualitativamente il movimento che il punto di massa ora esegue, e determinare
-la gamma della velocità aggiuntiva $u$ in cui il punto di massa non lascia il recipiente
-- Al bordo inferiore. 7 punti)
+Punto materiale nell'imbuto
+
+Nei seguenti problemi si considera un punto materiale di massa $m$ che si muove senza attrito in diversi imbuto.
+
+a) Il punto materiale viene posto in un imbuto a un'altezza $z$ con una velocità $v$ diretta orizzontalmente e tangenzialmente alla superficie dell'imbuto. Sorprendentemente, la massa rimane sempre alla stessa altezza durante il moto, indipendentemente dal valore scelto della coordinata z, ovvero la sua coordinata z è costante.
+
+Determinare quale forma deve avere l'imbuto affinché ciò avvenga, ovvero fornire la funzione
+$R(z)$ in funzione dei parametri che compaiono. Inoltre determinare quanto deve essere alto l'imbuto se la massa si muove con una velocità di
+$v = 1{,}0\ \text{m s}^{-1}$ e i raggi superiore ed inferiore dell'imbuto sono rispettivamente $50\ \text{cm}$ e $5{,}0\ \text{cm}$. (4 punti)
+b) La massa viene ora collocata sul bordo superiore di un altro cono, con una velocità $v$ diretta orizzontalmente e tangenzialmente alla superficie del cono. Il raggio del cono è descritto dalla funzione $R(z) = R_\text{oben}/\sqrt{\frac{2g}{v^2}(h - z) + 1}$, dove $R_\text{oben}$ indica il raggio del cono al bordo superiore e $h$ fornisce l'altezza del cono.
+Dimostrare che per ogni valore di $v$ la massa rimane sempre al bordo superiore del cono, ovvero non cambia il suo coordinata z.
+In aggiunta alla velocità $v$, la massa possiede ora inizialmente un componente di velocità $u$ perpendicolare alla velocità orizzontale e lungo la superficie del cono.
+Descrivere qualitativamente come evolve il moto della massa e, per i valori $R_\text{oben} = h = 50\ \text{cm}$, nonché $v = 40\ \text{cm s}^{-1}$ e $u = 10\ \text{cm s}^{-1}$, stimare il tempo necessario affinché la massa abbandoni il cono. (7 punti)
+
+c) Ora viene fornito un terzo cono, il cui raggio è descritto dalla funzione $R(z) = R_\text{unten} + c z$ con una costante positiva $c$. La massa puntiforme viene nuovamente introdotta nel cono con una sola velocità orizzontale $v$.
+Dimostrare che per ogni valore sufficientemente grande di $v$ esiste un'altezza $z$ alla quale la massa rimane sempre, ovvero non cambia il suo coordinata z. Determinare tale altezza.
+Inoltre, indicare quanto deve essere almeno grande la velocità affinché tale altezza esista. (3 punti)
+
+d) Considerare un cono come in parte c), per un'altezza del cono $30\ \text{cm}$, e raggi superiore e inferiore del cono rispettivamente di $50\ \text{cm}$ e $45\ \text{cm}$. La massa viene collocata al bordo superiore con la velocità orizzontale necessaria perché rimanga a tale altezza. A questo punto, la massa riceve nuovamente un'ulteriore velocità $u$ perpendicolare alla velocità orizzontale e lungo la superficie del cono.
+Descrivere qualitativamente il moto che ora compie la massa puntiforme e determinare l'intervallo della velocità aggiuntiva $u$ in cui la massa puntiforme non abbandona il recipiente al bordo inferiore. (7 punti)
 2.2
-Coin in the funnel
-Ora considerate il caso di una moneta in un funnel. La moneta ha un distribuito omogeneo
-Mass $m$ and a radius $r$ that can always be assumed to be very small compared with the funnel radius.
-Lo spessore della moneta è molto piccolo e la moneta è supposto di rotolare nel funnel senza
-- Slipperare. La frizione a rotoli è trascurabile.
-Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics, Olshausenstr. 62, D - 24098 Kiel
-42° IPhO 2011 - Problemi del secondo round
-e) Come in parte a), per una velocità puramente orizzontale $v$ the coin moves
-lungo la stessa altezza per una particolare forma di funile.
-Determine per questo caso anche che forma il funnel deve avere, cioè dare
-la funzione $R(z)$ come funzione dei parametri che appaiono. Nota
-che $r/R \ll 1$ dovrebbe tenere. (6 punti)
-f) Descrivere qualitativamente cosa succede se, in the funnel considered in e), il
-coin è sostituito da una sfera dello stesso raggio e della stessa massa distribuita in modo omogeneo.
+Moneta nel cono
+Ora consideriamo il caso di una moneta in un cono. La moneta ha una massa distribuita omogeneamente $m$ e un raggio $r$ che può essere sempre considerato molto piccolo rispetto al raggio del cono.
+Lo spessore della moneta è molto piccolo e si suppone che la moneta rotoli nel cono senza scivolare. L'attrito radente è trascurabile.
+Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik, Olshausenstr. 62, D - 24098 Kiel
+42ª Olimpiade Internazionale di Fisica 2011 - Problemi della seconda prova
+e) Come nel punto a), per una velocità puramente orizzontale $v$, la moneta si muove a un'altezza costante per una particolare forma del cono.
+Determinare anche in questo caso quale deve essere la forma del cono, ossia fornire la funzione $R(z)$ in funzione dei parametri che compaiono. Si osservi che $r/R \ll 1$ deve valere. (6 punti)
+f) Descrivere qualitativamente cosa accade se, nel cono considerato al punto e), la moneta viene sostituita da una sfera dello stesso raggio e della stessa massa distribuita omogeneamente.
 (3 punti)
 
-
 <!--fig:start-->
 ![[_attachments/42_IPhO_2011_2Rd_Aufgaben/42_IPhO_2011_2Rd_Aufgaben_p2_f1.png]]
-*Funnel with z-axis and radius R(z) *
+*Funnel with z-axis and radius R(z)*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2
-Sphere and coin in a funnel (21+9 points)
-A collection device occasionally to be admired at fundraising events consists of a
-large funnel, into which coins can be rolled from the upper rim. The coins then roll
-downward and are collected in a container placed under the funnel.
-z
-R(z)
-Figure 1: Sketch of a coin-collecting funnel
-In this problem you are to investigate properties of such funnels using simplified models, and then briefly consider a rolling
-coin in a funnel. The radius of the rotationally symmetrical funnel is described by a function $R(z)$,
-which, as seen in the sketch, gives the radius as a
-function of the vertical distance to the lower
-I'm going to go. The funnel is open both at the top
-And at the bottom.
-Assume that the bodies always move along the wall of the funnel. The Earth's gravitational acceleration is $g = 9{,}81\ \text{m s}^{-2}$ and acts in the direction of the negative
-the z-axis.
-The Leibniz Institute for the Education of Natural Sciences and Mathematics, Olshausenstr. The Commission has not yet adopted a proposal for a regulation.
-42nd IPhO 2011 - Problems of the 2nd Round
-2.1
-Point mass in the funnel
-In the following problems consider a point mass of $m$ that moves without friction in
-different funnels.
-(a) The point mass is placed into a funnel at a height $z$ with a velocity $v$ directed horizontally and tangentially to the funnel surface. Surprisingly, the
-mass, independently of the chosen z-coordinate, always remains at the same
-height during the motion, i.e. Its z-coordinate is constant.
-Determine what shape the funnel must have for this, i.e. Give the function
-$R(z)$ as a function of the parameters that appear. So determine how
-Therefore, the funnel must be tall if the mass moves with a velocity of
-$v = 1{,}0\ \text{m s}^{-1}$ and the upper and lower radius of the funnel are $50\ \text{cm}$ and $5{,}0\ \text{cm}$
-The Commission shall adopt the following measures: (four points)
-(b) The mass is now placed at the upper rim of another funnel with a velocity $v$ directed horizontally and tangentially to the funnel surface. The radius of the funnel is described by the function $R(z) = R_\text{oben}/\sqrt{\frac{2g}{v^2}(h - z) + 1}$, where $R_\text{oben}$ denotes the
-funnel radius at the upper rim and $h$ gives the height of the funnel.
-Show that for every value of $v$ the mass always remains at the upper rim of the funnel,
-i.e. does not change its z-coordinate.
-In addition to the velocity $v$, the mass now initially has a velocity component $u$ perpendicular to the horizontal velocity and along the funnel surface.
-State qualitatively how the motion of the mass proceeds and, for the values
-$R_\text{oben} = h = 50\ \text{cm}$ as well as $v = 40\ \text{cm s}^{-1}$ and $u = 10\ \text{cm s}^{-1}$, estimate the time until the mass leaves the
-I'm going to the funnel. (seventh and final points)
-c) Now a third funnel is given, whose radius is described by the function $R(z) = R_\text{unten} + c z$
-with a positive constant $c$. The point mass is again brought into the funnel with only a
-horizontal velocity $v$.
-Show that for every sufficiently large value of $v$ there exists a height $z$ at which the
-mass always remains, i.e. does not change its z-coordinate. Give this height.
-So state how big the velocity must at least be for such
-A height to exist. (three points)
-(d) Consider a funnel as in part c) for a funnel height of $30\ \text{cm}$ as well as
-a upper and lower radius of the funnel of $50\ \text{cm}$ and $45\ \text{cm}$ respectively. The mass is placed at the upper rim with
-the horizontal velocity that is necessary for
-It's to remain at this height. Now the mass is again given an additional velocity $u$
-perpendicular to the horizontal velocity and along the funnel surface.
-Describe qualitatively the motion that the point mass now performs, and determine
-the range of the additional velocity $u$ in which the point mass does not leave the vessel
-At the lower rim. (seventh and final points)
-2.2
-Coin in the funnel
-Now consider the case of a coin in a funnel. The coin has a homogeneously distributed
-mass $m$ and a radius $r$ that can always be assumed to be very small compared with the funnel radius.
-The thickness of the coin is very small and the coin is supposed to roll into the funnel without
-slipping. Rolling friction is negligible.
-The Leibniz Institute for the Education of Natural Sciences and Mathematics, Olshausenstr. The Commission has not yet adopted a proposal for a regulation.
-42nd IPhO 2011 - Problems of the 2nd Round
-(e) As in Part (a), for a purely horizontal velocity $v$ the coin moves
-along the same height for a particular funnel shape.
-Determine for this case too what shape the funnel must have, i.e. Give
-the function $R(z)$ as a function of the parameters that appear. Note
-that $r/R \ll 1$ should hold. (seventh and sixth points)
-(f) Describe qualitatively what happens if, in the funnel considered in e), the
-coin is replaced by a sphere of the same radius and the same, homogeneously distributed mass.
-(three points)
-
-
-<!--fig:start-->
-![[_attachments/42_IPhO_2011_2Rd_Aufgaben/42_IPhO_2011_2Rd_Aufgaben_p2_f1.png]]
-*Funnel with z-axis and radius R(z) *
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2011 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/particle-beam,object/point-charge,object/electron"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -602,110 +449,11 @@ Estimando il corretto ordine di magnitudo e non circa un risultato esatto. 7 pun
 **Objects:** [[Particle Beam (object)|Particle Beam]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3
-Particle physics at the Large Hadron Collider (LHC) (11+7+7 points)
-This problem is an introduction to experimental particle physics and is intended to explain, in
-Broadly speaking, why the LHC was built the way it is.
-You'll have to look up some properties of the particles considered. Please state
-your source(s) for this. For the speed of light in vacuum you may use $c = 300.000\ \text{km s}^{-1}$.
-3.1
-Accelerator physics
-Consider a charged particle with rest mass $m_0$ and charge $q$ that moves with very large velocity $v$ in a homogeneous magnetic field of flux density $B$. The flux density is
-perpendicular to the velocity.
-(a) The particle is forced into a circular orbit by the magnetic field. Determine the
-radius of the circular orbit as a function of the given quantities.
-Consider an electron and a proton that are each accelerated to an energy of $45\ \text{GeV}$ and stored in the storage ring of the LHC with a circumference of $27\ \text{km}$.
-Compute which magnetic field is necessary in each of the two cases to force the particles onto the
-The circular orbit. (iii) the number of employees
-(b) Accelerated, electrically charged particles radiate energy through so-called braking radiation. Using a dimensional analysis, determine an expression for the radiated
-power $P$ of a particle as a function of its charge $q$, the speed of light $c$,
-Its instantaneous acceleration $a$ and the electric field constant $\varepsilon_0$.
-A complete relativistic treatment would, in the case of circular motion, lead to an additional factor $\gamma^4$ in the result, where $\gamma = 1/\sqrt{1 - \frac{v^2}{c^2}}$. Include this factor in
-the following considerations. (iii) the number of employees
-(c) At CERN, between 1989 and 2000, the Large Electron Positron Collider (LEP) operated, a
-ring accelerator in which an electron beam and an opposing positron beam
-were brought to collision with an energy of $45\ \text{GeV}$ each. In the same ring (with
-The LHC is located today.
-Calculate how much smaller the energy loss through brake radiation is for protons compared to electrons of the same energy, i.e. Give the ratio of the radiated
-- The powers.
-The next big planned accelerator is to be again an electron-positron accelerator,
-but with a center-of-mass energy of $1\ \text{TeV}$. Justify why it is sensitive
-to construct this as a linear accelerator and not as a ring accelerator. Carry out
-a suitable example calculation as part of your justification. (four points)
-The Leibniz Institute for the Education of Natural Sciences and Mathematics, Olshausenstr. The Commission has not yet adopted a proposal for a regulation.
-42nd IPhO 2011 - Problems of the 2nd Round
-3.2
-The stationary target vs. Head-on collider
-An alternative design to the accelerators above, in which particle beams of equal
-The energy collide head-on (so-called head-on colliders), is the following: one accelerates only
-A single particle beam and lets it strike a stationary target. For example,
-One can shoot a proton beam at a hydrogen container. Over the course of the 20th century this original
-Fixed-target design has been almost completely abandoned,
-and head-on colliders are preferred today, even though these involve higher technical challenges.
-To understand this, in the following compare the two accelerator designs by considering
-The energy available for the production of new particles in the center-of-mass frame
-During the collision.
-(d) Calculate the energy available in the center-of-mass frame when two proton beams with an energy per proton of $E_0$ each collide. The energy $E_0$
-should be much larger than the rest of the energy of a proton. (two points)
-e) Repeat this calculation for the case in which a proton beam with an energy
-of $E_\text{Proton} = 2 E_0$ strikes a stationary hydrogen target. The hydrogen target can be considered
-As a collection of practically free protons with negligible kinetic energy. (five points)
-3.3
-Beam energy variations at LEP
-At the LEP collider a surprising effect was observed: during the day,
-Small but measurable variations in the beam energy could be detected, which were attributed to passing
-- I'm going to train. The trains in the vicinity of the LEP collider are operated with direct current and
-a voltage of $1500\ \text{V}$, being supplied by a power line, and the
-The circuit is closed mainly through the rails but also through the ground and therefore also through the
-The LEP tunnel lies 80 meters underground.
-More precisely, the circuit is closed through the grounded vacuum chamber, which consists essentially of aluminum and, as shown in Figure 2, has an asymmetrical shape.
-The elliptical cavity contains the electron and positron beams, the right space contains the
-vacuum pump, and the left space is a channel for the cooling fluid. The leakage current changes the
-The magnetic field in the storage ring, and the beam energy must be changed accordingly in order to keep the
-Particle beam in the storage ring at the same magnet configuration.
-Figure
-2:
-Cross-section
-of the
-The following is the list of the countries of the European Union:
-vacuum chamber
-The Commission has already taken a number of measures to ensure that the Community's financial resources are used effectively.
-The chamber is about 25 cm wide and 10 cm
-High.
-For an approximate explanation of this effect
-the following assumptions can be made:
-The train passes close to the accelerator tunnel at two locations of the accelerator ring lying opposite each other, at a distance of about 1 km from
-it. Otherwise the route runs far
-from the accelerator tunnel. The voltage drop along the rails between these
-Two locations is about 10 V. The leakage currents
-through the vacuum chamber can be modeled by a
-current-carrying wire that runs
-Along the middle of the chamber for the vacuum pump. In addition, for the specific resistance of ground and aluminum, values of $100\ \Omega\,\text{m}$ and $2{,}7\cdot10^{-8}\ \Omega\,\text{m}$ respectively can be assumed.
-The Leibniz Institute for the Education of Natural Sciences and Mathematics, Olshausenstr. The Commission has not yet adopted a proposal for a regulation.
-42nd IPhO 2011 - Problems of the 2nd Round
-(f) Using the data above, estimate the effect of the train leakage currents on the beam energy
-The following is the list of the types of CO2 emissions from the LEP collider. This part is about
-estimating the correct order of magnitude and not about an exact result. (seventh and final points)
-
-
-<!--fig:start-->
-![[_attachments/42_IPhO_2011_2Rd_Aufgaben/42_IPhO_2011_2Rd_Aufgaben_p5_f2.png]]
-*Cross-section of the LEP vacuum chamber*
-<!--fig:end-->
-
-**Topic:** [[Special Relativity]], [[Magnetism]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Particle Beam (object)|Particle Beam]], [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2011 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/mirror"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -767,39 +515,6 @@ Descrivere le vostre considerazioni teoriche, le configurazioni sperimentali, la
 Non guardare direttamente nel fascio laser
 E non puntarlo ad altri esseri viventi!
 Leibniz Institute for the Pedagogy of Natural Sciences and Mathematics, Olshausenstr. 62, D - 24098 Kiel
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1yo8oALUhwBPb7eNAbTA1ak-fwgtDu5Dh/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is 4
-Experimental problem - refractive index of a salt solution (30 points)
-In this problem you are to investigate how the refractive index of water changes through the addition
-of salt.
-For the experiments use only the following materials:
-• table salt
-• tap water
-• a spoon
-• a bowl
-• a laser pointer
-• a small mirror
-• a surface to catch the laser light
-• fastening materials to fix the laser pointer and the mirror
-• a kitchen scale
-• a measuring cup
-• a folding ruler (or, more precisely, a jointed measuring rule)
-(a) Using a suitable experimental setup, investigate experimentally as accurately as possible the dependence of the refractive index of a tap watersalt solution on the salt concentration
-And represent this dependence graphically. (A) the number of points
-(b) Express this dependence, using the results, through the simplest possible
-mathematical expression and from it determine the refractive index of tap water. State the errors in each of your results. (Figure 1)
-Describe your theoretical considerations, the experimental setups, the experimental procedure and the analysis in such a way that they are easily comprehensible.
-Do not look directly into the laser beam
-And don't point it at other living beings either!
-The Leibniz Institute for the Education of Natural Sciences and Mathematics, Olshausenstr. The Commission has not yet adopted a proposal for a regulation.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]

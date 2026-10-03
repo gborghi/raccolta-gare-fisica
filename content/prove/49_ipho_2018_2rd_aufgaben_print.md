@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2018 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Gravitazione e Astrofisica,object/pipe-tube,object/block"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -158,81 +158,11 @@ Per la soluzione, supponiamo che il cuboide non ruota durante il movimento.
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 Mechanical amusements
-(including the following:
-Time for physics fun! In a hands-on exhibition evidently set up especially for people enthusiastic about physics, there is all kinds of things to discover. Take a closer look at two mechanical exhibits
-and convince yourself.
-1.1 Water feature
-At one of the first stations you can pour water at the upper end into a channel
-of length $L = 100\ \text{cm}$, which runs out of the channel at the lower end. The channel is, as shown alongside, fixed at the lower end at
-a height $h = 200\ \text{cm}$ above the ground. The upper end of the channel,
-However, you can vary in height. The height of the upper end evidently
-influences how far a water jet travels before it hits the ground.
-1. (a) Determine approximately the maximum horizontal range, measured
-from the lower end of the channel, that you can reach with the water jet,
-And what angle the channel must make with the horizontal to do so. (Page 10)
-You may assume that the water moves without friction and that
-It's poured into the channel with negligible velocity.
-h
-L
-Figure 1: Setup
-of the water feature.
-1.2 Air cushion track and friction against a wall
-Another highlight of the exhibition is the air-cushion track, on
-which a small, flat cuboid of mass m moves without friction, as sketched in the adjacent figure. The air cushion track is bounded on two sides by fixed walls a distance b
-It's weird.
-Consider the case in which you launch the cuboid from the left wall with
-a velocity $v_0$ at an angle of $\alpha = 45^\circ$ to the wall.
-With each collision with a wall, the velocity of the
-cuboid along the walls decreases, even though the deformations occurring can be assumed elastic. After the
-Fifth collision, the cuboid has practically no velocity
-along the walls any more and merely moves back and forth perpendicularly between the walls.
-$\vec{v}_0$
-$\alpha$
-b
-Air cushion track
-Figure
-2:
-Top of the line
-view
-of
-The
-Air cushion track
-at
-The
-launch
-of the
-The cuboid.
-1.b) Determine the coefficient of kinetic friction between wall and cuboid and give an expression
-for the total distance travelled by the cuboid along the walls (upwards in the sketch)
-as a function of the given quantities. (Page 10)
-For the solution, assume that the cuboid does not rotate during motion.
-49th IPhO 2018 - Problems of the 2nd Round
-4 / 7
-
-
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_2Rd_Aufgaben_print/49_IPhO_2018_2Rd_Aufgaben_print_p3_f1.png]]
-*Setup of the water feature*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_2Rd_Aufgaben_print/49_IPhO_2018_2Rd_Aufgaben_print_p3_f2.png]]
-*Top view of the air cushion track at the start*
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2018 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Gravitazione e Astrofisica,object/electron,object/atom,object/nucleus"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -449,118 +379,11 @@ $R_2 - R_1$.
 **Objects:** [[Electron (object)|Electron]], [[Atom (object)|Atom]], [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 Quantum effects of electrons in magnetic fields
-(including the following:
-The Bohr atomic model, developed at the beginning of the 20th century, for the first time allowed a theoretical
-The explanation of the size of atoms as well as of spectral lines in the hydrogen atom. Even though the model
-It was based on postulates that contradicted, for example, classical mechanics and electrodynamics, and although more precise experiments revealed inadequacies of the model, it was extraordinarily successful. Even today, many depictions of atoms feature the orbits of the electrons around the atomic nucleus typical of the bore.
-The atomic model.
-The basic assumption of the Bohr atomic model is that the electrons of an atom move without loss of energy in circular orbits around the atomic nucleus. Only those circular orbits are allowed for which
-the orbital angular momentum is an integer multiple of the reduced Planck constant $\hbar = \dfrac{h}{2\pi}$
-with $h \approx 6{,}626 \cdot 10^{-34}$ Js. This condition can be expressed via the momentum $p$ of the electron along the
-circular orbit and its radius $r$ by
-
-$$p = \frac{\hbar n}{r}\ ,$$
-
-with an arbitrary integer $n \in \mathbb{Z}$ that labels the quantum level1.
-When an atom is in an external magnetic field, this quantization condition must be modified. For an electron of charge $-e$ moving on a circular orbit oriented perpendicular to the
-direction of a homogeneous and constant magnetic field whose magnetic flux density
-has magnitude $B$, the quantization condition reads2
-
-$$\frac{r p}{\hbar} - \frac{e\, r^2 B}{2 \hbar} = n\ .$$
-With the help of this quantization condition, a number of fascinating quantum phenomena can be explained. That's exactly what you're going to work through in the following.
-For this, assume in this problem that the electrons can be treated as non-relativistic particles
-and neglect the magnetic moment of the electron due to its spin3. According to the
-Pauli principle, each quantum state can then contain only one electron.
-2.1 Unexpected currents
-Classically, a current proportional to the voltage across the material flows through a piece of metal connected to a voltage source. In a very small and thin metal ring, however, a current can flow at low
-temperatures even entirely without an external voltage source.
-To explain this current, consider a ring of radius r containing a large number N
-of conduction electrons of mass m. Assume that the electrons can move only along the ring
-and are thus restricted to one-dimensional motion.
-2.a) Calculate the energy levels $E_n$ with $n \in \mathbb{Z}$ of the electrons that are possible according to bore quantization
-under the influence of a magnetic field of flux density $B$ oriented perpendicular to the motion. Show that for $B \neq 0$ the energy levels $E_n$ and $E_{-n}$ are different. The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-1In many depictions of the Bohr atomic model only positive values for n are considered. The negative values
-account for the two possible senses of revolution of the electron, and the inclusion of the value n = 0 also allows
-The quantum-mechanically possible state with vanishing orbital angular momentum.
-2cf. e.g. Canuto and Kelly (1972). Hydrogen atom in an intense magnetic field. The following is a list of the countries of the European Union:
-277-291.
-3For electrons in strong magnetic fields this is a suitable assumption, since their spin aligns in the magnetic field.
-49th IPhO 2018 - Problems of the 2nd Round
-5 / 7
-When the strength of the magnetic field is increased, the possible energy levels of the magnetic field are increased.
-electrons change. For certain values $\Delta B$ of the change of the magnetic flux density, however, the spectrum
-of energy levels is mapped onto itself.
-2.b) Determine the smallest nonzero value of $\Delta B$ for which the spectrum of energy levels remains unchanged. (Page 3 of this report)
-2.c) Give an expression for the current $I_n$ in the ring produced by an electron in the $n$-th
-The quantum level. (c) the number of persons who are not members of the
-Electrons are fermions. According to the Pauli principle, each quantum state can therefore be occupied by at most
-One electron. At very low temperatures the electrons in the ring occupy the
-States with the lowest possible energy.
-2.d) Derive an expression for the total current $I(B)$ flowing through the ring at very low temperatures and for a given number of electrons N
-as a function of the magnetic flux density,
-and qualitatively sketch the behaviour of $I(B)$. The magnetic flux density should vary over a
-range of a few $\Delta B$ around $B = 0$. (Page 86)
-2.e) Calculate the maximum current $I_\text{max}$ produced by this effect in an aluminium ring with a radius of $r = 300\ \text{nm}$ and an electron density along the ring of $\lambda = 2{,}0 \cdot 10^9\ \text{m}^{-1}$.
-The quantity $\lambda$ gives the number of electrons per ring length. Compare the value of the maximum current with the estimate $I_\text{max} = \dfrac{e\, v_F}{2 \pi r}$. Here $v_F$ is the so-called
-Fermi velocity of an electron, which is obtained by setting the kinetic energy
-of the electron equal to the Fermi energy $E_F = 11{,}64\ \text{eV}$ of aluminium. (Page 3 of this report)
-At higher temperatures the electrons occupy not only the lowest energy levels but also the lowest energy levels.
-The Commission has already adopted a proposal for a regulation on the use of the energy sector in the Community. The investigated effect then disappears.
-2.f) For the ring from the last part of the problem, roughly estimate the temperature above which the effect
-No more occurs. (Page 3 of this report)
-2.2 The quantum Hall effect
-With the help of Bohr quantization, the quantum Hall effect can also be explained on a model system.
-To this end, consider a system of electrons at low temperatures that can move exclusively in a plane.
-The electrons are in a strong magnetic field of constant flux density
-B, oriented perpendicular to the plane. When a voltage U is applied along a direction in the plane,
-This leads to a current of magnitude $I_H \sim U$ in the plane, but perpendicular to the
-- What? Unlike the classical Hall effect, the Hall current $I_H$ in the quantum Hall effect is not a
-linear function of the magnetic field strength, but can take only the values $I_H = \dfrac{k}{R_K} U$ with $k \in \mathbb{N}$.
-The quantity $R_K$ is called the von Klitzing constant.
-2. (g) The von Klitzing constant $R_K$ is a quantity composed of fundamental constants of nature. Determine an expression for $R_K$ that involves only the Planck constant $h$, the elementary charge
-$e$ and the speed of light $c$. Any numerical factors may be
-set to 1. (Page 3 of this report)
-The next parts of the problem are intended to illustrate the mechanism that leads to the quantum Hall effect, with the help of the
-of the drill quantity condition.
-49th IPhO 2018 - Problems of the 2nd Round
-6 / 7
-2.h) Under the influence of the magnetic field, the electrons in the plane move on circular orbits,
-The so-called cyclotron orbits. Use the Bohr quantization condition and determine the radii $r_n$ of the quantised cyclotron orbits as well as their energy levels $E_n$. (Page 3 of this report)
-Now consider an additional, weak electric field of constant field strength $E$ applied in the
-I'm going to plan.
-2. (i) Show, without taking quantum effects into account, that the cyclotron orbits of the electrons under
-the influence of the electric and magnetic fields perform a drift motion perpendicular to the electric and magnetic fields with a drift velocity of magnitude $v_D = \dfrac{E}{B}$.
-(five points)
-In the following, the situation shown in Figure 3 is to be studied. The electrons move into an annulus with inner radius
-$R_1$ and outer radius $R_2$ with $R_2 - R_1 \ll R_1$.
-A voltage U is applied between the inner and outer radius. Assume that the
-voltage leads to a radial electric field
-of constant field strength E in the annulus.
-Perpendicular to the annulus runs a
-magnetic field of constant flux density B.
-Because of the magnetic field, the electrons move on quantized cyclotron orbits whose radius is assumed to be much smaller than the distance
-$R_2 - R_1$.
-
-
-<!--fig:start-->
-![[_attachments/49_IPhO_2018_2Rd_Aufgaben_print/49_IPhO_2018_2Rd_Aufgaben_print_p6_f3.png]]
-*Annulus with cyclotron orbits*
-<!--fig:end-->
-
-**Topic:** [[Modern-Quantum Physics]], [[Magnetism]], [[Circuits]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Electron (object)|Electron]], [[Atom (object)|Atom]], [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2018 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Gravitazione e Astrofisica,object/gas,object/pipe-tube"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -658,57 +481,6 @@ Per l'accelerazione gravitazionale sulla Terra si può usare il valore $g = 9{,}
 water $\rho = 1000\ \text{kg m}^{-3}$.
 4Un gas ideale indica un modello idealizzato di concezione di un gas in cui le particelle del gas sono presunte di essere punt-like e possono muoversi liberamente separate dalle collisioni. Molti gas si rivendicano ad una buona approssimazione
 Come i gas ideali.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BdHA95pOUH-r_m9zIcx3D2T-b1qN4oLF/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 Experimental problem - Nothing but air
-(including the following:
-For an ideal gas4, the equation of state, also called the general gas equation,
-
-$$p V = n R T$$
-
-establishes a relation between the pressure $p$, the volume $V$, the amount of substance $n$ and the temperature
-$T$ of the gas. The quantity $R \approx 8{,}31$ J $\text{K}^{-1}\,\text{mol}^{-1}$ denotes the universal gas constant. Air
-can be considered an ideal gas. In this problem you are to carry out two experiments
-with air and thereby determine the thermal volume expansion coefficient of air as well as the
-air pressure.
-The experiments are intended as home experiments. You should therefore not resort to the full equipment of the school's collection, but devise a suitable experimental setup yourself.
-In addition to air, you may use the following materials for the experiments: thermometer,
-various vessels, tubes, plug material for sealing the tubes, ruler, folding rule
-or jointed measuring stick, adhesive tape, warm and cold water as well as other typical household items. Please use only the specified materials. Otherwise a deduction of points may be
-The result.
-General notes on the experimental problem
-• Perform all experiments so that the results are as accurate as possible. Note that the
-The results are generally more accurate if you determine your results from series of measurements rather than from
-The following information is provided for in the Annex to this Regulation:
-• Describe and document your procedure in sufficient detail that every step is easy to follow.
-In particular, sketch your experimental setups.
-• In addition, estimate the errors of all results sensibly.
-3.1 Volume expansion
-When a gas is heated, it expands. For changes $\Delta T$ of the temperature that are small compared with the
-initial temperature $T$, the change $\Delta V$ of the gas volume at constant pressure is approximately
-proportional to $\Delta T$ and to the gas volume $V$ at temperature $T$. Thus:
-
-$$\Delta V \approx \gamma\, V\, \Delta T\ .$$
-
-The quantity $\gamma$ is the thermal volume expansion coefficient, which for this problem you may assume to be constant in the range
-of $\pm 20\ ^\circ\text{C}$ around room temperature.
-3. (a) Experimentally determine the thermal volume expansion coefficient of air at room temperature. Derive an expression for the value theoretically expected for an ideal gas
-and compare it with your result. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-3.2 Air pressure
-3.b) Experimentally determine the air pressure and compare your value with the current air pressure
-At the experiment site. The latter you can either research on the internet or determine with the help of
-Another barometer. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-For the gravitational acceleration on Earth you may use the value $g = 9{,}81\ \text{m s}^{-2}$ and for the density of
-water $\rho = 1000\ \text{kg m}^{-3}$.
-4An ideal gas denotes an idealised model conception of a gas in which the gas particles are assumed to be point-like and can move freely apart from collisions. Many gases claim to a good approximation
-like ideal gases.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]

@@ -326,26 +326,20 @@ Fai uno schizzo del grafico della corrente $I_X(t)$ che attraversa l'elemento no
 
 <div class="qlang-split" data-lang="en"></div>
 
-In this part of the problem we consider the application of nonlinear bistable elements to model biological processes. A neuristor (from neuron and transistor) is a semiconductor chip designed to simulate the excitation and propagation of an impulse.
+**C.1** In this part of the problem we consider an application of nonlinear bistable elements to model biological processes. A neuristor (from neuron and transistor) is a semiconductor chip designed to simulate neuronal excitability and impulse propagation.
 
-To model a simple neuristor, the D.D.P. $\mathcal{E}$ in the circuit in Figure 3 is reduced to $\mathcal{E}' = 12.0\ \text{V}$. The oscillations stop and the system reaches a stationary state. Later the D.D.P. It is suddenly returned to $\mathcal{E} = 15.0\ \text{V}$, and after a time interval $\tau$ (with $\tau < T$) it is set back to $\mathcal{E}'$ (v. The Commission shall adopt implementing acts in accordance with Article 4 (1) of this Regulation.
+To model a simple neuristor, the voltage $\mathcal{E}$ in the circuit of Figure 3 is reduced to the value $\mathcal{E}' = 12.0\ \text{V}$. Oscillations cease and the system reaches a stationary state. Subsequently, the voltage is suddenly restored to the value $\mathcal{E} = 15.0\ \text{V}$, and after a time interval $\tau$ (with $\tau < T$), it is again set to the value $\mathcal{E}'$ (see Figure 4).
 
-You can see that there is a certain critical value $\tau_{\text{crit}}$, and that the system shows a different behavior depending on whether it is $\tau < \tau_{\text{crit}}$ or $\tau > \tau_{\text{crit}}$.
+It can be observed that there exists a certain critical value $\tau_{\text{crit}}$, and the system exhibits different behavior depending on whether $\tau < \tau_{\text{crit}}$ or $\tau > \tau_{\text{crit}}$.
 
-Draw a diagram of the current $I_X(t)$ passing through the nonlinear element $X$ in the case $\tau < \tau_{\text{crit}}$ and in the case $\tau > \tau_{\text{crit}}$.
+Draw a sketch of the graph of the current $I_X(t)$ passing through the nonlinear element $X$ in the case $\tau < \tau_{\text{crit}}$ and in the case $\tau > \tau_{\text{crit}}$.
 
 <!--fig:start-->
 ![[_attachments/IPhO16 - Theory Q2 - Italiano/IPhO16 - Theory Q2 - Italiano_p4_f4.png]]
-*d.d.p. The time-dependent generator*
+*Voltage of the generator as a function of time*
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XCxjzAVI_81_d63t8ky1e5lYhsGOsJqD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2016 — Teorica — Q2 — Quesito 10" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,argomento/elettromagnetismo"></span>

@@ -114,100 +114,95 @@ Se una sostanza solida cristallina viene scaldata fino allo stato liquido e poi 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**DIFERENTIAL THERMOMETRIC METHOD  Part 1: Determining the melting temperature of a crystalline substance**
+**DIFFERENTIAL THERMOMETRIC METHOD — Part 1: Determining the Melting Temperature of a Crystalline Substance**
 
-**A. The following is the list of the parameters of the test:
+**A. Differential Thermometric Method**
 
-To measure the temperature, in this experiment, they are used as temperature sensors of direct polarized silicon diodes, i.e. in conduction. If the current circulating in the diode is constant, the voltage drop through the diode depends on the temperature according to the ratio
+To measure temperature, in this experiment silicon diodes under forward bias (i.e., conducting) are used as temperature sensors. If the current flowing through the diode is constant, the voltage drop across the diode depends on temperature according to the relation
 
 $$V(T) = V(T_0) + \alpha\,(T - T_0) \quad (1)$$
 
-where $V(T)$ and $V(T_0)$ are the voltage drop through the diode at $T$ and at $T_0$ (measured in °C) respectively, and $\alpha$ is the thermal coefficient of the diode voltage. The difference between the two temperatures can be measured by measuring the difference in voltage drop through the two diodes. The difference in voltage drop, called **differential voltage**, can be measured with great precision; therefore the temperature difference can also be determined with great precision. This method is called the **differential thermometric method**.
+where $V(T)$ and $V(T_0)$ are respectively the voltage drop across the diode at temperature $T$ and at ambient temperature $T_0$ (measured in °C), and $\alpha$ is the diode's voltage temperature coefficient. The difference between the two temperatures can be determined by measuring the difference in voltage drops across the two diodes. The difference in voltage drops, called **differential voltage**, can be measured with high precision; thus, the temperature difference can also be determined with high precision. This method is called the **differential thermometric method**.
 
-Figure 1 shows the electrical circuit with the diodes used in this experiment. The diodes D1 and D2 are directly polarized with a 9 V battery through two 10 kΩ R1 and R2 resistors. This circuit keeps the current in the two diodes approximately constant.
+Figure 1 shows a schematic of the electrical circuit with diodes used in this experiment. Diodes D1 and D2 are forward-biased by a 9 V battery through two resistors R1 and R2 of 10 kΩ. This circuit maintains approximately constant current through the two diodes.
 
-If the temperature of the diode D1 is $T_1$ and that of D2 is $T_2$, the equation (1) shall be:
+If the temperature of diode D1 is $T_1$ and that of D2 is $T_2$, from equation (1) we obtain:
 
 $$V_1 = V(T_0) + \alpha\,(T_1 - T_0)$$
 $$V_2 = V(T_0) + \alpha\,(T_2 - T_0)$$
 
-The differential voltage
+The differential voltage is given by
 
 $$\Delta V = V_1 - V_2 = \alpha\,(T_1 - T_2) \quad (3)$$
 
-where $\alpha \approx -2{,}0\;\mathrm{mV/°C}$. The difference in temperature can be found by measuring the differential voltage $\Delta V$.
+where $\alpha \approx -2{,}0\;\mathrm{mV/°C}$. By measuring the differential voltage $\Delta V$, the temperature difference can be determined.
 
-The box with the circuit shown in Figure 2 is used to polarize the diodes. The box contains the two 10 kΩ resistors and measures the differential voltage $\Delta V$ between the diodes D1 and D2.
+To bias the diodes, the box with the circuit shown in Figure 2 is used. The box contains two 10 kΩ resistors and measures the differential voltage $\Delta V$ between diodes D1 and D2.
 
-**B. Part 1: Find the melting temperature of a crystalline substance**
+**B. Part 1: Finding the melting temperature of a crystalline substance**
 
-If a crystalline solid is heated to a liquid state and then allowed to cool, it solidifies at a temperature $T_f$, called ** melting temperature** or the solidification point of the substance. The purpose of this experiment is to determine the melting (solidation) temperature $T_f$ of a pure crystalline substance, with $T_f$ between 50 °C and 70 °C, using both the traditional and differential thermometric method. The amount of substance used in this experiment is about 20 mg.
+When a solid crystalline substance is heated until it reaches the liquid state and then allowed to cool, it solidifies at a temperature $T_f$, called the **melting temperature** or freezing point of the substance. The goal of this experiment is to determine the melting (freezing) temperature $T_f$ of a pure crystalline substance, with $T_f$ between 50 °C and 70 °C, using both the traditional method and the differential thermal analysis technique. The amount of substance used in this experiment is approximately 20 mg.
 
-The following information is provided:
-1. The heat source is a 20W halogen lamp.
-2. The plates are placed on a bachelite plate with a square hole, to which a steel plate is attached; on this sheet there are two small iron plates.
-3. Two small steel plates, each welded with a silicon diode. One plate is used as a reference, the other for the sample. Each plate is placed on a sphere.
-4. Two digital multimeters are used as voltmeters. In the voltage measurement function, the multimeter has an uncertainty of ±2 over the last digit.
-5. The box with the circuit as shown in Figure 2.
-6. A nine-volt battery.
+**Equipment and materials:**
+
+1. The heat source is a 20 W halogen lamp.
+2. The dishes are placed on a bakelite plate with a square hole, through which a steel plate is fixed; two small ferrite magnets are attached to this steel plate.
+3. Two small steel dishes, each with a silicon diode soldered onto it. One dish is used as reference, the other for the sample. Each dish is placed on a magnet.
+4. Two digital multimeters are used as voltmeters. In the voltage measurement function, the multimeter has an uncertainty of ±2 on the last digit.
+5. The box containing the circuit shown in Figure 2.
+6. A 9 V battery.
 7. Electrical wires.
-8. A test tube containing about 20 mg of the substance to be studied.
-9. A timepiece.
+8. A test tube containing approximately 20 mg of the substance to be studied.
+9. A stopwatch.
 10. A calculator.
-11. Graphic paper.
+11. Graph paper.
 
-The test is performed on the test tube.
+**Experiment:**
 
-The calamites are placed in two symmetrical positions on the steel plate. The reference plate and the sample plate are placed on the calamites, empty. Place the plate holder above the lamp. The various elements are connected so that the voltage drop can be measured through the diode D2, i.e. $V_\mathrm{samp}$, and the differential voltage $\Delta V$.
+**1.** The magnets are positioned symmetrically on the steel plate. The reference dish and the sample dish (empty) are placed on the magnets. Position the dish holder above the lamp. Connect all components so that the voltage drop across diode D2, i.e., $V_\mathrm{samp}$, and the differential voltage $\Delta V$ can be measured.
 
-The ambient temperature $T_0$ and the voltage drop $V_\mathrm{samp,0}$ are measured through the D2 diode attached to the sample plate at ambient temperature $T_0$.
+**1.1.** Measure the ambient temperature $T_0$ and the voltage drop $V_\mathrm{samp,0}$ across diode D2 attached to the sample dish, at ambient temperature $T_0$.
 
-The voltage drops $V_{50}$, $V_{70}$, $V_{80}$ on the measuring diode, expected at 50 °C, 70 °C and 80 °C, respectively, shall be calculated.
+**1.2.** Calculate the voltage drops $V_{50}$, $V_{70}$, and $V_{80}$ across the measurement diode, expected at temperatures 50 °C, 70 °C, and 80 °C, respectively.
 
-While both plates are still empty, the lamp is now lit. The evolution of $V_\mathrm{samp}$ is monitored. When the temperature of the sample plate reaches $T_\mathrm{samp} \sim 80\;°C$, turn off the lamp.
+**2.** While both trays are still empty, now turn on the lamp. Observe the evolution of $V_\mathrm{samp}$. When the temperature of the sample tray reaches $T_\mathrm{samp} \sim 80\;°C$, turn off the lamp.
 
-**2.1.** It is expected that $T_\mathrm{samp} \sim 70\;°C$, and then the values of $V_\mathrm{samp}$ and $\Delta V$ are recorded in a table every 10 s or 20 s while the steel plate cools. When the temperature of the plate drops to $T_\mathrm{samp} \sim 50\;°C$, stop measuring.
+**2.1.** Wait until $T_\mathrm{samp} \sim 70\;°C$, then record in a table the values of $V_\mathrm{samp}$ and $\Delta V$ every 10 s or 20 s, as the steel tray cools down. Stop taking measurements when the temperature of the tray drops to $T_\mathrm{samp} \sim 50\;°C$.
 
-**2.2.** On the provided graph paper, a graph of $V_\mathrm{samp}$ shall be drawn according to the time $t$ (Graph 1).
+**2.2.** On the provided graph paper, plot a graph of $V_\mathrm{samp}$ versus time $t$ (Graph 1).
 
-On the provided graph paper, a graph of $\Delta V$ is drawn as a function of $V_\mathrm{samp}$ (Graph 2).
+**2.3.** On the provided graph paper, plot a graph of $\Delta V$ versus $V_\mathrm{samp}$ (Graph 2).
 
-**3.** The substance contained in the test sample shall be placed in the sample plate. The experiment is repeated exactly as indicated in Section 2 above.
+**3.** Place the substance from the test tube into the sample tray. Repeat the experiment exactly as described in the previous section 2.
 
-**3.1.** The data for $V_\mathrm{samp}$ and $\Delta V$ are entered in a table according to the time $t$.
+**3.1.** Enter into a table the data related to $V_\mathrm{samp}$ and $\Delta V$ as functions of time $t$.
 
-On the provided graph paper, a graph of $V_\mathrm{samp}$ shall be drawn according to the time $t$ (Graph 3).
+**3.2.** On the provided graph paper, plot a graph of $V_\mathrm{samp}$ versus time $t$ (Graph 3).
 
-On the provided graph paper, a graph of $\Delta V$ is drawn as a function of $V_\mathrm{samp}$ (Graph 4).
+**3.3.** On the provided graph paper, plot a graph of $\Delta V$ versus $V_\mathrm{samp}$ (Graph 4).
 
-Comparing the graphs obtained in previous sections 2 and 3, the melting temperature of the substance is found.
+**4.** By comparing the graphs obtained in sections 2 and 3, determine the melting temperature of the substance.
 
-**4.1.** Using the traditional method to find $T_f$: by comparing the graphs of $V_\mathrm{samp}$ in terms of $t$ obtained in sections 3 and 2 (Graph 3 and Graph 1), the point where the substance solidifies is marked on Graph 3 and the value of $V_\mathrm{samp}$ corresponding to this point is found; either it is $V_f$. The melting temperature $T_f$ of the substance is then found and an estimate of its uncertainty is given.
+**4.1.** Using the traditional method to find $T_f$: by comparing the plots of $V_\mathrm{samp}$ versus $t$ obtained in sections 3 and 2 (Graph 3 and Graph 1), mark on Graph 3 the point at which the substance solidifies, and determine the value of $V_\mathrm{samp}$ corresponding to this point; let it be $V_f$. Then determine the melting temperature $T_f$ of the substance and give an estimate of its uncertainty.
 
-**4.2.** Using the differential thermometric method for $T_f$: by comparing the graphs of $\Delta V$ in terms of $V_\mathrm{samp}$ obtained in sections 3 and 2 (Graph 4 and Graph 2), the point where the substance solidifies is indicated in Graph 4 and the corresponding value $V_f$ is found. The melting temperature $T_f$ of the substance is then found.
+**4.2.** Using the differential thermometric method to find $T_f$: by comparing the plots of $\Delta V$ versus $V_\mathrm{samp}$ obtained in sections 3 and 2 (Graph 4 and Graph 2), mark on Graph 4 the point at which the substance solidifies, and determine the corresponding value $V_f$. Then determine the melting temperature $T_f$ of the substance.
 
-**4.3.** From the measurement and instrumental uncertainties, the uncertainty on $T_f$ obtained by the differential thermometric method is calculated. The calculations of uncertainties are written and the value of $T_f$ together with its uncertainty is written.
+**4.3.** Starting from measurement and instrumental uncertainties, calculate the uncertainty on $T_f$ obtained via the differential thermometric method. Write down the uncertainty calculations, and finally write the value of $T_f$ together with its uncertainty.
 
 <!--fig:start-->
 ![[_attachments/Problema_sperimentale/Problema_sperimentale_p2_f1.png]]
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1095/2013:
+*Figure 1: diodes D1 D2 circuit*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Problema_sperimentale/Problema_sperimentale_p3_f2.png]]
-The following table shows the number of units in the unit:
+*Figure 2: circuit box*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Problema_sperimentale/Problema_sperimentale_p4_f3.png]]
-The following table shows the number of samples of the samples taken:
+*Figures 3–5: lamp sample plates*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]], [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1NRIR9Vay0pM7kKbGAKl-JZu9F4p0bp6t/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1qFLQuEAdHxmOKPVH4dfFEH55DBQcnCC0/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1qFLQuEAdHxmOKPVH4dfFEH55DBQcnCC0/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Sperimentale — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/thermodynamics,topic/circuits,topic/electromagnetism,argomento/elettromagnetismo,object/resistor,object/battery"></span>

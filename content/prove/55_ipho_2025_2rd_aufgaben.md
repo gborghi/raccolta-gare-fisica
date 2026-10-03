@@ -1263,4 +1263,3 @@ Carta grafica
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
 **Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1FAAPrec45a1_vd5v1dQTrqqyTBcryNi1/view)
-

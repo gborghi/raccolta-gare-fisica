@@ -130,59 +130,52 @@ Supponiamo che, quando la massa di prova è in rotazione alla distanza $L$ dal s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the main types of energy sources used in the production of energy:
+**P1. – Fun in the Gravitron**
 
-The "gravitrone" (Figure 1) is a very popular fair attraction in amusement parks in Australia and the United States.
+The "Gravitron" (Figure 1) is a very popular amusement park ride in Australia and the United States.
 
-The Carnival model (the scheme of which is shown in Figure 2) consists of a large vertical $R = 3\,\text{m}$ radius cylinder which rotates at constant angular speed $\omega$ around its vertical axis. As it turns, passengers hold their back against the inner wall, so friction between their back and the wall keeps them suspended. If the angular velocity is high enough, the floor can be removed without the passenger falling.
+The Carnival model (whose schematic is shown in Figure 2) consists of a large vertical cylinder of radius $R = 3\,\text{m}$ rotating with constant angular velocity $\omega$ about its vertical axis. As it rotates, passengers remain pressed against the inner wall with their backs touching it, so that friction between their back and the wall keeps them suspended. If the angular velocity is high enough, the floor can be removed without the passenger falling.
 
-**a) ** It represents in a scheme the forces acting on a person in the Carnival gravitone.
+**a)** Draw a sketch showing the forces acting on a person inside the Carnival Gravitron.
 
-A mass individual $M = 90\,\text{kg}$ is placed on the gravitron. The static friction coefficient between its back and wall is $\mu_e = 0{,}3$.
+A person of mass $M = 90\,\text{kg}$ is placed in the Gravitron. The coefficient of static friction between their back and the wall is $\mu_e = 0{,}3$.
 
-**b) ** Calculate the minimum angular velocity $\omega_0$ required for the individual not to slide down.
+**b)** Calculate the minimum angular velocity $\omega_0$ required so that the person does not slide downward.
 
-**c) ** An angular velocity $2\omega_0$ is applied to the Carnival gravitone. It describes the movement of the individual and calculates the force of friction acting on him.
+**c)** An angular velocity $2\omega_0$ is applied to the Carnival Gravitron. Describe the motion of the person and calculate the frictional force acting on them.
 
-In the Starship 3000 model (the scheme of which is shown in Figure 3) an inverted cone trunk is used instead of a cylinder, so that people lean on the sloping wall. When the pull is stopped, the user rests with his feet on the ground, but when it rotates at angular speed $\omega$, it rises and floats.
+In the Starship 3000 model (whose schematic is shown in Figure 3), instead of a cylinder, an inverted conical frustum is used, so that people lean against the inclined wall. When the ride is at rest, the user stands with their feet on the ground; however, when rotating with angular velocity $\omega$, they rise and float.
 
-In a traction adjustment test, when the traction rotates at an angular speed $\omega = 3\,\text{rad/s}$, it is observed that when a test mass $m = 5\,\text{kg}$ is placed, as shown in Figure 4, that mass is kept stable in a horizontal circular path at a distance $L = 1{,}5\,\text{m}$ from the measured floor over the wall. The floor radius is $R = 3\,\text{m}$ and the wall forms an angle $\theta = 20°$ with the vertical. The static friction coefficient between the block and the wall is $\mu_e = 0{,}3$.
+In a test of the attraction's adjustment, when it rotates with an angular velocity $\omega = 3\,\text{rad/s}$, it is observed that placing a test mass $m = 5\,\text{kg}$ as shown in Figure 4 causes the mass to remain stable in a horizontal circular trajectory at a distance $L = 1{,}5\,\text{m}$ from the ground, measured along the wall. The radius of the floor is $R = 3\,\text{m}$ and the wall forms an angle $\theta = 20°$ with the vertical. The coefficient of static friction between the block and the wall is $\mu_e = 0{,}3$.
 
-**d) ** Determines, based on $\omega$, $L$, $R$ and $\theta$, the centrifugal acceleration of the test mass when moving in the horizontal path. Calculate its numerical value.
+**d)** Determine, in terms of $\omega$, $L$, $R$ and $\theta$, the centripetal acceleration of the test mass when moving along the horizontal trajectory. Calculate its numerical value.
 
-We're slowly decreasing the angular velocity and we're observing that the test mass stays on the same path until an angular velocity $\omega_{\min}$ from which it starts descending down the wall.
+We gradually decrease the angular velocity and observe that the test mass remains in the same trajectory until an angular velocity $\omega_{\min}$, from which point it begins to descend along the wall.
 
-**e) ** Represents in a scheme the forces acting on the test mass on the Starship 3000 when rotating at the angular speed $\omega_{\min}$.
+**e)** Draw a sketch showing the forces acting on the test mass in the Starship 3000 when rotating at angular velocity $\omega_{\min}$.
 
-**f) ** Determines and calculates the value of $\omega_{\min}$.
+**f)** Determine and calculate the value of $\omega_{\min}$.
 
-Assume that when the test mass is rotating at $L$ from the ground, instead of decreasing angular velocity, it increases.
+Assume that, when the test mass is rotating at a distance $L$ from the ground, instead of decreasing the angular velocity, we increase it.
 
-**g) ** What is the maximum angular velocity $\omega_{\max}$ for which the test mass remains in vertical equilibrium without rising?
+**g)** What is the maximum angular velocity $\omega_{\max}$ for which the test mass remains in vertical equilibrium without rising?
 
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p2_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 1  gravitrone fairground ride photo*
+*Fig. 1 — photo of a gravitron amusement ride*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p2_f2.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 2  Carnival cylindrical drum schema*
+*Fig. 2 — schematic of a carnival cylindrical drum*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p2_f3.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 3  Starship 3000 inverted cone schema*
+*Fig. 3 — schematic of the inverted cone shape of Starship 3000*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2020 prueba_teorica_oaf_2020/2020 prueba_teorica_oaf_2020_p2_f4.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 4  test mass on inclined cone wall*
+*Fig. 4 — test mass on the inclined wall of a conical surface*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/15ate8EXzwnDAYxkN709bf5PLWi3AUii0/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2020 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/block"></span>

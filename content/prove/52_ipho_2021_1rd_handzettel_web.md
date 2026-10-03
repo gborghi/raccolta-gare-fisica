@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2021 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -288,146 +288,11 @@ La concorrenza!
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following points are added:
-Across and down
-This problem deals with all sorts of mostly physical terms.
-
-Solve the following crossword puzzle and find the sought solution word.
-Across: 1 English abbreviation for scanning tunneling microscopy 4 Abbreviation for a laser diode emitting perpendicular to the
-surface 8 Chemical element that sounds similar to a Danish physicist 9 Made with hypotheses
-12 Abbreviation for near infrared 16 Very large
-18 length x width
-20 Collection of weakly interacting
-Particles 21 Graphical interpretation of the derivative of a curve 24 Time rate of change of 25
-25 Read off a speedometer 30 Term
-For the mean distance of the Earth from the Sun 32 Name, going back
-To three people, of a paradox of quantum mechanics 34 One of the
-terminals of a transistor 36 about 86 400 s
-37 Sum of the internal energy of a system and the product of pressure and volume 40 Modern stargazer 43 Unit of illuminance 44 The efficiency is a measure
-of this 45 physician around 1800, namesake of a
-lens shape 46 unit of measurement found on
-Beakers 47 Point in space 48 Locomotion
-with slippage 49 Abbreviation for a form of X-ray spectroscopy 50 Chaining of processes that
-can be used, for example, to amplify a signal
-53 Term for a non-crystalline solid,
-which applies for example to glass 54 Short for memory cards, e.g. In cameras 55 18 x height 58 Alkali
-metal with only one stable isotope 59 States
-described by the Schrödinger equation 63 Intrinsic angular momentum of elementary particles
-65 Small amount of a material to be examined 67 Not very precise 70 time interval
-between two relative solar zenith maxima
-71 Quantity used in room acoustics for the reverberation time, i.e. a fragrant water 72 Repetition 73 Used to measure 36
-75 44 compares the portion of this kind with the total energy expenditure 77 Body with the smallest ratio of surface area to volume 78 Between
-PETA and ZETTA
-Down: 1 transmitter of tensile forces 2 Consists of several atoms 3 Particle detector at CERN 4 Coupling of two states of 59
-5 Element with whose help the second is defined 6 English abbreviation for standard deviation 7 indefinite, going to infinity 8 Namesake of a method in X-ray scattering 10 ferromagnetic heavy metal, main constituent of steel 11 Chemical element that
-is named after a Swedish chemist, also abbreviation for a cardinal direction 13 View "onto" or "through" an object 14 Large-scale experiment 15 Number
-Without sign or direction 16 Unit of magnetic flux 19 To really understand something well 20 Occur frequently in physics and in law
-22 Property of fundamental vibration modes of a system 23 radiation emitting celestial body 26 vibration varying in time and space 27 conserved quantity in collisions 28 cause of changes in motion 29 what a balance should be before use 31 Change
-In thermodynamics, often circular 33 Property of 26, also part of a mixture 35 Unit of magnetic flux density
-So a car brand 38 In this direction lies a pole on the Earth 39 Section of a great circle 41 Common letter for denoting 6 or
-electrical conductivity 42 near-Earth celestial body 51 Unit of current 52 junction point of conductors in circuits
-56 Physics of radiation and light 57 Home 60 Part in 73 also the name of an effect in
-Quantum field theory 61 Required for the distribution of current 62 Now 64 Decided that Pluto is no longer a planet 66 Produced with lenses
-68 Control element of a transistor 69 Chemical symbol for a ferromagnetic transition metal 74 Pressure can be given as the rise height of this element 76 Chemical symbol for the element with atomic number 56
-Solution word
-The solution word is formed from the fields with circles in the appropriate order.
-Sought is a phenomenon for whose explanation a Nobel Prize was awarded long ago.
-Register now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-for the
-Competition!
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2021 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/satellite,object/planet"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -453,6 +318,8 @@ The mass of the Earth is 6,0 $\cdot$ 1024 kg.
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f3.png]]
+
+
 *Glass flask with raw milk (Junior problem)*
 <!--fig:end-->
 
@@ -487,40 +354,9 @@ Orbit di Shuttle, Stazione 1 e 2 attorno alla Terra
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f3.png]]
+
+
 *Folla di vetro con latte greggio (problema junior) *
-<!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (10 points)
-Space taxi
-The company Space-Taxi operates a space shuttle service. Today a shuttle is to transport passengers and cargo
-between two low-Earth orbit space stations. The two space stations move on circular
-orbits with radii of 2.0 $\cdot$ 104 km and 4.0 $\cdot$ 104 km in the same plane around the Earth. The shuttle starts from
-The space station is closer to Earth and accelerates tangentially to orbit for a short time. As a result it reaches
-The orbit of the second space station along an elliptical path, as shown in the adjacent figure. Once it arrives
-There, it performs a second short acceleration maneuver tangential to the orbit,
-In order to match the speed of the space station. This needs to be well planned.
-(a) Determine the speed changes of the shuttle required at each of the two acceleration maneuvers.
-The transfer described can only work if the second space station is at the right position when the shuttle arrives.
-(b) Calculate how long the shuttle's journey takes. Determine the angle by which space station 2 must be ahead of space station 1 on its orbit at the moment the shuttle departs,
-So the shuttle arrives at station two exactly.
-The mass of the Earth is 6.0 $\cdot$ 1024 kg.
-
-
-<!--fig:start-->
-![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f1.png]]
-Orbits of Shuttle, Station 1 and 2 around the Earth
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f3.png]]
-*Glass flask with raw milk (Junior problem) *
 <!--fig:end-->
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
@@ -533,7 +369,7 @@ Orbits of Shuttle, Station 1 and 2 around the Earth
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2021 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/resistor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -590,38 +426,11 @@ Supponiamo che il termistor sia inizialmente a temperatura ambiente.
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (10 points)
-Temperature-dependent resistor
-An NTC thermistor is a temperature-dependent electrical
-resistor that conducts current better at higher temperatures than
-At low ones. The left of the adjacent graphs shows the
-resistance R of a particular thermistor as a function of
-its temperature $\vartheta$. In the right hand graph the heat power P dissipated to
-the surroundings by the resistor at
-an ambient temperature of 22 ̊C is similarly shown as a function of
-the temperature of the resistor.
-Determine the maximum voltage that may be applied to the thermistor so that it does not heat up above 65 ̊C.
-Assume that the thermistor is initially at room temperature.
-
-
-<!--fig:start-->
-![[_attachments/52_IPhO_2021_1Rd_Handzettel_web/52_IPhO_2021_1Rd_Handzettel_web_p3_f2.png]]
-The following table shows the results of the tests:
-<!--fig:end-->
-
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2021 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/pipe-tube,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -882,170 +691,5 @@ Sappiamo che proprio i risultati delle scienze naturali modelleranno in modo sig
 
 Il Ministero federale dell'Istruzione e della Ricerca da molti anni si impegna in numerosi modi per ispirare i giovani al mondo delle scienze naturali.
 Sosteniamo, ad esempio, diverse competizioni per studenti e giovani in ambito STEM — matematica, scienze informatiche, scienze naturali e tecnologia. Le competizioni scientifiche organizzate dall'Istituto Leibniz per l'Insegnamento della Scienza e della Matematica, le ScienceOlympiads e il concorso nazionale per l'ambiente sono parte di queste. Ogni anno circa 10.000 studenti in tutta la Germania, provenienti dalla quinta classe, si iscrivono. Per problemi stimolanti e intricati offrono l'opportunità di mettersi alla prova al di là della vita scolastica quotidiana, scoprire le proprie capacità e svilupparle ulteriormente.
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 4 (10 points)
-Almost as sound
-Sound propagates in a medium with a finite speed, the speed of sound. With a smartphone or computer and
-You can determine the speed of sound in air experimentally quite accurately. How does this work? First find
-out how you can use the smartphone or a computer to generate a sine tone with adjustable frequency and also record the sound pressure amplitude or the loudness of an acoustic signal 1. Then obtain a reasonably
-stable tube at least 50 cm long, for example made of cardboard. Close one end of the tube with a piece of cardboard or something similar. Now hold the microphone to the open
-end of the tube, generate a sine tone and record the acoustic signal measured by the microphone.
-(a) Qualitatively investigate how the sound pressure amplitude measured at the open end of the tube changes with frequency and describe your
-The Commission has already taken a number of measures.
-(b) Theoretically derive a relationship between the observed characteristics of the sound pressure amplitude curve and the speed of sound in the
-Air.
-c) Use this to experimentally determine the speed of sound in air at room temperature. Describe how you proceeded, and estimate the
-uncertainty of your result. Finally, compare the speed of sound you determined with a literature value.
-The first is the 'Junior Problem' (10 points).
-Raw milk in a glass bottle
-The glass bottle shown alongside contains raw milk. If the milk is left at rest for some time, the cream
-of the milk separates out, while the remaining skimmed milk stays at the bottom. You can assume that the total volume of the liquid
-remains constant in the process.
-State whether the pressure at the bottom of the flask decreases, increases or remains the same. Justify your answer.
-Station 1
-Station 2
-Earth
-Shuttle
-0
-100
-200
-300
-400
-500
-20
-30
-40
-50
-60
-70
-$\vartheta$ / ̊C
-R / Ω
-0
-100
-200
-300
-400
-20
-30
-40
-50
-60
-70
-$\vartheta$ / ̊C
-P / mW
-Sketch of the orbits of the space stations
-(dashed) and of the space shuttle.
-Temperature dependence of the thermistor and its heat power dissipation.
-All figures are available in higher resolution on the IPhO website.
-Glass bottle with
-raw milk.
-1 For both purposes there are a number of free smartphone apps or programs for the computer. For tone generation a
-program is needed that allows a manual or automatic variation of the frequency over time, a so-called sweep. On the
-IPhO website we have compiled some suitable apps and offer an audio file with a sweep for download. If it should
-not be possible to perform tone generation and recording simultaneously on one device, use a second device in parallel.
-The European Commission has also adopted a proposal for a directive on the protection of the environment.
-Show your talent!
-The following is a list of the activities:
-If you are a student,
-The IPhO and the PhysicsOlympic in Germany offer you a variety of
-opportunities to engage intensively with
-Physical questions, to experience physics as an exciting
-scientific discipline, to test
-your own limits and
-Not least to meet interesting people.
-For the competition rounds there are
-learning materials and training problems
-that help you deepen your knowledge and
-problem-solving skills. At the seminars you meet many others
-Physics-enthusiastic young people. Taking
-Part is therefore worthwhile in every
-case and regardless of whether you make
-It's into the higher rounds. What
-matters is to take part. Successfully
-completing the first
-Round is already a special achievement and a real distinction.
-So, take heart!
-Teachers
-As a teacher you can
-offer pupils who are particularly capable
-or interested in physics a challenge
-with the problems of the physics
-The Olympics and encourage them towards a deeper
-Engagement with physical topics. The PhysicsOlympiad can thus
-serve as an instrument of individual support. In particular, the problems of the
-1st round are suitable not only for
-The best in a class.
-
-With various offerings the
-PhysicsOlympiad wants to address interested young
-people broadly and lastingly
-inspire them for the natural sciences. To this end there are support offerings such as the Orpheus seminars and
-the accompanying materials for the 1st round,
-with which we want to support you in introducing
-The first is the topic of the PhysicsOlympic.
-So do encourage your pupils
-To take part; for only those who do not take part can lose.
-Schools
-Schools can sharpen their profile by encouraging participation in competitions
-and use these, in the sense
-The school's contribution to the development of the school is a complement to the school's offerings.
-Competitions thus offer a variety of
-The aim of the project is to create a differentiated learning environment for participating pupils.
-In the area of STEM subjects the
-Olympic Games, at least in the later
-rounds, represent a competition aimed at especially motivated
-and high achieving young people. Nevertheless,
-Participation in the entry rounds is not only worthwhile, but also
-can also contribute to a lasting
-The aim of this study is to provide a framework for the study of the impact of STEM on the environment.
-Offerings such as the Orpheus seminars
-allow the support of a
-large number of participants.
-In many federal states, by the way,
-Participation can be recognized as a special learning achievement or subject/seminar paper of your
-pupils for the Abitur.
-Interested in more than physics?
-The IPhO is one of the six national science pupil competitions organised by the IPN  the
-The science olympics. In addition to the selection competitions for the international
-Olympic Games in Biology (IBO), Chemistry
-(IChO) and Physics (IPhO), these include
-The European Science Olympiad (EUSO) and the Federal Environment are also participating in the International Junior Science Olympiad (IJSO).
-Competition (BUW). Together they address
-pupils from the beginning
-of secondary school to after the end
-of school years and, through close
-networking, offer the possibility of a
-The Commission shall, by means of implementing acts, adopt delegated acts in accordance with the opinion of the Committee on Budgets.
-Further information can be found at
-The Commission has also adopted a proposal for a regulation on the implementation of the European Community's programme for the prevention of pollution caused by pollution.
-Many good reasons to take part in the PhysicsOlympiad
-Dear pupils, dear teachers,
-Dear parents,
-Alexander von Humboldt was convinced that ideas and knowledge can only be of use "when they come alive".
-in many minds". As in Humboldt's time, today too it is necessary to awaken and foster early in
-young people the fascination that emanates from science and research.
-We know that precisely the findings of the natural sciences will shape our future significantly and are the foundation of social progress. More than ever
-A scientific understanding is necessary in order to
-correctly assess the consequences of scientific and technical progress
-And to find answers to the great
-Questions of the future.
-The Federal Ministry of Education and Research has for many years been engaged in numerous ways to inspire young people
-People for the World of Natural Sciences.
-We support, for example, various pupil and youth competitions on STEM topics  mathematics, computer science,
-The Commission's proposal for a directive on the protection of workers from the risks of the environment. The science competitions organised by the Leibniz Institute
-for science and mathematics education,
-The ScienceOlympics and the Federal Environment Competition are part of these. Every year, about 10,000 students nationwide from the 5th grade register. For exciting and
-Tricky problems offer the opportunity to challenge oneself beyond
-everyday school life, to discover one's own talents and
-to develop further
-
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
 
 

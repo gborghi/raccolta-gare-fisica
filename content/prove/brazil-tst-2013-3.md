@@ -147,131 +147,72 @@ justify your definition.
 
 <div class="qlang-split" data-lang="it"></div>
 
-1. Collizione elastica tra due particelle
+1. Urto elastico tra due particelle
 
-Quando due particelle interagiscono, i loro movimenti sono determinati dalla legge della forza che
-descrive la loro interazione. Tale interazione può essere locale, come le forze di contatto
-quando due particelle si incollano, o può essere da un campo, come la forza di Coulomb
-tra due particelle cariche.
+Quando due particelle interagiscono, il loro moto è determinato dalla legge della forza che descrive la loro interazione. Tale interazione può essere locale, come le forze di contatto quando due particelle si urtano, oppure può essere dovuta a un campo, come la forza di Coulomb tra due particelle cariche.
 
-Tuttavia, anche senza conoscere i dettagli di questa interazione, possiamo ancora studiare
-alcuni aspetti della collisione. Supponendo che l'interazione sia significativa solo quando
-Le due particelle sono abbastanza vicine, possiamo indagare su cosa succede in giro.
-distanze dalla regione di collisione. Infine, indipendentemente da quali tipi di
-se è coinvolta un'interazione, deve essere tale che la dinamica lineare totale del sistema
-- è conservato.
+Tuttavia, anche senza conoscere i dettagli di tale interazione, possiamo comunque studiare alcuni aspetti dell'urto. Supponendo che l’interazione abbia significato soltanto quando le due particelle sono sufficientemente vicine, possiamo indagare ciò che accade a grandi distanze dalla regione dell’urto. Dopotutto, indipendentemente dal tipo di interazione coinvolta, essa deve essere tale da conservare la quantità di moto lineare totale del sistema.
 
-Supponiamo anche che non sia creata altra particella, e che la collisione sia elastica,
-in senso che non vi è alcun cambiamento dello stato interno delle particelle in questo processo,
-Cioè, la massa del resto di ogni particella è conservata.
+Supporremo inoltre che non venga creata alcun’altra particella, e che l’urto sia elastico nel senso che non vi è alcun cambiamento di stato interno delle particelle in questo processo, ossia la massa a riposo di ciascuna particella è conservata.
 
-Per semplicità, consideriamo che nel laboratorio, dove le cose saranno misurate,
-una delle particelle è inizialmente in riposo (la chiameremo particella 2). L'altra particella
-(particole 1) si muove nella sua direzione, fino a quando non si scontrano e alla fine si disperdono.
+Per semplicità, consideriamo che nel riferimento di laboratorio, dove verranno effettuate le misurazioni, una delle particelle inizialmente sia ferma (la chiameremo particella 2). L’altra particella (particella 1) si muove nella sua direzione, fino a quando non si urtano e vengono infine diffuse.
 
-L'immagine di seguito mostra la situazione e i parametri di base che la descrivono.
+L’immagine qui sotto mostra la situazione e i parametri fondamentali che la descrivono.
 
-La particella 1 ha massa di riposo m_1 e velocità u_1 e si incollida con la particella 2, di massa
-m_2, cioè stazionario nel quadro del laboratorio (u_2=0). Partenza con velocità v_1 e
-v_2, formando angoli $\theta_1$ e $\theta_2$ con la direzione di u_1.
-Questo problema è diviso in 2 parti: una in cui risolviamo il problema in modo classico (1.1) e
-La relazione è stata pubblicata nel corso di una settimana.
+La particella 1 ha massa a riposo m₁ e velocità u₁ ed urta la particella 2, di massa m₂, ferma nel riferimento del laboratorio (u₂=0). Dopo l’urto, le particelle si muovono con velocità v₁ e v₂ formando angoli $\theta_1$ e $\theta_2$ rispetto alla direzione di u₁.
 
-1.1 Distribuzione classica
+Questo problema è suddiviso in due parti: una in cui si risolve il problema classicamente (1.1) e un’altra in cui lo si tratta relativisticamente (1.2).
 
-a) dimostrare che, nel contesto classico, la definizione di collisione elastica di cui sopra
-si traduce in risparmio energetico per il sistema.
+1.1 Urto classico
 
-b) Non è difficile vedere che questo problema può essere risolto in modo molto più semplice nel centro della
-struttura di massa. Fare un diagramma (come quello dell'immagine sopra) per la collisione come visto da
-- Questa cornice. Mostra come le leggi sulla conservazione sono state utilizzate per realizzare questo diagramma. Se lo trovate
-- La Commissione ha deciso di approvare la proposta di risoluzione.
+a) Dimostrare che, nel contesto classico, la definizione di urto elastico menzionata sopra si traduce nella conservazione dell’energia per il sistema.
 
-c) Calcolare le velocità
-e
-delle particelle prima della collisione, nonché
-le velocità
-e
-dopo la collisione, nel centro della massa.
+b) Non è difficile vedere che questo problema può essere risolto in modo molto più semplice nel riferimento del centro di massa. Fare un disegno (come quello nell’immagine sopra) dell’urto visto da questo riferimento. Mostrare come siano state utilizzate le leggi di conservazione per costruire questo disegno. Se lo si ritiene utile, risolvere prima le domande c) e d).
 
-d) Supponiamo che la particella 1 sia dispersa formando un angolo $\phi$ rispetto alla sua velocità iniziale, nella
-centro del quadro di riferimento di massa. C'è qualche restrizione per questo angolo? Da quale angolo
-la particella 2 si disperderà in questo quadro?
+c) Calcolare le velocità delle particelle prima dell’urto, nonché quelle dopo l’urto, nel riferimento del centro di massa.
 
-e) Relazionare l'angolo $\phi$ con gli angoli di dispersione nel telaio di laboratorio, cioè $\theta_1$ e $\theta_2$. - Dare
-le vostre risposte solo in termini di $\phi$, m_1 e m_2.
+d) Supponiamo che la particella 1 sia diffusa formando un angolo $\phi$ rispetto alla sua velocità iniziale, nel riferimento del centro di massa. Esiste qualche vincolo per questo angolo? Di quale angolo sarà diffusa la particella 2 in questo riferimento?
 
-f) Se la particella 1 è dispersa da un certo angolo $\theta_1$, nel quadro del laboratorio, allora quante soluzioni
-per $\phi$ esistono? Si noti che non c'è bisogno di risolvere l'equazione, basta dire quante soluzioni
-- Ci sono.
+e) Collegare l’angolo $\phi$ con gli angoli di diffusione nel riferimento del laboratorio, ossia $\theta_1$ e $\theta_2$. Fornire le risposte in termini esclusivi di $\phi$, m₁ e m₂.
 
-g) Qual è l'angolo di dispersione più grande possibile
-per la particella 1 nel quadro del laboratorio, in
-il caso m_1>m_2? La risposta può dipendere solo dalle masse.
+f) Se la particella 1 viene diffusa di un certo angolo $\theta_1$ nel riferimento del laboratorio, quante soluzioni per $\phi$ esistono? Si noti che non è necessario risolvere l’equazione, basta indicare quante soluzioni esistono.
 
-h) Discutere brevemente i limiti m1>>m2 e m1<<m2.
+g) Qual è l’angolo massimo possibile di diffusione per la particella 1 nel riferimento del laboratorio, nel caso m_1 > m_2? La risposta può dipendere soltanto dalle masse.
 
-i) Mostra che se m_1=m_2 le particelle saranno sempre disperse in modo tale che
+h) Discutere brevemente i limiti m_1 >> m_2 e m_1 << m_2.
+
+i) Dimostrare che se m_1 = m_2 le particelle saranno sempre diffuse in modo tale che
 $\theta_1+\theta_2=90deg$.
 
-1.2 Distribuzione relativistica
-j) Considerare un sistema di particelle di massa di riposo m_i che si muovono arbitrariamente con velocità
-, con
-impatto lineare totale
-, con
-, e totale
-energia
-, per un determinato quadro di riferimento. Mostrare che esiste sempre un
-il quale la dinamica lineare totale del sistema è zero e il
-velocità
-di questo quadro, rispetto al quadro originale, è dato da
+1.2 Diffusione relativistica
+j) Si consideri un sistema di particelle di massa a riposo m_i in moto arbitrario con velocità
+, quantità di moto totale
+, energia totale
+, per un dato riferimento. Dimostrare che esiste sempre un riferimento (centro di momento) per cui il quantità di moto totale del sistema è nullo e la velocità di questo riferimento rispetto al riferimento originale è data da
 
-Si noti che questo è analogo al centro classico della velocità di massa, ma con le altre masse
-sostituito da quelli relativistici (cioè,
+Si noti che questo è analogo alla velocità del centro di massa classica, ma con le masse a riposo sostituite dalle masse relativistiche (cioè
 ).
 
-k) Una particella si muove dritta con velocità
-formazione e angolo $\alpha$ con l'asse x di un telaio
-S. Un secondo osservatore S, che si muove con velocità
-relativa a S, vede la particella
-formando un angolo $\alpha’$ con l'asse x. Mostrami questo.
+k) Una particella si muove di moto rettilineo con velocità che forma un angolo $\alpha$ con l’asse x di un riferimento
+S. Un secondo osservatore S’, che si muove con velocità rispetto a S, vede la particella formare un angolo $\alpha’$ con l’asse x. Dimostrare che
 
-L) Considerare le domande b), c) e d) della parte 1.1, ma con il centro di massa sostituito da
-centro del momento. Quali correzioni devono essere apportate alle risposte?
+l) Si considerino le domande b), c) e d) della parte 1.1, ma sostituendo “centro di massa” con
+“centro di momento”. Quali correzioni devono essere apportate alle risposte?
 
-m) Risolvere di nuovo la domanda e) della parte 1.1, per il centro del momento. Non preoccuparti del modulo.
-La risposta è che tutto ciò che viene inserito in esso dipende solo dalla
-I parametri forniti nel problema, come le velocità nel quadro del laboratorio e il resto
-massa (e, naturalmente, l'angolo $\phi$).
+m) Risolvere nuovamente la domanda e) della parte 1.1, riferendosi al centro di momento. Non preoccuparti della forma della risposta, assicurati soltanto che tutto ciò che vi compare dipenda esclusivamente dai parametri forniti nel problema, come le velocità nel riferimento del laboratorio e le masse a riposo (e ovviamente l'angolo $\phi$).
 
-n) Supponiamo ora che m_1 = m_2. Mostra che l'angolo formato tra i dispersi
-le particelle, nel quadro del laboratorio, sono sempre inferiori a $\pi/2rad$. Verificare che tende a $\pi/2$ nel basso
-limiti di velocità.
+n) Supponiamo ora che m_1 = m_2. Dimostra che l'angolo formato tra le particelle diffuse, nel riferimento del laboratorio, è sempre minore di $\pi/2rad$. Verifica che tale angolo tende a $\pi/2$ nel limite di basse velocità.
 
-O) Ora, supponiamo che una particella sia creata nella collisione. Per esempio, considerate un
-protone (di massa di riposo M) colpisce un altro protone, in riposo. Dalla collisione emerge questi 2
-Protoni e anche un pion, di massa di riposo m. Tale reazione può essere scritta come
-. Supponiamo che l'interazione elettrica tra i protoni possa essere
-- Non sono stata presa in considerazione.
-Qual è la velocità minima v_0 che il protone incidente deve avere in modo che
-Questa collisione è possibile?
+o) Ora supponiamo che una particella venga creata nella collisione. Ad esempio, considera un protone (di massa a riposo M) che urta un altro protone, fermo. Dalla collisione emergono questi due protoni e inoltre un pione, di massa a riposo m. Tale reazione può essere scritta come
+. Si assuma che l'interazione elettrica tra i protoni possa essere trascurata.
+Qual è la velocità minima v_0 che il protone incidente deve avere affinché questa collisione sia possibile?
 
-p) Come definiresti l'efficienza di tale reazione? Con la tua definizione, calcola il
-l'efficienza del processo di cui sopra. Si noti che questa domanda è aperta, perché è necessario
-giustifica la tua definizione.
-
+p) Come definiresti l'efficienza di tale reazione? Con la tua definizione, calcola l'efficienza del processo sopra descritto. Nota che questa domanda è aperta, poiché devi giustificare la tua definizione.
 
 <!--fig:start-->
 ![[_attachments/Brazil-TST-2013-3/Brazil-TST-2013-3_p1_f1.png]]
-*Collisione tra particelle con angoli di dispersione *
+*Collisione tra due particelle con angoli di scattering*
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Special Relativity]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1N7XmgwmvkSR5J5kCVsFpbQWwRLiiMYAF/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2013 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/black-hole,object/piston"></span>

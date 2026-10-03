@@ -588,4 +588,3 @@ come il lettore multimediale VLC o il lettore QuickTime.
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]], [[Magnet (object)|Magnet]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
-

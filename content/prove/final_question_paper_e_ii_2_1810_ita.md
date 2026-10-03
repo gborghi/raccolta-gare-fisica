@@ -40,26 +40,20 @@ Muovi il sensore di luce lungo il binario scegliendo degli opportuni intervalli.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part C  Measurement of the angle $\alpha$ between the laser beam and the water surface**
+**Section C – Measurement of the angle $\alpha$ between the laser beam and the water surface**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Rules of Procedure.
+**Task C1**
 
-Move the light sensor along the track by choosing appropriate intervals. Note the $X$ long shift of the light sensor and the corresponding $Y$ shift of the laser spot. Report these data to Table C1. (Choose the appropriate range in the light intensity meter.)
+Move the light sensor along the rail, selecting appropriate intervals. Record the displacement along $X$ of the light sensor and the corresponding displacement $Y$ of the laser spot. Enter these data into Table C1. (Choose the appropriate range on the light intensity meter.)
 
-The following table shows the total number of points:
+*(1.0 points)*
 
 <!--fig:start-->
 ![[_attachments/FINAL_Question_Paper_E_II_2_1810_ITA/FINAL_Question_Paper_E_II_2_1810_ITA_p4_f1.png]]
-The following is the list of the measurements of the surface area of the laser:
+*Diagram of laser angle measurement*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
@@ -86,21 +80,15 @@ Traccia un opportuno grafico (nominalo Grafico C1) e dalla sua pendenza ricava l
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part C  Measurement of the angle $\alpha$ between the laser beam and the water surface**
+**Section C – Measurement of the angle $\alpha$ between the laser beam and the water surface**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Rules of Procedure.
+**Task C2**
 
-It draws a suitable graph (nominal graph C1) and derives from its slope the angle $\alpha$ in degrees.
+Draw a suitable graph (label it Graph C1) and determine the angle $\alpha$ in degrees from its slope.
 
-The amount of the aid shall be calculated on the basis of the following data:
+*(0.6 points)*
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
@@ -144,38 +132,32 @@ Misura la lunghezza $l_1$ tra l'apertura del sensore di luce e il bordo esterno 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part D  Determination of the surface tension $\sigma$ of the water sample supplied**
+**Section D – Determination of the surface tension $\sigma$ of the provided water sample**
 
-The diffraction theory can be used to express the
+From diffraction theory, the following expression can be derived:
 
 $$\sin\theta = \frac{\lambda_L}{\lambda_w} = \frac{\lambda_L}{2\pi} k \quad (1)$$
 
-where $k = 2\pi / \lambda_w$ is the surface tension wave wave number, $\lambda_w$ and $\lambda_L$ are the surface tension wave and laser wavelengths respectively. The angle $\theta$ is the angular distance between the centre maximum and the first order maximum.
+where $k = 2\pi / \lambda_w$ is the wavenumber of surface waves, and $\lambda_w$ and $\lambda_L$ are respectively the wavelengths of the surface waves and of the laser. The angle $\theta$ is the angular distance between the central maximum and the first-order maximum.
 
-The vibration frequency $f$ of the waves is linked to the wave number $k$ by the expression
+The vibration frequency $f$ of the waves is related to the wavenumber $k$ by the expression:
 
 $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
-where $\sigma$ is the surface tension, $\rho$ is the water density and $q$ is an integer.
+where $\sigma$ is the surface tension, $\rho$ is the density of water, and $q$ is an integer.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+**Task D1**
 
-Measure the length $l_1$ between the light sensor aperture and the outer edge of the water tank. You'll notice a segment where the laser hits the surface of the water. The center of this segment is the laser's incidence point. Measure $l_2$, the distance of this point from the edge. Take $L$ and put it back on your answer sheet.
+Measure the length $l_1$ between the light sensor aperture and the outer edge of the water container. You will observe a segment where the laser strikes the water surface. The center of this segment is the point of incidence of the laser. Measure $l_2$, the distance from this point to the edge. Derive $L$ and record it on your answer sheet.
 
-The amount of the loan shall be calculated on the basis of the following:
+*(0.3 points)*
 
 <!--fig:start-->
 ![[_attachments/FINAL_Question_Paper_E_II_2_1810_ITA/FINAL_Question_Paper_E_II_2_1810_ITA_p5_f2.png]]
-*Skype of surface wave diffraction apparatus*
+*Diagram of the surface wave diffraction apparatus*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 4" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica,object/tank-container"></span>
@@ -208,11 +190,11 @@ $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part D  Determination of the surface tension $\sigma$ of the water sample supplied**
+**Section D – Determination of the surface tension $\sigma$ of the provided water sample**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Task D2**
 
-Measure the distance between the second order maximum above and the lower central maximum. From this calculation $x_1$. Report your data to Table D1. Repeat the procedure by increasing the frequency and choosing appropriate intervals.
+Measure the distance between the maximum of the second-order fringe located above and that located below the central maximum. From this, calculate $x_1$. Record your data in Table D1. Repeat the procedure by increasing the frequency, choosing appropriate intervals.
 
 The reference equations are:
 
@@ -220,15 +202,9 @@ $$\sin\theta = \frac{\lambda_L}{\lambda_w} = \frac{\lambda_L}{2\pi} k \quad (1)$
 
 $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
-The following table shows the results of the calculation of the total cost of the project:
+*(2.8 points)*
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 5" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
@@ -259,25 +235,19 @@ $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part D  Determination of the surface tension $\sigma$ of the water sample supplied**
+**Section D – Determination of the surface tension $\sigma$ of the provided water sample**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Rules of Procedure.
+**Task D3**
 
-Indicate the appropriate variables to construct a suitable graph whose slope provides the value of $q$. Report the values of these variables in Table D2. Draw the graph to find $q$ (mark it as Graph D1). Write the equation (2) using an appropriate integer value for $q$.
+Identify appropriate variables to construct a suitable graph whose slope provides the value of $q$. Record the values of these variables in Table D2. Plot the graph to determine $q$ (label it Graph D1). Write equation (2) using an appropriate integer value for $q$.
 
 Reference equation:
 
 $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
-The amount of the aid shall be calculated on the basis of the following data:
+*(0.9 points)*
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 6" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/oscillations-e-waves,argomento/meccanica"></span>
@@ -308,25 +278,19 @@ $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part D  Determination of the surface tension $\sigma$ of the water sample supplied**
+**Section D – Determination of the surface tension $\sigma$ of the provided water sample**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Treaty.
+**Task D4**
 
-Taking into account the equation (2), identify appropriate variables to construct a suitable graph whose slope provides the value of $\sigma$. Report the values of the variables in Table D3. Draw the graph to find $\sigma$ (mark it as Graph D2). ($\rho = 1000\ \mathrm{kg \cdot m^{-3}}$).
+Considering equation (2), identify suitable variables to construct an appropriate graph whose slope provides the value of $\sigma$. Record the values of the variables in Table D3. Plot the graph to determine $\sigma$ (label it Graph D2). ($\rho = 1000\ \mathrm{kg \cdot m^{-3}}$)
 
 Reference equation:
 
 $$f = q \sqrt{\frac{\sigma}{\rho}} \frac{k^{3/2}}{2\pi} \quad (2)$$
 
-The following points shall be added:
+*(1.2 points)*
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 7" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
@@ -369,15 +333,15 @@ Riporta nella Tabella E1 i dati registrati in ogni intervallo (posizione del vib
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part E  Determination of the attenuation constant $\beta$ and viscosity $\eta$ of the liquid **
+**Section E – Determination of the attenuation constant $\beta$ and the viscosity $\eta$ of the liquid**
 
-Surface tension waves are damped by the viscosity of the water. The wavelength, $h$, decreases exponentially with the increase in the distance, $s$, measured from the vibrator:
+Surface tension waves are damped due to the viscosity of water. The wave amplitude, $h$, decreases exponentially with increasing distance, $s$, measured from the vibrator:
 
 $$h = h_0 \, e^{-\beta s} \quad (3)$$
 
-where $h_0$ is the wavelength in the vibrator position and $\beta$ is the attenuation constant.
+where $h_0$ is the wave amplitude at the position of the vibrator and $\beta$ is the attenuation constant.
 
-Experimentally, the amplitude $h$ is related to the electrical voltage $V_{\mathrm{rms}}$ applied to the vibrator by the expression:
+Experimentally, the amplitude $h$ is related to the electric voltage $V_{\mathrm{rms}}$ applied to the vibrator by the expression:
 
 $$h \propto \sin(V_{\mathrm{rms}}) \quad (4)$$
 
@@ -387,19 +351,13 @@ $$\beta = \sqrt{\frac{2\eta k^2}{\rho \omega}} \quad (5)$$
 
 where $\eta$ is the viscosity of the liquid.
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Task E1**
 
-Report in Table E1 the recorded data for each interval (vibrator position and corresponding value of $V_{\mathrm{rms}}$ to keep the reading of the light intensity meter constant).
+Record in Table E1 the data collected at each interval (position of the vibrator and corresponding value of $V_{\mathrm{rms}}$ to keep the luminous intensity meter reading constant).
 
-The following table shows the total number of points:
+*(1.9 points)*
 
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 8" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
@@ -430,25 +388,19 @@ $$h = h_0 \, e^{-\beta s} \quad (3)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part E  Determination of the attenuation constant $\beta$ and viscosity $\eta$ of the liquid **
+**Section E – Determination of the damping constant $\beta$ and viscosity $\eta$ of the liquid**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Task E2**
 
-Draw an appropriate graph (mark it as Graph E1) and determine the attenuation constant $\beta$ from its slope.
+Draw a suitable graph (label it Graph E1) and determine the damping constant $\beta$ from its slope.
 
 Reference equation:
 
 $$h = h_0 \, e^{-\beta s} \quad (3)$$
 
-The following table shows the total number of points:
+*(1.0 point)*
 
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2015 — Sperimentale — E2 — Quesito 9" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/oscillations-e-waves,topic/fluid-mechanics,argomento/meccanica"></span>
@@ -479,21 +431,18 @@ $$\beta = \sqrt{\frac{2\eta k^2}{\rho \omega}} \quad (5)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part E  Determination of the attenuation constant $\beta$ and viscosity $\eta$ of the liquid **
+**Section E – Determination of the attenuation constant $\beta$ and viscosity $\eta$ of the liquid**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Task E3**
 
-Calculate the viscosity $\eta$ of the water sample supplied.
+Calculate the viscosity $\eta$ of the provided water sample.
 
 Reference equation:
 
 $$\beta = \sqrt{\frac{2\eta k^2}{\rho \omega}} \quad (5)$$
 
-The amount of the loan shall be calculated on the basis of the following:
+*(0.3 points)*
 
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Ub_cydQpGmL2Nd7dMI0tfOl_LSlNmzlp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
+
+

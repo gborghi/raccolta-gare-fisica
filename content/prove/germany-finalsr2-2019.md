@@ -423,7 +423,7 @@ The diagram of the five resistance areas with the values of the resistance is an
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2019 '' — Quesito 7" data-tags="kg/prova,paese/Germany,comp/Germany,object/resistor,object/capacitor,object/inductor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -470,33 +470,6 @@ Il grafico seguente mostra l'ampiezza $I$ del corrente nel circuito come funzion
 Quale dei seguenti diagrammi di circuito rappresenta correttamente il circuito utilizzato?
 
 Il grafico $I(f)$ e il quattro schemi di circuiti sono figure embedded nel PDF; fare riferimento alla pagina PDF originale.)*
-
-
----
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
-
-A resistor with resistance value $R$, a capacitor $C$ and a coil of inductivity $L$ are connected to an alternating voltage source. The amplitude of the AC voltage is $U$ and the components can be assumed to be ideal.
-
-The following graph shows the amplitude $I$ of the current strength in the circuit as a function of the frequency $f$ of the sine-shaped AC voltage.
-
-Which of the following diagrams correctly represents the circuit used?
-
-** Problem (English translation).** A resistor with resistance value $R$, a capacitor with capacitance $C$ and a coil with inductance $L$ are connected to an alternating voltage source. The amplitude of the alternating voltage is $U$ and the components can be assumed to be ideal.
-
-The following graph shows the amplitude $I$ of the current in the circuit as a function of the frequency $f$ of the sinusoidal alternating voltage.
-
-Which of the following circuit diagrams correctly represents the circuit used?
-
-The graphic $I(f)$ and the four diagrams of the circuits are embedded in the PDF; make reference to the original PDF page.) *
 
 
 ---

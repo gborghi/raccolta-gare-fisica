@@ -670,6 +670,7 @@ Circuito con resistenza R
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1JjvQyYTonjJSfs1wMyFAqHOXlPDDx-xx/view)
 
+[[Esame-Secondo-Turno-2019-Olimpiadi-di-Fisica__Q13]]
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2019 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/battery"></span>

@@ -5,11 +5,13 @@
 // - emits ./quartz/static/quesiti.json (the 'tipo: quesito' subset) for /cerca
 import { promises as fs } from "node:fs"
 import { readdirSync, readFileSync, existsSync } from "node:fs"
+import { nfc, nfcIndex } from "./scripts/vault-paths.mjs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
+import { nationInfo } from "./scripts/nation.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -135,36 +137,7 @@ function flagFor(country, comp, pdf) {
   return FLAGS[country] || "🌍"
 }
 
-// country (Italian/variant name as stored) -> { ISO-3166-1 alpha-2 (lowercase, for
-// flagcdn), English name (tooltip) }. Windows can't render flag EMOJI (🇮🇹 shows as
-// "IT"), so the tables use flagcdn images instead. International/multi-country comps
-// have no single flag -> iso "" -> globe.
-const COUNTRY = {
-  Italia: ["it", "Italy"], Brasile: ["br", "Brazil"], Brasil: ["br", "Brazil"],
-  India: ["in", "India"], Singapore: ["sg", "Singapore"], Canada: ["ca", "Canada"],
-  USA: ["us", "United States"], Russia: ["ru", "Russia"], Spagna: ["es", "Spain"],
-  Spain: ["es", "Spain"], UK: ["gb", "United Kingdom"], Germania: ["de", "Germany"],
-  Germany: ["de", "Germany"], Deutschland: ["de", "Germany"], Argentina: ["ar", "Argentina"],
-  Svizzera: ["ch", "Switzerland"], Australia: ["au", "Australia"], Colombia: ["co", "Colombia"],
-  Giappone: ["jp", "Japan"], Kazakhstan: ["kz", "Kazakhstan"], Indonesia: ["id", "Indonesia"],
-  Portogallo: ["pt", "Portugal"], "Hong Kong": ["hk", "Hong Kong"],
-  Brazil: ["br", "Brazil"], Estonia: ["ee", "Estonia"], China: ["cn", "China"],
-  Taiwan: ["tw", "Taiwan"], Romania: ["ro", "Romania"], Hungary: ["hu", "Hungary"],
-  Azerbaijan: ["az", "Azerbaijan"], Portugal: ["pt", "Portugal"],
-}
-// -> { iso, name }. iso "" means render the globe (international / multi-country / unmapped).
-function nationInfo(country, comp, pdf) {
-  const p = (pdf || "").toLowerCase()
-  const e = COUNTRY[country]
-  // comp_code IPhO is also the German selection (paese/Germania). A mapped country
-  // keeps its flag; only a real international paper (path, or no single country) is a globe.
-  const pathIntl = /\/ipho\/|\/eupho\//.test(p)
-  const nameIntl = /^intern/i.test(country || "")
-  const compIntl = (comp === "IPhO" || comp === "EuPhO") && !e
-  const intl = pathIntl || nameIntl || compIntl
-  if (e && !intl) return { iso: e[0], name: e[1] }
-  return { iso: "", name: intl ? "International" : (country || "International") }
-}
+// country -> { iso, name } for the flag column: see scripts/nation.mjs (nationInfo).
 
 // Wikilinks are rewritten to prove/<stem> before the list is extracted, but the
 // flag maps are keyed by the file basename. Look up both, or every row is a globe.
@@ -182,7 +155,7 @@ function sluggify(s) {
   // v5: OFM resolves wikilinks to LOWERCASE hrefs while pages emit at their file
   // path — lowercase here so emitted filenames + every computed href agree (the
   // site's `__QNN` uppercase atoms would otherwise 404 all internal links/graph).
-  return s.split("/").map((seg) =>
+  return nfc(s).split("/").map((seg) =>
     seg.replace(/\s/g, "-").replace(/&/g, "-and-").replace(/%/g, "-percent").replace(/\?/g, "").replace(/#/g, "").toLowerCase()
   ).join("/").replace(/\/$/, "")
 }
@@ -514,7 +487,9 @@ async function main() {
   try {
     ICON_MANIFEST = JSON.parse(await fs.readFile(path.join(ROOT, "quartz", "static", "concept-icons", "manifest.json"), "utf8"))
   } catch { /* no icons yet */ }
-  const files = await walk(VAULT)
+  // NFC everywhere (keys, stems, output names); VAULT_REAL maps back to the on-disk name.
+  const { rels: files, real: VAULT_REAL } = nfcIndex(await walk(VAULT))
+  const vaultPath = (rel) => path.join(VAULT, VAULT_REAL.get(rel) ?? rel)
   // pre-pass: stem (basename w/o .md) -> flag, so concept-list items (which link by
   // stem) can show the right flag without re-reading the target note.
   const stemFlag = {}      // stem -> ISO-2 code for flagcdn ("" = globe)
@@ -561,7 +536,7 @@ async function main() {
   }
   for (const rel of files) {
     if (!rel.endsWith(".md")) continue
-    const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
+    const raw = await fs.readFile(vaultPath(rel), "utf8")
     const fm = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/)
     if (!fm) continue
     const g = (k) => (fm[1].match(new RegExp("^" + k + ":\\s*(.+)$", "m")) || [, ""])[1].trim().replace(/^["']|["']$/g, "")
@@ -569,11 +544,11 @@ async function main() {
     // stash secondary translation siblings by their default's stem, then skip
     const tipoM = fm[1].match(/^tipo:\s*(.+)$/m)
     if (tipoM && tipoM[1].trim() === "quesito-translation") {
-      const of = (fm[1].match(/^translation_of:\s*(.+)$/m) || [, ""])[1].trim()
+      const of = nfc((fm[1].match(/^translation_of:\s*(.+)$/m) || [, ""])[1].trim())
       const lang = (fm[1].match(/^lang:\s*(.+)$/m) || [, ""])[1].trim()
       if (of) {
         const body = raw.slice(fm[0].length).replace(/^\r?\n/, "")
-        const { mtimeMs: mtime } = await fs.stat(path.join(VAULT, rel))
+        const { mtimeMs: mtime } = await fs.stat(vaultPath(rel))
         addSibling(siblings, of, { lang, body, mtime, rel }, sibStats)
       }
       continue
@@ -648,7 +623,7 @@ async function main() {
         skipProvePage = true  // prove atom OR a parent stem that has atoms -> emitted by container pass
       }
     }
-    const src = path.join(VAULT, rel)
+    const src = vaultPath(rel)
     // v5: emit at the lowercase slug path so pages match OFM's lowercase wikilink
     // hrefs (applies to both .md notes and _attachments assets).
     const dest = path.join(CONTENT, sluggify(rel.split(path.sep).join("/")))
@@ -759,7 +734,7 @@ async function main() {
     let title = stem, ptags = ["graph/prova"]
     const parentRel = proveParents.get(stemSlug)
     if (parentRel) {
-      const praw = await fs.readFile(path.join(VAULT, parentRel), "utf8")
+      const praw = await fs.readFile(vaultPath(parentRel), "utf8")
       const pf = parseFrontmatter(praw)
       if (pf.data.title) title = pf.data.title
       const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
@@ -768,7 +743,7 @@ async function main() {
     }
     const blocks = []
     for (const a of atoms) {
-      const raw = await fs.readFile(path.join(VAULT, a.rel), "utf8")
+      const raw = await fs.readFile(vaultPath(a.rel), "utf8")
       const pf = parseFrontmatter(raw)
       // atom title: frontmatter title, else atom body's own H1 (captured before
       // it's stripped below), else fall back to the raw atomId.

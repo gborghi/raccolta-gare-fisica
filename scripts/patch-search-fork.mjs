@@ -19,6 +19,8 @@
 //      `.frag` so the href builder can use it.
 //   3. Result-tile href: append the atom fragment, so a hit opens
 //      prove/<stem>#<atomId> instead of just prove/<stem>.
+//   (1 also marks <html data-search-index="mobile"> when the truncated index is used,
+//    so the result count can say "almeno N".)
 //
 // Idempotent: guarded by the SENTINEL comment (no-ops on a second run).
 // Drift-guarded: if ANY anchor string is not found verbatim, exits 1 without
@@ -53,7 +55,12 @@ const FETCH_REPLACEMENT = `async function fetchContentIndex(): Promise<Record<st
     const prefix = "../".repeat((bodySlug.match(/\\//g) || []).length);
     try {
       const r = await fetch(prefix + "static/contentIndexMobile.json");
-      if (r.ok) return (await r.json()) as unknown as Record<string, Item>;
+      if (r.ok) {
+        const mobile = (await r.json()) as unknown as Record<string, Item>;
+        // truncated tier: the boolean patch reads this to label counts "almeno N"
+        document.documentElement.dataset.searchIndex = "mobile";
+        return mobile;
+      }
     } catch {
       // fall through to the desktop index
     }

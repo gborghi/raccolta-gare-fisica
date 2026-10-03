@@ -76,52 +76,44 @@ xmax =
 Theory
 A1-1
 Italian (Italy)
-The following is the list of the countries of the European Union:
-Part A. The following is the list of the countries of the European Union:
+Planetary Physics (10 points)
+Part A. Oceanic Ridge (5.0 points)
+
 A.1 (0.8 pt)
+Fx =
 
-Fx=
-
-This force acts on the right plate towards (to be pointed out):
+This force acts on the right plate toward (to be selected):
 □ left
 □ right.
-A.2 (0.6 pt)
 
+A.2 (0.6 pt)
 ρ(T) $\approx$
 
-k=
+k =
 
 A.3 (1.1 pt)
-
-D=
+D =
 
 A.4 (1.6 pt)
-
 $F\approx$
 
 A.5 (0.9 pt)
-
-τ=
+τ =
 
 Theory
 A1-2
 Italian (Italy)
-Part B. Seismic waves in a layered medium (5.0 points)
-B.1 (1.5 pt)
+Part B. Seismic Waves in a Stratified Medium (5.0 points)
 
-x1(θ0) =
+B.1 (1.5 pt)
+x₁(θ₀) =
 
 B.2 (1.5 pt)
-
 ε(x) =
 
 B.3 (2.0 pt)
+xₘₐₓ =
 
-The value of the product shall be:
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view)
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Oscillations & Waves]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DjZmHLQ6HeSFWJ0TutOUaRJXeSrui-NH/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view)
+

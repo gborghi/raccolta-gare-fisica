@@ -192,174 +192,123 @@ passaggi di misurazione nelle tabelle.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Experiments
+Experiment
 Q1-1
-Italian (Italy)
+English (United States)
 Non-ideal capacitors (10 points)
 This experiment is designed to study the properties of capacitors.
-The capacitance of the capacitor (which in this text will always mean differential capacity) can be
-found by its charging process graph based on its potential difference U(t)
-through the R1 resistor. Depending on the circuit, the relationship between the current of charge must be found
-the capacitor and the potential difference, I(U), and use it to determine the capacity:
-C(U) = dq
-DU= Idt
-dU= I(U)
-dU/dt.
+The capacitance of the capacitor (which in this text will always mean differential capacitance) can be determined from its graph showing the charging process as a function of its potential difference U(t), measured across resistor R1. Depending on the circuit configuration, it is necessary to find the relationship between the charging current of the capacitor and the potential difference, I(U), and use it to determine the capacitance:
+C(U) = dq/dU = I dt/dU = I(U) / (dU/dt).
 (1)
-The electrical circuit implemented in this experiment is shown in Fig. 1.1. The S1 switch on the board can be used to switch between C1 and C2 capacitors. The central position of the switch
-It has no role in this experiment and should never be used.
-The following information is provided: Electrical circuit of the experiment.
-Note: one of the sample capacitors contains a dielectric with dielectric permittivity that depends on the rate of change of the capacitor potential difference. To keep this
-The capacitor shall be capable of operating at a maximum speed of at least one minute.
-The power output of the system should be from 9 V to -9 V, while the power difference measurements
-Negatives should be made when the capacitor is charged from -9 V to 9 V. The measured capacity may be affected by the previous condition of the capacitor, therefore the capacitor
-The measurement shall be carried out at the start potential difference for at least 10 seconds before the measurement.
-Part A. The following conditions shall apply:
-Measure and graphically represent the capacitance of C1 and C2 capacitors relative to the difference in
-The potential at room temperature (draw all curves together on the same axis).
+The electrical circuit implemented in this experiment is shown in Fig. 1.1. The switch S1 on the board can be used to toggle between capacitors C1 and C2. The central position of the switch has no role in this experiment and must never be used.
+Figure 1.1. Electrical circuit of the experiment.
+Attention: one of the reference capacitors contains a dielectric whose permittivity depends on the rate of change of the capacitor's voltage. To keep this rate as stable as possible, when measuring at positive voltages, the capacitor should be charged from 9 V to -9 V; conversely, measurements at negative voltages should be performed when the capacitor is charged from -9 V toward 9 V. The measured capacitance may be influenced by the capacitor's prior state; therefore, the capacitor must be held at its starting voltage for at least 10 s before measurement.
 
-Experiments
+Part A. Capacitors at Room Temperature (4.0 points)
+
+Measure and graphically represent the capacitance of capacitors C1 and C2 as a function of voltage at room temperature (plot all curves together on the same axes).
+
+Experiment
 Q1-2
-Italian (Italy)
+Italiano (Italy)
 A.1
-Measure and construct the graphs C1(U) and C2(U) in the range from -7 V to 7 V. In the paper
-For the answer, write the values of C1 and C2 at 0 V, 3 V, and 6 V. Note the formula used to calculate the capacity from raw measurements. Please also write the ID of the
-the temperature and the temperature.
+Measure and plot C1(U) and C2(U) in the range from -7 V to 7 V. In the answer sheet, write down the values of C1 and C2 at 0 V, 3 V, and 6 V. State the formula used to calculate capacitance from raw measurements. Also write down the card ID and room temperature.
 2.3pt
+
 A.2
-Find the Umax change potential difference, at which the capacitor capacity shows the relative change faster than the potential difference (dC(U)
-C(U)dU). In the reply sheet write as capacitor (C1 or C2)
-The rate of change is the fastest and the potential difference is the
-I'm not going to lie.
+Determine the voltage Umax change at which the capacitor's capacitance exhibits the fastest relative variation with respect to voltage (dC(U)/dU).
+dC(U)dU). On the answer sheet, write which capacitor (C1 or C2) exhibits the faster rate of change and the potential difference at which this is observed.
 0.5pt
+
 A.3
-What are the q1 and q2 loads of the C1 and C2 capacitors at 6 V?
+What are the charges q1 and q2 on capacitors C1 and C2 at 6 V?
 1.2pt
-Part B. The NTC thermistor shall be measured at the level of the NTC thermistor.
-Measuring the Difference
+
+Part B. Calibration of the NTC thermistor (1.0 point)
+Measure the potential difference
 B.1
-Find the constant of the NTC R0 thermistor.
+Determine the constant of the NTC thermistor R0.
 1.0pt
-Part C. Condensers at different temperatures (3.0 points)
+
+Part C. Capacitors at different temperatures (3.0 points)
 C.1
-Measuring and constructing the C1(U) and C2(U) graphs in the range from -7 V to 7 V at
-temperature di 40 $^{\circ}C$, 65 $^{\circ}C$ e 85 $^{\circ}C$.
+Measure and plot the graphs C1(U) and C2(U) in the range from -7 V to 7 V at temperatures of 40 $^{\circ}C$, 65 $^{\circ}C$, and 85 $^{\circ}C$.
 1.3pt
+
 C.2
-The graphs C1(T) and C2(T) are constructed at 0 V and 6 V depending on the temperature from the
-the ambient temperature is up to 85 $^{\circ}C$.
+Plot the graphs C1(T) and C2(T) at 0 V and 6 V as a function of temperature from room temperature up to 85 $^{\circ}C$.
 0.5pt
+
 C.3
-In the reply sheet write the ratio C(85 C)/C(40 C) for both
-C1 and C2 capacitors at 0 V and 6 V.
+On the answer sheet, write the ratio C(85 °C)/C(40 °C) for both capacitors C1 and C2 at 0 V and 6 V.
 1.2pt
-The following is the list of the following: Sources of measurement errors (2.0 points)
-The previous activities in this experiment were performed under long initial load conditions.
-When shorter charging times (0.1 - 10 s) are observed, there may be several sources of error:
-1. Dispersion current.
-2. Polarization properties of the dielectric means of the capacitor which can be explained by
-the dependence of dielectric permittivity on the time scale of the process.
-Warning: the thermal insulating material can absorb moisture from the air and become conductive. Remove it when measuring losses.
-Determine the main source of error for measuring C1 and C2, since the dispersion of the capacitor and the input currents of the voltmeter depend on the potential difference, estimate these
-errors at a potential difference close to 9 V. Decide which auxiliary measurements and under what conditions
-The Commission is not prepared to accept the proposal. In your answers to the following questions D.1
 
-Experiments
-Q1-3
-Italian (Italy)
-and D.2, you could indicate the conditions of your measurements, the quantities you measure and the conclusions you draw.
-based on your measurements, as shown in the following tables.
-Note: these are only examples of how to describe your measurements schematically; you need to determine the relevant conditions of the measurements yourself.
-Examples of how the answers to questions D.1 and D.2 should be written:
+Part D. Sources of measurement error (2.0 points)
+The previous activities in this experiment were carried out under conditions of long initial charging.
+When shorter recharge times (0.1 – 10 s) are observed, additional sources of error may arise:
+1. Leakage current.
+2. Dielectric polarization properties in the capacitor’s dielectric material, which can be explained by the dependence of the dielectric permittivity on the timescale of the process.
+Warning: The thermal insulating material may absorb moisture from the air and become conductive. Remove it when measuring losses.
+Determine the main source of error in measuring C1 and C2, since capacitor leakage and voltmeter input currents depend on the potential difference; estimate these errors at a potential difference close to 9 V. Decide which auxiliary measurements must be carried out and under what conditions, in order to answer these questions.
+
+In your answers to the following questions D.1 and D.2, you should indicate the conditions of your measurements: which quantities you measure and what conclusions you draw based on those measurements, as illustrated in the following tables.
+
+Note: These are only examples of how to briefly describe your measurements; you must determine the relevant measurement conditions yourself.
+
+Examples of how answers to questions D.1 and D.2 should be written:
+
 Example 1.
-To show that the rate of change of the C1 potential difference connected to the
-measurement is faster at 9 V than at 0 V.
-Possible positions S1: C1, C2
-The following is the list of the types of connectors that can be used:
-The initial settings:
-The following items are added:
-The following information shall be provided:
-C1
-9V
-The procedure:
-Number of the
-of the pass
-The following items are added:
-The following information shall be provided:
-Duration, s
-Variable
-measured
-1
-C1
-Free
-♪ I'm not going to be able to do it ♪
-2
-C1
-GND
-3
-C1
-Free
-♪ I'm not going to be able to do it ♪
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+To show that the rate of change of the potential difference across C1 connected to the measurement circuit is faster at 9 V than at 0 V.
+Possible positions for S1: C1, C2
+Possible IN connector settings: +9 V, -9 V, GND, Free
+Initial settings:
+Position S1 | IN connector
+C1 | 9 V
 
-Experiments
-Q1-4
-Italian (Italy)
-Example two.
-To show that the change rate of the C1 to 9 V potential difference is greater than the
-average change rate of the difference in power starting at 0 V per 1000 seconds.
-Possible positions S1: C1, C2
-The following conditions shall apply:
-The initial settings:
-The following items are added:
-The following information shall be provided:
-C1
-9V
-The procedure:
-Number of the
-of the pass
-The following items are added:
-The following information shall be provided:
-Duration, s
-Variable
-measured
-1
-C1
-Free
-♪ I'm not going to be able to do it ♪
-2
-C1
-GND
-3
-C1
-Free
-uC
-4
-C1
-Free
-1000
-5
-C1
-Free
-uC
-Verifica: |duC(t)|/dt|1 > (uC|3 $-uC|5)/1000$
+Process:
+Step number | Position S1 | IN connector | Duration, s | Measured variable
+1 | C1 | Free | — | |duC(t)|/dt|
+2 | C1 | GND | — | |duC(t)|/dt|
+3 | C1 | Free | — | |duC(t)|/dt|
+
+Verification: |duC(t)|/dt|₁ > |duC(t)|/dt|₃
+
+Experiment
+Q1–4
+English (United States)
+Example 2.
+To demonstrate that the rate of change of the potential difference across C1 at 9 V is greater than the average rate of change of the potential difference starting from 0 V over 1000 seconds.
+
+Possible positions for S1: C1, C2
+Possible IN connections: +9 V, -9 V, GND, Free
+
+Initial settings:
+Position S1 | IN connector
+C1 | +9 V
+
+Process:
+Step number | Position S1 | IN connector | Duration, s | Measured variable
+1 | C1 | Free | |duC(t)|/dt
+2 | C1 | GND | |
+3 | C1 | Free | uC
+4 | C1 | Free | 1000 | |
+5 | C1 | Free | uC
+
+Verification: |duC(t)|/dt|₁ > (uC|₃ $-uC|5)/1000$
+
 D.1
-What is the main source of error for measuring C1(9 V)? Write the
-measurement steps in the tables.
-1.0pt
+What is the main source of error in measuring C1(9 V)? Write down the measurement steps in the tables.
+1.0 pt
+
 D.2
-What is the main source of error for measuring C2(9 V)? Write the
-measurement steps in the tables.
-1.0pt
+What is the main source of error in measuring C2(9 V)? Write down the measurement steps in the tables.
+1.0 pt
 
 <!--fig:start-->
-**p.1** — Circuito elettrico dell'esperimento sui condensatori
+**p.1** — Electrical circuit of the capacitor experiment
 ![[_attachments/exam-experiment-Q1-italiano_2/exam-experiment-Q1-italiano_2_p1_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Electrostatics]], [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fkNfJiqy80lGmRLp9aPLtRs0I35PbrfG/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1XQJ924hStEhE452AhCosejFW74UsiSbM/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1XQJ924hStEhE452AhCosejFW74UsiSbM/view)
+
+

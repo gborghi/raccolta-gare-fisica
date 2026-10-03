@@ -53,35 +53,33 @@ rmin/r0 =
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**Scaling laws (8 points)**
 
 Theory
 A3-1
 Italian (Italy)
-Readings of scale (8 points)
-Part A. One Spaghetti (2.0 points)
+Scaling laws (8 points)
+
+Part A. One 'Spaghetto' (2.0 points)
 A.1 (2.0 pt)
 
 $l'$ =
 
-Part B. Sand castle (2,0 points)
+Part B. Sandcastle (2.0 points)
 B.1 (2.0 pt)
 
 Ff =
 
-Part C. The following is the list of the countries of the European Union.
+Part C. Interstellar travel (2.0 points)
 C.1 (2.0 pt)
 
 $d'/d=$
 
-The following is the list of the following: The feeling of sinking (2.0 points)
+Part D. The sensation of sinking (2.0 points)
 D.1 (2.0 pt)
 
-The following is the list of the following:
+rmin/r0 =
 
-**Topic:** [[Order-of-Magnitude Estimation]], [[Gravitation]], [[Elasticity & Materials]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gtuQw-V6S0EZXp5Owbybc4ex4htgbpKo/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jvO9AqGyzqjTS9_rYg5eJKpajN4UzDpq/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jvO9AqGyzqjTS9_rYg5eJKpajN4UzDpq/view)
+
+

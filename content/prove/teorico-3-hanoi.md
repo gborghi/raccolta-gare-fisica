@@ -42,26 +42,13 @@ processo?
 <div class="qlang-split" data-lang="en"></div>
 
 1. Variation of pressure with altitude
-1.1. Suppose the air temperature is uniform and equal to $T_0$. Write it down.
-The atmospheric pressure $p$ is expressed as a function of the altitude $z$.
-1.2. Assume that the temperature of the atmosphere depends on the altitude according to the
-Report by the Commission
-$$T(z) = T(0) - \Lambda z$$
-where $\Lambda$ is a constant, called the rate of fall in atmospheric temperature (the
-The vertical temperature gradient is $-\Lambda$).
-1.2.1. Write the atmospheric pressure expression $p$ according to the height
-$z$.
-1.2.2. When the density of air increases with altitude a process occurs
-It's called free convection. For which values of $\Lambda$ this occurs
-I'm going to trial?
+1.1. Assume that the air temperature is uniform and equal to $T_0$. Write the expression for atmospheric pressure $p$ as a function of altitude $z$.
+1.2. Assume that the atmospheric temperature depends on altitude according to the relation:
+$$T(z) = T(0) - \Lambda z$$, where $\Lambda$ is a constant, called the atmospheric temperature lapse rate (the vertical temperature gradient is $-\Lambda$).
+1.2.1. Write the expression for atmospheric pressure $p$ as a function of height $z$.
+1.2.2. When air density increases with altitude, a process known as free convection occurs. For what values of $\Lambda$ does this process occur?
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ubxtlhgYNOqeIM_RGlcqhTzJQW1QFQru/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dm2tVp8CW_TmTzff03Oq60Uz43lfLKtq/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dm2tVp8CW_TmTzff03Oq60Uz43lfLKtq/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 2" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/termodinamica,object/gas"></span>
@@ -119,7 +106,7 @@ Since the dimensions of the parcel are not large, the atmospheric pressure at di
 $\dfrac{dT_\text{parcel}}{dz} = -G$. Derive the expression for $G(T, T_\text{parcel})$.
 2.2. Consider a special atmospheric condition in which at every altitude $z$ the
 temperature $T$ of the atmosphere equals that of the parcel, $T_\text{parcel}$, $T(z) =
-T_\text{parcel}(z)$. We will denote by $\Gamma$ the value of $G$ when $T = T_\text{parcel}$, that is
+T_\text{parcel}(z)$. Indicheremo con $\Gamma$ il valore di $G$ quando $T = T_\text{parcel}$, that is
 $\Gamma = -\dfrac{dT_\text{parcel}}{dz}$ (with $T = T_\text{parcel}$). $\Gamma$ is called the dry adiabatic lapse rate.
 2.2.1. Derive the expression for $\Gamma$.
 2.2.2. Compute the numerical value of $\Gamma$.
@@ -138,6 +125,7 @@ $|\Lambda z| \ll T(0)$ and $T(0) \approx T_\text{parcel}(0)$.
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ubxtlhgYNOqeIM_RGlcqhTzJQW1QFQru/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dm2tVp8CW_TmTzff03Oq60Uz43lfLKtq/view)
 
+[[Teorico 3 Hanoi__Q02]]
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2008 — Teorica — Problema 3 — Quesito 3" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/multi,topic/fluid-mechanics,topic/thermodynamics,topic/newtonian-mechanics,argomento/termodinamica,object/gas"></span>
@@ -347,44 +335,28 @@ Dati: $L = 15$ km, $W = 8$ km, $u = 1$ m/s.
 
 <div class="qlang-split" data-lang="en"></div>
 
-5. Estimated carbon monoxide (CO) pollution from
-Motorcycles during the morning rush hour in Hanoi
-The Hanoi metropolitan area can be approximated by a rectangle with sides $L$ and
-$W$ as shown in Figure, with the $L$ side taken along the south-western shore of the
-Red River.
-It is estimated that during the morning rush hour, from 7:00 to 8:00, there are $8\times10^5$
-motorcycles on the road. Each travels on average 5 km and emits 12 g of CO2 per year.
-It's a mile. The amount of CO is considered to be emitted at a constant rate $M$ in the
-Time during peak hours. At the same time, the clean north-east wind blows
-perpendicular to the Red River (i.e. perpendicular to the $L$ sides of the rectangle)
-with $u$ speed, crosses the city at the same speed and carries part of the air
-The Commission has already decided to take a decision on the following:
-We use the following roughly approximate model:
+5. Estimation of carbon monoxide (CO) pollution from mopeds during the morning rush hour in Hanoi
+The metropolitan area of Hanoi can be approximated as a rectangle with sides $L$ and $W$, as shown in the figure, where side $L$ is aligned along the south-western bank of the Red River.
+It is estimated that during the morning rush hour, from 7:00 to 8:00, there are $8\times10^5$ mopeds on the roads. Each moped travels an average of 5 km and emits 12 g of CO per kilometer. The amount of CO emitted is considered to be released at a constant rate $M$ over time during the rush hour. At the same time, clean wind from the north-east blows perpendicularly to the Red River (i.e., perpendicularly to sides $L$ of the rectangle) with speed $u$, crosses the city at this same velocity, and carries part of the polluted air away from the urban atmosphere.
 
-Carbon monoxide is rapidly distributed throughout the volume of the
-The main purpose of the project is to develop a mixing layer above the Hanoi metropolitan area, so that the
-The concentration of CO $C(t)$ at the adjacent CO $t$ can be assumed uniformly on this
-parallelepipedo di dimensioni $L$, $W$ e $H$.
+We use the following grossly approximate model:
 
-The air carried by the wind entering the parallel piped is clean, and it is assumed that
-The air pollution is not lost through the wind-parallel faces.
+Carbon monoxide distributes rapidly throughout the volume of the mixing layer above Hanoi’s metropolitan area, so that at time $t$, the CO concentration $C(t)$ can be assumed uniform across this rectangular prism with dimensions $L$, $W$ and $H$.
 
-Before 7:00, the concentration of CO in the atmosphere is negligible.
+The air carried by the wind entering the prism is clean, and it is assumed that no pollutant is lost through the faces parallel to the wind.
 
-5.1. You get the differential equation that determines concentration
-The CO pollutant depending on the time, $C(t)$.
-5.2. Write the solution of this equation for $C(t)$.
+Before 7:00, the CO concentration in the atmosphere is negligible.
+
+5.1. Derive the differential equation that determines the concentration of the pollutant CO as a function of time, $C(t)$.
+5.2. Write the solution to this equation for $C(t)$.
 5.3. Calculate the numerical value of the concentration $C(t)$ at 8:00 a.m.
-The data are: $L = 15$ km, $W = 8$ km, $u = 1$ m/s.
+Data: $L = 15$ km, $W = 8$ km, $u = 1$ m/s.
 
 <!--fig:start-->
-**p.5** — Area metropolitana di Hanoi come rettangolo L per W
+**p.5** — Metropolitan area of Hanoi modeled as a rectangle of length L and width W
 ![[_attachments/Teorico 3 Hanoi/Teorico 3 Hanoi_p5_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ubxtlhgYNOqeIM_RGlcqhTzJQW1QFQru/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dm2tVp8CW_TmTzff03Oq60Uz43lfLKtq/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dm2tVp8CW_TmTzff03Oq60Uz43lfLKtq/view)
+
+

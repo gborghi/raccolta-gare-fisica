@@ -52,34 +52,30 @@ Trova un'espressione per la distanza $\ell$ del sistema dalla Terra, in funzione
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to this Regulation:
+**BINARY STAR SYSTEM**
 
-It is known that many stars belong to binary systems. A type of binary system consists of an ordinary star of mass $m_0$ and radius $R$, and a compact and more massive neutron star of greater mass $M$, which rotate around each other. In the following, he ignores the motion of the Earth. The observation of such a binary system reveals the following information:
+**a)** It is known that many stars belong to binary systems. One type of binary system consists of an ordinary star with mass $m_0$ and radius $R$, and a more massive, compact neutron star with mass greater than $M$, rotating around each other. In the following, ignore Earth's motion. Observations of such a binary system reveal the following information:
 
 - The maximum angular displacement of the ordinary star is $\Delta\theta$, while that of the neutron star is $\Delta\phi$ (see Fig. 1).
 
-- The time taken for this maximum shift is $\tau$.
+- The time required to achieve this maximum angular displacement is $\tau$.
 
-- The radiation characteristics of the ordinary star indicate that its surface temperature is $T$ and that the irradiated energy, incident on the Earth's surface per unit area and time, is $P$.
+- Characteristics of the radiation from the ordinary star indicate that its surface temperature is $T$ and that the energy radiated, incident per unit area and time on Earth's surface, is $P$.
 
-- The calcium line in this radiation has a wavelength that differs by a quantity $\Delta\lambda$ from its normal value $\lambda_0$, only because of the gravitational field of the ordinary star. (For this calculation you can consider that the photon has an equivalent mass $h\nu/c^2 = h/(\lambda c)$.)
+- The calcium line in this radiation has a wavelength differing by an amount $\Delta\lambda$ from its normal value $\lambda_0$, solely due to the gravitational field of the ordinary star. (For this calculation you may consider that the photon has an equivalent mass $h\nu/c^2 = h/(\lambda c)$.)
 
-Find an expression for the distance $\ell$ of the system from the Earth, based only on the observed quantities and universal constants. Report your result on the answer sheet ****. The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+Find an expression for the distance $\ell$ of the system from Earth, expressed only in terms of the observed quantities and universal constants. Write your result on the **answer sheet**. *[7 pts]*
 
-**b) ** Assume that $M \gg m_0$. In these cases, the ordinary star essentially orbits around the neutron star in a circular orbit of $r_0$ radius. Suppose that gas is emitted from the ordinary star towards the neutron star at a rate $v_0$ relative to the ordinary star (see Fig. 2). Assuming that the dominant gravitational field is that of the neutron star, it finds the minimum distance $r_f$ from the neutron star to which the gas passes (see Fig. 2). Report your result on the answer sheet ****. The following table shows the results of the calculations:
+**b)** Assume that $M \gg m_0$. Under these assumptions, the ordinary star rotates essentially around the neutron star, in a circular orbit of radius $r_0$. Suppose that gas is emitted from the ordinary star toward the neutron star, with velocity $v_0$ relative to the ordinary star (see Fig. 2). Assuming that the dominant gravitational field is that of the neutron star, find the minimum distance $r_f$ from the neutron star at which the gas passes (see Fig. 2). Report your result on the **answer sheet**. *[3 pts]*
 
 <!--fig:start-->
-The following table shows the results of the calculations:
+**p.1** — Binary system, neutron star and telescope
 ![[_attachments/IT-Theo2/IT-Theo2_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the observations:
+**p.1** — Orbital geometry and stellar eclipses
 ![[_attachments/IT-Theo2/IT-Theo2_p1_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Astrophysics]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation Laws (metodo)|Conservation Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Star (object)|Star]], [[Gas (object)|Gas]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1JFwWmOdWmuqRGMf5R5f7qNMRgjIbC-er/view)
+

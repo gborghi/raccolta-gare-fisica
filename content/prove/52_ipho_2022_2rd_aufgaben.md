@@ -748,4 +748,3 @@ Grafico
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
-

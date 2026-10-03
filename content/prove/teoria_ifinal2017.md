@@ -198,26 +198,14 @@ Olimpiadi Internazionali di Fisica
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 (25 points)
-A circuit consisting of two diodes and two capacitors shown in Figure (a) below
-is fed in input A by a source of the type of saw tooth shown in figure (b).
-Assuming that the capacitors are initially discharged, and that the diodes are
-They function as ideal switches to and from the current direction.
-shows the change in voltage at points B and D over the three complete cycles of the
-the source of the saw tooth. This type of circuit is known as DC voltage bending,
-where at output B, after a few cycles, you get a continuous voltage of 2V0.
+Problem 3 (25 points)
+A circuit composed of two diodes and two capacitors, as shown in the figure (a) below, is driven at input A by a sawtooth source as shown in figure (b).
+Assuming the capacitors are initially uncharged, and that the diodes act as ideal switches—opening or closing depending on current direction—determine how the voltage varies at points B and D during three complete cycles of the sawtooth source. This type of circuit is known as a DC voltage doubler, where at output B, after several cycles, a continuous voltage of 2V₀ is obtained.
+
 3
-
-The following is the list of the countries of the European Union and the European Union:
-International Physics Olympiads
-The following information shall be provided:
-
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Physical Modeling (metodo)|Physical Modeling]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1wuoeLLljN_T0ejf2lawoLbSPfoiSvnWt/view)
-
+Theoretical Examination I – Final Selection 2017
+International Physics Olympiad
+March 22, 2017
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Brasil 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Termodinamica"></span>

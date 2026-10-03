@@ -121,21 +121,13 @@ German Physics Olympiad 2021 11th Final Round 2
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 3. A small metal ball hangs from a pivot, with the string length $L$. Il periodo di oscillazione circa
-This pivot is $T = 1.0$
-Now, a nail at a distance $\tfrac{3}{4}L$ from the pivot is hammered down. Quando svinghi a destra il pendolo colpisce
-Il naso, il suo percorso di movimento è ostacolato da esso.
-La palla prenderà una mossa come la seconda figura. Which of the following figures shows the position of
-the ball after $t = 1.5$ seconds of letting go?
+Problema 3. Una piccola sfera metallica è appesa a un perno tramite un filo di lunghezza $L$. Il periodo di oscillazione attorno a questo perno è $T = 1.0$.
 
-L'Olimpiade di Fisica tedesca 2021 11° Final Round 2
+Ora viene conficcato un chiodo a una distanza $\tfrac{3}{4}L$ dal perno. Quando il pendolo oscilla verso destra, esso urta contro il chiodo e il suo percorso viene ostacolato.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
+La sfera compierà ora un moto simile a quello mostrato nella seconda figura. Quale delle seguenti figure mostra la posizione della sfera dopo $t = 1.5$ secondi dal rilascio?
 
+Olimpiade Italiana di Fisica 2021, Finalissima 11ª classe
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2020 — Quesito 4" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/diffraction-grating,object/screen"></span>
@@ -254,23 +246,14 @@ Which resistance values best match the displayed measured values?
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6. Un diodo è un componente elettronico che, in forma semplificata, ha un effetto completamente isolante in una direzione, il
-direzione inversa. In direzione opposta, il diodo difficilmente permette a qualsiasi corrente di passare fino a una certa tensione. Ma dopo questo
-voltage limit is crossed, however, it maintains approximately like an
-- Il conducente ideale.
-In questo circuito sono installati un diodo e due resistori con valori di resistenza $R_1$ e $R_2$. In the adjacent
-graph are measured values of the current I in the circuit as a function of the applied voltage U shown.
+Problema 6. Un diodo è un componente elettronico che, in forma semplificata, ha un effetto completamente isolante in una direzione, quella inversa. Nella direzione opposta, il diodo non lascia passare corrente fino a un certo valore di tensione. Ma superato questo limite di tensione, si comporta approssimativamente come un conduttore ideale.
+
+Nel circuito mostrato qui sotto sono installati un diodo e due resistori con valori di resistenza $R_1$ e $R_2$. Nel grafico accanto sono riportati i valori misurati dell'intensità di corrente I nel circuito in funzione della tensione applicata U.
+
 Quali valori di resistenza corrispondono meglio ai valori misurati mostrati?
-- **A.** $R_1 = 220\ \Omega$ and $R_2 = 670\ \Omega$
-- **B.** $R_1 = 470\ \Omega$ and $R_2 = 220\ \Omega$
-- **C.** $R_1 = 470\ \Omega$ and $R_2 = 150\ \Omega$
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/18pxJrkjWoou2ORJ0LP598wFRaaDU_1fE/view)
-
+- **A.** $R_1 = 220\ \Omega$ e $R_2 = 670\ \Omega$
+- **B.** $R_1 = 470\ \Omega$ e $R_2 = 220\ \Omega$
+- **C.** $R_1 = 470\ \Omega$ e $R_2 = 150\ \Omega$
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2020 — Quesito 7" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/rod"></span>

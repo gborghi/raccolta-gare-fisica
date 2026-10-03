@@ -24,3 +24,12 @@ tags:
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1yVGYEMs-96Tknq8dRAi98za5mduZ8Xei/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+*(Australian Science Olympiad Exam — Physics, 2012. Selection exam, $12$ pages, in English: a section of multiple-choice questions followed by extended-response problems covering mechanics, thermodynamics, waves, electromagnetism, and modern physics.)*
+
+> ⚠️ Extractable text not available from PDF (Type3 font / scanned image) and cannot be transcribed in this session due to image reading limit. Open the source at the indicated pages for complete problem statements. No physics has been invented.
+
+

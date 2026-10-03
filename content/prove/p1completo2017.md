@@ -212,30 +212,23 @@ P1.- Soluzione
 
 3. A section of the staircase
 
-We went on to consider one of the steps of the Girona Cathedral, the first of these, which has 33 steps. We studied the descent of the ball, with the previous condition of a boat per step, from the point of throw to the maximum height after the first bounce over the bottom slide.
+We now consider one segment of the cathedral stairs in Girona, specifically the first one, which has 33 steps. We analyze the ball's descent under the previous condition of one bounce per step, from the launch point to the maximum height reached after the first rebound on the lower landing.
 
 Calculate:
 
-(f) Total time, $t_\text{total}$, invested in the indicated descent.
+f) The total time, $t_\text{total}$, taken for the described descent.
 
-(g) The mechanical energy of the ball dissipated per unit mass, $\Delta E/m$, at the indicated descent.
+g) The mechanical energy dissipated per unit mass, $\Delta E/m$, during the described descent.
 
-Paragraphs (c) to (e) referred to an infinite ladder, which requires precise launch conditions. The ladder we occupy is finite, which admits some imprecision or tolerance. Suppose $s = 0$ and we increase the $v$ speed calculated in paragraph (d) by a quantity $\Delta v$.
+Parts (c) to (e) referred to an infinite staircase, requiring precise launch conditions. The staircase we are considering is finite, allowing for some imprecision or tolerance. Suppose $s = 0$ and suppose we increase the velocity $v$ calculated in part (d) by an amount $\Delta v$.
 
-(h) Determine the maximum relative increase the initial pitch speed can have, $\Delta v_\text{max}/v$, so that the ball does not skip any steps down the entire stretch.
+h) Determine the maximum relative increase that can be made to the initial launch velocity, $\Delta v_\text{max}/v$, so that the ball does not skip any step during the complete descent of this segment.
 
-To put a little bit of context to the end of the problem, we're entering the fictional world of Game of Thrones. One of the characters in the first rally hits the ball with his foot and it rolls down the ground to the edge of the first step with the initial speed $v$ of the previous paragraphs.
+To add a bit of atmosphere to the end of the problem, we enter the fictional world of Game of Thrones. One of the characters located on the first landing strikes the ball with their foot, and it rolls along the ground until reaching the edge of the first step with the initial velocity $v$ from previous parts.
 
-(i) Draw an approximate trajectory for the first steps.
+i) Make an approximate sketch of the trajectory during the descent down the first few steps.
 
-The Commission will also be consulted on the following:
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1J4DCpwDCrHVltH_9DJKrbcfwHrrpAlAq/view)
-
+P1. SOLUTION
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Spagna 2017 — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Fisica Moderna,object/ball"></span>

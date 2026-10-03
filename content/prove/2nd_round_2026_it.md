@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2026 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.1 (MC)**
 
 Stimare quanti litri d'acqua cadono ogni anno dalle cascate del Reno.
@@ -31,7 +35,6 @@ Stimare quanti litri d'acqua cadono ogni anno dalle cascate del Reno.
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.1 (MC)**
@@ -45,6 +48,10 @@ Estimate how many liters of water fall annually from the Rhine Falls.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.2 (MC)**
 
@@ -62,7 +69,6 @@ Tre oggetti celesti approssimati come masse puntiformi con le masse $m_1$, $m_2$
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.2 (MC)**
@@ -76,6 +82,10 @@ Three celestial objects approximated as point masses with masses $m_1$, $m_2$, a
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.3 (MC)**
 
@@ -93,7 +103,6 @@ Due specchi semitrasparenti, ciascuno dei quali riflette il 75% della luce incid
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.3 (MC)**
@@ -107,6 +116,10 @@ Two semi-transparent mirrors, each reflecting 75% of the incident light, are pla
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.4 (MC)**
 
@@ -128,7 +141,6 @@ Una particella si muove in modo casuale tra le tre posizioni A, B e C. Da un pas
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.4 (MC)**
@@ -147,6 +159,10 @@ A particle moves randomly among three positions A, B, and C. From one time step 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.5 (MC)**
 
 Una lavatrice ruota a 1500 giri al minuto. Non appena viene spenta, frena con un'accelerazione angolare costante di $1\,\text{rad}\cdot\text{s}^{-2}$. Quanti giri compie il tamburo prima di fermarsi?
@@ -163,7 +179,6 @@ Una lavatrice ruota a 1500 giri al minuto. Non appena viene spenta, frena con un
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.5 (MC)**
@@ -177,6 +192,10 @@ A washing machine spins at 1500 revolutions per minute. Immediately after being 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.6 (MC)**
 
@@ -193,7 +212,6 @@ Un pendolo è sospeso al soffitto di un ascensore. Quando l'ascensore inizia ad 
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.6 (MC)**
@@ -206,6 +224,10 @@ A pendulum is suspended from the ceiling of an elevator. When the elevator begin
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.7 (MC)**
 
@@ -231,7 +253,6 @@ Quali informazioni utilizza il powermeter per calcolare la potenza di Remco?
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.7 (MC)**
@@ -254,6 +275,10 @@ Which of these data does the power meter use to calculate Remco's power?
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.8 (MC)**
 
 Osservate la bilancia a trave qui sotto. Che cosa mostra la bilancia quando il peso sul lato sinistro viene spostato nella posizione più esterna della barra? I singoli elementi della bilancia sono rigidi, con cerniere fissate nei punti segnati in rosso.
@@ -274,7 +299,6 @@ Osservate la bilancia a trave qui sotto. Che cosa mostra la bilancia quando il p
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.8 (MC)**
@@ -293,6 +317,10 @@ Look at the beam balance shown below. What does the balance indicate when the we
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.9 (MC)**
 
 Alice sale e scende dal Monte Bianco, salendo $h = 4806$ m sul livello del mare. Durante la salita e la discesa raggiunge una velocità media (orizzontale) di $v_1$ e $v_2$ rispettivamente. Cosa si può dire della velocità media $v$ dell'intero viaggio?
@@ -310,7 +338,6 @@ Alice sale e scende dal Monte Bianco, salendo $h = 4806$ m sul livello del mare.
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.9 (MC)**
@@ -325,6 +352,10 @@ Alice climbs up and descends from Mont Blanc, ascending $h = 4806$ m above sea l
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.10 (MC)**
 
@@ -342,7 +373,6 @@ Quando un elettrone in un atomo eccitato effettua una transizione da un livello 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.10 (MC)**
@@ -356,6 +386,10 @@ When an electron in an excited atom transitions from a higher energy level to a 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.11 (MC)**
 
@@ -376,7 +410,6 @@ Perché il cielo appare blu durante il giorno?
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.11 (MC)**
@@ -394,6 +427,10 @@ Why does the sky appear blue during the day?
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.12 (MC)**
 
 Un ghiacciaio si muove a velocità costante sulla sua base. Consideriamo una lastra di ghiaccio parallelepipeda con una base quadrata di lato 100 m e altezza 10 m. Il coefficiente di attrito radente è $\mu = 0{,}09$, il sottosuolo è termicamente isolante e la parte superiore della lastra di ghiaccio ha una temperatura costante di $-10\,^\circ\text{C}$. La densità del ghiaccio è $\rho = 900\,\text{kg}\cdot\text{m}^{-3}$ e la conducibilità termica del ghiaccio è $\lambda = 2{,}3\,\text{W}\cdot\text{m}^{-1}\cdot\text{K}^{-1}$. A quale velocità il ghiaccio inizia a sciogliersi?
@@ -409,7 +446,6 @@ Un ghiacciaio si muove a velocità costante sulla sua base. Consideriamo una las
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.12 (MC)**
@@ -422,6 +458,10 @@ An ice glacier moves at constant velocity along its base. Consider a rectangular
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.13 (MC)**
 
@@ -444,7 +484,6 @@ Vi ricordate i miei avanzi del primo turno? Non importa se non li ricordate. Li 
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.13 (MC)**
@@ -464,6 +503,10 @@ Do you remember my leftovers from the first round? It doesn't matter if you don�
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.14 (MC)**
 
 Secondo la legge di Dulong-Petit, la capacità termica dei solidi è indipendente dalla temperatura. Tuttavia, gli esperimenti hanno dimostrato che a basse temperature la capacità termica di un solido dipende dalla temperatura. Il modello di Einstein spiega queste osservazioni usando la meccanica quantistica. Qual dei seguenti risultati è la capacità termica nel modello di Einstein usando l'energia interna data come in (1)?
@@ -482,7 +525,6 @@ $$U(T) = 3N\hbar\omega_E \left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\o
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.14 (MC)**
@@ -498,6 +540,10 @@ $$U(T) = 3N\hbar\omega_E \left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\o
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.15 (MC)**
 
@@ -515,7 +561,6 @@ Quale corrente scorrerà attraverso una linea elettrica aerea se viene applicata
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.15 (MC)**
@@ -529,6 +574,10 @@ What current will flow through an overhead power line if a voltage of 100 kV is 
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.16 (MC)**
 
@@ -551,7 +600,6 @@ Quale forza agisce sulla carica $Q$ quando una delle cariche $q$ viene rimossa d
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.16 (MC)**
@@ -571,6 +619,10 @@ Which force acts on charge $Q$ when one of the charges $q$ is removed from the f
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/capacitor"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.17 (MC)**
 
 Una particella con massa $m = 3 \times 10^{-15}\,\text{kg}$ e carica $q = e$ entra in un condensatore a piastre quadrate con lato $l = 0{,}5\,\text{m}$, distanza $d = 10\,\text{cm}$ tra le piastre e carica $Q = 0{,}2\,\text{C}$. Assumendo che la particella entri nel condensatore perpendicolarmente al suo lato e a equidistanza dalle due piastre, qual è la velocità minima necessaria affinché non urti una piastra? Si possono trascurare la gravità e la resistenza dell'aria.
@@ -588,7 +640,6 @@ Una particella con massa $m = 3 \times 10^{-15}\,\text{kg}$ e carica $q = e$ ent
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.17 (MC)**
@@ -603,6 +654,10 @@ A particle with mass $m = 3 \times 10^{-15}\,\text{kg}$ and charge $q = e$ enter
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.18 (MC)**
 
@@ -627,7 +682,6 @@ III: Un potenziale elettrico maggiore significa un campo elettrico più intenso.
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.18 (MC)**
@@ -649,6 +703,10 @@ III: A higher electric potential means a stronger electric field.
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Domanda 1.19 (MC)**
 
 Una particella carica con massa $m$ e carica $q$ si trova su un percorso circolare con raggio $r$ in un campo magnetico omogeneo di intensità $B$. Come cambia il raggio del percorso circolare della particella se la sua energia cinetica viene raddoppiata nella direzione del movimento?
@@ -666,7 +724,6 @@ Una particella carica con massa $m$ e carica $q$ si trova su un percorso circola
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.19 (MC)**
@@ -681,6 +738,10 @@ A charged particle with mass $m$ and charge $q$ moves along a circular path of r
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.20 (MC)**
 
@@ -700,7 +761,6 @@ Nel parco avventura, Emmy corre da un albero all'altro su una teleferica. Il con
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.20 (MC)**
@@ -715,6 +775,10 @@ In the adventure park, Emmy runs from one tree to another on a zip line. The con
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.21 (MC)**
 
@@ -732,7 +796,6 @@ Tre frequenze risonanti consecutive di una canna d'organo hanno i valori 1310 Hz
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.21 (MC)**
@@ -746,6 +809,10 @@ Three consecutive resonant frequencies of a pipe are 1310 Hz, 1834 Hz, and 2358 
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Domanda 1.22 (MC)**
 
@@ -765,7 +832,6 @@ Sono dati un pendolo ideale a filo e un'asta omogenea vincolata a ruotare a un'e
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Question 1.22 (MC)**
@@ -781,6 +847,10 @@ Given an ideal string pendulum and a uniform rod hinged to rotate at one end. Bo
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Problema lungo 2.1: Riflessioni su un ombrello** (16 punti)
 
@@ -833,7 +903,6 @@ i. (1,5 pt) Calcolare quanto lontano dall'ombrello schizza l'acqua quando esso r
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Problem 2.1: Reflections on an Umbrella** (16 points)
@@ -882,6 +951,10 @@ i. (1.5 pt) Calculate how far from the umbrella the water splashes when it rotat
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Problema lungo 2.2: Miraggio inferiore** (16 punti)
 
@@ -935,7 +1008,6 @@ iv. (1,5 pt) Disegnare qualitativamente la temperatura $T(y)$ in funzione dell'a
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Problem 2.2: Lower Mirage** (16 points)
@@ -985,6 +1057,10 @@ iv. (1.5 pt) Qualitatively sketch the temperature $T(y)$ as a function of height
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Problema lungo 2.3: Cristallo paramagnetico** (16 punti)
 

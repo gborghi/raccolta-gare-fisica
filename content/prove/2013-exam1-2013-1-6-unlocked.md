@@ -561,21 +561,12 @@ distance $R$ of the layer to the center of Saturn. Which of the following statem
 
 <div class="qlang-split" data-lang="it"></div>
 
-13. C'è un anello fuori di Saturno. Per distinguere se l'anello è effettivamente una parte di Saturno o è invece parte di
-di tutti i satelliti di Saturno, dobbiamo conoscere la relazione tra la velocità $v$ di ogni strato nell'anello e la velocità $v$
-Distanza $R$ dello strato al centro di Saturno. Quale delle seguenti affermazioni è corretta?
+13. Esiste un anello al di fuori di Saturno. Per stabilire se l'anello fa effettivamente parte di Saturno o invece appartiene ai satelliti di Saturno, è necessario conoscere la relazione tra la velocità $v$ di ciascun strato dell'anello e la distanza $R$ dello strato dal centro di Saturno. Quale delle seguenti affermazioni è corretta?
 - **A.** Se $v \propto R$, allora lo strato fa parte di Saturno.
 - **B.** Se $v^2 \propto R$, allora lo strato fa parte dei satelliti di Saturno.
 - **C.** Se $v \propto 1/R$, allora lo strato fa parte di Saturno.
 - **D.** Se $v^2 \propto 1/R$, allora lo strato fa parte di Saturno.
 - **E.** Se $v \propto R^2$, allora lo strato fa parte dei satelliti di Saturno.
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/16_xSffKVn7HMLxswvXNx8maPLREKPwF9/view)
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="USA 2013 — Quesito 14" data-tags="kg/prova,paese/USA,comp/USA,cluster/Meccanica,object/cart"></span>

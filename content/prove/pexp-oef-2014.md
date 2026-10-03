@@ -192,74 +192,77 @@ La costruzione dell'assemblaggio (Figura 2):
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test is carried out in a laboratory. Diffraction of light in a thread.**
+**Experimental Test. Light Diffraction by a Wire.**
 
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
+**Introduction; Objective.**
 
-The year 2014 has been declared the International Year of Crystallography by the United Nations, to commemorate the centenary of the discovery of X-ray diffraction by Max von Laue (1912) and the enunciation of Bragg's equation (1913). Over the past 100 years, X-ray diffraction has played, and still does, an essential role in the study and determination of crystalline structures.
+The year 2014 has been declared the International Year of Crystallography by the United Nations, to commemorate the centenary of Max von Laue's discovery of X-ray diffraction (1912) and the formulation of Bragg's equation (1913). Over these past 100 years, X-ray diffraction has played—and continues to play—an essential role in the study and determination of crystal structures.
 
-Diffraction in a three-dimensional structure is complex. You're probably more familiar with diffracting light in simpler obstacles, such as the double-slit of Young's experiment: light diffracting in two nearby and parallel slits interferes on a screen producing alternating bright stripes with other dark ones (Young's stripes).
+Diffraction by a three-dimensional structure is complex. You are probably more familiar with light diffraction by simpler obstacles, such as the double-slit setup in Young's experiment: light diffracted through two closely spaced, parallel slits interferes on a screen, producing alternating bright and dark fringes (Young's fringes).
 
-In this experimental test, monochrome light (laser) diffraction on a thin thread is observed. The purpose of the test is to determine the diameter of the thread.
+In this experimental test, you will observe the diffraction of monochromatic light (laser) by a thin wire. The objective of this test is to determine the diameter of the wire.
 
-The following information is provided for in Article 2 (1) of Regulation (EU) No 1303/2013.
-- Red laser pointer, with wavelength $\lambda = 650\ \text{nm}$.
-- Copper thread, mounted on a cardboard support (Warning: handle it carefully to avoid folding).
-- It's a paper subway.
+**Materials.**
+- Red laser pointer, wavelength $\lambda = 650\ \text{nm}$.
+- Copper wire, mounted on a cardboard holder (Caution: handle carefully to avoid bending it).
+- Paper meter.
 - Aluminum support.
-- It's a measuring scale, a millimeter of paper.
-- It's a cardboard sheet.
-- Clothes and clothing.
-- Glue tape and scissors.
+- Measuring scale, made of millimeter graph paper.
+- Cardboard sheet.
+- Clothespins.
+- Adhesive tape and scissors.
 
-Theoretical model of the system
+**Theoretical Model.**
 
-When a monochrome light-collimated beam hits a cylindrical thread, with a circular section, on a distant screen, a series of interference/diffraction maxims, separated by minimum zeros, is observed (Figure 1). The central maximum is twice as wide as the lateral ones, and its intensity is much higher.
+When a collimated beam of monochromatic light is incident on a cylindrical wire with circular cross-section, a series of interference/diffraction maxima are observed on a distant screen, separated by null minima (Figure 1). The central maximum is twice as wide as the lateral ones, and its intensity is much greater.
 
-If the wavelength of the light is $\lambda$ and the diameter of the wire is $d$, the $m$-minimum light intensity on the screen is shown to be at the angular position (see Figure 1) given by
+If the wavelength of the light is $\lambda$ and the diameter of the wire is $d$, it can be shown that the angular position (see Figure 1) of the $m$-th intensity minimum on the screen is given by
 
 $$\sin\alpha_m = \frac{m\lambda}{d}, \quad m = \pm1, \pm2, \pm3\ldots$$
 
-In our experiment, the values of the angles $\alpha_m$ for the first minima are small enough to satisfy the approximation
+In our experiment, the values of the angles $\alpha_m$ for the first minima are sufficiently small so that the approximation
 
 $$\sin\alpha_m \approx \tan\alpha_m \approx \alpha_m = \frac{y_m}{x}$$
 
-where $x$ is the distance between the thread and the screen, and $y_m$ is the distance of the $m$-minimum to the centre of the diffraction figure. With the above approximation, it is immediately deduced that the distance between the symmetric minima $m$ and $-m$, one on each side of the system axis, is
+holds well, where $x$ is the distance between the wire and the screen, and $y_m$ is the distance from the $m$-th minimum to the center of the diffraction pattern. Using the above approximation, it is immediate to deduce that the distance between the symmetric minima $m$ and $-m$, located on opposite sides of the system's axis, is
 
 $$Y_m = 2y_m = \frac{2m\lambda}{d}\,x \quad (1)$$
 
-In this test the value of $d$ is to be determined from the measurements of $Y_m$ in relation to $x$.
+In this experiment, the value of $d$ will be determined from measurements of $Y_m$ as a function of $x$.
 
-The following information is provided by the Commission in the field of safety and health:
+**Experimental procedure.**
 
-Warnings:
-- This test requires the use of a laser pointer. You must prevent the laser beam from directly entering one eye, your own or your peers' eye, as it could cause an injury to the retina.
-- The battery life of the laser pointer is very limited. Therefore, it should only be switched on at the beginning of the test, to verify that it is working correctly, and during data collection.
-- The copper thread mounted on the cardboard support is very thin and fragile. The support must be handled carefully and the thread must not be touched with the fingers.
+Precautions:
+- This test requires the use of a laser pointer. You must avoid directing the laser beam directly into your eye or that of your colleagues, as it could cause retinal damage.
+- The laser pointer battery life is very limited. Therefore, you should only turn it on at the beginning of the test to verify that it works properly, and during data collection.
+- The copper wire mounted on the cardboard support is very thin and fragile. Handle the support with care, and under no circumstances should you touch the wire with your fingers.
 
-The following is the list of the components of the assembly:
-1. Spread the paper meter over the table and tie it with tape.
-2. Build the screen by attaching the millimeter scale of paper to the aluminium support with adhesive tape.
-3. Place the millimeter paper screen in line with the 0 cm mark of the paper meter, and in a transverse position.
-4. The laser pointer has two pushers: one to function as a white light flashlight and one for the laser itself. Hold the pointer with two tweezers. One of the tweezers must squeeze the laser pulser, to keep it on. This last tweezer should only be applied immediately before starting the measurements to prevent battery depletion. The tweezers must be adjusted so that the beam of light is approximately parallel to the table.
-5. Place the pointer on the paper meter, about 80 cm from the screen, so that the beam of light hits the central black line of the millimeter scale of the screen. This black line serves to avoid glare from the central maximum of diffraction and to improve the visibility of the other maximum, which are much less intense.
-6. The observation screen should be placed under a visor made of black cardboard, to prevent ambient light from making the observation of the diffraction figure difficult.
-7. Hold the cardboard support of the thread with a tweezer so that the thread is vertical.
-8. Initially place the thread 65 cm from the screen ($x = 65\ \text{cm}$) so that the light hits the wire and the diffraction figure is seen on the screen. Carefully adjust the position of the thread in the beam of light until a well-contrasted and symmetrical diffraction figure is obtained with respect to the centre.
+Assembly of the setup (Figure 2):
+1. Unfold the paper meter and secure it to the table with adhesive tape.
+2. Construct the screen by attaching the millimeter paper scale to the aluminum support using adhesive tape.
+3. Position the millimeter paper screen so that it aligns with the 0 cm mark on the paper meter, and place it in a transverse orientation.
+4. The laser pointer has two buttons: one to operate as a white light flashlight, and another for the laser itself. Hold the pointer with two clips. One of the clips must press down on the laser button to keep it turned on. This clip should only be placed immediately before starting measurements, in order to avoid battery depletion. Adjust the clips so that the light beam is approximately parallel to the table.
+5. Position the pointer on the paper meter approximately 80 cm from the screen, so that the light beam strikes the central black line of the millimeter scale on the screen. This black line helps prevent glare from the central diffraction maximum and improves visibility of the other maxima, which are much less intense.
 
-Measures and questions:
+6. It is advisable to place the observation screen under a visor made from black cardboard, in order to prevent ambient light from interfering with the observation of the diffraction pattern.
 
-1) Measure on the screen the distance $Y_m$ between the symmetric minima $+m$ and $-m$, using the highest possible $m$, i.e. using the two symmetric minima further away from the centre of sharp observation. Repeat the measurement of the same $Y_m$ by placing the thread at decreasing distances from the screen, up to $x_{\min} = 30\ \text{cm}$. Write down the values of $x$ and $Y_m$ in a table, clearly indicating the value of $m$ used.
+7. Hold the cardboard support of the wire using a clamp, so that the wire remains vertical.
 
-2) Graphically represent on a sheet of millimeter paper the values of $Y_m$ in order versus $x$ in abscises.
+8. Initially place the wire 65 cm from the screen ($x = 65\ \text{cm}$), so that the light strikes the wire and the diffraction pattern is observed on the screen. Carefully adjust the position of the wire within the light beam until a well-contrasted and symmetric diffraction pattern relative to the center is obtained.
+
+**Measurements and Questions:**
+
+1) Measure on the screen the distance $Y_m$ between the symmetric minima $+m$ and $-m$, using the highest possible $m$, that is, using the two most distant symmetric minima from the center that you can observe clearly. Repeat this measurement of the same $Y_m$ by placing the wire at decreasing distances from the screen, down to $x_{\min} = 30\ \text{cm}$. Record the values of $x$ and $Y_m$ in a table, clearly indicating the value of $m$ used.
+
+2) Plot graphically on millimeter paper the values of $Y_m$, plotted on the ordinate axis, versus those of $x$, plotted on the abscissa axis.
 
 3) Determine the slope, $p$, of the straight line that best fits these points.
 
-4) Subtract the value of the diameter of the thread, $d$.
+4) Deduce the value of the wire diameter, $d$.
 
-5) Estimate the slope uncertainty, $\Delta p$, of the straight $Y_m(x)$.
+5) Make an estimate of the uncertainty in the slope, $\Delta p$, of the straight line $Y_m(x)$.
 
-6) Taking into account the above result, and furthermore that, according to manufacturer data, the laser wavelength is $\lambda = (650 \pm 10)\ \text{nm}$, estimate the uncertainty of the thread diameter, $\Delta d$.
+6) Taking into account the previous result, and additionally that according to manufacturer data, the laser wavelength is $\lambda = (650 \pm 10)\ \text{nm}$, make an estimate of the uncertainty in the wire diameter, $\Delta d$.
 
 <!--fig:start-->
 ![[_attachments/Pexp-OEF-2014/Pexp-OEF-2014_p1_f1.png]]
@@ -267,11 +270,7 @@ Measures and questions:
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Pexp-OEF-2014/Pexp-OEF-2014_p2_f2.png]]
-The following table shows the results of the experimental setup diagram with laser:
+*Experimental setup diagram with laser*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Wire (object)|Wire]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1dGhA9G9WCqtSPLISu_-6h-EV5uhHMvY4/view)
+

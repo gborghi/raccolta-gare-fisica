@@ -78,21 +78,12 @@ horizontal distance R that it will travel when it returns to the ground?
 
 <div class="qlang-split" data-lang="it"></div>
 
-2. Una palla di cannone viene lanciata con una velocità iniziale di magnitudo $v_0$ su una superficie orizzontale. A quale angolo minimo
-$\theta_\text{min}$ above the horizontal should the cannonball be launched so that it rises to a height H which is larger than the
-Distanza orizzontale R che percorrerà quando tornerà a terra?
+2. Un proiettile viene lanciato con velocità iniziale di modulo $v_0$ su una superficie orizzontale. A quale angolo minimo $\theta_\text{min}$ rispetto all'orizzontale deve essere lanciato il proiettile perché raggiunga un'altezza H maggiore della distanza orizzontale R che percorrerà prima di tornare al suolo?
 - **A.** $\theta_\text{min} = 76^\circ$
 - **B.** $\theta_\text{min} = 72^\circ$
 - **C.** $\theta_\text{min} = 60^\circ$
 - **D.** $\theta_\text{min} = 45^\circ$
-- **E.** Non esiste un angolo come R > H per tutti i problemi di gamma.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
-
+- **E.** Non esiste un tale angolo, poiché R > H per tutti i problemi di gittata.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="USA 2012 — Quesito 3" data-tags="kg/prova,paese/USA,comp/USA,cluster/Meccanica,object/inclined-plane"></span>
@@ -204,26 +195,16 @@ both fire. The muzzle velocity of the lower cannon is 25m/s and the muzzle veloc
 
 <div class="qlang-split" data-lang="it"></div>
 
-5. Un blocco di 12 kg che si muove ad est a 4 m/s si schianta contro un blocco di 6 kg che si muove ad ovest a 2 m/s. - Le due.
-i blocchi si muovono insieme dopo la collisione. Qual è la perdita di energia cinetica in questa collisione?
+5. Un blocco di 12 kg si muove verso est a 4 m/s e urta frontalmente con un blocco di 6 kg che si muove verso ovest a 2 m/s. I due blocchi rimangono uniti dopo l'urto. Qual è la perdita di energia cinetica in questo urto?
 - **A.** 36 J
 - **B.** 48 J
 - **C.** 60 J
 - **D.** 72 J
 - **E.** 96 J
 
-Le seguenti informazioni si applicano alle domande 6 e 7
-Due cannoni sono disposti verticalmente, con il cannone inferiore puntato verso l'alto (verso il cannone superiore) e il cannone inferiore puntato verso l'alto.
-cannone superiore puntato verso il basso (in direzione del cannone inferiore), 200 metri sopra il cannone inferiore. In questo caso, la Commissione
-- Entrambi fuoco. La velocità di muffa del cannone inferiore è di 25 m/s e la velocità di muffa del cannone superiore è di 55 m/s.
+Le informazioni seguenti si applicano ai quesiti 6 e 7
+Due cannoni sono disposti verticalmente, con il cannone inferiore puntato verso l'alto (verso il cannone superiore) e quello superiore puntato verso il basso (verso il cannone inferiore), a 200 m sopra il cannone inferiore. I due cannoni sparano simultaneamente. La velocità di bocca del cannone inferiore è 25 m/s e quella del cannone superiore è 55 m/s.
 200 metri
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/12jBuvsPapWU1zY8RCcNOhxIn2paJZ2Gq/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="USA 2012 — Quesito 6" data-tags="kg/prova,paese/USA,comp/USA,cluster/Meccanica,object/projectile"></span>

@@ -452,9 +452,7 @@ C.
 <div class="qlang-split" data-lang="it"></div>
 
 9.
-Una palla è tenuta ad una certa altezza sopra un pavimento. Poi viene rilasciato e cade sul pavimento. Se la resistenza all'aria
-Le informazioni relative alle informazioni relative alle informazioni e ai dati relativi alle informazioni relative alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e ai dati relativi alle informazioni e alle informazioni relative alle informazioni e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati e ai dati relativi ai dati sono stati riportati in modo da indicare. to E. sotto ogni grafico) dà correttamente
-l'energia potenziale gravitazionale $E_g$ della palla come tempo di funzione?
+Una palla viene tenuta a un certo'altezza sopra un pavimento. Viene quindi rilasciata e cade sul pavimento. Se si può trascurare la resistenza dell'aria, quale dei cinque grafici qui sotto (etichettati A. a E., sottostanti ciascun grafico) rappresenta correttamente l'energia potenziale gravitazionale $E_g$ della palla in funzione del tempo?
 
 A.
 
@@ -463,13 +461,6 @@ B.
 
 E.
 C.
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="ASOE 2020 — Quesito 10" data-tags="kg/prova,paese/Australia,comp/ASOE,cluster/Meccanica"></span>
@@ -1099,38 +1090,28 @@ END OF EXAM
 
 <div class="qlang-split" data-lang="it"></div>
 
-20. Spiegate come determinare come la velocità di propagazione di un impulso dipenda da una delle tre
-variabili
+20. Spiega come determinare come la velocità di propagazione di un'impulso dipenda da una delle tre variabili:
 
-Amplitude
+ampiezza
 
-larghezza del polso
+larghezza dell'impulso
 
 tensione
 
-La Commissione ha inoltre esaminato la situazione in cui si trovavano i paesi terzi.
-un polso dipende dall'ammortizzazione.
+e spiega perché è più difficile determinare con precisione come la velocità di propagazione di un'impulso dipenda dall’ammortamento.
 
-Nella risposta, inserite le seguenti informazioni:
+Includi le seguenti informazioni nella tua risposta:
 
-Le misure che si effettuerebbero e come queste potrebbero differire tra vari
-l'ammortizzazione e una delle altre variabili.
+Le misurazioni che effettueresti e in che modo queste potrebbero differire tra la variazione dell’ammortamento e di una delle altre variabili.
 
-Una descrizione di come utilizzare l'attrezzatura, come i regimi, i timer e un riferimento
-linea per effettuare le misurazioni se differisce dalla parte (a).
+Una descrizione di come useresti attrezzature, quali righe, cronometri e una linea di riferimento, per effettuare le misurazioni, se tale procedura differisca da quella del punto (a).
 
-Una spiegazione del motivo per cui sceglierebbe di effettuare le misure descritte.
+Un’esplicazione del perché avresti scelto di effettuare le misurazioni come descritto.
 
-Come si determina la relazione tra le variabili di velocità d'onda
-la propagazione.
+Come determineresti la relazione tra le variabili della velocità di propagazione delle onde.
 
-Spiegare perché è più difficile determinare la relazione tra ammortizzazione e ondata
-velocità di propagazione, esattamente.
+Spiega perché è più difficile determinare con precisione la relazione tra l’ammortamento e la velocità di propagazione delle onde.
 
-Fino alla fine dell'esame
+FINE DELL'ESAME
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1TcKp3zaiJaFbHYFlHzaYZoUYtybs3e1M/view)
+

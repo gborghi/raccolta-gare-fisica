@@ -275,14 +275,7 @@ It demonstrates that the electrons with the highest transverse velocity travel i
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(e)** Determine el periodo de rotación $T$ de las trayectorias helicoidales. Is it the same for all possible trajectories?
-
-**Topic:** [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Ehev-hNBfavFo8NHZEpl0Lk3r5M2g05B/view)
-
+**(e)** Determine the rotation period $T$ of the helical trajectories. Is it the same for all possible trajectories?
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Spagna na — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>

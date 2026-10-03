@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus,object/sphere"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 1 : Nuclei speculari (16 punti)
 In questo problema ci proponiamo di fornire una
 stima delle dimensioni e della densità dei nuclei
@@ -105,7 +109,6 @@ Riadattato dalle Olimpiadi Italiane della Fisica
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -273,6 +276,10 @@ Fonte : O. Gingerich, Sky & Telescope 28, 278, 1964.
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole,object/magnet,object/cylinder,object/coil"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 3 : Dipoli magnetici (16 punti)
 Parte A. Dipolo di Gilbert (4.5 punti)
 Un dipolo di Gilbert è composto da un paio di
@@ -375,7 +382,6 @@ Costanti fondamentali
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 3: Magnetic Dipoles (16 points)
@@ -463,6 +469,10 @@ Fundamental Constants
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire,object/spring"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 1 : Una bilancia particolare (4 punti)
 Consideriamo due fili conduttori paralleli, di lunghezza $L$, attaccati alle loro estremità per due
 molle metalliche. Ogni molla ha una lunghezza a riposo $l_0$ e una costante elastica $k$ (cf. Fig. 1).
@@ -480,7 +490,6 @@ iii. (0.5 pt) A cosa può servire questo dispositivo ?
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Wire (object)|Wire]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -503,6 +512,10 @@ iii. (0.5 pt) What could this device be used for?
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lever,object/sphere,object/tank-container"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 2 : Un'altra bilancia (4 punti)
 Una bilancia a due bracci è mantenuta in equilibrio da una parte, da una sfera di piombo
 ($\rho_{Pb}$ = 11.3 $\times$ 10$^3$ $\text{kg}\cdot\text{m}^{-3}$) e dall'altra da una d'oro ($\rho_{Au}$ = 19.3 $\times$ 10$^3$ $\text{kg}\cdot\text{m}^{-3}$). I due bracci
@@ -519,7 +532,6 @@ inclina la bilancia, per mantenerla in equilibrio ?
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 2: Another balance (4 points)
@@ -532,6 +544,10 @@ ii. (1.5 points) What density should the liquid in the container toward which th
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Esercizio 3 : Pista delle biglie (4 punti)
 Due biglie rotolano in una delle parti in piano di una pista delle biglie alla stessa velocità $v_0$, e
@@ -548,7 +564,6 @@ ii. (2 pt) assumendo che rotolino senza scivolare ?
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 3: Marbles Track (4 points)
@@ -562,6 +577,10 @@ ii. (2 points) Assuming they roll without slipping?
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Esercizio 4 : Condensatori in serie (4 punti)
 La figura Fig. 2 rappresenta due condensatori a piastre collegati in serie, in cui la parte centrale,
@@ -578,7 +597,6 @@ Esprimete la risposta in funzione delle grandezze date.
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 4: Capacitors in Series (4 points)
@@ -591,6 +609,10 @@ Express your answer in terms of the given quantities.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/sphere"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Esercizio 5 : Flusso di calore in un contenitore rotondo (4 punti)
 All'interno di un contenitore sferico viene mantenuta una temperatura costate $T_{in}$. La parete
@@ -609,7 +631,6 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/16GRyatJD7-hB9JAYcG-IqRrSxsHAh1kJ/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 5: Heat flux in a spherical container (4 points)
@@ -622,6 +643,10 @@ $$\int x^\alpha\, dx = \frac{x^{\alpha+1}}{\alpha + 1} + K, \quad \alpha \neq -1
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Esercizio 6 : Exopianeta (4 punti)
 Attorno alla stella Kepler-22 ($M_K = 0.97\,M_\text{Sole}$, $R_K = 0.979\,R_\text{Sole}$) orbita un Exopianeta Kepler-22b. Il piano dell'orbita di questo pianeta è orientato in modo che, visto dalla Terra, passi davanti

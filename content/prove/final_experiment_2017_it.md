@@ -11,6 +11,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2017 '' — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod,object/tank-container"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Esercizio 1: Determinazione delle forze e del coefficiente d'attrito con massimo attrito statico** (9 punti totali)
 
 ### Legge di Eulero-Eytelwein
@@ -42,7 +46,6 @@ Bisogna determinare le forze tra la corda e la sbarra con massimo attrito static
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Problem 1: Determination of Forces and the Coefficient of Friction with Maximum Static Friction** (9 points total)
@@ -72,6 +75,10 @@ It is necessary to determine the forces between the rope and the rod under maxim
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 '' — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Esercizio 2: Determinazione delle forze e del coefficiente d'attrito con attrito dinamico** (17 punti totali)
 
 Utilizza adesso una nuova corda. Useremo ancora un angolo di avvolgimento costante $\varphi = \pi$. Per determinare le forze di attrito dinamiche useremo due metodi diversi avvalendoci di dinamometri. Nel primo metodo la massa di carico viene tirata verso l'alto, mentre nel secondo metodo la massa viene calata verso il basso. Per il primo metodo — vedi (a) — si aumenta la forza applicata tirando lentamente il dinamometro fino a quando la corda comincia a muoversi a contatto con la sbarra. Bisogna quindi continuare a tirare con velocità costante e leggere il valore sul dinamometro. Nel secondo metodo — vedi (b) — si usa il dinamometro per diminuire la forza applicata fino a quando la corda comincia a muoversi rispetto alla sbarra. Bisogna quindi continuare il movimento con velocità costante per leggere il valore dal dinamometro.
@@ -91,7 +98,6 @@ Utilizza adesso una nuova corda. Useremo ancora un angolo di avvolgimento costan
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1lvaVL16ABiV6-GQWAKzOa6j9oPcECSSq/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Problem 2: Determination of forces and the coefficient of dynamic friction** (17 points total)
@@ -108,6 +114,10 @@ Now use a new rope. We will again employ a constant winding angle $\varphi = \pi
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 '' — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,object/rope-string,object/rod"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Esercizio 3: Determinazione delle forze con attrito dinamico in funzione dell'angolo di avvolgimento e del coefficiente di attrito dinamico** (22 punti totali)
 

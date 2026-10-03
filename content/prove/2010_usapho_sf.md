@@ -63,14 +63,7 @@ A spherical shell of inner radius $a$ and outer radius $b$ is made of a material
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un guscio sferico di raggio interno $a$ e raggio esterno $b$ è costituito da un materiale di resistività $\rho$ e di attività dielettrica trascurabile. Una carica a singolo punto $q_0$ si trova al centro della conchiglia. At time $t = 0$ all of the material of the shell is electrically neutral, including both the inner and outer surfaces. Qual è la carica totale sulla superficie esterna della conchiglia in funzione del tempo per $t > 0$? Ignorare eventuali effetti dovuti al magnetismo o alle radiazioni; non supporre che $b - a$ sia piccolo.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Differential Equations (metodo)|Differential Equations]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) - p.3](https://drive.google.com/file/d/1thWNEskxbTg6abQ1G5TfUdawyCCintBp/view)
-
+Una calotta sferica di raggio interno $a$ e raggio esterno $b$ è realizzata con un materiale di resistività $\rho$ e attività dielettrica trascurabile. Una singola carica puntiforme $q_0$ è posizionata al centro della calotta. All'istante $t = 0$ tutto il materiale della calotta è elettricamente neutro, comprese le superfici interna ed esterna. Qual è la carica totale sulla superficie esterna della calotta in funzione del tempo per $t > 0$? Trascurare ogni effetto dovuto al magnetismo o alla radiazione; non assumere che $b - a$ sia piccolo.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="USAPhO 2010 Semifinal - Quesito 3" data-tags="kg/prova,paese/USA,comp/USAPhO,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/piston,object/gas,object/cylinder"></span>

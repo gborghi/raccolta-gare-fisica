@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2006 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/block,object/battery,object/resistor,object/rod,object/rope-string"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a) Sei cubi identici numerati, ciascuno di massa $m$, sono in linea retta su un tavolo orizzontale liscio, a contatto. Una forza costante $F$ è applicata lungo la linea dei cubi. Determinare: (i) l'accelerazione del sistema; (ii) la forza risultante su ciascun cubo; (iii) la forza esercitata sul quinto cubo dal quarto cubo.
@@ -53,7 +57,6 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
 **Objects:** [[Block (object)|Block]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -103,6 +106,10 @@ m) An automobile starts from rest at $t=0$ and travels with constant acceleratio
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2006 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Un piccolo trasmettitore sonoro $T$ irradia uniformemente in tutte le direzioni e con quattro volte la potenza di ciascuno dei due trasmettitori simili $S_1$ e $S_2$, posti a distanza $l = 0{,}25\ \text{m}$ su entrambi i lati di $T$, lungo una linea nord-sud. $T$ è collegato in modo da essere a $180^\circ$ fuori fase con $S_1$ e $S_2$. Tutti e tre i trasmettitori emettono un segnale a $200\ \text{kHz}$. Un piccolo ricevitore $R$ è posto a distanza $d = 10{,}0\ \text{m}$ a est di $T$ e spostato lentamente verso est; in generale a distanza $x$ da $T$, con $x \geq 10{,}0\ \text{m}$. La velocità del suono è $330\ \text{m/s}$.
 
 a)
@@ -122,7 +129,6 @@ d) Indicare graficamente come l'intensità $I$ del segnale ricevuto in $R$ varia
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -153,6 +159,10 @@ d) Indicate graphically how the signal intensity $I$ received at $R$ varies with
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2006 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/battery,object/resistor"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Circuito con due celle e tre resistori: principio di sovrapposizione, potenza, sorgenti a.c.**
 
 <!--fig:start-->
@@ -176,7 +186,6 @@ d) (i) Quali modifiche, se ce ne sono, sono richieste alle soluzioni di (b)(i) s
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -206,6 +215,10 @@ d) (i) What changes, if any, are required in the solutions to (b)(i) if the batt
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2006 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/ball,object/spring"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Due palle identiche $A$ e $B$, ciascuna di massa $m$, sono unite da una molla priva di massa di costante elastica $k$. Sono in quiete su una superficie orizzontale liscia. Una palla $C$, massa $M$ e velocità $V_0$, colpisce $B$. Tutte le palle sono vincolate a muoversi lungo una linea retta.
 
 <!--fig:start-->
@@ -232,7 +245,6 @@ b) Considerare il moto successivo di $A$ e $B$ nel loro sistema del centro di ma
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Two identical balls $A$ and $B$, each of mass $m$, are connected by a massless spring with spring constant $k$. They are at rest on a smooth horizontal surface. A third ball $C$, of mass $M$ and velocity $V_0$, collides with $B$. All balls are constrained to move along a straight line.
@@ -254,6 +266,10 @@ b) Consider the subsequent motion of $A$ and $B$ in their center-of-mass frame. 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2006 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/resistor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) *[Tabella 5.1(a)]* In un esperimento per determinare l'autoriscaldamento di un termometro a resistenza di platino, i valori di corrente $I$ e tensione $V$ (Tabella 5.1(a)) sono stati trascritti da un quaderno di laboratorio. Le incertezze su $V$ sono dell'ordine di $1\ \mu\text{V}$ e i valori di $I$ erano di accuratezza molto maggiore.
 
@@ -281,7 +297,6 @@ Spiegare come, da un grafico, si potrebbe: (i) verificare che i dati della Tabel
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) *[Table 5.1(a)]* In an experiment to determine the self-heating of a platinum resistance thermometer, current values $I$ and voltage readings $V$ (Table 5.1(a)) were copied from a laboratory notebook. The uncertainties in $V$ are on the order of $1\ \mu\text{V}$, and the values of $I$ were measured with much higher accuracy.
@@ -305,6 +320,10 @@ Explain how, from a graph, one could: (i) verify that the data in Table 5.1(b) s
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2006 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/particle-beam,object/nucleus"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Un fascio parallelo uniforme di particelle alfa, numero per unità di volume $\rho$ e velocità $u$, ciascuna costituita da due protoni e due neutroni, viaggia lungo l'asse $z$. Si consideri un piano perpendicolare all'asse $z$ costituito da cerchi concentrici, centrati sull'asse $z$, di raggio $nt$, dove la costante $t$ è la distanza radiale fra cerchi adiacenti e $n$ è un intero ($0, 1, 2, 3, \dots$).
 
@@ -339,7 +358,6 @@ c)
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) A uniform parallel beam of alpha particles, with number density $\rho$ and velocity $u$, each consisting of two protons and two neutrons, travels along the $z$ axis. Consider a plane perpendicular to the $z$ axis, composed of concentric circles centered on the $z$ axis, with radius $nt$, where constant $t$ is the radial distance between adjacent circles and $n$ is an integer ($0, 1, 2, 3, \dots$).
@@ -370,6 +388,10 @@ c)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2006 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/projectile"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Un proiettile, massa $m$, è lanciato verticalmente verso l'alto con velocità $v$. Calcolare: (i) l'altezza massima $H$ raggiunta; (ii) il tempo $T$ impiegato per tornare al suolo.
 

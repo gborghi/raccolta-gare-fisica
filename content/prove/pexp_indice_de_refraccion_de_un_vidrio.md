@@ -90,39 +90,32 @@ Collegare il portafogli, accendere il polimetro e, utilizzando il tornitore, avv
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Experimental context:** The refractive index $n$ of a sheet of glass bearing objects is to be determined. The experimental device consists of a yellow LED emitter and a yellow LED photodetector optically coupled by a tube with a transverse groove where the sheet is placed. The potential difference $V_0$ (without sheet) and $V$ (with sheet) measured by the voltmeter are directly proportional to the incident and transmitted luminous intensities, respectively. The theory is:
+**Experimental context:** It is desired to determine the refractive index $n$ of a glass slide. The experimental setup consists of a yellow-emitting LED and a yellow-receiving photodetector optically coupled through a tube with a transverse slit where the slide is placed. The voltage difference $V_0$ (without slide) and $V$ (with slide), measured by the voltmeter, are directly proportional to the incident and transmitted light intensities, respectively. From theory:
 
 $$\frac{V}{V_0} = T^2$$
 
-where $T$ is the transmission of each glass-air interface, given by:
+where $T$ is the transmittance of each glass-air interface, given by:
 
 $$T = \frac{4n_0 n}{(n_0 + n)^2}$$
 
-with $n_0 = 1{,}000$ the air refractive index.
+with $n_0 = 1{,}000$ being the refractive index of air.
 
-Connect the power-driven control, turn on the polymer and, using the screwdriver, start measurements by moving the power-driven control until the voltmeter indicates a first value greater than 0 V. Write down the exact value obtained (first measurement of $V_0$). Then place the carrier sheet in the tube slot and write down the $V$ measurement indicated by the voltmeter. Continue measuring the power meter screw until you collect at least fifteen **** value pairs of $V_0$ and $V$, at an interval for $V_0$ between 0 mV and 1000 mV. Present the data in a table:
+Connect the battery holder, turn on the multimeter, and using the screwdriver, begin measurements by adjusting the potentiometer knob until the voltmeter indicates a first value greater than 0 V. Record the exact value obtained (first measurement of $V_0$). Next, place the glass slide into the slit of the tube and record the voltmeter reading $V$. By adjusting the potentiometer knob, continue taking measurements until at least fifteen pairs of values of $V_0$ and $V$ are collected, within an interval for $V_0$ ranging from 0 mV to 1000 mV. Present the data in a table:
 
 | $V_0$ / mV | $V$ / mV |
 |---|---|
 | | |
 
-(four points)
+(4 points)
 
 <!--fig:start-->
 ![[_attachments/Pexp_Indice_de_refraccion_de_un_vidrio/Pexp_Indice_de_refraccion_de_un_vidrio_p1_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 1: light beam through sheet*
+*Fig. 1: light ray passing through the slide*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Pexp_Indice_de_refraccion_de_un_vidrio/Pexp_Indice_de_refraccion_de_un_vidrio_p2_f2.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 2: tube-based photodetector-emitting circuit*
+*Fig. 2: emitter-photodetector circuit with tube*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Electrostatics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fgpYjZXqXA8jNdYrot_VbAAld7mWuSdx/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2025 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>

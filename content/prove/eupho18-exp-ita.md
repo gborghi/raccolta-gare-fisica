@@ -15,6 +15,8 @@ tags:
 
 <div class="qlang-switch" data-default="it"></div>
 
+
+
 **Membrana porosa**
 
 **Note generali.** Fornisci schizzi dettagliati di tutti i montaggi che usi. Stima gli errori solo nella parte A. A seconda del metodo che avrai usato, potresti essere in grado di completare le attività richieste senza utilizzare tutta l'attrezzatura fornita.

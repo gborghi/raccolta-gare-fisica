@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2005 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/resistor,object/conducting-sphere,object/projectile,object/sphere,object/planet"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a) Un termometro accurato, di capacità termica $20{,}0\ \text{J K}^{-1}$, segna $18{,}0\,^\circ\text{C}$. È posto in $0{,}250\ \text{kg}$ d'acqua e raggiungono la stessa temperatura finale di $50{,}0\,^\circ\text{C}$. Calcolare la temperatura dell'acqua prima dell'inserimento del termometro. Il calore specifico dell'acqua è $4200\ \text{J kg}^{-1}\,\text{K}^{-1}$.
@@ -46,7 +50,6 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Conducting Sphere (object)|Conducting Sphere]], [[Projectile (object)|Projectile]], [[Sphere (object)|Sphere]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -91,6 +94,10 @@ Mandatory question, with brief independent sub-questions:
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2005 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/planet,object/satellite"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a)
 - (i) Ricavare un'espressione per l'accelerazione di gravità a un'altezza $h$ sopra la superficie terrestre, $g_h$, in funzione di $g_0$ (accelerazione di gravità alla superficie) e $R_E$ (raggio della Terra). Assumere che la Terra sia una sfera di densità uniforme.
 - (ii) Ripetere il calcolo precedente per un punto sotto la superficie terrestre, a distanza $r$ dal centro della Terra.
@@ -111,7 +118,6 @@ c) Cosa limita il periodo massimo e minimo possibili di un satellite terrestre?
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a)
@@ -129,6 +135,10 @@ c) What limits the maximum and minimum possible periods of a terrestrial satelli
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2005 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/nucleus"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Un elemento $A$ è radioattivo, con costante di decadimento $\lambda_1$, e decade nell'elemento $B$. $B$ decade, con costante di decadimento $\lambda_2$, dove $\lambda_2 \gg \lambda_1$, nell'elemento stabile $C$. Al tempo $t$ il numero di atomi di $A$ è $N_1(t)$ e il numero di atomi di $B$ è $N_2(t)$. $N_0$ è il numero totale di atomi. Il rapporto $R = N_2/N_0$ si può mostrare essere dato da
 $$R = \frac{\lambda_1}{\lambda_2 - \lambda_1}\left[e^{-\lambda_1 t} - e^{-\lambda_2 t}\right].$$
@@ -152,7 +162,6 @@ e) Disegnare l'andamento di $N_3(t)$, numero di atomi di $C$, in funzione di $t$
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 An element $A$ is radioactive, with decay constant $\lambda_1$, and decays into element $B$. Element $B$ decays with decay constant $\lambda_2$ into element $\lambda_2 \gg \lambda_1$, which then decays into the stable element $C$. At time $t$, the number of atoms of $A$ is $N_1(t)$ and the number of atoms of $B$ is $N_2(t)$. $N_0$ is the total number of atoms. The ratio $R = N_2/N_0$ can be shown to be given by
@@ -172,6 +181,10 @@ e) Draw the behavior of $N_3(t)$, the number of atoms of $C$, as a function of $
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2005 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Una particella, massa $m$, ruota in un cerchio di raggio $r$ con velocità costante $s$.
 - (i) Determinare il lavoro fatto dalla particella in una rivoluzione.
@@ -195,7 +208,6 @@ e) Come influisce sul moto invertire la direzione di $B$?
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -223,6 +235,10 @@ e) How does reversing the direction of $B$ affect the motion?
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2005 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/sphere,object/point-charge"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Due sfere isolanti identiche $A$ e $B$ di raggio $a$ hanno densità di carica uniforme, ciascuna con carica negativa totale $-Q$. I loro centri sono a distanza $6a$. L'origine delle coordinate $O$ è a metà strada fra i centri. L'asse $x$ è lungo la linea dei centri.
 - (i) Qual è il potenziale elettrostatico $V$ in $O$?
 - (ii) In quali punti lungo l'asse $x$ il potenziale è uguale a quello in $O$?
@@ -242,7 +258,6 @@ c) Calcolare la forza che agisce su una particella di carica $q$, massa $m$, sul
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) Two identical insulating spheres $A$ and $B$ of radius $a$ have uniform charge density, each carrying total negative charge $-Q$. Their centers are separated by distance $6a$. The origin of coordinates $O$ lies midway between the centers. The axis $x$ is aligned along the line connecting the centers.
@@ -260,6 +275,10 @@ c) Calculate the force acting on a particle of charge $q$ and mass $m$, located 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2005 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/atom"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Ci sono tre forme di cristallo con struttura reticolare cubica: (i) cubico semplice (SC); (ii) cubico a corpo centrato (BCC); (iii) cubico a facce centrate (FCC). L'SC ha atomi ai vertici del cubo di ogni cella. Il BCC, in più, ha un atomo al centro di ogni cella cubica. L'FCC è un SC con atomi addizionali al centro di ogni faccia di ogni cella cubica. Un atomo condiviso fra più celle cubiche dà solo un contributo frazionario a una singola cella.
 
@@ -283,7 +302,6 @@ d) Raggi X di lunghezza d'onda $\lambda = 1{,}24\times 10^{-10}\ \text{m}$ incid
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 There are three crystal forms with cubic lattice structure: (i) simple cubic (SC); (ii) body-centered cubic (BCC); (iii) face-centered cubic (FCC). The SC has atoms at the vertices of each cube cell. The BCC, in addition, has one atom at the center of each cubic cell. The FCC is an SC with additional atoms located at the centers of each face of every cubic cell. An atom shared among multiple cubic cells contributes only a fractional part to any single cell.
@@ -303,6 +321,10 @@ d) X-rays with wavelength $\lambda = 1{,}24\times 10^{-10}\ \text{m}$ are incide
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2005 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/photon,object/electron"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) L'energia relativistica $E$ di un elettrone con quantità di moto $p$ è data da
 $$E^2 = p^2 c^2 + m_e^2 c^4.$$
@@ -326,7 +348,6 @@ c) Cosa si può dedurre su $f'$, $\theta$ e $p$ quando $hf \ll m_e c^2$?
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) The relativistic energy $E$ of an electron with momentum $p$ is given by
@@ -346,6 +367,10 @@ c) What can be deduced about $f'$, $\theta$ and $p$ when $hf \ll m_e c^2$?
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2005 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/planet,object/star"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a)
 
@@ -387,7 +412,6 @@ d) Calcolare la più piccola componente di velocità $v_s$, perpendicolare alla 
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1Sa_IWBglQNQWbSkcLB9PWviQYyBsTcaL/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a)
@@ -426,6 +450,10 @@ d) Calculate the smallest component of velocity $v_s$, perpendicular to its orbi
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2005 Locale Round 1 — Quesito 9" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Elettromagnetismo,object/resistor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Il circuito di Figura 9.1 consiste di cinque resistori, con resistenze $R_1, R_2, R_3, R_4$ e $R_5$. La corrente $I$ entra in $A$. Scegliendo valori appropriati di $R_2$ e $R_3$ nell'intervallo da zero a infinito, ridurre il circuito ai seguenti, indicando i valori di $R_2$ e $R_3$ e dando un diagramma circuitale:
 

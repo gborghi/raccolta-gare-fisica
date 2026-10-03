@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Come sapete, le Olimpiadi della Fisica rimborsano ai partecipanti il costo dei biglietti ferroviari. Siete alla ricerca di un partner che copra questi costi per il secondo turno. Quanto può aspettarsi di pagare il vostro partner?
 
 - **A.** CHF 9.-
@@ -31,7 +35,6 @@ Come sapete, le Olimpiadi della Fisica rimborsano ai partecipanti il costo dei b
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 As you know, the Physics Olympiad reimburses participants for train ticket expenses. You are looking for a partner to cover these costs for the second round. How much can you expect your partner to pay?
@@ -44,6 +47,10 @@ As you know, the Physics Olympiad reimburses participants for train ticket expen
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2025 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Il signor Fogg e Passepartout hanno accettato la sfida di circumnavigare il globo. Scelsero di seguire l'equatore. Il signor Fix, che li inseguiva, si trovava sempre nel punto della Terra diametralmente opposto ai due compagni. Quante volte Fix e Fogg si troveranno alla stessa altitudine nello stesso momento?
 
@@ -59,7 +66,6 @@ Il signor Fogg e Passepartout hanno accettato la sfida di circumnavigare il glob
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Mr. Fogg and Passepartout have accepted the challenge of circumnavigating the globe. They chose to follow the equator. Mr. Fix, who was chasing them, was always located at the point on Earth diametrically opposite to the two companions. How many times will Fix and Fogg be at the same altitude at the same time?
@@ -71,6 +77,10 @@ Mr. Fogg and Passepartout have accepted the challenge of circumnavigating the gl
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2025 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Quale delle seguenti configurazioni ha la più bassa costante elastica equivalente $k_{\text{eq}}$? Tutte le singole molle hanno la stessa costante elastica $k$ e la stessa lunghezza.
 
@@ -91,7 +101,6 @@ Quale delle seguenti configurazioni ha la più bassa costante elastica equivalen
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Which of the following configurations has the lowest equivalent spring constant $k_{\text{eq}}$? All individual springs have the same spring constant $k$ and the same length.
@@ -109,6 +118,10 @@ Which of the following configurations has the lowest equivalent spring constant 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2025 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring,object/satellite"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Globi ha deciso di volare sulla luna. Vorrebbe andare a trovare gli extraterrestri che si suppone vivano sulla luna. Poiché naturalmente non vuole arrivare senza nulla, ha deciso di portare con sé una forma di formaggio svizzero. Poiché vuole dividerlo equamente, porta con sé anche una bilancia a molla. Le bilance sono calibrate sulla Terra e la costante gravitazionale sulla Luna è circa sei volte più piccola che sulla Terra. Cosa scopre quando pesa la forma di formaggio sulla Luna?
 
 - **A.** Niente. La bilancia segnala lo stesso peso che sulla terra.
@@ -123,7 +136,6 @@ Globi ha deciso di volare sulla luna. Vorrebbe andare a trovare gli extraterrest
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Globi has decided to fly to the Moon. He wants to visit the aliens he assumes live on the Moon. Since naturally he doesn't want to arrive empty-handed, he has decided to bring along a piece of Swiss cheese. Since he wants to divide it equally, he also brings along a spring scale. The scales are calibrated on Earth and the gravitational constant on the Moon is about six times smaller than on Earth. What does he discover when weighing the piece of cheese on the Moon?
@@ -135,6 +147,10 @@ Globi has decided to fly to the Moon. He wants to visit the aliens he assumes li
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2025 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Siete in spedizione su un sottomarino sulla luna di Saturno Titano, che ha laghi di etano e metano liquidi. Hanno una densità di circa $500\,\text{g}\cdot\text{L}^{-1}$ e Titano ha un'accelerazione gravitazionale di $1.35\,\text{m}\cdot\text{s}^{-2}$. Si sa che Titano ha una pressione superficiale di $1.5\,\text{bar}$ ($1\,\text{bar}=1\times10^5\,\text{Pa}$). Il barometro del vostro sottomarino mostra una pressione di $3\,\text{bar}$. A che profondità siete nel lago?
 
@@ -152,7 +168,6 @@ Siete in spedizione su un sottomarino sulla luna di Saturno Titano, che ha laghi
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 You are on a mission aboard a submarine on Titan, Saturn's moon, which has lakes of liquid ethane and methane. The fluid has a density of approximately $500\,\text{g}\cdot\text{L}^{-1}$, and Titan has a gravitational acceleration of $1.35\,\text{m}\cdot\text{s}^{-2}$. It is known that Titan's surface pressure is $1.5\,\text{bar}$ ($1\,\text{bar}=1\times10^5\,\text{Pa}$). Your submarine's barometer reads a pressure of $3\,\text{bar}$. At what depth are you in the lake?
@@ -165,6 +180,10 @@ You are on a mission aboard a submarine on Titan, Saturn's moon, which has lakes
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2025 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una noce di cocco con velocità costante esplode e si divide in 3 pezzi che volano via in direzioni diverse. Quale delle seguenti affermazioni è corretta per i rispettivi vettori quantità di moto nel quadro di riferimento della noce di cocco?
 
@@ -180,7 +199,6 @@ Una noce di cocco con velocità costante esplode e si divide in 3 pezzi che vola
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A coconut with constant velocity explodes and splits into 3 pieces that fly off in different directions. Which of the following statements is correct regarding their respective momentum vectors in the coconut's reference frame?
@@ -192,6 +210,10 @@ A coconut with constant velocity explodes and splits into 3 pieces that fly off 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2025 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una moto si trova in un salto a mezz'aria e la sua ruota anteriore sta girando in senso orario dal punto di vista di Alice, che osserva da un lato. Inizialmente la moto non sta ruotando e l'asse della ruota anteriore è allineato con quello della ruota posteriore. Quale delle seguenti affermazioni descrive ciò che accade e perché accade quando il conducente preme il freno sulla ruota anteriore (e la ruota smette completamente di ruotare rispetto alla moto)?
 
@@ -209,7 +231,6 @@ Una moto si trova in un salto a mezz'aria e la sua ruota anteriore sta girando i
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A motorcycle is in mid-air during a jump, and its front wheel is rotating clockwise from Alice's viewpoint, who is observing from one side. Initially, the motorcycle is not rotating, and the axis of the front wheel is aligned with that of the rear wheel. Which of the following statements correctly describes what happens and why, when the rider applies the front brake (so that the wheel stops rotating completely relative to the motorcycle)?
@@ -223,6 +244,10 @@ A motorcycle is in mid-air during a jump, and its front wheel is rotating clockw
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2025 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Come abbiamo imparato nel primo round, una persona di altezza $h$ ha solo bisogno di uno specchio di altezza $h/2$ per vedersi completamente. Come deve essere appeso lo specchio affinché possa effettivamente vedersi?
 
@@ -238,7 +263,6 @@ Come abbiamo imparato nel primo round, una persona di altezza $h$ ha solo bisogn
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 As we learned in the first round, a person of height $h$ needs only a mirror of height $h/2$ to see themselves completely. How must the mirror be hung in order for them actually to see themselves?
@@ -250,6 +274,10 @@ As we learned in the first round, a person of height $h$ needs only a mirror of 
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2025 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una sottile lente convessa è mostrata in figura. La distanza dell'oggetto dalla lente e della sua immagine dalla lente è contrassegnata rispettivamente da $g$ e $b$. La lunghezza focale è indicata con $f$. A quale distanza dalla lente deve essere posto un oggetto affinché l'immagine abbia esattamente le stesse dimensioni dall'altra parte della lente?
 
@@ -270,7 +298,6 @@ Una sottile lente convessa è mostrata in figura. La distanza dell'oggetto dalla
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A thin convex lens is shown in the figure. The object distance from the lens and the image distance from the lens are marked respectively by $g$ and $b$. The focal length is indicated by $f$. At what distance from the lens should an object be placed so that the image has exactly the same size on the other side of the lens?
@@ -288,6 +315,10 @@ A thin convex lens is shown in the figure. The object distance from the lens and
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2025 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Data una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, qual è la minima separazione angolare in arcosecondi tra due luci di lunghezza d'onda $\lambda=500\,\text{nm}$, in modo che possano essere risolte attraverso la fenditura?
 
 - **A.** $35''$
@@ -302,7 +333,6 @@ Data una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, qual è la min
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Given a one-dimensional slit of width $l=3\,\text{mm}$, what is the minimum angular separation in arcseconds between two lights of wavelength $\lambda=500\,\text{nm}$ such that they can be resolved through the slit?
@@ -314,6 +344,10 @@ Given a one-dimensional slit of width $l=3\,\text{mm}$, what is the minimum angu
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2025 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 È fisicamente possibile un motore termico che opera tra due serbatoi termici a temperature $T_1=0\,°\text{C}$ e $T_2=100\,°\text{C}$ con un'efficienza di $30\%$?
 
@@ -329,7 +363,6 @@ Given a one-dimensional slit of width $l=3\,\text{mm}$, what is the minimum angu
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Is it physically possible for a heat engine operating between two thermal reservoirs at temperatures $T_1=0\,°\text{C}$ and $T_2=100\,°\text{C}$ to have an efficiency of $30\%$?
@@ -341,6 +374,10 @@ Is it physically possible for a heat engine operating between two thermal reserv
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2025 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Alice usa un cubetto di ghiaccio per raffreddare il suo bicchiere d'acqua. Subito dopo aver aggiunto il cubetto di ghiaccio, l'altezza dell'acqua nel bicchiere è $h_1$. Dopo un po', il cubetto di ghiaccio si è completamente sciolto. Cosa si può dire dell'altezza dell'acqua $h_2$ a questo punto?
 
@@ -356,7 +393,6 @@ Alice usa un cubetto di ghiaccio per raffreddare il suo bicchiere d'acqua. Subit
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Alice uses an ice cube to cool her glass of water. Immediately after adding the ice cube, the water level in the glass is $h_1$. After some time, the ice cube has completely melted. What can be said about the water level $h_2$ at this point?
@@ -368,6 +404,10 @@ Alice uses an ice cube to cool her glass of water. Immediately after adding the 
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2025 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Gli pneumatici svolgono un ruolo essenziale in Formula 1. La pressione degli pneumatici deve quindi essere ottimale. Vogliamo gonfiare uno pneumatico in modo da poter guidare a una pressione di $21\,\text{psi}$, dove $1\,\text{psi}$ corrisponde approssimativamente a $0.07\,\text{bar}$. Guidando, si raggiunge una temperatura del pneumatico di $90\,°\text{C}$ e la pressione del pneumatico di $21\,\text{psi}$ è prevista per questa temperatura. A quale pressione dobbiamo gonfiare lo pneumatico nella corsia dei box a una temperatura di $35\,°\text{C}$? Supponiamo che il volume sia costante.
 
@@ -385,7 +425,6 @@ Gli pneumatici svolgono un ruolo essenziale in Formula 1. La pressione degli pne
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Tires play an essential role in Formula 1. Therefore, tire pressure must be optimal. We want to inflate a tire so that we can drive at a pressure of $21\,\text{psi}$, where $1\,\text{psi}$ approximately corresponds to $0.07\,\text{bar}$. While driving, the tire reaches a temperature of $90\,°\text{C}$ and a pressure of $21\,\text{psi}$ is expected at this temperature. At what pressure should we inflate the tire in the pit lane, where the temperature is $35\,°\text{C}$? Assume that the volume remains constant.
@@ -398,6 +437,10 @@ Tires play an essential role in Formula 1. Therefore, tire pressure must be opti
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2025 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/gas"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una candela accesa si trova in una bacinella riempita d'acqua fino a metà dell'altezza della candela. Albertina mette un bicchiere sopra la candela in modo che il bicchiere sia immerso nell'acqua. La candela si spegne. Cosa succede al livello dell'acqua all'interno del bicchiere?
 
@@ -413,7 +456,6 @@ Una candela accesa si trova in una bacinella riempita d'acqua fino a metà dell'
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A lit candle is placed in a basin filled with water up to half the height of the candle. Albertina places a glass over the candle so that the glass is submerged in the water. The candle goes out. What happens to the water level inside the glass?
@@ -425,6 +467,10 @@ A lit candle is placed in a basin filled with water up to half the height of the
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2025 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Osservate il circuito in figura. Attraverso quali resistenze passa la corrente più piccola (il valore più basso di ampere) se tutte hanno la stessa resistenza $R$?
 
@@ -445,7 +491,6 @@ Osservate il circuito in figura. Attraverso quali resistenze passa la corrente p
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Observe the circuit in the figure. Through which resistors does the smallest current (lowest value in amperes) pass, if all have the same resistance $R$?
@@ -463,6 +508,10 @@ Observe the circuit in the figure. Through which resistors does the smallest cur
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2025 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 In quale situazione è maggiore il rischio di essere colpiti e feriti da un fulmine?
 
 - **A.** Salire le scale della Torre Eiffel.
@@ -477,7 +526,6 @@ In quale situazione è maggiore il rischio di essere colpiti e feriti da un fulm
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 In which situation is the risk of being struck and injured by lightning greater?
@@ -489,6 +537,10 @@ In which situation is the risk of being struck and injured by lightning greater?
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2025 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 La velocità di fuga della Terra per una particella di massa $m=1\,\text{kg}$ e carica $q=1\,\text{C}$ è circa $11.18\,\text{km}\cdot\text{s}^{-1}$. Quale sarebbe se la Terra avesse una carica totale di $Q=-44.3\,\text{kC}$? La massa della Terra è $M=5.97\times10^{24}\,\text{kg}$, il suo raggio è $R=6371\,\text{km}$, la costante di Coulomb è $\frac{1}{4\pi\varepsilon_0}=8.99\times10^9\,\text{kg}\cdot\text{m}^3\cdot\text{s}^{-2}\cdot\text{C}^{-2}$ e la costante gravitazionale è $G=6.67\times10^{-11}\,\text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$.
 
@@ -504,7 +556,6 @@ La velocità di fuga della Terra per una particella di massa $m=1\,\text{kg}$ e 
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 The escape velocity of Earth for a particle of mass $m=1\,\text{kg}$ and charge $q=1\,\text{C}$ is approximately $11.18\,\text{km}\cdot\text{s}^{-1}$. What would it be if Earth had a total charge of $Q=-44.3\,\text{kC}$? The mass of Earth is $M=5.97\times10^{24}\,\text{kg}$, its radius is $R=6371\,\text{km}$, the Coulomb constant is $\frac{1}{4\pi\varepsilon_0}=8.99\times10^9\,\text{kg}\cdot\text{m}^3\cdot\text{s}^{-2}\cdot\text{C}^{-2}$, and the gravitational constant is $G=6.67\times10^{-11}\,\text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$.
@@ -516,6 +567,10 @@ The escape velocity of Earth for a particle of mass $m=1\,\text{kg}$ and charge 
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2025 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/conducting-sphere"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Consideriamo due sfere, ciascuna con la stessa carica totale $q$. Una sfera è uniformemente carica in tutto il suo volume, mentre l'altra è una sfera conduttrice con la carica distribuita solo sulla sua superficie. Le sfere possono avere raggi diversi. Determinare quale sfera produce un campo elettrico più forte a una distanza $d$ dal centro della sfera, dove $d > R$ (il raggio della sfera).
 
@@ -532,7 +587,6 @@ Consideriamo due sfere, ciascuna con la stessa carica totale $q$. Una sfera è u
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Consider two spheres, each with the same total charge $q$. One sphere is uniformly charged throughout its volume, while the other is a conducting sphere with charge distributed only on its surface. The spheres may have different radii. Determine which sphere produces a stronger electric field at a distance $d$ from the center of the sphere, where $d > R$ (the radius of the sphere).
@@ -545,6 +599,10 @@ Consider two spheres, each with the same total charge $q$. One sphere is uniform
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2025 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 La chef Clara vuole riscaldare il cibo il più rapidamente possibile. Decide di utilizzare il suo piano cottura a induzione, che genera un campo magnetico mutevole per indurre correnti nelle pentole di metallo. Cosa le consigliereste?
 
@@ -560,7 +618,6 @@ La chef Clara vuole riscaldare il cibo il più rapidamente possibile. Decide di 
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Chef Clara wants to heat her food as quickly as possible. She decides to use her induction cooktop, which generates a changing magnetic field to induce currents in metal pots. What would you advise her?
@@ -572,6 +629,10 @@ Chef Clara wants to heat her food as quickly as possible. She decides to use her
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2025 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 È noto che è possibile rompere un bicchiere di vino con il giusto suono. Cosa succede al suono necessario per rompere il bicchiere se lo riempiamo parzialmente d'acqua?
 
@@ -587,7 +648,6 @@ Chef Clara wants to heat her food as quickly as possible. She decides to use her
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 It is known that it is possible to break a wine glass with the right sound. What happens to the sound required to break the glass if we partially fill it with water?
@@ -599,6 +659,10 @@ It is known that it is possible to break a wine glass with the right sound. What
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2025 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 L'immagine mostra un'onda stazionaria su una corda tra due pareti al tempo $t=0\,\text{s}$. La corda vibra a una frequenza di $100\,\text{Hz}$. Quale delle seguenti immagini mostra lo stato della corda al tempo $t=10\,\text{ms}$?
 
@@ -619,7 +683,6 @@ L'immagine mostra un'onda stazionaria su una corda tra due pareti al tempo $t=0\
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 The image shows a standing wave on a string between two walls at time $t=0\,\text{s}$. The string vibrates at a frequency of $100\,\text{Hz}$. Which of the following images shows the state of the string at time $t=10\,\text{ms}$?
@@ -636,6 +699,10 @@ The image shows a standing wave on a string between two walls at time $t=0\,\tex
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2025 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/rope-string,object/cylinder"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Problema lungo 2.1: Ascensore per barche Strépy-Thieu (16 punti)**
 
@@ -684,7 +751,6 @@ iii. (1.5 pt) Calcolare la potenza media necessaria durante la fase di acceleraz
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -798,6 +864,10 @@ ii. (1 pt) Qual è il valore della frazione $\dfrac{V_1}{V_2}$?
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2025 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/galvanometer,object/capacitor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Problema lungo 2.3: Voltmetro (16 punti)**
 

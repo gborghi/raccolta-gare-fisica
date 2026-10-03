@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2019 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Ottica,object/pipe-tube,object/tank-container"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Finale**
 
 Olimpiadi della Fisica 2019

@@ -667,7 +667,6 @@ Espressione per la densità di flusso magnetico:
 **Objects:** [[Magnet (object)|Magnet]], [[Particle Beam (object)|Particle Beam]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
-[[52_IPhO_2022_2Rd_Aufgaben__Q09]]
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2022 — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/capacitor"></span>

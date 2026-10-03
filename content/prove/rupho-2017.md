@@ -218,18 +218,9 @@ in Figure 8), the ohmmeter’s reading will display a value of $R_x$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5. - Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, and that is that is that is that is what is what is what is what is what is what is what is what is what is what is what is what is what is what is
-Il circuito elettrico (Figura 7) è costituito dagli stessi omometri e da una resistenza $R = 1\ \text{k}\Omega$. Tutti
-Figura 5: Problema 5
-i contatori di ommetri sono collegati in modo tale che per i dispositivi con numero impar il terminale è marcato con
-un segno più è a sinistra, e per pari è in cima. Trova le letture del primo, quarto e tredicesimo
-Ohmmetri.
-Nota: Considera che un ommetro è costituito da una fonte di tensione costante ideale U, una resistenza con resistenza $R = 1\ \text{k}\Omega$ e un ammetro ideale collegato in serie ((Figura 8). Quando una resistenza si collega a
-Ohmmeter, calcola la sua resistenza in base al valore dell'ampimetro. Quindi se colleghiamo alcuni $R_x$ (come
-Nella figura 8), la lettura di ohmmeters mostrerà un valore di $R_x$.
+Problema 5. “Ohm-m-m...”
+Il circuito elettrico (Figura 7) è composto da ohmmetri identici e un resistore con resistenza $R = 1\ \text{k}\Omega$. Tutti gli ohmmetri sono collegati in modo tale che per i dispositivi con numero dispari il terminale contrassegnato dal segno positivo si trovi sulla sinistra, mentre per quelli con numero pari si trovi in alto. Determinare le letture del primo, quarto e tredicesimo ohmmetro.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1oPnMBTbG7Nbl_6e1TjTvbJdGFlyGLxqP/view)
+Nota: Si consideri che un ohmmetro è costituito da una sorgente di tensione continua ideale U, da un resistore con resistenza $R = 1\ \text{k}\Omega$ e da un amperometro ideale collegati in serie (Figura 8). Quando si collega una resistenza all’ohmmetro, questo calcola il valore della sua resistenza in base al valore indicato dall’amperometro. Pertanto, se si collega una resistenza $R_x$ (come nella Figura 8), la lettura dell’ohmmetro mostrerà un valore di $R_x$.
+
+

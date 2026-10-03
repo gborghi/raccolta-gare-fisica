@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2003 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/resistor,object/battery,object/photon,object/nucleus,object/cylinder"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Domanda compulsoria, composta da brevi quesiti indipendenti:
 
 - a) Commentare le correzioni necessarie a misure di corrente: (i) il valore di corrente in un resistore $78{,}46\ \text{V}$ e $13{,}56\ \text{mA}$, una sola unità decimale a $1063{,}9\ \text{kW}$ (verifica di letture); (ii) le dimensioni di un parallelepipedo, misurate in mm, $52{,}5\times 35{,}5\times 95{,}0$; ha densità $0{,}000179525\ \text{m}$ e $0{,}7665336\ \text{kg}$; (iii) corrente $I = 8{,}03\ \text{A}$ nel circuito di Figura 1.1 (sorgente $12{,}1\ \text{V}$, resistori $12{,}0\ \Omega$, $6{,}00\ \Omega$, $6{,}00\ \Omega$). *[verificare cifre significative e ricalcolare]*
@@ -36,7 +40,6 @@ Domanda compulsoria, composta da brevi quesiti indipendenti:
 **Competenze:** [[Significant Figures (competenza)|Significant Figures]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Photon (object)|Photon]], [[Nucleus (object)|Nucleus]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -65,6 +68,10 @@ Compulsory question, consisting of brief independent sub-questions:
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2003 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/rod,object/spring"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Due sbarre orizzontali identiche $A$ e $B$, ciascuna di massa $M$, sono poste una sopra l'altra; l'inferiore $A$ è appoggiata su molle ideali e l'altra $B$ è tenuta a un'altezza $h$ sopra. Il sistema è rilasciato da fermo (Figura 2.1).
 
 <!--fig:start-->
@@ -89,7 +96,6 @@ Due sbarre orizzontali identiche $A$ e $B$, ciascuna di massa $M$, sono poste un
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Two identical horizontal bars $A$ and $B$, each of mass $M$, are stacked one above the other; the lower bar $A$ is supported by ideal springs, and the upper bar $B$ is held at a height $h$ above it. The system is released from rest (Figure 2.1).
@@ -112,6 +118,10 @@ Two identical horizontal bars $A$ and $B$, each of mass $M$, are stacked one abo
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2003 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/photon,object/electron"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Fotoni di lunghezza d'onda $\lambda$ entrano nell'apparato di fotoemissione (Figura 3.1). I fotoni colpiscono il catodo $A$ ed estraggono fotoelettroni. Una tensione $V_a$ esiste fra catodo $A$ e anodo.
   - (i) Spiegare la natura del catodo.
@@ -151,7 +161,6 @@ c) Il monitor della fotoemissione fra $C$ e il display finale della griglia $G2$
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) Photons of wavelength $\lambda$ enter the photoemission apparatus (Figure 3.1). The photons strike the cathode $A$ and eject photoelectrons. A voltage $V_a$ exists between the cathode $A$ and the anode.
@@ -186,6 +195,10 @@ c) The emission monitor between $C$ and the final grid display $G2$ is determine
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2003 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/battery,object/resistor"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Determinare le correnti $i_1$ e $i_2$ nel circuito di Figura 4.1. Le celle hanno emf $E$, con resistenza interna trascurabile, e resistori di resistenza $R$.
 
 <!--fig:start-->
@@ -214,7 +227,6 @@ d) La Figura 4.3 contiene una disposizione triangolare di $5\ \Omega$, $4\ \Omeg
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) Determine the currents $i_1$ and $i_2$ in the circuit of Figure 4.1. The cells have electromotive force (emf) $E$, negligible internal resistance, and resistors of resistance $R$.
@@ -241,6 +253,10 @@ d) Figure 4.3 contains a triangular arrangement of $5\ \Omega$, $4\ \Omega$, $1\
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2003 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/wire,object/magnet"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Il modulo della densità di flusso magnetico $B$ a una distanza $r$ da un filo rettilineo infinito che porta corrente $I$ è dato da
 $$B = \frac{\mu_o I}{2\pi r},$$
 dove $\mu_o$ è la permeabilità dello spazio libero. Mostrare che la forza per unità di lunghezza $F$ fra due fili paralleli infiniti che portano correnti $I_1$ e $I_2$ a distanza $r$ è
@@ -266,7 +282,6 @@ dove $\gamma$ e $\lambda$ sono costanti. Quando il tappo è sospeso da un filo n
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Wire (object)|Wire]], [[Magnet (object)|Magnet]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -317,6 +332,10 @@ c) Questa relazione è valida per ogni possibile orbita ellittica $R$ interpreta
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2003 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Spiegare, con diagrammi, le differenze fra onde longitudinali e trasversali. Dare un esempio di onda trasversale.
 
 b) Spiegare i seguenti fenomeni acustici:
@@ -338,7 +357,6 @@ e) Un aereo bimotore vola a bassa quota verso un osservatore stazionario. La fre
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) Explain, with diagrams, the differences between longitudinal and transverse waves. Give an example of a transverse wave.
@@ -356,6 +374,10 @@ e) A twin-engine airplane flies at low altitude toward a stationary observer. Th
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2003 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/diffraction-grating,object/slit,object/screen,object/star"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Una banda di frequenza di radiazione elettromagnetica, come presente nella luce bianca, è trasmessa attraverso un reticolo. Osservando il fascio di luce diffratto, lo spettro trasmesso permette di concludere che l'indice di rifrazione del mezzo con luce visibile è data dalla lunghezza d'onda?
 
@@ -388,7 +410,6 @@ d) Un impulso è un evento di neutroni stellari adiacenti che cambiano l'indice 
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) A band of electromagnetic radiation frequency, such as present in white light, is transmitted through a diffraction grating. Observing the diffracted light beam, the transmitted spectrum allows one to conclude that the refractive index of the medium for visible light is given by the wavelength?
@@ -417,6 +438,10 @@ d) An impulse is an event involving adjacent neutron stars that alters the refra
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2003 Locale Round 1 — Quesito 9" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/electron,object/photon,object/atom"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Un elettrone in un atomo di idrogeno fa una transizione dallo stato fondamentale, con energia $E_1 = -13{,}60\ \text{eV}$, al primo stato eccitato, energia $E_2 = -3{,}40\ \text{eV}$.
 - (i) Dedurre se un fotone è stato emesso o assorbito.
 - (ii) Determinare la lunghezza d'onda del fotone.
@@ -438,7 +463,6 @@ d) Un raggio X di lunghezza d'onda $\lambda$ è diffuso da un elettrone staziona
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) An electron in a hydrogen atom transitions from the ground state, with energy $E_1 = -13{,}60\ \text{eV}$, to the first excited state, energy $E_2 = -3{,}40\ \text{eV}$.
@@ -457,6 +481,10 @@ d) An X-ray with wavelength $\lambda$ is scattered by a stationary electron, pro
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="BPhO 2003 Locale Round 1 — Quesito 10" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/block,object/resistor,object/calorimeter"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Un recipiente isolato contiene un blocco di ghiaccio a $-20\,^\circ\text{C}$. Una resistenza di riscaldamento costante e una sonda di temperatura sono inserite nel ghiaccio; il riscaldatore è acceso e la temperatura sale lentamente in modo da rendere il riscaldamento sempre a un tasso uniforme. La temperatura sale da $-20\,^\circ\text{C}$ a $120\,^\circ\text{C}$, con il seguente schizzo di temperatura, $T$, contro il tempo, $t$. Spiegare la disposizione delle molecole nelle diverse regioni di temperatura.
 

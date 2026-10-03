@@ -282,30 +282,26 @@ In un esperimento si intende determinare la tensione superficiale di un liquido 
 
 **Determination of the surface tension of a liquid** (2 points)
 
-Capillarity is a physical phenomenon whereby fluids rise through very narrow tubes. This is because the attractive force between the molecules of the liquid is less than that of adhesion between the liquid and the inner surface of the tube. When a radial glass capillary tube $r$ is inserted into a liquid of $\rho$ density that "wetens" it, the liquid is observed to rise through the tube to a height $h$, verifying the so-called **Jurin's Law**:
+Capillarity is a physical phenomenon in which liquids rise through very narrow tubes. It occurs because the attractive force between molecules of the liquid is less than the adhesive force between the liquid and the inner surface of the tube. When a glass capillary tube of radius $r$ is inserted into a liquid of density $\rho$ that "wets" it, the liquid rises inside the tube to a height $h$, thereby verifying the so-called **Jurin's Law**:
 
 $$h = \frac{2\gamma}{\rho r g}$$
 
-where $\gamma$ is the surface tension of the liquid and $g$ the acceleration of gravity.
+where $\gamma$ is the surface tension of the liquid and $g$ is the acceleration due to gravity.
 
-In an experiment, the surface tension of a liquid of density $\rho = 0.79 \ \text{g/cm}^3$ is intended to be determined. The following values $(h, r)$ are taken:
+In an experiment, it is intended to determine the surface tension of a liquid with density $\rho = 0.79 \ \text{g/cm}^3$. Pairs of values $(h, r)$ are taken:
 
 | $r$ (mm) | 0.60 | 0.65 | 0.75 | 1.00 | 1.25 | 1.50 | 2.10 |
 |----------|------|------|------|------|------|------|------|
 | $h$ (mm) | 10.4 | 9.22 | 8.03 | 6.00 | 4.62 | 3.81 | 3.01 |
 
-The Commission has also adopted a number of proposals for the implementation of the programme.
+**Questions:**
 
-**a) ** From $r$, redefine a variable $z$ so that $h$ depends linearly on it. It builds the corresponding table $(h, z)$.
+**a)** Based on $r$, redefine a variable $z$ such that $h$ depends linearly on it. Construct the corresponding table $(h, z)$.
 
-**b) ** Performs the graphical analysis of the obtained data and obtains the regression line of $h$ versus $z$.
+**b)** Perform a graphical analysis of the obtained data and determine the regression line of $h$ versus $z$.
 
-**c) ** Compare the equation of the regression line with the expression of Jurin's Law. Determine the surface tension $\gamma$ value, together with its error margins. It expresses the results in units of the International System.
+**c)** Compare the equation of the regression line with Jurin's Law expression. Determine the value of surface tension $\gamma$, including its error margins. Express the results in SI units.
 
-**d) ** Using the values obtained from the adjustment, predict the height value for a radial capillary $r = 1.11 \ \text{mm}$.
+**d)** Using the values obtained from the fit, predict the height value for a capillary of radius $r = 1.11 \ \text{mm}$.
 
-**Topic:** [[Fluid Mechanics]], [[Elasticity & Materials]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12LDhUrzCejuv_-kaFwXjvmmleoCiHoJi/view)
+

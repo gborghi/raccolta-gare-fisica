@@ -118,49 +118,45 @@ g) Per igualarne i tempi sulle curve, la pista B è modificata variando la massi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The physics of the Scalextric
+**P1 The Physics of Scalextric**
 
-The Scalextric is a racing car toy whose origins date back to 1952, when the Minimodels company began manufacturing miniature models of racing cars such as Maserati or Ferrari. The scale of the models was very variable, and each car was made in a different size. For this reason the range of cars was named ScaleX (a word composed of "Scale" and "X", meaning "variable scale", or "unknown").
+Scalextric is a toy racing car system whose origins date back to 1952, when the company Minimodels began producing miniature models of racing cars such as Maserati or Ferrari. The scale at which the models were built was highly variable, and each car was manufactured in a different size. For this reason, the range of cars was called ScaleX (a compound word from "Scale" and "X," meaning "variable scale," or "unknown").
 
-Fred Francis, owner of Minimodels, had the idea of powering the cars with a rope mechanism. The toy was so successful that Minimodels decided to test it with electric motors. From then on, ScaleX became Scalextric (a contraction of the words ScaleX and Electric). To run on the tracks, guided lanes were designed that have electrical contacts on both sides. The cars move along the lanes thanks to a direct current power supply connected to each of the two metal rails that each track has. These rails are connected to the engine by two brushes located at the bottom of the car. The brushes are flexible and slide over the rails as cars advance along the track, transmitting electric current to the engine.
+Fred Francis, owner of Minimodels, had the idea of powering the cars with a winding mechanism. The toy was such a success that Minimodels decided to experiment with electric motors. From then on, ScaleX became Scalextric (a contraction of "ScaleX" and "Electric"). To enable racing on tracks, guide rails were designed with electrical contacts on both sides. The cars move along the rails thanks to a direct current power supply connected to each of the two metallic rails that make up every track. These rails are linked to the motor via two brushes located on the underside of the car. The brushes are flexible and slide along the rails as the cars travel around the track, transmitting electrical current to the motor.
 
-The speed of the car is controlled by a control consisting of a variable electrical resistance connected in series between the car engine and the power supply. Pressing the control button changes its electrical resistance, which varies between a virtually zero value (when the button is pushed to the top) and a maximum resistance (when not pressed). The controller carries a built-in dock that returns the pusher to the maximum resistance position when it stops pushing. By varying the resistance of the control, the car's engine can circulate more or less current intensity, thus controlling its speed on the track.
+The car's speed is controlled by a lever consisting of an electric variable resistor connected in series between the car's motor and the power supply. Pressing the lever button changes its electrical resistance, which varies from a practically negligible value (when the button is pushed all the way in) to a maximum resistance (when not pressed). The lever includes a spring that returns the button to its position of maximum resistance when released. By varying the resistor's value, the current flowing through the car’s motor can be increased or decreased, thus enabling control of its speed on the track.
 
-Let's explore the physics of a Scalextric circuit like the MSK0/>Fig. 1**, consisting of two horizontal lanes A and B separated by a distance $d = 25$ cm. Each track has two parallel straight sections $S_1$ and $S_3$, of length $L = 5$ m, and two semicirculars $S_2$ and $S_4$ radii $R = 75$ cm for the indoor track and $(R + d)$ for the outdoor track. Two cars of mass $m = 125$ g each circulate one on each track. They leave at zero speed and turn against the clock.
+Let us explore the physics of a Scalextric circuit like that in **Figure 1**, consisting of two horizontal tracks A and B separated by a distance of $d = 25$ cm. Each track has two straight parallel sections $S_1$ and $S_3$, each of length $L = 5$ m, and two semicircular sections $S_2$ and $S_4$ with radii $R = 75$ cm for the inner track and $(R + d)$ cm for the outer track. Two cars, each with mass $m = 125$ g, travel one on each track. They start from rest at the finish line and move in a counterclockwise direction.
 
-In the movement of the car energy is dissipated due to a number of factors which, together, behave as a dynamic friction of coefficient $\mu_d$. In curved sections the rails can withstand a maximum lateral force $F_{\max} = 1{,}5$ N, above which the cars exit the rails. The cabling of the car engine has an electrical resistance $R_c = 5{,}0\ \Omega$.
+During motion, energy is dissipated due to several factors that collectively behave like dynamic friction with a coefficient of $\mu_d$. On curved sections, the rails can withstand a maximum lateral force of $F_{\max} = 1{,}5$ N; exceeding this value causes the cars to derail. The motor wiring has an electrical resistance of $R_c = 5{,}0\ \Omega$.
 
-To simplify the problem, the only power losses in the engine are assumed to be due to the strength of its wiring. The control pulser controls a resistance $R_v$, which varies linearly with the pulser's path, between $0$ (bottom pulse) and $R_{\max} = 400\ \Omega$ (loose pulse). The track is powered by a continuous voltage source whose FEM is $\varepsilon = 15$ V. The following table shows the results of the study: 2** shows a diagram of the electrical circuit formed by the motor of the car in series with the control and power supply.
+To simplify the problem, it is assumed that the only energy losses in the motor are due to the resistance of its wiring. The control button switch regulates a resistance $R_v$, which varies linearly with the travel of the button, ranging from $0$ (fully pressed) to $R_{\max} = 400\ \Omega$ (released). The track is powered by a continuous voltage source with an electromotive force of $\varepsilon = 15$ V. The **Figure 2** shows a schematic of the electrical circuit formed by the car's motor in series with the control unit and the power supply.
 
-(a) Knowing that the engine does not convert electrical energy into mechanical when the control button is left unlocked, calculate the reading of the $I_0$ ampere and the power supply from the $P_{f0}$ voltage source.
+a) Knowing that the motor does not convert electrical energy into mechanical energy when the control button is released, calculate the ammeter reading $I_0$ and the power supplied by the voltage source $P_{f0}$.
 
-(b) Start the race! Players press their controls and the cars start moving through the $S_1$ stretch. To simplify the analysis, we assume that the electrical intensity in the circuit, after pressing the controls, almost instantly reaches a value of $850$ mA which remains constant throughout the $S_1$ stretch. Determine the electrical power that the engine is converting into mechanical power to move a car.
+b) The race begins! Players press their control buttons fully, and the cars start moving along segment $S_1$. To simplify the analysis, we assume that immediately after pressing the buttons, the electric current in the circuit reaches a value of $850$ mA almost instantaneously and remains constant throughout segment $S_1$. Determine the electrical power that the motor is converting into mechanical power to move one car.
 
-(c) Suppose that cars accelerate from rest to a maximum speed in a very short (negligible) time and then their speed is kept constant. If the cars take $t_1 = 1{,}25$ s to travel the $S_1$ stretch, what is the value of the dynamic friction coefficient $\mu_d$?
+c) Assume that the cars accelerate from rest to maximum speed in a very short time (negligible), and afterward, their speed remains constant. If the cars take a time $t_1 = 1{,}25$ s to travel segment $S_1$, what is the value of the dynamic friction coefficient $\mu_d$?
 
-(d) Cars are entered in the $S_2$ sector. Calculate the maximum speed at which car A can travel in this sector so that it does not slip out of the curve.
+d) The cars enter sector $S_2$. Calculate the maximum speed at which car A can travel in this sector without sliding off the curve.
 
-(e) In order for car A to draw the $S_2$ sector curve at maximum speed, at what percentage $\mathcal{P}$ of its journey does the control need to be pressed? Suppose that in the transition between $S_1$ and $S_2$ both the changes in speed and kinetic energy occur in a very short time. In $S_2$ the ampere continues to mark $850$ mA.
+e) To enable car A to trace the curve in sector $S_2$ at maximum speed, what percentage $\mathcal{P}$ of its journey must the control lever be pressed? Assume that both speed changes and kinetic energy variations occur over a very short time during the transition between $S_1$ and $S_2$. At $S_2$, the ammeter continues to read $850$ mA.
 
-f) Two friends play with identical car tracks, one on runway A and one on runway B. Before you start playing, discuss which of the two cars has the advantage. The runway pilot of track B argues that A has an advantage because it travels less distance on the corners. The player on track A maintains that the player on track B runs curves with a greater radius and that, therefore, the car can go faster on them. If both cars are going in the $S_2$ and $S_4$ sectors at the maximum possible speed, calculate the difference between the times of both in the corners and explain which of the two is correct.
+f) Two friends play with identical cars, one on track A and the other on track B. Before starting to play, they debate which car has an advantage. The driver of track B argues that car A has the advantage because it covers less distance on curves. The player on track A claims that car B travels on curves with a larger radius and therefore can go faster on them. If both cars travel at maximum possible speed in sectors $S_2$ and $S_4$, calculate the difference in their times on curves and explain which of them is correct.
 
-(g) In order to match the times of the two cars at the corners, track B shall be modified by varying the maximum force that the rails can withstand without the car going off track. What is the value of the maximum force in lane B?
+g) To equalize the travel times of both cars on curves, track B is modified by changing the maximum force that the rails can withstand without causing derailment. What must be the value of this maximum force on track B?
 
 <!--fig:start-->
 ![[_attachments/P1_scalextric/P1_scalextric_p1_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+*Scalextric car photo*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/P1_scalextric/P1_scalextric_p1_f2.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following information shall be provided:
+*Fig. 1 Scalextric track circuit diagram*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/P1_scalextric/P1_scalextric_p2_f3.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 2 electrical circuit with ampere *
+*Fig. 2 electrical circuit with ammeter*
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Spring (object)|Spring]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/11eqIKDB9HqtoOzQs84Kke69cWsjdEjjd/view)
+

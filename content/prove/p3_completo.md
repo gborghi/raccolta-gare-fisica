@@ -369,29 +369,22 @@ Data: raggio di un protone $r_p = 0{,}88 \times 10^{-15}\ \text{m}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Let's talk about the detection system now. A Michelson interferometer has been used, which is outlined in Figure 4. A laser beam of $\lambda$ wavelength affects 45° on a semi-split sheet (beam divider, D) where it is divided into two beams, 1 and 2, traveling in perpendicular directions. Each beam is normally reflected in a flat mirror, E1 and E2, and turns back towards D. Part of beam 1 is reflected and part of beam 2 is transmitted, so that in beam 3 the light waves 1 and 2 that have been passed back and forth by each of the interferometer arms overlap (interfere). The intensity of the resulting wave depends on the phase difference, $\varphi$, between these two waves. For example, if they are superimposed in the counterphase ($\varphi = \pi$) the resulting intensity $I_3$ is zero (minimum interference). Any small variation in arm length produces a change in the interference state and therefore in $I_3$, which is measured with a photodetector, F.
+We will now discuss the detection system. A Michelson interferometer has been used, as schematically shown in Figure 4. A laser beam of wavelength $\lambda$ strikes a semi-reflective plate (beam splitter, D) at 45°, where it splits into two beams, 1 and 2, traveling in perpendicular directions. Each beam reflects normally off a plane mirror, E1 and E2, respectively, and returns toward D. Part of beam 1 is reflected while part of beam 2 is transmitted, so that in beam 3 the light waves from beams 1 and 2—having traveled along each arm of the interferometer and returned—are superposed (they interfere). The intensity of the resulting wave depends on the phase difference, $\varphi$, between these two waves. For example, if they superpose in antiphase ($\varphi = \pi$), the resulting intensity $I_3$ is zero (interference minimum). Any small variation in the length of the arms produces a change in the interference state and thus in $I_3$, which is measured by a photodetector, F.
 
-Following the example above, if starting from an interference minimum the length of one arm increases by $\lambda/4$, the total path taken by the light in that arm (going back and forth) increases by $\lambda/2$, so that the waves interfere in phase and an interference maximum is achieved. If the length increase was $\lambda/2$ a new minimum zero would be reached, in the interference order following the initial one.
+Continuing with the previous example, if starting from an interference minimum the length of one arm increases by $\lambda/4$, the total path traveled by light in that arm (there and back) increases by $\lambda/2$, so the waves now interfere in phase and a maximum interference occurs. If the length increase were $\lambda/2$, a new zero minimum would be reached in the next interference order relative to the initial one.
 
-In the Livingston Observatory interferometer the two arms have the same length $L_0 = 4{,}0\ \text{km}$. Figure 5 shows, in a very exaggerated way, what happens when a gravitational wave hits the Earth's surface. These waves periodically shorten and lengthen the spacetime factory so that the $L$ length of the interferometer arms oscillates between $L_0 + A$ and $L_0 - A$, with the particularity that these oscillations are in contraphase, i.e. when arm 1 reaches its maximum length $L_0 + A$, arm 2 has the minimum, $L_0 - A$, and vice versa.
+In the interferometer at the Livingston observatory, both arms have the same length $L_0 = 4{,}0\ \text{km}$. In Figure 5, a highly exaggerated representation is shown of what happens when a gravitational wave reaches the Earth's surface. These waves periodically contract and stretch spacetime, so that the length $L$ of the interferometer's arms oscillates between $L_0 + A$ and $L_0 - A$, with the particularity that these oscillations are out of phase; that is, when arm 1 reaches its maximum length $L_0 + A$, arm 2 has its minimum length $L_0 - A$, and vice versa.
 
-It is usually worked on the basis of the unitary deformation ("strain" in English) defined as $h = \Delta L / L_0$, where $\Delta L$ is the difference between the lengths of the two arms. This dimension $h$ is the one shown in the order of the graph in Figure 1, which clearly observes the oscillations of $h$ produced by the gravitational wave arrival. The amplitude of this oscillation reaches $h_{\max} = 10^{-21}$ when the black holes begin to merge.
+It is common to work in terms of the dimensionless strain (in English), defined as $h = \Delta L / L_0$, where $\Delta L$ is the difference between the lengths of the two arms. This dimensionless quantity $h$ is what appears on the vertical axis of the graph in Figure 1, clearly showing the oscillations of $h$ caused by the arrival of the gravitational wave. The amplitude of this oscillation reaches up to $h_{\max} = 10^{-21}$ when the black holes begin to merge.
 
-**f) ** Estimate the maximum range of oscillation of the arms of the Livingston interferometer, $A_{\max}$, when you received this signal. Compare your result to the radius of a proton.
+**f)** Make an estimate of the maximum amplitude of oscillation of the arms of the Livingston interferometer, $A_{\max}$, when it received this signal. Compare your result with the radius of a proton.
 
-Date: radius of one proton $r_p = 0{,}88 \times 10^{-15}\ \text{m}$.
+Data: radius of a proton $r_p = 0{,}88 \times 10^{-15}\ \text{m}$.
 
 <!--fig:start-->
 ![[_attachments/P3_completo/P3_completo_p2_f4.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the results of the calculation of the maximum value of the value of the product:
+*Fig. 4 Michelson interferometer schematic*
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1bQHLWur1iwftsF8JIKw7xle5jPKX3jxd/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Spagna na — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/mirror"></span>

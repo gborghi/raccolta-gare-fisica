@@ -189,6 +189,10 @@ Campo magnetico sulla superficie terrestre: $\vec{B}$ =
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2019 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston,object/resistor"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Esercizio 3 : Termodinamica (16 punti)
 Un tubo cilindrico con una parete laterale di vetro
 di spessore d (conducibilit`a termica k) viene chiuso ermeticamente con un coperchio di massa m in

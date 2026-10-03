@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2011 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/rod,object/rope-string"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **A1 (12 punti)**
 
 Determinate il momento d'inerzia del disco di legno con i materiali a disposizione.
@@ -39,7 +43,6 @@ Riguardo alla precisione, potete decidere se stimare l'errore, calcolarlo o misu
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **A1 (12 points)**
@@ -62,6 +65,10 @@ Regarding precision, you may decide whether to estimate the error, calculate it,
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2011 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **A2 (3 punti)**
 
 Siccome la base di rotazione ha un poco di attrito, la rotazione del disco di legno rallenta.
@@ -77,7 +84,6 @@ Confermate o contraddite tale asserzione sperimentalmente.
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16bKzwPkt-xZU5c_aZ6uzUQVpaBK4935s/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **A2 (3 points)**
@@ -90,6 +96,10 @@ Confirm or refute this assertion experimentally.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2011 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **A3 (1 punto)**
 

@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2004 Locale Round 1 — Quesito 1" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/resistor,object/mirror,object/block,object/gas,object/planet"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Domanda compulsoria, con brevi quesiti indipendenti:
 
 - a)
@@ -76,7 +80,6 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Compulsory question, with brief independent sub-questions:
@@ -135,6 +138,10 @@ Figure 1.3 shows the Moon orbiting Earth. Why do many particle paths of the Moon
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2004 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Una pietra è lasciata cadere in un canyon profondo. Dopo $10{,}2\ \text{s}$ si sente il rumore del fondo. Stimare approssimativamente:
 - (i) la profondità del canyon, trascurando il tempo che impiega l'onda di ritorno a raggiungere la cima del canyon;
 - (ii) il tempo $t_1$ che impiega l'onda di ritorno a raggiungere la cima del canyon, assumendo che la velocità del suono sia $334\ \text{m/s}$.
@@ -156,7 +163,6 @@ d) Se la pietra è invece lanciata verticalmente verso l'alto con velocità $u$,
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) A stone is dropped into a deep canyon. After $10{,}2\ \text{s}$, the sound of it hitting the bottom is heard. Estimate approximately:
@@ -175,6 +181,10 @@ d) If instead the stone is thrown vertically upward with speed $u$, how will the
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2004 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/rod,object/wire,object/block"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Un'asta rigida leggera lunga $2{,}00\ \text{m}$ è sospesa dal soffitto mediante due fili verticali $A$ e $B$, ciascuno di lunghezza naturale $\ell = 1{,}00\ \text{m}$, attaccati alle estremità dell'asta. $A$ è un filo di rame con modulo di Young $Y_A = 12{,}4\times 10^{10}\ \text{Pa}$, diametro $1{,}60\ \text{mm}$; $B$ è un filo di ottone con modulo di Young $Y_B = 9{,}00\times 10^{10}\ \text{Pa}$, diametro $1{,}00\ \text{mm}$.
 
@@ -196,7 +206,6 @@ b) L'attacco della massa di $80\ \text{kg}$ è spostato in un punto $D$, a dista
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A light rigid rod of length $2{,}00\ \text{m}$ is suspended from the ceiling by two vertical wires $A$ and $B$, each with natural length $\ell = 1{,}00\ \text{m}$, attached to the ends of the rod. $A$ is a copper wire with Young's modulus $Y_A = 12{,}4\times 10^{10}\ \text{Pa}$ and diameter $1{,}60\ \text{mm}$; $B$ is a brass wire with Young's modulus $Y_B = 9{,}00\times 10^{10}\ \text{Pa}$ and diameter $1{,}00\ \text{mm}$.
@@ -214,6 +223,10 @@ b) The attachment point of the mass $80\ \text{kg}$ is moved to a point $D$, loc
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2004 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/battery,object/coil,object/magnet"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a)
 
@@ -253,7 +266,6 @@ d) Perché le celle solari surriscaldano l'auto quando essa è stazionaria e le 
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a)
@@ -290,6 +302,10 @@ d) Why do the solar cells overheat the car when it is stationary and the batteri
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2004 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/planet,object/star,object/satellite,object/wheel"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Misure storiche della velocità della luce: Galileo, Roemer (lune di Giove), Fizeau (ruota dentata)**
 
 a) Nel 1600, Galileo tentò di misurare la velocità della luce, $c$, mandando un fascio di luce a un altro osservatore, a distanza di $1\ \text{km}$. Era in grado di stimare gli intervalli di tempo con un'accuratezza di $0{,}1\ \text{s}$. Commentare la probabile riuscita di questo esperimento. Quale ordine di accuratezza nella misura del tempo era richiesto per determinare una stima della velocità della luce in questo esperimento?
@@ -316,7 +332,6 @@ c) Fizeau, nel 1849, ideò un metodo più accurato per misurare $c$ usando uno s
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Historical measurements of the speed of light: Galileo, Roemer (Jupiter's moons), Fizeau (toothed wheel)**
@@ -339,6 +354,10 @@ c) Fizeau, in 1849, devised a more accurate method to measure $c$ using a rotati
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2004 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a)
 
@@ -373,7 +392,6 @@ $$y = \frac{qEL^2}{2mv^2}.$$
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a)
@@ -403,6 +421,10 @@ $$y = \frac{qEL^2}{2mv^2}.$$
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2004 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/mirror,object/slit,object/screen"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 a) Un oggetto puntiforme è posto di fronte a uno specchio piano, in un piano perpendicolare a quello dello specchio. Disegnare due raggi di luce dall'oggetto che sono riflessi nello specchio. Indicare la posizione dell'immagine.
 
@@ -441,7 +463,6 @@ L'angolo $A\hat{O}B$ fra specchi adiacenti $AD$ e $OB$ è $135^\circ$, Figura 7.
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) A point-like object is placed in front of a plane mirror, in a plane perpendicular to the mirror's surface. Draw two light rays from the object that are reflected by the mirror. Indicate the position of the image.
@@ -475,6 +496,10 @@ The angle $A\hat{O}B$ between adjacent mirrors $AD$ and $OB$ is $135^\circ$, Fig
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2004 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/nucleus,object/particle-beam"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 a) Neutroni veloci, massa $m_1$, con velocità $v_1 = 2{,}0\times 10^7\ \text{m/s}$ sono rallentati da un nucleo bersaglio fermo. Mentre il neutrone rallenta, è elasticamente diffuso da un nucleo. Entrambi sono inizialmente in quiete. Il neutrone rimbalza e si muove a velocità $v_1$. Dopo l'urto, l'altro nucleo $m_2$ riacquista velocità. *[Determinare le velocità dopo un urto elastico frontale fra un neutrone e un nucleo bersaglio inizialmente in quiete.]*
 
 b) Il nucleo bersaglio è ora idealmente fermo. La velocità del neutrone è ridotta in seguito a un urto frontale, dove $m_2$ riacquista velocità. Se l'urto del neutrone è ripetuto, calcolare la velocità del neutrone dopo $n$ urti successivi.
@@ -488,7 +513,6 @@ b) Il nucleo bersaglio è ora idealmente fermo. La velocità del neutrone è rid
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1ijBCZtriOujgMa7ISu34u2MwXnPHX0Q4/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 a) Fast neutrons, mass $m_1$, with velocity $v_1 = 2{,}0\times 10^7\ \text{m/s}$ are slowed down by a stationary target nucleus. As the neutron slows, it is elastically scattered by a nucleus. Both are initially at rest. The neutron rebounds and moves with velocity $v_1$. After the collision, the other nucleus $m_2$ regains velocity. *[Determine the velocities after a head-on elastic collision between a neutron and a target nucleus initially at rest.]*
@@ -499,6 +523,10 @@ b) The target nucleus is now ideally stationary. The neutron's velocity is reduc
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2004 Locale Round 1 — Quesito 9" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/nucleus"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 > ⚠️ Questa domanda è solo parzialmente visibile in fondo a pagina 12 del PDF sorgente.
 

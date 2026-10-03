@@ -142,45 +142,45 @@ Due pastori in collina, valle tra di loro
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the weight of the product:
+**P2. The Gomera Whistle**
 
-When we speak, we emit the phonemes of the words that allow us to communicate. But we can also use other sounds, such as whistles. In fact, in Spain, the so-called silbo gomero is a whistled language spoken among shepherds on the rugged island of La Gomera. It descends from the original inhabitants of the Canary Islands (the "guanches"), who invented a silb-based system to be able to speak at long distances between the region's own ravines and mountains.
+When speaking, we produce phonemes that form the words enabling us to communicate. But we can also use other sounds, for example whistles (or whistling). In fact, in Spain, the so-called Gomera whistle is a whistled language spoken among shepherds on the steep island of La Gomera. It descends from the original inhabitants of the Canary Islands (the "guanches"), who invented a system based on whistles to communicate over long distances across the gorges and mountains typical of the region.
 
-One advantage of whistles is that they can reach great distances. A spoken message is heard and understood at a distance of about a hundred meters, while whistleblowers can communicate several miles away.
+One advantage of whistles is that they can travel long distances. A spoken message can be heard and understood at most up to about one hundred meters, whereas whistlers can communicate over several kilometers.
 
-The whistled languages replicate the mother tongue by substituting phonemes for tonal sounds. In the Gomer silb, vowels are distinguished by the tone or frequency of the sound emitted: approximately 1500 Hz for the phonemes {/a/, /o/, /u/}, about 2100 Hz for the /e/, and about 2500 Hz for the /i/. The frequency range for consonants varies from 1 to 4 kHz.
+Whistled languages replicate the mother tongue by replacing phonemes with tonal sounds. In Gomera whistle, vowels are distinguished by the tone or frequency of the emitted sound: approximately 1500 Hz for the phonemes {/a/, /o/, /u/}, around 2100 Hz for /e/, and about 2500 Hz for /i/. The frequency range for consonants varies between 1 and 4 kHz.
 
-Imagine that two shepherds in La Gomera want to communicate by whistling (Figure 1). They are situated on hills at the same height $h$ above the bottom of the valley separating them, and the distance between them is $d$.
+Imagine two shepherds from La Gomera wish to communicate by whistling (Figure 1). They are located on hills at the same height $h$ above the valley floor separating them, and the distance between both is $d$.
 
-We will admit, for simplicity's sake, that the sound waves emitted are evenly distributed in all directions of space (point-emitting focus of spherical waves). Suppose stable atmospheric conditions and the speed of sound in the air is $v = 343\ \text{m/s}$.
+We will assume, for simplicity, that the emitted sound waves are uniformly distributed in all directions of space (a point source emitting spherical waves). We assume stable atmospheric conditions and that the speed of sound in air is $v = 343\ \text{m/s}$.
 
-Consider, for now, only the sound that travels in a straight line between the shepherds (do not take into account the reflection of sound at the bottom of the valley, nor any kind of acoustic dissipation).
+For now, consider only the sound that travels in a straight line between the shepherds (ignore reflection of sound from the valley floor, and any kind of acoustic dissipation).
 
-Pastor 1 whistles a message with a power of 5 W, and its sounds cover a frequency spectrum centered on $f_0 = 2{,}5\ \text{kHz}$, with a range ranging from 1 to 4 kHz (both values included).
+Shepherd 1 whistles a message with a power of 5 W, and the sound covers a frequency spectrum centered at $f_0 = 2{,}5\ \text{kHz}$, ranging from 1 to 4 kHz (both values included).
 
-Figure 2 shows the threshold level of sound intensity (audible minimum) of the human ear based on frequency.
+Figure 2 shows the human ear's threshold of acoustic intensity (minimum audible) as a function of frequency.
 
-**a) ** Rationally indicate the frequency of the shepherd's whistles that could be heard further away. Calculate the maximum distance, $d_{\max}$, to which shepherd 2 could reach the central frequency $f_0$.
+**a)** Reasonably indicate which frequency among those whistled by the shepherd could be heard the farthest away. Calculate the maximum distance, $d_{\max}$, at which shepherd 2 could hear the central frequency $f_0$.
 
-The first is that the Commission has not yet taken any further steps to resolve the problem. To improve the model it is necessary to consider that sound energy dissipates as it propagates, transforming into heat due to friction between the vibrant molecules of the air. Consider in the following paragraphs that the sound intensity is attenuated exponentially with the distance travelled $r$ by a factor $e^{-\alpha r}$, where $\alpha$ is the so-called air attenuation coefficient.
+After solving the previous subquestion, you will have obtained an extremely large distance—very unrealistic. To improve the model, it is necessary to consider that sound energy dissipates as it propagates, transforming into heat due to friction between the vibrating air molecules. In the following subquestions, assume that sound intensity attenuates exponentially with distance traveled $r$ by a factor $e^{-\alpha r}$, where $\alpha$ is known as the air attenuation coefficient.
 
-If, under certain atmospheric conditions, the maximum actual distance at which shepherd 2 can hear a 2.5 kHz whistle is $d_{\max} = 4{,}0\ \text{km}$, what is the air attenuation coefficient $\alpha$?
+**b)** If, under certain atmospheric conditions, the actual maximum distance at which shepherd 2 can hear a whistle of 2.5 kHz is $d_{\max} = 4{,}0\ \text{km}$, what is the air attenuation coefficient $\alpha$?
 
-Consider now that the direct sound and also the reflected sound at the bottom of the valley reaches Shepherd 2 (Figure 3). Suppose the reflection factor (reflected energy fraction) of the sound wave in the ground is 50%.
+Now consider that to shepherd 2 arrives both the direct sound and also the specularly reflected sound from the bottom of the valley (Figure 3). Assume that the reflection factor (fraction of energy reflected) of the sound wave at the ground is 50%.
 
-**c) ** For $d = 4{,}0\ \text{km}$, $h = 100\ \text{m}$ and $f = 2{,}5\ \text{kHz}$, calculate the intensity $I_r$ of the sound reflected in the ground reaching the shepherd 2. Also calculate the total intensity, sum of which it reaches both ways. Express your result in W/m2.
+**c)** For $d = 4{,}0\ \text{km}$, $h = 100\ \text{m}$ and $f = 2{,}5\ \text{kHz}$, calculate the intensity $I_r$ of the sound reflected from the ground that reaches shepherd 2. Also calculate the total intensity, obtained as the sum of the intensities arriving via the two paths. Express your result in W/m².
 
-In the previous section, he calculated the total intensity received by the shepherd as the sum of the intensities received by the two roads. This idea is correct if the sound has a broad frequency spectrum. But if the waves emitted are harmonic (a single frequency), interference phenomena appear and the total intensity can no longer be obtained as a simple sum of the two intensities.
+In the previous section you calculated the total received intensity at the shepherd as the sum of the intensities arriving via the two paths. This approach is correct if the sound has a broad frequency spectrum. However, if the emitted waves are harmonic (a single frequency), interference phenomena appear and the total intensity can no longer be obtained as a simple sum of the two intensities.
 
-Consider now that shepherd 1 whistles the /i/ vowel at a pure frequency very close to the center value $f_0 = 2{,}5\ \text{kHz}$.
+Now consider that shepherd 1 whistles the vowel /i/ at a pure frequency very close to the central value $f_0 = 2{,}5\ \text{kHz}$.
 
-**d) ** With the same values of $d$ and $h$ as in the previous paragraph, determine the frequency closest to $f_0$ with which the shepherd must whistle the /i/ to produce constructive interference from the two waves reaching the shepherd 2.
+**d)** Using the same values of $d$ and $h$ as in the previous section, determine the frequency closest to $f_0$ at which shepherd 2 must whistle the /i/ so that constructive interference occurs between the two waves arriving at him.
 
-**e) ** Calculate the total sound intensity received by Shepherd 2 at this frequency.
+**e)** Calculate the total sound intensity received by shepherd 2 at this frequency.
 
-Finally, we will study how a cyclist who moves from one shepherd to the other in the valley floor listens to the conversation between the two shepherds. Suppose that, approximately, the sound reaches the rider in the same direction as the rider moves. Shepherd 1 whistles beber and, in response, shepherd 2 whistles vivir. The /e/ vocal has been broadcast at 2.1 kHz and the /i/ vocal at 2.5 kHz. The rider is a Gomer silb speaker and is able to discriminate separate frequencies at least one interval $\Delta f = 100\ \text{Hz}$.
+Finally, we will study how a cyclist traveling from one shepherd to the other in the valley bottom hears the conversation between the two shepherds. Assume that, approximately, the sound reaches the cyclist traveling in the same direction as he moves. Shepherd 1 whistles "beber" and, in response, shepherd 2 whistles "vivir." The vowel /e/ is emitted at 2.1 kHz and the vowel /i/ at 2.5 kHz. The cyclist is a speaker of Gomera whistling and can distinguish frequencies separated by at least an interval $\Delta f = 100\ \text{Hz}$.
 
-**f) ** Calculate the frequencies of the vowels heard by the rider as he moves towards Shepherd 1 at a speed of 40 km/h. How fast could it be to distinguish the two words whistled by the shepherds?
+**f)** Calculate the frequencies of the vowels heard by the cyclist when moving toward shepherd 1 at a speed of 40 km/h. What is the maximum speed the cyclist could have to still be able to distinguish the two whistled words?
 
 <!--fig:start-->
 ![[_attachments/P2completo2017/P2completo2017_p1_f1.png]]
@@ -188,15 +188,11 @@ Finally, we will study how a cyclist who moves from one shepherd to the other in
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/P2completo2017/P2completo2017_p2_f2.png]]
-*Hearing threshold vs frequency (graph) *
+*Hearing threshold vs frequency (graph)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/P2completo2017/P2completo2017_p3_f3.png]]
-*Sound direct and reflected in the valley*
+*Direct and reflected sound in the valley*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/152E0yguIwPdTxVSqW-ogA_5n0Z9cNA29/view)
+

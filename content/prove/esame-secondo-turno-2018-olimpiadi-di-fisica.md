@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2018 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Lanciamo una palla verticalmente verso l'alto. Quale grafico rappresenta meglio l'evoluzione dell'energia cinetica della palla nel corso del tempo?
 
 - **A.** grafico a forma di V (energia cinetica diminuisce linearmente a zero poi risale linearmente)
@@ -34,7 +38,6 @@ Lanciamo una palla verticalmente verso l'alto. Quale grafico rappresenta meglio 
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 We throw a ball vertically upward. Which graph best represents the evolution of the ball's kinetic energy over time?
@@ -51,6 +54,10 @@ We throw a ball vertically upward. Which graph best represents the evolution of 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una palla è tenuta a riposo nella posizione A da due corde che sono molto leggere. Tagliamo la corda orizzontale, in modo che la palla oscilla come un pendolo. La posizione B rappresenta la distanza massima raggiunta da questa palla, opposta al punto A.
 
@@ -69,7 +76,6 @@ Qual'è la relazione tra la forza di tensione nella corda del pendolo nella posi
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A ball is held at rest in position A by two very light strings. We cut the horizontal string, so that the ball swings like a pendulum. Position B represents the maximum distance reached by this ball, opposite to point A.
@@ -84,6 +90,10 @@ What is the relationship between the tension force in the pendulum string at pos
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Un blocco di massa $m = 10\,\mathrm{kg}$ è posto su un piano inclinato con un angolo di $30^\circ$ rispetto all'orizzontale. Questo blocco viene lanciato verso la cima del piano con una velocità iniziale $v = 14\,\mathrm{m\cdot s^{-1}}$. La forza di attrito risultante è di $20\,\mathrm{N}$. Dopo quanto tempo il blocco tornerà alla sua posizione iniziale?
 
@@ -101,7 +111,6 @@ Un blocco di massa $m = 10\,\mathrm{kg}$ è posto su un piano inclinato con un a
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A block of mass $m = 10\,\mathrm{kg}$ is placed on an inclined plane at an angle of $30^\circ$ with respect to the horizontal. This block is launched up the plane with an initial velocity $v = 14\,\mathrm{m\cdot s^{-1}}$. The resultant frictional force is $20\,\mathrm{N}$. After how much time will the block return to its initial position?
@@ -115,6 +124,10 @@ A block of mass $m = 10\,\mathrm{kg}$ is placed on an inclined plane at an angle
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Consideriamo una velocità $v$, una massa $M$ e una lunghezza $L$. Le unità $v^\alpha M^\beta L^\gamma$ sono quelle di una pressione per che valori degli esponenti?
 
@@ -132,7 +145,6 @@ Consideriamo una velocità $v$, una massa $M$ e una lunghezza $L$. Le unità $v^
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Consider a velocity $v$, a mass $M$, and a length $L$. The units $v^\alpha M^\beta L^\gamma$ are those of pressure; for what values of the exponents?
@@ -145,6 +157,10 @@ Consider a velocity $v$, a mass $M$, and a length $L$. The units $v^\alpha M^\be
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Due biglie di massa $m$ e $2m$ subiscono una collisione elastica. Prima della collisione, la biglia di massa $2m$ è a riposo, mentre la biglia di massa $m$ si sposta verso destra con una velocità $v$. Quali sono le velocità dopo la collisione?
 
@@ -161,7 +177,6 @@ Due biglie di massa $m$ e $2m$ subiscono una collisione elastica. Prima della co
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Two marbles of masses $m$ and $2m$ undergo an elastic collision. Before the collision, the marble of mass $2m$ is at rest, while the marble of mass $m$ moves to the right with velocity $v$. What are the velocities after the collision?
@@ -174,6 +189,10 @@ Two marbles of masses $m$ and $2m$ undergo an elastic collision. Before the coll
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Ogni primo mercoledì di febbraio in Svizzera viene effettuato un test di allarme in tutto il paese. L'allarme dell'acqua consiste per esempio da una successione di 12 suoni da 20 secondi, emessi ad una frequenza di 200 Hz. Un automobilista alla guida sente questo allarme, ma a una frequenza di 215 Hz. A quale velocità si muove l'automobilista? Consideriamo la velocità del suono $340\,\mathrm{m\cdot s^{-1}}$.
 
@@ -191,7 +210,6 @@ Ogni primo mercoledì di febbraio in Svizzera viene effettuato un test di allarm
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Every first Wednesday of February in Switzerland, a nationwide emergency test is conducted. The water alarm consists, for example, of a sequence of 12 sounds lasting 20 seconds each, emitted at a frequency of 200 Hz. A driver hears this alarm at a frequency of 215 Hz. At what speed is the driver moving? Consider the speed of sound $340\,\mathrm{m\cdot s^{-1}}$.
@@ -204,6 +222,10 @@ Every first Wednesday of February in Switzerland, a nationwide emergency test is
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Possediamo tre blocchi aventi ciascuno una massa di 100 g: un blocco di ferro (calore specifico $c_{\mathrm{Fe}} = 460\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$), un blocco di alluminio (calore specifico $c_{\mathrm{Al}} = 870\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$) e un blocco in cartone (calore specifico $c_c = 1340\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$). Questi tre blocchi hanno una temperatura iniziale di $20\,^\circ\mathrm{C}$. Ora li mettiamo in un frigorifero avente una temperatura di $3\,^\circ\mathrm{C}$ per 12 h. Cosa possiamo dire sulla relazione tra la temperatura dei blocchi?
 
@@ -221,7 +243,6 @@ Possediamo tre blocchi aventi ciascuno una massa di 100 g: un blocco di ferro (c
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 We have three blocks, each with a mass of 100 g: one block of iron (specific heat $c_{\mathrm{Fe}} = 460\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$), one block of aluminum (specific heat $c_{\mathrm{Al}} = 870\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$), and one block made of cardboard (specific heat $c_c = 1340\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$). These three blocks initially have a temperature of $20\,^\circ\mathrm{C}$. Now we place them in a refrigerator maintained at a temperature of $3\,^\circ\mathrm{C}$ for 12 hours. What can we say about the relationship between the temperatures of the blocks?
@@ -235,6 +256,10 @@ We have three blocks, each with a mass of 100 g: one block of iron (specific hea
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine,object/gas"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Due macchine termiche A e B hanno dei cicli $p$-$V$ come indicato negli schemi sottostanti. Entrambe le macchine lavorano con l'azoto come gas (che è considerato un gas perfetto). Quale affermazione è falsa?
 
@@ -256,7 +281,6 @@ Due macchine termiche A e B hanno dei cicli $p$-$V$ come indicato negli schemi s
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Two heat engines, A and B, have cycles $p$-$V$ as shown in the diagrams below. Both engines operate using nitrogen gas (assumed to be an ideal gas). Which statement is false?
@@ -275,6 +299,10 @@ Two heat engines, A and B, have cycles $p$-$V$ as shown in the diagrams below. B
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Per un gas perfetto, quale espressione vale
 $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{\partial T}{\partial p}\;?$$
 
@@ -292,7 +320,6 @@ $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 For an ideal gas, which expression holds true?
@@ -306,6 +333,10 @@ $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2018 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Considera due stelle A e B. Il raggio della stella A è il doppio di quello della stella B. Inoltre, la temperatura sulla superficie della stella A è anche il doppio della temperatura sulla superficie della stella B. Qual è il rapporto $P_A/P_B$ tra le potenze totali della radiazione di A e B?
 
@@ -322,7 +353,6 @@ Considera due stelle A e B. Il raggio della stella A è il doppio di quello dell
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Consider two stars, A and B. The radius of star A is twice that of star B. Moreover, the surface temperature of star A is also twice that of star B. What is the ratio $P_A/P_B$ between the total radiation powers of A and B?
@@ -335,6 +365,10 @@ Consider two stars, A and B. The radius of star A is twice that of star B. Moreo
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2018 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Nel 1883 l'esplosione del vulcano Krakatoa (Indonesia) fu così grande che fu possibile rilevare l'onda d'urto in tutto il pianeta! Dopo quanti secondi un abitante di Bogotà, agli antipodi dell'Indonesia, ha "sentito" l'eruzione?
 
@@ -352,7 +386,6 @@ Nel 1883 l'esplosione del vulcano Krakatoa (Indonesia) fu così grande che fu po
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 In 1883 the eruption of the Krakatoa volcano (Indonesia) was so powerful that its shock wave could be detected all around the planet! After how many seconds did a resident of Bogotá, located at the antipodes of Indonesia, "hear" the eruption?
@@ -365,6 +398,10 @@ In 1883 the eruption of the Krakatoa volcano (Indonesia) was so powerful that it
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2018 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Due corde di pianoforte identiche, di lunghezza $L$, sono accordate a 440 Hz. Riduciamo leggermente la lunghezza di una corda, del 0.5%, ma manteniamo la sua tensione iniziale. Eccitiamo le due corde alla loro frequenza fondamentale. Qual'è la frequenza di battimento?
 
@@ -382,7 +419,6 @@ Due corde di pianoforte identiche, di lunghezza $L$, sono accordate a 440 Hz. Ri
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Two identical piano strings, each of length $L$, are tuned to 440 Hz. We slightly reduce the length of one string by 0.5%, while keeping its initial tension unchanged. We excite both strings at their fundamental frequency. What is the beat frequency?
@@ -396,6 +432,10 @@ Two identical piano strings, each of length $L$, are tuned to 440 Hz. We slightl
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2018 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 L'indice di rifrazione del mezzo 1 è $n_1 = 1.0$. Qual'è l'indice di rifrazione $n_3$ del mezzo 3?
 
@@ -417,7 +457,6 @@ L'indice di rifrazione del mezzo 1 è $n_1 = 1.0$. Qual'è l'indice di rifrazion
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 The refractive index of medium 1 is $n_1 = 1.0$. What is the refractive index $n_3$ of medium 3?
@@ -436,6 +475,10 @@ The refractive index of medium 1 is $n_1 = 1.0$. What is the refractive index $n
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2018 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Un fascio parallelo raggiunge una lente convessa avente una distanza focale di 15 cm. A quale distanza da questa prima lente bisogna posizionare una seconda lente con distanza focale 5 cm affinché i raggi risultanti siano di nuovo paralleli?
 
 - **A.** 3.75 cm
@@ -451,7 +494,6 @@ Un fascio parallelo raggiunge una lente convessa avente una distanza focale di 1
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A parallel beam of light reaches a convex lens with a focal length of 15 cm. At what distance from this first lens must a second lens with a focal length of 5 cm be placed so that the resulting rays are parallel again?
@@ -464,6 +506,10 @@ A parallel beam of light reaches a convex lens with a focal length of 15 cm. At 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2018 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Dopo 168 s l'attività di un elemento radioattivo è solo $1/8$ del suo valore iniziale. Qual'è il tempo di dimezzamento di questo elemento?
 
@@ -481,7 +527,6 @@ Dopo 168 s l'attività di un elemento radioattivo è solo $1/8$ del suo valore i
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 After 168 s, the activity of a radioactive element is only $1/8$ of its initial value. What is the half-life of this element?
@@ -496,6 +541,10 @@ After 168 s, the activity of a radioactive element is only $1/8$ of its initial 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2018 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La resistenza interna della sorgente di tensione è considerata trascurabile. La resistenza $R$ è:
 
 - **A.** $3\,\Omega$
@@ -505,7 +554,48 @@ Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La
 - **E.** $18\,\Omega$
 
 <!--fig:start-->
-![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p8_f4.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='227.17221pt' height='136.526884pt' viewBox='-68.01566 -65.061984 227.17221 136.526884'>
+<defs>
+<path id='g1-10' d='M6.744707-1.613948H6.495641C6.445828-1.354919 6.405978-1.125778 6.316314-.886675C6.266501-.727273 6.236613-.647572 5.65878-.647572H4.861768C4.991283-1.205479 5.300125-1.683686 5.748443-2.34122C6.216687-3.048568 6.625156-3.73599 6.625156-4.523039C6.625156-5.907846 5.280199-7.023661 3.596513-7.023661C1.882939-7.023661 .557908-5.88792 .557908-4.523039C.557908-3.73599 .966376-3.048568 1.43462-2.34122C1.872976-1.683686 2.191781-1.205479 2.321295-.647572H1.524284C.946451-.647572 .916563-.727273 .86675-.876712C.787049-1.105853 .737235-1.364882 .687422-1.613948H.438356L.767123 0H2.361146C2.580324 0 2.610212 0 2.610212-.209215C2.610212-.9066 2.30137-1.783313 2.072229-2.420922C1.863014-2.998755 1.58406-3.785803 1.58406-4.533001C1.58406-6.127024 2.67995-6.804483 3.58655-6.804483C4.542964-6.804483 5.599004-6.087173 5.599004-4.533001C5.599004-3.785803 5.330012-3.028643 5.041096-2.211706C4.891656-1.793275 4.572852-.896638 4.572852-.209215C4.572852 0 4.60274 0 4.83188 0H6.41594L6.744707-1.613948Z'/>
+<path id='g1-51' d='M2.889166-3.506849C3.706102-3.775841 4.283935-4.473225 4.283935-5.260274C4.283935-6.07721 3.407223-6.635118 2.450809-6.635118C1.444583-6.635118 .687422-6.03736 .687422-5.280199C.687422-4.951432 .9066-4.762142 1.195517-4.762142C1.504359-4.762142 1.703611-4.98132 1.703611-5.270237C1.703611-5.768369 1.235367-5.768369 1.085928-5.768369C1.39477-6.256538 2.052304-6.386052 2.410959-6.386052C2.819427-6.386052 3.367372-6.166874 3.367372-5.270237C3.367372-5.150685 3.347447-4.572852 3.088418-4.134496C2.789539-3.656289 2.450809-3.626401 2.201743-3.616438C2.122042-3.606476 1.882939-3.58655 1.8132-3.58655C1.733499-3.576588 1.663761-3.566625 1.663761-3.466999C1.663761-3.35741 1.733499-3.35741 1.902864-3.35741H2.34122C3.158157-3.35741 3.526775-2.67995 3.526775-1.703611C3.526775-.348692 2.839352-.059776 2.400996-.059776C1.972603-.059776 1.225405-.229141 .876712-.816936C1.225405-.767123 1.534247-.986301 1.534247-1.364882C1.534247-1.723537 1.265255-1.92279 .976339-1.92279C.737235-1.92279 .418431-1.783313 .418431-1.344956C.418431-.438356 1.344956 .219178 2.430884 .219178C3.646326 .219178 4.552927-.687422 4.552927-1.703611C4.552927-2.520548 3.92528-3.297634 2.889166-3.506849Z'/>
+<path id='g1-54' d='M1.315068-3.267746V-3.506849C1.315068-6.027397 2.550436-6.386052 3.058531-6.386052C3.297634-6.386052 3.716065-6.326276 3.935243-5.987547C3.785803-5.987547 3.387298-5.987547 3.387298-5.539228C3.387298-5.230386 3.626401-5.080946 3.845579-5.080946C4.004981-5.080946 4.303861-5.17061 4.303861-5.559153C4.303861-6.156912 3.865504-6.635118 3.038605-6.635118C1.763387-6.635118 .418431-5.349938 .418431-3.148194C.418431-.488169 1.574097 .219178 2.500623 .219178C3.606476 .219178 4.552927-.71731 4.552927-2.032379C4.552927-3.297634 3.666252-4.254047 2.560399-4.254047C1.882939-4.254047 1.514321-3.745953 1.315068-3.267746ZM2.500623-.059776C1.872976-.059776 1.574097-.657534 1.514321-.806974C1.334994-1.275218 1.334994-2.072229 1.334994-2.251557C1.334994-3.028643 1.653798-4.024907 2.550436-4.024907C2.709838-4.024907 3.16812-4.024907 3.476961-3.407223C3.656289-3.038605 3.656289-2.530511 3.656289-2.042341C3.656289-1.564134 3.656289-1.066002 3.486924-.707347C3.188045-.109589 2.729763-.059776 2.500623-.059776Z'/>
+<path id='g0-82' d='M3.73599-6.117061C3.795766-6.356164 3.825654-6.455791 4.014944-6.485679C4.104608-6.495641 4.423412-6.495641 4.622665-6.495641C5.330012-6.495641 6.435866-6.495641 6.435866-5.50934C6.435866-5.17061 6.276463-4.483188 5.88792-4.094645C5.628892-3.835616 5.100872-3.516812 4.204234-3.516812H3.088418L3.73599-6.117061ZM5.17061-3.387298C6.176837-3.606476 7.362391-4.303861 7.362391-5.310087C7.362391-6.166874 6.465753-6.804483 5.160648-6.804483H2.321295C2.122042-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.122042-6.495641 2.311333-6.495641C2.331258-6.495641 2.520548-6.495641 2.689913-6.475716C2.86924-6.455791 2.958904-6.445828 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.498132-.308842 .408468-.308842 .408468-.109589C.408468 0 .52802 0 .547945 0C.826899 0 1.524284-.029888 1.803238-.029888S2.789539 0 3.068493 0C3.148194 0 3.267746 0 3.267746-.199253C3.267746-.308842 3.178082-.308842 2.988792-.308842C2.620174-.308842 2.34122-.308842 2.34122-.488169C2.34122-.547945 2.361146-.597758 2.371108-.657534L3.028643-3.297634H4.214197C5.120797-3.297634 5.300125-2.739726 5.300125-2.391034C5.300125-2.241594 5.220423-1.932752 5.160648-1.703611C5.090909-1.424658 5.001245-1.05604 5.001245-.856787C5.001245 .219178 6.196762 .219178 6.326276 .219178C7.173101 .219178 7.521793-.787049 7.521793-.926526C7.521793-1.046077 7.412204-1.046077 7.402242-1.046077C7.312578-1.046077 7.292653-.976339 7.272727-.9066C7.023661-.169365 6.595268 0 6.366127 0C6.03736 0 5.967621-.219178 5.967621-.607721C5.967621-.916563 6.027397-1.424658 6.067248-1.743462C6.087173-1.882939 6.107098-2.072229 6.107098-2.211706C6.107098-2.978829 5.439601-3.287671 5.17061-3.387298Z'/>
+<path id='g0-86' d='M6.256538-5.668742C6.744707-6.445828 7.163138-6.475716 7.531756-6.495641C7.651308-6.505604 7.66127-6.674969 7.66127-6.684932C7.66127-6.764633 7.611457-6.804483 7.531756-6.804483C7.272727-6.804483 6.983811-6.774595 6.714819-6.774595C6.386052-6.774595 6.047323-6.804483 5.728518-6.804483C5.668742-6.804483 5.539228-6.804483 5.539228-6.615193C5.539228-6.505604 5.628892-6.495641 5.69863-6.495641C5.967621-6.475716 6.156912-6.37609 6.156912-6.166874C6.156912-6.017435 6.007472-5.798257 6.007472-5.788294L2.948941-.926526L2.271482-6.196762C2.271482-6.366127 2.500623-6.495641 2.958904-6.495641C3.098381-6.495641 3.20797-6.495641 3.20797-6.694894C3.20797-6.784558 3.128269-6.804483 3.068493-6.804483C2.669988-6.804483 2.241594-6.774595 1.833126-6.774595C1.653798-6.774595 1.464508-6.784558 1.285181-6.784558S.916563-6.804483 .747198-6.804483C.67746-6.804483 .557908-6.804483 .557908-6.615193C.557908-6.495641 .647572-6.495641 .806974-6.495641C1.364882-6.495641 1.374844-6.405978 1.404732-6.156912L2.191781-.009963C2.221669 .18929 2.261519 .219178 2.391034 .219178C2.550436 .219178 2.590286 .169365 2.669988 .039851L6.256538-5.668742Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.81641-19.92578H-31.25M-19.3438-19.92578H17.2266H45.5703' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-23.332-19.92578H-19.3438M-27.2617-19.92578H-31.25' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-23.332-25.87891V-13.97266M-27.2617-31.832V-8.0195' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 32.6958 -16.3135)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g1-51'/>
+<use x='-62.834359' y='-19.926223' xlink:href='#g1-54'/>
+<use x='-56.192621' y='-19.926223' xlink:href='#g0-86'/>
+</g>
+<path d='M45.5703-19.92578V-48.2734H72.2183M103.9653-48.2734H130.6133V-19.92578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.2183-54.2266H103.9653V-42.3203H72.2183Z' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 148.9889 -38.1121)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g1-54'/>
+<use x='-61.17396' y='-19.926223' xlink:href='#g1-10'/>
+</g>
+<path d='M45.5703-19.92578V8.4219H72.2183M103.9653 8.4219H130.6133V-19.92578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.2183 2.4688H103.9653V14.375H72.2183Z' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 148.9889 18.5815)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g1-51'/>
+<use x='-61.17396' y='-19.926223' xlink:href='#g1-10'/>
+</g>
+<path d='M130.6133-19.92578H158.9573V65.1133' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.81641-19.92578V65.1133H29.6992M61.4453 65.1133H158.9573' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M29.6992 59.1602H61.4453V71.0664H29.6992Z' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 109.5664 75.2751)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g0-82'/>
+</g>
+</g>
+</svg>
+</figure>
 
 
 *Schema circuito con resistenze e sorgente*
@@ -516,7 +606,6 @@ Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -530,12 +619,60 @@ Consider the following circuit. The total current in the circuit is 3 A. The int
 - **E.** $18\,\Omega$
 
 <!--fig:start-->
-![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p8_f4.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='227.17221pt' height='136.526884pt' viewBox='-68.01566 -65.061984 227.17221 136.526884'>
+<defs>
+<path id='g1-10' d='M6.744707-1.613948H6.495641C6.445828-1.354919 6.405978-1.125778 6.316314-.886675C6.266501-.727273 6.236613-.647572 5.65878-.647572H4.861768C4.991283-1.205479 5.300125-1.683686 5.748443-2.34122C6.216687-3.048568 6.625156-3.73599 6.625156-4.523039C6.625156-5.907846 5.280199-7.023661 3.596513-7.023661C1.882939-7.023661 .557908-5.88792 .557908-4.523039C.557908-3.73599 .966376-3.048568 1.43462-2.34122C1.872976-1.683686 2.191781-1.205479 2.321295-.647572H1.524284C.946451-.647572 .916563-.727273 .86675-.876712C.787049-1.105853 .737235-1.364882 .687422-1.613948H.438356L.767123 0H2.361146C2.580324 0 2.610212 0 2.610212-.209215C2.610212-.9066 2.30137-1.783313 2.072229-2.420922C1.863014-2.998755 1.58406-3.785803 1.58406-4.533001C1.58406-6.127024 2.67995-6.804483 3.58655-6.804483C4.542964-6.804483 5.599004-6.087173 5.599004-4.533001C5.599004-3.785803 5.330012-3.028643 5.041096-2.211706C4.891656-1.793275 4.572852-.896638 4.572852-.209215C4.572852 0 4.60274 0 4.83188 0H6.41594L6.744707-1.613948Z'/>
+<path id='g1-51' d='M2.889166-3.506849C3.706102-3.775841 4.283935-4.473225 4.283935-5.260274C4.283935-6.07721 3.407223-6.635118 2.450809-6.635118C1.444583-6.635118 .687422-6.03736 .687422-5.280199C.687422-4.951432 .9066-4.762142 1.195517-4.762142C1.504359-4.762142 1.703611-4.98132 1.703611-5.270237C1.703611-5.768369 1.235367-5.768369 1.085928-5.768369C1.39477-6.256538 2.052304-6.386052 2.410959-6.386052C2.819427-6.386052 3.367372-6.166874 3.367372-5.270237C3.367372-5.150685 3.347447-4.572852 3.088418-4.134496C2.789539-3.656289 2.450809-3.626401 2.201743-3.616438C2.122042-3.606476 1.882939-3.58655 1.8132-3.58655C1.733499-3.576588 1.663761-3.566625 1.663761-3.466999C1.663761-3.35741 1.733499-3.35741 1.902864-3.35741H2.34122C3.158157-3.35741 3.526775-2.67995 3.526775-1.703611C3.526775-.348692 2.839352-.059776 2.400996-.059776C1.972603-.059776 1.225405-.229141 .876712-.816936C1.225405-.767123 1.534247-.986301 1.534247-1.364882C1.534247-1.723537 1.265255-1.92279 .976339-1.92279C.737235-1.92279 .418431-1.783313 .418431-1.344956C.418431-.438356 1.344956 .219178 2.430884 .219178C3.646326 .219178 4.552927-.687422 4.552927-1.703611C4.552927-2.520548 3.92528-3.297634 2.889166-3.506849Z'/>
+<path id='g1-54' d='M1.315068-3.267746V-3.506849C1.315068-6.027397 2.550436-6.386052 3.058531-6.386052C3.297634-6.386052 3.716065-6.326276 3.935243-5.987547C3.785803-5.987547 3.387298-5.987547 3.387298-5.539228C3.387298-5.230386 3.626401-5.080946 3.845579-5.080946C4.004981-5.080946 4.303861-5.17061 4.303861-5.559153C4.303861-6.156912 3.865504-6.635118 3.038605-6.635118C1.763387-6.635118 .418431-5.349938 .418431-3.148194C.418431-.488169 1.574097 .219178 2.500623 .219178C3.606476 .219178 4.552927-.71731 4.552927-2.032379C4.552927-3.297634 3.666252-4.254047 2.560399-4.254047C1.882939-4.254047 1.514321-3.745953 1.315068-3.267746ZM2.500623-.059776C1.872976-.059776 1.574097-.657534 1.514321-.806974C1.334994-1.275218 1.334994-2.072229 1.334994-2.251557C1.334994-3.028643 1.653798-4.024907 2.550436-4.024907C2.709838-4.024907 3.16812-4.024907 3.476961-3.407223C3.656289-3.038605 3.656289-2.530511 3.656289-2.042341C3.656289-1.564134 3.656289-1.066002 3.486924-.707347C3.188045-.109589 2.729763-.059776 2.500623-.059776Z'/>
+<path id='g0-82' d='M3.73599-6.117061C3.795766-6.356164 3.825654-6.455791 4.014944-6.485679C4.104608-6.495641 4.423412-6.495641 4.622665-6.495641C5.330012-6.495641 6.435866-6.495641 6.435866-5.50934C6.435866-5.17061 6.276463-4.483188 5.88792-4.094645C5.628892-3.835616 5.100872-3.516812 4.204234-3.516812H3.088418L3.73599-6.117061ZM5.17061-3.387298C6.176837-3.606476 7.362391-4.303861 7.362391-5.310087C7.362391-6.166874 6.465753-6.804483 5.160648-6.804483H2.321295C2.122042-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.122042-6.495641 2.311333-6.495641C2.331258-6.495641 2.520548-6.495641 2.689913-6.475716C2.86924-6.455791 2.958904-6.445828 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.498132-.308842 .408468-.308842 .408468-.109589C.408468 0 .52802 0 .547945 0C.826899 0 1.524284-.029888 1.803238-.029888S2.789539 0 3.068493 0C3.148194 0 3.267746 0 3.267746-.199253C3.267746-.308842 3.178082-.308842 2.988792-.308842C2.620174-.308842 2.34122-.308842 2.34122-.488169C2.34122-.547945 2.361146-.597758 2.371108-.657534L3.028643-3.297634H4.214197C5.120797-3.297634 5.300125-2.739726 5.300125-2.391034C5.300125-2.241594 5.220423-1.932752 5.160648-1.703611C5.090909-1.424658 5.001245-1.05604 5.001245-.856787C5.001245 .219178 6.196762 .219178 6.326276 .219178C7.173101 .219178 7.521793-.787049 7.521793-.926526C7.521793-1.046077 7.412204-1.046077 7.402242-1.046077C7.312578-1.046077 7.292653-.976339 7.272727-.9066C7.023661-.169365 6.595268 0 6.366127 0C6.03736 0 5.967621-.219178 5.967621-.607721C5.967621-.916563 6.027397-1.424658 6.067248-1.743462C6.087173-1.882939 6.107098-2.072229 6.107098-2.211706C6.107098-2.978829 5.439601-3.287671 5.17061-3.387298Z'/>
+<path id='g0-86' d='M6.256538-5.668742C6.744707-6.445828 7.163138-6.475716 7.531756-6.495641C7.651308-6.505604 7.66127-6.674969 7.66127-6.684932C7.66127-6.764633 7.611457-6.804483 7.531756-6.804483C7.272727-6.804483 6.983811-6.774595 6.714819-6.774595C6.386052-6.774595 6.047323-6.804483 5.728518-6.804483C5.668742-6.804483 5.539228-6.804483 5.539228-6.615193C5.539228-6.505604 5.628892-6.495641 5.69863-6.495641C5.967621-6.475716 6.156912-6.37609 6.156912-6.166874C6.156912-6.017435 6.007472-5.798257 6.007472-5.788294L2.948941-.926526L2.271482-6.196762C2.271482-6.366127 2.500623-6.495641 2.958904-6.495641C3.098381-6.495641 3.20797-6.495641 3.20797-6.694894C3.20797-6.784558 3.128269-6.804483 3.068493-6.804483C2.669988-6.804483 2.241594-6.774595 1.833126-6.774595C1.653798-6.774595 1.464508-6.784558 1.285181-6.784558S.916563-6.804483 .747198-6.804483C.67746-6.804483 .557908-6.804483 .557908-6.615193C.557908-6.495641 .647572-6.495641 .806974-6.495641C1.364882-6.495641 1.374844-6.405978 1.404732-6.156912L2.191781-.009963C2.221669 .18929 2.261519 .219178 2.391034 .219178C2.550436 .219178 2.590286 .169365 2.669988 .039851L6.256538-5.668742Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.81641-19.92578H-31.25M-19.3438-19.92578H17.2266H45.5703' stroke='#000' fill='none' stroke-width='.3985'/>
+<path d='M-23.332-19.92578H-19.3438M-27.2617-19.92578H-31.25' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-23.332-25.87891V-13.97266M-27.2617-31.832V-8.0195' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 32.6958 -16.3135)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g1-51'/>
+<use x='-62.834359' y='-19.926223' xlink:href='#g1-54'/>
+<use x='-56.192621' y='-19.926223' xlink:href='#g0-86'/>
+</g>
+<path d='M45.5703-19.92578V-48.2734H72.2183M103.9653-48.2734H130.6133V-19.92578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.2183-54.2266H103.9653V-42.3203H72.2183Z' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 148.9889 -38.1121)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g1-54'/>
+<use x='-61.17396' y='-19.926223' xlink:href='#g1-10'/>
+</g>
+<path d='M45.5703-19.92578V8.4219H72.2183M103.9653 8.4219H130.6133V-19.92578' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M72.2183 2.4688H103.9653V14.375H72.2183Z' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 148.9889 18.5815)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g1-51'/>
+<use x='-61.17396' y='-19.926223' xlink:href='#g1-10'/>
+</g>
+<path d='M130.6133-19.92578H158.9573V65.1133' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M-67.81641-19.92578V65.1133H29.6992M61.4453 65.1133H158.9573' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
+<path d='M29.6992 59.1602H61.4453V71.0664H29.6992Z' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 109.5664 75.2751)'>
+<use x='-67.815698' y='-19.926223' xlink:href='#g0-82'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Circuit diagram with resistors and voltage source*
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2018 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Su due lampadine A e B si trovano le indicazioni 6 V/0.3 A, rispettivamente 60 W/230 V. Le connettiamo in serie a una sorgente di tensione 230 V. Che cosa succede?
 
@@ -551,7 +688,6 @@ Su due lampadine A e B si trovano le indicazioni 6 V/0.3 A, rispettivamente 60 W
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 On two lamps A and B are indicated 6 V/0.3 A, respectively 60 W/230 V. We connect them in series to a voltage source of 230 V. What happens?
@@ -563,6 +699,10 @@ On two lamps A and B are indicated 6 V/0.3 A, respectively 60 W/230 V. We connec
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2018 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Un condensatore da $3.0\,\mu\mathrm{F}$ è collegato in serie con uno da $6.0\,\mu\mathrm{F}$. Se si applica una differenza di potenziale di 300 V al blocco formato dai due condensatori, qual è l'energia totale immagazzinata?
 
@@ -579,7 +719,6 @@ Un condensatore da $3.0\,\mu\mathrm{F}$ è collegato in serie con uno da $6.0\,\
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A capacitor of $3.0\,\mu\mathrm{F}$ is connected in series with another of $6.0\,\mu\mathrm{F}$. If a potential difference of 300 V is applied across the combination of the two capacitors, what is the total energy stored?
@@ -592,6 +731,10 @@ A capacitor of $3.0\,\mu\mathrm{F}$ is connected in series with another of $6.0\
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2018 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Un elettrone inizialmente a riposo viene accelerato ad una distanza $d$ da una tensione elettrica di $U$. La sua velocità finale è $v$. Ripetiamo l'esperimento, ma questa volta con una tensione di $4U$. Qual'è la nuova velocità finale dell'elettrone?
 
@@ -609,7 +752,6 @@ Un elettrone inizialmente a riposo viene accelerato ad una distanza $d$ da una t
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 An electron initially at rest is accelerated over a distance $d$ by an electric potential difference of $U$. Its final velocity is $v$. We repeat the experiment, but this time with a potential difference of $4U$. What is the electron's new final velocity?
@@ -622,6 +764,10 @@ An electron initially at rest is accelerated over a distance $d$ by an electric 
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2018 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Una massa puntiforme $m$ di carica $q$ si muove in un campo magnetico $\vec{B}_1$, con una quantità di moto $\vec{p}_1$ perpendicolare al campo magnetico. Descrive quindi un cerchio di raggio $r_1$. Una seconda massa puntiforme $m$ della stessa carica $q$ si posiziona dentro un altro campo magnetico $\vec{B}_2$, ma questa volta con una quantità di moto $\vec{p}_2 = 3\vec{p}_1$ (e quindi abbiamo $\vec{p}_2 \perp \vec{B}_2$). Quale dovrebbe essere la norma $B_2$ del campo magnetico in modo tale che il raggio della traiettoria sia di nuovo $r_1$?
 
@@ -639,7 +785,6 @@ Una massa puntiforme $m$ di carica $q$ si muove in un campo magnetico $\vec{B}_1
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 A point mass $m$ with charge $q$ moves in a magnetic field $\vec{B}_1$, having momentum $\vec{p}_1$ perpendicular to the magnetic field. It therefore describes a circular trajectory of radius $r_1$. A second point mass $m$ with the same charge $q$ is placed in another magnetic field $\vec{B}_2$, but this time with momentum $\vec{p}_2 = 3\vec{p}_1$ (and thus we have $\vec{p}_2 \perp \vec{B}_2$). What should be the magnitude $B_2$ of the magnetic field so that the radius of the trajectory is again $r_1$?
@@ -652,6 +797,10 @@ A point mass $m$ with charge $q$ moves in a magnetic field $\vec{B}_1$, having m
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2018 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Si consideri un punto P situato al bordo di una strada. All'istante $t = 0$ il punto P si trova all'origine del sistema di riferimento. La strada si sposta verso destra con una velocità costante verso destra e parallela all'asse $x$ (vedi schema). Qual'è la traiettoria del punto P?
 
@@ -672,7 +821,6 @@ Si consideri un punto P situato al bordo di una strada. All'istante $t = 0$ il p
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Consider a point P located at the edge of a road. At time $t = 0$, point P is at the origin of the reference frame. The road moves to the right with a constant velocity parallel to the $x$ axis (see diagram). What is the trajectory of point P?
@@ -689,6 +837,10 @@ Consider a point P located at the edge of a road. At time $t = 0$, point P is at
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2018 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 Si considerino due vettori $\vec{a}, \vec{b} \in \mathbb{R}^3$ e si definisca $\vec{c} = \vec{a} \times \vec{b}$. Tra le cinque affermazioni seguenti:
 
@@ -714,7 +866,6 @@ quali sono sempre corrette?
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 Consider two vectors $\vec{a}, \vec{b} \in \mathbb{R}^3$ and define $\vec{c} = \vec{a} \times \vec{b}$. Among the following five statements:
@@ -736,6 +887,10 @@ which are always correct?
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2018 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube,object/tank-container,object/gas,object/manometer"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Esercizio 1: Che pressione! (16 punti)**
 
@@ -776,7 +931,46 @@ Si consideri di nuovo la situazione del tubo verticale (parte sinistra della fig
 iv. (6 pt) Determinare algebricamente le variazioni $\Delta l_1$ e $\Delta l_2$ in funzione delle grandezze conosciute, poi calcolarne il valore. Indicare esplicitamente le ipotesi di calcolo di cui avete avuto bisogno.
 
 <!--fig:start-->
-![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p12_f6.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='199.422105pt' height='88.871249pt' viewBox='-68.013765 -68.01764 199.422105 88.871249'>
+<defs>
+<path id='g0-104' d='M2.859278-6.804483C2.859278-6.814446 2.859278-6.914072 2.729763-6.914072C2.500623-6.914072 1.77335-6.834371 1.514321-6.814446C1.43462-6.804483 1.325031-6.794521 1.325031-6.615193C1.325031-6.495641 1.414695-6.495641 1.564134-6.495641C2.042341-6.495641 2.062267-6.425903 2.062267-6.326276L2.032379-6.127024L.587796-.388543C.547945-.249066 .547945-.229141 .547945-.169365C.547945 .059776 .747198 .109589 .836862 .109589C.996264 .109589 1.155666-.009963 1.205479-.14944L1.39477-.9066L1.613948-1.803238C1.673724-2.022416 1.733499-2.241594 1.783313-2.470735C1.803238-2.530511 1.882939-2.859278 1.892902-2.919054C1.92279-3.008717 2.231631-3.566625 2.570361-3.835616C2.789539-3.995019 3.098381-4.184309 3.526775-4.184309S4.064757-3.845579 4.064757-3.486924C4.064757-2.948941 3.686177-1.863014 3.447073-1.255293C3.367372-1.026152 3.317559-.9066 3.317559-.707347C3.317559-.239103 3.666252 .109589 4.134496 .109589C5.070984 .109589 5.439601-1.344956 5.439601-1.424658C5.439601-1.524284 5.349938-1.524284 5.32005-1.524284C5.220423-1.524284 5.220423-1.494396 5.17061-1.344956C5.021171-.816936 4.702366-.109589 4.154421-.109589C3.985056-.109589 3.915318-.209215 3.915318-.438356C3.915318-.687422 4.004981-.926526 4.094645-1.145704C4.254047-1.574097 4.702366-2.759651 4.702366-3.337484C4.702366-3.985056 4.303861-4.403487 3.556663-4.403487C2.929016-4.403487 2.450809-4.094645 2.082192-3.636364L2.859278-6.804483Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.515625 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628'/>
+<path d='M-67.515625 20.355469H.5156' stroke='#000' fill='none' stroke-width='.99628'/>
+<path d='M.5156 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628'/>
+<path d='M-66.949219 19.789063V-5.1562H-.0508V19.789063Z' fill='#b3ffff'/>
+<path d='M-42.0039 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M-24.9961 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M-41.4375 19.789063V-5.1562H-25.5625V19.789063Z' fill='#b3ffff'/>
+<path d='M-67.515625-5.1562H-42.0039' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M-24.9961-5.1562H.5156' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M62.8792 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M62.8792 20.355469H130.9102' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M130.9102 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M63.4452 19.789063V-5.1562H130.3442V19.789063Z' fill='#b3ffff'/>
+<path d='M88.3902 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M105.3982 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M88.9572 19.789063V-33.5H104.8322V19.789063Z' fill='#b3ffff'/>
+<path d='M62.8792-5.1562H88.3902' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M105.3982-5.1562H130.9102' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M88.9572-33.5H104.8322' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.7382-5.1562V-28.8672' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.737793-32.08206L115.0542-27.63675L116.737793-29.11722L118.42139-27.63675Z'/>
+<path d='M116.737793-32.08206L115.0542-27.63675L116.737793-29.11722L118.42139-27.63675Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.7382-33.5V-9.7891' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.737793-6.57421L118.42139-11.01952L116.737793-9.53905L115.0542-11.01952Z'/>
+<path d='M116.737793-6.57421L118.42139-11.01952L116.737793-9.53905L115.0542-11.01952Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 188.4708 -36.2261)'>
+<use x='-67.516816' y='20.35733' xlink:href='#g0-104'/>
+</g>
+</g>
+</svg>
+</figure>
 
 
 *Fig. 1 tubo barometro verticale aperto e chiuso*
@@ -791,7 +985,6 @@ iv. (6 pt) Determinare algebricamente le variazioni $\Delta l_1$ e $\Delta l_2$ 
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]], [[Manometer (object)|Manometer]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
-
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -835,7 +1028,48 @@ Consider again the vertical tube situation (left side of Figure Fig. 2), but thi
 iv. (6 pt) Algebraically determine the variations $\Delta l_1$ and $\Delta l_2$ as functions of the known quantities, then compute their values. Explicitly indicate the assumptions made in the calculation.
 
 <!--fig:start-->
-![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p12_f6.png]]
+
+
+<figure class="tikz-fig">
+<!-- This file was generated by dvisvgm 3.2.2 -->
+<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='199.422105pt' height='88.871249pt' viewBox='-68.013765 -68.01764 199.422105 88.871249'>
+<defs>
+<path id='g0-104' d='M2.859278-6.804483C2.859278-6.814446 2.859278-6.914072 2.729763-6.914072C2.500623-6.914072 1.77335-6.834371 1.514321-6.814446C1.43462-6.804483 1.325031-6.794521 1.325031-6.615193C1.325031-6.495641 1.414695-6.495641 1.564134-6.495641C2.042341-6.495641 2.062267-6.425903 2.062267-6.326276L2.032379-6.127024L.587796-.388543C.547945-.249066 .547945-.229141 .547945-.169365C.547945 .059776 .747198 .109589 .836862 .109589C.996264 .109589 1.155666-.009963 1.205479-.14944L1.39477-.9066L1.613948-1.803238C1.673724-2.022416 1.733499-2.241594 1.783313-2.470735C1.803238-2.530511 1.882939-2.859278 1.892902-2.919054C1.92279-3.008717 2.231631-3.566625 2.570361-3.835616C2.789539-3.995019 3.098381-4.184309 3.526775-4.184309S4.064757-3.845579 4.064757-3.486924C4.064757-2.948941 3.686177-1.863014 3.447073-1.255293C3.367372-1.026152 3.317559-.9066 3.317559-.707347C3.317559-.239103 3.666252 .109589 4.134496 .109589C5.070984 .109589 5.439601-1.344956 5.439601-1.424658C5.439601-1.524284 5.349938-1.524284 5.32005-1.524284C5.220423-1.524284 5.220423-1.494396 5.17061-1.344956C5.021171-.816936 4.702366-.109589 4.154421-.109589C3.985056-.109589 3.915318-.209215 3.915318-.438356C3.915318-.687422 4.004981-.926526 4.094645-1.145704C4.254047-1.574097 4.702366-2.759651 4.702366-3.337484C4.702366-3.985056 4.303861-4.403487 3.556663-4.403487C2.929016-4.403487 2.450809-4.094645 2.082192-3.636364L2.859278-6.804483Z'/>
+</defs>
+<g id='page1'>
+<path d='M-67.515625 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628'/>
+<path d='M-67.515625 20.355469H.5156' stroke='#000' fill='none' stroke-width='.99628'/>
+<path d='M.5156 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628'/>
+<path d='M-66.949219 19.789063V-5.1562H-.0508V19.789063Z' fill='#b3ffff'/>
+<path d='M-42.0039 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M-24.9961 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M-41.4375 19.789063V-5.1562H-25.5625V19.789063Z' fill='#b3ffff'/>
+<path d='M-67.515625-5.1562H-42.0039' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M-24.9961-5.1562H.5156' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M62.8792 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M62.8792 20.355469H130.9102' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M130.9102 20.355469V-13.6602' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M63.4452 19.789063V-5.1562H130.3442V19.789063Z' fill='#b3ffff'/>
+<path d='M88.3902 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M105.3982 20.355469V-67.5195' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M88.9572 19.789063V-33.5H104.8322V19.789063Z' fill='#b3ffff'/>
+<path d='M62.8792-5.1562H88.3902' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M105.3982-5.1562H130.9102' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M88.9572-33.5H104.8322' stroke='#3d9999' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.7382-5.1562V-28.8672' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.737793-32.08206L115.0542-27.63675L116.737793-29.11722L118.42139-27.63675Z'/>
+<path d='M116.737793-32.08206L115.0542-27.63675L116.737793-29.11722L118.42139-27.63675Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.7382-33.5V-9.7891' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<path d='M116.737793-6.57421L118.42139-11.01952L116.737793-9.53905L115.0542-11.01952Z'/>
+<path d='M116.737793-6.57421L118.42139-11.01952L116.737793-9.53905L115.0542-11.01952Z' stroke='#000' fill='none' stroke-width='.99628' stroke-miterlimit='10'/>
+<g transform='matrix(1 0 0 1 188.4708 -36.2261)'>
+<use x='-67.516816' y='20.35733' xlink:href='#g0-104'/>
+</g>
+</g>
+</svg>
+</figure>
+
+
 *Fig. 1 vertical open and closed manometer tube*
 <!--fig:end-->
 <!--fig:start-->
@@ -844,7 +1078,12 @@ iv. (6 pt) Algebraically determine the variations $\Delta l_1$ and $\Delta l_2$ 
 <!--fig:end-->
 
 
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2018 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Esercizio 2: Sistema trasportatore a rulli (16 punti)**
 
@@ -882,7 +1121,6 @@ vi. (2 pt) Tracciare un grafico che esprima l'andamento temporale della velocit�
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
 
-
 <div class="qlang-split" data-lang="en"></div>
 
 **Problem 2: Roller Conveyor System (16 points)**
@@ -916,6 +1154,10 @@ vi. (2 points) Draw a graph showing the time evolution of the plate's velocity u
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2018 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/conducting-sphere,object/pendulum,object/rope-string"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
 
 **Esercizio 3: Pendolo Elettrico (16 punti)**
 

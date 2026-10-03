@@ -15,6 +15,10 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2000 Internazionale Teorica — Quesito 1" data-tags="kg/prova,paese/International,comp/IPhO,cluster/Elettromagnetismo"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Grafico 1 — Resistività del tungsteno (foglio dati)**
 
 > ⚠️ Questo PDF è un *foglio dati/figura* di supporto al problema teorico dell'IPhO 2000 (sul filamento incandescente di una lampadina al tungsteno). Non contiene il testo del quesito, che si trova nei fogli `th1`/`th2`/`th3` della stessa cartella (non in questo chunk).

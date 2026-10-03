@@ -13,7 +13,10 @@
 //                    NOT and -x negate ONE operand (next word / phrase / field / group)
 //   "frase esatta"   exact phrase (case-insensitive, whitespace-collapsed); literal
 //                    matches rank first. Per-quesito keyword entries (no running
-//                    text in the index) match a phrase by all of its words.
+//                    text in the index) match a phrase by all of its words (whole
+//                    words). A phrase matches the phrase or one of its synonym
+//                    phrases -- in the text, the keyword bag or the metadata (whole-word
+//                    sequence) -- never more than the union of those variants.
 //   ( ... )          grouping
 //   precedence       NOT > AND > OR
 //   bare words       adjacent bare words form ONE group searched exactly like a
@@ -351,6 +354,8 @@ export interface SynonymGroup {
 }
 
 let synMap: Map<string, string[]> = new Map()
+/** Every dictionary term (padHay form) -> its group's head term (first, usually Italian). */
+let synHead: Map<string, string> = new Map()
 
 /** Install the synonym dictionary (format of static/sinonimi.json). */
 export function setSynonyms(groups: SynonymGroup[] | null | undefined): void {
@@ -365,6 +370,13 @@ export function setSynonyms(groups: SynonymGroup[] | null | undefined): void {
     }
   }
   synMap = new Map([...m].map(([k, v]) => [k, [...v]]))
+  synHead = new Map()
+  for (const g of Array.isArray(groups) ? groups : []) {
+    const terms = (g?.termini || []).map((t) => padHay(t).trim()).filter(Boolean)
+    if (terms.length < 2) continue
+    for (const t of terms) if (!synHead.has(t)) synHead.set(t, terms[0])
+  }
+  shadowCache.clear()
 }
 
 export function hasSynonyms(): boolean {
@@ -471,15 +483,62 @@ function padHay(s: string): string {
   return " " + foldText(s).replace(/[^\p{L}\p{N}]+/gu, " ") + " "
 }
 
-/** `alt` occurs as WHOLE word(s) in the padded hay (synonym rule: no prefix match). */
-function wholeIn(hay: string, alt: string): boolean {
+/** `alt` occurs as WHOLE word(s) in the padded hay (no prefix match). */
+function plainWholeIn(hay: string, alt: string): boolean {
   const a = padHay(alt).trim()
   return a.length > 0 && hay.includes(" " + a + " ")
+}
+
+const shadowCache = new Map<string, RegExp | null>()
+
+/**
+ * Longer dictionary terms that contain `alt` but name a DIFFERENT concept: "angular
+ * momentum" (momento angolare) contains "momentum" (quantità di moto). A term counts as
+ * the same concept, and is not a shadow, when the Italian head of its group contains the
+ * head of alt's group ("conservazione della quantità di moto" ⊇ "quantità di moto").
+ */
+function shadowsOf(alt: string): RegExp | null {
+  const a = padHay(alt).trim()
+  if (shadowCache.has(a)) return shadowCache.get(a)!
+  const headA = synHead.get(a)
+  const out: string[] = []
+  if (headA !== undefined) {
+    for (const [t, headT] of synHead) {
+      if (t === a || headT === headA || !plainWholeIn(" " + t + " ", a)) continue
+      if (plainWholeIn(" " + headT + " ", headA)) continue // sub-concept: keep
+      out.push(t)
+    }
+  }
+  out.sort((x, y) => y.length - x.length)
+  const esc = (x: string) => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+  const re = out.length ? new RegExp("(?<= )(?:" + out.map(esc).join("|") + ")(?= )", "g") : null
+  shadowCache.set(a, re)
+  return re
+}
+
+/**
+ * Synonym rule: `alt` occurs as WHOLE word(s) in the padded hay, not counting
+ * occurrences inside a longer dictionary term of a different concept ("momentum" in
+ * "Torque & Angular Momentum Analysis" is angular momentum, not quantità di moto).
+ */
+function wholeIn(hay: string, alt: string): boolean {
+  if (!plainWholeIn(hay, alt)) return false
+  const re = shadowsOf(alt)
+  return re === null || plainWholeIn(hay.replace(re, "~"), alt)
 }
 
 /** Synonym alternative occurs as whole word(s) in a raw text. */
 export function containsWhole(text: string, alt: string): boolean {
   return wholeIn(padHay(text), alt)
+}
+
+/** Every content word of `phrase` (all words if only stopwords) occurs as a whole word. */
+function allWordsWhole(text: string, phrase: string): boolean {
+  const cw = contentWords(phrase)
+  const words = cw.length > 0 ? cw : phrase.split(/\s+/).filter(Boolean)
+  if (words.length === 0) return false
+  const h = padHay(text)
+  return words.every((w) => plainWholeIn(h, w))
 }
 
 /** Every word of `needle` starts a word of the padded hay (prefix match, like the engine). */
@@ -704,11 +763,16 @@ async function evalNode(node: BoolNode, ctx: EvalContext): Promise<Scored> {
           seen.add(id)
           const t = ctx.textOf(id)
           if (v === 0 ? normalizeText(t).includes(needle) : containsWhole(t, fneedle)) literal.push(id)
-          else if (ctx.isKeywordEntry?.(id)) loose.push(id)
+          // keyword bag: every content word of the phrase (or synonym phrase) as a WHOLE
+          // word -- the engine's prefix match alone let "impuls" pull in "impulsi"
+          else if (ctx.isKeywordEntry?.(id) && allWordsWhole(t, fneedle)) loose.push(id)
         }
         addRanked(m, literal.concat(loose), v === 0 ? 0 : OFF_SYN)
       }
-      if (ctx.metaSearch) addRanked(m, ctx.metaSearch(node.text, variants.slice(1)), OFF_META)
+      // metadata: the phrase or a synonym phrase as a contiguous whole-word sequence
+      // (text "" = no word-prefix match), so a phrase never matches more than the union
+      // of its variants
+      if (ctx.metaSearch) addRanked(m, ctx.metaSearch("", variants), OFF_META)
       return m
     }
     case "field": {

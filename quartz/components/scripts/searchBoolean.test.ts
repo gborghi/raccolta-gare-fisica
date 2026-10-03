@@ -660,3 +660,66 @@ describe("v5: -word == NOT word, one operand; /cerca count hooks", () => {
     assert.strictEqual(attrs["data-search-state"], undefined)
   })
 })
+
+describe("v5: phrase = the phrase or its synonym phrases, nothing more", () => {
+  const SYN5 = [
+    { termini: ["quantità di moto", "momentum", "linear momentum", "impuls"] },
+    { termini: ["conservazione della quantità di moto", "conservation of momentum"] },
+    { termini: ["momento angolare", "angular momentum", "torque & angular momentum analysis"] },
+    { termini: ["impulso", "impulse"] },
+  ]
+  const D = [
+    { t: "Un carrello urta un altro: quantità di moto totale", m: "" }, // 0 literal
+    { t: "Two carts collide, find the momentum", m: "" }, // 1 synonym, whole word
+    { t: "impulsi onda corda", m: "", kw: true }, // 2 keyword bag: 'impuls' only as a prefix
+    { t: "problema urto", m: "Conservation of Momentum" }, // 3 metadata, same concept
+    { t: "disco rotante", m: "Torque & Angular Momentum Analysis" }, // 4 metadata, other concept
+    { t: "moto quantità di carrello", m: "", kw: true }, // 5 keyword bag with all words
+    { t: "il moto di una quantità", m: "" }, // 6 running text, words but not the phrase
+  ]
+  const slugs = D.map((_, i) => `p#q${i}`)
+  const meta = new MetaIndex({ f: ["methods"], r: Object.fromEntries(D.map((d, i) => [slugs[i], [d.m]])) })
+  const toIds = (ss: string[] | null) => (ss === null ? null : ss.map((s) => slugs.indexOf(s)))
+  const c: EvalContext = {
+    async searchTerms(text) {
+      const ws = foldText(text).split(" ")
+      return D.map((d, id) => ({ id, toks: foldText(d.t).split(/[^a-z0-9]+/) }))
+        .filter(({ toks }) => ws.every((w) => toks.some((t) => t.startsWith(w))))
+        .map(({ id }) => id)
+    },
+    textOf: (id) => D[id]!.t,
+    allIds: () => D.map((_, i) => i),
+    isKeywordEntry: (id) => !!D[id]!.kw,
+    expand: (t) => synonymAlternatives(t),
+    metaSearch: (t, a) => toIds(meta.matchAny(t, a))!,
+    fieldSearch: (f, v, a) => toIds(meta.matchField(f, v, a)),
+  }
+  const run = async (q: string) => {
+    setSynonyms(SYN5)
+    const plan = planQuery(q) as any
+    assert.strictEqual(plan.mode, "boolean")
+    return (await evaluateBoolean(plan.ast, c)).sort((a, b) => a - b)
+  }
+  test("phrase: literal, synonym, keyword bag (whole words), same-concept metadata", async () =>
+    assert.deepStrictEqual(await run('"quantità di moto"'), [0, 1, 3, 5]))
+  test("no prefix match for synonym phrases on keyword bags ('impuls' !~ 'impulsi')", async () =>
+    assert.ok(!(await run('"quantità di moto"')).includes(2)))
+  test("a synonym inside a longer term of another concept does not count (angular momentum)", async () => {
+    assert.ok(!(await run('"quantità di moto"')).includes(4))
+    assert.deepStrictEqual(await run('"momento angolare"'), [4])
+  })
+  test("phrase result is a subset of the union of its variants", async () => {
+    const p = await run('"quantità di moto"')
+    const u = new Set<number>()
+    for (const v of ["quantità di moto", "momentum", "linear momentum", "impuls"]) {
+      for (const id of await run(`"${v}"`)) u.add(id)
+    }
+    assert.ok(p.every((id) => u.has(id)), `${p} ⊄ ${[...u]}`)
+  })
+  test("row matcher: same synonym rule on metadata", () => {
+    setSynonyms(SYN5)
+    const m = makeRowMatcher('"quantità di moto"')!
+    assert.ok(m("problema urto", { methods: "Conservation of Momentum" }))
+    assert.ok(!m("disco rotante", { methods: "Torque & Angular Momentum Analysis" }))
+  })
+})

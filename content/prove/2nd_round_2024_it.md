@@ -808,3 +808,215 @@ Un calcolo più esplicito che faccia meno uso esplicito delle simmetrie, o un ra
 **p.18** — uovo su superficie soluzione equilibrio
 ![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p18_f10.png]]
 <!--fig:end-->
+<div class="qlang-split" data-lang="en"></div>
+
+and higher-order terms.
+
+We can begin by rewriting the right-hand side of the previous answer in a form suitable for applying the given Taylor expansion:
+
+$$\left(\frac{P_0 + h_A}{P_0 + h_C}\right)^{\gamma} = \left(1 + \frac{h_A}{P_0}\right)^{\gamma}\left(1 + \frac{h_C}{P_0}\right)^{-\gamma}$$
+
+Applying the Taylor expansion then yields (retaining only terms linear in $\frac{h_A}{P_0}$ and $\frac{h_C}{P_0}$)
+
+$$\left(\frac{P_0 + h_A}{P_0 + h_C}\right)^{\gamma} \approx \left(1 + \gamma\frac{h_A}{P_0}\right)\left(1 - \gamma\frac{h_C}{P_0}\right) \approx 1 + \gamma\frac{h_A - h_C}{P_0}.$$
+
+We thus obtain
+
+$$\frac{P_0 + h_A}{P_0} = 1 + \gamma\frac{h_A - h_C}{P_0}.$$
+
+iv. Using the previous results, express the adiabatic index $\gamma$ as a function of $h_A$ and $h_C$.
+
+Isolating $\gamma$, we find
+
+$$\gamma = \frac{h_A}{h_A - h_C}.$$
+
+v. Compute numerically the adiabatic index $\gamma$ based on the provided measurements.
+
+Using the given numerical values for $P_0$, $P_0 + h_A$ and $h_C$, one finds
+
+$$\gamma = \frac{780.31 - 766.50}{780.31 - 766.50 - 3.61} \approx 1.35.$$
+
+vi. From the equipartition theorem, it is possible to deduce that $C_V = \frac{f}{2}R$ and $C_P = \frac{f+2}{2}R$, where $f$ is the number of allowed degrees of freedom for gas molecules. The gas studied here has $f = 5$ degrees of freedom. What is the relative difference between the theoretical and experimental values of the adiabatic index $\gamma$?
+
+Using the definition of $\gamma$, we find $\gamma = \frac{f+2}{f} = \frac{7}{5} = 1.4$. This yields a relative difference $\dfrac{\gamma_{th} - \gamma_{exp}}{\gamma_{th}} = 3.6\%$.
+
+vii. What could be the reasons for this discrepancy?
+
+If at least two of the following reasons are mentioned, or any other meaningful potential reason is mentioned, then full points are awarded.
+
+The discrepancy could come from: the statistical uncertainty in the measurements, a systematic uncertainty due to a wrong assumption (the process $A \to B$ might not be fully adiabatic, the change of volume due to the pressure changes in the manometer might not be negligible, the initial compression might not be fully isothermal, ...), etc.
+
+SOLUTION
+
+Problem 2.3: Image Charge
+
+A very common problem in electrostatics is determining the electric potential of a system composed of point charges and conductors of various shapes. In this exercise we will develop a method, called the image charge method, to greatly simplify such problems in cases with appropriate symmetry. In this exercise we use SI units.
+
+Part A. Electric potential and conductors
+
+In this first part we will discuss Faraday cages.
+
+i. Write the electric potential $V$ due to a point charge $q$ as a function of the distance $r$ from the charge.
+
+The potential is given by $V(r) = \dfrac{1}{4\pi\varepsilon_0}\dfrac{q}{r}$.
+
+ii. Write the electric potential $V$ due to $N$ point charges $q_i$, $i \in 1, 2, \dots, N$, as a function of the distances $r_i$ from each charge $q_i$.
+
+The total potential is given by the sum of the individual potentials: $V = \dfrac{1}{4\pi\varepsilon_0}\displaystyle\sum_{i=1}^{N} \dfrac{q_i}{r_i}$.
+
+iii. Consider the situation shown in Fig. B.1. What can be said about the electric potential on the surface of the grounded conducting material?
+
+Since we have a grounded conductor, the potential on its surface must vanish, so $V = 0$ holds on the conductor.
+
+iv. During a thunderstorm, is it safer to stay inside a car or remain outdoors? Why? Argue using the answer to the previous question.
+
+It is safer to stay in one's car, because the metallic hull of the car is a grounding conducting surface for which $V = 0$ holds such that its interior is protected against lightning.
+
+Part B. Image charge with a planar conductor
+
+We again consider the situation illustrated in Fig. B.1. The goal of this part is to determine the electrostatic potential at any point above the plane. To achieve this, it is possible to use a trick that greatly simplifies the situation. The idea is to introduce an imaginary "mirror" charge in order to reproduce the boundary conditions imposed by the conducting material.
+
+In electrostatics, if two physical systems have potentials satisfying the same boundary conditions, then the two situations are physically equivalent.
+
+Therefore, to determine the electrostatic potential of this system, we wish to find another simpler system that describes its potential.
+
+Figure B.1: An infinitely long grounded planar conductor with a charge $Q_1$ located at position $\vec{r}_1 = (x_1, y_1, z_1) = (0, 0, d)$.
+
+SOLUTION
+
+i. What are the boundary conditions for the electrostatic potential $V$ of this system?
+
+As seen in the previous part, the potential must satisfy $V = 0$ on the grounded conducting surface.
+
+ii. Imagine a second physical system with the same charge $Q_1$ at the same position $\vec{r}_1$ as in Fig. B.1, but without the conducting plane. Our goal is to find a configuration with a second charge $Q_2$ at position $\vec{r}_2$ such that it satisfies the same boundary conditions as in Fig. B.1. What should be the values of $Q_2$ and $\vec{r}_2 = (x_2, y_2, z_2)$ for this to happen? Why?
+
+By symmetry, we expect the mirror charge to be located at position $\vec{r}_2 = (0, 0, -d)$.
+
+If the mirror charge is placed at $(x_2, y_2, z_2) = (0, 0, -d)$, we can verify that choosing $Q_2 = -Q_1$ indeed satisfies the boundary conditions.
+
+Indeed, this must be true by symmetry. One could also verify it explicitly using the result from A.ii.
+
+iii. Using the previous results, calculate the electric potential $V(x, y, z)$ above ground in the system of Fig. B.1 as a function of coordinates $(x, y, z)$, distance $d$, and charge $Q_1$. The expression may be left as a sum of two terms; it is not necessary to fully simplify it.
+
+The resulting potential in the charge-conductor plane system must be identical to that of the charge-mirror charge system, so we obtain for $\vec{r} = (x, y, z)$
+
+$$V(\vec{r}) = \frac{1}{4\pi\varepsilon_0}\left[\frac{Q_1}{\sqrt{x^2 + y^2 + (z - d)^2}} - \frac{Q_1}{\sqrt{x^2 + y^2 + (z + d)^2}}\right].$$
+
+The solution could be expressed in a different form, as long as the potential is explicitly written as a function of the required quantities.
+
+iv. Sketch schematically the conductor system in Fig. B.1 with corresponding field lines, assuming $Q_1 > 0$ (on a separate sketch, not on the problem sheet).
+
+The drawing should qualitatively resemble the upper half of the following image. The lower half should contain no field lines.
+
+https://commons.wikimedia.org/wiki/File:VFPt_imagecharge_plane_horizontal_plusminus.svg
+
+SOLUTION
+
+The field lines should originate from the positive charge and terminate on the conductor.
+
+The field lines should end at the surface of the conductor.
+
+The field lines at the surface of the conductor should be perpendicular to its surface.
+
+Part C. Charge near a right-angled corner
+
+We will now consider more complex conductor geometries.
+
+i. Consider the system shown in Fig. C.1. How many mirror charges $N$ are required to reproduce the boundary conditions on the conductor? What are their values $Q_i$ and positions $\vec{r}_i = (x_i, y_i, z_i)$ for $i = 1, 2, \dots, N$? Why?
+
+Figure C.1: Two infinitely long grounded conducting half-planes arranged at a right angle, with a charge $Q_1$ located at position $\vec{r}_1 = (x_1, y_1, z_1) = (d, 0, d)$.
+
+We require the potential to vanish on the conductor plates.
+
+By symmetry considerations, we can convince ourselves that the mirror charges should be located at positions $\vec{r}_2 = (-d, 0, d)$, $\vec{r}_3 = (-d, 0, -d)$ and $\vec{r}_4 = (d, 0, -d)$.
+
+Similarly, we can expect to have $Q_2 = Q_4$.
+
+After some trial and error, one can notice that the choice $Q_2 = Q_4 = -Q_1$ and $Q_3 = Q_1$ results in a vanishing potential on the conducting plates.
+
+Indeed, by denoting $r_i$ as the distance from position $\vec{r}$ to the charge $i$, we have
+
+$$V(\vec{r}) = \frac{1}{4\pi\varepsilon_0}\left(\frac{Q_1}{r_1} - \frac{Q_1}{r_2} + \frac{Q_1}{r_3} - \frac{Q_1}{r_4}\right).$$
+
+On the vertical plate, we have $r_1 = r_2$ and $r_3 = r_4$ such that indeed $V = 0$. On the horizontal plate we have $r_1 = r_4$ and $r_2 = r_3$ so that the potential also vanishes.
+
+A more explicit computation making less explicit use of symmetries, or a more implicit reasoning using symmetries, is acceptable as long as the reasoning is correct.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p12_f8.png]]
+*Clément-Desormes apparatus diagram: pump, valve, manometer*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p20_f11.png]]
+*Clément-Desormes experiment solution diagram*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p22_f12.png]]
+*P-V diagram of experiment: points A, B, C*
+<!--fig:end-->
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+<!--fig:start-->
+**p.4** — elliptical orbit of planet-star system
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p4_f1.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — four trajectories I–IV for mass-string-pulley system
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p4_f2.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.6** — configurations A–F of point charges and corresponding electric field E
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p6_f3.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.6** — circuit with batteries, resistors, and current flow
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p6_f4.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.6** — loudspeaker and dust particle
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p6_f5.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.11** — egg-shaped profile: f(x), r(x), center of mass c
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p11_f6.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.11** — egg on horizontal surface: case a=0, b=1
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p11_f7.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.18** — egg on surface: solution for equilibrium condition
+![[_attachments/2nd_round_2024_it/2nd_round_2024_it_p18_f10.png]]
+<!--fig:end-->
+
+

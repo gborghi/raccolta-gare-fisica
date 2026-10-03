@@ -60,6 +60,21 @@ Lanciamo una palla verticalmente verso l'alto. Quale grafico rappresenta meglio 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+We throw a ball vertically upward. Which graph best represents the evolution of the ball's kinetic energy over time?
+
+- **A.** V-shaped graph (kinetic energy decreases linearly to zero, then increases linearly)
+- **B.** Graph with a curve that reaches zero and then rises (parabolic shape)
+- **C.** Constant graph
+- **D.** Decreasing graph that remains at zero
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p4_f1.png]]
+*Four E vs t graphs for a ball thrown upward*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2018 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -103,6 +118,19 @@ Qual è la relazione tra la forza di tensione nella corda del pendolo nella posi
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+A ball is held at rest in position A by two very light strings. We cut the horizontal string, so that the ball swings like a pendulum. Position B represents the maximum distance reached by this ball, opposite to point A.
+
+What is the relationship between the tension force in the pendulum string at position A, before cutting the horizontal string, and that at position B?
+
+- **A.** 1
+- **B.** $1/\cos^2(\beta)$
+- **C.** 2
+- **D.** $\tan(\beta)$
+- **E.** $1/\sin(\beta)$
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2018 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -142,6 +170,18 @@ Un blocco di massa $m = 10\,\mathrm{kg}$ è posto su un piano inclinato con un a
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A block of mass $m = 10\,\mathrm{kg}$ is placed on an inclined plane at an angle of $30^\circ$ with respect to the horizontal. This block is launched up the plane with an initial velocity $v = 14\,\mathrm{m\cdot s^{-1}}$. The resultant frictional force is $20\,\mathrm{N}$. After how much time will the block return to its initial position?
+
+- **A.** 2 s
+- **B.** 3 s
+- **C.** 5 s
+- **D.** 8 s
+- **E.** 13 s
+- **F.** 21 s
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2018 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -185,6 +225,17 @@ Consideriamo una velocità $v$, una massa $M$ e una lunghezza $L$. Le unità $v^
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Consider a velocity $v$, a mass $M$, and a length $L$. The units $v^\alpha M^\beta L^\gamma$ are those of pressure; for what values of the exponents?
+
+- **A.** $\alpha = 2,\; \beta = 1,\; \gamma = -4$
+- **B.** $\alpha = -2,\; \beta = 1,\; \gamma = 0$
+- **C.** $\alpha = 1,\; \beta = -1,\; \gamma = 3$
+- **D.** $\alpha = 2,\; \beta = 1,\; \gamma = -2$
+- **E.** $\alpha = 1,\; \beta = 0,\; \gamma = 3$ (F) $\alpha = 2,\; \beta = 1,\; \gamma = -3$
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2018 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -222,6 +273,17 @@ A causa di un'ampia massa $m$ e $2m$ subiscono una collisione elastica. Prima de
 **Objects:** [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two marbles of masses $m$ and $2m$ undergo an elastic collision. Before the collision, the marble of mass $2m$ is at rest, while the marble of mass $m$ moves to the right with velocity $v$. What are the velocities after the collision?
+
+- **A.** $v_m = -v,\quad v_{2m} = 0$
+- **B.** $v_m = -v/3,\quad v_{2m} = 2v/3$
+- **C.** $v_m = -v/2,\quad v_{2m} = v/2$
+- **D.** $v_m = v/3,\quad v_{2m} = 4v/3$
+- **E.** $v_m = -v/3,\quad v_{2m} = v/3$
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2018 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -265,6 +327,17 @@ Ogni primo mercoledì di febbraio in Svizzera viene effettuato un test di allarm
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Every first Wednesday of February in Switzerland, a nationwide emergency test is conducted. The water alarm consists, for example, of a sequence of 12 sounds lasting 20 seconds each, emitted at a frequency of 200 Hz. A driver hears this alarm at a frequency of 215 Hz. At what speed is the driver moving? Consider the speed of sound $340\,\mathrm{m\cdot s^{-1}}$.
+
+- **A.** $23\,\mathrm{km\cdot h^{-1}}$
+- **B.** $38\,\mathrm{km\cdot h^{-1}}$
+- **C.** $51\,\mathrm{km\cdot h^{-1}}$
+- **D.** $85\,\mathrm{km\cdot h^{-1}}$
+- **E.** $92\,\mathrm{km\cdot h^{-1}}$ (F) $117\,\mathrm{km\cdot h^{-1}}$
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2018 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -304,6 +377,18 @@ F) Nessuna delle risposte precedenti.
 **Objects:** [[Block (object)|Block]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+We have three blocks, each with a mass of 100 g: one block of iron (specific heat $c_{\mathrm{Fe}} = 460\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$), one block of aluminum (specific heat $c_{\mathrm{Al}} = 870\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$), and one block made of cardboard (specific heat $c_c = 1340\,\mathrm{J\cdot K^{-1}\cdot kg^{-1}}$). These three blocks initially have a temperature of $20\,^\circ\mathrm{C}$. Now we place them in a refrigerator maintained at a temperature of $3\,^\circ\mathrm{C}$ for 12 hours. What can we say about the relationship between the temperatures of the blocks?
+
+- **A.** $T_{\mathrm{Fe}} < T_{\mathrm{Al}} < T_c$
+- **B.** $T_{\mathrm{Fe}} > T_{\mathrm{Al}} > T_c$
+- **C.** $T_{\mathrm{Fe}} = T_{\mathrm{Al}} > T_c$
+- **D.** $T_{\mathrm{Fe}} = T_{\mathrm{Al}} < T_c$
+- **E.** $T_{\mathrm{Fe}} = T_{\mathrm{Al}} = T_c$
+(F) None of the above.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2018 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine,object/gas"></span>
@@ -355,6 +440,22 @@ Cicli p-V delle macchine termiche A e B
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Two heat engines, A and B, have cycles $p$-$V$ as shown in the diagrams below. Both engines operate using nitrogen gas (assumed to be an ideal gas). Which statement is false?
+
+- **A.** The efficiency of engine A is lower than the efficiency of engine B.
+- **B.** Both engines operate with the same amount (number of moles) of nitrogen.
+- **C.** $T_2$ is less than $T_3$.
+- **D.** During the isothermal processes, heat is exchanged with the surroundings.
+- **E.** During the isochoric processes, no work is performed.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p6_f2.png]]
+*Pressure-volume cycles of heat engines A and B*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2018 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -398,6 +499,18 @@ $$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+For an ideal gas, which expression holds true?
+$$\frac{\partial p}{\partial V} \cdot \frac{\partial V}{\partial T} \cdot \frac{\partial T}{\partial p}\;?$$
+
+- **A.** 2
+- **B.** 0
+- **C.** $-1$
+- **D.** $nR$
+- **E.** $nRT$ (F) $p$
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2018 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -435,6 +548,17 @@ Considera le due stelle A e B. Il raggio della stella A è il doppio di quello d
 **Objects:** [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Consider two stars, A and B. The radius of star A is twice that of star B. Moreover, the surface temperature of star A is also twice that of star B. What is the ratio $P_A/P_B$ between the total radiation powers of A and B?
+
+- **A.** 4
+- **B.** 8
+- **C.** 16
+- **D.** 32
+- **E.** 64
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2018 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -478,6 +602,17 @@ Nel 1883 l'esplosione del vulcano di Krakatoa (Indonesia) fu così grande che fu
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+In 1883 the eruption of the Krakatoa volcano (Indonesia) was so powerful that its shock wave could be detected all around the planet! After how many seconds did a resident of Bogotá, located at the antipodes of Indonesia, "hear" the eruption?
+
+- **A.** 6 s
+- **B.** 60 s
+- **C.** $6 \times 10^2$ s
+- **D.** $6 \times 10^3$ s
+- **E.** $6 \times 10^4$ s (F) $6 \times 10^5$ s
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2018 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -517,6 +652,18 @@ F) Non ci sono passi di battaglia.
 **Objects:** [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two identical piano strings, each of length $L$, are tuned to 440 Hz. We slightly reduce the length of one string by 0.5%, while keeping its initial tension unchanged. We excite both strings at their fundamental frequency. What is the beat frequency?
+
+- **A.** 5.9 Hz
+- **B.** 2.2 Hz
+- **C.** 1.0 Hz
+- **D.** 441 Hz
+- **E.** 220.5 Hz
+- **F.** There are no beats.
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2018 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -568,6 +715,22 @@ L'indice di rifrazione del mezzo 1 è $n_1 = 1.0$. Qual'è l'indice di rifrazion
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+The refractive index of medium 1 is $n_1 = 1.0$. What is the refractive index $n_3$ of medium 3?
+
+- **A.** $n_3 \approx 1.41$
+- **B.** $n_3 \approx 0.82$
+- **C.** $n_3 = 0.5$
+- **D.** $n_3 \approx 0.47$
+- **E.** $n_3 \approx 0.16$
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p7_f3.png]]
+*Reflected rays in three stratified media*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2018 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -605,6 +768,17 @@ Un fascio parallelo raggiunge una lente che si converte con una distanza focale 
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A parallel beam of light reaches a convex lens with a focal length of 15 cm. At what distance from this first lens must a second lens with a focal length of 5 cm be placed so that the resulting rays are parallel again?
+
+- **A.** 3.75 cm
+- **B.** 10 cm
+- **C.** 15 cm
+- **D.** 20 cm
+- **E.** No such distance exists.
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2018 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/nucleus"></span>
@@ -646,6 +820,18 @@ Dopo 168 s l'attività di un elemento radioattivo è solo $1/8$ del suo valore i
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+After 168 s, the activity of a radioactive element is only $1/8$ of its initial value. What is the half-life of this element?
+
+- **A.** 10.5 s
+- **B.** 28 s
+- **C.** 42 s
+- **D.** 56 s
+- **E.** 80.79 s
+- **F.** 84 s
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2018 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
@@ -697,6 +883,22 @@ Si consideri il circuito seguente. La corrente totale nel circuito è di 3 A. La
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Consider the following circuit. The total current in the circuit is 3 A. The internal resistance of the voltage source is considered negligible. The resistance $R$ is:
+
+- **A.** $3\,\Omega$
+- **B.** $4\,\Omega$
+- **C.** $9\,\Omega$
+- **D.** $10\,\Omega$
+- **E.** $18\,\Omega$
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p8_f4.png]]
+*Circuit diagram with resistors and voltage source*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2018 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -732,6 +934,16 @@ La lampadina A e B si trovano nelle indicazioni 6 V/0,3 A, rispettivamente 60 W/
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+On two lamps A and B are indicated 6 V/0.3 A, respectively 60 W/230 V. We connect them in series to a voltage source of 230 V. What happens?
+
+- **A.** Both lamps light up.
+- **B.** Only lamp A lights up.
+- **C.** Only lamp B lights up.
+- **D.** Lamp A lights up for a brief instant, then both lamps go out.
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2018 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor"></span>
@@ -771,6 +983,17 @@ Un condensatore da $3.0\,\mu\mathrm{F}$ è collegato in serie con uno da $6.0\,\
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A capacitor of $3.0\,\mu\mathrm{F}$ is connected in series with another of $6.0\,\mu\mathrm{F}$. If a potential difference of 300 V is applied across the combination of the two capacitors, what is the total energy stored?
+
+- **A.** 0.09 J
+- **B.** 0.18 J
+- **C.** 0.27 J
+- **D.** 0.41 J
+- **E.** 0.81 J
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2018 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
@@ -814,6 +1037,17 @@ Un elettrone iniziale un riposo viene accelerato ad una distanza $d$ da una tens
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+An electron initially at rest is accelerated over a distance $d$ by an electric potential difference of $U$. Its final velocity is $v$. We repeat the experiment, but this time with a potential difference of $4U$. What is the electron's new final velocity?
+
+- **A.** $v$
+- **B.** $\sqrt{2}\,v$
+- **C.** $2v$
+- **D.** $4v$
+- **E.** $8v$ (F) $16v$
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2018 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -853,6 +1087,17 @@ Una massa puntiforme $m$ di carica $q$ si muove in un campo magnetico $\vec{B}_1
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A point mass $m$ with charge $q$ moves in a magnetic field $\vec{B}_1$, having momentum $\vec{p}_1$ perpendicular to the magnetic field. It therefore describes a circular trajectory of radius $r_1$. A second point mass $m$ with the same charge $q$ is placed in another magnetic field $\vec{B}_2$, but this time with momentum $\vec{p}_2 = 3\vec{p}_1$ (and thus we have $\vec{p}_2 \perp \vec{B}_2$). What should be the magnitude $B_2$ of the magnetic field so that the radius of the trajectory is again $r_1$?
+
+- **A.** $3B_1$
+- **B.** $\sqrt{3}\,B_1$
+- **C.** $9B_1$
+- **D.** $B_1/3$
+- **E.** $B_1/\sqrt{3}$ (F) $B_1/9$
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2018 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -900,6 +1145,21 @@ Si consideri un punto situato al bordo di una strada. All'istante $t = 0$ il pun
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Consider a point P located at the edge of a road. At time $t = 0$, point P is at the origin of the reference frame. The road moves to the right with a constant velocity parallel to the $x$ axis (see diagram). What is the trajectory of point P?
+
+- **A.** cycloid
+- **B.** parabola
+- **C.** circle
+- **D.** straight line
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p10_f5.png]]
+*Four possible trajectories in the xy plane*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2018 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -957,6 +1217,26 @@ F) Non ci sono informazioni sufficienti.
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Consider two vectors $\vec{a}, \vec{b} \in \mathbb{R}^3$ and define $\vec{c} = \vec{a} \times \vec{b}$. Among the following five statements:
+
+1. $\vec{a} \perp \vec{b}$
+2. $\vec{a} \perp \vec{c}$
+3. $\vec{c} \perp \vec{b}$
+4. $\vec{a} = \vec{b} \Rightarrow \|\vec{c}\| \leq \|\vec{a}\|^2$
+5. $\vec{a} = \vec{b} \Rightarrow \|\vec{c}\| > \|\vec{a}\|^2$
+
+which are always correct?
+
+- **A.** 1, 2, 3, 4
+- **B.** 2, 3, 4
+- **C.** 2, 3, 5
+- **D.** 1, 2, 5
+- **E.** 1, 2, 4
+- **F.** There is not enough information.
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2018 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube,object/tank-container,object/gas,object/manometer"></span>
@@ -1076,6 +1356,56 @@ iv. (6 p) Determina algebricamente le variazioni $\Delta l_1$ e $\Delta l_2$ in 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 1: What Pressure! (16 points)**
+
+**Part A. Open Tube (4 points)**
+
+Consider the system shown in Figure 1: a glass tube is filled with mercury and immersed in a container also containing mercury. Then, the lower end of the tube is opened. It is observed that the mercury level inside the tube drops by a height $h$.
+
+i. (1 pt) What is contained in the upper part of the tube, of height $h$?
+
+ii. (1 pt) What can be measured with this device? Briefly explain how it works.
+
+Imagine you are on a beach by the sea, holding a glass of water and a straw. When you suck through the straw, the water from the glass rises.
+
+iii. (1.5 pt) Determine the theoretical maximum length of a straw for drinking from your glass of water, then compute its numerical value.
+
+iv. (0.5 pt) In practice, the length will be shorter than the calculated value. Propose a possible explanation.
+
+**Part B. Closed Tube (12 points)**
+
+A glass U-shaped tube with uniform cross-section contains mercury (density $\rho_{\mathrm{Hg}} = 1.36 \times 10^4\,\mathrm{kg\cdot m^{-3}}$). Both ends of the tube are sealed, and one arm contains gas A while the other contains gas B; both gases are considered ideal.
+
+When the tube is kept vertical with its ends pointing upward (left side of Figure 2), the portions of the tube occupied by gases A and B have lengths respectively $l_1 = 12\,\mathrm{cm}$ and $l_2 = 18\,\mathrm{cm}$.
+
+When instead the tube is inverted (right side of Figure Fig. 2), the length of the portion of the tube occupied by gas A is $l'_1 = 6\,\mathrm{cm}$.
+
+In this problem we always assume that $l_1$, $l_2$ and $l'_1$ are known. If numerical applications are required, assume that $l_1 = 12\,\mathrm{cm}$, $l_2 = 18\,\mathrm{cm}$ and $l'_1 = 6\,\mathrm{cm}$. The ambient temperature is $T = 20\,^\circ\mathrm{C}$.
+
+i. (1 pt) Determine the length $l'_2$ occupied by gas B when the tube is rotated. Then compute its numerical value.
+
+ii. (3.5 pt) Determine the pressures $p_1$, $p_2$, $p'_1$ and $p'_2$ of the gas for the tube in vertical position and when inverted, then compute their numerical values.
+
+The tube is now placed horizontally, i.e., the plane on which the tube lies is parallel to the ground.
+
+iii. (1.5 pt) Determine and compute the lengths $l''_1$, $l''_2$ and the corresponding pressures $p''_1$ and $p''_2$.
+
+Consider again the vertical tube situation (left side of Figure Fig. 2), but this time increase the ambient temperature by $\Delta T = 20\,^\circ\mathrm{C}$, which will cause a change in length $\Delta l_i$ and pressure $\Delta p_i$, $i = 1, 2$.
+
+iv. (6 pt) Algebraically determine the variations $\Delta l_1$ and $\Delta l_2$ as functions of the known quantities, then compute their values. Explicitly indicate the assumptions made in the calculation.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p12_f6.png]]
+*Fig. 1 vertical open and closed manometer tube*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p12_f7.png]]
+*Fig. 2 vertical U-shaped and inverted tube with gas*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2018 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -1155,6 +1485,38 @@ vi. (2 p) Tracciare un grafico che esprime l'andamento temporale della velocità
 **Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2: Roller Conveyor System (16 points)**
+
+A roller conveyor system is constructed from many homogeneous rollers placed on an inclined plane at angle $\alpha$, as shown in Figure 3. The axes of the rollers are perpendicular to the plane of the paper, and each roller can rotate independently from the others (it is assumed that the rollers are not directly in contact, but separated by a negligible distance). Each roller has mass $m$ and radius $R$.
+
+A homogeneous plate of mass $M$ moves over the rollers. The length of the plate is $l = 4NR$. It is also assumed that, at every instant, the plate is in contact with exactly $2N$ rollers—even at the moment when the rear end of the plate detaches from one roller and the front end contacts the next roller, which is initially at rest. At this moment, the plate slows down and the previously stationary roller begins to rotate until their velocities satisfy the non-slip condition; during this entire time, the rollers already rotating with the plate will adjust their rotation so as to prevent slipping of the plate. The net effect is therefore a reduction in speed of the plate and those rollers already rotating with it, along with an acceleration of the roller initially at rest. In our case, assume that all these processes occur in a negligible time interval so that the interaction forces may be treated as impulsive: this constitutes an "impact."
+
+Initially all rollers are at rest and the slab is placed on them and then released to slide. Let $g$ denote the magnitude of gravitational acceleration, let $v$ denote the magnitude of the velocity of the center of mass of the slab, and let $\omega$ denote the magnitude of the angular velocity of the rollers. It is assumed that the static friction between a roller and the slab is sufficient to prevent slipping of the slab.
+
+i. (1 pt) Find a relation between $v$ and $\omega$ that holds during the time interval between one impact and the next, and state whether the angular velocities of the rollers in contact with the slab are all equal.
+
+Let $v_n$ and $v'_n$ denote the magnitudes of the velocity of the slab just before and just after an impact with the $n$-th roller.
+
+ii. (3.5 pt) Consider the motion of the slab between two consecutive impacts. Calculate by how much $v^2$ increases between two impacts, i.e., find $v^2_{n+1} - v'^2_n$.
+
+iii. (4 pt) Now consider the impact process between the slab and a roller. Find a relation connecting $v'_n$ and $v_n$.
+
+Assuming the distance traveled by the slab is sufficiently long, the slab will reach a steady-state regime.
+
+iv. (4 pt) In the special case $M/m = 8$, calculate the magnitudes $v_l$ and $v'_l$ of the limiting velocities reached by the slab just before and just after each impact.
+
+v. (1.5 pt) Under steady-state conditions, by how much does the velocity of the slab change between two consecutive impacts?
+
+vi. (2 points) Draw a graph showing the time evolution of the plate's velocity under steady-state conditions.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p13_f8.png]]
+*Fig. 3 roller conveyor system on inclined plane*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2018 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/conducting-sphere,object/pendulum,object/rope-string"></span>
@@ -1263,3 +1625,49 @@ ii. (6 pt) Per quale frequenza angolare $\omega$ la sfera riesce a fuoriuscire d
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Conducting Sphere (object)|Conducting Sphere]], [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1Kx4u6sPivYc45GWYcrMZrhPgFwZy29sl/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 3: Electric Pendulum (16 points)**
+
+Consider a parallel-plate capacitor consisting of two fixed, vertical, non-movable plates. These plates are separated by a distance $d$, have a height $h$ and an area $A \gg d^2$. In this problem, we assume that air resistance can be neglected.
+
+**Part A. Heating (1.5 points)**
+
+Let us first focus on the capacitor.
+
+i. (0.5 pt) How does the capacitance $C$ of the capacitor change if the distance $d$ between the plates is doubled?
+
+ii. (0.5 pt) If the air between the plates has a uniform electrical resistivity $\rho$, what will be the resistance between the plates?
+
+iii. (0.5 pt) If the plates are initially charged by a source with constant voltage $V_0$, what will be the energy stored in the capacitor?
+
+**Part B. Constant Voltage (7.5 points)**
+
+A metallic sphere of mass $M$ and charge $q$ is suspended by a cable attached to a rigid support. When the capacitor is uncharged, the sphere hangs at the center of the capacitor (at a distance $d/2$ from each plate, and at a height $h/2$ above the bottom of the plates). Conversely, when a voltage $V_0$ is applied across the plates, the cable makes an angle $\theta_0$ with the vertical at equilibrium.
+
+i. (2 pt) Determine the angle $\theta_0$ as a function of the given measurements and fundamental constants.
+
+The metal sphere is slightly lifted so that it makes an angle $\theta$ with the vertical, but with $\theta$ just larger than $\theta_0$. The sphere is then released.
+
+ii. (3.5 points) Determine the oscillation period as a function of known values and fundamental constants. What is the ratio between this period and the period the pendulum would have if there were no tension between the two plates?
+
+When the sphere is in equilibrium, cut the cable.
+
+iii. (2 points) What is the maximum value of $V_0$ such that the sphere does not touch either plate during its fall until it exits from below the capacitor? Express your answer in terms of the given measurements and fundamental constants.
+
+**Part C. Time-varying voltage (7 points)**
+
+We again consider our sphere of mass $M$ and charge $q$, initially located exactly equidistant from the two plates, at a height $h/2$ above the bottom of the plates. At time $t = 0$, cut the cable again.
+
+i. (1 point) How much time would it take for the sphere to exit from below the capacitor if there were no voltage between the plates?
+
+This time, apply a potential difference $V(t) = V_0 \sin(\omega t)$ between the plates.
+
+ii. (6 points) For what angular frequency $\omega$ does the sphere manage to exit from below the capacitor without touching either plate? To solve this, examine the two cases $g \gg h\omega^2$ and $g \ll h\omega^2$. Express your results in terms of the known quantities and fundamental constants.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2018-Olimpiadi-di-Fisica_p14_f9.png]]
+*Fig. 4 parallel-plate capacitor with a suspended metallic sphere*
+<!--fig:end-->
+
+

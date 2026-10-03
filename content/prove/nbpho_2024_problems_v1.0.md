@@ -535,52 +535,20 @@ tion? Assume that the cone is infinitely long.
 <div class="qlang-split" data-lang="it"></div>
 
 6.
-CONES (8 punti)
- Jaan Kalda, Eppu
-Leinonen.
-I) (2 punti) La foto di seguito mostra un'auto-
-Disegno anamorfico  un cuore rosso in verde
-- Il passato. Il riflesso del cuore rosso
-nella specchio conico è un verde ridotto
-- Il cuore. Qual è l'angolo di punta del conico
-- Lo specchio?
-Si possono prendere misure da
-La foto. La distanza da cui si trovava la foto
-la misurazione è stata molto più grande del diametro di
-Il cuore rosso.
+CONI (8 punti)
+— Jaan Kalda, Eppu Leinonen.
+
+i) (2 punti) La foto qui sotto mostra un disegno autoanamorfico — un cuore rosso su sfondo verde. L’immagine riflessa del cuore rosso in uno specchio conico è un cuore verde ridotto. Qual è l’angolo al vertice dello specchio conico?
+Puoi effettuare misurazioni dirette dalla foto. La distanza da cui è stata scattata la fotografia era molto maggiore del diametro del cuore rosso.
 Foto di Erik Mahieu, cf.
-La Commissione ha adottato una decisione del Consiglio.
+https://community.wolfram.com/groups/
 -/m/t/2027565.
-ii) (1 punto) Una pucca a forma di punto di massa m può essere
-scivolare senza attrito lungo la superficie interna
-di un cono di angolo di metà apice $\theta$. La gravità
-L'accelerazione di un'accelerazione di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionamento di un'azionario di un'azionamento di
-L'asse di simmetria del cono al vertice. Il
-La puck inizia a scivolare da un punto P sul sud-
-la faccia del cono con tale linea orizzontale
-Località che continuerà a muoversi allo stesso tempo
-Altizza fissa durante l'esecuzione di circuiti uniformi
-movimento del raggio R. Qual è la sua velocità v?
-iii) (2,5 punti) Ora il puck inizia a scivolare
-a rigione dal medesimo punto P come prima,
-ma la sua velocità iniziale è ridotta a v/2. Che cos'è ?
-la distanza più piccola tra la puck e
-l'asse del cono durante i successivi mesi
-- E' un'altra cosa.
-(Iv) (2,5 punti) Ora, il cono e la pucca
-sono spostati all'apprezzamento. Il puck inizia .
-di nuovo dal punto P con lo stesso velo-
-città come nella parte ii). - A quanti gradi
-il vettore del raggio tratto dall'asse del conos
-per la rotazione del puck durante i successivi
-- E' un'altra cosa. Supponiamo che il cono sia infinitamente lungo.
 
-**Topic:** [[Newtonian Mechanics]], [[Geometric Optics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Ray Tracing (metodo)|Ray Tracing]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
+ii) (1 punto) Una palla puntiforme di massa m può scivolare senza attrito sulla superficie interna di un cono di semiangolo al vertice $\theta$. L’accelerazione gravitazionale è g e punta lungo l’asse di simmetria del cono al vertice. La palla parte da un punto P sulla superficie del cono con una velocità orizzontale tale che rimanga in moto circolare uniforme a un’altezza fissa, con raggio R. Qual è la sua velocità v?
 
+iii) (2,5 punti) Ora la palla parte orizzontalmente dallo stesso punto P come prima, ma la sua velocità iniziale è ridotta a v/2. Qual è la minima distanza tra la palla e l’asse del cono durante il moto successivo?
+
+iv) (2,5 punti) Ora il cono e la palla vengono trasportati in assenza di gravità. La palla parte nuovamente dal punto P con la stessa velocità del punto ii). Di quanti gradi ruoterà il vettore raggio tracciato dall’asse del cono alla palla durante il moto successivo? Si assuma che il cono sia infinitamente lungo.
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2024 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica"></span>
@@ -849,32 +817,15 @@ the plastic wrap.
 <div class="qlang-split" data-lang="it"></div>
 
 10.
-QTCHEN PHYsıCs (12 punti)
- Eero
-Uustalu, Jaan Kalda.
-Strumenti: foglia di alluminio laminata marrone
-sacchetta di carta⋆; una spugna da cucina con abrasivo
-lato verde (per rimuovere il vernice da
-la superficie in alluminio del lampo in alluminio
-- sacchetti inati per ottenere una buona cons­te­
-Tatt), due fogli di foglio di alluminio⋆, due
-fogli di schiuma per ammortizzare⋆, a forma quadrata
-di piastrella di legno laminata, un foglio di
-Involucro di plastica per cucina⋆, marcatore permanente,
-con un'altezza di >= 1 mm,
-- Clips di coccodrilli.
-- la Commissione può chiedere un'altra
-posizionamento se gli elementi contrassegnati con una stella sono
-- Sono danneggiati. Resistenza dell'alluminio
-$\rho = 2.7 \times 10^{-8}\ \Omega\cdot\text{m}$; permissività del vuoto
-$\epsilon_0 = 8.854 \times 10^{-12}\ \text{F m}^{-1}$.
-i) (6 punti) Trova lo spessore del
-rivestimento di mini folio della borsa di carta marrone.
-ii) (6 punti) Trovare la relativa permissività di
-la plastica.
+FISICA IN CUCINA (12 punti)
+— Eero Uustalu, Jaan Kalda.
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
+Strumenti: busta di carta marrone laminata con alluminio⋆; spugna da cucina con lato verde abrasivo (per rimuovere la vernice dalla superficie di alluminio della busta laminata in modo da ottenere un buon contatto elettrico), due fogli di alluminio⋆, due fogli di schiuma ammortizzante⋆, un pezzo quadrato di piastra in legno laminato, un foglio di pellicola da cucina⋆, pennarello permanente, forbici, calibro, riga, multimetro con morsetti a grappolo.
+
+Puoi richiedere un ricambio se gli oggetti contrassegnati con uno star si danneggiano.
+Resistività dell’alluminio $\rho = 2.7 \times 10^{-8}\ \Omega\cdot\text{m}$; permittività del vuoto $\epsilon_0 = 8.854 \times 10^{-12}\ \text{F m}^{-1}$.
+
+i) (6 punti) Determinare lo spessore del rivestimento in alluminio della busta di carta marrone.
+ii) (6 punti) Determinare la permittività relativa della pellicola da cucina.
+
+

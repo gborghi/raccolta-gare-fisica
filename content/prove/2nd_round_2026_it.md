@@ -54,6 +54,18 @@ Estimare quanti litri di acqua cadono ogni anno dalle cascate del Reno.
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.1 (MC)**
+
+Estimate how many liters of water fall annually from the Rhine Falls.
+
+- **A.** $1 \times 10^{9}$ L
+- **B.** $1 \times 10^{11}$ L
+- **C.** $1 \times 10^{13}$ L
+- **D.** $1 \times 10^{15}$ L
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2026 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -95,6 +107,18 @@ Tre oggetti celesti approssimati sono di massa puntiforme con la massa $m_1$, $m
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.2 (MC)**
+
+Three celestial objects approximated as point masses with masses $m_1$, $m_2$, and $m_3$ are located along a line at time $t_0$. The mass $m_2$ is positioned at the center. In each case, the distance between $m_1$ and $m_2$ or between $m_2$ and $m_3$ is $r$. The initial velocities of $m_1$ and $m_3$ are opposite, perpendicular to the axis passing through the three centers of mass, and have the same magnitude $v$. What is the maximum possible mass of $m_2$ such that a stable sequence of motion can be achieved?
+
+- **A.** $\dfrac{2\pi G}{c} \dfrac{(m_1+m_3)^2 v^4}{1}$
+- **B.** $\dfrac{G}{c} \dfrac{m_1 m_3 v^4}{1}$
+- **C.** $\sqrt{\dfrac{m_1 m_3 (m_1+m_3)}{m_1+m_3}} \dfrac{r^4}{Gv}$
+- **D.** None of the above answers is correct.
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2026 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -134,6 +158,18 @@ A causa di specchi semitrasparenti, i riflettori che rivolgono il 75% dell'incid
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.3 (MC)**
+
+Two semi-transparent mirrors, each reflecting 75% of the incident light, are placed parallel to each other at a distance of 1 m. A beam of light is now directed onto the first mirror, which reflects the light back and forth between the mirrors in a zig-zag pattern. What percentage of light has been lost in total after 9 reflections?
+
+- **A.** approximately 97.5%
+- **B.** approximately 95.0%
+- **C.** approximately 92.5%
+- **D.** approximately 90.0%
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2026 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -185,6 +221,22 @@ Una particella si muove in modo casuale tra le tre posizioni A, B e C. Da un pas
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.4 (MC)**
+
+A particle moves randomly among three positions A, B, and C. From one time step ($\Delta t = 1$, arbitrary units) to the next, the probability that it remains in the same position is $\tfrac{1}{5}$ and the probability that it moves to one of the other two positions is $\tfrac{2}{5}$. Suppose our particle starts at $t_0 = 0$ in position A. What is the probability that it is located in position B at $t = 2$?
+
+- **A.** 0.08
+- **B.** 0.16
+- **C.** 0.2
+- **D.** 0.24
+- **E.** 0.32
+- **F.** 0.36
+- **G.** 0.4
+- **H.** 0.48
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2026 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -226,6 +278,18 @@ Una lavanderia ruota a 1500 giri al minuto. Non appena viene speso, frenata con 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.5 (MC)**
+
+A washing machine spins at 1500 revolutions per minute. Immediately after being turned off, it decelerates with a constant angular acceleration of $1\,\text{rad}\cdot\text{s}^{-2}$. How many revolutions does the drum make before coming to a complete stop?
+
+- **A.** 300
+- **B.** 2000
+- **C.** 7000
+- **D.** 12,000
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2026 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -263,6 +327,17 @@ Un pendolo è sospeso al soffitto di un ascensore. Quando l'ascensore inizia ad 
 **Objects:** [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.6 (MC)**
+
+A pendulum is suspended from the ceiling of an elevator. When the elevator begins to accelerate upward, the frequency of the pendulum
+
+- **A.** remains unchanged.
+- **B.** increases.
+- **C.** decreases.
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2026 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -322,6 +397,26 @@ Quali informazioni utilizzano il powermeter per calcolare la potenza di Remco?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.7 (MC)**
+
+While Remco is cycling, his bicycle's power meter has access to the following data:
+
+I. Remco's speed,
+II. The force with which Remco pushes on the pedals,
+III. Remco's weight,
+IV. The incline of the road on which Remco is cycling,
+V. The angular velocity at which Remco pedals.
+
+Which of these data does the power meter use to calculate Remco's power?
+
+- **A.** I, III, IV
+- **B.** I, IV
+- **C.** II, IV, V
+- **D.** II, V
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2026 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/beam,object/lever"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -371,6 +466,22 @@ Osservate il bilanciamento a trave qui sotto. Che cosa mostra il bilanciamento q
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.8 (MC)**
+
+Look at the beam balance shown below. What does the balance indicate when the weight on the left side is moved to the outermost position of the beam? All components of the balance are rigid, with hinges fixed at the red-marked points.
+
+- **A.** The left side is heavier.
+- **B.** Both sides are in equilibrium.
+- **C.** The right side is heavier.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2026_it/2nd_round_2026_it_p4_f1.png]]
+*Beam balance with movable weight*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2026 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -414,6 +525,19 @@ Alice sale e scende dal Monte Bianco, salendo $h = 4806$ m sul livello del mare.
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.9 (MC)**
+
+Alice climbs up and descends from Mont Blanc, ascending $h = 4806$ m above sea level. During the ascent and descent, she reaches an average horizontal speed of $v_1$ and $v_2$ respectively. What can be said about the average speed $v$ for the entire journey?
+
+- **A.** $v = \dfrac{v_1+v_2}{2}$
+- **B.** $v = \dfrac{v_1+v_2}{2h}$
+- **C.** $v \leq \dfrac{v_1+v_2}{2}$
+- **D.** $v > \dfrac{2v_1 v_2}{v_1+v_2}$
+- **E.** $v < \dfrac{v_1+v_2}{2h}$
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2026 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -453,6 +577,18 @@ Quando un elettrone in un atomo eccitato effettua una transizione da un livello 
 **Objects:** [[Atom (object)|Atom]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.10 (MC)**
+
+When an electron in an excited atom transitions from a higher energy level to a lower one, the atom emits light whose frequency is proportional to the difference in energy between the two levels. Consider an atom with three energy states. The frequency of light emitted during a transition from state A to state B is denoted by $f_{A\to B}$. What relationship exists between $f_{2\to 1}$, $f_{3\to 1}$ and $f_{3\to 2}$?
+
+- **A.** $f_{3\to 1} = f_{2\to 1} + f_{3\to 2}$
+- **B.** $2f_{3\to 1} = f_{3\to 2} + f_{2\to 1}$
+- **C.** $f_{3\to 1} = f_{3\to 2} - f_{2\to 1}$
+- **D.** $2f_{3\to 1} = f_{3\to 2} - f_{2\to 1}$
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2026 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -502,6 +638,21 @@ G) Perché un quadro celeste ha dipinto il cielo blu.
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.11 (MC)**
+
+Why does the sky appear blue during the day?
+
+- **A.** Because nitrogen absorbs other colors.
+- **B.** Because the Sun emits more blue light than red light.
+- **C.** Because water on Earth makes the sky appear blue.
+- **D.** Because the ozone layer favors the transmission of blue light.
+- **E.** Because visible light with short wavelengths is more strongly scattered by air molecules than long-wavelength light.
+(F) Because violet light is so strongly scattered that it spreads throughout the sky and blue dominates.
+(G) Because a celestial painter painted the sky blue.
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2026 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -539,6 +690,17 @@ Un ghiacciaio si muove a velocità costante sulla sua base. Consideramo una last
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.12 (MC)**
+
+An ice glacier moves at constant velocity along its base. Consider a rectangular ice slab with a square base of side 100 m and height 10 m. The coefficient of sliding friction is $\mu = 0{,}09$, the underlying ground is thermally insulating, and the upper surface of the ice slab is maintained at a constant temperature of $-10\,^\circ\text{C}$. The density of ice is $\rho = 900\,\text{kg}\cdot\text{m}^{-3}$ and the thermal conductivity of ice is $\lambda = 2{,}3\,\text{W}\cdot\text{m}^{-1}\cdot\text{K}^{-1}$. At what velocity does the ice begin to melt?
+
+- **A.** $1 \times 10^{-4}\,\text{m}\cdot\text{s}^{-1}$
+- **B.** $5 \times 10^{-4}\,\text{m}\cdot\text{s}^{-1}$
+- **C.** $3 \times 10^{-4}\,\text{m}\cdot\text{s}^{-1}$
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2026 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -592,6 +754,23 @@ Ricordate i miei progressi del primo turno? Non importa se non ti ricordi. Ho ri
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.13 (MC)**
+
+Do you remember my leftovers from the first round? It doesn't matter if you don’t. I reheated them later that week and discovered they were still too hot! So I ended up with leftovers of the leftovers. Naturally, I put them back in the refrigerator (at $t = 0$). Which graph qualitatively describes their temperature over time?
+
+- **A.** A curve starting above the refrigerator's temperature and decreasing exponentially toward it
+- **B.** A curve starting above the refrigerator's temperature and decreasing linearly toward it
+- **C.** A curve starting above the refrigerator's temperature, decreasing, then increasing again
+- **D.** A curve starting below the refrigerator's temperature and rising toward it
+
+<!--fig:start-->
+![[_attachments/2nd_round_2026_it/2nd_round_2026_it_p5_f2.png]]
+*Four temperature-time graphs labeled A–D*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2026 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -637,6 +816,20 @@ $$U(T) = 3N\hbar\omega_E \left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\o
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.14 (MC)**
+
+According to the Dulong-Petit law, the heat capacity of solids is independent of temperature. However, experiments have shown that at low temperatures the heat capacity of a solid depends on temperature. The Einstein model explains these observations using quantum mechanics. Which of the following results is the heat capacity in the Einstein model, using the internal energy given as in (1)?
+
+$$U(T) = 3N\hbar\omega_E \left(\frac{1}{2} + \frac{1}{\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right) - 1}\right) \quad (1)$$
+
+- **A.** $3Nk_B \left(\dfrac{\hbar\omega_E}{k_B T}\right) \dfrac{\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right)}{\left[\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right) - 1\right]^2}$
+- **B.** $3Nk_B \left(\dfrac{\hbar\omega_E}{k_B T}\right)^2 \dfrac{\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right)}{\left[\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right) - 1\right]^2}$
+- **C.** $3Nk_B$
+- **D.** $3Nk_B \left(\dfrac{\hbar\omega_E}{k_B T}\right)^2 \dfrac{\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right)}{\left[\exp\!\left(\dfrac{\hbar\omega_E}{k_B T}\right) - 1\right]}$
+
+
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2026 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -676,6 +869,18 @@ Qual è la corrente corrente che attraversa una linea elettrica aerea che viene 
 **Objects:** [[Wire (object)|Wire]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.15 (MC)**
+
+What current will flow through an overhead power line if a voltage of 100 kV is applied? The cylindrical cable has length $l = 10\,\text{km}$, a radius of 20 mm, and a specific resistivity of $\rho = 3{,}17 \times 10^{-8}\,\Omega\cdot\text{m}$.
+
+- **A.** $2{,}85 \times 10^{5}\,\text{A}$
+- **B.** $3{,}96 \times 10^{5}\,\text{A}$
+- **C.** $4{,}41 \times 10^{5}\,\text{A}$
+- **D.** $4{,}76 \times 10^{5}\,\text{A}$
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2026 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
@@ -729,6 +934,23 @@ Quale forza agisce sulla carica $Q$ quando una delle cariche $q$ viene rimossa d
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.16 (MC)**
+
+Which force acts on charge $Q$ when one of the charges $q$ is removed from the following configuration, where $r$ is the distance from $Q$ to each of the charges $q$? (The four charges $q$ are located at the vertices of a square, with $Q$ at the center.)
+
+- **A.** 0
+- **B.** $\dfrac{1}{4\pi\varepsilon_0}\dfrac{Qq}{r^2}$
+- **C.** $\dfrac{1}{4\pi\varepsilon_0}\dfrac{2Qq}{r^2}$
+- **D.** $\dfrac{1}{4\pi\varepsilon_0}\dfrac{\sqrt{5}\,Qq}{r^2}$
+
+<!--fig:start-->
+![[_attachments/2nd_round_2026_it/2nd_round_2026_it_p6_f3.png]]
+*Five charges: four q at the vertices, Q at the center*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2026 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -770,6 +992,19 @@ Una particella con massa $m = 3 \times 10^{-15}\,\text{kg}$ e carica $q = e$ ent
 **Objects:** [[Point Charge (object)|Point Charge]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.17 (MC)**
+
+A particle with mass $m = 3 \times 10^{-15}\,\text{kg}$ and charge $q = e$ enters a parallel-plate capacitor with square plates of side length $l = 0{,}5\,\text{m}$, plate separation $d = 10\,\text{cm}$, and charge $Q = 0{,}2\,\text{C}$. Assuming the particle enters the capacitor perpendicularly to its side and equidistant from both plates, what is the minimum speed required so that it does not hit one of the plates? Gravity and air resistance may be neglected.
+
+- **A.** $v \approx 1737\,\text{m}\cdot\text{s}^{-1}$
+- **B.** $v \approx 2508\,\text{m}\cdot\text{s}^{-1}$
+- **C.** $v \approx 2939\,\text{m}\cdot\text{s}^{-1}$
+- **D.** $v \approx 3473\,\text{m}\cdot\text{s}^{-1}$
+- **E.** $v \approx 4912\,\text{m}\cdot\text{s}^{-1}$
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2026 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -827,6 +1062,25 @@ F) II e III.
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.18 (MC)**
+
+Which of the following statements about electric potential $\varphi$ are correct?
+
+I: The electric potential is unique.
+II: The work required to move a charge from point A to point B is independent of the path taken.
+III: A higher electric potential means a stronger electric field.
+
+- **A.** I.
+- **B.** II.
+- **C.** III.
+- **D.** I & II.
+- **E.** I & III.
+(F) II & III.
+(G) I, II & III.
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2026 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -868,6 +1122,19 @@ Una particella carica con massa $m$ e la carica $q$ si trova su un percorso circ
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.19 (MC)**
+
+A charged particle with mass $m$ and charge $q$ moves along a circular path of radius $r$ in a uniform magnetic field of magnitude $B$. How does the radius of the particle's circular path change if its kinetic energy is doubled in the direction of motion?
+
+- **A.** $r' = \dfrac{1}{2}r$
+- **B.** $r' = \dfrac{1}{\sqrt{2}}r$
+- **C.** $r' = r$
+- **D.** $r' = \sqrt{2}\,r$
+- **E.** $r' = 2r$
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2026 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
@@ -915,6 +1182,19 @@ Nell'avventura del parco, Emmy corre da un'altra parte su una telefonata. Il con
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.20 (MC)**
+
+In the adventure park, Emmy runs from one tree to another on a zip line. The contact between the cable and the pulley produces a loud noise with frequency $f_{\text{Emmy}}$. An observer at the starting point of the zip line hears a frequency $f_0$, and an observer at the ending point hears a frequency $f_1$. How are the frequencies $f_{\text{Emmy}}$, $f_0$ and $f_1$ related?
+
+- **A.** $f_{\text{Emmy}} < f_0 < f_1$
+- **B.** $f_{\text{Emmy}} < f_1 < f_0$
+- **C.** $f_0 < f_{\text{Emmy}} < f_1$
+- **D.** $f_0 < f_1 < f_{\text{Emmy}}$
+- **E.** $f_1 < f_{\text{Emmy}} < f_0$ (F) $f_1 < f_0 < f_{\text{Emmy}}$
+
+
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2026 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -954,6 +1234,18 @@ Tre frequenze risonanti consecutive di una canna d'organo hanno valori di 1310 H
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.21 (MC)**
+
+Three consecutive resonant frequencies of a pipe are 1310 Hz, 1834 Hz, and 2358 Hz. Is the pipe closed at one end or open at both ends?
+
+- **A.** Open at both ends, because the frequency difference is a multiple of the fundamental frequency.
+- **B.** Open at both ends, since the pipe has short distances between resonances, typical of open pipes.
+- **C.** Closed at one end, because the frequency difference is not a multiple of the fundamental frequency.
+- **D.** Closed at one end, since the frequencies increase linearly, which does not occur in a pipe open at both ends.
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2026 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pendulum,object/rod"></span>
@@ -999,6 +1291,20 @@ Sono dato un pendolo ideale a filo e un'asta omogenea vincolata a ruotare un'est
 **Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1.22 (MC)**
+
+Given an ideal string pendulum and a uniform rod hinged to rotate at one end. Both have the same mass $m$ and the same length $L$, and are initially held horizontally. Then both pendulums are released simultaneously. Which one reaches the lowest point first?
+
+- **A.** The string pendulum — it has a smaller moment of inertia $I$.
+- **B.** The string pendulum — it has a larger moment of inertia $I$.
+- **C.** The rod — it has a smaller moment of inertia $I$.
+- **D.** The rod — it has a larger moment of inertia $I$.
+- **E.** Both simultaneously — mass $m$ and length $L$ are irrelevant.
+(F) Insufficient information — the solution depends on the effective length $L$.
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2026 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/disk,object/droplet"></span>
@@ -1112,6 +1418,53 @@ i. Calcolare la distanza dall'ombrello che spalanca l'acqua quando si raggiunge 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2.1: Reflections on an Umbrella** (16 points)
+
+We perform some calculations regarding umbrellas and water on umbrellas. We model the umbrella as a flat, circular disk with mass $M$ and radius $R$. Throughout the problem, we particularly neglect the surface tension of water.
+
+**Part A. The Umbrella at Rest / It's Raining** (3.75 points)
+
+First, consider a raindrop falling from the sky. Raindrops are made of water (density: $\rho$) and we assume raindrops to be spherical. The air resistance acting on a falling raindrop as a function of velocity is $F = -\beta v^2 A$, where $\beta$ is a constant and $A$ is the cross-sectional area of the raindrop perpendicular to the direction of fall.
+
+i. (1.5 points) Determine the falling velocity of the raindrop as a function of its radius $r_T$ when it strikes the umbrella.
+
+The rainfall intensity is very high. The mass of rain per unit area and time is $\dot{m}$.
+
+ii. (1.25 points) The force that must be applied to keep the umbrella stationary is $F_{RS}$. Determine the radius of the raindrops $r_T$ as a function of the relevant variables. It is assumed that the weight of water remaining on the umbrella is negligible.
+
+iii. (1 point) Calculate the number of raindrops striking the umbrella per unit time as a function of $g$, $\dot{m}$, $\beta$, $\rho$ and any other variable used.
+
+**Part B. The Rotating Umbrella** (10.75 points)
+
+As water accumulates on David’s flat umbrella and drips from its edge, David begins to rotate the umbrella at a constant angular velocity $\omega$, flinging the water outward. Since David (poor fellow!) has been walking in the rain for a long time, a steady state has been reached. For simplified calculations, we model friction as follows: radial friction between the water and umbrella is negligible; tangential friction between the water and umbrella is infinite. This means all water can move relative to the umbrella only in the radial direction. Equivalently, one may imagine the water confined within radial grooves on the umbrella, forcing it to follow a purely radial and straight-line path (from a co-rotating reference frame).
+
+i. (0,75 pt) Explain why David must always exert a torque on the umbrella despite steady flow equilibrium, and why this is compatible with energy conservation.
+
+ii. (0,5 pt) Using results, formulas, values, and constants from Task A, determine the rate at which water is flung off in mass per unit time.
+
+iii. (2,5 pt) Consider a single water droplet striking the umbrella at a distance $r_i$ from its center. Find a simple expression for the radial velocity of the droplet at the umbrella’s edge, assuming the droplet is not influenced by the rest of the water on the umbrella.
+
+iv. (2 pt) Now we return to the situation in heavy rain. Practical experience has shown that the velocity of a small volume of water depends exclusively on its position on the umbrella. In particular, the flow velocity is independent of where the water fell onto the umbrella. Find an expression for the speed of the water at a distance $r$ from the center of the umbrella, depending only on constants and $r$.
+
+*Hint:* Water consists of many droplets that have joined together through inelastic collisions. *Hint:* You may use the following identity without justification: $\displaystyle\int_0^a b(a^2 - b^2)\,db = \dfrac{a^3}{3}$.
+
+v. (2 pt) Calculate how high the water is on the umbrella, and show that this height is independent of radius.
+
+vi. (1 pt) Based on the result from the previous subpart, calculate the mass moment of inertia of the umbrella including the water on it. Assume that the mass of the umbrella itself is uniformly distributed.
+
+*Note:* The mass moment of inertia of a cylinder with rotational axis coaxial with the central gravitational axis is $J = \tfrac{1}{2}MR^2$.
+
+vii. (1.5 pt) In a short time interval $\Delta t$, a certain amount of water is thrown off and another amount of water is added to the umbrella. Explain why this consideration can be used to determine the torque David must exert on the umbrella to maintain its rotational speed, and compute this torque.
+
+viii. (0.5 pt) Calculate the rotational energy of the entire umbrella including the water on it.
+
+**Part C. Water Battle** (1.5 points)
+
+i. (1.5 pt) Calculate how far from the umbrella the water splashes when it rotates at a height $h$ above the ground.
+
+
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2026 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -1223,6 +1576,54 @@ iv. (1,5 p.t.) Disegnare qualitativamente la temperatura $T(y)$ in funzione dell
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2.2: Lower Mirage** (16 points)
+
+**Part A. Light and Media** (3 points)
+
+i. (1 pt) A ray propagating in medium 1 with refractive index $n_1$ strikes an interface with medium 2, having refractive index $n_2$, at an angle $\theta_1$ relative to the normal to the surface (see Fig. A.1). What is the dependence of the outgoing angle $\theta_2$ on $\theta_1$, $n_1$ and $n_2$?
+
+ii. (1.5 pt) There are $N$ materials with horizontal parallel interfaces between them. Each medium $i$ has a refractive index $n_i$. A light ray propagates through this stack of materials (assume no total internal reflection). For each layer, define the angle $\theta_i$ as the angle between the vertical and the ray. The system is shown in Fig. A.2. What is the relation in layer $i$ between $\theta_i$ and the initial angle $\theta_1$?
+
+iii. (0.5 pt) Find a function $f(\theta_i, n_i)$ such that $f(\theta_i, n_i) = f(\theta_1, n_1) = C = \text{costante}$.
+
+**Part B. Refractive Index** (5.5 points)
+
+During a so-called lower mirage, light bends due to a non-uniform refractive index of air. This is caused by a temperature gradient between the hot ground and the cooler air above it. On hot, sunny days, this produces streaks on roads that appear wet or mirror-like (see Fig. B.1).
+
+i. (1 pt) Find a relation between $n(y)$, $\theta(y)$ and $C$ (from A.iii). Assume that $n(y)$ can be approximated by infinitesimally thin horizontal slices with constant refractive index.
+
+ii. (1 pt) Relate $\psi(y) = \tfrac{\pi}{2} - \theta(y)$ and the slope $\dfrac{dy}{dx}$ of the ray path at any arbitrary point.
+
+iii. (3.5 pt) Relate $n(y)$ from part B.i and $\dfrac{dy}{dx}$ from part B.ii, eliminating $\theta(y)$. It is not necessary to solve the resulting differential equation. For full points, a result without trigonometric functions is required.
+
+**Part C. The inferior mirage** (7.5 points)
+
+The refractive index of air depends on pressure $P$ and temperature $T$, and is of the form
+
+$$n = 1 + 0{,}000293 \cdot \frac{P}{P_0}\frac{T_0}{T}$$
+
+(with $P_0 = 1\,\text{bar}$, $T_0 = 300\,\text{K}$). A profile of the resulting ray path is shown in Fig. B.2. In the following calculations, it is assumed that $n(y) = a \cdot (b + y)$. Miranda is outside on a sunny day. The pressure is 1.013 bar and the temperature at head height of 170 cm is $35\,^\circ\text{C}$. Miranda sees a region appearing wet due to an inferior mirage 400 m ahead of her. A schematic drawing is shown in Fig. B.2.
+
+i. (1 pt) Calculate the refractive index at head height.
+
+ii. (3.5 pt) What is the minimum refractive index at ground level?
+
+iii. (1.5 pt) What is the maximum temperature at ground level in $^\circ\text{C}$?
+
+iv. (1.5 pt) Qualitatively sketch the temperature $T(y)$ as a function of height $y$.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2026_it/2nd_round_2026_it_p15_f4.png]]
+*Fig. B.1: mirage on a sunny road*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2026_it/2nd_round_2026_it_p16_f5.png]]
+*Fig. B.2: ray path for Miranda*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2026 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/magnetic-dipole"></span>
@@ -1385,3 +1786,76 @@ Per $-1 < x < 1$: $\tanh\!\left(\tfrac{1}{2}\ln\dfrac{1-x}{1+x}\right) = -x$
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Magnetic Dipole (object)|Magnetic Dipole]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1BJ2x7tWEgM2miVlqmHaXD4TsrrVZJufc/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2.3: Paramagnetic Crystal** (16 points)
+
+A crystal consists of $N$ identical, distinguishable, non-interacting magnetic particles, each with a magnetic moment of magnitude $\mu$. These particles are placed in an external uniform magnetic field $B$. Each magnetic moment can point either parallel or antiparallel to the direction of the magnetic field. An example of a possible configuration of this crystal is shown in Figure 1. The energy associated with each particle depends on its orientation: a magnetic moment aligned parallel to the field has energy $-\mu B$, while one aligned antiparallel to the field has energy $+\mu B$. In this problem, we investigate how macroscopic thermodynamic properties of the system emerge from the microscopic configurations of the particles.
+
+*Hint:* Useful identities can be found at the end of the problem for some tasks.
+
+**Part A. System Energy** (4 points)
+
+We first examine the energy of the system. Let $N_+$ and $N_-$ denote the number of particles whose magnetic moments are aligned, respectively, parallel and antiparallel to the direction of the magnetic field.
+
+i. (1 point) Express the total energy $E$ of the system in terms of the given variables.
+
+ii. (2 points) For which values of $N_+$ and $N_-$ is the absolute value of the system's energy maximum, and for which values is it minimum?
+
+iii. (1 point) Express $N_+$ and $N_-$ in terms of $N$ and the parameter $\xi = \dfrac{E}{N\mu B}$.
+
+**Part B. Entropy and Temperature** (8 points)
+
+For a fixed value of the system's energy $E$, there are multiple different configurations of the crystal with this energy. In other words, there are more ways to arrange the particles within the crystal such that its energy takes a given value $E$. We denote this number of configurations for a given energy value as $\Omega(E)$.
+
+i. (1 pt) What are the units of $\Omega(E)$?
+
+ii. (2 pts) Express $\Omega(E)$ as a function of the given variables. Use the results from Part A and remember that the particles are distinguishable.
+
+iii. (2 pts) In statistical physics, the entropy of an isolated system is given by
+
+$$S = k_B \ln \Omega(E)$$
+
+where $\ln$ denotes the natural logarithm and $k_B = 1{,}38 \times 10^{-23}\,\text{J}\cdot\text{K}^{-1}$ is Boltzmann's constant. Show that the entropy of the crystal is
+
+$$S = Nk_B H(\xi)$$
+
+where
+
+$$H(x) = -\frac{1-x}{2}\ln\frac{1-x}{2} + \frac{1+x}{2}\ln\frac{1+x}{2}$$
+
+Work under the approximation $N \gg 1$, under which Stirling's approximation applies: $\ln(n!) \approx n\ln(n) - n$.
+
+iv. (2 pts) The statistical temperature $T_S$ of an isolated system with entropy $S$ is defined by
+
+$$\frac{1}{T_S} = \frac{dS}{dE}$$
+
+Express the temperature of the crystal in terms of $\xi$.
+
+v. (1 pt) Can this statistical temperature be negative? If yes, explain under what conditions and what it physically represents.
+
+**Part C. Specific Heat** (3 points)
+
+i. (1 pt) Invert the expression from Part B.iv to obtain an expression for $E$ as a function of $T_S$ and other variables.
+
+ii. (1 pt) Express the specific heat $C$ of the system.
+
+iii. (1 pt) How does $C$ behave for $T_S \to \infty$? Briefly explain why this result makes physical sense.
+
+**Part D. Dynamics** (1 point)
+
+We now consider the dynamics of the system and model it as follows. At each time interval $\Delta t$, there is a 50% probability that one of the particles (any one) changes its magnetic moment.
+
+i. (1 pt) If we let the dynamics run long enough (i.e., in the limit $t \to \infty$), what will be the system's energy? To which configuration does this correspond? Use a thermodynamic argument and refer to the graph of the function $H(x)$ given in Figure D.1 to justify your answer.
+
+*Useful identities:*
+$$\tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}} \quad \text{(tangente iperbolica)}$$
+$$\frac{d}{dx}\tanh(x) = 1 - \tanh^2(x)$$
+For $-1 < x < 1$: $\tanh\!\left(\tfrac{1}{2}\ln\dfrac{1-x}{1+x}\right) = -x$
+
+<!--fig:start-->
+![[_attachments/2nd_round_2026_it/2nd_round_2026_it_p21_f6.png]]
+*Figure D.1: plot of H(x) entropy*
+<!--fig:end-->
+
+

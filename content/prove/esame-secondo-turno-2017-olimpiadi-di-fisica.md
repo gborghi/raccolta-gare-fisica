@@ -56,6 +56,19 @@ Il nostro universo attualmente è
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 1**
+
+Our current universe is
+
+- **A.** undergoing accelerated expansion.
+- **B.** undergoing expansion at constant speed.
+- **C.** static.
+- **D.** undergoing contraction at constant speed.
+- **E.** undergoing accelerated contraction.
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2017 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -95,6 +108,18 @@ Un uccello è posto su una barca su un lago. In un certo istante, l'uccello pren
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 2**
+
+A bird is sitting on a boat on a lake. At a certain instant, the bird takes flight. The water level of the lake:
+
+- **A.** rises.
+- **B.** remains constant.
+- **C.** falls.
+- **D.** We do not have enough information to answer.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2017 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -138,6 +163,18 @@ Supponendo che possa piegare un foglio di carta per più di 7 o 8 volte. Quante 
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 3**
+
+Assuming that a sheet of paper could be folded more than 7 or 8 times, how many times would you need to fold this sheet so that its thickness equals the distance between Earth and the Moon (384,400 km)?
+
+- **A.** 42
+- **B.** 168
+- **C.** 253
+- **D.** 283
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2017 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -177,6 +214,18 @@ Un piccolo villaggio situato dietro una collina desidera ascoltare la radio. Nel
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 4**
+
+A small village located behind a hill wants to listen to the radio. In the region, there is an AM radio station transmitting at 980 kHz and an FM radio station transmitting at 89 MHz. However, the two transmitters are hidden by the hill. Is it possible to receive:
+
+- **A.** the AM radio.
+- **B.** the FM radio.
+- **C.** both.
+- **D.** neither.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2017 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/pulley,object/rope-string"></span>
@@ -228,6 +277,23 @@ Un casco di banane di massa $m$ è appeso a 20 m da una carrucola (vedi figura s
 **Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 5**
+
+A bunch of bananas of mass $m$ is hung 20 m from a pulley (see figure below). On the other side, a monkey of mass $m$ is hanging 25 m from the pulley. Knowing that the monkey has enough energy to lift its own weight by 20 m along its rope, will it be able to reach the bananas and eat them? (Neglect the mass of the pulley and its friction)
+
+- **A.** No, as soon as the monkey tries to pull itself up, the bananas rise all the way to the pulley, but the monkey remains stationary.
+- **B.** Yes, the monkey manages to pull itself up and the bananas remain fixed in place.
+- **C.** No, the monkey manages to pull itself up, but the bananas also rise, so the monkey cannot catch them.
+- **D.** Yes, even though the bananas rise when the monkey pulls itself up, the monkey still manages to catch them.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p5_f1.png]]
+*Monkey and bananas hanging from a pulley*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2017 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -283,6 +349,24 @@ Quali assi di rotazione del parallelepipedo rappresentato nella figura sottostan
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 6**
+
+Which rotation axes of the rectangular prism shown in the figure below are stable?
+
+- **A.** none
+- **B.** axes Y and Z
+- **C.** axes X, Y, and Z
+- **D.** axes X and Z
+- **E.** axes X and Y
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p5_f2.png]]
+*Rectangular prism with axes X, Y, Z*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2017 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -322,6 +406,18 @@ Una persona che guarda allo specchio. Osservazione che la sommità della sua tes
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 7**
+
+A person looks into a mirror and observes that the top of their head exactly coincides with the top edge of the mirror, while their feet exactly coincide with the bottom edge of the mirror. If this person moves closer to see themselves better, what happens?
+
+- **A.** They will cover the entire mirror, with their head and feet at the extremes.
+- **B.** They will cover the entire mirror but no longer see either their head or their feet.
+- **C.** They will not cover the entire mirror; they will be able to see the sky above their head and the floor below their feet.
+- **D.** They will see their feet at the bottom of the mirror, but not their entire head.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2017 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -367,6 +463,19 @@ Sei in giro in auto per una corsa. Vuoi fare due giri del percorso. Il primo gir
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 8**
+
+You are driving around for a race. You want to complete two laps of the track. You drive the first lap with an average speed of $v_1 = 50 \text{ km h}^{-1}$. How fast must you go in the second lap to achieve a total average speed of $v = 60 \text{ km h}^{-1}$?
+
+- **A.** $60 \text{ km h}^{-1}$
+- **B.** $70 \text{ km h}^{-1}$
+- **C.** $75 \text{ km h}^{-1}$
+- **D.** $80 \text{ km h}^{-1}$
+- **E.** $90 \text{ km h}^{-1}$
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2017 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -406,6 +515,18 @@ Ma tua madre è una scombrare il solaio. Il compito è quello di arrotollare un 
 **Objects:** [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 9**
+
+You help your mother clear the attic. You are tasked with rolling a carpet around a cylindrical tube. The radius of the tube is given as $r = 10 \text{ cm}$ and its length as $l = 0.8 \text{ m}$. Your carpet has a thickness of $d = 5 \text{ mm}$, is long $l' = 3.4 \text{ m}$ and wide $b = 6.5 \text{ dm}$. What approximate diameter will the tube have once the entire carpet has been rolled around it?
+
+- **A.** 12.4 cm
+- **B.** 18.6 cm
+- **C.** 24.8 cm
+- **D.** 37.2 cm
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2017 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
@@ -451,6 +572,19 @@ Una ditta chiede al valore il numero massimo di persone che possono stare nel su
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 10**
+
+A company asks you to evaluate the maximum number of people who can fit in its elevator. You know that the elevator cable can withstand a maximum force of $F_S = 15\,000 \text{ N}$ before breaking. Moreover, the elevator must reach its final ascent speed of $v_{\max} = 5 \text{ m s}^{-1}$ in 3 s. Assuming the average mass of a person is $m = 75 \text{ kg}$, how many people can the elevator accommodate?
+
+- **A.** 17
+- **B.** 18
+- **C.** 19
+- **D.** 20
+- **E.** 24
+
+
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2017 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rod,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -490,6 +624,18 @@ Il 21 marzo si trova tutto l'Ecuatore. In questo giorno di equinozio il sole sor
 **Objects:** [[Rod (object)|Rod]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 11**
+
+On March 21st we are at the equator. On this equinox day, the Sun rises at 6 a.m., is at zenith at noon, and sets at 6 p.m. We plant a vertical stick. At 2 p.m., we observe that the shadow of the stick measures $l$. What will be the length of the shadow at 4 p.m.?
+
+- **A.** $0.5\,l$
+- **B.** $2\,l$
+- **C.** $3\,l$
+- **D.** $5\,l$
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2017 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -533,6 +679,19 @@ Due lampadine da 75 W (a 220 V) sono collegate in serie. Il tutto è connesso ad
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 12**
+
+Two lamps rated at 75 W (at 220 V) are connected in series. The entire circuit is connected to a power supply of 220 V. How much power is dissipated by each lamp?
+
+- **A.** 75 W
+- **B.** 60.125 W
+- **C.** 18.75 W
+- **D.** 37.5 W
+- **E.** depends on their resistance
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2017 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -586,6 +745,23 @@ Se un $x = 0$ è accolto un suono generato con frequenza $f_0$. Il grafico sotto
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 13**
+
+You are at $x = 0$ and hear a sound generated with frequency $f_0$. The graph below shows the frequency you perceive as a function of time over a 4-second interval. Which of the following situations describes the source?
+
+- **A.** The source is moving from right to left and at $t = 2$ s it is closest to you.
+- **B.** The source is moving from left to right and at $t = 2$ s it is closest to you.
+- **C.** The source is moving toward you without reaching you; starting from $t = 2$ s it moves away along the same direction.
+- **D.** The source is moving away from you; starting from $t = 2$ s it moves toward you along the same direction.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p7_f3.png]]
+*Perceived frequency vs time (Doppler effect)*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2017 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -625,6 +801,18 @@ Stimando la superficie delle vostre spalle a $50 \text{ cm} \times 10 \text{ cm}
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 14**
+
+Estimating the surface area of your shoulders to be $50 \text{ cm} \times 10 \text{ cm}$, how many kilograms of air do you carry around on yourself each day?
+
+- **A.** 10
+- **B.** 50
+- **C.** 100
+- **D.** 500
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2017 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -682,6 +870,25 @@ Costanti:
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 15**
+
+We have a glass of water with volume 3 dl at $10\,^\circ\text{C}$, which we wish to cool down. We add $45 \text{ cm}^3$ of ice at $-5\,^\circ\text{C}$. What do we obtain after some time? Assume that the system composed of ice and water does not exchange heat or energy with the glass or surrounding environment.
+
+Constants:
+- Density of ice: $0.92 \text{ g cm}^{-3}$
+- Density of water: $1.0 \text{ g cm}^{-3}$
+- Specific heat capacity of water: $4.2 \text{ kJ kg}^{-1}\text{K}^{-1}$
+- Specific heat capacity of ice: $2.1 \text{ kJ kg}^{-1}\text{K}^{-1}$
+- Latent heat of fusion of ice: $333.5 \text{ kJ kg}^{-1}$
+
+- **A.** 230 g of water / 111 g of ice / both at $0\,^\circ\text{C}$
+- **B.** 337 g of water / 5 g of ice / both at $0\,^\circ\text{C}$
+- **C.** 341 g of water / 0 g of ice / at $1.74\,^\circ\text{C}$
+- **D.** 322 g of water / 19 g of ice / both at $0\,^\circ\text{C}$
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2017 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -721,6 +928,18 @@ L'aereo Solar Impulse SI2 è un veicolo elettrico dotato di 17.248 cellule fotov
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 16**
+
+The Solar Impulse SI2 aircraft is an electric vehicle equipped with 17,248 photovoltaic cells. Its batteries have an energy density of $260 \text{ Wh kg}^{-1}$ and account for 28% of the aircraft's total mass, which is 2300 kg. The aircraft flies at a speed of $60 \text{ km h}^{-1}$ and an altitude of 8500 m above sea level at sunset. Approximately how much energy does the aircraft have available to remain airborne until sunrise?
+
+- **A.** $170\,000 \text{ J}$
+- **B.** $170 \text{ kWh}$
+- **C.** $4.8 \times 10^{27} \text{ eV}$
+- **D.** $160 \text{ Pa m}^3$
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2017 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -766,6 +985,19 @@ Quali di queste dimensioni fisiche non corrispondono all'unità di energia?
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 17**
+
+Which of these physical dimensions does not correspond to a unit of energy?
+
+- **A.** $\mu\text{A}^2 \cdot \text{s} \cdot \text{S}^{-1}$
+- **B.** $\text{MPa} \cdot \text{cm}^3$
+- **C.** $\text{Gy} \cdot \text{mg}$
+- **D.** $\text{N} \cdot \text{V} \cdot \text{S} \cdot \text{T} \cdot \text{Pa}^{-1}$
+- **E.** None of the answers.
+
+
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2017 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/satellite"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -807,6 +1039,19 @@ Un geostazionario satellitare ha:
 **Objects:** [[Satellite (object)|Satellite]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 18**
+
+A geostationary satellite has:
+
+- **A.** an elliptical orbit.
+- **B.** a sidereal revolution period of exactly 24 h.
+- **C.** zero velocity.
+- **D.** zero acceleration.
+- **E.** None of the answers.
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2017 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor,object/capacitor"></span>
@@ -860,6 +1105,23 @@ Il circuito seguente è connesso a tempi diversi. Qual è la tensione $V^*$ dell
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 19**
+
+The following circuit has been connected for a long time. What is the voltage $V^*$ across the red-framed resistor?
+
+- **A.** 2.5 V
+- **B.** 5 V
+- **C.** 7.5 V
+- **D.** 10 V
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p9_f4.png]]
+*Circuit with resistors and capacitor*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2017 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -901,6 +1163,19 @@ Quale delle seguenti affermazioni è corretta?
 **Objects:** [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 20**
+
+Which of the following statements is correct?
+
+- **A.** The electric field is a scalar field.
+- **B.** The momentum of an electron subjected to a uniform magnetic field is altered by the Lorentz force.
+- **C.** In the presence of a magnetic field and in the absence of an electric field, the trajectory of a moving electron will always be a circle or a spiral.
+- **D.** The Lorentz force is always conservative.
+- **E.** None of the answers.
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2017 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/block"></span>
@@ -954,6 +1229,23 @@ Ceppi impilati a sbalzo verso il lago
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 21**
+
+For Christmas, you received an infinite number of wooden logs with rectangular cross-section, length $l$, width $b$, and height $h$. You want to build a bridge across a lake by stacking these logs one on top of another. You have no other components available, and you arrange the logs stacked vertically so that the resultant angular momentum is zero. How far from the shore can you reach? (See also the figure below.)
+
+- **A.** $el$
+- **B.** $\log(2l)$
+- **C.** $l!$
+- **D.** $\infty$
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p10_f5.png]]
+*Logs stacked overhanging toward the lake*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2017 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -995,6 +1287,19 @@ Qual è la distanza media tra le molecole di un gas a temperatura $T = 0\,^\circ
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Question 22**
+
+What is the average distance between two molecules of a gas at temperature $T = 0\,^\circ\text{C}$ and pressure $P = 1.01 \times 10^5 \text{ Pa}$?
+
+- **A.** $3\,\mu\text{m}$
+- **B.** $240 \text{ nm}$
+- **C.** $67 \text{ nm}$
+- **D.** $4 \text{ nm}$
+- **E.** $750 \text{ pm}$
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2017 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
@@ -1086,6 +1391,43 @@ iii. (3 pt) Calcola nuovamente la velocità $v_m$ al centro della Terra. Sfrutta
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 1: Journey to the Center of the Earth** (16 points)
+
+A tunnel is drilled through the Earth, starting from the surface, passing through the center, and continuing to the opposite side of the planet. The Earth is considered a perfect sphere with radius $R_E$ and uniform density. Effects such as friction, Coriolis force, or centrifugal force may be neglected.
+
+Constants:
+- $G \cdot M_E = 3.9860042 \times 10^{14} \text{ m}^3\text{s}^{-2}$
+- $R_E = 6371 \text{ km}$
+
+**Part A. Gravitational Potential Inside the Earth (8 points)**
+
+i. (2 pt) Express the mass $M(x)$ of a smaller sphere, made of the same material as Earth and with radius $x$, in terms of the Earth's radius $R_E$, Earth’s mass $M_E$, and $x$.
+
+ii. (2 pt) Calculate the gravitational force $F_G$ acting on an object located at a distance $x$ from the center. Express $F_G$ in terms of $R_E$, $M_E$, the mass $m$ of the object, and $x$.
+
+_Hint_: Use Newton’s Law of Gravitation: $F_G = \dfrac{GMm}{x^2}$
+
+iii. (1 pt) Starting from the gravitational force $F_G(x)$ inside the Earth, calculate the gravitational potential $E_{\text{pot}}(x)$ at any point within the Earth’s sphere.
+
+_Hint_: The gravitational potential inside the Earth satisfies:
+$$E_{\text{pot}}(x) = \int_0^x F_G(z)\,dz$$
+
+iv. (3 pt) Calculate the velocity $v_m$ at the center of the Earth (both in symbolic form and numerically), assuming a person falls into the tunnel from rest.
+
+**Part B. Trajectory of the Fall (8 points)**
+
+i. (2 pt) Write down the differential equation for the trajectory $x(t)$.
+
+ii. (3 pt) Solve the differential equation for $x(t)$, considering the initial condition in which the object initially is at the end of the tunnel, on Earth's surface, and begins falling with zero initial velocity.
+
+_Hint_: The general solution for the differential equation $y''(x) = -\lambda \cdot y(x)$ with $\lambda > 0$ is:
+$$y(x) = A \cdot \cos\!\left(\sqrt{\lambda}\,x\right) + B \cdot \sin\!\left(\sqrt{\lambda}\,x\right)$$
+
+iii. (3 pt) Recalculate the velocity $v_m$ at Earth's center. This time, use your solution for the trajectory $x(t)$. Compare this result with that of the previous question.
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Svizze 2017 — Quesito 24" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/satellite,object/star"></span>
@@ -1191,6 +1533,49 @@ iv. (2 p) Utilizza le tue risposte alle domande A.iii e B.ii per calcolare la po
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2: Flight toward the stars** (16 points)
+
+Relativistic effects may be ignored throughout this problem.
+
+**Part A. Radiation pressure (6 points)**
+
+Electromagnetic waves can exert a force on an object when they are absorbed or reflected by it. Suppose the force of a laser beam on a black body is $F$ in the direction of propagation, and the laser radiation is completely absorbed (see Figure 2a).
+
+i. (2 pts) Is there a force that the beam exerts on the laser itself? If yes, what is its direction and magnitude?
+
+ii. (2 pts) What is the force acting on a mirror that completely reflects the beam at an angle of incidence $\theta$ (Figure 2b)?
+
+_Hint_: What happens if a black body absorbs the beam after the mirror?
+
+iii. (2 pts) The value of $F$ depends on the laser power $P$ and the speed of light $c$. What equation might relate these three quantities? Consider units and write the simplest possible expression. Assuming this expression is correct, what is the value of $F$ for a laser pointer with a power of 1 mW?
+
+**Part B. Proxima Centauri (10 points)**
+
+Proxima Centauri, at a distance of 4.2 light-years, is the closest star to the Sun. To search for extraterrestrial life on a planet orbiting it, a spacecraft is to be sent using propulsion provided by a laser located on Earth that emits radiation toward the star. The spacecraft is equipped with a large solar sail capable of capturing the laser light. Additionally, the spacecraft is made of extremely lightweight materials so that its mass is only $m = 1 \text{ g}$.
+
+i. (2 pt) Is propulsion more efficient if the solar sail reflects or completely absorbs the laser light? Justify your answer.
+
+ii. (3 pt) The laser does not produce perfectly collimated light. Therefore, propulsion is effective only when the distance $s$ between the spacecraft and the laser is less than $s_L = 1 \times 10^7 \text{ km}$. Assume that for $s < s_L$, the laser exerts a constant force on the spacecraft, while for $s > s_L$, the force is zero. What must be the initial force magnitude to allow the spacecraft to reach Proxima Centauri in 50 years? Use the following simplifications: initially, the spacecraft is at rest directly in front of the laser, and gravitational effects may be neglected.
+
+iii. (3 pt) Draw a graph for each of the following quantities:
+- $s$ as a function of time,
+- spacecraft velocity as a function of time,
+- spacecraft acceleration as a function of time.
+
+iv. (2 pt) Use your answers to parts A.iii and B.ii to calculate the required laser power.
+
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p14_f6.png]]
+*Laser and black body absorber (Fig. 2a)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica/Esame-Secondo-Turno-2017-Olimpiadi-di-Fisica_p14_f7.png]]
+*Reflected laser beam from mirror at angle theta (Fig. 2b)*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q25" data-atom="q25" data-title="Svizze 2017 — Quesito 25" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas,object/cylinder,object/piston"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -1289,3 +1674,45 @@ iii. (4 p) Come si può definire la massa del cilindro in funzione della tempera
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1wUIP3wzby7JTXFUW_v5B1yB4GLnSQVq6/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 3: Under Pressure** (16 points)
+
+**Part A. Determination of Mass** (5 points)
+
+Nitrogen gas is contained in a cylinder of $V = 2 \text{ L}$ equipped with a piston acting as a stopper. In this first part, we fix the piston in place, heat the gas to different temperatures, and measure the pressure. The results are shown in the table:
+
+| # | $T$ (°C) | $P$ (Pa) |
+|---|----------|----------|
+| 1 | 10 | 168 100 |
+| 2 | 20 | 174 000 |
+| 3 | 50 | 191 800 |
+| 4 | 100 | 221 500 |
+| 5 | 150 | 251 200 |
+| 6 | 250 | 310 600 |
+
+i. (2 pt) Sketch a graph of the gas temperature as a function of pressure in the cylinder.
+
+ii. (3 pt) What is the mass of nitrogen inside the cylinder?
+
+**Part B. Equilibrium** (2 points)
+
+Now we allow the piston to move freely along the cylinder axis. Unless explicitly stated otherwise, ignore heat exchange between the gas and the external environment.
+
+i. (2 pt) If the temperature of the gas is $23\,^\circ\text{C}$, what volume does the gas occupy inside the cylinder?
+
+**Part C. Immersion** (9 points)
+
+The cylinder is submerged underwater, 7 m below the surface. The temperature of the gas inside the cylinder is $23\,^\circ\text{C}$. The piston remains free to move along the cylinder axis.
+
+Constants:
+- Water density: $\rho_{\text{acqua}} = 1.0 \text{ g cm}^{-3}$
+- Specific heat of nitrogen: $c_{\text{azoto}} = 1.04 \text{ kJ kg}^{-1}\text{K}^{-1}$
+
+i. (2 pt) What volume does the gas occupy, assuming that the temperature remains unchanged?
+
+ii. (3 points) Leaving the cylinder underwater, how much heat must be supplied so that its volume becomes 2 L?
+
+iii. (4 points) What must be the mass of the cylinder as a function of the gas temperature in order for the gas to be in equilibrium at this depth? By equilibrium, it is meant that the cylinder neither rises toward the surface nor sinks downward. The material of the cylinder occupies a negligible volume, and the piston has negligible mass.
+
+

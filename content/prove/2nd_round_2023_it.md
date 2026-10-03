@@ -60,6 +60,20 @@ Schema doppia fenditura interferenza luce
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+1. The green filter is replaced by a blue filter.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p6_f6.png]]
+*Four-resistor circuit P Q R S*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p6_f7.png]]
+*Double-slit interference pattern of light*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2023 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -99,6 +113,11 @@ le
 **Objects:** [[Slit (object)|Slit]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/195GBFiez4dGHhXlYBAB8HCCjzNnLOgfd/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+2. The double slit is replaced by another one with a greater distance between the slits.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2023 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror,object/star,object/photon,object/cylinder,object/ball"></span>
@@ -1193,3 +1212,324 @@ iv. (2 p) Supponiamo che l'appartamento perda calore solo tramite conduzione
 **p.21** — Analizzatore emisferico soluzione
 ![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p21_f16.png]]
 <!--fig:end-->
+<div class="qlang-split" data-lang="en"></div>
+
+3. A brighter light source is used.
+- **A.** All three
+- **B.** Only 1 and 2
+- **C.** Only 2 and 3
+- **D.** Only 1
+- **E.** Only 3
+
+Question 1.18 (MC)
+Cepheids are special stars that exhibit a periodic variation in their brightness. Their absolute luminosity can be deduced from the duration of the period. You have a camera that allows you to measure the apparent brightness (intensity) of stars. You photograph two Cepheids, A and B, and observe that the measured brightness of Cepheid B is 18 times weaker than that of Cepheid A. From the period of brightness variation, you also know that Cepheid A has twice the absolute luminosity of Cepheid B. How much farther away is Cepheid B compared to Cepheid A?
+- **A.** 3 times farther
+- **B.** 6 times farther
+- **C.** 9 times farther
+- **D.** 18 times farther
+- **E.** 36 times farther
+
+Question 1.19 (MC)
+How can the number of photons received by a telescope be increased?
+A) Using a telescope with a larger primary mirror.
+B) Using a telescope with a larger secondary mirror.
+C) Using a telescope with a larger eyepiece.
+D) Connecting a sensitive camera directly instead of using an eyepiece.
+E) Filtering out red light and keeping only high-energy blue photons.
+
+Part 1 - 4/7
+Physics Olympiad: Second round
+January 18, 2023
+
+Question 1.20 (MC)
+Consider a telescope. Which of the following optical paths is possible?
+- **A.** I
+- **B.** II
+- **C.** III
+- **D.** IV
+
+Question 1.21 (MC)
+Emmy holds a spoon with her arm fully extended and observes her reflection on both the inner and outer surfaces of the spoon. In doing so, she notices the following:
+A) Reflections on both the inside and outside are inverted (upside down).
+B) The reflection on the inside is inverted, while that on the outside is not.
+C) The reflection on the outside is inverted, while that on the inside is not.
+D) Reflections on both the inside and outside are not inverted.
+
+Part 1 - 5/7
+Physics Olympiad: Second Round
+January 18, 2023
+Multiple Choice: Answer Sheet
+
+Please record your answers in the boxes provided on this page.
+Last Name:
+First Name:
+Total:
+
+A B C D E
+Question 1.1 □ □ □ □
+Question 1.2 □ □ □ □ □
+Question 1.3 □ □ □ □ □
+Question 1.4 □ □ □
+Question 1.5 □ □ □ □ □
+Question 1.6 □ □ □ □
+Question 1.7 □ □ □ □ □
+Question 1.8 □ □ □ □ □
+Question 1.9 □ □ □ □ □
+Question 1.10 □ □ □ □
+Question 1.11 □ □ □ □ □
+Question 1.12 □ □ □ □ □
+Question 1.13 □ □ □ □
+Question 1.14 □ □ □ □ □
+Question 1.15 □ □ □ □ □
+Question 1.16 □ □ □ □ □
+Question 1.17 □ □ □ □ □
+Question 1.18 □ □ □ □ □
+Question 1.19 □ □ □ □ □
+Question 1.20 □ □ □ □
+Question 1.21 □ □ □ □
+
+Part 1 - 6/7
+
+SOLUTION
+Physics Olympiad: Second Round
+January 18, 2023
+Multiple Choice: Solutions
+
+A B C D E
+Question 1.1 ■ □ □ □
+Question 1.2 □ ■ □ □ □
+Question 1.3 □ ■ □ □ □
+Question 1.4 ■ □ □
+Question 1.5 □ ■ □ □ □
+Question 1.6 □ □ ■ □
+Question 1.7 □ □ □ ■ □
+Question 1.8 □ □ □ ■ □
+Question 1.9 ■ □ □ □ □
+Question 1.10 ■ □ □ □
+Question 1.11 □ □ ■ □ □
+Question 1.12 □ □ □ ■ □
+Question 1.13 ■ □ □ □
+Question 1.14 □ □ ■ □ □
+Question 1.15 □ □ □ ■ □
+Question 1.16 □ □ □ ■ □
+Question 1.17 □ □ □ ■ □
+Question 1.18 □ □ □ ■ □
+Question 1.19 □ □ □ ■ □
+Question 1.20 □ □ □ ■ □
+Question 1.21 □ □ □ ■
+Question 1.14
+□
+□
+□
+■
+□
+
+Question 1.15
+□
+□
+□
+□
+■
+
+Question 1.16
+□
+■
+□
+□
+□
+
+Question 1.17
+□
+■
+□
+□
+□
+
+Question 1.18
+■
+□
+□
+□
+□
+
+Question 1.19
+■
+□
+□
+□
+□
+
+Question 1.20
+□
+□
+■
+□
+
+Question 1.21
+□
+■
+□
+□
+
+Part 1 - 7/7
+Physics Olympiad: Second Round
+January 18, 2023
+Long Problems
+Duration: 120 minutes
+Score: 48 points (3 $\times$ worth 16)
+
+Begin each problem on a new sheet to facilitate grading.
+
+General instruction: The problems consist of partially independent parts. In case of getting stuck, it is recommended to continue reading and attempt the easier parts.
+
+Long Problem 2.1: Magnus Effect (16 points)
+Rotating flying objects are deflected from their ballistic trajectory due to interaction with the surrounding air. In this exercise, we examine this effect more closely, which is named after physicist Heinrich Magnus. To this end, in part A we develop a simple model to explain the effect, and in part B we apply the obtained results to an example.
+
+Part A. Magnus Effect (9 points)
+In this part, we consider a cylinder of height h and radius R. The cylinder rotates about its own axis with angular velocity $\omega$, and its center of mass moves with velocity $v_B$. For part A, we use the inertial reference frame moving together with the cylinder at velocity $v_B$ (see sketch).
+
+$\phi$
+P
+$v_A$
+$\omega$ x y
+Figure A.1: Cylinder as viewed from the inertial reference frame moving with it.
+i. (1 pt) What are the components $v_x$ and $v_y$ of the velocity of point P on the lateral surface of the cylinder, expressed in terms of $\omega$, $R$, and the angle $\phi$?
+ii. (0.5 pt) What is the velocity $\vec{v}_A$ of the air far ahead of the cylinder?
+The layer of air on the lateral surface of the cylinder is dragged along by the rotating cylinder. Therefore, we assume that the air velocity at point P equals the sum of the velocity $\vec{v}_A$ and the velocity $\vec{v}_P$ of point P on the cylinder.
+iii. (3 pt) Assume that the pressure at point $P_0 = (R, 0)$ is $p_0$. Use Bernoulli’s equation to find the pressure at any point P on the lateral surface of the cylinder, expressed in terms of $v_B$, the angle $\phi$, $\omega$, and $R$.
+Now consider an element of the lateral surface of the cylinder.
+$R$
+$h$
+$R\,d\phi$
+A iv. (1.5 pt) Calculate the components $x$ and $y$ of the force acting on surface A, which has sides of length $R\,d\phi$ and height $h$.
+v. (1 pt) In which direction does the total force acting on the cylinder point? A qualitative argument without calculations is sufficient.
+vi. (2 pt) What is the magnitude of this force?
+Hint:
+$$\int_0^{2\pi} \sin(\phi)^2\, d\phi = \pi$$
+Part B. Trajectory (7 points)
+In this part, we apply the Magnus effect to the trajectory of a soccer ball. For this purpose, we need the expression for the Magnus force in the case of a ball moving with velocity $\vec{v}$ and rotating with angular velocity $\omega$
+$$\vec{F} = \frac{4}{3}\pi R^3 \rho_A\, (\vec{v} \times \vec{\omega}) ,$$
+Part 2 - 1/14
+Physics Olympiad: Second Round
+January 18, 2023 where $\rho_A$ denotes the air density ($1.2\ \text{kg}\cdot\text{m}^{-3}$) and
+$R$ the radius of the football. Additionally, for this exercise we assume a soccer ball weighs 420 g and has a radius of 11 cm. The distance from the corner flag to the center of the goal is $L = 23\ \text{m}$.
+
+Shaqiri aims to score a goal from the corner flag. He kicks the ball such that its axis of rotation is always perpendicular to the ground.
+
+$\theta$
+
+Shaqiri performs i. (2 points) What shapes describe the horizontal and vertical components of the ball’s trajectory?
+ii. (2.5 points) Shaqiri kicks the ball with a rotational speed of 10 revolutions per second and an initial horizontal velocity of $v_h = 80\ \text{km}\cdot\text{h}^{-1}$. At what angle $\theta$ relative to the sideline must he kick so that the ball crosses the goal line exactly at the center of the goal?
+iii. (2.5 points) At what upward vertical velocity must he kick the ball so that it hits the ground again precisely when crossing the goal line?
+
+Part 2 - 2/14
+Physics Olympiad: Second Round
+January 18, 2023
+Long Problem 2.2: Energy Crisis (16 points)
+On a pleasant autumn day, Richard Feynman reads in the newspaper that a shortage of fossil fuels is expected for the upcoming winter. Currently, he lives with Arline Greenbaum in a shared apartment heated by kerosene. The couple begins to wonder how they can reduce their kerosene consumption. In winter, the outdoor temperature is $T_1 = 3\ ^\circ\text{C}$ and they wish to maintain their apartment at a temperature of $T_2 = 20\ ^\circ\text{C}$, in which case the apartment loses $P = 2000\ \text{W}$ of heat that must be compensated. Kerosene has a heating value of $H = 36\ \text{MJ}\cdot\text{L}^{-1}$. Water has a specific heat capacity of $c = 4.19\ \text{kJ}\cdot\text{kg}^{-1}\cdot\text{K}^{-1}$ and a latent heat of solidification of $L = 333.7\ \text{kJ}\cdot\text{kg}^{-1}$.
+
+Part A. Heating Questions (4.5 points)
+
+i. (1 pt) Estimate the efficiency of kerosene-based hot water heating.
+
+ii. (1 pt) How much water could be heated from $T_2$ to $T_3 = 80\ ^\circ\text{C}$ using 1 L of kerosene?
+
+iii. (0.5 pt) For how long could they maintain their apartment's temperature using 1 L of kerosene?
+
+iv. (2 pt) Assuming the apartment loses heat only through conduction
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+## Figure
+
+<!--fig:start-->
+**p.4** — Two plates with different thermal conductivities
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p4_f1.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.4** — Graphs of heating a water-ice mixture
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p4_f2.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.5** — Infinite resistor network circuits, options A–D
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p5_f3.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.5** — Rectangular loop in a magnetic field
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p5_f4.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.5** — Charged toroidal ring, electric field
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p5_f5.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.7** — Optical paths in telescope, four options
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p7_f8.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.10** — Rotating cylinder, inertial frame Figure A.1
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p10_f9.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.10** — Lateral surface element of cylinder A
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p10_f10.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.11** — Football corner kick, Shaqiri's angle theta
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p11_f11.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.13** — Hemispherical analyzer R1 R2 electrons
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p13_f12.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.14** — Cylinder, inertial frame solution A.1
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p14_f13.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.15** — Cylinder surface element, solution
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p15_f14.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.17** — Ball trajectory, angle theta solution
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p17_f15.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.21** — Hemispherical analyzer, solution
+![[_attachments/2nd_round_2023_it/2nd_round_2023_it_p21_f16.png]]
+<!--fig:end-->
+
+

@@ -167,6 +167,29 @@ b) Le resistenze della figura 2.1 hanno resistenza di $1, 2, 3, 4, 5$ e $6$ ohm,
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Six resistors with resistances in ohms of $r_1, r_2, r_3, r_4, r_5, r_6$ are connected as indicated in Figure 2.1.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p5_f4.png]]
+*star-shaped six-resistor network A B C*
+<!--fig:end-->
+
+a) If all resistances have value $r$, determine the resistance:
+(i) $R_1$ across terminals $AB$;
+(ii) $R_2$ across terminals $AB$ when $r_2$ is short-circuited;
+(iii) $R_3$ across terminals $AB$ when $AC$ is short-circuited.
+
+b) The resistors in Figure 2.1 have resistances of $1, 2, 3, 4, 5$ and $6$ ohms, with no resistor having the same value. Initially all resistors are unspecified.
+- (i) Obtain an algebraic expression for the resistance $R_{AB}$ across terminals $AB$, as a rational fraction (numerator and denominator algebraic).
+- (ii) If $13R_{AB} = 94$, deduce the value of $(r_1 + r_2 + r_3)$.
+- (iii) Show that $R_{AB}$ can be expressed as $R_{AB} = n_1 + n_2 + p$, where $p = n_3(13 - n_3)/13$ and $n_1, n_2, n_3$ are integers.
+- (iv) Evaluate $p$ for all six possible values of $n_3$ and deduce the value of $r_3$. Similarly deduce the values of $r_2$ and $r_1$ if $13R_{AC} = 87$ and $13R_{BC} = 131$.
+- (v) Determine the possible values of $n_1$ and $n_2$, and thus $r_4$ and $r_5$, for $R_{AB}$.
+- (vi) Similarly obtain the possible values of $n_1$ and $n_2$ for $R_{AC}$ and $R_{BC}$, and deduce the values of $r_4$, $r_5$ and $r_6$.
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2008 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/star,object/photon,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -210,6 +233,20 @@ c) Spiegare perché il valore di $g$ di tutti gli ecuatori terrestri differisce 
 **Objects:** [[Star (object)|Star]], [[Photon (object)|Photon]], [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+a) A binary star system consists of two stars, each with the same mass as our Sun, $M_S$, separated by a distance $d$. It is observed that they complete one full revolution around their center of mass in one week. Determine, to two significant figures, the ratio $d/R_{SE}$, where $R_{SE}$ is the Earth-Sun distance, without assuming the numerical value of $M_S$.
+
+b) In this calculation, light may be considered as a stream of particles, photons, each with mass $h/\lambda c$ and energy $hc/\lambda$, where $\lambda$ is the wavelength of light. Light with wavelength $\lambda = 500\ \text{nm}$ is emitted from the surface of the Sun, radius $R_S$, and received on Earth, radius $R_E$, slightly shifted in wavelength by $\Delta\lambda$ after traveling a distance $R_{SE}$.
+- (i) Give an algebraic expression for the change in gravitational potential energy of the photon, $\Delta U$.
+- (ii) Estimate the order of magnitude of each term in the expression for $\Delta U$ given in (i). Indicate which, if any, terms may be neglected so that the result is correct to two significant figures.
+- (iii) Calculate $\Delta\lambda/\lambda$ to two significant figures.
+
+*(These calculations yield results identical to those from a more rigorous calculation.)*
+
+c) Explain why the value of $g$ at the Earth's equator differs from its value at the poles. Which has the greater value?
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2008 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/beam,object/rope-string,object/projectile"></span>
@@ -263,6 +300,25 @@ b) Un tiratore a terra in $A$ risparmi il fucile in direzione di un piccione d'a
 **Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]], [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+a) A mass $M = 100\ \text{kg}$ hangs from one end of a uniform beam of length $3{,}00\ \text{m}$ and mass $m = 2{,}00\ \text{kg}$. The other end is hinged to a vertical wall at $P$. A horizontal, massless cable is attached to the beam at a point $2{,}00\ \text{m}$ from $P$, holding the beam in equilibrium at an angle of $30^\circ$ with the horizontal.
+
+Determine: (i) the tension $T$ in the cable; (ii) the horizontal and vertical components of the hinge force on the beam, $F_H$ and $F_V$ respectively.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p7_f5.png]]
+*Hinged beam with cable and mass M*
+<!--fig:end-->
+
+b) A marksman at ground level located at $A$ fires a rifle toward a stationary clay pigeon positioned on a tower at $B$, at height $H$, and horizontal distance $L$ from $A$. At the same instant, the clay pigeon is released and falls vertically under gravity. Verify that the bullet strikes the pigeon during its fall.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p7_f6.png]]
+*Marksman A, clay pigeon, tower B geometry*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2008 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/sphere,object/cylinder,object/piston,object/gas"></span>
@@ -326,6 +382,27 @@ b) Due contenitori cilindrici identici, $A$ e $B$, entrambi di volume $V$ e capa
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) A sphere $A$ moving horizontally on a smooth table with velocity $u$ undergoes a symmetric, elastic collision with two stationary spheres $B$ and $C$ that are touching each other. All spheres are identical and have mass $m$. Determine the velocities of all spheres after the collision. Sphere $C$ subsequently collides with another identical sphere $D$ initially at rest and in contact with it. The centers of spheres $B$, $C$, and $D$ lie along a straight line. Determine the outcome of this collision.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p8_f7.png]]
+*three spheres A B C collision*
+<!--fig:end-->
+
+b) Two identical cylindrical containers, $A$ and $B$, each with volume $V$ and negligible heat capacity, are connected by a valve $C$ initially closed. Cylinder $A$ contains $n$ moles of a monatomic gas at temperature $T$ and with molar specific heat equal to $\tfrac32 R$. It is equipped with a piston $P$ initially fully retracted. Cylinder $B$ is a closed, evacuated cylinder. The valve $C$ is opened and the gas is pushed into $B$ by pushing the piston at a rate such that pressure $p$ in $A$ remains constant. The process stops after the piston has been displaced by volume $yV$. The final temperature of the gas is $T_f$.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p8_f8.png]]
+*two cylinders A B with piston P*
+<!--fig:end-->
+
+- (i) Write the initial and final gas equations for the system.
+- (ii) Determine the work done by the piston, $W$, and the internal energy acquired by the gas, $U$.
+- (iii) Deduce the numerical value of the ratio $T/T_f$.
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2008 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -383,6 +460,28 @@ b) * [Tabella 6.b] * I risultati ottenuti nell'esperimento sono nella Tabella 6.
 **Objects:** [[Photon (object)|Photon]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+In an experiment to study the photoelectric effect, light of wavelength $\lambda$ is incident on a metallic surface and produces a current. The current is suppressed by applying a potential difference $V$ between the metallic surface and the collecting plate.
+
+a) (i) Derive, with complete explanation, an equation relating $\lambda$, $V$ and the work function $W$ of the metal.
+(ii) Why does the classical explanation of the photoelectric effect fail to explain the experimental results?
+
+b) *[Table 6.b]* The results obtained in the experiment are given in Table 6.b.
+
+| $V$/V | $\lambda$/$10^{-9}$ m |
+|---|---|
+| 1,0 | 200 |
+| 2,0 | 196 |
+| 3,0 | 158 |
+| 4,0 | 144 |
+
+- (i) Verify graphically that the results follow the relationship derived in (a)(i).
+- (ii) Determine $h$ and $W$ from the graph, specifying their accuracy.
+- (iii) Obtain the threshold frequency $\nu_0$ for photoemission.
+- (iv) What is the effect of doubling the intensity of the incident light?
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2008 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/nucleus"></span>
@@ -448,6 +547,29 @@ b)
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+A radioactive source contains a mixture of two unrelated radioactive substances, $A$ and $B$, with decay constants $\lambda_A$ and $\lambda_B$; $A$ has the larger decay constant. A detector is efficient at $60\%$ in detecting all decays of nuclei $A$, but only at $11\%$ for those from substance $B$. At time $t = 0$, $A$ and $B$ produce $N_A$ and $N_B$ counts per minute, respectively. The results of the experimental measurements of total counts are given in Table 7.1.
+
+| $t$ Time/days | $N$ Counts/min |
+|---|---|
+| 0.5 | 7000 |
+| 2.0 | 620 |
+| 5.0 | 142 |
+| 9.0 | 76 |
+| 15.0 | 28 |
+
+a)
+(i) Write the equation for $N$, the number of counts per minute detected by the counter.
+(ii) Deduce the behavior of $N$ for large $t$.
+(iii) Using (ii), draw an appropriate graph to determine $N_B$ and $\lambda_B$.
+(iv) What is the initial number of atoms of $B$ present?
+
+b)
+(i) Extrapolate the graph to obtain a value of $N$ at time $t = 0$ and thus determine $N_A$.
+(ii) Using the first experimental result from Table 7.1, determine $\lambda_A$.
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2008 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/capacitor,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -508,3 +630,24 @@ b)
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1WYcqqUMi2AIfBe3_kNZa7uifjuhTviKA/view)
+<div class="qlang-split" data-lang="en"></div>
+
+Two parallel conducting circular plates, separated by a distance $1{,}00\ \text{mm}$, are located inside an evacuated container. The plates are maintained at a potential difference of $100\ \text{V}$ and placed in a constant magnetic field with flux density $B = 0{,}010\ \text{T}$, parallel to the surface of the plates. A radioactive source emitting beta particles, with a maximum energy of $15{,}0\ \text{keV}$, is positioned symmetrically at the center $O$ of the gap between the plates.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p11_f9.png]]
+*Parallel plates, side view with magnetic field B (Figure 8.1)*
+<!--fig:end-->
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p11_f10.png]]
+*Top view, circular geometry with angle theta (Figure 8.2)*
+<!--fig:end-->
+
+a) Determine using classical physics: (i) the electric force on a beta particle; (ii) the order of magnitude of the ratio between the gravitational force and the electric force on a beta particle; (iii) the maximum speed of the beta particle in $O$; (iv) the condition for beta particles traveling in the horizontal plane through $O$ to emerge from the plates; (v) the range of speeds of beta particles emerging from the plates; (vi) the angular interval of $\theta$ (Figure 8.2) for beta particles in (v).
+
+b)
+(i) The calculations in (a) assume that beta particles do not travel at relativistic speeds. Is this assumption justified? Provide a quantitative answer. The relativistic mass $m$ of electrons is given by $m = m_0(1 - v^2/c^2)^{-1/2}$, where $m_0 = m_e$ is the rest mass of the electron and $v$ is the velocity of the electron.
+(ii) How does the kinetic energy of a relativistic electron differ from that of a non-relativistic particle?
+
+

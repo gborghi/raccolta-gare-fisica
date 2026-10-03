@@ -54,6 +54,17 @@ F) CHF 30000 -
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+As you know, the Physics Olympiad reimburses participants for train ticket expenses. You are looking for a partner to cover these costs for the second round. How much can you expect your partner to pay?
+
+- **A.** CHF 9.-
+- **B.** CHF 30.-
+- **C.** CHF 900.-
+- **D.** CHF 3000.-
+- **E.** CHF 9000.- (F) CHF 30000.-
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2025 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -89,6 +100,16 @@ Il signor Fogg e Passepartout hanno accettato la sfida di girare il globo. Scels
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Mr. Fogg and Passepartout have accepted the challenge of circumnavigating the globe. They chose to follow the equator. Mr. Fix, who was chasing them, was always located at the point on Earth diametrically opposite to the two companions. How many times will Fix and Fogg be at the same altitude at the same time?
+
+- **A.** Never.
+- **B.** Possibly only once.
+- **C.** At least twice.
+- **D.** Depends on Earth's position relative to the Sun.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Svizze 2025 — Quesito 3" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring"></span>
@@ -138,6 +159,21 @@ Quale delle seguenti configurazioni ha la più bassa costante elastica equivalen
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Which of the following configurations has the lowest equivalent spring constant $k_{\text{eq}}$? All individual springs have the same spring constant $k$ and the same length.
+
+- **A.** [Configuration A]
+- **B.** [Configuration B]
+- **C.** [Configuration C]
+- **D.** [Configuration D]
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p3_f1.png]]
+*four spring configurations (A–D)*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="Svizze 2025 — Quesito 4" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/spring,object/satellite"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -173,6 +209,16 @@ Il mondo ha deciso di volare sulla luna. Vorrebbe andare a trovare gli extraterr
 **Objects:** [[Spring (object)|Spring]], [[Satellite (object)|Satellite]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Globi has decided to fly to the Moon. He wants to visit the aliens he assumes live on the Moon. Since naturally he doesn't want to arrive empty-handed, he has decided to bring along a piece of Swiss cheese. Since he wants to divide it equally, he also brings along a spring scale. The scales are calibrated on Earth and the gravitational constant on the Moon is about six times smaller than on Earth. What does he discover when weighing the piece of cheese on the Moon?
+
+- **A.** Nothing. The scale shows the same weight as on Earth.
+- **B.** The scale indicates about six times the weight measured on Earth.
+- **C.** The scale shows about one-sixth of the weight measured on Earth.
+- **D.** It cannot be predicted.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Svizze 2025 — Quesito 5" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
@@ -216,6 +262,17 @@ Siete in spedizione su un sottomarino sulla luna di Saturno Titano, che ha laghi
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+You are on a mission aboard a submarine on Titan, Saturn's moon, which has lakes of liquid ethane and methane. The fluid has a density of approximately $500\,\text{g}\cdot\text{L}^{-1}$, and Titan has a gravitational acceleration of $1.35\,\text{m}\cdot\text{s}^{-2}$. It is known that Titan's surface pressure is $1.5\,\text{bar}$ ($1\,\text{bar}=1\times10^5\,\text{Pa}$). Your submarine's barometer reads a pressure of $3\,\text{bar}$. At what depth are you in the lake?
+
+- **A.** $0.22\,\text{m}$
+- **B.** $0.66\,\text{m}$
+- **C.** $220\,\text{m}$
+- **D.** $660\,\text{m}$
+- **E.** $22000\,\text{m}$ (F) $66000\,\text{m}$
+
+
 <span class="atom-split" id="q06" data-atom="q06" data-title="Svizze 2025 — Quesito 6" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -251,6 +308,16 @@ Una noce di cocco con velocità costante esplode e si divide in tre pezzi volano
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A coconut with constant velocity explodes and splits into 3 pieces that fly off in different directions. Which of the following statements is correct regarding their respective momentum vectors in the coconut's reference frame?
+
+- **A.** They are perpendicular to each other.
+- **B.** The sum of their magnitudes equals the initial momentum of the coconut.
+- **C.** The vectors have the same magnitude.
+- **D.** The vectors all lie on a plane.
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Svizze 2025 — Quesito 7" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/wheel"></span>
@@ -294,6 +361,18 @@ F) La moto cambia la sua velocità di traslazione orizzontale a causa della cons
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+A motorcycle is in mid-air during a jump, and its front wheel is rotating clockwise from Alice's viewpoint, who is observing from one side. Initially, the motorcycle is not rotating, and the axis of the front wheel is aligned with that of the rear wheel. Which of the following statements correctly describes what happens and why, when the rider applies the front brake (so that the wheel stops rotating completely relative to the motorcycle)?
+
+- **A.** The angular velocity of the motorcycle remains 0, since no mechanical torque is applied.
+- **B.** The motorcycle begins to rotate clockwise due to conservation of angular momentum.
+- **C.** The motorcycle begins to rotate counterclockwise due to conservation of angular momentum.
+- **D.** The motorcycle begins to rotate clockwise due to conservation of energy.
+- **E.** The motorcycle begins to rotate counterclockwise due to conservation of energy.
+- (F) The motorcycle changes its horizontal translational speed due to conservation of energy.
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="Svizze 2025 — Quesito 8" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -329,6 +408,16 @@ Come abbiamo imparato nel primo round, una persona di altezza $h$ ha solo bisogn
 **Objects:** [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+As we learned in the first round, a person of height $h$ needs only a mirror of height $h/2$ to see themselves completely. How must the mirror be hung in order for them actually to see themselves?
+
+- **A.** So that the top edge of the mirror is exactly at the height of the tip of their head.
+- **B.** So that the top edge of the mirror is approximately at the height of the person's forehead.
+- **C.** So that the center of the mirror is exactly at height $h/2$.
+- **D.** This depends on the distance of the person from the mirror.
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Svizze 2025 — Quesito 9" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/lens"></span>
@@ -378,6 +467,21 @@ Disposizione lente sottile, oggetto e immagine
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+A thin convex lens is shown in the figure. The object distance from the lens and the image distance from the lens are marked respectively by $g$ and $b$. The focal length is indicated by $f$. At what distance from the lens should an object be placed so that the image has exactly the same size on the other side of the lens?
+
+- **A.** $2f$
+- **B.** $f$
+- **C.** Not possible.
+- **D.** $\dfrac{f}{2}$
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p5_f2.png]]
+*thin lens, object and image arrangement*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="Svizze 2025 — Quesito 10" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/slit"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -413,6 +517,16 @@ Dati di una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, quale è la
 **Objects:** [[Slit (object)|Slit]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Given a one-dimensional slit of width $l=3\,\text{mm}$, what is the minimum angular separation in arcseconds between two lights of wavelength $\lambda=500\,\text{nm}$ such that they can be resolved through the slit?
+
+- **A.** $35''$
+- **B.** $40''$
+- **C.** $45''$
+- **D.** $50''$
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Svizze 2025 — Quesito 11" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/heat-engine"></span>
@@ -452,6 +566,16 @@ Dati di una fenditura unidimensionale di larghezza $l=3\,\text{mm}$, quale è la
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Is it physically possible for a heat engine operating between two thermal reservoirs at temperatures $T_1=0\,°\text{C}$ and $T_2=100\,°\text{C}$ to have an efficiency of $30\%$?
+
+- **A.** Yes, regardless of the process.
+- **B.** Yes, if the engine's process is reversible.
+- **C.** Yes, depending on the exact process of the engine.
+- **D.** No.
+
+
 <span class="atom-split" id="q12" data-atom="q12" data-title="Svizze 2025 — Quesito 12" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -487,6 +611,16 @@ Alice usa un cubetto di ghiaccio per lotteria per il suo bicchiere d'acqua. Subi
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Alice uses an ice cube to cool her glass of water. Immediately after adding the ice cube, the water level in the glass is $h_1$. After some time, the ice cube has completely melted. What can be said about the water level $h_2$ at this point?
+
+- **A.** $h_1 > h_2$
+- **B.** $h_1 = h_2$
+- **C.** $h_1 < h_2$
+- **D.** Not enough information is provided.
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Svizze 2025 — Quesito 13" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/gas"></span>
@@ -530,6 +664,17 @@ Gli pneumatici svolgono un ruolo essenziale nella Formula 1. La pressione pneuma
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Tires play an essential role in Formula 1. Therefore, tire pressure must be optimal. We want to inflate a tire so that we can drive at a pressure of $21\,\text{psi}$, where $1\,\text{psi}$ approximately corresponds to $0.07\,\text{bar}$. While driving, the tire reaches a temperature of $90\,°\text{C}$ and a pressure of $21\,\text{psi}$ is expected at this temperature. At what pressure should we inflate the tire in the pit lane, where the temperature is $35\,°\text{C}$? Assume that the volume remains constant.
+
+- **A.** $8.2\,\text{psi}$
+- **B.** $7.0\,\text{psi}$
+- **C.** $4.4\,\text{bar}$
+- **D.** $1.2\,\text{bar}$
+- **E.** $25\,\text{psi}$ (F) $18\,\text{bar}$
+
+
 <span class="atom-split" id="q14" data-atom="q14" data-title="Svizze 2025 — Quesito 14" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -565,6 +710,16 @@ Una candela accede si trova in una bacinella riempita d'acqua fino a metà dell'
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A lit candle is placed in a basin filled with water up to half the height of the candle. Albertina places a glass over the candle so that the glass is submerged in the water. The candle goes out. What happens to the water level inside the glass?
+
+- **A.** The water level goes down.
+- **B.** The water level does not change.
+- **C.** The water level rises or falls depending on altitude above sea level.
+- **D.** The water level rises.
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Svizze 2025 — Quesito 15" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/resistor"></span>
@@ -614,6 +769,21 @@ Osservare il circuito in figura. Attraverso quali resistenze passa la corrente p
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Observe the circuit in the figure. Through which resistors does the smallest current (lowest value in amperes) pass, if all have the same resistance $R$?
+
+- **A.** A and E.
+- **B.** B and D.
+- **C.** Only C.
+- **D.** All are traversed by the same current.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p6_f3.png]]
+*circuit with 5 resistors A, B, C, D, E*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q16" data-atom="q16" data-title="Svizze 2025 — Quesito 16" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -651,6 +821,16 @@ In quale situazione è maggiore il rischio di essere colpito e ferito da un fulm
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+In which situation is the risk of being struck and injured by lightning greater?
+
+- **A.** Climbing the stairs of the Eiffel Tower.
+- **B.** Hiding in the forest.
+- **C.** Driving a car.
+- **D.** Flying under clouds in an airplane.
+
+
 <span class="atom-split" id="q17" data-atom="q17" data-title="Svizze 2025 — Quesito 17" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -686,6 +866,16 @@ La velocità di fuga della Terra per una particella di massa $m=1\,\text{kg}$ e 
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The escape velocity of Earth for a particle of mass $m=1\,\text{kg}$ and charge $q=1\,\text{C}$ is approximately $11.18\,\text{km}\cdot\text{s}^{-1}$. What would it be if Earth had a total charge of $Q=-44.3\,\text{kC}$? The mass of Earth is $M=5.97\times10^{24}\,\text{kg}$, its radius is $R=6371\,\text{km}$, the Coulomb constant is $\frac{1}{4\pi\varepsilon_0}=8.99\times10^9\,\text{kg}\cdot\text{m}^3\cdot\text{s}^{-2}\cdot\text{C}^{-2}$, and the gravitational constant is $G=6.67\times10^{-11}\,\text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$.
+
+- **A.** $15.8\,\text{km}\cdot\text{s}^{-1}$
+- **B.** $25.4\,\text{km}\cdot\text{s}^{-1}$
+- **C.** $38.2\,\text{km}\cdot\text{s}^{-1}$
+- **D.** $55.1\,\text{km}\cdot\text{s}^{-1}$
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Svizze 2025 — Quesito 18" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/sphere,object/conducting-sphere"></span>
@@ -727,6 +917,17 @@ Considerate due sfere, ciascuna con la stessa carica totale $q$. Una sfera è un
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Consider two spheres, each with the same total charge $q$. One sphere is uniformly charged throughout its volume, while the other is a conducting sphere with charge distributed only on its surface. The spheres may have different radii. Determine which sphere produces a stronger electric field at a distance $d$ from the center of the sphere, where $d > R$ (the radius of the sphere).
+
+- **A.** The conducting sphere will produce a stronger electric field.
+- **B.** The sphere with uniform charge distribution will produce a stronger electric field.
+- **C.** The sphere with the larger radius will produce a stronger electric field.
+- **D.** The sphere with the smaller radius will produce a stronger electric field.
+- **E.** The electric field will be the same for both spheres.
+
+
 <span class="atom-split" id="q19" data-atom="q19" data-title="Svizze 2025 — Quesito 19" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -764,6 +965,16 @@ La chef Clara vuole riscaldare il cibo il più rapidamente possibile. Decidere d
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Chef Clara wants to heat her food as quickly as possible. She decides to use her induction cooktop, which generates a changing magnetic field to induce currents in metal pots. What would you advise her?
+
+- **A.** Place the pot slightly off-center on the induction cooktop.
+- **B.** Use a pot made of non-conductive material, such as glass.
+- **C.** Use a pot made of highly conductive material, such as copper.
+- **D.** Use a smaller pot that covers less of the magnetic field area on the cooktop.
+
+
 <span class="atom-split" id="q20" data-atom="q20" data-title="Svizze 2025 — Quesito 20" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -799,6 +1010,16 @@ Non è possibile rompere un bicchiere di vino con il giusto suono. Cosa succede 
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+It is known that it is possible to break a wine glass with the right sound. What happens to the sound required to break the glass if we partially fill it with water?
+
+- **A.** The frequency increases.
+- **B.** The frequency decreases.
+- **C.** Only the required intensity changes.
+- **D.** Nothing changes.
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="Svizze 2025 — Quesito 21" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/rope-string"></span>
@@ -846,6 +1067,21 @@ L'immagine mostra un'onda stazionaria su una corda tras su due pareti al tempo $
 **Objects:** [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+The image shows a standing wave on a string between two walls at time $t=0\,\text{s}$. The string vibrates at a frequency of $100\,\text{Hz}$. Which of the following images shows the state of the string at time $t=10\,\text{ms}$?
+
+- **A.** [option A]
+- **B.** [option B]
+- **C.** [option C]
+- **D.** [option D]
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p7_f4.png]]
+*initial standing wave and options A–D*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Svizze 2025 — Quesito 22" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/tank-container,object/rope-string,object/cylinder"></span>
@@ -953,6 +1189,51 @@ iii. (1.5 p) Calcolare la potenza media necessaria durante la fase di accelerazi
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2.1: Strépy-Thieu Boat Lift (16 points)**
+
+The Strépy-Thieu boat lift is a maritime infrastructure designed to connect two canals in Belgium. It consists of two independent counterbalanced caissons, each capable of accommodating a large barge weighing 1350 tonnes. One caisson has internal dimensions $112\,\text{m}\times12\,\text{m}$ and a water depth of $4\,\text{m}$. It is suspended by 112 suspension cables and 32 control cables.
+
+**Part A. Statics (5.5 points)**
+
+i. (1 pt) What is the total mass of water inside the caisson in the absence of boats?
+
+ii. (1 pt) Knowing that an empty caisson weighs $3000\,\text{t}$ and that the counterweights exactly match the total mass of a fully loaded caisson, calculate the tension $T$ in each cable (i.e., the force applied by each cable). It may be assumed that all cables have the same tension.
+
+iii. (1.5 pt) The lift is designed to transport boats up to $1350\,\text{t}$. Calculate the volume of water that leaves the caisson when a boat of this mass enters it. Explain your result. Assume that the water level remains constant.
+
+iv. (2 pt) The caisson has a door on each of the short sides, covering the entire cross-sectional area of the water. Calculate the force with which the water pushes against each door.
+
+**Part B. Dynamics (7 points)**
+
+i. (1 pt) The control cables can withstand a maximum tension of $600\,\text{kN}$. Calculate the maximum possible acceleration before the cables break.
+
+ii. (1 pt) Describe the variation $\Delta F_N$ of the normal force (of the cable on the cylinder) caused by a small change $\Delta\varphi$ in the angle traversed by the cable. Assume there is a tension $T_{\text{Carico}}$ in the cable and use appropriate simplifications.
+
+iii. (3 pt) Using the previous result, how does the change in tension for a small angle $\dfrac{dT_{\text{Carico}}}{d\varphi}(\varphi)$ depend on the tension and friction? Indicate what must be $T_{\text{Carico}}(\varphi)$ when $\varphi=0$. This is now a differential equation. It is not necessary to solve it.
+
+iv. (2 pt) Calculate the minimum number of turns required for each control cable to achieve maximum acceleration without the cable slipping. The coefficient of friction between steel and steel is $\mu=0.78$. The effect of friction on a cable wrapped around a cylinder is given by:
+$$T_{\text{Carico}} = T_{\text{Tenuta}}\cdot e^{\mu\varphi}.$$
+
+**Part C. Energy (3.5 points)**
+
+The elevator has a maximum speed of $0.2\,\text{m}\cdot\text{s}^{-1}$ and a height of $73.15\,\text{m}$. It is powered by electric motors, which can also be used as generators to slow down the speed. The efficiency of these motors is lower when used as generators:
+$$\eta_{\text{generatore}} = 0.7\,\eta_{\text{motore}}.$$
+For this part, energy dissipation due to friction may be neglected.
+
+i. (1 pt) Calculate the total energy actually required for a single ascent of the cabin.
+
+ii. (1 pt) What mass of water could we bring to boiling using this energy? The water starts at $18\,°\text{C}$ and has a specific heat capacity of $c=4.18\,\text{kJ}\cdot\text{K}^{-1}\cdot\text{kg}^{-1}$.
+
+iii. (1.5 points) Calculate the average power required during the acceleration phase. It may be assumed that the change in acceleration is instantaneous and that only half of the maximum acceleration is used to maintain a safety margin.
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p12_f5.png]]
+*schematic view of the truck bed with counterweights and cables*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2025 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/mirror"></span>
@@ -1224,3 +1505,64 @@ v. (0,5 p) Calcolare l'angolo di deviazione per i seguenti valori:
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Problem 2.3: Voltmeter (16 points)**
+
+The voltmeter is a device used to measure voltages in an electric circuit.
+
+**Part A. Voltage Calculations (4.5 points)**
+
+Consider the circuit in Fig. A.1. We apply a voltage $V_0=10\,\text{V}$ and know the values of the resistances ($R_1=10\,\text{M}\Omega$, $R_2=500\,\text{k}\Omega$, and $R_3=750\,\text{k}\Omega$).
+
+i. (2 pt) Calculate the voltages $U_1$, $U_2$, and $U_3$ across the respective resistors $R_1$, $R_2$, and $R_3$.
+
+ii. (1 pt) Now consider the circuit in Fig. A.2 with $R_1$ and $R_2$ connected in series. Calculate the voltage $U_2$ across resistor $R_2$ for the two different test configurations A and B:
+- $R_1^{(A)}=10\,\text{k}\Omega$ and $R_2^{(A)}=50\,\text{k}\Omega$
+- $R_1^{(B)}=10\,\text{M}\Omega$ and $R_2^{(B)}=50\,\text{M}\Omega$
+
+iii. (1.5 pt) What is observed regarding the calculated voltage $U_2$ in both test configurations A and B? Explain mathematically why this situation occurs.
+
+**Part B. Internal Resistance of a Voltmeter (6 points)**
+
+In this subproblem, we examine the circuit in Fig. A.2 and calculate the internal resistance of the voltmeter.
+
+i. (2 pt) Draw a diagram showing how to connect a voltmeter to the circuit in Fig. A.2 to measure the voltage across $R_2$. Explain your choice.
+
+ii. (3 pt) In an experiment, both test configurations were recreated and the voltage across $R_2$ was measured using the same voltmeter. The following values were obtained:
+- A) $\tilde{U}_2^A = 8.33\,\text{V}$
+- B) $\tilde{U}_2^B = 7.14\,\text{V}$
+
+Calculate the internal resistance $R_i$ of the voltmeter.
+
+iii. (1 point) What must be the qualitative relationship between $R_i$ and the quantity to be measured in order to obtain precise measurements?
+
+**Part C. Electroscope (5.5 points)**
+
+An analog voltmeter can be represented by an electroscope. The electroscope consists of two plates between which a field is established when a voltage is applied. A conductive pointer is attached to one of the plates and can rotate freely. It is assumed that the field $E$ between the two plates is uniform. The plates have area $A$ and carry respectively positive charge $Q$ and negative charge $-Q$. The pointer has a small positive charge $q$ and mass $m$ (both concentrated at the tip).
+
+i. (0.5 point) Explain why the pointer moves.
+
+ii. (1 point) What condition must be satisfied if the pointer no longer moves in the tangential direction? Describe it with the help of a sketch.
+
+iii. (2 points) From the equilibrium condition in the tangential direction, calculate the deflection angle $\alpha$ as a function of the forces present.
+
+iv. (1.5 points) Calculate the electric force on the tip as a function of the charges $Q$ on the plate, the charge $q$ on the tip, and the area $A$ of the plate.
+
+v. (0.5 point) Now calculate the deflection angle for the following values:
+- $m=200\,\text{g}$
+- $q=0.001\,\mu\text{C}$
+- $Q=30\,\mu\text{C}$
+- $A=1.5\,\text{dm}^2$
+- $\varepsilon=\varepsilon_0$
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p15_f8.png]]
+*circuit with V₀, R₁, R₂, R₃*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p16_f9.png]]
+*electroscope diagram with pointer and plates*
+<!--fig:end-->
+
+

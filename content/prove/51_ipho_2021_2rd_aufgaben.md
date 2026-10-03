@@ -159,6 +159,38 @@ Codice: Codice
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 2 Black hole in the Milky Way (MC problem)
+(5 pts.)
+The 2020 Nobel Prize in Physics was awarded for the discovery of a very massive, compact object at the centre of our galaxy, the Milky Way. Much evidence indicates that this object is a black hole. The figure alongside shows the position of a star observed at various dates relative to the presumed position of the centre of the Milky Way. The position is given in multiples of the Sun-
+Earth distance, that is, in astronomical units with $1\ \text{au}
+= 1{,}50 \cdot 10^{11}\ \text{m}$. On galactic length scales the star is therefore located close to the centre of the Milky
+Way. For simplicity, assume that the orbit of the star lies in the plane of the drawing and that the orbit is not influenced by relativistic effects.
+What mass can be estimated from the data for the black hole presumed at the centre of the Milky Way, expressed as a multiple of the solar mass with
+$M_\text{Sonne} = 1{,}99 \cdot 10^{30}\ \text{kg}$?
+The mass of the black hole corresponds most closely to . . .
+A . . . $1 \cdot 10^5$ solar masses.
+B . . . $2 \cdot 10^6$ solar masses.
+C . . . $4 \cdot 10^7$ solar masses.
+D . . . $8 \cdot 10^8$ solar masses.
+Offset / au
+Offset / au
+Answer section
+Calculations and explanations
+51st IPhO 2021 - 2nd Round exam
+Code: Code
+Calculations and explanations (continued)
+Correct answer:
+51st IPhO 2021 - 2nd Round exam
+Code: Code
+
+<!--fig:start-->
+![[_attachments/51_IPhO_2021_2Rd_Aufgaben/51_IPhO_2021_2Rd_Aufgaben_p3_f1.png]]
+*Orbit of the star around the galactic centre*
+<!--fig:end-->
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2021 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Fisica Moderna,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>

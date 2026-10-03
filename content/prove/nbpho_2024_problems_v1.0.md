@@ -170,95 +170,40 @@ operation period.
 <div class="qlang-split" data-lang="it"></div>
 
 2.
-REACTOR OLO FıssıON (7 punti)
+REATTORE A FISSIONE DI OKLO (7 punti)
 —
-Topi Löytäinen, Jaan Kalda. Basato sulla base delle
-di $^{235}$U e $^{238}$U,
-come pure le abbondanza di isotopi
-La produzione di reazioni nucleari,
-hanno stabilito che le
-I reattori nucleari operati a Oklo circa $T_0 =
-1,8 volte 10^9 anni fa in Gabon, in Africa centrale.
-Per l'esistenza di tali reattori, due condizioni
-deve essere soddisfatta: a) la presenza di depositi con
-concentrazione sufficientemente elevata di uranio;
-sufficientemente elevata abbondanza di 235U in nat-
-uranio urale. I minerali ricchi di uranio sono stati creati in
-- il carbonio di uranio disperso è stato dis-
-solvente in acqua ricca di ossigeno e trasportata
-e poi le piscine sotterranee. Considerabili
-La concentrazione di ossigeno è apparsa nell'atmosfera
-La sfera solo circa 2,5 miliardi di anni fa, quindi
-la prima condizione non è stata soddisfatta prima di
-- Sì, è così. In seguito imparerete che l'abbondanza di
-La velocità di $^{235}$U diminuisce relativamente rapidamente nel tempo,
-la seconda condizione non è più soddisfatta
-- dopo il funzionamento del reattore di Oklo.
-Il funzionamento di Oklos è stato
-l'attore possibile era un afflusso stabile di terra
-acqua che ha mantenuto i depositi di uranio sufficienti
-- Cioccavo. L'acqua è il cosiddetto moderatore
-per il reattore a fissione: rallenta la
-- la fissione di un'energia a base di un'energia di
-- la possibilità di un'infezione di
-• la fissione di un nucleo di un'altra $^{235}$U
-- Leus.
-In quanto segue, oltre a $T_0$,
-può utilizzare i seguenti valori numerici.
+Topi Löytäinen, Jaan Kalda. In base al rapporto degli isotopi dell'uranio $^{235}$U e $^{238}$U, così come alle abbondanze degli isotopi prodotti dai reattori nucleari, i ricercatori hanno stabilito che reattori nucleari naturali auto-sostenentisi operarono a Oklo circa $T_0 =
+1.8 \times 10^9$ anni fa in Gabon, Africa centrale.
+Perché tali reattori esistessero, due condizioni devono essere soddisfatte: (a) presenza di depositi con concentrazione di uranio sufficientemente alta; (b)
+abbondanza sufficientemente alta di 235U nell'uranio naturale. Ricchi minerali di uranio furono creati dalle inondazioni: l'uranio disperso fu disciolto in acqua ricca di ossigeno e trasportato da essa in bacini sotterranei. Una concentrazione significativa di ossigeno apparve nell'atmosfera solo circa 2,5 miliardi di anni fa, quindi la prima condizione non fu soddisfatta prima di allora. Imparerai qui sotto che l'abbondanza di $^{235}$U diminuisce relativamente rapidamente nel tempo, quindi la seconda condizione cessò di essere soddisfatta poco dopo il funzionamento del reattore di Oklo.
+Ciò che rese possibile il funzionamento del reattore di Oklo fu un afflusso stabile di acqua sotterranea che mantenne i depositi di uranio sufficientemente bagnati. L'acqua è il cosiddetto moderatore per il reattore a fissione: rallenta i neutroni emergenti dalle reazioni di fissione, aumentando drasticamente le probabilità che un neutrone inneschi la fissione di un successivo nucleo di $^{235}$U.
+Nel seguito, oltre a $T_0$, puoi usare i seguenti valori numerici.
 Energia rilasciata dalla fissione di un singolo
-$^{235}$U nucleo: $E_0 = 200$ MeV.
-Metadelli di vita $^{235}$U: $\tau_5 \approx 7 \times 10^8$ anni.
-Metadelli di vita $^{238}$U: $\tau_8 \approx 4.5 \times 10^9$ anni.
+Nucleo di $^{235}$U: $E_0 = 200$ MeV.
+Emivita di $^{235}$U: $\tau_5 \approx 7 \times 10^8$ anni.
+Emivita di $^{238}$U: $\tau_8 \approx 4.5 \times 10^9$ anni.
 Calore latente di evaporazione dell'acqua: $L =
-2260 kg.
+2260\ \text{kJ kg}^{-1}$.
 Calore specifico dell'acqua $c = 4200\ \text{J kg}^{-1}\text{K}^{-1}$.
-Abundanza di
-$^{235}$U in natural uranium
-oggi: $R = 0.72\%$. Noi definiamo abbondanza
-come numero di atomi dell'isotopo, né-
-Malized al numero di atomi di un dato
-elemento.
-Abondanza media di $^{235}$U nell'uranio
-oggi: $R_O = 0.62\%$.
-La quantità totale di uranio nella miniera di Oklo
-oggi: $M = 5 \times 10^8$ kg.
-La durata del periodo in cui
-Reattore Oklo operato: $T \approx 1 \times 10^5$ anno.
-Carga elementare: $e = 1.6 \times 10^{-19}$ C.
+Abbondanza di
+$^{235}$U nell'uranio naturale oggi: $R = 0.72\%$. Definiamo l'abbondanza come il numero di atomi dell'isotopo, normalizzato al numero di atomi dell'elemento dato.
+Abbondanza media di $^{235}$U nell'uranio del minerale di uranio di Oklo oggi: $R_O = 0.62\%$.
+La quantità totale di uranio nella miniera di Oklo oggi: $M = 5 \times 10^8$ kg.
+La durata del periodo di tempo durante il quale
+il reattore di Oklo ha funzionato: $T \approx 1 \times 10^5$ anno.
+Carica elementare: $e = 1.6 \times 10^{-19}$ C.
 Unità di massa atomica: $u = 1.66 \times 10^{-27}$ kg.
-Avogadro
-Numero:
+Numero di Avogadro:
 $N_A
 =
 6.02 \times 10^{23}\ \text{mol}^{-1}$.
-Si noti che: a) l'abbondanza di altri
-di uranio, oltre a $^{235}$U e $^{238}$U è
-b) $^{235}$U non è tra le
-prodotti di decomposizione di $^{238}$U; e c) la fissione di
-Nelli diversi dalla fissione di $^{235}$U (es.
-La disgregazione del plutonio può essere
-- Lezione.
-I) (1,5 punti) Qual era l'abbondanza di
-$^{235}$U in natural uranium when the Oklo’s re‐
-- L'attore ha operato?
-(ii) (2 punti) Qual è stata la potenza media di
-Il reattore di Oklo?
-iii) (1,5 punti) Esprimi qualitativamente il motivo per cui è stato
-Reattore Oklo che opera in regime stabile
-E non è esplosa. Variabilità del flusso idrico
-Il reattore è stato ucciso nel corso del tempo.
-quando il tasso di afflusso d'acqua è aumentato di due
-- Le volte?
-iv) (2 punti) Estimare la massa totale dell'acqua
-che è fluito nel reattore Oklo durante il suo
-periodo di funzionamento.
-
-**Topic:** [[Nuclear & Particle Physics]], [[Thermodynamics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
-
+Nota che: (a) l'abbondanza degli altri isotopi dell'uranio oltre a $^{235}$U e $^{238}$U è trascurabilmente piccola; (b) $^{235}$U non è tra i prodotti di decadimento di $^{238}$U; e (c) i canali di fissione diversi dalla fissione di $^{235}$U (ad esempio, la sintesi e la fissione del plutonio) possono essere trascurati.
+i) (1,5 punti) Qual era l'abbondanza di
+$^{235}$U nell'uranio naturale quando il reattore di Oklo funzionava?
+ii) (2 punti) Qual era la potenza media del reattore di Oklo?
+iii) (1,5 punti) Spiegate qualitativamente perché il
+reattore di Oklo funzionava in un regime stabile e non esplose. La portata d'acqua in ingresso variava nel tempo; cosa accadeva al reattore quando la portata d'acqua in ingresso aumentava di due volte?
+iv) (2 punti) Stimate la massa totale di acqua che è fluita nel reattore di Oklo durante il suo periodo di funzionamento.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2024 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/ball,object/droplet"></span>

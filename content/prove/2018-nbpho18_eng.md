@@ -335,46 +335,29 @@ $^1$Cristopher Moore, Phys. Rev. Lett. 70, 3675 (1993)
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. FESNEL PRISM (12 punti)
- Eero
-Uustalu e Jaan Kalda. Apparecchiature: una foglia di
-Fresnel prisma, lamiera con magenta e viola
-strisce (vedi foglio separato), un pezzo di cartone
-carta (può essere utilizzata come schermo), regolare, nastro di misura, supporto, laser verde $(\lambda_0 = 532\ \text{nm})$. NB!
-Evita di guardare la luce laser diretta o riflessa,
-- Ti danneggia gli occhi! L'intensità massima
-Perché la luce dispersa dalle strisce magenta è
-$\lambda_m = 630\ \text{nm}$, e dalle strisce di cianeno  $\lambda_c =
-495 dollari.
-Il prisma Fresnel è un foglio trasparente con una
-di una serie periodica di strisce; sezione trasversale di una
-Il foglio è mostrato nella figura. Indice di rifrazione
-di materiale di cui è fatto il foglio
+4. PRISMA DI FRESNEL (12 punti)
+— Eero
+Uustalu e Jaan Kalda. Attrezzatura: un foglio di
+prisma di Fresnel, un foglio con strisce viola e magenta (vedi foglio separato), un pezzo di cartoncino (utilizzabile come schermo), righello, metro a nastro, supporto, laser verde $(\lambda_0 = 532\ \text{nm})$. NB!
+Evitare di guardare direttamente o indirettamente la luce laser riflessa, può danneggiare gli occhi! Il massimo di intensità per la luce diffusa dalle strisce magenta è
+$\lambda_m = 630\ \text{nm}$, e da quelle ciano — $\lambda_c =
+495\ \text{nm}$.
+Il prisma di Fresnel è un foglio trasparente con una serie periodica di strisce; la sezione trasversale di tale foglio è mostrata in figura. L'indice di rifrazione del materiale di cui è fatto il foglio
 $n = 1.47$.
-i) (4 punti) Determina il tono $d$ del Fresnel
-prisma (per la definizione del tono, vedere figura).
-ii) (4 punti) Determina l'angolo $\alpha$ del prisma.
-iii) (4 punti) Supponendo che nell'intervallo della luce visibile, l'indice di rifrazione $n = n(\lambda)$ della luce visibile sia
-Il materiale prisma di Fresnel è una funzione lineare di
-a lunghezza d'onda $\lambda$, determinare la dispersione cromatica $\dfrac{dn}{d\lambda}$.
-$^1$Cristopher Moore, Phys. Il reverendo. Lett. 70, 3675 (1993)
-
+i) (4 punti) Determinare il passo $d$ del prisma di Fresnel (vedi la figura per la definizione del passo).
+ii) (4 punti) Determinare l'angolo $\alpha$ del prisma.
+iii) (4 punti) Assumendo che nell'intervallo della luce visibile, l'indice di rifrazione $n = n(\lambda)$ del materiale del
+prisma di Fresnel sia una funzione lineare della lunghezza d'onda $\lambda$, determinare la dispersione cromatica $\dfrac{dn}{d\lambda}$.
+$^1$Cristopher Moore, Phys. Rev. Lett. 70, 3675 (1993)
 
 <!--fig:start-->
 ![[_attachments/2018 NBPhO18_eng/2018 NBPhO18_eng_p1_f4.png]]
-*sezione prisma di Fresnel passo d *
+*sezione prisma di Fresnel passo d*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2018 NBPhO18_eng/2018 NBPhO18_eng_p5_f8.png]]
-*risce prisma di Fresnel ciano e magenta*
+*strisce prisma di Fresnel ciano e magenta*
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ncMY4Duo6hG0kKtcBE8IPTZnwt4xB3p8/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2018 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/ball"></span>

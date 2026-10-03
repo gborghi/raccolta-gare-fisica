@@ -175,77 +175,70 @@ $$\tau = 29{,}9\ \text{s}$$
 P1 Solution
 
 a)
-Since the satellite describes a circular radius $a$ orbit around the Earth, it is verified that
+Since the satellite describes a circular orbit of radius $a$ around Earth, it holds that
 
 $$G\frac{M_T m}{a^2} = m\omega^2 a \qquad (1)$$
 
-Where $M_T$ is the mass of the Earth, $m$ the mass of the satellite, $G$ the universal gravitational constant and $\omega = 2\pi/T$, being $T$ the revolution period of the satellite. Since the acceleration of gravity on the Earth's surface is $g = GM_T/R_T^2$, where $R_T$ is the Earth's radius, the expression (1) can be written
+where $M_T$ is the mass of Earth, $m$ the satellite's mass, $G$ the universal gravitational constant, and $\omega = 2\pi/T$, with $T$ being the satellite's orbital period. Given that the acceleration due to gravity at Earth’s surface is $g = GM_T/R_T^2$, where $R_T$ is Earth's radius, expression (1) can be rewritten as
 
 $$g\frac{R_T^2}{a^2} = \left(\frac{2\pi}{T}\right)^2 a \quad \Rightarrow \quad T = \frac{2\pi}{R_T}\left(\frac{a^3}{g}\right)^{1/2} \qquad (2)$$
 
 b)
-Figure 5 is an extension of part of Figure 4.
+From Figure 5, which is an enlargement of a portion of Figure 4, it follows that
 
 $$\left.\begin{aligned} AP\,\text{sen}\,\varphi &= a\,\text{sen}\,\theta \\ AP\cos\varphi &= a\cos\theta - R_T \end{aligned}\right\} \qquad (3)$$
 
-Dividing member by member in (3) gives the desired ratio
+Dividing both sides of (3) term by term yields the desired relation:
 
 $$\text{tg}\,\theta = \frac{a\,\text{sen}\,\varphi}{a\cos\varphi - R_T} \qquad (4)$$
 
 c)
-The distance between Earth and any of the constellations in the zodiac is much greater than the radius of the Earth ($6{,}37\times10^3\ \text{km}$). For example, the star Aldebaran, representative of Taurus, is 65 light-years away, which equals $6{,}1\times10^{14}\ \text{km}$. Consequently, the directions of the views to Taurus from A and from the center of the Earth can be considered parallel. Furthermore, as the statement indicates, the zodiac houses are regularly spaced each $30^\circ$. In short, it is necessary to
+The distance from Earth to any of the zodiac constellations is vastly greater than Earth’s radius ($6{,}37\times10^3\ \text{km}$). For example, the star Aldebaran, representative of Taurus, is located 65 light-years away, equivalent to $6{,}1\times10^{14}\ \text{km}$. Therefore, the directions of sightlines from point A and from Earth’s center toward Taurus may be considered parallel. Moreover, as stated in the problem, zodiacal houses are regularly spaced every $30^\circ$. In conclusion,
 
 $$\theta = 30^\circ$$
 
 d)
-It follows from (4) that
+From (4), it follows that
 
 $$a = R_T\frac{\text{tg}\,\theta}{\text{tg}\,\theta\cos\varphi - \text{sen}\,\varphi}$$
 
-With $\theta = 30^\circ$, $\varphi = 1{,}94^\circ$ and $R_T = 6{,}37\times10^6\ \text{m}$, it is
+With $\theta = 30^\circ$, $\varphi = 1{,}94^\circ$ and $R_T = 6{,}37\times10^6\ \text{m}$, one obtains
 
 $$a = 6{,}77\times10^6\ \text{m}$$
 
 e)
-Since the orbital angular velocity of the satellite is constant, the time $\tau$ that will pass from the time that observer A sees the satellite pass by P until it does so by Q, is given by
+Since the satellite’s orbital angular velocity is constant, the time $\tau$ elapsed from when observer A sees the satellite pass point P until it passes point Q is given by
 
 $$\frac{\varphi(\text{rad})}{\tau} = \frac{2\pi}{T} \quad \Rightarrow \quad \tau = \frac{\varphi(\text{rad})}{2\pi}T = \frac{\varphi(^\circ)}{360}T$$
 
-The numerical value of the period $T$ is obtained from (2)
+The numerical value of the period $T$ is obtained from (2):
 
 $$T = 5{,}55\times10^3\ \text{s}$$
 
-Total of the
+In total,
 
 $$\tau = 29{,}9\ \text{s}$$
 
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p2_f1.png]]
-The infant's courtyard with zodiac signs
+*Photo of the Infanta's Patio with zodiac symbols*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p2_f2.png]]
-The following table shows the number of stars in the sky:
+*Table of astrological symbols: planets and signs*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p2_f3.png]]
-The following table shows the number of rows of rows:
+*Zodiac wheel with constellations and ecliptic*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p3_f4.png]]
-The following is a list of the countries of the European Union and of the countries of Central and Eastern Europe.
+*Diagram of Earth, satellite, orbit, and constellation Aries*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p4_f5.png]]
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+*Vector geometry: observer, satellite, and angle theta*
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/13cO3lb-S15uXTgqpgJFN2XnQETc_y6Sl/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2014 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/droplet"></span>
@@ -403,75 +396,69 @@ Foto annotata misure goccia A B H distanze
 
 P2 Solution
 
-First, the characteristic distances of the drop drop drop process can be determined using the rule in Figure 1: the length of the drop trace during exposure, $\Delta z$, the distance travelled by the drop to the moment of the camera shooting, $z_0$, and the height of the cave, $h$. These distances are shown in Figure 2 and their measurements, expressed in arbitrary units (U.S.), will be the data of the problem.
-The results of the measures are:
+First, using the rule shown in Figure 1, the characteristic distances of the droplet's fall process can be determined: the length of the droplet's trace during exposure, $\Delta z$, the distance traveled by the droplet until the moment the camera is triggered (mountaineer's reaction time), $z_0$, and the height of the cave, $h$. These distances are indicated in Figure 2 and their measured values, expressed in arbitrary units (u.a.), will serve as the problem's data.
+
+The results of the measurements are:
 
 $$\Delta z = 0{,}6\ \text{u.a.} \qquad z_0 = 6{,}3\ \text{u.a.} \qquad h = 12{,}8\ \text{u.a.}$$
 
-The previous lengths, expressed in metres, are respectively:
+Expressed in meters, these lengths are respectively:
 
 $$\Delta Z = f\,\Delta z \qquad Z_0 = f\,z_0 \qquad H = f\,h$$
 
-Where $f$ is the conversion factor of arbitrary units to meters, in principle unknown.
+where $f$ is the conversion factor from arbitrary units to meters, initially unknown.
 
 a)
-Despite the resistance of the air, the drop falls from rest with acceleration $g$. If $t_0$ is the time elapsed from the drop to the camera firing (mountaineer reaction time), the drop velocity at the time of shooting is
+Neglecting air resistance, the droplet falls from rest with acceleration $g$. If $t_0$ is the time elapsed from when the droplet detaches until the camera is triggered (mountaineer's reaction time), then the velocity of the droplet at the moment of triggering is
 
 $$v_0 = g t_0 \qquad (1)$$
 
-The space travelled by the drop at this time is
+The distance traveled by the droplet during this time is
 
 $$Z_0 = \frac{1}{2}g t_0^2 \qquad (2)$$
 
-On the other hand, since $\Delta Z << Z_0$ and the exposure time is very short, we can consider that the droplet moves at approximately constant speed $v_0$ during exposure, so that the
+On the other hand, since $\Delta Z << Z_0$ and the exposure time is very brief, we may assume that during exposure the droplet moves with approximately constant velocity $v_0$, so that
 
 $$\Delta Z = v_0\,\Delta t \qquad (3)$$
 
-The relationships (2) and (3) can be expressed in terms of data and conversion factor
+Equations (2) and (3) can be expressed in terms of the data and the conversion factor:
 
 $$f\,z_0 = \frac{1}{2}g t_0^2 \qquad (4)$$
 
 $$f\,\Delta z = v_0\,\Delta t \qquad (5)$$
 
-By dividing member by member (4) and (5) and taking into account (1)
+Dividing equation (4) by equation (5) term by term and taking into account (1), we obtain
 
 $$t_0 = \frac{2 z_0}{\Delta z}\,\Delta t$$
 
-This expression is independent of $f$. The above numerical data and $\Delta t = (1/45)\ \text{s}$ are obtained
+This expression is independent of $f$. Using the previous numerical data and $\Delta t = (1/45)\ \text{s}$, one obtains
 
 $$t_0 = 0{,}47\ \text{s}$$
 
 b)
-Substituting $t_0$ directly in (2) calculates the distance $Z_0$
+Substituting $t_0$ directly into (2), the distance $Z_0$ is calculated as
 
 $$Z_0 = 1{,}1\ \text{m}$$
 
 c)
-The conversion factor $f$ is required to calculate the height of the cave entrance, $H$. His value is
+To compute the height of the cave entrance, $H$, the conversion factor $f$ is required. Its value is
 
 $$f = \frac{Z_0}{z_0} \quad \Rightarrow \quad f = 0{,}17\ \text{m/u.a.}$$
 
-So the height is
+Therefore, the height is
 
 $$H = f\,h \quad \Rightarrow \quad H = 2{,}2\ \text{m}$$
 
-Note: the measurements on the photograph are very low accuracy. In particular, the measurement of $h$ is very inaccurate because it is not very clear where the cave floor is. It also has a very low relative accuracy measured at $\Delta z$, being only a little longer than the resolution of the rule. For all these reasons, the numerical results are merely estimates of the real values.
+Note: The measurements taken from the photograph have very low precision. In particular, the measurement of $h$ is highly inaccurate because it is unclear where the cave floor lies. Moreover, the measurement of $\Delta z$ has very low relative precision because it is only slightly larger than the ruler's resolution. For all these reasons, the numerical results are merely rough estimates of the actual values.
 
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p5_f6.png]]
-Photo of the cave with free droplet
+*Photo of cave with droplet in free fall*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2014 primera_prueba_2014/2014 primera_prueba_2014_p6_f7.png]]
-The Commission has decided to extend the scope of the proposal to the Member States.
+*Annotated photo showing measurements of droplet A, B, H, and distances*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/13cO3lb-S15uXTgqpgJFN2XnQETc_y6Sl/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2014 — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/conducting-sphere"></span>

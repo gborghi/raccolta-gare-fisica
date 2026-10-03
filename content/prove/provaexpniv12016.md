@@ -336,14 +336,7 @@ Metti nel $R_{var}$ il valore di resistenza $300\,\Omega$ e montati un circuito 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Coloque no $R_{var}$ o valor de resistência de $300\,\Omega$ e monte um circuito onde $R_{var}$ esteja em série com um resistor fixo. It represents the circuit in a figure. (five points)
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1eoDFGkrN4DuwIa0Pa8lXX4rzttrltVG2/view)
-
+Set the resistance value of $300\,\Omega$ into $R_{var}$ and assemble a circuit where $R_{var}$ is in series with a fixed resistor. Draw the circuit in a figure. (5 points)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Brasil 2016 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>
@@ -447,14 +440,7 @@ Metti nel $R_{var}$ il valore di resistenza $300\,\Omega$ (nota il valore ottenu
 
 <div class="qlang-split" data-lang="en"></div>
 
-Coloque no $R_{var}$ o valor de resistência de $300\,\Omega$ (anotar o valor obtido) e monte um circuito onde $R_{var}$ esteja em paralelo com um resistor fixo. It represents the circuit in a figure. (five points)
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1eoDFGkrN4DuwIa0Pa8lXX4rzttrltVG2/view)
-
+Set the resistance value of $300\,\Omega$ into $R_{var}$ (record the obtained value) and assemble a circuit in which $R_{var}$ is connected in parallel with a fixed resistor. Draw the circuit in a diagram. (5 points)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Brasil 2016 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/Brasil,cluster/Meccanica,object/resistor"></span>

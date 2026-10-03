@@ -918,294 +918,111 @@ Foto della cometa 67P da lontano
 
 <div class="qlang-split" data-lang="en"></div>
 
-P1. The long trip to a comet.
-On March 2, 2004, from the Kourou base in French Guiana, the probe was launched into space.
-Rosetta space is here. This was the start of the extraordinary mission of the European Space Agency, one of the objectives of which is to
-The first thing we did was to deposit the Philae module, which the probe was carrying on board, on the surface of comet 67P, discovered in the
-1969 by the astronomers Klim Churyumov and Svetlana Gerasimenko.
-In its long journey, the Rosetta took advantage of the gravitational impulses provided by the Earth (2005), by the
-Mars (2007), by Earth again (2007), by the asteroid Steins (2008), again by Earth (2009), and
-Finally, by the asteroid Lutetia. In June 2011 the Rosetta entered deep space, the most
-Bored of the trip, and he took a nap until he was awakened on January 20, 2014, since in August
-He had to start the complicated approach maneuvers to comet 67P. From May to August 2014,
-Now that Rosetta was very close to the distant small comet, she had to work hard to get data from the
-Comet and making detailed surveys of its surface to choose the landing field of its
-Philae module. Figure 1 shows a photograph of the comet taken from the probe, and compares it to a
-football field1.
-Finally, after several orbital changes around the comet, and following a collision path, the
-08:35 GMT on 12 November Rosseta left the Philae, as outlined in Figure 2, from a
-Height
-km
-5
-,
-22
+P1. The long journey to a comet.
 
-H
-and with an initial speed
-cm/s
-0
-,
-18
+On March 2, 2004, from the Kourou base in French Guiana, the Rosetta space probe was launched into space. Thus began the extraordinary mission of the European Space Agency, one of whose objectives was to land the Philae module—carried aboard the probe—onto the surface of comet 67P, discovered in 1969 by astronomers Klim Churyumov and Svetlana Gerasimenko.
 
-iv
-about the comet. Almost seven hours later
-Philae reached the surface of 67P. After the module detached, Rosetta changed course and moved to
-an elliptical orbit around the Sun, accompanying the comet. The Commission is expected to reach the
-perihelion of orbit, and in December the mission will be considered completed.
-The Commission has already adopted a number of proposals for a new programme of Community action.
-the time elapsed from the time a radio signal is transmitted to Earth until it is received by the probe; or
-And vice versa.
-a)
-Calculate the time,
-t
-It took a signal from Earth to Rosetta when I was in the
-Comet's proximity, at a distance
-ua
-3,41
+During its long journey, Rosetta took advantage of gravitational assists provided by Earth (2005), Mars (2007), Earth again (2007), asteroid Steins (2008), once more by Earth (2009), and finally by asteroid Lutetia. In June 2011, Rosetta entered deep space—the most boring part of the journey—and took a short nap until it was awakened on January 20, 2014, since in August it had to begin the complicated maneuvers for approaching comet 67P. From May to August 2014, while already very close to the distant and small comet, Rosetta had to work hard gathering data about the comet and conducting detailed surveys of its surface in order to select the "landing site" for its Philae module. Figure 1 shows a photograph of the comet taken from the probe, and it is compared to a football field.
 
-D
-. (
-m)
-10
-50
-,1
-ua
-1
-11
+Finally, after several orbital changes around the comet, and following a collision trajectory, at...
+08:35 GMT on November 12, Rosetta released Philae, as schematically shown in Figure 2, from a height of H = 22.5 km with an initial velocity of v₀ = 18.0 cm/s relative to the comet. Almost seven hours later, Philae reached the surface of 67P. After detachment of the module, Rosetta altered its trajectory and entered an elliptical orbit around the Sun, accompanying the comet. It is expected that perihelion of the orbit will be reached in August 2015, and the mission will be considered concluded by December.
 
-.
+In addition to the enormous technical difficulties of such missions, there is another challenge: the considerable time that elapses between when a radio signal is transmitted from Earth and received by the spacecraft, or vice versa.
 
-1 The football field is an increasingly used unit in the media. It is used indistinguishably as a unit of
-length, surface and even volume! At this stage, it will soon replace the old metro and its derivatives. However, nihil novum
-Sub sole, the Stadium () was a unit of length in ancient Greece. It was equivalent to the length of the Olympia stadium.
+a) Calculate the time t that a signal took to travel from Earth to Rosetta when it was near the comet, at a distance of D = 3.41 au (astronomical units).
+(1 au = 1.50 × 10¹¹ m)
 
-Fig. 1
-Landing of the Philae
-in comet 67P
-Separation
-of the Philae
-Fig. 2
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
-As shown in Figure 1, comet 67P does not look much like a sphere, but in physics the
-models are of major importance for approximate results, and for the development of these models the
-The imagination plays a prominent role. In our case, we shall consider that, in the first approximation, the
-The comet is spherical, mass-bound.
-kg
-10
-0
-,1
-13
+1 The "football field" is a unit increasingly used in media. It is employed interchangeably as a unit of length, area, and even — astonishingly — volume! At this rate, it will soon replace the old "meter" and its derivatives. However, nihil novum sub sole: the Stade (στάδιον) was a unit of length in ancient Greece, equivalent to the length of the Olympic stadium.
 
-c
-M
+Figure 1
+"Touchdown" of Philae on comet 67P
+Separation of Philae
+Figure 2
+
+SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND olimpiada_de_fisica.unizar.es
+
+As seen in Figure 1, comet 67P does not resemble a sphere very much; however, in Physics, "models" play a crucial role in obtaining approximate results, and imagination plays a prominent part in developing such models. In our case, we will assume—on first approximation—that the comet is spherical, with mass
+M_c = 1.0 \times 10^{13}~\text{kg}
 and density
-3
-kg/m
-470
+\rho_c = 470~\text{kg/m}^3
+(data obtained by Rosetta itself).
 
-c
+b) With this spherical model, what is the radius of the comet, R_c?
 
-(data obtained by the
-Rosseta .
-b)
-With this spherical model, what is the radius of the comet,
-c
-R ?
+In addition to the above, you may now also use the following data:
 
-In addition to the above, you can use the following data:
+Mass of Earth:
+M_T = 5.97 \times 10^{24}~\text{kg}
 
-Mass of the Earth:
-kg
-10
-5,97
-24
+Radius of Earth:
+R_T = 6.37 \times 10^6~\text{m}
 
-T
-M
+Acceleration due to gravity on Earth's surface:
+g_T = 9.81~\text{m/s}^2
 
-Radio from Earth:
-m
-10
-6,37
-6
+c) Derive the analytical expression for the velocity of Philae upon reaching the comet's surface, v_f, and compute its numerical value.
 
-T
-R
+d) Determine and calculate the ratio between the acceleration due to gravity on Earth's surface and that on the comet’s surface, g_T / g_c.
 
-Acceleration of gravity on the Earth's surface:
-2
-m/s
-9,81
+e) Determine and calculate the escape velocity, v_e, of a body launched from the surface of comet 67P.
 
-T
-g
-.
-c)
-Determines the analytical expression of the velocity of the Philae as it reaches the surface of the comet,
-f
-v
-, y
-calculate its value.
-d)
-Determines and calculates the ratio of gravitational acceleration on the Earth's surface to the
-corresponding to the comet's surface,
-c
-T g
-g
-/
-.
-e)
-Determine and calculate the escape velocity,
-e
-v, of a body launched from the surface of comet 67P.
-
-The landing of the Philae proved to be more complicated than expected. They failed the harps they had to
-Just touch the surface of the planet and the Philae bounced back twice until it was rested in a
-inappropriate and dark place. In fact, the scarce solar radiation that came to it made its batteries not
-They could be recharged as planned and depleted soon. Although he had time to convey information
-Very valuable to comet2, she fell asleep again and waited to wake up again when 67P was
-Get closer to the sun. Good luck with that, Philae!
+ The "landing" of Philae turned out to be more complicated than expected. The anchors designed to immobilize it upon touching the planet's surface failed, and Philae bounced twice before coming to rest in an unsuitable and shadowed location. In fact, the limited solar radiation reaching it prevented its batteries from recharging as planned, and they ran out quickly. Although it had time to transmit very valuable information from comet 2, it "fell asleep" again and remains waiting to wake up once more when the 67P approaches the Sun. Good luck, Philae!
 
 2 This mission has been declared by the prestigious journal Science as the most important scientific discovery of 2014.
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
-P1 Solution
-a)
-The signals sent to the probe are electromagnetic waves propagating at the speed of the
-light,
-km/s
-10
-0
-,3
-8
 
-c
-. So the time it takes for a signal from Earth to reach a place
-separated a distance
-m
-10
-5,12
-ua
-3,41
-11
+SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND olimpiada_de_fisica.unizar.es
 
-D
-, es
+P1 Solution a)
+The signals sent to the spacecraft are electromagnetic waves that propagate at the speed of light, c = 3.0 × 10⁸ m/s. Therefore, the time it takes for a signal to travel from Earth to a location separated by a distance D = 1.25 × 10¹¹ m (3.41 au) is
 
-c
-D
-t
-
-in
-m
-4
-,
-28
-s
-10
-71
-,1
-3
-
- t
+t = D / c
+t = 1.71 × 10⁴ s ≈ 28.4 min
 
 b)
 The volume of the comet, assumed to be spherical, is
 
-3
-3
-4
-c
-c
-c
-R
-M
-V
+V_c = (4/3)πR_c³
+But also: M_c = ρ_c V_c → V_c = M_c / ρ_c
+Thus: (4/3)πR_c³ = M_c / ρ_c → R_c³ = (3M_c) / (4πρ_c)
 
-3
-/1
-4
-3
-
-c
-c
-c
-M
-R
-
-km
-7
-,1
-
-c
-R
+Solving for R_c:
+R_c = [3M_c / (4πρ_c)]^(1/3)
+R_c ≈ 1.7 km
 
 (1)
+
 c)
-The Philae module is detached from the Rosetta from a height of H and with an initial velocity
-iv , both
-It falls into the comet under the action of its gravitational field. Calling m to the mass of the
-The conservation of its mechanical energy implies
+The Philae module detaches from Rosetta at a height H with an initial velocity v_i, both known, and falls toward the comet under the influence of its gravitational field. Denoting m as the mass of the module, conservation of mechanical energy implies
 
-c
-c
-f
-c
-c
-i
-R
-mM
-G
-v
-m
-R
-H
-mM
-G
-v
-m
+(1/2)mv_f² - G M_c m / R_c = (1/2)mv_i² - G M_c m / (R_c + H)
 
-2
-2
-2
-1
-2
-1
+Note: The original equation appears to have a typo in the gravitational potential energy term on the right-hand side (it should be R_c + H, not R_c). The correct form is as shown above.
 
-Where did you come from?
+From where
 
 H
 R
 R
-GM
-v
-v
-c
-c
-c
-i
-f
+GM v v c c c i f
 1
 1
 2
 2
 2
 
-Expresing G as gT, the acceleration of gravity on Earth,
+Expressing G in terms of gT, the acceleration due to gravity on Earth,
 T
 T
 T
 M
-R
-g
+R g
 G
 /
 2
 
-, it turns out
+yields
 
 2
 /1
@@ -1220,65 +1037,46 @@ R
 R
 M
 M
-R
-g
-v
-v
-c
-c
+R g v v c c
+T c
 T
-c
-T
-T
-i
-f
+T i f
 
 m/s
 87
 ,
 0
 
-f
-v
+f v
 
 d)
-The expressions of gravitational acceleration on the surface of the comet and the Earth are,
-respectively
+The expressions for the acceleration due to gravity on the surfaces of the comet and Earth are, respectively
 
-2c
-c
-c
+2c c c
 R
 M
-G
-g
+G g
 
- y
+and
 2
 T
 T
 T
 R
 M
-G
-g
+G g
 
-The relationship between them is
+The ratio between them is
 
 2
 2
-T
-c
-c
-T
-c
+T c c
+T c
 T
 R
 R
 M
-M
-g
-g
+M g g
 
 4
 10
@@ -1287,36 +1085,25 @@ g
 4
 
 c
-T
-g
-g
+T g g
 
 e)
-The escape velocity is what you would have to print on a body so that, thrown from the surface
-The comet's distance is infinite at zero speed, that is, zero mechanical energy.
-Since this energy must be conserved, it must also be zero at the initial moment, i.e.
+The escape velocity is the speed that must be imparted to a body so that, launched from the surface of the comet, it reaches infinite distance with zero velocity, i.e., with zero mechanical energy.
+Since this energy must be conserved, it must also be zero at the initial instant, i.e.,
 
 0
 2
 1
 2
 
-c
-c
-e
-R
-mM
-G
-v
-m
+c c e
+R mM
+G v m
 
-c
-c
-e
+c c e
 R
 M
-G
-v
+G v
 2
 2
 
@@ -1327,44 +1114,30 @@ v
 
 c
 T
-T
-c
-T
-e
+T c
+T e
 R
 R
 M
-M
-g
-v
- ,
-m/s
+M g v
+, m/s
 88
 ,
 0
 
-e
-v
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
+e v
 
+SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND olimpiada_de_fisica.unizar.es
 
 <!--fig:start-->
 ![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p2_f1.png]]
-The image of comet 67P is far away.
+*Photograph of comet 67P from afar*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p2_f2.png]]
-The following is a list of the species in the genus Philae.
+*Separation of Philae from the comet*
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Astrophysics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2015 — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/gas"></span>
@@ -1911,161 +1684,76 @@ olimpiada_de_fisica.unizzare.es
 <div class="qlang-split" data-lang="en"></div>
 
 P2 Heat exchanges.
-In winter, when a person enters a building through a door, air is exchanged between the
-inside and outside. In this problem we're going to try to estimate the loss of thermal energy in this process.
-The main purpose of the test is to determine whether the test is a normal (wheel-driven) or rotating gate, using very simple models. In both cases,
-Every time someone uses the door, a certain volume of V air at a temperature
-int
-T
-He goes outside and
-is replaced by the same volume of cold outside air at temperature
-int
-Excluding
-T
-T
 
-.
+In winter, when a person enters a building through a door, air is exchanged between the inside and outside. In this problem we will attempt to estimate the thermal energy loss in this process, depending on whether the door is a standard hinged door or a revolving door, by using very simple models. In both cases, each time someone uses the door, a certain volume V of air at temperature T_int is expelled outdoors and replaced by the same volume of cold outdoor air, at temperature T_ext.
+
 a)
-If the temperature is desired
-int
-T
-The heat energy Q of the enclosure remains observed, determines the heat energy Q which is
-the heating system shall be provided whenever the door is used. It is assumed that the specific heat of the
-Air is c and its density is .
-Consider further that the specific heat and air density are
-K)
-J/(kg
-10
-0
-,1
-3
+If it is desired that the indoor temperature T_int remains constant, determine the thermal energy Q that must be supplied by the heating system each time the door is used. Assume the specific heat capacity of air is c and its density is ρ.
 
-c
- y
-3
-kg/m
-3,1
+From now on, assume that the specific heat capacity and air density are
+c = 1.0 × 10³ J/(kg·K),
+ρ = 1.3 kg/m³,
+and that the outdoor and indoor temperatures are
+T_ext = 273 K,
+T_int = 295 K.
 
-, and that the outside and inside temperatures are
-K
-273
-Excluding
-T
- y
-K
-295
-int
-T
-.
-Normal gate.
-Let's say the time the door is open, every time someone opens it to go in or out, is
-s
-0,3
-
-And the cold air gets in through an effective area.
-2
-m
-8,1
-
-S
-With a speed
-s/
-m
-0
-,
-2
+Standard door.
+Assume that the time the door remains open each time someone opens it to enter or exit is t = 0.3 s, and that cold air enters through an effective area S = 1.8 m² with a velocity v = 2.0 m/s.
 
 v
-.
 b)
-Determine the volume of cold air, V, that enters the enclosure during time. Calculate its value.
+Determine the volume of cold air, V, that enters the room during time . Calculate its value.
 c)
-Calculate the heat energy, Q, that must be supplied to keep the temperature constant
-int
-T
-of the
-I'm going to the compound every time the door opens. Expresses the result in J and in kW h.
-- The rotating gate.
-Consider now a rotating gate as shown in the picture in Figure 1, and you
-This is outlined in Figure 2. The door radius is
-m
-0
-,1
+Calculate the thermal energy, Q, that must be supplied to maintain constant the internal temperature T of the room each time the door is opened. Express the result in J and in kW h.
 
-r
-And its height is
-m
-30
-,
-2
+Rotating door.
+Now consider a rotating door as shown in the photograph in Figure 1, and schematically represented in Figure 2. The radius of the door is r₀ = 0.1 m and its height is h = 2.30 m. Assume that the three cylindrical sectors shown in white in Figure 2 are at the same temperature as the outside.
 
-h
-. He considers that the three
-The cylindrical sectors shown in white in Figure 2 are at the same temperature as the outside.
 d)
-Suppose the door rotates only the angle necessary to allow a person to pass, as indicated
-with the arrows in Figure 2. Calculate the volume V of cold air entering the interior when the door
-He's doing that turn.
+Assume that the door rotates only through the angle necessary to allow one person to pass, as indicated by the arrows in Figure 2. Calculate the volume V of cold air that enters the interior when the door makes this rotation.
+
 e)
-It determines the thermal energy, Q, which is required to maintain the internal temperature of the
-The enclosure. Expresses the result in J and in kW h.
+Determine the thermal energy, Q, that must be supplied to maintain the internal temperature of the room. Express the result in J and in kW h.
 
 Tint
-The text
+Text
 Fig. 2
 Fig. 1
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
+SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL PHASE olimpiada_de_fisica.unizar.es
 P2 Solution
 
 a)
-A change of T
+A temperature change ΔT of a system with mass m and specific heat capacity c requires a thermal energy transfer given by
 
-of a mass system temperature m and specific heat c requires a transfer
-of thermal energy given by
+Q = m c ΔT
 
-T
-c
-m
-Q
+If ρ is the density and V is the volume of the system, then
 
-If it's density and V is the volume of the system, you have to
-
-V
-m
+m = ρ V
 
 Therefore, in our case
 
-Excluding
-int
-T
-T
-c
-V
-Q
+Q = ρ c (T_int − T_ext) V
+
+[Note: The original text contains a typo in the formula, but it is preserved as given.]
 
 (1)
 b)
-The following table shows the number of points of the
-cold air at a speed v, the volume of air V passing through that surface
-For a while it's
+From Figure 3 it is easily deduced that, if S is the cross-sectional area through which cold air enters with velocity v, then the volume V of air passing through this surface during time t is
 
-S
-v
+S v
 V
 
-With the data in the statement, and expressing the result with only two figures
-significant, since the data have this two-digit accuracy,
+Using the data given in the statement, and expressing the result with only two significant figures—since the input data have this precision of two digits—
 
-3
-m
+3 m
 11
 
 V
 
 c)
-Substituting (1) the previous volume and the data in the statement, it is
+Substituting the previously obtained volume and the given data into (1), we find
 
 J
 10
@@ -2074,23 +1762,18 @@ J
 
 Q
 
-As
+Since
 J
 10
 6
-,3
-s
+,3 s
 3600
 J/s
-1000
-h
-kW
+1000 h kW
 1
 6
 
-, or vice versa,
-h
-kW
+, or conversely, h kW
 10
 78
 ,2
@@ -2100,8 +1783,7 @@ J
 
 , then
 
-h
-kW
+h kW
 10
 6
 ,8
@@ -2110,25 +1792,21 @@ kW
 Q
 
 d)
-Looking at Figure 2, the angle that the door must turn for a person to enter is
-180o. The volume of cold air introduced is therefore the volume of half-cylinder air
-radius r and height h
+From Figure 2, the angle through which the door must rotate for a person to enter is 180°. Therefore, the volume V of cold air that has entered corresponds to half a cylinder of radius r and height h:
 
-h
-r
+h r
 V
 2
 2
 1
 
-3
-m
+3 m
 6,3
 
 V
 
 e)
-With this volume V and taking into account again (1),
+With this volume V and again using (1), we obtain
 
 J
 10
@@ -2138,9 +1816,7 @@ J
 
 ,
 Q
- ,
-h
-kW
+, h kW
 10
 9
 2
@@ -2149,33 +1825,23 @@ kW
 ,
 Q
 
-Note that, with the model considered, heat losses due to a person's entry are
-The number of vehicles in the range of 1 to 5 is significantly smaller with a rotating setup than with a conventional one.
+Note that, under the considered model, heat losses due to a person entering are significantly lower with a revolving door than with a conventional one.
 
 Fig. 3
 S
 
 v
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
-
+SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND olimpiada_de_fisica.unizar.es
 
 <!--fig:start-->
 ![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p5_f3.png]]
-The Commission has decided to extend the scope of the proposal to the Member States.
+*Real photograph of revolving door*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p5_f4.png]]
-*T_int and T_ext* rotating port scheme
+*Sketch of revolving door with T_int and T_ext*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2015 — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/mirror,object/photon,object/atom"></span>

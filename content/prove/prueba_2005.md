@@ -82,63 +82,29 @@ consume en los circuitos es de \$0,20 por kW-hora.
 
 Problema 1: Risparmiamo energia o denaro?
 
-Una resistenza variabile ha numerose applicazioni nei circuiti semplici; per
-esempio, per controllare l'illuminazione prodotta da lampadine a incandescenza in
-certi apparecchi o ambienti.
-In questo problema ti proponiamo due circuiti semplici che possono essere usati per controllare
-la luminosità di un'unica lampada, come mostrato nelle figure (a) e (b).
+Una resistenza variabile ha numerose applicazioni in circuiti semplici; per esempio, per controllare l'illuminazione prodotta da lampadine a incandescenza in certi apparecchi o ambienti.
+In questo problema vi proponiamo due circuiti semplici che possono essere usati per controllare la luminosità di un'unica lampada, come mostrato nelle figure (a) e (b).
 
-Indichiamo con $R_a$ e $R_b$ i valori delle resistenze tra C e D nei circuiti (a) e
-(b), rispettivamente; la resistenza tra C e A è $R$. La differenza di potenziale massima
-che si può applicare alla lampada B, affinché raggiunga la sua luminosità massima, è $V_B$. Cioè,
-se la differenza di potenziale applicata alla lampada è maggiore di $V_B$, la lampada si
-brucia. Nel nostro caso la differenza di potenziale $V$ della sorgente è maggiore di $V_B$.
-Supponendo che in entrambi i circuiti la lampada B sia accesa con la stessa luminosità (non
-necessariamente la massima) e che la sua resistenza in queste condizioni sia $r$,
+Indichiamo con $R_a$ e $R_b$ i valori delle resistenze tra C e D nei circuiti (a) e (b), rispettivamente; la resistenza tra C e A è $R$. La differenza di potenziale massima che si può applicare alla lampada B, affinché raggiunga la sua luminosità massima, è $V_B$. Cioè, se la differenza di potenziale applicata alla lampada è maggiore di $V_B$, la lampada si brucia. Nel nostro caso la differenza di potenziale $V$ della sorgente è maggiore di $V_B$.
+Supponendo che in entrambi i circuiti la lampada B sia accesa con la stessa luminosità (non necessariamente la massima) e che la sua resistenza in tali condizioni sia $r$,
 
 Si chiede:
 
-1. Trovare $R_a$ in funzione di $R_b$, $R$ e $r$ nelle condizioni dei circuiti sopra
-enunciate.
+1. Trovare $R_a$ in termini di $R_b$, $R$ e $r$ nelle condizioni dei circuiti, sopra enunciate.
 2. Dimostrare che $R_b$ è minore di $R_a$.
-3. Dimostrare che, per la stessa luminosità di illuminazione (la stessa potenza
-sviluppata) della lampada B in entrambi i circuiti, vale
-$(P_b / P_a) = [(R_a + r) / R_T] > 1$ ; $R_T = R_b + r (R - R_b) / (r + R - R_b)$ ,
-dove $P_a$ e $P_b$ sono i valori della potenza elettrica fornita dalla sorgente
-di differenza di potenziale $V$ nei circuiti (a) e (b) rispettivamente.
-4. È noto che di solito le lampade si bruciano all'accensione, poiché il loro
-filamento, essendo a temperatura ambiente, ha una resistenza sensibilmente
-minore rispetto alle condizioni di lavoro, quando sono accese. Per questo,
-sia (a) che (b) possono essere pensati come circuiti di protezione della lampada B
-al momento dell'accensione.
-Per quali valori di $R_a$ e $R_b$ la protezione menzionata è massima, in ciascun
-circuito?
-5. Sia la potenza di lavoro per la luminosità massima della lampada B pari a 2 W; la sua
-resistenza interna, in queste condizioni, è $r_m = 9\ \Omega$. Il valore di $R = 20\ \Omega$ e $V =
-6$ V. La lámpara tiene una vida útil $T = 1000$ ore, se viene accesa a luminosità
-massima ogni volta. Si sa che se la lampada viene accesa inizialmente, ogni volta,
-con una luminosità $b_i = x_i b_m$, dove $0 \leq x_i \leq 1$, e poi le si fa raggiungere la luminosità
-massima $b_m$ gradualmente, in un tempo molto breve che ci permette di trascurare
-l'energia consumata dalle lampade in tale processo, la vita utile della lampada
-aumenta a
+3. Dimostrare che per la stessa luminosità di illuminazione (la stessa potenza sviluppata) della lampada B in entrambi i circuiti, vale che
+$(P_b / P_a) = [(R_a + r) / R_T] > 1$ ; $R_T = R_b + r (R - R_b) / (r + R - R_b)$ , dove $P_a$ e $P_b$ sono i valori della potenza elettrica fornita dalla sorgente di differenza di potenziale $V$ nei circuiti (a) e (b) rispettivamente.
+4. È noto che di solito le lampade si bruciano all'accensione, poiché il loro filamento a temperatura ambiente ha una resistenza sensibilmente minore che nelle condizioni di lavoro, quando sono accese. Per questo, sia (a) sia (b) possono essere pensati come circuiti protettivi della lampada B al momento dell'accensione.
+Per quali valori di $R_a$ e $R_b$ la protezione menzionata è massima, in ciascun circuito?
+5. Sia la potenza di lavoro per la massima luminosità della lampada B pari a 2 W; la sua resistenza interna, in quelle condizioni, è $r_m = 9\ \Omega$. Il valore di $R = 20\ \Omega$ e $V =
+6$ V. La lampada ha una vita utile di $T = 1000$ ore, se la si accende a massima luminosità ogni volta. Si sa che se la lampada viene accesa inizialmente, ogni volta, con una luminosità $b_i = x_i b_m$, dove $0 \leq x_i \leq 1$, e poi le si fa raggiungere la massima luminosità $b_m$, gradualmente, in un tempo molto breve che ci permette di trascurare l'energia consumata dalle lampade in quel processo, la vita utile della lampada aumenta a
 $T_i = T + (1 - x_i) T$ .
 
 Nel caso del circuito (a) la luminosità minima possibile di B corrisponde a $b = 0{,}5\ b_m$.
 
 Con queste informazioni,
 
-determinare quale dei due circuiti risulta più economico, dopo 6000
-ore di uso della lampada, dato che se questa si brucia bisogna sostituirla
-immediatamente. Il prezzo della lampada è di \$2 e il costo dell'energia consumata
-nei circuiti è di \$0,20 per kW-ora.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)
-
-[[prueba_2005__Q01]]
+determinare quale dei due circuiti risulta più economico, dopo 6000 ore di uso della lampada, poiché se questa si brucia bisogna sostituirla immediatamente. Il prezzo della lampada è di \$2 e il costo dell'energia, che viene consumata nei circuiti, è di \$0,20 per kW-ora.
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -178,7 +144,7 @@ For which values of $R_a$ and $R_b$ is the mentioned protection maximum, in each
 circuit?
 5. Let the working power for maximum brightness of lamp B be equal to 2 W; its
 internal resistance, under those conditions, is $r_m = 9\ \Omega$. The value of $R = 20\ \Omega$ and $V =
-6$ V. La lámpara tiene una vida útil $T = 1000$ hours, if it is switched on at maximum
+6$ V. The lamp has a useful life $T = 1000$ hours, if it is switched on at maximum
 brightness every time. It is known that if the lamp is initially switched on, each time,
 with a brightness $b_i = x_i b_m$, where $0 \leq x_i \leq 1$, and then made to reach the maximum
 brightness $b_m$ gradually, in a very short time that allows us to neglect

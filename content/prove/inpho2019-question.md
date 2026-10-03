@@ -259,7 +259,7 @@ Qualitatively sketch $T(x)$ versus $x$.
 
 3. Una catena di lunghezza $l$ e densità lineare $\lambda$ pende da un supporto orizzontale con entrambe le estremità A e
 B fissate a un supporto orizzontale come mostrato. Le due estremità fisse sono vicine tra loro. All'istante $t
-= 0$ the end A is released. All vertical distances ($x$x = 0$x = 0$).
+= 0$ l'estremità A viene rilasciata. Tutte le distanze verticali ($x$) sono misurate rispetto al supporto orizzontale, assumendo positiva la direzione verso il basso (A e B sono inizialmente a $x = 0$).
 
 <!--fig:start-->
 **Quesito 3**
@@ -551,7 +551,7 @@ $r_\text{max} =$
 
 (c) [1]
 Siano $M = 10.0$ kg, $w = 0.10$ m, $V_0 = 1.00\times10^4$ V e un banco di condensatori garantisce che $C
-= 1.00$ F. If $r = r_\text{max}$, calculate the value of $v_\text{final}$.
+= 1.00$ F. Se $r = r_\text{max}$, calcola il valore di $v_\text{final}$.
 $v_\text{final}(r = r_\text{max}) =$
 
 **Topic:** [[Electromagnetic Induction]]

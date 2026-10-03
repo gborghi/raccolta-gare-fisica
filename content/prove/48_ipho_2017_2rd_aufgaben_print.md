@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2017 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/star,object/gas,object/electron"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -216,110 +216,11 @@ I prodotti di cui all'allegato I sono stati modificati per la prima volta.
 **Objects:** [[Star (object)|Star]], [[Gas (object)|Gas]], [[Electron (object)|Electron]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 1 White Dwarfs
-The following points shall be added:
-1.1 The discovery of Sirius B
-The star Sirius A, located about 8.6 light-years from Earth,
-has, with a mass of about $4{,}2\cdot10^{30}\ \text{kg}$, a luminosity of about 25 times
-as great as the Sun's. The star therefore emits about 25 times the radiant power of the Sun, whose radiant power is $3{,}8\cdot10^{26}\ \text{W}$. Because of its relatively small
-distance from the solar system, Sirius A, with an apparent magnitude of $-1,46$ mag, is the brightest star in the night sky
-And therefore has long been the subject of astronomical investigations. Around the middle of the 19th century, a companion
-of this star what inferred from
-Irregularities in the motion of Sirius.
-In the following decades it was confirmed that Sirius
-is a binary star system. The second star, Sirius B, has about
-half the mass of Sirius A and a surface temperature of approximately $2{,}5\cdot10^{4}\ \text{K}$. This caused a great stir, since
-The star, with an apparent magnitude of 8.44 mag, shines much more
-Weakly than one would have expected
-based on these data. Sirius B therefore had to be very small and very dense.
-Figure 1: Sirius A and Sirius B
-The first of these is the Hubble Space Telescope (NASA, ESA, H. Bond
-(STScI), and M. The Commission has also adopted a proposal for a regulation on the of
-The Commission has not yet adopted a proposal. CC BY 3.0).
-The English astronomer Arthur Stanley Eddington summarized this as follows:
-We learn about the stars by receiving and interpreting the messages that their light brings.
-to us. The message of the Companion of Sirius when it was decoded ran:
-material 3,000 times denser than anything you've ever come across; a ton of my material
-would be a little nugget that you could put in a matchbox. What answer can one make
-to such a message? The answer most of us made in 1914 was shut up. Don 't talk
-It 's nonsense .
-(Eddington, A.S. (1927). Stars and Atoms. The Commission has also adopted a number of amendments to the Directive.
-1.a) Using the information given in the text, estimate the luminosity of the companion star Sirius B
-and its radius. Note that, due to the higher
-surface temperature, the spectrum of Sirius B is shifted relative to that of Sirius A and, as a consequence, the luminosity determined from the
-Apparent magnitude is too low by about a factor of 10. The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-1.b) Using this, calculate roughly how much a cubic centimeter of matter of Sirius B weighs on average and
-How large is the gravitational acceleration at its surface approximately. (c) the number of persons who are not members of the
-The results of the above problems show that Sirius B must be a very special star.
-Indeed, it belongs to a class of stars called white dwarfs. White
-dwarfs are very compact remnants of stars in which the fusion processes have already
-I'm not going to. But what prevents these stars from collapsing further into themselves? This question
-you are to address in the following problems.
-1The apparent magnitude m of an object is a measure of how bright it appears to an observer on Earth. It
-is defined via the radiant power $S$ arriving on Earth per unit area from the object within a certain wavelength range. For the apparent magnitude one has $m = -2{,}5\,\log_{10}\dfrac{S}{S_0}$, where $S_0$ is a fixed reference value for the
-radiant power in the considered wavelength range. The apparent magnitude is given as a number and
-carries the suffix mag for "magnitude".
-
-1.2 Phase-space consideration and degenerate Fermi gas
-In classical mechanics, the state of a point particle is described by its position $\vec{r}$ and its
-velocity $\vec{v}$. Alternatively, instead of the velocity, the momentum $\vec{p}$ of the particle can also be used. The position and momentum of the particle can be considered as coordinates in the so-called
-phase space. Every possible state of the particle corresponds to a position in phase space. Since there are three dimensions each for position and momentum, the phase space in
-This case has six dimensions.
-The Heisenberg uncertainty relation of quantum mechanics now states that the position and momentum of a
-Particle cannot be determined simultaneously with arbitrary precision. For the uncertainties $\Delta r_x$ and $\Delta p_x$ in
-an arbitrary spatial direction $x$, Heisenberg's formulation gives
-$$\Delta r_x \cdot \Delta p_x \geq h \,.$$
-Here $h \approx 6{,}626\cdot10^{-34}$ J s denotes the Planck constant. Thus a particle state corresponds less to a point in phase space than to a volume of size $h^3$. For so-called fermions2, which include electrons as well as protons and neutrons, the Pauli principle additionally
-holds, according to which two particles of the same kind cannot exist simultaneously in the same state. Therefore the phase-space volumes just described do not overlap for these particles. Due to the two possible spin orientations of fermions, however, each phase-space volume element can accommodate two particles.
-Consider a gas of one kind of fermionic particles of mass m. Let the gas be distributed over a spherical volume of radius R and have a particle density n. Assume that the number of
-particles is very large. In the ground state, i.e. At the zero point of temperature, the fermions occupy a
-The current energy level is the lowest possible energy and therefore also have the lowest possible momentum. However, due to the above considerations, the particles cannot all have a very small momentum and
-So it's a low kinetic energy.
-1.c) Using the above considerations, determine the maximum momentum magnitude $p_F$ of a particle
-In the Fermi gas at the zero point of temperature. Take into account only the described quantum-mechanical effects and neglect all other interactions. Show that
-the corresponding kinetic energy $E_F$, the so-called Fermi energy, of a particle is given
-by (3 pts.)
-$$E_F = \frac{h^2}{8m}\left(\frac{3}{\pi}\right)^{2/3} n^{2/3} \,.$$
-If the thermal energy of the particles is significantly smaller than the Fermi energy, the latter also determines the
-The behavior of a Fermi gas above the zero point of temperature. The gas can then be treated approximately as if it were at the zero point of temperature. In this case one speaks of
-A degenerate Fermi gas.
-1. (d) Determine the total kinetic energy of the degenerate Fermi gas as a function of the particle mass, the radius and the particle density. (Page 3 of this report)
-If the radius of the gas volume is reduced, its kinetic energy increases according to the above consideration.
-Work must therefore be done against a pressure in order to compress the gas volume. This pressure is called degeneration pressure.
-2The complete description of a Fermi gas actually takes place within the framework of quantum statistics. The presented
-The semiclassical treatment, however, reproduces the dependencies that arise correctly.
-
-1. (e) Determine the outward-directed force of the non-relativistic Fermi gas resulting from the degeneration pressure. Compare the magnitude of this force for an electron gas and a proton gas. Use this to justify why the degeneration pressure in a star is brought about almost exclusively
-by the electrons. (Page 3 of this report)
-1.3 Stellar evolution
-But now back to the stars: In a star like our Sun, the radiation pressure produced by the fusion processes
-In the interior counters the contraction of the star due to gravity.
-1.f) Derive an expression for the potential energy that a star of radius $R$, constant
-density and mass $M$ possesses due to its gravitational field. (Page 3 of this report)
-When the fusion processes cease, the star cools down and contracts. Once
-The star has cooled sufficiently, the radiation pressure no longer plays a dominant role and the
-Fermion gases in the star become fully degenerate. Assume that the extinguished star consists entirely of
-Helium, i.e.
-
-
-<!--fig:start-->
-![[_attachments/48_IPhO_2017_2Rd_Aufgaben_print/48_IPhO_2017_2Rd_Aufgaben_print_p3_f1.png]]
-*Sirius A and B from the Hubble telescope*
-<!--fig:end-->
-
-**Topic:** [[Astrophysics]], [[Modern-Quantum Physics]], [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Star (object)|Star]], [[Gas (object)|Gas]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2017 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/resistor,object/capacitor,object/switch,object/battery"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -564,132 +465,11 @@ per la potenza elettrica che prende. (11 pag.)
 **Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 Diode physics
-The following points shall be added:
-(Semiconductor) diodes are electrical components that find a wide variety of uses in everyday life. They
-are characterized by the fact that they conduct current very well in one direction, the so-called forward direction, above a
-certain applied voltage, and act as very good
-Insulators in the other direction, the reverse direction. Because of this they can be used, for example, for rectifying current.
-Light-emitting diodes  LEDs for short  can convert electric current directly into light. Because of their high
-efficiency and robustness, they have become increasingly popular as light sources in recent years. The
-band gap of the semiconductor material used determines the wavelength and thus the color of the
-Light emitted by an LED.
-The following problems deal with some aspects of light-emitting diodes.
-2.1 LED in a circuit
-The adjacent Figure 2 shows the current
-voltage characteristic of an LED in the forward direction.
-2. (a) From the characteristic, roughly estimate the
-dominant wavelength of the light emitted by the LED
-and state
-What color the light has. (Page 3 of this report)
-The LED is installed in the circuit shown in Figure 3. In addition to the LED, the circuit contains a switch, a voltage source supplying a voltage $U = 4{,}0\ \text{V}$, a resistor with resistance
-$R = 100\ \Omega$ and a capacitor of capacitance
-$C = 3{,}0\ \mu\text{F}$. The switch is initially open and
-The capacitor is uncharged.
-2. (b) Using the characteristic, determine the
-magnitude of the current flowing through the LED immediately after closing the
-switch, and the voltage dropping across the LED. (five points)
-The nonlinear shape of the diode characteristic makes a more detailed analysis of the circuit's behavior difficult. Approximately, however, one can
-Capture the electrical behavior of the LED by an equivalent circuit in which a voltage source and an ohmic resistor are connected in series with an ideal diode that is
-fully insulating in the reverse direction and perfectly conducting in the forward direction.
-0,5
-1,0
-1,5
-2,0
-2,5
-3,0
-10
-20
-30
-40
-$U_D$ / V
-$I_D$ / mA
-Figure 2: Behaviour of the diode current $I_D$ as a function of the diode voltage $U_D$ in the forward direction.
-Switch
-LEDs
-$R$
-$C$
-+
-$-$
-$U$
-Figure 3: Circuit with LED.
-2.c) Determine the parameters of such an equivalent circuit for the LED used. Using this, calculate
-the total energy converted into the LED during the charging of the capacitor.
-(Page 66)
-
-2.2 Design of an LED
-A LED of typical design consists of, as sketched alongside,
-of a small light-emitting surface, the semiconductor crystal, which is
-Encapsulated in a transparent plastic housing. This
-protects the diode and shapes the spatial emission characteristic of the
-I'm going to get a LED.
-In many cases one wants to use the LED as a directional emitter that radiates as much light as possible in one direction. For this,
-a characteristic plastic housing is used, consisting of a
-cylindrical part of length $l$ and a hemispherical cap
-of radius $r$. The radius $r$ is significantly larger than
-The dimension of the semiconductor crystal. Good focusing results
-When all rays exiting near the symmetry axis of the cylinder
-Leave the housing in parallel.
-2. (d) Determine how long the cylinder length $l$ must be chosen, as a function of the radius $r$, for this, if the refractive index of the housing material is $n = 1{,}6$. (five points)
-$r$
-$l$
-Figure 4: Sketch of light rays in the LED housing.
-2.3 Efficiency of an LED
-The high efficiency of LEDs is a major reason for their increasing use as light sources.
-Compared with incandescent lamps, which emit a large part of the power they take in as thermal radiation,
-LEDs can be constructed so that they emit almost exclusively radiation in the visible
-Spectral range. Under certain conditions, LEDs can even be operated with an
-electrical efficiency greater than 100%. They then emit more radiant power
-than the electrical power they take in. This is possible if the LED takes in heat from the surroundings
-And it converts it into radiation. Even though the precise mechanism of this process
-is complicated, some thermodynamic considerations can be made without precise knowledge of the process.
-The LED can be considered as a heat pump that takes in heat from the surroundings
-and emits heat in the form of radiation.
-The radiation spectrum of an incandescent lamp at a temperature $T$, for temperatures far above the room temperature $T_0$, can be described by Planck's radiation law, which is typical of a thermal radiator. Accordingly, the power $I(\nu)\,\Delta\nu$ radiated per unit area by the radiator in a narrow frequency interval $[\nu, \nu + \Delta\nu]$ with $\Delta\nu \ll \nu$
-is given by
-$$I(\nu)\,\Delta\nu = \frac{2\pi h}{c^2}\,\frac{\nu^3}{e^{h\nu/k_B T}-1}\,\Delta\nu \,.$$
-Here $h$ denotes the Planck constant, $c$ the vacuum speed of light and $k_B$ the
-Boltzmann is constant. The total radiant power emitted per unit area is obtained by integrating the above expression over all possible frequencies.
-In some cases, the spectrum of an LED can also be described approximately in a similar
-I'm not going to. However, to account for the spectral distribution of the LED, only contributions above a certain frequency $\nu_0$ are taken into account in the integration, so that the
-radiant power $P$ of a homogeneously luminous surface of size $A$ comes out as
-$$P = A \int_{\nu_0}^{\infty} I(\nu)\,d\nu$$
-Here, however, $T$ denotes not the temperature of the LED but the effective temperature
-of the emitted light.
-Consider an LED with a surface of $A = 1{,}0\ \text{mm}^2$ and a radiant power of
-$P = 1{,}0\ \mu\text{W}$. Let the light emitted by the LED have wavelengths no greater than 700 nm
-and let the ambient temperature be $20\ ^\circ\text{C}$.
-2. (e) Estimate the theoretically maximum achievable electrical efficiency of the LED. The
-Electrical efficiency is defined here as the ratio of the radiant power emitted
-by the LED to the electrical power it takes in. (Page 11)
-
-
-<!--fig:start-->
-![[_attachments/48_IPhO_2017_2Rd_Aufgaben_print/48_IPhO_2017_2Rd_Aufgaben_print_p6_f2.png]]
-The following information shall be provided:
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/48_IPhO_2017_2Rd_Aufgaben_print/48_IPhO_2017_2Rd_Aufgaben_print_p6_f3.png]]
-*Circuit with LED, resistor and capacitor*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/48_IPhO_2017_2Rd_Aufgaben_print/48_IPhO_2017_2Rd_Aufgaben_print_p7_f4.png]]
-The LED body shall be designed to be capable of operating in a continuous manner.
-<!--fig:end-->
-
-**Topic:** [[Circuits]], [[Geometric Optics]], [[Thermodynamics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Snell's Law (metodo)|Snell's Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2017 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/pendulum,object/rod,object/magnet"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -851,89 +631,6 @@ Le materie, il magnete è permanentemente attratto o respinto.
 Questo superpone l'effetto da indagare.
 5L'analisi dei video è probabilmente più facile se li scarichi e li guardi con un media player
 come il lettore multimediale VLC o il lettore QuickTime.
-
-**Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Electromagnetic Induction]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1TQ9PPqVfz8v5lv9u2RxQIPHKPl7BVbuT/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 Experimental problem - Oscillating chopsticks
-The following points shall be added:
-The chopsticks widely used in Asia generally have a square or circular cross-section that tapers from the upper to the lower end. With these chopsticks one can
-Do more than just pick up food, though. In this problem you are to carry out some physics experiments with
-I'm not going to eat chopsticks.
-In addition to chopsticks3 you may use the following materials for experimenting: stopwatch,
-Ruler, thread, adhesive tape and, in addition, any other typical household items.
-General notes on the experimental problem
-• Describe and document your procedure in sufficient detail that every step is easy to follow. In particular, sketch your experimental setups.
-• Perform all your experiments so that the results are as accurate as possible.
-• In addition, estimate the errors of all results sensibly.
-3.1 A chopstick as a pendulum
-Hang a chopstick, as sketched alongside in Fig. 5,
-from two slightly taut threads so that it hangs as vertically as possible.
-It is advisable to fasten the chopstick with a tight loop
-Or a knot so it doesn't slip. If you
-deflect the chopstick a little from the vertical rest position,
-It performs oscillations about the suspension point.
-3. (a) Determine the oscillation period of the chopstick
-as a function of the distance d between the thicker end of the
-Chopstick and the suspension point. Produce a graph
-showing this relationship. (Page 86)
-3.b) Using your measurement results, determine the gravitational acceleration g on Earth. The Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Other, of a kind used for the manufacture of foodstuffs
-Thread
-d
-Figure 5: Sketch of the suspension of the chopstick.
-3.c) Using the graph, determine the distance of the centre of gravity of the chopstick from its
-thicker end. Various approaches are conceivable for this. Describe at least
-Two different evaluation methods and compare the results obtained with them with respect to their accuracy. (Page 77)
-The center of gravity can of course be determined much more simply in another way.
-3.d) Determine the centre of gravity position thus by balancing the chopstick on a
-narrow edge and compare the result with the previous ones. (1 pt.)
-3The necessary purchase of chopsticks is perhaps also a good opportunity to cook Asian food or visit
-Asian restaurant and thereby train one's skills in eating with chopsticks.
-
-3.2 Striking the chopstick
-Place a chopstick on a smooth (table) surface. Strike it,
-for example with another chopstick, as sketched in Fig. 6, lightly from
-The side. The strike should be perpendicular to the main axis of the chopstick.
-3.e) Observe the motion of the chopstick immediately after the strike. Experimentally determine the distance d between the strike point and the thicker end of the chopstick at which the thinner end of the chopstick
-does not move immediately after the strike. Give the ratio of the found value of d to the total length of the chopstick. (Page 3 of this report)
-3.f) Calculate how large this ratio is theoretically for a very thin rod. (Page 3 of this report)
-Other, of a kind used for the manufacture of foodstuffs
-d
-Figure 6: Striking
-The chopstick.
-3.3 Damped oscillation
-When a magnet is moved over a conducting surface, it induces eddy currents in it that lead to
-a decelerating force. The force depends in particular on the electrical properties
-of the surface. This effect allows the investigation of the resistivity of metals4.
-Consider a magnet attached to the end of a chopstick suspended as in the first part of the problem.
-If the chopstick with the magnet is allowed to swing over a suitable piece of metal,
-The oscillation is decelerated due to the eddy currents. A damped
-Oscillation takes place. For a weakly damped oscillation, the period is not significantly changed compared to the undamped oscillation. However, the amplitude $A$ of the oscillation
-decreases with time $t$. It follows an exponential law of the form
-$$A(t) = A_0\, e^{-\frac{\kappa t}{\rho}} \,.$$
-Here $A_0$ denotes the initial amplitude at time $t = 0$, $\kappa$ a factor that reflects the geometry of the
-arrangement, and $\rho$ the resistivity of the metal.
-3.g) Theoretically justify why the amplitude in the weakly damped oscillation follows the
-The first is the exponential relationship. You may assume small deflections
-And assume that the amplitude changes only slightly with each oscillation. (Page 3 of this report)
-At www.ipho.info you will find, under the heading "tasks", a link to three videos in which a corresponding pendulum experiment is shown. In one of the videos the chopstick with the magnet swings largely freely. In the other two videos there is a metal plate of aluminum or copper
-Under the magnet. The two plates have the same dimensions and are at the
-The same position. The resistivity of copper is about $\rho_{Cu} = 1{,}7\cdot10^{-8}\ \Omega\text{m}$.
-3.h) Use the videos5 to justify that the pendulum moves over the
-Metal plates are weakly damped oscillations. (Page 3 of this report)
-3. (i) Using the videos, determine a value for the resistivity of aluminium
-and compare it with the literature value. (Page 86)
-4This works only for dia- or paramagnetic materials, however. If the metal possesses a permanent magnetic moment, as e.g. in ferromagnetic
-The magnet is permanently attracted or repelled.
-That would overlay the effect to be investigated.
-5The analysis of the videos is probably easier if you download them and watch them with a media player
-such as the VLC media player or the QuickTime player.
 
 **Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Electromagnetic Induction]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]

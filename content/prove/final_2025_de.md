@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Svizze 2025 — Quesito 1" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Onde e Oscillazioni,object/disk,object/resistor,object/wire,object/photon"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="de"></div>
 
 
 

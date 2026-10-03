@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO 2023 — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/lens,object/screen"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -60,32 +60,11 @@ Potete semplificare assumendo che solo i raggi parazziali sono coinvolti nel pro
 **Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following points are added:
-Somehow Shifted
-A thin converging lens forms a sharp image of an object $140{,}0\ \text{cm}$ away on a screen positioned at a distance of $16{,}8\ \text{cm}$ behind the
-I'm not going to be able to see it.
-1. (a) Determine the focal length of the lens.
-Between the lens and the screen, as sketched in the figure, a $3{,}0\ \text{cm}$
-thick, plane parallel glass plate with refractive index $n = 1{,}50$ is now placed. To produce
-a sharp image on the screen again, the screen is shifted by a distance $\Delta b$.
-1. (b) Explain what effect the glass plate has on a light ray that does not strike it perpendicularly. Use this to justify whether, to produce a sharp
-image, the screen must be moved closer to the lens or further away from it.
-1.c) Determine the magnitude $\Delta b$ of the necessary displacement of the screen.
-You may simplify by assuming that only paraxial rays are involved in the imaging process.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2023 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -300,117 +279,11 @@ Problemi e altri materiali per download
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 2 (10 points)
-The Tohoku earthquake
-Japan is located in a geologically very active region of the Earth, so earthquakes occur frequently there. On 11 March 2011 at around 14:46 local time
-The strongest of a whole series of severe earthquakes off the Japanese coast occurred. The
-hypocentre of this quake lay about $24\ \text{km}$ below sea level.
-On the map alongside, four seismic stations in Japan are marked. The table below
-The first signals from the measuring stations are recorded at the time of the first signals.
-It's an earthquake.
-Two different times are given, which belong to two different types of waves
-They're caused by an earthquake and spread through the Earth's interior. The so-called
-P- or primary waves are longitudinal waves. The S- or secondary waves, on the other hand, are transverse waves.
-The P- and S-waves propagate at different speeds through the Earth's interior. As a simplification it can be assumed that these speeds are constant and amount, for the
-P-waves, to $v_P = 5{,}5\ \text{km s}^{-1}$ and, for the S-waves, to $v_S = 3{,}3\ \text{km s}^{-1}$.
-Station
-Position of the
-Time of signal registration
-Abbreviation of the name
-Name of the person
-The following is the list of the following:
-Latitude (E)
-P-wave
-S-wave
-Other
-Other articles of heading No.
-$39^\circ$ 34,60′
-$141^\circ$ 49,18′
-14:46:46,71
-14:47:9,56
-Other articles
-Other articles of heading No.
-$39^\circ$ 23,95′
-$140^\circ$ 37,82′
-14:46:54,18
-14:47:23,53
-N.KKWH
-Karakuwa
-$38^\circ$ 55,24′
-$141^\circ$ 38,26′
-14:46:40,13
-14:46:57,33
-N.KAKH
-The following is the list of the countries of the European Union:
-$38^\circ$ 30,95′
-$141^\circ$ 20,53′
-14:46:40,57
-14:46:57,87
-2.a) Using the map, which can also be downloaded as a file at www.ipho.info,
-and the given data, determine approximately the position of the epicenter of the quake. So state when the quake occurred.
-The strength of the earthquake was later given as 9.0 on the so-called moment magnitude scale. Such a strong earthquake is very
-It's rare and occurs only every few years. Statistically, one earthquake of magnitude 8 or higher occurs worldwide each year, while on average
-About ten earthquakes of magnitude 7 or higher and 100 with a magnitude of at least 6 are recorded each year.
-The dimensionless moment magnitude scale allows, provided the earthquakes occur under the same conditions, a comparison of the energies $E_1$ and $E_2$ released by two
-earthquakes of magnitude or strength $M_1$ and $M_2$. The following holds:
-$$\frac{E_1}{E_2} \approx 10^{\frac{3}{2}(M_1-M_2)}$$
-The Tohoku earthquake released more energy than all earthquakes with magnitudes from 6 to 8 together that occur on average worldwide in one
-year.
-2. (b) Determine approximately the ratio of these two energies. To do this, simplify by assuming that only earthquakes with integer magnitude
-occur.
-Map of Japan in the region around Sendai
-with measuring stations.
-Best to hang
-The problems
-directly next to
-The poster!
-●
-●
-●
-●
-Other
-Other articles
-N.KKWH
-N.KAKH
-●
-●
-SUNDAY
-FUKUSHIMA
-0
-50
-100km
-38
-39
-40
-41
-140
-141
-142
-143
-eastern longitude
-northern latitude
-?
-$3{,}0\ \text{cm}$
-$140{,}0\ \text{cm}$
-Screen
-Glass plate
-Lens
-The object
-Problems and further materials for download
-
-**Topic:** [[Oscillations & Waves]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO 2023 — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/projectile"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -461,35 +334,11 @@ e inoltre negliggono gli effetti frattori.
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 3 (10 points)
-Flying racket
-After losing a match, a player throws his badminton racket away in a high arc.
-The graph shows the resulting observable motion of the points P and
-Q marked in the figure next to. The data points marked in the graph are snapshots at time intervals of $50\ \text{ms}$ each, beginning at the throw at $x = 0$. You may assume that the motion of the racket takes place entirely in the $x$-$y$ plane of the
-I'm going to get a graph.
-3.a) Reconstruct the path of the centre of mass S of the racket
-And draw it into the graph as well. Determine the distances of the points P and Q from the centre of mass.
-3.b) Determine the throw speed of the racket both
-The Commission will take the necessary steps to ensure that the
-frequency with which the racket rotates in flight.
-For the analysis you can also download the data points as a table
-at www.ipho.info and work with them. For
-the acceleration due to gravity you may use the value $g = 9{,}81\ \text{m s}^{-2}$
-and additionally neglect frictional effects.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2023 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -820,174 +669,6 @@ da biologia, chimica e fisica, o lavorare sulle proprie domande
 La Commissione ha adottato una proposta di risoluzione sullo sviluppo sostenibile. Usare il tuo allarme
 mente, dare la tua creatività, e ispirarti e
 altri. Per quanto importante sia un'intelligenza, è l'abilità di
-Work well togethe
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 4 (10 points)
-A Question of Temperature
-Tea is an integral part of Japanese culture. The temperature plays an important role in the preparation of tea
-of the water used. In this problem you are to investigate the cooling of water experimentally,
-In order to estimate how long one should let boiling water cool before preparing a green tea.
-For the experiment you need a teapot or alternatively a large mug, hot water, a thermometer, and a clock for measuring time. The thermometer should measure temperatures up to about $50\ ^\circ\text{C}$ and
-be able to be immersed in the water.
-4.a) Fill about $50\ ^\circ\text{C}$ hot water into the teapot or the mug. Record the temperature of the water in
-The vessel as a function of time. You may restrict yourself to a temperature range from $45\ ^\circ\text{C}$
-to about $5\ ^\circ\text{C}$ above room temperature. Do not forget to stir the water regularly during the experiment.
-If the temperature of a body does not deviate too strongly from the ambient temperature, Newton's law of cooling holds to a good
-The approximation is According to it, the power with which heat is given off to the surroundings is approximately proportional to the temperature difference between the body and the surroundings. What exactly "does not deviate too strongly" means depends on the concrete
-case, among other things, on how accurate the approximation is to be. From the cooling law, for constant ambient conditions, the relation
-$$\vartheta(t) = \vartheta_U + (\vartheta_0 - \vartheta_U) \cdot e^{-t/\tau}$$
-can be derived* for the evolution of the temperature $\vartheta$ of the body. Here $t$ denotes the time, $\tau$ the time constant of the cooling, $\vartheta_U$ the ambient temperature assumed to be constant, and $\vartheta_0$ the
-temperature of the body at time $t = 0$.
-4.b) Show that your measured values approximately satisfy the above relation and determine the time constant $\tau$ of the cooling in your
-The experiment.
-4.c) Using the time constant, estimate roughly how long it takes for boiling water to cool to a temperature of $70\ ^\circ\text{C}$ for the preparation of green tea in your pot or your mug. Justify why your result is to be expected not to be very accurate and
-The water actually cools faster.
-The derivation is not required here but feel free to try it out.
-The first is the 'Junior Problem' (10 points).
-Everything is in Balance
-For a mobile, five wind chimes are hanging up as shown in the figure. The
-The total mass of all the chimes together is $1{,}00\ \text{kg}$. The masses of the rods and threads of the
-Mobile can be neglected.
-Determine what masses $m_1$ to $m_5$ the individual chimes must have so that the mobile is in
-The balance.
-P
-S
-Q
-$m_1$
-$m_2$
-$m_3$
-$m_4$
-$m_5$
-10cm
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-x / m
-y / m
-g
-Badminton racket with points.
-The position of the centre of mass S on PQ is
-Unknown.
-Japanese teapot.
-To-scale sketch of the mobile.
-Graph of the trajectories of the points P (●) and Q (x) during
-The flight.
-Register now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-for the
-Competition!
-The European Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Show your talent!
-The students
-If you are a student, the IPhO and the PhysicsOlympic in
-Germany offers you many opportunities
-to engage intensively with physics questions, to experience physics
-As an exciting scientific discipline,
-To test your own limits
-and not least to get to know interesting people.
-For the competition rounds there are learning materials and training problems that
-help you to deepen your knowledge and problem solving skills. At the seminars
-You meet many other students enthusiastic about physics.
-Taking part is therefore worthwhile in any case
-and regardless of whether you make it into the
-higher rounds. What matters is
-taking part. Successfully completing
-The first round is already a special achievement and a genuine distinction.
-So, just be brave!
-Teachers
-As a teacher, with the problems of the PhysicsOlympiad you can offer a challenge
-to students who are particularly capable or interested in physics
-And encourage them to engage more deeply
-with physics topics. In this way the PhysicsOlympiad can
-serve as an instrument of individual support.
-In particular, the problems of the 1st
-round are suitable not only for the
-Best in a class.
-
-With its varied offerings, the
-PhysicsOlympiad aims to appeal broadly to interested young people
-and to inspire them lastingly for the
-The following is a list of the scientific activities of the European Union. This is served by
-Support offerings such as the Orpheus seminars
-and the accompanying materials for the 1st round,
-with which we want to support you in introducing
-The first is the topic of the PhysicsOlympic.
-So feel free to encourage your students
-to take part; for
-Only those who do not take part can lose.
-Schools
-Schools can sharpen their profile by encouraging
-Participation in competitions
-And use them in the sense of an enrichment as a complement to school
-The Commission will take the necessary measures to ensure that the Commission is able to take all necessary measures. Competitions provide
-The aim of the project is to create a diverse and differentiated learning environment for participating students.
-In the area of STEM subjects, the
-The Olympic Games, at least in the later
-The main objective of the competition is to promote the development of a new approach to the
-Highly achieving young people. Nevertheless, taking part in the
-So in the entry rounds is not only
-The Commission's proposal for a directive on the protection of workers' rights
-I'm very excited about STEM.
-Offerings such as the Orpheus seminars allow the support of a
-large number of participants.
-In many federal states, by the way, participation can be recognized as a special learning achievement or
-specialist/seminar paper of your students
-for the graduation.
-Interested in more
-than physics?
-The IPhO is one of six national scientific student competitions organised by the IPN  the
-The science olympics. Besides the selection
-Competitions for the international
-The European Commission has also adopted a number of proposals for the European Parliament and the Council.
-(IChO) and Physics (IPhO), these include
-The European Science Olympiad (EOES) and the International Junior Science Olympiad (IJSO) are also participating in the European Science Olympiad.
-The Federal Environment Competition (BUW). Together they address
-Students from the beginning
-of secondary school until after the end
-of their school years and, with close
-networking, offer the possibility of
-The Commission will also be able to provide a comprehensive and comprehensive assessment of the impact of the new technologies on the environment.
-Further information at:
-The European Commission has also adopted a proposal for a directive on the protection of workers' rights.
-Many good reasons to take part in the PhysicsOlympiad
-Dear students,
-Dear parents, dear teachers,
-How does an effective vaccine come about? How do we produce green
-What about hydrogen? How do images of brooding icefish come about
-And what follows from the discovery? The questions that female and male scientists and researchers
-are concerned with today shaping our lives
-of tomorrow. That's why it's important to understand how the many smart
-People in science and research work, how they arrive at the
-Right questions and ideas, and how they put their findings
-The Commission is not prepared to take any further action.
-With the competitions organised by the Leibniz Institute for Science and Technology
-Mathematics education, we invite you to
-To a voyage of discovery into the realm of science. More than
-10,000 students from all over the country embark
-On this adventure every year and register for the Science-
-The Olympic Games and the Federal Environment Competition.
-Dear students,
-This is your chance. Join the party. Solve exciting problems
-From biology, chemistry and physics, or work on your own questions
-The Commission is also working on a proposal for a directive on the environment and sustainable development. Use your alert
-Mind, give your creativity room, and inspire yourself and
-Other people. For just as important as a smart head is the ability to
 Work well togethe
 
 **Topic:** [[Thermodynamics]]

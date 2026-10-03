@@ -15,7 +15,7 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="IPhO na — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -52,28 +52,11 @@ Quando un corpo solido di densità $1{,}80\,\text{g\,cm}^{-3}$ si scende a veloc
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of water treatment plants used:
-
-When a solid body of density $1{,}80\,\text{g\,cm}^{-3}$ sinks at constant velocity through viscous oil of density $0{,}90\,\text{g\,cm}^{-3}$, then …
-
-- **A.** … no gravitational force acts on the body.
-- **B ** … the mass of the body equals the mass of the displaced fluid.
-- **C ** … the gravitational force on the body is in equilibrium with the frictional force.
-- **D ** … the buoyant force on the body equals the frictional force.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO na — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/rope-string"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -114,30 +97,11 @@ Come si muove il canne rispetto al secchio immediatamente dopo che la corda e il
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the two main types of cork are not the same.
-
-A bucket filled with water hangs from a rope. Inside the bucket there is a cork attached to the bottom of the bucket by a thread. When the thread is cut, the cork rises to the water surface. When the rope holding the bucket is cut, the bucket falls downward together with its contents.
-
-How does the cork move relative to the bucket immediately after the rope and the thread are cut simultaneously?
-
-- The cork rises faster towards the water surface.
-- **B.** The cork rises to the water surface just as fast.
-- The cork stays at rest.
-- The cork sinks to the bottom of the bucket.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="IPhO na — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/rope-string"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -182,32 +146,11 @@ Per riportare l'equilibrio, bisogna
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the water is not a source of energy.
-
-A glass filled with water of density $1000\,\text{kg\,m}^{-3}$ stands on a balance. By placing a weight on it, the balance is brought into balance.
-
-Now a stone with a volume of $300\,\text{cm}^3$ and a density of $3000\,\text{kg\,m}^{-3}$ is immersed in the water, hanging from a thin thread attached to a stand, without touching the bottom.
-
-To bring the balance back into balance, one must
-
-- **A ** … do nothing, since the balance remains in equilibrium.
-- **B.** … place a weight of mass $0{,}3\,\text{kg}$ on the left side of the balance.
-- **C.** … place a weight of mass $0{,}6\,\text{kg}$ on the left side of the balance.
-- **D.** … place a weight of mass $0{,}9\,\text{kg}$ on the left side of the balance.
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO na — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/bubble"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -248,30 +191,11 @@ Cosa si può dire dei livelli d'acqua nei bicchieri immediatamente dopo che i cu
 **Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
 **Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the problem is that the water is not a liquid.
-
-In three glasses filled with water, an ice cube floats in each. The ice cube in glass 1 has an air bubble inside, the ice cube in glass 2 has a core of liquid water, and in glass 3 an ice cube with an aluminum core floats.
-
-What can be said about the water levels in the glasses immediately after the ice cubes have melted?
-
-- **A.** The water level in glass 1 has risen, the levels in the other glasses are unchanged.
-- **B.** The water level in glass 3 has fallen, the levels in the other glasses are unchanged.
-- **C.** The water levels in glasses 1 and 3 have risen, the level in glass 2 is unchanged.
-- **D.** The water levels in all glasses are unchanged.
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Bubble (object)|Bubble]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="IPhO na — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/cylinder,object/rod"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -312,30 +236,11 @@ Per quale distanza si è spostato il rucker rispetto al tavolo quando il can ha 
 **Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of vehicles that are used in the manufacture of the vehicle:
-
-The end of a ruler rests on a cylindrical can, which in turn rests on a table. The ruler is moved horizontally so that the can rolls across the table. Neither the ruler nor the can slips in the process.
-
-By what distance has the ruler moved relative to the table when the can has completed one full revolution?
-
-- **A.** Half the circumference of the can
-- **B.** The circumference of the can
-- **C ** Twice the circumference of the can
-- **D.** More than twice the circumference of the can
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="IPhO na — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -376,30 +281,11 @@ Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo 
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 6 – Motion!**
-
-The graph alongside shows the acceleration $a$ of a body in one-dimensional motion as a function of time $t$.
-
-Which of the following graphs correctly represents the velocity $v$ of the body as a function of time?
-
-- **A.** Graph A
-- **B.** Graph B
-- **C.** Graph C
-- **D.** Graph D
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="IPhO na — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/block,object/inclined-plane"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -440,30 +326,11 @@ Le scatole prendono lo stesso tempo per slide down the inclined planes.
 **Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of products which are included in the list of products:
-
-Two boxes slide frictionlessly down an inclined plane each from the same height. The two inclined planes have different slopes, but both boxes cover the same total height difference. One box is twice as heavy as the other.
-
-Which of the following statements is correct?
-
-- **A.** Both boxes initially have the same potential energy.
-- The boxes take the same time to slide down the inclined planes.
-- **C.** At the bottom of the inclined planes both boxes have the same kinetic energy.
-- **D.** At the bottom of the inclined planes both boxes are equally close.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="IPhO na — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -508,32 +375,11 @@ Qual è il grafico che rappresenta correttamente la distanza $x$ del punto di im
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the water is not a source of energy.
-
-The bottom of a container filled with water is located at a height of $H_\text{unten} = 15\,\text{cm}$ above the floor. The height of the water in the container is $H = 50\,\text{cm}$.
-
-A small hole is now drilled into the container at a height $h$ above the bottom, so that a jet of water pours out of the container and initially hits the floor at a distance $x$.
-
-Which of the graphs correctly represents the distance $x$ of the impact point as a function of the height $h$ at which the hole is drilled?
-
-- **A.** Graph A
-- **B.** Graph B
-- **C.** Graph C
-- **D.** Graph D
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO na — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/disk,object/rope-string,object/rod"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -574,30 +420,11 @@ Come si comporta la velocità orbitale del puck durante il movimento?
 **Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 9  Puck on a string
-
-A very small puck can move without friction on an air cushion table. It's attached to a fixed rod by a thin string and is now given a push so that it rotates around the rod, with the always-taut string winding up around the rod.
-
-How does the orbital speed of the puck behave during motion?
-
-- **A ** It remains constant.
-- ** B.** It increases.
-- It decreases.
-- **D.** This cannot be answered as stated.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Rope/String (object)|Rope/String]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO na — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -642,32 +469,11 @@ Il pianeta esoplanet ha …
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 10 – Fall on an Exoplanet**
-
-On the surface of an extrasolar planet (exoplanet), the fall time of a body from a small height $h$, neglecting all friction effects, is exactly twice as large as on Earth.
-
-Which of the following statements is consistent with this, assuming a spherically symmetrical structure of the exoplanet?
-
-The exoplanet has …
-
-- **A ** … half the Earth's mass and twice the Earth's radius.
-- **B.** … exactly the Earth's mass and four times the Earth's radius.
-- **C ** … twice the mass of the Earth and twice the radius of the Earth.
-- **D ** … four times the mass of the Earth and four times the radius of the Earth.
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="IPhO na — Quesito 11" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -718,35 +524,11 @@ What is the corresponding moment of inertia of a cube made of the same material 
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of rotating cube:
-
-Let $I$ denote the moment of inertia of the cube shown for rotation about the indicated axis through the centers of two opposite faces.
-
-What is the corresponding moment of inertia of a cube made of the same material but with twice the edge length $a$?
-
-- **A.** $2\,I$
-- **B.** $4\,I$
-- **C.** $16\,I$
-- **D.** $32\,I$
-
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p16_f1.png]]
-*Cube with axis of rotation*
-<!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="IPhO na — Quesito 12" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/rope-string,object/pulley,object/pendulum"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -791,32 +573,11 @@ How must the length $\ell'$ of the string pendulum in the left cabin be chosen s
 **Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
 **Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the engine is not running at the same speed.
-
-Two elevator cabins of masses $m_A$ and $m_B$ with $m_A < m_B$ hang from the ends of a long rope that runs over a fixed pulley. The mass of the pulley and the rope can be neglected. In the left cabin hangs a string pendulum of length $\ell$. When the cabins are at rest and for small displacements, the period of the pendulum is $T$.
-
-When the cabins are released, they move without friction under the influence of gravity.
-
-How must the length $\ell'$ of the string pendulum in the left cabin be chosen so that, after the cabin is released, it oscillates with period $T$?
-
-- **A.** $\ell' = \dfrac{m_A}{m_B}\,\ell$
-- **B.** $\ell' = \dfrac{2m_A}{m_A+m_B}\,\ell$
-- **C.** $\ell' = \dfrac{2m_B}{m_A+m_B}\,\ell$
-- **D.** $\ell' = \dfrac{m_B}{m_A}\,\ell$
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="IPhO na — Quesito 13" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -857,30 +618,11 @@ Indicare quale delle cifre sia corretta e giustificare la tua risposta.
 **Objects:** [[Planet (object)|Planet]]
 **Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the Earth and Mars
-
-The following figures are intended to show, from right to left, five snapshots of each of the orbital positions of Earth and Mars, taken at equal time intervals. The ratios of the orbital radii are to scale, but the planets are greatly enlarged.
-
-State which of the figures is correct and justify your answer.
-
-- **A.** Figure A
-- **B.** Figure B
-- **C.** Figure C
-- **D.** Figure D
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="IPhO na — Quesito 14" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/black-hole,object/star"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -925,32 +667,11 @@ La massa del buco nero corrisponde più strettamente a …
 **Objects:** [[Black Hole (object)|Black Hole]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-Problem 14 Black hole in the Milky Way
-
-The 2020 Nobel Prize in Physics was awarded for the discovery of a very massive, compact object at the center of our galaxy, the Milky Way. The figure alongside shows the observed position of a star at various dates relative to the presumed position of the center of the Milky Way. The position is given in astronomical units, with $1\,\text{au} = 1{,}50 \cdot 10^{11}\,\text{m}$. For simplicity, assume that the orbit of the star is in the plane of the drawing and that the orbit is not affected by relativistic effects.
-
-What mass can be estimated from the data for the black hole presumed to be at the center of the Milky Way, as a multiple of the solar mass with $M_\text{Sonne} = 1{,}99 \cdot 10^{30}\,\text{kg}$?
-
-The mass of the black hole most closely corresponds to …
-
-- **A ** … $1 \cdot 10^5$ solar masses.
-- **B ** … $2 \cdot 10^6$ solar masses.
-- **C ** … $4 \cdot 10^7$ solar masses.
-- **D ** … $8 \cdot 10^8$ solar masses.
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="IPhO na — Quesito 15" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/pendulum,object/ball"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -995,32 +716,11 @@ Which of the following figures shows the position of the ball $1{,}5\,\text{s}$ 
 **Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]]
 **Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 15 – Oscillation with an obstacle**
-
-A small metal ball hangs from the ceiling on a thin string of length $L$. When this pendulum is displaced slightly to the side and released, it swings parallel to the wall with an oscillation period $T = 1{,}0\,\text{s}$.
-
-Now a nail is driven firmly into the wall at a distance of $\tfrac{3}{4}L$ from the ceiling. As it swings to the right, the pendulum string strikes the nail and is obstructed by it. The ball is released from the position shown in the figure on the right.
-
-Which of the following figures shows the position of the ball $1{,}5\,\text{s}$ after release?
-
-- **A.** heading A
-- **B ** heading B
-- **C.** heading C
-- **D.** heading D
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="IPhO na — Quesito 16" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/spring"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1065,32 +765,11 @@ Qual è la frequenza di oscillazione (frequenza naturale) del sistema mostrato q
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 16 – Double spring pendulum**
-
-In each of the two spring pendulums shown, a body of mass $m$ oscillates without friction. However, the spring constants $D_1$ and $D_2$ of the two Hookean springs are different. As a result, the bodies oscillate at different frequencies $f_1$ and $f_2$ after being displaced.
-
-$$f_1 = 1{,}2\,\text{Hz}, \quad f_2 = 1{,}6\,\text{Hz}$$
-
-What is the oscillation frequency (natural frequency) of the system shown below, in which the springs are coupled?
-
-- **A.** $1{,}4\,\text{Hz}$
-- **B.** $2{,}0\,\text{Hz}$
-- **C.** $2{,}4\,\text{Hz}$
-- **D.** $2{,}8\,\text{Hz}$
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.22](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="IPhO na — Quesito 17" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/conducting-sphere"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1131,30 +810,11 @@ Cosa c'è ora circa la forza tra loro?
 **Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
 **Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of problems:
-
-Two equally sized charged metal spheres are located at a very large distance from each other. The charge of one sphere is three times as large as that of the other. The force the spheres exert on each other is $F$. Now the spheres are brought into contact with each other and then positioned at a distance twice as large as the initial one.
-
-What is now approximately the force between them?
-
-- **A.** $0{,}25\,F$
-- **B.** $0{,}33\,F$
-- **C.** $0{,}50\,F$
-- The force remains the same.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.24](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="IPhO na — Quesito 18" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/wire,object/cylinder"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1199,32 +859,11 @@ A quanti dei punti segnati A, B e C si differenziano i campi magnetici prodotti 
 **Objects:** [[Wire (object)|Wire]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 18 – Coaxial cable**
-
-A coaxial cable consists of a long thin cylinder with resistivity $\rho_1$, surrounded by a hollow cylinder with resistivity $\rho_2 > \rho_1$. A current of strength $I$ flows through the cable.
-
-A second coaxial cable, which looks identical from the outside, consists internally of only a single material with resistivity $\rho$ and carries the current $I$.
-
-At how many of the marked points A, B and C do the magnetic fields produced by the respective cable differ?
-
-- **A.** 0
-- **B.** 1
-- **C.** 2
-- **D.** 3
-
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.25](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="IPhO na — Quesito 19" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/point-charge"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1269,32 +908,11 @@ What is the voltage $U$ with which the particle was initially accelerated?
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 19 – Fields**
-
-A very light charged particle is accelerated through a voltage $U$. It then flies into a region permeated by a constant magnetic field perpendicular to the direction of motion of the particle. In this region the particle describes a circular arc with a radius of $r = 1{,}50\,\text{cm}$.
-
-Now an electric field of constant field strength $E = 4{,}40 \cdot 10^4\,\text{V\,m}^{-1}$ is switched on, oriented perpendicular to both the magnetic field and the instantaneous direction of motion of the particle. As a result, the particle continues to move in a straight line.
-
-What is the voltage $U$ with which the particle was initially accelerated?
-
-- **A.** $110\,\text{V}$
-- **B.** $220\,\text{V}$
-- **C.** $330\,\text{V}$
-- **D.** $440\,\text{V}$
-
-**Topic:** [[Electromagnetism]], [[Electrostatics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="IPhO na — Quesito 20" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/point-charge"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1335,30 +953,11 @@ Qual è la velocità di una delle particelle di polvere cariche positivamente ri
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.27](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of dust that are used:
-
-Six identical, initially resting dust particles with mass $m = 2{,}0 \cdot 10^{-10}\,\text{kg}$ and charge $q = 2{,}0 \cdot 10^{-12}\,\text{C}$ are arranged in a vacuum in a regular hexagon with edge length $a = 10\,\mu\text{m}$. At the center of the hexagon there is an initially resting seventh dust particle with the same mass $m$ but opposite charge $-q$. Now the particles are released.
-
-What is the speed of one of the positively charged dust particles relative to the negatively charged dust particles after the particles have moved far apart?
-
-- **A.** about $5{,}5\,\text{m\,s}^{-1}$
-- **B.** about $6{,}0\,\text{m\,s}^{-1}$
-- **C.** about $9{,}8\,\text{m\,s}^{-1}$
-- **D.** about $13\,\text{m\,s}^{-1}$
-
-**Topic:** [[Electrostatics]], [[Conservation of Energy]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.27](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="IPhO na — Quesito 21" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/coil"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1399,30 +998,11 @@ How do the voltages $U_a$ to $U_d$ induced in the loops directly upon entering t
 **Objects:** [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.29](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the output of the input is not enough to make the output of the input.
-
-The four conducting loops shown (a to d) each have edge lengths $\ell$ or $2\ell$. They move with constant velocity $v$ into a sharply bounded region with a homogeneous magnetic field of flux density $B$, oriented into the plane of the drawing.
-
-How do the voltages $U_a$ to $U_d$ induced in the loops directly upon entering the region with the magnetic field compare to each other?
-
-- **A.** $|U_a| = |U_b| = |U_c| = |U_d|$
-- **B.** $|U_a| < |U_b| < |U_c| < |U_d|$
-- **C.** $|U_a| = |U_b| < |U_c| = |U_d|$
-- **D.** $|U_a| < |U_b| = |U_c| < |U_d|$
-
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.29](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="IPhO na — Quesito 22" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/magnet,object/pipe-tube"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1493,45 +1073,11 @@ What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained a
 **Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
 **Fonte:** [Testo (PDF) — p.30](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 22 – Falling Magnet**
-
-A cylindrical magnet is dropped through three different vertically mounted tubes. The tubes have identical dimensions but are made of different materials  one of plexiglass, one of brass and one of aluminium.
-
-For a fall distance of $L = 1{,}0\,\text{m}$ in the tubes, the following fall times of the magnet are measured:
-
-♪ The material is fall time ♪
-|---|---|
-| Plexiglas | $t_\text{Plexiglas} = 0{,}46\,\text{s}$ |
-| Brass | $t_\text{Messing} = 2{,}15\,\text{s}$ |
-| Aluminium | $t_\text{Aluminium} = 3{,}81\,\text{s}$ |
-
-The electrical conductivity of aluminium is $\sigma_\text{Aluminium} = 3{,}7 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$.
-
-What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained as an estimate from the fall times?
-
-- **A.** $1{,}2 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$
-- **B.** $2{,}1 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$
-- **C.** $4{,}9 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$
-- **D.** $6{,}6 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$
-
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p30_f2.png]]
-*Magnet falls in three tubes*
-<!--fig:end-->
-
-**Topic:** [[Electromagnetic Induction]], [[Circuits]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.30](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="IPhO na — Quesito 23" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/coil"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1572,30 +1118,11 @@ Quale dei grafici mostra un processo fisicamente possibile?
 **Objects:** [[Coil (object)|Coil]]
 **Fonte:** [Testo (PDF) — p.31](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the magnetic field is not a magnetic field.
-
-A square conducting loop with edge length $a$, resistance $R$ and mass $m$ falls from rest into a sharply bounded region of width $b > a$ containing a uniform magnetic field of flux density $\vec{B}$ oriented into the plane of the page. The graphs A, B, C and D are meant to represent the time evolution of the velocity of the conducting loop for various magnetic field strengths.
-
-Which of the graphs shows a physically possible process?
-
-- **A.** Graph A
-- **B.** Graph B
-- **C.** Graph C
-- **D.** Graph D
-
-**Topic:** [[Electromagnetic Induction]], [[Newtonian Mechanics]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.31](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="IPhO na — Quesito 24" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/battery,object/resistor,object/galvanometer"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1636,30 +1163,11 @@ Qual è la più piccola grandezza di corrente che scorre attraverso l'ammetro in
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.34](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the Pentagon of Resistors is a very important part of the security system.
-
-A battery with a voltage of $9{,}0\,\text{V}$ is connected in series with an ideal amp. The series combination can be connected to any two corners of the resistor pentagon shown, with resistances $4{,}0\,\Omega$, $5{,}0\,\Omega$, $6{,}0\,\Omega$, $7{,}0\,\Omega$, $8{,}0\,\Omega$.
-
-What is the smallest current magnitude that flows through the ammeter in this case?
-
-- **A.** $0{,}30\,\text{A}$
-- **B.** $0{,}60\,\text{A}$
-- **C.** $1{,}2\,\text{A}$
-- **D.** $2{,}3\,\text{A}$
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.34](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="IPhO na — Quesito 25" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/battery"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1700,30 +1208,11 @@ Quale dichiarazione è corretta se due di queste batterie sono usate per operare
 **Objects:** [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.35](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 25 – Battery Operation**
-
-A single battery can light a light bulb for a time $t$. Assume for simplicity that the bulb shines with constant brightness until the battery is depleted, and that the resistance of the bulb is constant.
-
-Which statement is correct if two of these batteries are used to operate two of the light bulbs?
-
-- **A.** If the batteries are connected in series and the bulbs are connected in series, the bulbs can be operated for about a time $t/4$.
-- **B.** If the batteries are connected in series and the bulbs are connected in parallel, the bulbs can be operated for about a time $t/2$.
-- **C.** If the batteries are connected in parallel and the bulbs are connected in series, the bulbs can be operated for about a time $2t$.
-- **D.** If the batteries are connected in parallel and the bulbs are also connected in parallel, the bulbs can be operated for about a time $t$.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.35](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="IPhO na — Quesito 26" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1768,32 +1257,11 @@ Quali valori di resistenza corrispondono meglio ai valori misurati mostrati?
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.36](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the system is not a single unit.
-
-A diode is an electronic component that, in simplified terms, acts as a complete insulator in one direction (reverse direction). In the opposite direction (forward direction) the diode lets almost no current pass up to a certain voltage; above this voltage it behaves approximately like an ideal conductor.
-
-A circuit contains a diode and two resistors with resistance values $R_1$ and $R_2$. The graph alongside shows measured values of the current $I$ in the circuit as a function of the applied voltage $U$.
-
-Which resistance values best match the measured values shown?
-
-- **A.** $R_1 = 220\,\Omega$ and $R_2 = 670\,\Omega$
-- **B ** $R_1 = 220\,\Omega$ and $R_2 = 330\,\Omega$
-- **C ** $R_1 = 470\,\Omega$ and $R_2 = 220\,\Omega$
-- **D ** $R_1 = 470\,\Omega$ and $R_2 = 150\,\Omega$
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.36](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="IPhO na — Quesito 27" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/inductor,object/capacitor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1838,32 +1306,11 @@ Qual è la frequenza di oscillazione $f_{12}$ (natural frequency) del seguente s
 **Objects:** [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.38](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated by the electrical power generated electrical power generated by the electrical power generated electrical power generated by the electrical power generated electrical power generated electrical power generated by the electrical power generated electrical power generated electrical power generated electrical power.
-
-A circuit consisting of an ideal inductor and an ideal capacitor is called an oscillating circuit (LC circuit). The two upper electrical oscillating circuits with the same inductance $L$ but different capacitances $C_i$ oscillate without resistance at the given frequencies:
-
-$$f_1 = f, \quad f_2 = \frac{4}{3}f$$
-
-What is the oscillation frequency $f_{12}$ (natural frequency) of the following coupled system, in which $L$, $C_1$ and $C_2$ are connected together?
-
-- **A.** $\dfrac{2}{3}f$
-- **B.** $\dfrac{3}{4}f$
-- **C.** $\dfrac{4}{5}f$
-- **D.** $\dfrac{5}{4}f$
-
-**Topic:** [[Oscillations & Waves]], [[Circuits]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.38](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="IPhO na — Quesito 28" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/inductor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1908,32 +1355,11 @@ Quale dei seguenti diagrammi di circuito rappresenta correttamente il circuito u
 **Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]]
 **Fonte:** [Testo (PDF) — p.40](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated electricity generated by the electricity generated electricity generated by electricity.
-
-A resistor with resistance value $R$, a capacitor of capacitance $C$ and an inductor of inductance $L$ are connected to an AC voltage source. The amplitude of the AC voltage is $U$ and the components can be assumed to be ideal.
-
-The following graph shows the amplitude $I$ of the current in the circuit as a function of the frequency $f$ of the sinusoidal AC voltage.
-
-Which of the following circuit diagrams correctly represents the circuit used?
-
-- **A ** $R$, $C$, $L$ in series
-- **B.** $R$ in series with a parallel connection of $L$ and $C$
-- **C.** $R$ in parallel connection with $L$ and $C$ in series
-- **D.** $R$ in series with $C$, in parallel with $L$
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]]
-**Fonte:** [Testo (PDF) — p.40](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="IPhO na — Quesito 29" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/disk"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -1974,30 +1400,11 @@ Cosa succede durante il riscaldamento?
 **Objects:** [[Disk (object)|Disk]]
 **Fonte:** [Testo (PDF) — p.42](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of data that are used in the database:
-
-A metal disc with a hole in its center is heated.
-
-What happens during heating?
-
-- The hole becomes larger.
-- The hole becomes smaller.
-- The hole stays the same size.
-- **D.** This question cannot be answered without further information.
-
-**Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.42](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="IPhO na — Quesito 30" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2038,30 +1445,11 @@ Qual è la temperatura in $°\text{C}$ che corrisponde più strettamente a $0\,\
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.42](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of energy sources used in the production of energy:
-
-The fictitious temperature unit Nups is defined by setting $0\,\text{K} = 1000\,\text{Nups}$, $0\,°\text{C} = 400\,\text{Nups}$, and a linear variation with temperature.
-
-Which temperature in $°\text{C}$ corresponds most closely to $0\,\text{Nups}$?
-
-- **A.** $120\,°\text{C}$
-- **B.** $150\,°\text{C}$
-- **C.** $180\,°\text{C}$
-- **D.** $210\,°\text{C}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.42](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="IPhO na — Quesito 31" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2102,30 +1490,11 @@ Quale sostanza ha la più alta capacità di calore specifica?
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.43](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the heat capacity of the system is less than the heat capacity of the system.
-
-The same amount of thermal energy is supplied to four samples of different substances. The temperature of $3\,\text{g}$ of substance A rises by $8\,\text{K}$, the temperature of $4\,\text{g}$ of substance B by $5\,\text{K}$, the temperature of $6\,\text{g}$ of substance C by $9\,\text{K}$, and the temperature of $7\,\text{g}$ of substance D by $4\,\text{K}$.
-
-Which substance has the highest specific heat capacity?
-
-- **A.** A
-- **B.** B
-- **C.** C
-- **D.** D
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.43](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="IPhO na — Quesito 32" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2166,30 +1535,11 @@ Qual era la massa del cubo di ghiaccio quando è stato gettato in acqua?
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.44](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the main types of ice:
-
-Water is heated in a kettle. During heating, an ice cube at temperature $\vartheta_0 = 0\,°\text{C}$ is dropped into the water. Figure 7 shows the temperature of the water as a function of time. The heating power of the kettle is $900\,\text{W}$. The specific heat capacity of water is $c = 4{,}2\,\text{kJ\,kg}^{-1}\,\text{K}^{-1}$ and the specific latent heat of fusion of ice is $h = 335\,\text{kJ\,kg}^{-1}$.
-
-What was the mass of the ice cube when it was dropped into the water?
-
-- **A.** $16\,\text{g}$
-- **B.** $26\,\text{g}$
-- **C.** $56\,\text{g}$
-- **D.** $145\,\text{g}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.44](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q33" data-atom="q33" data-title="IPhO na — Quesito 33" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2234,32 +1584,11 @@ Quale delle seguenti affermazioni è corretta per il melting of the ice in the t
 **Objects:** [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.46](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of ice used:
-
-On a cold winter day, three identical, non-insulated wooden boxes stood outside the house, each filled with the same amount of ice at temperature $0{,}0\,°\text{C}$. To melt the ice, an electric heating element is placed in each of the boxes. The heating elements are identical but are operated at different voltages.
-
-In the first box, the heating element is operated at a voltage of $80\,\text{V}$. All of the ice then melts to $20{,}0\,\text{min}$. A voltage of $120\,\text{V}$ is applied to the heating element of the second box, after which the ice melts completely in only $4{,}0\,\text{min}$. In the third box, a voltage of $40\,\text{V}$ is used for the heating element.
-
-Which of the following statements is correct for the melting of the ice in the third box?
-
-Melting all of the ice in the third box takes about $80\,\text{min}$.
-Melting all of the ice in the third box takes about $100\,\text{min}$.
-Melting all of the ice in the third box takes about $130\,\text{min}$.
-With the voltage used, it is not possible to melt all of the ice.
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.46](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="IPhO na — Quesito 34" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/rod"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2308,34 +1637,11 @@ How do the heat powers $P_\text{I}$, $P_\text{II}$, and $P_\text{III}$ transmitt
 **Objects:** [[Rod (object)|Rod]]
 **Fonte:** [Testo (PDF) — p.48](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 34 – Heat Conduction**
-
-The ends of three round metal rods made of identical material are each held at constant temperatures:
-
-- Rod I: diameter $2{,}0\,\text{cm}$, length $20\,\text{cm}$, temperatures: $50\,°\text{C}$ and $20\,°\text{C}$
-- Rod II: diameter $3{,}0\,\text{cm}$, length $50\,\text{cm}$, temperatures: $60\,°\text{C}$ and $30\,°\text{C}$
-- Rod III: diameter $4{,}0\,\text{cm}$, length $80\,\text{cm}$, temperatures: $70\,°\text{C}$ and $40\,°\text{C}$
-
-How do the heat powers $P_\text{I}$, $P_\text{II}$, and $P_\text{III}$ transmitted through the rods by heat conduction compare to one another?
-
-- **A.** $P_\text{I} < P_\text{II} = P_\text{III}$
-- **B.** $P_\text{I} = P_\text{II} < P_\text{III}$
-- **C.** $P_\text{II} < P_\text{I} = P_\text{III}$
-- **D.** $P_\text{III} < P_\text{II} < P_\text{I}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.48](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="IPhO na — Quesito 35" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2386,35 +1692,11 @@ Quali sono i valori approssimativi dei due resistori?
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.49](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of heating systems used:
-
-Two resistors of identical design are connected in parallel to a voltage source with a voltage of $2{,}6\,\text{V}$. A total current of $310\,\text{mA}$ flows. An image of the circuit is taken with an infrared camera. The camera measures the surface temperatures of the two resistors to be $33\,°\text{C}$ and $67\,°\text{C}$. The ambient temperature is $21\,°\text{C}$.
-
-What are the approximate values of the two resistors?
-
-- **A.** $1{,}7\,\Omega$ and $6{,}7\,\Omega$
-- **B ** $12\,\Omega$ and $30\,\Omega$
-- **C ** $10\,\Omega$ and $45\,\Omega$
-- **D ** $20\,\Omega$ and $80\,\Omega$
-
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p49_f3.png]]
-Infrared image of the resistors
-<!--fig:end-->
-
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.49](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="IPhO na — Quesito 36" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2455,30 +1737,11 @@ Qual è la potenza irradiata quando la temperatura del metallo è sollevata a $1
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.51](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the most commonly used methods for calculating the maximum energy consumption:
-
-A piece of metal at a temperature of $550\,°\text{C}$ emits thermal radiation with a power $P$.
-
-What is the radiated power when the temperature of the metal is raised to $1100\,°\text{C}$?
-
-- **A.** or $1{,}7\,P$
-- **B.** about $2{,}0\,P$
-- **C.** or $7{,}7\,P$
-- **D.** about $16\,P$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.51](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q37" data-atom="q37" data-title="IPhO na — Quesito 37" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet,object/star"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2519,30 +1782,11 @@ By approximately how much could the mean temperature $T$ at the Earth's surface,
 **Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
 **Fonte:** [Testo (PDF) — p.52](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 37 – Stopping Global Warming**
-
-The mad scientist Knox has found a method to stop global warming. To do this, he wants to increase the radius $r$ of the Earth's orbit, assumed to be circular, by $1{,}0\,\%$.
-
-By approximately how much could the mean temperature $T$ at the Earth's surface, which is currently about $15\,°\text{C}$, decrease as a result?
-
-- **A.** or $0{,}7\,\text{K}$
-- **B.** about $1{,}4\,\text{K}$
-- **C.** or $2{,}8\,\text{K}$
-- **D.** about $5{,}6\,\text{K}$
-
-**Topic:** [[Thermodynamics]], [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.52](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q38" data-atom="q38" data-title="IPhO na — Quesito 38" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2587,32 +1831,11 @@ Quali dei seguenti grafici rappresentano correttamente il processo ciclico?
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.53](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of cyclic processes:
-
-The ideal gas undergoes a cyclic process. Starting from state A, it is first heated at constant volume to a state B, then it expands without a change in temperature to a state C, and is finally compressed isobarically back to the initial state A.
-
-Let $p$, $V$, and $T$ denote the pressure, volume, and temperature of the gas.
-
-Which of the following graphs correctly represents the cyclic process?
-
-- **A.** Only graphs I and II.
-- **B.** Only graphs I and III.
-- **C.** Only graphs II and III.
-- **D.** All three graphs.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.53](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q39" data-atom="q39" data-title="IPhO na — Quesito 39" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2657,32 +1880,11 @@ Quanto vapore d'acqua (in $\text{g\,m}^{-3}$) è presente nell'aria del bagno? U
 **Objects:** [[Gas (object)|Gas]]
 **Fonte:** [Testo (PDF) — p.54](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the air quality requirements for the manufacturer:
-
-After a long shower, the temperature in the bathroom is $28\,°\text{C}$ and the relative humidity is $80\,\%$.
-
-The adjacent figure shows the saturation vapor pressure curve for water vapor. It gives the maximum water vapour pressure $p_\text{sat}$ that is possible at a temperature $\vartheta$ before the water vapour in the air condenses.
-
-How much water vapour (in $\text{g\,m}^{-3}$) is present in the air in the bathroom? Use the value $M_\text{Wasser} = 18{,}0\,\text{g\,mol}^{-1}$ for the molar mass of water.
-
-- **A.** or $22\,\text{g\,m}^{-3}$
-- **B.** about $27\,\text{g\,m}^{-3}$
-- **C.** about $2{,}3 \cdot 10^2\,\text{g\,m}^{-3}$
-- **D.** about $3{,}0 \cdot 10^3\,\text{g\,m}^{-3}$
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.54](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="IPhO na — Quesito 40" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2727,32 +1929,11 @@ Angolo di incidenza: $45°$
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.55](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 40 – Refraction of Light**
-
-A light ray strikes an arrangement of two equally sized glass cuboids set up perpendicular to each other and is refracted upon entering the first cuboid. The refractive index of the glass is $1{,}5$. Outside the cuboids there's air.
-
-Which of the following figure sections shows the path of the refracted light ray after it exits the second cuboid? The path of the light ray inside the cuboid is not shown, and the dashed line indicates the path of the unrefracted light ray.
-
-Angle of incidence: $45°$
-
-- **A.** Figure A
-- **B.** Figure B
-- **C.** Figure C
-- **D.** Figure D
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.55](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q41" data-atom="q41" data-title="IPhO na — Quesito 41" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2793,30 +1974,11 @@ Qual è la distanza $x$ del punto di ingresso dalla superficie di confine superi
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.57](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of glass cuboids used:
-
-A laser beam travelling in the plane of the drawing strikes a glass cuboid (refractive index $n = 1{,}5$) with side lengths $a$ and $4a$ from the left at an angle of incidence $\alpha = 30°$. As indicated in the sketch (Figure 11), inside the glass cuboid it finally hits exactly the lower right corner.
-
-What is the distance $x$ of the entry point from the upper boundary surface of the cuboid?
-
-- **A.** $a \cdot (\sqrt{2} - 1)$
-- **B.** $a \cdot (2 - \sqrt{3})$
-- **C.** $a \cdot \left(1 - \dfrac{\sqrt{2}}{2}\right)$
-- **D.** $a \cdot \left(1 - \dfrac{\sqrt{3}}{3}\right)$
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.57](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q42" data-atom="q42" data-title="IPhO na — Quesito 42" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2857,30 +2019,11 @@ A che distanza dalla lente si forma l'immagine quando la distanza tra l'oggetto 
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.59](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the main types of convergence lenses:
-
-A thin converging lens produces, from an object located at a distance $d$ from the lens, an image whose distance from the lens is also $d$.
-
-At what distance from the lens is the image formed when the distance between the object and the lens is doubled?
-
-- **A.** or $\tfrac{1}{2}\,d$
-- **B.** about $\tfrac{2}{3}\,d$
-- **C.** about $\tfrac{3}{2}\,d$
-- **D.** about $2\,d$
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.59](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q43" data-atom="q43" data-title="IPhO na — Quesito 43" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -2941,40 +2084,11 @@ Quali obiettivi sono stati usati in ciascun esperimento?
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.60](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 43 – Lens Collection**
-
-From the depths of the physics collection, your physics teacher has dug out a box with three thin lenses labeled I, II, and III. Lenses I and II are biconvex, whereas lens III is concave on both sides. To determine the focal lengths of the lenses, imaging experiments were carried out with an object at a distance of $50{,}0\,\text{cm}$ from a single lens or from a combination of two lenses placed close together one behind the other.
-
-The measured image distances are:
-
-♪ experiment with image distance ♪
-|---|---|
-| 1 (Lens I) | $21{,}4\,\text{cm}$ |
-| 2 | $50{,}2\,\text{cm}$ |
-| 3 | $11{,}6\,\text{cm}$ |
-| 4 | $30{,}9\,\text{cm}$ |
-| 5 | $175{,}0\,\text{cm}$ |
-
-Which lens (s) were used in each of the experiments?
-
-- **A.** 2: I & III; 3: I & II; 4: II; 5: II & III
-- **B.** 2: I & III; 3: II; 4: II & III; 5: I & II
-- **C.** 2: II; 3: I & II; 4: I & III; 5: II & III
-- **D.** 2: II & III; 3: II; 4: I & II; 5: I & III
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.60](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q44" data-atom="q44" data-title="IPhO na — Quesito 44" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3033,39 +2147,11 @@ Qual è la lunghezza focale della lente? (Lenti di convergenza e di divergenza)
 **Objects:** [[Lens (object)|Lens]]
 **Fonte:** [Testo (PDF) — p.62](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 44 – Two Images**
-
-A photo of a drinking bottle located at a distance of about $35\,\text{cm}$ from the camera is taken with a smartphone camera. In the photo, the background about $5{,}8\,\text{m}$ away appears blurred. If a lens is now positioned directly in front of the camera, the background appears sharp through the lens in the photo.
-
-What is the focal length of the lens? (Positive focal lengths denote converging lenses and negative ones diverging lenses.)
-
-- **A.** or $-35\,\text{cm}$
-- **B.** about $-18\,\text{cm}$
-- **C.** or $35\,\text{cm}$
-- **D.** about $58\,\text{cm}$
-
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p62_f4.png]]
-*Photo without lens, bottle sharp*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p62_f5.png]]
-*Photo with lens, background sharp*
-<!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.62](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q45" data-atom="q45" data-title="IPhO na — Quesito 45" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/diffraction-grating,object/screen"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3128,41 +2214,11 @@ Qual è la lunghezza d'onda della luce laser emessa dal secondo laser?
 **Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Screen (object)|Screen]]
 **Fonte:** [Testo (PDF) — p.64](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the problems:
-
-In an experiment, monochromatic laser light falls perpendicularly on an optical grating with $300\,\text{Linien\,mm}^{-1}$. Behind the grating, the interference pattern is observed on a screen. The distance from the screen to the grating is very large compared to the extent of the interference pattern.
-
-The adjacent greyscale images show the interference patterns produced on the screen when using two lasers with different wavelengths. The wavelength of the first laser is $650\,\text{nm}$.
-
-What is the wavelength of the laser light emitted by the second laser?
-
-- **A.** or $450\,\text{nm}$
-- **B.** about $530\,\text{nm}$
-- **C.** about $610\,\text{nm}$
-- **D.** about $690\,\text{nm}$
-
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p64_f6.png]]
-The following is the list of the main characteristics of the product:
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p64_f7.png]]
-The following is the list of the main types of interference patterns:
-<!--fig:end-->
-
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.64](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q46" data-atom="q46" data-title="IPhO na — Quesito 46" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3207,32 +2263,11 @@ At what rate does the thickness $d$ of the water layer on the glass decrease?
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.65](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 46 – Reflection from a Water Layer**
-
-The surface of a smooth horizontal glass plate is covered with a thin, flat layer of water. Monochromatic light of wavelength $680\,\text{nm}$ falls from above onto the water surface at an angle $\alpha = 30°$ to the surface normal. The refractive index of the glass plate is $1{,}50$ and that of the water is $1{,}33$.
-
-Due to evaporation of the water, the intensity of the reflected light changes periodically. A time of $15\,\text{min}$ elapses between the occurrence of two intensity maxima.
-
-At what rate does the thickness $d$ of the water layer on the glass decrease?
-
-- **A.** or $0{,}3\,\mu\text{m\,h}^{-1}$
-- **B.** about $1\,\mu\text{m\,h}^{-1}$
-- **C.** about $3\,\mu\text{m\,h}^{-1}$
-- **D.** about $9\,\mu\text{m\,h}^{-1}$
-
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.65](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q47" data-atom="q47" data-title="IPhO na — Quesito 47" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3273,30 +2308,11 @@ Qual è la frequenza $f$ della radiazione?
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.67](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 47 – Two Transmitters**
-
-Two identical electric transmitting dipole antennas, oriented perpendicular to the plane of the drawing, radiate into space from the points $S_1$ and $S_2$ in phase at the frequency $f$. A receiver E is moved on a circle around $S_1$, starting from $S_2$. The distance $S_1 S_2 = 20\,\text{cm}$. The intensity measured at the receiver as a function of the angle $\alpha$ shows distinct maxima and minima.
-
-What is the frequency $f$ of the radiation?
-
-- **A.** $1{,}5\,\text{GHz}$
-- **B.** $3{,}0\,\text{GHz}$
-- **C.** $4{,}5\,\text{GHz}$
-- **D.** $6{,}0\,\text{GHz}$
-
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.67](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q48" data-atom="q48" data-title="IPhO na — Quesito 48" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3337,30 +2353,11 @@ Quanto deve essere spessa la finestra di vetro di piombo in modo che l'intensit�
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.68](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of products which are included in the list of products:
-
-Rooms with X-ray equipment are shielded by thick walls and windows made of lead glass. A lead glass window with a thickness of $2{,}0\,\text{cm}$ can already shield $75\,\%$ of the intensity of X-ray radiation.
-
-How thick must the lead glass window be so that the intensity of the radiation behind the window is only $1\,\%$ of the intensity in front of the window?
-
-- **A.** or $2{,}7\,\text{cm}$
-- **B.** about $4{,}0\,\text{cm}$
-- **C.** about $6{,}6\,\text{cm}$
-- **D.** about $9{,}2\,\text{cm}$
-
-**Topic:** [[Nuclear & Particle Physics]], [[Wave Optics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.68](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q49" data-atom="q49" data-title="IPhO na — Quesito 49" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/atom"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3409,34 +2406,11 @@ Quale dei spettrini mostrati di seguito, scalato linearmente in lunghezza d'onda
 **Objects:** [[Atom (object)|Atom]]
 **Fonte:** [Testo (PDF) — p.69](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 49 – Spectra**
-
-The atoms of a fictitious element occupy states at the energy levels
-
-$$E_n = -\frac{C}{n^2} \quad \text{mit} \quad n = 1, 2, \ldots$$
-
-where $C$ is a constant. Only the lines of the series of transitions to the ground state $n = 1$ lie in the optical range, but these lie entirely within it.
-
-Which of the spectra shown below, scaled linearly in wavelength, correctly represents the emission lines of the described element?
-
-- **A.** Spectrum A
-- **B ** Spectrum B
-- **C.** Spectrum C
-- **D.** Spectrum D
-
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.69](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q50" data-atom="q50" data-title="IPhO na — Quesito 50" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/nucleus"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3489,36 +2463,11 @@ Quale delle tre coppie di nuclidi appartiene a quale diagramma?
 **Objects:** [[Nucleus (object)|Nucleus]]
 **Fonte:** [Testo (PDF) — p.70](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 50 – Radioactive Decay**
-
-In the following, three radioactive samples are considered. Initially, at time $t = 0$, they consist $100\,\%$ of a single radioactive isotope, the respective parent nuclide. The initial activity of the samples is denoted by $A_0$ in each case. The direct decay products, the daughter nuclides, are also radioactive and decay. The parent and daughter nuclides of the three samples are:
-
-- Sample 1: $^{226}\text{Ra}$ ($T_\text{Mutter} = 1600\,\text{a}$) $\to$ $^{222}\text{Rn}$ ($T_\text{Tochter} = 3{,}8\,\text{d}$)
-- Sample 2: $^{211}\text{Pb}$ ($T_\text{Mutter} = 36{,}1\,\text{min}$) $\to$ $^{211}\text{Bi}$ ($T_\text{Tochter} = 2{,}14\,\text{min}$)
-- Sample 3: $^{214}\text{Pb}$ ($T_\text{Mutter} = 26{,}8\,\text{min}$) $\to$ $^{214}\text{Bi}$ ($T_\text{Tochter} = 19{,}9\,\text{min}$)
-
-The graphs I, II, III represent the time evolution of the activities of both nuclides as well as the total activity for the three samples.
-
-Which of the three nuclide pairs belongs to which diagram?
-
-- **A ** 1→I, 2→II, 3→III
-- **B ** 1→II, 2→III, 3→I
-- **C ** 1→III, 2→II, 3→I
-- **D ** 1→III, 2→I, 3→II
-
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.70](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q51" data-atom="q51" data-title="IPhO na — Quesito 51" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3559,30 +2508,11 @@ Quanto tempo dovranno aspettare gli abitanti della Terra tra il lancio della nav
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.72](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The problem is that the galactic message in a bottle is a galactic message.
-
-A spacecraft departs from Earth at the constant speed $0{,}6\,c$, where $c$ denotes the speed of light in vacuum. After $100\,\text{h}$ on board, the space travellers throw a message in a bottle at a speed of $0{,}8\,c$ relative to the spacecraft in the direction of Earth.
-
-How long must the inhabitants of Earth wait between the launch of the spacecraft and the arrival of the message in a bottle?
-
-- **A.** or $256\,\text{h}$
-- **B.** about $320\,\text{h}$
-- **C.** about $400\,\text{h}$
-- **D.** about $525\,\text{h}$
-
-**Topic:** [[Special Relativity]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.72](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q52" data-atom="q52" data-title="IPhO na — Quesito 52" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3633,35 +2563,11 @@ Che potenza è resa disponibile dal vento alla turbina quando la velocità del v
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.73](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The Commission has also adopted a proposal for a regulation on the management of the energy sector.
-
-Wind turbines generate electrical power by using energy from the wind to drive generators. At a moderate wind speed, the power made available by the wind to a turbine, and thus the theoretically maximum usable power, is $P$.
-
-What power is made available by the wind to the turbine results when the wind speed is doubled?
-
-- **A.** $2\,P$
-- **B.** $3\,P$
-- **C.** $4\,P$
-- **D.** $8\,P$
-
-<!--fig:start-->
-![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p73_f8.png]]
-The following is the list of the types of wind turbines:
-<!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.73](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q53" data-atom="q53" data-title="IPhO na — Quesito 53" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3706,32 +2612,11 @@ Quale delle seguenti espressioni potrebbe essere una espressione adatta per la p
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.74](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The power of gravitational waves
-
-The general theory of relativity predicts the existence of gravitational waves. These waves are generated by accelerated masses and propagate at the speed of light.
-
-For two bodies of equal mass $m$ orbiting each other at a distance $r$, the power $P$ radiated by gravitational waves can be expressed using the gravitational constant $G$ and the speed of light in vacuum $c$.
-
-Which of the following expressions could be a suitable expression for the power $P$?
-
-- **A.** $P = \dfrac{32}{5}\dfrac{G^5 m^5}{c^5 r^4}$
-- **B.** $P = \dfrac{32}{5}\dfrac{G^5 m^5}{c^4 r^5}$
-- **C.** $P = \dfrac{32}{5}\dfrac{G^5 m^4}{c^5 r^5}$
-- **D.** $P = \dfrac{32}{5}\dfrac{G^4 m^5}{c^5 r^5}$
-
-**Topic:** [[Special Relativity]], [[Gravitation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.74](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q54" data-atom="q54" data-title="IPhO na — Quesito 54" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet,object/satellite"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3780,34 +2665,11 @@ Quali sono i valori degli esponenti $\alpha$, $\beta$ e $\gamma$?
 **Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
 **Fonte:** [Testo (PDF) — p.75](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
-<div class="qlang-split" data-lang="en"></div>
-
-The following is the list of the types of heat pumps used:
-
-Although a thick layer of ice reflects a large part of the sunlight incident on Saturn's moon Enceladus, the Cassini space probe was able to photograph water fountains several hundred kilometers high on its surface. The moon gets the energy required for this from tidal forces.
-
-Consider a celestial body of radius $r$ orbiting a planet of mass $M_P$ on an orbit with semi-major axis $a$ and eccentricity $e$. The heating power experienced by the body can be expressed as:
-
-$$P \approx \frac{21}{100}\, r^5\, e^2\, G^\alpha\, M_P^\beta\, a^\gamma$$
-
-What are the values of the exponents $\alpha$, $\beta$, and $\gamma$?
-
-- **A.** $\alpha = -3/2$, $\beta = 5/2$, $\gamma = -15/2$
-- **B.** $\alpha = 3/2$, $\beta = 5/2$, $\gamma = -15/2$
-- **C.** $\alpha = 3/2$, $\beta = -5/2$, $\gamma = 15/2$
-- **D.** $\alpha = -3/2$, $\beta = 5/2$, $\gamma = 15/2$
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.75](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
 
 
 <span class="atom-split" id="q55" data-atom="q55" data-title="IPhO na — Quesito 55" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
-<div class="qlang-switch" data-default="de"></div>
+<div class="qlang-switch" data-default="en"></div>
 
 
 
@@ -3834,25 +2696,6 @@ Which of the following expressions could be a suitable expression for the force 
 **Problema 55  Due piastre in vuoto**
 
 Due conducenti, plates parallele di area $A$ sono situate a distanza $d$ separate in vuoto. A causa dell'effetto quantomeccanico di Casimir, una forza agisce tra le piastre che dipende dalla velocità di luce $c$ in vuoto e sulla costante di Planck ridotta $\hbar = \dfrac{h}{2\pi}$.
-
-Which of the following expressions could be a suitable expression for the force $F$ with which the plates are pushed together?
-
-- **A.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^3\, A}$
-- **B.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^3\, A^2}$
-- **C.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^4\, A}$
-- **D.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^4\, A^2}$
-
-**Topic:** [[Modern-Quantum Physics]], [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.77](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-**Problem 55 – Two Plates in Vacuum**
-
-Two conducting, parallel plates of area $A$ are located at a distance $d$ apart in vacuum. Due to the quantum-mechanical Casimir effect, a force acts between the plates that depends on the speed of light $c$ in vacuum and on the reduced Planck constant $\hbar = \dfrac{h}{2\pi}$.
 
 Which of the following expressions could be a suitable expression for the force $F$ with which the plates are pushed together?
 

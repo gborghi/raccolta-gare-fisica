@@ -3,6 +3,7 @@
 // livello, difficoltà, area, argomento, metodo, abilità) with an AND/OR
 // (TUTTI/QUALSIASI) toggle, rendering matches into a sortable table.
 
+import { compLabel } from "./compLabel"
 import { makeRowMatcher, loadSynonyms, markResultCount, type RowMatcher, type RowFields } from "./searchBoolean"
 
 interface Q {
@@ -44,7 +45,7 @@ const FACETS: Facet[] = [
   { key: "topics", label: "Argomento", multi: true },
   { key: "methods", label: "Metodo", multi: true, strip: " (metodo)" },
   { key: "skills", label: "Abilità", multi: true, strip: " (competenza)" },
-  { key: "objects", label: "Objects", multi: true, strip: " (object)" },
+  { key: "objects", label: "Oggetto", multi: true, strip: " (object)" },
 ]
 
 // SPA (Task 6.4, Part C): the currently-active applyHashTag() closure, so the
@@ -123,6 +124,15 @@ async function init() {
     else values.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
     return { facet, values }
   })
+
+  // comp_code values cut to 6 chars in the vault ("Svizze") get their full name on the
+  // chips; the token keeps the raw code (tagmap / hash links stay valid).
+  const compNames = new Map<string, string>()
+  for (const q of data) {
+    if (!compNames.has(q.comp_code)) compNames.set(q.comp_code, compLabel(q.comp_code, q.country))
+  }
+  const chipLabel = (f: Facet, val: string): string =>
+    pretty(f.strip, f.key === "comp_code" ? compNames.get(val) || val : val)
 
   function matches(q: Q): boolean {
     if (selected.size === 0) return false
@@ -251,7 +261,7 @@ async function init() {
       const chip = document.createElement("button")
       chip.className = "cerca-chip"
       chip.dataset.token = token
-      chip.innerHTML = `${esc(pretty(facet.strip, val))} <span class="cerca-n">${count}</span>`
+      chip.innerHTML = `${esc(chipLabel(facet, val))} <span class="cerca-n">${count}</span>`
       chip.addEventListener("click", () => {
         if (selected.has(token)) selected.delete(token)
         else selected.add(token)
@@ -385,7 +395,7 @@ async function init() {
         .map((token) => {
           const [key, val] = token.split("::")
           const f = FACETS.find((x) => x.key === key)!
-          return `<button class="cerca-chip active" data-token="${esc(token)}">${esc(f.label)}: ${esc(pretty(f.strip, val))} ✕</button>`
+          return `<button class="cerca-chip active" data-token="${esc(token)}">${esc(f.label)}: ${esc(chipLabel(f, val))} ✕</button>`
         })
         .join("") +
       ` <button class="cerca-clear">Azzera</button>`

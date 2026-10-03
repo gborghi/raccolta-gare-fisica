@@ -140,112 +140,96 @@ Totale 1, 2, 3: 121
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt the following measures:
-1
-a
-Maximum inclination by balance
-Number of detections  (0,5 p/detection  max 5) 5
-The value of the product shall be: $6^{\circ}\leq\theta\leq 10^{\circ}$ (to 50% 1p; to 75% 2p; to 100% 3p) 3
+EVALUATION
+1 a
+Maximum inclination for equilibrium
+Number of measurements – (0.5 p/measurement – max 5) 5
+Values: $6^{\circ}\leq\theta\leq 10^{\circ}$ (at 50% 1p; at 75% 2p; at 100% 3p) 3
 
 8
 
-1
-b
-Coefficiente di attrito radente statico $\mu_s$
+1 b
+Static sliding friction coefficient $\mu_s$
 Correct calculation 2
-Consistent uncertainty (semi-disp max or otherwise) 2
-The result: central value within 0,14 $\pm$ 0,2 (2p); within 0,14 $\pm$ 0,1 (+3p) 5
+Consistent uncertainty (half-range max or other) 2
+Result: central value within 0.14 $\pm$ 0.2 (2p); within 0.14 $\pm$ 0.1 (+3p) 5
 Correct expression with significant figures 1
 
 10
 
-1
-c
-Massima inclinazione per rotolamento puro $\theta_\text{max}$
-Results consistent with formula 2
+1 c
+Maximum inclination for pure rolling $\theta_\text{max}$
+Result consistent with the formula found 2
 Consistent uncertainty 2
 Correct expression with uncertainty and significant figures 1
 
-Procedure and Formula for calculating the maximum inclination
-The correct procedure (4) complete (2) clear (1) 7
-It is explained that $f \leq \mu_s\, mg \cos(\theta)$ (3) 3
+Procedure and Formula to calculate the maximum inclination
+Correct procedure (4) complete (2) clear (1) 7
+It is made explicit that $f \leq \mu_s\, mg \cos(\theta)$ (3) 3
 
 5
 
 10
 
-Total of 1: 33
+Total 1: 33
+
+2 a
+Fall height y
+"Reasonable" value 1
+Correct expression with uncertainty and with significant figures 1
 
 2
-a
-Height of fall y
-The value of the underlying asset shall be the sum of the underlying assets.
-Correct expression with uncertainty and significant figures 1
 
-2
-
-2
-b
-The following shall be added to the list of the following:
-Number of slope values (1 p for 5 values, max 3 p for 7 values or more) 3
-Number of detections of bandwidth: 0,5 p per detection (max 15 points) 15
-Range values consistent with trace sheets (6), excludes anomalous events (-3) 6
+2 b
+Range measurements - sliding
+Number of inclination values (1 p per 5 values, max 3 p for 7 values or more) 3
+Number of range measurements: 0.5 p per measurement (max 15 points) 15
+Range values consistent with the trace sheets (6), does not discard anomalous events (-3) 6
 Consistent uncertainties 3
-Correct writing in clear and orderly table 2
-Correct expression with significant uncertainties and figures (complex 1p) 1
+Correct writing in a clear and orderly table 2
+Correct expression with uncertainties and significant figures (overall 1p) 1
 
-The range
-Growth and decrease (1) maximum localised (1) 2
+Trend of the range
+It increases and decreases (1) localized maximum (1) 2
 
 30
 
 2
 
-2
-c
-The Commission shall adopt implementing acts.
-correct (4); complete + takes into account flight time (2+1); clear (1) 8
+2 c correct interpretation (4); complete + considers the flight time (2+1); clear (1) 8
 
 8
 
 Total 2: 40
 
-3
-a
-Selected inclination and motivation
-Inclination $\leq \theta_\text{max}$ for pure roll (only if there is a reasoned answer 1c) 2
-It is specified that slope $> \theta_\text{min}$ for slipping (see. The following table shows the following:
+3 a
+Chosen inclination and motivation
+Inclination $\leq \theta_\text{max}$ for pure rolling (only if answer 1c is motivated) 2
+States explicitly that inclination $> \theta_\text{min}$ for sliding (see table 2b) 1
 
 3
 
-3
-b
+3 b
 
-The following shall be added to the list of the following:
-Number of length values (1 p for 5 values, max 3 p for 7 values or more) 3
-Number of detections of ranges: 0,5 p per detection (max 10 points) 10
-Range values consistent with trace sheets (3), excludes anomalous events (-3) 6
+Range measurements - rolling
+Number of length values (1 p per 5 values, max 3 p for 7 values or more) 3
+Number of range readings: 0.5 p per reading (max 10 points) 10
+Range values consistent with the trace sheets (3), does not discard anomalous events (-3) 6
 Consistent uncertainties 3
-Correct writing in clear and orderly table 2
-Correct expression with uncertainties and significant figures 1
+Correct writing in a clear and orderly table 2
+Correct expression with uncertainties and with significant figures 1
 
-length l
-correctly detected and consistent with the data 4
+length l’ measured correctly and consistently with the data 4
 Correct expression with uncertainty and significant figures 1
 
 25
 
 5
 
-3
-c
-The following shall be added:
-valore centrale entro 0,14 $\pm$ 0,2 (3p); entro 0,14 $\pm$ 0,1 (+2p) 5
-consistent uncertainty 2
+3 c dynamic friction coefficient central value within 0.14 $\pm$ 0.2 (3p); within 0.14 $\pm$ 0.1 (+2p) 5 consistent uncertainty 2
 Correct expression with uncertainty and significant figures 1
 
-formula for its extraction
-The following is the list of the following:
+ formula to derive it correct reasoning (4) complete (2) clear (1) 7
 
 8
 
@@ -253,11 +237,8 @@ The following is the list of the following:
 
 Total 3: 48
 
-Total of 1, 2, 3: 121
+Total 1, 2, 3: 121
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1sfDVPrtnafBBBmCXAzqqthrjQ0qnvop6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FoCFP6lQWqg14UOqVlr0lGA6wGjKJEyG/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1FoCFP6lQWqg14UOqVlr0lGA6wGjKJEyG/view)
+
+

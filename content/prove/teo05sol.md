@@ -74,62 +74,43 @@ orbitano descrivendo i “riccioli”.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 1  Lunar triticus
+PROBLEM no. 1 – Lunar triptych
 100 points
 
-A  By the light of the moon. . .
+A — By moonlight. . .
 
-The luminous power of sunlight collected from the Moon (or from the Earth, which is located at about the same
-distance) is given by
-$$W_L = \Phi_S \pi r^2$$
-where $\Phi_S$ is the solar radiation flow at the distance between the Sun and the Earth-Moon system and $r$ is the Moon's radius.
-The power radiated by the Moon will then be $K W_L$ and the diffuse light flow that reaches the Earth, in the hypothesis
-isotropic diffusion, is
-$$\Phi_L = \frac{K W_L}{2\pi d^2} = \frac{K \Phi_S}{2\pi d^2} \pi r^2$$
-being $d$ the distance Earth to the Moon.
-The difference between the magnitude of the Sun and the full Moon is
-$$\Delta m = m_S - m_L = 2.5 \log \frac{\Phi_L}{\Phi_S} = 2.5 \log \frac{K r^2}{2 d^2} = 2.5 \log \frac{K(\delta/2)^2}{2} \quad\Rightarrow\quad K = \frac{8}{\delta^2} 10^{(0.4\,\Delta m)} = 0.23$$
-having radiantly expressed the angular diameter of the Moon: $\delta = 9.3 \times 10^{-3}$ rad .
-NOTE: The hypothesis of isotropy of the moonlight, introduced to simplify the problem, is that the moon is not a source of light.
-The resulting $K$ is an overestimation of the
-A factor of about 4.
+The luminous power of the sunlight collected by the Moon (or by the Earth, which is located at approximately the same distance) is given by
+$$W_L = \Phi_S \pi r^2$$ where $\Phi_S$ is the flux of solar radiation at the distance between the Sun and the Earth-Moon system and $r$ is the radius of the Moon.
+The power radiated by the Moon will then be $K W_L$ and the flux of scattered light that reaches the Earth, under the assumption of isotropic scattering, is
+$$\Phi_L = \frac{K W_L}{2\pi d^2} = \frac{K \Phi_S}{2\pi d^2} \pi r^2$$ where $d$ is the Earth-Moon distance.
+The difference in the magnitudes of the Sun and the full Moon is
+$$\Delta m = m_S - m_L = 2.5 \log \frac{\Phi_L}{\Phi_S} = 2.5 \log \frac{K r^2}{2 d^2} = 2.5 \log \frac{K(\delta/2)^2}{2} \quad\Rightarrow\quad K = \frac{8}{\delta^2} 10^{(0.4\,\Delta m)} = 0.23$$ having expressed the angular diameter of the Moon in radians: $\delta = 9.3 \times 10^{-3}$ rad .
+NOTE: The assumption of isotropy of the light scattered by the Moon, introduced for the purpose of simplifying the problem, is in fact decidedly incorrect; as a consequence of this, the coefficient $K$ thus obtained turns out to be overestimated by a factor of about 4.
 
-B  Moon orbit
+B — The lunar orbit
 
-Question No. 1.
-Consider, in any event, a moment when the satellite is on the conjunctive Sun and one of these. In
-In both cases, the trajectory is curved towards the planet.
-Since the direction of curvature of the trajectory coincides with the direction of force applied, it is necessary to
-The resulting force is directed towards the planet.
-These $F$ and $f$ modules of gravitational forces between the Sun and satellite and between planet and satellite must be
+Problem 1.
+In each case, consider an instant in which the satellite is on the Sun–planet line and between them. In both cases represented in the figure in the text, the trajectory has a curvature directed toward the planet.
+Since the direction of the curvature of the trajectory coincides with the direction of the applied force, it is necessary (and sufficient) that the resultant force be directed toward the planet.
+Letting $F$ and $f$ be the magnitudes of the gravitational forces between the Sun and the satellite and between the planet and the satellite, it must be
 $$\frac{f}{F} > 1 \quad\Rightarrow\quad \frac{G m\, m_\text{sat}}{r^2} \frac{R^2}{G M\, m_\text{sat}} = \mu \rho^2 > 1$$
-The orbit presents the constellations  if, at the point considered, the satellite's speed with respect to the Sun is in the opposite direction.
-a quella del pianeta; poiché tale velocità si ottiene come somma vettoriale della velocità $\vec{v}$ del satellite rispetto
-The planet and the planet's $\vec{V}$ relative to the Sun, the condition is expressed as $v > V$ or $v/V > 1$.
-Identifying the gravitational force with that centripede in the circular motion has
-$$\frac{m v^2}{r} = \frac{G M m}{r^2} \quad\Rightarrow\quad v = \sqrt{\frac{G M}{r}}$$
-And the condition above is expressed as
+The orbit exhibits “curls” if, at the point considered, the velocity of the satellite relative to the Sun has the opposite direction to that of the planet; since this velocity is obtained as the vector sum of the velocity $\vec{v}$ of the satellite relative to the planet and that, $\vec{V}$, of the planet relative to the Sun, the condition is expressed by setting $v > V$ or $v/V > 1$.
+Identifying the gravitational force with the centripetal force in circular motion, we have
+$$\frac{m v^2}{r} = \frac{G M m}{r^2} \quad\Rightarrow\quad v = \sqrt{\frac{G M}{r}}$$ and the condition given above is expressed as
 $$\frac{v}{V} = \sqrt{\frac{G m}{r}} \sqrt{\frac{R}{G M}} = \sqrt{\mu \rho} > 1 \quad\Rightarrow\quad \mu \rho > 1$$
-The following table shows the previous expressions and shows the corresponding trajectory type:
-Callistus and Titan oscillate around their respective planets with sinusoidal motion; I and Mimas
-They orbit by describing the "crossbars".
+In the table the preceding expressions are calculated and the corresponding type of trajectory is indicated: Phobos,
+Callisto and Titan oscillate around their respective planets with sinusoidal motion; Io and Mimas orbit describing the “curls”.
 
-| Pianeta | $\mu$ | Satellite | $\rho\ [10^3]$ | $\mu \rho^2$ | $\mu \rho$ | Traiettoria |
+| Planet | $\mu$ | Satellite | $\rho\ [10^3]$ | $\mu \rho^2$ | $\mu \rho$ | Trajectory |
 |---|---|---|---|---|---|---|
-| Terra | $3.04 \times 10^{-6}$ | Luna | 0.385 | 0.450 | $1.17 \times 10^{-3}$ | – |
-| Marte | $3.23 \times 10^{-7}$ | Phobos | 24.2 | 189 | $7.80 \times 10^{-3}$ | (a) |
-| Giove | $9.52 \times 10^{-4}$ | Io | 1.84 | $3.24 \times 10^3$ | 1.76 | (b) |
-I'm not going to be able to do this.
-| Saturno | $2.86 \times 10^{-4}$ | Mimas | 7.69 | $16.9 \times 10^3$ | 2.20 | (b) |
-You know, I'm not going to be able to do this.
+| Earth | $3.04 \times 10^{-6}$ | Moon | 0.385 | 0.450 | $1.17 \times 10^{-3}$ | – |
+| Mars | $3.23 \times 10^{-7}$ | Phobos | 24.2 | 189 | $7.80 \times 10^{-3}$ | (a) |
+| Jupiter | $9.52 \times 10^{-4}$ | Io | 1.84 | $3.24 \times 10^3$ | 1.76 | (b) |
+|  |  | Callisto | 0.413 | 162 | 0.393 | (a) |
+| Saturn | $2.86 \times 10^{-4}$ | Mimas | 7.69 | $16.9 \times 10^3$ | 2.20 | (b) |
+|  |  | Titan | 1.17 | 389 | 0.334 | (a) |
 
-**Topic:** [[Astrophysics]], [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2005 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/gravitation,topic/astrophysics,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
@@ -280,46 +261,30 @@ $$\frac{\pi}{4} S d^2 = \frac{3\pi}{8} \frac{D_S^2 R^2 \sigma T^4}{u^2} + \frac{
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 2  Solar engine
+PROBLEM no. 2 – Solar engine
 100 points
 
-Question No. 1.
-Because aberrations are ignored, the solar image is simply a disk whose diameter $a$ is bound to the
-the source from the magnification ratio of the mirror. The distance from the sun is such that it can take
-that the image is formed at the focal length $f$ of the mirror:
+Question no. 1.
+Since aberrations are neglected, the solar image is simply a disk whose diameter $a$ is related to that of the source by the magnification ratio of the mirror. The solar distance is such that one may assume that the image forms at the focal distance $f$ of the mirror:
 $$a = D_S \frac{f}{u} = \frac{D_S R}{2u} .$$
-If the mirror is kept properly oriented, the cylinder must therefore have a diameter of at least
-base pari ad $a$. With the data provided, $a = 9.27$ cm.
+If the mirror is kept correctly oriented, the cylinder must therefore have a base diameter of at least $a$. With the data provided, $a = 9.27$ cm.
 
-Question No. 2.
-The solar radiation inserts the mirror in an orthogonal direction, according to a circle of diameter $d$. The Power
-Arriving in this area is
-$$W_S = S \pi \frac{d^2}{4}$$
-And since there are no reflection losses on the mirror, this is also the optical power based on the
-The cylinder. With the data provided, $W_S = 45.2$ kW.
+Question no. 2.
+The solar radiation strikes the mirror, in a direction orthogonal to it, over a circle of diameter $d$. The power arriving on this area is
+$$W_S = S \pi \frac{d^2}{4}$$ and since there are no losses due to reflection on the mirror, this is also the optical power on the base of the cylinder. With the data provided, $W_S = 45.2$ kW.
 
-Question No. 3.
-The cylinder is a thermostat at $T$ in equilibrium between the input power $W_S$ and the
-Output power due partly to radiative losses and partly to absorbed thermal power $W_1$
-out of the car. Since the cylinder is metallic and its temperature is uniform, the radiant surface is the
-The total. The total surface area of the equilateral cylinder is
-$$2\pi \frac{a^2}{4} + \pi a^2 = \frac{3}{2} \pi a^2 ,$$
-So the radiative losses are
+Question no. 3.
+At steady state the cylinder constitutes a thermostat at temperature $T$ in equilibrium between the incoming power $W_S$ and the outgoing power, due in part to radiative losses and in the remaining part to the thermal power $W_1$ absorbed by the machine. Since the cylinder is metallic and its temperature is uniform, the radiating surface is the total one. The total surface of the equilateral cylinder is
+$$2\pi \frac{a^2}{4} + \pi a^2 = \frac{3}{2} \pi a^2 ,$$ therefore the radiative losses are
 $$\frac{3}{2} \pi \left( \frac{D_S R}{2u} \right)^2 \sigma T^4 .$$
-The power $W_1$ can be obtained by first calculating the yield, which is
+The power $W_1$ can be obtained by first calculating the efficiency, which is
 $$\eta = 0.3 \frac{T - T_0}{T} .$$
 If the mechanical power is $W$, then
 $$W_1 = \frac{W}{\eta} = \frac{W T}{0.3 (T - T_0)} .$$
-We have therefore in the end
+We therefore ultimately have that
 $$\frac{\pi}{4} S d^2 = \frac{3\pi}{8} \frac{D_S^2 R^2 \sigma T^4}{u^2} + \frac{W T}{0.3 (T - T_0)} .$$
 
-**Topic:** [[Thermodynamics]], [[Geometric Optics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Cylinder (object)|Cylinder]], [[Heat Engine (object)|Heat Engine]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2005 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/geometric-optics,argomento/meccanica,object/heat-engine,object/mirror,object/cylinder"></span>
@@ -508,29 +473,17 @@ $$V_0 = \frac{M g R}{2 B \ell} = 0.167\ \text{V}$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 3  Weight lifting
+PROBLEM no. 3 – Weight lifting
 100 points
 
-Question No. 1.
-Since the ring has negligible resistance, with the proposed connection the current will flow through all the arms
-from the centre to the periphery or from the periphery to the centre, depending on the polarity. The current intensity in each
-The radius is $i_0 = V_0/R$.
-The wire voltage tends to turn the wheel clockwise, so for balance, the moment of
-The magnetic force acting on the rays shall be oriented in the opposite direction. The magnetic force applied to each
-The arm is $\vec{F} = i\,\vec{\ell} \times \vec{B}$ where $\vec{\ell}$ is a vector oriented towards the current: this will then have to flow from the
-Turn to the wheel axle. So the battery pole connected to the axis will have to be the negative one.
-Since the magnetic force is evenly distributed, it can be considered as applied in the centre of each
-raggio, e il modulo del momento magnetico complessivo risulta quindi $4 B \ell i_0\, \tfrac{1}{2} \ell = 2 B i_0 \ell^2$.
-To obtain the balance it must therefore be $2 B i_0 \ell^2 = M g \ell$, from which it is obtained:
+Question no. 1.
+Since the rim has negligible resistance, with the proposed connection the current will flow in all the spokes from the center to the periphery or from the periphery to the center, depending on the polarity. The current intensity in each spoke is $i_0 = V_0/R$.
+The tension of the string tends to make the wheel rotate clockwise, therefore, in order to have equilibrium, the moment of the magnetic force acting on the spokes must be oriented in the opposite direction. The magnetic force applied to each spoke is $\vec{F} = i\,\vec{\ell} \times \vec{B}$ where $\vec{\ell}$ is a vector oriented in the direction of the current: this must therefore flow from the rim toward the axis of the wheel. Therefore the battery terminal connected to the axis must be the negative one.
+Since the magnetic force is uniformly distributed, it can be considered applied at the center of each spoke, and the magnitude of the total magnetic moment is therefore $4 B \ell i_0\, \tfrac{1}{2} \ell = 2 B i_0 \ell^2$.
+For equilibrium, therefore, we must have $2 B i_0 \ell^2 = M g \ell$, from which we obtain:
 $$V_0 = \frac{M g R}{2 B \ell} = 0.167\ \text{V}$$
 
-**Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Circuits]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Battery (object)|Battery]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2005 Nazionale Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/electromagnetic-induction,topic/magnetism,topic/circuits,argomento/meccanica,object/wheel"></span>
@@ -742,38 +695,26 @@ Liceo Scientifico “E. Medi” di Senigallia
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 6.
-As already mentioned, under constant speed conditions the momentum of the magnetic forces balances the momentum of the magnetic force.
-The voltage and current shall be $i_0$ as calculated in point 1 both up and down.
-The temperature change is proportional to the heat developed by the Joule effect and therefore proportional to the
-a $i^2$ e al periodo di rotazione. As a result, the heat in one spin will be higher when the speed is
-- What?
-Being
-$$\frac{v}{v'} = \frac{V - V_0}{V_0}$$
-for $V > 2 V_0$ the speed is higher up and the heating is higher down; for $2 V_0 < V < V_0$,
-As happens with assigned numeric values.
-NOTE: The problem was developed by Andrea Stefanini of the ITI. The Commission has not yet adopted a proposal for a regulation on the
-Olympia is very grateful for your cooperation.
+Problem no. 6.
+As already mentioned, under conditions of constant speed the torque of the magnetic forces balances the torque of the tension and therefore the current takes the value $i_0$ calculated in point 1 both going up and going down.
+The temperature variation is proportional to the heat developed by the Joule effect and therefore proportional to $i^2$ and to the rotation period. Consequently, the heating in one turn will be greater when the speed is lower.
+Since
+$$\frac{v}{v'} = \frac{V - V_0}{V_0}$$ for $V > 2 V_0$ the speed is greater going up and the heating is greater going down; vice versa for $2 V_0 < V < V_0$, as happens with the assigned numerical values.
+NOTE: The problem was developed from an idea by Andrea Stefanini of the I.T.I. of Livorno, to whom the Olympiad Group extends heartfelt thanks for the collaboration.
 Material produced by the group
-Olympic Games
-Project
-Olympic Project
-Italian Olympic Secretariat for Physics
-I'm a student at the University of Southern California. The death
-The Commission has already adopted a proposal for a regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to combat fraud.
+OLYMPIADS
+PROJECT
+OLYMPIAD PROJECT
+Secretariat of the Italian Physics Olympiads at Liceo Scientifico “U. Morin”
+VENEZIA MESTRE fax: 041.584.1272 e-mail: olifis@libero.it
 
-Zanichelli publisher
+ Zanichelli publisher
 
-The National Race is being held with the support of
-Ministry of Education, University and Research
+The National Competition is carried out with the support of
+Ministry of Education, Universities and Research
 Municipality of Senigallia
-High School of Science E. Medi of Senegal
+Liceo Scientifico “E. Medi” of Senigallia
 
-**Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1fK3L6uika0gScRj0cqfcTLsPwyxm_Una/view)
+
+

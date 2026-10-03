@@ -114,24 +114,12 @@ tra la lettera l (elle) e la cifra 1 (uno).
 <div class="qlang-split" data-lang="en"></div>
 
 Q3
-A cylinder of 2 L () volume and length of 40 cm contains a
-Perfect gas at a pressure of 100 kPa and divided into two parts
-equal to a piston of negligible thickness. The system is at a temperature.
-uniform and balanced.
-• If the piston is slowly moved to the right by 5 cm, keeping the temperature of the gas constant, which is, in the form, the
-The force of call acting on the piston?
+A cylinder with volume 2 L (∗) and length 40 cm contains a perfect gas at a pressure of 100 kPa and is divided into two equal parts by a piston of negligible thickness. The system is at uniform temperature and in equilibrium.
+• If the piston is slowly moved to the right by 5 cm, keeping the gas temperature constant, what is the magnitude of the restoring force acting on the piston?
 (∗)
-It should be recalled that since 1979 (by way of derogation from the Convention, which states that symbols beginning with a capital letter are only those which are
-The Commission has decided to adopt the capital letter L as the SI symbol for the litre to avoid any confusion.
-between the letter (s) and the number 1 (one).
+It is recalled that since 1979 (as a derogation from the convention according to which only symbols beginning with a capital letter are those derived from proper names) it was decided to adopt, as the SI symbol for the litre, also the capital L, to avoid a possible confusion between the letter l (ell) and the digit 1 (one).
 
-**Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2018 2° Livello — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -236,17 +224,11 @@ La resistenza di un filo conduttore è 1.78 $\Omega$; il filo viene tirato finch
 <div class="qlang-split" data-lang="en"></div>
 
 Q6
-La resistenza di un filo conduttore è 1.78 $\Omega$; il filo viene tirato finché la sua lunghezza aumenta dello
-0.9%, in an environment maintained at a constant temperature.
-• How much is the strength of the wire?
+The resistance of a conducting wire is 1.78 $\Omega$; the wire is stretched until its length increases by
+0.9%, in an environment kept at constant temperature.
+• What is the resistance of the stretched wire?
 
-**Topic:** [[Circuits]], [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2018 2° Livello — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/tank-container"></span>
@@ -441,45 +423,27 @@ al pianeta, si stacchi?
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-A grain of dust on a satellite
-The Commission shall adopt implementing acts in accordance with Article 22 of this Regulation.
-A satellite of radius a and mass m describes a circular orbit of radius r around a planet of
-M mass; planets and satellites are treated as spherical and homogeneous.
-The center of mass of the system can be considered to coincide with the center of the planet. The rotation periods
-The satellite revolution is identical, so the satellite always faces the planet the same way (as the satellite does).
-The moon is with the earth. The whole problem is neglecting the gravity of the star around which the planet orbits.
-1. The angular velocity of the satellite's revolutionary motion around the planet is calculated as a function of M and r.
-Consider a small mass body $\mu$ resting on the surface of the satellite,
-The closest point to the planet.
-2. The formula N of the normal force exerted by the surface of the
-Satellites on the body. The result is expressed as a function of $\mu$, M, m, r and a.
-3. What is the condition that the body must be verified in order to ensure that the body does not
-You're detached from the satellite's surface?
-If the satellite were too close to the planet, the tiny body would not be able to
-remain resting on the surface of the satellite.
-4. In the $a/r \ll 1$ hypothesis, the minimum orbital radius $r_0$ is calculated for which the
-The body does not detach from the satellite surface. The result is expressed
-In the function of M, m and a.
-Note: Please note that for $|x| \ll 1$ the approximation $(1 \pm x)^\alpha \approx (1 \pm \alpha x)$ can be used for any $\alpha$
-(also negative). The binomials $(r \pm a)^\alpha$ and $a \ll r$ can therefore be approximated by
+A speck of dust on a satellite
+Points 22
+A satellite of radius a and mass m moves in a circular orbit of radius r around a planet of mass M; treat the planet and the satellite as spherical and homogeneous.
+The center of mass of the system can be considered coincident with the center of the planet. The rotation and revolution periods of the satellite are identical, so that the satellite always faces the same side toward the planet (as the Moon does with the Earth). Throughout the problem, neglect the gravity of the star around which the planet orbits.
+1. Calculate, as a function of M and r, the angular velocity of the satellite's revolution around the planet.
+Consider a small body of mass $\mu$ resting on the surface of the satellite, at the point closest to the planet.
+2. Calculate the magnitude N of the normal force exerted by the surface of the satellite on the body. Express the result as a function of $\mu$, M, m, r and a.
+3. What is the condition that must be satisfied for the particle not to detach from the surface of the satellite?
+If the satellite were too close to the planet, the small body would not be able to remain resting on the surface of the satellite.
+4. Under the assumption $a/r \ll 1$, calculate the minimum orbital radius $r_0$ for which the particle does not detach from the surface of the satellite. Express the result as a function of M, m and a.
+Hint: remember that, for $|x| \ll 1$ one can use the approximation $(1 \pm x)^\alpha \approx (1 \pm \alpha x)$ for any $\alpha$ (even negative). Consequently, the binomials $(r \pm a)^\alpha$ with $a \ll r$ can be approximated by setting
 $r \pm a = r\,(1 \pm a/r)$
-5. What is the minimum radius at which a small spherical satellite of density could orbit the Earth?
-equal to $(2.49 \pm 0.01) \times 10^3\ \text{kg m}^{-3}$ without a body resting on its surface at the nearest point
-The planet, are you breaking up?
+5. What is the minimum radius at which a small spherical satellite of density equal to $(2.49 \pm 0.01) \times 10^3\ \text{kg m}^{-3}$ could orbit around the Earth without a body resting on its surface, at the point closest to the planet, detaching?
 ———————————
 
 <!--fig:start-->
 ![[_attachments/2liv18T/2liv18T_p6_f1.png]]
-*Satellite orbiting a planet*
+*Satellite orbiting around a planet*
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2018 2° Livello — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/rope-string"></span>
@@ -518,31 +482,19 @@ dell’altezza h e della velocità $v_0$ alla base della corda.
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-Waves on vertical rope
-The Commission shall adopt implementing acts in accordance with Article 16 (1) of this Regulation.
-The speed of the transverse waves on a stretched string depends on the F voltage, the density $\rho$ of the
-material and from the cross section area A, thus
+Waves on a vertical string
+16 points
+The speed of transverse waves on a stretched string depends on the tension F, on the density $\rho$ of the material and on the cross-sectional area A, in this way
 $$v = \sqrt{\frac{F}{\rho A}}.$$
-1. To obtain this expression of speed from dimensional considerations alone, knowing that the numerical factor
-dimensional is equal to 1.
-The first is that the data is not only a dimensional check of the given expression, but also a
-How can such a relationship be found?
-A non-negligible mass rope and uniform section is stretched vertically between two fixed points at the ceiling and the
-floor; either $F_0$ the voltage module at the lower end.
-2. The expression of the tension of the rope in relation to the height h, measured from the end
-lower.
-3. The expression of the speed at which a transverse pulse propagates over this rope, as a function of the
-the h height and the speed $v_0$ at the base of the rope.
-4. The acceleration of the pulse is calculated by indicating the direction.
+1. Derive this expression for the speed from dimensional considerations alone, knowing that the dimensionless numerical factor is equal to 1.
+NOTE: you are not asked to simply perform a dimensional check of the given expression, but to show how this relation can be found.
+A string of non-negligible mass and uniform cross-section is stretched vertically between two fixed points at the ceiling and at the floor; let $F_0$ be the magnitude of the tension at the lower end.
+2. Find the expression for the tension of the string as a function of the height h, measured starting from the lower end.
+3. Find the expression for the speed with which a transverse pulse propagates on this string, as a function of the height h and of the speed $v_0$ at the base of the string.
+4. Calculate the acceleration of the pulse, also indicating its direction.
 ———————————
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2018 2° Livello — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/electrostatics,topic/conservation-of-energy,topic/rotational-dynamics,argomento/meccanica,object/capacitor,object/rope-string"></span>
@@ -603,32 +555,19 @@ $m = 5$ g.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Other, of a kind used for the manufacture of goods of heading 8106
-The Commission shall adopt implementing acts in accordance with Article 22 of this Regulation.
-Consider a flat-sided condenser whose frames are in the form of R-ray semicircles, at a distance
-$d = \eta R$ with $\eta \ll 1$: the two frames are in the air $(\epsilon_r \approx 1)$.
-One of the two frames is fixed and is arranged with the horizontal diameter,
-whereas the other, m in mass, can rotate at an angle $\theta$ around an axis
-perpendicular to the face and passing through the centre of circle C.
-Since the distance d between the armour is much less than the radius R of these,
- can be considered with sufficient approximation  that, when the capacitor is
-The electric field between the frames is not zero only in the
-having two surfaces facing each other, perpendicular to the armour, and
-uniforms.
-1. Determine the capacitance of the capacitor according to the $\theta$, R and $\eta$ angles.
-2. If the capacitor is charged with an F.E.M. generator, $V_0$ at the position $\theta = 0$, and subsequently isolated, which is the electrostatic energy $U_\text{es}$ stored in the capacitor at the angle $\theta$
-in the range $[-\pi/2; \pi/2]$ ? Schematically represent the $U_\text{es}(\theta)$ function in a graph.
-3. Using the previous answer, explain why the moving capacitor armor remains in balance
-only for $\theta = 0$ whether the capacitor is loaded or discharged.
-The mobile armor is now fixed with a thin wire to which a
-body mass m equal to that of the armor, as shown in Figure 1.
-4. Determine the $\theta_0$ equilibrium angle of the system when the capacitor is
-It is discharged, knowing that the center of mass of a semicircle is at
-distance $h = 4R/(3\pi)$ from the centre of the circle.
-5. Explain why, if the capacitor is loaded, the equilibrium position is
-has for an angle $\theta^\star$ less than $\theta_0$ found in the previous point.
-6. In the particular case of a capacitor described by the values given here
-The total energy of the system from the position is calculated.
+Semicircular capacitor
+Points 22
+Consider a parallel-plate capacitor whose plates have the shape of semicircles of radius R, at a distance
+$d = \eta R$ with $\eta \ll 1$: the two plates are in air $(\epsilon_r \approx 1)$.
+One of the two plates is fixed and is arranged with its diameter horizontal, while the other, of mass m, can rotate by an angle $\theta$ around an axis perpendicular to the face and passing through the center of the circle C.
+Since the distance d between the plates is much smaller than their radius R, one may assume – with sufficient approximation – that, when the capacitor is charged, the electric field between the plates is nonzero only in the part where the two surfaces face each other, that it is perpendicular to the plates and uniform.
+1. Determine the capacitance of the capacitor as a function of the angle $\theta$, of R and of $\eta$.
+2. If the capacitor is charged with a generator of emf $V_0$ in the position $\theta = 0$, and subsequently isolated, what is the electrostatic energy $U_\text{es}$ stored in the capacitor as a function of the angle $\theta$ in the interval $[-\pi/2; \pi/2]$ ? Represent schematically in a graph the function $U_\text{es}(\theta)$.
+3. Using the previous answer, explain why the movable plate of the capacitor remains in equilibrium only for $\theta = 0$ whether the capacitor is charged or uncharged.
+A thin wire is now attached to the movable plate, to which a body of mass m equal to that of the plate is hung, as shown in the figure.
+4. Determine the equilibrium angle $\theta_0$ of the system when the capacitor is uncharged, knowing that the center of mass of a semicircle is located at a distance $h = 4R/(3\pi)$ from the center of the circle.
+5. Explain why, if the capacitor is charged, the equilibrium position occurs at an angle $\theta^\star$ smaller than $\theta_0$ found in the previous point.
+6. In the particular case of a capacitor described by the values given below, and calculating the total energy of the system starting from the position
 $\theta_0$ with step equal to $1^\circ$, estimate the value of $\theta^\star$.
 $R = 25$ cm;
 $\eta = 0.004$;
@@ -636,16 +575,13 @@ $V_0 = 1500$ V;
 $m = 5$ g.
 <!--fig:start-->
 ![[_attachments/2liv18T/2liv18T_p7_f2.png]]
-*Semi-circular flat surface capacitor *
+*Flat capacitor with semicircular faces*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2liv18T/2liv18T_p7_f3.png]]
-*Wire and suspended mass capacitor*
+*Capacitor with wire and hanging mass*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Conservation of Energy]], [[Rotational Dynamics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1-BBSCFd9iT4X1HzKrHQp1t3vkoJwA-Fj/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1na4-ZfY22DZFXcDsqh0HOZI4fiGnQToq/view)
+
+

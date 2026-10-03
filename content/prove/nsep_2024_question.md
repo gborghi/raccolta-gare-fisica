@@ -1357,20 +1357,14 @@ A cylindrical tank with base area $A = 0.05$ m$^2$ is filled with water up to a 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un serbatoio cilindrico con superficie di base $A = 0.05$ m$^2$ è riempito di acqua fino a una altezza $H = 50$ cm. Nella parte inferiore del serbatoio si trova un piccolo buco di superficie $a = 0.001$ m$^2$ ($a \ll A$). It takes time $t$ to empty the tank up to a height $\dfrac{H}{2}$ (i.e. per svuotare metà del volume d'acqua). Il tempo aggiuntivo necessario per svuotare completamente il serbatoio è
+Un serbatoio cilindrico con area di base $A = 0.05$ m$^2$ è riempito d'acqua fino a un'altezza $H = 50$ cm. C'è un piccolo foro di area $a = 0.001$ m$^2$ ($a \ll A$) sul fondo del serbatoio. Impiega un tempo $t$ per svuotare il serbatoio fino a un'altezza $\dfrac{H}{2}$ (cioè per svuotare metà del volume d'acqua). Il tempo aggiuntivo necessario per svuotare completamente il serbatoio è
 
 - (a) $t$
 - (b) $t\sqrt{2}$
 - (c) $t\,(\sqrt{2} - 1)$
 - (d) $t\,(\sqrt{2} + 1)$
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/139gpOf-0CPzL--V4WXPVuqppCetoyAVZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1BxjJTWOxVfS5Aq5pMVXoHdsahhlV8sdg/view)
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="NSEP 2024 — Problema 25" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/wire"></span>
@@ -1809,20 +1803,14 @@ An amount of heat equal to 10.61 J is given to an ideal gas at constant pressure
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un calore pari a 10,61 J viene assegnato a un gas ideale a pressione costante di un atm. As a result its temperature rises by 4 K and its volume increases by 30.0 cm$^3$. Il gas è
+A una quantità di gas ideale viene fornita una quantità di calore pari a 10,61 J a pressione costante di un'atm. Di conseguenza la sua temperatura aumenta di 4 K e il suo volume aumenta di 30,0 cm$^3$. Il gas è
 
-- a) monoatomica
-- b) diatomica
-- (c) triatomica
-- d) miscela di monoatomi e di diatomi
+- (a) monoatomico
+- (b) biatomico
+- (c) triatomico
+- (d) miscela di monoatomico e biatomico
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/139gpOf-0CPzL--V4WXPVuqppCetoyAVZ/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1BxjJTWOxVfS5Aq5pMVXoHdsahhlV8sdg/view)
-
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="NSEP 2024 — Problema 31" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/projectile"></span>

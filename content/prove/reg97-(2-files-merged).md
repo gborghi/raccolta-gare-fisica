@@ -47,35 +47,29 @@ Gara Regionale del 22 febbraio 1997 — Parte Prima (10 quesiti, 4 punti ciascun
 
 <div class="qlang-split" data-lang="en"></div>
 
-Regional competition of 22 February 1997  Part One (10 questions, 4 points each).
+Regional Competition of 22 February 1997 — Part One (10 questions, 4 points each).
 
-**Quesito 1.** Un oggetto pesante è legato ad un filo inestensibile di lunghezza $\ell = 2\text{ m}$ fissato ad un supporto. The wire is stretched horizontally and the object dropped. If the maximum tolerable voltage is $210\text{ N}$, what is the maximum mass of the object without the wire tearing? ($g = 10\text{ m s}^{-2}$)
+**Question 1.** A heavy object is tied to an inextensible string of length $\ell = 2\text{ m}$ fixed to a support. The string is stretched horizontally and the object is let fall. If the maximum tension it can withstand is $210\text{ N}$, what can the maximum mass of the object be without the string breaking? ($g = 10\text{ m s}^{-2}$)
 
-**Quesito 2.** Una macchina termica ideale opera tra $T_c > T_f$. The temperature difference is to be increased by $\Delta T$, or increased by $T_c$ (with $T_f$ constant) or decreased by $T_f$ (with $T_c$ constant). Is the increase in yield the same in both cases? Justify it.
+**Question 2.** An ideal heat engine operates between $T_c > T_f$. One wants to increase $\Delta T$ the temperature difference, either by increasing $T_c$ (with $T_f$ constant) or by decreasing $T_f$ (with $T_c$ constant). Is the increase in efficiency the same in the two cases? Justify.
 
-**Quesito 3.** Una particella con carica $q = 2\text{ pC}$ si divide in due parti. Determine (module, direction, direction) the electrostatic forces on each side when they are $1\text{ mm}$ in the vacuum, if on one is $q_1 = +3\text{ pC}$.
+**Question 3.** A particle with charge $q = 2\text{ pC}$ splits into two parts. Determine (magnitude, direction, sense) the electrostatic forces on each part, when they are at distance $1\text{ mm}$ in vacuum, if on one it is $q_1 = +3\text{ pC}$.
 
-**Quesito 4.** Onde sonore di frequenza costante sono riflesse da uno schermo piano perpendicolare. If the screen is removed, a maximum of $22{,}5\text{ cm}$ from the microphone is observed and, after ten more maxims, a maximum of $36{,}5\text{ cm}$. Determine the wavelength.
+**Question 4.** Sound waves of constant frequency are reflected by a flat perpendicular screen. Moving the screen away, a maximum is observed at $22{,}5\text{ cm}$ from the microphone and, after another ten maxima, a maximum at $36{,}5\text{ cm}$. Determine the wavelength.
 
-**Quesito 5.** Un raggio incide con angolo $75°$ nel centro di una faccia di un prisma cubico di vetro ($n = 1{,}5$). Determine from which side and angle the beam emerges.
+**Question 5.** A ray strikes with angle $75°$ at the center of a face of a cubic glass prism ($n = 1{,}5$). Determine from which face and with what angle the ray emerges.
 
-**Quesito 6.** Un'asta omogenea $LM$ di massa $1{,}0\text{ kg}$ e lunga $40\text{ cm}$ è incernierata in $L$ e può ruotare in un piano verticale; all'altro estremo è retta da una molla fissata in $X$. At equilibrium the axis shall be $30°$ with the horizontal and $90°$ with the spring axis. Calculate the length of the spring ($k = 250\text{ N m}^{-1}$).
+**Problem 6.** A uniform rod $LM$ of mass $1{,}0\text{ kg}$ and length $40\text{ cm}$ is hinged at $L$ and can rotate in a vertical plane; at the other end it is held by a spring fixed at $X$. At equilibrium the rod makes an angle $30°$ with the horizontal and $90°$ with the axis of the spring. Calculate the extension of the spring ($k = 250\text{ N m}^{-1}$).
 
-**Quesito 7.** Tre resistori $R_1 > R_2 > R_3$ vanno connessi (uno in serie al parallelo degli altri due) per ottenere la massima resistenza equivalente. Show them how to insert them and explain why.
+**Problem 7.** Three resistors $R_1 > R_2 > R_3$ must be connected (one in series with the parallel combination of the other two) to obtain the maximum equivalent resistance. Show how to insert them and explain why.
 
-**Quesito 8.** Uno specchio concavo produce un'immagine reale ingrandita 4 volte se l'oggetto è a $12{,}5\text{ cm}$ dal centro ottico. In what other position does the object give an image with the same magnification?
+**Problem 8.** A concave mirror produces a real image magnified 4 times if the object is at $12{,}5\text{ cm}$ from the optical center. At what other position does the object give an image with the same magnification?
 
-**Question 9.** In dry air discharge is performed if the field exceeds dielectric stiffness $E_0 = 20\text{ kV cm}^{-1}$. What is the maximum charge on a sphere of radius $r = 100\text{ m}$? ($\varepsilon_r = 1{,}00$)
+**Problem 9.** In dry air there is a discharge if the field exceeds the dielectric strength $E_0 = 20\text{ kV cm}^{-1}$. What is the maximum charge on a sphere of radius $r = 100\text{ m}$? ($\varepsilon_r = 1{,}00$)
 
-**Question 10.** One object falls from a height $h$ and at the same time another object is thrown from the ground upwards on the same vertical with speed $v_0$. What's the condition for them to collide before the second one returns to the ground?
+**Problem 10.** An object falls from a height $h$ and, simultaneously, another is launched from the ground upward along the same vertical with speed $v_0$. What is the condition for them to collide before the second returns to the ground?
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Electrostatics]], [[Oscillations & Waves]], [[Geometric Optics]], [[Circuits]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Prism (object)|Prism]], [[Rod (object)|Rod]], [[Spring (object)|Spring]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dwyXxNr8PIWnz9BVSex7UshTxyflJnep/view)
 
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="OII 1997 2° Livello Teorica — reg97 (2 files merged).pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/rope-string"></span>

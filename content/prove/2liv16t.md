@@ -39,25 +39,15 @@ che il piano esercita sulla massa M ?
 <div class="qlang-split" data-lang="en"></div>
 
 Q1
-In the system shown in the figure, which is in equilibrium, the angle $\alpha$ is $30^\circ$, the angle $\alpha$ is $30^\circ$.
-The mass of the suspension is $m = M/2$ and the friction coefficient
-The mass of the plane is $\mu_s$; the mass of the plane is $\mu_s$.
-The wire can be neglected.
-• What is the value of the force of friction in the form
-What plan does the M-mass have ?
+In the system shown in the figure, which is in equilibrium, the angle $\alpha$ is $30^\circ$, the suspended mass is $m = M/2$ and the coefficient of static friction between the mass M and the plane is $\mu_s$; the mass of the string can be neglected.
+• What is the magnitude of the friction force that the plane exerts on the mass M?
 
 <!--fig:start-->
 ![[_attachments/2liv16T/2liv16T_p3_f1.png]]
-*sloping plane with carriage and mass*
+*inclined plane with pulley and mass*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2016 2° Livello — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/spring,object/block"></span>
@@ -249,22 +239,13 @@ quella del rame $m_r = 100$ g.
 <div class="qlang-split" data-lang="en"></div>
 
 Q6
-In a heat-insulated calorimeter, water is in thermal equilibrium with the container at a temperature of
-temperatura $T_a$.
-A copper bulk at $T_r$ and ice at $T_r$ is introduced into the
-temperatura $T_g$. The system is brought to equilibrium at $T_{eq}$.
-The following dates are given: $T_a = 40\ ^\circ\text{C}$, $T_r = 100\ ^\circ\text{C}$, $T_g = -20\ ^\circ\text{C}$ and $T_{eq} = 25\ ^\circ\text{C}$.
-The heat capacity of the calorimeter $C = 184\ \text{J K}^{-1}$, the ice mass $m_g = 25$ g are also known and
-the copper $m_r = 100$ g.
-• Calculate the initial water mass in the calorimeter.
+In a thermally insulated calorimeter, some water is in thermal equilibrium with the container at a temperature $T_a$.
+A copper ingot at temperature $T_r$ and some ice at temperature $T_g$ are introduced into it. The system reaches equilibrium at temperature $T_{eq}$.
+Given: $T_a = 40\ ^\circ\text{C}$, $T_r = 100\ ^\circ\text{C}$, $T_g = -20\ ^\circ\text{C}$ and $T_{eq} = 25\ ^\circ\text{C}$.
+Also known are the heat capacity of the calorimeter $C = 184\ \text{J K}^{-1}$, the mass of ice $m_g = 25$ g and that of the copper $m_r = 100$ g.
+• Calculate the mass of water initially present in the calorimeter.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2016 2° Livello — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -443,35 +424,22 @@ un unico specchio sferico. Dev’essere concavo o convesso? Quale dev’essere i
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-A mirrored lens
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-On an optical bench there is a thin convergent lens of 20 cm focal length and an object of
-Height h, positioned 32.9 cm from the lens.
-A reference system shall be fixed along the optical axis of the lens originating in the source position.
-oriented so that the lens is on the x > 0 semi-axis.
-1. What is the position of the image of the object in the chosen reference system? Is it real or virtual? The right
-Or the other way around? What is enlargement?
-On the same optical bench, at a distance $d = 30$ cm from the lens and the side opposite the object,
-Place a flat mirror, facing the lens. The mirror is perpendicular to the optical axis of the lens.
-The lens+mirror system now forms two images of the object. One is the one formed by the reflected rays.
-From the flat mirror.
-2. What is the $x_1$ coordinate of this first image in the selected reference system? Is it real or virtual?
-Right or wrong?
-This first image is a source for the lens, which provides a second.
-3. What is the $x_2$ coordinate of the second image?
+A lens to the mirror
+20 points
+On an optical bench there are a thin converging lens with a focal length of 20 cm and an object of height h, placed 32.9 cm from the lens.
+Let a reference frame be fixed along the optical axis of the lens with its origin at the position of the source, oriented so that the lens is on the half-axis x > 0.
+1. What is, in the chosen reference frame, the position of the image of the object? Is it real or virtual? Upright or inverted? What is the magnification?
+On the same optical bench, at a distance $d = 30$ cm from the lens and on the opposite side with respect to the object, a plane mirror is placed, facing the lens. The mirror is perpendicular to the optical axis of the lens.
+The lens+mirror system now forms two images of the object. A first one is that formed by the rays reflected by the plane mirror.
+2. What is, in the chosen reference frame, the coordinate $x_1$ of this first image? Is it real or virtual?
+Upright or inverted?
+This first image in turn constitutes a source for the lens, which provides a second one.
+3. What is the coordinate $x_2$ of the second image?
 Is it real or virtual?
-It is straight or upside down (respective of
-the subject)? What is its magnification (always relative to the object)?
-4. You want to get the first of these two images, in the same position and with the same characteristics, with
-A single spherical mirror. Must it be concave or convex? What should be its radius of curvature?
+Is it upright or inverted (with respect to the object)? What is its magnification (again with respect to the object)?
+4. One wants to obtain the first of these two images, in the same position and with the same characteristics, with a single spherical mirror. Must it be concave or convex? What must its radius of curvature be?
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2016 2° Livello — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/cart"></span>
@@ -515,36 +483,22 @@ con la rotaia?
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-On the eight-volt
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A mass cart m is resting on a rail that
-has negligible friction and is launched at $v_0$ from the point of maximum
-low, as shown in the figure. The railway consists of two arches of
-a circle of equal radius R on a vertical plane, connected at the point
-P. Sia $\alpha$ l’angolo che la normale comune ai due archi di circonferenza
-the point of contact form with the vertical (v. The Commission has not yet adopted a proposal.
-You want the cart to get to the top without detachment.
-Never from the railroad.
-1. Assuming the cart can reach the highest point without
-The railway is not a railway, but a railway is a railway.
-minimum initial speed $v_0$ to be achieved?
-2. It is shown that if the cart is detached from the rail, this happens just after the point P.
-3. What condition must the initial speed $v_0$ satisfy so that the cart does not detach?
-4. For which values of the angle $\alpha$ it is not possible for the cart to reach the highest point while maintaining contact
-With the railroad?
+On the Roller Coaster
+Points 20
+A cart of mass m is placed on a track with negligible friction and launched with speed $v_0$ from the lowest point, as shown in the figure. The track consists of two equal circular arcs of radius R in a vertical plane, joined at point
+P. Let $\alpha$ be the angle that the common normal to the two circular arcs at the joining point makes with the vertical (see figure).
+The cart is required to reach the highest point without ever leaving the track.
+1. Assuming that the cart can reach the highest point without leaving the track, what is – in terms of the given data – the minimum initial speed $v_0$ it must have?
+2. Show that, if the cart leaves the track, this happens just after passing point P.
+3. What condition must the initial speed $v_0$ satisfy so that the cart does not leave the track?
+4. For which values of the angle $\alpha$ is it impossible for the cart to reach the highest point while maintaining contact with the track?
 
 <!--fig:start-->
 ![[_attachments/2liv16T/2liv16T_p6_f3.png]]
-*carriage on curved rail with point P*
+*cart on curved track with point P*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2016 2° Livello — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/electrostatics,topic/conservation-of-energy,argomento/meccanica,object/point-charge"></span>
@@ -629,77 +583,19 @@ alla carica sull’anello.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Electrical ring
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-A charge $Q = +1.5$ nC is distributed over a thin conductive ring of radius $r = 10$ cm. A charge particle $q = +3.2 \times 10^{-19}$ C
-is thrown towards the centre of the ring from a point P, placed on the axis of
-This, at a distance $d = 2$ m. It is observed that the particle can pass through the centre of the ring only if it has a speed $\vec{v}_0$ of more than
+Electric ring
+10 points
+A charge of $Q = +1.5$ nC is distributed on a thin conducting ring of radius $r = 10$ cm. A particle with charge $q = +3.2 \times 10^{-19}$ C is launched toward the center of the ring from a point P, located on the axis of the ring, at a distance $d = 2$ m. It is observed that the particle manages to pass through the center O of the ring only if it has a speed $\vec{v}_0$ with magnitude greater than
 $1.11 \times 10^5\ \text{m s}^{-1}$.
-1. Indicating by x the distance of a point of the axis from the centre of the ring, calculate the potential $V(x)$ due
-The charge on the ring.
+1. Denoting by x the distance of a point on the axis from the center of the ring, calculate the potential $V(x)$ due to the charge on the ring.
 2. Calculate the mass of the particle.
 
 <!--fig:start-->
-
-
-<figure class="tikz-fig">
-<!-- This file was generated by dvisvgm 3.2.2 -->
-<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='201.029939pt' height='68.56693pt' viewBox='-68.01563 -64.91068 201.029939 68.56693'>
-<defs>
-<path id='g0-81' d='M4.363636-.059776C5.907846-.647572 7.372354-2.420922 7.372354-4.343711C7.372354-5.947696 6.316314-7.023661 4.83188-7.023661C2.67995-7.023661 .488169-4.762142 .488169-2.440847C.488169-.787049 1.603985 .219178 3.038605 .219178C3.287671 .219178 3.626401 .179328 4.014944 .069738C3.975093 .687422 3.975093 .707347 3.975093 .836862C3.975093 1.155666 3.975093 1.932752 4.801993 1.932752C5.987547 1.932752 6.465753 .109589 6.465753 0C6.465753-.069738 6.396015-.099626 6.356164-.099626C6.276463-.099626 6.256538-.049813 6.236613 .009963C5.997509 .71731 5.419676 .966376 5.070984 .966376C4.612702 .966376 4.463263 .697385 4.363636-.059776ZM2.480697-.139477C1.703611-.448319 1.364882-1.225405 1.364882-2.122042C1.364882-2.809465 1.62391-4.224159 2.381071-5.300125C3.108344-6.316314 4.044832-6.774595 4.772105-6.774595C5.768369-6.774595 6.495641-5.997509 6.495641-4.662516C6.495641-3.666252 5.987547-1.334994 4.313823-.398506C4.26401-.747198 4.164384-1.474471 3.437111-1.474471C2.909091-1.474471 2.420922-.976339 2.420922-.458281C2.420922-.259029 2.480697-.14944 2.480697-.139477ZM3.098381-.029888C2.958904-.029888 2.6401-.029888 2.6401-.458281C2.6401-.856787 3.01868-1.255293 3.437111-1.255293S4.044832-1.016189 4.044832-.408468C4.044832-.259029 4.034869-.249066 3.935243-.209215C3.676214-.099626 3.377335-.029888 3.098381-.029888Z'/>
-<path id='g0-113' d='M4.503113-4.293898C4.503113-4.333748 4.473225-4.393524 4.403487-4.393524C4.293898-4.393524 3.895392-3.995019 3.726027-3.706102C3.506849-4.244085 3.118306-4.403487 2.799502-4.403487C1.62391-4.403487 .398506-2.929016 .398506-1.484433C.398506-.508095 .986301 .109589 1.713574 .109589C2.141968 .109589 2.530511-.129514 2.889166-.488169C2.799502-.139477 2.470735 1.205479 2.440847 1.295143C2.361146 1.574097 2.281445 1.613948 1.723537 1.62391C1.594022 1.62391 1.494396 1.62391 1.494396 1.823163C1.494396 1.833126 1.494396 1.932752 1.62391 1.932752C1.942715 1.932752 2.291407 1.902864 2.620174 1.902864C2.958904 1.902864 3.317559 1.932752 3.646326 1.932752C3.696139 1.932752 3.825654 1.932752 3.825654 1.733499C3.825654 1.62391 3.726027 1.62391 3.566625 1.62391C3.088418 1.62391 3.088418 1.554172 3.088418 1.464508C3.088418 1.39477 3.108344 1.334994 3.128269 1.24533L4.503113-4.293898ZM1.743462-.109589C1.145704-.109589 1.105853-.876712 1.105853-1.046077C1.105853-1.524284 1.39477-2.610212 1.564134-3.028643C1.872976-3.765878 2.391034-4.184309 2.799502-4.184309C3.447073-4.184309 3.58655-3.377335 3.58655-3.307597C3.58655-3.247821 3.038605-1.066002 3.008717-1.026152C2.859278-.747198 2.30137-.109589 1.743462-.109589Z'/>
-<path id='g0-118' d='M4.662516-3.706102C4.662516-4.244085 4.403487-4.403487 4.224159-4.403487C3.975093-4.403487 3.73599-4.144458 3.73599-3.92528C3.73599-3.795766 3.785803-3.73599 3.895392-3.626401C4.104608-3.427148 4.234122-3.16812 4.234122-2.809465C4.234122-2.391034 3.626401-.109589 2.460772-.109589C1.952677-.109589 1.723537-.458281 1.723537-.976339C1.723537-1.534247 1.992528-2.261519 2.30137-3.088418C2.371108-3.257783 2.420922-3.39726 2.420922-3.58655C2.420922-4.034869 2.102117-4.403487 1.603985-4.403487C.667497-4.403487 .288917-2.958904 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.789539 .56787-2.948941C.856787-3.955168 1.285181-4.184309 1.574097-4.184309C1.653798-4.184309 1.823163-4.184309 1.823163-3.865504C1.823163-3.616438 1.723537-3.347447 1.653798-3.16812C1.215442-2.012453 1.085928-1.554172 1.085928-1.125778C1.085928-.049813 1.96264 .109589 2.420922 .109589C4.094645 .109589 4.662516-3.188045 4.662516-3.706102Z'/>
-<path id='g0-120' d='M3.327522-3.008717C3.387298-3.267746 3.616438-4.184309 4.313823-4.184309C4.363636-4.184309 4.60274-4.184309 4.811955-4.054795C4.533001-4.004981 4.333748-3.755915 4.333748-3.516812C4.333748-3.35741 4.443337-3.16812 4.712329-3.16812C4.931507-3.16812 5.250311-3.347447 5.250311-3.745953C5.250311-4.26401 4.662516-4.403487 4.323786-4.403487C3.745953-4.403487 3.39726-3.875467 3.277709-3.646326C3.028643-4.303861 2.49066-4.403487 2.201743-4.403487C1.165629-4.403487 .597758-3.118306 .597758-2.86924C.597758-2.769614 .697385-2.769614 .71731-2.769614C.797011-2.769614 .826899-2.789539 .846824-2.879203C1.185554-3.935243 1.843088-4.184309 2.181818-4.184309C2.371108-4.184309 2.719801-4.094645 2.719801-3.516812C2.719801-3.20797 2.550436-2.540473 2.181818-1.145704C2.022416-.52802 1.673724-.109589 1.235367-.109589C1.175592-.109589 .946451-.109589 .737235-.239103C.986301-.288917 1.205479-.498132 1.205479-.777086C1.205479-1.046077 .986301-1.125778 .836862-1.125778C.537983-1.125778 .288917-.86675 .288917-.547945C.288917-.089664 .787049 .109589 1.225405 .109589C1.882939 .109589 2.241594-.587796 2.271482-.647572C2.391034-.278954 2.749689 .109589 3.347447 .109589C4.373599 .109589 4.941469-1.175592 4.941469-1.424658C4.941469-1.524284 4.851806-1.524284 4.821918-1.524284C4.732254-1.524284 4.712329-1.484433 4.692403-1.414695C4.363636-.348692 3.686177-.109589 3.367372-.109589C2.978829-.109589 2.819427-.428394 2.819427-.767123C2.819427-.986301 2.879203-1.205479 2.988792-1.643836L3.327522-3.008717Z'/>
-<path id='g0-126' d='M5.349938-5.927771C5.210461-5.798257 4.881694-5.519303 4.881694-5.339975C4.881694-5.240349 4.98132-5.140722 5.080946-5.140722C5.17061-5.140722 5.220423-5.210461 5.270237-5.270237C5.389788-5.419676 5.618929-5.69863 6.057285-5.917808C6.127024-5.957659 6.22665-6.007472 6.22665-6.127024C6.22665-6.22665 6.156912-6.276463 6.087173-6.326276C5.867995-6.475716 5.758406-6.655044 5.678705-6.894147C5.65878-6.983811 5.618929-7.113325 5.479452-7.113325S5.280199-6.983811 5.280199-6.90411C5.280199-6.854296 5.3599-6.535492 5.519303-6.326276H2.161893C1.992528-6.326276 1.8132-6.326276 1.8132-6.127024S1.992528-5.927771 2.161893-5.927771H5.349938Z'/>
-<path id='g1-79' d='M7.183064-3.377335C7.183064-5.409714 5.678705-7.023661 3.865504-7.023661C2.082192-7.023661 .557908-5.429639 .557908-3.377335C.557908-1.334994 2.092154 .219178 3.865504 .219178C5.678705 .219178 7.183064-1.364882 7.183064-3.377335ZM3.875467-.039851C2.919054-.039851 1.58406-.916563 1.58406-3.516812C1.58406-6.097136 3.038605-6.774595 3.865504-6.774595C4.732254-6.774595 6.156912-6.067248 6.156912-3.516812C6.156912-.876712 4.79203-.039851 3.875467-.039851Z'/>
-<path id='g1-80' d='M2.261519-3.148194H3.945205C5.140722-3.148194 6.216687-3.955168 6.216687-4.951432C6.216687-5.927771 5.230386-6.804483 3.865504-6.804483H.348692V-6.495641H.587796C1.354919-6.495641 1.374844-6.386052 1.374844-6.027397V-.777086C1.374844-.418431 1.354919-.308842 .587796-.308842H.348692V0C.697385-.029888 1.43462-.029888 1.8132-.029888S2.938979-.029888 3.287671 0V-.308842H3.048568C2.281445-.308842 2.261519-.418431 2.261519-.777086V-3.148194ZM2.231631-3.407223V-6.097136C2.231631-6.425903 2.251557-6.495641 2.719801-6.495641H3.606476C5.190535-6.495641 5.190535-5.439601 5.190535-4.951432C5.190535-4.483188 5.190535-3.407223 3.606476-3.407223H2.231631Z'/>
-<path id='g2-48' d='M3.598506-2.224658C3.598506-2.991781 3.507846-3.542715 3.187049-4.030884C2.970859-4.351681 2.538481-4.630635 1.980573-4.630635C.36264-4.630635 .36264-2.726775 .36264-2.224658S.36264 .139477 1.980573 .139477S3.598506-1.72254 3.598506-2.224658ZM1.980573-.055791C1.659776-.055791 1.234371-.244085 1.094894-.81594C.99726-1.227397 .99726-1.799253 .99726-2.315318C.99726-2.824408 .99726-3.354421 1.101868-3.737983C1.248319-4.288917 1.694645-4.435367 1.980573-4.435367C2.357161-4.435367 2.719801-4.20523 2.84533-3.800747C2.956912-3.424159 2.963885-2.922042 2.963885-2.315318C2.963885-1.799253 2.963885-1.283188 2.873225-.843836C2.733748-.209215 2.259527-.055791 1.980573-.055791Z'/>
-</defs>
-<g id='page1'>
-<path d='M-67.81638-27.722657H124.94122' stroke='#808080' fill='none' stroke-width='.3985'/>
-<g transform='matrix(1 0 0 1 121.87878 2.1447)'>
-<use x='5.885218' y='-27.723719' xlink:href='#g0-120'/>
-</g>
-<path d='M-23.87888-27.722657C-23.87888-44.9453-30.85938-58.9063-39.46878-58.9063C-48.08208-58.9063-55.06248-44.9453-55.06248-27.722657C-55.06248-10.5039-48.08208 3.457-39.46878 3.457C-30.85938 3.457-23.87888-10.5039-23.87888-27.722657Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 -36.53672 -30.1633)'>
-<use x='5.885218' y='-27.723719' xlink:href='#g0-81'/>
-</g>
-<path d='M-38.27348-27.722657C-38.27348-28.382813-38.80858-28.91797-39.46878-28.91797C-40.12888-28.91797-40.66408-28.382813-40.66408-27.722657C-40.66408-27.0625-40.12888-26.52734-39.46878-26.52734C-38.80858-26.52734-38.27348-27.0625-38.27348-27.722657Z'/>
-<path d='M-38.27348-27.722657C-38.27348-28.382813-38.80858-28.91797-39.46878-28.91797C-40.12888-28.91797-40.66408-28.382813-40.66408-27.722657C-40.66408-27.0625-40.12888-26.52734-39.46878-26.52734C-38.80858-26.52734-38.27348-27.0625-38.27348-27.722657Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 -49.22952 14.5795)'>
-<use x='5.885218' y='-27.723719' xlink:href='#g1-79'/>
-</g>
-<path d='M80.78122-27.722657C80.78122-28.382813 80.24612-28.91797 79.58592-28.91797C78.92582-28.91797 78.39062-28.382813 78.39062-27.722657C78.39062-27.0625 78.92582-26.52734 79.58592-26.52734C80.24612-26.52734 80.78122-27.0625 80.78122-27.722657Z'/>
-<path d='M80.78122-27.722657C80.78122-28.382813 80.24612-28.91797 79.58592-28.91797C78.92582-28.91797 78.39062-28.382813 78.39062-27.722657C78.39062-27.0625 78.92582-26.52734 79.58592-26.52734C80.24612-26.52734 80.78122-27.0625 80.78122-27.722657Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 70.31178 -6.9213)'>
-<use x='5.885218' y='-27.723719' xlink:href='#g1-80'/>
-</g>
-<g transform='matrix(1 0 0 1 71.29938 12.0612)'>
-<use x='5.885218' y='-27.723719' xlink:href='#g0-113'/>
-</g>
-<path d='M79.58592-27.722657H37.57422' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M33.03907-27.722657C33.59767-27.585938 36.04298-26.804688 37.57423-25.95313V-29.49609C36.04298-28.644532 33.59767-27.863282 33.03907-27.722657Z'/>
-<path d='M33.03907-27.722657C33.59767-27.585938 36.04298-26.804688 37.57423-25.95313V-29.49609C36.04298-28.644532 33.59767-27.863282 33.03907-27.722657Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 44.95758 -8.4157)'>
-<use x='5.498363' y='-27.723719' xlink:href='#g0-126'/>
-<use x='5.885218' y='-27.723719' xlink:href='#g0-118'/>
-<use x='10.714349' y='-26.229338' xlink:href='#g2-48'/>
-</g>
-</g>
-</svg>
-</figure>
-
-
-*particle-laden ring on the axis*
+![[_attachments/2liv16T/2liv16T_p6_f4.png]]
+*charged ring with particle on the axis*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Conservation of Energy]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2016 2° Livello — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/modern-quantum-physics,argomento/meccanica,object/photon,object/electron"></span>
@@ -753,14 +649,9 @@ estratto nessun elettrone (soglia fotoelettrica per il potassio).
 
 P4
 Light on Potassium
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-An experiment is being conducted with a photocell with a potassium photocatode. The photocatode
-It is illuminated by monochrome radiation. For certain wavelengths of incident radiation, observed
-The photocathode emits electrons. Some of them can reach the anode even though this comes
-It's a smaller potential than the cathode. However, this is only possible if the D.D.P. between cathode and
-The anode remains below a value called the stop potential difference.
-For some wavelength values $\lambda$ of incident light the d.d.p. is measured. I'm going to arrest you. The results
-are listed in the following table:
+10 points
+An experiment is conducted with a photocell having a potassium photocathode. The photocathode is illuminated with monochromatic radiation. For certain wavelengths of the incident radiation, it is observed that electrons are emitted from the photocathode. Some of them manage to reach the anode even if the latter is brought to a lower potential than that of the cathode. However, this happens as long as the potential difference between cathode and anode remains below a value called the stopping potential difference.
+For some values of the wavelength $\lambda$ of the incident light, the stopping potential difference is measured. The results are listed in the following table:
 Wavelength [nm]
 579
 562
@@ -769,7 +660,7 @@ Wavelength [nm]
 436
 423
 405
-D.d.p. of arrest [V]
+Stopping potential difference [V]
 0.14
 0.20
 0.27
@@ -777,16 +668,10 @@ D.d.p. of arrest [V]
 0.84
 0.91
 1.06
-1. Identify two dimensions x and y, linked to the experimental data, and between which the theory indicates that there is a
-linear relationship, they're shown on a graph.
-2. The minimum energy required to extract an electron from potassium (called the work of
-(Extraction)
-3. Determine the maximum wavelength of incident radiation above which no radiation is received.
-The electron is not extracted (photoelectric threshold for potassium).
+1. Identify two quantities x and y, related to the experimental data and between which theory indicates that a linear relationship exists, and plot them on a graph.
+2. Derive from the graph the minimum energy needed to extract an electron from potassium (called the work function.)
+3. Determine the maximum wavelength of the incident radiation above which no electron is extracted (photoelectric threshold for potassium).
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+
+

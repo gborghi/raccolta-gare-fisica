@@ -950,21 +950,14 @@ $$\mathrm{N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)}$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-L'aumento della pressione cambia l'equilibrio della reazione
+L'aumento di pressione sposta l'equilibrio della reazione
 
 $$\mathrm{N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)}$$
 
-- (a) to produce more $\mathrm{N_2}$
-- b) per produrre più $\mathrm{NH_3}$
-- c) ridurre la temperatura della reazione
-- (d) to produce more $\mathrm{H_2}$
-
-**Topic:** [[Chemistry]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1FT5PU2aUzQPTewMijjj1DMDpQhd3YXrr/view)
-
+- (a) per produrre più $\mathrm{N_2}$
+- (b) per produrre più $\mathrm{NH_3}$
+- (c) per ridurre la temperatura della reazione
+- (d) per produrre più $\mathrm{H_2}$
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="INJSO 2010 — Problema 25" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/chemistry,argomento/chimica"></span>

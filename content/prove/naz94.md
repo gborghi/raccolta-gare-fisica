@@ -53,41 +53,26 @@ Senigallia, 14-17 Aprile 1994
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 1
+PROBLEM no. 1
 100 points
-A heat-insulated cylinder is separated into two adjacent compartments: the
-The first contains 32 g of oxygen (O$_2$) in a volume of $23.0\ \text{dm}^3$, at pressure
-of $1.015\times10^5\ \text{N m}^{-2}$; the second compartment, at the same temperature as the first,
-It contains 4.0 g of ozone (O$_3$) at $0.973\times10^5\ \text{N m}^{-2}$ pressure.
-Put the two compartments in communication, a mixture of the two gases is generated and,
-Following a slow reaction $2\,\text{O}_3 \to 3\,\text{O}_2$, the amount of ozone present in the final
-In the cylinder, it's completely negligible.
-During the reaction a piston  also with heat holding  allows
-The pressure inside the cylinder is constant while a
-aumento di volume di $33.6\ \text{dm}^3$.
+A thermally insulated cylinder is divided into two adjacent compartments: the first contains 32 g of oxygen (O$_2$) in a volume of $23.0\ \text{dm}^3$, at a pressure of $1.015\times10^5\ \text{N m}^{-2}$; the second compartment, at the same temperature as the first, contains 4.0 g of ozone (O$_3$) at a pressure of $0.973\times10^5\ \text{N m}^{-2}$.
+Once the two compartments are put in communication, a mixture of the two gases is formed and, following a slow reaction $2\,\text{O}_3 \to 3\,\text{O}_2$, in the end the amount of ozone present in the cylinder is completely negligible.
+During the reaction a piston – also heat-tight – allows the pressure inside the cylinder to be kept constant while an increase in volume of $33.6\ \text{dm}^3$ is observed.
 1. Determine the initial pressure of the mixture of the two gases.
-2. To show that the reaction in the cylinder is exothermic and to evaluate the energy developed in this reaction by a mole of ozone.
+2. Show that the reaction that occurred in the cylinder is exothermic and evaluate the energy developed in this reaction by one mole of ozone.
 3. In the formation of oxygen, ozone dissociates according to the reaction
 $\text{O}_3 \to \text{O}_2 + \text{O}$
-. And then the atomic oxygen recombines into molecular oxygen. Knowing that
-The minimum energy required for the dissociation of an oxygen molecule is
-$\epsilon_D = 8.14\times10^{-19}$ J stimare, anche in base ai dati precedenti, l'energia di
-dissociation of an ozone molecule.
-Notes:
- The problem is solved if the two gases behave like ideal gases;
- the atomic weight of oxygen is 16;
- the molar specific heat of ozone at constant volume under the proposed conditions is approximately 7/2 R.
-AIF  1994 Olympics in physics
-National competition
-The Commission has decided to take the necessary measures to ensure that the Community's financial resources are not used in the future.
+. and then atomic oxygen recombines into molecular oxygen. Knowing that the minimum energy required for the dissociation of one oxygen molecule is
+$\epsilon_D = 8.14\times10^{-19}$ J, estimate, also on the basis of the previous data, the dissociation energy of one ozone molecule.
+NOTES:
+– Solve the problem under the assumption that the two gases behave as ideal gases;
+– the atomic weight of oxygen is 16;
+– the molar specific heat of ozone at constant volume, under the proposed conditions, can be approximated by 7/2 R.
+AIF – Physics Olympiads 1994
+National Competition
+Senigallia, 14-17 April 1994
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]], [[Conservation of Energy]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1jRSbbw3AualUI89C4gN0rbSCpXIyEl6v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 1994 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/block,object/spring"></span>
@@ -163,70 +148,40 @@ Senigallia, 14-17 Aprile 1994
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 2
+PROBLEM no. 2
 100 points
-H. Helmholtz in 1860 conducted experimental research on sound.
-Issued by a violin studying the behavior of its source  a string that vibrates, pulled by an arrow  also setting up procedures
-Engineered to obtain the elements necessary for a mathematical description
-of the motion of the rope as a whole.
-He wrote that "during much of the
-Every vibration the rope is pulled from the bow. Then, suddenly, she
-It's untied and bouncing, then it's being retrieved from other parts of the bow and again
-dragged in".
-It is very difficult to make a full study of the real situation and to
-We'll settle for an analogy, simplifying the problem dramatically: we'll replace the rope with a mass attached to a spring, assuming that
-The mass is forced to friction by a "archet" consisting of a tape
-We'll give the mass weight the task of simulating the pressure.
-The stringed organ, played by the violinist.
+H. Helmholtz in 1860 conducted an experimental investigation into the sound emitted by a violin, studying the behavior of its source – a vibrating string, excited by a bow – also developing ingenious procedures to obtain the elements necessary for a mathematical description of the motion of the string as a whole.
+He wrote that "during most of each vibration the string is dragged by the bow. Then, suddenly, it detaches and rebounds, then is caught again by other parts of the bow and again dragged."
+It is very difficult to make a complete study of the real situation and we will settle for an analogy, drastically simplifying the problem: we will replace the string with a mass attached to a spring, imagining that the mass is acted upon by friction from a "bow" consisting of a sliding belt; we will entrust to the weight of the mass the task of simulating the pressure of the bow on the strings, exerted by the violinist.
 ———————————
-The situation obtained is thus represented by the following figure;
-Numerical numbers are arbitrary.
-The block, mass $m$, is attached to a spring of constant $k$ (with an extreme
-fixed) and strip on the tape, running at a constant speed $v$ pulled by two rolls,
-As shown in the figure. The static and dynamic friction coefficients $\mu_s$ and $\mu_d$ are known between
-blocks and tape, which we assume constantly.
-The first is that the block is held firmly so that the
-the spring is in resting condition. At a certain point ($t = 0$) the block
-It's abandoned and it starts moving under the action of the tape.
-The following table shows the values of the values:
+The resulting situation is therefore represented by the following figure; the numerical values are arbitrary.
+The block, of mass $m$, is attached to a spring of constant $k$ (with one fixed end) and slides on the belt, which moves with constant speed $v$ dragged by two rollers, as in the figure. The coefficients of static and kinetic friction $\mu_s$ and $\mu_d$ between block and belt are known, which we will assume constant.
+Suppose also that, initially, the block is held stationary so that the spring is in its rest condition. At a certain moment ($t = 0$) the block is released and begins to move under the action of the belt.
+Numerical values
 $m = 180$ g
 $k = 2.5$ N/m
 $\mu_s = 0.5$
 $\mu_d = 0.3$
-$v = 1.2\ \text{m s}^{-1}$
-v
-m
-1. Assuming that the speed of the tape, for as long as we're concerned
-Consider, be high enough to have always crawling, calculate
-the distance from the initial position at which the block will be temporarily stopped.
-Following page 5 $\Rightarrow$
-AIF  1994 Olympics in physics
-National competition
-The Commission has decided to take the necessary measures to ensure that the Community's financial resources are used effectively.
-2. To show that under these conditions the block will have harmonic oscillations and
-determine the relative width and period.
-3. Determining the minimum speed of the tape for the described motion verifies that the condition is met with the proposed numerical data.
-4. If the tape is moving at a speed less than that calculated in point 3, the motor shall be:
-The blockage is still periodic, but not harmonic; it describes the trend and
-The time-law graph is also represented qualitatively.
-5. Determine the location of the block at significant points in the diagram
-trace and calculate the width of the engine, now $v = 0.5\ \text{m s}^{-1}$.
-AIF  1994 Olympics in physics
-National competition
-The Commission has decided to take the necessary measures to ensure that the Community's financial resources are used effectively.
+$v = 1.2\ \text{m s}^{-1}$ v m
+1. Assuming that the speed of the belt, for all the time we will need to consider, is high enough that there is always slipping, calculate at what distance from the initial position the block will momentarily stop.
+Continues on page 5 $\Rightarrow$
+AIF – Physics Olympiads 1994
+National Competition
+Senigallia, 14-17 April 1994
+2. Show that under these conditions the block will perform harmonic oscillations and determine the corresponding amplitude and period.
+3. Determine the minimum speed of the belt that allows the motion described, and verify that with the proposed numerical data the condition is satisfied.
+4. If the belt moves at a speed lower than that calculated in point 3), the motion of the block is still periodic, but not harmonic; describe its behavior and represent, even qualitatively, the graph of the position as a function of time.
+5. Determine the position of the block at the significant points of the graph drawn and calculate the amplitude of the motion, now setting $v = 0.5\ \text{m s}^{-1}$.
+AIF – Physics Olympiads 1994
+National Competition
+Senigallia, 14-17 April 1994
 
 <!--fig:start-->
-**p.3 **  Mobile tape lock connected to spring
+**p.3** — Block on a moving belt connected to a spring
 ![[_attachments/NAZ94/NAZ94_p3_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jRSbbw3AualUI89C4gN0rbSCpXIyEl6v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 1994 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/circuits,argomento/meccanica,object/wire"></span>
@@ -326,34 +281,17 @@ Senigallia, 14-17 Aprile 1994
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 3
+PROBLEM no. 3
 100 points
-The electrical conductivity of a semiconductor can be increased by replacing some atoms of the crystalline structure with others of different species, without
-modify the electrical neutrality of the sample. This process is called "drugging".
-The amount of conducting electrons is increased by n-type drugging; p-type drugging, on the other hand, produces electron gaps called
-'holes' which can be considered as positive charge carriers
-equal in absolute value to that of electrons.
-Half of a semiconductor sample, having a square section of
-side $d = 0.20$ mm, is drugged in type n and the other half in type p, in the area of
-The two electrons are separated by a "combination" of electrons that migrate from the
-Type n to the type p part, combining with the holes here. At the end
-The process thus generates a region of magnitude $\ell_0 \approx 0.5\ \mu\text{m}$ in which there is no
-They're more freely moving, which is called the "empty region".
-Type n part of the region of
-The emission of the product shall be determined by the following:
-The glass mesh; the part of the glass mesh
-Type p in the presence of negative loads
-Locate them around the ions in the reticulum.
-The graph in the figure shows a possible
-distribution of the electrical charge density in a junction. The density of the
-positive charge in the type n part of the
-The emptying region ($n_+$) is $8.5\times10^{16}$
-loads for $\text{cm}^3$, whereas the negative load density ($n_-$) in the type p part of the emptying region is
-$3.0\times10^{15}$ cariche per $\text{cm}^3$.
-n+
-n-
-0
-x
+The electrical conductivity of a semiconductor can be increased by replacing some atoms of the crystal structure with others of a different species, without modifying the electrical neutrality of the sample. This process is called "doping".
+By means of n-type doping, the number of conduction electrons is increased; with p-type doping, on the other hand, electron vacancies called
+"holes" are produced, which can be considered as positive charge carriers equal in absolute value to that of the electrons.
+One half of a semiconductor sample, having a square cross-section of side $d = 0.20$ mm, is doped n-type and the other half p-type; in the separation zone between the two, called the "junction", some electrons migrate from the n-type part to the p-type part, recombining with the holes present there. At the end of the process, a region of width $\ell_0 \approx 0.5\ \mu\text{m}$ is thus generated in which there are no longer any free charges able to move, which is called the "depletion region".
+The n-type part of the depletion region is characterized by the presence of positive charges due to the ions of the crystal lattice; while the p-type part is characterized by the presence of negative charges localized around the ions of the lattice.
+The graph in the figure shows a possible distribution of electric charge density in a junction. The density of positive charge in the n-type part of the depletion region ($n_+$) is $8.5\times10^{16}$ charges per $\text{cm}^3$, while the density of negative charge ($n_-$) in the p-type part of the depletion region is
+$3.0\times10^{15}$ charges per $\text{cm}^3$.
+n+ n-
+0 x
 +
 +
 -
@@ -370,50 +308,29 @@ x
 +
 +
 +
-+
-l0
-1. Determine and graphically represent the electric field in the
-The junction.
-2. By assigning the electric potential to a zero value at an appropriate semiconductor point, determine its trend in the emptying region. Considering the values provided for the electrical charge density and that the sample
-is neutral overall, calculate the maximum value that the difference of
-electrical potential can take. This value is called the potential barrier.
-It follows on page 7 $\Rightarrow$
-AIF  1994 Olympics in physics
-National competition
-The Commission has decided to take the necessary measures to ensure that the Community's financial resources are used effectively.
-Connecting the opposite ends of the semiconductor sample with a wire
-The metallic junction is short circuit and it is observed that in the circuit thus made there is no electric current. The phenomenon can be explained by assuming that
-The sample ends always generate a potential difference $V_0$
-'ohm contact potential' means a constant and independent of the direction and intensity of any electric current circulating in the semiconductor, which is
-It opposes the potential barrier, and in this case it cancels it.
-3. In view of the phenomenon described above, the barrier to
-The potential changes when a
-differenza di potenziale elettrico esterno $V_\text{est}$. Determine how the
-thickness $\ell$ of the emptying region by $V_\text{est}$.
-When the width of the emptying region varies, they remain constant
-the values of the electric charge density, but changes the total charge quantity
-present on both sides of the junction. We can talk about property in this case.
-The power output of the joint.
-4. Determine the value of the transition electrical capacity that is defined
-as $C_T = (\Delta Q/\Delta V_\text{est})$ where $\Delta Q$ is the change in load produced when
-The external electrical potential applied is varied by $\Delta V_\text{est}$.
++ l0
+1. Determine and represent graphically the electric field present in this junction.
+2. Assigning the value zero to the electric potential at a suitable point of the semiconductor, determine its trend in the depletion region. Considering the values provided for the electric charge density and that the sample is overall neutral, calculate the maximum value that the electric potential difference can assume. This value is called the "potential barrier."
+Continues on page 7 $\Rightarrow$
+AIF – Physics Olympiads 1994
+National Competition
+Senigallia, 14-17 April 1994
+By connecting the opposite ends of the semiconductor sample with a metal wire, the junction is short-circuited and it is observed that no electric current flows in the circuit thus created. The phenomenon can be explained by assuming that a potential difference $V_0$ is always generated at the ends of the sample, called
+"ohmic contact potential", constant and independent of the direction and magnitude of any electric current flowing in the semiconductor, which opposes the potential barrier, and in this case cancels it.
+3. Taking into account the phenomenon illustrated above, show that the potential barrier changes when an external electric potential difference $V_\text{est}$ is applied across the junction. Determine how the thickness $\ell$ of the depletion region depends on $V_\text{est}$.
+When the width of the depletion region varies, the values of the electric charge density remain constant, but the total amount of charge present in the two parts of the junction changes. In this case, one can speak of capacitive properties of the junction.
+4. Determine the value of the transition capacitance, which is defined as $C_T = (\Delta Q/\Delta V_\text{est})$ where $\Delta Q$ is the change in charge produced when the applied external electric potential is varied by $\Delta V_\text{est}$.
 NOTE: For a semiconductor the relative dielectric constant is $\epsilon_r = 12$.
-AIF  1994 Olympics in physics
-National competition
-The Commission has decided to take the necessary measures to ensure that the Community's financial resources are used effectively.
+AIF – Physics Olympiads 1994
+National Competition
+Senigallia, 14-17 April 1994
 
 <!--fig:start-->
-**p.5 **  Junction n-p and load density
+**p.5** — n-p junction and charge density
 ![[_attachments/NAZ94/NAZ94_p5_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1jRSbbw3AualUI89C4gN0rbSCpXIyEl6v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 1994 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/thermodynamics,argomento/meccanica"></span>
@@ -462,39 +379,21 @@ la legge $T(h) = T(0) + \theta h$, determinare il gradiente termico $\theta$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 4
+PROBLEM no. 4
 100 points
-Driving on a sunny day on a flat, straight stretch of highway shows that, in the distance, the road surface appears "wet". The phenomenon,
-It is known to those crossing desert areas as mirage and is caused by atmospheric refraction in the presence of a particular heat gradient.
-Accentuated in the lower air layers.
-Consider a flat, horizontal air layer within which the refractive index depends only on height. Whether $\alpha_i$ the angle of incidence of a beam of light
-in the layer and $\alpha_e$ the emergency angle of the same beam from the layer.
-1. Show that, if $\alpha_i$ is fixed, the angle $\alpha_e$ depends only on the values that the index of
-The surface of the layer is covered by a layer of refraction.
-For the air refractive index it is observed experimentally that $n - 1$ is
-proportional to the density $\rho$
-$n - 1 = k \rho$
-(Gladstone & Dale law)
-and measured $n = 1.00027$ under standard pressure conditions at a temperature
-of approximately $27\ ^\circ\text{C}$.
-2. Show that, at temperatures close to the given value, at constant pressure,
-The air refractive index may be approximated to the $n = n_0 (1 + \nu\,\Delta T)$ ratio. Check that $\nu = -0.9\times10^{-6}\ \text{K}^{-1}$.
-The driver, who has eyes at a height of $h_0 = 1.4$ m from the ground, has
-l'impressione di vedere la strada bagnata ad una distanza $d_0$ di circa 200 m davanti
-a sé. With good approximation the paths of light rays can be
-Parabolically similar (vertical axis and upward concave).
-3. Calculate the length of the road actually visible from the side
-The driver.
+Driving on a sunny day on a flat and straight stretch of highway, one notices that, in the distance, the road surface appears "wet". The phenomenon, long known to those who cross desert areas, is called a mirage and is due to atmospheric refraction in the presence of a particularly pronounced thermal gradient in the lower layers of air.
+Consider a flat and horizontal layer of air, within which the refractive index depends only on height. Let $\alpha_i$ be the angle of incidence of a light ray in the layer and $\alpha_e$ the angle of emergence of the same ray from the layer.
+1. Show that, for a fixed $\alpha_i$, the angle $\alpha_e$ depends only on the values that the refractive index takes on the upper and lower surfaces of the layer.
+For the refractive index of air, it is observed experimentally that $n - 1$ is proportional to the density $\rho$
+$n - 1 = k \rho$ (Gladstone & Dale law)
+and $n = 1.00027$ is measured under standard pressure conditions at a temperature of about $27\ ^\circ\text{C}$.
+2. Show that, for temperatures close to the given value, at constant pressure, the refractive index of air can be approximated by the relation $n = n_0 (1 + \nu\,\Delta T)$. Verify that $\nu = -0.9\times10^{-6}\ \text{K}^{-1}$.
+The driver, whose eyes are at a height $h_0 = 1.4$ m from the ground, has the impression of seeing the road wet at a distance $d_0$ of about 200 m ahead of him. With good approximation, the trajectories of the light rays can be assimilated to parabolas (with vertical axis and concavity facing upward).
+3. Calculate the length of the stretch of road actually visible to the driver.
 4. Determine the refractive index at the driver's eye level [$n(h_0)$]
-the data parameters and the soil refractive index [$n_0$]. You can
-It is useful to keep in mind that $h_0 \ll d_0$.
-5. Assuming for simplicity that the heat gradient of the air is uniform,
-That is, the air temperature T varies linearly with the height h second
-The law $T(h) = T(0) + \theta h$ determines the heat gradient $\theta$.
+as a function of the given parameters and of the refractive index at ground level [$n_0$]. It may be useful to keep in mind that $h_0 \ll d_0$.
+5. Assuming for simplicity that the air's thermal gradient is uniform, that is, that the air temperature T varies linearly with height h according to the law $T(h) = T(0) + \theta h$, determine the thermal gradient $\theta$.
 
-**Topic:** [[Geometric Optics]], [[Thermodynamics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1jRSbbw3AualUI89C4gN0rbSCpXIyEl6v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
+
+

@@ -163,60 +163,42 @@ $L =$
 
 <div class="qlang-split" data-lang="it"></div>
 
-2. Considera una particella di massa $m$ confinata in una scatola unidimensional di lunghezza $L$. La particella si muove
-nella scatola con impulso $p$ che colpisce elasticamente le pareti.
-Considerate il quantum
-la meccanica di questo sistema. Per quanto possibile, esprimere le risposte in termini di $\alpha = h^2/8m$.
+2. Si consideri una particella di massa $m$ confinata in una buca unidimensionale di lunghezza $L$. La particella si muove nella buca con quantità di moto $p$ urtando elasticamente contro le pareti.
+Consideriamo la meccanica quantistica di questo sistema. Per quanto possibile, esprimi le tue risposte in termini di $\alpha = h^2/8m$.
 
 (a) [1]
-A ciascun stato energetico, la particella può essere rappresentata da un'onda in piedi data dal
-L'ipotesi di Broglie. Esprimere le sue lunghezze d'onda $\lambda_\text{dB}$ in termini di $L$ nello stato energetico $n$.
+A ogni stato energetico, la particella può essere rappresentata da un'onda stazionaria data dall'ipotesi di de Broglie. Esprimi le sue lunghezze d'onda $\lambda_\text{dB}$ in termini di $L$ nello $n$-esimo stato energetico.
 $\lambda_\text{dB} =$
 
 (b) [1]
-Scrivere l'energia dello stato energetico $n$, $E_n$.
+Scrivi l'energia dello $n$-esimo stato energetico, $E_n$.
 $E_n =$
 
 (c) [2]
-In questa casella ci siano elettroni $N$ (massa $m$) in cui $N$ è un numero pari. Ottenere il
-espressione per l'energia totale $U_0$ del sistema più bassa possibile (ad esempio, energia di stato di base)
-di questo sistema $N$-particelle). Ignorare l'interazione coulombica tra gli elettroni.
+Siano presenti $N$ elettroni (massa $m$) in questa buca, dove $N$ è un numero pari. Ricava l'espressione per la più bassa energia totale possibile $U_0$ del sistema (ad esempio, l'energia dello stato fondamentale di questo sistema di $N$ particelle). Trascura l'interazione coulombiana tra gli elettroni.
 $U_0 =$
 
 (d) [3½]
-Esprimere l'energia totale $U_1$ in termini di $U_0$ e quantità rilevanti quando il sistema è in fase di
-- Il primo stato eccitato. Esprimere anche l'energia totale $U_2$ in termini di $U_0$ e quantità pertinenti
-quando il sistema è in secondo stato eccitato.
+Esprimi l'energia totale $U_1$ in termini di $U_0$ e delle grandezze rilevanti quando il sistema si trova nel primo stato eccitato. Esprimi inoltre l'energia totale $U_2$ in termini di $U_0$ e delle grandezze rilevanti quando il sistema si trova nel secondo stato eccitato.
 $U_1 =$
 $U_2 =$
 
 (e) [1]
-Quando il sistema è in stato di scarico, lasciare che la lunghezza della scatola cambie lentamente da $L$ a $L$
-$L - \Delta L$. Ottenere la magnitudine della forza $F$ su ogni muro in termini di $U_0$, quando $\Delta L \ll L$.
+Quando il sistema si trova nello stato fondamentale, si lasci variare lentamente la lunghezza della buca da $L$ a
+$L - \Delta L$. Ricava il modulo della forza $F$ su ciascuna parete in termini di $U_0$, quando $\Delta L \ll L$.
 $F =$
 
 (f) [1]
-Supponendo che $N$ sia grande ($N \gg 1$) si ottiene il rapporto $r$ di $dU_0/dN$ al livello energetico del livello più alto
-lo stato di terra occupato.
+Assumendo che $N$ sia grande ($N \gg 1$), ricava il rapporto $r$ tra $dU_0/dN$ e il livello energetico dello stato fondamentale più alto occupato.
 $r =$
 
 (g) [1½]
-Supponiamo ancora una volta che $N$ sia grande. Considerate la possibilità che gli elettroni formino un
-continuum uniforme di lunghezza $L$ con densità lineare costante. Usando l'analisi dimensionale,
-calcolare l'energia gravitazionale di questo sistema $U_G$ supponendo che dipenda dal suo totale
-massa, costante gravitazionale universale $G$ e $L$.
-Equazione di questa energia (attraente) alla
-(rifuorente) energia $U_0(N)$. Ottenere $L$ in termini di $N$ e quantità correlate.
+Assumiamo ancora una volta che $N$ sia grande. Considera la possibilità che gli elettroni formino un continuo uniforme di lunghezza $L$ con densità lineare costante. Usando l'analisi dimensionale, calcola l'energia gravitazionale di questo sistema $U_G$ assumendo che dipenda dalla sua massa totale, dalla costante gravitazionale universale $G$ e da $L$.
+Uguaglia questa energia (attrattiva) all'energia (repulsiva) $U_0(N)$. Ottieni $L$ in termini di $N$ e grandezze correlate.
 $U_G =$
 $L =$
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[de Broglie Relation (metodo)|de Broglie Relation]], [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1pFQ5tKYLhBw4z97a5HNyIhZYZIn6xfgv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1A0zacXP7xgjuDtHgxL5Wti-qrdPcQUL9/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="INPhO 2019 — Problema 3" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string"></span>
@@ -277,7 +259,7 @@ Qualitatively sketch $T(x)$ versus $x$.
 
 3. Una catena di lunghezza $l$ e densità lineare $\lambda$ pende da un supporto orizzontale con entrambe le estremità A e
 B fissate a un supporto orizzontale come mostrato. Le due estremità fisse sono vicine tra loro. All'istante $t
-= 0$ l'estremità A viene rilasciata. Tutte le distanze verticali ($x$) sono misurate rispetto al supporto orizzontale, assumendo positiva la direzione verso il basso (A e B sono inizialmente a $x = 0$).
+= 0$ the end A is released. All vertical distances ($x$x = 0$x = 0$).
 
 <!--fig:start-->
 **Quesito 3**
@@ -320,6 +302,7 @@ Traccia qualitativamente il grafico di $T(x)$ in funzione di $x$.
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1pFQ5tKYLhBw4z97a5HNyIhZYZIn6xfgv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1A0zacXP7xgjuDtHgxL5Wti-qrdPcQUL9/view)
 
+[[INPhO2019-Question__Q03]]
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="INPhO 2019 — Problema 4" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi,object/cylinder"></span>
@@ -568,7 +551,7 @@ $r_\text{max} =$
 
 (c) [1]
 Siano $M = 10.0$ kg, $w = 0.10$ m, $V_0 = 1.00\times10^4$ V e un banco di condensatori garantisce che $C
-= 1.00$ F. Se $r = r_\text{max}$, calcola il valore di $v_\text{final}$.
+= 1.00$ F. If $r = r_\text{max}$, calculate the value of $v_\text{final}$.
 $v_\text{final}(r = r_\text{max}) =$
 
 **Topic:** [[Electromagnetic Induction]]
@@ -578,6 +561,7 @@ $v_\text{final}(r = r_\text{max}) =$
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1pFQ5tKYLhBw4z97a5HNyIhZYZIn6xfgv/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1A0zacXP7xgjuDtHgxL5Wti-qrdPcQUL9/view)
 
+[[INPhO2019-Question__Q05]]
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="INPhO 2019 — Problema 6" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>

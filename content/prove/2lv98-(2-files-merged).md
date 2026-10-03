@@ -56,44 +56,38 @@ Gara di 2° Livello del 26 febbraio 1998 — Parte Prima (10 quesiti, 4 punti ci
 
 <div class="qlang-split" data-lang="en"></div>
 
-The level of the contested contest is 2° Level of 26 February 1998  Part One (10 questions, 4 points each).
+2nd Level Competition of 26 February 1998 — Part One (10 questions, 4 points each).
 
-**Quesito 1.** Un pinguino di massa $m$ si trova su un blocco di ghiaccio piano galleggiante, con le zampe allo stesso livello dell'acqua. What's the volume of the ice block? (Ice density = $9/10$ of water.)
+**Question 1.** A penguin of mass $m$ is on a flat floating ice block, with its feet at the same level as the water. What is the volume of the ice block? (Density of ice = $9/10$ that of water.)
 
-**Question 2.** Slides $24\times36\text{ mm}$ are projected into a long $8\text{ m}$ local, with diagonal image $D = 2{,}5\text{ m}$. Sketching the lens like a thin lens, what kind of focusing is needed?
+**Question 2.** Slides $24\times36\text{ mm}$ are projected in a room $8\text{ m}$ long, with an image of diagonal $D = 2{,}5\text{ m}$. Modeling the lens as a thin lens, what focal length is needed?
 
-**Quesito 3.** Un cilindro di rame: $h = 3{,}20\pm0{,}01\text{ cm}$, $d = 1{,}98\pm0{,}01\text{ cm}$, $m = 87{,}3\pm0{,}1\text{ g}$. Calculate the density of copper and absolute uncertainty.
+**Question 3.** A copper cylinder: $h = 3{,}20\pm0{,}01\text{ cm}$, $d = 1{,}98\pm0{,}01\text{ cm}$, $m = 87{,}3\pm0{,}1\text{ g}$. Calculate the density of copper and the absolute uncertainty.
 
-**Question 4.** For water evaporation heat, a constant power $P$ is provided for $t_1 = 18\text{ min}$ (from $10°$ to $100°\text{C}$) and then for $t_2 = 23\text{ min}$ to evaporate the mass $2/10$. Determine the $\lambda$.
+**Question 4.** For the heat of evaporation of water, a constant power $P$ is supplied for $t_1 = 18\text{ min}$ (from $10°$ to $100°\text{C}$) and then for $t_2 = 23\text{ min}$ to evaporate $2/10$ of the mass. Determine $\lambda$.
 
-**Question 5.** A compressor is connected to an ideal generator ($220\text{ V}$) with $A = 1{,}5\text{ mm}^2$ section cable. It works if the voltage is at least $200\text{ V}$, absorbing $P = 1{,}2\text{ kW}$. What's the maximum distance it can operate? ($\rho_{Cu} = 1{,}7\times10^{-8}\ \Omega\text{m}$, compressor as resistance.)
+**Question 5.** A compressor is connected to an ideal generator ($220\text{ V}$) with a cable of cross-section $A = 1{,}5\text{ mm}^2$. It works if the voltage is at least $200\text{ V}$, drawing $P = 1{,}2\text{ kW}$. At what maximum distance can it operate? ($\rho_{Cu} = 1{,}7\times10^{-8}\ \Omega\text{m}$, compressor as a resistance.)
 
-**Quesito 6.** Un proiettile di massa $m$ e velocità $v$ si conficca in un blocco di massa $M$ su un supporto di altezza $h$. How far from the foot of the support does the bullet block fall?
+**Question 6.** A projectile of mass $m$ and speed $v$ embeds itself in a block of mass $M$ on a support of height $h$. At what distance from the foot of the support does the block with the projectile fall?
 
-**Quesito 7.** Un laser ($\lambda = 632{,}8\text{ nm}$) attraversa una fenditura di larghezza $\ell$; la diffrazione è osservata a $L = 2{,}80\text{ m}$. The first minimum is $x_1 = 1{,}8\text{ cm}$ from the centre. Determine the $\ell$.
+**Question 7.** A laser ($\lambda = 632{,}8\text{ nm}$) passes through a slit of width $\ell$; the diffraction is observed at $L = 2{,}80\text{ m}$. The first minimum is at $x_1 = 1{,}8\text{ cm}$ from the center. Determine $\ell$.
 
-**Quesito 8.** Un generatore reale chiuso su $R_1 = 2\text{ k}\Omega$ eroga $i_1 = 1\text{ mA}$. With $R_2 = R_1/4$ the triple current. Determine the internal resistance.
+**Problem 8.** A real generator connected across $R_1 = 2\text{ k}\Omega$ delivers $i_1 = 1\text{ mA}$. With $R_2 = R_1/4$ the current triples. Determine the internal resistance.
 
-**Quesito 9.** Un automobilista, a metà percorso, ha velocità media $v_0$. What is the average speed at which the second stroke must be run to double the overall average speed?
+**Problem 9.** A motorist, at the midpoint of a journey, has average speed $v_0$. At what average speed must he travel the second stretch in order to double the overall average speed?
 
-**Quesito 10.** Un riscaldatore da $75\text{ W}$, in un recipiente di capacità termica trascurabile con $350\text{ g}$ d'acqua, porta l'acqua a $55°\text{C}$ (massima). When you turn it off, how long after does the temperature drop to $54°\text{C}$?
+**Problem 10.** A heater of $75\text{ W}$, in a container of negligible heat capacity with $350\text{ g}$ of water, brings the water to $55°\text{C}$ (maximum). When it is switched off, after how much time does the temperature drop to $54°\text{C}$?
 
 <!--fig:start-->
 ![[_attachments/2lv98 (2 files merged)/2lv98 (2 files merged)_p3_f1.png]]
-*pinguino su blocco di ghiaccio galleggiante*
+*penguin on floating ice block*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2lv98 (2 files merged)/2lv98 (2 files merged)_p4_f2.png]]
-*proiettile si conficca in blocco su supporto*
+*projectile embeds itself in block on support*
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Geometric Optics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Error Propagation (metodo)|Error Propagation]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Lens (object)|Lens]], [[Cylinder (object)|Cylinder]], [[Slit (object)|Slit]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KzICuUAb49XF6rDQBJEK-RTJea3awJOJ/view)
 
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="OII 1998 2° Livello Teorica — 2lv98 (2 files merged).pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,argomento/termodinamica,object/gas,object/manometer,object/pipe-tube,object/tank-container"></span>

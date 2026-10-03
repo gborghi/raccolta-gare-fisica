@@ -32,20 +32,14 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** The wheel die falls from a helicopter that is climbing vertically at a constant speed of $5\,\mathrm{m\,s^{-1}}$; it touches the ground $5\,\mathrm s$ afterwards. What height did it come from (negligible air resistance)?
+**Q1.** The nut of a wheel falls from a helicopter that is rising vertically at a constant speed of $5\,\mathrm{m\,s^{-1}}$; it touches the ground after $5\,\mathrm s$. From what height did it detach (air resistance negligible)?
 - **A.** $50$
 - **B.** $55$
 - **C.** $100$
 - **D.** $125$
 - **E.** $150\ \mathrm m$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2024 1° Livello Quiz — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/capacitor,object/battery"></span>
@@ -110,20 +104,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q3.** Un tubo chiuso a un'estremità contiene una colonna di aria secca intrappolata da un pistoncino a tenuta con attrito trascurabile, in equilibrio al variare dell'angolo $\theta$ del tubo con la verticale (ambiente a $p$ e $T$ costanti). What graph represents the $\ell$ length of the column as a function of $\theta$?
+**Q3.** A tube closed at one end contains a column of dry air trapped by a tightly sealed small piston with negligible friction, in equilibrium as the angle $\theta$ of the tube with the vertical varies (environment at constant $p$ and $T$). Which graph represents the length $\ell$ of the column as a function of $\theta$?
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p3_f1.png]]
-*Grafici $\ell$–$\theta$ (opzioni A–E).*
+*Graphs $\ell$–$\theta$ (options A–E).*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Pipe/Tube (object)|Pipe/Tube]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2024 1° Livello Quiz — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi,object/sphere"></span>
@@ -149,20 +137,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q4.** A sphere of radius $a$ moving at a speed $v$ in a laminated fluid shall be subjected to a braking force $F=k\,a\,v$, with a constant $k$. The physical dimensions of $k$ are
+**Q4.** A sphere of radius $a$ moving at speed $v$ in a fluid in the laminar regime experiences a braking force $F=k\,a\,v$, with $k$ constant. The physical dimensions of $k$ are
 - **A.** $ML^{-2}T^{-1}$
 - **B.** $ML^{-2}T^{-2}$
 - **C.** $ML^{-1}T^{-1}$
 - **D.** $MLT^{-1}$
 - **E.** $MLT^{-2}$
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 2024 1° Livello Quiz — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica,object/block,object/inclined-plane"></span>
@@ -193,7 +175,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q5.** A block of $2\,\mathrm{kg}$, starting from a stationary position, slides for $20\,\mathrm m$ along a smooth slope of $30°$ from $X$ to $Y$. Speed in $Y$?
+**Q5.** A block of $2\,\mathrm{kg}$, starting from rest, slides for $20\,\mathrm m$ along a smooth plane inclined at $30°$ from $X$ to $Y$. Velocity at $Y$?
 - **A.** $7$
 - **B.** $10$
 - **C.** $14$
@@ -202,16 +184,10 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p3_f3.png]]
-*slanted plane block m from X to Y *
+*inclined plane block m from X to Y*
 <!--fig:end-->
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OII 2024 1° Livello Quiz — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi"></span>
@@ -237,20 +213,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A buoy floating still in water. What statements are true? (1) the resulting force is zero; (2) it moves a volume of water smaller than its own; (3) it moves a mass of water larger than its own.
-- **A.** All of the following:
-- **B.** 1 e 2
-- **C.** 2 e 3
-- **D ** Only 1
-- **E ** Only three
+**Q6.** A buoy floats motionless in water. Which statements are true? (1) the resultant force is zero; (2) it displaces a volume of water smaller than its own; (3) it displaces a mass of water greater than its own.
+- **A.** All
+- **B.** 1 and 2
+- **C.** 2 and 3
+- **D.** Only 1
+- **E.** Only 3
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2024 1° Livello Quiz — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica"></span>
@@ -330,25 +300,19 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q8. An electron in a region with a magnetic field. The magnetic force is nothing when the electron moves...
+**Q8.** An electron in a region with a magnetic field. The magnetic force is zero when the electron moves...
 - **A.** to the right
-- **B.** upwards
-- **C.** entering the page
-- **D.** coming out of the page
-- **E.** never anything (parallel to $\vec B$).
+- **B.** upward
+- **C.** into the page
+- **D.** out of the page
+- **E.** never zero (parallel to $\vec B$).
 
 <!--fig:start-->
-The magnetic field of the electron is the magnetic field of the electron.
+**p.4** — electron in a north-south magnetic field
 ![[_attachments/1liv24T/1liv24T_p4_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 2024 1° Livello Quiz — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/order-of-magnitude-estimation,argomento/metodi-trasversali"></span>
@@ -374,20 +338,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q9.** Extending the concept of mole, a mole of large salt grains is considered. Give the order of magnitude of the number of classrooms that could be filled with a mole of granules.
+**Q9.** Extending the concept of mole, consider one mole of coarse salt grains. Give the order of magnitude of the number of school classrooms that could be filled with one mole of grains.
 - **A.** $10$
 - **B.** $10^6$
 - **C.** $10^{10}$
 - **D.** $10^{14}$
 - **E.** $10^{18}$
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 2024 1° Livello Quiz — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/heat-engine"></span>
@@ -413,20 +371,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a Carnot cycle with a hot source at $20\,^\circ\mathrm C$ the yield is $20\%$. Replace the hot source with one at $0\,^\circ\mathrm C$, leaving the cold unchanged. New income?
+**Q10.** In a Carnot cycle with a hot reservoir at $20\,^\circ\mathrm C$ the efficiency is $20\%$. The hot reservoir is replaced with one at $0\,^\circ\mathrm C$, leaving the cold one unchanged. New efficiency?
 - **A.** $0\%$
 - **B.** $14\%$
 - **C.** $20\%$
 - **D.** $21.5\%$
 - **E.** $26\%$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OII 2024 1° Livello Quiz — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/satellite,object/planet"></span>
@@ -491,20 +443,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q12.** A flywheel (disc $m=18\,\mathrm{kg}$, $I=0.26\,\mathrm{kg\,m^2}$) is accelerated evenly from a standstill to $\omega=200\,\mathrm{rad\,s^{-1}}$ in $4.0\,\mathrm s$. What statements are correct? (1) $\alpha=3.6\times10^3\,\mathrm{rad\,s^{-2}}$ *(refusal of text) *; (2) $K_{rot,f}=5.2\times10^3\,\mathrm J$; (3) torque $13\,\mathrm{N\,m}$.
-- **A.** 1 e 2
-- **B.** 2 e 3
-- **C ** Only 1
-- ** D ** Only three
-- **E.** All of the following:
+**Q12.** A flywheel (disk $m=18\,\mathrm{kg}$, $I=0.26\,\mathrm{kg\,m^2}$) is uniformly accelerated from rest to $\omega=200\,\mathrm{rad\,s^{-1}}$ in $4.0\,\mathrm s$. Which statements are correct? (1) $\alpha=3.6\times10^3\,\mathrm{rad\,s^{-2}}$ *(typo in the text)*; (2) $K_{rot,f}=5.2\times10^3\,\mathrm J$; (3) torque $13\,\mathrm{N\,m}$.
+- **A.** 1 and 2
+- **B.** 2 and 3
+- **C.** Only 1
+- **D.** Only 3
+- **E.** All
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2024 1° Livello Quiz — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
@@ -530,20 +476,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The water at $100\,^\circ\mathrm C$ is converted to steam at $100\,^\circ\mathrm C$ at a constant temperature. Using $\Delta U=Q+L$, which statement is correct?
+**Q13.** Water at $100\,^\circ\mathrm C$ is transformed into steam at $100\,^\circ\mathrm C$ at constant temperature. Using $\Delta U=Q+L$, which statement is correct?
 - **A.** $Q<0$
 - **B.** $L<0$
 - **C.** $\Delta U=0$
 - **D.** $Q=\Delta U$
 - **E.** $Q=0$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2024 1° Livello Quiz — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/magnetism,argomento/elettromagnetismo,object/wire,object/coil"></span>
@@ -569,20 +509,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q14.** A long straight line wire horizontal, close to and parallel to the plane of a circular coil (current turns indicated). The force in the $P$ point of the wire produced by these currents is...
-- **A ** to $X$
-- **B.** to $Y$
-- **C.** coming out of the sheet
-- **D.** entering the sheet
-- **E ** nothing
+**Q14.** A long straight horizontal wire, close and parallel to the plane of a circular coil (current directions indicated). The force at point $P$ of the wire produced by these currents is...
+- **A.** directed toward $X$
+- **B.** directed toward $Y$
+- **C.** out of the page
+- **D.** into the page
+- **E.** zero
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OII 2024 1° Livello Quiz — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string,object/block"></span>
@@ -623,35 +557,29 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** A string stretched in the $XY$ stroke vibrates at the fundamental frequency of $50\,\mathrm{Hz}$. The basic could be doubled...
-- **A ** by halving the mass $M$
-- **B ** by doubling $M$
-- **C.** doubling the length $XY$
-- **D ** by halving $XY$
+**Q15.** A string stretched in the section $XY$ vibrates at the fundamental frequency of $50\,\mathrm{Hz}$. The fundamental could be doubled...
+- **A.** by halving the mass $M$
+- **B.** by doubling $M$
+- **C.** by doubling the length $XY$
+- **D.** by halving $XY$
 - **E.** by quadrupling $XY$
 
 <!--fig:start-->
-**p.5 **  straight wire near circular coil, point P
+**p.5** — straight wire near circular coil, point P
 ![[_attachments/1liv24T/1liv24T_p5_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.8**  torque graph M vs t with area X
+**p.8** — graph of torque M vs t with area X
 ![[_attachments/1liv24T/1liv24T_p8_f17.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  Stretched string XY with mass M suspended
+**p.5** — stretched string XY with mass M hanging
 ![[_attachments/1liv24T/1liv24T_p5_f7.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OII 2024 1° Livello Quiz — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/tank-container"></span>
@@ -677,20 +605,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass quantity of water $m$ falls into a bucket at a speed of $v$; the $25\%$ of the lost kinetic energy remains in the water. - The temperature is rising?
+**Q16.** A quantity of water of mass $m$ falls into a bucket, reaching it at speed $v$; $25\%$ of the kinetic energy lost remains in the water. Temperature increase?
 - **A.** $\dfrac{mv^2}{8c_a}$
 - **B.** $\dfrac{v^2}{4mc_a}$
 - **C.** $\dfrac{mg}{4c_a}$
 - **D.** $\dfrac{v^2}{8c_a}$
 - **E.** $\dfrac{v^2}{4c_a}$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 2024 1° Livello Quiz — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/conducting-sphere"></span>
@@ -770,25 +692,19 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows the speed of a simple harmonically moving particle with respect to time. What statement is **false**?
+**Q18.** The graph shows the velocity of a particle in simple harmonic motion as a function of time. Which statement is **false**?
 - **A.** the position is different at $T/2$ and $T$
-- **B.** the distance from the centre is maximum $T/2$
-- **C.** the call force is zero at $3T/4$
+- **B.** the distance from the center is maximum at $T/2$
+- **C.** the restoring force is zero at $3T/4$
 - **D.** $K$ is maximum at $T/4$
 - **E.** the acceleration is zero at $T/2$
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total value of the sampled Union producers:
+**p.6** — graph of velocity v vs time for harmonic oscillation
 ![[_attachments/1liv24T/1liv24T_p6_f9.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="OII 2024 1° Livello Quiz — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/galvanometer"></span>
@@ -819,7 +735,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q19.** A negligible resistance amperometer and a voltmeter with resistance approximately equal to $R$ are used to measure $R$; first circuit 1, then circuit 2. Moving from 1 to 2, the values of the two instruments become *[table]*
+**Q19.** To measure $R$, an ammeter with negligible resistance and a voltmeter with resistance approximately equal to $R$ are used; first circuit 1, then circuit 2. Going from 1 to 2, the values of the two instruments become *[table]*
 - **A.** $(\approx,\approx)$
 - **B.** $(\times2,\,/2)$
 - **C.** $(\times2,\approx)$
@@ -827,17 +743,11 @@ The Commission has also adopted a proposal for a regulation on the protection of
 - **E.** $(/2,\approx)$
 
 <!--fig:start-->
-**p.6**  circuit 1 and circuit 2 with ampere and voltmeter
+**p.6** — circuit 1 and circuit 2 with ammeter and voltmeter
 ![[_attachments/1liv24T/1liv24T_p6_f10.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="OII 2024 1° Livello Quiz — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
@@ -917,7 +827,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q21.** The graph shows speed as a function of time for a straight-line variable. Distance traveled in the first $6\,\mathrm s$?
+**Q21.** The graph shows velocity as a function of time for non-uniform rectilinear motion. Distance traveled in the first $6\,\mathrm s$?
 - **A.** $5.5$
 - **B.** $80$
 - **C.** $110$
@@ -925,17 +835,11 @@ The Commission has also adopted a proposal for a regulation on the protection of
 - **E.** $180\ \mathrm m$
 
 <!--fig:start-->
-The following table shows the speed of the engine:
+**p.7** — velocity v vs time graph for non-uniform motion
 ![[_attachments/1liv24T/1liv24T_p7_f12.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="OII 2024 1° Livello Quiz — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/cart,object/ball,object/inclined-plane"></span>
@@ -966,25 +870,19 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q22.** Un vagoncino dell'ottovolante comincia a scendere lungo un piano inclinato a $45°$ verso destra; nello stesso istante un ragazzo lascia cadere una pallina. What curve represents the trajectory seen by the boy (negligible friction)?
+**Q22.** A roller coaster car begins to descend along an inclined plane at $45°$ toward the right; at the same instant a boy drops a small ball. Which curve represents the trajectory seen by the boy (negligible friction)?
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p7_f1.png]]
-*Treats in the child's reference (AE options).*
+*Trajectories in the boy's reference frame (options A–E).*
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7** — cinque traiettorie z vs x caduta nel riferimento mobile
+**p.7** — five z vs x trajectories of fall in the moving reference frame
 ![[_attachments/1liv24T/1liv24T_p7_f13.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Ball (object)|Ball]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="OII 2024 1° Livello Quiz — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/galvanometer"></span>
@@ -1059,20 +957,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-A ball-throwing machine on a cart (total mass of machine+carret $32\,\mathrm{kg}$, ball $58\,\mathrm g$) throws a ball horizontally at $95\,\mathrm{km/h}$ to the east. The speed of the machine after launch (in $\mathrm{cm\,s^{-1}}$)?
+**Q24.** A ball-launching machine on a cart (total mass of machine+cart $32\,\mathrm{kg}$, ball $58\,\mathrm g$) launches a ball horizontally at $95\,\mathrm{km/h}$ toward the east. Velocity of the machine after the launch (in $\mathrm{cm\,s^{-1}}$)?
 - **A.** $0$
-- **B ** $4.78$ east
+- **B.** $4.78$ east
 - **C.** $4.78$ west
-- **D ** $13.3$ east
+- **D.** $13.3$ east
 - **E.** $13.3$ west
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="OII 2024 1° Livello Quiz — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1098,20 +990,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q25.** Uno studente di $60\,\mathrm{kg}$ salta da uno sgabello; tocca terra a $3\,\mathrm{m/s}$ (verticale) e si ferma in $0.6\,\mathrm s$. Average force applied by the soil?
+**Q25.** A student of $60\,\mathrm{kg}$ jumps from a stool; he touches the ground at $3\,\mathrm{m/s}$ (vertical) and stops in $0.6\,\mathrm s$. Average force applied by the ground?
 - **A.** $1\times10^{-2}$
 - **B.** $4$
 - **C.** $0.3\,\mathrm{kN}$
 - **D.** $0.9\,\mathrm{kN}$
 - **E.** $1.5\,\mathrm{kN}$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="OII 2024 1° Livello Quiz — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/mirror"></span>
@@ -1137,20 +1023,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q26.** An object is placed in the fire of a concave mirror. The mirror produces...
-- **A** a smaller image
-- **B.** greater than
-- **C.** of the same size
-- **D.** at the same distance from the opposite side
-- **E.** no images (parallel reflection beams, infinite image)
+**Q26.** An object is placed at the focus of a concave mirror. The mirror produces...
+- **A.** a smaller image
+- **B.** a larger one
+- **C.** one of the same size
+- **D.** at the same distance on the opposite side
+- **E.** no image (reflected rays parallel, image at infinity).
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="OII 2024 1° Livello Quiz — Quesito 27" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
@@ -1181,25 +1061,19 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q27.** Trascurando l'attrito con l'aria, quale grafico rappresenta l'accelerazione di gravità in prossimità della Terra in funzione della massa di un corpo che cade? (constantly)
+**Q27.** Neglecting air friction, which graph represents the acceleration due to gravity near the Earth as a function of the mass of a falling body? (constant).
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p8_f1.png]]
-*Grafici $g$–$m$ (opzioni A–E).*
+*Graphs $g$–$m$ (options A–E).*
 <!--fig:end-->
 
 <!--fig:start-->
-**p.8** — cinque grafici accelerazione g vs massa m
+**p.8** — five graphs acceleration g vs mass m
 ![[_attachments/1liv24T/1liv24T_p8_f15.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="OII 2024 1° Livello Quiz — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electromagnetic-induction,argomento/elettromagnetismo,object/coil"></span>
@@ -1230,7 +1104,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q28.** A coil with 15 winding radii $1\,\mathrm{cm}$ rotates at $\omega=300\,\mathrm{rad\,s^{-1}}$ in a uniform field of $0.5\,\mathrm T$; negligible self-inductivity, resistance $9\,\Omega$. Maximum induced current value?
+**Q28.** A coil with 15 turns of radius $1\,\mathrm{cm}$ rotates at $\omega=300\,\mathrm{rad\,s^{-1}}$ in a uniform field of $0.5\,\mathrm T$; negligible self-inductance, resistance $9\,\Omega$. Maximum value of the induced current?
 - **A.** $2.51\times10^{-4}$
 - **B.** $5.39\times10^{-3}$
 - **C.** $7.85\times10^{-2}$
@@ -1238,17 +1112,11 @@ The Commission has also adopted a proposal for a regulation on the protection of
 - **E.** $7.85\times10^{-1}\ \mathrm A$
 
 <!--fig:start-->
-The following shall be added to the list of the components of the engine:
+**p.8** — coil rotating in a uniform magnetic field B
 ![[_attachments/1liv24T/1liv24T_p8_f16.png]]
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="OII 2024 1° Livello Quiz — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens"></span>
@@ -1274,20 +1142,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q29.** An object at $15\,\mathrm{cm}$ from a convergent focal length $10\,\mathrm{cm}$; immediately after the lens a glass cube is placed with the centre on the optical axis and two faces perpendicular to it. How far from the lens is the image formed?
+**Q29.** An object at $15\,\mathrm{cm}$ from a converging lens of focal length $10\,\mathrm{cm}$; immediately after the lens a glass cube is placed with its center on the optical axis and two faces perpendicular to it. At what distance from the lens is the image formed?
 - **A.** $10$
 - **B.** $15$
 - **C.** $25$
 - **D.** $30$
 - **E.** $35\ \mathrm{cm}$
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="OII 2024 1° Livello Quiz — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/rotational-dynamics,argomento/meccanica,object/cylinder"></span>
@@ -1318,25 +1180,18 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows the torque $M$ applied to a cylinder as a function of the time $t$. What is the amount of $X$ in gray?
+**Q30.** The graph shows the torque $M$ applied to a cylinder as a function of time $t$. Which quantity does the area $X$ in gray represent?
 - **A.** angular displacement
 - **B.** angular acceleration
-- **C.** angular moment change
+- **C.** change in angular momentum
 - **D.** change in rotational kinetic energy
 - **E.** change in angular velocity
-
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p8_f17.png]]
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="OII 2024 1° Livello Quiz — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/ottica,object/membrane"></span>
@@ -1367,7 +1222,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A film of water and soap of $s$ thickness in air is illuminated at almost normal incidence with monochrome light. For what thickness does the reflected light have maximum intensity ($\lambda$ is the wavelength in the film)?
+**Q31.** A soap and water film of thickness $s$ in air is illuminated, at nearly normal incidence, with monochromatic light. For which thickness does the reflected light have maximum intensity ($\lambda$ is the wavelength in the film)?
 - **A.** $\lambda/4$
 - **B.** $\lambda/2$
 - **C.** $\lambda$
@@ -1375,17 +1230,11 @@ A film of water and soap of $s$ thickness in air is illuminated at almost normal
 - **E.** $4\lambda$
 
 <!--fig:start-->
-**p.9 **  thin film thickness s with reflected rays
+**p.9** — thin film of thickness s with reflected rays
 ![[_attachments/1liv24T/1liv24T_p9_f18.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Membrane (object)|Membrane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="OII 2024 1° Livello Quiz — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica,object/block"></span>
@@ -1411,20 +1260,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q32.** A block of mass $5.1\,\mathrm{kg}$ slides on a horizontal plane at $3\,\mathrm m$ from the ground to $2\,\mathrm{m\,s^{-1}}$; when reached the edge, falls. A $1\,\mathrm m$ from the ground, how much are $E_c$ and $E_p$ (with $E_p=0$ on the ground, negligible friction)?
+**Q32.** A block of mass $5.1\,\mathrm{kg}$ slides on a horizontal plane at $3\,\mathrm m$ from the ground to $2\,\mathrm{m\,s^{-1}}$; upon reaching the edge, it falls. At $1\,\mathrm m$ from the ground, what are $E_c$ and $E_p$ (with $E_p=0$ at the ground, friction negligible)?
 - **A.** $(0;0.16)$
 - **B.** $(0.05;0.11)$
 - **C.** $(0.08;0.08)$
 - **D.** $(0.11;0.05)$
 - **E.** $(0.16;0)\ \mathrm{kJ}$
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q33" data-atom="q33" data-title="OII 2024 1° Livello Quiz — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/nucleus,object/atom"></span>
@@ -1450,20 +1293,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q33.** A pure radioactive sample initially contains $1.0\times10^{20}$ atoms of the unstable isotope $X$, which decays into the stable isotope $Y$ by releasing $E_1=8.0\times10^{-13}\,\mathrm J$ by decay. With half-life $4\,\mathrm h$, the total energy released in $12\,\mathrm h$ is
+**Q33.** A pure radioactive sample initially contains $1.0\times10^{20}$ atoms of the unstable isotope $X$, which decays into the stable isotope $Y$ releasing $E_1=8.0\times10^{-13}\,\mathrm J$ per decay. With a half-life $4\,\mathrm h$, the total energy released in $12\,\mathrm h$ is
 - **A.** $1.0\times10^7$
 - **B.** $2.0\times10^7$
 - **C.** $2.7\times10^7$
 - **D.** $7.0\times10^7$
-- **E ** $8.0\times10^7\ \mathrm J$ (7/8 of decayed nuclei).
+- **E.** $8.0\times10^7\ \mathrm J$ (7/8 of the decayed nuclei).
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="OII 2024 1° Livello Quiz — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
@@ -1498,7 +1335,7 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q34.** A dolphin swims towards an underwater wall by whistling at a frequency $f_0$, at a speed equal to $1\%$ that of sound in water (still water). Frequency of the reflected whistle perceived by the dolphin?
+**Q34.** A dolphin swims toward a submerged wall emitting a whistle at frequency $f_0$, at a speed equal to the $1\%$ of that of sound in water (still water). Frequency of the reflected whistle perceived by the dolphin?
 - **A.** $0.98 f_0$
 - **B.** $0.99 f_0$
 - **C.** $f_0$
@@ -1507,20 +1344,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p3_f1.png]]
-The following is the list of the types of equipment used:
+*inclined tube with a small piston, angle θ*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p3_f2.png]]
-*five graphs l vs θ answers AE*
+*five graphs ℓ vs θ answers A–E*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="OII 2024 1° Livello Quiz — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/elasticity-e-materials,argomento/meccanica,object/spring,object/block"></span>
@@ -1546,20 +1377,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q35.** An object of $m=1.53\,\mathrm{kg}$ in equilibrium on a vertical spring comprises the tablet of $\delta=0.15\,\mathrm m$. Energy stored in the spring?
+**Q35.** An object of $m=1.53\,\mathrm{kg}$ in equilibrium on a vertical spring compresses it by $\delta=0.15\,\mathrm m$. Energy stored in the spring?
 - **A.** $1.13$
 - **B.** $2.25$
 - **C.** $4.50$
 - **D.** $7.20$
 - **E.** $14.4\ \mathrm J$
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="OII 2024 1° Livello Quiz — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/electron"></span>
@@ -1585,20 +1410,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q36.** In un tubo a raggi catodici gli elettroni (energia cinetica iniziale trascurabile) sono accelerati da una d.d.p. $V$. Quadruplicando $V$, arriveranno all'anodo con...
-- **A.** $K$ double and $v$ quadruple
-- **B.** $K$ four times and $v$ twice
+**Q36.** In a cathode ray tube the electrons (negligible initial kinetic energy) are accelerated by a potential difference $V$. If $V$ is quadrupled, they will reach the anode with...
+- **A.** $K$ doubled and $v$ quadrupled
+- **B.** $K$ quadrupled and $v$ doubled
 - **C.** $K$ and $v$ both quadrupled
-- **D ** $K$ and $v$ both doubled
-- **E.** $K$ double and $v$ unchanged
+- **D.** $K$ and $v$ both doubled
+- **E.** $K$ doubled and $v$ unchanged
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q37" data-atom="q37" data-title="OII 2024 1° Livello Quiz — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
@@ -1693,30 +1512,24 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q38.** Which of the schemes correctly represents the energy transfers in the corresponding device?
+**Q38.** Which of the diagrams correctly represents the energy transfers in the corresponding device?
 
 <!--fig:start-->
 ![[_attachments/1liv24T/1liv24T_p10_f2.png]]
-Energy transfer schemes: 1 heat engine, 2 refrigerators, 3 heat pumps
+*Energy transfer diagrams: 1 heat engine, 2 refrigerator, 3 heat pump.*
 <!--fig:end-->
-- **A.** l'1 e il 2
-- **B.** il 2 e il 3
-- **C ** Only the 1
-- ** D ** Only the 2nd
-- **E ** Only the 3
+- **A.** 1 and 2
+- **B.** 2 and 3
+- **C.** Only 1
+- **D.** Only 2
+- **E.** Only 3
 
 <!--fig:start-->
-The following information is provided by the manufacturer:
+**p.10** — energy transfer diagrams heat engine refrigerator pump
 ![[_attachments/1liv24T/1liv24T_p10_f21.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q39" data-atom="q39" data-title="OII 2024 1° Livello Quiz — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1742,20 +1555,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q39.** A person on an electronic balance in an elevator: the balance marks a value greater than the mass. This could be because the elevator is moving...
-- **A.** upwards at constant speed
+**Q39.** A person on an electronic scale in an elevator: the scale reads a value greater than the mass. This may be due to the fact that the elevator is moving...
+- **A.** upward at constant speed
 - **B.** downward at constant speed
 - **C.** downward with increasing speed
-- **D.** downward at decreasing speed
-- **E.** upward at decreasing speed
+- **D.** downward with decreasing speed
+- **E.** upward with decreasing speed
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="OII 2024 1° Livello Quiz — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas,object/tank-container"></span>
@@ -1781,16 +1588,13 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q40.** In a container at $20\,^\circ\mathrm C$ $100\,\mathrm g$ of air at $10\,\mathrm{atm}$ pressure are contained. Volume of container (in litres)?
+**Q40.** In a container at $20\,^\circ\mathrm C$ there are $100\,\mathrm g$ of air at a pressure of $10\,\mathrm{atm}$. Volume of the container (in liters)?
 - **A.** $0.1$
 - **B.** $1$
 - **C.** $10$
 - **D.** $100$
 - **E.** $1000$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
+
+

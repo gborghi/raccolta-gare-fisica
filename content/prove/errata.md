@@ -290,274 +290,128 @@ ag.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 575/2013:
+**Physics**
 
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
+Olympiads of
+Physics
 2008
-The following is the list of the Member States:
+ERRA
 T
-The following information shall be provided:
-Ga
-ra
-di
+A-CORRIGE
+Race of
 2
 Æ
 Level
 {
 13
-F
-I 'm not sure .
-What the hell ?
+February
 2008
-Misstatement
-The solution
-of the
-The problem
-n.2
-Question No
-n.
+Errata-Corrige
+Solution of
+Problem no. 2
+Question no.
 3.
-Assuming that
-human beings
-origin
-of the
-time
-the country of origin
-te
-di
-The departure
-of the
-first
-It's awful.
-il
-If the wave
-It must be
-e
-The following is the list of the
-the country
-te
-t
+Assuming as the time origin the instant of departure of the first runner, the second must start at the instant t
 2
 =
 T
-R
- t
+R t
 0
 1
 ;
-The equation
-di
-Motorcycles
-of the
-first
-Horrible .
-ne
-d
-a
-la
-p
-The Commission shall adopt implementing acts.
-The following is the list of the
-of the same
-Other
-te:
+the equation of motion of the first runner gives the position at the same instant:
 8
 >
 <
 >
-:
+{
 s(t)
 =
 1
-2
-at
-2
-p
-er
-s
+2 at
+2 for s
 
 `
 0
-,
-t
+, t
 
 t
 1
-=
-r
+= r
 2`
-0
-a
-s(t)
+0 a s(t)
 =
 `
 0
-+
-v
-0
-(t
- t
++ v
+0 (t t
 1
 )
-p
-er
-s
+for s
 
 `
 0
-,
-t
+, t
 
 t
 1
-P
-er
-in the waves
-la
-distance
-ri
-hysterectomy
-d,
-o
-Horrors
-So, what?
-distinguish
-a
-If it flows
+To calculate the required distance d, one must therefore distinguish according to
 
-he
-t
+whether t
 2
 
 t
-1
-o
-vi ev
-the following:
- on
-la
-the condition
+1 or vice versa:
+with the condition
 `
 0
 =
-L=2
-e
- on
-i
-data
-n
-The following is the list of
-of the
-The problem
-The following is the list of the
-t
+L=2 and with the numerical data of the problem it turns out t
 2
-=
-(9:74
+= (9:74
  4:11)
 s
 =
-5:63
-s,
-Men and women
-three
-t
+5:63 s, while t
 1
 =
-6:50
-s.
-Using
-Then
-la
-Before
-The following is the list of the following:
-si
-The Commission
-v
-a
-s(t
+6:50 s.
+Using then the first expression one finds s(t
 2
 )
 =
-37:6
-m
+37:6 m
 )
 d
-=
-(L
+= (L
  D
 )
  s(t
 2
 )
 =
-42:4
-m
-In the
-on the seams
- am
-bi
-in
-v
-e e
-il
-Horrible .
+42:4 m
+In the subsequent changes instead the runner
 
-he
-Pre- and after
-si
-m
-uo
-v
-e
-di
-Motorcycles
-uniform
-a
-v
-I'm going to
- it
-a
-v
-e
-la
-distance
-si
-The Commission
-v
-a
-Employment
-by the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
+who is ahead moves with uniform motion at speed v and the distance is found by imposing
 D
-+
-d
-=
-v
-t
++ d
+= v t
 0
 1
 )
 d
-=
-v
-t
+= v t
 0
 1
  D
 =
-20:0
-m
-P
-ag.
+20:0 m
+Pag.
 4
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/15svEVYQnR6p5V3U08Ws6sqJ3LpK5jcP6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/17-6qDI1XyWvH4b5H0VrLGAVBH0QrgfGw/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/17-6qDI1XyWvH4b5H0VrLGAVBH0QrgfGw/view)
+
+

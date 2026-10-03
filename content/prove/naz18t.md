@@ -120,29 +120,19 @@ minima. Si calcoli il valore di $S_\text{max} - S_\text{min}$ in funzione di $k$
 <div class="qlang-split" data-lang="en"></div>
 
 P2 Thermodynamic transformation
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A system consisting of a perfect biatomic gas executes the reversible thermodynamic cycle in a clockwise manner
-shown in the following diagram
-where the CA transformation is adiabatic. $p_A$ and $V_A$ are considered to be known and $V_B = V_A/k$ with $k > 1$.
-1. $p_C$ is determined by $p_A$ and $k$.
-2. The yield $\eta$ of the cycle is found, as a function of $k$.
-3. Taking into account that the $\eta(k)$ function is increasingly monotonous for $k > 1$, the value of $k$ is determined with a
-error less than $0.05$, for which the yield $\eta$ is 24%.
-4. Determine in which or in which system entropy cycle states is greatest, and in which or in which states
-The minimum. The value of $S_\text{max} - S_\text{min}$ shall be calculated as a function of $k$ and the amount of substance expressed in moles ($n$).
+Points 40
+A system consisting of a diatomic ideal gas performs, clockwise, the reversible thermodynamic cycle shown in the following diagram in which the transformation CA is adiabatic. Let $p_A$ and $V_A$ be known and let $V_B = V_A/k$ with $k > 1$.
+1. Determine $p_C$ as a function of $p_A$ and $k$.
+2. Find the efficiency $\eta$ of the cycle, as a function of $k$.
+3. Taking into account that the function $\eta(k)$ is monotonically increasing for $k > 1$, determine the value of $k$, with an error less than $0.05$, for which the efficiency $\eta$ is equal to 24 %.
+4. Determine in which state or states of the cycle the entropy of the system is maximum, and in which state or states it is minimum. Calculate the value of $S_\text{max} - S_\text{min}$ as a function of $k$ and of the amount of substance expressed in moles ($n$).
 
 <!--fig:start-->
-The following table shows the results of the calculation of the energy efficiency of the p-V-plane:
+**p.5** — Thermodynamic cycle in the p-V plane
 ![[_attachments/Naz18T/Naz18T_p5_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1t7SfTTeX8qgTiqGcUarrgn6vKk8HiqV0/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1tbNNBBeVyXH7JpOqXs_-BGe29-dmEaqK/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1tbNNBBeVyXH7JpOqXs_-BGe29-dmEaqK/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2018 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/kinetic-theory,topic/thermodynamics,argomento/meccanica,object/gas,object/atom,object/photon"></span>

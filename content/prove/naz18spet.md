@@ -256,70 +256,64 @@ Fai almeno 20 rilevazioni di d.d.p. corrispondenti a lanci andati a buon fine. O
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Duration of impact  Load of a capacitor** (75 points)
+**Duration of the collision — Charging of a capacitor** (75 points)
 
-In the circuit in Figure 5, a battery is connected in series with an exhaust capacitor, resistor, and $T_1$ initially open switch (see Figure 5 on the left). If $T_1$ is closed for a time $t$, with $T_2$ open, the difference in potential (d.d.p.) to capacitor heads rises to $V$, from the initial zero value, according to the ratio:
+In the circuit of figure 5, a battery is connected in series with an uncharged capacitor, a resistor, and a switch $T_1$ initially open (see figure 5 on the left). If $T_1$ is closed for a time $t$, with $T_2$ open, the potential difference (p.d.) across the capacitor rises to the value $V$, from the initial null value, according to the relation:
 
 $$V = V_p\left(1 - e^{-t/(RC)}\right) \quad (1)$$
 
-where $V_p$ is the electromotive force (f.e.m.) provided by the battery, $R = R_0 + R_p$ (with $R_0$ resistance and $R_p$ internal battery resistance) and $C$ is the capacitance of the capacitor.
+where $V_p$ is the electromotive force (e.m.f.) supplied by the battery, $R = R_0 + R_p$ (with $R_0$ resistance of the resistor and $R_p$ internal resistance of the battery) and $C$ is the capacitance of the capacitor.
 
-The internal resistance of the $R_p$ battery is $(1.5 \pm 0.1)\,\Omega$, while the resistance of the $R_0$ battery is indicated on the label attached to the resistor itself.
+The internal resistance of the battery $R_p$ is $(1.5 \pm 0.1)\,\Omega$, while the resistance of the resistor $R_0$ is indicated on the label attached to the resistor itself.
 
-If in a circuit like this $T_1$ is closed (with $T_2$ open) when the ball is in contact with the board, the measurement of the d.d.p. The capacitor heads can be traced back to the $t$ duration of contact. If $T_2$ is closed, the capacitor is short and the d.d.p. The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in a manner consistent with the objectives of the programme.
+If in a circuit like this one arranges for $T_1$ to close (with $T_2$ open) when the ball is in contact with the board, from the measurement of the p.d. across the capacitor one can determine the duration $t$ of the contact. If $T_2$ is closed the capacitor is short-circuited and the p.d. across its terminals becomes zero (see figure 5 on the right).
 
-Attach 3 or 4 strips or a rectangle of aluminium adhesive tape to the ball without any grinding to create conductive zones (Figure 6).
+Attach 3 or 4 small strips or a small rectangle of aluminum adhesive tape on the ball without leaving wrinkles, to create conductive areas (figure 6).
 
-To make $T_1$, cut 2 rectangular pieces $5\text{ cm} \times 7\text{ cm}$ (approximately) of aluminium adhesive tape. Attach them to each other at a distance of 1 mm on the tablet, leaving a part to fold onto itself, with the adhesive inside, as shown in Figure 7. This separation functions as a switch that is closed by contact with the aluminium parts applied to the ball when it falls over it. The rubber face of the aluminum tape is not conductive.
+To make $T_1$, cut 2 rectangular pieces $5\text{ cm} \times 7\text{ cm}$ (approximately) of aluminum adhesive tape. Attach them at a distance of 1 mm from each other on the board, leaving a part protruding that you will fold over onto itself, with the adhesive on the inside, as shown in figure 7. This separation acts as a switch that is closed by contact with the aluminum parts applied to the ball when it falls onto it. The rubberized face of the aluminum tape is not conductive.
 
-To make $T_2$, cover the ends of the two arms of the spring with aluminium tape, making sure they do not touch each other, as shown in Figure 8. This switch shall also be closed by contact with the ball conducting areas before each fall.
+To make $T_2$, cover the ends of the two arms of the clothespin with aluminum tape, taking care that they do not touch each other, as shown in figure 8. This switch too will be closed through contact with the conductive areas of the ball, before each fall.
 
-Install the circuit as shown in Figure 9 corresponding to the electrical scheme in Figure 5.
+Assemble the circuit as shown in figure 9 corresponding to the electrical diagram in figure 5.
 
-The capacitor, which is of an electrolytic type, has a dielectric sensitive to the direction of the internal electric field. The two polarities are indicated on the envelope: the free reopening, i.e. the metallic wire on the blue-colored part of the envelope, corresponds to the negative polarity and must therefore be connected to the negative pole of the pile. If the condenser is extremely polarized, it can explode. In all cases, use protection tools and stand away.
+> **WARNING!** The capacitor, which is of the electrolytic type, has a dielectric sensitive to the direction of the internal electric field. The two polarities are indicated on the casing: the free lead, that is, the metal wire on the side of the casing colored blue, corresponds to the negative polarity and must therefore be connected to the negative pole of the battery. **IF THE CAPACITOR IS REVERSE POLARIZED, IT CAN EXPLODE. IN ANY CASE, USE SAFETY GOGGLES AND STAY AWAY.**
 
-Turn on the multimeter with the "POWER" button. The instrument has already been prepared to operate as a DC voltmeter with a power output of 20 V. Measure the f.e.m. with the voltmeter. $V_p$ to the pile heads and record it in the reply sheet.
+Turn on the multimeter with the "POWER" button. The instrument has already been set up to function as a direct-current voltmeter, with a 20 V range. Measure the e.m.f. $V_p$ across the battery with the voltmeter and record it on the answer sheet.
 
-It connects the circuit in series with the battery, capacitor + resistor, and $T_1$. It connects the voltmeter in parallel to the capacitor. It also connects $T_2$ in parallel to the capacitor. With the ball in contact with $T_2$, short circuit the capacitor to discharge it from any charge, and select the 2 V voltage on the voltmeter.
+Build the circuit by connecting in series the battery, the capacitor + resistor, and $T_1$. Connect the voltmeter in parallel with the capacitor. Also connect $T_2$ in parallel with the capacitor. With the ball in contact with $T_2$, short-circuit the capacitor to discharge it from any charge, and select the 2 V range on the voltmeter.
 
-Fix the spring (switch $T_2$) so that the ball falls from a height of 25 cm above the switch $T_1$. Keep the capacitor discharged before each launch, by short-circulating it with the ball on $T_2$.
+Fix the spring (switch $T_2$) so that the ball falls from a height of 25 cm above the switch $T_1$. Keep the capacitor discharged before each launch, short-circuiting it with the ball on $T_2$.
 
-You do at least 20 D.D.P. tests. The results of the tests were the same as those of the previous tests. You'll get D.D.P. values. The Commission has already adopted a number of proposals. Please note that the capacitor is charged ** only during the circuit shutdown phase **, the duration of which may not coincide with that of the impact. In view of this, you will have to choose and consider the values of d.d.p. The following conditions are most likely to be met in the event of a collision between the circuit and the shutdown.
+Take at least 20 measurements of p.d. corresponding to successful launches. You will obtain p.d. values within a certain range. Keep in mind that the capacitor charges **only during the closing phase of the circuit**, whose duration may not coincide with that of the impact. Taking this into account, you will have to choose and consider the p.d. values that most probably were obtained in a situation of coincidence between circuit closing and impact.
 
-**3.1**  Record the voltmeter indication every time the launch has been successful and the capacitor has been charged.
+**3.1** — Record the voltmeter reading each time the launch was successful and the capacitor charged.
 
-**3.2**  What value/values do you choose to calculate the duration of the impact? What criteria did you follow for the choice?
+**3.2** — Which value(s) do you choose to calculate the duration of the collision? What criterion did you follow for the choice?
 
-**3.3**  Draw from (1) the expression of the capacitor load time $t$ $t = f(V; V_p; R; C)$, and calculate the duration of impact for the value (s) you have chosen. The uncertainty of $t$ is not required. Just write the value in scientific notation, and only the numbers you think are significant.
+**3.3** — Derive from (1) the expression for the time $t$ for charging the capacitor $t = f(V; V_p; R; C)$, and calculate the duration of the collision for the value(s) you have chosen. The uncertainty of $t$ is not required. Limit yourself to writing its value in scientific notation, and with only the digits you consider significant.
 
 <!--fig:start-->
 ![[_attachments/Naz18SpeT/Naz18SpeT_p5_f5.png]]
-The following information shall be provided:
+*Figure 5: capacitor charging circuit diagram*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Naz18SpeT/Naz18SpeT_p5_f6.png]]
-*Figure 6: conductive stripes on the ball*
+*Figure 6: conductive strips on the ball*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Naz18SpeT/Naz18SpeT_p6_f7.png]]
-The following table shows the number of units in the unit:
+*Figure 7: switch T1 aluminum tape*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Naz18SpeT/Naz18SpeT_p6_f8.png]]
-The following is the list of the components of the engine:
+*Figure 8: switch T2 aluminum spring clip*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/Naz18SpeT/Naz18SpeT_p6_f9.png]]
-The following table shows the results of the calculation of the total value of the input data:
+*Figure 9: physical assembly of the circuit*
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Newtonian Mechanics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1U3n7kjiAzQCicG8zEQDDyACAMSGHyTlh/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jPrh7aUYfyYnDRUmNf6LKTu5Ilmm-OCv/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jPrh7aUYfyYnDRUmNf6LKTu5Ilmm-OCv/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>

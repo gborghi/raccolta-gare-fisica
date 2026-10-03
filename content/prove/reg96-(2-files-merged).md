@@ -167,21 +167,15 @@ L'aria si dice satura di vapor acqueo quando è in equilibrio termodinamico con 
 
 **Relative humidity and dew point**
 
-Air is called water vapor saturation when it is in thermodynamic equilibrium with liquid water. The ratio of the water vapor mass in a given volume of air to the volume needed to saturate it (expressed as a percentage) is defined as ** relative humidity**. The ** dew point** is the temperature at which the vapor present becomes saturated and condensed.
+Air is said to be saturated with water vapor when it is in thermodynamic equilibrium with liquid water. **Relative humidity** is defined as the ratio between the mass of water vapor present in a given volume of air and that needed to saturate it (expressed as a percentage). The **dew point** is the temperature below which the vapor present becomes saturated and condenses.
 
-The following table shows the temperature of the saturated vapor (g m−3) as a function of temperature (°C): 0→4.85; 2→5.53; 4→6.33; ... The following table shows the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the indicators.
+*[Table: density of saturated vapor (g m−3) as a function of temperature (°C): 0→4.85; 2→5.53; 4→6.33; ... 10→9.40; 12→10.6; 22→19.3; 24→21.5; intermediate values provided.]*
 
-1. An apartment is air conditioned with $2\,°\text{C}$ external air and relative humidity $25\%$. After the balance, the windows are closed and the temperature is brought to $22\,°\text{C}$. Calculate the relative humidity of the interior.
-2. How much water is to be evaporated ($V = 270\text{ m}^3$, constant pressure) to bring the relative humidity to $52\%$?
-3. A cold glass in the $52\%$ apartment is condensed: determine the maximum temperature of the drink $T$.
+1. An apartment is aired with outside air at $2\,°\text{C}$ and relative humidity $25\%$. After equilibrium is reached, the windows are closed and the temperature is brought to $22\,°\text{C}$. Calculate the internal relative humidity.
+2. How much water must be evaporated ($V = 270\text{ m}^3$, constant pressure) to bring the relative humidity to $52\%$?
+3. A cold glass placed in the apartment at $52\%$ shows condensation: determine the maximum temperature $T$ of the drink.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1ENFFYDGOcdiPK-0lIhpgcKaEc83OM_Z8/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ENFFYDGOcdiPK-0lIhpgcKaEc83OM_Z8/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ENFFYDGOcdiPK-0lIhpgcKaEc83OM_Z8/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 1996 2° Livello Teorica — reg96 (2 files merged).pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens,object/screen"></span>

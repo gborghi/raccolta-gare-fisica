@@ -33,21 +33,14 @@ Poiché $v$ è la stessa in ogni punto della lastra, $\omega$ è uguale per tutt
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 1  Rolls-cylinder conveyor system
+PROBLEM no. 1 – Roller conveyor system
 85 points
-Question No. 1.
-Consider the point of contact between a generic roller and the plate. In order not to speed up it must
-be equal to the tangential at the point of contact; then
+Question no. 1.
+Consider the contact point between a generic roller and the plate. In order for it not to slip, its speed must be equal to the tangential speed at the contact point; therefore
 $$v = \omega R$$
-Since $v$ is the same at each point on the plate, $\omega$ is the same for all rolls.
+Since $v$ is the same at every point of the plate, $\omega$ is the same for all rollers.
 
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2011 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/conservation-of-energy,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/cylinder"></span>
@@ -143,45 +136,26 @@ $$v'_n = \frac{2M + (2N - 1)m}{2M + 2Nm}\,v_n = \left(1 - \frac{1}{2}\frac{m}{M 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 3.
-Indicate the change in the amount of rolling of the plate caused by the rolling stock with $\Delta p$ and $\Delta p_c$ respectively
-urtato e da ognuno dei $2N - 1$ rulli a contatto con la lastra. It is also denoted by $\Delta J$ and $\Delta J_c$ respectively
-the change in the angular moment of the stationary roller and of each $2N - 1$ roll in rotation in contact with the
-the plate.
-The angular moment of a rigid body can be expressed as $J = I\omega$ where $I$ represents the moment of inertia
-and $\omega$ the angular velocity.
-In a collision, impulse forces parallel to the direction of the motor develop between the plate and the rolls (forces)
-The Commission has not yet taken a decision.
-The pulse of the forces exerted by the rollers on the plate changes the amount of motion of the plate
+Problem no. 3.
+Let $\Delta p$ and $\Delta p_c$ denote respectively the change in momentum of the plate caused by the struck roller and by each of the $2N - 1$ rollers in contact with the plate. Let $\Delta J$ and $\Delta J_c$ denote respectively the change in angular momentum of the stationary roller and of each of the $2N - 1$ rotating rollers in contact with the plate.
+The angular momentum of a rigid body can be expressed as $J = I\omega$ where $I$ represents the moment of inertia and $\omega$ the angular velocity.
+In a collision, impulsive forces parallel to the direction of motion (friction forces) develop between the plate and the rollers.
+The impulse of the forces that the rollers exert on the plate changes the momentum of the plate
 $$M\,(v'_n - v_n) = \Delta p + (2N - 1)\Delta p_c$$
-Note that $\Delta p$ and $\Delta p_c$ are marked opposite.
-The change in the amount of rolling stock produced by the individual rolls is related to the change in momentum.
-angle of each roll. In fact, the change in q.d.m. the plate is given by
-$$\Delta p = \int f\,dt$$
-where $f$ is the force applied by a roller to the plate. In the case of an impulse force the integral is extended to an interval
-The time scale is negligible, but the change in Q.D.M. It's over anyway.
-The moment of the $f'$ force pulse exerted by the plate on each single roll at a point on the surface,
-The third principle of dynamics is that they have the same intensity, the same direction and the opposite direction.
-The angular momentum of the rolls: it precisely decreases the angular momentum of $2N - 1$ rolls and increases the
-the angular moment of the roll being started. The result is that the change in angular momentum of the roller
-The following is the list of the
+Note that $\Delta p$ and $\Delta p_c$ have opposite signs.
+The change in momentum of the plate produced by the individual rollers is related to the change in angular momentum of each roller. In fact, the change in momentum of the plate is given by
+$$\Delta p = \int f\,dt$$ where $f$ is the force applied by a roller to the plate. In the case of an impulsive force, the integral is extended over a negligible time interval, but the change in momentum is nevertheless finite.
+The angular impulse of the forces $f'$ that the plate exerts on each individual roller at a point on the surface, which by Newton's third law have the same magnitude, the same direction and opposite sense, changes the angular momentum of the rollers: specifically, it decreases the angular momentum of $2N - 1$ rollers and increases the angular momentum of the roller that is set in motion. It follows that the change in angular momentum of the roller is
 $$\Delta J = \int f'R\,dt = -R\int f\,dt = -R\,\Delta p$$
-The Commission has therefore
-$$I\,(\omega'_n - \omega_n) = \Delta J = -R\,\Delta p \quad\Rightarrow\quad I\omega'_n = -R\,\Delta p$$
-e
+We therefore have
+$$I\,(\omega'_n - \omega_n) = \Delta J = -R\,\Delta p \quad\Rightarrow\quad I\omega'_n = -R\,\Delta p$$ and
 $$I\left(\omega'_{c,n} - \omega_{c,n}\right) = \Delta J_c = -R\,\Delta p_c$$
-By replacing the last two expressions in the first one, you get
+Substituting the last two expressions into the first, we obtain
 $$M\,(v'_n - v_n) = -\frac{I\omega'_n}{R} - \frac{(2N - 1)\,I\,(\omega'_n - \omega_n)}{R}$$
-If we remember that $\omega = v/R$ and that $I = mR^2/2$ and develop the calculations we get
+Recalling that $\omega = v/R$ and that $I = mR^2/2$ and carrying out the calculations, we finally obtain
 $$v'_n = \frac{2M + (2N - 1)m}{2M + 2Nm}\,v_n = \left(1 - \frac{1}{2}\frac{m}{M + Nm}\right)v_n$$
 
-**Topic:** [[Conservation of Momentum]], [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2011 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/rotational-dynamics,argomento/meccanica,object/block,object/cylinder,object/inclined-plane"></span>
@@ -257,17 +231,11 @@ $$\Delta v_\ell = v_\ell - v'_\ell = 4\sqrt{\frac{2gR\,\text{sen}\,\alpha}{(31 +
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
-Si ha
+Problem no. 5.
+We have
 $$\Delta v_\ell = v_\ell - v'_\ell = 4\sqrt{\frac{2gR\,\text{sen}\,\alpha}{(31 + 4N)(8 + N)}}$$
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OII 2011 Nazionale Teorica — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica"></span>
@@ -297,24 +265,18 @@ PROBLEMA n. 2 – Nuclei speculari
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 6.
-See the chart next to it.
+Problem no. 6.
+See the graph alongside.
 ———————————
-The Commission has already taken a number of measures. 2  Speculative nuclei
+PROBLEM no. 2 – Mirror nuclei
 85 points
 
 <!--fig:start-->
-**p.2 **  Time-speed sheet chart
+**p.2** — Graph of the plate's velocity as a function of time
 ![[_attachments/Teo11sol/Teo11sol_p2_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2011 Nazionale Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus,object/sphere"></span>
@@ -606,24 +568,18 @@ Nota: parlando di campo e potenziale è sempre sottinteso l’attributo “elett
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
+Problem no. 5.
 The mass density is:
 $$\delta = \frac{3m}{4\pi R^3_0} = 1.88 \times 10^{28}\ \text{kg}\,\text{m}^{-3}$$
-The charge density of the core:
+The charge density of the nucleus:
 $$\rho = \frac{3Ze}{4\pi R^3_0\,A} = 8.17 \times 10^{24}\ \text{C}\,\text{m}^{-3}$$
-These values should only be understood as approximate estimates.
+These values are to be understood only as approximate estimates.
 ———————————
-The Commission has already taken a number of measures. 3  The uniformly modulated radial electrostatic field!
-85 points
-Note: when speaking of field and potential, the attribute electrostatic is always understood.
+PROBLEM no. 3 – Again the radial electrostatic field of uniform magnitude!
+85 Points
+Note: when speaking of field and potential, the attribute "electrostatic" is always implied.
 
-**Topic:** [[Nuclear & Particle Physics]], [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2011 Nazionale Teorica — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/sphere"></span>
@@ -968,51 +924,17 @@ e dunque non può mai esserci una componente perpendicolare di accelerazione, ta
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
-The Commission has already adopted a number of proposals for a directive on the protection of workers' rights.
-angular, perpendicular to the plane determined by the position $\vec{r}_0$ and speed
-The initial $\vec{v}_o$ Therefore, the entire trajectory must be on the same plane.
-Alternatively, you can recognize that the force is always on the same plane.
-And so there can never be a perpendicular component of acceleration that would take the particle out of the same plane.
+Question no. 5.
+Since this is a central force field, angular momentum is conserved, perpendicular to the plane defined by the initial position $\vec{r}_0$ and velocity
+$\vec{v}_o$. Therefore the trajectory must lie entirely in the same plane.
+Alternatively, one can recognize that the force always lies in the same plane and thus there can never be a perpendicular component of acceleration capable of taking the particle out of that plane.
 
 <!--fig:start-->
-The following table shows the results of the calculations:
-
-
-<figure class="tikz-fig">
-<!-- This file was generated by dvisvgm 3.2.2 -->
-<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='115.780169pt' height='68.914205pt' viewBox='-68.015658 -68.015705 115.780169 68.914205'>
-<defs>
-<path id='g0-82' d='M3.73599-6.117061C3.795766-6.356164 3.825654-6.455791 4.014944-6.485679C4.104608-6.495641 4.423412-6.495641 4.622665-6.495641C5.330012-6.495641 6.435866-6.495641 6.435866-5.50934C6.435866-5.17061 6.276463-4.483188 5.88792-4.094645C5.628892-3.835616 5.100872-3.516812 4.204234-3.516812H3.088418L3.73599-6.117061ZM5.17061-3.387298C6.176837-3.606476 7.362391-4.303861 7.362391-5.310087C7.362391-6.166874 6.465753-6.804483 5.160648-6.804483H2.321295C2.122042-6.804483 2.032379-6.804483 2.032379-6.60523C2.032379-6.495641 2.122042-6.495641 2.311333-6.495641C2.331258-6.495641 2.520548-6.495641 2.689913-6.475716C2.86924-6.455791 2.958904-6.445828 2.958904-6.316314C2.958904-6.276463 2.948941-6.246575 2.919054-6.127024L1.58406-.777086C1.484433-.388543 1.464508-.308842 .67746-.308842C.498132-.308842 .408468-.308842 .408468-.109589C.408468 0 .52802 0 .547945 0C.826899 0 1.524284-.029888 1.803238-.029888S2.789539 0 3.068493 0C3.148194 0 3.267746 0 3.267746-.199253C3.267746-.308842 3.178082-.308842 2.988792-.308842C2.620174-.308842 2.34122-.308842 2.34122-.488169C2.34122-.547945 2.361146-.597758 2.371108-.657534L3.028643-3.297634H4.214197C5.120797-3.297634 5.300125-2.739726 5.300125-2.391034C5.300125-2.241594 5.220423-1.932752 5.160648-1.703611C5.090909-1.424658 5.001245-1.05604 5.001245-.856787C5.001245 .219178 6.196762 .219178 6.326276 .219178C7.173101 .219178 7.521793-.787049 7.521793-.926526C7.521793-1.046077 7.412204-1.046077 7.402242-1.046077C7.312578-1.046077 7.292653-.976339 7.272727-.9066C7.023661-.169365 6.595268 0 6.366127 0C6.03736 0 5.967621-.219178 5.967621-.607721C5.967621-.916563 6.027397-1.424658 6.067248-1.743462C6.087173-1.882939 6.107098-2.072229 6.107098-2.211706C6.107098-2.978829 5.439601-3.287671 5.17061-3.387298Z'/>
-<path id='g0-114' d='M.876712-.587796C.846824-.438356 .787049-.209215 .787049-.159402C.787049 .019925 .926526 .109589 1.075965 .109589C1.195517 .109589 1.374844 .029888 1.444583-.169365C1.464508-.209215 1.803238-1.564134 1.843088-1.743462C1.92279-2.072229 2.102117-2.769614 2.161893-3.038605C2.201743-3.16812 2.480697-3.636364 2.719801-3.855542C2.799502-3.92528 3.088418-4.184309 3.516812-4.184309C3.775841-4.184309 3.92528-4.064757 3.935243-4.064757C3.636364-4.014944 3.417186-3.775841 3.417186-3.516812C3.417186-3.35741 3.526775-3.16812 3.795766-3.16812S4.343711-3.39726 4.343711-3.755915C4.343711-4.104608 4.024907-4.403487 3.516812-4.403487C2.86924-4.403487 2.430884-3.915318 2.241594-3.636364C2.161893-4.084682 1.803238-4.403487 1.334994-4.403487C.876712-4.403487 .687422-4.014944 .597758-3.835616C.418431-3.496887 .288917-2.899128 .288917-2.86924C.288917-2.769614 .388543-2.769614 .408468-2.769614C.508095-2.769614 .518057-2.779577 .577833-2.998755C.747198-3.706102 .946451-4.184309 1.305106-4.184309C1.474471-4.184309 1.613948-4.104608 1.613948-3.726027C1.613948-3.516812 1.58406-3.407223 1.454545-2.889166L.876712-.587796Z'/>
-<path id='g1-50' d='M3.521793-1.26924H3.284682C3.263761-1.115816 3.194022-.704359 3.103362-.63462C3.047572-.592777 2.510585-.592777 2.412951-.592777H1.129763C1.862017-1.241345 2.106102-1.436613 2.524533-1.764384C3.040598-2.175841 3.521793-2.608219 3.521793-3.270735C3.521793-4.11457 2.782565-4.630635 1.889913-4.630635C1.025156-4.630635 .439352-4.02391 .439352-3.382316C.439352-3.02665 .739228-2.991781 .808966-2.991781C.976339-2.991781 1.17858-3.110336 1.17858-3.361395C1.17858-3.486924 1.129763-3.731009 .767123-3.731009C.983313-4.226152 1.457534-4.379577 1.785305-4.379577C2.48269-4.379577 2.84533-3.835616 2.84533-3.270735C2.84533-2.66401 2.412951-2.182814 2.189788-1.931756L.509091-.27198C.439352-.209215 .439352-.195268 .439352 0H3.312578L3.521793-1.26924Z'/>
-</defs>
-<g id='page1'>
-<path d='M-56.476608-67.6172L.214844-10.921875' stroke='#000' fill='none' stroke-width='.79701'/>
-<path d='M-67.816408-10.921875H35.316392' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M39.07813-10.921875C38.6172-11.035156 36.58595-11.675781 35.316414-12.37109V-9.47656C36.58595-10.171875 38.6172-10.8125 39.07813-10.921875Z'/>
-<path d='M39.07813-10.921875C38.6172-11.035156 36.58595-11.675781 35.316414-12.37109V-9.47656C36.58595-10.171875 38.6172-10.8125 39.07813-10.921875Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 43.205208 2.14474)'>
-<use x='.215592' y='-10.92356' xlink:href='#g0-114'/>
-</g>
-<g transform='matrix(1 0 0 1 -6.017012 10.327679)'>
-<use x='.215592' y='-10.92356' xlink:href='#g0-82'/>
-<use x='7.780122' y='-9.429179' xlink:href='#g1-50'/>
-</g>
-</g>
-</svg>
-</figure>
-
-
+**p.6** — Graph of field E(r), central force trajectory
+![[_attachments/Teo11sol/Teo11sol_p6_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 2011 Nazionale Teorica — Problema 17" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/point-charge"></span>
@@ -1060,23 +982,18 @@ PROBLEMA n. 4 – Due altoparlanti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 6.
-At minimum distance $r$ (the pedicure is omitted for simplicity) the particle moves at an unknown speed of
-modulo $v$. A system of two equations must therefore be set up: one is provided by the conservation of energy,
-The other is the conservation of angular momentum.
-$$\begin{cases}\frac{1}{2}mv^2 + qV(r) = \frac{1}{2}mv^2_0 + qV(2R) \\ mrv = m(2R)v_0\,\text{sen}\,45^\circ\end{cases} \Rightarrow \begin{cases}mr^2v^2 R + mr^2 v^2_0(2R - r) = mr^2 v^2_0 R \\ rv = 2Rv_0\,\text{sen}\,45^\circ\end{cases}$$
-having multiplied the first equation by $2r^2 R$ and having replaced $2qE_0 R = mv^2_0$ by definition of $v_0$.
-From the second equation $r^2 v^2 = 4R^2 v^2_0\,\text{sen}^2\,45^\circ = 2R^2 v^2_0$ that, replaced in the first to eliminate the unknown
-$v$ dà
+Question no. 6.
+At the minimum distance $r$ (the subscript is omitted for simplicity) the particle moves with unknown speed of magnitude $v$. It is therefore necessary to set up a system of two equations: one is provided by the conservation of energy, the other by the conservation of angular momentum
+$$\begin{cases}\frac{1}{2}mv^2 + qV(r) = \frac{1}{2}mv^2_0 + qV(2R) \\ mrv = m(2R)v_0\,\text{sen}\,45^\circ\end{cases} \Rightarrow \begin{cases}mr^2v^2 R + mr^2 v^2_0(2R - r) = mr^2 v^2_0 R \\ rv = 2Rv_0\,\text{sen}\,45^\circ\end{cases}$$ having multiplied the first equation by $2r^2 R$ and having substituted $2qE_0 R = mv^2_0$ by the definition of $v_0$.
+From the second equation $r^2 v^2 = 4R^2 v^2_0\,\text{sen}^2\,45^\circ = 2R^2 v^2_0$ which, substituted into the first to eliminate the unknown
+$v$ gives
 $$2R^3 v^2_0 + r^2 v^2_0(2R - r) = r^2 v^2_0 R \quad\Rightarrow\quad r^3 - Rr^2 - 2R^3 = 0$$
-In the $z = r/R$ variable the equation to be solved is
+In the variable $z = r/R$ the equation to be solved is
 $$f(z) = z^3 - z^2 - 2 = 0 \quad\text{in}\quad 1 < z < 2$$
-It is noted that $f(1) = -2 < 0$, $f(2) = 2 > 0$ and that the derivative $f' = 3z^2 - 2z$ is always positive in the range
-The function is therefore continuous and increasing over the same interval, so it certainly has one and one
-only zero which can be determined, for example, by the dichotomous method:
-The numerical solution of the $f(z) = 0$ equation in $1 < z < 2$
+One observes that $f(1) = -2 < 0$, $f(2) = 2 > 0$ and that the derivative $f' = 3z^2 - 2z$ is always positive in the interval considered: therefore in the same interval the function is continuous and increasing, so it certainly has one and only one zero which can be determined for example with the bisection method:
+Numerical solution of the equation $f(z) = 0$ in $1 < z < 2$
 
-♪ value in the middle ♪ new range ♪ new position ♪
+| value at the midpoint | new interval | new position |
 |---|---|---|
 | $f(1.500) = -0.8750 < 0$ | 1.500 – 2.000 | $1.750 \pm 0.250$ |
 | $f(1.750) = 0.2969 > 0$ | 1.500 – 1.750 | $1.625 \pm 0.125$ |
@@ -1084,18 +1001,12 @@ The numerical solution of the $f(z) = 0$ equation in $1 < z < 2$
 | $f(1.687) = -0.0422 < 0$ | 1.687 – 1.750 | $1.719 \pm 0.031$ |
 | $f(1.719) = 0.1246 > 0$ | 1.687 – 1.719 | $1.703 \pm 0.016$ |
 
-The solution (less than 1%) is $z = 1.70$ for which $r_\text{min} \approx 1.70\,R$.
+The solution (to within 1%) is $z = 1.70$ so $r_\text{min} \approx 1.70\,R$.
 ———————————
-The Commission has already taken a number of measures. 4  Two speakers
+PROBLEM no. 4 – Two loudspeakers
 45 points
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="OII 2011 Nazionale Teorica — Problema 18" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/wave-optics,argomento/meccanica"></span>
@@ -1283,46 +1194,34 @@ loro un vivo ringraziamento da parte del Gruppo Olimpiadi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 3.
-Overlapping two sinusoidal waves with the same frequency and phase as $\phi$, a sinusoidal wave with
-the same frequency, the amplitude of which is related to the amplitudes of the two waves in the $A^2 = A^2_1 + A^2_2 + 2 A_1 A_2 \cos\phi$ ratio. This expression is easily obtained by using the vector representation of the
-The function of the wave by means of the beam. According to this representation, the resulting wave amplitude is determined by the
-adding two vectors of the $A_1$ and $A_2$ forming an angle $\phi$.
-The same result can be obtained by adding two different, non-phase wave functions of $\phi$:
-$y_1 = A_1\,\text{sen}\,(\omega t)$ e $y_2 = A_2\,\text{sen}\,(\omega t + \phi)$. This is the wave amplitude $A$ and the initial phase $\psi$ which is
-He wants to determine.
+Problem no. 3.
+By superimposing two sinusoidal waves with the same frequency and phase-shifted by $\phi$, one obtains a sinusoidal wave with the same frequency, whose amplitude is related to the amplitudes of the two component waves by the relation $A^2 = A^2_1 + A^2_2 + 2 A_1 A_2 \cos\phi$. This expression is easily derived using the vector representation of the wave functions by means of phasors. According to this representation, the amplitude of the resulting wave is determined by adding two vectors of magnitude $A_1$ and $A_2$ that form an angle $\phi$.
+The same result can be reached by adding two wave functions of different amplitude and phase-shifted by $\phi$:
+$y_1 = A_1\,\text{sen}\,(\omega t)$ and $y_2 = A_2\,\text{sen}\,(\omega t + \phi)$. In this way one obtains the wave of amplitude $A$ and initial phase $\psi$ that is to be determined.
 $$A_1\,\text{sen}(\omega t) + A_2\,\text{sen}(\omega t + \phi) = A\,\text{sen}(\omega t + \psi)$$
-Developing with the addition formula
+Expanding with the addition formula
 $$A_1\,\text{sen}\,\omega t + A_2\cos\phi\,\text{sen}\,\omega t + A_2\,\text{sen}\,\phi\cos\omega t = A\cos\psi\,\text{sen}\,\omega t + A\,\text{sen}\,\psi\cos\omega t$$
-By imposing equality, first for $\omega t = 0$ and then for $\omega t = \pi/2$,
+Imposing equality, first for $\omega t = 0$ and then for $\omega t = \pi/2$,
 $$A_2\,\text{sen}\,\phi = A\,\text{sen}\,\psi$$
 $$A_1 + A_2\cos\phi = A\cos\psi \qquad (1)$$
-Quadrating and summing
+Squaring and adding
 $$A^2_2\,\text{sen}^2\,\phi + A^2_1 + A^2_2\cos^2\phi + 2A_1 A_2\cos\phi = A^2\,\text{sen}^2\,\psi + A^2\cos^2\psi$$
 Simplifying
 $$A^2 = A^2_1 + A^2_2 + 2A_1 A_2\cos\phi$$
-Back to the problem, we know that when the speaker is switched on or off in $S_2$ no change is noticed.
-In the sound intensity in B, in other words the amplitudes $A_1$ of the first source and $A$ of the overlay
-The waves are the same. In addition, it has $A_1 = \sqrt{2}\,A_2$ due to the different distance. So you get,
+Returning to the problem, it is known that turning the loudspeaker in $S_2$ on or off produces no noticeable variation in the sound intensity at B, in other words the amplitudes $A_1$ of the first source and $A$ of the superposition of the waves are equal. Moreover, one has that $A_1 = \sqrt{2}\,A_2$ because of the different distance. One obtains, therefore,
 $$A^2_1 = A^2_1 + A^2_2 + 2A_1 A_2\cos\phi \quad\Rightarrow\quad 2A^2_2 = 2A^2_2 + A^2_2 + 2\sqrt{2}\,A^2_2\cos\phi$$
 $$1 + 2\sqrt{2}\cos\phi = 0 \quad\Rightarrow\quad \cos\phi = -\frac{\sqrt{2}}{4} \quad\Rightarrow\quad \phi_1 = \arccos\left(-\frac{\sqrt{2}}{4}\right) \quad\text{e}\quad \phi_2 = 2\pi - \arccos\left(-\frac{\sqrt{2}}{4}\right)$$
-Ora, ricordando che $\phi_i = 2\pi\frac{d_i\left(\sqrt{2} - 1\right)\nu}{v}$, si ricava
+Now, recalling that $\phi_i = 2\pi\frac{d_i\left(\sqrt{2} - 1\right)\nu}{v}$, one obtains
 $$d_i = \frac{\phi_i}{2\pi}\frac{v}{\nu}\frac{1}{\sqrt{2} - 1} \quad\Rightarrow\quad d_1 = 0.57\ \text{m} \quad\text{e}\quad d_2 = 1.28\ \text{m}$$
 Material produced by the group
-Olympic Games
-Project
-Olympic Project
-Italian Olympic Secretariat for Physics
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to combat fraud.
-Problems 1 and 2 were drawn up on the proposal of two students already members of the Italian teams at the
-International Olympic Games, respectively Giuliano Chiriaco (Silver medal at the IPhO in Merida, Mexico,
-The European Commission has also launched a programme to promote the development of the European Union's research and technological development strategy.
-I want to thank them very much from the Olympic Group.
+OLYMPIADS
+PROJECT
+OLYMPIAD PROJECT
+Secretariat of the Italian Physics Olympiads fax: 041.584.1272 e-mail: olifis@libero.it
+Problems no.1 and no.2 were developed on the proposal of two students who were already members of the Italian teams at the
+International Olympiads, respectively Giuliano Chiriacò (Silver Medal at the IPhO in Merida, Mexico,
+2009) and Andrea Caleo (Silver Medal at the IPhO in Hanoi, Vietnam, 2008); for this collaboration they deserve warm thanks from the Olympiad Group.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+
+

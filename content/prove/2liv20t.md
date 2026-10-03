@@ -832,50 +832,26 @@ di Monza?
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-Oval of Monza
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Monza Motor Speedway was formed, until the years
-60 of the last century, from two lanes: the road circuit, still used for the grand prix, and an oval track, now disused, with two curves raised
-with a slope of not more than 50 mm
-equal to 80% in the outermost part (remember that
-slope is the tangent value of the angle of
-The slope of the line shall be: $\text{tg}\ \alpha = 0.8$.
-You think of yourself as a machine in the whole problem.
-The following is the list of the following:
-external where the radius of curvature is $r = 320$ m .
-Two further highly simplifying indications follow: any aerodynamic force perpendicular to the road surface due to axles or similar structures is ignored and any consideration of the road surface is ignored.
-the time applied and the possibility of turning the machine over.
-When a car is facing a curve, the required centrifugal acceleration is usually given by the single
-The lateral thrust exerted by the friction between the tyres and the asphalt on the centre; the raised curves allow for
-The Commission will also be able to take the necessary measures to reduce or eliminate this need.
-1. At what constant speed a machine should travel the curve above it so that the friction between the
-Does the tyre and asphalt have a side component, i.e. perpendicular to the direction of the motorcycle?
-At speeds other than this, since the normal ground reaction determines the maximum force of friction, the two components of the friction  in the direction of the velocity and normal to this  are not independent;
-However, under the conditions of this problem a good estimate of the required size in the next point is
-The speed of the friction component is also neglected.
-2. In doing so, it determines, based on the static friction coefficient between the wheels and the asphalt and other data,
-aexpression for the maximum speed of the curve without the wheels slipping laterally, and
-The value of the product shall be calculated with a static friction coefficient of 0.9.
-3. The speed shall be determined by the static friction coefficient between the wheels and the asphalt and other data.
-The minimum curve path without the wheels sliding laterally, and the value is calculated with a
-The coefficient of static friction is 0.9.
-Consider now that race car tyres often have asphalt friction coefficient values
-greater than 1.
-4. In addition to what the friction coefficient value would be there would be no speed limits on the above-mentioned
-- What about Monza?
+Monza Oval
+Points 20
+Until the 1960s, the Monza Autodromo consisted of two tracks: the road circuit, still used for grand prix, and an oval track, now disused, with two banked curves having a slope that reaches a maximum value equal to 80% in the outermost part (recall that the slope is the value of the tangent of the angle of inclination with respect to the horizontal: $\text{tg}\ \alpha = 0.8$).
+Throughout the problem, consider a car that travels the banked curve at constant speed, staying at the same height in the outermost part where the radius of curvature is $r = 320$ m.
+Then follow two further strongly simplifying indications: neglect any aerodynamic force perpendicular to the road surface, due to wings or similar structures, and disregard any consideration related to applied torques and the possibility of the car overturning.
+When a car takes a curve, the necessary centripetal acceleration is usually provided by the lateral thrust alone that friction between the tires and the asphalt exerts on the vehicle; banked curves make it possible to reduce or completely eliminate this need.
+1. At what constant speed should a car travel the banked curve so that friction between tires and asphalt has no lateral component, that is, perpendicular to the direction of motion?
+At speeds different from this one, since the normal reaction of the ground determines the magnitude of the maximum friction force, the two components of friction – in the direction of the velocity and normal to it – are not independent;
+however, under the conditions of this problem a good estimate of the quantity required in the next point is also obtained by neglecting entirely the friction component parallel to the velocity.
+2. Proceeding in this way, determine, as a function of the coefficient of static friction between the wheels and the asphalt and of the other data, an expression for the maximum speed at which the curve can be traveled without the wheels sliding sideways, and calculate its value with a coefficient of static friction equal to 0.9.
+3. Determine, as a function of the coefficient of static friction between the wheels and the asphalt and of the other data, the minimum speed at which the curve can be traveled without the wheels sliding sideways, and calculate its value with a coefficient of static friction equal to 0.9.
+Consider now that the tires of racing cars often have values of the coefficient of friction with the asphalt greater than 1.
+4. Above what value of the coefficient of friction would there be no limit to the maximum speed on the banked curves of Monza?
 
 <!--fig:start-->
 ![[_attachments/2liv20T/2liv20T_p7_f9.png]]
-*Oval of Monza elevated circuit*
+*Monza oval banked circuit*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2020 2° Livello — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/wave-optics,argomento/elettromagnetismo,object/diffraction-grating"></span>
@@ -907,24 +883,16 @@ di $m_r$ e $m_v$.
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-Other, of a kind used for the manufacture of goods
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A lattice is illuminated perpendicular to the light from a gaseous source. They're watching themselves.
-a red line ($\lambda_r = 660$ nm) at an angle $\theta_r = 26.1^\circ$ to the lattice axis and a green line ($\lambda_v = 536$ nm)
+Diffraction grating
+20 points
+A diffraction grating is illuminated perpendicularly with light coming from a gas source. A red line ($\lambda_r = 660$ nm) is observed at an angle $\theta_r = 26.1^\circ$ with respect to the axis of the grating and a green line ($\lambda_v = 536$ nm)
 at an angle $\theta_v = 32.4^\circ$.
-1. The $m_v/m_r$ ratio is calculated between the orders of the spectra to which the red line belongs and the green line.
-2. Taking into account that no radiation is observed between the two angles indicated, the values are determined
-di $m_r$ e $m_v$.
-3. What's the grid's pace?
-4. What's the highest order you can see a red line with that grid?
+1. Calculate the ratio $m_v/m_r$ between the orders of the spectra to which the red line and the green line belong.
+2. Taking into account the fact that between the two indicated angles no radiation is observed, determine the values of $m_r$ and $m_v$.
+3. What is the spacing of the grating?
+4. What is the maximum order at which a red line can be observed with that grating?
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2020 2° Livello — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
@@ -1062,128 +1030,24 @@ punto della sua superficie.
 
 P3
 A theoretical field
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-Fixed a system of orthogonal Cartesian coordinates of origin O and lines $(\hat{\imath}, \hat{\jmath}, \hat{k})$, in a region around
-Or consider the non-uniform electrostatic field $\vec{E}$, the three components of which depend on the coordinates $x, y, z$
-of point P as follows:
-$$\vec{E}(P) = \vec{E}(x, y, z) = E_0 \left[ (ax^3 + bx)\hat{\imath} + (by)^2\hat{\jmath} + (b\ell)^2\hat{k} \right]$$
-with
+Points 10
+Given an orthogonal Cartesian coordinate system with origin O and unit vectors $(\hat{\imath}, \hat{\jmath}, \hat{k})$, in a region around O consider the non-uniform electrostatic field $\vec{E}$, whose three components depend on the coordinates $x, y, z$ of the point P in this way:
+$$\vec{E}(P) = \vec{E}(x, y, z) = E_0 \left[ (ax^3 + bx)\hat{\imath} + (by)^2\hat{\jmath} + (b\ell)^2\hat{k} \right]$$ with
 $E_0 = 150\ \text{V m}^{-1}$,
 $a = 3.5\ \text{m}^{-3}$,
 $\ell = 1$ m ;
-In other words, the components of the field e.s. sono $E_x = E_0 (ax^3 + bx)$; $E_y = E_0 (by)^2$; $E_z = E_0 (b\ell)^2$ .
-1. Posto $A=(0, 0, \ell)$ e sapendo che la d.d.p. $V(O)-V(A) = \Delta V = 216\ \text{V}$, determine the value of the parameter $b$.
-2. The $\vec{E}(B)$ form is calculated in $B=(\ell, \ell, \ell)$.
-Consider a cubic volume of center O, with faces perpendicular to the Cartesian axis and such that A is a
-point on its surface.
-3. Determine the amount of electrical charge present within that cube.
+in other words, the components of the e.s. field are $E_x = E_0 (ax^3 + bx)$; $E_y = E_0 (by)^2$; $E_z = E_0 (b\ell)^2$ .
+1. Setting $A=(0, 0, \ell)$ and knowing that the potential difference $V(O)-V(A) = \Delta V = 216\ \text{V}$, determine the value of the parameter $b$.
+2. Calculate the magnitude of $\vec{E}(B)$ at the point $B=(\ell, \ell, \ell)$.
+Consider a cubic volume centered at O, with faces perpendicular to the Cartesian axes and such that A is a point on its surface.
+3. Determine the amount of electric charge present within this cube.
 4. What is the charge density at point O?
 <!--fig:start-->
-
-
-<figure class="tikz-fig">
-<!-- This file was generated by dvisvgm 3.2.2 -->
-<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='173.206182pt' height='112.777217pt' viewBox='-67.690932 -65.062417 173.206182 112.777217'>
-<defs>
-<path id='g0-67' d='M7.571606-6.924035C7.571606-6.953923 7.551681-7.023661 7.462017-7.023661C7.43213-7.023661 7.422167-7.013699 7.312578-6.90411L6.615193-6.136986C6.525529-6.276463 6.067248-7.023661 4.961395-7.023661C2.739726-7.023661 .498132-4.821918 .498132-2.510585C.498132-.86675 1.673724 .219178 3.198007 .219178C4.064757 .219178 4.821918-.179328 5.349938-.637609C6.276463-1.454545 6.445828-2.361146 6.445828-2.391034C6.445828-2.49066 6.346202-2.49066 6.326276-2.49066C6.266501-2.49066 6.216687-2.470735 6.196762-2.391034C6.107098-2.102117 5.877958-1.39477 5.190535-.816936C4.503113-.259029 3.875467-.089664 3.35741-.089664C2.460772-.089664 1.404732-.607721 1.404732-2.161893C1.404732-2.729763 1.613948-4.343711 2.610212-5.50934C3.217933-6.216687 4.154421-6.714819 5.041096-6.714819C6.057285-6.714819 6.645081-5.947696 6.645081-4.79203C6.645081-4.393524 6.615193-4.383562 6.615193-4.283935S6.724782-4.184309 6.764633-4.184309C6.894147-4.184309 6.894147-4.204234 6.94396-4.383562L7.571606-6.924035Z'/>
-<path id='g2-49' d='M2.336239-4.435367C2.336239-4.623661 2.322291-4.630635 2.127024-4.630635C1.680697-4.191283 1.046077-4.184309 .760149-4.184309V-3.93325C.927522-3.93325 1.387796-3.93325 1.771357-4.128518V-.571856C1.771357-.341719 1.771357-.251059 1.073973-.251059H.808966V0C.934496-.006974 1.792279-.027895 2.050311-.027895C2.266501-.027895 3.145205-.006974 3.29863 0V-.251059H3.033624C2.336239-.251059 2.336239-.341719 2.336239-.571856V-4.435367Z'/>
-<path id='g2-50' d='M3.521793-1.26924H3.284682C3.263761-1.115816 3.194022-.704359 3.103362-.63462C3.047572-.592777 2.510585-.592777 2.412951-.592777H1.129763C1.862017-1.241345 2.106102-1.436613 2.524533-1.764384C3.040598-2.175841 3.521793-2.608219 3.521793-3.270735C3.521793-4.11457 2.782565-4.630635 1.889913-4.630635C1.025156-4.630635 .439352-4.02391 .439352-3.382316C.439352-3.02665 .739228-2.991781 .808966-2.991781C.976339-2.991781 1.17858-3.110336 1.17858-3.361395C1.17858-3.486924 1.129763-3.731009 .767123-3.731009C.983313-4.226152 1.457534-4.379577 1.785305-4.379577C2.48269-4.379577 2.84533-3.835616 2.84533-3.270735C2.84533-2.66401 2.412951-2.182814 2.189788-1.931756L.509091-.27198C.439352-.209215 .439352-.195268 .439352 0H3.312578L3.521793-1.26924Z'/>
-<path id='g1-43' d='M4.07472-2.291407H6.854296C6.993773-2.291407 7.183064-2.291407 7.183064-2.49066S6.993773-2.689913 6.854296-2.689913H4.07472V-5.479452C4.07472-5.618929 4.07472-5.808219 3.875467-5.808219S3.676214-5.618929 3.676214-5.479452V-2.689913H.886675C.747198-2.689913 .557908-2.689913 .557908-2.49066S.747198-2.291407 .886675-2.291407H3.676214V.498132C3.676214 .637609 3.676214 .826899 3.875467 .826899S4.07472 .637609 4.07472 .498132V-2.291407Z'/>
-<path id='g1-49' d='M2.929016-6.37609C2.929016-6.615193 2.929016-6.635118 2.699875-6.635118C2.082192-5.997509 1.205479-5.997509 .886675-5.997509V-5.688667C1.085928-5.688667 1.673724-5.688667 2.191781-5.947696V-.787049C2.191781-.428394 2.161893-.308842 1.265255-.308842H.946451V0C1.295143-.029888 2.161893-.029888 2.560399-.029888S3.825654-.029888 4.174346 0V-.308842H3.855542C2.958904-.308842 2.929016-.418431 2.929016-.787049V-6.37609Z'/>
-<path id='g1-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
-<path id='g1-54' d='M1.315068-3.267746V-3.506849C1.315068-6.027397 2.550436-6.386052 3.058531-6.386052C3.297634-6.386052 3.716065-6.326276 3.935243-5.987547C3.785803-5.987547 3.387298-5.987547 3.387298-5.539228C3.387298-5.230386 3.626401-5.080946 3.845579-5.080946C4.004981-5.080946 4.303861-5.17061 4.303861-5.559153C4.303861-6.156912 3.865504-6.635118 3.038605-6.635118C1.763387-6.635118 .418431-5.349938 .418431-3.148194C.418431-.488169 1.574097 .219178 2.500623 .219178C3.606476 .219178 4.552927-.71731 4.552927-2.032379C4.552927-3.297634 3.666252-4.254047 2.560399-4.254047C1.882939-4.254047 1.514321-3.745953 1.315068-3.267746ZM2.500623-.059776C1.872976-.059776 1.574097-.657534 1.514321-.806974C1.334994-1.275218 1.334994-2.072229 1.334994-2.251557C1.334994-3.028643 1.653798-4.024907 2.550436-4.024907C2.709838-4.024907 3.16812-4.024907 3.476961-3.407223C3.656289-3.038605 3.656289-2.530511 3.656289-2.042341C3.656289-1.564134 3.656289-1.066002 3.486924-.707347C3.188045-.109589 2.729763-.059776 2.500623-.059776Z'/>
-<path id='g1-86' d='M6.1868-5.828144C6.326276-6.196762 6.595268-6.485679 7.272727-6.495641V-6.804483C6.963885-6.784558 6.56538-6.774595 6.306351-6.774595C6.007472-6.774595 5.429639-6.794521 5.17061-6.804483V-6.495641C5.688667-6.485679 5.897883-6.22665 5.897883-5.997509C5.897883-5.917808 5.867995-5.858032 5.84807-5.798257L4.024907-.996264L2.122042-6.027397C2.062267-6.166874 2.062267-6.1868 2.062267-6.206725C2.062267-6.495641 2.630137-6.495641 2.879203-6.495641V-6.804483C2.520548-6.774595 1.833126-6.774595 1.454545-6.774595C.976339-6.774595 .547945-6.794521 .18929-6.804483V-6.495641C.836862-6.495641 1.026152-6.495641 1.165629-6.117061L3.476961 0C3.5467 .18929 3.596513 .219178 3.726027 .219178C3.895392 .219178 3.915318 .169365 3.965131 .029888L6.1868-5.828144Z'/>
-</defs>
-<g id='page1'>
-<path d='M-64.765626-41.7266V-20.3242M-64.765626-6.4336V14.96875' stroke='#000' fill='none' stroke-width='.3985'/>
-<path d='M-64.765626-20.3242L-57.82031-9.2109' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
-<path d='M-56.43359-20.3242C-56.43359-17.3477-58.01953-14.5937-60.59766-13.1055C-61.82031-12.4023-63.18359-12.0273-64.562501-11.9922' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10' stroke-linejoin='bevel'/>
-<path d='M-67.617235-12.492197C-66.332081-12.183603-64.023483-11.578134-62.511759-10.355477C-63.753952-11.828134-63.714889-12.863291-62.367229-14.238286C-63.964887-13.132822-66.312545-12.703134-67.617235-12.492197Z'/>
-<path d='M-64.765626-41.7266H-42.0898M-42.0898-41.7266H-19.4102H4.9687M12.9062-41.7266H37.281H71.297M71.297-41.7266H105.316' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-17.8242-41.7266C-17.8242-42.6016-18.5352-43.3125-19.4102-43.3125C-20.2891-43.3125-21-42.6016-21-41.7266C-21-40.8477-20.2891-40.1367-19.4102-40.1367C-18.5352-40.1367-17.8242-40.8477-17.8242-41.7266Z' fill='#fff'/>
-<path d='M-17.8242-41.7266C-17.8242-42.6016-18.5352-43.3125-19.4102-43.3125C-20.2891-43.3125-21-42.6016-21-41.7266C-21-40.8477-20.2891-40.1367-19.4102-40.1367C-18.5352-40.1367-17.8242-40.8477-17.8242-41.7266Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M4.9687-53.6328V-29.8203M12.9062-53.6328V-29.8203' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 67.90683 -73.0071)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g0-67'/>
-<use x='-57.645524' y='16.462725' xlink:href='#g2-49'/>
-</g>
-<path d='M38.871-41.7266C38.871-42.6016 38.16-43.3125 37.281-43.3125C36.406-43.3125 35.695-42.6016 35.695-41.7266C35.695-40.8477 36.406-40.1367 37.281-40.1367C38.16-40.1367 38.871-40.8477 38.871-41.7266Z' fill='#fff'/>
-<path d='M38.871-41.7266C38.871-42.6016 38.16-43.3125 37.281-43.3125C36.406-43.3125 35.695-42.6016 35.695-41.7266C35.695-40.8477 36.406-40.1367 37.281-40.1367C38.16-40.1367 38.871-40.8477 38.871-41.7266Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 82.5497 -69.0742)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-49'/>
-</g>
-<g transform='matrix(1 0 0 1 66.99258 -64.1245)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-43'/>
-</g>
-<path d='M-64.765626 14.96875H-42.3711M-30.4648 14.96875H-8.0742H14.3203M26.2266 14.96875H48.621H73M80.937 14.96875H105.316' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-34.4531 14.96875H-30.4648M-38.3828 14.96875H-42.3711' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-34.4531 9.01563V20.92188M-38.3828 3.0625V26.875' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
-<path d='M22.2383 14.96875H26.2266M18.3086 14.96875H14.3203' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M22.2383 9.01563V20.92188M18.3086 3.0625V26.875' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
-<path d='M73 3.0625V26.875M80.937 3.0625V26.875' stroke='#000' fill='none' stroke-width='.797' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 135.939 -16.31348)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g0-67'/>
-<use x='-57.645524' y='16.462725' xlink:href='#g2-50'/>
-</g>
-<g transform='matrix(1 0 0 1 144.9126 -8.12833)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-50'/>
-</g>
-<g transform='matrix(1 0 0 1 123.6862 -7.43086)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-43'/>
-</g>
-<g transform='matrix(1 0 0 1 11.7164 15.2466)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-43'/>
-</g>
-<g transform='matrix(1 0 0 1 68.41002 15.2466)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-43'/>
-</g>
-<path d='M105.316-41.7266V14.96875' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-60.18359 43.3164H-12.6563' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-63.94535 43.316405C-63.48442 43.429686-61.45317 44.066405-60.183635 44.76172V41.86719C-61.45317 42.562498-63.48442 43.203123-63.94535 43.316405Z'/>
-<path d='M-63.94535 43.316405C-63.48442 43.429686-61.45317 44.066405-60.183635 44.76172V41.86719C-61.45317 42.562498-63.48442 43.203123-63.94535 43.316405Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-8.89449 43.316405C-9.35543 43.203123-11.38668 42.562498-12.656211 41.86719V44.76172C-11.38668 44.066405-9.35543 43.429686-8.89449 43.316405Z'/>
-<path d='M-8.89449 43.316405C-9.35543 43.203123-11.38668 42.562498-12.656211 41.86719V44.76172C-11.38668 44.066405-9.35543 43.429686-8.89449 43.316405Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-43.6406 47.7148H-29.1953V38.9141H-43.6406Z' fill='#fff'/>
-<g transform='matrix(1 0 0 1 22.1201 31.7507)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-54'/>
-<use x='-59.784699' y='14.968344' xlink:href='#g1-86'/>
-</g>
-<path d='M-3.4883 43.3164H44.039' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M-7.25 43.316405C-6.78906 43.429686-4.75781 44.066405-3.488281 44.76172V41.86719C-4.75781 42.562498-6.78906 43.203123-7.25 43.316405Z'/>
-<path d='M-7.25 43.316405C-6.78906 43.429686-4.75781 44.066405-3.488281 44.76172V41.86719C-4.75781 42.562498-6.78906 43.203123-7.25 43.316405Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M47.8008 43.316405C47.33595 43.203123 45.30861 42.562498 44.039079 41.86719V44.76172C45.30861 44.066405 47.33595 43.429686 47.8008 43.316405Z'/>
-<path d='M47.8008 43.316405C47.33595 43.203123 45.30861 42.562498 44.039079 41.86719V44.76172C45.30861 44.066405 47.33595 43.429686 47.8008 43.316405Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M10.5625 47.7148H29.9883V38.9141H10.5625Z' fill='#fff'/>
-<g transform='matrix(1 0 0 1 76.323 31.7507)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-49'/>
-<use x='-59.784699' y='14.968344' xlink:href='#g1-50'/>
-<use x='-54.80336' y='14.968344' xlink:href='#g1-86'/>
-</g>
-<path d='M53.203 43.3164H100.73' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M49.44143 43.316405C49.90627 43.429686 51.93362 44.066405 53.203146 44.76172V41.86719C51.93362 42.562498 49.90627 43.203123 49.44143 43.316405Z'/>
-<path d='M49.44143 43.316405C49.90627 43.429686 51.93362 44.066405 53.203146 44.76172V41.86719C51.93362 42.562498 49.90627 43.203123 49.44143 43.316405Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M104.49219 43.316405C104.03125 43.203123 102 42.562498 100.730466 41.86719V44.76172C102 44.066405 104.03125 43.429686 104.49219 43.316405Z'/>
-<path d='M104.49219 43.316405C104.03125 43.203123 102 42.562498 100.730466 41.86719V44.76172C102 44.066405 104.03125 43.429686 104.49219 43.316405Z' stroke='#000' fill='none' stroke-width='.3985' stroke-miterlimit='10'/>
-<path d='M69.746 47.7148H84.191V38.9141H69.746Z' fill='#fff'/>
-<g transform='matrix(1 0 0 1 135.5073 31.7507)'>
-<use x='-64.766038' y='14.968344' xlink:href='#g1-54'/>
-<use x='-59.784699' y='14.968344' xlink:href='#g1-86'/>
-</g>
-</g>
-</svg>
-</figure>
-
-
-*circuito batterie condensatori C1 C2*
+![[_attachments/2liv20T/2liv20T_p8_f10.png]]
+*circuit batteries capacitors C1 C2*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2020 2° Livello — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/conservation-of-energy,argomento/elettromagnetismo,object/capacitor,object/battery"></span>
@@ -1225,28 +1089,15 @@ durante la carica del condensatore 1?
 
 P4
 If the battery is small
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-Pierino has a capacitor $C_1 = 1\ \text{mF}$ (1 in Figure) which must be
-be loaded to the D.D.P. $V_1 = 24\ \text{V}$, ma ha a disposizione solo 2 batterie,
-One with f.e.m. $E_1 = 6\ \text{V}$, the other with f.e.m. $E_2 = 2 E_1$, together with numerous
-Other capacitors of various capacities, up to a maximum of 10 times $C_1$. Le
-batteries can be considered as ideal f.e.m. generators.
-After thinking about it for a while, he decided to get another capacitor.
-of any capacity $C_2$ (2 in figure) to charge it with the first battery at the
-d.d.p. $E_1 = 6\ \text{V}$, and with the series consisting of two batteries and the capacitor
-2 just loaded, load the first capacitor, as shown in Figure 2,
-dato che $E_1 + E_2 + E_1 = 4 E_1 = V_1$ .
-Unfortunately, Pierino soon realizes that his method is not working.
-1. The resulting effect is that the current of the electrical circuit is not enough to produce the electrical energy. the capacitor heads 1 are
-less than 24 V .
-Pierino then thinks he's going to use both batteries to charge capacitor 2 initially.
-2. What must be the capacity of capacitor 2 to achieve the purpose?
-3. Suppose you charge capacitor 2 this way, what is the energy dissipated by Joule effect
-During the charge of capacitor 1?
+10 points
+Pierino has a capacitor of capacitance $C_1 = 1\ \text{mF}$ (1 in the figure) that must be charged to a potential difference $V_1 = 24\ \text{V}$, but he only has 2 batteries available, one with electromotive force $E_1 = 6\ \text{V}$, the other with electromotive force $E_2 = 2 E_1$, along with numerous other capacitors of various capacitances, up to a maximum of 10 times $C_1$. The batteries can be considered ideal electromotive force generators.
+After thinking about it for a while, he decides to take another capacitor of any capacitance $C_2$ (2 in the figure), charge it with the first battery to the potential difference $E_1 = 6\ \text{V}$, and with the series consisting of the two batteries and the just-charged capacitor 2, charge the first capacitor, as shown in the figure, given that $E_1 + E_2 + E_1 = 4 E_1 = V_1$ .
+Unfortunately, Pierino immediately realizes that his method does not work.
+1. Prove, in fact, that with this circuit, once equilibrium is reached, the potential difference across capacitor 1 is less than 24 V .
+Pierino then thinks of using both batteries to initially charge capacitor 2.
+2. What must the capacitance of capacitor 2 be to achieve the goal?
+3. Assuming capacitor 2 has been charged in this way, what is the energy dissipated as Joule heating during the charging of capacitor 1?
 
-**Topic:** [[Circuits]], [[Conservation of Energy]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
+
+

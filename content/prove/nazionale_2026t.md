@@ -581,15 +581,12 @@ Le più avanzate indagini astronomiche riescono a rilevare oggetti che hanno una
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Planet Nine**
 
-The most advanced astronomical surveys detect objects that have an apparent brightness equal to $10^{-20}$ times that of the Sun. If a planet identical to Earth orbited the outer solar system, what maximum distance from the Sun should it be for astronomical surveys to make it visible?
+The most advanced astronomical surveys are able to detect objects that have an apparent luminosity equal to $10^{-20}$ times that of the Sun. If a planet identical to Earth orbited in the outskirts of the Solar System, at what maximum distance from the Sun would it have to be in order to be visible in astronomical surveys?
 
-The following is the list of the measurement units: The following information shall be provided:
+**Unit of measurement:** m. **Required precision:** 45.0%.
 
-**Topic:** [[Astrophysics]], [[Geometric Optics]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1y34RZDzWQuwnPjUc1rCA1ynxGcsVXr2f/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bOuc16yWGpi7Vz70TczIJH9Ckbl7zhi8/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1bOuc16yWGpi7Vz70TczIJH9Ckbl7zhi8/view)
+
+

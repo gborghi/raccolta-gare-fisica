@@ -235,45 +235,42 @@ Si consideri, d'ora in poi, che $R$ sia completamente trascurabile e quindi si p
 
 <div class="qlang-split" data-lang="en"></div>
 
-# # Floating in a magnetic field
+## Magnetic levitation
 
-A small heavy conductive ring, with a mass $m$, a radius $a$ and a negligible thickness, is placed in a region of symmetrical magnetic field, that is, rotationally invariant, relative to a vertical axis.
+A small heavy conducting ring, of mass $m$, radius $a$ and negligible thickness, is placed in a region of symmetric magnetic field, i.e. invariant under rotations, with respect to a vertical axis.
 
-Whether this is the axis $z$ oriented towards the positive side upwards, i.e. opposite to $\vec{g}$, in which the field $\vec{B}$ with its radial and axial components is also represented, which, at least in a finite region around the origin of the coordinates, can be approximated as follows:
+Let this be the axis $z$ oriented with the positive direction upward, i.e. opposite to that of $\vec{g}$, in which the field $\vec{B}$ is also represented with its radial and axial components, which, at least in a finite region around the origin of the coordinates, can be approximated in this way:
 
 $$B_r = \beta r B_0$$
 $$B_z = (1 - \alpha z) B_0$$
 
-where $\alpha$, $\beta$ and $B_0$ are appropriate positive constants.
+where $\alpha$, $\beta$ and $B_0$ are suitable positive constants.
 
-**1.** In order for a field $\vec{B}$ to exist in this way, the constants $\alpha$ and $\beta$ must be linked by a relation: this relation is determined.
+**1.** In order for a field $\vec{B}$ of this kind to exist, the constants $\alpha$ and $\beta$ must be related by a relation: determine this relation.
 
-The ring is placed in the field with its axis coinciding with the axis of symmetry and, when left free to move, it can only move along the $z$ axis. All'istante $t = 0$ l'anello viene lasciato da fermo in posizione $z(0) = 0$ e per effetto del suo peso inizia a muoversi verso il basso. The motion must be assumed to be complete in the region where the magnetic field is described by the equations shown above.
+The ring is placed in the field with its axis coinciding with the axis of symmetry and, left free to move, it can translate only along the axis $z$. At the instant $t = 0$ the ring is released from rest in position $z(0) = 0$ and, due to its weight, begins to move downward. It must be assumed that the motion takes place entirely in the region in which the magnetic field is described by the equations shown above.
 
-As soon as the ring moves the flow of the $\vec{B}$ field, concatenated with the ring, varies; the resistance and inductance (self-induction coefficient) of the ring, called $R$ and $L$, can be described as a circuit fed by the f.e.m. It's induced.
+As soon as the ring moves, the flux of the field $\vec{B}$, linked with the ring, varies; denoting by $R$ and $L$ the resistance and the inductance (self-induction coefficient) of the ring, this can be described as a circuit driven by the induced e.m.f.
 
-**2.** Write the circuit equation in terms of current flowing in the $I(t)$ ring and the speed of the $v(t) = dz/dt$ ring.
+**2.** Write the circuit equation, in terms of the current flowing in the ring $I(t)$ and the velocity of the ring $v(t) = dz/dt$.
 
-Consider, henceforth, that $R$ is completely negligible and therefore directly $R = 0$ is put, as would be the case for a superconducting ring. The ring is held fixed in the $z = 0$ position and there is no current flowing in it; as soon as the ring is left free it starts to move and the current starts flowing in the ring, determining, in the presence of the $\vec{B}$ field, a force of no value on the ring.
+From now on, consider that $R$ is completely negligible and therefore set directly $R = 0$, as would happen for a superconducting ring. The ring is held stationary in position $z = 0$ and no current flows in it; as soon as the ring is released it begins to move and the current begins to flow in the ring, producing, in the presence of the field $\vec{B}$, a nonzero force on the ring.
 
-**3.** Si dimostri che il flusso magnetico totale attraverso l'anello è costante.
+**3.** Show that the total magnetic flux through the ring is constant.
 
-**4.** Si mostri che la corrente $I$ che circola nell'anello, mentre questo si muove, è proporzionale alla coordinata $z$ che dà la posizione istantanea dell'anello.
+**4.** Show that the current $I$ circulating in the ring, while the ring moves, is proportional to the coordinate $z$ that gives the instantaneous position of the ring.
 
-**5.** Si calcoli la forza magnetica agente sull'anello, in funzione della sua posizione $z$, si mostri che l'equazione di moto dell'anello è quella di un oscillatore armonico, e se ne determini il periodo.
+**5.** Calculate the magnetic force acting on the ring, as a function of its position $z$, show that the equation of motion of the ring is that of a harmonic oscillator, and determine its period.
 
-**6.** The time law $z(t)$ describing the motion of the ring from the moment the ring is left standing in $z = 0$ is determined.
+**6.** Determine the time law $z(t)$ that describes the motion followed by the ring, from the instant in which the ring is released from rest at $z = 0$.
 
-**7.** Si trovi il valore massimo del modulo della corrente $I(t)$ che circola nell'anello e si determini la posizione dell'anello quando si raggiunge tale massimo.
+**7.** Find the maximum value of the magnitude of the current $I(t)$ circulating in the ring and determine the position of the ring when this maximum is reached.
 
 <!--fig:start-->
-**p.4 **  Magnetic magnet ring and ring
+**p.4** — Ring and magnet with magnetic field
 ![[_attachments/Naz12T/Naz12T_p4_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]], [[Oscillations & Waves]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Gauss's Law (metodo)|Gauss's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/160rJs4pgzgyV14USZaW50GNCLuQOiWAl/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
+
+

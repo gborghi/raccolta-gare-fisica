@@ -66,54 +66,48 @@ In astronomia si chiama **albedo** di un corpo opaco (pianeta, satellite, astero
 
 <div class="qlang-split" data-lang="en"></div>
 
-The moon of Galileo
+**Galileo's Moon** — 75 points
 
-On the first day of the MSK1 Dialogue, Galileo countered the idea that the Moon's surface is reflective (third) like a mirror, stating that in that case the Moon should appear dark and not clear. He says Salviati:
+On the first day of the *Dialogue Concerning the Two Chief World Systems*, Galileo argues against the idea that the surface of the Moon is reflective (smooth) like a mirror, stating that in that case the Moon would have to appear dark and not bright. Salviati says:
 
-> As the Moon is certainly the Earth in the figure, which is undoubtedly spherical, as is necessarily the case, we conclude from seeing its perfectly circular disc. Secondly, it is, like the Earth, dark and opaque in itself, for which opacity is apt to receive and re-impact the light of the Sun, which, if it were not so, it could not do.
+> The Moon is surely similar to the Earth in shape, which is undoubtedly spherical, as necessarily follows from its disk being seen as perfectly circular. [...] Secondly, it is, like the Earth, in itself dark and opaque, by which opacity it is suited to receive and reflect back the light of the Sun, which, if it were not so, it could not do.
 >
 > [...]
 >
-> We are trying, Mr Simplicio, to see if to make a reflection of light similar to that which comes to us from the Moon, it is necessary that the surface from which the reflection comes is as flat and smooth as that of a mirror, or else a surface not flat and smooth but rough and poorly clean is more accommodated. Now, when we have two reflections, one more shiny and the other less, from two opposite surfaces, I ask you, which of the two surfaces do you think is the clearest to our eyes and the darker one?
+> We are asking, Signor Simplicio, whether in order to produce a reflection of light similar to that which comes to us from the Moon, it is necessary that the surface from which the reflection comes be as smooth and polished as that of a mirror, or whether a surface that is not smooth and polished, but rough and poorly cleaned, is more suitable. Now, when two reflections come to us, one brighter and the other less so, from two opposite surfaces, I ask you, which of the two surfaces do you believe would appear to our eyes brighter and which darker...
 
-It is therefore assumed that the surface of the Moon is perfectly spherical and reflective like a mirror; it is assumed that during the full moon phase  that is, when the Sun, Earth and Moon are approximately aligned in this order  looking at the Moon you would see the virtual image of the Sun, produced by a spherical mirror.
+Suppose therefore that the surface of the Moon is perfectly spherical in shape and reflecting like a mirror; suppose that at full moon — that is, when the Sun, Earth and Moon are approximately aligned in this order — looking at the Moon one would see the virtual image of the Sun, produced by a spherical mirror.
 
-What would the angle diameter of the (virtual) image of the Sun produced by the Moon be for a terrestrial observer in this situation?
+**1.** What would be, in this situation, the angular diameter of the (virtual) image of the Sun produced by the Moon, for a terrestrial observer?
 
-If we estimate what portion of the moon's surface would appear bright when viewed from Earth at the time of the full moon, how would a terrestrial observer view the moon?
+**2.** Estimating what portion of the lunar surface would appear luminous, seen from Earth at the moment of full moon, how would a terrestrial observer see the Moon?
 
-The scale of stellar magnitudes  historically linked to the first classification made by Ptolemy  is a logarithmic function of the light flow collected by the detector; more precisely:
+The scale of stellar magnitudes — historically linked to the first classification made by Ptolemy — is a logarithmic function of the luminous flux collected by the detector; more precisely:
 
 $$m(\Phi) = m_0 - 2{,}5 \log_{10}(\Phi / \Phi_0)$$
 
-where $m_0$ is the reference magnitude of a star whose luminous flux is $\Phi_0$; note that the more luminous an object is the less the magnitude it can assume, hence also negative values; note also that the difference between the magnitudes of two objects is related to the inverse ratio of their luminous flows. So while Vega ($\alpha$ Lyrae) has a magnitude of about 0, the brightest star after the Sun (Sirio, $\alpha$ Canis minoris) has a magnitude of $-1{,}45$, Venus can reach a magnitude of $-4{,}9$ and the Sun has a magnitude (integrated*) $-26{,}74$.
+where $m_0$ is the reference magnitude of a star whose luminous flux is $\Phi_0$; note that the more luminous an object is, the smaller the magnitude it can assume, therefore also negative values; note also that the difference between the magnitudes of two objects is linked to the inverse ratio of their respective luminous fluxes. Thus while Vega ($\alpha$ Lyrae) has magnitude about 0, the brightest star after the Sun (Sirius, $\alpha$ Canis minoris) has magnitude $-1{,}45$, Venus can reach magnitude $-4{,}9$ and the Sun has magnitude (integrated*) $-26{,}74$.
 
-**3.** Calculate the integrated magnitude of the Moon always assuming that its surface is perfectly spherical and reflective, treating the virtual image of the Sun as a source that emits the same amount of light in each direction (i.e. isotropic).
+**3.** Calculate the integrated magnitude of the Moon, again under the assumption that its surface were perfectly spherical and reflecting, treating the virtual image of the Sun as a source that emits the same amount of light in every direction (that is, isotropic).
 
-In fact, the Moon's integrated magnitude is greater than the one above because light is partly absorbed. In the case of the Moon, it should also be noted that the surface does not diffuse sunlight evenly (isotropically), so that at full moon the surface appears about 6 times brighter than average.
+In reality the integrated magnitude of the Moon is greater than that found above because the light is partly absorbed. In the case of the Moon, one must also keep in mind that the surface does not diffuse sunlight uniformly (isotropically), so that at full moon the surface appears about 6 times brighter than average.
 
-In astronomy, an opaque body (planet, satellite, asteroid...) is called an albedo, or an albedo, the fraction of incident light that is not absorbed by the surface. If the absorption in the visible is independent of wavelength, as is the case with the Moon, a surface illuminated by the Sun appears white when its albedo is equal to one, light gray, medium, dark, when the albedo is decreasing, until black when the albedo is equal to zero.
+In astronomy, the **albedo** of an opaque body (planet, satellite, asteroid...) is the fraction of incident light that is not absorbed by the surface. If moreover the absorption in the visible is independent of wavelength, as roughly happens for the Moon, a surface illuminated by the Sun appears white when its albedo is equal to one, of light, medium, dark gray color as the albedo decreases, down to black when the albedo is equal to zero.
 
-**4.** In the above assumptions, knowing that the integrated magnitude of the Moon at full moon is equal to $-12{,}7$, estimate its albedo and tell what color the lunar surface is.
+**4.** Under the said assumptions, knowing that the integrated magnitude of the Moon at full moon is equal to $-12{,}7$, estimate its albedo and say what color the lunar surface is.
 
-**Data:** Earth-Moon Distance $D = 384\,000\ \text{km}$, equal to approximately $1/400$ of Earth-Sun distance; apparent angular diameter of the Sun and Moon as seen from Earth (are approximately equal): $\Delta\theta_0 \approx 0{,}52°$.
+**Data:** Earth-Moon distance $D = 384\,000\ \text{km}$, equal to about $1/400$ of the Earth-Sun distance; apparent angular diameter of the Sun and of the Moon seen from Earth (they are approximately equal): $\Delta\theta_0 \approx 0{,}52°$.
 
 ---
 
-*For extended sources the integrated magnitude is that which would have a point source that emits the same amount of light.*
+*For extended sources the integrated magnitude is the one that a point source emitting the same amount of light would have.*
 
 <!--fig:start-->
-The Commission has also adopted a proposal for a new Directive on the protection of the environment.
+**p.1** — Historical engraving of the lunar surface by Galileo
 ![[_attachments/Teo09tst/Teo09tst_p1_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]], [[Astrophysics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1dxa_ZjrO6dt4s1JxAjGDq91Z_dKADE_K/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KYrLQCYFAmoEljGQ_b1iwf5PJpPGiwO1/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1KYrLQCYFAmoEljGQ_b1iwf5PJpPGiwO1/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2009 Nazionale — Problema 2" data-tags="kg/prova,nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/geometric-optics,topic/wave-optics,topic/oscillations-e-waves"></span>

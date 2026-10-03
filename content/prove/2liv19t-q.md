@@ -477,29 +477,16 @@ alternarsi 50 frange d’interferenza.
 <div class="qlang-split" data-lang="en"></div>
 
 Q7
-In the Michelson interferometer [v. Figure] the semi-transparent mirror at the centre separates the light ray from a laser source in two. The separate rays are reflected by the
-two $S_1$ and $S_2$ mirrors and return to the semitravelling mirror which
-The new part separates them: some of these go to the source (they are not
-The data is collected on a screen.
-where the image of the source is formed.
-A micrometer screw allows you to move perpendicularly
-The mirror itself $S_1$. In an experiment, the moving mirror comes
-moved by $16\ \mu\text{m}$; when moving on screen they are seen
-The Commission has decided to adopt a proposal for a regulation on the approximation of the laws of the Member States relating to the use of the electricity sector.
-• Calculate the laser wavelength.
+In the Michelson interferometer [see figure] the semitransparent mirror at the center splits the light beam coming from a laser source into two. The separated beams are reflected by the two mirrors $S_1$ and $S_2$ and return to the semitransparent mirror, which splits them again: part of these goes toward the source (they have not been drawn in the figure), another part is collected on a screen where the image of the source is formed.
+A micrometer screw allows mirror $S_1$ to be moved perpendicularly to itself. In an experiment the movable mirror is displaced by $16\ \mu\text{m}$; during the displacement, 50 interference fringes are seen to alternate on the screen.
+• Calculate the wavelength of the laser.
 
 <!--fig:start-->
 ![[_attachments/2liv19T-Q/2liv19T-Q_p4_f2.png]]
 *Michelson interferometer with mirrors*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Mirror (object)|Mirror]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/15I2Q_1IUJxLxWyqZEi8YTpfV4rNq_kRy/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 2019 2° Livello — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/fisica-moderna"></span>

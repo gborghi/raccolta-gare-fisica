@@ -367,20 +367,11 @@ per descrivere la potenza assorbita dalla radiazione proveniente dalla lampada.
 
 <div class="qlang-split" data-lang="en"></div>
 
-3. Write down the ratio of the half-life values $\tau_\text{raff}$ of the two barrels in terms of coefficients
-The values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the values for the first and for the values for the years for the years for the years for the years for the years for the years for the years for the years for each are to bearing.
-Here and below, please use the B-barrel in the symbols for the white jar and the N-barrel
-For the black one.
-Consider the heating phase by constructing an analogue model in which an additional term is introduced
-to describe the power absorbed by the radiation from the lamp.
+3. Write the ratio between the values of the half-life $\tau_\text{raff}$ of the two jars in terms of the coefficients respectively introduced for conduction and radiation, and give its numerical value.
+Here and in the following, please use the subscript B in the symbols concerning the white jar and the subscript N for the black one.
+Consider now the heating phase by constructing a similar model in which an additional term is introduced to describe the power absorbed from the radiation coming from the lamp.
 
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 2012 Nazionale Teorica — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/conservation-of-energy,argomento/meccanica,object/tank-container"></span>
@@ -516,28 +507,16 @@ alimentato dalla f.e.m. indotta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-1. In order for a field $\vec{B}$ to exist in this way, the constants $\alpha$ and $\beta$ must be
-The Commission has already decided to adopt a proposal for a directive on the protection of workers' rights.
-The ring is placed in the field with its axis coinciding with the symmetry axis and, left free of
-If the vehicle is moving, it can only move along the $z$ axis. All’istante $t = 0$ l’anello viene lasciato da fermo in posizione $z(0) = 0$
-And as a result of its weight, it starts to move downward. The motorcycle must be assumed to be running in the
-region where the magnetic field is described by the equations shown above.
-Non appena l’anello si muove il flusso del campo $\vec{B}$, concatenato con l’anello, varia; dette $R$ ed $L$ la
-The resistance and inductance (self-induction coefficient) of the ring, this can be described as a circuit
-powered by the f.e.m. It's induced.
+1. In order for a field $\vec{B}$ of this kind to exist, the constants $\alpha$ and $\beta$ must be related by a relation: determine this relation.
+The ring is placed in the field with its axis coinciding with the axis of symmetry and, left free to move, it can translate only along the axis $z$. At the instant $t = 0$ the ring is released from rest in position $z(0) = 0$ and, due to its weight, begins to move downward. It must be assumed that the motion takes place entirely in the region where the magnetic field is described by the equations shown above.
+As soon as the ring moves, the flux of the field $\vec{B}$, linked with the ring, varies; denoting by $R$ and $L$ the resistance and the inductance (self-induction coefficient) of the ring, this can be described as a circuit powered by the induced e.m.f.
 
 <!--fig:start-->
-**p.4 **  Magnetic magnet ring and ring
+**p.4** — Ring and magnet with magnetic field
 ![[_attachments/Naz12T/Naz12T_p4_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Electromagnetic Induction]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2012 Nazionale Teorica — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetic-induction,topic/circuits,argomento/meccanica,object/coil"></span>
@@ -760,54 +739,48 @@ commerciali.
 
 <div class="qlang-split" data-lang="en"></div>
 
-7. Find the maximum value of the current module $I(t)$ circulating in the ring and determine the position
-The ring when it reaches that peak.
+7. Find the maximum value of the magnitude of the current $I(t)$ that flows in the ring and determine the position of the ring when this maximum is reached.
 
-Alcune Costanti Fisiche ($\star$)
+Some Physical Constants ($\star$)
 
-♪ And I'm going to tell you ♪
+| CONSTANT | SYMBOL | VALUE | UNIT |
 | --- | --- | --- | --- |
-| Velocità della luce nel vuoto | $c$ | $3.00 \times 10^8$ | $\text{m s}^{-1}$ |
-| Carica elementare | $e$ | $1.602 \times 10^{-19}$ | C |
-| Massa dell’elettrone | $m_e$ | $9.11 \times 10^{-31}$ | kg |
+| Speed of light in vacuum | $c$ | $3.00 \times 10^8$ | $\text{m s}^{-1}$ |
+| Elementary charge | $e$ | $1.602 \times 10^{-19}$ | C |
+| Electron mass | $m_e$ | $9.11 \times 10^{-31}$ | kg |
 | | | $= 5.11 \times 10^2$ | $\text{keV } c^{-2}$ |
-| Costante dielettrica del vuoto | $\epsilon_0$ | $8.85 \times 10^{-12}$ | $\text{F m}^{-1}$ |
-| Permeabilità magnetica del vuoto | $\mu_0$ | $1.257 \times 10^{-6}$ | $\text{H m}^{-1}$ |
-| Massa del protone | $m_p$ | $1.673 \times 10^{-27}$ | kg |
+| Permittivity of vacuum | $\epsilon_0$ | $8.85 \times 10^{-12}$ | $\text{F m}^{-1}$ |
+| Permeability of vacuum | $\mu_0$ | $1.257 \times 10^{-6}$ | $\text{H m}^{-1}$ |
+| Proton mass | $m_p$ | $1.673 \times 10^{-27}$ | kg |
 | | | $= 9.38 \times 10^2$ | $\text{MeV } c^{-2}$ |
-| Costante di Planck | $h$ | $6.63 \times 10^{-34}$ | J s |
-| Costante universale dei gas | $R$ | 8.31 | $\text{J mol}^{-1}\,\text{K}^{-1}$ |
-| Numero di Avogadro | $N$ | $6.02 \times 10^{23}$ | $\text{mol}^{-1}$ |
-| Costante di Boltzmann | $k$ | $1.381 \times 10^{-23}$ | $\text{J K}^{-1}$ |
-| Costante di Faraday | $F$ | $9.65 \times 10^4$ | $\text{C mol}^{-1}$ |
-| Costante di Stefan–Boltzmann | $\sigma$ | $5.67 \times 10^{-8}$ | $\text{W m}^{-2}\,\text{K}^{-4}$ |
-| Costante gravitazionale | $G$ | $6.67 \times 10^{-11}$ | $\text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$ |
-| Pressione atmosferica standard | $p_0$ | $1.013 \times 10^5$ | Pa |
-| Temperatura standard ($0\ ^\circ\text{C}$) | $T_0$ | 273 | K |
-| Volume molare di un gas perfetto in condizioni standard ($p_0, T_0$) | $V_m$ | $2.24 \times 10^{-2}$ | $\text{m}^3\,\text{mol}^{-1}$ |
-| Unità di massa atomica | $u$ | $1.661 \times 10^{-27}$ | kg |
+| Planck constant | $h$ | $6.63 \times 10^{-34}$ | J s |
+| Universal gas constant | $R$ | 8.31 | $\text{J mol}^{-1}\,\text{K}^{-1}$ |
+| Avogadro number | $N$ | $6.02 \times 10^{23}$ | $\text{mol}^{-1}$ |
+| Boltzmann constant | $k$ | $1.381 \times 10^{-23}$ | $\text{J K}^{-1}$ |
+| Faraday constant | $F$ | $9.65 \times 10^4$ | $\text{C mol}^{-1}$ |
+| Stefan–Boltzmann constant | $\sigma$ | $5.67 \times 10^{-8}$ | $\text{W m}^{-2}\,\text{K}^{-4}$ |
+| Gravitational constant | $G$ | $6.67 \times 10^{-11}$ | $\text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$ |
+| Standard atmospheric pressure | $p_0$ | $1.013 \times 10^5$ | Pa |
+| Standard temperature ($0\ ^\circ\text{C}$) | $T_0$ | 273 | K |
+| Molar volume of an ideal gas under standard conditions ($p_0, T_0$) | $V_m$ | $2.24 \times 10^{-2}$ | $\text{m}^3\,\text{mol}^{-1}$ |
+| Atomic mass unit | $u$ | $1.661 \times 10^{-27}$ | kg |
 
-Other data that may be required ($\star$)
+Other data that may be needed ($\star$)
 
-♪ And I'm going to be a big fan of the show ♪
+| | SYMBOL | VALUE | UNIT |
 | --- | --- | --- | --- |
-| Accelerazione media di gravità | $g$ | 9.81 | $\text{m s}^{-2}$ |
-| Densità dell’acqua | $d_a$ | $1.00 \times 10^3$ | $\text{kg m}^{-3}$ |
-| Calore specifico dell’acqua | $c_a$ | $4.19 \times 10^3$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
-| Calore di fusione dell’acqua | $\lambda_f$ | $3.34 \times 10^5$ | $\text{J kg}^{-1}$ |
-| Calore di vaporizzazione dell’acqua (a $100\ ^\circ\text{C}$) | $\lambda_v$ | $2.26 \times 10^6$ | $\text{J kg}^{-1}$ |
-| Calore specifico del ghiaccio (a $0\ ^\circ\text{C}$) | $c_g$ | $2.11 \times 10^3$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
+| Average acceleration of gravity | $g$ | 9.81 | $\text{m s}^{-2}$ |
+| Density of water | $d_a$ | $1.00 \times 10^3$ | $\text{kg m}^{-3}$ |
+| Specific heat of water | $c_a$ | $4.19 \times 10^3$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
+| Heat of fusion of water | $\lambda_f$ | $3.34 \times 10^5$ | $\text{J kg}^{-1}$ |
+| Heat of vaporization of water (at $100\ ^\circ\text{C}$) | $\lambda_v$ | $2.26 \times 10^6$ | $\text{J kg}^{-1}$ |
+| Specific heat of ice (at $0\ ^\circ\text{C}$) | $c_g$ | $2.11 \times 10^3$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
 
-($\star$) Rounded values with relative error less than $10^{-3}$
+($\star$) Rounded values, with relative error less than $10^{-3}$
 
-Good note .
-You can use, reproduce, distribute, communicate this material to the public at two o'clock
-the following conditions: to cite the source; not to use the material, even partially, for any purpose
-The Commission has already adopted a proposal.
+NOTE
+This material may be used, reproduced, distributed, and communicated to the public under the following two conditions: cite the source; do not use the material, even partially, for commercial purposes.
 
-**Topic:** [[Oscillations & Waves]], [[Electromagnetic Induction]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yFjUapFQw8JYDAUlLA0wg2MsXAIzi8Dn/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vuc0nT_XQn2pfXwhJxskKqshPjf8tj0S/view)
+
+

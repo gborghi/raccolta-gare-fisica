@@ -544,23 +544,16 @@ Un sistema ottico è costituito da un "anello" miniaturizzato schematizzato in f
 
 **A detector that does not detect**
 
-An optical system consists of a miniaturized "ring" outlined in Figure 1. A laser beam, modulable as a monochrome flat wave, is emitted at a frequency of $f = 2.82 \times 10^{14}\ \text{Hz}$ within the ring corresponding to the $C$ point. This beam propagates to the right and to the left. A mirror system shall change the direction of the beams so that they overlap again at the end of a closed path, corresponding to the point $B$ where a detector is present. The left-hand branch of the $B$ and $C$ points is made up of plexiglass (refraction index $n_P = 1.48$), while the right-hand branch is made up of an unknown, transparent material with a refraction index $n_x$ greater than $1$. The distance travelled by the laser to $D$ to $A$ is $28.60\ \mu\text{m}$, while $\overline{AB} = \overline{CD} = 2.95\ \mu\text{m}$ is $28.60\ \mu\text{m}$. It is noted that in this situation the detector detects no signals. The minimum value of the refractive index $n_x$ of the unknown material compatible with the observed situation shall be determined. The reflection processes on the interfaces corresponding to $B$ and $C$ are ignored.
+An optical system consists of a miniaturized "ring" schematized in the figure. A laser beam, modelable as a monochromatic plane wave, is emitted with frequency equal to $f = 2.82 \times 10^{14}\ \text{Hz}$ inside the ring at point $C$. This beam propagates both to the right and to the left. A system of mirrors changes the direction of the beams so that they overlap again at the end of a closed path, at point $B$ where a detector is present. The branch to the left of points $B$ and $C$ is made of plexiglass (refractive index $n_P = 1.48$), while the right branch is made of an unknown material, transparent and with refractive index $n_x$ greater than $1$. The distance traveled by the laser to go from $D$ to $A$ is $28.60\ \mu\text{m}$, while $\overline{AB} = \overline{CD} = 2.95\ \mu\text{m}$. It is noted that, in this situation, the detector does not detect any signal. Determine the minimum value of the refractive index $n_x$ of the unknown material compatible with the observed situation. Neglect the reflection processes at the interfaces at $B$ and $C$.
 
-
-The measuring unit: * additional dimension. The following information is provided:
+*Unit of measurement:* dimensionless. *Required precision:* 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_righi_2025t/all_righi_2025t_p6_f3.png]]
 *optical ring with points A B C D and laser beams*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1CEuMKH0qUiljLYHTcZK4KkXSLM2MGpuK/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-JKdqBTMpm7RhEgWeHyRijUqzHySsG9G/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-JKdqBTMpm7RhEgWeHyRijUqzHySsG9G/view)
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="GaS 2025 Allenamento Quiz — Problema 11" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/point-charge,object/wire"></span>

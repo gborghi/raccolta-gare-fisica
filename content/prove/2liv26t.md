@@ -405,35 +405,19 @@ funzione di m e $\ell$.
 <div class="qlang-split" data-lang="en"></div>
 
 Q7
-A system consists of a rigid EC bar of negligible mass which can rotate freely
-around a D-spot. At the end of E is a mass m body, while at the end of C is connected,
-through an extensive chain of negligible mass at the B extreme of the AB axis.
-The AB is also massed
-The Commission has already taken the necessary steps to ensure that the
-To spin freely around his
-Extreme A.
-The whole system can move.
-It's on a vertical plane.
-A second mass body
-3 m is placed on the AB axis at a distance x from A so that the system
-The results are in balance with both.
-the auctions arranged horizontally.
-• Knowing that $AB = CD = \ell$
-and $DE = 2\ell$, determine x in
-The function of m and $\ell$.
+A system consists of a rigid rod CE, of negligible mass, which can rotate freely around a fulcrum D. At end E is placed a body of mass m, while end C is connected, by means of an inextensible chain of negligible mass, to end B of rod AB.
+Rod AB is also of negligible mass and in turn can rotate freely around its end A.
+The whole system can move on a vertical plane.
+A second body of mass
+3 m is placed on rod AB at distance x from A so that the system is in equilibrium with both rods arranged horizontally.
+• Knowing that $AB = CD = \ell$ and $DE = 2\ell$, determine x as a function of m and $\ell$.
 
 <!--fig:start-->
 ![[_attachments/2liv26T/2liv26T_p3_f4.png]]
-*balanced auction system and bodies*
+*system of rods and bodies in equilibrium*
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Lever (object)|Lever]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1kWOajbzvoLr3_5i44wHBK0u2q38mDJ6Z/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 2026 2° Livello — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/rope-string,object/pulley"></span>
@@ -610,46 +594,25 @@ alla sua bruciatura. Si verifichi inoltre che l’energia cinetica $K_0$ richies
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-Shoot the target
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A sphere of mass m is suspended, fixed, from a thread of negligible mass whose other end is held
-fixed at O. The whole problem is to neglect the radius of the sphere and any form of friction.
-The sphere is instantly printed a horizontal initial speed of the form $v_0$, so that it starts at
-move in the vertical plane. For small values of $v_0$ the wire is always stretched and the ball oscillates
-The length of the wire length (simple pendulum) is equal to an arc of radius R of circumference; the width $\theta$ of the wire lengths
-oscillations is a function of $v_0$ increasing, but as the value of $v_0$ increases, the voltage may be cancelled,
-So the ball breaks off the circular trajectory and starts a parabolic motion.
-1. Find out what values of $\theta$ the wire voltage can be cancelled for.
-A pointed target is placed at a point A, on the vertical of O, at
-distance R from this. When the wire is still tense and forms a fixed angle $\theta_1$ with the vertical, a device burns instantly
-The wire.
-Whether $K_0$ the value of the initial kinetic energy of the sphere at the most
-The angle between the wire and the horizontal is $\alpha$
-where $\alpha = \theta - 90^\circ$ is used.
-2. Whether $K_1$ the lower limit of the initial kinetic energy for which the wire is
-still stretched when the sphere reaches the position where the wire comes
-burned: $K_1$ is determined by $\alpha$.
-The target in A can be reached by burning the wire to any
-angle $\alpha > 0$, or always moving along the circumference.
-3. The speed of the sphere at the time the wire is burned is given by $v_\alpha$, the value of $v_\alpha$ is determined for
-The target is hit. The result is expressed in terms of $\alpha$, R and g.
-Now you fix the point where the wire is burned, and you put $\alpha = 30^\circ$.
-4. The initial kinetic energy needed to hit the target is calculated and the wire remains stretched until the target is reached.
-to his burning. It is also necessary to check that the kinetic energy $K_0$ required to reach A by burning the wire
-is less than that required by moving along the circumference, indicated by $K_2$.
+Target shooting
+Points 20
+A small sphere of mass m is suspended, at rest, from a thread of negligible mass whose other end is held fixed at point O. Throughout the problem the radius of the sphere and every form of friction are neglected.
+The small sphere is instantaneously given an initial horizontal velocity of magnitude $v_0$, so that it begins to move in the vertical plane. For small values of $v_0$ the thread always remains taut and the ball performs oscillations along an arc of a circle of radius R equal to the length of the thread (simple pendulum); the amplitude $\theta$ of the oscillations is an increasing function of $v_0$, but as the value of $v_0$ increases it may happen that the tension vanishes, so that the ball detaches from the circular trajectory and begins a parabolic motion.
+1. Find for which values of $\theta$ the tension of the thread can vanish.
+A point-like target is placed at a point A, on the vertical through O, at distance R from it. When the thread is still taut and forms a predetermined angle $\theta_1$ with the vertical, a device instantaneously burns the thread.
+Let $K_0$ be the value of the initial kinetic energy of the small sphere at the lowest point of the circle and let $\alpha$ be the angle between the thread and the horizontal, so that $\alpha = \theta - 90^\circ$.
+2. Let $K_1$ be the lower limit of the initial kinetic energy for which the thread is still taut when the small sphere reaches the position in which the thread is burned: determine $K_1$ as a function of $\alpha$.
+The target at A can be reached by burning the thread at any angle $\alpha > 0$, or by always moving along the circumference.
+3. Let $v_\alpha$ be the speed of the small sphere at the moment when the thread is burned; determine the value of $v_\alpha$ for which the target is hit. Express the result in terms of $\alpha$, R and g.
+Now fix the point at which the thread is burned, setting $\alpha = 30^\circ$.
+4. Calculate the initial kinetic energy required to hit the target, and verify that the thread remains taut until it is burned. Also verify that the kinetic energy $K_0$ required to reach A by burning the thread is less than that required by moving along the circumference, denoted by $K_2$.
 
 <!--fig:start-->
 ![[_attachments/2liv26T/2liv26T_p8_f6.png]]
 *spherical pendulum and circular target*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Ball (object)|Ball]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1kWOajbzvoLr3_5i44wHBK0u2q38mDJ6Z/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2026 2° Livello — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/circuits,argomento/meccanica,object/battery,object/wire"></span>
@@ -698,41 +661,24 @@ uno soltanto – a scelta – tra tutti i casi possibili, indicando quali lampad
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-Five lamps
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
-The circuit in the figure consists of five identical incandescent lamps and a 12 V battery of
-The internal resistance is negligible.
-Each of these bulbs works normally if
-a D.D.P. is applied to it. 6 V and is crossed by a
-Electric current of 0.3 A.
-In this regime the brightness is
-It's considered normal.
-For a D.D.P. less than normal operating value
-The light bulb is dimly lit.
-The conversion of D.D.P. The lighting is increased gradually, but the lamp is not
-The Commission has already adopted a number of proposals for a new directive on the protection of workers' rights. If the temperature is above 8.5 V, you have an almost immediate overheating, with a very intense flash.
-And the filament burns.
-The aim is to reduce the number of lamps lit by minimising the overall variation in brightness of the light source.
-The system. Suppose you're deleting a randomly chosen light bulb.
-1. By studying the operation of the electrical circuit, determine qualitatively how the brightness of the other lamps has varied. What light bulb should be removed to introduce the slightest change
-In the brightness of the other bulbs?
-2. Now suppose you replace any light bulb with a tiny piece of resistant wire. Si
-The lighting system shall be used to determine the effect of this operation on the brightness of the other lamps.
-3. What would happen to the brightness of the other bulbs if two were to be knocked out at random? Consider yourself
-Only one  optional  in all possible cases, indicating which lamps have been removed.
+Five light bulbs
+15 points
+The circuit in the figure consists of five identical incandescent light bulbs and a 12 V battery with negligible internal resistance.
+Each of these light bulbs works properly if a potential difference of 6 V is applied across it and a current of 0.3 A flows through it.
+In this regime the brightness is considered normal.
+For a potential difference lower than the normal operating value, the light bulb glows dimly.
+Conversely, for potential differences between 6 and 8.5 V the brightness increases progressively, but the light bulb does not burn out; finally, for potential differences above 8.5 V there is an almost immediate overheating, with a very intense flash and the filament burns out.
+One wants to reduce the number of lit light bulbs while minimizing the change in the overall brightness of the system. Suppose that one light bulb chosen at random is removed.
+1. By studying the operation of the electrical circuit, determine qualitatively how the brightness of the other light bulbs has changed. Which light bulb should be removed in order to introduce the smallest change in the brightness of the other light bulbs?
+2. Suppose now that any one light bulb is replaced by a small piece of wire of negligible resistance. Determine the effect of this operation on the brightness of the other light bulbs.
+3. What would happen to the brightness of the other light bulbs if two were removed at random? Consider only one – of your choice – among all possible cases, indicating which light bulbs were removed.
 
 <!--fig:start-->
 ![[_attachments/2liv26T/2liv26T_p9_f7.png]]
-*five-lamp circuit*
+*circuit with five light bulbs*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1kWOajbzvoLr3_5i44wHBK0u2q38mDJ6Z/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2026 2° Livello — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/mirror"></span>
@@ -778,38 +724,24 @@ Si possono quindi vedere contemporaneamente le immagini riflesse dallo specchio 
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Two Brothers in the Mirror
-The Commission shall adopt implementing acts in accordance with Article 13 (1) of this Regulation.
-In a science museum, Alberto and his little sister Bianca are standing
-Looking at a strange double mirror. Big, curved and half-transparent.
-() on both sides  obtained by polishing the two faces of a portion of the surface
-a sphere with a radius of 10 m.
-When the two brothers are on one side of the mirror and the other side of the mirror
-on the opposite side, on the axis of this, 6 m apart, Albert
-He observes a curious coincidence: his image, given by the curved mirror, is straight.
-And it matches the position and size of the little white sister who is looking through.
-through the mirror.
-1. Which one of you is on the concave side of the mirror?
-2. How far from the mirror are the two brothers?
-3. If Alberto is 6'8", how tall is Bianca?
-4. What can Bianca observe as she looks at her brother?
-5. Are there other positions where the same coincidence is realized?
-——————
-(∗)
-Thus, the mirror reflected images can be seen at the same time as the image behind the mirror.
+Two siblings at the mirror
+13 points
+In a science museum, Alberto and his little sister Bianca are looking at a strange double mirror – large, curved and semi-transparent (*) from both sides – obtained by polishing the two faces of a portion of a spherical surface with a radius of 10 m.
+When the two siblings are, the former on one side of the mirror and the latter on the opposite side, on its axis, 6 m away from each other, Alberto notices a curious coincidence: his image, given by the curved mirror, is upright and coincides in position and size with the figure of his little sister Bianca that he glimpses through the mirror.
+1. Which of the two is on the concave side of the mirror?
+2. At what distances from the mirror are the two siblings located?
+3. If Alberto is 180 cm tall, how tall is Bianca?
+4. What can Bianca observe while looking toward her brother?
+5. Are there other positions in which the same coincidence occurs?
+—————— (*)
+It is therefore possible to see simultaneously the images reflected by the mirror and what is behind the mirror.
 
 <!--fig:start-->
 ![[_attachments/2liv26T/2liv26T_p9_f8.png]]
-* concave and convex mirror*
+*concave and convex mirror*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1kWOajbzvoLr3_5i44wHBK0u2q38mDJ6Z/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2026 2° Livello — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/disk"></span>
@@ -861,40 +793,22 @@ qualche secondo viene riprodotta la nota La$_4$ che ha una frequenza di $f = 440
 <div class="qlang-split" data-lang="en"></div>
 
 P4
-Vinyl record
-The Commission shall adopt implementing acts in accordance with Article 12 of this Regulation.
-Before the advent of digital recordings (streaming or DVD) music was heard on the radio or with a
-Other, of a width of not more than 600 mm
-vinyl, come back in style now.
-A micro-solar long-playing vinyl LP has a diameter of
-12 equal to 304.8 mm, shall rotate
-It's 100 rounds in three minutes and it plays music for 30 minutes. This is recorded on a track,
-This is a microscopic incision that is
-It develops in a spiral from the outside towards the
-the center of the disk; this structure
-It can be simplified by approximating it to a succession of equally spaced circumferences.
-In the simplest version of a
-only audio channels, each circular track is modulated by radial oscillations,
-a width of not more than 1/3 of the distance between two straps
-Contiguous; radial oscillations faithfully reproduce those of the signal
-I'm not going to do it.
-The part relating to the musical incision is easily recognizable in the photo and begins after the first 5 steps,
-The radial vibrations are transferred to a
-electrical signal and then reproduced in sound by the sound recording equipment.
-1. Estimate, using the photo, the width of the circular crown engraved, the average distance between a trunk and the
-The following is the total length of the engraving.
-Refer now to a groove in the central part of the record, with a radius $r_m = 103$ mm; for
-A few seconds later the note La$_4$ is played, which has a frequency of $f = 440$ Hz.
-2. The wavelength of the sinusoid, engraved on the disc along the groove in question, shall be determined in millimetres.
-3. Estimate, in units of g, the maximum acceleration of the dot while this note is played.
+Vinyl Record
+Points 12
+Before the advent of digital recordings (streaming or DVD distribution), music was listened to on the radio or with a record player on which vinyl records are mounted, now back in fashion.
+A Long Playing (LP) vinyl microgroove record has a diameter of
+12” equal to 304.8 mm, must rotate at a speed of 100 revolutions in 3 minutes and plays music for 30 minutes. This is recorded on a groove, that is, a microscopic incision that develops in a spiral from the outside toward the center of the record; this structure can be simplified by approximating it to a succession of equally spaced circles.
+In the simplest single-audio-channel version, each circular groove is modulated with radial oscillations, whose maximum amplitude is on the order of 1/3 of the distance between two contiguous grooves; the radial oscillations faithfully reproduce those of the acoustic signal.
+The part relating to the musical incision is easily recognizable in the photo and begins after the first 5 grooves, more widely spaced, which serve to initially guide the stylus, whose radial vibrations are transduced into an electrical signal and subsequently reproduced as sound by the acoustic speakers.
+1. Estimate, using the photo, the width of the inscribed annular band, the average distance between one groove and the next and the total length of the incision.
+Reference is now made to a groove in the central part of the recording, having a radius of $r_m = 103$ mm; for a few seconds the note A$_4$ is reproduced, which has a frequency of $f = 440$ Hz.
+2. Determine, in millimeters, the wavelength of the sinusoid inscribed on the disc along the groove considered.
+3. Estimate, in units of g, the maximum acceleration of the stylus while this note is being reproduced.
 <!--fig:start-->
 ![[_attachments/2liv26T/2liv26T_p10_f9.png]]
-*Vinyl disc photo and microscope solches*
+*photo of vinyl disc and grooves under microscope*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1kWOajbzvoLr3_5i44wHBK0u2q38mDJ6Z/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/101h-wfvzH_DauIBj-Fb9sPeyKbzKGiT2/view)
+
+

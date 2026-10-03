@@ -91,30 +91,17 @@ Si consideri un sottile tratto d’acqua di larghezza $\Delta x$. In funzione de
 
 <div class="qlang-split" data-lang="en"></div>
 
-2. Specify the orientation of the lamp by clarifying whether its long side (b) is parallel to the x-axis or to the y-axis
-The figure on the right.
-2  Electric heater
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-An electric water heater is made up of two metal co-axial cylinders of length L. The radius of the
-The internal cylinder value r and s is the distance between the two cylinders, with $s \ll r$.
-The two cylinders are connected to a
-a generator providing a low voltage $V_0$. Water flows between the two cylinders parallel to their axis with
-V and is heated by the electric current passing through it.
-1. Specify, by reasoning, whether the electric current flows: (a) parallel to the axis of the cylinders; (b) around the
-internal cylinder, describing perpendicular circumferences to the axis; (c) perpendicular to the axis of the cylinders,
-In the radial direction.
-Indicate the density of the water with $\delta$, its resistivity with $\rho$ and its specific heat with c. They should ignore the
-The thermal capacity of the two cylinders and the transfer of heat to the environment.
-It is considered a thin stretch of water of $\Delta x$ width. The following shall be calculated according to the parameters provided:
+2. Specify the orientation of the lamp by clarifying whether its long side (b) is parallel to the x-axis or to the y-axis of the figure on the right.
+2 – Electric heater
+[10 points]
+An electric water heater consists of two coaxial metal cylinders of length L. The radius of the inner cylinder is r and s is the distance between the two cylinders, with $s \ll r$.
+The two cylinders are connected to a generator that supplies a low voltage $V_0$. The water flows between the two cylinders parallel to their axis with speed v and is heated by the electric current passing through it.
+1. Specify, giving reasons, whether the electric current flows: (a) parallel to the axis of the cylinders; (b) around the inner cylinder, describing circles perpendicular to the axis; (c) perpendicular to the axis of the cylinders, in the radial direction.
+Let $\delta$ denote the density of the water, $\rho$ its resistivity, and c its specific heat. Neglect the heat capacity of the two cylinders and the transfer of heat to the environment.
+Consider a thin section of water of width $\Delta x$. As a function of the given parameters, calculate:
 2. Its electrical resistance.
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SIgoMrZg2kcRgBflx6z1lso1KtPs9do4/view)
-**Soluzione:** [[2liv15S Def|Soluzioni]]
-
+**Solution:** [[2liv15S Def|Soluzioni]]
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/thermodynamics,argomento/meccanica,object/cylinder"></span>
@@ -181,22 +168,13 @@ verso l’alto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. The temperature change $\Delta T$ that you experience.
-3  Rubber rug
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
-Valeria is a little girl jumping on the rubber rug at the playground. It starts with a few simple things.
-vertical bounces increasing the maximum height at each bounce.
-To study its motion, consider its center of mass (CdM) C. We should set up a reference system with
-the origin at the point where C is located, distant from the detachment from the rubber carpet and the vertical and oriented axis
-Up the hill.
+4. The temperature variation $\Delta T$ that it undergoes.
+3 – Trampoline
+[20 points]
+Valeria is a little girl jumping on the trampoline at the playground. She initially does a few simple vertical bounces, increasing the maximum height reached with each bounce.
+To study her motion, let us consider her center of mass (CoM) C. Let us fix a reference frame with the origin at the point where C is located at the instant of detachment from the trampoline and the y-axis vertical and oriented upward.
 
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Membrane (object)|Membrane]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SIgoMrZg2kcRgBflx6z1lso1KtPs9do4/view)
-**Soluzione:** [[2liv15S Def|Soluzioni]]
-
+**Solution:** [[2liv15S Def|Soluzioni]]
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rod,object/membrane"></span>
@@ -410,36 +388,17 @@ temperature $T_1 = 2000\ \text{K}$ e $T_2 = 1300\ \text{K}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-5. Find $\alpha$ by $\ell$ and h. Si trascuri la piccola inclinazione $\alpha$ che la ragazzina ha in partenza e si
-Consider a spin of $360^\circ$ again; where $h = 2\ \text{m}$ is still $\ell = 1.80\ \text{m}$, calculate the value
-The number of $\alpha$.
-4  Thermal radiation
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
-The term thermal radiation is used for those electromagnetic waves whose spectrum is continuous and depends on
-The body temperature that emits them, unlike other types of waves.
-Electromagnetic waves, such as radio waves or cell phone waves, which are characterized by discrete frequencies
-and well defined, due to the characteristics of the devices that emit them.
-A useful quantity for characterizing the thermal radiation emitted by a body is the radiation intensity (). This $\Delta E$ is the amount of energy emitted by a small portion of the surface of the body of area $\Delta A$,
-In a small time interval $\Delta t$, the intensity I is the ratio $\Delta E/(\Delta A\, \Delta t)$. Its SI unit of measurement is
-The following is the power per unit area: $\text{W m}^{-2}$.
-For the detailed characterization of radiation emission phenomena the most useful size is the intensity
-The spectral range $I_s(\lambda)$ is defined as the ratio of the radiation intensity within a small range of
-wavelength $\Delta\lambda$ (centered on a particular value of $\lambda$) and range width: $I_s = \Delta I/\Delta\lambda$;
-Of course, $I_s$ is a function of the wavelength.
-In general, the spectral intensity of thermal radiation emitted by a body depends on the properties of the body,
-In addition to its temperature, however, in some cases it has a tendency close to that of a function
-The universe is theoretically calculated on the basis of body temperature alone and is independent of the
-This function is called the black body spectrum.
-ATTENTION: In a separate sheet, black body spectral intensity graphs are provided for two different
-temperature $T_1 = 2000\ \text{K}$ e $T_2 = 1300\ \text{K}$.
+5. Derive $\alpha$ as a function of $\ell$ and h. Neglect the small inclination $\alpha$ that the girl has at the start and again consider a rotation of $360^\circ$; assuming that it is still $h = 2\ \text{m}$ and that it is $\ell = 1.80\ \text{m}$, calculate the numerical value of $\alpha$.
+4 – Thermal radiation
+[20 points]
+The term thermal radiation is used for those electromagnetic waves whose spectrum is continuous and depends above all on the temperature of the body that emits them, unlike what happens for other types of electromagnetic waves, such as radio waves or those of cell phones, which are characterized by discrete and well-defined frequencies, traceable to the characteristics of the devices that emit them.
+A useful quantity for characterizing the thermal radiation emitted by a body is the intensity of the radiation(∗). Let $\Delta E$ be the amount of energy emitted by a small portion of the body's surface of area $\Delta A$, in a small time interval $\Delta t$; the intensity I is the ratio $\Delta E/(\Delta A\, \Delta t)$. Its unit of measurement in the SI is therefore that of a power per unit area: $\text{W m}^{-2}$.
+To characterize in detail the phenomena of radiation emission, the most useful quantity is the spectral intensity, $I_s(\lambda)$, understood as the ratio between the intensity of the radiation contained in a small wavelength interval $\Delta\lambda$ (centered on a particular value of $\lambda$) and the width of the interval itself: $I_s = \Delta I/\Delta\lambda$;
+obviously, $I_s$ is a function of the wavelength.
+In general, the spectral intensity of the thermal radiation emitted by a body depends on the properties of the body, as well as on its temperature; however, in certain cases it has a trend close to that of a universal function, which is calculated theoretically on the basis of the body's temperature alone and is indeed independent of its properties: this function is called the black-body spectrum.
+ATTENTION: On a separate sheet, the graphs of the black-body spectral intensity at two different temperatures $T_1 = 2000\ \text{K}$ and $T_2 = 1300\ \text{K}$ are provided.
 
-**Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SIgoMrZg2kcRgBflx6z1lso1KtPs9do4/view)
-**Soluzione:** [[2liv15S Def|Soluzioni]]
-
+**Solution:** [[2liv15S Def|Soluzioni]]
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica"></span>

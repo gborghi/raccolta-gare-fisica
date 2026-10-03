@@ -31,19 +31,13 @@ Martin il pescatore si sporge dalla sua barca, riempie un bicchiere con $0.25\ \
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Water bottles in the ocean**
+**A glass of water in the ocean**
 
-Martin the fisherman emerges from his boat, fills a glass with $0.25\ \text{L}$ of seawater (with a molecular mass equal to $18\ \text{g mol}^{-1}$) and empties it back into the sea immediately afterwards. Many years later, when the water taken from the glass has now completely re-mixed into all the world's seas (which cover about $70\%$ of the earth's surface and are deep on average $4\ \text{km}$), Martin is back on his boat. Egli riempie una seconda volta il bicchiere con la stessa quantità d'acqua e si chiede quale sia il numero $N$ di molecole che sono state pescate entrambe le volte nel bicchiere. Quanto vale $\log_{10} N$?
+Martin the fisherman leans over from his boat, fills a glass with $0.25\ \text{L}$ of seawater (with molecular mass equal to $18\ \text{g mol}^{-1}$) and empties it back into the sea right afterwards. Many years later, when the water taken in the glass has by now mixed completely throughout all the seas of the planet (which cover about $70\%$ of the Earth's surface and are on average $4\ \text{km}$ deep), Martin finds himself on his boat again. He fills the glass a second time with the same amount of water and wonders what the number $N$ is of molecules that were fished both times in the glass. What is $\log_{10} N$?
 
-*Unità di misura:* adimensionale. *Precisione richiesta:* $4.0\%$.
+*Unit of measurement:* dimensionless. *Required precision:* $4.0\%$.
 
-**Topic:** [[Order-of-Magnitude Estimation]], [[Kinetic Theory]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BKqxiGR9lRA8DzGHuxnBq3hkBj7LXocZ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IEamltKsQ1nnjPdZEdGm-LA6Eljwg-wY/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IEamltKsQ1nnjPdZEdGm-LA6Eljwg-wY/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="GaS 2023 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/squadre,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/spring,object/block"></span>

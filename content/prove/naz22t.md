@@ -228,65 +228,39 @@ Gara Nazionale Prova teorica – 22 aprile 2022
 <div class="qlang-split" data-lang="en"></div>
 
 P2 Electrostatic pendulum
-The following points shall be added:
-An electrical charge is evenly distributed with density $\lambda > 0$
-on a semicircular centre O and radius $r$, fixed on a
-vertical plane, as shown in Figure 1.
-Whether $\vec{E}(P)$ the electric field given by the charge distribution
-in point P of the plan shown in Figure and $\vec{E} = \vec{E}_\parallel + \vec{E}_\perp$, the
-decomposition of the field into parallel and orthogonal components
-I'm not going to say that I'm not going to be able to do it.
-1. It is shown that if $P'$ is the symmetrical point of P with respect to
-O, the $\vec{E}_\perp(P') = \vec{E}_\perp(P)$ ratio is used.
-Suggestion for Question 1: consider the distribution of
-The Commission shall, by means of implementing acts, adopt delegated acts in accordance with Article 21 of the Treaty establishing the European Community, in accordance with Article 21 of this Agreement, in accordance with the procedure referred to in Article 21 of this Agreement.
-one is symmetrical to the $PP'$ straight line.
-A pendulum is suspended from a pole or which coincides with the centre
-The Commission has already decided to take a decision on the basis of the conclusions of the semicircular. The pendulum is made of a small sphere
-a mass of $m$ having a charge $q_1$ and a wire, unextended and of
-a negligible mass, length $\ell < r$, as shown in Figure 1.
-It can be shown that at all points on the passing vertical
-For O, above the support point of the semicircular, the
-The electric field is directed upwards.
-2. The electric field module of the distribution $\lambda$ is $E_A$
-in point A, indicate which values of $q_1$, both positive and negative,
-The pendulum may be in equilibrium at point A.
-You want to determine the force of gravity when the pendulum is moved from the equilibrium position of a small
-angle $\varphi \ll 1$ (expressed in radiants) in point P: for clarity, in the figure the angle $\varphi$ has a very wide
-It's bigger than the real thing.
-3. Show that for $\varphi \ll 1$ the module of the component perpendicular to the electric field wire in P can be
-be expressed as $E_\perp = \alpha\varphi$, where $\alpha$ is a constant and determine the expression of that constant.
-The following field is always written as $\alpha$ without replacing the newly found expression.
-4. Write the expression of the force of call that gives rise to the small oscillations.
-In these conditions the period is measured and a value $T_1$ is found.
-The pendulum sphere is then charged with a $q_2$ charge of double the previous module.
-The pendulum shall be kept in a position of equilibrium with a period $T_2 = T_1$.
-5. Determine the position of the equilibrium point in this new condition and the load mark $q_2$.
-6. Write, as before, the expression of the force of call giving rise to the small oscillations
-around the new equilibrium position.
-7. Determine the value of the period $T$, in either positive or negative cases $q_1$, knowing that the period of the
-Harmonic oscillations of the pendulum in the case where the semicircular is not loaded $T_0 = 1\ \text{s}$.
- Page 5 of 6 
-AIF  2022 Olympics in Physics
-National competition Theoretical test  22 April 2022
+100 points
+An electric charge is uniformly distributed with density $\lambda > 0$ on a semicircle with center O and radius $r$, held fixed on a vertical plane, as shown in the figure.
+Let $\vec{E}(P)$ be the electric field given by the charge distribution at point P of the plane shown in the figure and let $\vec{E} = \vec{E}_\parallel + \vec{E}_\perp$ be the decomposition of the field into components parallel and perpendicular to the line OP.
+1. Show that, if $P'$ is the point symmetric to P with respect to
+O, the relation $\vec{E}_\perp(P') = \vec{E}_\perp(P)$ holds.
+Hint for question 1: consider the charge distribution on the semicircle as consisting of two parts, one of which is symmetric with respect to the line $PP'$.
+A pendulum is suspended from a pivot O that coincides with the center of the semicircle. The pendulum consists of a small sphere of mass $m$ that carries a charge $q_1$ and a thread, inextensible and of negligible mass, of length $\ell < r$, as shown in the figure.
+It can be shown that at all points lying on the vertical line through O, above the point where the semicircle rests, the electric field is directed upward.
+2. Let $E_A$ be the magnitude of the electric field of the distribution $\lambda$ at point A; state for which values of $q_1$, both positive and negative, the pendulum can be in equilibrium at point A.
+We want to determine the restoring force when the pendulum is displaced from the equilibrium position by a small angle $\varphi \ll 1$ (expressed in radians) at point P: for clarity, in the figure the angle $\varphi$ has a much larger magnitude than the actual one.
+3. Show that, for $\varphi \ll 1$, the magnitude of the component perpendicular to the string of the electric field at P can be expressed as $E_\perp = \alpha\varphi$, where $\alpha$ is a constant, and determine the expression of this constant.
+In the following, always write the field in terms of $\alpha$ without substituting the expression just found.
+4. Write the expression of the restoring force that gives rise to the small oscillations.
+Under these conditions the period is measured and a value $T_1$ is found.
+Subsequently, the pendulum sphere is charged with a charge $q_2$ of twice the magnitude of the previous one; it is observed that also in this case the pendulum oscillates around an equilibrium position with a period $T_2 = T_1$.
+5. Determine the position of the equilibrium point in this new condition and the sign of the charge $q_2$.
+6. Write, analogously to before, the expression of the restoring force that gives rise to the small oscillations around the new equilibrium position.
+7. Determine the value of the period $T$, in the two cases $q_1$ positive or negative, knowing that the period of the harmonic oscillations of the pendulum in the case in which the semicircle is not charged is $T_0 = 1\ \text{s}$.
+— Page 5 of 6 —
+AIF – Physics Olympiads 2022
+National Competition Theoretical Test – 22 April 2022
 
 <!--fig:start-->
- Semi-conference load, field E in P
+**p.5** — Charged semicircle, field E at P
 ![[_attachments/Naz22T/Naz22T_p5_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculations:
+**p.5** — Electrostatic pendulum in the semicircle
 ![[_attachments/Naz22T/Naz22T_p5_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Jgm5fK2ART4nJP-BHln1A1vD7aK-XKZT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1NfmHTFOubpdWoPbVCbCvewiVP9VFio/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1l1NfmHTFOubpdWoPbVCbCvewiVP9VFio/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2022 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/gas"></span>

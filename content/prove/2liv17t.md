@@ -749,27 +749,21 @@ All'amico stupito della rapidità della risposta, $B$ spiega come ha fatto: «Ho
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problem 1  Walking with friction on the cylinders… (Points 20) **
+**Problem 1 — Walking, with friction, on cylinders… (20 points)**
 
-**Parte A [Punti 6]**
+**Part A [6 points]**
 
-Two friends $A$ and $B$ often find themselves walking fast, at a speed of about $6\,\text{km/h}$, on a tree-lined avenue where the path is marked with a tag each $100\,\text{m}$.
+Two friends $A$ and $B$ often find themselves walking briskly, at a speed of about $6\,\text{km/h}$, along a tree-lined avenue where the route is marked with a sign every $100\,\text{m}$.
 
-Ad un certo punto $A$ chiede: «A che velocità stiamo andando, secondo te?»
-Use your timer and tell me how long we're going to do $100\,\text{m}$ replica $B$. In that passage, $A$ says: $58.3$ seconds; in a moment $B$ answers: Let's go to $6{,}17\,\text{km/h}$.
+At a certain point $A$ asks: «How fast are we going, do you think?»
+«Use your stopwatch and tell me how long it takes us to do $100\,\text{m}$» replies $B$. Once that stretch has been covered, $A$ says: «$58.3$ seconds»; in an instant $B$ replies: «We're going at $6{,}17\,\text{km/h}$».
 
-All'amico stupito della rapidità della risposta, $B$ spiega come ha fatto: «Ho fatto la differenza tra $60$ secondi e il tempo che mi hai dato: $60 - 58{,}3 = 1{,}7$ che è un piccolo intervallo; poi ho diviso questo piccolo intervallo per $10$ e l'ho sommato a $6$, cioè $6 + 0{,}17 = 6{,}17$ che è, appunto, la velocità che ti ho detto in km/h. If we don't walk too fast, this way of counting gives an almost right result, knowing that little interval.
+To his friend, amazed at the quickness of the answer, $B$ explains how he did it: «I took the difference between $60$ seconds and the time you gave me: $60 - 58{,}3 = 1{,}7$, which is a small interval; then I divided this small interval by $10$ and added it to $6$, that is $6 + 0{,}17 = 6{,}17$, which is, in fact, the speed I told you in km/h. If we don't walk too fast, this way of doing the calculation gives an almost correct result, knowing that small interval.»
 
-1. For what values of that small range does this method provide a correct result within $1\%$?
+1. For which values of that small interval does this method give a correct result within $1\%$?
 2. What is the corresponding maximum speed?
 
-**Topic:** [[Newtonian Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1tlxY7w6ZwtAxWVM-wR210Eh5By6Mml8Y/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1To76uMHbKd2E3r2yeGFSi5yqI_Tu_hHn/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1To76uMHbKd2E3r2yeGFSi5yqI_Tu_hHn/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2017 2° Livello — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/disk"></span>
@@ -849,19 +843,13 @@ Se i tre cilindri sono stati lasciati liberi simultaneamente dalla stessa altezz
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission to the Member States:
+**Problem 1 — Part C [7 points]**
 
-Three cylinders, all $m$ in mass, rolling without slipping along an inclined plane of $h$ height. The cylinders have the following characteristics: the first is empty and has a radius $r$; the second is full and has a radius $r/2$; the third is full and has a radius $r$.
+Three cylinders, all of mass $m$, roll without slipping along an inclined plane of height $h$. The cylinders have the following characteristics: the first is hollow and has radius $r$; the second is solid and has radius $r/2$; the third is solid and has radius $r$.
 
-If the three cylinders were released simultaneously from the same height, which cylinder will take longer to reach the base of the sloping plane?
+If the three cylinders were released simultaneously from the same height, which cylinder will take the longest time to reach the base of the inclined plane?
 
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1tlxY7w6ZwtAxWVM-wR210Eh5By6Mml8Y/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1To76uMHbKd2E3r2yeGFSi5yqI_Tu_hHn/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1To76uMHbKd2E3r2yeGFSi5yqI_Tu_hHn/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2017 2° Livello — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/slit,object/screen"></span>
@@ -899,32 +887,26 @@ Si pone una fenditura di larghezza $a$ davanti a un laser a He-Ne che emette un 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission in the field of safety and health:
+**Problem 2 — Laser and slit (20 points)**
 
-A $a$ width crack is placed in front of a He-Ne laser that emits a thin, collimated monochrome light beam of $\lambda = 632{,}8\,\text{nm}$ wavelength. On a screen orthogonal to the laser beam and placed at a distance $D = 1{,}5\,\text{m}$ from the crack, a diffraction figure such as that reproduced here is observed, for convenience, in reverse colour. Note that the scale of the drawing is such that the smaller square is $1\,\text{mm}$, the larger one is $1\,\text{cm}$.
+A slit of width $a$ is placed in front of a He-Ne laser that emits a thin, collimated beam of monochromatic light with wavelength $\lambda = 632{,}8\,\text{nm}$. On a screen orthogonal to the laser beam and placed at a distance $D = 1{,}5\,\text{m}$ from the slit, a diffraction pattern is observed like the one reproduced here, for convenience, in inverted colors. Keep in mind that the scale of the drawing is such that the minor grid is $1\,\text{mm}$, the major one $1\,\text{cm}$.
 
-1. The following diagram partially illustrates the experimental assembly with which the diffraction figure shown above was obtained horizontally. After copying the pattern onto the sheet, complete it with the missing essential elements.
-2. Set a reference system for the given diffraction figure, determine the positions of the minima and return them to a chart according to the order number. Based on this chart, provide the best estimate for the distance between two adjacent lows.
-3. Using the result of the previous question, determine the width $a$ of the crack.
-4. Demonstrate that, at the lowest points of the diffraction figure, the phase difference $\Delta\varphi$ between the rays coming from the opposite edges of the cleft is equal to an integer multiple of $2\pi\,\text{rad}$.
-5. Calculate the value of the $\Delta\varphi(P)$ phase difference between the rays reaching the $P$ point equidistant from the first and second minimum, coming from the opposite edges of the cleft.
+1. The following diagram partially illustrates the experimental setup with which the diffraction pattern shown above, horizontally, was obtained. After copying the diagram onto your sheet, complete it with the essential missing elements.
+2. Having fixed a reference system on the given diffraction pattern, determine the positions of the minima and plot them on a graph as a function of the order number. Based on this graph, provide the best estimate for the value of the distance between two adjacent minima.
+3. Using the result of the previous question, determine the width $a$ of the slit.
+4. Demonstrate that, at the minima of the diffraction pattern, the phase difference $\Delta\varphi$ between the rays coming from the opposite edges of the slit is equal to an integer multiple of $2\pi\,\text{rad}$.
+5. Calculate the value of the phase difference $\Delta\varphi(P)$ between the rays arriving at the point $P$ equidistant from the first and second minimum, coming from the opposite edges of the slit.
 
 <!--fig:start-->
 ![[_attachments/2liv17T/2liv17T_p7_f6.png]]
-*Fragment diffraction by crack (inverted colours) *
+*Diffraction pattern from slit (colors inverted)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2liv17T/2liv17T_p7_f7.png]]
-The following information is provided for in the Annex to this Regulation:
+*Diagram of laser, slit, screen setup*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1tlxY7w6ZwtAxWVM-wR210Eh5By6Mml8Y/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1To76uMHbKd2E3r2yeGFSi5yqI_Tu_hHn/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1To76uMHbKd2E3r2yeGFSi5yqI_Tu_hHn/view)
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OII 2017 2° Livello — Problema 15" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/point-charge,object/wire"></span>

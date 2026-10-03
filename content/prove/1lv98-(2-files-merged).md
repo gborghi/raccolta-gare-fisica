@@ -27,15 +27,9 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** A container containing rarefied gas (perfect gas in good approximation); pressure is measured at different temperatures and data is given in a temperature-specific graph. Which of the following graphs will be found? *[Five graphs $P$ vs $T_C$ (°C) AE; the correct one is a rising straight line that does not pass through the origin, intercepting the $P$ axis at a positive value at $T_C=0$.]*
+**Q1.** A sealed container holds rarefied gas (a perfect gas to a good approximation); the pressure is measured at various temperatures and the data are plotted on a graph as a function of temperature. Which of the following graphs will be found? *[Five graphs $P$ vs $T_C$ (°C) A–E; the correct one is an increasing straight line that does NOT pass through the origin, intercepting the $P$ axis at a positive value at $T_C=0$.]*
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
@@ -56,15 +50,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** Two waves $M$ and $N$ overlap at one point; the resulting time-dependent displacement graph is $R$ (top). The displacement of the single wave $N$ is the lower graph ($N$, sinusoidal). Which of the AE graphs best describes the wave time shift $M$? *[NB: all graphs are referenced to the same scale. For $M=R-N$, the correct graph is a sinusoid whose width/phase makes $M+N=R$.]*
+**Q2.** Two waves $M$ and $N$ overlap at a point; the graph of the resulting displacement as a function of time is $R$ (at the top). The displacement of wave $N$ alone is the graph at the bottom ($N$, sinusoidal). Among graphs A–E, which one best describes the displacement as a function of time of wave $M$? *[NB: all graphs refer to the same scale. For $M=R-N$, the correct graph is a sinusoid whose amplitude/phase makes $M+N=R$.]*
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/sphere,object/satellite,object/ball"></span>
@@ -92,22 +80,16 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows the diagram of the forces acting on an object in the following situations: 1  a metal ball falling into a void; 2  a satellite orbiting the Earth; 3  a ball still on the pool table.
+**Q3.** The figure represents the force diagram acting on an object in the following situations: 1 — a metal sphere falling in a vacuum; 2 — a satellite in orbit around the Earth; 3 — a ball at rest on a billiard table.
 
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p3_f1.png]]
-*Graph of the forces on the object: a single force, the weight, downwards.*
+*Force diagram on the object: a single force, weight, directed downward.*
 <!--fig:end-->
 
-What statements are correct? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+ Which statements are correct? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Satellite (object)|Satellite]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
@@ -157,15 +139,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q5.** What unit of measurement can be used to express the product between the pressure of a gas and the change in its volume? The number of meters is the same as the number of meters in the unit.
+**Q5.** Which unit of measurement can be used to express the product of the pressure of a gas and the change in its volume? A) newton; B) newton × second; C) newton × meter; D) newton/square meter; E) watt.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/nucleus"></span>
@@ -194,23 +170,17 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two radioactive isotopes $X$ and $Y$ decay into stable isotopes with halving times $T_X=2t_0$ and $T_Y=3t_0$ ($t_0$ range known). At a given moment the radioactive atomic numbers in the samples of $X$ and $Y$ are in the ratio $2:1$. After how long will the two samples contain the same number of radioactive isotope atoms? A) $t_0$; B) $2t_0$; C) $3t_0$; D) $6t_0$; E) $8t_0$.
+**Q6.** Two radioactive isotopes $X$ and $Y$ decay into stable isotopes, with half-lives $T_X=2t_0$ and $T_Y=3t_0$ ($t_0$ known interval). At a certain instant the numbers of radioactive atoms in the samples of $X$ and $Y$ are in the ratio $2:1$. After how much time will the two samples contain the same number of radioactive isotope atoms? A) $t_0$; B) $2t_0$; C) $3t_0$; D) $6t_0$; E) $8t_0$.
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p4_f7.png]]
-*wheel of a rotating wire *
+*bucket rotating on a rope*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p4_f8.png]]
-*five force diagrams subject to options A-E*
+*five force diagrams object options A-E*
 <!--fig:end-->
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/modern-quantum-physics,argomento/fisica-moderna,object/photon,object/electron"></span>
@@ -231,15 +201,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The electrodes of an X-ray tube shall be fitted with a D.D.P. $V$. What is the minimum value of $V$ required to produce a wavelength X-ray $\lambda$? A) $\dfrac{hf}{\lambda}$; B) $\dfrac{hc}{e\lambda}$; C) $\dfrac{h\lambda}{ec}$; D) $\dfrac{h\lambda}{e}$; E) $\dfrac{h\lambda}{cf}$.
+**Q7.** A potential difference $V$ is applied to the electrodes of an X-ray tube. What is the minimum value of $V$ needed to produce X-rays of wavelength $\lambda$? A) $\dfrac{hf}{\lambda}$; B) $\dfrac{hc}{e\lambda}$; C) $\dfrac{h\lambda}{ec}$; D) $\dfrac{h\lambda}{e}$; E) $\dfrac{h\lambda}{cf}$.
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica"></span>
@@ -260,15 +224,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The force of gravity acts between two objects, placed at a certain distance. If you double both the mass of each object and the distance, the gravitational force is multiplied by a factor of... A) $\tfrac14$; B) $\tfrac12$; C) $1$; D) $2$; E) $4$.
+**Q8.** Between two objects, placed at a certain distance, the force of gravity acts. If both the mass of each object and the distance are doubled, the gravitational force turns out to be multiplied by a factor equal to... A) $\tfrac14$; B) $\tfrac12$; C) $1$; D) $2$; E) $4$.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/tank-container,object/rope-string"></span>
@@ -289,15 +247,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A bucket tied to a rope is placed in uniform rotation on a horizontal plane; an object remains against the rough bottom without falling on the wall. What diagram best represents the agent forces on the object in a solid reference with the ground? *[Five AE diagrams with arrows on a cube; the correct one shows weight (below), bottom reaction (center/right) and friction (up), resulting in a horizontal centripede.]*
+**Q9.** A bucket tied to a rope is set into uniform rotation on a horizontal plane; an object remains against the rough bottom, without falling onto the wall. Which diagram best represents the forces acting on the object in a reference frame fixed to the ground? *[Five diagrams A–E with arrows on a small block; the correct one shows weight (down), normal reaction of the bottom (toward the center/right) and friction (up), with a horizontal centripetal resultant.]*
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **A**
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
@@ -318,15 +270,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Earth, with mass $M$, exert a force $F$ on the Moon, with mass $m$. The intensity of the force exerted by the moon on Earth is... A) $F$; B) $(m/M)F$; C) $(M/m)F$; D) $(m/M)^{1/2}F$; E) $(m/M)^2 F$.
+**Q10.** The Earth, of mass $M$, exerts a force $F$ on the Moon, of mass $m$. The magnitude of the force exerted by the Moon on the Earth is... A) $F$; B) $(m/M)F$; C) $(M/m)F$; D) $(m/M)^{1/2}F$; E) $(m/M)^2 F$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **A**
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,object/gas"></span>
@@ -347,15 +293,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q11.** Which of the following values is the best estimate of the number of molecules in the air in a telephone booth? A) $10^{17}$; B) $10^{20}$; C) $10^{23}$; D) $10^{26}$; E) $10^{29}$.
+**Q11.** Which of the following values represents the best estimate of the number of molecules present in the air contained in a telephone booth? A) $10^{17}$; B) $10^{20}$; C) $10^{23}$; D) $10^{26}$; E) $10^{29}$.
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
@@ -405,15 +345,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q14.** An object is positioned at $12\ \text{cm}$ by a thin convex lens of focal length $4\ \text{cm}$. In what position is the image formed? A) A $6\ \text{cm}$ to the left of the lens; B) a $6\ \text{cm}$ to the right; C) a $8\ \text{cm}$ to the right; D) a $10\ \text{cm}$ to the right; E) a $12\ \text{cm}$ to the left.
+**Q14.** An object is placed at $12\ \text{cm}$ from a thin convex lens with focal length $4\ \text{cm}$. At what position is the image formed? A) At $6\ \text{cm}$ to the left of the lens; B) at $6\ \text{cm}$ to the right; C) at $8\ \text{cm}$ to the right; D) at $10\ \text{cm}$ to the right; E) at $12\ \text{cm}$ to the left.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/point-charge"></span>
@@ -434,15 +368,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** Three small spheres of charge $S_1$, $S_2$, $S$ are at the vertices of a rectangular triangle; the distance between $S_1$ and $S$ is greater than that between $S_2$ and $S$. The force $\vec F_0$ indicated (at $45°$, upright) acts on the $S$ sphere. If the positions of $S_1$ and $S_2$ are exchanged, which diagram correctly shows the overall force $\vec F$ on $S$ (fixed)? *[Five AE diagrams; correct: direct force down to left, forming with $SS_1$ a smaller angle of $45°$.]*
+**Q15.** Three small charged spheres $S_1$, $S_2$, $S$ are at the vertices of a right triangle; the distance between $S_1$ and $S$ is greater than that between $S_2$ and $S$. On sphere $S$ acts the force $\vec F_0$ indicated (at $45°$, directed up-right). If the positions of $S_1$ and $S_2$ are swapped, which diagram correctly shows the total force $\vec F$ on $S$ (which has remained fixed)? *[Five diagrams A–E; correct: force directed down-left, forming with $SS_1$ an angle smaller than $45°$.]*
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/rigid-body-statics,argomento/meccanica,object/rope-string"></span>
@@ -463,15 +391,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q16.** A $R$ ring of $10\ \text{N}$ weight is suspended from a rope fixed at the ends $P$ and $Q$ to a horizontal axis; the rope forms $30°$ angles with the axis. What's the tension on the rope? A) $5\ \text{N}$; B) $5\sqrt3\ \text{N}$; C) $10\ \text{N}$; D) $10\sqrt3\ \text{N}$; E) $20\ \text{N}$.
+**Q16.** A ring $R$ weighing $10\ \text{N}$ is hung from a rope fixed at its ends $P$ and $Q$ to a horizontal axis; the rope forms angles of $30°$ with the axis. What is the tension of the rope? A) $5\ \text{N}$; B) $5\sqrt3\ \text{N}$; C) $10\ \text{N}$; D) $10\sqrt3\ \text{N}$; E) $20\ \text{N}$.
 
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/capacitor"></span>
@@ -521,15 +443,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q18.** An aeroplane moves vertically at a constant speed along a circular arc of radius $R$. At the highest point the pilot feels * without weight*. What's the speed of the plane at that point? A) $gR$; B) $\sqrt{gR}$; C) $g/R$; D) $\sqrt{g/R}$; E) $2gR$.
+**Q18.** An airplane moves in a vertical plane at constant speed along a circular arc trajectory of radius $R$. At the highest point the pilot feels *weightless*. What is the speed of the airplane at that point? A) $gR$; B) $\sqrt{gR}$; C) $g/R$; D) $\sqrt{g/R}$; E) $2gR$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/tank-container"></span>
@@ -550,15 +466,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q19.** A closed container is heat-insulated by walls consisting of two layers of different materials $R$ and $S$. The thickness of $R$ (inside) is twice that of $S$. Temperatures: internal $+0.5\ °\text{C}$, at the junction $0\ °\text{C}$, external $-2.0\ °\text{C}$. Determine the ratio of thermal conductivity of $R$ to that of $S$. A) $1$; B) $2$; C) $4$; D) $8$; E) $16$.
+**Q19.** A closed container is thermally insulated by walls made of two layers of different materials $R$ and $S$. The thickness of $R$ (inner) is twice that of $S$. Temperatures: internal $+0.5\ °\text{C}$, at the junction $0\ °\text{C}$, external $-2.0\ °\text{C}$. Determine the ratio between the thermal conductivity of $R$ and that of $S$. A) $1$; B) $2$; C) $4$; D) $8$; E) $16$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
@@ -579,15 +489,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-A force of $50\ \text{N}$ acts for $2\ \text{s}$ on a mass body $1\ \text{kg}$, while this moves by $10\ \text{m}$. The impulse transferred to the body is... A) $1000\ \text{kg m s}^{-1}$; B) $500$; C) $100$; D) $50$; E) $10\ \text{kg m s}^{-1}$.
+**Q20.** A force of $50\ \text{N}$ acts for $2\ \text{s}$ on a body of mass $1\ \text{kg}$, while it moves by $10\ \text{m}$. The impulse transferred to the body is... A) $1000\ \text{kg m s}^{-1}$; B) $500$; C) $100$; D) $50$; E) $10\ \text{kg m s}^{-1}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball"></span>
@@ -608,15 +512,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q21.** A ball is thrown into the air upwards; the (asymmetrical) trajectory is outlined with the points $X$, $Y$ (top), $Z$. Between the points $X$, $Y$, $Z$ the speed of the ball is maximum... A) nel punto $X$; B) nel punto $Y$; C) nel punto $Z$; D) nei punti $X$ e $Y$; E) nei punti $X$ e $Z$.
+**Q21.** A ball is thrown upward into the air; the trajectory (asymmetric) is schematized with the points $X$, $Y$ (top), $Z$. Among the points $X$, $Y$, $Z$ the speed of the ball is maximum... A) at point $X$; B) at point $Y$; C) at point $Z$; D) at points $X$ and $Y$; E) at points $X$ and $Z$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-**Risposta:** **A**
-
+**Answer:** **A**
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/galvanometer"></span>
@@ -637,15 +535,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The $A_3$ ampere in the figure indicates a current of $6\ \text{A}$. The circuit has two parallel branches with $R_2=10\ \Omega$ (on $A_2$) and $R_1=5\ \Omega$ (on $A_1$). The amperometer $A_1$ will indicate... A) $2\ \text{A}$; B) $3\ \text{A}$; C) $4\ \text{A}$; D) $5\ \text{A}$; E) $6\ \text{A}$.
+**Q22.** The ammeter $A_3$ in the figure indicates a current of $6\ \text{A}$. The circuit has two parallel branches with $R_2=10\ \Omega$ (across $A_2$) and $R_1=5\ \Omega$ (across $A_1$). The ammeter $A_1$ will indicate... A) $2\ \text{A}$; B) $3\ \text{A}$; C) $4\ \text{A}$; D) $5\ \text{A}$; E) $6\ \text{A}$.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/spring"></span>
@@ -666,15 +558,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q23.** Two different dynamometers $X$ and $Y$ are attached to each other; $Y$ is bound to a wall, $X$ is pulled forcefully $F$ in the opposite direction. The elastic constant of the $X$ spring is twice that of $Y$ and the rest length ratio is $1.5$; the dynamometers are rated in newtons. What force is read on $Y$ if $X$ indicates $4\ \text{N}$? A) $0$; B) $4\ \text{N}$; C) $6\ \text{N}$; D) $8\ \text{N}$; E) $12\ \text{N}$.
+**Q23.** Two different dynamometers $X$ and $Y$ are attached to each other; $Y$ is fixed to a wall, $X$ is pulled with force $F$ in the opposite direction. The spring constant of the spring of $X$ is twice that of $Y$ and the ratio of the rest lengths is $1.5$; the dynamometers are calibrated in newtons. What force is read on $Y$ if $X$ indicates $4\ \text{N}$? A) $0$; B) $4\ \text{N}$; C) $6\ \text{N}$; D) $8\ \text{N}$; E) $12\ \text{N}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -695,15 +581,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-For an object that starts stationary and falls freely under the force of gravity alone, the kinetic energy is proportional to the... (a) the product of the time fall and distance travelled; (b) the speed; (c) the square of the distance travelled; (d) the square of the time fall; (e) the time fall.
+**Q24.** *(requires the table of constants)* For an object that starts from rest and falls freely under the sole force of gravity, the kinetic energy is proportional... A) to the product of the fall time and the distance traveled; B) to the velocity; C) to the square of the distance traveled; D) to the square of the fall time; E) to the fall time.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
@@ -724,15 +604,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q25.** *(requires the constant table)* Which of the following units is the same size as the "farad"? A) $\Omega^{-1}\,\text{s}$; B) $\Omega\,\text{s}^{-1}$; C) $\Omega\,\text{s}$; D) $\Omega\,\text{s}^2$; E) $\Omega^2\,\text{s}$.
+**Q25.** *(requires the table of constants)* Which of the following units has the same dimension as the "farad"? A) $\Omega^{-1}\,\text{s}$; B) $\Omega\,\text{s}^{-1}$; C) $\Omega\,\text{s}$; D) $\Omega\,\text{s}^2$; E) $\Omega^2\,\text{s}$.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **A**
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string"></span>
@@ -782,15 +656,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q28.** In the $R_1=R_2=1\ \text{M}\Omega$ and $C_1=C_2=1\ \mu\text{F}$ circuits, the $S$ switch is initially opened and $C_2$ discharged. When $S$ is closed: 1  the current in $R_2$ initially takes $0.1\ \text{mA}$ and decreases to zero; 2  the charge on $C_1$ initially decreases but then returns to the original value; 3  the final charge on $C_2$ will be half that on $C_1$. What statement is correct? (a) All; (b) only 1 and 2; (c) only 2 and 3; (d) only 1; (e) only 3.
+**Q28.** In the circuit $R_1=R_2=1\ \text{M}\Omega$ and $C_1=C_2=1\ \mu\text{F}$; the switch $S$ is initially open and $C_2$ uncharged. When $S$ is closed: 1 — the current in $R_2$ is initially $0.1\ \text{mA}$ and decreases to zero; 2 — the charge on $C_1$ initially decreases but then returns to its original value; 3 — the final charge on $C_2$ will be half of that on $C_1$. Which statement is correct? A) All; B) only 1 and 2; C) only 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/conducting-sphere"></span>
@@ -811,15 +679,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-A positively charged and isolated body is brought close to a metal ball attached to the ground, without touching it. So: 1  the sphere charges negatively; 2  the loaded body loses positive charge; 3  the sphere acquires a negative potential relative to the ground. What statement is correct? (a) All; (b) only 1 and 2; (c) only 2 and 3; (d) only 1; (e) only 3.
+**Q29.** A positively charged and isolated body is brought near a metal sphere connected to ground, without touching it. Then: 1 — the sphere becomes negatively charged; 2 — the charged body loses positive charge; 3 — the sphere acquires a negative potential with respect to ground. Which statement is correct? A) All; B) only 1 and 2; C) only 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
@@ -840,15 +702,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q30.** *(with specific heat table: Aluminum $0.92$, Silver $0.25$, Iron $0.42$, Lead $0.13$, Branch $0.38\ \text{J g}^{-1}\text{K}^{-1}$) * A sample of $10\ \text{g}$ of each metal is heated to provide $100\ \text{J}$. What metal will have the greatest temperature increase? (a) Aluminium; (b) Branch; (c) Lead; (d) Iron; (e) Silver.
+**Q30.** *(with table of specific heats: Aluminum $0.92$, Silver $0.25$, Iron $0.42$, Lead $0.13$, Copper $0.38\ \text{J g}^{-1}\text{K}^{-1}$)* A sample of $10\ \text{g}$ of each metal is heated by supplying $100\ \text{J}$. In which metal will the greatest temperature increase be observed? A) Aluminum; B) Copper; C) Lead; D) Iron; E) Silver.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -869,15 +725,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q31.** An object of mass $1\ \text{kg}$ is falling freely into the atmosphere at constant speed. The air resistance on the object is about... A) $0.1\ \text{N}$; B) $1\ \text{N}$; C) $10\ \text{N}$; D) $100\ \text{N}$; E) $1000\ \text{N}$.
+**Q31.** An object of mass $1\ \text{kg}$ is in free fall in the atmosphere at constant velocity. The air resistance force on the object is approximately... A) $0.1\ \text{N}$; B) $1\ \text{N}$; C) $10\ \text{N}$; D) $100\ \text{N}$; E) $1000\ \text{N}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/ottica,object/slit,object/screen"></span>
@@ -898,15 +748,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q32.** Double crack ($P$ and $Q$) in front of a screen, illuminated by a single source $S$ crack $R$ with $\lambda=6.0\times10^{-7}\ \text{m}$. In $O$ there is the central fringe (no path difference); in $X$ the third dark fringe is observed. The difference $PX-QX$ is... A) $0.9\times10^{-6}\ \text{m}$; B) $1.2\times10^{-6}$; C) $1.5\times10^{-6}$; D) $1.8\times10^{-6}$; E) $2.1\times10^{-6}\ \text{m}$.
+**Q32.** Double slit ($P$ and $Q$) in front of a screen, illuminated through a slit $R$ by a monochromatic source $S$ with $\lambda=6.0\times10^{-7}\ \text{m}$. At $O$ there is the central fringe (zero path difference); at $X$ the third dark fringe is observed. The difference $PX-QX$ is... A) $0.9\times10^{-6}\ \text{m}$; B) $1.2\times10^{-6}$; C) $1.5\times10^{-6}$; D) $1.8\times10^{-6}$; E) $2.1\times10^{-6}\ \text{m}$.
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q33" data-atom="q33" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string"></span>
@@ -940,28 +784,22 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q33.** Two pulses propagate in opposite directions on the same string ($A$ to the right, crest; $B$ to the left, belly); after a second the maximum displacement points $A$ and $B$ are in $P$. Which figure best represents the shape of the rope after $2$ seconds? *[Five figures AE; correct: the two pulses have crossed and switched places, $A$ on the right and $B$ on the left.]*
+**Q33.** Two pulses propagate in opposite directions on the same rope ($A$ to the right, crest; $B$ to the left, trough); after one second the points of maximum displacement $A$ and $B$ are located at $P$. Which figure best represents the shape of the rope after $2$ seconds? *[Five figures A–E; correct: the two pulses have passed through each other and swapped places, $A$ on the right and $B$ on the left.]*
 
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p2_f1.png]]
-*five graphs P vs T_c options A to E*
+*five graphs P vs T_c options A-E*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p2_f2.png]]
-* overlapping R and N wave charts*
+*graphs of waves R and N superimposed*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p2_f3.png]]
-*five wave graphs resulting in options A-E*
+*five graphs of the resulting wave options A-E*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **D**
 
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
@@ -982,15 +820,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The internal energy variation of a gas is $\Delta U=Q-W$, with $Q$ energy provided for heating and $W$ gas work. What statement is correct for a perfect gas? 1  $\Delta U=-W$ if the gas expands adiabatically; 2  $\Delta U=Q$ if heated at a constant volume; 3  $\Delta U=0$ if it expands at a constant temperature. (a) They are all correct; (b) only 1 and 2; (c) only 2 and 3; (d) only 1; (e) only 3.
+**Q34.** The change in internal energy of a gas is $\Delta U=Q-W$, with $Q$ energy supplied by heating and $W$ work done by the gas. Which statement is correct for a perfect gas? 1 — $\Delta U=-W$ if the gas expands adiabatically; 2 — $\Delta U=Q$ if it is heated at constant volume; 3 — $\Delta U=0$ if it expands at constant temperature. A) They are all correct; B) only 1 and 2; C) only 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **A**
 
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/battery"></span>
@@ -1100,104 +932,98 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit the internal battery strength is negligible; $R_1$ in series with $R_2$, and this group in parallel with $R_3$ (both variables). The power dissipated in $R_1$... (a) increases if $R_2$ increases; (b) increases if $R_3$ increases; (c) increases if $R_2$ decreases; (d) increases if $R_3$ decreases; (e) is independent of $R_2$.
+**Q35.** In the circuit the internal resistance of the battery is negligible; $R_1$ in series with $R_2$, and this group in parallel with $R_3$ (both variable). The power dissipated in $R_1$... A) increases if $R_2$ increases; B) increases if $R_3$ increases; C) increases if $R_2$ decreases; D) increases if $R_3$ decreases; E) is independent of $R_2$.
 
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p6_f10.png]]
-*object and scale convex lens*
+*convex lens with object and scale*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p6_f11.png]]
-*spherical loads S1 S2 S at the triangle vertices*
+*charged spheres S1 S2 S at the vertices of a triangle*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p6_f12.png]]
-*five force F diagrams on the S sphere *
+*five force diagrams F on sphere S*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p6_f13.png]]
-*R ring suspended by rope between P and Q*
+*ring R suspended from a rope between P and Q*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p7_f14.png]]
-*three parallel metal plates L M N *
+*three parallel metal plates L M N*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p7_f15.png]]
-*five electric field graphs E vs x *
+*five graphs of electric field E vs x*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p7_f16.png]]
-The following shall be added to the list of aircraft in the 'R' radius:
+*airplane on a circular trajectory of radius R*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p7_f17.png]]
-* section wall container insulation R and S*
+*wall section of insulating container R and S*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p8_f18.png]]
-The following shall be added to the list of the following:
+*parabolic trajectory of a ball at points X Y Z*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p8_f19.png]]
-*A1 A2 A3 ampere circuit *
+*circuit with ammeters A1 A2 A3*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p8_f20.png]]
-*two X Y dynamometers connected by springs*
+*two dynamometers X Y connected by springs*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p9_f21.png]]
-*string pulse with instant P point*
+*pulse on a rope with point P at an instant*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p9_f22.png]]
-*five displacement graphs P vs time*
+*five graphs of displacement P vs time*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p9_f23.png]]
-*light refraction in three parallel means*
+*refraction of light in three parallel media*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p10_f24.png]]
-The following conditions shall apply:
+*RC circuit with switch S*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p11_f25.png]]
-*double split P Q and X screen *
+*double slit P Q and screen X*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p11_f26.png]]
-*two pulses A and B on a P-point rope *
+*two pulses A and B on a rope at point P*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p11_f27.png]]
-*five string shapes after 2 seconds A-E*
+*five rope shapes after 2 seconds A-E*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p12_f28.png]]
-* battery circuit and three resistors*
+*circuit with battery and three resistors*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p12_f29.png]]
-*two sloping planes with masses of m and 2m*
+*two inclined planes with masses m and 2m*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p13_f30.png]]
-The following table shows the speed of the vehicle:
+*graph of velocity v vs time t*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p13_f31.png]]
-*five circular stone patterns *
+*five diagrams of a stone in circular rotation*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica,object/inclined-plane,object/block"></span>
@@ -1218,15 +1044,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q36.** Two objects of mass $m$ and $2m$, initially stationary, slide along two inclined planes of different inclination starting from the same height $h_0$; negligible friction. Which statement is NOT correct? (a) In descent one object loses twice the potential energy of the other; (b) both have the same velocity at the bottom; (c) both take the same time to reach the bottom; (d) the acceleration of the object on the right plane is greater than that on the left plane; (e) the kinetic energy of the two objects at the bottom is different.
+**Q36.** Two objects of mass $m$ and $2m$, initially at rest, slide along two inclined planes with different inclinations starting from the same height $h_0$; negligible friction. Which statement is NOT correct? A) During the descent one object loses twice the potential energy of the other; B) both have the same speed at the bottom; C) both take the same time to reach the bottom; D) the acceleration of the object on the right plane is greater than that on the left plane; E) the kinetic energy of the two objects at the bottom is different.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q37" data-atom="q37" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/planet,object/pendulum,object/spring"></span>
@@ -1247,15 +1067,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-If the Earth's radius were to decrease and its mass remained constant, a surface experimenter would observe that... (a) all pendulum clocks would slow down; (b) the weight of an object measured with a spring balance would decrease; (c) the period of oscillation of an object suspended at a spring would remain unchanged; (d) the period of rotation of the Moon around the Earth would decrease; (e) the value of the gravitational constant $G$ would increase.
+**Q37.** If the Earth's radius were to decrease and its mass remain constant, an experimenter on the surface would observe that... A) all pendulum clocks would slow down; B) the weight of an object measured with a spring scale would decrease; C) the oscillation period of an object suspended from a spring would remain unchanged; D) the period of the Moon's rotation around the Earth would decrease; E) the value of the gravitational constant $G$ would increase.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Pendulum (object)|Pendulum]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **C**
 
 
 <span class="atom-split" id="q38" data-atom="q38" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/satellite"></span>
@@ -1276,15 +1090,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q38.** Which formula best represents the relationship between the $y$ period of a satellite in circular orbit and the radius $R$ of the orbit ($x=R$) if the constant $b$ can be zero? A) $y=ax+b$; B) $y^2=ax^3+b$; C) $y=ax^2+b$; D) $y^{-1}=ax+b$; E) $y^{-1}=ax^2+b$.
+**Q38.** Which formula best represents the relationship between the period $y$ of a satellite in circular orbit and the radius $R$ of the orbit ($x=R$), if the constant $b$ can be zero? A) $y=ax+b$; B) $y^2=ax^3+b$; C) $y=ax^2+b$; D) $y^{-1}=ax+b$; E) $y^{-1}=ax^2+b$.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
-
+**Answer:** **B**
 
 
 <span class="atom-split" id="q39" data-atom="q39" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1347,24 +1155,21 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-A stone, attached to a spade, is turned vertically; in the position indicated the spade breaks and the stone flies away. Which drawing best outlines the initial section of the bike? *[Five AE patterns; the correct one shows a tangent path to the circumference at the break point.]*
+**Q40.** A stone, attached to a string, is swung in a vertical plane; in the position shown the string breaks and the stone flies away. Which drawing best schematizes the initial part of the motion? *[Five diagrams A–E; the correct one shows a trajectory tangent to the circle at the point of breaking.]*
 
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p3_f4.png]]
-*graph of falling spherical forces*
+*force diagram of a sphere falling*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p3_f5.png]]
-The following conditions shall apply:
+*mass-spring oscillator on a plane*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1lv98 (2 files merged)/1lv98 (2 files merged)_p3_f6.png]]
-The following table shows the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the energy of the environment.
+*five graphs of energy T vs position x*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
+
+

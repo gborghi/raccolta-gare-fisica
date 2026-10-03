@@ -138,126 +138,40 @@ m
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 1
 {
-Balance of payments
-He laughs:
+Equilibria:
 :
 :
 100
-The Commission
-ti
-Question No
-n.
+Points
+Question no.
 1.
-In
-Absence
-di
-the friction,
-le
-Forces
-Other
-al
-The Commission
- o
-di
-Other
-m
-2
-are:
-il
-p
-That's it.
-(v
-high-winged,
-la
-reaction
-wines of the type described in this chapter
+In the absence of friction, the forces applied to the block of mass m
+2 are:
+the weight (vertical), the constraint reaction
+~
+N from the horizontal plane (vertical), the constraint reaction
 ~
 N
-from
-- It 's not easy .
-The following is the list of the countries:
-such
-(v
-high-winged,
-la
-reaction
-wines of the type described in this chapter
+0 from the block of mass m
+1 (oblique)
+and the force
+~
+F (horizontal).
+The forces applied to the block of mass m
+1 are:
+the weight (vertical), the constraint reaction
 ~
 N
-0
-da
-Part
-of the
-The Commission
- o
-di
-Other
-m
-1
-(Officials)
-e
-la
-- What ?
-~
-F
-(horizon)
-The Commission has not yet taken a decision.
-Le
-Forces
-Other
-al
-The Commission
- o
-di
-Other
-m
-1
-are:
-il
-p
-That's it.
-(v
-high-winged,
-la
-reaction
-wines of the type described in this chapter
-~
-N
-00
-from
-- It 's not easy .
-v
-High-winged
-(horizon)
-the following:
-la
-reaction
-wines of the type described in this chapter
+00 from the vertical plane (horizontal), the constraint reaction
  ~
 N
-0
-da
-Part
-of the
-The Commission
- o
-di
-Other
-m
-2
-(Officials are deleted)
+0 from the block of mass m
+2 (oblique).
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2007 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/rigid-body-statics,argomento/meccanica,object/block"></span>
@@ -403,140 +317,58 @@ N
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-The Balance
-le
-Forces
-su
-The Commission shall adopt a decision on the
-The Commission
- o
-It must be
-The Commission
-a
-v
-The Commission
-Resultan
-te
-n
-I'm going to see you.
-In
-The Commission shall adopt implementing acts.
-Other
-ti,
-taking
-the axis
-x
-The following is the list of the countries:
-such
-da
-Left
-a
-Right
-e
-the axis
-y
-v
-High-winged
-from
-Low
-v
-Other
-The high,
-e
-Indians
- on
+At equilibrium the forces on each block must have zero resultant.
+In components, taking the x-axis horizontal from left to right and the y-axis vertical from bottom to top, and denoting by
 F
-0
-l'in
-Tensile
-a
-di
+0 the magnitude of
 ~
-F
-in
-Other articles of heading No.
-di
-the balance,
-si
-ha:
+F under equilibrium conditions, we have:
 F
 0
  N
+0 sen
+
+=
 0
-Other
+N m
+2 g
+ N
+0 cos
 
 =
 0
 N
- m
-2
-g
- N
-0
- os
-
-=
-0
-N
-0
-Other
+0 sen
 
  N
 00
 =
 0
 N
-0
- os
+0 cos
 
  m
-1
-g
+1 g
 =
 0
-From her .
-Before
-e
-la
-Fourth
-di
-These
-the equations,
- on
-He does them.
-replacements,
-si
-ha
+From the first and the fourth of these equations, with easy substitutions, we get
 N
 0
-=
-m
-1
-g
- os
+= m
+1 g cos
 
 F
 0
-=
-m
-1
-g
-Other
+= m
+1 g tan
 
 =
 28:3
 N
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2007 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
@@ -823,281 +655,136 @@ s
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-With
-One of them.
-- What ?
-the major,
-equal
-a
+With a greater force, equal to
 2F
 0
-,
-Not
-si
-ha
-pi
-
-u
-the balance;
-il
-orp
-o
-di
-Other
-m
-2
-si
-m
-uo
-v
-e
- on
-Other, of a kind used for the manufacture of goods
-a
-2
-The following is the list of the countries:
-such
-e
-il
-orp
-o
-di
-Other
-m
-1
-si
-m
-uo
-v
-e
- on
-Other, of a kind used for the manufacture of goods
-a
-1
-v
-high wings.
-Le
-Equations
-for Eden
-ti,
-p
-Other
-to,
-si
-mo
-di
-- What?
- os
+, there is no longer equilibrium;
+the body of mass m
+2 moves with acceleration a
+2 horizontally and the body of mass m
+1 moves with acceleration a
+1 vertically.
+The previous equations, therefore, are modified as
 
 :
 2F
 0
  N
-0
-Other
+0 sen
 
-=
-m
+= m
+2 a
 2
-a
-2
-N
- m
-2
-g
+N m
+2 g
  N
-0
- os
+0 cos
 
 =
 0
 N
-0
-Other
+0 sen
 
  N
 00
 =
 0
 N
-0
- os
+0 cos
 
  m
+1 g
+= m
+1 a
 1
-g
-=
-m
+Pag.
 1
-a
-1
-P
-ag.
-1
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Race:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2007
-Besides,
-p
-er
-The Commission shall adopt the following measures:
-Other geometric
-he,
-between
-The Commission
-sp
-Other articles of heading No.
-ti,
-e
-So, what do you mean?
-le
-with a height of
-of the
-two
-The Commission
-
-hi
-v
-Other
-la
-Report by the Commission
-a
+Moreover, from geometric considerations, between the displacements, and therefore the accelerations, of the two blocks the relation holds a
 1
 :
 a
 2
-=
-Other
+= sen
 
-:
- os
+: cos
 
-,
- io
-
-e
-a
+, i.e. a
 2
-=
-a
+= a
 1
-=
-Other
+= tan
 
 .
-Substituting
-In the
-Before
-e
-Fourth
-Equation
-Here .
-above,
-si
-ri a
-v
-a:
+Substituting into the first and fourth equation above, one obtains:
 N
 0
 =
 2F
-0
-Other
+0 sen
 
  m
-2
-a
-1
-Other
+2 a
+1 sen
 
-Other
+tan
 
 =
 2m
-1
-g
- os
+1 g cos
 
  m
-2
-a
-1
-Other
+2 a
+1 sen
 
-Other
+tan
 
 a
 1
 =
 N
-0
- os
+0 cos
 
 m
-1
- g
-=
-g
- m
-2
-a
-1
-m
-1
-Other
+1 g
+= g m
+2 a
+1 m
+1 tan
 2
 
 a
 1
-=
-g
-m
-1
-Other
+= g m
+1 tan
 2
 
 m
-1
-Other
+1 tan
 2
 
-+
-m
++ m
 2
 =
-3:50
-m
-s
+3:50 m s
  2
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2007 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/block"></span>
@@ -1255,152 +942,60 @@ a ettabile.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 4.
-Il
-The Commission
- o
-di
-Other
-m
+The block of mass m
+2 has an acceleration a
 2
-ha
-a heating
-a
-2
-=
-a
+= a
 1
-=
-Other
+= tan
 
-e
-p
-Other
-to,
-a
-to leave
-from the Istan
-te
-t
+and therefore, starting from the instant t
 =
-0
-in
- ui
-la
-- What ?
+0 at which the force
 ~
-F
-doubled
-l'in
-Tensile
-a,
-ha
-One of them.
-v
-I'm going to
- it
-a
-v
-=
-a
-2
-t.
-La
-p
-the authorisation
-da
-the application is,
-p
-Other
-to,
+F doubles its magnitude, has a speed v
+= a
+2 t.
+The power to be applied, therefore,
 
-e
+is
 W
 =
 2F
-0
-v
+0 v
 =
 2m
-1
-g
-a
-1
-t.
-It
-Res and
-Linearmen
-te
-In the
-Temp
-o
- on
-un
- o
-It is
-te
+1 g a
+1 t.
+It increases linearly with time with a coefficient
 2m
-1
-g
-a
+1 g a
 1
 =
 344
-W
-s
+W s
  1
 .
 Note:
-Substituting
-ad
-a
-1
-il
-v
-Other
-gi
-a
-rounded,
- os
+By substituting into a
+1 the already rounded value, as
 
-human beings
-
-e
-State of the Union
-RIP
-Other, not elsewhere specified or included
-above
-al
-the following points are added:
-to
-3,
-si
-Other
-e
+was reported above at point
+3, one would obtain
 W
 =t
 =
 343
-W
-s
+W s
  1
 
-he
+which
 
-e
-The following is a list of the
-te
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+is equally acceptable.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 2007 Nazionale Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/rigid-body-statics,argomento/meccanica,object/block"></span>
@@ -1867,218 +1462,77 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 5.
-In
-the presence
-di
-Forces
-di
-the friction,
+In the presence of friction forces,
+~
+A and
 ~
 A
-e
-~
-A
-00
-(resp.
-Other
-I will not let you go.
-te),
-on the
-Supplementary
-er
- i
-The following is the list of the countries:
-such
-e
-v
-High-winged
+00 (respectively), on the horizontal and vertical surfaces
 
-he
-si
-add
-The Commission
-Other
-Forces
-gi
-a
-and unseen,
-la
-- What ?
-F
-Minimum
-p
-er
-to obtain
-The balance
-It must be
-Minor
-di
+which are added to the other forces already considered, the minimum force
+F to obtain equilibrium must be less than
 F
 0
-,
-p
-er
- ui
-the friction
-The following is the list of the countries:
-such
-It must be
-The following is the list of the countries of the European Union:
-I'm going to
-In the
-v
-Other
-p
-Other
-o
-of the
-x
-p
-er
-Other, of a kind used for the manufacture of goods
-il
-Motorcycles
-of the
-The Commission
- o
-di
-Other
-m
-2
-v
-Other
-left,
-e
-That one.
-v
-High-winged
-v
-Other
-The high
-p
-er
-Other, of a kind used for the manufacture of goods
-il
-Motorcycles
-of the
-The Commission
- o
-di
-Other
-m
-1
-v
-Other
-il
-low,
-Motives
+, so the horizontal friction must be directed in the positive x direction to oppose the motion of the block of mass m
+2 toward the left, and the vertical one upward to oppose the motion of the block of mass m
+1 downward, motions
 
-he
-si
-a
-The Commission shall adopt implementing acts.
-I was
-in
-Absence
-di
+that would occur in the absence of
 ~
-F
-e
-di
-I'm not going to.
-So, what?
-le
-Equations
-for Eden
-ti
-si
-mo
-di
-- What?
- os
+F and of friction.
+Therefore the preceding equations are modified as
 
 :
 F
 +
 A
  N
-0
-Other
+0 sen
 
 =
 0
-N
- m
-2
-g
+N m
+2 g
  N
-0
- os
+0 cos
 
 =
 0
 N
-0
-Other
+0 sen
 
  N
 00
 =
 0
 N
-0
- os
+0 cos
 
 +
 A
-00
- m
-1
-g
+00 m
+1 g
 =
 0
-I
-v
-Other
-Maximum
-p
-Other, of a kind used for the manufacture of goods
-di
+The maximum possible values of
+A and
 A
-e
-A
-00
-I am
-Responsibility
-Other
-I will not let you go.
-te
+00 are respectively
 A
 =
-N
-e
+N and
 A
 00
 =
 N
 00
 .
-Indians
-I 'm going to go .
-i
-They
-v
-Other
-e
-Other
- on
+We denote their effective values by
 A
 =
-N
-e
+N and
 A
 00
 =
@@ -2087,241 +1541,140 @@ A
 N
 00
 .
-This one
-v
-- I'm not going to.
-Serving
-The Commission
-All of them
-e
-four
-le
-Equations
-for Eden
-ti;
-si
-ri a
-v
-a
+This time all four preceding equations are needed;
+one obtains
 N
 00
 =
 N
-0
-Other
+0 sen
 
 N
-0
- os
+0 cos
 
 +
 
 00
 N
-0
-Other
+0 sen
 
  m
-1
-g
+1 g
 =
 0
 )
 N
 0
-=
-m
-1
-g
- os
+= m
+1 g cos
 
 +
 
-00
-Other
+00 sen
 
 N
 =
 
 m
-1
- os
+1 cos
 
- os
-
-+
-
-00
-Other
+ cos
 
 +
-m
+
+00 sen
+
++ m
 2
 
 g
 F
-=
-m
-1
-Other
+= m
+1 sen
 
  (m
 1
-+
-m
++ m
 2
 )
- os
+ cos
 
-00
-m
-2
-Other
+00 m
+2 sen
 
- os
+ cos
 
 +
 
-00
-Other
+00 sen
 
 g
-Il
-v
-Other
-di
-F
-of res and
-in
-mo
-do
-The following is a list of the categories of products used:
-al
-Other
-It's either
-di
+The value of
+F decreases monotonically as either
 
-he
-di
+or
 
 00
-,
-p
-er
- ui
-p
-er
-Minimize the
-F
-(
-n
-h
+increases, so to minimize
+F (which
 
-e
-It
+is positive, naturally)
+one must take the maximum possible values of both
 
-e
-p
-Other
-o,
-Natural products
-te)
-o
-Horrors
-to hire
-i
-v
-Other
-Maximum
-p
-Other, of a kind used for the manufacture of goods
-It's either
-di
-
-he
-di
+and
 
 00
 .
-The last one.
-form
-The Commission shall adopt a decision on the
-It becomes
-p
-Other
-to:
-F
-Minimum number of days
-=
-m
-1
-Other
+The last formula therefore becomes:
+F min
+= m
+1 sen
 
  (m
 1
-+
-m
++ m
 2
 )
- os
+ cos
 
-2
-m
-2
-Other
+2 m
+2 sen
 
- os
+ cos
 
 +
 
-Other
+sen
 
 g
 =
 10:7
 N
-P
-ag.
+Page
 2
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Physics
+Olympiad
+National
+Competition:
+SOLUTION of the
+Theoretical
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2007
-The problem
-n.
+PROBLEM no.
 2
 {
-Oh, yeah.
-The Commission
-I'm not going to lie.
+Watch out for inductances!
 50
-The Commission
-ti
+Points
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OII 2007 Nazionale Teorica — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/inductor,object/resistor,object/switch,object/battery"></span>
@@ -2557,36 +1910,11 @@ k
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 1.
 At the
 
-Other, of a kind used for the manufacture of goods
-of the in
-The terror
-la
-Other articles
-te
-p
-er
-the inductance
-si
-Man
-It is
-Other
-The Commission shall adopt the following measures:
-te
-n
-The following is the list of the products:
-e
-The equation
-of the
-T-shirt
-active
-a
-d
-a
+opening of the switch, the current through the inductance remains instantaneously zero and the equation of the active loop gives
 3R
 I
 0
@@ -2595,61 +1923,30 @@ E
 )
 E
 =
-3
-(2:5
-k
+3 (2:5 k
 
 )
-(5
-mA)
+(5 mA)
 =
 37:5
 V
-A
-the scheme
-in
-v
-e e
-la
-f.e.m.
-ai
-Bees
-of induction
+In steady state the f.e.m.
+across the inductance
 
-e
-n
-the following:
-So, what?
-la
-resistance
-view
-from
-Manufacture of electrical equipment
+is zero, therefore the resistance seen by the generator
 
-e
+is
 R
 ?
 =
 R
-+
-(R
-2
-k
++ (R
+2 k
 R
 1
 )
 ;
-p
-er
- ui
-The equation
-of the
-I have forgotten
-Equivalent to
-Other
-te
-d
-a
+hence the equation of the equivalent circuit gives
 R
 ?
 I
@@ -2698,34 +1995,23 @@ I
 =
 E
 
-he,
-by replacing
-the expression
-for Eden
-te
-di
+which, substituting the previous expression for
 E
-,
-si
-Reducing and
-a
-(2R
+, reduces to (2R
 +
 3R
 1
 )I
 1
 =
-3
-(2R
+3 (2R
 +
 R
 1
 )I
 0
 )
-3
-(I
+3 (I
 1
  I
 0
@@ -2733,54 +2019,40 @@ R
 R
 1
 =
-2
-(3I
+2 (3I
 0
  I
 1
 )
-R
-da
- ui
+R whence
 R
 1
 =
-2
-(3I
+2 (3I
 0
  I
 1
 )
-3
-(I
+3 (I
 1
  I
 0
 )
 R
 =
-2
-(15
+2 (15
  9)
 mA
-3
-(9
+3 (9
  5)
 mA
 R
 =
 R
 =
-2:5
-k
+2:5 k
 
-**Topic:** [[Circuits]], [[Electromagnetic Induction]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2007 Nazionale Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/inductor,object/resistor,object/switch"></span>
@@ -3032,16 +2304,11 @@ mH
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-Energy
-Magnetic
-Stored
-In the
-I have forgotten
+The magnetic energy stored in the circuit
 
-e
+is
 U
 L
 =
@@ -3051,88 +2318,34 @@ L
 LI
 2
 L
-,
-being
+, where
 I
-L
-la
-Other articles
-te
-In the
-Branch
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
-A
-the scheme
-la
-d.d.p.
-ai
-Bees
-of induction
+L is the current in the branch of the inductance.
+In steady state the potential difference
+across the inductance
 
-e
-n
-The following is the list of the products:
-e
-So, what?
-That 's enough .
-to be considered
-il
-Other
-of the
-Resistance
+is zero and therefore it is enough to consider the parallel of the resistances
 R
 1
 =
-R
-ed
+R and
 R
 2
 =
-2R
-:
-ne
-follows
-Immediate
-te
+2R:
+it follows immediately
 
-he
-la
-Other articles
-te
-in
+that the current in
 R
 1
 
-e
-double
-of the other
-e
-equal
-a
-2/3
-of the
-Other articles
-te
-The total.
-Pi
+is double the other and equal to
+2/3 of the total current.
+More
 
-u
-Formal
-te
-such
-Other articles
-te
+formally, this current
 
-e
-determined
-from
-Equations
-(debt)
-of the
-Scorer
-di
-Other articles
-te):
+is determined by the equations (known as the current divider):
 (
 I
 L
@@ -3165,53 +2378,18 @@ I
 I
 1
 =
-6
-mA
-App
-Other
-Other
-high
-l'in
-The terror
-energy
-Magnetic
-He 's coming .
-Dispersed
-from
-Resistance
+6 mA
+As soon as the switch is reopened, the magnetic energy is dissipated by the resistances
 R
-1
-ed
+1 and
 R
 2
-,
-in
-Parts
-Prop
-Other, of a kind used for the manufacture of goods
-ai
-v
-Other
-of the
-two
-resistance,
-given
+, in parts proportional to the values of the two resistances, since
 
-he
-la
-Other articles
-te
+the current
 
-e
-la
-itself
-in
-Each
-the following points are added:
-to
-of the
-T-shirt:
-So, what?
+is the same at every point of the loop:
+therefore
 W
 1
 =
@@ -3228,17 +2406,11 @@ R
 I
 2
 .
-In the
-resistance
+In the resistance
 R
-1
-si
-- What?
-So, what do you mean?
-1/3
-energy
-The following is the list of the following:
-So, what?
+1 there is therefore dissipated
+1/3 of the stored energy:
+therefore
 U
 =
 1
@@ -3262,16 +2434,9 @@ I
 2
 L
 =
-6:67
-mH
+6.67 mH
 
-**Topic:** [[Circuits]], [[Electromagnetic Induction]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 2007 Nazionale Teorica — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/inductor,object/resistor,object/switch"></span>
@@ -3499,37 +2664,16 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-La
-The following conditions shall apply:
-ai
-Bees
-of induction,
+The voltage across the inductance,
 V
 L
-,
-App
-Other
-si
-It opens.
-il
-I will forget,
-When
-la
-Other articles
-te
+, appears when the circuit opens, when the current
 
 e
 I
-L
-si
-determines the
-from the equation
-di
-T-shirt
-(2R
+L is determined from the mesh equation (2R
 +
 R
 1
@@ -3547,53 +2691,37 @@ L
 I
 L
 =
-3
-(2:5
-k
+3 (2:5 k
 
 )
-(6
-mA)
+(6 mA)
 =
 45
 V
 
-he
+which
 
-e
-major
-of the
-f.e.m.
-of the
-The generator.
-The Commission shall adopt implementing acts.
-Action:
-In the
-Other
-in
-the examination,
- on
+is greater than the e.m.f.
+of the generator.
+Observation:
+In the case under examination, with
 R
 2
 =
 2R
-,
-si
-ha
+, one has
 
-he
+that
 V
 L
-=
-(2R
+= (2R
 +
 R
 1
 )
 I
 L
-=
-(2R
+= (2R
 +
 R
 1
@@ -3609,14 +2737,11 @@ I
 2R
 I
 1
-Men and women
-three
-si
+while it
 
-e
-See also
+has been seen
 
-he
+that
 E
 =
 2R
@@ -3630,34 +2755,20 @@ R
 R
 I
 1
-La
-the condition
-su
+The condition on
 R
-1
-p
-er
- ui
-will be
-a
+1 for which there will be
 V
 L
 >
-E
-to the ap
-Other, of a kind used for the manufacture of goods
-of the
-I have forgotten
+E at the opening of the circuit
 
-e
-Date of the date
-da
+is given by
 V
 L
 E
 =
-2
-(2R
+2 (2R
 +
 R
 1
@@ -3673,48 +2784,30 @@ R
 1
 <
 2R
-P
-ag.
+Pag.
 3
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2007
-The problem
-n.
+PROBLEM no.
 3
 {
-That
-Other
-This summer!
+What a summer!
 100
-The Commission
-ti
+Points
 
-**Topic:** [[Circuits]], [[Electromagnetic Induction]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 2007 Nazionale Teorica — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/conservation-of-energy,argomento/meccanica,object/heat-engine"></span>
@@ -3891,171 +2984,45 @@ P
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 1.
-Il
-
-the outer
-di
-energy
-
-he
-en
-between
-In the apartment
-to,
-below
-Form
-di
-Then,
-p
-er
-Other, of a kind used for the manufacture of goods
-
-e
-given
-da
-
+The energy flow entering the apartment, in the form of heat, by conduction is given by
 in
 =
-K
-(
-T
-e
+K (
+T e
  T
 ).
-Il
-
-the outer
-di
-energy
-
-he
-il
-Other, of a kind used for the manufacture of goods
-Mining
-from the apartment
-to
-
-e
-given
-da
-
+The energy flow that the air conditioner extracts from the apartment is given by
 out
 =
 
 "
-P
-do
-v
-e
+P where
 "
 
-e
-The Commission shall adopt a decision on the
-di
-un
-Other, of a kind used for the manufacture of refrigerators
-Ideal
-( io
-
-e
-di
-un
-Other, of a kind used for the manufacture of refrigerators
-
-he
-use
-il
- i lo
-di
-Carnot .
-From
-Moments
-to
-
-he
-il
-Other, of a kind used for the manufacture of goods
-It works .
-between
-two
-Other
-ti,
-the apartment
-to
-a
-Temp
-Other
-T
-e
-l'am
-All right, all right.
-te
-Other
-a
-Temp
-Other
-T
-e
-,
-The Commission shall adopt a decision on the
-di
-un
-Other, of a kind used for the manufacture of refrigerators
-di
-Other meat offal
-
-he
-It works .
-between
-le
-The same
-Other
-ti
-
-e
-Date of the date
-da
+is the efficiency of an ideal refrigerator (that is, of a refrigerator that uses the Carnot cycle).
+Since the air conditioner operates between two sources, the apartment at temperature
+T and the external environment at temperature
+T e
+, the efficiency of a Carnot refrigerator operating between the same sources is given by
 "
 =
 T
-=(T
-e
+=(T e
  T
 )
-p
-er
- ui,
-Other
-by the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
-la
-Report by the Commission
-of the
-
-the outer
-in
-the United States,
-si
-ha
+therefore, recomposing the relation for the outgoing flow, we have
 
 out
 =
 
 T
-T
-e
+T e
  T
 P
 
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 2007 Nazionale Teorica — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/conservation-of-energy,argomento/meccanica,object/heat-engine"></span>
@@ -4524,127 +3491,49 @@ C.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-When
-si
-sp
-Other
-il
-Other, of a kind used for the manufacture of goods
-Air
+When the air conditioner is turned off
  '
 
-e
-Other
-to
-il
+and only the
 
-the outer
-di
-energy
-from the outside
-v
-Other
-l'in
-Other
-of the apartment
-to.
-Si
-ha
- Q
- t
+flow of energy from the outside towards the inside of the apartment.
+We have
+ Q t
 =
-K
-(
-T
-e
- T
-(t))
-e
+K (
+T e
+ T (t))
+and
  Q
 =
 C
  T
-Ad
-Each
-in
-Other
-The following is the list of the
-di
-Temp
-o
- t,
-si
-ha
-One of them.
-v
-Air conditioning
-di
-Temp
-Other
-Date of the date
-da
+At each time interval t, there is a temperature variation given by
  T
 =
 
-(T
-e
+(T e
  T
 )
- t
-a
-v
-Other
-p
-Other
+ t having set
 
 =
 K
 =C
 :
-With
-This one
-the expression,
-I 'm leaving
-from
-v
-Other
-Initial
-di
-(T
-e
+With this expression, starting from the initial value of (T e
  T
-),
-si
-p
-They are
-in the waves
- T
-e
-T
-Each
-15
-Minimum number of days
-Other
-,
-human beings
-shown
-In the
-following
-te
-tab
-She's the one.
-T
-The Commission
-o
-t
-[min]
-T
-e
- T
-(t)
+), one can calculate
+ T e
+T every
+15 minutes
+, as shown in the following table.
+Time t
+[min℄
+T e
+ T (t)
 [
 Æ
 C℄
@@ -4652,8 +3541,7 @@ C℄
 [
 Æ
 C℄
-T
-(t)
+T (t)
 [
 Æ
 C℄
@@ -4675,29 +3563,15 @@ C℄
 6.1
 1.5
 27.4
-La
-Temp
-Other
-(Approach)
-of the apartment
-to
-after
-o
-an hour
+La temp eratura (approssimata)
+dell'appartamen to dop o un'ora
 
-e
-di
+e di
 27:4
 Æ
 C.
 
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2007 Nazionale Teorica — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/heat-engine"></span>
@@ -5272,140 +4146,75 @@ t
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 5.
-Si
-p
-One
-Now
- t
-=
-t=n
-e
-after
-o
-n
-in remen
-ti
-Temp
-oral,
- io
+Assume now t
+= t=n and after n time intervals, and
 
-e
-al
-Temp
-o
-t
-si
-ha
-F
-(t
-n
+at time t we have
+F (t n
 )
 =
-T
-e
- T
-(t
-n
+T e
+ T (t n
 )
-=
-(T
-e
+= (T e
  T
 0
 )
 
 1
 
-t
-n
+t n
 
 n
-P
-er
-n
+For n
 !
-1
-p
-Other
-x
-=
- n
+1 set x
+= n
 
-t
-si
-ha
+t we have
 
-he
-x
+that x
 !
- 1,
-e
- i
-si
-The following is the list of the
-al
-Limit
-I'm not sure.
-Oil and gas
-Lime
-x! 1
+ 1, and we reduce to the notable limit lim x! 1
 
 1
 +
-1
-x
+1 x
 
 x
-=
-e
+= e
 :
-In fact,
-F
-(t)
+Indeed
+F (t)
 =
-T
-e
- T
-(t)
-=
-Lime
-x! 1
-(T
-e
+T e
+ T (t)
+= lim x! 1 (T e
  T
 0
 )
 
 1
 +
-1
-x
+1 x
 
-t
-x
-=
-(T
-e
+t x
+= (T e
  T
 0
 )
-Lime
-x! 1
+lim x! 1
 
 1
 +
-1
-x
+1 x
 
 x
 
 t
-=
-(T
-e
+= (T e
  T
 0
 )
@@ -5413,13 +4222,7 @@ e
 
 t
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2007 Nazionale Teorica — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/conservation-of-energy,argomento/meccanica,object/heat-engine"></span>
@@ -5517,24 +4320,11 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 6.
-Il
-Temp
-o
-characteristics or
-of the
-for
-It
+The characteristic time of the process
 
-e
-given
-from
-Other
-te
-Temp
-o
+is given by the time constant
 
 =
 1=
@@ -5546,63 +4336,31 @@ C
 3:7
 
 10
-3
-s.
-La
-Temp
-Other
-of the apartment
-to
-after
-o
-an hour
-(o
-vv
-I was
-p
-er
-t
+3 s.
+The temperature of the apartment after one hour (that is, for t
 =
-3600
-s)
-The following is the list of the
-So, what do you mean?
-T
-(t)
+3600 s)
+is therefore
+T (t)
 =
-T
-e
- (T
-e
+T e (T e
  T
 0
 )
-e
- t=
+e t=
 
 =
 26:7
 Æ
 C
-The problem
-n.
+PROBLEM no.
 4
 {
-One of them.
-Measure
-al
-I'm going to fly.
+A measurement on the fly.
 50
-The Commission
-ti
+points
 
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OII 2007 Nazionale Teorica — Problema 15" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/modern-quantum-physics,argomento/meccanica,object/capacitor,object/electron,object/point-charge"></span>
@@ -5732,124 +4490,22 @@ ioni.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 1.
-P
-oi
-h
-
-e
-il
-amp
-o
-electrical or
-
-e
-uniforms,
-la
-- What ?
-
-he
-the following:
-su
-un
-Electron
-(o
-su
-One of them.
-(i) the
-
-e
-Other
-te,
-di
-mo
-Other
-equal
-a
-eE
+Since the electric field is uniform, the force acting on an electron (or on an ion) is constant, with magnitude equal to eE
 ;
-In addition
-il
-Motorcycles
-a
-He 's coming .
-In the
-Direction
-e
-In the
-v
-Other
-of the
-amp
-o.
-In
-un
-the genus or
-Other
-te
-t
+moreover, the motion takes place in the direction and sense of the field.
+At a generic instant t
 <
-t
-e
-The Commission shall adopt a decision on the
-Electron
-a
-vr
-a
-p
-Other
-One of them.
-distance
-v
-e
-t.
-Ne
-follows
+t each electron will have traveled a distance v e t.
+It follows
 
-he
-il
-la
-v
-gold
-made
-su
-un
-single
-the electron,
-in
-function
-of the
-Temp
-o,
-It is:
-L
-e
-=
-eE
-v
-e
-t
-A word
-Other
-v
-Other
-o
-I'm going to go.
-te
-p
-er
-The Commission
-I'm not going to lie.
+that the work done on a single electron, as a function of time, is:
+L e
+= eE v e t
+An analogous expression obviously holds for the ions.
 
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OII 2007 Nazionale Teorica — Problema 16" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/modern-quantum-physics,argomento/meccanica,object/capacitor,object/electron,object/point-charge"></span>
@@ -6070,49 +4726,10 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-P
-oi
-h
-
-e
-il
-The following is the list of the countries of the European Union:
-Other, of a kind used for the manufacture of goods
-pu
-o
-to be
-Unseeded
-human beings
-un
-Other, of a kind used for the manufacture of goods
-the insulated
-energy
-o
-Other articles
-te
-p
-er
-- to make
-migration
-Electrons
-e
-Other
-He 's coming .
-the following:
-Other
-da
-That one.
-Stored
-In the
-The wave-switching device.
-P
-Other
-So, what?
-The following is the list of the
-were:
+Since the detector can be considered as an isolated capacitor, the energy or current needed to make electrons and ions migrate is drawn from that stored in the capacitor.
+We can therefore write:
 1
 2
 C
@@ -6120,17 +4737,9 @@ V
 2
 0
 =
-N
-eE
-v
-i
-t
+N eE v i t
 +
-N
-eE
-v
-e
-t
+N eE v e t
 +
 1
 2
@@ -6138,12 +4747,10 @@ C
 V
 2
 
-Da
-Here it is:
+From here:
 1
 2
-C
-(V
+C (V
 2
 0
  V
@@ -6151,19 +4758,13 @@ C
 
 )
 =
-N
-eE
-(v
-i
-+
-v
-e
+N eE (v i
++ v e
 )
 t
 1
 2
-C
-(V
+C (V
 0
 +
 V
@@ -6176,109 +4777,58 @@ V
 =
 1
 2
-C
-(V
+C (V
 0
 +
 V
 
 )
-V
-(t)
+V (t)
 =
-N
-e
+N e
 V
 
-d
-(v
-i
-+
-v
-e
+d (v i
++ v e
 )
 t
-P
-oi
-h
+Since the signal
+V (t)
 
-e
-il
-Signal
-V
-(t)
-
-e
-Very much
-Minor
-di
+is much smaller than
 V
 0
-,
-p
-Other
-p
-The horror,
- on
-Good .
-the approximation,
+, we can set, with good approximation,
 V
 
 =
 V
-0
-in the expression
-for Eden
-te,
-by obtaining
-in
-ne:
-V
-(t)
+0 in the previous expression, finally obtaining:
+V (t)
 =
-N
-e
-C
-d
-(v
-i
-+
-v
-e
+N e
+C d (v i
++ v e
 )
 t
-P
-ag.
+Pag.
 5
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2007
 
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 2007 Nazionale Teorica — Problema 17" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/modern-quantum-physics,argomento/meccanica,object/capacitor,object/electron,object/point-charge"></span>
@@ -6352,68 +4902,21 @@ x)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Problem no.
 3.
-In the Istan
-te
-t
-e
-=
-x=v
-e
-The Commission
-Electrons
-They reach
-the anus
-do,
-e
-da
-That one.
-Moments
-to
-in
-p
-oi
-Not
-Other, of a kind used for the manufacture of goods
-The Commission
-pi
+At the instant t
+= x=v the electrons reach the anode, and from that moment on they no longer absorb any
 
-u
 energy.
-Il
-Signal
-V
-Res and
-I'm going to be here.
-ma
- on
-The following table shows the results of the survey:
-Other
-te
-The Commission
-Other:
-V
-(t)
+The signal
+V remains as before, but now only the ions contribute:
+V (t)
 =
-N
-e
-C
-d
-(v
-i
-t
-+
-x)
+N e
+C d (v i t
++ x)
 
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="OII 2007 Nazionale Teorica — Problema 18" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/modern-quantum-physics,argomento/meccanica,object/capacitor,object/electron,object/point-charge"></span>
@@ -6572,153 +5075,39 @@ e=C
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 4.
-In the Republic of Kazakhstan
-te
-t
-i
+At the instant t i
+= (d x)=v i the ions reach the plate.
+At that point the signal becomes:
+V (t)
 =
-(d
- x)=v
-i
-The Commission
-Other
-They reach
-il
-the act
-do.
-A
-That one.
-the following points are added:
-to
-il
-Signal
-Div
-en
-ta:
-V
-(t)
+N e
+C d (d x
++ x)
 =
-N
-e
+N e
 C
-d
-(d
- x
-+
-x)
-=
-N
-e
-C
-How
-si
-pu
-o
-v
-the following:
-il
-v
-Other
+As can be seen, the value
 
-The Commission shall adopt a decision on the
-Dip
-Other
-Other
-te
-from
-- What?
-a
-of the
-Other, of a kind used for the manufacture of goods
-e
-from
-n
-Other
-di
-Other
-Electrons
-for
-The Commission shall adopt implementing acts.
-from
-Passage
-of the
-She's gone.
-Ionized
-te.
-Si
-Notes
+signal depends only on the capacitance of the capacitor and on the number of electron{ion pairs produced by the passage of the ionizing particle.
+Note
 
-he
-a
-This one.
-result
-si
-pu
-o
-I 'm coming
-are
-Very much
-It's a pain.
-te
-See also
-I 'm going
+that this result can be arrived at very easily by observing
 
-he,
-after
-o
+that, after
 
-he
-All of them
-la
-the following points are inserted:
-The Commission
-'The first of these is the
-from
-ionization,
+all the charge
+\produced" by the ionization,
 
-e
-It was
-The Commission shall adopt the following measures:
-la
-the following points are inserted:
-on the
-Other articles of iron or steel
-Minimum number of days
-Uis and
-di
-One of them.
-When
-Title
-a
-N
-e,
-e
-il
-p
-The following information shall be provided:
+has been collected, the charge on the plates decreases by an amount
+N e, and the potential
 V
-0
-Minimum number of days
-Uis and
-di
-One of them.
-When
-Title
-a
-N
-e=C
+0 decreases by an amount
+N e=C
 .
 
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="OII 2007 Nazionale Teorica — Problema 19" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/modern-quantum-physics,argomento/meccanica,object/capacitor,object/electron,object/point-charge"></span>
@@ -6787,59 +5176,27 @@ ag.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 5.
-Il
-The following is the list of the
- o
-The quality
-o
-of the
-Signal
-The Commission shall adopt a decision on the
-from
-The following is the list of the countries of the European Union:
-Other, of a kind used for the manufacture of goods
-The following is the list of the
-Then:
-Other materials
-for
-The Commission
-from
-Group
-o
-Olympic Games
-Project
-Project
-Olympic Games
-The Secretariat
-The Olympics
-Italian
-of the
-The following is a list of
-p
-Results
-Li eo
-The Commission
- o
+The qualitative graph of the signal detected by the detector is then:
+Material produced by the group
+OLYMPIADS
+PROJECT
+PROJECT
+OLYMPIADS
+Secretariat
+Italian Olympiads
+of Physics at
+Scientific High School
 \U.
-Mo
-'R'
-The Commission
-The Master
-The fax:
-041.584.1272
-E-mail:
-Free olive oil
-t
-P
-ag.
+Morin"
+VENICE
+MESTRE fax:
+041.584.1272 e-mail:
+olifis libero.it
+Pag.
 6
 
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
+
+

@@ -80,64 +80,36 @@ di lunghezza 50 cm, carta per asciugarsi le mani.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The 2003 Olympics in Physics
-Test: time available 31⁄2 h, evaluation 200 points maximum
-The following is a list of the types of water in the water:
+PHYSICS OLYMPIAD 2003
+Experimental test: time available 3 1/2 h, maximum score 200 points
+FLOATING OF A TEST TUBE IMMERSED IN WATER
 
-It studies the system consisting of a vessel full of water and a test tube, glass or glass
-metal, covered with a number of steel spheres, answering the following questions:
-- Get back to me. Always keep experimental errors in mind, even in your answers.
+Study the system consisting of a container full of water and a test tube, made of glass or metal, weighted with a certain number of steel balls, answering the questions below. Always keep in mind experimental errors, even in your answers.
 
-(A1) Determine the minimum number of no spheres to be inserted in the sample to
-It floats vertically. If the number of spheres n is less than no (but not too much!) the
-Floating test tube, stationary, in an oblique position: illustrates why this is the case
-You're also using a graphical schematic.
+(A1) Determine the minimum number no of balls that must be introduced into the test tube for it to float vertically. If the number of balls n is less than no (but not too much!) the test tube floats, motionless, in an oblique position: explain the reason for this behavior, also using a graphical schematic.
 
-(A2) Determine experimentally the relationship between the depth of immersion h of the water
-Proof and the number of steel spheres inserted in the proof, with n > no; reports in a
-graph h(n) the values thus obtained. It shows that the above report can also be obtained from the
-Theoretically, based on the laws of hydrostatics.
+ (A2) Determine experimentally the relationship between the immersion depth h of the test tube and the number n of steel balls introduced into the test tube, with n > no; report the values thus obtained in an h(n) graph. Show that the above relationship can also be derived theoretically, based on the laws of hydrostatics.
 
-(A3) At this point you can determine the mass of the probe and the mass of a single
-The steel sphere, both in grams. Describe the main causes of error affecting the
-The Commission shall, by means of a procedure, adopt the following measures:
+ (A3) At this point you can determine the mass of the test tube and the mass of a single steel ball, both in grams. Describe the main causes of error that influence the two above values, evaluating at least qualitatively their influence.
 
-(B1) If the test is moved by a quantity x (upwards or downwards) relative to the
-its equilibrium position O (with n > no), which is the expression of the force of call F that
-Does it work on it ?
+(B1) If the test tube is displaced by an amount x (upward or downward) relative to its equilibrium position O (with n > no), what is the expression for the restoring force F acting on it?
 
-(B2) In the light of the above and disregarding the presence of any other forces, write:
-The time law of the motion of the probe when it is left free at initial speed
-Nothing at a distance from O.
+(B2) Based on the above expression and neglecting the presence of any other forces, write the equation of motion of the test tube when it is released from rest with zero initial velocity at a distance xo from O.
 
-(C1) Releasing the test as described in point (B2), observing its engine
-It suggests a well-defined periodicity. Experimentally check whether the oscillations are
-isocron, that is, whether or not the period depends on the amplitude, for a certain total mass by you
-selected (with n > no).
+(C1) Releasing the test tube as described in point (B2), observation of its motion suggests a well-defined periodicity. Experimentally check whether the oscillations are isochronous, that is, whether the "period" depends or not on the amplitude, for a certain total mass of your choice (with n > no).
 
-(C2) If isochronism is true, compare the values of the periods obtained by varying the
-Total mass with those extracted theoretically based on the theoretical model you worked out in the
-points (B1) and (B2).
+(C2) Assuming isochronism holds, compare the values of the "periods" obtained by varying the total mass with those that can be derived theoretically based on the theoretical model you developed in points (B1) and (B2).
 
-The following information shall be provided:
+MATERIALS AVAILABLE
+- tap water at room temperature in a transparent cylindrical container.
+- small metal tube; graduated scale in mm;
 -
-tap water at room temperature inside a transparent cylindrical container.
+40 / 50 steel balls, all identical to one another;
+- copper wire having a diameter of 0.2 mm and a length of about half a meter (used to measure the diameter of the test tube);
+- manual stopwatch to the hundredth of a second;
 -
-Metal pipe; scale graded in mm;
--
-40 / 50 steel spheres, all equal to each other;
--
-Copper wire of a diameter of 0,2 mm and a length of about half a metre (for use in the manufacture of
-measuring the diameter of the test specimen;
--
-a manual clock measurement at one cent of a second;
--
-3 sheets of millimeter paper, pencil, tape tape; scissors, drawing line
-50 cm long, paper to dry your hands.
+3 sheets of graph paper, pencil, strip of adhesive tape; scissors, 50 cm drawing ruler, paper for drying hands.
 
-**Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1VaANEOQY3P5Qn_aG6w_SzNCoCUAnCkVG/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_dpHvz0NjAjh1NVN3VJ6EyO1HBh4zoxQ/view)
+
+

@@ -96,25 +96,19 @@ Una lastra di vetro **spessa** viene posta sopra un cubo di vetro. Tra la lastra
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to this Regulation:
+**Interference on an air gap**
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. The following table shows the results of the tests:
+**PROBLEM no. 2 — Interference** *(50 points)*
 
-A sheet of glass ** thickness ** is placed over a glass cube. A thin air intercavator of uniform thickness $d$ remains between the plate and the cube. A single-chromatic beam of light of wavelength between $0.40\ \mu\text{m}$ and $0.80\ \mu\text{m}$ shall impact the plate perpendicularly to the plate, causing interference. When the wavelength varies throughout the range considered, only two reflected light maxims are observed, one of which corresponds to the value $\lambda_1 = 0.40\ \mu\text{m}$.
+A **thick** glass plate is placed on top of a glass cube. Between the plate and the cube there remains a thin air gap of uniform thickness $d$. A beam of monochromatic light with wavelength between $0.40\ \mu\text{m}$ and $0.80\ \mu\text{m}$ strikes the plate perpendicularly, producing interference. As the wavelength varies over the entire interval considered, only two maxima of reflected light are observed, one of which occurs at the value $\lambda_1 = 0.40\ \mu\text{m}$.
 
-1. Write the constructive interference condition in terms of $\lambda$ and $d$ and determine the set of possible relationships between two wavelengths giving rise to maximum interference.
-2. Calculate the value of the second wavelength for which you have a maximum reflected light.
-3. Calculate the thickness $d$ of the air interconnector.
+1. Write the condition for constructive interference in terms of $\lambda$ and $d$ and determine the set of possible ratios between any two wavelengths that give rise to interference maxima.
+2. Calculate the value of the second wavelength for which there is a maximum of reflected light.
+3. Calculate the thickness $d$ of the air gap.
 
-*Note: Because the sheet is thick, the interference is only due to the presence of the air intercavator.*
+*Note: Since the plate is thick, the interference is due only to the presence of the air gap.*
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2002 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/rigid-body-statics,topic/newtonian-mechanics,argomento/meccanica,object/sphere,object/rope-string"></span>
@@ -152,32 +146,26 @@ In assenza di attriti, i corpi si dispongono in una situazione di equilibrio in 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Wire balance and weight of the sphere**
+**Equilibrium of a sphere and counterweight on a thread**
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. The following table shows the total number of points of the calculation:
+**PROBLEM no. 3 — Equilibrium** *(100 points)*
 
-A wire of $1\ \text{m}$ length hangs from the ceiling of a room and ends in a small ring B. In the ring passes a second long thread, of negligible mass, at the ends of which two bodies are suspended: one is a homogeneous sphere of center A, radius $R = 0.5\ \text{m}$ and mass $M$ and the other is a counterweight of mass $KM$, with $K > 1$.
+From the ceiling of a room hangs a thread of length greater than $1\ \text{m}$ that ends in a small ring B. Through the ring passes a second long thread, of negligible mass, at whose ends two bodies are hung: one is a homogeneous sphere with center A, radius $R = 0.5\ \text{m}$ and mass $M$, and the other is a counterweight of mass $KM$, with $K > 1$.
 
-In the absence of friction, the bodies are placed in a balanced position where the sphere is higher and the counterweight lower. The portion of wire holding the counterweight is laid for a stretch of CD on the surface of the sphere.
+In the absence of friction, the bodies arrange themselves in an equilibrium situation in which the sphere is higher and the counterweight lower. The portion of the thread that supports the counterweight rests for a stretch CD on the surface of the sphere.
 
 <!--fig:start-->
 ![[_attachments/naz02t/naz02t_p2_f2.png]]
-*The homogeneous sphere of center A and radius $R$ hangs from the passing wire through ring B; the counterweight wire lies on the sphere along the arc CD (tangent in D) before descending vertically.*
+*The homogeneous sphere with center A and radius $R$ hangs from the thread passing through the ring B; the counterweight's thread rests on the sphere along the arc CD (tangent at D) before descending vertically.*
 <!--fig:end-->
 
 1. Draw the forces acting on the sphere and explain their physical origin.
-2. Determine the length of the $\overset{\frown}{CD}$ stretch of wire holding the counterweight that remains in contact with the sphere.
-3. Describe, including a drawing, the limit case where $K$ tends to 1, specifying the conditions under which this may occur.
-4. Describe, even with a drawing, the limit case where $K$ tends to infinity, also discussing what happens if the sphere touches the ring in B.
+2. Determine how long the stretch $\overset{\frown}{CD}$ of the thread supporting the counterweight that remains in contact with the sphere is.
+3. Describe, also with a drawing, the limiting case in which $K$ tends to 1, setting out the conditions under which this can occur.
+4. Describe, also with a drawing, the limiting case in which $K$ tends to infinity, also discussing what happens if the sphere touches the ring at B.
 5. Calculate a numerical answer for $K = 2$ and for $K = 4$.
 
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2002 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,argomento/meccanica,object/capacitor,object/resistor,object/switch,object/battery"></span>
@@ -235,48 +223,44 @@ Si vuole osservare una corda vibrante alla luce di una lampada stroboscopica la 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total value of the samples:
+**Stroboscopic lamp (RC discharge circuit)**
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. The following table shows the results of the calculation of the total value of the samples:
+**PROBLEM no. 4 — Stroboscopic lamp** *(100 points)*
 
-Consider the circuit in Figure 1. If $q_0$ indicates the load on the capacitor $C$ at the time $t = 0$ when the switch is closed, then the load at each subsequent moment is given by the function
-$$q(t) = Q + (q_0 - Q)\,e^{-t/\tau} \quad \text{con} \quad \tau = R_{\mathrm p} C \quad (1)$$
-where $R_{\mathrm p}$ is the resistance equivalent to the parallel resistance $R_1$ and $R_2$.
+Consider the circuit in figure 1. If $q_0$ denotes the charge on the capacitor $C$ at time $t = 0$, at which the switch is closed, then the charge at every subsequent instant is given by the function
+$$q(t) = Q + (q_0 - Q)\,e^{-t/\tau} \quad \text{con} \quad \tau = R_{\mathrm p} C \quad (1)$$ where $R_{\mathrm p}$ is the equivalent resistance of the parallel combination of the resistors $R_1$ and $R_2$.
 
 <!--fig:start-->
 ![[_attachments/naz02t/naz02t_p2_f3.png]]
-*Figure 1  Voltage generator $V$ with T series switch at resistance $R_1$; parallel to the $R_2$ branch and the $C$ capacitor.*
+*Figure 1 — Voltage generator $V$ with switch T in series with the resistor $R_1$; in parallel, the branch $R_2$ and the capacitor $C$.*
 <!--fig:end-->
 
-1. Show that the constant $Q$ represents the current value of the load on the capacitor and determine its value according to the parameters $V$, $R_1$, $\tau$.
-2. Calculate the currents in the three branches of the circuit using the relation (1) and verify that the result is consistent with Kirchhoff's knot law. *Suggested path: get the ddp in the order of the capacitor heads $V_C(t)$; current in the capacitor branch; current in $R_2$; current in $R_1$; check Kirchhoff's law at one of the nodes.*
+1. Show that the constant $Q$ represents the steady-state value of the charge on the capacitor and determine its value as a function of the parameters $V$, $R_1$, $\tau$.
+2. Calculate the currents in the three branches of the circuit using relation (1) and verify that the result is consistent with Kirchhoff's node law. *Suggested outline: derive in order the potential difference across the capacitor $V_C(t)$; the current in the capacitor branch; the current in $R_2$; the current in $R_1$; verify Kirchhoff's law at one of the nodes.*
 
-The resistance $R_2$ is replaced by a gas lamp (Figure 2) that can be schematized as a resistance component defined as follows:
-- when the applied voltage is zero the resistance is very high ($R_{\mathrm L} = R_+ \gg R_1$) and remains so until the voltage exceeds $V_2 = V/2$; at this point the resistance drops to $R_- \ll R_1$ and the lamp emits light;
-- the resistance remains very low ($R_{\mathrm L} = R_- \ll R_1$) when the voltage applied to its heads remains above $V_1 = V/4$; when the voltage drops below this value the resistance returns to $R_+$ and the lamp turns off.
+The resistor $R_2$ is replaced by a gas lamp (figure 2) that can be schematized as a resistive component defined in this way:
+- when the applied voltage is zero the resistance is very high ($R_{\mathrm L} = R_+ \gg R_1$) and remains so until the voltage exceeds the value $V_2 = V/2$; at this point the resistance drops to $R_- \ll R_1$ and the lamp emits light;
+- the resistance remains very low ($R_{\mathrm L} = R_- \ll R_1$) when the voltage applied across its terminals stays above the value $V_1 = V/4$; when the voltage drops below this value the resistance returns to $R_+$ and the lamp turns off.
 
 <!--fig:start-->
 ![[_attachments/naz02t/naz02t_p2_f4.png]]
-*Figure 2  The same circuit with $R_2$ replaced by a resistance gas lamp $R_{\mathrm L}$.*
+*Figure 2 — The same circuit with $R_2$ replaced by a gas lamp of resistance $R_{\mathrm L}$.*
 <!--fig:end-->
 
-The graph in Figure 3 shows how the lamp's resistance, in the applied voltage range $V_1 < V_{\mathrm L} < V_2$, depends on the previous history.
+The graph in figure 3 shows how the resistance of the lamp, in the applied voltage range $V_1 < V_{\mathrm L} < V_2$, depends on the previous history.
 
 <!--fig:start-->
 ![[_attachments/naz02t/naz02t_p2_f5.png]]
-*Figure 3  Hysterical characteristic $R_{\mathrm L}(V_{\mathrm L})$: $R_{\mathrm L} = R_+$ until $V_{\mathrm L}$ does not exceed $V_2 = V/2$, then decreases to $R_-$; it goes back to $R_+$ when $V_{\mathrm L}$ falls below $V_1 = V/4$.*
+*Figure 3 — Hysteretic characteristic $R_{\mathrm L}(V_{\mathrm L})$: $R_{\mathrm L} = R_+$ as long as $V_{\mathrm L}$ does not exceed $V_2 = V/2$, then it drops to $R_-$; it rises back to $R_+$ when $V_{\mathrm L}$ drops below $V_1 = V/4$.*
 <!--fig:end-->
 
-3. Starting from $q_0 = 0$, report the trend of $V_C(t)$ on a graph showing that the lamp emits a succession of flashes (*stroboscopic lamp*).
-4. Determine the frequency of lightning in the case of $R_+ = 100\,R_1$ and $R_- = R_1/100$, then give the numerical value for $C = 100\ \mu\text{F}$ and $R_1 = 4.7\ \text{k}\Omega$.
+3. Starting from the condition $q_0 = 0$, plot on a graph the trend of $V_C(t)$ showing that the lamp emits a succession of flashes (*stroboscopic lamp*).
+4. Determine the frequency of the flashes in the case $R_+ = 100\,R_1$ and $R_- = R_1/100$, then give its numerical value for $C = 100\ \mu\text{F}$ and $R_1 = 4.7\ \text{k}\Omega$.
 
-A vibrating string is to be observed in the light of a stroboscopic lamp whose frequency can be varied; only the minimum frequency value $\nu_0 = 2\ \text{Hz}$ is known. Starting from a value that is certainly higher than the vibration value of the rope, the lamp frequency is slowly reduced to the minimum value. At a certain moment, during this operation, the rope appears to be stationary, but since the frequency of lightning is not known, it is not possible to determine the frequency of oscillation of the rope. By further gradually decreasing the frequency of the lamp, the rope appears still a second time and immediately afterwards, when the minimum frequency of the lamp $\nu_0$ is reached, the rope appears to oscillate with an apparent period $T_{\text{app}} = 3\ \text{s}$.
+One wants to observe a vibrating string in the light of a stroboscopic lamp whose frequency can be varied; only the minimum value of the frequency $\nu_0 = 2\ \text{Hz}$ is known. Starting from a value certainly greater than that of the vibration of the string, the frequency of the lamp is slowly decreased, down to the minimum value. At a certain instant, during this operation, one observes that the string appears stationary, but since the frequency of the flashes is not known, it is not possible to determine the oscillation frequency of the string. Decreasing the frequency of the lamp still progressively, the string appears stationary a second time and immediately afterwards, once the minimum frequency of the lamp $\nu_0$ is reached, the string seems to oscillate with an apparent period $T_{\text{app}} = 3\ \text{s}$.
 
-5. What frequency does the rope swing at?
+5. At what frequency does the string oscillate?
 
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1a08T5jjPHSI2HFEwfS-v_XmbL3vPvQk2/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1__gTlHRuydOP1Lp4r5jmplYJ-sRVdSPK/view)
+
+

@@ -1086,23 +1086,16 @@ is $4.0 \times 10^{4}$ at 2000 K. In presence of a catalyst equilibrium is attai
 
 <div class="qlang-split" data-lang="it"></div>
 
-Costante di equilibrio della reazione
+La costante di equilibrio per la reazione
 
 $$\text{N}_2(g) + \text{O}_2(g) \Leftrightarrow 2\text{NO}(g)$$
 
-is $4.0 \times 10^{4}$ at 2000 K. In presenza di un equilibrio catalizzatore si ottiene 10 volte più velocemente. Pertanto, la costante di equilibrio in presenza di catalizzatore a 2000 K è
+è $4.0 \times 10^{4}$ a 2000 K. In presenza di un catalizzatore l'equilibrio viene raggiunto 10 volte più velocemente. Pertanto la costante di equilibrio in presenza del catalizzatore a 2000 K è
 
 - (a) $40 \times 10^{4}$
 - (b) $4 \times 10^{4}$
 - (c) $4 \times 10^{3}$
 - (d) nessuna di queste
-
-**Topic:** [[Chemistry]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
-
 
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="INJSO 2012 — Problema 27" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/biology,argomento/biologia,object/ball"></span>
@@ -2615,24 +2608,17 @@ Neglecting the thermal capacity of vessels, change in density of water due to ch
 
 <div class="qlang-split" data-lang="it"></div>
 
-a) Esha è presente a $-20\ ^\circ\text{C}$ fino a $h = 10$ cm di altezza in un recipiente cilindrico uniforme (senza spazi d'aria). L'acqua a temperatura $+3\ ^\circ\text{C}$ viene riempita in un altro recipiente identico fino a una altezza pari $h = 10$ cm. Ora, l'acqua proveniente dal secondo recipiente viene versata nel primo recipiente e si scopre che il livello della superficie superiore cade attraverso $h = 0.5$ cm quando l'equilibrio termico è raggiunto.
+(a) Esha esiste a $-20\ ^\circ\text{C}$ fino all'altezza di $h = 10$ cm in un recipiente cilindrico uniforme (senza vuoti d'aria). Acqua alla temperatura $+3\ ^\circ\text{C}$ viene versata in un altro recipiente identico fino alla stessa altezza $h = 10$ cm. Ora, l'acqua dal secondo recipiente viene versata nel primo recipiente e si trova che il livello della superficie superiore scende di $h = 0.5$ cm quando viene raggiunto l'equilibrio termico.
 
-Neglecting the thermal capacity of vessels, change in density of water due to change in temperature and loss of heat due to radiation, calculate the initial temperature $x$ $^\circ\text{C}$ of water. Utilizzare la densità di ghiaccio come 0,9 g/cc.
+Trascurando la capacità termica dei recipienti, la variazione di densità dell'acqua dovuta alla variazione di temperatura e la perdita di calore per irraggiamento, calcola la temperatura iniziale $x$ $^\circ\text{C}$ dell'acqua. Usa la densità del ghiaccio pari a 0,9 g/cc.
 
-**Total: 2 Marks**
+**Totale: 2 punti**
 
-b) Una palla di massa di 10 kg che si muove a 50 ms $^{-1}$ in direzione N-E è costretta a muoversi a 30 ms $^{-1}$ in direzione S-E in 10 secondi mediante l'applicazione di una forza costante. Trova il vettore di forza (magnità e angolo rispetto all'est).
+(b) Una palla di massa 10 kg che si muove a 50 ms$^{-1}$ in direzione N-E è costretta a muoversi a 30 ms$^{-1}$ in direzione S-E in 10 s mediante l'applicazione di una forza costante. Trova il vettore forza (modulo e angolo rispetto all'est).
 
-**Total: 3 Marks**
+**Totale: 3 punti**
 
-**Total: 5 Marks**
-
-**Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.18](https://drive.google.com/file/d/1Wz_KFB37Wwq0GwNoSZVZ3mtrtvAVVhl6/view)
-
+**Totale: 5 punti**
 
 
 <span class="atom-split" id="q63" data-atom="q63" data-title="INJSO 2012 — Problema 63" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/mathematics,argomento/matematica"></span>

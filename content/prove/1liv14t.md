@@ -34,22 +34,16 @@ Quanto vale l'accelerazione media dell'automobile?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A car travelling at a certain moment at a speed of 58 km/h accelerates to a speed of 72 km/h in 1.9 seconds.
+A car that at a certain instant is traveling at a speed of 58 km/h accelerates to a speed of 72 km/h in 1.9 s.
 
-How much is the average car's acceleration?
+What is the average acceleration of the car?
 
 - **A.** $0.11\ \text{m s}^{-2}$
 - **B.** $0.22\ \text{m s}^{-2}$
 - **C.** $2.0\ \text{m s}^{-2}$
 - **D.** $4.9\ \text{m s}^{-2}$
 - **E.** $9.8\ \text{m s}^{-2}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2014 1° Livello — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/gas"></span>
@@ -77,22 +71,16 @@ In quale ciclo è maggiore la quantità di calore scambiato dalla sostanza termo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following thermodynamic cycles represented in a plane $V$-$p$ shall be considered.
+Consider the following thermodynamic cycles represented in a $V$-$p$ plane.
 
 In which cycle is the amount of heat exchanged by the thermodynamic substance with the environment greater?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p3_f1.png]]
-The following table shows the results of the calculations:
+*V-p diagrams of thermodynamic cycles*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2014 1° Livello — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/prism"></span>
@@ -120,22 +108,16 @@ Quale delle seguenti figure rappresenta meglio un possibile percorso della luce 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A beam of white light (b in figure) hits a glass prism in the air and emerges scattered in the various colors from red (r) to violet (v) shown in figure.
+A beam of white light (b in the figure) strikes a glass prism placed in air and emerges dispersed into the various colors from red (r) to violet (v), indicated in the figure.
 
-Which of the following figures best represents a possible path of light through the prism?
+Which of the following figures best represents a possible path of the light through the prism?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p3_f2.png]]
 *Light path through dispersing prism*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2014 1° Livello — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor,object/point-charge"></span>
@@ -234,9 +216,9 @@ Quanto vale l'energia cinetica della carica immediatamente prima che urti la pia
 
 <div class="qlang-split" data-lang="en"></div>
 
-A potential difference is applied between the plates of a flat capacitor, 0.10 m apart; a charge particle $+2.0\ \mu\text{C}$, initially stationary, is left free to move from the positive plate, as shown in Figure 1. Suppose no other forces are applied to the particle except the electrostatic one.
+A potential difference is applied between the plates of a parallel-plate capacitor, 0.10 m apart; a particle with charge $+2.0\ \mu\text{C}$, initially at rest, is left free to move starting from the positive plate, as shown in the figure. Assume that no other forces are exerted on the particle except the electrostatic one.
 
-What's the kinetic energy of the charge right before you hit the negative plate of the capacitor?
+What is the kinetic energy of the charge immediately before it strikes the negative plate of the capacitor?
 
 - **A.** $4.0 \times 10^{-10}\ \text{J}$
 - **B.** $2.0 \times 10^{-7}\ \text{J}$
@@ -244,83 +226,10 @@ What's the kinetic energy of the charge right before you hit the negative plate 
 - **D.** $1.0 \times 10^{-2}\ \text{J}$
 - **E.** $5.0 \times 10^{-1}\ \text{J}$
 <!--fig:start-->
-
-
-<figure class="tikz-fig">
-<!-- This file was generated by dvisvgm 3.2.2 -->
-<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='109.329245pt' height='107.074039pt' viewBox='-64.27651 -64.910851 109.329245 107.074039'>
-<defs>
-<path id='g1-22' d='M2.30137-3.496887C2.351183-3.706102 2.450809-4.084682 2.450809-4.134496C2.450809-4.303861 2.331258-4.403487 2.161893-4.403487C2.132005-4.403487 1.853051-4.393524 1.763387-4.044832L.328767 1.723537C.298879 1.843088 .298879 1.863014 .298879 1.882939C.298879 2.032379 .408468 2.15193 .577833 2.15193C.787049 2.15193 .9066 1.972603 .926526 1.942715C.966376 1.853051 1.09589 1.334994 1.474471-.199253C1.793275 .069738 2.241594 .109589 2.440847 .109589C3.138232 .109589 3.526775-.33873 3.765878-.617684C3.855542-.169365 4.224159 .109589 4.662516 .109589C5.011208 .109589 5.240349-.119552 5.399751-.438356C5.569116-.797011 5.69863-1.404732 5.69863-1.424658C5.69863-1.524284 5.608966-1.524284 5.579078-1.524284C5.479452-1.524284 5.469489-1.484433 5.439601-1.344956C5.270237-.697385 5.090909-.109589 4.682441-.109589C4.41345-.109589 4.383562-.368618 4.383562-.56787C4.383562-.787049 4.503113-1.255293 4.582814-1.603985L4.861768-2.67995C4.891656-2.82939 4.991283-3.20797 5.031133-3.35741C5.080946-3.58655 5.180573-3.965131 5.180573-4.024907C5.180573-4.204234 5.041096-4.293898 4.891656-4.293898C4.841843-4.293898 4.582814-4.283935 4.503113-3.945205L4.034869-2.082192C3.915318-1.58406 3.805729-1.165629 3.775841-1.066002C3.765878-1.016189 3.287671-.109589 2.480697-.109589C1.982565-.109589 1.743462-.438356 1.743462-.976339C1.743462-1.265255 1.8132-1.544209 1.882939-1.823163L2.30137-3.496887Z'/>
-<path id='g1-58' d='M1.912827-.52802C1.912827-.816936 1.673724-1.05604 1.384807-1.05604S.856787-.816936 .856787-.52802S1.09589 0 1.384807 0S1.912827-.239103 1.912827-.52802Z'/>
-<path id='g2-43' d='M4.07472-2.291407H6.854296C6.993773-2.291407 7.183064-2.291407 7.183064-2.49066S6.993773-2.689913 6.854296-2.689913H4.07472V-5.479452C4.07472-5.618929 4.07472-5.808219 3.875467-5.808219S3.676214-5.618929 3.676214-5.479452V-2.689913H.886675C.747198-2.689913 .557908-2.689913 .557908-2.49066S.747198-2.291407 .886675-2.291407H3.676214V.498132C3.676214 .637609 3.676214 .826899 3.875467 .826899S4.07472 .637609 4.07472 .498132V-2.291407Z'/>
-<path id='g2-48' d='M4.582814-3.188045C4.582814-3.985056 4.533001-4.782067 4.184309-5.519303C3.726027-6.475716 2.909091-6.635118 2.49066-6.635118C1.892902-6.635118 1.165629-6.37609 .757161-5.449564C.438356-4.762142 .388543-3.985056 .388543-3.188045C.388543-2.440847 .428394-1.544209 .836862-.787049C1.265255 .019925 1.992528 .219178 2.480697 .219178C3.01868 .219178 3.775841 .009963 4.214197-.936488C4.533001-1.62391 4.582814-2.400996 4.582814-3.188045ZM2.480697 0C2.092154 0 1.504359-.249066 1.325031-1.205479C1.215442-1.803238 1.215442-2.719801 1.215442-3.307597C1.215442-3.945205 1.215442-4.60274 1.295143-5.140722C1.484433-6.326276 2.231631-6.41594 2.480697-6.41594C2.809465-6.41594 3.466999-6.236613 3.656289-5.250311C3.755915-4.692403 3.755915-3.935243 3.755915-3.307597C3.755915-2.560399 3.755915-1.882939 3.646326-1.24533C3.496887-.298879 2.929016 0 2.480697 0Z'/>
-<path id='g2-49' d='M2.929016-6.37609C2.929016-6.615193 2.929016-6.635118 2.699875-6.635118C2.082192-5.997509 1.205479-5.997509 .886675-5.997509V-5.688667C1.085928-5.688667 1.673724-5.688667 2.191781-5.947696V-.787049C2.191781-.428394 2.161893-.308842 1.265255-.308842H.946451V0C1.295143-.029888 2.161893-.029888 2.560399-.029888S3.825654-.029888 4.174346 0V-.308842H3.855542C2.958904-.308842 2.929016-.418431 2.929016-.787049V-6.37609Z'/>
-<path id='g2-50' d='M1.265255-.767123L2.321295-1.793275C3.875467-3.16812 4.473225-3.706102 4.473225-4.702366C4.473225-5.838107 3.576588-6.635118 2.361146-6.635118C1.235367-6.635118 .498132-5.718555 .498132-4.83188C.498132-4.273973 .996264-4.273973 1.026152-4.273973C1.195517-4.273973 1.544209-4.393524 1.544209-4.801993C1.544209-5.061021 1.364882-5.32005 1.016189-5.32005C.936488-5.32005 .916563-5.32005 .886675-5.310087C1.115816-5.957659 1.653798-6.326276 2.231631-6.326276C3.138232-6.326276 3.566625-5.519303 3.566625-4.702366C3.566625-3.905355 3.068493-3.118306 2.520548-2.500623L.607721-.368618C.498132-.259029 .498132-.239103 .498132 0H4.194271L4.473225-1.733499H4.224159C4.174346-1.43462 4.104608-.996264 4.004981-.846824C3.935243-.767123 3.277709-.767123 3.058531-.767123H1.265255Z'/>
-<path id='g2-51' d='M2.889166-3.506849C3.706102-3.775841 4.283935-4.473225 4.283935-5.260274C4.283935-6.07721 3.407223-6.635118 2.450809-6.635118C1.444583-6.635118 .687422-6.03736 .687422-5.280199C.687422-4.951432 .9066-4.762142 1.195517-4.762142C1.504359-4.762142 1.703611-4.98132 1.703611-5.270237C1.703611-5.768369 1.235367-5.768369 1.085928-5.768369C1.39477-6.256538 2.052304-6.386052 2.410959-6.386052C2.819427-6.386052 3.367372-6.166874 3.367372-5.270237C3.367372-5.150685 3.347447-4.572852 3.088418-4.134496C2.789539-3.656289 2.450809-3.626401 2.201743-3.616438C2.122042-3.606476 1.882939-3.58655 1.8132-3.58655C1.733499-3.576588 1.663761-3.566625 1.663761-3.466999C1.663761-3.35741 1.733499-3.35741 1.902864-3.35741H2.34122C3.158157-3.35741 3.526775-2.67995 3.526775-1.703611C3.526775-.348692 2.839352-.059776 2.400996-.059776C1.972603-.059776 1.225405-.229141 .876712-.816936C1.225405-.767123 1.534247-.986301 1.534247-1.364882C1.534247-1.723537 1.265255-1.92279 .976339-1.92279C.737235-1.92279 .418431-1.783313 .418431-1.344956C.418431-.438356 1.344956 .219178 2.430884 .219178C3.646326 .219178 4.552927-.687422 4.552927-1.703611C4.552927-2.520548 3.92528-3.297634 2.889166-3.506849Z'/>
-<path id='g2-67' d='M.557908-3.407223C.557908-1.344956 2.171856 .219178 4.024907 .219178C5.648817 .219178 6.625156-1.165629 6.625156-2.321295C6.625156-2.420922 6.625156-2.49066 6.495641-2.49066C6.386052-2.49066 6.386052-2.430884 6.37609-2.331258C6.296389-.9066 5.230386-.089664 4.144458-.089664C3.536737-.089664 1.58406-.428394 1.58406-3.39726C1.58406-6.37609 3.526775-6.714819 4.134496-6.714819C5.220423-6.714819 6.107098-5.808219 6.306351-4.353674C6.326276-4.214197 6.326276-4.184309 6.465753-4.184309C6.625156-4.184309 6.625156-4.214197 6.625156-4.423412V-6.784558C6.625156-6.953923 6.625156-7.023661 6.515567-7.023661C6.475716-7.023661 6.435866-7.023661 6.356164-6.90411L5.858032-6.166874C5.489415-6.525529 4.98132-7.023661 4.024907-7.023661C2.161893-7.023661 .557908-5.439601 .557908-3.407223Z'/>
-<path id='g2-86' d='M6.1868-5.828144C6.326276-6.196762 6.595268-6.485679 7.272727-6.495641V-6.804483C6.963885-6.784558 6.56538-6.774595 6.306351-6.774595C6.007472-6.774595 5.429639-6.794521 5.17061-6.804483V-6.495641C5.688667-6.485679 5.897883-6.22665 5.897883-5.997509C5.897883-5.917808 5.867995-5.858032 5.84807-5.798257L4.024907-.996264L2.122042-6.027397C2.062267-6.166874 2.062267-6.1868 2.062267-6.206725C2.062267-6.495641 2.630137-6.495641 2.879203-6.495641V-6.804483C2.520548-6.774595 1.833126-6.774595 1.454545-6.774595C.976339-6.774595 .547945-6.794521 .18929-6.804483V-6.495641C.836862-6.495641 1.026152-6.495641 1.165629-6.117061L3.476961 0C3.5467 .18929 3.596513 .219178 3.726027 .219178C3.895392 .219178 3.915318 .169365 3.965131 .029888L6.1868-5.828144Z'/>
-<path id='g2-107' d='M1.05604-.757161C1.05604-.308842 .946451-.308842 .278954-.308842V0C.607721-.009963 1.075965-.029888 1.364882-.029888C1.663761-.029888 2.062267-.019925 2.460772 0V-.308842C1.793275-.308842 1.683686-.308842 1.683686-.757161V-1.783313L2.321295-2.331258C3.088418-1.275218 3.506849-.71731 3.506849-.537983C3.506849-.348692 3.337484-.308842 3.148194-.308842V0C3.427148-.009963 4.014944-.029888 4.224159-.029888C4.513076-.029888 4.801993-.019925 5.090909 0V-.308842C4.722291-.308842 4.503113-.308842 4.124533-.836862L2.859278-2.620174C2.849315-2.6401 2.799502-2.699875 2.799502-2.729763C2.799502-2.769614 3.506849-3.367372 3.606476-3.447073C4.234122-3.955168 4.652553-3.975093 4.861768-3.985056V-4.293898C4.572852-4.26401 4.443337-4.26401 4.164384-4.26401C3.805729-4.26401 3.188045-4.283935 3.048568-4.293898V-3.985056C3.237858-3.975093 3.337484-3.865504 3.337484-3.73599C3.337484-3.536737 3.198007-3.417186 3.118306-3.347447L1.713574-2.132005V-6.914072L.278954-6.804483V-6.495641C.976339-6.495641 1.05604-6.425903 1.05604-5.937733V-.757161Z'/>
-<path id='g2-109' d='M1.09589-3.427148V-.757161C1.09589-.308842 .986301-.308842 .318804-.308842V0C.667497-.009963 1.175592-.029888 1.444583-.029888C1.703611-.029888 2.221669-.009963 2.560399 0V-.308842C1.892902-.308842 1.783313-.308842 1.783313-.757161V-2.590286C1.783313-3.626401 2.49066-4.184309 3.128269-4.184309C3.755915-4.184309 3.865504-3.646326 3.865504-3.078456V-.757161C3.865504-.308842 3.755915-.308842 3.088418-.308842V0C3.437111-.009963 3.945205-.029888 4.214197-.029888C4.473225-.029888 4.991283-.009963 5.330012 0V-.308842C4.662516-.308842 4.552927-.308842 4.552927-.757161V-2.590286C4.552927-3.626401 5.260274-4.184309 5.897883-4.184309C6.525529-4.184309 6.635118-3.646326 6.635118-3.078456V-.757161C6.635118-.308842 6.525529-.308842 5.858032-.308842V0C6.206725-.009963 6.714819-.029888 6.983811-.029888C7.242839-.029888 7.760897-.009963 8.099626 0V-.308842C7.581569-.308842 7.332503-.308842 7.32254-.607721V-2.510585C7.32254-3.367372 7.32254-3.676214 7.013699-4.034869C6.874222-4.204234 6.545455-4.403487 5.967621-4.403487C5.13076-4.403487 4.692403-3.805729 4.523039-3.427148C4.383562-4.293898 3.646326-4.403487 3.198007-4.403487C2.470735-4.403487 2.002491-3.975093 1.723537-3.35741V-4.403487L.318804-4.293898V-3.985056C1.016189-3.985056 1.09589-3.915318 1.09589-3.427148Z'/>
-<path id='g0-0' d='M6.56538-2.291407C6.734745-2.291407 6.914072-2.291407 6.914072-2.49066S6.734745-2.689913 6.56538-2.689913H1.175592C1.006227-2.689913 .826899-2.689913 .826899-2.49066S1.006227-2.291407 1.175592-2.291407H6.56538Z'/>
-</defs>
-<g id='page1'>
-<path d='M-20.164063 21.8828V-54.6523' stroke='#000' fill='none' stroke-width='1.29515'/>
-<path d='M-3.1563 21.8828V-54.6523' stroke='#000' fill='none' stroke-width='1.29515' stroke-miterlimit='10'/>
-<path d='M-13.06641-37.6445C-13.06641-38.7461-13.96094-39.6367-15.05859-39.6367C-16.16016-39.6367-17.05469-38.7461-17.05469-37.6445C-17.05469-36.543-16.16016-35.6523-15.05859-35.6523C-13.96094-35.6523-13.06641-36.543-13.06641-37.6445Z'/>
-<path d='M19.5234-57.4883L-7.6016-43.3359' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M-11.621096-41.238306C-11.062501-41.375023-8.531256-41.812521-6.78125-41.765646L-8.417971-44.906273C-9.382814-43.445337-11.19141-41.621118-11.621096-41.238306Z'/>
-<path d='M-11.621096-41.238306C-11.062501-41.375023-8.531256-41.812521-6.78125-41.765646L-8.417971-44.906273C-9.382814-43.445337-11.19141-41.621118-11.621096-41.238306Z' stroke='#000' fill='none' stroke-width='.796961' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 43.4044 -45.7541)'>
-<use x='-20.162641' y='-12.13309' xlink:href='#g2-50'/>
-<use x='-13.520902' y='-12.13309' xlink:href='#g1-22'/>
-<use x='-7.517918' y='-12.13309' xlink:href='#g2-67'/>
-</g>
-<path d='M-20.164063-17.80078H-54.1797' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M-51.6875-17.80078C-51.6875-19.17969-52.8047-20.29297-54.1797-20.29297S-56.668-19.17969-56.668-17.80078C-56.668-16.42578-55.5547-15.3125-54.1797-15.3125S-51.6875-16.42578-51.6875-17.80078Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 -27.9694 -14.5176)'>
-<use x='-20.162641' y='-12.13309' xlink:href='#g2-43'/>
-</g>
-<g transform='matrix(1 0 0 1 -44.5323 9.12856)'>
-<use x='-20.162641' y='-12.13309' xlink:href='#g2-51'/>
-<use x='-11.860427' y='-12.13309' xlink:href='#g2-107'/>
-<use x='-6.602339' y='-12.13309' xlink:href='#g2-86'/>
-</g>
-<path d='M-3.1563-17.80078H30.8633' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M33.3516-17.80078C33.3516-19.17969 32.2383-20.29297 30.8633-20.29297C29.4844-20.29297 28.3711-19.17969 28.3711-17.80078C28.3711-16.42578 29.4844-15.3125 30.8633-15.3125C32.2383-15.3125 33.3516-16.42578 33.3516-17.80078Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 37.2284 -14.5176)'>
-<use x='-20.162641' y='-12.13309' xlink:href='#g0-0'/>
-</g>
-<g transform='matrix(1 0 0 1 36.6336 8.71344)'>
-<use x='-20.162641' y='-12.13309' xlink:href='#g0-0'/>
-<use x='-12.413893' y='-12.13309' xlink:href='#g2-50'/>
-<use x='-4.111679' y='-12.13309' xlink:href='#g2-107'/>
-<use x='1.146408' y='-12.13309' xlink:href='#g2-86'/>
-</g>
-<path d='M-13.98438 30.3867H-9.332' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M-18.51956 30.386719C-17.96097 30.523437-15.51565 31.308594-13.984405 32.16016V28.61328C-15.51565 29.464844-17.96097 30.25-18.51956 30.386719Z'/>
-<path d='M-18.51956 30.386719C-17.96097 30.523437-15.51565 31.308594-13.984405 32.16016V28.61328C-15.51565 29.464844-17.96097 30.25-18.51956 30.386719Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<path d='M-4.79688 30.386719C-5.35547 30.25-7.80078 29.464844-9.332032 28.61328V32.16016C-7.80078 31.308594-5.35547 30.523437-4.79688 30.386719Z'/>
-<path d='M-4.79688 30.386719C-5.35547 30.25-7.80078 29.464844-9.332032 28.61328V32.16016C-7.80078 31.308594-5.35547 30.523437-4.79688 30.386719Z' stroke='#000' fill='none' stroke-width='.79701' stroke-miterlimit='10'/>
-<g transform='matrix(1 0 0 1 -3.6726 54.0771)'>
-<use x='-20.162641' y='-12.13309' xlink:href='#g2-48'/>
-<use x='-15.181302' y='-12.13309' xlink:href='#g1-58'/>
-<use x='-12.413893' y='-12.13309' xlink:href='#g2-49'/>
-<use x='-4.111679' y='-12.13309' xlink:href='#g2-109'/>
-</g>
-</g>
-</svg>
-</figure>
-
-
-The following table shows the results of the tests:
+![[_attachments/1liv14T/1liv14T_p3_f3.png]]
+*Positive charge between capacitor plates*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 2014 1° Livello — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/spring"></span>
@@ -352,9 +261,9 @@ Il rapporto fra la costante elastica della molla B e quella della molla A vale
 
 <div class="qlang-split" data-lang="en"></div>
 
-The side chart shows the elongation relative to the equilibrium position for two springs A and B according to the force applied.
+The graph alongside shows the extension relative to the equilibrium position for two springs A and B as a function of the applied force.
 
-The ratio of the elastic constant of spring B to spring A is
+The ratio between the spring constant of spring B and that of spring A is
 
 - **A.** $4/9$
 - **B.** $2/3$
@@ -363,15 +272,9 @@ The ratio of the elastic constant of spring B to spring A is
 - **E.** $9/4$
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p3_f4.png]]
-Extension vs force graph for springs A and B
+*Extension vs force graph for springs A and B*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OII 2014 1° Livello — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/rope-string"></span>
@@ -403,9 +306,9 @@ Qual è il modulo della risultante $R$ di tutte le forze agenti sul blocco da 5 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A block of mass 3 kg shall be attached by a wire to another block of mass 5 kg to which a force $F$ is applied. The two blocks move horizontally with an acceleration of $1.8\ \text{m s}^{-2}$.
+A block of mass 3 kg is attached by a string to another block of mass 5 kg to which a force $F$ is applied. The two blocks move on a horizontal plane with an acceleration of $1.8\ \text{m s}^{-2}$.
 
-What is the formula for the $R$ result of all the force acting on the 5 kg block?
+What is the magnitude of the resultant $R$ of all the forces acting on the 5 kg block?
 
 - **A.** $3.6\ \text{N}$
 - **B.** $9.0\ \text{N}$
@@ -416,13 +319,7 @@ What is the formula for the $R$ result of all the force acting on the 5 kg block
 ![[_attachments/1liv14T/1liv14T_p4_f5.png]]
 *Two blocks connected by string on horizontal plane*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2014 1° Livello — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/slit,object/screen"></span>
@@ -450,22 +347,16 @@ Se si raddoppia la lunghezza d'onda della radiazione incidente, $\lambda$, e con
 
 <div class="qlang-split" data-lang="en"></div>
 
-By making a monochrome beam of light normally incide on a narrow slit, a figure (diffraction beam) consisting of maximum and minimum, i.e. a bright line in the center, flanked on both sides, by alternating clear and dark lines, is observed on a screen beyond the slit.
+When a beam of monochromatic light is incident normally on a narrow slit, a pattern (called a diffraction pattern) is observed on a screen beyond the slit, consisting of maxima and minima, that is, a bright line at the center, flanked, on both sides, by alternating bright and dark lines.
 
-If you double the wavelength of the incident radiation, $\lambda$, and simultaneously halve the cleft width, $a$, the whole figure...
+If the wavelength of the incident radiation is doubled, $\lambda$, and at the same time the slit width is halved, $a$, the entire pattern...
 
-- **A ** ... becomes four times narrower.
-- **B ** ... becomes twice as narrow.
-- **C ** ... remains unchanged.
-- **D ** ... becomes twice as wide.
-- **E ** ... becomes four times wider.
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+- **A.** ...becomes four times narrower.
+- **B.** ...becomes two times narrower.
+- **C.** ...remains unchanged.
+- **D.** ...becomes two times wider.
+- **E.** ...becomes four times wider.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 2014 1° Livello — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/order-of-magnitude-estimation,topic/geometric-optics,argomento/meccanica"></span>
@@ -497,9 +388,9 @@ A quale, tra queste distanze, va posta la moneta se si vuole che tale angolo $\a
 
 <div class="qlang-split" data-lang="en"></div>
 
-The angle of 1 second of arc (1") is very difficult to imagine. By removing a 1 Euro coin its "apparent" size, i.e. the angle $\alpha$ below which the coin is seen from the O point (the observer's eye), decreases.
+The angle of 1 arcsecond (1") is very difficult to imagine. By moving a 1 Euro coin away, its "apparent" size, that is, the angle $\alpha$ under which the coin is seen from point O (the observer's eye), decreases.
 
-Which of these distances should the coin be placed if the angle $\alpha$ is to be approximately one second in arc?
+At which of these distances must the coin be placed if one wants this angle $\alpha$ to be approximately one arcsecond?
 
 - **A.** $50\ \text{cm}$
 - **B.** $5\ \text{m}$
@@ -510,13 +401,7 @@ Which of these distances should the coin be placed if the angle $\alpha$ is to b
 ![[_attachments/1liv14T/1liv14T_p4_f6.png]]
 *Coin viewed from eye at distance, angle alpha*
 <!--fig:end-->
-**Topic:** [[Order-of-Magnitude Estimation]], [[Geometric Optics]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 2014 1° Livello — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/spring,object/cart"></span>
@@ -544,22 +429,16 @@ Trascurando l'attrito, quanta energia potenziale elastica viene immagazzinata ne
 
 <div class="qlang-split" data-lang="en"></div>
 
-The spring of a toy car is loaded by pushing the car backwards with an average force of 15 N for a distance of 0.5 m.
+The spring of a toy car is loaded by pushing the toy car backward with an average force of 15 N over a distance of 0.5 m.
 
-And, by the way, how much elastic potential energy is stored in the spring in this process?
+Neglecting friction, how much elastic potential energy is stored in the spring in this process?
 
 - **A.** $1.9\ \text{J}$
 - **B.** $3.8\ \text{J}$
 - **C.** $7.5\ \text{J}$
 - **D.** $30\ \text{J}$
 - **E.** $56\ \text{J}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 2014 1° Livello — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/meccanica,object/gas,object/tank-container"></span>
@@ -587,22 +466,16 @@ Se la temperatura del gas viene portata a $70^\circ\text{C}$ di quanto è variat
 
 <div class="qlang-split" data-lang="en"></div>
 
-A container with rigid walls contains a certain amount of a perfect gas at $20^\circ\text{C}$.
+A container with rigid walls contains a certain amount of an ideal gas at $20^\circ\text{C}$.
 
-If the gas temperature is brought to $70^\circ\text{C}$, how much is the pressure changed?
+If the temperature of the gas is brought to $70^\circ\text{C}$, by what percentage has its pressure changed?
 
 - **A.** $0.71\ \%$
 - **B.** $2.5\ \%$
 - **C.** $15\ \%$
 - **D.** $17\ \%$
 - **E.** $250\ \%$
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OII 2014 1° Livello — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
@@ -634,9 +507,9 @@ La sua velocità, al momento del distacco, vale almeno
 
 <div class="qlang-split" data-lang="en"></div>
 
-A stuntman on a motorcycle jumps through a channel three feet wide. The edge of the shore on which it lands is 0.5 m below the one from which it is detached (v. The Commission has not yet adopted a proposal.
+A stuntman on a motorcycle clears a 3.2 m wide canal with a jump. The edge of the bank on which he lands is 0.5 m below the one from which he takes off (see figure).
 
-His speed, at the time of detachment, is worth at least
+His speed, at the moment of takeoff, is at least
 
 - **A.** $2.0\ \text{m s}^{-1}$
 - **B.** $3.2\ \text{m s}^{-1}$
@@ -645,15 +518,9 @@ His speed, at the time of detachment, is worth at least
 - **E.** $10\ \text{m s}^{-1}$
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p4_f7.png]]
-Stuntman on motorcycle jumping across canal
+*Stuntman on motorcycle jumping across canal*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2014 1° Livello — Quesito 12" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/circuits,argomento/meccanica"></span>
@@ -679,20 +546,14 @@ Quanto tempo impiega una lampadina da 100 W per utilizzare 10 J di energia elett
 
 <div class="qlang-split" data-lang="en"></div>
 
-How long does a 100 W light bulb take to use 10 J of electricity?
+How long does a 100 W light bulb take to use 10 J of electrical energy?
 
 - **A.** $0.01\ \text{s}$
 - **B.** $0.1\ \text{s}$
 - **C.** $1\ \text{s}$
 - **D.** $10\ \text{s}$
 - **E.** $1000\ \text{s}$
-**Topic:** [[Newtonian Mechanics]], [[Circuits]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2014 1° Livello — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
@@ -720,22 +581,16 @@ Qual è l'intensità della forza di attrito agente sull'oggetto?
 
 <div class="qlang-split" data-lang="en"></div>
 
-When applying a horizontal force of $F = 12\ \text{N}$ to an object placed on a horizontal plane, it does not move due to friction.
+Applying a horizontal force of magnitude $F = 12\ \text{N}$ to an object placed on a horizontal plane, it does not move due to friction.
 
-What is the intensity of the friction force on the object?
+What is the magnitude of the friction force acting on the object?
 
 - **A.** $0$
 - **B.** Greater than 0 but less than 12 N
 - **C.** $12\ \text{N}$
 - **D.** Greater than 12 N
-- **E.** It cannot be calculated because neither the object's weight nor the friction coefficient is known.
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+- **E.** It cannot be calculated because neither the weight of the object nor the coefficient of friction is known.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2014 1° Livello — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/pulley,object/block"></span>
@@ -767,7 +622,7 @@ Qual è il lavoro fatto dalla forza d'attrito?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a cleaning tool used to lift a block weighing 72 N by 5 m. For this purpose a force $F$ shall be applied, which shall perform a 400 J work. At the beginning and at the end of the lift, the block is still.
+The figure shows a pulley used to lift a block of weight 72 N by 5 m. For this purpose, a force $F$ is applied which does 400 J of work. At the beginning and at the end of the lifting, the block is at rest.
 
 What is the work done by the friction force?
 
@@ -778,15 +633,9 @@ What is the work done by the friction force?
 - **E.** $-760\ \text{J}$
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p5_f8.png]]
-The following table shows the number of units of the vehicle:
+*Pulley system lifting a block*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OII 2014 1° Livello — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electromagnetic-induction,argomento/meccanica,object/coil"></span>
@@ -814,22 +663,16 @@ Quale dei grafici seguenti rappresenta meglio l'intensità della corrente indott
 
 <div class="qlang-split" data-lang="en"></div>
 
-A circular metallic spiral descends vertically at a constant speed and crosses a region where a horizontal and uniform magnetic field is located; during motion the axis of the spiral remains parallel to the magnetic field.
+A circular metal loop descends vertically at constant speed and passes through a region in which there is a horizontal and uniform magnetic field; during the motion the axis of the loop remains parallel to the magnetic field.
 
-Which of the following graphs best represents the intensity of the current induced in the spire as time passes between the moment the spire begins to enter the magnetic field region and the moment it completely exits it?
+Which of the following graphs best represents the intensity of the induced current in the loop as a function of time, between the instant in which the loop begins to enter the region of the magnetic field and the one in which it exits it completely?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p5_f9.png]]
-The following table shows the following:
+*Graphs of induced current vs time options*
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OII 2014 1° Livello — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica"></span>
@@ -855,20 +698,14 @@ Qual è la potenza media sviluppata da un motore quando solleva una massa di 400
 
 <div class="qlang-split" data-lang="en"></div>
 
-What is the average power output of an engine when lifting a mass of 400 kg at a constant speed for a height of 10 m in 8 seconds? (the losses due to friction are ignored)
+What is the average power developed by a motor when it lifts a mass of 400 kg at constant speed to a height of 10 m in 8 s? (ignore losses due to friction)
 
 - **A.** $320\ \text{W}$
 - **B.** $500\ \text{W}$
 - **C.** $4.9\ \text{kW}$
 - **D.** $9.8\ \text{kW}$
 - **E.** $32\ \text{kW}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 2014 1° Livello — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/order-of-magnitude-estimation,topic/astrophysics,argomento/meccanica,object/electron,object/star"></span>
@@ -901,13 +738,7 @@ What is the order of magnitude of the number of electrons in the Sun?
 - **C.** $10^{60}$
 - **D.** $10^{63}$
 - **E.** $10^{66}$
-**Topic:** [[Order-of-Magnitude Estimation]], [[Astrophysics]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Electron (object)|Electron]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="OII 2014 1° Livello — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/inclined-plane"></span>
@@ -935,22 +766,16 @@ Qual è la velocità del blocco alla fine del piano inclinato?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A block weighing 3 kg slides from the top of a 1.5 m sloping floor. Its acceleration is $3.8\ \text{m s}^{-2}$.
+A 3 kg block slides starting from rest from the top of a 1.5 m long inclined plane. Its acceleration is $3.8\ \text{m s}^{-2}$.
 
-What is the speed of the block at the end of the slope?
+What is the speed of the block at the end of the inclined plane?
 
 - **A.** $2.4\ \text{m s}^{-1}$
 - **B.** $3.4\ \text{m s}^{-1}$
 - **C.** $4.7\ \text{m s}^{-1}$
 - **D.** $5.1\ \text{m s}^{-1}$
-- **E.** It cannot be calculated because the plane slope is not known and it is not known whether there is friction.
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+- **E.** It cannot be calculated because the inclination of the plane is not known and it is not known whether there is friction.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="OII 2014 1° Livello — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/planet"></span>
@@ -980,20 +805,14 @@ Se viene portato ad un'altezza pari a due raggi terrestri sopra il livello del s
 
 An object weighs 100 N at ground level.
 
-If it is brought to a height of two Earth rays above the ground, its weight becomes
+If it is taken to a height equal to two Earth radii above ground level, its weight becomes
 
 - **A.** $0$
 - **B.** $11\ \text{N}$
 - **C.** $25\ \text{N}$
 - **D.** $50\ \text{N}$
 - **E.** $300\ \text{N}$
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="OII 2014 1° Livello — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica"></span>
@@ -1021,22 +840,16 @@ Quanto vale l'intensità media della forza che agisce sull'auto per fermarla?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A 1200 kg car travelling at $10\ \text{m s}^{-1}$ hits a tree and stops abruptly at $0.10\ \text{s}$.
+A 1200 kg car traveling at a speed of $10\ \text{m s}^{-1}$ hits a tree and stops abruptly in $0.10\ \text{s}$.
 
-What is the average intensity of the force acting on the car to stop it?
+What is the average magnitude of the force acting on the car to stop it?
 
 - **A.** $1.2 \times 10^{2}\ \text{N}$
 - **B.** $1.2 \times 10^{3}\ \text{N}$
 - **C.** $1.2 \times 10^{4}\ \text{N}$
 - **D.** $1.2 \times 10^{5}\ \text{N}$
 - **E.** $1.2 \times 10^{6}\ \text{N}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="OII 2014 1° Livello — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/capacitor,object/resistor,object/switch"></span>
@@ -1068,26 +881,20 @@ Subito dopo la chiusura dell'interruttore, la corrente che scorre nel circuito �
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit shown the resistance is $R = 5\ \Omega$ and the capacitors have capacities $C$ and $2C$, with $C = 2\ \text{nF}$; the initial charge of both capacitors is $Q = 0.8\ \text{nC}$, in the direction indicated.
+In the circuit in the figure, the resistance is $R = 5\ \Omega$ and the capacitors have capacitance $C$ and $2C$, with $C = 2\ \text{nF}$; the initial charge of both capacitors is $Q = 0.8\ \text{nC}$, in the direction indicated.
 
-As soon as the switch is closed, the current flowing in the circuit is
+Immediately after the switch is closed, the current flowing in the circuit is
 
-- **A ** 120 mA, moving at a time
-- **B.** 120 mA, heading against the clock
-- **C ** 40 mA, in the direction of the clock
-- ** D ** 40 mA, moving against the clock
+- **A.** 120 mA, in the clockwise direction
+- **B.** 120 mA, in the counterclockwise direction
+- **C.** 40 mA, in the clockwise direction
+- **D.** 40 mA, in the counterclockwise direction
 - **E.** None of the above
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p6_f10.png]]
 *RC circuit with two capacitors and switch*
 <!--fig:end-->
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="OII 2014 1° Livello — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
@@ -1178,22 +985,16 @@ Qual è il rapporto tra il tempo di caduta della pallina nera e di quella bianca
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two balls, one white and one black, are thrown horizontally: the first from a height $h$ relative to the ground, with speed $v_0$, the second from a height $4h$ with speed $2v_0$; the air resistance is neglected.
+Two balls, one white and one black, are thrown horizontally: the first from a height $h$ with respect to the ground, with speed $v_0$, the second from a height $4h$ with speed $2v_0$; air resistance is to be neglected.
 
-What's the relationship between the time the black ball falls and the white ball?
+What is the ratio between the fall time of the black ball and that of the white ball?
 
 - **A.** $\dfrac{1}{4}$
 - **B.** $\dfrac{1}{2}$
 - **C.** $1$
 - **D.** $2$
 - **E.** $4$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="OII 2014 1° Livello — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/lens"></span>
@@ -1221,22 +1022,16 @@ Quale dei seguenti grafici rappresenta la relazione tra la dimensione trasversal
 
 <div class="qlang-split" data-lang="en"></div>
 
-Consider the actual image formed by a thin lens that converges to the object's changing position.
+Consider the real image formed by a thin converging lens as the position of the object varies.
 
-Which of the following graphs represents the relationship between the cross-sectional dimension $S$ of the image and its distance $q$ from the lens?
+Which of the following graphs represents the relationship between the transverse size $S$ of the image and its distance $q$ from the lens?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p7_f12.png]]
 *Graphs of image size S vs distance q from lens*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="OII 2014 1° Livello — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/ball,object/projectile"></span>
@@ -1270,11 +1065,11 @@ NOTA: il disegno non intende fornire una riproduzione in scala della situazione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The side drawing shows a 170 cm tall student throwing a tennis ball from a paddle, with an initial speed of $v_0 = 12\ \text{m s}^{-1}$, tilted upwards by $30°$. At the time of the throw the ball is just above the girl's head and at the time of impact with the ground, the ball's speed is $18\ \text{m s}^{-1}$.
+The drawing alongside shows a 170 cm tall female student throwing a tennis ball from an embankment, with an initial speed of magnitude $v_0 = 12\ \text{m s}^{-1}$, inclined at $30°$ upward. At the moment of the throw the ball is just above the girl's head, and at the moment of impact with the ground, the ball's speed has a magnitude of $18\ \text{m s}^{-1}$.
 
-If the air resistance can be neglected, what is the height of the landfill?
+If air resistance can be neglected, what is the height of the embankment?
 
-NOTE: The drawing is not intended to provide a scale reproduction of the situation.
+NOTE: the drawing is not intended to provide a to-scale reproduction of the situation.
 
 - **A.** $1.3\ \text{m}$
 - **B.** $2.5\ \text{m}$
@@ -1285,13 +1080,7 @@ NOTE: The drawing is not intended to provide a scale reproduction of the situati
 ![[_attachments/1liv14T/1liv14T_p7_f13.png]]
 *Student throwing ball from embankment*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="OII 2014 1° Livello — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1319,22 +1108,16 @@ Dopo quanto tempo i veicoli si incroceranno?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two cars, A and B, are located at a distance $d = 400\ \text{m}$ and approach each other by travelling in opposite directions along a straight road. The vehicles shall be moved at a speed of $30\ \text{m s}^{-1}$ and $20\ \text{m s}^{-1}$ respectively.
+Two cars, A and B, are at a distance $d = 400\ \text{m}$ and approach each other traveling in opposite directions along a straight road. The vehicles move respectively with a speed of $30\ \text{m s}^{-1}$ and of $20\ \text{m s}^{-1}$.
 
-How long before the vehicles cross?
+After how much time will the vehicles cross each other?
 
 - **A.** $8.0\ \text{s}$
 - **B.** $13.0\ \text{s}$
 - **C.** $20.0\ \text{s}$
 - **D.** $30.0\ \text{s}$
 - **E.** $40.0\ \text{s}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="OII 2014 1° Livello — Quesito 27" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1362,22 +1145,16 @@ In quale dei cinque casi mostrati in figura la risultante delle due forze ha la 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows two forces of 4 N and 6 N being applied simultaneously to a body at different points and directions.
+The figure shows two forces of 4 N and 6 N that are applied simultaneously to a body at different points and in different directions.
 
-In which of the five cases shown in the figure the resulting two forces is the most intense?
+In which of the five cases shown in the figure does the resultant of the two forces have the maximum magnitude?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p7_f14.png]]
 *Five cases of two force vectors applied to a body*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="OII 2014 1° Livello — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica"></span>
@@ -1409,7 +1186,7 @@ La differenza di fase tra le due onde è
 
 <div class="qlang-split" data-lang="en"></div>
 
-The side diagram represents two waves, A and B, propagating from left to right.
+The diagram alongside represents two waves, A and B, propagating from left to right.
 
 The phase difference between the two waves is
 
@@ -1422,13 +1199,7 @@ The phase difference between the two waves is
 ![[_attachments/1liv14T/1liv14T_p8_f15.png]]
 *Two waves A and B propagating, phase comparison*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="OII 2014 1° Livello — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1454,20 +1225,14 @@ Quale dei seguenti grafici posizione–tempo può rappresentare il moto di un og
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which of the following time position graphs can represent the motion of an object moving along a straight line at a speed that increases in the mode over time?
+Which of the following position–time graphs can represent the motion of an object moving along a straight line with speed that increases in magnitude over time?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p8_f16.png]]
-The following table shows the results of the calculations for the position-time graph options for accelerating object:
+*Position-time graph options for accelerating object*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="OII 2014 1° Livello — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/conducting-sphere"></span>
@@ -1495,22 +1260,16 @@ Come effetto di questa operazione la forza elettrostatica agente tra di esse cam
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two metal spheres, identical and very small in relation to their distance, are supported by two insulating supports. The spheres are loaded with a load of $+1.0\ \mu\text{C}$ and $+3.0\ \mu\text{C}$ respectively. Taking care to touch only the supports, the two spheres are brought into contact and then returned to their starting position.
+Two metal spheres, identical and very small compared to their distance, are supported by two insulating supports. The spheres are charged respectively with a charge of $+1.0\ \mu\text{C}$ and $+3.0\ \mu\text{C}$. Taking care to touch only the supports, the two spheres are brought into contact and then returned to their starting position.
 
-As a result of this operation the electrostatic force between them changes from the initial value of 27 mN to the value of
+As an effect of this operation, the electrostatic force acting between them changes from the initial value 27 mN to the value
 
 - **A.** $14\ \text{mN}$
 - **B.** $18\ \text{mN}$
 - **C.** $20\ \text{mN}$
 - **D.** $36\ \text{mN}$
 - **E.** $140\ \text{mN}$
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="OII 2014 1° Livello — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/magnetism,topic/electromagnetism,argomento/meccanica,object/point-charge"></span>
@@ -1538,22 +1297,16 @@ La carica elettrica dello ione vale
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a certain region of space the magnetic field intensity is 0.1 T. A positive ion, moving at a speed of $2 \times 10^6\ \text{m s}^{-1}$ in the direction perpendicular to the magnetic field, enters this region and is subjected to the action of a force of intensity $3.2 \times 10^{-14}\ \text{N}$.
+In a certain region of space the magnetic field strength is 0.1 T. A positive ion, which is moving at a speed of $2 \times 10^6\ \text{m s}^{-1}$ in a direction perpendicular to the magnetic field, enters this region and experiences a force of magnitude $3.2 \times 10^{-14}\ \text{N}$.
 
-The electric charge of the ion is valid
+The electric charge of the ion is
 
 - **A.** $1.6 \times 10^{-21}\ \text{C}$
 - **B.** $6.4 \times 10^{-21}\ \text{C}$
 - **C.** $1.6 \times 10^{-19}\ \text{C}$
 - **D.** $6.4 \times 10^{-19}\ \text{C}$
 - **E.** $1.6 \times 10^{-9}\ \text{C}$
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="OII 2014 1° Livello — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/wire"></span>
@@ -1581,22 +1334,16 @@ Quale dei seguenti grafici mostra meglio la relazione fra differenza di potenzia
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph on the right shows the relationship between the potential difference to the heads of a metallic conductor and the current passing through it when the conductor is at uniform temperature $T_1$.
+The graph on the right shows the relationship between the potential difference across a metallic conductor and the current flowing through it when the conductor is at a uniform temperature $T_1$.
 
-Which of the following graphs best shows the relationship between potential and current difference when the same conductor is kept at uniform temperature $T_2 > T_1$?
+Which of the following graphs best shows the relationship between potential difference and current when the same conductor is kept at a uniform temperature $T_2 > T_1$?
 
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p8_f17.png]]
 *V-I graphs for conductor at different temperatures*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q33" data-atom="q33" data-title="OII 2014 1° Livello — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica"></span>
@@ -1628,9 +1375,9 @@ Qual è la frequenza dell'onda?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows the time-switching of a particle of a uniform medium when it is traversed by a wave.
+The graph shows the displacement as a function of time of a particle in a uniform medium when a wave passes through it.
 
-What's the frequency of the wave?
+What is the frequency of the wave?
 
 - **A.** $5 \times 10^{-2}\ \text{Hz}$
 - **B.** $2 \times 10^{-1}\ \text{Hz}$
@@ -1639,15 +1386,9 @@ What's the frequency of the wave?
 - **E.** $5 \times 10^{1}\ \text{Hz}$
 <!--fig:start-->
 ![[_attachments/1liv14T/1liv14T_p9_f18.png]]
-The measurement of the distance between the two particles is given by the measurement of the distance between the two particles.
+*Displacement vs time graph of a wave particle*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="OII 2014 1° Livello — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/conservation-of-energy,topic/conservation-of-momentum,argomento/meccanica,object/spring,object/block"></span>
@@ -1683,30 +1424,24 @@ Quali sono corrette?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A body A is resting on a frictionless horizontal table and can rotate, always without friction, around its fixed point. It is connected  via an ideal spring  a second body B, also resting on the same table. The body B is free to rotate (not necessarily in a circular orbit) around A.
+A body A rests on a frictionless horizontal table and can rotate, also without friction, about a fixed point of it. Connected to it — by means of an ideal spring — is a second body B, also resting on the same table. Body B is free to rotate (not necessarily on a circular orbit) around A.
 
-During the motion of body B, the motion of the quantities $E$, $\vec{p}$ and $\vec{L}$ is studied, which are the mechanical energy, the amount of motion and the total angular momentum of the system of the two bodies, respectively, calculated from the position of A.
+During the motion of body B, the behavior of the quantities $E$, $\vec{p}$ and $\vec{L}$ is studied, which are respectively the mechanical energy, the momentum and the total angular momentum of the system of the two bodies, the latter calculated with respect to the position of A.
 
-The following statements shall be considered:
+Consider the following statements:
 
-1  The mechanical energy of the system is conserved.
-2  The amount of motion in the system is retained.
-3  The angular moment of the system, calculated from the position of A, is conserved.
+1 – The mechanical energy of the system is conserved.
+2 – The momentum of the system is conserved.
+3 – The angular momentum of the system, calculated with respect to the position of A, is conserved.
 
-Which ones are correct?
+Which are correct?
 
-- **A ** None of the three.
-- **B.** Only the 1.
-- **C.** Only the 2.
-- **D.** Only the 1 and 3.
-- All three.
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+- **A.** None of the three.
+- **B.** Only 1.
+- **C.** Only 2.
+- **D.** Only 1 and 3.
+- **E.** All three.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="OII 2014 1° Livello — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/heat-engine"></span>
@@ -1734,7 +1469,7 @@ Quanto calore assorbe?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A Carnot engine operates between $t_1 = 50^\circ\text{C}$ and $t_2 = 300^\circ\text{C}$ temperatures. In each cycle, it develops 6.1 kJ of work.
+A Carnot engine operates between the temperatures $t_1 = 50^\circ\text{C}$ and $t_2 = 300^\circ\text{C}$. In each cycle it develops 6.1 kJ of work.
 
 How much heat does it absorb?
 
@@ -1743,13 +1478,7 @@ How much heat does it absorb?
 - **C.** $Q = 7.2\ \text{kJ}$
 - **D.** $Q = 14\ \text{kJ}$
 - **E.** $Q = 99\ \text{kJ}$
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="OII 2014 1° Livello — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/modern-quantum-physics,argomento/meccanica,object/photon,object/electron"></span>
@@ -1781,26 +1510,20 @@ Se la stessa superficie viene investita da un fascio luminoso della stessa frequ
 
 <div class="qlang-split" data-lang="en"></div>
 
-The surface of a certain metal is struck by a light beam of appropriate frequency $f$ and emits electrons. The maximum speed and the maximum kinetic energy of the emitted electrons are $v$ and $E$ respectively.
+The surface of a certain metal is struck by a light beam of suitable frequency $f$ and emits electrons. The maximum speed and the maximum kinetic energy of the emitted electrons are respectively $v$ and $E$.
 
-If the same surface is struck by a beam of light of the same frequency but of double light intensity, which of the following is correct?
+If the same surface is struck by a light beam of the same frequency, but with double light intensity, which of the following statements are correct?
 
-1  A double number of electrons is emitted per second.
-2  The fastest electron speed is $\sqrt{2}\,v$.
-3  The kinetic energy of the fastest electrons is $2E$.
+1 – Twice as many electrons are emitted per second.
+2 – The speed of the fastest electrons is $\sqrt{2}\,v$.
+3 – The kinetic energy of the fastest electrons is $2E$.
 
-- **A ** Only the 1.
-- **B ** Only the 2.
-- **C ** Only the 3.
-- **D.** Only the 1 and 2.
-- All three.
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+- **A.** Only 1.
+- **B.** Only 2.
+- **C.** Only 3.
+- **D.** Only 1 and 2.
+- **E.** All three.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q37" data-atom="q37" data-title="OII 2014 1° Livello — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica,object/cart"></span>
@@ -1828,22 +1551,16 @@ Qual è la velocità dei due carrelli dopo l'urto?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two wagons are on a horizontal railway with negligible friction. The first, which has mass $m_1$ and moves at speed $v_0$, hits the second, initially stationary, which has mass $m_2 = 9m_1$ and remains attached to it.
+Two carts are on a horizontal track with negligible friction. The first, which has mass $m_1$ and moves with velocity $v_0$, collides with the second, initially at rest, which has mass $m_2 = 9m_1$ and remains attached to it.
 
-What's the speed of the two cars after the collision?
+What is the velocity of the two carts after the collision?
 
 - **A.** $v_0$
 - **B.** $\dfrac{9}{10}\,v_0$
 - **C.** $\dfrac{8}{9}\,v_0$
 - **D.** $\dfrac{1}{9}\,v_0$
 - **E.** $\dfrac{1}{10}\,v_0$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q38" data-atom="q38" data-title="OII 2014 1° Livello — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
@@ -1874,9 +1591,9 @@ Se si considerano trascurabili le dispersioni di calore, la temperatura del ling
 
 <div class="qlang-split" data-lang="en"></div>
 
-A bulk lead bulk $m = 1\ \text{kg}$ is brought to a temperature of $80^\circ\text{C}$ and then immersed in 2 L of water at $20^\circ\text{C}$.
+A lead ingot of mass $m = 1\ \text{kg}$ is brought to the temperature of $80^\circ\text{C}$ and then immersed in 2 L of water at $20^\circ\text{C}$.
 
-If heat dissipation is considered negligible, the temperature of the bulk, once the equilibrium is established, is
+If heat losses are considered negligible, the temperature of the ingot, once equilibrium is established, is
 
 - **A.** $21^\circ\text{C}$
 - **B.** $28^\circ\text{C}$
@@ -1886,13 +1603,7 @@ If heat dissipation is considered negligible, the temperature of the bulk, once 
 ![[_attachments/1liv14T/1liv14T_p10_f19.png]]
 *Two speakers and interference pattern with points P and R*
 <!--fig:end-->
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q39" data-atom="q39" data-title="OII 2014 1° Livello — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
@@ -1920,22 +1631,16 @@ Quale tra questi due metodi consente di raffreddare di più la bevanda?
 
 <div class="qlang-split" data-lang="en"></div>
 
-To cool a drink, 10 g of water at $0^\circ\text{C}$ or 10 g of ice at $0^\circ\text{C}$ may be added.
+To cool a drink, one can add 10 g of water at $0^\circ\text{C}$ or 10 g of ice also at $0^\circ\text{C}$.
 
-Which of these two methods makes the drink cooler?
+Which of these two methods allows the drink to be cooled more?
 
-The second is because the ice melts slowly and the drink stays cool longer.
-- MSK1/>B The second, because ice absorbs energy.
-- **C.** The second is because the ice remains on the surface and this reduces the warming by the environment.
-- **D.** The second, because the melting ice water goes down to the bottom of the glass and ensures a more homogeneous cooling.
+- **A.** The second, because the ice melts slowly and the drink stays cool longer.
+- **B.** The second, because the ice absorbs energy.
+- **C.** The second, because the ice stays on the surface and this reduces heating from the environment.
+- **D.** The second, because the meltwater from the ice goes down to the bottom of the glass and ensures more uniform cooling.
 - **E.** The two methods are equivalent.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
 
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="OII 2014 1° Livello — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/wave-optics,argomento/meccanica"></span>
@@ -1965,20 +1670,17 @@ La frequenza del suono emesso dagli altoparlanti vale
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two identical $L_1$ and $L_2$ speakers emit audible sound of the same frequency and are in phase with each other. This creates a phenomenon of interference.
+Two identical loudspeakers $L_1$ and $L_2$ emit an audible sound of the same frequency and are in phase with each other. In this way, an interference phenomenon is generated.
 
-The P-point, at the same distance from both speakers, is the maximum intensity. Moving away from P, another maximum is first encountered in point R, with $L_1R = 5.6\ \text{m}$ and $L_2R = 5.3\ \text{m}$.
+At point P, located at the same distance from both loudspeakers, there is an intensity maximum. Moving away from P, one encounters another maximum for the first time at point R, with $L_1R = 5.6\ \text{m}$ and $L_2R = 5.3\ \text{m}$.
 
-The frequency of sound emitted by the speakers is valid
+The frequency of the sound emitted by the loudspeakers is
 
 - **A.** $8.8 \times 10^{-4}\ \text{Hz}$
 - **B.** $3.1 \times 10^{-1}\ \text{Hz}$
 - **C.** $1.0 \times 10^{2}\ \text{Hz}$
 - **D.** $1.1 \times 10^{3}\ \text{Hz}$
 - **E.** $3.7 \times 10^{3}\ \text{Hz}$
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1i-kc7UYbElDVaYQ46iw7HVy2Op9wdbE8/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1FHdr56EZDm2YzSu5jRmrz0bo4NLfd25F/view)
+
+

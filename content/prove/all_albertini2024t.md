@@ -68,19 +68,13 @@ Unità di misura: m/s. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official data for the year 2014:
+**Ancient meteorites**
 
-During the first millions of years of the solar system's life, the Earth was heavily bombarded by meteorites. Assuming a meteorite of $5.3\times10^3\,\text{kg}$, starting from a stationary point at a distance almost infinite from our planet, fell to Earth, how quickly did it hit the earth's surface?
+During the first millions of years of the Solar System's life, the Earth was intensely bombarded by meteorites. Assuming that a meteorite of $5.3\times10^3\,\text{kg}$, starting from rest at a practically infinite distance from our planet, fell onto the Earth, with what speed did it impact the Earth's surface?
 
-The following shall be added: Precision required: 0.5%.
+Unit of measurement: m/s. Required precision: 0.5%.
 
-**Topic:** [[Gravitation]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KzKrPRfAznVXeniZ35S9ouOyfDddg3y3/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="GaS 2024 Allenamento Online — Problema 3" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/mono,topic/geometric-optics,argomento/meccanica"></span>
@@ -105,19 +99,13 @@ Unità di misura: m. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages:
+**Boat trip**
 
-In the evening, after a boat trip on the lake, a friend of yours realizes that he has lost his house keys. To help him, turn on your laser pen, point it toward the water, whose refractive index is $1.33$, and see a reflection of light from a glittering object on the sandy bottom. Hoping it's the keys, you want to calculate how far away they are. If the angle between the incident light beam and the perpendicular to the air-water interface is $60^\circ$, the water is deep $6.2\,\text{m}$, and you point the pen at a horizontal distance of $2.5\,\text{m}$ from the point where the light touches the lake surface, what is the horizontal distance between your position and the keys at the bottom?
+In the evening, after a boat trip on the lake, a friend of yours realizes he has lost his house keys. To help him, you turn on your laser pointer, point it toward the water, whose refractive index is $1.33$, and you see a reflection of light coming from a shiny object on the sandy bottom. Hoping it is the keys, you want to calculate at what distance they are. If the angle between the incident light ray and the perpendicular to the air-water interface is $60^\circ$, the water is $6.2\,\text{m}$ deep, and you point the pen at a horizontal distance of $2.5\,\text{m}$ from the point where the light touches the surface of the lake, what is the horizontal distance between your position and the keys on the bottom?
 
-Unit of measurement: m. Precision required: 0.5%.
+Unit of measurement: m. Required precision: 0.5%.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KzKrPRfAznVXeniZ35S9ouOyfDddg3y3/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="GaS 2024 Allenamento Online — Problema 4" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/bi,topic/electrostatics,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/point-charge"></span>
@@ -220,19 +208,13 @@ Unità di misura: m/s. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
+**Commissions**
 
-To get from home to school, Marco moves at a constant speed of $6\,\text{km/h}$ for $20$ minutes. It then stops for $5$ minutes to buy the snack from the oven and travels the last kilometre with a speed of $4\,\text{km/h}$. What's Marco's average speed on the whole route?
+To go from home to school, Marco moves at a constant speed of $6\,\text{km/h}$ for $20$ minutes. He then stops for $5$ minutes to buy a snack from the baker and covers the last kilometer of distance at a speed of $4\,\text{km/h}$. What is Marco's average speed over the entire journey?
 
-The following shall be added: Precision required: 0.5%.
+Unit of measurement: m/s. Required precision: 0.5%.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1KzKrPRfAznVXeniZ35S9ouOyfDddg3y3/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZWmHDFCOaXFlo-6BnQ1F_p4XoTr2Og7K/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="GaS 2024 Allenamento Online — Problema 7" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/bi,topic/electromagnetic-induction,topic/circuits,argomento/meccanica,object/rod,object/capacitor"></span>

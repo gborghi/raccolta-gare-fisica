@@ -1351,20 +1351,14 @@ Thermal diffusivity of a material is related to the speed with which thermal equ
 
 <div class="qlang-split" data-lang="it"></div>
 
-La diffusività termica di un materiale è correlata alla velocità con cui si raggiunge l'equilibrio termale. La diffusività termica $a = \dfrac{k}{\rho c}$, dove $k$ è la conducibilità termica, $\rho$ è la densità e $c$ è la capacità termica specifica del materiale. Vessel of thick walls and bottom, made of which of the following metals/alloys — aluminium ($k$ = 385 W/m·K; $\rho$ = 2.7 g/cc; $c$ = 0.9 J/g·°C all at room temperature) or copper ($k$ = 205 W/m·K; $\rho$ = 8.96 g/cc; $c$ = 0.385 J/g·°C) or steel ($k$ = 50.2 W/m·K; $\rho$ = 7.75 g/cc; $c$ = 0.42 J/g·°C) — is more likely to develop cracks if cold water is suddenly poured in after the vessel has been heated to 400 kelvin. Le altre condizioni, come la dimensione, la forma e lo spessore delle pareti e il fondo dei vasi, restano uguali.
+La diffusività termica di un materiale è legata alla velocità con cui si raggiunge l'equilibrio termico. La diffusività termica $a = \dfrac{k}{\rho c}$ dove $k$ è la conduttività termica, $\rho$ è la densità e $c$ è il calore specifico del materiale. Un recipiente con pareti e fondo spessi, fatto di quale dei seguenti metalli/leghe — alluminio ($k$ = 385 W/m·K; $\rho$ = 2,7 g/cc; $c$ = 0,9 J/g·°C tutto a temperatura ambiente) o rame ($k$ = 205 W/m·K; $\rho$ = 8,96 g/cc; $c$ = 0,385 J/g·°C) o acciaio ($k$ = 50,2 W/m·K; $\rho$ = 7,75 g/cc; $c$ = 0,42 J/g·°C) — è più probabile che sviluppi crepe se vi si versa improvvisamente acqua fredda dopo che il recipiente è stato riscaldato a 400 kelvin. Le altre condizioni come dimensione, forma e spessore delle pareti e del fondo dei recipienti rimangono le stesse.
 
-- a) alluminio
-- b) Acciaio
-- c) rame
+- (a) Alluminio
+- (b) Acciaio
+- (c) Rame
 - (d) Tutti e tre ugualmente probabili
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ZaPRtUZ0rJCfN2NJHS1yNRRilq9P0gOb/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IAjcKoWdNLOg4p9VXIbRL8V2jC0kUAJr/view)
-
 
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="NSEA 2024 — Problema 35" data-tags="nazione/india,tipo-gara/individuale,livello/qualifica,difficolta/3,multidisciplina/mono,topic/wave-optics,argomento/ottica"></span>

@@ -58,17 +58,11 @@ Usa la striscia di plastica come se fosse una normale bilancia a bracci, e la pa
 
 <div class="qlang-split" data-lang="en"></div>
 
-Use the plastic strip as if it were a normal arm balance, and the rest of the aluminum foil, which you can cut and fold as you please. By means of the sewing point, of mass $0.198 \pm 0.002$ g, it determines the mass (in grams) of each square centimetre of aluminium foil, assuming that it is uniform in thickness. How much is it worth? How did you do?
+Use the plastic strip as if it were a normal balance scale, and the remaining part of the aluminum foil, which you can cut and fold as you see fit. By means of the staple, of mass $0.198 \pm 0.002$ g, determine the mass (in grams) of each square centimeter of the aluminum foil, assuming that it has uniform thickness. What is it worth? How did you proceed?
 
-(Questions 1, 2  40 points. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. 1)
+(Questions 1, 2 – 40 points. Answers on p. 1)
 
-**Topic:** [[Newtonian Mechanics]], [[Elasticity & Materials]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Error Propagation (metodo)|Error Propagation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1v41jP5F22XWBHF5b4LxwmwM0uHHwpeRl/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2013 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/circuits,object/coil,object/resistor,object/battery"></span>
@@ -120,17 +114,11 @@ Dai tuoi dati sperimentali, ricava una formula che rappresenti la relazione tra 
 
 <div class="qlang-split" data-lang="en"></div>
 
-From your experimental data, it draws a formula that represents the relationship between the electrodynamic force intensity $\vec{F}$ and the current intensity $I$. If constants appear in the formula, specify the value and unit of measurement.
+From your experimental data, derive a formula that represents the relationship between the magnitude of the electrodynamic force $\vec{F}$ and the magnitude of the current $I$. If any constants appear in the formula, specify their value and unit of measurement.
 
-(Questions 3, 4  80 points. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. 2 e 3)
+(Questions 3, 4 – 80 points. Answers on pages 2 and 3)
 
-**Topic:** [[Electromagnetism]], [[Magnetism]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1v41jP5F22XWBHF5b4LxwmwM0uHHwpeRl/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 2013 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/circuits,object/coil,object/battery"></span>
@@ -250,13 +238,10 @@ Individua qualche accorgimento per rendere più agevole la misurazione della cor
 
 <div class="qlang-split" data-lang="en"></div>
 
-Identify some approaches to make it easier to measure the current $I$ needed for balance. You have thicknesses of plastic and paper at your disposal, which can help you. Briefly describe how you did it.
+Identify some expedients to make the measurement of the current $I$ required for equilibrium easier. You have available plastic and paper shims, which can help you. Briefly describe how you proceeded.
 
-(Questions 5, 6, 7, 8  80 points. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. 4)
+(Questions 5, 6, 7, 8 – 80 points. Answers on p. 4)
 
-**Topic:** [[Electromagnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1v41jP5F22XWBHF5b4LxwmwM0uHHwpeRl/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
+
+

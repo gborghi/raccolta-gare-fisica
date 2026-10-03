@@ -571,11 +571,11 @@ An alien civilisation on a star far far away came to know about the Astronomy Ol
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Sezione C (domande analitiche  5 domande per un totale di 50 punti). **
+**Sezione C (quesiti analitici — 5 quesiti per un totale di 50 punti).**
 
-Una civiltà aliena su una stella lontana ha saputo dell'esame di Olimpiada Astronomica e ha voluto testare l'intelligenza degli studenti. Hanno inviato i seguenti due messaggi segreti codificati. - Li decodifichi.
+Una civiltà aliena su una stella molto molto lontana è venuta a conoscenza dell'Esame delle Olimpiadi di Astronomia e voleva mettere alla prova l'intelligenza degli studenti. Hanno inviato i seguenti due messaggi segreti in codice. Decifrali.
 
-A) Prima di tutto un messaggio illustrativo in bianco e nero. Lo trasmettevano sulle onde radio sotto forma di uno e zero. Scopri cosa dice la foto. [5]
+(a) Il primo è un messaggio pittorico in bianco e nero. Lo hanno inviato su onde radio sotto forma di uno e zeri. Scopri cosa dice l'immagine. [5]
 
 ```
 00000 00000 00000 00000 00000 00000 11111 01100 00100 00100 00011
@@ -584,16 +584,9 @@ A) Prima di tutto un messaggio illustrativo in bianco e nero. Lo trasmettevano s
 01001 11000 00000 00000 00000 00000 00000 000
 ```
 
-(b) Sorprendentemente, gli alieni sono anche abili in inglese e il seguente messaggio codificato è in realtà una frase in lingua inglese. Nella scheda delle risposte, scrivete la frase codificata e anche il vero significato di ogni alfabeto del codice. [5]
+(b) Sorprendentemente, gli alieni sono anche esperti in inglese e il seguente messaggio in codice è in realtà una frase in lingua inglese. Nel foglio delle risposte, scrivi la frase in codice e anche il vero significato di ogni lettera dell'alfabeto nel codice. [5]
 
-> "In caso di crisi di sicurezza, la Commissione non può decidere se la Commissione dovrà procedere alla procedura di controllo".
-
-**Topic:** [[Mathematics]], [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ylbegeOjDzqLAMwXYv7yr9gk3ZKiUIYR/view)
-
+> "Up tpmwf uif qsfwjpvt tvcrvftujpo uijol pg uif nfttbhf tfou cz uif bsfdjcp ufmftdpqf up bmjfot."
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="INAO Junior 2010 — Problema 16" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/mirror,object/lens"></span>
@@ -621,22 +614,15 @@ In the table below, the first column lists various optical phenomena / instrumen
 
 <div class="qlang-split" data-lang="it"></div>
 
-Nella tabella seguente, la prima colonna elenca vari fenomeni/strumenti ottici, e la riga superiore dà vari effetti ottici che possono aiutare a spiegarli. Nella scheda delle risposte, indicare (×) tutti gli effetti ottici che sono/sono coinvolti in ciascun fenomeno nella sua riga appropriata. [8]
+Nella tabella sottostante, la prima colonna elenca vari fenomeni / strumenti ottici, e la riga superiore fornisce vari effetti ottici che possono aiutare a spiegarli. Nel foglio delle risposte, spunta (×) tutti gli effetti ottici coinvolti in ciascun fenomeno nella riga appropriata. [8]
 
-➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️ ➡️  ➡️                                                                                                                                                                                                                                          
+| | Dispersione apprezzabile | Riflessione interna | Riflessione | Rifrazione | Diffusione |
 |---|---|---|---|---|---|
-# Il cielo blu # # e' il mio paese #
-# Mirage # # Mirage # # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # # Mirage # Mirage # # # # Mirage # Mirage # # Mirage # Mirage
-# Rainbow # # e' un'operazione che non è stata fatta. #
-# Il Specchio Convex Smooth #
-# Lenti concave spesse #
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ylbegeOjDzqLAMwXYv7yr9gk3ZKiUIYR/view)
-
+| Cielo blu | | | | | |
+| Miraggio | | | | | |
+| Arcobaleno | | | | | |
+| Specchio convesso liscio | | | | | |
+| Lente concava spessa | | | | | |
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="INAO Junior 2010 — Problema 17" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/3,multidisciplina/mono,topic/astrophysics,argomento/gravitazione-e-astrofisica,object/planet"></span>

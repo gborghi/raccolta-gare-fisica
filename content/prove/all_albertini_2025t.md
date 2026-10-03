@@ -31,19 +31,13 @@ Batman, a bordo della sua Bat-mobile relativistica in moto con velocità costant
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Bat-mobile relativistica**
+**Relativistic Bat-mobile**
 
-Batman, a bordo della sua Bat-mobile relativistica in moto con velocità costante di modulo $v$, sta inseguendo il suo acerrimo nemico Joker. It is located near a traffic intersection with a pedestrian-friendly button. The road is deserted, and Joker presses the button to turn the traffic light red for vehicles. Quale deve essere il valore di $v$ affinché Batman percepisca il semaforo come verde e non si fermi all'incrocio? The values for the red and green wavelengths $\lambda_R = 700\ \text{nm}$ and $\lambda_V = 570\ \text{nm}$ respectively shall be used.
+Batman, aboard his relativistic Bat-mobile moving with constant speed of magnitude $v$, is chasing his arch-enemy Joker. The latter is near an intersection whose traffic light is equipped with a button to facilitate pedestrian crossing. The street is deserted, and Joker presses the button so that the traffic light turns red for vehicles. What must the value of $v$ be for Batman to perceive the traffic light as green and not stop at the intersection? Use, as values for the wavelengths of red and green, respectively $\lambda_R = 700\ \text{nm}$ and $\lambda_V = 570\ \text{nm}$.
 
-*Unità di misura:* m/s. *Precisione richiesta:* 0.5%.
+*Unit of measurement:* m/s. *Required precision:* 0.5%.
 
-**Topic:** [[Special Relativity]], [[Oscillations & Waves]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jafZEnAtMT-bpgsq_0oYSupT0dwOOKyh/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1v6VqBCHxyqgD3SI3m2odm96aGq30PPcA/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1v6VqBCHxyqgD3SI3m2odm96aGq30PPcA/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="GaS 2025 Allenamento Quiz — Problema 2" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/mono,topic/circuits,argomento/meccanica,object/battery,object/resistor,object/wire,object/galvanometer"></span>
@@ -156,17 +150,11 @@ Chiara sta passeggiando quando vede una fontanella in piazza e decide di riempir
 
 **Bottle with the hole**
 
-Clara is walking when she sees a fountain in the square and decides to fill her empty plastic bottle with water (bottle height $h_0 = 32.6\ \text{cm}$, diameter of the circular bottle base $L = 8.2\ \text{cm}$). Dopo averla riempita, si accorge che c'è un foro alla base della bottiglia di raggio $r = 2\ \text{mm}$. How long does it take for the bottle to empty completely? It is assumed that the bottle is held in a vertical position for the entire duration of the emptying and that the lid has not been fully restarted.
+Chiara is walking when she sees a drinking fountain in the square and decides to fill her empty plastic bottle with water (height of the bottle $h_0 = 32.6\ \text{cm}$, diameter of the circular base of the bottle $L = 8.2\ \text{cm}$). After filling it, she notices that there is a hole at the base of the bottle with radius $r = 2\ \text{mm}$. How much time is needed for the bottle to empty completely? Assume that, throughout the entire duration of the emptying, the bottle is held still in a vertical position and that the cap has not been completely screwed back on.
 
-*Unità di misura:* s. *Precisione richiesta:* 0.5%.
+*Unit of measurement:* s. *Required precision:* 0.5%.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jafZEnAtMT-bpgsq_0oYSupT0dwOOKyh/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1v6VqBCHxyqgD3SI3m2odm96aGq30PPcA/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1v6VqBCHxyqgD3SI3m2odm96aGq30PPcA/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="GaS 2025 Allenamento Quiz — Problema 5" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/bi,topic/rotational-dynamics,topic/conservation-of-momentum,argomento/meccanica,object/rod,object/ball"></span>
@@ -653,11 +641,11 @@ Chiara ricava le altre due costanti elastiche e combinando opportunamente in ser
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Molle**
+**Springs**
 
-Chiara è nel laboratorio di Fisica e ha bisogno di una molla di costante elastica minore di $6\ \text{N/m}$. Among the material at its disposal there are three ideal springs: the first has an elastic constant known as $k_0 = 10\ \text{N/m}$, while for the other two springs the table containing the period $T$ of harmonic oscillations is provided when a mass $m$ is attached to one end and left to oscillate vertically.
+Chiara is in the Physics laboratory and needs a spring with a spring constant less than $6\ \text{N/m}$. Among the materials available to her are three ideal springs: the first has a known spring constant $k_0 = 10\ \text{N/m}$, while for the other two springs a table is provided containing the period $T$ of the harmonic oscillations when a mass $m$ is attached to one end and left to oscillate vertically.
 
-Clear collects the other two elastic constants and by combining two of the three springs in series, it finds a value of $k$ less than $6\ \text{N/m}$. What's the value?
+Chiara derives the other two spring constants and, by suitably combining two of the three springs in series, finds a value of $k$ less than $6\ \text{N/m}$. What is this value?
 
 | $m$ [kg] | $T_1$ [s] | $T_2$ [s] |
 |---|---|---|
@@ -672,15 +660,9 @@ Clear collects the other two elastic constants and by combining two of the three
 | 0.50 | 0.866 | 1.259 |
 | 0.55 | 0.878 | 1.294 |
 
-*Unità di misura:* N/m. *Precisione richiesta:* 1.0%.
+*Units of measurement:* N/m. *Required precision:* 1.0%.
 
-**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Curve Fitting (competenza)|Curve Fitting]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1jafZEnAtMT-bpgsq_0oYSupT0dwOOKyh/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1v6VqBCHxyqgD3SI3m2odm96aGq30PPcA/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1v6VqBCHxyqgD3SI3m2odm96aGq30PPcA/view)
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="GaS 2025 Allenamento Quiz — Problema 15" data-tags="nazione/italia,tipo-gara/squadre,livello/allenamento,difficolta/2,multidisciplina/mono,topic/modern-quantum-physics,argomento/meccanica,object/photon,object/electron"></span>

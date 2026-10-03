@@ -152,26 +152,19 @@ dove $I$ è il momento di inerzia della coppia rispetto all'asse di sospensione,
 
 <div class="qlang-split" data-lang="en"></div>
 
-In this situation (a disc magnet held as far away as possible, so that the red magnet pair is immersed in the earth's magnetic field alone) what is the measurement of the oscillation period $T_0$ of the magnet pair? What length should a simple pendulum have to have to have the same period?
+In this situation (disk magnet held as far away as possible, so that the pair of red magnets is immersed only in the Earth's magnetic field) what is the measurement of the oscillation period $T_0$ of the pair of magnets? What length should a simple pendulum have to have the same period?
 
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
+(15 points)
 
-**Content:** The red magnetic pair, suspended from a wire and rotated by a maximum of $10°$ with respect to the direction of equilibrium (aligned with the earth's field), performs harmonic oscillations with period:
-$$T = 2\pi\sqrt{\frac{I}{M B}}\quad (1)$$
-where $I$ is the torque moment of inertia with respect to the suspension axis, $M$ its magnetic moment, $B$ the horizontal component of the magnetic field. The equivalent simple pendulum shall have a length $\ell = g T_0^2/(4\pi^2)$.
+**Context:** The pair of red magnets, suspended from a thread and rotated by at most $10°$ with respect to the equilibrium direction (aligned with the Earth's field), performs harmonic oscillations with period:
+$$T = 2\pi\sqrt{\frac{I}{M B}}\quad (1)$$ where $I$ is the moment of inertia of the pair with respect to the suspension axis, $M$ its magnetic moment, $B$ the horizontal component of the magnetic field. The equivalent simple pendulum has length $\ell = g T_0^2/(4\pi^2)$.
 
 <!--fig:start-->
 ![[_attachments/Naz17spe/Naz17spe_p4_f3.png]]
-The following table shows the calculation of the value of the input data:
+*Diagram of oscillating magnetic pendulum (Figure 2)*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDfSE2n8cd6-ByepJLH8hkHY61aMZnys/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CYzpA8HySW2m1sDve6d_7V8AmMk7a3fV/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CYzpA8HySW2m1sDve6d_7V8AmMk7a3fV/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet"></span>
@@ -202,25 +195,19 @@ $$\frac{B_m}{B_T} = 1 + \frac{T_0^2}{T^2}$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Express the relationship between $B_m/B_T$ and the periods $T_0$ and $T$ in a formula where the two vectors $\vec{B}_m$ and $\vec{B}_T$ agree and where they disagree.
+Express with a formula the relationship between $B_m/B_T$ and the periods $T_0$ and $T$, in the case in which the two vectors $\vec{B}_m$ and $\vec{B}_T$ are in the same direction and in the case in which they are in opposite directions.
 
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
+(15 points)
 
-**Content:** With the disk magnet positioned so that its axis is horizontal and parallel to $\vec{B}_T$, the field $\vec{B}_m$ (directly along the disk axis) is vectorally added to $\vec{B}_T$, giving a resulting horizontal field $B = B_m + B_T$ (concord) or $B = |B_m - B_T|$ (discord). From formula (1), the following is replaced by $B$:
-- **Concordance ** ($B_m$ and $B_T$ in the same direction):
+**Context:** With the disk magnet positioned so that its axis is horizontal and parallel to $\vec{B}_T$, the field $\vec{B}_m$ (directed along the axis of the disk) adds vectorially to $\vec{B}_T$, giving a resultant horizontal field $B = B_m + B_T$ (same direction) or $B = |B_m - B_T|$ (opposite direction). From formula (1), substituting $B$:
+- **Same direction** ($B_m$ and $B_T$ in the same direction):
 $$\frac{B_m}{B_T} = \frac{T_0^2}{T^2} - 1$$
-- **Disagreements with $B_T > B_m$:
+- **Opposite direction** with $B_T > B_m$:
 $$\frac{B_m}{B_T} = 1 - \frac{T_0^2}{T^2}$$
-- **Disagreements with $B_m > B_T$:
+- **Opposite direction** with $B_m > B_T$:
 $$\frac{B_m}{B_T} = 1 + \frac{T_0^2}{T^2}$$
 
-**Topic:** [[Magnetism]], [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDfSE2n8cd6-ByepJLH8hkHY61aMZnys/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CYzpA8HySW2m1sDve6d_7V8AmMk7a3fV/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CYzpA8HySW2m1sDve6d_7V8AmMk7a3fV/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII na Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet"></span>

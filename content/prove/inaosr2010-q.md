@@ -621,22 +621,15 @@ Una civiltà aliena su una stella lontana ha saputo dell'esame di Olimpiada Astr
 
 <div class="qlang-split" data-lang="it"></div>
 
-[8] Nella tabella seguente, la prima colonna dà vari fenomeni/strumenti ottici e la riga superiore dà vari effetti ottici che possono aiutare a spiegarli. Nella scheda delle risposte, segnalare le corrette conseguenze di ciascun fenomeno nelle appropriate righe.
+[8] Nella seguente tabella, la prima colonna riporta vari fenomeni / strumenti ottici e la riga superiore riporta vari effetti ottici che possono aiutare a spiegarli. Nel foglio delle risposte, spunta il o gli effetti corretti coinvolti in ciascun fenomeno nelle righe appropriate.
 
-♬ FENOMENO / Strumento ♬ Apprezzabile riflessione interna ♬ Refrazione ♬ Diffusione ♬ Dispersone ♬ Riflessione ♬
+| Fenomeno / Strumento | Riflessione interna apprezzabile | Rifrazione | Diffusione | Dispersione | Riflessione |
 | --- | --- | --- | --- | --- | --- |
-# Il cielo blu # # e' il mio paese #
-# Mirage # # Mirage # # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # Mirage # # # Mirage # Mirage # Mirage # # # # # Mirage # #
-# Rainbow # # e' un'operazione che non è stata fatta. #
-# Il Specchio Convex Smooth #
-# Lenti concave spesse #
-
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1YbZaaO78WFSHIDm7KdY4L6Bb7Z59Fray/view)
-
+| Cielo blu | | | | | |
+| Miraggio | | | | | |
+| Arcobaleno | | | | | |
+| Specchio convesso liscio | | | | | |
+| Lente concava spessa | | | | | |
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="INAO Senior 2010 — Problema 17" data-tags="nazione/india,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/astrophysics,argomento/gravitazione-e-astrofisica"></span>

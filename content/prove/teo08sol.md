@@ -448,294 +448,89 @@ p
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 1
 {
-T
-re
-Other, of a kind used for the manufacture of goods
-Very much
-The following is the list of the countries of the European Union:
+T re
+Very smooth cylinders
 100
-The Commission
-ti
-Question No
-n.
+Points
+Question no.
 1.
-La
+The
 
-Gurus
-Here .
-below
-representing
-ta
-il
-system
-di
-Forces
-Other
-ti
-on the
-three
-Other, of a kind used for the manufacture of goods
-Other
-ti
-Other
-human beings
-n.
+figure below represents the system of forces acting on the three identical cylinders no.
 1,
-2
-e
+2 and
 3:
-ad
-It
-si
-fa
-References
-to
-p
-er
-i
-Yes
-b
-oil.
-Not
-A:
-p
-er
-reasons
-di
-the following is the list of the following:
-Other
-le
-intensity
-a
-of the
-le
-Forces
-in
-This one
+reference is made to it for the symbols.
+NOT
+E:
+for reasons of clarity the magnitudes of the forces in this
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-a
-Not
-I am
-The Commission shall adopt implementing acts.
-o
-The Commission shall adopt implementing acts.
-in
-s
-The wing.
-In the
+figure are not reproduced to scale.
+In the following
 
-Other
-following
-ti
-I am
-shown
-i
-The following table shows the following:
-di
-orp
-o
-The Commission shall adopt implementing acts.
-I was
-of the
-Other, of a kind used for the manufacture of goods
-n.
-3
-e
-n.
-1
-(that
-p
-er
-il
-Other, of a kind used for the manufacture of goods
-n.
+figures the free-body diagrams of cylinders no.
+3 and no.
+1 are shown (the one for cylinder no.
 2
 
-e
-symmetries or
-of the
-If the wave is
-Le
-Forces
+is symmetric to the second).
+The forces
 ~
 N
-1
-e
+1 and
 ~
 N
-2
-e
-le
-They
-the reaction,
+2 and their reactions,
 ~
 N
 0
-1
-e
+1 and
 ~
 N
 0
-2
-(
-he,
-p
-er
-il
-third
-The first
-of the
-the dynamics a,
-I am
-Responsibility
-Other
-I will not let you go.
-te
-equal to
-in
-mo
-Other
-The Commission
-first,
- on
-v
-Other
-Op.
-(including
-I am
-in strips
-di
+2 (which, by Newton's third law, are respectively equal in magnitude to the former, with opposite direction)
+are inclined at
 60
-Æ
-on the
-- It 's not easy .
-The following is the list of the countries:
-such
-given
+Æ to the horizontal plane given
 
-he
-il
-Triangle
+that the triangle
 
-he
-ha
-p
-er
-v
-The Commission shall adopt the following measures:
-i
- en
-three
-of the
-Sections
-Other
-of the
-Other, of a kind used for the manufacture of goods
-in
- on
-The touch
-between
-They
+having as vertices the centers of the circular cross-sections of the cylinders in contact with each other
 
-e
+is
 
-the following is the list of the following:
-te
-the equilateral;
-ne
-follows
+clearly equilateral;
+it follows
 
-he
-le
-They
-projections,
-The following is the list of the countries:
-such
-e
-v
-high-winged,
-si
-They get
-Multiple IDE
-i
-mo
-Other
-Responsibility
-Other
-I will not let you go.
-te
-p
-er
- os
+that their projections, horizontal and vertical, are obtained by multiplying the magnitudes respectively by cos
 60
 Æ
 =
-1=2
-e
-Other
+1=2 and sin
 60
 Æ
-=
-p
+= p
 3
 =2.
-That said,
+Given
 ~
 P
 =
 M
-~
-g
-il
-p
-That's it.
-di
-Each
-the cylinder,
-le
-Other articles of heading No.
-di
-Balance
-of the
-Other, of a kind used for the manufacture of goods
-n.
-3,
-holding
- on
-to
+~ g the weight of each cylinder, the equilibrium conditions of cylinder no.
+3, taking into account
 
-he
-p
-er
-The following table shows the following:
+by symmetry
 N
 1
 =
 N
 2
-,
-p
-Other, of a kind used for the manufacture of goods
-to the equation
-following
-te,
-Relative
-a
-to the
-The Commission shall adopt implementing acts.
-Other
-te
-v
-High-winged
-of the
-Forces
-2
-p
+, they lead to the following equation, relative to the vertical component of the forces
+2 p
 3
 2
 N
@@ -744,87 +539,37 @@ N
 =
 0
 :
-So, what?
+Therefore
 N
 1
 =
-P
-p
+P p
 3
 :
-P
-ag.
+Page
 1
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National
+Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
-P
-er
-The balance
-of the
-system
-That 's enough .
-study
-il
-Other, of a kind used for the manufacture of goods
-n.
-1
-being
-il
-system
-di
-Forces
-Equivalent to
-Other
-te
-a
-That one.
-of the
-Other, of a kind used for the manufacture of goods
-n.
+For the equilibrium of the system it is enough to study cylinder no.
+1 since the system of forces is equivalent to that of cylinder no.
 2.
-La
-the condition
-di
-Balance
-p
-er
-translations
-The following is the list of the countries:
-of which:
+The equilibrium condition for horizontal translations
 
-e
-The Commission
-te
-p
-er
-determining the
-la
-The following conditions shall apply:
-T
-in
-Ias one
-of the
-two
-The Horde.
+is sufficient to determine the tension
+T in each of the two ropes.
 2T
  N
 3
@@ -833,51 +578,29 @@ The Horde.
 N
 1
 =
-0
-da
- ui
+0 from which
 2T
  N
 3
 =
 P
-2
-p
+2 p
 3
 :
-Il
-v
-Other
-Minimum
-di
-T
-si
-ha
-p
-er
+The minimum value of
+T occurs for
 N
 3
 =
-0
-p
-er
- ui
-T
-Minimum number of days
+0 for which
+T min
 =
 P
-4
-p
+4 p
 3
 :
 
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2008 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/gas,object/heat-engine"></span>
@@ -1907,192 +1630,28 @@ ln
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-In
-Absence
-di
-the friction,
-p
-oi
-h
+In the absence of friction, and then
 
-e
-le
-The Commission shall adopt implementing acts.
-The Commission
-di
-All of them
-le
-Forces
-the present
-ti
-between
-i
-Other, of a kind used for the manufacture of goods
-e
-between
-il
-- It 's not easy .
-e
-i
-Other, of a kind used for the manufacture of goods
-in
-Tese year
-The Commission
-Other, not further worked than hot-rolled
-di
-The Commission shall adopt a decision on the
-the cylinder,
-All of them.
-i
-Moments
-ti
-Other
-I am
-n
-the oils;
-se
-So, what?
-Initially
-te
-i
-Other, of a kind used for the manufacture of goods
-I am
-in
-You're going to be quiet.
-Not
-si
-a
-vr
-a
-No one
-Motorcycles
-Rotary:
-i
-three
-Other, of a kind used for the manufacture of goods
-They're moving.
-without
-rolling.
-P
-oi
-h
+the lines of action of all the forces present between the cylinders and between the plane and the cylinders intersect the axes of each cylinder, all the axial torques are zero;
+if therefore initially the cylinders are at rest, there will be no rotational motion:
+the three cylinders translate without rolling.
+And then
 
-e
-si
-He takes
+since it is assumed
 
-he
-il
-system
-Other, not further worked than cold-rolled
-Not
-The following is the list of the following:
-It
-si
-m
-uo
-v
-e
-The following is a list of the measures taken:
-te
-e
-So, what's the point?
-p
-er
-il
-If the wave
-the first horse,
-The following is a list of the types of products:
-a
-pu
-o
-to be
-Right now.
-determined
-being
+that the accelerated system does not rotate, it moves rigidly and therefore, by the second principle, the acceleration a can be immediately determined since
 F
 =
-3M
-a.
-Si
-They are all
-p
-oi
-le
-Equations
-di
-motorcycle,
-Separation of the
-te
-p
-er
-The Commission shall adopt a decision on the
-Other, of a kind used for the manufacture of goods
-(p
-er
-i
-Yes
-b
-oils
-to do
-References
-to
-ai
-Relative
-The following table shows the following:
-di
-orp
-o
-The Commission shall adopt implementing acts.
-I was .
-human beings
-Go on.
-Responsibility
-Other
-al
-Other
-States or
-studied
-Before that,
-il
-system
-di
-Forces
-Not
+3M a.
+Then the equations of motion are considered, separately for each cylinder (for symbols refer to the corresponding free-body diagrams), as follows.
+Compared to the static case studied earlier, the system of forces is no
 
-e
-pi
+longer symmetric:
+now the constraint reactions do not have the same magnitude, while, by the principle of action and reaction, it remains true
 
-u
-symmetries or:
-Now
-le
-reactions
-Olary wine
-Not
-They have
-lo
-of the same
-mo
-the following:
-Men and women
-three,
-p
-er
-il
-The first
-di
-Action
-e
-reaction,
-Stay here
-v
-I was
-
-he
+that
 N
 1
 =
@@ -2114,11 +1673,7 @@ N
 0
 3
 .
-P
-er
-il
-Other, of a kind used for the manufacture of goods
-n.
+For cylinder no.
 1
 8
 >
@@ -2135,23 +1690,17 @@ F
 N
 1
 =
-M
-a
+M a
 N
 4
- P
- p
+ P p
 3
 2
 N
 1
 =
 0
-P
-er
-il
-Other, of a kind used for the manufacture of goods
-n.
+For cylinder no.
 2
 8
 >
@@ -2169,23 +1718,17 @@ N
 N
 2
 =
-M
-a
+M a
 N
 5
- P
- p
+ P p
 3
 2
 N
 2
 =
 0
-P
-er
-il
-Other, of a kind used for the manufacture of goods
-n.
+For cylinder no.
 3
 8
 >
@@ -2205,16 +1748,13 @@ N
 0
 2
 =
-M
-a
-p
+M a p
 3
 2
 N
 0
 2
-+
-p
++ p
 3
 2
 N
@@ -2223,131 +1763,47 @@ N
  P
 =
 0
-P
-ag.
+Page
 2
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+Ga ra
+National:
+SOLUTION of the
+Prova
+T eo ri a
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
-The whole
-of the
-6
-Equations
-The Commission shall adopt a decision on the
-un
-system
-In the
-in days
+The set of
+6 equations constitute a system in the unknowns
 N
 1;:::
-;5
-ed
-a.
-The latter,
-an-
+;5 and a.
+The latter, an-
 
-he
-without
-la
-The Commission shall adopt implementing acts.
-made
-above,
-si
-I would
-e
-p
-Other
-The Commission
-v
-are
-by adding
-The Commission
-Bro
-a
-The Commission
-Bro
-le
-three
-Equations
-Relative
-e
-The Commission
-The Commission shall adopt implementing acts.
-Other
-ti
-The following is the list of the countries:
-of which:
-of the
-Motorcycles
-(le
-Other
-di
-Each
-the opium),
-p
-er
- ui
-si
-pu
-o
-replace
-M
-a
+Without the consideration made above, it could have been found by summing member to member the three equations relating to the horizontal components of the motion (the first of each pair), so that one can substitute
+M a
 =
 F
 =3
-Il
-system
-di
-Forces
-on the
-Other, of a kind used for the manufacture of goods
-n.
-3
-onsen
-te
-di
-ri a
-v
-are
+The system of forces on cylinder n.
+3 allows one to derive
 N
-1
-e
+1 and
 N
 2
 .
-Resolved
-Other
-il
-system,
-In fact,
-si
-The Commission
-v
-a
+Solving the system, in fact, one finds
 N
 1
 =
-P
-p
+P p
 3
 +
 F
@@ -2355,80 +1811,28 @@ F
 N
 2
 =
-P
-p
+P p
 3
  F
 3
-One of them.
-Before
-the condition
-su
-F
-si
-The result is
-Then
-See also
-I 'm going
+A first condition on
+F is then obtained by observing
 
-he
-il
-system
-Not
-Other, of a thickness of not more than 10 mm
-se
-The following is the list of the
+that the system does not collapse if
 N
 2
 >
 0.
-Da
-Here .
-si
-ri a
-v
-a
+From this one derives
 F
 <
 p
 3P
 .
-La
-If it flows
-the condition
-su
-F
-si
-The result is
-from
-Equations
-of the
-Motorcycles
-di
-One of them.
-of the
-Other
-two
-The other two.
-In
-Wave parts,
-from the equation
-of the
-The Commission shall adopt implementing acts.
-Other
-te
-The following is the list of the countries:
-such
-of the
-Motorcycles
-of the
-Other, of a kind used for the manufacture of goods
-n.
-2,
-si
-ri a
-v
-a
+The second condition on
+F is obtained from the equations of motion of one of the other two cylinders.
+In particular, from the equation of the horizontal component of the motion of cylinder n.
+2, one derives
 N
 3
 =
@@ -2441,134 +1845,57 @@ F
 F
 2
  P
-2
-p
+2 p
 3
-An
-he
-in
-This one.
-Other
-It must be
-e
-to be
+Also in this case it must be
 N
 3
 >
 0.
-Da
-Here .
-si
-ri a
-v
-a
+From this one derives
 F
 >
-P
-p
+P p
 3
 .
-In
-On lust,
-il
-system
-Not
-Other, of a thickness of not more than 10 mm
-se
-He 's coming .
-with a diameter of not more than 30 mm
-In the
-mo
-do
-of the following:
-da
-One of them.
-- What ?
-F
-such
+In conclusion, the system does not collapse if it is accelerated in the manner described by a force
+F such
 
-he
-M
-g
-p
+that
+M g p
 3
 <
 F
 <
 p
 3
-M
-g
+M g
 :
-The problem
-n.
+PROBLEM n.
 2
 {
-T
-ri- i lo:
+T ri- i lo:
 :
 :
-term
-Other, of a kind used for the manufacture of goods
+thermodynamic
 35
-The Commission
-ti
-Il
-The Commission shall adopt implementing acts.
-to
+Points
+The efficiency
 
-di
-One of them.
-ma
-Other
-Other
+of a thermal machine
 
-e
-given
-from
-REP
-vegetable
-between
-il
-la
-v
-gold
-Net
-s am
-Other
-In the
- i lo
-e
-il
-Other
-I'm absorbed by it.
-Il
-la
-v
-gold
-si
-to the wave
-human beings
-Go on.
-In the isotherm
-Almost
-The following are the statistics:
-1{2,
-being
+is given by the ratio between the net work exchanged in the cycle and the heat absorbed.
+The work is calculated as follows.
+In the quasi-static isotherm
+1{2, since
 V
 2
 =
 2V
 1
-,
-il
-la
-v
-gold
+, the work
 
-e
-given
-da:
+is given by:
 L
 12
 =
@@ -2576,8 +1903,7 @@ Z
 V
 2
 V
-1
-p(V
+1 p(V
 )
 dV
 =
@@ -2585,62 +1911,38 @@ Z
 V
 2
 V
-1
-n
+1 n
 R
 T
-V
-dV
-=
-n
+V dV
+= n
 R
-T
-ln
+T ln
 
 V
 2
 V
 1
 
-=
-p
+= p
 1
 V
-1
-ln
+1 ln
 2
-In the
-ra
-The following is the list of the categories of persons who are not members of the European Parliament:
-to
-Other, of a kind used for the manufacture of goods
-Almost
-States or
-2{3,
-holding
- on
-to
-of the
-made
+In the quasi-static isobaric cooling
+2{3, taking into account the fact
 
-he
-p
+that p
 2
-=
-p
+= p
 1
-=2
-e
+=2 and
 V
 3
 =
 V
 1
-,
-il
-la
-v
-gold
+, the work
 
 e:
 L
@@ -2650,51 +1952,27 @@ Z
 V
 3
 V
-2
-p
-2
-dV
-=
-p
-2
-(V
+2 p
+2 dV
+= p
+2 (V
 3
  V
 2
 )
 =
  1
-2
-p
+2 p
 1
 V
 1
-In
-ne,
-in the ice
-Now
-2{3,
-il
-la
-v
-gold
+Finally, in the isochoric process
+2{3, the work
 
-e
-n
-I'm going to go.
-Il
-la
-v
-gold
-Net
-of the
- i lo
-The following is the list of the
-So, what?
-L
- i lo
-=
-p
+is zero.
+The net work of the cycle is therefore:
+L i lo
+= p
 1
 V
 1
@@ -2704,184 +1982,85 @@ ln
  1
 2
 
-Si
-to the wave
-Now
-il
-Other
-absorbed
-In the
- i lo:
-il
-system
-Other, of a kind used for the manufacture of goods
-e
-Other
-In the expansion
-Other, of a kind used for the manufacture of goods
-1{2
-e
-In the
-Other articles of heading No 5
-to
-Other
-gold
+The heat absorbed in the cycle is now calculated:
+the system absorbs heat in the isothermal expansion
+1{2 and in the isochoric heating
 3{1.
-In the expansion
-isothermal,
-p
-oi
-h
-
-e
-energy
-in
-Other
-di
-un
-Gas
-p
-of which:
-Dip
-Other
-only
-from
-Temp
-the following:
+In the isothermal expansion, since the internal energy of a perfect gas depends only on the temperature,
  U
 =
-0,
-e
-So, what?
+0, and therefore
 Q
 12
 =
 L
 12
 :
-In the
-Other articles of heading No 5
-to
-Other
-gold,
+In the isochoric heating,
 L
 =
-0,
-e
-So, what?
+0, and therefore
 Q
 =
  U
-=
-n
+= n
 V
  T
 :
-P
-oi
-h
-
-e
-il
-Gas
-
-e
-monoatoms or,
+Since the gas is monatomic,
 
 V
-=
-(3=2)R
-e
-The following is the list of the
+= (3=2)R and therefore
 Q
 31
 =
 3
-2
-n
+2 n
 R
  T
-P
-ag.
+Pag.
 3
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Competition:
+SOLUTION of the
+Theoretical
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
-From the equation
-di
-State of the Union
-of the
-Gas
-p
-the heirs,
-holding
- on
-to
-
-he
-il
-v
-Other, of a kind used for the manufacture of foodstuffs
-Not
-v
-air,
-si
-ha
-V
- p
-=
-n
+From the equation of state of perfect gases, taking into account that the volume does not vary, we have
+V p
+= n
 R
- T
-e
-So, what?
+ T and therefore
 Q
 31
 =
 3
 2
 V
-1
- p
+1 p
 =
 3
 4
 V
+1 p
 1
-p
-1
-In
-de
-Other
-a:
-Q
-Other
+Ultimately:
+Q ass
 =
 Q
 12
 +
 Q
 31
-=
-p
+= p
 1
 V
 1
@@ -2892,23 +2071,14 @@ ln
 3
 4
 
-In
-ne
-il
-The Commission shall adopt implementing acts.
-to
-It is:
+Finally the efficiency is:
 
 =
-L
- i lo
-Q
-Other
-=
-ln
+L i lo
+Q ass
+= ln
 2
- 1=2
-ln
+ 1=2 ln
 2
 +
 3=4
@@ -2918,13 +2088,7 @@ ln
 13:4
 %
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2008 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/elasticity-e-materials,argomento/meccanica,object/atom"></span>
@@ -2956,26 +2120,16 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 3
 {
-The evidence
-di
-You have it
+Elasticity tests
 
 a
 100
-The Commission
-ti
+Points
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2008 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/atom"></span>
@@ -3244,138 +2398,29 @@ dell'energia.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 1.
-Si
-RIP
-Other, of a kind used for the manufacture of goods
-Here .
-a
+The required graphs are given here.
 
-an o
-i
-The following is the list of the
- i
-ri
-I'm not going to.
-That one.
-energy
-p
-The following information shall be provided:
-U
-(r
+That of the potential energy
+U (r
 )
-pu
-o
-to be
-between yachts
-{
-in
-mo
-do
-The quality
-o
-{
-The Dutch
-Directors
-te
-la
-function
-p
-er
-One of them.
-of in
-di
-v
-Other
-of the
-REP
-vegetable
-r
+can be obtained
+{ qualitatively
+{ either by directly calculating the function for a dozen values of the ratio r
 =r
 0
-,
-or
-Drawing
-Separation of the
-te
-i
-two
-Other
-ip
-Herbs and spices
-Oil and gas
-(1=r
-2
-e
+, or by drawing separately the two branches of the hyperbolas (1=r
+2 and
 1=r
 4
 )
-e
-v
-by highlighting
-The Commission
-I will not let you go.
-te"
-la
-di
-the herring,
-o
-- I'm not going to.
- on
-One of them.
-study
-Other
-the act
-di
-function
-(a) the
-the limit,
-Other
-the total of the
-Maximum
-e
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-From her .
-de
-Other
-di
-di
-the herence
-di
-energy
-p
-the following conditions shall apply:
-human beings
-the op
-Other
-of the
-la
-v
-gold
-of the
-- What ?
-al
-v
-Airing
-of the
-distance
-r
-,
+and evaluating
+"roughly" the difference, or even with a simplified study of the function (limit cases, asymptotes, maxima and minima).
+From the definition of the difference in potential energy, as the opposite of the work of the force as the distance r
+varies,
 
-he
-p
-er
-sp
-Other articles of heading No.
-ti
-in-
-
-Other
-si
-The following is the list of the
-e
+which for infinitesimal displacements is written
 Æ
 U
 =
@@ -3383,124 +2428,36 @@ U
 F
 
 ~
-Æ
-r
-,
-si
-pu
-o
-the following points shall be added:
-la
-Report by the Commission
-in
-v
-Other
+Æ r
+, one can deduce the inverse relation
 
-he
-Serving
-e
-in
-This one.
-Other
-p
-er
-determining the
-la
-- What ?
-in
-a.
-f
-(r
+which is needed in this case to determine the interaction force:
+f (r
 )
-=
- dU
-(r
+= dU (r
 )
 dr
 =
 4
 U
-0
-r
+0 r
 4
-0
-r
+0 r
 5
  4
 U
-0
-r
+0 r
 2
-0
-r
+0 r
 3
 :
-Il
-The following is the list of the
- o
-of the
-- What ?
-si
-pu
-o
-So, what do you mean?
-to obtain
-Other
-te
-by weeping
-la
-derivatives
-the following:
- io
+The graph of the force can therefore be obtained simply by considering the derivative, that is
 
-e
-See also
-I 'm going
-In the
-first
-The following is the list of the
- o
-la
-p
-Other, of a kind used for the manufacture of goods
-e
-i
-the following points are added:
-ti
-di
-Minimum
-e
-di
+by observing in the first graph the slope and the points of minimum and of
 
-It is,
-o
-Other
-ti
-si
-pu
-o
-use
-the expression
-Explain the following
-of the
-Come on, you guys.
-in
-The following is the list of the products concerned:
- on
-When
-to
-made
- on
-That one.
-The energy.
+inflection, or otherwise one can use the explicit expression of the force, in analogy with what was done for that of the energy.
 
-**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
-**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 2008 Nazionale Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/elasticity-e-materials,topic/newtonian-mechanics,argomento/meccanica,object/atom"></span>
@@ -3694,188 +2651,64 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-Da
-When
-to
-above
-si
-(i) the following:
+From what has been stated above, it follows that
 
-he
-p
-er
-r
-=
-r
-0
-energy
-p
-The following information shall be provided:
-ha
-un
-at least,
-e
-la
-- What ?
+for r
+= r
+0 the potential energy has a minimum, and the force
 
-e
-n
-I'm going to see you.
-This one
+is zero.
+This
 
-e
-p
-Other
-to
-la
-distance
-di
-Balance
-(stable)
-In the expression
-for Eden
-te
-of the
-- What ?
-il
-first
-term
+is therefore the equilibrium distance (stable).
+In the previous expression of the force, the first term
 
-e
-Rejecting
-o
-e
-il
-If the wave
+is repulsive and the second
 
-e
-attractive
-o;
-- Yes, I did.
-il
-first
-term
+is attractive;
+since the first term
 
-e
-major
-of the
-If the wave
-in
-v
-Other
-The total
-When
-r
+is greater than the second in absolute value when r
 <
 r
 0
-,
-l'in
-Tanning
+, the interaction
 
-e
-Rejecting
-a
-p
-er
-r
+is repulsive for r
 <
 r
-0
-e
-attractive
-a
-p
-er
-r
->
-r
+0 and attractive for r
+> r
 0
 .
-In
-Other articles of heading No.
-di
-Balance
-energy
-p
-The following information shall be provided:
-in
-The following table shows the results of the tests:
+Under equilibrium conditions the interatomic potential energy
 
-e
+is
  U
 0
 .
-In
-un
-mo
-of the
-pi
+In a more realistic model the exponents would be higher, but the model
 
-u
-realistic or
-The Commission
-External trade
-Other
-ti
-I would
-I was
-pi
-
-u
-high,
-ma
-il
-mo
-of the
-
-e
-State of the Union
-Here .
-The Commission shall adopt a decision on the
-in
-mo
-do
-da
-to be
-It's a pain.
-te
-It's not treatable.
-P
-ag.
+has been chosen here so as to be easily tractable.
+Page
 4
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Physics Olympiad
+National Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
 
-**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OII 2008 Nazionale Teorica — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/elasticity-e-materials,argomento/meccanica,object/atom"></span>
@@ -4345,141 +3178,46 @@ N=m
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-A
-followed
-of the application
-di
-One of them.
-- What ?
-the external,
-il
-food
-si
-Deformation
-sp
-Other, of a kind used for the manufacture of goods
-from
-the condition
-di
-the balance,
-ed
-Each
-distance
-in
-The following table shows the results of the tests:
-In the
-Direction
-of the
-- What ?
-Go ahead .
-da
-r
-0
-a
-r
-=
-r
+Following the application of an external force, the lattice deforms, moving away from the equilibrium condition, and every distance between atoms in the direction of the force changes from r
+0 to r
+= r
 0
 +
-Æ
-(in the
-Directions
-orthogenous
-to the
-- What ?
-la
-distance
-in
-The following table shows the results of the tests:
-It stays
-r
-0
-p
-er
-h
+Æ (in the directions orthogonal to the force the distance between atoms remains r
+0 because h
 
-e
-Not
- i
-I am
-in
-Other, of a kind used for the manufacture of goods
- oi
-If you go
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-In
-such
-mo
-do
-si
-Exercise
-One of them.
-- What ?
+e and there are no interactions between neighboring ones).
+In this way a force is exerted
 
-he
-Balance sheets
-Other
-I will not let you go.
-te
-That one.
-The outside.
-P
-er
-study
-le
-Other
-Deformations
-si
-p
-Other
-r
-=
-r
+that overall balances the external one.
+To study the small deformations let r
+= r
 0
 +
-Æ
- on
+Æ with
 Æ
 
 r
 0
 ;
-si
-Trans uranium
-p
-oi
-i
-the terms
-in
-(Æ
+terms in (Æ
 =r
 0
 )
-2
-Responsibility
-Other
-a
-The other
-in
+2 are then neglected compared to those in
 Æ
 =r
 0
 .
-La
-- What ?
-It becomes
-f
+The force becomes f
 =
 4
 U
-0
-r
+0 r
 4
-0
-(r
+0 (r
 0
 +
 Æ
@@ -4487,44 +3225,24 @@ r
 5
  4
 U
-0
-r
+0 r
 2
-0
-(r
+0 (r
 0
 +
 Æ
 )
-3
-e
-developing
-i
-Other
-di
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-a
-Name of the manufacturer
-e
-By stopping
-al
-First order
-in
+3 and expanding Newton's binomials in the denominator and stopping at first order in
 Æ
 =r
 0
-,
-si
-ha
-f
+, we have f
 
 4
 U
 0
-1
-r
-0
-(1
+1 r
+0 (1
 +
 5Æ
 =r
@@ -4533,28 +3251,17 @@ r
  4
 U
 0
-1
-r
-0
-(1
+1 r
+0 (1
 +
 3Æ
 =r
 0
 )
 :
-In the middle
-of the same
-Order
-di
-Approximation
-si
-pu
-o
-The following is the list of the
-The following are the
+In the same order of approximation one can write
 
-he
+that
 1
 1
 +
@@ -4564,166 +3271,70 @@ he
 
 1
  5
-Æ
-r
-0
-e
-Other
-te
-p
-er
-The other
-The end.
-Si
-p
-Other
-a
-to arrive
-a
-This one
-The following is the list of the following:
-an
-he
-in
-un
-only
-I 'm going through
-being,
-(1
-+
-x)
+Æ r
+0 and similarly for the other term.
+One could reach this expression also in a single step since, (1
++ x)
 
 1
 +
 
-x
- on
+x with
 
 =
  5.
-Si
-The result is
-So, what do you mean?
-f
+One therefore obtains f
 
 4
 U
-0
-r
+0 r
 0
 
 1
  5
-Æ
-r
+Æ r
 0
 
 1
  3
-Æ
-r
+Æ r
 0
 
 =
  8
 U
 0
-Æ
-r
+Æ r
 2
 0
 :
-Each
-the link
-He 's coming .
-of a width of not more than 30 mm
-di
-One of them.
-When
-Title
-a
-Æ
-In the
-Direction
-di
-The Commission
-of the
-- What ?
-the external,
-So, what do you mean?
+Every bond is stretched by a quantity
+Æ in the direction of application of the external force, therefore
  L=L
 =
 Æ
 =r
 0
 .
-Le
-Forces
-f
-in
-Other
-si
-the balance sheet,
-e
-They stay.
-le
-Forces
-Other
-al
-b
-I 'm not a doctor .
-of the
-the food,
+The internal forces f balance each other, and the external forces remain at the edge of the lattice,
 
-he
-si
-They add up
-in
-Prop
-Other
-al
-n
-Other
-n
-di
-binding
-p
-er
-Unit
-a
-di
-Supplementary
-er
- ie;
-being
+that add up in proportion to the number n of bonds per unit area;
+since
 F
-=
-nF
-ed
-n
+= nAf and n
 =
 1=r
 2
-0
-si
-ha
+0 we have
 F
 A
-=
-Other
-j
+= jnf j
 A
-=
-jf
-j
-r
+= jf j r
 2
-0
-da
- ui
-follows
+0 from which it follows
 
-he
+that
 E
 =
 
@@ -4738,31 +3349,20 @@ f
 =
 8
 U
-0
-r
+0 r
 3
 0
 :
-Substituting
-i
-v
-Other
-n
-The following is the list of
-e
-Re-ordering
+Substituting the numerical values and recalling
 
-he
-1
-eV
+that
+1 eV
 =
 1:6
 
 10
  19
-J,
-si
-ha
+J, we have
 E
 =
 2:37
@@ -4772,20 +3372,11 @@ E
 N=m
 2
 .
-The Order
-di
-size
-obtained
-Other
+The order of magnitude obtained
 
-e
-That 's right .
-Oil and gas
-(p
-er
-The Commission shall adopt the following measures:
+is reasonable (for steel
 
-e
+is
 E
 =
 2
@@ -4796,13 +3387,7 @@ N=m
 2
 ).
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2008 Nazionale Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/elasticity-e-materials,argomento/meccanica,object/atom"></span>
@@ -5021,213 +3606,75 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Problem no.
 4.
-P
-er
-The Commission
-v
-are
-le
-Other articles of heading No.
-di
-the breakdown,
-si
-pu
-o
-See also
-are
+To find the breaking conditions, one can observe
 
-he
-p
-er
-v
-Other
-Very much
-large
-di
-r
-la
-- What ?
-f
-Tents
-a
-the value of the underlying equation is zero,
-p
-er
- ui
-o
-Horrors
-The Commission
-v
-are
-When
-l'in
-Tensile
-a
-of the
-- What ?
-in
-The following table shows the results of the tests:
-attractive
-a
-f
-ha
-un
-Not more than
-in
-function
-di
-r
+that for very large values of r the force f tends to zero, so one must find when the intensity of the attractive interatomic force f has a maximum as a function of r
 :
-al
-di
-l
-a
-Not
-pu
-o
-pi
+beyond that it can no longer
 
-u
-The Commission shall adopt implementing acts.
-the test
-la
-- What ?
-Other
-e
-il
-food
-si
-sp
-I'm not going to.
-This one
-the condition
-si
-ha
-When
-d
-f
-dr
+compensate the external force and the bond breaks.
+This condition occurs when d f dr
 =
 0
 )
 20
 U
-0
-r
+0 r
 4
-0
-r
+0 r
 6
  12
 U
-0
-r
+0 r
 2
-0
-r
+0 r
 4
 =
-0
- io
+0 i.e.
 
-e
-r
-=
-p
-5=3
-r
+and r
+= p
+5=3 r
 0
 
-1:291
-r
+1:291 r
 0
 :
-La
-deformation,
-o
-Other
-to
-Relative
-o,
-in
-These
-Other articles of heading No.
+The deformation, or relative elongation, under these conditions
 
-e
+is
  L
 L
-=
-r
- r
-0
-r
+= r r
+0 r
 0
 
 0:291
 :
-Naturalmen
-te
-This one.
-v
-Other
-Not
+Naturally this value is not
 
-e
-realistic or
-p
-er
-h
+realistic because a real solid always contains impurities
 
-e
-un
-Other, not further worked than hot-rolled
-real
- on
-It is
-Always
-Impurities
-
-he
-ne
-They determine
-la
-Other, not further worked than hot-rolled
-I'm not going to.
-P
-ag.
+that cause it to break earlier.
+Page
 5
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Physics Olympiad
+National Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 2008 Nazionale Teorica — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/elasticity-e-materials,argomento/meccanica,object/atom,object/capacitor"></span>
@@ -5391,62 +3838,29 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 5.
-A
-This one.
-the following points are added:
-to
-p
-er
-to obtain
-lo
-The amount of effort
-di
-Other, not further worked than hot-rolled
-That 's enough .
-replace
-r
-=
-p
-5=3
-r
-0
-In the
-form
-The Commission shall adopt a decision on the
-di
-f
-e
-p
-oi
-Re-order
+At this point, to obtain the breaking stress it is enough to substitute r
+= p
+5=3 r
+0 into the formula for f and then recall
 
-he
-lo
-The amount of effort
+that the stress
 
-e
+is
 F
 =
 A
-=
-jf
-j
+= jf j
 =r
 2
 0
 .
-Si
-The result is
-So, what do you mean?
-f
+One therefore obtains f
 =
 4
 U
-0
-r
+0 r
 0
 "
 
@@ -5463,19 +3877,13 @@ r
 =
  0:7436
 U
-0
-r
-0
-e
-in
-Last of the
-The following is the list of the samples:
+0 r
+0 and ultimately
 F
 =
 A
 =
-0:7436
-(U
+0:7436 (U
 0
 =r
 3
@@ -5489,60 +3897,20 @@ A
 N=m
 2
 :
-An
-he
-This one.
-v
-Other
-Not
+This value too is not
 
-e
-realistic or
-p
-er
-la
-itself
-Right
-for Eden
-te
-(p
-er
-The Commission shall adopt a decision on the
+realistic for the same previous reason (for steel
 
-e
-50
-v
-Other
-less,
-ma
-The Commission shall adopt a decision on the
-Not
-
-e
-(Some of the above mentioned products are not available for sale)
-The problem
-n.
+it is
+50 times less, but steel is not crystalline).
+PROBLEM no.
 4
 {
-Other, of a kind used for the manufacture of goods
-ri
-The Commission shall adopt the following:
-re
-pi
-
-u
-Other oils
+Capacitors always smaller
 65
-The Commission
-ti
+Points
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 2008 Nazionale Teorica — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor"></span>
@@ -5793,112 +4161,54 @@ vuoto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 1.
-In
-un
-Other, of a kind used for the manufacture of goods
-spheres or,
-the following:
-Q
-la
-the following points are inserted:
-distributed
-The uniforms
-te
-on the
-Other, of a kind used for the manufacture of goods
-in
-Other
-di
-Radius
+In a spherical capacitor, given
+Q the charge distributed uniformly on the inner conductor of radius
 R
 1
-,
-il
-amp
-o
-between
-le
-Other articles of iron or steel
-si
-determines the
-The following is a list of the
-il
-Theorem
-di
-Gauss
-(?)
+, the field between the plates is determined by applying Gauss's theorem (?)
 I
-S
-(r
+S (r
 )
 ~
 E
 
-^
-n
-ds
+^ n ds
 =
 I
-S
-(r
+S (r
 )
-E
-(r
+E (r
 )
 ds
 =
-4
-r
+4 r
 2
-E
-(r
+E (r
 )
 =
 Q
 "
 0
 )
-E
-(r
+E (r
 )
 =
 Q
 4
 "
-0
-r
-2
-e
-la
-d.d.p.
-between
-le
-Armour,
-Directors
-te
-from
-de
-the Commission,
-being
+0 r
+2 and the potential difference
+between the plates, directly from the definition, since
 R
-2
-il
-Radius
-of the
-Other, of a kind used for the manufacture of goods
-spheres or
-The outside.
+2 is the radius of the outer spherical conductor.
 V
 =
-V
-(R
+V (R
 1
 )
- V
-(R
+ V (R
 2
 )
 =
@@ -5907,8 +4217,7 @@ R
 2
 R
 1
-E
-(r
+E (r
 )
 dr
 =
@@ -5924,14 +4233,7 @@ R
 R
 2
 
-Si
-ri a
-v
-a
-So, what do you mean?
-la
-- What?
-a
+The capacitance is therefore obtained again
 C
 =
 Q
@@ -5957,35 +4259,28 @@ R
  R
 1
 :
-P
-by the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
-Now
+Setting now
 R
 1
 =
-R
-e
+R and
 R
 2
 =
 R
 +
 Æ
-R
- on
+R with
 Æ
 R
 
-R
-si
-The result is
+R one obtains
 C
 =
 4
 "
 0
-R
-(R
+R (R
 +
 Æ
 R
@@ -6006,32 +4301,11 @@ R
 =
 "
 0
-S
-d
+S d
 
-he
-The Commission shall adopt a decision on the
-The Commission has already adopted a proposal.
-to
- on
-the expression
-of the
-- What?
-a
-di
-un
-Other, of a kind used for the manufacture of goods
-- It 's not easy .
-In the
-It's empty.
+which indeed coincides with the expression for the capacitance of a parallel-plate capacitor in vacuum.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 2008 Nazionale Teorica — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor"></span>
@@ -6211,174 +4485,91 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-La
-- What?
-a
-of the
-Other, of a kind used for the manufacture of goods
-e
-la
-The following conditions shall apply:
-di
-la
-v
-gold
-I am
-Date of the date
-da
+The capacitance of the capacitor and the working voltage are given by
 C
 =
 "
 0
-"
-r
-S
-d
+" r
+S d
 V
 
-V
-Max
+V max
 =
-E
-m
-d
-P
-Other
+E m d
+P osted
 
 =
-2S
-d
-da
- ui
+2S d from which
 S
 =
- =(2
-d)
+ =(2 d)
 C
 =
 "
 0
-"
-r
+" r
 
-2
-d
-2
- on
-d
+2 d
+2 on d
 2
 
 V
-2
-Max
+2 max
 E
-2
-m
-p
-er
- ui,
-by eliminating
-d,
-si
-The result is
+2 m therefore, eliminating d, one obtains
 C
 
 "
 0
-"
-r
+" r
 E
-2
-m
+2 m
 
 2
 V
-2
-Max
+2 max
 )
 
-Minimum number of days
+min
 =
 2
 C
 V
-2
-Max
+2 max
 "
 0
-"
-r
+" r
 E
-2
-m
-(?)
-Il
-Yes
-b
-The following is the list of the countries of the European Union:
-H
-Indies and
+2 m (?)
+The symbol
+H indicates
 
-he
-l'in
-Other
-di
-Supplementary
-er
- ie
-He 's coming .
-to the wave
-su
-One of them.
-Supplementary
-er
- ie
+that the surface integral is calculated over a closed surface
 
-the hive,
-in
-This one.
-Other
-One of them.
-The sphere
-di
-Radius
-r
+in this case a sphere of radius r
 .
-P
-ag.
+Pag.
 6
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National
+Round:
+SOLUTION of the
+Theoretical
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OII 2008 Nazionale Teorica — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor"></span>
@@ -6536,94 +4727,32 @@ on
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-From the expression
-for Eden
-te
-si
-and deductions
+From the preceding expression it follows
 
-he
-p
-er
-to obtain
-il
-v
-Other, of a kind used for the manufacture of foodstuffs
-at least,
-a
-The same
-a
-di
-- What?
-a
-e
-The following conditions shall apply:
-maximum
-di
-la
-v
-gold,
-o
-Horrors
-Maximizing
-il
-for
-The Commission
-"
-r
+that to obtain the minimum volume, for a given capacitance and maximum working voltage, it is necessary to maximize the product
+" r
 E
-2
-m
+2 m
 .
-From the analysis
-of the
-tab
-She 's a
+From the analysis of the table
 
-he
-follows
-si
-ri a
-v
-a
+that follows it is found
 
-he
-between
-i
-Other materials
-Other, not further worked than cut
-That one.
+that among the listed materials the one
 
-he
-onsen
-te
-di
-The Commission shall adopt the following measures:
-Other, of a kind used for the manufacture of goods
-pi
+that allows the realization of smaller capacitors
 
-u
-Other oils
-
-e
-la
-mi a.
-Other materials
-"
-r
-E
-m
-[
-kV/mm
+is mica.
+Material
+" r
+E m
+[ kV/mm
 ℄
-"
-r
+" r
 E
-2
-m
+2 m
 [
 10
 15
@@ -6633,13 +4762,12 @@ V
 2
 ℄
 1.
-Paper
-- The first
+Carta paraÆnata
 2:5
 50
 6:25
 2.
-Look at me
+Cerami a
 60
 15
 13:5
@@ -6649,39 +4777,27 @@ Mi a
 90
 64:8
 4.
-P
-Other, of a thickness of not more than 10 mm
+P olistirolo
 2:6
 50
 6:50
 5.
-P
-or ellana
+P or ellana
 6
 25
 3:75
 6.
-Other, of a kind used for the manufacture of goods
-ep
-Other, of a kind used for the manufacture of textile materials
+Resina ep ossidi a
 4
 35
 4:90
 7.
-T
-e
-on
+T e on
 2:2
 20
 0:88
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 2008 Nazionale Teorica — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor"></span>
@@ -6797,31 +4913,17 @@ ag.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Problem no.
 4.
-In
-v
-with a diameter of not more than 30 mm
-la
-Report by the Commission
-for Eden
-te
-si
-The Commission
-v
-a
-"
-r
+By inverting the previous relation one finds
+" r
 E
-2
-m
+2 m
 =
 2
 C
 V
-2
-Max
+2 max
 "
 0
 
@@ -6834,69 +4936,31 @@ V
 2
 =m
 2
-Appears
-That 's right .
-Oil and gas
+It appears reasonable
 
-he
-il
-Other, of a kind used for the manufacture of goods
-It's either
-were or,
-given
+that the capacitor is ceramic, since
 
-he
-using
-la
-mi a
-a
-The Commission shall adopt implementing acts.
-e
-p
-8
-to be
-- I'm not going to.
-pi
+using mica it could have been even
 
-u
-I'm not going to.
-Other materials
-for
-The Commission
-from
-Group
-o
-Olympic Games
-Project
-Project
-Olympic Games
-The Secretariat
-The Olympics
-Italian
-of the
-The following is a list of
-p
-Results
-Li eo
-The Commission
- o
+smaller.
+Material produced by the group
+OLYMPIADS
+PROJECT
+PROJECT
+OLYMPIADS
+Secretariat
+Italian Olympiads
+of Physics at
+Scientific High School
 \U.
-Mo
-'R'
-The Commission
-The Master
-The fax:
-041.584.1272
-E-mail:
-Free olive oil
-t
-P
-ag.
+Morin"
+VENICE
+MESTRE fax:
+041.584.1272 e-mail:
+olifis libero.it
+Page
 7
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
+
+

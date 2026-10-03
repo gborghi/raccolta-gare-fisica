@@ -526,30 +526,27 @@ Successivamente, mediante la vite micrometrica, si allontana il piano di vetro d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The number of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows of rows
+**Newton's Rings** (20 points)
 
-A lensed flat glass of refractive index $n = 1.50$ is fixed with the vertical axis and the convexity downwards. Below it is a horizontal glass plane which can be moved vertically by a 0.100 mm micrometer screw (see figure). The whole is illuminated from above, in a vertical direction, with a spectral lamp at sodium (emission wavelength: 589 nm), and Newton rings form due to the interference between the light reflected from the curved surface of the lens and that reflected from the glass plane.
+A plano-convex glass lens with refractive index $n = 1.50$ is fixed with its axis vertical and its convexity facing downwards. Below it there is a horizontal glass plate that can be moved vertically by means of a micrometer screw with a pitch of 0.100 mm (see figure). The whole arrangement is illuminated from above, in the vertical direction, with a sodium spectral lamp (emission wavelength: 589 nm), and Newton's rings are formed due to interference between the light reflected from the curved surface of the lens and that reflected from the glass plate.
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
-1. For clarity's sake, the curvature radius of the lens shown in the figure is much smaller than the actual one, so the intercapsulation between the lens and the flat glass is much exaggerated.
-2. The light rays to be considered are those that are near or parallax to the lens axis.
+*Notes:*
+1. For the sake of clarity, the radius of curvature of the lens shown in the figure is much smaller than the real one, so the air gap between the lens and the flat glass slide appears greatly exaggerated.
+2. The light rays to be considered are the paraxial ones, that is, close and approximately parallel to the axis of the lens.
 
-*Suggest:* keep in mind the approximations in the box.
+*Hint:* keep in mind the approximations given in the box.
 
-Initially the lens and the glass plane are in contact, and it is noted that the 5th clear fringe has a radius $r_5 = 5.00$ mm.
+Initially the lens and the glass plate are in contact, and it is observed that the 5th bright fringe has radius $r_5 = 5.00$ mm.
 
-1. After demonstrating that the $r^2 = 2Rd$ ratio is the same among the dimensions shown in the figure, the lens curvature radius $R$ shall be determined.
-2. The focal length of the flat-convex lens used shall be determined and treated as a thin lens.
-3. Calculate the radius of the third clear fringe.
+1. After proving that among the quantities indicated in the figure the relation $r^2 = 2Rd$ holds, determine the radius of curvature $R$ of the lens.
+2. Determine the focal length of the plano-convex lens used, treating it as a thin lens.
+3. Calculate the radius of the 3rd bright fringe.
 
-Then, by micrometer screw, the glass plane is removed from the lens.
+Subsequently, by means of the micrometer screw, the glass plate is moved away from the lens.
 
-4. Tell how the ring system changes by specifying whether the radius of a given ring increases or decreases.
-5. If I choose a point at a distance from the center equal to the radius of the third clear fringe, how many clear fringe pass through it as the screw makes a complete turn?
+4. State how the system of rings changes, specifying whether the radius of a given fringe increases or decreases.
+5. Choosing a point at a distance from the center equal to the radius of the third bright fringe, how many bright fringes pass through it while the screw makes one complete turn?
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12a-eJcNL9-cR5sx1Qy7q79RUXHOZtl-T/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+
+

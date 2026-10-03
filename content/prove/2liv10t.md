@@ -434,25 +434,19 @@ Un sistema costituito da $0{,}08\,\text{mol}$ di gas perfetto biatomico percorre
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt the following implementing acts: The following points shall be added:
+**A reversible cycle. [11 points]**
 
-A system consisting of $0{,}08\,\text{mol}$ of perfect biatomic gas runs in a clockwise direction  in a graph $(V, p)$  a reversible cycle consisting of two adiabatic and two isocoric transformations. The cycle is shown in the figure on the side. It is known that $t_C = 27\,°\text{C}$, $p_C = 101\,\text{kPa}$, $t_A = 977\,°\text{C}$, $V_A = 0{,}35\, V_C$.
+A system consisting of $0{,}08\,\text{mol}$ of a diatomic ideal gas traverses clockwise — in a $(V, p)$ graph — a reversible cycle composed of two adiabatic transformations and two isochoric ones. The cycle is represented in the figure alongside. It is known that $t_C = 27\,°\text{C}$, $p_C = 101\,\text{kPa}$, $t_A = 977\,°\text{C}$, $V_A = 0{,}35\, V_C$.
 
-1. Calculate the thermodynamic coordinates (volume, pressure and temperature) of the states $A$, $B$, $C$ and $D$.
-2. Calculate the cycle yield.
+1. Calculate the thermodynamic coordinates (volume, pressure and temperature) of states $A$, $B$, $C$ and $D$.
+2. Calculate the efficiency of the cycle.
 
 <!--fig:start-->
 ![[_attachments/2LIV10T/2LIV10T_p6_f4.png]]
-The following table shows the results of the calculation of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk of the risk:::::::
+*V-p diagram of reversible cycle ABCD*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1uOtDtc7y-KZuQzkpwY-th090vgqL81mM/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iAQKewu81dAv6KiHAsUDwmV8u_dY_J4F/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iAQKewu81dAv6KiHAsUDwmV8u_dY_J4F/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 2010 2° Livello Quiz — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/order-of-magnitude-estimation,topic/modern-quantum-physics,argomento/meccanica,object/droplet"></span>

@@ -32,20 +32,14 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** The time-speed graph of a constantly accelerating object is shown in Figure (direct from $v=2$ to $v=8\ \text{m s}^{-1}$ between $t=0$ and $t=3\ \text{s}$). What's the acceleration of the object? A) $2\ \text{m s}^{-2}$; B) $6\ \text{m s}^{-2}$; C) $15\ \text{m s}^{-2}$; D) $18\ \text{m s}^{-2}$; E) $24\ \text{m s}^{-2}$.
+**Q1.** The velocity–time graph of an object moving with constant acceleration is shown in the figure (straight line from $v=2$ to $v=8\ \text{m s}^{-1}$ between $t=0$ and $t=3\ \text{s}$). What is the acceleration of the object? A) $2\ \text{m s}^{-2}$; B) $6\ \text{m s}^{-2}$; C) $15\ \text{m s}^{-2}$; D) $18\ \text{m s}^{-2}$; E) $24\ \text{m s}^{-2}$.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the average daily rate of return of the Union industry.
+**p.2** — Velocity-time graph, increasing straight line
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p2_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/cart"></span>
@@ -66,15 +60,9 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** A force of $20\ \text{N}$, acting on a cart of $2\ \text{kg}$ by moving it horizontally along the direction of the force itself, performs a work of $100\ \text{J}$. The cart's moving is... A) $0.40\ \text{m}$; B) $2.5\ \text{m}$; C) $5.0\ \text{m}$; D) $6.2\ \text{m}$; E) $10\ \text{m}$.
+**Q2.** A force of $20\ \text{N}$, acting on a cart of $2\ \text{kg}$ moving it on a horizontal plane along the direction of the force itself, does a work of $100\ \text{J}$. The displacement of the cart is... A) $0.40\ \text{m}$; B) $2.5\ \text{m}$; C) $5.0\ \text{m}$; D) $6.2\ \text{m}$; E) $10\ \text{m}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-momentum,argomento/meccanica,object/cart,object/spring"></span>
@@ -100,20 +88,14 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q3.** Two identical carts are held together by compressing a negligible mass spring interspersed between them; a mass of $1\ \text{kg}$ is fixed on one of the two carts. The spring is triggered and the two carriages are launched from opposite sides ($0.3\ \text{m s}^{-1}$ on the left the discharge carriage, $0.2\ \text{m s}^{-1}$ on the right the one with the mass). The mass of each cart is... A) $2/3\ \text{kg}$; B) $1\ \text{kg}$; C) $3/2\ \text{kg}$; D) $2\ \text{kg}$; E) $5/2\ \text{kg}$.
+**Q3.** Two identical carts are held together by compressing a spring of negligible mass placed between them; a mass of $1\ \text{kg}$ is fixed on one of the two carts. The spring is released and the two carts are launched in opposite directions ($0.3\ \text{m s}^{-1}$ to the left the unloaded cart, $0.2\ \text{m s}^{-1}$ to the right the one with the mass). The mass of each cart is... A) $2/3\ \text{kg}$; B) $1\ \text{kg}$; C) $3/2\ \text{kg}$; D) $2\ \text{kg}$; E) $5/2\ \text{kg}$.
 
 <!--fig:start-->
-**p.2 **  Two spring and mass wagons
+**p.2** — Two carts with spring and mass
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p2_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens"></span>
@@ -134,15 +116,9 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q4.** Benzene is a colourless liquid. The refractive index of benzene and glass is $1.50$ for both. So, what's the... (a) benzene and glass have the same density; (b) transparent glass is invisible when immersed in benzene; (c) a convergent lens of glass immersed in benzene has a smaller focal length than in air; (d) the limit angle for the passage of light from glass to benzene is close to $0°$; (e) the speed of light in benzene is $1.5$ times greater than in glass.
+**Q4.** Benzene is a colorless liquid. The refractive index of benzene and of glass is, for both, $1.50$. It follows that... A) benzene and glass have the same density; B) transparent glass is invisible if immersed in benzene; C) a converging glass lens immersed in benzene has a shorter focal length than in air; D) the critical angle for the passage of light from glass to benzene is close to $0°$; E) the speed of light in benzene is $1.5$ times greater than in glass.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-momentum,argomento/meccanica,object/cart,object/block"></span>
@@ -207,20 +183,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q6.** Each of the circuits shown contains a fixed resistance equal to $5\ \Omega$. Power in each circuit is provided by a $2\ \text{V}$ battery and negligible internal resistance. When the variable resistance cursor is moved from one end to the other, in which circuit does the difference of $V$ potential to the resistance heads from $5\ \Omega$ become zero? *[Five AE circuits with a power meter and a fixed resistance from $5\ \Omega$.]*
+**Q6.** Each of the circuits shown contains a fixed resistor equal to $5\ \Omega$. The power supply in each circuit is provided by a battery of $2\ \text{V}$ with negligible internal resistance. When the slider of the variable resistor is moved from one end to the other, in which circuit does the potential difference $V$ across the resistor of $5\ \Omega$ become zero? *[Five circuits A–E with potentiometer and fixed resistor of $5\ \Omega$.]*
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total capacity of the vehicle:
+**p.3** — Five circuits with variable resistor
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p3_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/capacitor,object/resistor"></span>
@@ -246,20 +216,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q7.** The graph shows the load on a capacitor from $500\ \mu\text{F}$ in terms of time when the capacitor is discharged through a resistance from $50\ \text{k}\Omega$. Which of the following is correct? A) After $15\ \text{s}$ the residual charge is $2.5\ \text{mC}$; B) By doubling the resistance and halving the capacity the time constant is divided by 4; C) The time constant of the circuit is $20\ \text{s}$; D) The capacitor discharges more and more rapidly as time passes; E) The initial current value, as soon as the charge begins to flow, is approximately $0.2\ \text{mA}$.
+**Q7.** The graph shows the charge present on a $500\ \mu\text{F}$ capacitor as a function of time, when the capacitor is made to discharge through a $50\ \text{k}\Omega$ resistor. Which of the following statements is correct? A) After $15\ \text{s}$ the residual charge is $2.5\ \text{mC}$; B) By doubling the resistance and halving the capacitance, the time constant is divided by 4; C) The time constant of the circuit is $20\ \text{s}$; D) The capacitor always discharges more and more rapidly as time passes; E) The initial value of the current, as soon as the charge begins to flow, is approximately $0.2\ \text{mA}$.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total load load.
+**p.4** — Charge-time graph of capacitor discharge
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p4_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -319,15 +283,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q9.** In which of the following cases could a pendulum oscillate two to four times slower than before? (A) Bringing it up from sea level to the top of a very high mountain; (B) Bringing it down, into a deep mine; (C) Bringing it from the surface of the Earth to the surface of the Moon; (D) Bringing it from the surface of the Moon to the surface of the Earth; (E) Bringing it from the surface of the Earth to a point in space far away from any other mass.
+**Q9.** In which of the following cases could a pendulum oscillate two to four times more slowly than before? A) By taking it up, from sea level to the top of a very high mountain; B) By taking it down, into a deep mine; C) By taking it from the surface of the Earth to the surface of the Moon; D) By taking it from the surface of the Moon to the surface of the Earth; E) By taking it from the surface of the Earth to a point in space very far from any other mass.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica"></span>
@@ -353,20 +311,14 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q10.** The graph refers to the motion of a body falling without friction due to gravity (a concave curve decreasing with time). Which of the following quantities was reported on the order axis? (a) The distance travelled; (b) The amount of motion; (c) The total energy; (d) The kinetic energy; (e) The potential energy.
+**Q10.** The graph refers to the motion of a body falling without friction under the effect of gravity (decreasing concave curve as a function of time). Which of the following quantities has been plotted on the ordinate axis? A) The distance traveled; B) The momentum; C) The total energy; D) The kinetic energy; E) The potential energy.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the time-weighted average of the total number of days of the year.
+**p.5** — Decreasing curve as a function of time
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p5_f7.png]]
 <!--fig:end-->
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
@@ -387,15 +339,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The final expression of a calculation is $\left(9.0\times10^9\ \dfrac{\text{N m}^2}{\text{C}^2}\right)\left(\dfrac{360\times10^{-6}\ \text{C}}{5.0\ \text{m}}\right)$. What is the correct unit of measurement in the answer? (a) Ampere; (b) Joule; (c) Ohm; (d) Volt; (e) Watt.
+**Q11.** The final expression of a calculation is $\left(9.0\times10^9\ \dfrac{\text{N m}^2}{\text{C}^2}\right)\left(\dfrac{360\times10^{-6}\ \text{C}}{5.0\ \text{m}}\right)$. What is the correct unit of measurement in the answer? A) Ampere; B) Joule; C) Ohm; D) Volt; E) Watt.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 12" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica"></span>
@@ -416,15 +362,9 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q12.** In the time when a parachutist launches from the plane and touches the ground: 1  the sum of its kinetic energy and gravitational potential is constant; 2  its kinetic energy depends on its speed; 3  its potential energy is proportional to the height from the ground. What statements are correct? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q12.** During the time in which a parachutist jumps from the plane and touches the ground: 1 — the sum of his kinetic and gravitational potential energy is constant; 2 — his kinetic energy depends on his speed; 3 — his potential energy is proportional to the height above the ground. Which statements are correct? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
@@ -450,20 +390,14 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-A stone was thrown into the air, right. Which of the following diagrams best represents the system of agent forces on the stone as it passes to maximum altitude? *[Five AE diagrams of the forces on the stone.]*
+**Q13.** A stone was thrown into the air, toward the right. Which of the following diagrams best represents the system of forces acting on the stone at the moment it passes through its maximum height? *[Five diagrams A–E of forces on the stone.]*
 
 <!--fig:start-->
-The following table shows the results of the calculation of the energy efficiency of the system:
+**p.6** — Five force diagrams A-E
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p6_f8.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi"></span>
@@ -484,15 +418,9 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-The air pressure at sea level is approximately $100\ \text{kPa}$ and its density is approximately $1\ \text{kg m}^{-3}$. Assuming that air density is constant with altitude and assuming $g=10\ \text{m s}^{-2}$, one could say that the atmosphere has a thickness of... A) $10\ \text{km}$; B) $10^2\ \text{km}$; C) $10^3\ \text{km}$; D) $10^4\ \text{km}$; E) $10^5\ \text{km}$.
+**Q14.** The air pressure at sea level is about $100\ \text{kPa}$ and its density is about $1\ \text{kg m}^{-3}$. Assuming that the air density is constant with height and supposing $g=10\ \text{m s}^{-2}$, one could say that the atmosphere has a thickness of... A) $10\ \text{km}$; B) $10^2\ \text{km}$; C) $10^3\ \text{km}$; D) $10^4\ \text{km}$; E) $10^5\ \text{km}$.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/fluidi,object/rope-string"></span>
@@ -513,15 +441,9 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** A body has volume $0.1\ \text{m}^3$ and weight $1100\ \text{N}$; it is suspended from a wire and then completely submerged in water ($\rho=1000\ \text{kg m}^{-3}$). Assumendo positive le forze dirette verso il basso e $g=10\ \text{m s}^{-2}$, la tensione del filo, a corpo immerso, diventa... A) $1900\ \text{N}$; B) $1000\ \text{N}$; C) $100\ \text{N}$; D) zero; E) $-100\ \text{N}$.
+**Q15.** A body has volume $0.1\ \text{m}^3$ and weight $1100\ \text{N}$; it is suspended from a thread and then completely immersed in water ($\rho=1000\ \text{kg m}^{-3}$). Assuming positive the forces directed downward and $g=10\ \text{m s}^{-2}$, the tension of the thread, with the body immersed, becomes... A) $1900\ \text{N}$; B) $1000\ \text{N}$; C) $100\ \text{N}$; D) zero; E) $-100\ \text{N}$.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/block"></span>
@@ -546,19 +468,13 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q16.** The design is a block of transparent material (perspex) from which a triangular section (air filled) has been removed. What will be the path followed by the beam of light through the block?
+**Q16.** The drawing represents a block of transparent material (perspex) from which a piece with a triangular cross-section has been removed (filled with air). What will be the path followed by the light ray through the block?
 <!--fig:start-->
-**p.6 **  Perspex block with triangular air cavity
+**p.6** — Perspex block with triangular air cavity
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p6_f9.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
@@ -579,15 +495,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q17.** The heat flow through a flat-sided glass plate, in stationary conditions: 1  is proportional to the temperature difference between the two faces; 2  doubles if the plate area is doubled; 3  is $1.67\ \text{kW}$ for a surface plate $1.5\ \text{m}^2$ with a temperature gradient $2500\ \text{K m}^{-1}$ and thermal conductivity of the glass $0.9\ \text{W m}^{-1}\text{K}^{-1}$. What statements are correct? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q17.** The heat flow through a glass plate with parallel flat faces, under steady-state conditions: 1 — is proportional to the temperature difference between the two faces; 2 — doubles if the area of the plate is doubled; 3 — equals $1.67\ \text{kW}$ for a plate with surface area $1.5\ \text{m}^2$ with temperature gradient $2500\ \text{K m}^{-1}$ and thermal conductivity of the glass $0.9\ \text{W m}^{-1}\text{K}^{-1}$. Which statements are correct? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/nucleus"></span>
@@ -608,15 +518,9 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The boron isotope ${}^{10}_{5}\text{B}$ reacts with a slow neutron ${}^{1}_{0}n$ producing the lithium isotope ${}^{7}_{3}\text{Li}$ and another particle. This particle is... (a) an electron; (b) a positron; (c) a proton; (d) a deuterium nucleus; (e) an alpha particle.
+**Q18.** The boron isotope ${}^{10}_{5}\text{B}$ reacts with a slow neutron ${}^{1}_{0}n$ producing the lithium isotope ${}^{7}_{3}\text{Li}$ and another particle. This particle is... A) an electron; B) a positron; C) a proton; D) a deuterium nucleus; E) an alpha particle.
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
@@ -637,15 +541,9 @@ The Commission has also adopted a number of proposals for the implementation of 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The first principle of thermodynamics can be expressed as $\Delta U=Q-W$, where $\Delta U$ is the change in internal energy, $Q$ the heat transmitted to the body and $W$ the work done by the body. Which of the following statements, applied to a perfect gas, is true? 1  If $\Delta U$ is positive, the gas temperature increases; 2  If $Q$ is positive, $W$ is positive; 3  If $Q$ is positive, the gas temperature increases. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q19.** The first law of thermodynamics can be expressed by $\Delta U=Q-W$, where $\Delta U$ is the change in internal energy, $Q$ the heat transferred to the body and $W$ the work done by the body. Which of the following statements, applied to a perfect gas, are true? 1 — If $\Delta U$ is positive, the temperature of the gas increases; 2 — If $Q$ is positive, $W$ is positive; 3 — If $Q$ is positive, the temperature of the gas increases. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/battery,object/capacitor"></span>
@@ -671,20 +569,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit shown in Figure (battery $5\ \text{V}$; two serial $4\ \mu\text{F}$ capacitors on the upper branch, a capacitor $8\ \mu\text{F}$ on the lower branch), the total energy stored in the capacitors is... A) $25/8\ \mu\text{J}$; B) $20\ \mu\text{J}$; C) $50\ \mu\text{J}$; D) $125\ \mu\text{J}$; E) $200\ \mu\text{J}$.
+**Q20.** In the circuit shown in the figure (battery $5\ \text{V}$; two capacitors of $4\ \mu\text{F}$ in series on the upper branch, a capacitor of $8\ \mu\text{F}$ on the lower branch), the total energy stored in the capacitors is... A) $25/8\ \mu\text{J}$; B) $20\ \mu\text{J}$; C) $50\ \mu\text{J}$; D) $125\ \mu\text{J}$; E) $200\ \mu\text{J}$.
 
 <!--fig:start-->
- Three-capacitor circuit
+**p.7** — Circuit with three capacitors
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p7_f10.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/battery,object/resistor"></span>
@@ -710,20 +602,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit shown (battery $6\ \text{V}$, serial resistance $R$ with $1\ \text{k}\Omega$), what value should $R$ assume to have a potential difference of $500\ \text{mV}$ to the resistance heads from $1\ \text{k}\Omega$? A) $1.1\ \text{k}\Omega$; B) $1.2\ \text{k}\Omega$; C) $11\ \text{k}\Omega$; D) $12\ \text{k}\Omega$; E) $110\ \text{k}\Omega$.
+**Q21.** In the circuit shown in the figure (battery $6\ \text{V}$, resistance $R$ in series with $1\ \text{k}\Omega$), what value should $R$ have in order to have a potential difference of $500\ \text{mV}$ across the $1\ \text{k}\Omega$ resistance? A) $1.1\ \text{k}\Omega$; B) $1.2\ \text{k}\Omega$; C) $11\ \text{k}\Omega$; D) $12\ \text{k}\Omega$; E) $110\ \text{k}\Omega$.
 
 <!--fig:start-->
- Battery circuit with R and 1kohm
+**p.8** — Battery circuit with R and 1kohm
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p8_f11.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -749,20 +635,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q22.** The movement of a car varies over time according to the chart shown (horizontal then linearly increasing). Graphs 1 (step speed), 2 (increasing linear acceleration), 3 (parabolic acceleration) show possible trends. Which ones are correct? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q22.** The displacement of a car varies over time according to the graph shown (horizontal then linearly increasing). Graphs 1 (step velocity), 2 (linearly increasing acceleration), 3 (parabolic acceleration) show possible trends. Which are correct? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
 <!--fig:start-->
- Movement graph plus three movements
+**p.8** — Displacement graph plus three trends
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p8_f12.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/satellite,object/planet"></span>
@@ -783,15 +663,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The manoeuvring engines of a satellite in circular orbit around the Earth exert exactly the same and opposite force to that of the Earth's gravitational field. As a result, the satellite begins to move... (a) along a spiral towards the surface; (b) along the radial straight towards the centre of the Earth; (c) along the tangent line to the orbit at the point where the engines are switched on; (d) in a longer-period circular orbit; (e) in a shorter-period circular orbit.
+**Q23.** The maneuvering engines of a satellite in a circular orbit around the Earth exert a force exactly equal and opposite to that of the Earth's gravitational field. As a result, the satellite begins to move... A) along a spiral toward the surface; B) along the radial line toward the center of the Earth; C) along the line tangent to the orbit at the point where the engines are turned on; D) in a circular orbit with a longer period; E) in a circular orbit with a shorter period.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electromagnetic-induction,argomento/elettromagnetismo,object/coil"></span>
@@ -817,20 +691,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q24.** The P coil, connected to an AC power supply by $50\ \text{Hz}$, is placed next to the Q coil (separate). The Q terminals are connected to the vertical input (axis $Y$) of an oscilloscope. By connecting the two coils with a soft iron bar inserted inside, what effect will the track on the screen have? (a) The height of the track increases and the number of visible waves increases; (b) The height decreases and the number of waves increases; (c) The height remains the same and the number of waves increases; (d) The height increases and the number of waves remains the same; (e) The height remains the same and the number of waves remains the same.
+**Q24.** The coil P, connected to an alternating current power supply at $50\ \text{Hz}$, is placed near coil Q (separate). The terminals of Q are connected to the vertical input (axis $Y$) of an oscilloscope. If the two coils are connected by a soft iron bar inserted inside them, what will be the effect on the trace appearing on the screen? A) The height of the trace increases and the number of visible waves increases; B) The height decreases and the number of waves increases; C) The height remains the same and the number of waves increases; D) The height increases and the number of waves remains the same; E) The height remains the same and the number of waves remains the same.
 
 <!--fig:start-->
-**p.9 **  P and Q coils with oscilloscope
+**p.9** — Coils P and Q with oscilloscope
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p9_f13.png]]
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/modern-quantum-physics,argomento/fisica-moderna,object/electron,object/gas"></span>
@@ -851,15 +719,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A beam of electrons is passed through a tube containing a rarefied gas. At low speed the electrons pass through the tube without their energy being reduced, but above a certain speed $v$ part of the electron energy is transferred to the gas. This is because... (a) at higher speeds the number of electrons passing through the gas is higher and the impacts become more frequent; (b) at speeds below $v$ the electrons move too slowly to be likely to impact a molecule; (c) below the critical speed the impacts are predominantly anelastic; (d) the electron energy is quantized: a quantity is given by $h\nu$, where $h$ is the Planck constant; (e) atoms can absorb energy only if this is sufficient to allow transitions to higher energy levels.
+**Q25.** A beam of electrons is passed through a tube containing a rarefied gas. At low speed the electrons pass through the tube without their energy being reduced, but above a certain speed $v$ part of the electrons' energy is transferred to the gas. This happens because... A) at higher speeds the number of electrons passing through the gas is higher and the collisions become more frequent; B) at speeds lower than $v$ the electrons move too slowly for a collision with a molecule to be probable; C) below the critical speed the collisions are predominantly inelastic; D) the energy of the electrons is quantized: one quantum is given by $h\nu$, where $h$ is Planck's constant; E) atoms can absorb energy only if this is sufficient to allow transitions to higher energy levels.
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment and the environment.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/pendulum"></span>
@@ -943,20 +805,14 @@ The Commission has also adopted a number of proposals for the implementation of 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The temperature of a pure substance mass was measured at regular intervals while it was cooled, giving a time temperature chart with two horizontal tracts of duration $t_1$ and $t_2$ (with $t_1>t_2$). The environment is maintained a few degrees below the melting point. What statements can be drawn? 1  The rate at which heat is transferred during $t_1$ is greater than that during $t_2$; 2  The heat transferred during $t_1$ is greater than that transferred during $t_2$; 3  The volume of the substance remains constant during $t_1$ and $t_2$. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q27.** The temperature of a mass of pure substance was measured at regular intervals while it was cooling, obtaining a temperature–time graph with two horizontal segments of duration $t_1$ and $t_2$ (with $t_1>t_2$). The environment is kept a few degrees below the melting point. Which statements can be deduced? 1 — The rate at which heat is released during $t_1$ is greater than that during $t_2$; 2 — The heat released during $t_1$ is greater than that released during $t_2$; 3 — The volume of the substance remains constant during $t_1$ and $t_2$. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
 <!--fig:start-->
-The temperature and time of the cooling system shall be determined by the following:
+**p.10** — Temperature-time cooling graph
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p10_f14.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/kinetic-theory,argomento/termodinamica,object/tank-container,object/gas"></span>
@@ -981,19 +837,13 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q28.** A certain amount of pressurized air $300\ \text{kPa}$ is contained in the volume container X $100\ \text{cm}^3$. The H furnace is initially closed and the container Y, volume $300\ \text{cm}^3$, is empty. You take the lid off the H-bolt and, when the balance is reached... (a) the molecules are still moving through H; (b) the pressure-volume product in X is equal to that in Y; (c) there are the same number of molecules in X and Y; (d) the pressure in X is $100\ \text{kPa}$; (e) the molecules in Y are moving three times faster than in X.
+**Q28.** A certain quantity of air at pressure $300\ \text{kPa}$ is enclosed in container X of volume $100\ \text{cm}^3$. The small hole H is initially plugged and container Y, of volume $300\ \text{cm}^3$, is empty. The plug is removed from the small hole H and, once equilibrium is reached... A) the molecules still move passing through H; B) the pressure-volume product in X is equal to that in Y; C) there is the same number of molecules in X and in Y; D) the pressure in X is $100\ \text{kPa}$; E) the molecules in Y move three times faster than those in X.
 <!--fig:start-->
-**p.10 **  Containers X and Y with H-bolt
+**p.10** — Containers X and Y with small hole H
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p10_f15.png]]
 <!--fig:end-->
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
@@ -1019,20 +869,14 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows flat wavefronts traveling from a half A to a half B. In A the direction of propagation normally forms an angle of $45°$ and in B of $30°$. If the propagation rate in the middle of A is $0.283\ \text{m s}^{-1}$, the velocity in B is... A) $0.200\ \text{m s}^{-1}$; B) $0.231\ \text{m s}^{-1}$; C) $0.347\ \text{m s}^{-1}$; D) $0.400\ \text{m s}^{-1}$; E) $0.425\ \text{m s}^{-1}$.
+**Q29.** The figure shows plane wavefronts traveling from a medium A to a medium B. In A the direction of propagation forms an angle of $45°$ with the normal, and in B an angle of $30°$. If the propagation speed in medium A is $0.283\ \text{m s}^{-1}$, the speed in B is... A) $0.200\ \text{m s}^{-1}$; B) $0.231\ \text{m s}^{-1}$; C) $0.347\ \text{m s}^{-1}$; D) $0.400\ \text{m s}^{-1}$; E) $0.425\ \text{m s}^{-1}$.
 
 <!--fig:start-->
- Flat wavefronts from mid A to mid B
+**p.10** — Plane wavefronts from medium A to B
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p10_f16.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/ottica"></span>
@@ -1058,20 +902,14 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q30.** In a waveguide, circular wavelength waves $2.8\ \text{cm}$ are produced from the source in O. The waves reflected from the edge of the endoscope interfere with those coming directly from the source; the X-point belongs to a constructive line of interference. If the distance $\overline{OX}$ is $40\ \text{cm}$, then the OYX path (reflected from the wall) can be long... A) $41.4\ \text{cm}$; B) $42.4\ \text{cm}$; C) $44.2\ \text{cm}$; D) $45.6\ \text{cm}$; E) $46.3\ \text{cm}$.
+**Q30.** In a ripple tank, circular waves of wavelength $2.8\ \text{cm}$ are produced from the source placed at O. The waves reflected from the edge of the ripple tank interfere with those coming directly from the source; point X belongs to a line of constructive interference. If the distance $\overline{OX}$ is $40\ \text{cm}$, then the path OYX (reflected from the wall) can be as long as... A) $41.4\ \text{cm}$; B) $42.4\ \text{cm}$; C) $44.2\ \text{cm}$; D) $45.6\ \text{cm}$; E) $46.3\ \text{cm}$.
 
 <!--fig:start-->
-**p.11**  Wall and O X-point waveguide
+**p.11** — Ripple tank with wall and points O X
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p11_f17.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q31" data-atom="q31" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/ottica,object/slit,object/screen"></span>
@@ -1097,20 +935,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows the Young crack method for obtaining interference fringes. In point P, destructive interference is obtained if the path difference $\overline{S_2 P}-\overline{S_1 P}$ is... (a) an odd number of quarter wavelengths; (b) an odd number of half wavelengths; (c) an equal number of half wavelengths; (d) an odd number of wavelengths; (e) an equal number of wavelengths.
+**Q31.** The figure represents Young's slit method for obtaining interference fringes. At point P, destructive interference is obtained if the path difference $\overline{S_2 P}-\overline{S_1 P}$ is... A) an odd number of quarter wavelengths; B) an odd number of half wavelengths; C) an even number of half wavelengths; D) an odd number of wavelengths; E) an even number of wavelengths.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total cost of the product:
+**p.11** — Young's slits with screen
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p11_f18.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q32" data-atom="q32" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/satellite,object/planet"></span>
@@ -1131,15 +963,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q32.Which of the following statements is true for a spacecraft launched from Earth entering orbit around Earth itself? 1  The gravitational potential energy of the spacecraft increases; 2  The gravitational force that attracts the capsule to the Earth decreases; 3  The intensity of the gravitational field within the capsule becomes negligible. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q32.** Which of the following statements are true for a spacecraft launched from the Earth that enters orbit around the Earth itself? 1 — The gravitational potential energy of the spacecraft increases; 2 — The gravitational force attracting the capsule toward the Earth decreases; 3 — The intensity of the gravitational field inside the capsule becomes negligible. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
-
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q33" data-atom="q33" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
@@ -1160,15 +986,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q33.** When a body moves in simple harmonic motion, which of the following quantities: 1  acceleration, 2  force of attraction, 3  speed, vary over time with a deceleration of $\pi/2$ with respect to position? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q33.** When a body moves with simple harmonic motion, which of the following quantities: 1 — acceleration, 2 — restoring force, 3 — velocity, vary over time with a phase shift of $\pi/2$ with respect to the position? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q34" data-atom="q34" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/kinetic-theory,argomento/termodinamica,object/gas"></span>
@@ -1194,20 +1014,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q34.** Ciascuno dei grafici mostra due possibili curve di distribuzione di velocità delle molecole di un gas $N(c)$. Which pair of curves fits properly to a gas mass that is once at $T_1$ and another at $T_2$, with $T_1<T_2$? *[Five pairs of AE curves; at higher temperature the peak moves to higher speeds and drops.]*
+**Q34.** Each of the graphs shows two possible velocity distribution curves of the molecules of a gas $N(c)$. Which pair of curves correctly fits a mass of gas that is at one time at temperature $T_1$ and another time at temperature $T_2$, with $T_1<T_2$? *[Five pairs of curves A–E; at the higher temperature the peak shifts toward higher velocities and becomes lower.]*
 
 <!--fig:start-->
-**p.12** — Cinque coppie di curve distribuzione velocita
+**p.12** — Five pairs of velocity distribution curves
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p12_f19.png]]
 <!--fig:end-->
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q35" data-atom="q35" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/conducting-sphere,object/rope-string"></span>
@@ -1233,20 +1047,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In one experiment the force $F$ between two loaded spheres, suspended by insulating wires, was measured for different values of the distance $r$ between the centres. The values of $F$ are reported as a function of $1/r^2$. The Commission has already adopted a number of proposals for a directive on the protection of workers' rights. What statements explain this fact? 1  It is more difficult to accurately measure the larger forces; 2  It is more difficult to accurately measure the larger distances; 3  At short distances the loads may not be evenly distributed over the spheres. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q35.** In an experiment, the force $F$ between two charged spheres, suspended by insulating threads, was measured for various values of the distance $r$ between the centers. The values of $F$ are plotted as a function of $1/r^2$. Drawing the line that best fits the measurements, it appears that two points have been ignored. Which statements explain this fact? 1 — It is more difficult to measure larger forces precisely; 2 — It is more difficult to measure larger distances precisely; 3 — At small distances the charges might not be distributed uniformly on the spheres. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
 <!--fig:start-->
-**p.12 **  Graph of force in function of 1/r^2
+**p.12** — Graph of force as a function of 1/r^2
 ![[_attachments/Loc95 (2 files merged)/Loc95 (2 files merged)_p12_f20.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
-
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q36" data-atom="q36" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens"></span>
@@ -1296,15 +1104,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q37.** The values of the water wave propagation rate (in $\text{m s}^{-1}$) measured at different wavelengths ($10^{-3}$ ...) are given in the table. $10^2\ \text{m}$) and for 4 depth values ($10^{-1}$ ... $10^2\ \text{m}$). What claims can be made? 1  For wavelengths of $10^{-1}\ \text{m}$ or less the speed is independent of depth; 2  For wavelengths of $100\ \text{m}$ the speed increases as the depth increases; 3  For wavelengths of $1\ \text{m}$ or more the speed varies as the wavelength varies, especially at greater depths. (a) Only the first; (b) Only the second; (c) Only the first and third; (d) Only the second and third; (e) The first, second and third.
+**Q37.** The table shows the values of the propagation speed (in $\text{m s}^{-1}$) of waves in water, measured for different wavelengths ($10^{-3}$ ... $10^2\ \text{m}$) and for 4 values of depth ($10^{-1}$ ... $10^2\ \text{m}$). Which statements can be supported? 1 — For wavelengths of $10^{-1}\ \text{m}$ or smaller the speed is independent of depth; 2 — For wavelengths of $100\ \text{m}$ the speed increases as depth increases; 3 — For wavelengths of $1\ \text{m}$ or larger the speed varies as the wavelength varies, especially at greater depths. A) Only the first; B) Only the second; C) Only the first and the third; D) Only the second and the third; E) The first, the second and the third.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
-
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q38" data-atom="q38" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -1325,15 +1127,9 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-In appropriate situations the power is given by: 1  [current]$\times$[potential difference]; 2  [transformed energy]$:$[time]; 3  [force]$\times$[speed]. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q38.** In appropriate situations power is given by: 1 — [current]$\times$[potential difference]; 2 — [transformed energy]$:$[time]; 3 — [force]$\times$[velocity]. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q39" data-atom="q39" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/elasticity-e-materials,argomento/meccanica,object/spring"></span>
@@ -1354,15 +1150,9 @@ The Commission has also adopted a number of measures to ensure that the Commissi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q39.** A light spring is cut into two parts, one twice the length of the other. The elongation force graph for the shortest spring is linear up to a load $W$. For the other spring: 1  the graph is linear only up to a load equal to $W/2$; 2  the second spring's constant is different; 3  for a given load, the extension of the longest spring is double. What statements are true? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q39.** A light spring is cut into two parts, one twice as long as the other. The force–extension graph for the shorter spring is linear up to a load $W$. For the other spring: 1 — the graph is linear only up to a load equal to $W/2$; 2 — the spring constant of the second spring is different; 3 — for a given load, the extension of the longer spring is double. Which statements are true? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position.
-
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1qgHmQPOcWBGfpx_gXT5as19_LZan9q_w/view)
 
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="OII 1995 1° Livello Quiz — Loc95 (2 files merged).pdf — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/cylinder,object/piston,object/gas"></span>

@@ -379,349 +379,92 @@ kg
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM n.
 1
 {
-Balance of payments
-He laughs:
+Equilibria:
 :
 :
 100
-The Commission
-ti
-Il
-The Commission
- o
-di
-Other
-m
-2
-in
+Points
+The block of mass m
+2 in
 
-Gurus
-App
-today
-su
-un
-- It 's not easy .
-The following is the list of the countries:
-such
-ed
+the figure rests on a horizontal plane and
 
-e
-in
- on
-The touch
- on
-un
-The Commission
- o
-di
-Other
-m
+is in contact with a block of mass m
 1
-,
-p
-Other
- on
-The Commission
-un
-- It 's not easy .
-v
-High-winged
-e
-Not
-in
- on
-The touch
- ol
-- It 's not easy .
-The following is the list of the countries:
-I'm not sure.
-Il
- on
-The touch
-between
-i
-two
-The Commission
+, placed on top of a vertical plane and not in contact with the horizontal plane.
+The contact between the two blo
 
-hi
-a
-He 's coming .
-long
-un
-- It 's not easy .
-orthodox
-al
-- It 's not easy .
-di
+cks occurs along a plane orthogonal to the plane of the
 
-Gurus
-e
+figure and
 
-he
-Form
- ol
-- It 's not easy .
-The following is the list of the countries:
-such
-un
-angle
+forming with the horizontal plane an angle
 
 .
-Al
-The Commission
- o
-di
-Other
-m
-2
-He 's coming .
-Applications for the
-One of them.
-- What ?
+To the block of mass m
+2 a horizontal force
 ~
-F
-The following is the list of the countries:
-such,
-The following is the list of the countries of the European Union:
-- I'm not going to.
-human beings
-in
+F is applied, directed as in the
 
-I'm going to go.
+figure.
 1.
-Supp
-by the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
+Assuming
 
-he
-Not
-vi
-It's either
-the friction,
-si
-fa ia
-un
-The following table shows the following:
-di
-All of them
-le
-Forces
-Other
-ti
-su
-Ias one
-of the
-two
-The Commission
+that there is no friction, draw a diagram of all the forces acting on each of the two blo
 
-hi.
+cks.
 2.
 What
 
-e
-l'in
-Tensile
-a
-of the
-- What ?
+is the magnitude of the force
 ~
-F
-o
-Other articles
-te
-p
-er
-h
-
-e
-il
-system
-Stay with me.
-in
-What's the balance?
+F needed for the system to remain in equilibrium?
 3.
-Se
-ad
-un
-high
-Other
-te
-(t
+If at a certain instant (t
 =
 0)
-l'in
-Tensile
-a
-of the
-- What ?
+the magnitude of the force
 ~
-F
-He 's coming .
-doubled
-Responsibility
-Other
-al
-v
-Other
-to the wave
-al
-the following points are added:
-to
-2,
-What
+F is doubled with respect to the value calculated in point
+2, what
 
-e
-The following is a list of the types of products:
- on
- ui
-il
-The Commission
- o
-di
-Other
-m
-1
-si
-m
-uo
-v
-e
-v
-Other
-The top?
+is the acceleration with which the block of mass m
+1 moves upward?
 4.
 What
 
-e,
-in
-function
-of the
-Temp
-o,
-la
-p
-the authorisation
-I'm not a
+is, as a function of time, the mechanical power
 
-he
-o
-Horrors
-The Commission shall adopt implementing acts.
-al
-The Commission
- o
-di
-Other
-m
-2
-p
-er
-h
-
-e
-il
-v
-Other
-di
-F
-to the wave
-al
-the following points are added:
-to
-3
-si
-Man
-The following is the list of the
-Other
-te
-In the
-Temp
-o?
+that must be applied to the block of mass m
+2 so that the value of
+F calculated in point
+3 remains constant over time?
 5.
-Se
+If
  '
 
-e
-in
-v
-e e
-Friction
-on the
-- It 's not easy .
-The following is the list of the countries:
-such
-e
-That one.
-v
-High-winged
-( on
-lo
-of the same
- o
-It is
-te
-di
-Friction
-States or
-),
-By remaining
-The following is the list of the
-a
-di
-Friction
-la
-Supplementary
-er
- ie
-the oblique,
-What
+there is instead friction on the horizontal plane and on the vertical one (with the same static friction coefficient
+), while the oblique surface remains frictionless, what
 
-e
-il
-v
-Other
-Minimum
-di
-F
-p
-er
-a
-v
-The following are the
-What's the balance?
-P
-er
-i
-Oil
-n
-The following is the list of
-si
-Manufacture
-i
-following
-ti
-v
-the following:
+is the minimum value of
+F to have equilibrium?
+For the numerical calculations use the following values:
 g
 =
-9:81
-m
-s
+9:81 m s
  2
 ;
 m
 1
 =
-5
-kg;
+5 kg;
 m
 2
 =
-3
-kg
+3 kg
 ;
 
 =
@@ -733,13 +476,7 @@ kg
 0:2.
 |||||||||||
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/14d9r6SFJ0fktSQ1pDGVfnswDkoEqYJ2v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2007 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/resistor,object/inductor,object/battery,object/switch"></span>
@@ -988,243 +725,93 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 2
 {
-Oh, yeah.
-The Commission
-I'm not going to lie.
+Oh my, inductances!
 50
-The Commission
-ti
-In the
-I have forgotten
-in
+Points
+In the circuit in
 
-Gurus
-I am
-Notes
-only
-i
-v
-Other
-of the
-Resistance
+figure only the values of the resistances
 R
 =
-2:5
-k
+2.5 k
 
-e
+and
 R
 2
 =
 2R
-,
-Men and women
-three
+are known, while
 R
 1
-,
-la
-f.e.m
-E
-e
-the inductance
-L
-I am
-In days.
-The Commission
-h
+, the e.m.f.
+E and the inductance
+L are unknown.
+As long
 
-e
-l'in
-The terror
+as the switch
 
-e
-ap
-high
-la
-Other articles
-te
-In the
-I have forgotten
+is open, the current in the circuit
 
-e
-n
-The following is the list of the products:
-o
-I'm not going to lie.
-At the
+is zero everywhere.
+When the switch is closed, the instantaneous current supplied by the generator
 
-Other, of a kind used for the manufacture of goods
-of the in
-The terror
-la
-Other articles
-te
-Other
-Other
-provided
-from
-Manufacture of electrical equipment
-
-e
+is
 I
 0
 =
-5
-mA,
-Men and women
-three
-a
-the scheme
-la
-itself
-Other articles
-te
+5 mA, while in steady state the same current
 
-e
-Other
-mother
-a
+has increased to
 I
 1
 =
-9
-mA
+9 mA
 .
 1.
-Determining
-i
-v
-Other
-in oignons
+Determine the unknown values
 
-he
-p
-They are
-to be
-ri a
-v
-Other
-da
-These
-two
-measures.
-After
-o
-a
-v
-er
-Other
-high
-l'in
-The terror of the world.
-si
-Measure
-energy
+that can be derived from these two measurements.
+After having reopened the switch, the energy
 U
 =
-0:040
+0.040
 J
-,
-Dispersed
-from
-resistance
+dissipated by the resistance
 R
 1
-.
+is measured.
 2.
-Use
-This one.
-given
-p
-er
-ri a
-v
-are
-The last one
-Other
-to
-in each
-of the
-I'm going to forget.
+Use this datum to derive the last unknown element of the circuit.
 3.
 
-E
-p
-Other, not further worked than hot-rolled
+Is it possible
 
-he,
-al
-Moments
-to
-of the
-Other
-Other, of a kind used for the manufacture of goods
-of the in
-The terror of the world.
-ai
-Bees
-of induction
-si
-p
-Other
-a
-v
-The Commission
-One of them.
-d.d.p.
-major
-of the
-f.e.m.
-of the
-Manufacture of electrical equipment
-Inserted
-In the
-I'm going to go.
-The reason
-are
-The Commission shall adopt the following measures:
-te
-la
-Responsibility
-The stake.
-P
-ag.
-2
-di
+that, at the moment of reopening the switch, across the inductance there can be a p.d.
+greater than the e.m.f.
+of the generator inserted in the circuit?
+Justify your answer adequately.
+Pag.
+2 of
 4
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
+Olympiad of
+Physics
 2007
-Ga
-ra
-National team:
-The following is the list of the Member States:
-V
-A
-Theoretical
+National Competition:
+THEORETICAL
+TEST
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2007
 
-**Topic:** [[Circuits]], [[Electromagnetic Induction]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/14d9r6SFJ0fktSQ1pDGVfnswDkoEqYJ2v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2007 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/heat-engine"></span>
@@ -1954,549 +1541,101 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 3
 {
-That
-Other
-This summer!
+What a summer!
 100
-The Commission
-ti
-In
-This one.
-pr
-Other
-si
-He wants to
-Other
-e
-of the
-r
-a
-r
-e
-The Commission shall adopt a decision on the
-di
-un
-App
-cattle
-p
-er
-half
-di
-un
-
-Other, of a kind used for the manufacture of goods
-e
-Air,
-only
-al
-lo
-s
-op
-o
-di
-to be
-un
-'Ide
-a
-of the
-The following is a list of the phenomena:
-e
-di
-estimate
-e
-le
-gr
-Other
-in
-I'm not going to
-
-o.
-For
-- to make
-e
-This one.
-in
-mo
-do
-Other
-e
-o
-
-I 'm sorry .
-e
-In the case of
-o
-The following is the list of the
-e
-The following table shows the results of the study:
-e
-d
-Approved
-Other, of a kind used for the manufacture of textile materials
-I'm not sure.
-dr
-He is:
-
-Other
-er
-Emo
- he
-It 's all right .
-The app
-cattle
-It's either,
-in
-o
-Other
-immediately,
-al
-la
-itself
-Temp
-er
-Other
-a,
- he
-lo
-s
-both
-di
-
-Other
-e
-The Commission shall adopt a decision on the
-only
-p
-er
-
-Other, of a kind used for the manufacture of goods
-e
- he,
-p
-er
-The following shall be added:
-e
-i
-pr
-o
-
-They
-di
-s
-both
-Other
-o
-tr
-a
-The app
-cattle
-e
-the environment
-the external,
-si
-p
-Other
-use
-e
-only
-of the
-le
-estimates
-di
-
-ap
-a it
-a
-Other
-a
-of the
-system
-e
-di
-
-Other, of a kind used for the manufacture of goods
-of the
-le
-p
-ar
-The Commission shall adopt implementing acts.
-In
-One of them.
-day
-Other
-a,
-un
-Apartments
-to
-
-e
-ra
-income
-Median
-te
-un
-Other, of a kind used for the manufacture of goods
-Air
-
-he
-We 'll deal with it .
-human beings
-One of them.
-ma
-Other
-Other
-made
-to work
-a
-ro
-v
-es io
-(Frizzler)
-Il
-Other, of a kind used for the manufacture of goods
-transfer and
-One of them.
-When
-Title
-a
-di
-Other
-equal
-ad
-One of them.
-fraction
-
-of the
-When
-Title
-a
-di
-Other
-transferred
-da
-One of them.
-ma
-Other
-di
-Other meat offal
-
-he
-It works .
-a
-ro
-v
-es io
-between
-le
-The same
-Temp
-The Commission has not yet adopted a proposal.
+Points
+In this problem we want to discuss the cooling of an apartment by means of an
+air conditioner, only for the purpose of getting an idea of the phenomena and estimating the quantities involved.
+To do this in a simple way it is necessary to introduce rather drastic schematizations and approximations:
+we will consider that the whole apartment is, at every instant, at the same temperature, that heat exchange occurs only by
+conduction and that, in order to evaluate the processes of thermal exchange between the apartment and the external environment, one can use only estimates of the
+heat capacity of the system and of the
+conductance of the walls.
+On a summer day, an apartment
+was cooled by means of an air conditioner
+which we will treat as a thermal machine made to run in reverse (refrigerator).
+The air conditioner transfers an amount of heat equal to a fraction
+of the amount of heat transferred by a
+Carnot
+machine that operates in reverse between the same temperatures.
 1.
-F
-Other
-References
-to
-The Commission
-Other
-i
- ui
-v
-Other
-I am
-RIP
-Other articles of heading No.
-down,
-determining the
-a word
-p
-er
-il
-
-the outer
-Other, of a kind used for the manufacture of goods
-in
-The entrance
-
-in
-e
-p
-er
-That one.
-in
-The United States
-
-out
-from the apartment
-to
-in
-function
-di
+Referring to the quantities whose values are given below, determine an expression for the
+thermal flux entering
+in and for that leaving
+out of the apartment as a function of
 K
 ,
 C
 ,
-T
-e
+T e
 ,
 P
 ,
 
-e
-of the
-Temp
-Other
-Other
-Other
-T
-of the apartment
-to.
+and of the instantaneous temperature
+T of the apartment.
 2.
-Se
-si
-The Commission
-That's it.
-in
-Other
-te
-il
-Other, of a kind used for the manufacture of goods
+If the air conditioner is left running continuously
 
-no
-a
-to achieve
-One of them.
-State of the Union
-di
-the scheme
-stationary,
-which
-will be
-a
-la
-Temp
-Other
-of the apartment
-to?
-A
-un
-high
-Other
-te
-(yes)
-t
+to reach a steady-state regime, what will the temperature of the apartment be?
+At a certain instant (let it be t
 =
-0),
-When
-la
-Temp
-Other
-in
-Other
-of the apartment
-to
+0), when the internal temperature of the apartment
 
-e
+is
 T
 0
 =
 18
 Æ
-C,
-il
-Other, of a kind used for the manufacture of goods
-He 's coming .
-sp
-en
-to
-e
-the apartment
-to
-It starts
-a
-I'm going to get up.
-Ci
-si
+C, the air conditioner is turned off and the apartment begins to warm up.
+The question
 
-Heads of
-which
-will be
-a
-la
-his
-Temp
-Other
-after
-o
-- I'll be there for an hour.
-Un
-mo
-do
-Approximate
-di
-for
-Other
+is what its temperature will be after one hour.
+An approximate way of proceeding
 
-e
-That one.
-di
-use
-the expression
-{
-The Commission
-v
-Other
-Before
-{
-of the
+is to use the expression
+{ found earlier
+{ of the
 
-the outer
-Other, of a kind used for the manufacture of goods
-v
-Other
-the outside
-p
-er
-in the waves
-i
-on the sea
-in remen
-ti
-di
-Temp
-Other
+heat flow toward the outside to calculate the successive temperature increments
  T
 =
-T
-(t
-+
- t)
- T
-(t),
-a
-to leave
-da
-T
-(0)
+T (t
++ t)
+ T (t), starting from
+T (0)
 =
 T
 0
-,
-by taking
-in remen
-ti
-
-Other
-e
-Other
-ti
-di
-Temp
-o
- t
+, assuming finite and constant time increments t
 =
-15
-Minimum number of days
-I'm the first.
+15 min each.
 3.
-Other
-la
-Temp
-Other
-of the apartment
-to
-after
-o
+Calculate the temperature of the apartment after
 
-he
-
-e
-Other
-- I'll be there for an hour.
+one hour has passed.
 4.
-Show
-in
-General
+Show in general
 
-he,
-se
-The Commission
-in remen
-ti
-Temp
-Oral or oral
- t
-I am
-Other
-ti
-(p
-Other
-So, what do you mean?
-t
-k
+that, if the time increments t are constant (setting therefore t k
+= k t), the sequence of differences
+F k
 =
-k
- t),
-la
-on exemption
-of the
-di
-Other, of a kind used for the manufacture of goods
-F
-k
-=
-T
-e
- T
-(t
-k
+T e
+ T (t k
 )
 
-e
-One of them.
-The following is the list of the following:
-The geometrical dimension of a.
-Il
-the oil
-of the
-Temp
-Other
-of the apartment
-to
+is a geometric progression.
+The calculation of the temperature of the apartment
 
-e
-pi
-
-u
-Other
-se
-si
-divides
-l'in
-Other
-The following is the list of the
-di
-Temp
-o
-Total
+is more correct if one divides the total time interval
 [0;
-t℄
-(p
-er
-Example
-One hour)
-in
-n
-in
-Other
-There you go.
-di
-Temp
-o
-([0;
+t℄ (p er esempio un'ora)
+in n in terv alli di temp o ([0;
 t
 1
 ℄;
@@ -2510,168 +1649,71 @@ t
 :
 :
 ;
-[t
-n 1
+[t n 1
 ;
 t℄)
-di
-equal to
-width
-( t
-=
-t=n),
-It's a good idea.
-p
-oi
-The following is the list of the
-n
-the following:
-I'm not.
+di uguale ampiezza ( t
+= t=n), fa endo p oi tendere n all'in nito.
 5.
-T
-ro
-v
-are
-in
-This one.
-mo
-do
-la
-function
-F
-(t)
+T ro v are in questo mo do la funzione
+F (t)
 =
-T
-e
- T
-(t).
+T e
+ T (t).
 6.
-Other
-la
-Other
-te
-di
-Temp
-o
-of the
-for
-It
-e
-la
-Temp
-Other
-of the apartment
-to
-after
-o
-- I'll be there for an hour.
-The data
-p
-er
-la
-Resolution
-of the
-The problem is:
-The Commission
-Other
-Other
-a
-of the
-walls
-of the apartment
-to
+Cal olare la ostan te di temp o del pro esso e la temp eratura dell'appartamen to dop o un'ora.
+Dati p er la risoluzione del problema:
+Conduttanza termi a omplessiv a delle pareti dell'appartamen to
 K
 =
 700
 W
 K
  1
-He can do it.
-a
-Other
-Other
-a
-of the apartment
-to
+Capa it a termi a omplessiv a dell'appartamen to
 C
 =
-2600
-kJ
+2600 kJ
 K
  1
-T
-The Commission
-Other
-Other
-T
-e
+T emp eratura esterna
+T e
 =
 32
 Æ
 C
-P
-the authorisation
-Electrical equipment
-used
-from
-Other, of a kind used for the manufacture of goods
+P otenza elettri a utilizzata dal ondizionatore
 P
 =
 900
 W
-It's a good thing.
-of the
-Other, of a kind used for the manufacture of goods
-The real thing,
-Responsibility
-Other
-a
-That one.
-of the
-Other, of a kind used for the manufacture of refrigerators
-Ideal
-between
-le
-The same
-Temp
-Other articles of heading No.
+EÆ ienza del ondizionatore reale, risp etto a quella del frigorifero ideale fra le stesse temp erature
 
 =
 65
 %
-P
-ag.
-3
-di
+P ag.
+3 di
 4
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
+Olimpiadi di
+Fisi a
 2007
-Ga
-ra
-National team:
-The following is the list of the Member States:
+Ga ra
+Nazionale:
+PRO
 V
 A
-Theoretical
+TEORICA
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+Ap rile
 2007
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/14d9r6SFJ0fktSQ1pDGVfnswDkoEqYJ2v/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OII 2007 Nazionale Teorica — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/nuclear-e-particle-physics,argomento/meccanica,object/capacitor,object/gas,object/electron"></span>
@@ -3397,716 +2439,142 @@ di
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 4
 {
-One of them.
-Measure
-al
-I'm going to fly.
+A measurement on the fly.
 50
-The Commission
-ti
+Points
 In
 
-si a
-n
-Other
-si
-use
-- I'm not going to.
-Today
-The following is the list of the countries of the European Union:
-Other, of a kind used for the manufacture of goods
+nuclear physics, detectors called ionization chambers are used today, designed to detect the passage of energetic charged particles through the ionization
 
-Other, of a kind used for the manufacture of goods
-to love
-a
-ionization,
-Acts
-a
-The following is the list of the countries of the European Union:
-Other
-il
-Passage
-di
-She's leaving.
-Other
-he
-Energy
-he
-Median
-te
-la
-ionization
+that these produce in the gas contained in the detector.
+Essentially an ionization chamber
 
-he
-These
-for
-The following is the list of the
-In the
-Gas
- on
-The Commission shall adopt a decision on the
-Other
-In the
-The following is the list of the countries of the European Union:
-The elevator.
-The Commission shall adopt a decision on the
-te
-One of them.
-bitter
-a
-ionization
-
-e
-Established
-da
-un
-Other, of a kind used for the manufacture of goods
-ad
-Other articles of iron or steel
-Plans
-e
-parallel,
-between
- ui
-He 's coming .
-established
-One of them.
-di
-the herence
-di
-p
-The following information shall be provided:
+consists of a capacitor with flat, parallel plates, between which a potential difference is established
 V
 
 =
 V
 0
-,
-Filling
- on
-un
-Gas
-Op.
-It's the autumn.
-One of them.
-She 's gone .
-the following points are inserted:
-Energy
+, filled with a suitable gas.
+An energetic charged particle
 
-he
-the following points are added:
-v
-Other
-la
-bitter
-Ionization
-le
-Other, not elsewhere specified or included
-of the
-gas,
-for
-The following is the list of the
-Other
-di
-Electrons
-e
-Other
-p
-Other, not further worked than cut
+that crosses the chamber ionizes the gas molecules, producing pairs of electrons and positive ions
 
-he,
-a
-Other
-of the
-the presence
-of the
-amp
-o
-electrical or,
-Other
-a
-migration
-v
-Other
-le
-Op.
-Other
-Other articles of iron or steel
-(without
-for
-- to be painful
-Other
-The following table shows the results of the studies:
-A
-Other
-of the
- on
-Other
-ui
-The following is the list of the following:
- on
-The Commission
-le
-Other, not elsewhere specified or included
-of the
-gas,
-la
-v
-I'm going to
- it
-a
-di
-Electrons
-e
-Other
-pu
-o
-to be
-Unwanted
-{
-in
-average
-{
-Other
-te
-e
-He takes it.
-il
-Name of the person
-di
-v
-I'm going to
- it
-a
-di
-derivatives
-a.
-Si
-The following is the list of the
-the present
-te
-p
-er
-o
+which, due to the presence of the electric field, begin to migrate toward the opposite plates (without producing further ionization).
+Due to continuous collisions against the gas molecules, the velocity of electrons and ions can be considered
+{ on average
+{ constant and is called drift velocity.
+Note, however
 
-he,
-p
-er
-- I 'm not .
-of the
-Other
-Very much
-Div
-the height,
-la
-v
-I'm going to
- it
-a
-di
-derivatives
-a
-of the
-electrons,
-v
-e
+that, because of the very different masses, the drift velocity of electrons, v e
 ,
 
-e
-Very much
-major
-di
-That one.
-of the
-the ions,
-v
-i
+is much greater than that of ions, v i
 .
-A
-Other
-of the
-Other
-he
-The Commission
-the following points are added:
-from
-Passage
-of the
-She 's gone .
-Ionized
-te,
-la
-The following conditions shall apply:
-between
-le
-Armour,
+Because of the charges
+\produced" by the passage of the ionizing particle, the voltage between the plates,
 V
 
-,
-si
-- Get down there.
-Il
-Signal
+, decreases.
+The signal
 
-he
-il
-The following is the list of the countries of the European Union:
-Other, of a kind used for the manufacture of goods
-Other
+that the detector collects
 
-e
-la
-The following conditions shall apply:
+is the voltage
 V
-,
-v
-Airtight
-In the
-Temp
-o,
-de
-Notwithstanding
-The man:
-V
-(t)
+, variable in time, defined as:
+V (t)
 =
 V
 0
  V
 
 (t)
-P
-er
-The Commission
-Other
-of the
-the present
-te
-the army,
-p
-We dare to
-to be considered
-la
-bitter
-a
-ionization
-human beings
-un
-Other, of a kind used for the manufacture of goods
-insulated
-(an
-he
-se
-In the
-the real
-a,
-o
-I'm going to go.
-te,
-will be
-a
-of a kind used for the manufacture of goods
-ad
-un
-I have forgotten
+For the purposes of this exercise, we can consider the ionization chamber as an isolated capacitor (even though in reality, obviously, it will be connected to a circuit
 
-he
-si
-o
-Other
-The Commission has already adopted a proposal.
-to
-di
-the following:
-are
-il
-the signal,
-di
-record it
-e
-di
-Restore
-la
-The following conditions shall apply:
-Initial
+that is, it is able to pick up the signal, record it, and restore the initial voltage
 V
 0
 ).
-Si
-Supp
-Other
+Assume
 
-he
-il
-The following is the list of the countries of the European Union:
-a power source,
-the country of Kazakhstan
-te
-t
+that the detector, at the instant t
 =
-0,
-v
-The following is the list of the products:
-the following points are added:
-v
-Other
-da
-One of them.
-She 's gone .
-Ionized
-te
+0, is crossed by an ionizing particle
 
-he
-si
-m
-uo
-v
-e
-Other
-te
-The Commission
-Armour,
-ad
-One of them.
-distance
-x
-da
-That one.
-p
-Other
-a.
-Il
-Temp
-o
-di
-the following points are added:
-v
-Other
-to
-of the
-The following is the list of the countries of the European Union:
-Other, of a kind used for the manufacture of goods
-da
-Part
-of the
-She 's gone .
+that moves parallel to the plates, at a distance x from the positive one.
+The time of crossing of the detector by the particle
 
-e
-Very much
-pi
+is much
 
-u
-Other
-of the
-Other
-time
-in
-I'm not going to
- o
-e
-pu
-o
-to be
-I'm sorry about that.
+smaller than the other times involved and can be neglected.
 1.
-Si
-the expression
-il
-la
-v
-gold
-made
-from
-- What ?
-Electrical equipment
-su
-un
-Electron
-(o
-su
-One of them.
-(i) the
-in
-function
-of the
-Temp
-o.
+Express the work done by the electric force on an electron (or on an ion)
+as a function of time.
 2.
-Si
-the expression
-il
-p
-The following information shall be provided:
-V
-(t)
-in
-function
-of the
-n
-Other
-N
-di
-Other
-Electrons
-for
-the competent authorities,
-of the
-distance
-d
-between
-le
-Armour,
-of the
-- What?
-a
-C
-of the
-Other, of a kind used for the manufacture of goods
-e
-of the
-v
-I'm going to
- it
-a
-di
-derivatives
-a
-of the
-Electrons
-e
-of the
-Other
-(more
+Express the potential
+V (t)
+as a function of the number
+N of electron{ion pairs produced, of the distance d between the plates, of the capacitance
+C of the capacitor and of the drift velocities of the electrons and of the ions (as well
 
-he
-of the
-the following points are inserted:
-Other
-the following:
-e).
-Suggestions
-to:
-si
-the use of
-The Commission shall adopt the following measures:
-Energy
-he.
-Si
-The following is the list of the
-the present
-te
+as of the elementary charge, e).
+Hint:
+use energy considerations.
+Keep in mind
 
-he
-il
-Signal
+that the signal
 
-e
-Very much
-Minor
-di
+is much smaller than
 V
 0
-,
-e
-This one.
-onsen
-te
-di
-to do
-One to one
-The following is the list of the approximations:
+, and this allows some approximations to be made.
 3.
-P
-oi
-h
+Since
 
-e
-le
-v
-I'm going to
- it
-a
-di
-derivatives
-a
-I am
-Very much
-Div
-the height,
-Almost
-Always
-The Commission
-Electrons
-I 'm coming
-- What?
-the anus
-do
-Before
+the drift velocities are very different, almost always the electrons reach the anode before
 
-he
-The Commission
-Other
-I 'll be right there .
-al
-the act
-do;
-Supp
-We are
-So, what do you mean?
+the ions reach the cathode;
+let us therefore assume
 
-he
- i
-o
-a
-vv
-The following is the list of the products:
-an
-he
-in
-This one.
-I'm not going to.
-Si
+that this also happens in this case.
+One
 
-the following is the list of the products:
-t
-e
-the country of origin
-te
-in
- ui
-I 'm coming
-- What?
-The Commission
-Electrons
-e
-t
-i
-That one.
-on the exiv
-o
-in
- ui
-I 'm coming
-- What?
-The Commission
-I'm not going to lie.
-Si
-The Commission
-vi
-the andamen
-to
-of the
-the signal,
-V
-(t),
-between
-t
-e
-e
-t
-i
-in
-function
-di
-N
-,
-d,
-C
-,
-v
-i
-ed
-x.
+here are the times at which the electrons arrive and t_i that at which the ions arrive.
+Find the behavior of the signal,
+V(t), between t_e and t_i as a function of
+N, d, C, v_i and x.
 4.
-Si
-The Commission
-vi
-il
-v
-Other
-di
-V
-after
-o
-t
-i
-.
+Find the value of V after t_i.
 Note:
-a
-This one.
-result
-si
-pu
-o
-I 'm coming
-are
-an
-he
-without
-Resolving
-The Commission
-i
-the following points are added:
-ti
-for Eden
-ti.
+this result can also be reached without solving the previous points.
 5.
-Si
-between the
-un
-The following is the list of the
- o
-The quality
-o
-of the andamen
-to
-di
-V
-(t).
+Draw a qualitative graph of the behavior of
+V(t).
 |||||||||||
-Other materials
-for
-The Commission
-from
-Group
-o
-Olympic Games
-Project
-Project
-Olympic Games
-The Secretariat
-The Olympics
-Italian
-of the
-The following is a list of
-p
-Results
-Li eo
-The Commission
- o
+Material produced by the group
+OLIMPIADI
+PROGETTO
+PROGETTO
+OLIMPIADI
+Secretariat
+Italian Olympiads
+of Physics
+at Liceo
+Scientifico
 \U.
-Mo
-'R'
-The Commission
-The Master
-The fax:
-041.584.1272
-E-mail:
-Free olive oil
-t
-P
-ag.
-4
-di
+Morin"
+VENICE
+MESTRE fax:
+041.584.1272 e-mail:
+olifis libero.it
+Pag.
+4 of
 4
 
-**Topic:** [[Electrostatics]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Gas (object)|Gas]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/14d9r6SFJ0fktSQ1pDGVfnswDkoEqYJ2v/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
+
+

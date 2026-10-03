@@ -47,35 +47,29 @@ Nel terzo caso l'asta è inizialmente appoggiata contro la parete, ma alla doman
 
 <div class="qlang-split" data-lang="en"></div>
 
-**This falls from the vertical support**
+**Rod falling from a vertical support**
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. The following table shows the total number of points:
+**PROBLEM no. 1 — Rod** *(100 points)*
 
-A homogeneous axis of $M$ mass, $L$ length and negligible cross-sectional dimensions is initially supported vertically on a rigid horizontal floor in unstable equilibrium. Discuss the following cases, without regard to friction except where explicitly required, and indicate with $\vartheta$ the starting support point and with $\vartheta$ the angle it forms at each instant with the horizontal plane.
+A homogeneous rod of mass $M$, length $L$ and negligible transverse dimensions is initially resting in a vertical position on a rigid horizontal floor, in unstable equilibrium. Discuss the following cases, without considering friction except when explicitly required, and denoting by $\vartheta$ the initial point of support and by $\vartheta$ the angle it forms at every instant with the horizontal plane.
 
-In the first case the auction has no support except the floor without friction. Since the balance is unstable, at some point it begins to fall to the right.
+In the first case the rod has no support other than the frictionless floor. Since the equilibrium is unstable, at a certain point it begins to fall to the right.
 
-1. Tell how far from O is the center of the auction when it touches the floor.
+1. State at what distance from O the center of the rod is located when it touches the floor.
 
-In this second case, the axle is initially leaning against a vertical wall and begins to fall rotating around O. At some point it loses contact with the wall and, as it continues to fall, begins to slip laterally onto the floor.
+In this second case, the rod is initially resting against a vertical wall and begins to fall rotating about O. At a certain point it loses contact with the wall and, continuing to fall, begins to slide sideways on the floor.
 
-2a. Calculate the radial and tangential components of the acceleration of the centre of mass (or axle centre) at the angle $\vartheta$.
+2a. Calculate the radial and tangential components of the acceleration of the center of mass (or center of the rod) as a function of the angle $\vartheta$.
 
-2b. Calculate the value of $\vartheta$ and the velocity of the centre of mass as it begins to slide laterally on the floor.
+2b. Calculate the value of $\vartheta$ and the velocity of the center of mass at the instant when it begins to slide sideways on the floor.
 
-In the third case, the axle is initially supported against the wall, but in question 1, between the floor there is a certain static friction, with a coefficient $\mu$. However, even with $\mu$ however large, there is certainly a shift in the support point of the auction on the floor when $\vartheta$ reaches a certain limit value.
+In the third case the rod is initially leaning against the wall, but in question 1, between it and the floor there is a certain static friction, with coefficient $\mu$. However, even with $\mu$ however large, there is certainly a slipping of the rod's point of contact with the floor when $\vartheta$ reaches a certain limiting value.
 
-3. Find that value.
+3. Find this value.
 
-*Suggest: the moment of inertia of the axle relative to an axis orthogonal to it and passing through one of its ends is $M L^2/3$.*
+*Hint: the moment of inertia of the rod about an axis orthogonal to it and passing through one of its ends is $M L^2/3$.*
 
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1G0Kl6J7nbKi94XoFECwGMeIxGqUZduKe/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10Sbgc2sfqgkOM3OGpE7tDcfuDVNzihAH/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/10Sbgc2sfqgkOM3OGpE7tDcfuDVNzihAH/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2004 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
@@ -113,32 +107,26 @@ All'istante iniziale, l'oggetto si trova nell'origine del sistema di riferimento
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Object in straight motion (speed-time chart analysis) **
+**Object in rectilinear motion (analysis of the velocity-time graph)**
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. 2  Object in straight motion** *(60 Points)*
+**PROBLEM no. 2 — Object in rectilinear motion** *(60 points)*
 
-An object of mass $m = 0.5\ \text{kg}$ moves along a straight line. The speed of the motion over time is shown in the graph next to this.
+An object of mass $m = 0.5\ \text{kg}$ moves along a straight line. The behavior of velocity over time is represented by the graph beside it.
 
 <!--fig:start-->
 ![[_attachments/NAZ04T/NAZ04T_p2_f1.png]]
-*Graph of speed $v$ (m/s) in terms of time $t$ (s): the curve is divided into phase 1, phase 2 and phase 3 by the lines drawn; the $t_0,\dots,t_6$ moments are marked and the vertical scale ranges from $-30$ to $30\ \text{m/s}$.*
+*Graph of velocity $v$ (m/s) as a function of time $t$ (s): the curve is divided into phase 1, phase 2 and phase 3 by the dashed lines; the instants $t_0,\dots,t_6$ are marked and the vertical scale goes from $-30$ to $30\ \text{m/s}$.*
 <!--fig:end-->
 
-At the initial moment, the object is located at the origin of the reference system.
+At the initial instant, the object is at the origin of the reference system.
 
-1. Using the attached answer sheet, draw the trend of the motion time law and that of acceleration in relation to time (help with the squaring of the sheet to determine the values to be entered in the graphs).
-2. Draw then, on the right side of the answer sheet, at an arbitrary but appropriate scale, the velocity vector and the position vector for the moments $t_0$, $t_1$, $t_2$, $t_3$, $t_4$, $t_5$ and $t_6$.
-3. Finally, draw the graph of the kinetic energy of the object according to the position at each stage of the motion.
+1. Using the attached answer sheet, draw the behavior of the equation of motion and that of acceleration as a function of time (use the grid of the sheet to determine the values to be entered in the graphs).
+2. Then draw, in the right-hand part of the answer sheet, on an arbitrary but suitable scale, the velocity vector and the position vector at the instants $t_0$, $t_1$, $t_2$, $t_3$, $t_4$, $t_5$ and $t_6$.
+3. Finally, plot the graph of the kinetic energy of the object as a function of position in each phase of the motion.
 
-*Suggest: the values of the data used to construct the graphs and indicate in a very brief way how they were determined.*
+*Hint: the values of the data used for constructing the graphs and indicate very briefly the way in which they were determined.*
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1G0Kl6J7nbKi94XoFECwGMeIxGqUZduKe/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/10Sbgc2sfqgkOM3OGpE7tDcfuDVNzihAH/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/10Sbgc2sfqgkOM3OGpE7tDcfuDVNzihAH/view)
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OII 2004 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube,object/gas,object/bubble"></span>

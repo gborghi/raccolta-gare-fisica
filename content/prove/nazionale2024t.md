@@ -257,19 +257,13 @@ Unità di misura: m. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Fireball atomica**
+**Atomic fireball**
 
-When an atomic bomb explodes, a fireball ("fire ball") is created and expands rapidly. The fireball of the first atomic bomb had a radius of $80\,\text{m}$ after $0.006\,\text{s}$ from the explosion. Sapendo che il modo in cui la fireball si espande nel tempo dipende soltanto dall'energia sprigionata dalla bomba e dalla densità dell'aria, quanto era grande il raggio della fireball dopo $0.016\,\text{s}$ dall'esplosione?
+When an atomic bomb explodes, a fireball ("ball of fire") is created and expands rapidly. The fireball of the first atomic bomb had a radius of $80\,\text{m}$ after $0.006\,\text{s}$ from the explosion. Knowing that the way in which the fireball expands over time depends only on the energy released by the bomb and on the density of the air, how large was the radius of the fireball after $0.016\,\text{s}$ from the explosion?
 
-Unit of measurement: m. Precision required: 0.5%.
+Unit of measurement: m. Required precision: 0.5%.
 
-**Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1k4omelQ-Y-cF--bqRPrDmKl7Ar0VPQrx/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Iul6-HxkDknkYHJiu3QZdFzfPWZmwNV7/view)
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="GaS 2024 Nazionale Finale — Problema 8" data-tags="nazione/italia,tipo-gara/squadre,livello/nazionale,difficolta/4,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/cylinder"></span>

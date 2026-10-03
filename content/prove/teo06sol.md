@@ -38,26 +38,18 @@ $$\omega = \sqrt{\frac{6g}{5L}(1 - \cos\theta)} \quad (1)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 1  Watch the glue!
+PROBLEM no. 1 – Watch out for the glue!
 100 points
-Question No. 1.
-Since friction is negligible, energy is conserved. Measuring the gravitational potential energy at
-From the horizontal plane passing through the rotating axis, the law of conservation of energy is
-He writes:
+Question no. 1.
+Since friction is negligible, energy is conserved. Measuring the gravitational potential energy from the horizontal plane passing through the axis of rotation, the law of conservation of energy is written as:
 
 $$mg\left(\frac{2}{3}L\cos\theta\right) + \frac{1}{2}m\omega^2\left(\frac{2}{3}L\right)^2 - mg\left(\frac{1}{3}L\cos\theta\right) + \frac{1}{2}m\omega^2\left(\frac{1}{3}L\right)^2 = \frac{2}{3}L\,mg - \frac{1}{3}L\,mg$$
 
-Simplifying, we can get the angular velocity, $\omega$:
+Simplifying, we can derive the angular velocity, $\omega$:
 
 $$\omega = \sqrt{\frac{6g}{5L}(1 - \cos\theta)} \quad (1)$$
 
-**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 2006 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/rotational-dynamics,topic/newtonian-mechanics,argomento/meccanica,object/rod,object/sphere"></span>
@@ -471,15 +463,13 @@ $$\mathcal{N}_A = \frac{R\,T\,\Delta t}{\pi\eta a\,\langle\ell^2\rangle} = 6.3 \
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. Two zigzagging. . .
+PROBLEM no. 2 Zig-zagging. . .
 50 points
-Question No. 1.
-Consider 10 consecutive movements from any point, for example, from the position
-indicated by the number 1. A measure of their length in squares, having estimated a quarter of the
-The following table shows the number of units of the same size and the number of units of the same size.
-First position used: n. 1
+Question no. 1.
+Consider 10 consecutive displacements starting from any point, for example, from the position indicated with the number 1. A measurement of their length in grid squares, having estimated the quarter of a grid square, and converted into their actual scale is reported in the table below.
+First position used: no. 1
 
-♪ Position ♪ Move n. | lunghezza in figura (quadretti) | lunghezza effettiva $\ell$ ($\mu\text{m}$) | $\ell^2$ ($\mu\text{m}^2$) |
+| Position | Displacement no. | length in figure (grid squares) | actual length $\ell$ ($\mu\text{m}$) | $\ell^2$ ($\mu\text{m}^2$) |
 | --- | --- | --- | --- | --- |
 | 1 | - | - | - | - |
 | 2 | 1 | 3.25 | 10.40 | 108.16 |
@@ -495,18 +485,12 @@ First position used: n. 1
 
 $$\Sigma\,\ell^2 = 712.3 \times 10^{-12}\ \text{m}^2$$
 
-The average square displacement is $\langle\ell^2\rangle = \Sigma\,\ell^2/10 = 71.23 \times 10^{-12}\ \text{m}^2$.
-Substituting $\langle\ell^2\rangle$ and $\Delta t = 30$ s in Einstein's formula, you get an estimate of Avogadro's number
+The mean square displacement is $\langle\ell^2\rangle = \Sigma\,\ell^2/10 = 71.23 \times 10^{-12}\ \text{m}^2$.
+Substituting $\langle\ell^2\rangle$ and $\Delta t = 30$ s into Einstein's formula, one obtains an estimate of Avogadro's Number
 
 $$\mathcal{N}_A = \frac{R\,T\,\Delta t}{\pi\eta a\,\langle\ell^2\rangle} = 6.3 \times 10^{23}\ \text{mol}^{-1}.$$
 
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OII 2006 Nazionale Teorica — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,argomento/meccanica"></span>
@@ -599,16 +583,10 @@ PROBLEMA n. 3 – Pierino in laboratorio
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 3  I'm in the lab
+PROBLEM no. 3 – Pierino in the laboratory
 100 points
 
-**Topic:** [[Electromagnetism]], [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OII 2006 Nazionale Teorica — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/magnetism,argomento/meccanica,object/point-charge"></span>
@@ -818,34 +796,23 @@ notare che è indipendente da $V$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
-To ensure that the capacitor is loaded as it flows
-The current in the solenoid must be changed in any case one of the two circuits
-with the addition of a resistor. This can be done in two ways:
-The 'series' circuit (in the centre) must be added to the resistor in parallel to the
-Condenser; in the parallel circuit (right) it must be added in
-The Commission has already adopted a number of proposals. The circuit used is the one shown in the figure.
-However, in both ways, under the regime, the current in the solenoid is
+Problem no. 5.
+In order for the capacitor to be charged at steady state while current flows in the solenoid, one of the two circuits must nevertheless be modified by adding a resistor. This can be done in two ways: in the "series" circuit (in the center) the resistor must be added in parallel with the capacitor; in the "parallel" circuit (on the right) it must be added in series with the inductor. The circuit used is the one shown in the figure.
+However, in both ways, at steady state, the current in the solenoid is
 
 $$I = \frac{V}{R + r} \quad\Rightarrow\quad B = \frac{\mu_0 V N}{(R + r)\,\ell}$$
 
-e la d.d.p. on the capacitor is equal to that of the resistance $R$, i.e.
+and the potential difference across the capacitor is equal to that across the resistance $R$, that is
 
 $$V_C = RI = V\frac{R}{R + r} \quad\Rightarrow\quad E = \frac{V R}{(R + r)\,d}$$
 
-The speed (minimum if directed along the $z$ axis) is therefore
+The velocity (minimum if directed along the axis $z$) is therefore
 
 $$v = \frac{E}{B} = \frac{R\,\ell}{\mu_0\,d\,N};$$
 
-Note that it is independent of $V$.
+note that it is independent of $V$.
 
-**Topic:** [[Circuits]], [[Electrostatics]], [[Magnetism]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Ampère's Law (metodo)|Ampère's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Solenoid (object)|Solenoid]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 2006 Nazionale Teorica — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/circuits,topic/electrostatics,topic/magnetism,argomento/meccanica,object/solenoid,object/resistor"></span>
@@ -920,34 +887,25 @@ direzione radiale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 7.
-It can be observed that, with the data values, $r \ll R$ and therefore put in the previous expressions $R + r \approx R$.
-The energy dissipated by the resistance is that stored at the circuit; it is given by the sum
-of two terms relating to capacitor and inductance:
+Problem no. 7.
+It can be observed that, with the given values, $r \ll R$ and therefore set in the previous expressions $R + r \approx R$.
+The energy dissipated by the resistance is that stored in steady state in the circuit; it is given by the sum of two terms relating to the capacitor and the inductance:
 
 $$U = U_\text{el} + U_\text{m} = \frac{1}{2}C V^2 + \frac{1}{2}LI^2$$
 
-Where
+where
 
 $$C = \varepsilon_0\frac{S}{d}, \qquad L = \mu_0\frac{\pi a^2 N^2}{\ell} \qquad \text{e} \qquad I = \frac{V}{R}$$
 
-from which
+hence
 
 $$U_\text{J} = \frac{1}{2}V^2\left(\frac{\varepsilon_0 S}{d} + \frac{\mu_0 \pi a^2 N^2}{\ell R^2}\right) = 0.24\ \mu\text{J}$$
 
-The Commission has already taken a number of measures. 4  Lights and shadows
+PROBLEM no. 4 – Lights and shadows
 50 points
-The light that hits the vertical face passes through it without being deflected, at any height. It
-The curve of the curve is the curve of the curve. The normal at this surface has simply the
-radial direction.
+The light that strikes the vertical face passes through it without being deflected, at any height. It therefore strikes the curved surface horizontally. The normal to this surface simply has the radial direction.
 
-**Topic:** [[Circuits]], [[Electrostatics]], [[Electromagnetism]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Solenoid (object)|Solenoid]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OII 2006 Nazionale Teorica — Problema 16" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/cylinder,object/lens"></span>
@@ -1147,60 +1105,46 @@ $$\mathcal{N}_A = 5.89 \times 10^{23}\ \text{mol}^{-1}.$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 2.
-For decreasing values of $\alpha$ below $\alpha_\text{lim}$, a gradual deviation from the incidence point is achieved,
-and the most distant incidence must be for very small values of $\alpha$.
-For very small values we can consider the portion of prism that is crossed as: a plate at
-Flat and parallel faces (not affecting the direction of the orthogonal light rays to them) plus a lens
-piano–convessa che per $\alpha$ sufficientemente piccoli possiamo considerare sottile (vedi figura, a destra).
-The objective of this lens is to find the focal length $f$ of this lens, which is located at the limit of the lens.
-on the rear edge of the cylinder. For a thin lens, the lens manufacturers' equation gives
+Problem no. 2.
+For decreasing values of $\alpha$ below $\alpha_\text{lim}$ there is a progressive moving away of the point of incidence, and the most distant incidence must occur for very small values of $\alpha$.
+For very small values we can consider the portion of the prism traversed as: a plate with plane and parallel faces (which does not influence the direction of the light rays orthogonal to it) plus a plano-convex lens which, for sufficiently small $\alpha$, we can consider thin (see figure, on the right).
+The problem is then to find the focal length $f$ of this lens, which in the limit turns out to be positioned right on the rear edge of the cylinder. For a thin lens, from the lens makers' equation one obtains
 
 $$\frac{1}{f} = \frac{n - 1}{r},$$
 
-or $f = 10$ cm.
-The light then hits the table in a band between 1.71 and 10.0 cm away from the rear edge.
-The cylinder.
+i.e. $f = 10$ cm.
+The light therefore strikes the table in a band between 1.71 and 10.0 cm from the rear edge of the cylinder.
 NOTE: Alternative solution to Question 2
-To find the most distant possible point of impact, we must find this position for $\alpha$ very
-small, i.e. the incidence point of a generic beam corresponding to an angle $\alpha$ can be calculated,
-by crossing the limit for $\alpha \to 0$.
-For $\alpha$ sufficiently small (i.e. disregarding the terms in $\alpha^2$ and above in the series developments of the
-The point of impact of the beam on the curved surface of the cylinder is
-is located at a height $r\,\text{sen}\,\alpha \approx r\alpha$ from the table plane, on the vertical rear edge of the cylinder (i.e.
-distance from the axis $r\cos\alpha \approx r$). The angle of refraction is (by Snell's law, passing to the limit)
-$\arcsin(n\,\text{sen}\,\alpha) \approx n\alpha$ and therefore the angle between that radius and the table surface is $n\alpha - \alpha = (n - 1)\alpha$.
-The distance $x$ from the cylinder edge, at which the refracted beam hits the table, is given by the ratio
+To find the farthest possible point of incidence, one must find that position for $\alpha$ very small, that is, one can calculate the point of incidence of a generic beam corresponding to an angle $\alpha$, taking the limit as $\alpha \to 0$.
+For $\alpha$ sufficiently small (that is, neglecting terms in $\alpha^2$ and higher in the series expansions of the trigonometric functions involved) the point of incidence of the beam on the curved surface of the cylinder is at a height $r\,\text{sen}\,\alpha \approx r\alpha$ from the plane of the table, on the vertical through the rear edge of the cylinder (that is, at a distance from the axis equal to $r\cos\alpha \approx r$). The angle of refraction is (by Snell's law, taking the limit)
+$\arcsin(n\,\text{sen}\,\alpha) \approx n\alpha$ and therefore the angle between this ray and the surface of the table is $n\alpha - \alpha = (n - 1)\alpha$.
+The distance $x$ from the edge of the cylinder at which the refracted ray strikes the table is given by the relation
 
 $$r\alpha = x\tan[(n - 1)\alpha] \approx x(n - 1)\alpha,$$
 
-So, what do you mean?
+therefore
 
 $$x = \frac{r}{n - 1} = 10\ \text{cm},$$
 
-The Commission has already taken a number of measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the necessary measures are taken.
+as had been obtained with the previous solution.
 Material produced by the group
-Olympic Project
-Italian Olympic Secretariat for Physics
-The first is the study of the scientific method. I'm going to die.
-The Commission has already adopted a proposal for a regulation.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to combat fraud.
+PROGETTO OLIMPIADI
+Segreteria Olimpiadi Italiane della Fisica presso Liceo Scientifico "U. Morin"
+VENEZIA MESTRE fax: 041.584.1272 e-mail: olifis@libero.it
 
-Zanichelli publisher
+Zanichelli editore
 
-The National Race is being held with the support of
-Ministry of Education, University and Research
+The National Competition is made possible with the support of
+Ministry of Education, Universities and Research
 Municipality of Senigallia
-High School of Science "E. Medi' of Senegal
+Scientific High School "E. Medi" of Senigallia
 
-The Commission has already taken a number of measures. Two zigzagging. . .
-50 points
-Measurements of all movements in the figure.
-The following table lists all the values of Avogadro's number obtained from the following
-The following is the list of the positions:
+PROBLEM no. 2 Zig-zagging. . .
+50 Points
+Measurements of all displacements in the figure.
+The following table lists all the values of Avogadro's Number, obtained starting from successive initial positions.
 
-♪ Position ♪ Move n. | lunghezza (quadretti) | lunghezza effettiva $\ell$ ($\mu\text{m}$) | $\ell^2$ ($\mu\text{m}^2$) | $\Sigma\ell^2$ ($\mu\text{m}^2$) | $\mathcal{N}_A$ ($10^{23}\ \text{mol}^{-1}$) |
+| Position | Displacement no. | length (squares) | effective length $\ell$ ($\mu\text{m}$) | $\ell^2$ ($\mu\text{m}^2$) | $\Sigma\ell^2$ ($\mu\text{m}^2$) | $\mathcal{N}_A$ ($10^{23}\ \text{mol}^{-1}$) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | - | - | - | - | | |
 | 2 | 1 | 3.25 | 10.400 | 108.16 | | |
@@ -1255,9 +1199,6 @@ The Avogadro Number obtained by averaging the 47 values of $\ell^2$ gives the re
 
 $$\mathcal{N}_A = 5.89 \times 10^{23}\ \text{mol}^{-1}.$$
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1JNoK0SW8jTnkaQtfQBRKRJqP8HfWP5G6/view)
+
+

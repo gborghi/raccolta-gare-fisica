@@ -126,40 +126,32 @@ Pag. 2 di 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-3. Place a strip of paper or opaque adhesive tape vertically on the wall of the container.
-This strip, observed through the liquid from a diametrically opposite position, will appear
-It's enlarged. Determine the value of the linear magnification by keeping your eyes at a distance
-from the 10 or 15 cm container.
-To make your progress faster, here are some tips.
-A. To improve the visibility of objects placed behind the container, you can use a white background
-For example, one of the sheets of paper available to you.
-B. To track light rays, the container should be placed in the central area of a sheet
-white, attached with two pieces of biadhesive tape placed under the edge of the container itself;
-When you take the container off and you don't need it anymore, you stick two pieces of normal paper over it,
-Neutralize them.
+3. Fix a strip of paper or opaque adhesive tape vertically on the wall of the container.
+This strip, observed through the liquid from a diametrically opposite position, will appear magnified. Determine the value of the linear magnification by placing your eyes at a distance of 10 or 15 cm from the container.
+To help you proceed more quickly, here are some tips.
+A. To improve the visibility of objects placed behind the container, you can use a white background consisting, for example, of one of the sheets of paper available to you.
+B. To be able to trace the light rays, it is advisable to place the container in the central area of a white sheet, fixing it with two small pieces of double-sided tape placed under the edge of the container itself;
+when you remove the container and these are no longer needed, fix two small pieces of normal paper over them, to
+“neutralize” them.
 List of materials available to you:
-- n. 1 plastic container containing an unidentified liquid, sealed at the top with a thin film
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. (Don't open the container, don't puncture the film!)
-- n. 6 yellow-headed tarts
-- n. 1 50 cm reel
-- n. 1 goniometer, which may also be used to track circle arcs
-- n. 1 finely chopped pencil, indelible
-- n. 4 sheets of white paper in A4 format
-- n. 2 sheets of A4 format millimeter paper
-- bi-adhesive tape, $l\approx10$ cm
+- no. 1 plastic container containing an unknown liquid, sealed at the top with a thin transparent film. (Do not open the container, do not puncture the film!)
+- no. 6 sewing pins with colored heads
+- no. 1 50 cm ruler
+- no. 1 protractor, which can also be used to draw arcs of circles
+- no. 1 fine-tipped, indelible marker
+- no. 4 sheets of white A4 paper
+- no. 2 sheets of A4 graph paper
+- double-sided tape, $l\approx10$ cm
 - opaque adhesive tape, $l\approx10$ cm
-- n. 1 pencil with metallic cover, finely pointed
-- n. 1 carton on which to place the experimental device, so that you can plant the spikes
-- n. 1 cardboard to put on the floor to support your knees
+- 1 pencil with a metal casing, fine-pointed
+- 1 piece of cardboard on which to arrange the experimental setup, so that pins can be stuck into it
+- 1 piece of cardboard to place on the floor to rest your knees on
 On the service tables:
-- denatured alcohol and hydrophilic cotton, for the erasure of any marks on the container, drawn with a pencil
-- normal and bi-stick tape
+- denatured alcohol and absorbent cotton, to erase any marks on the container traced with the marker
+- regular adhesive tape and double-sided tape
 - scissors
-Pay it. 2 di 2
+Page 2 of 2
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VTSqOzp7nsrq7lX4fwT0VHVcE8hP0wQh/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-PNapXFvCdsjnGpj70KYp5Zvv8lFzXni/view)
+
+

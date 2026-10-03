@@ -47,15 +47,13 @@ $$p_0 = p_1 + p_2 = \frac{(n_1 + n_2) R T_0}{V} = \frac{(n_1 + n_2)\, p_{\text{O
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 1  Ozone dissociation energy
+PROBLEM no. 1 – Ozone dissociation energy
 
-Question No. 1.
+Question no. 1.
 
-In both compartments they are present
-$$n_1 = \frac{32\ \text{g}}{32\ \text{g mol}^{-1}} = 1\ \text{mol}$$
-of oxygen and
-$$n_2 = \frac{4\ \text{g}}{48\ \text{g mol}^{-1}} = \frac{1}{12}\ \text{mol}$$
-The ozone layer.
+In the two compartments there are
+$$n_1 = \frac{32\ \text{g}}{32\ \text{g mol}^{-1}} = 1\ \text{mol}$$ of oxygen and
+$$n_2 = \frac{4\ \text{g}}{48\ \text{g mol}^{-1}} = \frac{1}{12}\ \text{mol}$$ of ozone.
 
 The temperature is
 $$T_0 = \frac{p_{\text{O}_2} V_{\text{O}_2}}{n_1 R} = \frac{(1.015\times10^5\ \text{N m}^{-2})(0.0230\ \text{m}^3)}{(1\ \text{mol})(8.31\ \text{J K}^{-1}\text{mol}^{-1})} = 281\ \text{K}$$
@@ -63,19 +61,13 @@ $$T_0 = \frac{p_{\text{O}_2} V_{\text{O}_2}}{n_1 R} = \frac{(1.015\times10^5\ \t
 The volume of the second compartment is
 $$V_{\text{O}_3} = \frac{n_2 R T_0}{p_{\text{O}_3}} = \frac{n_2\, p_{\text{O}_2}}{n_1\, p_{\text{O}_3}} V_{\text{O}_2} = 2\ \text{dm}^3$$
 
-Put the two compartments in communication, the volume of the mixture is
+Once the two compartments are put in communication, the volume of the mixture is
 $$V = V_{\text{O}_2} + V_{\text{O}_3} = \frac{n_1\, p_{\text{O}_3} + n_2\, p_{\text{O}_2}}{n_1\, p_{\text{O}_3}} V_{\text{O}_2} = 25\ \text{dm}^3$$
 
-According to Dalton's law the pressure of the gas mixture is equal to the sum of the partial pressures:
+According to Dalton's law, the pressure of the gas mixture is equal to the sum of the partial pressures:
 $$p_0 = p_1 + p_2 = \frac{(n_1 + n_2) R T_0}{V} = \frac{(n_1 + n_2)\, p_{\text{O}_3} p_{\text{O}_2}}{n_1\, p_{\text{O}_3} + n_2\, p_{\text{O}_2}} = 1.012\times10^5\ \text{N m}^{-2}$$
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OII 1994 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/conservation-of-energy,argomento/meccanica,object/gas,object/cylinder"></span>
@@ -225,22 +217,16 @@ $$mg\mu_d x_0 = \frac{1}{2} k x_0^2 \quad\Rightarrow\quad x_0 = \frac{2mg\mu_d}{
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 2  Friction dragging
+**Problem no. 2 – Dragging by friction**
 
-We'll report the motion of the block relative to the ground.
+We will refer the motion of the block to the ground.
 
-Question No. 1.
+**Question no. 1.**
 
-The block is subject to a horizontal force $F_a = mg\mu_d$. The $x_0$ shift of the block is stopped when the work done by $F_a$ equals the potential energy stored in the spring:
+The block is subject to a horizontal force $F_a = mg\mu_d$. The displacement $x_0$ of the block ceases when the work done by $F_a$ equals the potential energy stored in the spring:
 $$mg\mu_d x_0 = \frac{1}{2} k x_0^2 \quad\Rightarrow\quad x_0 = \frac{2mg\mu_d}{k} = 0.42\ \text{m}$$
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OII 1994 Nazionale Teorica — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/block,object/spring"></span>
@@ -506,34 +492,26 @@ nella parte di tipo p della giunzione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 3  Junction n-p
+PROBLEM no. 3 – n-p junction
 
-Question No. 1.
+Question no. 1.
 
-The origin of a reference system shall be placed on the junction and the width of the emptying region in the type n part of the junction shall be indicated by $\ell_+$ and the width in the type p part by $\ell_-$. Allora $\ell_+ + \ell_- = \ell_0$.
+Place the origin of a reference system on the junction and denote by $\ell_+$ the width of the depletion region in the n-type part of the junction and by $\ell_-$ the width in the p-type part. Then $\ell_+ + \ell_- = \ell_0$.
 
-In a stationary situation, the electric current circulating in the semiconductor is zero. In this situation, the electric field in the free zone, i.e. outside the drainage region, is also zero.
+In the steady state the electric current flowing in the semiconductor is zero. In this condition the electric field is also zero in the region where there are free charges, that is, outside the depletion region.
 
-Since the emptying region is characterised by a much larger cross-sectional dimension $d$ than the width $\ell_0$, it can be assumed that the electric field is directed parallel to the longitudinal axis of the semiconductor sample within itself.
+Since the depletion region is characterized by a transverse dimension $d$ much larger than the width $\ell_0$, one may assume that inside it the electric field is directed parallel to the longitudinal axis of the semiconductor sample.
 
-Putting $E(-\ell_+) = E(\ell_-) = 0$ and applying Gauss' theorem you get
-$$E(x) = \frac{qn_+}{\epsilon}(\ell_+ + x) = \frac{qn_-}{\epsilon}\left(\ell_- + \frac{\ell_-}{\ell_+} x\right)$$
-in type n part of the junction; and
-$$E(x) = \frac{qn_-}{\epsilon}(\ell_- - x)$$
-in the type p part of the junction.
+Setting $E(-\ell_+) = E(\ell_-) = 0$ and applying Gauss's theorem one obtains
+$$E(x) = \frac{qn_+}{\epsilon}(\ell_+ + x) = \frac{qn_-}{\epsilon}\left(\ell_- + \frac{\ell_-}{\ell_+} x\right)$$ in the n-type part of the junction and
+$$E(x) = \frac{qn_-}{\epsilon}(\ell_- - x)$$ in the p-type part of the junction.
 
 <!--fig:start-->
-**p.6 **  Electric field at junction n-p
+**p.6** — Electric field in the n-p junction
 ![[_attachments/NAZ94SOL/NAZ94SOL_p6_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OII 1994 Nazionale Teorica — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electrostatics,argomento/meccanica"></span>
@@ -712,22 +690,15 @@ $$\operatorname{sen} \alpha_e = \operatorname{sen} \alpha_i \frac{n_i}{n_e}$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 4  Mirage
+PROBLEM no. 4 – Mirage
 
-Question No. 1.
+Question no. 1.
 
-By dividing the atmosphere into thin, homogeneous horizontal layers and repeatedly applying the law of refraction, we have
-$$n_i \operatorname{sen} \alpha_i = n_1 \operatorname{sen} \alpha_1 = n_2 \operatorname{sen} \alpha_2 = \ldots = n_e \operatorname{sen} \alpha_e$$
-from which
+By dividing the atmosphere into thin homogeneous horizontal layers and repeatedly applying the law of refraction, we have
+$$n_i \operatorname{sen} \alpha_i = n_1 \operatorname{sen} \alpha_1 = n_2 \operatorname{sen} \alpha_2 = \ldots = n_e \operatorname{sen} \alpha_e$$ from which
 $$\operatorname{sen} \alpha_e = \operatorname{sen} \alpha_i \frac{n_i}{n_e}$$
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OII 1994 Nazionale Teorica — Problema 14" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/geometric-optics,argomento/meccanica,object/gas"></span>
@@ -861,20 +832,13 @@ $$n(h_0) = n_0\left(1 + \frac{1}{2}\frac{h_0^2}{d_0^2}\right)$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 4.
+Problem no. 4.
 
-Soil $\alpha_0 = \pi/2$ and therefore
-$$n(h_0) = n_0/\operatorname{sen} \alpha = n_0\frac{\sqrt{d_0^2 + h_0^2}}{d_0}$$
-che sfruttando la condizione $h_0 \ll d_0$ si può approssimare con
+On the ground $\alpha_0 = \pi/2$ and therefore
+$$n(h_0) = n_0/\operatorname{sen} \alpha = n_0\frac{\sqrt{d_0^2 + h_0^2}}{d_0}$$ which, using the condition $h_0 \ll d_0$, can be approximated by
 $$n(h_0) = n_0\left(1 + \frac{1}{2}\frac{h_0^2}{d_0^2}\right)$$
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OII 1994 Nazionale Teorica — Problema 17" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/thermodynamics,argomento/meccanica"></span>
@@ -909,25 +873,18 @@ fax: 041–5840462
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
+Problem no. 5.
 
-Combining the relationships
-$$n(T) = n(T_0) (1 + \nu \Delta T) \quad\text{e}\quad T(h) = T(0) + \theta h$$
-has, for $h = h_0$,
+Combining the relations
+$$n(T) = n(T_0) (1 + \nu \Delta T) \quad\text{e}\quad T(h) = T(0) + \theta h$$ we have, for $h = h_0$,
 $$n(h_0) = n_0 (1 + \nu\theta h_0)$$
 
-By matching this expression to the one found in point 4. It's a very quick recovery.
+Equating this expression with the one found in point 4., one immediately obtains
 $$\frac{1}{2}\frac{h_0^2}{d_0^2} = \nu\theta h_0 \quad\Rightarrow\quad \theta = \frac{h_0}{2\nu d_0^2} = 19.4\ \text{K m}^{-1}.$$
 
 Material produced by the Group
-Olympic Project
-c/o Scientific High School G. Bruno
-The following points are added:
-The Commission has decided to extend the period of validity of the agreement.
+PROGETTO OLIMPIADI c/o Liceo Scientifico G. Bruno via Baglioni 26, 30173 Venezia Mestre fax: 041–5840462
 
-**Topic:** [[Geometric Optics]], [[Thermodynamics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Nwgjy1B4t0gfmzcSOomNqmnnaiRSRXtb/view)
+
+

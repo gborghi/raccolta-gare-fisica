@@ -82,61 +82,29 @@ consume en los circuitos es de \$0,20 por kW-hora.
 
 Problema 1: Risparmiamo energia o denaro?
 
-Una resistenza variabile ha numerose applicazioni nei circuiti semplici; per
-esempio, per controllare l'illuminazione prodotta da lampadine a incandescenza in
-certi apparecchi o ambienti.
-In questo problema ti proponiamo due circuiti semplici che possono essere usati per controllare
-la luminosità di un'unica lampada, come mostrato nelle figure (a) e (b).
+Una resistenza variabile ha numerose applicazioni in circuiti semplici; per esempio, per controllare l'illuminazione prodotta da lampadine a incandescenza in certi apparecchi o ambienti.
+In questo problema vi proponiamo due circuiti semplici che possono essere usati per controllare la luminosità di un'unica lampada, come mostrato nelle figure (a) e (b).
 
-Indichiamo con $R_a$ e $R_b$ i valori delle resistenze tra C e D nei circuiti (a) e
-(b), rispettivamente; la resistenza tra C e A è $R$. La differenza di potenziale massima
-che si può applicare alla lampada B, affinché raggiunga la sua luminosità massima, è $V_B$. Cioè,
-se la differenza di potenziale applicata alla lampada è maggiore di $V_B$, la lampada si
-brucia. Nel nostro caso la differenza di potenziale $V$ della sorgente è maggiore di $V_B$.
-Supponendo che in entrambi i circuiti la lampada B sia accesa con la stessa luminosità (non
-necessariamente la massima) e che la sua resistenza in queste condizioni sia $r$,
+Indichiamo con $R_a$ e $R_b$ i valori delle resistenze tra C e D nei circuiti (a) e (b), rispettivamente; la resistenza tra C e A è $R$. La differenza di potenziale massima che si può applicare alla lampada B, affinché raggiunga la sua luminosità massima, è $V_B$. Cioè, se la differenza di potenziale applicata alla lampada è maggiore di $V_B$, la lampada si brucia. Nel nostro caso la differenza di potenziale $V$ della sorgente è maggiore di $V_B$.
+Supponendo che in entrambi i circuiti la lampada B sia accesa con la stessa luminosità (non necessariamente la massima) e che la sua resistenza in tali condizioni sia $r$,
 
 Si chiede:
 
-1. Trovare $R_a$ in funzione di $R_b$, $R$ e $r$ nelle condizioni dei circuiti sopra
-enunciate.
+1. Trovare $R_a$ in termini di $R_b$, $R$ e $r$ nelle condizioni dei circuiti, sopra enunciate.
 2. Dimostrare che $R_b$ è minore di $R_a$.
-3. Dimostrare che, per la stessa luminosità di illuminazione (la stessa potenza
-sviluppata) della lampada B in entrambi i circuiti, vale
-$(P_b / P_a) = [(R_a + r) / R_T] > 1$ ; $R_T = R_b + r (R - R_b) / (r + R - R_b)$ ,
-dove $P_a$ e $P_b$ sono i valori della potenza elettrica fornita dalla sorgente
-di differenza di potenziale $V$ nei circuiti (a) e (b) rispettivamente.
-4. È noto che di solito le lampade si bruciano all'accensione, poiché il loro
-filamento, essendo a temperatura ambiente, ha una resistenza sensibilmente
-minore rispetto alle condizioni di lavoro, quando sono accese. Per questo,
-sia (a) che (b) possono essere pensati come circuiti di protezione della lampada B
-al momento dell'accensione.
-Per quali valori di $R_a$ e $R_b$ la protezione menzionata è massima, in ciascun
-circuito?
-5. Sia la potenza di lavoro per la luminosità massima della lampada B pari a 2 W; la sua
-resistenza interna, in queste condizioni, è $r_m = 9\ \Omega$. Il valore di $R = 20\ \Omega$ e $V =
-6$ V. La lampada ha una vita utile $T = 1000$ ore, se viene accesa a luminosità
-massima ogni volta. Si sa che se la lampada viene accesa inizialmente, ogni volta,
-con una luminosità $b_i = x_i b_m$, dove $0 \leq x_i \leq 1$, e poi le si fa raggiungere la luminosità
-massima $b_m$ gradualmente, in un tempo molto breve che ci permette di trascurare
-l'energia consumata dalle lampade in tale processo, la vita utile della lampada
-aumenta a
+3. Dimostrare che per la stessa luminosità di illuminazione (la stessa potenza sviluppata) della lampada B in entrambi i circuiti, vale che
+$(P_b / P_a) = [(R_a + r) / R_T] > 1$ ; $R_T = R_b + r (R - R_b) / (r + R - R_b)$ , dove $P_a$ e $P_b$ sono i valori della potenza elettrica fornita dalla sorgente di differenza di potenziale $V$ nei circuiti (a) e (b) rispettivamente.
+4. È noto che di solito le lampade si bruciano all'accensione, poiché il loro filamento a temperatura ambiente ha una resistenza sensibilmente minore che nelle condizioni di lavoro, quando sono accese. Per questo, sia (a) sia (b) possono essere pensati come circuiti protettivi della lampada B al momento dell'accensione.
+Per quali valori di $R_a$ e $R_b$ la protezione menzionata è massima, in ciascun circuito?
+5. Sia la potenza di lavoro per la massima luminosità della lampada B pari a 2 W; la sua resistenza interna, in quelle condizioni, è $r_m = 9\ \Omega$. Il valore di $R = 20\ \Omega$ e $V =
+6$ V. La lampada ha una vita utile di $T = 1000$ ore, se la si accende a massima luminosità ogni volta. Si sa che se la lampada viene accesa inizialmente, ogni volta, con una luminosità $b_i = x_i b_m$, dove $0 \leq x_i \leq 1$, e poi le si fa raggiungere la massima luminosità $b_m$, gradualmente, in un tempo molto breve che ci permette di trascurare l'energia consumata dalle lampade in quel processo, la vita utile della lampada aumenta a
 $T_i = T + (1 - x_i) T$ .
 
 Nel caso del circuito (a) la luminosità minima possibile di B corrisponde a $b = 0{,}5\ b_m$.
 
 Con queste informazioni,
 
-determinare quale dei due circuiti risulta più economico, dopo 6000
-ore di uso della lampada, dato che se questa si brucia bisogna sostituirla
-immediatamente. Il prezzo della lampada è di \$2 e il costo dell'energia consumata
-nei circuiti è di \$0,20 per kW-ora.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)
+determinare quale dei due circuiti risulta più economico, dopo 6000 ore di uso della lampada, poiché se questa si brucia bisogna sostituirla immediatamente. Il prezzo della lampada è di \$2 e il costo dell'energia, che viene consumata nei circuiti, è di \$0,20 per kW-ora.
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -499,282 +467,172 @@ experimento.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3: Salto a ruota, salto.
+Problema 3: Salta rotella, salta.
 
-Un misuratore di distanza lineare, usato solitamente da aziende di installazione di
-Piano di trasporto aereo, a bordo di un'ala di trasporto aereo
-$M$ e di un metro di circonferenza, a cui è aggiunto un dispositivo di lettura per
-registrare il numero di giri della ruota, corrispondente alla distanza da misurare (in
-in questo caso il numero di giri è uguale alla distanza misurata, espressa in metri).
+Un misuratore di distanza lineare, usualmente utilizzato da aziende di installazione di tubazioni o cablaggi sotterranei, può essere costruito impiegando una ruota di massa
+$M$ e di un metro di circonferenza, alla quale viene aggiunto un dispositivo di lettura per registrare il numero di giri della ruota, corrispondente alla distanza da misurare (in questo caso il numero di giri è uguale alla distanza misurata, espressa in metri).
 
-Il dispositivo di lettura include, tra l'altro, inserirlo all'interno della
-Circumferenza della ruota, un apparato di massa $m$ il cui passo è registrato a ogni giro
-da un contatore, senza alcuna azione meccanica tra di loro. La ruota viene applicata su:
-O (vedi figure) una forza orizzontale $f$, in genere variabile, in modo tale che
-la ruota si muove a velocità costante $v$, su un percorso orizzontale. La velocità $v$
-La velocità di rivoluzione tangenziale della
-la circonferenza della ruota e quindi il modulo di velocità della massa $m$
-vista da un sistema di riferimento, S, che si muove con il centro della ruota.
+Il dispositivo di lettura include, tra le altre cose, il collocare all'interno della circonferenza della ruota un apparecchio di massa $m$ il cui passaggio è registrato a ogni giro da un contatore, senza alcuna azione meccanica tra di essi. Alla ruota viene applicata sul suo centro O (vedi figure) una forza orizzontale $f$, in generale variabile, in modo tale che la ruota avanzi con velocità costante $v$, su un percorso orizzontale. La velocità $v$ corrisponde anche al modulo della velocità tangenziale di rivoluzione della circonferenza della ruota e di conseguenza è il modulo della velocità della massa $m$ vista da un sistema di riferimento, S, che avanza con il centro della ruota.
 
-Si riconosce a partire da un certo valore minimo, $v_a$, della velocità della ruota, che è
-può decollare dal suolo, e quindi si verifica un piccolo salto verticale dal suolo,
-visto dal medesimo sistema di riferimento S già menzionato.
+Si riconosce che a partire da un certo valore minimo, $v_a$, della velocità della ruota, questa può staccarsi dal suolo, verificandosi allora un piccolo salto verticale della stessa, visto dallo stesso sistema di riferimento S già menzionato.
 
 Domande:
 
-a) Disegnare qualitativamente, in figura 1, i vettori che rappresentano le forze
-azionanti su massa $m$, nella posizione indicata nella figura, e
-La massa $m$ descrive un movimento circolare uniforme di
-radius pari a quello della ruota nel sistema di riferimento S.
-b) Qual è il valore del modulo della forza risultante sulla massa $m$, in
-- I termini dei parametri del problema?
-(c) Disegnare qualitativamente, in figura 2, i vettori che rappresentano le forze
-La circolazione è limitata al sistema di
-si spostano a velocità costante $v$ in direzione orizzontale, senza scivolare, nel
-In questo caso, il numero di persone che hanno ricevuto il diploma è quello di cui si tratta.
-d) In quale posizione di massa $m$ la ruota è in grado di decollare dal
-il suolo (salto) quando si raggiunge la velocità minima $v_a$?
-(e) In base alle condizioni di (d), quale condizione deve essere soddisfatta?
-- Per fargli prendere la ruota dal pavimento?
+a) Disegnare qualitativamente, nella figura 1, i vettori che rappresentano le forze agenti sulla massa $m$, nella posizione indicata nella figura, e la loro risultante, sapendo che la massa $m$ descrive un moto circolare uniforme di raggio uguale a quello della ruota nel sistema di riferimento S.
+b) Quanto vale il modulo della risultante delle forze sulla massa $m$, in termini dei parametri del problema?
+c) Disegnare qualitativamente, nella figura 2, i vettori che rappresentano le forze agenti solamente sulla ruota, tenendo conto che il sistema si sposta con velocità costante $v$ in direzione orizzontale, senza slittare, nell'istante che corrisponde alla figura.
+d) In quale posizione della massa $m$, la ruota è in condizioni di staccarsi dal suolo (saltare) quando si raggiunge la velocità minima $v_a$?
+e) Nelle condizioni del punto d), qual è la condizione che si deve soddisfare affinché la ruota si stacchi dal suolo?
 f) Determinare il valore di $v_a$ per $m = 50$ g e la massa della ruota $M = 450$ g.
 
-Supponiamo che l'accelerazione della gravità sia $g = 10.0\ \text{m/s}^2$.
+Si supponga che l'accelerazione di gravità sia $g = 10.0\ \text{m/s}^2$.
 
-L'OLIMPIADA ARGENTINA
-Fisica 2005
+OLIMPIADE ARGENTINA
+DI FISICA 2005
 
-Instanza nazionale
+Istanza Nazionale
 
-Prove sperimentali
+PROVA SPERIMENTALE
 17 ottobre 2005
 
-- Scrivi il tuo nome su tutti i fogli e elencali.
-- Ricorda che non puoi usare calcolatori programmabili o altri
-materiale non incluso nella prova, a parte gli strumenti per la scrittura.
-- Prima di iniziare a risolvere ogni problema leggi attentamente TUTTO il
-di cui sopra.
+- Scrivete il vostro nome su tutti i fogli e numerateli.
+- Ricordate che non potete utilizzare calcolatrici programmabili né qualsiasi altro materiale che non sia incluso nella prova, a parte gli strumenti di scrittura.
+- Prima di iniziare a risolvere ogni problema leggete attentamente TUTTO l'enunciato dello stesso.
 
 Nome:
 
-Numero totale di fogli consegnati (inclusi il foglio e le dichiarazioni):
-Determinazione della densità dell'alcol rispetto a quella dell'acqua.
+Numero totale di fogli consegnati (compresi il frontespizio e gli enunciati):
+Determinazione della densità dell'alcol relativa a quella dell'acqua.
 
-Il principio di Archimede ci esprime
+Il principio di Archimede ci dice
 
-Un corpo immerso in un fluido riceve un impulso da sotto verso l'alto pari al peso
-il volume di liquido dislocato. Con queste informazioni e utilizzando le seguenti
+"Un corpo immerso in un fluido riceve una spinta dal basso verso l'alto pari al peso del volume di fluido spostato". Con questa informazione e utilizzando i seguenti
 
 Elementi disponibili
 
 • Alcol
-• Una siringa di 10 $\text{cm}^3$
-• Un vaso di plastica contenente acqua comune a temperatura ambiente. Si può
-ottenere più acqua se necessario.
-• un vaso di plastica più piccolo dove si può versare alcol per caricare il
-- Si tratta di un'iniezione.
-• tubo di prova, supporto di sezione trasversale e spessore uniforme di parete
-nella sua parte cilindrica.
-• Un marcatore non solubile in acqua.
-• Un'esercito graduato in millimetri.
-• fogli di carta di millimetri. Se necessario, possono essere richieste altre.
-• Papero assorbente.
-• fogli di carta bianca. Se necessario, possono essere richieste altre.
+• Una siringa da 10 $\text{cm}^3$
+• Un bicchiere di plastica contenente acqua comune a temperatura ambiente. Si può ottenere altra acqua se necessario.
+• Un bicchiere di plastica più piccolo dove si può versare l'alcol per caricare la siringa.
+• Una provetta, supposta di sezione trasversale e spessore di parete uniformi nella sua parte cilindrica.
+• Un pennarello non solubile in acqua.
+• Una squadra graduata in millimetri.
+• Fogli di carta millimetrata. Se ne possono richiedere altri se necessario.
+• Carta assorbente.
+• Fogli di carta bianca. Se ne possono richiedere altri se necessario.
 
 Si chiede
 
-Determinare la densità dell'alcol rispetto a quella dell'acqua a temperatura ambiente
-camera mediante il seguente
+Determinare la densità dell'alcol relativa a quella dell'acqua alla temperatura della stanza mediante il seguente
 
-Procedura sperimentale
+Procedimento sperimentale
 
-a) In un luogo vicino all'estremità chiusa del tubo di prova, in parte
-di cilindro di esso, segna una linea di riferimento transversale (A). Vedere la
-Figura 1.
-b) Immergere il tubo di prova vuoto in acqua e aggiungere al tubo di prova il minimo di
-quantità di acqua in modo da rimanere in posizione verticale (vedere figura 1).
-c) A partire da questo livello, aggiungere una piccola quantità di acqua con la seringa e
-misura le distanze $L_1$ e $L_2$. Ripete misure simili per diverse
-quantità di acqua nel tubo di prova.
-d) Graficare i valori misurati di $L_1$ in funzione di $L_2$ e tracciare la retta che, al suo
-Criterio, meglio adattarli.
-(e) Determina il valore della pendenza della retta tracciata e fa un'estimazione della sua
-errore.
-f) Deduce l'espressione della pendenza della retta in termini di variabili
-la fisica e la geometria dell'esperimento. Esprimi chiaramente le variabili e/o
-parametri che utilizza nei suoi calcoli. Per esempio, indicare $g$ l'accelerazione
-La gravità e la densità dell'acqua sono $\rho_a$.
-Ora con Alcol:
+a) In un punto vicino all'estremità chiusa della provetta, nella parte cilindrica della stessa, tracciare una linea trasversale di riferimento (A). Vedere la figura 1.
+b) Immergere la provetta vuota in acqua e aggiungere nella stessa la minima quantità di acqua in modo che rimanga in posizione verticale (vedere la figura 1).
+c) A partire da questo livello, aggiungere una piccola quantità di acqua con la siringa e misurare le distanze $L_1$ e $L_2$. Ripetere misurazioni simili per diverse quantità di acqua nella provetta.
+d) Tracciare il grafico dei valori misurati di $L_1$ in funzione di $L_2$ e tracciare la retta che, a proprio giudizio, meglio si adatta agli stessi.
+e) Determinare il valore della pendenza della retta tracciata e fornire una stima del suo errore.
+f) Dedurre l'espressione della pendenza della retta in termini delle variabili fisiche e geometriche dell'esperimento. Esplicitare chiaramente le variabili e/o i parametri utilizzati nei propri calcoli. Per esempio, designare con $g$ l'accelerazione di gravità e con $\rho_a$ la densità dell'acqua.
+Ora con l'Alcol:
 
-g) Immergere il tubo di prova vuoto in acqua e aggiungere in esso il minimo
-quantità di alcol in modo da rimanere in posizione verticale (vedi figura 1).
-h) A partire da questo livello, aggiungere una piccola quantità di alcol con la siringa e
-misura le distanze $L_1$ e $L_2$. Ripete misure simili per diverse
-quantità di alcol nel tubo di prova.
-i) Graficare i valori misurati di $L_1$ in funzione di $L_2$ e tracciare la retta che, al suo
-Criterio, meglio adattarli.
-(j) Determina il valore della pendenza della retta tracciata e fa un'estimazione della sua
-errore.
-k) Deduce l'espressione della pendenza della retta in termini di variabili
-la fisica e la geometria dell'esperimento. Esprimi chiaramente le variabili e/o
-parametri che utilizza nei suoi calcoli. Per esempio, indicare $g$ l'accelerazione
-La gravità, con $\rho_a$ la densità dell'acqua e con $\rho$ la densità dell'alcol.
+g) Immergere la provetta vuota nell'acqua e aggiungere in essa la minima quantità di alcol in modo che rimanga in posizione verticale (vedere la figura 1).
+h) A partire da questo livello, aggiungere una piccola quantità di alcol con la siringa e misurare le distanze $L_1$ e $L_2$. Ripetere misurazioni simili per diverse quantità di alcol nella provetta.
+i) Tracciare il grafico dei valori misurati di $L_1$ in funzione di $L_2$ e tracciare la retta che, a proprio giudizio, meglio si adatta agli stessi.
+j) Determinare il valore della pendenza della retta tracciata e fornire una stima del suo errore.
+k) Dedurre l'espressione della pendenza della retta in termini delle variabili fisiche e geometriche dell'esperimento. Esplicitare chiaramente le variabili e/o i parametri utilizzati nei propri calcoli. Per esempio, indicare con $g$ l'accelerazione di gravità, con $\rho_a$ la densità dell'acqua e con $\rho$ la densità dell'alcol.
 
-Determinazione della densità dell'alcol rispetto a quella dell'acqua:
+Determinazione della densità dell'alcol relativa a quella dell'acqua:
 
-L) Con le pendenti indicate sopra, calcolare la densità di alcol
-Il problema è che la Commissione ha deciso di non intervenire.
+l) Utilizzando le pendenze determinate sopra, trovare la densità dell'alcol relativa a quella dell'acqua, con la corrispondente stima del suo errore.
 
 Raccomandazioni:
 
-Se si cambia il liquido nella siringa o nel tubo di prova, essiccare bene prima di
-cambiamenti.
+Se si cambia liquido nella siringa o nella provetta, asciugarli bene prima dei cambiamenti.
 
-Al termine della prova, lasciate sul tavolo tutti gli elementi forniti per il
-l'esperimento.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)
+Al termine della prova lasciare sul tavolo tutti gli elementi forniti per l'esperimento.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three: wheel jump, jump.
+Problem 3: Jump, little wheel, jump.
 
-A linear distance meter, usually used by installation companies
-Underground piping or wiring, may be constructed using a mass wheel
-$M$ and one metre in circumference, to which a reading device is added for
-record the number of turns of the wheel, corresponding to the distance to be measured (in
-In this case the number of turns is equal to the measured distance, expressed in metres).
+A linear distance meter, usually used by pipe or underground cabling installation companies, can be built using a wheel of mass
+$M$ and one meter in circumference, to which a reading device is added to record the number of turns of the wheel, corresponding to the distance to be measured (in this case the number of turns is equal to the measured distance, expressed in meters).
 
-The reading device includes, inter alia, placing it inside the
-wheel circumference, a mass apparatus $m$ whose passage is recorded at each turn
-by a counter, with no mechanical action between them. The wheel is applied to the
-its centre O (see Figures) a horizontal force $f$, generally variable, such that
-The wheel shall move at a constant speed $v$, over a horizontal path. The speed $v$
-The conversion rate of the
-wheel circumference and therefore the mass speed module $m$
-The wheel is a reference system, S, moving forward with the centre of the wheel.
+The reading device includes, among other things, placing inside the circumference of the wheel a device of mass $m$ whose passage is registered on each turn by a counter, with no mechanical action between them. A horizontal force $f$ is applied to the wheel at its center O (see figures), generally variable, such that the wheel moves forward with constant speed $v$, on a horizontal path. The speed $v$ also corresponds to the modulus of the tangential revolution speed of the circumference of the wheel and therefore is the modulus of the speed of the mass $m$ as seen from a reference frame, S, that moves forward with the center of the wheel.
 
-The speed of the wheel is recognised from a certain minimum value, $v_a$, which is the speed of the wheel.
-It can take off from the ground, then a small vertical jump from it occurs,
-the same reference system S as mentioned above.
+It is recognized that starting from a certain minimum value, $v_a$, of the wheel's speed, it can lift off the ground, whereupon a small vertical jump of the wheel occurs, as seen from the same reference frame S already mentioned.
 
 Questions:
 
-(a) Draw qualitatively, in Figure 1, the vectors representing the forces
-actuantes sobre la masa $m$, en la posición que se indica en la figura, y su
-The resulting mass $m$ describes a uniform circular motion of
-radius equal to that of the wheel in the reference system S.
-(b) What is the value of the resulting force module over mass $m$, in
-The problem parameters are defined in terms of the problem parameters?
-(c) Draw qualitatively, in Figure 2, the vectors representing the forces
-The system is not designed to be used on the wheel only, as the system is not
-moves at constant speed $v$ in the horizontal direction, without slipping, in the
-The time frame corresponding to the figure.
-(d) At what mass position $m$ is the wheel able to take off from the wheel?
-ground (jump) when the minimum speed $v_a$ is reached?
-(e) Under the conditions of point (d), what condition must be fulfilled
-So the wheel takes off from the ground?
-(f) Determine the value of $v_a$ for $m = 50$ g and the wheel mass $M = 450$ g.
+a) Qualitatively draw, in figure 1, the vectors representing the forces acting on the mass $m$, in the position indicated in the figure, and their resultant, knowing that the mass $m$ describes a uniform circular motion with a radius equal to that of the wheel in the reference frame S.
+b) What is the magnitude of the resultant of the forces on the mass $m$, in terms of the parameters of the problem?
+c) Qualitatively draw, in figure 2, the vectors representing the forces acting on the wheel only, taking into account that the system moves with constant velocity $v$ in the horizontal direction, without slipping, at the instant corresponding to the figure.
+d) In what position of the mass $m$ is the wheel in conditions to lift off the ground (jump) when the minimum velocity $v_a$ is reached?
+e) Under the conditions of point d), what is the condition that must be satisfied for the wheel to lift off the ground?
+f) Determine the value of $v_a$ for $m = 50$ g and the mass of the wheel $M = 450$ g.
 
-Suppose the acceleration of gravity is $g = 10.0\ \text{m/s}^2$.
+Assume that the acceleration of gravity is $g = 10.0\ \text{m/s}^2$.
 
-The Argentine Olympic Games
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2005.
+ARGENTINE OLYMPIAD
+OF PHYSICS 2005
 
-National court
+National Instance
 
-The test is carried out in a test.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+EXPERIMENTAL TEST
+October 17, 2005
 
-- Write your name on all the sheets and list them.
-- Remember you can't use programmable calculators or anything else.
-material not included in the test, other than writing instruments.
-- Before you start solving every problem read carefully ALL the
-The same statement.
+- Write your name on all the sheets and number them.
+- Remember that you may not use programmable calculators or any other material not included in the exam, apart from writing utensils.
+- Before starting to solve each problem, carefully read the ENTIRE statement of the problem.
 
-Name of the company:
+Name:
 
-Total number of sheets delivered (including cover and statements):
-Determination of the density of alcohol relative to water.
+Total number of sheets submitted (including the cover page and the problem statements):
+Determination of the density of alcohol relative to that of water.
 
-The Archimedes principle expresses us
+Archimedes' principle states
 
-A body submerged in a fluid is pushed upwards from the bottom, equal to the weight.
-the volume of discharged fluid. With this information and using the following
+"A body submerged in a fluid receives an upward buoyant force equal to the weight of the volume of fluid displaced." With this information and using the following
 
-Available items
+Available elements
 
 • Alcohol
-• A syringe of 10 $\text{cm}^3$
-• A plastic glass containing water common to room temperature. You can
-get more water if necessary.
-• A smaller plastic glass where alcohol can be poured to load the
-the syringe.
-• A test tube, cross section assumption and uniform wall thickness
-in its cylindrical part.
-• A marker that is not soluble in water.
-• A squadron graduated in millimetres.
-• Millimeter sheets of paper. More can be requested if necessary.
-• absorbent paper.
-• White paper sheets. More can be requested if necessary.
+• A 10 $\text{cm}^3$ syringe
+• A plastic cup containing ordinary water at room temperature. More water can be obtained if necessary.
+• A smaller plastic cup into which alcohol can be poured to load the syringe.
+• A test tube, assumed to have a uniform cross-section and wall thickness in its cylindrical part.
+• A water-insoluble marker.
+• A graduated square graduated in millimeters.
+• Sheets of graph paper. More can be requested if necessary.
+• Absorbent paper.
+• Sheets of blank paper. More can be requested if necessary.
 
-It's called
+It is requested
 
-Determine the density of alcohol relative to water at the temperature of the water.
-room by the following
+To determine the density of alcohol relative to that of water at room temperature by means of the following
 
-The experimental procedure
+Experimental procedure
 
-(a) At a location near the closed end of the test tube, at the
-the cylinder of the same, mark a cross-sectional reference line (A). See the
-The following table shows the following:
-(b) Submerge the empty test tube in water and add the minimum
-the amount of water so that it remains in a vertical position (see Figure 1).
-(c) From this level, add a small amount of water with the syringe and
-Measure the distances $L_1$ and $L_2$. Repeat similar measurements for different
-quantities of water in the test tube.
-(d) Graph the measured values of $L_1$ in terms of $L_2$ and draw the line that, at its
-Criteria, better fit them.
-(e) Determine the slope value of the straight line drawn and estimate its slope
-It's a mistake.
-(f) Subtract the expression of the slope of the line in terms of the variables
-The physical and geometrical aspects of the experiment. Clearly explain the variables and/or
-parameters that you use in your calculations. For example, mark $g$ the acceleration
-The water density is $\rho_a$.
-Now with alcohol:
+a) In a place near the closed end of the test tube, in the cylindrical part of it, draw a transverse reference line (A). See figure 1.
+b) Submerge the empty test tube in water and add to it the minimum amount of water so that it remains in a vertical position (see figure 1).
+c) From this level, add a small amount of water with the syringe and measure the distances $L_1$ and $L_2$. Repeat similar measurements for different amounts of water in the test tube.
+d) Plot the measured values of $L_1$ as a function of $L_2$ and draw the line that, in your judgment, best fits them.
+e) Determine the value of the slope of the drawn line and give an estimate of its error.
+f) Deduce the expression for the slope of the line in terms of the physical and geometric variables of the experiment. Clearly specify the variables and/or parameters you use in your calculations. For example, denote by $g$ the acceleration of gravity and by $\rho_a$ the density of water.
+Now with Alcohol:
 
-(g) Dip the empty test tube into the water and add the minimum
-amount of alcohol so that it remains in a vertical position (see Figure 1).
-(h) From this level, add a small amount of alcohol with the syringe and
-Measure the distances $L_1$ and $L_2$. Repeat similar measurements for different
-the quantities of alcohol in the test tube.
-(i) Graph the measured values of $L_1$ according to $L_2$ and draw the line that, at its
-Criteria, better fit them.
-(j) Determine the slope value of the straight line drawn and estimate its slope
-It's a mistake.
-k) Subtract the expression of the slope of the line in terms of the variables
-The physical and geometrical aspects of the experiment. Clearly explain the variables and/or
-parameters that you use in your calculations. For example, mark $g$ the acceleration
-de la gravedad, con $\rho_a$ la densidad del agua y con $\rho$ la densidad del alcohol.
+g) Submerge the empty test tube in the water and add to it the minimum amount of alcohol so that it remains in a vertical position (see figure 1).
+h) Starting from this level, add a small amount of alcohol with the syringe and measure the distances $L_1$ and $L_2$. Repeat similar measurements for different amounts of alcohol in the test tube.
+i) Plot the measured values of $L_1$ as a function of $L_2$ and draw the line that, in your judgment, best fits them.
+j) Determine the value of the slope of the drawn line and give an estimate of its error.
+k) Deduce the expression for the slope of the line in terms of the physical and geometric variables of the experiment. Clearly specify the variables and/or parameters you use in your calculations. For example, denote by $g$ the acceleration of gravity, by $\rho_a$ the density of water and by $\rho$ the density of alcohol.
 
-Determination of the alcohol density relative to water:
+Determination of the density of alcohol relative to that of water:
 
-(l) Using the slopes given above, find the alcohol density
-The Commission has not yet taken any further action.
+l) Using the slopes determined above, find the density of alcohol relative to that of water, with the corresponding estimate of its error.
 
-Recommendations for the following:
+Recommendations:
 
-If fluid changes in the syringe or test tube, dry well before using the syringe.
-changes.
+If you change the liquid in the syringe or in the test tube, dry them well before the changes.
 
-At the end of the test, leave all the items provided for the
-I'm going to try it.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wheel (object)|Wheel]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12-kt96hFZFVffo2PCl63oIz0w-0TUClo/view)
+At the end of the test, leave all the elements provided for the experiment on the table.

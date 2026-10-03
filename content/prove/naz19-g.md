@@ -37,24 +37,19 @@ Il "meccanismo elicoidale", costruito sulla base degli studi e dei disegni origi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject of the European Parliament's proposal for a Council Directive on the protection of workers' rights.
+**Milestones 1: … dedicated to Leonardo** — 40 points
 
-The "helical mechanism", built on the basis of the original studies and drawings of Leonardo da Vinci (Madrid Code I, page 17), is used to lift an object of mass $M$ using a force (applied to the wooden handle) less than the object's weight; in this sense one can speak of a "useful" machine.
+The "helical mechanism", built on the basis of Leonardo da Vinci's studies and original drawings (Codex of Madrid I, sheet 17), serves to lift an object of mass $M$ by employing a force (applied to the wooden crank) lower than the weight of the object; in this sense one can speak of a "useful" machine.
 
-After reading the full text of the problem and identifying a resolution strategy, the apparatus diagram (Annex) is used to determine all the measurements of the components needed to provide the numerical answers required below. The radius $r$ of the cylinder on which the rope supporting the object is wrapped shall be taken as a unit of measurement.
+**1.** After having read the entire text of the problem and having identified a solution strategy, use the diagram of the apparatus (attached) to determine all the measurements of the components necessary to provide the numerical answers required in the following. Assume as the unit of measurement the radius $r$ of the cylinder on which the rope that supports the object is wound.
 
-Assuming that all friction can be overlooked, the work done to move the handle of an infinitesimal stroke $d\ell$ determines the lifting of the object of a stroke $dz$. Suppose the lift is slow enough to overlook the kinetic energies of the various components. Determine the minimum force $F$ to be applied to the handle to lift the object, using the necessary dimensions obtained from the image, and tell why it is a "useful" machine.
+**2.** Assuming that all friction can be neglected, the work done to move the crank by an infinitesimal amount $d\ell$ determines the lifting of the object by an amount $dz$. Assume that the lifting is sufficiently slow that the kinetic energies of the various components can be neglected. Determine the minimum force $F$ to be applied to the crank to lift the object, using the necessary quantities obtained from the image, and say why it is a "useful" machine.
 
-Assuming that the $75\%$ of the power used is dissipated in friction and deformation of the parts, say whether the machine is still "useful".
+**3.** Assuming now that $75\%$ of the power employed is dissipated in friction and deformations of the parts, say whether the machine is still "useful".
 
-**4.** Consider now the case of not very slow operation, with the mass lifted at constant speed $v$, so that the various parts of the machine have acquired some kinetic energy. Assume that all the wooden parts of the machine are made of the same wood of $\rho$ density (homogeneous material), that the thickness of the toothed wheel is equal to $1/12$ of its diameter (excluding the teeth); for simplicity's sake, the presence of the teeth of the larger wheel is neglected and the shape of the endless screw and the handle is considered cylindrical. It is estimated which piece between the toothed wheel (without the contribution of the teeth), the endless screw and the handle has acquired the most kinetic energy, showing the necessary calculation.
+**4.** Consider now the case of a not very slow operation, with the mass lifted at constant speed $v$, so that the various parts of the machine have acquired a certain kinetic energy. Assume that all the wooden parts of the machine are made of the same wood with density $\rho$ (homogeneous material), that the thickness of the toothed wheel is equal to $1/12$ of its diameter (excluding the teeth); for simplicity, neglect the presence of the teeth of the larger wheel and consider the shape of the worm screw and that of the crank to be cylindrical. Estimate which part among the toothed wheel (without the contribution of the teeth), the worm screw, and the crank has acquired the greatest kinetic energy, showing the necessary calculation.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/17G1H2ovlHsGiOgoLoxvmb_8Fq5-IEObP/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
 
 
@@ -99,37 +94,31 @@ e si determini il valore del numero puro $\eta$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the protection of the environment.
+**Milestones 2: The Planck kilogram** — Points 60
 
-From 20 May 2019, the kilogram is defined in terms of three fundamental constants: the speed of light $c$, the frequency $\Delta\nu$ of the hyperfine transition of cesium-133 and the Planck constant $h$.
+Since 20 May 2019, the kilogram is defined in terms of three fundamental constants: the speed of light $c$, the frequency $\Delta\nu$ of the hyperfine transition of caesium-133 and the Planck constant $h$.
 
-**1. ** It is shown that the unit "kilogram" can be expressed as
-$$1\,\mathrm{kg} = \eta\, f(h,\, c,\, \Delta\nu)$$
-and the value of the pure number $\eta$ is determined.
+**1.** Show that the unit "kilogram" can be expressed as
+$$1\,\mathrm{kg} = \eta\, f(h,\, c,\, \Delta\nu)$$ and determine the value of the pure number $\eta$.
 
-**2. ** The action is shown to be the same size as:
-- a length for a motorcycle quantity,
-- a corner moment,
-- the product of an electrical charge by a magnetic flux.
+**2.** Show that action has the same dimensions as:
+- a length times a momentum,
+- an angular momentum,
+- the product of an electric charge times a magnetic flux.
 
-**3.** A ball of mass $m$ is considered to be moving at a constant speed perpendicular to two parallel walls distant $2\ell$, bouncing elastically, in the absence of gravity and friction. The cycle is periodic $T$ and can be represented as a cycle in the $(x, p)$ plane (phase space), where the cycle area measures the action of the ball $A$ in a cycle period. Place an $x$ orthogonal axis on the two walls originating in the middle, so that the two walls have a $x = \pm\ell$ coordinate, graphically represent the closed cycle in the phase space and determine the $A$ action.
+**3.** Consider a small ball of mass $m$ that, in the absence of gravity and friction, moves at constant speed perpendicularly to two parallel walls at a distance $2\ell$ apart, bouncing elastically. The motion is periodic with period $T$ and can be represented as a cycle in the $(x, p)$ plane (phase space), where the area of the cycle measures the action $A$ of the ball in one period of the motion. Having set an axis $x$ orthogonal to the two walls with origin at the midpoint, so that the two walls have coordinate $x = \pm\ell$, represent graphically the closed cycle in phase space and determine the action $A$.
 
-Max Planck found that the action associated with a cycle period can take only multiple values of $h$: $A = nh$, with $n$ positive integer. For $m = 50\,\mathrm{g}$, $\ell = 1\,\mathrm{m}$ and $T = 4\,\mathrm{s}$, find the order of magnitude of the entire $n$ and explain why the effects of quantization of action for this system cannot be detected.
+**4.** Max Planck discovered that the action associated with one period of motion can only take values that are multiples of $h$: $A = nh$, with $n$ a positive integer. For $m = 50\,\mathrm{g}$, $\ell = 1\,\mathrm{m}$ and $T = 4\,\mathrm{s}$, find the order of magnitude of the integer $n$ and explain why it is not possible to detect the effects of the quantization of action for this system.
 
-**5.** Repeat the calculation for a proton moving at $v \approx 270\,\mathrm{m\,s}^{-1}$ speed and confined to moving between two distant walls $2\ell$ with $\ell = 1.1\,\mathrm{nm}$. It explains why quantum effects are detectable in this case.
+**5.** Repeat the calculation for a proton moving with speed $v \approx 270\,\mathrm{m\,s}^{-1}$ and confined to move between two walls at a distance $2\ell$ with $\ell = 1.1\,\mathrm{nm}$. Explain why in this case the quantum effects are detectable.
 
-**6.** It is shown that quantization of action implies quantization of energy, i.e. the fact that, fixed at $\ell$, the energy of the proton can only assume discrete values $E_n$ with $n$ positive integer. These values shall be determined in terms of $n$ for a proton confined to moving between two walls at a distance $\ell = 1.1\,\mathrm{nm}$.
+**6.** Show that the quantization of action implies the quantization of energy, that is, the fact that, once $\ell$ is fixed, the energy of the proton can only take discrete values $E_n$ with $n$ a positive integer. Determine these values as a function of $n$, for a proton confined to move between two walls at distance $\ell = 1.1\,\mathrm{nm}$.
 
-**7.** A proton in the energy level $n = 2$ decays to the level $n = 1$; can the photon emitted be detected in the region of the visible spectrum?
+**7.** A proton in the energy level $n = 2$ decays to the level $n = 1$; can the emitted photon be detected in the visible region of the spectrum?
 
-**8.** Consider the phenomenon of stationary waves between fixed ends in the space between two distant walls $2\ell$. The relationship between the possible values $\lambda$ of a stationary wavelength between the two walls and the possible values $p$ of the amount of proton motion between the same walls is obtained.
+**8.** Consider the phenomenon of standing waves between fixed ends in the space between the two walls at distance $2\ell$. Derive the relation between the possible values $\lambda$ of the wavelength of a standing wave between the two walls and the possible values $p$ of the momentum of the proton between the same walls.
 
-**Topic:** [[Modern-Quantum Physics]], [[Oscillations & Waves]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[de Broglie Relation (metodo)|de Broglie Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/17G1H2ovlHsGiOgoLoxvmb_8Fq5-IEObP/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
 
 

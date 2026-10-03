@@ -241,21 +241,15 @@ La trasmissione di luce attraverso un oggetto è definita come il rapporto tra l
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission:
+**PART III – TRANSMISSION MEASUREMENTS**
 
-Returns the diagram used in PART II (item a) and the piece of paper used in PART I.
+Return to the diagram used in PART II (item a) and the piece of paper used in PART I.
 
-(a) Make $d = 1$ cm. Measure the resistance of the LDR with and without the paper in front of the LED.
+a) Make $d = 1$ cm. Measure the resistance of the LDR with and without the paper in front of the LED.
 
-(b) Make $d = 5$ cm. Measure the resistance of the LDR with and without the paper in front of the LED.
+b) Make $d = 5$ cm. Measure the resistance of the LDR with and without the paper in front of the LED.
 
-The transmission of light through an object is defined as the ratio of the intensity detected with and without the object. Suppose that the luminous intensity in the LDR is inversely proportional to the measured resistance in the LDR. Take into account the ambient light (room) measured in Part I, if necessary.
-
-**Topic:** [[Geometric Optics]], [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmV40EHqEIfv6GyuRLR-8WARWdJMTRVt/view)
+The transmission of light through an object is defined as the ratio between the intensity detected with the object and without the object. Assume that the light intensity at the LDR is inversely proportional to the resistance measured at the LDR. Take into account the ambient light (room) measured in PART I, if necessary.
 
 
 

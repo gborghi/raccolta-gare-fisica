@@ -250,32 +250,17 @@ derivato da (a). Spiega il risultato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-01. Two identical A and B cars are rigidly connected by a
-The mass of the product is $4\ \text{kg}$.
-Two C and D wagons, of $M_C = 2\ \text{kg}$ and $M_D = 2\ \text{kg}$ masses, are
-placed at rest between wagons A and B , at equal distances
-The Commission has not yet adopted a proposal.
+01. Two identical carts A and B are rigidly connected by a bar, and together (cart A + cart B + bar) have a mass of $4\ \text{kg}$.
+Two carts C and D, with masses $M_C = 2\ \text{kg}$ and $M_D = 2\ \text{kg}$, are placed at rest between carts A and B, at equal distances (Figure 1).
 
 Fig. 1
 
-Knowing that the speed of A and B is $3\ \text{m/s}$ to the right, and
-Whereas the friction between the wheels of the wagons and the ground is
-You're a scorned man.
-(a) If the collision between A and C is perfectly inelastic (C is
-It is a perfectly elastic, which is the
-It will be the final speed of the system knowing that the collision between D
-and B will also be perfectly inelastic (D is
-B )?
-(b) What is the final system speed considering the collision between the two
-A and C perfectly inelastic, and between C and D also
-perfectly inelastic? Compare that speed to that
-obtained from point (a). Explain the result.
-
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1coZnryMgPr4Ql7cxrUaRz6sdbuhw3uVP/view)
+Knowing that the velocity of A and B is $3\ \text{m/s}$ to the right, and considering that the friction between the cart wheels and the ground is negligible, answer:
+a) If the collision between A and C is perfectly inelastic (C becomes
+"stuck" to A) and, between C and D is perfectly elastic, what will be the final velocity of the system knowing that the collision between D and B will also be perfectly inelastic (D becomes "stuck" to
+B)?
+b) What is the final velocity of the system considering the collision between
+A and C perfectly inelastic, and between C and D also perfectly inelastic? Compare this velocity with that obtained in item (a). Explain the result.
 
 
 
@@ -553,41 +538,25 @@ c) Esprimi i risultati ottenuti nelle seguenti situazioni:
 
 <div class="qlang-split" data-lang="en"></div>
 
-04. It is known that the magnetic field produced by a circular spiral of
-R-ray, on the symmetry axis, when this sphere is traversed by a
-The Commission has already adopted a proposal for a regulation on the
-the circuit that would complete the spindle is not shown) is given by,
-$$\vec{B} = \frac{\mu_0\, iR^2}{2}\,\frac{\vec{k}}{\left(z^2 + R^2\right)^{3/2}}$$
-where $\mu_0$ is the magnetic permeability of the vacuum, whose value in SI is
+04. It is known that the magnetic field produced by a circular loop of radius R, on its axis of symmetry, when this loop carries a current i in the direction indicated in figure 3a (to simplify, the rest of the circuit that would complete the loop is not shown) is given by,
+$$\vec{B} = \frac{\mu_0\, iR^2}{2}\,\frac{\vec{k}}{\left(z^2 + R^2\right)^{3/2}}$$ where $\mu_0$ is the magnetic permeability of vacuum, whose value in SI is
 $4\pi\times10^{-7}\ \text{N/A}^2$.
 
 Fig. 3a
-Consider the configuration1 shown in Fig. 3b, where there are two
-Spires A and D of the same radius R, separated by a distance $\ell$ and
-run through current i, as indicated.
+Consider the configuration1 presented in Fig. 3b, in which there are two loops A and D, of the same radius R, separated by a distance $\ell$ and carrying current i, as indicated.
 
-1 Helmholtz coil - K.D. Machado  Theory of Electromagnetism  Ed. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+1 Helmholtz coil -K.D. Machado – Theory of Electromagnetism – Ed. UEPG(2002)
 
 Fig. 3b
-(a) Determine the expression of the magnetic field produced by the
-springs at point P , according to the z coordinate of point P and
-the distance $\ell$, knowing that the A-spire is in the plane
-xy ;
-(b) Analyze the magnetic field by considering the situation in which the magnetic field is
-distance $\ell$ decreases and tends to zero.
-(c) Explain the results obtained in the following situations:
+a) Determine the expression of the magnetic field produced by the loops at point P, as a function of the coordinate z of point P and of the distance $\ell$, knowing that loop A lies in the xy plane;
+b) Analyze the magnetic field considering the situation in which the distance $\ell$ decreases and tends to zero.
+c) Explain the results obtained in the following situations:
 
  (i) $\ell = 0,\ z \neq 0$
 
 (ii) $\ell = 0,\ z = 0$;
 
 (iii) $\ell = z,\ z \neq 0$;
-
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1coZnryMgPr4Ql7cxrUaRz6sdbuhw3uVP/view)
 
 
 

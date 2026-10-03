@@ -56,21 +56,10 @@ Consuma. Qual è la temperatura in gradi Celsius?
 
 <div class="qlang-split" data-lang="en"></div>
 
-01. The picture next to it is the cover of one of the acclaimed
-Modern science fiction classic by writer Ray
-Bradbury, adapted for the screen and directed by
-I'm not going to lie. It's the story of Montag, a firefighter.
-Designated to burn books. The story is a fairy tale
-The Commission has already made a number of proposals.
-It turns into the most terrifying horror.
-Fahrenheit 451 is the temperature at which book paper burns and if
-Consume it. What's that temperature in degrees Celsius?
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
+01. The image on the side is the cover of one of the acclaimed classics of modern science fiction by the writer Ray
+Bradbury, adapted for cinema and directed by
+François Truffaut. It is the story of Montag, a firefighter assigned to burn books. The story is an extraordinary fable in which the human race itself transforms into the most frightening terror.
+Fahrenheit 451 is the temperature at which book paper burns and is consumed. What is this temperature in degrees Celsius?
 
 
 
@@ -198,31 +187,19 @@ Fig.2
 
 <div class="qlang-split" data-lang="en"></div>
 
-03. The automobile has a gear set which is
-the denominator of the differential. This is intended to transmit not only
-rotation movement of the engine to the wheels, as well as compensation
-the different rotational speeds of the traction wheels. For example:
-When the car makes a curve, the inner wheel turns more slowly than the
-the outer wheel. Consider that the pine (fig. 2) has a diameter of
-10 cm and the crown a diameter of 30 cm. ♪ With the pin spinning with
-Linear (tangential) speed equal to 20 m/s:
+03. Automobiles have a set of gears called a differential. Its purpose is to transmit not only the rotational motion from the engine to the wheels, but also to compensate for different rotational speeds of the drive wheels. For example:
+when the car takes a curve, the inner wheel rotates more slowly than the outer wheel. Consider that the pinion (fig. 2) has a diameter equal to
+10 cm and the crown wheel a diameter of 30 cm. With the pinion rotating at a linear (tangential) speed equal to 20 m/s:
 
-- **A.** What will be the linear (tangential) speed of the crown?
-- **B.** If the tyre diameter of your car is changed
-will the translation speed be changed? - Explain that.
+- **A.** What will be the linear (tangential) speed of the crown wheel?
+- **B.** If the diameter of the automobile's tire is changed, will its translational speed be modified? Explain.
 
-The following is the list of the countries of the European Union:
-PINHONE
+CROWN WHEEL
+PINION
 Satellites
 Planetary
 
-Figure 2
-
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gear (object)|Gear]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
+Fig.2
 
 
 
@@ -853,33 +830,19 @@ Fig. 8
 
 <div class="qlang-split" data-lang="en"></div>
 
-12. Figure 8 shows the world's time zone map. A plane whose
-speed is 2000 km/h, part of Seoul (South Korea) at 16:00 h
-20/09, local time, following eastward over the latitude of $37^\circ$
-The Commission shall take the necessary measures to ensure that the following conditions are met:
-9900 km. An aircraft with a speed of 720 km/h, part of Tunis (Tunisia)
-same day, at 06:00 local time, also heading for San Jose,
-But using the opposite direction of the first plane, flying a
-The distance is 11880 km. What time (in hh:mm format) and day, in time
-From San Jose, the planes will land if the above speeds were
-measures:
-- **A.** At a fixed reference on the Earth's surface
-- **B ** At a fixed reference point at the center of the Earth (and not
-It follows the rotation of the Earth around its
-the axis itself).
-Obs: Consider that the Earth is a sphere of radius $R_T = 6400\ \text{km}$.
+12. Figure 8 shows the world time zone map. A plane, whose speed is 2000 km/h, departs from Seoul (South Korea) at 16:00 h on
+09/20, local time, heading east along the latitude line of $37^\circ$ toward San Jose (United States), traveling a distance of
+9900 km. A plane, whose speed is 720 km/h, departs from Tunis (Tunisia)
+on the same day, at 06:00 local time, also heading toward San Jose, but using a direction opposite to that of the first plane, traveling a distance of 11880 km. At what time (in hh:mm format) and day, in San Jose local time, will the planes land if the above-mentioned speeds were measured:
+- **A.** In a reference frame fixed to the Earth's surface
+- **B.** In a reference frame fixed at the center of the Earth (and which does not follow the Earth's rotation about its own axis).
+Note: Consider that the Earth is a sphere of radius $R_T = 6400\ \text{km}$.
 
-The Commission shall adopt implementing acts.
-The following is the list of countries:
+Seoul
+Tunis
 San Jose
 
 Fig. 8
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/132QifFWOaiSJYs8s2mdCpRdueexq4b20/view)
 
 
 

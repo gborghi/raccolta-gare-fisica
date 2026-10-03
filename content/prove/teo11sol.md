@@ -33,20 +33,14 @@ Poiché $v$ è la stessa in ogni punto della lastra, $\omega$ è uguale per tutt
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already taken a number of measures. 1  Rolls-cylinder conveyor system
+PROBLEM no. 1 – Roller conveyor system
 85 points
-Question No. 1.
-Consider the point of contact between a generic roller and the plate. In order not to speed up it must
-be equal to the tangential at the point of contact; then
+Question no. 1.
+Consider the contact point between a generic roller and the plate. In order for it not to slip, its speed must be equal to the tangential speed at the contact point; therefore
 $$v = \omega R$$
-Since $v$ is the same at each point on the plate, $\omega$ is the same for all rolls.
+Since $v$ is the same at every point of the plate, $\omega$ is the same for all rollers.
 
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -143,44 +137,26 @@ $$v'_n = \frac{2M + (2N - 1)m}{2M + 2Nm}\,v_n = \left(1 - \frac{1}{2}\frac{m}{M 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 3.
-Indicate the change in the amount of rolling of the plate caused by the rolling stock with $\Delta p$ and $\Delta p_c$ respectively
-urtato e da ognuno dei $2N - 1$ rulli a contatto con la lastra. It is also denoted by $\Delta J$ and $\Delta J_c$ respectively
-the change in the angular moment of the stationary roller and of each $2N - 1$ roll in rotation in contact with the
-the plate.
-The angular moment of a rigid body can be expressed as $J = I\omega$ where $I$ represents the moment of inertia
-and $\omega$ the angular velocity.
-In a collision, impulse forces parallel to the direction of the motor develop between the plate and the rolls (forces)
-The Commission has not yet taken a decision.
-The pulse of the forces exerted by the rollers on the plate changes the amount of motion of the plate
+Problem no. 3.
+Let $\Delta p$ and $\Delta p_c$ denote respectively the change in momentum of the plate caused by the struck roller and by each of the $2N - 1$ rollers in contact with the plate. Let $\Delta J$ and $\Delta J_c$ denote respectively the change in angular momentum of the stationary roller and of each of the $2N - 1$ rotating rollers in contact with the plate.
+The angular momentum of a rigid body can be expressed as $J = I\omega$ where $I$ represents the moment of inertia and $\omega$ the angular velocity.
+In a collision, impulsive forces parallel to the direction of motion (friction forces) develop between the plate and the rollers.
+The impulse of the forces that the rollers exert on the plate changes the momentum of the plate
 $$M\,(v'_n - v_n) = \Delta p + (2N - 1)\Delta p_c$$
-Note that $\Delta p$ and $\Delta p_c$ are marked opposite.
-The change in the amount of rolling stock produced by the individual rolls is related to the change in momentum.
-angle of each roll. In fact, the change in q.d.m. the plate is given by
-$$\Delta p = \int f\,dt$$
-where $f$ is the force applied by a roller to the plate. In the case of an impulse force the integral is extended to an interval
-The time scale is negligible, but the change in Q.D.M. It's over anyway.
-The moment of the $f'$ force pulse exerted by the plate on each single roll at a point on the surface,
-The third principle of dynamics is that they have the same intensity, the same direction and the opposite direction.
-The angular momentum of the rolls: it precisely decreases the angular momentum of $2N - 1$ rolls and increases the
-the angular moment of the roll being started. The result is that the change in angular momentum of the roller
-The following is the list of the
+Note that $\Delta p$ and $\Delta p_c$ have opposite signs.
+The change in momentum of the plate produced by the individual rollers is related to the change in angular momentum of each roller. In fact, the change in momentum of the plate is given by
+$$\Delta p = \int f\,dt$$ where $f$ is the force applied by a roller to the plate. In the case of an impulsive force, the integral is extended over a negligible time interval, but the change in momentum is nevertheless finite.
+The angular impulse of the forces $f'$ that the plate exerts on each individual roller at a point on the surface, which by Newton's third law have the same magnitude, the same direction and opposite sense, changes the angular momentum of the rollers: specifically, it decreases the angular momentum of $2N - 1$ rollers and increases the angular momentum of the roller that is set in motion. It follows that the change in angular momentum of the roller is
 $$\Delta J = \int f'R\,dt = -R\int f\,dt = -R\,\Delta p$$
-The Commission has therefore
-$$I\,(\omega'_n - \omega_n) = \Delta J = -R\,\Delta p \quad\Rightarrow\quad I\omega'_n = -R\,\Delta p$$
-e
+We therefore have
+$$I\,(\omega'_n - \omega_n) = \Delta J = -R\,\Delta p \quad\Rightarrow\quad I\omega'_n = -R\,\Delta p$$ and
 $$I\left(\omega'_{c,n} - \omega_{c,n}\right) = \Delta J_c = -R\,\Delta p_c$$
-By replacing the last two expressions in the first one, you get
+Substituting the last two expressions into the first, we obtain
 $$M\,(v'_n - v_n) = -\frac{I\omega'_n}{R} - \frac{(2N - 1)\,I\,(\omega'_n - \omega_n)}{R}$$
-If we remember that $\omega = v/R$ and that $I = mR^2/2$ and develop the calculations we get
+Recalling that $\omega = v/R$ and that $I = mR^2/2$ and carrying out the calculations, we finally obtain
 $$v'_n = \frac{2M + (2N - 1)m}{2M + 2Nm}\,v_n = \left(1 - \frac{1}{2}\frac{m}{M + Nm}\right)v_n$$
 
-**Topic:** [[Conservation of Momentum]], [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -257,16 +233,11 @@ $$\Delta v_\ell = v_\ell - v'_\ell = 4\sqrt{\frac{2gR\,\text{sen}\,\alpha}{(31 +
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
-Si ha
+Problem no. 5.
+We have
 $$\Delta v_\ell = v_\ell - v'_\ell = 4\sqrt{\frac{2gR\,\text{sen}\,\alpha}{(31 + 4N)(8 + N)}}$$
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -297,23 +268,18 @@ PROBLEMA n. 2 – Nuclei speculari
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 6.
-See the chart next to it.
+Problem no. 6.
+See the graph alongside.
 ———————————
-The Commission has already taken a number of measures. 2  Speculative nuclei
+PROBLEM no. 2 – Mirror nuclei
 85 points
 
 <!--fig:start-->
-**p.2 **  Time-speed sheet chart
+**p.2** — Graph of the plate's velocity as a function of time
 ![[_attachments/Teo11sol/Teo11sol_p2_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -606,23 +572,18 @@ Nota: parlando di campo e potenziale è sempre sottinteso l’attributo “elett
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
+Problem no. 5.
 The mass density is:
 $$\delta = \frac{3m}{4\pi R^3_0} = 1.88 \times 10^{28}\ \text{kg}\,\text{m}^{-3}$$
-The charge density of the core:
+The charge density of the nucleus:
 $$\rho = \frac{3Ze}{4\pi R^3_0\,A} = 8.17 \times 10^{24}\ \text{C}\,\text{m}^{-3}$$
-These values should only be understood as approximate estimates.
+These values are to be understood only as approximate estimates.
 ———————————
-The Commission has already taken a number of measures. 3  The uniformly modulated radial electrostatic field!
-85 points
-Note: when speaking of field and potential, the attribute electrostatic is always understood.
+PROBLEM no. 3 – Again the radial electrostatic field of uniform magnitude!
+85 Points
+Note: when speaking of field and potential, the attribute "electrostatic" is always implied.
 
-**Topic:** [[Nuclear & Particle Physics]], [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -968,15 +929,13 @@ e dunque non può mai esserci una componente perpendicolare di accelerazione, ta
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 5.
-The Commission has already adopted a number of proposals for a directive on the protection of workers' rights.
-angular, perpendicular to the plane determined by the position $\vec{r}_0$ and speed
-The initial $\vec{v}_o$ Therefore, the entire trajectory must be on the same plane.
-Alternatively, you can recognize that the force is always on the same plane.
-And so there can never be a perpendicular component of acceleration that would take the particle out of the same plane.
+Question no. 5.
+Since this is a central force field, angular momentum is conserved, perpendicular to the plane defined by the initial position $\vec{r}_0$ and velocity
+$\vec{v}_o$. Therefore the trajectory must lie entirely in the same plane.
+Alternatively, one can recognize that the force always lies in the same plane and thus there can never be a perpendicular component of acceleration capable of taking the particle out of that plane.
 
 <!--fig:start-->
-The following table shows the results of the calculations:
+**p.6** — Graph of field E(r), central force trajectory
 
 
 <figure class="tikz-fig">
@@ -1006,12 +965,7 @@ The following table shows the results of the calculations:
 
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -1060,23 +1014,18 @@ PROBLEMA n. 4 – Due altoparlanti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 6.
-At minimum distance $r$ (the pedicure is omitted for simplicity) the particle moves at an unknown speed of
-modulo $v$. A system of two equations must therefore be set up: one is provided by the conservation of energy,
-The other is the conservation of angular momentum.
-$$\begin{cases}\frac{1}{2}mv^2 + qV(r) = \frac{1}{2}mv^2_0 + qV(2R) \\ mrv = m(2R)v_0\,\text{sen}\,45^\circ\end{cases} \Rightarrow \begin{cases}mr^2v^2 R + mr^2 v^2_0(2R - r) = mr^2 v^2_0 R \\ rv = 2Rv_0\,\text{sen}\,45^\circ\end{cases}$$
-having multiplied the first equation by $2r^2 R$ and having replaced $2qE_0 R = mv^2_0$ by definition of $v_0$.
-From the second equation $r^2 v^2 = 4R^2 v^2_0\,\text{sen}^2\,45^\circ = 2R^2 v^2_0$ that, replaced in the first to eliminate the unknown
-$v$ dà
+Question no. 6.
+At the minimum distance $r$ (the subscript is omitted for simplicity) the particle moves with unknown speed of magnitude $v$. It is therefore necessary to set up a system of two equations: one is provided by the conservation of energy, the other by the conservation of angular momentum
+$$\begin{cases}\frac{1}{2}mv^2 + qV(r) = \frac{1}{2}mv^2_0 + qV(2R) \\ mrv = m(2R)v_0\,\text{sen}\,45^\circ\end{cases} \Rightarrow \begin{cases}mr^2v^2 R + mr^2 v^2_0(2R - r) = mr^2 v^2_0 R \\ rv = 2Rv_0\,\text{sen}\,45^\circ\end{cases}$$ having multiplied the first equation by $2r^2 R$ and having substituted $2qE_0 R = mv^2_0$ by the definition of $v_0$.
+From the second equation $r^2 v^2 = 4R^2 v^2_0\,\text{sen}^2\,45^\circ = 2R^2 v^2_0$ which, substituted into the first to eliminate the unknown
+$v$ gives
 $$2R^3 v^2_0 + r^2 v^2_0(2R - r) = r^2 v^2_0 R \quad\Rightarrow\quad r^3 - Rr^2 - 2R^3 = 0$$
-In the $z = r/R$ variable the equation to be solved is
+In the variable $z = r/R$ the equation to be solved is
 $$f(z) = z^3 - z^2 - 2 = 0 \quad\text{in}\quad 1 < z < 2$$
-It is noted that $f(1) = -2 < 0$, $f(2) = 2 > 0$ and that the derivative $f' = 3z^2 - 2z$ is always positive in the range
-The function is therefore continuous and increasing over the same interval, so it certainly has one and one
-only zero which can be determined, for example, by the dichotomous method:
-The numerical solution of the $f(z) = 0$ equation in $1 < z < 2$
+One observes that $f(1) = -2 < 0$, $f(2) = 2 > 0$ and that the derivative $f' = 3z^2 - 2z$ is always positive in the interval considered: therefore in the same interval the function is continuous and increasing, so it certainly has one and only one zero which can be determined for example with the bisection method:
+Numerical solution of the equation $f(z) = 0$ in $1 < z < 2$
 
-♪ value in the middle ♪ new range ♪ new position ♪
+| value at the midpoint | new interval | new position |
 |---|---|---|
 | $f(1.500) = -0.8750 < 0$ | 1.500 – 2.000 | $1.750 \pm 0.250$ |
 | $f(1.750) = 0.2969 > 0$ | 1.500 – 1.750 | $1.625 \pm 0.125$ |
@@ -1084,17 +1033,12 @@ The numerical solution of the $f(z) = 0$ equation in $1 < z < 2$
 | $f(1.687) = -0.0422 < 0$ | 1.687 – 1.750 | $1.719 \pm 0.031$ |
 | $f(1.719) = 0.1246 > 0$ | 1.687 – 1.719 | $1.703 \pm 0.016$ |
 
-The solution (less than 1%) is $z = 1.70$ for which $r_\text{min} \approx 1.70\,R$.
+The solution (to within 1%) is $z = 1.70$ so $r_\text{min} \approx 1.70\,R$.
 ———————————
-The Commission has already taken a number of measures. 4  Two speakers
+PROBLEM no. 4 – Two loudspeakers
 45 points
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
 
 
 
@@ -1283,46 +1227,32 @@ loro un vivo ringraziamento da parte del Gruppo Olimpiadi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 3.
-Overlapping two sinusoidal waves with the same frequency and phase as $\phi$, a sinusoidal wave with
-the same frequency, the amplitude of which is related to the amplitudes of the two waves in the $A^2 = A^2_1 + A^2_2 + 2 A_1 A_2 \cos\phi$ ratio. This expression is easily obtained by using the vector representation of the
-The function of the wave by means of the beam. According to this representation, the resulting wave amplitude is determined by the
-adding two vectors of the $A_1$ and $A_2$ forming an angle $\phi$.
-The same result can be obtained by adding two different, non-phase wave functions of $\phi$:
-$y_1 = A_1\,\text{sen}\,(\omega t)$ e $y_2 = A_2\,\text{sen}\,(\omega t + \phi)$. This is the wave amplitude $A$ and the initial phase $\psi$ which is
-He wants to determine.
+Problem no. 3.
+By superimposing two sinusoidal waves with the same frequency and phase-shifted by $\phi$, one obtains a sinusoidal wave with the same frequency, whose amplitude is related to the amplitudes of the two component waves by the relation $A^2 = A^2_1 + A^2_2 + 2 A_1 A_2 \cos\phi$. This expression is easily derived using the vector representation of the wave functions by means of phasors. According to this representation, the amplitude of the resulting wave is determined by adding two vectors of magnitude $A_1$ and $A_2$ that form an angle $\phi$.
+The same result can be reached by adding two wave functions of different amplitude and phase-shifted by $\phi$:
+$y_1 = A_1\,\text{sen}\,(\omega t)$ and $y_2 = A_2\,\text{sen}\,(\omega t + \phi)$. In this way one obtains the wave of amplitude $A$ and initial phase $\psi$ that is to be determined.
 $$A_1\,\text{sen}(\omega t) + A_2\,\text{sen}(\omega t + \phi) = A\,\text{sen}(\omega t + \psi)$$
-Developing with the addition formula
+Expanding with the addition formula
 $$A_1\,\text{sen}\,\omega t + A_2\cos\phi\,\text{sen}\,\omega t + A_2\,\text{sen}\,\phi\cos\omega t = A\cos\psi\,\text{sen}\,\omega t + A\,\text{sen}\,\psi\cos\omega t$$
-By imposing equality, first for $\omega t = 0$ and then for $\omega t = \pi/2$,
+Imposing equality, first for $\omega t = 0$ and then for $\omega t = \pi/2$,
 $$A_2\,\text{sen}\,\phi = A\,\text{sen}\,\psi$$
 $$A_1 + A_2\cos\phi = A\cos\psi \qquad (1)$$
-Quadrating and summing
+Squaring and adding
 $$A^2_2\,\text{sen}^2\,\phi + A^2_1 + A^2_2\cos^2\phi + 2A_1 A_2\cos\phi = A^2\,\text{sen}^2\,\psi + A^2\cos^2\psi$$
 Simplifying
 $$A^2 = A^2_1 + A^2_2 + 2A_1 A_2\cos\phi$$
-Back to the problem, we know that when the speaker is switched on or off in $S_2$ no change is noticed.
-In the sound intensity in B, in other words the amplitudes $A_1$ of the first source and $A$ of the overlay
-The waves are the same. In addition, it has $A_1 = \sqrt{2}\,A_2$ due to the different distance. So you get,
+Returning to the problem, it is known that turning the loudspeaker in $S_2$ on or off produces no noticeable variation in the sound intensity at B, in other words the amplitudes $A_1$ of the first source and $A$ of the superposition of the waves are equal. Moreover, one has that $A_1 = \sqrt{2}\,A_2$ because of the different distance. One obtains, therefore,
 $$A^2_1 = A^2_1 + A^2_2 + 2A_1 A_2\cos\phi \quad\Rightarrow\quad 2A^2_2 = 2A^2_2 + A^2_2 + 2\sqrt{2}\,A^2_2\cos\phi$$
 $$1 + 2\sqrt{2}\cos\phi = 0 \quad\Rightarrow\quad \cos\phi = -\frac{\sqrt{2}}{4} \quad\Rightarrow\quad \phi_1 = \arccos\left(-\frac{\sqrt{2}}{4}\right) \quad\text{e}\quad \phi_2 = 2\pi - \arccos\left(-\frac{\sqrt{2}}{4}\right)$$
-Ora, ricordando che $\phi_i = 2\pi\frac{d_i\left(\sqrt{2} - 1\right)\nu}{v}$, si ricava
+Now, recalling that $\phi_i = 2\pi\frac{d_i\left(\sqrt{2} - 1\right)\nu}{v}$, one obtains
 $$d_i = \frac{\phi_i}{2\pi}\frac{v}{\nu}\frac{1}{\sqrt{2} - 1} \quad\Rightarrow\quad d_1 = 0.57\ \text{m} \quad\text{e}\quad d_2 = 1.28\ \text{m}$$
 Material produced by the group
-Olympic Games
-Project
-Olympic Project
-Italian Olympic Secretariat for Physics
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to combat fraud.
-Problems 1 and 2 were drawn up on the proposal of two students already members of the Italian teams at the
-International Olympic Games, respectively Giuliano Chiriaco (Silver medal at the IPhO in Merida, Mexico,
-The European Commission has also launched a programme to promote the development of the European Union's research and technological development strategy.
-I want to thank them very much from the Olympic Group.
+OLYMPIADS
+PROJECT
+OLYMPIAD PROJECT
+Secretariat of the Italian Physics Olympiads fax: 041.584.1272 e-mail: olifis@libero.it
+Problems no.1 and no.2 were developed on the proposal of two students who were already members of the Italian teams at the
+International Olympiads, respectively Giuliano Chiriacò (Silver Medal at the IPhO in Merida, Mexico,
+2009) and Andrea Caleo (Silver Medal at the IPhO in Hanoi, Vietnam, 2008); for this collaboration they deserve warm thanks from the Olympiad Group.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1EuUo3VlcO7zvFS6CfWabeiiLe4Vs3OV4/view)

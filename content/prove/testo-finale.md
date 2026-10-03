@@ -124,50 +124,28 @@ Prova sperimentale – Gara Nazionale Olimpiadi della Fisica 2009 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-2) (70 points) - Fix the magnet at one end of the wire by inserting it between the two contact sections;
-hang a fifty centimetres wire and attach it to the wooden handle by means of a metal spring
-without cutting it; wrap the excess part on the same reel that is to be rested on the table. If you let it out
-Only the part where the wire hangs with the magnet, the whole thing will stay in
-The balance.
+2) (70 points) - Fix the magnet to one end of the wire by inserting it between the two sections in contact; let about fifty centimeters of wire hang down and fix it at the top to the wooden ruler using the metal clip without cutting it; wind the excess part around the ruler itself, which should be placed on the table. If you let only the part from which the wire with the magnet hangs protrude, the whole thing will remain in equilibrium.
 a.
-Leaving the vertical wire, deflect the magnet laterally,
-from the position of equilibrium, of a small angle
-by evaluating it on an eye that it is within $10^{\circ} (\phi\leq10^{\circ}$) (see. Figure a
-side), and let him go. What is the value of the period of
-What about oscillations?
-b. Instead, for $\phi=90^{\circ}$, the torque due to the
-The magnetic field of the Earth (see Figure 1). The Commission will take the view that the
-- That's the best. What 's your Mmax value ?
-Since the value of B is an order of magnitude 10-5
-T, what is the order of magnitude of mo in the System
-The international yes?
+Keeping the wire vertical, deflect the magnet laterally from the equilibrium position by a small angle, judging by eye that it is within $10^{\circ} (\phi\leq10^{\circ}$) (see figure alongside), and let it go. What is the period of the oscillations?
+b. Instead, for $\phi=90^{\circ}$, the moment of the torque due to the Earth's magnetic field (see preamble) would be maximum. What is its value Mmax ?
+ Given that the value of B has an order of magnitude of 10-5
+ T, what is the order of magnitude of mo in the International System SI?
 
-Suggestion to answer Question 2 (b): Fixed to the oscillating magnet
-with a small amount of adhesive rubber (very little) the aluminium scissor;
-This is cylindrical, whereas the magnet is rather prism-shaped.
-It lets everything swing in the Earth's magnetic field. The oscillating system
-It has the same magnetic moment as the magnet, because aluminium does not have the same magnetic moment.
-the amendment.
+Hint for answering question 2 b: fix the aluminum rod to the oscillating magnet with a little adhesive rubber (very little is enough);
+this is cylindrical, whereas the magnet has rather the shape of a prism.
+Let the whole thing oscillate in the Earth's magnetic field. The oscillating system has the same magnetic moment as the magnet, since the aluminum does not modify it.
 
 $\theta$
 $\phi$
-View
-From above
-View of
-Front
-B land
+Top view
+Front view
+Earth's B
 North
-The Meridian
-geographical area
-B land
-Experimental test  National competition of Physics 2009 2
+Geographic meridian
+Earth's B
+Experimental test – National Competition Physics Olympiad 2009 2
 
-**Topic:** [[Oscillations & Waves]], [[Magnetism]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1mOZnEQwVMLzcgCa7kqLqxJJvwmVtf8J9/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nyb4DQ5K4zhhFL7z9vF4HuePUoKkc8oA/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1nyb4DQ5K4zhhFL7z9vF4HuePUoKkc8oA/view)
 
 
 

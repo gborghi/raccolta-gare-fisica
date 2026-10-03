@@ -68,55 +68,50 @@ COMMISSIONE
 
 <div class="qlang-split" data-lang="en"></div>
 
-P1 A contagion
+P1 A tachometer
 
-1 Balance of the ball in the empty tube
+1 Equilibrium of the ball in the empty tube
 
 $$r_e = \frac{g}{\omega^2 \operatorname{tg}\alpha}$$
 
 Stable (S) or Unstable (I)? I
 
-2 Vertical pressure difference
+2 Pressure difference in the vertical direction
 
 $$dp_z = -\rho g\, dz$$
 
-3 Difference of pressure in horizontal
+3 Pressure difference in the horizontal direction
 
 $$dp_r = \rho\, \omega^2 r\, dr$$
 
-4 Components of hydrostatic force
+4 Components of the hydrostatic force
 
 $$S_r = -\rho V \omega^2 r \qquad S_z = \rho V g$$
 
-5 Balance position in case A
+5 Equilibrium position in case A
 
 $$r_A = \frac{g}{\omega^2 \operatorname{tg}\alpha}$$
 
 Stable (S) or Unstable (I)? I
 
-6 Balance position in case B
+6 Equilibrium position in case B
 
 $$r_B = \frac{g}{\omega^2 \operatorname{tg}\alpha}$$
 
 Stable (S) or Unstable (I)? S
 
-7 Representation of the balance points
+7 Representation of the equilibrium points
 
 8 Minimum measurable frequency, in which case
 
-Applicable device for case B
+Device suitable in case B
 
 $$f_\text{min} = \frac{1}{2\pi}\sqrt{\frac{g\,\operatorname{sen}\alpha}{L\cos^2\alpha}}$$
 
-Theoretical national competition: 22 April 2022
-The Commission
+PHYSICS OLYMPIADS – National Theoretical Competition: 22 April 2022
+COMMITTEE
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZFGvpJjjn7ms6u1LUihIzepG8cMTCBsV/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pjsdTmBxTl2x9HRm9l-yMsU37aKPlmjV/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pjsdTmBxTl2x9HRm9l-yMsU37aKPlmjV/view)
 
 
 
@@ -173,45 +168,40 @@ COMMISSIONE
 
 P2 Electrostatic pendulum
 
-1 Demonstration of equality $\vec{E}_\perp$
+1 Proof of equality $\vec{E}_\perp$
 
-2 Values of $q_1$ for balance
+2 Values of $q_1$ for equilibrium
 
 $$q_1 < m g / E_A$$
 
-3 Demonstration of $E_\perp = \alpha\,\varphi$
+3 Proof of $E_\perp = \alpha\,\varphi$
 
 $$\alpha = \frac{\lambda\, r^2}{2\pi\varepsilon_0\,(r^2 + \ell^2)^{3/2}}$$
 
-4 Calling force in A
+4 Restoring force at A
 
 $$f = -(mg - \alpha q_1)\,\varphi$$
 
-5 Position of the second equilibrium point. Segno di $q_2$
+5 Position of the second equilibrium point. Sign of $q_2$
 
-In $A'$ symmetrical to A with respect to O. $q_2 > 0$
+At $A'$ symmetric to A with respect to O. $q_2 > 0$
 
-6 Force of attraction at the second equilibrium point
+6 Restoring force at the second equilibrium point
 
 $$f = -(\alpha q_2 - mg)\,\varphi$$
 
-7 Period values
+7 Values of the period
 
 $$T_+ = T_{(q_1>0)} = \sqrt{3}\,T_0 = (17.28 \leq 1.732 \leq 1736)\ \text{s}$$
 
 $$T_- = T_{(q_1<0)} = T_0/\sqrt{3} = (0.5762 \leq 0.5774 \leq 0.5786)\ \text{s}$$
 
-Expression · Val. number
+Expression · Numerical value
 
-Theoretical national competition: 22 April 2022
-The Commission
+PHYSICS OLYMPIAD – National Theoretical Competition: 22 April 2022
+COMMITTEE
 
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ZFGvpJjjn7ms6u1LUihIzepG8cMTCBsV/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pjsdTmBxTl2x9HRm9l-yMsU37aKPlmjV/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pjsdTmBxTl2x9HRm9l-yMsU37aKPlmjV/view)
 
 
 

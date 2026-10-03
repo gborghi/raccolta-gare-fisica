@@ -27,14 +27,9 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** Which of the following electrical measurements has the lowest error rate? A) $(34\pm2)\ \text{mA}$; B) $(0.63\pm0.01)\ \text{A}$; C) $(1.52\pm0.02)\ \text{V}$; D) $(241\pm1)\ \text{V}$; E) $(18.0\pm0.5)\ \text{mV}$.
+**Q1.** Which of the following electrical measurements has the smallest percentage error? A) $(34\pm2)\ \text{mA}$; B) $(0.63\pm0.01)\ \text{A}$; C) $(1.52\pm0.02)\ \text{V}$; D) $(241\pm1)\ \text{V}$; E) $(18.0\pm0.5)\ \text{mV}$.
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** —
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -56,14 +51,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-A star is seen from the Earth's surface in a higher position in the sky than it would be in the absence of atmosphere. To what phenomenon in light propagation is this effect chiefly attributable? The following are the results of the study:
+**Q2.** A star is seen from the Earth's surface at a position in the sky higher than it would have in the absence of the atmosphere. To which phenomenon related to the propagation of light is this effect mainly attributable? A) Diffraction; B) Dispersion; C) Interference; D) Reflection; E) Refraction.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -85,14 +75,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A train moves at a constant speed by issuing a continuous whistle. A person on the railroad sees the train coming and hears a whistle... (a) whose frequency increases gradually; (b) whose frequency is constant but higher; (c) whose frequency is equal to that of the train; (d) whose frequency is constant but lower; (e) whose frequency decreases gradually.
+**Q3.** A train moves at constant speed emitting a continuous whistle. A person along the railway sees the train approaching and hears a whistle... A) whose frequency gradually increases; B) of constant frequency, but higher; C) of frequency equal to that emitted by the train; D) of constant frequency but lower; E) whose frequency gradually decreases.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -119,19 +104,14 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q4.** The figure shows two identical resistors connected in series to a negligible internal resistance battery; the terminals are L, M, P, Q (constantly-section homogeneous conductors). The three graphs show, in order, the trend of the electric potential, the intensity of the electric field in the LQ direction and the current being delivered. What graphs are correct? *(1: decreasing step potential; 2: pulse field in resistors; 3: constant current.) * A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
+**Q4.** The figure shows two identical resistors connected in series to a battery of negligible internal resistance; the terminals are L, M, P, Q (homogeneous conductors of constant cross-section). The three graphs show, in order, the behavior of the electric potential, of the electric field strength in the direction LQ, and of the supplied current. Which graphs are correct? *(1: potential with decreasing steps; 2: field with pulses in the resistors; 3: constant current.)* A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
 <!--fig:start-->
-**p.2 **  Circuit with two resistors and three graphs
+**p.2** — Circuit with two resistors and three graphs
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p2_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -158,19 +138,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q5.** The $v$ speed of an object varies over time $t$ as shown in the graph (direct from $0$ to $25\ \text{m s}^{-1}$ in $5\ \text{s}$). The space traveled in the first $5\ \text{s}$ is... A) $625\ \text{m}$; B) $125\ \text{m}$; C) $75.0\ \text{m}$; D) $62.5\ \text{m}$; E) $5.00\ \text{m}$.
+**Q5.** The velocity $v$ of an object varies over time $t$ as shown by the graph (straight line from $0$ to $25\ \text{m s}^{-1}$ in $5\ \text{s}$). The distance traveled in the first $5\ \text{s}$ is... A) $625\ \text{m}$; B) $125\ \text{m}$; C) $75.0\ \text{m}$; D) $62.5\ \text{m}$; E) $5.00\ \text{m}$.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total cost of the project:
+**p.3** — Velocity-time graph
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p3_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -197,19 +172,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q6.** Un piccolo corpo rigido è fermo e viene lasciato cadere nel vuoto. Quale dei grafici rappresenta meglio la dipendenza dal tempo $t$ della distanza percorsa dal corpo nella caduta? *[Five AE graphs; the correct one is a growing parabola.]*
+**Q6.** A small rigid body is at rest and is dropped in a vacuum. Which of the graphs best represents the time dependence $t$ of the distance traveled by the body during the fall? *[Five graphs A–E; the correct one is an increasing parabola.]*
 
 <!--fig:start-->
-**p.3** — Cinque grafici distanza-tempo A-E
+**p.3** — Five distance-time graphs A-E
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p3_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-**Risposta:** **E**
+**Answer:** **E**
 
 
 
@@ -231,14 +201,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-A perfect mass of gas is compressed at a constant temperature. During this process: 1  energy is transferred from the gas to the surrounding environment; 2  work is done on the gas; 3  the average kinetic energy of the molecules increases. What statements are correct? (a) All three; (b) Only the first two; (c) Only 2 and 3; (d) Only 3; (e) None of the three.
+**Q7.** A mass of ideal gas is compressed at constant temperature. During this process: 1 — there is a transfer of energy from the gas to the surroundings; 2 — work is done on the gas; 3 — the average kinetic energy of the molecules increases. Which statements are correct? A) All three; B) Only the first two; C) Only 2 and 3; D) Only 3; E) None of the three.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -260,14 +225,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q8.** A steam engine takes the steam from a source at $200°\text{C}$ and releases it to the external environment at $100°\text{C}$. The ideal performance of this machine is about... A) $50\%$; B) $25\%$; C) $21\%$; D) $11\%$; E) $2\%$.
+**Q8.** A steam engine takes steam from a source at $200°\text{C}$ and releases it to the external environment at $100°\text{C}$. The ideal efficiency of this engine is approximately... A) $50\%$; B) $25\%$; C) $21\%$; D) $11\%$; E) $2\%$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -294,19 +254,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph represents the temperature trend of a pure substance mass as it is supplied with energy (plateau at $20°\text{C}$ between $100$ and $200\ \text{kJ}$; plateau at $50°\text{C}$ between $400$ and $700\ \text{kJ}$). It follows that the ratio of the evaporation heat to the melting heat of the substance is... A) $3:1$; B) $2:1$; C) $1:1$; D) $1:2$; E) $1:3$.
+**Q9.** The graph represents the trend of the temperature of a mass of pure substance while energy is supplied to it (plateau at $20°\text{C}$ between $100$ and $200\ \text{kJ}$; plateau at $50°\text{C}$ between $400$ and $700\ \text{kJ}$). It follows that the ratio between the heat of evaporation and the heat of fusion of the substance is... A) $3:1$; B) $2:1$; C) $1:1$; D) $1:2$; E) $1:3$.
 
 <!--fig:start-->
-The following table shows the temperature-heat graph with plateau:
+**p.4** — Temperature-heat graph with plateau
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p4_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -333,19 +288,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q10.** A beam of parallel white light rays is directed towards the AB face of a glass prism (index $n_2$) immersed in a transparent liquid of index $n_1$. 1  If $n_1>n_2$ the light could be totally reflected by AB; 2  if $n_1=n_2$ the prism is not visible; 3  if $n_1<n_2$ the light is partially reflected by AB. What statements are true? (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1 and 3; (e) Only 2.
+**Q10.** A beam of parallel rays of white light is directed toward face AB of a glass prism (index $n_2$) immersed in a transparent liquid of index $n_1$. 1 — If $n_1>n_2$ the light could be totally reflected by AB; 2 — if $n_1=n_2$ the prism is not visible; 3 — if $n_1<n_2$ the light is partially reflected by AB. Which statements are true? A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1 and 3; E) Only 2.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total value of the samples:
+**p.4** — Prism immersed in liquid, rays
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p4_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -372,19 +322,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q11.** The figure shows a cart moving in harmonic oscillating motion (between two springs). How can the frequency of oscillations be significantly increased? (a) By increasing the width; (b) by adding a mass to the cart; (c) by reducing friction; (d) by reducing the width; (e) by using a more rigid spring pair.
+**Q11.** The figure shows a cart moving with harmonic oscillatory motion (between two springs). In what way can the frequency of the oscillations be increased significantly? A) By increasing the amplitude; B) by adding a mass to the cart; C) by reducing friction; D) by reducing the amplitude; E) by using a pair of stiffer springs.
 
 <!--fig:start-->
-**p.5 **  Carriage between two springs
+**p.5** — Cart between two springs
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p5_f6.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -406,14 +351,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q12.** We indicate with $x$ and $y$ respectively the kinetic energy and velocity of a body. What relationship correctly expresses the link between $x$ and $y$? A) $y=kx$; B) $y=kx^2$; C) $y=k/x$; D) $y=k/x^2$; E) $y=k\sqrt{x}$.
+**Q12.** Let us denote by $x$ and $y$ respectively the kinetic energy and the velocity of a body. Which relation correctly expresses the link between $x$ and $y$? A) $y=kx$; B) $y=kx^2$; C) $y=k/x$; D) $y=k/x^2$; E) $y=k\sqrt{x}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -440,19 +380,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q13.** The three graphs describe what happens in the circuit (initially discharging capacitor) after the switch is closed. They are in the order: 1  d.d.p. The current of the capacitor $V_1$ to the capacitor heads vs $t$; 2  current $I$ to the resistor vs $t$; 3  d.d.p. The resistance headings $V_2$ vs $t$. Which of the three graphs is correct? (a) All three; (b) Only 1 and 2; (c) Only 1; (d) Only 2; (e) Only 3.
+**Q13.** The three graphs describe what happens in the circuit (initially uncharged capacitor) after the switch is closed. They represent in order: 1 — p.d. $V_1$ across the capacitor vs $t$; 2 — current $I$ in the resistor vs $t$; 3 — p.d. $V_2$ across the resistor vs $t$. Which of the three graphs are correct? A) All three; B) Only 1 and 2; C) Only 1; D) Only 2; E) Only 3.
 
 <!--fig:start-->
-**p.5 **  RC circuit and three graphs
+**p.5** — RC circuit and three graphs
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p5_f7.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
+**Answer:** **B**
 
 
 
@@ -474,14 +409,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q14.** Which of the following quantities is constant for a projectile in flight in the absence of atmosphere? 1  The horizontal component of the speed; 2  the vertical component of the acceleration; 3  the vertical component of the engine quantity. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 2; (e) None of the three.
+**Q14.** Which of the following quantities are constant for a projectile in flight, in the absence of an atmosphere? 1 — The horizontal component of the velocity; 2 — the vertical component of the acceleration; 3 — the vertical component of the momentum. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 2; E) None of the three.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
+**Answer:** **B**
 
 
 
@@ -508,19 +438,14 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** Two identical X and Y balls are dropped from the two-high cylinder case. One cylinder is completely filled with a liquid, the other is partially filled with the same liquid so that Y drops for a stretch $d$ before reaching the surface of the liquid. What statements are correct? 1  The speed of X after the $d$ stroke is less than that of Y when it has traveled the same stroke; 2  X takes longer than Y to traverse the $d$ stroke; 3  X and Y, after sufficient time, can reach the same speed. (a) All three; (b) The first and second; (c) The first and third; (d) Only the first; (e) Only the second.
+**Q15.** Two identical spheres X and Y are dropped from rest at the mouth of two tall cylinders. One cylinder is completely filled with a liquid, the other is partially filled with the same liquid so that Y falls for a stretch $d$ before reaching the surface of the liquid. Which statements are correct? 1 — The speed of X after the stretch $d$ is less than that of Y when it has traveled the same stretch; 2 — X takes more time than Y to travel the stretch $d$; 3 — X and Y, after sufficient time, can reach the same speed. A) All three; B) The first and the second; C) The first and the third; D) Only the first; E) Only the second.
 
 <!--fig:start-->
-**p.6 **  Two cylinders with liquid X and Y
+**p.6** — Two cylinders with liquid X and Y
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p6_f8.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -547,19 +472,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The light source shall be the light source of the light source. A beam emerging is produced at an angle $\alpha$ to the incident beam. A second lattice is placed perpendicular to the path of this beam, identical to the first. In addition to the second lattice, the directions which  with respect to the initial beam  form a zero angle, $\alpha$ or $2\alpha$ shall be considered. For which of the three angles is a beam emerging from the second lattice observed? (a) For all three; (b) For $\alpha$ and $2\alpha$ only; (c) For $\alpha$ only; (d) For $2\alpha$ only; (e) For none of the three.
+**Q16.** Monochromatic light is incident perpendicularly on a diffraction grating. An emerging beam is produced at an angle $\alpha$ with respect to the incident ray. On the path of this beam, a second grating identical to the first is placed perpendicularly. Beyond the second grating, consider the directions that — with respect to the initial beam — form a zero angle, $\alpha$ or $2\alpha$. For which of the three angles is an emerging beam observed from the second grating? A) For all three; B) Only for $\alpha$ and $2\alpha$; C) Only for $\alpha$; D) Only for $2\alpha$; E) For none of the three.
 
 <!--fig:start-->
-**p.6 **  Identical mesh and beam
+**p.6** — Identical gratings and transmitted beam
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p6_f9.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -581,14 +501,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q17.** Which of the following claims about potency are correct? 1  The watt is a unit of power measurement; 2  $\dfrac{\text{coulomb}}{\text{secondo}}\times\dfrac{\text{joule}}{\text{coulomb}}$ is a unit of power measurement; 3  $\dfrac{\text{coulomb}}{\text{secondo}}\times\dfrac{\text{coulomb}}{\text{secondo}}\times\dfrac{\text{volt}}{\text{ampere}}$ is a unit of power measurement. (a) Only the first; (b) Only the second; (c) Only the third; (d) Only the first and second; (e) All three.
+**Q17.** Which of the following statements about power are correct? 1 — The watt is a unit of measurement of power; 2 — $\dfrac{\text{coulomb}}{\text{secondo}}\times\dfrac{\text{joule}}{\text{coulomb}}$ is a unit of measurement of power; 3 — $\dfrac{\text{coulomb}}{\text{secondo}}\times\dfrac{\text{coulomb}}{\text{secondo}}\times\dfrac{\text{volt}}{\text{ampere}}$ is a unit of measurement of power. A) Only the first; B) Only the second; C) Only the third; D) Only the first and the second; E) All three.
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -610,14 +525,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q18.** The statements on a perfect gas are read: 1  at a given temperature the molecules all move at the same speed, in random directions; 2  the average square velocity increases when the gas is compressed at a constant temperature; 3  the temperature of the gas is directly proportional to the average of the squares of the velocities of the molecules. Which ones are correct? (a) All three; (b) Only the first two; (c) Only the second; (d) None; (e) Only the third.
+**Q18.** Read the statements about a perfect gas: 1 — at a given temperature the molecules all move at the same speed, in random directions; 2 — the root mean square speed increases when the gas is compressed at constant temperature; 3 — the temperature of the gas is directly proportional to the mean of the squares of the speeds of the molecules. Which are correct? A) All three; B) Only the first two; C) Only 2; D) None; E) Only 3.
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -639,14 +549,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q19.** Quando un corpo di volume $2.0\times10^{-4}\ \text{m}^3$ è appeso in aria a un dinamometro, lo strumento indica $5.0\ \text{N}$. What would the same dynamometer indicate if the body were completely submerged in a fluid of $800\ \text{kg m}^{-3}$ density ($g=10\ \text{N kg}^{-1}$)? A) Zero; B) $1.6\ \text{N}$; C) $3.4\ \text{N}$; D) $4.8\ \text{N}$; E) $5.0\ \text{N}$.
+**Q19.** When a body of volume $2.0\times10^{-4}\ \text{m}^3$ is suspended in air from a dynamometer, the instrument reads $5.0\ \text{N}$. What would the same dynamometer read if the body were completely immersed in a liquid of density $800\ \text{kg m}^{-3}$ ($g=10\ \text{N kg}^{-1}$)? A) Zero; B) $1.6\ \text{N}$; C) $3.4\ \text{N}$; D) $4.8\ \text{N}$; E) $5.0\ \text{N}$.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-**Risposta:** **C**
+**Answer:** **C**
 
 
 
@@ -668,14 +573,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q20. ** The Earth determines a gravitational field whose intensity at the center of the Moon is $g'$ ($g=F/m$). The masses of the Earth and Moon are $M_T$ and $M_L$. What is the intensity of the gravitational field due to the Moon at the center of the Earth? A) $g'$; B) $g'(M_L/M_T)$; C) $g'(M_T/M_L)$; D) $g'(M_L/M_T)^{1/2}$; E) $g'(M_T/M_L)^{1/2}$.
+**Q20.** The Earth produces a gravitational field whose intensity at the center of the Moon is $g'$ ($g=F/m$). Let $M_T$ and $M_L$ be the masses of the Earth and the Moon. What is the intensity of the gravitational field due to the Moon, at the center of the Earth? A) $g'$; B) $g'(M_L/M_T)$; C) $g'(M_T/M_L)$; D) $g'(M_L/M_T)^{1/2}$; E) $g'(M_T/M_L)^{1/2}$.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -697,14 +597,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The total energy of a harmonically moving particle can be varied in one of the following independent ways: 1  variing in width; 2  variing in time; 3  variing in mass. What are the correct ways? (a) All three; (b) The first two; (c) The last two; (d) Only the first; (e) Only the third.
+**Q21.** The total energy of a particle in harmonic motion can be changed in one of these independent ways: 1 — by changing the amplitude; 2 — by changing the period; 3 — by changing the mass. Which ways are correct? A) All three; B) The first two; C) The last two; D) Only the first; E) Only the third.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -731,19 +626,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q22.** Two small identical $S_1$ and $S_2$ loudspeakers, distant $0.50\ \text{m}$, are connected to the same generator and vibrate in phase by emitting wavelength sound waves $0.40\ \text{m}$. A microphone detects a minimum (destructive interference) at the point P. If P is $12.00\ \text{m}$ from $S_2$ and $PS_1>PS_2$, the minimum distance of P from $S_1$ shall be... A) $12.15\ \text{m}$; B) $12.20\ \text{m}$; C) $12.40\ \text{m}$; D) $12.50\ \text{m}$; E) $13.00\ \text{m}$.
+**Q22.** Two identical small loudspeakers $S_1$ and $S_2$, at a distance $0.50\ \text{m}$ apart, are connected to the same generator and vibrate in phase emitting sound waves of wavelength $0.40\ \text{m}$. A microphone detects a minimum (destructive interference) at point P. If P is $12.00\ \text{m}$ from $S_2$ and $PS_1>PS_2$, the minimum distance of P from $S_1$ must be... A) $12.15\ \text{m}$; B) $12.20\ \text{m}$; C) $12.40\ \text{m}$; D) $12.50\ \text{m}$; E) $13.00\ \text{m}$.
 
 <!--fig:start-->
-The following is the list of the main components of the engine:
+**p.8** — Loudspeakers S1 S2 and point P
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p8_f10.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -765,14 +655,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a region of space, in the vacuum, a uniform electric field is established. So, what? (a) the same force acts on all charged particles placed in the field; (b) the electrons entering perpendicular to the field lines move in circular trajectories; (c) two electrons are repelled by force proportional to the distance between them; (d) the distance travelled by an electron leaving the station at a given time is proportional to the intensity of the electric field; (e) the distance travelled by an electron leaving the station at a given time is proportional to the time elapsed.
+**Q23.** In a region of space, in a vacuum, a uniform electric field is established. Then... A) the same force acts on all charged particles placed in the field; B) electrons that enter perpendicularly to the field lines move along circular trajectories; C) two electrons repel each other with a force proportional to their mutual distance; D) the distance traveled by an electron starting from rest, in a given time, is proportional to the strength of the electric field; E) the distance traveled by an electron starting from rest, in a given time, is proportional to the elapsed time.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -799,19 +684,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q24.** In the system shown (sloping plane $30°$, block $100\ \text{N}$ connected by carriage by weight $40\ \text{N}$) the static friction is $\mu=0.24$; the block is held firm by a force parallel to the plane. What must be the intensity and direction of such force? (a) equal to $10.8\ \text{N}$ downward; (b) greater than $10.8\ \text{N}$ downward; (c) included between $30.8\ \text{N}$ upward and $10.8\ \text{N}$ downward; (d) equal to $30.8\ \text{N}$ upward; (e) greater than $30.8\ \text{N}$ upward.
+**Q24.** In the system shown in the figure (inclined plane $30°$, block $100\ \text{N}$ connected via a pulley to a weight $40\ \text{N}$) the static friction is $\mu=0.24$; the block is held stationary by a force parallel to the plane. What must be the magnitude and direction of this force? A) Equal to $10.8\ \text{N}$ downward; B) greater than $10.8\ \text{N}$ downward; C) between $30.8\ \text{N}$ upward and $10.8\ \text{N}$ downward; D) equal to $30.8\ \text{N}$ upward; E) greater than $30.8\ \text{N}$ upward.
 
 <!--fig:start-->
-**p.9**  Tilted plane with carriage and weights
+**p.9** — Inclined plane with pulley and weights
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p9_f11.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Block (object)|Block]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -833,14 +713,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q25.** With respect to the previous system, dynamic friction is $\mu=0.2$ and the heaviest block is descending at constant speed. What should be the intensity and direction of the force applied to the descending block? (a) equal to $7.3\ \text{N}$ downward; (b) greater than $7.3\ \text{N}$ downward; (c) included between $27.3\ \text{N}$ upward and $7.3\ \text{N}$ downward; (d) equal to $27.3\ \text{N}$ upward; (e) greater than $27.3\ \text{N}$ upward.
+**Q25.** With reference to the previous system, the kinetic friction is $\mu=0.2$ and the heavier block descends at constant velocity. What must be the magnitude and direction of the force applied to the descending block? A) Equal to $7.3\ \text{N}$ downward; B) greater than $7.3\ \text{N}$ downward; C) between $27.3\ \text{N}$ upward and $7.3\ \text{N}$ downward; D) equal to $27.3\ \text{N}$ upward; E) greater than $27.3\ \text{N}$ upward.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Block (object)|Block]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -867,19 +742,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q26.** Three spheres weighing $30\ \text{N}$, $18\ \text{N}$ and $10\ \text{N}$ and are connected to a rigid support by means of identical springs of negligible mass, one below the other. The elastic constant of each spring is $1\ \text{N mm}^{-1}$. The length of the central spring is... A) $8\ \text{mm}$; B) $12\ \text{mm}$; C) $18\ \text{mm}$; D) $28\ \text{mm}$; E) $58\ \text{mm}$.
+**Q26.** Three spheres weigh $30\ \text{N}$, $18\ \text{N}$ and $10\ \text{N}$ and are connected to a rigid support by means of identical springs of negligible mass, one below the other. The spring constant of each spring is $1\ \text{N mm}^{-1}$. The elongation of the middle spring is... A) $8\ \text{mm}$; B) $12\ \text{mm}$; C) $18\ \text{mm}$; D) $28\ \text{mm}$; E) $58\ \text{mm}$.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total number of samples:
+**p.9** — Three spheres suspended from springs
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p9_f12.png]]
 <!--fig:end-->
 
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -979,14 +849,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A horizontal uniform disk rotates around a vertical axis for the centre. A mass body $m$ is supported at a distance $r$ from the centre and is dragged; the angular velocity increases until the body is thrown away, at $\omega_0$. To launch it at angular velocities less than $\omega_0$, what operations are appropriate? 1  Increase $r$; 2  Decrease the friction coefficient; 3  Decrease the mass $m$. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1 and 3; (e) None of the three.
+**Q29.** A uniform horizontal disk rotates about a vertical axis through its center. A body of mass $m$ is placed at a distance $r$ from the center and is dragged along; the angular velocity increases until the body is thrown off, at $\omega_0$. To throw it off at an angular velocity lower than $\omega_0$, which operations are suitable? 1 — Increase $r$; 2 — decrease the coefficient of friction; 3 — decrease the mass $m$. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1 and 3; E) None of the three.
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
+**Answer:** **B**
 
 
 
@@ -1013,19 +878,14 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The section of the coating of a hot water tank is shown: metal wall thickness $3.0\ \text{mm}$ ($k=4.0\times10^2\ \text{W m}^{-1}\text{K}^{-1}$) and polyurethane cover thickness $27\ \text{mm}$ ($k=1.0\ \text{W m}^{-1}\text{K}^{-1}$). The metal surface in contact with water is $90°\text{C}$ and the outer surface of polyurethane is $30°\text{C}$. The temperature $X$ on the metal/polyurethane separation surface, approximated to grade, is... A) $50°\text{C}$; B) $60°\text{C}$; C) $84°\text{C}$; D) $89°\text{C}$; E) $90°\text{C}$.
+**Q30.** The figure shows the cross-section of the lining of a hot water tank: metal wall thickness $3.0\ \text{mm}$ ($k=4.0\times10^2\ \text{W m}^{-1}\text{K}^{-1}$) and polyurethane covering thickness $27\ \text{mm}$ ($k=1.0\ \text{W m}^{-1}\text{K}^{-1}$). The metal surface in contact with the water is at $90°\text{C}$, the outer surface of the polyurethane is at $30°\text{C}$. The temperature $X$ on the metal/polyurethane separation surface, rounded to the nearest degree, is... A) $50°\text{C}$; B) $60°\text{C}$; C) $84°\text{C}$; D) $89°\text{C}$; E) $90°\text{C}$.
 
 <!--fig:start-->
-**p.11**  Metal and polyurethane section of the wall
+**p.11** — Cross-section of metal and polyurethane wall
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p11_f15.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -1119,18 +979,13 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q33.** The points X and Y indicate the position of two long, parallel, distant strands $15\ \text{cm}$. The X-wire is traversed by a current of $20\ \text{A}$, the Y-wire by a current of $10\ \text{A}$ in the same direction. In which of the points A, B, C, D, E must a third wire be placed parallel to the others and current flowing in the same direction, so that the force acting on it is zero?
+**Q33.** Points X and Y indicate the positions of two long, parallel wires, $15\ \text{cm}$ apart. Wire X carries a current of $20\ \text{A}$, wire Y carries a current of $10\ \text{A}$ in the same direction. At which of points A, B, C, D, E must a third wire be placed, parallel to the others and carrying a current in the same direction, so that the force acting on it is zero?
 <!--fig:start-->
-**p.11**  Two X and Y strands with points A to E
+**p.11** — Two wires X and Y with points A-E
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p11_f17.png]]
 <!--fig:end-->
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -1157,19 +1012,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figures show possible pulses propagating along a rope (AE). The superposition of the E-impulse and the pulse along the same string produces a new pulse form. Which of the impulses represented closest resembles the resulting one? The following table shows the results of the tests:
+**Q34.** The figures show possible pulses propagating along a rope (A–E). The superposition of pulse E and pulse A along the same rope produces a new pulse shape. Which of the represented pulses does the resulting one most resemble? *[Pulses A–E.]*
 
 <!--fig:start-->
-The following is the list of the main components of the power supply system:
+**p.12** — Five pulses on a rope A-E
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p12_f18.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2001.
+**Answer:** **B**
 
 
 
@@ -1196,19 +1046,14 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The five graphs show how a size $y$ can depend on $x$. Which best represents the relationship between the potential energy of a simple pendulum oscillating without friction (size $y$) and its kinetic energy (size $x$) at the same time? *[Graphs AE; the correct one is a decreasing straight.]*
+**Q35.** The five graphs show how a quantity $y$ can depend on $x$. Which one best represents the relationship between the potential energy of a simple pendulum oscillating without friction (quantity $y$) and its kinetic energy (quantity $x$) at the same instant? *[Graphs A–E; the correct one is a decreasing straight line.]*
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total number of samples:
+**p.12** — Five y-x graphs A-E
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p12_f19.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -1230,14 +1075,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q36.** A potential difference of $6\ \text{V}$ is applied to a capacitor from $20\ \text{pF}$ to flat and parallel frames. The capacitor is isolated and a sheet of perspex (relative dielectric constant $4$) is inserted between the frames filling the entire space. What statements correctly describe the situation? 1  The stored charge remains the same; 2  the stored energy increases from $360\ \mu\text{J}$ to $1440\ \mu\text{J}$; 3  the d.d.p. between the frames is still $6\ \text{V}$. (a) All three; (b) Only 1 and 2; (c) Only 2 and 3; (d) Only 1; (e) Only 3.
+**Q36.** A potential difference of $6\ \text{V}$ is applied to a capacitor of $20\ \text{pF}$ with flat, parallel plates. The capacitor is isolated and a sheet of perspex (relative dielectric constant $4$) is inserted between the plates, filling all the space. Which statements correctly describe the situation? 1 — The stored charge remains the same; 2 — the stored energy increases from $360\ \mu\text{J}$ to $1440\ \mu\text{J}$; 3 — the p.d. between the plates is still $6\ \text{V}$. A) All three; B) Only 1 and 2; C) Only 2 and 3; D) Only 1; E) Only 3.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -1264,19 +1104,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q37.** A vehicle makes a death lap on a circular track in a vertical plane (radius $r$). What is the minimum speed the vehicle must have at the highest point? A) $\sqrt{rg}$; B) $\sqrt{2rg}$; C) $\sqrt{rg}/2$; D) $2\sqrt{rg}$; E) $\sqrt{rg/2}$.
+**Q37.** A vehicle performs a loop-the-loop on a circular track in a vertical plane (radius $r$). What is the minimum speed the vehicle must have at the highest point? A) $\sqrt{rg}$; B) $\sqrt{2rg}$; C) $\sqrt{rg}/2$; D) $2\sqrt{rg}$; E) $\sqrt{rg/2}$.
 
 <!--fig:start-->
-The following is the list of the following:
+**p.13** — Loop-the-loop, circular track
 ![[_attachments/loc97 (2 files merged)/loc97 (2 files merged)_p13_f20.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -1298,14 +1133,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-A circuit consists of four identical lamps connected in series, powered by an internal-resistance battery. The circuit is modified leaving only three lamps, always in series. What statement best describes change? (a) The total resistance increases; (b) the current decreases; (c) the d.d.p. (d) the d.d.p. (e) the power absorbed by each lamp remains the same.
+**Q38.** A circuit is made up of four identical light bulbs connected in series, powered by a battery with internal resistance. The circuit is modified leaving only three light bulbs, still in series. Which statement best describes the change? A) The total resistance increases; B) the current decreases; C) the potential difference across the battery increases; D) the potential difference across the battery decreases; E) the power absorbed by each light bulb remains the same.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -1327,14 +1157,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The maximum energy of electrons emitted by photoelectric effect on the surface of a metal is measured according to the frequency of incident light and the graph is drawn. The graphs for different metals on the same axis are then shown. It's noticeable that all the graphs... (a) they intersect the axis of maximum energy at the same point; (b) they intersect the axis of frequency at the same point; (c) they pass through the origin of the axes; (d) they are parallel to each other; (e) they tend to the same value of maximum energy at frequency increase.
+**Q39.** The maximum energy of the electrons emitted by the photoelectric effect on the surface of a metal is measured as a function of the frequency of the incident light and a graph is plotted. The graphs for different metals are then plotted on the same axes. It is observed that all the graphs... A) intersect the maximum energy axis at the same point; B) intersect the frequency axis at the same point; C) pass through the origin of the axes; D) are parallel to each other; E) tend to the same value of the maximum energy as the frequency increases.
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -1356,11 +1181,6 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q40.** Il calore specifico di un metallo è $\tfrac19 c_a$ e la sua densità è $6\rho_a$, dove $c_a$ e $\rho_a$ sono calore specifico e densità dell'acqua. Equal volumes of water and metal are heated so that temperatures increase by the same amount; the energy supplied to the metal is $k$ times that transferred to the water. Quanto vale $k$? A) $k=1/3$; B) $k=2/3$; C) $k=3/2$; D) $k=4$; E) $k=54$.
+**Q40.** The specific heat of a metal is $\tfrac19 c_a$ and its density is $6\rho_a$, where $c_a$ and $\rho_a$ are the specific heat and density of water. Equal volumes of water and metal are heated so that their temperatures increase by the same amount; the energy supplied to the metal is $k$ times that transferred to the water. What is the value of $k$? A) $k=1/3$; B) $k=2/3$; C) $k=3/2$; D) $k=4$; E) $k=54$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1L_TXRpTGZL1m-daOoqzV9ljO8pi4niyi/view)
-**Risposta:** **B**
+**Answer:** **B**

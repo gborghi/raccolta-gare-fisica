@@ -577,87 +577,76 @@ Salvo diversa indicazione esplicita, questi dati si potranno utilizzare anche ad
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q10 On a flat square sheet, side $\ell$ and negligible thickness, a flat sheet is evenly distributed
-carica elettrica positiva $Q$. A conductive sheet, extended like the previous one, discharged and insulated,
-is set parallel to the first at a distance $d \ll \ell$.
+Q10 On a flat square plate, with side $\ell$ and negligible thickness, a positive electric charge $Q$ is distributed uniformly. A conducting plate, as extensive as the previous one, uncharged and isolated, is placed parallel to the first at a distance $d \ll \ell$.
 •
-What is the value of the load on the two surfaces of the conductive plate, if it has one
-spessore $s \ll \ell$?
+At equilibrium, what are the induced charges on the two surfaces of the conducting plate, if this has a thickness $s \ll \ell$?
 Material prepared by the Group
-BENEFIT: You can use, reproduce, distribute, communicate this material to the public under the following two conditions: cite the source; do not use the material, even partially;
-for commercial purposes.
+NOTE: This material may be used, reproduced, distributed, and communicated to the public under the following two conditions: cite the source; do not use the material, even partially, for commercial purposes.
 
-Table of physical constants
-Primary physical constants
-The following table shows the total value of the assets of the Union industry as defined in Article 107 (1) of the Treaty:
-The following is a list of the
-I'm going to be a little late.
-The value
-Unity
-Speed of light in vacuum
-c
+Table of Physical Constants
+Primary Physical Constants
+[ Exact values by definition – (26.CGPM/16.11.2018) ]
+CONSTANT
+SYMB.
+VALUE
+UNIT
+Speed of light in vacuum c
 $2.997\,924\,58 \times 10^8$
 $\text{m}\,\text{s}^{-1}$
-Basic load
-e
+Elementary charge e
 $1.602\,176\,634 \times 10^{-19}$
 C
-Planck constant
-h
+Planck constant h
 $6.626\,070\,15 \times 10^{-34}$
 J s
-The Boltzmann constant is the constant
-k
+Boltzmann constant k
 $1.380\,649 \times 10^{-23}$
 $\text{J}\,\text{K}^{-1}$
-The Avogadro constant is the
+Avogadro constant
 $N_\text{A}$
 $6.022\,140\,76 \times 10^{23}$
 $\text{mol}^{-1}$
-Other physical constants †
-Mass of the electron
+Other Physical Constants †
+Electron mass
 $m_\text{e}$
-$9.1094 \times 10^{-31}$
-kg
+$9.1094 \times 10^{-31}$ kg
 $= 5.1100 \times 10^2$
 $\text{keV}\,c^{-2}$
-Mass of proton
+Proton mass
 $m_\text{p}$
-$1.67262 \times 10^{-27}$
-kg
+$1.67262 \times 10^{-27}$ kg
 $= 9.3827 \times 10^2$
 $\text{MeV}\,c^{-2}$
-Mass of the neutron
+Neutron mass
 $m_\text{n}$
-$1.67493 \times 10^{-27}$
-kg
+$1.67493 \times 10^{-27}$ kg
 $= 9.3955 \times 10^2$
 $\text{MeV}\,c^{-2}$
-The magnetic permeability of the vacuum
+Magnetic permeability of vacuum
 $\mu_0$
 $4\pi \times 10^{-7} = 1.25664 \times 10^{-6}$
 $\text{H}\,\text{m}^{-1}$
-Costante dielettrica del vuoto: $1/(\mu_0 c^2)$
+Dielectric constant of vacuum: $1/(\mu_0 c^2)$
 $\varepsilon_0$
 $8.8542 \times 10^{-12}$
 $\text{F}\,\text{m}^{-1}$
-Costante elettrostatica: $1/(4\pi\varepsilon_0)$
+Electrostatic constant: $1/(4\pi\varepsilon_0)$
 $k_\text{es}$
 $c^2 \times 10^{-7} = 8.9876 \times 10^9$
 $\text{m}\,\text{F}^{-1}$
-The gas constant is the universal gas constant: $N_\text{A} k$
+Universal gas constant: $N_\text{A} k$
 R
 8.3145
 $\text{J}\,\text{mol}^{-1}\,\text{K}^{-1}$
-Costante di Faraday: $N_\text{A} e$
+Faraday constant: $N_\text{A} e$
 F
 $9.6485 \times 10^4$
 $\text{C}\,\text{mol}^{-1}$
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first
+Stefan–Boltzmann constant
 $\sigma$
 $5.6704 \times 10^{-8}$
 $\text{W}\,\text{m}^{-2}\,\text{K}^{-4}$
-The universal gravitational constant is the
+Universal gravitation constant
 G
 $6.674 \times 10^{-11}$
 $\text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$
@@ -669,48 +658,40 @@ Standard temperature ($0\ ^\circ\text{C}$)
 $T_0$
 273.15
 K
-Molar volume of a perfect gas
-in standard conditions ($p_0$, $T_0$)
+Molar volume of an ideal gas under standard conditions ($p_0$, $T_0$)
 $V_\text{m}$
 $2.2414 \times 10^{-2}$
 $\text{m}^3\,\text{mol}^{-1}$
-Unit of atomic mass
-u
-$1.66054 \times 10^{-27}$
-kg
+Atomic mass unit u
+$1.66054 \times 10^{-27}$ kg
 Table of data that may be needed †
-The acceleration of gravity (value) is the acceleration of the acceleration of gravity. (Conventional)
+Acceleration of gravity (conventional value)
 g
 9.80665
 $\text{m}\,\text{s}^{-2}$
-Density of water (in $4\ ^\circ\text{C}$)
+Density of water (at $4\ ^\circ\text{C}$)⋆
 $\rho_\text{a}$
 $1.00000 \times 10^3$
 $\text{kg}\,\text{m}^{-3}$
-The specific temperature of the water (at $20\ ^\circ\text{C}$)
+Specific heat of water (at $20\ ^\circ\text{C}$)⋆
 $c_\text{a}$
 $4.182 \times 10^3$
 $\text{J}\,\text{kg}^{-1}\,\text{K}^{-1}$
-The ice density (in $0\ ^\circ\text{C}$)
+Density of ice (at $0\ ^\circ\text{C}$)⋆
 $\rho_{\text{g},0}$
 $0.917 \times 10^3$
 $\text{kg}\,\text{m}^{-3}$
-Heat of melting ice
+Heat of fusion of ice
 $\lambda_\text{f}$
 $3.344 \times 10^5$
 $\text{J}\,\text{kg}^{-1}$
-Heat of evaporation of water (at $100\ ^\circ\text{C}$)
+Heat of vaporization of water (at $100\ ^\circ\text{C}$)⋆
 $\lambda_\text{v}$
 $2.257 \times 10^6$
 $\text{J}\,\text{kg}^{-1}$
 †
-Round values, to be considered accurate in the solution of the Physics Olympics tests.
+Rounded values, to be considered exact in solving the Physics Olympiad tests.
 ⋆
-Unless otherwise explicitly stated, these data can be used at other temperatures without significant errors.
+Unless explicitly stated otherwise, these data may also be used at other temperatures without significant errors.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FOgupzhLh6AHQ1AocoVdS-b9d4d8wx91/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18S5KIElwRSHBZbN-FFH1Rr6mXB6J1rRY/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/18S5KIElwRSHBZbN-FFH1Rr6mXB6J1rRY/view)

@@ -1502,40 +1502,32 @@ Apparatto blocchi A e B il suo pianoforte inclinato
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-A block A of $20\ \text{kg}$ is connected to another block B of $30\ \text{kg}$ by a rope
-Unattainable without mass. The rope passes through a frictionless pulley as shown in the
-It's a figure.
+Problem 3
+A block A of $20\ \text{kg}$ is connected to another block B of $30\ \text{kg}$ by means of an inextensible massless rope. The rope passes over a frictionless pulley as shown in the figure.
 
-Block B is connected to a spring that has a despicable mass, a length
-a natural $20\ \text{cm}$ and a force constant of $250\ \text{N/m}$. The plane on which it is
-The supporting block A does not have friction. Initially block B is resting at $40\ \text{cm}$
-From the floor. When block B is released, both blocks begin to oscillate.
+Block B is connected to a spring that has negligible mass, a natural length of $20\ \text{cm}$ and a spring constant of $250\ \text{N/m}$. The plane on which block A rests has no friction. Initially block B is at rest at $40\ \text{cm}$ from the floor. When block B is released, both blocks begin to oscillate.
 
-- **A** Draw an isolated force diagram for each block.
-- **B.** Set the equations of motion.
-- **C.** Calculate the block speed when block B is at $20\ \text{cm}$ of the
-floor (i.e. when the spring is not deformed).
+- **A.** Draw a free-body diagram for each block.
+- **B.** Set up the equations of motion.
+- **C.** Calculate the speed of the blocks when block B is at $20\ \text{cm}$ from the floor (that is, when the spring is undeformed).
 
-Consider the $g = 10\ \text{m/s}^2$
-Theoretical problem 1
-Answering sheet
-Incise
+Consider $g = 10\ \text{m/s}^2$
+Theoretical Problem 1
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 d)
 
 e)
-Theoretical problem 2
-Answering sheet
-Incise
+Theoretical Problem 2
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
@@ -1544,94 +1536,80 @@ c)
 d)
 
 e)
-Theoretical problem 3
-Answering sheet
-Incise
+Theoretical Problem 3
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 c)
-Argentine Olympic Games in Physics
+Argentine Physics Olympiad
 
-Preparatory tests
-First test: mechanics
-The experimental part
+Preparatory Tests
+First Test: Mechanics
+Experimental Part
 
-The following is the list of the countries of the European Union:
+Name: ..................................................................
 
 D.N.I.: ......................................................................
 
-School: ........................... is not a school
+School: .................................................................
 
-- Before you start solving the test read it carefully
-The statement of it.
-- Write your name and D.N.I. number. in the appropriate place. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
-Turn radio.
+- Before starting to solve the test, carefully read the ENTIRE statement of the test.
+- Write your name and your D.N.I. number in the indicated place. Do not write your name anywhere else on the test.
+- Do not write answers on the statement sheets, as they will not be considered.
+- Write on only one side of the sheets.
+Radius of gyration.
 The kinetic energy of a rigid body can be written as
 
 $$K = \tfrac{1}{2}mv^2 + \tfrac{1}{2}I_{CM}\omega^2 \quad (1)$$
 
-where $v$ is the center of mass velocity, $\omega$ is the angular velocity and $m$ and $I_{CM}$ are the
-mass and moment of inertia relative to the body's centre of mass, respectively.
+where $v$ is the velocity of the center of mass, $\omega$ is the angular velocity, and $m$ and $I_{CM}$ are the mass and the moment of inertia with respect to the center of mass of the body, respectively.
 
-Consider a radius cylinder $r$ and mass $m$ located on an inclined plane (see figure).
-Suppose that the body is initially resting in the position indicated in the
-It's a figure.
+Consider a cylinder of radius $r$ and mass $m$ located on an inclined plane (see the figure).
+Assume that initially the body is at rest in the position indicated in the figure.
 
-If it is released into the cylinder, allowing it to descend by rolling without sliding ($v = r\omega$) through the cylinder
-In the slope plane, the conservation of mechanical energy can be written as:
+If the cylinder is released, allowing it to descend "rolling without slipping" ($v = r\omega$) along the inclined plane, the conservation of mechanical energy can be written in the form:
 
 $$mg\,[h + r\cos(\theta)] = \frac{1}{2}\frac{(mgr)^2}{(I_{CM}+mr^2)}\frac{h^2}{d^2}t^2 + mgr\cos(\theta) \quad (2)$$
 
-where $g$ is the acceleration of gravity, $h$ is the height indicated in the figure and $t$ is the
-time the cylinder travels the distance $d$.
-Then you can write,
+where $g$ is the acceleration of gravity, $h$ is the height indicated in the figure, and $t$ the time in which the cylinder travels the distance $d$.
+Then, one can write,
 
 $$h = \frac{2d^2}{g}\left(\frac{r_g^2}{r^2}+1\right)\frac{1}{t^2} \quad (3)$$
 
-where $r_g = \sqrt{\dfrac{I_{CM}}{m}}$ is the radius of spin.
+where $r_g = \sqrt{\dfrac{I_{CM}}{m}}$ is the radius of gyration.
 
 Objective
-Determine the radius of spin $r_g$ of a cylindrical body
+Determine the radius of gyration $r_g$ of a cylindrical body
 
-Other materials
-- cylindrical body (empty - of hardwood, tuna, pile, etc.)
-- The slope of the plane (wood, rigid folder, etc.).
-- It's a timekeeper.
-- It's a rule.
-- Paper. - What?
+Materials
+- Cylindrical body (empty can -peach, tuna-, battery, etc.).
+- Inclined plane (wood, rigid folder, etc.).
+- Stopwatch.
+- Ruler.
+- Paper.
 
-The procedure
+Procedure
 1) Determine the perimeter $p$ of the cylindrical body.
-2) On the slope, mark a distance $d$ (greater than or equal to $2p$).
-3) For the height $h$ (see figure), measure the time $t$ in which the cylindrical body travels through the
-The distance $d$. Repeat the measurement at least 5 (five) times.
-4) Repeat point (c) for at least 5 (five) different values of $h$.
+2) On the inclined plane, mark a distance $d$ (greater than or equal to $2p$).
+3) For the height $h$ (see figure), measure the time $t$ in which the cylindrical body travels the distance $d$. Repeat the measurement at least 5 (five) times.
+4) Repeat point c) for at least 5 (five) different values of $h$.
 
-Consignments
+Instructions
 - **A.** From the measurement of $p$, determine $r$.
 - **B.** Report the measurements made in a table.
-- **C.** From the measured magnitudes and equation 3, choose two variables ($x$ and $y$) of
-The method of deriving a linear relationship between the two is as follows: Make a graph of the
-the variables chosen.
-(d) Linear adjustment of the graphed points, and determination of slope and slope
-ordered to origin.
-(e) From equation 3 and the values obtained from the adjustment, determine the radius of
-The cylindrical body is rotated $r_g$.
-The experimental problem
+- **C.** From the measured quantities and from equation 3, choose two variables ($x$ and $y$) in such a way as to obtain a linear relationship between them. Make a graph of the chosen variables.
+d) Perform a linear fit of the plotted points, and determine the slope and the y-intercept.
+e) From equation 3 and the values obtained from the fit, determine the radius of gyration $r_g$ of the cylindrical body.
+Experimental Problem
 Answer sheet.
 
-Incise
+Item
 
-Score
-a)
+Score a)
 
 b)
 
@@ -1640,70 +1618,56 @@ c)
 d)
 
 e)
-Theoretical problem 1
-Answering sheet
-Incise
+Theoretical Problem 1
+Answer Sheet
+Item
 
-Score
-a)
+Score a)
 
-$\vec{v}_{Avt}$ is the aircraft's speed relative to the ground and $\vec{v}_{at}$ is the speed
-of the air with respect to the land (wind).
-2 points
-b)
+$\vec{v}_{Avt}$ is the velocity of the airplane with respect to the ground and $\vec{v}_{at}$ is the velocity of the air with respect to the ground (wind).
+2 points b)
 
 $\vec{v}_{Avt} = \vec{v}_{Ava} + \vec{v}_{at}$
-$\vec{v}_{Ava}$ is the aircraft speed relative to the air.
-2 points
-d)
-$\theta = 284{,}48^\circ$ or $-75{,}52^\circ$ with respect to the x-axis (Western direction  East)
-3 points
-e)
+$\vec{v}_{Ava}$ is the velocity of the airplane with respect to the air.
+2 points d)
+$\theta = 284{,}48^\circ$ or $-75{,}52^\circ$ with respect to the x-axis (West – East direction)
+3 points e)
 $t = 0{,}516\ \text{h}$
 3 points
 
 x(E)
-A
-y (N)
+A and y (N)
 B
 A
 $\vec{v}_{at}$
 $\vec{v}_{Avt}$
-Theoretical problem 2
-Answering sheet
-Incise
+Theoretical Problem 2
+Answer Sheet
+Item
 
-Score
-a)
+Score a)
 $v_A = 0{,}949\ \text{m/s}$
-2 points
-b)
+2 points b)
 $v_B = 0{,}708\ \text{m/s}$
-2 points
-c)
+2 points c)
 $x = 0{,}112\ \text{m}$
-2 points
-d)
+2 points d)
 $t = 0{,}3975\ \text{s}$
-2 points
-e)
+2 points e)
 $x = 0{,}063\ \text{m}$
 2 points
-Theoretical problem 3
-Answering sheet
-Incise
+Theoretical Problem 3
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 Body A
 
 Body B
 
-4 points
-b)
+4 points b)
 
-3 points
-c)
+3 points c)
 
 3 points
 
@@ -1713,78 +1677,62 @@ PA
 PB
 R
 T
-The Commission
-Theoretical problem one.
+Solutions
+Theoretical Problem 1.
 a)
 
-(b) By the law of the addition of velocities of Galileo we can write:
+b) By Galileo's law of addition of velocities we can write:
 
 $$\vec{v}_{Avt} = \vec{v}_{Ava} + \vec{v}_{at}$$
 
-where $\vec{v}_{Avt}$ is the aircraft speed relative to the ground, $\vec{v}_{Ava}$ is the aircraft speed relative to the ground
-the air and $\vec{v}_{at}$ is the air velocity with respect to land (wind).
+where $\vec{v}_{Avt}$ is the velocity of the airplane with respect to the ground, $\vec{v}_{Ava}$ is the velocity of the airplane with respect to the air and $\vec{v}_{at}$ is the velocity of the air with respect to the ground (wind).
 
-c) With the problem data we can write:
+c) With the data of the problem we can write:
 $\vec{v}_{at} = (-50,\ 0)\ \text{km/h}$
-$\vec{v}_{Avt} = (0,\ -v)\ \text{km/h}$
-Since the wind blows from east to west the plane's speed with respect to land must be
-be in a north-south direction. In addition, as the plane speed module with respect to the
-air is $200\ \text{km/h}$ we can write:
-$\vec{v}_{Ava} = 200(\cos\theta,\ \sin\theta)\ \text{km/h}$
-where $\theta$ gives us the direction the pilot should aim. Graphically:
+$\vec{v}_{Avt} = (0,\ -v)\ \text{km/h}$ since the wind blows from East to West and the velocity of the airplane with respect to the ground must be in the North-South direction. Moreover, since the magnitude of the velocity of the airplane with respect to the air is $200\ \text{km/h}$ we can write:
+$\vec{v}_{Ava} = 200(\cos\theta,\ \sin\theta)\ \text{km/h}$ where $\theta$ gives us the direction in which the pilot must point. Graphically:
 
 B
 $\vec{v}_{Ava}$
 A
 $\vec{v}_{at}$
-$\vec{v}_{Avt}$
-x (E)
+$\vec{v}_{Avt}$ x (E)
 y (N)
 B
 A
 $\vec{v}_{at}$
 $\vec{v}_{Avt}$
-Solving the equations in components results in:
+Solving the equations in components gives:
 $0 = 200 \cos\theta - 50$ (1)
 $-v = 200 \sin\theta$ (2)
-De la ec. (1) results in:
+From eq. (1) it follows:
 $\cos\theta = 50/200 = 0{,}25$
-$\theta = 284{,}48^\circ$ o $-75{,}52^\circ$
+$\theta = 284{,}48^\circ$ or $-75{,}52^\circ$
 
-d) De la ec. (2) it is obtained that:
+d) From eq. (2) we obtain that:
 $v = -200 \sin(284{,}48^\circ) = 193{,}65\ \text{km/h}$
-Like:
+Since:
 $d = vt$
 $t = d/v = 100\ \text{km} / 193{,}65\ \text{km/h} = 0{,}515\ \text{h}$
-Theoretical problem two.
+Theoretical Problem 2.
 
-(a) For conservation of mechanical energy:
+a) By conservation of mechanical energy:
 2
 2
 1
 1
 2
 2
-A
-k x
-mv
+A k x mv
 
 2000.15
 /
 0.949
 /
 5
-A
-k
-v
-x
-m s
-m s
-m
+A k v x m s m s m
 
-(b) between points A and B the kinetic energy is not conserved because there is friction. By
-Thus the energy variation is equal to the work done by the force of
-The roasting.
+b) Between points A and B the kinetic energy is not conserved because there is friction. Therefore it holds that the change in energy is equal to the work done by the friction force.
 2
 2
 1
@@ -1795,10 +1743,7 @@ The roasting.
 2
 B
 A
-AB
-mv
-mv
-mgd
+AB mv mv mgd
 J
 J
 
@@ -1808,9 +1753,7 @@ J
 5
 B
 A
-J
-v
-v
+J v v
 Kg
 
 2
@@ -1823,14 +1766,10 @@ Kg
 5
 B
 A
-J
-v
-v
-m s
+J v v m s
 Kg
 
-(c) We again consider conservation of energy between position B and maximum
-Right spring compression:
+c) Again we set up conservation of energy between position B and the position of maximum compression of the right spring:
 
 2
 2
@@ -1838,20 +1777,13 @@ Right spring compression:
 1
 2
 2
-B
-mv
-k x
+B mv k x
 
 2
 0.112
-B
-m
-x
-v
-m
-k
+B m x v m k
 
-(d) Energy is again lost in the AB section by friction:
+d) Again in section AB energy is lost to friction:
 2
 2
 1
@@ -1862,10 +1794,7 @@ k
 2
 A
 B
-AB
-mv
-mv
-mgd
+AB mv mv mgd
 J
 J
 
@@ -1875,9 +1804,7 @@ J
 5
 A
 B
-J
-v
-v
+J v v
 Kg
 
 2
@@ -1890,14 +1817,10 @@ Kg
 5
 A
 B
-J
-v
-v
-m s
+J v v m s
 Kg
 
-After bouncing in the left spring, he doesn't have enough energy to
-pass through the rough zone, since the root is less than zero:
+After bouncing off the left spring, it does not have enough energy to cross the rough zone, since the radicand is less than zero:
 2
 2
 2
@@ -1907,120 +1830,88 @@ pass through the rough zone, since the root is less than zero:
 5
 B
 A
-J
-v
-v
+J v v
 Kg
-To find where it stops, we have to make a uniform motion.
-Slowing (by friction) at initial speed
+To find where it stops, we have to set up a uniformly decelerated motion (due to friction) with initial velocity
 0.318
 /
-Ai
-v
-m s
+Ai v m s
 
 2
 0.8
-/
-x
-F
-mg
-a
-g
-m s
-m
-m
+/ x
+F mg a g m s m m
 
 Therefore:
-0.318 0.8
-x
-Ai
-x
-v
-v
-a t
-t
+0.318 0.8 x
+Ai x v v a t t
 
-When vx = 0 stops, the time it takes to stop is:
+When it stops vx = 0 therefore the time it takes to stop is:
 0
 0.318 0.8t
 
 0.318
 0.3975
-0.8
-t
-s
-s
+0.8 t s s
 
-e) Taking x = 0 in A results in the body stopping at:
+e) Taking x = 0 at A it turns out that the body stops at:
 2
 2
 0.318(0.3975)
 0.4(0.3975)
 0.063
-2
-x
-Ai
-a t
-x
-v t
-m
+2 x
+Ai a t x v t m
 
 By energy
-Theoretical problem three.
+Theoretical Problem 3.
 a)
 Body A
 
 : Weight of A.
-: String tension over A.
-: Force that makes the platform over A.
+: Tension of the rope on A.
+: Force exerted by the platform on A.
 Body B
 
 : Weight of B.
-: String tension over B.
-: The force of the spring.
+: Tension of the rope on B.
+: Restoring force of the spring.
 
-(b) The isolated body diagram,
+b) From the free-body diagram,
 Body A:
 
-B-body:
+Body B:
 
-Where
-Because the strings are inextensible and massless.
-Using the coordinate systems indicated in each isolated body diagram,
+Where since the ropes are inextensible and massless.
+Using the coordinate systems indicated in each free-body diagram,
 Body A:
 x)
 
 y)
 
-B-body:
+Body B:
 N
 TA
-PA
-y
-x
+PA y x
 PB
 R
-TB
-x
-x)
+TB x x)
 
-Combining these equations, it turns out that the equation of motion is:
+Combining these equations, it follows that the equation of motion is:
 
-(c) To resolve this point we propose conservation of the
-
+c) To solve this point we set up conservation of the en
 
 <!--fig:start-->
 ![[_attachments/2018_1ra_prueba_preparatoria/2018_1ra_prueba_preparatoria_p4_f2.png]]
-Blocchi A and B his inclined piano with carriage
+*Blocks A and B on an inclined plane with pulley*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2018_1ra_prueba_preparatoria/2018_1ra_prueba_preparatoria_p14_f5.png]]
-The Commission has also adopted a number of proposals for the implementation of the new rules.
+*Free-body diagrams of blocks A and B*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2018_1ra_prueba_preparatoria/2018_1ra_prueba_preparatoria_p19_f8.png]]
-The following table shows the results of the calculations:
+*Free-body diagram of body A on the incline*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2068,18 +1959,12 @@ The following table shows the results of the calculations:
 </figure>
 
 
-The following table shows the results of the calculations:
+*Free-body diagram of body B vertical*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2018_1ra_prueba_preparatoria/2018_1ra_prueba_preparatoria_p20_f10.png]]
-The instrument blocchi A and B his piano inclined
+*Apparatus with blocks A and B on an inclined plane*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Spring (object)|Spring]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/16Wu4-_hnsGYEkpj3hIAI8TyD7UEOemLo/view)
 
 ## Figure
 
@@ -2110,9 +1995,9 @@ The instrument blocchi A and B his piano inclined
 ## Figure
 
 <!--fig:start-->
- Cylinder his piano inclined with d, h, theta
+**p.9** — Cylinder on an inclined plane with d, h, theta
 <!--fig:end-->
 
 <!--fig:start-->
-**p.23**  Graph and vs x with error bar
+**p.23** — Graph y vs x with error bars
 <!--fig:end-->

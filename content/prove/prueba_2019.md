@@ -623,187 +623,139 @@ quando dovete eseguire le misure e spegnete le misure quando avete finito di
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test shall be carried out in accordance with the following conditions:
+**Experimental Test Level 1 - Second Part: Determination of gamma**
 
-Part two. 
- 
-To determine the value of γ for air, a number of n moles of air shall be submitted to the
-process as shown in the continuous line in Figure 4. The arrows indicate the direction in which
-processes are carried out. The line connecting the states (VA; PA) and (VB; Patm) corresponds 
-to an adiabatic process while the line at traces joining the states (VA; PA) and 
-(VB; PB) is a Tamb temperature isotherm. 
- 
- 
-Figure 4 is shown. 
- 
-It can be shown that no air moles perform thermodynamic processes 
-as shown in Figure 4, the value of γ can be obtained from the following ratio, 
- 
+Second Part.
+
+To determine the value of 𝛾 for air, a number 𝑛 of moles of air will be subjected to the process indicated by the solid line in figure 4. The arrows indicate the direction in which the processes are carried out. The line joining the states (𝑉𝐴;  𝑃𝐴) and (𝑉𝐵;  𝑃𝑎𝑡𝑚) corresponds to an adiabatic process while the dashed line joining the states (𝑉𝐴;  𝑃𝐴) and (𝑉𝐵;  𝑃𝐵) corresponds to an isotherm at temperature 𝑇𝑎𝑚𝑏.
+
+
+Figure 4.
+
+It can be shown that if 𝑛 moles of air carry out the thermodynamic processes indicated in figure 4, the value of 𝛾 can be obtained from the following relation,
+
 𝛾=
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-𝑙𝑛(𝑃𝐵)−𝑙𝑛(𝑃𝐴)  
- 
- 
- 
- 
- 
-(5) 
- 
-Where ln(x) indicates the natural logarithm of x. 
- 
-The procedure 
- 
-a. With the valve open, place the embolus in the appropriate scale position 
-a 40 𝑚𝑙. 
- 
-b. Report the value of Patm. 
+𝑙𝑛(𝑃𝑎𝑡𝑚)−𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵)−𝑙𝑛(𝑃𝐴)
 
-c. Close the valve. 
+
+
+
+
+(5)
+
+Where 𝑙𝑛(𝑥) indicates the natural logarithm of 𝑥.
+
+Procedure
+
+a. With the valve open, place the piston at the scale position corresponding to 40 𝑚𝑙.
+
+b. Report the value of 𝑃𝑎𝑡𝑚.
+
+c. Close the valve.
+
+d. Expand the air contained inside the syringe to a volume less than 5 𝑚𝑙.
+Report the value of the air pressure 𝑃𝐴 after the expansion.
+
+e. Open and close the valve so that the air inside the syringe compresses adiabatically reaching atmospheric pressure. This step must be carried out as quickly as possible but allowing the system to reach atmospheric pressure.
+
+f. Wait for the air pressure value to reach an equilibrium value and report said value 𝑃𝐵.
  
-d. Expand the air contained within the syringe to a volume less than 5 ml. 
-Report the PA air pressure value after expansion. 
- 
-e. Open and close the valve so that the air inside the syringe is compressed.
-Adiabatically reaching atmospheric pressure. This step must be taken.
-As quickly as possible but allowing the system to reach the pressure.
-atmospheric. 
- 
-f. Wait for the air pressure value to reach a balance and report value 
-the said PB value. 
- 
-g. Repeat the above steps to obtain at least five (5) measurements. 
- 
-2.1 Report the measurements of Patm, PA and PB in a Table. 
- 
-Note: For the calculation of the uncertainty of the natural logarithm, consider that if x=
-(x̅ ± Δx) and g= ln (x), the uncertainty Δg can be determined by, 
- 
+g. Repeat the previous steps to obtain at least five (5) measurements.
+
+2.1 Report the measurements of 𝑃𝑎𝑡𝑚, 𝑃𝐴 and 𝑃𝐵 in a Table.
+
+Note: For the calculation of the uncertainty of the natural logarithm, take into account that if 𝑥= (𝑥̅ ± Δ𝑥) and 𝑔= ln (𝑥), the uncertainty Δ𝑔 can be determined by,
+
 Δ𝑔= 1
-2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)] 
- 
- 
-2.2. Report the value of γ obtained in each measurement and report its mean and the 
-estimated uncertainty. 
- 
- 
- 
+2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)]
 
-Argentine Olympic Physics 2019 
-The National Court 
-The following is the list of the types of tests:
- 
- 
+
+2.2. Report the value of 𝛾 obtained in each measurement and report its mean value and the estimated uncertainty.
+
+
+
+
+Argentine Physics Olympiad 2019
+National Instance
+Experimental Test – LEVEL 2
+
+
 Name and surname: ________________________________
- 
-The number of persons who have been identified as being in the Union
- 
- 
-Rules to be taken into account 
- 
- 
-Before the test begins:
-• Write your name and ID number on the appropriate site. Not the ones .
-It's not recorded anywhere else in the test, if it does, it'll be causal.
-Disqualification. 
-• Read the entire statement of the test carefully. 
- 
-During the test: 
- You can only use your writing and geometry tools, sheets 
-It is a non-programmable scientific calculator. Write with 
-Blue or black pencil, highlighted or other colour use shall be 
-the possibility of disqualification. 
-If you need more leaves, ask Bedel. 
- Any questions or inquiries you wish to make should be made 
-Only in writing and deliver it to the Bedel. 
-• Write the solution on the provided sheets and number sheets. It doesn 't list .
-The pages of the sentence and do not write answers on them because no 
-will be considered. 
-• Write on one side of the sheets. 
- 
-At the end of the test:
- Apply the sheets in the order you wish to deliver them, you should always 
-be, first, the answer sheet provided. 
-• Give the test in the envelope provided. Don 't write anything in the .
-about. 
-• Before you retire, sit back and leave the equipment as you found it. 
 
-Do not turn on the computer until you have read the entire statement and are ready to perform
-the required measurements. 
+DNI: ___________________
+
+
+Rules to take into account
+
+
+Before starting the test:
+ Write your name and your DNI number in the indicated place. Do not put them in any other place of the test; doing so will be grounds for disqualification.
+ Read carefully ALL the statement of the test. 
  
-The first is the introduction.
-Air is a homogeneous mixture of gases that forms the Earth's atmosphere, which 
-It remains around the planet Earth by gravity. This mixture .
-It consists of nitrogen (N2), oxygen (O2), argon (Ar), carbon dioxide (CO2) and 
-small amounts of other gases. In addition, air contains a variable amount of 
-water vapor. 
+During the exam:
+ You may only use your writing and geometry tools, the provided sheets, and a non-programmable scientific calculator. Write with a blue or black pen; highlighting or use of other colors may be grounds for disqualification.
+ If you need more sheets, ask the Bedel.
+ Any doubt or query you wish to make must be made only in writing and handed to the Bedel.
+ Write the solution on the provided sheets and number them. Do not number the sheets of the statement and do not write answers on them, as they will not be considered.
+ Write on only one side of the sheets.
+
+At the end of the exam:
+ Fasten the sheets in the order in which you wish to hand them in; the provided answer sheet must always be first.
+ Hand in the exam in the provided envelope. Do not write anything on the envelope.
+ Before leaving, tidy up and leave the equipment as you found it.
+
+Do not turn on the equipment until you have read the entire statement and are ready to perform the required measurements.
+
+Introduction
+Air is a homogeneous mixture of gases that makes up the Earth's atmosphere, which remains around the planet Earth due to the force of gravity. This mixture is composed of nitrogen (N2), oxygen (O2), argon (Ar), carbon dioxide (CO2), and small amounts of other gases. In addition, air contains a variable amount of water vapor.
  
-Air can be considered an ideal gas and therefore must meet the state equation 
-of ideal gases. That is, if n moles of air occupy a volume V and have a
-temperature T, these exert a pressure P given by, 
- 
-PV = nRT 
- 
- 
- 
- 
- 
- 
-(1) 
- 
-Where R is the universal gas constant. 
-On the other hand, if this system experiences adiabatic compression or expansion, the
-The pressure and volume shall meet the following requirements: 
- 
-PVγ = cte 
- 
- 
- 
- 
- 
- 
-(2) 
- 
-Where =
+Air can be considered an ideal gas and, therefore, must satisfy the ideal gas equation of state. That is, if 𝑛 moles of air occupy a volume 𝑉 and have a temperature 𝑇, they exert a pressure 𝑃 given by,
+
+𝑃𝑉= 𝑛𝑅𝑇
+
+
+
+
+
+
+(1)
+
+Where 𝑅 is the universal gas constant.
+On the other hand, if this system undergoes an adiabatic compression or expansion, the pressure and volume must satisfy that,
+
+𝑃𝑉𝛾= 𝑐𝑡𝑒
+
+
+
+
+
+
+(2)
+
+Where  =
 𝑐𝑃
-𝑐𝑉  
-cP is the heat capacity to molar at constant pressure. 
-cV is the molar heat capacity at constant volume of air. 
- 
-Objective: To experimentally determine the R value and the  value for air. 
- 
-Experimental device 
-The experimental device, which is outlined in Figure 1, consists of a syringe in 
-which has a temperature and pressure sensor installed inside. In the mouth of the syringe is
-He put a valve, while the plunger was connected to a screw through which you can
-vary the volume of air in the syringe more controlled. At the end 
-The screw has a goniometer. 
- 
-Figure 1 is shown. Schematic of the experimental device 
- 
-The valve allows the syringe to be opened or closed. So with the valve open you can match the
-The pressure of the air inside the syringe is compared to that of the air outside, i.e. with the pressure 
-atmospheric. With the valve closed it is possible to keep the number of moles of 
+𝑐𝑉
+𝑐𝑃 is the molar heat capacity at constant pressure.
+𝑐𝑉 is the molar heat capacity at constant volume of air.
 
-air inside the syringe. Figure 2 outlines, from above, the
-position of the valve open (left) and closed (right). 
- 
-Figure two. View from the top of the valve: open (left) and closed position 
-(right) 
- 
-The syringe has a maximum working volume of 60 ml. Given the location of the sensor, the 
-The minimum working volume of the syringe is approximately 10 ml. 
-The temperature sensor has an estimate of 0,1°C and the pressure sensor of 0,1 hPa. 
-The working range of the pressure sensor is [300; 1100] hPa. 
-The sensor is connected to an arduino board with its corresponding screen, the
-which has an on/off key. Just turn on the arduino board.
-When you need to take the measurements and turn them off when you're done with 
-I'm going to do them.
+Objective: To determine experimentally the value of 𝑅 and the value of  for air.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Manometer (object)|Manometer]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view)
+Experimental setup
+The experimental setup, which is schematized in figure 1, consists of a syringe inside which a temperature and pressure sensor was installed. At the nozzle of the syringe a valve was placed, while the plunger was connected to a screw by means of which the volume of the air contained in the syringe can be varied in a more controlled manner. At the end of the screw a goniometer is located.
+
+Figure 1. Schematic of the experimental setup
+
+The valve allows the syringe to be opened or closed. Thus, with the valve open, the pressure of the air inside the syringe can be equalized with that of the outside air, that is, with atmospheric pressure. With the valve closed it is possible to keep constant the number of moles of
+
+air inside the syringe. Figure 2 schematizes, in a top view, the position of the open valve (left) and closed valve (right).
+
+Figure 2. Top view of the valve: open position (left) and closed position (right).
+
+The syringe has a maximum working volume of 60 ml. Given the location of the sensor, the minimum working volume of the syringe is approximately 10 ml.
+The temperature sensor has a resolution of 0.1°C and the pressure sensor of 0.1 hPa.
+The working range of the pressure sensor is [300; 1100] hPa.
+The sensor is connected to an Arduino board with its corresponding screen, which has an on/off key (On/Off). Only turn on the Arduino board when you have to perform the measurements and turn it off when you finish doing them.
 
 
 
@@ -2128,2047 +2080,1979 @@ a una temperatura de 26,7 º𝐶. Se toma
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prova sperimentale di livello 2 - Parte II: determinazione gamma**
+**Prova Sperimentale Livello 2 - Seconda Parte: Determinazione di gamma**
 
-Parte due. 
- 
-Per determinare il valore di γ per aria si sommette un numero n di molli di aria al 
-processo indicato dalla linea continua in figura 4. Le frecce indicano il senso in cui
-I processi sono eseguiti. La linea che unisce gli stati (VA; PA) e (VB; Patm) corrisponde 
-Un processo adiabatico mentre la linea a tracce che uniscono gli stati (VA; PA) e 
-(VB; PB) corrisponde ad un isoterma a temperatura Tamb. 
- 
- 
-Figura 4 
- 
-2.1. Scrivi un'espressione per γ in base alle pressioni Patm, PA e PB. 
- 
-2.2. Eseguire le misure necessarie per determinare il valore di γ e riportare i valori 
-misurate su una tavola. 
+Seconda Parte.
+
+Per determinare il valore di 𝛾 per l'aria si sottoporrà un numero 𝑛 di moli di aria al processo indicato dalla linea continua nella figura 4. Le frecce indicano il verso in cui vengono realizzati i processi. La linea che unisce gli stati (𝑉𝐴;  𝑃𝐴) e (𝑉𝐵;  𝑃𝑎𝑡𝑚) corrisponde a un processo adiabatico mentre la linea tratteggiata che unisce gli stati (𝑉𝐴;  𝑃𝐴) e (𝑉𝐵;  𝑃𝐵) corrisponde a una isoterma di temperatura 𝑇𝑎𝑚𝑏.
+
+
+Figura 4.
+
+2.1. Scrivere un'espressione per 𝛾 in funzione delle pressioni 𝑃𝑎𝑡𝑚, 𝑃𝐴 e 𝑃𝐵.
+
+2.2. Effettuare le misurazioni necessarie per determinare il valore di  𝛾 e riportare i valori misurati in una tabella.
 Per questo:
-a. Con la valvola aperta, posizionare l'imbolo in posizione della scala 
-corrispondente a 40 ml. 
-b. Segna il valore di Patm. 
-c. Chiudi la valvola. 
-d. Espande l'aria contenuta nella siringa a un volume inferiore a 5 ml. 
-Segnala il valore della pressione dell'aria PA dopo l'espansione. 
-e. Aprire e chiudere la valvola per comprimere l'aria all'interno della siringa
-adiabatamente raggiungendo la pressione atmosferica. Questo passo deve
+a. Con la valvola aperta, posizionare lo stantuffo nella posizione della scala corrispondente a 40 𝑚𝑙.
+b. Riportare il valore di 𝑃𝑎𝑡𝑚.
+c. Chiudere la valvola.
+d. Espandere l'aria contenuta all'interno della siringa in un volume inferiore a 5 𝑚𝑙.
+Riportare il valore della pressione dell'aria 𝑃𝐴 dopo l'espansione.
+e. Aprire e chiudere la valvola affinché l'aria all'interno della siringa si comprima adiabaticamente raggiungendo la pressione atmosferica. Questo passo deve
 
-La Commissione ha inoltre adottato una decisione che prevede che il sistema di controllo sia stato adottato nel corso di una fase di
-raggiungere la pressione atmosferica. 
-f. Aspettate che il valore della pressione dell' aria raggiunga un valore di equilibrio e 
-riportare tale valore PB. 
-g. Ripeti i passaggi precedenti per ottenere almeno dieci (10) misure. 
+essere realizzato il più rapidamente possibile ma permettendo che il sistema raggiunga la pressione atmosferica.
+f. Attendere che il valore della pressione dell'aria raggiunga un valore di equilibrio e riportare tale valore 𝑃𝐵.
+g. Ripetere i passi precedenti per ottenere almeno dieci (10) misurazioni.  
  
-2.3. Segnala il valore di γ ottenuto in ogni misurazione e segnala il suo valore medio e il 
-l'incertezza stimata. 
- 
-Nota: Per il calcolo dell'incertezza del logaritmo naturale si tenga conto che se 
-x= (x̅ ± Δx) e g= ln (x), l'incertezza Δg può essere determinata mediante, 
- 
+2.3. Riportare il valore di 𝛾 ottenuto in ogni misurazione e riportare il suo valore medio e l'incertezza stimata.
+
+Nota: Per il calcolo dell'incertezza del logaritmo naturale tenere presente che se
+𝑥= (𝑥̅ ± Δ𝑥) e 𝑔= ln (𝑥), l'incertezza Δ𝑔 può essere determinata mediante,
+
 Δ𝑔= 1
-2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)] 
- 
- 
- 
+2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)]
 
-Prova sperimentale  Olimpiada Argentina di Fisica  2019 - NIVEL 1 
- 
-Pagina delle Risposte 
- 
-Parte I
- 
- 
- 
-Punteggi 
-1.1 
-∆𝑣=  
-∆𝑣= (0,85 ± 0,01) 𝑚𝑙 
-1 pto 
-1.2 
+
+
+
+Prova Sperimentale – Olimpiade Argentina di Fisica – 2019 - LIVELLO 1
+
+Foglio delle Risposte
+
+Prima Parte
+
+
+
+Punteggio
+1.1
+∆𝑣=
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+1 pto
+1.2
 Tabella
-Vede tabella allegata 
-5 punti
-1.3. 
+Vedi Tabella allegata
+5 pti
+1.3.
 Grafico
- 
- 
-Inpendente
- 
- 
-Ordinazione di origine 
-Vedi grafico allegato 
- 
+
+
+Pendenza
+
+
+Intercetta all'origine
+Vedi Grafico Allegato
+
 𝑎= (5 ± 3) × 10−5 𝐾
-𝑃𝑎 
- 
+𝑃𝑎
+
 𝑏= (150 ± 1) 𝐾
-Pam-3
-3 punti
- 
- 
-1 pto 
- 
- 
-1 pto 
- 
-1.4 
-𝑉0 =  
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
-0,5 p.o.
-1.5 
-𝜌𝑎𝑖𝑟𝑒=  
- 
- 
-𝑛=  
- (1,19 ± 0,01) kg m−3 
- 
- 
-N= (77 ± 4) × 10−5 mol 
-0,5 p.o.
- 
- 
-1 pto 
-1.6 
-𝑅=  
+𝑃𝑎𝑚−3
+3 pti
+
+
+1 pto
+
+
+1 pto
+
+1.4
+𝑉0 =
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0,5 pti
+1.5
+𝜌𝑎𝑖𝑟𝑒=
+
+
+𝑛=
+𝜌𝑎𝑖𝑟𝑒= (1,19 ± 0,01) 𝑘𝑔 𝑚−3
+
+
+𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+0,5 pti
+
+
+1 pto
+1.6
+𝑅=
 𝑅= (8,7 + 0,5)
 𝐽
-Mol K 
-2 punti
- 
-Parte II 
- 
- 
- 
-Punteggi 
-2.1 
-Tabella
-Vede tabella allegata 
-2 punti
-2.2 
-Tabella
- 
- 
-𝛾̅ =  
- 
-Vede tabella allegata 
- 
- 
-𝛾̅ = (1,1 ± 0,4) 
-2 punti
- 
-1 pto 
- 
- 
- 
- 
+𝑚𝑜𝑙 𝐾
+2 pti
 
-Prova sperimentale  Olimpiada Argentina di Fisica  2019 - NIVEL 2 
- 
-Ciao Risposte 
- 
-Parte I
- 
- 
- 
-Punteggi 
-1.1 
-∆𝑣=  
-∆𝑣= (0,85 ± 0,01) 𝑚𝑙 
-0,5 p.o.
-1.2 
-𝑣𝑖=  
-𝑣𝑖= (20,0 ±  0,1) 𝑚𝑙 
-0,5 p.o.
-1.3 
+Seconda Parte
+
+
+
+Punteggio
+2.1
 Tabella
-Vede tabella allegata 
-5 punti
-1.4 
-𝑥=  
- 
- 
-𝑦=  
-𝑥= 𝑣 
- 
+Vedi Tabella allegata
+2 pti
+2.2
+Tabella
+
+
+𝛾̅ =
+
+Vedi Tabella allegata
+
+
+𝛾̅ = (1,1 ± 0,4)
+2 pti
+
+1 pto
+
+
+
+
+
+Prova Sperimentale – Olimpiade Argentina di Fisica – 2019 - LIVELLO 2
+
+Foglio delle Risposte
+
+Prima Parte
+
+
+
+Punteggio
+1.1
+∆𝑣=
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+0,5 pti
+1.2
+𝑣𝑖=
+𝑣𝑖= (20,0 ±  0,1) 𝑚𝑙
+0,5 pti
+1.3
+Tabella
+Vedi Tabella allegata
+5 pti
+1.4
+𝑥=
+
+
+𝑦=
+𝑥= 𝑣
+
 𝑦= 𝑇
-𝑃 
-0,5 p.o.
- 
- 
-0,5 p.o.
-1.5. 
+𝑃
+0,5 pti
+
+
+0,5 pti
+1.5.
 Grafico
- 
- 
-Appendice (a) 
- 
- 
-Ordinazione di origine 
-(𝑏) 
-Vedi grafico allegato 
- 
+
+
+Pendenza (𝑎)
+
+
+Intercetta all'origine (𝑏)
+Vedi Grafico Allegato
+
 𝑎= (5 ± 3) × 10−5 𝐾
 𝑃𝑎 
  
 𝑏= (150 ± 1) 𝐾
-Pam-3
-3 punti
- 
- 
-0,5 p.o.
- 
- 
-0,5 p.o.
-1.6 
-𝑉0 =  
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
-0,5 p.o.
-1.7 
-Maire=
-Maire= (28,97 ± 0,03) g mol−1 
-1 pto 
-1.8 
-𝜌𝑎𝑖𝑟𝑒=  
- 
- 
-𝑛=  
- (1,19 ± 0,01) kg m−3 
- 
- 
-N= (77 ± 4) × 10−5 mol 
-0,5 p.o.
- 
- 
-0,5 p.o.
-1.9 
-𝑅=  
+𝑃𝑎𝑚−3
+3 ptos
+
+
+0,5 ptos
+
+
+0,5 ptos
+1.6
+𝑉0 =
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+0,5 ptos
+1.7
+𝑀𝑎𝑖𝑟𝑒=
+𝑀𝑎𝑖𝑟𝑒= (28,97 ± 0,03) 𝑔 𝑚𝑜𝑙−1
+1 pto
+1.8
+𝜌𝑎𝑖𝑟𝑒=
+
+
+𝑛=
+𝜌𝑎𝑖𝑟𝑒= (1,19 ± 0,01) 𝑘𝑔 𝑚−3
+
+
+𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+0,5 ptos
+
+
+0,5 ptos
+1.9
+𝑅=
 𝑅= (8,7 + 0,5)
 𝐽
-Mol K 
-1,5 p.o.
- 
- 
- 
- 
+𝑚𝑜𝑙 𝐾
+1,5 ptos
 
-Parte II 
- 
- 
- 
-Punteggi 
-2.1 
-𝛾=  
-Il numero di persone che hanno partecipato alla riunione è stato di circa un milione di persone.
-𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)  
-1 pto 
-2.2 
-Tabella
-Vede tabella allegata 
-1,5 p.o.
-2.3 
-Tabella
- 
- 
-𝛾̅ =  
- 
-Vede tabella allegata 
- 
- 
-𝛾̅ = (1,1 ± 0,4) 
-1 pto 
- 
- 
-1,5 p.o.
- 
- 
- 
 
-Soluzione 
-Parte I
- 
-1.1 
- 
-Si misurò il numero di giri (# giri) dello schino per variare il volume della siringa in 
-30 𝑚𝑙. 
- 
-# Tornato
+
+
+
+Seconda Parte
+
+
+
+Punteggio
+2.1
+𝛾=
+𝛾= 𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)
+1 pto
+2.2
+Tabella
+Vedi Tabella allegata
+1,5 ptos
+2.3
+Tabella
+
+
+𝛾̅ =
+
+Vedi Tabella allegata
+
+
+𝛾̅ = (1,1 ± 0,4)
+1 pto
+
+
+1,5 ptos
+
+
+
+
+Soluzione
+Prima Parte
+
+1.1
+
+Si è misurato il numero di giri (#𝑣𝑢𝑒𝑙𝑡𝑎𝑠) della vite per variare il volume della siringa di
+30 𝑚𝑙.
+
+#vueltas
 ± 1 2
-⁄  
-35,0 
-35,3 
-35,5 
-35,3 
-35,3 
- 
-La misurazione del volume è stata presa come misurazione accurata (senza incertezza) e la misurazione del volume è stata effettuata con un'esatta misurazione.
-Infatti, l'incertitudine in #torni è il numero minimo di giri per determinare un volume 
-secondo la scala della siringa. 
- 
-# Tornato
-̅̅̅̅̅̅̅̅̅̅̅̅ = (35,3 ± 0,5) 
- 
-∆𝑣= (0,85 ± 0,01) 𝑚𝑙 
- 
-1.2 
- 
-Supponendo un processo isotermo e un sistema chiuso (n=cte), si può scrivere che 
-PV = cte. Poi,
- 
-PmaxVmin= PatmVi= PminVmax 
- 
-Dove Pmax e Pmin sono la pressione massima e minima che il sensore di pressione può misurare
-[300; 1100] hPa, Vmin e Vmax sono i volumi minimi (10 ml) e massimi della siringa 
-60 ml) e VI il volume iniziale (in questo caso V0 viene ignorato). 
-La pressione atmosferica misurata è Patm= (964 ± 1) hPa 
-Poi,
- 
-Vi= PminVmax
-Patm
+⁄
+35,0
+35,3
+35,5
+35,3
+35,3
+
+La misurazione del volume è stata presa come una misurazione esatta (senza incertezza) e l'incertezza nel #𝑣𝑢𝑒𝑙𝑡𝑎𝑠 è il numero minimo di giri per determinare un volume in accordo con la scala della siringa.
+
+#𝑣𝑢𝑒𝑙𝑡𝑎𝑠
+̅̅̅̅̅̅̅̅̅̅̅̅ = (35,3 ± 0,5)
+
+∆𝑣= (0,85 ± 0,01) 𝑚𝑙
+
+1.2
+
+Supponendo un processo isotermo e un sistema chiuso (𝑛= 𝑐𝑡𝑒), si può scrivere che
+𝑃𝑉= 𝑐𝑡𝑒. Quindi,
+
+𝑃𝑚𝑎𝑥𝑉𝑚𝑖𝑛= 𝑃𝑎𝑡𝑚𝑉𝑖= 𝑃𝑚𝑖𝑛𝑉𝑚𝑎𝑥
+
+Dove 𝑃𝑚𝑎𝑥 e 𝑃𝑚𝑖𝑛 sono la pressione massima e minima che può misurare il sensore di pressione
+[300;  1100] ℎ𝑃𝑎, e 𝑉𝑚𝑖𝑛 e 𝑉𝑚𝑎𝑥 sono i volumi minimo (10 𝑚𝑙) e massimo della siringa (60 𝑚𝑙) e 𝑉𝑖 il volume iniziale (si trascura in questo caso 𝑉0).
+La pressione atmosferica misurata è 𝑃𝑎𝑡𝑚= (964 ± 1) ℎ𝑃𝑎
+Quindi,
+
+𝑉𝑖= 𝑃𝑚𝑖𝑛𝑉𝑚𝑎𝑥
+𝑃𝑎𝑡𝑚
 ~19 𝑚𝑙 
  
-Vi= PmaxVmin
-Patm
-~11 𝑚𝑙 
- 
- 
-Selezionare come volume iniziale della siringa a vi= (20,0 ± 0,4) ml. L'incertezza si prende.
-Come 1/2 volta. 
- 
- 
+𝑉𝑖= 𝑃𝑚𝑎𝑥𝑉𝑚𝑖𝑛
+𝑃𝑎𝑡𝑚
+~11 𝑚𝑙
 
-1.3 
- 
-# Tornato
+
+Si sceglie come volume iniziale della siringa 𝑣𝑖= (20,0 ±  0,4) 𝑚𝑙. L'incertezza viene presa come 1/2 giro.
+
+
+
+1.3
+
+#giri
 ± 1 8
-⁄  
-𝑣 [𝑚−3] 
-× 10−6 
- 
-𝜎𝑣 [𝑚−3] 
-× 10−6 
- 
-𝑃 [𝑃𝑎] × 100 
-± 100 𝑃𝑎 
-𝑇 [°𝐶] 
-± 0,1 °𝐶 
+⁄
+𝑣 [𝑚−3]
+× 10−6
+
+𝜎𝑣 [𝑚−3]
+× 10−6
+
+𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
+𝑃𝑎]
+× 10−6
 Δ 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
-0 
-20,0 
-0,4 
-969 
-22,1 
-3046 
-7 
--3 
-17,4 
-0,3 
-1109 
-22,1 
-2662 
-5 
--2 
-18,3 
-0,3 
-1015 
-22,2 
-2909 
-6 
-0 
-20,0 
-0,4 
-975 
-22,2 
-3029 
-7 
-3 
-22,5 
-0,5 
-864 
-22,3 
-3419 
-9 
-6 
-25,1 
-0,6 
-776 
-22,3 
-3807 
-11 
-9 
-27,6 
-0,6 
-704 
-22,4 
-4198 
-13 
-12 
-30,2 
-0,6 
-644 
-22,4 
-4589 
-15 
-15 
-32,7 
-0,7 
-593 
-22,5 
-4985 
-18 
-18 
-35,3 
-0,7 
-550 
-22,5 
-5375 
-21 
-21 
-37,8 
-0,7 
-513 
-22,6 
-5765 
-24 
-24 
-40,4 
-0,7 
-480 
-22,6 
-6161 
-27 
-27 
-42,9 
-0,8 
-451 
-22,6 
-6557 
-31 
-30 
-45,5 
-0,8 
-425 
-22,7 
-6961 
-35 
-33 
-48,0 
-0,8 
-403 
-22,7 
-7341 
-38 
-36 
-50,6 
-0,9 
-382 
-22,8 
-7747 
-43 
-39 
-53,1 
-0,9 
-364 
-22,8 
-8130 
-47 
-36 
-50,6 
-0,9 
-383 
-22,8 
-7727 
-42 
-33 
-48,0 
-0,8 
-404 
-22,8 
-7325 
-38 
-30 
-45,5 
-0,8 
-427 
-22,8 
-6930 
-34 
-27 
-42,9 
-0,8 
-453 
-22,8 
-6533 
-31 
-24 
-40,4 
-0,8 
-482 
-22,8 
-6140 
-27 
-21 
-37,8 
-0,7 
-515 
-22,8 
-5746 
-24 
-18 
-35,3 
-0,7 
-553 
-22,7 
-5349 
-21 
-15 
-32,7 
-0,7 
-596 
-22,7 
-4963 
-18 
-12 
-30,2 
-0,6 
-648 
-22,7 
-4565 
-15 
-9 
-27,6 
-0,6 
-708 
-22,7 
-4178 
-13 
-6 
-25,1 
-0,6 
-780 
-22,6 
-3791 
-11 
-3 
-22,5 
-0,5 
-869 
-22,6 
-3403 
-8 
-0 
-20,0 
-0,4 
-975 
-22,6 
-3033 
-7 
-0 
-20,0 
-0,4 
-969 
-22,1 
-3046 
+𝑃𝑎]
+× 10−6
+0
+20,0
+0,4
+969
+22,1
+3046
+7
+-3
+17,4
+0,3
+1109
+22,1
+2662
+5
+-2
+18,3
+0,3
+1015
+22,2
+2909
+6
+0
+20,0
+0,4
+975
+22,2
+3029
+7
+3
+22,5
+0,5
+864
+22,3
+3419
+9
+6
+25,1
+0,6
+776
+22,3
+3807
+11
+9
+27,6
+0,6
+704
+22,4
+4198
+13
+12
+30,2
+0,6
+644
+22,4
+4589
+15
+15
+32,7
+0,7
+593
+22,5
+4985
+18
+18
+35,3
+0,7
+550
+22,5
+5375
+21
+21
+37,8
+0,7
+513
+22,6
+5765
+24
+24
+40,4
+0,7
+480
+22,6
+6161
+27
+27
+42,9
+0,8
+451
+22,6
+6557
+31
+30
+45,5
+0,8
+425
+22,7
+6961
+35
+33
+48,0
+0,8
+403
+22,7
+7341
+38
+36
+50,6
+0,9
+382
+22,8
+7747
+43
+39
+53,1
+0,9
+364
+22,8
+8130
+47
+36
+50,6
+0,9
+383
+22,8
+7727
+42
+33
+48,0
+0,8
+404
+22,8
+7325
+38
+30
+45,5
+0,8
+427
+22,8
+6930
+34
+27
+42,9
+0,8
+453
+22,8
+6533
+31
+24
+40,4
+0,8
+482
+22,8
+6140
+27
+21
+37,8
+0,7
+515
+22,8
+5746
+24
+18
+35,3
+0,7
+553
+22,7
+5349
+21
+15
+32,7
+0,7
+596
+22,7
+4963
+18
+12
+30,2
+0,6
+648
+22,7
+4565
+15
+9
+27,6
+0,6
+708
+22,7
+4178
+13
+6
+25,1
+0,6
+780
+22,6
+3791
+11
+3
+22,5
+0,5
+869
+22,6
+3403
+8
+0
+20,0
+0,4
+975
+22,6
+3033
+7
+0
+20,0
+0,4
+969
+22,1
+3046
 7 
  
-Il segno meno nel numero di giri rappresenta una compressione (il volume 
-diminuisce), 
-Per determinare il valore di v è stato utilizzato che v=vi+ ∆v #rottes e la sua incertezza è 
-- il regolamento (CE) n.
- 
-σv= σvi+ σ(∆v #torni) 
- 
-σ(∆v #torni)
-∆v #torni
+Il segno meno nel numero di giri rappresenta una compressione (il volume diminuisce),
+Per determinare il valore di 𝑣 si è utilizzato che 𝑣= 𝑣𝑖+ ∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠 e la sua incertezza è stata determinata mediante,
+
+𝜎𝑣= 𝜎𝑣𝑖+ 𝜎(∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠)
+
+𝜎(∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠)
+∆𝑣 #𝑣𝑢𝑒𝑙𝑡𝑎𝑠
 =
 1 8
 ⁄
-#torni+ σ(∆v)
-∆𝑣 
- 
-L' incertezza della pressione rappresenta le variazioni del valore di pressione osservato 
-durante le misurazioni, 
+#𝑣𝑢𝑒𝑙𝑡𝑎𝑠+ 𝜎(∆𝑣)
+∆𝑣
 
-L'incertezza di temperatura è stata presa pari alla valutazione del sensore di
-temperatura,
+L'incertezza della pressione rappresenta le variazioni del valore di pressione osservato durante le misurazioni,
+
+L'incertezza nella temperatura è stata presa uguale all'apprezzamento del sensore di temperatura,
 L'incertezza Δ
 𝑇
-P è stato determinato da, 
- 
+𝑃 è stata determinata mediante,
+
 σ 𝑇
 𝑃= 𝑇
 𝑃(σ𝑇
 𝑇+ σ𝑃
-𝑃) 
- 
-Per il calcolo di 
+𝑃)
+
+Per il calcolo di
 𝑇
-P, la temperatura è stata espressa in gradi Kelvin. 
- 
-1.4 
- 
-Considerando l'equazione (3) e linealizzando l'equazione (1) si può ottenere, 
- 
+𝑃, la temperatura è stata espressa in gradi Kelvin.
+
+1.4
+
+Tenendo conto dell'equazione (3) e linearizzando l'equazione (1) si può ottenere,
+
 𝑇
 𝑃= 𝑉0
 𝑛𝑅+ 𝑣
-𝑛𝑅 
- 
-Scegliendo
- 
-𝑥= 𝑣 
- 
-𝑦= 𝑇
-𝑃 
- 
-Si ottiene un rapporto lineare della forma 
- 
-𝑦= 𝑎+ 𝑏 𝑥 
- 
-con 
- 
-𝑎= 𝑉0
-𝑛 𝑅 
- 
-𝑏= 1
-𝑛 𝑅 
- 
- 
- 
+𝑛𝑅
 
-1.5 
- 
- 
-L'adeguamento dà i seguenti valori per l'ordinato alla fonte (a) e per l'ordinato alla fonte (a).
-pendice (b) 
- 
+Scegliendo
+
+𝑥= 𝑣
+
+𝑦= 𝑇
+𝑃
+
+Si ottiene una relazione lineare della forma
+
+𝑦= 𝑎+ 𝑏 𝑥
+
+con
+
+𝑎= 𝑉0
+𝑛 𝑅
+
+𝑏= 1
+𝑛 𝑅
+
+
+
+
+1.5
+
+
+Dall'aggiustamento si ottengono i seguenti valori per l'intercetta all'origine (𝑎) e per la pendenza (𝑏)
+
 𝑎= (5 ± 3) × 10−5 𝐾
-𝑃𝑎 
- 
+𝑃𝑎
+
 𝑏= (150 ± 1) 𝐾
-Pam-3
- 
- 
-1.6 
- 
-Come a=
+𝑃𝑎𝑚−3
+
+
+1.6
+
+Poiché 𝑎=
 𝑉0
-𝑛 𝑅 y 𝑏=
+𝑛 𝑅 e 𝑏=
 1
-n R, si ottiene che 
- 
+𝑛 𝑅, si ottiene che
+
 𝑉0 = 𝑎
-𝑏 
- 
+𝑏
+
 σ𝑉0 = 𝑉0 (σ𝑎
 𝑎+ σ𝑏
-𝑏) 
+𝑏)
 Poi,
- 
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
- 
- 
-1.7 
- 
-La massa molare media dell'aria è determinata da: 
- 
 
-Maire= fiMi
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+
+
+1.7
+
+La massa molare media dell'aria si determina mediante,
+
+
+𝑀𝑎𝑖𝑟𝑒= ∑𝑓𝑖𝑀𝑖
 𝑖
+
+
+Dove il pedice 𝑖 fa riferimento a ciascun gas costituente e 𝑀𝑖 e 𝑓𝑖= 𝐶𝑖100−1 sono la massa atomica e la frazione del costituente 𝑖−𝑒𝑠𝑖𝑚𝑜, rispettivamente. 𝐶𝑖 è la concentrazione riportata nella Tabella 1.
+Poi, 
  
- 
-L'indice i è riferito a ogni gas costituente e Mi e fi= Ci100−1 sono i
-La massa atomica e la frazione del costituente i-esimo, rispettivamente. 𝐶𝑖 es la 
-concentrazione riportata in Tabella 1. 
-Poi,
- 
-Maire= (28,97 ± 0,03) g mol−1 
- 
-L'incertezza di Maire si determina.
- 
-Maire= σ(fiMi)
+𝑀𝑎𝑖𝑟𝑒= (28,97 ± 0,03) 𝑔 𝑚𝑜𝑙−1
+
+L'incertezza di 𝑀𝑎𝑖𝑟𝑒 è stata determinata
+
+σ𝑀𝑎𝑖𝑟𝑒= ∑σ(𝑓𝑖𝑀𝑖)
 𝑖
- 
- 
-(s) (fi) = (fi) (fi)
+
+
+σ(𝑓𝑖𝑀𝑖) = 𝑓𝑖𝑀𝑖(σ𝑓𝑖
 𝑓𝑖
-+ σMi
++ σ𝑀𝑖
 𝑀𝑖
-) 
- 
-1.8 
- 
-Per determinare la densità dell'aria, si sceglie il punto misurato più vicino al valore di 
-1013,3 hPa. In questo caso, il punto misurato corrispondente a -2 giri ha una pressione 
-misura di 1015,7 hPa, la più vicina alla pressione di interesse. Poi si sceglie come 
-temperatura dell'aria a T= 22,2°C. Per determinare la densità dell'aria per questo 
-La temperatura è interpolata linealmente con i punti (20oC; 1,20 kg m−3) e 
-(25º𝐶; 1,18 𝑘𝑔 𝑚−3). 
-Dato l'incertezza di temperatura e densità, viene presa come densità dell'aria.
-a 
- 
- (1,19 ± 0,01) kg m−3 
- 
-Quindi il numero di mole n utilizzati nelle misurazioni è,
- 
-n = aria ρ
-Maire
-Vaire 
- 
-Dove Vaire è il volume occupato da n molli a T= 22,2°C e a una pressione di 
-1013,3 hPa. 
-In questo caso Vaire=v + V0 = (18,6 ± 0,7) ml. Poi,
- 
-N= (77 ± 4) × 10−5 mol 
- 
-Dove l'incertezza è stata calcolata come 
- 
-σ𝑛
-n= σρρaire
-Air
-+ σVaire
-Vaire
-+ σMaire
-Maire
- 
- 
-1.9 
- 
-Dalla pendenza dell'adeguamento otteniamo,
+)
 
- 
+1.8
+
+Per determinare la densità dell'aria, si sceglie il punto misurato più vicino al valore di
+1013,3 ℎ𝑃𝑎. In questo caso, il punto misurato corrispondente a −2 𝑣𝑢𝑒𝑙𝑡𝑎𝑠 ha una pressione misurata di 1015,7 ℎ𝑃𝑎, la più vicina alla pressione di interesse. Poi si sceglie come temperatura dell'aria 𝑇=  22,2°𝐶. Per determinare la densità dell'aria per questa temperatura si effettua un'interpolazione lineare con i punti (20º𝐶; 1,20 𝑘𝑔 𝑚−3) e (25º𝐶; 1,18 𝑘𝑔 𝑚−3).
+Date le incertezze nella temperatura e nella densità si prende come densità dell'aria a
+
+𝜌𝑎𝑖𝑟𝑒= (1,19 ± 0,01) 𝑘𝑔 𝑚−3
+
+Poi, il numero di moli 𝑛 utilizzato nelle misurazioni è,
+
+𝑛= 𝜌𝑎𝑖𝑟𝑒
+𝑀𝑎𝑖𝑟𝑒
+𝑉𝑎𝑖𝑟𝑒
+
+Dove 𝑉𝑎𝑖𝑟𝑒 è il volume occupato da 𝑛 moli a 𝑇=  22,2°𝐶 e a una pressione di
+1013,3 ℎ𝑃𝑎.
+In questo caso si prende 𝑉𝑎𝑖𝑟𝑒= 𝑣 + 𝑉0 = (18,6 ± 0,7) 𝑚𝑙. Poi,
+
+𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+
+Dove l'incertezza è stata calcolata come
+
+σ𝑛
+𝑛= σ𝜌𝑎𝑖𝑟𝑒
+𝜌𝑎𝑖𝑟𝑒
++ σ𝑉𝑎𝑖𝑟𝑒
+𝑉𝑎𝑖𝑟𝑒
++ σ𝑀𝑎𝑖𝑟𝑒
+𝑀𝑎𝑖𝑟𝑒
+
+
+1.9
+
+Dalla pendenza dell'interpolazione otteniamo,
+
+
 𝑅= 1
-𝑛 𝑏 
- 
+𝑛 𝑏
+
 𝑅= (8,7 + 0,5)
 𝐽
-Mol K 
- 
-Dove l'incertezza è stata calcolata come 
- 
+𝑚𝑜𝑙 𝐾
+
+Dove l'incertezza è stata calcolata come
+
 σ𝑅
 𝑅= σ𝑛
 𝑛+ σ𝑏
-𝑏 
- 
- 
-Parte II 
- 
-2.1 
- 
-Gli stati (VA; PA) e (VB; Patm) sono collegati da un adiabatic, quindi 
- 
-PAVA
-γ= PatmVB
-𝛾 
- 
-I stati (VA, PA) e (VB, PB) sono collegati dall'isoterma.
-corrispondente a Tamb, poi 
- 
-PAVA= PBVB 
+𝑏
+
+
+Seconda Parte
+
+2.1
+
+Gli stati (𝑉𝐴;  𝑃𝐴) e (𝑉𝐵;  𝑃𝑎𝑡𝑚) sono legati mediante un'adiabatica, quindi
+
+𝑃𝐴𝑉𝐴
+𝛾= 𝑃𝑎𝑡𝑚𝑉𝐵
+𝛾
+
+D'altra parte, gli stati (𝑉𝐴;  𝑃𝐴) e (𝑉𝐵;  𝑃𝐵) sono legati mediante l'isoterma corrispondente a 𝑇𝑎𝑚𝑏, quindi
+
+𝑃𝐴𝑉𝐴= 𝑃𝐵𝑉𝐵 
  
  
 𝑉𝐴= 𝑃𝐵
 𝑃𝐴
-𝑉𝐵 
- 
-Rimpiazzando la prima equazione e riordinando i termini,
- 
+𝑉𝐵
+
+Sostituendo nella prima equazione e riordinando i termini,
+
 (𝑃𝐵
 𝑃𝐴
 )
 𝛾
-- Patm
+= 𝑃𝑎𝑡𝑚
 𝑃𝐴
- 
- 
+
+
 Prendendo il logaritmo naturale,
- 
+
 𝛾 𝑙𝑛(𝑃𝐵
 𝑃𝐴
-) = ln(Patm
+) = 𝑙𝑛(𝑃𝑎𝑡𝑚
 𝑃𝐴
-) 
- 
-Sconfiggendo γ e utilizzando la proprietà logaritmica ln(
+)
+
+Risolvendo per 𝛾 e utilizzando la proprietà del logaritmo 𝑙𝑛(
 𝑦
-x) = ln(y) −ln (x), si ottiene 
- 
-Il numero di persone che hanno partecipato alla riunione è stato di circa un milione di persone.
-𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)  
- 
- 
- 
- 
- 
- 
+𝑥) = ln(𝑦) −ln (𝑥), si ottiene
 
-2.2 
- 
-Numero di 
-Misurazione 
-Patm [hPa] 
-±1hPa 
-Patm [hPa] 
-±1hPa 
-PB [hPa] 
-±1hPa 
-𝛾 
-Δ𝛾 
-1 
-969 
-956 
-968 
-1,1 
-0,4 
-2 
-969 
-956 
-968 
-1,1 
-0,4 
-3 
-969 
-953 
-968 
-1,1 
-0,3 
-4 
-969 
-953 
-968 
-1,1 
-0,3 
-5 
-969 
-954 
-967 
-1,2 
-0,3 
-6 
-969 
-940 
-966 
-1,1 
-0,2 
-7 
-969 
-938 
-966 
-1,1 
-0,2 
-8 
-969 
-939 
-966 
-1,1 
-0,2 
-9 
-969 
-940 
-966 
-1,1 
-0,2 
-10 
-969 
-941 
-966 
-1,1 
-0,2 
- 
-Il valore di Δγ è stato ottenuto mediante 
- 
+𝛾= 𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)
+
+
+
+
+
+
+
+2.2
+
+Numero di
+Misurazione
+𝑃𝑎𝑡𝑚 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝑃𝑎𝑡𝑚 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝑃𝐵 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝛾
 Δ𝛾
-(cfr. la voce "cfr".
-In­* Patm) -in* PA)
-+ Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
-𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)  
- 
-Δ[ln(Patm) − ln(PA)] = Δ[ln(Patm)] + Δ[ln (PA)] 
- 
-Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)] 
- 
-Δ[𝑙𝑛(𝑃𝑘)] = 1
-2 [ln(Pk+ ΔPk) −ln(Pk−ΔPk) 
- 
-2.3 
- 
-𝛾̅ = (1,1 ± 0,4) 
- 
+1
+969
+956
+968
+1,1
+0,4
+2
+969
+956
+968
+1,1
+0,4
+3
+969
+953
+968
+1,1
+0,3
+4
+969
+953
+968
+1,1
+0,3
+5
+969
+954
+967
+1,2
+0,3
+6
+969
+940
+966
+1,1
+0,2
+7
+969
+938
+966
+1,1
+0,2
+8
+969
+939
+966
+1,1
+0,2
+9
+969
+940
+966
+1,1
+0,2
+10
+969
+941
+966
+1,1
+0,2
 
-# Tornato
+Il valore di Δ𝛾 è stato ottenuto mediante
+
+Δ𝛾
+𝛾= Δ[𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)]
+𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
++ Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
+𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)
+
+Δ[𝑙𝑛(𝑃𝑎𝑡𝑚) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝑎𝑡𝑚)] + Δ[𝑙𝑛 (𝑃𝐴)]
+
+Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)]
+
+Δ[𝑙𝑛(𝑃𝑘)] = 1
+2 [𝑙𝑛(𝑃𝑘+ Δ𝑃𝑘) −𝑙𝑛(𝑃𝑘−Δ𝑃𝑘)]
+
+2.3
+
+𝛾̅ = (1,1 ± 0,4)
+
+
+#giri
 ± 1 8
-⁄  
-𝑣 [𝑚−3] 
+⁄
+𝑣 [𝑚−3]
+× 10−6
+
+𝜎𝑣 [𝑚−3]
 × 10−6 
  
-𝜎𝑣 [𝑚−3] 
-× 10−6 
- 
-𝑃 [𝑃𝑎] × 100 
-± 100 𝑃𝑎 
-𝑇 [°𝐶] 
-± 0,1 °𝐶 
+𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0,1 °𝐶
 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
+𝑃𝑎]
+× 10−6
 Δ 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
-0 
-15,0 
-0,4 
-956 
-26,7 
-3137 
-4 
-3 
-17,6 
-0,9 
-823 
-26,7 
-3643 
-6 
-6 
-20,1 
-0,9 
-722 
-26,7 
-4153 
-7 
-9 
-22,7 
-0,9 
-642 
-26,8 
-4672 
-9 
-12 
-25,2 
-0,9 
-579 
-26,9 
-5180 
-10 
-15 
-28 
-1 
-526 
-26,9 
-5700 
-10 
-18 
-30 
-1 
-483 
-26,9 
-6210 
-20 
-21 
-33 
-1 
-446 
-26,9 
-6730 
-20 
-24 
-35 
-1 
-414 
-26,9 
-7250 
-20 
-27 
-38 
-1 
-386 
-26,9 
-7770 
-20 
-30 
-41 
-1 
-362 
-27,0 
-8290 
-30 
-33 
-43 
-1 
-341 
-27,0 
-8800 
-30 
-36 
-46 
-1 
-322 
-27,1 
-9330 
-30 
-39 
-48 
-1 
-305 
-27,1 
-9840 
-40 
- 
- 
+𝑃𝑎]
+× 10−6
+0
+15,0
+0,4
+956
+26,7
+3137
+4
+3
+17,6
+0,9
+823
+26,7
+3643
+6
+6
+20,1
+0,9
+722
+26,7
+4153
+7
+9
+22,7
+0,9
+642
+26,8
+4672
+9
+12
+25,2
+0,9
+579
+26,9
+5180
+10
+15
+28
+1
+526
+26,9
+5700
+10
+18
+30
+1
+483
+26,9
+6210
+20
+21
+33
+1
+446
+26,9
+6730
+20
+24
+35
+1
+414
+26,9
+7250
+20
+27
+38
+1
+386
+26,9
+7770
+20
+30
+41
+1
+362
+27,0
+8290
+30
+33
+43
+1
+341
+27,0
+8800
+30
+36
+46
+1
+322
+27,1
+9330
+30
+39
+48
+1
+305
+27,1
+9840
+40
+
+
 𝑎= (6 ± 4) × 10−5 𝐾
-𝑃𝑎 
- 
+𝑃𝑎
+
 𝑏= (204 ± 1) 𝐾
-Pam-3
- 
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
-La pressione più vicina a 1013,3 hPa è la misura corrispondente a 15 ml (956 hPa).
-a una temperatura di 26,7 oC. Si prende 
- (1,17 ± 0,01) kg m−3 
- 
-N= (61 ± 6) × 10−5 mol 
- 
+𝑃𝑎𝑚−3
+
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+La pressione più vicina a 1013,3 ℎ𝑃𝑎 è la misura corrispondente a 15 𝑚𝑙 (956 ℎ𝑃𝑎)
+a una temperatura di 26,7 º𝐶. Si prende
+𝜌𝑎𝑖𝑟𝑒= (1,17 ± 0,01) 𝑘𝑔 𝑚−3
+
+𝑛= (61 ± 6) × 10−5 𝑚𝑜𝑙
+
 𝑅= (8,2 + 0,9)
 𝐽
-Mol K
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Manometer (object)|Manometer]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view)
+𝑚𝑜𝑙 𝐾
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test shall be carried out in accordance with the following conditions:
+**Experimental Test Level 2 - Second Part: Determination of gamma**
 
-Part two. 
- 
-To determine the value of γ for air, a number of n moles of air shall be submitted to the
-process as shown in the continuous line in Figure 4. The arrows indicate the direction in which
-processes are carried out. The line connecting the states (VA; PA) and (VB; Patm) corresponds 
-to an adiabatic process while the line at traces joining the states (VA; PA) and 
-(VB; PB) is a Tamb temperature isotherm. 
- 
- 
-Figure 4 is shown. 
- 
-2.1. Write an expression for γ based on the pressures Patm, PA and PB. 
- 
-2.2. Perform the measurements necessary to determine the value of γ and report the values 
-measured on a table. 
+Second Part.
+
+To determine the value of 𝛾 for air, a number 𝑛 of moles of air will be subjected to the process indicated by the solid line in figure 4. The arrows indicate the direction in which the processes are carried out. The line joining the states (𝑉𝐴;  𝑃𝐴) and (𝑉𝐵;  𝑃𝑎𝑡𝑚) corresponds to an adiabatic process while the dashed line joining the states (𝑉𝐴;  𝑃𝐴) and (𝑉𝐵;  𝑃𝐵) corresponds to an isotherm at temperature 𝑇𝑎𝑚𝑏.
+
+
+Figure 4.
+
+2.1. Write an expression for 𝛾 as a function of the pressures 𝑃𝑎𝑡𝑚, 𝑃𝐴 and 𝑃𝐵.
+
+2.2. Carry out the necessary measurements to determine the value of  𝛾 and report the measured values in a table.
 For this:
-a. With the valve open, place the embolus in the scale position.
-for 40 ml. 
-b. Report the value of Patm. 
-c. Close the valve. 
-d. Expand the air contained within the syringe to a volume less than 5 ml. 
-Report the PA air pressure value after expansion. 
-e. Open and close the valve so that the air inside the syringe is compressed.
-Adiabatically reaching atmospheric pressure. This step must be taken.
+a. With the valve open, place the plunger at the scale position corresponding to 40 𝑚𝑙.
+b. Report the value of 𝑃𝑎𝑡𝑚.
+c. Close the valve.
+d. Expand the air contained inside the syringe to a volume less than 5 𝑚𝑙.
+Report the value of the air pressure 𝑃𝐴 after the expansion.
+e. Open and close the valve so that the air inside the syringe compresses adiabatically reaching atmospheric pressure. This step must
 
-The Commission will take the necessary steps to ensure that the system is implemented as quickly as possible, but by allowing the system to
-reach the atmospheric pressure. 
-f. Wait for the air pressure value to reach a balance value and
-report that PB value. 
-g. Repeat the above steps to obtain at least ten (10) measurements. 
+be carried out as quickly as possible but allowing the system to reach atmospheric pressure.
+f. Wait for the air pressure value to reach an equilibrium value and report said value 𝑃𝐵.
+g. Repeat the previous steps to obtain at least ten (10) measurements.  
  
-2.3. Report the value of γ obtained in each measurement and report its mean and the 
-estimated uncertainty. 
- 
-Note: For the calculation of the uncertainty of the natural logarithm, consider that if 
-x= (x̅ ± Δx) and g= ln (x), the uncertainty Δg can be determined by, 
- 
+2.3. Report the value of 𝛾 obtained in each measurement and report its mean value and the estimated uncertainty.
+
+Note: For the calculation of the uncertainty of the natural logarithm, take into account that if
+𝑥= (𝑥̅ ± Δ𝑥) and 𝑔= ln (𝑥), the uncertainty Δ𝑔 can be determined by,
+
 Δ𝑔= 1
-2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)] 
- 
- 
- 
+2 [ln(𝑥̅ + Δ𝑥) −ln(𝑥̅ −Δ𝑥)]
 
-Experimental Test  Argentine Olympic Games in Physics  2019 - NIVEL 1 
- 
-Answer Sheet 
- 
-Part one
- 
- 
- 
-Score 
-1.1 
-∆𝑣=  
-∆𝑣= (0,85 ± 0,01) 𝑚𝑙 
-1 pto 
-1.2 
-Table 
-See attached table 
-5 points 
-1.3. 
-Graphic 
- 
- 
-Hanging on .
- 
- 
-Ordered by origin 
-See attached chart 
- 
+
+
+
+Experimental Test – Argentine Physics Olympiad – 2019 - LEVEL 1
+
+Answer Sheet
+
+First Part
+
+
+
+Score
+1.1
+∆𝑣=
+∆𝑣= (0.85 ± 0.01) 𝑚𝑙
+1 point
+1.2
+Table
+See attached Table
+5 points
+1.3.
+Graph
+
+
+Slope
+
+
+Intercept
+See attached Graph
+
 𝑎= (5 ± 3) × 10−5 𝐾
-𝑃𝑎 
- 
-𝑏= (150 ± 1) 𝐾
-Pam-3
-3 points 
- 
- 
-1 pto 
- 
- 
-1 pto 
- 
-1.4 
-𝑉0 =  
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
-0.5 pts 
-1.5 
-Air
- 
- 
-𝑛=  
-The following conditions shall apply:
- 
- 
-The following table shows the results of the calculation of the total weight of the product:
-0.5 pts 
- 
- 
-1 pto 
-1.6 
-𝑅=  
-𝑅= (8,7 + 0,5)
-𝐽
-The Commission shall adopt implementing acts.
-Two points 
- 
-Part Two
- 
- 
- 
-Score 
-2.1 
-Table 
-See attached table 
-Two points 
-2.2 
-Table 
- 
- 
-𝛾̅ =  
- 
-See attached table 
- 
- 
-𝛾̅ = (1,1 ± 0,4) 
-Two points 
- 
-1 pto 
- 
- 
- 
- 
+𝑃𝑎
 
-Experimental Test  Argentine Olympic Games in Physics  2019 - NIVEL 2 
- 
-Hello from Answers.
- 
-Part one
- 
- 
- 
-Score 
-1.1 
-∆𝑣=  
-∆𝑣= (0,85 ± 0,01) 𝑚𝑙 
-0.5 pts 
-1.2 
-𝑣𝑖=  
-𝑣𝑖= (20,0 ±  0,1) 𝑚𝑙 
-0.5 pts 
-1.3 
-Table 
-See attached table 
-5 points 
-1.4 
-𝑥=  
- 
- 
-𝑦=  
-𝑥= 𝑣 
- 
+𝑏= (150 ± 1) 𝐾
+𝑃𝑎𝑚−3
+3 points
+
+
+1 point
+
+
+1 point
+
+1.4
+𝑉0 =
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0.3 ± 0.2) 𝑚𝑙
+0.5 points
+1.5
+𝜌𝑎𝑖𝑟𝑒=
+
+
+𝑛=
+𝜌𝑎𝑖𝑟𝑒= (1.19 ± 0.01) 𝑘𝑔 𝑚−3
+
+
+𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+0.5 points
+
+
+1 point
+1.6
+𝑅=
+𝑅= (8.7 + 0.5)
+𝐽
+𝑚𝑜𝑙 𝐾
+2 points
+
+Second Part
+
+
+
+Score
+2.1
+Table
+See attached Table
+2 points
+2.2
+Table
+
+
+𝛾̅ =
+
+See attached Table
+
+
+𝛾̅ = (1.1 ± 0.4)
+2 points
+
+1 point
+
+
+
+
+
+Experimental Test – Argentine Physics Olympiad – 2019 - LEVEL 2
+
+Answer Sheet
+
+First Part
+
+
+
+Score
+1.1
+∆𝑣=
+∆𝑣= (0.85 ± 0.01) 𝑚𝑙
+0.5 points
+1.2
+𝑣𝑖=
+𝑣𝑖= (20.0 ±  0.1) 𝑚𝑙
+0.5 points
+1.3
+Table
+See attached Table
+5 points
+1.4
+𝑥=
+
+
+𝑦=
+𝑥= 𝑣
+
 𝑦= 𝑇
-𝑃 
-0.5 pts 
- 
- 
-0.5 pts 
-1.5. 
-Graphic 
- 
- 
-The following table shows the results of the evaluation:
- 
- 
-Ordered by origin 
-(𝑏) 
-See attached chart 
- 
+𝑃
+0.5 points
+
+
+0.5 points
+1.5.
+Graph
+
+
+Slope (𝑎)
+
+
+Intercept (𝑏)
+See attached Graph
+
 𝑎= (5 ± 3) × 10−5 𝐾
 𝑃𝑎 
  
 𝑏= (150 ± 1) 𝐾
-Pam-3
-3 points 
- 
- 
-0.5 pts 
- 
- 
-0.5 pts 
-1.6 
-𝑉0 =  
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
-0.5 pts 
-1.7 
-Maire=
-The following table shows the results of the calculation of the total weight of the product:
-1 pto 
-1.8 
-Air
- 
- 
-𝑛=  
-The following conditions shall apply:
- 
- 
-The following table shows the results of the calculation of the total weight of the product:
-0.5 pts 
- 
- 
-0.5 pts 
-1.9 
-𝑅=  
-𝑅= (8,7 + 0,5)
+𝑃𝑎𝑚−3
+3 pts
+
+
+0.5 pts
+
+
+0.5 pts
+1.6
+𝑉0 =
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0.3 ± 0.2) 𝑚𝑙
+0.5 pts
+1.7
+𝑀𝑎𝑖𝑟𝑒=
+𝑀𝑎𝑖𝑟𝑒= (28.97 ± 0.03) 𝑔 𝑚𝑜𝑙−1
+1 pt
+1.8
+𝜌𝑎𝑖𝑟𝑒=
+
+
+𝑛=
+𝜌𝑎𝑖𝑟𝑒= (1.19 ± 0.01) 𝑘𝑔 𝑚−3
+
+
+𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+0.5 pts
+
+
+0.5 pts
+1.9
+𝑅=
+𝑅= (8.7 + 0.5)
 𝐽
-The Commission shall adopt implementing acts.
-1.5 points 
- 
- 
- 
- 
+𝑚𝑜𝑙 𝐾
+1.5 pts
 
-Part Two
- 
- 
- 
-Score 
-2.1 
-𝛾=  
-The following is the list of the countries of the European Union:
-𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)  
-1 pto 
-2.2 
-Table 
-See attached table 
-1.5 points 
-2.3 
-Table 
- 
- 
-𝛾̅ =  
- 
-See attached table 
- 
- 
-𝛾̅ = (1,1 ± 0,4) 
-1 pto 
- 
- 
-1.5 points 
- 
- 
- 
 
-The solution 
-Part one
- 
-1.1 
- 
-The number of turns (#rops) of the screw was measured to vary the volume of the syringe in 
-30 𝑚𝑙. 
- 
-♪ back to you ♪
+
+
+
+Second Part
+
+
+
+Score
+2.1
+𝛾=
+𝛾= 𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)
+1 pt
+2.2
+Table
+See attached Table
+1.5 pts
+2.3
+Table
+
+
+𝛾̅ =
+
+See attached Table
+
+
+𝛾̅ = (1.1 ± 0.4)
+1 pt
+
+
+1.5 pts
+
+
+
+
+Solution
+First Part
+
+1.1
+
+The number of turns (#𝑡𝑢𝑟𝑛𝑠) of the screw was measured to vary the volume of the syringe by
+30 𝑚𝑙.
+
+#turns
 ± 1 2
-⁄  
-35,0 
-35,3 
-35,5 
-35,3 
-35,3 
- 
-The volume measurement was taken as an exact (uncertain) measurement and the volume measurement was based on the
-Uncertainty in #spins is the minimum number of spins to determine a volume 
-according to the syringe scale. 
- 
-♪ back to you
-̅̅̅̅̅̅̅̅̅̅̅̅ = (35,3 ± 0,5) 
- 
-∆𝑣= (0,85 ± 0,01) 𝑚𝑙 
- 
-1.2 
- 
-Assuming an isothermal process and a closed system (n=cte), it can be written that 
-PV is cte. Then,
- 
-The following is the list of the countries of the European Union:
- 
-Where Pmax and Pmin are the maximum and minimum pressure that the pressure sensor can measure
-[300; 1100] hPa, and Vmin and Vmax are the minimum (10 ml) and maximum syringe volumes 
-I saw the initial volume (in this case V0 is neglected). 
-The measured atmospheric pressure is Patm= (964 ± 1) hPa 
+⁄
+35.0
+35.3
+35.5
+35.3
+35.3
+
+The volume measurement was taken as an exact measurement (without uncertainty) and the uncertainty in the #𝑡𝑢𝑟𝑛𝑠 is the minimum number of turns to determine a volume according to the syringe scale.
+
+#𝑡𝑢𝑟𝑛𝑠
+̅̅̅̅̅̅̅̅̅̅̅̅ = (35.3 ± 0.5)
+
+∆𝑣= (0.85 ± 0.01) 𝑚𝑙
+
+1.2
+
+Assuming an isothermal process and a closed system (𝑛= 𝑐𝑜𝑛𝑠𝑡), one can write that
+𝑃𝑉= 𝑐𝑜𝑛𝑠𝑡. Then,
+
+𝑃𝑚𝑎𝑥𝑉𝑚𝑖𝑛= 𝑃𝑎𝑡𝑚𝑉𝑖= 𝑃𝑚𝑖𝑛𝑉𝑚𝑎𝑥
+
+Where 𝑃𝑚𝑎𝑥 and 𝑃𝑚𝑖𝑛 are the maximum and minimum pressure that the pressure sensor can measure
+[300;  1100] ℎ𝑃𝑎, and 𝑉𝑚𝑖𝑛 and 𝑉𝑚𝑎𝑥 are the minimum (10 𝑚𝑙) and maximum volume of the syringe (60 𝑚𝑙) and 𝑉𝑖 the initial volume (in this case 𝑉0 is neglected).
+The measured atmospheric pressure is 𝑃𝑎𝑡𝑚= (964 ± 1) ℎ𝑃𝑎
 Then,
- 
-The value of the input data shall be the sum of the values of the input data.
-Patm
+
+𝑉𝑖= 𝑃𝑚𝑖𝑛𝑉𝑚𝑎𝑥
+𝑃𝑎𝑡𝑚
 ~19 𝑚𝑙 
  
-The value of the input data shall be the sum of the values of the input data.
-Patm
-~11 𝑚𝑙 
- 
- 
-The initial volume of the syringe is chosen as vi= (20,0 ± 0.4) ml. Uncertainty is taken .
-like 1/2 turn. 
- 
- 
+𝑉𝑖= 𝑃𝑚𝑎𝑥𝑉𝑚𝑖𝑛
+𝑃𝑎𝑡𝑚
+~11 𝑚𝑙
 
-1.3 
- 
-♪ back to you ♪
+
+The initial volume of the syringe is chosen as 𝑣𝑖= (20.0 ±  0.4) 𝑚𝑙. The uncertainty is taken as 1/2 turn.
+
+
+
+1.3
+
+#turns
 ± 1 8
-⁄  
-𝑣 [𝑚−3] 
-× 10−6 
- 
-𝜎𝑣 [𝑚−3] 
-× 10−6 
- 
-𝑃 [𝑃𝑎] × 100 
-± 100 𝑃𝑎 
-𝑇 [°𝐶] 
-± 0,1 °𝐶 
+⁄
+𝑣 [𝑚−3]
+× 10−6
+
+𝜎𝑣 [𝑚−3]
+× 10−6
+
+𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0.1 °𝐶
 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
+𝑃𝑎]
+× 10−6
 Δ 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
-0 
-20,0 
-0,4 
-969 
-22,1 
-3046 
-7 
--3 
-17,4 
-0,3 
-1109 
-22,1 
-2662 
-5 
--2 
-18,3 
-0,3 
-1015 
-22,2 
-2909 
-6 
-0 
-20,0 
-0,4 
-975 
-22,2 
-3029 
-7 
-3 
-22,5 
-0,5 
-864 
-22,3 
-3419 
-9 
-6 
-25,1 
-0,6 
-776 
-22,3 
-3807 
-11 
-9 
-27,6 
-0,6 
-704 
-22,4 
-4198 
-13 
-12 
-30,2 
-0,6 
-644 
-22,4 
-4589 
-15 
-15 
-32,7 
-0,7 
-593 
-22,5 
-4985 
-18 
-18 
-35,3 
-0,7 
-550 
-22,5 
-5375 
-21 
-21 
-37,8 
-0,7 
-513 
-22,6 
-5765 
-24 
-24 
-40,4 
-0,7 
-480 
-22,6 
-6161 
-27 
-27 
-42,9 
-0,8 
-451 
-22,6 
-6557 
-31 
-30 
-45,5 
-0,8 
-425 
-22,7 
-6961 
-35 
-33 
-48,0 
-0,8 
-403 
-22,7 
-7341 
-38 
-36 
-50,6 
-0,9 
-382 
-22,8 
-7747 
-43 
-39 
-53,1 
-0,9 
-364 
-22,8 
-8130 
-47 
-36 
-50,6 
-0,9 
-383 
-22,8 
-7727 
-42 
-33 
-48,0 
-0,8 
-404 
-22,8 
-7325 
-38 
-30 
-45,5 
-0,8 
-427 
-22,8 
-6930 
-34 
-27 
-42,9 
-0,8 
-453 
-22,8 
-6533 
-31 
-24 
-40,4 
-0,8 
-482 
-22,8 
-6140 
-27 
-21 
-37,8 
-0,7 
-515 
-22,8 
-5746 
-24 
-18 
-35,3 
-0,7 
-553 
-22,7 
-5349 
-21 
-15 
-32,7 
-0,7 
-596 
-22,7 
-4963 
-18 
-12 
-30,2 
-0,6 
-648 
-22,7 
-4565 
-15 
-9 
-27,6 
-0,6 
-708 
-22,7 
-4178 
-13 
-6 
-25,1 
-0,6 
-780 
-22,6 
-3791 
-11 
-3 
-22,5 
-0,5 
-869 
-22,6 
-3403 
-8 
-0 
-20,0 
-0,4 
-975 
-22,6 
-3033 
-7 
-0 
-20,0 
-0,4 
-969 
-22,1 
-3046 
+𝑃𝑎]
+× 10−6
+0
+20.0
+0.4
+969
+22.1
+3046
+7
+-3
+17.4
+0.3
+1109
+22.1
+2662
+5
+-2
+18.3
+0.3
+1015
+22.2
+2909
+6
+0
+20.0
+0.4
+975
+22.2
+3029
+7
+3
+22.5
+0.5
+864
+22.3
+3419
+9
+6
+25.1
+0.6
+776
+22.3
+3807
+11
+9
+27.6
+0.6
+704
+22.4
+4198
+13
+12
+30.2
+0.6
+644
+22.4
+4589
+15
+15
+32.7
+0.7
+593
+22.5
+4985
+18
+18
+35.3
+0.7
+550
+22.5
+5375
+21
+21
+37.8
+0.7
+513
+22.6
+5765
+24
+24
+40.4
+0.7
+480
+22.6
+6161
+27
+27
+42.9
+0.8
+451
+22.6
+6557
+31
+30
+45.5
+0.8
+425
+22.7
+6961
+35
+33
+48.0
+0.8
+403
+22.7
+7341
+38
+36
+50.6
+0.9
+382
+22.8
+7747
+43
+39
+53.1
+0.9
+364
+22.8
+8130
+47
+36
+50.6
+0.9
+383
+22.8
+7727
+42
+33
+48.0
+0.8
+404
+22.8
+7325
+38
+30
+45.5
+0.8
+427
+22.8
+6930
+34
+27
+42.9
+0.8
+453
+22.8
+6533
+31
+24
+40.4
+0.8
+482
+22.8
+6140
+27
+21
+37.8
+0.7
+515
+22.8
+5746
+24
+18
+35.3
+0.7
+553
+22.7
+5349
+21
+15
+32.7
+0.7
+596
+22.7
+4963
+18
+12
+30.2
+0.6
+648
+22.7
+4565
+15
+9
+27.6
+0.6
+708
+22.7
+4178
+13
+6
+25.1
+0.6
+780
+22.6
+3791
+11
+3
+22.5
+0.5
+869
+22.6
+3403
+8
+0
+20.0
+0.4
+975
+22.6
+3033
+7
+0
+20.0
+0.4
+969
+22.1
+3046
 7 
  
-The minus sign in the number of turns represents a compression (volume 
-decreases), 
-To determine the value of v, it was used that v=vi+ ∆v #turns and its uncertainty is 
-I shall determine by:
- 
-σv= σvi+ σ(∆v #turns) 
- 
-σ(∆v #spins)
-∆v #return
+The minus sign in the number of turns represents a compression (the volume decreases),
+To determine the value of 𝑣, it was used that 𝑣= 𝑣𝑖+ ∆𝑣 #𝑡𝑢𝑟𝑛𝑠 and its uncertainty was determined by,
+
+𝜎𝑣= 𝜎𝑣𝑖+ 𝜎(∆𝑣 #𝑡𝑢𝑟𝑛𝑠)
+
+𝜎(∆𝑣 #𝑡𝑢𝑟𝑛𝑠)
+∆𝑣 #𝑡𝑢𝑟𝑛𝑠
 =
 1 8
 ⁄
-#turns+ σ(∆v)
-∆𝑣 
- 
-Pressure uncertainty is the variation in the observed pressure value 
-during measurements, 
+#𝑡𝑢𝑟𝑛𝑠+ 𝜎(∆𝑣)
+∆𝑣
 
-The temperature uncertainty was taken equal to the sensor's assessment of the temperature.
-temperature, 
+The uncertainty of the pressure represents the variations of the pressure value observed during the measurements,
+
+The uncertainty in the temperature was taken equal to the resolution of the temperature sensor,
 The uncertainty Δ
 𝑇
-P was determined by, 
- 
+𝑃 was determined by,
+
 σ 𝑇
 𝑃= 𝑇
 𝑃(σ𝑇
 𝑇+ σ𝑃
-𝑃) 
- 
-For the calculation of 
+𝑃)
+
+For the calculation of
 𝑇
-P, the temperature was expressed in Kelvin degrees. 
- 
-1.4 
- 
-Taking into account equation (3) and linearising equation (1) can be obtained, 
- 
+𝑃, the temperature was expressed in degrees Kelvin.
+
+1.4
+
+Taking into account equation (3) and linearizing equation (1), one can obtain,
+
 𝑇
 𝑃= 𝑉0
 𝑛𝑅+ 𝑣
-𝑛𝑅 
- 
-Choosing
- 
-𝑥= 𝑣 
- 
-𝑦= 𝑇
-𝑃 
- 
-You get a linear relationship of the form 
- 
-𝑦= 𝑎+ 𝑏 𝑥 
- 
-with 
- 
-𝑎= 𝑉0
-𝑛 𝑅 
- 
-𝑏= 1
-𝑛 𝑅 
- 
- 
- 
+𝑛𝑅
 
-1.5 
- 
- 
-The following values are obtained from the adjustment for the ordered to origin (a) and for the
-The following is the list of the following:
- 
+Choosing
+
+𝑥= 𝑣
+
+𝑦= 𝑇
+𝑃
+
+A linear relationship of the form is obtained
+
+𝑦= 𝑎+ 𝑏 𝑥
+
+with
+
+𝑎= 𝑉0
+𝑛 𝑅
+
+𝑏= 1
+𝑛 𝑅
+
+
+
+
+1.5
+
+
+From the fit, the following values are obtained for the intercept (𝑎) and for the slope (𝑏)
+
 𝑎= (5 ± 3) × 10−5 𝐾
-𝑃𝑎 
- 
+𝑃𝑎
+
 𝑏= (150 ± 1) 𝐾
-Pam-3
- 
- 
-1.6 
- 
-As a=
+𝑃𝑎𝑚−3
+
+
+1.6
+
+Since 𝑎=
 𝑉0
-𝑛 𝑅 y 𝑏=
+𝑛 𝑅 and 𝑏=
 1
-n R, it is obtained that 
- 
+𝑛 𝑅, it is obtained that
+
 𝑉0 = 𝑎
-𝑏 
- 
+𝑏
+
 σ𝑉0 = 𝑉0 (σ𝑎
 𝑎+ σ𝑏
-𝑏) 
+𝑏)
 Then,
- 
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
- 
- 
-1.7 
- 
-The average molar mass of air is determined by, 
- 
 
-Maire= fiMi
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙
+
+
+1.7
+
+The average molar mass of air is determined by,
+
+
+𝑀𝑎𝑖𝑟𝑒= ∑𝑓𝑖𝑀𝑖
 𝑖
+
+
+Where the subscript 𝑖 refers to each constituent gas and 𝑀𝑖 and 𝑓𝑖= 𝐶𝑖100−1 are the atomic mass and the fraction of the 𝑖−th constituent, respectively. 𝐶𝑖 is the concentration reported in Table 1.
+Then, 
  
- 
-Where subindex i refers to each constituent gas and Mi and fi= Ci100−1 are the
-The atomic mass and the fraction of the constituent i−e, respectively. 𝐶𝑖 es la 
-concentration reported in Table 1. 
-Then,
- 
-The following table shows the results of the calculation of the total weight of the product:
- 
-Maire 's uncertainty is determined .
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+𝑀𝑎𝑖𝑟𝑒= (28.97 ± 0.03) 𝑔 𝑚𝑜𝑙−1
+
+The uncertainty of 𝑀𝑎𝑖𝑟𝑒 was determined as
+
+σ𝑀𝑎𝑖𝑟𝑒= ∑σ(𝑓𝑖𝑀𝑖)
 𝑖
- 
- 
-The following is the list of the categories of products:
+
+
+σ(𝑓𝑖𝑀𝑖) = 𝑓𝑖𝑀𝑖(σ𝑓𝑖
 𝑓𝑖
-+ σMi
++ σ𝑀𝑖
 𝑀𝑖
-) 
- 
-1.8 
- 
-To determine air density, the measured point closest to the value of  is chosen.
-The amount of the test chemical is calculated as follows: In this case, the measured point corresponding to −2 turns has a pressure 
-The measurement of 1015,7 hPa, the closest to the interest pressure. Then he is chosen as
-The air temperature at T= 22,2°C. To determine the air density for this 
-temperature linear interpolation is performed with the points (20oC; 1,20 kg m−3) and 
-(25º𝐶; 1,18 𝑘𝑔 𝑚−3). 
-Given the uncertainties in temperature and density it is taken as air density 
-a 
- 
-The following conditions shall apply:
- 
-Then the number of n moles used in the measurements is,
- 
-n = air ρ
-Mayor
-Go away .
- 
-Where Vaire is the volume occupied n moles at T= 22,2°C and at a pressure of 
-The amount of the test chemical is calculated as follows: 
-In this case, Vaire=v + V0 = (18,6 ± 0.7) ml is taken. Then,
- 
-The following table shows the results of the calculation of the total weight of the product:
- 
-Where uncertainty was calculated as 
- 
-σ𝑛
-N = σρρair
-Air
-+ σVaire
-Vaire
-+ σMaire
-Mayor
- 
- 
-1.9 
- 
-From the slope of the adjustment we get,
+)
 
- 
+1.8
+
+To determine the density of the air, the measured point closest to the value of
+1013.3 ℎ𝑃𝑎 is chosen. In this case, the measured point corresponding to −2 𝑡𝑢𝑟𝑛𝑠 has a measured pressure of 1015.7 ℎ𝑃𝑎, the closest to the pressure of interest. Then the air temperature is chosen as 𝑇=  22.2°𝐶. To determine the air density for this temperature, a linear interpolation is performed with the points (20º𝐶; 1.20 𝑘𝑔 𝑚−3) and (25º𝐶; 1.18 𝑘𝑔 𝑚−3).
+Given the uncertainties in the temperature and in the density, the air density is taken as
+
+𝜌𝑎𝑖𝑟𝑒= (1.19 ± 0.01) 𝑘𝑔 𝑚−3
+
+Then, the number of moles 𝑛 used in the measurements is,
+
+𝑛= 𝜌𝑎𝑖𝑟𝑒
+𝑀𝑎𝑖𝑟𝑒
+𝑉𝑎𝑖𝑟𝑒
+
+Where 𝑉𝑎𝑖𝑟𝑒 is the volume occupied by 𝑛 moles at 𝑇=  22.2°𝐶 and at a pressure of
+1013.3 ℎ𝑃𝑎.
+In this case 𝑉𝑎𝑖𝑟𝑒= 𝑣 + 𝑉0 = (18.6 ± 0.7) 𝑚𝑙 is taken. Then,
+
+𝑛= (77 ± 4) × 10−5 𝑚𝑜𝑙
+
+Where the uncertainty was calculated as
+
+σ𝑛
+𝑛= σ𝜌𝑎𝑖𝑟𝑒
+𝜌𝑎𝑖𝑟𝑒
++ σ𝑉𝑎𝑖𝑟𝑒
+𝑉𝑎𝑖𝑟𝑒
++ σ𝑀𝑎𝑖𝑟𝑒
+𝑀𝑎𝑖𝑟𝑒
+
+
+1.9
+
+From the slope of the fit we obtain,
+
+
 𝑅= 1
-𝑛 𝑏 
- 
-𝑅= (8,7 + 0,5)
+𝑛 𝑏
+
+𝑅= (8.7 + 0.5)
 𝐽
-The Commission shall adopt implementing acts.
- 
-Where uncertainty was calculated as 
- 
+𝑚𝑜𝑙 𝐾
+
+Where the uncertainty was calculated as
+
 σ𝑅
 𝑅= σ𝑛
 𝑛+ σ𝑏
-𝑏 
- 
- 
-Part Two
- 
-2.1 
- 
-The states (VA; PA) and (VB; Patm) are related by an adiabatic, then 
- 
-The following is the list of the countries:
-The following shall be added:
-𝛾 
- 
-On the other hand, the states (VA; PA) and (VB; PB) are related by isothermal 
-corresponding to Tamb, then 
- 
-The following is the list of the countries of the European Union:
+𝑏
+
+
+Second Part
+
+2.1
+
+The states (𝑉𝐴;  𝑃𝐴) and (𝑉𝐵;  𝑃𝑎𝑡𝑚) are related by an adiabatic process, then
+
+𝑃𝐴𝑉𝐴
+𝛾= 𝑃𝑎𝑡𝑚𝑉𝐵
+𝛾
+
+On the other hand, the states (𝑉𝐴;  𝑃𝐴) and (𝑉𝐵;  𝑃𝐵) are related by the isotherm corresponding to 𝑇𝑎𝑚𝑏, then
+
+𝑃𝐴𝑉𝐴= 𝑃𝐵𝑉𝐵 
  
  
 𝑉𝐴= 𝑃𝐵
 𝑃𝐴
-𝑉𝐵 
- 
-Replacing the first equation and rearranging the terms,
- 
+𝑉𝐵
+
+Substituting into the first equation and rearranging the terms,
+
 (𝑃𝐵
 𝑃𝐴
 )
 𝛾
-- Patm .
+= 𝑃𝑎𝑡𝑚
 𝑃𝐴
- 
- 
-Taking natural logarithms,
- 
+
+
+Taking the natural logarithm,
+
 𝛾 𝑙𝑛(𝑃𝐵
 𝑃𝐴
-(i) = ln
+) = 𝑙𝑛(𝑃𝑎𝑡𝑚
 𝑃𝐴
-) 
- 
-Clearing γ and using the logarithm property ln(
+)
+
+Solving for 𝛾 and using the logarithm property 𝑙𝑛(
 𝑦
-x) = ln(y) −ln (x), is obtained 
- 
-The following is the list of the countries of the European Union:
-𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)  
- 
- 
- 
- 
- 
- 
+𝑥) = ln(𝑦) −ln (𝑥), we obtain
 
-2.2 
- 
-Number of 
-Measurement 
-The following is the list of the countries of the European Union:
-The following conditions shall apply:
-The following is the list of the countries of the European Union:
-The following conditions shall apply:
-PB [hPa] 
-The following conditions shall apply:
-𝛾 
-Δ𝛾 
-1 
-969 
-956 
-968 
-1,1 
-0,4 
-2 
-969 
-956 
-968 
-1,1 
-0,4 
-3 
-969 
-953 
-968 
-1,1 
-0,3 
-4 
-969 
-953 
-968 
-1,1 
-0,3 
-5 
-969 
-954 
-967 
-1,2 
-0,3 
-6 
-969 
-940 
-966 
-1,1 
-0,2 
-7 
-969 
-938 
-966 
-1,1 
-0,2 
-8 
-969 
-939 
-966 
-1,1 
-0,2 
-9 
-969 
-940 
-966 
-1,1 
-0,2 
-10 
-969 
-941 
-966 
-1,1 
-0,2 
- 
-The value of Δγ was obtained by 
- 
+𝛾= 𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
+𝑙𝑛(𝑃𝐵) −𝑙𝑛(𝑃𝐴)
+
+
+
+
+
+
+
+2.2
+
+Measurement
+Number
+𝑃𝑎𝑡𝑚 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝑃𝑎𝑡𝑚 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝑃𝐵 [ℎ𝑃𝑎]
+±1ℎ𝑃𝑎
+𝛾
 Δ𝛾
-The following table shows the results of the evaluation:
-The Commission has also adopted a proposal for a regulation on the
-+ Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
-𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)  
- 
-The following table shows the number of persons who have been identified as having a disability:
- 
-Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)] 
- 
-Δ[𝑙𝑛(𝑃𝑘)] = 1
-The following table shows the results of the evaluation:
- 
-2.3 
- 
-𝛾̅ = (1,1 ± 0,4) 
- 
+1
+969
+956
+968
+1,1
+0,4
+2
+969
+956
+968
+1,1
+0,4
+3
+969
+953
+968
+1,1
+0,3
+4
+969
+953
+968
+1,1
+0,3
+5
+969
+954
+967
+1,2
+0,3
+6
+969
+940
+966
+1,1
+0,2
+7
+969
+938
+966
+1,1
+0,2
+8
+969
+939
+966
+1,1
+0,2
+9
+969
+940
+966
+1,1
+0,2
+10
+969
+941
+966
+1,1
+0,2
 
-♪ back to you ♪
+The value of Δ𝛾 was obtained by means of
+
+Δ𝛾
+𝛾= Δ[𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)]
+𝑙𝑛(𝑃𝑎𝑡𝑚) −𝑙𝑛(𝑃𝐴)
++ Δ[𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)]
+𝑙𝑛(𝑃𝐵) −𝑙𝑛 (𝑃𝐴)
+
+Δ[𝑙𝑛(𝑃𝑎𝑡𝑚) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝑎𝑡𝑚)] + Δ[𝑙𝑛 (𝑃𝐴)]
+
+Δ[𝑙𝑛(𝑃𝐵) − 𝑙𝑛(𝑃𝐴)] = Δ[𝑙𝑛(𝑃𝐵)] + Δ[𝑙𝑛 (𝑃𝐴)]
+
+Δ[𝑙𝑛(𝑃𝑘)] = 1
+2 [𝑙𝑛(𝑃𝑘+ Δ𝑃𝑘) −𝑙𝑛(𝑃𝑘−Δ𝑃𝑘)]
+
+2.3
+
+𝛾̅ = (1,1 ± 0,4)
+
+
+#turns
 ± 1 8
-⁄  
-𝑣 [𝑚−3] 
+⁄
+𝑣 [𝑚−3]
+× 10−6
+
+𝜎𝑣 [𝑚−3]
 × 10−6 
  
-𝜎𝑣 [𝑚−3] 
-× 10−6 
- 
-𝑃 [𝑃𝑎] × 100 
-± 100 𝑃𝑎 
-𝑇 [°𝐶] 
-± 0,1 °𝐶 
+𝑃 [𝑃𝑎] × 100
+± 100 𝑃𝑎
+𝑇 [°𝐶]
+± 0.1 °𝐶
 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
+𝑃𝑎]
+× 10−6
 Δ 𝑇
 𝑃 [ 𝐾
-𝑃𝑎] 
-× 10−6 
-0 
-15,0 
-0,4 
-956 
-26,7 
-3137 
-4 
-3 
-17,6 
-0,9 
-823 
-26,7 
-3643 
-6 
-6 
-20,1 
-0,9 
-722 
-26,7 
-4153 
-7 
-9 
-22,7 
-0,9 
-642 
-26,8 
-4672 
-9 
-12 
-25,2 
-0,9 
-579 
-26,9 
-5180 
-10 
-15 
-28 
-1 
-526 
-26,9 
-5700 
-10 
-18 
-30 
-1 
-483 
-26,9 
-6210 
-20 
-21 
-33 
-1 
-446 
-26,9 
-6730 
-20 
-24 
-35 
-1 
-414 
-26,9 
-7250 
-20 
-27 
-38 
-1 
-386 
-26,9 
-7770 
-20 
-30 
-41 
-1 
-362 
-27,0 
-8290 
-30 
-33 
-43 
-1 
-341 
-27,0 
-8800 
-30 
-36 
-46 
-1 
-322 
-27,1 
-9330 
-30 
-39 
-48 
-1 
-305 
-27,1 
-9840 
-40 
- 
- 
-𝑎= (6 ± 4) × 10−5 𝐾
-𝑃𝑎 
- 
-𝑏= (204 ± 1) 𝐾
-Pam-3
- 
-𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0,3 ± 0,2) 𝑚𝑙 
-The pressure closest to 1013,3 hPa is the measurement for 15 ml (956 hPa).
-at a temperature of 26,7 oC. It 's taken .
-The following conditions shall apply:
- 
-The following table shows the results of the calculation of the total weight of the product:
- 
-𝑅= (8,2 + 0,9)
-𝐽
-Other
+𝑃𝑎]
+× 10−6
+0
+15.0
+0.4
+956
+26.7
+3137
+4
+3
+17.6
+0.9
+823
+26.7
+3643
+6
+6
+20.1
+0.9
+722
+26.7
+4153
+7
+9
+22.7
+0.9
+642
+26.8
+4672
+9
+12
+25.2
+0.9
+579
+26.9
+5180
+10
+15
+28
+1
+526
+26.9
+5700
+10
+18
+30
+1
+483
+26.9
+6210
+20
+21
+33
+1
+446
+26.9
+6730
+20
+24
+35
+1
+414
+26.9
+7250
+20
+27
+38
+1
+386
+26.9
+7770
+20
+30
+41
+1
+362
+27.0
+8290
+30
+33
+43
+1
+341
+27.0
+8800
+30
+36
+46
+1
+322
+27.1
+9330
+30
+39
+48
+1
+305
+27.1
+9840
+40
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Manometer (object)|Manometer]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view)
+
+𝑎= (6 ± 4) × 10−5 𝐾
+𝑃𝑎
+
+𝑏= (204 ± 1) 𝐾
+𝑃𝑎𝑚−3
+
+𝑉0 = (3 ± 2) × 10−7𝑚−3 = (0.3 ± 0.2) 𝑚𝑙
+The pressure closest to 1013.3 ℎ𝑃𝑎 is the measurement corresponding to 15 𝑚𝑙 (956 ℎ𝑃𝑎)
+at a temperature of 26.7 º𝐶. One takes
+𝜌𝑎𝑖𝑟𝑒= (1.17 ± 0.01) 𝑘𝑔 𝑚−3
+
+𝑛= (61 ± 6) × 10−5 𝑚𝑜𝑙
+
+𝑅= (8.2 + 0.9)
+𝐽
+𝑚𝑜𝑙 𝐾
 
 
 
@@ -5248,216 +5132,180 @@ i) La velocità del vento (V) è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Part 2: Thermodynamics of tea in the glacier
+**Part 2: Thermodynamics of tea on the glacier**
 
-Part 2 
-Rescue is complete, and as the temperature is low, the Andeans are preparing.
-A tea for the injured. They use a gas heater to melt a pound .
-And then they put it in a perfect thermos. 
- 
+Part 2
+Once the rescue is over, and since the temperature is low, the mountaineers prepare a tea for the accident victim. They use a gas heater to melt one kilogram of snow and heat the water, which they then put in a perfect thermos.
+
 Knowing that:
-- Specific snow heat: 0.5 cal/ (g oC). 
-- Snow melting heat: 80 cal/g. 
-- Specific water temperature: 1 cal / (g oC) 
-- Density of water: 1 g/cm3. 
-- Temperature in the glacier: -8 degrees. 
- 
-(a) How many calories are required to get water to 
-70ºC? 
- 
-(b) If the heater delivers 2.6kW of combustion power, how much 
-How long does it take to heat the water to make tea? 
- 
-Note: Remember that the mechanical equivalent of heat is 4.186J/cal. 
- 
-After drinking the tea, they make a meal and boil 0.5 liters of water to make it.
-It was left over when we infused it. The glacier is 5100 m above sea level 
-The sea. 
-Knowing that every 1000 m the boiling point varies by approximately 
-3ºC: 
- 
-(c) What temperature does the water boil? 
- 
-(d) How long does it take for water to reach boiling point? 
-Remember, the thermos that contained the water is perfect. 
- 
-One of the Andeans leaves his prepared food for a while inside a
-container, covered, cylindrical in shape (5 cm in radius and 7 cm in height). 
-On his return, he found food at the right temperature to eat some.
-65ºC. Assuming: that the temperature of the set food-container always 
-is uniform; that its heat capacity is: C= 500 Cal / oC; that the coefficient 
-The heat exchange rate by convection is: h [W/ (m2oC)]; and it exchanges 
-heat only from the lid and from the side surface (do not exchange heat for 
-the supported base): 
- 
-(e) Write an equation of balance between the heat that the body delivers to the body.
-The temperature changes in the environment at ∆T (after the passage of time 
-The heat loss per convection at that time interval ∆t) is the heat loss at that time interval ∆t. 
- 
-Suppose: a value of h= 10 W/ (m2 oC); that the initial temperature of the set 
- food-container is 80°C; and the environment is kept at -8°C. 
- 
-(f) Calculate the ∆T experienced by the food after the meal has been eaten.
-early 60s, using the equation of the previous item. 
- 
+- Specific heat of snow: 0.5cal / (g ºC).
+- Heat of fusion of snow: 80cal/g.
+- Specific heat of water: 1cal / (g ºC)
+- Density of water: 1g/cm3.
+- Temperature on the glacier: -8ºC.
 
-The equation of item (e) determines a temperature change of T with the 
-time t exponentially:T=A + B e−Dt, where A, B and D are constants 
-(the last two positive). 
- 
-(g) Determine the values of A, B and D and write the expression of the
-temperature of the food-container set depending on the time. 
-Consider that: initially the food was at 80°C; the environment was
-It kept to -8oC, and the Andean took 20 minutes to return. 
- 
-(h) Find the h value for the results obtained in the
-I'm from before. 
- 
-The coefficient h is related to the Nusselt number (Nu) as follows: 
- 
-ℎ=  𝑘 𝑁𝑢 /𝐷𝑐  
- 
-where Dc is the diameter of the cylinder and k is the conductivity of the air. 
-Let's say k=24 is 10-3 W/ (m oC). 
- 
-The Nusselt number is related to the Reynolds number (Re) in the
-shape: 
-𝑁𝑢 =  0.024 𝑅𝑒0.8 
- 
-Knowing that the kinematic viscosity of air is =12.5 10-6 m2/ s: 
- 
-(i) Determine the wind speed (V) in the glacier. 
- 
-Note: Reynolds number is a directly dimensional number.
-The air flow rate is proportional to the air flow rate and to the characteristic length (in 
-In this case the diameter of the cylinder) and inversely proportional to the
-the kinematic viscosity. 
- 
- 
+a) How many calories are required to get the water to
+70ºC?
 
-Part 2 
-Answering sheet 
+b) If the heater delivers 2.6kW of power from combustion, how long does it take to heat the water to make the tea?
+
+Note: Remember that the mechanical equivalent of heat is 4.186J/cal.
+
+After drinking the tea, they make food and for that they boil 0.5 l of water left over from making the infusion. The glacier is at 5100 m above sea level.
+Knowing that every 1000 m the boiling point varies by approximately
+3ºC:
+
+c) At what temperature does the water boil?
+
+d) How long does the water take to reach the boiling point?
+Remember that the thermos containing the water is perfect. 
  
-(a) The required calories are: 
+One of the mountaineers leaves his prepared food for a while inside a container, covered, cylindrical in shape (5 cm radius and 7 cm height).
+Upon returning, he found the food at just the right temperature to eat… at about
+65ºC. Assuming: that the temperature of the "food-container" system is always uniform; that its heat capacity is: 𝐶= 500 Cal / ºC; that the heat exchange coefficient by convection is: ℎ [W/ (m2ºC)]; and that it exchanges heat only through the lid and the lateral surface (it does not exchange heat through the supported base):
+
+e) Write a balance equation between the heat that the body delivers to the environment when its temperature changes by ∆𝑇 (after a time interval ∆𝑡 has elapsed) and the heat lost by convection in that ∆𝑡.
+
+Assume: a value of ℎ= 10 W / (m2 ºC); that the initial temperature of the "food-container" system is 80ºC; and that the environment is maintained at -8ºC.
+
+f) Calculate the ∆𝑇 experienced by the food after the first 60s have passed, using the equation from the previous item.
+
+
+The equation from item e) determines a variation of temperature 𝑇 with time 𝑡 in an exponential form:𝑇=  𝐴 +  𝐵 𝑒−𝐷𝑡, where 𝐴, 𝐵 and 𝐷 are constants (the last two positive).
+
+g) Determine the values of 𝐴, 𝐵 and 𝐷 and write the expression for the temperature of the "food-container" system as a function of time.
+Consider that: initially the food was at 80ºC; the environment remained at -8ºC; and the mountaineer took 20 minutes to return.
  
-1 kg of snow at -8oC goes to 1 kg of snow at 0oC 
-The following table shows the results of the calculations:
- 
-1 kg of snow at 0oC goes to 1 kg of water at 0oC 
-The amount of the aid is calculated as follows:
- 
-1 kg of water at 0°C goes to 1 kg of water at 70°C 
-The following table shows the results of the calculations:
- 
-Total heat required: 
-The amount of the aid is EUR 154,000.
- 
-2pts 
-(Third part)
-(b) The time is: 
- 
-Si  𝑃𝑐= 2.6𝑘𝑊 
-The Commission has also adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the use of the energy sector.
- 
+h) Find the value of ℎ corresponding to the results obtained in the previous item.
+
+The coefficient ℎ is related to the Nusselt number (Nu) as follows:
+
+ℎ=  𝑘 𝑁𝑢 /𝐷𝑐
+
+where 𝐷𝑐 is the cylinder diameter and 𝑘 the thermal conductivity of air.
+Assume: k=24 10-3 W / (m ºC).
+
+The Nusselt number is related to the Reynolds number (𝑅𝑒) as follows:
+𝑁𝑢 =  0.024 𝑅𝑒0.8
+
+Knowing that the kinematic viscosity of air is =12.5 10-6 m2/ s:
+
+i) Determine the wind speed (𝑉) on the glacier.
+
+Note: The Reynolds number is a dimensionless number directly proportional to the air flow speed and to a characteristic length (in this case the cylinder diameter) and inversely proportional to the kinematic viscosity.
+
+
+
+Part 2
+Answer sheet
+
+a) The calories required are:
+
+1kg of snow at -8ºC  becomes 1kg of snow at 0ºC
+𝑄1 =  1000 ∗0.5 ∗8   𝑐𝑎𝑙=  4000 𝑐𝑎𝑙
+
+1kg of snow at 0ºC  becomes 1kg of water at 0ºC
+𝑄2 =  80 ∗1000   𝑐𝑎𝑙=  80000 𝑐𝑎𝑙
+
+1kg of water at 0ºC  becomes 1kg of water at 70ºC
+𝑄2 =  1000 ∗1 ∗70   𝑐𝑎𝑙=  70000 𝑐𝑎𝑙
+
+The total heat required:
+𝑄𝑇= 154000 𝑐𝑎𝑙
+
+2pts (3pts)
+b) The time is:
+
+If  𝑃𝑐= 2.6𝑘𝑊
+𝑄𝑇= 154000 𝑐𝑎𝑙= (154000 ∗4.186)  𝐽
+
 ∆𝑡= 𝑄𝑇
-Pc = 274.9 s = 4.13 minutes 
- 
-1pt 
-(Two pts) 
-(c) The temperature is: 
-𝑇𝑒=  84.7º𝐶 
- 
-0.5pts 
-(Two pts) 
-(d) The time required is: 
- 
+𝑃𝑐= 274.9 𝑠= 4.13 𝑚𝑖𝑛𝑢𝑡𝑒𝑠
+
+1pt (2pts)
+c) The temperature is:
+𝑇𝑒=  84.7º𝐶
+
+0.5pts (2pts)
+d) The time required is:
+
 ∆𝑡= 4.186 ∗500 ∗14.7
 2.5 ∗1000
-𝑠= 12.31  𝑠 
- 
-0.5pts 
-(1pt) 
-(e) Balance sheet equation: 
- 
-C∆T= −hArea T−Tamb ∆t 
- 
-With 
-𝐶= 500 4.186  J
-º𝐶 
- 
-Area = π 52 + 5 7 10−4 m2 = π95 10−4m2 
- 
-The temperature of the water is -8°C.
- 
-1pt 
-(1pt) 
-(f) The ∆T experienced by food in the early 60s is: 
- 
-∆𝑇= − 10 𝜋∗95 ∗10−4
-500 4.186 ∗ 80 −(−8) ∗60   º𝐶= −0.75 º𝐶 
- 
-1pt 
-(1pt) 
+𝑠= 12.31  𝑠
 
-(g) The values of A, B and Dson: 
+0.5pts (1pt)
+e) Balance equation:
+
+𝐶∗∆𝑇= −ℎ∗𝐴𝑟𝑒𝑎∗ 𝑇−𝑇𝑎𝑚𝑏 ∗∆𝑡 
  
-𝐴= −8º𝐶 
-𝐵= 88 º𝐶 
- y  
-𝐷= − 
+With
+𝐶= 500 4.186  J
+º𝐶
+
+𝐴𝑟𝑒𝑎= 𝜋∗ 52 + 5 ∗7  10−4 𝑚2 = 𝜋∗95 ∗10−4𝑚2
+
+𝑇𝑎𝑚𝑏= −8º𝐶
+
+1pt (1pt)
+f) The ∆𝑇 that the food undergoes in the first 60s is:
+
+∆𝑇= − 10 𝜋∗95 ∗10−4
+500 4.186 ∗ 80 −(−8) ∗60   º𝐶= −0.75 º𝐶
+
+1pt (1pt)
+
+g) The values of 𝐴, 𝐵 and 𝐷 are:
+
+𝐴= −8º𝐶
+𝐵= 88 º𝐶 and
+𝐷= −
 1
 1200 ∗ 𝑙𝑛 65 + 8
 88
  1
 𝑠= 1.56 ∗10−4 1
-𝑠  
- 
-With the return time tr = 1200 s . 
- 
-temperature according to time: 
- 
+𝑠
+
+With the return time  𝑡𝑟= 1200 𝑠  .
+
+the temperature as a function of time:
+
 𝑇= −8º𝐶 +  88º𝐶 𝑒−1.56∗10−4 1
-𝑠 𝑡 
- 
-1pt 
-(h) The value of h is: 
- 
- 
+𝑠 𝑡
+
+1pt
+h) The value of ℎ is:
+
+
 ℎ=
 𝐷∗𝐶
-Area tr = − 1.56 10−4  4.186 500
+𝐴𝑟𝑒𝑎∗𝑡𝑟 = − 1.56 ∗10−4 ∗ 4.186 ∗500
 𝜋∗95 ∗10−4
 = 10.94
 𝑊
-𝑚2 º𝐶 
- 
- 
-2.5pts 
-(i) Wind speed (V) is: 
- 
+𝑚2 º𝐶
+
+
+2.5pts
+i) The wind speed (𝑉) is:
+
 ℎ= 10.94
 𝑊
 𝑚2 º𝐶= 𝑘 𝑁𝑢
 𝐷𝑐
- 
- 
-𝑁𝑢 = 45.58 
- 
-𝑅𝑒 =  45.58
-0.024 
-1/0.8
-The following shall be added:
- 
- 
-𝑉= 1.6 𝑚
-𝑠  
-0.5pts
 
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Calorimeter (object)|Calorimeter]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1bFbUQ76Q1VMniTczExvYP8N0viWrDi5d/view)
+
+𝑁𝑢 = 45.58
+
+𝑅𝑒 =  45.58
+0.024
+1/0.8
+= 12537.3 = 𝐷𝑐𝑉
+
+
+𝑉= 1.6 𝑚
+𝑠
+0.5pts
 
 
 

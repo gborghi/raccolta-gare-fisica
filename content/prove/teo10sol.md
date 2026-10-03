@@ -133,120 +133,47 @@ mare).
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 1
 {
-Travel
-in
-Gallery
+Journey in a tunnel
 90
-The Commission
-ti
-Question No
-n.
+Points
+Question no.
 1.
-In the
-Other
-electrical equipment or,
-from
-T
-Other
-di
-Gauss, what are you doing?
-si
-The result is
+In the electrostatic case, from
+Gauss's theorem, one obtains
 
-he
-il
-amp
-o
-in
-Other
-to the
-distribution
-uniform
-di
-the following points are inserted:
-Negative
-a
-v
-Other
+that the field inside the uniform distribution of negative charge is
 ~
-E
-(r
+E (r
 )
 =
  E
 0
 R
-~
-r
-do
-v
-e
+~ r where
 E
 0
 
-e
-il
-mo
-Other
-of the
-amp
-o
-p
-er
-r
+is the modulus of the field for r
 =
 R
 :
-In
-The following is the list of the products concerned:
-a
-We will.
-~
-g
-(r
+By analogy we will have
+~ g (r
 )
-=
- g
+= g
 0
 R
-~
-r
-do
-v
-e
+~ r where
 R
 
-e
-il
-Radius
-of the
-T
-error
-e
-g
-0
-The following table shows the results of the evaluation:
-di
-The following is the list of the
-The Commission
-a
-The following standard
-(a
-Other
-This is
-of the
-The Commission has not yet adopted a proposal.
+is the radius of the
+Earth and g
+0 the standard gravitational acceleration (at sea level).
 
-**Topic:** [[Gravitation]], [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -373,89 +300,43 @@ latitudine
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-This
-x
-la
-projection
-of the
-v
-Hector
-~
-r
-long
-la
-the gallery,
-The equation
-di
-Motorcycles
+Let x be the projection of the vector
+~ r along the tunnel, the equation of motion
 
-e
-That one.
-di
-un
-Motorcycles
-harmonies or:
+is that of a harmonic motion:
 m
 
 x
-=
- m
-g
+= m g
 0
-R
-x
+R x
 )
 
 x
 +
 !
-2
-x
+2 x
 =
-0
- on
+0 with
 !
 2
-=
-g
+= g
 0
 R
 )
-T
-o
+T o
 =
-2
-s
-R
-g
+2 s
+R g
 0
-being
-T
-o
-il
-p
-the air
-do
-di
-a bone of insulation
-- It's full.
-La
-Duration of the operation
-of the
-Travel
-(T
+where
+T o is the period of one complete oscillation.
+The duration of the trip (T
 )
 
-e
-The Commission
-a
-of the
-p
-the air
-do:
+is half of the period:
 T
 =
 
@@ -467,25 +348,13 @@ R
 2:53
 
 10
-3
-s
+3 s
 
-42
-Minimum number of days
-(indip)
-The Commission shall adopt implementing acts.
-te
-from
-latitude
+42 min (independent of latitude
 '
 !)
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -745,252 +614,139 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-La
-v
-I'm going to
- it
-a
-maximum
-si
-The Commission
-v
-a
- on
-la
-onserv
-Action
-energy
-o
- on
-la
-Law
-time:
+The maximum velocity is found with the conservation of energy or with the equation of motion:
 1
-2
-mv
-2
-Max
+2 mv
+2 max
 =
-U
-Max
- U
-Minimum number of days
-do
-v
-e,
-p
-er
-the symmetry,
-energy
-p
-The following information shall be provided:
+U max
+ U min where, by symmetry, the potential energy
 U
 
-e
-function
-only
-di
-r
+is a function only of r
 :
-U
-(r
+U (r
 )
 =
-U
-(0)
- Z
-r
-0
-m
-~
-g
-(r
+U (0)
+ Z r
+0 m
+~ g (r
 )
 
-~
-dr
+~ dr
 =
- Z
-r
-0
-m
-g
-(r
+ Z r
+0 m g (r
 )
 dr
-=
-m(g
+= m(g
 0
 =2R
 )r
-2
-a
-v
-Other
-p
-Other
-~
-g
-(r
+2 having set
+~ g (r
 )
-=
-g
-(r
+= g (r
 )
-^
-r
-=
- (g
+^ r
+= (g
 0
 =R
 )
-~
-r
-e
-U
-(0)
+~ r and
+U (0)
 =
 0
 :
-Being
-p
-oi
-r
-Max
+Since moreover r max
 =
-R
-ed
-r
-Minimum number of days
+R and r min
 =
-R
-Other
-'
-si
-The Commission
-v
-a
+R sin
+' one finds
  U
 =
-U
-Max
- U
-Minimum number of days
-=
-m
-g
+U max
+ U min
+= m g
 0
 2R
  R
 2
  R
-2
-Other
+2 sin
 2
 '
 
 =
 1
-2
-mg
+2 mg
 0
-R
- os
+R cos
 2
-'
-e
-So, what do you mean?
-v
-Max
-=
-p
+' and therefore v max
+= p
 2 U
 =m
-=
-p
-g
+= p g
 0
-R
- os
+R cos
 '
 =
-3:95
-km=s
+3:95 km=s
 :
-Or
-x(t)
+Alternatively x(t)
 =
-A
- os
+A cos
 !
-t
- on
+t with
 A
 =
-R
- os
+R cos
 '
 )
-v
-(t)
+v (t)
 =
  R
 !
- os
-'
-Other
+ cos
+' sin
 !
 t
 )
 )
-v
-Max
+v max
 =
 R
 !
- os
+ cos
 '
-=
-p
-g
+= p g
 0
-R
- os
+R cos
 '
-P
-ag.
+P ag.
 1
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+Ga ra
+National:
+SOLUTION of the
+T eo ry
+T est
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+April
 2010
 
-**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -1995,319 +1751,169 @@ R
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 5.
-Both
+Let
 
-la
-fraction
-di
-energy
-p
-Other
-in
-un
-Travel
-(semi-oiled
-(Full and complete)
-La
-the condition
+be the fraction of energy lost in one trip (half-oscillation complete).
+The condition
 
-e
+and
 
-he
+that
 Æ
 U
 =
 
- U
- on
+ U on
 
 =
 0:01
-Ma
-from the expression
-U
-(r
+But from the expression
+U (r
 )
-view
-al
-the following points are added:
-to
+seen at point
 3.
-si
-ri a
-v
-a
+one obtains
 Æ
 U
-U
-(r
+U (r
 )
 =
 2
-Æ
-r
-r
-P
-er
-r
+Æ r r
+For r
 =
-R
-si
-ha
-Æ
-r
+R one has
+Æ r
 =
 R
 2
 Æ
 U
-U
-(R
+U (R
 )
 =
  R
 2
 
  U
-U
-(R
+U (R
 )
-Æ
-r
+Æ r
 =
 
 R
-2
-mg
+2 mg
 0
-R
- os
+R cos
 2
 '
 2
-2
-mg
+2 mg
 0
 R
 =
  1
 2
 
-R
- os
+R cos
 2
 '
-La
-distance
-from
-station
-di
-I 'm coming
-o
-si
-The result is
-in
-ne
-human beings
+The distance from the arrival station is finally obtained as
 D
 =
 
-Æ
-r
- os
+Æ r cos
 '
 
 =
 1
 2
 
-R
- os
+R cos
 '
 
-15:9
-km
-An
-he
-Here, this is the
-in
-Other
-a,
-si
-p
-Other
-a
-to be considered
-human beings
-energy
-p
-The following information shall be provided:
-That one.
-of which:
-al
-Motorcycles
-harmonies or
-(man)
-In the
-Other
-di
-One of them.
-(From the bottom of the page)
-Date of the date
-da
+15:9 km
+Here too, alternatively, one could consider as potential energy the one related to harmonic motion (as in the case of a spring)
+given by
 U
 0
 =
 1
-2
-k
-x
-2
- on
-k
-=
-m
-g
+2 k x
+2 where k
+= m g
 0
 R
-Si
-v
-Other
-Right now.
+One immediately sees
 
-he
-This one
-di
-eris and
-da
-That one.
-The following is the list of the
-The Commission
-{
-Other, of a kind used for the manufacture of goods of heading 8106
-above
-{
-only
-p
-er
-un
-term
-Other
-te
+that this differs from the gravitational one
+{ calculated above
+{ only by a constant term
 
-he
-So, what do you mean?
-The following is the list of the
-in
-Other
-te:
-U
-(r
+which therefore turns out to be irrelevant:
+U (r
 )
 =
 1
-2
-m
-g
+2 m g
 0
-R
-r
+R r
 2
 =
 1
-2
-m
-g
+2 m g
 0
-R
-x
+R x
 2
 +
 1
-2
-m
-g
+2 m g
 0
-R
-y
+R y
 2
 =
 U
-0
-(x)
-+
-Other
-do
-v
-e
-y
+0 (x)
++ const where y
 
-e
-la
-distance
-of the
-Gallery
-from
- en
-The Commission
-of the
-T
-He's wrong.
-P
-ag.
+is the distance of the tunnel from the center of the
+Earth.
+Pag.
 2
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Physics Olympiads
+National
+Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+April
 2010
-La
-the condition
-si
-the expression
-Now
-human beings
+The condition is now expressed as
 Æ
 U
 0
 =
 
  U
-0
-e
+0 and
 Æ
 U
 0
 U
-0
-(x)
+0 (x)
 =
 2
-Æ
-x
-x
+Æ x x
 )
-Æ
-x
+Æ x
 =
 
 x
@@ -2315,46 +1921,28 @@ x
  U
 0
 U
-0
-(x)
-P
-er
-x
+0 (x)
+For x
 =
-R
- os
-'
-e
+R cos
+' and
  U
 0
 =
 U
-0
-(R
- os
+0 (R cos
 ')
-si
-withdrawal
-v
-a
+one finds again
 D
-=
-jÆ
-xj
+= jÆ xj
 =
 1
 2
 
-R
- os
+R cos
 '
 
-**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -2917,198 +2505,44 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 7.
-In the
-mo
-of the
-of the
-T
-error
-a
-two
-layers,
- on
-n
-The European Union
-p
-Other
-te,
-il
-amp
-o
-The following is the list of the
-living
-In the
-n
-The European Union
-Res and
-Linearmen
-te
- on
-r
-ed
+In the two-layer model of the Earth, with a heavy core, the gravitational field in the core is linearly dependent
 
-e
-o
-I'm going to go.
-te
-major
+and obviously greater
 
-he
-In the
-Other
-See also
-I'm not going to.
-This one.
+than in the case seen previously.
+This
 
-e
-v
-I was
-an
-he
-In the
-Man
-the textile;
-In fact,
-la
-density
-a
-of the
-Man
-Other textile materials
+is also true in the mantle;
+in fact the density of the mantle
 
-e
-The Commission shall adopt the following measures:
-te
-Minor
-di
-That one.
-of the
-T
-error
-of a kind used for the manufacture of goods
-e
-di
-the presence of a
+is necessarily less than that of the
+homogeneous Earth and consequently,
 
-Other
-One of them.
-Supplementary
-er
- ie
-The spheres a
-di
-Radius
-r
-In the
-Region
-of the
-Man
-the textile,
-la
-Other
-Other
+once a spherical surface of radius r in the mantle region is fixed, the external mass
 
-e
-Other
-te
-Minor
-Responsibility
-Other
-al
-Other
-of the
-T
-error
-It's the same.
-Di
-the frequency
-la
-Other
-of the
-Part
-in
-Other
-to the
-Supplementary
-er
- ie
+is certainly less compared to the case of the
+homogeneous Earth.
+Consequently the mass of the part inside the surface
 
-e
-Always
-major
-ed
+is always greater and
 
-e
-So, what do you mean?
-major
-an
-he
-il
-amp
-o
-The following is the list of the
-the life cycle;
-So, what?
-il
-Travel
-The duration
-a
-- I'm not.
-Il
-Motorcycles
-p
-er
-o
-Not
+therefore the gravitational field is also greater;
+hence the journey will last less.
+The motion, however, is no
 
-e
-pi
+longer harmonic since
 
-u
-harmonies or
-given
-
-he,
-only
-p
-er
-One of them.
-distribution
-the same,
-v
-Other
-la
-Dip
-Other, of a kind used for the manufacture of goods
-Linear
-between
-amp
-o
-e
-distance
-from
- en
-I'm going to try.
-The problem
-n.
+only for a homogeneous distribution does the linear dependence between field and distance from the center hold.
+PROBLEM no.
 2
 {
-Ci lo
-term
-Other, of a kind used for the manufacture of goods
+Thermodynamic cycle
 90
-The Commission
-ti
+Points
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -3214,14 +2648,9 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Problem no.
 1.
-P
-er
-la
-the transformation
-Other, of a kind used for the manufacture of goods
+For the isobaric transformation:
 T
 A
 V
@@ -3242,18 +2671,14 @@ A
 K
 Q
 C!A
-=
-n
-p
-(T
+= n p (T
 A
  T
 C
 )
 =
 7
-2
-nR
+2 nR
 T
 A
 =
@@ -3266,46 +2691,27 @@ K
 290
 K
 =
- 8:43
-kJ
-v
-Other
-any
-It's either
-lo
-State of the Union
+ 8:43 kJ valid whatever the state
 B.
-P
-ag.
+Pag.
 3
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiads of
+Physics
+National
+Competition:
+SOLUTION of the
+Theory
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+April
 2010
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -3966,195 +3372,49 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-La
-Temp
-Other
+The temperature
 T
-B
-In the
-State of the Union
-B
-It must be
-e
-to be
-major
-o
-equal to
-a
+B in state
+B must be greater than or equal to
 T
 C
-,
-o
-vv
-I was,
-In the
-- It 's not easy .
-p
+, that is, in the p
  V
-,
-B
-It must be
-e
-to be
-above
-the isothermal
-p
-er
+plane,
+B must lie above the isotherm for
 C.
-In fact,
-In the expansion
-the following:
-il
-la
-v
-gold
+Indeed, in an adiabatic expansion the work
 
-e
-p
-Other
-o
-a
-sp
-Exports
-energy
-in
-Other
-e
-So, what?
-la
-Temp
-Other
-pu
-o
-only
-Minimum number of days
-Other
-o
-Staying
-equal to
-(p
-er
-la
-v
-gold
-n
-the name of the person concerned,
-human beings
-Other
-Extreme .
-Ne
-follows
+is positive at the expense of internal energy and therefore the temperature can only decrease or remain equal (for zero work, as an extreme case).
+It follows
 
-he
-(T
+that (T
 B
 )
-Minimum number of days
+min
 =
 T
 C
 =
 580
 K
-Al
-Temp
-o
-itself,
-p
-oi
-h
+At the same time, moreover, since
 
-e
-le
-Other, not further worked than hot-rolled
-he
-The Commission shall adopt implementing acts.
-Other, of a kind used for the manufacture of goods
-I am
-the following information is provided:
-e
-Other
-en
-Tropical rainforests
-he,
-il
-the following points are added:
-to
-B
-It must be
-e
-to be
-below
-The following are the
-The Commission shall adopt implementing acts.
-Other, not further worked than cut
-p
-er
-C
-given
+the reversible adiabatic curves are isentropic curves, point
+B must lie below the reversible adiabatic curve for
+C given
 
-he
-l'en
-Other
-pu
-o
-only
-Other
-Other
-o
-al
-Not more than
-Staying
-Other
-te
-(se
-la
-the transformation
-of the
-Gas
-If it were
-a diaphragm of
-The Commission shall adopt implementing acts.
-The following is the list of the products:
-Il
-maximum,
-o
-I'm better off.
-The extreme
-Supplementary
-Other
-p
-er
-la
-Temp
-Other
+that entropy can only increase or at most remain constant (if the gas transformation were a reversible adiabatic).
+The maximum, or rather, the upper extreme for the temperature
 T
-B
-pu
-o
-to be
-to the wave
-su
-One of them.
-the transformation
-the following:
-The Commission shall adopt implementing acts.
-Other, not further worked than cut
-o
-v
-e
+B can be calculated for a reversible adiabatic transformation where
 T
 V
 
  1
-=
-the following:
-do
-v
-e
+= const, where
 
 =
 
@@ -4162,17 +3422,11 @@ p
 =
 V
 =
-7=5
-In the
-Other
-di
-Gas
-The biomaterials are not.
-So, what?
-(T
+7=5 in the case of a diatomic gas.
+Therefore (T
 B
 )
-Supplementary
+sup
 =
 
 V
@@ -4191,88 +3445,17 @@ C
 =
 765
 K
-Il
-Reasonamen
-to
-sv
-I'm going to
-above
-pu
-o
-to be
-developed
-a
-to leave
-from
-The same
-the following conditions are fulfilled:
-Say using
-i
-Div
-Other
- on
-Taxes
-di
-Other
-e
-la
-v
-gold
-p
-er
-determining the
-il
-v
-Other
-Minimum
-di
+The reasoning developed above can be developed starting from the same premises by discussing the various contributions of heat and work to determine the minimum value of
 T
-B
-e
-The Dutch
-la
-v
-Air conditioning
-di
-en
-Other
-p
-er
-il
-v
-Other
-- That's the best.
-In the
-followed
-si
-Indians
-herring
- on
+B and by calculating the entropy variation for the maximum value.
+In what follows,
 
-p
-e
+p and
 
-V
-i
-Other
-molars,
-Responsibility
-Other
-I will not let you go.
-te
-a
-pressure
-e
-v
-Other, of a kind used for the manufacture of foodstuffs
-Other
-te.
-P
-er
-un
- i lo
-term
-Other, of a kind used for the manufacture of goods
+will denote
+
+Molar values, respectively at constant pressure and volume.
+For an ideal thermodynamic [system]
  U
 =
 0
@@ -4282,120 +3465,64 @@ Q
 L
 Q
 A!B
-=
-n
-V
-(T
+= n
+V (T
 B
  T
 A
 )
 =
 5
-2
-nR
-(T
+2 nR (T
 B
  T
 A
 )
-absorbed
-Durand
-te
-the isotope
-Now
+absorbed during the isochoric [process]
 Q
 B!C
 =
-0
-being
-a diaphragm of
+0 being an adiabatic [process]
 Q
 C!A
-=
-n
-p
-(T
+= n p (T
 A
  T
 C
 )
 =
 7
-2
-nR
-(T
+2 nR (T
 A
  T
 C
 )
-Educated
-Durand
-te
-the isobarbaric
+ released during the isobaric [process]
 L
 A!B
 =
-0
-p
-er
-h
+0 because
 
-e
-Not
+e no
  '
 
-e
-v
-Air conditioning
-di
-v
-Other, of a kind used for the manufacture of foodstuffs
+e variation of volume
 L
 B!C
 
-0
-la
-v
-gold
-made
-v
-Other
-the outside
-In the abyss of
-Other
-Other, not further worked than cut
+0 the work done toward the outside in the irreversible adiabatic [process]
 L
 C!A
-=
-p
+= p
  V
-=
-nR
-(T
+= nR (T
 A
  T
 C
 )
 <
-0
-p
-er
-h
-
-e
-il
-Gas
-He 's coming .
-Other, of a thickness of not more than 10 mm
-P
-er
-il
-first
-The first
-si
-ha
-So, what?
+0 because the gas is compressed
+For the first principle one therefore has
 Q
 A!B
 +
@@ -4410,74 +3537,45 @@ C!A
 )
 L
 B!C
-=
-n
-V
-(T
+= n
+V (T
 B
  T
 A
 )
-+
-n
-p
-(T
++ n p (T
 A
  T
 C
 )
- nR
-(T
+ nR (T
 A
  T
 C
 )
 =
-=
-n
+= n
 V
 T
 B
-+
-n(
++ n(
 V
 +
 
 p
  R
 )T
-A
- n(
-p
+A n( p
  R
 )T
 C
-=
-n
-V
-(T
+= n
+V (T
 B
  T
 C
 )
-T
-♪ ♪ and it's all over ♪
-di
-an expansion
-il
-la
-v
-gold
-It must be
-e
-to be
-Not
-Negative
-o
-p
-er
- ui
-(T
+Since this is an expansion the work must be non-negative for which (T
 B
  T
 C
@@ -4490,47 +3588,30 @@ B
 
 T
 C
-P
-er
-The expansion
-the following:
-Other
-Other, not further worked than cut
-It must be
-e
-to be
+For the irreversible adiabatic expansion one must have
  S
 >
-0,
-o
-vv
-I was
+0, that is
  S
 B!C
-=
-nR
-ln
+= nR ln
 V
 C
 V
 B
-+
-n
-V
-ln
++ n
+V ln
 T
 C
 T
 B
-=
-nR
+= nR
 
 ln
 2
 +
 5
-2
-ln
+2 ln
 T
 C
 T
@@ -4547,8 +3628,7 @@ T
 B
 >
  2
-5
-ln
+5 ln
 2
 )
 T
@@ -4558,22 +3638,8 @@ B
 2=5
 T
 C
-In
-de
-Other
-a,
-p
-er
-la
-Temp
-Other
-of the
-State of the Union
-B
-v
-Other
-le
-Other articles of heading No.
+Ultimately, for the temperature of state
+B the conditions hold
 580
 K
 
@@ -4582,37 +3648,23 @@ B
 <
 765
 K
-P
-ag.
+Pag.
 4
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Competition:
+SOLUTION of the
+Theory Test
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+April
 2010
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -4948,106 +4000,32 @@ termi o.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-Il
- i lo
-sv
-I'm going to
-from
-Gas
+The cycle performed by the gas
 
-e
-State of the Union
-de
-Other
-Other, of a kind used for the manufacture of goods
-se
-il
-Gas
-Other
-la
-v
-gold
-on the outside:
+was defined as thermal if the gas does work on the surroundings:
 L
 >
-0
-e
-So, what do you mean?
-an
-he
+0 and therefore also
 Q
 >
 0;
-in
-Other
-Words
-il
-Gas
-Other, of a kind used for the manufacture of goods
-e
-pi
+in other words the gas absorbs more heat than it gives off;
+on the contrary, if the work
 
-u
-Other
-di
-When
-to
-ne
-the following:
-al
- on
-Other
-se
-il
-la
-v
-gold
-
-e
-made
-on the
-Gas
-from the outside
-(L
+is done on the gas from the outside (L
 <
-0
-e
+0 and
 Q
 <
 0)
-Then
-It shall be executed
-un
- i lo
-The fridge.
-Il
-v
-Other
-Other, of a kind used for the manufacture of goods
-di
+then it performs a refrigerator cycle.
+The particular value of
 T
-B
-p
-er
- ui
-il
- i lo
- am
-Other
-da
-Other, of a kind used for the manufacture of refrigerators
-a
-Other, of a kind used for the manufacture of goods
-si
-The result is
-So, what do you mean?
-Employment
-by the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
+B for which the cycle changes from refrigerator to thermal is therefore obtained by imposing
 
-he
+that
 Q
 =
 Q
@@ -5056,28 +4034,21 @@ A!B
 Q
 C!A
 =
-0
-o
-vv
-I was
+0 or rather
 Q
 A!B
 =
  Q
 C!A
 5
-2
-nR
-(T
+2 nR (T
 B
  T
 A
 )
 =
 7
-2
-nR
-(T
+2 nR (T
 C
  T
 A
@@ -5104,20 +4075,14 @@ A
 696
 K
 :
-Other
-I will not let you go.
-te:
+Alternatively:
 n
-V
-(T
+V (T
 B
  T
 A
 )
-=
-n
-p
-(T
+= n p (T
 C
  T
 A
@@ -5139,8 +4104,7 @@ p
 T
 A
 
-=
-(
+= (
 1
 +
 
@@ -5151,125 +4115,40 @@ A
 12
 5
 T
-A
-the following:
+A called
 T
-0
-such
-Temp
-the following:
-si
-ha
+0 that temperature, one has
 
-he
-p
-er
+that for
 T
 B
 <
 T
-0
-il
- i lo
+0 the cycle
 
-e
-refrigerator,
-Men and women
-three
-p
-er
+is a refrigerator, while for
 T
 B
 >
 T
-0
-il
- i lo
+0 the cycle
 
-e
-The term 'sopher'
-How
-Other
-Supplementary
-Other
-Extreme
-si
-ha
-That one.
-di
-a diaphragm of
-The Commission shall adopt implementing acts.
-Other, not further worked than cut
+is thermal.
+As a higher extreme case one has that of a reversible adiabatic
 
-he
-It makes
-The Commission shall adopt implementing acts.
-Other, not further worked than cut
-l'in
-Other
- i lo:
-Notes
+which makes the entire cycle reversible:
+note
 
-he
-only
-in
-This one.
-Other
-il
-la
-v
-gold
+that only in this case the work
 
-e
-The oval
-the following points are added:
-v
-Other
-the area
-of the
-- It 's not easy .
-p
- V
-Delimited
-from
-the following information is provided:
-a
+is calculable through the area of the p
+ V plane bounded by the curve
 
-he
-representing
-ta
-il
- i lo
-e
-only
-in
-This one.
-Other
-il
-v
-Other
-time
-di
-p
-The following is the list of the following:
-of the
- i lo
-sickness
+that represents the cycle and only in this case the clockwise direction of traversal of the cycle confirms
 
-he
-si
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-di
-un
- i lo
-The term 'sopher'
+that it is a thermal cycle.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -5618,18 +4497,9 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 4.
-Il
-The Commission shall adopt implementing acts.
-to
-di
-un
- i lo
-Other, of a kind used for the manufacture of goods
-
-e
+The efficiency of a heat engine
 
 =
 L
@@ -5649,49 +4519,22 @@ Q
 1
 =
 Q
-1
- jQ
-2
-j
+1 jQ
+2 j
 Q
 1
 =
-1
- jQ
-2
-j
+1 jQ
+2 j
 Q
-1
-do
-v
-e
+1 where
 Q
 
-e
-il
-Other
-Other
-I will not let you go.
-te
-s am
-the beaten,
-Men and women
-three
+is the total heat exchanged, while
 Q
-1
-e
+1 and
 Q
-2
-I am
-The other
-e
-Other
-I will not let you go.
-te
-absorbed
-e
-Educated
-(Q
+2 are those actually absorbed and released (Q
 1
 >
 0;
@@ -5699,17 +4542,9 @@ Q
 2
 <
 0).
-Il
-The Commission shall adopt implementing acts.
-to
+The efficiency
 
-e
-So, what do you mean?
-One of them.
-function
-of the
-Temp
-Other
+is therefore a function of temperature
 T
 B
 :
@@ -5724,19 +4559,16 @@ C!A
 Q
 A!B
 =
-1
- n
+1 n
 
-p
-(T
+p (T
 C
  T
 A
 )
 n
 
-V
-(T
+V (T
 B
  T
 A
@@ -5748,8 +4580,7 @@ p
 T
 A
 
-V
-(T
+V (T
 B
  T
 A
@@ -5763,14 +4594,7 @@ B
 =T
 A
  1
-The expression
-of the
-The Commission shall adopt implementing acts.
-to,
-v
-other than
-p
-er
+The expression for the efficiency, valid for
 696
 K
 <
@@ -5780,67 +4604,44 @@ B
 765
 K,
 
-e
-One of them.
-function
-The following is the list of the categories of products:
-The following is a list of the
-te
-di
+is a monotonically increasing function of
 T
 B
 .
-Number of the
-te
-It is:
+Numerically it turns out:
 
 (696
 K)
 =
-0
-ed
+0 and
 
 (765
 K)
 =
 0:15
-The Commission has already taken a decision on the
-Other refrigerating equipment
+The refrigeration efficiency
 "
 =
 Q
-1
-The following is the list of the Member States:
+1 jLj
 =
 Q
-1
-j
+1 j
 Qj
 =
 Q
-1
-jQ
-2
-j
+1 jQ
+2 j
  Q
 1
 =
-1
-jQ
-2
-j
+1 jQ
+2 j
 =Q
 1
  1
 
-e
-I'm not sure.
-One of them.
-function
-The following is the list of the categories of products:
-The following is a list of the
-te
-di
+is also a monotonically increasing function of
 T
 B
 :
@@ -5848,10 +4649,8 @@ B
 B
 )
 =
-1
-jQ
-C!A
-j
+1 jQ
+C!A j
 =Q
 A!B
  1
@@ -5861,11 +4660,9 @@ n
 
 p
 T
-A
-n
+A n
 
-V
-(T
+V (T
 B
  T
 A
@@ -5883,15 +4680,11 @@ A
  1
 
  1
-Si
-ri a
-v
-a:
+One obtains:
 "(580
 K)
 =
-2:5
-ed
+2:5 and
 "(T
 B
 !
@@ -5900,59 +4693,31 @@ K)
 !
 1
 :
-I
-The following is the list of the
- i
-of the
-two
-Parameters
-I am
-RIP
-Other articles of heading No.
-Here .
-- Down here.
-P
-ag.
+The graphs of the two parameters are shown below.
+Pag.
 5
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Competition:
+SOLUTION of the
+Theoretical
+Test
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+April
 2010
-The problem
-n.
+PROBLEM no.
 3
 {
-The Commission shall adopt implementing acts.
-I 'm going to
-il
-Fund
+Exploring the bottom
 50
-The Commission
-ti
+Points
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -8389,122 +7154,63 @@ L=n.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 2.
-How
-si
-pu
-o
-an
-he
-the following paragraphs are added:
-from
+As can also be understood from the
 
-the mouth,
-la
-p
-The Commission shall adopt implementing acts.
-Geometers a
-`
-of the image
+figure, the geometric position
+` of the image
 A
-0
-Minimum number of days
-Uis and
-al
-Other
-di
-#,
-So, what do you mean?
-si
-ha
-`
-Minimum number of days
-When
+0 decreases as
+# increases,
+therefore one has
+` min when
 #
 =
 90
-Æ
-e
-`
-Max
-When
+Æ and
+` max when
 #
 =
 0
 Æ
 .
-P
-er
+For
 #
 =
 90
-Æ
-,
- os
+Æ, cos
 #
 =
-0,
-Other
+0, sin
 '
 =
-1=n
-e
- os
+1=n and cos
 '
-=
-p
-n
+= p n
 2
- 1=n,
-p
-er
- ui
-from
-(4)
-si
-ha
-`
-Minimum number of days
+ 1=n, so from (4)
+one has
+` min
 =
 0.
-P
-er
+For
 #
 =
 0
-Æ
-an
-he
+Æ also
 '
 =
 0
-Æ
-o
-vv
-I was
-x
+Æ i.e. x
 =
-0,
-p
-er
- ui
-from
-(5)
-si
-ha
-`
-Max
+0, so from (5)
+one has
+` max
 =
 L=n.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -8624,112 +7330,48 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 3.
-Il
-Not more than
-v
-Other
-di
-x
-si
-ha
-When
-il
-v
-Other
-below
-la
-radi and
-square
-In the
-(5)
-si
-The Commission
-The following is the list of the products:
-(not
-pu
-o
-to be
-Negative
-o
-p
-er
-`
-(Real)
-So, what do you mean?
-x
-Max
+The maximum value of x is obtained when the value under the square root in (5)
+vanishes (it cannot be negative for
+` real)
+therefore x max
 =
-L
-p
-n
+L p n
 2
- 1
-e
-the area
-of the
-Supplementary
-er
- ie
-Other
-a
-of the
-The following table shows the following:
+ 1 and the area of the overall seabed surface
 
-he
-pu
-o
-to be
-See also
-Other
+that can be observed
 
-e
+is
 S
 =
 
 x
-2
-Max
+2 max
 =
 
 L
-2
-n
+2 n
 2
  1
-P
-ag.
+Page
 8
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olympiad of
+Physics
+National Competition:
+SOLUTION of the
+Theoretical Test
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+April
 2010
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -8762,25 +7404,14 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 4
 {
-Co
-Other
-in
-un
-ring
+Currents in a ring
 70
-The Commission
-ti
+Points
 
-**Topic:** [[Circuits]], [[Magnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -8962,25 +7593,13 @@ mm
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 1.
-La
-resistance
-Equivalent to
-Other
-te
-between
-i
-the following points are added:
-ti
-A
-e
+The equivalent resistance between points
+A and
 B
 
-e
-Date of the date
-da
+is given by
 R
 ?
 =
@@ -8992,32 +7611,24 @@ R
 1
 +
 R
-2
- on
-R
-i
+2 where
+R i
 =
-`
-i
+` i
 
 being
 
-the area
-of the
-Section
-of the
+the cross-sectional area of the
 
-lo;
-being
+wire;
+since
 R
 1
 +
 R
 2
 =
-L=
-si
-ha
+L, one has
 R
 ?
 =
@@ -9027,59 +7638,28 @@ R
 `
 2
 L
-=
-x(1
- x)
+= x(1 x)
 L
 
-A
-Other articles
-te
-Other
-te
-(I
+For constant current (I
 0
 )
-la
-maximum
-d.d.p.
-si
-ha
-When
+the maximum potential difference
+occurs when
 
-e
-maximum
-la
-resistance
-Equivalent to
-Other
-te
- io
+the equivalent resistance is maximum, that is
 
-e
-p
-er
-x
+and for x
 =
-1=2,
-o
-vv
-I was
-When
+1=2, that is when
 B
 
-e
-Other, of a width of not more than 600 mm
-te
-Op.
-Other
-ad
+is diametrically opposite to
 A.
-Si
-ha
+One has
 R
 ?
-Max
+max
 =
 1
 4
@@ -9099,20 +7679,13 @@ L
 I
 0
 4V
-0
-da
- ui
-in
-ne
-d
+0 whence finally d
 =
 2r
 =
-2
-r
+2 r
 
-=
-r
+= r
 
 L
 I
@@ -9121,15 +7694,9 @@ I
 V
 0
 =
-0:624
-mm
+0:624 mm
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -9248,34 +7815,21 @@ an o.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Problem no.
 2.
-La
-d.d.p.
+The potential difference
 
-e
-Prop
-the following table is inserted:
-to the
-resistance
-Equivalent to
-Other
-te:
-V
-(x)
+is proportional to the equivalent resistance:
+V (x)
 =
 I
 0
 R
 ?
 (x)
-=
-x(1
- x)I
+= x(1 x)I
 0
-R
- on
+R on
 R
 =
 R
@@ -9288,23 +7842,10 @@ L=
 =
 1:6
 
-Notes
+Note
 
-he
-la
-d.d.p.
-pu
-o
-to be
-v
-Other
-in
-two
-mo
-di
-Equivalent to
-Other
-ti
+that the potential difference
+can be evaluated in two equivalent ways
 V
 =
 R
@@ -9315,9 +7856,7 @@ I
 R
 2
 I
-2
-da
- ui
+2 from which
 `
 1
 I
@@ -9326,33 +7865,15 @@ I
 `
 2
 I
-2
-(to serve
-a
-after
-o)
-Il
-The following is the list of the
- o
-ri
-Heist
-di
-V
-(x)
+2 (will be useful later)
+The requested graph of
+V (x)
 
-e
-RIP
-Other, not elsewhere specified or included
-a
+is shown in
 
-an o.
+the appendix.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -9554,33 +8075,20 @@ W
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Problem no.
 3.
-P
-Other
+Given
 
-he
+that
 R
 1
-=
-xR
-ed
+= xR and
 R
 2
-=
-(1
- x)R
-,
-la
-p
-the authorisation
-Dispersed
-In the
-first
-ar o
+= (1 x)R
+, the power dissipated in the first branch
 
-e
+is
 W
 1
 =
@@ -9588,8 +8096,7 @@ R
 1
 I
 2
-1
- on
+1 where
 I
 1
 =
@@ -9607,95 +8114,60 @@ I
 0
 R
 2
-R
-(supply)
-di
-Other articles
-te).
-So, what?
+R (current divider).
+Therefore
 W
-1
-(x)
-=
-xR
+1 (x)
+= xR
 I
 2
-0
-(1
- x)
+0 (1 x)
 2
 R
 2
 R
 2
-=
-x(1
- x)
+= x(1 x)
 2
 I
 2
 0
 R
-Notes
+Note
 
-he
+that
 W
-1
-(x)
-Not
-
-e
-symmetry to
-Responsibility
-Other
-a
-x
+1 (x)
+is not symmetric with respect to x
 =
 1=2.
-Il
-Not more than
-di
+The maximum of
 W
-1
-si
-The Commission
-v
-a
-derivatives
-I 'm going
-dW
-1
-(x)
+1 is found by differentiating dW
+1 (x)
 dx
 =
 
-(1
- x)
+(1 x)
 2
- 2x(1
- x)
+ 2x(1 x)
 
 I
 2
 0
 R
-=
-(1
- x)(1
+= (1 x)(1
  3x)I
 2
 0
 R
 =
-0
-p
-er
-x
+0 for x
 =
 1
 3
 W
-1,max
+1;max
 =
 4
 27
@@ -9704,44 +8176,19 @@ I
 0
 R
 =
-14:8
-mW
-When
-i
+14:8 mW when the
 
-li
-form
-un
-angle
-di
+wires form an angle of
 120
 Æ
 .
-An
-he
-Here, this is the
-a
+Also here, below
 
-an o
-
-e
-RIP
-Other, not elsewhere specified or included
-il
-The following is the list of the
- o
-of the
-function
+is shown the graph of the function
 W
-1
-(x).
+1 (x).
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
 
@@ -9945,37 +8392,13 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 4.
-Il
-amp
-o
-Magnets or
-al
- en
-The Commission
-of a kind used for the manufacture of goods
+The magnetic field at the center of the ring
 
-e
-n
-The following is the list of the countries of the European Union:
-in
-Each
-I'm not going to.
-In fact,
-Re-ordering
-the expression
-di
-Lapla and
-p
-er
-il
-the oil
-of the
-amp
-o
-magnetic or,
+is null in every case.
+In fact, recalling the expression of
+Laplace for the calculation of the magnetic field,
 ~
 B
 =
@@ -9985,71 +8408,25 @@ I
 4
 Z
 
-~
-d`
+~ d`
 
-^
-r
-r
-2
-il
- on
-Tribute
-of the
-two
+^ r r
+2 the contribution of the two
 
-li
-Other, of a width of not more than 600 mm
+straight segments
 
-e
-n
-The following is the list of the countries of the European Union:
-being
-These
-aligned
- ol
- en
-The Commission
-of a kind used for the manufacture of goods
-(e
-So, what do you mean?
-~
-d`
+is null since these are aligned with the center of the ring (and therefore
+~ d`
 
-^
-r
+^ r
 =
 0)
-e
-p
-er
-i
-two
-ar
-hi
-p
-Bears
-da
-Other articles
-ti
-in
-v
-Other
-Op.
-This,
-said
-a
-il
-Radius
-of a kind used for the manufacture of goods
-[
-a
+and for the two arcs traversed by currents in opposite directions, given a the radius of the ring
+[ a
 =
 L=(2
 )
-℄,
-si
-ha
+℄, si ha
 B
 =
 
@@ -10073,8 +8450,7 @@ L
 0
 
 L
-2
-(
+2 (
 `
 1
 I
@@ -10094,46 +8470,28 @@ I
 I
 2
 =
-0
-human beings
-si
+0 ome si
 
-e
-See also
-al
-the following points are added:
-to
+e visto al pun to
 2.
-P
-ag.
+P ag.
 9
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
+Olimpiadi di
+Fisi a
+Ga ra
+Nazionale:
+SOLUZIONE della
+Prova
+T eo ri a
 {
-The following is the list of countries:
+Senigallia
 {
 9
-Ap
-Reels
+Ap rile
 2010
 
-**Topic:** [[Magnetism]], [[Circuits]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
 
@@ -10356,155 +8714,39 @@ ag.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
+Question no.
 5.
-Le
-Responsibility
-Other
+Answers
 1,
-2
-e
-3
-Not
- am
-white;
- am
-Other
-in
-v
-e e
-il
-amp
-o
-Magnets or
-al
- en
-The Commission
-The ring.
-Now, now.
-It
+2 and
+3 do not change;
+what changes is the magnetic field inside the ring.
+Now it
 
-e
-do
-I 'm not sure
-al
+is due to the
 
-lo
-p
-Other
-Other, of a kind used for the manufacture of goods
-ed
+perpendicular and
 
-e
-So, what do you mean?
-In the
-- It 's not easy .
-the ring;
-il
-his
-mo
-Other
+therefore in the plane of the ring;
+its magnitude
 
-e
- om
-Other
-Indip
-The Commission shall adopt implementing acts.
-te
-from
-p
-The Commission shall adopt implementing acts.
-di
-B
-(this is the case for
-da
-x)
-e
-pu
-o
-to be
-ri a
-v
-the act
-from the expression
-di
-Lapla and
-Date of the date
-above,
-o
-pi
+is however independent of the position of
+B (therefore of x)
+and can be obtained from the expression of
+Laplace given above, or more
 
-u
-Other
-te
- on
-The Commission shall adopt the following measures:
-di
-the symmetry,
-See also
-I 'm going
+simply from symmetry considerations, observing
 
-he
-two
-Tracts
-in
-Other
-di
+that two infinitesimal stretches of
 
-lo
-Other
-Other
-♪ I 'm going to be a little bit more ♪
-te
-Responsibility
-Other
-ad
-un
-- It 's not easy .
-orthodox
-al
+wire arranged symmetrically with respect to a plane orthogonal to the
 
-lo
-itself,
-Damages
-equal to
- on
-Taxes
-al
-amp
-o
-to the wave
-in
-un
-the following points are added:
-to
-any
-of the
-- I'm not going to.
-So, what?
-il
-mo
-Other
-of the
-amp
-o
+wire itself give equal contributions to the field calculated at any point of the plane.
+Therefore the magnitude of the field
 
-e
-The Commission
-a
-di
-That one.
-di
-un
+is half that of an
 
-lo
-Other, of a kind used for the manufacture of goods
-Other
-Other
-e
-v
-Other
+infinite straight wire and equals
 B
 =
 1
@@ -10513,8 +8755,7 @@ B
 0
 I
 0
-2
-a
+2 a
 =
 
 0
@@ -10524,43 +8765,22 @@ I
 =
 0:157
 T
-Other materials
-for
-The Commission shall adopt the following:
-from
-Group
-o
-Olympic Games
-Project
-Project
-Olympic Games
+Material produced by the group
+OLIMPIADI
+PROGETTO
+PROGETTO
+OLIMPIADI
 Secretariat
-The Olympics
-Italian
-of the
-The following is a list of
-p
-I'm not sure.
-Li eo
-The Commission
- o
+Italian Olympiads of
+Physics at Liceo
+Scientifico
 \U.
-Mo
-'R'
-The Commission
-The Master
-The fax:
-041.584.1272
-E-mail:
-Free olives
-t
-P
-ag.
+Morin"
+VENICE
+MESTRE fax:
+041.584.1272 e-mail:
+olifis libero.it
+Pag.
 10
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)

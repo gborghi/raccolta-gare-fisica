@@ -68,18 +68,13 @@ Martina sta fotografando un albero posto a $10\ \mathrm{m}$ dall'obiettivo della
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Messa a fuoco**
+**Focusing**
 
-Martina is photographing a tree set at $10\ \mathrm{m}$ from the lens of the machine, when she decides to change the subject and point the moon, which is clearly visible even during the day. La macchina che sta usando può essere schematizzata come una lente sottile convergente di lunghezza focale $10\ \mathrm{cm}$, posta davanti al sensore, che si può spostare tramite una vite. At each full rotation of the screw, the sensor moves along the optical axis of $2\ \mathrm{mm}$. Assuming the tree is on fire at first, from which angle does Martina have to spin the screw to ignite the moon?
+Martina is photographing a tree located $10\ \mathrm{m}$ from the camera lens, when she decides to change subject and point at the Moon, which is clearly visible even during the day. The camera she is using can be schematized as a thin converging lens with focal length $10\ \mathrm{cm}$, placed in front of the sensor, which can be moved by means of a screw. For each complete rotation of the screw, the sensor moves along the optical axis by $2\ \mathrm{mm}$. Assuming that initially the tree is in focus, by what angle must Martina rotate the screw to bring the Moon into focus?
 
-**Unità di misura:** $^\circ$. **Precisione richiesta:** 0.5%.
+**Units of measurement:** $^\circ$. **Required precision:** 0.5%.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VnBqd3MjwH3Z_IDdeRHAJrMf-jzk1fd_/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
 
 
 
@@ -183,18 +178,13 @@ Il satellite Gaia è in grado di misurare la posizione delle stelle che osserva 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Gaia**
 
-The Gaia satellite is able to measure the position of the stars it observes with an accuracy of $24$ microarcoseconds. How far should the thickness of a human hair be observed for it to be so angled?
+The Gaia satellite is able to measure the position of the stars it observes with a precision of $24$ microarcseconds. At what distance would one need to observe the thickness of a human hair for it to subtend such an angle?
 
-The following is the list of the measurement units: The following information is provided:
+**Unit of measurement:** m. **Required precision:** 300.0%.
 
-**Topic:** [[Astrophysics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Satellite (object)|Satellite]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1VnBqd3MjwH3Z_IDdeRHAJrMf-jzk1fd_/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
 
 
 
@@ -257,18 +247,13 @@ Gli alieni del pianeta elektron hanno migliorato il loro bizzarro modo di imprig
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prigioni aliene 2.0**
+**Alien Prisons 2.0**
 
-Gli alieni del pianeta elektron hanno migliorato il loro bizzarro modo di imprigionare i detenuti: adesso riempiono una stanza con un campo magnetico verticale uniforme, di modulo $1\ \mathrm{mT}$, e tolgono l'aria. They then prepare a continuous high-speed beam of electrons that is fired inside the room at an angle $\theta = 88^\circ$ to the magnetic field. The electrons will travel through a helicoidal trajectory, which can therefore be considered to be of a cylindrical surface. High-energy electron beams are very dangerous, so someone inside the cylinder is unable to get out (the cylinder's bases are closed by ceiling and floor). How fast do electrons have to be fired to provide a tread area of $5\ \mathrm{m}^2$?
+The aliens from the planet elektron have improved their bizarre way of imprisoning detainees: now they fill a room with a uniform vertical magnetic field of magnitude $1\ \mathrm{mT}$, and remove the air. They then prepare a continuous beam of high-speed electrons that is fired into the room at an angle $\theta = 88^\circ$ with respect to the magnetic field. The electrons will travel along a helical trajectory, which can therefore be considered as belonging to a cylindrical surface. High-energy electron beams are very dangerous, so anyone inside the cylinder is unable to leave it (the bases of the cylinder are closed by ceiling and floor). At what speed must the electrons be fired to provide a walkable area of $5\ \mathrm{m}^2$?
 
-**Unità di misura:** m/s. **Precisione richiesta:** 0.5%.
+**Unit of measurement:** m/s. **Required precision:** 0.5%.
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Particle Beam (object)|Particle Beam]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1VnBqd3MjwH3Z_IDdeRHAJrMf-jzk1fd_/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
 
 
 
@@ -598,15 +583,10 @@ Un satellite si muove su un'orbita circolare attorno a un pianeta sferico di rag
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the countries of the European Union:
+**Collision between satellites**
 
-A satellite moves in a circular orbit around a spherical planet with a radius $2\times10^3\ \mathrm{km}$, without atmosphere. Another satellite, with the same mass as the first, falls radially toward the planet, leaving at zero speed from a very large distance. The two satellites collide completely anaelastically, merging into a single body, which moves on a new tangent orbit to the planet's surface. What was the radius of the first satellite's circular orbit worth?
+A satellite moves on a circular orbit around a spherical planet of radius $2\times10^3\ \mathrm{km}$, with no atmosphere. Another satellite, with the same mass as the first, falls radially toward the planet, starting with zero velocity from a very large distance. The two satellites collide in a completely inelastic way, merging into a single body, which moves on a new orbit tangent to the surface of the planet. What was the radius of the circular orbit of the first satellite?
 
-The unit of measurement: ** km. The following information is provided:
+**Unit of measurement:** km. **Required precision:** 0.5%.
 
-**Topic:** [[Gravitation]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1VnBqd3MjwH3Z_IDdeRHAJrMf-jzk1fd_/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1CTFjBtJieE3fBBoXb3OQPdGuHpZVBZq2/view)

@@ -109,93 +109,86 @@ TOTALE — 115
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Sigla: Correttori**
+**Code: Graders**
 
-Physics Olympics 2013  National competition  Experimental test
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Physics Olympiad 2013 – National Competition – Experimental Test
+Grading Grid
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Code: Graders:
 
-Max points, points.
+Max Points | Points
 
-**1  Average distance between coils**
+**1 — Average distance between the coils**
 
-Correct measurement, clearly described (1 pt)  1
-Plausible value (7  10 mm) with uncertainty (1 pt)  1
-Espressione corretta della misura $d$ (1 pt) — 1
+Correct measurement, clearly described (1 pt) — 1
+Plausible value (7 – 10 mm) with uncertainty (1 pt) — 1
+Correct expression of the measurement $d$ (1 pt) — 1
 
-**2  1 cm2 weight of aluminium foil **
+**2 — Mass of 1 cm² of aluminum foil**
 
-Correct measurement clearly described (1 pt)  1
-Maximize the arms: arm > 9 cm (0.5 + 0.5 pt)  1
-The following table shows the results of the calculation:
-Correct consistent calculation (2 pt)  2
-Value with at least two significant digits and minus $\Delta m_1$ from $3{,}39\cdot10^{-3}\ \text{g}$:
+Correct measurement clearly described (1 pt) — 1
+Maximize the arms: arm > 9 cm (0.5 + 0.5 pt) — 1
+Achieves equilibrium (2 pt) Repeats (2 pt/equilibrium) max 10 pt — 10
+Correct coherent calculation (2 pt) — 2
+Value with at least two significant digits and deviation $\Delta m_1$ from the value $3{,}39\cdot10^{-3}\ \text{g}$ :
 $\Delta m_1\leq0{,}1\cdot10^{-3}\ \text{g}$ (5 pt) — $\Delta m_1 = 0{,}2\cdot10^{-3}\ \text{g}$ (2 pt) — $\Delta m_1 > 0{,}2\cdot10^{-3}\ \text{g}$ (0 pt) — 5
-Uncertainty of direct and indirect measurements (1 + 1 pt)  2
-Correct expression of the measurement (1 pt)  1
+Uncertainty of direct and indirect measurements (1 + 1 pt) — 2
+Correct expression of the measurement (1 pt) — 1
 
-Total  25
+total — 25
 
-**3 — Corrente $I$ vs $n$ in repulsione**
+**3 — Current $I$ vs $n$ in repulsion**
 
-Clear table (1 pt), with unit of measurement (1 pt), uncertainties of $I$ (1 pt)  3
-Reliable values for $I$, with any repetitions for a given $n$ (0,5 pt/mis → max 10 pt)  10
-Formula $I^2 = k\,n$ or equivalent (2 pt)  2
-Correct calculation of $k$ by linear graph or linear regression with calculator (10 pt)
-by weighted arithmetic mean (5 pt)  10
-Value with at least two significant digits and minus $\Delta k$ from the reference values (see paragraphs 1 and 2). Table 3 to 4
-$|\Delta k|\leq0{,}002\ \text{A}^2$ (5 pt) — $|\Delta k| = 0{,}003\ \text{A}^2$ (2 pt) — $|\Delta k| > 0{,}003\ \text{A}^2$ (0 pt) — 5
-The value of the uncertainty of $k$ (2 pt)  2
-Correct expression of the measurement (1 pt)  1
+Clear table (1 pt), with units of measurement (1 pt), uncertainties of $I$ (1 pt) — 3
+Reliable values for $I$, with possible repetitions for a given $n$ (0.5 pt/measurement → max 10 pt) — 10
+Formula $I^2 = k\,n$ or equivalent (2 pt) — 2
+Correct calculation of $k$ from linearized graph or from linear regression with calculator (10 pt)
+from unweighted arithmetic mean (5 pt) — 10
+Value with at least two significant digits and deviation $\Delta k$ from the reference values (see tab3-4 on page 4)
+$|\Delta k|\leq0{,}002\ \text{A}^2$ (5 pt) — $|\Delta k| = 0{,}003\ \text{A}^2$ (2 pt) — $|\Delta k| > 0{,}003\ \text{A}^2$ (0 pt) — 5 evaluates the uncertainty of $k$ (2 pt) — 2
+Correct expression of the measurement (1 pt) — 1
 
-**4 — Forza elettrodinamica vs $I$ in repulsione**
+**4 — Electrodynamic force vs $I$ in repulsion**
 
-Correct and clear mathematical procedure (4 pt)
-Write the formula $F = k'\,I^2$ or equivalent (2 pt)  2
-Value of $k'$ consistent with the mass measurement of the samples and $k = I^2/n$ (2 pt)  2
-The value of the uncertainty of $k'$ (2 pt)  2
-Correct expression of the measurement (1 pt)  1
+Correct mathematical procedure (4 pts) and clear (1 pt) — 5
+Writes formula $F = k'\,I^2$ or equivalent (2 pts) — 2
+Value of $k'$ consistent with the mass measurement of the samples and of $k = I^2/n$ (2 pts) — 2
+Evaluates uncertainty of $k'$ (2 pts) — 2
+Correct expression of the measurement (1 pt) — 1
 
-Total  45
+total — 45
 
-**5 — Circuito per correnti concordi**
+**5 — Circuit for currents in the same direction**
 
-Drawing, including limited to modifications only, correct (4 pt) clear (1 pt)  5
-Performs the circuit (at least one measurement of $I$ in attraction) (5 pt)  5
+Drawing, even limited to the modifications only, correct (4 pts) clear (1 pt) — 5
+Builds the circuit (there is at least one measurement of $I$ in attraction) (5 pts) — 5
 
-**6 — Tabella $I$ vs $n$ in attrazione**
+**6 — Table $I$ vs $n$ in attraction**
 
-It does not indicate any concern (see paragraphs 1 and 2). The following is the list of the following:
-Indicate at least one approach (see. The following information is provided by the Commission:
-Obtains values of $I$ in excess or defective of the repulsion equivalent (see paragraphs 1 and 2). Answer (4)
-The Commission has already adopted a number of proposals for a new approach to the protection of workers. The following information shall be provided:
+Does not indicate any precaution (see answer 8): 0.2 pts/meas (max 2 pts) — (2)
+Indicates at least one precaution (see answer 8): 0.5 pts/meas (max 5 pts) — (5)
+Obtains values of $I$ in excess or in defect with respect to the corresponding ones in repulsion (see answer 4) that are definitely consistent with the precaution (see answer 8) 1 pt/meas (max 10 pts) — 10
 
-**7  Explanation of the instability of the equilibrium in attraction**
+**7 — Explanation of the instability of equilibrium in attraction**
 
-Full correct explanation clear (15 pt)  15
+Correct complete clear explanation (15 pts) — 15
 
-Electrical power. varies as the distance between the coils varies (0,5 pt), increases or decreases (0,5 pt)  (1)
-Consider the three moments of the three forces at play (1 pt)  (1)
-Balancing effect of the weight of the yoke (3 pt)  (3)
-Comparison between moment of the weight of the yoke and delta-moment of electrodynamic force (4 pt)  (4)
-Dependence on current value $I$ of stability or not (5 pt)  (5)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+Electrodynamic force varies as the distance between the coils varies (0.5 pts), increases or decreases (0.5 pts) — (1)
+Considers the three moments of the three forces involved (1 pt) — (1)
+Balancing effect of the weight of the yoke (3 pts) — (3)
+Comparison between the moment of the weight of the yoke and the “delta-moment” of electrodynamic force (4 pts) — (4)
+Dependence on the value of the current $I$ of the stability or otherwise (5 pts) — (5)
+Clear explanation (1 pt) — (1)
 
-**8 — Accorgimenti**
+**8 — Precautions**
 
-Use the hand or mobile support to influence horizontal position deviations (2 pt)  (2)
-Use fixed support appropriately (5 pt) indicating excess or defective errors for $I$ (5 pt)  10
+Use your hand or a movable support to counteract deviations from the horizontal position (2 pts) — (2)
+Use a fixed support appropriately (5 pts) indicating errors in excess or in defect for $I$ (5 pts) — 10
 
-Total  45
+total — 45
 
-Other significant amounts (2 pt/max 10 pt) [note at the bottom of the page] BONUS
+Other significant precautions (2 pts/precaution max 10 pts) [note them in a footnote] BONUS
 
-Total of the total
+TOTAL — 115
 
-**Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Circuits]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Coil (object)|Coil]], [[Beam (object)|Beam]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1IyC0r7q2DK_KUn1JOzC2RyM0_WG8vpZa/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)

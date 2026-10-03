@@ -267,32 +267,27 @@ I due fili rettilinei vengono collegati (a grande distanza) ad un generatore di 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The value of the underlying asset shall be the sum of the outstanding exposures to the underlying asset.
+**Currents in a ring** — 70 points
 
-A long $l = 100\,\text{m}$ conductive wire is bent to form a circular ring (see paragraphs 1 and 2). The Commission has not yet adopted a proposal. A straight conducting wire is fixed to the plane A of the ring and a second wire equal to the first is connected to the ring via a flowing contact (point B); the two wires lie in the same direction it always remains radial: all the wires lie in the same plane.
+A conducting wire of length $l = 100\,\text{m}$ is bent so as to form a circular ring (see figure). A straight conducting wire is fixed on plane A of the ring and a second wire identical to the first is connected to the ring by means of a sliding contact (point B); the two wires lie in the same direction and it is always kept radial: all the wires lie in the same plane.
 
-The lengths of the two arcs between points A and B shall be $\ell_1$ and $\ell_2$ and $x = \ell_1 / l$ shall be a dimension parameter defining the position of point B.
+Let $\ell_1$ and $\ell_2$ be the lengths of the two arcs between points A and B, and let $x = \ell_1 / l$ be a dimensionless parameter that defines the position of point B.
 
-The two straight wires are connected (long distance) to a current generator $I_0 = 250\,\text{mA}$ and the d.d.p. is measured. between points A and B: it is found that the maximum of such D.D.P. è $V_0 = 12\,\text{mV}$.
+The two straight wires are connected (at a great distance) to a current generator $I_0 = 250\,\text{mA}$ and the potential difference between points A and B is measured: it is found that the maximum of this potential difference is $V_0 = 12\,\text{mV}$.
 
-1. Determine the thickness (section) of the constant thread.
+1. Determine the thickness (of the cross-section) of the constantan wire.
 
-2. Draw the chart of the D.D.P. $V$ measured between A and B as a function of $x$.
+2. Plot the graph of the potential difference $V$ measured between A and B as a function of $x$.
 
-3. Draw the graph of the Joule dissipation power in the length arc $\ell_1$, as a function of $x$, and determine the maximum value by determining the position of point B.
+3. Plot the graph of the power dissipated by the Joule effect in the arc of length $\ell_1$, as a function of $x$, and determine the maximum value, identifying the position of point B.
 
-4. Draw the graph of the magnetic field $\vec{B}$ module at the centre of the ring, according to $x$.
+4. Plot the graph of the magnitude of the magnetic field $\vec{B}$ at the center of the ring, as a function of $x$.
 
-5. The second straight wire applied to the mobile contact B is now laid perpendicular to the plane of the ring and the first wire. Answer the previous questions in the new situation.
+5. The second straight wire applied to the movable contact B is now arranged perpendicular to the plane of the ring and of the first wire. Answer the previous questions in the new situation.
 
 <!--fig:start-->
-The manufacturer shall ensure that the manufacturer is able to provide the manufacturer with the necessary information.
+**p.3** — Conducting ring with points A, B
 ![[_attachments/CP10NZT/CP10NZT_p3_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Magnetism]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Biot-Savart Law (metodo)|Biot-Savart Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1roeHILfIAN1bYVXrhsdmFdOJdDEM7NiZ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)

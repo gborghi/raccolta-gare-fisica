@@ -64,25 +64,19 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-*(Juegos de OAF 2018 — Prueba 1, martedì 23 ottobre 2018. Maybe a multiple answer, 20 quesiti. Dove necessario usare $g = 10\ \text{m/s}^2$.)*
+*(OAF Games 2018 — Test 1, Tuesday, October 23, 2018. Multiple-choice quiz, 20 questions. Where necessary use $g = 10\ \text{m/s}^2$.)*
 
-**2.** Una persona di $100$ kg è ferma su una bilancia digitale all'interno di un ascensore. If the balance is stable, it indicates $100$ kg, and therefore it functions correctly. What is the balance sheet if the elevator is moving at a constant acceleration of $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg***
+**2.** A person of $100$ kg is standing still on a digital scale inside an elevator. At rest, the scale reads $100$ kg, so it works correctly. What will the scale read if the elevator goes up with constant acceleration of $2\ \text{m/s}^2$? *(a) $80$ kg; (b) $98$ kg; (c) $100$ kg; (d) $102$ kg; **(e) $120$ kg***
 
-**9.** Dal soffitto di un vagone pende un filo di $1$ m di lunghezza con un corpo di $200$ g all'estremo. When the wagon travels with acceleration $\vec a$ the edge forms an angle $\alpha$ with the vertical. Se $\alpha = 30°$, qual è l'accelerazione del vagone? *(a) $2{,}00$; (b) $5{,}00$; **(c) $5{,}77$**; (d) $8{,}66$; (e) $17{,}32\ \text{m/s}^2$*
+**9.** From the ceiling of a railcar hangs a thread of $1$ m in length with a body of $200$ g at the end. When the railcar travels with acceleration $\vec a$ the thread forms an angle $\alpha$ with the vertical. If $\alpha = 30°$, what is the acceleration of the railcar? *(a) $2{,}00$; (b) $5{,}00$; **(c) $5{,}77$**; (d) $8{,}66$; (e) $17{,}32\ \text{m/s}^2$*
 
-**14.** Un montacarichi è sospeso da una fune che sopporta senza rompersi una tensione massima di $1500$ N. If the mass of the vehicle is $100$ kg, what is the maximum acceleration to the top? *(a) $1$; **(b) $5$**; (c) $8$; (d) $10$; (e) $15\ \text{m/s}^2$*
+**14.** A freight elevator is suspended from a rope that withstands without breaking a maximum tension of $1500$ N. If it has a total mass of $100$ kg, what is the maximum upward acceleration? *(a) $1$; **(b) $5$**; (c) $8$; (d) $10$; (e) $15\ \text{m/s}^2$*
 
-**16.** Un corpo di $2$ kg è sospeso a una fune di $6$ m. In equilibrium the tension is equal to and opposite to the weight. If it is displaced from equilibrium and if it is released, the velocity is $3$ m/s. How much is the tension of the fune now? *(a) $15$; (b) $17$; (c) $20$; **(d) $23$**; (e) $25$ N*
+**16.** A body of $2$ kg is suspended from a rope of $6$ m. In equilibrium the tension is equal and opposite to the weight. It is displaced from equilibrium and released; passing through the equilibrium position the speed is $3$ m/s. What is the tension of the rope now? *(a) $15$; (b) $17$; (c) $20$; **(d) $23$**; (e) $25$ N*
 
 <!--fig:start-->
-*Diagram of forces on the body: left in equilibrium ($T$ towards the top, $P$ towards the bottom); right to the passage for the balance after release ($T?$, velocity $V$ horizontal, $P$).*
+*Free-body diagram of the body: on the left at equilibrium ($T$ upward, $P$ downward); on the right as it passes through equilibrium after release ($T?$, velocity $V$ horizontal, $P$).*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]], [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
 
 
 
@@ -153,33 +147,27 @@ All'estrem di un tubo flessibile se si mette un dispositivo che modifica la supe
 
 <div class="qlang-split" data-lang="en"></div>
 
-*(Juegos de OAF 2018 — Prueba 1. Quiz a risposta multipla.)*
+*(OAF Games 2018 — Test 1. Multiple-choice quiz.)*
 
-**3.** In un recipiente isolato termicamente, di volume fisso, ci sono $2$ kg di argon e $2$ kg di azoto, separati da uno stantuffo di volume $0{,}5\ \text{m}^3$ ciascuno. If the temperature of the argon is $50°$C, what is the temperature of $N_2$? (Massa atomica Ar $=39{,}948$ g/mol; N $=14{,}0067$ g/mol). *(a) $-159{,}9$; **(b) $-46{,}5$**; (c) $17{,}6$; (d) $50{,}0$; (e) $185{,}7\ °$C*
+**3.** In a thermally insulated container of fixed volume, there are $2$ kg of argon and $2$ kg of nitrogen, separated by a piston of volume $0{,}5\ \text{m}^3$ each. If the temperature of the argon is $50°$C, what is the temperature of the $N_2$? (Atomic mass Ar $=39{,}948$ g/mol; N $=14{,}0067$ g/mol). *(a) $-159{,}9$; **(b) $-46{,}5$**; (c) $17{,}6$; (d) $50{,}0$; (e) $185{,}7\ °$C*
 
-**6.** A temperatura ambiente di $22°$C, un proiettile di piombo di $10$ g si conficca in un blocco di piombo di $1$ kg; la temperatura del blocco passa a $22{,}8°$C. What is the impact velocity of the projectile? (Specific heat Pb $= 0{,}128$ J/g·K). *(a) $4{,}5$; (b) $53{,}8$; (c) $94{,}3$; (d) $104{,}6$; **(e) $144{,}5$ m/s***
+**6.** At room temperature of $22°$C, a lead bullet of $10$ g embeds itself in a lead block of $1$ kg; the temperature of the block rises to $22{,}8°$C. What is the impact speed of the bullet? (Specific heat Pb $= 0{,}128$ J/g·K). *(a) $4{,}5$; (b) $53{,}8$; (c) $94{,}3$; (d) $104{,}6$; **(e) $144{,}5$ m/s***
 
-**11.** Una zona in costruzione fa oscillare i binari della ferrovia tra $-10°$C e $40°$C; acciaio con coefficiente di dilatazione lineare $1{,}2\times10^{-5}\ °\text{C}^{-1}$, tratto di $300$ m. The minimum distance to be left to avoid deformation? *(a) $2$; (b) $10$; **(c) $36$**; (d) $100$; (e) $180$ mm*
+**11.** A construction zone makes the railway tracks oscillate between $-10°$C and $40°$C; steel with linear expansion coefficient $1{,}2\times10^{-5}\ °\text{C}^{-1}$, section of $300$ m. Minimum distance to leave between the sections to avoid deformation? *(a) $2$; (b) $10$; **(c) $36$**; (d) $100$; (e) $180$ mm*
 
-**12.** Una bambina fa girare verticalmente un secchio pieno d'acqua (raggio $4$ m) a $4$ m/s nel punto $A$. Affermazione corretta on the water discharge in points $A$/$B$/$C$/$D$. — **(e) L'acqua non si verserà.**
+**12.** A little girl spins a bucket full of water vertically (radius $4$ m) at $4$ m/s at point $A$. Correct statement about the spilling of water at points $A$/$B$/$C$/$D$. — **(e) The water will not spill.**
 
 <!--fig:start-->
-*Bambina che fa ruotare il secchio su una circonferenza verticale; sono indicate le quattro posizioni $A$ (in basso), $B$ (a destra), $C$ (in alto) e $D$ (a sinistra).*
+*Girl spinning the bucket on a vertical circle; the four positions are indicated: $A$ (at the bottom), $B$ (on the right), $C$ (at the top) and $D$ (on the left).*
 <!--fig:end-->
 
-**15.** Un corpo pesa in aria $210$ N e ha volume $12\ \text{dm}^3$; immerso in un liquido pesa $120$ N. Density of the liquid? ***(a) $750$**; (b) $1000$; (c) $1250$; (d) $1500$; (e) $1750\ \text{kg/m}^3$*
+**15.** A body weighs $210$ N in air and has volume $12\ \text{dm}^3$; immersed in a liquid it weighs $120$ N. Density of the liquid? ***(a) $750$**; (b) $1000$; (c) $1250$; (d) $1500$; (e) $1750\ \text{kg/m}^3$*
 
-**17.** Recipiente di $10$ l pieno di $O_2$ a $27°$C e $1{,}1$ atm; si apre lasciando uscire gas finché all'esterno la pressione è $1$ atm. Quantità di $O_2$ is released? (Massa atomica O $=16$ g/mol; $1$ atm $=1{,}013\times10^5$ Pa; $R=8{,}314$ J/(mol·K)). *(a) $0{,}65$; (b) $0{,}95$; **(c) $1{,}30$**; (d) $7{,}80$; (e) $15{,}6$ g*
+**17.** A $10$ l container full of $O_2$ at $27°$C and $1{,}1$ atm; it is opened letting gas escape until outside the pressure is $1$ atm. Amount of $O_2$ that escaped? (Atomic mass of O $=16$ g/mol; $1$ atm $=1{,}013\times10^5$ Pa; $R=8{,}314$ J/(mol·K)). *(a) $0{,}65$; (b) $0{,}95$; **(c) $1{,}30$**; (d) $7{,}80$; (e) $15{,}6$ g*
 
-**18.** Un corpo di volume $V$ in alcol etilico emerge per $1/3$ del volume. In distilled water, what percentage of the volume will be submerged? ($\delta_{alcol}=0{,}789$, $\delta_{acqua}=1{,}000\ \text{g/cm}^3$). *(a) $26{,}3$; (b) $35{,}2$; (c) $41{,}3$; **(d) $52{,}6$**; (e) $66{,}7\%$*
+**18.** A body of volume $V$ in ethyl alcohol emerges by $1/3$ of the volume. In distilled water, what percentage of the volume will be immersed? ($\delta_{alcol}=0{,}789$, $\delta_{acqua}=1{,}000\ \text{g/cm}^3$). *(a) $26{,}3$; (b) $35{,}2$; (c) $41{,}3$; **(d) $52{,}6$**; (e) $66{,}7\%$*
 
-**19.** All'estremo di un tubo flessibile si pone un dispositivo che modifica la superficie d'uscita. If the water is coming out at a speed of $V_0$, at what speed will it come out if it reduces the radiation to half? (continuity) *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$***
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Projectile (object)|Projectile]], [[Block (object)|Block]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
+**19.** At the end of a flexible tube a device is placed that modifies the outlet surface. If the water comes out with velocity $V_0$, with what velocity will it come out if the radius is reduced to half? (Continuity). *(a) $V_0/4$; (b) $V_0/2$; (c) $V_0$; (d) $2V_0$; **(e) $4V_0$***
 
 
 
@@ -226,21 +214,15 @@ All'estrem di un tubo flessibile se si mette un dispositivo che modifica la supe
 
 <div class="qlang-split" data-lang="en"></div>
 
-*(Juegos de OAF 2018 — Prueba 1. Quiz a risposta multipla.)*
+*(OAF Games 2018 — Test 1. Multiple-choice quiz.)*
 
-**5.** Uno specchio sferico concavo forma un'immagine invertita di un oggetto a $420$ cm davanti allo specchio. Is the object measured $5$ cm and the image $30$ cm, how far in front of the mirror is the object placed? *(a) $5$; (b) $7$; (c) $25$; (d) $40$; **(e) $70$ cm***
+**5.** A concave spherical mirror forms an inverted image of an object $420$ cm in front of the mirror. If the object measures $5$ cm and the image $30$ cm, at what distance in front of the mirror is the object placed? *(a) $5$; (b) $7$; (c) $25$; (d) $40$; **(e) $70$ cm***
 
-**8.** Se la luce fosse solo monocromatica, quale fenomeno ottico non si osserverebbe? *(a) la rifrazione; (b) la riflessione; (c) la diffrazione; **(d) l'arcobaleno**; (e) l'ombra*
+**8.** If light were only monochromatic, which optical phenomenon would not be observed? *(a) refraction; (b) reflection; (c) diffraction; **(d) the rainbow**; (e) the shadow*
 
-**10.** Un raggio di luce monocromatica si propaga in aria e incide su una sostanza trasparente con angolo di $60°$ rispetto alla normale. If the reflected radius is perpendicular to the reflected radius, what is the index of refraction of the material? *(a) $1{,}35$; (b) $1{,}48$; (c) $1{,}61$; **(d) $1{,}73$**; (e) $1{,}82$*
+**10.** A ray of monochromatic light propagates in air and strikes a transparent substance at an angle of $60°$ with respect to the normal. If the reflected ray is perpendicular to the refracted ray, what is the refractive index of the material? *(a) $1{,}35$; (b) $1{,}48$; (c) $1{,}61$; **(d) $1{,}73$**; (e) $1{,}82$*
 
-**20.** A quale distanza da una lente convergente di distanza focale $12$ cm deve porsi un oggetto perché l'immagine sia al doppio della distanza oggetto-lente? *(a) $6$; (b) $12$; **(c) $18$**; (d) $24$; (e) $30$ cm*
-
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
+**20.** At what distance from a converging lens of focal length $12$ cm must an object be placed so that the image is at twice the object-lens distance? *(a) $6$; (b) $12$; **(c) $18$**; (d) $24$; (e) $30$ cm*
 
 
 
@@ -307,28 +289,22 @@ Una sfera di $100$ g è carica di $-5$ C se si muove in una regione con campo el
 
 <div class="qlang-split" data-lang="en"></div>
 
-*(Juegos de OAF 2018 — Prueba 1. Quiz a risposta multipla.)*
+*(OAF Games 2018 — Test 1. Multiple-choice quiz.)*
 
-**1.** Il circuito in figura è formato da $4$ resistenze di $100\ \Omega$ e una batteria di $24$ V. What is the power of the battery? *(a) $1{,}44$; **(b) $2{,}30$**; (c) $2{,}88$; (d) $4{,}60$; (e) $5{,}76$ W*
+**1.** The circuit in the figure consists of $4$ resistors of $100\ \Omega$ and a battery of $24$ V. What is the power delivered by the battery? *(a) $1{,}44$; **(b) $2{,}30$**; (c) $2{,}88$; (d) $4{,}60$; (e) $5{,}76$ W*
 
 <!--fig:start-->
 ![[_attachments/juegos_2018_final_1/juegos_2018_final_1_p2_f1.png]]
-*Rete dei quattro resistori da $100\ \Omega$ alimentata dalla batteria da $24$ V.*
+*Network of the four resistors of $100\ \Omega$ powered by the battery of $24$ V.*
 <!--fig:end-->
 
-**4.** Tra il pavimento e il soffitto di una stanza si costruisce un condensatore gigante che genera un campo elettrico costante. Inside a ball of ping-pong is $3$ g, loaded with $6\times10^{-3}$ C, if it moves at a constant speed. How much is the electric field worth? The following information is provided by the manufacturer: *(a) $2\times10^1$; (b) $5\times10^3$; **(c) $5\times10^0$**; (d) $2\times10^1$; (e) missing data* *(the field is $E=mg/q$.*
+**4.** Between the floor and the ceiling of a room, a giant capacitor is built that generates a constant electric field. Inside it, a ping-pong ball of $3$ g, charged with $6\times10^{-3}$ C, moves with constant velocity. What is the value of the electric field? *(a) $2\times10^1$; (b) $5\times10^3$; **(c) $5\times10^0$**; (d) $2\times10^1$; (e) missing data* *(the field is $E=mg/q$).*
 
-**7.** Un corpo è posto su un disco che ruota in senso antiorario con accelerazione angolare costante che ne aumenta la velocità angolare. It remains stable relative to the surface, which graph shows qualitatively the force of static friction between body and disk?  **(d) ** (force with centrifugal and tangential component).
+**7.** A body is placed on a disk that rotates counterclockwise with constant angular acceleration that increases its angular velocity. If it remains stationary relative to the surface, which graph qualitatively shows the static friction force between body and disk? — **(d)** (force with centripetal and tangential component).
 
 <!--fig:start-->
 ![[_attachments/juegos_2018_final_1/juegos_2018_final_1_p5_f1.png]]
-*Five options (ae): disc in rotation anti-time with the body (quadratino) and the force of friction of the vehicle designed in different directions in each case.*
+*Five options (a–e): disk rotating counterclockwise with the body (small square) and the friction force vector drawn in different directions in each case.*
 <!--fig:end-->
 
-**13.** Una sfera di $100$ g carica con $-5$ C si muove in una regione con campo elettrico. In a position where the potential is $5$ V its kinetic energy is $50$ J. What will be the kinetic energy in a position where the potential is $-5$ V? *(a) $-50$; **(b) $0$**; (c) $50$; (d) $100$; (e) $150$ J*
-
-**Topic:** [[Circuits]], [[Electrostatics]], [[Rotational Dynamics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Capacitor (object)|Capacitor]], [[Sphere (object)|Sphere]], [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AoVAkbRy_N_wWjfgOmmF_r4MVVHRHiPx/view)
+**13.** A sphere of $100$ g charged with $-5$ C moves in a region with an electric field. In a position where the potential is $5$ V its kinetic energy is $50$ J. What will its kinetic energy be in a position where the potential is $-5$ V? *(a) $-50$; **(b) $0$**; (c) $50$; (d) $100$; (e) $150$ J*

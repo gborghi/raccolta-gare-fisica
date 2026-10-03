@@ -1365,18 +1365,12 @@ As the elements of Group $17$ are considered in order of increasing atomic numbe
 
 <div class="qlang-split" data-lang="it"></div>
 
-Poiché gli elementi del gruppo $17$ sono considerati in ordine di numero atomico crescente, si verifica un aumento del numero di elementi di gruppo $17$ in ordine di numero atomico crescente.
+Considerando gli elementi del Gruppo $17$ in ordine di numero atomico crescente, si ha un aumento di
 
-- a) raggio atomico
-- b) elettronegatività
-- c) prima energia di ionizzazione
+- (a) raggio atomico
+- (b) elettronegatività
+- (c) energia di prima ionizzazione
 - (d) numero di elettroni nel primo guscio
-
-**Topic:** [[Chemistry]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1-UqETHOvkKHcqDxo0uxanDgCnDsC0tEJ/view)
 
 
 

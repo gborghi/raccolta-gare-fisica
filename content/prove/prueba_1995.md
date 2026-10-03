@@ -191,41 +191,20 @@ DATOS: La densidad del agua se puede suponer constante con la temperatura e igua
 
 <div class="qlang-split" data-lang="it"></div>
 
-PROBLEMA 2: Facciamo un buon mattino
+PROBLEMA 2: PRENDIAMO UN BUON MATE
 
-Un signore ha deciso di prendere mate. In un recipiente ha messo un litro di acqua a $20\ ^\circ\text{C}$ e ha immerso in essa
-un riscaldatore elettrico connesso a 220 V. Come desiderava riscaldare l'acqua a una temperatura di
-$80\ ^\circ\text{C}$ esattamente (perché ritiene ottimale per prendere mate) calcolato il tempo necessario per
-per raggiungere il punto di sale, per cui ha misurato la resistenza del riscaldatore immerso nell'acqua e ha ottenuto $R = 38\ \Omega$.
-a) Sapendo che il recipiente utilizzato perde il 20% dell'energia che gli viene fornita,
-ha lasciato il padrone il riscaldatore collegato alla linea di 220 V per la temperatura dell'acqua raggiungere i
-Desiderate? (Il calore specifico dell'acqua è $c = 1$ cal/g$^\circ$C)
-b) Grande fu la sorpresa quando dopo il tempo calcolato verificò che la temperatura dell'acqua
-era inferiore a $80\ ^\circ\text{C}$. Ha pensato di aver commesso un errore nel determinare la resistenza del
-il riscaldatore. Poi ha misurato di nuovo $R$ con il riscaldamento immerso nell'acqua calda e ha verificato che
-che questa era aumentata. Per migliorare i suoi calcoli ha misurato di nuovo la resistenza del riscaldatore a
-tre temperature diverse e basandosi su tali misurazioni ha ipotizzato che tra $20\ ^\circ\text{C}$ e $40\ ^\circ\text{C}$, $R = 38\ \Omega$;
-$40\ ^\circ\text{C}$ e $60\ ^\circ\text{C}$, $R = 44\ \Omega$ e tra $40\ ^\circ\text{C}$ e $60\ ^\circ\text{C}$, $R = 50\ \Omega$, e ha ricalcolato il tempo necessario per lasciare
-il riscaldatore è immerso per elevare l'acqua da $20\ ^\circ\text{C}$ a $80\ ^\circ\text{C}$.
-Calcola il nuovo tempo che il signore ha ottenuto.
-c). Ripete l'esperimento aspettando il tempo calcolato al punto b) e misurate la temperatura dell'acqua
-ottenendo di nuovo un valore inferiore a $80\ ^\circ\text{C}$. Come avevo già osservato, i cambiamenti della resistenza
-il riscaldatore a temperatura determinato ha effettuato un maggior numero di misurazioni a partire da $20\ ^\circ\text{C}$,
-La resistenza variava con la temperatura di un'acqua di circa un milione di metri.
-la temperatura secondo la legge mostrata nel grafico. Rappresenta, in questo stesso grafico, i valori
-di resistenza a temperatura, utilizzate in (a) e (b).
-d) Sulla base dei valori di $R$ misurati nel punto precedente, calcola ora il tempo preciso che c'è
-La temperatura dell'acqua è aumentata di $20\ ^\circ\text{C}$ a $80\ ^\circ\text{C}$, supponendo che a ogni momento la temperatura dell'acqua sia aumentata di $20\ ^\circ\text{C}$ a $80\ ^\circ\text{C}$.
-la temperatura dell'acqua è pari alla temperatura della resistenza del riscaldatore.
+Un signore decise di prendere il mate. In un recipiente mise un litro d'acqua a $20\ ^\circ\text{C}$ e vi immerse un riscaldatore elettrico collegato a 220 V. Poiché desiderava riscaldare l'acqua fino a una temperatura di
+$80\ ^\circ\text{C}$ esattamente (perché la considera ottimale per prendere il mate) calcolò il tempo necessario per raggiungerla, per cui misurò la resistenza del riscaldatore immerso nell'acqua e ottenne $R = 38\ \Omega$.
+a) Sapendo che il recipiente utilizzato perde il 20 % dell'energia che gli viene fornita, quanto tempo lasciò il signore il riscaldatore collegato alla linea di 220 V affinché la temperatura dell'acqua raggiungesse i
+$80\ ^\circ\text{C}$ desiderati? (Il calore specifico dell'acqua è $c = 1$ cal/g$^\circ$C)
+b) Grande fu la sorpresa quando, trascorso il tempo calcolato, verificò che la temperatura dell'acqua era inferiore a $80\ ^\circ\text{C}$. Pensò di aver commesso qualche errore nella determinazione della resistenza del riscaldatore. Misurò allora nuovamente $R$ con il riscaldatore immerso nell'acqua calda e verificò che questa era aumentata. Per migliorare i suoi calcoli misurò nuovamente la resistenza del riscaldatore a tre temperature diverse e in base a quelle misurazioni suppose che tra $20\ ^\circ\text{C}$ e $40\ ^\circ\text{C}$, $R = 38\ \Omega$; tra
+$40\ ^\circ\text{C}$ e $60\ ^\circ\text{C}$, $R = 44\ \Omega$ e tra $40\ ^\circ\text{C}$ e $60\ ^\circ\text{C}$, $R = 50\ \Omega$, e ricalcolò il tempo necessario che doveva lasciare immerso il riscaldatore per elevare l'acqua da $20\ ^\circ\text{C}$ a $80\ ^\circ\text{C}$.
+Calcoli il nuovo tempo che ottenne il signore.
+c). Ripeté l'esperimento aspettando il tempo calcolato nel punto b) e misurò la temperatura dell'acqua ottenendo nuovamente un valore minore di $80\ ^\circ\text{C}$. Poiché aveva già osservato cambiamenti della resistenza del riscaldatore con la temperatura, decise di effettuare un maggior numero di misurazioni, a partire da $20\ ^\circ\text{C}$, aumentando ogni volta la temperatura a piccoli salti e ottenne che la resistenza variava con la temperatura secondo la legge mostrata nel grafico. Rappresenti, in quello stesso grafico, i valori della resistenza in funzione della temperatura, utilizzati nei punti a) e b).
+d) A partire dai valori di $R$ misurati nel punto precedente, calcoli ora il tempo esatto che bisogna aspettare per elevare la temperatura dell'acqua da $20\ ^\circ\text{C}$ a $80\ ^\circ\text{C}$, supponendo che in ogni momento la temperatura dell'acqua sia uguale alla temperatura della resistenza del riscaldatore.
 
-DATI: La densità dell'acqua può essere presunta costante con la temperatura ed è pari a 1 g/cm$^2$; 1 cal
+DATI: La densità dell'acqua si può supporre costante con la temperatura e uguale a 1 g/cm$^2$; 1 cal
 = 4.2 J.
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZAZ-FUXe7gvK3rj_HSmfwn2IrPmwQB79/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

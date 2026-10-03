@@ -71,12 +71,9 @@ con la verticale, come mostrato in figura.
 <div class="qlang-split" data-lang="en"></div>
 
 q1
-A pendulum consists of a length $L = 85\ \text{cm}$ wire and a
-The mass sphere $m = 0.2\ \text{kg}$.
-The sphere is left to start from
-ferma da una posizione A tale che il filo teso formi un angolo $\theta = 45^\circ$
-with the vertical, as shown in the figure.
-• Given the resistance of the air, what is the speed of the sphere when it reaches point B?
+A pendulum consists of a string of length $L = 85\ \text{cm}$ and a small sphere of mass $m = 0.2\ \text{kg}$.
+The small sphere is released from rest from a position A such that the taut string forms an angle $\theta = 45^\circ$ with the vertical, as shown in the figure.
+• Neglecting air resistance, what is the speed of the small sphere when it reaches point B?
 
 <!--fig:start-->
 
@@ -115,12 +112,7 @@ with the vertical, as shown in the figure.
 *pendulum with angle and points A B*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/14DSR1KiACFXHzY9RIE8_BLJIyqvfco2o/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
 
 
 
@@ -425,16 +417,10 @@ alla profondità $h = 324\ \text{m}$ e il segnale riflesso viene ricevuto dopo u
 <div class="qlang-split" data-lang="en"></div>
 
 q7
-A sonar sends a sound signal of $f = 1.18\ \text{kHz}$ frequency from a stationary ship to the seabed
-alla profondità $h = 324\ \text{m}$ e il segnale riflesso viene ricevuto dopo un tempo $t = 0.425\ \text{s}$.
-• Determine the wavelength of the sound signal in the water.
+A sonar sends from a stationary ship a sound signal of frequency $f = 1.18\ \text{kHz}$ toward the seabed at depth $h = 324\ \text{m}$, and the reflected signal is received after a time $t = 0.425\ \text{s}$.
+• Determine the wavelength of the sound signal in water.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/14DSR1KiACFXHzY9RIE8_BLJIyqvfco2o/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
 
 
 
@@ -778,53 +764,34 @@ esempio dei condensatori.
 <div class="qlang-split" data-lang="en"></div>
 
 p1
-Electric vehicles and regenerative brakes
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A typical thermal motor car battery has the following specifications:
-The power supply is provided by the electricity supply system. (1)
-1. Determine, in kWh, the energy of a battery with these characteristics when fully charged.
-The technical specifications of an electric car state that it has a mass of 1765 kg, a maximum power of
-The average energy consumption is 13.2 kWh for every 100 km of routes.
-2. Determine, in kWh, the battery energy that powers the electric motor when fully charged.
-Calculate the minimum number of traditional batteries that should be used to make the
-The same energy. [Give the answer as an integer.]
-In thermal motor vehicles braking is always and only totally dissipative because all kinetic energy is
-It is then converted to heat and dispersed into the environment.
-In an electric car, however, when you lift your foot from the accelerator, the power supply is interrupted.
-It is directed towards the engine and the engine immediately turns into an electrical generator which subtracts energy
-kinetic energy to the vehicle, which then slows down. The very high efficiency of the generator allows recovery of approximately
-The 85 per cent of the mechanical energy extracted and this energy recovered can be used later.
-Three types of braking should be considered: in the city, in emergency, and in descent. In all cases, the friction is neglected.
-The following is the list of the types of aircraft and their aircraft: Assume that under no circumstances will the battery be fully charged.
-Brake in the city.
-Consider a braking with vehicle stop in the city, starting from an initial speed of 30 km/h.
-3. If this happens 10 times, you determine, in kWh, how much energy is recovered overall.
-Brake in an emergency.
-Imagine that you are driving on a motorway at a speed of $v_0 = 130\ \text{km/h}$ and suddenly have to stop at a
-I'm facing an obstacle. It is assumed that, thanks to the intervention of the ABS system, the
-The vehicle is capable of maintaining a $0.9\ g$ mode of acceleration throughout the braking period.
-4. Determine the braking power at the start of the braking.
-No electric car can absorb this initial braking power and therefore the intervention is necessary.
-The first thing that I want to do is to use the mechanical brakes to dissipate most of this power.
-5. Assuming that the brake generator is capable of absorbing a maximum power of 208 kW,
-determine the maximum value and percentage of recoverable energy in an emergency brake from
-130 miles an hour until it stops.
-Brake down.
-We are now taking a mountain road descending at a steady rate for a $\Delta h = 1300\ \text{m}$. Si
-The Commission's proposal for a directive on the protection of workers from the risks of pollution and pollution is therefore not a sufficient step forward.
-6. Determine how much energy is recovered in kWh and calculate how many additional kilometres of travel
-That's the equivalent.
-———————————
-(1)
-Unfortunately, in technical jargon this term is not to be confused with the electrical magnitude characteristic of
-The first is the condensers.
+Electric cars and regenerative braking
+Points 20
+A typical battery of a car with an internal combustion engine has the following specifications:
+voltage 12 V, "capacity" 70 A h . (1)
+1. Determine, in kWh, the energy of a battery with these characteristics, when it is fully charged.
+In the technical specifications of an electric car one reads that it has a mass of 1765 kg, a maximum power of
+208 kW, a range of 513 km and on average it consumes 13.2 kWh of energy every 100 km traveled.
+2. Determine, in kWh, the energy of the battery that powers the electric motor when it is fully charged.
+Calculate the minimum number of traditional batteries that would have to be used to have the same energy available. [Give the answer as an integer.]
+In cars with internal combustion engines, braking is always and only totally dissipative because all the kinetic energy ends up transformed into heat and dispersed into the environment.
+On the other hand, in an electric car, when the foot is lifted off the accelerator, the supply of direct current to the motor is interrupted and the motor immediately transforms into an electric generator which subtracts kinetic energy from the vehicle, which therefore slows down. Thanks to the very high efficiency of the generator, it is possible to recover about 85 % of the mechanical energy subtracted and this recovered energy can be used later.
+Three types of braking are examined: in the city, in an emergency, and downhill. In all cases, mechanical and aerodynamic friction are neglected. Assume that in no case does the battery recharge completely.
+Braking in the city.
+Consider braking to a stop of the vehicle, in the city, starting from an initial speed of 30 km/h.
+3. If this happens 10 times, determine, in kWh, how much energy is recovered in total.
+Emergency braking.
+Imagine driving on a highway at speed $v_0 = 130\ \text{km/h}$ and having to suddenly stop in front of an obstacle. Assume that, thanks to the intervention of the ABS system – which prevents the wheels from locking – the car manages to maintain a constant acceleration of magnitude $0.9\ g$ throughout the braking.
+4. Determine the braking power at the beginning of the braking.
+No electric car is capable of absorbing such initial braking power, and therefore the immediate intervention of the mechanical brakes is necessary to dissipate most of this power.
+5. Assuming that, during braking, the generator is capable of absorbing at most a power equal to 208 kW, determine the maximum value and the percentage of the recoverable energy in an emergency braking from
+130 km/h to a stop.
+Downhill braking.
+We are now traveling along a mountain road going downhill at constant speed over a height difference $\Delta h = 1300\ \text{m}$. Assume also in this case that 85 % of the energy is recovered.
+6. Determine, in kWh, how much energy is recovered and calculate how many additional kilometers of travel it corresponds to.
+——————————— (1)
+Unfortunately, in technical jargon this term is used, which must not be confused with the electrical quantity "capacitance" characteristic of, for example, capacitors.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Circuits]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/14DSR1KiACFXHzY9RIE8_BLJIyqvfco2o/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
 
 
 
@@ -859,23 +826,15 @@ persona, considerando ancora la sola radiazione emessa dalla schiena.
 
 p2
 Infrared radiation
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-The exposed back of a person with an area of about $A = 2000\ \text{cm}^2$ emits infrared radiation.
-1. Assuming that the skin behaves approximately like a black body at $37\ ^\circ\text{C}$,
-The maximum radiation emission and overall power shall be determined at what wavelength
-Radiated from the back.
-Assuming a rounded value $P = 100\ \text{W}$ for the power radiated from the back, a surface is considered
-It is placed in front of the person's back, parallel to it at a distance of 5 cm.
-2. Determine the irradiance (incident power per unit area) on surface S.
-3. Determine irradiance in the event that the same surface S is carried to a distance $d = 20\ \text{m}$ from the
-The only radiation emitted from the back is the radiation emitted from the back.
+10 points
+The bare back of a person with an area of about $A = 2000\ \text{cm}^2$ emits infrared radiation.
+1. Assuming that the skin behaves approximately as a black body at a temperature of $37\ ^\circ\text{C}$, determine at which wavelength the emitted radiation has its maximum and the total power radiated by the back.
+Assuming a rounded value $P = 100\ \text{W}$ for the power radiated by the back, consider a surface
+S placed in front of the person's back, parallel to it at a distance of 5 cm.
+2. Determine the irradiance (the incident power per unit area) on the surface S.
+3. Determine the irradiance in the case where the same surface S is brought to a distance $d = 20\ \text{m}$ from the person, still considering only the radiation emitted by the back.
 
-**Topic:** [[Thermodynamics]], [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/14DSR1KiACFXHzY9RIE8_BLJIyqvfco2o/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
 
 
 
@@ -918,33 +877,21 @@ determinare il raggio del filo.
 <div class="qlang-split" data-lang="en"></div>
 
 p3
-Particle loaded to a wire
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-A particle for which $|q/m| = 2.76\times10^6\ \text{C kg}^{-1}$ is launched at $v_0 = 2\ \text{m s}^{-1}$ speed towards the
-a straight, continuous copper wire running in the direction indicated, and describes the
-The trajectory shown in the figure in a plane containing the wire is considered negligible. In the
-punto più vicino al filo, a distanza $d = 1\ \text{cm}$ da questo, la traiettoria ha raggio di curvatura $r = 2d$.
-1. What's the sign of the charge on the particle?
-2. What is the speed modulation in
-The closest point to the wire?
-3. What is the current flowing $I$
-In the thread?
-4. Knowing that the power dissipated by the
-wire per unit length is
-$W_\ell = 10\ \mu\text{W cm}^{-1}$ ,
-determine the radius of the wire.
+Charged particle toward a wire
+10 points
+A particle for which $|q/m| = 2.76\times10^6\ \text{C kg}^{-1}$ is launched with velocity $v_0 = 2\ \text{m s}^{-1}$ toward a straight infinite copper wire carrying a direct current, in the direction indicated, and follows the trajectory shown in the figure in a plane containing the wire; the effect of gravity is to be considered negligible. At the point closest to the wire, at distance $d = 1\ \text{cm}$ from it, the trajectory has radius of curvature $r = 2d$.
+1. What is the sign of the charge on the particle?
+2. What is the magnitude of the velocity at the point closest to the wire?
+3. What is the value of the current $I$ flowing in the wire?
+4. Knowing that the power dissipated by the wire per unit length is
+$W_\ell = 10\ \mu\text{W cm}^{-1}$ , determine the radius of the wire.
 
 <!--fig:start-->
 ![[_attachments/2liv24T/2liv24T_p9_f4.png]]
-*trajectory of the particle loaded towards the wire *
+*trajectory of charged particle toward wire*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Circuits]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/14DSR1KiACFXHzY9RIE8_BLJIyqvfco2o/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
 
 
 
@@ -983,26 +930,14 @@ alcune fasi della sua oscillazione?
 <div class="qlang-split" data-lang="en"></div>
 
 p4
-Mass and spray on the ceiling
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A mass body $M$ is suspended from the ceiling by an ideal spring of constant elasticity $k$. The system
-It's quiet, in its equilibrium configuration.
-1. Express the $\Delta\ell_0$ extension of the spring in this initial configuration as a function of $M$, $k$ and the $g$ gravity acceleration.
-The body is elastically impacted by a body of equal mass thrown vertically from below. Sia $v_0$ la
-The velocity of this body at the time of impact. Let all the friction be ignored and let it not happen
-Another collision between the two bodies.
-2. Express in terms of $M$, $k$, $g$ and $v_0$ the maximum length of the spring $\Delta\ell_\text{max}$ in body motion which is
-I was hit.
+Mass and spring at the ceiling
+20 points
+A body of mass $M$ is hung from the ceiling by an ideal spring with spring constant $k$. The system is at rest, in its equilibrium configuration.
+1. Express the elongation $\Delta\ell_0$ of the spring in this initial configuration as a function of $M$, $k$ and the acceleration of gravity $g$.
+The body is struck elastically by a body of equal mass thrown vertically from below. Let $v_0$ be the speed of this body at the moment of the collision. Neglect all friction and assume that no further collisions occur between the two bodies.
+2. Express in terms of $M$, $k$, $g$ and $v_0$ the maximum elongation of the spring $\Delta\ell_\text{max}$ in the motion of the body that was struck.
 3. Calculate the numerical values of $\Delta\ell_0$ and $\Delta\ell_\text{max}$ if $M = 100\ \text{g}$, $k = 10\ \text{N m}^{-1}$, $v_0 = 20\ \text{cm s}^{-1}$.
-Assume now that the mass body $M$ consists of two parts of mass $m_1$ and $m_2$. The system is back.
-It's in its equilibrium configuration and it's still. At a certain moment the mass part $m_2$ is disconnected, and the
-The remaining part starts to oscillate.
-4. For which values of the $m_1/M$ ratio the spring will be compressed, relative to its resting length, in
-Some of the phases of its oscillation?
+Now suppose that the body of mass $M$ consists of two parts of mass $m_1$ and $m_2$. The system has returned to its equilibrium configuration and is at rest. At a certain instant the part of mass $m_2$ detaches, and the remaining part therefore begins to oscillate.
+4. For what values of the ratio $m_1/M$ will the spring be compressed, relative to its rest length, during some phases of its oscillation?
 
-**Topic:** [[Oscillations & Waves]], [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/14DSR1KiACFXHzY9RIE8_BLJIyqvfco2o/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1HThrhTvjwEXyQemAYM8CVI_KdctyjDYx/view)

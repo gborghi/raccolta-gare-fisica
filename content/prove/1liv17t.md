@@ -71,7 +71,7 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass $4.0\ \text{kg}$ compressed air rifle fires mass $0.50\ \text{g}$ lead shot with an initial engine quantity of $100\ \text{g m s}^{-1}$. Consider the force with which the athlete holds the rifle relative to the impulsive force of the shot to be negligible. What is the amount of motorcycle in the form that the rifle is fired with immediately afterwards? A) $0.013\ \text{g m s}^{-1}$; B) $0.025\ \text{g m s}^{-1}$; C) $100\ \text{g m s}^{-1}$; D) $200\ \text{g m s}^{-1}$; E) $800\ \text{kg m s}^{-1}$.
+**Q1.** An air rifle of mass $4.0\ \text{kg}$ fires pellets of mass $0.50\ \text{g}$ having an initial momentum of magnitude $100\ \text{g m s}^{-1}$. The force with which the athlete holds the rifle still is considered negligible compared to the impulsive force of the shot. What is, in magnitude, the momentum with which the rifle recoils immediately afterward? A) $0.013\ \text{g m s}^{-1}$; B) $0.025\ \text{g m s}^{-1}$; C) $100\ \text{g m s}^{-1}$; D) $200\ \text{g m s}^{-1}$; E) $800\ \text{kg m s}^{-1}$.
 <!--fig:start-->
 
 
@@ -114,15 +114,10 @@ A mass $4.0\ \text{kg}$ compressed air rifle fires mass $0.50\ \text{g}$ lead sh
 </figure>
 
 
-*capacitor and switch circuit*
+*circuit with capacitor and switch*
 <!--fig:end-->
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -144,14 +139,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** A force $F=180\ \text{N}$ is applied vertically upwards to a mass block $m=15\ \text{kg}$. The acceleration of the blockage is about... A) $2.2\ \text{m s}^{-2}$; B) $7.6\ \text{m s}^{-2}$; C) $9.8\ \text{m s}^{-2}$; D) $12.0\ \text{m s}^{-2}$; E) $19.6\ \text{m s}^{-2}$.
+**Q2.** A force $F=180\ \text{N}$ is applied vertically upward to a block of mass $m=15\ \text{kg}$. The acceleration of the block is approximately... A) $2.2\ \text{m s}^{-2}$; B) $7.6\ \text{m s}^{-2}$; C) $9.8\ \text{m s}^{-2}$; D) $12.0\ \text{m s}^{-2}$; E) $19.6\ \text{m s}^{-2}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -173,14 +163,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q3.** Which graph best represents the relationship between the resistance and lengths of different copper strands of the same section at the same temperature? *[Five AE graphs; $R=\rho\ell/S$, true to the origin.]*
+**Q3.** Which graph best represents the relationship between the resistances and the lengths of several copper wires of equal cross-section, at the same temperature? *[Five graphs A–E; $R=\rho\ell/S$, straight line through the origin.]*
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -202,14 +187,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figures represent a pendulum at a point during its oscillation; the arrow represents the acceleration vector at that point. What figure is the correct vector? *[Five figures AE of the pendulum with different acceleration vectors: A only tangential, B only centrifugal, C/E with centrifugal component, D with centrifugal + tangential component towards the centre.]*
+**Q4.** The figures represent a pendulum at one point during its oscillation; the arrow represents the acceleration vector at that point. Which figure represents the correct vector? *[Five figures A–E of the pendulum with different acceleration vectors: A tangential only, B centripetal only, C/E with centrifugal component, D with centripetal + tangential component toward the center.]*
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -403,14 +383,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A rock is thrown horizontally from the top of a high crack $100\ \text{m}$ at $5\ \text{m s}^{-1}$ speed. By ignoring the friction of the air, how long after does the rock touch the ground? A) $1.5\ \text{s}$; B) $4.5\ \text{s}$; C) $6.7\ \text{s}$; D) $9.8\ \text{s}$; E) $20\ \text{s}$.
+**Q7.** A stone is thrown horizontally from the top of a cliff of height $100\ \text{m}$ with speed $5\ \text{m s}^{-1}$. Neglecting air friction, after how much time does the stone hit the ground? A) $1.5\ \text{s}$; B) $4.5\ \text{s}$; C) $6.7\ \text{s}$; D) $9.8\ \text{s}$; E) $20\ \text{s}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -444,26 +419,21 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q8.** A substance is heated to provide energy at a constant rate; the graph shows the temperature as a function of time (two thermal stops at $50\,^\circ\text{C}$ and $125\,^\circ\text{C}$). What is the boiling temperature of the substance? A) $25\,^\circ\text{C}$; B) $50\,^\circ\text{C}$; C) $100\,^\circ\text{C}$; D) $125\,^\circ\text{C}$; E) $200\,^\circ\text{C}$.
+**Q8.** A substance is heated by supplying energy at a constant rate; the graph shows temperature as a function of time (two thermal plateaus at $50\,^\circ\text{C}$ and $125\,^\circ\text{C}$). What is the boiling temperature of the substance? A) $25\,^\circ\text{C}$; B) $50\,^\circ\text{C}$; C) $100\,^\circ\text{C}$; D) $125\,^\circ\text{C}$; E) $200\,^\circ\text{C}$.
 <!--fig:start-->
-Question 7  Ball parabolic trajectory, h vs x
+**Problem 7** — parabolic trajectory of a ball, h vs x
 ![[_attachments/1liv17T/1liv17T_p4_f4.png]]
 <!--fig:end-->
 <!--fig:start-->
-Question 8  Chart temperature T vs time t
+**Problem 8** — graph of temperature T vs time t
 ![[_attachments/1liv17T/1liv17T_p4_f5.png]]
 <!--fig:end-->
 <!--fig:start-->
-Question 10  Block on surface with spring, dimensions
+**Problem 10** — block on a surface with a spring, dimensions
 ![[_attachments/1liv17T/1liv17T_p4_f6.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -485,14 +455,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q9.** A cart A has mass $m$ and speed $v_0$; a cart B has mass $2m$ and speed $3v_0$. A constant force $F$ parallel to the rail shall be applied separately to each cart until it stops. The A cart shall stop within a time interval $t$. The time required for cart B to stop is: A) $2t$; B) $3t$; C) $6t$; D) $9t$; E) $18t$.
+**Q9.** A cart A has mass $m$ and speed $v_0$; a cart B has mass $2m$ and speed $3v_0$. An identical constant force $F$ parallel to the track is applied separately to each cart until it stops. Cart A stops in a time interval $t$. The time needed for cart B to stop is: A) $2t$; B) $3t$; C) $6t$; D) $9t$; E) $18t$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -514,14 +479,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q10.** A mass block $m$ attached to a spring (of negligible mass) is rested on a table. Moving $16\ \text{cm}$ to the right and left to go, the system initially has potential energy $1.28\ \text{J}$. For friction, the block reverses the motor when $8\ \text{cm}$ is located to the left of the balance. How much mechanical energy is dissipated by friction between the start of the motor and the reversal? A) $0.16\ \text{J}$; B) $0.32\ \text{J}$; C) $0.64\ \text{J}$; D) $0.96\ \text{J}$; E) $1.12\ \text{J}$.
+**Q10.** A block of mass $m$ attached to a spring (of negligible mass) rests on a table. Moved by $16\ \text{cm}$ to the right and let go, the system initially has potential energy $1.28\ \text{J}$. Due to friction, the block reverses its motion when it is $8\ \text{cm}$ to the left of equilibrium. How much mechanical energy is dissipated by friction between the start of the motion and the reversal? A) $0.16\ \text{J}$; B) $0.32\ \text{J}$; C) $0.64\ \text{J}$; D) $0.96\ \text{J}$; E) $1.12\ \text{J}$.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -543,14 +503,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q11.** In a hallway there are two large parallel mirrors $S_1$ and $S_2$ placed on distant walls $3\ \text{m}$. Una persona a $1\ \text{m}$ dallo specchio di destra guarda verso di esso e vede una serie di immagini di sé. How far away from the person is the second of those images? A) $2\ \text{m}$; B) $4\ \text{m}$; C) $6\ \text{m}$; D) $8\ \text{m}$; E) $10\ \text{m}$.
+**Q11.** In a corridor there are two large parallel mirrors $S_1$ and $S_2$ placed on walls $3\ \text{m}$ apart. A person at $1\ \text{m}$ from the right-hand mirror looks toward it and sees a series of images of himself. At what distance from the person is the second of those images? A) $2\ \text{m}$; B) $4\ \text{m}$; C) $6\ \text{m}$; D) $8\ \text{m}$; E) $10\ \text{m}$.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -572,14 +527,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q12.** A car is travelling along a straight line at $36\ \text{km/h}$. At a tree height it starts to accelerate evenly at $2\ \text{m s}^{-2}$ and reaches a road sign after $5\ \text{s}$. What's the distance between the tree and the sign? A) $10\ \text{m}$; B) $20\ \text{m}$; C) $75\ \text{m}$; D) $100\ \text{m}$; E) $120\ \text{m}$.
+**Q12.** A car travels along a straight stretch at $36\ \text{km/h}$. At the height of a tree it begins to accelerate uniformly at $2\ \text{m s}^{-2}$ and reaches a road sign after $5\ \text{s}$. What is the distance between the tree and the sign? A) $10\ \text{m}$; B) $20\ \text{m}$; C) $75\ \text{m}$; D) $100\ \text{m}$; E) $120\ \text{m}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -601,14 +551,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q13.** Which graph best represents the relationship between the average kinetic energy of molecules of a perfect gas and the temperature measured on the Celsius scale? *[Five AE graphs; the ratio is $\bar E_c=\tfrac{n}{2}k_B(t+T_0)$, directed with positive intercept on the energy axis.]*
+**Q13.** Which graph best represents the relationship between the average kinetic energy of the molecules of a perfect gas and the temperature measured on the Celsius scale? *[Five graphs A–E; the relationship is $\bar E_c=\tfrac{n}{2}k_B(t+T_0)$, a straight line with a positive intercept on the energy axis.]*
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -630,14 +575,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q14.** Two unbounded straight wires, arranged perpendicularly, are run by equal currents (indicated vertices), practically on the same plane but not in contact. The magnetic field is zero. (a) only at one point in quadrant I; (b) only at one point in quadrant II; (c) at several points in quadrant I and II; (d) at several points in quadrant I and IV; (e) at several points in quadrant II and IV.
+**Q14.** Two infinite straight wires, arranged perpendicularly, carry equal currents (directions indicated), practically on the same plane but not in contact. The magnetic field is zero... A) only at one point in quadrant I; B) only at one point in quadrant II; C) at multiple points in quadrants I and II; D) at multiple points in quadrants I and IV; E) at multiple points in quadrants II and IV.
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Biot-Savart Law (metodo)|Biot-Savart Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -659,14 +599,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** What is the approximate bonding energy of a helium nucleus ${}^4_2\text{He}$ having a mass of $6.64466\times10^{-27}\ \text{kg}$? A) $1.6\times10^{-21}\ \text{J}$; B) $1.6\times10^{-20}\ \text{J}$; C) $4.5\times10^{-13}\ \text{J}$; D) $4.5\times10^{-12}\ \text{J}$; E) $2.35\times10^{-12}\ \text{J}$.
+**Q15.** What is approximately the binding energy of a helium nucleus ${}^4_2\text{He}$ that has a mass of $6.64466\times10^{-27}\ \text{kg}$? A) $1.6\times10^{-21}\ \text{J}$; B) $1.6\times10^{-20}\ \text{J}$; C) $4.5\times10^{-13}\ \text{J}$; D) $4.5\times10^{-12}\ \text{J}$; E) $2.35\times10^{-12}\ \text{J}$.
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -693,19 +628,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q16.** What is the correct expression of the magnetic field at point P? *[Circuit consisting of two concentric semicirculars of $a$ and $b$ rays and two straight lines; suggestion: at the center of a spire of $R$ ray the field is $\mu_0 i/(2R)$.]* A) $\dfrac{\mu_0 I}{4}\!\left(\dfrac1a-\dfrac1b\right)$ incoming; B) $\dfrac{\mu_0 I}{4}\!\left(\dfrac1a-\dfrac1b\right)$ outgoing; C) $\dfrac{\mu_0 I}{4}\!\left(\dfrac1a-\dfrac1b\right)-\dfrac{\mu_0 I}{2a}$ outgoing; D) $\dfrac{\mu_0 I}{2}\!\left(\dfrac1a-\dfrac1b\right)$ outgoing; E) $\dfrac{\mu_0 I}{2}\!\left(\dfrac1a+\dfrac1b\right)+\dfrac{\mu_0 I}{2a}$ incoming.
+**Q16.** What is the correct expression for the magnetic field at point P? *[Circuit formed by two concentric semicircles with radii $a$ and $b$ and two straight segments; hint: at the center of a loop of radius $R$ the field is $\mu_0 i/(2R)$.]* A) $\dfrac{\mu_0 I}{4}\!\left(\dfrac1a-\dfrac1b\right)$ inward; B) $\dfrac{\mu_0 I}{4}\!\left(\dfrac1a-\dfrac1b\right)$ outward; C) $\dfrac{\mu_0 I}{4}\!\left(\dfrac1a-\dfrac1b\right)-\dfrac{\mu_0 I}{2a}$ outward; D) $\dfrac{\mu_0 I}{2}\!\left(\dfrac1a-\dfrac1b\right)$ outward; E) $\dfrac{\mu_0 I}{2}\!\left(\dfrac1a+\dfrac1b\right)+\dfrac{\mu_0 I}{2a}$ inward.
 
 <!--fig:start-->
-Question 16  circular arc with point P and radius R
+**Question 16** — circular arc with point P and radius R
 ![[_attachments/1liv17T/1liv17T_p6_f10.png]]
 <!--fig:end-->
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -732,19 +662,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-A student is walking on a climbing road; the graph shows the work done during the climb depending on the time. What is the unit of measurement of the slope of the line in this graph? (a) It has no unit of measurement; (b) joule; (c) degree; (d) second; (e) watt.
+**Q17.** A student travels along an uphill road; the graph shows the work done during the climb as a function of time. What is the unit of measurement of the slope of the line in this graph? A) It has no unit of measurement; B) joule; C) degree; D) second; E) watt.
 
 <!--fig:start-->
-Question 17  Chart of work vs time
+**Question 17** — work vs time graph
 ![[_attachments/1liv17T/1liv17T_p6_f11.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -771,19 +696,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q18. ** A sound source which is still relative to the medium emits spherical waves of wavelength $\lambda_0$, which propagate at a speed $v$. The source is set to motion at $v_s<v$ speed to the right. The distance $\lambda$ between two adjacent ridges immediately behind the source is: A) $\dfrac{\lambda_0 v}{v+v_s}$; B) $\dfrac{\lambda_0 v}{v-v_s}$; C) $\lambda_0\!\left(1+\dfrac{v_s}{v}\right)$; D) $\lambda_0\!\left(1+\dfrac{v_s}{v}\right)$; E) $\lambda_0\!\left(1-\dfrac{v_s}{v}\right)$. *(the correct answer is $\lambda=\lambda_0(1+v_s/v)$.) *
+**Q18.** A sound source at rest with respect to the medium emits spherical waves of wavelength $\lambda_0$, which propagate with speed $v$. The source is set in motion with speed $v_s<v$ toward the right. The distance $\lambda$ between two adjacent crests immediately behind the source is: A) $\dfrac{\lambda_0 v}{v+v_s}$; B) $\dfrac{\lambda_0 v}{v-v_s}$; C) $\lambda_0\!\left(1+\dfrac{v_s}{v}\right)$; D) $\lambda_0\!\left(1+\dfrac{v_s}{v}\right)$; E) $\lambda_0\!\left(1-\dfrac{v_s}{v}\right)$. *(the correct answer is $\lambda=\lambda_0(1+v_s/v)$.)*
 
 <!--fig:start-->
-Question 18  Circular orbit with Sun S and speed
+**Question 18** — circular orbit with Sun S and velocity
 ![[_attachments/1liv17T/1liv17T_p6_f12.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -805,14 +725,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q19.** A block of ice of mass $m$ falls into a lake; the impact melts the $0.2\%$ of the block. Ice and lake are at $0\,^\circ\text{C}$. The minimum height from which the ice has fallen is $h$, indicating with $\lambda$ the latent melting heat: A) $\dfrac{\lambda}{500\,g}$; B) $\dfrac{\lambda}{500}g$; C) $\dfrac{g\lambda}{500\,m}$; D) $\dfrac{m\lambda}{500\,g}$; E) $\dfrac{500\,g\lambda}{m}$.
+**Q19.** A block of ice of mass $m$ falls into a lake; upon impact it melts $0.2\%$ of the block. The ice and the lake are at $0\,^\circ\text{C}$. Denoting by $\lambda$ the latent heat of fusion, the minimum height $h$ from which the ice fell is: A) $\dfrac{\lambda}{500\,g}$; B) $\dfrac{\lambda}{500}g$; C) $\dfrac{g\lambda}{500\,m}$; D) $\dfrac{m\lambda}{500\,g}$; E) $\dfrac{500\,g\lambda}{m}$.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -839,19 +754,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The resulting force $\vec F_1$ and $\vec F_2$ shall be $\vec R$. In the figure $\vec F_1$ and $\vec R$ are represented. Which of the vectors represents the force $\vec F_2$? *[Five AE vectors; the correct answer is $\vec F_2=\vec R-\vec F_1$.]*
+**Q20.** Two forces $\vec F_1$ and $\vec F_2$ have $\vec R$ as their resultant. In the figure, $\vec F_1$ and $\vec R$ are represented. Which of the vectors represents the force $\vec F_2$? *[Five vectors A–E; the correct answer satisfies $\vec F_2=\vec R-\vec F_1$.]*
 
 <!--fig:start-->
-Question 20  Five force vector diagrams F1 F2
+**Problem 20** — five diagrams of force vectors F1 F2
 ![[_attachments/1liv17T/1liv17T_p7_f13.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -917,19 +827,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-A uniform length scale of $L$ shall be supported upwards (A) on a smooth wall and downwards (B) on a rough floor (static friction coefficient $\mu$). The ladder shall slide if the angle $\theta$ to the floor is less than $\theta_\text{min}$. Which relationship is correct? A) $\theta_\text{min}=\mu/L$; B) $\tan\theta_\text{min}=2\mu$; C) $\tan\theta_\text{min}=1/(2\mu)$; D) $\sin\theta_\text{min}=1/\mu$; E) $\cos\theta_\text{min}=\mu$.
+**Q22.** A uniform ladder of length $L$ rests at the top (A) against a smooth wall and at the bottom (B) on a rough floor (coefficient of static friction $\mu$). The ladder slips if the angle $\theta$ with the floor is less than $\theta_\text{min}$. Which relation is correct? A) $\theta_\text{min}=\mu/L$; B) $\tan\theta_\text{min}=2\mu$; C) $\tan\theta_\text{min}=1/(2\mu)$; D) $\sin\theta_\text{min}=1/\mu$; E) $\cos\theta_\text{min}=\mu$.
 
 <!--fig:start-->
-Question 22  slope length L and angle theta
+**Question 22** — inclined ladder length L and angle theta
 ![[_attachments/1liv17T/1liv17T_p7_f15.png]]
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -951,14 +856,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q23.** A burning thunderstorm of arms irradiates energy with a power of $P$ to the absolute temperature $T$. Approaching radiation to that of a black body, what is the radiated power when the temperature drops to $T/2$? A) $P$; B) $P/2$; C) $P/4$; D) $P/8$; E) $P/16$.
+**Q23.** A burning ember radiates energy with power $P$ at absolute temperature $T$. Approximating the radiation as that of a black body, what is the radiated power when the temperature drops to $T/2$? A) $P$; B) $P/2$; C) $P/4$; D) $P/8$; E) $P/16$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -980,14 +880,9 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q24.** A lens forms a real image, three times the size of the object, at a distance of $12\ \text{cm}$ from the lens. How far from the lens is the object? A) $36\ \text{cm}$; B) $12\ \text{cm}$; C) $9\ \text{cm}$; D) $4\ \text{cm}$; E) $3\ \text{cm}$.
+**Q24.** A lens forms a real image, three times larger than the object, at a distance of $12\ \text{cm}$ from the lens. At what distance from the lens is the object located? A) $36\ \text{cm}$; B) $12\ \text{cm}$; C) $9\ \text{cm}$; D) $4\ \text{cm}$; E) $3\ \text{cm}$.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1038,14 +933,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The bar of a musical instrument (much longer than the diameter), open at both ends, resonates with the fundamental frequency of $300\ \text{Hz}$. If the same barrel were closed to an extreme, it would resonate to the fundamental frequency of: A) $75\ \text{Hz}$; B) $150\ \text{Hz}$; C) $300\ \text{Hz}$; D) $600\ \text{Hz}$; E) $1200\ \text{Hz}$.
+**Q26.** The pipe of a musical instrument (length much greater than the diameter), open at both ends, resonates at the fundamental frequency of $300\ \text{Hz}$. If the same pipe were closed at one end, it would resonate at the fundamental frequency of: A) $75\ \text{Hz}$; B) $150\ \text{Hz}$; C) $300\ \text{Hz}$; D) $600\ \text{Hz}$; E) $1200\ \text{Hz}$.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1072,19 +962,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A student throws a ball into the basket and sends it to print horizontally on the board, at a speed of $v=4.5\ \text{m s}^{-1}$. How long has the ball been in the air? The following conditions are met: (a) approximately $0.2\ \text{s}$; (b) approximately $0.6\ \text{s}$; (c) approximately $1\ \text{s}$; (d) approximately $1.2\ \text{s}$; (e) approximately $2\ \text{s}$. *(N.B.: Q7 specular question, with the engine side reversed.)*
+**Q27.** A student throws a ball toward the basket and sends it to hit the backboard horizontally, with speed $v=4.5\ \text{m s}^{-1}$. For how long was the ball in flight? A) about $0.2\ \text{s}$; B) about $0.6\ \text{s}$; C) about $1\ \text{s}$; D) about $1.2\ \text{s}$; E) about $2\ \text{s}$. *(N.B.: question mirroring Q7, with the direction of motion reversed.)*
 
 <!--fig:start-->
-Question 27   Ball throw illustration with figure
+**Question 27** — illustration of ball throw with figure
 ![[_attachments/1liv17T/1liv17T_p8_f16.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1111,19 +996,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q28.** Three carriages of equal mass $m$ on an air cushion rail: carriages 2 and 3 are stationary, carriage 1 is moving at $v$ speed. The cart 1 hits the 2 (remain attached), then the pair hits the 3 with an elastic impact. The speed of the cart 3 shall be close to: A) $0.17v$; B) $0.50v$; C) $0.67v$; D) $0.80v$; E) $1.0v$.
+**Q28.** Three carts of equal mass $m$ on an air cushion track: carts 2 and 3 are stationary, cart 1 moves at speed $v$. Cart 1 hits cart 2 (they remain attached), then the pair hits cart 3 in an elastic collision. The speed of cart 3 will be closest to: A) $0.17v$; B) $0.50v$; C) $0.67v$; D) $0.80v$; E) $1.0v$.
 
 <!--fig:start-->
-Question 28  Three tracked numbered carts
+**Question 28** — three numbered carts on a track
 ![[_attachments/1liv17T/1liv17T_p8_f17.png]]
 <!--fig:end-->
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1150,19 +1030,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A beam of light passes through two thin slits producing interference fringes on a screen. In air, a maximum (path difference $r_2-r_1$ equal to a wavelength) forms at the point P at the angle $\theta$. If the whole apparatus is placed in water, the angle $\theta$ corresponding to the same maximum... (a) remains the same; (b) decreases because it decreases frequency; (c) decreases because it decreases wavelength; (d) increases because the frequency increases; (e) increases because the wavelength increases.
+**Q29.** A beam of light passes through two thin slits, producing interference fringes on a screen. In air, a maximum (path difference $r_2-r_1$ equal to one wavelength) forms at point P at angle $\theta$. If the entire apparatus is placed in water, the angle $\theta$ corresponding to the same maximum... A) remains the same; B) decreases because the frequency decreases; C) decreases because the wavelength decreases; D) increases because the frequency increases; E) increases because the wavelength increases.
 
 <!--fig:start-->
-Question 29  Double split with rays r1 r2
+**Question 29** — double slit with rays r1 r2
 ![[_attachments/1liv17T/1liv17T_p9_f18.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1189,19 +1064,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q30.** Qual è la tensione $T$ del cavo mentre un corpo da $1\ \text{kg}$ viene sollevato a velocità costante tramite una carrucola sostenuta da due tratti di cavo?A) $3.5\ \text{N}$; B) $4.9\ \text{N}$; C) $6.9\ \text{N}$; D) $9.8\ \text{N}$; E) $14\ \text{N}$.
+**Q30.** What is the tension $T$ of the cable while a body of $1\ \text{kg}$ is lifted at constant speed by means of a pulley supported by two sections of cable?A) $3.5\ \text{N}$; B) $4.9\ \text{N}$; C) $6.9\ \text{N}$; D) $9.8\ \text{N}$; E) $14\ \text{N}$.
 
 <!--fig:start-->
-**Question 30**  ropes with a mass of 1 kg suspended
+**Problem 30** — rope with mass 1 kg hanging
 ![[_attachments/1liv17T/1liv17T_p9_f19.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1223,14 +1093,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two satellites orbiting the same planet with radius $R$ and $2R$ circular orbits. If $v_1$ is the orbital velocity of the first, the velocity of the second shall be: A) $v_1/2$; B) $v_1/\sqrt2$; C) $v_1$; D) $\sqrt2\,v_1$; E) $2v_1$.
+**Q31.** Two satellites orbit the same planet with circular orbits of radius $R$ and $2R$. If $v_1$ is the orbital speed of the first, the speed of the second will be: A) $v_1/2$; B) $v_1/\sqrt2$; C) $v_1$; D) $\sqrt2\,v_1$; E) $2v_1$.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1257,19 +1122,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q32.** A conductive spherical shell has an internal radius of $a$ and an external radius of $b$. A charge $+Q$ is placed in the centre and a charge $-q$ is placed on the shell. How is the load distributed to the balance? (a) nothing on the inside, $-q$ on the outside; (b) $-Q$ on the inside, $-q$ on the outside; (c) $-Q$ on the inside, $-q+Q$ on the outside; (d) $+Q$ on the inside, $-q-Q$ on the outside; (e) $-q$ distributed proportionally to the square of the beams.
+**Q32.** A conducting spherical shell has an inner surface of radius $a$ and an outer surface of radius $b$. A charge $+Q$ is at the center and a charge $-q$ is placed on the shell. How is the charge distributed at equilibrium? A) zero on the inner surface, $-q$ on the outer surface; B) $-Q$ on the inner surface, $-q$ on the outer surface; C) $-Q$ on the inner surface, $-q+Q$ on the outer surface; D) $+Q$ on the inner surface, $-q-Q$ on the outer surface; E) $-q$ distributed proportionally to the squares of the radii.
 
 <!--fig:start-->
-Question 32  Concentric spheres with Q charge
+**Problem 32** — concentric spheres with charge Q
 ![[_attachments/1liv17T/1liv17T_p9_f20.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1291,14 +1151,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a region without gravity, two uniformly charged spheres are fixed at a distance $28.0\ \text{mm}$; mass $m=4.18\ \text{g}$, charge $q=8\ \mu\text{C}$. A third equal sphere, initially stationary near the middle point, is released. What's his long-distance speed? A) $0$; B) $6.28\ \text{m s}^{-1}$; C) $8.87\ \text{m s}^{-1}$; D) $12.6\ \text{m s}^{-1}$; E) $27.8\ \text{m s}^{-1}$.
+**Q33.** In a region without gravity, two identical uniformly charged small spheres are fixed at a distance $28.0\ \text{mm}$; mass $m=4.18\ \text{g}$, charge $q=8\ \mu\text{C}$. A third identical small sphere, initially at rest near the midpoint, is let go. What is its speed at a large distance? A) $0$; B) $6.28\ \text{m s}^{-1}$; C) $8.87\ \text{m s}^{-1}$; D) $12.6\ \text{m s}^{-1}$; E) $27.8\ \text{m s}^{-1}$.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1325,19 +1180,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q34.** When a harmonic wave hits the interface between two different media, a wave can be transmitted in the second half. What characteristics may differ between an accidental wave and a transmitted wave? The following conditions shall apply: (1) speed $v$; (2) period $T$; (3) wavelength $\lambda$. (a) $\lambda$ and $T$, but not $v$; (b) $T$ and $v$, but not $\lambda$; (c) $\lambda$ and $v$, but not $T$; (d) only $v$, but not $\lambda$ and $T$; (e) all three.
+**Q34.** When a harmonic wave strikes the interface between two different media, a wave can be transmitted into the second medium. Which characteristics can differ between the incident wave and the transmitted wave? (1) speed $v$; (2) period $T$; (3) wavelength $\lambda$. A) $\lambda$ and $T$, but not $v$; B) $T$ and $v$, but not $\lambda$; C) $\lambda$ and $v$, but not $T$; D) only $v$, but not $\lambda$ and $T$; E) all three.
 
 <!--fig:start-->
 ![[_attachments/1liv17T/1liv17T_p3_f1.png]]
-*graphs F vs L, five options*
+*F vs L graphs, five options*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1359,14 +1209,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q35.** A motorcyclist travels from Siena to Bologna: in the first half of the route the average speed is $80\ \text{km/h}$, in the second half $100\ \text{km/h}$. What's the average speed on the entire route? A) $84\ \text{km/h}$; B) $89\ \text{km/h}$; C) $90\ \text{km/h}$; D) $91\ \text{km/h}$; E) $95\ \text{km/h}$.
+**Q35.** A motorcyclist travels from Siena to Bologna: over the first half of the route the average speed is $80\ \text{km/h}$, over the second half $100\ \text{km/h}$. What is the average speed over the entire route? A) $84\ \text{km/h}$; B) $89\ \text{km/h}$; C) $90\ \text{km/h}$; D) $91\ \text{km/h}$; E) $95\ \text{km/h}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1422,19 +1267,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit, $L_1,L_2,L_3,L_4$ are four identical lamps and $V_1,\dots,V_5$ five ideal voltmeters. If the $L_3$ bulb burns (disrupting the circuit at that point), which or which voltmeter marks zero? (a) No voltmeter; (b) Only $V_3$; (c) Only $V_4$; (d) $V_3,V_4,V_5$; (e) All of them.
+**Q37.** In the circuit, $L_1,L_2,L_3,L_4$ are four identical light bulbs and $V_1,\dots,V_5$ five ideal voltmeters. If bulb $L_3$ burns out (breaking the circuit at that point), which voltmeter or voltmeters read zero? A) No voltmeter; B) Only $V_3$; C) Only $V_4$; D) $V_3,V_4,V_5$; E) All.
 
 <!--fig:start-->
-Question 37   inductor and voltmeter circuit
+**Problem 37** — circuit with inductors and voltmeters
 ![[_attachments/1liv17T/1liv17T_p10_f21.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1461,19 +1301,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A vehicle is moving at a constant speed on a straight, flat road. When it overcomes a rocky outcrop, a stone falls vertically. A passenger takes a picture of the camera holding still and picks up the stone. Which diagram best represents the motion of the stone in the video? *[Five AE diagrams; the motor in the reference car is a parabola with horizontal starting speed.]*
+**Q38.** A car moves at constant speed on a straight, level road. When it goes over a rocky protrusion, a stone detaches from it and falls vertically. A passenger films while holding the video camera still and records the stone. Which diagram best represents the motion of the stone in the video? *[Five diagrams A–E; the motion in the car's reference frame is a parabola with initial horizontal velocity.]*
 
 <!--fig:start-->
-Question 38  5 car and rock tracks
+**Problem 38** — five trajectories of car and stone
 ![[_attachments/1liv17T/1liv17T_p11_f22.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1495,14 +1330,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q39.** La pressione $p$ di una certa quantità di gas perfetto viene aumentata comprimendolo a temperatura $T$ costante. La densità $\delta$ del gas è... (a) directly proportional to $p$; (b) inversely proportional to $p$; (c) directly proportional to $p^2$; (d) inversely proportional to $p^2$; (e) constant.
+**Q39.** The pressure $p$ of a certain quantity of ideal gas is increased by compressing it at constant temperature $T$. The density $\delta$ of the gas is... A) directly proportional to $p$; B) inversely proportional to $p$; C) directly proportional to $p^2$; D) inversely proportional to $p^2$; E) constant.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)
 
 
 
@@ -1534,21 +1364,16 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q40.** Two fixed point-form loads at a distance $d=0.2\ \text{m}$: $q_1=+1\ \mu\text{C}$, $q_2=-4\ \mu\text{C}$. At what point is the electric field zero? (a) $0.40\ \text{m}$ to the right of $q_1$; (b) $0.13\ \text{m}$ to the right of $q_1$; (c) $0.10\ \text{m}$ to the right of $q_1$; (d) $0.067\ \text{m}$ to the left of $q_1$; (e) $0.20\ \text{m}$ to the left of $q_1$.
+**Q40.** Two point charges fixed at a distance $d=0.2\ \text{m}$: $q_1=+1\ \mu\text{C}$, $q_2=-4\ \mu\text{C}$. At which point is the electric field zero? A) $0.40\ \text{m}$ to the right of $q_1$; B) $0.13\ \text{m}$ to the right of $q_1$; C) $0.10\ \text{m}$ to the right of $q_1$; D) $0.067\ \text{m}$ to the left of $q_1$; E) $0.20\ \text{m}$ to the left of $q_1$.
 
 <!--fig:start-->
 ![[_attachments/1liv17T/1liv17T_p3_f2.png]]
-The following table shows the results of the calculation of the weight of the vehicle:
+*pendulum oscillating, five positions*
 <!--fig:end-->
 
 <!--fig:start-->
-Question 40  Two loads q1 q2 with distance d
+**Problem 40** — two charges q1 q2 with distance d
 ![[_attachments/1liv17T/1liv17T_p11_f23.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1u7v7ykLkykl88tp3I6D9xTq50yfBG67M/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1d-xXdPeiyuJsPsFwPWhr7cjUCxwYZvBg/view)

@@ -98,7 +98,7 @@ The available apparatus and materials are listed in the following table:
 
 | Apparatus and materials | Quantity |
 |--------------------------|----------|
-| A Fotoradiator (PD)      | 1        |
+| A Photodetector (PD)      | 1        |
 | B Rotatable polarizers including support | 2 |
 | C TN-type liquid crystal cell (yellow wires) including rotatable support | 1 |
 | D Function generator    | 1        |
@@ -977,7 +977,7 @@ $$T_\parallel = 1 - \sin^2 2\theta \sin^2\frac{\delta}{2}$$
 $$T_\perp = \sin^2 2\theta \sin^2\frac{\delta}{2}$$ where $\parallel$ and $\perp$ indicate that the transmission axis of the analyzer is respectively parallel or perpendicular to that of the first polarizer.
 
 II. Experiment
-1. Remove the NT cell from its holder and replace it with the LC cell aligned in parallel.
+1. Remove the TN cell from its holder and replace it with the LC cell aligned in parallel.
 2. Set up the configuration with $\theta = 45^\circ$, leaving $V = 0$ as shown in Fig. 8.
 Align the transmission axis of the analyzer perpendicular to that of the polarizer, then rotate the LC cell aligned in parallel until the transmitted light intensity reaches its maximum value ($T_\perp$). In this way, you find the configuration with $\theta = 45^\circ$. Record the value of $T_\perp$, then measure the transmitted light intensity ($T_\parallel$) from the same cell when the transmission axis of the analyzer is parallel to that of the first polarizer (always with $V = 0$).
 
@@ -1061,7 +1061,7 @@ Hints:
 Measuring also the curve of $T_\perp$ helps to improve the precision of the data, but the data for $T_\perp$ are not necessary to answer the following questions.
 In the most critical regions where things vary rapidly, take more data if necessary (especially in the range 0.5-4.0 V)
 Question C-(2) (3.0 points)
-Measure, and put the data in a table and in a graph, the electro-optic switching curve $T_\parallel$ for this LC cell with parallel alignment in the configuration with $\theta =
+Measure, and put the data in a table and in a graph, the electro-optic switching curve $T_\parallel$ for this parallel-aligned LC cell in the configuration with $\theta =
 45^\circ$.
 Question C-(3) (2.0 points)
 From the electro-optical switching data, find the value of the externally applied potential difference $V_\pi$.

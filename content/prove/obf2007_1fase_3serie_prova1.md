@@ -143,36 +143,23 @@ preservação da natureza.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 1
+Quesito 1
 
-Dopo aver letto il testo sopra due studenti sono rimasti
-discutendo di ciò che avevano capito e bloccando il
-il seguente dialogo:
+Dopo aver letto il testo sopra due studenti hanno discusso su ciò che avevano capito e hanno avuto il seguente dialogo:
 
-I)  Ho capito che il motore ibrido è una composizione
-di tre motori. Il movimento iniziale è prodotto dal
-il motore elettromagnetico e il MCI hanno
-Il ruolo di
-ricaricare le batterie.
+I) – Ho capito che il motore ibrido è una composizione di tre motori. Il movimento iniziale è prodotto dal motore elettromagnetico e il MCI ha anche il ruolo di ricaricare le batterie.
 
-II)  Mi è piaciuto
-che ho letto, soprattutto quello che dicono i
-Ingegneri Toyota, che questa macchina
-Consuma solo una
-litro di benzina a
-ogni 42 km.
+II) – Mi è piaciuto quello che ho letto, soprattutto quello che dicono gli ingegneri della Toyota, che questa auto consuma solo un litro di benzina ogni 42,5 km.
 
-III)  Non è vero. Il valore corretto, secondo:
-I tecnici della
-Toyota, è che il
+III) – Non è vero. Il valore corretto, secondo gli ingegneri della
+Toyota, è che la
 Prius fa, in media,
-25 km con un litro
-di benzina.
+25 km con un litro di benzina.
 
-IV)  Perché
+IV) – Perché il
 MCI entra in azione solo a 7,5 m/s
 
-Possiamo dire dalle tre affermazioni che abbiamo sopra che:
+Possiamo dire delle tre affermazioni sopra che:
 
 - **A.** Solo le affermazioni I e IV sono corrette.
 - **B.** Le affermazioni I, II e IV sono corrette.
@@ -180,122 +167,45 @@ Possiamo dire dalle tre affermazioni che abbiamo sopra che:
 - **D.** Solo le affermazioni I e II sono corrette.
 - **E.** Le affermazioni I e III sono corrette.
 
-In particolare, il Consiglio ha adottato una decisione che prevede che il Consiglio, in base alle sue proposte, non
-studenti di auto, fisica e
-In particolare, la politica di
-Il professore ha dato, per completare, un secondo
-testo:
-Articolo 2
+Osservando la discussione e l'interesse degli studenti per l'argomento automobili, di Fisica e, soprattutto, di economia di carburante, il professore ha consegnato, per integrare, un secondo testo:
+Testo 2
 
-Dopo il lancio di questo veicolo, che in parte
-La Commissione ha adottato una proposta di regolamento che prevede che il prezzo dei combustibili sia aumentato in modo improvviso, che la produzione di petrolio sia diminuita e che, infine, la questione del greenhouse
-un cambiamento di atteggiamento da parte di alcuni automobilisti.
-La Commissione ha adottato una decisione che prevede che il Consiglio possa procedere al controllo delle misure di sicurezza.
-combustibile.
-Hanno messo:
-Quindi,
-na
-Internet
-(http://www.metrompg.com/posts/pulse-and-glide.htm)
-un grafico della velocità x tempo di un'auto
-- Prius.
-Si osserva, nel grafico di cui sopra, una velocità di
-15 m/s, per risparmiare combustibile,
-auto con la suavità all'inizio e poi con più
-forza fino a raggiungere la velocità massima di 20 m/s. Em
-poi togliere il piede dall'acceleratore, sempre in modo
-la macchina non rimane in stato che molti
-Gli esperti automobilisti chiamano "banguela" per l'esistenza di un sistema di trasmissione,
-chiamato planetario (visto nella figura del motore multiplo ibrido).
-La friczione dell'auto con l'aria, cioè la sensazione di
-di vetrina nelle mani quando la macchina si trova in
-movimento, e attrito dissipativo del pneumatico con il pavimento, e
-non la forza di ripristino, fanno sì che la velocità
-diminuisce. In questa fase l'MCI si inattiva e il conducente,
-osservare che ha raggiunto la velocità di 15 m/s, ritorna a
-accelerare, all'inizio più lentamente, verso un nuovo ciclo
-che gli utenti del modello Prius definiscono "pulso"
-e gliede" e che possiamo tradurre in "accelerazione e
-navigare.
-Si noti anche che il grafico è simile a quello di una
-Particella che realizza Movimento armonico semplice
-(MHS) e, come sappiamo, il MHS è la descrizione del
-movimento di un pendolo attorno alla sua posizione di
-equilibrio (vedi figura complementare 1).
-Tuttavia, tale confronto si riduce solo al
-il grafico, perché nel movimento pendolare c'è una forza
-un'unità di recupero, che fa sì che si svolga un movimento
-di andare e venire attorno al punto di equilibrio,
-alzando un po' la pendola.
-Questo processo sembra essere un'applicazione in un contesto più ampio di quello che dovrebbe essere insegnato nelle scuole auto-istruzionali, in cui l'insegnante dovrebbe dire che, per
-La guida economica deve essere
-ben equilibrato. Ad esempio, quando la macchina è
-la gravità deve essere ben distribuita per
+Dopo il lancio di questo veicolo, che in parte coincide con l'aumento improvviso del prezzo dei carburanti, la prospettiva di declino della produzione di petrolio e, infine, la questione dell'effetto serra, si è verificato un cambiamento di atteggiamento da parte di alcuni automobilisti.
+Hanno iniziato a guidare in modo da sfruttare maggiormente il carburante.
+Hanno messo, quindi, nella
+Internet (http://www.metrompg.com/posts/pulse-and-glide.htm)
+un grafico della velocità in funzione del tempo di un'automobile
+PRIUS.
+Si osserva, nel grafico sopra, una velocità di
+15 m/s, al fine di risparmiare carburante, accelera l'automobile dolcemente all'inizio e poi con più forza fino a raggiungere la velocità massima di 20 m/s. Subito dopo, toglie il piede dall'acceleratore, sempre in modo gentile, ma l'automobile non resta nello stato che molti guidatori esperti chiamano "in folle", a causa dell'esistenza di un sistema di trasmissione, chiamato planetario (visto nella figura del motore multiplo ibrido).
+L'attrito dell'automobile con l'aria, cioè la sensazione di vento sulle mani quando l'auto è in movimento, e l'attrito dissipativo del pneumatico con il suolo, e non la forza di richiamo, fanno sì che la velocità diminuisca. In questa fase il MCI resta inattivo e il guidatore, nell'osservare di aver raggiunto la velocità di 15 m/s, torna ad accelerare, all'inizio più dolcemente, per un nuovo ciclo che gli utenti del modello Prius chiamano "pulse and glide" e che possiamo tradurre con "accelerare e navigare".
+Si noti inoltre che il grafico è simile a quello di una particella che compie un Moto Armonico Semplice (MHS) e, come già sappiamo, il MHS è la descrizione del moto di un pendolo attorno alla sua posizione di equilibrio (si veda la figura complementare alla prima).
+Tuttavia, questo confronto si riduce soltanto al grafico, poiché nel moto pendolare esiste una forza di richiamo, la quale fa sì che avvenga un movimento avanti e indietro attorno al punto di equilibrio, quando solleviamo un po' l'altezza del pendolo.
+Questo processo sembra essere un'applicazione in un contesto più ampio di quanto dovrebbe essere insegnato nelle autoscuole, nelle quali l'istruttore dovrebbe dire che, per guidare in modo economico, l'automobile deve essere ben equilibrata. Per esempio, quando l'auto è parcheggiata il peso deve essere ben distribuito sul
 
-- Ho fatto quattro ruote. La macchina BMW 325i
-Touring, come specificato dal fabbricante, ha
-circa 15.000 N di peso, distribuito vicino al
-ottimale di 50% davanti e 50% dietro (con serbatoio)
-il vuoto è intorno a 53/47, quindi, quando
-() il sistema di sicurezza e di sicurezza. Nel caso del Prius,
-con 12.000 N, questo rapporto è di 60/40, che è un
-E' ovvio che questo è un svantaggio per il risparmio di carburante.
-Questo peso deve rimanere ben distribuito in una
-situazione dinamica. L'automobile, quando viene frenato, soffre
-un trasferimento di peso, dalla parte posteriore alla
-In questo caso, la situazione è molto diversa. Il trasferimento di peso avviene anche accelerando o
-- Facciamo una curva. Un studente più inquisitivo
-Chiedete come può esserci un trasferimento di
-peso, se tutte le parti che costituiscono l'automobile sono
-- Fissa. La risposta è:
-La stessa si verifica a causa dell'azione di inerzia e di attrito dei
-pneumatici sul centro di gravità (CG) dell'automobile, indicato anche nella figura seguente. Così,
-ci fu un trasferimento di peso virtuale e in questo contesto è interessante menzionare che una buona comprensione delle leggi di Newton fornisce una buona
-La gestione dei trasporti e la gestione dei trasporti
+telaio sui quattro pneumatici. L'automobile BMW 325i Touring, secondo le specifiche dei costruttori, ha circa "15.000 N di peso, distribuito vicino all'ideale del 50% all'anteriore e 50% al posteriore (con serbatoio vuoto si aggira intorno a 53/47, affinché, una volta rifornita, non vi sia squilibrio)". Nel caso della Prius, con 12.000 N, questo rapporto è di 60/40, che è un'ovvia svantaggio per il risparmio di carburante.
+Questo peso deve rimanere ben distribuito in una situazione dinamica. L'automobile, quando viene frenata, subisce un trasferimento di peso, dalla parte posteriore a quella anteriore, cioè uno squilibrio momentaneo, come possiamo osservare nella figura sottostante. Il trasferimento di peso avviene anche quando acceleriamo o quando affrontiamo una curva. Uno studente più inquisitivo chiederà come possa esserci un trasferimento di peso, se tutte le parti che formano l'automobile sono fisse. Possiamo rispondere, in sintesi, che esso avviene a causa dell'azione dell'inerzia e dell'attrito dei pneumatici sul Centro di Gravità (CG) dell'automobile, indicata anch'essa nella figura sottostante. Così, vi è stato un trasferimento virtuale di peso e in questo contesto è interessante menzionare che la buona comprensione delle Leggi di Newton fornisce una buona guidabilità e un risparmio di carburante.
 
-L'applicazione di queste e di altre leggi di natura in
-le diverse situazioni fornirà al futuro autista
-Un'orientamento più piacevole e un contributo alla
-la conservazione della natura.
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+L'applicazione di queste e altre leggi della natura in situazioni diverse fornirà al futuro guidatore una guida più piacevole e un contributo alla preservazione della natura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 1
+Question 1
 
-After reading the text above two students stayed
-They discussed what they had understood and closed the door.
-The following dialogue:
+After reading the text above, two students began discussing what they had understood and had the following dialogue:
 
-I)  I understand that the hybrid engine is a composite
-three-engine. The initial movement is produced by the
-The electric motor and the MCI have
-The role of
-Recharge the batteries.
+I) – I understood that the hybrid engine is a combination of three engines. The initial movement is produced by the electromagnetic engine and the ICE also has the role of recharging the batteries.
 
-I liked the
-I have read, especially what the
-Toyota engineers, that this car
-Consume only one
-1 litre of petrol
-every 40.5 miles.
+II) – I liked what I read, especially what the Toyota engineers say, that this car consumes only one liter of gasoline every 42.5 km.
 
-(iii)  It is not true. The correct value according to
-The engineers of the
-Toyota, is that the
+III) – That is not true. The correct value, according to the Toyota engineers, is that the
 Prius does, on average,
-25 km with a liter
-I'm not going to get any gas.
+25 km with one liter of gasoline.
 
-(iv)  Because the
-MCI only comes into play at 7.5 m/s
+IV) – Because the
+ICE only comes into action at 7.5 m/s
 
-We can say from the three above statements that:
+We can say about the three statements above that:
 
 - **A.** Only statements I and IV are correct.
 - **B.** Statements I, II and IV are correct.
@@ -303,89 +213,25 @@ We can say from the three above statements that:
 - **D.** Only statements I and II are correct.
 - **E.** Statements I and III are correct.
 
-Noting the discussion and the interest of the
-students in the field of automotive, physics and,
-The Commission has also adopted a number of proposals for a new directive on the protection of workers' rights.
-The teacher gave, to supplement, a second
-The following text:
-The Commission shall adopt implementing acts.
+Observing the discussion and the students' interest in the subject of automobiles, Physics and, mainly, fuel economy, the teacher handed out, to complement it, a second text:
+Text 2
 
-After the launch of this vehicle, it was partially
-The Commission has already taken a number of steps to ensure that the Community's financial resources are fully used to the task of improving the competitiveness of the Community.
-A change in attitude on the part of some drivers.
-They have been driving in such a way as to make the most of the
-Fuel.
-They put,
-So, what do you think?
-na
-The Internet
-The Commission has therefore decided to take the necessary measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented in accordance with the common position.
-a graph of the speed x time of a car
-Prius.
-The graph above shows a speed of
-15 m/s, with a view to saving fuel, accelerates the
-car gently at the start and then with more
-force until the maximum speed of 20 m/s is reached. Em
-then remove the foot from the accelerator, always in a manner
-The car is not in the state that many
-experienced drivers call it a "banguela" because of the existence of a transmission system,
-The number of vehicles is the same as the number of vehicles.
-The friction of the car with the air, i.e. the sensation
-The vehicle is in the
-movement, and the dissipative friction of the tyre with the ground, and
-The speed of the
-decrease. At this stage the MCI becomes inactive and the driver, at the
-observe that it has reached a speed of 15 m/s, return to
-accelerate, at the beginning more gently, to a new cycle
-which Prius model users refer to as "pulse"
-and glide" and which can be translated as "accelerate and
-navigating.
-Note also that the graph is similar to that of a
-Particle performing Simple Harmonious Movement
-(MHS) and, as we know, MHS is the description of the
-movement of a pendulum around its position of
-The following table shows the balance (see figure 1 above).
-However, this comparison is limited to the
-The graph is a graph, because in the pendulum motion there is a force
-The restorer, which causes a movement
-The following shall be added to the list of the following:
-We'll raise the pendulum a little bit.
-This process seems to be applied in a larger context than should be taught in self-schools, where the teacher should say that, in order to
-The vehicle must be in a safe and efficient mode of driving.
-well balanced. For example, when the car is
-When the weight is stationary, it must be well distributed by the
+After the launch of this vehicle, which in part coincides with the sudden increase in fuel prices, the prospect of declining oil production and, finally, the issue of the greenhouse effect, there was a change in attitude on the part of some drivers.
+They began to drive in such a way as to make better use of fuel.
+They then placed, in the
+Internet (http://www.metrompg.com/posts/pulse-and-glide.htm)
+a graph of speed vs. time of a PRIUS car.
+It can be observed, in the graph above, a speed of
+15 m/s, aiming to save fuel, accelerates the car gently at first and then more strongly until reaching the maximum speed of 20 m/s. Then, the driver takes their foot off the accelerator, always gently, but the car does not enter the state that many experienced drivers call "coasting", due to the existence of a transmission system, called planetary (seen in the figure of the multiple hybrid engine).
+The friction of the car with the air, that is, the sensation of wind on the hands when the car is in motion, and the dissipative friction of the tire with the ground, and not the restoring force, cause the speed to decrease. In this phase the MCI becomes inactive and the driver, upon observing that the speed of 15 m/s has been reached, accelerates again, more gently at first, for a new cycle that users of the Prius model call "pulse and glide" and which we can translate as "accelerate and glide".
+Note also that the graph is similar to that of a particle performing Simple Harmonic Motion (SHM) and, as we already know, SHM is the description of the motion of a pendulum around its equilibrium position (see the figure complementary to the first).
+However, this comparison boils down only to the graph, since in pendulum motion there is a restoring force, which causes a back-and-forth motion around the equilibrium point when we raise the height of the pendulum slightly.
+This process seems to be an application in a broader context than should be taught in driving schools, in which the instructor should say that, in order to drive economically, the car must be well balanced. For example, when the car is parked, the weight must be well distributed by the
 
-I was driving on all four tires. The BMW 325i
-Touring, as specified by the manufacturer, has
-approximately 15,000 N, distributed near the
-Ideally 50% front and 50% rear (tanked)
-The empty is around 53/47, so that when
-The Commission has not yet taken any action to resolve the problem. In the case of the Prius,
-With 12,000 N, this ratio is 60/40, which is a
-The Commission has already taken a number of measures to ensure that the Community's energy resources are not used to fuel the Community's energy needs.
-This weight should remain well distributed in a
-The Commission has already adopted a proposal for a directive on the protection of workers' rights. The car, when braking, suffers
-a weight transfer from the rear to the
-The first is the frontal, which is a momentary imbalance, as we can see in the figure below. Weight transfer also occurs by accelerating or
-We're going to make a curve. A more inquisitive student
-You will ask how a transfer of
-weight, if all the parts which make up the automobile are
-I'm not going to lie. We can answer, in brief, that the
-The same is true of the action of inertia and friction of the
-tyres over the centre of gravity (CG) of the car, also shown in the figure below. So, you know,
-There was a virtual weight transfer and in this context it is interesting to mention that a good understanding of Newton's laws provides a good
-The Commission has already adopted a number of proposals for a new directive on the protection of workers' rights.
+chassis on the four tires. The BMW 325i Touring automobile, according to manufacturer specifications, has about “15,000 N of weight, distributed close to the ideal of 50% at the front and 50% at the rear (with an empty tank it is around 53/47, so that, when fueled, there is no imbalance)”. In the case of the Prius, with 12,000 N, this ratio is 60/40, which is an obvious disadvantage for fuel economy.
+This weight should remain well distributed in a dynamic situation. The automobile, when braked, undergoes a transfer of weight, from the rear to the front, that is, a momentary imbalance, as we can observe in the figure below. Weight transfer also occurs when we accelerate or when we take a curve. A more inquisitive student will ask how there can be a transfer of weight, if all the parts that make up the automobile are fixed. We can answer, briefly, that it occurs due to the action of inertia and the friction of the tires on the Center of Gravity (CG) of the automobile, also indicated in the figure below. Thus, there was a virtual transfer of weight and in this context it is interesting to mention that a good understanding of Newton's Laws provides good drivability and fuel economy.
 
-The application of these and other laws of nature in the
-different situations will provide the future driver
-The Commission has already adopted a number of proposals for a new directive.
-the preservation of nature.
-
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+The application of these and other laws of nature in different situations will provide the future driver with more pleasant driving and a contribution to the preservation of nature.
 
 
 
@@ -453,117 +299,64 @@ Adaptado de (http://www.fueleconomy.gov/feg/atv.shtml
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 2
+Quesito 2
 
-Dopo aver letto questo secondo testo, i due studenti
-Continuato il dialogo:
+Dopo aver letto questo secondo testo, i due studenti hanno continuato il dialogo:
 
-I)  Sì, l'MHS è un fenomeno naturale dove esiste
-Una forza di ripristino e il Prius è più economico
-quando si svolge MHS.
+I) – Eh sì, il MHS è un fenomeno naturale in cui esiste una forza richiamante e il Prius è più economico quando realizza un MHS.
 
-II)  Uno dei disagi è che pesa 7200 N
-- In avanti e indietro.
+II) – Uno degli svantaggi è che pesa 7200 N davanti e 4800 N dietro.
 
-III)  E uno dei vantaggi di accelerare e navigare è
-che quando l'ICM si inattiva, la seconda legge di
+III) – E uno dei vantaggi dell'“accelerare e navigare” è che quando il MCI resta inattivo, la seconda Legge di
 Newton permette di mantenere l'equilibrio dinamico.
 
-Possiamo dire che le quattro affermazioni sono:
+Possiamo dire delle quattro affermazioni che:
 
-- MSK1 - Tutti sbagliati.
-- **B.** A II e III sono corrette.
-- **C.** Solo II è corretto.
-- **D ** I e II sono corretti.
-- E' tutto corretto.
-Ora, una discussione sull'efficienza energetica in
-auto".
+- **A.** Tutte sono sbagliate.
+- **B.** La II e la III sono corrette.
+- **C.** Solo la II è corretta.
+- **D.** La I e la II sono corrette.
+- **E.** Tutte sono corrette.
+Ora, una discussione su "efficienza energetica negli automobili".
 
-Articolo 3
+Testo 3
 
-Si stima che di ogni 100 litri (l) (o 100%) di
-benzina inserita in un'automobile (vedi schema),
-Il 62% viene utilizzato nel MCI per trasformare l'energia chimica
-La produzione di gasoline è stata ridotta di circa il 17% in
-Fermo dei semafori, congestioni ecc. Così,
-Sono rimaste il 21%. Di questo importo, il 2% è speso per l'arco, il motore di pulitore per parabrezza, la radio, ecc.;
-6% con attrito nei diversi tipi di trasmissione
-La Commissione ha adottato una decisione che prevede che le misure di cui al paragrafo 1 siano state adottate per la realizzazione di un'attività di trasporto. Vedete che
-Perdita! Di ogni 100 litri che comprate, solo 13 sono
-utilizzati per girare le gomme dell'automobile. Sfortunatamente,
-Non tutta questa energia viene utilizzata, perché il 4% viene perso nel
-abbraccio cinetico dei pneumatici con il suolo e 2% per resistenza
-dell'aria quando l'automobile si muove, restando
-Solo il 7% per il movimento dell'automobile. Da questa
-La macchina è inefficiente.
-Il 17% può essere ridotto notevolmente
-di guidare e di andare in giro, come strade, strade con poco
-traffico, ecc.
+Si stima che di ogni 100 litri (l) (o 100%) di benzina immessi in un'automobile (vedi lo schema),
+il 62% sia usato nel MCI nel trasformare l'energia chimica della benzina in energia meccanica; il 17% sia perso nelle fermate ai semafori, negli ingorghi ecc. Così, sono rimasti il 21%. Di questo valore, il 2% è speso per l'aria condizionata, il motorino del tergicristallo, la radio ecc.;
+il 6% per l'attrito nei diversi tipi di trasmissione necessari per il movimento dell'automobile. Guardate che perdita! Di ogni 100 litri che acquistiamo solo 13 sono usati per far girare i pneumatici dell'automobile. Purtroppo, nemmeno tutta questa energia è usata, poiché il 4% è perso nell'attrito cinetico dei pneumatici con il suolo e il 2% per la resistenza dell'aria quando l'automobile si muove, restando solamente il 7% per il movimento dell'automobile. In questo modo, l'automobile macina in modo poco efficiente.
+Il valore del 17% può essere notevolmente ridotto dal modo di guidare e dal luogo, come strade, vie con poco traffico ecc.
 
-Adattato da (http://www.fueleconomy.gov/feg/atv.shtml)
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Adattato da (http://www.fueleconomy.gov/feg/atv.shtml
 
 <div class="qlang-split" data-lang="en"></div>
 
 Question 2
 
-After reading this second text, the two students
-The dialogue continued:
+After reading this second text, the two students continued the dialogue:
 
-I)  Yes, MHS is a natural phenomenon where there is
-A restorative force and the Prius is more economical
-when you do MHS.
+I) – Well, SHM is a natural phenomenon where there is a restoring force and the Prius is more economical when it performs SHM.
 
-II)  One of the disadvantages is that it weighs 7200 N
-In front and 4800 N back.
+II) – One of the disadvantages is that it weighs 7200 N at the front and 4800 N at the back.
 
-III)  And one of the advantages of accelerating and navigating is
-The second law of the
-Newton allows us to maintain dynamic balance.
+III) – And one of the advantages of "accelerate and glide" is that when the ICE is inactive, Newton's second law allows maintaining dynamic equilibrium.
 
-We can say from the four statements that:
+We can say of the four statements that:
 
-- They're all wrong.
-- **B ** A II and III are correct.
-- MSK0/>C** Only II is correct.
-- MSK1 and II are correct.
-- MSK0/>E. MSK1/> All of them are correct.
-Now, a discussion on "energy efficiency in
-the car".
+- **A.** All are wrong.
+- **B.** II and III are correct.
+- **C.** Only II is correct.
+- **D.** I and II are correct.
+- **E.** All are correct.
+Now, a discussion about "energy efficiency in automobiles".
 
-The Commission shall adopt implementing acts.
+Text 3
 
-It is estimated that of every 100 litres (l) (or 100%) of
-gasoline in a car (see diagram),
-62% are used in the MCI to convert chemical energy
-The main reasons for this are the fact that the
-traffic lights, congestion etc. So, you know,
-They're still 21%. Of this amount, 2% is spent on air conditioning, windscreen cleaning engine, radio etc.
-6% with friction on different transmission types
-necessary for the operation of the car. See what
-- What? Of every 100 liters we buy, only 13 are
-used to turn the car tyres. Unfortunately, the
-Not all of this energy is used, because 4% is lost in the
-Tire kinetic friction with the ground and 2% by resistance
-the air when the car is moving, excess
-Only 7% for the car's handling. This
-The way the car engineer is inefficient.
-The 17% figure can be greatly reduced by the way
-of driving and around the place, like roads, streets with little
-traffic etc.
+It is estimated that out of every 100 liters (l) (or 100%) of gasoline put into an automobile (see the diagram),
+62% are used in the ICE when transforming the chemical energy of gasoline into mechanical energy; 17% are lost at traffic light stops, traffic jams, etc. Thus, 21% remained. Of this value, 2% are spent on air conditioning, windshield wiper motor, radio, etc.;
+6% on friction in the different types of transmission necessary for moving the automobile. See what a loss! Out of every 100 liters that we buy, only 13 are used to turn the automobile's tires. Unfortunately, not all of this energy is used, since 4% are lost in the kinetic friction of the tires with the ground and 2% to air resistance when the automobile moves, leaving only 7% for moving the automobile. In this way, the automobile performs inefficiently.
+The value of 17% can be greatly reduced by the way of driving and by the location, such as highways, streets with little traffic, etc.
 
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Adapted from (http://www.fueleconomy.gov/feg/atv.shtml
 
 
 
@@ -687,119 +480,35 @@ resistência do ar.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 4
+Quesito 4
 
-Approximando l'energia chimica contenuta in un litro
-di benzina per $30\times10^6$ J e considerando che un
-auto tipica di 1000 $\text{cm}^3$ (ad esempio, una Mille)
-La Commissione ha adottato una decisione che prevede che il sistema di sicurezza delle persone non sia stato adottato.
-Solo il 13% dell'energia generata nel MCI va a
-La domanda è: qual è il valore della forza media prodotta
-per le gomme sull'asfalto per mantenere l'auto a
-velocità costante per 15 km?
+ Approssimando l'energia chimica contenuta in un litro di benzina a $30\times10^6$ J e considerando che un'automobile tipica di 1000 $\text{cm}^3$ (Uno Mille, per esempio)
+fa circa 15 km/l in strada, sapendo inoltre che solo il 13% dell'energia generata nel MCI va alle gomme, si chiede: qual è il valore della forza media esercitata dalle gomme sull'asfalto per mantenere l'automobile a velocità costante durante i 15 km?
 
 a) 240 N b) 450 N c) 585 N d) 260 N e) 390 N
 
-Articolo 4
+Testo 4
 
-La seconda legge di Newton, applicata alle principali
-Le forze che agiscono sull'automobile sono espresse, per
-il caso unidimensional, come
+ La seconda legge di Newton, applicata alle principali forze che agiscono sull'automobile, è espressa, per il caso unidimensionale, come
 
-Il primo termine del lato destro dell'uguaglianza è
-parte della forza che viene dal motore ibrido attraverso il
-sistema di ingranaggi che termina con la
-Applicazione della forza sul pavimento. Poi, vediamo
-as
-Forze
-chiamate
-genericamente
-de
-Forze
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 6 del regolamento (UE) n.
-I meccanismi di trazione dell'automobile. La prima è:
-la forza di attrito cinetica del pneumatico con il pavimento e la
-La seconda è la forza della resistenza dell'aria. Dall'altra parte
-Sinistra dell'equazione abbiamo la massa m dell'auto.
-e,
-per
-fine,
-a
-Accelerazione
-a
-do
-veicoli
-em
-funzionamento.
-Per una migliore comprensione, le formule di entrambi
-le ultime forze seguono la figura seguente. A
-unità di Far è Newton e alcune costanti sono stati
-semplificati per mostrare il valore 1⁄4 nella forza di
-resistenza all'aria.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Il primo termine del lato destro dell'uguaglianza è la parte della forza, che viene dal motore ibrido attraverso il sistema di ingranaggi, la quale termina con l'applicazione della forza da parte della gomma al suolo. Poi, vediamo le forze chiamate genericamente forze dissipative, poiché impediscono il massimo sfruttamento dei meccanismi di trazione dell'automobile. La prima è la forza di attrito cinetico della gomma con il suolo e la seconda è la forza della resistenza dell'aria. Dal lato sinistro dell'equazione abbiamo la massa m dell'automobile e, infine, l'accelerazione a del veicolo in funzione.
+ Per una migliore comprensione, le formule delle ultime due forze accompagnano la figura seguente. L'unità di Far è Newton e alcune costanti sono state semplificate per far apparire il valore 1⁄4 nella forza di resistenza dell'aria.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 4
+Question 4
 
-Approximately the chemical energy contained in a liter
-of gasoline to $30\times10^6$ J and considering that a
-Typical motor vehicle of 1000 $\text{cm}^3$ (e.g. One Mille)
-It is also known that the Commission has not yet taken a decision on the
-Only 13% of the energy generated in the MCI goes to the
-The question is: what is the average force value of the tyre?
-the tyre on the asphalt to keep the car
-constant speed for the 15 km?
+ Approximating the chemical energy contained in one liter of gasoline to $30\times10^6$ J and considering that a typical 1000 $\text{cm}^3$ car (Uno Mille, for example)
+gets about 15 km/l on the highway, knowing, furthermore, that only 13% of the energy generated in the ICE goes to the tires, the question is: what is the value of the average force exerted by the tires on the asphalt to keep the car at constant speed during the 15 km?
 
 a) 240 N b) 450 N c) 585 N d) 260 N e) 390 N
 
-The Commission shall adopt the following measures:
+Text 4
 
-Newton's second law, applied to the major
-The force acting on the car is expressed as
-the one-dimensional case, as
+ Newton's second law, applied to the main forces acting on the car, is expressed, for the one-dimensional case, as
 
-The first term on the right side of equality is
-part of the force, which comes from the hybrid engine through the
-The gearing system, which ends with the
-the application of force by the tyre to the ground. Then we'll see
-as
-The following is the list of the following:
-Calls
-Generally
-de
-The following is the list of the following:
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-the vehicle's traction mechanisms. The first is
-the tyre's kinetic friction force with the ground and the
-Second is the strength of the air resistance. On the side
-So on the left of the equation we have the mass m of the car.
-e,
-by
-end,
-a
-Acceleration
-a
-do
-Vehicle
-em
-operation.
-For a better understanding, the two formulas
-The last forces follow the figure below. A
-Far unit is Newton and some constants were
-The value of the test chemical is the value of the test chemical.
-air resistance.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+The first term on the right side of the equality is the part of the force that comes from the hybrid engine through the gear system, which ends with the application of force by the tire to the ground. Then we see the forces generically called dissipative forces, since they prevent the maximum use of the car's traction mechanisms. The first is the kinetic friction force of the tire with the ground and the second is the air resistance force. On the left side of the equation we have the mass m of the car and, finally, the acceleration a of the vehicle in operation.
+ For better understanding, the formulas of the last two forces accompany the following figure. The unit of Far is Newton and some constants were simplified so that the value 1⁄4 appears in the air resistance force.
 
 
 
@@ -845,16 +554,10 @@ motor é simples e foi desenvolvido por Nicolaus Otto em 1862. Comece ler o cicl
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 5
+Quesito 5
 
-Considerate, per semplicità, che l'automobile ha
-un'area A virtuale di 3 $\text{m}^2$, un coefficiente di attrito
-di massa cinetica $\mu = 0{,}02$ e di massa di 1200 kg. Come in
-La fase di navigazione discussa nel testo 2
-Considerare che le batterie sono cariche e che il motore
-Multiplice Ibrido è a riposo. Si chiede: no
-punto di velocità massima del grafico del testo 2, che
-modulo di decelerazione totale
+ Per semplicità, si consideri che l'automobile abbia un'area A virtuale di 3 $\text{m}^2$, un coefficiente di attrito dinamico $\mu = 0{,}02$ e una massa di 1200 kg. Come nella fase di navigazione discussa nel testo 2, consideriamo che le batterie siano cariche e il Motore
+Multiplo Ibrido sia a riposo. Si chiede: nel punto di velocità massima del grafico del testo 2, qual è il modulo della decelerazione totale
 
 - **A.** $|a| = 0{,}35\ \text{m/s}^2$
 - **B.** $|a| = 0{,}45\ \text{m/s}^2$
@@ -866,30 +569,15 @@ $$ma = F_\text{Motor Híbrido} + F_\text{atrito} + F_\text{ar}$$
 
 $$e = 1 - \dfrac{T_\text{fria}}{T_\text{quente}}$$
 
-Articolo 5
+Testo 5
 
-Apprezzate, ora, il taglio di un MCI a quattro cilindri. La concatenamento dei quattro cilindri e l'ottenimento di una buona
-La Commissione ha adottato una decisione che prevede che il sistema di gestione dei trasporti sia stato adottato in modo da garantire la sicurezza dei trasporti.
-Il motore è semplice ed è stato sviluppato da Nicolaus Otto nel 1862. Inizia a leggere il ciclo Otto per 1, sotto la tua sinistra.
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Osservate, ora, la sezione di un MCI a 4 cilindri. La concatenazione dei 4 cilindri e l'ottenimento di una buona efficienza del carburante hanno richiesto molto lavoro agli ingegneri automobilistici, ma il principio di funzionamento del motore è semplice e fu sviluppato da Nicolaus Otto nel 1862. Iniziate a leggere il ciclo Otto dal 1, in basso alla sua sinistra.
 
 <div class="qlang-split" data-lang="en"></div>
 
 Question 5
 
-Consider, for simplicity's sake, that the automobile has
-a virtual A area of 3 $\text{m}^2$, a friction coefficient
-a kinetic $\mu = 0{,}02$ and a mass of 1200 kg. As in
-The navigation phase discussed in text 2 is
-Consider that the batteries are charged and the engine
-Multiple hybrid is at rest. The question is:
-maximum speed point of the text graph 2, which
-the total deceleration module
+ For simplicity, consider that the automobile has a virtual area A of 3 $\text{m}^2$, a kinetic friction coefficient $\mu = 0{,}02$ and a mass of 1200 kg. As in the navigation phase discussed in text 2, let us consider that the batteries are charged and the Hybrid Multiple Motor is at rest. The question is: at the point of maximum speed in the graph of text 2, what is the magnitude of the total deceleration
 
 - **A.** $|a| = 0{,}35\ \text{m/s}^2$
 - **B.** $|a| = 0{,}45\ \text{m/s}^2$
@@ -901,17 +589,9 @@ $$ma = F_\text{Motor Híbrido} + F_\text{atrito} + F_\text{ar}$$
 
 $$e = 1 - \dfrac{T_\text{fria}}{T_\text{quente}}$$
 
-The Commission shall adopt the following measures:
+Text 5
 
-Now appreciate the cutting of a four-cylinder MCI. The concatenation of the four cylinders and the obtaining of a good
-The Commission has already taken a number of steps to ensure that the
-The engine is simple and was developed by Nicolaus Otto in 1862. Start reading the Otto cycle by 1, down your left.
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Now appreciate the cutaway of a 4-cylinder ICE. The concatenation of the 4 cylinders and obtaining good fuel efficiency required a lot of work from automotive engineers, but the operating principle of the engine is simple and was developed by Nicolaus Otto in 1862. Begin reading the Otto cycle from 1, below to its left.
 
 
 
@@ -1192,53 +872,35 @@ Nessuna delle precedenti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 8
+Question 8
 
-In text 5 we learn how the four work.
-times of the real Otto cycle, it is common to simplify this cycle
-in such a way that the combustion process takes place at
-constant volume $(3\to4$), followed by an expansion
-$(4\to5$) and the exhaust phases also $(5\to6$)
-constant, followed by another compression $(6\to1$) with the
-same pressure of time
-Admission
+In text 5 we learned how the four strokes of the real Otto cycle work; it is common to simplify this cycle in such a way that the combustion process occurs at constant volume $(3\to4$), followed by an expansion
+$(4\to5$) and the exhaust phases also at constant volume $(5\to6$)
+followed by another compression $(6\to1$) with the same pressure as the intake stroke
 $(1\to2$).
-In addition, it is assumed that
-que as fases de compressão $(2\to3$) e expansão
+Moreover, it is assumed that the compression $(2\to3$) and expansion
 $(4\to5$)
-be
-Adiabatic, i.e. the
-The process is so fast.
-The Commission has not yet adopted a proposal.
-heat with the environment. These processes
-They are also called
-de:
+phases are adiabatic, that is, the process is so fast that there is no heat exchange with the environment. These processes are also called:
 
 I)
-(1 $\to$ 2) e (6 $\to$ 1) são isobáricas.
+(1 $\to$ 2) and (6 $\to$ 1) are isobaric.
 II)
-(4 $\to$ 5) e (2 $\to$ 3) são isotérmicas
-(iii) the
-(3 $\to$ 4) e (4 $\to$ 5) são isocóricos.
+(4 $\to$ 5) and (2 $\to$ 3) are isothermal
+III)
+(3 $\to$ 4) and (4 $\to$ 5) are isochoric.
 
-In relation to these claims we say that:
+Regarding these statements, we say that:
 
 a)
-Affirmations I and III are correct.
+Statements I and III are correct.
 b)
-They're all right.
+All are correct.
 c)
-They're all wrong.
+All are wrong.
 d)
-Alerts I and II are correct.
+Statements I and II are correct.
 e)
-None of the previous ones.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+None of the above.
 
 
 
@@ -1434,59 +1096,24 @@ In relazione a queste affermazioni, diciamo che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 10
+Question 10
 
-Perhaps the greatest advantage of the hybrid multiple engine
-The use of the three engines as best as possible
-your disposition. In conventional cars the MCI is
-designed to deal with exceptional situations, such as
-as safe overpasses or climbing slopes
-You can go down easy. This preference makes it possible to
-the MCI is poorly efficient at low speeds.
-In general, the best efficiency occurs when required
-about half the maximum MCI power. So, you know,
-Adding MEGs can put MCI with
-lower power and design it in such a way that the same
-It works more efficiently. The engine of the
-Otto cycle was replaced by the Atkinson cycle (see
-The following figure), which for the same characteristics
-It provides more efficiency than power because if
-disconnect the Virabrequin for part of the time of
-Compression in such a way that at the time of
-combustion the piston is exactly on the part
-the top of the cylinder. With regard to this new cycle
-We can say that:
+Perhaps the greatest advantage of the Hybrid Multiple Engine is to make the best possible use of the three engines at its disposal. In conventional automobiles the ICE is designed to handle exceptional situations, such as overtaking safely or climbing steep hills with ease. This preference causes the ICE to have poor efficiency at low speeds.
+In general, the best efficiency occurs when about half the maximum power of the ICE is demanded. Thus, by adding MEGs one can install an ICE with lower power and design it in such a way that it operates with greater efficiency. In reality the Otto cycle engine was replaced by the Atkinson cycle (see figure below), which for the same characteristics provides more efficiency than power, since the crankshaft is decoupled during part of the compression time in such a way that at the moment of combustion the piston is exactly at the top of the cylinder. Regarding this new cycle we can say that:
 
-(i) Compared to
-the Otto cycle,
-Hot source was
-separated
-em
-Two
-isothermal and other components
-isocoric.
+I) Compared to the Otto cycle, the hot source was separated into two components, one isothermal and the other isochoric.
 
-For the same engine characteristics, the output in the Atkinson cycle is higher than in the cycle
-Otto, please.
+II) For the same engine characteristics, the efficiency in the Atkinson cycle is greater than in the Otto cycle.
 
-(iii) In the Otto cycle combustion occurs at the ascension stage.
-The Commission has already adopted a proposal for a regulation on the
-Atkinson this combustion is carried out at the point of
-cylinder length
+III) In the Otto cycle the combustion occurs in the ascent phase of the compression phase, whereas in the Atkinson cycle this combustion is carried out at the top point of the cylinder
 
-In relation to these statements we say that:
+Regarding these statements we say that:
 
-- **A ** I) and II) are correct.
-- **B** Only the II) is correct.
-- **C.** I) and III) is correct.
-- **D** Only III) is correct.
-- **E ** II) and III) are correct.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+- **A.** I) and II) are correct.
+- **B.** Only II) is correct.
+- **C.** I) and III) are correct.
+- **D.** Only III) is correct.
+- **E.** II) and III) are correct.
 
 
 
@@ -1536,23 +1163,9 @@ discutido agora.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 11
+Quesito 11
 
-Abbiamo visto che nel terzo tempo del ciclo Otto, si verifica una
-esplosione dovuta all'esistenza di una miscela di vapore di
-benzina e aria. Questa esplosione è causata da una
-spicco a causa dell'esistenza di un campo elettrico
-estremamente grande, di $3{,}0\times10^6$ N/C tra
-elettroidi della candela. Guarda le foto delle candele che seguono. Se
-la distanza tra i
-di cui al capitolo 6
-per
-da
-di ordine di 0,25 mm
-Qual è la differenza?
-di potenziale
-Entrare
-questi elettrodi?
+Abbiamo visto che nel 3° tempo del ciclo Otto avviene un'esplosione dovuta all'esistenza della miscela di vapore di benzina e aria. Questa esplosione è provocata da una scintilla a causa dell'esistenza di un campo elettrico estremamente grande, dell'ordine di $3{,}0\times10^6$ N/C tra gli elettrodi della candela. Guarda le foto delle candele qui di seguito. Se la distanza tra gli elettrodi è dell'ordine di 0,25 mm, quale sarà la differenza di potenziale tra questi elettrodi?
 
 - **A.** $7{,}50\times10^5$ V
 - **B.** $1{,}20\times10^7$ V
@@ -1560,38 +1173,13 @@ questi elettrodi?
 - **D.** $7{,}50\times10^2$ V
 - **E.** $7{,}50\times10^4$ V
 
-Infatti, la differenza tra i prezzi di mercato e quelli di mercato è molto più elevata.
-Il potenziale degli elettrodi della candela è molto maggiore rispetto al potenziale della candela.
-La Commissione ha adottato una decisione che prevede che la Commissione non debba intervenire. Questo succede
-perché esiste una bobina che ha il ruolo di aumentare
-Il campo elettrico, ma questo argomento non può essere
-Ora è stato discusso.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Oss.: Nel quesito precedente abbiamo visto che la differenza di potenziale agli elettrodi della candela è molto maggiore di quella della batteria, che sarà discussa nel quesito 14. Questo accade perché esiste una bobina che ha il ruolo di aumentare il campo elettrico, ma questo argomento non può essere discusso ora.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 11
+Question 11
 
-We saw that in the third time of the Otto cycle, there is a
-Explosion due to the presence of the steam mixture
-Gasoline and air. This explosion is caused by a
-Spark due to the existence of an electric field
-extremely large, of the order of $3{,}0\times10^6$ N/C between
-the electrodes of the candle. Look at the pictures of the candles below. Se
-the distance between the
-Other, of a kind used for the manufacture of goods
-for
-da
-of a width of not more than 0,25 mm
-What's the difference?
-of potential
-between
-These electrodes?
+We saw that in the 3rd stage of the Otto cycle, an explosion occurs due to the existence of a mixture of gasoline vapor and air. This explosion is triggered by a spark because of the existence of an extremely large electric field, on the order of $3{,}0\times10^6$ N/C between the electrodes of the spark plug. See the photos of the spark plugs below. If the distance between the electrodes is on the order of 0.25 mm, what will be the potential difference between these electrodes?
 
 - **A.** $7{,}50\times10^5$ V
 - **B.** $1{,}20\times10^7$ V
@@ -1599,18 +1187,7 @@ These electrodes?
 - **D.** $7{,}50\times10^2$ V
 - **E.** $7{,}50\times10^4$ V
 
-Note: In the previous question we saw that the difference between the
-The potential in the electrodes of the candle is much greater than in the
-The Commission will take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the measures are implemented in a manner that is consistent with the objectives of the programme. This happens
-Because there's a coil that has the role of increasing
-The electric field, but this subject cannot be
-It's been discussed now.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Note: In the previous question we saw that the potential difference at the spark plug electrodes is much greater than at the battery, which will be discussed in question 14. This happens because there is a coil whose role is to increase the electric field, but this subject cannot be discussed now.
 
 
 
@@ -1729,57 +1306,31 @@ Quale delle alternative qui sotto è la giusta?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 12
+Question 12
 
-In June 1752, Benjamin Franklin (1706 ) was born
-1790), carried out the dangerous experiment of stepping on a
-pipe (or parrot) made of silk in a storm.
-He noticed little sparkles between a key locked
-on the beard of the pipe and his fist. This experience and
-The Commission has not yet established the existence of a market economy operator.
+In June 1752, Benjamin Franklin (1706 –
+1790), carried out the dangerous experiment of flying a kite (or papagaio) made of silk, in a storm.
+He observed small sparks between a key tied to the kite string and his fist. This experiment and others led to the following conclusions:
 
 I)
-That the hell is the same as the discharge.
-electrical energy that occurs in experiments where it is done
-to grind a glass cane into a piece of wool and
-Approach the glass stick of pieces of paper
-I was bitten.
+That lightning has the same nature as the electrical discharge that occurs in experiments in which a glass rod is rubbed on a piece of wool and the glass rod is brought near pieces of torn paper.
 
 II)
-What
-Benjamin is
-Franklin , please .
-Not yet
-He died .
-no
-experiment like it happened with another physicist,
-George Wilhelm Richmann, who tried to reproduce the
-Franklin experiment, because, probably,
-I was wearing an insulating shoe, just like that.
-the way rubber tyres insulate the car
-preventing occupants from suffering the impact of the
-- Oh, my God.
+That
+Benjamin
+Franklin did not die in the experiment as happened with another Physicist,
+George Wilhelm Richmann, who tried to reproduce Franklin's experiment, because he was probably wearing an insulating shoe, in the same way that rubber tires insulate the automobile preventing the occupants from suffering the impact of lightning.
 
-(iii) the
-Different mechanisms operate within the
-clouds causing the formation of clusters of
-positive and negative charges and when one of them is
-attracted by opposite signalling charges on Earth occurs
-Oh, my God.
+III)
+Different mechanisms act inside the clouds causing the formation of clusters of positive and negative charges and when one of them is attracted by charges of opposite signs on the Earth, lightning occurs.
 
-Which of the alternatives below is the right one?
+ Which of the alternatives below is correct?
 
-- **A ** I and III are correct.
-- **B ** Only I is correct.
-- Only III is correct.
-- All of them are correct.
-- **E ** I and III are correct
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+- **A.** I and III are correct.
+- **B.** Only I is correct.
+- **C.** Only III is correct.
+- **D.** All are correct.
+- **E.** I and III are correct
 
 
 
@@ -2186,117 +1737,49 @@ soma das correntes junção A é sempre zero.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 16
+Quesito 16
 
-In vista dell'aumento dei componenti
-Capacità di trasmissione di energia elettrica
-La Commissione ha adottato una decisione che prevede che le condizioni di lavoro e l'aria condizionata siano state aggiunte alle auto.
-La Commissione ha adottato una proposta di direttiva che prevede che le misure di
-uno dei primi circuiti
-elettrici introdotti nell'automobile: quello che fa funzionare i fari dell'automobile.
-Si può erroneamente pensare che
-che le lampade dei fari
-sono collegate alla batteria, che
-fornire corrente
-elettrica
-necessaria per l'illuminazione.
-Tuttavia, si osserva che
-durata della carica elettrica
-La batteria è finita, quindi è stato
-Ho bisogno di introdurre un
-di un'ampia gamma di cilindri di cilindri
-denominato alternatore, che
-ricarica la batteria e il
-Meseo fornisce corrente elettrica alle lampade di
-auto (segno sopra).
-In relazione a quanto detto, quali delle affermazioni
-seguire è il falso?
+Considerando che sempre più componenti elettronici e elementi di comfort, come il servosterzo e l'aria condizionata, vengono aggiunti alle automobili, diventa interessante comprendere il funzionamento di uno dei primi circuiti elettrici introdotti nell'automobile: quello che fa funzionare i fari dell'automobile.
+Erroneamente, si può pensare che le lampade dei fari siano collegate alla batteria, la quale fornirebbe la corrente elettrica necessaria per l'illuminazione.
+Tuttavia, osserviamo che la durata della carica elettrica della batteria è finita, così è stato necessario introdurre un generatore di corrente elettrica, chiamato alternatore, che ricarica la batteria e allo stesso tempo fornisce corrente elettrica alle lampade dell'automobile (schema sopra).
+In relazione a quanto detto, quale delle affermazioni seguenti è falsa?
 
 a)
-L'alternatore, generatore di energia elettrica, genera sempre corrente elettrica alla batteria e questa ha il ruolo
-di fornire corrente elettrica alla lampada.
+L'alternatore, generatore di energia elettrica, genera sempre corrente elettrica alla batteria e questa ha il ruolo di fornire corrente elettrica alla lampada.
 
 b)
-Se la differenza di potenziale nei terminali di
-Batteria di 12,0 V ci sarà sempre corrente elettrica
-che scorre verso il suo terminale positivo,
-ricaricando la batteria.
+Se la differenza di potenziale ai terminali della batteria è di 12,0 V ci sarà sempre corrente elettrica che fluisce verso il terminale positivo della stessa, ricaricando la batteria.
 c)
-In questa configurazione l'origine del flusso di corrente
-l'energia per la lampada viene sempre dall'alternatore e
-quando l'alternatore non funziona, cioè:
-Quando l'ICM è fermo, la corrente elettrica si allontana.
-della batteria.
+In questa configurazione l'origine del flusso di corrente elettrica verso la lampada verrà sempre dall'alternatore e quando l'alternatore non starà funzionando, cioè quando il MCI è fermo, la corrente elettrica verrà dalla batteria.
 
 d)
-Una rappresentazione del disegno elettrico di cui sopra può essere data dal diagramma elettrico.
+Una rappresentazione dello schema elettrico menzionato può essere data dal diagramma elettrico.
 
 e)
-A causa della legge sulla conservazione della carica elettrica a
-la somma delle correnti di connessione A è sempre zero.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+A causa della legge di conservazione della carica elettrica, la somma delle correnti nel nodo A è sempre zero.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 16
+Question 16
 
-In view of the increasing number of components
-Electrical and electronic equipment, including electrical equipment
-Air conditioning is being added to the cars.
-The Commission's proposal for a directive on the protection of workers from the risks of
-One of the first circuits
-Electrical equipment introduced into the car: the one that powers the headlamps of the car.
-It is wrong to think that
-than the headlamp lamps
-are connected to the battery, which
-would supply current
-Electrical
-necessary for lighting.
-However, we note that
-the duration of the electrical load
-The battery is finite, so it was
-I need to introduce a
-a power generating capacity of not more than 500 MW,
-the alternator, which
-recharging the battery and the
-The electrical current is supplied to the lamps of the
-the car (sample above).
-In relation to what has been said, which of the statements
-is following the false?
+Bearing in mind that more and more electronic components and comfort items, such as power steering and air conditioning, are being added to automobiles, it becomes interesting to understand the operation of one of the first electrical circuits introduced in the automobile: the one that makes the automobile's headlights work.
+Erroneously, one might think that the headlight lamps are connected to the battery, which would supply the electric current necessary for illumination.
+However, we observe that the duration of the battery's electrical charge is finite, so it was necessary to introduce an electric current generator, called an alternator, which recharges the battery and at the same time supplies electric current to the automobile's lamps (scheme above).
+With regard to what has been said, which of the following statements is false?
 
 a)
-The alternator, the electric power generator, always generates electric current to the battery and this has the role
-to supply electric current to the lamp.
+The alternator, a generator of electrical energy, always generates electric current for the battery, and this has the role of supplying electric current to the lamp.
 
 b)
-If the potential difference in the terminals of the
-Battery is 12.0 V there will always be electric current
-flowing towards the positive terminal of the same,
-Recharging the battery.
+If the potential difference at the battery terminals is 12.0 V, there will always be electric current flowing toward its positive terminal, recharging the battery.
 c)
-In this configuration the source of the current flow
-Electricity for the lamp will always come from the alternator and
-when the alternator is not working, i.e.
-When the MCI is off, the electric current will turn on.
-The battery.
+In this configuration the origin of the flow of electric current to the lamp will always come from the alternator, and when the alternator is not working, that is, when the ICE is stopped, the electric current will come from the battery.
 
 d)
-A representation of the electrical scheme mentioned can be given by the electrical diagram.
+A representation of the mentioned electrical scheme can be given by the electrical diagram.
 
 e)
-Due to the law on the conservation of electric charge to
-The sum of the junction currents A is always zero.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+Due to the law of conservation of electric charge, the sum of the currents at junction A is always zero.
 
 
 
@@ -2620,44 +2103,33 @@ e
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 20
+Quesito 20
 
-Nella figura seguente si vede un oggetto in movimento
-dalla sua sinistra alla sua destra, allo stesso tempo
-che produce onde superficiali circolari nell'acqua.
-Questa immagine potrebbe rappresentare un'ambulanza con
-sirena funzionante.
+Nella figura seguente vedi un oggetto che si muove dalla tua sinistra verso la tua destra, mentre produce onde superficiali circolari nell'acqua.
+Questa immagine può rappresentare un'ambulanza con la sirena in funzione.
 
-In relazione a questo fenomeno, quale delle risposte
-- Non è corretto?
+Rispetto a questo fenomeno, quale delle risposte seguenti è errata?
 
-- **A** Si chiama effetto Doppler.
-- **B.** Il suono della sirena diventa più grave sul lato
-a sinistra e più acuta sul lato destro
-(c) Le due onde si diffondono necessariamente in mezzi materiali.
-d) La velocità del suono in acqua e in aria
-Sono uguali.
-e) La sirena, quando è fermata, genera:
-onde sonore sferiche.
-L'articolo 6 del regolamento (CE) n.
-Terzo ciclo
-Completare con carattere in forma
+- **A.** Si chiama effetto Doppler.
+- **B.** Il suono della sirena diventa più grave sul lato sinistro e più acuto sul lato destro
+c) Le due onde si propagano, necessariamente, in mezzi materiali.
+d) La velocità del suono nell'acqua e nell'aria sono uguali.
+e) La sirena, funzionando da ferma, genera onde sonore sferiche.
+FOGLIO DELLE RISPOSTE DEL
+3o Serie
+Compilare usando lettere maiuscole
 
-Nome: ____________________________________
+Nome: ________________________________________
 
-Serial: ___ E-mail
+Serie: ___ E-mail________________________________
 
-La scuola:
+Scuola:________________________________________
 
-Comune __________________________Stato __________
+Comune_________________________Stato________
 
-La firma è stata rilasciata a norma del regolamento (UE) n.
+Firma______________________________________
 
-a
-b
-c
-d
-e
+a b c d e
 01
 
 02
@@ -2698,54 +2170,37 @@ e
 
 20
 
-Fase 1
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+1a Fase
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 20
+Question 20
 
-In the following figure you see an object moving
-From your left to your right, at the same time
-where it produces circular surface waves in water.
-This image may represent an ambulance with the
-Siren is working.
+In the following figure you see an object moving from your left to your right, while at the same time producing circular surface waves in the water.
+This image can represent an ambulance with its siren on.
 
-In relation to this phenomenon, which of the answers
-Is it wrong down there?
+Regarding this phenomenon, which of the answers below is incorrect?
 
-- **A** It's called the Doppler effect.
-- **B** The siren sound becomes more severe on the side
-Left and sharper on the right side
-(c) The two waves necessarily propagate in material means.
-(d) Sound speed in water and air
-They're the same.
-(e) The siren when operating at rest, generates
-sound waves.
-The Commission has already adopted a proposal for a Council Regulation (EEC)
-Third series
-Fill in using a font form
+- **A.** It is called the Doppler effect.
+- **B.** The sound of the siren is lower on the left side and higher on the right side
+c) The two waves necessarily propagate in material media.
+d) The speed of sound in water and in air are equal.
+e) The siren, when operating while stationary, generates spherical sound waves.
+ANSWER SHEET OF
+3rd Grade
+Fill in using block letters
 
-The name of the person concerned shall be:
+Name: ________________________________________
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+Grade: ___ E-mail________________________________
 
-The following is the list of the countries of the European Union:
+School:________________________________________
 
-The following is the list of the municipalities in the European Union:
+Municipality_________________________State________
 
-The following is the list of the countries of the European Union:
+Signature______________________________________
 
-a
-b
-c
-d
-e
+a b c d e
 01
 
 02
@@ -2786,10 +2241,4 @@ e
 
 20
 
-Stage 1
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1sS1CEQSTzrVV4j0vpLhcE2jmnd9KEOJP/view)
+1st Phase

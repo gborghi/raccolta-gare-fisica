@@ -57,42 +57,25 @@ posizione della pallina B, nel riferimento della pallina A, fino all’istante i
 <div class="qlang-split" data-lang="en"></div>
 
 p1
-Rebound of two balls
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
-A thin rod of length $\ell = 2r$ is attached to an engine that makes it rotate at constant speed in the
-A vertical plane around its centre, at a height of $r$ slightly above the floor.
-Two identical balls, of a mass $m$ much less than the mass of the bar and a negligible beam, placed at
-a height $4r$ on the floor, are dropped together by adjacent stands $t = 0$ while the bar,
-rotating, it is positioned vertically as shown in the left side of the figure.
-By setting the engine speed appropriately, you want to make sure that the two balls hit elastically
-The barrel shall be made of two points at a negligible distance from each end, while the barrel is horizontal, having
-I've done a quarter of a turn, like the right side of the figure. After the barrel hit, this one comes
-The balls are dropped on the floor at a later time, so that the balls are dropped on the ground.
-It's completely ring-shaped.
-The whole problem is neglected by the effect of air friction.
-1. Detto $T$ l’intervallo di tempo dal rilascio delle palline all’urto con la sbarretta, si determini $T$ in funzione
-di $r$.
-2. Since, just before the impact, ball A and the far left of the barrel move in the same
-direction and direction, for the impact to occur the speed of the ball must be greater than that of the ball
-The end of the bar. It is shown that this condition has occurred.
-3. Determine, in terms of $T$, the ball speeds immediately after the impact with the bar.
-4. Calculate the times $t_A$ and $t_B$ in which the balls touch the floor, according to $T$.
-5. It is shown by calculating its value that in the ball reference system A the velocity of the other ball is
-It is constant until the first collision and then it is still constant until A hits the floor.
-Assuming the quantities $T$ and $r$ as the two axes, the time-scale graph of the
-the position of ball B in the reference of ball A, up to the point at which it falls to the floor.
+Bounces of two balls
+Points 15
+A thin rod of length $\ell = 2r$ is fixed to a motor that makes it rotate at constant speed in a vertical plane around its center, placed at a height just above $r$ with respect to the floor.
+Two identical balls, of mass $m$ much smaller than the mass of the rod and negligible radius, placed at a height $4r$ above the floor, are dropped together from rest at the instant $t = 0$ while the rod, rotating, is arranged vertically as shown in the left part of the figure.
+By suitably setting the speed of the motor, the aim is to make the two balls elastically collide with two points of the rod at a negligible distance from the two ends, while the rod is horizontal, having completed a quarter turn, as in the right part of the figure. After the collision with the rod, the rod is stopped after another quarter turn and the two balls fall to the floor at successive times, in a completely inelastic manner.
+Throughout the problem, neglect the effect of air friction.
+1. Let $T$ be the time interval from the release of the balls to the collision with the rod; determine $T$ as a function of $r$.
+2. Given that, immediately before the collision, ball A and the left end of the rod move in the same direction and sense, for the collision to occur it is necessary that the speed of the ball be greater than that of the end of the rod. Show that this condition is satisfied.
+3. Determine, in terms of $T$, the velocities of the balls immediately after the collision with the rod.
+4. Calculate the instants of time $t_A$ and $t_B$ at which the balls touch the floor, as a function of $T$.
+5. Show, by calculating its value, that in the reference frame of ball A the velocity of the other ball is constant until the first collision and, subsequently, is still constant until A's collision with the floor.
+Taking as units of measurement on the two axes the quantities $T$ and $r$, draw the graph, as a function of time, of the position of ball B, in the reference frame of ball A, up to the instant when it falls on the floor.
 
 <!--fig:start-->
 ![[_attachments/2liv25P/2liv25P_p2_f1.png]]
-*two bouncing balls on the rotating bar*
+*two balls bouncing on a rotating rod*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1mSsqAj7ZiWQx8HmiEOhOcYxIljCqgPj0/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
 
 
 
@@ -199,18 +182,17 @@ Mantenendo chiuso l’interruttore A, l’interruttore B viene ora chiuso, corto
 
 p2
 Capacitive circuit
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
-The circuit shown in the figure is in stationary condition, after the network of capacitors  all initially discharged  has been connected to the f.e.m. generator. $V$, by closing
-The switch A, while the switch B is kept open.
+Points 15
+The circuit shown in the figure is in steady-state conditions, after the network of capacitors – all initially uncharged – has been connected to the electromotive force generator $V$, by closing switch A, while switch B is kept open.
 Calculate:
-1. the equivalent capacity of the circuit between the generator terminals and the total energy stored in the capacitors;
-2. the accumulated charge in each capacitor;
-3. the difference in the potential between the frames of each capacitor.
-Dati del problema: $V = 15\ \text{V}$, $C_1 = C = 3.0\ \mu\text{F}$, $C_2 = 2C$,
+1. the equivalent capacitance of the circuit across the generator terminals and the total energy stored in the capacitors;
+2. the charge accumulated in each capacitor;
+3. the potential difference across the plates of each capacitor.
+Problem data: $V = 15\ \text{V}$, $C_1 = C = 3.0\ \mu\text{F}$, $C_2 = 2C$,
 $C_3 = 4C$, $C_4 = 2C$.
-By keeping the A switch closed, the B switch is now closed, thus shorting the $C_2$ capacitor.
-4. Calculate the change in energy stored in capacitors, indicating whether it has decreased or increased compared to before and justifying the response.
-5. How much charge is delivered by the generator after the switch B is closed?
+While keeping switch A closed, switch B is now closed, thereby short-circuiting capacitor $C_2$.
+4. Calculate the change in energy stored in the capacitors, indicating whether it has decreased or increased compared to before and justifying the answer.
+5. How much charge is delivered by the generator after closing switch B?
 
 <!--fig:start-->
 
@@ -282,12 +264,7 @@ By keeping the A switch closed, the B switch is now closed, thus shorting the $C
 *circuit with four capacitors and switches*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Circuits]], [[Conservation of Energy]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1mSsqAj7ZiWQx8HmiEOhOcYxIljCqgPj0/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
 
 
 
@@ -333,36 +310,21 @@ determinare il rapporto tra l’irradianza nei due punti: $\eta = E(\text{P})/E(
 <div class="qlang-split" data-lang="en"></div>
 
 p3
-A glass cone illuminated
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
-A perfectly transparent glass cone, of an index of
-rifrazione $n = 1.5$ e raggio di base $R$, ha la sezione assiale
-in the shape of an equilateral triangle.
-The cone is held on a horizontal plane as shown in the figure.
-with the vertical axis and the V-vertical contact plane. A fountain
-a light monochrome, placed over the cone at a great distance,
-illuminates the cone and plane with a uniform beam of vertical rays
-paralleli; di conseguenza l’irradianza $E$ (potenza incidente per unità
-The beam is at the same level as the beam on the surface.
-uniform and is $E_0$.
-1. Demonstrate that a beam impacting the base of the cone $r$ from its axis reaches the plane $2r$ from the top
+An illuminated glass cone
+15 points
+A perfectly transparent glass cone, with refractive index $n = 1.5$ and base radius $R$, has an axial cross-section in the shape of an equilateral triangle.
+The cone is held on a horizontal plane as shown in the figure, with its axis vertical and the vertex V in contact with the plane. A monochromatic light source, placed above the cone at a great distance, illuminates the cone and the plane with a uniform beam of parallel vertical rays; consequently, the irradiance $E$ (incident power per unit area) on every plane that intersects the beam orthogonally is uniform and equals $E_0$.
+1. Show that a ray that strikes the base of the cone at a distance $r$ from its axis reaches the plane at a distance $2r$ from the vertex
 V of the cone.
-2. The radiance $E$ due to the rays alone that affect the base of the cone is shown to be uniform on the circle of the cone.
-The centre plane V and radius $2R$.
-3. Whereas the P and Q points of the plane are close to the radius circumference $R$ centred on the top of the cone,
-determine the ratio of the irradiance in the two points: $\eta = E(\text{P})/E(\text{Q})$.
+2. Show that the irradiance $E$ due only to the rays that strike the base of the cone is uniform on the circle of the plane centered at V with radius $2R$.
+3. Considering the points P and Q of the plane near the circumference of radius $R$ centered at the vertex of the cone, determine the ratio of the irradiance at the two points: $\eta = E(\text{P})/E(\text{Q})$.
 
 <!--fig:start-->
 ![[_attachments/2liv25P/2liv25P_p3_f3.png]]
 *glass cone with incident light rays*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1mSsqAj7ZiWQx8HmiEOhOcYxIljCqgPj0/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
 
 
 
@@ -408,31 +370,19 @@ non usare il materiale, nemmeno parzialmente, per fini commerciali.
 
 p4
 Signals from the sky
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
-A parachute uses a device to determine its descent speed and altitude from the ground to the
-So we can determine when to open the parachute. The device emits two
-Sound signals  at a time distance from each other equal to $\Delta t_e = 1\ \text{s}$  reflected from the ground; signals
-The reflections are captured by a receiver embedded in the device itself.
-During a test, the parachutist launches and, as soon as he reaches a constant speed, turns on the
-the device and, for each signal, record the following time intervals between emission and reception respectively:
-$\Delta t_1 = 5.70\ \text{s}$ e $\Delta t_2 = 5.45\ \text{s}$.
-It is suggested to name $t_0 \ldots t_3$ the four consecutive instances of signal emission and reception.
-1. Express, in terms of given quantities, the range $\Delta t_r$ between the received signals and calculate their value.
-2. Assuming the speed of sound is $330\ \text{m s}^{-1}$, at what speed is the parachute moving?
-3. What would be the time interval between the issuance and receipt of a third signal issued after a time $\Delta t_e$
-From the second?
-4. How high from the ground was the parachutist the moment the first signal was sent?
+15 points
+A parachutist uses a device to determine his descent speed and his altitude above the ground, so that he can determine when to open the parachute. The device emits two acoustic signals – separated by a time interval equal to $\Delta t_e = 1\ \text{s}$ – which are reflected by the ground; the reflected signals are picked up by a receiver built into the device itself.
+During a test, the parachutist jumps and, as soon as he reaches a constant speed, turns on the device and, for each signal, records respectively the following time intervals between emission and reception:
+$\Delta t_1 = 5.70\ \text{s}$ and $\Delta t_2 = 5.45\ \text{s}$.
+It is suggested to denote by $t_0 \ldots t_3$ the four consecutive instants of emission and reception of the signals.
+1. Express, in terms of the given quantities, the interval $\Delta t_r$ between the received signals and calculate its value.
+2. Assuming that the speed of sound is $330\ \text{m s}^{-1}$, at what speed is the parachutist moving?
+3. What would be the time interval between emission and reception of a third signal emitted after a time $\Delta t_e$ from the second?
+4. At what height above the ground was the parachutist at the instant when the first signal was sent?
 Material prepared by the Group
-Good note:
-You can use, reproduce, distribute,
-communicate this material to the public
-under the following two conditions:
-the source is given;
-not to use the material, even partially, for commercial purposes.
+NOTE:
+This material may be used, reproduced, distributed, and communicated to the public under the following two conditions:
+cite the source;
+do not use the material, even partially, for commercial purposes.
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1mSsqAj7ZiWQx8HmiEOhOcYxIljCqgPj0/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)

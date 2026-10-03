@@ -524,12 +524,12 @@ The following table shows the number of lamps and the number of lamps and lamps.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part One  Question 9.** Three electrical wires, $AB$ and $AC$, of length $a$, and $ABC$ of length $\ell > a$ are connected as shown in Figure. The $B$ point may be located in any position along the third line between $A$ and $C$. The wires have the same section and are made of the same material.
+**First part — Problem 9.** Three electrical wires, $AB$ and $AC$, of length $a$, and $ABC$ of length $\ell > a$ are connected as shown in the figure. The point $B$ can be in any position, along the third wire, between $A$ and $C$. The wires have the same cross-section and are made of the same material.
 
-- Quale deve essere la lunghezza $x$ del tratto $BC$ del filo per ottenere la resistenza massima tra $A$ e $B$?
+- What must be the length $x$ of the segment $BC$ of the wire to obtain the maximum resistance between $A$ and $B$?
 
 <!--fig:start-->
-**p.4 **  AB, AC and ABC wires with B
+**p.4** — Wires AB, AC and ABC with point B
 
 
 <figure class="tikz-fig">
@@ -563,12 +563,7 @@ The following table shows the number of lamps and the number of lamps and lamps.
 
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF)](https://drive.google.com/file/d/1x32LiEWMJv5wilPjBuvT_ORUPGxXuUAV/view)
-**Soluzione:** [[2liv14S-Def|Soluzioni]]
+**Solution:**
 
 
 

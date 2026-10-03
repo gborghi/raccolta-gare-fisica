@@ -75,60 +75,39 @@ rotolamento?
 <div class="qlang-split" data-lang="en"></div>
 
 P1 Pure rolling
-The following points shall be added:
-A uniform thin disc has a radius $R$; a circular radius hole is practiced in it
-$r = R/2$ the centre of which is $R/2$ from the centre of C of the disc (see. Figure on the left); either $M$ the mass of the object
-The result.
-1. Determine the position of the object's centre of mass (which will be referred to as the CdM), showing that the
-The distance of the CdM from the centre of disk C is $d = R/6$.
-Part one.
-The object is supported vertically on its edge, above a horizontal plane. His .
-The position is described by the coordinate $x$ of the centre C and the oriented angle $\theta$ between the vertical passing through C
-and the junction of the two centers, as shown in the figure to the right.
-When moving, the object always rolls without cracking and stays in the same vertical plane.
-2. Find the equilibrium positions of the object and tell which are stable and which are equilibrium
-The Commission has already taken a number of measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
-3. Demonstrate that the moment of inertia of the object with respect to the point of support, when in equilibrium
-is stable, equal to $(29/24)\,MR^2$.
-The object is placed in $x = 0$ with $\theta = 0$ and then rotated right up to the $0 < \theta_0 \ll 1$ angle.
-Left unattended, it moves and starts to oscillate.
-4. To show that, by placing gravitational potential energy in the position of stable equilibrium, the energy
-Total is formally equal to that of a mass object $\mu$ fixed to an elastic constant spring $k$ and
-So you can write it as
-$$E = \tfrac{1}{2}\,\mu\,\omega^2 + \tfrac{1}{2}\,k\,\theta^2$$
-with $\omega = d\theta/dt$ and $\mu$ and $k$ functions of the problem parameters.
-Note: in general, the moment of inertia with respect to the contact point depends on the angle $\theta$; however, for these
-small oscillations, you can think of them as constant.
-5. Write the motion time law for the $\theta$ coordinate and specify the expression of the motion time.
-Part two.
-Now suppose that the disk is moving at a pure rolling rate so that the speed $\vec{v}$ of the
-Center C is constant. To obtain this motion a horizontal force $\vec{F}(t)$ is applied in point C; either $\theta = 0$ is applied to the
-The time $t = 0$.
-6. Show that the angular momentum with respect to point C, as a function of time, in the inertial reference
-Solidarity at point C, it's constant.
-7. Determine, in terms of time and problem data, the expression of friction force
-$\vec{A}(t)$, della reazione normale del piano $\vec{N}(t)$ e di $\vec{F}(t)$.
-8. Find the condition on the $v$ speed such that the object does not detach from the horizontal plane, by indicating
-with $v^\star$ the speed limit.
-9. What is the minimum value that the static friction coefficient must have for the engine to be pure at all times ?
-- What's that?
+Points 100
+A thin homogeneous disk has radius $R$; a circular hole of radius $r = R/2$ is drilled in it, whose center is at distance $R/2$ from the center C of the disk (see figure on the left); let $M$ be the mass of the object thus obtained.
+1. Determine the position of the center of mass of the object (which will be denoted as CdM), showing that the distance of the CdM from the center of the disk C is $d = R/6$.
+First part.
+The object is placed vertically on its edge, on a horizontal plane. Its arrangement is described by the coordinate $x$ of the center C and by the oriented angle $\theta$ between the vertical passing through C and the line joining the two centers, as shown in the figure on the right.
+When the object moves, it always rolls without slipping while remaining in the same vertical plane.
+2. Find the equilibrium positions of the object and state which are stable equilibrium and which are unstable equilibrium, justifying the answer.
+3. Prove that the moment of inertia of the object with respect to the point of contact, when it is in stable equilibrium, is equal to $(29/24)\,MR^2$.
+The object is placed in $x = 0$ with $\theta = 0$ and subsequently rotated to the right up to the angle $0 < \theta_0 \ll 1$.
+Left free, it moves and begins to oscillate.
+4. Show that, setting the gravitational potential energy to zero at the stable equilibrium position, the total energy is formally equal to that of an object of mass $\mu$ attached to a spring of spring constant $k$ and therefore can be written as
+$$E = \tfrac{1}{2}\,\mu\,\omega^2 + \tfrac{1}{2}\,k\,\theta^2$$ with $\omega = d\theta/dt$ and $\mu$ and $k$ functions of the parameters of the problem.
+Note: in general the moment of inertia with respect to the contact point depends on the angle $\theta$; however, for these small oscillations, it can be considered constant.
+5. Write the equation of motion for the coordinate $\theta$ and give the expression for the period of the motion.
+Second part.
+Suppose now that the disk moves with pure rolling so that the velocity $\vec{v}$ of the center C is constant. To obtain this motion, a horizontal force $\vec{F}(t)$ is applied at point C; let $\theta = 0$ at time $t = 0$.
+6. Show that the angular momentum with respect to point C, as a function of time, in the inertial reference frame moving with point C, is constant.
+7. Determine, as a function of time and in terms of the data of the problem, the expression for the friction force
+$\vec{A}(t)$, the normal reaction of the plane $\vec{N}(t)$ and of $\vec{F}(t)$.
+8. Find the condition on the velocity $v$ such that the object does not detach from the horizontal plane, denoting by $v^\star$ the limiting velocity.
+9. What is the minimum value that the coefficient of static friction must have for the motion to always be pure rolling?
 
 <!--fig:start-->
-**p.4 **  Circular bore disc, radius R and r
+**p.4** — Disk with circular hole, radius R and r
 ![[_attachments/Naz24T/Naz24T_p4_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — Disco appoggiato su piano, angolo theta
+**p.4** — Disk resting on a plane, angle theta
 ![[_attachments/Naz24T/Naz24T_p4_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1GLVMilUOgLA6bxk3UGW--ZxlUZ3H_iEC/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1d1doLMv1XMSdXoy514xsm5UxXDrt_IL2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1d1doLMv1XMSdXoy514xsm5UxXDrt_IL2/view)
 
 
 
@@ -199,61 +178,32 @@ velocità è data da $\langle u\rangle = \sqrt{\dfrac{2RT}{\pi m}}$ .
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-The thermodynamic evolution of the system
-The following points shall be added:
-This problem is inspired by the measurement of the coefficient $\gamma$, the ratio of specific heat to a gas
-The first is the use of a constant pressure and volume system, with a technique developed by Rüchardt, based on time measurements, plus the use of a constant pressure and volume system.
-the precise calorimetric measurements.
-The methods and some of the criticisms of this technique will be analysed, with reference to the air, which is treated as
-a perfect biatomic gas, with a molar mass $m = 29\ \text{g}\,\text{mol}^{-1}$, whereas the value of $\gamma$ is assumed to be known and equal to 7/5.
-A glass container with a holding is fitted with a thin glass-cable cylinder; either
-$h_0 = 50$ cm the height of the cylinder, $A = 2.0\ \text{cm}^2$ its section and $V_r = 1.0$ L the volume of the cylinder
-container. It is filled with air at atmospheric pressure $p_0 = 1.013 \times 10^5$ Pa and at
-The temperature $T_0 = 273$ K, equal to that of the environment. A piston of a mass $M = 60.0$ g
-It is carefully inserted into the cylinder. Indicate the initial total volume with $V_0$
-of the air contained in the container equal to the volume of the container plus the volume of the part
-the cylinder closed, $V_0 = V_r + A h_0$.
-In the first approximation, both thermal capacity and the
-The walls of the container and the piston shall be torn between the container and the piston.
-The piston is let down and makes a series of oscillations around a
-posizione di equilibrio $h_1$; analogamente la pressione oscilla attorno a un valore di
-equilibrio $p_1$.
-In this first step, the equilibrium position $h_1$ is calculated under the assumption that there is no
-The heat flow between the trapped air and the external environment. In this case the environment
-The Commission has not yet taken any further action.
-1. At equilibrium, what is the $p_1$ pressure of the air contained in the container?
-2. Verify that the air temperature in the container is $T_1 = 275$ K and the height is $h_1 = 38.9$ cm,
-using the $p_1$ pressure above as a data.
-The piston is then slightly moved and starts to oscillate slightly; for a short time, the piston is moved slightly.
-The time intervals can be considered quasi-static and both the deflection and the deflection can be overlooked.
-The heat exchanged with the outside is due to the friction.
-3. Quanto vale il periodo $\tau$ di queste oscillazioni?
-We are now looking at two critical issues that become relevant over a very long period of time. The first is the effect of residual conductivity of the cylinder walls. Because of this effect, the piston moves to a new position of
-equilibrio $h_2$ .
-4. What is the temperature $T_2$ of the air contained in the container and the height $h_2$? What is the new value
-The time period $\tau'$ of any further small oscillations?
-The second critical issue is the imperfect grip of the piston.
-The situation is outlined in the light of the fact that the
-The difference between the cylinder section and the piston section shall be $A_i = 10^{-4}A$. For this reason the piston does not
-It remains in equilibrium, but continues to descend at a rate $v$ that can be considered constant. It can be assumed
-The process should be so slow that the air contained in the container is in thermal equilibrium with the environment.
-The Commission shall, by means of implementing acts, adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. Ignore the collisions between the molecules.
-5. In the assumption that $|v| \ll \langle u\rangle$ where $\langle u\rangle$ is the mean value of each component of the molecular velocity
-What is the value of $|v|$? What is the piston's lowering value in the $\tau$ period of a oscillation?
-Suggestion: remember that for an air particle at $T$, the average of one of the components of the
-speed is given by $\langle u\rangle = \sqrt{\dfrac{2RT}{\pi m}}$ .
+Thermodynamic evolutions
+100 points
+This problem is inspired by the measurement of the coefficient $\gamma$, the ratio between the specific heats of a gas at constant pressure and at constant volume, with a technique developed by Rüchardt, based on time measurements, which are more precise than calorimetric measurements.
+The methods and some critical issues of this technique will be analyzed, referring to air, treated as a perfect diatomic gas, with molar mass $m = 29\ \text{g}\,\text{mol}^{-1}$, while the value of $\gamma$ will be assumed known and equal to 7/5.
+An airtight glass vessel is equipped with a thin hollow glass cylinder; let
+$h_0 = 50$ cm be the height of the cylinder, $A = 2.0\ \text{cm}^2$ its cross-section, and $V_r = 1.0$ L the volume of the vessel. It is filled with air at atmospheric pressure $p_0 = 1.013 \times 10^5$ Pa and at temperature $T_0 = 273$ K, equal to that of the environment. A piston of mass $M = 60.0$ g is carefully inserted airtight into the cylinder. Let $V_0$ denote the initial total volume of the air contained in the vessel, equal to the volume of the vessel plus that of the closed part of the cylinder, $V_0 = V_r + A h_0$ .
+As a first approximation, assume that both the heat capacity of the walls of the vessel and of the piston and the friction between the vessel and the piston are negligible.
+The piston is left to descend and performs damped oscillations around an equilibrium position $h_1$; similarly, the pressure oscillates around an equilibrium value $p_1$.
+In this first phase, the equilibrium position $h_1$ will be calculated under the assumption that there is no heat flow between the trapped air and the external environment. In this case, the external environment does work only on this volume.
+1. Once equilibrium is reached, what is the pressure $p_1$ of the air contained in the vessel?
+2. Verify that the temperature of the air contained in the vessel is $T_1 = 275$ K and the height is $h_1 = 38.9$ cm, using the pressure $p_1$ found above as a given.
+Subsequently, the piston is slightly displaced and begins to perform small oscillations; for a short time interval the oscillations can be considered quasistatic and both the damping due to friction and the heat exchanges with the outside can be neglected.
+3. What is the period $\tau$ of these oscillations?
+Two critical issues that become relevant at very long times are now analyzed. The first is the effect of the residual conductivity of the cylinder walls. Because of this effect, the piston moves to a new equilibrium position $h_2$ .
+4. What are the temperature $T_2$ of the air contained in the vessel and the height $h_2$ ? What is the new value of the period $\tau'$ of any new small oscillations?
+The second critical issue is the imperfect sealing of the piston.
+Let the situation be schematized by considering that the difference between the cross-section of the cylinder and the cross-section of the piston is $A_i = 10^{-4}A$. For this reason the piston does not remain in equilibrium, but continues to descend with a speed $v$ that can be considered constant. One may assume that the process occurs so slowly that the air contained in the vessel is in thermal equilibrium with the surrounding environment for the entire duration of the process. The collisions between the molecules are neglected.
+5. Under the assumption that $|v| \ll \langle u\rangle$ where $\langle u\rangle$ is the average value of each component of the speed of the air molecules, what is the value of $|v|$? What is the value of the lowering of the piston in the period $\tau$ of one oscillation?
+Hint: recall that for an air particle at temperature $T$, the average of one of the components of the speed is given by $\langle u\rangle = \sqrt{\dfrac{2RT}{\pi m}}$ .
 
 <!--fig:start-->
-**p.5** — Apparato di Ruchardt con pistone M
+**p.5** — Ruchardt apparatus with piston M
 ![[_attachments/Naz24T/Naz24T_p5_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]], [[Oscillations & Waves]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1GLVMilUOgLA6bxk3UGW--ZxlUZ3H_iEC/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1d1doLMv1XMSdXoy514xsm5UxXDrt_IL2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1d1doLMv1XMSdXoy514xsm5UxXDrt_IL2/view)
 
 
 

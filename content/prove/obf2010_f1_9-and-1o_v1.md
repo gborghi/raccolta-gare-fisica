@@ -92,11 +92,11 @@ TABELLA: posizione vs tempo
 
 <div class="qlang-split" data-lang="en"></div>
 
-Consider the text below for the resolution of questions 1 to 5.
+Consider the text below for solving questions 1 to 5.
 
-One student conducted an experiment to analyze the movement of an ant. To collect results he used a transparent tube where marks were made every 2 cm. An ant was inserted into one of the ends of the tube and when it passed the first mark a timer was fired such that at $t=0$ the ant started its movement in the tube. For a period of time the student wrote down the ant's position in the tube and the time since the time-meter was fired. The results are in the table:
+A student carried out an experiment to analyze the motion of an ant. To collect results he used a transparent tube on which marks were made every 2 cm. An ant was introduced at one of the ends of the tube and when it passed the first mark a stopwatch was started such that at $t=0$ the ant began its motion in the tube. During a certain period of time the student recorded the position of the ant in the tube and the time elapsed since the stopwatch was started. The results are in the table:
 
-♪ Time and place ♪
+| Time (s) | Position (cm) |
 |-----------|-------------|
 | 0 | 0 |
 | 5 | 2 |
@@ -107,7 +107,7 @@ One student conducted an experiment to analyze the movement of an ant. To collec
 | 40 | 8 |
 | 50 | 6 |
 
-**01) ** What is the position of the ant in time $t = 20$ s?
+**01)** What is the position of the ant at time $t = 20$ s?
 
 - **A.** 2 cm
 - **B.** 4 cm
@@ -117,14 +117,8 @@ One student conducted an experiment to analyze the movement of an ant. To collec
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F1_9&1o_v1/OBF2010_F1_9&1o_v1_p2_f1.png]]
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+*Table: ant position vs time*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/18tdU4_pcd0myD4n5UEmh6C7Bw3QZFn8D/view)
 
 
 
@@ -516,21 +510,15 @@ The following table shows the results of the tests:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**08)** Você gostaria de medir a profundidade $h$ de um poço deixando cair uma moeda e medindo o tempo entre o início da queda e o retorno do som devido à colisão com o fundo. For a measured time of 2 s, what is the depth $h$? (Discount the effect of finite speed of sound.)
+**08)** You would like to measure the depth $h$ of a well by dropping a coin and measuring the time between the start of the fall and the return of the sound due to the collision with the bottom. For a measured time of 2 s, what is the depth $h$? (Disregard the effect of the finite speed of sound.)
 
-(use $g = 10$ m/s2)
+(use $g = 10$ m/s²)
 
 - **A.** 10 m
 - **B.** 20 m
 - **C.** 30 m
 - **D.** 40 m
 - **E.** 50 m
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/18tdU4_pcd0myD4n5UEmh6C7Bw3QZFn8D/view)
 
 
 

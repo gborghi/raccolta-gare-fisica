@@ -1021,65 +1021,42 @@ un 61% de Ne y un 39% de Kr, aproximadamente.
 
 <div class="qlang-split" data-lang="it"></div>
 
-P3. Spettometro di massa del settore magnetico1
-La figura 1 mostra lo schema di uno spettometro di massa (dempster) il cui funzionamento
-è, in sostanza, il seguente:
-Nella camera di ionizzazione, gli elettroni emessi da un filamento incandescente, una volta accelerati,
-colpiscono gli atomi o le molecole di un gas, producendo ioni positivi. Supponiamo, per semplicità, che
-ioni prodotti hanno una carica elettrica $+e$, essendo $e = 1{,}60218\times10^{-19}\ \text{C}$, e che si nascono a velocità
-- Niente. La velocità di un'accelerazione è di circa un milione di metri.
-una differenza di potenziale $\Delta V$ (Figura 2). Gli ioni che entrano lì sono accelerati dal campo elettrico $\vec{E}$
-La velocità di uscita è $v_0$.
-Attraverso la fessura di ingresso, questi ioni penetrano a velocità $v_0$ in una regione in cui c'è
-un campo magnetico uniforme (regione ombrata di figura 1), modulo $B$ e orientato perpendicularmente
-al piano della figura. Di conseguenza, gli ioni descrivono una traiettoria circolare.
+P3. Spettrometro di massa a settore magnetico1
+Nella figura 1 è mostrato lo schema di uno spettrometro di massa (di Dempster) il cui funzionamento è, in sostanza, il seguente:
+Nella camera di ionizzazione, gli elettroni emessi da un filamento incandescente, una volta accelerati, urtano con gli atomi o le molecole di un gas, producendo ioni positivi. Supporremo, per semplicità, che gli ioni prodotti abbiano carica elettrica $+e$, essendo $e = 1{,}60218\times10^{-19}\ \text{C}$, e che "nascano" con velocità nulla. Mediante un campo elettrico poco intenso vengono condotti verso le piastre acceleratrici, tra le quali esiste una differenza di potenziale $\Delta V$, (figura 2). Gli ioni che vi entrano sono accelerati dal campo elettrico $\vec{E}$ esistente tra dette piastre ed escono con una velocità $v_0$.
+Attraverso la fenditura di ingresso, questi ioni penetrano con la velocità $v_0$ in una regione in cui c'è un campo magnetico uniforme (regione ombreggiata della figura 1), di modulo $B$ e con direzione perpendicolare al piano della figura. Di conseguenza, gli ioni descrivono una traiettoria circolare.
 
-1 Questo problema è stato proposto nella Fase Aragona della XV Olimpiada spagnola di fisica, celebrata nel 2004.
+1 Questo problema è stato proposto nella Fase Aragonese della XV Olimpiade Spagnola di Fisica, tenutasi nel 2004.
 
 Fig. 1
 
 Fig. 2
 
 a)
-Determina il raggio di percorso degli ioni, $R$, in funzione della loro massa, $m$, della loro carica elettrica, $e$,
-di potenza acceleratrice, $\Delta V$, e di campo magnetico, $B$.
+Determina il raggio della traiettoria degli ioni, $R$, in funzione della loro massa, $m$, della loro carica elettrica, $e$, del potenziale acceleratore, $\Delta V$, e del campo magnetico, $B$.
 b)
-Verifica che, in uno spettometro di questo tipo, con $R = 0{,}150\ \text{m}$ e $\Delta V = 3{,}00\ \text{kV}$, il campo
-Magnetico $B$ che focalizza gli ioni nella spazia di uscita viene dato, in funzione della massa $m$ degli ioni,
-per l'espressione $B = 0{,}0526\sqrt{m}$, in cui $B$ è ottenuto in tessuti quando $m$ è espresso in unità di massa
-- Atomico.
-Quando gli ioni escono dal campo magnetico attraverso la scia di uscita, vengono raccolti in un colettore (caixa)
-di Faraday). Gli ioni che entrano in esso producono un corrente elettrica alla resistenza $R_c$ e, per
-La differenza di potenziale tra le loro estremità. Questa voltazione è proporzionale alla quantità di
-ioni di un determinato rapporto $m/e$ che arrivano al collezionista per unità di tempo. Quindi, sarà anche
-proporzionale all'abbondanza di molecole o atomi di massa $m$ contenuta nel gas studiato. Variazione
-L'intensità del campo magnetico può essere raccolta nel colettore da ioni di diverse masse, dando luogo a
-$R_c$ a segnali che, una volta amplificati, elaborati e registrati, forniscono lo spettro di massa del gas
-studiato.
-La figura 3 mostra lo spettro di massa di una miscela di due gas nobili. In quel spettro
-i picchi corrispondenti agli isotopi di ogni gas sono visualizzati.
+Verifica che, in uno spettrometro di questo tipo, con $R = 0{,}150\ \text{m}$ e $\Delta V = 3{,}00\ \text{kV}$, il campo magnetico $B$ che focalizza gli ioni nella fenditura di uscita sia dato, in funzione della massa $m$ degli ioni, dall'espressione $B = 0{,}0526\sqrt{m}$, nella quale $B$ si ottiene in tesla quando $m$ è espressa in unità di massa atomica.
+Quando gli ioni escono dal campo magnetico attraverso la fenditura di uscita, vengono raccolti in un collettore (scatola di Faraday). Gli ioni che vi entrano danno luogo a una corrente elettrica nella resistenza $R_c$ e, di conseguenza, a una differenza di potenziale ai suoi estremi. Questa tensione è proporzionale alla quantità di ioni di un determinato rapporto $m/e$ che arrivano al collettore nell'unità di tempo. Pertanto, sarà anche proporzionale all'abbondanza di molecole o atomi di massa $m$ contenuti nel gas in esame. Variando l'intensità del campo magnetico si potranno raccogliere nel collettore ioni di masse diverse, dando luogo in
+$R_c$ a segnali che, una volta amplificati, elaborati e registrati, forniscono lo spettro di massa del gas studiato.
+Nella figura 3 è mostrato lo spettro di massa di una miscela di due gas nobili. In tale spettro compaiono i picchi corrispondenti agli isotopi di ciascun gas.
 c)
-Usando il frammento di Periodic Table che si trova accanto alla figura 3, determina i gas
-nobili che compongono la miscela.
+Aiutandoti con il frammento di Tavola Periodica che si trova accanto alla figura 3, determina i gas nobili che compongono la miscela.
 
 Dati: - Unità di massa atomica, $1\ \text{uma} = 1{,}66054\cdot10^{-27}\ \text{kg}$.
 
 Fig. 2
 
 P3. Soluzione
-a) Quando gli ioni di massa $m$ e carico $+e$ entrano a velocità praticamente zero nel campo elettrico
-La capacità di un'accelerazione di un'energia di tipo di gas di cui all'allegato II, paragrafo 1, del regolamento (CE) n.
-electrostática, $e\Delta V$. Il campo elettrico li accelera e ne esce con energia che è solo cinetica,
-$mv_0^2/2$. Come l'energia meccanica deve essere conservata
+a) Quando gli ioni di massa $m$ e carica $+e$ entrano con velocità praticamente nulla nel campo elettrico esistente tra le piastre acceleratrici (figura 2), la loro energia meccanica è esclusivamente potenziale elettrostatica, $e\Delta V$. Il campo elettrico li accelera ed essi ne escono con energia che è solo cinetica,
+$mv_0^2/2$. Poiché l'energia meccanica deve conservarsi
 
 $$e\Delta V = \frac{1}{2}mv_0^2$$
 
-La velocità degli ioni che entrano nella regione del campo magnetico è
+La velocità degli ioni all'ingresso nella regione del campo magnetico è
 
 $$v_0 = \sqrt{\frac{2e\Delta V}{m}} \quad (1)$$
 
-Quindi, sugli ioni che si muovono nel campo magnetico agisce la forza di Lorentz,
-di cui alla nota 1 della dichiarazione
+Successivamente, sugli ioni che si muovono nel campo magnetico agisce la forza di Lorentz, indicata nella nota 1 del testo
 
 $$\vec{F} = e\,\vec{v}_0\times\vec{B}$$
 
@@ -1087,226 +1064,45 @@ Poiché $\vec{v}_0$ e $\vec{B}$ sono perpendicolari, il modulo di questa forza �
 
 $$F = ev_0 B$$
 
-Questa forza è sempre perpendicolare alla velocità, in modo che l'accelerazione degli ioni sia normale o
-Centripetto, quindi
+Questa forza è sempre perpendicolare alla velocità, cosicché l'accelerazione degli ioni è normale o centripeta, per cui
 
 $$ev_0 B = m\frac{v_0^2}{R}$$
 
-e, quindi,
+e, pertanto
 
 $$R = \frac{mv_0}{eB} \quad (2)$$
 
-Poiché $v_0$ è costante2, il raggio di curvatura del percorso che descrivono gli ioni è anche costante,
-Cioè, da quando entrano nel campo magnetico attraverso la fessura di ingresso fino a quando non lo lasciano attraverso
-dalla rottura di uscita seguiranno un percorso circolare. Considerando (1) e (2), il raggio di
-La traccia è
+Poiché $v_0$ è costante2, il raggio di curvatura della traiettoria che gli ioni descrivono è anch'esso costante, cioè dal momento in cui entrano nel campo magnetico attraverso la fenditura di ingresso fino a quando lo abbandonano attraverso la fenditura di uscita seguiranno una traiettoria circolare. Tenendo conto di (1) e (2), il raggio di questa traiettoria è
 
 $$R = \frac{1}{B}\sqrt{2\Delta V\frac{m}{e}} \quad (3)$$
 
-b) Sconfiggendo $B$ in (3), si ottiene il campo magnetico che "conduce" gli ioni di massa $m$ fino alla spazzatura
-di uscita, in base ai dati di costruzione dello spettometro (radio $R$ del tubo e potenziale acceleratore)
+b) Ricavando $B$ in (3), otteniamo il campo magnetico che "conduce" gli ioni di massa $m$ fino alla fenditura di uscita, in funzione dei dati costruttivi dello spettrometro (raggio $R$ del tubo e potenziale acceleratore
 $\Delta V$)
 
 $$B = \frac{1}{R}\sqrt{2\Delta V\frac{m}{e}}$$
 
-Con i dati numerici indicati nella frase espressi in unità di S.I., il valore del campo
-Magnetico necessario per focalizzare ioni di massa $m$ nella rete di uscita è
+Con i dati numerici indicati nell'enunciato espressi in unità del S.I., il valore del campo magnetico necessario per focalizzare ioni di massa $m$ nella griglia di uscita è
 
 $$B = \frac{1}{0{,}150}\sqrt{\frac{2\times3000}{1{,}60\times10^{-19}}}\,\sqrt{m} = 1{,}29\times10^{12}\,\sqrt{m}$$
 
-Come indicato in precedenza, nell'espressione precedente la massa $m$ deve essere espressa in kg, ma in
-La frequenza di un'unità di massa atomica è la frequenza di un'unità di massa atomica. Considerando che
-l'equivalenza $1\ \text{uma} = 1{,}66054\times10^{-27}\ \text{kg}$, l'espressione del campo magnetico viene convertita in
+Come indicato in precedenza, nell'espressione precedente la massa $m$ deve essere espressa in kg, ma in spettrometria di massa è abituale l'utilizzo dell'unità di massa atomica, uma. Tenendo conto dell'equivalenza $1\ \text{uma} = 1{,}66054\times10^{-27}\ \text{kg}$, l'espressione del campo magnetico diventa
 
 $$B = 0{,}0526\sqrt{m} \quad (4)$$
 
-(B in T; m in una)
-(c) Nel spettro di figura 3 sono distinguiti sette picchi, corrispondenti agli ioni che raggiungono il colettore
-per sette valori del campo magnetico $B$. In tabella I sono riportati i valori di $B$ insieme alle
-le massime di ioni ottenute a partire da (4).
-Logicamente, queste masse devono appartenere agli isotopi dei due gas nobili che costituiscono la
-un mix di quello che la frase fa riferimento.
-Usando la tabella periodica si può concludere che i primi due picchi corrispondono a masse vicine
-a 20,179 che è la massa atomica del Ne, quindi devono appartenere agli isotopi di tale gas. Analogamente,
-Gli altri cinque picchi possono essere identificati come isotopi del Kr poiché i loro massaggi sono intorno a 83,6
-che è la massa di questo gas nobile.
-La risposta a questo punto del problema è:
+(B in T; m in uma)
+c) Nello spettro della figura 3 si distinguono sette picchi, corrispondenti a ioni che raggiungono il collettore per sette valori del campo magnetico $B$. Nella tabella I si presentano questi valori di $B$ insieme alle corrispondenti masse degli ioni ottenute da (4).
+Logicamente, queste masse devono appartenere agli isotopi dei due gas nobili che costituiscono la miscela a cui fa allusione l'enunciato.
+Utilizzando la Tavola Periodica si può concludere che i primi due picchi corrispondono a masse prossime a 20,179 che è la massa atomica del Ne, quindi devono appartenere a isotopi di detto gas. Analogamente, gli altri cinque picchi possono essere identificati come isotopi del Kr poiché le loro masse sono intorno a 83,6 che è la massa di questo gas nobile.
+Di conseguenza, la risposta a questa parte del problema è: la miscela binaria è di Ne-Kr
 
-Nota: anche se non è espressamente richiesto dalla frase, è possibile utilizzare lo spettro di figura 3
-determinare la relativa abbondanza di isotopi di Ne e Kr presenti nella miscela di gas analizzata, che
-è direttamente proporzionale alla altezza dei picchi registrati.
-I primi due picchi, che corrispondono agli isotopi del Ne, hanno altezza nella figura 3 di 54 e 6 unità.
-(arbitrari) Quindi, l'abbondanza totale di Ne nella miscela sarà proporzionale a 60 e l'abbondanza di
-ogni isotopo corrispondente sarà 54/60 = 0,90 e 6/60 = 0,10, cioè un 90% e un 10%
-rispettivamente.
-Consultando un'adeguata tabella si scopre che il Ne è un mix naturale di tre isotopi stabili:
-20Ne, 21Ne e 22Ne, rispettivamente con abbondanza di 90,48%, 0,27% e 9,25%. Anche se il 21Ne è
-La nostra ricerca è stata condotta in modo che la produzione di prodotti di questo tipo sia più che possibile riprodurre.
-Altri due isotopi, in considerazione dell'imprecisione nella lettura delle altezze, concordano
-La Commissione ha adottato una decisione che non è stata adottata.
-Analogamente, gli altri cinque picchi corrispondono al Kr, con altezze rispettive di 0,9, 4,5 , 4,5 , 22 e 6,8
-unità. La quantità di Kr nella miscela è proporzionale alla somma di queste altezze (38,7) e
-il relativo di ciascun isotopo è rispettivamente: 2,3%, 11,6%, 11,6%, 56,8% e 17,6%.
-Infine, la Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati sia stato adottato in base alle informazioni disponibili.
-Kr, che sono: 78Kr (0,35%; non si distingue nello spettro), 80Kr (2,25%), 82Kr (11,6%), 83Kr (11,5%), 84Kr
-(57,0%) y 86Kr (17,3%).
-Infine, le somme delle altezze dei picchi Ne (60) e Kr (38,7) sono proporzionali alle altezze dei picchi Ne (60) e Kr (38,7)
-l'abbondanza di tali gas nella miscela. Si deduce quindi che la miscela è costituita da:
-un 61% di Ne e un 39% di Kr, circa.
-
-<!--fig:start-->
-![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p10_f4.png]]
-*schema di spettrometro di massa Dempster*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p10_f5.png]]
-*regione accelerazione ioni tra il piastra*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p11_f6.png]]
-*spettro di massa miscela di gas nobile*
-<!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Electrostatics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]], [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1pD5KB2u80zsdaQa50HV8UM6DFFMHz40X/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-P3. Magnetic sector mass spectrometer1
-Figure 1 shows the diagram of a mass spectrometer (Dempster) whose operation is
-is essentially as follows:
-In the ionization chamber, electrons emitted by an incandescent filament, once accelerated,
-They collide with atoms or molecules in a gas, producing positive ions. We shall assume, for simplicity's sake, that
-The ions produced have an electric charge of $+e$, being $e = 1{,}60218\times10^{-19}\ \text{C}$, and are natured at a rate of
-- No, not at all. The electric field is less intense and leads to the accelerating plates, including the
-una diferencia de potencial $\Delta V$, (figura 2). Los iones que allí entran son acelerados por el campo eléctrico $\vec{E}$
-existente entre dichas placas y salen con una velocidad $v_0$.
-Through the input gap, these ions penetrate at $v_0$ speed into a region where there is a
-a uniform magnetic field (shading region of Figure 1), of module $B$ and with a perpendicular direction
-the plane of the figure. As a result, the ions describe a circular path.
-
-1 This problem was proposed in the Aragonese phase of the XV Spanish Physics Olympiad, held in 2004.
-
-Fig. 1
-
-Fig. 2
-
-a)
-Determine the radius of the ion trajectory, $R$, by mass, $m$, electric charge, $e$,
-The accelerator potential, $\Delta V$, and the magnetic field, $B$.
-b)
-Check that, on a spectrometer of this type, with $R = 0{,}150\ \text{m}$ and $\Delta V = 3{,}00\ \text{kV}$, the field
-The magnetic $B$ that focuses the ions in the output slit is given, based on the mass $m$ of the ions,
-by the expression $B = 0{,}0526\sqrt{m}$, where $B$ is obtained in units of mass when $m$ is expressed in units of mass
-The atomic bomb.
-When the ions leave the magnetic field through the output slot, they are collected in a collector (box)
-It's a faraday. The ions entering it give rise to an electric current at the resistance $R_c$ and, by
-The Commission has therefore decided to extend the scope of the proposed measures to the Member States. This voltage is proportional to the amount of
-ions of a given ratio $m/e$ reaching the collector per unit time. So it will also be
-proportional to the abundance of molecules or atoms of mass $m$ contained in the gas being studied. Varying
-The magnetic field intensity can be collected in the collector of different masses, resulting in
-$R_c$ to signals which, once amplified, processed and recorded, provide the gas mass spectrum
-I've been studying.
-Figure 3 shows the mass spectrum of a mixture of two noble gases. In that spectrum
-The peaks corresponding to the isotopes of each gas are shown.
-c)
-Using the periodic table fragment next to Figure 3, it determines the gases
-The nobles who make up the mix.
-
-Data: - Unit of atomic mass, $1\ \text{uma} = 1{,}66054\cdot10^{-27}\ \text{kg}$.
-
-Fig. 2
-
-P3. Solution
-(a) When mass ions $m$ and charge $+e$ enter the electric field at virtually zero speed
-The electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated by the electricity generated electricity generated by the electricity generated by the electricity generated electricity generated by the electricity generated electricity generated by electricity generated by electricity generated by electricity generated electricity generated by electricity generated electricity generated by electricity generated by electricity generated electricity generated electricity.
-electrostática, $e\Delta V$. The electric field accelerates them and they come out of it with energy that's only kinetic,
-$mv_0^2/2$. How mechanical energy should be conserved
-
-$$e\Delta V = \frac{1}{2}mv_0^2$$
-
-The velocity of the ions entering the region of the magnetic field is
-
-$$v_0 = \sqrt{\frac{2e\Delta V}{m}} \quad (1)$$
-
-Then on the ions moving in the magnetic field acts the Lorentz force,
-as indicated in footnote 1 to the statement
-
-$$\vec{F} = e\,\vec{v}_0\times\vec{B}$$
-
-Since $\vec{v}_0$ and $\vec{B}$ are perpendicular, the modulus of this force is
-
-$$F = ev_0 B$$
-
-This force is always perpendicular to the velocity, so the acceleration of the ions is normal or
-centrifugal, so that
-
-$$ev_0 B = m\frac{v_0^2}{R}$$
-
-and therefore
-
-$$R = \frac{mv_0}{eB} \quad (2)$$
-
-Since $v_0$ is constant2, the radius of curvature of the trajectory that the ions describe is also constant,
-That is, from the moment they enter the magnetic field through the input slot until they leave it through
-the exit clearance shall follow a circular path. Having regard to paragraphs (1) and (2), the radius of this
-trajectory is
-
-$$R = \frac{1}{B}\sqrt{2\Delta V\frac{m}{e}} \quad (3)$$
-
-b) By clearing $B$ in (3), we obtain the magnetic field that "conducts" the mass ions $m$ to the cleft
-output, based on the construction data of the spectrometer (radio $R$ of the tube and accelerator potential
-$\Delta V$)
-
-$$B = \frac{1}{R}\sqrt{2\Delta V\frac{m}{e}}$$
-
-With the numerical data indicated in the statement expressed in units of SI, the value of the field
-The magnetic field required to focus mass ions $m$ on the output grid is
-
-$$B = \frac{1}{0{,}150}\sqrt{\frac{2\times3000}{1{,}60\times10^{-19}}}\,\sqrt{m} = 1{,}29\times10^{12}\,\sqrt{m}$$
-
-As indicated above, in the above expression the mass $m$ must be expressed in kg, but in
-The use of the atomic mass unit, a. Given that
-the equivalent $1\ \text{uma} = 1{,}66054\times10^{-27}\ \text{kg}$, the magnetic field expression becomes
-
-$$B = 0{,}0526\sqrt{m} \quad (4)$$
-
-(B in T; m in a)
-(c) In the spectrum of Figure 3 seven peaks are distinguished, corresponding to ions reaching the collector
-for seven magnetic field values $B$. In Table I, these values of $B$ are presented together with the values of
-The corresponding mass of ions obtained from (4).
-The two noble gases which constitute the
-The mixing of the sentence.
-Using the Periodic Table, it can be concluded that the first two peaks correspond to nearby masses.
-And then they're going to be in the isotopes of that gas. Similarly,
-The other five peaks can be identified as Kr isotopes as their masses are around 83.6
-which is the mass of this noble gas.
-The answer to this part of the problem is therefore: the binary mixture is Ne-Kr
-
-Note: although not explicitly requested in the statement, from the spectrum in Figure 3 it is possible to
-determine the relative abundance of the isotopes of Ne and Kr present in the analyzed gas mixture, which
-is directly proportional to the height of the recorded peaks.
-The first two peaks, corresponding to Ne isotopes, have heights in Figure 3 of 54 and 6 units.
-(Arbitrary) Therefore, the total abundance of Ne in the mixture will be proportional to 60 and the abundance of
-Each of the corresponding isotopes will be 54/60 = 0,90 and 6/60 = 0,10, i.e. 90% and 10%
-the Commission.
-A proper table shows that Ne is a natural mixture of three stable isotopes:
-20Ne, 21Ne and 22Ne, the abundance of which is 90.48%, 0.27% and 9.25% respectively. Although the 21Ne is
-The Commission has already taken a number of measures to ensure that the
-The two other isotopes, given the inaccuracy in the reading of heights, agree
-The Commission's proposal for a directive on the protection of workers' rights in the field of social security is therefore not a satisfactory one.
-Similarly, the other five peaks correspond to the Kr, with heights of 0,9, 4,5 , 4,5 , 22 and 6,8 respectively.
-units. Therefore, the abundance of Kr in the mixture is proportional to the sum of these heights (38,7) and
-The relative of each isotope is 2,3%, 11,6%, 11,6%, 56,8% and 17,6% respectively.
-Again, these data are acceptably consistent with the relative abundance of stable isotopes of the
-Kr, which are: 78Kr (0.35%; not distinguished in the spectrum), 80Kr (2,25%), 82Kr (11,6%), 83Kr (11,5%), 84Kr
-(57,0%) y 86Kr (17,3%).
-Finally, the sums of the heights of the Ne (60) and Kr (38.7) peaks are proportional to the heights of the Ne (60) and Kr (38.7) peaks.
-the abundance of such gases in the mixture. It follows that the mixture is composed of:
-61% of Ne and 39% of Kr, approximately.
+Nota: sebbene l'enunciato non lo richieda esplicitamente, dallo spettro della figura 3 è possibile determinare l'abbondanza relativa degli isotopi di Ne e Kr presenti nella miscela di gas analizzata, che è direttamente proporzionale all'altezza dei picchi registrati.
+I primi due picchi, corrispondenti agli isotopi del Ne, hanno altezze nella figura 3 di 54 e 6 unità (arbitrarie). Pertanto, l'abbondanza totale di Ne nella miscela sarà proporzionale a 60 e l'abbondanza di ciascuno degli isotopi corrispondenti sarà 54/60 = 0,90 e 6/60 = 0,10, cioè il 90% e il 10% rispettivamente.
+Consultando una tabella adeguata si trova che il Ne è una miscela naturale di tre isotopi stabili:
+20Ne, 21Ne e 22Ne, le cui abbondanze sono, rispettivamente, 90,48%, 0,27% e 9,25%. Sebbene il 21Ne sia troppo poco abbondante per essere apprezzato nello spettro, le abbondanze che abbiamo dedotto per gli altri due isotopi, tenuto conto dell'imprecisione nella lettura delle altezze, concordano soddisfacentemente con quelle date in bibliografia.
+Analogamente, gli altri cinque picchi corrispondono al Kr, con altezze rispettive di 0,9 , 4,5 , 4,5 , 22 e 6,8 unità. Pertanto, l'abbondanza di Kr nella miscela è proporzionale alla somma di queste altezze (38,7) e quella relativa di ciascun isotopo è, rispettivamente: 2,3%, 11,6%, 11,6%, 56,8% e 17,6%.
+Ancora una volta questi dati concordano accettabilmente con le abbondanze relative degli isotopi stabili del
+Kr, che sono: 78Kr (0,35%; non si distingue nello spettro), 80Kr (2,25%), 82Kr (11,6%), 83Kr (11,5%), 84Kr (57,0%) e 86Kr (17,3%).
+Infine, le somme delle altezze dei picchi del Ne (60) e del Kr (38,7) sono proporzionali alle abbondanze di tali gas nella miscela. Di conseguenza, si deduce che la miscela è costituita da circa il 61% di Ne e il 39% di Kr.
 
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p10_f4.png]]
@@ -1318,11 +1114,103 @@ the abundance of such gases in the mixture. It follows that the mixture is compo
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p11_f6.png]]
-*spettro di massa of noble gas mixture *
+*spettro di massa miscela gas nobili*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Electrostatics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]], [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1pD5KB2u80zsdaQa50HV8UM6DFFMHz40X/view)
+<div class="qlang-split" data-lang="en"></div>
+
+P3. Magnetic sector mass spectrometer1
+Figure 1 shows the schematic of a mass spectrometer (Dempster type) whose operation is, in essence, the following:
+In the ionization chamber, the electrons emitted by an incandescent filament, once accelerated, collide with the atoms or molecules of a gas, producing positive ions. For simplicity, we will assume that the ions produced have electric charge $+e$, where $e = 1{,}60218\times10^{-19}\ \text{C}$, and that they "are born" with zero velocity. By means of a weak electric field they are conducted toward the accelerating plates, between which there is a potential difference $\Delta V$, (Figure 2). The ions that enter there are accelerated by the electric field $\vec{E}$ existing between said plates and emerge with a velocity $v_0$.
+Through the entrance slit, these ions penetrate with velocity $v_0$ into a region in which there is a uniform magnetic field (shaded region of Figure 1), with magnitude $B$ and with direction perpendicular to the plane of the figure. As a consequence, the ions describe a circular trajectory.
+
+1 This problem was proposed in the Aragonese Phase of the XV Spanish Physics Olympiad, held in 2004.
+
+Fig. 1
+
+Fig. 2
+
+a)
+Determine the radius of the trajectory of the ions, $R$, as a function of their mass, $m$, their electric charge, $e$, the accelerating potential, $\Delta V$, and the magnetic field, $B$.
+b)
+Verify that, in a spectrometer of this type, with $R = 0{,}150\ \text{m}$ and $\Delta V = 3{,}00\ \text{kV}$, the magnetic field $B$ that focuses the ions onto the exit slit is given, as a function of the mass $m$ of the ions, by the expression $B = 0{,}0526\sqrt{m}$, in which $B$ is obtained in teslas when $m$ is expressed in atomic mass units.
+When the ions leave the magnetic field through the exit slit, they are collected in a collector (Faraday cup). The ions that enter it give rise to an electric current in the resistor $R_c$ and, consequently, to a potential difference between its ends. This voltage is proportional to the quantity of ions of a given ratio $m/e$ that reach the collector per unit time. Therefore, it will also be proportional to the abundance of molecules or atoms of mass $m$ contained in the gas being studied. By varying the intensity of the magnetic field, ions of different masses can be collected in the collector, giving rise in
+$R_c$ to signals that, once amplified, processed and recorded, provide the mass spectrum of the gas studied.
+Figure 3 shows the mass spectrum of a mixture of two noble gases. In this spectrum the peaks corresponding to the isotopes of each gas appear.
+c)
+Using the fragment of the Periodic Table found next to Figure 3, determine the noble gases that make up the mixture.
+
+Data: - Atomic mass unit, $1\ \text{uma} = 1{,}66054\cdot10^{-27}\ \text{kg}$.
+
+Fig. 2
+
+P3. Solution
+a) When ions of mass $m$ and charge $+e$ enter with practically zero velocity into the electric field existing between the accelerating plates (figure 2), their mechanical energy is exclusively electrostatic potential, $e\Delta V$. The electric field accelerates them and they leave it with energy that is only kinetic,
+$mv_0^2/2$. Since mechanical energy must be conserved
+
+$$e\Delta V = \frac{1}{2}mv_0^2$$
+
+The velocity of the ions upon entering the region of the magnetic field is
+
+$$v_0 = \sqrt{\frac{2e\Delta V}{m}} \quad (1)$$
+
+Next, the Lorentz force, indicated in note 1 of the statement, acts on the ions moving in the magnetic field
+
+$$\vec{F} = e\,\vec{v}_0\times\vec{B}$$
+
+Since $\vec{v}_0$ and $\vec{B}$ are perpendicular, the magnitude of this force is
+
+$$F = ev_0 B$$
+
+This force is always perpendicular to the velocity, so that the acceleration of the ions is normal or centripetal, therefore
+
+$$ev_0 B = m\frac{v_0^2}{R}$$
+
+and, therefore
+
+$$R = \frac{mv_0}{eB} \quad (2)$$
+
+Since $v_0$ is constant2, the radius of curvature of the trajectory described by the ions is also constant, that is, from the moment they enter the magnetic field through the entrance slit until they leave it through the exit slit they will follow a circular trajectory. Taking into account (1) and (2), the radius of this trajectory is
+
+$$R = \frac{1}{B}\sqrt{2\Delta V\frac{m}{e}} \quad (3)$$
+
+b) Solving for $B$ in (3), we obtain the magnetic field that "conducts" the ions of mass $m$ to the exit slit, as a function of the construction data of the spectrometer (radius $R$ of the tube and accelerating potential
+$\Delta V$)
+
+$$B = \frac{1}{R}\sqrt{2\Delta V\frac{m}{e}}$$
+
+With the numerical data indicated in the statement expressed in SI units, the value of the magnetic field necessary to focus ions of mass $m$ on the output grid is
+
+$$B = \frac{1}{0{,}150}\sqrt{\frac{2\times3000}{1{,}60\times10^{-19}}}\,\sqrt{m} = 1{,}29\times10^{12}\,\sqrt{m}$$
+
+As indicated above, in the previous expression the mass $m$ must be expressed in kg, but in mass spectrometry it is common to use the atomic mass unit, amu. Taking into account the equivalence $1\ \text{uma} = 1{,}66054\times10^{-27}\ \text{kg}$, the expression for the magnetic field becomes
+
+$$B = 0{,}0526\sqrt{m} \quad (4)$$
+
+(B in T; m in amu)
+c) In the spectrum of figure 3, seven peaks are distinguished, corresponding to ions that reach the collector for seven values of the magnetic field $B$. Table I presents these values of $B$ together with the corresponding masses of the ions obtained from (4).
+Logically, these masses must belong to the isotopes of the two noble gases that make up the mixture referred to in the statement.
+Using the Periodic Table, it can be concluded that the first two peaks correspond to masses close to 20.179, which is the atomic mass of Ne, so they must belong to isotopes of that gas. Similarly, the other five peaks can be identified as isotopes of Kr since their masses are around 83.6, which is the mass of this noble gas.
+Consequently, the answer to this part of the problem is: the binary mixture is Ne-Kr
+
+Note: although the statement does not explicitly ask for it, from the spectrum in figure 3 it is possible to determine the relative abundance of the Ne and Kr isotopes present in the analyzed gas mixture, which is directly proportional to the height of the recorded peaks.
+The first two peaks, corresponding to isotopes of Ne, have heights in figure 3 of 54 and 6 units (arbitrary). Therefore, the total abundance of Ne in the mixture will be proportional to 60 and the abundance of each of the corresponding isotopes will be 54/60 = 0.90 and 6/60 = 0.10, that is, 90% and 10% respectively.
+Consulting a suitable table, it is found that Ne is a natural mixture of three stable isotopes:
+20Ne, 21Ne and 22Ne, whose abundances are, respectively, 90.48%, 0.27% and 9.25%. Although 21Ne is too little abundant to be appreciated in the spectrum, the abundances that we have deduced for the other two isotopes, taking into account the imprecision in reading the heights, agree satisfactorily with those given in the bibliography.
+Similarly, the other five peaks correspond to Kr, with respective heights of 0.9, 4.5, 4.5, 22 and 6.8 units. Therefore, the abundance of Kr in the mixture is proportional to the sum of these heights (38.7) and the relative abundance of each isotope is, respectively: 2.3%, 11.6%, 11.6%, 56.8% and 17.6%.
+Once again these data agree acceptably with the relative abundances of the stable isotopes of the
+Kr, which are: 78Kr (0.35%; not distinguishable in the spectrum), 80Kr (2.25%), 82Kr (11.6%), 83Kr (11.5%), 84Kr (57.0%) and 86Kr (17.3%).
+Finally, the sums of the peak heights of Ne (60) and Kr (38.7) are proportional to the abundances of said gases in the mixture. Therefore, it is deduced that the mixture consists of approximately 61% Ne and 39% Kr.
+
+<!--fig:start-->
+![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p10_f4.png]]
+*Dempster mass spectrometer diagram*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p10_f5.png]]
+*ion acceleration region between the plates*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p11_f6.png]]
+*mass spectrum of noble gas mixture*
+<!--fig:end-->

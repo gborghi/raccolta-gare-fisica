@@ -63,46 +63,33 @@ $R = 8{,}31\ \text{J mol}^{-1}\,\text{K}^{-1}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 1
+Problema 1
 
-In un termolo di 10 l di volume, ci sono 5 litri di nitrogeno liquido (LN2) in equilibrio con
-il suo gas. Il sistema è a 77 K, a una pressione di 1 atm.
-- un'apertura di sicurezza.
+In un thermos di 10 l di volume, ci sono 5 litri di azoto liquido (LN2) in equilibrio con il suo gas. Il sistema si trova a una temperatura di 77 K, a una pressione di 1 atm assicurata mediante una valvola.
 
-Si apre rapidamente il termo e si lascia cadere su di esso un cubo di alluminio di 100 g di massa,
-che inizia a una temperatura di 300 K. Supponiamo che l'azoto gassoso
-La temperatura di un gas di calore è superiore a quella di un gas di calore di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di un gas di calore di calore di un gas di calore di calore di un gas di calore di calore di un gas di calore di calore di un gas di calore di calore di un gas di calore di calore di un gas di calore di calore di un gas di calore di calore di calore di un gas di calore di calore di calore di calore di un gas di calore di calore di calore di calore di calore di calore di un gas di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di calore di
-- E' disprezzabile.
+Si apre rapidamente il thermos e vi si lascia cadere un cubo di alluminio di 100 g di massa, che è inizialmente a una temperatura di 300 K. Supponiamo che l'azoto gassoso si comporti come un gas ideale e che lo scambio di calore con l'esterno, quando si lascia cadere il cubo, sia trascurabile.
 
-a) Determina la massa di LN2 e N2 gassoso che è inizialmente presente nel termosole.
+a) Determinate la massa di LN2 e di N2 gassoso che inizialmente si trovano nel thermos.
 
-Dopo aver inserito il cubo di alluminio:
+Dopo che è stato introdotto il cubo di alluminio:
 
-b) Calcolare la quantità di LN2 rimasta nel termosole.
+b) Calcolate la quantità di LN2 che rimane nel thermos.
 
-c) Calcolare la quantità di N2 gassoso all'interno del termosole.
+c) Calcolate la quantità di N2 gassoso dentro il thermos.
 
-d) Calcolare la massa di nitrogeno uscita.
+d) Calcolate la massa di azoto che è uscita.
 
-Datossegna
+Dati
 Densità del $LN_2$: $807\ \text{g l}^{-1}$
-Calore di vaporizzazione di $LN_2$: $202\ \text{kJ Kg}^{-1}$
+Calore di vaporizzazione del $LN_2$: $202\ \text{kJ Kg}^{-1}$
 Calore specifico del $N_2$ gassoso: $20{,}7\ \text{J mol}^{-1}\,\text{K}^{-1}$
-Massa atomica N: $14{,}0067$ una
+Massa atomica N: $14{,}0067$ uma
 Densità dell'alluminio a 300 K: $2{,}7\ \text{g cm}^{-3}$
-Calore specifico dell'alluminio: $0{,}214\ \text{cal g}^{-1}\,\text{K}^{-1}$ (suppressione indipendente dalla
-temperatura)
-Coefficiente di dilatazione lineare dell'alluminio: $23\times10^{-6}\ \text{K}^{-1}$ (suppressione indipendente da
-temperatura)
-1 una = $1{,}6605\times10^{-27}$ kg.
+Calore specifico dell'alluminio: $0{,}214\ \text{cal g}^{-1}\,\text{K}^{-1}$ (supporre indipendente dalla temperatura)
+Coefficiente di dilatazione lineare dell'alluminio: $23\times10^{-6}\ \text{K}^{-1}$ (supporre indipendente dalla temperatura)
+1 uma = $1{,}6605\times10^{-27}$ kg.
 Numero di Avogadro: $6{,}022\times10^{23}\ \text{mol}^{-1}$.
 $R = 8{,}31\ \text{J mol}^{-1}\,\text{K}^{-1}$
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1GDngoBRFe8vXnCkCeAOmqb_ADynP3EyP/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1311,167 +1298,112 @@ Fabbricazione
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
+Problem 3
 
-Two negative spot loads ($Q_1$) are separated by a distance $2a$. By the point
-The middle of the segment connecting them is drawn a plane perpendicular to it. About this one
-In the case of a plane, a charge $Q_2$ is performing a uniform circular motion of radius $a$.
+Two negative point charges ($Q_1$) are separated by a distance $2a$. Through the midpoint of the segment joining them, a plane perpendicular to it is drawn. On this plane, a charge $Q_2$ is performing a uniform circular motion of radius $a$.
 
-(a) If $Q_1$ is an electron and $a$ is equal to 1 nm, what is the module and direction of the field
-electrical generated by the two $Q_1$ charges at the $Q_2$ charge site?
+a) If $Q_1$ is an electron and $a$ is equal to 1 nm, what is the magnitude and direction of the electric field generated by the two charges $Q_1$ at the location of the charge $Q_2$?
 
-(b) What must the sign of the load $Q_2$ be for it to make the move
-Circular described?
+b) What must be the sign of the charge $Q_2$ for it to perform the circular motion described?
 
-If the absolute value of the charge $Q_2$ is equivalent to that of the electron, its sign is
-determined at the previous point and its mass is equivalent to that of a proton:
+If the absolute value of the charge $Q_2$ is equivalent to that of the electron, its sign the one determined in the previous point and its mass is equivalent to that of a proton:
 
-(c) what is the load speed $Q_2$?
+c) what is the velocity of the charge $Q_2$?
 
-The data
-The electron charge: $-1{,}602\times10^{-19}$ C
-The mass of the electron: $9{,}109\times10^{-31}$ kg
-The mass of the proton: $1{,}673\times10^{-27}$ kg
+Data
+Electron charge: $-1{,}602\times10^{-19}$ C
+Electron mass: $9{,}109\times10^{-31}$ kg
+Proton mass: $1{,}673\times10^{-27}$ kg
 $k = 8{,}988\times10^{9}\ \text{N m}^2/\text{C}^2$
-1 Nm = $10^{-9}$ m (nanometro).
-Theoretical problem 1
-Answering sheet
-Incise
+1 Nm = $10^{-9}$ m (nanometer).
+Theoretical Problem 1
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 c)
 
 d)
-Theoretical problem 2
-Answering sheet
-Incise
+Theoretical Problem 2
+Answer Sheet
+Part
 
-Score
-a)
-
-b)
-
-c)
-Theoretical problem 3
-Answering sheet
-Incise
-
-Score
-a)
+Score a)
 
 b)
 
 c)
-Argentine Olympic Games in Physics
+Theoretical Problem 3
+Answer Sheet
+Part
 
-Preparatory tests
-Second test:
-Thermodynamics, electricity and magnetism
-The experimental part
+Score a)
 
-The following is the list of the countries of the European Union:
+b)
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+c)
+Argentine Physics Olympiad
 
-School: ........................... is not a school
+Preparatory Tests
+Second Test:
+Thermodynamics, Electricity and Magnetism
+Experimental Part
 
-- Before you start solving the test read it carefully
-The statement of it.
-- Write your name and ID number in the appropriate location. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
-Algo de $calorimetría\dots$ un “casi-calorímetro” de Bunsen!!!
+Name: ..................................................................
 
-A calorimeter is a measuring instrument with which measurements can be made.
-experiments necessary to determine the heat capacity of a substance;
-In other words, it's used to measure the temperature.
+DNI: ......................................................................
 
-Among the many calorimeters that
-They've invented Bunsen's. El
-It consists of a full container
-of melting ice, which has in its
-Inside a glass bubble (door)
-sample), which is in contact
-thermal with ice. Melting ice
-It's in contact with mercury coming in.
-to the capillary tube. In turn, all
-It's submerged in melting ice.
+School: .................................................................
 
-When a sample is inserted at $T_i$, part of the sample port
-hielo se funde y la muestra alcanza los $0\ ^\circ\text{C}$; la mezcla agua-hielo cambia de volumen
-Because ice is less dense than water. This change in volume is determined by the
-By changing the position of the mercury meniscus in the capillary tube; remember
-1 g of water at $0\ ^\circ\text{C}$ occupies $1\ \text{cm}^3$, while 1 g of ice occupies $1{,}09\ \text{cm}^3$. From this one
-The amount of heat delivered by the sample is determined and thus can be determined
-its heat capacity.
+- Before starting to solve the test, read carefully ALL the statement of the test.
+- Write your name and your ID number in the indicated place. Do not write your name in any other place on the test.
+- Do not write answers on the statement sheets, as they will not be considered.
+- Write on only one side of the sheets.
+Something about $calorimetría\dots$ a Bunsen "almost-calorimeter"!!!
 
-Part A
-Analyze the principle of operation of the Bunsen calorimeter, find the expression
-The first is the use of the term 'sampling' to describe the process of measuring the heat of the sample.
-displacement of the meniscus (volume change of water-ice mixture).
+A calorimeter is a measuring instrument with which the necessary experiments can be carried out to determine the heat capacity of some substance; in other words, it serves to measure "heat".
 
-Part B: Construction of the BUNSEN CASSY-CALORYMETER.
-To do this you can use:
-- as a melting ice container: a wide-mouthed mattress or a bottle of
-jam/coffee, the lid of which will be the place where the holes needed to install the
-the sample port and the capillary.
-- as a hair: a transparent thin tube (the thinnest available), can be
-be the one containing the ink in a pen/pen/wallet/wallet or hose very
-Fine. The optimum tube layout is horizontal (recommended), although
-It can also be installed vertically.
-- as a sample port: it may be a test tube, a small plastic tube, the
-a lid of lipstick, makeup, a tube of boligoma, a syringe
-The needle is covered where it goes and without the needle (OJ: in cases like the last, carefully
-with losses).
-- as a sealant to prevent the loss of melting mixture: carpenter's tail,
-Other, of a kind used for the manufacture of goods of heading 8104 The places on the lid of the bottle in
-which the capillary and the tube bore samples and the lid itself were installed,
-They must be properly sealed.
-- to minimize heat loss, the built-in device must be submerged
-So far in another mixture of water and ice. You can use some kind of a tacho.
-medium to large telgopore, plastic or pot. OJO: the mouth of the capillary and
-the sample door must not be submerged.
-Note B1: Unlike the original Bunsen calorimeter, we will not use mercury.
-To measure the change in volume, our casi-calorimeter of
-Bunsen, the water in the mixture will act as a piston and indicator in the capillary tube.
-Note B2: If you consider it necessary you can install a door lid
-- It's a sample.
-Note B3: You'll need a lot of ice.
+Among the numerous calorimeters that have been invented is Bunsen's. It consists of a vessel filled with melting ice, which has inside it a glass "bubble" (sample holder), which is in thermal contact with the ice. The melting ice is in contact with mercury that reaches up to the capillary tube. In turn, EVERYTHING is submerged in melting ice.
 
-Part C: Use the built-in thermometer.
-1) Make measurements using determined masses of water at temperature
-known, e.g. to $100\ ^\circ\text{C}$. Repeat the measurements for each mass, use the
-minus five different masses.
-2) Check that the displacement of the water meniscus in the capillary tube is the
-expected for the different masses used. Calibrate the thermometer by considering
-the specific heat capacity of water and the melting heat of ice is known.
-3) Make measurements using certain masses of cooking oil or
-any other liquid, at known temperature (e.g. $100\ ^\circ\text{C}$). Repeat the
-measurements for each mass.
-4) Determine the specific heat of the cooking oil or liquid you used.
+When a sample is introduced at a temperature $T_i$ into the sample holder, part of the ice melts and the sample reaches $0\ ^\circ\text{C}$; the water-ice mixture changes volume because ice is less dense than water. This volume change is determined by the change in the position of the mercury meniscus in the capillary tube; let us recall that 1 g of water at $0\ ^\circ\text{C}$ occupies $1\ \text{cm}^3$, while 1 g of ice occupies $1{,}09\ \text{cm}^3$. In this way, the amount of heat given off by the sample is determined, and thus its heat capacity can be determined.
 
-Note C1: To determine the mass of the sample fluids, a
-The use of a scale or a syringe or a pipette, provided that the densities of the
-The same.
-Note C2: To heat the sample liquid up to $100\ ^\circ\text{C}$, a bath may be used
-Mary.
-Note C3: Do not use flammable liquids.
-The experimental problem
+PART A
+Analyze the operating principle of the Bunsen calorimeter, find the mathematical expression that links the specific heat of the substance that makes up the sample and the displacement of the meniscus (change in volume of the water-ice mixture).
+
+PART B: CONSTRUCTION OF THE BUNSEN “ALMOST-CALORIMETER”.
+To do this, you can use:
+- as a container for melting ice: a wide-mouth flask or a jam/coffee jar, in whose lid the necessary holes will be made to install the sample holder and the capillary.
+- as a capillary: a thin transparent tube (the thinnest available), it can be the one that contains the ink in a pen/ballpoint pen/mechanical pencil or very thin small tubes. The optimal arrangement of the tube is horizontal (recommended), although it can also be installed vertically.
+- as a sample holder: it can be a test tube, a small plastic tube, the cap of a lipstick, of makeup, a small tube of "glue stick", a syringe capped where the needle goes and without a plunger (NOTE: in cases like the latter, be careful with losses).
+- as a sealant to prevent loss of the molten mixture: wood glue, silicone, candle wax, putty, modeling clay, etc. The places on the jar lid where the capillary and the sample holder tube were installed and the lid itself must be properly sealed.
+- to minimize heat losses, you must immerse the device built so far in another mixture of water and ice. For this you can use a medium/large styrofoam, plastic container or a pot. NOTE: the mouth of the capillary and of the sample holder must not be submerged.
+Note B1: unlike Bunsen's original calorimeter, we will not use mercury.
+To carry out the measurement of the volume change, in our Bunsen "almost-calorimeter", the water of the mixture will act as a "piston" and indicator in the capillary tube.
+Note B2: if you consider it necessary, you can implement a lid for the sample holder.
+Note B3: you will need a lot of ice.
+
+PART C: USE THE CALORIMETER YOU BUILT.
+1) Take measurements using determined masses of water at a known temperature, for example at $100\ ^\circ\text{C}$. Repeat the measurements for each mass, use at least 5 different masses.
+2) Verify that the displacement of the "water meniscus" in the capillary tube is the expected one for the different masses used. Calibrate the calorimeter considering the specific heat capacity of water and the heat of fusion of ice as known.
+3) Take measurements using determined masses of cooking oil or some other liquid, at a known temperature (for example $100\ ^\circ\text{C}$). Repeat the measurements for each mass.
+4) Determine the specific heat of the cooking oil or of the liquid you used.
+
+Note C1: To determine the mass of the sample liquids you may use a balance or a syringe or a pipette, as long as you know their densities.
+Note C2: To heat the "sample liquid" up to $100\ ^\circ\text{C}$, you may use a water bath.
+Note C3: do not use flammable liquids.
+Experimental Problem
 Answer sheet.
-Incise
+Item
 
 Score
-Part A
+PART A
 
-The following information is provided:
+PART B
 
-The following information is provided:
+PART C
 
 1)
 
@@ -1480,65 +1412,58 @@ The following information is provided:
 3)
 
 4)
-Theoretical problem 1
-Answering sheet
-Incise
+Theoretical Problem 1
+Answer Sheet
+Item
 
-Score
-a)
+Score a)
 
-Two points.
+2 points
 b)
 
-Three points.
+3 points
 c)
 
-Three points.
+3 points
 d)
 
-Two points.
-Theoretical problem 2
-Answering sheet
-Incise
+2 points
+Theoretical Problem 2
+Answer Sheet
+Item
 
-Score
-a)
+Score a)
 
-Three points.
+3 points
 b)
 
-Three points.
+3 points
 c)
 
-Four points.
-Theoretical problem 3
-Answering sheet
-Incise
+4 points
+Theoretical Problem 3
+Answer Sheet
+Item
 
-Score
-a)
+Score a)
 
-Four points.
+4 points
 b)
 
-Two points.
+2 points
 c)
 
-Four points.
-Preparatory tests
+4 points
+Preparatory Tests
 
-Theoretical problem 1 is solved.
+Solution to Theoretical Problem 1.
 
-In all calculations it is necessary to unify the units.
+In all calculations it is necessary to standardize the units.
 a)
 The mass of liquid nitrogen is
 
-kg
-l
-l
-kg
-V
-m
+kg l l kg
+V m
 NL
 NL
 NL
@@ -1555,16 +1480,12 @@ The mass of gaseous nitrogen is
 
 moles
 K
-K
-Other
-J
-l
-Other
+K mol
+J l atm
 T
 R
 V
-P
-nN
+P nN
 791
 ,0
 77
@@ -1574,13 +1495,7 @@ nN
 1
 2
 
-kg
-A
-kg
-Other
-A
-Other
-mN
+kg uma kg mol uma mol mN
 022
 ,0
 10
@@ -1601,7 +1516,7 @@ mN
 2
 
 b)
-The heat released by the aluminium when cooled vaporizes LN2.
+The heat given off by the aluminum upon cooling vaporizes LN2.
 
 0
 1
@@ -1610,41 +1525,23 @@ The heat released by the aluminium when cooled vaporizes LN2.
 2
 
 v
-N
-i
-f
+N i f
 Al
 Al
-C
-m
+C m
 T
 T
-C
-m
+C m
 
-Where m1N2 is the mass of LN2 that is vaporized. If this mass is less than the total mass
-of LN2 then the final state will be part of the liquid nitrogen, part of the liquid nitrogen
-The gas state and the aluminum cube all at a temperature of 77 K. In the event that the
-The mass greater than the initial mass of LN2 shall be given by the equation having
-The total amount of the LN2 starting mass is calculated as the total amount of the LN2 starting mass and the heating of the N2 gas.
-kg
-kg
-kJ
+Where m1N2 is the mass of LN2 that vaporizes. If this mass is less than the total mass of LN2 then the final state will be part of the nitrogen in the liquid state, part in the gaseous state, and the aluminum cube entirely at a temperature of 77 K. In the event that the mass is greater than the initial mass of LN2, the equation must be set up taking into account the vaporization of the entire initial mass of LN2 and the heating of the N2 gas.
+kg kg kJ
 K
 K
-K
-g
-Cal
-g
+K g cal g
 C
 T
 T
-C
-m
-m
-v
-i
-f
+C m m v i f
 Al
 Al
 N
@@ -1653,8 +1550,7 @@ N
 202
 )
 300
-77
-(
+77 (
 214
 ,0
 100
@@ -1663,13 +1559,9 @@ N
 1
 2
 
-Since this mass is less than the initial mass of LN2 then we see that by entering the
-Aluminum cube only vaporizes a part of the LN2. So in the thermos it stays
+Since this mass is less than the initial mass of LN2, we see that when the aluminum cube is introduced only a part of the LN2 vaporizes. Then in the thermos remains
 
-kg
-kg
-kg
-The following is the list of the Member States:
+kg kg kg mfLN
 936
 ,3
 099
@@ -1678,25 +1570,18 @@ The following is the list of the Member States:
 ,4
 2
 
-
 <!--fig:start-->
 ![[_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p4_f2.png]]
-*geometria due cariche Q1 e orbita Q2*
+*geometry of two charges Q1 and orbit Q2*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f4.png]]
-*campi elettrici delle due cariche Q1*
+*electric fields of the two charges Q1*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2019_2da_prueba_preparatoria/2019_2da_prueba_preparatoria_p21_f5.png]]
-*total electric field ET in the piano*
+*total electric field ET in the plane*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1GDngoBRFe8vXnCkCeAOmqb_ADynP3EyP/view)
 
 ## Figure
 
@@ -1725,85 +1610,85 @@ The following is the list of the Member States:
 ## Figure
 
 <!--fig:start-->
-**p.9** — calorimetro di Bunsen sezione trasversale
+**p.9** — Bunsen calorimeter cross-section
 <!--fig:end-->
 
 <!--fig:start-->
-**p.25** — curva di calibrazione calorimetro Qi vs Delta L
+**p.25** — calorimeter calibration curve Qi vs Delta L
 <!--fig:end-->
 
 <!--fig:start-->
-**p.27** — foto coperchio barattolo con cannuccia
+**p.27** — photo of jar lid with straw
 <!--fig:end-->
 
 <!--fig:start-->
-**p.28** — foto calorimetro barattolo con termometro
+**p.28** — photo of jar calorimeter with thermometer
 <!--fig:end-->
 
 <!--fig:start-->
-**p.29** — foto barattolo calorimetro completo
+**p.29** — photo of complete jar calorimeter
 <!--fig:end-->
 
 <!--fig:start-->
-**p.30** — foto coperchio dal basso con cannuccia
+**p.30** — photo of lid from below with straw
 <!--fig:end-->
 
 <!--fig:start-->
-**p.31** — foto calorimetro in secchio di ghiaccio
+**p.31** — photo of calorimeter in ice bucket
 <!--fig:end-->
 
 <!--fig:start-->
-**p.32**  photo-calorometer immersed in the ice
+**p.32** — photo of calorimeter immersed in ice
 <!--fig:end-->
 
 <!--fig:start-->
-**p.33** — foto secchio ghiaccio con cannuccia
+**p.33** — photo of ice bucket with straw
 <!--fig:end-->
 
 <!--fig:start-->
-**p.34** — foto cannuccia capillare misurazione
+**p.34** — photo of capillary straw measurement
 <!--fig:end-->
 
 <!--fig:start-->
-**p.35** — illustrazione becco Bunsen con fiamma
+**p.35** — illustration of Bunsen burner with flame
 <!--fig:end-->
 
 <!--fig:start-->
-**p.36** — becco Bunsen originale disegno storico
+**p.36** — original Bunsen burner historical drawing
 <!--fig:end-->
 
 <!--fig:start-->
-**p.36** — spettroscopio Kirchhoff e Bunsen originale
+**p.36** — original Kirchhoff and Bunsen spectroscope
 <!--fig:end-->
 
 <!--fig:start-->
-**p.37** — calorimetri Lavoisier e Bunsen storici
+**p.37** — historical Lavoisier and Bunsen calorimeters
 <!--fig:end-->
 
 <!--fig:start-->
-**p.37** — calorimetro vapore Bunsen sezione
+**p.37** — Bunsen steam calorimeter cross-section
 <!--fig:end-->
 
 <!--fig:start-->
-**p.38** — dispositivo Draper e pila Bunsen
+**p.38** — Draper apparatus and Bunsen battery
 <!--fig:end-->
 
 <!--fig:start-->
-**p.38** — pila Bunsen al carbonio disegno storico
+**p.38** — historical drawing of carbon Bunsen battery
 <!--fig:end-->
 
 <!--fig:start-->
-**p.39** — pompe Sprengel e Bunsen per vuoto
+**p.39** — Sprengel and Bunsen vacuum pumps
 <!--fig:end-->
 
 <!--fig:start-->
-**p.39** — apparato filtrazione sotto vuoto Bunsen
+**p.39** — Bunsen vacuum filtration apparatus
 <!--fig:end-->
 
 <!--fig:start-->
-**p.40** — fornello gas camping tipo Bunsen
+**p.40** — Bunsen-type camping gas stove
 <!--fig:end-->
 
 <!--fig:start-->
-**p.41** — trompa di vacuo sezione e foto
+**p.41** — vacuum trompe cross-section and photo
 <!--fig:end-->

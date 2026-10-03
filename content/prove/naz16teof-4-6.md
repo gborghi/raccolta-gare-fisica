@@ -54,41 +54,32 @@ Riservato alla COMMISSIONE
 
 <div class="qlang-split" data-lang="en"></div>
 
-P1 Stok in the bucket
+P1 The stucco in the small bucket
 
-1 Balance  Demonstration:
-The force required to ensure balance is less than the maximum (out of detachment).
-The force of friction:
+1 Equilibrium – Demonstration:
+The force required to ensure equilibrium is less than the maximum (detachment) force.
+Friction force:
 $A = m_1 g = 8.32 \leq 8.34 \leq 8.35\ \text{N}$
 
-2 Minimum value of the range $\Delta t$:
+2 Minimum value of the interval $\Delta t$:
 $(\Delta t)_\text{min} = \dfrac{m_2 v}{(\alpha\mu_\text{s} M - \alpha m_1 - m_2)\, g} = 0.79 \leq 0.82 \leq 0.86\ \text{s}$
 
-3 Bottle speed $\vec{V}$:
-$V = \dfrac{m_2 v}{m_1 + m_2 + M} = 0.551 \leq 0.554 \leq 0.557\ \text{m s}^{-1}$
-Down the hallway.
+3 Speed of the small bucket $\vec{V}$:
+$V = \dfrac{m_2 v}{m_1 + m_2 + M} = 0.551 \leq 0.554 \leq 0.557\ \text{m s}^{-1}$ downward.
 
-4 Bottle speed $\vec{a}$:
-$a = \dfrac{(m_1 + m_2 - \mu_\text{d} M)\, g}{m_1 + m_2 + M} = -1.02 \leq -0.99 \leq -0.96\ \text{m s}^{-2}$
-Up the hill.
+4 Acceleration of the small bucket $\vec{a}$:
+$a = \dfrac{(m_1 + m_2 - \mu_\text{d} M)\, g}{m_1 + m_2 + M} = -1.02 \leq -0.99 \leq -0.96\ \text{m s}^{-2}$ upward.
 
-5 Bottle speed $\vec{V}'$:
-$V' = \dfrac{m_2 v}{m_1 + m_2 + m_3/2 + M} = 0.507 \leq 0.510 \leq 0.513\ \text{m s}^{-1}$
-Down the hallway.
+5 Speed of the small bucket $\vec{V}'$:
+$V' = \dfrac{m_2 v}{m_1 + m_2 + m_3/2 + M} = 0.507 \leq 0.510 \leq 0.513\ \text{m s}^{-1}$ downward.
 
-6 The speed of the bucket $\vec{a}'$:
-$a' = \dfrac{(m_1 + m_2 - \mu_\text{d} M)\, g}{m_1 + m_2 + m_3/2 + M} = -0.93 \leq -0.91 \leq -0.89\ \text{m s}^{-2}$
-Up the hill.
+6 Acceleration of the small bucket $\vec{a}'$:
+$a' = \dfrac{(m_1 + m_2 - \mu_\text{d} M)\, g}{m_1 + m_2 + m_3/2 + M} = -0.93 \leq -0.91 \leq -0.89\ \text{m s}^{-2}$ upward.
 
-Theoretical national competition: 15.04.2016
-Reserved to the Commission
+PHYSICS OLYMPIAD – National Theoretical Competition: 15.04.2016
+Reserved for the COMMITTEE
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Zkx-1pk_gqndVtJ8BcqivexWK_dYfPDs/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
 
 
 
@@ -141,45 +132,40 @@ Riservato alla COMMISSIONE
 
 <div class="qlang-split" data-lang="en"></div>
 
-P2 From far to the solenoid
+P2 From far away toward the solenoid
 
-1 Field and internal flow:
+1 Field and internal flux:
 $B_\text{int} = \mu_0 n I$
 $\Phi_\text{int} = \pi\mu_0 R^2\, n I$
 
-2 Outward field flow:
-The following is the list of the samples:
+2 Flux of the external field:
+Proof:
 Use of Gauss's theorem or evaluation of the number of field lines.
 $\Phi_\text{est} = -\pi\mu_0 R^2\, n I$
 
-3 Electron force and trajectory:
+3 Force on the electron and trajectory:
 $\vec{F} = -e\vec{v} \times \vec{B}$
-Traiettoria $\Rightarrow$
-The following is the list of the samples:
-Speed and acceleration always on the same plane.
+Trajectory $\Rightarrow$
+Proof:
+Velocity and acceleration always in the same plane.
 
-4 Moment of force:
-The following is the list of the samples:
+4 Moment of the force:
+Proof:
 $\mathcal{M} = e r v\, B_\text{est}(r)\, \text{sen}\,\alpha = -e r\, B_\text{est}(r)\, v_r$.
 
-5 Relationship between $dL$ and $d\Phi$:
+5 Relation between $dL$ and $d\Phi$:
 $dL = \dfrac{e}{2\pi}\, d\Phi$
 
-6 Expression of $L$ by $\Phi_\text{est}$:
+6 Expression of $L$ as a function of $\Phi_\text{est}$:
 $L(P) = \dfrac{e}{2\pi}\, \Phi_\text{est}$
 
-7 Minimum current expression:
+7 Expression of the minimum current:
 $I_\text{min} = \dfrac{2 m v_0}{e\mu_0 n R}$
 
-Theoretical national competition: 15.04.2016
-Reserved to the Commission
+PHYSICS OLYMPIADS – National Theoretical Competition: 15.04.2016
+Reserved for the COMMITTEE
 
-**Topic:** [[Magnetism]], [[Rotational Dynamics]], [[Electromagnetism]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Solenoid (object)|Solenoid]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Zkx-1pk_gqndVtJ8BcqivexWK_dYfPDs/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1xwYBM9D1JxIqUwMxLnH9ouojs2QlYTSm/view)
 
 
 

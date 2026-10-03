@@ -114,50 +114,25 @@ Fig. 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-01. Rhythms and periodicities are pre-human
-on the earth. In fact, humans (living beings) have adapted to them.
-The Earth rotates around its own axis in one day and takes a year
-(365 days and six hours) to complete a cycle around the Sun. Um
-Another cycle used is the monthly, originating from the translation movement
-The moon around the earth. This translation is shown in Figure 1.
-where the bright side represents the sunlit face of the moon.
-The Commission has also adopted a number of measures to combat fraud.
+01. Rhythms and periodicities predate the existence of man on Earth. In fact, human beings (living beings) adapted to them.
+The Earth rotates around its own axis in one day and takes one year (365 days and six hours) to complete a cycle around the Sun. Another cycle used is the monthly one, originating from the translational motion of the Moon around the Earth. This translation is shown in figure 1, where the light part represents the face of the Moon illuminated by the Sun.
+http://www.physics.sjsu.edu/tomley/MoonPhase.html
 
 Fig. 1
 
-Starting the monthly cycle with the new moon, when it is between
-The earth and the sun, the face facing the earth will be dark. This event
-It will occur on the 10th according to the lunar calendar.
-of Figure 2. In just over a week, the movement of
-The moon's transition will reach the phase called the Fourth Crescent.
-(approximately on the 18th). Next week, when the moon and the
-The sun is on opposite sides of the earth, the face of the moon is turned
-The Earth will be lit up, and it'll be called the Full Moon.
-(day 25). In the next two weeks, the moonlight will be
-The fourth phase of the decaying phase (bearing its peak)
-on November 1), when only half the moon's disk will receive light
-The Sun and, after the Minguant, the Moon will reach its new phase again
-(November 9) when it will no longer be seen in the sky, closing the cycle.
-The main phases of the lunar cycle are therefore:
-Growing, Full and Diminishing Room.
-Considering the moon's revolutionary time as 29 days and 12 hours,
-And the distance between the center of the Earth and the center of the Moon is equal to
-384,000 miles, you ask yourself:
-What is the average speed of the moon in km/h relative to the Earth?
-- **B.** What phase is the moon in on December 22 when
-Is it expected to publish the result of OBF2007? Present the Reasoning
-It's a full-length resolution sheet and it outlines what kind of moon you're going to see on the
-The earth. Take as a basis the photos from the Lunar Calendar in the month of
-October.
+Starting the monthly cycle with the New Moon, when it is between the Earth and the Sun, the face turned toward the Earth will be dark. This event will occur on the next day 10, according to the monthly lunar calendar in figure 2. In a little more than a week, the Moon's translational motion will reach the phase called First Quarter (approximately on day 18). In the following week, when the Moon and the
+Sun are on opposite sides of the Earth, the face of the Moon turned toward the Earth will be fully illuminated, giving the so-called Full Moon (day 25). In the two following weeks, the Moon's illumination will wane, giving then the Last Quarter phase (peaking on November 1), when only half of the Moon's disk will receive the light
+of the Sun and, after the Last Quarter, the Moon will reach its New Phase again (November 9), when it will no longer be seen in the sky, closing the cycle.
+The main phases of the lunar cycle are, therefore: New, First
+Quarter, Full and Last Quarter.
+Considering the Moon's revolution time as 29 days and 12 hours, and the distance between the center of the Earth and the center of the Moon equal to
+384,000 km, the question is:
+- **A.** What is the average speed, in km/h, of the Moon relative to the Earth?
+- **B.** In what phase will the Moon be on December 22, when the result of OBF2007 is estimated to be published? Present the complete reasoning on the answer sheet and sketch what type of Moon will be seen on the
+Earth. Use as a basis the photos of the Lunar Calendar in the month of October.
 
 Fig. 2
 3
-
-**Topic:** [[Astrophysics]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IyHtZRF29kNPA-SA6iIwGdblJlPcDBRi/view)
 
 
 
@@ -284,61 +259,31 @@ Fig. 3
 
 <div class="qlang-split" data-lang="en"></div>
 
-02. Galileo Galilei was one of the greatest scientists in history. He 's
-was born in 1564 in the city of Pisa, Italy. At the time, there was no
-The use of the wire is not limited to the use of the wire.
-The electricity is much later than Galileo: the electric battery, for example, was
-invented in 1800). The passage of the day was accompanied by
-half a dozen sun watches. Small intervals of time could be
-marked by the leakage of sand, water or amps, in
-water clocks. It was therefore very difficult to mark accurately
-time intervals of the order of minutes and seconds.
-It is said that at the age of 19, Galileo was in the cathedral of Pisa and
-He watched closely a lamp that, attached to the ceiling by a
-It was swinging from one side to the other. He realized that the
-The period of oscillation seemed to be the same, whatever the
-the range of oscillations. Being a medical student at the time,
-Galileo used the count of his own pulses as a clock
-Improvised to confirm this assumption. Your interest in
-Medicine, however, has not gone far. He dropped out of the course before he could
-He has been a member of the
-Astronomy and the Science later called Physics.
-Later, Galileo would study in detail the behavior of the
-The Commission's proposal for a directive on the protection of workers' rights and the right to work
-Using them to mark time. (Book text  Sciences
-Natural  Learning from everyday life  8th grade  by Eduardo Leite
-(from the Canto)
-Sketchily we can represent the pendulum of Galileo in the
-the following table is inserted: It was concluded that, by making the graph in Figure 3, the
-The period-period of the pendulum is defined as the time
-necessary to return to the starting point - with the length of the wire l,
-It's a straight line.
-- **A.** Determine the angular coefficient of the straight.
-- **B.** Write the period T as a function of length l.
-- **C.** Reproduce the sketch of the Galilean Pendulum in the notebook of
-answer and draw the forces acting on it.
+02. "Galileo Galilei was one of the greatest scientists in history. He was born in 1564, in the city of Pisa, Italy. At the time, there were no mechanical wind-up clocks, much less electronic ones (the use of electricity is much later than Galileo: the electric battery, for example, was invented in 1800). The passing of the hours of the day was tracked by means of sundials. Small intervals of time could be marked by the flow of sand, in hourglasses, or of water, in water clocks. It was, therefore, very difficult to mark with precision intervals of time on the order of minutes and seconds.
+It is told that, at the age of 19, Galileo was in the cathedral of Pisa and attentively observed a chandelier that, attached to the ceiling by a chain, swung from one side to the other. He noticed that the period of oscillation seemed to be the same, whatever the amplitude of the oscillations. Being a student of Medicine at the time,
+Galileo used the counting of his own heartbeats as an improvised "clock" to confirm this supposition. His interest in
+Medicine, however, did not go far. He dropped out of the course before graduating and dedicated his life to the study of the applications of Mathematics to
+Astronomy and to the Science later called Physics.
+Later, Galileo would study in detail the behavior of pendulums and, in the last years of his life, would work on the attempt to use them for timekeeping." (Text from the book – Ciências
+Naturais – Aprendendo com o cotidiano – 8th grade – by Eduardo Leite do Canto)
+Schematically we can represent Galileo's pendulum in figure 3. It was concluded that, by plotting the graph of figure 3, of the square of the period - the period of the pendulum is defined as the time needed to return to the initial point - against the length l of the string, the result is a straight line.
+- **A.** Determine the slope of the straight line.
+- **B.** Write the period T as a function of the length l.
+- **C.** Reproduce the sketch of Galileo's Pendulum in the answer notebook and draw the forces acting on it.
 
-Other, of a kind used for the manufacture of goods
-of Galilee
+Galileo's Pendulum
 T (S )
 2
-2
-l(m)
-4,0
-2,0
-0,2
-0,4
-0,6
-0,8
-1,0
+2 l(m)
+4.0
+2.0
+0.2
+0.4
+0.6
+0.8
+1.0
 
 Fig. 3
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1IyHtZRF29kNPA-SA6iIwGdblJlPcDBRi/view)
 
 
 

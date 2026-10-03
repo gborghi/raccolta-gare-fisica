@@ -339,73 +339,45 @@ sebbene non si riesca a concretizzare una misurazione dell'indice.
 
 <div class="qlang-split" data-lang="en"></div>
 
-McGyver, the well-known television hero, has been caught by some villains who have been
-He's got one of the rings of a couple of wives on his right wrist. The other ring was squeezed by a
-A metal curtain weighing 280 kilograms of force. La
-The curtain can only move by sliding along the
-The following is the list of the following: McGyver can lift up to 80
-kilograms of force, so you must get
-some help to free yourself. There's a place
-a cylindrical iron container containing 2 g of
-Helium inside and is tightly sealed by
-un émbolo de hierro, de área $S = 20\ \text{cm}^2$. There's also
-A bag of five kilograms of coal. The cylinder is
-placed in an existing hole on the floor below the
-The curtain. (See figure) The mass of the container is 15
-kg and the 5 kg embossed.
+McGyver, the well-known television hero, has been caught by some villains, who have fastened one of the rings of a pair of "handcuffs" to his right wrist. The other ring was clamped by a metal curtain weighing 280 kilogram-force. The curtain can only move by sliding along vertical guides. McGyver can lift up to 80 kilogram-force, so he must get some help to free himself. At the place there is a cylindrical iron container, which contains 2 g of helium inside and is hermetically sealed by an iron piston, of area $S = 20\ \text{cm}^2$. There is also a bag with 5 kg of coal. The cylinder is placed in a hole existing in the floor below the curtain. (See figure). The mass of the container is 15 kg and that of the piston is 5 kg.
 
-(a) Suggest some way that McGyver
-The Commission's proposal for a directive on the protection of workers from the risks of unemployment is a very important one. Your proposal
-It must be justified by recording the physical laws on which it is based.
+a) Suggest some way in which McGyver could use the elements available to him to free himself from this situation. Your proposal must be justified by stating the physical laws on which it is based.
 
-(b) Determine, by explicit calculations, whether McGyver is able to effectively free himself
-using the method you've been using. He suggested. If necessary, include any hypotheses
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2005.
+b) Determine, by means of explicit calculations, whether McGyver effectively manages to free himself using the method you have suggested. If necessary, include any additional hypothesis, duly justified.
 
-Dates That Could Be Useful
+DATA THAT COULD BE USEFUL TO YOU
 
-The gas constant $R = 0{,}082$ litro·atmosphere/(mol·$^\circ$K)
+Gas constant $R = 0{,}082$ liter·atmosphere/(mol·$^\circ$K)
 Specific heat of helium at constant volume $C_V = 0{,}75$ cal/(g·$^\circ$K)
 Specific heat of iron $C = 0{,}10$ cal/(g·$^\circ$K)
 The heat released in the combustion of one gram of coal is 5000 cal.
-State equation of an ideal gas:
+Equation of state of an ideal gas:
 
 $$\frac{\text{Presión}\cdot\text{Volumen}}{\text{Temperatura}} = \frac{\text{masa}}{\text{Masa molecular}}\,R$$
 
-The acceleration of gravity at the site: $9{,}80\ \text{m/s}^2$
+Acceleration of gravity at the location: $9{,}80\ \text{m/s}^2$
 
-This is an experimental test.
+EXPERIMENTAL TEST.
 
-The refractive index of a rectangular prism material is to be determined using only the
-the elements provided.
-At the end of the course, the candidate must provide a brief report on the work and the results of the
-the results obtained.
+It is required to determine the refractive index of the material of a right prism using only the elements provided.
+Upon concluding their task, the contestant must submit a brief report on what was done and the results obtained.
 
 Elements provided to the contestant:
 
-1. Rectangular section prism, of transparent material, with two parallel faces
-You're going to be polished. The following dimensions are given in the table:
-2. The pulleys.
-3. A millimeter rule.
-4. A transporter.
-5. A polystyrene expanded plate of approximately 25 mm x 250 mm x 350 mm
+1. A right prism with rectangular cross-section, made of transparent material and with two polished parallel faces. Approximate dimensions: 20mm x 30mm x 40mm
+2. Pins.
+3. A millimeter ruler.
+4. A protractor.
+5. A sheet of expanded polystyrene of approximately 25mm x 250mm x 350mm
 
 Suggestions:
 
-(a) State or indicate the laws of optics which you consider applicable to the problem.
+a) State or indicate the laws of optics that you consider applicable to the problem.
 
-(b) If you can propose more than one method to measure the index, describe them all. Use it for
-minus one to perform the measurement and, if you have time, more than one.
+b) If you can propose more than one method to measure the index, describe them all. Use at least one to carry out the measurement and, if you have time, more than one.
 
-(c) Mention of possible causes of experimental errors.
+c) Mention possible causes of experimental errors.
 
-(d) Give an estimate of the experimental error of the measurement performed.
+d) Give an estimate of the experimental error of the measurement performed.
 
-(e) Write down all the observations as you work and produce a brief report carefully
-The Commission will also consider the possible possible use of the measures to reduce the risk of injury to the Union industry.
-
-**Topic:** [[Thermodynamics]], [[Newtonian Mechanics]], [[Geometric Optics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1-9LEDSHDhP0YEzx742VhzAO8091xREwY/view)
+e) Write down all observations while you work and neatly draft a brief report even if you do not manage to complete a measurement of the index.

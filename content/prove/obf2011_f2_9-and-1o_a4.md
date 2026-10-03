@@ -154,21 +154,15 @@ Qual è il tasso di raffreddamento del liquido tra i 10 e i 20 minuti?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Problem 3**
 
-A cup of 10 g of tea is prepared in a room at 15 °C. The table below shows the temperature of tea as a function of the time measured immediately after its preparation.
+A cup of 10 g of tea is prepared in a room at a temperature of 15 °C. The table below represents the temperature of the tea as a function of time measured immediately after it is prepared.
 
-♪ Time is 10 minutes ♪ 20 minutes ♪ 30 minutes ♪ 40 minutes ♪ 50 minutes ♪ 60 minutes ♪ 70 minutes ♪ 80 minutes ♪
+| time (minutes) | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 |
 |---|---|---|---|---|---|---|---|---|
-So, what's the temperature?
+| temperature (°C) | 65 | 49 | 38 | 30 | 25 | 22 | 20 | 18 |
 
-What's the cooling rate of the liquid for 10 to 20 minutes?
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
+What is the cooling rate of the liquid between 10 and 20 minutes?
 
 
 
@@ -215,21 +209,15 @@ Calcola la quantità di calore (in calorie) da fornire per far bollire l'acqua a
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 - The Commission has not yet decided on the application of this Regulation.
+**Problem 4**
 
-A cup of 10 g of tea is prepared in a room at 15 °C. The table below shows the temperature of tea as a function of the time measured immediately after its preparation.
+A cup of 10 g of tea is prepared in a room at a temperature of 15 °C. The table below represents the temperature of the tea as a function of time measured immediately after its preparation.
 
-♪ Time is 10 minutes ♪ 20 minutes ♪ 30 minutes ♪ 40 minutes ♪ 50 minutes ♪ 60 minutes ♪ 70 minutes ♪ 80 minutes ♪
+| time (minutes) | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 |
 |---|---|---|---|---|---|---|---|---|
-So, what's the temperature?
+| temperature (°C) | 65 | 49 | 38 | 30 | 25 | 22 | 20 | 18 |
 
-Calculate the amount of heat (in calories) to be provided to boil the water to 100 °C before brewing the tea. (water heat capacity $c_{\text{água}} = 1\,\mathrm{cal/(g\cdot{}^\circ C)}$)
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
+Calculate the amount of heat (in calories) that must be supplied to boil the water at 100 °C before preparing the tea. (specific heat capacity of water $c_{\text{água}} = 1\,\mathrm{cal/(g\cdot{}^\circ C)}$)
 
 
 
@@ -278,22 +266,16 @@ Qual è il spostamento della massa $m$ tra $t = 0$ e $t = 5\,\mathrm{s}$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 - The Commission has not yet decided on the application of the rules on the application of the rules of procedure.
+**Problem 5**
 
-The following graph describes the harmonic motion (amplitude $x$ as a function of time $t$) performed by a mass-moll set.
+The graph below describes the harmonic motion (amplitude $x$ as a function of time $t$) performed by a mass-spring system.
 
-What is the mass shift of $m$ between $t = 0$ and $t = 5\,\mathrm{s}$?
+What is the displacement of the mass $m$ between $t = 0$ and $t = 5\,\mathrm{s}$?
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p2_f1.png]]
-*Graph x(t) of the harmonic mass-moll movement*
+*Graph x(t) of the mass-spring harmonic motion*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -342,22 +324,16 @@ Qual è la velocità media di massa $m$ tra $t = 10\,\mathrm{s}$ e $t = 11\,\mat
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6 - The Commission has not yet decided on the draft budget.
+**Problem 6**
 
-The following graph describes the harmonic motion (amplitude $x$ as a function of time $t$) performed by a mass-moll set.
+The graph below describes the harmonic motion (amplitude $x$ as a function of time $t$) performed by a mass-spring system.
 
-What is the mean mass speed $m$ between $t = 10\,\mathrm{s}$ and $t = 11\,\mathrm{s}$?
+What is the average velocity of the mass $m$ between $t = 10\,\mathrm{s}$ and $t = 11\,\mathrm{s}$?
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p2_f2.png]]
-*Graph x(t) of the harmonic mass-moll movement*
+*Graph x(t) of the mass-spring harmonic motion*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -406,22 +382,16 @@ Foto strofoscopica dei due corridori sul circuito
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 7 - The Commission has not yet decided on the application of this Regulation.
+**Problem 7**
 
-Two runners compete in an athletics event on a straight horizontal track. The figure below shows the two runners photographed at successive intervals of 0.2 seconds. The track has a distance marker every meter.
+Two runners compete in an athletics race on a straight horizontal track. The figure below represents the two runners photographed at successive time intervals of 0.2 seconds. The track has a distance marker every 1 meter.
 
-Write the time equation for corridor two. Consider $x$ horizontal displacement and $t$ time, with $x(0) = 0$ in $t = 0$.
+Write the equation of motion for runner 2. Consider $x$ the horizontal displacement and $t$ the time, with $x(0) = 0$ in $t = 0$.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p2_f3.png]]
-Stroboscopic photo of the two runners on the track
+*Stroboscopic photo of the two runners on the track*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -470,22 +440,16 @@ Foto strofoscopica dei due corridori sul circuito
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Problem 8**
 
-Two runners compete in an athletics event on a straight horizontal track. The figure below shows the two runners photographed at successive intervals of 0.2 seconds. The track has a distance marker every meter.
+Two runners compete in an athletics race on a straight horizontal track. The figure below represents the two runners photographed at successive time intervals of 0.2 seconds. The track has a distance marker every 1 meter.
 
-What position are runners 1 and 2 together on the track?
+At which position(s) are runners 1 and 2 together on the track?
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p2_f4.png]]
-Stroboscopic photo of the two runners on the track
+*Stroboscopic photo of the two runners on the track*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -612,18 +576,12 @@ Un treno di metro si accelera da un punto di riposo a $1{,}2\,\mathrm{m/s^2}$ in
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a number of proposals for the amendment.
+**Problem 11**
 
-A subway train accelerates from rest to $1{,}2\,\mathrm{m/s^2}$ at one station to cover the first half of the distance to the next station and then slows down to $-1{,}2\,\mathrm{m/s^2}$ at the second half of the distance of $1{,}1\,\mathrm{km}$ between stations. Determine:
+A subway train accelerates from rest at $1{,}2\,\mathrm{m/s^2}$ in a station to cover the first half of the distance to the next station and then decelerates at $-1{,}2\,\mathrm{m/s^2}$ over the second half of the distance of $1{,}1\,\mathrm{km}$ between the stations. Determine:
 
-- **A** travel time between stations;
-- **B.** the maximum speed of the train.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
+- **A.** the travel time between the stations;
+- **B.** the maximum scalar speed of the train.
 
 
 
@@ -674,23 +632,17 @@ Il diagramma seguente rappresenta un ciclo effettuato da un gas ottimale su un d
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 12 - The Commission has not yet decided on the application of the rules of procedure.
+**Problem 12**
 
-The diagram below represents a cycle performed by an ideal gas on an entropy diagram $S$ versus temperature $T$.
+The diagram below represents a cycle performed by an ideal gas in an entropy $S$ versus temperature $T$ diagram.
 
-- **A.** Draw the given cycle on a pressure diagram $P$ against volume $V$;
-- **B.** Determine the yield of the cycle.
+- **A.** Sketch the given cycle in a pressure $P$ versus volume $V$ diagram;
+- **B.** Determine the efficiency of the cycle.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p3_f5.png]]
-The following shall be added to the list of the following:
+*Thermodynamic cycle in the S-T diagram*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -731,18 +683,12 @@ Un giocatore di basket, quando "enterra" la palla, salta verticalmente di 80 cen
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 13 - The Commission has not yet decided on the application of the rules of procedure.
+**Problem 13**
 
-A basketball player, when he buries the ball, jumps upright by about two inches. How long does the player spend:
+A basketball player, at the moment of "dunking" the ball, jumps 80 cm vertically. How much time does the player spend:
 
-- **A** at 45 cm higher than the jump;
-- MSK1/B at the bottom of the 75 cm?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
+- **A.** in the highest 45 cm of the jump;
+- **B.** in the lowest 75 cm?
 
 
 
@@ -787,20 +733,14 @@ Una barra $AB$ di lunghezza $L$ è posta sull'asse di uno specchio concave a dis
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 14 - The Commission has not yet decided on the draft budget.
+**Problem 14**
 
-A $AB$ length $L$ bar is placed on the axis of a concave mirror of focal length $f$ as shown in the figure below. Knowing that the $A$ end of the bar is at a distance $p$ from the mirror vertex, it determines the longitudinal increase of the bar, i.e. the ratio between the length of the bar image and the length $L$ of the bar.
+A rod $AB$ of length $L$ is placed on the axis of a concave mirror with focal length $f$, as shown in the figure below. Knowing that the end $A$ of the rod is at a distance $p$ from the vertex of the mirror, determine the longitudinal magnification of the rod, that is, the ratio between the length of the image of the rod and the length $L$ of the same.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p3_f6.png]]
-The following shall be added to the list of the following:
+*Rod AB on the axis of a concave mirror with focal length f*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -851,23 +791,17 @@ La figura seguente mostra un sistema di tre barre di rame $20\,\mathrm{cm}$ di l
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 15 - The Commission has decided to take a decision on the draft budget.
+**Question 15**
 
-The following figure shows a three-bar copper system of $20\,\mathrm{cm}$ length and $5\,\mathrm{mm^2}$ cross section area. The ends of the bars are connected in a common $A$ point. The other ends are each placed in a bath of boiling water (B), a bath of boiling alcohol (C) and a bath of melting ice (D). Knowing that the thermal conductivity of copper is $k = 400\,\mathrm{W/(m\cdot K)}$, that the boiling temperature of the alcohol is $80\,^\circ\mathrm{C}$ and that the ice melting temperature is about $300\,\mathrm{J/g}$, determine:
+The following figure shows a system of three copper bars of length $20\,\mathrm{cm}$ and cross-sectional area $5\,\mathrm{mm^2}$. The ends of the bars are connected at a common point $A$. The other ends are each placed in a bath of boiling water (B), a bath of boiling alcohol (C), and a bath of melting ice (D). Knowing that the thermal conductivity of copper is $k = 400\,\mathrm{W/(m\cdot K)}$, that the boiling temperature of alcohol is $80\,^\circ\mathrm{C}$, and that the heat of fusion of ice is about $300\,\mathrm{J/g}$, determine:
 
-- **A.** The temperature at the point $A$;
-- **B** The amount of ice that melts per minute.
+- **A.** The temperature at point $A$;
+- **B.** The amount of ice that melts per minute.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p4_f7.png]]
-*Third-bar copper system in point A*
+*System of three copper bars at point A*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)
 
 
 
@@ -918,20 +852,14 @@ Ana e Bia tirano i blocchi $A$ e $B$, rispettivamente, come mostra la figura seg
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 16 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Question 16**
 
-Ana and Bia pull the $A$ and $B$ blocks, respectively, as shown in the following figure. Knowing that the block mass is $m_A = 1\,\mathrm{kg}$ and $m_B = 4\,\mathrm{kg}$, that the static friction coefficient between the blocks is $\mu_{AB} = 0{,}3$ and that the static friction coefficient between the block $B$ and the soil is $\mu = 0{,}7$ (local gravity $g = 10\,\mathrm{m/s^2}$), determine:
+Ana and Bia pull blocks $A$ and $B$, respectively, as shown in the following figure. Knowing that the mass of the blocks is $m_A = 1\,\mathrm{kg}$ and $m_B = 4\,\mathrm{kg}$, that the coefficient of static friction between the blocks is $\mu_{AB} = 0{,}3$ and that the coefficient of static friction between block $B$ and the ground is $\mu = 0{,}7$ (local gravity $g = 10\,\mathrm{m/s^2}$), determine:
 
-- **A.** The maximum force that Ana and Bia can exert on the blocks to keep the system in static equilibrium;
-- **B.** The initial instantaneous acceleration of the blocks if Ana and Bia apply twice the forces calculated in (a).
+- **A.** The maximum force that Ana and Bia can exert on the blocks so that the system remains in static equilibrium;
+- **B.** The initial instantaneous acceleration of the blocks if Ana and Bia apply twice the forces calculated in item (a).
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F2_9&1o_A4/OBF2011_F2_9&1o_A4_p4_f8.png]]
 *Blocks A and B pulled by Ana and Bia*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1jarEyaTdsQ95FsN8Jou74IfxTYHcaLn8/view)

@@ -27,14 +27,9 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** An object of mass $1\ \text{kg}$ is lifted vertically at a constant speed of $10\ \text{m s}^{-1}$. What's the minimum power required? A) $0.1\ \text{W}$; B) $1\ \text{W}$; C) $10\ \text{W}$; D) $100\ \text{W}$; E) $1000\ \text{W}$.
+**Q1.** An object of mass $1\ \text{kg}$ is lifted vertically at a constant speed of $10\ \text{m s}^{-1}$. What is the minimum power required? A) $0.1\ \text{W}$; B) $1\ \text{W}$; C) $10\ \text{W}$; D) $100\ \text{W}$; E) $1000\ \text{W}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -56,14 +51,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** What pair is a scalar and a vector size? (a) acceleration and displacement; (b) kinetic energy and mass; (c) amount of motion and speed; (d) potential energy and labour; (e) power and weight.
+**Q2.** Which pair consists of a scalar quantity and a vector quantity? A) acceleration and displacement; B) kinetic energy and mass; C) momentum and velocity; D) potential energy and work; E) power and weight.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -85,14 +75,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q3.** A cart moves at $v$ speed towards a distant wall, carrying a frequency sound source $f$ and a detector; the sound is reflected from the wall and received by the detector. If the sound speed in the air is $u$, the detector shall receive a frequency sound: A) $f\dfrac{u-v}{u+v}$; B) $f\dfrac{u}{u+v}$; C) $f$; D) $f\dfrac{u}{u-v}$; E) $f\dfrac{u+v}{u-v}$.
+**Q3.** A cart moves at speed $v$ toward a distant wall, carrying a sound source with frequency $f$ and a detector; the sound is reflected by the wall and received by the detector. If the speed of sound in air is $u$, the detector receives a sound with frequency: A) $f\dfrac{u-v}{u+v}$; B) $f\dfrac{u}{u+v}$; C) $f$; D) $f\dfrac{u}{u-v}$; E) $f\dfrac{u+v}{u-v}$.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -143,14 +128,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q5.** A sinusoidal signal is displayed on an oscilloscope; the time scale is $0.5\ \text{ms}$ per square and the period is four squares. What's the frequency of the signal? A) $0.50\ \text{Hz}$; B) $1.25\ \text{Hz}$; C) $2.00\ \text{Hz}$; D) $200\ \text{Hz}$; E) $500\ \text{Hz}$.
+**Q5.** A sinusoidal signal is displayed on an oscilloscope; the time scale is $0.5\ \text{ms}$ per division and the period is four divisions. What is the frequency of the signal? A) $0.50\ \text{Hz}$; B) $1.25\ \text{Hz}$; C) $2.00\ \text{Hz}$; D) $200\ \text{Hz}$; E) $500\ \text{Hz}$.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -172,14 +152,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-From a terrace at a height of $32\ \text{m}$ one ball is thrown vertically down at $10\ \text{m s}^{-1}$; at the same time another ball is thrown vertically upwards at the same speed from the road. How high up from the street level do the two balls cross? A) $0$; B) $1.7\ \text{m}$; C) $3.4\ \text{m}$; D) $6.8\ \text{m}$; E) $16\ \text{m}$.
+**Q6.** From a terrace at height $32\ \text{m}$ a ball is thrown vertically downward at $10\ \text{m s}^{-1}$; at the same instant another ball is thrown vertically upward with the same speed from the street. At what height from street level do the two balls cross? A) $0$; B) $1.7\ \text{m}$; C) $3.4\ \text{m}$; D) $6.8\ \text{m}$; E) $16\ \text{m}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -201,14 +176,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q7.** Two pulses of equal width and length $\ell$ move along a rope towards each other at the same speed. What graph shows the evolution over time of the $M$ point, the mean point of $AB$? *[Five AE graphs; the pulses are opposite (one positive, one negative).]*
+**Q7.** Two pulses of equal amplitude and length $\ell$ move along a rope toward each other with the same speed. Which graph represents the evolution over time of point $M$, the midpoint of $AB$? *[Five graphs A–E; the pulses are opposite (one positive, one negative).]*
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -230,14 +200,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-What graph represents the ratio of $T/V$ (absolute volume temperature) to pressure $p$ for a given perfect gas mass? *[Five AE graphs; $T/V=p/(nR)$, true to the origin.]*
+**Q8.** Which graph represents the ratio $T/V$ (absolute temperature over volume) as a function of pressure $p$, for a given mass of ideal gas? *[Five graphs A–E; $T/V=p/(nR)$, straight line through the origin.]*
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -259,14 +224,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q9.** Which of the lines correctly represents the light beam coming out of a biconvex (convergent) lens? The following is the list of the following:
+**Q9.** Which of the lines correctly represents the light ray emerging from a biconvex (converging) lens? *[Five rays A–E.]*
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -288,14 +248,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A girl of mass $M$ sits on the edge of a circular platform with a radius $R$ and moment of inertia $I$ (negligible friction, vertical axis), initially still. The girl walks along the edge at $v$ speed relative to the ground. What is the angular velocity of the platform relative to the ground? A) $0$; B) $\omega=\dfrac{MRv}{I}$; C) $\omega=\dfrac{v}{R}$; D) $\omega=\dfrac{MRv}{I-MR^2}$; E) $\omega=\dfrac{MRv}{I+MR^2}$.
+**Q10.** A girl of mass $M$ sits on the edge of a circular platform of radius $R$ and moment of inertia $I$ (negligible friction, vertical axis), initially at rest. The girl walks along the edge with speed $v$ relative to the ground. What is the angular velocity of the platform relative to the ground? A) $0$; B) $\omega=\dfrac{MRv}{I}$; C) $\omega=\dfrac{v}{R}$; D) $\omega=\dfrac{MRv}{I-MR^2}$; E) $\omega=\dfrac{MRv}{I+MR^2}$.
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -317,14 +272,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The pressure in a homogeneous liquid depends on the depth and density. Which pair of graphs describes $P$ as a function of density $\rho$ (at equal depth) and $P$ as a function of depth $h$ (liquid given)? *[Pairs of AE charts; in both cases $P$ depends linearly.]*
+**Q11.** The pressure in a homogeneous liquid depends on depth and density. Which pair of graphs describes $P$ as a function of density $\rho$ (at equal depth) and $P$ as a function of depth $h$ (for a given liquid)? *[Pairs of graphs A–E; in both cases $P$ depends linearly.]*
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -346,14 +296,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a long tank, a device generates waves of amplitude $0.5\ \text{m}$, each $2.5\ \text{s}$; the wavelength fronts are $9\ \text{m}$. What's the speed of the waves? A) $0.2\ \text{m s}^{-1}$; B) $2.25\ \text{m s}^{-1}$; C) $3.6\ \text{m s}^{-1}$; D) $4.5\ \text{m s}^{-1}$; E) $5.25\ \text{m s}^{-1}$.
+**Q12.** In a long tank, a device generates waves of amplitude $0.5\ \text{m}$, one every $2.5\ \text{s}$; the wavefronts are $9\ \text{m}$ apart. What is the speed of the waves? A) $0.2\ \text{m s}^{-1}$; B) $2.25\ \text{m s}^{-1}$; C) $3.6\ \text{m s}^{-1}$; D) $4.5\ \text{m s}^{-1}$; E) $5.25\ \text{m s}^{-1}$.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -375,14 +320,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q13.** A transformer has 40 spires at the primary and 80 at the secondary; a power input of $20\ \text{W}$ is given to the primary. What is the power transferred to the secondary if the efficiency is $100\%$? A) $10\ \text{W}$; B) $20\ \text{W}$; C) $40\ \text{W}$; D) $80\ \text{W}$; E) $160\ \text{W}$.
+**Q13.** A transformer has 40 turns in the primary and 80 in the secondary; a power of $20\ \text{W}$ is fed into the primary. What is the power transferred to the secondary if the efficiency is $100\%$? A) $10\ \text{W}$; B) $20\ \text{W}$; C) $40\ \text{W}$; D) $80\ \text{W}$; E) $160\ \text{W}$.
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -404,14 +344,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A perfect gas undergoes a constant pressure expansion from volume $V_i$ (temperature $T_i$) to volume $V_f$ (temperature $T_f$); the molar heat at constant pressure is $C_p$. The work performed by $n$ mills during expansion is: A) $0$; B) $nRT_i\ln(V_f/V_i)$; C) $nC_p(T_f-T_i)$; D) $nR(V_f-V_i)$; E) $nR(T_f-T_i)$.
+**Q14.** An ideal gas undergoes an expansion at constant pressure from volume $V_i$ (temperature $T_i$) to volume $V_f$ (temperature $T_f$); the molar heat at constant pressure is $C_p$. The work done by $n$ moles during the expansion is: A) $0$; B) $nRT_i\ln(V_f/V_i)$; C) $nC_p(T_f-T_i)$; D) $nR(V_f-V_i)$; E) $nR(T_f-T_i)$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -433,14 +368,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** A thin film of $s$ thickness and refractive index $1.33$ adheres to a glass of $1.5$ index; light is reflected from both surfaces. A wavelength beam $600\ \text{nm}$ is almost perpendicular to the impact. What is the minimum thickness $s$ for which light is not reflected in the air? A) $113\ \text{nm}$; B) $150\ \text{nm}$; C) $226\ \text{nm}$; D) $300\ \text{nm}$; E) $600\ \text{nm}$.
+**Q15.** A thin film of thickness $s$ and refractive index $1.33$ adheres to a glass of index $1.5$; light is reflected from both surfaces. A beam of wavelength $600\ \text{nm}$ is incident almost perpendicularly. What is the minimum thickness $s$ for which the light is not reflected into air? A) $113\ \text{nm}$; B) $150\ \text{nm}$; C) $226\ \text{nm}$; D) $300\ \text{nm}$; E) $600\ \text{nm}$.
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also proposed that the Commission should take into account the fact that the Commission has not yet adopted a proposal for a regulation on the use of the European Union's external borders.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -462,14 +392,9 @@ The Commission has also proposed that the Commission should take into account th
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q16.** A force $F$ acts on block A by causing an acceleration $a$; the static friction coefficient between blocks A and B is $\mu$. The condition for the block B not to slip down is: A) $a>\mu/g$; B) $a<\mu/g$; C) $a>g$; D) $a>g/\mu$; E) $a<g/\mu$.
+**Q16.** A force $F$ acts on block A producing an acceleration $a$; the coefficient of static friction between blocks A and B is $\mu$. The condition for block B not to slide down is: A) $a>\mu/g$; B) $a<\mu/g$; C) $a>g$; D) $a>g/\mu$; E) $a<g/\mu$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -491,14 +416,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A rock fragment falls from a standstill in free fall near the surface of an atmospheric planet, where $g_p=4\ \text{m s}^{-2}$. What is the speed after you fall for $32\ \text{m}$? A) $8.0\ \text{m s}^{-1}$; B) $16\ \text{m s}^{-1}$; C) $25\ \text{m s}^{-1}$; D) $32\ \text{m s}^{-1}$; E) $128\ \text{m s}^{-1}$.
+**Q17.** A rock fragment falls from rest in free fall near the surface of a planet without an atmosphere, where $g_p=4\ \text{m s}^{-2}$. What is the velocity after falling for $32\ \text{m}$? A) $8.0\ \text{m s}^{-1}$; B) $16\ \text{m s}^{-1}$; C) $25\ \text{m s}^{-1}$; D) $32\ \text{m s}^{-1}$; E) $128\ \text{m s}^{-1}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -520,14 +440,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q18. ** Hydrogen atoms are excited at the state $n=4$. When they return to their basic state, they emit photons of different energies. According to Bohr's model, how many different energies are there? A) $0$; B) $1$; C) $3$; D) $4$; E) $6$.
+**Q18.** Hydrogen atoms are excited to the $n=4$ state. When they return to the ground state they emit photons of different energies. According to the Bohr model, how many different energies are there? A) $0$; B) $1$; C) $3$; D) $4$; E) $6$.
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -549,14 +464,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q19.** Three identical spheres: 1 and 2 are charged $q$, 3 is discharged; they are at a great distance and the repulsive force between 1 and 2 is $F$. Sphere 3 is put in contact with 1, then with 2, and finally removed. If the distance between 1 and 2 does not change, the repulsion force between them is now: A) $0$; B) $F/16$; C) $F/4$; D) $3F/8$; E) $F/2$.
+**Q19.** Three identical small spheres: 1 and 2 have charge $q$, the 3rd is uncharged; they are at a large distance and the repulsive force between 1 and 2 is $F$. Sphere 3 is put in contact with 1, then with 2, and finally moved away. If the distance between 1 and 2 does not change, the repulsive force between them now has magnitude: A) $0$; B) $F/16$; C) $F/4$; D) $3F/8$; E) $F/2$.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -607,14 +517,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q21.** A box of $50\ \text{kg}$ on an inclined plane of angle $\theta$ (without friction) is pushed at a constant speed from A to B by a force $F$ parallel to the plane. By increasing $\theta$ (and varying $F$ to maintain constant speed), how do the force modules and work performed from A to B vary? (a) force decreases, labour increases; (b) force increases, labour decreases; (c) both increase; (d) force decreases, labour remains unchanged; (e) force increases, labour remains unchanged.
+**Q21.** A box of $50\ \text{kg}$ on an inclined plane of angle $\theta$ (without friction) is pushed at constant speed from A to B by a force $F$ parallel to the plane. By increasing $\theta$ (and varying $F$ to maintain constant speed), how do the magnitude of the force and the work done from A to B vary? A) force decreases, work increases; B) force increases, work decreases; C) both increase; D) force decreases, work unchanged; E) force increases, work unchanged.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -636,14 +541,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q22.** A heating apparatus for a liquid; $V$ is a high internal resistance voltmeter, $A$ is a low internal resistance amperometer. When the switch is closed, the voltmeter indicates a d.d.p. But the amperometer is zero. The cause could be: A) the switch has reopened; B) the battery is completely discharged; C) the coil strength is too small; D) the heating coil is broken; E) there is too much liquid in the container.
+**Q22.** A device heats a liquid; $V$ is a voltmeter with high internal resistance, $A$ an ammeter with low internal resistance. When the switch is closed, the voltmeter shows a p.d. but the ammeter reads zero. The cause could be: A) the switch has reopened; B) the battery is completely flat; C) the resistance of the coil is too small; D) the heating coil is broken; E) there is too much liquid in the container.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Galvanometer (object)|Galvanometer]], [[Coil (object)|Coil]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -665,14 +565,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q23.** A radioactive substance has a half-life of $200$ years. What fraction of a sample will be left over the $100$ years? The following conditions shall apply: (a) zero; (b) about $1/4$; (c) about $1/2$; (d) about $7/10$; (e) about $3/4$.
+**Q23.** A radioactive substance has a half-life of $200$ years. What fraction of a sample will remain after $100$ years? A) zero; B) about $1/4$; C) about $1/2$; D) about $7/10$; E) about $3/4$.
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -694,14 +589,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q24.** At parity of temperature the density of the steam is less than that of water. That's because, compared to water, in steam... (a) the average distance between molecules is greater; (b) the average speed of molecules is greater; (c) the molecular mass is smaller; (d) the molecules are much larger; (e) the average speed of molecules is smaller.
+**Q24.** At the same temperature, the density of steam is lower than that of water. This is due to the fact that, compared to water, in steam... A) the average distance between molecules is greater; B) the average speed of the molecules is greater; C) the mass of the molecules is smaller; D) the size of the molecules is much larger; E) the average speed of the molecules is lower.
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also proposed that the Commission should take into account the fact that the Commission has not yet adopted a proposal for a regulation on the use of the European Union's external borders.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -723,14 +613,9 @@ The Commission has also proposed that the Commission should take into account th
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q25.** Per far viaggiare in acqua a $15\ \text{m s}^{-1}$ un motoscafo di massa $9.0\times10^2\ \text{kg}$ occorre una forza orizzontale di $6.0\times10^3\ \text{N}$. The engine shall supply power at least at the rate of: A) $2.5\times10^{-1}\ \text{J}$; B) $4.0\times10^2\ \text{W}$; C) $7.5\times10^4\ \text{J}$; D) $9.0\times10^4\ \text{W}$; E) $13.5\times10^4\ \text{W}$.
+**Q25.** To make a motorboat of mass $9.0\times10^2\ \text{kg}$ travel in water at $15\ \text{m s}^{-1}$, a horizontal force of $6.0\times10^3\ \text{N}$ is needed. The engine must supply energy at least at the rate of: A) $2.5\times10^{-1}\ \text{J}$; B) $4.0\times10^2\ \text{W}$; C) $7.5\times10^4\ \text{J}$; D) $9.0\times10^4\ \text{W}$; E) $13.5\times10^4\ \text{W}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -810,14 +695,9 @@ The Commission has also proposed that the Commission should take into account th
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q27.** A train is leaving at constant acceleration $0.80\ \text{m s}^{-2}$. When the speed is $2.0\ \text{m s}^{-1}$, a passenger drops a coin that uses $0.50\ \text{s}$ to touch the floor. Compared to the track, the horizontal movement of the coin during the fall is... A) $1.1\ \text{m}$ nel verso del moto; B) $1.0\ \text{m}$ nel verso del moto; C) $0.10\ \text{m}$ nel verso del moto; D) nullo; E) $0.10\ \text{m}$ in verso opposto.
+**Q27.** A train departs with constant acceleration $0.80\ \text{m s}^{-2}$. When the speed is $2.0\ \text{m s}^{-1}$, a passenger drops a coin that takes $0.50\ \text{s}$ to touch the floor. With respect to the tracks, the horizontal displacement of the coin during the fall is... A) $1.1\ \text{m}$ in the direction of motion; B) $1.0\ \text{m}$ in the direction of motion; C) $0.10\ \text{m}$ in the direction of motion; D) zero; E) $0.10\ \text{m}$ in the opposite direction.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -839,14 +719,9 @@ The Commission has also proposed that the Commission should take into account th
 
 <div class="qlang-split" data-lang="en"></div>
 
-What is the mass of a particle of $30.7\ \text{GeV}/c^2$ in kg? A) $5.47\times10^{-35}\ \text{kg}$; B) $5.47\times10^{-26}\ \text{kg}$; C) $1.64\times10^{-17}\ \text{kg}$; D) $4.91\times10^{-9}\ \text{kg}$; E) $3.41\times10^{-7}\ \text{kg}$.
+**Q28.** What is the mass in kg of a particle of $30.7\ \text{GeV}/c^2$? A) $5.47\times10^{-35}\ \text{kg}$; B) $5.47\times10^{-26}\ \text{kg}$; C) $1.64\times10^{-17}\ \text{kg}$; D) $4.91\times10^{-9}\ \text{kg}$; E) $3.41\times10^{-7}\ \text{kg}$.
 
-**Topic:** [[Special Relativity]]
-**Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -897,14 +772,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a complete cycle of a perfect gas: $1\to2$ isothermal at $300\ \text{K}$ (absorbs $30\ \text{J}$); $2\to3$ at constant volume (cedes $40\ \text{J}$, $T_3=275\ \text{K}$); $3\to1$ adiabatic. What is the change in internal energy in the $3\to1$ transformation? A) $-40\ \text{J}$; B) $-10\ \text{J}$; C) $0$; D) $10\ \text{J}$; E) $40\ \text{J}$.
+**Q29.** An ideal gas undergoes a cycle: $1\to2$ isothermal at $300\ \text{K}$ (absorbs $30\ \text{J}$); $2\to3$ at constant volume (releases $40\ \text{J}$, $T_3=275\ \text{K}$); $3\to1$ adiabatic. What is the change in internal energy in the transformation $3\to1$? A) $-40\ \text{J}$; B) $-10\ \text{J}$; C) $0$; D) $10\ \text{J}$; E) $40\ \text{J}$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -926,14 +796,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q30.** A ball of mass $M$ attached to a rope wheel in a horizontal plane on a radius circumference $R$ at a constant speed $v$. What variation would require the maximum increase in centripetal force? A) quadruplicare sia $v$ che $R$; B) raddoppiare sia $v$ che $R$; C) raddoppiare $v$ e dimezzare $R$; D) dimezzare $v$ e raddoppiare $R$; E) dimezzare sia $v$ che $R$.
+**Q30.** A ball of mass $M$ attached to a rope rotates in a horizontal plane on a circle of radius $R$ at constant speed $v$. Which change would require the greatest increase in centripetal force? A) quadruple both $v$ and $R$; B) double both $v$ and $R$; C) double $v$ and halve $R$; D) halve $v$ and double $R$; E) halve both $v$ and $R$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -955,14 +820,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q31.** A person climbs a scale in a stationary elevator: mark $80\ \text{kg}$. When the elevator goes up with $g/10$ acceleration, what is the person's mass worth? A) $72\ \text{kg}$; B) $78\ \text{kg}$; C) $80\ \text{kg}$; D) $82\ \text{kg}$; E) $88\ \text{kg}$.
+**Q31.** A person steps on a scale in a stationary elevator: it reads $80\ \text{kg}$. When the elevator ascends with acceleration $g/10$, what is the mass of the person? A) $72\ \text{kg}$; B) $78\ \text{kg}$; C) $80\ \text{kg}$; D) $82\ \text{kg}$; E) $88\ \text{kg}$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -984,14 +844,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q32.** Three identical lamps dissipate $60\ \text{W}$ each when connected separately to $220\ \text{V}$. They are incorrectly serial linked to $220\ \text{V}$ (ohm behaviour). How much power is dissipated by each light bulb? A) $6.7\ \text{W}$; B) $13.3\ \text{W}$; C) $20\ \text{W}$; D) $40\ \text{W}$; E) $60\ \text{W}$.
+**Q32.** Three identical light bulbs each dissipate $60\ \text{W}$ when connected separately to $220\ \text{V}$. They are mistakenly connected in series to $220\ \text{V}$ (ohmic behavior). What is the power dissipated by each light bulb? A) $6.7\ \text{W}$; B) $13.3\ \text{W}$; C) $20\ \text{W}$; D) $40\ \text{W}$; E) $60\ \text{W}$.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also proposed that the Commission should take into account the fact that the Commission has not yet adopted a proposal for a regulation on the implementation of the regulation.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1072,11 +927,11 @@ The Commission has also proposed that the Commission should take into account th
 
 <div class="qlang-split" data-lang="en"></div>
 
-How much heat must be supplied to transform $3\ \text{kg}$ of ice to $0\,^\circ\text{C}$ into water to $0\,^\circ\text{C}$? A) $0$; B) $1.0\ \text{MJ}$; C) $2.3\ \text{MJ}$; D) $3.3\ \text{MJ}$; E) $6.8\ \text{MJ}$.
+**Q33.** How much heat must be supplied to transform $3\ \text{kg}$ of ice at $0\,^\circ\text{C}$ into water at $0\,^\circ\text{C}$? A) $0$; B) $1.0\ \text{MJ}$; C) $2.3\ \text{MJ}$; D) $3.3\ \text{MJ}$; E) $6.8\ \text{MJ}$.
 
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p4_f5.png]]
-*five T/V graphs according to p*
+*five graphs T/V as a function of p*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1130,15 +985,10 @@ How much heat must be supplied to transform $3\ \text{kg}$ of ice to $0\,^\circ\
 </figure>
 
 
-The following table shows the results of the calculation of the total energy consumption of the product:
+*thermodynamic p-V cycle ideal gas*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1160,14 +1010,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two cars are travelling at the same speed; the front brake and the rear brake. In the impact, which of the two experiences the greatest change (in form) in engine volume? (a) the most massive; (b) the one with less mass; (c) the one behind; (d) the one in front; (e) the variation is the same in form for both.
+**Q34.** Two cars travel at the same speed; the one in front brakes and the one behind rear-ends it. In the collision, which of the two undergoes the greater change (in magnitude) of momentum? A) the more massive one; B) the one with smaller mass; C) the one behind; D) the one in front; E) the change is the same in magnitude for both.
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1189,14 +1034,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q35.** A block of mass $m$ moves upward along an inclined plane of angle $\theta$, driven by a horizontal force $F$; the dynamic friction coefficient is $\mu$. The strength of the friction force shall be: A) $\mu mg\cos\theta$; B) $\mu mg/\cos\theta$; C) $\mu(mg\cos\theta+F\sin\theta)$; D) $\mu(F\cos\theta-mg\sin\theta)$; E) $\mu F\cos\theta$.
+**Q35.** A block of mass $m$ moves upward along an inclined plane of angle $\theta$, pushed by a horizontal force $F$; the coefficient of kinetic friction is $\mu$. The magnitude of the friction force is: A) $\mu mg\cos\theta$; B) $\mu mg/\cos\theta$; C) $\mu(mg\cos\theta+F\sin\theta)$; D) $\mu(F\cos\theta-mg\sin\theta)$; E) $\mu F\cos\theta$.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1284,7 +1124,7 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q36.** A beam of light passes through the air to a B-way, then passes through a C-way and returns to the air. What is the speed of light in B?A) $1.0\times10^8\ \text{m s}^{-1}$; B) $2.1\times10^8\ \text{m s}^{-1}$; C) $2.5\times10^8\ \text{m s}^{-1}$; D) $3.0\times10^8\ \text{m s}^{-1}$; E) $4.2\times10^8\ \text{m s}^{-1}$.
+**Q36.** A light ray passes from air into a medium B, then travels through a medium C and returns to air. What is the speed of light in B? A) $1.0\times10^8\ \text{m s}^{-1}$; B) $2.1\times10^8\ \text{m s}^{-1}$; C) $2.5\times10^8\ \text{m s}^{-1}$; D) $3.0\times10^8\ \text{m s}^{-1}$; E) $4.2\times10^8\ \text{m s}^{-1}$.
 
 <!--fig:start-->
 
@@ -1325,39 +1165,34 @@ Q36.** A beam of light passes through the air to a B-way, then passes through a 
 </figure>
 
 
-*wall sound source cartridge*
+*cart with sound source toward wall*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p3_f2.png]]
-*oscilloscope with sine wave signal*
+*oscilloscope with sinusoidal signal*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p4_f3.png]]
-*two pulses on ropes to M*
+*two pulses on a rope toward M*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p4_f4.png]]
-The following is the list of the main types of data that are used in the data collection process:
+*five graphs of temporal evolution of point M*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p4_f6.png]]
-The following table shows the results of the tests:
+*biconvex lens with rays A-E*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p6_f8.png]]
-* thin film n=1.00,1.33,1.50*
+*thin film layers n=1.00, 1.33, 1.50*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p10_f15.png]]
-*light refraction air-B-C-air angles 45-30*
+*refraction of light air-B-C-air angles 45-30*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1379,14 +1214,9 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q37.** Three loads of $\pm Q$ with $Q=2.0\times10^{-7}\ \text{C}$ are placed on three vertices of a side square $0.10\ \text{m}$. If the infinite potential is zero, the electrostatic potential at the fourth vertex is: A) $-2.3\times10^4\ \text{V}$; B) $1.3\times10^4\ \text{V}$; C) $2.3\times10^4\ \text{V}$; D) $3.8\times10^4\ \text{V}$; E) $2.3\times10^5\ \text{V}$.
+**Q37.** Three charges of value $\pm Q$, with $Q=2.0\times10^{-7}\ \text{C}$, are placed at three vertices of a square of side $0.10\ \text{m}$. Setting the potential at infinity to zero, the electrostatic potential at the fourth vertex is: A) $-2.3\times10^4\ \text{V}$; B) $1.3\times10^4\ \text{V}$; C) $2.3\times10^4\ \text{V}$; D) $3.8\times10^4\ \text{V}$; E) $2.3\times10^5\ \text{V}$.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1408,14 +1238,9 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q38.** A charge ion $q$ and mass $m$ enters a uniform magnetic field $B$ with a speed $v$ perpendicular to it and travels through a arc of radius $R$. Un altro ione di carica $q$, massa $2m$ e velocità $2v$ percorre una traiettoria di raggio: A) $4R$; B) $2R$; C) $R$; D) $R/2$; E) $R/4$.
+**Q38.** An ion of charge $q$ and mass $m$ enters a uniform magnetic field $B$ with velocity $v$ perpendicular and travels along an arc of radius $R$. Another ion of charge $q$, mass $2m$ and velocity $2v$ travels along a trajectory of radius: A) $4R$; B) $2R$; C) $R$; D) $R/2$; E) $R/4$.
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1529,11 +1354,11 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q39.** Three flat, uniform and infinite load distributions perpendicular to the plane of the page, with surface densities $+\sigma$, $+2\sigma$ and $-\sigma$. In point X the intensity and direction of the field are: A) $\dfrac{\sigma}{\varepsilon_0}$ to the left; B) $\dfrac{\sigma}{\varepsilon_0}$ to the left; C) $0$; D) $\dfrac{\sigma}{2\varepsilon_0}$ to the right; E) $\dfrac{2\sigma}{\varepsilon_0}$ to the right.
+**Q39.** Three planar, uniform and infinite charge distributions, perpendicular to the plane of the page, with surface densities $+\sigma$, $+2\sigma$ and $-\sigma$. At point X the magnitude and direction of the field are: A) $\dfrac{\sigma}{\varepsilon_0}$ to the left; B) $\dfrac{\sigma}{\varepsilon_0}$ to the left; C) $0$; D) $\dfrac{\sigma}{2\varepsilon_0}$ to the right; E) $\dfrac{2\sigma}{\varepsilon_0}$ to the right.
 
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p6_f10.png]]
-*three charge spheres 1, 2, 3*
+*three charged small spheres 1, 2, 3*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1581,7 +1406,7 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 </figure>
 
 
-*heating coil voltage meter ampere meter *
+*circuit with heating coil voltmeter ammeter*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1620,15 +1445,10 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 </figure>
 
 
-*three PM Q loads at square vertices*
+*three point charges Q at the vertices of a square*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)
 
 
 
@@ -1697,11 +1517,11 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q40.** On the Moon ($R=1.7\times10^6\ \text{m}$, $g_L=1.6\ \text{m s}^{-2}$) a probe is placed in circular orbit at a height much lower than the lunar ray. What's the bike time? A) $1.0\times10^3\ \text{s}$; B) $6.5\times10^3\ \text{s}$; C) $1.1\times10^6\ \text{s}$; D) $5.0\times10^6\ \text{s}$; E) $7.1\times10^{12}\ \text{s}$.
+**Q40.** On the Moon ($R=1.7\times10^6\ \text{m}$, $g_L=1.6\ \text{m s}^{-2}$) a probe is placed in a circular orbit at a height much smaller than the lunar radius. What is the period of the motion? A) $1.0\times10^3\ \text{s}$; B) $6.5\times10^3\ \text{s}$; C) $1.1\times10^6\ \text{s}$; D) $5.0\times10^6\ \text{s}$; E) $7.1\times10^{12}\ \text{s}$.
 
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p5_f7.png]]
-*five graph pairs P(rho) and P(h) *
+*five pairs of graphs P(rho) and P(h)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p6_f9.png]]
@@ -1709,7 +1529,7 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv18T/1liv18T_p7_f11.png]]
-*slope-on-plane block at the theta angle*
+*block on inclined plane angle theta*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1743,12 +1563,7 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 </figure>
 
 
-The following conditions shall apply:
+*block on inclined plane horizontal force F*
 <!--fig:end-->
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1zlarmDYKMTfQ567CfQLPaF_ylNP-2p06/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1Nl2myjsUU0BbveJ9W03yRNN7yhU_i3Zp/view)

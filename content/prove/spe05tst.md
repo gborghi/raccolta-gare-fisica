@@ -287,107 +287,84 @@ Liceo Scientifico “E. Medi” di Senigallia
 
 <div class="qlang-split" data-lang="en"></div>
 
-5. In the case of a sphere rolling without slipping, taking into account the premise and in particular the relationships between the
-(1) and (2) above, find the formula linking the period of oscillation of the sphere to the radius of curvature
-The mirror. Explain your reasoning clearly and succinctly. Determine the radius of curvature
-The value of the period of oscillation of the sphere is shown in point 3.
-Forms to be used:
-$$a^2 = R^2 - (R - h)^2 \qquad V = \frac{1}{3}\pi h^2(3R - h) \qquad V = \frac{1}{6}\pi h(3a^2 + h^2)$$
-with
-$R$ = the radius of curvature of the mirror;
-$a$ = radius of the circle at the base of the mirror;
-$h$ = mirror depth (arrow of the spherical shell);
+5. Assuming that the small sphere rolls without slipping, taking into account the Introduction and in particular relations (1) and (2) given therein, find the formula that relates the oscillation period of the small sphere to the radius of curvature of the mirror. Explain your reasoning clearly and concisely. Then determine the radius of curvature of the mirror through the value of the oscillation period of the small sphere already found in point 3.
+Formulas that may be used:
+$$a^2 = R^2 - (R - h)^2 \qquad V = \frac{1}{3}\pi h^2(3R - h) \qquad V = \frac{1}{6}\pi h(3a^2 + h^2)$$ with
+$R$ = radius of curvature of the mirror;
+$a$ = radius of the circle of the base of the mirror;
+$h$ = depth of the mirror (sagitta of the spherical cap);
 $V$ = volume contained in the mirror (spherical segment)
-AIF  Physics Olympics 2005
-National competition: Experimental test  Senigallia  7 April 2005
-Other materials:
-Read the following list carefully for useful information.
-• A mirror with a concave shape. Mirrors are fragile but also expensive and therefore in limited numbers; if the mirror is
-If broken during testing, it cannot be replaced. Be careful not to fall over
-the steel sphere or other objects. Handles it carefully, leaving it as far as possible at the base of your
-the container or in the plastic plate. Because on many occasions you'll have to use the mirror in a horizontal position,
-You should have three small supports of about the same height, made of plastic that `e your
-In such cases, you always place a sheet of paper between the mirror with the plastic and the table.
-Don't hang anything over the mirror. Don't collect the sun's rays from the mirror. Don 't take the card off .
-The safety of the adhesive on the back of the mirror.
-• Screw and die-holed cane (to measure the $h$ arrow of the mirror)
-• Grade cylinder
-• indelible brush, for any marks on the mirror, on the head of the vine, on the cane;
-Try to remove any marks of paint you've made with cotton and alcohol.
-• 2 plastic glasses, 1 doser to carry liquids from the service table to your table
-• electric torch with a rectangle of insulating tape, the outer side of which can act as a lighting object
+AIF – Physics Olympiads 2005
+National Competition: EXPERIMENTAL TEST – Senigallia – 7 April 2005
+Materials:
+Read the following list carefully, where you can find useful information.
+• Concave mirror. Mirrors are fragile, but also expensive and therefore limited in number; if the mirror breaks during the test, it will not be `a essere sostituito. Fai attenzione a non lasciarvi cadere sopra la sferetta d’acciaio o altri oggetti. Maneggialo con cautela, lasciandolo il pìu possibile nella base della sua custodia o nel piatto di plastica. Poich ́e in molte occasioni dovrai usare lo specchio in posizione orizzontale, ti conviene dotarlo di tre piccoli sostegni di altezza circa uguale, realizzati con la plastilina che ` available to you; in these cases always place a sheet of paper between the mirror with the modeling clay and the table.
+Do not stick anything on top of the mirror. Do not focus the Sun's rays on the mirror. Do not remove the protective paper of the adhesive on the back of the mirror.
+• perforated straw with screw and nut (to measure the sagitta $h$ of the mirror)
+• graduated cylinder
+• Indelible marker, for any marks on the mirror, on the head of the screw, on the straw; at the end of the test remove with cotton and alcohol all the marker marks you have made.
+• 2 plastic glasses, 1 dispenser for carrying liquids from the service table to your table
+• flashlight with a small rectangle of insulating tape, whose outline can serve as a luminous object
 • paper meter
-• the ceiling of the room, which can act as a screen for taking pictures; its distance from the floor
-It shall be communicated at the beginning of the test.
-• 50 cm reel
-• plastic to make the supports for the horizontal mirror
-• a sheet of paper to be placed between the plastic and the table, so as not to break the mirror by detaching it from the table
-Table
-• the timepiece
-• steel sector
-• plastic plate, to support the mirror if you pour liquid
+• ceiling of the room, which can serve as a screen for collecting images; its distance from the floor will be communicated at the beginning of the test.
+• 50 cm ruler
+• modeling clay to make the supports for the horizontal mirror
+• sheet of paper to place between the modeling clay and the table, to avoid the risk of breaking the mirror when detaching it from the table
+• stopwatch
+• steel ball
+• plastic plate, to rest the mirror on if you pour liquid on it
 • adhesive tape
 On the service table:
-• Metal wrapper
+• Retractable metal tape measure
 • scissors
-• 1 bottle of 1.5 litres of water (water refractive index $n = 1.33$)
-• 1 1.5 litre bottle of water and coloured liquid detergent to reduce the surface tension of water,
-and therefore to avoid the formation of a convex meniscus on the free surface of the water
-• alcohol, hydrophilic cotton, absorbent paper, bucket.
+• 1 1.5-liter bottle of water (refractive index of water $n = 1.33$)
+• 1 1.5-liter bottle of water and colored liquid detergent, to decrease the surface tension of the water, and therefore to avoid the formation of a convex meniscus on the free surface of the water
+• alcohol, absorbent cotton, blotting paper, bucket.
 Material produced by the group
-Olympic Games
-Project
-Olympic Project
-Italian Olympic Secretariat for Physics
-I'm a student at the University of Southern California. The death
-The Commission has already adopted a proposal for a directive.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to combat fraud.
-AIF  Physics Olympics 2005
-National competition: Experimental test  Senigallia  7 April 2005
-Some Physical Constants
-(Rounded values with a relative error of $10^{-3}$)
+OLYMPIADS
+PROJECT
+OLYMPIADS PROJECT
+Secretariat of the Italian Physics Olympiads at Liceo Scientifico “U. Morin”
+VENEZIA MESTRE fax: 041.584.1272 e-mail: olifis@libero.it
+AIF – Physics Olympiads 2005
+National Competition: EXPERIMENTAL TEST – Senigallia – April 7, 2005
+Some Physical Constants (Rounded values, with relative error less than $10^{-3}$)
 
-♪ And I'm going to tell you ♪
+| CONSTANT | SYMBOL | VALUE | UNIT |
 | --- | --- | --- | --- |
-| Velocit`a della luce nel vuoto | $c$ | $3.00 \times 10^8$ | $\text{m s}^{-1}$ |
-| Carica elementare | $e$ | $1.602 \times 10^{-19}$ | C |
-| Massa dell’elettrone | $m_e$ | $9.11 \times 10^{-31}$ | kg |
+| Speed of light in vacuum | $c$ | $3.00 \times 10^8$ | $\text{m s}^{-1}$ |
+| Elementary charge | $e$ | $1.602 \times 10^{-19}$ | C |
+| Electron mass | $m_e$ | $9.11 \times 10^{-31}$ | kg |
 |  |  | $5.11 \times 10^2$ | $\text{keV } c^{-2}$ |
-| Costante dielettrica del vuoto | $\varepsilon_0$ | $8.85 \times 10^{-12}$ | $\text{F m}^{-1}$ |
-| Permeabilit`a magnetica del vuoto | $\mu_0$ | $1.257 \times 10^{-6}$ | $\text{H m}^{-1}$ |
-| Massa del protone | $m_p$ | $1.673 \times 10^{-27}$ | kg |
+| Vacuum permittivity | $\varepsilon_0$ | $8.85 \times 10^{-12}$ | $\text{F m}^{-1}$ |
+| Vacuum permeability | $\mu_0$ | $1.257 \times 10^{-6}$ | $\text{H m}^{-1}$ |
+| Proton mass | $m_p$ | $1.673 \times 10^{-27}$ | kg |
 |  |  | $9.38 \times 10^2$ | $\text{MeV } c^{-2}$ |
-| Costante di Planck | $h$ | $6.63 \times 10^{-34}$ | J s |
-| Costante universale dei gas | $R$ | $8.31$ | $\text{J mol}^{-1}\,\text{K}^{-1}$ |
-| Numero di Avogadro | $N$ | $6.02 \times 10^{23}$ | $\text{mol}^{-1}$ |
-| Costante di Boltzmann | $k$ | $1.381 \times 10^{-23}$ | $\text{J K}^{-1}$ |
-| Costante di Faraday | $F$ | $9.65 \times 10^4$ | $\text{C mol}^{-1}$ |
-| Costante di Stefan–Boltzmann | $\sigma$ | $5.67 \times 10^{-8}$ | $\text{W m}^{-2}\,\text{K}^{-4}$ |
-| Costante gravitazionale | $G$ | $6.67 \times 10^{-11}$ | $\text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$ |
-| Accelerazione media di gravit`a | $g$ | $9.81$ | $\text{m s}^{-2}$ |
-| Pressione atmosferica standard | $p_0$ | $1.013 \times 10^5$ | Pa |
-| Temperatura standard ($0\ ^\circ\text{C}$) | $T_0$ | $273$ | K |
-| Volume molare di un gas perfetto in condizioni standard ($p_0, T_0$) | $V_m$ | $2.24 \times 10^{-2}$ | $\text{m}^3\,\text{mol}^{-1}$ |
+| Planck constant | $h$ | $6.63 \times 10^{-34}$ | J s |
+| Universal gas constant | $R$ | $8.31$ | $\text{J mol}^{-1}\,\text{K}^{-1}$ |
+| Avogadro constant | $N$ | $6.02 \times 10^{23}$ | $\text{mol}^{-1}$ |
+| Boltzmann constant | $k$ | $1.381 \times 10^{-23}$ | $\text{J K}^{-1}$ |
+| Faraday constant | $F$ | $9.65 \times 10^4$ | $\text{C mol}^{-1}$ |
+| Stefan–Boltzmann constant | $\sigma$ | $5.67 \times 10^{-8}$ | $\text{W m}^{-2}\,\text{K}^{-4}$ |
+| Gravitational constant | $G$ | $6.67 \times 10^{-11}$ | $\text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$ |
+| Average acceleration of gravity | $g$ | $9.81$ | $\text{m s}^{-2}$ |
+| Standard atmospheric pressure | $p_0$ | $1.013 \times 10^5$ | Pa |
+| Standard temperature ($0\ ^\circ\text{C}$) | $T_0$ | $273$ | K |
+| Molar volume of an ideal gas under standard conditions ($p_0, T_0$) | $V_m$ | $2.24 \times 10^{-2}$ | $\text{m}^3\,\text{mol}^{-1}$ |
 
-Data on water
+Data relating to water
 
-♪ And I'm going to tell you ♪
+| CONSTANT | SYMBOL | VALUE | UNIT |
 | --- | --- | --- | --- |
-| Calore specifico | $c_a$ | $4.19 \times 10^3$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
-| Calore di fusione | $\lambda_f$ | $3.34 \times 10^5$ | $\text{J kg}^{-1}$ |
-| Calore di vaporizzazione (a $100\ ^\circ\text{C}$) | $\lambda_v$ | $2.26 \times 10^6$ | $\text{J kg}^{-1}$ |
+| Specific heat | $c_a$ | $4.19 \times 10^3$ | $\text{J kg}^{-1}\,\text{K}^{-1}$ |
+| Heat of fusion | $\lambda_f$ | $3.34 \times 10^5$ | $\text{J kg}^{-1}$ |
+| Heat of vaporization (at $100\ ^\circ\text{C}$) | $\lambda_v$ | $2.26 \times 10^6$ | $\text{J kg}^{-1}$ |
 
-Zanichelli publisher
+ Zanichelli publisher
 
-The National Competition is organised with the support of
+The National Competition is made possible with the support of
 Ministry of Education, University and Research
 Municipality of Senigallia
-High School of Science E. Medi of Senegal
+Scientific High School "E. Medi" of Senigallia
 
-**Topic:** [[Oscillations & Waves]], [[Rotational Dynamics]], [[Conservation of Energy]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Mirror (object)|Mirror]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1XWrJE5xCbFbqSAR2l5CECTlTpe2RgeaN/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1u1PAEObyyAq67f99a4zV1wnEEho15-9y/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1u1PAEObyyAq67f99a4zV1wnEEho15-9y/view)

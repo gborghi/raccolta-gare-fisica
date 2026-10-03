@@ -34,21 +34,16 @@ Quale dei seguenti grafici rappresenta l'andamento dell'energia cinetica della p
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the summer of 2021, the 50° of David Scott's experiment is used as an astronaut on the Apollo 15 mission (26 July  7 August) when he dropped a feather and hammer to remember Galileo's experiments.
+In the summer of 2021 falls the 50th anniversary of David Scott's experiment — astronaut of the Apollo 15 mission (July 26 – August 7) — when, on the Moon, he dropped from rest a feather and a hammer to commemorate the experiments conceived by Galileo.
 
-Which of the following graphs shows the trend of the feather's kinetic energy over time?
+Which of the following graphs represents the trend of the kinetic energy of the feather as a function of time?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p3_f1.png]]
-*5 graphs Ec(t) per free-falling body*
+*5 graphs Ec(t) for a body in free fall*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -124,19 +119,14 @@ Quale figura rappresenta il fenomeno della diffrazione?
 
 <div class="qlang-split" data-lang="en"></div>
 
-What figure is represented by the diffraction phenomenon?
+Which figure represents the phenomenon of diffraction?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p3_f2.png]]
-The following information shall be provided:
+*4 options A–D of diffraction patterns*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -165,7 +155,7 @@ Quanta energia assorbe il dispositivo per restare acceso 60 secondi?
 
 <div class="qlang-split" data-lang="en"></div>
 
-An electrical device works powered by an electrical generator. $\mathcal{E} = 1{,}5\,\text{V}$ with internal resistance $r = 1\,\Omega$; it delivers a current $I = 0{,}2\,\text{A}$.
+An electrical device operates powered by a generator with electromotive force $\mathcal{E} = 1{,}5\,\text{V}$ having internal resistance $r = 1\,\Omega$; it delivers a current $I = 0{,}2\,\text{A}$.
 
 How much energy does the device absorb to stay on for 60 seconds?
 
@@ -174,12 +164,7 @@ How much energy does the device absorb to stay on for 60 seconds?
 - **C.** $8{,}0\,\text{J}$
 - **D.** $15{,}6\,\text{J}$
 - **E.** $18\,\text{J}$
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -243,9 +228,9 @@ Tenendo conto che il blocco è fermo all'inizio e alla fine del sollevamento, il
 
 <div class="qlang-split" data-lang="en"></div>
 
-A block of $150\,\text{N}$ weight is pulled upwards on an inclined plane up to a height of $2\,\text{m}$, as shown in Figure 1. The traction force shall perform an overall work of $400\,\text{J}$.
+A block of weight $150\,\text{N}$ is pulled up an inclined plane to a height of $2\,\text{m}$, as shown in the figure. The driving force does a total work of $400\,\text{J}$.
 
-Taking into account that the block is fixed at the beginning and at the end of the lift, the work done by the friction force is, in the form,
+Taking into account that the block is at rest at the beginning and at the end of the lifting, the work done by the friction force is, in magnitude,
 
 - **A.** $0\,\text{J}$
 - **B.** $100\,\text{J}$
@@ -285,14 +270,9 @@ Taking into account that the block is fixed at the beginning and at the end of t
 </figure>
 
 
-*Lock on a flat slope with traction force*
+*Block on an inclined plane with driving force*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -321,21 +301,16 @@ A che distanza dal primo tocca terra il proiettile 2?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two bullets are thrown horizontally from the top of a tower, in the center of a vast flat terrain. The projectile 1 is launched at a speed of $20\,\text{m s}^{-1}$ and lands at a point $60\,\text{m}$ from the launch point vertical. The projectile 2 is launched in the same direction at a speed of $30\,\text{m s}^{-1}$. For simplicity's sake, friction is supposed to be negligible.
+Two projectiles are launched horizontally from the top of a tower, at the center of a vast flat terrain. Projectile 1 is launched with a speed of $20\,\text{m s}^{-1}$ and lands at a point $60\,\text{m}$ from the vertical through the launch point. Projectile 2 is launched, in the same direction, with a speed of $30\,\text{m s}^{-1}$. For simplicity, friction is assumed to be negligible.
 
-How far from the first touch of the ground is the bullet 2?
+At what distance from the first does projectile 2 hit the ground?
 
 - **A.** $30\,\text{m}$
 - **B.** $45\,\text{m}$
 - **C.** $60\,\text{m}$
 - **D.** $75\,\text{m}$
 - **E.** $90\,\text{m}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -362,19 +337,14 @@ Quanto è alta la torre del quesito precedente?
 
 <div class="qlang-split" data-lang="en"></div>
 
-How tall is the tower in the previous question?
+How tall is the tower from the previous question?
 
 - **A.** $29\,\text{m}$
 - **B.** $44\,\text{m}$
 - **C.** $60\,\text{m}$
 - **D.** $90\,\text{m}$
 - **E.** $104\,\text{m}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -407,9 +377,9 @@ Se $A$ è l'ampiezza dell'onda «a monte» della barriera, qual è l'ampiezza de
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a wave in a waveguide that is blurred onto a barrier where two $F_1$ and $F_2$ slits are open. Over the barrier, interference fringes are formed.
+The figure schematically shows a wave in a ripple tank that strikes obliquely a barrier in which two slits $F_1$ and $F_2$ are open. Beyond the barrier, interference fringes form.
 
-If $A$ is the wavelength a of the barrier, what is the wavelength of oscillation at a point $P$ of the $F_1 F_2$ segment axis?
+If $A$ is the amplitude of the wave "upstream" of the barrier, what is the amplitude of the oscillation at a point $P$ on the axis of the segment $F_1 F_2$?
 
 - **A.** $2A$
 - **B.** Between $A$ and $2A$
@@ -418,14 +388,9 @@ If $A$ is the wavelength a of the barrier, what is the wavelength of oscillation
 - **E.** $0$
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p4_f4.png]]
-The following table shows the results of the calculation of the total value of the samples:
+*Double-slit ripple tank diagram*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Slit (object)|Slit]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -458,9 +423,9 @@ Se il proiettile resta conficcato nel blocco, qual è la velocità finale del si
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a mass block $M$ initially resting on a horizontal surface with negligible friction and a mass bullet $m$ fired horizontally at a speed of $v$.
+The figure shows a block of mass $M$ initially at rest on a horizontal surface with negligible friction and a projectile of mass $m$ fired horizontally with speed of magnitude $v$.
 
-If the bullet remains stuck in the block, what is the final speed of the bullet-block system?
+If the projectile becomes embedded in the block, what is the final velocity of the block-projectile system?
 
 - **A.** $\dfrac{M-m}{M}\,v$
 - **B.** $\dfrac{M+m}{M}\,v$
@@ -469,14 +434,9 @@ If the bullet remains stuck in the block, what is the final speed of the bullet-
 - **E.** $v$
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p4_f5.png]]
-M-balls that are stuck in the M-block
+*Projectile m embedding in block M*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -503,19 +463,14 @@ L'unità $\text{V m}^{-1}$ misura la stessa grandezza fisica di
 
 <div class="qlang-split" data-lang="en"></div>
 
-The $\text{V m}^{-1}$ unit measures the same physical size as
+The unit $\text{V m}^{-1}$ measures the same physical quantity as
 
 - **A.** $\text{J V}^{-1}$
 - **B.** $\text{J C}$
 - **C.** $\text{N A}^{-1}\text{m}^{-1}$
 - **D.** $\text{N m}^2\text{C}^{-2}$
 - **E.** $\text{N C}^{-1}$
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -544,21 +499,16 @@ Quale figura rappresenta meglio ciò che si osserva?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two long bar magnets are arranged vertically, both with the north pole up, under a horizontal sheet of paper on which the iron liner is arranged.
+Two long bar magnets are arranged vertically, both with the north pole at the top, under a horizontal sheet of paper on which iron filings are placed.
 
-What figure best represents what is observed?
+Which figure best represents what is observed?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p4_f6.png]]
-*5 field lines between two north poles options*
+*5 options of field lines between two north poles*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -595,29 +545,24 @@ Quali delle seguenti affermazioni sono corrette?
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a container a certain amount of perfect gas undergoes the reversible adiabatic transformation shown in the graph between $S_1$ and $S_2$ states.
+In a container a certain amount of ideal gas undergoes the reversible adiabatic transformation represented in the graph between states $S_1$ and $S_2$.
 
-Which of the following statements is correct?
+Which of the following statements are correct?
 
-1  The gas temperature increases gradually.
-2  Gas entropy increases during processing.
-3  The gas is biatomic.
+1 – The temperature of the gas increases progressively.
+2 – The entropy of the gas increases during the transformation.
+3 – The gas is diatomic.
 
-- **A.** Only the 1
-- ** B ** Only the 3
-- **C.** La 1 e la 2
-- **D.** La 1 e la 3
-- **E.** La 2 e la 3
+- **A.** Only 1
+- **B.** Only 3
+- **C.** 1 and 2
+- **D.** 1 and 3
+- **E.** 2 and 3
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p5_f7.png]]
-The following table shows the following:
+*p-V graph of adiabatic transformation S1→S2*
 <!--fig:end-->
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -646,21 +591,16 @@ Qual è la quantità di gas nel contenitore, espressa in moli?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Con riferimento alla stessa situazione descritta nel quesito precedente, si osserva che nella trasformazione la temperatura del gas, tra $S_1$ e $S_2$, varia di $50^\circ\text{C}$.
+With reference to the same situation described in the previous question, it is observed that during the transformation the temperature of the gas, between $S_1$ and $S_2$, changes by $50^\circ\text{C}$.
 
-What is the amount of gas in the container, expressed in mills?
+What is the amount of gas in the container, expressed in moles?
 
 - **A.** $0{,}12$
 - **B.** $0{,}18$
 - **C.** $0{,}24$
 - **D.** $0{,}36$
 - **E.** $0{,}48$
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-**Risposta:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -689,21 +629,16 @@ Trascurando ogni effetto dovuto all'aria, quale deve essere l'elevazione sull'or
 
 <div class="qlang-split" data-lang="en"></div>
 
-A ball is thrown upwards at a speed of $10\,\text{m s}^{-1}$.
+A ball is thrown upward with a speed of $10\,\text{m s}^{-1}$.
 
-For all air effects, what should be the elevation above the horizontal of the initial speed $\vec{v}_0$ for the ball to remain in the air as long as possible?
+Neglecting any effect due to the air, what must be the elevation above the horizontal of the initial velocity $\vec{v}_0$ so that the ball stays in the air as long as possible?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p5_f8.png]]
-The following shall be added to the list of the following:
+*5 options A–E of launch angles*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -736,25 +671,20 @@ Confrontando questi spettri, quali elementi compongono il campione che si sta an
 
 <div class="qlang-split" data-lang="en"></div>
 
-The diagram shows the emission spectrum of a sample of an unknown gas mixture and the brightest spectral lines of 4 elements (P, Q, R and S).
+The diagram schematically shows the emission spectrum of a sample of an unknown gas mixture and the brightest spectral lines of 4 elements (P, Q, R and S).
 
-Comparing these spectra, what elements make up the sample being analyzed?
+By comparing these spectra, which elements make up the sample being analyzed?
 
-- **A.** P e Q
-- **B.** P e S
-- **C.** Q e R
-- **D.** R e S
-- **E.** P, Q e S
+- **A.** P and Q
+- **B.** P and S
+- **C.** Q and R
+- **D.** R and S
+- **E.** P, Q and S
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p5_f9.png]]
-The sample emission spectra and 4 elements P Q R S
+*Emission spectra of the sample and 4 elements P Q R S*
 <!--fig:end-->
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -783,21 +713,16 @@ A che distanza dal centro del pianeta si trova quel satellite quando il suo peso
 
 <div class="qlang-split" data-lang="en"></div>
 
-On the surface of Mars, whose average radius is $R = 3{,}39 \times 10^6\,\text{m}$, a satellite weighs $2800\,\text{N}$.
+On the surface of Mars, whose mean radius is $R = 3{,}39 \times 10^6\,\text{m}$, a satellite weighs $2800\,\text{N}$.
 
-How far from the center of the planet is that satellite when its weight is $1000\,\text{N}$?
+At what distance from the center of the planet is that satellite when its weight is $1000\,\text{N}$?
 
 - **A.** $1{,}21 \times 10^6\,\text{m}$
 - **B.** $5{,}67 \times 10^6\,\text{m}$
 - **C.** $9{,}49 \times 10^6\,\text{m}$
 - **D.** $2{,}66 \times 10^7\,\text{m}$
 - **E.** $3{,}22 \times 10^7\,\text{m}$
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -830,25 +755,20 @@ Si può affermare che sul solenoide agisce
 
 <div class="qlang-split" data-lang="en"></div>
 
-A solenoid  that can be treated as ideal  is traversed by a current and is located within a uniform magnetic field perpendicular to its axis.
+A solenoid — which can be treated as ideal — carries a current and is located inside a uniform magnetic field perpendicular to its axis.
 
-It can be said that the solenoid acts
+It can be stated that on the solenoid acts
 
-- **A.** a force perpendicular to the outward leaf.
-- ** B.** a resulting force parallel to and in accordance with the magnetic field.
-- **C ** a resulting force parallel to and discordant with the magnetic field.
-- **D.** a resulting moment that tends to turn it off clockwise.
-- **E.** a resulting moment that tends to turn it clockwise.
+- **A.** a resultant force perpendicular to the page and directed out of the page.
+- **B.** a resultant force parallel to the magnetic field and in the same direction as it.
+- **C.** a resultant force parallel to the magnetic field and opposite to it.
+- **D.** a resultant torque that tends to make it rotate counterclockwise.
+- **E.** a resultant torque that tends to make it rotate clockwise.
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p6_f10.png]]
-*Solenoids in the uniform perpendicular magnetic field*
+*Solenoid in a uniform perpendicular magnetic field*
 <!--fig:end-->
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Solenoid (object)|Solenoid]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -877,21 +797,16 @@ La massa dell'oggetto è circa
 
 <div class="qlang-split" data-lang="en"></div>
 
-A power of $W = 10\,\text{W}$ is required to move an object vertically at a constant speed of $2\,\text{m s}^{-1}$.
+To move an object vertically at the constant speed of $2\,\text{m s}^{-1}$, a power of $W = 10\,\text{W}$ is required.
 
-The mass of the object is about
+The mass of the object is approximately
 
 - **A.** $0{,}25\,\text{kg}$
 - **B.** $0{,}5\,\text{kg}$
 - **C.** $2\,\text{kg}$
 - **D.** $4\,\text{kg}$
 - **E.** $5\,\text{kg}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -920,21 +835,16 @@ Qual è stato lo spostamento dello studente?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A student goes out for an evening walk and walks $2{,}5\,\text{km}$ eastward, then $2\,\text{km}$ northward, $500\,\text{m}$ westward and finally $2{,}5\,\text{km}$ in one direction, in the southwest quadrant, which brings him back to a point in the first section.
+A student goes out for an evening walk and walks $2{,}5\,\text{km}$ east, then $2\,\text{km}$ north, then $500\,\text{m}$ west, and finally $2{,}5\,\text{km}$ in a direction, in the southwest quadrant, that brings him back to a point on the first stretch.
 
-What was the student's move?
+What was the student's displacement?
 
 - **A.** $0$
-- **B ** $0{,}5\,\text{km}$ to the east
-- **C.** $0{,}5\,\text{km}$ to the west
+- **B.** $0{,}5\,\text{km}$ east
+- **C.** $0{,}5\,\text{km}$ west
 - **D.** $7\,\text{km}$
 - **E.** $7{,}5\,\text{km}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -967,9 +877,9 @@ Il modulo del momento meccanico risultante vale
 
 <div class="qlang-split" data-lang="en"></div>
 
-The device shown in the figure can rotate without friction around a central axis perpendicular to the page. The three forces shown in the figure, which is shown in the form, are applied tangentially to the respective circumferences.
+The device shown in the figure can rotate without friction around a central pivot perpendicular to the page. The three forces shown in the figure, whose magnitude is indicated, are applied tangentially to the respective circumferences.
 
-The resulting mechanical momentum is
+The magnitude of the resulting torque is
 
 - **A.** $\dfrac{3}{2}\,Fr$
 - **B.** $\dfrac{5-\sqrt{2}}{2}\,Fr$
@@ -978,14 +888,9 @@ The resulting mechanical momentum is
 - **E.** $\dfrac{7}{2}\,Fr$
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p6_f11.png]]
-*Tri-circular device with tangential forces*
+*Device with three circumferences with tangential forces*
 <!--fig:end-->
-**Topic:** [[Rigid Body Statics]], [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1066,7 +971,7 @@ Nel circuito rappresentato in figura, quale valore si legge sul voltmetro, suppo
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit shown in the figure, what value is the voltmeter, supposedly able to treat it as ideal?
+In the circuit shown in the figure, what value is read on the voltmeter, assuming it can be treated as ideal?
 
 - **A.** $10\,\text{V}$
 - **B.** $20\,\text{V}$
@@ -1125,14 +1030,9 @@ In the circuit shown in the figure, what value is the voltmeter, supposedly able
 </figure>
 
 
-The following table shows the results of the calculations:
+*Circuit with ideal voltmeter*
 <!--fig:end-->
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1165,25 +1065,20 @@ Se $r$ è la distanza dal centro dei due gusci, in quale di questi punti il camp
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows two concentric, thin spherical shells. The internal shell has a radius $b$ and a uniformly distributed net positive charge $Q$. The outer shell has a radius $2b$ and the same net load $Q$ as the inner shell, also evenly distributed.
+The figure shows two thin concentric spherical shells. The inner shell has radius $b$ and a net positive charge $Q$ distributed uniformly. The outer shell has radius $2b$ and the same net charge $Q$ as the inner shell, also distributed uniformly.
 
-If $r$ is the distance from the centre of the two shells, at which of these points does the electric field $\vec{E}$ have maximum intensity?
+If $r$ is the distance from the center of the two shells, at which of these points does the electric field $\vec{E}$ have maximum magnitude?
 
-- **A.** in $r = 0$, where $E$ is infinite.
-- **B.** at all points within the smallest shell, where $E$ is constant.
+- **A.** at $r = 0$, where $E$ is infinite.
+- **B.** at all points inside the smaller shell, where $E$ is constant.
 - **C.** just outside the inner shell.
-- **D ** just outside the outer shell.
+- **D.** just outside the outer shell.
 - **E.** very far from the shells, because $E$ increases with distance.
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p7_f13.png]]
-*Two concentric spherical shells of rays b and 2b*
+*Two concentric spherical shells of radii b and 2b*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1212,21 +1107,16 @@ Quale diagramma di corpo libero può descrivere le forze che agiscono sul carrel
 
 <div class="qlang-split" data-lang="en"></div>
 
-A trailer moves horizontally to the right, slowing down.
+A cart moves on a horizontal plane to the right, slowing down.
 
-What free-body diagram can describe the forces acting on the cart?
+Which free-body diagram can describe the forces acting on the cart?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p7_f14.png]]
-*5 free body diagrams for brake train *
+*5 free-body diagrams for a cart braking*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1255,21 +1145,16 @@ La sua lunghezza d'onda
 
 <div class="qlang-split" data-lang="en"></div>
 
-It is observed that the speed of a surface wave doubles when it passes from a low to a higher bottom.
+It is observed that the speed of a surface wave doubles when it passes from a shallow seabed to a higher one.
 
 Its wavelength
 
-- **A ** is reduced to a quarter.
-- **B.** is reduced by half.
-- **C ** remains unchanged.
-- **D ** is doubled.
-- **E ** four times.
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+- **A.** is reduced to a quarter.
+- **B.** is reduced to half.
+- **C.** remains unchanged.
+- **D.** doubles.
+- **E.** quadruples.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1361,7 +1246,7 @@ Se la resistenza interna della batteria è trascurabile, la resistenza $R$ è
 
 <div class="qlang-split" data-lang="en"></div>
 
-The resistance of the $R$ resistor in the circuit in the figure is to be determined by measuring the current intensity delivered by the battery. This current is $1\,\text{A}$.
+We want to determine the resistance of resistor $R$ in the circuit shown by measuring the current delivered by the battery. This current is $1\,\text{A}$.
 
 If the internal resistance of the battery is negligible, the resistance $R$ is
 
@@ -1431,14 +1316,9 @@ If the internal resistance of the battery is negligible, the resistance $R$ is
 </figure>
 
 
-*R-resistant circuit with unknown *
+*Circuit with unknown resistor R*
 <!--fig:end-->
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1510,21 +1390,16 @@ Se la massa dell'auto è pari a $1{,}5 \times 10^3\,\text{kg}$, qual è la veloc
 
 <div class="qlang-split" data-lang="en"></div>
 
-In an emergency brake, which stops a car, the kinetic energy decreases by $3 \times 10^5\,\text{J}$.
+In an emergency braking, which stops a car, the kinetic energy decreases by $3 \times 10^5\,\text{J}$.
 
-If the mass of the car is $1{,}5 \times 10^3\,\text{kg}$, what is the speed of the car when the brake starts?
+If the mass of the car is equal to $1{,}5 \times 10^3\,\text{kg}$, what is the speed of the car when the braking begins?
 
 - **A.** $20\,\text{km/h}$
 - **B.** $36\,\text{km/h}$
 - **C.** $50\,\text{km/h}$
 - **D.** $72\,\text{km/h}$
 - **E.** $90\,\text{km/h}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1559,27 +1434,22 @@ Quali di queste affermazioni sono corrette?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Today the traditional mercury thermometer, which was widely used to measure the temperature, has been virtually replaced by two types of digital thermometers: the bulb thermometer and the infrared thermometer.
+Today the traditional mercury thermometer, which was widely used to measure "fever," has been practically replaced by two types of digital thermometers: the digital bulb thermometer and the infrared thermometer.
 
-Compared to the digital bulb thermometer, the second type of thermometer …
+Compared with the digital bulb thermometer, the second type of thermometer …
 
-1  does not require contact with the patient because it measures the temperature remotely, thanks to infrared rays.
-2  does not require a transfer of energy from the patient's body to the thermometer.
-3  has a slower response because it is more voluminous and therefore has a higher thermal capacity.
+1 – does not require contact with the patient because it measures temperature remotely, thanks to infrared rays.
+2 – does not require a transfer of energy from the patient's body to the thermometer.
+3 – has a slower response because it is bulkier and therefore has a greater heat capacity.
 
-Which of these statements is correct?
+Which of these statements are correct?
 
-- **A ** Only the 1.
-- **B.** Only the 3.
-- **C.** La 1 e la 2.
-- **D.** La 2 e la 3.
-- All three.
-**Topic:** [[Thermodynamics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+- **A.** Only 1.
+- **B.** Only 3.
+- **C.** 1 and 2.
+- **D.** 2 and 3.
+- **E.** All three.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1608,21 +1478,16 @@ Il rapporto tra l'accelerazione media del ciclista e quella dell'automobilista r
 
 <div class="qlang-split" data-lang="en"></div>
 
-A cyclist accelerates from stop to $10\,\text{s}$ to $5\,\text{m s}^{-1}$. In $5\,\text{s}$ a driver accelerates from the speed of $22\,\text{m s}^{-1}$ to the speed of $27\,\text{m s}^{-1}$.
+A cyclist accelerates from a standstill for $10\,\text{s}$ up to a speed of $5\,\text{m s}^{-1}$. In $5\,\text{s}$ a motorist accelerates from a speed of $22\,\text{m s}^{-1}$ to a speed of $27\,\text{m s}^{-1}$.
 
-The ratio of the average acceleration of the cyclist to the motorist is equal to
+The ratio between the cyclist's average acceleration and the motorist's is equal to
 
 - **A.** $1/4$
 - **B.** $1/2$
 - **C.** $1$
 - **D.** $2$
 - **E.** $4$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1651,21 +1516,16 @@ In quale delle seguenti situazioni si produce un'immagine reale e più piccola d
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two lenses are available, one convergent $+10\,\text{cm}$ focal length and one divergent $-20\,\text{cm}$ focal length.
+Two lenses are available, one converging with focal length $+10\,\text{cm}$ and one diverging with focal length $-20\,\text{cm}$.
 
-In which of the following situations is a real, smaller image of the object produced?
+In which of the following situations is a real image smaller than the object produced?
 
-- **A.** The object is positioned at $5\,\text{cm}$ by the convergent lens.
-- **B.** The object is positioned at $15\,\text{cm}$ by the convergent lens.
-- **C.** The object is positioned at $25\,\text{cm}$ by the convergent lens.
-- **D.** The object is positioned at $15\,\text{cm}$ by the divergent lens.
-- **E.** The object is positioned at $25\,\text{cm}$ by the divergent lens.
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+- **A.** The object is placed at $5\,\text{cm}$ from the converging lens.
+- **B.** The object is placed at $15\,\text{cm}$ from the converging lens.
+- **C.** The object is placed at $25\,\text{cm}$ from the converging lens.
+- **D.** The object is placed at $15\,\text{cm}$ from the diverging lens.
+- **E.** The object is placed at $25\,\text{cm}$ from the diverging lens.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1694,21 +1554,16 @@ Per raggiungere il suo obiettivo il nuotatore deve mantenere un orientamento
 
 <div class="qlang-split" data-lang="en"></div>
 
-A swimmer in still water develops a speed of $1\,\text{m s}^{-1}$. The athlete wishes to cross a river from one bank to the other by following a path perpendicular to the banks. The river water has a speed of $0{,}5\,\text{m s}^{-1}$.
+A swimmer in still water develops a speed of $1\,\text{m s}^{-1}$. The athlete wishes to cross from one bank to the other of a river following a trajectory perpendicular to the banks. The river water has a speed of $0{,}5\,\text{m s}^{-1}$.
 
-To achieve his goal the swimmer must maintain a
+To reach his goal the swimmer must maintain an orientation
 
-- **A ** $\arctan(1/2)$, counter current
-- **B ** $\arcsin(1/2)$, countercurrent
-- **C.** perpendicular to the edges
-- **D.** $\arcsin(1/2)$, in the direction of current
-- **E.** $\arctan(1/2)$, in the direction of current
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+- **A.** $\arctan(1/2)$, upstream
+- **B.** $\arcsin(1/2)$, upstream
+- **C.** perpendicular to the banks
+- **D.** $\arcsin(1/2)$, in the direction of the current
+- **E.** $\arctan(1/2)$, in the direction of the current
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1737,21 +1592,16 @@ In quale figura sono rappresentate correttamente le polarità magnetiche indotte
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two stoppers are attached to the ends of a cotton thread attached to a table, and are suspended under the ends of a horse-iron magnet.
+Two paper clips are attached to the ends of a cotton thread fixed to a table, and are suspended below the ends of a horseshoe magnet.
 
-In which figure are the magnetic polarities induced in the stoppers correctly represented?
+In which figure are the magnetic polarities induced in the paper clips correctly represented?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p9_f16.png]]
-*4 polarity options induced in magnetic stoppers*
+*4 options of polarities induced in the paper clips under the magnet*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1782,19 +1632,14 @@ Qual è la sua lunghezza d'onda?
 
 A light wave propagating in water has a frequency of $5{,}0 \times 10^{14}\,\text{Hz}$.
 
-What's its wavelength?
+What is its wavelength?
 
 - **A.** $451\,\text{nm}$
 - **B.** $600\,\text{nm}$
 - **C.** $798\,\text{nm}$
 - **D.** $451\,\mu\text{m}$
 - **E.** $600\,\mu\text{m}$
-**Topic:** [[Oscillations & Waves]], [[Geometric Optics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1827,9 +1672,9 @@ La velocità angolare della giostra, subito dopo il salto a terra del bambino, v
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass $m$ baby is standing on the edge of a small cradle that has moment of inertia $I$ and radius $R$. As the geyser rotates at $\omega$ angular velocity, at a certain moment, as shown in the figure, with a jump the baby leaves the geyser at a tangential velocity $\vec{v}$ with respect to the ground.
+A child of mass $m$ is standing on the edge of a small merry-go-round that has moment of inertia $I$ and radius $R$. While the merry-go-round rotates at angular velocity $\omega$, at a certain instant, as shown in the figure, with a jump the child leaves the merry-go-round with a tangential velocity $\vec{v}$ relative to the ground.
 
-The angular velocity of the gear, immediately after the child jumps to the ground, is
+The angular velocity of the merry-go-round, immediately after the child jumps to the ground, is
 
 - **A.** $\omega$
 - **B.** $\dfrac{\sqrt{I\omega^2 - mv^2}}{\sqrt{I+mR^2}}$
@@ -1838,14 +1683,9 @@ The angular velocity of the gear, immediately after the child jumps to the groun
 - **E.** $\dfrac{(I+mR^2)\omega - mvR}{I}$
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p9_f17.png]]
-*Child jumping from the rotating gear *
+*Child jumping from the rotating merry-go-round*
 <!--fig:end-->
-**Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1876,19 +1716,14 @@ Di quanto varia percentualmente il valore quadratico medio della quantità di mo
 
 A gas is heated from $160^\circ\text{C}$ to $240^\circ\text{C}$.
 
-How much percent does the average square value of the amount of motion of its molecules vary?
+By what percentage does the root mean square value of the momentum of its molecules change?
 
 - **A.** $0\%$
 - **B.** $9\%$
 - **C.** $18\%$
 - **D.** $25\%$
 - **E.** $50\%$
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1921,9 +1756,9 @@ Quanto vale il potenziale $V_3$, in un punto a $3\,\text{cm}$ a sinistra della l
 
 <div class="qlang-split" data-lang="en"></div>
 
-An infinite conductive plate of $2\,\text{cm}$ thickness is immersed in a uniform electric field of $E = 400\,\text{V m}^{-1}$ intensity directed from left to right. $2\,\text{cm}$ to the right of the plate the potential has zero value: $V_0 = 0$.
+An infinite conducting slab of thickness $2\,\text{cm}$ is immersed in a uniform electric field of magnitude $E = 400\,\text{V m}^{-1}$ directed from left to right. $2\,\text{cm}$ to the right of the slab the potential has value zero: $V_0 = 0$.
 
-What is the potential $V_3$ at a point at $3\,\text{cm}$ to the left of the plate?
+What is the value of the potential $V_3$, at a point $3\,\text{cm}$ to the left of the slab?
 
 - **A.** $-28\,\text{V}$
 - **B.** $-20\,\text{V}$
@@ -1932,14 +1767,9 @@ What is the potential $V_3$ at a point at $3\,\text{cm}$ to the left of the plat
 - **E.** $+28\,\text{V}$
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p9_f18.png]]
-*Wide sheet in uniform electric field*
+*Conducting slab in a uniform electric field*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -1971,9 +1801,9 @@ Quanto vale la lunghezza a riposo della molla?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A force of $10\,\text{N}$ is applied to a spring; this takes on a length of $45\,\text{cm}$ and the energy stored in it is $1\,\text{J}$.
+A force of $10\,\text{N}$ is applied to a spring; it takes on a length of $45\,\text{cm}$ and the energy stored in it is $1\,\text{J}$.
 
-How much is the length of the spring at rest?
+What is the rest length of the spring?
 
 - **A.** $0\,\text{cm}$
 - **B.** $25\,\text{cm}$
@@ -1981,14 +1811,9 @@ How much is the length of the spring at rest?
 - **D.** $44{,}8\,\text{cm}$
 - **E.** $50\,\text{cm}$
 ![[_attachments/1liv21T/1liv21T_p10_f20.png]]
-The following table summarizes the data of the data subject:
+*SSD of 256 GB with physical dimensions*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -2017,21 +1842,16 @@ Quale tra le forze sotto elencate, se applicata allo stesso punto, non può equi
 
 <div class="qlang-split" data-lang="en"></div>
 
-A force of $3\,\text{N}$ and a force of $4\,\text{N}$ shall be applied at the same point.
+A force of $3\,\text{N}$ and one of $4\,\text{N}$ are applied at the same point.
 
-Which of the following forces, if applied at the same point, cannot balance them?
+Which of the forces listed below, if applied to the same point, cannot balance them?
 
 - **A.** $1\,\text{N}$
 - **B.** $2\,\text{N}$
 - **C.** $4\,\text{N}$
 - **D.** $7\,\text{N}$
 - **E.** $9\,\text{N}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -2058,19 +1878,14 @@ Quale tra questi diagrammi rappresenta meglio il percorso di un raggio di luce c
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which of these diagrams best represents the path of a beam of light passing through the two materials shown?
+Which of these diagrams best represents the path of a light ray passing through the two materials shown?
 
 <!--fig:start-->
 ![[_attachments/1liv21T/1liv21T_p10_f19.png]]
-*5 AE options for interfacing refraction between two materials*
+*5 options A–E of refraction at the interface between two materials*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)
 
 
 
@@ -2105,24 +1920,17 @@ Se ogni carattere è codificato con un byte (B), quale tra le seguenti è una bu
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the middle of our life's journey
-I found myself in a dark jungle,
-that the right way was lost.
+In the middle of the journey of our life I found myself in a dark forest, for the straight way was lost.
 
-These are the first of the 14233 indescribed verses that make up the Divine Comedy. In 2021 the seventh centenary of the death of its author, Dante Alighieri, is celebrated.
+These are the first of the 14,233 hendecasyllabic verses that make up the *Divine Comedy*. In 2021, the seventh centenary of the death of its author, Dante Alighieri, is celebrated.
 
 The entire Divine Comedy is stored on a modern 256 GB solid-state drive (SSD) that can have a size of $40\,\text{mm} \times 20\,\text{mm} \times 2\,\text{mm}$.
 
-If each character is encoded with a byte (B), which of the following is a good estimate of the volume needed to contain this work of Dante in its entirety?
+If each character is encoded with one byte (B), which of the following is a good estimate of the volume needed to contain this work of Dante in its entirety?
 
 - **A.** $100\,\text{cm}^3$
 - **B.** $0{,}1\,\text{cm}^3$
 - **C.** $1\,\text{mm}^3$
 - **D.** $0{,}001\,\text{mm}^3$
 - **E.** $1\,\mu\text{m}^3$
-**Topic:** [[Order-of-Magnitude Estimation]], [[Modern-Quantum Physics]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1XuvEk3iVcvioScTbebEReY8u1tWvuv4n/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1IuQexeFbYwJIeScusoSqXcGZ4N1pyySd/view)

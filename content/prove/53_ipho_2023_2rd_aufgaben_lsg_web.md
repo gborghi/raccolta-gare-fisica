@@ -183,71 +183,48 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 Induzione nei circuiti di condotta (problema MC)
-(cfr.
-(idea: gruppo problematico della PhysicsOlympiad - Stefan Petersen)
-I quattro circuiti di conduzione (a a d) mostrati nella figura
-ogni singolo gruppo ha lunghezze di bordo $l$ o $2l$. Si muovono
-a velocità costante $v$ into a sharply bounded
-regione contenente un campo magnetico omogeneo di densità di flusso
-$B$, orientato verso il piano del disegno.
-Come fare i voltaggi $U_a$ to $U_d$ induciuti nei loops direttamente
-quando si entra nella regione con il campo magnetico
-Relatatevi?
+Problema 2 Induzione in spire conduttrici (problema a scelta multipla)
+(5 punti)
+(Idea: gruppo di problemi delle Olimpiadi della Fisica - Stefan Petersen)
+Le quattro spire conduttrici (da a a d) mostrate in figura hanno ciascuna lati di lunghezza $l$ o $2l$. Esse si muovono con velocità costante $v$ in una regione delimitata nettamente contenente un campo magnetico omogeneo di densità di flusso
+$B$, orientato entrante nel piano del disegno.
+Come sono tra loro correlate le tensioni $U_a$ a $U_d$ indotte nelle spire nell'istante in cui entrano nella regione con il campo magnetico?
 A $|U_a| = |U_b| = |U_c| = |U_d|$
 B $|U_a| < |U_b| < |U_c| < |U_d|$
 C $|U_a| = |U_b| < |U_c| = |U_d|$
 D $|U_a| < |U_b| = |U_c| < |U_d|$
 Regione con campo magnetico
 $B$
-$v$
-d
-$v$
-c
-$v$
-b
-$v$
-a
+$v$ d
+$v$ c
+$v$ b
+$v$ a
 $2l$
 $l$
 Soluzione
 Calcoli e spiegazioni
-La tensione indotta è proporzionale al cambiamento del flusso magnetico attraverso il loop di condotta. Poiché il campo magnetico è omogeneo, questo è a sua volta proporzionale al cambiamento dell'area
-che è nella regione con il campo magnetico. Directly after entering this region, the induced voltage is therefore proportional to the height of the conducting loop in the plane of the drawing, and the width of the drawing.
-di cui il loop di conduzione non ha alcun ruolo. Pertanto, le tensioni inducite nei cicli a e b sono uguali e minori in magnitudine rispetto alle tensioni inducite nei cicli c e d, che
-sono uguali l'uno all'altro.
-Corretta risposta: C
-Nota: In alternativa, il problema può anche essere risolto considerando la forza di Lorentz su una carica
-in the leading conductor edge. Consider a charge $q$ that moves with the conductor edge
-a velocità $v$ nella regione con il campo magnetico. Lì si sperimenta
-a forza di Lorentz $F = q v B$ parallela all'edge del conduttore. Tra i due principali angoli del
-• un'interferenza di valore di $U = F l/ q = v B l$ o $U = F 2 l/ q =
-2 v B l$ così si presenta, che porta alla stessa risposta opzione.
-Grading - Induction in conducting loops (problema MC)
+La tensione indotta è proporzionale alla variazione del flusso magnetico attraverso la spira conduttrice. Poiché il campo magnetico è omogeneo, questa è a sua volta proporzionale alla variazione dell'area che si trova nella regione con il campo magnetico. Subito dopo l'ingresso in questa regione, la tensione indotta è quindi proporzionale all'altezza della spira conduttrice nel piano del disegno, e la larghezza della spira conduttrice non gioca alcun ruolo. Pertanto le tensioni indotte nelle spire a e b sono uguali e in modulo minori delle tensioni indotte nelle spire c e d, che sono anch'esse uguali tra loro.
+Risposta corretta: C
+Nota: In alternativa, il problema può essere risolto anche considerando la forza di Lorentz su una carica nel bordo anteriore del conduttore. Si consideri una carica $q$ che si muove con il bordo del conduttore a una velocità $v$ nella regione con il campo magnetico. Lì essa sperimenta una forza di Lorentz $F = q v B$ parallela al bordo del conduttore. Tra i due angoli anteriori della spira conduttrice, si genera quindi una differenza di potenziale di $U = F l/ q = v B l$ o $U = F 2 l/ q =
+2 v B l$, che porta alla stessa opzione di risposta.
+Valutazione - Induzione in spire conduttrici (problema a scelta multipla)
 Punti
 2
-Riconoscendo che la tensione indotta è proporzionale al cambiamento del flusso
+Riconoscere che la tensione indotta è proporzionale alla variazione di flusso
 1.0
-Riconoscendo che il cambiamento del flusso è proporzionale al cambiamento di area nella regione del campo magnetico
+Riconoscere che la variazione di flusso è proporzionale alla variazione di area nella regione del campo magnetico
 1.0
-Riconoscendo che quindi solo l'altezza del loop gioca un ruolo
+Riconoscere che quindi solo l'altezza della spira gioca un ruolo
 1.0
-Stating the correct solution
+Indicare la soluzione corretta
 2.0
 5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-
+53ª IPhO 2023 - Esame del 2° turno - Soluzione di esempio - 07.12.2022
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p3_f1.png]]
-*Quattro spire conduttrici in campo magnetico *
+*Quattro spire conduttrici in campo magnetico*
 <!--fig:end-->
-
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
 
 
 
@@ -1217,104 +1194,81 @@ Result for the refractive index with $1{,}32 \leq n \leq 1{,}36$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Laser Rangefinder
-15 punti)
-(idea: gruppo problematico della PhysicsOlympiad - Bernd Schade & Jörg Steiper)
-Per le camere di misurazione, i laser sono spesso utilizzati. Laser rangefinders available in the hardware store
-può determinare distanze nella gamma da pochi centimetri fino a circa 50 m con un'accuratezza di pochi millimetri. Per la misurazione della distanza, il dispositivo emette un fascio laser e riceve il fascio riflesso da un oggetto.
-8.a) Calcolare il tempo di viaggio della luce laser a una distanza di misurazione di 50,0 cm. Determine come
-Accurately this travel-time measurement would have to be carried out in order to
-raggiungere una misurazione accurata di $\pm 2$ mm. (4,0 p.)
-Una risoluzione di tempo così elevata non è raggiunta con i normali laser. Invece, la distanza è determinata tramite il phase shift del segnale emesso e ricevuto.
-Tuttavia, questo non è rilevante per i seguenti problemi.
-L'accuratezza della misurazione è, tuttavia, influenzata anche da ciò che è situato nel
-- Il sentiero della luce.
-8.b) Si desidera misurare la lunghezza di un acquario a sottili pareti pieno di acqua.
-Esprimi qualitativamente perché un'azione attraverso l'acquario produce valori diversi
-che una misurazione con un ruler. (punto 2.0)
-Questo effetto può essere utilizzato per determinare l'indice di refraczione di un materiale trasparente con un rangefinder laser.
-Nell'esperimento disegnato al fianco, la distanza al fondo di un cilindro di vetro parzialmente
-filled with a liquid è misurato con un rangefinder laser fissamente montato. I valori di distanza visualizzati dal laser rangefinder per vari volumi di liquidi sono mostrati nella tabella seguente. Il diametro interno del cilindro di vetro è di 8,00 cm.
-8.c) Usando la serie di misurazione, determinare l'indice di refraczione $n$ del
-liquido. Per farlo, creare un grafico appropriato. (9,0 p.s.)
-Valori misurati della distanza $l$ measured by the laser rangefinder as a function of the liquid volume $V$
-present in the cylinder
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
+Problema 8 Telemetro laser (15 punti)
+(Idea: gruppo di problemi delle Olimpiadi della Fisica - Bernd Schade & Jörg Steiper)
+Per misurare gli ambienti, si usano spesso telemetri laser. I telemetri laser disponibili nei negozi di ferramenta possono tipicamente determinare distanze nell'intervallo da pochi centimetri fino a circa 50 m con una precisione di pochi millimetri. Per la misura della distanza, il dispositivo emette un raggio laser e riceve il raggio riflesso da un oggetto.
+8.a) Calcola il tempo di percorrenza della luce laser a una distanza di misura di 50,0 cm. Determina con quale precisione dovrebbe essere eseguita questa misura del tempo di percorrenza per ottenere una precisione di misura di $\pm 2$ mm. (4,0 punti)
+Una risoluzione temporale così elevata non viene raggiunta dai normali telemetri laser. Al contrario, la distanza viene determinata tramite lo sfasamento del segnale emesso e di quello ricevuto.
+Tuttavia, questo non è rilevante per i problemi seguenti.
+La precisione della misura è però influenzata anche da ciò che si trova nel percorso della luce.
+8.b) Vuoi misurare la lunghezza di un acquario a pareti sottili riempito d'acqua.
+Spiega qualitativamente perché una misura attraverso l'acquario fornisce valori diversi da una misura con un righello. (2,0 punti)
+Questo effetto può essere utilizzato per determinare l'indice di rifrazione di un materiale trasparente con un telemetro laser.
+Nell'esperimento schematizzato a fianco, la distanza dal fondo di un cilindro di vetro parzialmente riempito con un liquido viene misurata con un telemetro laser montato in modo fisso. I valori di distanza visualizzati dal telemetro laser per vari volumi di liquido sono riportati nella tabella sottostante. Il diametro interno del cilindro di vetro è 8,00 cm.
+8.c) Utilizzando la serie di misurazioni, determinare l'indice di rifrazione $n$ del liquido. A tal fine, costruire un grafico adeguato. (9,0 punti)
+Valori misurati della distanza $l$ misurata dal telemetro laser in funzione del volume di liquido $V$ presente nel cilindro
+53ª IPhO 2023 - Esame del 2° turno - Soluzione di esempio - 07.12.2022
 $V$ / L
 $l$ / m
 $V$ / L
 $l$ / m
-0.00
-0.602
-0.95
-0.668
-0.07
-0.607
-1.22
-0.687
-0.15
-0.611
-1.42
-0.697
-0.27
-0.619
-1.56
-0.705
-0.37
-0.622
-1.64
-0.709
-0.51
-0.636
-1.76
-0.718
-0.67
-0.647
-1.85
-0.727
-0.77
-0.657
-1.93
-0.733
+0,00
+0,602
+0,95
+0,668
+0,07
+0,607
+1,22
+0,687
+0,15
+0,611
+1,42
+0,697
+0,27
+0,619
+1,56
+0,705
+0,37
+0,622
+1,64
+0,709
+0,51
+0,636
+1,76
+0,718
+0,67
+0,647
+1,85
+0,727
+0,77
+0,657
+1,93
+0,733
 Soluzione
 8.a)
 Calcoli e spiegazioni
-Dal momento che la luce attraversa la distanza da misurare due volte, la distanza percorsa dalla luce
-is $d = 100{,}0$ cm. La velocità della luce in aria, con $c \approx
-3{,}00 \cdot 10^8\ \text{m s}^{-1}$, corrisponde approssimativamente al valore in vuoto. Pertanto la luce ha bisogno di attraversare
-la distanza $d$, il tempo
-$$t = \frac{d}{c} = \frac{1{,}00\ \text{m}}{3{,}00 \cdot 10^8\ \text{m s}^{-1}} \approx 3{,}33 \cdot 10^{-9}\ \text{s} .$$
-(8.1)
-La luce ha quindi bisogno di pochi nanosegondi per attraversare il percorso.
-Se l'accuratezza di misurazione della distanza è di 2 mm, il laser rangefinder deve essere in grado di risolvere temporalmente una distanza di $\Delta d = 4$ mm. Il programma deve quindi essere in grado di
-risolve a time difference $\Delta t$ with
-$$\Delta t = \frac{\Delta d}{c} = \frac{0{,}004\ \text{m}}{3{,}00 \cdot 10^8\ \text{m s}^{-1}} \approx 1 \cdot 10^{-11}\ \text{s} ,$$
-(8.2)
-Cioè, nell'intervallo di dieci picosessoni.
+Poiché la luce percorre due volte la distanza da misurare, la distanza percorsa dalla luce è $d = 100{,}0$ cm. La velocità della luce nell'aria, con $c \approx
+3{,}00 \cdot 10^8\ \text{m s}^{-1}$, corrisponde approssimativamente al valore nel vuoto. Pertanto la luce impiega, per percorrere la distanza $d$, il tempo
+$$t = \frac{d}{c} = \frac{1{,}00\ \text{m}}{3{,}00 \cdot 10^8\ \text{m s}^{-1}} \approx 3{,}33 \cdot 10^{-9}\ \text{s} .$$ (8.1)
+La luce impiega quindi solo pochi nanosecondi per percorrere il cammino.
+Se l'accuratezza della misurazione della distanza deve essere di 2 mm, il telemetro laser deve essere in grado di risolvere temporalmente una distanza di $\Delta d = 4$ mm. Deve quindi essere in grado di risolvere una differenza di tempo $\Delta t$ con
+$$\Delta t = \frac{\Delta d}{c} = \frac{0{,}004\ \text{m}}{3{,}00 \cdot 10^8\ \text{m s}^{-1}} \approx 1 \cdot 10^{-11}\ \text{s} ,$$ (8.2)
+cioè, nell'intervallo di dieci picosecondi.
 8.b)
 Calcoli e spiegazioni
-Per la propagazione del fascio laser, il mezzo attraversato deve essere considerato. Poiché l'indice di refrazione dell'acqua ($n_\text{Wasser} \approx 1{,}3$) è diverso da quello dell'aria
-($n_\text{Luft} \approx 1{,}0$), la velocità della luce nei due media è quindi diversa. Di conseguenza, la luce ha bisogno di diversi tempi di viaggio per lo stesso percorso nei media
-e il rangefinder laser misura distanze diverse.
+Per la propagazione del fascio laser, bisogna considerare anche il mezzo attraversato. Poiché l'indice di rifrazione dell'acqua ($n_\text{Wasser} \approx 1{,}3$) è diverso da quello dell'aria ($n_\text{Luft} \approx 1{,}0$), anche la velocità della luce nei due mezzi differisce. Di conseguenza, la luce necessita di tempi di percorrenza diversi per lo stesso cammino nei mezzi e il telemetro laser misura distanze diverse.
 8.c)
 Calcoli e spiegazioni
-La distanza misurata è composta da un percorso di lunghezza $l_\text{Luft}$ in aria e
-un percorso percorso in liquido di lunghezza $l_\text{Fl}$, che può essere calcolato dal volume liquido $V$ e dal raggio interno $r = 4{,}00$ cm del cilindro come
-$$l_\text{Fl} = \frac{V}{\pi r^2} .$$
-(8.3)
-In liquido, la luce si propaga alla velocità $c/n$, dove $n$ indica l'indice refraettivo del liquido. Come risultato, la luce ha bisogno, per il passaggio attraverso
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-il liquido, $n$ volte più a lungo che in aria. Corrispondentemente, la lunghezza misurata dal laser rangefinder per il percorso parziale nel liquido aumenta esattamente questo
-fattore. Il percorso totale $l$ misurato dal laser rangefinder è così dato da
-$$l = l_\text{Luft} + n\, l_\text{Fl} = l_\text{ges} + (n - 1)\, l_\text{Fl} = l_\text{ges} + \frac{n - 1}{\pi r^2} V .$$
-(8.4)
-Here $l_\text{ges} = l_\text{Luft} + l_\text{Fl}$ denotes the constant distance between the laser rangefinder
-e il fondo del cilindro di vetro.
-L'equazione (8.4) descrive una relazione lineare (affine) tra il volume liquido $V$ e la distanza misurata $l$. Se quindi si fa $l$ come funzione di $V$ in un grafico, una linea retta con slope $b = \frac{n-1}{\pi r^2}$ deve risultare come la curva migliore.
-Dal slope, l'indice refrazionale del liquido può quindi essere determinato
-$$n = 1 + \pi r^2 b$$
-(8.5)
-. In Figura 5, i dati forniti nel problema sono rappresentati in base a ciò.
+La distanza misurata è composta da un percorso di lunghezza $l_\text{Luft}$ in aria e da un percorso compiuto nel liquido di lunghezza $l_\text{Fl}$, che può essere calcolato dal volume del liquido $V$ e dal raggio interno $r = 4{,}00$ cm del cilindro come
+$$l_\text{Fl} = \frac{V}{\pi r^2} .$$ (8.3)
+Nel liquido, la luce si propaga alla velocità $c/n$, dove $n$ indica l'indice di rifrazione del liquido. Di conseguenza, la luce necessita, per il passaggio attraverso
+53ª IPhO 2023 - Esame del 2° turno - Soluzione di esempio - 07.12.2022 il liquido, $n$ volte tanto tempo rispetto all'aria. Corrispondentemente, la lunghezza misurata dal telemetro laser per il percorso parziale nel liquido aumenta esattamente di questo fattore. Il percorso totale $l$ misurato dal telemetro laser è quindi dato da
+$$l = l_\text{Luft} + n\, l_\text{Fl} = l_\text{ges} + (n - 1)\, l_\text{Fl} = l_\text{ges} + \frac{n - 1}{\pi r^2} V .$$ (8.4)
+Qui $l_\text{ges} = l_\text{Luft} + l_\text{Fl}$ indica la distanza costante tra il telemetro laser e il fondo del cilindro di vetro.
+L'equazione (8.4) descrive una relazione lineare (affine) tra il volume del liquido $V$ e la distanza misurata $l$. Se quindi si rappresenta $l$ in funzione di $V$ in un grafico, come curva di best-fit deve risultare una retta con pendenza $b = \frac{n-1}{\pi r^2}$.
+Dalla pendenza si può poi determinare l'indice di rifrazione del liquido per mezzo di
+$$n = 1 + \pi r^2 b$$ (8.5)
+. Nella Figura 5 sono rappresentati corrispondentemente i dati forniti nel problema.
 0.5
 1.0
 1.5
@@ -1327,69 +1281,59 @@ $$n = 1 + \pi r^2 b$$
 0.115 m
 $V$ / L
 $l$ / m
-Fig. 5. Grafico della distanza $l$ misurata dal laser rangefinder come funzione
-di volume liquido $V$ nel cilindro con linea migliore.
-Dal linee migliore del grafico si ottiene
-$$b = \frac{0{,}115\ \text{m}}{1{,}70\ \text{L}} = 67{,}6\ \text{m}^{-2} \quad \text{mit Unsicherheit} \quad \Delta b = 2{,}6\ \text{m}^{-2} .$$
-(8.6)
-From this, for the refractive index of the liquid one obtains
-$$n = 1 + \pi r^2 b = 1{,}34 \pm 0{,}02 .$$
-(8.7)
+Fig. 5. Grafico della distanza $l$ misurata dal telemetro laser in funzione del volume del liquido $V$ nel cilindro con retta di best-fit.
+Dalla retta di best-fit nel grafico si ottiene
+$$b = \frac{0{,}115\ \text{m}}{1{,}70\ \text{L}} = 67{,}6\ \text{m}^{-2} \quad \text{mit Unsicherheit} \quad \Delta b = 2{,}6\ \text{m}^{-2} .$$ (8.6)
+Da ciò, per l'indice di rifrazione del liquido si ottiene
+$$n = 1 + \pi r^2 b = 1{,}34 \pm 0{,}02 .$$ (8.7)
 Il liquido potrebbe quindi essere acqua.
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-Classificazione - Laser Rangefinder
+53ª IPhO 2023 - Esame del 2° turno - Soluzione di esempio - 07.12.2022
+Valutazione - Telemetro laser
 Punti
 8.a)
-Usando il tempo uguale alla distanza dividuta dalla velocità
+Usando tempo uguale a distanza divisa per velocità
 0.5
-Accounting for the doubled distance for the light path
+Tenendo conto della distanza raddoppiata per il cammino della luce
 0.5
-Calcolatore del tempo (8.1)
+Calcolo del tempo (8.1)
 1.0
-Recognizing the relationship between accuracy and time difference (Riconoscere la relazione tra accurazione e differenza di tempo)
+Riconoscere la relazione tra accuratezza e differenza di tempo
 0.5
-Accounting for the doubled distance for the light path
+Tenendo conto della distanza raddoppiata per il cammino della luce
 0.5
-Calcolatore della differenza di tempo (8.2)
+Calcolo della differenza di tempo (8.2)
 1.0
 8.b)
-Naming the different speeds of light
+Denominare le diverse velocità della luce
 1.0
-Stating that different travel times lead to different measurement results
+Affermare che tempi di percorrenza diversi portano a risultati di misura diversi
 1.0
 8.c)
-Decomposizione della distanza in una parte in aria e una in liquido
+Scomporre la distanza in una parte in aria e una nel liquido
 1.0
-Expressing the path in the liquid via volume (8.3)
+Esprimere il cammino nel liquido tramite il volume (8.3)
 1.0
-Recognizing that the optical path length in the liquid is longer by a factor $n$
+Riconoscendo che il cammino ottico nel liquido è più lungo di un fattore $n$
 1.0
-Setting up a linear relationship (8.4)
+Impostando una relazione lineare (8.4)
 1.0
-Creating a suitable graph from the measured values
+Costruendo un grafico adeguato a partire dai valori misurati
 2.0
-Evaluando la penetrazione
+Valutando la pendenza
 1.0
-Result for the refractive index with $1{,}32 \leq n \leq 1{,}36$
+Risultato per l'indice di rifrazione con $1{,}32 \leq n \leq 1{,}36$
 2.0
 15.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-
+53ª IPhO 2023 - Esame del 2° turno - Soluzione di esempio - 07.12.2022
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p13_f7.png]]
-*Laser su cilindro con liquido *
+*Misuratore laser su cilindro con liquido*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p15_f8.png]]
-Il numero di unità di misurazione è di circa un milione di unità di misurazione. 5)*
+*Grafico distanza misurata vs volume (Abb. 5)*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
 
 
 

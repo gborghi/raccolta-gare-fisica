@@ -189,18 +189,13 @@ Il giocattolo preferito di Manuele è caduto in fondo a una piscina di dimension
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Lavori inefficienti**
+**Inefficient work**
 
-Il giocattolo preferito di Manuele è caduto in fondo a una piscina di dimensioni $3\ \text{m} \times 25\ \text{m} \times 50\ \text{m}$. The child cannot swim, however, and to recover it he tries to empty the tub completely using a glass. Assuming Manuel has another empty pool to transfer water to, how many turns does he have to do with his glass?
+Manuele's favorite toy has fallen to the bottom of a swimming pool with dimensions $3\ \text{m} \times 25\ \text{m} \times 50\ \text{m}$. However, the child cannot swim, and to retrieve it he tries to completely empty the pool using a glass. Assuming that Manuele has another empty pool available in which to transfer the water, how many transfers must he make with his glass?
 
-*Unità di misura:* adimensionale. *Precisione richiesta:* 100.0%.
+*Unit of measurement:* dimensionless. *Required precision:* 100.0%.
 
-**Topic:** [[Order-of-Magnitude Estimation]], [[Fluid Mechanics]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1vNs6vkepIxstvXt4taMBfTBlYAPhN-f3/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J4tcCpghJK3HB7maeU7ICvbCpdkT7O0d/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J4tcCpghJK3HB7maeU7ICvbCpdkT7O0d/view)
 
 
 

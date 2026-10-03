@@ -211,22 +211,17 @@ approssima bene le misure sperimentali del periodo.
 <div class="qlang-split" data-lang="en"></div>
 
 Q.3
-[34 p.]
-Build a graph showing the $c$ trend according to the $m/M$ ratio, including the case
+[34 points]
+Construct the graph that highlights the trend of $c$ as a function of the ratio $m/M$, including the case
 $m = 0$.
 
-For small values of $M/m$ the empirical relationship
+For small values of $M/m$ the empirical relation
 
 $$c = a\, e^{b\,(M/m)} \quad (4)$$
 
-The Commission's proposal for a regulation on the approximation of the measures in question is therefore not in line with the objectives of the regulation.
+approximates well the experimental measurements of the period.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Curve Fitting (competenza)|Curve Fitting]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1A8H9eZbBckppW0I3cwIBfsiUtiVn3ZeW/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gc9oWvdTpyvUhuuOxbpckosbOCWXzIPC/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gc9oWvdTpyvUhuuOxbpckosbOCWXzIPC/view)
 
 
 
@@ -340,51 +335,30 @@ realizzare.
 <div class="qlang-split" data-lang="en"></div>
 
 Q.5
-[20 p.]
-Estimate the mass $m$ above which you believe the mass effect can be neglected
-The Commission has already adopted a proposal for a directive on the approximation of the laws of the Member States relating to the use of the energy sector.
+[20 points]
+Estimate the value of the mass $m$ above which you believe the effect of the spring's mass on the period predictions can be neglected.
 
- Part Two 
-The final part of the experiment is devoted to the study of mechanical energy transformations during the
-The first half oscillation of the spring-object system. To do this, the experimental apparatus must be modified.
-as described below.
-Instructions for construction and assembly
-From a card trade scratching along our metric
-Materials required:
-Round; giant brush of $n^\circ 6$ (60 mm); sheet of a size of 15 cm
-x 8 cm; paper adhesive tape.
-1. For the purpose of stretching the metric tape, a sling is fixed on the
-bottom using the tape, as shown in the photo next to it.
-The used round you'll have to use to make more.
-The Commission will take the necessary measures to ensure that the measures are implemented in accordance with the provisions of the Treaty.
-Your disposition.
-2. To build the moving target fold the sheet of paper in half four times (photo A) so that you get
-the result shown in Figure B
-This is a photo A.
+——— PART TWO ———
+The final part of the experiment is devoted to the study of mechanical energy transformations during the first half-oscillation of the spring-object system. To carry it out, the experimental apparatus must be modified as described below.
+INSTRUCTIONS FOR CONSTRUCTING AND ASSEMBLING
+A PAPER TARGET SLIDING ALONG THE METRIC TAPE
+Materials needed:
+washer; giant paper clip of $n^\circ 6$ (60 mm); sheet measuring 15 cm x 8 cm; paper adhesive tape.
+1. In order to keep the metric tape taut, fix a washer to the bottom using adhesive tape, as shown in the photo alongside.
+The washer used must subsequently be used to take other measurements and, in that case, you must replace it with another one at your disposal.
+2. To construct the movable target, fold the sheet of paper in half four times (photo A) so as to obtain the result shown in photo B
+Photo A
 Photo B
-Then use the adhesive tape to attach the parts that will form the reference surface of the finish
-The vehicle is equipped with a separate unit. Finally, use the stopwatch to mount the finish on the tape.
-The data shall be stored in the form of a paper metric (photo D).
-If you run the stop along the tape, you can move the paper finish up and down.
-The Commission
-This is the picture.
-Energy  Hang a load of sponges to the spring. By working on the last spring-spindle, the load is lifted in
-So the spires are all close together. It prevents the suspension hook from deforming appreciably to
-cause of the lifting.
-In this situation, the position $x_0$ of the lower end of the load shall be measured using the paper threshold which:
-You did.
-So, let the system swing free. By proceeding by attempts you can position the target so that
-which, at the end of the first half of the oscillation, the lower end of the load is deflected and measures the final position
-raggiunta $x_f$. (1)
-Make the measurements using the four heaviest combinations of combs that the situation allows you to
-I'm not going to make it.
+Then, use the adhesive tape to make the parts that will form the reference surface of the movable target adhere, which is useful for taking measurements (photo C). Finally, use the paper clip to mount the target on the paper metric tape (photo D).
+By sliding the paper clip along the metric tape, you can move the paper target up and down.
+Photo C
+Photo D
+Energy — Hang a load of washers on the spring. Acting on the last coil of the spring, lift the load so that the coils are all close together. Avoid the suspension hook deforming appreciably due to the lifting.
+In this situation, measure the position $x_0$ of the lower edge of the load using the paper sight you have made.
+Then, let the system oscillate freely. By proceeding by trial and error you will be able to position the sight so that, at the end of the first half-oscillation, the lower edge of the load grazes it, and measure the final position reached $x_f$. (1)
+Take the measurements using the four combinations of the heaviest washers that the situation allows you to make.
 
-**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
-**Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1A8H9eZbBckppW0I3cwIBfsiUtiVn3ZeW/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gc9oWvdTpyvUhuuOxbpckosbOCWXzIPC/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gc9oWvdTpyvUhuuOxbpckosbOCWXzIPC/view)
 
 
 
@@ -428,31 +402,24 @@ quell’istante può non essere nulla; nel nostro caso questo effetto sarà comu
 <div class="qlang-split" data-lang="en"></div>
 
 Q.6
-[30 p.]
-The following requests refer to the values at the end of the first half of the swing. The results obtained
-For each of the loads used, the following shall be collected in a single table:
-(a) the measures of $\Delta x$;
-(b) changes in the elastic potential energy $\Delta U_\text{el}$;
-(c) the variations in the gravitational potential energy of the suspended load $\Delta U_\text{g}$;
-(d) calculation of the $\Delta x_\text{CdM}$ displacement of the spring CdM.
-Specify the assumptions and formulae used.
+[30 points]
+The following requests refer to the values at the end of the first half-oscillation. The results obtained for each of the loads used must be collected in a single table containing:
+a) the measurements of $\Delta x$,
+b) the changes in elastic potential energy $\Delta U_\text{el}$,
+c) the changes in gravitational potential energy of the suspended load $\Delta U_\text{g}$,
+d) the calculation of the displacement $\Delta x_\text{CdM}$ of the CM of the spring.
+Specify the assumptions adopted and the formulas used.
 (1)
-It is not said that at the moment of maximum elongation all the spires stop together so that the kinetic energy of the spring in the
-The Commission has already made a number of proposals to the Council.
+It is not necessarily true that at the instant of maximum extension all the coils stop together, so the kinetic energy of the spring at that instant may not be zero; in our case this effect will nevertheless be neglected.
 
 <!--fig:start-->
-The following information is provided by the Commission:
+**p.7** — Photo C: assembled movable gate
 ![[_attachments/Naz22Spe-T/Naz22Spe-T_p7_f7.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the main features of the vehicle:
+**p.7** — Photo D: gate mounted on the tape
 ![[_attachments/Naz22Spe-T/Naz22Spe-T_p7_f8.png]]
 <!--fig:end-->
 
-**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1A8H9eZbBckppW0I3cwIBfsiUtiVn3ZeW/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gc9oWvdTpyvUhuuOxbpckosbOCWXzIPC/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gc9oWvdTpyvUhuuOxbpckosbOCWXzIPC/view)

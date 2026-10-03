@@ -345,7 +345,7 @@ Experimental Competition
 Monday, 1
 Monday, 19 July 2004
  July 2004
-Read the following instructions carefully first:
+Read the following instructions carefully before starting:
 1. The available time is 5 hours.
 2. Use only the pen provided.
 3. Use only the front side of the writing sheets. Write only within
@@ -358,7 +358,7 @@ of the box
 
  .
 4. In addition to the blank writing sheets, there are the Answer Sheets where you must summarize the results obtained.
-5. Write on the blank writing sheets the results of the measurements made and everything you consider useful for the solution of the problem. Express yourself mainly with equations, numbers, sketches and graphs; use as little text as possible.
+5. On the blank writing sheets write the results of the measurements made and everything you consider useful for the solution of the problem. Express yourself mainly with equations, numbers, sketches and graphs; use as little text as possible.
 6. Fill in the boxes at the top of each sheet of paper with your Country Code (Country
 Code) and your Student Number (Student Code). Also on each blank sheet write the progressive page number (Page Number), and the total number of writing sheets used (Total Number of Pages). Write at the top of each sheet the problem number and the letter indicating the section of the problem being answered. If you have used some blank writing sheets for notes that you do not wish to be evaluated, draw a large X across the entire sheet and do not include them in the numbering.
 7. At the end of the exam, arrange all the sheets in the following order:
@@ -376,25 +376,23 @@ Unused sheets and the problem text (at the end)
 8. It is not necessary to specify the uncertainty on the values obtained, but the score you will get will take into account their deviation from the expected values.
 9. Place the sheets in the envelope and leave everything on your table. It is not
 
- per
+ allowed
 
- mes
+ to
 
- so
+ take
 
-por
-
- tare outside the room
+ out of the room
 
  any
 
- sheet nor any material used in the
+ sheet nor any material used in
 
- expe
+ the exper
 
- ri men
+ i men
 
- - to.
+ - t.
 Equipment
 1. List of available materials
 Name
@@ -445,7 +443,7 @@ Rulers (0.50 m, 0.15 m)
 H
 Pin
 2
-Calipers
+Caliper
 1
 I
 U-shaped plate
@@ -485,30 +483,30 @@ Q
 
 Experimental Competition / Question
 Page 4/13
-2. Instructions for using the photogate timer
-The photogate consists of an infrared LED and a photodetector. By connecting the photogate to the Timer, one can measure the duration of time by exploiting the interruptions of the infrared light reaching the sensor.
+2. Instructions for using the photocell timer
+The photocell consists of an infrared LED and a photodetector. By connecting the photocell to the Timer, it is possible to measure the duration of time by exploiting the interruptions of the infrared light that reaches the sensor.
 ‧
-Make sure the photogate is connected to the Timer. Turn on the timer by pressing the key marked "POWER".
+Make sure the photocell is connected to the Timer. Turn on the timer by pressing the button marked "POWER".
 ‧
-To measure the time interval elapsed during the passage of a single object, press the key marked "GATE". Use the "GATE" mode for speed measurements.
+To measure the time interval elapsed during the passage of a single object, press the button marked "GATE". Use the "GATE" mode for speed measurements.
 ‧
-To measure time intervals between two or three successive passages, press the corresponding key among the two marked "PERIOD". Use the
+To measure time intervals between two or three successive passages, press the corresponding button among the two marked "PERIOD". Use the
 "PERIOD" mode to measure oscillation times.
 ‧
-If the "DELAY" key is pressed, the Timer displays the result of each measurement for 5 seconds and then prepares itself for a new measurement.
+If the "DELAY" button is pressed, the Timer displays the result of each measurement for 5 seconds and then prepares itself for a new measurement.
 ‧
-If the "DELAY" key is not pressed, the Timer shows the result of the previous measurement until the next one is completed.
+If the "DELAY" button is not pressed, the Timer shows the result of the previous measurement until the next one is completed.
 ‧
-After each change of position of a key, press the key "
+After each change in the position of a button, press the "
 
  RESET
 
- " once
+ " button once
 
 to activate the mode change
 
  .
-Warning: Do not look directly into the photogate, because the infrared light can damage the eyes even if it is not visible.
+Warning: Do not look directly into the photocell, because the infrared light can damage the eyes even if it is not visible.
 
 Experimental Competition / Question
 Page 5/13
@@ -540,18 +538,18 @@ Experimental Competition / Question
 Page 7/13
 Rotating block Mass with string
 The mechanical "Black Box"
-[Aim of the test] Find the mass of a ball and the spring constant of two springs that are located in the
+[Purpose of the test] Find the mass of a ball and the spring constant of two springs that are located in the
 
  "Black Box
 
  " mechanical.
 
 General information about the "Black Box"
-The mechanical "Black Box" (MBB) consists of a black cylindrical tube containing a rigid ball attached to two springs, as shown in Fig. 1. The two springs are identical in everything except the number of coils. The mass of the springs can be neglected, and the same applies to their length when they are completely compressed. The tube is homogeneous and closed at the ends with two identical caps.
+The mechanical "Black Box" (MBB) consists of a black cylindrical tube containing a rigid ball attached to two springs, as shown in Fig. 1. The two springs are identical in everything except the number of turns. The mass of the springs can be neglected, and the same applies to their length when they are fully compressed. The tube is homogeneous and closed at the ends with two identical caps.
 Each cap is inserted inside the tube for a length of $5\ \text{mm}$. The radius of the ball is $11\ \text{mm}$ and the internal diameter of the tube is $23\ \text{mm}$. The acceleration due to gravity is $g =
 9.8\ \text{m/s}^2$. There is friction between the ball and the inner surface of the tube.
 Fig. 1 Mechanical "Black Box" (not to scale)
-The purpose of this experiment is to determine, without opening the MBB, the mass m of the ball and the spring constants $k_1$ and $k_2$ of the two springs. The difficult aspect of this problem is that each of the experiments that will be suggested is not capable of separately determining the mass $m$ or the position $l$ of the ball, where $l$ is the distance between the geometric centers of the cylinder and the ball when the MBB is placed at rest on a horizontal plane and the ball is stationary in a position that does not depend on friction.
+The purpose of this experiment is to determine, without opening the MBB, the mass m of the ball and the spring constants $k_1$ and $k_2$ of the two springs. The difficult aspect of this problem is that each of the experiments that will be suggested is not capable of separately determining the mass $m$ or the position $l$ of the ball, where $l$ is the distance between the geometric centers of the cylinder and of the ball when the MBB is placed at rest on a horizontal plane and the ball is stationary in a position that does not depend on friction.
 Use the symbols listed below to represent the physical quantities of interest in the problem
 
  . If you think you need to use other physical quantities, use symbols different from

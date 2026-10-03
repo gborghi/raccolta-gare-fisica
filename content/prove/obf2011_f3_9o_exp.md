@@ -279,22 +279,16 @@ Ripetere la stessa procedura di PARTE II, solo che nella direzione parallela all
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part III  Property of the magnetic interaction with the bubble (measured in the direction parallel to the North-South axis) **
+**PART III – PROPERTIES OF THE INTERACTION OF THE MAGNET WITH THE COMPASS (measurements in the direction parallel to the North-South axis)**
 
-Repeat the same procedure as in PART II only in the direction parallel to the North-South axis for the 4 positions shown in the figure below. In this case, draw a straight line parallel to the North-South axis with the magnet away from the compass and then start measuring. Indicate the results in 4 tables in the same model as the previous one.
+Repeat the same procedure as in PART II, but in the direction parallel to the North-South axis for the 4 positions indicated in the figure below. In this case, draw a line parallel to the North-South axis with the magnet far from the compass and then begin your measurements. Present the results in 4 tables using the same model as the previous one.
 
-Question: Based on the analysis of the results obtained, indicate for positions 3 and 4 which of them represents attraction and repulsion.
+**Question:** Based on the analysis of the results obtained, indicate for positions 3 and 4 which of them represents attraction and which represents repulsion.
 
 <!--fig:start-->
 ![[_attachments/OBF2011_F3_9o_exp/OBF2011_F3_9o_exp_p4_f4.png]]
-The following information is provided for in the Annex to Regulation (EU) No 1303/2013.
+*Magnet orientations Positions 1–4 parallel to N-S axis*
 <!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1o-q_NFDAEpqpsavK2Ly5K1ryOGijbz6c/view)
 
 
 

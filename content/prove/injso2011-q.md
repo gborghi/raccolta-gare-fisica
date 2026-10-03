@@ -1076,18 +1076,12 @@ What will be the volume of $\text{Cl}_2$ at STP produced during electrolysis of 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Qual è il volume di $\text{Cl}_2$ al STP prodotto durante l'elettrolisi di $\text{MgCl}_2$ che produce 6,5 g Mg (At.wt. of Mg = 24.3g, Cl = 35.5g) [1]
+Quale sarà il volume di $\text{Cl}_2$ in condizioni STP prodotto durante l'elettrolisi di $\text{MgCl}_2$ che produce 6,5 g di Mg (massa atomica di Mg = 24,3 g, Cl = 35,5 g) [1]
 
-- a) 5.099 litri
-- b) 5,99 litri
-- 12,02 litri
-- 3,099 litri
-
-**Topic:** [[Chemistry]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1_g_vgFbBhK_uZPWQax-GZdu3Qyooef75/view)
+- (a) 5,099 litri
+- (b) 5,99 litri
+- (c) 12,02 litri
+- (d) 3,099 litri
 
 
 

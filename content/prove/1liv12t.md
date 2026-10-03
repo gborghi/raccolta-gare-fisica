@@ -43,12 +43,7 @@ The acceleration of gravity on planet X is
 - **C.** $5.0\,\text{m s}^{-2}$
 - **D.** $9.8\,\text{m s}^{-2}$
 - **E.** $20\,\text{m s}^{-2}$
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -110,9 +105,9 @@ Quale delle seguenti è l'espressione corretta per la lunghezza $s$ della traiet
 
 <div class="qlang-split" data-lang="en"></div>
 
-A uniform magnetic induction field $\vec{B}$ is present in a region. A charge particle $Q$ and motion quantity $\vec{p}$ enters the region travelling at a right angle to the field and is deflected by $90°$ by action of the magnetic force, as shown in the diagram. All other forces can be overlooked.
+In a region there is a uniform magnetic induction field $\vec{B}$. A particle with charge $Q$ and momentum $\vec{p}$ enters the region traveling at right angles to the field and is deflected by $90°$ due to the magnetic force, as shown in the diagram. All other forces can be neglected.
 
-Which of the following is the correct expression for the trajectory length $s$ in the magnetic field region?
+Which of the following is the correct expression for the length $s$ of the trajectory in the magnetic field region?
 
 - **A.** $\dfrac{pQ}{4B}$
 - **B.** $\dfrac{\pi p}{2BQ}$
@@ -150,14 +145,9 @@ Which of the following is the correct expression for the trajectory length $s$ i
 </figure>
 
 
-Particle deflected in magnetic field
+*Particle deflected 90° in magnetic field*
 <!--fig:end-->
-**Topic:** [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -186,21 +176,16 @@ Il consumo, convenzionalmente espresso in «litri/100 km», è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The mechanical power developed by the engine of an automobile travelling at $v = 100\,\text{km/h}$ speed is $P = 45\,\text{kW}$. The engine performance is $\eta = 40\%$ and the fuel heat output is $q = 42\,\text{MJ/L}$.
+The mechanical power developed by the engine of a car traveling at speed $v = 100\,\text{km/h}$ is $P = 45\,\text{kW}$. The efficiency of the engine is $\eta = 40\%$ and the calorific value of the fuel is $q = 42\,\text{MJ/L}$.
 
-The consumption, conventionally expressed in litres/100 km, is:
+The consumption, conventionally expressed in "liters/100 km", is:
 
 - **A.** $2.4$
 - **B.** $2.7$
 - **C.** $9.6$
 - **D.** $10$
 - **E.** $15$
-**Topic:** [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -229,21 +214,16 @@ Il risultato dell'operazione è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Subtract a quantity of heat energy $Q = 14.5\,\text{MJ}$ to $5.0\,\text{kg}$ from water vapor initially to $150°\text{C}$ in a closed container. The mean specific heat value of water vapor $c_V = 1.53\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ shall be adopted.
+A quantity $Q = 14.5\,\text{MJ}$ of thermal energy is removed from $5.0\,\text{kg}$ of water vapor initially at $150°\text{C}$ which is in a closed container. Take $c_V = 1.53\,\text{kJ\,kg}^{-1}\text{K}^{-1}$ as the average value of the specific heat of water vapor.
 
 The result of the operation is:
 
-- Water vapor. - The water vapor is not used.
-- **B.** Mix of water vapor and liquid water.
-- **C ** Liquid water.
-- **D.** Mix of liquid water and ice.
-- MSK0/>E** Ice.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+- **A.** Water vapor.
+- **B.** A mixture of water vapor and liquid water.
+- **C.** Liquid water.
+- **D.** A mixture of liquid water and ice.
+- **E.** Ice.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -270,19 +250,14 @@ Quale dei seguenti processi descrive una trasformazione isoterma reversibile di 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which of the following processes describes a reversible isothermal transformation of a perfect gas?
+Which of the following processes describes a reversible isothermal transformation of an ideal gas?
 
-- **A.** Pressure decreases slowly, volume increases slowly and there is no heat exchange.
+- **A.** The pressure decreases slowly, the volume increases slowly, and there is no heat exchange.
 - **B.** The volume remains constant and the system absorbs heat.
-- **C.** The volume decreases sharply and the system gives off heat.
-- **D.** The pressure decreases slowly, the volume increases slowly and the system absorbs heat.
-- **E.** The pressure remains constant and the system gives off heat.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+- **C.** The volume decreases abruptly and the system releases heat.
+- **D.** The pressure decreases slowly, the volume increases slowly, and the system absorbs heat.
+- **E.** The pressure remains constant and the system releases heat.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -311,21 +286,16 @@ Qual è il massimo peso del carico posto nel montacarichi che questo motore può
 
 <div class="qlang-split" data-lang="en"></div>
 
-An engine with a maximum power of $8.1 \times 10^4\,\text{W}$ is used for a load mount weighing $1.8 \times 10^4\,\text{N}$.
+A motor with a maximum power of $8.1 \times 10^4\,\text{W}$ is used for a freight elevator that weighs $1.8 \times 10^4\,\text{N}$.
 
-What is the maximum load weight placed on the loading equipment that this engine can lift at an average speed of $3.0\,\text{m s}^{-1}$?
+What is the maximum weight of the load placed in the freight elevator that this motor can lift at an average speed of $3.0\,\text{m s}^{-1}$?
 
 - **A.** $0.9 \times 10^4\,\text{N}$
 - **B.** $1.8 \times 10^4\,\text{N}$
 - **C.** $2.4 \times 10^4\,\text{N}$
 - **D.** $2.7 \times 10^4\,\text{N}$
 - **E.** $9.0 \times 10^4\,\text{N}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position adopted by the Council.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -356,19 +326,14 @@ A quale distanza dal vertice dello specchio può trovarsi l'oggetto, fra quelle 
 
 An object is placed in front of a concave spherical mirror. The focal length is $0.10\,\text{m}$.
 
-How far from the top of the mirror can the object be, among those shown below, to form a virtual image?
+At what distance from the vertex of the mirror can the object be, among those indicated below, for a virtual image to form?
 
 - **A.** $0.05\,\text{m}$
 - **B.** $0.15\,\text{m}$
 - **C.** $0.25\,\text{m}$
 - **D.** $0.35\,\text{m}$
 - **E.** $0.45\,\text{m}$
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position adopted by the Council.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -397,21 +362,16 @@ Qual è la tensione della corda quando l'oggetto si trova nel punto più alto, s
 
 <div class="qlang-split" data-lang="en"></div>
 
-An object of $0.40\,\text{kg}$ is attached to a long string $0.80\,\text{m}$. The mass and rope are rotated vertically around the other end of the rope.
+An object of $0.40\,\text{kg}$ is attached to a rope of length $0.80\,\text{m}$. The mass and the rope are made to rotate in a vertical plane around the other end of the rope.
 
-What is the tension of the rope when the object is at the highest point, if at that point the speed formula is $3.0\,\text{m s}^{-1}$?
+What is the tension of the rope when the object is at the highest point, if at that point the magnitude of the velocity is $3.0\,\text{m s}^{-1}$?
 
 - **A.** $0\,\text{N}$
 - **B.** $0.29\,\text{N}$
 - **C.** $0.58\,\text{N}$
 - **D.** $4.5\,\text{N}$
 - **E.** $5.8\,\text{N}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -440,21 +400,16 @@ Qual è la massima distanza dall'asse di rotazione a cui la moneta può restare 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A small coin is supported on a horizontal disc that rotates at $33.3$ rotations per minute. The static friction coefficient between the coin and the disk surface is $0.30$.
+A small coin is resting on a horizontal disk that rotates at $33.3$ revolutions per minute. The coefficient of static friction between the coin and the surface of the disk is $0.30$.
 
-What is the maximum distance from the axis of rotation at which the coin can remain resting on the disc without slipping?
+What is the maximum distance from the axis of rotation at which the coin can remain resting on the disk without slipping?
 
 - **A.** $0.024\,\text{m}$
 - **B.** $0.048\,\text{m}$
 - **C.** $0.12\,\text{m}$
 - **D.** $0.24\,\text{m}$
 - **E.** $0.48\,\text{m}$
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -485,19 +440,14 @@ Se si applica una differenza di potenziale di $300\,\text{V}$ al blocco formato 
 
 A capacitor of $3.0\,\mu\text{F}$ is connected in series with one of $6.0\,\mu\text{F}$.
 
-If a potential difference of $300\,\text{V}$ is applied to the block of the two capacitors, what is the total energy stored?
+If a potential difference of $300\,\text{V}$ is applied to the block formed by the two capacitors, what is the total stored energy?
 
 - **A.** $0.09\,\text{J}$
 - **B.** $0.18\,\text{J}$
 - **C.** $0.27\,\text{J}$
 - **D.** $0.41\,\text{J}$
 - **E.** $0.81\,\text{J}$
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position adopted by the Council.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -526,21 +476,16 @@ L'allargamento è più o meno accentuato in funzione ...
 
 <div class="qlang-split" data-lang="en"></div>
 
-A rock barrier, set near the coast, is hit by the waves of the sea. There's a hole in the barrier through which the waves enter. After crossing the barrier, the waves expand by diffraction.
+A barrier of rocks, located near the coast, is struck by sea waves. In the barrier there is an opening through which the waves enter. After passing through the barrier, the waves spread out due to diffraction.
 
-The expansion is more or less accentuated as a function of...
+The spreading is more or less pronounced depending on ...
 
-- **A.** ... the width and frequency of the incident wave.
+- **A.** ... the amplitude and frequency of the incident wave.
 - **B.** ... the wavelength and speed of the incident wave.
-- **C.** ... the wavelength and width of the opening.
-- **D.** ... the wavelength and width of the opening.
-- **E.** ... Just the width of the opening.
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+- **C.** ... the wavelength and the width of the opening.
+- **D.** ... the amplitude of the wave and the width of the opening.
+- **E.** ... only the width of the opening.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -569,21 +514,16 @@ Qual è la velocità della corrente d'acqua del fiume?
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a rescue operation, a lifeguard is dropped vertically by a helicopter hovering motionless in the air in favor of a person who is not swimming and is dragged by the current of the river at constant speed $v$. The helicopter is at a height of $9.8\,\text{m}$ and the moment the lifeguard is dropped the person is $6.0\,\text{m}$ away from the point perpendicular to the helicopter. The lifeguard falls in front of the person at $2.0\,\text{m}$ distance. Ignore the air resistance.
+In a rescue operation, a lifebuoy is dropped vertically from a helicopter hovering motionless in the air for a person who is not swimming and who is being carried by the river current at a constant speed $v$. The helicopter is at a height of $9.8\,\text{m}$ and at the instant the lifebuoy is dropped, the person is at a distance $6.0\,\text{m}$ upstream of the point located perpendicularly below the helicopter. The lifebuoy falls ahead of the person at a distance of $2.0\,\text{m}$. Neglect air resistance.
 
-What is the speed of the river's water flow?
+What is the speed of the river's water current?
 
 - **A.** $13\,\text{m s}^{-1}$
 - **B.** $9.8\,\text{m s}^{-1}$
 - **C.** $6.3\,\text{m s}^{-1}$
 - **D.** $2.8\,\text{m s}^{-1}$
 - **E.** $2.4\,\text{m s}^{-1}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -612,21 +552,16 @@ Qual è il momento di inerzia della ragazza con le braccia lungo il corpo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A skater is rotating on herself with arms extended at an angular speed of $3.0\,\text{rad s}^{-1}$. In this situation its moment of inertia is $0.8\,\text{kg m}^2$. At a certain moment, he closes his arms along his body and his angular velocity reaches $7\,\text{rad s}^{-1}$. You can ignore any form of friction and air resistance.
+A skater is spinning on herself with her arms outstretched at an angular velocity of $3.0\,\text{rad s}^{-1}$. In this situation her moment of inertia is $0.8\,\text{kg m}^2$. At a certain instant she brings her arms in close to her body and her angular velocity reaches $7\,\text{rad s}^{-1}$. Any form of friction and air resistance can be neglected.
 
-What's the moment of inertia of the girl with her arms around her body?
+What is the girl's moment of inertia with her arms close to her body?
 
 - **A.** $0.15\,\text{kg m}^2$
 - **B.** $0.34\,\text{kg m}^2$
 - **C.** $0.56\,\text{kg m}^2$
 - **D.** $1.5\,\text{kg m}^2$
 - **E.** $1.8\,\text{kg m}^2$
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -655,21 +590,16 @@ Di quale distanza $S$ il bordo del mattone superiore può sporgere, al massimo, 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two identical and homogeneous bricks $L$ length are placed on a table and stacked on top of each other as shown in the figure.
+Two identical and homogeneous bricks of length $L$ are placed on a table and stacked one on top of the other as shown in the figure.
 
-At what distance $S$ can the upper brick edge rise, at most, from the table edge so that the system remains in balance?
+By what distance $S$ can the edge of the upper brick protrude, at most, from the edge of the table so that the system is still in equilibrium?
 
 - **A.** $L/2$
 - **B.** $2L/3$
 - **C.** $3L/4$
 - **D.** $7L/8$
 - **E.** $L$
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -698,21 +628,16 @@ Le nuove letture dei due strumenti sono ora rispettivamente ...
 
 <div class="qlang-split" data-lang="en"></div>
 
-An object placed on a plate of equal arm balances is balanced by a sample mass of $12\,\text{kg}$. When suspended from a dynamometer, the instrument measures $118\,\text{N}$. Everything (balance, dynamometer, sample mass and object) is now transported to the Moon where gravitational acceleration is about one sixth of that on Earth.
+An object placed on one pan of an equal-arm balance is balanced by a standard mass of $12\,\text{kg}$. When it is hung from a dynamometer, the instrument reads $118\,\text{N}$. Everything (balance, dynamometer, standard mass and object) is now transported to the Moon, where the gravitational acceleration is about one sixth of that on Earth.
 
-The new readings of the two instruments are now ...
+The new readings of the two instruments are now respectively ...
 
 - **A.** ... $2\,\text{kg}$, $20\,\text{N}$
 - **B.** ... $2\,\text{kg}$, $118\,\text{N}$
 - **C.** ... $12\,\text{kg}$, $20\,\text{N}$
 - **D.** ... $12\,\text{kg}$, $118\,\text{N}$
 - **E.** ... $12\,\text{kg}$, $708\,\text{N}$
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -741,21 +666,16 @@ Cosa indica, all'incirca, una bilancia sulla quale è salita una persona di $55\
 
 <div class="qlang-split" data-lang="en"></div>
 
-An elevator is descending at $3.8\,\text{m s}^{-1}$. In the vicinity of the arrival plane it is braking and slowing down at a constant acceleration of $1.5\,\text{m s}^{-2}$.
+An elevator is descending at a speed of $3.8\,\text{m s}^{-1}$. Near the arrival floor it is braked and slows down with a constant acceleration of $1.5\,\text{m s}^{-2}$.
 
-Cosa indica, all'incirca, una bilancia sulla quale è salita una persona di $55\,\text{kg}$, che si trova nell'ascensore mentre questo sta frenando?
+What does a scale approximately read on which a person of $55\,\text{kg}$ has stepped, who is in the elevator while it is braking?
 
 - **A.** $330\,\text{N}$
 - **B.** $450\,\text{N}$
 - **C.** $540\,\text{N}$
 - **D.** $620\,\text{N}$
 - **E.** $750\,\text{N}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-**Risposta:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -784,21 +704,16 @@ Durante il funzionamento, nell'asciugacapelli approssimativamente circola una co
 
 <div class="qlang-split" data-lang="en"></div>
 
-An electric hair dryer consumes a $E = 6.0 \times 10^5\,\text{J}$ amount of energy when it operates at $220\,\text{V}$ for $30$ minutes.
+An electric hairdryer consumes an amount $E = 6.0 \times 10^5\,\text{J}$ of energy when it operates at $220\,\text{V}$ for $30$ minutes.
 
-During operation, an effective current of approximately:
+During operation, an effective current of approximately the following flows in the hairdryer:
 
 - **A.** $0.5\,\text{A}$
 - **B.** $1.0\,\text{A}$
 - **C.** $1.5\,\text{A}$
 - **D.** $2.0\,\text{A}$
 - **E.** $2.5\,\text{A}$
-**Topic:** [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -831,9 +746,9 @@ In quale punto l'accelerazione dell'oggetto in moto è negativa?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The time law of a straight-line motion is shown in the figure.
+The figure shows the position-time graph of a rectilinear motion.
 
-At what point is the acceleration of the moving object negative?
+At which point is the acceleration of the moving object negative?
 
 - **A.** A
 - **B.** B
@@ -842,14 +757,9 @@ At what point is the acceleration of the moving object negative?
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p5_f2.png]]
-The following table shows the position vs time graph with labeled points:
+*Position vs time graph with labeled points*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position adopted by the Council.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -876,19 +786,14 @@ Qual è, tra le seguenti, quella che approssima meglio la capienza di un cucchia
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which of the following approximates the capacity of a tablespoon best?
+Which of the following best approximates the capacity of a soup spoon?
 
 - **A.** $1.2 \times 10^{-3}\,\text{m}^3$
 - **B.** $120\,\text{mL}$
 - **C.** $12 \times 10^{-3}\,\text{L}$
 - **D.** $1.2\,\text{cm}^3$
 - **E.** $0.12 \times 10^{-3}\,\text{dm}^3$
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -967,9 +872,9 @@ Qual è all'incirca l'intensità della forza $F$ che agisce orizzontalmente sul 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shown here shows a mass block $m = 7.0\,\text{kg}$ resting on a smooth horizontal surface. A force of $100\,\text{N}$ is applied to the block forming an angle of $30°$ with respect to the plane.
+The figure shown here displays a block of mass $m = 7.0\,\text{kg}$ resting on a smooth horizontal surface. A force of $100\,\text{N}$ is applied to the block forming an angle of $30°$ with respect to the plane.
 
-What is the intensity of the force $F$ acting horizontally on the block knowing that the block remains stationary on the floor?
+What is approximately the magnitude of the force $F$ acting horizontally on the block, knowing that the block remains stationary on the floor?
 
 - **A.** $50\,\text{N}$
 - **B.** $87\,\text{N}$
@@ -1026,12 +931,7 @@ What is the intensity of the force $F$ acting horizontally on the block knowing 
 
 *Block on surface with angled applied force*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1060,21 +960,16 @@ In questo punto l'impulso verrà...
 
 <div class="qlang-split" data-lang="en"></div>
 
-A lighter spring is attached to a heavier spring for an extreme. Both springs are ideal. The system is horizontally arranged. A pulse propagates into the lighter one affecting the junction between the two.
+A lighter spring is attached to a heavier one at one end. Both springs are ideal. The system is arranged horizontally. A pulse propagates in the lighter one and strikes the junction between the two.
 
-At this point, the impulse will come...
+At this point the pulse will be...
 
-- **A.** ... I'm totally reflective.
-- **B.** ... It's totally absorbed.
-- **C.** ... It is fully transmitted to the heaviest spring.
+- **A.** ... totally reflected.
+- **B.** ... totally absorbed.
+- **C.** ... totally transmitted to the heavier spring.
 - **D.** ... partially reflected and partially transmitted to the heavier spring.
 - **E.** ... partially reflected and partially absorbed.
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1103,21 +998,16 @@ Quale dei seguenti grafici meglio rappresenta l'intensità del campo elettrico i
 
 <div class="qlang-split" data-lang="en"></div>
 
-An electrical charge is evenly distributed within a sphere of radius $a$.
+An electric charge is uniformly distributed inside a sphere of radius $a$.
 
-Which of the following graphs best represents the intensity of the electric field in relation to the distance from the center of the sphere?
+Which of the following graphs best represents the magnitude of the electric field as a function of the distance from the center of the sphere?
 
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p6_f4.png]]
 *Five graphs of E-field vs distance from center*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1146,21 +1036,16 @@ Che distanza percorrerà, partendo da ferma, in $10\,\text{s}$ con questa accele
 
 <div class="qlang-split" data-lang="en"></div>
 
-A manufacturer declares that a vehicle can accelerate from stop to $24\,\text{m s}^{-1}$ in $6\,\text{s}$.
+A manufacturer claims that a car can accelerate from rest to $24\,\text{m s}^{-1}$ in $6\,\text{s}$.
 
-What distance will it travel, starting from a stationary point, in $10\,\text{s}$ at this assumed constant acceleration?
+What distance will it travel, starting from rest, in $10\,\text{s}$ with this acceleration assumed constant?
 
 - **A.** $40\,\text{m}$
 - **B.** $120\,\text{m}$
 - **C.** $144\,\text{m}$
 - **D.** $200\,\text{m}$
 - **E.** $240\,\text{m}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1253,7 +1138,7 @@ Qual è la forza elettromotrice fornita dal generatore?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two resistors and three amperometers are connected to a generator as shown in the figure.
+Two resistors and three ammeters are connected to a generator as shown in the figure.
 
 What is the electromotive force supplied by the generator?
 
@@ -1326,12 +1211,7 @@ What is the electromotive force supplied by the generator?
 
 *Circuit with two resistors and three ammeters*
 <!--fig:end-->
-**Topic:** [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1364,7 +1244,7 @@ Il calore di vaporizzazione della sostanza è pari a
 
 <div class="qlang-split" data-lang="en"></div>
 
-A sample of a substance of mass $5.00\,\text{kg}$ absorbs heat from a source which constantly provides a quantity of $41.9\,\text{kJ}$ over time per minute. The graph represents the temperature of the sample over time.
+A sample of a substance with mass $5.00\,\text{kg}$ absorbs heat from a source that supplies it at a constant rate over time, equal to $41.9\,\text{kJ}$ every minute. The graph represents the temperature of the sample as time passes.
 
 The heat of vaporization of the substance is equal to
 
@@ -1375,14 +1255,9 @@ The heat of vaporization of the substance is equal to
 - **E.** $629\,\text{kJ\,kg}^{-1}$
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p7_f6.png]]
-The following table shows the results of the calculations for the period of the transition period:
+*Temperature vs time graph for phase transition*
 <!--fig:end-->
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1411,21 +1286,16 @@ Cosa succede dell'immagine se la metà superiore della lente viene coperta con u
 
 <div class="qlang-split" data-lang="en"></div>
 
-A convergent lens forms at some point the image of an object.
+A converging lens forms the image of an object at a certain point.
 
-What happens to the image if the upper half of the lens is covered with a completely opaque cardboard?
+What happens to the image if the upper half of the lens is covered with a completely opaque piece of cardboard?
 
-- Half of the image disappears.
-- **B.** The image remains whole but half-sized.
-- **C.** The image is missing.
-- **D.** The image appears more blurred.
-- **E.** The image is formed on the cardboard.
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+- **A.** Half of the image disappears.
+- **B.** The image remains whole but with half the size.
+- **C.** The image disappears.
+- **D.** The image appears fainter.
+- **E.** The image forms on the cardboard.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1454,21 +1324,16 @@ Quale di questi grafici meglio rappresenta la situazione?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graphs shown here show the relationship between the pressure $P$ and the volume $V$ of an allocated amount of a perfect gas undergoing thermodynamic transformation without heat exchange.
+The graphs shown here display the relationship between pressure $P$ and volume $V$ of a given quantity of a perfect gas undergoing a thermodynamic transformation without heat exchange.
 
 Which of these graphs best represents the situation?
 
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p7_f7.png]]
-The following table shows the results of the study:
+*Five P-V diagrams for adiabatic process*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position adopted by the Council.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1497,7 +1362,7 @@ Qual è il calore specifico del materiale di cui è fatto il blocco?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A block of a certain material with a mass $M = 1.0 \times 10^3\,\text{kg}$ absorbs a quantity $Q = 2.4 \times 10^3\,\text{kJ}$ of heat while its temperature varies from $710°\text{C}$ to $720°\text{C}$.
+A block of a certain material having mass $M = 1.0 \times 10^3\,\text{kg}$ absorbs an amount $Q = 2.4 \times 10^3\,\text{kJ}$ of heat while its temperature varies from $710°\text{C}$ to $720°\text{C}$.
 
 What is the specific heat of the material the block is made of?
 
@@ -1506,12 +1371,7 @@ What is the specific heat of the material the block is made of?
 - **C.** $0.24\,\text{kJ\,kg}^{-1}\text{K}^{-1}$
 - **D.** $2.4\,\text{kJ\,kg}^{-1}\text{K}^{-1}$
 - **E.** $2.4 \times 10^5\,\text{kJ\,kg}^{-1}\text{K}^{-1}$
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1538,19 +1398,14 @@ Quale combinazione di unità di misura si può adoperare per il lavoro di una fo
 
 <div class="qlang-split" data-lang="en"></div>
 
-What combination of units of measurement can be used for the work of a force?
+Which combination of units of measurement can be used for the work done by a force?
 
 - **A.** $\text{newton} \cdot \text{secondo} \cdot \text{metro}^{-1}$
 - **B.** $\text{newton} \cdot \text{metro} \cdot \text{secondo}^{-1}$
 - **C.** $\text{newton} \cdot \text{metro}^{-1}$
 - **D.** $\text{newton} \cdot \text{metro}$
 - **E.** $\text{newton} \cdot \text{metro} \cdot \text{secondo}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1579,21 +1434,16 @@ Qual è il corretto cammino che compie il raggio di luce?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Figure 1 shows a beam of light coming from the base of an object, which hits a lens whose point $F$ is a fire, and shows five possible beams coming from the lens.
+The figure shows a ray of light coming from the base of an object, which strikes a lens for which point $F$ is a focus, and five possible rays emerging from the lens are shown.
 
-What is the correct path that makes the light beam?
+What is the correct path taken by the ray of light?
 
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p8_f8.png]]
 *Lens with incident ray and five candidate refracted rays*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1622,21 +1472,16 @@ Qual è l'intensità della forza media che agisce sul passeggero durante l'incid
 
 <div class="qlang-split" data-lang="en"></div>
 
-In an automobile accident a passenger with mass $44\,\text{kg}$ and speed $15\,\text{m s}^{-1}$ is stopped at $0.10\,\text{s}$.
+In a car accident, a passenger with a mass of $44\,\text{kg}$ and a speed of $15\,\text{m s}^{-1}$ is stopped in $0.10\,\text{s}$.
 
-What is the intensity of the force acting on the passenger during the accident?
+What is the magnitude of the average force acting on the passenger during the accident?
 
 - **A.** $293\,\text{N}$
 - **B.** $440\,\text{N}$
 - **C.** $660\,\text{N}$
 - **D.** $4400\,\text{N}$
 - **E.** $6600\,\text{N}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the common position adopted by the Council.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1669,25 +1514,20 @@ In che relazione stanno fra loro le masse dei due oggetti?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A series of forces is applied, in succession, to two objects of different mass, A and B. The graphs show the acceleration pattern printed on each block by the various forces applied.
+A series of forces is applied, in succession, to two objects of different mass, A and B. The graphs show the trend of the acceleration imparted to each block by the various applied forces.
 
-What relationship do the masses of the two objects have?
+What is the relationship between the masses of the two objects?
 
-- **A.** The mass of A is four times greater than that of B
+- **A.** The mass of A is four times larger than that of B
 - **B.** The mass of A is twice that of B
 - **C.** The mass is the same
 - **D.** The mass of A is half that of B
-- **E.** The mass of A is one quarter of that of B
+- **E.** The mass of A is a quarter of that of B
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p8_f9.png]]
-Acceleration vs force graphs for objects A and B
+*Acceleration vs force graphs for objects A and B*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1716,21 +1556,16 @@ Sapendo che l'energia di ionizzazione di un atomo d'idrogeno è $13.6\,\text{eV}
 
 <div class="qlang-split" data-lang="en"></div>
 
-The electron of a hydrogen atom in the excited state with the main quantum number $n = 2$ decays to the fundamental level ($n = 1$) and emits a photon.
+The electron of a hydrogen atom that is in an excited state with principal quantum number $n = 2$ decays to the ground level ($n = 1$) and emits a photon.
 
-Knowing that the ionization energy of a hydrogen atom is $13.6\,\text{eV}$, what is the energy of the photon emitted worth, approximately?
+Knowing that the ionization energy of a hydrogen atom is $13.6\,\text{eV}$, what is, approximately, the energy of the emitted photon?
 
 - **A.** $5.4 \times 10^{-19}\,\text{J}$
 - **B.** $1.6 \times 10^{-18}\,\text{J}$
 - **C.** $5.4 \times 10^{-18}\,\text{J}$
 - **D.** $2.2 \times 10^{-18}\,\text{J}$
 - **E.** $7.4 \times 10^{-18}\,\text{J}$
-**Topic:** [[Modern-Quantum Physics]], [[Astrophysics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Atom (object)|Atom]], [[Electron (object)|Electron]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1763,9 +1598,9 @@ Se il pezzo più grosso, di $4.0\,\text{kg}$, inizia a muoversi a $4.0\,\text{m 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A piece of ice falls vertically on the icy surface of a lake and breaks into three pieces that slide away parallel to the surface of the lake, as outlined in a figure depicting the situation from above.
+A piece of ice falls vertically onto the frozen surface of a lake and shatters into three pieces that shoot away parallel to the surface of the lake, as schematized in the figure that represents the situation seen from above.
 
-If the largest piece of $4.0\,\text{kg}$ starts moving at $4.0\,\text{m s}^{-1}$, at what speed do the two smaller pieces, both of $2.0\,\text{kg}$, leave?
+If the largest piece, of $4.0\,\text{kg}$, begins to move at $4.0\,\text{m s}^{-1}$, at what speed do the two smaller pieces, both of $2.0\,\text{kg}$, start off?
 
 - **A.** $4.1\,\text{m s}^{-1}$
 - **B.** $4.9\,\text{m s}^{-1}$
@@ -1774,14 +1609,9 @@ If the largest piece of $4.0\,\text{kg}$ starts moving at $4.0\,\text{m s}^{-1}$
 - **E.** $9.8\,\text{m s}^{-1}$
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p8_f10.png]]
-Top view of ice fragment splitting into three pieces
+*Top view of ice fragment splitting into three pieces*
 <!--fig:end-->
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1810,21 +1640,16 @@ Quando la macchina parte con un'accelerazione di $2.0\,\text{m s}^{-2}$, la forz
 
 <div class="qlang-split" data-lang="en"></div>
 
-A vehicle of $1200\,\text{kg}$ mass shall tow a trailer of $700\,\text{kg}$ mass along a straight road in the plain.
+A car of mass $1200\,\text{kg}$ must tow a trailer that has a mass of $700\,\text{kg}$ along a straight road on flat ground.
 
-When the car starts at $2.0\,\text{m s}^{-2}$, the force exerted on the car by the trailer shall be:
+When the car starts with an acceleration of $2.0\,\text{m s}^{-2}$, the force that the trailer exerts on the car is
 
 - **A.** $0\,\text{N}$
 - **B.** $700\,\text{N}$
 - **C.** $1400\,\text{N}$
 - **D.** $2400\,\text{N}$
 - **E.** $3800\,\text{N}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of measures to combat the use of the 'sustainable energy' technology.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -1926,11 +1751,11 @@ Tra le 5 coppie di grafici che mostrano rispettivamente la distanza percorsa (in
 
 <div class="qlang-split" data-lang="en"></div>
 
-Of the 5 pairs of graphs showing the distance traveled (up) and the speed (down) of a moving object, which one correctly describes the case where the result of the forces applied to the body is zero?
+Among the 5 pairs of graphs that respectively show the distance traveled (top) and the velocity (bottom) of a moving object, which one correctly describes the case in which the net force applied to the body is zero?
 
 <!--fig:start-->
 ![[_attachments/1liv12T/1liv12T_p9_f11.png]]
-*Five pairs of position and speed graphs*
+*Five pairs of position and velocity graphs*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2005,15 +1830,10 @@ Of the 5 pairs of graphs showing the distance traveled (up) and the speed (down)
 </figure>
 
 
-The following table shows the data used for the calculation of the net force and time graph for accelerating object:
+*Net force vs time graph for accelerating object*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -2042,21 +1862,16 @@ Quanto è alta l'immagine dello studente sullo schermo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A high student $1.6\,\text{m}$ stands at $5.0\,\text{m}$ from a convergent lens; this forms an image of him on a screen placed at $50\,\text{cm}$ above the lens.
+A student $1.6\,\text{m}$ tall is standing at $5.0\,\text{m}$ from a converging lens; this forms an image of him on a screen placed at $50\,\text{cm}$ beyond the lens.
 
-How high is the student's image on the screen?
+How tall is the image of the student on the screen?
 
 - **A.** $0.016\,\text{m}$
 - **B.** $0.16\,\text{m}$
 - **C.** $0.80\,\text{m}$
 - **D.** $1.6\,\text{m}$
 - **E.** $8.0\,\text{m}$
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -2085,21 +1900,16 @@ Quanto vale l'intensità del campo magnetico?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A long $\ell = 20\,\text{cm}$ conductive rod is moved at $v = 3.0\,\text{m s}^{-1}$ speed in a direction perpendicular to its length. For the presence of a uniform magnetic induction field perpendicular to both the bar and the direction of motion, a D.D.P. may be measured. between the heads of the bar, $\Delta V = 12\,\text{mV}$.
+A conducting rod of length $\ell = 20\,\text{cm}$ is moved at speed $v = 3.0\,\text{m s}^{-1}$ in a direction perpendicular to its length. Due to the presence of a uniform magnetic induction field, perpendicular to both the rod and the direction of motion, a potential difference can be measured between the ends of the rod, $\Delta V = 12\,\text{mV}$.
 
-What's the magnets of the magnetic field?
+What is the magnitude of the magnetic field?
 
 - **A.** $180\,\text{mT}$
 - **B.** $20\,\text{mT}$
 - **C.** $18\,\text{mT}$
 - **D.** $13\,\text{mT}$
 - **E.** $7.2\,\text{mT}$
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -2128,21 +1938,16 @@ Qual è il tempo di dimezzamento (detto anche emivita) di quell'isotopo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A sample of a radioactive isotope of $16\,\text{g}$ is taken to a medical laboratory. After $6$ hours, it is observed that the $12\,\text{g}$ of the sample has decayed.
+A sample of a radioactive isotope of $16\,\text{g}$ is brought into a medical laboratory. After $6$ hours, it is observed that $12\,\text{g}$ of the sample have undergone decay.
 
-What is the half-life of that isotope?
+What is the half-life (also called half-life) of that isotope?
 
-- **A ** $12$ hours
-- **B ** $6$ hours
-- **C ** $4$ hours
-- **D ** $3$ hours
+- **A.** $12$ hours
+- **B.** $6$ hours
+- **C.** $4$ hours
+- **D.** $3$ hours
 - **E.** $2$ hours
-**Topic:** [[Nuclear & Particle Physics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)
 
 
 
@@ -2171,18 +1976,13 @@ Nell'istante $t = 4.0\,\text{s}$ la velocità dell'oggetto è circa:
 
 <div class="qlang-split" data-lang="en"></div>
 
-An object with a mass of $2.0\,\text{kg}$ is accelerated from a stationary point. The figure shows the resulting force as a function of time.
+An object with a mass of $2.0\,\text{kg}$ is accelerated starting from rest. The figure shows the magnitude of the resultant force as a function of time.
 
-In the instant $t = 4.0\,\text{s}$ the object speed is approximately:
+At the instant $t = 4.0\,\text{s}$ the velocity of the object is approximately:
 
 - **A.** $2.2\,\text{m s}^{-1}$
 - **B.** $3.5\,\text{m s}^{-1}$
 - **C.** $5.8\,\text{m s}^{-1}$
 - **D.** $7.0\,\text{m s}^{-1}$
 - **E.** $11\,\text{m s}^{-1}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1fpZDd5sMUEiqtivfFU0cMbzTGmxxyiBs/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1DWOZC8KXcwF5Gwo7Xw-bAWWIX71GnO1q/view)

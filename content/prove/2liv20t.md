@@ -832,49 +832,26 @@ di Monza?
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-Oval of Monza
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Monza Motor Speedway was formed, until the years
-60 of the last century, from two lanes: the road circuit, still used for the grand prix, and an oval track, now disused, with two curves raised
-with a slope of not more than 50 mm
-equal to 80% in the outermost part (remember that
-slope is the tangent value of the angle of
-The slope of the line shall be: $\text{tg}\ \alpha = 0.8$.
-You think of yourself as a machine in the whole problem.
-The following is the list of the following:
-external where the radius of curvature is $r = 320$ m .
-Two further highly simplifying indications follow: any aerodynamic force perpendicular to the road surface due to axles or similar structures is ignored and any consideration of the road surface is ignored.
-the time applied and the possibility of turning the machine over.
-When a car is facing a curve, the required centrifugal acceleration is usually given by the single
-The lateral thrust exerted by the friction between the tyres and the asphalt on the centre; the raised curves allow for
-The Commission will also be able to take the necessary measures to reduce or eliminate this need.
-1. At what constant speed a machine should travel the curve above it so that the friction between the
-Does the tyre and asphalt have a side component, i.e. perpendicular to the direction of the motorcycle?
-At speeds other than this, since the normal ground reaction determines the maximum force of friction, the two components of the friction  in the direction of the velocity and normal to this  are not independent;
-However, under the conditions of this problem a good estimate of the required size in the next point is
-The speed of the friction component is also neglected.
-2. In doing so, it determines, based on the static friction coefficient between the wheels and the asphalt and other data,
-aexpression for the maximum speed of the curve without the wheels slipping laterally, and
-The value of the product shall be calculated with a static friction coefficient of 0.9.
-3. The speed shall be determined by the static friction coefficient between the wheels and the asphalt and other data.
-The minimum curve path without the wheels sliding laterally, and the value is calculated with a
-The coefficient of static friction is 0.9.
-Consider now that race car tyres often have asphalt friction coefficient values
-greater than 1.
-4. In addition to what the friction coefficient value would be there would be no speed limits on the above-mentioned
-- What about Monza?
+Monza Oval
+Points 20
+Until the 1960s, the Monza Autodromo consisted of two tracks: the road circuit, still used for grand prix, and an oval track, now disused, with two banked curves having a slope that reaches a maximum value equal to 80% in the outermost part (recall that the slope is the value of the tangent of the angle of inclination with respect to the horizontal: $\text{tg}\ \alpha = 0.8$).
+Throughout the problem, consider a car that travels the banked curve at constant speed, staying at the same height in the outermost part where the radius of curvature is $r = 320$ m.
+Then follow two further strongly simplifying indications: neglect any aerodynamic force perpendicular to the road surface, due to wings or similar structures, and disregard any consideration related to applied torques and the possibility of the car overturning.
+When a car takes a curve, the necessary centripetal acceleration is usually provided by the lateral thrust alone that friction between the tires and the asphalt exerts on the vehicle; banked curves make it possible to reduce or completely eliminate this need.
+1. At what constant speed should a car travel the banked curve so that friction between tires and asphalt has no lateral component, that is, perpendicular to the direction of motion?
+At speeds different from this one, since the normal reaction of the ground determines the magnitude of the maximum friction force, the two components of friction – in the direction of the velocity and normal to it – are not independent;
+however, under the conditions of this problem a good estimate of the quantity required in the next point is also obtained by neglecting entirely the friction component parallel to the velocity.
+2. Proceeding in this way, determine, as a function of the coefficient of static friction between the wheels and the asphalt and of the other data, an expression for the maximum speed at which the curve can be traveled without the wheels sliding sideways, and calculate its value with a coefficient of static friction equal to 0.9.
+3. Determine, as a function of the coefficient of static friction between the wheels and the asphalt and of the other data, the minimum speed at which the curve can be traveled without the wheels sliding sideways, and calculate its value with a coefficient of static friction equal to 0.9.
+Consider now that the tires of racing cars often have values of the coefficient of friction with the asphalt greater than 1.
+4. Above what value of the coefficient of friction would there be no limit to the maximum speed on the banked curves of Monza?
 
 <!--fig:start-->
 ![[_attachments/2liv20T/2liv20T_p7_f9.png]]
-*Oval of Monza elevated circuit*
+*Monza oval banked circuit*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
 
 
 
@@ -907,23 +884,16 @@ di $m_r$ e $m_v$.
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-Other, of a kind used for the manufacture of goods
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A lattice is illuminated perpendicular to the light from a gaseous source. They're watching themselves.
-a red line ($\lambda_r = 660$ nm) at an angle $\theta_r = 26.1^\circ$ to the lattice axis and a green line ($\lambda_v = 536$ nm)
+Diffraction grating
+20 points
+A diffraction grating is illuminated perpendicularly with light coming from a gas source. A red line ($\lambda_r = 660$ nm) is observed at an angle $\theta_r = 26.1^\circ$ with respect to the axis of the grating and a green line ($\lambda_v = 536$ nm)
 at an angle $\theta_v = 32.4^\circ$.
-1. The $m_v/m_r$ ratio is calculated between the orders of the spectra to which the red line belongs and the green line.
-2. Taking into account that no radiation is observed between the two angles indicated, the values are determined
-di $m_r$ e $m_v$.
-3. What's the grid's pace?
-4. What's the highest order you can see a red line with that grid?
+1. Calculate the ratio $m_v/m_r$ between the orders of the spectra to which the red line and the green line belong.
+2. Taking into account the fact that between the two indicated angles no radiation is observed, determine the values of $m_r$ and $m_v$.
+3. What is the spacing of the grating?
+4. What is the maximum order at which a red line can be observed with that grating?
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
 
 
 
@@ -1062,21 +1032,17 @@ punto della sua superficie.
 
 P3
 A theoretical field
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-Fixed a system of orthogonal Cartesian coordinates of origin O and lines $(\hat{\imath}, \hat{\jmath}, \hat{k})$, in a region around
-Or consider the non-uniform electrostatic field $\vec{E}$, the three components of which depend on the coordinates $x, y, z$
-of point P as follows:
-$$\vec{E}(P) = \vec{E}(x, y, z) = E_0 \left[ (ax^3 + bx)\hat{\imath} + (by)^2\hat{\jmath} + (b\ell)^2\hat{k} \right]$$
-with
+Points 10
+Given an orthogonal Cartesian coordinate system with origin O and unit vectors $(\hat{\imath}, \hat{\jmath}, \hat{k})$, in a region around O consider the non-uniform electrostatic field $\vec{E}$, whose three components depend on the coordinates $x, y, z$ of the point P in this way:
+$$\vec{E}(P) = \vec{E}(x, y, z) = E_0 \left[ (ax^3 + bx)\hat{\imath} + (by)^2\hat{\jmath} + (b\ell)^2\hat{k} \right]$$ with
 $E_0 = 150\ \text{V m}^{-1}$,
 $a = 3.5\ \text{m}^{-3}$,
 $\ell = 1$ m ;
-In other words, the components of the field e.s. sono $E_x = E_0 (ax^3 + bx)$; $E_y = E_0 (by)^2$; $E_z = E_0 (b\ell)^2$ .
-1. Posto $A=(0, 0, \ell)$ e sapendo che la d.d.p. $V(O)-V(A) = \Delta V = 216\ \text{V}$, determine the value of the parameter $b$.
-2. The $\vec{E}(B)$ form is calculated in $B=(\ell, \ell, \ell)$.
-Consider a cubic volume of center O, with faces perpendicular to the Cartesian axis and such that A is a
-point on its surface.
-3. Determine the amount of electrical charge present within that cube.
+in other words, the components of the e.s. field are $E_x = E_0 (ax^3 + bx)$; $E_y = E_0 (by)^2$; $E_z = E_0 (b\ell)^2$ .
+1. Setting $A=(0, 0, \ell)$ and knowing that the potential difference $V(O)-V(A) = \Delta V = 216\ \text{V}$, determine the value of the parameter $b$.
+2. Calculate the magnitude of $\vec{E}(B)$ at the point $B=(\ell, \ell, \ell)$.
+Consider a cubic volume centered at O, with faces perpendicular to the Cartesian axes and such that A is a point on its surface.
+3. Determine the amount of electric charge present within this cube.
 4. What is the charge density at point O?
 <!--fig:start-->
 
@@ -1174,15 +1140,10 @@ point on its surface.
 </figure>
 
 
-*circuito batterie condensatori C1 C2*
+*circuit batteries capacitors C1 C2*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
 
 
 
@@ -1225,28 +1186,13 @@ durante la carica del condensatore 1?
 
 P4
 If the battery is small
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-Pierino has a capacitor $C_1 = 1\ \text{mF}$ (1 in Figure) which must be
-be loaded to the D.D.P. $V_1 = 24\ \text{V}$, ma ha a disposizione solo 2 batterie,
-One with f.e.m. $E_1 = 6\ \text{V}$, the other with f.e.m. $E_2 = 2 E_1$, together with numerous
-Other capacitors of various capacities, up to a maximum of 10 times $C_1$. Le
-batteries can be considered as ideal f.e.m. generators.
-After thinking about it for a while, he decided to get another capacitor.
-of any capacity $C_2$ (2 in figure) to charge it with the first battery at the
-d.d.p. $E_1 = 6\ \text{V}$, and with the series consisting of two batteries and the capacitor
-2 just loaded, load the first capacitor, as shown in Figure 2,
-dato che $E_1 + E_2 + E_1 = 4 E_1 = V_1$ .
-Unfortunately, Pierino soon realizes that his method is not working.
-1. The resulting effect is that the current of the electrical circuit is not enough to produce the electrical energy. the capacitor heads 1 are
-less than 24 V .
-Pierino then thinks he's going to use both batteries to charge capacitor 2 initially.
-2. What must be the capacity of capacitor 2 to achieve the purpose?
-3. Suppose you charge capacitor 2 this way, what is the energy dissipated by Joule effect
-During the charge of capacitor 1?
+10 points
+Pierino has a capacitor of capacitance $C_1 = 1\ \text{mF}$ (1 in the figure) that must be charged to a potential difference $V_1 = 24\ \text{V}$, but he only has 2 batteries available, one with electromotive force $E_1 = 6\ \text{V}$, the other with electromotive force $E_2 = 2 E_1$, along with numerous other capacitors of various capacitances, up to a maximum of 10 times $C_1$. The batteries can be considered ideal electromotive force generators.
+After thinking about it for a while, he decides to take another capacitor of any capacitance $C_2$ (2 in the figure), charge it with the first battery to the potential difference $E_1 = 6\ \text{V}$, and with the series consisting of the two batteries and the just-charged capacitor 2, charge the first capacitor, as shown in the figure, given that $E_1 + E_2 + E_1 = 4 E_1 = V_1$ .
+Unfortunately, Pierino immediately realizes that his method does not work.
+1. Prove, in fact, that with this circuit, once equilibrium is reached, the potential difference across capacitor 1 is less than 24 V .
+Pierino then thinks of using both batteries to initially charge capacitor 2.
+2. What must the capacitance of capacitor 2 be to achieve the goal?
+3. Assuming capacitor 2 has been charged in this way, what is the energy dissipated as Joule heating during the charging of capacitor 1?
 
-**Topic:** [[Circuits]], [[Conservation of Energy]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1jMJwbjSWVn10SwdC3e6vg6469XXwV6id/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AoE8KtHnggqduPQnAW3_Hz7BEZDh3AiJ/view)

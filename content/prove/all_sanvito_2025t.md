@@ -31,18 +31,13 @@ Marco ha un orologio molto particolare: la lancetta che segna l'ora ruota in sen
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to ensure that the Commission is able to take appropriate measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented.
+**Back to the future**
 
-Mark has a very special watch: the time-marking handle rotates counterclockwise, while the minute clock rotates normally. If, at a certain moment, the two hands are perfectly overlapping, how long before they align again?
+Marco has a very particular clock: the hand that indicates the hour rotates counterclockwise, while the minute hand rotates normally. If, at a certain instant, the two hands are perfectly overlapping, after how much time will they realign again?
 
-The following shall be added to the list of the units: The following information is provided:
+*Unit of measurement:* s. *Required precision:* 0.5%.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
 
 
 
@@ -160,24 +155,18 @@ Antonio vuole lanciare una palla di gomma a Bruno, che abita tre piani sotto di 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Gioco di rimbalzi**
+**Bouncing game**
 
-Antonio wants to throw a rubber ball at Bruno, who lives three floors below him. Quindi decide di sfruttare la parete del palazzo accanto, parallela a quella del suo palazzo e distante $4.3\ \text{m}$ da essa. The configuration is outlined in Figure, where the $A$ window is Antonio's, while the $B$ window is Bruno's. The windows are $120\ \text{cm}$ high and the window sizes of $A$ and $B$ differ from $8.35\ \text{m}$. Tenendo conto che sulla parete di fronte è presente una terza finestra $C$, anch'essa aperta, posta $2.75\ \text{m}$ più in basso di $A$ e di uguali dimensioni, quanto vale il minimo valore del modulo della velocità di lancio per cui la palla riesce a entrare in casa di Bruno? The ball must be thrown from the window sill and in a horizontal direction. The impact on the walls can be considered perfectly elastic.
+Antonio wants to throw a rubber ball to Bruno, who lives three floors below him. So he decides to use the wall of the adjacent building, parallel to that of his building and $4.3\ \text{m}$ away from it. The configuration is schematized in the figure, where window $A$ is Antonio's, while window $B$ is Bruno's. The windows are $120\ \text{cm}$ high and the heights of their sills $A$ and $B$ differ by $8.35\ \text{m}$. Taking into account that on the opposite wall there is a third window $C$, also open, placed $2.75\ \text{m}$ lower than $A$ and of equal dimensions, what is the minimum value of the launch speed modulus for which the ball manages to enter Bruno's house? The ball must be thrown from the window sill and in the horizontal direction. The collisions with the walls can be considered perfectly elastic.
 
-
-*Unità di misura:* m/s. *Precisione richiesta:* 0.5%.
+*Unit of measurement:* m/s. *Required precision:* 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p3_f2.png]]
-*two parallel walls of windows A B C bounce*
+*two parallel walls windows A B C bounce*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
 
 
 
@@ -254,24 +243,18 @@ Un cilindro di raggio di base $r$ viene posto su due blocchi cubici identici di 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Troppo stabili**
+**Too stable**
 
-A cylinder of base radius $r$ is placed on two identical cubic blocks of side $l$ and mass $m$, at a distance $d = r$ from each other, as shown in Figure 1. There is friction between the cubes and the floor, while the cylinder is not affected by any friction. Con sorpresa, si nota che il sistema rimane in equilibrio qualsiasi sia la massa $M$ del cilindro. What is the minimum value of the static friction coefficient between the cubes and the floor that makes this possible?
+A cylinder with base radius $r$ is placed on two identical cubic blocks with side $l$ and mass $m$, at a distance $d = r$ from each other, as shown in the figure. There is friction between the cubes and the floor, while the cylinder experiences no friction. Surprisingly, it is observed that the system remains in equilibrium regardless of the mass $M$ of the cylinder. What is the minimum value of the coefficient of static friction between the cubes and the floor that makes this possible?
 
-
-*Unità di misura:* adimensionale. *Precisione richiesta:* 0.5%.
+*Units:* dimensionless. *Required precision:* 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p4_f3.png]]
-*cylinder on two cubes d=r*
+*cylinder on two cubes at distance d=r*
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
 
 
 
@@ -534,28 +517,22 @@ Dal bocchettone di un pozzo artesiano, avente apertura circolare di raggio $7.5\
 
 <div class="qlang-split" data-lang="en"></div>
 
-**In quel di San Vito**
+**In San Vito**
 
-From the nozzle of an artesian well, with a circular aperture of $7.5\ \text{mm}$ radius, a flow of water of $5.4\ \text{l/min}$ flow is produced. Vogliamo porre sotto il rubinetto una rete a maglie quadrate, di lato $6\ \text{mm}$, che non disturbi il flusso dell'acqua, come schematizzato in figura. Assuming the resistance of the air and the viscosity of the water are negligible, what is the minimum vertical distance that must be between the mouth of the tap and the grill?
+From the mouth of an artesian well, having a circular opening of radius $7.5\ \text{mm}$, a water flow with a flow rate of $5.4\ \text{l/min}$ comes out. We want to place under the tap a square-mesh net, with side $6\ \text{mm}$, that does not disturb the water flow, as schematized in the figure. Assuming the air resistance and the viscosity of the water to be negligible, what is the minimum vertical distance that must be between the mouth of the tap and the grid?
 
-
-*Unità di misura:* m. *Precisione richiesta:* 0.5%.
+*Unit of measurement:* m. *Required precision:* 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p6_f6.png]]
-*water tap water net square mesh *
+*water jet tap square-mesh net*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/all_sanvito_2025t/all_sanvito_2025t_p6_f7.png]]
-*orbita iperbolica asteroide pianeta parametro b*
+*hyperbolic orbit asteroid planet parameter b*
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1P-zj6ceZswp7OlBy5G70UjjWvjNOZSGu/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AOnhGEpkg8t6PC2D_FsvqkcXd9Q40xHg/view)
 
 
 

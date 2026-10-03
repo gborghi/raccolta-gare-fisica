@@ -673,18 +673,13 @@ An electron moving with speed of 0.1% speed of light enters a uniform magnetic f
 
 <div class="qlang-split" data-lang="it"></div>
 
-Un elettrone che si muove a velocità dello 0,1% della velocità della luce entra in un campo magnetico uniforme di resistenza 2,5 gauss all'angolo 60°. Calcolare il numero di giri a propulsore che richiede per un movimento di 1 km.
+Un elettrone che si muove con velocità pari allo 0,1% della velocità della luce entra in un campo magnetico uniforme di intensità 2,5 gauss con un angolo di 60°. Calcola il numero di giri elicoidali che compie percorrendo una distanza di 1 km.
 
-- (a) 20000 to 22000
-- (b) 22000 to 25000
-- (c) 30000 to 32000
-- (d) 45000 to 47000
+- (a) da 20000 a 22000
+- (b) da 22000 a 25000
+- (c) da 30000 a 32000
+- (d) da 45000 a 47000
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/10Wf_W59ZtbUGInFDB_4tIaLvo1zXUx29/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Cg8dQKQOMZeyp9k0XNUpxGZds5Flnf55/view)
 
 

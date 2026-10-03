@@ -280,35 +280,22 @@ Porta le ruole
 
 <div class="qlang-split" data-lang="en"></div>
 
-3) Place the handle above the
-the rule, hang the spring and
-Finally, the trailhead.
-Note: if you think that the
-system became very unstable, use the
-Tape crepe to fix the base on the
-laboratory table (see next).
+3) Place the clip above the ruler, hang the spring and finally, the washer holder.
+Note: if you find that the system has become too unstable, use the masking tape to fix the base to the laboratory table (see beside).
 4
 
-Experiment I
+EXPERIMENT I
 
-To avoid a systematic error due to the construction of the spring, place
-first the other rod as shown next to it and swipe the first rod
-in the rod such that the lower part of the gateway is equal to the value
-5 cm from the ruler. Next, put a rubella in the cartridge and write down the value
-the displacement obtained in Experimental Data Registry I. For the record,
-We put a water pen in the experimental set that can scratch the
-plastic rule. The mass of each row has been determined in advance and is shown in
-Table 1 on the cover of the test. Repeat the procedure by adding 1 root until
-hit four rounds.
+To avoid a systematic error due to the construction of the spring, initially place the other clip as shown in the figure beside and slide the first clip on the rod in such a way that the lowest part of the washer holder coincides with the value of 5.0 cm on the ruler. Next, place a washer in the washer holder and record the value of the displacement obtained in Experimental Data Record I. For greater precision, we have placed in the experimental set a felt-tip pen that can mark the plastic ruler. The mass of each washer was previously determined and is given in
+TABLE 1 on the cover of the exam. Repeat the procedure adding 1 washer, until reaching 4 washers.
 
-The data shall be recorded in the data set.
+Experimental Data Record I
 
-Amount of
-Other articles of heading No.
-Position of the bottom of the railing door (in m)
-2nd prey +
-Bring the rules
-0,05
+Number of washers
+Position of the lower part of the washer holder (in m)
+2nd clip +
+Washer holder
+0.05
 1
 
 2
@@ -318,52 +305,33 @@ Bring the rules
 4
 5
 
-The Commission has already decided to take a decision.
+EXPERIMENT II
 
-In the next photo, we see two springs in series. You have to slide the handle until the lower part of the gateway
-corresponds to the value of the 5 cm rule. Put the four rows in the gateway and write down their movement in the Data Registry
-The following is the list of the following:
+In the photo beside we observe two springs in series. You have to slide the clip until the lowest part of the washer holder coincides with the value of 5.0 cm on the ruler. Place the 4 washers in the washer holder and record their displacement in Experimental Data Record II.
 
-Registration of experimental data II
+Experimental data record II
 
-Amount of
-Other articles of heading No.
-Position of the party
-The following conditions shall apply:
-(em m)
-Weight of the rows
-(em kg)
-2nd prey +
-Bring the rules
-0,05
+Number of washers
+Position of the lower part of the washer holder (in m)
+Weight of the washers (in kg)
+2nd clip +
+Washer holder
+0.05
 -
 4
 6
 
-The Commission has already decided to take a decision.
+EXPERIMENT III
 
-In the next photo we see two springs in parallel. To mount this
-Experiment put the handle in the position that binds the papers and hang a spring
-on either side. At the bottom of the springs place the two sleeves of each other
-The first is that the man must be able to keep the water at his disposal, in the free hooks of the springs, and at the same time hold the water.
-The carrier. The photo next to it sheds light on the new assembly. Slide the handle on the stick
-until the value of the 7.0 cm of the rule coincides with the lower part of the gateway.
-Make sure there is no friction between the spring and the rule hang the four rows and
-record their displacement in the Experimental Data Registry III.
+In the photo beside, we observe two springs in parallel. To set up this experiment, place the clip in the position that holds the papers and hang one spring on each of the sides. On the lower part of the springs, place the two loops of another clip at your disposal, on the free hooks of the springs, and at the same time attach the washer holder. The photo beside clarifies the new setup. Slide the clip on the rod until the value of 7.0 cm on the ruler coincides with the lowest part of the washer holder.
+Be careful that there is no friction between the spring and the ruler. Hang the 4 washers and record their displacement in Experimental Data Record III.
 
-The data shall be recorded in the data set.
+Experimental data record III
 
-With these notes, go to the Resolution Book to answer the questions.
-Amount of rows
-Position of the bottom of the
-The following conditions shall apply:
-2nd prey +
-Bring the rules
-0,07
+With these data recorded, go to the Resolution Notebook to answer the questions.
+Number of washers
+Position of the lower part of the washer holder (in m)
+2nd clip +
+Washer holder
+0.07
 4
-
-**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1iLewBiOUnGlNo9qaZKVkNv2sl1wPZUXM/view)

@@ -689,44 +689,30 @@ macchina di Carnot che operi fra le stesse temperature.
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-The Problems of Paul
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Part A: Sprinkler cork.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-On the $(x, y)$ plane two points $A(x_A, y_A)$ and $B(x_B, y_B)$ connected by an elastic constant spring $k$ are given; and
-the length of rest is zero.
-1. Write the expression of the force applied to the $B$ point in terms of the position vectors $\vec{r}_A$ and $\vec{r}_B$ of the two points
-the origin of the coordinates, in vector form or in terms of vector components.
-Four points, $P_1$, $P_2$, $P_3$ and $P_4$, are fixed each on the vertical of one of the four consecutive vertices of a
-quadrato di lato $\sqrt{2}\,b$, a quote rispettivamente $h_1$, $h_2$, $h_3$, $h_4$. A material point $P$ is connected to the previous
-four with four identical springs of negligible mass and length at rest.
-2. Fixed an orthogonal Cartesian reference originating in the centre of the square and with the axes $x$ and $y$
-Aligned with the diagonal of the square, write the position vectors $\vec{r}_1$, $\vec{r}_2$, $\vec{r}_3$, $\vec{r}_4$ and $\vec{r}$ of the points $P_1$, $P_2$, $P_3$, $P_4$
-e $P$.
-3. Determine the $h_0$ at which the material point $P$ is in equilibrium under the action of elastic forces.
+Paolo's problems
+Points 25
+Part A: Tangled springs.
+[Points 8]
+On plane $(x, y)$ two points $A(x_A, y_A)$ and $B(x_B, y_B)$ are given, connected by a spring with spring constant $k$ and zero rest length.
+1. Write the expression of the force applied to point $B$ as a function of the position vectors $\vec{r}_A$ and $\vec{r}_B$ of the two points with respect to the origin of coordinates, in vector form or in terms of the components of the vectors.
+Four points, $P_1$, $P_2$, $P_3$ and $P_4$, are each fixed on the vertical through one of the four consecutive vertices of a square of side $\sqrt{2}\,b$, at heights respectively $h_1$, $h_2$, $h_3$, $h_4$. A point mass $P$ is connected to the previous four by four identical springs having negligible mass and zero rest length.
+2. Having fixed an orthogonal Cartesian reference frame with origin at the center of the square and with the axes $x$ and $y$ aligned with the diagonals of the square, write the position vectors $\vec{r}_1$, $\vec{r}_2$, $\vec{r}_3$, $\vec{r}_4$ and $\vec{r}$ of the points $P_1$, $P_2$, $P_3$, $P_4$ and $P$.
+3. Determine the height $h_0$ at which the point mass $P$ is in equilibrium under the action of the elastic forces.
 ———————————
-Part B: Run with the wind.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Giovanni sta correndo verso Est a $15\ \text{km/h}$ e sente venire il vento da Sud-Est. If you slow down and run at $8\ \text{km/h}$ you hear
-The wind is coming from the south.
-• Determine the wind intensity relative to the ground and the angle between the wind direction and the east direction.
+Part B: Running with the wind.
+[Points 8]
+Giovanni is running East at $15\ \text{km/h}$ and feels the wind coming from the South-East. If he slows down and runs at $8\ \text{km/h}$ he feels the wind coming from the South.
+• Determine the speed of the wind relative to the ground and the angle between the direction of the wind and the East direction.
 ———————————
 Part C: Heat engine.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A heat engine operates with a heat source at $T_c = 100\ ^\circ\text{C}$ and has as coolant
-a block of ice, $25\ \text{kg}$, at a temperature of $T_f = 0\ ^\circ\text{C}$.
-1. How much heat does it take to provide the ice block to melt it completely?
-The machine develops a mechanical power $P = 40\ \text{W}$ with a yield equal to $50\ \%$ of that of a
-Carnot's machine that operates at the same temperature.
-2. How long can the machine run before the ice is completely melted?
+[Points 9]
+A heat engine operates with a heat source at temperature $T_c = 100\ ^\circ\text{C}$ and has as its coolant a block of ice, of $25\ \text{kg}$, at temperature $T_f = 0\ ^\circ\text{C}$.
+1. How much heat is necessary to supply to the block of ice to melt it completely?
+The engine develops a mechanical power $P = 40\ \text{W}$ with an efficiency equal to $50\ \%$ of that of a Carnot engine operating between the same temperatures.
+2. For how long can the engine operate before the ice is completely melted?
 ———————————
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1kRdB-HLl_WkPcD-T54UAf1-zoE5b-WHy/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iwg6bCTCjmJmwBV-wUW6g3zog_oBtpT3/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iwg6bCTCjmJmwBV-wUW6g3zog_oBtpT3/view)
 
 
 
@@ -762,24 +748,16 @@ sempre $\Delta V$ costante.
 
 P2
 Energy stored in a capacitor
-The Commission shall adopt implementing acts in accordance with Article 15 of this Regulation.
-The frames of a flat capacitor, square-faced $A$ area, are maintained at a difference of
-di potenziale costante $\Delta V$ . There's no dielectric between the two frames. The distance $d$ between the frames
-può variare, restando comunque molto minore di $\sqrt{A}$.
+15 points
+The plates of a parallel-plate capacitor, with square faces of area $A$, are kept at a constant potential difference $\Delta V$. There is no dielectric between the two plates. The distance $d$ between the plates can vary, while remaining in any case much smaller than $\sqrt{A}$.
 Write the answers in terms of the given quantities and the necessary constants.
-1. The force with which one armor attracts the other is calculated.
-Holding the first armor firm, the second is slowly moved from $d$ to $2d$, while
-sempre $\Delta V$ costante.
+1. Calculate the force with which one plate attracts the other.
+Holding the first plate fixed, the second is brought slowly from distance $d$ to distance $2d$, always keeping $\Delta V$ constant.
 2. Calculate the change in internal energy in the capacitor.
-3. The work performed during the process is calculated by the external force acting on the second armor.
+3. Calculate the work done during the process by the external force acting on the second plate.
 ———————————
 
-**Topic:** [[Electrostatics]], [[Conservation of Energy]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1kRdB-HLl_WkPcD-T54UAf1-zoE5b-WHy/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iwg6bCTCjmJmwBV-wUW6g3zog_oBtpT3/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iwg6bCTCjmJmwBV-wUW6g3zog_oBtpT3/view)
 
 
 
@@ -816,24 +794,12 @@ determinare lo spessore della lamina.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Measurement of thickness
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The thickness $s$ of a thin sheet of a transparent material of an index of
-rifrazione $n = 1.48$ .
-To do this, the sheet is placed in front of one of the two parallel slits of an appliance for the
-I'm not sure. The two fissures are $d \gg s$ apart, and radiation from the medium is applied to them.
-Infrared wavelength $\lambda = 10\ \mu\text{m}$ .
-1. Determine the expression of the time lag with which the waves emitted by the cracks reach
-perpendicularly a screen placed at a great distance, $D$.
-2. Determine the displacement of the central maximum of the interference figure, relative to the position that
-In the absence of the sheet, the direction of displacement shall also be indicated, depending on the cracking
-It's covered in a sheet of paper.
-3. If the two positions of the central maximum (with or without the sheet) have $N = 12$ interference maximum,
-determine the thickness of the sheet.
+Thickness measurement
+20 points
+We want to determine the thickness $s$ of a thin sheet of a transparent material with refractive index $n = 1.48$ .
+To do this, the sheet is placed in front of one of the two parallel slits of an apparatus for Young's experiment. The two slits are at a distance $d \gg s$ from each other, and radiation in the mid-infrared with wavelength $\lambda = 10\ \mu\text{m}$ is incident on them.
+1. Determine the expression for the temporal phase shift with which the waves emitted by the slits reach perpendicularly a screen placed at a great distance, $D$.
+2. Determine the displacement of the central maximum of the interference pattern, relative to the position it would have in the absence of the sheet, also indicating the direction of the displacement depending on which slit is covered by the sheet.
+3. If between the two positions of the central maximum (with and without the sheet) there are $N = 12$ interference maxima, determine the thickness of the sheet.
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1kRdB-HLl_WkPcD-T54UAf1-zoE5b-WHy/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iwg6bCTCjmJmwBV-wUW6g3zog_oBtpT3/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iwg6bCTCjmJmwBV-wUW6g3zog_oBtpT3/view)

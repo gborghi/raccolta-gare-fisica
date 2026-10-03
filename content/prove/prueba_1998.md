@@ -110,77 +110,51 @@ P
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1: Un tendone elettrico per le Olimpiadi
+Problema 1: Un elettrodotto… per le Olimpiadi
 
-Supponiamo che tu... È un funzionario del Ministero degli Opi pubblici che deve supervisionare
-un'importante impresa internazionale nella costruzione di una centrale idroelettrica di 600 MW
-di potenza. L'energia prodotta sarà utilizzata per rifornirsi in una città a 1000 km dal
-centrale. Come parte delle sue funzioni, lei Deve definire le caratteristiche della costruzione della
-La linea che trasporterà l'energia dovrà risolvere i problemi che si trovano in questo settore.
-sono dettagliate di seguito:
+Supponga di essere un funzionario del Ministero dei Lavori Pubblici che deve supervisionare un'importante azienda internazionale nella costruzione di una centrale idroelettrica di 600 MW di potenza. L'energia prodotta sarà utilizzata per rifornire una città distante 1000 km dalla centrale. Come parte delle sue funzioni, deve definire le caratteristiche della costruzione della linea che realizzerà il trasporto dell'energia; per questo dovrà risolvere i problemi che vengono dettagliati di seguito:
 
-a) Voltaggio di trasmissione:
+a) Tensione di trasmissione:
 
-L'energia sarà trasportata come corrente alternata a una frequenza di 50 Hz per mezzo di
-di un conduttore cilindrico di un diametro non superiore a 2,50 cm.
-Scegli tra due valori di tensione consentiti
-i) 220 V, cioè al valore che verrà utilizzato in città.
-(ii) 500 kV, se si deve utilizzare una stazione di riduzione di tensione per portare tale valore
-fino a quella di utilizzo di 220 V in città.
+L'energia sarà trasportata come corrente alternata con una frequenza di 50 Hz per mezzo di un conduttore cilindrico che non dovrà superare i 2,50 cm di diametro.
+Si dovrà scegliere tra due valori di tensioni consentite
+i) 220 V, cioè lo stesso valore che sarà utilizzato in città.
+ii) 500 kV, dovendosi ricorrere a una stazione di riduzione della tensione per portare questo valore fino a quello di utilizzazione di 220 V in città.
 
-Se la potenza dissipata nel trasporto non può superare il 12% del valore totale prodotto
-- al centro,
+Se la potenza dissipata nel trasporto non può superare il 12% del valore totale prodotto nella centrale,
 
-a1) sceglie il valore di tensione più adatto al trasporto. Giustifica la tua scelta
-a2) determina il diametro minimo del cavo che soddisfa la condizione sulla
-Potenza
-- Si dissipe.
+a1) scelga il valore della tensione più adeguato per il trasporto. Giustifichi la sua scelta a2) determini il diametro minimo del cavo che soddisfa la condizione sulla potenza dissipata.
 
-Supponi per i suoi calcoli che la resistenza elettrica del conduttore cilindrico può essere
-La formula di un'azione continua è un'azione di un'azione continua.
-corrente alternata. Questo approccio è molto grosso e si fa per semplificare il trattamento del
-- Non è un problema.
+Si supponga per i suoi calcoli che la resistenza elettrica del conduttore cilindrico si possa calcolare con le formule per la corrente continua trascurando così gli effetti pellicolari della corrente alternata. Questa è un'approssimazione molto grossolana e viene fatta per semplificare il trattamento del problema.
 
-b) Materiale del conducente utilizzato per il trasporto:
+b) Materiale del conduttore utilizzato per il trasporto:
 
-Per la volta scelta al punto a1), determinare il raggio minimo del conducente, se in
-invece di usare uno di rame, si usa uno di alluminio.
+Per la tensione scelta al punto a1), determini il raggio minimo del conduttore, se invece di utilizzarne uno di Rame, se ne utilizza uno di Alluminio.
 
-c) Altezza a cui devono essere posti i conducenti:
+c) Altezza alla quale devono essere collocati i conduttori:
 
-Poiché i conducenti che trasportano l'energia devono attraversare villaggi e
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le condizioni di trasporto di energia elettrica siano soddisfatte.
-con le norme internazionali che determinano che le persone e/o gli animali non possono essere
-esposti a campi magnetici (aggiunti a quelli terrestri) di intensità superiore a 0,5 Gauss.
-Determina l'altezza minima che i conducenti devono essere in modo da soddisfare
-con queste regole.
+Poiché i conduttori che trasportano l'energia devono attraversare centri abitati e campi con bestiame, è necessario che le condizioni di trasporto dell'energia elettrica rispettino le norme internazionali che stabiliscono che le persone e/o gli animali non possono essere esposti a campi magnetici (aggiuntivi a quello terrestre) la cui intensità superi i 0,5 Gauss.
+Determini l'altezza minima alla quale devono trovarsi i conduttori in modo tale da rispettare queste norme.
 
-d) Sezione a cui devono essere posizionate le colonne che sostengono i conducenti:
+d) Separazione alla quale devono essere collocati i pali che sostengono i conduttori:
 
-Un elemento importante che determina il costo dell'impianto è il numero di
-colonne necessarie per il tracciamento dei cavi. Considerando che la tensione meccanica a
-che possono essere sottoposti ai conducenti non deve superare il 4% della tensione meccanica massima
-che supporta il materiale, determina la distanza tra le colonne che devono essere separate
-sostengono i conducenti nei seguenti casi:
+Un elemento importante, che determina il costo dell'installazione, è il numero di colonne necessarie per la posa dei cavi. Tenendo conto che la tensione meccanica a cui possono essere sottoposti i conduttori non deve superare il 4% della tensione meccanica massima che il materiale sopporta, determinare la distanza alla quale devono essere separate le colonne che sostengono i conduttori nei seguenti casi:
 i) conduttori di rame;
-(ii) conduttori in alluminio.
+ii) conduttori di alluminio.
 
-Un modo semplice di affrontare la realizzazione di questi calcoli e che dà risultati
-sufficientemente precisi, è supporre che la configurazione di carico è tale che i cavi hanno tutto
-di peso concentrato al punto medio e formando un angolo di $5^\circ$ con la linea orizzontale, come
-mostra nella figura
+Un modo semplice per affrontare l'esecuzione di questi calcoli e che dà risultati sufficientemente precisi è supporre che la configurazione di carico sia tale che i cavi abbiano tutto il loro peso concentrato nel loro punto medio e che formino un angolo di $5^\circ$ con l'orizzontale, come mostrato nella figura
 
 Dati accessori
 
-Copro (Cu)
-Almine (Al)
+Rame (Cu)
+Alluminio (Al)
 Densità $(\delta)$ [$\text{kg/m}^3$]
 8940
 2702
-La resistenza $(\rho)$ [$\Omega$ m]
+Resistività $(\rho)$ [$\Omega$ m]
 $17{,}4\times10^{-9}$
 $28{.}2\times10^{-9}$
-Tensione meccanica massima [Mpa]
+Tensione Meccanica Massima [Mpa]
 300
 100
 
@@ -188,89 +162,56 @@ $\mu_0 = 4\pi\times10^{-7}$ Weber/(A m)
 1 Gauss $= 10^{-4}$ Weber/$\text{m}^2$
 1 Pa $= 1$ N/$\text{m}^2$
 $5^\circ$
-$5^\circ$
-r
+$5^\circ$ r
 P
-
-**Topic:** [[Circuits]], [[Magnetism]], [[Elasticity & Materials]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1QFVyqRlhfg1xzmFD6uyBsMwHGVsX_uA0/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problema 1: Un tendido eléctrico… para Olimpíadas
+Problem 1: A power line… for the Olympics
 
-Suppose you were. He's an official at the Ministry of Public Works who must supervise
-a major international company in the construction of a 600 MW hydroelectric power plant
-The power. The energy produced will be used to supply a city 1000 km from the
-Central. As part of your duties, you It must define the characteristics of the construction of the
-The Commission has already decided to adopt a proposal for a directive on the
-They are detailed below:
+Suppose you are an official of the Ministry of Public Works who must supervise an important international company in the construction of a 600 MW hydroelectric power plant. The energy produced will be used to supply a city 1000 km away from the plant. As part of your duties, you must define the characteristics of the construction of the line that will carry out the transmission of energy; for this, you must solve the problems detailed below:
 
-(a) Transmission voltage:
+a) Transmission voltage:
 
-The energy shall be carried as alternating current at a frequency of 50 Hz by means of
-a cylindrical driver not more than 2,50 cm in diameter.
-The voltage shall be between two values of voltages permitted.
-(i) 220 V, i.e. at the same value as will be used in the city.
-(ii) 500 kV, where a voltage-reduction station is used to carry this value
-up to the city's 220 V power station.
+The energy will be transmitted as alternating current with a frequency of 50 Hz by means of a cylindrical conductor that must not exceed 2.50 cm in diameter.
+You must choose between two allowed voltage values
+i) 220 V, that is, the same value that will be used in the city.
+ii) 500 kV, requiring a voltage step-down station to bring this value down to the utilization value of 220 V in the city.
 
-If the power dissipated in transport cannot exceed 12% of the total value produced
-at the power plant,
+If the power dissipated in transmission cannot exceed 12% of the total value produced in the plant,
 
-(a1) choose the voltage value most suitable for transport. Justify your choice
-(a2) determine the minimum diameter of the cable that satisfies the condition on the
-power
-I'm going to get lost.
+a1) choose the most suitable voltage value for transmission. Justify your choice a2) determine the minimum diameter of the cable that satisfies the condition on the dissipated power.
 
-Suppose for your calculations that the electrical resistance of the cylindrical conductor can be
-The calculation of the film effects of the
-the alternating current. This is a very rough approach and is done to simplify the treatment of
-It's a problem.
+Assume for your calculations that the electrical resistance of the cylindrical conductor can be calculated with the formulas for direct current, thus neglecting the skin effects of alternating current. This is a very rough approximation and is made to simplify the treatment of the problem.
 
-(b) Driver material used for transport:
+b) Conductor material used for transmission:
 
-For the voltage chosen in point (a1), determine the minimum radius of the conductor if:
-Instead of using a copper one, we use an aluminum one.
+For the voltage chosen in point a1), determine the minimum radius of the conductor, if instead of using a Copper one, an Aluminum one is used.
 
-(c) Height at which the drivers must be placed:
+c) Height at which the conductors must be placed:
 
-Because the drivers carrying the energy must pass through towns and cities
-The Commission considers that the Commission should be able to take the necessary measures to ensure that the conditions for the transport of electricity are met.
-with international standards that determine that people and/or animals cannot be
-exposed to magnetic fields (in addition to terrestrial) of an intensity exceeding 0,5 Gauss.
-Determine the minimum height at which drivers must be in order to meet the requirements of this Regulation.
-with these rules.
+Because the conductors that transmit energy must pass through towns and fields with livestock, it is necessary that the conditions of electrical energy transmission comply with international standards that determine that people and/or animals cannot be exposed to magnetic fields (additional to the Earth's) whose intensity exceeds 0.5 Gauss.
+Determine the minimum height at which the conductors must be located in order to comply with these standards.
 
-(d) Separation to which the columns supporting the drivers shall be placed:
+d) Separation at which the columns that support the conductors must be placed:
 
-An important factor determining the cost of installation is the number of
-columns necessary for the wire lengthening. Whereas the mechanical stress at the
-The maximum mechanical stress shall not exceed 4% of the maximum mechanical stress.
-The material supporting the column shall determine the distance between the columns which shall be separated from the column
-support drivers in the following cases:
-(i) copper conductors;
-(ii) aluminium conductors.
+An important element, which determines the cost of the installation, is the number of columns needed for laying the cables. Taking into account that the mechanical tension to which the conductors may be subjected must not exceed 4% of the maximum mechanical tension that the material can withstand, determine the distance at which the columns supporting the conductors must be separated in the following cases:
+i) copper conductors;
+ii) aluminum conductors.
 
-A simple way to approach the making of these calculations and that gives results
-It's assuming that the load configuration is such that the cables have everything
-su peso concentrado en su punto medio y que forman un ángulo de $5^\circ$ con la horizontal, como se
-sample in the figure
+A simple way to approach these calculations, which gives sufficiently precise results, is to assume that the load configuration is such that the cables have all their weight concentrated at their midpoint and that they form an angle of $5^\circ$ with the horizontal, as shown in the figure
 
-Accessory data
+Supplementary data
 
 Copper (Cu)
-Other, of a kind used for the manufacture of goods
-Densidad $(\delta)$ [$\text{kg/m}^3$]
+Aluminum (Al)
+Density $(\delta)$ [$\text{kg/m}^3$]
 8940
 2702
-Resistividad $(\rho)$ [$\Omega$ m]
+Resistivity $(\rho)$ [$\Omega$ m]
 $17{,}4\times10^{-9}$
 $28{.}2\times10^{-9}$
-The following shall be added to the list of the following:
+Maximum Mechanical Tension [MPa]
 300
 100
 
@@ -278,15 +219,8 @@ $\mu_0 = 4\pi\times10^{-7}$ Weber/(A m)
 1 Gauss $= 10^{-4}$ Weber/$\text{m}^2$
 1 Pa $= 1$ N/$\text{m}^2$
 $5^\circ$
-$5^\circ$
-r
+$5^\circ$ r
 P
-
-**Topic:** [[Circuits]], [[Magnetism]], [[Elasticity & Materials]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1QFVyqRlhfg1xzmFD6uyBsMwHGVsX_uA0/view)
 
 
 

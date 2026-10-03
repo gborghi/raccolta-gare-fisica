@@ -249,123 +249,88 @@ $1\ \text{cm}^2$: $m_1 = (3.39 \pm 0.03) \times 10^{-3}$ g.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 2.
-In the procedures given as examples, the preliminary operation is to cut a square or rectangle
-It's a piece of aluminum foil, of known size, and then fold it down to a thin strip. You can do that.
-easily determine the position of its center of mass. The scale is used as a first-rate lever.
+Problem no. 2.
+In the procedures reported as examples, the preliminary operation is to cut out a square or a rectangle of aluminum foil, of known dimensions, and to fold it reducing it to a thin strip. In this way one can easily determine the position of its center of mass. The balance is used as a first-class lever.
 2.1.1
-Cut a square of area $100 \pm 2\ \text{cm}^2$ into aluminium foil. It folds over and over again along the same length
-side, half and then half again, etc. until a strip is 10 cm long and about 0.5 cm wide.
-The sewing point which it makes reference shall be supported by the centre of mass on one of the two segments drawn
-on the balance sheet. In a symmetrical position with respect to the core, the aluminium strip is placed. The weight of this
-It's the prevailing. Cut 1 cm in length at a time, corresponding to an area of $10\ \text{cm}^2$, until the weight of the
-The dash is less than the dot. Then pieces of sheet of known area are added until the result is
-The balance.
-The following table shows the following:
-Mass of the point
-arm
-Area $A$
-arm
+A square of area $100 \pm 2\ \text{cm}^2$ is cut out of the aluminum foil. It is folded several times along the same side, in half and then in half again, etc., until a strip 10 cm long and about 0.5 cm wide is obtained.
+The staple serving as reference is placed with its center of mass on one of the two segments drawn on the balance. In a position symmetric with respect to the fulcrum, the aluminum strip is placed. Its weight prevails. A length of 1 cm at a time is cut off, corresponding to an area of $10\ \text{cm}^2$, until the weight of the strip is less than that of the staple. Pieces of foil of known area are then added until equilibrium is obtained.
+Table 2.1.1
+Mass of the staple arm
+Area $A$ arm
 Mass $m_1$ of $1\ \text{cm}^2$
 $\mu$ (g)
-$(\text{cm}^2)$
-Other, of a width of <= 600 mm
-$(198 \pm 2) \times 10^{-3}$
-a
-$57 \pm 2$
-b
+$(\text{cm}^2)$ of foil (g)
+$(198 \pm 2) \times 10^{-3}$ a
+$57 \pm 2$ b
 $(3.5 \pm 0.2) \times 10^{-3}$
-The $m_1$ is derived from the equality: $m_1/1\ \text{cm}^2 = \mu/A$, obtained from the assumption of equality of the two arms.
-Assuming $a = b$ involves an error of about 2%.
-Relative uncertainty about $m_1$: $2/100 + 2/198 + 2/57 = 0.065$; absolute uncertainty: $0.22 \times 10^{-3}$ g.
+$m_1$ is obtained from the equality: $m_1/1\ \text{cm}^2 = \mu/A$, obtained under the assumption that the two arms are equal.
+Assuming $a = b$ entails an error of about 2 %.
+Relative uncertainty on $m_1$: $2/100 + 2/198 + 2/57 = 0.065$; absolute uncertainty: $0.22 \times 10^{-3}$ g .
 2.1.2
-The difference between the two arms can be taken into account by switching between aluminium foil and aluminium foil.
-In a kind of double weight. The balance is restored with a different surface area of the sheet.
-The following table shows the results of the study:
-Mass of the point
-arm
-Area $A$
-arm
+One can take into account the inequality of the two arms by swapping the position of the point and the aluminum sheet, in a kind of "double weighing." Equilibrium is regained with a different area of the sheet.
+Table 2.1.2
+Mass of the point arm
+Area $A$ arm
 Mass $m_1$ of $1\ \text{cm}^2$
 $\mu$ (g)
-$(\text{cm}^2)$
-Other, of a width of <= 600 mm
-$(198 \pm 2) \times 10^{-3}$
-a
-$A_1 = 57 \pm 2$
-b
-$(3.3 \pm 0.1) \times 10^{-3}$
-b
-$A_2 = 63 \pm 2$
-a
-Of the two equations
+$(\text{cm}^2)$ of sheet (g)
+$(198 \pm 2) \times 10^{-3}$ a
+$A_1 = 57 \pm 2$ b
+$(3.3 \pm 0.1) \times 10^{-3}$ b
+$A_2 = 63 \pm 2$ a
+From the two equalities
 $\mu a = (m_1/1\ \text{cm}^2) A_1 b$;
-$\mu b = (m_1/1\ \text{cm}^2)A_2 a$
-The number of members multiplied by member is $m_1/1\ \text{cm}^2 = \mu/\sqrt{A_1 A_2}$.
-Relative uncertainty about $m_1$: $2/198 + 1/2\,(2/57 + 2/63) = 0.0435$; absolute uncertainty: $0.14 \times 10^{-3}$ g.
+$\mu b = (m_1/1\ \text{cm}^2)A_2 a$ multiplied member by member, one obtains $m_1/1\ \text{cm}^2 = \mu/\sqrt{A_1 A_2}$.
+Relative uncertainty on $m_1$: $2/198 + 1/2\,(2/57 + 2/63) = 0.0435$; absolute uncertainty: $0.14 \times 10^{-3}$ g .
 2.2.1
-A square sheet of aluminium $A = 100 \pm 2\ \text{cm}^2$ is folded several times into a strip
-The rectangle is the rectangle. At one end of the yoke is the point srai so that one of the two parallel sides of the yoke is
-You're gonna have to lick the edge.
- Pag. 1 —
-AIF  Physics Olympics 2013
-National competition  Test Hope.: Solution  11 April 2013
-To balance the point, the aluminium strip is rolled over the yoke until the balance is found.
-It repeats .
-The following is the list of the components used in the manufacture of the product:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Mass of the point
-arm
-Area $A$
-arm
+A square aluminum sheet of area $A = 100 \pm 2\ \text{cm}^2$ is folded several times into a rectangular strip. At one end of the beam the point is placed "lying down" so that one of the two parallel sides of the
+"U" grazes its edge.
+— Pag. 1 —
+AIF – Olimpiadi di Fisica 2013
+Gara Nazionale – Prova Sper.: Soluzione – 11 Aprile 2013
+To balance the point, the aluminum strip is made to slide along the beam until equilibrium is found.
+The procedure is repeated by swapping the positions, relative to the fulcrum, of the point and the aluminum strip.
+Table 2.2.1; 2.2.2
+Mass of the point arm
+Area $A$ arm
 Mass $m_1$ of $1\ \text{cm}^2$
 $\mu$ (g)
 (cm)
-$(\text{cm}^2)$
-(cm)
-Other, of a width of <= 600 mm
+$(\text{cm}^2)$ (cm)
+of sheet (g)
 $(198 \pm 2) \times 10^{-3}$
 $b_1 = 11.75 \pm 0.05$
 $100 \pm 2$
 $a_1 = 6.75 \pm 0.05$
-$(3.4 \pm 0.1) \times 10^{-3}$ with the (1)
+$(3.4 \pm 0.1) \times 10^{-3}$ with (1)
 (procedure 2.2.1)
 $b_2 = 11.90 \pm 0.05$
 $a_2 = 6.90 \pm 0.05$
-$(3.4 \pm 0.1) \times 10^{-3}$ with the (2)
+$(3.4 \pm 0.1) \times 10^{-3}$ with (2)
 (procedure 2.2.2)
-Multiplying the two equal moments of weights by member to member gives the expression $m_1$:
+By multiplying member by member the two equalities of the moments of the weights, one obtains the expression for $m_1$:
 $$m_1 = \frac{1}{100}\,\mu\,\sqrt{\frac{b_1 b_2}{a_1 a_2}} \qquad (1)$$
-Incertezza relativa su $m_1$: $2/100 + 2/198 + 1/2\,(0.05/11.75 + 0.05/11.90 + 0.05/6.75 + 0.05/6.90) = 0.04165$;
-incertezza assoluta: $0.14 \times 10^{-3}$ g.
+Relative uncertainty on $m_1$: $2/100 + 2/198 + 1/2\,(0.05/11.75 + 0.05/11.90 + 0.05/6.75 + 0.05/6.90) = 0.04165$;
+absolute uncertainty: $0.14 \times 10^{-3}$ g.
 2.2.2
-If there is a slight lack of horizontalness of the game at the start, the calculations must also take account of the
-The moment produced by the weight of the yoke itself. In fact, it is a systematic error. The Commission
-The two equilibrium situations as in 2.2.1, working under the same conditions of zeroing the balance sheet
-can eliminate the systematic error by differentiating member to member of the two equations that describe
-The equilibrium condition. This is how you get:
+If at the start there is a slight lack of horizontality of the yoke, the moment produced by the weight of the yoke itself must also be taken into account in the calculations. In fact, it represents a systematic error. By setting up the two equilibrium situations as in 2.2.1, working under the same zeroing conditions of the balance, the systematic error can be eliminated by subtracting the two equations describing the equilibrium condition member by member. In this way one obtains:
 $$m_1 = \frac{1}{100}\,\mu\,\frac{b_1 + b_2}{a_1 + a_2} \qquad (2)$$
-Relative uncertainty about $m_1$:
+Relative uncertainty on $m_1$ :
 $2/100+2/198+(0.05+0.05)/(11.75+11.90)+(0.05+0.05)/(6.75+6.90) = 0.04165$;
-incertezza assoluta: $0.14 \times 10^{-3}$ g.
+absolute uncertainty: $0.14 \times 10^{-3}$ g.
 2.3.1
-If the point is 4 cm from the edge, the balance is sought with folded aluminium sheets of notated area $A$
-a strip and position at different distances $x$ from the centre. The equality of moments and the proportionality of the
-The aluminium foil mass and area $A$ is directly proportional to $x$ and $A^{-1}$. From the graph of $x$ in
-The function of $A^{-1}$ can be calculated by the angle coefficient $k = xA$ of the straight line to find the mass $m_1$
-of $1\ \text{cm}^2$ on the sheet.
-From $\mu b = m_1/(1\ \text{cm}^2)\,Ax$ we get: $\mu b = (m_1/1\ \text{cm}^2)\,k$ and then $(m_1/1\ \text{cm}^2) = \mu b/k$.
-The following table shows the following:
+With the point placed 4 cm from the edge, equilibrium is sought using aluminum foil strips of known area $A$ folded into small strips and placed at different distances $x$ from the fulcrum. From the equality of the moments and from the proportionality between the mass of the aluminum foil and the area $A$, the direct proportionality between $x$ and $A^{-1}$ is obtained. From the graph of $x$ as a function of $A^{-1}$ one can calculate the slope $k = xA$ of the straight line that allows finding the mass $m_1$ of $1\ \text{cm}^2$ of the sheet.
+From $\mu b = m_1/(1\ \text{cm}^2)\,Ax$ one obtains: $\mu b = (m_1/1\ \text{cm}^2)\,k$ and therefore $(m_1/1\ \text{cm}^2) = \mu b/k$.
+Table 2.3.1
 Mass of the point
-The arm
+Arm
 Area $A$
-Braccio $x$
+Arm $x$
 Mass $m_1$ of $1\ \text{cm}^2$
 $\mu$ (g)
 (cm)
-$(\text{cm}^2)$
-(cm)
-Other, of a width of <= 600 mm
+$(\text{cm}^2)$ (cm)
+of sheet (g)
 $44 \pm 2$
 $11.3 \pm 0.1$
 $52 \pm 2$
@@ -382,28 +347,21 @@ $102 \pm 2$
 $4.9 \pm 0.1$
 $130 \pm 2$
 $3.8 \pm 0.1$
- Pag. 2 —
-AIF  Physics Olympics 2013
-National competition  Test Hope.: Solution  11 April 2013
-The following table shows the following:
-The linear regression graph gives $k = 492\ \text{cm}^3$; if the sum of the uncertainties is associated with it
-The percentage of $x$ and $A$, which is around 4%, is:
-Incertezza relativa su $m_1$: $2/198 + 0.05/8.40 + 0.04 = 0.056$;
-incertezza assoluta: $0.19 \times 10^{-3}$ g.
-From the mean half-dispersion of $k$ values which is around 2%, we get:
-Incertezza relativa su $m_1$: $2/198 + 0.05/8.40 + 0.02 = 0.036$;
-incertezza assoluta: $0.12 \times 10^{-3}$ g.
-- I'll take that.
-The mass of a rectangle of aluminium foil of $29.0 \pm 0.1$ cm and $30.0 \pm 0.1$ cm, measured by weight
-The electronics was $2.95 \pm 0.01$ g. From these measurements, assuming uniform thickness, the mass $m_1$ of
-$1\ \text{cm}^2$: $m_1 = (3.39 \pm 0.03) \times 10^{-3}$ g.
+— Pag. 2 —
+AIF – Olimpiadi di Fisica 2013
+Gara Nazionale – Prova Sper.: Soluzione – 11 Aprile 2013
+Grafico 1
+From the graph of the linear regression, $k = 492\ \text{cm}^3$ is obtained; if the sum of the percentage uncertainties on $x$ and on $A$ is associated with it, which is around 4%, the result is:
+Relative uncertainty on $m_1$: $2/198 + 0.05/8.40 + 0.04 = 0.056$;
+absolute uncertainty: $0.19 \times 10^{-3}$ g.
+From the mean half-dispersion of the values of $k$, which is around 2%, the result is:
+Relative uncertainty on $m_1$: $2/198 + 0.05/8.40 + 0.02 = 0.036$;
+absolute uncertainty: $0.12 \times 10^{-3}$ g.
+NOTE.
+The mass of a rectangle of aluminum foil with dimensions $29.0 \pm 0.1$ cm and $30.0 \pm 0.1$ cm, measured with an electronic balance, was found to be equal to $2.95 \pm 0.01$ g. From these measurements, assuming that the thickness is uniform, the mass $m_1$ of
+$1\ \text{cm}^2$ is obtained: $m_1 = (3.39 \pm 0.03) \times 10^{-3}$ g.
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1N4XpLvHGTpLVCLxHlPl8WknIrY66GnEe/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)
 
 
 
@@ -544,32 +502,21 @@ a 8 % o 6 %.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 3.
-To balance the repulsive force between the coils the weight samples shall be placed on the corresponding marked mark
-the centre of the moving coil.
-The measurements in the table below were obtained by coils placed at two different distances.
-In the first case, the distance $d = 7 \pm 1$ mm, the fixed coil and the angles shall be supported directly on the cardboard,
-and the spikes are housed in the U-shaped carvings of the two corners. In the second case, distance $d = 10 \pm 1$ mm, the only
-The difference is that the corners are placed above 3 mm thick. $n$ indicates the number of samples
-Weight on the scales.
-N.B. The following table also shows the current measurements obtained by attractive force (see paragraphs 1 and 2).
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Table 36 (Values for questions 3 and 6)
-The distance between the coils $d = 7 \pm 1$ mm
-The distance between the coils $d = 10 \pm 1$ mm
+Question no. 3.
+To balance the repulsive force between the coils, the weight samples must be placed on the mark drawn at the center of the movable coil.
+The measurements shown in the table below were obtained with the coils placed at two different distances.
+In the first case, distance $d = 7 \pm 1$ mm, the fixed coil and the angle brackets are resting directly on the cardboard, and the pins are housed in the U-shaped notches of the two angle brackets. In the second case, distance $d = 10 \pm 1$ mm, the only difference is that the angle brackets are placed on 3 mm spacers. $n$ indicates the number of weight samples placed on the balance.
+N.B. the table below also shows the current measurements obtained with attractive force (see
+question 6).
+Table 3–6 (Values relating to questions 3 and 6)
+Distance between the coils $d = 7 \pm 1$ mm
+Distance between the coils $d = 10 \pm 1$ mm
 Current in
-The report $I^2/n$ in
+Ratio $I^2/n$ in
 Current in
 Current in
-The report $I^2/n$ in
-Current in
-Repulsion
-Repulsion
-attraction
-Repulsion
-Repulsion
-attraction
-n
+Ratio $I^2/n$ in
+Current in repulsion repulsion attraction repulsion repulsion attraction n
 $I \pm 0.01$ (A)
 $I^2/n$ $(\text{A}^2)$
 $I \pm 0.01$ (A)
@@ -644,33 +591,25 @@ $\pm0.01$ (A)
 10
 0.50
 0.025
-0.52
-v. The following information shall be provided:
-v. Note 2 to this chapter
-Note 1: Average ratio $k = I^2/n$: $0.026\ \text{A}^2$ (linear regression); $0.026\ \text{A}^2$ (arithmetic mean).
-Note 2: Average ratio $k = I^2/n$: $0.034\ \text{A}^2$ (linear regression); $0.033\ \text{A}^2$ (arithmetic mean).
- Pag. 3 —
-AIF  Physics Olympics 2013
-National competition  Test Hope.: Solution  11 April 2013
-Figure 2 shows the trend of $I^2$ as a function of $n$, for the distance of 7 mm.
-The following table shows the following:
+0.52 see Note 1 see Note 2
+Note 1: Average ratio $k = I^2/n$ : $0.026\ \text{A}^2$ (from linear regression); $0.026\ \text{A}^2$ (from arithmetic mean).
+Note 2: Average ratio $k = I^2/n$ : $0.034\ \text{A}^2$ (from linear regression); $0.033\ \text{A}^2$ (from arithmetic mean).
+— p. 3 —
+AIF – Physics Olympiad 2013
+National Competition – Experimental Test: Solution – 11 April 2013
+Graph 2 shows the trend of $I^2$ as a function of $n$, for the distance of 7 mm.
+Graph 2
 The relationship between $I$ and $n$ is:
 $I^2 = 0.026\ \text{A}^2 n$, or $I = 0.16\ \text{A}\sqrt{n}$ if the distance between the coils is $d = 7 \pm 1$ mm
 $I^2 = 0.034\ \text{A}^2 n$, or $I = 0.18\ \text{A}\sqrt{n}$ if the distance between the coils is $d = 10 \pm 1$ mm
-The maximum half-dispersion of the values of the proportionality constants can be assumed to be $\pm0.002\ \text{A}^2$, equal to
-a 8 % o 6 %.
+The maximum half-dispersion of the values of the proportionality constants can be assumed equal to $\pm0.002\ \text{A}^2$, equal to 8 % or 6 %.
 
 <!--fig:start-->
-The following table shows the number of samples taken from the sample:
+**p.7** — Graph 1: x as a function of 1/A
 ![[_attachments/Naz13Spe/Naz13Spe_p7_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1N4XpLvHGTpLVCLxHlPl8WknIrY66GnEe/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)
 
 
 
@@ -969,26 +908,13 @@ NOTA BENE
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No. 8.
-The measures set out in Table 36 (columns 4a and 7a) to p. 3 were obtained by the following method.
-The yoke is loaded with aluminium sheets so that, with no current, it is horizontal and in
-slight contact with some thickness placed underneath it, on the side opposite to that of the coils.
-The current intensity is slowly increased until the yoke begins to fall from the
-The coil is on the pressure gauge and the current is read. With this method the current read has a small
-I'm not sure what I'm saying. This can be seen in Table 36 at p. 3 where the current values in the attraction exceed in
-The Commission has already adopted a number of proposals. The thickness of the yoke can also be adjusted under the yoke, within the
-the coil is fixed so that the yoke is horizontal. This should then be loaded with the aluminum foil. I 'll give it to him .
-It prevents one finger from lifting, and it slowly increases the current until it stays in a horizontal position.
-Even without the help of your finger. Then the current decreases until it starts to detach from the thickness. With this
-The method, more machined than the previous one, the current read has a faulty error.
+Problem no. 8.
+The measurements reported in Table 3–6 (columns 4a and 7a) on p. 3 were obtained with the following method.
+The yoke, loaded with the aluminum sheets, is arranged so that, with zero current, it is horizontal and in slight contact with some spacers placed under it, on the side opposite to that of the coils.
+The current intensity is slowly increased until the yoke begins to lower on the side of the coils, and the current value is read on the ammeter. With this method the current read has a small error in excess. It can be noted in Table 3–6 on p. 3 that the current values in attraction generally exceed the corresponding ones in repulsion. The spacers can also be arranged under the yoke, inside the fixed coil, so that the yoke is horizontal. This must then be loaded with the aluminum sheets. It is prevented with a finger from rising, and the current is slowly increased until it remains in a horizontal position even without the "help" of the finger. The current is then decreased until it begins to detach from the spacer. With this method, more cumbersome than the previous one, the current read has an error in defect.
 Material prepared by the Group
-Good note .
-The use, reproduction, distribution and communication of this material to the public are permitted under the following two conditions: citing the source; not using the material, even partially, for commercial purposes.
- Pag. 5 —
+NOTE WELL
+This material may be used, reproduced, distributed, communicated to the public under the following two conditions: cite the source; do not use the material, even partially, for commercial purposes.
+— p. 5 —
 
-**Topic:** [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1N4XpLvHGTpLVCLxHlPl8WknIrY66GnEe/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Citf2EfE8sOWP6CpYR9R-EHf14KXXwcU/view)

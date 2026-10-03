@@ -236,111 +236,57 @@ a $-20\ ^\circ\text{C}$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: Transmission by optical fibres
+Problem 1: Optical fiber transmission
 
-Modern communication systems are used in some of the most
-The two components of the optical fibers. These are very thin fibers that consist of
-a glass core, of a diameter of $50\ \mu\text{m}$, wrapped in a
-Glass coating with a refractive index lower than that of the core, and a
-diámetro exterior de $120\ \mu\text{m}$. The physical principle underlying the
-The propagation of light within an optical fiber is in the fact that the
-Light rays that affect the interface between the core and the coating
-Glass with an angle (relative to the normal interface) greater than a value
-crítico $\theta_c$, son totalmente reflejados (ver figura 1). So, a beam that satisfies
-This condition will spread within the optical fiber after successive
-The total internal reflections. This total reflection makes the losses
-The energy of lightning along the fiber is practically negligible.
-The value of the critical angle $\theta_c$ depends on the refractive index of the material
-which comprises the core, $n_1$, and the coating refractive index
-a glass, $n_2$, by the formula:
+Modern communication systems make use, in some of their sections, of optical fibers. These are very thin fibers consisting of a glass core, about $50\ \mu\text{m}$ in diameter, surrounded by a glass cladding with a refractive index lower than that of the core, and an outer diameter of $120\ \mu\text{m}$. The physical principle underlying the propagation of light inside an optical fiber lies in the fact that light rays incident on the interface between the core and the glass cladding at an angle (with respect to the normal to the interface) greater than a critical value $\theta_c$ are totally reflected (see figure 1). Thus, a ray satisfying this condition will propagate inside the optical fiber through successive total internal reflections. This total reflection makes the energy losses of the ray along the fiber practically negligible.
+The value of the critical angle $\theta_c$ depends on the refractive index of the material making up the core, $n_1$, and on the refractive index of the glass cladding, $n_2$, through the formula:
 
 $$\operatorname{sen}\theta_c = \frac{n_2}{n_1}$$
 
 Figure 1
-Cross-sectional cutting of an optical fibre
+Cross section of an optical fiber
 
-To focus light from a laser inside the optical fiber is
-uses a ball lens, located at one end of the optical fiber,
-The laser beam is the laser beam.
+To focus the light coming from a laser into the optical fiber, a ball lens is used, located at one of the ends of the optical fiber, between it and the laser beam (figure 2).
 
 Figure 2
-Ball-fiber optical lens set (Figure not in scale)
+Ball lens-optical fiber assembly (Figure not to scale)
 
-Ball lens is a ruby or sapphire radius sphere $R$ and refractive index
+The ball lens is a ruby or sapphire sphere with radius $R$ and refractive index
 $n$.
 
-(a) For a light beam propagating parallel to the $X$ axis (see Figure 3)
-and which hits the ball lens from the left at a height $d$,
-measured from the $X$ axis,
-calculate the distance from the beam intersection point on the $X$ axis
-(indicated by the letter P in Figure 3), measured from the centre O of the
-The sphere.
-Suppose the incident beam propagates near the $X$ axis, i.e.
-$d \ll R$. Note that if an angle ($\varphi$, measured in radians) is
-The angle of the sternum ($\operatorname{sen}\varphi$) can be approximated by the value
-del ángulo ($\operatorname{sen}\varphi \approx \varphi$).
+a) For a light ray that propagates parallel to the axis $X$ (see figure 3)
+and that strikes the ball lens from the left at a height $d$, measured from the axis $X$, calculate the distance of the intersection point of the ray on the axis $X$ (indicated with the letter P in figure 3), measured from the center O of the sphere.
+Assume that the incident ray propagates close to the axis $X$, that is
+$d \ll R$. Keep in mind that if an angle ($\varphi$, measured in radians) is small, the sine of that angle ($\operatorname{sen}\varphi$) can be approximated by the value of the angle ($\operatorname{sen}\varphi \approx \varphi$).
 
-Figure 3 (Figure not in scale)
-Fiber optic
-Make a laser
+Figure 3 (Figure not to scale)
+Optical fiber
+Laser beam
 Ball lens
-P
-d
-X
-n
+P d
+X n
 O
 R
 
-Useful formula: SENO theorem: In an arbitrary triangle the relation is
-between the breast of the angle between two of its sides and the length of the
-The opposite side, has the same value whatever the angled pair
-The opposite.
+Useful formula: LAW OF SINES: In an arbitrary triangle the ratio between the sine of the angle between two of its sides and the length of the opposite side has the same value whatever the angle–opposite side pair.
 
-(b) The beam of light shall be applied to the core-coating interface at an angle greater than the critical value. There is a
-Maximum value of the beam angle of incidence from the air (see
-Figure 1), for which, beyond that value, it is not possible to
-The radiation is propagated through the optical fiber. The breast of that angle
-maximum, $\theta_A$, is given the numerical opening name, $A_N$:
+b) It is necessary that the light ray strikes the core-cladding interface with an angle greater than the critical value. There exists a maximum value of the incidence angle of the beam from the air (see figure 1), beyond which the propagation of the ray inside the optical fiber is not possible. The sine of that maximum angle, $\theta_A$, is called the numerical aperture, $A_N$:
 
 $$A_N = \operatorname{sen}\theta_A$$
 
-Calculate the numerical aperture for a fiber whose core is
-construido con un material de índice de refracción $n_1 = 1{,}500$
-whereas the refractive index of the glass coating is
+Calculate the numerical aperture for an optical fiber whose core is made of a material with refractive index $n_1 = 1{,}500$ while the refractive index of the glass cladding is
 $n_2 = 1{,}470$.
 
-(c) The maximum value of the distance $d$, $d_\text{max}$, to which the
-The laser beams coming over the ball lens, so that the beams
-The resulting optical fibres can be propagated into the optical fibre of the lens.
-The characteristics indicated in the previous point are given by the following:
-Expression
-$$d_\text{max} = k R,$$
-where $k$ is a constant that depends only on the indices of
-refraction of the ball and optical fiber.
-Find the expression $k$ in terms of refractive indices
-The ball, the core and the coating.
-Consider that between the ball and the optical fiber there is air; that the
-The refractive index of the lens is $n = 1{,}517$ and its diameter is $R =
-I'm not going to say. Again, suppose the rays propagate near the
-axis, so that the approximation can be made ($\operatorname{sen}\varphi \approx \varphi$).
+c) The maximum value of the distance $d$, $d_\text{max}$, at which the rays coming from the laser must strike the ball lens, so that the rays emerging from the lens can propagate in the optical fiber with the characteristics indicated in the previous point, is given by the expression
+$$d_\text{max} = k R,$$ where $k$ is a constant that depends only on the refractive indices of the ball and of the optical fiber.
+Find the expression for $k$ in terms of the refractive indices of the ball, the core and the cladding.
+Consider that between the ball lens and the optical fiber there is air; that the refractive index of the lens is $n = 1{,}517$ and that its diameter is $R =
+0{,}30\ \text{mm}$. Again assume that the rays propagate close to the axis, in such a way that the approximation ($\operatorname{sen}\varphi \approx \varphi$) can be made.
 
-(d) In many practical situations telecommunications systems are
-The optical fibres must operate under extreme environmental conditions.
-Suppose the beam width of the laser beam is adjusted
-the value of the optical fiber ball lens system's numerical aperture when it operates at $30\ ^\circ\text{C}$.
-Suppose the laser beam and the optical fibre are not altered by the
-temperature change, but the ball lens does. The coefficient of
-thermal dilation of the material from which the ball lens is manufactured
-is $\lambda = 8{,}4\times10^{-5}\ (^\circ\text{C})^{-1}$ and its radius at $30\ ^\circ\text{C}$ is $R = 0{,}30\ \text{mm}$.
-What fraction of the beam is lost from the point of view of the
-propagation within the fibre when the system is operated
-a $-20\ ^\circ\text{C}$?
-
-**Topic:** [[Geometric Optics]], [[Thermodynamics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Snell's Law (metodo)|Snell's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1uha2jP7_H8asxTy3Gngq_a6BCzLHDQum/view)
+d) In many practical situations, fiber-optic telecommunication systems must operate under extreme environmental conditions.
+Assume that the beam width of the laser beam is adjusted precisely to the value of the numerical aperture of the ball-lens–optical-fiber system when it operates at $30\ ^\circ\text{C}$.
+Assume that the laser beam and the optical fiber do not undergo alterations with temperature change, but the ball lens does. The coefficient of thermal expansion of the material from which the ball lens is made is $\lambda = 8{,}4\times10^{-5}\ (^\circ\text{C})^{-1}$ and its radius at $30\ ^\circ\text{C}$ is $R = 0{,}30\ \text{mm}$.
+What fraction of the beam is lost, from the point of view of propagation inside the fiber, when the system is made to operate at $-20\ ^\circ\text{C}$?
 
 
 

@@ -149,19 +149,13 @@ In realtà gli ingegneri stanno mentendo! Nel crash test condotto quanto può va
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment.
+**Lying engineers**
 
-One car company claims to have patented a new bumper capable of absorbing a large amount of kinetic energy from two cars in the event of buffers. In particular, the company's engineers claim that during a crash test between two machines of mass $m$ and $\tfrac{6}{5}m$ respectively that collide at relative speed $v$, the bumpers of the two cars were able to absorb up to $60\%$ of total kinetic energy.
+A car company claims to have patented a new bumper capable of absorbing a large amount of the kinetic energy of two cars in the event of rear-end collisions. In particular, the company's engineers state that during a crash test between two cars of masses $m$ and $\tfrac{6}{5}m$ respectively, which collide with relative velocity $v$, the bumpers of the two cars managed to absorb up to $60\%$ of the total kinetic energy.
 
-The engineers are actually lying! In the crash test, what is the maximum amount of energy that the bumpers can absorb?
+In reality, the engineers are lying! In the crash test conducted, what can the maximum percentage of energy that the bumpers can absorb be worth?
 
-The following is the maximum number of units of measurement: The following information is provided:
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1hbEj65AOkCxTe7AGvJRyTekJexkJGe5y/view)
+**Units of measurement:** %. **Required precision:** 0.5%.
 
 
 

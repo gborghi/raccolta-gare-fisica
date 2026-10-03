@@ -85,21 +85,16 @@ Quale dei seguenti grafici descrive meglio la relazione tra la massa $m$ del pro
 
 <div class="qlang-split" data-lang="en"></div>
 
-In Jules Verne's book "From the Earth to the Moon", we imagine a very powerful cannon capable of firing a bullet to the Moon.
+In the book "From the Earth to the Moon" by Jules Verne, a very powerful cannon is imagined capable of firing a projectile all the way to the Moon.
 
-Quale dei seguenti grafici descrive meglio la relazione tra la massa $m$ del proiettile e la distanza $r$ dalla Terra, in questo ipotetico viaggio?
+Which of the following graphs best describes the relationship between the mass $m$ of the projectile and the distance $r$ from the Earth, in this hypothetical journey?
 
 <!--fig:start-->
 ![[_attachments/1liv15T def/1liv15T def_p3_f2.png]]
 *Five graphs of mass m vs distance r*
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
-**Risposta:** **A** · [[1liv15S def|Soluzioni]]
+**Answer:** **A** ·
 
 
 
@@ -1609,29 +1604,24 @@ Quali delle seguenti affermazioni sono vere?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The diagram shows the potential energy of a system consisting of two molecules based on the distance, $r$, between them.
+The diagram shows the potential energy of a system consisting of two molecules as a function of the distance, $r$, between them.
 
-Which of the following statements is true?
+Which of the following statements are true?
 
-1  The potential energy is zero for $r = r_1$.
-2  The potential energy decreases constantly as it increases by $r$.
-3  The force between molecules is attractive for $r > r_2$ and repulsive for $r < r_2$.
+1 – The potential energy is zero for $r = r_1$.
+2 – The potential energy decreases constantly as $r$ increases.
+3 – The force between the molecules is attractive for $r > r_2$ and repulsive for $r < r_2$.
 
-- **A ** Only the 1.
-- **B.** Only the 3.
-- **C.** La 1 e la 2.
-- **D.** La 1 e la 3.
-- **E.** La 2 e la 3.
+- **A.** Only 1.
+- **B.** Only 3.
+- **C.** 1 and 2.
+- **D.** 1 and 3.
+- **E.** 2 and 3.
 <!--fig:start-->
 ![[_attachments/1liv15T def/1liv15T def_p9_f11.png]]
 *Potential energy vs intermolecular distance r*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1yjprt4eGFHl_wuSyHwi8PUnTXg7k9r4g/view)
-**Risposta:** **D** · [[1liv15S def|Soluzioni]]
+**Answer:** **D** ·
 
 
 

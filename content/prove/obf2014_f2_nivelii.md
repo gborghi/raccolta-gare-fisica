@@ -150,15 +150,9 @@ Quante cellule unità ha un cristallo $1\,\text{cm}^3$ per un valore $a = 2\,\te
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Problem 3**
 
-How many units of cells does a crystal of $1\,\text{cm}^3$ have for a value of $a = 2\,\text{Å}$?
-
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Wie0mDG7GT52NNr320BHiPMeAB_qQ1Ll/view)
+How many unit cells does a crystal of $1\,\text{cm}^3$ have for a value of $a = 2\,\text{Å}$?
 
 
 
@@ -203,20 +197,14 @@ In ogni caso indicato, determinare **densità di imballaggio**  frazione dell'ar
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 - The Commission has not yet decided on the application of the rules of procedure.
+**Problem 4**
 
-The packing of particles that make up a crystal: rigid spheres of the same size are to be packed. To simplify the problem Kepler dealt with, let's say instead of spheres we have identical disks  like, for example, coins  and we want to put the disks next to each other so that we get the maximum possible density. The figure shows two different arrangements:
+The packing of particles that make up a crystal: one wishes to pack rigid spheres of the same size. To simplify the problem treated by Kepler, let us suppose that instead of spheres we have identical disks — such as, for example, coins — and we wish to place the disks next to one another so as to obtain the maximum possible density. The figure shows two different arrangements:
 
-- The packaging shown in **(a) ** is called ** hexagonal packaging **.
-- The packaging shown in **(b) ** is called ** square packaging**.
+- The packing shown in **(a)** is called **hexagonal packing**.
+- The packing shown in **(b)** is called **square packing**.
 
-In each of the cases shown, determine the ** packaging density**  fraction of the total area occupied by the discs.
-
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Wie0mDG7GT52NNr320BHiPMeAB_qQ1Ll/view)
+In each of the cases shown, determine the **packing density** — the fraction of the total area occupied by the disks.
 
 
 
@@ -267,23 +255,17 @@ Determina il valore del segmento $\overline{ABC}$ in funzione dei parametri $d$ 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 - The Commission has not yet decided on the application of the rules on the application of the rules of procedure.
+**Question 5**
 
-In 1912 X-rays were used by Max von Laue, who showed that a crystalline solid can be used as a diffraction network when subjected to electromagnetic radiation with wavelengths comparable to the separation between ions. From von Laue's results, the English W. H. Bragg and his son W. L. Bragg showed how X-rays could spread from atomic planes in the crystal.
+In 1912 X-rays were used by Max von Laue, who showed that a crystalline solid can be used as a diffraction grating when subjected to electromagnetic radiation with wavelengths comparable to the separation between the ions. From von Laue's results, the Englishmen W. H. Bragg and his son W. L. Bragg showed how X-rays could scatter from atomic planes in the crystal.
 
-Although the process of diffracting X-rays through the crystal is complicated, we can imagine that the radiation is reflected by a family of parallel planes that extend through the atoms inside the crystal. When X-rays strike the crystal, they are scattered by the crystalline structure in all directions: in some directions destructive interference and in other constructive interference occurs.
+Although the process of X-ray diffraction by the crystal is complicated, we can imagine that the radiation is reflected by a family of parallel planes that extend through the atoms within the crystal. When X-rays strike the crystal, they are scattered by the crystalline structure in all directions: in some directions destructive interference occurs and in others constructive interference occurs.
 
-The figure shows an arrangement of ions in a cubic crystal of NaCl. The dotted lines represent the intersections of the ** Bragg ** planes with the sheet plane. The figure shows the incident X-rays and reflected by the electrons in the atoms contained in the Bragg planes, where $d$ is the separation between the planes and $\theta$ is the angle of incidence measured relative to the planes.
+The figure shows an arrangement of ions in a cubic NaCl crystal. The dotted lines represent the intersections of the **Bragg planes** with the plane of the sheet. The figure shows the incident and reflected X-rays by the electrons in the atoms contained in the Bragg planes, where $d$ is the separation between the planes and $\theta$ is the angle of incidence measured with respect to the planes.
 
-For constructive interference, the path difference $\overline{ABC}$ shall be equal to an integer multiple of the incident X-ray wavelength.
+For constructive interference to occur, the path difference $\overline{ABC}$ must be equal to an integer multiple of the wavelength of the incident X-ray.
 
-Determine the value of the $\overline{ABC}$ segment as a function of the $d$ and $\theta$ parameters.
-
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Wie0mDG7GT52NNr320BHiPMeAB_qQ1Ll/view)
+Determine the value of the segment $\overline{ABC}$ as a function of the parameters $d$ and $\theta$.
 
 
 
@@ -326,19 +308,13 @@ b) Qual è la distanza tra i due torcedori (in linea retta)?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6 - The Commission has not yet decided on the draft budget.
+**Problem 6**
 
-Two fans are in a football stadium when they see the referee take the whistle to the mouth to determine the closing of the match. After $0{,}250\,\text{s}$, fan A hears the judge's whistle; fan B hears after $0{,}155\,\text{s}$. The lines of sight of the fans to the judge are known to form an angle of $90°$.
+Two fans are in a football stadium when they see the referee bring the whistle to his mouth to signal the end of the match. After $0{,}250\,\text{s}$ fan A hears the referee's whistle; fan B hears it after $0{,}155\,\text{s}$. It is known that the lines of sight from the fans to the referee form an angle of $90°$ with each other.
 
-(a) What is the distance from the fans to the judge?
+a) What are the distances from the fans to the referee?
 
-(b) What is the distance between the two fans (in a straight line)?
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Wie0mDG7GT52NNr320BHiPMeAB_qQ1Ll/view)
+b) What is the distance between the two fans (in a straight line)?
 
 
 
@@ -545,17 +521,11 @@ Supponiamo che l'interno della palla contenga un gas ideale e che la temperatura
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the use of the 'small' technology.
+**Problem 10**
 
-For a ball to be approved by the football federation, it must have certain characteristics. Among them is ** pressure loss **: starting at $0{,}8\,\text{bar}$ at sea level, a maximum loss of $20\%$ at $72\,\text{horas}$ is acceptable.
+For a ball to be approved by the football federation, it must have certain characteristics. Among them is **pressure loss**: starting with a pressure of $0{,}8\,\text{bar}$ at sea level, a maximum loss of $20\%$ in $72\,\text{horas}$ is acceptable.
 
-Suppose the inside of the ball contains an ideal gas and the temperature and volume are constant. What's the maximum fraction of gas that can be released from the ball so that it's still recognized by the federation?
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Wie0mDG7GT52NNr320BHiPMeAB_qQ1Ll/view)
+Suppose the interior of the ball contains an ideal gas and that the temperature and volume are constant. What maximum fraction of gas can be released from the ball so that it is still recognized by the federation?
 
 
 
@@ -652,14 +622,8 @@ Che frazione della superficie della piscina è illuminata?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 12 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Problem 12**
 
-A monochrome light source is installed in the centre of the bottom of a pool. This pool is $10\,\text{m}$ long, $5\,\text{m}$ wide and approximately $1{,}61\,\text{m}$ deep, and is filled with water with a refractive index $n_{\text{água}} = \tfrac{4}{3}$. The air refractive index is $n_{\text{ar}} = 1$ and the pool walls do not reflect light.
+A monochromatic light source is installed at the center of the bottom of a swimming pool. This pool has a length of $10\,\text{m}$, a width of $5\,\text{m}$ and approximately a depth of $1{,}61\,\text{m}$, and is filled with water with refractive index $n_{\text{água}} = \tfrac{4}{3}$. The refractive index of air is $n_{\text{ar}} = 1$ and the pool walls do not reflect light.
 
 What fraction of the pool surface is illuminated?
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Wie0mDG7GT52NNr320BHiPMeAB_qQ1Ll/view)

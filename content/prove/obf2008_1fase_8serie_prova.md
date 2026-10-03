@@ -170,25 +170,19 @@ III. Non è possibile cambiare la velocità di un corpo in assenza di forze este
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following are some considerations regarding the physical property called inertia.
+Below are some considerations regarding the physical property called inertia.
 
-I. A moving body will stop when the resulting force that drives it becomes null.
-II. A resting body will remain at rest if no resulting force is acting on it.
-The Commission shall adopt implementing acts. It's not possible to change the speed of a body without external forces.
+I. A body in motion will stop when the net force pushing it becomes zero.
+II. A body at rest will remain at rest if no net force is acting on it.
+III. It is not possible to change the velocity of a body in the absence of external forces.
 
 Only what is stated in:
 
 - **A.** II.
-- **B ** I and III.
-- **C ** II and III.
-- **D.** I e II.
+- **B.** I and III.
+- **C.** II and III.
+- **D.** I and II.
 - **E.** I.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
 
 
 
@@ -215,35 +209,23 @@ Na Terra, um astronauta tem peso de $900\ \text{N}$. Em Marte, seu peso seria em
 
 <div class="qlang-split" data-lang="it"></div>
 
-Na Terra, um astronauta tem peso de $900\ \text{N}$. Su Marte, il suo peso sarebbe intorno a $300\ \text{N}$. Questo sarebbe accaduto perché:
+Sulla Terra, un astronauta ha un peso di $900\ \text{N}$. Su Marte, il suo peso sarebbe di circa $300\ \text{N}$. Ciò accadrebbe perché:
 
 - **A.** il volume di Marte equivale a circa $1/3$ del volume terrestre.
-- **B.** em Marte, a força de atração da gravidade é cerca de $1/3$ da da Terra.
-- **C.** a densidade de Marte é $3$ vezes menor que a da Terra.
-- **D.** o raio médio de Marte é $3$ vezes menor que o terrestre.
+- **B.** su Marte, la forza di attrazione della gravità è circa $1/3$ di quella della Terra.
+- **C.** la densità di Marte è $3$ volte minore di quella della Terra.
+- **D.** il raggio medio di Marte è $3$ volte minore di quello terrestre.
 - **E.** su Marte, l'inerzia è ridotta a $1/3$ dell'inerzia sulla Terra.
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Na Terra, um astronauta tem peso de $900\ \text{N}$. Em Marte, seu peso seria em torno de $300\ \text{N}$. This would happen because:
+On Earth, an astronaut has a weight of $900\ \text{N}$. On Mars, his weight would be around $300\ \text{N}$. This would occur because:
 
-- **A.** the volume of Mars is approximately $1/3$ of the Earth's volume.
-- **B.** em Marte, a força de atração da gravidade é cerca de $1/3$ da da Terra.
-- **C.** a densidade de Marte é $3$ vezes menor que a da Terra.
-- **D.** o raio médio de Marte é $3$ vezes menor que o terrestre.
-- **E.** em Marte, a inércia é reduzida a $1/3$ da inércia na Terra.
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
+- **A.** the volume of Mars is approximately equivalent to $1/3$ of Earth's volume.
+- **B.** on Mars, the force of gravity's attraction is about $1/3$ of Earth's.
+- **C.** the density of Mars is $3$ times smaller than Earth's.
+- **D.** the average radius of Mars is $3$ times smaller than Earth's.
+- **E.** on Mars, inertia is reduced to $1/3$ of inertia on Earth.
 
 
 
@@ -300,26 +282,20 @@ Solo le osservazioni sono corrette:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The road connecting two cities has kilometre markings whose counting begins in the city of Santo Angelo and ends, $70\ \text{km}$ further on, in the city of São Basílio. Anthony (A) leaves the city of Santo Angelo on a bicycle to Saint Basil and Benedict (B), another cyclist, part of Saint Basil, on the same road, in the opposite direction. The diagram was constructed to represent the "kilometre" of each of them to the "hours" of travel. These elements are used to make some observations:
+The road connecting two cities has kilometer markers whose counting begins in the city of Santo Anjo and ends, $70\ \text{km}$ ahead, in the city of São Basílio. Antônio (A) leaves the city of Santo Anjo by bicycle heading to São Basílio and Benedito (B), another cyclist, departs from São Basílio, along the same road, in the opposite direction. The diagram was constructed to represent the "mileage" of each of them for the "hours" of travel. From these elements some observations are made:
 
-I. The two of them didn't start their movements at the same time.
-II. Benedict has not arrived at St. Angel.
-The Commission shall adopt implementing acts. The highest speed developed at any stretch of the route was close to $17\ \text{km/h}$, achieved by Benedito.
-IV. Anthony was standing when Benedict passed by him.
+I. The two did not begin their movements at the same instant.
+II. Benedito did not arrive in Santo Anjo.
+III. The greatest speed developed in some stretch of the route was close to $17\ \text{km/h}$, achieved by Benedito.
+IV. Antônio was stopped when Benedito passed by him.
 
-The only thing that is correct is the remarks:
+Only the following observations are correct:
 
-- **A.** I e IV.
-- **B.** II e IV.
-- **C ** I and III.
-- ** D** II and III.
-- **E.** I, II e IV.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
+- **A.** I and IV.
+- **B.** II and IV.
+- **C.** I and III.
+- **D.** II and III.
+- **E.** I, II and IV.
 
 
 
@@ -679,25 +655,19 @@ III. Nel movimento in questione, il peso agisce come una forza dissipatrice di e
 
 <div class="qlang-split" data-lang="en"></div>
 
-Consider a free-falling body from a location near the Earth's surface and analyze the following statements:
+Consider a body falling in free fall from a location near the Earth's surface and analyze the following statements:
 
 I. As the body falls, its kinetic energy increases and its gravitational potential energy decreases.
-II. The sum of the kinetic energy and gravitational potential energy of the body remains constant during its fall.
-The Commission shall adopt implementing acts. In the motion in question, the weight acts as an energy dissipative force.
+II. The sum of the body's kinetic energy and gravitational potential energy remains constant during its fall.
+III. In the motion in question, weight acts as a dissipative force of energy.
 
-It is correct what is stated in:
+What is correct in what is stated in:
 
-- **A ** I and II only.
-- ** B** II only.
-- I only.
-- ** D ** I and III only.
-- **E ** I, II and III.
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
+- **A.** I and II only.
+- **B.** II only.
+- **C.** I only.
+- **D.** I and III only.
+- **E.** I, II and III.
 
 
 
@@ -1094,25 +1064,19 @@ III. Poiché l'accelerazione gravitazionale sulla superficie lunare è circa ugu
 
 <div class="qlang-split" data-lang="en"></div>
 
-Analyze each of the claims made about gravitational attraction.
+Analyze each of the statements made regarding gravitational attraction.
 
-I. Because the Earth is more massive than the Moon, the Earth attracts the Moon more than the Moon attracts the Earth.
-II. The gravitational pull of the moon over the earth is one of the factors responsible for the tidal phenomena that occur daily in coastal regions.
-The Commission shall adopt implementing acts. Since gravitational acceleration on the lunar surface is approximately equal to one sixth of gravitational acceleration on the earth's surface, bodies there fall at the same height in six times less time.
+I. Since the Earth has more mass than the Moon, the Earth attracts the Moon more than the Moon attracts the Earth.
+II. The Moon's force of attraction on the Earth is one of those responsible for the tidal phenomena that are observed daily in coastal regions.
+III. Since the gravitational acceleration on the lunar surface is approximately equal to one sixth of the gravitational acceleration on the Earth's surface, bodies there fall, from the same height, in a time six times shorter.
 
-It is true what they say:
+What is stated is correct:
 
-- **A ** only in II and III.
-- **B ** only in II.
-- **C ** only in I and III.
-- ** D** only in I.
-- **E ** only in III.
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1mGzofzwQwpINIEBN0STz3mNbklAOqzq_/view)
+- **A.** only in II and III.
+- **B.** only in II.
+- **C.** only in I and III.
+- **D.** only in I.
+- **E.** only in III.
 
 
 

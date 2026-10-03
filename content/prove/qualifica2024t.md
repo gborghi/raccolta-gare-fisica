@@ -186,18 +186,13 @@ Unità di misura: adimensionale. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Modellino di nave**
+**Model of a ship**
 
-A ship was sunk by high waves in the middle of the ocean. Per studiare l'accaduto, viene creato un modellino in scala $1:35$ della nave, che viene messo in una piscina, molto profonda, con onde alte un 35-esimo di quelle reali. There's a small video camera on the model that captures the scene. In order to achieve a realistic representation of the sinking, the video must be reproduced at a rate multiple of a factor $f$ compared to the natural take-off. Quanto vale $f$?
+A ship was sunk by high waves in the open ocean. To study what happened, a scale model $1:35$ of the ship is created, which is placed in a very deep pool, with waves 1/35 as high as the real ones. A small video camera is mounted on the model and films the scene. In order to obtain a realistic representation of the sinking, the video must be played back at a speed multiplied by a factor $f$ with respect to the natural recording. What is the value of $f$?
 
-Unit of measurement: dimension. Precision required: 0.5%.
+Unit of measurement: dimensionless. Required precision: 0.5%.
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1V_ReSFKhkOcNcPbkq7w0TGBxyhkcEzR9/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J1UZRH6qcs5GrERxzVFHUiHVJrTf4wRJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J1UZRH6qcs5GrERxzVFHUiHVJrTf4wRJ/view)
 
 
 
@@ -371,18 +366,13 @@ Unità di misura: min. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages:
+**Jog**
 
-Fabio is a runner obsessed with training. He usually keeps a constant pace of $5\,\text{min/km}$ for all $7.5\,\text{km}$ of his city's waterfront. This time, however, he decides to accelerate along the way. At first it starts at a rate of $5\,\text{min/km}$, but from then on it increases steadily by $5\,\text{s/km}^2$ until the end of the journey. The increase in rhythm is uniform, which means that in traits of equal length the rhythm increases by an equal amount. How long will it take Fabio to sail the coastline this time?
+Fabio is a runner obsessed with training. He usually keeps a constant pace of $5\,\text{min/km}$ for all $7.5\,\text{km}$ of his city's seafront. This time, however, he decides to speed up along the route. At the beginning he starts with a pace of $5\,\text{min/km}$, but right from the start he increases it steadily by $5\,\text{s/km}^2$ until the end of the route. The increase in pace is uniform, which means that over stretches of equal length the pace increases by an equal amount. How much time will Fabio take this time to cover the seafront?
 
-The following shall be added: Precision required: 0.5%.
+Units of measurement: min. Required precision: 0.5%.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1V_ReSFKhkOcNcPbkq7w0TGBxyhkcEzR9/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J1UZRH6qcs5GrERxzVFHUiHVJrTf4wRJ/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1J1UZRH6qcs5GrERxzVFHUiHVJrTf4wRJ/view)
 
 
 

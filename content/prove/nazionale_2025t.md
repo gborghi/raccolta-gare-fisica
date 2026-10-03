@@ -70,20 +70,15 @@ Un satellite viene lanciato dalla superficie terrestre in direzione radiale, con
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Regulation (EU) No 1303/2013.
+**Escape velocity**
 
-A satellite is launched from the Earth's surface in a radial direction, with the minimum speed necessary to move indefinitely away. How long does it take for it to travel a distance equal to the radius of the Earth?
+A satellite is launched from the Earth's surface in the radial direction, with the minimum speed necessary to move away indefinitely. How much time is needed for it to travel a distance equal to the radius of the Earth?
 
-*Note: the effects of earth rotation and atmospheric resistance are ignored.*
+*Note: ignore the effects of the Earth's rotation and atmospheric resistance.*
 
-The following shall be added to the list of the units: The following information is provided:
+*Unit of measurement:* s. *Required precision:* 0.5%.
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BYQ8b3CJbc-ZLhJ-FDMdNgW1YHNz95D_/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1ZbmcrfsbPXTgbM47oMFg98SBf2dKxQxa/view)
 
 
 

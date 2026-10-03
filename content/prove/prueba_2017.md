@@ -743,60 +743,48 @@ segundas doble rendijas $d_2$ y el ancho de las rendijas $a_2$. En la di
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 3
-Opposizione planetaria
+Opposizione Planetaria
 
-Il 21 agosto scorso si è verificato un fenomeno astronomico che si è reso noto all'interno della
-La stampa come l'Eclipse del Secolo. Alcuni giornali hanno anche riferito che il peso di
-le persone sulla Terra sarebbero state colpite. Questa notizia ci ha fatto pensare:
-- Facciamo un problema di astronomia e interazione gravitazionale?
+Il 21 agosto scorso si è verificato un fenomeno astronomico che è stato divulgato dalla stampa come l'“Eclissi del Secolo”. Alcuni giornali hanno persino riportato che il peso delle persone sulla Terra sarebbe stato influenzato. Questa notizia ci ha fatto pensare… e se facessimo un problema di Astronomia e interazione gravitazionale?
 
-In astronomia, si chiama Opposizione al fenomeno in cui due stelle si incontrano
-si trovano, rispetto alla Terra, in due punti del cielo diametralmente opposti. La
-La figura 1 mostra Marte in opposizione al Sole.
+In Astronomia, si definisce Opposizione il fenomeno in cui due astri si trovano, rispetto alla Terra, in due punti del cielo diametralmente opposti. La figura 1 mostra Marte in Opposizione al Sole.
 
-Figura 1: Marte in opposizione al Sole
+Figura 1: Marte in Opposizione al Sole
 
-In questo problema, faremo uso delle leggi di Kepler e della legge di
-Interazione gravitazionale di Newton. Le leggi di Kepler sono
+Nel corso di questo problema, faremo uso delle leggi di Keplero e della legge di interazione gravitazionale di Newton. Le Leggi di Keplero sono
 
 Prima legge
-Tutti i pianeti si muovono attorno al Sole descrivendo orbite elliptiche.
-Il Sole si trova in uno dei foci dell'ellipse.
+Tutti i pianeti si muovono attorno al Sole descrivendo orbite ellittiche.
+Il Sole si trova in uno dei fuochi dell'ellisse.
 
 Seconda legge
-La radio-vettrice che unisce un pianeta e il Sole spazia le stesse aree allo stesso tempo.
+Il raggio vettore che unisce un pianeta e il Sole spazza aree uguali in tempi uguali.
 
-Terza legge
-Si realizza che per tutti i pianeti, il rapporto tra il periodo di rivoluzione al
-La quadrata e la semiezza maggiore dell'ellipse al cubo rimangono costanti. Questo è:
+Terza Legge
+Vale che per tutti i pianeti, il rapporto tra il periodo di rivoluzione al quadrato e il semiasse maggiore dell'ellisse al cubo rimane costante. Cioè:
 
 $$\frac{T^2}{a^3} = C$$
 
-Dove $T$ è il periodo orbitale (tempo necessario per girare intorno al
-Sol), $a$ è la distanza media del pianeta dal Sole e $C$ la costante di
-Proporzionalità.
+Dove $T$ è il periodo orbitale (tempo che impiega a fare un giro attorno al
+Sole), $a$ è la distanza media del pianeta dal Sole e $C$ la costante di proporzionalità.
 
-Nota: nel nostro problema, consideriamo che le orbite sono circolari e i foci di
-L'ellipse coincide con il centro del cerchio. In aggiunta alle orbite dei paneti
-Le parti considerate sono situate nello stesso piano.
+Nota: nel nostro problema, considereremo che le orbite siano circolari e i fuochi dell'ellisse coincidano con il centro del cerchio. Inoltre le orbite dei pianeti considerati sono situate in uno stesso piano.
 
-Risolvi i seguenti punti:
+Risolvere i seguenti punti:
 
-a) Se l'ultima volta che Marte è stato in opposizione al sole, è avvenuto il 22 maggio di
-2016, quando si verificherà la prossima opposizione al sole?
+a) Se l'ultima volta che Marte è stato in Opposizione al sole è avvenuta il 22 maggio
+2016, quando avverrà la prossima Opposizione al sole?
 
-b) Qual è il raggio di orbita del pianeta Marte?
+b) Qual è il raggio dell'orbita del pianeta Marte?
 
-c) Qual è il peso sulla superficie di Marte di un astronauta che pesa sulla Terra
+c) Qual è il suo peso sulla superficie di Marte di un astronauta che sulla Terra pesa
 700 N?
-(non tiene conto degli effetti dovuti alla rotazione dei pianeti sui loro
-aumenti di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di veloc
+(non tenere conto degli effetti dovuti alla rotazione dei pianeti sui propri assi).
 
-Supponiamo che Marte sia in opposizione al sole, l'astronauta si trovi al punto
-P della figura 1.
+Supponete che, essendo Marte in Opposizione al sole, l'astronauta si trovi nel punto
+P della Figura 1.
 
-d) Qual è il cambiamento di peso che si prova a causa della massima vicinanza
-della Terra rispetto a Marte?
+d) Qual è la variazione che il suo peso subisce a causa della massima prossimità della Terra rispetto a Marte?
 
 Dati utili per il problema
 
@@ -805,343 +793,214 @@ Periodo orbitale di Marte: 687 giorni
 Periodo orbitale della Terra: 365 giorni
 Massa della Terra: $5{,}972\times10^{24}\ \text{kg}$
 Massa del Sole: $1{,}989\times10^{30}\ \text{kg}$
-Radiosfera della Terra: 6371 km
-Radio di Marte: 3390 km
+Raggio della Terra: 6371 km
+Raggio di Marte: 3390 km
 Velocità della luce: $300000\ \text{km s}^{-1}$
-Costante universale di gravità: $G = 6{,}674\times10^{-11}\ \dfrac{\text{N m}^2}{\text{kg}^2}$
+Costante universale di gravitazione: $G = 6{,}674\times10^{-11}\ \dfrac{\text{N m}^2}{\text{kg}^2}$
 
-Prova sperimentale - Livello 1
+Prova Sperimentale - Livello 1
 
-Interferenza da una doppia rendija
+Interferenza da una Doppia Fenditura
 
-Obiettivo generale
-Verificare sperimentalmente la natura ondulatoria della luce mediante l'osservazione
-di interferenza generata da una doppia spazia.
+Obiettivo Generale
+Verificare sperimentalmente la natura ondulatoria della luce mediante l'osservazione del pattern di interferenza generato da una doppia fenditura.
 
 Introduzione
-Nel 1801 Thomas Young eseguì un esperimento di ottica, il cui risultato è stato
-La luce si comporta come un'onda, al contrario della luce.
-La teoria tradizionale che sosteneva che la luce fosse costituita da un flusso di fine
-particelle.
-Per eseguire l'esperimento, Young ha utilizzato una fonte di luce monocromatica, cioè
-un colore unico e determinato. Alla luce proveniente da questa fonte, la fece incidere su una
-una lamina non trasparente che aveva una sottile spazia, l'unico posto attraverso il quale poteva passare
-la luce. Dopo aver attraversato questa spaccatura, la luce si è incentrata su un'altra lamina non trasparente.
-che aveva due sottili spazzature molto vicine, come si vede nella figura
-1. Grande fu la sorpresa di Young quando osservò che la luce catturata su una
-la luce che emanava dalle due spacie, produceva un modello di strisce
-luminosi e scuri.
+Nel 1801 Thomas Young realizzò un esperimento di ottica, il cui risultato può essere spiegato solo considerando che la luce si comporta come un'onda, in contrapposizione alla teoria tradizionale che sosteneva che la luce fosse formata da una corrente di fini particelle.
+Per realizzare l'esperimento, Young utilizzò una sorgente di luce monocromatica, cioè di un solo e determinato colore. Fece incidere la luce proveniente da questa sorgente su una lamina non trasparente che aveva una fenditura sottile, unico luogo attraverso cui la luce poteva passare. Dopo essere passata attraverso questa fenditura, la luce incise su un'altra lamina non trasparente che aveva due fenditure sottili e molto vicine tra loro, come mostrato nella Figura
+1. Grande fu la sorpresa di Young quando osservò che la luce captata su uno schermo, cioè la luce che "emanava" dalle due fenditure, produceva un pattern di frange chiare e scure.
 
 Interpretazione
-Per poter interpretare questi risultati, Young ha dovuto supporre un comportamento
-di onde di luce:
-La luce si comporta come un'onda, la cui lunghezza d'onda associata è
-è legato al colore della luce osservata. Cioè, il colore rosso ha un
-lunghezza d'onda diversa da quella del giallo o del verde.
-La luce emerge dalle spacie come onde cilindriche, cioè ha frunti di
-L'aumento della capacità di trasmissione è stato determinato in base alle seguenti caratteristiche:
-Le fronti d'onda che incidono sulla lamina con la doppia spazia emergono con
-la stessa fase, cioè: le onde sono coerenti.
-Le differenze di fase tra due onde sono correlate alla differenza tra
-le distanze che hanno percorso.
-Le onde che partono da ogni spaccatura della seconda lamina (doppia spaccatura)
-E' possibile che i due viaggiatori si spostino a diverse distanze fino a raggiungere i punti sullo schermo.
-che arrivano a ogni punto con diverse fasi.
+Per poter interpretare questi risultati, Young dovette supporre un comportamento ondulatorio della luce:
+ La luce si comporta come un'onda, la cui lunghezza d'onda associata è legata al colore della luce che si osserva. Cioè, il colore rosso ha una lunghezza d'onda diversa da quella del giallo o del verde.
+ La luce emerge dalle fenditure come onde cilindriche, cioè ha fronti d'onda cilindrici (Figura 1).
+ I fronti d'onda che incidono sulla lamina con la doppia fenditura emergono con la stessa fase, vale a dire: le onde sono coerenti.
+ Le differenze di fase tra due onde sono legate alla differenza tra le distanze che hanno percorso.
+ Le onde che "partono" da ciascuna fenditura della seconda lamina (doppia fenditura)
+percorrono distanze diverse fino a raggiungere i punti sullo schermo, per cui arrivano a ogni punto con fasi diverse.
 Figura 1
-Fette lucenti
-Fette scure
-Scattoli
-Laminata con una
-spazzola
-Laminata con due
-scaglie
-Fonte di luce
-Quando si superponono, cioè quando si sommano onde con diverse fasi si produce una
-modello di interferenza (modello di strisce luminose e scure).
+Frange luminose
+Frange scure
+Schermo
+Lamina con una fenditura
+Lamina con due fenditure
+Sorgente di luce
+ Sovrapponendosi, cioè: sommando onde con fasi diverse si produce una figura di interferenza (figura di frange luminose e scure).
 
 Analisi
-La figura 2 mostra schematicamente la disposizione geometrica dell'esperimento e
-la differenza $\Delta$ tra le distanze percorse dai frunti d'onda fino a raggiungere un
-punto di uno schermo molto lontano.
+Nella Figura 2 è mostrata schematicamente la disposizione geometrica dell'esperimento e la differenza $\Delta$ tra le distanze che i fronti d'onda percorrono fino a raggiungere un punto di uno schermo molto lontano.
 
-La condizione di distanza è necessaria per trattare i raggi che raggiungono lo schermo
-Come raggi quasi paralleli e facilitare i calcoli matematici. Si può quindi considerare
-che la differenza di  percorso  $\Delta$ tra i raggi che emergono da una spaccatura e
-quelli che emergono dall'altra spaccatura sono:
+La condizione di molto lontana è necessaria per trattare i raggi che raggiungono lo schermo come raggi quasi paralleli e facilitare i calcoli matematici. Così, si può considerare che la differenza di "cammino percorso" $\Delta$ tra i raggi che emergono da una fenditura e quelli che emergono dall'altra fenditura è:
 $$\Delta = d\sin\theta$$
-Dove $d$ è la distanza di separazione tra le spazzature e $\theta$ è l'angolo che posiziona
-al punto considerato sullo schermo.
-Per evitare di dover mettere uno schermo lontano, si usa di solito un lente thin, utilizzando
-che permette di far convergere i raggi paralleli nel foco di questa, dove
+Dove $d$ è la distanza di separazione tra le fenditure e $\theta$ è l'angolo che posiziona il punto considerato sullo schermo.
+Per non dover mettere uno schermo lontano, si usa di solito una lente "sottile", mediante la quale si ottiene che i raggi paralleli convergano nel fuoco della stessa, dove
 Figura 2
-$\Delta$
-d
+$\Delta$ d
 
-Zona ampliata
-Raggi quasi paralleli
+Zona ingrandita
+Raggi "quasi" paralleli
 $\Delta$
 
-d
-si trova lo schermo. Oppure fare questo esperimento usando il nostro occhio, il sistema corneocristalino, come lente e la nostra retina come schermo. Se mettiamo il doppio spazio molto
-vicino al nostro occhio, possiamo schematizzare la situazione come mostrato nella figura
+d si trova lo schermo. O realizzare questo esperimento usando il nostro occhio, sistema "cornea-cristallino", come lente e la nostra retina come schermo. Se mettiamo la doppia fenditura molto vicina al nostro occhio, possiamo schematizzare la situazione come mostrato nella Figura
 3.
 
-Come indicato nella figura 3 si percepiranno i raggi che raggiungono la nostra retina, come
-provenienti da strisce luminose situate nello stesso piano in cui si trova la
-fonte di luce. Per esempio, sembreranno provenire dal punto P situato a una distanza $y$
-di un'asse orizzontale e sul piano in cui si trova la fonte di luce e con una
-inclinamento $\theta$.
-Se l'angolo $\theta$ è piccolo (meno di $15^\circ$) si
-può considerare:
+Come indicato nella figura 3 si percepiranno i raggi che raggiungono la nostra retina, come provenienti da frange luminose situate nello stesso piano in cui si trova la sorgente di luce. Per esempio, sembreranno "provenire" dal punto P' situato a una distanza $y$ dall'asse orizzontale e sul piano in cui si trova la sorgente di luce e con un'inclinazione $\theta$.
+Se l'angolo $\theta$ è piccolo (minore di $15^\circ$) si può considerare:
 $$\Delta \cong d\,\mathrm{tg}\,\theta \cong d\,\frac{y}{D}$$
 
-In questo caso, considerando la differenza tra
-Via percorsa dai raggi originari di
-per ogni spazzola e considerando $\theta$ piccole, la
-La posizione delle regioni luminose (massimi di
-interferenza) è data da:
-$$y_m = \frac{m\,\lambda\,D}{d}$$
-dove $\lambda$ è la lunghezza d'onda della luce che
-si incide sulla spazia doppia e $m$ è il numero di
-di massima considerazione. Questo è: $m = 0$
-(centrale e coincidente con la fonte luminosa),
-$m = \pm1$ (prime strisce: a destra e a
-a sinistra della centrale), $m = \pm2$ (secondi)
-La Commissione ha adottato una decisione che non può essere adottata.
+In questo caso, considerando la differenza di cammino "percorso" dai raggi originati in ciascuna fenditura e considerando $\theta$ piccoli, la posizione delle regioni luminose (massimi di interferenza) sarà data da:
+$$y_m = \frac{m\,\lambda\,D}{d}$$ dove $\lambda$ è la lunghezza d'onda della luce che incide sulla doppia fenditura e $m$ è il numero d'ordine del massimo considerato. Ovvero: $m = 0$ (centrale e coincidente con la sorgente di luce),
+$m = \pm1$ (prime frange: a destra e a sinistra di quella centrale), $m = \pm2$ (seconde frange) e così via.
 
-Modello di fasce
-visualizzabile
+Pattern di frange visualizzato
 
 Figura 3
 $\theta$
-D
-y
+D e
 Retina
-Cornea- cristallino
-P’
-Fonte di luce
-Modello di fasce visualizzato
+Cornea- Cristallino
+P'
+Sorgente di luce
+Pattern di frange visualizzato
 Occhio
 
-Nota: L'analisi non ha considerato il fenomeno di diffrazione, che
-La luce di questa luce è molto più intensa che la luce di questa luce.
-La maggior parte dei prodotti di cui trattasi è destinata a essere utilizzata per la produzione di prodotti di base.
+Nota: Nell'analisi svolta non è stato considerato il fenomeno della diffrazione, il quale fa sì che l'intensità delle regioni luminose non sia la stessa e che svaniscano man mano che aumenta l'ordine del massimo considerato.
 
-Proposta sperimentale
+Proposta Sperimentale
 
 Elementi disponibili
 
-Slide con doppie spazzature. La separazione tra le prime è stata scritta
-doppia spazia $d_1$ e larghezza delle spazia $a_1$ e, inoltre, la separazione tra le
-Seconda doppia spazia $d_2$ e larghezza delle spazia $a_2$. En la di
+ Diapositive con doppie fenditure. È stata scritta la separazione tra le prime doppie fenditure $d_1$ e la larghezza delle fenditure $a_1$ e, inoltre, la separazione tra le seconde doppie fenditure $d_2$ e la larghezza delle fenditure $a_2$. Nella di
 
-**Topic:** [[Gravitation]], [[Wave Optics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Slit (object)|Slit]], [[Screen (object)|Screen]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-The Planetary Opposition
+Problem 3
+Planetary Opposition
 
-On 21 August last an astronomical phenomenon took place which was made public in the
-Press like the Eclipse of the Century. Some newspapers even reported that the weight of
-people on Earth would be affected. Esta noticia nos hizo pensar… ¿y si
-We're going to do an astronomy and gravitational interaction problem?
+Last August 21, an astronomical phenomenon occurred that was reported in the press as the "Eclipse of the Century." Some newspapers even reported that people's weight on Earth would be affected. This news made us think... what if we make a problem about Astronomy and gravitational interaction?
 
-In astronomy, it is called Opposition to the phenomenon in which two stars are
-They are located, relative to the Earth, at two diametrically opposite points in the sky. La
-Figure 1 shows Mars as opposed to the Sun.
+In Astronomy, Opposition is the phenomenon in which two celestial bodies are, relative to Earth, at two diametrically opposite points in the sky. Figure 1 shows Mars in Opposition to the Sun.
 
 Figure 1: Mars in Opposition to the Sun
 
-Throughout this problem, we'll use Kepler's laws and the law of
-Newton's gravitational interaction. Kepler's laws are
+Throughout this problem, we will use Kepler's laws and Newton's law of gravitational interaction. Kepler's Laws are
 
-First Law
-All the planets move around the Sun describing elliptical orbits.
-The Sun is at one of the focuses of the ellipse.
+First law
+All planets move around the Sun describing elliptical orbits.
+The Sun is located at one of the foci of the ellipse.
 
 Second law
-The vector radius that connects a planet to the Sun crosses the same areas at the same time.
+The radius vector joining a planet and the Sun sweeps out equal areas in equal times.
 
 Third Law
-It is true that for all planets, the ratio between the period of revolution to the
-square and the major semicircle of the ellipse to the cube remains constant. This is:
+It holds that for all planets, the ratio between the square of the period of revolution and the cube of the semimajor axis of the ellipse remains constant. That is:
 
 $$\frac{T^2}{a^3} = C$$
 
-Where $T$ is the orbital period (time it takes to turn around the
-The mean distance of the planet from the Sun is $a$ and $C$ is the constant of
-the Commission's proposal.
+Where $T$ is the orbital period (time it takes to complete one revolution around the
+Sun), $a$ is the mean distance of the planet from the Sun and $C$ the constant of proportionality.
 
-Note: in our problem, we will consider that the orbits are circular and the focuses of the
-The ellipse coincides with the center of the circle. In addition to the orbits of the planets
-The two are located on the same plane.
+Note: in our problem, we will consider that the orbits are circular and the foci of the ellipse coincide at the center of the circle. Furthermore, the orbits of the planets considered are located in the same plane.
 
-Resolve the following points:
+Solve the following points:
 
-(a) If the last time Mars was in opposition to the sun, it was on 22 May
-2016, when will the next Opposition to the Sun occur?
+a) If the last time Mars was in Opposition to the sun occurred on May 22, 2016, when will the next Opposition to the sun occur?
 
-(b) What is the radius of orbit of the planet Mars?
+b) What is the radius of the orbit of the planet Mars?
 
-(c) What is the weight on the surface of Mars of an astronaut who weighs on Earth?
-700 N?
-(does not take into account effects due to the rotation of the planets on their
-own axes).
+c) What is the weight on the surface of Mars of an astronaut who weighs 700 N on Earth?
+(do not take into account effects due to the rotation of the planets on their own axes).
 
-Suppose that, with Mars in opposition to the sun, the astronaut is at the point
-P of Figure 1.
+Assume that, with Mars in Opposition to the sun, the astronaut is at point P of Figure 1.
 
-(d) What is the change in weight you experience due to the maximum proximity
-Earth's relationship to Mars?
+d) What is the change experienced in his weight due to the maximum proximity of the Earth with respect to Mars?
 
-Data useful for the problem
+Useful data for the problem
 
-The mass of Mars: $6{,}39\times10^{23}\ \text{kg}$
-Mars orbital period: 687 days
-Earth's orbital period: 365 days
-The mass of the Earth: $5{,}972\times10^{24}\ \text{kg}$
+Mass of Mars: $6{,}39\times10^{23}\ \text{kg}$
+Orbital period of Mars: 687 days
+Orbital period of the Earth: 365 days
+Mass of the Earth: $5{,}972\times10^{24}\ \text{kg}$
 Mass of the Sun: $1{,}989\times10^{30}\ \text{kg}$
 Radius of the Earth: 6371 km
-Radio of Mars: 3390 km
-The speed of light shall be: $300000\ \text{km s}^{-1}$
-Constante universal de la gravitación: $G = 6{,}674\times10^{-11}\ \dfrac{\text{N m}^2}{\text{kg}^2}$
+Radius of Mars: 3390 km
+Speed of light: $300000\ \text{km s}^{-1}$
+Universal constant of gravitation: $G = 6{,}674\times10^{-11}\ \dfrac{\text{N m}^2}{\text{kg}^2}$
 
-The following shall be added to the list of the categories of vehicles:
+Experimental Test - Level 1
 
-Interference by a Double Rendija
+Double-Slit Interference
 
-General objective
-Experimental verification of the wavy nature of light by observation
-the interference pattern generated by a double slit.
+General Objective
+Experimentally verify the wave nature of light by observing the interference pattern generated by a double slit.
 
-The following is the list of the countries of the European Union:
-In 1801 Thomas Young conducted an experiment in optics, the result of which can only be seen by the
-The reason for this is that light behaves as a wave, as opposed to
-The traditional theory that light was made up of a stream of fine particles
-particles.
-To perform the experiment, Young used a monochrome light source, that is,
-a single, determined color. The light from this source made her focus on a
-The non-transparent sheet that had a thin cleft, the only place he could pass through
-The light. After passing through this crack, the light hit another opaque sheet.
-It had two thin, very close slits, as shown in the figure.
-1. Great was Young's surprise when he noticed that the light captured on a
-screen, this is the light that came from the two slits, producing a pattern of stripes
-bright and dark.
+Introduction
+In 1801 Thomas Young performed an optics experiment, whose result can only be explained by considering that light behaves as a wave, as opposed to the traditional theory that held that light was made up of a stream of fine particles.
+To perform the experiment, Young used a source of monochromatic light, that is, of a single and specific color. He made the light coming from this source strike a non-transparent plate that had a thin slit, the only place through which the light could pass. After passing through this slit, the light struck another non-transparent plate that had two thin slits very close to each other, as shown in Figure
+1. Young was greatly surprised when he observed that the light captured on a screen, that is, the light that "emanated" from the two slits, produced a pattern of bright and dark fringes.
 
-The interpretation
-To interpret these results, Young had to assume a behavior
-The light wavelength:
-Light behaves like a wave, whose associated wavelength is
-It's related to the color of the light we see. I mean, the red color has a
-The wavelength differs from that of the yellow or green.
-The light emerges from the gaps as cylindrical waves, that is, it has fronts of
-The following table shows the results of the calculations:
-The wavefronts that impact the sheet with the double-slit emerge with the
-The same phase, that is, the waves are consistent.
-The phase differences between two waves are related to the difference between the two waves.
-the distances they've traveled.
-The waves that are part of each slit of the second sheet (double slit)
-They travel different distances to reach the points on the screen, so
-They come to each point with different phases.
+Interpretation
+In order to interpret these results, Young had to assume a wave-like behavior of light:
+ Light behaves as a wave, whose associated wavelength is related to the color of the light that is observed. That is, red light has a different wavelength from that of yellow or green.
+ Light emerges from the slits as cylindrical waves, that is, it has cylindrical wavefronts (Figure 1).
+ The wavefronts that strike the plate with the double slit emerge with the same phase, that is: the waves are coherent.
+ The phase differences between two waves is related to the difference between the distances they have traveled.
+ The waves that "start" from each slit of the second plate (double slit)
+travel different distances until reaching the points on the screen, so they arrive at each point with different phases.
 Figure 1
-Bright stripes
-Dark stripes
+Bright fringes
+Dark fringes
 Screen
-Laminated with a
-The following is the list of the following:
-Laminated with two
-Other
+Plate with one slit
+Plate with two slits
 Light source
-When the waves are superimposed, that is, when they add up waves with different phases, a
-interference pattern (bright and dark band pattern).
+ When they overlap, that is: when waves with different phases are added, an interference pattern is produced (a pattern of bright and dark fringes).
 
-The following is the list of the countries:
-Figure 2 shows the geometric arrangement of the experiment and the geometrical arrangement of the experiment.
-The difference $\Delta$ between the distances travelled by the wavefronts until a
-point of a very distant screen.
+Analysis
+Figure 2 schematically shows the geometric arrangement of the experiment and the difference $\Delta$ between the distances traveled by the wavefronts until reaching a point on a very distant screen.
 
-The condition of very distant is necessary to treat the rays that reach the screen
-Like almost parallel beams and make mathematical calculations easier. Thus, it can be considered
-that the difference of pathway $\Delta$ between the rays emerging from a cleft and
-Those that emerge from the other crack are:
+The very distant condition is necessary to treat the rays that reach the screen as nearly parallel rays and to facilitate the mathematical calculations. Thus, it can be considered that the difference in "path traveled" $\Delta$ between the rays that emerge from one slit and those that emerge from the other slit is:
 $$\Delta = d\sin\theta$$
-Where $d$ is the distance between the slits and $\theta$ is the angle that positions
-the point considered on the screen.
-To avoid having to put a remote display, a thin lens is usually used, using a
-The same is true for the parallel rays in the focus of the same beam.
+Where $d$ is the separation distance between the slits and $\theta$ is the angle that positions the considered point on the screen.
+In order not to have to place a distant screen, a "thin" lens is usually used, by means of which the parallel rays are made to converge at its focus, where
 Figure 2
-$\Delta$
-d
+$\Delta$ d
 
-Extended area
-Almost parallel beams
+Enlarged zone
+"Almost" parallel rays
 $\Delta$
 
-d
-the screen is located. Or do this experiment using our eye, the cornea-crystalline system, as a lens and our retina as a screen. If we put the double slit too
-close to our eye, we can outline the situation as shown in Figure
+d the screen is located. Or perform this experiment using our eye, the "corneacrystalline" system, as a lens and our retina as a screen. If we place the double slit very close to our eye, we can schematize the situation as shown in Figure
 3.
 
-As shown in Figure 3, the rays reaching our retina will be perceived as
-The resulting lighting is a bright strip of light, which is located on the same plane as the
-the source of light. For example, they will appear to be  from the point P located at a distance $y$
-The horizontal axis and the plane on which the light source is located and with a
-inclinación $\theta$.
-If the angle $\theta$ is small (less than $15^\circ$)
-may consider:
+As indicated in figure 3, the rays that reach our retina will be perceived as coming from bright fringes located in the same plane where the light source is found. For example, they will appear to "come" from point P' located at a distance $y$ from the horizontal axis and on the plane where the light source is located and with an inclination $\theta$.
+If the angle $\theta$ is small (less than $15^\circ$) it can be considered:
 $$\Delta \cong d\,\mathrm{tg}\,\theta \cong d\,\frac{y}{D}$$
 
-In this case, considering the difference between the
-Road traveled by the rays originating in
-For each slit and considering $\theta$ small, the
-The position of the bright regions (maximum
-interference) shall be given by:
-$$y_m = \frac{m\,\lambda\,D}{d}$$
-where $\lambda$ is the wavelength of the light that
-The value of the double clearance is $m$
-order of maximum consideration. This is: $m = 0$
-(central and matching the light source),
-$m = \pm1$ (first lines: to the right and to the right)
-izquierda de la central), $m = \pm2$ (segundas
-The Commission has already taken a number of measures.
+In this case, considering the path difference "traveled" by the rays originating from each slit and considering small $\theta$, the position of the bright regions (interference maxima) will be given by:
+$$y_m = \frac{m\,\lambda\,D}{d}$$ where $\lambda$ is the wavelength of the light incident on the double slit and $m$ is the order number of the maximum considered. That is: $m = 0$ (central and coincident with the light source),
+$m = \pm1$ (first fringes: to the right and to the left of the central one), $m = \pm2$ (second fringes) and so on.
 
-Pattern of bands
-displayed
+Visualized fringe pattern
 
 Figure 3
 $\theta$
-D
-y
+D and
 Retina
-Other, of a kind used for the manufacture of goods
+Cornea- Lens
 P’
 Light source
-The pattern of stripes shown
+Visualized fringe pattern
 Eye
 
-Note: The analysis did not consider the diffraction phenomenon, which is the
-The intensity of the bright regions is not the same and the
-The number of the maximum considered shall be increased.
+Note: In the analysis carried out, the diffraction phenomenon has not been considered, which causes the intensity of the bright regions not to be the same and to fade as the order of the maximum considered increases.
 
-The experimental proposal
+Experimental Proposal
 
-Available items
+Available elements
 
-Slides with double slits. The first two are separated.
-double $d_1$ and the width of the $a_1$ slits and, also the separation between the slits
-second double slits $d_2$ and the width of the slits $a_2$. En la di
-
-**Topic:** [[Gravitation]], [[Wave Optics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Slit (object)|Slit]], [[Screen (object)|Screen]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
-
+ Slides with double slits. The separation between the first double slits $d_1$ and the width of the slits $a_1$ have been written, and also the separation between the second double slits $d_2$ and the width of the slits $a_2$. In the di
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2017 — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/pipe-tube"></span>
@@ -2186,185 +2045,129 @@ La luce emerge dalle spacie come onde cilindriche
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-The Planetary Opposition
+Problem 3
+Planetary Opposition
 
-On 21 August last an astronomical phenomenon took place which was made public in the
-Press like the Eclipse of the Century. Some newspapers even reported that the weight of
-people on Earth were going to be affected. Esta noticia nos hizo pensar… ¿y si
-We're going to do an astronomy and gravitational interaction problem?
+Last August 21, an astronomical phenomenon occurred that was reported in the press as the "Eclipse of the Century." Some newspapers even reported that people's weight on Earth was going to be affected. This news made us think... what if we make a problem about Astronomy and gravitational interaction?
 
-In astronomy, it is called Opposition to the phenomenon in which two stars are
-They are located, relative to the Earth, at two points in the sky diametrically opposite. La
-Figure 1 shows Mars as opposed to the Sun.
+In Astronomy, Opposition is the phenomenon in which two celestial bodies are, relative to Earth, at two diametrically opposite points in the sky. Figure 1 shows Mars in Opposition to the Sun.
 
 Figure 1: Mars in Opposition to the Sun
 
-Throughout this problem, we'll use Kepler's laws and the law of
-Newton's gravitational interaction. Kepler's laws are
+Throughout this problem, we will use Kepler's laws and Newton's law of gravitational interaction. Kepler's Laws are
 
-First Law
-All the planets move around the Sun describing elliptical orbits.
-The Sun is at one of the focuses of the ellipse.
+First law
+All planets move around the Sun describing elliptical orbits.
+The Sun is located at one of the foci of the ellipse.
 
 Second law
-The vector radius that connects a planet to the Sun crosses the same areas at the same time.
+The radius vector joining a planet and the Sun sweeps out equal areas in equal times.
 
 Third Law
-It is true that for all planets, the ratio between the period of revolution to the
-square and the major semicircle of the ellipse to the cube remains constant. This is:
+It holds that for all planets, the ratio between the square of the period of revolution and the cube of the semimajor axis of the ellipse remains constant. That is:
 
 $$\frac{T^2}{a^3} = C$$
 
-Where $T$ is the orbital period (time it takes to turn around the
-Sol), $a$ es la distancia media del planeta con el Sol y $C$ la constante de
-the Commission's proposal.
+Where $T$ is the orbital period (time it takes to complete one revolution around the
+Sun), $a$ is the mean distance of the planet from the Sun and $C$ the constant of proportionality.
 
-Note: in our problem, we will consider that the orbits are circular and the focuses of the
-The ellipse coincides with the center of the circle. In addition to the orbits of the planets
-The two are located on the same plane.
+Note: in our problem, we will consider that the orbits are circular and the foci of the ellipse coincide at the center of the circle. Furthermore, the orbits of the planets considered are located in the same plane.
 
-Resolve the following points:
+Solve the following points:
 
-(a) If the last time Mars was in opposition to the sun, it was on 22 May
-2016, when will the next Opposition to the Sun occur?
-- **B.** ¿Cuál es el radio de la órbita del planeta Marte?
-- **C ** What is the weight on the surface of Mars of an astronaut who weighs on Earth
+a) If the last time Mars was in Opposition to the sun occurred on May 22,
+2016, when will the next Opposition to the sun occur?
+- **B.** What is the radius of the orbit of the planet Mars?
+- **C.** What is the weight on the surface of Mars of an astronaut who on Earth weighs
 700 N?
-(does not take into account effects due to the rotation of the planets on their
-own axes).
+(do not take into account effects due to the rotation of the planets on their own axes).
 
-Suppose that, with Mars in opposition to the sun, the astronaut is at the point
+Assume that, with Mars in Opposition to the sun, the astronaut is at point
 P of Figure 1.
-(d) What is the change in weight you experience due to the maximum proximity
-Earth's relationship to Mars?
+d) What is the change experienced in his weight due to the maximum proximity of the Earth with respect to Mars?
 
-Jupiter, the largest planet in our solar system, is a gas planet. Its period of
-rotation, around its axis, is the smallest of all the corresponding planets
-the solar system (less than 10 hs). It should be noted that, as it is a gaseous material, it has different
-speeds at different latitudes.
+Jupiter, the largest planet in our solar system, is a gaseous planet. Its rotation period, around its axis, is the shortest among all those corresponding to the planets of the solar system (it is less than 10 h). It should be clarified that, because it is gaseous, it has different speeds at different latitudes.
 
-On the other hand, the radiation spectrum from Jupiter, which reaches Earth, is
-It's almost identical to the sun; that is, it works like a rotating mirror for light.
-The sun. Every thirteen months Jupiter is in opposition to the Sun, which is a good
-The Commission has also adopted a number of measures to ensure that the speed of the vehicle is measured.
-rotation.
+On the other hand, the radiation spectrum coming from Jupiter, which reaches the Earth, is practically identical to that of the Sun; that is, it works as a "rotating mirror" for sunlight. Every thirteen months Jupiter is in Opposition to the Sun, which is a good occasion to carry out measurements on it; in particular, to measure its rotation speed.
 
-For measurements of Jupiter's rotational speed, the effect is used
-Doppler; that is, the variation in wavelength due to the motion of the source.
+To carry out the measurements of Jupiter's rotation speed, the Doppler effect is used; that is, the variation of the wavelength due to the motion of the source.
 
-If a source emitting at a wavelength $\lambda$ moves at a speed $v$ the
-the wavelength perceived by a resting observer $\lambda'$ shall meet
-$$\frac{\Delta\lambda}{\lambda} = \pm\frac{v}{c} \quad (1)$$
-where $\Delta\lambda = \lambda' - \lambda$ is the wavelength velocity, $c$ is the speed of light and
-$\lambda$ is the wavelength of radiation measured in a resting laboratory. The sign (+)
-corresponds to the situation in which the source moves away from the observer and the sign (−)
-The source is the observer's approach.
+If a source that emits at a wavelength $\lambda$ moves at a speed $v$, the wavelength perceived by an observer at rest $\lambda'$ will satisfy
+$$\frac{\Delta\lambda}{\lambda} = \pm\frac{v}{c} \quad (1)$$ where $\Delta\lambda = \lambda' - \lambda$ is the wavelength shift, $c$ is the speed of light and
+$\lambda$ is the wavelength of the radiation measured in a laboratory at rest. The (+) sign
+corresponds to the situation in which the source moves away from the observer and the (−) sign
+corresponds to the situation in which the source moves toward the observer.
 
-Suppose from a source F a wavelength light is emitted that incides and is
-reflects on a perfect mirror moving at $v$ (Figure 2).
+Suppose that from a source F light of wavelength is emitted that strikes and is reflected on a perfect mirror that moves with speed $v$ (Figure 2).
 
-Figure 2: Radiation on a moving mirror moving away from the source.
+Figure 2: Radiation on a mirror moving away from the source.
 v
 Mirror
-Make the light incidental
-Make it a reflected light
+Incident light beam
+Reflected light beam
 F
-Considering that the motion of the mirror is along the x direction and the incidence
-The lightning is normal to the same:
+Considering that the motion of the mirror is along the x direction and the incidence of the ray is normal to it:
 
-(e) calculate the variation in wavelength ($\Delta\lambda$) of the radiation, reflected in the
-moving mirror.
+e) calculate the variation in the wavelength ($\Delta\lambda$) of the radiation upon reflecting from the moving mirror.
 
-Remember, according to the relativity postulate, the speed of light is the speed of light.
-It's the same for every observer. We'll also assume that the speed of the mirror
-It's very low compared to the speed of light.
+Remember that, according to the postulate of relativity, the speed of light is the same for every observer. We will also assume that the speed of the mirror is very low compared with the speed of light.
 
-Figure 3 shows the spectrum of radiation from Jupiter taken from the
-Height of its equator. Two slightly inclined spectral lines are observed and well
-marked, which correspond to a double of sodium (Na1 and Na2). Also, they are observed
-two perfectly vertical lines of land origin corresponding to the steam of
-water from our atmosphere (T1 and T2).
+Figure 3 shows the radiation spectrum coming from Jupiter, taken at the height of its equator. Two spectral lines are observed, slightly tilted and well marked, which correspond to a Sodium doublet (Na1 and Na2). Also, two perfectly vertical lines are observed, of terrestrial origin, corresponding to the water vapor of our atmosphere (T1 and T2).
 
-Figure 3: Spectrum of the planet Jupiter taken at its equator
+Figure 3: Spectrum of the planet Jupiter taken at the height of its equator
 
-The slight tilt on the Na1 and Na2 lines is due to Jupiter's rotation. Length
-radiation wave from edge A, which is waved away from an observer
-Earth, it's increasing. On the other hand, radiation from the B edge, which is close to the
-A ground observer, it decreases. See figure 4.
+The slight tilt in the Na1 and Na2 lines is due to the rotation of Jupiter. The wavelength of the radiation coming from edge A, which is "moving away" from a terrestrial observer, increases. On the other hand, the radiation coming from edge B, which is "approaching" a terrestrial observer, decreases. See figure 4.
 
-Figure 4: Schematic representation of the spectrometer slit pointing to the
-Jupiter's equator.
+Figure 4: Schematic representation of the spectrometer slit pointing at the equator of Jupiter.
 
-The A-border
+Edge A
 S
 N
-B-side
+Edge B
 
-The A-border
-The Equator
-B-side
-Double the
-Having regard to the calculation in point (e) above and having regard to the determination that:
-The sodium double-line lines have a wavelength $\lambda_{Na1} = 588{.}995$ nm and $\lambda_{Na2} = 589{.}592$ nm and the wavelength difference between the radiation from the
-edge A and edge B for both lines is $8{,}96\times10^{-2}$ nm:
+Edge A
+Ecuador
+Edge B
+Doublet of
+Bearing in mind what was calculated in the previous point (e) and that it has been determined that the lines of the sodium doublet have a wavelength of $\lambda_{Na1} = 588{.}995$ nm and $\lambda_{Na2} = 589{.}592$ nm and that the difference in wavelength between the radiation coming from edge A and that coming from edge B, for both lines, is $8{,}96\times10^{-2}$ nm:
 
-(f) determine the rotational speed of Jupiter.
+f) determine the rotation speed of Jupiter.
 
-The following expression may also be useful in solving this point:
+To solve this point, expression (1) may also be useful to you.
 
-Data useful for the problem
+Useful data for the problem
 
-The mass of Mars: $6{,}39\times10^{23}\ \text{kg}$
-Mars orbital period: 687 days
-Earth's orbital period: 365 days
-The mass of the Earth: $5{,}972\times10^{24}\ \text{kg}$
+Mass of Mars: $6{,}39\times10^{23}\ \text{kg}$
+Orbital period of Mars: 687 days
+Orbital period of Earth: 365 days
+Mass of Earth: $5{,}972\times10^{24}\ \text{kg}$
 Mass of the Sun: $1{,}989\times10^{30}\ \text{kg}$
-Radius of the Earth: 6371 km
-Radio of Mars: 3390 km
-The speed of light shall be: $300000\ \text{km s}^{-1}$
-Constante universal de la gravitación: $G = 6{,}674\times10^{-11}\ \dfrac{\text{N m}^2}{\text{kg}^2}$
+Radius of Earth: 6371 km
+Radius of Mars: 3390 km
+Speed of light: $300000\ \text{km s}^{-1}$
+Universal gravitational constant: $G = 6{,}674\times10^{-11}\ \dfrac{\text{N m}^2}{\text{kg}^2}$
 
-The following shall be added to the list of the following:
+Experimental Test - Level 2
 
-Interference by a Double Rendija
-General objective
-Experimental verification of the wavy nature of light by observation
-the interference pattern generated by a double slit.
+Double-Slit Interference
+General Objective
+Experimentally verify the wave nature of light by observing the interference pattern generated by a double slit.
 
-The following is the list of the countries of the European Union:
-In 1801 Thomas Young conducted an experiment in optics, the result of which can only be seen by the
-The reason for this is that light behaves as a wave, as opposed to
-The traditional theory that light was made up of a stream of fine particles
-particles.
-To perform the experiment, Young used a monochrome light source, that is,
-a single, determined color. The light from this source made her focus on a
-The non-transparent sheet that had a thin cleft, the only place he could pass through
-The light. After passing through this crack, the light hit another opaque sheet.
-It had two thin, very close slits, as shown in the figure.
-1. Great was Young's surprise when he noticed that the light captured on a
-screen, this is the light that came from the two slits, producing a pattern of stripes
-bright and dark.
+Introduction
+In 1801 Thomas Young performed an optics experiment, whose result can only be explained by considering that light behaves as a wave, as opposed to the traditional theory that held that light was made up of a stream of fine particles.
+To perform the experiment, Young used a source of monochromatic light, that is, of a single and specific color. He made the light coming from this source strike a non-transparent plate that had a thin slit, the only place through which the light could pass. After passing through this slit, the light struck another non-transparent plate that had two thin slits very close to each other, as shown in Figure
+1. Young was greatly surprised when he observed that the light captured on a screen, that is, the light that "emanated" from the two slits, produced a pattern of bright and dark fringes.
 
 Figure 1
-Bright stripes
-The following is the list of the categories of products:
+Bright fringes
+Dark fringes
 Screen
-Laminated with a
-The following is the list of the following:
-Laminated with two
-Other
+Plate with one slit
+Plate with two slits
 Light source
-The interpretation
-To interpret these results, Young had to assume a behavior
-The light wavelength:
-Light behaves like a wave, whose associated wavelength is
-It's related to the color of the light we see. I mean, the red color has a
-The wavelength differs from that of the yellow or green.
-Light emerges from the gaps like cylindrical waves
+Interpretation
+In order to interpret these results, Young had to assume a wave-like behavior of light:
+ Light behaves as a wave, whose associated wavelength is related to the color of the light that is observed. That is, the color red has a different wavelength from that of yellow or that of green.
+ The light emerges from the slits as cylindrical waves
 
-**Topic:** [[Gravitation]], [[Astrophysics]], [[Wave Optics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Mirror (object)|Mirror]], [[Slit (object)|Slit]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1SFr3vYpYyMtKTUuqk0A6etAaOzDvzN-1/view)
+

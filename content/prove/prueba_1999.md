@@ -820,198 +820,146 @@ h) Tracciare la linea che meglio si adatta ai punti segnati.
 
 <div class="qlang-split" data-lang="en"></div>
 
-One of the possible final states of a star's evolution is a star of
-The neutron. In that body, matter is in a very high state.
-The density of the Earth's atmosphere is very small compared to that of a
-A normal star, like the Sun. The current models show that the value of the
-Typical for the radius $R$ and mass $M$ of a neutron star are $R = 10\ \text{km}$ and
-$M = 3\times10^{30}\ \text{kg}$, respectivamente.
+One of the possible final states of the evolution of a star is a neutron star. In such a body, matter is in a state of very high density, so its spatial extent is very small compared to that of a normal star, such as the Sun. According to currently accepted models, the typical values for the radius $R$ and the mass $M$ of a neutron star are $R = 10\ \text{km}$ and
+$M = 3\times10^{30}\ \text{kg}$, respectively.
 
-Question: What is the average density of such a neutron star?
+Question a: What is the average density of such a neutron star?
 
-Question b: What volume of water would be $1\ \text{m}^3$ if compressed to
-density of matter from a neutron star?
+Question b: What volume would $1\ \text{m}^3$ of water occupy, if it were compressed until reaching the density of the matter of a neutron star?
 
-According to Newton's law of universal gravitation, two bodies
-The mass spheres $M_1$ and $M_2$, separated by a distance $r$ between their centers, are attracted
-a force of $F$, the magnitude of which is given by:
+According to Newton's law of universal gravitation, two spherical bodies of masses $M_1$ and $M_2$, separated by a distance $r$ between their centers, attract each other with a force $F$, whose magnitude is given by:
 
 $$F = \frac{GM_1 M_2}{r^2}$$
 
-where $G = 6.67\times10^{-11}\ \text{N m}^2/\text{kg}^2$ is the gravitational constant. This same law is
-valid if one of the bodies is spherical and the other is small compared to the first.
+where $G = 6.67\times10^{-11}\ \text{N m}^2/\text{kg}^2$ is the gravitational constant. This same law is valid if one of the bodies is spherical and the other is small compared to the first.
 
-We also know that the weight of a body is the net force that is exerted on it,
-When it rests on the surface of a planet or star.
+We also know that the weight of a body is the net force exerted on it, when it is at rest on the surface of a planet or star.
 
-Question c: What would be the weight of a student whose mass is $60\ \text{kg}$ on the surface
-from the neutron star?
+Question c: What would be the weight of a student whose mass is $60\ \text{kg}$ on the surface of the neutron star?
 
-If a star or planet is in rotation, the weight of a body is different from that of a planet.
-There's no rotation, as the centrifugal force appears. (Remember that this force only
-It exists for the observer who breaks with the earth).
+If the star or planet is rotating, the weight of a body is different from what it would have if there were no rotation, since the centrifugal force appears. (Remember that this force only exists for the observer rotating with the Earth).
 
-Question d: What would the weight of the student at point c) be located above Earth,
-The following situations:
+Question d: What would be the weight of the student from point c), located on the Earth, assumed spherical, in the following situations:?
 
 i)
-A student at the equator. Land that doesn't break.
+Student at the equator. Earth not rotating.
 ii)
-A student at the equator. Earth rotating normally around its axis.
-(iii) the following:
-Student at the polo. Land that doesn't break.
+Student at the equator. Earth rotating normally around its axis.
+iii)
+Student at the pole. Earth not rotating.
 iv)
-Student at the polo. Earth rotating normally around its axis.
+Student at the pole. Earth rotating normally around its axis.
 
-Note: Mass of the Earth $M_T = 5.98\times10^{24}\ \text{kg}$. The radius of the Earth $R_T = 6.37\times10^3\ \text{km}$.
+Note: Mass of the Earth $M_T = 5.98\times10^{24}\ \text{kg}$. Radius of the Earth $R_T = 6.37\times10^3\ \text{km}$.
 
-The neutron star formation theory indicates that neutron stars generally have to be
-be equipped with a high speed of rotation on their axis. However, this speed
-It cannot exceed certain limits, because if it did, the star would disarm.
+The theory of neutron star formation indicates that these, in general, must be endowed with a high rotation speed around their axis. However, this speed cannot exceed certain limits, since if it did the star would fall apart.
 
-Question e: what would be the maximum angular velocity for the neutron star of
-Our example, assuming that it maintains its spherical shape and density
-constantly?
+Question e: what would be the maximum angular velocity for the neutron star in our example, assuming that it maintains its spherical shape and its constant density?
 
-Neutron stars are observed by detecting the radio waves they emit. This is
-The emission intensity shall vary periodically between a maximum value and zero.
-The simplest explanation for this phenomenon is that the emission occurs in a region
-The star's surface is limited, essentially constant. In this way,
-If the star is spinning, it's only seen when the emitting zone points in our direction and
-It disappears when it's hidden. Then the period of variation of intensity, $\tau$, is equal to
-period of rotation of the star.
+Neutron stars are observed by detecting the radio waves they emit. This emission has an intensity that varies periodically between a maximum value and zero.
+The simplest explanation of this phenomenon is that the emission is produced in a limited region of the star's surface, in an essentially constant form. Thus, if the star rotates, it is only observed when the emitting zone points in our direction and disappears when it is hidden. Therefore, the period of variation of the intensity, $\tau$, is equal to the rotation period of the star.
 
-This pulse in the emission intensity is the reason why these objects are
-They're known as pulsars.
+This pulsation in the emission intensity is the reason why these objects are known as pulsars.
 
-For the PSR1913+16 pulsar, it has been observed that the pulse period,
-$\tau$, also varies periodically, increasing and decreasing, with a period of
-$T = 8\ \text{hrs}$. The simplest explanation for this phenomenon is that the pulsar is approaching.
-to us at intervals when the period, $\tau$, decreases and goes away as it increases
-(a phenomenon known as the Doppler effect). This leads to the conclusion that the pulsar,
-In addition to spinning over itself, it describes an orbit due to the presence of another star.
-of neutrons, similar to the pulsar. These two stars form what is known as the
-The following is the list of the types of binary system. Each of the bodies that make up it orbits around
-The mass center of the system.
+For the pulsar PSR1913+16, it has been observed that the period of the pulsations,
+$\tau$, also varies periodically, increasing and decreasing, with a period
+$T = 8\ \text{hrs}$. The simplest explanation of this phenomenon is that the pulsar (star) approaches us during the intervals in which the period, $\tau$, decreases and moves away when it increases (a phenomenon known as the Doppler effect). This leads to the conclusion that the pulsar, in addition to rotating about itself, describes an orbit due to the presence of another neutron star, similar to the pulsar. These two stars form what is known as a binary system. Each of the bodies that compose it rotates in orbits around the center of mass of the system.
 
-If we assume that the orbits are circular and that the stars are one
-The pulsar and the other not) have the same mass,
+If we make the assumption that the orbits are circular and that the stars (one a pulsar and the other not) have the same mass,
 
-Question f: What would be the radius of the pulsar's orbit?
+Question f: what would be the radius of the pulsar's orbit?
 
-The Argentine Olympics
-The Commission has not yet adopted a proposal.
+ARGENTINE OLYMPIAD
+OF PHYSICS 1999
 
-Other, not further worked than prepared
+OAF'99
 
-The Commission has therefore decided to grant the aid to the beneficiary of the aid.
+EXPERIMENTAL TEST - October 11, 1999
 
-• Write your name on all the sheets and list them.
-• Remember that you cannot use programmable calculators or any other calculators
-Other materials not included in the test, other than tools for
-The writing.
-• Before you start working on the experimental test, read
-carefully all the statements of it.
+• Write your name on all the sheets and number them.
+• Remember that programmable calculators or any other material not included in the test, apart from writing utensils, may not be used.
+• Before starting to work on the experimental test, carefully read ALL the statement of the test.
 
-Name of the company:
+Name:
 
-Number of sheets delivered:
-Argentine Olympic Games in Physics
+Number of sheets handed in:
+Argentine Olympiad of Physics
 1999
-The test shall be carried out in accordance with the following conditions:
+Experimental Test
 
-The following conditions shall apply:
+Physical Pendulum - Damping Constant – Air Viscosity
 
-1. - Objective:
+1.- Objective:
 
-Determine experimentally the value of the air viscosity coefficient.
+Experimentally determine the value of the coefficient of air viscosity.
 
-- Introduction to the proposal
+2.- Introduction
 
-A body that can swing freely around a suspension axis, under the action
-It's a physical pendulum. The movement of an ideal physical pendulum
-(in the vacuum and without a razor on its axis), it is characterized by having a width of
-constant oscillation with respect to time and a period $T$ given by:
+A body that can oscillate freely around a suspension axis, under the action of its own weight, constitutes a physical pendulum. The motion of an ideal physical pendulum (in a vacuum and without friction at its axis) is characterized by having a constant oscillation amplitude with respect to time and a period $T$ given by:
 
 $$T = 2\pi\sqrt{\frac{I}{Mgh}} \quad (1)$$
 
 where: $I$ is the moment of inertia of the pendulum with respect to the suspension axis,
 $M$, the total mass of the pendulum
-$g$, the value of the acceleration of gravity at the site
-$h$, distance from the centre of mass to the suspension axis.
+$g$, the value of the acceleration due to gravity at the location
+$h$, the distance from the center of mass to the suspension axis.
 
-Note: This expression is valid for amplitudes less than 8 on the apparatus scale which:
-Ud. I'm ready for it.
+Note: This expression is valid for amplitudes lower than 8 on the scale of the apparatus you have.
 
-However, the width and period of a real physical pendulum are usually seen
-affected by the resistance offered by the air. This makes the breadth of successive
-oscillations decrease over time, as follows:
+However, the amplitude and period of a real physical pendulum are usually affected by the resistance offered by the air. This causes the amplitude of successive oscillations to decrease as time passes, in the form:
 
 $$A(t) = A_o\, e^{-ct}$$
 
 where:
-$c$ is the buffer constant and
-$A_o$, is the initial oscillation amplitude.
+ $c$ is the damping constant and
+ $A_o$ is the initial oscillation amplitude.
 
 In this case, the period is given by:
 
 $$T = \frac{2\pi}{\sqrt{\dfrac{Mgh}{I} - c^2}}$$
 
-The present experiment will be carried out with a physical pendulum, such as the one in the
-Figure 1 is shown. It has been fitted with cardboard displays to increase the effect of
-the oscillation amplitude is dampened by the action of air.
+This experiment will be carried out with a physical pendulum, such as the one shown in Figure 1. Cardboard screens have been placed on it to increase the effect of damping of the oscillation amplitude due to the action of the air.
 
-The buffer constant, $c$, under the present experimental conditions is
-given by:
+The damping constant, $c$, under the present experimental conditions is given by:
 
 $$c = \frac{1000\, x_o\, \eta\, S}{2I} \quad (2)$$
 
-where: $S$ is the total surface area of the pendulum perpendicular to the direction
-of movement,
-$\eta$, the coefficient of air viscosity and
-$x_o$, the distance from the centre of mass of the boards to the axis of oscillation.
+where: $S$ is the total surface that the pendulum presents perpendicular to the direction of motion,
+$\eta$ is the coefficient of air viscosity and
+$x_o$ is the distance from the center of mass of the cardboard pieces to the oscillation axis.
 
-3.- List of materials
+3.- List of Materials
 
 •
 A physical pendulum.
 •
-A graduated scale pendulum support.
+A support for the pendulum with a graduated scale.
 •
-It's a timepiece.
+A stopwatch.
 •
-1 over with 4 pairs of square cards of different dimensions.
-• Rule
+1 envelope with 4 pairs of square cardboard pieces of different dimensions.
+• Ruler.
 •
-I'm stabbing with a knife. (OJO) Don 't touch the knives)
+Block with a blade. (CAREFUL!! Do not touch the blades)
 •
-2 weights in the shape of nuts
+2 weights shaped like nuts
 •
-It's a millimeter piece of paper.
+Graph paper.
 •
 A screwdriver.
 
-4.- Experimental procedure
+4.- Experimental Procedure
 
-4.1.- Decline in width over time
+4.1.- Decay of amplitude as a function of time
 
-(a) Mount the pendulum on the support, making sure that the edge of the blade is smooth
-seat on the pitches marked on the support.
-(b) Use the screw to swing the pendulum (see Figure 1) so that the
-needle indicates the position of the zero.
-(c) Take two cardboard boards of equal area and hold them, one on each side of the pendulum,
-as shown in Figure 1, using the screws provided for this purpose.
-(d) Mount the pendulum on the support, making sure that the edge of the blade is smooth
-seat on the pitches marked on the support.
-(e) Swing the pendulum and measure the width $A(t)$ according to the time $t$.
-(f) Make a table with the measured values of the width $A(t)$ and the
-the corresponding time values $t$.
-(g) Graph the natural logarithm of $A$ in terms of time.
-(h) Draw the straight line that best fits the points marked.
-(i) The absolute value of the slope of that straight line is $c$. Determine the value
+a) Mount the pendulum on the support, taking care that the sharp edge of the knife rests in the notches marked on the support.
+b) Use the screw to balance the pendulum (see Figure 1) so that the needle indicates the zero position.
+c) Take two pieces of cardboard of equal area and attach them, one on each side of the pendulum, as shown in Figure 1, using the screws provided for that purpose.
+d) Mount the pendulum on the support, taking care that the sharp edge of the knife rests in the notches marked on the support.
+e) Set the pendulum oscillating and measure the amplitude $A(t)$ as a function of time $t$.
+f) Prepare a table with the measured values of the amplitude $A(t)$ and the corresponding values of time $t$.
+g) Plot the natural logarithm of $A$ as a function of time.
+h) Draw the line that best fits the plotted points.
+i) The absolute value of the slope of that line is $c$. Determine the value
 
-**Topic:** [[Astrophysics]], [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1spQALWdjMBJ0-8d2eRMGBnQTgqU-AdRg/view)
+

@@ -9837,170 +9837,102 @@ RT=6,36 106 m
 
 <div class="qlang-split" data-lang="it"></div>
 
-PT60. Istituto Politetnico Superiore Generale San Martín. 
-Rosario, Santa Fe. 
- 
-Tormenta solare, fine? 
- 
-2022: Per cause che non ancora capiamo, il nostro campo magnetico terrestre ha
-- E' scomparso. Gli uccelli volano senza direzione, e confusi si sbatte contro gli alberi e
-finestre. Gli aerei perdono parte del sistema di navigazione. Il mondo cade davanti a noi
-Panoramica, e nessuno spiega. Nel frattempo, scienziati di tutto il mondo si mettono a
-lavorare su soluzioni con la scarsa informazione che si ha. E decide di fare l'unica cosa.
-che si può fare in tempi di crisi, se non si può attaccare le cause, si affronta
-alle conseguenze. Quindi si decide di costruire due enormi bobine, di 600 km di distanza.
-radio, a ogni polo per sostituire il campo magnetico perso. Le difficoltà 
-logistica e tecnica sono enormi. E rimane poco tempo, in qualsiasi momento una
-Un temporale solare può raggiungere la Terra e senza la magnetosfera siamo indefensivi. 
-Studiando i sistemi elettrici ancora in funzione, con l'energia disponibile in
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le reti elettriche di cui trattasi possano essere utilizzate per la produzione di energia elettrica possano essere utilizzate per la produzione di energia elettrica. 
-E dato il scarso tempo per creare soluzioni più innovative, useranno un cavo.
-di rame con un sezione di 50 cm2. 
-1. Quanti chili di rame avrete bisogno per fare un giro? 
-2. Quanta resistenza elettrica avrà un giro di cavo? 
-3. Quando lo metti in funzione, quanta energia dissiperà in un giro di cavo? 
-4. Qual è la differenza di potenziale che deve essere sottoposta alle estremità del cavo? 
- 
- 
- 
-Così, aggiunto a tutti i problemi che la popolazione ha, tutta l'energia elettrica è
-Riindirizza i poli nel tentativo di generare artificiale il campo magnetico
-la terra, lasciando la terra oscurata (quando è notte, se non c'è il sole). - Dopo .
-I ricercatori della NASA hanno scoperto che una bobina, collocata
-Come nella figura a sinistra, in un punto del piano xy, genera un campo magnetico.
-di circa: 
- 
- 
+PT60. Instituto Politécnico Superior General San Martín.
+ Rosario, Santa Fe.
 
+Tempesta Solare, la fine?  
  
-OAF 2018 - 61 
- 
- 
-Dove μ0 è la permeabilità magnetica del vuoto, i corrente dal conduttore (definita 
-N la quantità di giri del cavo, a
-radio della bobina (non del cavo!). In sintesi, come si vede nella figura seguente, 
-Gli scienziati vogliono passare da quello che c'era prima dell'incidente (a sinistra) a un campo
-generato dalle due bobine (destra). 
- 
- 
- 
- 
-5. Che direzione avrà bisogno di avere il corrente nei bobine per fare il campo 
-Il magnetismo generato ha lo stesso senso di quello della Terra? Giustifica
-- In breve. 
-6. Per testare la validità del sistema, decidono di misurare il campo.
-magnetico all'equatore (punto E dell'immagine). Calcolare il campo magnetico 
-generato dalle due spirale (assumendo che ci sia un solo giro del cavo in 
-ogni polo). 
-7. Quanti giri di cavo sono necessari per ottenere che l'equatore
-modulo del campo magnetico è di 25 μT? 
- 
-Nota: nonostante il fatto di prendere alcuni dati reali, questo problema è pieno di licenze 
-I risultati sono stati molto positivi, ma non sono stati accurati. Fare il calcolo giusto 
-sarebbe stata di una complessità superiore a quella desiderata per questo problema. 
+Anno 2022: Per cause che ancora non comprendiamo, il nostro campo magnetico terrestre è scomparso. Gli uccelli volano senza direzione, e confusi sbattono contro alberi e finestre. Gli aerei perdono parte del sistema di navigazione. Il mondo cade nel panico, e nessuno dà spiegazioni. Nel frattempo, scienziati di tutto il mondo si mettono al lavoro su soluzioni con le poche informazioni disponibili. E si decide di fare l'unica cosa che si può fare in tempi di crisi: se non si possono attaccare le cause, si affrontano le conseguenze. Così si decide di costruire due enormi bobine, di 600 km di raggio, a ciascun polo per sostituire il campo magnetico perduto. Le difficoltà logistiche e tecniche sono enormi. E resta poco tempo, in qualsiasi momento una
+Tempesta Solare può raggiungere la Terra e senza la magnetosfera siamo indifesi.
+Studiando i sistemi elettrici ancora in funzione, con l'energia disponibile in tutte le centrali elettriche, calcolano che si potrà ottenere una corrente di 1 000 000 A.
+E dato lo scarso tempo per realizzare soluzioni più innovative, utilizzeranno un cavo di rame con una sezione di 50 cm2.
+1. Quanti chilogrammi di rame serviranno per fare un giro?
+2. Quanta resistenza elettrica avrà un giro di cavo?
+3. Mettendolo in funzione, quanta energia dissiperà in un giro di cavo?
+4. A quale differenza di potenziale si dovranno sottoporre gli estremi del cavo? 
  
  
-Altri dati: 
-δCu=8930 kg/m3 
-ρCu=1,71 10-8 Ω.m 
-RT=6,36 106 m 
+ 
+Così, sommato a tutti i problemi che ha la popolazione, tutta l'energia elettrica viene reindirizzata ai poli nel tentativo di generare artificialmente il campo magnetico terrestre, lasciando la Terra nell'oscurità (quando è notte, se non c'è il Sole). Dopo calcoli effettuati da scienziati della NASA, hanno trovato che una bobina, posizionata come nella figura di sinistra, in un punto del piano xy, genera un campo magnetico di circa:
+
+
+
+
+OAF 2018 - 61
+
+
+Dove μ0 è la permeabilità magnetica del vuoto, I la corrente nel conduttore (definita positiva nel senso della freccia dell'immagine), n il numero di spire del cavo, a il raggio della bobina (non del cavo!). In sintesi, come si osserva nella seguente Figura, gli scienziati vogliono passare da ciò che c'era prima dell'incidente (sinistra) a un campo generato dalle due bobine (destra).
+
+
+
+
+5. Quale direzione dovrà avere la corrente nelle bobine affinché il campo magnetico generato abbia lo stesso verso di quello della Terra? Giustificare brevemente.
+6. Per fare le prove di validità del sistema, decidono di misurare il campo magnetico all'equatore (punto E dell'immagine). Calcolare il campo magnetico generato dalle due spire (assumendo che ci sia una sola spira del cavo in ciascun polo).
+7. Quante spire del cavo sono necessarie per ottenere che all'equatore il modulo del campo magnetico sia di 25 μT?
+ 
+Nota: nonostante vengano presi alcuni dati reali, questo problema è pieno di licenze creative degli autori, prive di accuratezza scientifica. Fare il calcolo corretto sarebbe stato di una complessità maggiore di quella desiderata per questo problema.
+
+
+Alcuni dati in più:
+δCu=8930 kg/m3
+ρCu=1,71 10-8 Ω.m
+RT=6,36 106 m
 μ0=4π 10-7 N/A2
-
 
 <!--fig:start-->
 ![[cuadernillo_2018_p60_f1.png]]
 ![[cuadernillo_2018_p61_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Circuits]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT60. The French authorities have also been involved in the investigation. 
-Rosario, Santa Fe. 
- 
-Solar Storm, the end? 
- 
-Year 2022: For reasons we still don't understand, our Earth's magnetic field has
-He disappeared. Birds fly aimlessly, and confused they bump into trees and
-windows. The planes lose some of their navigation system. The world is falling before 
-panic, and no one gives an explanation. Meanwhile, scientists from around the world are getting into it.
-work on solutions with the little information you have. And he decides to do the only thing .
-What can be done in times of crisis, if you can't attack the causes, you face
-to the consequences. So he decided to build two huge coils, 600 km long.
-radio, at each pole to replace the lost magnetic field. The difficulties 
-logistics and techniques are huge. And there's not much time left, anytime a
-Solar storm can reach Earth and without the magnetosphere we're defenseless. 
-Studying electrical systems still in operation, with energy available in 
-The Commission has already established a number of measures to ensure that the current in the electricity sector is maintained. 
-And given the limited time to make more innovative solutions, they're going to use a cable.
-a width of not more than 50 cm2, 
-1. How many kilos of copper will you need to make a spin? 
-2. How much electrical resistance will a wire loop have? 
-3. When you put it in operation, how much energy will you dissipate in a single spin of cable? 
-4. What potential difference should be made at the ends of the cable? 
- 
- 
- 
-So, in addition to all the problems the population has, all the electricity is being
-It redirects the poles in an attempt to artificially generate the magnetic field.
-And the earth is darkened, and the sun is not there. Afterwards .
-From calculations by NASA scientists, they found that a coil, located in the
-As in the figure on the left, at a point on the xy plane, it generates a magnetic field.
-of approximately: 
- 
- 
+PT60. Instituto Politécnico Superior General San Martín.
+ Rosario, Santa Fe.
 
+Solar Storm, the end?  
  
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
- 
- 
-Where μ0 is the magnetic permeability of the vacuum, I the current through the conductor (defined 
-The number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of turns of the wire, the number of the number of wire, the number of the number of wire, the number of the number of wire, the number of the number of wire, the number of the number of the number of the number of wire, the number of the number of the number of wire, the number of the number of the number of the number of wire, the number of the number of the number of the number of wire, the number of the number of the number of the number of the number of the number of wire, the number of the number of the number of the number of the number of the number of the number of the number of the number of wire, the number of the number of the number of which is
-the coil radius (not the cable!). In short, as shown in the following Figure, 
-Scientists want to move from what was there before the accident (left) to a field.
-generated by the two coils (right). 
- 
- 
- 
- 
-5. What direction will the current have to be in the coils to make the field 
-Does the magnetic field generated make the same sense as the Earth? Justify it .
-I'll be back shortly. 
-6. To test the validity of the system, they decide to measure the field.
-magnetic at the equator (point E of the image). Calculate the magnetic field 
-generated by the two spirals (assuming there is only one spin of the wire in 
-each pole). 
-7. How many turns of wire are needed to get the equator to the
-the magnetic field module is 25 μT? 
- 
-Note: despite taking some actual data, this problem is plagued by licensing.
-The authors' creativity, lack scientific accuracy. Make the right calculation 
-It would have been more complex than desired for this problem. 
+Year 2022: For reasons we still do not understand, our Earth's magnetic field has disappeared. Birds fly without direction, and confused they crash into trees and windows. Airplanes lose part of their navigation system. The world falls into panic, and no one gives explanations. Meanwhile, scientists all over the world start working on solutions with the little information available. And it is decided to do the only thing that can be done in times of crisis: if the causes cannot be attacked, the consequences are faced. So it is decided to build two enormous coils, with a radius of 600 km, at each pole to replace the lost magnetic field. The logistical and technical difficulties are enormous. And little time remains; at any moment a
+Solar Storm can reach the Earth and without the magnetosphere we are defenseless.
+Studying the electrical systems still in operation, with the energy available in all the power plants, they calculate that a current of 1,000,000 A can be achieved.
+And given the scarce time to make more innovative solutions, they are going to use a copper cable with a cross-section of 50 cm2.
+1. How many kilograms of copper will they need to make one turn?
+2. How much electrical resistance will one turn of cable have?
+3. When putting it into operation, how much energy will it dissipate in one turn of cable?
+4. What potential difference must the ends of the cable be subjected to? 
  
  
-Some more details: 
-The following table shows the following:
-The following table shows the results of the calculations:
-RT=6,36 106 m 
+ 
+Thus, added to all the problems that the population has, all the electrical energy is redirected to the poles in an attempt to artificially generate the Earth's magnetic field, leaving the Earth in darkness (when it is night, if the Sun is not there). After calculations carried out by NASA scientists, they found that a coil, located as in the figure on the left, at a point on the xy plane, generates a magnetic field of approximately:
+
+
+
+
+OAF 2018 - 61
+
+
+Where μ0 is the magnetic permeability of vacuum, I the current through the conductor (defined positive in the direction of the arrow in the image), n the number of turns of the wire, a the radius of the coil (not of the wire!). In summary, as observed in the following Figure, the scientists want to go from what there was before the accident (left) to a field generated by the two coils (right).
+
+
+
+
+5. What direction must the current have in the coils so that the generated magnetic field has the same direction as that of the Earth? Justify briefly.
+6. To carry out the tests of the validity of the system, they decide to measure the magnetic field at the equator (point E in the image). Calculate the magnetic field generated by the two loops (assuming there is a single turn of the wire at each pole).
+7. How many turns of the wire are necessary to achieve a magnetic field modulus of 25 μT at the equator?
+ 
+Note: despite using some real data, this problem is full of creative liberties taken by the authors, lacking scientific accuracy. Doing the correct calculation would have been more complex than desired for this problem.
+
+
+Some additional data:
+δCu=8930 kg/m3
+ρCu=1.71 10-8 Ω.m
+RT=6.36 106 m
 μ0=4π 10-7 N/A2
-
 
 <!--fig:start-->
 ![[cuadernillo_2018_p60_f1.png]]
 ![[cuadernillo_2018_p61_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Circuits]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
-
 
 
 <span class="atom-split" id="q67" data-atom="q67" data-title="Argent 2018 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/calorimeter,object/gas"></span>
@@ -39078,94 +39010,46 @@ siguiendo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-PE51. Istituto Eduardo L. Holmberg. 
-Quilmes, Buenos Aires. 
- 
-L'obiettivo di questo lavoro pratico è quello di determinare il rapporto, se esistente, tra il
-tempo di svuotamento di un contenitore e l'area totale del buco di scarico. 
-Inizialmente si misurerà il tempo di svuotamento con un orificio di zona A alla base del vaso. 
-Poi si farà un secondo foro uguale al precedente, quindi l'area sarà ora 2A. 
-Il recipiente considerato in questo lavoro sarà un vaso di telgopor che verrà portato
-facendo i buchi in fondo. Il livello dell'acqua deve essere costante in tutte le zone.
-le misure. 
- 
-Procedura 
-(leggere la procedura prima di iniziare): 
-1. Con il bicchiere vuoto, fare un foro nella base utilizzando l'istumento fornito. 
-2. Con il bicchiere appoggiato sulla mensa al bordo della pila, carica con acqua 
-usando il bicchiere di precipitazione fornito. In tal modo, tenete il bicchiere forte.
-per non perdere acqua per la base. Il livello iniziale di acqua nel bicchiere 
-La struttura deve essere sempre la stessa, quindi si consiglia di fare qualche tipo di
-il marchio come riferimento. 
-3. Movendo il bicchiere verso la pila (senza spazzarsi sulla parte superiore!!!) con una 
-con l'altra mano, attivare il cronometro con l'altra mano, e così registrare il tempo che ci vuole.
-- E' il momento di scaricare completamente il bicchiere. Cioè, fermare il cronometro quando il
-il bicchiere rimane vuoto. 
-4. Registrare il tempo su una tabella. Ripetere questa misurazione almeno due volte. 
-5. Fare un nuovo foro nella base del vaso e ripetere l'intero procedimento fino a
-ottenere il maggior numero possibile di misurazioni (10 < No < 20). 
-6. Al termine delle misure, realizzare un grafico di tempo in base all'area 
-totale di scarico (quadratura sufficiente). 
-7. Analizzare il grafico per produrre una conclusione che risponda a quale rapporto 
-esiste tra il tempo di scarico e il valore dell'area totale di scarico dell'acqua 
-per un determinato contenitore e per un determinato volume d'acqua. Includere nella 
-La Commissione ha concluso un commento sulle fonti di incertezza del procedimento. 
- 
-Nota: non è necessario misurare il valore dell'area dei buchi. Come tutti i buchi .
-avranno aree uguali, un foro avrà area A, due foro avranno area 2A e così via.
-Continuando.
+PE51. Istituto Eduardo L. Holmberg.
+ Quilmes, Buenos Aires.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
+L'obiettivo di questo lavoro pratico è la determinazione della relazione, se esiste, tra il tempo di svuotamento di un recipiente e l'area totale del foro di scarico.
+Inizialmente si misurerà il tempo di svuotamento con un foro di area A alla base del bicchiere.
+Poi si farà un secondo foro uguale al precedente, per cui l'area sarà ora 2A.
+Il recipiente considerato in questo lavoro sarà un bicchiere di polistirolo al quale si praticheranno i fori nella parte inferiore. Il livello dell'acqua dovrà essere costante in tutte le misurazioni.
+ 
+Procedura (leggere completamente questa procedura prima di iniziare):
+1. Con il bicchiere vuoto, praticare un foro nella base utilizzando lo strumento fornito.
+2. Con il bicchiere appoggiato sul piano di lavoro al bordo del lavandino, riempirlo con acqua usando il becher fornito. Nel farlo, sostenere saldamente il bicchiere in modo che non perda acqua dalla base. Il livello iniziale dell'acqua nel bicchiere dovrà essere sempre lo stesso, per cui si raccomanda di fare una qualche specie di marca come riferimento.
+3. Spostando il bicchiere verso il lavandino (senza schizzare dalla parte superiore!!!) con una mano, attivare il cronometro con l'altra mano, e così registrare il tempo che impiega il bicchiere a svuotarsi completamente. Ossia, fermare il cronometro quando il bicchiere rimane vuoto.
+4. Registrare in una tabella il tempo. Ripetere questa misurazione almeno 2 volte.
+5. Praticare un nuovo foro nella base del bicchiere e ripetere tutta la procedura fino a ottenere il maggior numero possibile di misurazioni (10 < Nº < 20).
+6. Al termine delle misurazioni, confezionare un grafico del tempo in funzione dell'area totale di scarico (carta quadrettata è sufficiente).
+7. Analizzare il grafico per produrre una conclusione che risponda a quale relazione esiste tra il tempo di scarico e il valore dell'area totale di scarico dell'acqua per un determinato recipiente e un determinato volume d'acqua. Includere nella conclusione un commento sulle fonti di incertezza della procedura.
+ 
+Nota: non è necessario misurare il valore dell'area dei fori. Poiché tutti i fori avranno aree uguali, un foro avrà area A, due fori avranno area 2A e così via.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-PE51. The Institute Eduardo L. I'm going to Holmberg. 
-Quilmes, Buenos Aires is where I am. 
- 
-The aim of this practical work is to determine the relationship, if any, between the
-the empty time of a container and the total area of the discharge hole. 
-Initially, the emptying time shall be measured with a hole in area A at the base of the glass. 
-Then a second hole will be made equal to the previous one, so the area will now be 2A. 
-The container considered in this work will be a telgopor glass to which they will be taken.
-I'm just making the holes at the bottom. The water level must be constant at all times 
-the measurements. 
- 
-The procedure 
-(read this procedure before you start): 
-1. With the empty glass, make a hole in the base using the provided instrument. 
-2. With the glass leaning on the table at the edge of the pile, load it with water 
-using the glass of precipitation provided. In doing so, hold the glass firmly 
-So it doesn't lose water at the base. The initial water level in the glass 
-It should always be the same, so it is recommended to do some kind of 
-mark as a reference. 
-3. Moving the glass towards the pile (without spitting on top!!!) with a 
-hand, turn on the timer with the other hand, and record the time it takes.
-I'm not going to let you get out of the glass. That is, stop the timer when the
-I'll leave the glass empty. 
-4. Record time on a chart. Repeat this measurement at least 2 times. 
-5. Make a new hole in the glass base and repeat the entire procedure until
-achieve as many measurements as possible (10 < No < 20). 
-6. At the end of the measurements, make a time chart based on the area 
-total discharge (quadriculated paper is sufficient). 
-7. Analyze the graph to produce a conclusion that answers what relationship 
-is between discharge time and the total discharge area value of the water.
-for a given container and a given volume of water. Included in the
-The Commission has also concluded that the Commission is not prepared to take any further action. 
- 
-Note: it is not necessary to measure the value of the area of the holes. Like all the holes .
-They'll have equal areas, one hole will have area A, two holes will have area 2A and so on.
-Keep going.
+PE51. Instituto Eduardo L. Holmberg.
+ Quilmes, Buenos Aires.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1KYXS_X1RA_WJRHQoMqXsW4TWlJ6ZhliU/view)
-
+The objective of this practical work is the determination of the relationship, if it exists, between the emptying time of a container and the total area of the discharge orifice.
+Initially, the emptying time will be measured with an orifice of area A at the base of the glass.
+Then a second orifice equal to the previous one will be made, so the area will now be 2A.
+The container considered in this work will be a Styrofoam glass in which the orifices will be made at the bottom. The water level must be constant in all measurements.
+ 
+Procedure (read this entire procedure before starting):
+1. With the empty glass, make a hole in the base using the instrument provided.
+2. With the glass resting on the counter at the edge of the sink, fill it with water using the beaker provided. When doing so, hold the glass firmly so that it does not lose water through the base. The initial water level in the glass should always be the same, so it is recommended to make some kind of mark as a reference.
+3. Moving the glass toward the sink (without splashing from the top!!!) with one hand, start the stopwatch with the other hand, and thus record the time it takes for the glass to empty completely. That is, stop the stopwatch when the glass is empty.
+4. Record the time in a table. Repeat this measurement at least 2 times.
+5. Make a new hole in the base of the glass and repeat the entire procedure until achieving as many measurements as possible (10 < No. < 20).
+6. Once the measurements are finished, make a graph of time as a function of the total discharge area (graph paper is enough).
+7. Analyze the graph to produce a conclusion that answers what relationship exists between the discharge time and the value of the total water discharge area for a given container and a given volume of water. Include in the conclusion a comment on the sources of uncertainty in the procedure.
+ 
+Note: it is not necessary to measure the value of the area of the holes. Since all the holes will have equal areas, one hole will have area A, two holes will have area 2A, and so on.
 
 
 <span class="atom-split" id="q231" data-atom="q231" data-title="Argent 2018 Locale — Quesito 231" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>

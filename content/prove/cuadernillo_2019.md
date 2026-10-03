@@ -8228,246 +8228,109 @@ camino.
 
 <div class="qlang-split" data-lang="it"></div>
 
+**Credo di sapere come funziona un acceleratore di protoni**
+
+PT72. Instituto Politécnico Superior General San Martín
+ Rosario, Santa Fe.
+
 Credo di sapere come funziona un acceleratore di protoni
-
-PT72. Istituto Politetnico Superiore Generale San Martín 
-Rosario, Santa Fe. 
- 
-Credo di sapere come funziona un acceleratore di protoni.
-CERN è l'abbreviazione provvisoria usata nel 1952 per il Consiglio europeo per la ricerca e la tecnologia.
-Nuclear Research (Conseil europeo per la ricerca nucleare). Attualmente è la
-sigla usata per dare il nome all'Organizzazione europea per la ricerca nucleare 
-La Commissione ha adottato una decisione che prevede che il Consiglio di sicurezza europeo, Questa organizzazione opera un laboratorio, anche.
-Il CERN, che si trova in una struttura sotterranea, sul confine tra la Svizzera e il
-Francia a 100 metri di profondità ed è riconosciuto come il laboratorio di fisica di
-le particelle più grandi del mondo. Il complesso acceleratore al CERN è una successione.
-di macchine che accelerano le particelle ad energie sempre più alte. Ogni macchina
-aumenta l'energia di un raggio di particelle, prima di iniettare il raggio nel prossimo.
-macchina della sequenza. 
-Il CERN usa come fonte di protoni una semplice bottiglia di gas idrogeno. Si utilizza un 
-Un campo elettrico per strappare gli atomi di idrogeno dai loro elettroni per produrre
-I protoni. Linac 2, un acceleratore lineare, il primo della catena, accelera i protoni per
-Poi vengono injectati nel Proton Synchrotron Booster (PSB), seguiti dal Proton 
-Synchrotron (PS) e Super Synchrotron Super Proton (SPS), acceleratori 
+CERN è la sigla provvisoria utilizzata nel 1952 per il Consiglio Europeo per la
+Ricerca Nucleare (Conseil Européen pour la Recherche Nucléaire). Attualmente è la sigla utilizzata per denominare l'Organizzazione Europea per la Ricerca Nucleare, composta da 22 stati membri. Questa organizzazione gestisce un laboratorio, anch'esso chiamato CERN, che si trova in forma sotterranea al confine tra Svizzera e
+Francia a 100 metri di profondità ed è riconosciuto come il laboratorio di fisica delle particelle più grande del mondo. Il complesso di acceleratori al CERN è una successione di macchine che accelerano le particelle a energie sempre più alte. Ogni macchina aumenta l'energia di un fascio di particelle, prima di iniettare il fascio nella macchina successiva della sequenza.
+Il CERN usa come sorgente di protoni una semplice bottiglia di gas idrogeno. Si utilizza un campo elettrico per strappare agli atomi di idrogeno i loro elettroni per produrre protoni. Linac 2, un acceleratore lineare, il primo della catena, accelera i protoni per poi essere iniettati nel Proton Synchrotron Booster (PSB), seguito dal Proton
+Synchrotron (PS) e dal Super Sincrotrone di Super Protoni (SPS), acceleratori 
 
  
-66 - OAF 2019 
-Sincrotronici (Un sincrotrone è un acceleratore di particelle a forma di toroide. La 
-La differenza principale con gli acceleratori di particelle è che questi si mantengono in
-Orbitte chiuse). Finalmente il raggio raggiunge il Large Hadron Collider (LHC), il
-L'ultimo elemento di questa catena, un acceleratore sincrotrone con energie record. 
-La struttura del SPS è rivista in figura 1. Ogni fascia di particelle è
-costituito da 1,26x104 protoni. Il fascio di particelle che esce dal PS e arriva al SPS lo
-Fa con un'energia di traslazione totale di 25 GeV e un 5% in più di massa per protone 
-a causa della grande velocità che le particelle acquisiscono. L'esistenza di tali sistemi è stata
-Le cavità in cui i campi elettrici accelerano i protoni ogni volta che le
-- Passano attraverso. Si possono modellare come quattro stazioni (1, 2, 3 e 4). Ognuno di loro.
-ha un dispositivo che può essere modellato come un capacitore di schede parallele 
-La distanza tra le piastrelle è di 1,3 m.
-- Sono stati loro. Ogni capacitore è collegato a un circuito come quello di Figura 2. Dopo
-Se si abbandona questo acceleratore sincrotrone, il fascio completo ha un'energia di traslazione.
-di 450 GeV. 
-Fig. 1: schema dell'acceleratore SPS. 
- 
- 
-Fig. 2: Circuito DC. 
- 
-a) Qual è l'energia cinetica media in Joule di ogni protone del fascio incidente? 
-b) Calcolare la resistenza equivalente del circuito di alimentazione dei capacitori, 
-in funzione di R. 
-c) IBA=16,14A, IAD=10,43A e IBC=1A e f.e.m. sono state misurate. - che fornisce una potenza di
-100KW. È necessario che Iε ≤ 14,14A per non bruciare la fonte e che ICA ≥ 8,43A 
-per caricare correttamente i capacitori. Se VCA è la tensione utilizzata per 
-caricare ogni capacitore. Qual è la magnitudine del campo elettrico generato in un 
-Capacitore completamente carico? 
-(d) Determina il numero di giri necessari da compiere nel PSP, 
-per soddisfare le condizioni di energia iniziale e finale. 
-Già nel LHC, il fascio di protoni raggiunge un massimo trasloco record di 6,5
-TeV, acquisendo sorprendentemente ogni protone, un 10% in più di massa di quello di
-Riposo. Questi viaggiano attraverso un tubo circolare di 1,2 metri di diametro interno.
-forma di toroide circolare di 2,7 km di radio. Per mantenere le particelle in questo
-L'orbita circolare è composta da grandi elettromani che si trovano lungo tutto il pianeta.
-- Accelerazione. Sono costruite a partire da bobine di cavo elettrico speciale che funziona.
-in uno stato superconduttore, conducendo l'elettricità in modo efficiente senza resistenza o 
-perdita di energia. Questo richiede di raffreddare i magneti a -271,3°C, una temperatura più fredda 
-che lo spazio esterno. 
-a) Calcolare la velocità media che i protoni del fascio massimo possono acquisire 
-energia. Potrebbero esserci protoni a velocità superiore a questa velocità media? 
-Quanto più grande? 
-b) Determina la direzione, il senso e il modulo del campo magnetico necessario per 
-mantenere in orbita le particelle più energetiche. 
-c) Ogni elettromagnetico può essere modellato come un solenoide radioico uguale a quello di
-- Il tubo dell'acceleratore. Ogni bobina ha n giri di cavo elettrico speciale 
-con una resistenza di 10Ω a 20°C, collegata a una resistenza di n Ω. Si la 
-
- 
-OAF 2019- 67 
-L'indurrezione magnetica longitudinale cambia da 125 mWb/m2 in direzione a 5 
-mWb/m2 in senso contrario, quanta carica scorre nel circuito? 
- 
-Nel capitolo cinque della terza stagione dei Simpson:
-Università, Homer partecipa a un corso di fisica in cui il professore inizia a
-Il protagonista è il 
-Interrompe sotto la frase "Scusate, professore, cervello, ho lavorato su una macchina per dieci anni".
-La centrale nucleare, credo di sapere come funziona un acceleratore di protoni.
-Il professore risponde: "Spettaci". L'Azione seguita l'Università si vede coinvolta in
-la contaminazione radioattiva. 
-d) Si osserva che nel 2016, Homer contemplava il maestoso LHC e 
-Propose di controllare i protoni sotto un campo magnetico con lo stesso senso e
-La direzione è necessaria (c'è 6) ma con un modulo ridotto a metà. 
-Sapendo che le particelle viaggiano sull'asse geometrico del tubo, quanto tempo?
-Se il tempo fosse passato i protoni avrebbero collassato contro di lui? Per fortuna non è successo! 
- 
-Alcuni dati 
-Protone: Massa a riposo: mprotone=1,67x10-27 kg; carica elettrica: qprotone=1,6x10-19 C 
-Unità: 1eV = 1.6x10-19 J; 1 Wb (Weber) = 1 T m2 
-Costanti: g=9,8 m/s2 
-Nota: la variazione di g a causa della profondità di 100 m è sconsiderata. 
- 
-Commenti finali 
-Il problema si basa su dati reali del CERN. Proposte di modellazione 
-il ruolo di adeguamento ai contenuti di questo esame. 
-All'interno del CERN si spingono particelle ad alta velocità, vicine alla velocità di
-la luce, che poi si schianta contro un obiettivo o contro altre particelle che circolano in
-- La direzione opposta. Studiando queste collisioni, i fisici possono sondare il mondo di
-l'infinitamente piccolo. Quando le particelle sono abbastanza energetiche, accade.
-Un fenomeno che sfida l'immaginazione: l'energia della collisione si trasforma in
-materia sotto forma di nuove particelle, la più massiccia che esistesse nell'Universo.
-- E' presto. Questo fenomeno è descritto dalla famosa equazione di Einstein E = mc2, secondo 
-La materia è una forma concentrata di energia, e le due sono intercambiabili. 
-Le particelle sono così piccole che il compito di farle collidere è simile a sparare.
-Due aghi a 10 chilometri di distanza con una precisione tale da trovarsi a metà.
-- La strada.
+  66 - OAF 2019 sincrotronici (Un "sincrotrone" è un acceleratore di particelle a forma di toroide. La grande differenza rispetto ad altri acceleratori di particelle è che queste vengono mantenute su orbite chiuse). Infine il fascio arriva al Grande Collisore di Adroni (LHC), l'ultimo elemento di questa catena, un acceleratore sincrotronico con energie record.
+Nella Figura 1 si può osservare la disposizione dell'SPS. Ogni fascio di particelle è composto da 1,26x104 protoni. Il fascio di particelle che esce dal PS e arriva all'SPS lo fa con un'energia totale di traslazione di 25 GeV e con un 5% in più di massa per protone a causa della grande velocità che le particelle acquisiscono. Lungo il SPS esistono diverse cavità in cui campi elettrici accelerano i protoni ogni volta che le attraversano. Possono essere modellizzate come quattro stazioni (1, 2, 3 e 4). Ognuna di esse dispone di un dispositivo che può essere modellizzato come un condensatore a piastre parallele trasparente (le particelle possono attraversare le piastre) con una distanza di 1,3 m tra esse. Ogni condensatore è collegato a un circuito come quello della figura 2. Dopo aver lasciato questo acceleratore sincrotronico, il fascio completo ha un'energia di traslazione di 450 GeV.
+Fig. 1: Schema dell'acceleratore SPS.
 
 
+Fig. 2: Circuito di DC. 
+ 
+a) Qual è l'energia cinetica media in Joule di ciascun protone del fascio incidente?
+b) Calcoli la resistenza equivalente del circuito di alimentazione dei condensatori, in funzione di "R".
+c) Sono stati misurati IBA=16,14A, IAD=10,43A e IBC=1A e la f.e.m. fornisce una potenza di
+100KW. È necessario che Iε ≤ 14,14A per non bruciare la sorgente e che ICA ≥ 8,43A per caricare adeguatamente i condensatori. Se VCA è la tensione utilizzata per caricare ciascun condensatore. Qual è la grandezza del campo elettrico generato in un condensatore completamente carico?
+d) Determini il numero di giri necessari che il fascio deve compiere nel PSP, per soddisfare le condizioni di energia iniziale e finale.
+Già nell'LHC, il fascio di protoni raggiunge un'energia massima di traslazione record di 6,5 
+TeV, acquisendo sorprendentemente ogni protone un 10% in più di massa rispetto a quella a riposo. Gli stessi viaggiano attraverso un tubo circolare di 1,2 m di diametro interno a forma di toroide circolare di 2,7 km di raggio. Per riuscire a mantenere le particelle in questa orbita circolare, si trovano grandi elettromagneti collocati lungo tutto l'acceleratore. Sono costruiti a partire da bobine di cavo elettrico speciale che funziona in uno stato superconduttore, conducendo elettricità efficientemente senza resistenza o perdita di energia. Ciò richiede di raffreddare i magneti a -271,3°C, una temperatura più fredda dello spazio esterno.
+a) Calcolare la velocità media che possono acquisire i protoni del fascio di massima energia. Possono esserci protoni con velocità maggiore di questa velocità media?
+Quanto maggiore?
+b) Determinare direzione, verso e modulo del campo magnetico necessario per mantenere le particelle di massima energia in orbita.
+c) Ogni elettromagnete può essere modellizzato come un solenoide di raggio uguale a quello del tubo dell'acceleratore. Ogni bobina ha "n" spire di cavo elettrico speciale con una resistenza di 10Ω a 20°C, collegato a una resistenza di "n Ω". Se la
 
-**Topic:** [[Special Relativity]], [[Electromagnetism]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Particle Beam (object)|Particle Beam]], [[Capacitor (object)|Capacitor]], [[Solenoid (object)|Solenoid]]
-**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/1WMSiADggCCMmz9e8kCECIeunILn_brYf/view)
+ 
+OAF 2019- 67 l'induzione magnetica longitudinale cambia da 125 mWb/m² in un senso a 5 mWb/m² in senso contrario, quale quantità di carica fluisce nel circuito?
+
+Nel capitolo cinque della terza stagione de "I Simpson": "Homer va all'Università", Homer assiste a una lezione di fisica in cui il professore comincia a spiegare il processo di funzionamento di un acceleratore di protoni, il protagonista lo interrompe con la frase "Mi scusi professor cervellone, io lavoro da dieci anni in una centrale nucleare, credo di sapere come funziona un acceleratore di protoni", "Bene, venga a mostrarci" gli risponde il docente. Subito dopo l'Università viene avvolta da contaminazione radioattiva.
+d) Si racconta che nell'anno 2016, Homero contemplò il maestoso LHC e propose di controllare i protoni sotto un campo magnetico con lo stesso verso e direzione di quello necessario (punto 6) ma con un modulo ridotto alla metà.
+Sapendo che le particelle viaggiano sull'asse geometrico del tubo, in quanto tempo i protoni sarebbero collassati contro di esso? Per fortuna non accadde!
+
+Alcuni dati
+Protone: Massa a riposo: mprotone=1,67x10-27 kg ; carica elettrica: qprotone=1,6 x10-19 C
+Unità: 1eV = 1.6x10-19 J ;    1 Wb (Weber) = 1 T m2
+Costanti: g=9.8 m/s2
+Nota: La variazione di g dovuta alla profondità di 100m è trascurabile.
+
+Commenti Finali 
+Il problema è basato su dati reali del CERN. Le proposte di modellizzazione svolgono il ruolo di adeguamento ai contenuti di questo esame.
+All'interno del CERN si spingono particelle ad alte velocità, prossime alla velocità della luce, che poi si scontrano contro un bersaglio o contro altre particelle che circolano nella direzione opposta. Studiando queste collisioni, i fisici possono sondare il mondo dell'infinitamente piccolo. Quando le particelle sono sufficientemente energetiche, avviene un fenomeno che sfida l'immaginazione: l'energia della collisione si trasforma in materia sotto forma di nuove particelle, la più massiccia delle quali è esistita nell'Universo primordiale. Questo fenomeno è descritto dalla famosa equazione di Einstein E = mc², secondo la quale la materia è una forma concentrata di energia, e le due sono intercambiabili.
+Le particelle sono così piccole che il compito di farle collidere è simile a sparare due aghi a 10 chilometri di distanza con tale precisione che si incontrano a metà strada.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
-I think I know how a proton accelerator works.
+**I think I know how a proton accelerator works**
 
-PT72. The French authorities have already confirmed that the Commission is not interested in the use of the information provided by the Commission.
-Rosario, Santa Fe. 
- 
-I think I know how a proton accelerator works .
-CERN is the provisional acronym used in 1952 for the European Council for the
-Nuclear research (European Council for Nuclear Research). It is currently the
-acronym used to give the European Organization for Nuclear Research its name 
-It is composed of 22 Member States. This organization operates a laboratory, too.
-It's called CERN, which is located underground on the border between Switzerland and
-France at 100 meters deep and is recognized as the laboratory of physics of the world.
-The largest particles in the world. The accelerator complex at CERN is a succession.
-of machines that accelerate particles to increasingly higher energies. Every machine .
-It increases the energy of one particle beam before injecting the beam into the next one.
-The sequencing machine. 
-CERN uses a simple bottle of hydrogen gas as a proton source. A 
-The electric field to strip the hydrogen atoms of their electrons to produce 
-Protons are the same. Linac 2, a linear accelerator, the first in the chain, accelerates the protons to 
-The next step is to inject the Proton Synchrotron Booster (PSB), followed by the Proton 
+PT72. Instituto Politécnico Superior General San Martín
+ Rosario, Santa Fe.
+
+I think I know how a proton accelerator works
+CERN is the provisional acronym used in 1952 for the European Council for
+Nuclear Research (Conseil Européen pour la Recherche Nucléaire). Currently it is the acronym used to name the European Organization for Nuclear Research, made up of 22 member states. This organization operates a laboratory, also called CERN, which is located underground on the border between Switzerland and
+France at a depth of 100 meters and is recognized as the largest particle physics laboratory in the world. The accelerator complex at CERN is a succession of machines that accelerate particles to increasingly higher energies. Each machine increases the energy of a beam of particles, before injecting the beam into the next machine in the sequence.
+CERN uses a simple bottle of hydrogen gas as a source of protons. An electric field is used to strip hydrogen atoms of their electrons to produce protons. Linac 2, a linear accelerator, the first in the chain, accelerates the protons and then they are injected into the Proton Synchrotron Booster (PSB), followed by the Proton
 Synchrotron (PS) and the Super Proton Synchrotron (SPS), accelerators 
 
  
-The Commission shall adopt delegated acts in accordance with Article 66 of the Financial Regulation.
-Synchrotronics (A synchrotron is a particle accelerator in the shape of a toroid. La 
-The big difference from other particle accelerators is that they stay in the
-closed orbits). Finally the beam reaches the Large Hadron Collider (LHC), the
-The last element of this chain, a synchrotron accelerator with record energies. 
-The SPS layout can be seen in Figure 1. Every beam of particles is
-It's made up of 1.26×104 protons. The particle beam that leaves the PS and reaches the SPS is
-It does so with a total translation energy of 25 GeV and a 5% mass increase per proton.
-Because of the high speed at which particles acquire. Throughout the SPS there are 
-different cavities where electric fields accelerate protons every time they do
-They're going through. They can be modeled as four stations (1, 2, 3 and 4). Each one of them .
-It has a device that can be modeled as a parallel plate capacitor.
-The translucent (particles can pass through the plates) distance of 1.3m between the plates.
-They're all the same. Each capacitor is connected to a circuit like the one in Figure 2. After 
-If you leave this synchrotron accelerator, the full beam has a translation energy.
-of 450 GeV. 
-Fig. The SPS accelerator shall be designed to be capable of operating at a speed of at least 50 km/h. 
- 
- 
-Fig. Two, DC circuit. 
- 
-(a) What is the average kinetic energy in Joule of each proton of the incident beam? 
-(b) Calculate the equivalent resistance of the capacitor power circuit, 
-according to R. 
-(c) IBA=16,14A, IAD=10,43A and IBC=1A and f.e.m. have been measured. It provides a power of 
-100KW. It is necessary that Iε ≤ 14.14A not to burn the source and that ICA ≥ 8.43A 
-to properly charge the capacitors. If VCA is the voltage used for 
-charge each capacitor. What is the magnitude of the electric field generated in a
-Fully charged capacitor? 
-(d) Determine the number of necessary turns to be carried out by the beam on the PSP, 
-to meet the initial and final energy conditions. 
-Already at the LHC, the proton beam reaches a record maximum translating energy of 6.5 
-TeV, surprisingly acquiring every proton, 10% more mass than that of 
-I'm going to rest. They travel through a circular tube of 1.2m in diameter in the
-a circular toroid shape with a radius of 2,7 km. To keep the particles in this one .
-In the circular orbit, large electromagnets are placed along the entire
-The accelerator. They 're built from special electrical cable coils that work .
-in a superconducting state, conducting electricity efficiently without resistance or 
-energy loss. This requires cooling the magnets to -271,3°C, a cooler temperature 
-than outer space. 
-(a) Calculate the average speed that maximum beam protons can acquire.
-energy. Can there be protons with a speed greater than this average speed? 
-How much older? 
-(b) Determine the direction, direction and module of the magnetic field required for 
-Keeping the most energetic particles in orbit. 
-(c) Each electromagnet can be modelled as a radio solenoid equal to that of the electromagnet.
-The accelerator tube. Each coil has special electrical cable spins
-with a resistance of 10Ω to 20°C, connected to a resistance of n Ω. Si la 
-
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-longitudinal magnetic induction changes from 125 mWb/m2 in a direction to 5 
-mWb/m2 in reverse direction, how much charge flows through the circuit? 
- 
-In the fifth episode of the third season of The Simpsons, Homer goes to the
-University, Homer attends a physics class where the professor starts at
-The main character is the protagonist.
-I'm sorry, Professor Brain, I've been working on one for ten years.
-nuclear plant, I think I know how a proton accelerator works, okay, come on.
-The teacher says, "Show us". Act followed the University is involved in 
-radioactive contamination. 
-d) It is noted that in 2016, Homer contemplated the majestic LHC and 
-He proposed controlling the protons under a magnetic field with equal direction and 
-The aim of the project is to improve the quality of the work carried out by the Community. 
-Knowing that the particles travel over the geometrical axis of the tube, how long?
-If the protons had collapsed against it? Fortunately it didn't happen! 
- 
-Some data 
-Proton: Resting mass: mproton = 1.67x10-27 kg; electric charge: qproton = 1.6x10-19 C 
-Units: 1eV = 1.6x10-19 J; 1 Wb (Weber) = 1 T m2 
-The following is the list of the following:
-Note: The variation in g due to the depth of 100m is despicable. 
- 
-Final comments 
-The problem is based on actual data from CERN. Modelling proposals 
-They fulfil the role of suitability for the contents of this examination. 
-Inside CERN particles are being pushed at high speeds, close to the speed of 
-The light, which then crashes into a target or other particles circulating in the
-the opposite direction. By studying these collisions, physicists can probe the world of 
-The infinitely small. When the particles are energetic enough, it happens.
-A phenomenon that challenges the imagination: the energy of collision is transformed into 
-matter in the form of new particles, the most massive of which existed in the universe.
-early. This phenomenon is described by Einstein's famous equation E = mc2, according to 
-which is that matter is a concentrated form of energy, and the two are interchangeable. 
-The particles are so small that the task of making them collide is similar to firing .
-Two needles 10 kilometers apart with such precision that they are half way across.
-I'm on my way.
+  66 - OAF 2019 synchrotrons (A "synchrotron" is a particle accelerator shaped like a toroid. The great difference from other particle accelerators is that the particles are kept in closed orbits). Finally the beam reaches the Large Hadron Collider (LHC), the last element of this chain, a synchrotron accelerator with record energies.
+In Figure 1 the layout of the SPS can be observed. Each particle beam is made up of 1.26x104 protons. The particle beam that leaves the PS and reaches the SPS does so with a total translational energy of 25 GeV and with 5% more mass per proton due to the great speed that the particles acquire. Along the SPS there are different cavities in which electric fields accelerate the protons each time they pass through them. They can be modeled as four stations (1, 2, 3 and 4). Each of them has a device that can be modeled as a transparent parallel-plate capacitor (the particles can pass through the plates) with a distance of 1.3 m between them. Each capacitor is connected to a circuit like the one in figure 2. After leaving this synchrotron accelerator, the complete beam has a translational energy of 450 GeV.
+Fig. 1: Schematic of the SPS accelerator.
 
 
+Fig. 2: DC circuit. 
+ 
+a) What is the average kinetic energy in Joules of each proton in the incident beam?
+b) Calculate the equivalent resistance of the capacitor power supply circuit, as a function of "R".
+c) IBA=16.14A, IAD=10.43A and IBC=1A have been measured, and the emf provides a power of
+100KW. It is necessary that Iε ≤ 14.14A so as not to burn out the source and that ICA ≥ 8.43A in order to adequately charge the capacitors. If VCA is the voltage used to charge each capacitor, what is the magnitude of the electric field generated in a fully charged capacitor?
+d) Determine the number of turns the beam must make in the PSP in order to comply with the initial and final energy conditions.
+Already at the LHC, the proton beam reaches a record maximum translational energy of 6.5 
+TeV, with each proton surprisingly acquiring 10% more mass than its rest mass. They travel through a circular tube with an inner diameter of 1.2 m in the form of a circular toroid with a radius of 2.7 km. To keep the particles in this circular orbit, large electromagnets are placed along the entire accelerator. They are built from coils of special electrical cable that operates in a superconducting state, conducting electricity efficiently without resistance or energy loss. This requires cooling the magnets to -271.3°C, a temperature colder than outer space.
+a) Calculate the average speed that the protons of the highest-energy beam can acquire. Can there be protons with a speed greater than this average speed?
+How much greater?
+b) Determine the direction, sense and magnitude of the magnetic field needed to keep the highest-energy particles in orbit.
+c) Each electromagnet can be modeled as a solenoid with a radius equal to that of the accelerator tube. Each coil has "n" turns of special electrical cable with a resistance of 10Ω at 20°C, connected to a resistance of "n Ω". If the
 
-**Topic:** [[Special Relativity]], [[Electromagnetism]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Particle Beam (object)|Particle Beam]], [[Capacitor (object)|Capacitor]], [[Solenoid (object)|Solenoid]]
-**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/1WMSiADggCCMmz9e8kCECIeunILn_brYf/view)
+ 
+OAF 2019- 67 longitudinal magnetic induction changes from 125 mWb/m² in one direction to 5 mWb/m² in the opposite direction, how much charge flows through the circuit?
 
+In chapter five of the third season of "The Simpsons": "Homer goes to
+University", Homer attends a physics class where the professor begins to explain the operating process of a proton accelerator, the protagonist interrupts him with the phrase "Excuse me, Professor Brainiac, I've been working in a nuclear plant for ten years, I think I know how a proton accelerator works", "Well, come show us" the teacher replies. Immediately afterwards the University is engulfed in radioactive contamination.
+d) It is commented that in the year 2016, Homer contemplated the majestic LHC and proposed to control the protons under a magnetic field with the same direction and sense as the necessary one (item 6) but with a modulus reduced to half.
+Knowing that the particles travel along the geometric axis of the tube, in how much time would the protons have collapsed against it? Luckily it did not happen!
+
+Some data
+Proton: Rest mass: mproton=1.67x10-27 kg ; electric charge: qproton=1.6 x10-19 C
+Units: 1eV = 1.6x10-19 J ;    1 Wb (Weber) = 1 T m2
+Constants: g=9.8 m/s2
+Note: The variation of g due to the depth of 100m is negligible.
+
+Final Comments 
+The problem is based on real data from CERN. The modeling proposals fulfill the role of adapting to the contents of this exam.
+Within CERN, particles are accelerated to high speeds, close to the speed of light, which then collide against a target or against other particles circulating in the opposite direction. By studying these collisions, physicists can probe the world of the infinitely small. When the particles are energetic enough, a phenomenon that defies imagination occurs: the energy of the collision is transformed into matter in the form of new particles, the most massive of which existed in the early Universe. This phenomenon is described by the famous Einstein equation E = mc², according to which matter is a concentrated form of energy, and the two are interchangeable.
+The particles are so small that the task of making them collide is similar to shooting two needles from 10 kilometers away with such precision that they meet halfway.
 
 
 <span class="atom-split" id="q73" data-atom="q73" data-title="Argent 2019 Locale — Quesito 73" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block,object/rope-string,object/inclined-plane"></span>
@@ -22986,141 +22849,110 @@ OAF 2019- 135
 
 <div class="qlang-split" data-lang="en"></div>
 
-PE5. The school is located in the city of San Jorge.
-Educational Centre Bernardino Rivadavia - Brother Brothers School of Bruijn 
-The city of Santiago del Estero. 
- 
-The objective 
-Determine the acceleration of gravity at Santiago del Estero. 
- 
-List of Materials 
-- Millimeter rule .
-- It's a whirlwind. 
-- I'm going to get it. 
-- It 's a timepiece . 
- 
-The description 
-We call a simple pendulum an ideal entity consisting of a suspended point mass.
-of an unstretchable and weightless thread, capable of swinging freely in the void and without
-The roasting. 
- 
- 
- 
-When separating the mass from its equilibrium position at angles of reduced width (no 
-greater than 15°), oscillates on either side of the position, making a movement 
-The time taken to perform a complete oscillation is approximately one minute.
-is given by the expression: 
-𝑇= 2𝜋√
-l
-g   (I) 
-Where: 
-T: period, time in which an oscillation takes place. 
-l: length of the pendulum. 
-g: acceleration of the gravity of the place. 
- 
-This device can be used to determine the value of the acceleration of gravity 
-at the test site, measuring the period T based on length l: 
- 
+PE5. Instituto de Enseñanza San Jorge - Big Ben School - Colegio Belén
+Centro Educativo Bernardino Rivadavia - Colegio Hermano Hermas de Bruijn
+Ciudad de Santiago del Estero.
+
+Objective
+Determine the acceleration of gravity in Santiago del Estero.
+
+List of Materials
+- Millimeter ruler
+- Nut.
+- Thread.
+- Stopwatch (cell phone).
+
+Description
+We call a simple pendulum an ideal entity consisting of a point mass suspended from an inextensible and weightless thread, capable of oscillating freely in a vacuum and without friction.
+
+
+
+When the mass is separated from its equilibrium position at angles of reduced amplitude (no greater than 15º), it oscillates on both sides of said position, performing a simple harmonic motion and its period (time it takes to perform a complete oscillation)
+is given by the expression:
+𝑇= 2𝜋√ l g   (I)
+Where:
+T: period, time in which it performs one oscillation.
+ l: length of the pendulum.
+g: acceleration of gravity at the location.
+
+By means of this device it is possible to determine the value of the acceleration of gravity at the place of experimentation, by measuring the period T as a function of the length l:
+
 𝑇2 =
 4𝜋2𝑙
-𝑔  (II) 
-Where g is: 
-  
- 
- 
+𝑔  (II)
+Where g will be:
+
+
+
                           𝑔=
 4𝜋2𝑙
-T2 (III) 
- 
-For the purpose of calculating the value from the function mentioned in equation (2), the value is replaced by 
-T2 for y , leaving the expression 
-4𝜋2
-g as a slope of the graphically adjusted straight line. 
- 
+𝑇2                (III)
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-I mean:
+To calculate the value from the function mentioned in equation (2),
+T² is replaced by "y", leaving the expression
+4𝜋2
+𝑔 as the slope of the line fitted graphically.
+
+
+
+  134 - OAF 2019
+That is:       
  
  
  
  𝑦=
 4𝜋2
-𝑔. 𝑙    
-(IV) 
- 
-So the slope of the straight line is m=
+𝑔. 𝑙 (IV)
+
+Therefore the slope of the line will be 𝑚=
 4𝜋2
-g , where it can be cleared g 
-G is equal to
+𝑔 , from which g can be solved, obtaining the expression: 𝑔=
 4𝜋2
-m , to calculate the value of the acceleration of gravity. 
-  
-It is important to take the following precautions when conducting the experiment: 
-• The range of oscillation should be as small as possible (not greater than 15°). 
-• The pendulum must swing in a single plane. 
-• The nut must not rotate. 
-• Correctly measure the length of the pendulum from the point of suspension to 
-the center of mass of the oscillating nut. 
- 
-The procedure 
-1) Install the device using thread and a perforated nut. 
-2) Measure the length of the pendulum. 
-3) Measure the time (t) of 10 oscillations (n=10). Calculate the value of the period (T) and its 
-The following relationship is used: 
+𝑚 , to calculate the value of the acceleration due to gravity.
+
+It is important to take the following precautions when carrying out the experiment:
+• The oscillation amplitude must be as small as possible (no greater than 15º).
+• The pendulum must oscillate in a single plane.
+• The nut must not rotate.
+• Correctly measure the length of the pendulum, from the point of suspension to the center of mass of the oscillating nut.
+
+Procedure
+1) Set up the device using thread and a perforated nut.
+2) Measure the length of the pendulum.
+3) Measure the time (t) of 10 oscillations (n=10). Calculate the value of the period (T) and its corresponding uncertainty, using the following relationship:
 𝑇= 𝑡
 𝑛 
  
-4) Repeat step 3) at least 10 times. 
-5) Calculate the average of periods obtained and their corresponding uncertainty. 
-6) Calculate g and its corresponding uncertainty using the expression (III). 
-7) Repeat step 2 to 6) at least 5 times, changing the length of the pendulum to 
-every repetition. 
-8) Perform a measurement table including: length (l), number of 
-The time (t), period (T), period squared (T2) and acceleration of 
-the gravity (g) 
-9) It produces a period-to-square graph based on length. 𝑇2 = 𝑓(𝑙), 
-(see expression (IV) using the data in the table. 
-10) 
-It makes a linear adjustment of the graph above, determines the slope of the straight line.
-The resulting acceleration is the best value of gravity. 
-Report these values with their corresponding uncertainty. 
- 
-Requirements 
-(a) To build up experience in a correct, prolific and orderly manner while minimizing the impact of the
-possible causes of errors. 
- 
-(b) Construct a measurement table including: Length (l), number of
-The time (t), period (T), period squared (T2) and acceleration of 
-the gravity (g) with the number of measurements requested. 
- 
-(c) Chart the period squared according to length. T2 = f(l), using 
-the data in the table, selecting the appropriate units and scales. 
- 
-(d) Determine the value of the acceleration of gravity in Santiago del Estero with 
-the corresponding uncertainty. 
- 
-Note: All measurements must be expressed in units and spread by 
-The Commission's proposal for a regulation on the protection of workers from the risks of uncertainty
-result obtained. 
- 
- 
- 
+4) Repeat step 3) a minimum of 10 times.
+5) Calculate the average of the periods obtained and their corresponding uncertainty.
+6) Calculate g and its corresponding uncertainty using expression (III).
+7) Repeat step 2) to 6) at least 5 times, modifying the length of the pendulum on each repetition.
+8) Make a table of measurements including: Length (l), number of oscillations (n), time (t), Period (T), Period squared (T²) and acceleration due to gravity (g)
+9) Make a graph of the period squared as a function of the length.  𝑇2 = 𝑓(𝑙), (see expression (IV) ) using the data from the table.
+10)
+Perform a linear fit of the previous graph, determine the slope of the line obtained and the best value of the acceleration due to gravity from it.
+Report these values with their corresponding uncertainty.
 
- 
-The following is the list of the countries of the European Union:
+Requirements
+a) Set up the experiment correctly, neatly and in an orderly manner, minimizing possible sources of error.
 
+b) Prepare a table of measurements including: Length (l), number of oscillations (n), time (t), Period (T), Period squared (T²) and acceleration due to gravity (g) with the requested number of measurements.
+
+c) Graph the period squared as a function of the length.  𝑇2 = 𝑓(𝑙), using the data from the table, selecting the appropriate units and scales.
+
+d) Determine the value of the acceleration due to gravity in Santiago del Estero with its corresponding uncertainty.
+ 
+Note: All measurements must be expressed with their unit and the appropriate error propagation must be carried out, analyzing the sources of uncertainty that have the greatest impact on the result obtained.
+
+
+
+
+
+OAF 2019- 135
 
 <!--fig:start-->
 ![[cuadernillo_2019_p133_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/1WMSiADggCCMmz9e8kCECIeunILn_brYf/view)
-
 
 
 <span class="atom-split" id="q194" data-atom="q194" data-title="Argent 2019 Locale — Quesito 194" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/inclined-plane,object/pulley,object/rope-string"></span>
@@ -27359,109 +27191,54 @@ OAF 2019- 153
 
 **Measurement of g using a simple pendulum**
 
-PE18. The Commission has decided to extend the period of validity of the agreement.
-The following is a list of the main activities of the European Commission: Gilardoni .
-That one, Chubut. 
- 
-Measurement of g using a simple pendulum 
-The first is the introduction.
-One of the most important movements observed in nature is movement.
-The oscillatory. A particle oscillates when it moves periodically with respect to the
-The balance position. The movement of a pendulum is oscillatory. A body in the
-The end of a stretched spring, once released, begins to oscillate. The atoms of 
-A solid is vibrating with an oscillating motion. Similarly, the atoms of a 
-molecules vibrate with respect to each other. The electrons in a radiant antenna or
-The receptors oscillate rapidly. 
-Of all the oscillatory movements, the most important is the harmonic movement.
-simple (MAS), because, besides being the simplest motion to describe 
-mathematically, it is a very close approximation of many oscillations.
-found in nature. 
- 
-The MAS Cinema
-By definition, we say that a particle that moves along the X-axis has
-a MAS when its displacement x with respect to the origin of the coordinate system is 
-given by a function of time by the relation 
-The following table shows the number of samples taken:
+PE18. Instituto Salesiano San Luis Gonzaga N°1713
+  Escuela Politécnica N° 701 Francisco E. Gilardoni
+  Esquel, Chubut.
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The quantity t+ is called phase, and therefore  is the initial phase; that is, its value 
-when t=0. The position of the particle varies between x=A and x=-A. Maximum displacement 
-from the source, A, is defined as the width of the MAS. The sinus function is repeated every time.
-So the angle increases by 2. So the particle displacement is repeated.
-after a time interval of 2/. The MAS is therefore a newspaper, and its 
-period (time taken to make a cycle) is P=2/
-The particle velocity, with MAS, is determined by the equation: 
-The following is the list of the following:
+Measurement of g using a simple pendulum
+Introduction 
+One of the most important motions observed in nature is oscillatory motion. A particle oscillates when it moves periodically with respect to the equilibrium position. The motion of a pendulum is oscillatory. A body at the end of a stretched spring, once released, begins to oscillate. The atoms of a solid are vibrating with an oscillatory motion. Similarly, the atoms of a molecule vibrate with respect to one another. The electrons in a radiating or receiving antenna oscillate rapidly.
+Of all oscillatory motions, the most important is simple harmonic motion (SHM), because, in addition to being the simplest motion to describe mathematically, it constitutes a very close approximation of many oscillations found in nature.
+
+Kinematics of SHM
+By definition, we say that a particle moving along the X axis has SHM when its displacement x with respect to the origin of the coordinate system is given by a function of time by the relation
+𝑥= 𝐴sin(𝜔𝑡+ 𝛼)
+
+
+  152 - OAF 2019 
+The quantity t+ is called the phase, and therefore  is the initial phase; that is, its value when t=0. The position of the particle varies between x=A and x=-A. The maximum displacement from the origin, A, is defined as the amplitude of the SHM. The sine function repeats every time the angle increases by 2. Therefore, the displacement of the particle repeats after a time interval of 2/. Therefore, the SHM is periodic, and its period (time it takes to complete one cycle) is P=2/
+The velocity of the particle, with SHM, is determined by the equation:
+𝑣= 𝜔𝐴cos(𝜔𝑡+ 𝛼)
 And the acceleration:
-The following is the list of the following:
-As you can see, acceleration is proportional to displacement. 
- 
-A particular case of MAS is the simple pendulum: 
-A simple pendulum is an idealized model consisting of a point mass.
-suspended by a non-expandable rope and of despicable mass. If the mass moves to 
-one side of its downward vertical equilibrium position, will oscillate around that 
-position. Ordinary situations, such as a demolition ball in a crane cable or
-A child in a hammock is modeled like simple pendants. 
-The path of the point particle with mass (sometimes called mass or lens) is not 
-is a straight line, but the arc of a circle of radius L is equal to the length of the rope. 
-We use the distance x measured over the arc as the coordinate. If the movement is 
-In simple harmonics, the force of restitution must be directly proportional to x, or to 
- (because x is L). 
- 
-The figure shows the forces that
-They act.
-on 
-la 
-Mass 
-en 
-terms 
-de 
-tangential and radial components. The force of 
-The return F is the tangential component of the 
-Net force: 
-Fθ= −mgsin θ 
-The force of restitution is due to interaction 
-with the earth; T voltage only acts radially, 
-So it doesn 't change the speed module .
-but its direction, making the point mass 
-It describes a bow. The force of restitution is 
-proportional not to  but to sen , so the 
-movement is not a simple harmonic. However, 
-If the angle  is small, then sen  is almost equal to  
-in radians. For example, if  = 0,1rad (one 6°), 
-sen  = 0,0998, a difference of only 0,2%. With 
-This approximation, the equation becomes: 
-Fθ= −mgθ= −mgx
+𝑎= −𝜔2𝐴sin(𝜔𝑡+ 𝛼) = −𝜔2𝑥 
+As can be observed, the acceleration is proportional to the displacement.
+
+A particular case of SHM is the simple pendulum:
+A simple pendulum is an idealized model consisting of a point mass suspended from an inextensible string of negligible mass. If the mass is moved to one side of its vertical downward equilibrium position, it will oscillate around said position. Ordinary situations, such as a wrecking ball on the cable of a crane or a child on a swing, are modeled as simple pendulums.
+The trajectory of the point particle with mass (sometimes called the weight or bob) is not a straight line, but rather the arc of a circle of radius L equal to the length of the string.
+We use as coordinate the distance x measured along the arc. If the motion is simple harmonic, the restoring force must be directly proportional to x, or else to
+ (because x=L).
+
+In the figure, the forces acting on the mass are represented in terms of tangential and radial components. The restoring force F is the tangential component of the net force:
+𝐹𝜃= −𝑚𝑔sin 𝜃 
+The restoring force is due to the interaction with the earth; the tension T acts only radially, so it does not change the magnitude of the velocity but its direction, causing the point mass to describe an arc. The restoring force is proportional not to  but to sin , so the motion is not simple harmonic. However, if the angle  is small, sin  is almost equal to  in radians. For example, if  = 0.1 rad (about 6°), sin  = 0.0998, a difference of only 0.2%. With this approximation, the equation becomes:
+𝐹𝜃= −𝑚𝑔𝜃= −𝑚𝑔𝑥
 𝐿 
  
  
-The force of restitution is then proportional to the small coordinate.
-the movement. Applying Newton's second law, we can get that 
-acceleration is proportional to displacement. 
- 
-(a) From the last equation, obtain an expression for the acceleration in 
-the function of displacement. 
-(b) To deduce and express how the speed is determined from the findings.
-angle  for the simple pendulum. 
-(c) From the point of view of (b), find a relationship between the period and the length 
-The pendulum. 
-(d) Determine the value of g using the simple pendulum. 
+The restoring force is then proportional to the coordinate for small displacements. Applying Newton's second law, we can obtain that the acceleration is proportional to the displacement.
 
- 
-The following information is provided:
+a) From the last equation, obtain an expression for the acceleration as a function of the displacement.
+b) From what was found, deduce and express how the angular velocity  is determined for the simple pendulum.
+c) From what was solved in b), find a relationship between the period and the length of the pendulum.
+d) Determine the value of g using the simple pendulum.
 
+
+OAF 2019- 153
 
 <!--fig:start-->
 ![[cuadernillo_2019_p152_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/1WMSiADggCCMmz9e8kCECIeunILn_brYf/view)
-
 
 
 <span class="atom-split" id="q207" data-atom="q207" data-title="Argent 2019 Locale — Quesito 207" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Onde e Oscillazioni,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono,object/pendulum"></span>
@@ -30209,89 +29986,52 @@ questa dipendenza.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Determination of the copper cutting module**
+**Determination of the shear modulus of copper**
 
-PE30. The Commission has also adopted a number of proposals for the establishment of a European Parliament and Council meeting on the subject.
-I'm a devoted man, Cordoba. 
- 
-Determination of copper cutting module 
-The objective 
-The cutting module (also called cutting, rigidity or slicing)
-The transverse elasticity of the material is a constant of each elastic material.
-characterises the deformation of the material when subjected to
-a cutting force, i.e. applied in a tangent direction to the
-surface on which it acts. 
-The main objective of this test is to determine experimentally 
-the copper cutting module from measurements of the period from 
-oscillation of a torsion pendulum, formed by a cylindrical thread of 
-copper from which a metal clamp is suspended (Figure 1). 
- 
- 
+PE30. IPET N° 89 Paula Albarracín
+ Devoto, Córdoba.
 
+Determination of the shear modulus of copper
+Objective
+The shear modulus (also called modulus of rigidity or transverse elasticity modulus) is a constant of each elastic material that characterizes the deformation undergone by the material when it is subjected to a shear stress, that is, applied in a direction tangent to the surface on which it acts.
+The main objective of this test is to determine experimentally the shear modulus of copper from measurements of the oscillation period of a torsion pendulum, formed by a cylindrical copper wire from which a metal washer is suspended (figure 1).
+
+
+
+
+OAF 2019- 167
+Materials (see figure 2)
+
+
+
+Theoretical model
+It is shown that, for small torsional deformations of the wire, the oscillation period of a torsion pendulum, T, is given by
+
+where L is the length of the wire, R the radius of its cross-section, G the shear modulus of the wire material and I the moment of inertia of the washer about a diametral axis.
+Assuming that the thickness of the washer is small compared with its radii, I is given by
+
+where M is the mass of the washer, and r 1 and r 2 are its inner and outer radii (figure 1).  
  
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Material 
-(see Figure 2) 
- 
- 
- 
-Theoretical model 
-It is shown that for small torsional deformations of the yarn, the period of
-oscillation of a torsion pendulum, T, is given by 
- 
-where L is the length of the thread, R the radius of its section, G the shear modulus of the thread.
-The material of the thread and I the moment of inertia of the crankcase with respect to a diameter axis. 
-Assuming the thickness of the claw is small compared to its radii, I come.
-given by 
- 
-where M is the mass of the candle, and r 1 and r 2 are its inner and outer radii (Figure 1). 
- 
-Note: The moment of inertia of a solid is a magnitude that characterizes its 
-rotational inertia, i.e. its resistance to changes in angular rotational speed 
-around an axis. 
- 
-The following is the list of the types of tests: 
-1) Measure the internal and external diameters of the screw with the caliber. Calculate your 
-moment of inertia. 
-2) Estimate the uncertainty of the moment of inertia, I. Suppose 
-where the uncertainty of M is M = 0.01 g. 
- 
-Determination of G. 
-Attention: The thread of the pendulum that is to be built must be straight
-and vertical, so you should be especially careful not to let the thread get
-double. I fixed the paper meter on the table, with tape. Fixed .
-And also upon the table the wooden staff, so that some may stand out.
-centimeters from the edge. With a little knot, tie the cork in a
-end of the copper thread. The knot must be kept as close as possible to the
-edge of the scythe. Make sure that, by suspending the clamp from the
-thread, this one stays on a vertical plane. Hold the thread with the tweezers and hang it .
-the pendulum, passing the stick through the holes of the tweezers (Figure 3). Adjustment
-the length of the thread, L, to the maximum value allowed by the height of the table, without 
-Let the cork touch the ground. Spread the pendulum over the meter and measure
-the length of the thread, L. 
+Note: The moment of inertia of a rigid solid is a quantity that characterizes its rotational inertia, that is, its "resistance" to changes in angular rotation speed about an axis.
+
+Experimental procedure Determination of I.
+1) Measure with the caliper the inner and outer diameters of the washer. Calculate its moment of inertia.
+2) Make an estimate of the uncertainty of the moment of inertia, I. Assume that the uncertainty of M is M = 0.01 g.
+
+Determination of G.
+Attention: The thread of the pendulum to be constructed must remain straight and vertical, so special care must be taken to prevent the thread from bending. Fix the paper meter on the table with adhesive tape. Also fix the wooden stick on the table so that it protrudes a few centimeters from the edge. With a small knot, tie the washer to one end of the copper thread. The knot must be as close as possible to the edge of the washer. Make sure that, when suspending the washer from the thread, it remains in a vertical plane. Hold the thread with the clamp and hang the pendulum, passing the stick through the holes of the clamp (figure 3). Adjust the length of thread, L, to the maximum value allowed by the height of the table, without the washer touching the floor. Extend the pendulum over the meter and measure the length of the thread, L.
 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-3) Measure the period T of the torsional oscillations of the pendulum. Repeat the process 
-for decreasing L values, up to about 25 cm. Present your results in 
-a board. 
-According to equation (1), a linear dependence between 2 T and L is expected. 
-4) Graphically represent on a millimeter paper the points corresponding to 
-This dependency. 
-5) Determine the slope, p, of the straight line that best fits those points. 
-6) Subtract the value of the copper cutting module, G.
-
+  168 - OAF 2019
+3) Measure the period T of the torsional oscillations of the pendulum. Repeat the process for decreasing values of L, down to about 25 cm. Present your results in a table.
+According to equation (1), a linear dependence between 2 T and L is expected.
+4) Plot on graph paper the points corresponding to this dependence.
+5) Determine the slope, p, of the straight line that best fits those points.
+6) Deduce the value of the shear modulus of copper, G.
 
 <!--fig:start-->
 ![[cuadernillo_2019_p166_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Disk (object)|Disk]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.116](https://drive.google.com/file/d/1WMSiADggCCMmz9e8kCECIeunILn_brYf/view)
-
 
 
 <span class="atom-split" id="q219" data-atom="q219" data-title="Argent 2019 Locale — Quesito 219" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane,object/sphere"></span>

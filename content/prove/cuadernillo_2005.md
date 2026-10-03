@@ -15220,87 +15220,69 @@ Le informazioni che sono più influenzanti e qualsiasi altra considerazione che 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is a list of the main characteristics of the water:
+**PE3 Cubic expansion coefficient of water**
 
-PE3. The Eagles, Tucumán. Blue and Green. 
- 
-I 'm not sure .
-The cubic dilation coefficient of the water is to be determined. 
- 
-The following elements are provided for this purpose: 
-Erlenmeyer. He was a good man. 
-Try it. 
-I got a thermometer. 
-It's a caliber. 
-It's a rule. 
-Extended wood cone with increasing diameter 1.0 to 5.0 mm. 
-- A lid with two holes. 
-I got glass pipe. 
-Universal support with rim-coated cloth and asbestos-coated fabric. 
-I'm a good man. 
-Double nut (2) and stem. 
-Bottle with water. 
-It's a millimeter piece of paper. 
- 
-Theoretical mark. 
-One of the effects of heat is the 'dilation of bodies' - solids, liquids or gases. 
-Each substance has different volume variations compared to equal temperature increases; 
-This characteristic is quantified by the cubic dilation coefficient α. 
- 
-The cubic dilation coefficient α can be defined as: the volume variation by 
-unit of volume and temperature, even if expressed in units oC-1, resulting in: 
- 
-α  =     . ∆V  . 
- 
-Vo ∆T 
-  
-α: Cubic dilation coefficient. 
-∆V: variation in volume. 
-Vo: initial volume 
+PE3. Aguilares, Tucumán. Blue and Green.
 
- 
- 
-∆T: variation in temperature. 
- 
-The method 
- 
-The Commission has decided to take the necessary measures to ensure that the
-We propose to work with the following: 
-(a) Place an initial volume of water in the Erlenmeyer using the probe. (El 
-The volume should be such that the air is not left on the lid and the liquid is slightly emitted by the
-tube running through the plug). 
-b) Place the tube through a hole in the cap (previously measured internal diameter 
-The thermometer is placed by the other perforation. 
-(c) Place the lid with both elements so that the Erlenmeyer is covered (without leaving the lid)
-air inside it, why?). 
-(d) Mount the Erlenmeyer on the universal support asbestos fabric. 
-(e) Locate the rule to measure the variation in height when the liquid dilates. 
-(f) Take appropriate measures in this situation. 
-g) Continue to light the flashlight. 
-(h) Take appropriate measures as the liquid is heated. (Se le 
-suggests you take the measurements to 70 degrees, except for better judgment than you. (It is not possible to determine.) 
- 
-The data processing system
- 
-1. The volume variation in the volume is then graphed (selecting an appropriate scale).
-the temperature function. 
- 
-2. In the corresponding graph, determine the best straight line and get the slope. 
- 
-3. Finally, determine the cubic dilation coefficient α requested, together with its corresponding 
-It's a mistake. 
- 
-Note: 
-During the development of the experience or at the end, make a report taking into account:
-procedures used, difficulties encountered, assumptions made, measurement errors, 
-The report shall be supplemented by the following information:
+INSTRUCTIONS:
+The aim is to determine the cubic expansion coefficient of water.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X8FR4VscFffNWSBBnEwlA8c3FIND0pLn/view)
+For this purpose, the following items are provided:
+ Erlenmeyer flask.
+ Graduated cylinder.
+ Thermometer.
+ Caliper.
+ Ruler.
+ Elongated wooden cone of increasing diameter 1.0 to 5.0 mm.
+ Stopper with two holes.
+ Glass tube.
+ Universal stand with rod with ring and asbestos cloth.
+ Bunsen burner.
+ Double clamp (2) and rod.
+ Jar with water.
+ Millimeter paper.
 
+THEORETICAL FRAMEWORK.
+One of the effects of heat is the "expansion of bodies"; solids, liquids or gases.
+Each substance presents different volume variations for equal temperature increases;
+this characteristic is quantified with the "cubic expansion coefficient α".
+
+The "cubic expansion coefficient α" can be defined as: "the volume variation per unit volume and temperature", although it is expressed with the unit ºC-1, resulting in:
+
+α  =     .   ∆V  .
+
+Vo ∆T
+
+α : Cubic expansion coefficient.
+∆V :  volume variation.
+Vo : initial volume.
+
+
+
+∆T : temperature variation.
+
+METHOD 
+ 
+Regardless of the methods that might exist for its determination, we suggest working with the following:
+a) Place an initial volume of water in the Erlenmeyer flask using the graduated cylinder. (The volume must be such that when the stopper is placed no air remains and the liquid emerges minimally through the tube that passes through the stopper).
+b) Place the tube through one hole of the stopper ("previously measure the internal diameter of the tube") and through the other hole place the thermometer.
+c) Place the stopper with both elements so that it covers the Erlenmeyer flask (without leaving air inside, why?).
+d) Mount the Erlenmeyer flask on the asbestos cloth of the universal stand.
+e) Position the ruler to measure the variation in height when the liquid expands.
+f) Take the corresponding measurements in this situation.
+g) Proceed to light the burner.
+h) Take the corresponding measurements as the liquid heats up. (It is suggested to take measurements up to 70ºC, unless you determine a better criterion.)
+
+DATA TREATMENT
+
+1. Next proceed to graph (choosing an appropriate scale) the volume variation as a function of temperature.
+
+2. On the corresponding graph determine the "best straight line" and obtain the slope.
+
+3. Finally determine the requested "cubic expansion coefficient α", with its corresponding error.
+ 
+NOTE:
+During the development of the experiments or at the end, prepare a report that takes into account: the procedures used, difficulties encountered, assumptions made, measurement errors, which ones have the greatest influence, and any other consideration that you deem necessary to add to the report.
 
 
 <span class="atom-split" id="q120" data-atom="q120" data-title="Argent 2005 Locale — Quesito 120" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/lens,object/screen"></span>

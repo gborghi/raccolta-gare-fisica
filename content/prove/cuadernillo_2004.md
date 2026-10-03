@@ -13838,36 +13838,24 @@ f) La resistencia equivalente de todo el circuito.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Condizionare un salone (caldaio e circuito) **
+**Predisporre un salone (termoconvettore e circuito)**
 
-PT79. Aguilar, Tucumán. Blu e verde. 
- 
-Condizionare un salotto. 
-Si desidera arredare un vecchio salone per il museo. La Commissione onoraria incaricata di questo compito ottiene 
-Come donazione un riscaldatore ambientale che funziona con un corrente di 12,5A e richiede di essere utilizzato. 
-- l'installazione, oltre a consigli per illuminare l'ambiente:
-Se l'impianto che conduce la corrente al riscaldatore è composto da un cavo di rame di 30 m di
-lunghezza, di diametro di 4 mm, la cui resistenza specifica è 0,017Ωmm2m-1 e la tensione nella cassa di 
-Fuse elettriche sono esattamente 220 V; si richiede: 
-a) Disegnare un circuito elettrico che illustra la situazione. 
-b) La tensione distribuita al riscaldatore ambientale. 
-Se supponiamo che la caduta di tensione nei cavi sia scarsa e che oltre al riscaldatore
-Le opere espositive del museo devono essere illuminate con lampade da 75 watt, tutte alimentate dalla luce del
-installazione che esce dalla cassa dei fusibili 220V (qualcosa come un impianto domestico); che il
-Fusibile si fonde quando passa un corrente superiore a 20A; è richiesto: 
-c) Disegni un circuito che rappresenti la nuova situazione. 
-d) Quante lampade di 75w possono essere collegate quando il riscaldatore (che lavora con 
-12,5A) sta funzionando?  Supponiamo un processo isotermico - 
-Come il circuito finale è un classico dell'elettricità e tu. Vuole fare il suo grande.
-la Commissione onoraria decide di comunicare loro: 
-e) corrente elettrica in ogni foco. 
-f) resistenza equivalente dell'intero circuito.
+PT79. Aguilares, Tucumán. Azul y Verde.
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18XFs72aL8pyLwJ_L7SJnZVgESh0U711t/view)
+Predisporre un salone.
+Si desidera predisporre un vecchio salone adibito a museo. La Commissione Onoraria incaricata ottiene in donazione un termoconvettore ambientale che "funziona" con una corrente di 12,5A e chiede a Lei
+una consulenza per installarlo, oltre a consigli per illuminare tale ambiente:
+Se l'impianto che porta la corrente al termoconvettore è composto da un cavo di rame di 30m di lunghezza, di diametro 4mm, la cui resistività è 0,017Ωmm2m-1 e la tensione nella cassetta dei fusibili è esattamente 220V; Le si chiede:
+a) Disegnare un circuito elettrico che illustri la situazione proposta.
+b) La tensione distribuita al riscaldatore ambientale.
+Se ora supponiamo che la caduta di tensione nei cavi sia trascurabile e che, oltre al riscaldatore, si debbano illuminare le opere esposte del museo con lampade da 75 watt, tutte alimentate dall'impianto che esce dalla scatola dei fusibili da 220V (qualcosa di simile a un impianto domestico); che il fusibile si fonda quando passa una corrente maggiore di 20A; vi si chiede:
+c) Disegnare un circuito che rappresenti la nuova situazione.
+d) Quante lampade da 75w si possono collegare, quando il riscaldatore (che lavora con 
+12,5A) sta funzionando? – Supponga un processo isotermo -
+Poiché il circuito finale è un classico dell'elettricità e Lei vuole fare sfoggio delle sue conoscenze davanti alla Commissione Onoraria, decide di indicare loro i seguenti dati:
+e) Corrente elettrica in ciascuna lampadina.
+f) La resistenza equivalente di tutto il circuito.
+
 
 <div class="qlang-split" data-lang="en"></div>
 

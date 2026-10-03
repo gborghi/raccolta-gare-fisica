@@ -368,57 +368,31 @@ di esecuzione delle prove.
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. The tests of the second and third phases
-4.1 The educational establishment participating in the first stage will automatically have enrolments in the second stage
-The first stage is the first stage, where all students reach the minimum number of marks stipulated by the Commission.
-The O.B.F. The second phase tests will be applied on a Saturday from 1pm to 5pm (local time) in the state sub-coordinations defined by each state commission on the date determined in the calendar of the
-OBF, approved and published on the OBF's annual digital disclosure page.
-4.2 Phase 2 testing will be at the following levels:
-Level I - Basic level (students in 8th and 9th grades of Basic Education)
-Level II - Middle level (students of the 1st and 2nd series of secondary education)
-Level III - Middle level (third grade of secondary education and fourth grade of technical education)
-4.2.1 Level I tests will have 8 (eight) dissertation questions to be answered accordingly.
-with the specific instructions in the questionnaire.
-4.2.2 Level II exams will have 12 (twelve) dissertation questions from which students should be able to take part.
-answer 08 (eight) questions in accordance with the specific instructions in the questionnaire.
-4.2.3 Level III tests will have 8 (eight) dissertation questions to be answered by
-I agree with the specific instructions in the questionnaire.
-4.3 The educational establishment participating in the second stage will automatically be enrolled in the third stage
-The first stage is the first stage, where all students reach the minimum number of marks stipulated by the Commission.
-OBF, ensuring that each state has a minimum number of students per grade. The third stage test
-be carried out on the date specified in the OBF calendar, approved and published on the
-the digital publication of the OBF each year, on-site to be published by the State Coordination.
-4.4 Phase 3 trials will be at the following levels:
-Level I - Basic level (students in 8th and 9th grades of Basic Education)
-Level II - Middle level (students of the 1st and 2nd series of secondary education)
-Level III - Middle level (third grade of secondary education and fourth grade of technical education)
-4.4.1 The test for students in Primary Education (grade 9) and Secondary Education (grades 1 and 2)
-It will be composed of an experimental part and a theoretical part. The test for the students of the
-Basic education (eighth grade) and secondary education (three and fourth series) will be composed of a single test
-Theoretical (Level I and III). The experimental test shall be worth 40% of the final grade. The theoretical proof of the Level
-Level I and Level III will have 8 (eight) dissertation questions to be answered according to the following criteria:
-specific instructions in the questionnaire. The Level II theoretical test will have 12 (twelve) questions
-Dissertations from which students must answer 08 (eight) questions according to the instructions
-The Commission has already adopted a number of proposals for a new directive.
-4.5 Only pencil or pencil, rubber, pen and paper shall be permitted for the tests.
-The rule.
-4.6 Except for the experimental part, the use of a calculator shall not be permitted.
-4.7 The student who is late will not be able to take the test.
-4.8 The student may not leave the test premises before one hour has elapsed since the start of the test.
-4.9 On the days of the test, the student must carry a recent photo ID and
-The Commission has also been asked to submit a report on the implementation of the programme.
-The student will not be able to take the exam without the help of the UMES or the Ministry of Labour.
-4.10 If there are students who need to take the 2nd and/or 3rd stage exams in another state
-Other than the enrolled, the teacher responsible must contact the coordinator of his/her state and the
-The transfer of the evidence must be agreed between the national coordinators involved before the
-the conduct of the tests.
-
-**Topic:** [[Mathematics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** -
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/15qWbtATQq4YxlVEOt4hosJqbxvWQdUrj/view)
-
+4. About the exams of the 2nd and 3rd phases
+4.1 The educational institution that participates in the 1st phase will automatically have enrolled for the 2nd phase all students who reach the minimum number of correct answers stipulated by the OBF Commission. The 2nd phase exams will be administered on a Saturday, from 1:00 p.m. to 5:00 p.m. (local time), at the state sub-coordinations defined by each state commission on the date determined in the OBF calendar, approved and published on the OBF digital dissemination page each year.
+4.2 The 2nd phase exams will be at the following levels:
+Level I - Elementary Level (students in the 8th and 9th grades of Elementary School)
+Level II - High School Level (students in the 1st and 2nd years of High School)
+Level III - Intermediate Level (students in the 3rd year of High School and 4th year of Technical Education)
+4.2.1 The Level I exams will have 8 (eight) essay questions that must be answered according to the specific instructions in the question booklet.
+4.2.2 The Level II exams will have 12 (twelve) essay questions, of which students must answer 08 (eight) questions according to the specific instructions in the question booklet.
+ 4.2.3 The Level III exams will have 8 (eight) essay questions that must be answered according to the specific instructions in the question booklet.
+4.3 The educational institution that participates in the 2nd phase will automatically have enrolled for the 3rd phase all students who achieve the minimum number of correct answers stipulated by the OBF Commission, guaranteeing each state the minimum number of one student per grade. The 3rd phase exam will be held on the date determined in the OBF calendar, approved and published on the OBF's digital dissemination page each year, at a location to be announced by the State Coordination.
+4.4 The 3rd phase exams will be at the following levels:
+Level I - Elementary Level (students in the 8th and 9th grades of Elementary School)
+Level II - High School Level (students in the 1st and 2nd years of High School)
+Level III - Intermediate Level (students in the 3rd year of High School and 4th year of Technical Education)
+ 4.4.1 The exam for students of Elementary School (9th grade) and High School (1st and 2nd years)
+will consist of an experimental part and a theoretical part. The exam for students of
+Elementary School (8th grade) and High School (3rd and 4th years) will consist of a single theoretical exam (Level I and III). The experimental exam will be worth 40% of the final grade. The theoretical exam of Level
+I and Level III will have 8 (eight) essay questions that must be answered according to the specific instructions in the question booklet. The theoretical exam for Level II will have 12 (twelve) essay questions, of which students must answer 08 (eight) questions according to the specific instructions in the question booklet.
+4.5 When taking the exams, only the use of a pencil or mechanical pencil, eraser, pen and ruler will be allowed.
+4.6 Except for the experimental part, the use of a calculator will not be allowed.
+4.7 Students who arrive late will not be able to take the exam.
+4.8 Students may not leave the exam room before one hour has elapsed from its start.
+4.9 On the exam days, the student must carry a photo identification document, recently issued by an official body (Department of Education, Public Security, Armed Forces, UNE,
+UMES or Ministry of Labor), without which the student will not be able to take the exam.
+4.10 If there are students who need to take the exams of the 2nd and/or 3rd phase in a state different from the one in which they registered, the responsible teacher must contact the coordinator of their state and the transfer of the exam location must be arranged between the state coordinations involved before the exams take place.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Metodi-Trasversali,topic/mathematics,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
@@ -589,115 +563,55 @@ aplicação da pr
 
 <div class="qlang-split" data-lang="it"></div>
 
-6. Le Olimpiadi Internazionali di Fisica (OIF)
-6.1 I 40 studenti di prima elementare che hanno ottenuto il miglior risultato nella fase 3 dell'OBF di un determinato anno
-e che soddisfino il limite di età richiesto dal Comitato dell'International Physics Olympiad (IPhO); e
-La Commissione europea ha inoltre presentato una proposta di direttiva che prevede che le persone che partecipano all'organizzazione di un'organizzazione fisica e fisica, come la
-preparazione per le Olimpiadi Internazionali di Fisica (OIF) nell'anno successivo a quello di svolgimento
-di questa OBF.
-6.2 I 20 migliori studenti del 9° anno di scuola elementare con il miglior rendimento nella terza fase
-La Commissione ha inoltre presentato una proposta di direttiva che prevede che le persone che partecipano all'organizzazione di un'organizzazione di lavoro di un determinato anno siano invitate a partecipare al processo di preparazione per le
-Olimpiadi Internazionali di Fisica (OIF), insieme ai 40 migliori studenti della prima elementare
-come indicato nel criterio di (6.1). Il numero di iscritti al team di preparazione per le IFM non è superiore a
-Il programma di formazione professionale di cui alla lettera a) del regolamento (CE) n.
-6.3 I 10 migliori studenti della prima elementare che partecipano all'OFEP (Olimpiade)
-La Commissione ha adottato una decisione che prevede che le parti sociali che sono in grado di partecipare alla formazione professionale non siano state considerate come parti sociali.
-il punto 6.1 sarà invitato a partecipare al processo nell'anno successivo a quello in cui si svolge tale OBFEP,
-di preparazione alle Olimpiadi Internazionali di Fisica (OIF).
-6.4 Durante il processo, gli studenti potranno partecipare a diverse attività (lezioni di formazione)
-La Commissione ha adottato una decisione che prevede che le misure di cui all'articolo 1 del regolamento (UE) n.
-di cui all'articolo 1, paragrafo 1, del regolamento (UE) n. Le attività saranno organizzate dai coordinatori statali.
-6.5 La selezione finale degli studenti che parteciperanno agli OIF sarà effettuata mediante esami basati su:
-nei programmi di queste Olimpiadi dopo l'anno di preparazione per le OIF.
-6.6 Saranno prese in considerazione per la selezione: (i) nota della terza fase dell'OFB dell'anno di preparazione
-per le IFM; (ii) nota di prova da applicare nell'agosto/settembre dell'anno di preparazione per le IFM;
-(iii) nota di prova da applicare nel dicembre/genero dell'anno di preparazione per le IFM;
-Tutti uguali. I programmi di prova di sottotitoli (ii) e (iii) saranno gli stessi di IPhO. Os
-12 studenti migliori selezionati in 1° grado secondo i criteri di (6.1) e (6.3) alla fine di quest'anno
-La fase di selezione continuerà. I tre migliori studenti selezionati nel 9° anno,
-La Commissione ha adottato una decisione che prevede che il programma di selezione di un'impresa sia stato adottato in base al criterio di cui al punto (6.2) e che, alla fine di tale fase, il processo di selezione continui. Le date e
-La procedura sarà pubblicata ai selezionati sulla pagina di diffusione digitale dell'OFB dell'anno
-successivo. Gli studenti selezionati secondo il criterio di (6.1), (6.2) e (6.3) dovranno iscriversi
-nell'OMS dell'anno successivo.
-6.7 A decreto del Comitato Olimpico Internazionale per la Fisica (CIOF), ogni paese può
-iscrivere fino a cinque (05) studenti regolarmente iscritti al liceo e di massima età
-di 20 anni completi entro il 30 giugno dell'anno di realizzazione dell'IPhO.
-6.8 A decreto dell'OIbF, ogni paese può
-iscrivere fino a quattro (04) studenti regolarmente iscritti al Liceo e che non abbiano
-compiuto diciotto (18) anni entro il 31 dicembre dell'anno precedente l'organizzazione dell'OIbF,
-E non ha partecipato alle Olimpiadi Internazionali di Fisica - IPhO.
-6.9 I primi dieci studenti classificati della seconda elementare nella fase finale dell'OBF, esclusi i
-i partecipanti alla preparazione per le IFM di cui ai criteri di cui alle voci (6,1) (6.2) (6.3) saranno:
-invitati a sottoporsi a un test da applicare nel dicembre/genero dell'anno di preparazione per le
-OIF equivalenti a quelli di cui alla lettera (iii) del punto (6.6), denominati come prove di ricarcimento. - I due
-i migliori studenti, secondo i criteri di cui al punto (6.6) del regolamento dell'OFF,
-continueranno il processo di selezione per le IFM di quell'anno
-6.10 Studenti non contemplati dai criteri di cui al punto 6.1, 6.2, 6.3, 6.9 e che presentano
-un punteggio eccezionale in una parte delle prove di OBF o OBFEP possono essere invitati a
-partecipare alle prove di rinascita dell'anno successivo e ottenere una qualifica superiore o pari
-il quale è definito al punto (6.9) possono essere invitati a partecipare al processo di selezione per gli IFM del
-lo stesso anno.
-Gli allegati - Informazioni, richieste, procedure e opzioni
-L'Olimpiade Brasile di Fisica è strutturata come segue:
-- il coordinamento nazionale (COBF);
-- Comitato nazionale;
-- Comitato internazionale;
-- coordinamenti statali;
-- Sotto-coordinatori statali;
-- Istituzioni di istruzione registrate.
-A: LABORATORE DELLE prove e responsabilità della commissione per le prove
-Ogni anno il COBF nominerà un coordinatore o un comitato della Commissione delle prove che:
-componerà la commissione e coordinerà i suoi lavori.
-La Commissione di prova sarà responsabile di:
-A1 - elaborare le questioni, i problemi e le soluzioni;
-A2 - Presentare il lavoro a consulenti invitati per il controllo di redazione e di adeguatezza;
-A3 - elaborare i criteri di correzione per le prove delle fasi 2 e 3;
-A4 - Correzione delle prove della terza fase;
-A5 - Preparare un rapporto contenente i punti positivi e negativi osservati durante la correzione,
-La Commissione ha adottato una proposta di regolamento che prevede che le misure di vigilanza e di vigilanza siano adottate in modo da migliorare la situazione.
-l'istruzione degli istituti di istruzione del proprio Stato o regione;
-A6 - In terza fase, decidere insieme alla COBF i criteri finali di premi.
-B: RICORDO
-Qualsiasi istituzione di istruzione, in qualsiasi regione del paese, può iscriversi a partecipare
-della Olimpiada Brasile della Fisica (OBF). Per questo è necessario compilare il modulo di iscrizione in
-La Commissione ha adottato una decisione del Consiglio che modifica la decisione di avvio della Commissione.
-B1  Per l'iscrizione dell'istituto di istruzione è necessario il codice dell'istituto di istruzione presso l'INEP;
-B2  avere almeno un docente iscritto responsabile della ricezione di tutte le corrispondenze
-la data di pubblicazione dell'OBF effettuata esclusivamente per posta elettronica.
-C: La controparte degli istituti di istruzione
-La Commissione delle Olimpiadi di Fisica Brasile (COBF) chiede agli istituti di istruzione di
-collaborazione per rendere possibile la realizzazione dell'OFF a livello nazionale nei seguenti aspetti:
-C1 - Nominarsi almeno un docente per professore accreditato dell'OBF presso l'istituto di formazione
-l'istruzione;
-C2 - Includere nel calendario dell'istituto le date dell'OFB per evitare conflitti
-con le normali attività;
-C3 - Stimulare la realizzazione della prova di fase 1 come attività interna dell'istituto di
-l'istruzione;
-C4 - riprodurre i test della prima fase per gli studenti partecipanti;
-C5 - Promuovere la diffusione delle attività dell'OBB e organizzare l'infrastruttura per realizzare le attività di
-prove;
-C6 - coinvolgere insegnanti e studenti nelle attività dell'OFB, consentendo, per esempio, che gli insegnanti e gli studenti
-studenti qualificati per la preparazione alle Olimpiadi Internazionali di Fisica (OIF) se si dedicano
-a questa preparazione partecipando a attività speciali come lezioni di esercizi selezionati e
-I risultati sono stati ottenuti con un'esperienza di ricerca.
-D: La contropartizione delle sottoscrizioni statali
-D1  I sottoordinatori statali possono essere gli istituti di istruzione che partecipano alla
-OBS e che desiderano volontariamente contribuire all'applicazione delle prove di fase 2 o delle istituzioni
-Le autorità nazionali di controllo sono state scelte dal coordinatore statale.
-D2  Gli istituti di istruzione che desiderano essere sotto-coordinatori statali devono:
-D2.1 - Selezionare un insegnante responsabile dell'organizzazione dell'evento presso l'istituzione di insegnamento
-Il Consiglio europeo di sicurezza e sicurezza ha adottato una decisione che prevede che il Consiglio europeo di sicurezza e sicurezza possa essere il coordinatore di tale accordo. Il professore sarà il
-responsabile di ricevere, mantenere segreta la prova e di ripartire i volantini delle risposte alla commissione
-La Commissione ha adottato una decisione che prevede che il regime di controllo dei dati di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
-- la Commissione ha adottato una decisione che non è stata adottata. Tutti i materiali relativi alla fase 2 (provati,
-Le informazioni e le istruzioni di risposta saranno inviate dalla coordinatrice statale nella settimana precedente la
-Applicazione del programma
+6. Dalle Olimpiadi Internazionali di Fisica (OIF)
+6.1 I 40 studenti della 1ª classe con il miglior rendimento nella 3ª fase della OBF di un determinato anno e che rispettino il limite di età richiesto dal Comitato della International Physics Olympiad (IPhO) e della Olimpiada Iberoamericana de Física (OIbF), saranno invitati a partecipare al processo di preparazione per le Olimpiadi Internazionali di Fisica (OIF) nell'anno successivo a quello dello svolgimento di questa OBF.
+6.2 I 20 migliori studenti del 9º anno dell'Insegnamento Fondamentale con il miglior rendimento nella 3ª fase della OBF di un determinato anno, saranno invitati a partecipare al processo di preparazione per le
+Olimpiadi Internazionali di Fisica (OIF), insieme ai 40 migliori studenti della 1a classe come indicato nel criterio del punto (6.1). L'ingresso nella squadra di preparazione per le OIF non garantisce automaticamente il posto nel gruppo di studenti che faranno la selezione per le OIF.
+6.3 I 10 migliori studenti della 1a classe della Scuola Superiore che parteciperanno alla OBFEP (Olimpiade Brasiliana di Fisica delle Scuole Pubbliche) e che non saranno classificati nella OBF secondo il criterio del punto 6.1 saranno invitati a partecipare al processo nell'anno successivo a quello dello svolgimento di questa OBFEP, di preparazione per le Olimpiadi Internazionali di Fisica (OIF).
+6.4 Durante il processo, gli studenti potranno partecipare ad attività differenziate (lezioni sperimentali, risoluzione di problemi, conferenze, visite a laboratori di ricerca nelle università dei loro stati). Le attività saranno organizzate dai coordinamenti statali.
+6.5 La selezione finale degli studenti che parteciperanno alle OIF sarà effettuata mediante esami basati sui programmi di queste olimpiadi dopo l'anno di preparazione per le OIF.
+6.6 Saranno presi in considerazione per la selezione: (i) il voto della 3a Fase della OBF dell'anno di preparazione per le OIF; (ii) il voto di una prova da somministrare in agosto/settembre dell'anno di preparazione per le
+OIF; (iii) nota di una prova da somministrare a dicembre/gennaio dell'anno di preparazione per le OIF, tutte di uguale peso. I programmi delle prove dei sottopunti (ii) e (iii) saranno gli stessi della IPhO. I dodici migliori studenti selezionati al 1° anno secondo i criteri dei punti (6.1) e (6.3), al termine di questa fase continueranno nel processo di selezione. I tre migliori studenti selezionati al 9° anno, secondo il criterio del punto (6.2), al termine di questa fase continueranno nel processo di selezione. Le date e la procedura saranno divulgate ai selezionati sulla pagina di divulgazione digitale della OBF dell'anno successivo. Gli studenti selezionati secondo il criterio dei punti (6.1), (6.2) e (6.3) dovranno iscriversi alla OBF dell'anno successivo.
+6.7 Per determinazione del Comitato dell'Olimpiade Internazionale di Fisica (IPhO), ogni paese potrà iscrivere fino a cinque (05) studenti regolarmente iscritti alla Scuola Secondaria Superiore e con età massima di 20 anni compiuti entro il 30 giugno dell'anno di svolgimento dell'IPhO.
+6.8 Su determinazione del Comitato dell'Olimpiade Iberoamericana di Fisica (OIbF), ogni paese potrà iscrivere fino a quattro (04) studenti regolarmente iscritti alla Scuola Secondaria Superiore e che non abbiano compiuto diciotto (18) anni di età entro il 31 dicembre dell'anno precedente a quello di svolgimento della OIbF, e che non abbiano nemmeno partecipato all'Olimpiade Internazionale di Fisica - IPhO.
+6.9 I dieci migliori studenti classificati della 2ª classe nell'ultima fase della OBF, escludendo i partecipanti alla preparazione per le OIF contemplati nei criteri dei punti (6,1) (6.2) (6.3), saranno invitati a sostenere una prova che sarà somministrata a dicembre/gennaio dell'anno di preparazione per le
+OIF equivalente a quello del sottopunto (iii) del punto (6.6), denominate come prove di ripescaggio. I due migliori studenti, secondo i criteri stabiliti nel punto (6.6) del Regolamento della OBF, continueranno il processo di selezione per le OIF di quell'anno
+6.10 Studenti non contemplati dai criteri dei punti (6.1), (6.2), (6.3), (6.9) e che presenteranno un punteggio eccezionale in qualche parte delle prove della OBF o OBFEP potranno essere invitati a partecipare alle prove di ripescaggio dell'anno successivo, e se otterranno una qualificazione superiore o uguale a quella definita nel punto (6.9) potranno essere invitati a partecipare al processo di selezione per le OIF dello stesso anno.
+Allegati - Informazioni, richieste, procedure e opzioni
+L'Olimpiade Brasiliana di Fisica è strutturata nel modo seguente:
+- Coordinamento Nazionale (COBF);
+- Comitato Nazionale;
+- Comitato Internazionale;
+- Coordinamenti Statali;
+- Sotto-Coordinamenti Statali;
+- Istituti di Istruzione registrati.
+A: ELABORAZIONE DELLE PROVE E RESPONSABILITÀ DELLA COMMISSIONE DELLE PROVE
+Ogni anno sarà nominato dalla COBF un coordinatore o un Comitato della Commissione delle Prove che comporrà la citata commissione e coordinerà i suoi lavori.
+La Commissione delle Prove sarà responsabile di:
+A1 - Elaborare le domande, i problemi e le loro rispettive soluzioni;
+A2 - Sottoporre il lavoro a consulenti invitati per la verifica della stesura e dell'adeguatezza;
+A3 - Elaborare i criteri di correzione per le prove della seconda e terza fase;
+A4 - Correggere le prove della terza fase;
+A5 - Elaborare un rapporto contenente gli aspetti positivi e negativi rilevati durante la correzione, dati e statistiche, che permettano a ciascun Coordinatore, Statale e/o Regionale, di operare per il miglioramento dell'insegnamento degli istituti di insegnamento del proprio stato o regione;
+A6 - Nella terza fase decidere insieme alla COBF i criteri finali di premiazione.
+B: REGISTRAZIONE
+Qualsiasi istituto di istruzione, di qualsiasi regione del paese, potrà registrarsi per partecipare all'Olimpiade Brasiliana di Fisica (OBF). Per questo è necessario compilare il modulo di iscrizione sulla pagina della OBF: http://www.obf.org.br.
+B1 – Per l'iscrizione dell'istituto di istruzione è necessario il suo codice presso l'INEP;
+B2 – Avere almeno un professore registrato responsabile della ricezione di tutta la corrispondenza della OBF effettuata esclusivamente per posta elettronica.
+C: LA CONTROPARTITA DEGLI ISTITUTI DI ISTRUZIONE
+La Commissione dell'Olimpiade Brasiliana di Fisica (COBF) chiede agli istituti di insegnamento una collaborazione per rendere fattibile lo svolgimento della OBF a livello nazionale nei seguenti aspetti:
+C1 - Nominare almeno un docente come Professore Accreditato della OBF presso l'istituto di insegnamento;
+C2 - Includere nel calendario dell'istituto di insegnamento le date della OBF affinché non vi siano conflitti con le attività normali;
+C3 - Stimolare lo svolgimento della prova della 1a fase, come attività interna dell'istituto di insegnamento;
+C4 - Riprodurre le prove della 1a fase per gli studenti partecipanti;
+C5 - Promuovere la divulgazione delle attività dell'OBF e organizzare l'infrastruttura per lo svolgimento delle prove;
+C6 - Coinvolgere i docenti e gli studenti nelle attività dell'OBF, consentendo, ad esempio, che gli studenti selezionati per la preparazione alle Olimpiadi Internazionali di Fisica (OIF) si dedichino a tale preparazione partecipando ad attività speciali, come lezioni su esercizi selezionati e pratiche sperimentali.
+D : IL CONTRIBUTO DELLE SOTTO-COORDINAZIONI STATALI
+D1 – Le sotto-coordinazioni statali potranno essere gli istituti di istruzione che partecipano alla
+OBF e coloro che volontariamente desiderano contribuire nella somministrazione delle prove della 2a fase o istituzioni scelte dal coordinamento statale.
+D2 – Gli istituti di insegnamento che desiderano essere sub-coordinamenti statali devono:
+D2.1 - Scegliere un docente responsabile dell'organizzazione dell'evento presso l'istituto di istruzione, che sarà l'interlocutore dello stesso con i coordinamenti nazionale e statale. Il docente sarà il responsabile di ricevere, mantenere la riservatezza delle prove e rispedire i quaderni delle risposte alla commissione statale entro il termine previsto dal Coordinamento Statale o COBF, seguendo le indicazioni specifiche riguardo alle procedure stabilite. Tutto il materiale relativo alla 2a fase (prove, quaderni delle risposte e istruzioni) sarà inviato dal coordinamento statale nella settimana precedente all'applicazione della pr
 
-**Topic:** [[Geometric Optics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/15qWbtATQq4YxlVEOt4hosJqbxvWQdUrj/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

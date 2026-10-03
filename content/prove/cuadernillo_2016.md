@@ -24683,96 +24683,79 @@ Consiste di:
 
 <div class="qlang-split" data-lang="en"></div>
 
-PE11. High school No. 47 President Ramón S. Castle .
+PE11. Escuela Secundaria Nro. 47 Presidente Ramón S. Castillo
+
+  ENET Nro 1 Prof. Vicente Aguilera
+
+  Colegio del Carmen y San José
+
+  Escuela Secundaria Nro. 3 Gustavo G. Levene
+
+  Colegio Padre Ramón de la Quintana
+
+  Escuela PreUniversitaria Fray Mamerto Esquiú.
+
+  San Fernando del Valle de Catamarca. 
  
-The Commission has also adopted a number of proposals for the Vicente Aguilera is a great man .
- 
-College of Carmen and San José 
- 
-High school No. 3 Gustav G. Take it off .
- 
-Father Ramon de la Quintana College is located in the city of Quintana.
- 
-Fray Mamerto Esquiu Pre-University School. 
- 
-San Fernando of the Catamarca Valley. 
- 
-Determination of the value of g by a simple pendulum. 
-The first is the introduction.
-In a simple pendulum, the composition of the acting forces results in a
-The force F tangent to the trajectory, which tends to restore it to its equilibrium position and which 
-The motion of the axis of the vehicle is proportional to the negative sign shift.
-The pendulum resembles the simple harmonic movement. 
-For small amplitudes the length of the arc s over the pendulum's path is
-is similar to distance d and the period can be calculated from the expression: 
-g
-l
+Determination of the value of g by means of a simple pendulum.
+Introduction
+In a simple pendulum, the composition of the forces acting gives as a resultant a force F tangent to the trajectory, which tends to restore it to its equilibrium position and which is proportional to the displacement with a negative sign; therefore the motion of the pendulum resembles simple harmonic motion.
+For small amplitudes the arc length s along the pendulum's trajectory resembles the distance d and the period can be calculated from the expression:
+g l
 T
 .
 2
 
- 
-which relates the period T to the length l of the pendulum. 
- 
-Objectives: 
- Determine the value of g . 
+
+which relates the period T to the length l of the pendulum.
+
+Objectives:
+ Determine the value of g . 
 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-List of materials: 
- Support 
- A wooden or metal sphere 
- The timekeeper 
- Carrier 
- Rule/Meter tape 
- 
-The procedure: 
-a. Arming the device conveniently 
-b. Measure the period of oscillation of the pendulum. (To reduce error take the time 
-The pendulum makes 10 oscillations and divides the result by 10) 
-c. Complete the following table: 
-l(cm) 
-t(s) 
-T(s)= t/n* 
-I'll see you later. (s) 
-(Tprom) 2 (s2) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The following shall be reported:
-d- Calculate the value of g. 
- 
-Requirements: 
-At the end of the experience, you must submit a written report in clear writing, which 
-consists of: 
- Problem setting 
-• Value obtained from measurements, tables, charts. 
- Source of error and analysis of how they influence the final result. 
-• Experimental result of the requested product. 
-• Conclusions 
-• comments you wish to make on the experience.
+OAF 2016 - 119
+List of materials:
+ Stand
+ Wooden or metal sphere
+ Stopwatch
+ Protractor
+ Ruler/Measuring tape
 
+Procedure:
+a. Assemble the device appropriately b. Measure the oscillation period of the pendulum. (To reduce error, take the time the pendulum takes to perform 10 oscillations and divide the result by 10)
+c. Complete the following table:
+l(cm)
+t(s)
+T(s)= t/n*
+Tavg. (s)
+(Tavg)2 (s2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+n*=number of oscillations =10 d- Calculate the value of g.
+ 
+Requirements:
+At the end of the experiment you must hand in a written report in clear handwriting, consisting of:
+ Statement of the problem
+ Values obtained in the measurements, tables, graphs.
+ Sources of error and analysis of how they influence the final result.
+ Experimental result of what was requested.
+ Conclusions.
+ Comments you wish to make regarding the performance of the experiment.
 
 <!--fig:start-->
 ![[cuadernillo_2016_p118_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1yUt3qlvMhlX6NtiZ_M4vH9n6z3G3dgRP/view)
-
 
 
 <span class="atom-split" id="q168" data-atom="q168" data-title="Argent 2016 Locale — Quesito 168" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>

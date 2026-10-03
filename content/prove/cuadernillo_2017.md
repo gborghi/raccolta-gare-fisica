@@ -931,514 +931,405 @@ Prueba Teórica - Nivel 2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Oposizione planetaria**
+**Opposizione Planetaria**
 
-Problema 3 
-Opposizione planetaria 
- 
-Il 21 agosto scorso si è verificato un fenomeno astronomico che si è reso noto all'Università di San Francisco.
-La stampa come l'Eclipse del Secolo. Alcuni giornali hanno anche riferito che il peso di 
-le persone sulla Terra sarebbero state colpite. Questa notizia ci ha fatto pensare:
-- Facciamo un problema di astronomia e interazione gravitazionale? 
- 
-In astronomia, si chiama Opposizione al fenomeno in cui due stelle si incontrano.
-si trovano, rispetto alla Terra, in due punti del cielo diametralmente opposti. La 
-La figura 1 mostra Marte in opposizione al Sole. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figura 1: Marte in opposizione al Sole 
- 
-P 
+Problema 3
+Opposizione Planetaria
+
+Il 21 agosto scorso si è verificato un fenomeno astronomico che è stato divulgato dalla stampa come l'―Eclissi del Secolo‖. Alcuni giornali hanno persino riportato che il peso delle persone sulla Terra sarebbe stato influenzato. Questa notizia ci ha fatto pensare… e se facessimo un problema di Astronomia e interazione gravitazionale?
+
+In Astronomia, si definisce Opposizione il fenomeno in cui due astri si trovano, rispetto alla Terra, in due punti del cielo diametralmente opposti. La figura 1 mostra Marte in Opposizione al Sole.
+
+
+
+
+
+
+
+
+
+
+Figura 1: Marte in Opposizione al Sole
+
+P
 SO
 L
-Terra .
-Marte .
+E
+Terra
+Marte
 
- 
-OAF 2017 - 9 
-Nel corso di questo problema, faremo uso delle leggi di Kepler e della legge di
-Interazione gravitazionale di Newton. Le leggi di Kepler sono:
- 
-La prima legge
-Tutti i pianeti si muovono attorno al Sole descrivendo orbite elliptiche. 
-Il Sole si trova in uno dei foci dell'ellipse. 
- 
-Secondo legge 
-La radio-vettrice che unisce un pianeta e il Sole spazia le stesse aree allo stesso tempo. 
- 
- 
-Terza legge 
-Si realizza che per tutti i pianeti, il rapporto tra il periodo di rivoluzione al
-La quadrata e la semiezza maggiore dell'ellipse al cubo rimangono costanti. Questo è:
- 
+
+OAF 2017 - 9
+Nel corso di questo problema, faremo uso delle leggi di Keplero e della legge di interazione gravitazionale di Newton. Le Leggi di Keplero sono
+
+Prima legge
+Tutti i pianeti si muovono attorno al Sole descrivendo orbite ellittiche.
+Il Sole si trova in uno dei fuochi dell'ellisse.
+
+Seconda legge
+Il raggio vettore che unisce un pianeta e il Sole spazza aree uguali in tempi uguali.
+
+
+Terza Legge
+Vale che per tutti i pianeti, il rapporto tra il periodo di rivoluzione al quadrato e il semiasse maggiore dell'ellisse al cubo rimane costante. Ovvero:
+
 𝑇2
-𝑎3 = 𝐶 
+𝑎3 = 𝐶
+
+Dove T è il periodo orbitale (tempo che impiega a compiere un giro attorno al
+Sole), 𝑎 è la distanza media del pianeta dal Sole e 𝐶 la costante di proporzionalità.
  
-Dove T è il periodo orbitale (il tempo necessario per girare intorno al 
-Sol), a è la distanza media del pianeta dal Sole e C la costante di 
-Proporzionalità. 
- 
-Nota: nel nostro problema, consideriamo che le orbite siano circolari e i foci di
-L'ellipse coincide con il centro del cerchio. E le orbite dei pianeti.
-Le parti considerate sono situate nello stesso piano. 
- 
-Risolvi i seguenti punti: 
- 
-a) Se l'ultima volta che Marte è stato in opposizione al sole, è avvenuto il 22 maggio di
-2016, quando si verificherà la prossima opposizione al sole? 
- 
-b) Qual è il raggio di orbita del pianeta Marte? 
- 
-c) Qual è il peso sulla superficie di Marte di un astronauta che pesa sulla Terra?
-700 N? 
-(non tiene conto degli effetti dovuti alla rotazione dei pianeti sui loro
-aumenti di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di veloc 
- 
-Supponiamo che Marte sia in opposizione al sole, l'astronauta si trovi al punto.
-P della figura 1. 
- 
-d) Qual è il cambiamento di peso che si prova a causa della massima vicinanza?
-della Terra rispetto a Marte? 
- 
-Dati utili per il problema 
- 
-Massa di Marte: 6,39 × 1023 kg 
-Periodo orbitale di Marte: 687 giorni 
-Periodo orbitale della Terra: 365 giorni 
-Massa terrestre: 5,972 × 1024 kg 
-Massa del Sole: 1,989 × 1030 kg 
-Radiosfera della Terra: 6371 km 
-Radio di Marte: 3390 km 
-Velocità della luce: 300000 km s-1 
-Costante universale di gravità: G=6.674 x 10−11 
+Nota: nel nostro problema, considereremo che le orbite siano circolari e i fuochi dell'ellisse coincidano con il centro del cerchio. Inoltre le orbite dei pianeti considerati sono situate in uno stesso piano.
+
+Risolva i seguenti punti:
+
+a) Se l'ultima volta che Marte è stato in Opposizione al sole è avvenuta il 22 maggio
+2016, quando avverrà la prossima Opposizione al sole?
+
+b)  Qual è il raggio dell'orbita del pianeta Marte?
+
+c) Qual è il suo peso sulla superficie di Marte di un astronauta che sulla Terra pesa
+700 N?
+(non tenga conto degli effetti dovuti alla rotazione dei pianeti sui propri assi).
+
+Supponga che, essendo Marte in Opposizione al sole, l'astronauta si trovi nel punto
+P della Figura 1.
+
+d) Qual è la variazione che subisce nel suo peso a causa della massima prossimità della Terra rispetto a Marte?
+
+Dati utili per il problema
+
+Massa di Marte: 6,39 × 1023 kg
+Periodo orbitale di Marte: 687 giorni
+Periodo orbitale della Terra: 365 giorni
+Massa della Terra: 5,972 × 1024 kg
+Massa del Sole: 1,989 × 1030 kg
+Raggio della Terra: 6371 km
+Raggio di Marte: 3390 km
+Velocità della luce: 300000 km s-1
+Costante universale di gravitazione:      𝐺= 6,674 𝑥 10−11
 𝑁𝑚2
-𝑘𝑔2  
- 
+𝑘𝑔2
 
- 
-10 - OAF 2017 
-Prova sperimentale - Livello 1 
- 
-Interferenza da una doppia rendija 
- 
-Obiettivo generale 
-Verificare sperimentalmente la natura ondulatoria della luce mediante l'osservazione 
-di interferenza generata da una doppia spazia. 
- 
-Introduzione 
-Nel 1801 Thomas Young eseguì un esperimento di ottica, il cui risultato è solo possibile.
-La luce si comporta come un'onda, al contrario della luce.
-La teoria tradizionale che sosteneva che la luce fosse costituita da un flusso di fine
-particelle. 
-Per eseguire l'esperimento, Young utilizzò una fonte di luce monocromatica, cioè di
-un colore unico e determinato. Alla luce proveniente da questa fonte, ha fatto incidere su una
-una lamina non trasparente che aveva una scia sottile, l'unico posto dove poteva passare.
-la luce. Dopo aver attraversato questa spazia, la luce si è incentrata su un'altra lamina non trasparente.
-che aveva due sottili spazzature molto vicine, come si vede nella figura.
-1. Grande fu la sorpresa di Young quando osservò che la luce catturata su una
-la luce che "emanò" dalle due spaccature, produceva un modello di strisce.
-luminosi e scuri. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Interpretazione 
-Per interpretare questi risultati, Young ha dovuto supporre un comportamento
-ondulazione della luce: 
- La luce si comporta come un'onda, la cui lunghezza d'onda associata è 
-è legato al colore della luce osservata. Cioè, il colore rosso ha un
-lunghezza d'onda diversa da quella del giallo o del verde. 
- La luce emerge dalle spacie come onde cilindriche, cioè ha frunti di
-L'aumento della capacità di trasmissione è stato determinato in base alle seguenti caratteristiche: 
- I frunti d'onda che incidono sulla lamina con la doppia spazia emergono con 
-la stessa fase, cioè: le onde sono coerenti. 
- Le differenze di fase tra due onde sono correlate alla differenza tra 
-Le distanze che hanno percorso. 
- Le onde che "partono" da ogni spaccatura della seconda lamina (doppio spaccatura) 
-si spostano a diverse distanze fino a raggiungere i punti sullo schermo, quindi
-che arrivano a ogni punto con diverse fasi. 
-Figura 1 
-Strisce lucide
-Strisce scure
-Scattoli
-Laminata con una .
-- La spaccatura
-L' lamina con due
-- Le scintille
-Fonte di luce 
 
- 
-OAF 2017 - 11 
- Quando si superponono, cioè quando si sommano onde con diverse fasi si produce un 
-modello di interferenza (modello di strisce luminose e scure). 
- 
-Analisi 
-La figura 2 mostra schematicamente la disposizione geometrica dell'esperimento e 
-La differenza Δ tra le distanze percorse dai frunti d'onda fino a raggiungere un 
-punto di uno schermo molto lontano. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-La condizione di distanza è necessaria per trattare i raggi che raggiungono lo schermo.
-Come raggi quasi paralleli e facilitare i calcoli matematici. Così, si può considerare 
-che la differenza di "corso percorso" Δ tra i raggi che emergono da una spaccatura e
-quelli che emergono dall'altra spaccatura sono: 
-Δ = dsin θ 
-Dove d è la distanza di separazione tra le spazzature e θ è l'angolo che posiziona 
-al punto considerato sullo schermo. 
-Per non dover mettere uno schermo lontano, si usa di solito un lente "sottile" mediante 
-che permette di far convergere i raggi paralleli nel foco di questa stessa luce, dove
-Figura 2 
-Δ 
-d 
- 
-Zona ampliata 
-Raggi quasi paralleli
-Δ 
- 
-d 
 
+  10 - OAF 2017
+Prova Sperimentale - Livello 1
+
+Interferenza da una Doppia Fenditura
+
+Obiettivo Generale
+Verificare sperimentalmente la natura ondulatoria della luce mediante l'osservazione del pattern di interferenza generato da una doppia fenditura.
  
-12 - OAF 2017 
-si trova lo schermo. O fare questo esperimento usando il nostro occhio, il sistema -- cornea --
-"Cristallino" come lente e la nostra retina come schermo. Se mettiamo il doppio spazzo molto 
-vicino al nostro occhio, possiamo schematizzare la situazione come mostrato nella Figura
-3. 
- 
- 
- 
- 
- 
- 
- 
- 
+Introduzione
+Nel 1801 Thomas Young realizzò un esperimento di ottica, il cui risultato può essere spiegato solo considerando che la luce si comporta come un'onda, in contrapposizione alla teoria tradizionale che sosteneva che la luce fosse formata da una corrente di fini particelle.
+Per realizzare l'esperimento, Young utilizzò una sorgente di luce monocromatica, cioè di un solo e determinato colore. La luce proveniente da questa sorgente la fece incidere su una lamina non trasparente che aveva una fenditura sottile, unico luogo attraverso cui la luce poteva passare. Dopo essere passata attraverso questa fenditura, la luce incise su un'altra lamina non trasparente che aveva due fenditure sottili e molto vicine tra loro, come mostrato nella Figura
+1. Grande fu la sorpresa di Young quando osservò che la luce captata su uno schermo, cioè la luce che ―emanava‖ dalle due fenditure, produceva un pattern di frange chiare e scure.
  
  
  
  
  
-Come indicato nella figura 3 si vedranno i raggi che raggiungono la nostra retina, come 
-provenienti da strisce luminose situate nello stesso piano in cui si trova la
-fonte di luce. Ad esempio, sembreranno "provengono" dal punto P situato a distanza e
-di un'asse orizzontale e sul piano in cui si trova la fonte di luce e con una 
-inclinamento θ. 
-Se l'angolo θ è piccolo (meno di 15°) si
-può considerare: 
-Δdtgθ d e
+ 
+ 
+ 
+ 
+ 
+Interpretazione
+Per poter interpretare questi risultati, Young dovette supporre un comportamento ondulatorio della luce:
+ La luce si comporta come un'onda, la cui lunghezza d'onda associata è legata al colore della luce che si osserva. Cioè, il colore rosso ha una lunghezza d'onda diversa da quella del giallo o del verde.
+ La luce emerge dalle fenditure come onde cilindriche, cioè ha fronti d'onda cilindrici (Figura 1).
+ I fronti d'onda che incidono sulla lamina con la doppia fenditura emergono con la stessa fase, cioè: le onde sono coerenti.
+ Le differenze di fase tra due onde sono legate alla differenza tra le distanze che hanno percorso.
+ Le onde che ―partono‖ da ciascuna fenditura della seconda lamina (doppia fenditura)
+percorrono distanze diverse fino a raggiungere i punti sullo schermo, quindi arrivano a ogni punto con fasi diverse.
+Figura 1
+Frange luminose
+Frange scure
+Schermo
+Lamina con una fenditura
+Lamina con due fenditure
+Sorgente di luce
+
+
+OAF 2017 - 11
+ Sovrapponendosi, cioè: sommando onde con fasi diverse si produce una figura di interferenza (figura di frange luminose e scure).
+
+Analisi
+Nella Figura 2 è mostrata schematicamente la disposizione geometrica dell'esperimento e la differenza 𝛥 tra le distanze che i fronti d'onda percorrono fino a raggiungere un punto di uno schermo molto lontano.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La condizione di grande distanza è necessaria per trattare i raggi che raggiungono lo schermo come raggi quasi paralleli e facilitare i calcoli matematici. Così, si può considerare che la differenza di ―cammino percorso‖ 𝛥 tra i raggi che emergono da una fenditura e quelli che emergono dall'altra fenditura è:
+𝛥= 𝑑sin θ
+Dove  𝑑  è la distanza di separazione tra le fenditure e  θ è l'angolo che posiziona il punto considerato sullo schermo.
+Per non dover mettere uno schermo lontano, si usa di solito una lente ―sottile‖, mediante la quale si ottiene che i raggi paralleli convergano nel fuoco della stessa, dove
+Figura 2
+Δ d
+
+Zona ingrandita
+Raggi “quasi”  paralleli
+Δ
+
+d
+
+
+  12 - OAF 2017 si trova lo schermo. O realizzare questo esperimento usando il nostro occhio, sistema ―cornea- cristallino‖, come lente e la nostra retina come schermo. Se mettiamo la doppia fenditura molto vicina al nostro occhio, possiamo schematizzare la situazione come mostrato nella Figura
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Come indicato nella figura 3 si percepiranno i raggi che raggiungono la nostra retina, come provenienti da frange luminose situate nello stesso piano in cui si trova la sorgente di luce. Per esempio, sembreranno ―provenire‖ dal punto P’ situato a una distanza y dall'asse orizzontale e sul piano in cui si trova la sorgente di luce e con un'inclinazione θ.
+Se l'angolo  θ  è piccolo (minore di 15º) si può considerare:
+𝛥≅𝑑𝑡𝑔θ ≅𝑑 𝑦
 𝐷 
  
-In questo caso, considerando la differenza di
-Il percorso "corso" dei raggi originari di
-per ogni spazzo e considerando θ piccole, la
-La posizione delle regioni luminose (massimo di 
-interferenza) sarà data da: 
+In questo caso, considerando la differenza di cammino ―percorso‖ dei raggi originati in ciascuna fenditura e considerando θ piccoli, la posizione delle regioni luminose (massimi di interferenza) sarà data da:
 𝑦𝑚= 𝑚 𝜆 𝐷
-𝑑 
-dove λ è la lunghezza d'onda della luce che 
-si incide sulla doppia spazia e m è il numero di 
-di massima considerazione. Questo è: m=0 
-(centrale e coincidente con la fonte di luce), 
-m= ±1 (prime strisce: a destra e a 
-a sinistra della centrale), m= ±2 (secondi 
-La Commissione ha adottato una decisione che non può essere adottata. 
- 
- 
-Patrono di strisce 
-visualizato 
- 
- 
- 
- 
-Figura 3 
-θ 
-𝐷 
-𝑦 
-Retina 
-Cornea-Cristalino 
-P’ 
-Fonte di luce 
-Patrono di strisce visualizzato 
+𝑑 dove 𝜆 è la lunghezza d'onda della luce che incide sulla doppia fenditura e 𝑚 è il numero d'ordine del massimo considerato. Cioè: 𝑚= 0 (centrale e coincidente con la sorgente di luce),
+𝑚= ±1 (prime frange: a destra e a sinistra di quella centrale), 𝑚= ±2 (seconde frange) e così via.
+
+
+Pattern di frange visualizzato
+
+
+
+
+Figura 3
+θ
+𝐷
+𝑦
+Retina
+Cornea- Cristallino
+P’
+Sorgente di luce
+Pattern di frange visualizzato
 Occhio
 
- 
-OAF 2017 - 13 
- 
-Nota: L'analisi non ha preso in considerazione il fenomeno di difrazione, che 
-La luce di questa luce è molto più intensa che la luce di questa luce.
-La maggior parte dei prodotti di cui trattasi è destinata a essere utilizzata per la produzione di prodotti di base. 
- 
-Proposta sperimentale 
- 
-Elementi disponibili 
- 
- Slide con doppia spaccatura. È stata scritta la separazione tra le prime.
-doppia spazia d1 e larghezza delle spazia a1 e, anche la separazione tra le 
-secondo doppio di rotture d2 e larghezza di rotture a2. Slide
-INCONONITA Non sono registrati dati. 
- 
- Dispositivo a batteria, con tre fonti di luce (rosso, verde e blu) con sistema per 
-controllare l'intensità della luce, accesa e spenta. Con regola incorporata. 
-Nota: la luce verde non sarà utilizzata in questa pratica; se hai problemi 
-per riconoscere i colori: chiama il bedel. 
- 
- Due "chinettoni" da posizionare sopra la regola incorporata nella fonte di luce. 
- 
- Tavola con piede e rotture per individuare il dispositivo di luce. 
- 
- Porta diapositive adattate alla tabella fornita. 
- 
-Nota: quando non si effettuano le misure, spegnere la fonte di luce (spegni il 
-- il interruttore in off. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Obiettivo sperimentale: 
-Realizzare le misurazioni necessarie per determinare la lunghezza d'onda di una fonte di 
-la luce proveniente dal fenomeno di interferenza, utilizzando il dispositivo fornito e tenendo in
-il numero di configurazioni descritto in figura 3. 
- 
-Sviluppo delle misure: 
- 
-1) Armati il dispositivo sul tavolo di lavoro. 
- 
-Regola incorporata 
-Slide con doppi
-- Le scintille
-Interruttori 
-Piede mobile, regolabile 
-Controllo dell'intensità 
-Cavalieri
-Scratche predefinite per 
-posizionare la fonte di luce 
-Fonte di luce 
-Equipaggiamento armato 
 
+OAF 2017 - 13
+
+Nota: Nell'analisi svolta non è stato considerato il fenomeno della diffrazione, il quale fa sì che l'intensità delle regioni luminose non sia la stessa e che svaniscano man mano che aumenta l'ordine del massimo considerato.
+
+Proposta Sperimentale
+
+Elementi disponibili
+
+ Diapositive con doppie fenditure. Sono stati scritti la separazione tra le prime doppie fenditure 𝑑1 e la larghezza delle fenditure 𝑎1 e, inoltre, la separazione tra le seconde doppie fenditure 𝑑2 e la larghezza delle fenditure 𝑎2. Nella diapositiva
+INCOGNITA non sono riportati dati. 
  
-14 - OAF 2017 
-2) Misurare le distanze (Di) previste nell'apparecchio tra la diapositiva (doppio spaziolo) 
-e la fonte della luce. 
+ Dispositivo a pile, con tre sorgenti di luce (rossa, verde e blu) con sistema per controllare l'intensità della luce, accensione e spegnimento. Con righello incorporato.
+Note: la luce di colore verde NON sarà utilizzata in questa pratica; se hai problemi a riconoscere i colori: chiama il bidello.
+
+ Due ―cursori‖ da posizionare sul righello incorporato nella sorgente di luce.
+
+ Tavolo con piede e scanalature per posizionare il dispositivo di luce.
+
+ Portadiapositive adattato al Tavolo fornito.
+
+Nota: quando non stai effettuando misurazioni spegni la sorgente di luce (metti l'interruttore su "off").
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obiettivo sperimentale:
+Effettuare le misurazioni necessarie per determinare la lunghezza d'onda di una sorgente di luce a partire dal fenomeno di interferenza, utilizzando il dispositivo fornito e tenendo conto della configurazione descritta nella Figura 3.
+
+Svolgimento delle misurazioni:
+
+1) Monta il dispositivo sul tavolo di lavoro.
+
+Righello incorporato
+Diapositiva con doppie fenditure
+Interruttori
+Piede mobile, regolabile
+Controllo dell'intensità cursori
+Scanalature predeterminate per posizionare la sorgente di luce
+Sorgente di luce
+Apparecchiatura montata
+
+
+  14 - OAF 2017
+2) Misura le distanze (𝐷𝑖), previste nell'apparecchiatura, tra la diapositiva (doppia fenditura)
+e la sorgente di luce (una fenditura). 
  
-Accendi la luce RED e osserva il modello di interferenza prodotto dalla doppia spazia. 
-A causa del fenomeno di diffrazione, l'intensità delle strisce di luce diminuisce a partire dal
-Il valore di riferimento è il valore di riferimento di un valore di riferimento.
-Zero su mmax . 
- 
-Utilizzando il doppio slot 1 (d1 = 0,13 mm) e il doppio slot 2 (d2 = 0,065 mm) 
- 
-3) Identificare il valore massimo di m (mmax) e misurare la distanza tra le strisce 
-corrispondenti a −mmax e mmax (∆y max). 
- 
-4) Determina la distanza tra i massimi −m e m (∆ym= ym−y−m) e 
-meno per 3 valori di m (inclusi la distanza corrispondente a mmax) per 
-Ogni posizione diede la fonte di luce. 
- 
- 
-Presenta i risultati in una tabella (TABELLA 1) e somma il valore di x definito da: 
+Accendere la luce ROSSA e osservare il pattern di interferenza prodotto dalla doppia fenditura.
+A causa del fenomeno di diffrazione, l'intensità delle frange di luce decresce a partire dal massimo centrale (𝑚= 0) man mano che l'ordine (𝑚) cresce, raggiungendo un valore prossimo a zero in    𝑚max .
+
+Utilizzando la doppia fenditura 1 (𝑑1 = 0,13 mm) e la doppia fenditura 2 ( 𝑑2 = 0,065 mm)
+
+3) Identificare il valore di 𝑚  massimo (𝑚max ) e misurare la distanza tra le frange corrispondenti a −𝑚max  e 𝑚max  (∆𝑦 max ).
+
+4) Determinare la distanza che separa i massimi −𝑚 e 𝑚 ( ∆𝑦𝑚= 𝑦𝑚−𝑦−𝑚)  almeno per 3 valori di 𝑚 (inclusa la distanza corrispondente a 𝑚max ) per ciascuna delle posizioni 𝐷𝑖 della sorgente di luce.
+
+
+Presentare i risultati in una tabella (TABELLA 1) e aggiungere il valore di 𝑥 definito da:
 𝑥=  𝑚 𝐷𝑖
 𝑑𝑖
- 
-Modello di tabella suggerito. 
-𝑑𝑖 
-𝐷𝑖 
-𝑚 
-∆𝑦𝑚 
-𝑥 
- 
- 
- 
- 
- 
-Nota: confezionare la tabella con le righe che ritieni necessarie. Ricordate di consigliare.
-le circostanze di cui trattasi. 
- 
-5) Basandosi sui dati raccolti in TABELLA 1, confezionate un grafico 
-(Grafico 1) ∆ym in funzione di x. 
- 
-6) Aggiusta i punti di GRAFICO 1 con una retta e determina la pendenza di
-- La stessa. 
- 
-7) Dal valore della pendenza, determinare la corrispondente lunghezza d'onda λ 
-il colore ROSSO ( λR). 
- 
-Determina la separazione tra le slitte della scheda denominata INCÓNITA 
-(DIR) 
- 
- 
- 
-Prova teorica - Livello 2
 
+Modello di TABELLA suggerito.
+𝑑𝑖
+𝐷𝑖
+𝑚
+∆𝑦𝑚
+𝑥
+
+
+
+
+
+Nota: confezionare la TABELLA con le righe che si ritengono necessarie. Ricordarsi di indicare le incertezze corrispondenti.
+
+5) A partire dai dati raccolti nella TABELLA 1, confezionare un grafico (GRAFICO 1)  ∆𝑦𝑚 in funzione di 𝑥.
+
+6) Approssimare i punti del GRAFICO 1 mediante una retta e determinare il coefficiente angolare della stessa.
+
+7) A partire dal valore del coefficiente angolare, determinare la lunghezza d'onda 𝜆 corrispondente al colore ROSSO (  𝜆𝑅).
+
+Determinare la separazione tra le fenditure della diapositiva denominata INCOGNITA (𝑑𝐼𝑅)
+
+
+
+Prova Teorica - Livello 2
 
 <!--fig:start-->
 ![[cuadernillo_2017_p08_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Planetary Opposition**
 
-Problem three .
+Problem 3
 Planetary Opposition
- 
-On 21 August last, an astronomical phenomenon occurred which was reported in the
-Press such as the "Eclipse of the Century". Some newspapers even reported that the weight of 
-people on Earth would be affected. This news made us think, "What if?
-We're going to do an astronomy and gravitational interaction problem? 
- 
-In astronomy, it is called Opposition to the phenomenon in which two stars are
-They are located, relative to the Earth, at two diametrically opposite points in the sky. La 
-Figure 1 shows Mars as opposed to the Sun. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 1: Mars in opposition to the Sun 
- 
-P 
-SO
-L
-Earth .
-Mars .
 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-Throughout this problem, we'll use Kepler's laws and Kepler's law.
-Newton's gravitational interaction. Kepler's laws are 
- 
+Last August 21, an astronomical phenomenon occurred that was reported in the press as the "Eclipse of the Century." Some newspapers even reported that people's weight on Earth was going to be affected. This news made us think... what if we make a problem about Astronomy and gravitational interaction?
+
+In Astronomy, Opposition is the phenomenon in which two celestial bodies are, relative to Earth, at two diametrically opposite points in the sky. Figure 1 shows Mars in Opposition to the Sun.
+
+
+
+
+
+
+
+
+
+
+Figure 1: Mars in Opposition to the Sun
+
+P
+SUN
+Earth
+Mars
+
+
+OAF 2017 - 9
+Throughout this problem, we will use Kepler's laws and Newton's law of gravitational interaction. Kepler's Laws are
+
 First law
-All the planets move around the Sun describing elliptical orbits. 
-The Sun is at one of the focuses of the ellipse. 
- 
-Second law 
-The vector radius that connects a planet to the Sun crosses the same areas at the same time. 
- 
- 
-Third Law 
-It is true that for all planets, the ratio between the period of revolution to the
-square and the major semicircle of the ellipse to the cube remains constant. This is: 
- 
+All planets move around the Sun describing elliptical orbits.
+The Sun is located at one of the foci of the ellipse.
+
+Second law
+The radius vector joining a planet and the Sun sweeps out equal areas in equal times.
+
+
+Third Law
+It holds that for all planets, the ratio between the square of the period of revolution and the cube of the semi-major axis of the ellipse remains constant. That is:
+
 𝑇2
-𝑎3 = 𝐶 
+𝑎3 = 𝐶
+
+Where T is the orbital period (time it takes to make one revolution around the
+Sun), 𝑎 is the mean distance of the planet from the Sun, and 𝐶 is the constant of proportionality.
  
-Where T is the orbital period (the time it takes to go around the
-Sun), a is the mean distance of the planet from the Sun and C is the constant of 
-the Commission's proposal. 
- 
-Note: in our problem, we will consider that the orbits are circular and the focuses of 
-The ellipse coincides with the center of the circle. In addition to the orbits of the planets 
-The two are located on the same plane. 
- 
-Resolve the following points: 
- 
-(a) If the last time Mars was in opposition to the sun, it happened on May 22nd of
-2016, when will the next Opposition to the Sun occur? 
- 
-(b) What is the radius of orbit of the planet Mars? 
- 
-(c) What is the weight on the surface of Mars of an astronaut who weighs on Earth?
-700 N? 
-(does not take into account effects due to the rotation of the planets on their
-own axes). 
- 
-Suppose that, with Mars in opposition to the sun, the astronaut is at the point.
-P of Figure 1. 
- 
-(d) What is the change in weight you experience due to the maximum proximity?
-Earth's relationship to Mars? 
- 
-Data useful for the problem 
- 
-The mass of Mars: 6,39 × 1023 kg 
-Mars orbital period: 687 days 
-Earth's orbital period: 365 days 
-The mass of the Earth: 5,972 × 1024 kg 
-The mass of the Sun: 1,989 × 1030 kg 
-Radius of the Earth: 6371 km 
-Radio of Mars: 3390 km
-The speed of light: 300000 km s-1 
-Universal gravity constant: G = 6,674 x 10−11 
+Note: in our problem, we will consider that the orbits are circular and the foci of the ellipse coincide at the center of the circle. Furthermore, the orbits of the planets considered are located in the same plane.
+
+Solve the following points:
+
+a) If the last time Mars was in Opposition to the sun occurred on May 22,
+2016, when will the next Opposition to the sun occur?
+
+b) What is the radius of the orbit of the planet Mars?
+
+c) What is the weight on the surface of Mars of an astronaut who on Earth weighs
+700 N?
+(do not take into account effects due to the rotation of the planets on their own axes).
+
+Suppose that, with Mars in Opposition to the sun, the astronaut is at point
+P of Figure 1.
+
+d) What is the change that his weight experiences due to the maximum proximity of the Earth with respect to Mars?
+
+Useful data for the problem
+
+Mass of Mars: 6.39 × 1023 kg
+Orbital period of Mars: 687 days
+Orbital period of the Earth: 365 days
+Mass of the Earth: 5.972 × 1024 kg
+Mass of the Sun: 1.989 × 1030 kg
+Radius of the Earth: 6371 km
+Radius of Mars: 3390 km
+Speed of light: 300000 km s-1
+Universal constant of gravitation:      𝐺= 6.674 𝑥 10−11
 𝑁𝑚2
-𝑘𝑔2  
- 
+𝑘𝑔2
 
+
+
+  10 - OAF 2017
+Experimental Test - Level 1
+
+Double-Slit Interference
+
+General Objective
+Experimentally verify the wave nature of light by observing the interference pattern generated by a double slit.
  
-10 - OAF 2017 
-The following is the list of the types of tests:
- 
-Interference by a Double Rendija
- 
-General objective 
-Experimentally verify the wavy nature of light by observation 
-the interference pattern generated by a double slit. 
- 
-The first is the introduction.
-In 1801 Thomas Young conducted an experiment in optics, the result of which can only be
-The reason for this is that light behaves as a wave, as opposed to light.
-The traditional theory that light was made up of a fine stream of light.
-particles. 
-To perform the experiment, Young used a monochrome light source, that is, from 
-a single, determined color. The light from this source made her focus on a
-The non-transparent sheet that had a thin cleft, the only place he could pass through.
-The light. After passing through this crack, the light struck another opaque sheet.
-It had two thin, very close slits, as shown in Figure 1.
-1. Great was Young's surprise when he noticed that light captured on a
-screen, this is the light that "emitted" from the two slits, producing a pattern of stripes.
-bright and dark. 
+Introduction
+In 1801 Thomas Young performed an optics experiment, whose result can only be explained by considering that light behaves as a wave, as opposed to the traditional theory that held that light was made up of a stream of fine particles.
+To perform the experiment, Young used a source of monochromatic light, that is, of a single, specific color. He made the light coming from this source strike a non-transparent plate that had a thin slit, the only place through which the light could pass. After passing through this slit, the light struck another non-transparent plate that had two thin slits very close to each other, as shown in Figure
+1. Young was greatly surprised when he observed that the light captured on a screen, that is, the light that "emanated" from the two slits, produced a pattern of bright and dark fringes.
  
  
  
@@ -1449,88 +1340,28 @@ bright and dark.
  
  
  
-Interpretation of the text
-To interpret these results, Young had to assume a behavior.
-The light wavelength: 
- Light behaves like a wave, whose associated wavelength is 
-It's related to the color of the light we see. I mean, the red color has a 
-The wavelength is different from that of yellow or green. 
- Light emerges from the gaps as cylindrical waves, that is, it has fronts of 
-The following is the list of the types of electrical power generated by the electrical system: 
- The wavefronts that impact the sheet with the double-slit emerge with 
-The same phase, that is, the waves are consistent. 
- The phase differences between two waves are related to the difference between 
-the distances they've traveled. 
- The waves that "break" from each slit of the second sheet (double slit) 
-They travel different distances to reach the points on the screen, so 
-They come to each point with different phases. 
-Figure 1 
-Bright stripes .
-Dark stripes .
+Interpretation
+In order to interpret these results, Young had to assume a wave-like behavior of light:
+ Light behaves as a wave, whose associated wavelength is related to the color of the light that is observed. That is, red light has a different wavelength from that of yellow or green.
+ Light emerges from the slits as cylindrical waves, that is, it has cylindrical wavefronts (Figure 1).
+ The wavefronts that strike the plate with the double slit emerge with the same phase, that is: the waves are coherent.
+ The phase differences between two waves is related to the difference between the distances they have traveled.
+ The waves that "start" from each slit of the second plate (double slit)
+travel different distances until they reach the points on the screen, so they arrive at each point with different phases.
+Figure 1
+Bright fringes
+Dark fringes
 Screen
-Laminate with a .
-The gap
-Laminate with two .
-- I 'm not .
+Plate with one slit
+Plate with two slits
 Light source
 
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
- When superimposed, i.e. when waves with different phases add up, a 
-interference pattern (bright and dark band pattern). 
- 
-Analysis of the data
-Figure 2 shows the geometric arrangement of the experiment and
-The difference Δ between the distances travelled by the wavefronts to reach a 
-point of a very distant screen. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The condition of very distant is necessary to treat the rays reaching the screen.
-Like almost parallel beams and make mathematical calculations easier. So, you can consider 
-that the difference in "pathway" Δ between the rays emerging from a crack and 
-Those that emerge from the other slit are:
-Δ = dsin θ 
-Where d is the distance between the gaps and θ is the angle that it positions 
-the point considered on the screen. 
-To avoid having to put a remote screen, a thin lens is usually used, using a thin lens.
-which is where the parallel rays converge at the focus of the same, where 
-Figure 2 
-Δ 
-d 
- 
-Enlarged area 
-Almost parallel beams
-Δ 
- 
-d 
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-the screen is located. Or do this experiment using our eye, system -- the cornea --
-"crystalline" as a lens and our retina as a screen. If we put the double slit too much 
-close to our eye, we can outline the situation as shown in Figure 
-3. 
- 
+OAF 2017 - 11
+ When they superimpose, that is: when waves with different phases are added, an interference pattern is produced (a pattern of bright and dark fringes).
+
+Analysis
+Figure 2 schematically shows the geometric arrangement of the experiment and the difference  𝛥 between the distances traveled by the wavefronts until reaching a point on a very distant screen.
  
  
  
@@ -1543,178 +1374,171 @@ close to our eye, we can outline the situation as shown in Figure
  
  
  
-As shown in Figure 3, you will see the rays reaching our retina, such as
-The resulting light is a bright band located on the same plane as the
-the source of light. For example, they will appear to be "coming" from the point P located at a distance and
-The light source is located on the horizontal axis and on the plane where the light source is located and with a 
-slope θ. 
-If the angle θ is small (less than 15o) it is 
-may consider: 
-Ddtgθ d and
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The condition of being very far away is necessary to treat the rays that reach the screen as nearly parallel rays and to facilitate the mathematical calculations. Thus, one can consider that the difference in "path traveled" 𝛥 between the rays that emerge from one slit and those that emerge from the other slit is:
+𝛥= 𝑑sin θ
+Where  𝑑  is the separation distance between the slits and  θ is the angle that positions the point considered on the screen.
+In order not to have to place a distant screen, a "thin" lens is usually used, by means of which the parallel rays are made to converge at its focus, where
+Figure 2
+Δ d
+
+Enlarged zone
+"Almost" parallel rays
+Δ
+
+d
+
+
+  12 - OAF 2017 the screen is located. Or to perform this experiment using our eye, the "cornea-lens" system, as a lens and our retina as a screen. If we place the double slit very close to our eye, we can schematize the situation as shown in Figure
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+As indicated in figure 3, the rays that reach our retina will be perceived as coming from bright fringes located in the same plane where the light source is found. For example, they will appear to "come" from point P' located at a distance y from the horizontal axis and on the plane where the light source is located and with an inclination θ.
+If the angle  θ  is small (less than 15º) one can consider:
+𝛥≅𝑑𝑡𝑔θ ≅𝑑 𝑦
 𝐷 
  
-In this case, considering the difference of 
-The path ― traversed ― by the rays originating in 
-Each slit and considering θ small, the 
-The position of the bright regions (maximum of 
-interference) shall be given by: 
+In this case, considering the path difference —path— traveled by the rays originating from each slit and considering small θ, the position of the bright regions (interference maxima) will be given by:
 𝑦𝑚= 𝑚 𝜆 𝐷
-𝑑 
-where λ is the wavelength of the light that 
-It's on the double-slit and m is the number of 
-order of maximum consideration. This is: m=0 
-(central and matching the light source), 
-m= ±1 (first lines: to the right and to 
-The value of the input data shall be the value of the input data.
-The Commission has already taken a number of measures to ensure that the Community's financial resources are not used to finance the implementation of the programme. 
- 
- 
-Pattern of stripes 
-displayed 
- 
- 
- 
- 
-Figure 3 
-θ 
-𝐷 
-𝑦 
-Retina 
-Cornea- crystalline
-P’ 
-Light source
-Pattern of stripes displayed 
-Eye .
+𝑑 where 𝜆 is the wavelength of the light incident on the double slit and 𝑚 is the order number of the maximum considered. That is: 𝑚= 0 (central and coincident with the light source),
+𝑚= ±1 (first fringes: to the right and to the left of the central one), 𝑚= ±2 (second fringes) and so on.
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
- 
-Note: The analysis did not consider the diffraction phenomenon, which 
-The intensity of the bright regions is not the same and it is 
-The number of the maximum considered shall be increased. 
- 
-Experimental proposal 
- 
-Available items 
- 
- Slides with double slits. The separation between the former has been written.
-double cleavage d1 and the width of the cleavages a1 and, also the separation between the 
-second double slits d2 and the width of the slits a2. On the slide.
-NO data is recorded. 
- 
- Battery device with three light sources (red, green and blue) with system for 
-control the intensity of the light, on and off. With a built-in rule. 
-Notes: the green light will NOT be used in this practice; if you have problems 
-To recognize colors: call the bedel. 
- 
- Two "knuckles" to be placed over the rule incorporated into the light source. 
- 
- Table with foot and slots to locate the lighting device. 
- 
- Slide port adapted to the provided table. 
- 
-Note: when not measuring, turn off the light source (set the 
-switch in off). 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The experimental objective: 
-Perform the measurements necessary to determine the wavelength of a source of 
-light from the interference phenomenon, using the provided device and having in 
-The configuration described in Figure 3 is calculated. 
- 
-Development of measurements: 
- 
-1) Arming the device on the work table. 
- 
-Embedded rule 
-Slide with doubles 
-- I 'm not .
-The switches 
-Moveable foot, adjustable
-Control of intensity 
-Horsemen 
-Defaulted slots for 
-Position the light source 
-Light source
-Armed team .
 
+Fringe pattern visualized
+
+
+
+
+Figure 3
+θ
+𝐷
+𝑦
+Retina
+Cornea- Lens
+P’
+Light source
+Fringe pattern visualized
+Eye
+
+
+OAF 2017 - 13
+
+Note: In the analysis carried out, the diffraction phenomenon has not been considered, which causes the intensity of the bright regions not to be the same and to fade as the order of the maximum considered increases.
+
+Experimental Proposal
+
+Available elements
+
+✓ Slides with double slits. The separation between the first double slits 𝑑1 and the width of the slits 𝑎1 has been written, and also the separation between the second double slits 𝑑2 and the width of the slits 𝑎2. On the slide
+UNKNOWN no data is recorded. 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-2) Measure the distance (Di) planned on the equipment between the slide (double slit) 
-and the source of light. 
+Battery-operated device, with three light sources (red, green and blue) with a system to control light intensity, on and off. With built-in ruler.
+Notes: the green light will NOT be used in this practice; if you have trouble recognizing colors: call the janitor.
+
+Two "sliders" to be placed on the ruler built into the light source.
+
+Table with base and slots to place the light device.
+
+Slide holder adapted to the provided Table.
+
+Note: when you are not taking measurements, turn off the light source (set the switch to "off").
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experimental objective:
+Carry out the necessary measurements to determine the wavelength of a light source from the interference phenomenon, using the provided device and taking into account the configuration described in Figure 3.
+
+Development of the measurements:
+
+1) Set up the device on the work table.
+
+Built-in ruler
+Slide with double slits
+Switches
+Movable, adjustable base
+Intensity control sliders
+Predetermined slots to position the light source
+Light source
+Assembled equipment
+
+
+  14 - OAF 2017
+2) Measure the distances (𝐷𝑖), provided for in the equipment, between the slide (double slit)
+and the light source (one slit). 
  
-Turn on the RED light and observe the interference pattern produced by the double-slit. 
-Due to the diffraction phenomenon, the intensity of the light bands decreases from the
-The average value of the value of the product is the value of the product.
-Zero on mmax . 
- 
-Using the double slot 1 (d1 = 0,13 mm) and the double slot 2 (d2 = 0,065 mm) 
- 
-3) Identify the maximum m value (mmax) and measure the distance between the bands 
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first of the first of the first of the first of the first of the first of the first of the first of those values of the first of the first of those values of the first of those values of the first of those values of those values of the first of those values of the first of those values of the first of the first of those values of the first of the first of the first of those values of those values of those values of the first of those values: 
- 
-4) Determine the distance between the maximum −m and m (∆ym= ym−y−m) to 
-minus 3 values of m (including the distance to mmax) for 
-Each of the positions is given the light source. 
- 
- 
-Present the results in a table (TABLE 1) and add the value of x defined by: 
+Turn on the RED light and observe the interference pattern produced by the double slit.
+Due to the phenomenon of diffraction, the intensity of the light fringes decreases from the central maximum (𝑚= 0) as the order (𝑚) increases, reaching a value close to zero at    𝑚max .
+
+Using double slit 1 (𝑑1 = 0.13 mm) and double slit 2 ( 𝑑2 = 0.065 mm)
+
+3) Identify the value of maximum 𝑚 (𝑚max ) and measure the distance between the fringes corresponding to −𝑚max  and 𝑚max  (∆𝑦 max ).
+
+4) Determine the distance separating the maxima −𝑚 and 𝑚 ( ∆𝑦𝑚= 𝑦𝑚−𝑦−𝑚)  for at least 3 values of 𝑚 (including the distance corresponding to 𝑚max ) for each of the positions 𝐷𝑖 of the light source.
+
+
+Present the results in a table (TABLE 1) and add the value of 𝑥 defined by:
 𝑥=  𝑚 𝐷𝑖
 𝑑𝑖
- 
-Suggested table model. 
-𝑑𝑖 
-𝐷𝑖 
-𝑚 
-∆𝑦𝑚 
-𝑥 
- 
- 
- 
- 
- 
-Note: Make the TABLE with the rows you deem necessary. Remember to record .
-the relevant uncertainties. 
- 
-5) Draw up a graph from the data collected in TABLE 1.
-(Graph 1) ∆ym as a function of x. 
- 
-6) Adjust the points of GRAFICO 1 by a straight line and determine the slope of the
-The same. 
- 
-7) From the slope value, determine the corresponding wavelength λ 
-the colour RED ( λR). 
- 
-Determine the separation between the slits of the slide called INCÓNITA 
-(dIR) 
- 
- 
- 
-Theoretical proof - Level 2
 
+Suggested TABLE model.
+𝑑𝑖
+𝐷𝑖
+𝑚
+∆𝑦𝑚
+𝑥
+
+
+
+
+
+Note: prepare the TABLE with as many rows as you consider necessary. Remember to record the corresponding uncertainties.
+
+5) From the data collected in TABLE 1, prepare a graph (GRAPH 1) of ∆𝑦𝑚 as a function of 𝑥.
+
+6) Fit the points of GRAPH 1 with a straight line and determine its slope.
+
+7) From the value of the slope, determine the wavelength 𝜆 corresponding to the RED color (  𝜆𝑅).
+
+Determine the separation between the slits of the slide called UNKNOWN (𝑑𝐼𝑅)
+
+
+
+Theoretical Test - Level 2
 
 <!--fig:start-->
 ![[cuadernillo_2017_p08_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Argent 2017 Locale — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/multi,object/gas,object/pipe-tube"></span>
@@ -4121,625 +3945,485 @@ Problemi teorici
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Planetary Opposition**
 
-Problem three .
+Problem 3
 Planetary Opposition
- 
-On 21 August last, an astronomical phenomenon occurred which was reported in the
-Press such as the "Eclipse of the Century". Some newspapers even reported that the weight of 
-people on Earth would be affected. This news made us think, "What if?
-We're going to do an astronomy and gravitational interaction problem? 
- 
-In astronomy, it is called Opposition to the phenomenon in which two stars are
-They are located, relative to the Earth, at two diametrically opposite points in the sky. La 
-Figure 1 shows Mars as opposed to the Sun. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 1: Mars in opposition to the Sun 
- 
-Throughout this problem, we'll use Kepler's laws and Kepler's law.
-Newton's gravitational interaction. Kepler's laws are 
- 
+
+Last August 21 an astronomical phenomenon occurred that was reported in the press as the ―Eclipse of the Century‖. Some newspapers even reported that people's weight on Earth was going to be affected. This news made us think… what if we make a problem about Astronomy and gravitational interaction?
+
+In Astronomy, Opposition is the phenomenon in which two celestial bodies are, relative to the Earth, at two diametrically opposite points in the sky. Figure 1 shows Mars in Opposition to the Sun.
+
+
+
+
+
+
+
+
+
+Figure 1: Mars in Opposition to the Sun
+
+Throughout this problem, we will use Kepler's laws and Newton's law of gravitational interaction. Kepler's Laws are
+
 First law
-All the planets move around the Sun describing elliptical orbits. 
-The Sun is at one of the focuses of the ellipse. 
- 
-Second law 
-The vector radius that connects a planet to the Sun crosses the same areas at the same time. 
- 
- 
-Third Law 
-It is true that for all planets, the ratio between the period of revolution to the
-square and the major semicircle of the ellipse to the cube remains constant. This is: 
- 
+All planets move around the Sun describing elliptical orbits.
+The Sun is located at one of the foci of the ellipse.
+
+Second law
+The radius vector joining a planet and the Sun sweeps out equal areas in equal times.
+
+
+Third Law
+It holds that for all planets, the ratio between the square of the period of revolution and the cube of the semi-major axis of the ellipse remains constant. That is:
+
 𝑇2
-𝑎3 = 𝐶 
- 
-P 
+𝑎3 = 𝐶
+
+P
 SO
 L
-Earth .
-Mars .
+Earth
+Mars
 
+
+  20 - OAF 2017
+Where T is the orbital period (time it takes to make one revolution around the
+Sun), 𝑎 is the mean distance of the planet from the Sun and 𝐶 the constant of proportionality.
  
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1095/2017.
-Where T is the orbital period (the time it takes to go around the
-Sun), a is the mean distance of the planet from the Sun and C is the constant of 
-the Commission's proposal. 
+Note: in our problem, we will consider that the orbits are circular and the foci of the ellipse coincide at the center of the circle. Furthermore, the orbits of the planets considered are located in the same plane.
+
+Solve the following points:
+
+a) If the last time Mars was in Opposition to the sun occurred on May 22,
+2016, when will the next Opposition to the sun occur?
+b) What is the radius of the orbit of the planet Mars?
+c) What is the weight on the surface of Mars of an astronaut who on Earth weighs
+700 N?
+(do not take into account effects due to the rotation of the planets on their own axes).
+
+Suppose that, with Mars in Opposition to the sun, the astronaut is at point
+P of Figure 1.
+d) What is the change that his weight experiences due to the maximum proximity of the Earth with respect to Mars?
+
+Jupiter, the largest planet in our solar system, is a gaseous planet. Its rotation period, around its axis, is the shortest among all those corresponding to the planets of the solar system (it is less than 10 h). It should be clarified that, because it is gaseous, it has different speeds at different latitudes.
  
-Note: in our problem, we will consider that the orbits are circular and the focuses of 
-The ellipse coincides with the center of the circle. In addition to the orbits of the planets 
-The two are located on the same plane. 
- 
-Resolve the following points: 
- 
-(a) If the last time Mars was in opposition to the sun, it happened on May 22nd of
-2016, when will the next Opposition to the Sun occur? 
-(b) What is the radius of orbit of the planet Mars? 
-(c) What is the weight on the surface of Mars of an astronaut who weighs on Earth?
-700 N? 
-(does not take into account effects due to the rotation of the planets on their
-own axes). 
- 
-Suppose that, with Mars in opposition to the sun, the astronaut is at the point.
-P of Figure 1. 
-(d) What is the change in weight you experience due to the maximum proximity?
-Earth's relationship to Mars? 
- 
-Jupiter, the largest planet in our solar system, is a gas planet. Its period of 
-rotation, around its axis, is the smallest of all the corresponding planets.
-the solar system (less than 10 hs). It should be clarified that, being gaseous, it has different
-speeds at different latitudes. 
- 
-On the other hand, the spectrum of radiation coming from Jupiter, reaching Earth, is 
-It's almost identical to the sun; that is, it works like a "rotating mirror" for light.
-The sun. Every thirteen months Jupiter is in opposition to the Sun, which is a good thing.
-The first is the use of the electrical system to measure the speed of the electrical system.
-rotation. 
- 
-To measure the rotational speed of Jupiter, the effect 
-Doppler; that is, the variation in wavelength due to the motion of the source. 
- 
-If a source emitting at a wavelength λ moves at a speed v the
-The wavelength perceived by a resting observer shall meet 
+On the other hand, the radiation spectrum coming from Jupiter, which reaches the Earth, is practically identical to that of the Sun; that is, it works as a "rotating mirror" for sunlight. Every thirteen months Jupiter is in Opposition to the Sun, which is a good occasion to carry out measurements on it; in particular, to measure its rotation speed.
+
+To carry out the measurements of Jupiter's rotation speed, the Doppler effect is used; that is, the variation of the wavelength due to the motion of the source.
+
+If a source that emits at a wavelength 𝜆 moves at a speed 𝑣, the wavelength perceived by an observer at rest 𝜆´ will satisfy
 Δ𝜆
-𝜆= ± 𝑣  
-𝑐       (1) 
-where Δλ= λ ́ − λ is the wavelength velocity, c is the speed of light and 
-λ is the radiation wavelength measured in a resting laboratory. The sign (+) 
-corresponds to the situation in which the source moves away from the observer and the sign (−) 
-The source is the observer's approach. 
- 
-Suppose from a source F, wavelength light is emitted which incides and is
-reflects on a perfect mirror that moves at v speed (Figure 2). 
- 
- 
- 
- 
- 
- 
- 
-Figure 2: Radiation on a moving mirror moving away from the source. 
-v 
-Mirror .
-Make the light incidental .
-Make it a reflected light .
+𝜆= ± 𝑣
+𝑐       (1)
+where  Δ𝜆=  𝜆´ − 𝜆  is the shift of the wavelength, c is the speed of light and
+𝜆 is the wavelength of the radiation measured in a laboratory at rest. The sign  (+)
+corresponds to the situation in which the source moves away from the observer and the sign (−)
+corresponds to the situation in which the source approaches the observer.
+
+Suppose that from a source F light of wavelength  is emitted, which strikes and is reflected on a perfect mirror that moves with speed v (Figure 2).
+
+
+
+
+
+
+
+Figure 2:  Radiation on a mirror moving away from the source.
+v
+Mirror
+Incident light beam
+Reflected light beam
 F 
 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-Considering that the motion of the mirror is along the x-direction and the incidence
-The lightning is normal to the same: 
- 
-(e) calculate the variation in the wavelength (Δλ) of the radiation, reflected in the 
-moving mirror. 
- 
-Remember, according to the relativity postulate, the speed of light is 
-It's the same for every observer. We'll also assume that the speed of the mirror is
-It's very low compared to the speed of light. 
- 
-Figure 3 shows the spectrum of radiation from Jupiter taken from the
-Height of its equator. Two slightly inclined and well-defined spectral lines are observed.
-marked, which correspond to a double of sodium (Na1 and Na2). Also, they're observed.
-two perfectly vertical lines of terrestrial origin corresponding to the steam of 
-water from our atmosphere (T1 and T2). 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 3: Spectrum of the planet Jupiter taken at the height of its equator 
- 
-The slight tilt on the Na1 and Na2 lines is due to Jupiter's rotation. Length 
-radiation wave from the A-border, which is "away" from an observer
-Earth, it's increasing. On the other hand, radiation from the B edge, which is "close" to the
-A ground observer, it decreases. See figure 4. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 4: Schematic representation of the spectrometer slit pointing to 
-Jupiter's equator. 
- 
-The edge of the A
-S 
-N 
-B-side
- 
-The edge of the A
-Ecuador 
-B-side
-Double the 
+OAF 2017 - 21
+Considering that the movement of the mirror is along the x direction and the incidence of the ray is normal to it:
+
+e) calculate the variation in the wavelength (Δ𝜆) of the radiation, upon reflecting on the moving mirror.
+
+Remember that, according to the postulate of relativity, the speed of light is the same for every observer. We will also assume that the speed of the mirror is very low compared to the speed of light.
+
+Figure 3 shows the radiation spectrum coming from Jupiter, taken at the height of its equator. Two spectral lines slightly inclined and well marked are observed, which correspond to a Sodium doublet (Na1 and Na2). Also, two perfectly vertical lines are observed, of terrestrial origin, corresponding to the water vapor of our atmosphere (T1 and T2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3: Spectrum of the planet Jupiter taken at the height of its equator
+
+The slight inclination in the Na1 and Na2 lines is due to the rotation of Jupiter. The wavelength of the radiation coming from edge A, which "moves away" from a terrestrial observer, increases. On the other hand, the radiation coming from edge B, which "approaches" a terrestrial observer, decreases. See figure 4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4: Schematic representation of the spectrometer slit pointing at the equator of Jupiter.
+
+Edge A
+S
+N
+Edge B
+
+Edge A
+Equator
+Edge B
+Doublet of 
 
  
-The Commission shall adopt delegated acts in accordance with Article 22 of the Financial Regulation.
-Having regard to the calculation in point (e) above and having regard to the determination that 
-The lines of the sodium double have a wavelength λNa1 = 588.995 nm and λNa2 = 
-The difference in wavelength between the radiation coming from the
-edge A and the one from edge B, for both lines, is 8,96  10-2 nm: 
- 
-(f) determine the rotational speed of Jupiter. 
- 
-The following expression may also be useful in solving this point: 
- 
-Data useful for the problem 
- 
-The mass of Mars: 6,39 × 1023 kg 
-Mars orbital period: 687 days 
-Earth's orbital period: 365 days 
-The mass of the Earth: 5,972 × 1024 kg 
-The mass of the Sun: 1,989 × 1030 kg 
-Radius of the Earth: 6371 km 
-Radio of Mars: 3390 km
-The speed of light: 300000 km s-1 
-Universal gravity constant: G = 6,674 x 10−11 
+  22 - OAF 2017
+Bearing in mind what was calculated in the previous point (e) and that it has been determined that the lines of the sodium doublet have wavelengths λNa1 = 588.995 nm and λNa2 =
+589.592 nm and that the wavelength difference between the radiation coming from edge A and that coming from edge B, for both lines, is 8.96 × 10-2 nm:
+
+f) determine the rotation speed of Jupiter.
+
+To solve this point, expression (1) may also be useful to you.
+
+Useful data for the problem
+
+Mass of Mars: 6.39 × 1023 kg
+Orbital period of Mars: 687 days
+Orbital period of Earth: 365 days
+Mass of Earth: 5.972 × 1024 kg
+Mass of the Sun: 1.989 × 1030 kg
+Radius of Earth: 6371 km
+Radius of Mars: 3390 km
+Speed of light: 300000 km s-1
+Universal gravitational constant:      𝐺= 6.674 𝑥 10−11
 𝑁𝑚2
 𝑘𝑔2
+
+
+Experimental Test - Level 2
+
+Double-Slit Interference
+General Objective
+Experimentally verify the wave nature of light by observing the interference pattern generated by a double slit.
  
- 
-The following is the list of the types of tests:
- 
-Interference by a Double Rendija
-General objective 
-Experimentally verify the wavy nature of light by observation 
-the interference pattern generated by a double slit. 
- 
-The first is the introduction.
-In 1801 Thomas Young conducted an experiment in optics, the result of which can only be
-The reason for this is that light behaves as a wave, as opposed to light.
-The traditional theory that light was made up of a fine stream of light.
-particles. 
-To perform the experiment, Young used a monochrome light source, that is, from 
-a single, determined color. The light from this source made her focus on a
-The non-transparent sheet that had a thin cleft, the only place he could pass through.
-The light. After passing through this crack, the light struck another opaque sheet.
-It had two thin, very close slits, as shown in Figure 1.
-1. Great was Young's surprise when he noticed that light captured on a
-screen, this is the light that "emitted" from the two slits, producing a pattern of stripes.
-bright and dark. 
- 
- 
- 
- 
- 
- 
- 
-Figure 1 
-Bright stripes .
-Dark stripes .
+Introduction
+In 1801 Thomas Young carried out an optics experiment, whose result can only be explained by considering that light behaves as a wave, as opposed to the traditional theory that held that light was made up of a stream of fine particles.
+To carry out the experiment, Young used a source of monochromatic light, that is, of a single and specific color. He made the light coming from this source strike a non-transparent plate that had a thin slit, the only place through which the light could pass. After passing through this slit, the light struck another non-transparent plate that had two thin slits very close to each other, as shown in Figure
+1. Young was greatly surprised when he observed that the light captured on a screen, that is, the light that "emanated" from the two slits, produced a pattern of bright and dark fringes.
+
+
+
+
+
+
+
+Figure 1
+Bright fringes
+Dark fringes
 Screen
-Laminate with a .
-The gap
-Laminate with two .
-- I 'm not .
-Light source
+Plate with one slit
+Plate with two slits
+Light source  
 
  
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-Interpretation of the text
-To interpret these results, Young had to assume a behavior.
-The light wavelength: 
- Light behaves like a wave, whose associated wavelength is 
-It's related to the color of the light we see. I mean, the red color has a 
-The wavelength is different from that of yellow or green. 
- Light emerges from the gaps as cylindrical waves, that is, it has fronts of 
-The following is the list of the types of electrical power generated by the electrical system: 
- The wavefronts that impact the sheet with the double-slit emerge with 
-The same phase, that is, the waves are consistent. 
- The phase differences between two waves are related to the difference between 
-the distances they've traveled. 
- The waves that "break" from each slit of the second sheet (double slit) 
-They travel different distances to reach the points on the screen, so 
-They come to each point with different phases. 
- When superimposed, i.e. when waves with different phases add up, a 
-interference pattern (bright and dark band pattern). 
- 
-Analysis of the data
-Figure 2 shows the geometric arrangement of the experiment and
-The difference Δ between the distances travelled by the wavefronts to reach a 
-point of a very distant screen. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 2 
-Δ 
-d 
- 
-Enlarged area 
-Almost parallel beams
-Δ 
- 
+OAF 2017 - 23
+Interpretation
+In order to interpret these results, Young had to assume a wave-like behavior of light:
+ Light behaves as a wave, whose associated wavelength is related to the color of the light that is observed. That is, red light has a different wavelength from that of yellow or green.
+ Light emerges from the slits as cylindrical waves, that is, it has cylindrical wavefronts (Figure 1).
+ The wavefronts that strike the plate with the double slit emerge with the same phase, that is: the waves are coherent.
+ The phase differences between two waves are related to the difference between the distances they have traveled.
+ The waves that "start" from each slit of the second plate (double slit)
+travel different distances until they reach the points on the screen, so they arrive at each point with different phases.
+ When they superimpose, that is: when waves with different phases are added, an interference pattern is produced (a pattern of bright and dark fringes).
+
+Analysis
+Figure 2 schematically shows the geometric arrangement of the experiment and the difference 𝛥 between the distances traveled by the wavefronts until reaching a point on a very distant screen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2
+Δ d
+
+Enlarged area
+"Almost" parallel rays
+Δ
+
 d 
 
  
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-The condition of very distant is necessary to treat the rays reaching the screen.
-Like almost parallel beams and make mathematical calculations easier. So, you can consider 
-that the difference in "pathway" Δ between the rays emerging from a crack and 
-Those that emerge from the other slit are:
-Δ = dsin θ 
-Where d is the distance between the gaps and θ is the angle that it positions 
-the point considered on the screen. 
-To avoid having to put a remote screen, a thin lens is usually used, using a thin lens.
-which is where the parallel rays converge at the focus of the same, where 
-the screen is located. Or do this experiment using our eye, system -- the cornea --
-"crystalline" as a lens and our retina as a screen. If we put the double-slit
-Very close to our eye, we can sketch the situation as shown in the
-Figure 3 is shown. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-As shown in Figure 3 the
-- What ?
-That 
-They reach 
-Our .
-retina, 
-How 
-from bright bands located in the
-the same plane where the source of 
-Light. For example, they will appear to be "coming" from the point
-P located at a distance and on the horizontal axis and
-above the plane where the light source is located 
-and with a slope θ. 
-If the angle θ is small (less than 15o) it is 
-may consider: 
-Ddtgθ d and
-𝐷 
- 
-In this case, considering the difference of 
-The path ― traversed ― by the rays originating in 
- 
- 
-Pattern of stripes 
-displayed 
- 
- 
- 
- 
-Figure 3 
-θ 
-𝐷 
-𝑦 
-Retina 
-Cornea- crystalline
-P’ 
-Light source
-Pattern of stripes displayed 
-Eye .
+  24 - OAF 2017
+The very distant condition is necessary to treat the rays that reach the screen as nearly parallel rays and to facilitate the mathematical calculations. Thus, it can be considered that the difference in "path traveled" 𝛥 between the rays that emerge from one slit and those that emerge from the other slit is:
+𝛥= 𝑑sin θ
+Where  𝑑  is the separation distance between the slits and  θ is the angle that positions the considered point on the screen.
+To avoid having to place a distant screen, a "thin" lens is usually used, by means of which the parallel rays are made to converge at its focus, where the screen is located. Or to perform this experiment using our eye, the "cornea-lens" system, as a lens and our retina as a screen. If we place the double slit very close to our eye, we can schematize the situation as shown in
+Figure 3.
 
+
+
+
+
+
+
+
+
+
+
+
+
+As indicated in figure 3, the rays that reach our retina will be perceived as coming from bright fringes located in the same plane where the light source is found. For example, they will appear to "come" from point
+P’ located at a distance y from the horizontal axis and on the plane where the light source is located and with an inclination θ.
+If the angle  θ  is small (less than 15º) it can be considered:
+𝛥≅𝑑𝑡𝑔θ ≅𝑑 𝑦
+𝐷
+
+In this case, considering the difference in path "traveled" by the rays originating at
+
+
+Fringe pattern visualized
  
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-The position of the bright regions (maximum 
-(i) the amount of the aid shall be calculated as follows:
+ 
+ 
+ 
+Figure 3
+θ
+𝐷
+𝑦
+Retina
+Cornea- Lens
+P’
+Light source
+Observed fringe pattern
+Eye
+
+
+OAF 2017 - 25 each slit and considering small θ, the position of the bright regions (interference maxima) will be given by:
 𝑦𝑚= 𝑚 𝜆 𝐷
-𝑑 
-where λ is the wavelength of light that hits the double-slit and m is the 
-the maximum order number considered. This is: m=0 (central and corresponding to the 
-light source), m= ±1 (first stripes: to the right and left of the centre), 
-m= ±2 (seconds) and so on. 
- 
-Note: The analysis did not consider the diffraction phenomenon, which 
-The intensity of the bright regions is not the same and it is 
-The number of the maximum considered shall be increased. 
- 
-Experimental proposal 
- 
-Available items 
- 
- Slides with double slits. The separation between the former has been written.
-double cleavage d1 and the width of the cleavages a1 and, also the separation between the 
-second double slits d2 and the width of the slits a2. On the slide.
-NO data is recorded. 
- 
- Battery device with three light sources (red, green and blue) with system for 
-control the intensity of the light, on and off. With a built-in rule. 
-Notes: the green light will NOT be used in this practice; if you have problems 
-To recognize colors: call the bedel. 
- 
- Two "knuckles" to be placed over the rule incorporated into the light source. 
- 
- Table with foot and slots to locate the lighting device. 
- 
- Slide port adapted to the provided table. 
- 
-Note: when not measuring, turn off the light source (set the 
-switch in off). 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Embedded rule 
-Slide with doubles 
-- I 'm not .
-The switches 
-Moveable foot, adjustable
-Control of intensity 
-Horsemen 
-Defaulted slots for 
-Position the light source 
-Light source
-Armed team .
+𝑑 where 𝜆 is the wavelength of the light incident on the double slit and 𝑚 is the order number of the maximum considered. That is: 𝑚= 0 (central and coincident with the light source), 𝑚= ±1 (first fringes: to the right and to the left of the central one),
+𝑚= ±2 (second fringes) and so on.
 
+Note: In the analysis carried out, the diffraction phenomenon has not been considered, which causes the intensity of the bright regions not to be the same and to fade as the order of the maximum considered increases.
+
+Experimental Proposal
+
+Available elements
+
+ Slides with double slits. The separation between the first double slits 𝑑1 and the width of the slits 𝑎1 have been written, and also the separation between the second double slits 𝑑2 and the width of the slits 𝑎2. On the slide
+UNKNOWN no data are recorded.
+
+ Battery-operated device, with three light sources (red, green and blue) with a system to control the light intensity, on and off. With built-in ruler.
+Notes: the green light will NOT be used in this practice; if you have trouble recognizing colors: call the janitor.
  
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The experimental objective: 
-Perform the measurements necessary to determine the wavelength of a source of 
-light from the interference phenomenon, using the provided device and having in 
-The configuration described in Figure 3 is calculated. 
+✓ Two "sliders" to be placed on the ruler built into the light source.
+
+✓ Table with base and slots to position the light device.
+
+✓ Slide holder adapted to the provided Table.
+
+Note: when not taking measurements, turn off the light source (set the switch to "off").
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Built-in ruler
+Slide with double slits
+Switches
+Adjustable mobile base
+Slider intensity control
+Predetermined slots to position the light source
+Light source
+Assembled equipment
+
+
+  26 - OAF 2017
+Experimental objective:
+Carry out the necessary measurements to determine the wavelength of a light source from the interference phenomenon, using the provided device and taking into account the configuration described in Figure 3.
+
+Development of the measurements:
+
+8) Assemble the device on the work table.
+
+9) Measure the distances (𝐷𝑖), provided for in the equipment, between the slide (double slit)
+and the light source (single slit).
+
+Turn on the RED light and observe the interference pattern produced by the double slit.
+Due to the diffraction phenomenon, the intensity of the light fringes decreases from the central maximum (𝑚= 0) as the order (𝑚) increases, reaching a value close to zero at    𝑚max .
+
+Using double slit 1 (𝑑1 = 0.13 mm) and double slit 2 ( 𝑑2 = 0.065 mm) 
  
-Development of measurements: 
- 
-8) Arming the device on the work table. 
- 
-9) Measure the distance (Di) between the slide (double slit)
-and the source of light. 
- 
-Turn on the RED light and observe the interference pattern produced by the double-slit. 
-Due to the diffraction phenomenon, the intensity of the light bands decreases from the
-The average value of the value of the product is the value of the product.
-Zero on mmax . 
- 
-Using the double slot 1 (d1 = 0,13 mm) and the double slot 2 (d2 = 0,065 mm) 
- 
-10) Identify the maximum m value (mmax) and measure the distance between the bands 
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first of the respective values of the first of the values of the first of the first of the first of the first of those values of the first of those values of the first of the first of those values of the first of those values of the first of those values of the first of the first of those values of the first of those values of the first of those values of those values of those values of the first of those values of the first - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 
-11) Determine the distance between the maximum −m and m (∆ym= ym−y−m) to 
-minus 3 values of m (including the distance to mmax) for 
-Each of the positions is given the light source. 
- 
- 
-Present the results in a table (TABLE 1) and add the value of x defined by: 
+10) Identify the maximum value of 𝑚 (𝑚max ) and measure the distance between the fringes corresponding to −𝑚max  and 𝑚max  (∆𝑦 max ).
+
+11) Determine the distance separating the maxima −𝑚 and 𝑚 ( ∆𝑦𝑚= 𝑦𝑚−𝑦−𝑚)  for at least 3 values of 𝑚 (including the distance corresponding to 𝑚max ) for each of the positions 𝐷𝑖 of the light source.
+
+
+Present the results in a table (TABLE 1) and add the value of 𝑥 defined by:
 𝑥=  𝑚 𝐷𝑖
 𝑑𝑖
- 
-Suggested table model. 
-𝑑𝑖 
-𝐷𝑖 
-𝑚 
-∆𝑦𝑚 
-𝑥 
- 
- 
- 
- 
- 
-Note: Make the TABLE with the rows you deem necessary. Remember to record .
-the relevant uncertainties. 
- 
-12) Draw up a graph from the data collected in TABLE 1.
-(Graph 1) ∆ym as a function of x. 
- 
-13) Adjust the points of GRAFICO 1 by a straight line and determine the slope of the
-The same. 
- 
-14) From the slope value, determine the wavelength λ 
-corresponding to the colour RED ( λR). 
- 
-15) Determine the separation between the slits of the designated slide 
-The Commission has not yet decided on the application of this Regulation. 
- 
-16) Repeat paragraphs 3 and 4 using the BLUE light. 
- 
-Present the results in a table (TABLE 2) 
- 
-17) Draw a graph from the data collected in TABLE 2.
-(Graph 2) ∆ym versus x. 
- 
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-18) Adjust the points of GRAFICO 2 by a straight line and determine the slope 
-of the same. 
- 
-19) From the slope value, determine the wavelength λ 
-corresponding to the colour BLUE ( λA). 
- 
-20) Determine the separation between the slots of the device called 
-The following is the list of the official languages of the European Union: 
- 
-Compare the values obtained from DIR and DIA . Tell me which one is more accurate and if they are .
-They are indistinguishable. 
- 
- 
- 
+Suggested TABLE model.
+𝑑𝑖
+𝐷𝑖
+𝑚
+∆𝑦𝑚
+𝑥
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
- 
- 
- 
- 
- 
 
+
+
+
+Note: prepare the TABLE with as many rows as you consider necessary. Remember to record the corresponding uncertainties.
+
+12) From the data collected in TABLE 1, prepare a graph (GRAPH 1)  ∆𝑦𝑚 as a function of 𝑥.
+
+13) Fit the points of GRAPH 1 with a straight line and determine its slope.
+
+14) From the value of the slope, determine the wavelength 𝜆 corresponding to the RED color (  𝜆𝑅).
+
+15) Determine the separation between the slits of the slide called
+UNKNOWN ( 𝑑𝐼𝑅 ).
+
+16) Repeat sections 3 and 4 using BLUE light.
+
+Present the results in a table (TABLE 2)
+
+17)  From the data collected in TABLE 2, prepare a graph (GRAPH 2) ∆𝑦𝑚 versus 𝑥.
+
+
+
+OAF 2017 - 27
+18)  Fit the points of GRAPH 2 with a straight line and determine its slope.
+
+19)  From the value of the slope, determine the wavelength 𝜆 corresponding to the BLUE color (  𝜆𝐴).
  
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
-Preparatory tests 
- 
+20)  Determine the separation between the slits of the slide called
+UNKNOWN ( 𝑑𝐼𝐴 ).
+
+ Compare the values obtained for  𝑑𝐼𝑅  and for  𝑑𝐼𝐴 . State which is more precise and whether they are indistinguishable.
+
+
+
+
+
+  28 - OAF 2017
+
+
+
+
+
+
+
+OAF 2017 - 29
+Preparatory Tests
+
 First Preparatory Test: Mechanics
- 
-Theoretical problem one. 
- 
-From a tap, droplets of water fall, of equal mass, at equal intervals of time. When 
-a certain drop of water (drop A1) begins its free fall, the previous drop 
-(A) has already dropped 0.3 m. 
-Assume the rubbing of the drops with the air is despicable. 
-Consider g = 10 m/s2. 
- 
-(a) Write the position function of drop A. Consider as the initial instance (t=0) 
-The moment the A drop starts to fall. 
-(b) How long after the drop A has left the tap does the drop A1? 
-(c) Write the position function of droplet A1. 
-(d) When the distance between A and A1 is 0.9 m: how long has it been since 
-Did the A drop come out of the tap? 
-(e) Where are the A and A1 time droplets in relation to the tap?
-calculated in the previous point? 
- 
- 
-Theoretical problem two. 
- 
-The figure shows the potential energy V(x) of a body of 3 kg mass, 
-It's a one-dimensional movement. 
-The body initially moves in an increasing direction of the x-coordinate (left 
-right on the graph) starting from x = 0. 
+
+Theoretical Problem 1.
+
+Water drops of equal mass fall from a faucet at equal time intervals. When a certain water drop (drop A1) begins its free fall, the preceding drop (drop A) has already descended 0.3 m.
+Assume the friction of the drops with the air is negligible.
+Consider g = 10 m/s2.
+
+a) Write the position function of drop A. Consider as the initial instant (t=0)
+the instant at which drop A begins its fall.
+b) How much time after drop A leaves the faucet does drop A1 leave it?
+c) Write the position function of drop A1.
+d) When the distance between A and A1 is 0.9 m: how much time has elapsed since drop A left the faucet?
+e) Where are drops A and A1, relative to the faucet, at the time calculated in the previous point?
+
+
+Theoretical Problem 2.
+
+The figure shows the potential energy V(x) of a body of 3 kg mass, which undergoes one-dimensional motion.
+The body moves, initially, in the increasing direction of the x coordinate (from left to right in the graph) starting from x = 0.
 Consider g = 10 m/s2. 
  
 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-If the total body energy is 30 J and there are no dissipative forces acting on the
-The same: 
-(a) What is the body speed in the interval [0 - 2] m? 
-b) What is the velocity of the body at x = 7 m? 
-(c) What is the most distant position the body will reach with respect to origin? 
-This position is a turning point. 
-d) When passing x = 10 m, the body suddenly loses 9 J of energy. Describe
-And justify the movement that the body will make. 
-If the total body energy is still 30 J, but now between x = 0 m and x = 20 m there is 
-a force of friction such that the body loses energy at a rate of 2 J/m: 
-(e) What is the body's point of return? 
- 
- 
-Theoretical problem three. 
- 
-Consider the body system shown in the following figure. 
- 
-In that system: 
- there is a friction force between bodies A and B. 
- the horizontal surface and the pulleys are frictionless; the strings are 
-The Commission has already adopted a number of proposals for a new directive. 
-• bodies are at rest. 
- consider g = 10 m/s2 
- 
-(a) Draw an isolated body diagram for each body. 
-(b) Determine the minimum value of the static friction coefficient so that the
-bodies remain at rest. 
-(c) Find the voltage (T1 and T2) on strings 1 and 2. 
- 
- 
-It's an experimental problem. 
-Objective: Determine the static friction coefficient between a piece of wood and 
-A table. 
-Brief description: Most surfaces, even those considered polished, 
-They're extremely rough on a microscopic scale. This is evident when you exercise.
-a force to move a body: it is possible to notice an opposition to relative motion 
-between the two surfaces. 
-If the body is initially at rest and we gradually increase the force that
-We exercise on it, we see that that body will continue to rest until the
-The intensity of the force we exert exceeds a limit value, then the body 
-It'll start moving. 
+  30 - OAF 2017
+If the total energy of the body is 30 J and there are no dissipative forces acting on it:
+a) What will be the velocity of the body in the interval [0 - 2] m?
+b) What is the velocity of the body at x = 7 m?
+c) What is the farthest position the body will reach with respect to the origin?
+This position is a turning point.
+d) When passing through x = 10 m, the body suddenly loses 9 J of energy. Describe and justify the motion the body will undergo.
+If the total energy of the body is still 30 J, but now between x = 0 m and x = 20 m there is a friction force such that the body loses energy at a rate of 2 J/m:
+e) What is the turning point of the body?
 
+
+Theoretical Problem 3.
+
+Consider the system of bodies shown in the following figure.
+
+In this system:
+ between bodies A and B there is a friction force.
+ the horizontal surface and the pulleys have no friction; the ropes are considered massless and inextensible.
+ the bodies are at rest.
+ consider g = 10 m/s2
+
+a) Draw a free-body diagram for each body.
+b) Determine the minimum value of the static friction coefficient, so that the bodies remain at rest.
+c) Find the tension (T1 and T2) in ropes 1 and 2. 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-The force exerted on the surface, and which opposes the movement of the body that is in it.
-rest, it's called static friction force. The maximum value of this force, is 
-proportional to the modulus of the normal force exerted on the surface. The constant of 
-The proportionality (μe) between the two forces depends on the materials and characteristics 
-of the contact surfaces. 
+ 
+Experimental Problem.
+Objective: Determine the coefficient of static friction between a piece of wood and a table.
+Brief description: Most surfaces, even those considered polished, are extremely rough on a microscopic scale. This is evident when one exerts a force to move a body: it is possible to notice an opposition to the relative motion between both surfaces.
+If the body is initially at rest and we gradually increase the force we exert on it, we see that said body will remain at rest until the intensity of the force we exert exceeds a limit value, then the body will begin to move.
+
+
+OAF 2017 - 31
+The force exerted by the surface, and which opposes the motion of the body that is at rest, is called static friction force. The maximum value of this force is proportional to the magnitude of the normal force exerted by the surface. The constant of proportionality (µe) between the two forces depends on the materials and characteristics of the surfaces in contact.
 N
-F
-e
-maximum
-rubbing
+F e maximum friction
 
 
- 
- 
-Experimental assembly 
- 
- 
- 
+
+
+Experimental setup 
  
  
  
@@ -4765,225 +4449,180 @@ Experimental assembly
  
  
  
-The necessary elements 
-- A piece of wood. 
-- Plastic glass. 
-- Weights or replacement system: such as nuts, a container containing
-water (-"graduated" or graded by a graduated syringe). 
-- Kitchen scale .
-- Hypodermic syringe .
-- Cotton yarn or plum 
-- Wire (molded)
-- A shot of sorbet .
-- The adhesive tape
-- The towels .
-- Hammer .
  
-Development of the experiment: 
-- On two opposite sides of the key piece of wood the stakes, as you 
-indicated in Figure 2, at a height of the base of the order of the sorbet diameter. 
-Figure 1 
+ 
+ 
+Necessary elements
+- A piece of wood (board).
+- Plastic cup.
+- Weights or replacement system: such as nuts, a container for water ("graduated" or graduable by means of a graduated syringe).
+- Kitchen scale
+- Hypodermic syringe
+- Cotton thread or twine
+- Piece of wire (malleable)
+- A straw
+- Adhesive tape
+- Thumbtacks
+- Hammer
+
+Experiment procedure:
+- On two opposite faces of the piece of wood, hammer in the thumbtacks, as shown in Figure 2, at a height from the base on the order of the diameter of the straw.
+Figure 1
+
+
+  32 - OAF 2017
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2
+
+- Tie a piece of cotton thread approximately 15 cm long to each thumbtack.
+- At the end of one of the threads, attach a hook made from the wire.
+- Hammer a thumbtack into the wooden table and tie the end of the other thread there (see
+Figure 1).
+- On the edge of the table and with the help of the tape, stick the straw.
+- Arrange the system as shown in Figure 1 and place the plastic cup on the piece of wood.
+-  With the help of the scale, determine the weight of the weights or replacement system.
+- Use the syringe to gradually add water to the plastic cup (Consider the density of water equal to 1 g/cm3).
+ 
+Instructions:
+a) Measure the maximum force required for the system —wooden body + glass with water— to begin to move. Do this for different masses of water (at least ten). Construct a table.
+Suggestion: Begin with 10 cm3 of water in the glass and place one weight at a time on the wire support, until the body begins to move from a determined position (previously marked on the table). Increase by 10 cm3 of water.
+b) Graph the mass of the weights vs the mass of water.
+c) On the graph from the previous point, fit a straight line and determine the value of the coefficient of static friction.
+d) Explain why the straight line has a y-intercept.
+
+
+Second Preparatory Test: Thermodynamics, Electricity and Magnetism
+
+Theoretical Problem 1.
+
+The First Law of Thermodynamics postulates that energy is conserved; that is, in any thermodynamic process, mechanical, electrical, magnetic energy, or energy of any other nature, is converted into the internal energy of the system or into heat, the latter being energy that flows from one body to another.
+
+Taking this principle into account, consider the following problem.
+
+An adiabatic aluminum canteen, whose mass is 500 g, contains 750 g of water and 100 g of ice; this system is in thermal equilibrium.
+The canteen is dropped from a hot air balloon, which is at a certain height above the Earth's surface. After the canteen impacts against the
 
  
-The Commission shall adopt delegated acts in accordance with Article 32 of the Financial Regulation.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 2 
- 
-- Tie to each handle a piece of cotton thread about 15 cm in length.
-- It's a long one. 
-- At the end of one of the wires, put a hook made of wire. 
-- Put a key on the wooden table and tie the other end of the thread there (see 
-The following is the list of the following: 
-- On the edge of the table and with the help of the tape, stick the sorbet. 
-- Set up the system as shown in Figure 1 and place the glass of 
-plastic on the piece of wood. 
-- Using the scale to determine the weight of weights or system of weights
-replacement. 
-- Use the syringe to add water to the plastic glass (Consider the density of the glass)
-water equal to 1 g/cm3). 
- 
-The following is the list of winners: 
-(a) Measure the maximum force required for the system to be fitted ― wood body + glass
-With water, it starts moving. Do this for different water masses (al
-minus ten). Build a board. 
-Suggestion: Start with 10 cm3 of water in the glass and place a weigh 
-on the wire support, until the body starts moving from a
-a given position (marked previously on the table). Increased from 10 
-1 cm3 of water. 
-(b) Graph the mass of the weights vs. the mass of the water. 
-(c) In the graph above, adjust a straight line and determine the value of the
-the static friction coefficient. 
-(d) Explain why the straight has an order at the origin. 
- 
- 
-Second Preparatory Test: Thermodynamics, Electricity and Magnetism 
- 
-Theoretical problem one. 
- 
-The First Principle of Thermodynamics posits that energy is conserved; that is, in
-Any thermodynamic process, mechanical, electrical, magnetic or other
-Any other nature, it becomes internal energy of the system or heat, being 
-This last energy that flows from one body to another. 
- 
-With that principle in mind, consider the following problem. 
- 
-An adiabatic aluminium cantimplora, with a mass of 500 g, contains 750 g of water.
-And 100 g of ice, that system, it's in thermal equilibrium. 
-The cantimplora is dropped from an air balloon, which is at a certain height.
-above the earth's surface. After the cantimplora impacts the
+OAF 2017 - 33 earth, the temperature of the resulting system is 25°C, being the same in thermal equilibrium. Assume that air friction is negligible.
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-The temperature of the resulting system is 25°C, the same as in 
-The heat balance. Suppose the air gnawing is despicable. 
- 
-(a) If during impact no energy is transferred to the ground, what is the velocity of 
-The cantimplora just before it hit the ground? 
- 
-(b) If the initial speed of the cantillation is 0: calculate the height of the cantillation.
-He finds the balloon, the moment the cantimplora is thrown. 
- 
-The data: 
-The specific heat of aluminium: 0,21 cal/g °C 
-The water specific heat: 1 cal/g °C 
-Latent heat from melting ice: 79,7 cal/g 
-The mechanical equivalent of heat is: 4,186 J = 1 cal. 
- 
- 
-Theoretical problem two. 
- 
-A 24 V DC electric motor, reaching its maximum speed (1450 
-rotations per minute (RPM-), when a current of 36 A is circulated through it. 
-Consider that there is a linear relationship between the number of RPMs and the current circulating 
-by the engine. 
-The engine speed is to be controlled by a set of resistors not exceeding 
-three, placed in parallel; the values of these resistors are in a range 
-de 0,5  a 1. In the circuit you can use keys that allow the current to flow through.
-The different resistance. 
- 
- 
-(a) Propose appropriate circuits to operate the engine at half its speed.
-maximum speed and at one-third of that speed. 
- 
-(b) Determine which power is dissipated in each resistor when the axle is
-The engine spins at one third of its maximum speed. 
- 
-(c) What is the maximum torque that this engine can provide? 
- 
- 
-Theoretical problem three. 
- 
-A cylindrical diving bell, with a height of 2.50 m and a diameter of 1 
-m, it is closed at the top and open at the bottom. 
-The bell is lowered from the ocean surface (where the air is at a pressure of 
-1 atm and at a temperature of 20°C) to seawater. The bell goes down to a .
-depth, measured from the bottom of the bell, 82,3 m. At that depth, the
-The water temperature is 4°C and the bell is in thermal equilibrium with the water. 
-Suppose the air is an ideal gas. 
- 
-(a) Determine the number of moles of air inside the bell. 
- 
+a) If during the impact no energy is transferred to the ground, what is the velocity of the canteen just before hitting the ground?
 
+b) If the initial velocity of the canteen is equal to 0: calculate at what height the balloon is located, at the moment the canteen is thrown.
+
+Data:
+Specific heat of aluminum: 0.21 cal/g °C
+Specific heat of water: 1 cal/g °C
+Latent heat of fusion of ice: 79.7 cal/g
+The mechanical equivalent of heat is: 4.186 J = 1 cal.
+
+
+Theoretical Problem 2.
+
+A 24 V direct current electric motor reaches its maximum speed (1450 revolutions per minute -RPM-), when a current of 36 A flows through it.
+Consider that there is a linear relationship between the number of RPM and the current flowing through the motor.
+It is desired to control the speed of the motor with a set of resistors, no more than three, placed in parallel; the values of said resistors are in a range of 0.5  to 1. In the circuit you can use switches that allow the current to flow through the different resistors.
+
+
+a) Propose suitable circuits to operate the motor at half its maximum speed and at one third of that speed.
  
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
-(b) At the depth reached: how much water level will rise within the
-The bell? 
- 
-(c) Calculate the minimum necessary air pressure inside the bell to remove the
-water that came in. 
- 
-The data: 
-Sea water density ρ= 1,025 g cm−3 
-The following is the list of the following:
- 
- 
-It's an experimental problem. 
- 
+b) Determine the power dissipated in each of the resistors, when the motor shaft rotates at one third of its maximum speed.
+
+c) What is the maximum torque this motor can provide?
+
+
+Theoretical Problem 3.
+
+A cylindrical diving bell, with a height of 2.50 m and a diameter of 1 m, is closed at the top and open at the bottom.
+The bell is lowered from the ocean surface (where the air is at a pressure of
+1 atm and a temperature of 20°C) into seawater. The bell descends to a depth, measured from the bottom of the bell, of 82.3 m. At that depth, the water temperature is 4°C and the bell is in thermal equilibrium with the water.
+Assume the air is an ideal gas.
+
+a) Determine the number of moles of air inside the bell.
+
+
+
+  34 - OAF 2017
+b) At the depth reached: how much will the water level rise inside the bell?
+
+c) Calculate the minimum necessary air pressure, inside the bell, to expel the water that entered.
+
+Data:
+Seawater density 𝜌= 1.025 𝑔 𝑐𝑚−3
+1 𝑎𝑡𝑚=  1.01325 × 105𝑃𝑎
+
+
+Experimental Problem.
+
 Surface tension 
  
-The cohesive forces between molecules in a liquid are responsible for the
-phenomenon known as surface tension. 
-In a liquid-gas interface, the molecules of the liquid that are right on the surface
-They feel forces towards the sides (in directions tangent to the interface) and towards the breast.
-of the liquid, but not out of it. The result is that the molecules that are
-They are attracted to the surface and are attracted to the inside of the surface. 
- 
-The surface tension coefficient can be determined using the Tensimeter of 
-The French are not the same. This pressure gauge, which is outlined in the figure, consists of a ring.
-suspended from a scale. By dipping the ring in a liquid, you can measure the strength.
-The ring must be placed on the ring at the moment when the ring is
-liquid sheet is going to break. 
-The surface tension of the liquid () is determined from the ring radius R and the value 
-of the force ΔF by, 
+The cohesive forces between the molecules of a liquid are responsible for the phenomenon known as surface tension.
+At a liquid-gas interface, the liquid molecules that are right at the surface feel forces toward the sides (in directions tangent to the interface) and toward the interior of the liquid, but not outward from it. The result is that the molecules found at the surface are attracted toward the interior of the liquid.
+
+To determine the coefficient of surface tension, the Lecomte du Noüy Tensiometer can be used. This tensiometer, which is schematized in the figure, consists of a ring suspended from a balance. By immersing the ring in a liquid, one can measure the force
+𝛥𝐹 that must be exerted on the ring, just at the moment when the liquid film is about to break.
+The surface tension of the liquid () is determined from the radius 𝑅 of the ring and the value of the force 𝛥𝐹 by means of,
 𝛾=
 Δ𝐹
-2 2𝜋𝑅  
- 
- 
- 
- 
- 
-Available items 
-- The receiver .
-- Wire, thread, wire 
-- A palette of ice cream .
-- Rule .
-- Pinza, scissor
-- Plastic .
+2 2𝜋𝑅
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-- Water .
-- Dryer .
-- Balance of common use 
- 
-Activities 
-(a) Build a pressure gauge with the available elements. 
- 
-(b) Measure the surface tension of water and a water mixture with detergent. 
- 
- 
- 
- 
- 
- 
 
- 
-The Commission shall adopt delegated acts in accordance with Article 36 of the Financial Regulation.
- 
- 
- 
- 
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-Local authorities 
- 
-Theoretical problems
 
+
+Available elements
+- Container
+- Wire, thread, cable
+- Popsicle stick
+- Ruler
+- Clip, scissors
+- Modeling clay
+
+
+OAF 2017 - 35
+- Water
+- Detergent
+- Common balance
+
+Activities
+a) Build a tensiometer with the available elements.
+
+b) Measure the surface tension of water and of a mixture of water with detergent.
+
+
+
+
+
+
+
+
+  36 - OAF 2017
+
+
+
+
+
+
+OAF 2017 - 37
+Local Instances
+
+Theoretical Problems
 
 <!--fig:start-->
 ![[cuadernillo_2017_p20_f2.png]]
 ![[cuadernillo_2017_p21_f3.png]]
 ![[cuadernillo_2017_p21_f4.png]]
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Argent 2017 Locale — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/projectile,object/ball"></span>
@@ -11788,61 +11427,42 @@ circuito esterno.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Electric fields and circuits
+**Electric fields and circuits**
 
-PT60. St. Andrew's Scottish School 
+PT60. Escuela Escocesa San Andrés
+
+  Escuela Municipal Paula Albarracín de Sarmiento
+
+  Olivos, Buenos Aires.
+
+This question is about electric fields and electric circuits.
+a) Two charged parallel metal plates A and B are in a vacuum. 
  
-The city of Sarmiento is the city of Paula Albarracín.
- 
-Olive trees, from Buenos Aires. 
- 
-This question is about electric fields and electrical circuits. 
-(a) Two charged metal plates parallel to A and B are in a vacuum. 
  
  
- 
-At a particular moment an electron is at the point P. 
-On the diagram, draw.
-(i) the electric field due to the plates. 
-(ii) an arrow to represent the direction of the force on the electron in P. 
-(b) The acceleration of the electron in P is 8.8 × 1014 m s2. Determine the magnitude of the 
-electric field in P. 
-(c) The electric potential of the electron changes by 1.9 × 1017 J when it moves from 
-One plaque to another. Show that the potential difference (voltage) between the 
-plate is 120 V. 
+At a particular moment an electron is at point P.
+In the diagram, draw
+i) the electric field due to the plates.
+ii) an arrow to represent the direction of the force on the electron at P.
+b) The acceleration of the electron at P is 8.8 × 1014 m s–2. Determine the magnitude of the electric field at P.
+c) The electric potential energy of the electron changes by 1.9 × 10–17 J when it moves from one plate to the other. Show that the potential difference (voltage) between the plates is 120 V.
 r
-GM
-r
+GM r
 GMm
 2
 
 
  
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
-(d) An R-resistance and an L-filament lamp are connected in series with 
-A battery. The battery has a fem (strength)
-Electric motor) of 12 V and a resistance 
-internal of 4.0 Ω. The potential difference 
-The filament lamp is 3.0 V and the
-Current is 0.25 A. 
- 
-(i) Calculate the total power supplied 
-I'm going to use the battery. 
-(ii) Calculate the total power dissipated in the 
-the external circuit. 
-(iii) Determine the resistance R.
+  70 - OAF 2017
+d) A resistor R and a filament lamp L are connected in series with a battery. The battery has an emf (electromotive force) of 12 V and an internal resistance of 4.0 Ω. The potential difference across the filament lamp is 3.0 V and the current is 0.25 A.
 
+i) Calculate the total power supplied by the battery.
+ii) Calculate the total power dissipated in the external circuit.
+iii) Determine the resistance R.
 
 <!--fig:start-->
 ![[cuadernillo_2017_p69_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Electron (object)|Electron]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bJZAoRVCvwSVOZRe6fN2zGWhmFhsVA9v/view)
-
 
 
 <span class="atom-split" id="q67" data-atom="q67" data-title="Argent 2017 Locale — Quesito 67" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/gas"></span>

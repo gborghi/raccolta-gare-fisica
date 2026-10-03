@@ -1263,7 +1263,7 @@ e- Perform a linear fit of the previous graph and determine the slope and the y-
 
 f- Perform a theoretical analysis of the situation and show that,
 
-$$\frac{V_\text{agua}}{V_\text{sol}} = \frac{m_\text{sal}}{V_A\,\rho_\text{agua}}\,n + 1$$
+$$\frac{V_\text{agua}}{V_\text{sol}} = \frac{m_\text{sal}}{V_A\,\rho_\text{agua}}\, n + 1$$
 
 where $m_\text{sal}$ is the mass of salt in a dose and $\rho_\text{agua}=(1{,}00 \pm 0{,}01\ \text{g cm}^{-3})$ is the density of water. Note that the density of the solution is:
 

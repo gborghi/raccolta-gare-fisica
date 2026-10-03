@@ -741,92 +741,44 @@ $$\gamma = \omega^2 \alpha.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3: Un pendolo ingravato.
-Mercoledì 24 agosto di quest'anno, la nave spaziale russa Progress M-112M,
-decollato dal cosmodromo di Baikonur in Kazakistan per la stazione
-Spazio spaziale internazionale (ISS). Tuttavia, dopo 325 secondi di volo il razzo russo Soyuz-U
-l'interruzione di un'attesa e il carico di diverse tonnellate con forniture per l'ISS
-si è disintegrata nel cadere. La carica utile distrutta, oltre a cibo, combustibile e
-I materiali per il normale funzionamento della ISS, contenevano diversi esperimenti
-scienziati per essere realizzati nello spazio. La prossima nave con rifornimenti, Progress
-M-13M/Soyuz U, ha previsto il suo volo solo per il prossimo 30 ottobre. Quindi,
-l'equipaggio 29 della ISS in volo, composto da Sergey Volkov, Michael E. Fossum e
-Satoshi Furukawa, non avendo modo di fare gli esperimenti previsti, dispone di più
-tempo libero.
-Per divertirsi nei loro lunghi passaggi di tempo libero, l'equipaggio si è impegnato a progettare un
-pendolo che funziona in condizioni di gravità in cui si trova all'interno di
-l'ISS. Per questo motivo, sono state recuperate una sfera di materiale non radioconduttore $R = 20\ \text{cm}$. Al
-La sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$.
-La maggior parte delle regioni del mondo è costituita da regioni di
-la superficie della sfera. Poi hanno saldato una piccola sfera di metallo pesante,
-La massa $m = 50\ \text{g}$ era nota in anticipo, a un filo molto sottile e inestensibile e non
-un conducente di lunghezza $l = 2{,}30\ \text{m}$. Questo filo, per ogni finalità pratica, può essere considerato di massa
-- Desprezioso. Per mettere in piedi il pendolo, hanno attaccato la sfera carica su uno dei muri del
-Colombo modulo, così che rimase immobile e fissato l'estremità libera del filo nel
-punto o, del muro opposto, in modo tale che la piccola sfera metallica rimanga quasi
-toccando la sfera carica (ma senza contatto) quando il filo è completamente stretto,
-come mostrato nel diagramma (A) della figura. In questo modo, la distanza tra il
-punto di fissaggio del filo, o, e il centro della sfera, c, è mantenuto costante uguale a $R +
-l$.
-Infine, per attirare le due sfere, hanno trasferito una carica negativa.
-$q = -1\ \mu\text{C}$ alla sfera metallica. In uno dei laboratori della ISS,
-strumentale per il trasferimento controllato del carico desiderato.
+Problema 3: Un pendolo senza peso.
+Mercoledì 24 agosto di quest'anno, la navicella spaziale russa Progress M-112M è decollata dal cosmodromo di Baikonur in Kazakistan con destinazione la stazione spaziale internazionale (ISS). Tuttavia, dopo 325 s di volo il razzo russo Soyuz-U si è spento in modo imprevisto e il carico di diverse tonnellate con i rifornimenti per la ISS si è disintegrato nella caduta. Il carico utile distrutto, oltre a cibo, combustibile e rifornimenti per il normale funzionamento della ISS, conteneva diversi esperimenti scientifici da realizzare nello spazio. La successiva navicella con i rifornimenti, Progress
+M-13M/Soyuz U, ha previsto il suo volo solo per il prossimo 30 ottobre. Pertanto, l'equipaggio 29 della ISS in volo, composto da Sergey Volkov, Michael E. Fossum e
+Satoshi Furukawa, non avendo modo di realizzare gli esperimenti previsti, dispone di più tempo libero.
+Per divertirsi nei loro ormai lunghi momenti di ozio, l'equipaggio si mise a progettare un pendolo che funzioni nelle condizioni di assenza di gravità in cui si trova all'interno della ISS. A tal fine, recuperarono una sfera di materiale non conduttore di raggio $R = 20\ \text{cm}$. Strofinandola con un panno sintetico, la sfera acquisì una carica elettrica positiva $Q = 2\ \mu\text{C}$, che si può supporre sia distribuita omogeneamente su tutta la superficie della sfera. Poi, saldarono una minuscola sfera, di un metallo pesante, la cui massa $m = 50\ \text{g}$ era nota in anticipo, a un filo molto sottile inestensibile e non conduttore di lunghezza $l = 2{,}30\ \text{m}$. Questo filo, a tutti gli effetti pratici, può considerarsi di massa trascurabile. Per assemblare il pendolo, incollarono la sfera carica a una delle pareti del modulo Columbus, in modo che rimanesse immobile, e fissarono l'estremità libera del filo nel punto o, della parete opposta, in modo tale che la piccola sfera metallica rimanga "quasi" toccando la sfera carica (ma senza contatto) quando il filo è completamente teso, come mostrato nel diagramma (A) della figura. In questo modo, la distanza tra il punto di fissaggio del filo, o, e il centro della sfera, c, rimane costante e uguale a $R + l$.
+Infine, affinché entrambe le sfere si attraggano tra loro, trasferirono una carica negativa
+$q = -1\ \mu\text{C}$ alla sferetta metallica. In uno dei laboratori della ISS, dispongono di strumentazione per trasferire la carica desiderata in modo controllato.
 
 Domande:
 (a)
-Calcolare la tensione del filo in posizione di riposo in equilibrio stabile.
+Calcolare la tensione del filo nella posizione di riposo in equilibrio stabile.
 (b)
-Per calcolare il periodo del pendolo, la prima idea è ricordare la
-similitudine tra la legge di gravitazione universale di Newton e la legge di Coulomb.
-Considerando la relazione tra le due leggi e il fatto che la
-In entrambi i casi l'accelerazione è definita dal rapporto $F = m a$, dove $a = g$
-in caso di gravità e $a = g_e$ in caso elettrico, calcolare il valore della
-la corrispondente accelerazione $g_e$ per il caso elettrico.
-(c) A partire dall'espressione del periodo di un semplice pendolo nel caso gravitazionale,
-calcolare il valore risultante per il periodo di pendolo non gravato corrispondente.
+Per calcolare il periodo del pendolo, la prima idea consiste nel ricordare la somiglianza tra la legge di gravitazione universale di Newton e la legge di Coulomb.
+Tenendo conto della relazione tra le due leggi e del fatto che l'accelerazione in entrambi i casi è definita dalla relazione $F = m a$, dove $a = g$ nel caso gravitazionale e $a = g_e$ nel caso elettrico, calcolare il valore della corrispondente accelerazione $g_e$ per il caso elettrico.
+(c) A partire dall'espressione del periodo di un pendolo semplice nel caso gravitazionale, calcolare il valore risultante per il corrispondente periodo del pendolo senza peso.
 
-Una volta costruito il pendolo, gli astronauti notarono che il periodo calcolato differì
-La misurazione con un cronometro è molto più breve. Con
-Buona scelta, Michael E. Fossum, che ha un master in fisica, ha concluso che
-non sono soddisfatte le condizioni in base alle quali è valida la formula del periodo di un
-un pendolo semplice nel caso del pendolo ingravato costruito. Per trovare la
-La formulazione corretta per questo caso è stata la seguente:
-- dobbiamo riprodurre:
+Una volta costruito il pendolo, gli astronauti notarono che il periodo calcolato differiva parecchio rispetto a quello misurato con un cronometro, il quale risulta bastante più breve. Con buon criterio, Michael E. Fossum, che ha un master in Fisica, concluse che non sono soddisfatte le condizioni sotto le quali è valida la formula del periodo di un pendolo semplice nel caso del pendolo senza peso costruito. Al fine di trovare l'espressione corretta per questo caso, procedette a eseguire i seguenti calcoli che dobbiamo riprodurre:
 (d)
-La sfera di massa $m$ viene spostata in modo che il filo forma una piccola
-L'angolo $\alpha$ rispetto alla linea $\overline{oc}$. Disegnare un diagramma di corpo isolato per la
-massa $m$, tracciando qualitativamente tutti i vettori delle forze che agiscono
-- Su di lei.
+Si sposta la sferetta di massa $m$, in modo che il filo formi un piccolo angolo $\alpha$ rispetto alla linea $\overline{oc}$. Disegnare un diagramma di corpo isolato per la massa $m$, tracciando qualitativamente tutti i vettori delle forze che agiscono su di essa.
 (e)
-In precedenza, scrivere l'espressione analitica per
-l'intensità della forza di attrazione tra le sfere.
-(f) Usando il diagramma di schema (B) della figura, decompone i vettori
-forza in componenti lungo la direzione del filo (componente centripeta)
-e perpendicolare a questa (componente tangenziale).
+Nella situazione del punto precedente, scrivere l'espressione analitica per l'intensità della forza di attrazione tra le sfere.
+(f) Utilizzando il diagramma nello schema (B) della figura, scomporre i vettori forza in componenti lungo la direzione del filo (componente centripeta)
+e perpendicolari a questa (componente tangenziale).
 (g)
-Scrivere la seconda legge di Newton relativa alla direzione del filo e a
-l'indirizzo tangenziale, utilizzando i componenti calcolati nell'articolo precedente.
+Scrivere la seconda legge di Newton corrispondente alla direzione del filo e alla direzione tangenziale, utilizzando le componenti calcolate nel punto precedente.
 (h)
-Ricordiamo che l'accelerazione tangenziale, $a$, è correlata alla
-Accelerazione angolare, $\gamma$, secondo $a = l \gamma$, scrivere la seconda legge di Newton
-corrispondente alla direzione tangenziale per piccole oscillazioni del pendolo;
-in primo ordine (o lineare) all'angolo $\alpha$.
-(i) Scrivere l'espressione per la frequenza angolare di piccole oscillazioni del
-pendolo ingravido.
-(j) Calcolare il valore numerico risultante per il periodo del pendolo, nel caso in cui:
-particolare costruito dagli astronauti.
-(k) Dall'espressione della frequenza angolare calcolata in (i), quale
-condizione deve essere soddisfatta tra $R$ e $L$ per ottenere il risultato
-calcolato nell'articolo (c)?
-(l) Sulla base dell'espressione della frequenza angolare calcolata in (i), analizzare
-come è la dipendenza della frequenza angolare nel caso limite in cui
+Ricordando che l'accelerazione tangenziale, $a$, è legata all'accelerazione angolare, $\gamma$, secondo $a = l \gamma$, scrivere la seconda legge di Newton corrispondente alla direzione tangenziale per piccole oscillazioni del pendolo;
+cioè, al primo ordine (o lineare) nell'angolo $\alpha$.
+(i) Scrivere l'espressione per la frequenza angolare di piccole oscillazioni del pendolo senza peso.
+(j) Calcolare il valore numerico risultante per il periodo del pendolo, nel caso particolare costruito dagli astronauti.
+(k) A partire dall'espressione della frequenza angolare calcolata nel punto (i), quale condizione deve essere soddisfatta tra i valori di $R$ e $L$ per ottenere il risultato calcolato nel punto (c)?
+(l) A partire dall'espressione della frequenza angolare calcolata nel punto (i), analizzare come dipende la frequenza angolare nel caso limite in cui
 $l \gg R$.
 
 Informazioni utili:
 (1)
 La costante di Coulomb è
-$k = (4\pi\varepsilon_0)^{-1}$, dove $\varepsilon_0$ è la costante
-dieletrica del vuoto. Così,
+$k = (4\pi\varepsilon_0)^{-1}$, dove $\varepsilon_0$ è la costante dielettrica del vuoto. Così,
 $k = 9 \times 10^9\ \text{N m}^2/\text{C}^2$.
 (2)
 Le seguenti relazioni trigonometriche sono sempre valide:
@@ -836,130 +788,73 @@ $$\text{sen}(\alpha + \beta) = \text{sen}(\alpha)\cos(\beta) + \cos(\alpha)\,\te
 $$\cos(\theta) = \sqrt{1 - \text{sen}^2(\theta)}.$$
 
 (3)
-Utilizzando le relazioni trigonometriche nel diagramma dello schema (B) della
-figura, si ottiene:
+Utilizzando relazioni trigonometriche nel diagramma dello schema (B) della figura, risulta:
 
 $$\text{sen}(\alpha) = h/l,$$
 
 $$\text{sen}(\beta) = h/r.$$
 
 (4)
-Usando il teorema del coseno nel diagramma dello schema (B) della figura,
-risulta:
+Usando il teorema del coseno nel diagramma dello schema (B) della figura, risulta:
 
 $$r^2 = l^2 + (l + R)^2 - 2l(l + R)\cos(\alpha).$$
 
 (5)
-Se l'angolo $\theta$ è piccolo, ed è espresso in radiani, sono valide le
-le seguenti approcci:
+Se l'angolo $\theta$ è piccolo, ed è espresso in radianti, sono valide le seguenti approssimazioni:
 
 $$\text{sen}(\theta) \approx \theta, \qquad \cos(\theta) \approx 1 - \theta^2/2.$$
 
 (6)
-Se $x \ll 1$, allora vale il seguente approccio:
+Se $x \ll 1$, allora è valida la seguente approssimazione:
 
 $$\sqrt{1 - x^2} \approx 1 - x^2/2.$$
 
 (7)
-L'equazione di movimento di un pendolo per piccole oscillazioni, è
-dire in primo ordine (o lineare) all'angolo $\alpha$, è
+L'equazione del moto di un pendolo per piccole oscillazioni, cioè al primo ordine (o lineare) nell'angolo $\alpha$, è
 
 $$\gamma = \omega^2 \alpha.$$
 
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three: a weightless pendulum.
-On Wednesday, August 24th of this year, the Russian spacecraft Progress M-112M,
-It took off from the Baikonur Cosmodrome in Kazakhstan with a destination at the station
-The European Union has also adopted a number of measures to combat the spread of the virus. However, after 325 s of flight the Russian Soyuz-U rocket
-It was unforeseen and the cargo of several tons with supplies to the ISS
-It disintegrated in the fall. The waste payload, in addition to food, fuel and
-Supplies for the normal operation of the ISS, contained several experiments
-scientists to be carried out in space. Next ship with supplies, Progress
-M-13M/Soyuz U, is scheduled to fly only for October 30th. So, what's the point?
-The 29th crew of the ISS in flight, composed of Sergey Volkov, Michael E. Fossum and
-Satoshi Furukawa, who cannot carry out the planned experiments, has more
-Free time.
-To entertain themselves in their now long leisure time, the crew set out to design a
-pendulum operating under the unweight conditions in which it is located within
-The ISS. To this end, they recovered a sphere of radio non-conductive material $R = 20\ \text{cm}$. Al
-The sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge.
-The Commission has therefore decided to adopt a proposal for a regulation on the
-surface of the sphere. Then they welded a small ball of heavy metal,
-The mass $m = 50\ \text{g}$ was known in advance, to a very fine, unextended wire and not to a
-The length of the driver $l = 2{,}30\ \text{m}$. This thread can be considered to be mass for all practical purposes.
-I'm not a big fan of this. To arm the pendulum, they stuck the loaded sphere on one of the walls of the
-The Columbus module, so that it remained motionless and fixed the free end of the thread in the
-point or, of the opposite wall, so that the small metal sphere is left almost
-touching the loaded (but contactless) sphere when the thread is fully stretched,
-as shown in Figure (A) of the figure. In this way, the distance between the
-The thread's grip point, or, and the center of the sphere, c, is kept constant equal to $R +
-l$.
-Finally, to attract both spheres to each other, they transferred a negative charge.
-The metal sphere is $q = -1\ \mu\text{C}$. In one of the ISS laboratories, they have
-instrumental for the controlled transfer of the desired load.
+Problem 3: A weightless pendulum.
+On Wednesday, August 24 of this year, the Russian spacecraft Progress M-112M lifted off from the Baikonur Cosmodrome in Kazakhstan bound for the International Space Station (ISS). However, after 325 s of flight the Russian Soyuz-U rocket shut down unexpectedly and the several-ton payload of supplies for the ISS disintegrated as it fell. The destroyed payload, besides food, fuel and supplies for the normal operation of the ISS, contained several scientific experiments to be carried out in space. The next supply spacecraft, Progress
+M-13M/Soyuz U, is scheduled to fly only on October 30. Therefore, the crew 29 of the ISS in flight, composed of Sergey Volkov, Michael E. Fossum and
+Satoshi Furukawa, having no way to carry out the planned experiments, has more free time.
+To amuse themselves in their now long leisure hours, the crew set about designing a pendulum that would work under the weightless conditions in which they find themselves inside the ISS. To this end, they retrieved a sphere of non-conducting material of radius $R = 20\ \text{cm}$. By rubbing it with a synthetic cloth, the sphere acquired a positive electric charge $Q = 2\ \mu\text{C}$, which can be assumed to be uniformly distributed over the entire surface of the sphere. Then, they welded a tiny sphere, made of a heavy metal, whose mass $m = 50\ \text{g}$ was known beforehand, to a very fine, inextensible, non-conducting wire of length $l = 2{,}30\ \text{m}$. This thread, for all practical purposes, can be considered to have negligible mass. To assemble the pendulum, they glued the charged sphere to one of the walls of the Columbus module, so that it remained motionless, and they fixed the free end of the thread at point o, on the opposite wall, in such a way that the small metal sphere is "almost" touching the charged sphere (but without contact) when the thread is completely stretched, as shown in diagram (A) of the figure. In this way, the distance between the attachment point of the thread, o, and the center of the sphere, c, remains constant and equal to $R + l$.
+Finally, so that the two spheres would attract each other, they transferred a negative charge
+$q = -1\ \mu\text{C}$ to the small metal sphere. In one of the ISS laboratories, they have instruments available to transfer the desired charge in a controlled manner.
 
 Questions:
 (a)
-Calculate the tension of the thread in the resting position in stable equilibrium.
+Calculate the tension of the thread in the position of rest in stable equilibrium.
 (b)
-To calculate the period of the pendulum, the first idea is to recall the
-similarity between Newton's law of universal gravitation and Coulomb's law.
-Given the relationship between the two laws and the fact that the
-acceleration in both cases is defined by the $F = m a$ ratio, where $a = g$
-In the gravitational case and $a = g_e$ in the electrical case, calculate the value of the
-The acceleration $g_e$ for the electrical case shall be the same.
-(c) From the expression of the period of a simple pendulum in the gravitational case,
-calculate the resulting value for the corresponding unweighted pendulum period.
+To calculate the period of the pendulum, the first idea is to recall the similarity between Newton's law of universal gravitation and Coulomb's law.
+Taking into account the relationship between both laws and the fact that the acceleration in both cases is defined by the relation $F = m a$, where $a = g$ in the gravitational case and $a = g_e$ in the electric case, calculate the value of the corresponding acceleration $g_e$ for the electric case.
+(c) From the expression for the period of a simple pendulum in the gravitational case, calculate the resulting value for the corresponding period of the weightless pendulum.
 
-Once the pendulum was built, the astronauts noticed that the calculated period differed
-The Commission has already taken a number of measures to ensure that the Community's financial resources are adequately used. With
-That's a good point, Michael E. Fossum, who has a master's degree in physics, concluded that
-the conditions under which the formula for the period of one year is valid are not met
-simple pendulum in the case of the built-in gravity pendulum. In order to find the
-The Commission's proposal for a regulation on the
-We must reproduce:
+Once the pendulum was built, the astronauts noticed that the calculated period differed considerably from the one measured with a stopwatch, which is considerably shorter. With good judgment, Michael E. Fossum, who holds a master's degree in Physics, concluded that the conditions under which the formula for the period of a simple pendulum is valid are not satisfied in the case of the weightless pendulum that was built. In order to find the correct expression for this case, he proceeded to carry out the following calculations, which we must reproduce:
 (d)
-The mass sphere $m$ is displaced so that the thread forms a small
-angle $\alpha$ with respect to the line $\overline{oc}$. Draw an isolated body diagram for the
-mass $m$, qualitatively mapping all vectors of the forces acting
-about her.
+The small sphere of mass $m$ is displaced, so that the thread forms a small angle $\alpha$ with respect to the line $\overline{oc}$. Draw a free-body diagram for the mass $m$, qualitatively tracing all the force vectors acting on it.
 (e)
-In the situation of the previous item, write the analytical expression for the
-The intensity of the force of attraction between the spheres.
-(f) Using the diagram in Schedule (B) of the figure, break down the vectors
-Strength in components along the direction of the wire (centripet component)
+In the situation of the previous item, write the analytical expression for the magnitude of the attractive force between the spheres.
+(f) Using the diagram in scheme (B) of the figure, decompose the force vectors into components along the direction of the thread (centripetal component)
 and perpendicular to it (tangential component).
 (g)
-Write Newton's second law corresponding to the direction of the thread and a
-tangential direction, using the components calculated in the previous item.
+Write Newton's second law corresponding to the direction of the thread and to the tangential direction, using the components calculated in the previous item.
 (h)
-The tangential acceleration, $a$, is related to the
-angular acceleration, $\gamma$, according to $a = l \gamma$, write Newton's second law
-corresponding to the tangential direction for small oscillations of the pendulum;
-i.e. in the first order (or linear) at the angle $\alpha$.
-(i) Write the expression for the angular frequency of small oscillations of the
-The weightless pendulum.
-(j) Calculate the resulting numerical value for the period of the pendulum, in the case of
-It's a particular one built by astronauts.
-(k) From the expression of the angular frequency calculated in item (i), what
-condition must be met between $R$ and $L$ to obtain the result
-calculated in item (c)?
-(l) From the expression of the angular frequency calculated in item (i), analyse the
-as is the angular frequency dependence in the limit case in which
+Recalling that the tangential acceleration, $a$, is related to the angular acceleration, $\gamma$, according to $a = l \gamma$, write Newton's second law corresponding to the tangential direction for small oscillations of the pendulum;
+that is, to first order (or linear) in the angle $\alpha$.
+(i) Write the expression for the angular frequency of small oscillations of the weightless pendulum.
+(j) Calculate the resulting numerical value for the period of the pendulum, in the particular case built by the astronauts.
+(k) From the expression for the angular frequency calculated in item (i), what condition must be satisfied between the values of $R$ and $L$ to obtain the result calculated in item (c)?
+(l) From the expression for the angular frequency calculated in item (i), analyze how the angular frequency depends in the limiting case in which
 $l \gg R$.
 
 Useful information:
 (1)
 The Coulomb constant is
-$k = (4\pi\varepsilon_0)^{-1}$, where $\varepsilon_0$ is the constant
-The vacuum dielectric. So, this is it.
+$k = (4\pi\varepsilon_0)^{-1}$, where $\varepsilon_0$ is the dielectric constant of vacuum. Thus,
 $k = 9 \times 10^9\ \text{N m}^2/\text{C}^2$.
 (2)
 The following trigonometric relations are always valid:
@@ -969,22 +864,19 @@ $$\text{sen}(\alpha + \beta) = \text{sen}(\alpha)\cos(\beta) + \cos(\alpha)\,\te
 $$\cos(\theta) = \sqrt{1 - \text{sen}^2(\theta)}.$$
 
 (3)
-Using trigonometric relations in the diagram of the scheme (B) of the
-Figure, it is:
+Using trigonometric relations in the diagram of scheme (B) of the figure, it follows that:
 
 $$\text{sen}(\alpha) = h/l,$$
 
 $$\text{sen}(\beta) = h/r.$$
 
 (4)
-Using the cosine theorem in the diagram of the diagram (B) of the figure,
-The result is:
+Using the law of cosines in the diagram of scheme (B) of the figure, it follows that:
 
 $$r^2 = l^2 + (l + R)^2 - 2l(l + R)\cos(\alpha).$$
 
 (5)
-If the angle $\theta$ is small, and is expressed in radians, the
-the following approaches:
+If the angle $\theta$ is small, and is expressed in radians, the following approximations are valid:
 
 $$\text{sen}(\theta) \approx \theta, \qquad \cos(\theta) \approx 1 - \theta^2/2.$$
 
@@ -994,13 +886,8 @@ If $x \ll 1$, then the following approximation is valid:
 $$\sqrt{1 - x^2} \approx 1 - x^2/2.$$
 
 (7)
-The motion equation of a pendulum for small oscillations, is
-say in first order (or linear) at the angle $\alpha$, is
+The equation of motion of a pendulum for small oscillations, that is, to first order (or linear) in the angle $\alpha$, is
 
 $$\gamma = \omega^2 \alpha.$$
 
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
+

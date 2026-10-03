@@ -6603,81 +6603,42 @@ Codice di calcio = 0,2 cal/g°C
 
 <div class="qlang-split" data-lang="en"></div>
 
-The lamp is equipped with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp and a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp with a lamp
+**The lava lamp**
 
-PT6. The technical school ORT Nro. 2 
-City of Buenos Aires. 
- 
+PT6. Escuela Técnica ORT Nro. 2
+City of Buenos Aires.
+
 The Lava Lamp
-A lava lamp is a lovely decorative lighting device where
-There are several physical laws at play. When fully operational it is 
-You see lava bubbles rising and falling inside the lamp in a beautiful way.
-dance. The key to this device is the ingredients that are placed in the
-inside the bottle that forms the lamp. It is necessary to use paraffin and water.
-It has densities very close to each other. The bottle is warming up.
-below with a light bulb, which in addition to heat provides lighting. 
+A lava lamp is a nice decorative lighting device in which several physical laws come into play. When it is in full operation, bubbles of lava are seen rising and falling inside the lamp in a beautiful dance. The key to this device is the ingredients that are placed inside the bottle that forms the lamp. It is necessary that the paraffin and the water it contains have very close densities. The bottle is heated from below with a small lamp, which in addition to heat provides the lighting.
 
- 
-The following is the list of the Member States' financial statements:
-Let's see how it works. The bottle is glass and contains 254.25g of paraffin and
-750g of water. The base has an interior area of 25cm2, and the walls a 
-thickness of 2 mm. It's full at 95% capacity. 
-Use the diagram in the figure to see the distribution of water and paraffin. 
-(a) What is the glass mass of the bottle? What is the height of the 
-the water column inside? 
-When the ingredients are heated, the paraffin density decreases, which causes the
-It allows it to float. It's going to burn to 20 degrees. The density of the water does not change.
-appreciably at these temperatures. 
-(b) What volume should paraffin acquire to start?
-float and what is its initial volume? 
-To reduce its density, paraffin dilates by increasing its density.
-volume of the device. This does it only in liquid state, having a melting point of 
-40ºC. 
-(c) At what temperature does the volume required to float attain? 
-The final working state of the lamp is when the paraffin acquires a
-The temperature is 60°C. Suppose the water column has a gradient.
-Linear thermal ranging from paraffin temperature at the bottom and 40oC upwards 
-of everything. 
-(d) What is the amount of heat that needed to be supplied to the bottle?
-to get to this point? To simplify, we assume that all the
-glass reaches 
-a constant temperature at the midpoint between paraffin and
-the ambient temperature. At this point, the lava ball (liquid paraffin to 
-60°C) comes off the bottom and starts to rise. We assume that it does not vary 
-temperature until it reaches the top of everything and after 5 seconds it gets back to 40oC
-And only then does it start to go down, also keeping that.
-The temperature. 
-(e) How long does it take to climb and
-- Get down there? 
-The power supplied by the lamp is 
-The energy efficiency of the system is 40W and 80% of the energy is used.
-energy consumed. 
-(f) How long does it take to get the lamp to 
-Full operation? 
- 
-Data: 1J = 0.24cal 
-The following table shows the results of the studies:
-water = 1 g/cm3 
-g = 9.82m/s2       
-The following is the list of the following:
-glass = 8 g/cm3 
-The amount of the product shall be calculated in accordance with the following formula:
-paraffin at 20oC = 1,017 g/cm3 
-The following table shows the results of the studies:
-paraffin liq = 6.2. 10-4 1/ºC      
-The following table shows the results of the calculation of the weighted average weight of the product:
 
+OAF 2014 - 47
+Let's see how it works. The bottle is made of glass and contains 254.25 g of paraffin and
+750 g of water. The base has an interior area of 25 cm2, and the walls have a thickness of 2 mm. It is filled to 95% of its capacity.
+Use the diagram in the figure to see the distribution of water and paraffin.
+a) What is the mass of the glass of the bottle? What is the height of the water column inside it?
+When the ingredients are heated, the density of the paraffin decreases, which allows it to float. It is lit at 20ºC. The density of water does not change appreciably at these temperatures.
+b) What is the volume that the paraffin must acquire to begin to float and what is its initial volume?
+To manage to decrease its density, the paraffin expands by increasing its volume. It does this only in the liquid state, having a melting point of
+40ºC.
+c) At what temperature does it achieve the volume necessary to float?
+The final working state of the lamp is when the paraffin reaches a temperature of 60ºC. We assume that the water column has a linear thermal gradient that goes from the temperature of the paraffin at the bottom to 40ºC at the very top.
+d) What is the amount of heat that had to be supplied to the bottle to reach this situation? To simplify, we assume that all the glass reaches a constant temperature at the midpoint between that of the paraffin and room temperature. Once this point is reached, the lava ball (liquid paraffin at
+60ºC) detaches from the bottom and begins to rise. We assume that the temperature does not change until it reaches the top and that after 5 s it again has 40ºC and only at that moment does it begin to descend also maintaining that temperature.
+e) How long does it take to rise and fall?
+The power supplied by the small lamp is 40W and 80% of the energy consumed is used.
+f) How long does it take for the lamp to reach full operation?
+
+Data: 1J = 0.24cal
+Lfusion paraffin = 34 cal/g
+water = 1 g/cm3 g = 9.82m/s2 cwater = 1Cal/g°C
+glass = 8 g/cm3 cliquid paraffin = 0.55 cal/g°C
+paraffin at 20ºC = 1.017 g/cm3 csolid paraffin = 0.52 cal/g°C
+liquid paraffin= 6.2. 10-4 1/ºC cglass = 0.2 cal/g°C
 
 <!--fig:start-->
 ![[cuadernillo_2014_p47_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1U2wmejf2JxAe7MVlFioD3q2SzgaD8bdV/view)
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Argent 2014 Locale — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono,object/block"></span>
@@ -28455,95 +28416,65 @@ aceptada, analizar las posibles causas de tal discrepancia.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Meccanica equivalente al calore (Joule) **
+**Equivalente meccanico del calore (Joule)**
 
-PE28. Scuola nazionale Ernesto sabato 
- 
-Scuola Tomás Landivar 
- 
-Scuola Sagrada Familia
- 
-Tandil, Buenos Aires. 
- 
-Obiettivo: 
-Studiare la relazione tra lavoro elettrico e calore. Determinare 
-Quantitativamente il rapporto tra Joule e calorie. Uno studio sperimentale di un 
-caloriometro di miscele. 
+PE28.  Escuela Nacional Ernesto Sábato
+
+  Colegio Tomás Landivar
+
+  Colegio Sagrada Familia
+
+  Tandil, Buenos Aires.
+
+Obiettivo:
+Studiare la relazione tra il lavoro elettrico e il calore. Determinare quantitativamente la relazione tra Joule e calorie. Studio sperimentale di un calorimetro a miscela.
 Breve descrizione 
-Il principio di conservazione dell'energia indica che se una determinata quantità di 
-L'energia (non importa il tipo) si trasforma completamente in calore, variazione 
-La quantità di energia termico risultante deve essere equivalente alla quantità di energia 
-- Conceduto. Questa esperienza si propone di dimostrare l'equivalenza tra
-L'energia che viene fornita a un sistema e il calore che viene convertito.
-Misurando in Joules e calorie calore, ci proponiamo anche di trovare la
-equivalenza tra queste unità. Il rapporto quantitativo tra Joules e 
-Calorie è chiamato Je, equivalente elettrico (o meccanico) del calore. 
+Il principio di conservazione dell'energia indica che se una data quantità di energia (non importa il tipo) si trasforma completamente in calore, la variazione dell'energia termica risultante deve essere equivalente alla quantità di energia fornita. In questo esperimento si cerca di dimostrare l'equivalenza tra l'energia fornita a un sistema e il calore in cui si converte. Se l'energia si misura in Joule e il calore in calorie, ci proponiamo anche di trovare l'equivalenza tra queste unità. La relazione quantitativa tra Joule e calorie si chiama, Je, equivalente elettrico (o meccanico) del calore.
 Equivalente elettrico del calore 
-Il principio dell'esperimento consiste nel fornire energia elettrica a un
-conduttore (resistenza elettrica) circondato da acqua all'interno di un calometro, e 
-La temperatura di questo sistema è stata misurata. Come la potenza elettrica consegnata a un 
-sistema viene dato da, 
-P = i.V 
-Dove,
-i= corrente [Ampère] 
-V = differenza di potenziale [Volt] 
-P = potenza [ Ampere . Volt = Watt = Joule / secondo) 
-L'energia fornita alla resistenza in un tempo texp sarà: 
-L' elettrico = P. texp 
-Dove supponiamo che I e V siano quasi costanti.
-Se esprimete l'energia elettrica elettrica in Joules possiamo dedurre il
-valore necessario per generare una caloria. Quanti calorie sono state consegnate al 
-L'acqua viene calcolata attraverso la misurazione della variazione di temperatura T della 
-la stessa e la sua massa (magua) 
-per: 
-Q = acqua. Magia . ∆𝑇 
-Se supponiamo che tutta l'energia elettrica consegnata si trasformi in calore,
-Possiamo scrivere l'uguaglianza
-L'elettrico J = equivalente. Q(cal) 
-Consigna
-Completare il termo con acqua a temperatura ambiente. Misurare la temperatura
-ambiente T1 dell'acqua nel termico. 
-Mettete il riscaldatore in acqua, lasciando il termometro immerso. 
-Collegare il riscaldatore a un circuito con un paio di multimetro, in modo che sia possibile 
-misurare corrente e tensione contemporaneamente. In caso di avere un solo multimetro
-Si può misurare la tensione all'inizio e poi lasciarla connessa per misurare.
-corrente. 
-Connettere il circuito al 220 V di linea al tempo stesso di iniziare a
-per misurare il tempo in cui inizia il riscaldamento dell'acqua. 
-Elementi che possono risultare utili: 
-- Un termo. 
- Un termometro di mercurio o sensore di temperatura (termopulsa) 
-collegato a un multimetro che può essere misurato nel range 0-100°C. 
+Il principio dell'esperimento consiste nel fornire energia elettrica a un conduttore (resistenza elettrica) circondato da acqua all'interno di un calorimetro, e nel misurare il calore sviluppato in esso. Poiché la potenza elettrica fornita a un sistema è data da,
+P = i.V
+Dove, i= corrente [Ampère]
+V= differenza di potenziale [Volt]
+P = potenza [Ampère . Volt = Watt = Joule / secondo)]
+L'energia fornita alla resistenza in un tempo texp, sarà:
+𝑊𝑒𝑙é𝑐𝑡𝑟𝑖𝑐𝑜= 𝑃 . 𝑡𝑒𝑥𝑝
+Dove supponiamo che I e V rimangano approssimativamente costanti 
+Se esprimiamo l'energia elettrica Weléctrico in Joule possiamo dedurre il valore richiesto per generare una caloria. La quantità di calorie cedute all'acqua si calcola attraverso la misurazione della variazione di temperatura T della stessa e della sua massa (magua)
+mediante:
+𝑄= 𝑐𝑎𝑔𝑢𝑎. 𝑚𝑎𝑔𝑢𝑎 . ∆𝑇
+Se supponiamo che tutta l'energia elettrica fornita si converta in calore, possiamo scrivere l'uguaglianza
+𝑊𝑒𝑙é𝑐𝑡𝑟𝑖𝑐𝑜 𝐽 = 𝐽𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒. 𝑄(𝑐𝑎𝑙)
+Consegna
+Riempire il thermos con acqua a temperatura ambiente. Misurare la temperatura ambiente T1 dell'acqua nel thermos.
+Collocare il riscaldatore nell'acqua, lasciando il termometro immerso. 
+Collegare il riscaldatore a un circuito con un paio di multimetri, in modo tale che si possa misurare corrente e tensione allo stesso tempo. Nel caso si abbia un solo multimetro si può misurare la tensione all'inizio e poi lasciarlo collegato per misurare la corrente.
+Collegare il circuito ai 220 V di linea nello stesso momento in cui si inizia a misurare il tempo in cui inizia il riscaldamento dell'acqua.
+Elementi che possono risultare utili:
+ Un thermos.
+ Un termometro a mercurio o sensore di temperatura (termocoppia)
+collegato a un multimetro che possano misurare nel range 0-100°C. 
 
  
 OAF 2014 - 155
- Una bilancia (o un modo di misurare il volume). 
-• Un cronometro. 
-Suggerimenti 
-a) di volta in volta, che deve essere scelto correttamente, 
-disattivare il riscaldatore e misurare la temperatura raggiunta nell'acqua. 
-Ripetere questo passo sommando i tempi di ogni intervallo. 
-b) Usando i valori di maguay cagua, Calculare elettrico e Q. 
-c) Infine, rappresenta graficamente il T misurato per ogni intervallo 
-- per il testo. 
-Secondo le equazioni precedenti, la pendenza della retta che otterrebbe sarebbe: 
-L'equivalente = 
-Pellec
-- No , no , no . magua
-= 
+ Una bilancia (o una forma di misurare il volume).
+ Un cronometro.
+Suggerimenti
+a) Ogni certo intervallo di tempo, che dovrà essere scelto adeguatamente, disconnettere il riscaldatore e misurare la temperatura raggiunta nell'acqua.
+Ripetere questo passo sommando i tempi di ciascun intervallo.
+b) Usando i valori di magua e cagua, Calcolare Weléctrico e Q.
+c) Infine, rappresentare graficamente il T misurato per ciascun intervallo texp,         in funzione di texp.
+Secondo le equazioni precedenti, la pendenza della retta che si otterrebbe sarebbe:
+𝐽𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒=
+𝑃𝑒𝑙𝑒𝑐
+𝑐𝑎𝑔𝑢𝑎 . 𝑚𝑎𝑔𝑢𝑎
+=
 𝐼 . 𝑉
-- No , no , no . magua
+𝑐𝑎𝑔𝑢𝑎 . 𝑚𝑎𝑔𝑢𝑎
  
  
-Compare il risultato con il valore accettato Je=4.186J/cal 
-Nota: Se vi fosse una discrepanza significativa tra il valore sperimentale e il valore di
-La Commissione ha adottato una decisione che prevede che il Consiglio di Stato, se ne ha accettato, debba analizzare le possibili cause di tale discrepanza.
+Confrontare il risultato con il valore accettato Je=4.186J/cal
+Nota: Se ci fosse una discrepanza significativa tra il valore sperimentale e quello accettato, analizzare le possibili cause di tale discrepanza.
 
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1U2wmejf2JxAe7MVlFioD3q2SzgaD8bdV/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

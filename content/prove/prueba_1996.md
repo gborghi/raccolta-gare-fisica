@@ -80,34 +80,15 @@ Nota: Considera l'accelerazione della gravità, $g$, pari a $9{,}8\ \text{m/s}^2
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: "A race of regularity"
+Problem 1: "A regularity race"
 
-The owner of a small vehicle, $500\ \vec{\text{kg}}$ in weight, decides to participate in a rally of
-The Commission is not concerned. The test regulations require that the speed of the vehicles on the pavement be
-It shall be kept constant and equal to 80 km/h. A section of track where the
-Competition, seen from the air, is shown in Figure 1. In one of its straight sections the track
-has a ramp of 10 m length and a slope of $6^\circ$ with respect to the horizontal (segment ab in Figure 2). Immediately after that ramp there is a very deep swamp of 15 m of
-long and wide of the track. (section b-c in Figure 2).
+The owner of a small vehicle, weighing $500\ \vec{\text{kg}}$, decides to take part in a regularity rally. The rules of the event require that the speed of the vehicles on the road must be kept constant and equal to 80 km/h. A section of the track on which the competition takes place, seen from the air, is shown in figure 1. In one of its straight sections the track has a ramp 10 m long and with an inclination of $6^\circ$ with respect to the horizontal (segment ab in figure 2). Immediately after that ramp there is a very deep swamp 15 m long and as wide as the whole track. (segment b-c in figure 2).
 
-1. What additional force must be imparted to the vehicle (through the engine mechanism)
-The transmission shall be capable of operating at a speed of 80 km/h throughout the whole journey (ab).
-2. Given the conditions imposed by the regulation, will the vehicle be able to jump from one side to the other?
-Another one from the swamp? Justify your answer.
-3. Before finding the ramp and the swamp, the driver must pass through the curve
-The following is shown in Figure 1. This curve is circular with internal radius $r_1 = 60$ m and radius
-externo $r_2 = 70$ m. Knowing that the static friction coefficient between the tyres
-the car and the pavement is $\mu = 0.8$ and assuming the driver takes the corner
-If the radius of the circle is less than the radius of the circle, the radius of the circle is less than the radius of the circle.
-The vehicle doesn't crash?
+1. What additional force must be imparted to the vehicle (through the engine-transmission mechanism) so that its speed is maintained at 80 km/h along the entire section (ab)?
+2. Given the conditions imposed by the rules, will the vehicle manage to jump from one side of the swamp to the other? Justify your answer.
+3. Before encountering the ramp and the swamp, the driver must go through the curve shown in figure 1. This curve is circular in shape with inner radius $r_1 = 60$ m and outer radius $r_2 = 70$ m. Knowing that the coefficient of static friction between the car's tires and the road is $\mu = 0.8$ and assuming that the driver will take the curve following a circular path, what is the minimum radius of that circumference so that the vehicle does not skid?
 
-Note: Consider the acceleration of gravity, $g$, equal to $9{,}8\ \text{m/s}^2$.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1UZ2TZGXw5CCZZXg9O2smDDJcERQkNOtZ/view)
-
+Note: Take the acceleration due to gravity, $g$, to be equal to $9{,}8\ \text{m/s}^2$.
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Argent 1996 — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,object/gas,object/cylinder,object/piston"></span>

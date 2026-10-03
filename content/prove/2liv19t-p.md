@@ -247,48 +247,26 @@ indicati con $dT$ e $dt$. Analogamente più avanti si userà la notazione $dQ$
 
 P3
 Heat transfer
-The Commission shall adopt implementing acts in accordance with Article 22 of this Regulation.
-An electric heater shall deliver a power of $P_0 = 150\ \text{W}$. All’istante $t = 0$ esso viene inserito in
-a container containing a mixture of liquid water and ice, at $0\ ^\circ\text{C}$ and at standard pressure;
-The total mass of the mixture is $m_0$ and the initial ice mass $M$.
-The mixture is mixed so that its temperature $T$ is always uniform throughout its mass.
-ATTENTION: in this problem the temperatures are all expressed in $^\circ\text{C}$; they are written with the capital $T$ to distinguish them from the
-tempi ($t$ minuscola). It is recommended that you pay attention to this
-The problem is that the solution is written.
-The system consisting of the mixture with the heater immersed shall initially be assumed to be heat-exchange-free.
-with the external environment, considering that both the thermal capacity of the container and the quantity of water are negligible
-Evaporated before boiling.
-1. Determine, according to $P_0$, $M$, $m_0$ and the necessary constants, the instant $t_0$ in which the ice has melted
-completamente e la successiva variazione di temperatura della miscela $dT$ nel tempo $dt$ (∗). Tracing a
-Qualitative graph of the temperature trend of the mixture $T$ over time $t$, starting from the current $t = 0$
-until boiling, indicating on it the values above: $t_0$, $dT$ and $dt$.
-If the system exchanges heat with the external environment, the temperature change $T$ of the mixture, in
-The time function $t$ is the one shown in the graph attached.
-The heat dispersed outside per unit time is assumed to be proportional to the difference in
-The temperature between the mixture and the external environment, $dQ/dt = \alpha(T - T_a)$, where $T$ is still the temperature of the mixture.
-Mix, $T_a$ is the temperature of the environment and $\alpha$ is a temperature independent parameter. It is assumed that
-the ambient temperature is constant and $T_a = 0\ ^\circ\text{C}$, so that it is more easily
-$$\frac{dQ}{dt} = \alpha T \,,$$
-with $T$ always expressed in $^\circ\text{C}$.
-Considering that both the thermal capacity of the vessel and the amount of water evaporated are still negligible
-Before boiling, answer the following questions by drawing the necessary data from the graph $T(t)$.
+22 points
+An electric heater delivers a power $P_0 = 150\ \text{W}$. At the instant $t = 0$ it is inserted into a container holding a mixture of liquid water and ice, at $0\ ^\circ\text{C}$ and at standard pressure;
+let $m_0$ be the initial mass of ice and $M$ the total mass of the mixture.
+The mixture is stirred in such a way that its temperature $T$ is always uniform throughout its mass.
+WARNING: in this problem the temperatures are all expressed in $^\circ\text{C}$; they are written with a capital $T$ to distinguish them from times (lowercase $t$). It is recommended to pay attention to this fact when writing the solution.
+Initially, assume that the system consisting of the mixture with the heater immersed in it does not exchange heat with the external environment, considering negligible both the heat capacity of the container and the amount of water evaporated before boiling.
+1. Determine, as a function of $P_0$, $M$, $m_0$ and of the necessary constants, the instant $t_0$ at which the ice has completely melted and the subsequent temperature variation of the mixture $dT$ over time $dt$ (∗). Draw a qualitative graph of the trend of the temperature $T$ of the mixture over time $t$, starting from the instant $t = 0$ up to boiling, indicating on it the quantities found above: $t_0$, $dT$ and $dt$.
+If instead the system exchanges heat with the external environment, the trend of the temperature $T$ of the mixture, as a function of time $t$, is the one represented in the attached graph.
+Assume that the heat lost to the outside per unit time is proportional to the temperature difference between the mixture and the external environment, $dQ/dt = \alpha(T - T_a)$, where $T$ is still the temperature of the mixture, $T_a$ is the temperature of the environment, and $\alpha$ is a parameter independent of temperature. Assume that the temperature of the environment is constant and equal to $T_a = 0\ ^\circ\text{C}$, so that it more simply becomes
+$$\frac{dQ}{dt} = \alpha T \,,$$ with $T$ always expressed in $^\circ\text{C}$.
+Still considering both the heat capacity of the container and the amount of water that evaporates before boiling to be negligible, answer the following questions, obtaining the necessary data from the graph $T(t)$.
 2. Determine the initial mass $m_0$ of the ice in the mixture.
 3. Determine the total mass $M$ of the mixture.
 4. Determine the parameter $\alpha$.
-5. Determine the maximum heat output $P_\text{max}$ so that the water does not boil.
-6. By maintaining the same values for masses and the coefficient $\alpha$, determine the time $t^\star$ at which it would start
-The boiling point of water if the power output from the electric heater is $P^\star = 425\ \text{W}$.
-The following table shows the results of the study:
-The Commission will also draw up a proposal for a directive on the approximation of the laws of the Member States relating to the use of the geometric construction.
-The following information is provided by the Commission to the Member States:
-The solution.
+5. Determine the maximum power $P_\text{max}$ of the heater, such that the water does not reach boiling.
+6. Keeping the same values for the masses and for the coefficient $\alpha$, determine the time $t^\star$ at which the boiling of the water would begin if the power emitted by the electric heater were $P^\star = 425\ \text{W}$.
+NOTE: The attached graph may be used to draw geometric constructions useful for obtaining the answers; it must therefore be handed in together with the solution sheets.
 (∗)
-Poiche ́ il rapporto $\Delta T/\Delta t$ in generale non è costante, il valore istantaneo si ottiene considerando intervalli sempre più piccoli,
-indicated by $dT$ and $dt$. Similarly, later the notation $dQ$ will be used.
+Since the ratio $\Delta T/\Delta t$ is in general not constant, the instantaneous value is obtained by considering ever smaller intervals, denoted by $dT$ and $dt$. Similarly, later on the notation $dQ$ will be used
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1-zZEfQphj9XPQfUE_A4rDwVHrJSIYCmQ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
+
+

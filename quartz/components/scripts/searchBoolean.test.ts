@@ -694,13 +694,13 @@ describe("v5: phrase = the phrase or its synonym phrases, nothing more", () => {
     assert.strictEqual(plan.mode, "boolean")
     return (await evaluateBoolean(plan.ast, c)).sort((a, b) => a - b)
   }
-  test("phrase: literal, synonym, keyword bag (whole words), same-concept metadata", async () =>
-    assert.deepStrictEqual(await run('"quantità di moto"'), [0, 1, 3, 5]))
+  test("phrase: literal + keyword bag; translations only where the words match too", async () =>
+    assert.deepStrictEqual(await run('"quantità di moto"'), [0, 5]))
   test("no prefix match for synonym phrases on keyword bags ('impuls' !~ 'impulsi')", async () =>
-    assert.ok(!(await run('"quantità di moto"')).includes(2)))
+    assert.ok(!(await run('"quantità di moto"')).includes(2), "doc 2"))
   test("a synonym inside a longer term of another concept does not count (angular momentum)", async () => {
-    assert.ok(!(await run('"quantità di moto"')).includes(4))
-    assert.deepStrictEqual(await run('"momento angolare"'), [4])
+    assert.deepStrictEqual(await run('"momentum"'), [0, 1, 3]) // not 4: Torque & Angular Momentum
+    assert.ok((await run("momentum")).includes(4), "typed word: plain prefix match in metadata")
   })
   test("phrase result is a subset of the union of its variants", async () => {
     const p = await run('"quantità di moto"')
@@ -712,18 +712,16 @@ describe("v5: phrase = the phrase or its synonym phrases, nothing more", () => {
   })
   test("space == AND: every spelling of the same words gives the same set", async () => {
     const ref = await run("quantità AND moto")
-    for (const q of ["quantità di moto", "quantità AND di AND moto", "(quantità moto)", "moto quantità AND di"]) {
+    for (const q of ["quantità di moto", "quantità AND di AND moto", "(quantità moto)", "moto quantità AND di", "(quantità) AND (moto)"]) {
       assert.deepStrictEqual(await run(q), ref, q)
     }
-    assert.deepStrictEqual(ref, [0, 1, 3, 5, 6]) // words AND-ed (0, 5, 6) + the term's synonyms (1, 3)
+    assert.deepStrictEqual(ref, [0, 5, 6]) // plain intersection, no term merging
   })
   test("a phrase is a subset of its words AND-ed", async () => {
     const and = new Set(await run("quantità moto"))
-    for (const q of ['"quantità di moto"', '"momentum"', '"moto"']) {
-      const p = await run(q)
-      if (q !== '"momentum"') assert.ok(p.every((id) => and.has(id)), `${q}: ${p} ⊄ ${[...and]}`)
-    }
-    assert.ok(!(await run('"quantità di moto"')).includes(6)) // words, not the phrase
+    const p = await run('"quantità di moto"')
+    assert.ok(p.every((id) => and.has(id)), `${p} ⊄ ${[...and]}`)
+    assert.ok(!p.includes(6), "words, not the phrase")
   })
   test("unquoted multi-word query: literal order ranks first", async () => {
     assert.strictEqual((await run("quantità di moto"))[0], 0)
@@ -735,14 +733,99 @@ describe("v5: phrase = the phrase or its synonym phrases, nothing more", () => {
     const and = sel("quantità AND moto")
     assert.deepStrictEqual(sel("quantità di moto"), and)
     assert.deepStrictEqual(sel("quantità AND di AND moto"), and)
-    assert.ok(sel('"quantità di moto"').every((i) => and.includes(i)))
-    assert.ok(and.includes(6) && !sel('"quantità di moto"').includes(6))
-    assert.ok(!and.includes(4)) // angular momentum
+    assert.ok(sel('"quantità di moto"').every((i) => and.includes(i)), "phrase ⊆ AND")
+    assert.ok(and.includes(6) && !sel('"quantità di moto"').includes(6), "doc 6")
   })
   test("row matcher: same synonym rule on metadata", () => {
     setSynonyms(SYN5)
-    const m = makeRowMatcher('"quantità di moto"')!
-    assert.ok(m("problema urto", { methods: "Conservation of Momentum" }))
-    assert.ok(!m("disco rotante", { methods: "Torque & Angular Momentum Analysis" }))
+    const m = makeRowMatcher('"momentum"')!
+    assert.strictEqual(m("problema urto", { methods: "Conservation of Momentum" }), true)
+    assert.strictEqual(m("disco rotante", { methods: "Torque & Angular Momentum Analysis" }), false)
+  })
+})
+
+// ---------------------------------------------------------------------------
+// v6: set invariants. A dictionary term that contains other words ("urto elastico" in
+// the "urto" group) must never turn an AND into a union.
+// ---------------------------------------------------------------------------
+describe("v6: AND/NOT/phrase invariants (overlay + in-page lists)", () => {
+  const SYN6 = [
+    { termini: ["urto", "collision", "urto elastico", "elastic collision", "urto anelastico"] },
+    { termini: ["elastico", "elastic"] },
+    { termini: ["triangolo", "triangle", "triangolo rettangolo", "right triangle"] },
+    { termini: ["rettangolo", "rectangle"] },
+    { termini: ["quantità di moto", "momentum"] },
+  ]
+  const D = [
+    { t: "urto elastico tra due sfere", m: "" }, // 0
+    { t: "urto anelastico con attrito", m: "" }, // 1
+    { t: "elastic collision of two carts", m: "" }, // 2
+    { t: "collision in one dimension", m: "Elastic Potential Energy" }, // 3
+    { t: "molla elastica compressa", m: "" }, // 4
+    { t: "triangolo rettangolo inscritto", m: "" }, // 5
+    { t: "area of a right triangle", m: "" }, // 6
+    { t: "rettangolo e cerchio", m: "" }, // 7
+    { t: "triangolo isoscele", m: "Triangle" }, // 8
+    { t: "the momentum is conserved", m: "Conservation of Momentum" }, // 9
+    { t: "moto di una quantità di gas", m: "" }, // 10
+  ]
+  const slugs = D.map((_, i) => `p#q${i}`)
+  const meta = new MetaIndex({ f: ["topics"], r: Object.fromEntries(D.map((d, i) => [slugs[i], [d.m]])) })
+  const toIds = (ss: string[] | null) => (ss === null ? null : ss.map((s) => slugs.indexOf(s)))
+  const c: EvalContext = {
+    async searchTerms(text) {
+      const ws = foldText(text).split(" ")
+      return D.map((d, id) => ({ id, toks: foldText(d.t).split(/[^a-z0-9]+/) }))
+        .filter(({ toks }) => ws.every((w) => toks.some((t) => t.startsWith(w))))
+        .map(({ id }) => id)
+    },
+    textOf: (id) => D[id]!.t,
+    allIds: () => D.map((_, i) => i),
+    expand: (t) => synonymAlternatives(t),
+    metaSearch: (t, a) => toIds(meta.matchAny(t, a))!,
+    fieldSearch: (f, v, a) => toIds(meta.matchField(f, v, a)),
+  }
+  const ov = async (q: string) => {
+    setSynonyms(SYN6)
+    const plan = planQuery(q) as any
+    assert.strictEqual(plan.mode, "boolean", q)
+    return new Set(await evaluateBoolean(plan.ast, c))
+  }
+  const rows = (q: string) => {
+    setSynonyms(SYN6)
+    const m = makeRowMatcher(q)!
+    return new Set(D.map((d, i) => (m(d.t, { topics: d.m }) ? i : -1)).filter((i) => i >= 0))
+  }
+  const sub = (a: Set<number>, b: Set<number>) => [...a].every((x) => b.has(x))
+  const eq = (a: Set<number>, b: Set<number>) => sub(a, b) && sub(b, a)
+  const PAIRS: [string, string][] = [
+    ["urto", "elastico"],
+    ["elastico", "urto"],
+    ["triangolo", "rettangolo"],
+    ["rettangolo", "triangolo"],
+    ["quantità", "moto"],
+    ["urto", "molla"],
+    ["triangolo", "cerchio"],
+  ]
+  for (const [name, sel] of [["overlay", ov], ["rows", async (q: string) => rows(q)]] as const) {
+    for (const [A, B] of PAIRS) {
+      test(`${name}: ${A} / ${B}`, async () => {
+        const a = await sel(A), b = await sel(B), ab = await sel(`${A} AND ${B}`)
+        const anb = await sel(`${A} NOT ${B}`), amb = await sel(`${A} -${B}`), mba = await sel(`-${B} ${A}`)
+        assert.ok(ab.size <= Math.min(a.size, b.size) && sub(ab, a) && sub(ab, b), `|A AND B| ${ab.size} > min(${a.size}, ${b.size})`)
+        assert.strictEqual(ab.size + anb.size, a.size, "|A AND B| + |A NOT B| = |A|")
+        assert.ok(eq(anb, amb) && eq(anb, mba), "NOT == - (any position)")
+        for (const q of [`${A} ${B}`, `${B} ${A}`, `(${A}) AND (${B})`, `(${A} ${B})`, `${B} AND ${A}`]) {
+          assert.ok(eq(await sel(q), ab), `${q} == ${A} AND ${B}`)
+        }
+        assert.ok(sub(await sel(`"${A} ${B}"`), ab), `"${A} ${B}" ⊆ AND`)
+      })
+    }
+  }
+  test("the urto case: AND intersects even though 'urto elastico' is in the urto group", async () => {
+    const ab = await ov("urto AND elastico")
+    // 0 literal, 2 via synonyms (collision + elastic), 3 collision + "Elastic" in metadata
+    assert.deepStrictEqual([...ab].sort((x, y) => x - y), [0, 2, 3])
+    assert.strictEqual((await ov("urto")).size, 4) // 0 1 2 3
   })
 })

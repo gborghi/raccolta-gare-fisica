@@ -9,6 +9,8 @@
 //  - sibling whose lang === the native lang    -> skipped, WARN naming the file (mergeSiblings)
 //    e.g. an IPhO original relabelled de -> en plus an __en sibling: zero en blocks.
 
+import { nfc } from "./vault-paths.mjs"
+
 export const newSiblingStats = () => ({ merged: 0, sameLang: 0, dupes: 0, noLang: 0 })
 
 const normLang = (l) =>
@@ -20,6 +22,7 @@ const normLang = (l) =>
 
 // siblings: Map(default-stem -> Map(lang -> {lang, body, mtime, rel}))
 export function addSibling(siblings, of, sib, stats, warn = console.warn) {
+  of = nfc(of) // keys are NFC: vault file names may be NFD (scripts/vault-paths.mjs)
   const lang = normLang(sib.lang)
   if (!lang) {
     if (stats) stats.noLang++
@@ -50,7 +53,7 @@ export function addSibling(siblings, of, sib, stats, warn = console.warn) {
 // counts/WARNs are not doubled by the SPA pass; pass null elsewhere.
 const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
 export function mergeSiblings(base, body, nativeLang, siblings, transform, stats = null, warn = console.warn) {
-  const byLang = siblings.get(base)
+  const byLang = siblings.get(nfc(base))
   if (!byLang || !byLang.size) return body
   const native = normLang(nativeLang) || "it"
   const sibs = []

@@ -168,79 +168,51 @@ Next, we consider some simple models of stars, where $\gamma$ can
 <div class="qlang-split" data-lang="it"></div>
 
 2024 USAPhO
-Instruzioni del procuratore
+Istruzioni per il sorvegliante
 1
-USA esame olimpiada di fisica
-Non distribuire questa pagina
-Instruzioni importanti per il supervisore degli esami
-• Questo esame è composto da due parti. Ogni parte ha tre domande e dura 90 minuti.
-• Per ogni studente, stampate una copia dell'esame e una copia delle foglie di risposta. Stampa
-Tutto è un lato, e non attaccare nulla. Dividere l'esame in istruzioni
-(pagine 23), domande della parte A (pagine 47) e domande della parte B (pagine 810). La pagina 11 è una
-pagina grafica, nel caso gli studenti desiderino usarla come pagina aggiuntiva per il problema B3.
-• Inizia dando agli studenti le istruzioni e tutti i fogli di risposta. Lasciate che gli studenti
-Leggere le istruzioni e compilare le informazioni sui fogli di risposta. - Potranno tenere il
-istruzioni per entrambe le parti dell'esame. Inoltre, dare agli studenti fogli bianchi di carta da usare come
-Scratch paper durante l'esame.
-• Gli studenti possono portare calcolatori, ma non possono usare matematica simbolica, programmazione o
-caratteristiche grafiche di tali calcolatori. Le calcolatrici non possono essere condivise e la loro memoria deve essere
-essere eliminati dai dati e dai programmi. Non è consentito utilizzare telefoni cellulari o altri dispositivi elettronici durante il
-l'esame o mentre i documenti sono presenti. Gli studenti non possono usare libri o altri riferimenti.
-• Per iniziare l'esame, raccogliere la politica di onestà firmata, dare agli studenti le domande della parte A e
-Per completare la parte A, si devono accedere 90 minuti. Non dare agli studenti la parte B durante questo periodo, anche se
-finiscono con il tempo che rimane. Alla fine dei 90 minuti, raccogliere le domande della parte A
-e le schede di risposta.
-• Date poi agli studenti una pausa di 5 a 10 minuti. Allora date loro le domande della parte B e lasciate che
-90 minuti per completare la parte B. Non lasciare che gli studenti tornino alla parte A.
-• Al termine dell'esame raccogliere tutto, comprese le domande, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni, le istruzioni e le istruzioni.
-- Le schede di risposta e la carta da graffio. Date loro la Certificazione del Codice d'Onore e raccogliete
-- Codici firmati. Gli studenti potrebbero non tenere le domande dell'esame.
-• Dopo l'esame, ordinare le schede di risposta di ciascun studente secondo il numero di pagina. Scanner ogni foglio di risposta,
-incluse quelle vuote. Tutti possono discutere le domande dopo il 3 aprile. Fino al 19 aprile,
-tenete tutte le schede di risposta nel caso le vostre scansioni siano perse o illeggibili.
-Riconosciamo le seguenti persone per i loro contributi all'esame di quest'anno (in ordine alfabetico):
-Tengiz Bibilashvili, Kellan Colburn, Natalie LeBaron, Rishab Parthasarathy, Elena Yudovina e Kevin
-Zhou.
+Esame della USA Physics Olympiad
+
+NON DISTRIBUIRE QUESTA PAGINA
+
+Istruzioni importanti per il responsabile d'esame
+• L’esame è composto da due parti. Ogni parte contiene tre domande e ha una durata di 90 minuti.
+• Per ogni studente, stampare una copia dell’esame e una copia dei fogli risposta. Stampare tutto in un solo lato del foglio, e non usare punti metallici per fissare i documenti. Dividere l’esame in: istruzioni (pagine 2–3), domande della Parte A (pagine 4–7) e domande della Parte B (pagine 8–10). La pagina 11 è un foglio con grafici, da fornire in caso lo studente voglia usarlo come pagina aggiuntiva per il problema B3.
+• Iniziare consegnando agli studenti le istruzioni e tutti i fogli risposta. Lasciare che gli studenti leggano le istruzioni e compilino i propri dati sui fogli risposta. Gli studenti possono tenere le istruzioni per entrambe le parti dell’esame. Inoltre, fornire agli studenti fogli di carta bianca da usare come spazio per i calcoli durante l’esame.
+• Gli studenti possono portare calcolatrici, ma non devono usare funzioni di algebra simbolica, programmazione o grafica. Le calcolatrici non possono essere condivise e il loro memoria deve essere cancellata da dati e programmi. I cellulari o altri dispositivi elettronici non possono essere usati durante l’esame, né quando i fogli della prova sono presenti. Gli studenti non possono usare libri o altri riferimenti.
+• Per iniziare l'esame, ritirare il modulo firmato del Codice di Onestà, consegnare agli studenti le domande della Parte A e concedere 90 minuti per completare la Parte A. Non consegnare agli studenti la Parte B durante questo periodo, anche se terminano con del tempo rimanente. Al termine dei 90 minuti, raccogliere le domande della Parte A e i fogli delle risposte.
+• Successivamente, concedere una pausa di 5 a 10 minuti. Poi consegnare agli studenti le domande della Parte B e concedere 90 minuti per completarla. Non permettere agli studenti di tornare alla Parte A.
+• Al termine dell'esame, raccogliere tutto: le domande, le istruzioni, i fogli delle risposte e la carta da scarto. Consegnare il modulo di dichiarazione del Codice d'Onore e raccogliere i moduli firmati. Gli studenti non possono tenere le domande dell'esame.
+• Dopo l'esame, ordinare i fogli delle risposte di ogni studente in base al numero di pagina. Scansionare ogni foglio delle risposte, compresi quelli vuoti. Dopo il 3 aprile, tutti possono discutere le domande. Fino al 19 aprile, conservare tutti i fogli delle risposte nel caso in cui le scansioni risultino perse o illeggibili.
+
+Riconosciamo il contributo delle seguenti persone all'esame di quest'anno (in ordine alfabetico):
+Tengiz Bibilashvili, Kellan Colburn, Natalie LeBaron, Rishab Parthasarathy, Elena Yudovina e Kevin Zhou.
+
 Copyright ©2024 American Association of Physics Teachers
 
 2024 USAPhO
-Instruzioni per gli studenti
+Istruzioni per lo studente
 2
-USA esame olimpiada di fisica
-Instruzioni per lo studente
-• Si consiglia di ricevere queste istruzioni, la tabella di riferimento sulla pagina successiva, le schede di risposta e
-carta bianca per il lavoro di graffio. Leggi attentamente questa pagina prima che l'esame inizi.
-• Si può usare una calcolatrice, ma la sua memoria deve essere cancellata da dati e programmi, e si può
-non utilizzare caratteristiche simboliche di matematica, programmazione o grafica. I calcolatori non possono essere condivisi.
-Non è consentito utilizzare cellulari o altri dispositivi elettronici durante l'esame o durante le prove
-sono presenti. Non è consentito utilizzare libri o altri riferimenti esterni.
-• Quando l'esame inizia, il tuo procuratore ti darà le domande della Parte A. - Lo avrai
-90 minuti per completare tre problemi. Ogni domanda vale 25 punti, ma non sono
-La Commissione ha adottato una decisione che non può essere adottata. Se finisci tutte le domande, puoi controllare il tuo lavoro.
-Ma non potete guardare la parte B durante questo periodo.
-• Dopo 90 minuti, il vostro procuratore raccoglierà le domande e le schede di risposta per la parte A. Tu...
-- si può fare una breve pausa.
-• Poi lavorerete alla Parte B. Hai 90 minuti per completare tre problemi. Ogni domanda
-vale 25 punti. Non guardare la parte A durante questo periodo. Quando l'esame finisce, devi
-restituire al procuratore tutti i documenti, comprese le domande di esame.
-• Non discutete le domande di questo esame, o le loro soluzioni, fino al 4 aprile.
-Le violazioni di questa regola possono comportare la disqualificazione.
-Qui di seguito sono riportate le istruzioni per scrivere le soluzioni.
-• Tutte le vostre soluzioni devono essere scritte sulle schede ufficiali di risposta. Niente fuori di questi
-Le schede di risposta saranno valutate. Prima che inizi l'esame, scrivi il tuo nome, studente AAPT
-Numero di risposta e numero AAPT del procuratore, come indicato nelle schede di risposta.
-• Ci sono diversi fogli di risposta per ogni problema. Se ti manca spazio per un problema, puoi
-utilizzare le schede di risposta supplementari, che si trovano alla fine del pacchetto di schede di risposta. Per garantire che
-La valutazione del lavoro è stata effettuata, deve indicare, in basso, della sua ultima scheda di risposta per quel problema,
-che stai usando questi fogli di risposta extra.
-• Scrivere solo nel quadro di ciascuna scheda di risposta. Per semplificare la classificazione, si consiglia di disegnare
-una scatola intorno alla tua risposta finale per ogni sottoparte. Dovresti organizzare il tuo lavoro in modo lineare
-e spiegare brevemente il tuo ragionamento, che ti aiuterà a guadagnare un credito parziale. Potete usare
-penna o matita, ma si consiglia di scrivere chiaramente in modo che il lavoro sia leggibile dopo la scansione.
+Esame della USA Physics Olympiad
+Istruzioni per lo studente
+• Riceverai queste istruzioni, la tabella di riferimento nella pagina successiva, i fogli risposta e carta bianca per gli appunti. Leggi con attenzione questa pagina prima che l'esame abbia inizio.
+• Puoi usare una calcolatrice, ma la sua memoria deve essere cancellata da dati e programmi, e non puoi usare funzioni di algebra simbolica, programmazione o grafica. Le calcolatrici non possono essere condivise.
+I telefoni cellulari o altri dispositivi elettronici non possono essere usati durante l'esame o finché i fogli dell’esame sono presenti. Non puoi usare libri o altre fonti esterne.
+• Quando l’esame inizia, il sorvegliante ti fornirà le domande della Parte A. Avrai 90 minuti per completare tre problemi. Ogni domanda vale 25 punti, ma non sono necessariamente di uguale difficoltà. Se termini tutti i problemi, puoi controllare il tuo lavoro, ma non devi guardare la Parte B durante questo tempo.
+• Dopo 90 minuti, il sorvegliante raccoglierà le domande e i fogli risposta della Parte A. Puoi poi fare una breve pausa.
+• Successivamente lavorerai sulla Parte B. Hai 90 minuti per completare tre problemi. Ogni domanda vale 25 punti. Non devi guardare la Parte A durante questo tempo. Quando l’esame termina, devi restituire tutti i fogli al sorvegliante, comprese le domande dell’esame.
+• Non discutere le domande di questo esame, o le loro soluzioni, fino al 4 aprile.
+La violazione di questa regola può comportare la squalifica.
+Di seguito trovi le istruzioni per scrivere le tue soluzioni.
+• Tutte le tue soluzioni devono essere scritte sui fogli di risposta ufficiali. Nulla al di fuori di questi fogli sarà valutato. Prima dell'inizio della prova, scrivi il tuo nome, il numero di studente AAPT e il numero del responsabile AAPT come indicato sui fogli di risposta.
+
+• Per ogni problema sono disponibili diversi fogli di risposta. Se ti viene meno lo spazio per un problema, puoi utilizzare i fogli aggiuntivi che si trovano alla fine del pacco di fogli di risposta. Per garantire che questo lavoro venga corretto, devi indicare in fondo all'ultimo foglio di risposta per quel problema che stai utilizzando i fogli aggiuntivi.
+
+• Scrivi solo all'interno del riquadro di ciascun foglio di risposta. Per semplificare la correzione, ti consigliamo di disegnare un quadrato intorno alla tua risposta finale per ciascuna sottosezione. Organizza il tuo lavoro in modo lineare e spiega brevemente le tue ragioni, il che ti aiuterà a ottenere punteggio parziale. Puoi usare penna o matita, ma assicurati di scrivere in modo chiaro perché il tuo lavoro deve essere leggibile dopo la scansione.
+
 Copyright ©2024 American Association of Physics Teachers
 
 2024 USAPhO
-Instruzioni per gli studenti
+Istruzioni per lo studente
 3
 Costanti fondamentali
 $g = 9.8\ \text{N/kg}$
@@ -256,58 +228,53 @@ $e = 1.602\times10^{-19}\ \text{C}$
 $1\ \text{eV} = 1.602\times10^{-19}\ \text{J}$
 $h = 6.63\times10^{-34}\ \text{J}\cdot\text{s} = 4.14\times10^{-15}\ \text{eV}\cdot\text{s}$
 $m_e = 9.109\times10^{-31}\ \text{kg} = 0.511\ \text{MeV/c}^2$
-Approximativi utili
+Approssimazioni utili
 $(1 + x)^n \approx 1 + nx + n(n-1)x^2/2$ per $|nx| \ll 1$
 $e^x \approx 1 + x + x^2/2 + x^3/6$ per $|x| \ll 1$
 $\sin\theta \approx \theta - \theta^3/6$ per $|\theta| \ll 1$
 $\cos\theta \approx 1 - \theta^2/2$ per $|\theta| \ll 1$
 Puoi usare questo foglio per entrambe le parti dell'esame.
-Fino alla fine delle istruzioni per lo studente
-Non aprire questa prova finché non ti viene detto di iniziare
+
+Fine delle istruzioni per lo studente
+NON APRIRE QUESTA PROVA FINCHÉ NON TI VIENE DETTO DI INIZIARE
 Copyright ©2024 American Association of Physics Teachers
 
 2024 USAPhO
 Parte A
 4
 Parte A
-Domanda A1
+Quesito A1
 Ping Pong
-Un filo sottile di resistenza trascurabile e di lunghezza totale $D$ è rotto per formare un solenoide cilindrico sottile
-di lunghezza $\ell \ll D$. Una sfera conduttrice di raggio $R \ll \ell$ è attaccata a ciascuna estremità del solenoide.
-Inizialmente non c'è corrente nel filo, e le sfere hanno cariche $Q$ e $-Q$. - Date tutto il vostro
-risposte in termini di $R$, $\ell$, $D$ e velocità di luce $c = 1/\sqrt{\mu_0\epsilon_0}$.
-a. Supponiamo che questo sistema possa essere modellato come un circuito LC. Qual è la frequenza angolare del suo
-oscillazioni?
-Questo sistema perde energia perché emette radiazioni elettromagnetiche. Considerate un dipolo elettrico
-composto da cariche $\pm q_0\cos(\omega t)$ separate da distanza $d$, il cui momento diopole oscilla con
-amplitudine $p_0 = q_0 d$. Se $d$ è molto più piccolo della lunghezza d'onda $\lambda$ della radiazione prodotta, allora
-può essere dimostrato che la potenza irradiata è approssimativamente (cioè fino a un fattore senza dimensioni di ordine unico)
+
+Un filo sottile di resistenza trascurabile e lunghezza totale $D$ è avvolto per formare un solenoide cilindrico sottile di lunghezza $\ell \ll D$. Una sfera conduttrice di raggio $R \ll \ell$ è fissata a ciascuna estremità del solenoide.
+
+All'inizio non scorre corrente nel filo, e le sfere possiedono cariche $Q$ e $-Q$. Fornisci tutte le tue risposte in termini di $R$, $\ell$, $D$ e della velocità della luce $c = 1/\sqrt{\mu_0\epsilon_0}$.
+
+a. Supponi che questo sistema possa essere modellato come un circuito LC. Qual è la frequenza angolare delle sue oscillazioni?
+
+Questo sistema perde energia perché irradia radiazione elettromagnetica. Considera un dipolo elettrico formato da cariche $\pm q_0\cos(\omega t)$ separate da una distanza $d$, il cui momento di dipolo oscilla con ampiezza $p_0 = q_0 d$. Se $d$ è molto più piccolo della lunghezza d'onda $\lambda$ della radiazione emessa, si può dimostrare che la potenza irradiata è approssimativamente (cioè fino a un fattore dimensionale dell'ordine di uno)
 $$P \sim \frac{\omega^4 p_0^2}{\epsilon_0 c^3}.$$
-Per il resto del problema, le risposte devono essere solo stime simili.
-- **B.** Per questa configurazione, si applica la formula di cui sopra se $D \gg D_0$. Trova una stima approssimativa per $D_0$.
-- **C.** Supponendo $D \gg D_0$, si stima il numero di oscillazioni che si verificano fino a quando la metà dell'energia non viene persa.
+
+Per il resto del problema, le tue risposte devono essere stime approssimate della stessa precisione.
+
+- **B.** Per questo sistema, la formula precedente vale se $D \gg D_0$. Fornisci una stima approssimata di $D_0$.
+
+- **C.** Supponendo che $D \gg D_0$, stima il numero di oscillazioni che si verificano prima che sia persa metà dell'energia.
+
 Copyright ©2024 American Association of Physics Teachers
 
 2024 USAPhO
 Parte A
 5
-Domanda A2
+Quesito A2
 Stabilità stellare
-Una stella in equilibrio idrostatico ha forze gravitazionali interne bilanciate da gradienti di pressione.
-Sebbene il materiale in una stella non sia semplicemente un gas ideale, in molti casi la sua pressione $P$ e densità $\rho$
-sono semplicemente correlati da $P = K\rho^\gamma$ per le costanti $K$ e $\gamma$. Durante tutto questo problema, supponiamo che la stella
-La massa è conservata e gli effetti relativistici possono essere trascurati.
-a. Un sottile guscio della stella al raggio $r_0$ ha una densità $\rho_0$ e uno spessore $\Delta r$, e sperimenta un'inclinazione verso l'interno
-campo gravitazionale di magnitudo $g_0$.
-i. Qual è la differenza di pressione $\Delta P_0$ nel guscio in equilibrio?
-ii. Supponiamo che l'intera stella si espandesse uniformemente di un fattore $1 + x$, in modo che la conchiglia abbia ora un raggio
-$r = r_0(1 + x)$. In termini di $\Delta P_0$, $x$ e $\gamma$, qual è la nuova differenza di pressione su di essa?
-iii. Considerando le forze sul guscio, scrivere un'espressione per $d^2r/dt^2$ valida quando $x$ è piccola,
-in termini di $g_0$, $\gamma$ e $x$. Per quali valori di $\gamma$ la stella sarà stabile?
-In seguito, consideriamo alcuni semplici modelli di stelle, dove $\gamma$ può
 
-**Topic:** [[Circuits]], [[Astrophysics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Solenoid (object)|Solenoid]], [[Conducting Sphere (object)|Conducting Sphere]], [[Wire (object)|Wire]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1aKdigoR5e6anD4loVMuRRe9J6ndlG-3K/view)
+Una stella in equilibrio idrostatico ha forze gravitazionali rivolte verso il centro bilanciate dai gradienti di pressione.
+Anche se il materiale all'interno di una stella non è semplicemente un gas ideale, in molti casi la sua pressione $P$ e densità $\rho$ sono semplicemente legate da $P = K\rho^\gamma$ per costanti $K$ e $\gamma$. In tutta questa prova, si assuma che la stella sia sfericamente simmetrica, che la sua massa sia conservata e che gli effetti relativistici possano essere trascurati.
+
+a. Una sottile fetta della stella a raggio $r_0$ ha densità $\rho_0$ e spessore $\Delta r$, ed è soggetta a un campo gravitazionale rivolto verso il centro di intensità $g_0$.
+i. Qual è la differenza di pressione $\Delta P_0$ attraverso la fetta in equilibrio?
+ii. Supponiamo che l'intera stella si espanda uniformemente di un fattore $1 + x$, così che la fetta abbia ora raggio $r = r_0(1 + x)$. In termini di $\Delta P_0$, $x$ e $\gamma$, qual è la nuova differenza di pressione attraverso essa?
+iii. Considerando le forze agenti sulla fetta, scrivere un'espressione per $d^2r/dt^2$ valida quando $x$ è piccolo, in termini di $g_0$, $\gamma$ e $x$. Per quali valori di $\gamma$ la stella sarà stabile?
+
+In seguito, consideriamo alcuni semplici modelli di stelle, dove $\gamma$ può

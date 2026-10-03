@@ -1000,19 +1000,13 @@ If a planet of radius $R$ spins with an angular velocity $\omega$ about an axis 
 
 <div class="qlang-split" data-lang="it"></div>
 
-Se un pianeta di raggio $R$ ruota con una velocità angolare $\omega$ intorno ad un asse attraverso il Polo Nord, qual è il rapporto tra la forza normale vissuta da una persona all'equatore e quella vissuta da una persona al Polo Nord? Assume a constant gravitational field $g$ and that both people are stationary relative to the planet and are at sea level.
+Se un pianeta di raggio $R$ ruota con una velocità angolare $\omega$ attorno a un asse passante per il Polo Nord, qual è il rapporto tra la forza normale sperimentata da una persona all'equatore e quella sperimentata da una persona al Polo Nord? Si assuma un campo gravitazionale costante $g$ e che entrambe le persone siano ferme rispetto al pianeta e si trovino al livello del mare.
 
 - **A.** $\dfrac{\omega^2 R}{g}$
 - **B.** $\dfrac{\omega^2 R}{g}$
 - **C.** $1 - \dfrac{\omega^2 R}{g}$
 - **D.** $1 + \dfrac{\omega^2 R}{g}$
 - **E.** $1 + \dfrac{\omega^2 R}{g}$
-
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1s28niqv2Ww_w8YAql8aTwuZncujT-Bfg/view)
 
 
 

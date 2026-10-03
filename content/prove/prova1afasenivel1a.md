@@ -1404,34 +1404,25 @@ e
 
 <div class="qlang-split" data-lang="it"></div>
 
-20. Recentemente, tutti i fan del visionario regista J. J. Abrams vibranti e uniti per tornare nella galassia.
-molto, molto lontano, nel ritorno alla serie di science fiction Star Wars, The Force Awakens. Il contesto delle
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le misure adottate per la protezione dei consumatori siano state applicate in tutti i paesi dell'Unione. L'esempio
-In base a questa premessa, possiamo evidenziare la scena dell'esplosione di una nave spaziale che viene ascoltata da altre navi nel mondo.
-il vuoto dello spazio esterno. In relazione a questo fatto è corretto affermare che:
-- **A.** questo non corrisponde alla realtà, poiché non è possibile diffondere il suono nel vuoto.
-- MSK1 - Questo è vero, perché il suono può diffondersi nel vuoto.
-- MSK1/>C. MSK1/> questo avviene in realtà, visto che il suono si diffonderà insieme all'immagine dell'esplosione.
-- **D ** è vero, poiché le onde sonore sono onde di tipo elettromagnetico e non hanno bisogno di un mezzo per la loro
-diffusione.
-e) è vero, poiché meno denso è il mezzo, maggiore sarà la velocità di diffusione delle onde sonore.
-OLIMPIATA BRASILANA di FISIca  2016
-Fase 1  19 MAIO 2016
-NIVEL I - Formazione elementare - 8° e 9° anno
-Preencher usando una lettera di forma.
-Nome: (Signore)
-SENERIA:
-FONTO P/CONTATO:_______) ______________E-MAIL: ____________________________
-La Commissione ha adottato una decisione che prevede che il programma di valutazione del rischio sia stato adottato.
-Il numero di persone che hanno ricevuto la notifica è stato di:
-SINATURA: __________________________________
-TABELLA RISPONDI (inserire un X)
-La questione
-a
-b
-c
-d
-e
+20. Di recente, tutti gli appassionati del visionario regista J.J. Abrams hanno vibrato e unito le forze per tornare alla galassia molto, molto lontana, con il ritorno della serie di fantascienza "Star Wars – L'ascesa della Forza". Il contesto delle varie scene, ricche di montaggi computazionali, è favorevole all'esplorazione di concetti scientifici. A titolo di esempio, possiamo evidenziare la scena dell'esplosione di una nave spaziale, udita da altre navi nel vuoto dello spazio siderale. Riguardo a questo fatto, è corretto affermare che:
+- **A.** ciò non corrisponde alla realtà, poiché non è possibile la propagazione del suono nel vuoto.
+- **B.** ciò avviene nella realtà, poiché il suono può propagarsi nel vuoto.
+- **C.** ciò avviene nella realtà, poiché il suono si propagherà insieme all'immagine dell'esplosione.
+- **D.** è vero, poiché le onde sonore sono onde del tipo elettromagnetico e non necessitano di un mezzo per la loro propagazione.
+e) è vero, poiché quanto meno denso sarà il mezzo, maggiore sarà la velocità di propagazione delle onde sonore.
+
+OLIMPÍADA BRASILEIRA DE FÍSICA – 2016
+1a FASE – 19 MAGGIO 2016
+NÍVEL I - Scuola Secondaria di Primo Grado - 8o e 9o anni
+COMPILARE USANDO LETTERA MAIUSCOLA.
+NOME: ______________________________________________________________
+CLASSE: _________________
+TELEFONO DI CONTATTO:(___)_____________E-MAIL: ____________________________
+SCUOLA:______________________________________________________
+COMUNE:__________________________________STATO:__________
+FIRMA: ____________________________________________
+TABELLA DELLE RISPOSTE (mettere una X)
+Domanda a b c d e
 01
 
 02
@@ -1471,43 +1462,28 @@ e
 19
 
 20
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-20. Recently, all the fans of visionary director J. J. Abrams vibrated and joined forces to return to the galaxy .
-Very, very far away, on the return of the science fiction series Star Wars The Force Awakens. The context of the
-The Commission's proposal for a directive on the protection of workers from the risks of the use of the Internet is therefore not a sufficient basis for the adoption of the directive. The example
-From this premise, we can highlight the scene of a spacecraft explosion being heard by other spacecraft in the
-vacuum of outer space. In this respect it is correct to state that:
-- **A** this does not correspond to reality, as it is not possible to propagate sound in the vacuum.
-- **B ** this is actually happening because sound can spread in the vacuum.
-This is actually happening, since the sound will spread along with the image of the explosion.
-- **D ** is true, as sound waves are electromagnetic waves and do not need a medium for their
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-(e) it is true, for the less dense the medium, the greater the speed at which the sound waves propagate.
-The following is the list of countries by the number of participating countries in the 2016 Summer Olympics:
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-Level I - Basic education - 8th and 9th grades
-PREENCHER using the letter of the form.
-The following is the list of the countries of the European Union:
-The following is the list of the countries of the European Union:
-The following information is provided by the Commission to the European Parliament and to the Council:
-The following is the list of the countries of the European Union:
-The following is the list of the countries of the European Union:
-The following is the list of the countries of the European Union:
-Table of answers (put an X)
-Question No
-a
-b
-c
-d
-e
+20. Recently, all fans of visionary director J.J. Abrams thrilled and united their efforts to return to the faraway galaxy in the revival of the science fiction series "Star Wars – The Force Awakens." The various scenes, rich in computer-generated imagery, provide a favorable context for exploring scientific concepts. Following this premise, we can highlight the scene in which the explosion of a spaceship is heard by other ships in the vacuum of outer space. Regarding this event, it is correct to state that:
+- **A.** this does not correspond to reality, because sound cannot propagate in a vacuum.
+- **B.** this occurs in reality, because sound can travel through a vacuum.
+- **C.** this happens in reality, since sound will propagate together with the image of the explosion.
+- **D.** this is true, because sound waves are electromagnetic waves and do not require a medium for propagation.
+e) this is true, because the less dense the medium, the greater the speed of sound wave propagation.
+
+OLYMPIAD BRASILEIRA DE FÍSICA – 2016
+FIRST ROUND – MAY 19, 2016
+LEVEL I - Elementary Education - 8th and 9th grades
+FILL IN USING CAPITAL LETTERS.
+NAME: ______________________________________________________________
+GRADE: _________________
+CONTACT PHONE: (___)_____________E-MAIL: ____________________________
+SCHOOL:______________________________________________________
+TOWN:__________________________________STATE:__________
+SIGNATURE: ____________________________________________
+ANSWER SHEET (mark an X)
+Question a b c d e
 01
 
 02
@@ -1547,9 +1523,3 @@ e
 19
 
 20
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1pUR0FqUMdvHsjonJhg31PKSGWEM2jzpZ/view)

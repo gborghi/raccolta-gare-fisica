@@ -501,14 +501,7 @@ Supponiamo di modellare un pianeta come un disco di densità uniforme. Il proble
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Gravitational Oscillations 3.** Now imagine that we drill a hole through the disk at a distance $r_0 = \frac{R}{3}$ and drop a ball through. In pochi secondi, qual è il periodo di oscillazione? - Non si deve fare attenzione alla friczione.
-
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1KrrudlWdKwNcn8EOK2Ad9hmpYkG9ViCH/view)
-
-**Topic:** [[Gravitation]], [[Oscillations & Waves]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Ball (object)|Ball]]
+**Oscillazioni gravitazionali 3.** Ora immagina che perforiamo un foro nel disco a una distanza $r_0 = \frac{R}{3}$ e facciamo cadere una pallina attraverso di esso. In secondi, qual è il periodo delle sue oscillazioni? Trascura la resistenza dell'aria.
 
 
 

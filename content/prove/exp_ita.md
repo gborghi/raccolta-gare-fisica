@@ -486,21 +486,16 @@ Notare che dalla formula (1) non è possibile determinare lo sfasamento in modo 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.2.2  Transmission of light through a plastic relay (1.2 points) **
+**Part 2.2.2 — The transmission of light through a plastic ruler (1.2 points)**
 
-For each of the two beams calculate the $\Delta\varphi$ phase values between the ordinary and the extraordinary light beam, in the range of $x$ from 0 to 7 cm. Draw the corresponding graphs of $\Delta\varphi(x)$. Also write the formula used for the calculations. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+For each of the two rulers, calculate the phase shift $\Delta\varphi$ between the ordinary and extraordinary light rays over the range of $x$ from 0 to 7 cm. Plot the corresponding graphs of $\Delta\varphi(x)$. Also write down the formula used for the calculations. (1.2 points)
 
-The intensity after plate and polarizer 2 is:
+The intensity after the plate and polarizer 2 is:
 $$I_2 = k I_0 \sin^2\!\frac{\Delta\varphi}{2}$$
 
-Note that the formula (1) does not allow for a single determination of the phase out; further physical considerations should be introduced to determine this correctly.
+Note that from formula (1) the phase shift cannot be uniquely determined; to determine it correctly, further physical considerations should be introduced.
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/16Q3H6v-i7w2RLanppffzEb4VBcRbbMNp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
 
 
 
@@ -561,16 +556,11 @@ Usando i dati ricavati nelle parti 2.2.1–2.2.3, calcolare i valori teorici del
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.2.4  Transmission of light through a plastic relay (1.2 points) **
+**Part 2.2.4 — The transmission of light through a plastic ruler (1.2 points)**
 
-Using the data obtained in parts 2.2.12.2.3, calculate the theoretical values of the light intensity passing through the two overlapping reels together. Write down the formula that has been used to perform these calculations. Draw the theoretical dependence in the same graph as in Part 2.2.1. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Using the data obtained in parts 2.2.1–2.2.3, calculate the theoretical values of the light intensity passing through the two rulers when overlapped together. Write down the formula that was used to perform these calculations. Plot the theoretical dependence on the same graph as in part 2.2.1. (1.2 points)
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Wave Equation (metodo)|Wave Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/16Q3H6v-i7w2RLanppffzEb4VBcRbbMNp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
 
 
 
@@ -709,18 +699,13 @@ Misurare l'intensità della luce, trasmessa attraverso il sistema ottico, in fun
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.4.1  Transmission of light through a curved plastic strip (1.2 points) **
+**Part 2.4.1 — The transmission of light through a curved plastic strip (1.2 points)**
 
-Place the plastic strip on the screen as described in Part 1.3.
+Place the plastic strip on the screen as described in section 1.3.
 
-Measure the intensity of the light transmitted through the optical system, according to the $x$ coordinate of the point where the light passes through the strip, within the range of $\pm 20\,\mathrm{mm}$ from its centre. Trace the corresponding graph. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Measure the intensity of the light transmitted through the optical system, as a function of the coordinate $x$ at which the light crosses the strip, within the range of $\pm 20\,\mathrm{mm}$ from its center. Plot the corresponding graph. (1.2 points)
 
-**Topic:** [[Wave Optics]], [[Elasticity & Materials]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/16Q3H6v-i7w2RLanppffzEb4VBcRbbMNp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
 
 
 
@@ -744,16 +729,11 @@ Calcolare lo sfasamento tra il raggio luminoso ordinario e quello straordinario,
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Part 2.4.2  Transmission of light through a curved plastic strip (1.2 points) **
+**Part 2.4.2 — The transmission of light through a curved plastic strip (1.2 points)**
 
-Calculate the phase difference between the ordinary and the extraordinary light beam, $\Delta\varphi_0$, which occurs with respect to the passage through the uncurved strip. It is known that $\Delta\varphi_0$ is included in the range between $10\pi$ and $12\pi$. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Calculate the phase shift between the ordinary and extraordinary light rays, $\Delta\varphi_0$, occurring with respect to passage through the straight (non-curved) strip. It is known that $\Delta\varphi_0$ lies within the interval between $10\pi$ and $12\pi$. (1.2 points)
 
-**Topic:** [[Wave Optics]], [[Elasticity & Materials]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/16Q3H6v-i7w2RLanppffzEb4VBcRbbMNp/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-5eYOo4xqM2nKG_kOjuNMWCSYn-PeGQ2/view)
 
 
 

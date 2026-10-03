@@ -68,50 +68,40 @@ E
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided:
-Country student No. Question No. PageNo Total No.
+IPhO 2000
+Country Student No. Question No. PageNo Total No.
 Of pages
-The Commission has already taken the necessary steps to ensure that the Community's financial resources are used effectively.
-A
-The following points shall be added:
-b
-Distance y travelled by the jumper before stopping =
-c
-Maximum speed v of the jumper =
-d
-Duration t of the falling phase =
-B
-The following points shall be added:
-b
-Maximum temperature is To =
-c
-Maximum amount of available mechanical energy =
-d
-Maximum amount of mechanical energy hce can be obtained in MJ =
-C
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-b
-Number of atoms of 206Pb, 206n, =
-c
-207n =
-d
-Equation in T =
-e
-Approximate value of T in years =
-f
-More accurate value of T in years =
-D
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-(a) Electric field for r< R =
-Electric field per r>R =
-b
-Total electrical energy =
-E
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-(a) Time required to halve the angular velocity in s =
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Nuclear & Particle Physics]], [[Electrostatics]], [[Rotational Dynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1E4diUuZH6Lw1CBxF4bi_odcNL0eTiboN/view)
+ANSWER SHEET: PROBLEM N.1
+A
+[2 points]
+b
+Distance y traveled by the jumper before coming to rest = c
+Maximum speed v of the jumper = d
+Duration t of the falling phase =
+
+B
+[2 points]
+b
+Maximum temperature To = c
+Maximum available mechanical energy = d
+Maximum obtainable mechanical energy hce in MJ =
+
+C
+[2.2 points]
+b
+Number of atoms of 206Pb, 206n = c
+207n = d
+Equation in T = e
+Approximate value of T in years = f
+More accurate value of T in years =
+
+D
+[1.6 points]
+(a) Electric field for r<R =
+Electric field for r>R = b
+Total electrostatic energy =
+
+E
+[2.2 points]
+(a) Time required to halve the angular velocity in s =

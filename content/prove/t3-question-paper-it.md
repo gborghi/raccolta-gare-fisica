@@ -241,110 +241,88 @@ $\theta_L$
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. The heat conductivity $\lambda = 3.280\ \text{W m}^{-1}\text{K}^{-1}$
+4. Thermal Conductivity $\lambda = 3.280\ \text{W m}^{-1}\text{K}^{-1}$
 
 A1
-Consider the following fission reaction of a stationary atom of $^{235}$U , which absorbs an energy neutron
-the kinetic energy of the system,
+Consider the following fission reaction of a stationary atom of $^{235}$U, which absorbs a neutron with negligible kinetic energy:
 $$^{235}\text{U} + {}^{1}\text{n} \to {}^{94}\text{Zr} + {}^{140}\text{Ce} + 2\,{}^{1}\text{n} + \Delta E$$
 Estimate the total fission energy $\Delta E$ (in MeV) released. The nuclear masses are:
-$m(^{235}\text{U}) = 235.044$ u; $m(^{94}\text{Zr}) = 93.9063$ u; $m(^{140}\text{Ce}) = 139.905$ u; $m(^{1}\text{n}) = 1.00867$ u con
-$1\ \text{u} = 931.502\ \text{MeV c}^{-2}$. It's tracking the load imbalance.
+$m(^{235}\text{U}) = 235.044$ u; $m(^{94}\text{Zr}) = 93.9063$ u; $m(^{140}\text{Ce}) = 139.905$ u; $m(^{1}\text{n}) = 1.00867$ u, with
+$1\ \text{u} = 931.502\ \text{MeV c}^{-2}$. Neglect charge imbalance.
+
 0.8
+
 A2
-Estimate the number of atoms $N$ of $^{235}$U per unit volume present in the compound UO$_2$.
+Estimate the number $N$ of atoms of $^{235}$U per unit volume present in the compound UO$_2$.
+
 0.5
+
 A3
-Assume that the neutron flow density is $\varphi = 2.000\times10^{18}\ \text{m}^{-2}\,\text{s}^{-1}$ and is uniform in fuel. La
-The fractional section (effective area of the target nucleus) of a $^{235}$U nucleus is $\sigma_f = 5.400\times10^{-26}\ \text{m}^2$. Se
-The rate of production of the Fusion Energy is estimated to be $Q$ (in W m$^{-3}$)
-heat per unit volume in the fuel element. $1\,\text{MeV} = 1.602\times10^{-13}$ J.
+Assume that the neutron flux density is $\varphi = 2.000\times10^{18}\ \text{m}^{-2}\,\text{s}^{-1}$ and is uniform throughout the fuel. The fission cross-section (effective area of the target nucleus) of a $^{235}$U nucleus is $\sigma_f = 5.400\times10^{-26}\ \text{m}^2$. If 80.00% of the fission energy is available as heat, estimate the heat production rate $Q$ (in W m$^{-3}$) per unit volume in the fuel element. $1\,\text{MeV} = 1.602\times10^{-13}$ J.
+
 1.2
+
 A4
-The difference in temperature in equilibrium state between the centre ($T_c$) and the surface ($T_s$) of the element of
-The fuel can be expressed as $T_c - T_s = k\,F(Q,a,\lambda)$, where $k = 1/4$ is a dimensionless constant and $a$ is the
-The fuel element radius. It takes $F(Q,a,\lambda)$ using dimensional analysis. Remember that $\lambda$ is the
-The thermal conductivity of the compound UO$_2$.
+The temperature difference in steady state between the center ($T_c$) and surface ($T_s$) of the fuel element can be expressed as $T_c - T_s = k\,F(Q,a,\lambda)$, where $k = 1/4$ is a dimensionless constant and $a$ is the radius of the fuel element. Derive $F(Q,a,\lambda)$ using dimensional analysis. Recall that $\lambda$ is the thermal conductivity of the UO$_2$ compound.
+
 0.5
-Schematic drawing of a
-The following information is provided for in the Annex to this Regulation:
-Figure I: Enlarged view of a
-Fuel bar
-(Fluent)
-Figure II: View of the NR (2-bar)
-(Fluent)
-Figure III: View from the top of the NR
-(3-square arrangement of the
-fuel rods and
-4-Typical neutron pathways).
-Only the elements are shown
-significant to the problem
-(p.e. The bars of the
-control and refrigerant).
-The following is the list of the countries of the European Union:
+
+Schematic diagram of a
+Nuclear Reactor (NR)
+Fig-I: Enlarged view of a fuel rod (1-fuel elements)
+Fig-II: View of the NR (2-fuel rods)
+Fig-III: Top view of the NR (3-square arrangement of fuel rods and 4-typical neutron paths).
+Only the relevant elements for the problem are shown (e.g. control rods and coolant are not depicted).
+Fig-I
 Fig-II
-Figure III
+Fig-III
 
 A5
-The desired temperature of the refrigerant is $5.770\times10^2$ K. Estimate the upper limit $a_u$ of the $a$ beam
-The fuel element.
+The desired temperature of the coolant is $5.770\times10^2$ K. Estimate the upper limit $a_u$ of the radius $a$ of the fuel element.
 1.0
 
 B The Moderator
-It considers the two-dimensional elastic shock between a neutron of mass 1 u and a moderating atom of mass $A$ u.
-Before the collision the moderating atoms are considered stationary in the laboratory reference system
-(LF). The neutron speeds in the reference LF are $\vec{v}_b$ and $\vec{v}_a$, respectively, before and after impact. Sia $\vec{v}_m$
-The speed of the centre of mass (CM) reference system with respect to the reference LF and $\theta$ is the angle of
-the neutron diffusion in the CM reference. All particles involved in the impact move at speeds not exceeding
-The theory of relativity.
+Consider a two-dimensional elastic collision between a neutron of mass 1 u and a moderator atom of mass $A$ u.
+Before the collision, the moderator atoms are assumed to be at rest in the laboratory frame (LF). Let $\vec{v}_b$ and $\vec{v}_a$ be the neutron’s velocity in the LF, respectively before and after the collision. Let $\vec{v}_m$ be the velocity of the center-of-mass (CM) reference frame relative to the LF, and let $\theta$ be the neutron’s scattering angle in the CM frame. All particles involved in the collision move at non-relativistic speeds.
 
 B1
-In Figure IV the impact in the reference LF is shown schematically, where $\theta_L$ represents the angle of
-The Commission shall adopt the following measures: It diagrams the impact seen in the CM reference system. The following is the figure:
-the velocities of particles 1, 2 and 3 expressed as a function of $\vec{v}_b$, $\vec{v}_a$ and $\vec{v}_m$. Indicate the angle of diffusion $\theta$.
+In Fig-IV, a schematic representation of the collision in the LF is shown, where $\theta_L$ denotes the scattering angle. Draw schematically the collision as seen in the CM reference frame. Mark on the figure the velocities of particles 1, 2, and 3, expressing them in terms of $\vec{v}_b$, $\vec{v}_a$, and $\vec{v}_m$. Indicate the scattering angle $\theta$.
 
 1.0
 B2
-The modules of the neutron and moderator atomic velocities in the CM reference are $v$ and $V$ after
-l’urto, in funzione di $A$ e .
+Express $v$ and $V$, the magnitudes of the velocities of the neutron and moderator atom in the center-of-mass reference frame after the collision, as functions of $A$ and .
+
 1.0
 B3
-It is an expression for $G(\alpha, \theta) = E_a/E_b$, where $E_b$ and $E_a$ are the kinetic energies of the neutron, in the
-reference of the LF laboratory, respectively before and after impact, and $\alpha \equiv [(A-1)/(A+1)]^2$.
+Derive an expression for $G(\alpha, \theta) = E_a/E_b$, where $E_b$ and $E_a$ are the kinetic energies of the neutron in the laboratory frame LF, respectively before and after the collision, and $\alpha \equiv [(A-1)/(A+1)]^2$.
+
 1.0
 B4
-Assume that the previous expression is true for the molecule of D$_2$O. Calculate the maximum fractional loss
-The neutron energy $f_l \equiv \dfrac{E_b - E_a}{E_b}$ is possible in the case of the D$_2$O moderator (20 u).
+Assume the previous expression holds for the D$_2$O molecule. Calculate the maximum possible fractional energy loss of the neutron $f_l \equiv \dfrac{E_b - E_a}{E_b}$, in the case of a D$_2$O moderator (20 u).
+
 0.5
 
 C
 
 The Nuclear Reactor
-To operate the NR nuclear reactor (in a stationary state) with a given constant flow of neutrons
-$\psi$, the loss of neutrons must be compensated by excess neutron production in the reactor. For
-a cylindrical geometry reactor the rate of loss is $k_1 [(2.405/R)^2 + (\pi/H)^2]\,\psi$ and the rate of excess of
-The production is $k_2\,\psi$. The constants $k_1$ and $k_2$ depend on the properties of the NR reactor material.
+To operate the nuclear reactor NR (in a steady state) with a given constant neutron flux $\psi$, neutron losses must be compensated by an excess of neutron production within the reactor. For a cylindrical-geometry reactor, the loss rate is $k_1 [(2.405/R)^2 + (\pi/H)^2]\,\psi$ and the excess production rate is $k_2\,\psi$. The constants $k_1$ and $k_2$ depend on the properties of the reactor material NR.
 
 C1
-Consider an NR reactor with $k_1 = 1.021\times10^{-2}$ m and $k_2 = 8.787\times10^{-3}\ \text{m}^{-1}$. Whereas for a given
-The rate of loss must be kept to a minimum for efficient fuel use,
-the size of the NR reactor in stationary condition.
+Consider a NR reactor with $k_1 = 1.021\times10^{-2}$ m and $k_2 = 8.787\times10^{-3}\ \text{m}^{-1}$. Given that for a given volume the loss rate must be minimized for efficient fuel utilization, derive the reactor dimensions in steady-state condition.
 1.5
+
 C2
-The fuel rods are arranged in a square pattern (Fig-III) in which the fuel rods are more
-The distance between the two is 0.286 m. The effective radius of a fuel rod (what it would have if it were solid)
-vale $3.617\times10^{-2}$ m. Estimate the number of fuel rods $F_n$ in the reactor and the mass $M$ of UO$_2$
-necessary to operate the NR reactor in stationary condition.
+The fuel rods are arranged in a square pattern (Fig-III), with the closest distance between adjacent fuel rods being 0.286 m. The effective radius of a fuel rod (the radius it would have if solid) is $3.617\times10^{-2}$ m. Estimate the number of fuel rods $F_n$ present in the reactor and the mass $M$ of UO$_2$ required to operate the NR reactor in steady state.
 1.0
 
-Urte in the laboratory reference
-1-Neutron before impact
-2-Neutron after impact
-3-Atom moderator before impact
-4-Atom moderator after impact
+Collision in the laboratory reference frame
+1—Neutron before collision
+2—Neutron after collision
+3—Moderator atom before collision
+4—Moderator atom after collision
 1
 3
-Figure IV
+Fig-IV
 2
 4
 
@@ -354,13 +332,8 @@ $\vec{v}_b$
 $\theta_L$
 
 <!--fig:start-->
-**p.1** — Schema reattore: barra, elemento combustibile, sezione cilindrica
+**p.1** — Reactor schematic: rod, fuel element, cylindrical cross-section
 ![[_attachments/T3-Question-paper-it/T3-Question-paper-it_p1_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Nuclear & Particle Physics]], [[Thermodynamics]], [[Conservation of Momentum]]
-**Metodi:** [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Nucleus (object)|Nucleus]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/19aKwQQ-J2_lQYyPxKmv0xoQua4KR237H/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/18dICVbI-7GWC9rT9SuXaOtmhv6Heorqm/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/18dICVbI-7GWC9rT9SuXaOtmhv6Heorqm/view)

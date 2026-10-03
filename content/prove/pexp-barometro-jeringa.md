@@ -65,26 +65,11 @@ La procedura è stata ripetuta fino all'ultimo provvedimento. (3 punti)
 
 <div class="qlang-split" data-lang="en"></div>
 
-1) To take the first measurement, the syringe is pulled out of the body slowly, holding it
-resting on the table until the piston reaches 11 ml without exceeding the mark or making
-The following is a list of the types of reversals (Figure 4). The normal thing is that the value of the measurement is fixed on the screen when you
-release the syringe; the volume and mass values are recorded. Do it two or three times.
-Measure for each position of the piston and find the mean mass value.
+1) To perform the first measurement, slowly pull the syringe body while keeping it resting on the table until the piston reaches 11 ml, without exceeding the mark or retracting (Figure 4). Normally, the displayed value will remain fixed when releasing the syringe; record the volume and mass values. Perform this measurement two or three times for each piston position and determine the average mass value.
 
-Actually, what you need to know is the value of the force exerted to expand the air.
-This value is obtained from the expression (3). Transfer the results of this first measure
-a table with three columns, corresponding to $V_i$, $m_i$ and $F_i$. Add three more columns
-where a function of $V_i$, a function of $F_i$ and the uncertainty of the
-función de $V_i$.
-The weight is allowed to return to the starting position, the scale (tar) is set to zero and the weight is returned to the
-pull from the body of the syringe until the embolus reaches 12 ml. They follow the same steps
-The Commission shall, in the event of a change in the procedure, take the necessary measures to ensure that the final decision is taken. (three points)
+Actually, what needs to be determined is the force exerted during air expansion. This value is obtained from expression (3). Transfer the results of this first measurement into a table with three columns corresponding to $V_i$, $m_i$ and $F_i$. Additionally, add three more columns to be filled later with a function of $V_i$, a function of $F_i$ and the uncertainty of the function in $V_i$.
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Piston (object)|Piston]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ouSnEj2h7kWDEypnKN_cG8GC6f1DDcTi/view)
+Allow the piston to return to its initial position, reset the balance (tare), and again pull the syringe body until the piston reaches 12 ml. Follow the same steps as in the previous case, and repeat this process until completing the final measurement. (3 points)
 
 
 
@@ -184,15 +169,8 @@ función de $F_i$, en abscisas, trace la recta que mejor se ajuste y obtenga la 
 
 <div class="qlang-split" data-lang="it"></div>
 
-4) Rappresenta graficamente i valori della funzione di $V_i$ ordinati rispetto a quelli della funzione di $V_i$
-La funzione di $F_i$, in abcissi, traccia la retta che si adatta meglio e ottiene la pendenza, $m$.
+4) Rappresentare graficamente i valori della funzione di $V_i$ in ordinata rispetto ai valori della funzione di $F_i$ in ascissa, tracciare la retta che meglio si adatta e determinare la pendenza, $m$.
 (3 punti)
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ouSnEj2h7kWDEypnKN_cG8GC6f1DDcTi/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -232,37 +210,11 @@ obtiene la incertidumbre de la función de $V_i$. (2 puntos)
 
 <div class="qlang-split" data-lang="it"></div>
 
-5) Deve determinare i valori delle barre di errore dei punti estremisti del grafico e
-Raccogliere le informazioni nella quinta colonna della tabella che ha già costruito (sotto le barre di errore, vedere
-- il numero di persone che hanno ricevuto il diploma Le barre di errore della funzione $F_i$ saranno considerate scarsa e per quelle della funzione $F_i$
-funzione di $V_i$ si deve tenere presente che le divisioni minori della seringa sono di 1 ml e che
-La sua incertezza, $\Delta V_i$, dovrebbe essere la metà di tale valore; tuttavia, come il spaziamento delle
-Se la marca di divisione è sufficientemente grande, si seguirà un criterio meno rigoroso, prendendo
-per l'incertezza $\Delta V_i$ la quarta parte della divisione minore della siringa. Spiega come si fa
-si ottiene l'incertezza della funzione $V_i$. (2 punti)
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ouSnEj2h7kWDEypnKN_cG8GC6f1DDcTi/view)
+5) Devi determinare i valori degli errori delle estremità dei punti del grafico e riportarli nella quinta colonna della tabella già costruita (per gli errori, vedere ANNESSO). Gli errori della funzione di $F_i$ si considereranno trascurabili, mentre per quelli della funzione di $V_i$ bisogna tenere conto che le suddivisioni minori della siringa sono di 1 ml e che la sua incertezza, $\Delta V_i$, dovrebbe essere la metà di tale valore; tuttavia, poiché lo spazio tra le tacche è sufficientemente ampio, si adotterà un criterio meno rigoroso, assumendo per l'incertezza $\Delta V_i$ un quarto della suddivisione minore della siringa. Spiega come si ottiene l'incertezza della funzione di $V_i$. (2 punti)
 
 <div class="qlang-split" data-lang="en"></div>
 
-5) It must determine the values of the error bars at the end points of the graph and
-The first step is to collect them in the fifth column of the table you have already built (over the error bars, see
-The following table shows the results of the evaluation: The error bars of the $F_i$ function shall be considered negligible and for those of the
-función de $V_i$ hay que tener en cuenta que las divisiones menores de la jeringa son de 1 ml y que
-su incertidumbre, $\Delta V_i$, debería ser la mitad de ese valor; sin embargo, como el espaciado de las
-The Commission will also examine the possible possible use of the
-for uncertainty $\Delta V_i$ the fourth part of the lower division of the syringe. Explain how
-The uncertainty of the $V_i$ function is obtained. (two points)
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ouSnEj2h7kWDEypnKN_cG8GC6f1DDcTi/view)
+5) You must determine the error bar values for the extreme points of the graph and record them in the fifth column of the table you have already constructed (for error bars, see APPENDIX). The error bars for the function $F_i$ will be considered negligible, and for the function $V_i$ you must account that the smallest divisions on the syringe are 1 ml, and its uncertainty, $\Delta V_i$, should be half of that value; however, since the spacing between division marks is sufficiently large, a less strict criterion will be followed, taking the uncertainty $\Delta V_i$ as one-quarter of the smallest division on the syringe. Explain how the uncertainty for the function $V_i$ is obtained. (2 points)
 
 
 
@@ -546,31 +498,25 @@ Colonne della tabella: $V_i\ /\ \text{m}^3$ · $m_i\ /\ \text{kg}$ · $(F_i = m_
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a resolution.
+SOLUTION
 
-1) Question 1 (3 points)  Question 3 (1 point)  Question 5
+1) Question 1 (3 points) — Question 3 (1 point) — Question 5
 
-Columnas de la tabla: $V_i\ /\ \text{m}^3$ · $m_i\ /\ \text{kg}$ · $(F_i = m_i\,g)\ /\ \text{N}$ · $(A_i = 1/V_i)\ /\ \text{m}^{-3}$ · $\left(\Delta A_i = \dfrac{1}{V_i^2}\Delta V_i\right)\ /\ \text{m}^{-3}$
+Table columns: $V_i\ /\ \text{m}^3$ · $m_i\ /\ \text{kg}$ · $(F_i = m_i\,g)\ /\ \text{N}$ · $(A_i = 1/V_i)\ /\ \text{m}^{-3}$ · $\left(\Delta A_i = \dfrac{1}{V_i^2}\Delta V_i\right)\ /\ \text{m}^{-3}$
 
 | $V_i\ /\ \text{m}^3$ | $m_i\ /\ \text{kg}$ | $(F_i=m_i g)\ /\ \text{N}$ | $(F_i=m_i g)\ /\ \text{N}$ | $(A_i=1/V_i)\ /\ \text{m}^{-3}$ | $\Delta A_i\ /\ \text{m}^{-3}$ |
 |---|---|---|---|---|---|
-| $1{,}00\times10^{-5}$ | 0,000 | 0,00 | 0,00 | $1{,}00\times10^{5}$ | $3\times10^{3}$ |
-| $1{,}10\times10^{-5}$ | 0,382 | 3,74 | 3,74 | $9{,}09\times10^{4}$ | $2\times10^{3}$ |
-| $1{,}20\times10^{-5}$ | 0,568 | 5,57 | 5,57 | $8{,}33\times10^{4}$ | $2\times10^{3}$ |
-| $1{,}30\times10^{-5}$ | 0,738 | 7,23 | 7,23 | $7{,}69\times10^{4}$ | $1\times10^{3}$ |
-| $1{,}40\times10^{-5}$ | 0,938 | 9,19 | 9,19 | $7{,}14\times10^{4}$ | $1\times10^{3}$ |
-| $1{,}50\times10^{-5}$ | 0,980 | 9,60 | 9,60 | $6{,}67\times10^{4}$ | $1\times10^{3}$ |
-| $1{,}60\times10^{-5}$ | 1,105 | 10,83 | 10,83 | $6{,}25\times10^{4}$ | $1\times10^{3}$ |
-| $1{,}70\times10^{-5}$ | 1,240 | 12,15 | 12,15 | $5{,}88\times10^{4}$ | $9\times10^{2}$ |
-| $1{,}80\times10^{-5}$ | 1,330 | 13,03 | 13,03 | $5{,}56\times10^{4}$ | $8\times10^{2}$ |
-| $1{,}90\times10^{-5}$ | 1,361 | 13,34 | 13,34 | $5{,}26\times10^{4}$ | $7\times10^{2}$ |
-| $2{,}00\times10^{-5}$ | 1,442 | 14,13 | 14,13 | $5{,}00\times10^{4}$ | $6\times10^{2}$ |
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ouSnEj2h7kWDEypnKN_cG8GC6f1DDcTi/view)
+| $1{,}00\times10^{-5}$ | 0.000 | 0.00 | 0.00 | $1{,}00\times10^{5}$ | $3\times10^{3}$ |
+| $1{,}10\times10^{-5}$ | 0.382 | 3.74 | 3.74 | $9{,}09\times10^{4}$ | $2\times10^{3}$ |
+| $1{,}20\times10^{-5}$ | 0.568 | 5.57 | 5.57 | $8{,}33\times10^{4}$ | $2\times10^{3}$ |
+| $1{,}30\times10^{-5}$ | 0.738 | 7.23 | 7.23 | $7{,}69\times10^{4}$ | $1\times10^{3}$ |
+| $1{,}40\times10^{-5}$ | 0.938 | 9.19 | 9.19 | $7{,}14\times10^{4}$ | $1\times10^{3}$ |
+| $1{,}50\times10^{-5}$ | 0.980 | 9.60 | 9.60 | $6{,}67\times10^{4}$ | $1\times10^{3}$ |
+| $1{,}60\times10^{-5}$ | 1.105 | 10.83 | 10.83 | $6{,}25\times10^{4}$ | $1\times10^{3}$ |
+| $1{,}70\times10^{-5}$ | 1.240 | 12.15 | 12.15 | $5{,}88\times10^{4}$ | $9\times10^{2}$ |
+| $1{,}80\times10^{-5}$ | 1.330 | 13.03 | 13.03 | $5{,}56\times10^{4}$ | $8\times10^{2}$ |
+| $1{,}90\times10^{-5}$ | 1.361 | 13.34 | 13.34 | $5{,}26\times10^{4}$ | $7\times10^{2}$ |
+| $2{,}00\times10^{-5}$ | 1.442 | 14.13 | 14.13 | $5{,}00\times10^{4}$ | $6\times10^{2}$ |
 
 
 

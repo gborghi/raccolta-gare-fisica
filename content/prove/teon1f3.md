@@ -543,36 +543,8 @@ $T_C= -18\ ^\circ\text{C}$, a ambiente é $T_A = 25\ ^\circ\text{C}$ e a de cons
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 8  Spesso si ricorre a cibi congelati pronti per un pasto. Con un
-Se non avete fatto molta pianificazione, potete toglierlo dal congelatore ore prima di consumarlo per raggiungere il
-temperatura ambiente prima di riscaldarlo. Per stimare l'energia risparmiata da questa pratica, calcoli
-il rapporto tra le quantità di energia $Q_A/Q_B$, dove $Q_A$ è la quantità di energia necessaria per riscaldare il
-il cibo di qualcuno che segue questa pratica e $Q_B$ è l'energia necessaria per riscaldare il cibo estratto
-direttamente dal freezer. Poiché la maggior parte dei cibi contiene acqua e questa ha più calore
-La Commissione ha inoltre adottato una decisione che prevede che le misure di sicurezza e di sicurezza di cui all'articolo 6 del regolamento (CE) n.
-Considerando quello che succede all'acqua. Calcola $Q_A/Q_B$, supponendo che la temperatura del congelatore sia
-$T_C= -18\ ^\circ\text{C}$, l'ambiente è $T_A = 25\ ^\circ\text{C}$ e il consumo è $T_H = 70\ ^\circ\text{C}$.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
+Quesito 8 – Spesso si ricorre a cibi congelati già pronti per preparare un pasto. Con un po’ di pianificazione, è possibile prelevare il cibo dal congelatore diverse ore prima del consumo, in modo che raggiunga la temperatura ambiente prima di essere riscaldato. Per stimare il risparmio energetico di questa pratica, calcolare il rapporto tra le quantità di energia $Q_A/Q_B$, dove $Q_A$ è la quantità di energia necessaria per riscaldare il cibo da parte di chi segue questa pratica e $Q_B$ è l’energia necessaria per riscaldare il cibo prelevato direttamente dal congelatore. Dato che la maggior parte dei cibi contiene acqua e l’acqua ha un calore specifico maggiore rispetto a grassi, zuccheri e proteine, una buona stima del risparmio può essere ottenuta considerando ciò che avviene con l’acqua. Stimare $Q_A/Q_B$, supponendo che la temperatura del congelatore sia $T_C= -18\ ^\circ\text{C}$, quella ambiente sia $T_A = 25\ ^\circ\text{C}$ e quella di consumo sia $T_H = 70\ ^\circ\text{C}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8  Frozen food is often used for preparing a meal. With one
-It is possible to remove it from the freezer hours before consuming it so that it reaches the
-the ambient temperature before heating it. To estimate the energy savings of this practice, calculate the
-The energy ratio $Q_A/Q_B$ where $Q_A$ is the energy required to heat the
-food from someone who follows this practice and $Q_B$ is the energy required to heat the food removed
-directly from the freezer. Since most food contains water, and it's hotter than water,
-The Commission has already made a number of proposals to the Council.
-Considering what happens to water. Estimate $Q_A/Q_B$, assuming that the freezer temperature is
-$T_C= -18\ ^\circ\text{C}$, a ambiente é $T_A = 25\ ^\circ\text{C}$ e a de consumo é $T_H = 70\ ^\circ\text{C}$.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qikrN9vUoBXEcfdEn1QkK4FQeu0ZksPy/view)
+Problem 8 – Often, ready-to-eat frozen meals are used to prepare a meal. With some planning, it is possible to remove the food from the freezer several hours before consumption so that it reaches room temperature prior to heating. To estimate the energy savings from this practice, calculate the ratio between the amounts of energy $Q_A/Q_B$, where $Q_A$ is the amount of energy required to heat the food for someone who follows this practice and $Q_B$ is the energy needed to heat the food directly from the freezer. Given that most foods contain water, and water has a higher specific heat capacity than fats, sugars, and proteins, a good estimate of the savings can be obtained by considering what happens with water. Estimate $Q_A/Q_B$, assuming that the freezer temperature is $T_C= -18\ ^\circ\text{C}$, room temperature is $T_A = 25\ ^\circ\text{C}$, and consumption temperature is $T_H = 70\ ^\circ\text{C}$.

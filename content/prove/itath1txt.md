@@ -151,44 +151,31 @@ nell’intervallo compreso tra
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following conditions shall apply:
+**Ping-Pong Conduction**
 
 Theoretical Question 1
-Page 2 and 2
-Theoretical problem n. 1
-Driving at Ping-Pong
-A flat capacitor has circular frames, of radius R and separated by a distance d,
-with
-, as shown in Fig. 1.1(a). The upper plate is held at a
-The electrical potential V, constant, while the lower plate is laid down. Subsequently a thin, small, mass-producing disc
+Page 1/2
+Theoretical Problem No. 1
+Ping-Pong Conduction
+
+A parallel-plate capacitor has circular plates of radius R, separated by a distance d, with
+, as shown in Fig. 1.1(a). The upper plate is maintained at a constant electric potential V, while the lower plate is grounded. Subsequently, a thin and small disk of mass
 , radius r (
-) and thickness
- (
-The bottom plate is supported in the centre of the lower plate, as shown in Fig. 1.1(b).
-The vacuum between the plates is made, which has a constant dielectric
-both plates;
-The disc and the other two are perfect conductors; all the effects at the edges are electrostatic in nature.
-They can be overlooked. The whole circuit's inductance and relativistic effects can certainly be ignored. The distortion effects on the electric field produced by the charge on the disc can also be neglected.
-Figure 1.1 Schematic designs (a) of the flat-faced parallel capacitor connected to a constant electric potential source and (b)
-a side view of the parallel plates with a small disc inserted
-in the condenser. (Read the text for details.)
-(a) [1.2 points] Before inserting the disc into the capacitor, calculate the
-Electrostatic force
-between the plates, which are spaced apart
-, as shown in Fig.
-1.1(a) .
-(b) [0.8 points] After the disc has been rested above the lower plate, the charge shall be
-Electrical
-It's on Fig's disc. 1.1 (b) depends on the electrical potential
-Second
-The report
-. Expressing
-In accordance with
-,
-ed
+), and thickness (
+), is placed on the center of the lower plate, as shown in Fig. 1.1(b).
+A vacuum is created between the plates, which has a dielectric constant
+; both the plates and the disk are perfect conductors; all edge effects of electrostatic nature may be neglected. The inductance of the entire circuit and relativistic effects can certainly be ignored. Also, distortions of the electric field caused by charge on the disk may be neglected.
+
+Figure 1.1 Schematic drawings (a) of a parallel-plate capacitor connected to a constant-voltage source and (b) a side view of the parallel plates with a small disk inserted into the capacitor. (Read the text for details.)
+
+(a) [1.2 points] Before inserting the disk into the capacitor, calculate the electrostatic force between the plates, separated by a distance
+, as shown in Fig. 1.1(a).
+(b) [0.8 points] After the disk has been placed on the lower plate, the electric charge that accumulates on the disk in Fig. 1.1(b) depends on the electric potential according to the relation
+. Express in terms of
+, and
 .
-(c) [0.5 points] The parallel plates of the capacitor lie perpendicular to a
-(a)
+
+(c) [0.5 points] The parallel plates of the capacitor lie perpendicular to a (a)
 d
 V
 R
@@ -198,86 +185,47 @@ r
 d
 q
 +V
-side
-viewview
-Other, of a kind used for the manufacture of goods
-(b)
+side view
+vista laterale (b)
 
 Theoretical Question 1
-The Commission shall adopt implementing acts in accordance with Article 2 (2) of this Regulation.
-uniform gravitational field of intensity
-. To lift the disc, initially
-If the electrical potential applied to the upper plate is still, it is necessary to increase it further.
-a threshold value
-. The following is the list of the following:
-In accordance with
+Page 2/2 uniform gravitational field of intensity
+. To lift the disk, initially at rest, it is necessary to increase the electric potential applied to the upper plate beyond a threshold value
+. Derive in terms of
 ,
-,
- e
+, and
 .
-(d) [2.3 points] Where:
-, the disk performs an up-and-down motion between the two
-The plates. (Assuming that the disc moves only vertically without any lateral oscillation.) The collisions between the disc and the plates are anelastic and are characterized by
-a return coefficient
-Where
- e
-The speed of the disc immediately before and immediately after the single impact. The plates are
-permanently fixed in their positions. The speed of the disc immediately after impact with the
-the lower plate reaches a value
-characteristic of a stationary state and that
-depends on
-as follows:
+
+(d) [2.3 points] In the case where
+, the disk performs an up-and-down motion between the two plates. (Assume that the disk moves only vertically, without any lateral wobbling.) The collisions between the disk and the plates are inelastic and characterized by a coefficient of restitution
+, where and denote respectively the velocity of the disk just before and just after a single collision. The plates are firmly fixed in their positions. The velocity of the disk immediately after colliding with the lower plate reaches a characteristic value in a "steady state" that depends as follows:
 .
 (1.1)
-Express the coefficients
- e
-In accordance with
+Express the coefficients and in terms of
 ,
 ,
+, and
+. Assume that the entire surface of the disk contacts the plate uniformly and simultaneously so that in each collision, complete charge transfer occurs instantaneously.
+(e) [2.2 points] After the system has reached the steady state, the time-averaged electric current, I, flowing through the capacitor plates can be approximated by the relation
+, in the case where
+. Express the coefficient in terms of
 ,
- ed
-. Assuming that
-The entire surface of the disc touches the plate evenly and simultaneously so that
-In each collision, the full charge exchange occurs instantaneously.
-(e) [2.2 points] After the system has reached a steady state, the electric current
-The average time of the flow through the capacitor plates can be approximated by the ratio of the
-, in the event that
-. Express the coefficient
-In accordance with
-,
-,
-ed
+, and
 .
-(f) [3 points] When the electric potential applied
-The number of people who are in the
-The Commission has also adopted a number of measures to combat the potential of the Community industry.
-, below which the
-The electrical charge will stop flowing through the plates. Expressing
-and the corresponding
-Electric current
-In accordance with
+
+(f) [3 points] When the applied electric potential is decreased (in a very slow manner), there exists a critical value of the potential,
+, below which electric charge will cease to flow through the plates. Express
+ and the corresponding current in terms of
 ,
 ,
-,
- ed
-. Through one
-Comparison of
-with the value discussed in (c) of the electric potential threshold for the
-the disc's rise,
+, and
+. By comparing
+ with the value discussed in (c) for the threshold electric potential for disk lifting,
 , draw an approximate graph of the characteristic function
-, in the event that
-It has first increased and then decreased
-The range between
- e V = 3
-.
+, in the case where it is first increased and then subsequently decreased over the interval between
+ and V = 3.
 
 <!--fig:start-->
-**p.1 **  Flat-disc and side view capacitor
+**p.1** — Parallel-plate capacitor with disk and side view
 ![[_attachments/itath1txt/itath1txt_p1_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1t94saXEJ3TwVgQPK28Xzxd1N1f7XR44f/view)

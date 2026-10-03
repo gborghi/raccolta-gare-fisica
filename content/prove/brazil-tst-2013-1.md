@@ -120,103 +120,54 @@ in first approximation, where there is loss of contact.
 
 <div class="qlang-split" data-lang="it"></div>
 
-1. Movimento di una particella su una sfera
-superficie
+1. Movimento di una particella su una superficie sferica
 
-Considera una particella di massa m posizionata su una superficie sferica di raggio R. La misurazione del valore di $\theta$ è
-angolo, relativo alla verticale, della posizione della particella in un dato istante di tempo.
-Vedi la figura qui sotto.
+Si consideri una particella di massa m posta su una superficie sferica di raggio R. Sia $\theta$ l'angolo, rispetto alla verticale, della posizione della particella in un dato istante di tempo.
+Vedere la figura riportata qui sotto.
 
-Il movimento della particella è considerato solo nel piano della carta.
+Il movimento della particella è considerato solo nel piano del foglio.
 
-Supponiamo che la particella sia posizionata, inizialmente, in un angolo $\theta_0$ e con velocità angolare
-$\omega_0=(d\theta/dt)_0$. Supponiamo anche che il movimento sia sempre limitato alla regione.
-$\pi/2\leq\theta\leq\pi/2$, so that we won’t have to worry about the particle losing contact with the
-superficie.
+Si supponga che la particella venga inizialmente collocata a un angolo $\theta_0$ con velocità angolare $\omega_0=(d\theta/dt)_0$. Si assuma inoltre che il movimento sia sempre limitato alla regione -$\pi/2\leq\theta\leq\pi/2$, in modo da non dover preoccuparsi che la particella perda contatto con la superficie.
 
-a) Calcolare la velocità angolare $\omega$ della particella quando si trova in un angolo determinato
-$\theta$. Esprimere il risultato in termini di $\omega_0$, $\theta_0$, il raggio R e la gravità locale g.
+a) Calcolare la velocità angolare $\omega$ della particella quando si trova in un dato angolo $\theta$. Esporre il risultato in termini di $\omega_0$, $\theta_0$, del raggio R e dell'accelerazione di gravità locale g.
 
-b) A quali intervalli sono limitati in questo caso l'angolo e la velocità angolare?
+b) A quali intervalli sono limitati l’angolo e la velocità angolare in questo caso?
 
-Ora supponiamo che ci sia un coefficiente di attrito dinamico $\mu(\theta$), che può dipendere da
-il punto, ma è una funzione continua dell'angolo.
+Ora si assume che esista un coefficiente di attrito dinamico $\mu(\theta$, il quale può dipendere dal punto, ma è una funzione continua dell’angolo.
 
-Supponiamo che la particella non ruoli, che scivoli solo. Nella prossima domanda,
-rispondere alle domande a) e b), ma comprese le conseguenze della friczione:
-c) Scrivere l'equazione differenziale che relaziona l'angolo $\theta$ della posizione della particella
-con il tempo t. Farla dipendere solo da parametri conosciuti (dato nel problema
-testo). Ricordate che, a causa del fatto che la direzione della forza di attrito dipende
-sulla direzione della velocità, avremo bisogno di due equazioni, per i casi in cui la velocità
-la particella si muove in senso orario o in senso contrario.
+Supponiamo che la particella non rotoli, ma scivoli soltanto. Nelle domande successive risponderemo ai punti a) e b), ma includendo l'effetto dell’attrito:
 
-Dopo essere stato rilasciato dalla posizione iniziale $\theta_0>0$, a partire dal riposo, comincia a
-scendono lungo la superficie fino a quando non si ferma. Allora, ci sono molte possibilità,
-a seconda del livello di attrito: è possibile che si fermi in un angolo positivo e, se
-la frizione statica può gestirla, rimarrà fermata; è possibile che si ferma in una
-angolo negativo (cioè che va oltre il punto più basso della cavità), ma rimane
-stazionario, se la frizione statica è sufficiente; oppure può anche raggiungere un angolo negativo e
-scendere di nuovo, nella direzione contraria al senso orario, e poi uno dei tre
-Le situazioni si ripeteranno. In questo caso, il Parlamento europeo ha deciso di far parte della proposta di risoluzione.
-la particella si muove in senso orario (prima della prima fermata).
+c) Scrivere l’equazione differenziale che lega l’angolo $\theta$ della posizione della particella al tempo t. Farla dipendere soltanto dai parametri noti (forniti nel testo del problema). Ricordare che, a causa del fatto che la direzione della forza di attrito dipende dalla direzione della velocità, sarà necessario utilizzare due equazioni, per i casi in cui la particella si muove orariamente o antiorariamente.
 
-Potrebbe essere possibile capire che è piuttosto complicato risolvere direttamente l'equazione
-della domanda c). Tuttavia, vedremo che sarà molto più facile risolvere il angolare
-La velocità come funzione dell'angolo $(\omega=\omega(\theta$)) e quindi, in un primo momento, sarà possibile
-determinare $\theta(t$), o meglio $t(\theta$), con l'integrale
+Dopo essere stata rilasciata dalla posizione iniziale $\theta_0>0$, partendo da ferma, comincerà a scendere lungo la superficie fino a fermarsi. A questo punto, esistono molteplici possibilità, in base al livello di attrito: è possibile che si fermi a un angolo positivo, e, se l’attrito statico è sufficiente, rimarrà ferma; è possibile che si fermi a un angolo negativo (cioè, abbia superato il punto più basso della cavità), ma rimanga ferma se l’attrito statico è sufficiente; oppure può raggiungere un angolo negativo e scendere nuovamente, in senso antiorario, ripetendo poi qualunque delle tre situazioni precedenti. Tuttavia, analizzeremo soltanto la prima fase del moto, quando la particella si muove in senso orario (prima della prima arresto).
 
-d) Mostra che è possibile correlare la velocità angolare con l'angolo con il
-in base alla seguente equazione differenziale:
+Potrebbe essere possibile rendersi conto che risolvere direttamente l'equazione del punto c) è abbastanza complesso. Tuttavia vedremo che sarà molto più semplice determinare la velocità angolare in funzione dell'angolo $(\omega=\omega(\theta$)) e, successivamente, sarà possibile determinare $\theta(t$), oppure meglio, $t(\theta$), tramite l'integrale
 
-Tale equazione è molto più semplice da risolvere (è conosciuta come una lineare di primo ordine
-equazione differenziale). L'idea per risolvere una cosa del genere è di cercare di usare la catena
-regola per raggruppare la funzione incognito (in questo caso $\omega^2$) in una singola derivata, così noi
-può integrare la equazione in modo banale. Date un'occhiata ad un'equazione simile dove vediamo un
-applicazione diretta dell'idea di cui sopra:
-dove y=y(x) è la funzione incognito, x è la variabile indipendente e f, J sono noti
-- le funzioni.
+d) Dimostrare che è possibile collegare la velocità angolare all'angolo mediante la seguente equazione differenziale:
 
-e) Risolvere l'equazione differenziale della domanda precedente. Non dimenticare che $\mu$ non è costante.
-Suggerimento: Prova a moltiplicare l'equazione con una funzione $\lambda(\theta$) in modo da poter raggruppare i termini secondo
-- quello che è stato mostrato.
+Un’equazione di questo tipo è molto più semplice da risolvere (è nota come equazione differenziale lineare del primo ordine). L’idea per risolverne una simile consiste nel provare a utilizzare la regola della catena per raggruppare la funzione incognita (in questo caso $\omega^2$) in un’unica derivata, così da poter integrare banalmente l’equazione. Osserva un'equazione simile in cui viene mostrata direttamente l’applicazione dell’idea sopra descritta:
+dove y=y(x) è la funzione incognita, x è la variabile indipendente e f, J sono funzioni note.
 
-f) Quali modifiche devono essere apportate alla soluzione ottenuta in precedenza per analizzare il caso
-dove la particella si muove in senso contrario al senso dell'orologio?
+e) Risolvere l’equazione differenziale del punto precedente. Non dimenticare che $\mu$ non è costante.
+Suggerimento: Prova a moltiplicare l’equazione per una funzione $\lambda(\theta$) in modo da poter raggruppare i termini secondo quanto mostrato.
 
-Ora, semplifichiamo, abbastanza ragionevolmente, che il coefficiente di
-la frizione $\mu$ è costante su tutta la superficie.
+f) Cosa deve essere modificato nella soluzione ottenuta in precedenza per analizzare il caso in cui la particella si muove nel senso antiorario?
 
-g) Aggiungere questa semplificazione alla soluzione ottenuta in precedenza, ottenendo il quadrato di
-la velocità angolare $\omega^2(\theta$) come funzione dell'angolo $\theta$. Questa espressione diventa
-La domanda a) quando abbiamo $\mu=0$?
+Ora facciamo una semplificazione, sufficientemente ragionevole, secondo cui il coefficiente di attrito $\mu$ è costante su tutta la superficie.
 
-Suggerimento: Potresti voler utilizzare il risultato della seguente integrale:
+g) Aggiungi questa semplificazione alla soluzione precedente, ottenendo il quadrato della velocità angolare $\omega^2(\theta$ come funzione dell'angolo $\theta$. Questa espressione diventa quella del punto a) quando abbiamo $\mu=0$?
 
-L'obiettivo è quello di trarre conclusioni rapide senza dover ricorrere a numeri
-La Commissione ha adottato un'ottica di valutazione del rischio di frattura.
-La particella, anche se abbiamo già un'idea molto chiara di questo, supponiamo che il
-la frizione è molto bassa, cioè la superficie è quasi liscia.
+Suggerimento: Potresti voler utilizzare il risultato dell'integrale seguente:
 
-h) Mostra che, per ogni punto della superficie, la velocità angolare è inferiore rispetto a
-il caso in cui non vi sia attrito.
+Per trarre alcune conclusioni rapide, senza dover ricorrere a metodi numerici, e che ci aiutino a comprendere l'effetto dell’attrito sul moto della particella, anche se già ne abbiamo un'idea molto chiara, supponiamo che l’attrito sia molto basso, ossia la superficie sia quasi liscia.
 
-i) Dopo aver rilasciato la particella da $\theta_0$ e dal riposo, si scivola fino a fermarsi per il
-per la prima volta, su un angolo $\theta_1$. Poiché un po' della sua energia è stata rimossa dalla frizione,
-Non potrà andare così lontano se non ci fosse attrito. Calcolare l'angolo $\delta\theta$
-che la particella non è in grado di raggiungere, rispetto al caso senza attrito.
+h) Dimostra che, in ogni punto della superficie, la velocità angolare è minore rispetto al caso in cui l’attrito è assente.
 
-j) Ora, si consideri che la superficie in cui scende la particella è convexa, invece di
-concavi, come un igloo. Quali modifiche devono essere apportate alle formule per adattarle
-- E' questo il caso?
-k) Immaginate qualcuno che scivola sulla superficie di questo igloo, con un coefficiente di attrito $\mu<<1$,
-che parte dall'alto e con velocità iniziale quasi zero. Calcolare l'angolo $\theta_*$,
-in prima approssimazione, in caso di perdita di contatto.
+i) Dopo aver rilasciato la particella da $\theta_0$, e da fermo, essa scivolerà fino a fermarsi per la prima volta in un angolo $\theta_1$. Poiché una piccola parte della sua energia è stata dissipata dall’attrito, non riuscirà ad arrivare così lontano come farebbe in assenza di attrito. Calcola l’angolo $\delta\theta$ che la particella non riesce a raggiungere, rispetto al caso senza attrito.
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1EoqymfVDezyLMPVXPuBxR_mOr0cF55fx/view)
+j) Ora considera che la superficie lungo cui scende la particella è convessa, invece di concava, come un igloo. Quali modifiche devono essere apportate alle formule per adattarle a questo caso?
+
+k) Immagina qualcuno che scivola sulla superficie di questo igloo, con coefficiente di attrito $\mu<<1$, che parte dalla cima e con velocità iniziale quasi nulla. Calcola l’angolo $\theta_*$, in prima approssimazione, dove si verifica la perdita di contatto.
 
 
 

@@ -406,28 +406,18 @@ Two rods of the length $l_1$ and $l_2$ are held between two rigid walls $l_1 + l
 
 <div class="qlang-split" data-lang="it"></div>
 
-Due bastone di lunghezza $l_1$ e $l_2$ sono tenute tra due pareti rigide $l_1 + l_2$ separate. Let $\alpha_1, E_1, A_1$ and $\alpha_2, E_2, A_2$ be the thermal coefficient of expansion, Young modulus, and the area of each rod respectively. Quale delle seguenti condizioni garantisce che l'articolazione tra le barre si muova a sinistra se la temperatura del sistema è aumentata? (Supponiamo che entrambe le barre conservino le loro forme cilindriche)
+Due aste di lunghezza $l_1$ e $l_2$ sono tenute tra due pareti rigide distanti $l_1 + l_2$. Siano $\alpha_1, E_1, A_1$ e $\alpha_2, E_2, A_2$ il coefficiente di espansione termica, il modulo di Young e l'area di ciascuna asta rispettivamente. Quale delle seguenti condizioni garantisce che il giunto tra le aste si sposti verso sinistra se la temperatura del sistema aumenta? (Si assuma che entrambe le aste mantengano la loro forma cilindrica)
 
 (A) $\alpha_1 l_1 > \alpha_2 l_2$
-
 (B) $E_1 \alpha_1 l_1 > E_2 \alpha_2 l_2$
-
 (C) $\dfrac{E_1 \alpha_1 l_1}{A_1} > \dfrac{E_2 \alpha_2 l_2}{A_2}$
-
 (D) $\dfrac{E_1 \alpha_1}{A_1} > \dfrac{E_2 \alpha_2}{A_2}$
-
 (E) $\dfrac{E_1}{l_1 A_1} > \dfrac{E_2}{l_2 A_2}$
 
 <!--fig:start-->
 ![[_attachments/2018 cap-2018-v6_protected/2018 cap-2018-v6_protected_p3_f5.png]]
-*Due barre tra pareti rigide*
+*Two rods between rigid walls*
 <!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Thermodynamics]]
-**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jXnu_vJkEKPPqkp3UMWYs4aNKs0TqpFp/view)
 
 
 

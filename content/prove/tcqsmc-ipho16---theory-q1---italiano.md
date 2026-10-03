@@ -240,220 +240,180 @@ Alice e Bob continuano a litigare.
 <div class="qlang-split" data-lang="en"></div>
 
 Theory
-Italian (Italy)
+Italiano (Italy)
+
 Q1-1
-Two problems of mechanics (10 points)
-Before you start this problem, read the general instructions provided separately.
-Part A. The hidden disk (3.5 points)
-A solid disc of wood of $r_1$ radius and $h_1$ thickness shall be considered. Somewhere inside it the wood
-has been replaced by a metal disc of $r_2$ radius and $h_2$ thickness. The metal disc is placed in
-so that its axis of symmetry $B$ is parallel to the axis of symmetry $S$ of the wood disc, and is located
-at the same distance from the two sides of the wooden disc. The distance between $d$ and $S$ $B$ shall be $d$. The wood density is $\rho_1$,
-The metal density is $\rho_2 > \rho_1$. The total mass of the wood disc and the metal disc at its
-The internal value is $M$.
-In this problem, the disk is on a plane so that it can freely rotate to the right and to the right.
-- I'm on the left. In Fig. 1 side view and a view from the top of the device are shown.
-The objective of this problem is to determine the size and position of the metal disc.
-In the following, when you are asked to express the result in terms of known quantities, you must always
-Assume that the following quantities are known:
+Two Mechanics Problems (10 points)
+
+Before starting this problem, read the general instructions provided separately.
+
+Part A. The Hidden Disk (3.5 points)
+
+Consider a solid wooden disk of radius $r_1$ and thickness $h_1$. Somewhere inside, the wood has been replaced by a metallic disk of radius $r_2$ and thickness $h_2$. The metallic disk is positioned such that its symmetry axis $B$ is parallel to the symmetry axis $S$ of the wooden disk, and it lies at equal distance from both faces of the wooden disk. Let $d$ be the distance between $S$ and $B$. The density of wood is $\rho_1$, the density of metal is $\rho_2 > \rho_1$. The total mass of the wooden disk with the metallic disk inside it is $M$.
+
+In this problem, the disk lies on a plane such that it can freely rotate left and right. Figure 1 shows a side view and a top view of the device.
+
+The goal of this problem is to determine the size and position of the metallic disk.
+
+In what follows, whenever you are asked to express a result in terms of known quantities, always assume the following quantities are known:
 $r_1, h_1, \rho_1, \rho_2, M$.
 (1)
-The objective is to determine $r_2$, $h_2$ and $d$, by indirect measurements.
+
+The objective is to determine $r_2$, $h_2$, and $d$ through indirect measurements.
+
 S
-B
-r1
-d
-r2
+B r1 d r2
 S
-B
-r1
-h1
-r2
-h2
+B r1 h1 r2 h2
+
 a)
 b)
-Figure 1: (a) side view (b) view from above
-The distance between the centre of mass of the entire system $C$ and the axis of symmetry of the wood disc $S$ shall be $b$. I 'm going to
-So to determine this distance, we're going to do the following experiment:
-on a horizontal basis so that it is in stable equilibrium. Now, tilt the base slightly.
-di un angolo $\Theta$ (vedasi Fig. 2). Due to the presence of static friction the wooden cylinder can roll
-free without slipping. It will roll slightly down along the slope and then stop in
-a stable equilibrium situation after rotation at an angle $\phi$ that can be measured.
+
+Figure 1: a) side view b) top view
+Let $b$ be the distance between the center of mass $C$ of the entire system and the axis of symmetry $S$ of the wooden disk. To determine this distance, we design the following experiment: place the wooden disk on a horizontal base such that it is in stable equilibrium. Now tilt the base slightly by an angle $\Theta$ (see Figure 2). Due to static friction, the wooden cylinder can roll freely without slipping. It will roll a short distance downward along the inclined plane and then come to rest in a new stable equilibrium position after having rotated by an angle $\phi$, which can be measured.
 
 Theory
-Italian (Italy)
+Italiano (Italy)
 Q1-2
 S
 $\phi$
 $\Theta$
-Figure 2: Disc above the sloping floor.
+Figure 2: disk on the inclined plane.
 A.1
-Write an expression of $b$ according to the quantities indicated in (1),
-The angle $\phi$ and the angle of inclination $\Theta$ of the inclined plane.
+Write an expression for $b$ in terms of the quantities indicated in (1), the angle $\phi$, and the inclination angle $\Theta$ of the inclined plane.
 0.8pt
-From now on it can be assumed that the value of $b$ is known.
+From now on, it may be assumed that the value of $b$ is known.
 S
 $\phi$
-Figure 3: Disco suspended.
-Now we want to determine the moment of inertia $I_S$ of the system with respect to the axis of symmetry $S$. That's why
-The wood disc shall be suspended to its axis of symmetry by means of a rigid axis. So the record
-is rotated from its equilibrium position at a small angle $\phi$, and is released. See the figure
-3 showing the assembly. It is found that $\phi$ describes a periodic motion of $T$ period.
+Figure 3: Suspended disk.
+
+Now we wish to determine the moment of inertia $I_S$ of the system about the axis of symmetry $S$. To this end, the wooden disk is suspended from its axis of symmetry by a rigid rod. Then, the disk is rotated slightly away from its equilibrium position by an angle $\phi$ and released. See Figure 3, which shows the setup. It is found that $\phi$ undergoes periodic motion with period $T$.
 
 Theory
-Italian (Italy)
+Italiano (Italy)
 Q1-3
 A.2
-Find the equation of the angle of motion $\phi$. Esprimere il momento di inerzia $I_S$
-The system with respect to the symmetry axis $S$ in terms of $T$, $b$ and the quantities
-notes referred to in (1). You can assume that you're moving from the equilibrium position
-only in small quantities so that $\phi$ is always very small.
+Find the equation of motion for the angle $\phi$. Express the moment of inertia $I_S$ of the system about the axis of symmetry $S$ as a function of $T$, $b$, and the known quantities indicated in (1). It may be assumed that motion is restricted to small displacements from equilibrium, so that $\phi$ remains always very small.
 0.5pt
-The results of questions A.1 and A.2 shall be used to determine the geometry and position of the disc.
-of metal inside the wood disc.
-A.3
-Find an expression of the distance $d$ in terms of $b$ and the quantities indicated in (1). You can also include the values $r_2$ and $h_2$ as variables in your expression, as they will be determined later in the query
-A.5.
-0.4pt
-A.4
-Find an expression for the moment of inertia $I_S$ in terms of $b$ and the known quantities indicated in (1). You can also include the values $r_2$ and $h_2$ as variables in your expression, as they will be later
-determined in application A.5.
-0.7pt
-A.5
-Using all the above results, write an expression for $h_2$ and $r_2$ in relation to $b$, $T$ and the known quantities indicated in (1). You can express $h_2$ as a
-funzione di $r_2$.
-1.1pt
-Part B. Rotating Space Station (6.5 points)
-Alice is an astronaut who lives on a space station. La stazione spaziale è una gigantesca ruota di raggio $R$ che gira intorno al proprio asse, generando in questo modo una gravità artificiale per gli astronauti.
-Astronauts live in the inner circle of the wheel. Attraction can be overlooked
-The gravitational pull of the space station and the curvature of the floor.
-B.1
-At what angular speed $\omega_{ss}$ the space station must rotate in such a way that
-che gli astronauti percepiscano la stessa gravità $g_E$ che percepirebbero sulla
-the surface of the earth?
-0.5pt
-Alice and her astronaut friend Bob have a fight. Bob doesn 't think they actually exist .
-He's on a space station and thinks he's on Earth. Alice, using physics arguments, wants to prove to Bob that they're inside a rotating space station. To this end, it applies a mass $m$ to
-a spring of constant elasticity $k$ and place it in oscillation. The mass can only oscillate in the direction
-vertical and cannot move in a horizontal direction.
-B.2
-Assuming that gravity on Earth is constant and is $g_E$, what would be the
-The system oscillation frequency $\omega_E$ measured by a person located
-on earth?
-0.2pt
-B.3
-Qual è la frequenza di oscillazione $\omega$ misurata da Alice sulla stazione spaziale?
-0.6pt
-Alice is convinced that her experiment shows that they are inside a rotating space station. Bob , what 's up ?
-He's still skeptical. He contended that if the change in gravity on the
 
-Theory
-Italian (Italy)
-Q1-4
-The results of the study are similar to those of the previous study. In the next step we'll look at whether Bob has
-I'm right.
+From the results obtained in questions A.1 and A.2, determine the geometry and position of the internal metal disk within the wooden disk.
+
+A.3
+Derive an expression for the distance $d$ as a function of $b$ and the quantities indicated in (1). In your expression, you may also include $r_2$ and $h_2$ as variables, since these will be determined later in question A.5.
+0.4pt
+
+A.4
+Derive an expression for the moment of inertia $I_S$ as a function of $b$ and the known quantities indicated in (1). In your expression, you may also include $r_2$ and $h_2$ as variables, since these will be determined later in question A.5.
+0.7pt
+
+A.5
+Using all the previous results, write expressions for $h_2$ and $r_2$ as functions of $b$, $T$, and the known quantities indicated in (1). You may express $h_2$ as a function of $r_2$.
+1.1pt
+
+Part B. Rotating Space Station (6.5 points)
+Alice is an astronaut living on a space station. The space station is a huge wheel of radius $R$ rotating around its own axis, thereby generating artificial gravity for the astronauts.
+The astronauts live on the inner surface of the wheel's rim. Gravitational attraction from the space station itself and locally, the curvature of the floor can be neglected.
+
+B.1
+With what angular velocity $\omega_{ss}$ must the space station rotate so that the astronauts perceive the same gravity $g_E$ as they would on Earth's surface?
+0.5pt
+
+Alice and her fellow astronaut Bob are in disagreement. Bob does not believe they are actually inside a space station, and thinks he is on Earth. Alice wants to prove to Bob that they are inside a rotating space station, using arguments from physics. To this end, she hangs a mass $m$ from a spring with spring constant $k$ and sets it into vertical oscillation. The mass can only oscillate vertically and cannot move horizontally.
+
+B.2
+Assuming on Earth gravity is constant and equal to $g_E$, what would be the oscillation frequency $\omega_E$ of the system as measured by a person on Earth?
+0.2pt
+
+B.3
+What is the oscillation frequency $\omega$ measured by Alice on the space station?
+0.6pt
+Alice is convinced that her experiment demonstrates they are inside a rotating space station. Bob remains skeptical. He counters that if one considered the variation of gravity on Earth's surface, similar results would be obtained. In the following section we will examine whether Bob is correct.
+
 R
 $\omega_{ss}$
 Figure 4: Space station
+
 B.4
-It takes an expression for the gravity $g_E(h)$ for small heights $h$ above the earth's surface and calculates the oscillation frequency
-$\tilde{\omega}_E$ della massa oscillante
-(a linear approximation is more than sufficient). Indicate with $R_E$ the radius of the
-The earth. It traces the rotation of the Earth.
+Derive an expression for gravity $g_E(h)$ at small heights $h$ above Earth's surface, and calculate the oscillation frequency $\tilde{\omega}_E$ of the oscillating mass (a linear approximation is more than sufficient). Let $R_E$ denote Earth's radius. Neglect Earth’s rotation.
+
 0.8pt
-Actually, for this space station Alice finds that the spring pendulum oscillates with frequency
-I'm sure Bob did.
+
+Indeed, for this space station Alice finds that the spring pendulum oscillates with the frequency predicted by Bob.
+
 B.5
-For which radius $R$ of the space station the oscillation frequency $\omega$ is equal
-at the oscillation frequency
-$\tilde{\omega}_E$ sulla Terra? Express your answer in function
-di $R_E$.
+For what radius $R$ of the space station is the oscillation frequency $\omega$ equal to the oscillation frequency $\tilde{\omega}_E$ on Earth? Express your answer in terms of $R_E$.
+
 0.3pt
-Exasperated by Bob's stubbornness, Alice suggests another experiment to test her point.
-I'm not going to be able to see. To this end, he climbs to the top of a tower $H$ above the space station floor and
-He dropped a mass. This experiment can be explained in both the rotating reference system
-as well as in an inertial reference system.
-In a uniformly rotating reference system, astronauts perceive a fictitious force
-$\vec{F}_C$
-The force of Coriolis. The Force
-$\vec{F}_C$ acting on an object of mass $m$ moving at $\vec{v}$ speed in a
-Rotating reference with constant angular velocity
+
+Frustrated by Bob's stubbornness, Alice suggests a further experiment to prove her point of view. To this end, she climbs to the top of a tower of height $H$ above the floor of the space station and drops a mass. This experiment can be explained both in the rotating reference frame and in an inertial reference frame.
+
+In a uniformly rotating reference frame, astronauts perceive a fictitious force
+$\vec{F}_C$ known as the Coriolis force. The force
+$\vec{F}_C$ acting on an object of mass $m$ moving with velocity $\vec{v}$ in a rotating reference frame with constant angular velocity
 $\vec{\omega}_{ss}$ is given by
-$$\vec{F}_C = 2m\vec{v}\times\vec{\omega}_{ss}.$$
-(2)
-In terms of scalar magnitudes,
-$$F_C = 2mv\omega_{ss}\sin\phi,$$
-(3)
+$$\vec{F}_C = 2m\vec{v}\times\vec{\omega}_{ss}.$$ (2)
+In terms of scalar quantities, one obtains
+$$F_C = 2mv\omega_{ss}\sin\phi,$$ (3)
 
 Theory
-Italian (Italy)
-Q1-5
-where $\phi$ is the angle between the speed and the axis of rotation. The force is perpendicular to both the $v$ speed and the
-the axis of rotation. The direction of force can be determined by the right hand rule, but in
-You can choose what you want.
+Italiano (Italy)
+Q1-5 where $\phi$ is the angle between the velocity and the axis of rotation. The force is perpendicular to both the velocity $v$ and the axis of rotation. The direction of the force may be determined using the right-hand rule, but for what follows you may choose it freely.
+
 B.6
-Calculate the horizontal speed $v_x$ and the horizontal displacement $d_x$ (relative to the base of the tower, perpendicular to the tower itself) of the mass
-The moment it touches the floor. You can assume that the height $H$ of the
-The tower is small, so the acceleration measured by the astronauts is constant.
-during the fall. You can also assume that it's $d_x \ll H$.
-1.1pt
-To get a good result, Alice decided to conduct this experiment from a much larger tower
-higher than the previous one. To his surprise, the mass touches the floor at the base of the tower, so that
+Calculate the horizontal velocity $v_x$ and the horizontal displacement $d_x$ (relative to the base of the tower, in a direction perpendicular to the tower itself) of the mass at the instant it hits the floor. You may assume that the height $H$ of the tower is small, so that the acceleration measured by the astronauts remains constant during the fall. Additionally, you may assume that $d_x \ll H$.
+
+1.1 pt
+
+To obtain a good result, Alice decides to carry out this experiment from a much taller tower than the previous one. To her surprise, the mass hits the floor at the base of the tower, so that
 $d_x = 0$.
+
 B.7
-Find the minimum height of the tower for which $d_x = 0$ occurs.
-1.3pt
-Alice is eager to make one last attempt to convince Bob. He wants to use his previous spring oscillator to show the effects of Coriolis' force. To this end, amend the previous assembly:
-attach the spring to a ring which can slide freely along a horizontal axis in the direction $x$ without
-I was frightened. The spring shall oscillate in the direction $y$. The axis is parallel to the floor and perpendicular to the axis of the
-rotation of the space station. The plane $xy$ is perpendicular to the rotation axis, with the direction
-$y$ pointing straight towards the centre of rotation of the station.
+Find the minimum height of the tower for which it happens that $d_x = 0$.
+
+1.3 pt
+
+Alice is eager to make one final attempt to convince Bob. She wants to use her previous spring oscillator to demonstrate the effects of the Coriolis force. To this end, she modifies the previous setup:
+Attach the spring to a ring that can slide freely along a horizontal rod in direction $x$ without friction. The spring oscillates in direction $y$. The rod is parallel to the floor and perpendicular to the rotation axis of the space station. The plane $xy$ is thus perpendicular to the rotation axis, with direction $y$ pointing straight toward the center of rotation of the station.
+
 y = 0
 d
-Figure 5: Assembly.
+Figure 5: Setup.
 
 Theory
-Italian (Italy)
+Italiano (Italy)
 Q1-6
 B.8
-Alice pushes the mass at a distance $d$ downwards from the equilibrium point
-$x = 0$, $y = 0$, and then let it go (see Figure 5).
-- Provide an algebraic expression for $x(t)$ and $y(t)$. You can assume that the
-The amount $\omega_{ss}d$ is small, and neglect the Coriolis force for long-range
-the $y$ axis.
-- Draw the trajectory $(x(t), y(t))$, highlighting all the characteristics
-The number of units of measurement is the same as the number of units of measurement.
+
+Alice pushes the mass a distance $d$ downward from the equilibrium point $x = 0$, $y = 0$, and then releases it (see Figure 5).
+- Provide algebraic expressions for $x(t)$ and $y(t)$. You may assume that the quantity $\omega_{ss}d$ is small, and neglect the Coriolis force for motion along axis $y$.
+- Draw the trajectory $(x(t), y(t))$, highlighting all important features such as amplitude.
+
 1.7pt
-Alice and Bob keep fighting.
+Alice and Bob continue to argue.
 
 <!--fig:start-->
-**p.1**  Disc: side and upper view
+**p.1** — Disk: side view and top view
 ![[_attachments/TCQsmc-IPhO16 - Theory Q1 - Italiano/TCQsmc-IPhO16 - Theory Q1 - Italiano_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Disco sopra al piano inclinato
+**p.2** — Disk above inclined plane
 ![[_attachments/TCQsmc-IPhO16 - Theory Q1 - Italiano/TCQsmc-IPhO16 - Theory Q1 - Italiano_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Disco sospeso ad asta rigida
+**p.2** — Disk suspended by rigid rod
 ![[_attachments/TCQsmc-IPhO16 - Theory Q1 - Italiano/TCQsmc-IPhO16 - Theory Q1 - Italiano_p2_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — Stazione spaziale rotante
+**p.4** — Rotating space station
 ![[_attachments/TCQsmc-IPhO16 - Theory Q1 - Italiano/TCQsmc-IPhO16 - Theory Q1 - Italiano_p4_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5** — Montaggio molla con anello
+**p.5** — Spring setup with ring
 ![[_attachments/TCQsmc-IPhO16 - Theory Q1 - Italiano/TCQsmc-IPhO16 - Theory Q1 - Italiano_p5_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Inclined Plane (object)|Inclined Plane]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1QuWmKdePKZ3i9WpOzn8OfLnhksqNSA7O/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)

@@ -212,36 +212,19 @@ Page 3 of 12
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 4
-Bonnie e Jake sono stati a Goulburn e sono rimasti sorpresi di vedere l'aurora australis una notte. On
-La loro strada per tornare a casa pochi giorni dopo devono guidare attraverso una tempesta massiccia, e mentre si fermano a un
-Sezione di strada inondata hanno una discussione sul tempo e il loro viaggio. Bonnie dice a Jake che
-L'aurora che hanno visto è stata dovuta ad un'alta attività delle macchie solari, che produce un gran numero di energie cariche
-particelle che sperimentano una forza nel campo magnetico terrestre e sono deviate verso i poli,
-dove si scontrano con molecole nell'atmosfera, producendo la luce colorata dell'aurora. Lei...
-menziona che ci deve essere stata molta attività macchia solare per produrre un'aurora visibile fino a nord come
-Goulburn. Jake, che è della Tasmania, dice a Bonnie che ha visto l'aurora diverse volte prima, e
-Ogni volta che lo fa c'è una tempesta entro pochi giorni. Il Consiglio ha adottato una decisione che
-periodi di alta attività delle macchie solari causano tempeste sulla Terra. Bonnie pensa che il ragionamento di Jake sia sbagliato.
-Quale delle seguenti dichiarazioni è la migliore da fare da Bonnie per sottolineare il difetto dell'argomento di Jake?
-a. Ma Jake, so dal corso di fisica atmosferica che ho preso lo scorso semestre che le tempeste sono
-in realtà il risultato di sistemi a bassa pressione nell'atmosfera terrestre.
-b. Jake, hai già pensato a cosa succede quando c'è un'alta attività delle macchie solari, ma il tuo argomento è:
-ignora l'influenza dei periodi di bassa attività delle macchie solari sui sistemi meteorologici della Terra. - Davvero ?
-La Commissione ha adottato una decisione che prevede che le due situazioni siano confrontate per trarre conclusioni.
-c. Ma Jake, hai pensato che solo perché ci sono tempeste appena dopo le macchie solari, le tempeste sono
-causata dall'alta attività delle macchie solari.
-d. Ma Jake, in alcune zone ci sono periodi tempestosi ma non in altre mentre c'è attività di macchie solari.
-e. Bonnie si sbaglia, non c'e' niente di male nell'argomento di Jake.
-Pagina 3 di 12
-2015 esame delle Olimpiadi di Scienze australiane  Fisica
-©Australian Science Innovations 2015 ABN 81731558309
+Problema 4
+Bonnie e Jake sono stati a Goulburn e una notte si sono meravigliati di vedere l'aurora australis. Al loro ritorno, pochi giorni dopo, devono attraversare una tempesta violenta; mentre si fermano in un tratto di strada allagata, discutono del tempo e del viaggio. Bonnie dice a Jake che l'aurora che hanno visto è dovuta all'elevata attività di macchie solari, che producono un gran numero di particelle cariche ad alta energia; queste subiscono una forza nel campo magnetico terrestre e vengono deviate verso i poli, dove collidono con molecole nell'atmosfera, producendo la luce colorata dell'aurora. Lei aggiunge che dev’esserci stata un’alta attività di macchie solari perché l'aurora fosse visibile fino a Goulburn, così lontano verso nord. Jake, che è di Tasmania, dice a Bonnie di aver visto l'aurora diverse volte in precedenza e che ogni volta c’è stata una tempesta nei pochi giorni successivi. Da questa osservazione conclude che i periodi di alta attività di macchie solari causano tempeste sulla Terra. Bonnie ritiene che il ragionamento di Jake sia errato.
 
-**Topic:** [[Magnetism]], [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1o-aFOnbaD-yra_sSQOqMY6mkByjRXFNK/view)
+Quale delle seguenti affermazioni rappresenta meglio il punto che Bonnie può fare per evidenziare l’errore nel ragionamento di Jake?
+(a) L'aurora è visibile solo in zone polari, quindi non può essere osservata a Goulburn.
+(b) Le tempeste terrestri sono causate da correnti atmosferiche, non dalle macchie solari.
+(c) Il fatto che due eventi si verifichino in sequenza non implica un legame di causa ed effetto.
+(d) Le macchie solari non producono particelle cariche ad alta energia.
+a. «Ma Jake, so che dal corso di fisica atmosferica che ho seguito lo scorso semestre che i temporali sono in realtà il risultato di sistemi di bassa pressione nell’atmosfera terrestre».
+b. «Ma Jake, hai considerato ciò che accade quando c’è un’alta attività di macchie solari, ma il tuo ragionamento ignora l’influenza dei periodi di bassa attività di macchie solari sui sistemi meteorologici terrestri. Dovresti veramente confrontare le due situazioni per trarre qualsiasi conclusione».
+c. «Ma Jake, hai supposto che semplicemente perché ci sono temporali subito dopo le macchie solari, i temporali siano causati dall’alta attività di macchie solari».
+d. «Ma Jake, ci sono periodi temporaleschi in alcune aree ma non in altre mentre c’è attività di macchie solari».
+e. Bonnie si sbaglia, non c’è nulla di errato nel ragionamento di Jake.
 
 
 

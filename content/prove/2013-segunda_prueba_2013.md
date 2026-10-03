@@ -125,53 +125,47 @@ Foto di setup sperimentale con clamp
 
 <div class="qlang-split" data-lang="en"></div>
 
-The first is the "Study" test. Study of the transverse vibration of a metallic rule.
+**EXPERIMENTAL PROBLEM. Study of the transverse vibration of a metal ruler.**
 
-The following is the list of the main types of insurance companies:
+**Theoretical background.**
 
-In this experiment, the transverse oscillations of a metallic rule based on its free length, $L$, are studied. In particular, the fundamental mode of vibration will be studied, with a single node at the fixed end and a single antinode (belly) at the free end, as outlined in the figure attached.
+In this experiment, we will study the transverse oscillations of a metal ruler as a function of its free length, $L$. In particular, we will examine the fundamental mode of vibration, with a node at the fixed end and a single antinode (loop) at the free end, as schematically shown in the accompanying figure.
 
-The vibration frequency of the rule, $f$, is expected to depend on its length in the form
+It is expected that the vibration frequency of the ruler, $f$, depends on its length according to
 
 $$f = KL^n, \quad (1)$$
 
-where $n$ is an integer and $K$ is a constant that depends on the material and cross-dimensions of the rule.
+where $n$ is an integer and $K$ is a constant depending on the material and transverse dimensions of the ruler.
 
-The purpose of this test is to determine the values of $n$ and $K$ by measuring $f$ in relation to $L$.
+The objective of this experiment is to determine the values of $n$ and $K$, by measuring $f$ as a function of $L$.
 
-The following information is provided by the Commission:
+**Experimental procedure**
 
-A metal part allows the rule to be held with an adjustable free length, $L$. The set is attached to the table with a "sergeant". The swinging of the rule is too fast to be able to manually timetable its period. The measurement of the oscillation frequency is based on a strobe lighting system: a light source emits very short periodic light pulses, with a frequency $F$, which can be modified. When the stroboscope frequency matches the rule oscillation frequency, i.e. $F = f$, successive pulses will illuminate the rule by passing through the same position, so that the rule will appear apparently at rest.
+A metallic component allows securing the ruler with an adjustable free length, $L$. The assembly is fixed to the table using a "clamp". The ruler's oscillation is too rapid to manually time its period. To measure the oscillation frequency, a stroboscopic lighting system is employed: a light source emits very brief, periodic luminous pulses at a frequency, $F$, which can be adjusted. When the stroboscope's frequency matches that of the ruler’s oscillation, i.e., $F = f$, successive pulses illuminate the ruler while it passes through the same position, making the ruler appear seemingly at rest.
 
-For a series of $L$ lengths of the rule, the frequency $F$ of the stroboscope is adjusted to make the vibrating rule appear apparently still, and this lighting frequency is measured with a frequency meter. The following table shows the results obtained, assuming $f = F$:
+For a series of lengths $L$ of the ruler, the frequency $F$ of the stroboscope is adjusted until the vibrating ruler appears seemingly stationary, and this illumination frequency is measured with a frequency meter. The following table shows the obtained results, assuming $f = F$:
 
 | $L$ (m) | 0,100 | 0,110 | 0,120 | 0,130 | 0,140 | 0,150 | 0,160 | 0,170 | 0,180 | 0,190 | 0,200 | 0,210 | 0,220 |
-|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|----------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | $f$ (Hz) | 41,03 | 35,31 | 29,48 | 24,27 | 21,32 | 9,51 | 16,05 | 14,72 | 12,94 | 11,85 | 10,43 | 9,31 | 8,60 |
 
-The Commission has also adopted a number of proposals for the implementation of the programme.
+**Questions.**
 
-(a) The $f$ value presented in the table for $L = 0{,}150$ m is clearly incorrect, as it deviates from the tonic followed by the other measurements. Think and explain what the cause of the error may be, and correct that value of $f$ appropriately. If you can't find a logical solution to the problem, discard the measure and move on.
+a) The value of $f$ presented in the table for $L = 0{,}150$ m is clearly erroneous, as it deviates from the trend followed by the other measurements. Think and explain what might be the cause of this error, and properly correct that value of $f$. If you cannot find a logical solution to the problem, discard the measurement and proceed.
 
-(b) From the measures shown in the table, with the graph and the adjustment you deem appropriate, deduct the value of the exponent $n$ in equation (1). Remember that $n$ must be an integer.
+b) Based on the data listed in the table, using the appropriate graph and fitting method, deduce the value of the exponent $n$ in equation (1). Remember that $n$ must be an integer.
 
-*Help*: taking logarithms in (1) you get a linear relationship between the logarithms of $f$ and $L$.
+*Hint*: by taking logarithms in (1), you will obtain a linear relationship between the logarithms of $f$ and those of $L$.
 
-(c) Determine the value of the rule constant $K$.
+c) Determine the value of the ruler's constant $K$.
 
-(d) Estimate the uncertainty (error margin) of this constant, $\Delta K$.
+d) Make an estimate of the uncertainty (error margin) of this constant, $\Delta K$.
 
 <!--fig:start-->
 ![[_attachments/2013 segunda_prueba_2013/2013 segunda_prueba_2013_p2_f1.png]]
-Metal rule clamped at one end, stroboscope setup
+*Metal rule clamped at one end, stroboscope setup*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2013 segunda_prueba_2013/2013 segunda_prueba_2013_p2_f2.png]]
-Photo of experimental setup with clamp
+*Photo of experimental setup with clamp*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Rod (object)|Rod]], [[Beam (object)|Beam]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1QkvrlukWUvgoKnpQ7mi2EWWMlZmY7X37/view)

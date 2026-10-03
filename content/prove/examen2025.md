@@ -414,94 +414,59 @@ possibili fonti di errore nell'esperimento.
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 3: Experimental (optional)
-Conversion efficiency in a solar cell
-Objective: Determine the conversion efficiency of a solar cell by analysing the
-Measurements of generated electrical power and incident light power.
-Theoretical foundation: Solar cells convert light energy into electrical energy
-by the photovoltaic effect. This phenomenon occurs when incident photons excite
-electrons in a semiconductor material, generating an electric current. The efficiency of
-Conversion $\eta$ is defined as the ratio of the generated electrical power ($P_\text{el}$) to the power
-luminosa incidente ($P_\text{in}$):
-$$\eta = \frac{P_\text{el}}{P_\text{in}} \times 100.$$
-The electrical power generated shall be calculated as follows:
-$$P_\text{el} = V \cdot I$$
-where V is the voltage generated and I is the electric current measured. Incident light power
-depends on the light intensity ($\Phi_\text{in}$) measured in $\text{W/m}^2$, and the active area of the cell (A):
-$$P_\text{in} = \Phi_\text{in} \cdot A$$
-In this experiment, the solar cell is exposed to an artificial light source that simulates radiation.
-solar, which is known as a solar simulator, and its electrical response is measured for different
-loads connected. Although actual measurements are not performed in this test, the
-experimental steps to be followed and a set of laboratory data is provided.
-The following is the list of the types of test equipment used:
+Solar Cell Conversion Efficiency
 
-The Commission shall adopt the following implementing acts:
-1. The solar cell is placed at a fixed distance from the lamp, ensuring that the light is
-The surface of the material is perpendicular to the surface of the material.
-2. The luminometer is used to measure the light intensity $\Phi_\text{in}$ at the cell position.
-A value is recorded every 10 seconds for one minute. This will give you an average value.
-3. The variable resistance and the multimeter are connected to the solar cell circuit to measure
-V and I simultaneously.
-4. The resistance varies from $0\ \Omega$ to $50\ \Omega$ and the corresponding values of
-V e I.
-The data shall be reported in the following table:
-R ($\Omega$)
-V (V)
-I (mA)
-10
-3.6
-120.1
-15
-5.4
-114.9
-20
-7.2
-110.2
-25
-9.0
-104.8
-30
-10.5
-100.2
-35
-11.7
-95.0
-40
-12.6
-90.1
-45
-13.2
-84.8
-t(s)
-$\Phi_\text{in}$ ($\text{W/m}^2$)
-0
-794
-10
-798
-20
-800
-30
-802
-40
-804
-50
-804
-Questions to be resolved:
+Objective: Determine the conversion efficiency of a solar cell by analyzing measurements of generated electrical power and incident luminous power.
+
+Theoretical Background: Solar cells convert light energy into electrical energy through the photovoltaic effect. This phenomenon occurs when incident photons excite electrons in a semiconductor material, generating an electric current. The conversion efficiency $\eta$ is defined as the ratio between the generated electrical power ($P_\text{el}$) and the incident luminous power ($P_\text{in}$):
+$$\eta = \frac{P_\text{el}}{P_\text{in}} \times 100.$$
+
+The generated electrical power is calculated as:
+$$P_\text{el} = V \cdot I$$ where V is the voltage produced and I is the measured electric current. The incident luminous power depends on the light intensity ($\Phi_\text{in}$) measured in $\text{W/m}^2$, and on the active area of the cell (A):
+$$P_\text{in} = \Phi_\text{in} \cdot A$$
+
+In this experiment, the solar cell is exposed to an artificial light source simulating solar radiation, known as a solar simulator. The electrical response is measured for different connected loads. Although actual measurements are not performed in this test, the experimental steps to follow are described, and a set of data obtained in the laboratory is provided.
+
+Experimental Setup
+
+Experimental Procedure
+1. The solar cell is placed at a fixed distance from the lamp, ensuring that light strikes its surface perpendicularly.
+2. The luxmeter is used to measure the luminous intensity $\Phi_\text{in}$ at the position of the cell.
+A value is recorded every 10 s for one minute. From this, an average value will be obtained.
+
+3. The variable resistor and multimeters are connected to the solar cell circuit to simultaneously measure V and I.
+
+4. The resistance is varied from $0\ \Omega$ to $50\ \Omega$, and the corresponding values of V and I are recorded.
+
+Experimental Data
+R ($\Omega$) | V (V) | I (mA)
+---|---|---
+10 | 3.6 | 120.1
+15 | 5.4 | 114.9
+20 | 7.2 | 110.2
+25 | 9.0 | 104.8
+30 | 10.5 | 100.2
+35 | 11.7 | 95.0
+40 | 12.6 | 90.1
+45 | 13.2 | 84.8
+
+t(s) | $\Phi_\text{in}$ ($\text{W/m}^2$)
+---|---
+0 | 794
+10 | 798
+20 | 800
+30 | 802
+40 | 804
+50 | 804
+
+Questions to solve:
 - **A.** Calculate the electrical power $P_\text{el}$ for each measurement.
 - **B.** Determine the luminous power $P_\text{in}$.
-- **C.** Graphically represent $P_\text{el}$ in front of R and discuss how the electrical power behaves
-generated on the basis of load resistance.
-d. Determine the maximum value of $P_\text{el}$ ($P_\text{el,máx}$). What resistance is this for?
-e. Use the points from $R = 10\ \Omega$ to $R = 25\ \Omega$ to calculate the initial slope of $P_\text{el}$
-I'm going to R.
-f. Use this slope to estimate the resistance where $P_\text{el,máx}/2$ is reached.
-g. Calculate the conversion efficiency $\eta$ for the maximum electrical power generated and compare it with the typical values of commercial solar cells $(20-22\ \%)$. Discuss
-possible sources of error in the experiment.
-
-**Topic:** [[Circuits]], [[Modern-Quantum Physics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1FyLOOXKxkG5jm_LcXtGFjWcMaUlU7b_p/view)
+- **C.** Plot $P_\text{el}$ versus R and discuss how the generated electrical power behaves as a function of load resistance.
+d. Determine the maximum value of $P_\text{el}$ ($P_\text{el,máx}$). At what resistance does this occur?
+e. Use the data points from $R = 10\ \Omega$ to $R = 25\ \Omega$ to calculate the initial slope of $P_\text{el}$ versus R.
+f. Use this slope to estimate the resistance at which $P_\text{el,máx}/2$ is achieved.
+g. Calculate the conversion efficiency $\eta$ corresponding to the maximum electrical power generated, and compare it with typical values for commercial solar cells $(20-22\ \%)$. Discuss possible sources of error in the experiment.
 
 
 

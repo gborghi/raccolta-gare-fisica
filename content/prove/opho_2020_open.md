@@ -350,15 +350,9 @@ Note: The ultimate tensile strength is maximum amount of stress an object can en
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Wannabe Twoset.** Eddie is experimenting with his sister's violin. Allow the "A" string of his sister's violin have an ultimate tensile strength $\sigma_1$. He tunes a string up to its highest possible frequency $f_1$ before it breaks. Poi costruisce una copia esatta del violino, dove tutte le lunghezze sono state aumentate di un fattore $\sqrt{2}$ e sintonizza la stessa corda di nuovo alla sua frequenza più alta possibile $f_2$. Che cos'è $f_2/f_1$? La densità della corda non cambia.
+**Wannabe Twoset.** Eddie sta sperimentando con il violino di sua sorella. Si consideri che la corda "A" del violino di sua sorella abbia una resistenza ultima a trazione $\sigma_1$. Egli regola la corda fino alla sua frequenza massima possibile $f_1$ prima che si spezzi. Successivamente costruisce una copia esatta del violino, in cui tutte le lunghezze sono aumentate di un fattore $\sqrt{2}$, e regola nuovamente la stessa corda fino alla sua frequenza massima possibile $f_2$. Qual è il valore di $f_2/f_1$? La densità della corda non cambia.
 
-Nota: la resistenza alla trazione massima è la quantità massima di stress che un oggetto può sopportare senza rottura. La pressione è definita come $\frac{F}{A}$, o forza per unità di superficie.
-
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
-**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
+Nota: la resistenza ultima a trazione è il massimo valore di tensione che un oggetto può sopportare senza rompersi. La tensione è definita come $\frac{F}{A}$, ovvero forza per unità di area.
 
 
 
@@ -975,13 +969,7 @@ Calcola l'energia prodotta nel nucleo del Sole al secondo dalla fusione di elio.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Be Reflected It Must.** While exploring outer space, Darth Vader comes upon a purely reflective spherical planet with radius $R_p = 40{,}000\text{ m}$ and mass $M_p = 8.128 \times 10^{24}\text{ kg}$. Intorno al pianeta c'è una strana luna di raggio orbitale $R_s = 6{,}400{,}000\text{ m}$ ($R_s \gg R_p$) e massa $M_s = 9.346 \times 10^{19}\text{ kg}$ ($M_s \ll M_p$). La luna può essere modellata come un corpo nero e assorbe la luce perfettamente. Darth Vader è nello stesso piano in cui orbita il pianeta. Startled, Darth Vader shoots a laser with constant intensity and power $P_0 = 2 \times 10^{32}\text{ W}$ at the reflective planet and hits the planet a distance of $\frac{R_p}{2}$ away from the line from him to the center of the planet. Quando colpisce il pianeta riflettente, la luce del laser è polarizzata. L'angolo del polarizzatore del pianeta è sempre lo stesso dell'angolo di riflessione. Dopo la riflessione, il laser atterra un colpo diretto sul pianeta isolante. Darth Vader blocca il laser sul pianeta finche' non si muove proprio davanti a lui, quando spegne il laser. Determina l'energia assorbita dal satellite. Supponiamo che il pianeta riflettente rimanga fermo e che il pianeta riflettente sia un polarizzatore perfetto della luce.
-
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
-**Topic:** [[Electromagnetism]], [[Gravitation]]
-**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
+**Deve Riflettersi.** Mentre esplora lo spazio esterno, Darth Vader si imbatte in un pianeta sferico completamente riflettente di raggio $R_p = 40{,}000\text{ m}$ e massa $M_p = 8.128 \times 10^{24}\text{ kg}$. Intorno al pianeta si trova una strana luna di raggio orbitale $R_s = 6{,}400{,}000\text{ m}$ ($R_s \gg R_p$) e massa $M_s = 9.346 \times 10^{19}\text{ kg}$ ($M_s \ll M_p$). La luna può essere modellata come un corpo nero e assorbe perfettamente la luce. Darth Vader si trova sullo stesso piano in cui orbita il pianeta. Spaventato, spara un laser di intensità e potenza costanti $P_0 = 2 \times 10^{32}\text{ W}$ verso il pianeta riflettente, colpendolo a una distanza $\frac{R_p}{2}$ dalla retta che lo collega al centro del pianeta. Al momento dell’impatto, la luce proveniente dal laser è polarizzata piana. L'angolo del polarizzatore del pianeta è sempre uguale all’angolo di riflessione. Dopo la riflessione, il laser colpisce direttamente il pianeta isolante. Darth Vader fissa il laser sul pianeta finché questo non si sposta proprio davanti a lui, momento in cui spegne il laser. Determinare l’energia assorbita dal satellite. Si assuma che il pianeta riflettente rimanga fisso e che esso sia un perfetto polarizzatore della luce.
 
 
 
@@ -1164,19 +1152,12 @@ Nota: Due punti adiacenti si riferiscono a due punti adiacenti sul tetraedro.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**AIME.** Tre cerchi unitari, ciascuno con raggio $1$ metro, si trovano nello stesso piano in modo che il centro di ogni cerchio sia un punto di intersezione tra le altre due cerchi, come mostrato di seguito. La massa è uniformemente distribuita tra tutte le aree circondate da almeno un cerchio. La massa della regione chiusa dal triangolo sopra indicato è $1\text{ kg}$. Let $x$ be the moment of inertia of the area enclosed by all three circles (intersection, not union) about the axis perpendicular to the page and through the center of mass of the triangle. Quindi, $x$ può essere espresso come $\dfrac{a\pi - b\sqrt{c}}{d\sqrt{e}}\ \text{kg}\cdot\text{m}^2$, dove $a, b, c, d, e$ sono enti così che $\gcd(a, b, d) = 1$ e entrambi $c$ e $e$ sono squadrati. Calcolare $a + b + c + d + e$.
+**AIME.** Tre circoli unitari, ciascuno con raggio $1$ metro, giacciono sullo stesso piano in modo che il centro di ciascun cerchio sia un punto di intersezione degli altri due, come mostrato qui sotto. La massa è distribuita in modo uniforme su tutta l’area racchiusa da almeno un cerchio. La massa della regione racchiusa dal triangolo mostrato sopra è $1\text{ kg}$. Sia $x$ il momento d’inerzia dell’area racchiusa dai tre cerchi (intersezione, non unione) rispetto all’asse perpendicolare al piano e passante per il centro di massa del triangolo. Allora, $x$ può essere espresso come $\dfrac{a\pi - b\sqrt{c}}{d\sqrt{e}}\ \text{kg}\cdot\text{m}^2$, dove $a, b, c, d, e$ sono numeri interi tali che $\gcd(a, b, d) = 1$ e sia $c$ che $e$ sono privi di fattori quadrati. Calcolare $a + b + c + d + e$.
 
 <!--fig:start-->
 ![[OPhO_2020_Open_p16_f33.png]]
-*Tre cerchi unitari, ciascuno centrato in un punto di intersezione degli altri due, con il triangolo centrale segnato.*
+*Three unit circles, each centered at an intersection point of the other two, with the central triangle marked.*
 <!--fig:end-->
-
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
-
-**Topic:** [[Rotational Dynamics]], [[Mathematics]]
-**Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
 
 
 
@@ -1890,21 +1871,14 @@ Find the time it takes for the axle to return to its original orientation. Answe
 
 <div class="qlang-split" data-lang="it"></div>
 
-**I knew I should've stayed home today.** A bicycle wheel of mass $M = 2.8\text{ kg}$ and radius $R = 0.3\text{ m}$ is spinning with angular velocity $\omega = 5\text{ rad/s}$ around its axis in outer space, and its center is motionless. Supponiamo che abbia tutta la sua massa uniformemente concentrata sul bordo. Un lungo asse senza massa è attaccato al suo centro, che si estende lungo il suo asse. Una palla di massa $m = 1.0\text{ kg}$ si muove a velocità $v = 2\text{ m/s}$ parallela al piano della ruota e colpisce l'asse a una distanza $h = 0.5\text{ m}$ dal centro della ruota. Supponiamo che la collisione sia elastica e istantanea, e che la traiettoria della palla (prima e dopo la collisione) sia in linea retta.
+**Sapevo che avrei dovuto restare a casa oggi.** Una ruota di bicicletta di massa $M = 2.8\text{ kg}$ e raggio $R = 0.3\text{ m}$ ruota con velocità angolare $\omega = 5\text{ rad/s}$ attorno al suo asse nello spazio vuoto, e il suo centro è fermo. Si assuma che tutta la massa sia concentrata uniformemente sul bordo. Un asse lungo e privo di massa è fissato al centro della ruota, estendendosi lungo il suo asse. Una pallina di massa $m = 1.0\text{ kg}$ si muove con velocità $v = 2\text{ m/s}$ parallela al piano della ruota e colpisce l’asse a una distanza $h = 0.5\text{ m}$ dal centro della ruota. Si assuma che l’urto sia elastico e istantaneo, e che la traiettoria della pallina (prima e dopo l’urto) giaccia su una retta.
 
 <!--fig:start-->
 ![[OPhO_2020_Open_p23_f53.png]]
-*Una ruota di bicicletta a rotazione ($\omega$) con asse senza massa; una palla di velocità $v$ colpisce l'asse a distanza $h$ dal centro della ruota.*
+*A spinning bicycle wheel ($\omega$) with a massless axle; a ball of velocity $v$ strikes the axle at distance $h$ from the wheel's center.*
 <!--fig:end-->
 
-Trova il tempo necessario per che l'asse ritorni alla sua orientamento originale. Rispondi in secondi e completa tre cifre significative.
-
-**Fonte:** [Testo (PDF) — p.23](https://drive.google.com/file/d/1bYwKB6VBMz6bBc1vojJYQs_Z7ZweG2Rh/view)
-
-**Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wheel (object)|Wheel]], [[Ball (object)|Ball]]
+Trovare il tempo necessario affinché l’asse ritorni alla sua orientazione originale. Rispondere in secondi e arrotondare a tre cifre significative.
 
 
 

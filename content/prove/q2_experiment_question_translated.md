@@ -104,86 +104,81 @@ dove $d$ è la distanza tra l'asse di rotazione e un asse, parallelo a questo, p
 
 <div class="qlang-split" data-lang="en"></div>
 
-### "Black Box" mechanical: a cylinder with a sphere inside
+### Mechanical "Black Box": A Cylinder with a Sphere Inside
 
-A small, heavy sphere of $m$ mass is fixed at $z$ distance from the top of a long cylinder cable of $M$ mass. The cylinder has two sets of holes; the corresponding pair of holes are perpendicular to the cylinder's axis. A spindle can be inserted through each of these pairs, so that the axis of the suspended cylinder is in a vertical plane. The following page gives the equation of the motion from which to derive the period of this pendulum.
+A small, heavy sphere of mass $m$ is fixed at a distance $z$ from the top end of a long hollow cylinder of mass $M$. The cylinder has two sets of holes; corresponding pairs of holes lie along a line perpendicular to the cylinder's axis. Through each such pair, a pin can be inserted so that when suspended, the cylinder’s axis lies in a vertical plane. On the following page, the equation of motion is provided from which to determine the period of this physical pendulum.
 
-The following quantities must be measured in a non-destructive manner (as with a simple pendulum) and their error estimates must be used:
+Non-destructive measurements (similar to those performed with a simple pendulum) must be carried out in order to determine the values of the following quantities, along with estimates of their uncertainties:
 
-i. **Place of the centre of mass ** of the 'sphere cylinder'.
-Draw a schematic drawing of the experimental arrangement used to measure the centre of mass.
-   *[1.0 punto]*
+i. **Position of the center of mass** of the "cylinder with the small sphere".
+   Draw a schematic diagram of the experimental setup used to measure the center of mass.
+   *[1.0 point]*
 
-ii. **Distance** $z$ (the distance from the top of the cylinder to the centre of mass of the system).
-   *[3.5 punti]*
+ii. **Distance** $z$ (the distance from the top of the cylinder to the center of mass of the system).
+   *[3.5 points]*
 
-The Commission shall adopt implementing acts. **Rapporto** $M/m$.
-   *[3.5 punti]*
+iii. **Ratio** $M/m$.
+   *[3.5 points]*
 
-iv. **Accelerazione di gravità** $g$.
-   *[2.0 punti]*
+iv. **Acceleration due to gravity** $g$.
+   *[2.0 points]*
 
-**Materiale:** Un cilindro con fori e una sferetta all'interno, una tavoletta con un perno sottile, un cappuccio di protezione per coprire il perno, un righello, un cronometro, un filo, una matita e del nastro adesivo.
-
----
-
-**Notes** (see the physical pendulum scheme):
-
-- $O$  suspension point on the spine (focal);
-- $R$  distance from the centre of mass of the system (side chosen for suspension);
-- $L$  length of cylinder;
-- $x_{CM}$  distance from the top of the cylinder to the centre of mass of the system.
+**Materials:** A cylinder with holes and a small sphere inside, a flat plate with a thin pin, a protective cap to cover the pin, a ruler, a stopwatch, a string, a pencil, and adhesive tape.
 
 ---
 
-**Attenzione:** Il perno è appuntito. When not in use, it must be protected by a hood for safety.
+**Notation** (see the diagram of the physical pendulum):
+
+- $O$ — pivot point (fulcrum);
+- $R$ — distance from the fulcrum to the center of mass of the system (chosen suspension side);
+- $L$ — length of the cylinder;
+- $x_{CM}$ — distance from the top of the cylinder to the center of mass of the system.
 
 ---
 
-**Informazioni utili:**
+**Warning:** The pivot is sharp. When not in use, it must be protected with the cap for safety.
+
+---
+
+**Useful information:**
 
 1. For this physical pendulum,
 
 $$\ddot{\theta} = -\frac{(M + m)\,g\,R}{I_{CM} + (M + m)\,R^{2}}\,\theta$$
 
-from which the period:
+from which the period is:
 
 $$T = 2\pi\sqrt{\frac{I_{CM} + (M + m)\,R^{2}}{(M + m)\,g\,R}}$$
 
-where $I_{CM}$ is the moment of inertia of the 'sphere cylinder' system around the centre of mass of the system and $\theta$ is the angular position.
+where $I_{CM}$ is the moment of inertia of the system "cylinder with the sphere" about the center of mass of the system and $\theta$ is the angular position.
 
-2. For a long cable cylinder of length $L$ and mass $M$, the moment of inertia with respect to a passing axis for its centre of mass and perpendicular to the geometric axis of the cylinder may be approximated as:
+2. For a long hollow cylinder of length $L$ and mass $M$, the moment of inertia about an axis passing through its center of mass and perpendicular to its geometric axis can be approximated as:
 
 $$I_{CM}^{\text{cil}} \approx \frac{1}{12}\,M L^{2}$$
 
-3. **Teorema degli assi paralleli:**
+3. **Parallel axes theorem:**
 
 $$I = I_{CM} + d^{2}\,M_{\text{tot}}$$
 
-where $d$ is the distance between the axis of rotation and an axis parallel to it passing through the centre of mass, and $M_{\text{tot}}$ is the total mass of the object.
+where $d$ is the distance between the rotation axis and a parallel axis passing through the center of mass, and $M_{\text{tot}}$ is the total mass of the object.
 
-4. The sphere can be considered as a pointed mass positioned at a point on the geometric axis of the cylinder.
+4. The sphere may be considered as a point mass located at a point on the geometric axis of the cylinder.
 
-5. It is assumed that the cylinder is uniform and the mass of the caps at its ends is negligible.
+5. Assume that the cylinder is uniform and that the mass of the end caps placed at its ends is negligible.
 
 <!--fig:start-->
-**p.1**  Interior spherical cylinder design
+**p.1** — Diagram of the cylinder with internal sphere
 ![[_attachments/Q2_Experiment_Question_translated/Q2_Experiment_Question_translated_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1 **  Cylinder on board and core
+**p.1** — Cylinder on a block and pivot
 ![[_attachments/Q2_Experiment_Question_translated/Q2_Experiment_Question_translated_p1_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2 **  Photo of the experimental apparatus supplied
+**p.2** — Photo of the provided experimental apparatus
 ![[_attachments/Q2_Experiment_Question_translated/Q2_Experiment_Question_translated_p2_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Sphere (object)|Sphere]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DskfulD_MbmHn3DRhKgwF7Yg0yIC-iJn/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1coQqkPMGmjM2jnDSzYHPqzr4JDd_Ejcc/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1coQqkPMGmjM2jnDSzYHPqzr4JDd_Ejcc/view)

@@ -89,32 +89,35 @@ B.7 (0.6 pt)
 Theory
 A3-1
 Italian (Italy)
-The following information is provided by the Commission:
-Part A: Sound wave in a closed tube (3.7 points)
+Thermoacoustic Engine - Answer Sheet
+Part A: Sound Wave in a Closed Tube (3.7 points)
 A.1 (0.3 pt)
 
-The value of the underlying equation
+λmax =
+
 A.2 (0.5 pt)
 
 V1(x) =
+
 A.3 (0.7 pt)
 
 p1(x) =
+
 A.4 (0.3 pt)
 
-c=
+c =
+
 A.5 (0.7 pt)
 
 T1(x) =
+
 A.6 (1.2 pt)
-point
-It grows
-decreases
-of a kind used for the manufacture of goods
+point increases decreases constant
 A
 B
 C
-Part B: Sound wave amplification induced by external heat contact (6.3 points)
+
+Part B: Amplification of Sound Waves Induced by External Thermal Contact (6.3 points)
 B.1 (0.4 pt)
 
 Tst =
@@ -124,30 +127,28 @@ A3-2
 Italian (Italy)
 B.2 (1.0 pt)
 
-The following table shows the following:
+τcr =
+
 B.3 (0.8 pt)
 
-dQ
-dt=
+dQ dt =
+
 B.4 (1.9 pt)
 
-Va=
+Va =
 
-Vb=
+Vb =
 
 B.5 (0.8 pt)
 
 Wtot =
+
 B.6 (0.8 pt)
 
-The following is the list of the countries of the European Union:
+Qtot =
+
 B.7 (0.6 pt)
 
-η=
+η =
 
-**Topic:** [[Oscillations & Waves]], [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Pipe/Tube (object)|Pipe/Tube]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1gtuQw-V6S0EZXp5Owbybc4ex4htgbpKo/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKh1kzsw0C0EbR8VidZZ4H2CultoxbkV/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1dKh1kzsw0C0EbR8VidZZ4H2CultoxbkV/view)

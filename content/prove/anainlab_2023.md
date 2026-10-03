@@ -48,31 +48,25 @@ Annotare nelle tabelle la sensibilità e la portata degli strumenti di misura ut
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+**FIRST PART**
 
-You are asked to find graphically the relationship between the volume of water in a bottom-hole glass/container and the related drainage times.
+You are asked to graphically determine the relationship between the volume of water contained in a small container with a hole at the bottom and the corresponding emptying times.
 
-You must measure the time of draining of the glass **A** filled with certain amounts of water with the time-meter. The teacher will tell you the size of the hole (light) in the A glass.
+You must measure, using a stopwatch, the emptying times of container **A**, filled with specific amounts of water. Your teacher will provide you with the dimensions of the hole (opening) in container A.
 
-The procedure:
-- Measure with the graduated cylinder a certain amount of water.
-- Hold the glass hole covered with your finger, fill it with the water contained in the graduated cylinder.
-- Open the hole and start the timer until the flow is continuous (stop the timer when the flow stops being continuous, that is, when it stops for the first time).
-- Tap the hole again with your finger and with the syringe, suck any water residue; measure the water residue.
-- Report your measurements in a table (table 1). 2) and repeat the operation several times without changing the volume flowing (expectedly at least five tries).
-- Repeat the procedure by changing the initial volume. For each volume analyzed, complete a table such as the tab. 2.
+Procedure:
+- Measure a certain amount of water using a graduated cylinder.
+- With your finger covering the hole in the container, fill it with the water from the graduated cylinder.
+- Open the hole and start the stopwatch until the flow becomes discontinuous (stop the stopwatch when the flow ceases to be continuous for the first time).
+- Immediately cover the hole again with your finger and, using a syringe, remove any residual water; measure this residual amount.
+- Record your measurements in a table (Table 2), and repeat the procedure at least five times without changing the volume that flows out.
+- Repeat the entire process using different initial volumes. For each initial volume analyzed, complete a table like Table 2.
 
-Once this operation has been carried out for various water volumes:
-- Complete Table 3 showing, for each volume, the volume of water actually discharged (measured volume minus residual) and the average of the discharge times with relative uncertainty.
-- With the data in the tab. 3 construct a **graph** by ascertaining the volume and ordering the drainage time. Consider the curve to be drawn: relationships are not always linear!
+After performing this procedure for various volumes of water:
+- Complete Table 3 by recording, for each volume, the actual volume of water discharged (measured volume minus residual volume) and the average emptying time along with its uncertainty.
+- Using the data in Table 3, construct a **graph** with volume on the abscissa and emptying time on the ordinate. Carefully determine which curve to draw: relationships are not always linear!
 
-The sensitivity and range of the measuring instruments used (graduated cylinder, syringe, timepiece) shall be noted in the tables.
-
-**Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1vwx9WnaS3IBmmvcYd6-olyJfEnVj1nTM/view)
+Record in the tables the sensitivity and range of the measuring instruments used (graduated cylinder, syringe, stopwatch).
 
 
 
@@ -113,30 +107,24 @@ Rispondete alle domande seguenti nel modo più esaustivo possibile:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided for in Part II of Annex II to Regulation (EC) No 1907/2006:
+**SECOND PART**
 
-Repeat some measurements of the emptying times using the **B** container (whose hole is of unknown size).
+Repeat some measurements of emptying times using container **B** (whose hole dimensions are unknown).
 
-- Determine the actual volume of water flowing and the relative time of drainage for at least two different volumes.
-- Compare the emptying times obtained with the corresponding (by equal volume) times from your A-glass chart and report the results in Table 4.
-- Fill out the last column of the tab. 4 taking into account that the drainage times are ** inversely proportional to the area of the output bore**:
+- Determine the actual volume of water discharged and the corresponding emptying time for at least two different volumes.
+- Compare the measured emptying times with those (at equal volume) derived from your graph constructed for glass A, and record the results in Table 4.
+- Also complete the last column of Table 4, taking into account that emptying times are **inversely proportional to the area of the exit hole**:
 
 $$a_A \cdot T_A = a_B \cdot T_B$$
 
-where $a_A$ and $a_B$ are the bore areas and $T_A$, $T_B$ the emptying times at the same volume of flow. This report gives the diameter of the B hole:
+where $a_A$ and $a_B$ are the areas of the holes, and $T_A$, $T_B$ are the emptying times for the same volume of fluid discharged. From this relation, calculate the diameter of hole B:
 
 $$d_B = d_A \cdot \sqrt{\frac{T_A}{T_B}}$$
 
-- Determine the size of hole B. Describe clearly how you have obtained the results.
+- Determine the dimensions of hole B. Clearly describe how you obtained your results.
 
-Please answer the following questions as fully as possible:
+Answer the following questions as thoroughly as possible:
 
-1. What do you think are the main causes of uncertainty about the calculated measurement of the diameter of the 'B' hole? Explain your conclusions (compare the relative errors of each size involved, including the volume that affects the $T_A$ time determination using the graph).
+1. What do you consider to be the **main sources of uncertainty** in your calculated diameter measurement for hole "B"? Explain your conclusions (compare the relative errors of each quantity involved, including volume, which affects the determination of times $T_A$ via your graph).
 
-2. Do you have any suggestions for improving the quality of the results? (For example: is it useful to use more sensitive tools? What alternative tools could improve volume measurements?)
-
-**Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1vwx9WnaS3IBmmvcYd6-olyJfEnVj1nTM/view)
+2. Do you have any **suggestions for improving the accuracy of your results**? (For example: is it useful to use more sensitive instruments? What alternative tools might improve volume measurements?)

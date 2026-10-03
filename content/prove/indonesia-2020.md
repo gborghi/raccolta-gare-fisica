@@ -82,26 +82,15 @@ what time will he arrived at school after the bell rang.
 <div class="qlang-split" data-lang="it"></div>
 
 2. (10 punti)
-Per quattro giorni consecutivi, un bambino ha iniziato a lasciare casa camminando a scuola e
-Se ne va sempre allo stesso tempo. La campana della scuola è impostata per suonare sempre nella stessa
-- Il tempo.
-$\cdot$ Il primo giorno, il bambino ha iniziato a camminare a una velocità iniziale di 50 metri al minuto
-e accelerato con una costante accelerazione di 2 metri al minuto. E ' successo .
-che è arrivato 5 minuti dopo che la campana ha suonato.
-$\cdot$ In the second day, the child started to walk with an initial velocity 150 meter a
-minuto e decelerato con una decelerazione costante di 2 metri al minuto. It is
-E' arrivato 5 minuti prima che suonasse la campana.
-$\cdot$ In the third day, the child decided to walk with a constant velocity (Which value is
-(almeno 100 metri al minuto) fino a quando non è arrivato a scuola. E ' successo che lui
-E' arrivato in tempo.
-Se nel quarto giorno camminava a una velocità costante di 100 metri al minuto,
-a che ora arriverà a scuola dopo che la campana suonerà.
+Per quattro giorni consecutivi, un bambino ha iniziato a uscire di casa camminando verso la scuola e ha sempre partito nello stesso momento. La campanella della scuola è regolata per suonare sempre nello stesso orario.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1_uxMUZkUS3uXAV-b18K-XYumNKJ0CaVQ/view)
+$\cdot$ Nel primo giorno, il bambino ha iniziato a camminare con una velocità iniziale di 50 metri al minuto e ha accelerato con un'accelerazione costante di 2 metri al minuto quadrato. È capitato che arrivasse 5 minuti dopo che la campanella aveva suonato.
+
+$\cdot$ Nel secondo giorno, il bambino ha iniziato a camminare con una velocità iniziale di 150 metri al minuto e ha decelerato con un'accelerazione negativa costante di 2 metri al minuto quadrato. È capitato che arrivasse 5 minuti prima che la campanella suonasse.
+
+$\cdot$ Nel terzo giorno, il bambino ha deciso di camminare con una velocità costante (il cui valore è maggiore di 100 metri al minuto) fino a quando non fosse arrivato alla scuola. È capitato che arrivasse esattamente all'ora giusta.
+
+Se nel quarto giorno camminasse con una velocità costante di 100 metri al minuto, in che momento arriverebbe alla scuola rispetto all'ora di suono della campanella?
 
 
 

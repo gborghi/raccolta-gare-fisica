@@ -324,33 +324,22 @@ Le affermazioni vere sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question five.
-Is asphalt a solid or a high viscosity fluid? To solve
-This question, in 1927, Thomas Parnell dumped a sample of
-heated asphalt in a sealed funnel (closed at the bottom) and
-She left him at rest for three years. Then he removed the lacquer so that
-I could flow. The experiment is still going on. The figure to
-The 1990 side was removed two years after the seventh drop fell.
-Consider the following statements about the experiment:
-The Commission is also considering the possibility of a new
-Queensland
-1. Initial heating of the asphalt is necessary to ensure that there is drip at some point after the lacquer is opened.
-2. The heated asphate is liquid and its flow through the funnel is prevented by lacquer.
-3. If the viscosity of asphalt at room temperature were much lower, the time for the
-The amount of the test chemical used in the test chemical may be less than the amount of the test chemical used in the test chemical.
-That's three years.
-The true statements are:
-- **A ** all of them
-- **B ** only 1 and 2
-- **C** only 1 and 3
-- ** D ** only 2 and 3
-- ** E ** none
+Question 5.
+Is asphalt a solid or a high-viscosity fluid? To address this question, in 1927 Thomas Parnell poured a sample of heated asphalt into a sealed funnel (closed at the bottom) and let it rest for 3 years. Afterwards, he removed the seal to allow flow. The experiment is still ongoing. The figure above, taken in 1990, was photographed two years after the seventh drop fell.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
+Consider the following statements about the experiment:
+source: John Mainstone, University of Queensland
+
+1. The initial heating of the asphalt is necessary for dripping to occur at some point after opening the seal.
+2. The heated asphalt is liquid, and its flow through the funnel is prevented by the seal.
+3. If the asphalt's viscosity at room temperature were significantly lower, the time required for settling at the bottom of the container and the actual start of the experiment could be much less than 3 years.
+
+The true statements are:
+- **A.** all of them
+- **B.** only 1 and 2
+- **C.** only 1 and 3
+- **D.** only 2 and 3
+- **E.** none
 
 
 
@@ -1148,30 +1137,21 @@ www.water-right.com/homeownerresources/how-does-a-well-work
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 16 is:
-The figure shows manual trouble. This device was
-used to obtain well water before the invention of hydraulic pumps. The trouble is made up of
-Two simple machines: a lever and a wheel and axle.
-Note that the horizontal cylinder rotation causes the
-The rope is wrapped and the bucket that is stuck in the other one is lifted
-the end. Consider a well with a depth
-a diameter of $h = 6\ \text{m}$ and a cylinder beam $r = 10\ \text{cm}$.
-How long, in s, does it take a person to lift a
-water bucket if you complete a turn on the crank
-every 4 seconds.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to ensure that the Commission and the Member States are able to take appropriate measures to ensure that the measures taken are implemented in accordance with the common position.
+Problem 16.
+The figure shows a manual windlass. This device was widely used to draw water from wells before the invention of hydraulic pumps. The windlass consists of two simple machines: a lever and a wheel-and-axle system.
+
+Note that the rotation of the horizontal cylinder causes the rope to wind around it and lift the bucket attached to the other end. Consider a well with depth $h = 6\ \text{m}$ and a windlass with cylinder radius $r = 10\ \text{cm}$.
+
+How long, in seconds, does it take a person to lift a bucket of water if they make one complete turn of the handle every 4 seconds?
+
+Source:
+www.water-right.com/homeownerresources/how-does-a-well-work
+
 - **A.** 12
 - **B.** 20
 - **C.** 40
 - **D.** 60
 - **E.** 80
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
 
 
 
@@ -1370,21 +1350,13 @@ il parafuso è $V_f/2$. È corretto affermare che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 19. A screw comes off the top of a beam of a building height $h$ and falls
-under the exclusive action of gravity. Ele atinge o solo no instante $t_f$ com velocidade $V_f$. Be it
-$t_a$ the moment the screw is at a height $h/2$ and $t_b$ the moment the speed of the screw is at a height $h/2$ and $t_b$ the moment the speed of the screw is at a height $h/2$
-the screw is $V_f/2$. It is correct to state that:
-- **A.** $t_b = t_a$ e $t_b = t_f/2$.
-- **B.** $t_b = t_a$ e $t_b < t_f/2$.
-- **C.** $t_b = t_a$ e $t_b > t_f/2$.
-- **D.** $t_b < t_a$ e $t_b = t_f/2$.
-- **E.** $t_b > t_a$ e $t_b = t_f/2$.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
+Problem 19. A screw detaches from the top edge of a building of height $h$ and falls under the exclusive action of gravity. It hits the ground at time $t_f$ with velocity $V_f$. Let
+$t_a$ be the instant when the screw is at height $h/2$ and $t_b$ the instant when the screw's velocity is $V_f/2$. It is correct to state that:
+- **A.** $t_b = t_a$ and $t_b = t_f/2$.
+- **B.** $t_b = t_a$ and $t_b < t_f/2$.
+- **C.** $t_b = t_a$ and $t_b > t_f/2$.
+- **D.** $t_b < t_a$ and $t_b = t_f/2$.
+- **E.** $t_b > t_a$ and $t_b = t_f/2$.
 
 
 
@@ -1459,32 +1431,16 @@ Le affermazioni vere sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 20.
-Rubber is a material that stores potential elastic energy when
-deformed in a manner similar to a spring. Consider a small rubber ball that is
-abandoned from rest on a rigid floor. The figure represents the ball during the collision with
-The floor. The collision (ball kick) is not instantaneous, although it is rapid, lasts for an interval
-The time of $\tau$ of the order of milliseconds. In the figure, $t_i$ is the instant the ball hits the floor
-with $\vec{V}_i$ downward speed. From $t_i \leq t \leq t_i + \tau/2$ the ball is compressed against the ground. Em
-approximately $t_i + \tau/2$ the ball's deformation is maximum and the speed of its centre of
-mass is zero. In the $t_i + \tau/2 < t < t_f$ interval, the ball extends. Em $t_f$ ela volta à sua forma
-The original mass is $\vec{V}_f$ and the speed of its center of mass is $\vec{V}_f$ upwards.
-Whereas the velocity after the collision is slightly less than before, i.e., $to\vec{V}fto =
-The following statements are analysed:
-1. In the $t_i < t < t_i + \tau/2$ range there is predominantly kinetic energy conversion in
-the potential energy elastic.
-2. The rigid floor accumulates the energy needed to throw the ball back up.
-3. The system is not conservative. With each ball's collision with the floor, part of the mechanical energy
-It's converted into thermal energy.
-The true affirmations are:
-- **A** only 1;
-- **B ** only 2;
-- **C ** only 3;
-- **D** only 1 and 2;
-- **E** only 1 and 3;
-
-**Topic:** [[Conservation of Energy]], [[Elasticity & Materials]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1bWPE-Ur8S8ze3papg58zJ2w20eifIA2r/view)
+Question 20.
+Rubber is a material that stores elastic potential energy when deformed in a manner analogous to a spring. Consider a small rubber ball that is released from rest onto a rigid floor. The figure represents the ball during the collision with the floor. The collision (the ball's bounce), although fast, is not instantaneous; it lasts a time interval $\tau$ on the order of milliseconds. In the figure, $t_i$ is the instant at which the ball touches the floor with velocity $\vec{V}_i$ downward. From $t_i \leq t \leq t_i + \tau/2$ the ball compresses against the ground. At approximately $t_i + \tau/2$ the deformation of the ball is maximum and the velocity of its center of mass is zero. In the interval $t_i + \tau/2 < t < t_f$, the ball extends. At $t_f$ it returns to its original shape and the velocity of its center of mass becomes $\vec{V}_f$ upward.
+Considering that the speed after the collision is slightly less than before, that is, $|\vec{V}_f| =
+0{,}95|\vec{V}_i|$, analyze the following statements:
+1. In the interval $t_i < t < t_i + \tau/2$ there is predominantly conversion of kinetic energy into elastic potential energy.
+2. The rigid floor accumulates the energy necessary to launch the ball upward again.
+3. The system is not conservative. At each collision of the ball with the floor, part of the mechanical energy is transformed into thermal energy.
+The true statements are:
+- **A.** only 1;
+- **B.** only 2;
+- **C.** only 3;
+- **D.** only 1 and 2;
+- **E.** only 1 and 3;

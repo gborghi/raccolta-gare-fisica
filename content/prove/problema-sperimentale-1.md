@@ -224,206 +224,117 @@ equa
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of test results:
+**A EXPERIMENTAL 1**
 
-The Commission has already decided to take a decision on the
-The Commission shall adopt the following measures:
-From a laser diode
-The following information is provided:
-In addition to the materials 1), 2) and 3) you should use:
-4) A lens mounted on a square support (Etiquette C).
-5) A razor blade placed in a slide door by
-positioned on an acrylic support (ETHICETTA D1) and mounted on a guide
-The following is the list of the products which are available for sale: Use the screwdriver to fix the support if:
-It's necessary. Look at the photo for the installation instructions.
-6) An observation screen with calibrated scale (1/20 mm) (Etiquette E).
-7) An enlargement lens (Etiquette F).
-8) A 30 cm reel (Etiquette G).
-9) A caliber (H-type).
-10) A tape meter (ETIQUET I).
+EXPERIMENTAL PROBLEM 1
+DETERMINATION OF THE WAVELENGTH
+OF A LASER DIODE
+
+MATERIALS
+In addition to materials 1), 2), and 3), you should use:
+4) A lens mounted on a square support (LABEL C).
+5) A razor blade placed in a slide holder to be positioned on an acrylic support (LABEL D1), and mounted on a sliding guide (LABEL D2). Use the screwdriver to secure the support if necessary. Refer to the photograph for assembly instructions.
+6) An observation screen with a calibrated scale (1/20 mm) (LABEL E).
+7) A magnifying lens (LABEL F).
+8) A 30 cm ruler (LABEL G).
+9) A vernier caliper (LABEL H).
+10) A tape measure (LABEL I).
 11) A calculator.
-12) white paper cardboard, adhesive paper tape, supporting rods,
-Scissors, triangular squares.
-13) Pencils, paper and paper in millimetres.
-A razor blade placed in a slide door to be placed on a support
-Acrylic (Etiquette D1) and mounted on a sliding guide (Etiquette D2).
+12) White paper sheets, adhesive tape, support sticks, scissors, triangular rulers.
+13) Pencils, paper, and millimeter graph paper.
 
-Description of the experiment
-You need to determine the wavelength of a laser diode. The particular characteristic of
-This measurement is that no precise micrometric scales are used (such as
-Prefabricated diffraction networks). The shortest lengths you can measure are
-The order of the millimeter. The wavelength is determined by using the diffraction of the
-light produced by the sharp profile of a razor blade.
+A razor blade placed in a slide holder to be positioned on an acrylic support (LABEL D1) and mounted on a sliding guide (LABEL D2).
 
-Figure 1.1 Typical distribution of the interference fringes.
-After the laser beam (A) has been reflected on the mirror (B), it must be done
-pass through the lens (C), which has a focal length of a few centimeters. Consider
-Fire is like a pointed light source that emits a spherical wave. After the lens,
-And along the path of light, the beam hits the sharp edge of a razor blade,
-I'm not sure what the problem is. The edge can therefore be considered as a source of
-The light emits a cylindrical wave. These two waves interfere with each other in the
-direction of propagation, giving rise to a distribution of interference fringes which
-They can be viewed on a screen. In Figure 1.1 you can see the photograph of a
-the typical distribution.
+EXPERIMENT DESCRIPTION
+You must determine the wavelength of a laser diode. The particular feature of this measurement is that precise micrometric scales (such as pre-fabricated diffraction gratings) are not used. The smallest lengths you can measure are on the order of a millimeter. The wavelength is determined using light diffraction produced by the sharp edge of a razor blade.
+
+Figure 1.1 Typical interference fringe distribution.
+After the laser beam (A) is reflected by the mirror (B), it must pass through the lens (C), which has a focal length of just a few centimeters. Consider the focus as a point-like light source emitting a spherical wave. After the lens, and along the path of the light beam, it strikes the sharp edge of a razor blade placed as an obstacle. Consequently, this edge can be regarded as a light source emitting a cylindrical wave. These two waves interfere with each other along the direction of propagation, producing an interference fringe pattern observable on a screen. Figure 1.1 shows a photograph of a typical distribution.
+
 Consider two important cases, as shown in Figures 1.2 and 1.3.
 
-The following table shows the results of the evaluation: The Commission shall adopt the following measures: The razor blade is placed before the fire of the
-Slow down. The figure is not in scale. In this drawing B is the cutting edge of the blade and F is
-The fire of the lens.
-The following table shows the following: The Commission shall adopt the following measures: The razor blade is placed after the lens is lit.
-The figure is not in scale. In this drawing B is the cutting edge of the blade and F is the
-the lens fire.
+Figure 1.2. Case (I). The razor blade is placed before the lens's focal point. The figure is not to scale. In this drawing, B represents the cutting edge of the blade and F denotes the lens's focal point.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Task 1.1 Disposition of the equipment on the optical bench (1.0 points). Project
-an experimental arrangement to obtain the distribution of the interference fringes
-The above mentioned. The distance
-The amount of fire on the screen must be much greater than the
-focal length.
+Figure 1.3. Case (II). The razor blade is placed after the lens's focal point.
+The figure is not to scale. In this drawing, B represents the cutting edge of the blade and F denotes the lens's focal point.
 
-In the diagram showing the optical bench on the answer sheet, draw a drawing of the
-The experimental arrangement you made. This is achieved by writing the
-Labels of the different components on the optical bench design.
-You can also make additional illustrative drawings to help explain your
-The following is the list of the types of tests:
+EXPERIMENTAL SETUP
+Task 1.1 Arrangement of equipment on the optical bench (1.0 point). Design an experimental setup to obtain the interference fringe patterns previously described. The distance from the focal point to the screen must be much greater than the focal length.
 
-You can align the laser beam using one of the white paper cardboard to
-Identify the path of the light.
+On the diagram showing the optical bench in the answer sheet, draw your experimental arrangement. Indicate labels for all components on the diagram of the optical bench.
 
-Draw a path of the laser beam on the board diagram
-The height of the beam, measured against the plane of the optical bench, is h.
-WARNING: It may appear to be a large figure with a ring, but ignore it. This is a
-The effect is due to the laser diode itself.
-Take some time to familiarize yourself with the device. You should be able to
-You can see about 10 or more vertical linear edges on the screen. The readings are made
-using the position of the dark edges. Use the magnifying glass to see more
-The position of the franges. The best way to see the fringes is to
-Observe from the rear of the illuminated screen (E). So the scale
-The screen should look outwards at the optical bench. If the alignment of the
-Optical bench is correct, you should see both distributions (of Cases I and II)
-The test method is to be followed by the following steps:
-Theoretical considerations
-In relation to the previous Figures 1.2 and 1.3, there are five fundamental lengths:
-: distance from the fire to the screen.
-: distance from the screen razor blade, case I.
-: distance from the screen razor blade, Case II.
-: the position of the ninth dark fringe for Case I.
-: the position of the ninth dark fringe for Case II.
+You may also include additional illustrative sketches to help explain your experimental setup.
 
-For both Cases I and II, the first black fringe is the widest and corresponds to n = 0.
-Your experimental arrangement must be such that
-for Case I and
-for case II.
-The phenomenon of wave interference is due to the difference in optical paths between two
-Waves that start from the same point. Depending on their phase difference, the two waves
-They can be erased with each other (destructive interference) giving rise to dark fringes;
-or the two waves can be added together (constructive interference) to produce clear fringes.
-A detailed analysis of the interference of these waves provides the following condition for
-obtain a dark fringe, for case I:
-with n = 0, 1, 2, $\dots$
-(1.1)
+You can align the laser beam using one of the white cardboard sheets to trace the light path.
+
+Draw the laser beam path on the optical bench diagram and report the height h of the beam, measured with respect to the optical bench plane.
+WARNING: A large ring-shaped figure may appear; ignore it. This is an effect caused by the laser diode itself.
+Spend some time becoming familiar with the device. You should be able to see about 10 or more vertical fringes on the screen. The measurements are made using the positions of the dark fringes. Use the magnifying lens to see more clearly the fringe positions. The best way to observe the fringes is to look from behind the illuminated screen (E). In this case, the screen scale should face outward from the optical bench. If the optical bench alignment is correct, you should observe both distributions (Cases I and II) simply by translating the razor blade (D1) along the guide (D2).
+
+THEORETICAL CONSIDERATIONS
+Referring to the previous Figures 1.2 and 1.3, there are five fundamental lengths:
+: distance from the focal point to the screen.
+: distance from the razor blade to the screen, Case I.
+: distance from the razor blade to the screen, Case II.
+: position of the n-th dark fringe for Case I.
+: position of the n-th dark fringe for Case II.
+
+For both Case I and Case II, the first black fringe is the widest and corresponds to n = 0.
+Your experimental setup must be such that for Case I and for Case II.
+
+The phenomenon of wave interference arises due to the difference in optical path lengths between two waves originating from the same point. Depending on their phase difference, the two waves may cancel each other out (destructive interference), producing dark fringes;
+or they may add together constructively (constructive interference), resulting in bright fringes.
+
+A detailed analysis of the interference of these waves yields the following condition for obtaining a dark fringe in Case I:
+with n = 0, 1, 2, $\dots$ (1.1)
 and for Case II:
-with n = 0, 1, 2, $\dots$
-(1.2)
-Where
-is the wavelength of the laser beam,
- e
-The difference between
-I'm going to have an optical path for each of these cases.
-The optical path difference for Case I is
-for each n = 0, 1, 2, $\dots$
-(1.3)
-Whereas in Case II it is
-for each n = 0, 1, 2, $\dots$
-(1.4)
-Task 1.2 Expressions for optical path differences (0.5 points). Assuming that
-for Case I and
-for Case II in equations (1.3) and
-(1.4) (ascertain that your test setup meets these conditions),
-Approximate expressions
-for
+with n = 0, 1, 2, $\dots$ (1.2)
+where λ is the wavelength of the laser light beam, and Δ₁, Δ₂ are the optical path differences for each of the two cases.
 
-e
+The optical path difference for Case I is, for every n = 0, 1, 2, $\dots$ (1.3)
+while for Case II it is, for every n = 0, 1, 2, $\dots$ (1.4)
 
-In accordance with
-. Use the approximation
- se
-.
+Task 1.2: Expressions for the optical path differences (0.5 points). Assuming that for Case I and for Case II in equations (1.3) and (1.4) (ensure your experimental setup satisfies these conditions), derive the approximate expressions for Δ₁ and Δ₂ in terms of d. Use the approximation if x ≪ L.
 
 The experimental difficulty with the previous equations is that
-,
- e
-Not
-They can be measured accurately. Firstly, because it is not easy to find the position of the
-The second reason is that the origin from which they are defined can be very
-It's hard to find because of the misalignment of your optical components.
-To overcome these difficulties with
- e
-First, choose the zero (0) of the scale.
-The screen (E-TICK) as the source for all your fringe measurements. They are
- e
-the (unknown) positions from which:
- e
-They're defined. They are
- e
-the positions of the fringes measured from the origin (0) that you fixed. Therefore,
-(1.5)
-The experiment was carried out. The data analysis is done.
-Task 1.3 Measurement of the positions of the dark rims and the positions of the
-The following table shows the results of the calculation:
+, and cannot be accurately measured. First, because it is not easy to find the position of the lens's focal point; second, because the origin from which they are defined may be very difficult to locate due to misalignments of your optical components.
 
-For both Cases I and II, measure the positions of the dark fringes
- e
-according to the number n of the handle. Report your measurements in Table I;
-You should report no less than eight measurements per case.
+To overcome these difficulties, with and , first choose the zero (0) of the screen scale (LABEL E) as the origin for all your fringe measurements. Let and be the unknown positions from which and are defined. Let and be the measured positions of the fringes from the origin (0) you have established. Therefore (1.5)
 
-Also reports the locations of the blade
- e
-And he points with his
-Label the tool you used.
+EXPERIMENT EXECUTION. DATA ANALYSIS.
 
-IMPORTANT SUMMARY: For the purposes of simplification
-The analysis, which is more accurate, directly measures the distance
-With better accuracy than the individual
- e
-Other
-The Commission has not yet taken any further action.
- e
-. Indicate by your label
-The tool you used.
-Make sure you include the uncertainty of your measurements.
-Task 1.4 Analysis of the data. (iii. 25 points). With all the information you've got, you should be
-be able to obtain the values of
- e
-And of course, the wavelength
-.
+Task 1.3 Measurement of the positions of the dark fringes and of the slit (3.25 points).
 
-A procedure is chosen to obtain these values. Report the expressions and/or the
-equal
+For both Cases I and II, measure the positions of the dark fringes as a function of the fringe number n. Record your measurements in Table I;
+you should record no fewer than 8 measurements for each case.
+
+Also report the positions of the slit and , and indicate with its
+LABEL the instrument you used.
+
+IMPORTANT SUGGESTION: For the purposes of simplifying the analysis and improving accuracy, directly measure the distance with an accuracy better than that of the individual measurements; in other words, do not derive d from the measurements of e and . Indicate with its LABEL the instrument you used. Make sure to include the uncertainty of your measurements.
+
+Task 1.4 Data Analysis. (3.25 points). With all the previous information, you should now be able to determine the values of e and , naturally also including the wavelength λ.
+
+Devise a procedure to obtain these values. Report the expressions and/or equations.
 
 <!--fig:start-->
- Optical bench with lens and blade
+**p.1** — Optical bench with lens and slit
 ![[_attachments/problema sperimentale 1/problema sperimentale 1_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following conditions shall apply:
+**p.2** — Interference fringe distribution using ruler
 ![[_attachments/problema sperimentale 1/problema sperimentale 1_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the number of samples taken:
+**p.3** — Figure 1.2 Case I: slit before the focus
 ![[_attachments/problema sperimentale 1/problema sperimentale 1_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the tests:
+**p.3** — Figure 1.3 Case II: slit after the focus
 ![[_attachments/problema sperimentale 1/problema sperimentale 1_p3_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/16LoUWpFUmB3nYjnbKyIw7dB21AoHOURC/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1VkgraHGRh6Ftg6YtwX-S7vtwHjfz6s6Z/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1VkgraHGRh6Ftg6YtwX-S7vtwHjfz6s6Z/view)

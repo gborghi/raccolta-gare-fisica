@@ -66,48 +66,40 @@ ed esprimi $\Delta N_{\mathrm{opt}}$ solamente in funzione di $V$, $\phi$, $\the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema teorico n. 1: Gravity in a neutron interferometer**
+**Theoretical Problem No. 1: Gravity in a Neutron Interferometer**
 
-**Situazione fisica** Consideriamo la situazione del famoso esperimento realizzato da Collela, Overhauser e Werner con un interferometro per neutroni, ma l'apparato sperimentale viene schematizzato tanto da considerare i divisori di fascio e gli specchi dell'interferometro come perfetti. The experiment studies the effects of gravitational attraction on de Broglie's wavelength of neutrons.
+**Physical Situation** Consider the situation of the famous experiment carried out by Collela, Overhauser, and Werner using a neutron interferometer, but with the experimental apparatus simplified so that beam splitters and mirrors in the interferometer are considered ideal. The experiment investigates the effects of gravitational attraction on the de Broglie wavelength of neutrons.
 
-The schematic representation of this interferometer, by analogy with that of an optical interferometer, is shown in Figure 1a. Neutron enters the interferometer through the IN gate and follows the two paths shown. Neutrons are detected at each of the two outlets, OUT1 or OUT2. The two routes cover a roughly square surface, typically a few centimetres.
+The schematic representation of this interferometer, analogous to that of an optical interferometer, is shown in Figure 1a. Neutrons enter the interferometer through the IN port and follow the two paths shown. The neutrons are detected at either of the two output ports, OUT1 or OUT2. The two paths enclose a surface shaped like a rhombus, typically with an area of several cm².
 
-The de Broglie wavelengths of the neutrons (typically of the order of about $10^{-10}$ m) interfere in such a way that, when the interferometer plane is horizontal, all the neutrons emerge from the OUT1 exit port; but when the interferometer is rotated at an angle $\phi$ around the direction of the incident neutron beam (Figure 1b), a redistribution of neutrons is observed, according to the angle $\phi$, between the two OUT1 and OUT2 exit ports.
+The de Broglie wavelengths of the neutrons (typically on the order of approximately $10^{-10}$ m) interfere such that, when the plane of the interferometer is horizontal, all neutrons emerge from the OUT1 output port; however, when the interferometer is rotated by an angle $\phi$ around the direction of the incident neutron beam (Figure 1b), a redistribution of neutrons between the two output ports OUT1 and OUT2 is observed, depending on the angle $\phi$.
 
-**Geometria** Per $\phi = 0$ il piano dell'interferometro è orizzontale; per $\phi = \pi/2$ il piano è verticale con le porte di uscita al di sopra dell'asse di rotazione.
+**Geometry** For $\phi = 0$ the interferometer plane is horizontal; for $\phi = \pi/2$ the plane is vertical with the output ports located above the rotation axis.
 
-**1.1** (1.0) What is the area $A$ of the rim enclosed by the two paths of the interferometer? Esprimi $A$ in funzione di $a$ e $\phi$.
+**1.1** (1.0) What is the area $A$ of the rhombus enclosed by the two paths of the interferometer? Express $A$ in terms of $a$ and $\phi$.
 
-**1.2** (1.0) What is the height of the $h$ of the OUT1 exit gate above the horizontal plane of the rotating axis? Esprimi $h$ in funzione di $a$, $\phi$ e $\theta$.
+**1.2** (1.0) What is the height $h$ of the OUT1 output port above the horizontal plane of the rotation axis? Express $h$ in terms of $a$, $\phi$ and $\theta$.
 
-**Optical path** The optical path $N_{\mathrm{opt}}$ (a number) is the ratio between the geometrical length of the path (a distance) and the wavelength $\lambda$. If $\lambda$ changes along the path, $N_{\mathrm{opt}}$ is obtained by integrating $\lambda^{-1}$ along the path.
+**Optical path** The optical path length $N_{\mathrm{opt}}$ (a number) is the ratio between the geometric path length (a distance) and the wavelength $\lambda$. If $\lambda$ varies along the path, $N_{\mathrm{opt}}$ is obtained by integrating $\lambda^{-1}$ along the path.
 
-**1.3** (3.0) What is the difference $\Delta N_{\mathrm{opt}}$ between the optical paths of the two paths when the interferometer has been rotated at an angle $\phi$? Express your response in terms of $a$, $\phi$ and $\theta$, the mass $M$ of the neutron, the de Broglie wavelength $\lambda_0$ of the incident neutrons, the gravitational acceleration $g$ and the Planck constant $h$.
+**1.3** (3.0) What is the difference $\Delta N_{\mathrm{opt}}$ between the optical path lengths of the two paths when the interferometer has been rotated by an angle $\phi$? Express your answer in terms of $a$, $\phi$ and $\theta$, the neutron mass $M$, the de Broglie wavelength $\lambda_0$ of the incident neutrons, the gravitational acceleration $g$ and Planck's constant $h$.
 
-**1.4** (1.0) Introduci il parametro di volume
-$$V = \frac{2\pi M^2 g \lambda_0 a^2}{h^2}$$
-and express $\Delta N_{\mathrm{opt}}$ only in terms of $V$, $\phi$, $\theta$ and $a$. Determine the numerical value of $V$ in the case of $M = 1.675 \times 10^{-27}\,\mathrm{kg}$, $g = 9.800\,\mathrm{m\,s^{-2}}$ and $h = 6.626 \times 10^{-34}\,\mathrm{J\,s}$.
+**1.4** (1.0) Introduce the volume parameter $$V = \frac{2\pi M^2 g \lambda_0 a^2}{h^2}$$ and express $\Delta N_{\mathrm{opt}}$ solely in terms of $V$, $\phi$, $\theta$ and $a$. Determine the numerical value of $V$ for the case when $M = 1.675 \times 10^{-27}\,\mathrm{kg}$, $g = 9.800\,\mathrm{m\,s^{-2}}$ and $h = 6.626 \times 10^{-34}\,\mathrm{J\,s}$.
 
-**1.5** (2.0) Quanti cicli – da una situazione di alta intensità ad una di bassa intensità e di nuovo ad una di alta intensità – vengono completati alla porta OUT1 quando $\phi$ cresce da $0$ a $\pi/2$?
+**1.5** (2.0) How many cycles – from a high-intensity condition to a low-intensity one and back to a high-intensity one – are completed at the OUT1 port when $\phi$ increases from $0$ to $\pi/2$?
 
-**Experimental data** The interferometer of a real experiment was $a = 3.600\,\mathrm{cm}$ and $\lambda_0 = 1.419\,\mathrm{\AA}$, and 19.00 complete cycles were observed.
+**Experimental Data** The interferometer in a real experiment was characterized by $a = 3.600\,\mathrm{cm}$ and $\lambda_0 = 1.419\,\mathrm{\AA}$, and 19.00 complete cycles were observed.
 
-**1.6** (1.0) Quanto vale $V\,a^2$ in questo esperimento?
+**1.6** (1.0) What is the value of $V\,a^2$ in this experiment?
 
-**1.7** (1.0) Se in un altro esperimento dello stesso tipo, in cui si usano neutroni con $\lambda_0 = 0.2000\,\mathrm{nm}$, si osservano 30.00 cicli completi, quanto vale l'area $A$?
+**1.7** (1.0) If in another experiment of the same type, using neutrons with $\lambda_0 = 0.2000\,\mathrm{nm}$, 30.00 complete cycles are observed, what is the value of area $A$?
 
-**Suggerimento:** Se $\phi = \pi/2$, si può sostituire $\sin\phi$ con $\cos\theta$.
+**Hint:** If $\phi = \pi/2$, then $\sin\phi$ can be replaced by $\cos\theta$.
 <!--fig:start-->
 ![[_attachments/IPhO-37.Th1_final_ITA/IPhO-37.Th1_final_ITA_p1_f1.png]]
-*Interferometro per neutroni Figura 1a*
+*Neutron interferometer Figure 1a*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/IPhO-37.Th1_final_ITA/IPhO-37.Th1_final_ITA_p1_f2.png]]
-*Interferometro ruotato di φ Figura 1b*
+*Rotated interferometer by φ Figure 1b*
 <!--fig:end-->
-
-**Topic:** [[Modern-Quantum Physics]], [[Gravitation]], [[Oscillations & Waves]]
-**Metodi:** [[de Broglie Relation (metodo)|de Broglie Relation]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1vDwfEVB5xsTUMvNZQ0HYXyy_m3Bfx66Q/view)

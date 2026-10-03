@@ -157,139 +157,84 @@ dell’autoinduzione per quanto, in realtà, non siano piccoli.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical problem 1
+Theoretical Problem 1
 
 **A**
 
-A bungee jumper is a person who performs acrobatic jumps: for this reason
-The other end of the rope is connected to the end of a long elastic rope, while the other end of the rope is connected to the end of the rope.
-The rope is fixed to a high-altitude bridge. The jumper drops from the
-The length of the bridge and the slope of the bridge is $m$, the length of the bridge is $m$.
-The resting rope is $L$, the rope's elastic constant is $k$ ($k$ represents the force that
-The acceleration of gravity is $g$.
-It can be assumed that:
+A "bungee jumper" is a person performing acrobatic jumps: for this purpose, they are attached by one end of a long elastic cord to the other end of which is fixed to a high bridge. The jumper falls from the bridge starting from rest, descending downward; their mass is $m$, the natural length of the cord is $L$, the spring constant of the cord is $k$ ($k$ represents the force required to stretch the cord by 1 m), and gravitational acceleration is $g$.
 
-- The jumper can be considered as a pointed mass $m$
-And she is attached to the end of the rope,
+It may be assumed that:
 
-- the mass of the rope is negligible compared to $m$,
+- The jumper can be considered as a point mass $m$ attached to the end of the cord,
 
-- the rope lengthens according to Hooke's law,
+- The mass of the cord is negligible compared to $m$,
 
-- during the fall of the jumper the air resistance may be neglected.
+- The cord stretches according to Hooke’s law,
 
-Find an expression for the following quantities and report it on the answer sheet:
-(a) the distance $y$ travelled by the jumper before stopping, the first
-Once, for a moment;
-(b) the maximum speed $v$ reached during this falling phase;
-(c) the duration $t$ of this fall phase (before the first stop)
-(Table number of the report)
+- Air resistance during the jumper's fall can be neglected.
+
+Find expressions for the following quantities and write them on the answer sheet:
+a) the distance $y$ traveled by the jumper before stopping momentarily for the first time;
+b) the maximum velocity $v$ reached during this phase of the fall;
+c) the duration $t$ of this phase of the fall (before stopping for the first time).
 
 **B**
 
-A thermal machine works by exchanging heat with two objects A and B
-different temperatures, $T_A$ and $T_B$ ($T_A > T_B$); each of the two objects has a mass $m$ and
-calore specifico $c$. The two objects are kept under constant pressure and not
-They are undergoing phase transitions.
+A heat engine operates by exchanging heat with two objects A and B at different temperatures, $T_A$ and $T_B$ ($T_A > T_B$); each of the two objects has mass $m$ and specific heat capacity $c$. The two objects are maintained at constant pressure and do not undergo phase transitions.
 
 (a)
-By showing all the steps, it takes an expression for the final temperature
-$T_0$ achieved by bodies A and B assuming that the machine extracts from the
-The system is the maximum amount of mechanical energy theoretically allowed.
-Write the temperature $T_0$ as determined on the answer sheet.
+Showing all steps, derive an expression for the final temperature $T_0$ reached by bodies A and B, assuming the machine extracts from the system the maximum amount of mechanical energy theoretically allowed.
+Write the expression for temperature $T_0$ determined, on the answer sheet.
 
-(b) It thus yields an expression for the maximum amount of mechanical energy
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
-The heat machine works between two water tanks whose volume is $2.50\ \text{m}^3$.
-One reservoir is 350 K, the other 300 K.
+(b)
+Then derive an expression for the maximum amount of mechanical energy available, and copy it onto the answer sheet.
+The heat engine operates between two water reservoirs whose volume is $2.50\ \text{m}^3$.
+One reservoir is at 350 K, the other at 300 K.
 
-(c) Calculates the maximum amount of mechanical energy that can be obtained and
-Write down the value found on the answer sheet.
+(c)
+Calculate the maximum amount of mechanical energy that can be obtained, and copy the resulting value onto the answer sheet.
 
-Specific heat of water $= 4.19\times10^3\ \text{J kg}^{-1}\,\text{K}^{-1}$
-
+Specific heat capacity of water $= 4.19\times10^3\ \text{J kg}^{-1}\,\text{K}^{-1}$
 Density of water $= 1.00\times10^3\ \text{kg m}^{-3}$
 
 **C**
 
-It is assumed that at the time of the formation of the Earth the
-isotopes $^{238}\text{U}$ and $^{235}\text{U}$, but not their decay products. It is possible
-use the decay of $^{238}\text{U}$ and $^{235}\text{U}$ to determine the age of the Earth $T$.
+Assume that during the period when Earth was forming, the isotopes $^{238}\text{U}$ and $^{235}\text{U}$ were present, but not their decay products. It is possible to use the decay of $^{238}\text{U}$ and $^{235}\text{U}$ to determine Earth’s age $T$.
 
 (a)
-The $^{238}\text{U}$ isotope decays with a half-life of $4.50\times10^9$ years.
-Products of the resulting radioactive series decay
-They have a shorter half-life than others and, in the first
-The approximation of their presence can be neglected. The series of
-decay ends with the stable isotope $^{206}\text{Pb}$.
+The isotope $^{238}\text{U}$ decays with a half-life of $4.50\times10^9$ years.
+The decay products from the resulting radioactive series have a shorter half-life than the others, and in first approximation their presence can be neglected. The decay series ends with the stable isotope $^{206}\text{Pb}$.
 
-Either the $^{206}n$ number of atoms of $^{206}\text{Pb}$ produced at the present $t$ and $^{238}N$ the number of atoms of $^{206}\text{Pb}$
-atoms of $^{238}\text{U}$ present in the $t$ adjacent, expressions $^{206}n$ in terms of time, number
-The average of the atoms present at $^{238}\text{U}$, $^{238}N$ and the half-life of $^{238}\text{U}$. (You can
-be useful is expressed in units of $10^9$ years.)
-Report the formula found in the reply sheet.
+Let $^{206}n$ be the number of atoms of $^{206}\text{Pb}$ produced at time $t$ and let $^{238}N$ be the number of atoms of $^{238}\text{U}$ present at time $t$. Express $^{206}n$ as a function of time, the number of atoms present of $^{238}\text{U}$ and $^{238}N$, and the half-life of $^{238}\text{U}$. (It may be helpful to express everything in units of $10^9$ years.)
+Write down the formula found on the answer sheet.
 
 (b)
-Similarly, $^{235}\text{U}$ decreases with half-life of
-$0.710\times10^9$ anni nell’isotopo stabile $^{207}\text{Pb}$. Products of the series
-decay have a short half-life and therefore
-It's negligible.
-It is an expression of $^{207}n$ as a function of $t$, $^{207}\text{Pb}$ and
-the half-life of $^{235}\text{U}$.
-Transcribe the formula found in the answer sheet.
+Similarly, $^{235}\text{U}$ decays with a half-life of $0.710\times10^9$ years into the stable isotope $^{207}\text{Pb}$. The intermediates in the decay series have short half-lives and thus their contributions are negligible.
+Derive, as before, an expression for $^{207}n$ in terms of $t$, $^{207}\text{Pb}$, and the half-life of $^{235}\text{U}$.
+Transcribe the formula found on the answer sheet.
 
 (c)
-A mineral containing uranium and lead is analysed with the
-mass spectrometer. The relative concentration of isotopes is measured
-di $^{204}\text{Pb}$, $^{206}\text{Pb}$ e $^{207}\text{Pb}$ e si trova che il numero di atomi degli isotopi
-The value of the underlying assets shall be calculated as follows: The isotope $^{204}\text{Pb}$ which
-It is not radioactive, it is taken as a reference. If, on the other hand, it comes
-The following results are obtained from the analysis of a pure lead mineral:
-1,00;17,9;15,5. Sapendo che il rapporto $^{238}N : {}^{235}N$ è di 137:1, trova
-un’equazione nell’incognita $T$, l’età della Terra.
+A mineral containing uranium and lead is analyzed using a mass spectrometer. The relative concentrations of the isotopes $^{204}\text{Pb}$, $^{206}\text{Pb}$, and $^{207}\text{Pb}$ are measured, and it is found that the number of atoms of these isotopes are in the ratios 1.00 : 29.6 ; 22.6, respectively. Isotope $^{204}\text{Pb}$, which is not radioactive, is taken as reference. If instead a pure lead mineral is analyzed, the following ratios are obtained: 1.00 ; 17.9 ; 15.5. Knowing that the ratio $^{238}N : {}^{235}N$ is 137 : 1, find an equation in the unknown $T$, the age of the Earth.
 
 (d)
-Assuming that $T$ is much greater than the half-life of
-The total number of uranium isotopes is calculated as the approximate age of the
-Terra $T$.
+Assuming that $T$ is much larger than the half-life of any uranium isotope, calculate an approximate value for the age of the Earth $T$.
 
-(e) The approximate value calculated in the preceding paragraph shall not be greater than
-The Commission has not yet taken any further action.
-be used to obtain a much more accurate value of $T$. From here, or
-Somehow, it estimates an exact Earth age value of 2%.
+(e) The approximate value calculated in the previous point is no longer significantly larger than the longest half-life, but it can be used to obtain a much more accurate value for $T$. From this, or in some other way, estimate the age of the Earth with a precision of 2%.
 
 **D**
 
-The electrical charge $Q$ in the vacuum is evenly distributed within one volume
-The radius of the sphere $R$.
+The electric charge $Q$, in vacuum, is uniformly distributed within a spherical volume of radius $R$.
 
-(a) Find an expression of the electric field intensity in relation to the
-distance $r$ from the centre of the sphere, whether in the case of $r \le R$ or in the case of $r \le R$
-where $r > R$ is used.
-Transcribe the expression found in the reply sheet.
+(a) Find an expression for the magnitude of the electric field as a function of distance $r$ from the center of the sphere, for both cases when $r \le R$ and when $r > R$.
+Transcribe the found expression in the answer sheet.
 
 (b) Find the total electrostatic energy of this charge distribution.
-Report the expression found in the reply sheet.
+Report the found expression in the answer sheet.
 
 **E**
 
-A thin circular copper ring is rotated around a diameter
-It is located vertically at a point in the Earth's magnetic field. The field
-The magnetic field at this point is $44.5\ \mu\text{T}$ and is directed towards the
-low with an angle of $64^\circ$ with the horizontal.
+A thin circular copper ring is rotated about a vertical diameter at a point in the Earth's magnetic field. The Earth’s magnetic field at this location has magnitude $44.5\ \mu\text{T}$ and is directed downward at an angle of $64^\circ$ with respect to the horizontal.
 
-Calculate how long it takes for the angular velocity of the ring to halve,
-Knowing that copper density is $8.90\times10^3\ \text{kg m}^{-3}$ and its resistivity is
-$1.70\times10^{-8}\ \Omega\,\text{m}$.
-Describe the procedure followed and then indicate the time required for the
-The answer sheet. Note that this time is much longer than the period of
-rotation of the ring.
-You can assume that the effects of friction due to the presence of
-The problem is that the effects of the air pollution are negligible and, for the purpose of this problem, the effects of the
-The Commission has already decided to adopt a proposal for a directive on the protection of the environment.
-
-**Topic:** [[Thermodynamics]], [[Electrostatics]], [[Electromagnetic Induction]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Heat Engine (object)|Heat Engine]], [[Nucleus (object)|Nucleus]], [[Sphere (object)|Sphere]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1pxGeY8ECwEYqF5qhI-XAJA-xxK_gscAh/view)
+Calculate how much time is required for the angular velocity of the ring to halve, given that the density of copper is $8.90\times10^3\ \text{kg m}^{-3}$ and its resistivity is $1.70\times10^{-8}\ \Omega\,\text{m}$.
+Describe the procedure followed, then indicate the value of the required time on the answer sheet. Note that this time is much greater than the rotation period of the ring.
+You may assume that frictional effects due to supports and air presence are negligible, and for the purposes of this problem, ignore the effects of self-induction, although in reality they are not small.

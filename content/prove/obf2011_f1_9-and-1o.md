@@ -394,63 +394,46 @@ sono rispettivamente:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Human Body and the Physics
+THE HUMAN BODY AND PHYSICS
 
-Research conducted by the Ministry of Health shows that obesity has increased in Brazilians.
-Currently, 13% of adults are obese, with women (13.6%) being higher than those in the
-The number of men in the EU is 12.4%. In 2006, when the first edition of the Monitoring Factors study was presented, the
-The risk and protection for chronic diseases by telephone survey (VIGITEL), 11.4% of Brazilians were
-Obese people. In 2007, this rate rose to 12.9%.
-Female obesity was on a stabilisation trend in previous research
-The Commission has already adopted a number of proposals for a new programme of action to be implemented in the field of information technology (VIGITEL 2006 and 2007). It is very worrying, says the
-The Commission has also adopted a number of proposals for a new programme of action to be launched in the field of health and safety.
-Historically, we have seen a very marked change in the Brazilian bodyweight pattern and
-- I'm going to get it. The National Family Expenditure Study (ENDEF) survey conducted in Brazil in 1975 showed that the
-That 2.8% of men and 7.8% of women were obese. In 2002, data from the Budget Survey
-Families noted that obesity reached 8.8% of men and 12.7% of women. These data
-The Commission's proposals for the second phase of the programme are based on the Commission's proposals for a new programme for the second phase of the programme.
-The overweight Brazilian population has remained stable over the past three years. Among the
-adults in the 26 capitals and the Federal District, 43.3% are overweight. The frequency among men is
-The highest: 47.3% of them are overweight, while 39.5% of them are in this range.
-Overweight is diagnosed from the Body Mass Index (BMI) obtained by
-between the weight and the square of the height. If this index reaches a value of 25 $\text{kg/m}^2$ or more, there is an excess
-weight. Obesity is diagnosed when the index reaches or exceeds 30 $\text{kg/m}^2$.
+Research carried out by the Ministry of Health shows that obesity has increased among Brazilians.
+Currently, 13% of adults are obese, with the rate being higher among women (13.6%) than among men (12.4%). In 2006, when the first edition of the study Surveillance of Risk and Protective Factors for Chronic Diseases by Telephone Survey (VIGITEL) was presented, 11.4% of Brazilians were obese. In 2007, this rate rose to 12.9%.
+"Obesity in women had been on a trend of stabilization in previous surveys (VIGITEL 2006 and 2007) and, now, there is a significant increase (table 1). It is very worrying," states the general coordinator of Noncommunicable Diseases and Injuries of the Ministry of Health, Deborah Malta.
+"Historically, we observe a very pronounced and rapid change in the body weight pattern of Brazilians. The National Household Expenditure Study (ENDEF) carried out in Brazil in 1975 showed that 2.8% of men and 7.8% of women were obese. In 2002, data from the Household Budget Survey indicated that obesity affected 8.8% of men and 12.7% of women. These data confirm the process of nutritional transition that the country is undergoing," states Malta.
+The rate of Brazilians who are overweight, however, has remained stable over the last three years. Among adults in the 26 capitals and the Federal District, 43.3% are above their ideal weight. The frequency among men is higher: 47.3% of them are overweight, while 39.5% of women are in that range.
+Being overweight is diagnosed based on the Body Mass Index (BMI), obtained by the ratio between weight and the square of height. If this index reaches a value equal to or greater than 25 $\text{kg/m}^2$, there is excess weight. Obesity is diagnosed when the index reaches or exceeds 30 $\text{kg/m}^2$.
 
-Please read the instructions below carefully:
-01) This test is intended exclusively for students in grades 9 and 1 of primary school.
-High school year. It contains thirty questions.
-02) Students in the ninth grade must choose 20 questions to solve freely.
-03) First-year students should also choose 20 questions to solve,
-the number of items in the list referred to in paragraph 1 of this Article;
+READ THE INSTRUCTIONS BELOW CAREFULLY:
+01) This exam is intended exclusively for students in the 9th grade of elementary school and the 1st year of high school. It contains thirty questions.
+02) Students in the 9th grade must freely choose twenty questions to solve.
+03) Students in the 1st year must also choose twenty questions to solve, excluding questions 01, 02, 03, 04 and 05.
 04) Each question contains five alternatives, of which only one is correct.
-05) The alternative considered correct should be indicated in the Answer Sheet.
-06) The Student Identification Sheet is on the last page
-This is the first of a series of tests.
-07) The duration of this test is four hours and the student must remain in the classroom for at least two weeks.
-at least 90 minutes.
-09) The use of any kind of calculator and mobile phone is prohibited.
+05) The alternative judged correct must be marked on the Answer Sheet.
+06) The Answer Sheet with the student's identification is on the last page of this booklet and must be handed in at the end of the exam.
+07) The duration of this exam is four hours, and the student must remain in the room for at least ninety minutes.
+09) The use of any type of calculators and cell phones is prohibited.
 
 Use when necessary:
-$g = 10\ \text{m/s}^2$ (aceleração gravitacional local)
+$g = 10\ \text{m/s}^2$ (local gravitational acceleration)
 $\pi = 3$ ; $1\ \text{cal} = 4{,}2\ \text{J}$
-Stage 1
-Test for students in 9th and 1st grade
+1st phase
+Exam for students in the 9th and 1st years
 
-The Commission has also adopted a number of measures to ensure that the Commission's financial contribution to the programme is not exceeded.
-The Commission has also adopted a number of measures to combat fraud.
+http://portal.saude.gov.br/portal/aplicacoes/reportagensespeciais/default.cfm?pg=dspdetalhes&id_area=124
+&co_noticia=10078 (source)
 
-Table 1  Classification of body mass index (BMI)
+Table 1 – Classification of Body Mass Index (BMI)
 
-| IMC ($\text{kg/m}^2$) | Classificação |
+| BMI ($\text{kg/m}^2$) | Classification |
 | --- | --- |
-♪ I'm not going to be a big fan ♪
-And I'm going to be a little bit more careful.
-I'm not a big fan of the game.
-This is a very important part of the job.
-This is a very good way to get a good idea of what you're doing.
-| $\geq 40$ | Obesidade Grau III |
+| < 18.5 | Underweight |
+| 18.5‐24.9 | Healthy |
+| 25‐29.9 | Overweight |
+| 30‐34.9 | Obesity Grade I |
+| 35‐39.9 | Obesity Grade II |
+| $\geq 40$ | Obesity Grade III |
 
-Questions 01 to 03 are based on the text and Table 1.
+Questions 01 to 03 are based on the text and on table 1.
 
 01) Knowing that 1 kg = 1,000 g and 1 m = 100 cm, the unit of BMI in $\text{g/m}^2$ is:
 - **A.** $10^1\ \text{g/cm}^2$
@@ -459,30 +442,23 @@ Questions 01 to 03 are based on the text and Table 1.
 - **D.** $10^{-1}\ \text{g/cm}^2$
 - **E.** $10^{-2}\ \text{g/cm}^2$
 
-02) According to the table above, a person with a BMI of $2\ \text{g/cm}^2$ is diagnosed as:
-- **A** Healthy
+02) According to the table above, a person with a BMI equal to $2\ \text{g/cm}^2$ is diagnosed as:
+- **A.** Healthy
 - **B.** Overweight
-- **C.** Obesity of Grade I
-- **D** Obesity grade II
-- **E.** Obesity of third degree
+- **C.** Obesity Grade I
+- **D.** Obesity Grade II
+- **E.** Obesity Grade III
 
-03) A 1.70 m tall patient was diagnosed as morbidly obese with a BMI of $42\ \text{kg/m}^2$.
-Calculate how many kilograms he must lose in order to be diagnosed as a healthy person (of
-according to Table 1) with a BMI of $24\ \text{kg/m}^2$:
+03) A patient 1.70 m tall was diagnosed as morbidly obese with a BMI equal to $42\ \text{kg/m}^2$.
+Calculate how many kilograms he must lose in order to be diagnosed as a healthy person (according to table 1) with a BMI equal to $24\ \text{kg/m}^2$:
 - **A.** 36 kg
 - **B.** 43 kg
 - **C.** 52 kg
 - **D.** 61 kg
 - **E.** 70 kg
 
-Questions 04 and 05 refer to the following text:
-In nature, the most common sources of energy are chemicals. For food and most fuels,
-chemical energy is converted through the oxidation process. In machinery the oxidation process
-It produces heat energy which is partially converted into labour or other forms of energy. In the
-In animals the oxidation process is more complex, but it can also result in thermal energy or
-I'm working. The human being needs to consume about 2000 kcal per day to supply his
-basic needs. But if we consume more energy than we need, it is stored in the
-fat form, another source of chemical energy.
+Questions 04 and 05 refer to the text below:
+In nature, the most common sources of energy are chemical. For foods and most fuels, chemical energy is converted through the oxidation process. In machines, the oxidation process produces thermal energy that is partially converted into work or other forms of energy. In animals, the oxidation process is more complex, but it can also result in thermal energy or work. Human beings need to consume about 2000 kcal per day to meet their basic needs. However, if we consume more energy than we need, it is stored in the form of fat, another source of chemical energy.
 
 04) The average power of a human being during the day is approximately:
 - **A.** 100 W
@@ -491,90 +467,75 @@ fat form, another source of chemical energy.
 - **D.** 400 W
 - **E.** 500 W
 
-On a walk we spend about 4.0 kcal/min. If a person consumes 1000 kcal in excess of
-Your daily diet, in order not to gain weight, should be around:
-- **A ** 1 hour and 30 minutes
-- **B ** 2 hours and 40 minutes
-- **C ** 3 hours and 20 minutes
-- **D ** 4 hours and 10 min
-- **E ** 5 hours and 15 minutes
+05) On a walk we spend about 4.0 kcal/min. If a person consumes 1000 kcal more in their daily diet, in order not to gain weight they should walk per day about:
+- **A.** 1 h and 30 min
+- **B.** 2 h and 40 min
+- **C.** 3 h and 20 min
+- **D.** 4 h and 10 min
+- **E.** 5 h and 15 min
 
-Questions 06 and 07 refer to the following text:
-F1 drivers undergo rigorous physical training to withstand the effects of the huge
-acceleration during the race. Of the pilot's body parts, the most affected by the call
-force G is the neck musculature that experiences accelerations of the order of magnitude of the gravitational value
-the land (g). But the force G from the point of view of Newtonian mechanics is not a force, but only a force.
-an effect of inertia on the pilot.
+Questions 06 and 07 refer to the text below:
+F1 drivers undergo rigorous physical training to withstand the effects of enormous accelerations during the race. Among the parts of the driver's body, the one that suffers most from the effects of the so-called
+"G-force" is the neck musculature, which undergoes accelerations on the order of magnitude of Earth's gravity (g). However, the "G-force" from the point of view of Newtonian mechanics is not a force, but merely an effect of inertia on the driver.
 
-06) According to the text and your knowledge of physics, indicate the false alternative.
-(a) inertia is the tendency for a body to remain at rest or in reticle motion
-uniform unless it is subject to action by an external force.
+06) According to the text and your knowledge of physics, mark the false alternative.
+(a) Inertia is the tendency a body has to remain at rest or in uniform rectilinear motion, unless it is acted upon by an external force.
 - **B.** The mass of a body is the quantitative measure of its inertia.
-- **C.** When accelerating in a straight line, the driver is pressed against the seat of the car.
-- **D.** When the car turns around the centre of the curve, the driver tends to continue his movement in the
-tangential direction.
-(e) When making the curve, the rider feels as if he is being pushed towards the centre of the curve in the direction of the curve.
-radial.
+- **C.** When accelerating in a straight line, the driver is pressed against the car seat.
+- **D.** When the car turns around the center of the curve, the driver tends to continue his motion in the tangential direction.
+(e) When taking the curve, the driver has the sensation of being pushed toward the center of the curve in the radial direction.
 
-07) An F1 car enters a curve of radius equal to 50 m at a speed equal to 180 km/h. The acceleration
-suffered from the pilot's neck (in terms of g) is:
+07) An F1 car enters a curve with a radius equal to 50 m at a speed equal to 180 km/h. The acceleration undergone by the driver's neck (in terms of g) is:
 - **A.** 4g
 - **B.** 5g
 - **C.** 6g
 - **D.** 7g
 - **E.** 8g
 
-The following table presents information on the ideal development of a man. Use the data
-to answer the questions from 08 to 15.
+The table below presents information about the ideal development of a man. Use the data to answer questions 08 to 15.
 
-The following table shows the following:
+Table 2
 
-♪ The size of the box ♪
+| Age | Height (cm) | Mass (kg) |
 | --- | --- | --- |
-♪ I'm not a big fan of the new wave ♪
-This is a very good idea.
-It's not like I'm going to be able to do it.
-It's a very special thing.
-This is a very important part of the process.
-This is a very important part of the story.
-This is a very important part of the story.
-This is a great opportunity for you.
+| Birth | 50.6 | 3.400 |
+| 3 months | 60.4 | 5.720 |
+| 6 months | 66.4 | 7.580 |
+| 9 months | 71.2 | 9.070 |
+| 12 months | 75.2 | 10.070 |
+| 6 years | 117.5 | 21.910 |
+| 12 years | 149.6 | 38.280 |
+| 18 years | 174.5 | 63.050 |
 
-Source: Measures drawn from the Child Development Health studies of the Department of Health and Human Services
-Maternal and child health from Harvard School of Public Health. The Commission has also adopted a number of measures to combat the use of the 'small' technology in the EU.
+Source: Measurements extracted from the studies of the Child Development Health of the Department of
+Maternal and Child Health of the Harvard School of Public Health. http://www.portalis.co.pt/tabela-decrescimento-infantil-meninos/ (March 2011)
 
-08) It is correct to state about the first year of the baby's life:
-- **A** Has grown to 35.2 cm and weighed 4.17 kg
-- **B** Has grown to 28,3 cm and weighed 7.36 kg
-- **C.** Has grown to 24.6 cm and weighed 6.67 kg
-- **D** Has grown to 12.5 cm and weighed 3.85 kg
-- **E** Has grown to 19.1 cm and weighed 2.92 kg
+08) About the baby's first year of life, it is correct to state:
+- **A.** Grew 35.2 cm and gained 4.17 kg
+- **B.** Grew 28.3 cm and gained 7.36 kg
+- **C.** Grew 24.6 cm and gained 6.67 kg
+- **D.** Grew 12.5 cm and gained 3.85 kg
+- **E.** Grew 19.1 cm and gained 2.92 kg
 
-09) Consider that human beings develop uniformly over time (that is, only in the
-(a) the number of persons who are not members of the group; Average rates of weight gain and growth from birth to age 18
-are respectively:
-- **A** 3.3 kg/year and 6.9 cm/year
+09) Consider that the human being develops uniformly over time (this is only an approximation). The average rates of weight gain and growth from birth to 18 years are respectively:
+- **A.** 3.3 kg/year and 6.9 cm/year
 - **B.** 4.6 kg/year and 7.5 cm/year
-- **C.** 5,4 kg/year and 8,4 cm/year
-- ** D** 6,8 kg/year and 9,6 cm/year
-- **E ** 7,9 kg/year and 11,3 cm/year
+- **C.** 5.4 kg/year and 8.4 cm/year
+- **D.** 6.8 kg/year and 9.6 cm/year
+- **E.** 7.9 kg/year and 11.3 cm/year
 
-10) The law of growth is given by the time equation ($t$ is measured in years and $h$ in cm):
+10) The growth law is given by the temporal equation ($t$ is measured in years and $h$ in cm):
 - **A.** $h(t) = 28{,}6 + 11{,}3\,t$
 - **B.** $h(t) = 50{,}6 + 9{,}6\,t$
 - **C.** $h(t) = 36{,}7 + 8{,}4\,t$
 - **D.** $h(t) = 44{,}2 + 7{,}5\,t$
 - **E.** $h(t) = 50{,}6 + 6{,}9\,t$
 
-11) The law of weight gain is given by the time equation ($t$ is measured in years and $m$ in kg):
+11) The weight gain law is given by the temporal equation ($t$ is measured in years and $m$ in kg):
 - **A.** $m(t) = 3{,}4 + 5{,}4\,t$
 - **B.** $m(t) = 2{,}8 + 7{,}9\,t$
 - **C.** $m(t) = 5{,}6 + 4{,}6\,t$
 - **D.** $m(t) = 3{,}4 + 3{,}3\,t$
 - **E.** $m(t) = 4{,}2 + 6{,}8\,t$
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1orfxgDPJI-XcMFYb_r1jJxdaUZK9KekJ/view)
+

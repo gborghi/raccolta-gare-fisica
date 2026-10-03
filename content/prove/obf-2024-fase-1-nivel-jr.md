@@ -415,34 +415,20 @@ Le affermazioni vere sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number six.
-Is asphalt a solid or a high viscosity fluid? To solve
-This question, in 1927, Thomas Parnell dumped a sample of
-heated asphalt in a sealed funnel (closed at the bottom) and
-She left him at rest for three years. Then he removed the lacquer so that
-I could flow. The experiment is still going on. The figure to
-The 1990 side was removed two years after the seventh drop fell.
-Consider the following statements about the experiment:
-The Commission is also considering the possibility of a new proposal for a directive.
+Question 6.
+Is asphalt a solid or a high-viscosity fluid? To resolve this question, in 1927, Thomas Parnell poured a sample of heated asphalt into a sealed funnel (closed at the bottom) and left it at rest for 3 years. Then, he removed the seal so that it could flow. The experiment is still ongoing. The figure alongside, from 1990, was taken two years after the seventh drop fell.
+Consider the following statements regarding the experiment:
+source: John Mainstone, University of
 Queensland
-1. Initial heating of the asphalt is necessary to ensure that there is drip at some point after the lacquer is opened.
-2. The heated asphate is liquid and its flow through the funnel is prevented by lacquer.
-3. If the viscosity of asphalt at room temperature were much lower, the time for
-The amount of the test chemical used in the test chemical may be less than the amount of the test chemical used in the test chemical.
-That's three years.
+1. The initial heating of the asphalt is necessary for dripping to occur at some moment after the seal is opened.
+2. The heated asphalt is liquid and its flow through the funnel is prevented by the seal.
+3. If the viscosity of the asphalt at room temperature were much lower, the time for it to settle at the bottom of the container and for the experiment to effectively begin could be much less than 3 years.
 The true statements are:
-- **A ** all of them
+- **A.** all
 - **B.** only 1 and 2
-- **C** only 1 and 3
-- **D** only 2 and 3
-- **E ** none
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
-
+- **C.** only 1 and 3
+- **D.** only 2 and 3
+- **E.** none
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2024 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
@@ -1181,31 +1167,17 @@ www.water-right.com/homeownerresources/how-does-a-well-work
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 16 is:
-The figure shows manual trouble. This device was
-used to obtain well water before the invention of hydraulic pumps. The trouble is made up of
-Two simple machines: a lever and a wheel and axle.
-Note that the horizontal cylinder rotation causes the
-The rope is wrapped and the bucket that is stuck in the other one is lifted
-the end. Consider a well with a depth
-a diameter of $h = 6\ \text{m}$ and a cylinder with a radius of $r = 10\ \text{cm}$.
-How long, in s, does it take a person to lift a
-water bucket if you complete a turn on the crank
-every 4 seconds.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The Commission has also adopted a number of measures to ensure that the Commission's financial contribution to the programme is not compromised.
+Question 16.
+The figure shows a manual winch. This device was widely used to draw water from wells before the invention of hydraulic pumps. The winch is composed of two simple machines: a lever and a wheel and axle.
+Note that the rotation of the horizontal cylinder causes the rope to wind and lift the bucket attached to the other end. Consider a well with a depth of $h = 6\ \text{m}$ and a winch with a cylinder of radius $r = 10\ \text{cm}$.
+How much time, in s, does a person take to lift a bucket of water if they turn the crank one full revolution every 4 s.
+source:
+www.water-right.com/homeownerresources/how-does-a-well-work
 - **A.** 12
 - **B.** 20
 - **C.** 40
 - **D.** 60
 - **E.** 80
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]], [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2024 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/cylinder,object/lever,object/rod"></span>
@@ -1429,35 +1401,18 @@ Le affermazioni vere sono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question number 19.
-Rubber is a material that stores potential elastic energy when
-deformed in a manner similar to a spring. Consider a small rubber ball that is
-abandoned from rest on a rigid floor. The figure represents the ball during the collision with
-The floor. The collision (ball kick) is not instantaneous, although it is rapid, lasts for an interval
-The time of $\tau$ of the order of milliseconds. In the figure, $t_i$ is the instant the ball hits the floor
-with $\vec{V}_i$ downward speed. From $t_i \leq t \leq t_i + \tau/2$ the ball is compressed against the ground. Em
-approximately $t_i + \tau/2$ the ball's deformation is maximum and the speed of its centre of
-mass is zero. In the $t_i + \tau/2 < t < t_f$ interval, the ball extends. Em $t_f$ ela volta à sua forma
-The original mass is $\vec{V}_f$ and the speed of its center of mass is $\vec{V}_f$ upwards.
-Considering that the speed after the collision is slightly lower than before, i.e. $|\vec{V}_f| = 0{,}95|\vec{V}_i|$, consider the following statements:
-1. In the $t_i < t < t_i + \tau/2$ range there is predominantly kinetic energy conversion in
-the potential energy elastic.
-2. The rigid floor accumulates the energy needed to throw the ball back up.
-3. The system is not conservative. With each ball's collision with the floor, part of the mechanical energy
-It's converted into thermal energy.
-The true affirmations are:
-- **A ** only 1;
-- **B ** only 2;
-- **C ** only 3;
-- **D** only 1 and 2;
-- **E** only 1 and 3;
-
-**Topic:** [[Conservation of Energy]], [[Elasticity & Materials]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12DBs4fh2vcp1nRlizVL83UgDy4S1TDWF/view)
-
+Question 19.
+Rubber is a material that stores elastic potential energy when deformed in a manner analogous to a spring. Consider a small rubber ball that is released from rest onto a rigid floor. The figure represents the ball during the collision with the floor. The collision (the ball's bounce), although fast, is not instantaneous; it lasts a time interval $\tau$ on the order of milliseconds. In the figure, $t_i$ is the instant at which the ball touches the floor with velocity $\vec{V}_i$ downward. From $t_i \leq t \leq t_i + \tau/2$ the ball compresses against the ground. At approximately $t_i + \tau/2$ the deformation of the ball is maximum and the velocity of its center of mass is zero. In the interval $t_i + \tau/2 < t < t_f$, the ball extends. At $t_f$ it returns to its original shape and the velocity of its center of mass becomes $\vec{V}_f$ upward.
+Considering that the speed after the collision is slightly less than before, that is, $|\vec{V}_f| = 0{,}95|\vec{V}_i|$, analyze the following statements:
+1. In the interval $t_i < t < t_i + \tau/2$ there is predominantly conversion of kinetic energy into elastic potential energy.
+2. The rigid floor accumulates the energy necessary to launch the ball upward again.
+3. The system is not conservative. With each collision of the ball with the floor, part of the mechanical energy is transformed into thermal energy.
+The true statements are:
+- **A.** only 1;
+- **B.** only 2;
+- **C.** only 3;
+- **D.** only 1 and 2;
+- **E.** only 1 and 3;
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2024 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/tank-container"></span>

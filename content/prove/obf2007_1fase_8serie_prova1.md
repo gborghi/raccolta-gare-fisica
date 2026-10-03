@@ -805,55 +805,19 @@ La taglia ha un diametro di 10 centimetri.
 
 Question 9
 
-The city of Petrópolis (RJ) is in a region
-Mountain, where rain combined with the process
-The Commission has already taken a number of measures to ensure that the Community's financial resources are used in the implementation of the programme.
-of earth. The civil defence coordinator of the
-The municipality has created a program called vigilantes
-Pluviometric, in which PET bottles are distributed
-Other, of a width of not more than 30 mm, but not more than 30 mm
-indicating the amount of rainfall that fell on a
-a given region. It is important to note that the beginning of the
-The amount of rainfall measured is above
-the irregular part of the PET bottle. We know that the
-unit adopted for measuring precipitation of
-Rain is the millimeter. Consider the following question:
-1 mm of precipitation is understood to be
-à
-Height
-1
-mm
+The city of Petrópolis (RJ) is located in a mountainous region, where rain combined with the urbanization process causes catastrophic landslides. The civil defense coordination office of this municipality created a program called rainfall monitors, in which PET bottles cut at the top and with a sticker indicating the amount of rain that fell in a given region are distributed. It is important to note that the start of the rain amount measurement is above the irregular part of the PET bottle. We know that the unit adopted for measuring rainfall is the millimeter. See the following question:
+It is understood that 1 mm of precipitation corresponds to a height
+1 mm
 
-em
-One
-area
-de
-$1\ \text{m}^2$
-uniformly distributed. If the precipitation in the
-bottle
-PET
-for
-de
-100
-mm,
-What
-It will be
-a
-corresponding precipitation in mm in an area of $1\ \text{m}^2$? Consider that the upper area of the PET bottle
-Cut has a diameter of 10 cm.
+in an area of
+$1\ \text{m}^2$ homogeneously distributed. If the precipitation in the PET bottle is
+100 mm, what will be the corresponding precipitation in mm in an area of $1\ \text{m}^2$? Consider that the upper area of the cut PET bottle has a diameter of 10 cm.
 
 - **A.** 75 mm
 - **B.** 100 mm
 - **C.** 50 mm
 - **D.** 80 mm
 - **E.** 90 mm
-
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2007 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
@@ -898,74 +862,30 @@ chuva) no ano de 1999.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 10
+Quesito 10
 
-Il grafico seguente rappresenta la precipitazione della quantità di pioggia (mm di altezza) nella subregione sud-occidentale:
-Juquitiba/Belvedere situato nel Grand São Paulo. Ogni mese si osservano due barre verticali: la prima rappresenta la media degli anni 1981-1999 mentre la seconda rappresenta quella del 1999. Relato
-In questo grafico in forma di istogramma, quale affermazione è sbagliata?
-a) O
-comportamento
-do
-L'istogramma mostra che in media
-piove più nei primi mesi del
-anno.
-b) nel mese di gennaio
-Nel 1999 il tasso di pioggia è stato di circa il 20%
-più di gennaio in media
-La Commissione ha adottato una decisione che prevede che il Consiglio di sicurezza europeo
-c) Certamente non c'è stato
-precipitazione pluviale nel mese di
-Maio e quindi non c'è stato
-registrare sul grafico.
-d) Apparentemente, la precipitazione annuale del 1999 delle piogge
-in questa regione di São Paulo è stato
-simile alla media degli anni
-precedenti.
-e) Nel mese di luglio
-anomalia nelle precipitazioni pluviometriche (misura della quantità di
-La pioggia nel 1999.
+Il grafico sottostante rappresenta la precipitazione della quantità di pioggia (mm di altezza) nella sotto-regione sud-ovest:
+Juquitiba/Belvedere situata nella Grande San Paolo. Si osservano per ogni mese due barre verticali: la prima rappresenta la media degli anni tra il 1981 e il 1999, mentre la seconda quella dell'anno 1999. Rispetto a questo grafico sotto forma di istogramma, quale affermazione è errata?
+a) Il comportamento dell'istogramma mostra che in media piove di più nei mesi iniziali dell'anno.
+b) Nel mese di gennaio del
+1999 è piovuto circa il 20 % in più rispetto a gennaio nella media degli anni 1981-1999.
+c) Con certezza non vi è stata precipitazione di pioggia nel mese di maggio e per questo non vi è stata registrazione nel grafico.
+d) Apparentemente, la precipitazione annuale del 1999 delle piogge in questa regione di San Paolo è stata simile alla media degli anni precedenti.
+e) Nel mese di luglio vi è stata un'anomalia nella precipitazione pluviometrica (misura della quantità di pioggia) nell'anno 1999.
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 10
+Question 10
 
-The graph below shows the amount of rainfall (mm in height) in the southwestern subregion:
-Juquitiba/Belvedere located in Greater São Paulo. Two vertical bars are observed each month: the first represents the average for the years 1981 to 1999 while the second represents the average for 1999. In relation to
-The Commission has already made a number of proposals to the Council.
-a) O
-behaviour
-do
-The histogram shows that on average
-rainfall in the early months of
-year.
-(b) In January
-In 1999 it rained about 20% of the total
-More than in January on average
-The Commission has already adopted a number of proposals.
-(c) There certainly was no
-rainfall in the month of
-May and so there was no
-record on the chart.
-(d) Apparently, the annual 1999 rainfall of the
-In this region of São Paulo it was
-similar to the average of years
-previously.
-(e) In July there were
-abnormality in pluviometric precipitation (measured by quantity
-The Commission has already adopted a proposal for a regulation on the protection of the environment.
-
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
-
+The graph below represents the precipitation of the amount of rain (mm of height) in the southwestern sub-region:
+Juquitiba/Belvedere located in Greater São Paulo. In each month two vertical bars are observed: the first represents the average of the years between 1981 and 1999 while the second that of the year 1999. Regarding this histogram-shaped graph, which statement is incorrect?
+a) The behavior of the histogram shows that on average it rains more in the initial months of the year.
+b) In the month of January of
+1999 it rained about 20% more than in January in the average of the years 1981-1999.
+c) Certainly there was no rain precipitation in the month of May and therefore there was no record in the graph.
+d) Apparently, the annual precipitation of 1999 of the rains in this region of São Paulo was similar to the average of the previous years.
+e) In the month of July there was an abnormality in the pluviometric precipitation (measurement of the amount of rain) in the year 1999.
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2007 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/droplet"></span>
@@ -1828,62 +1748,38 @@ e
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 20
+Quesito 20
 
-Supponiamo che uno dei granelli giganti sia stato lanciato in alto, realizzando il
-movimento osservato nella figura accanto.
-Per quanto riguarda il movimento di questo granizo
-In aria possiamo dire che:
+Supponiamo che una delle grandinate giganti sia stata lanciata verso l'alto, compiendo il movimento osservato nella figura a fianco.
+Riguardo al movimento di questa grandine nell'aria possiamo dire che:
 
 I)
-È stato
-lanciato
-per
-sopra
-con
-velocità
-e
-Accelerazione
-iniziali
-de
-lo stesso senso del movimento del granizo.
-II) Al punto più alto la velocità
-il calo è zero mentre l'accelerazione
-Non è niente.
-III) Dopo il punto più alto, la nebbia
-Scende
-con
-Accelerazione
-costante
-e
-un aumento della velocità.
+È stata lanciata verso l'alto con velocità e accelerazione iniziali aventi lo stesso verso del movimento della grandine.
+II) Nel punto più alto la velocità della grandine è zero mentre l'accelerazione è minima.
+III) Dopo il punto più alto, la grandine scende con accelerazione costante e aumento della velocità.
 
 Allora,
 
-- MSK1/> I e III sono corretti.
-- B, tutte giuste.
-Solo III è corretto.
-Solo io è vero.
-- **E ** I e II sono corretti.
-L'articolo 6 del regolamento (CE) n.
-8o (9o) Serie
-Completare con carattere in forma
+- **A.** I e III sono corrette.
+- **B.** Tutte sono corrette.
+- **C.** Solo III è corretta.
+- **D.** Solo I è corretta.
+- **E.** I e II sono corrette.
+FOGLIO DELLE RISPOSTE DELL'
+8ª (9ª ) Serie
+Compilare usando la stampatello
 
-Nome: ____________________________________
+Nome: ________________________________________
 
-Serial: ___ E-mail
+Serie: ___ E-mail________________________________
 
-La scuola:
+Scuola:________________________________________
 
-Comune di ______________________________Stato di _____
+Comune_____________________________Stato____
 
-La firma è stata rilasciata a norma del regolamento (UE) n.
+Firma______________________________________
 
-a
-b
-c
-d
-e
+a b c d e
 01
 
 02
@@ -1924,72 +1820,43 @@ e
 
 20
 
-Fase 1
+1ª Fase
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 20
+Question 20
 
-Suppose one of the giant granite was thrown upwards, carrying out the
-movement observed in the figure next to it.
-With respect to the motion of this hail
-In the air we can say that:
+Suppose that one of the giant hailstones was thrown upward, performing the motion observed in the figure beside it.
+Regarding the motion of this hailstone in the air, we can say that:
 
 I)
-It was .
-launched
-for
-Upstairs
-with
-speed
-e
-Acceleration
-Initial
-de
-The same sense of movement of the hail.
-(ii) At the highest point the speed
-The hail is zero while the acceleration
-It's not even close.
-(iii) After the highest point, the hail
-Get down
-with
-Acceleration
-constant
-e
-increase in speed.
+It was thrown upward with initial velocity and acceleration in the same direction as the hailstone's motion.
+II) At the highest point the hailstone's velocity is zero while the acceleration is minimum.
+III) After the highest point, the hailstone descends with constant acceleration and increasing velocity.
 
-So, what?
+Then,
 
-- MSK1/> I and III are correct.
-- They're all right.
-- Only III is correct.
-- Only I is right.
-- MSK1/> I and II are correct.
-The Commission has already adopted a proposal for a Council Regulation (EEC)
-8th (9th) Series
-Fill in using a font form
+- **A.** I and III are correct.
+- **B.** All are correct.
+- **C.** Only III is correct.
+- **D.** Only I is correct.
+- **E.** I and II are correct.
+ANSWER SHEET FOR THE
+8TH (9TH) Grade
+Fill in using block letters
 
-The name of the person concerned shall be:
+Name: ________________________________________
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+Grade: ___ E-mail________________________________
 
-The following is the list of the countries of the European Union:
+School:________________________________________
 
-The following is the list of the municipalities of the Union:
+Municipality_____________________________State____
 
-The following is the list of the countries of the European Union:
+Signature______________________________________
 
-a
-b
-c
-d
-e
+a b c d e
 01
 
 02
@@ -2030,10 +1897,6 @@ e
 
 20
 
-Stage 1
+1st Phase
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/10i9bLtqDXjgDAYiu7K_kyvwJ8SuHw5Za/view)
+

@@ -144,62 +144,58 @@ Per il secondo esperimento, ripeta le procedure sperimentali dell'esperimento I,
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Static friction on the slope **
+**Static friction on the inclined plane**
 
-The following information is provided by the Technical Service:
+**Experimental Material Provided:**
 
-Check the following list and photo of the material you received:
-- Fiber of plum (barb and grouse);
-- a sloping plane system with a coated MDF plate and another with a rough face;
-- Crack and paper cloth, available in the laboratory;
-- Two rules;
-- Graphite pencils;
-- The transmitter.
+Check against the following list and photo the material you received:
+- Plumb line (string and washer);
+- Inclined plane system with a coated MDF board and another with a rough face;
+- Masking tape and paper tissue, available in the laboratory;
+- 2 washers;
+- Graphite pencil;
+- Protractor.
 
-The following information is provided by the Technical Service:
+**Experimental Procedures**
 
-You find on the table two MDF (Medium-Density Fiberboard) plates, a material derived from wood. In Portuguese, the correct designation is medium density wood fiber plate. These two plates, joined by crepe tape, can form two sloped planes with different roughnesses. You will then measure the friction coefficient of the rows with these two planes.
+On the table you find two MDF (Medium-Density Fiberboard) boards, a material derived from wood. In Portuguese, the correct designation is medium-density wood fiber board. These two boards, joined by masking tape, can form two inclined planes with different roughness. You will then measure the coefficient of friction of washers with these two planes.
 
-The following is the list of the samples taken:
+**Experiment I**
 
-1. For the first experiment, use the face coated (white) facing upwards.
+1. For the first experiment, use the coated (white) face facing up.
 
-2. Tie the plum thread with crepe tape to one of the sides of the face.
+2. Fix the plumb line with masking tape on one of the sides of the face.
 
-3. Place a rubella on the plate near the plum thread, and place the graphite pencil available between the plates. It shall be used as a support and shall be used to vary the angle of inclination of the plane.
+3. Place a washer on the board, near the plumb line, and put the graphite pencil provided between the boards. It will serve as a support and will be used to vary the angle of inclination of the plane.
 
-*Obs.: * The plum thread should be slightly removed from the table in order to give reliability to measurements.
+   *Note:* The plumb line should be slightly away from the table, in order to give reliability to the measurements.
 
-4. Move the pencil, slowly varying the plane slope until the rubber slips over the plate (it is recommended to do this by turning the pencil and pushing it forward). Right now, fix the pencil position.
+4. Move the pencil, slowly varying the inclination of the plane until the washer slides on the board (it is recommended that you do this by rotating the pencil and pushing it forward). At that moment, fix the position of the pencil.
 
-5. Get the angle of the inclined plane. Since it is difficult to accurately measure this angle directly, use the plume wire and the transfer wire to obtain the complementary angle and then determine it. After that, enter the value in Experimental Data Registry I.
+5. Obtain the angle of the inclined plane. Since it is difficult to measure this angle accurately directly, use the plumb line and the protractor to obtain the complementary angle and then determine it. Shortly afterwards, record the value in Experimental Data Record I.
 
-The following information is provided by the Commission in the Official Journal of the European Union:
+**Experimental Data Record I**
 
-♪ ♪ Measure one degree ♪ ♪ Measure two degrees ♪
+| | Measurement 01 (degrees) | Measurement 02 (degrees) | Measurement 03 (degrees) |
 |---|---|---|---|
-♪ One is ruined ♪
-♪ Two ruins ♪
+| 01 washer | | | |
+| 02 washers | | | |
 
-6. Repeat steps 4 and 5 until you complete the line from the table above to 01 rows.
+6. Repeat steps 4 and 5 until completing the row of the table above for 01 washer.
 
-7. Cole the two rules with crepe tape. Place the row set near the plume thread and repeat steps 4, 5 and 6, completing the row in the table above (Experimental Data Records I) for 02 rows.
+7. Glue the two washers with masking tape. Place the set of washers near the plumb line and repeat the steps of 4, 5 and 6, completing the row of the table above (Experimental Data Record I) for 02 washers.
 
-The following is the list of the samples taken:
+**Experiment II**
 
-For the second experiment, repeat the experimental procedures of Experiment I, replacing the coated face with the rough face, completing the values in Experimental Data Registry II. Remember to tie the plum thread to that rough face, too.
+For the second experiment, repeat the experimental procedures of Experiment I, replacing the coated face with the rough face, completing the values in Experimental Data Record II. Remember to attach the plumb line to this rough face as well.
 
-The following information is provided by the Commission in the Official Journal of the European Union:
+**Experimental Data Record II**
 
-♪ ♪ Measure one degree ♪ ♪ Measure two degrees ♪
+| | Measurement 01 (degrees) | Measurement 02 (degrees) | Measurement 03 (degrees) |
 |---|---|---|---|
-♪ One is ruined ♪
-♪ Two ruins ♪
+| 01 washer | | | |
+| 02 washers | | | |
 
-*(The analysis questions  calculation of the static friction coefficient $\mu_s = \tan\theta$, comparison between surfaces and discussion of mass independence  are found on pages 25 of the resolution book, inaccessible by password protection in PDF.)*
+*(The analysis questions — calculation of the static friction coefficient $\mu_s = \tan\theta$, comparison between surfaces and discussion of the independence of mass — are on pages 2–5 of the solutions notebook, inaccessible due to the PDF's password protection.)*
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SGvSMGQ2Y9LDYzKSMCvju1w1iyyRTabg/view)
+

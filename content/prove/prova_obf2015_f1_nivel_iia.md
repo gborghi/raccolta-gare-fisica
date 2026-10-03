@@ -172,7 +172,7 @@ Immaginate che un'informazione venga inviata con un laser al sistema Alfa Centau
 
 <div class="qlang-split" data-lang="en"></div>
 
-(exclusive to the 1st series) In the figure above, consider that the radar detects vehicles within the highlighted rectangle triangle. What's the area of the road, in square metres, covered by the beam?
+(exclusive to 1st grade) In the figure above, consider that the radar detects vehicles within the highlighted right triangle. What is the area of the road, in m², covered by the beam?
 
 - **A.** 6
 - **B.** 9
@@ -182,15 +182,8 @@ Immaginate che un'informazione venga inviata con un laser al sistema Alfa Centau
 
 <!--fig:start-->
 ![[_attachments/Prova_OBF2015_F1_Nivel_IIa/Prova_OBF2015_F1_Nivel_IIa_p3_f1.png]]
-The following information is provided for in the Annex to Regulation (EU) No 1303/2013.
+*Radar detecting vehicles in triangular zone*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2015 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -220,11 +213,11 @@ onde $x$ é dado em metros e $t$ em segundos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-(exclusiva da 1ª série) Considerando que necessitássemos de descobrir a velocidade do automóvel após certo instante $t = 3{,}0$ s, e apenas fosse fornecida a função horária da posição em função do tempo. Qual è la velocità in istante $t = 3{,}0$ s, in km/h? Considerando la funzione oraria:
+(esclusiva dalla 1ª serie) Considerando che avessimo bisogno di scoprire la velocità dell'automobile dopo un certo istante $t = 3{,}0$ s, e che fosse fornita soltanto la funzione oraria della posizione in funzione del tempo. Qual è la velocità nell'istante $t = 3{,}0$ s, in km/h? Considerando la funzione oraria:
 
 $$x = 0{,}3t^2 + 2t + 5$$
 
-dove $x$ è data in metri e $t$ in secondi.
+dove $x$ è dato in metri e $t$ in secondi.
 
 - **A.** 30 km/h
 - **B.** 40,1 km/h
@@ -232,11 +225,6 @@ dove $x$ è data in metri e $t$ in secondi.
 - **D.** 61,2 km/h
 - **E.** 72,3 km/h
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -309,9 +297,9 @@ where $x$ is given in meters and $t$ in seconds.
 
 <div class="qlang-split" data-lang="en"></div>
 
-(exclusiva da 1ª série) Considere uma situação análoga a uma montanha russa na qual um bloco desliza sem atrito sobre uma calha que tem o perfil representado na figura abaixo, onde $h = 4R$, sendo $R$ o raio do trecho circular. Whereas the block starts at the rest of point A and $h = 5{,}0$ m, what is the block's speed at point B?
+(exclusive to 1st year) Consider a situation analogous to a roller coaster in which a block slides without friction on a track whose profile is shown in the figure below, where $h = 4R$, with $R$ being the radius of the circular section. Considering that the block starts from rest at point A and $h = 5{,}0$ m, what is the speed of the block at point B?
 
-- **A.** 5,0 m/s
+- **A.** 5.0 m/s
 - **B.** 10 m/s
 - **C.** 20 m/s
 - **D.** 40 m/s
@@ -321,13 +309,6 @@ where $x$ is given in meters and $t$ in seconds.
 ![[_attachments/Prova_OBF2015_F1_Nivel_IIa/Prova_OBF2015_F1_Nivel_IIa_p3_f2.png]]
 *Roller coaster track profile with points A, B, C*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nI3_a7t-FXgLk43JOcId-87exdD07Ik0/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2015 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cart"></span>

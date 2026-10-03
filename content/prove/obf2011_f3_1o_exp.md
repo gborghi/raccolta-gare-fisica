@@ -381,58 +381,47 @@ ESPAÇO PARA RASCUNHO
 
 <div class="qlang-split" data-lang="it"></div>
 
-05) La durata di tale prova è di 2 ore e 30 minuti e il partecipante deve rimanere in sala per il
-almeno 90 minuti.
-Fase 3  Prova sperimentale
-Prova per studenti di primo anno
+05) La durata di questa prova è di due ore e trenta minuti, e l'alunno deve rimanere nell'aula per almeno novanta minuti.
+3a fase – Prova Sperimentale
+Prova per gli alunni del 1o anno
 2
-KIT ESPERIMENTALE: 1  Multimetro digitale DT830B; 2  Due cavi (rosso e nero) con connettori
-banana e jacaré; 3  Set di 5 resistenti attaccati ad un supporto per la connessione della batteria; 4  Batteria.
+KIT SPERIMENTALE: 1 – Multimetro digitale DT830B; 2 – Due cavi (rosso e nero) con connettori banana e a coccodrillo; 3 – Insieme di 5 resistori saldati a un supporto per il collegamento della batteria; 4 – Batteria.
 
 1
 4
 3
 2
 
-Gestione corretta dei cavi e sistema di resistenza: NON PUSSAI i capelli con la fibra. Proseguire come
-il cui valore è indicato nelle figure seguenti, sempre con molta attenzione.
+Manipolazione corretta dei cavi e dell'insieme di resistori: NON TIRARE I CAVI PER IL FILO. Procedere come indicato nelle figure sottostanti sempre con molta attenzione.
 
-Coniutore di banana
-Connettore di cacarella
+Connettore banana
+Connettore a coccodrillo
 
-Manipola il sistema di resistenza con attenzione per non danneggiare le soldate (non piegare il sistema di resistenza)
-resistenza). Raccoppiare la batteria al dispositivo solo quando richiesto, facendo molta attenzione al
-collegarla.
+Manipolare l'insieme di resistori con attenzione per non danneggiare le saldature (non piegare l'insieme di resistori). Collegare la batteria all'insieme solo quando richiesto, prestando molta attenzione nel collegarla.
 
-Connessione dei cavi al multimetro: utilizzare il modello indicato sotto  collegare i plug banane come indicato.
-Prendi molto
+Collegamento dei cavi al multimetro: Usare lo schema indicato di seguito – collegare i plug banana come indicato.
+Prestare molta
 
-Coniutore di banana
-rosso
-Coniutore di banana
-nero
+Connettore banana rosso
+Connettore banana nero
 3
-PARTE I  Misura della differenza di potenziale della batteria
+PARTE I – MISURA DELLA DIFFERENZA DI POTENZIALE DELLA BATTERIA
 
-Metti i cavi sul multimetro come indicato nelle istruzioni precedenti. # Attento a questo #
-procedura.
+Mettere i cavi nel multimetro come indicato nelle istruzioni precedenti. Molta attenzione in questa procedura.
 
 a) Identificazione delle scale del multimetro
 
-Con il multimetro in mano trascriva nel libretto delle risoluzioni tutte le scale indicate nel selettore
-per potenziale elettrico (V) e resistenza elettrica $(\Omega$).
-Esempio per la scala 20V:
+Con il multimetro in mano trascrivere sul quaderno di risoluzione tutte le scale indicate sul selettore per il potenziale elettrico (V) e la resistenza elettrica $(\Omega$).
+Esempio per la scala di 20V:
 
 b) Misura della differenza di potenziale della batteria.
 
-Selezionare la scala 20 V (a sinistra della posizione off  come indicato nella figura precedente). Misura la differenza
-di potenza della batteria collegando i fili ai terminali e seguendo la convenzione indicata sopra.
-Indicare e evidenziare il risultato nel quaderno delle risposte. Invertire i fili e misurare di nuovo il valore indicato
-sul display e trascriverlo nel libretto di risoluzione.
+Seleziona la scala 20 V (a sinistra della posizione "off" – come indicato nella figura precedente). Misura la differenza di potenziale della batteria collegando i fili ai terminali e seguendo la convenzione indicata in precedenza.
+Indica ed evidenzia il risultato sul quaderno delle risposte. Inverti i fili e misura nuovamente il valore indicato sul display e trascrivilo sul quaderno delle soluzioni.
 
-PARTE II  METRE di resistenza elettrica
+PARTE II – MISURE DI RESISTENZA ELETTRICA
 
-Selezionare la scala 20 $k\Omega$ con il selettore del multimetro.
+Seleziona la scala 20 $k\Omega$ con il selettore del multimetro.
 R1
 R2
 R3
@@ -444,8 +433,8 @@ R5
 4
 5
 6
-Rossa
-Neri
+Rosso
+Nero
 Rappresentazione
 R1
 R2
@@ -459,11 +448,10 @@ R5
 5
 6
 
-Misura le resistenze elettriche tra i punti indicati nella tabella seguente (secondo la rappresentazione
-di cui all'articolo 1, paragrafo 1, del regolamento (CE) n. Trascrivere la tabella di seguito nel libretto delle risoluzioni.
+Misura le resistenze elettriche tra i punti indicati nella tabella sottostante (secondo la rappresentazione della figura precedente). Trascrivi la tabella sottostante sul quaderno delle soluzioni.
 
-Punto
-resistenza $(k\Omega$)
+Punti
+Resistenza $(k\Omega$)
 1-2 (R1)
 
 2-3(R2)
@@ -478,23 +466,18 @@ resistenza $(k\Omega$)
 
 $(1k\Omega$ = $1000\Omega$)
 
-a) Somma tutte le resistenze (R1 +....+R5). Compare il valore ottenuto con la somma con il valore della
-resistenza RT. Concludete.
+a) Fai la somma di tutte le resistenze (R1 +....+ R5). Confronta il valore ottenuto con la somma con il valore della resistenza RT. Concludi.
 
-b) Supponiamo che l'insieme di 5 resistori costituisca un unico materiale di resistenza totale RT e lunghezza
-de L=10cm. Determina il valore della grandezza H = RT/L. Supponendo che tutti i resistori siano uguali in
-di cui sopra: Compare il valore con i valori di
-- La tavola e la conclusione.
+b) Supponi che l'insieme di 5 resistori formi un unico materiale di resistenza totale RT e lunghezza L=10cm. Determina il valore della grandezza H = RT/L. Supponendo che tutti i resistori siano uguali in dimensione, qual è il valore della resistenza per ciascun resistore ottenuta da H. Confronta il valore con i valori della tabella e concludi.
 4
-PARTE III  Misure di differenziazione di potenziale elettrico (potenziale)
+PARTE III – MISURE DI DIFFERENZA DI POTENZIALE ELETTRICO (POTENZIALE)
 
-Collegare la batteria al sistema di resistenze (prendere molta attenzione). C'è solo un modo per collegare
-Batteria a plug. Metti il selettore del multimetro a 20 V. Misura le differenze di potenziale elettrico (potenziale)
-tra i punti indicati nella tabella seguente (secondo la rappresentazione della figura di cui al punto precedente).
-Trascrivere la tabella seguente nel libretto di risoluzione.
+Colleghi la batteria all'insieme di resistori (faccia molta attenzione). C'è solo un modo per collegare la batteria alla spina. Metta il selettore del multimetro su 20 V. Misuri le differenze di potenziale elettrico (potenziale)
+tra i punti indicati nella tabella sottostante (secondo la rappresentazione della figura del punto precedente).
+Trascriva la tabella seguente sul quaderno di risoluzione.
 
-Punto
-Differenza di potenziale (V)
+Punti
+Differenza di Potenziale (V)
 1-2 (V12)
 
 2-3(V23)
@@ -507,18 +490,16 @@ Differenza di potenziale (V)
 
 1-6(VT)
 
-a) Sumare tutti i valori per le differenze di potenziale (V12 +....+ V56). Compare il valore ottenuto dalla somma
-con il valore del potenziale tra i punti 1 e 6 VT. Concludete.
+a) Sommi tutti i valori per le differenze di potenziale (V12 +....+ V56). Confronti il valore ottenuto dalla somma con il valore del potenziale tra i punti 1-6 VT. Concluda.
 
-b) Secondo la legge di Ohm il corrente i che circola in un resistore è dato dal ragionamento ൌ
+b) Secondo la legge di Ohm la corrente i che circola in un resistore è data dal rapporto ݅ൌ
 ௏ೌ್
-ோ. Con i valori
-La Commissione ha adottato una decisione che prevede che le misure di cui al paragrafo 1 siano state adottate in base alle disposizioni del regolamento (CE) n.
-Calcola la corrente.
+ோ. Con i valori ottenuti nella Parte II e nella Parte III (punto a) compili la seguente tabella (la trascriva sul quaderno di risoluzione).
+Calcoli la corrente.
 
-La resistenza $(k\Omega$)
+Resistenza $(k\Omega$)
 Potenziale (V)
-Corrent (A)
+Corrente (A)
 R1
 V12
 
@@ -537,15 +518,14 @@ V56
 RT
 VT
 
-Sulla base dei risultati della tabella precedente, si può concludere sul valore del corrente ottenuto.
+A partire dai risultati della tabella precedente tragga le sue conclusioni sul valore della corrente i ottenuta.
 
-PARTE IV  Rappresentazione grafica
+PARTE IV – RAPPRESENTAZIONE GRAFICA
 
-a) Dividere il quadricolo in due parti uguali. Al di sopra, trascrivi la tabella sotto le
-i risultati ottenuti in Parte II e Parte III (non riprendere le misure).
+a) Divida il quadrettato in due parti uguali. Nella parte superiore trascriva la tabella sottostante con i risultati ottenuti nella Parte II e nella Parte III (non ripeta le misure).
 
-La resistenza $(k\Omega$)
-Differenza di potenziale (V)
+Resistenza $(k\Omega$)
+Differenza di Potenziale (V)
 R12
 V12
 R13
@@ -557,25 +537,17 @@ V15
 R16
 V16
 
-b) Sfruttando i risultati della tabella precedente (parte IV a).
+b) Usando i risultati della tabella precedente (Parte IV a).
 
-Sotto l'altra metà del quadricolo, fai un grafico del potenziale a funzione della resistenza
-usando i valori ottenuti. Indicare i valori e le scale degli assi.
+Nella parte inferiore dell'altra metà del reticolo traccia un grafico del potenziale in funzione della resistenza usando i valori ottenuti. Indica i valori e le scale degli assi.
 
-SEGNERE: Verificare tutti i materiali forniti. Togliete con attenzione i cavi della banana-jacaré
-Multi-metro e inserire la chiave selezionatrice in off. Togli la batteria dal supporto delle resistenze con molta attenzione.
-Se hai bisogno di aiuto, chiedi al procuratore. Invio di tutto il materiale e del libro delle risoluzioni in modo adeguato
-- E' stato riempito con il suo nome al procuratore.
+TERMINE DELL'ESERCITAZIONE: Verifica tutto il materiale fornito. Rimuovi con cura i cavi banana-coccodrillo dal multimetro e metti il selettore su "off". Rimuovi con molta cura la batteria dal supporto dei resistori.
+Se hai bisogno di aiuto chiedi al commissario. Consegna tutto il materiale e il quaderno delle soluzioni debitamente compilato con il tuo nome al commissario.
 5
 ________________________________________________________________________________________
-Spazio per il Rastorno
+SPAZIO PER LA BRUTTA COPIA
 6
 
-**Topic:** [[Circuits]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Eb-J8v-6fER84sSPaR3MSwV84RjluebM/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -774,3 +746,5 @@ Space for the Rack
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Graph Linearization (competenza)|Graph Linearization]]
 **Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Eb-J8v-6fER84sSPaR3MSwV84RjluebM/view)
+
+

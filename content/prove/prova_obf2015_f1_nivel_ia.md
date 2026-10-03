@@ -424,83 +424,62 @@ Fonte: http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mort
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the countries of the European Union:
+**BRAZILIAN PHYSICS OLYMPIAD 2015**
 
-Read the instructions carefully before applying the test
-
-(do not print this sheet)
-
-Phase 1 test:
-
-The following shall be added to the OBF Regulation 2015 for the first phase test:
-
-3.1 - The test for the first phase will be held on 21 May 2015 (Thursday).
-
-3.1.1 - The application of the first stage test is the responsibility of the accredited teacher
-The following periods are applied in the school premises: morning (7 a.m.
-at 12h), afternoon (13h to 18h), night (18h30min to 23h).
-
-3.1.2 - After the test is applied, teachers must collect all the material
-(Question book and answer sheets) and keep the material with you for a day
-after the official announcement (see calendar).
-Participants must be taught by teachers who are not
-The Commission shall, by means of implementing acts, adopt delegated acts in accordance with Article 21 of Regulation (EU) No 182/2011 and shall take into account the information contained in the Annex to this Regulation.
-(via any medium, social network or similar) during the day of application of the
-I'll try that. Violation of this paragraph will result in the student being disqualified.
-
-The preliminary report shall be published only in the restricted area for teachers.
-Two days after the initial disclosure, the final official disclosure shall be made.
-Once the final score is released, the evidence can be returned to the students. The leaves
-The answer should be with the teacher.
-The release of students' final grades will be released in the restricted area after the
-The final disclosure of the final cut.
+READ THE INSTRUCTIONS ON THIS SHEET CAREFULLY BEFORE ADMINISTERING THE EXAM
 
 (do not print this sheet)
 
-The following is a list of the countries of Brazil by weight:
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+First phase exam:
 
-Level I
-Basic education - 8th and 9th grades
+OBF 2015 regulations for the first phase exam:
 
-The European Parliament has adopted a resolution on the situation in the Mediterranean.
+3.1 - The first phase exam will be held on May 21, 2015 (Thursday).
 
-Please read the instructions below carefully:
-01) This test is intended exclusively for students in grades 8 and 9 of primary school. She 's ...
-It contains 20 questions.
+3.1.1 - The administration of the first phase exam is the responsibility of the accredited teacher and will be administered on the school premises in one of the following periods: morning (from 7 to 12h), afternoon (13 to 18h), evening (18h30 min to 23h).
+
+3.1.2 - After administering the exam, teachers must collect all the material (question booklet and answer sheets) and keep the material with them until one day after the publication of the official answer key (see calendar).
+Participating students must be instructed by the teachers that it is not permitted to transmit/publish comments about the content of the exam (through any means, social networks or similar) during the day of the exam administration. Violation of this item will result in the student's disqualification.
+
+The preliminary answer key will be published only in the teachers' restricted access area.
+Two days after the publication of the preliminary answer key, the final official answer key will be published.
+From the publication of the final answer key onward, the exams may be returned to the students. The answer sheets must remain with the teacher.
+The entry of the students' final grades will be released in the restricted access area after the publication of the final answer key.
+
+(do not print this sheet)
+
+BRAZILIAN PHYSICS OLYMPIAD 2015
+1st PHASE – May 21, 2015
+
+LEVEL I
+Elementary School - 8th and 9th grades
+
+Theme: INTERNATIONAL YEAR OF LIGHT
+
+READ THE INSTRUCTIONS BELOW CAREFULLY:
+01) This exam is intended exclusively for students in the 8th and 9th grades of elementary school. It contains twenty questions.
 02) Each question contains five alternatives, of which only one is correct.
-03) The alternative considered correct should be indicated in the Answer Sheet.
-04) The Student Identification Sheet is on the last page of this
-the notebook and must be delivered at the end of the test.
-05) The duration of this test is not more than four hours and the student must remain in the classroom
-for at least 90 minutes.
-06) The use of any kind of calculator and mobile phone is prohibited.
+03) The alternative judged correct must be marked on the Answer Sheet.
+04) The Answer Sheet with the student's identification is on the last page of this booklet and must be handed in at the end of the exam.
+05) The duration of this exam is at most four hours, and the student must remain in the room for at least ninety minutes.
+06) The use of any type of calculators and cell phones is prohibited.
 
-Data: gravity acceleration at the earth's surface $10\ \text{m/s}^2$, water density $10^3\ \text{kg/m}^3$,
-$\pi = 3$, speed of light in vacuum $3\times10^8\ \text{m/s}$, Planck constant $6{,}6\times10^{-34}\ \text{J.s}$, log 2 = 0,3
+Data: acceleration due to gravity on the Earth's surface $10\ \text{m/s}^2$, density of water $10^3\ \text{kg/m}^3$,
+$\pi = 3$, speed of light in vacuum $3\times10^8\ \text{m/s}$, Planck constant $6{,}6\times10^{-34}\ \text{J.s}$, log 2 = 0.3
 
-The following text relates to questions 1 and 2.
+The following text refers to questions 1 and 2.
 
-In 1960 the first laser appeared, 44 years after Albert Einstein predicted its existence. At that time
-of its discovery, the laser - Light Amplification by Stimulated Emission of Radiation or
-Amplification of Light by Stimulated Radiation Emission - was considered only an object of
-I'm very curious. Subsequently, a multitude of applications for it were discovered, from the
-Basic research to medical use. (Excerpted from the Electronic Journal of Science, May 07, 2017)
-de 2002).
-Light travels at a speed of about 300,000 km/s. ♪ Being the distances ♪
-The results of the study are not as clear as the results of the study.
-The average annual light-current time of one year is approximately $9{,}5\times10^{12}\ \text{km}$.
+"In 1960 the first laser appeared, 44 years after Albert Einstein predicted its existence. At the time of its discovery, the LASER - Light Amplification by Stimulated Emission of Radiation - was considered merely an object of great curiosity. Later, a multitude of applications were discovered for it, from basic research to use in medicine." (Text extracted from Revista Eletrônica de Ciências, Number 07, May 2002).
+Light travels at a speed of approximately 300,000 km/s. Since astronomical distances are very large, it is often convenient to express them in light-years (the space traveled by light in one year corresponds approximately to $9{,}5\times10^{12}\ \text{km}$).
 
-1. Imagine that a laser sends information to the Alpha Centauri system and it travels through the system.
-a distance of $4{,}1\times10^{16}\ \text{m}$. What's that distance, roughly, in light-years?
+1. Imagine that a piece of information were sent by laser to the Alpha Centauri system and traveled a distance of $4{,}1\times10^{16}\ \text{m}$. What is this distance, approximately, in light-years?
 
-- **A.** 3,6
-- **B.** 4,1
-- **C.** 4,3 (d) 4,6
-- **E.** 5,0
+- **A.** 3.6
+- **B.** 4.1
+- **C.** 4.3 (d) 4.6
+- **E.** 5.0
 
-2. What is the time spent for light to travel $4{,}1\times10^{16}\ \text{m}$ in seconds,
-- About what?
+2. What is the time taken for light to travel the distance of $4{,}1\times10^{16}\ \text{m}$ in seconds, approximately?
 
 - **A.** $1{,}4\times10^8$
 - **B.** $2{,}4\times10^8$
@@ -508,97 +487,73 @@ a distance of $4{,}1\times10^{16}\ \text{m}$. What's that distance, roughly, in 
 - **D.** $4{,}5\times10^8$
 - **E.** $6{,}1\times10^8$
 
-3. The German astronomer Johannes Kepler (1571-1630) made fundamental contributions to the
-the development of astronomy with the proposal of laws bearing his name. One of them,
-Known as Kepler's first law, it states that all planets move in orbits.
-elliptical, with the Sun occupying one of its focal points. The figure below shows
-The movement of a planet. When the planet is at its point of
-orbiting the Sun, it is said to have reached:
+3. The German astronomer Johannes Kepler (1571-1630) made fundamental contributions to the development of astronomy with the proposition of laws that bear his name. One of them, known as Kepler's first law, establishes that all planets move in elliptical orbits, with the Sun occupying one of their foci. In the figure below, the motion of a planet is schematically represented. When the planet is at the point of its orbit closest to the Sun, it is said to have reached:
 
-The Commission has also adopted a number of measures to ensure that the European Union's financial contribution to the programme is not exceeded.
+Source: http://www.infoescola.com/fisica/gravitacao-universal/
 
-- **A ** has been lifted
-- **B ** aphelion
-- **C ** perihelion
-- **D **
-- **E ** equation
+- **A.** apogee
+- **B.** aphelion
+- **C.** perihelion
+- **D.** apoapsis
+- **E.** equinox
 
-4. Fixed radar is a computerised electronic equipment intended to monitor a
-a particular point on the highway or the whole of it, establishing a monitoring routine, with the objective of:
-The Commission will also be able to take action to ensure that the Union's financial contribution to the implementation of the programme is not limited to the following:
-The Commission has also adopted a proposal for a directive on the protection of the environment. (Text from the
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-This appropriation is intended to cover the expenditure incurred in the implementation of the programme.
+4. "The Fixed Radar is a computerized electronic device that aims to monitor a given point of the highway or the entire highway, establishing an inspection routine, aiming through these actions to reduce the statistics of accidents with fatal victims on the highways and disciplining in the short and medium term the driver with regard to speed control". (Text
+Extracted from the Secretariat of Rio de Janeiro, DER-RJ; http://www.der.rj.gov.br/lombadas_radares.asp, accessed on 04/07/2015).
 
-The Commission has also adopted a proposal for a directive on the protection of the environment.
+Image source: Department of Roads and Highways of Rio de Janeiro)
 
-In the figure above, consider that the radar detects vehicles within the rectangle in
-highlight. What area of road in $\text{m}^2$ covered by the beam?
+In the figure above, consider that the radar detects vehicles within the highlighted right triangle. What is the area of the road, in $\text{m}^2$ covered by the beam?
 
 - **A.** 6
 - **B.** 9 (c) 10
 - **D.** 12 (e) 20
 
-5. Consider a particle moving according to the time function
-$x = 3 + 5t + 2t^2$ where the
-The position $x$ is given in meters and the time $t$ in seconds. What is the average particle velocity between
-the instants $t_1 = 3$ s and $t_2 = 4$ s, in m/s?
+5. Consider a particle that moves according to the time function
+$x = 3 + 5t + 2t^2$, where the position $x$ is given in meters and the time $t$ in seconds. What is the average velocity of the particle between the instants $t_1 = 3$ s and $t_2 = 4$ s, in m/s?
 
 - **A.** 17
 - **B.** 19 (c) 21
 - **D.** 34
 - **E.** 38
 
-The following text relates to questions 6, 7 and 8.
-Consider a situation similar to a Russian mountain where a block slides without friction
-on a well with the profile shown in the figure below, where $h = 4R$, where $R$ is the radius of the
-Circular section.
+The following text refers to questions 6, 7 and 8.
+Consider a situation analogous to a roller coaster in which a block slides without friction on a track that has the profile represented in the figure below, where $h = 4R$, with $R$ being the radius of the circular section.
 
-6. Whereas the block starts at the rest of point A and $h = 5{,}0$ m, what is the block speed
-at point B?
+6. Considering that the block starts from rest from point A and $h = 5{,}0$ m, what is the velocity of the block at point B?
 
-- **A.** 5,0 m/s
+- **A.** 5.0 m/s
 - **B.** 10 m/s
 - **C.** 20 m/s
 - **D.** 40 m/s
 - **E.** 100 m/s
 
-7. Below the values of the mechanical (E), kinetic (K) and potential (U) energies of the cart are
-represented by vertical columns, and the shaded part length is proportional to
-These values.
+7. Below, the values of the mechanical (E), kinetic (K) and potential (U) energies of the cart are represented by vertical columns, and the length of the shaded part is proportional to these values.
 
 I)
 
  II)
-(iii) the
+ III)
 IV)
  V)
 
  VI)
 
-Identify the diagrams that best represent the energy distribution in points A, B and C,
-respectively;
+Identify the diagrams that best represent the energy distribution, at points A, B and C, respectively;
 
-- **A.** I, IV e V
-- **B.** II, VI e IV
-- **C** III, II and V
-- **D ** I, II and III
-- **E.** I, II e V
+- **A.** I, IV and V
+- **B.** II, VI and IV
+- **C.** III, II and V
+- **D.** I, II and III
+- **E.** I, II and V
 
-8. Based on Newton's laws which diagram best represents the force acting on the
-cart at point C.
+8. Based on Newton's laws, which diagram best represents the force(s) acting on the cart at point C.
 
 (a) (b) (c)
 
  (d) (e)
 
-9. A recent paper published in the Brazilian Journal of Physics Education highlights a
-Peltier thermoelectric refrigerator used to stabilize a laser beam in experiments
-The following is a list of the main activities of the Brazilian Institute of Physics: 36, n. 1, 1308 (2014)). The work highlights one
-An experiment where a diode laser stabilization system is installed
-controlled and stabilized temperature with low cost materials. The Commission has also taken note of the
-temperature, let's say the experiment records a temperature of $68\ ^\circ\text{F}$, and you have
-So what's the alternative to this temperature?
+9. A recent work published in the Revista Brasileira de Ensino da Física highlights a
+“Peltier thermoelectric refrigerator used to stabilize a laser beam in didactic experiments” (Revista Brasileira de Ensino de Física, v. 36, n. 1, 1308 (2014)). The work highlights an experiment in which a stabilization system for a diode laser is assembled, kept at a controlled temperature and stabilized with low-cost materials. Highlighting the temperature control, let us imagine that the experiment records a temperature of $68\ ^\circ\text{F}$, and you had to obtain this information on the Celsius scale, which alternative provides this temperature.
 
 - **A.** $10\ ^\circ\text{C}$
 - **B.** $20\ ^\circ\text{C}$
@@ -606,20 +561,12 @@ So what's the alternative to this temperature?
 - **D.** $34\ ^\circ\text{C}$
 - **E.** $38\ ^\circ\text{C}$
 
-The following text relates to questions 10 to 13
-Take away human courage, pride in nautical engineering, 269 meters tall colosse of
-length, width of 28 m, height of 71 m and 46 000 tonnes, masterpiece of 7,5 million
-The RMS Titanic, considered and held to be impregnable by the most unsuspecting experts,
-He was a failure on his inaugural trip. In the final hours of the 14th of December,
-In April, the ship sank and took the lives of over 1,500 people in the icy waters of the Mediterranean Sea.
-North Atlantic. The Commission has also adopted a number of measures to ensure that the Commission is able to take account of the situation of the Member States in the area of fisheries.
+The following text refers to questions 10 to 13
+“Totem of human daring, pride of nautical engineering, colossus 269 meters long, 28 m wide, 71 m high and 46 thousand tons, a masterpiece worth 7.5 million dollars, the RMS Titanic, considered and held as impregnable by the most unsuspecting experts, sank on its maiden voyage. Upon colliding with an iceberg, in the last hours of April 14, the ship sank and took with it the lives of more than 1,500 people in the icy waters of the
+North Atlantic”. (http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causas-investigacao.shtml)
 
-The Commission has also adopted a number of measures to ensure that the Union's financial resources are used to finance the implementation of the programme.
+Source: http://veja.abril.com.br/historia/titanic/tragedia-naufragio-iceberg-mortos-causas-investigacao.shtml
 
-10. Imagine an empty compartment of $60{,}0\ \text{m}^3$, into which water penetrates
+10. Imagine that an empty compartment of $60{,}0\ \text{m}^3$, into which water penetrates
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Fluid Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Pl0AW3qBTi4NXlbbcBxvPzHz-Axh1ggU/view)
+

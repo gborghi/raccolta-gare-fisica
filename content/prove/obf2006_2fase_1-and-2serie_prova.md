@@ -629,18 +629,8 @@ depressione, una sensazione che ha triplicato il peso.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 12 (first and second series) - A stretch of a mountain in Russia
-has a curvature radius of $R$ of 80 m.
-Determine the speed a wagon must have so that,
-The Commission has already taken the necessary steps to ensure that the
-depression, a feeling that tripled your weight.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1KFXU-4F4wYymHFfcfLKeO32PBZC8cwrl/view)
-
+Problem 12 (1st and 2nd grades) - A section of a roller coaster has a dip with a radius of curvature $R$ equal to 80 m.
+Determine the speed a car must have so that, while descending, its passengers experience, at the lowest point of the dip, a sensation that their weight has tripled.
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/piston,object/cylinder,object/lever"></span>

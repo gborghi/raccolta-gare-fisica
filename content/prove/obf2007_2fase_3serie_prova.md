@@ -178,30 +178,16 @@ Fig. 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-02. A m-mass body, attached to a length rope
- e de
-The weight of the product is negligible, is abandoned from the horizontal position A, as shown in the
-The following table shows the results of the study: The Commission has therefore decided to adopt a new approach.
-It's in a gravitational field of modulus g, and you ask yourself,
+02. A body of mass m, attached to a rope of length and negligible mass, is released from the horizontal position A, as shown in figure 2. Neglecting dissipative forces and considering that the system is in a gravitational field of magnitude g, the following questions are asked:
 l
-(a) At which points on the trajectory the body acceleration vector will be
-vertical component with downward direction? And with upward sense?
-(b) Determine the angle $\theta$ to which the acceleration vector will be in the direction
-horizontal.
+a) At which points of the trajectory will the acceleration vector of the body have a vertical component pointing downward? And pointing upward?
+b) Determine the angle $\theta$ for which the acceleration vector will be in the horizontal direction.
 A
 B
 C
-$\theta$
-g
+$\theta$ g
 
 Fig. 2
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Gk1b2ND1hDmJSb3JZ4XCh_xvwdDYTXwm/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2007 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/gas"></span>
@@ -619,7 +605,7 @@ horas será de R\$144,00. Sabendo que a empresa cobra R\$0,60 por kW h
 
 <div class="qlang-split" data-lang="it"></div>
 
-07. Due lampade a incandescenza sono collegate in serie e, sottoponendo l'associazione a una tensione di 250 V per 1000 ore, l'azienda concessionaria addebiterà R\$150,00 per l'uso. Collegando le lampade in parallelo e sottoponendole alla tensione di 120 V, il costo per le stesse 1000 ore sarà di R\$144,00. Sapendo che l'azienda addebita R\$0,60 per kW h (imposte e tasse incluse), determina:
+07. Due lampade a incandescenza sono collegate in serie e, sottoponendo l'associazione a una tensione di 250 V per 1000 ore, l'azienda concessionaria addebiterà R\$144,00. Sabendo que a empresa cobra R\$144,00. Sapendo che l'azienda addebita R\$0,60 per kW h (imposte e tasse incluse), determina:
 - **A.** Il valore delle resistenze.
 - **B.** Le potenze dissipate in ciascuna lampada, per ciascuna associazione.
 
@@ -629,9 +615,12 @@ horas será de R\$144,00. Sabendo que a empresa cobra R\$0,60 por kW h
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Gk1b2ND1hDmJSb3JZ4XCh_xvwdDYTXwm/view)
 
+[[OBF2007_2Fase_3serie_prova__Q07]]
+
+
 <div class="qlang-split" data-lang="en"></div>
 
-07. Two incandescent lamps are connected in series and, subjecting the combination to a voltage of 250 V for 1000 hours, the utility company will charge R\$150,00 for the usage. Connecting the lamps in parallel and subjecting them to a voltage of 120 V, the cost for the same 1000 hours will be R\$144,00. Knowing that the company charges R\$0,60 per kW h (taxes and fees included), determine:
+07. Two incandescent lamps are connected in series and, subjecting the combination to a voltage of 250 V for 1000 hours, the utility company will charge R\$144,00. Sabendo que a empresa cobra R\$144,00. Knowing that the company charges R\$0,60 per kW h (taxes and fees included), determine:
 - **A.** The value of the resistances.
 - **B.** The powers dissipated in each lamp, for each combination.
 
@@ -641,6 +630,7 @@ horas será de R\$144,00. Sabendo que a empresa cobra R\$0,60 por kW h
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1Gk1b2ND1hDmJSb3JZ4XCh_xvwdDYTXwm/view)
 
+[[OBF2007_2Fase_3serie_prova__Q07]]
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2007 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/sphere,object/spring,object/point-charge"></span>

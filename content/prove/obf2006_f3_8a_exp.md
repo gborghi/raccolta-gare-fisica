@@ -188,16 +188,8 @@ significato del coefficiente angolare della reta spaziale in funzione del tempo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-4) Determine the angular coefficient of the space graph as a function of time.
-Compare it to the mean speed value in question 2. The Commission concludes that
-the mean of the angular coefficient of the space line with respect to time.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xupYbWwsquCa8J45nvRoiPHbLWA1Ckmp/view)
-
+4) Determine the slope of the position-versus-time graph.
+Compare it with the value of the average velocity obtained in question 2. Draw a conclusion about the meaning of the slope of the position-versus-time line.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>

@@ -619,27 +619,13 @@ Fig. 5
 
 <div class="qlang-split" data-lang="en"></div>
 
-8. A giant wheel with a radius of 5.0 m has its axis at 6.6 m from the ground and if
-It spins at a constant speed, clockwise. When
-One of the chairs reaches the position of 53° in the vertical direction
-(see Figure 5), the child who occupies it throws a ball upwards,
-vertical direction, with a speed of 8,8 m/s. The Commission has therefore decided to
-The motion of the giant wheel is of
-s
+8. A Ferris wheel with a radius of 5.0 m has its axle 6.6 m above the ground and is rotating at constant speed in the clockwise direction. When one of the seats reaches the position that forms 53o with the vertical direction (see figure 5), the child occupying it throws a ball upward, in the vertical direction, with a speed of 8.8 m/s. Knowing that the period of the Ferris wheel's motion is s
 $\pi$
 10
-, determines the point at which the ball
-It's going to hit the ground.
+, determine the point at which the ball will hit the ground.
 
 Fig. 5
 4
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XvYhi1d6obAXzTCJr2ZAizIq0EKuUifx/view)
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2007 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/pendulum,object/rope-string"></span>

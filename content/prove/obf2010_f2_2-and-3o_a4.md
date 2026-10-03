@@ -155,21 +155,14 @@ Un blocco $3{,}0\ \text{kg}$, inizialmente a riposo, è posizionato su una super
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Problem 3**
 
-A $3{,}0\ \text{kg}$ block, initially at rest, is placed on a flat, frictionless surface. The block is moved by $8{,}0\ \text{m}$ by a constant force of $12\ \text{N}$ in $3{,}0$ seconds. What is the mean force force during movement?
+A block of $3{,}0\ \text{kg}$, initially at rest, is positioned on a flat, frictionless surface. The block is moved by $8{,}0\ \text{m}$ by a constant force of $12\ \text{N}$, in $3{,}0$ seconds. What is the average power of the force during the motion?
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p2_f2.png]]
 *Block on frictionless surface under constant force*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2010 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni"></span>
@@ -225,27 +218,20 @@ c) Qual è il valore di $\theta$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 - The Commission has not yet decided on the application of this Regulation.
+**Problem 4**
 
-A monochrome beam of light passes through a set of materials as outlined in the figure below ($\theta_x > \theta_y$).
+A monochromatic ray of light passes through a set of materials as schematized in the figure below ($\theta_x > \theta_y$).
 
-(a) In which material does light spread at the fastest speed?
+a) In which material(s) does the light propagate with the greatest speed?
 
-(b) In which material does light spread at the slowest speed?
+b) In which material(s) does the light propagate with the lowest speed?
 
-(c) What is the value of $\theta$?
+c) What is the value of $\theta$?
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p2_f3.png]]
 *Monochromatic ray through layered materials*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2010 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/galvanometer,object/wire"></span>
@@ -289,21 +275,14 @@ In una parte di un circuito elettrico (come indicato nella figura seguente) un a
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 - The Commission has not yet decided on the application of the rules on the application of the rules of procedure.
+**Problem 5**
 
-In one part of an electrical circuit (as shown in the figure below) an ampere is connected to determine the current running through a given wire. What is the current value on the amp? (value and unit)
+In a part of an electrical circuit (as shown in the figure below) an ammeter is connected to determine the current flowing through a given wire. What is the value of the current indicated on the ammeter? (value and unit)
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p2_f4.png]]
-The following table shows the results of the tests:
+*Circuit section with ammeter*
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Galvanometer (object)|Galvanometer]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2010 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/spring,object/block"></span>
@@ -347,21 +326,14 @@ Il grafico seguente rappresenta l'ampiezza di oscillazione a funzione del tempo 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6 - The Commission has not yet decided on the draft budget.
+**Problem 6**
 
-The graph below represents the time-spaced oscillation amplitude for a mass-moll system (harmonic oscillator). Which of the pairs of points shown in the graph below has the same phase?
+The graph below represents the oscillation amplitude as a function of time for a mass-spring system (harmonic oscillator). Which pair of points indicated in the graph below has the same phase?
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p3_f5.png]]
-The following table shows the results of the calculations:
+*Amplitude vs time for mass-spring oscillator*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2010 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/ball"></span>
@@ -469,21 +441,14 @@ Una palla di massa $m = 1{,}0\ \text{kg}$ scivola senza attrito in un piano oriz
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8 - The Commission has not yet decided on the draft budget.
+**Question 8**
 
-A ball of mass $m = 1{,}0\ \text{kg}$ slides without friction in a horizontal plane at a speed of $1{,}0\ \text{m/s}$. Ball A collides elastically with a ball B identical to it, and initially rests. Draw a diagram of the velocities of balls A and B after impact, indicating the angle that ball A makes with respect to the axes $x$ and $y$.
+A ball of mass $m = 1{,}0\ \text{kg}$ slides without friction on a horizontal plane with velocity $1{,}0\ \text{m/s}$. Ball A collides elastically with a ball B identical to it, and initially at rest. Draw a diagram of the velocities of balls A and B after the collision, indicating the angle that ball A makes with respect to the $x$ and $y$ axes.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p4_f7.png]]
-Elastic collision between two identical balls on plane
+*Elastic collision between two identical balls on plane*
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2010 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/rod"></span>
@@ -599,25 +564,18 @@ b) Calcolare la velocità di ondulazione (velocità d'onda).
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the use of the 'small' technology.
+**Problem 10**
 
-A student stands on a platform above the sea, observing the waves on the surface. He realizes that the ripples on the sea surface cause a piece of wood to rise and fall. It then times the time between two successive ascents and gets a time of $2$ seconds.
+A student is on a platform (see figure below) above the sea, observing the ripples on the surface. He notices that the ripples on the sea surface make a piece of wood rise and fall. He then times the interval between two successive rises and obtains a time of $2$ seconds.
 
-(a) Determine the frequency of rippling on the sea surface.
+a) Determine the frequency of the ripple on the sea surface.
 
-(b) Calculate the wave velocity (wavelength).
+b) Calculate the speed of the ripple (wave speed).
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p5_f9.png]]
 *Student on platform observing sea surface waves*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2010 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/rope-string"></span>
@@ -725,21 +683,14 @@ Un gas ideale passa da uno stato $a$ a uno stato $b$ seguendo il percorso determ
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 12 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Problem 12**
 
-An ideal gas passes from a state $a$ to a state $b$ following the path determined by $a – c – b$ as shown in the diagram $pV$ below. Along this path $60\ \text{J}$ heat is absorbed by the system and $30\ \text{J}$ work is carried out by the system. Determine the heat absorbed by the system along the $a – d – b$ path, knowing that in this case the work performed by the system is $10\ \text{J}$.
+An ideal gas goes from a state $a$ to a state $b$ following the path determined by $a – c – b$ as indicated in diagram $pV$ below. Along this path $60\ \text{J}$ of heat are absorbed by the system and $30\ \text{J}$ of work are done by the system. Determine the heat absorbed by the system along the path $a – d – b$, knowing that in this case the work done by the system is $10\ \text{J}$.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p5_f11.png]]
 *pV diagram with paths a-c-b and a-d-b*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2010 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni"></span>
@@ -791,25 +742,18 @@ Sulla base del grafico precedente calcoli l'indice di refrazione del vetro.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 13 - The Commission has not yet decided on the application of this Regulation.
+**Question 13**
 
-The following statement serves as a reference to questions 13 and 14.
+*The statement below serves as a reference for questions 13 and 14.*
 
-A laboratory experiment was conducted by causing a monochrome beam of light to spread through a block of glass, emerging into the air. Consider a refractive index $n_{\text{ar}} = 1{,}0$ for air. Varying the angle of incidence of the light, the graph of the dependence between the breasts of the angle of incidence ($\theta_1$) and the refraction ($\theta_2$) was drawn as shown in the following figure.
+A laboratory experiment was carried out in which a beam of monochromatic light propagates through a glass block, emerging into the air. Consider for the air a refractive index $n_{\text{ar}} = 1{,}0$. By varying the angle of incidence of the light, a graph was plotted of the dependence between the sines of the angles of incidence ($\theta_1$) and refraction ($\theta_2$) as shown in the following figure.
 
-From the above chart, calculate the refractive index of the glass.
+From the graph above, calculate the refractive index of the glass.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p6_f12.png]]
-The following table shows the number of samples taken from the sample:
+*Graph of sin θ₂ vs sin θ₁ for glass-air interface*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2010 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni"></span>
@@ -859,24 +803,17 @@ ii) $\sin\theta_2 = 0{,}8$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 14 - The Commission has not yet decided on the draft budget.
+**Problem 14**
 
-The reference statement (lab experiment with glass block and graphic $\sin\theta_1$ vs $\sin\theta_2$) is the same as described in Question 13.*
+*The reference statement (laboratory experiment with a glass block and graph $\sin\theta_1$ vs $\sin\theta_2$) is the same as described in Problem 13.*
 
-Draw the glass/air interface and outline the rays emerging from the glass into the air for the three situations:
+Draw the glass/air interface and sketch the rays that emerge from the glass into the air for the three situations:
 
 i) $\sin\theta_2 = 1{,}0$
 
 ii) $\sin\theta_2 = 0{,}8$
 
-(iii) $\sin\theta_2 = 0{,}6$
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
+iii) $\sin\theta_2 = 0{,}6$
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2010 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/resistor,object/capacitor,object/switch,object/battery"></span>
@@ -932,27 +869,20 @@ b) Qual è il valore del corrente che attraversa la sorgente immediatamente dopo
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 15 - The Commission has decided to take a decision on the draft budget.
+**Problem 15**
 
-An electrical circuit containing two resistors ($R_1$ and $R_2$), a capacitor ($C$) and a switch ($S$) is connected to a DC source according to the installation in the figure below.
+An electrical circuit containing two resistors ($R_1$ and $R_2$), a capacitor ($C$) and a switch ($S$) is connected to a direct current source according to the setup in the figure below.
 
-In $t = 0$ the $S$ key is closed. The graph on the right represents the behavior of the capacitor potential difference (capacitor voltage) as a function of the time elapsed after the key has been closed ($t = 0$).
+At $t = 0$ the switch $S$ is closed. The graph on the right represents the behavior of the potential difference across the capacitor (Voltage across the capacitor) as a function of the time elapsed after the switch is closed ($t = 0$).
 
-(a) Determine the resistance value $R_2$.
+a) Determine the value of the resistance $R_2$.
 
-(b) What is the current value that passes through the source immediately after the $S$ key is closed ($t = 0$)?
+b) What is the value of the current that flows through the source immediately after the switch $S$ is closed ($t = 0$)?
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_2&3o_A4/OBF2010_F2_2&3o_A4_p6_f13.png]]
-The following table shows the following:
+*RC circuit diagram and voltage vs time graph*
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]], [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2010 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Onde e Oscillazioni,object/gas"></span>
@@ -1010,24 +940,20 @@ d) Fare il rapporto $B/V_N$ per il nitrogeno (utilizzare il valore $B$ di punto 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 16 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Problem 16**
 
-The Van der Waals state equation was proposed to correct the ideal gas equation in the regime where the attraction between molecules can no longer be neglected. The Van der Waals equation (for 1 mol of gas) is written as:
+The Van der Waals equation of state was proposed to correct the ideal gas equation in the regime where the attraction between molecules can no longer be neglected. The Van der Waals equation (for 1 mol of gas) is written as:
 
 $$\left(p - \frac{A}{V^2}\right)(V - B) = RT$$
 
-where $p$ is the gas pressure, $V$ the volume, $T$ the temperature and $R$ the universal constant of ideal gases. $A$ and $B$ are gas-dependent constants.
+where $p$ is the pressure of the gas, $V$ the volume, $T$ the temperature and $R$ the universal constant of ideal gases. $A$ and $B$ are constants that depend on the gas.
 
-(a) Determine the units of the constants $A$ and $B$ in the International System.
+a) Determine the units of the constants $A$ and $B$ in the International System.
 
-(b) Rewrite the Van der Waals equation as $V \gg B$.
+b) Rewrite the Van der Waals equation under the condition in which $V \gg B$.
 
-c) Knowing that in 1 mol of gas we have $N_A = 6\times10^{23}$ molecules and considering that each molecule can be approximated by a sphere of $d$ diameter, estimate the value of the parameter $B$ (real volume of 1 mol of gas molecules) for nitrogen gas knowing that $d = 6\times10^{-10}\ \text{m}$.
+c) Knowing that in 1 mol of gas we have $N_A = 6\times10^{23}$ molecules and considering that each molecule can be approximated by a sphere of diameter $d$, make an estimate of the value of the parameter $B$ (real volume of 1 mol of molecules of the gas) for Nitrogen gas knowing that $d = 6\times10^{-10}\ \text{m}$.
 
-(d) Make the ratio $B/V_N$ for nitrogen (use the value $B$ of item c) where $V_N$ is the volume of 1 mol of gas ideal under normal temperature and pressure conditions.
+d) Make the ratio $B/V_N$ for Nitrogen (use the value $B$ from item c), where $V_N$ is the volume of 1 mol of ideal gas under normal conditions of temperature and pressure.
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1neId9VJS41yH5qoqa4h9gualey9g4oy4/view)
+

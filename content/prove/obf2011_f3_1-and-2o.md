@@ -226,22 +226,11 @@ rispettivamente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3  A particle is launched at $\vec{v}_0$ speed perpendicular to an inclined plane, of
-slope $\alpha$ with the horizontal as shown in Figure 1. Determine:
+Problem 3 – A particle is launched with velocity $\vec{v}_0$ perpendicularly to an inclined plane, with inclination $\alpha$ to the horizontal, as shown in the figure. Determine:
 
-- **A.** The maximum distance $\overline{AB}$ from the sloping plane of the particle.
+- **A.** The maximum distance $\overline{AB}$ that the particle is from the inclined plane.
 - **B.** The range of the particle along the inclined plane.
-- **C.** The ratio between $d_1$ and $d_2$ shown in Figure 1. Note: Being to the point whose particle is at a distance
-The maximum of the plane and B its projection over it, the distances $d_1$ and $d_2$ are defined as the
-distance from the launch point to B, and distance from B to the point of return of the particle to the plane,
-the Commission.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1bpoOWh73CeFIRdcVnNyhQepC0mxfWFXe/view)
-
+- **C.** The ratio between $d_1$ and $d_2$ shown in the figure. Note: Let A be the point at which the particle is at the maximum distance from the plane and B its projection onto it; the distances $d_1$ and $d_2$ are defined as the distance from the launch point to B, and the distance from B to the point where the particle returns to the plane, respectively.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2011 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -390,23 +379,12 @@ D
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6  Diamond is a material with a refractive index of $2{,}4$, higher, for example, than
-of glass having a refractive index of $1{,}5$. This is one of the reasons why diamond is used in the
-The Commission has also adopted a proposal for a regulation on the approximation of the laws of the Member States relating to the protection of the environment. In the model shown below a beam of light
-penetrates a diamond bar of flat and parallel faces of D thickness and at an angle $\theta$ as
-specified. Set the values to $\theta$ so that the light is confined to the bar (no more out of the air).
-Diamante ($n=2{,}4$)
-Ar ($n=1$)
-Ar ($n=1$)
+Problem 6 – Diamond is a material that has a refractive index of $2{,}4$, higher, for example, than that of glass, which has a refractive index of $1{,}5$. This is one of the reasons why diamond is used in the manufacture of jewelry due to multiple internal reflections. In the model represented below, a light ray enters a diamond bar with flat and parallel faces of thickness D and with an angle $\theta$ as indicated. Determine the values for $\theta$ so that the light remains confined in the bar (no longer exits into the air).
+Diamond ($n=2{,}4$)
+Air ($n=1$)
+Air ($n=1$)
 $\theta$
 D
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1bpoOWh73CeFIRdcVnNyhQepC0mxfWFXe/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2011 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
@@ -865,29 +843,17 @@ período dessas oscilações em função dos parâmetros básicos.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 13  Due dischi sono collegati da una molla di costante elastica $k$. Ogni disco ha massa $m$ e la massa $m$ è di
-gravità locale $g$. Sono sul pavimento, come disegnato qui.
+Quesito 13 – Due dischi sono collegati da una molla di costante elastica $k$. Ogni disco ha massa $m$ e la gravità locale vale $g$. Essi sono sul pavimento, come nel disegno seguente.
 
-Quando il sistema è in equilibrio (a riposo) sotto l'azione del peso, la distanza tra i dischi è $l$.
-a) Calcolare la lunghezza rilassata $l_0$ di questa mola, cioè quando la mola non è né distesa né
-compressa. Date il risultato in termini di parametri di base di questo problema, che sono $m$, $l$, $k$ e $g$.
-Si premono il disco superiore verso il basso, spostandolo di una quantità x, e così lo si tiene a riposo.
-Si libera quindi del sistema.
-b) Supponendo che il disco inferiore non perda contatto con il suolo, indica che il disco superiore realizzerà un
-il movimento armonico semplice e calcola il suo periodo in termini di parametri di base del problema.
-c) C'è un valore massimo di x per il quale l'ipotesi di cui sopra è valida, cioè che il disco
-il sottosuolo non perde il contatto con il suolo. Chiami questo limite x di $x_0$ e calcola in termini di
-parametri di base.
-d) Presione del disco superiore di un $x > x_0$, il disco inferiore sarà sollevato dal tavolo. Calcola la
-l'altezza massima raggiunta dal centro di massa del sistema in termini di x e parametri di base.
-e) Finché il sistema è tutto in aria, i dischi oscilleranno rispetto al centro di massa. Calcola il
-il periodo di variazione di tali variazioni in funzione dei parametri di base.
+Quando il sistema è in equilibrio (in quiete) sotto l'azione del peso, la distanza tra i dischi è $l$.
+a) Calcola la lunghezza $l_0$ a riposo di questa molla, cioè quando la molla non è né allungata né compressa. Dai il risultato in termini dei parametri fondamentali di questo problema, che sono $m$, $l$, $k$ e $g$.
+Si preme il disco superiore verso il basso, spostandolo di una quantità x, e lo si mantiene così in quiete.
+Si lascia poi andare il sistema.
+b) Supponendo che il disco inferiore non perda contatto con il suolo, mostra che il disco superiore eseguirà un moto armonico semplice e calcola il suo periodo, in termini dei parametri fondamentali del problema.
+c) Esiste un valore massimo di x per il quale l'ipotesi del punto precedente sia valida, cioè che il disco inferiore non perda il contatto con il suolo. Chiama questo x limite $x_0$ e calcolalo in termini dei parametri fondamentali.
+d) Premendo il disco superiore di un $x > x_0$, il disco inferiore sarà sollevato dal tavolo. Calcola l'altezza massima raggiunta dal centro di massa del sistema, in termini di x e dei parametri fondamentali.
+e) Mentre il sistema è tutto in aria, i dischi oscilleranno rispetto al centro di massa. Calcola il periodo di queste oscillazioni in funzione dei parametri fondamentali.
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1bpoOWh73CeFIRdcVnNyhQepC0mxfWFXe/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

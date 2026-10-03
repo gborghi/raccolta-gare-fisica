@@ -166,24 +166,13 @@ Fig. 2
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. (Questione esclusiva del primo anno) In un recipiente di capacità termico
-sconsiderato c'è un misto di acqua e ghiaccio. La massa di questo miscela è
-de 10 kg. Il recipiente viene messo all'interno di una casa e
-immediatamente avviare la misurazione della temperatura del miscela in funzione
-del tempo. Il grafico ottenuto è indicato nella figura 2. Qual era la massa di
-Il ghiaccio che esisteva nel recipiente quando è stato messo in questa residenza?
-Considerare che il calore latente di fusione del ghiaccio è $3{,}0\times10^5$ J/kg e che il calore latente di fusione del ghiaccio è $3{,}0\times10^5$ J/kg.
-il calore specifico dell'acqua è di 4200 J/(kg K).
+3. (Quesito esclusivo del 1° anno) In un recipiente di capacità termica trascurabile c'è una miscela di acqua e ghiaccio. La massa di questa miscela è di 10 kg. Il recipiente viene posto all'interno di una casa e immediatamente si inizia la misurazione della temperatura della miscela in funzione del tempo. Il grafico ottenuto è indicato nella figura 2. Qual era la massa di ghiaccio che esisteva nel recipiente quando questo fu posto in questa residenza?
+Si consideri che il calore latente di fusione del ghiaccio vale $3{,}0\times10^5$ J/kg e che il calore specifico dell'acqua è 4200 J/(kg K).
 
-$T\,(^\circ\text{C})$: 1, 2, 3, 4  $t$(min): 0, 20, 40, 60
+$T\,(^\circ\text{C})$: 1, 2, 3, 4 — $t$(min): 0, 20, 40, 60
 
 Fig. 2
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -273,33 +262,9 @@ ballo, corde e gas stesso.
 
 <div class="qlang-split" data-lang="en"></div>
 
-4. A floating stage, flat base A, was designed for use in
-sea water, the density of which is 3% higher than that of fresh water. When he
-is fully loaded, the water level reaches the safety line, which
-is at $h_m$ of the lower base. However, the promoters of an event
-They wanted to use that same stage in a freshwater lake. Hundreds of
-The Commission has already taken the view that the Commission should be able to take the necessary measures to ensure that the
-proposed
-The
-sponsors
-which,
-em
-exchange
-de
-advertising,
-The gas is then filled with a gas (the density of which is
-(a tenth of air density) which would be tied to points
-suitable for the stage to return to the original safety line.
-The total load, including the mass of the stage itself, is
-6400 kg, calculate the volume of each balloon. He despises the masses of the
-balloons, the ropes and the gas itself.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1rMszrxJOhlS3L_ptbphtf5gYv1jot69K/view)
-
+4. A floating platform, with a flat base A, was designed to be used in seawater, whose density is 3% greater than that of fresh water. When it is fully loaded, the water level reaches the safety line, which is at a height $h_m$ from the lower base. However, the organizers of an event wanted to use this same platform in a freshwater lake. Aware that with a full load the safety line would be exceeded, they proposed to the sponsors that, in exchange for advertising, they provide four identical balloons filled with a gas (whose density is one tenth of the density of air), which would be tied at convenient points so that the platform would return to the original safety line.
+Knowing that the total load, including the mass of the platform itself, is
+6400 kg, calculate the volume of each balloon. Neglect the masses of the balloons, the ropes, and the gas itself.
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2008 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/ball,object/rod"></span>

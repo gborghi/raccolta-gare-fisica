@@ -190,25 +190,18 @@ Supponendo che il calore specifico del caffè sia approssimativamente uguale a q
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Question 3**
 
-The answers to questions 1, 2 and 3 are based on the information from the cooling chart (temperature as a function of time) of 1,0 kg of hot coffee stored in a thermal bottle.
+The answers to questions 1, 2 and 3 are based on the information in the cooling graph (temperature as a function of time) of 1.0 kg of hot coffee stored in a thermos.
 
-Assuming that the specific heat of coffee is approximately equal to that of water, it determines what energy is lost during the process shown in the graph, between 0 and 3600 seconds (value and unit).
+Assuming that the specific heat of the coffee is approximately equal to that of water, determine the energy lost during the process indicated in the graph, between 0 and 3600 seconds (value and unit).
 
-The data: specific water heat $= 1\,\text{cal/(g·°C)}$; $1\,\text{cal} = 4{,}2\,\text{J}$; mass of coffee $= 1{,}0\,\text{kg}$.
+*Data:* specific heat of water $= 1\,\text{cal/(g·°C)}$; $1\,\text{cal} = 4{,}2\,\text{J}$; mass of the coffee $= 1{,}0\,\text{kg}$.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p2_f3.png]]
-The following table shows the temperature and time of the cooling curve:
+*Cooling curve temperature vs time*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2010 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pendulum"></span>
@@ -260,25 +253,18 @@ b) A che punto è massima l'energia potenziale gravitazionale del pendolo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 - The Commission has not yet decided on the application of this Regulation.
+**Problem 4**
 
-A simple pendulum (as shown in the figure below) periodically oscillates between points A and C. At point B the pendulum is aligned with the vertical.
+A simple pendulum (as shown in the figure below) oscillates periodically between points A and C. At point B the pendulum is aligned with the vertical.
 
-(a) At what point is the kinetic energy of the pendulum maximum?
+a) At which point(s) is the kinetic energy of the pendulum maximum?
 
-(b) At what point is the gravitational potential energy of the pendulum maximum?
+b) At which point(s) is the gravitational potential energy of the pendulum maximum?
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p2_f4.png]]
-*Simple pendulum oscillating between A and C *
+*Simple pendulum oscillating between A and C*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2010 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
@@ -322,21 +308,14 @@ Due specchi piatti sono incollati formando un angolo retto (vedi figura sotto). 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 - The Commission has not yet decided on the application of this Regulation.
+**Problem 5**
 
-Two flat mirrors are glued together at a right angle (see figure below). A ray of light hits one of the mirrors at an angle of $\theta_i = 60°$. Determine the angle $\theta_R$ as shown in the figure below.
+Two flat mirrors are glued together forming a right angle (see figure below). A light ray strikes one of the mirrors at an angle $\theta_i = 60°$. Determine the angle $\theta_R$ as indicated in the figure below.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p3_f5.png]]
-*Two perpendicular flat mirrors with light ray *
+*Two perpendicular flat mirrors with light ray*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2010 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
@@ -370,16 +349,9 @@ Un corpo pesa 100 N sulla superficie della Terra. Qual è il peso equivalente di
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Problem 6**
 
-A body weighs 100 N on the Earth's surface. What is the equivalent weight of this body when placed at a distance of one earth radius above the earth's surface?
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
+A body has a weight of 100 N on the surface of the Earth. What is the equivalent weight of this body when positioned at a distance of one Earth radius above the Earth's surface?
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2010 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
@@ -704,25 +676,18 @@ b) Qual è la velocità minima che il corpo deve avere al punto A per raggiunger
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the use of the 'small' technology.
+**Problem 10**
 
-A mass body $m = 3{,}0\,\text{kg}$ moves through a frictionless channel as shown in Figure 1 starting from the resting point in point A.
+A body of mass $m = 3{,}0\,\text{kg}$ moves along a frictionless track, as shown in the figure, starting from rest at point A.
 
-(a) Determine the body speed at point E.
+a) Determine the velocity of the body at point E.
 
-(b) What is the minimum speed the body needs to have at point A to reach point H?
+b) What must be the minimum velocity the body needs to have at point A so that it can reach point H?
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p4_f9.png]]
 *Frictionless track with points A through H*
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2010 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -778,27 +743,20 @@ b) Calcolare la velocità di ondulazione (velocità d'onda).
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a number of proposals for the amendment.
+**Question 11**
 
-A student is standing on a platform (see figure below) above the sea, observing the ripples on its surface. He realizes that the ripples on the sea surface cause a piece of wood to rise and fall. He then timed the time between two successive ascents and got a value of 2 seconds.
+A student is on a platform (see figure below) above the sea, observing the ripples on its surface. He notices that the ripples on the sea surface make a piece of wood rise and fall. He then times the interval between two successive rises and obtains a value of 2 seconds.
 
-(a) Determine the frequency of rippling at sea level.
+a) Determine the frequency of the ripple on the sea surface.
 
-(b) Calculate the wave velocity (wavelength).
+b) Calculate the speed of the ripple (wave speed).
 
-*Additional information on the statement:* the wavelength is shown in Figure 1.
+*Additional information from the statement:* the wavelength is indicated in the figure.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p5_f10.png]]
 *Student on platform observing sea waves*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2010 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -903,27 +861,20 @@ b) Sviluppa un diagramma vetorale delle velocità delle palle A e B immediatamen
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 13 - The Commission has not yet decided on the application of the rules of procedure.
+**Question 13**
 
-A ball A of 1.0 kg mass slides without friction at a constant speed of 1.0 m/s over a table as shown in the diagram below. Ball A collides with ball B of 0.50 kg mass that is in the corner of the table about to fall.
+A ball A of mass 1.0 kg slides without friction at a constant speed of 1.0 m/s on a table as shown in the diagram below. Ball A collides with ball B of mass 0.50 kg, which is at the edge of the table on the verge of falling.
 
-Whereas ball A collides elastically with ball B, maintaining after impact the same direction as before impact, determine:
+Considering that ball A collides elastically with ball B, maintaining after the collision the same direction as before the collision, determine:
 
-(a) The speeds of balls A and B immediately after impact.
+a) The velocities of balls A and B immediately after the collision.
 
-(b) Draw a vector diagram of the velocities of balls A and B immediately after the collision.
+b) Draw a vector diagram of the velocities of balls A and B immediately after the collision.
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p5_f11.png]]
-Ball A colliding with ball B at table edge
+*Ball A colliding with ball B at table edge*
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2010 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/ball"></span>
@@ -975,25 +926,18 @@ Determina la distanza $d$ percorsa dalla palla B come indicato nella figura prec
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 14 - The Commission has not yet decided on the draft budget.
+**Question 14**
 
-A ball A of 1,0 kg mass slides without friction at a constant speed of 1,0 m/s over a table as shown in the diagram below. Ball A collides with ball B of 0.50 kg mass that is in the corner of the table about to fall.
+A ball A of mass 1.0 kg slides without friction at a constant speed of 1.0 m/s on a table as shown in the diagram below. Ball A collides with ball B of mass 0.50 kg which is at the corner of the table on the verge of falling.
 
-Determine the $d$ distance travelled by the ball B as shown in the figure above. If ball A falls off the table what will be the distance equivalent to $d$ travelled by ball A.
+Determine the distance $d$ traveled by ball B as indicated in the previous figure. If ball A falls off the table, what will be the distance equivalent to $d$ traveled by ball A.
 
-The height of the table must be read from the figure in Question 13.
+*(The height of the table should be read from the figure of Question 13.)*
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p5_f12.png]]
-Ball A colliding with ball B at table edge
+*Ball A colliding with ball B at table edge*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2010 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/spring"></span>
@@ -1027,16 +971,9 @@ Due blocchi sono posizionati su una superficie orizzontale e senza attrito e col
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 15 - The Commission has decided to take a decision on the draft budget.
+**Problem 15**
 
-Two blocks are placed on a horizontal surface without friction and connected by a spring that is compressed. Immediately after the blocks are released, the 1.8 kg block gains a speed of 2.0 m/s. Determine the speed of the 1.2 kg block immediately after release of the spring.
-
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
-
+Two blocks are placed on a horizontal, frictionless surface and connected by a spring that is compressed. Immediately after the blocks are released, the block of mass 1.8 kg acquires a velocity of 2.0 m/s. Determine the velocity of the 1.2 kg block immediately after the spring is released.
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2010 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -1084,19 +1021,15 @@ Un raggio di luce monocromatica proveniente dal materiale 1 attraversa i materia
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 16 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Problem 16**
 
-A monochrome beam of light coming from material 1 passes through materials 2 and 3, returning to material 1 as shown in the figure below. Calculate the value of the angle $\theta$.
+A ray of monochromatic light coming from material 1 passes through materials 2 and 3, returning to material 1 as shown in the figure below. Calculate the value of the angle $\theta$.
 
-*(The refractive indices of the materials are shown in Figure.)*
+*(The refractive indices of the materials are indicated in the figure.)*
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F2_9&1o_A4_v2/OBF2010_F2_9&1o_A4_v2_p6_f13.png]]
 *Light ray through three refractive materials*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1kjmvESvnv2vZPDGXhNyVy0782kCpLlJZ/view)
+

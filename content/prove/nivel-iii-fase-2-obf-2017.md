@@ -114,22 +114,11 @@ il resto e la massa $m_2$ raggiunge l'altra estremità del tubo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2  A sphere of mass $m_1$ is abandoned at a height h, as
-illustrates the figure. The sphere $m_1$ enters a circular tube and passes along the path of the
-tube until it collides elastically with another mass sphere $m_2$ at rest.
-The Commission has already adopted a proposal for a directive on the protection of the environment.
+**Problem 2** – A sphere of mass $m_1$ is released from a height h, as shown in the figure. The sphere $m_1$ enters a circular tube and travels along the tube's path until it collides elastically with another sphere of mass $m_2$ at rest.
+Neglecting all friction as well as the dimensions of the spheres, it is asked to
 
-(a) justify the physical principles of the laws of conservation contained in this
-The situation
-(b) determine the value of h such that in collision the mass $m_1$ enters
-rest and mass $m_2$ reaches the other end of the tube.
-
-**Topic:** [[Conservation of Energy]], [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1x6B8LO7mg8iCzmzMGfwvnTumRippAV4D/view)
-
+a) justify the physical principles of the conservation laws present in this situation
+b) determine the value of h such that in the collision, the mass $m_1$ comes to rest and the mass $m_2$ reaches the other end of the tube.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 — NIVEL III FASE 2 OBF 2017 .pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/manometer"></span>
@@ -154,34 +143,12 @@ deste líquido em $\text{g/cm}^3$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 3 - L'esperienza di Torricelli ha misurato in modo pionieristico la pressione
-atmosferica normale, cui viene assegnato il valore di 1 atm. In un esperimento di questo tipo l'aria
-ha equilibrato una colonna di 76 cm quando è stato utilizzato il mercurio, come mostrato
-figura 1 qui sotto. La Commissione ha adottato una proposta di direttiva che prevede che le misure adottate per la pesca siano state applicate a livello comunitario.
-aria che bilancia la colonna di 50 cm di altro liquido (Figura 2). Determina la densità
-di questo liquido in $\text{g/cm}^3$.
+Quesito 3 - L'esperimento di Torricelli misurò, in modo pionieristico, la pressione atmosferica normale, a cui si attribuisce il valore di 1 atm. In tale esperimento l'aria equilibrava una colonna di 76 cm quando si utilizzò il mercurio, come mostra la figura 1 qui sotto. Ripetendo tale esperimento, al livello del mare, si constatò che l'aria equilibra la colonna di 50 cm di un altro liquido (figura 2). Determina la densità di questo liquido in $\text{g/cm}^3$.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1x6B8LO7mg8iCzmzMGfwvnTumRippAV4D/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 - The Torricelli experiment was a pioneering measure of pressure
-normal atmospheric value, to which the value of 1 atm is assigned. In such an experiment, the air
-balanced a 76 cm column when using mercury, as shown
-Figure 1 below. The Commission has also adopted a proposal for a regulation on the
-Air balances the 50 cm column of another liquid (Figure 2). Determine the density
-This liquid is $\text{g/cm}^3$.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Manometer (object)|Manometer]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1x6B8LO7mg8iCzmzMGfwvnTumRippAV4D/view)
-
+Problem 3 - Torricelli's Experiment measured, in a pioneering way, the normal atmospheric pressure, to which the value of 1 atm is attributed. In such an experiment the air balanced a column of 76 cm when mercury was used, as shown in figure 1 below. Repeating such an experiment, at sea level, it was found that the air balances the column of 50 cm of another liquid (figure 2). Determine the density of this liquid in $\text{g/cm}^3$.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — NIVEL III FASE 2 OBF 2017 .pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/battery,object/resistor"></span>

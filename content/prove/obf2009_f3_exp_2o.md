@@ -164,52 +164,52 @@ Messa il ghiaccio nel bicchiere e aggiungi un po' d'acqua. Quando il ghiaccio in
 
 <div class="qlang-split" data-lang="en"></div>
 
-The manufacturer of the thermometer
+**Building a Thermometer**
 
-The following information is provided by the Technical Service:
+**Experimental Material Provided:**
 
-Check the following list and photo of the material you received:
+Check against the list and the photo below, the material you received:
 
-- The thermoscope .
-- A base of aluminum
-- A metal rod with a thread
-- A butterfly screw with a shell
-- A trap
-- A glass .
-- Ice  to be distributed
-- Cracked Fita  to be distributed
-- Water pen
-- Cut-off rubber
+- Thermoscope
+- An aluminum base
+- A threaded metal rod
+- A wing nut with washer
+- A clamp
+- A cup
+- Ice — to be distributed
+- Masking tape — to be distributed
+- Marker pen
+- Cut rubber band
 - Salt
 
-The following information is provided by the Technical Service:
+**Experimental Procedures**
 
-To try to understand nature more accurately, physics needs quantitative measurements. In this experiment, we're going to build a thermometer, a device that can quantify the thermal sensation (subjective notion of cold and heat).
+In order to try to understand nature more precisely, Physics needs quantitative measurements. In this experiment we will build a thermometer, that is, a device capable of quantifying the thermal sensation (subjective notion of cold and heat).
 
-With the hydrographic pen, mark the height of the liquid relative to ambient temperature in the thermoscope as shown below. Careful, when doing this, hold the thermoscope upwards (liquid-free region).
+**1.** With the marker pen, mark on the thermoscope the height of the liquid corresponding to room temperature as shown in the figure below. Attention, when performing this procedure hold the thermoscope by the upper part (region without the liquid).
 
-**2.** Hold the thermoscope by the bulb with the tip of your fingers until thermal balance is reached (liquid stops rising) and then use the water pen to mark the new height of the liquid. See the figure below.
+**2.** Hold the thermoscope by the bulb, with your fingertips, until thermal equilibrium is reached (the liquid stops rising) and then use the marker pen to mark the new height of the liquid. See figure below.
 
-MSK1/> 3.** Next, fix the metal rod at the base with the butterfly pig as shown in the figure below.
+**3.** Next, fix the metal rod to the base with the wing nut as shown in the figure below.
 
-**4.** Fix the handle on the stem and then use it to attach the thermoscope. In this procedure, use the elastic to ensure that the thermoscope is properly fixed; only one knot is sufficient. Finally, place the thermoscope inside the glass as shown below.
+**4.** Fix the clip to the rod and then use it to attach the thermoscope. In this procedure use the rubber band so that the thermoscope is properly secured; a single knot is enough. Finally, make the thermoscope stay inside the cup as shown below.
 
-**5.** Put ice in the glass and add some water. When the ice starts to melt, mark the height of the liquid in the thermoscope with the water pen. Then pour the salt (half the amount supplied) into the glass, observe the thermoscope, and make the fourth and final stroke when the thermal balance is reached.
+**5.** Insert the ice into the cup and add a little water. When the ice begins to melt (thaw), mark on the thermoscope, with the felt-tip pen, the height of the liquid according to the figure. Then throw the salt (half of the amount provided) into the cup, observe the thermoscope and make the fourth and last mark, when thermal equilibrium is reached.
 
-Place the thermoscope next to the bottom line with the bulb facing down, making the line corresponding to the ice liquefaction temperature correspond to the zero value of the line. Then fix the thermoscope in this position on the sheet of paper with the crepe tape. The following table is inserted in the table **Experimental Data Registry**. To fill this table, choose the first line in the thermoscope as the first value, from bottom to top; thus, the first value must be negative and zero must correspond to the second line. To facilitate your work, these values are already shown in the table. Then record the other values in the table.
+**6.** Place the thermoscope next to the ruler below, with the bulb facing down, making the mark corresponding to the liquefaction temperature of ice correspond to the zero value of the ruler. Then fix the thermoscope in this position, on the sheet of paper, with the masking tape. Then fill in the **Experimental Data Record** table. To fill in this table, choose as the first value the first mark on the thermoscope, from bottom to top; thus, the first value should be negative and zero should correspond to the second mark. To make your work easier, these values are already indicated in the table. Then record the other values in the table.
 
-The following information is provided by the Commission:
+**Experimental Data Record I**
 
-♪ I'm pulling down to the top ♪
+| Mark from bottom to top | Distance (generic units) |
 |---|---|
-| 1º | −0,5 |
-| 2º | 0,0 |
-| 3º | |
-| 4º | |
+| 1st | −0.5 |
+| 2nd | 0.0 |
+| 3rd | |
+| 4th | |
 
 <!--fig:start-->
 ![[_attachments/OBF2009_F3_exp_2o/OBF2009_F3_exp_2o_p2_f1.png]]
-The following information is provided by the Commission on the basis of the information provided by the Member States:
+*Experimental material photo: thermoscope and apparatus*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/OBF2009_F3_exp_2o/OBF2009_F3_exp_2o_p3_f2.png]]
@@ -217,7 +217,7 @@ The following information is provided by the Commission on the basis of the info
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/OBF2009_F3_exp_2o/OBF2009_F3_exp_2o_p3_f3.png]]
-*Metal stand with base and butterfly screw *
+*Metal stand with base and butterfly screw*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/OBF2009_F3_exp_2o/OBF2009_F3_exp_2o_p4_f4.png]]
@@ -225,11 +225,7 @@ The following information is provided by the Commission on the basis of the info
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/OBF2009_F3_exp_2o/OBF2009_F3_exp_2o_p4_f5.png]]
-The following table shows the results of the tests:
+*Ruler scale for thermoscope calibration*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1JcalgL83tWprZ73v4dho_B2WbhsNj_9k/view)
+

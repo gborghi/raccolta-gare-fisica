@@ -289,21 +289,8 @@ La distanza, a seconda luce, tra la Terra e la Luna.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5  The interaction of an electric field with a magnetic field explains
-the nature of electromagnetic waves or light waves. The second light is the
-distance this light wave travels in 1 second in the vacuum. A bright wrist is
-emitted from the earth and reflected by a mirror of high reflection power, placed
-The Commission has already taken a number of steps to ensure that the Commission is able to take the necessary measures to ensure that the
-return to Earth 2.6 s after its emission, as shown in Figure 1. Determine
-The distance, in second light, between the Earth and the Moon.
+**Question 5** – The interaction of an electric field with a magnetic field explains the nature of electromagnetic waves or light waves. The light-second is the distance that this light wave travels in 1 s in a vacuum. A light pulse is emitted from the Earth and reflected by a mirror, with high reflecting power, placed on the Moon by a space probe, on one of its journeys, being received back on Earth 2.6 s after its emission, as shown in the following figure. Determine the distance, in light-seconds, between the Earth and the Moon.
 5
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1G_1aeafqqAveYGinZ6X4PekF9eZOPf_u/view)
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/tank-container"></span>

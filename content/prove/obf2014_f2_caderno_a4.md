@@ -188,84 +188,64 @@ Olimpiada Brasile in fisica 2014
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission will also be able to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take appropriate measures.
-Read carefully before filling in
-1 - This notebook contains four pages. Check before you start solving the proof. Whatever the problem is,
-Call the DA.
-2 - The issues chosen must be resolved in increasing order in the spaces reserved for this booklet.
-Please indicate the number corresponding to the question in the space reserved.
-3 - The answer to the Direct Answer Questions must be indicated in the space exclusive to those questions. A
-The answer to the Open Question shall be indicated in the space exclusive to these questions.
-Questions. The type of question is indicated in the questions book instructions.
-4 - Only pen and pencil are permitted in this notebook. All responses and developments should be
-I'm going to be in the can.
-5 - The student must have his/her ID document with a recent photo. If the same
-photo-documentation that does not allow recognition, further investigation may be requested
-the examination committee.
-6 - No calculator and mobile phones of any kind shall be used which are to remain
-off during the test.
-7 - Only the Resolution Book should be returned to the teacher at the end of the test.
-8 - The student must stay in the room for at least 90 minutes.
+Resolution Booklet - 2nd Phase
+Read carefully before you begin filling it in
+1 - This booklet contains FOUR pages. Check it before you start solving the exam. If there is any problem, call the invigilator.
+2 - The chosen questions must be solved in increasing order in the spaces reserved in this booklet.
+Indicate the number corresponding to the question in the reserved space.
+3 - The answer to the Direct Answer Questions must be indicated in the space exclusively for those questions. The solution with the answer to the Open Answer Questions must be indicated in the space exclusively for those questions. The indication of the question type is in the instructions of the Question Booklet.
+4 - Only the use of a pen and ruler is allowed in this booklet. All answers and work must be in PEN.
+5 - The student must be in possession of their identification document with a RECENT PHOTO. If they have documentation with a photo that does not allow recognition, a later verification may be requested by the Examining Committee.
+6 - The use of any type of calculator and cell phones is not allowed, and they must remain turned off during the exam.
+7 - Only the Resolution Booklet must be returned to the invigilator/teacher at the end of the exam.
+8 - The student must remain in the room for at least 90 minutes.
 Page 1 of 4
-The Commission has already decided to take a decision on the following:
-Notes on the
-o
+DIRECT ANSWER QUESTIONS
+Grade o
 Question N
 Answer:
-This area of the Resolution Book is reserved for answers only
-of the questions referred to as Direct Answer Questions
-The series:
-The type and type of identification document submitted:
-Name of the company:
-Name of the School:
-I 'm going to email you .
-Telephone: ()
+This area of the Resolution Booklet is reserved only for the answers to the questions indicated as Direct Answer Questions
+Series:
+In the type of identification document presented:
+Name:
+School Name:
+Email:
+Telephone: ( )
 School City:
 Signature:
-State of the Union:
-Notes on the
-o
-Question N
+State:
+Grade
+Question No.
 Answer:
-Notes on the
-o
-Question N
+Grade
+Question No.
 Answer:
-Notes on the
-o
-Question N
+Grade
+Question No.
 Answer:
-The final note
-Brazilian Olympics in Physics 2014
+Final Grade
+Brazilian Physics Olympiad 2014
 
 Page 2 of 4
-o
-Question N
-Notes on the
-Question for an open answer
-o
-Question N
-Notes on the
-Question for an open answer
-Brazilian Olympics in Physics 2014
+Question No.
+Grade
+Open answer question
+Question No.
+Grade
+Open answer question
+Brazilian Physics Olympiad 2014
 
-o
-Question N
-Notes on the
-Question for an open answer
-o
-Question N
-Notes on the
-Question for an open answer
+Question No.
+Grade
+Open answer question
+Question No.
+Grade
+Open answer question
 Page 3 of 4
-Brazilian Olympics in Physics 2014
+Brazilian Physics Olympiad 2014
 
 Page 4 of 4
-E S PA Ç O PA R A R A S C U N H O - N Ã O S E R Á C O N S I D E R A D O N A C O R R E Ç Ã O
-Brazilian Olympics in Physics 2014
+SPACE FOR ROUGH WORK - WILL NOT BE CONSIDERED IN THE GRADING
+Brazilian Physics Olympiad 2014
 
-**Topic:** [[Gravitation]], [[Astrophysics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1B8E0APB6rJ0MEgkL2ZiLqEvyJmcuLh-o/view)
+

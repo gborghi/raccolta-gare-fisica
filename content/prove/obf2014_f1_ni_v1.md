@@ -176,9 +176,9 @@ Calcola la percentuale totale di energia offerta che proviene dalla biomassa.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Estimate the percentage of total energy offered that comes from biomass.
+Estimate what percentage of the total energy offered comes from biomass.
 
-The internal energy supply (IEA) is composed of 42.4% renewable energy, distributed according to the chart provided (fired lumber and coal, biomass, hydraulics and electricity, etc.).
+*Context:* The domestic energy supply (OIE) is composed of 42.4% renewable energies, distributed according to the graph provided (firewood and charcoal, biomass, hydraulic and electricity, others).
 
 - **A.** 4%
 - **B.** 9%
@@ -188,15 +188,8 @@ The internal energy supply (IEA) is composed of 42.4% renewable energy, distribu
 
 <!--fig:start-->
 ![[_attachments/OBF2014_F1_NI_V1/OBF2014_F1_NI_V1_p2_f1.png]]
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2006.
+*Pie chart renewable energy share Brazil 2012*
 <!--fig:end-->
-
-**Topic:** [[Order-of-Magnitude Estimation]], [[Conservation of Energy]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1QH2PwgQbDspFey3ZAVgOgRyBN_sdMRRf/view)
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2014 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>

@@ -410,50 +410,33 @@ In base al testo e alle sue conoscenze in ottica geometrica è corretto affermar
 
 <div class="qlang-split" data-lang="en"></div>
 
-**contém trinta questões**
+**contains thirty questions**
 
-The Human Body and the Physics
+THE HUMAN BODY AND PHYSICS
 
-Questions 01 to 04 refer to the following text:
-Le Parkour leaps from anonymity and falls to the mercy of young adventurers.
-If you've ever seen a guy climb walls or electric towers he may not be a thief, a puncher or
-Just a crazy person who doesn't have a love for life. Actually, this boy could be a lover of Le.
-Parkour, the new fever among the exercise practitioners. Le Parkour means "The Path" and it has this
-It's a French name because its creator is from there. David Belle inherited passion from his father and firefighter grandfather
-For adventure and situations of apparent danger. From then on it became a sport and a means of winning the
-life. Another pioneer of this activity, Sébastien Foucan, starred in an amazing scene at the opening of the
-007 - Casino Royale, from 2006. He was hired by the production for the opening scene of the long. A
-Your character's job was to escape Agent James Bond. It's six minutes of jumping, pulling and flying in the
-Which he climbs up to a crankshaft from a building. The basic premise of Le Parkour is
-Forget that there are obstacles ahead of you. In theory, this adventure has no limits. It doesn 't matter if you
-obstacle is a one-meter tree trunk or a five-story building. If he's on your
-You have to know how to overcome it.
-The Commission has also adopted a number of measures to ensure that the Union's financial contribution to the Union is not exceeded.
+Questions 01 to 04 refer to the text below:
+Le Parkour jumps from anonymity and falls into the graces of young adventurers.
+If you have ever seen a guy climbing walls or electrical towers, he may not be a thief, a graffiti artist, or simply a crazy person who has no love for life. In fact, this young man may be a lover of Le Parkour, the new craze among exercise practitioners. Le Parkour means "The Course" and has this name in French because its creator comes from there. David Belle inherited from his father and grandfather, both firefighters, a passion for adventure and situations of apparent danger. From there, he turned this into a sport and a way to earn a living. Another pioneer of this activity, Sébastien Foucan, starred in an incredible scene in the opening of the 2006 film 007 - Casino Royale. He was hired by the production for the film's introduction scene. His character's job was to flee from agent James Bond. There are six minutes of jumps, pulls, and flights in which he even climbs onto a crane of a skyscraper under construction. The basic premise of Le Parkour is to forget that there are obstacles in front of you. In theory, this adventure has no limits. It doesn't matter if the obstacle is a one-meter tree trunk or a five-story building. If it is in your path, you have to know how to overcome it.
+http://www.abril.com.br/noticia/diversao/no_250823.shtml (Feb/2011)
 
-Please read the instructions below carefully:
-01) This test is intended exclusively for secondary and tertiary school students. She 's ...
-It contains thirty questions.
-02) Second year students should choose 20 questions to solve freely.
-03) Third year students should also choose 20 questions to solve,
-the number of items in the list referred to in paragraph 1 of this Article;
+READ CAREFULLY THE INSTRUCTIONS BELOW:
+01) This exam is intended exclusively for students in the 2nd and 3rd years of high school. It contains thirty questions.
+02) Students in the 2nd year must freely choose twenty questions to solve.
+03) Students in the 3rd year must also choose twenty questions to solve, except for questions 01, 02, 03, 04 and 05.
 04) Each question contains five alternatives, of which only one is correct.
-05) The alternative considered correct should be indicated in the Answer Sheet.
-06) The Student Identification Sheet is on the last page
-This is the first of a series of tests to be carried out in the Member States.
-07) The duration of this test is four hours and the student must remain in the classroom for at least two weeks.
-at least 90 minutes.
-09) The use of any kind of calculator and mobile phone is prohibited.
+05) The alternative judged correct must be marked on the Answer Sheet.
+06) The Answer Sheet with the student's identification is on the last page of this booklet and must be handed in at the end of the exam.
+07) The duration of this exam is four hours, and the student must remain in the room for at least ninety minutes.
+09) The use of any type of calculators and cell phones is prohibited.
 
 Use when necessary:
-$g = 10\ \text{m/s}^2$ (aceleração gravitacional local)
-$\pi = 3$; 1 cal = 4,2 J
-Stage 1
-Test for second and third graders
+$g = 10\ \text{m/s}^2$ (local gravitational acceleration)
+$\pi = 3$; 1 cal = 4.2 J
+1st phase
+Exam for students in the 2nd and 3rd years
 
-01) In a vertical jump, the human tibia can withstand an impact 130 times the weight of an adult
-de 75 kg. When jumping from a height $h$ the knee joint is compressed by 1 cm when it reaches the ground.
-For the athlete to stop completely on reaching the ground without fracturing the tibia, the tibia must slow down to
-a rate of ($g$ is the local gravitational acceleration):
+01) In a vertical jump the human tibia is capable of withstanding an impact of 130 times the weight of a 75 kg adult. When jumping from a height $h$ the knee joint is compressed by 1 cm when reaching the ground.
+In order for the athlete to stop completely upon reaching the ground without fracturing the tibia, they must decelerate at a rate of ($g$ is the local gravitational acceleration):
 
 (a) $g$
 
@@ -464,39 +447,35 @@ a rate of ($g$ is the local gravitational acceleration):
 (d) $130g$
 (e) $150g$
 
-02) The maximum height of a jump to prevent the athlete from fracturing the tibia is approximately:
+02) The maximum height of a jump so that the athlete does not have a fractured tibia is approximately:
 
-- **A.** 1,10 m
-- **B.** 1,30 m
-- **C.** 1,50 m
+- **A.** 1.10 m
+- **B.** 1.30 m
+- **C.** 1.50 m
 
-(d) 1,75 m
+(d) 1.75 m
 
-(e) 2,60 m
+(e) 2.60 m
 
 03) The speed at which the athlete reaches the ground is approximately:
 
-- **A.** 5,0 m/s
-- **B.** 8,2 m/s
-- **C.** 10,4 m/s
+- **A.** 5.0 m/s
+- **B.** 8.2 m/s
+- **C.** 10.4 m/s
 
-(d) 11,0 m/s
+(d) 11.0 m/s
 
-(e) 12,5 m/s
+(e) 12.5 m/s
 
-04) The time required for the athlete to stop completely after reaching the ground in thousands of
-second (ms) is:
+04) The time required for the athlete to stop completely after reaching the ground in milliseconds (ms) is:
 
-- **A.** 1,35 ms
-- **B.** 1,82 ms
-- **C.** 2,30 ms
-- **D.** 2,75 ms
-- **E.** 3,85 ms
+- **A.** 1.35 ms
+- **B.** 1.82 ms
+- **C.** 2.30 ms
+- **D.** 2.75 ms
+- **E.** 3.85 ms
 
-05) Victims of cerebral palsy or spinal injury need physical therapy to improve quality
-of life. Such work is performed underwater to require less effort from the patient. The ratio between the
-The work carried out in and out of water for a body that is 75% out of water moving a
-distance $d$ in the vertical is (see: where $\rho_a$ is the density of the water and $\rho_c$ is the density of the body):
+05) Victims of cerebral palsy or spinal injury need physiotherapy to improve their quality of life. Such work is performed in water to require less effort from the patient. The ratio between the work performed inside and outside the water for a body that is 75% out of the water to move a distance $d$ vertically is (consider: where $\rho_a$ is the density of water and $\rho_c$ the density of the body):
 
 (a) $1-\dfrac{\rho_a}{\rho_c}$
 
@@ -509,27 +488,17 @@ distance $d$ in the vertical is (see: where $\rho_a$ is the density of the water
 (e) $1-\dfrac{\rho_a}{5\rho_c}$
 
 Questions 06 to 08 refer to the text below
-A student interested in studying the physics of the human body devised the following:
-experiment to simulate the functioning of the human lung. For that he used a
-Pet bottle (no bottom), soda can and beans (see figure next to it). A
-The bladder that is stuck to the bottom of the bottle makes the diaphragm, which varies in pressure.
-internal system when stretched. So the outside air goes through the nose and
-Inflammation of the internal bladder (lungs).
+A student interested in studying the physics of the human body set up the following experiment to simulate the functioning of the human lung. For this, he used a pet bottle (without a bottom), soda straws and balloons (see figure beside). The balloon attached to the bottom of the bottle plays the role of the diaphragm, which varies the internal pressure of the system when stretched. Thus the external air enters through the straw (nose) and inflates the internal balloon (lungs).
 
-06) It is correct to state that:
-(a) When you stretch the bladder to the bottom of the bottle, the pressure inside the lungs
-the external pressure is equal.
-(b) Initially the air trapped in the bottle is at a pressure lower than the pressure
-external.
-(c) By increasing the volume of the system we decrease the pressure within the
-The lungs.
-(d) For the lungs to swell, the internal pressure of the system must be
-increase.
-(e) The amount of gas in the lungs is not constant even if the
-Not stretching the bladder, because the straw is open.
+06) Regarding the text and the figure above, it is correct to state that:
+(a) When we stretch the balloon at the bottom of the bottle, the pressure inside the "lungs" becomes equal to the external pressure.
+(b) Initially, the air trapped in the bottle is at a pressure lower than the external pressure.
+(c) When we increase the volume of the system, we decrease the pressure inside the
+"lungs".
+(d) For the "lungs" to inflate, the internal pressure of the system must increase.
+(e) The amount of gas inside the "lungs" does not remain constant even without stretching the balloon, because the straw is open.
 
-07) Whereas when stretching the bladder the system increases its volume by 20% and the
-If the temperature is maintained constant in the process, the change in pressure within the system is:
+07) Considering that when the balloon is stretched the system has its volume increased by 20% and that the temperature remained constant during the process, the pressure variation inside the system is:
 
 - **A.** $\dfrac{P_0}{5}$
 - **B.** $\dfrac{2}{5}P_0$
@@ -537,10 +506,7 @@ If the temperature is maintained constant in the process, the change in pressure
 - **D.** $\dfrac{5}{6}P_0$
 - **E.** $\dfrac{P_0}{6}$
 
-08) In a forced inhalation/exhalation we exchange 4.5 liters of air with the environment. But the lung never
-It's completely empty. There's always a volume of residual air, about 1.5 liters. Se a
-The volume of the bladder could expand at the same rate as the human lung, the percentage increase
-of the amount of air inside the bladder would be:
+08) In a forced inspiration/expiration we exchange 4.5 liters of air with the environment. However, the lung is never completely empty. There is always a residual volume of air, of approximately 1.5 liters. If the balloon could expand its volume in the same proportion as the human lung, the percentage increase in the amount of air inside the balloon would be:
 
 (a) 100%
 
@@ -553,11 +519,7 @@ of the amount of air inside the bladder would be:
 (e) 230%
 
 Questions 09 to 11 refer to the text below.
-When we encounter warnings of Caution, high voltage, the skull drawn on the warning makes it clear that
-The risk of our lives. However, the risk is not related to the voltage but to the current that is
-It's going through the body. In the range 1 to 5 mA ($\text{mA} = 10^{-3}\ \text{A}$) you can already feel the current through your body, with 10
-We're starting to feel pain. When we take a 1000 V shock, the 100 mA current that goes through the
-body beyond pain is capable of causing terrible muscle contractions, but a 5000 V shock is fatal.
+When we come across warnings of "Caution, high voltage", the skull drawn on the warning makes clear the risk to life that we run. However, the risk is not related to the voltage, but rather to the current that passes through the body. In the range 1 to 5 mA ($\text{mA} = 10^{-3}\ \text{A}$) it is already possible to feel the current through the body, at 10 mA we begin to feel pain. When we receive a shock of 1000 V, the current of 100 mA that passes through the body, besides pain, is capable of causing terrible muscle contractions, however a shock of 5000 V is fatal.
 
 09) According to the text, the current capable of leading a human being to death is:
 
@@ -567,16 +529,13 @@ body beyond pain is capable of causing terrible muscle contractions, but a 5000 
 - **D.** 300 mA
 - **E.** 500 mA
 
-10) Although the electric current runs through the whole body causing damage to the organs, the extremities of the
-a person's hands are feet are the parts of the body that are most visibly damaged during an electrocution.
-This is because:
-- **A.** A potência dissipada é maior nas extremidades, causando queimaduras mais graves.
-- **B.** A corrente é desprezível no interior do corpo humano.
-- **C.** As extremidades do corpo possuem menor capacidade térmica, e conseqüentemente sofrerão maior
-the temperature variation.
-(d) Hands and feet are responsible for closing the circuit, the current enters through the hands and reaches the
-Earth through the feet.
-(e) When the circuit is closed, hands and feet are crossed by a larger current causing greater damage.
+10) Although the electric current passes through the entire body causing damage to the organs, the extremities of a person (hands and feet) are the visibly most damaged parts of the body during electrocution.
+This is due to the fact that:
+- **A.** The dissipated power is greater at the extremities, causing more serious burns.
+- **B.** The current is negligible in the interior of the human body.
+- **C.** The extremities of the body have lower heat capacity, and consequently will suffer greater temperature variation.
+(d) Hands and feet are responsible for closing the circuit, the current enters through the hands and reaches the ground through the feet.
+(e) When closing the circuit, hands and feet are crossed by a greater current causing greater damage.
 
 11) The power dissipated by the human body in a fatal shock is:
 
@@ -586,19 +545,8 @@ Earth through the feet.
 - **D.** 2000 W
 - **E.** 2500 W
 
-12) Cataract is an eye disease consisting of partial or total opacity of the lens or lens
-The capsule. It can be triggered by a number of factors, such as trauma, age, diabetes mellitus, uveitis,
-use of medicines, etc. It is typically presented as progressive visual blurring that can cause
-The following is a list of the most common causes of blindness and vision loss. It is very common for
-The following is a list of the most common causes of cataracts in the elderly: In early development
-In age-related cataracts, magnification of lenses (crystalline) may be increased causing
-The resulting yellowing and increased opacity of the lens may lead to a reduction in the
-The perception of blue.
-According to the text and his knowledge of geometric optics it is correct to state that:
-(a) The cat
+12) "Cataract is an eye pathology that consists of partial or total opacity of the lens or its capsule. It can be triggered by various factors, such as trauma, age, Diabetes mellitus, uveitis, use of medications, etc. It typically presents as progressive visual blurring that can lead to blindness or subnormal vision." (http://pt.wikipedia.org/wiki/Catarata Feb/201). The development of cataract is very common in the elderly, requiring surgical intervention. In the initial development of age-related cataract, the magnification of the lenses (crystalline lens) may be increased, causing myopia; the gradual yellowing and increased opacity of the lens can cause reduced perception of blue.
+According to the text and your knowledge of geometric optics, it is correct to state that:
+(a) The cata
 
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gas (object)|Gas]], [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/18xCGuWrqKjDFR2sHO0is_P-tjChw3UtS/view)
+

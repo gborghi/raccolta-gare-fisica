@@ -153,37 +153,23 @@ la prisma per questo colore è di 1,4 e che lo stesso è immerso nell'aria.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2  In 1973 the English group Pink Floyd released the album "The dark side of the Moon". The cover
-This album showed the phenomenon of the dispersion of white light by focusing on a prism.
+Problem 2 – In 1973 the English group Pink Floyd released the album "The dark side of the Moon". The cover of this album showed the phenomenon of the dispersion of white light when it strikes a prism.
 
-Level 3
-Secondary education  3rd grade
-Technical education - fourth grade
-Please read the instructions below carefully:
+LEVEL III
+High School – 3rd year
+Technical Education - 4th year
+READ THE INSTRUCTIONS BELOW CAREFULLY:
 
-1 - This test is intended exclusively for pupils in third and fourth grade of secondary education
-The technical education. It contains eight questions.
-2 - The Answer Book contains instructions which must be read carefully before the
-the start of the test.
-3 - All numerical results shall be expressed in units in the International System
-or following the specific instructions in the matter.
-4 - The duration of this test is four hours and the student must remain in the room for
-at least sixty minutes.
-If necessary, and unless otherwise stated, use: vacuum light speed = $3{,}0\times10^8$ m/s;
-aceleração da gravidade $g = 10\ \text{m/s}^2$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; $\text{sen}\,60^\circ = 0{,}85$; $\cos 60^\circ = 0{,}5$; $\pi = 3$;
+1 - This exam is intended exclusively for students of the 3rd year of High School and 4th year of Technical Education. It contains eight problems.
+2 - The Answer Booklet contains instructions that must be read carefully before the start of the exam.
+3 - All numerical results must be expressed in International System units or following the specific instructions of the problem.
+4 - The duration of this exam is four hours, and the student must remain in the room for at least sixty minutes.
+If necessary, and unless indicated otherwise, use: speed of light in vacuum = $3{,}0\times10^8$ m/s;
+acceleration of gravity $g = 10\ \text{m/s}^2$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; $\text{sen}\,60^\circ = 0{,}85$; $\cos 60^\circ = 0{,}5$; $\pi = 3$;
 $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\sqrt{5} = 2{,}2$; $\displaystyle\sum_{n=0}^{N} n^2 = \frac{N(N+1)(2N+1)}{6} \approx \frac{N^3}{3}$
 
-- **A.** Explique esse fenômeno em termos das velocidades de propagação da luz branca.
-- **B ** Whereas white light penetrates at an angle of $30^\circ$ and the prism is at an angle of $30^\circ$
-abertura de $60^\circ$, determine o ângulo de saída da cor vermelha sabendo que o índice de refração do
-The prism for this color is 1.4 and that same is immersed in the air.
-
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1qR3yAaDj0lh_jGmQt1Nal9ak2WmaPFou/view)
-
+- **A.** Explain this phenomenon in terms of the propagation speeds of white light.
+- **B.** Considering that the white light strikes forming an angle of $30^\circ$ and the prism having an opening angle of $60^\circ$, determine the exit angle of the red color knowing that the refractive index of the prism for this color is 1.4 and that it is immersed in air.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2015 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/atom,object/electron"></span>
@@ -224,34 +210,22 @@ $$T = \frac{2\pi R}{e}\sqrt{4\pi\varepsilon_0 R m_e}$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 3  Nel 1897 Joseph John Thomson studiò i discarichi elettrici nei tubi di raggi
-I tubi di cui all'articolo 1, paragrafo 1, del regolamento (CEE) n.
-miscela di gas a bassa pressione. Dall'esperienza, Thompson ha suggerito che gli elettroni
-sarebbero immersi in una massa omogenea, come le ame in un pudding.
-In seguito Thomson ha postulato che gli elettroni, situati in anelli, si muovono in orbite
-intorno alla sfera positiva. (Testo adattato: https://pt.wikipedia.org/wiki/ModelodeThomson)
-Applicando il modello di Thomson all'atomo di idrogeno, e supponendo che l'atomo fosse formato da
-un carico positivo distribuito uniformemente su un volume sfero di raggio R con gli elettroni
-Orbitando intorno a te, rispondi alle seguenti domande:
-- **A.** Qual è il campo elettrico ad una distanza $r$ quando $r > R$?
-- **B.** Considerando che il campo totale generato dalle cariche a una distanza $r$ dal centro è
+Quesito 3 – Intorno al 1897, Joseph John Thomson studiò le scariche elettriche nei tubi a raggi catodici (lo stesso tipo di tubo usato nei monitor e nei televisori antichi), all'interno dei quali c'era una miscela di gas a bassa pressione. Dai suoi esperimenti, Thomson suggerì che gli elettroni fossero immersi in una massa omogenea (di carica positiva), come le prugne in un budino.
+Successivamente, Thomson postulò che gli elettroni fossero situati in anelli e si muovessero su orbite attorno alla sfera positiva. (testo adattato: https://pt.wikipedia.org/wiki/ModelodeThomson)
+Applicando il modello di Thomson all'atomo di idrogeno, e assumendo che l'atomo fosse formato da una carica positiva distribuita in modo omogeneo in un volume sferico di raggio R con gli elettroni orbitanti attorno ad esso, rispondi alle seguenti domande:
+- **A.** Qual è il campo elettrico a una distanza $r$ quando $r > R$?
+- **B.** Considerando che il campo totale generato dalle cariche a una distanza $r$ dal centro sia
 
 $$\vec{E} = -\frac{e}{4\pi\varepsilon_0 r^2}\left(1 - \frac{r^3}{R^3}\right)\hat{r}$$
 
-e che su di lui agisce una forza
+e che su di esso agisca una forza
 
 $$\vec{F} = -e\vec{E}.$$
 
-Supponiamo che l'elettrone sia stato spostato a una distanza $r$ dal centro e quindi rilasciato. Dimostra che in questo
-situazione il periodo di oscillazione dell'elettrone, a seconda delle variabili del problema, è dato da:
+Assumi che l'elettrone sia stato spostato a una distanza $r$ dal centro e poi lasciato libero. Dimostra che in questa situazione il periodo di oscillazione dell'elettrone, in funzione delle variabili del problema, è dato da:
 
 $$T = \frac{2\pi R}{e}\sqrt{4\pi\varepsilon_0 R m_e}$$
 
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1qR3yAaDj0lh_jGmQt1Nal9ak2WmaPFou/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -481,12 +455,8 @@ O
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6  The English Channel is a sea arm belonging to the Atlantic Ocean that separates the island
-The Commission has already adopted a proposal for a directive on the protection of workers' rights in the Member States. It is currently one of the most heavily trafficked locations in the world.
-of the world. Four tugboats are used to bring a transatlantic to the pier. For this purpose, a
-manoeuvre as illustrated in the figure below. Each tow shall exert a force of 22500 N in the direction
-I'm going to show you. Determine the resulting moment with respect to point O.
-Consider the force exerted by the second trailer in vector form as:
+Problem 6 – The English Channel is an arm of the sea belonging to the Atlantic Ocean that separates the island of Great Britain from northern France. It is currently one of the locations with the greatest ship traffic in the world. Four tugboats are used to bring an ocean liner to the dock. For this, a maneuver is carried out as illustrated in the figure below. Each tugboat exerts a force of 22500 N in the direction shown. Determine the resultant moment with respect to point O.
+Consider the force exerted by the second tugboat in vector form as being:
 
 $$\vec{F}_2 = (13{,}5\,\hat{i} - 18\,\hat{j})\ \text{kN}$$
 
@@ -499,13 +469,6 @@ $45^\circ$
 $60^\circ$ 2 3
 O
 1
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1qR3yAaDj0lh_jGmQt1Nal9ak2WmaPFou/view)
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2015 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/resistor,object/battery"></span>

@@ -154,28 +154,21 @@ G  Analisi degli errori nelle misure sperimentali.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' national programmes:
+**Section 3.1 — Fundamental Level (8th and 9th grades) — Level I**
 
-A  Mathematical foundations required: fundamental algebra (includes solving equations of the 1st and 2nd degrees); flat geometry (calculation of area); notions of spatial geometry (calculation of volume).
+A — Basic mathematical foundations required: Fundamental algebra (includes solving first- and second-degree equations); Plane geometry (area calculation); Notions of solid geometry (volume calculation).
 
-B  Basic concepts of cinematography: uniform motion (with analysis of the time equation); uniformly varied motion (with analysis of the time equation).
+B — Basic concepts of Kinematics: Uniform motion (with analysis of the equation of motion); Uniformly varied motion (with analysis of the equation of motion).
 
-C  Basic notions of gravity: rotation and translation movements; seasons of the year; lunar phases; eclipses.
+C — Basic notions of Gravitation: Rotation and translation movements; Seasons of the year; Lunar phases; Eclipses.
 
-D  Basic notions of dynamics (Newton's laws): Mass and inertia concept; Formulation of Newton's second and third laws.
+D — Basic notions of Dynamics (Newton's Laws): Concept of mass and inertia; Formulation of Newton's 2nd and 3rd laws.
 
-Energy: forms of energy; energy conservation; heat and temperature; thermometric scales.
+E — Concept of Energy: Forms of energy; Conservation of energy; Heat and Temperature; Thermometric scales.
 
-F  Measurements of time, space and temperature. Use of equipment for measuring physical quantities.
+F — Measurements of Time, Space and Temperature. Use of equipment for measuring physical quantities.
 
-G  Analysis of errors in experimental measures.
-
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]], [[Thermodynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hCO1kzo36_WZWrmlvLTCMeor6rjmlVWJ/view)
-
+G — Analysis of errors in experimental measurements.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -355,30 +348,26 @@ Condizioni aggiuntive:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the technical specifications for the technical specifications of the technical specifications:
+**Section 4 — Experimental Techniques in Physics (Level I and II)**
 
-The content presented for the theoretical proof serves as the basis for experimental problems. The problems proposed in the experimental test will require experimental measures. Questions covering subjects of the Basic Programme may be included and, where higher-level issues are required, they shall contain sufficient information for their resolution.
+The content presented for the theoretical exam serves as a basis for the experimental problems. To solve the problems proposed in the experimental exam, experimental measurements will be required. Questions covering topics from the Basic Program may be included, and when topics of higher levels are required, they will contain sufficient information for their solution.
 
-Problems with sophisticated equipment cannot dominate the content of the questions in the experimental test. If any of these equipment is used, the Commission shall provide the information necessary for its handling.
+Problems with sophisticated equipment cannot dominate the content of the experimental exam questions. If any such equipment is used, the committee will provide the necessary information for its handling.
 
 Additional conditions:
 
-1  Knowledge of the basic experimental techniques that allow experimental measurements of the physical quantities described in the theoretical part to be carried out.
+1 — Knowledge of basic experimental techniques that allow the performance of experimental measurements of the physical quantities described in the theoretical part.
 
-2  Knowledge of the procedure for using simple laboratory equipment such as: ruler, pacemaker, train, micrometer, thermometer, simple multimeter (for measuring differences in potential, current and resistance), potentiometer, diode, transistors, simple optical devices (lens, track and other supports).
+2 — Knowledge of the procedure for using simple laboratory equipment, such as: ruler, caliper, measuring tape, micrometer, thermometer, simple multimeter (for measuring potential differences, current and resistance), potentiometer, diode, transistors, simple optical devices (lens holders, rails and others).
 
-3  Relative and absolute errors, accuracy of measuring equipment and instruments, determination of the error of an experimental measurement, determination of the error of a series of experimental measurements (average, standard deviation), spread of experimental errors.
+3 — Relative and absolute errors, precision of equipment and measuring instruments, determination of the error of an experimental measurement, determination of the error of a series of experimental measurements (mean, standard deviation), propagation of experimental errors.
 
-4  Identification of sources of experimental errors and their influence on the final result.
+4 — Identification of sources of experimental errors and their influence on the final result.
 
-5  Linearisation of dependencies on experimental values by the appropriate choice of variable transformation, graphing curve adjustment and minimum squares.
+5 — Linearization of dependencies of experimental values, through the appropriate choice of variable transformation, curve fitting by the graphical method and by least squares.
 
-6  Representation of the final results and their error associated with the correct use of the number of significant figures.
+6 — Representation of the final results and their associated error with the correct use of the number of significant figures.
 
-7  Appropriate use of graph scale papers (example: polar papers and logarithms).
+7 — Appropriate use of graph scale papers (example: polar and logarithmic papers).
 
-**Topic:** [[Order-of-Magnitude Estimation]], [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1hCO1kzo36_WZWrmlvLTCMeor6rjmlVWJ/view)
+

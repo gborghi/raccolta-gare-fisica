@@ -58,23 +58,16 @@ Visto superiore semicilindro acrilico, raggio R
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission to the European Parliament and to the Council:
+**PART I – GEOMETRIC PROPERTIES**
 
-Measure the dimensions of the acrylic semi-cylinder as shown in the figure below. Use $R$ = radius and $H$ = height. Express their values in cm, indicating them in the corresponding table.
+Measure the dimensions of the acrylic semi-cylinder as indicated in the figure below. Use $R$ = radius and $H$ = height. Express your values in cm, indicating them in the corresponding table.
 
-*(Overview: measuring the radius $R$ and height $H$ of the semi-cylinder) *
+*(Top view: measure radius $R$ and height $H$ of the semi-cylinder)*
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F3_1ano_exp/OBF2010_F3_1ano_exp_p4_f1.png]]
-The following conditions shall apply:
+*Top view acrylic semi-cylinder, radius R*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]], [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1q_JNKXOLJIn5-QHSHlpAuVfiB5BvDp6M/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2010 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cylinder"></span>
@@ -108,16 +101,9 @@ Dalle dimensioni si determina il volume del semicilindro acrilico. Rispondi in c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission to the European Parliament and to the Council:
+**PART I – GEOMETRICAL PROPERTIES**
 
-The volume of the acrylic semi-cylinder is determined by the dimensions. Give your answer in cm3.
-
-**Topic:** [[Geometric Optics]], [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1q_JNKXOLJIn5-QHSHlpAuVfiB5BvDp6M/view)
-
+Using the dimensions, determine the volume of the acrylic semi-cylinder. Give your answer in cm³.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2010 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cylinder"></span>
@@ -151,16 +137,9 @@ Determina la massa del semicilindro in grassi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission to the European Parliament and to the Council:
+**PART I – GEOMETRIC PROPERTIES**
 
-Determine the mass of the semicylinder in grams.
-
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1q_JNKXOLJIn5-QHSHlpAuVfiB5BvDp6M/view)
-
+Determine the mass of the semi-cylinder in grams.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2010 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/slit"></span>
@@ -212,25 +191,18 @@ Dal disegno dell'assemblaggio misurare il valore dell'angolo $\alpha$ in gradi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission to the Member States:
+**PART II – DIVERGENCE FROM THE SOURCE**
 
-Considering the LED as a point source, the light passing through the output gap will have a certain divergence which we will denote by $\alpha$. Put the light source on the answering book sheet. Make the contour of the source, identify it, and plot the two outermost rays along with the central ray.
+Considering the LED as a point source, the light passing through the exit slit will have a certain divergence which we will denote by $\alpha$. Place the light source on the answer notebook sheet. Trace the outline of the source, identifying it, and draw the two outermost rays, together with the central ray.
 
-From the assembly drawing measure the value of the angle $\alpha$ in degrees.
+From the drawing of the setup, measure the value of the angle $\alpha$ in degrees.
 
-*(Overview of the source: map the two extreme beam radii and the central radii, measure $\alpha$) *
+*(Top view of the source: draw the two extreme rays of the beam and the central ray, measure $\alpha$)*
 
 <!--fig:start-->
 ![[_attachments/OBF2010_F3_1ano_exp/OBF2010_F3_1ano_exp_p4_f2.png]]
-The following shall be added to the list of the following:
+*Top view of the light source, divergence angle α*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Slit (object)|Slit]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1q_JNKXOLJIn5-QHSHlpAuVfiB5BvDp6M/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2010 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cylinder"></span>

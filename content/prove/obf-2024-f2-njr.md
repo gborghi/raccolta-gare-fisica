@@ -238,23 +238,11 @@ comparar medidas dadas em diferentes unidades é necessário fazer a devida conv
 
 <div class="qlang-split" data-lang="it"></div>
 
-Quattro. Le unità di misura sono scelte in base all'esperimento o all'osservazione
-che sono fatti. Per esempio, seguendo il movimento di una scia lungo una
-Il muro può essere conveniente ad adottare come unità di lunghezza il centimetro (cm) e
-tempo per minuto (min), in modo che la velocità media della lama sia data in cm/min. Em
-La nostra esperienza quotidiana con i mezzi di trasporto terrestri siamo abbastanza abituati
-la misurazione della velocità in chilometri orari (km/h). Negli Stati Uniti, tra gli altri paesi,
-sono utilizzati in pollici e miglia per misurare le piccole e le grandi distanze. Quando si desidera
-La Commissione ha adottato una decisione che prevede che la Commissione non debba prendere misure per la riduzione delle emissioni di gas. Dati:
-1 pollice = 2,54 cm e 1 miglio = 1600 m (circa).
-- **A.** Qual è il fattore di conversione di cm/min per km/h (qual è il valore di 1 cm/min per km/h)?
-- **B.** Qual è il fattore di conversione da pol/min (minuto) a mph (mile/ora)?
+Quesito 4. Le unità di misura vengono scelte in base all'esperimento o all'osservazione che vengono effettuati. Per esempio, nel seguire il movimento di una lumaca lungo una parete può essere conveniente adottare come unità di lunghezza il centimetro (cm) e come unità di tempo il minuto (min), cosicché la velocità media della lumaca sarebbe espressa in cm/min. Nella nostra esperienza quotidiana con i mezzi di trasporto terrestri siamo abbastanza abituati a misurare la velocità in chilometri orari (km/h). Negli Stati Uniti, tra gli altri paesi, si usano pollici e miglia per misurare piccole e grandi distanze. Quando si desidera confrontare misure date in unità diverse è necessario fare la debita conversione. Dati:
+1 pollice = 2,54 cm e 1 miglio = 1600 m (approssimativamente).
+- **A.** Qual è il fattore di conversione da cm/min a km/h (qual è il valore di 1 cm/min in km/h)?
+- **B.** Qual è il fattore di conversione da pol/min (pollice al minuto) a mph (miglio all'ora)?
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -375,23 +363,11 @@ comparar medidas dadas em diferentes unidades é necessário fazer a devida conv
 
 <div class="qlang-split" data-lang="it"></div>
 
-Quesito 6. Le unità di misura sono scelte in base all'esperimento o all'osservazione
-che sono fatti. Per esempio, seguendo il movimento di una scia lungo una
-Il muro può essere conveniente ad adottare come unità di lunghezza il centimetro (cm) e
-tempo per minuto (min), in modo che la velocità media della lama sia data in cm/min. Em
-La nostra esperienza quotidiana con i mezzi di trasporto terrestri siamo abbastanza abituati
-la misurazione della velocità in chilometri orari (km/h). Negli Stati Uniti, tra gli altri paesi,
-sono utilizzati in pollici e miglia per misurare le piccole e le grandi distanze. Quando si desidera
-La Commissione ha adottato una decisione che prevede che la Commissione non debba prendere misure per la riduzione delle emissioni di gas. Dati:
-1 pollice = 2,54 cm e 1 miglio = 1600 m (circa).
-- **A.** Qual è il fattore di conversione di cm/min per km/h (qual è il valore di 1 cm/min per km/h)?
-- **B.** Qual è il fattore di conversione da pol/min (minuto) a mph (mile/ora)?
+Quesito 6. Le unità di misura vengono scelte in base all'esperimento o all'osservazione che vengono effettuati. Per esempio, nel seguire il movimento di una lumaca lungo una parete può essere conveniente adottare come unità di lunghezza il centimetro (cm) e di tempo il minuto (min), cosicché la velocità media della lumaca sarebbe espressa in cm/min. Nella nostra esperienza quotidiana con i mezzi di trasporto terrestri siamo abbastanza abituati a misurare la velocità in chilometri all'ora (km/h). Negli Stati Uniti, tra gli altri paesi, si usano pollici e miglia per misurare piccole e grandi distanze. Quando si desidera confrontare misure date in unità diverse è necessario fare la debita conversione. Dati:
+1 pollice = 2,54 cm e 1 miglio = 1600 m (approssimativamente).
+- **A.** Qual è il fattore di conversione da cm/min a km/h (qual è il valore di 1 cm/min in km/h)?
+- **B.** Qual è il fattore di conversione da pol/min (pollice al minuto) a mph (miglio all'ora)?
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1xsrWqaTxYtDGH_SxfnwJTaRv4mzW_4hW/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

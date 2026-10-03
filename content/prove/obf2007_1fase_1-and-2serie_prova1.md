@@ -244,34 +244,27 @@ Si può dire dalle affermazioni precedenti che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Text 3**  The value of 17% of losses can be reduced by good airworthiness. The BMW 325i Touring car weighs about 15,000 N, distributed close to the ideal of 50% front and 50% rear. In the case of the Prius, with 12,000 N, this ratio is 60/40. The car, when braking, undergoes a weight transfer from the rear to the front. Newton's first law: a car at rest or in uniform retinal motion (MRU) will remain that way until an external force acts on it. The second law: when a force is applied to an automobile, the change in motion is proportional to the force divided by the mass of the car ($\vec{F} = m\vec{a}$). The third law: for every force exerted on the automobile by another object, the automobile exerts an equal value force and opposite direction.
+**Text 3** — The value of 17% of the losses can be reduced by good drivability. The BMW 325i Touring automobile has about 15,000 N of weight, distributed close to the ideal of 50% at the front and 50% at the rear. In the case of the Prius, with 12,000 N, this ratio is 60/40. The automobile, when braked, undergoes a transfer of weight from the rear part to the front part. Newton's first law: an automobile at rest or in Uniform Rectilinear Motion (URM) will remain that way until an external force acts on it. The second law: when a force is applied to an automobile, the change in motion is proportional to the force divided by the mass of the car ($\vec{F} = m\vec{a}$). The third law: for every force exerted on the automobile by another object, the automobile exerts a force of equal magnitude and opposite direction.
 
-Question 3 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Question 3**
 
 After reading this third text, the two students continued the dialogue:
 
-I)  Yes, we cause greater dynamic balance by braking the car violently, and so a good understanding of Newton's laws helps us save fuel.
+I) – Yeah, we cause greater dynamic balance by braking the automobile violently, and thus a good understanding of Newton's laws helps us save fuel.
 
-I.  Interesting. It is also good to know that we must avoid holes, as imbalances lead to increased fuel use.
+II) – Interesting. It is also good to know that we should avoid potholes, since the imbalances cause greater fuel use.
 
-III)  Yes, on a very flat road the second Newton's Law is the biggest fuel economy factor.
+III) – Yeah, on a very flat road Newton's second law is the biggest factor in fuel economy.
 
-IV)  And the weight of the BMW 325i Touring is divided by 6,000 N on each axle of its car, resulting in greater fuel economy.
+IV) – And the weight of the BMW 325i Touring is divided into 6,000 N on each axle of the automobile, causing greater fuel economy.
 
-We can say from the above statements that:
+We can say of the statements above that:
 
-- **A ** All of them are incorrect
-- **B ** A and A are correct.
-- MSK0/>C** Only the II is correct.
+- **A.** All are incorrect
+- **B.** II and III are correct.
+- **C.** Only II is correct.
 - **D.** Only II and IV are correct.
-- MSK0/>E. MSK1/> All of them are correct.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **E.** All are correct.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2007 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -347,37 +340,30 @@ Solo l'I è giusto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 4 - The Commission has not yet decided on the application of this Regulation.
+**Question 4**
 
-After looking at how fuel consumption in an automobile occurs, let's do an exercise to recall some concepts. First, in an abstract context, we sketch the following graph of linear motion of a car with tracks 1, 2 and 3, speeds $v_1$, $v_2$, $v_3$ and times $t_1$, $t_2$, $t_3$.
+After seeing how fuel consumption occurs in an automobile, let us do an exercise to recall some concepts. First, in an abstract context, let us sketch the following graph of the linear motion of an automobile with segments 1, 2 and 3, velocities $v_1$, $v_2$, $v_3$ and times $t_1$, $t_2$, $t_3$.
 
-So we can say with this graph that:
+Regarding this graph we can say that:
 
-I) From $t = 0$ to $t_1$ the car maintained zero speed and then in the interval $\Delta t = t_2 - t_1$ the car has an average acceleration of $a_1 = (v_2 - v_1)/(t_2 - t_1)$.
+I) From $t = 0$ to $t_1$ the automobile maintained zero velocity and then in the interval $\Delta t = t_2 - t_1$ the car has average acceleration of $a_1 = (v_2 - v_1)/(t_2 - t_1)$.
 
-(ii) From $t_2$ to $t_3$ the car slows down according to the average acceleration of $a_2 = -(v_3 - v_2)/(t_3 - t_2)$.
+II) From $t_2$ to $t_3$ the automobile decelerates according to the average acceleration of $a_2 = -(v_3 - v_2)/(t_3 - t_2)$.
 
-(iii) In section 3 the car makes a uniformly variable reticle movement (MRUV), in section 1 MRU and finally in section 2 also MRUV.
+III) In segment 3 the car undergoes Uniformly Varied Rectilinear Motion (MRUV), in segment 1 MRU and, finally, in segment 2 also MRUV.
 
-We can say from the three above statements that:
+We can say of the three previous statements that:
 
-- They're all right.
+- **A.** All are correct.
 - **B.** Only I and III are correct.
-- Only I is right.
-- MSK1/>D Only III is correct.
-- **E ** II and III are correct.
+- **C.** Only I is correct.
+- **D.** Only III is correct.
+- **E.** II and III are correct.
 
 <!--fig:start-->
 ![[_attachments/OBF2007_1Fase_1&2serie_prova1/OBF2007_1Fase_1&2serie_prova1_p4_f1.png]]
-The following table shows the number of vehicles that have been registered in the Union:
+*velocity-time graph for car motion*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2007 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -443,32 +429,25 @@ In relazione a queste affermazioni possiamo dire che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 5 - The Commission has not yet decided on the draft budget.
+**Question 5**
 
-Within the EPA (Environmental Protection Agency), an American environmental protection agency, there is a service that performs standardized gasoline consumption tests on different cars (fueleconomy.gov/feg/fe_test_schedules.shtml).
+Within the EPA (Environmental Protection Agency), an American environmental protection agency, there is a service that performs standardized gasoline consumption tests on different automobiles (fueleconomy.gov/feg/fe_test_schedules.shtml).
 
-In one of the tests, a graph of the speed × time for urban traffic was made. So we can say with this graph that:
+In one of the tests, a graph of speed × time was made for urban traffic. Regarding this graph we can say that:
 
-(i) In the approximate time interval between 780 and 960 s, the average speed of the test vehicle was approximately 25 km/h.
+I) In the approximate time interval between 780 s and 960 s the average speed of the automobile under test was approximately 25 km/h.
 
-(ii) In the approximate time interval between 180 and 340 s, the average speed of the test vehicle was exactly 80 km/h.
+II) In the approximate time interval between 180 s and 340 s the average speed of the automobile under test was exactly 80 km/h.
 
-(iii) At the time interval of approximately 120 to 180 seconds the test vehicle was stopped.
+III) In the approximate time interval between 120 s and 180 s the automobile under test was stopped.
 
-In relation to these statements we can say that:
+Regarding these statements we can say that:
 
-- MSK0/>A. All of them are incorrect.
+- **A.** All are incorrect.
 - **B.** Only I and III are correct.
-- Only II is correct.
-- All of them are correct.
-- **E** Only III is correct.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **C.** Only II is correct.
+- **D.** All are correct.
+- **E.** Only III is correct.
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2007 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -514,22 +493,15 @@ La velocità media più alta si è verificata nell'intervallo da 393 s a 484 s.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Question 6**
 
-The following standardised test represents the movement of a car on a road. Notice the car never stopped. In relation to this new chart (speed × time per road cycle), which of the statements below is correct?
+The standardized test below represents the movement of a car on a road. Note that the car never stopped. Regarding this new graph (speed × time for a road cycle), which of the statements below is correct?
 
-- **A.** The average acceleration up to 44 s is about 10 m/s2.
-- **B.** At 44 s and 704 s the lowest speed was 20 m/ s
-The approximate distance travelled by the car was 100 km.
-The highest mean speed occurred in the 393 to 484 s range.
-- **E ** During the test there were 6 speed spikes.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** The average acceleration up to 44 s is about 10 m/s².
+- **B.** In the interval from 44 s to 704 s the lowest speed was 20 m/s
+- **C.** The approximate distance traveled by the car was 100 km.
+- **D.** The highest average speed occurred in the interval from 393 s to 484 s.
+- **E.** During the test there were 6 speed peaks.
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2007 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -575,22 +547,15 @@ Se un veicolo sulla strada è in fase di accelerazione, quale forza agisce su qu
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 7 - The Commission has not yet decided on the application of this Regulation.
+**Problem 7**
 
-If a vehicle on the road is accelerating, what force is acting on that vehicle to produce this acceleration?
+If a vehicle on the road is being accelerated, what is the force acting on this vehicle to produce this acceleration?
 
-- The strength of the engines on the wheels.
-- **B.** The force of static friction of the tyres on the asphalt.
-- **C.** The force of static friction of the asphalt on the tyres.
-- **D.** The kinetic friction force of the tyres on the asphalt.
-- **E ** The normal road force on the car.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** The force of the engines on the wheels.
+- **B.** The force of static friction of the tires on the asphalt.
+- **C.** The force of static friction of the asphalt on the tires.
+- **D.** The force of kinetic friction of the tires on the asphalt.
+- **E.** The normal force of the road on the automobile.
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2007 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -715,22 +680,15 @@ Nella figura seguente, i due veicoli sono in MRU con la stessa velocità e l'aut
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 9 - The Commission has decided to take a decision on the draft budget.
+**Question 9**
 
-In the figure below, both vehicles are in MRU at the same speed and the convertible car "takes advantage" of the truck's vacuum to save fuel. The passenger of the convertible throws a ball upwards at an initial speed of 10 m/s. How long after that ball is to return to this passenger's hand? If the horizontal distance the ball travels is 40 meters, what is the speed of the truck?
+In the figure below, the two vehicles are in uniform rectilinear motion with the same speed, and the convertible car "takes advantage" of the truck's slipstream to save fuel. The passenger in the convertible throws a small ball upward with an initial speed of 10 m/s. After how long should the ball return to this passenger's hand? If the horizontal distance traveled by the ball is 40 m, what is the speed of the truck?
 
-- **A.** 1,0 s e 18 km/h
-- **B.** 0,5 s e 36 km/h
-- **C.** 1,5 s e 18 km/h
-- **D.** 2,0 s e 72 km/h
-- **E.** 1,0 s e 36 km/h
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 1.0 s and 18 km/h
+- **B.** 0.5 s and 36 km/h
+- **C.** 1.5 s and 18 km/h
+- **D.** 2.0 s and 72 km/h
+- **E.** 1.0 s and 36 km/h
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2007 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -776,22 +734,15 @@ Considerando che il coefficiente di attrito cinetico ($\mu$) tra asfalto e pneum
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the use of the 'small' technology.
+**Question 10**
 
-Given the kinetic friction coefficient ($\mu$) between the asphalt and the tyre equal to 0,02 and the mass of the BMW car (Text 3) equal to 1,500 kg, what will be the work module of the kinetic friction force at the distance travelled in the previous question?
+Considering the coefficient of kinetic friction ($\mu$) between the asphalt and the tire equal to 0.02 and the mass of the BMW car (text 3) equal to 1,500 kg, what will be the magnitude of the work done by the kinetic friction force over the distance traveled from the previous question?
 
-- **A.** 11,0 kJ
-- **B.** 13,0 kJ
-- **C.** 10,0 kJ
-- **D.** 8,0 kJ
-- **E.** 12,0 kJ
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 11.0 kJ
+- **B.** 13.0 kJ
+- **C.** 10.0 kJ
+- **D.** 8.0 kJ
+- **E.** 12.0 kJ
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2007 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery"></span>
@@ -837,22 +788,15 @@ Supponiamo che la Prius fosse a 20 m/s e che avesse visto la lombalgia elettroni
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a number of proposals for the amendment.
+**Question 11**
 
-Suppose the Prius was at 20 m/s and saw the electronic backrest limiting speed to a maximum of 40 km/h. You then used the regenerative brake and were detected at a speed of 36 km/h. Knowing that 54 percent of the total energy was wasted, how much energy was stored in the battery?
+Suppose the Prius car was traveling at 20 m/s and saw the electronic speed bump that limits the speed to a maximum of 40 km/h. You then used the regenerative brake and a speed of 36 km/h was detected. Knowing that 54% of the total energy was wasted, how much energy was accumulated in the battery?
 
-- **A.** 82,8 J
-- **B.** 79,2 kJ
-- **C.** 72,9 J
-- **D.** 82,8 kJ
-- **E.** 79,2 J
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 82.8 J
+- **B.** 79.2 kJ
+- **C.** 72.9 J
+- **D.** 82.8 kJ
+- **E.** 79.2 J
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2007 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pendulum"></span>
@@ -910,28 +854,21 @@ III) In 1 sta aumentando di velocità, in 2 sta aumentando di velocità e in 3 s
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 12 - The Commission has not yet decided on the draft budget.
+**Question 12**
 
-A pendulum is attached to the roof of an automobile. This pendulum can be called an accelerometer. Consider the three possible situations for the accelerometer, with the car coming from its right to its left:
+A pendulum is fixed to the ceiling of an automobile. This pendulum can be called an accelerometer. Consider the three possible situations for the accelerometer, with the car coming from its right to the left:
 
-I) In 1 the car is losing speed, in 3 it gains speed and in 2 it is in MRU.
+I) In 1 the car is losing speed, in 3 gaining speed and in 2 it is in uniform rectilinear motion.
 
-(ii) In 1 it is accelerating, in 3 it is slowing down and in 2 it is in MRU.
+II) In 1 it is being accelerated, in 3 decelerating and in 2 it is in uniform rectilinear motion.
 
-III) In 1 it's gaining speed, in 2 it's in MRU and in 3 it's slowing down.
+III) In 1 it is gaining speed, in 2 it is in uniform rectilinear motion and in 3 it is decelerating.
 
-- They're all wrong.
-- **B** Only the II is correct.
-- **C ** II and III are correct.
-- **D** Only I is correct.
-- MSK0/>E. MSK1/> All of them are correct.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** All are wrong.
+- **B.** Only II is correct.
+- **C.** II and III are correct.
+- **D.** Only I is correct.
+- **E.** All are correct.
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2007 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -989,28 +926,21 @@ Solo III è giusto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 13 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Question 13**
 
-Since we're talking about accelerometer, think about these statements:
+Since we talked about the accelerometer, reflect on these statements:
 
-I) When we step on the brake of the car, we vary the speed. So the brake is an accelerator.
+I) When we step on the car's brake, we change the velocity. Therefore, the brake is an accelerator.
 
-II) When you turn the steering wheel of the car and turn it around, you're using an accelerator, which changes the direction of the car's vector velocity.
+II) When we turn the car's steering wheel and make a curve, we are using an accelerator, which changes the direction of the car's velocity vector.
 
-III) On a flat road, as we increase speed, we're obviously using an accelerator.
+III) On a flat road, when we increase the speed, we are obviously using an accelerator.
 
-- MSK1/>A. Only I is wrong.
-- MSK0/>B ** I and II are wrong.
-- Only III is right.
-- All of them are correct.
-- MSK1 and III are correct.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** Only I is wrong.
+- **B.** I and II are wrong.
+- **C.** Only III is correct.
+- **D.** All are correct.
+- **E.** I and III are correct.
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2007 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/inclined-plane"></span>
@@ -1117,22 +1047,15 @@ Dopo l'ascesa di cui alla domanda precedente, il conducente deve guidare a 15 m/
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 15 - The Commission has decided to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures to ensure that the Commission is able to take the necessary measures.
+**Question 15**
 
-After the climb referred to in the previous question, the driver shall drive at a speed of 15 m/s and the height $h$ shall be equal to 5 m. Using the regenerative brake and the data presented in the previous questions, how much energy will be added to the battery if the car reaches the bottom at the same speed? Please remember that only a part of the energy (see question 11) will be used to recharge the battery, as there has been a loss of energy.
+After the climb referred to in the previous question, the driver drives at a speed of 15 m/s and the height $h$ is equal to 5 m. Using the regenerative brake and the data presented in the previous questions, how much energy will be added to the battery if the car reaches the bottom with the same speed? Remember that only a part of the energy (see question 11) will be used to recharge the battery, since there was energy loss.
 
-- **A.** 27,6 kJ
-- **B.** 32,4 J
-- **C.** 32,4 kJ
-- **D.** 34,4 kJ
-- **E.** 27,6 J
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 27.6 kJ
+- **B.** 32.4 J
+- **C.** 32.4 kJ
+- **D.** 34.4 kJ
+- **E.** 27.6 J
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2007 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -1239,22 +1162,15 @@ Abbiamo scoperto che molta energia viene sprecata nei parcheggi e nei traffico l
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 17 - The Commission has not yet decided on the application of the rules of procedure.
+**Question 17**
 
-We learned that a lot of energy is wasted at car stops and in slow city traffic (other losses 17%). For this reason, drivers try to stop as little as possible. In some cities you can find synchronized traffic lights. Notice that the lines start to fade, and that the time of each "line" of the traffic light is 1 second, a total of 10 lines. Consider that you are standing 100 meters from the traffic light. Which of the accelerations below makes the first signal cross comfortably? Consider null the dissipative effects and the nonexistent yellow sign.
+We have learned that a lot of energy is wasted when the car stops and in slow traffic in cities (other losses — 17%). For this reason, drivers try to stop as little as possible. In some cities it is possible to find synchronized traffic lights. Noticing that the lines begin to go out, and that the time of each "line" of the traffic light is 1 s, in a total of 10 lines. Consider that you are stopped at a distance of 100 m from the traffic light. Which of the accelerations below makes you cross the first signal comfortably? Consider the dissipative effects to be zero and the yellow light nonexistent.
 
-- **A.** 1,5 m/s²
-- **B.** 0,5 m/s²
-- **C.** 1,0 m/s²
-- **D.** 2,0 m/s²
-- **E.** 3,0 m/s²
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 1.5 m/s²
+- **B.** 0.5 m/s²
+- **C.** 1.0 m/s²
+- **D.** 2.0 m/s²
+- **E.** 3.0 m/s²
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2007 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -1324,34 +1240,27 @@ In relazione a queste affermazioni possiamo dire che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 18 - The Commission has not yet decided on the application of the rules of procedure.
+**Question 18**
 
-Interpret these two pictures, please. The first shows a high-speed car making a right-hand turn where there was a lot of weight transfer to the front of the car (90% is the estimated value by experts). In the detail of this photo, it is noted that the right rear tyre touches little on the asphalt.
+Please interpret these two photos. The first shows a car at high speed making a right turn in which there was a lot of weight transfer to the front of the car (90% is the value estimated by the experts). In the detail of this photo, it can be observed that the right rear tire barely touches the asphalt.
 
-The second photo seems to indicate that the experienced driver felt that, due to the high speed at which he was driving, he had no wheel traction to make the turn. He preferred to brake and then leave.
+The second photo seems to show that the experienced driver felt that, due to the high speed at which he was coming, there was no traction on the wheel to make the turn. He preferred to brake and then drive away.
 
-Considering this dialogue between the two students and what you have understood from text 3, assess the following statements:
+Considering this dialogue between the two students and what you understood from text 3, evaluate the following statements:
 
-(i) In the first photo, the driver made the curve at a very high speed, so the joint action of the vehicle inertia and the height of the CG causes the rear of the vehicle to lift, even with the danger of overturning.
+I) In the first photo, the driver made the turn at a very high speed, so the combined action of the vehicle's inertia and the height of the CG causes the rear of the vehicle to lift, including with the danger of rolling over.
 
-II) In the second photo, the driver was coming at a very high speed and as he could not make the corner, to avoid the overturning, he preferred to brake, leaving only the tyre marks on the asphalt.
+II) In the second photo, the driver was coming at a very high speed and, since he could not make the turn, to avoid rolling over, he preferred to brake, leaving only the tire marks on the asphalt.
 
-(iii) To make curves on roads, the steering wheel of the car is turned so that the friction force between the tyre and the asphalt moves the car in a new direction.
+III) To make turns on roads, the car's steering wheel is turned so that the interaction of the friction force between the tire and the asphalt changes the car to a new direction.
 
-In relation to these statements we can say that:
+Regarding these statements, we can say that:
 
 - **A.** Only statement III is correct.
 - **B.** Statements I and II are correct.
 - **C.** Statements I and III are correct.
-- **D ** All the affirmations are correct.
+- **D.** All statements are correct.
 - **E.** Only statement II is always correct.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2007 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/inclined-plane"></span>
@@ -1462,24 +1371,17 @@ Con una scossa inelastica, a che velocità è andata l'insieme?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 20 - The Commission has not yet decided on the application of the rules of procedure.
+**Question 20**
 
-A careless, hasty driver was driving a car with a total mass $m$ at 25 m/s and collided in the reverse with an empty truck with a total mass 10 times his own and a speed of 5 m/s.
+A careless and hurried driver was driving an automobile of total mass $m$, at a speed of 25 m/s and collided head-on with an empty truck of total mass 10 times greater than his and with a speed of 5 m/s.
 
-With an inelastic shock, how fast did the set go?
+Since there was an inelastic collision, what speed did the combined mass end up with?
 
-- **A ** 25/11 m/s to your left.
-- **B ** 75/11 m/s to your left.
-- **C.** 75/11 m/s to your right.
-- **D ** 25/11 m/s to your right.
-- **E ** 25/9 m/s to your left.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 25/11 m/s to its left.
+- **B.** 75/11 m/s to its left.
+- **C.** 75/11 m/s to its right.
+- **D.** 25/11 m/s to its right.
+- **E.** 25/9 m/s to its left.
 
 
 <span class="atom-split" id="q21" data-atom="q21" data-title="OBF 2007 — Quesito 21" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/heat-engine,object/cylinder"></span>
@@ -1557,38 +1459,31 @@ In relazione a questo dialogo si può affermare che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Text 5 (compulsory for second year students)  Now appreciate the cutting of a 4-cylinder MCI. The principle of operation of the engine was developed by Nicolaus Otto in 1862. The Otto cycle has four times. The efficiency $(e)$ of the MCI is:
+**Text 5** (mandatory for 2nd-year students) — Appreciate, now, the cutaway of a 4-cylinder ICE. The operating principle of the engine was developed by Nicolaus Otto in 1862. The Otto cycle has 4 strokes. The efficiency $(e)$ of the ICE is:
 
 $$e = 1 - \frac{T_{\text{fria}}}{T_{\text{quente}}}$$
 
-where $T_{\text{fria}}$ ($T_{\text{quente}}$) is the Cold (Hot) Source Temperature.
+where $T_{\text{fria}}$ ($T_{\text{quente}}$) is the temperature of the Cold (Hot) source.
 
-The Commission has not yet decided whether to proceed with the implementation of the programme.
+**Question 21**
 
-Please summarize the functioning of the MCI.
+Please summarize the operation of the ICE.
 
-I) - First of all, it is important to say that the heat from combustion is a form of energy.
+I) - First of all, it is important to say that the heat resulting from combustion is a form of energy.
 
-II) - We can say that part of the energy from the hot source is converted into work and the rest of the heat is lost in the car radiator.
+II) - We can state that part of the energy from the hot source is transformed into work and the rest of the heat is lost in the automobile's radiator.
 
-III) - It is true. This is why we put water in the radiator, because its specific heat is one of the highest in nature.
+III) - It is true. This is the reason we put water in the radiator, since its specific heat is one of the highest in nature.
 
-The MCI efficiency expression $(e)$ is always $e = 1 - T_{\text{fria}}/T_{\text{quente}}$ where $T_{\text{fria}}$ ($T_{\text{quente}}$) is the Cold (Hot) Source Temperature.
+IV) - The expression for the efficiency $(e)$ of the ICE is always $e = 1 - T_{\text{fria}}/T_{\text{quente}}$ where $T_{\text{fria}}$ ($T_{\text{quente}}$) is the temperature of the Cold (Hot) source.
 
-In relation to this dialogue you can state that:
+Regarding this dialogue, you can state that:
 
 - **A.** I, II and III are correct
-- ** B ** II and III are correct.
-- **C ** I and IV are correct.
-- They're all right.
-- MSK0/>E.** Only I is correct.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Heat Engine (object)|Heat Engine]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **B.** II and III are correct.
+- **C.** I and IV are correct.
+- **D.** All are correct.
+- **E.** Only I is correct.
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="OBF 2007 — Quesito 22" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cylinder,object/gas,object/piston"></span>
@@ -1634,22 +1529,15 @@ Il terzo tempo è il momento della combustione del miscelato aria e benzina. Al 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 22 - The Commission has decided to take a decision on the draft budget.
+**Question 22**
 
-The third time is the time of combustion of the air and gasoline mixture. At the time of explosion, the cylinder shall apply a pressure of $3 \times 10^5$ N/m2 to the top of the cylinder of 10 cm2. What will be the resulting force if the local air pressure is $10^5$ N/m2?
+The third stroke is the moment of combustion of the air and gasoline mixture. At the moment of the explosion, it applies a pressure of $3 \times 10^5$ N/m² on the upper part of the 10 cm² cylinder. What will be the resultant force if the local air pressure is $10^5$ N/m²?
 
 - **A.** $2 \times 10^5$ N
 - **B.** $2 \times 10^3$ N
 - **C.** $2 \times 10^2$ N
 - **D.** $2 \times 10^4$ N
 - **E.** $2 \times 10^6$ N
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="OBF 2007 — Quesito 23" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/heat-engine,object/gas"></span>
@@ -1796,6 +1684,7 @@ Let's say the 4-cylinder engine (text 5) has an efficiency of 0.21 as in text 2,
 **Objects:** [[Heat Engine (object)|Heat Engine]], [[Cylinder (object)|Cylinder]]
 **Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
 
+[[OBF2007_1Fase_1&2serie_prova1__Q24]]
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="OBF 2007 — Quesito 25" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/tank-container"></span>
@@ -1841,22 +1730,15 @@ Connesso al radiatore attraverso un tubo, c'è il serbatoio di espansione. Quest
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 25 - The Commission has not yet decided on the application of this Regulation.
+**Question 25**
 
-Connected to the radiator through a hose, there is an expansion tank. This tank has the role of accumulating excess water, which is initially 10 °C and will boil as the temperature of the water placed in the radiator rises due to the fuel bursts in the engine cylinders. Assuming that the water is 90 °C at this time and has a volumetric expansion coefficient $\gamma = 4{,}0 \times 10^{-4}$ °C$^{-1}$ and that the radiator is made of copper with a linear expansion coefficient $\alpha = 2{,}0 \times 10^{-5}$ °C$^{-1}$, fully filled with 20 litres of water. The amount of water to be discharged shall be:
+Connected to the radiator through a hose, there is the expansion tank. This tank has the role of accumulating the excess water, which is initially at 10 °C and which will overflow when the temperature of the water placed in the radiator rises, due to the explosions of the fuel in the engine cylinders. Assuming that on this occasion the water is at 90 °C and has a volumetric expansion coefficient $\gamma = 4{,}0 \times 10^{-4}$ °C$^{-1}$ and that the radiator is made of copper with a linear expansion coefficient $\alpha = 2{,}0 \times 10^{-5}$ °C$^{-1}$, completely filled with 20 liters of water. The amount of water that will overflow will be:
 
-- **A ** 629 cm3
-- **B ** 544 cm3
-- **C ** 822 cm3
-- ** D ** 472 cm3
-- **E ** 252 cm3
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** 629 cm³
+- **B.** 544 cm³
+- **C.** 822 cm³
+- **D.** 472 cm³
+- **E.** 252 cm³
 
 
 <span class="atom-split" id="q26" data-atom="q26" data-title="OBF 2007 — Quesito 26" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
@@ -1902,22 +1784,15 @@ Spesso quando andiamo al servizio per riempire il serbatoio, ci capita di calibr
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 26 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on competition in the field of competition.
+**Question 26**
 
-Often, when we go to the gas station to fill the tank, we take the opportunity to calibrate (fill or empty) the tires. Usually the automobile factories, together with the tire factory, suggest a certain pressure placed in the owner's manual, which indicates for a particular automobile a pressure of 28 psi (pound force/pound2). Knowing that 1.0 pound is 0.453 kg and 1 inch is $2{,}54 \times 10^{-2}$ m, and the approximate pressure at sea level is $10^5$ N/m2, what is the approximate pressure of 28 psi?
+Often when we go to the gas station to fill the tank, we take the opportunity to calibrate (inflate or deflate) the tires. Normally, car manufacturers, together with the tire manufacturer, suggest a certain pressure given in the owner's manual, which indicates for a given car 28 psi (pound-force/inch²) of pressure. Knowing that 1.0 pound is worth 0.453 kg and 1 in is worth $2{,}54 \times 10^{-2}$ m, and the approximate pressure at sea level is $10^5$ N/m², what is the pressure of 28 psi approximately worth?
 
-- **A** Double the pressure at sea level.
+- **A.** Twice the pressure at sea level.
 - **B.** One and a half times the pressure at sea level.
-- **C** Three times the pressure at sea level.
-- **D** 15 times the pressure at sea level.
-- **E** Two and a half times the pressure at sea level.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **C.** Three times the pressure at sea level.
+- **D.** Fifteen times the pressure at sea level.
+- **E.** Two and a half times the pressure at sea level.
 
 
 <span class="atom-split" id="q27" data-atom="q27" data-title="OBF 2007 — Quesito 27" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
@@ -1963,22 +1838,15 @@ Guarda la parola AMBULANCE scritta nella foto sotto in due modi: quella di front
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 27 - The Commission has not yet adopted a proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Question 27**
 
-Look at the word AMBULANCE written in the picture below in two ways: the one in the front is seen correctly from the rear-view mirror of an automobile. We say that some letters do not change when placed in front of the mirror, while others do; those that do not change are called invariants by speculative reflection. Could you tell how many capital letters in the Portuguese alphabet do not change in front of a mirror? Include the letters K, W and Y, and as you can see, these last two are invariant by reflection.
+Look at the word AMBULÂNCIA written in the photo below in two ways: the one at the front is seen correctly in the rearview mirror of an automobile. We say that some letters do not change when placed in front of the mirror, while others do change; those that do not change are called invariant under specular reflection. Could you say how many uppercase letters of the Portuguese alphabet do not change in front of a mirror? Include the letters K, W and Y, and, as can be seen, these last two are invariant under reflection.
 
 - **A.** 9
 - **B.** 10
 - **C.** 11
 - **D.** 12
 - **E.** 13
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
 
 
 <span class="atom-split" id="q28" data-atom="q28" data-title="OBF 2007 — Quesito 28" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
@@ -2024,22 +1892,15 @@ Nella figura seguente si vede la luce emessa da uno dei fari anteriori di un'aut
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 28 - The Commission has not yet decided on the application of the rules of procedure.
+**Question 28**
 
-The figure below shows the light emitted by one of the headlights of an automobile. Considering the lamp as a focal point, what kind of mirror is most convenient for reflecting the lamps' lights and producing the light beam of the illustration?
+In the figure below, the light emitted by one of a car's headlights can be seen. Considering the lamp as a point at the focus, what type of mirror is most convenient for reflecting the lamp's light and producing the light beam shown in the illustration?
 
-- A. Parabolic.
-- ** B ** Convex.
-- **C ** Unoccupied.
-- **D** The previous three.
-- MSK0/>E. MSK1/> Plan.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
+- **A.** Parabolic.
+- **B.** Convex.
+- **C.** Concave.
+- **D.** The three previous ones.
+- **E.** Plane.
 
 
 <span class="atom-split" id="q29" data-atom="q29" data-title="OBF 2007 — Quesito 29" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
@@ -2097,28 +1958,21 @@ III) I raggi luminosi che incidono parallelo all'asse principale sono deviati, a
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a number of proposals for the financial perspective.
+**Question 29**
 
-It is possible to find in trucks two rear-view mirrors composed on the driver's side. The bottom mirror is flat. With respect to the mirror above, we can say that:
+It is possible to find on trucks two composite rear-view mirrors on the driver's side. The lower mirror is flat. Regarding the upper mirror we can say that:
 
-I) Like the bottom, we look at the image behind the mirror, and it is therefore a real image.
+I) Like the lower one, we observe the image behind the mirror, and it is, therefore, a real image.
 
-(ii) The area reflected to the driver's eye is greater than that reflected by the mirror below; therefore, it is part of a concave mirror.
+II) The area reflected to the driver's eye is larger than that reflected by the lower mirror; therefore, it is part of a concave mirror.
 
-(iii) The light rays which strike parallel to the main axis are deflected, moving away from the main axis and their focus is obtained from the extension of those rays.
+III) The light rays that strike parallel to the principal axis are deviated, moving away from the principal axis and its focus is obtained from the extension of these rays.
 
 - **A.** Only statement III is correct.
 - **B.** Statements I and II are correct.
 - **C.** Statements II and III are correct.
-- **D ** All the affirmations are correct.
+- **D.** All statements are correct.
 - **E.** Only statement II is always correct.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
-
 
 
 <span class="atom-split" id="q30" data-atom="q30" data-title="OBF 2007 — Quesito 30" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/lever"></span>
@@ -2188,30 +2042,26 @@ Le dichiarazioni presentate in questi ultimi indicano che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 30 - The Commission has decided to publish a report on the Commission's proposal for a regulation on the application of the rules on the protection of workers' rights.
+**Problem 30**
 
-After all this fighting, we're going to the car. The brake system of an automobile uses a brake fluid that connects the force applied on the pedal to the wheels of the automobile:
+After all this discussion, let's move on to the car. The brake system of an automobile uses a brake fluid that connects the force applied to the pedal to the wheels of the automobile:
 
-I)  When applying a force to the pedal, it is extended by the lever arm. But the size of this lever is not enough to get a pressure on the discs and drums to stop the car.
+I) – When we apply a force to the pedal, it is amplified by the lever arm. But the size of this lever is not enough to achieve a pressure on the discs and drums to stop the automobile.
 
-II)  The fluid is used to transmit pressure because it obeys the law of nature which says: when pressure is exerted on a point in a liquid, that pressure is transmitted to all other points in the liquid.
+II) – The fluid is used to transmit the pressure, since it obeys the law of nature that says: when pressure is exerted at a point in a liquid, this pressure is transmitted to all other points of the liquid.
 
-(iii)  The force obtained by the lever principle is subsequently increased by applying the Pascal principle to fluids:
+III) – The force obtained by the lever principle is subsequently amplified by an application of Pascal's principle of fluids:
 
 $$F_1 \cdot A_2 = F_2 \cdot A_1$$
 
-Where $F$ and $A$ mean Force and Area respectively.
+Where $F$ and $A$ mean respectively Force and Area.
 
-It follows from these statements that:
+From these statements it follows that:
 
 - **A.** Only I and III are correct.
-- MSK1 - All of them are correct.
+- **B.** All are correct.
 - **C.** Only I and II are correct.
-- MSK1/>D Only III is correct.
-- They're all wrong.
+- **D.** Only III is correct.
+- **E.** All are wrong.
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1N8H-bWAyFbPUYIPwRGXP6RFC7MO42CSs/view)
+

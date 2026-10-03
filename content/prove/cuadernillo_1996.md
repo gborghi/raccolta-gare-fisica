@@ -12068,7 +12068,7 @@ Justifica tu respuesta.
  
 d) Posteriormente, consideran la posibilidad de adaptar la olla para que funcione a gas. 
 En este caso las pérdidas de calor se estiman en un 20%. 
-Si el costo del gas es de $0,15 por cada m3 y el costo de la energía eléctrica es de $ 0,21 por kW.h ¿ 
+Si el costo del gas es de \$0,15 por cada m3 y el costo de la energía eléctrica es de \$ 0,21 por kW.h ¿ 
 Consideras que este sistema es más conveniente que el anterior ? Justifica. 
  
 Datos: 
@@ -12113,7 +12113,7 @@ giustifica la tua risposta.
  
 d) In seguito, si considera la possibilità di adattare il forno a gas. 
 In questo caso, le perdite di calore sono stimate al 20%. 
-Se il costo del gas è $0,15 por cada m3 y el costo de la energía eléctrica es de $ 0,21 per kW.h
+Se il costo del gas è \$0,15 al m3 e il costo dell'energia elettrica è di \$ 0,21 per kW.h
 Pensi che questo sistema sia più conveniente del precedente ? - Giustifica. 
  
 Datati: 
@@ -12157,7 +12157,7 @@ Justify your answer.
  
 (d) They shall then consider adapting the pot to run on gas. 
 In this case, the heat losses are estimated at 20%. 
-If the gas cost is $0,15 por cada m3 y el costo de la energía eléctrica es de $ 0.21 per kW.h
+If the gas cost is \$0,15 per m3 and the cost of electricity is \$ 0.21 per kW.h
 Do you consider this system more convenient than the previous one ? It justifies it. 
  
 The data: 
@@ -14635,10 +14635,10 @@ The result.
 
 162. RAUCH, BUENOS AIRES. AZUL. 
  
-Objetivo: Determinar el peso de la parte de color plateada de la moneda de $1. Estimar el error cometido. 
-Materiales: • Una moneda de $1 
+Objetivo: Determinar el peso de la parte de color plateada de la moneda de \$1. Estimar el error cometido. 
+Materiales: • Una moneda de \$1 
  
-• Una moneda de igual material que la parte de color dorada de la moneda de $1. 
+• Una moneda de igual material que la parte de color dorada de la moneda de \$1. 
  
 • Hoja milimetrada. 
  
@@ -14655,10 +14655,10 @@ Materiales: • Una moneda de $1
 
 162. RAUCH, buon aria. Blu. 
  
-Obiettivo: Determinare il peso della parte di colore argento della moneta di $1. Valutare l'errore commesso. 
-Materiali: • Una moneta di $1 
+Obiettivo: Determinare il peso della parte di colore argento della moneta di \$1. Valutare l'errore commesso. 
+Materiali: • Una moneta di \$1 
  
-• Una moneta di materiale uguale alla parte dorata della moneta di $1. 
+• Una moneta di materiale uguale alla parte dorata della moneta di \$1. 
  
 • foglio di millimetro. 
  
@@ -14674,10 +14674,10 @@ Materiali: • Una moneta di $1
 
 162. RAUCH, good weather. Blue. 
  
-Objective: Determine the weight of the silver-colored part of the $1 coin. Estimate the error made. 
-Materials: • A $1 coin 
+Objective: Determine the weight of the silver-colored part of the \$1 coin. Estimate the error made. 
+Materials: • A \$1 coin 
  
-• A coin of the same material as the gold part of the $1. 
+• A coin of the same material as the gold part of the \$1. 
  
 • Millimeter sheet 
  

@@ -243,11 +243,10 @@ system is stable?
 
 <div class="qlang-split" data-lang="it"></div>
 
-2. DIODO TUNELLO (10 punti)  Jaan Kalda.
-La curva V-I di una dioda del tunnel è raffigurata
-nella figura seguente, curva a). In alcune parti
-di questo problema, usiamo un modello idealizzato
-curva (b).
+2. DIODO A TUNNEL (10 punti) — Jaan Kalda.
+
+La curva V-I di un diodo a tunnel è rappresentata nella figura qui sotto, curva (a). In alcune parti del problema si utilizza una curva semplificata ideale, (b).
+
 I (mA)
 5
 10
@@ -261,99 +260,43 @@ I (mA)
 V (mV)
 (b)
 (a)
-i) (1 punto) Per misurare la curva V-I
-di diodo, è collegato in serie con un
-alimentazione variabile (il valore della forza elettromotrice $\mathcal{E}$ può essere modificato da $0\ \text{V}$
-per $1\ \text{V}$), cfr. circuito (a). L'ampilometro ha una resistenza interna $r = 2\ \Omega$; la tensione applicata
-is $\mathcal{E} = 50\ \text{mV}$. Qual è la tensione di diodo $V_i$ e
-corrente $I_i$? Usa la vera curva di V-I della dioda.
+
+i) (1 punto) Per misurare la curva V-I del diodo, esso viene collegato in serie con un alimentatore variabile (il valore della forza elettromotrice $\mathcal{E}$ può essere regolato da $0\ \text{V}$ a $1\ \text{V}$), come mostrato nel circuito (a). L'amperometro ha resistenza interna $r = 2\ \Omega$; la tensione applicata è $\mathcal{E} = 50\ \text{mV}$. Qual è la tensione del diodo $V_i$ e la corrente $I_i$? Usare la curva V-I reale del diodo.
+
 L
 A
-K
-(b)
-A
-(a)
-A
-(c)
-C
-(d)
-C
-r
+K (b)
+A (a)
+A (c)
+C (d)
+C r
 Rd
 L
 L
-(II) (1 punto) Ora, studiamo l'effetto della
-l'auto-induzione dei fili. Per prendere
-in considerazione di tale induttenza, il circuito
-deve essere modificata come indicato al punto b);
-let $L = 500\ \text{nH}$. Il interruttore K è aperto
-fino a quando la tensione non è regolata a $\mathcal{E} = 250\ \text{mV}$,
-e poi si chiude.
-Quanto tempo ci vorrà ?
-per raggiungere la corrente $I_1 = 20\ \text{mA}$? L'abbandono
-In seguito alla decisione di revocare il regolamento (CE) n.
-resistenza interna della batteria e della
-Ammeter (metto $r = 0$), e utilizzare il V- idealizzato
-- Curva I della dioda.
-iii) (1 punto) Con le stesse impostazioni di compito
-ii) quanto tempo ci vorrà dal momento in cui
-quando il interruttore è stato chiuso fino a quando la dioda
-la tensione raggiunge $V_2 = 500\ \text{mV}$?
-iv) (2 punti) Con lo stesso impatto che per il compito
-(ii) tracciare la corrente diodo come funzione di
-tempo e trovare il periodo e l'ampiezza di
-le oscillazioni correnti.
-v) (2 punti) Il circuito (b) viene utilizzato per misurare
-la curva V-I della dioda: per ciascun dato
-punto, la tensione è regolata al punto desiderato
-valore mentre il interruttore è aperto, e quindi
-Il interruttore è chiuso.
-Si noti che quando il
-l'ampitore oscilla con una frequenza elevata, mostra la corrente media. - La trama
-i risultati di misurazione attesi, ovvero: il
-corrente media attraverso l'ampilometro come
-funzione della tensione applicata $V = \mathcal{E}$.
-Vi) (1 punto) Finora abbiamo ipotizzato che
-La diodo è un dispositivo ideale; in realtà, è
-ha una piccola capacità parassitaria, lasciamo che sia
-$C = 30\ \text{pF}$.
-In considerazione di questo, il nostro
-il circuito deve essere disegnato come indicato nel diagramma (c).
-Ora supponiamo l'ampilometro,
-di nuovo non ideale, con resistenza interna $r = 2\ \Omega$. Supponiamo che dopo la chiusura
-il interruttore, la tensione è stata lentamente aumentata
-da $\mathcal{E} = 0\ \text{mV}$ a $\mathcal{E} = 150\ \text{mV}$ in modo che un regime di funzionamento fermo (senza oscillazioni)
-Sono stati raggiunti i valori $V(t) \equiv V_0$ e $I(t) \equiv I_0$.
-Supponiamo che ci sia una piccola perturbazione
-corrente e tensione di diodo: $I = I_0 + \delta I(t)$ e
-$V = V_0 + \delta V(t)$, dove $I_0$ e $V_0$ sono la corrente e la tensione nella stazione di funzionamento
-regime. per le piccole amplitudini di perturbazione,
-la curva V-I della dioda può essere linearizzata,
-che si traduce in $\delta V = R_d \delta I$, dove $R_d$ è la resistenza differenziale del diodo. Determinazione
-valore di $R_d$.
-(vii) (2 punti) Continuare con il precedente
-La questione è che si può dimostrare che il problema di
-stabilità del circuito (c), ovvero La domanda
-se le piccole perturbazioni di corrente $\delta I(t)$
-crescere esponenzialmente nel tempo o meno, è equivalente al problema di stabilità del circuito (d) (la batteria viene rimossa e il diodo viene sostituito con la sua resistenza differenziale riscontrata dalla attività precedente). Che cos'è
-la maggiore induttenza dei fili $L$ per i quali il
-Il sistema è stabile?
 
+ii) (1 punto) Ora studiamo l'effetto dell’induttanza propria dei fili. Per tenere conto di tale induttanza, il circuito deve essere modificato come mostrato nel circuito (b); sia $L = 500\ \text{nH}$. L’interruttore K viene mantenuto aperto finché la tensione non è stata regolata a $\mathcal{E} = 250\ \text{mV}$, quindi viene chiuso.
+Quanto tempo impiega la corrente a raggiungere $I_1 = 20\ \text{mA}$? A partire da questo punto, trascurare (fino a nuovo avviso) le resistenze interne della batteria e dell’amperometro (porre $r = 0$), e usare la curva V-I ideale del diodo.
+
+iii) (1 punto) Con gli stessi parametri del compito ii), quanto tempo passa dal momento in cui l’interruttore è stato chiuso fino a quando la tensione del diodo raggiunge $V_2 = 500\ \text{mV}$?
+
+iv) (2 punti) Con gli stessi parametri del compito ii), tracciare la corrente nel diodo in funzione del tempo e determinare il periodo e l’ampiezza delle oscillazioni della corrente.
+v) (2 punti) Il circuito (b) viene utilizzato per misurare la caratteristica V-I del diodo: per ciascun punto sperimentale, la tensione viene regolata al valore desiderato mantenendo l'interruttore aperto, quindi si chiude l'interruttore.
+Nota che quando la corrente del microamperometro oscilla ad alta frequenza, il valore mostrato è la corrente media. Tracciare i risultati attesi della misurazione, ossia la corrente media attraverso il microamperometro in funzione della tensione applicata $V = \mathcal{E}$.
+
+vi) (1 punto) Finora abbiamo supposto che il diodo fosse un dispositivo ideale; in realtà presenta una piccola capacità parassita, sia essa $C = 30\ \text{pF}$.
+Tenendo conto di questo, il nostro circuito dovrebbe essere disegnato come mostrato nel diagramma (c).
+Ora assumiamo che il microamperometro sia nuovamente non ideale, con resistenza interna $r = 2\ \Omega$. Supponiamo che dopo aver chiuso l'interruttore, la tensione sia stata aumentata lentamente da $\mathcal{E} = 0\ \text{mV}$ a $\mathcal{E} = 150\ \text{mV}$, in modo tale da raggiungere un regime stazionario (senza oscillazioni) $V(t) \equiv V_0$ e $I(t) \equiv I_0$.
+Supponiamo che si verifichi una piccola perturbazione della corrente e della tensione nel diodo: $I = I_0 + \delta I(t)$ e $V = V_0 + \delta V(t)$, dove $I_0$ e $V_0$ sono rispettivamente la corrente e la tensione nel regime operativo stazionario. Per piccole ampiezze di perturbazione, la caratteristica V-I del diodo può essere linearizzata, ottenendo $\delta V = R_d \delta I$, dove $R_d$ è la resistenza differenziale del diodo. Determinare il valore di $R_d$.
+vii) (2 punti) Proseguendo con la domanda precedente, si può dimostrare che il problema della stabilità per il circuito (c), ossia la domanda se le piccole perturbazioni di corrente $\delta I(t)$ cresceranno esponenzialmente col tempo o meno, è equivalente al problema della stabilità per il circuito (d) (la batteria viene rimossa e il diodo viene sostituito con la sua resistenza differenziale determinata nel compito precedente). Qual è il valore massimo dell'induttanza dei fili $L$ per cui il sistema è stabile?
 
 <!--fig:start-->
 ![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p1_f1.png]]
-*Curva V-I del tunnel diodo*
+*Curva V-I del diodo tunnel*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2020 NBPhO2020_english/2020 NBPhO2020_english_p1_f2.png]]
-Circuito a) b) c) d) con tunnel di diodo
+*Circuiti (a)(b)(c)(d) con diodo tunnel*
 <!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Battery (object)|Battery]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]], [[Switch (object)|Switch]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1c9OvO2VIlKW1gL5rccu4M_yhScMQQQdQ/view)
 
 
 

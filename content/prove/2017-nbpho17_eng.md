@@ -241,39 +241,22 @@ this problem.
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. L'AUTOMETICA è stata rilevata in un'inchiesta di cui alla lettera a) del regolamento (CE) n.
+4. ONDE GRAVITAZIONALI (7 punti) —
 Artūrs Bērziņš.
-La potenza irradiata in onde gravitazionali da un sistema binario in orbita è
-data da $P(r,m_1,m_2) = \dfrac{32}{5}\dfrac{G^4}{c^5}\dfrac{(m_1m_2)^2(m_1+m_2)}{r^5}$,
-dove $r$ è la distanza tra i centri di
-le due masse in orbita $m_1$ e $m_2$. E' noto
-che l'oggetto più compatto è un buco nero. Il
-dimensioni di un buco nero è definito dal suo raggio Schwarzschild $r_s = \dfrac{2Gm}{c^2}$, dove $m$ è la massa di
-Il buco nero.
-I) (2 punti) Estimare il limite superiore del
-Potenza che può mai essere emessa in gravità
-onde da un sistema binario in orbita.
-I rilevatori di onde gravitazionali sulla Terra
-funzione misurando la cosiddetta onda gravitazionale
-la tensione $\epsilon(t)$ nel tempo, che caratterizza la deformazione dello spazio-tempo. Trattamento dei dati
-produce la tensione massima $\epsilon$ e la sua frequenza d'onda corrispondente $f$. Con l'aiuto di un modello spaziotempo teorico, è quindi possibile determinare la densità energetica $u$ associata all'onda.
-Useremo l'analogia dell'elasticità lineare per esaminare questo modello.
-(ii) (1,5 punti) Derivare la densità energetica $u = u(\epsilon,E)$ in una banda elastica uniformemente estesa in
-termini della cepa $\epsilon$ e dell'Elastic (Youngs)
-modulo $E$.
-iii) (1,5 punti) Utilizzare analisi dimensionale per stimare il modulo elastico di frequenza dipendente dello spazio-tempo $E(f)$ in termini di
-costante gravitazionale $G$, velocità di luce $c$ e
-frequenza delle onde gravitazionali $f$.
-iv) (2 punti) Estimare la distanza massima
-$z = z(\epsilon,f)$ dalla Terra alla gravità
-fonte d'onda in funzione del tensione $\epsilon$ e della frequenza $f$. Utilizzi i modelli derivati precedentemente in
-- Questo problema.
+La potenza irraggiata in onde gravitazionali da un sistema binario in orbita è data da $P(r,m_1,m_2) = \dfrac{32}{5}\dfrac{G^4}{c^5}\dfrac{(m_1m_2)^2(m_1+m_2)}{r^5}$, dove $r$ è la distanza tra i centri delle due masse in orbita $m_1$ e $m_2$. È noto che l'oggetto più compatto è un buco nero. La dimensione di un buco nero è definita dal suo raggio di Schwarzschild $r_s = \dfrac{2Gm}{c^2}$, dove $m$ è la massa del buco nero.
 
-**Topic:** [[Gravitation]], [[Oscillations & Waves]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Black Hole (object)|Black Hole]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Tsq8RfQvzVaZml7jiODl5R9aPRcE8fjF/view)
+i) (2 punti) Stimare il limite superiore della potenza che può mai essere emessa in onde gravitazionali da un sistema binario in orbita.
+
+I rilevatori di onde gravitazionali sulla Terra funzionano misurando la cosiddetta deformazione dell'onda gravitazionale $\epsilon(t)$ nel tempo, che caratterizza la deformazione dello spazio-tempo. Elaborando i dati si ottiene la massima deformazione $\epsilon$ e la corrispondente frequenza dell'onda $f$. Con l'aiuto di un modello teorico dello spazio-tempo, si può poi determinare la densità di energia $u$ associata all'onda.
+
+Utilizzeremo l'analogia con la elasticità lineare per esaminare questo modello.
+
+ii) (1,5 punti) Derivare la densità di energia $u = u(\epsilon,E)$ in una cintura elastica uniformemente allungata, espressa in termini della deformazione $\epsilon$ e del modulo elastico (di Young) $E$.
+
+iii) (1,5 punti) Usare l'analisi dimensionale per stimare il modulo elastico dipendente dalla frequenza dello spazio-tempo $E(f)$ in termini della costante gravitazionale universale $G$, della velocità della luce $c$ e della frequenza dell'onda gravitazionale $f$.
+
+iv) (2 punti) Stimare la massima distanza
+$z = z(\epsilon,f)$ dalla Terra alla sorgente delle onde gravitazionali in funzione della deformazione $\epsilon$ e della frequenza $f$. Utilizza i modelli derivati in precedenza in questo problema.
 
 
 

@@ -909,7 +909,7 @@ The Commission has also adopted a number of proposals for the implementation of 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of mechanical systems used in the manufacture of the motor vehicle:
+**Q26.** *(Mechanics/oscillations question — see the Mechanics block.)*
 
 **Topic:** [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]

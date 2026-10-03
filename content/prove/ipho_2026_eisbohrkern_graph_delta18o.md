@@ -41,21 +41,15 @@ Il diagramma è utilizzato per ricavare la relazione di calibrazione tra il rapp
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a directive on the protection of the environment and the environment of the environment.
+*Graphical attachment for the problem "Eisbohrkern" (ice core) from the German selection for the IPhO, Round 1, year 2026.*
 
-The file contains a single experimental diagram (no test of the problem): the size of the isotope $\delta^{18}\mathrm{O}$ (in ‰, per thousand) of the samples of the ice and the report in function of the temperature $T$ (in ° C).
+The file contains a single experimental diagram (no problem text): the isotopic quantity $\delta^{18}\mathrm{O}$ (in ‰, per mille) of ice samples is plotted as a function of temperature $T$ (in °C).
 
 <!--fig:start-->
 ![[_attachments/IPhO_2026_eisbohrkern_graph_delta18o/IPhO_2026_eisbohrkern_graph_delta18o_p1_f1.png]]
-The following is a diagram of the dispersion: $\delta^{18}\mathrm{O}$ (in ‰) in function of temperature $T$ (in °C); correlazione positiva approssimativamente lineare.*
+*Scatter plot: $\delta^{18}\mathrm{O}$ (in ‰) versus temperature $T$ (in °C); approximately linear positive correlation.*
 <!--fig:end-->
 
-The diagram is used to calculate the calibration ratio of the oxygen-18 in the ice and the temperature of formation, based on paleothermometry of the ice.
+The diagram is used to determine the calibration relationship between the oxygen-18 isotopic ratio in ice and the formation temperature, forming the basis of ice core paleothermometry.
 
-> ️ Note: the PDF contains only the diagram; the complete text of the question is not present in this file. Open the font by reading the graph.
-
-**Topic:** [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Curve Fitting (competenza)|Curve Fitting]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1glRc0JyJsuqGOE5ET-et65dOCr_UClDN/view)
+> ⚠️ Note: The PDF contains only the diagram; the complete problem text is not present in this file. Open the source to read the graph.

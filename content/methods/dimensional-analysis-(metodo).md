@@ -13,4 +13,4 @@ tags:
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/27.json" data-count="707"></div>
+<div class="paged-list" data-src="cl/26.json" data-count="707"></div>

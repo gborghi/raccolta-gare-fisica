@@ -313,26 +313,16 @@ and additionally neglect frictional effects.
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 3 (10 punti)
-Racket volante
-Dopo aver perso una partita, un giocatore lancia la sua racket di badminton in un arco alto.
-Il grafico mostra il risultante movimento osservabile dei punti P e
-Q segnato nella figura accanto. I dati segnati nel grafico sono snapshots a intervalli di tempo di $50\ \text{ms}$ ciascuno, iniziando al lancio a $x = 0$. You may assume that the motion of the racket takes place entirely in the $x$-$y$ plane of the
-- Graph.
-3.a) Riconquistare il percorso del centro di massa S della racket
-e lo trattiene anche sul grafico. Determina le distanze dei punti P e Q dal centro di massa.
-3.b) Determina la velocità di lancio della racket
-La direzione orizzontale e verticale e la direzione
-Frequenza con cui il razzo ruota in volo.
-Per l'analisi è possibile scaricare i data points as a table
-www.ipho.info e lavorare con loro. Per
-the acceleration due to gravity you may use the value $g = 9{,}81\ \text{m s}^{-2}$
-e inoltre negliggono gli effetti frattori.
+Racchetta in volo
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
+Dopo aver perso un incontro, un giocatore getta via la sua racchetta da badminton in un arco alto.
+Il grafico mostra il moto osservabile dei punti P e Q contrassegnati nella figura a fianco. I dati puntuali nel grafico sono fotografie istantanee ad intervalli di tempo di $50\ \text{ms}$ ciascuno, iniziando dal lancio a $x = 0$. Si può assumere che il moto della racchetta avvenga interamente nel piano $x$-$y$ del grafico.
+
+3.a) Ricostruisci il percorso del centro di massa S della racchetta e disegnalo anche nel grafico. Determina le distanze dei punti P e Q dal centro di massa.
+
+3.b) Determina la velocità iniziale della racchetta sia nella direzione orizzontale che verticale, nonché la frequenza con cui la racchetta ruota durante il volo.
+
+Per l'analisi puoi scaricare i punti dati come tabella dal sito www.ipho.info e lavorarci. Per l'accelerazione di gravità puoi usare il valore $g = 9{,}81\ \text{m s}^{-2}$ e inoltre trascurare gli effetti dell'attrito.
 
 
 
@@ -512,33 +502,30 @@ work well togethe
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 4 (10 punti)
-A Question of Temperature
-Il tè è parte integrante della cultura giapponese. Un ruolo importante nella preparazione del tè è giocato dalla temperatura
-dell'acqua usata. In questo problema si deve indagare sul raffreddamento dell'acqua sperimentalmente,
-Per stimare quanto tempo si dovrebbe lasciare che l'acqua bollente si raffreddi prima di preparare un tè verde.
-Per l'esperimento, hai bisogno di una vasca da tè o, in alternativa, di un grande mug, acqua calda, un termometro e un orologio per misurare il tempo. Il termometro dovrebbe misurare temperature fino a circa $50\ ^\circ\text{C}$ e
-essere in grado di essere immersi nell'acqua.
-4.a) Riempire $50\ ^\circ\text{C}$ acqua calda nella teapot o nella tazza. Record the temperature of the water in
-il veicolo in funzione del tempo. You may restrict yourself to a temperature range from $45\ ^\circ\text{C}$
-a circa $5\ ^\circ\text{C}$ above room temperature. Non dimenticare di mescolare regolarmente l'acqua durante l'esperimento.
-Se la temperatura di un corpo non deviano troppo fortemente dalla temperatura ambientale, la legge di Newton del raffreddamento si mantiene ad una buona
-Approximation. Secondo lui, la potenza con cui il calore viene rilasciato all'ambiente circostante è approssimativamente proporzionale alla differenza di temperatura tra il corpo e l'ambiente circostante. Cosa significa esattamente "non deviare troppo fortemente" dipende dal concreto
-Casi, tra le altre cose, su quanto accurata sia l'approssimazione. Dal principio di raffreddamento, per le condizioni ambientali costanti, la relazione
-$$\vartheta(t) = \vartheta_U + (\vartheta_0 - \vartheta_U) \cdot e^{-t/\tau}$$
-can be derived* for the evolution of the temperature $\vartheta$ of the body. Qui $t$ denota il tempo, $\tau$ la costante di tempo del raffreddamento, $\vartheta_U$ la temperatura ambientale presunta di essere costante, e $\vartheta_0$ il
-temperatura del corpo a tempo $t = 0$.
-4.b) Mostra che i tuoi valori misurati soddisfano circa la relazione sopra e determina la costante di tempo $\tau$ del raffreddamento nel tuo
-- Esperienza.
-4.c) Usando il time constant, estimate roughly how long it takes for boiling water to cool to a temperature of $70\ ^\circ\text{C}$ for the preparation of green tea in your pot or your mug. Justify why your result is to be expected non essere molto accurate e
-L'acqua effettivamente raffreddata più velocemente.
-*The derivation is not required here — but feel free to try it out.
-Problema minore (10 punti)
+Una questione di temperatura
+
+Il tè è parte integrante della cultura giapponese. Un ruolo fondamentale nella preparazione del tè è svolto dalla temperatura dell'acqua utilizzata. In questo problema si deve investigare sperimentalmente il raffreddamento dell'acqua, al fine di stimare per quanto tempo si dovrebbe lasciare raffreddare l'acqua bollente prima di preparare un tè verde.
+
+Per l'esperimento ti servono: una teiera o, alternativamente, una grande tazza da caffè, acqua calda, un termometro e un orologio per misurare il tempo. Il termometro deve essere in grado di misurare temperature fino a circa $50\ ^\circ\text{C}$ e poter essere immerso nell'acqua.
+
+4.a) Versa circa $50\ ^\circ\text{C}$ di acqua calda nella teiera o nella tazza. Registra la temperatura dell'acqua nel recipiente in funzione del tempo. Puoi limitarti a un intervallo di temperatura compreso tra $45\ ^\circ\text{C}$ e circa $5\ ^\circ\text{C}$ sopra la temperatura ambiente. Non dimenticare di mescolare regolarmente l'acqua durante l'esperimento.
+
+Se la temperatura di un corpo non si discosta eccessivamente da quella ambiente, vale con buona approssimazione la legge del raffreddamento di Newton. Secondo questa, la potenza con cui il calore viene ceduto all'ambiente è approssimativamente proporzionale alla differenza di temperatura tra il corpo e l'ambiente. Che cosa esattamente "non si discosti eccessivamente" significhi dipende, nel caso concreto, tra l'altro da quanto accurata deve essere l'approssimazione. Dalla legge del raffreddamento, in condizioni ambientali costanti, si ricava la relazione
+$$\vartheta(t) = \vartheta_U + (\vartheta_0 - \vartheta_U) \cdot e^{-t/\tau}$$ può essere derivata* per l'evoluzione della temperatura $\vartheta$ del corpo. Qui $t$ indica il tempo, $\tau$ la costante temporale del raffreddamento, $\vartheta_U$ la temperatura ambiente supposta costante e $\vartheta_0$ la temperatura del corpo al tempo $t = 0$.
+
+4.b) Dimostra che i tuoi valori misurati soddisfano approssimativamente la relazione precedente e determina la costante temporale $\tau$ del raffreddamento nel tuo esperimento.
+
+4.c) Utilizzando la costante temporale, stima in modo approssimativo quanto tempo impiega l'acqua bollente a raffreddarsi fino alla temperatura di $70\ ^\circ\text{C}$ per la preparazione del tè verde nella tua pentola o nel tuo boccale. Giustifica perché il risultato ottenuto non è da aspettarsi molto accurato e l'acqua si raffredda effettivamente più velocemente.
+
+*La derivazione non è richiesta qui — ma sentiti libero di provare.
+
+Problema per giovani (10 punti)
 Tutto in equilibrio
-Per un cellulare, cinque chimes del vento sono appesi come mostrato nella figura. Il
-La massa totale di tutti i chimes insieme è $1{,}00\ \text{kg}$. Le masse dei bastoni e dei fili del
-il mobile può essere trascurato.
-Determine what masses $m_1$ to $m_5$ the individual chimes must have in modo che il mobile is in
-- Equilibrio.
+
+Per un mobile, cinque campanelli sono appesi come mostrato nella figura. La massa totale di tutti i campanelli insieme è $1{,}00\ \text{kg}$. Le masse delle aste e dei fili del mobile possono essere trascurate.
+
+Determina quali masse $m_1$ e $m_5$ devono avere i singoli campanelli affinché il mobile sia in equilibrio.
+
 P
 S
 Q
@@ -547,7 +534,7 @@ $m_2$
 $m_3$
 $m_4$
 $m_5$
-10cm
+10 cm
 1
 2
 3
@@ -557,122 +544,52 @@ $m_5$
 7
 1
 2
-3
-x / m
-y / m
-g
-Racket di badminton con punti.
-La posizione del centro di massa S su PQ è
-- Non lo so.
-- Un teapot giapponese.
-Sketch a scala del cellulare.
-Grafico delle trajectorie dei punti P (●) e Q (x) durante il periodo di riferimento
-Il volo.
-Registrare ora a
-www.ipho.info
-www.ipho.info
-per il
-La concorrenza!
-sciencesolymppiaden.de
+3 x / m y / m g
+
+Racchetta da badminton con segni puntati.
+La posizione del centro di massa S su PQ è sconosciuta.
+Tèiera giapponese.
+Disegno in scala del mobile.
+Grafico delle traiettorie dei punti P (●) e Q (x) durante il volo.
+
+Iscrizione immediata su www.ipho.info www.ipho.info per la competizione!
+scienceolympiaden.de
 Mostra il tuo talento!
 Studenti
-Se sei uno studente, l'IPhO e l'Olimpiade di Fisica in
-La Germania offre molte opportunità
-a impegnarsi intensamente con le domande di fisica, a sperimentare la fisica
-Come una disciplina scientifica eccitante,
-per testare i tuoi limiti
-e non ultimo per conoscere persone interessanti.
-Per i round di competizione ci sono materiali di apprendimento e problemi di formazione che
-aiutarti a approfondire le tue conoscenze e le tue capacità di risoluzione dei problemi. Al seminario
-incontrerai molti altri studenti entusiasti di fisica.
-In ogni caso, è quindi utile prendere parte.
-e indipendentemente dal fatto che tu lo faccia in
-- Rondate superiori. Ciò che importa è
-- partecipare. Completare con successo
-Il primo round è già un risultato speciale e una vera distinzione.
-Allora, be brave!
-Docenti
-Come insegnante, con i problemi della PhysicsOlympiad puoi offrire una sfida
-a studenti particolarmente capaci o interessati alla fisica
-e incoraggiarli a impegnarsi più profondamente
-con argomenti di fisica. In questo modo la PhysicsOlympiad può
-Serve come strumento di sostegno individuale.
-In particolare, i problemi del 1°
-Le reti di trasporto a rotonde sono adatte non solo per il
-- Il migliore di una classe.
+Se sei uno studente, l'IPhO e la FisicaOlimpiade in Germania ti offrono numerose opportunità per impegnarti intensamente con problemi di fisica, sperimentare la fisica come una disciplina scientifica affascinante, metterti alla prova e non da ultimo conoscere persone interessanti.
 
-Con le sue offerte variate, il
-PhysicsOlympiad mira ad attrarre ampiamente i giovani interessati
-e di ispirarli duratamente per il
-Scienze naturali. Questo è servito da
-offerte di supporto come i seminari di Orpheus
-e i materiali che accompagneranno il primo round,
-con cui vogliamo supportarti nell'introduzione
-- E' un'occasione per i nostri studenti.
-Quindi sentitevi liberi di incoraggiare i vostri studenti
-per il
-Solo chi non partecipa può perdere.
+Per le varie fasi della gara sono disponibili materiale didattico e problemi di allenamento che ti aiutano a approfondire le tue conoscenze e le tue capacità risolutive. Ai seminari incontrerai molti altri studenti appassionati di fisica.
+
+Partecipare quindi vale sempre la pena, indipendentemente dal fatto che tu riesca a superare le fasi successive. Ciò che conta è partecipare. Superare con successo la prima fase rappresenta già un risultato speciale e una vera distinzione.
+
+Allora, sii coraggioso!
+
+Insegnanti
+Come insegnante, con i problemi della FisicaOlimpiade puoi offrire una sfida agli studenti particolarmente dotati o interessati alla fisica e incoraggiarli a approfondire maggiormente gli argomenti di fisica. In questo modo la FisicaOlimpiade può fungere da strumento di sostegno personalizzato.
+
+In particolare, i problemi della prima fase sono adatti non solo ai migliori di una classe.
+
+Con la sua offerta variegata, la FisicaOlimpiade mira a coinvolgere ampiamente giovani appassionati e ispirarli in modo duraturo alle scienze naturali. A questo scopo contribuiscono le offerte di supporto come i seminari Orpheus e i materiali accompagnatori per la prima fase, con cui vogliamo aiutarti a presentare gli argomenti della FisicaOlimpiade.
+Sentitevi liberi di incoraggiare i vostri studenti a partecipare; solo chi non partecipa può perdere.
+
 Scuole
-Le scuole possono aumentare il loro profilo incoraggiando
-Partecipazione a competizioni
-e usali nel senso di un arricchimento come complemento alla scuola
-offerte. Competitions provide
-ambienti di apprendimento diversificati per gli studenti partecipanti.
-In questo settore, la
-Le Olimpiadi, almeno in seguito
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le parti sociali, quali le parti sociali, le parti sociali e le parti sociali, siano
-Giovani di alto livello. Tuttavia, partecipare
-Quindi in entrata round non è solo
-La Commissione ha adottato una decisione che non è stata adottata.
-L'entusiasmo per i temi STEM è duraturo.
-Offerte come le Orpheus seminari consentono il supporto di un
-Numero di partecipanti.
-In molti stati federali, comunque, la partecipazione può essere riconosciuta come un'impresa speciale di apprendimento o
-Paper di seminario/specialista dei vostri studenti
-per l'abitur.
-Interessato a più
-- che la fisica?
-L'IPhO è uno dei sei concorsi scientifici di studenti nazionali organizzati dall'IPN  il
-Scienza olimpiadi. Oltre alla selezione
-Competitions for the International
-Olimpiadi in biologia (IBO), chimica
-(IChO) e fisica (IPhO), questi includono
-La Commissione ha inoltre adottato una proposta di regolamento (CE) n.
-Concorso federale per l'ambiente (BUW). Insieme si indirizzano
-studenti dall'inizio
-di scuola secondaria fino a dopo la fine
-di anni scolastici e, con
-La rete, offrono la possibilità di
-sostenere duratamente le capacità e gli interessi scientifici.
-Informazioni aggiuntive:
-www.scienceolympiaden.de
-Molti buoni motivi per partecipare al PhysicsOlympiad
-Cari studenti,
-Cari genitori, cari insegnanti,
-come viene a essere un vaccino efficace? Come produciamo il verde
-- L'idrogeno? Come vengono le immagini di pesci ghiacciati in panchina
-E cosa segue dalla scoperta? Le domande che i ricercatori e gli scienziati femminili e maschi
-sono preoccupati per il fatto che oggi forma le nostre vite
-di domani. Ecco perché è importante capire come i molti intelligenti
-Le persone che lavorano in scienza e ricerca
-le domande e le idee giuste, e come mettono i loro risultati
-La pratica.
-Con le competizioni organizzate dall'Istituto Leibniz per la scienza e la tecnologia
-Matematica Education, vi invitiamo
-per un viaggio di scoperta nel regno della scienza. Più di
-10.000 studenti provenienti da tutto il paese imbarcarsi
-"On this adventure every year and register for the Science and Technology" (Scienza e tecnologia)
-Olimpiadi e il concorso federale per l'ambiente.
-Cari studenti,
-Questa è la tua occasione. - Si unisca. Solvere problemi eccitanti
-da biologia, chimica e fisica, o lavorare sulle proprie domande
-La Commissione ha adottato una proposta di risoluzione sullo sviluppo sostenibile. Usare il tuo allarme
-mente, dare la tua creatività, e ispirarti e
-altri. Per quanto importante sia un'intelligenza, è l'abilità di
-Work well togethe
+Le scuole possono rafforzare il proprio profilo incoraggiando la partecipazione alle competizioni e utilizzarle nel senso di un arricchimento, come complemento alle offerte scolastiche. Le competizioni offrono ambienti di apprendimento variati e differenziati per gli studenti che partecipano.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RaDn_iXNjAnWQlaqgEuc6X35XMQHD34Y/view)
+Nel campo delle materie STEM, le Olimpiadi rappresentano, almeno nelle fasi successive, una competizione rivolta a giovani particolarmente motivati e di alto livello. Tuttavia, partecipare anche alle fasi iniziali non è soltanto utile, ma può contribuire a un interesse duraturo per gli argomenti STEM.
+
+Iniziative come i seminari Orpheus consentono di sostenere un gran numero di partecipanti.
+
+A proposito, in molti stati federali la partecipazione può essere riconosciuta come un'attività formativa speciale o una tesina specialistica/semestrale per gli studenti che conseguono il diploma di maturità.
+
+Interessati anche a qualcosa oltre la fisica?
+L'IPhO è una delle sei competizioni scientifiche nazionali organizzate dall'IPN — le Olimpiadi della Scienza. Oltre alle selezioni per le olimpiadi internazionali di Biologia (IBO), Chimica (IChO) e Fisica (IPhO), queste includono anche l'Olimpiade Internazionale di Scienze per Giovani (IJSO), l'Olimpiade Europea della Scienza (EOES) e altre.
+Concorso federale per l’ambiente (BUW). Insieme, essi si rivolgono agli studenti dal primo anno della scuola secondaria fino dopo la fine del loro percorso scolastico e, grazie a una stretta collaborazione, offrono la possibilità di un sostegno duraturo delle capacità e degli interessi scientifici.
+
+Ulteriori informazioni su:
+www.scienceolympiaden.de
+
+Molte buone ragioni per partecipare alla Olimpiade della Fisica
+Cari studenti, cari genitori, cari insegnanti, come si sviluppa un vaccino efficace? Come produciamo idrogeno verde? Come si ottengono le immagini di pesci ghiaccioli pensierosi e quali conseguenze ne derivano? Le domande con cui si confrontano oggi scienziate e scienziati, uomini e donne, plasmano la nostra vita di domani. È per questo che è importante capire come lavorano le tante persone intelligenti nel campo della scienza e della ricerca, quali domande e idee si pongono e come mettono in pratica i loro risultati.
+
+Con le gare organizzate dall'Istituto Leibniz per l'educazione alla scienza e alla matematica, vi invitiamo a un viaggio di scoperta nel mondo della scienza. Ogni anno più di 10.000 studenti provenienti da tutta la Germania intraprendono questa avventura e si iscrivono alle Olimpiadi della Scienza e al Concorso federale per l’ambiente.
+Cari studenti, ecco la vostra occasione. Partecipate. Risolvete problemi affascinanti di biologia, chimica e fisica, oppure lavorate su domande personali riguardanti l'ambiente e lo sviluppo sostenibile. Usate la vostra mente attenta, lasciate libero spazio alla creatività e ispiratevi a vicenda. Perché, così come è importante avere un cervello brillante, altrettanto lo è la capacità di lavorare bene insieme.

@@ -53,36 +53,29 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Pietra in un bicchiere d'acqua (problema MC)
-(cfr.
-Un bicchiere pieno di acqua di densità
-$1000\ \text{kg/m}^3$ stands on a balance. Mettendo un pezzo di massa su di esso, il equilibrio viene portato in equilibrio.
-Ora, come mostrato nella figura, una pietra con un
-volume di $300\ \text{cm}^3$ e a density di $3000\ \text{kg/m}^3$ è
-immerso nell'acqua, appeso a un filo sottile attaccato a un stand,
-senza toccare il fondo.
-Quale delle seguenti affermazioni è corretta?
-?
-Per mettere in equilibrio il bilancio, bisogna fare un'azione. . .
-A . . . Non fare nulla, poiché il bilancio resta in equilibrio.
-B . . . Place a mass piece of mass $0{,}3\ \text{kg}$ on the left side of the balance.
-C . . . Place a mass piece of mass $0{,}6\ \text{kg}$ on the left side of the balance.
-D . . . Place a mass piece of mass $0{,}9\ \text{kg}$ on the left side of the balance.
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
+Problema 1 Pietra in un bicchiere d'acqua (problema a scelta multipla)
+(5 punti)
 
+Un bicchiere riempito d'acqua di densità $1000\ \text{kg/m}^3$ è posto su una bilancia. Aggiungendo un pezzo di massa, si riporta la bilancia in equilibrio.
+
+Ora, come mostrato nella figura, una pietra di volume $300\ \text{cm}^3$ e densità $3000\ \text{kg/m}^3$ viene immersa nell'acqua, appesa a un sottile filo fissato a un supporto, senza toccare il fondo.
+
+Quale delle seguenti affermazioni è corretta?
+Per riportare la bilancia in equilibrio, si deve...
+
+A ... non fare nulla, poiché la bilancia rimane in equilibrio.
+B ... posizionare un pezzo di massa di massa $0{,}3\ \text{kg}$ sul lato sinistro della bilancia.
+C ... posizionare un pezzo di massa di massa $0{,}6\ \text{kg}$ sul lato sinistro della bilancia.
+D ... posizionare un pezzo di massa di massa $0{,}9\ \text{kg}$ sul lato sinistro della bilancia.
+
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/52_IPhO_2022_2Rd_Aufgaben/52_IPhO_2022_2Rd_Aufgaben_p2_f1.png]]
 *balance with glass of water and stone*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
 
 
@@ -144,17 +137,17 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 Umido aria del bagno (problema MC)
-(cfr.
-Dopo una lunga doccia, il
-temperatura in bagno è $28\ ^\circ\text{C}$
-e l'umidità relativa è
+Problema 2 Aria umida nel bagno (problema a scelta multipla)
+(5 punti)
+
+Dopo una lunga doccia, la temperatura nel bagno è $28\ ^\circ\text{C}$ e l'umidità relativa è
 80 %.
-Il numero adiacente mostra il
-saturazione curva di pressione del vapore per il vapore d'acqua. It gives the maximum water vapor pressure $p_\text{sat}$ that is possible at a temperature $\vartheta$ before the
-vapor d'acqua nel condensatore d'aria.
-Quanto vapore d'acqua (in $\text{g/m}^3$) è presente nell'aria del bagno?
-Per la massa molar di acqua utilizzare il valore $M_\text{Wasser} = 18{,}0\ \text{g/mol}$.
+
+La figura adiacente mostra la curva della pressione di vapore saturo per il vapore acqueo. Essa indica la massima pressione del vapore acqueo $p_\text{sat}$ che può essere presente nell'aria a una temperatura $\vartheta$ prima che il vapore acqueo si condensi.
+
+Quanta quantità di vapore acqueo (in $\text{g/m}^3$) è presente nell'aria del bagno?
+Per la massa molare dell'acqua usare il valore $M_\text{Wasser} = 18{,}0\ \text{g/mol}$.
+
 5
 10
 15
@@ -172,26 +165,21 @@ Per la massa molar di acqua utilizzare il valore $M_\text{Wasser} = 18{,}0\ \tex
 7
 $\vartheta/^\circ\text{C}$
 $p_\text{sat}/10^3\ \text{Pa}$
-Fig. 1. Saturation vapor pressure curve per vapore d'acqua.
-A about $22\ \text{g/m}^3$
-B about $27\ \text{g/m}^3$
-C about $2{,}3\cdot10^2\ \text{g/m}^3$
-D about $3{,}0\cdot10^3\ \text{g/m}^3$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
+Fig. 1. Curva della pressione di vapore saturo per il vapore acqueo.
 
+A circa $22\ \text{g/m}^3$
+B circa $27\ \text{g/m}^3$
+C circa $2{,}3\cdot10^2\ \text{g/m}^3$
+D circa $3{,}0\cdot10^3\ \text{g/m}^3$
+
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/52_IPhO_2022_2Rd_Aufgaben/52_IPhO_2022_2Rd_Aufgaben_p3_f2.png]]
 *saturation vapor pressure curve vs temperature*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
 
 
@@ -226,27 +214,21 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Casso di esoplanet (problema MC)
-(cfr.
-On the surface of an extrasolar planet - exoplanet for short - the fall time of a body
-from a small height $h$, neglecting all friction effects, is exactly twice as large as
-sulla Terra.
-Which of the following statements is compatible with this, assuming a spherically symmetric
-La struttura dell'esoplaneta?
-Il pianeta è morto . . .
-A . . . metà della massa terrestre e due volte il raggio terrestre.
-B . . . esattamente la massa della Terra e quattro volte il raggio della Terra.
-C . . . Due volte la massa della Terra e due volte il raggio della Terra.
-D . . . quattro volte la massa della Terra e quattro volte il raggio della Terra.
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
+Problema 3 Caduta su un esopianeta (problema a scelta multipla)
+(5 punti)
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
+Sulla superficie di un pianeta extrasolare – per brevità esopianeta – il tempo di caduta di un corpo da una piccola altezza $h$, trascurando ogni effetto di attrito, è esattamente il doppio rispetto a quello sulla Terra.
+Quale delle seguenti affermazioni è compatibile con questo fatto, assumendo una struttura sfericamente simmetrica dell'esopianeta?
+L'esopianeta ha...
+
+A . . . metà della massa della Terra e il doppio del raggio della Terra.
+B . . . esattamente la stessa massa della Terra e quattro volte il raggio della Terra.
+C . . . il doppio della massa della Terra e il doppio del raggio della Terra.
+D . . . quattro volte la massa della Terra e quattro volte il raggio della Terra.
+
+Sezione risposta
+Calcoli ed spiegazioni
+Risposta corretta:
 
 
 
@@ -340,35 +322,25 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 Pendolo in ascensore (problema MC)
-(cfr.
-Due elevator cabins di masse $m_A$ e $m_B$ con $m_A < m_B$ hang from the ends of a long rope that runs over a fixed pulley.
-La massa della polla e della corda può essere trascurata. In la cabina sinistra appeso un pendolo di stringhe di
-lunghezza $\ell$. Con le cabine a riposo e per piccole deflezioni,
-il periodo del pendolo è $T$.
-Quando le cabine sono rilasciate, si muovono senza attrito sotto l'influenza della gravità.
-How must the length $\ell'$ of the string pendulum in the left cabin
-essere scelto in modo che, dopo che la cabina è rilasciata, oscilla con
-Periodo $T$?
+Problema 5 Pendolo in un ascensore (problema a scelta multipla)
+(5 punti)
+Due cabine dell'ascensore di masse $m_A$ e $m_B$ con $m_A < m_B$ sono appese agli estremi di una lunga fune che passa sopra una carrucola fissa.
+La massa della carrucola e della fune può essere trascurata. Nella cabina di sinistra è appeso un pendolo semplice di lunghezza $\ell$. Quando le cabine sono ferme e per piccole deviazioni, il periodo del pendolo è $T$.
+Quando le cabine vengono rilasciate, si muovono senza attrito sotto l'azione della gravità.
+Come deve essere scelta la lunghezza $\ell'$ del pendolo nella cabina di sinistra affinché, dopo il rilascio della cabina, esso oscilli con periodo $T$?
 A $\ell' = \dfrac{m_A}{m_B}\,\ell$
 B $\ell' = \dfrac{2m_A}{m_A+m_B}\,\ell$
 C $\ell' = \dfrac{2m_B}{m_A+m_B}\,\ell$
 D $\ell' = \dfrac{m_B}{m_A}\,\ell$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
 
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/52_IPhO_2022_2Rd_Aufgaben/52_IPhO_2022_2Rd_Aufgaben_p7_f3.png]]
 *pulley with cabins and pendulum*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
 
 
@@ -409,33 +381,29 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6 Spectra (problema MC)
-(cfr.
-The atoms of a fictitious element occupy states on the energy levels
-$$E_n = -\frac{C}{n^2} \quad \text{mit} \quad n = 1, 2, \ldots$$
-dove $C$ è una costante. Only the lines of the series of transitions to the ground state $n = 1$
-Si trovava nella gamma ottica, ma questi completamente.
-Quale dei spettrini mostrati di seguito, scalato linearmente in lunghezza d'onda, rappresenta correttamente le linee di emissione dell'elemento descritto?
+Problema 6 Spettri (problema a scelta multipla)
+(5 punti)
+
+Gli atomi di un elemento fittizio occupano stati sui livelli energetici
+$$E_n = -\frac{C}{n^2} \quad \text{mit} \quad n = 1, 2, \ldots$$ dove $C$ è una costante. Solo le righe della serie di transizioni allo stato fondamentale $n = 1$ si trovano nell'intervallo ottico, ma queste completamente.
+
+Quale degli spettri mostrati qui sotto, con scala lineare della lunghezza d'onda, rappresenta correttamente le righe di emissione dell'elemento descritto?
+
 A
 B
 C
 D
-Fig. 2. Spettro di emissione ottica.
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
 
+Fig. 2. Spettri di emissione ottica.
+
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/52_IPhO_2022_2Rd_Aufgaben/52_IPhO_2022_2Rd_Aufgaben_p9_f4.png]]
-*optical emission spectra A B C D *
+*optical emission spectra A B C D*
 <!--fig:end-->
-
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
 
 
@@ -472,29 +440,24 @@ that it is easy to follow but not unnecessarily long. So if, for example, you us
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 7 STOPING GLOBAL WARMING (problema MC)
-(cfr.
-Lo scienziato pazzo Knox ha trovato un metodo per fermare il riscaldamento globale.
-To do so, he wants to increase the radius $r$ of Earth's orbit, assumed to be circular, by 1.0 %.
-By how much could the mean temperature $T$ at Earth's surface, which is currently about $15\ ^\circ\text{C}$,
-circa diminuire come risultato?
+Problema 7 Fermare il riscaldamento globale (problema a scelta multipla)
+(5 punti)
+
+Il pazzo scienziato Knox ha trovato un metodo per fermare il riscaldamento globale.
+Per farlo, vuole aumentare il raggio $r$ dell'orbita della Terra, supposta circolare, del 1,0 %.
+Di quanto potrebbe diminuire approssimativamente la temperatura media $T$ alla superficie terrestre, che attualmente è di circa $15\ ^\circ\text{C}$?
+
 A circa 0,7 K
 B circa 1,4 K
 C circa 2,8 K
 D circa 5,6 K
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-Problemi di risposta lunga
-Work on the following three problems similarly in the boxes provided. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivi il tuo metodo di soluzione in questo modo:
-che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si usa la legge della conservazione dell'energia, scrivete brevemente.
 
-**Topic:** [[Astrophysics]], [[Thermodynamics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
+Sezione risposte
+Calcoli e spiegazioni
+Risposta corretta:
+
+Problemi a risposta lunga
+Svolgere i seguenti tre problemi nello spazio fornito, seguendo lo stesso metodo. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivere brevemente il metodo di soluzione in modo chiaro ma non eccessivamente lungo. Ad esempio, se si utilizza la conservazione dell'energia, indicarlo in modo conciso.
 
 
 
@@ -538,36 +501,21 @@ Calculations and explanations
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Indice refrattivo negativo
-(cfr.
-Alcuni materiali possedono, solitamente per una gamma di lunghezza d'onda ristretta di radiazioni elettromagnetiche, un indice di refrazione negativo. Quando un raggio di luce passa da un mezzo
-con un indice di refraczione $n_1 > 0$ into a medium with a refractive index $n_2 < 0$, the law of refraction
-contiene:
+Problema 8 Indice di rifrazione negativo (10 punti)
+Alcuni materiali presentano, di solito in un ristretto intervallo di lunghezze d'onda della radiazione elettromagnetica, un indice di rifrazione negativo. Quando un raggio luminoso passa da un mezzo con indice di rifrazione $n_1 > 0$ a un mezzo con indice di rifrazione $n_2 < 0$, la legge della rifrazione continua a valere:
 $$n_1 \sin\alpha_1 = n_2 \sin\alpha_2 \, .$$
-Tuttavia, l'angolo $\alpha_2$ è quindi negativo.
-Un oggetto molto piccolo è situato, come disegnato accanto, a una distanza $a$ di fronte a un grande oggetto.
-Slab di spessore $d$, made of a material with refractive index $-1$. Il tasso di refrazione del
-Rest of space è 1.
-Construct the image of the object
-Da vedere dall'altra parte della slab. Stato in cui il
-l'immagine è situata, che magnificazione ha,
-l'immagine è reale o virtuale, mirrored o rotated.
-In tal modo, si deve tenere conto che $a$ può prendere qualsiasi positivo
-Valore.
+Tuttavia, l'angolo $\alpha_2$ risulta allora negativo.
+Un oggetto molto piccolo si trova, come mostrato nel disegno accanto, a una distanza $a$ davanti a un grosso strato di spessore $d$, realizzato con un materiale avente indice di rifrazione $-1$. L'indice di rifrazione del resto dello spazio è 1.
+Costruire l’immagine dell’oggetto visibile dall’altro lato dello strato. Indicare dove si trova l’immagine, quale ingrandimento ha, se è reale o virtuale, capovolta o ruotata.
+Nel farlo, tenere presente che $a$ può assumere qualsiasi valore positivo.
 $n = -1{,}00$
 $d$
-Object
+Oggetto
 $a$
 $n = 1{,}00$
 $n = 1{,}00$
-Answer section
+Sezione risposta
 Calcoli e spiegazioni
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1gYSSbF6hSz7oCDo0yTxxZPDXGSoLbAJV/view)
 
 
 
@@ -677,7 +625,7 @@ rivoluzioni raggiungono il bordo del dispositivo, dove lasciano il ciclotrone (c
 Considera un ciclotrone come quello sviluppato dal suo inventore E.O. Lawrence alla fine degli anni '30. Gli elettrodi del ciclotrone avevano un raggio di $R = 0{,}76\ \text{m}$, e la
 densità di flusso magnetico, approssimativamente costante sulla sezione trasversale del ciclotrone, era $B = 0{,}71\ \text{T}$.
 Nel ciclotrone venivano accelerati protoni con carica $e = 1{,}602 \cdot 10^{-19}\ \text{As}$ e massa $m =
-1{,}673 \cdot 10^{-27}\ \text{kg}$. L'ampiezza della tensione ad alta frequenza era $U_0 = 87\ \text{kV}$.
+1{,}673 \cdot 10^{-27}\ \text{kg}$ were accelerated. The amplitude of the high-frequency voltage was $U_0 = 87\ \text{kV}$.
 Trascura gli effetti relativistici nelle tue considerazioni.
 9.a) Ricava un'espressione per la frequenza angolare $\omega$ necessaria per accelerare i protoni
 e fornisci il valore della frequenza angolare per il dispositivo descritto. (4 punti)

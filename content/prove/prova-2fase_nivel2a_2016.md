@@ -69,101 +69,68 @@ Ensino Médio
 
 <div class="qlang-split" data-lang="it"></div>
 
-Questione 1 (esclusiva per i bambini della prima elementare) - Con l'intenzione di studiare la fluttuazione dei
-Corpi, uno studente ha utilizzato due blocchi cilindrici, di volumi $V$ e $6V$, rispettivamente, per
-costruire un pezzo unico come illustrato in figura (I). Poi la pezzo fu messa a galleggiare
-in acqua, in due modi diversi, A e B, come indicato nelle figure (II) e (III). Dopo osservazione
-E' stato molto attento, lo studente ha scoperto che in modalità A, due terzi del volume del blocco più grande è stato sommerso.
-mentre in modalità B una frazione di f del volume del blocco maggiore è stata sommersa. Determina il
-valore di f.
+Quesito 1 (esclusivo per gli studenti della prima classe) - Con l'intento di studiare la galleggiabilità dei corpi, uno studente ha utilizzato due blocchi cilindrici, di volumi $V$ e $6V$, rispettivamente, per costruire un'unica pezzo come illustrato nella figura (I). Successivamente, il pezzo è stato fatto galleggiare in acqua in due modi diversi, A e B, come mostrato nelle figure (II) e (III). Dopo un'osservazione attenta, lo studente ha verificato che nel modo A, i 2/3 del volume del blocco maggiore erano immersi, mentre nel modo B una frazione f del volume del blocco maggiore era immersa. Determinare il valore di f.
 
 Figura I
 
-Figura II (modulo A) Figura III (modulo B)
+Figura II (modo A) Figura III (modo B)
 
-Leggi attentamente le istruzioni qui sotto
+LEGGI ATTENTAMENTE LE ISTRUZIONI DI SEGUITO
 
-1 - Questo test è destinato esclusivamente agli studenti della prima e della seconda serie di istruzione secondaria.
-Contiene 12 domande.
-2 - La prova è composta da due tipi di domande:
-II) Domande di risposta aperta. In questioni di risposta diretta solo
-In caso di correzione, la risposta finale è considerata, mentre nelle domande di risposta aperta, il
-se il risultato finale non è corretto, la evoluzione può essere considerata nel punteggio
-la Commissione ha adottato una decisione che stabilisce la procedura di procedura di cui all'articolo 1, paragrafo 1, del regolamento (CE) n.
-3 - Gli studenti della prima elementare devono scegliere liberamente non più di quattro domande di
-La risposta diretta e quattro domande di risposta aperta.
-4 - Gli studenti della seconda elementare devono rispondere anche a quattro domande di risposta diretta e
-Quattro domande di risposta aperta non indicate come esclusive per
-Alunni di prima elementare.
-5 - Il Libro delle Risposte contiene istruzioni che devono essere lette con attenzione prima di
-dall'inizio della prova.
-6 - Tutti i risultati numerici devono essere espressi in unità nel sistema
-La Commissione ha adottato una decisione che non è stata adottata.
-7 - La durata di questo esame è di 4 (quattro) ore e il partecipante deve rimanere in sala per
-non più di 60 (sessanta) minuti.
-Se necessario, e salvo indicazione contraria, utilizzare:
-La velocità della luce nel vuoto = $3{,}0\times10^8$ m/s; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
+1 - Questo esame è destinato esclusivamente agli studenti delle prime e seconde classi del Liceo.
+Contiene 12 (dodici) domande.
+2 - La prova è composta da due tipi di domande: I) Domande a risposta diretta e
+II) Domande a risposta aperta. Nelle domande a risposta diretta verrà considerata solo la risposta finale nella correzione, mentre nelle domande a risposta aperta, se il risultato finale non sarà corretto, lo svolgimento potrebbe essere preso in considerazione per il punteggio finale, secondo i criteri di correzione adottati.
+3 - Gli studenti della prima classe possono scegliere liberamente al massimo quattro domande a risposta diretta e quattro domande a risposta aperta.
+4 - Gli studenti della seconda classe devono inoltre rispondere a quattro domande a risposta diretta e quattro domande a risposta aperta che non sono indicate come "esclusive per gli studenti della prima classe".
+5 - Il quaderno delle risposte contiene istruzioni che devono essere lette con attenzione prima dell'inizio della prova.
+6 - Tutti i risultati numerici devono essere espressi in unità del Sistema Internazionale e secondo le istruzioni specifiche della domanda.
+7 - La durata di questo esame è di 4 (quattro) ore, e lo studente deve rimanere in aula per almeno 60 (sessanta) minuti.
+
+Se necessario, e salvo diversa indicazione, usare:
+Velocità della luce nel vuoto = $3{,}0\times10^8$ m/s; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
 $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\sqrt{5} = 2{,}2$; $\pi$ = 3; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; 1atm = $10^5$ Pa; 1L = $1.000\ \text{cm}^3$;
-Densità di acqua liquida $\rho = 1{,}00\ \text{g/cm}^3$
-Nivel II
+Densità dell'acqua liquida $\rho = 1{,}00\ \text{g/cm}^3$
 
-Istruzione secondaria
-1a e 2a serie
+LIVELLO II
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1tHpc5GtBBzyO1JnmNj--SLcUkHDefZJF/view)
+Scuola Superiore
+prime e seconde classi
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 1 (exclusive for first-year students) - With the intention of studying the fluctuations of the
-corpos, um estudante utilizou dois blocos cilíndricos, de volumes $V$ e $6V$, respectivamente, para
-construct a single piece as illustrated in Figure (I). Then the piece was floated.
-in water, in two different modes, A and B, as shown in Figures II and III. Following the observations
-Carefully, the student found that in mode A, two-thirds of the volume of the larger block was submerged.
-whereas in mode B a fraction of f of the volume of the larger block was submerged. Determine the
-the value of f.
+Problem 1 (exclusive for first-year students) – In order to study the flotation of bodies, a student used two cylindrical blocks with volumes $V$ and $6V$, respectively, to construct a single piece as illustrated in Figure (I). Subsequently, the piece was made to float in water in two different ways, A and B, as shown in Figures (II) and (III). After careful observation, the student verified that in mode A, 2/3 of the volume of the larger block was submerged, while in mode B a fraction f of the volume of the larger block was submerged. Determine the value of f.
 
-The following table shows the following:
+Figure I
 
-The following information is provided by the Commission:
+Figure II (mode A) Figure III (mode B)
 
-Read the instructions carefully below
+READ THE INSTRUCTIONS BELOW CAREFULLY
 
-1 - This test is intended exclusively for students in the first and second grades of secondary education.
-It contains 12 questions.
-2 - The test consists of two types of questions:
-(ii) Questions for an open answer. In the direct answer questions only
-The final answer is considered in the correction, while the open-ended questions are considered in the case of
-If the final result is incorrect, the development may be considered in the score
-the final, in accordance with the correction criteria adopted.
-3 - 1st-graders must choose freely from a maximum of four questions of
-The Commission has already decided to take the necessary measures to ensure that the Commission's proposals are implemented in a timely manner.
-4 - Second-graders must also answer four questions of direct answer and
-Four open-ended questions not indicated as exclusive to
-1st grade students.
-5 - The Answer Book contains instructions which must be read carefully before
-the start of the test.
-6 - All numerical results must be expressed in units in the System
-International and following the specific instructions of the matter.
-7 - The duration of this test is 4 (four) hours and the student must remain in the room for
-at least 60 (sixty) minutes.
-If necessary, and unless otherwise stated, use:
-The speed of light in vacuum = $3{,}0\times10^8$ m/s; $g = 10\ \text{m/s}^2$; 1hp = 750 W;
-$\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\sqrt{5} = 2{,}2$; $\pi$ = 3; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; 1atm = $10^5$ Pa; 1L = $1.000\ \text{cm}^3$;
-Densidade da água líquida $\rho = 1{,}00\ \text{g/cm}^3$
-Level II
+1 - This exam is exclusively for students in the 1st and 2nd years of High School.
+It contains 12 (twelve) questions.
 
-Secondary education
-1st and 2nd series
+2 - The exam consists of two types of questions: I) Direct Response Questions and II) Open-Response Questions. In direct response questions, only the final answer will be considered during grading, whereas in open-response questions, if the final result is incorrect, partial credit may be awarded based on the correctness of the solution process according to the established grading criteria.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1tHpc5GtBBzyO1JnmNj--SLcUkHDefZJF/view)
+3 - Students in the 1st year may freely choose up to four direct response questions and up to four open-response questions.
+
+4 - Students in the 2nd year must also answer four direct response questions and four open-response questions that are not marked as "exclusive for 1st-year students."
+
+5 - The Answer Booklet contains instructions that must be carefully read before starting the exam.
+
+6 - All numerical results must be expressed in SI units and according to any specific instructions provided by the question.
+
+7 - The duration of this exam is 4 (four) hours, and students must remain in the examination room for at least 60 (sixty) minutes.
+
+If necessary, and unless otherwise specified, use:
+Speed of light in vacuum = $3{,}0\times10^8$ m/s; $g = 10\ \text{m/s}^2$; 1 hp = 750 W;
+$\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\sqrt{5} = 2{,}2$; $\pi$ = 3; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$; 1 atm = $10^5$ Pa; 1 L = $1.000\ \text{cm}^3$;
+Density of liquid water $\rho = 1{,}00\ \text{g/cm}^3$
+
+LEVEL II
+
+High School
+1st and 2nd years
 
 
 
@@ -206,19 +173,13 @@ i cubic, il volume di una piscina con una capacità massima di 27.000 litri.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2 (exclusive to 1st graders) - Metrology has evolved slowly, and with
-The European Union has a very large diversity in the Middle Ages to the current uniformity, resulting in the International System.
-of units. The first attempt at unification took place in Portugal in the
-XIV, establishing the Alna as the old unit of measurement for cloth, the length of which is
-It's three palms. Suppose that, instead of the meter, the basic unit of length
-If it were Alna. Whereas each palm is equal to 20 cm, it is determined in Alnas
-cubic feet, the volume of a pool with a maximum capacity of 27,000 litres.
+Problem 2 (exclusive for first-year students) – Metrology evolved slowly, with great diversity during the Middle Ages until achieving current uniformity, resulting in the International System of Units. The first attempt at unifying measurements occurred in Portugal in the 14th century, establishing the Alna as an ancient unit of measure for cloth, whose length corresponds to three palms. Suppose that, instead of the meter, the current basic unit of length were the Alna. Considering that each palm equals 20 cm, determine, in cubic Alnas, the volume of a swimming pool with a maximum capacity of 27,000 liters.
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1tHpc5GtBBzyO1JnmNj--SLcUkHDefZJF/view)
+(a) 1.0
+(b) 3.0
+(A.) 27.0
+(B.) 100.0
+(C.) 300.0
 
 
 
@@ -568,17 +529,7 @@ tempo $t$, la lunghezza del secondo veicolo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 8 (exclusive for first-year students) - Two vehicles are travelling in the direction of the road
-The following is the list of the types of vehicles that are used: The first at a speed $v$ and the second at a speed $v$
-The speed of the vehicle shall be $3v/2$. A passenger in the first vehicle verifies that the second vehicle carries $t$
-seconds to get through it. Determine, in terms of the speed $v$ of the first vehicle and the
-time $t$, the length of the second vehicle.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1tHpc5GtBBzyO1JnmNj--SLcUkHDefZJF/view)
+Problem 8 (exclusive for first-year students) - Two vehicles travel in opposite directions with uniform motion. The first at a speed $v$ and the second at a speed $3v/2$. A passenger in the first vehicle observes that the second vehicle takes $t$ seconds to pass by him. Determine, in terms of the speed $v$ of the first vehicle and the time $t$, the length of the second vehicle.
 
 
 

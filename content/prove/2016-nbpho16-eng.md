@@ -218,53 +218,42 @@ modulus of steel is constant in temperature.
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. MUSICA (8 punti)  Lasse Frantti.
-Una band
-- E' in tournée. La band
-suona musica mondiale progressista ed è dotata di
-con una chitarra elettrica, un organo a tubo e un tubo
-campane in acciaio. Il loro primo concerto è al Tavastiaclub di Helsinki, dove mettono in sintonia i loro strumenti prima dello spettacolo. L'aria è comoda .
-secco e la temperatura è di 25 gradi Celsius.
-i) (6,5 punti) Il loro secondo concerto è in Libia, dove
-La temperatura è di 45 gradi Celsius. I loro strumenti sono fuori sintonia a causa del calore bruciante ma tutte le attrezzature di sintonia sono state
-- E' andata via da casa. Quanto sono fuori sintonia? Estimare il cambiamento udibile nel 330 Hz originale
-- La sintonia di tutti e tre gli strumenti.
-ii) (1,5 punti) Il tour si conclude con un concerto privato al
-una clinica polmonare. La temperatura nella sala di trattamento è di 25 gradi, ma invece di aria
-la stanza è riempita di una miscela di elio e aria
-- Non lo so. Come questo influisce sul suono udibile
-La Commissione ha adottato una proposta di risoluzione.
-Velocità del suono nell'aria
-$v_a = 331.3\ \text{m/s}\ \sqrt{1 + \dfrac{t(^\circ\text{C})}{273.15}}$
-Velocità del suono in eliox $v_t = 1.7 v_a$
-Capacità termica di acciaio 450 J/kg $\cdot$ K
-Densità di acciaio $7900\ \text{kg/m}^3$
-Punto di fusione di acciaio $1540\ ^\circ\text{C}$
-Conducibilità termico dell'acciaio 50 W/mK
-Modulo giovane di acciaio 200 GPa
-Coefficiente
-of
-termico
-espansione
-- Non lo so .
-$12.0 \times 10^{-6}\ \text{K}^{-1}$
-Potenza dell'amplificatore per chitarra 500 W
-Diametro della chitarra E 0,30 mm
-Lunghezza libera della corda E 65 cm
-Frequenza della corda E 330 Hz
-Si possono trascurare gli effetti della temperatura su
-il corpo della chitarra. Il tono delle stringhe della chitarra è determinato dalla frequenza di onde in piedi trasversale
-sulla corda della chitarra. Il tono dell'organo del tubo è determinato dalla frequenza longitudinale di onde di posizione dell'aria nel tubo. Il tono della campana tubulare
-è determinato dall'onda di posizione trasversale di
-il tubo (d'acciaio). Potete usare l'analisi dimensionale quando possibile.
-Supponiamo che i giovani
-il modulo dell'acciaio è costante a temperatura.
+3. MUSICA (8 punti) — Lasse Frantti.
 
-**Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1cNA1EGNA-mfv0r6eZ1pPqzhsDPNaI-RG/view)
+Un gruppo composto da tre fisici è in tour. Il gruppo suona musica progressiva world e si avvale di una chitarra elettrica, un organo a canne e campane tubolari in acciaio. Il loro primo concerto ha luogo al Tavastiaclub di Helsinki, dove si accordano prima dello spettacolo. L’aria è comodamente asciutta e la temperatura è di 25 gradi Celsius.
+
+i) (6,5 punti) Il loro secondo concerto ha luogo in Libia, dove la temperatura è di 45 gradi Celsius. I loro strumenti sono sintonizzati male a causa del caldo torrido, ma tutti gli strumenti di accordatura sono rimasti a casa. Quanto sono fuori tempo? Stimare il cambiamento udibile nella frequenza iniziale di 330 Hz per ciascuno dei tre strumenti.
+
+ii) (1,5 punti) Il tour si conclude con un concerto privato in una clinica polmonare. La temperatura nella stanza di trattamento è di 25 gradi, ma al posto dell’aria la stanza è riempita da un miscuglio di elio e aria (heliox). Come influisce questo sulla sonorità udibile prodotta dai tre strumenti?
+
+Velocità del suono nell’aria
+$v_a = 331.3\ \text{m/s}\ \sqrt{1 + \dfrac{t(^\circ\text{C})}{273.15}}$
+
+Velocità del suono nell’elio ossigeno (heliox)
+$v_t = 1.7 v_a$
+
+Calore specifico dell’acciaio 450 J/kg $\cdot$ K
+
+Densità dell’acciaio $7900\ \text{kg/m}^3$
+
+Punto di fusione dell’acciaio $1540\ ^\circ\text{C}$
+
+Conducibilità termica dell’acciaio 50 W/mK
+
+Modulo di Young dell’acciaio 200 GPa
+
+Coefficiente di dilatazione termica (acciaio)
+$12.0 \times 10^{-6}\ \text{K}^{-1}$
+
+Potenza dell’amplificatore della chitarra 500 W
+
+Diametro della corda E della chitarra 0,30 mm
+
+Lunghezza libera della corda E 65 cm
+
+Frequenza della corda E 330 Hz
+Puoi trascurare gli effetti della temperatura sul corpo della chitarra. Il tono della corda della chitarra è determinato dalla frequenza delle onde stazionarie trasversali sulla corda della chitarra. Il tono dell'organo a canne è determinato dalla frequenza delle onde stazionarie longitudinali dell'aria all'interno della canna. Il tono del campanello tubolare è determinato dalla frequenza delle onde stazionarie trasversali del tubo (in acciaio). Puoi utilizzare l'analisi dimensionale dove possibile.
+Si assuma che il modulo di Young dell'acciaio sia costante in temperatura.
 
 
 

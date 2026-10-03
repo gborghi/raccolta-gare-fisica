@@ -1,6 +1,6 @@
 import { test } from "node:test"
 import assert from "node:assert/strict"
-import { addSibling, mergeSiblings, newSiblingStats } from "../scripts/siblings.mjs"
+import { addSibling, mergeSiblings, newSiblingStats, stripSelfBacklink } from "../scripts/siblings.mjs"
 
 const id = (s) => s
 const splits = (s) => [...s.matchAll(/<div class="qlang-split" data-lang="([^"]+)"><\/div>/g)].map((m) => m[1])
@@ -83,4 +83,79 @@ test("translated H1 and trailing backlink still stripped", () => {
   ])
   const out = mergeSiblings("v__Q05", "NATIVE", "it", siblings, id, null, () => {})
   assert.ok(out.endsWith('<div class="qlang-split" data-lang="en"></div>\n\nBody EN'))
+})
+
+// --- trailing self-backlink: only a link to the atom itself is stripped ---------------
+const merge1 = (base, sib, transform = id) => {
+  const { siblings } = collect([{ of: base, mtime: 1, ...sib }])
+  const out = mergeSiblings(base, "NATIVE", "it", siblings, transform, null, () => {})
+  return out.split(`<div class="qlang-split" data-lang="${sib.lang}"></div>\n\n`)[1]
+}
+
+test("self-backlink to the translation_of target at the end is stripped", () => {
+  const b = merge1("1liv19T__Q19", {
+    lang: "en",
+    rel: "Prove/1liv19T__Q19__en.md",
+    body: "# Question 19\n\nText of the question.\n\n[[1liv19T__Q19]]\n",
+  })
+  assert.equal(b, "Text of the question.")
+})
+
+test("self-backlink variants: alias, #heading, .md, folder, case, NFD, CRLF", () => {
+  for (const link of [
+    "[[INPhO2019-Question__Q05|versione originale]]",
+    "[[INPhO2019-Question__Q05#Testo]]",
+    "[[INPhO2019-Question__Q05.md]]",
+    "[[Prove/INPhO2019-Question__Q05]]",
+    "[[inpho2019-question__q05]]",
+    "  [[INPhO2019-Question__Q05]]  \n\n",
+  ]) {
+    const b = merge1("INPhO2019-Question__Q05", { lang: "en", rel: "Prove/INPhO2019-Question__Q05__en.md", body: `Testo.\n\n${link}` })
+    assert.equal(b, "Testo.", link)
+  }
+  const nfd = "Prueba_Ñandú__Q01".normalize("NFD")
+  assert.equal(stripSelfBacklink(`Texto.\r\n[[${nfd}]]\r\n`, ["Prueba_Ñandú__Q01".normalize("NFC")]), "Texto.\r\n")
+})
+
+test("link to the sibling's own stem is also a self-backlink", () => {
+  assert.equal(stripSelfBacklink("Text.\n[[X__Q01__en]]", ["X__Q01", "Prove/X__Q01__en.md"]), "Text.\n")
+})
+
+test("the 7 'Soluzioni' links lost before the fix are kept", () => {
+  const cases = [
+    ["1liv15T def__Q02", "**Answer:** **A** · [[1liv15S def|Soluzioni]]"],
+    ["1liv15T def__Q36", "**Answer:** **D** · [[1liv15S def|Soluzioni]]"],
+    ["2liv15T Def__Q02", "**Solution:** [[2liv15S Def|Soluzioni]]"],
+    ["2liv15T Def__Q04", "**Solution:** [[2liv15S Def|Soluzioni]]"],
+    ["2liv15T Def__Q09", "**Solution:** [[2liv15S Def|Soluzioni]]"],
+    ["2liv14T-Def__Q09", "**Solution:** [[2liv14S-Def|Soluzioni]]"],
+    ["Naz14T def__Q03", "**Solution:** [[Naz14S def|Soluzioni]]"],
+  ]
+  for (const [base, last] of cases) {
+    const b = merge1(base, { lang: "en", rel: `Prove/${base}__en.md`, body: `Question text.\n\n${last}\n` })
+    assert.ok(b.endsWith(last), `${base}: ${b}`)
+  }
+})
+
+test("a trailing link to another note on its own line is kept", () => {
+  for (const link of ["[[1liv15S def|Soluzioni]]", "[[1liv19T]]", "[[1liv19T__Q20]]", "[[topic_ottica|Ottica]]"]) {
+    const b = merge1("1liv19T__Q19", { lang: "en", rel: "Prove/1liv19T__Q19__en.md", body: `Text.\n\n${link}` })
+    assert.equal(b, `Text.\n\n${link}`, link)
+  }
+})
+
+test("self-backlink not at the very end, or inline after text, is kept", () => {
+  const mid = "Text.\n\n[[X__Q01]]\n\nMore text."
+  assert.equal(stripSelfBacklink(mid, ["X__Q01"]), mid)
+  const inline = "See the original [[X__Q01]]"
+  assert.equal(stripSelfBacklink(inline, ["X__Q01"]), inline)
+  const twoLinks = "Text.\n[[Other]] [[X__Q01]]"
+  assert.equal(stripSelfBacklink(twoLinks, ["X__Q01"]), twoLinks)
+})
+
+test("self-backlink is stripped before transform() rewrites atom links", () => {
+  // preprocess's transform() turns [[stem__Q19]] into [[prove/<slug>#q19]]
+  const rewrite = (s) => s.replace(/\[\[([^\]|#]+?)__([a-z0-9]+)(\|[^\]]*)?\]\]/gi, (f, st, a, al) => `[[prove/${st.toLowerCase()}#${a.toLowerCase()}${al || ""}]]`)
+  const b = merge1("1liv21T__Q26", { lang: "en", rel: "Prove/1liv21T__Q26__en.md", body: "Text, see [[1liv21T__Q25]].\n\n[[1liv21T__Q26]]" }, rewrite)
+  assert.equal(b, "Text, see [[prove/1liv21t#q25]].")
 })

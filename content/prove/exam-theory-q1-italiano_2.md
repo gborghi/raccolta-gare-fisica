@@ -166,144 +166,103 @@ lontano che non viene raggiunto dal segnale? Scrivere la risposta in funzione di
 
 Theory
 Q1-1
-Italian (Italy)
-The following is the list of the countries of the European Union:
-This problem consists of two independent problems relating to the interior of the planets. The effects of the
-The curvature of the surface of the planets can be neglected. It might be useful to use the formula
-(1 + $x)ε\approx1$ + εx, quando |x| $\ll1$.
+English (International)
+Planetary Physics (10 points)
+This problem consists of two independent parts related to planetary physics. The effects of the curvature of planetary surfaces may be neglected. It might be useful to use the formula (1 + $x)ε\approx1$ + εx, when |x| $\ll1$.
 (1)
-Part A. The following is the list of the countries of the European Union:
-Consider a large water container located in a uniform gravitational field with free-fall acceleration g. Two vertical rectangular plates parallel to each other are mounted in the container
-so that the vertical edges of the plates are in close contact with the vertical walls of the
-container. A stretch of length hdi each plate is immersed in water (Fig. 1). The width of the plates
-along the y-axis is w, the density of the water is ρ0.
-Figure 1 is shown. Parallel plates in the water.
-Oil of ρoil density (ρoil < ρ0) is poured into the space between the plates until the lower level
-The oil has reached the lower edges of the plates. Suppose the plates and edges of the container
-They're high enough not to overload the oil. Surface tension and fluid mixing
-They can be overlooked.
+
+Part A. Oceanic Ridge (5.0 points)
+Consider a large container filled with water, located in a uniform gravitational field with free-fall acceleration g. Two parallel rectangular vertical plates are mounted inside the container such that their vertical edges are in tight contact without gaps with the vertical walls of the container. A length h of each plate is submerged in water (Fig. 1). The width of the plates along the y-axis is w, and the density of water is ρ0.
+
+Figure 1. Parallel plates in water.
+
+Oil of density ρoil (ρoil < ρ0) is poured into the space between the plates until the lower level of oil reaches the bottom edges of the plates. Assume that the plates and container edges are sufficiently high to prevent oil overflow. Surface tension and fluid mixing may be neglected.
+
 A.1
-What is the component xd of the total force Fx that acts on the right plate
-(intensity and direction)?
+What is the x-component Fx of the total force acting on the right plate (magnitude and direction)?
 0.8pt
-The Fig. 2 shows a cross section of an ocean backbone. It consists of overlapping layers of mantle, crust and ocean water. The mantle is made up of rocks that we assume can flow through time.
-The geological ones. So in this problem it will be treated like a fluid. The thickness of the crust is much more
-So the crust behaves like a plate.
-freely folded. Such a backbone can be modeled with high precision as a system
-Two-dimensional, with no change in quantities along the y-axis, perpendicular to the plane of
-- What? 2. Let's assume that the length of the spine along the yasse is much larger than any other
-The length introduced into this problem.
-At the center of the spine, the crust is assumed to be zero in thickness. The crust thickens as it grows from the horizontal distance x from the centre and approaches a constant thickness D When $x\to\infty$.
-As a result, the ocean floor drops to a vertical height below the summit of the backbone.
-Or, which we define as the origin of our coordinate system (see Fig. 2). The density of water ρ0
+Figure 2 shows a cross-section of an oceanic ridge. It consists of superimposed layers of mantle, crust, and oceanic water. The mantle is composed of rocks that we assume can flow over geological timescales. Therefore, in this problem it will be treated as a fluid. The crust thickness is much smaller than the characteristic length in the x-direction, so the crust behaves as a freely bending plate. Such a ridge can be accurately modeled as a two-dimensional system, with no variation of quantities along the y-axis, which is perpendicular to the plane shown in
+Figure 2. We assume that the length L of the ridge along the y-axis is much greater than any other length introduced in this problem.
+
+At the center of the ridge, the crust thickness is assumed to be zero. The crust thickens with increasing horizontal distance x from the center and approaches a constant thickness D as $x\to\infty$. As a result, the ocean floor subsides vertically by a height h below the ridge's crest, which we define as the origin of our coordinate system (see Figure 2). The density of water ρ0
 
 Theory
 Q1-2
 Italian (Italy)
-and its temperature T0 can be assumed uniformly in space and constantly in time. The same
-The measurement shall be made for the coat density ρ1 and its temperature T1. The temperature too
-The time of the tea crust is constant, but it can depend on the location.
-It is known that, with high precision, the crustal material expands linearly with temperature T. Since the water and mantle temperatures are assumed to be constant, it is appropriate to use an additional termic expansion coefficient. Therefore,
-L (T) = l1 [1 $-kl(T1 -T$) /(T1 $-T0)]$, where the length of a stretch of crust material is l1,
-The temperature of the test chemical is T1 and the coefficient of thermal expansion of the test chemical is T1 and the coefficient of thermal expansion of the test chemical is T1 and T2
-be assumed as a constant.
-Figure two. Ocean backbone. Note that the z axis points downwards
+and its temperature T0 may be assumed uniform in space and constant in time. The same assumption can be made for the mantle density ρ1 and its temperature T1. The crust temperature T is constant in time but may depend on position.
+It is known that, with high precision, the crustal material expands linearly with temperature T. Since it is assumed that the temperatures of water and mantle are constant, it is convenient to use a dimensionless expression for the thermal expansion coefficient. Thus, l(T) = l1 [1 $-kl(T1 -T$) /(T1 $-T0)]$, where l is the length of a segment of crustal material, l1 is its length at temperature T1, and k is the dimensionless thermal expansion coefficient, which may be assumed constant.
+
+Figure 2. Oceanic ridge. Note that the z-axis points downward.
+
 A.2
-Assuming the crust is isotropic, find how its density ρdepends
-from its temperature T. Assuming that kL $\ll1$, write the answer in
-appropriate form
-ρ(T) $\approxρ1$ [1 + kT1 $-T$
-T1 $-T0$
-] ,
-(2)
-where the terms of the order k2
-The high schools are being neglected. Afterwards,
-Identify the constant k.
+Assuming the crust is isotropic, find how its density ρ depends on temperature T. Assuming that |k| $\ll1$, write the answer in the appropriate form
+ρ(T) $\approxρ1$ [1 + kT1 $-T$ / T1 $-T0$ ] , (2)
+where terms of order k² and higher are neglected. Subsequently, identify the constant k.
+
 0.6pt
-It's known that k> 0. In addition, the thermal conductivity of the crust can be assumed to be constant. Di
-As a result, far from the dorsal axis, the temperature of the crust depends linearly on the
-The depth.
+It is known that k > 0. Moreover, the thermal conductivity κ of the crust may be assumed constant. Consequently, far away from the ridge axis, the temperature of the crust depends linearly on depth.
+
 A.3
-Assuming that the mantle and water behave as an incompressible fluid in hydrostatic equilibrium, express the thickness of the crust at a great distance Din function of h, ρ0, ρ1e k. Any movement of the material can be
-I'm not doing it.
+Assuming that the mantle and water behave as an incompressible fluid in hydrostatic equilibrium, express the crust thickness far from the ridge D in terms of h, ρ0, ρ1, and k. Any material motion may be neglected.
+
 1.1pt
 
 Theory
 Q1-3
-Italian (Italy)
+Italiano (Italy)
 A.4
-Find, in the first order in k, the total horizontal force Fche acting on the half
-the right (x> 0) of the crust in the function ρ0, ρ1, h, L, ke g.
+Find, to first order in k, the total horizontal force F acting on the right half (x > 0) of the crust in terms of ρ₀, ρ₁, h, L, k, and g.
 1.6pt
-Suppose the crust is heat-insulated from the rest of the Earth. As a result of driving
-The temperature of the upper and lower surfaces of the crust will approach each other
-Until the crust reaches thermal equilibrium. The specific heat of the crust is there you can think of
-The time is constant.
+
+Assume the crust is thermally isolated from the rest of Earth. As a result of heat conduction, the temperatures at the upper and lower surfaces of the crust will approach each other until thermal equilibrium is reached. The specific heat capacity of the crust is cₑ, which may be considered constant.
+
 A.5
-Using dimensional analysis or order of magnitude, estimate the characteristic time τ in which the difference between the upper and lower surface temperature of the crust away from the dorsal axis will decrease to approximately zero. You can assume that τ does not depend on the two temperatures
-the initial surface of the crust.
+
+Using dimensional analysis or order-of-magnitude estimation, estimate the characteristic time τ during which the difference between the upper surface temperature and lower surface temperature of the crust, far from the ridge axis, will approximately vanish. You may assume that τ does not depend on the two initial surface temperatures of the crust.
+
 0.9pt
-Part B. Seismic waves in a layered medium (5.0 points)
-Suppose there is a brief earthquake on the surface of a planet. It can be assumed that the
-Seismic waves come from a linear source located at z=x=0, where the horizontal coordinate is
-and z is the depth below the surface (Fig. 3). The source of the seismic wave can be assumed to be very
-The length of the test is more than any other length considered in this question.
-Following the earthquake, a uniform flow of the so-called longitudinal P waves is emitted
-All the directions in the x-z plane have a positive component along the z axis. Because the wave theory in
-So, a solid is usually complicated, so we ignore all the other waves emitted by the
-It's an earthquake. The planet's crust is layered so that the wave velocity modulo V of P depends on the
-from the depth z according to the formula v=v0(1+z/z0), where v0 is the surface velocity and z0 is a constant
-The Commission has not yet taken a decision.
-Figure 3 is shown. Coordinate system used in Part B.
+
+Part B. Seismic waves in a stratified medium (5.0 points)
+
+Suppose a brief earthquake occurs on the surface of a planet. It may be assumed that the seismic waves originate from a linear source located at z = x = 0, where x is the horizontal coordinate and z is depth below the surface (Fig. 3). It may be assumed that the seismic source is much longer than any other length considered in this problem.
+Following the earthquake, a uniform flow of so-called P longitudinal waves is emitted in all directions within the x-z plane, having a positive component along the z-axis. Since the theory of wave propagation in solids is generally complicated, in this problem we neglect all other waves emitted by the earthquake. The planet's crust is stratified such that the wave P speed modulus v depends on depth z according to the formula v = v₀(1 + z/z₀), where v₀ is the surface velocity and z₀ is a known positive constant.
+
+Figure 3. Coordinate system used in part B.
+
 B.1
-Consider a single beam emitted by an earthquake that forms an angle
-The initial 0 < θ0 < π/2 with the x axis moves in the x-z plane. What is the coordinate?
-horizontal x1(θ0) $\neq0$ at which radius can be detected on the planet's surface? It is known that the path of the beam is an arc of circumference.
-Write the answer in the form x1(θ0) = Acot(bθ0), where Ae are constants that
-They must be determined.
+Consider a single ray emitted by the earthquake that initially forms an angle 0 < θ₀ < π/2 with the z-axis and propagates in the x-z plane. What is the horizontal coordinate x₁(θ₀) $\neq0$ at which this ray can be detected on the planet's surface? It is known that the ray path is an arc of a circle.
+Express the answer in the form x₁(θ₀) = A cot(bθ₀), where A and b are constants to be determined.
 1.5pt
 
 Theory
-Q1-4
+Q1–4
 Italian (Italy)
-If you can't find Ae b, in the next questions you can use the result x1(θ0) = Acot(bθ0)
-as provided. Suppose that the total energy, per unit of length of the source, released as
-P waves in the crust during the earthquake are E. Suppose the waves are completely absorbed.
-When they reach the surface of the planet from below.
+If you were unable to find A and b in the previous questions, you may use the result x₁(θ₀) = Acot(bθ₀) as provided. Suppose that the total energy, per unit length of the source, released in P-waves into the crust during the earthquake is E. Suppose that the waves are completely absorbed when reaching the planet's surface from below.
+
 B.2
-Find how the energy density per unit area ε(x) absorbed by the surface
-depends on the distance along the surface x. Draw the sequence of ε(x).
-1.5pt
-From now on, let's assume that the waves are completely reflected when they reach the surface. Imagine a device positioned at z=x=0 that has the same geometry as the seismic source.
-The Commission has already taken the necessary steps to ensure that the Commission is able to take the necessary measures. The device is capable of emitting P waves in a freely chosen angular distribution. Let's make the device emit a signal with a narrow range of angles.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. In particular, the initial angle formed by the signal with the vertical is the interval
-[θ0 $-1$
-2δθ0, θ0 + 1
-2δθ0], where 0 < θ0 < π/2, δθ0 $\ll1$ and δθ0 $\llθ0$.
+Find how the energy density per unit area ε(x) absorbed by the surface depends on the distance along the surface x. Draw the dependence of ε(x).
+1.5 pt
+
+From now on, suppose that the waves are instead completely reflected when reaching the surface. Imagine a device located at z = x = 0, having the same geometry as the seismic source previously considered. The device is capable of emitting P-waves with a freely chosen angular distribution. We arrange for the device to emit a signal within a narrow range of emission angles. In particular, the initial angle that the signal makes with the vertical lies in the interval
+[θ₀ $-1$, θ₀ + ½δθ₀], where 0 < θ₀ < π/2, δθ₀ $\ll1$, and δθ₀ $\llθ0$.
+
 B.3
-At what distance xmax along the surface from the source is the point most
-Far away from being reached by the Signal? Write the answer according to
-θ0, δθ0 and the other constants given above.
-2.0pt
+At what distance xmax along the surface from the source is located the farthest point not reached by the signal? Write your answer as a function of θ₀, δθ₀, and any other constants provided above.
+2.0 pt
 
 <!--fig:start-->
-**p.1** — Colonne A e B, dorsale oceanica
+**p.1** — Columns A and B, oceanic ridge
 ![[_attachments/exam-theory-Q1-italiano_2/exam-theory-Q1-italiano_2_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2** — Sezione interno pianeta, profilo densita
+**p.2** — Internal planetary section, density profile
 ![[_attachments/exam-theory-Q1-italiano_2/exam-theory-Q1-italiano_2_p2_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Sistema coordinate onde sismiche P
+**p.3** — Coordinate system for seismic P waves
 ![[_attachments/exam-theory-Q1-italiano_2/exam-theory-Q1-italiano_2_p3_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1r0x7UgPURigNOfFcmUieRNKOkghaBcyV/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1PII6hp4bBFS5nRvGjtNRQRL6KbdZJGBY/view)

@@ -261,165 +261,150 @@ principale per riportare l’oscillatore al punto
 
 <div class="qlang-split" data-lang="en"></div>
 
-Experiments
+Experiment
 Q1-1
-Italian (Italy)
+English (United States)
 Mass measurement (10 points)
-In this experimental problem we are trying to make a mass measurement. We also measure the mass
-using the resonance characteristics of the harmonic oscillator.
-The test shall be carried out in accordance with the following conditions:
-The following is a list of the components (Fig. 1). The number of parts is indicated in [ ] only if they are
-Two or more.
-Figure 1: The experimental apparatus.
-1. The following is the list of the following:
-Note: the magnetic unit on the basis creates independent guaranteed uniform radial magnetic fields
-from the height near the centre of the magnetic torque to $\pm3$ mm in height.
-2. (Obscillator) support
-3. Butterflyfish [2]:
-Note: Remove 2 and 3 from 1 in the material received for use.
-4. Other, of a thickness of not more than 10 mm
+In this experimental problem, we aim to perform a mass measurement. We will also determine the mass using the resonance characteristics of a harmonic oscillator.
 
-Experiments
+Experimental setup
+Below is a list of components (Figure 1). The number in [ ] appears only when there are two or more parts.
+
+Figure 1: The experimental apparatus.
+1. Mounting base:
+Note: The magnetic unit on the base generates uniform radial magnetic fields, independent of height, within a range up to $\pm3$ mm above the center point between the pair of magnets.
+2. (Oscillator) support
+3. Butterfly nut [2]:
+Note: Remove parts 2 and 3 from part 1 in the received material for use.
+4. Spacers (washers) [6]
+
+Experiment
 Q1-2
 Italian (Italy)
-5. Other, of a kind used for the manufacture of goods of heading 8106
-6. Other, of a kind used for the manufacture of goods
-7. Signals [2]
+5. Cylindrical oscillator
+6. Elastic bands [6]
+7. Markers [2]
 8. Weights [5]
-9. Other, of a thickness of not more than 0,01 mm
+9. Tweezers
 10. Mirror
-11. The amount of the loan shall be calculated as follows:
-12. Food:
-The DC (continuous current) or AC (alternating current) mode can be activated.
-In DC mode, it works as a constant current source. Rotate the crankcase DC Vol for
-I'm going to adjust the current. The current value is obtained from the voltage between DCmon and DC GND
-using the conversion factor
-1.00 A/V.
-In AC mode, it operates as a fixed-amplitude voltage source. Rotate AC Vol to adjust the voltage. The alternating current is obtained from the voltage between ACmon and AC GND using
-The conversion factor is 0,106 A/V.
-The frequency (Freq.) can be adjusted using the Coarse and Fine controls.
-13. Other, of a kind used for the manufacture of electrical equipment
+11. Lift block
+12. Power supply:
+It is possible to activate either DC (direct current) or AC (alternating current) mode.
+In DC mode, it operates as a constant current source. Rotate the ”DC Vol” knob to adjust the current. The current value is obtained from the voltage between ”DCmon” and ”DC GND” using the conversion factor 1.00 A/V.
+In AC mode, it operates as a voltage source with fixed amplitude. Rotate the ”AC Vol” knob to adjust the voltage. The alternating current is obtained from the voltage between ”ACmon” and ”AC GND” using the conversion factor 0.106 A/V.
+The frequency (Freq.) can be adjusted using the ”Coarse” and ”Fine” adjustment knobs.
+13. Battery holder [2]
 14. Batteries [8]
-15. Wire with terminal connection to U [2]
-16. Wire with crocodile terminal [2]
-17. The following information shall be provided:
-Rotate the handle to select the appropriate measurement mode, DCV, ACV and Hz.
-Note that the displayed value of the AC voltage indicates the mean square value (RMS), i.e. the
-the actual value.
-Modelling of the system
-Figure 2 is a simplified model of the experimental apparatus. It is essentially a matter of
-a mass-force oscillator on the spring.
+15. Wires with U-terminal connector [2]
+16. Wires with alligator clip terminal [2]
+17. Digital multimeter (DMM):
+Rotate the knob to select the appropriate measurement mode: ”DCV”, ”ACV”, and ”Hz”.
+Note that the displayed AC voltage value indicates the root mean square (RMS) value, i.e., the effective value.
 
-Experiments
+Modeling the system
+Figure 2 shows a simplified model of the experimental apparatus. It is essentially a forced harmonic oscillator with mass and spring.
+
+Experiment
 Q1-3
 Italian (Italy)
-Figure 2: Model of harmonic oscillator.
+Figure 2: Harmonic oscillator model.
 The relevant parameters are:
-• M: mass of the oscillator (cylinder)
-• m: mass of one peset
-• N: number of pesetas
-• g: acceleration by gravity
-• k: effective elastic constant relative to the vertical motion
+• M: mass of the oscillator (cylindrical)
+• m: mass of a weight
+• N: number of weights
+• g: acceleration due to gravity
+• k: effective spring constant related to vertical motion
 • z: height (or displacement) of the oscillator
-• Ze: height of the oscillator at which the balance of forces is established in the absence of electromagnetic and gravitational forces.
-• $B(B'$: magnetic field applied to the main (control) coil
-• $L(L'$: length of the main (control) coil conductive wire
-• $I(I'$: current flowing through the main (control) coil
+• ze: height of the oscillator at which force equilibrium is established in the absence of electromagnetic and gravitational forces
+• $B(B'$): magnetic field applied to the main control coil
+• $L(L'$): length of the conductor wire in the main control coil
+• $I(I'$): current flowing through the main control coil
 • α: positive coefficient of aerodynamic resistance
-The equation of the motion is given by
-(M+ Nm)d2z
-dt2 = $-(M+ Nm)g-k(z-ze$) + BLI+ $B'L'I' -αdz$
-dt.
-(1)
-Installation of the oscillator
-1. Remove the support from the assembly base. Wrap four rubbers around it second
-A grid pattern (see Figure 1. 3(a)).
-2. Insert the cylindrical oscillator from the side of the scale into the square opening in the middle of the tyres
-crossed. Position the drivers on the other side of the balance. (Fig. 3(b)).
-3. The oscillator is designed to be suspended from the support with four elastic straps and eight small hooks
-(circled in red in Fig. 3(c)). If made correctly, a rubber ring forms a rope
-a trunk with two hooks above and below the support level in the side view.
-Note: In this experiment, we can assume that the actual force due to the elastic is subject to Hooke's law.
 
-Experiments
+The equation of motion is given by (M + Nm) d²z/dt² = $-(M+ Nm)g-k(z-ze$) + B L I + $B'L'I' -αdz$ dt.
+(1)
+
+Oscillator setup
+1. Remove the support from the mounting base. Wrap four elastic bands around it in a grid pattern (see Figure 3(a)).
+2. Insert the cylindrical oscillator from the balance side into the square opening in the middle of the crossed elastic bands. Position the conductors on the opposite side of the balance. (Figure 3(b)).
+3. The oscillator is designed to be suspended from the support by four elastic bands and eight small hooks (circled in red in Figure 3(c)). If correctly assembled, a ring of elastic bands forms a truncated rhombus with two hooks above and below the support level in side view.
+
+Note: In this experiment, we may assume that the effective force due to the elastic bands obeys Hooke’s law.
+
+Experiment
 Q1-4
 Italian (Italy)
-4. Re-fix the support to the vertical side diagonally with the two butterfly dice. The balance sheet must be
-Standing on top, not on the side of the hills. 3(d)).
-5. Set the oscillator in a vertical position. Its axis must be aligned vertically and coincide with that of the magnetic unit.
-6. The main coil should be near the center of the two magnets when it is at rest, which can
-be confirmed by the distance between the upper surface of the magnet and the lower surface
-The maximum value of the oscillator is less than 3 to 5 mm (Fig. 3 (e) red arrow). If it is smaller, insert thicknesses
-The main features of the device are the use of the brushes and the support (Fig. 3 (f) red arrow). If it is larger, rotate the magnetic surge
-The weight of the material is not less than 0,5% of the weight of the material. 3 (f) yellow arrow).
-7. Exposing the adhesive surface of the bi-adhesive tape on the indicator (Fig. 4(a)). Pasting the sign on the
-The small floating plane of the oscillator to measure the height (Fig. 4(b)).
-8. Position the mirror on the upper block (Fig. 4(c)). Ensure clear vision of the sign
-From above through the mirror (Fig. 4 (d) red circle).
-Figure 3: Installation of the oscillator.
 
-Experiments
+4. Once again secure the support to the diagonal stand using the two butterfly nuts. The balance must stand upright on top, not sideways relative to the stands (Fig. 3(d)).
+
+5. Place the oscillator in a vertical position. Its axis must be vertically aligned and coincide with that of the magnetic unit.
+
+6. The main coil should be near the center between the two magnets when at rest; this can be verified by measuring the distance between the upper surface of the lower magnet and the lower surface of the oscillator, which should be 3–5 mm (Fig. 3(e), red arrow). If this distance is smaller, insert shims between the clamps and the support (Fig. 3(f), red arrow). If it is larger, rotate the magnet stand to move it away and add shims under the stand (Fig. 3(f), yellow arrow).
+
+7. Expose the adhesive surface of the double-sided tape on the marker (Fig. 4(a)). Attach the marker to the small floating shelf of the oscillator for height measurement (Fig. 4(b)).
+
+8. Place the mirror on the elevation block (Fig. 4(c)). Ensure a clear view of the marker from above through the mirror (Fig. 4(d), red circle).
+
+Figure 3: Oscillator installation.
+
+Experiment
 Q1-5
 Italian (Italy)
-Figure 4: Installation of the sign and mirror.
-Other, of a kind used for the manufacture of goods
-1. Detect and gently pull the correct wire pair leading to the main coil (M) and
-The Commission has already adopted a number of proposals for a new programme. 3(c)) from the inside of the oscillator (Fig. 3(b)). Check if the enamel has been removed
-from loose ends.
-2. Loosen the screws on the M+ and M- wrists to leave empty spaces. Use the lower spaces for the
-The Commission has already adopted a proposal for a directive on the approximation of the laws of the Member States relating to the use of electricity. 5(a), (b)). The polarity control will be explained later.
-3. The C+ and C-marked knobs shall be connected in the same way. (Both polarities are acceptable).
-4. Place the batteries in the appropriate supports and connect them to the power supply (CN1, CN2)
-(Fig. 5(c)).
-5. Connecting the M+ and M-DC-output (DC+ and DC-) winding of the power supply using the terminal wires
-a U.
+Figure 4: Mounting of the marker and mirror.
+Wiring
+
+1. Identify and gently pull out the correct pair of wires leading to the main coils (M) and control coils (C) (Fig. 3(c)) from inside the oscillator (Fig. 3(b)). Check whether the enamel has been removed from the loose ends.
+
+2. Loosen the screws on terminals M+ and M− to leave empty spaces. Use the lower positions for wiring (Fig. 5(a), (b)). Polarity control will be explained later.
+
+3. Connect terminals labeled C+ and C− in the same way. (Both polarities are acceptable.)
+
+4. Place batteries into their designated holders and secure connections to the power supply (CN1, CN2) (Fig. 5(c)).
+
+5. Connect terminals M+ and M− to the DC output (DC+ and DC−) of the power supply using U-terminal wires.
+
 6. Select direct current (DC) and turn on the power supply.
-7. Rotate the DC Vol. handle to adjust the current. Check whether the oscillator is moving towards
-2 mm or more in height. If you move down, swap the wires to reverse the polarity and try again.
-Warm parts. Watch out for the coils and the magnets. At the end of each stage, lower the
-The DC output is minimal.
 
-Experiments
+7. Rotate the "DC Vol." knob to adjust current. Check whether the oscillator moves upward by 2 mm or more. If it moves downward, swap the wires to reverse polarity and retry.
+
+Warning: Hot parts. Handle coils and magnets with care. After each step, reduce the DC output to minimum.
+
+Experiment
 Q1-6
-Italian (Italy)
-Figure 5: (a), (b) Wired seals, (c) The whole wired system, including power and
-The batteries.
-Test of the oscillator
-1. Connect the M+ and M-output AC (AC+ and AC-) wires to the U-terminals.
-2. Select alternating current (AC) and turn on the power supply.
-3. Rotate the AC Vol. clockwise from the minimum to a quarter turn. Tune the frequency with the Coarse handle to start the oscillation.
-4. Adjust the AC output voltage and frequency to achieve an A= amplitude oscillation
-The size of the sample is approximately 3 mm (Fig. 6). If the oscillation is unstable, adjust the oscillator settings so that the oscillator is not
-The Commission has not yet taken a decision.
-5. Connect M+ and M- and connect the C+ and C-cranks to the AC output.
-6. Turn on the power supply to restart the oscillation.
+English (United States)
+Figure 5: (a), (b) The clamps connected, (c) The complete setup connected, including power supply and batteries.
 
-Experiments
+Oscillator Test
+1. Connect the M+ and M- clamps to the AC output (AC+ and AC−) using wires with U-shaped terminals.
+2. Select alternating current (AC) and turn on the power supply.
+3. Rotate the "AC Vol." knob clockwise from minimum to about a quarter turn. Tune the frequency using the "Coarse" knob to initiate oscillation.
+4. Adjust the AC output voltage and frequency to obtain an oscillation with amplitude A ≈ 3 mm (Figure 6). If the oscillation is unstable, appropriately adjust the oscillator settings.
+5. Disconnect M+ and M− and connect the C+ and C− clamps to the AC output.
+6. Turn on the power supply again to restart the oscillation.
+
+Experiment
 Q1-7
 Italian (Italy)
-Figure 6: Oscillation behaviour seen through the mirror.
-Part A. Hooke's laws and electromagnetic forces (2.4 points)
+Figure 6: Oscillation behavior as seen through the mirror.
+
+Part A. Hooke’s Law and Electromagnetic Forces (2.4 points)
 A.1
-Draw the magnetic field lines created by the two
-identical disk-shaped magnets when the N poles are facing each other.
+On the answer sheet, draw the magnetic field lines created by the two identical disk-shaped magnets when their N poles face each other.
 0.4 pt
+
 A.2
-Connect the M+ and M-output DC brackets. Couple the DMM with the terminals for
-The current C reading using the crocodile wires (Fig. 7).
-Reading the height of the DC oscillator is nothing without additional weights,
-That is, N=0. Enter the data in Table A.2.
-Put a weight (N= 1) on a circular plane protruding from the inner wall
-The cylinder shall be kept on the same level as the cylinder and the height at which the oscillator stops.
-What is the value of the DC current that must be drawn into the coil
-main to bring the oscillator back to the point
+Connect the M+ and M− terminals to the DC output. Connect the DMM to the current measurement terminals C using alligator clips (Figure 7).
+Read the height of the DC oscillator with no additional weights, i.e., N = 0. Write this value in Table A.2.
+Place one weight (N = 1) on the circular shelf projecting from the inner wall of the cylinder, and record the height za at which the oscillator comes to rest.
+What is the value of the direct current I that must be passed through the main coil to bring the oscillator back to the point
 
 <!--fig:start-->
-**p.1** — Apparato sperimentale: componenti numerati
+**p.1** — Experimental apparatus: numbered components
 ![[_attachments/exam-experiment-Q1-italiano_3/exam-experiment-Q1-italiano_3_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3** — Modello di oscillatore armonico
+**p.3** — Harmonic oscillator model
 
 
 <figure class="tikz-fig">
@@ -471,33 +456,28 @@ main to bring the oscillator back to the point
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — Installazione dell'oscillatore, pannelli a-e
+**p.4** — Oscillator installation, panels a–e
 ![[_attachments/exam-experiment-Q1-italiano_3/exam-experiment-Q1-italiano_3_p4_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  Signal and mirror installation, a-d panels
+**p.5** — Signal marker and mirror installation, panels a–d
 ![[_attachments/exam-experiment-Q1-italiano_3/exam-experiment-Q1-italiano_3_p5_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  Full cable-stayed plugs and fittings
+**p.6** — Terminals and fully wired setup
 ![[_attachments/exam-experiment-Q1-italiano_3/exam-experiment-Q1-italiano_3_p6_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7 **  Oscillator seen through the mirror
+**p.7** — Oscillator as seen through the mirror
 ![[_attachments/exam-experiment-Q1-italiano_3/exam-experiment-Q1-italiano_3_p7_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.8**  DMM connected and oscillator by weight
+**p.8** — DMM connected and oscillator with weight
 ![[_attachments/exam-experiment-Q1-italiano_3/exam-experiment-Q1-italiano_3_p8_f7.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Mirror (object)|Mirror]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fkNfJiqy80lGmRLp9aPLtRs0I35PbrfG/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0bpk6Qo3XGfcwS7VBkXMfowp8py_Qk8/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0bpk6Qo3XGfcwS7VBkXMfowp8py_Qk8/view)

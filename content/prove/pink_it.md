@@ -201,18 +201,13 @@ La sola forza che agisce fra le due stelle è quella gravitazionale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Masse delle stelle**
+**Stellar Masses**
 
-The only force acting between the two stars is gravitational.
+The only force acting between the two stars is the gravitational force.
 
-**3.1** Trova le masse $m_1$ e $m_2$ di ciascuna stella con una cifra significativa. The universal gravity constant is $G = 6.67 \times 10^{-11}\ \text{N m}^2\ \text{kg}^{-2}$. *(1.2 punti)*
+**3.1** Find the masses $m_1$ and $m_2$ of each star, to one significant digit. The universal gravitational constant is: $G = 6.67 \times 10^{-11}\ \text{N m}^2\ \text{kg}^{-2}$. *(1.2 points)*
 
-**Topic:** [[Astrophysics]], [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16NDtMELuaWrOYzMH86XZWRIfheeb7Cul/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/11uMKEZU6K1Yeqm8YKpgpHu3VIK2rozij/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/11uMKEZU6K1Yeqm8YKpgpHu3VIK2rozij/view)
 
 
 
@@ -257,34 +252,29 @@ dove $M_\odot$ è la massa solare e $L_\odot$ è la luminosità solare. Questa r
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Caratteristiche generali delle stelle**
+**General characteristics of stars**
 
-Stars mostly generate energy through the same mechanism; for this reason there is an empirical relationship between their mass $M$ and their brightness $L$, which is the total radiant power of the star. This report can be written in the form
+Stars mostly generate energy through the same mechanism; for this reason, there exists an empirical relationship between their mass $M$ and their luminosity $L$, which is the total radiant power of the star. This relationship can be written in the form
 
 $$\frac{L}{L_\odot} = \left(\frac{M}{M_\odot}\right)^\alpha$$
 
-where $M_\odot$ is the mass of the sun and $L_\odot$ is the sun's luminosity. This relationship is shown in the diagram in Figure 2 on a bilogarithmic scale.
+where $M_\odot$ is solar mass and $L_\odot$ is solar luminosity. This relationship is shown in the graph of Figure 2, plotted on a bi-logarithmic scale.
 
-> **Figure 2. ** The brightness of a star varies according to a power of its mass. The graph is on a bilogarithmic scale. The star-shaped symbol represents the Sun which has a mass of $M_\odot = 2 \times 10^{30}\ \text{kg}$ and a brightness of $L_\odot = 3.83 \times 10^{26}\ \text{W}$.
+> **Figure 2.** The luminosity of a star varies as a power of its mass. The graph is plotted on a bi-logarithmic scale. The star-shaped symbol represents the Sun, which has a mass of $M_\odot = 2 \times 10^{30}\ \text{kg}$ and a luminosity of $L_\odot = 3.83 \times 10^{26}\ \text{W}$.
 
-**4.1** Trova $\alpha$ con una cifra significativa. *(0.6 punti)*
+**4.1** Find $\alpha$ with one significant figure. *(0.6 points)*
 
-**4.2** The brightness of the stars of the binary system studied in the previous sections are $L_1$ and $L_2$: find $L_1$ and $L_2$. *(0.6 punti)*
+**4.2** Let $L_1$ and $L_2$ be the luminosities of the two stars in the binary system studied in previous sections: find $L_1$ and $L_2$. *(0.6 points)*
 
-**4.3** A che distanza $D$ da noi si trova questo sistema stellare? Express the result in light years. To find the distance you can use the data in Figure 1. A light year is the distance light travels in a year. *(0.9 punti)*
+**4.3** At what distance $D$ from us is this stellar system located? Express the result in light-years. To determine the distance, you may use data from Figure 1. A light-year is the distance that light travels in one year. *(0.9 points)*
 
-**4.4** Dal nostro punto di osservazione, qual è la distanza angolare massima $\theta$ fra le due stelle? *(0.4 punti)*
+**4.4** From our observational point, what is the maximum angular separation $\theta$ between the two stars? *(0.4 points)*
 
-**4.5** Qual è la minima dimensione dell’apertura $D_{\min}$ di un telescopio ottico per poter separare le immagini di queste due stelle? *(0.4 punti)*
+**4.5** What is the minimum aperture size $D_{\min}$ of an optical telescope required to resolve the images of these two stars? *(0.4 points)*
 
 <!--fig:start-->
-**p.3** — Relazione massa-luminosita in scala bilogaritmica
+**p.3** — Mass-luminosity relation on a bi-logarithmic scale
 ![[_attachments/Pink_it/Pink_it_p3_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Astrophysics]], [[Geometric Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Graph Linearization (metodo)|Graph Linearization]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/16NDtMELuaWrOYzMH86XZWRIfheeb7Cul/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/11uMKEZU6K1Yeqm8YKpgpHu3VIK2rozij/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/11uMKEZU6K1Yeqm8YKpgpHu3VIK2rozij/view)

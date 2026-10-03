@@ -599,41 +599,17 @@ wave packet (a train of waves).
 <div class="qlang-split" data-lang="it"></div>
 
 7.
-I WAVE (4 punti)
- Janis Hun, Jaan
-Calda, non è così. Relazione di dispersione (cioè il de-
-pendenza della frequenza circolare $\omega$ sulla
-Vettore d'onda $k = \frac{2\pi}{\lambda}$) di gravità capillare
-le onde sono
-$$\omega^2 = gk^\alpha + \frac{\sigma}{\rho}k^\beta,$$
-dove $\sigma$ indica la tensione superficiale, $g =
+ONDE (4 punti)
+— Janis Huns, Jaan
+Kalda. La relazione di dispersione (cioè la di‐ pendenza della frequenza circolare $\omega$ dal vettore d'onda $k = \frac{2\pi}{\lambda}$) delle onde capillari‐gravitazionali è
+$$\omega^2 = gk^\alpha + \frac{\sigma}{\rho}k^\beta,$$ dove $\sigma$ denota la tensione superficiale, $g =
 9.81\ \text{m s}^{-2}$, and $\rho = 1000\ \text{kg m}^{-3}$.
-i) (1 punto) determinano i valori dell'esposizione
-Nenti $\alpha$ e $\beta$.
-F. Moisy, M. La Commissione ha adottato una decisione del Consiglio.
-ii) (3 punti) Nella figura di cui sopra, possiamo vedere che
-come un oggetto si muove a velocità costante
+i) (1 punto) determinare i valori degli espo‐ nenti $\alpha$ e $\beta$.
+F. Moisy, M. Rabaud, PRE 90, 023009 (2014)
+ii) (3 punti) Nell'immagine sopra, possiamo vedere come un oggetto che si muove con velocità costante
 $U
-= 60\ \text{cm s}^{-1}$ genera un'onda  un set
-di onde di lunghezze d'onda diverse.
-Pagamento a
-di tensione alle onde a lunghezza d'onda corta,
-la cresta dell'onda si estende dall'oggetto quasi in alto
-ai bordi della foto: la presenza di
-un lunghissimo fronte d'onda testimonia che per questi
-le onde particolari, la fase e il velo del gruppo;
-Le città sono uguali. Determina la superficie ten-
-Sione di acqua. Puoi fare le misure
-- dalla foto. Nota che mentre la velocità di fase
-è la velocità di una fase costante dell'onda,
-la velocità di gruppo $v_g = \frac{d\omega}{dk}$ è la velocità di un
-pacchetto di onde (un treno di onde).
-
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
+= 60\ \text{cm s}^{-1}$ genera una scia — un insieme di onde di diverse lunghezze d'onda.
+Presta at‐ tenzione alle onde di corta lunghezza d'onda la cui cresta si estende dall'oggetto quasi fino ai bordi della foto: la presenza di un fronte d'onda molto lungo testimonia che per queste particolari onde, le velocità di fase e di gruppo sono uguali. Determina la tensione superficiale dell'acqua. Puoi prendere misure dalla foto. Nota che mentre la velocità di fase è la velocità di una fase costante dell'onda, la velocità di gruppo $v_g = \frac{d\omega}{dk}$ è la velocità di un pacchetto d'onde (un treno d'onde).
 
 
 

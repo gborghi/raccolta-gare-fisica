@@ -154,20 +154,14 @@ Aiuto: ottenere con l'equazione (1) l'allungamento unitario $\varepsilon(x)$ e s
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(b)** Calcule la deformación $\Delta L = L - L_0$ de la barra.
+**(b)** Calculate the deformation $\Delta L = L - L_0$ of the bar.
 
-Help: obtain the unit length $\varepsilon(x)$ by equation (1) and note that each element $dx$ is extended to a length $du = dx + \varepsilon\, dx$.
+Hint: obtain from equation (1) the unit elongation $\varepsilon(x)$ and note that each element $dx$ stretches to a length $du = dx + \varepsilon\, dx$.
 
 <!--fig:start-->
 ![[_attachments/P2_Calentamiento_mare_io/P2_Calentamiento_mare_io_p1_f3.png]]
-*Elastic bar fixed at pivot, Júpiter at right*
+*Elastic bar fixed at pivot, Jupiter at right*
 <!--fig:end-->
-
-**Topic:** [[Elasticity & Materials]], [[Gravitation]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1yYuxPlIM506cNzliKw2hMTbjvTSv31v4/view)
 
 
 
@@ -259,22 +253,16 @@ Ora si tiene conto del movimento orbitale, senza il pivote. La barra ha il suo c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+**Elastic bar in orbit (d)**
 
-Now the orbital motion is taken into account, without the pivot. The bar has its center at $x=0$ at a distance $r_0$ from Jupiter. The entire bar is assumed to rotate at the same angular velocity $\omega$ as its center of mass. The mass of $m_2$ is between $x$ and $L_0/2$.
+Now orbital motion is considered, without the pivot. The rod has its center at $x=0$, located a distance $r_0$ from Jupiter. It is assumed that the entire rod rotates with the same angular velocity $\omega$ as its center of mass. The mass segment $m_2$ lies between $x$ and $L_0/2$.
 
-The mean of the angular velocity $\omega$ is **(d) ** Enter the expression of angular velocity $\omega$. How much is Io's orbital period worth? Write the expression of the centrifugal force $F_{c2}$ acting on the mass piece $m_2$ assuming that the entire mass $m_2$ is located in the center of mass of the piece.
+**(d)** Write the expression for the angular velocity $\omega$. What is the orbital period of Io? Write the expression for the centripetal force $F_{c2}$ acting on the mass segment $m_2$, assuming that all the mass $m_2$ is located at the center of mass of the segment.
 
 <!--fig:start-->
 ![[_attachments/P2_Calentamiento_mare_io/P2_Calentamiento_mare_io_p2_f4.png]]
-The orbit of the planet is not known.
+*Bar in orbital motion around Jupiter*
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yYuxPlIM506cNzliKw2hMTbjvTSv31v4/view)
 
 
 

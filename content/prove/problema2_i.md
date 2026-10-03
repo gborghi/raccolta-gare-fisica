@@ -119,25 +119,16 @@ B
 
 <div class="qlang-split" data-lang="en"></div>
 
-2. (2.0) Once stationary, the cage is arranged in a direction that forms a small angle
+2. (2.0) Once the steady state is reached, the needle aligns along a direction forming a small angle
 $\theta$ with
-. Calculate the coil resistance R according to this angle and other system parameters.
-Lord Kelvin used this method in the 1860s to establish the absolute standard of ohm. To avoid the rotating coil,
-Lorenz designed the alternative method, later used by Lord Rayleigh and Ms. Sidgwick, which we will discuss in the following paragraphs.
-Determination of the  ohm (Rayleigh, Sidgwick).
-The experimental apparatus is shown in Figure F-2. It is
-consisting of two identical metal discs D and D' of radius b
-They're fixed on an SS's lead. A motor makes the
-device at an angular velocity , which can be
-adjusted for measuring R. Two identical coils C and C' (of
-radius a and with each N spire) are placed around the
-The discs. They are connected so that the current I
-It flows in opposite directions. The whole apparatus is used for
-measuring resistance R.
-1 Average value
-of a size
-, periodic period T, is given by
-One or more of the following integers may be useful:
+. Calculate the resistance R of the coil as a function of this angle and the other parameters of the system.
+Lord Kelvin used this method in the 1860s to establish the absolute standard of the ohm. To avoid a rotating coil, Lorenz devised an alternative method subsequently employed by Lord Rayleigh and Miss Sidgwick, which we analyze in the following sections.
+
+Determination of the "ohm" (Rayleigh, Sidgwick).
+The experimental setup is shown in Figure F-2. It consists of two identical metal disks D and D' of radius b, fixed on a conducting rod SS'. A motor rotates the device at an angular velocity , which can be adjusted to measure R. Two identical coils C and C' (of radius a, each with N turns) are placed around the disks. They are connected so that current I flows through them in opposite directions. The entire apparatus is used to measure the resistance R.
+
+1 The average value of a periodic quantity with period T is given by
+Useful may be one or more of the following integrals:
 ,
 , and also
 Th 2 - Page 1 of 3
@@ -163,13 +154,7 @@ Z
 F-1
 0
 B
-36th International Olympics in physics. The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2005.
-
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]], [[Circuits]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]], [[Disk (object)|Disk]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1p2a9aaf5kHyDjLUG_lthJeA2JTv_e7EO/view)
+36th International Physics Olympiad. Salamanca (Spain) 2005
 
 
 
@@ -275,20 +260,12 @@ parallele.
 
 <div class="qlang-split" data-lang="en"></div>
 
-5. (1.0) Calculate the force F agent on C2 due to the magnetic interaction with C1. The Commission has already adopted a proposal for a regulation on the
-force per unit length equal to that which would be between two strands of continuous straight lines running through currents
-parallel to the other.
+5. (1.0) Calculate the force F acting on C2 due to the magnetic interaction with C1. For simplicity, assume that the force per unit length is equal to that which would arise between two infinite straight wires carrying parallel currents.
 
 <!--fig:start-->
- C1-C6 torque leverage
+**p.2** — Current balance with coils C1–C6
 ![[_attachments/problema2_I/problema2_I_p2_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1p2a9aaf5kHyDjLUG_lthJeA2JTv_e7EO/view)
 
 
 
@@ -410,76 +387,75 @@ R.S.E.F.
 
 <div class="qlang-split" data-lang="en"></div>
 
-7. (2.0) The balance sheet balance is stable with small changes in the balance sheet.
-the height of C2 and
-for C5. Calculate the maximum value
-The balance sheet is returned to the position of
-balance when it's left unattended.
-The country code
-The Student Code
-Page number
-Total number of pages
-2 It is considered that the centers of the spires remain approximately aligned.
-Use of approximations
- o
-for
-, e
-For little ones .
+7. (2.0) The balance's equilibrium is stable with respect to displacements that cause small changes in the height of C2 and for C5. Calculate the maximum value for which the balance returns to its equilibrium position when released freely.
+
+COUNTRY CODE
+STUDENT CODE
+PAGE NUMBER
+TOTAL PAGES NUMBER
+
+2 It is assumed that the centers of the coils remain approximately aligned.
+Use approximations for small values, and for very small values.
+
 Th 2 - Page 2 of 3
 R.S.E.F.
-x
-m
-d
+
+x m d
 C1
 C2
-C3
-h
-h
+C3 h h
 F
 F
 F
-F
-d
+F d
 O
 G
 C6
 C5
-C4
-l
+C4 l
 F-3
 I
-36th International Olympics in physics. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Theoretical problem n. 2  Answered
-Question by Mr.
-Basic formulas and ideas used
-Results in analytical form
+
+36th International Physics Olympiad. Salamanca (Spain) 2005
+Theoretical Problem No. 2 – ANSWER SHEET
+
+Question
+Fundamental formulas and ideas used
+Analytical results
 Points
+
 1
 
 1.5
+
 2
 R =
+
 2.0
+
 3
- =
+=
+
 2.0
+
 4
 R =
-0,5
+
+0.5
+
 5
 F =
+
 1.0
+
 6
 I =
+
 1.0
+
 7
 
 2.0
+
 Th 2 - Page 3 of 3
 R.S.E.F.
-
-**Topic:** [[Rotational Dynamics]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1p2a9aaf5kHyDjLUG_lthJeA2JTv_e7EO/view)

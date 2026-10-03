@@ -1035,58 +1035,43 @@ sense in these limits (they should)? Explain why or why not.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 14
-Tempo di lavoro: 40 minuti
-Una rara giraffa a collo e vita ha un lieve disturbo gastrico e deve essere trattata con
-- Ci sono delle palle di medicina giganti. Le palle sono delle palle sferiche e funzionano meglio quando sono grandi.
-L'interno delle giraffe è a temperatura $T_G$ e l'aria circostante è a temperatura $T_A$. As
-La lozenge cambia di temperatura mentre scorre verso il collo della giraffa, lungo e radioso, si espanderà.
-Il volume V della lozenge ad una certa temperatura T è correlato al suo volume $V_A$ a $T_A$ per
+Quesito 14
+Tempo consigliato: 40 minuti
+Un raro giraffa con collo lungo ha un leggero disturbo gastrico, e pertanto deve essere trattata con alcune pillole mediche giganti. Le pillole sono pastiglie sferiche, e funzionano meglio quando sono grandi.
+
+L'interno della giraffa si trova alla temperatura $T_G$ e l'aria circostante è alla temperatura $T_A$. Mentre la pastiglia cambia temperatura scendendo lungo il collo lungo e snello della giraffa, si espande.
+
+Il volume V della pastiglia a una certa temperatura T è legato al suo volume $V_A$ alla temperatura $T_A$ da
 
 $$V = V_A(1 + \beta(T - T_A)) ,$$
 
-in cui $\beta > 0$ è una costante.
-La temperatura non cambia linearmente lungo il collo della giraffa, ma misurazioni accurate
-sono state prese molte volte e è noto che la temperatura varia con la posizione h da
-il corpo della giraffa come
+dove $\beta > 0$ è una costante.
+
+La temperatura non varia linearmente lungo il collo della giraffa, ma numerose misurazioni accurate sono state effettuate e si sa che la temperatura varia con la posizione h rispetto al corpo della giraffa secondo
 
 $$T = T_G - (T_G - T_A)\frac{h^2}{N^2} .$$
 
-a) Indicare che il diametro della palla ad una certa altezza h distante dal corpo della giraffa è dato
-by
+(a) Dimostrare che il diametro della sfera a un'altezza h dal corpo della giraffa è dato da
 
 $$d = d_A[1 + \gamma(N^2 - h^2)]^{1/3} ,$$
 
-dove $d_A$ è il diametro iniziale nell'aria e N è la lunghezza del collo, e trovare il
-costante $\gamma$.
-È fisicamente ragionevole supporre che $\gamma$ sia una piccola quantità. L'approssimazione binomiale
-indica che per il piccolo nx, $(1 + x)^n \simeq 1 + nx$.
-b) Scrivi l'espressione approssimativa di d.
-La larghezza del collo di una giraffa a vita è data da
+dove $d_A$ è il diametro iniziale nell'aria e N è la lunghezza del collo, e determinare la costante $\gamma$.
+
+È fisicamente ragionevole assumere che $\gamma$ sia una quantità piccola. L'approssimazione binomiale afferma che per nx piccolo, $(1 + x)^n \simeq 1 + nx$.
+
+(b) Scrivere l'espressione approssimata per d.
+
+La larghezza del collo di una giraffa con collo lungo è data da
 
 $$w = M + \zeta\left(h - \frac{N}{2}\right)^2 ,$$
 
-dove M è la larghezza minima del collo (alla vita) e h come prima è l'altezza lontana
-da parte del corpo della giraffa, in modo che $h = N$ sia nella parte superiore del collo. $\zeta > 0$ è una costante.
-È di estrema importanza non soffocare la giraffa a vita e collo con il medicinale
-- E' un'idea che non si possa fare.
-- Un modo divertente di trascorrere un pomeriggio. Si può presumere che la differenza tra i
-La larghezza della lozenge in alto al collo $d_A$ differisce dalla larghezza della cintura del collo M solo di un
-quantità molto piccola $\chi$.
-c) Scrivi la condizione per cui la lozenge non si impicca nel collo della giraffa. Rimpiazzare $d_A$
-con $M - \chi$, e poiché $\gamma$ e $\chi$ sono piccole, è possibile trascurare termini che contengono un prodotto di
-- Questi due. Esprimere la vostra condizione come una disuguaglianza con 0 su un lato.
-(d) Per evitare che il lozenge si blocchi, l'ineguaglianza che ha scritto deve essere valida per tutti gli anni
-tra N e 0. Se risolvi l'equazione prodotta trasformando la tua disuguaglianza in un
-l'uguaglianza, potresti trovare o non trovare una soluzione per h in tale intervallo. Spiegare il motivo se
-Non c'è soluzione per H, dove si trova il collo, la lozenge non si blocca.
-e) Trova la dimensione massima della lozenge in modo tale che sia garantito di non rimanere bloccato da tale
-criterio.
-f) Controllare la soluzione per i casi limitanti di $\zeta \to 0$ e $\zeta \to \infty$. I tuoi valori
-In questo caso, la Commissione ha deciso di non limitare la sua posizione. Spiegate il motivo o il motivo.
+dove M è la larghezza minima del collo (alla “cintura”), e h come prima è l'altezza rispetto al corpo della giraffa, in modo che $h = N$ si trovi proprio alla sommità del collo. $\zeta > 0$ è una costante.
+È di fondamentale importanza non soffocare la giraffa a collo sottile con le pastiglie mediche, poiché ciò farebbe più male che bene, e recuperare una pastiglia incastrata non è certo un modo divertente di passare l’pomeriggio. Si può assumere che la differenza tra la larghezza della pastiglia alla sommità del collo $d_A$ e la larghezza al punto di massima restringimento del collo M sia molto piccola, $\chi$.
 
-**Topic:** [[Thermodynamics]], [[Elasticity & Materials]], [[Newtonian Mechanics]]
-**Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15CH22tl276ky5ffb07oRP0TnUUIsThCU/view)
+(c) Scrivere la condizione affinché la pastiglia non si incastrì nel collo della giraffa. Sostituire $d_A$ con $M - \chi$, e poiché $\gamma$ e $\chi$ sono piccoli, si può trascurare ogni termine che contenga il prodotto di questi due. Esporre la condizione come un’ineguaglianza con 0 da un lato.
+
+(d) Affinché la pastiglia non si incastrì, l’ineguaglianza scritta deve valere per ogni h compreso tra N e 0. Se si risolve l’equazione ottenuta ponendo l’ineguaglianza come uguaglianza, si potrebbe o meno trovare una soluzione per h in quell’intervallo. Spiegare perché, se non esiste una soluzione per h da qualche parte nel collo, la pastiglia non si incastrerà.
+
+(e) Determinare la massima dimensione della pastiglia tale che sia garantito non si incastrì secondo questo criterio.
+
+(f) Verificare la soluzione nei casi limite di $\zeta \to 0$ e $\zeta \to \infty$. I vostri valori hanno senso in questi limiti (dovrebbero)? Spiegare perché o perché no.

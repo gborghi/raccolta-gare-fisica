@@ -815,23 +815,12 @@ acceleration of free fall.
 
 <div class="qlang-split" data-lang="it"></div>
 
-16. Una molla senza massa con costante molla $k$ è montata verticalmente in modo che la parte inferiore sia saldamente fissata
-- E la parte superiore è libera. Una palla di massa $m$ cade verticalmente in basso sulla parte superiore del
-la molla, diventando attaccata, in modo che la palla oscilla verticalmente sulla molla. Che equazione
-descrive l'accelerazione $a$ della palla quando si trova ad un'altezza $y$ superiore alla posizione originale della palla
-- Al vertice della primavera? Let down be negative, and neglect air resistance; $g$ is the magnitude of the
-l'accelerazione della caduta libera.
+16. Una molla priva di massa con costante elastica $k$ è montata verticalmente in modo che il suo estremo inferiore sia saldamente fissato al suolo e l'estremo superiore libero. Una pallina di massa $m$ cade verticalmente sullo estremo superiore della molla, si attacca ad essa e così la pallina oscilla verticalmente sulla molla. Quale equazione descrive l'accelerazione $a$ della pallina quando si trova ad un'altezza $y$ sopra la posizione iniziale dell'estremo superiore della molla? Si consideri verso il basso negativo e si trascuri la resistenza dell'aria; $g$ è il modulo dell'accelerazione di gravità libera.
 - **A.** $a = mv^2/y + g$
 - **B.** $a = mv^2/k - g$
 - **C.** $a = (k/m)y - g$
 - **D.** $a = -(k/m)y + g$
 - **E.** $a = -(k/m)y - g$
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YWJCGUBZlhqvijgsvgq7bQAeV55Khm-3/view)
 
 
 

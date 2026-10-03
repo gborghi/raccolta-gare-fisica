@@ -547,68 +547,64 @@ $1366\ \text{W/m}^2$
 <div class="qlang-split" data-lang="it"></div>
 
 Domanda 11
-Tempo di programmazione: 25 minuti
-Le seguenti parti della domanda non sono correlate e possono essere completate in qualsiasi ordine. Si noti che il
-i dati forniti nella pagina successiva possono essere utilizzati per qualsiasi parte, se necessario. Devi spiegare il tuo ragionamento
-per ogni parte.
-- **A.** Calcolare la quantità di energia per grammo di grasso.
-- **B.** Il tipico computer di ufficio viene utilizzato solo un terzo del tempo durante l'orario di lavoro. Oggi un
-un computer di ufficio tipico consuma circa 130 W di potenza.
-La Commissione ha inoltre adottato una decisione che prevede che i costi di produzione di gas serra siano ridotti in base a un'esame di
-un ufficio di 60 persone spegne i loro computer quando non li usano invece di andar via
-li metti sempre, anche durante il fine settimana.
-c) Estimare l'efficienza energetica della conversione della luce solare in canna da zucchero.
-d) Il chilo per chilo umano produce più calore del Sole. È vero questo asserimento?
+Tempo stimato: 25 min
+Le seguenti parti di questo quesito sono indipendenti e possono essere svolte in qualsiasi ordine. Si noti che i dati forniti nella pagina successiva possono essere utilizzati per qualsiasi parte, se necessario. È richiesta un'esplicazione dettagliata del ragionamento per ciascuna parte.
 
-Adulto australiano tipico:
-Massa tipica per adulti
+- **A.** Calcolare l'energia disponibile per grammo di grasso.
+- **B.** Il computer tipico da ufficio viene utilizzato solo un terzo del tempo durante gli orari di lavoro. Oggi, un computer tipico da ufficio consuma circa 130 W di potenza.
+Stimare i risparmi economici e la riduzione delle emissioni di gas serra in un anno, nel caso in cui tutti i 60 dipendenti di un ufficio spegnessero i propri computer quando non li usano, invece di lasciarli accesi tutto il tempo, anche nei fine settimana.
+- **C.** Stimare l'efficienza energetica della conversione della luce solare in zucchero di canna.
+- **D.** “Un chilogrammo di umani produce più calore del Sole.” Questa affermazione è vera?
+
+Adulto tipico australiano:
+Massa adulto tipico
 $65\ \text{kg}$
-Altezza tipica per adulti
+Altezza adulto tipico
 $1.7\ \text{m}$
-Linee guida alimentari:
-Assunzione energetica raccomandata
+
+Linee guida per l'alimentazione:
+Apporto energetico raccomandato
 $8700\ \text{kJ/day}$
-Assunzione giornaliera raccomandata di grassi
-30% di energia (70 g/giorno)
-Assunzione giornaliera raccomandata di carboidrati (zucchieri, farina, ecc.)
-4565% di energia (230310 g/giorno)
+Intake giornaliero raccomandato di grassi
+30% dell'energia (70 g/giorno)
+Intake giornaliero raccomandato di carboidrati (zuccheri, farina, ecc.)
+45–65% dell'energia (230–310 g/giorno)
+
 Dati sull'elettricità:
-Prezzi tipici
+Prezzo tipico
 15 c/kWh
-Tipico di emissioni di serra
+Emissioni di gas serra tipiche
 $0.87\ \text{kg(CO}_2\text{ equiv.)/kWh}$
-Nota: 1 kWh = 1 kilowattora
+
+Nota: 1 kWh = 1 chilowattora
+
 Dati sulla canna da zucchero australiana:
-Rendimento medio della canna da zucchero
+Resa media della canna da zucchero
 $9.2\ \text{kg/m}^2$
 Contenuto tipico di zucchero
 15%
-Contenuto tipico di bagasse
+Contenuto tipico di bagassa
 30%
-Contenuto di acqua tipico
+Contenuto tipico di acqua
 55%
-Contenuto energetico tipico del bagasse
+Contenuto energetico tipico della bagassa
 $19.2\ \text{MJ/kg}$
-Nota: il bagasse è il sottoprodotto della triturazione della canna da zucchero per estrarre lo zucchero ed è spesso utilizzato come combustibile.
-Dati del Sistema Solare
-Distanza Terra-Sol
+
+Nota: la bagassa è il sottoprodotto della lavorazione della canna da zucchero per estrarre lo zucchero ed è spesso utilizzata come combustibile.
+
+Dati del sistema solare:
+Distanza Terra-Sole
 $1.5\times10^{11}\ \text{m}$
-Radius del Sole
+Raggio del Sole
 $7.0\times10^5\ \text{km}$
-Massa del sole
+Massa del Sole
 $2.0\times10^{30}\ \text{kg}$
-Radius della Terra
+Raggio della Terra
 $6.4\times10^3\ \text{km}$
 Massa della Terra
 $6.0\times10^{24}\ \text{kg}$
-Typical intensità della luce solare sulla Terra
+Intensità tipica della luce solare alla Terra
 $1366\ \text{W/m}^2$
-
-**Topic:** [[Thermodynamics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1UvrYokqW_Vj6Iy1UadhVyGzv8TSxrEu5/view)
 
 
 

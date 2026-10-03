@@ -114,99 +114,82 @@ Se sì, qual è il suo nuovo valore? $\dots\dots\dots\dots\dots\dots\dots\dots\d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is
+Problem 1
 Radiation absorption by a gas
-A cylindrical container with a vertical axis contains a molecular gas in equilibrium
-The thermodynamic effect. The upper cylinder base can be moved freely and is made of a sheet of
-The glass is not gas-filled and the friction between the glass plate and the cylinder is
-The resulting fluctuations are not sufficient to dampen the oscillations but do not result in appreciable energy losses in the
-The overall energy budget. The gas temperature is initially the same as the ambient temperature.
-around. Gas can be considered perfect with good approximation. Let's also assume
-The cylinder walls (including the bases) have a very high conductivity and thermal capacity.
-The Commission has already adopted a proposal for a directive on the approximation of the laws of the Member States relating to the use of energy in the production of energy.
-This is a problem that can be overlooked.
-Through the sheet of glass, we send the light emitted by a powerful laser into the cylinder.
-The air and glass are transparent to this radiation, but it is totally absorbed by the
-gas inside the container. By absorbing this radiation, the molecules are transported to excited states.
-From which they quickly emit infrared radiation, returning to the state in a waterfall.
-This radiation is also absorbed by other molecules and reflected by the
-from the walls of the container, including the sheet of glass. The energy absorbed is therefore ultimately
-The laser is transferred in a very short time in thermal motion (molecular chaos), and
-And then it stays in the gas for quite a while.
-We observe the glass plate rising; after a certain radiation time we turn off the
-Let's take a laser and measure this elevation.
-1.
-Using the data provided at the bottom and  if necessary  those on the sheet with the physical constants,
-The temperature and pressure of the gas after irradiation shall be calculated.
-The following points shall be added:
-2.
-The mechanical work done by the gas as a result of radiation absorption is calculated.
-The following points shall be added:
-3.
-The radiant energy absorbed during irradiation is calculated.
-The following points shall be added:
-4.
-The laser output power is calculated and the corresponding number of
-absorbed photons (and therefore of elementary absorption processes) per unit of time.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-5.
-Calculate the efficiency of the process of conversion of optical energy into potential energy
-The mechanics of the glass plate.
-The following points shall be added:
-The cylinder is then rotated slowly by $90^{\circ}$, leading its axis in a horizontal direction. The
-The heat exchange between gas and container can still be neglected.
-6.
-Tell if the gas pressure and/or temperature change as a result of this rotation and 
-If so, what is its new value?
-The following points shall be added:
-The data
-Pressione ambiente: $p_0 = 1013\ \text{kPa}$
-Temperatura ambiente: $T_0 = 20.0\ ^\circ\text{C}$
-The cylinder diameter shall be: $2r = 100\ \text{mm}$
-Mass of the glass plate: $m = 800\ \text{g}$
-Amount of gas in the container: $n = 0.100\ \text{mol}$
-Specific molar heat at constant gas volume: $c_V = 20.8\ \text{J/(mol}\cdot\text{K)}$
-The laser emission wavelength: $\lambda = 514\ \text{nm}$
-Tempo di irraggiamento: $\Delta t = 10.0\ \text{s}$
-Movement of the movable plate following irradiation: $\Delta s = 30.0\ \text{mm}$
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is the list of the countries of the European Union:
-Paper-reactions
-In this problem you are asked to give your results in the form of both analytical and
-Number results with units: first write the formula and then the numerical result (p. es. $A = bc = 1.23\ \text{m}^2$).
-1.
-The temperature of the gas after irradiation $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-Gas pressure after irradiation $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-2.
-Mechanical work performed $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$...
-3.
-Optical energy absorbed by the gas as a whole $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-4.
-Optical power from the laser absorbed by the gas $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-Frequency of absorption of
-The number of photons
-Other, of a width of not more than 600 mm
-per unit of
-tempo) $\dots\dots\dots\dots\dots\dots\dots.\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-5.
-Performance in the conversion of optical energy to potential energy
-Mechanical working of glass plate $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$..
-6.
-Is there a change in pressure as a result of the cylinder rotation?
-SI
-NO
-If so, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-Is there a temperature change as a result of the cylinder rotation?
-SI
-NO
-If so, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
-**Topic:** [[Thermodynamics]], [[Modern-Quantum Physics]], [[Newtonian Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RHwzdDm0V1CtnCCDQ6qLK7qXRs3HHoll/view)
+A cylindrical container, with its axis vertical, contains a molecular gas in thermodynamic equilibrium. The upper base of the cylinder can move freely and is made of a glass plate; we assume no gas leakage occurs, and the friction between the glass plate and the cylinder is just sufficient to dampen oscillations but does not cause appreciable energy losses in the overall energy balance. Initially, the gas temperature is equal to that of the surrounding environment. The gas may be considered ideal with good approximation. We also assume that the cylinder walls (including both bases) have very low thermal conductivity and heat capacity, so that heat exchange between the gas and the environment is extremely slow; in solving this problem, such exchanges may be neglected.
+Through the glass plate, we send light from a laser with constant power into the cylinder; air and glass are transparent to this radiation, but it is completely absorbed by the gas inside the container. Upon absorbing this radiation, molecules are excited to higher energy states, from which they rapidly re-emit infrared radiation as they cascade back down to the ground state. However, this emitted radiation is further absorbed by other molecules and reflected off the container walls, including the glass plate. In the end, therefore, the energy absorbed from the laser is converted into thermal motion (molecular chaos) in a very short time, and subsequently remains trapped in the gas for a rather long period.
+
+We observe that the glass plate rises; after a certain irradiation time, we turn off the laser and measure this elevation.
+
+1.
+Using the data provided at the bottom and – if necessary – those on the sheet with physical constants, calculate the temperature and pressure of the gas after irradiation.
+[2 points]
+
+2.
+Calculate the mechanical work done by the gas as a result of absorbing radiation.
+[1 point]
+
+3.
+Calculate the radiant energy absorbed during irradiation.
+[2 points]
+
+4.
+Calculate the power emitted by the laser that is absorbed by the gas, and the corresponding number of photons absorbed (and thus elementary absorption processes) per unit time.
+[1.5 points]
+
+5.
+Calculate the efficiency of the process converting optical energy into mechanical potential energy of the glass plate.
+[1 point]
+
+Subsequently, the cylinder is slowly rotated by $90^{\circ}$, bringing its axis into a horizontal direction. Heat exchange between the gas and the container can still be neglected.
+
+6.
+State whether the pressure and/or temperature of the gas change as a result of this rotation, and if so, determine their new values.
+[2.5 points]
+
+Data
+Ambient pressure: $p_0 = 1013\ \text{kPa}$
+Ambient temperature: $T_0 = 20.0\ ^\circ\text{C}$
+Internal diameter of the cylinder: $2r = 100\ \text{mm}$
+Mass of the glass plate: $m = 800\ \text{g}$
+Amount of gas inside the container: $n = 0.100\ \text{mol}$
+Molar specific heat at constant volume of the gas: $c_V = 20.8\ \text{J/(mol}\cdot\text{K)}$
+Wavelength of laser emission: $\lambda = 514\ \text{nm}$
+Irradiation time: $\Delta t = 10.0\ \text{s}$
+Displacement of the movable plate due to irradiation: $\Delta s = 30.0\ \text{mm}$
+
+NAME____________________________
+TEAM_____________________________
+CODE______________________________
+Answer Sheet
+
+In this problem, you are asked to provide your results both in analytical expressions and numerical values with units: write the formula first, then the numerical result (e.g., $A = bc = 1.23\ \text{m}^2$).
+
+1.
+Temperature of the gas after irradiation: $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Pressure of the gas after irradiation: $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+
+2.
+Mechanical work performed: $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+
+3.
+Total optical energy absorbed by the gas: $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+
+4.
+Optical power emitted by the laser and absorbed by the gas: $.\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Photon absorption frequency (number of photons absorbed per unit time) $\dots\dots\dots\dots\dots\dots\dots.\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+5.
+Efficiency in the conversion of optical energy into change of mechanical potential energy of the glass plate $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+6.
+Is there a pressure change due to the rotation of the cylinder?
+YES
+NO
+If yes, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+Is there a temperature change due to the rotation of the cylinder?
+YES
+NO
+If yes, what is its new value? $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 
 
@@ -310,96 +293,81 @@ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two
-Magnetic field produced by a V-wire
-One of the first successes of Ampere's interpretation of magnetic phenomena was the calculation of the
-magnetic field generated by currents in wires. This interpretation was in some cases at odds with the
-The Commission has therefore considered that the Commission should be able to assess the compatibility of the measures with the internal market.
-A particularly interesting case is that of a thin, very long wire in which a
-a constant current $i$, made up of two straight lines folded to form a "V", with an angular half-aperture
-$\alpha$ (vedi figura). According to Ampère's calculations the magnitude $B$ of the magnetic field at a point $P$
-on the 'V' axis, outside it and at a distance $d$ from its vertex, is proportional to
-$\tan\left(\dfrac{\alpha}{2}\right)$.
-Ampère's work was later incorporated into Maxwell's theory of electromagnetism, and is now
-The Commission has already adopted a number of proposals.
+Problem 2
+Magnetic field produced by a V-shaped wire
+
+One of the early successes of Ampère’s interpretation of magnetic phenomena was the calculation of the magnetic field generated by currents in wires. This interpretation sometimes disagreed with earlier hypotheses originally formulated by Biot and Savart.
+
+A particularly interesting case is that of a thin, very long wire carrying a constant current $i$, made of two straight segments bent to form a "V" shape, with angular semi-opening $\alpha$ (see figure). According to Ampère’s calculations, the magnitude $B$ of the magnetic field at a point $P$ located on the axis of the "V", outside it, and at a distance $d$ from its vertex, is proportional to $\tan\left(\dfrac{\alpha}{2}\right)$.
+
+Ampère’s work was later incorporated into Maxwell’s theory of electromagnetism, and is now universally accepted.
+
 Using our current knowledge of electromagnetism,
+
 1.
-The direction of the $B$ field is in $P$.
-The following points shall be added:
+Determine the direction of the magnetic field $B$ at point $P$.
+[1 point]
+
 2.
-Knowing that the field is proportional to $\tan\left(\dfrac{\alpha}{2}\right)$, the proportionality factor $k$ is found in
-$B(P) = k\,\tan\left(\dfrac{\alpha}{2}\right)$.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Knowing that the field is proportional to $\tan\left(\dfrac{\alpha}{2}\right)$, determine the proportionality factor $k$ in $B(P) = k\,\tan\left(\dfrac{\alpha}{2}\right)$.
+[1.5 points]
+
 3.
-The $B$ field is calculated at a point $P^*$ symmetrical to $P$ with respect to the vertex, i.e. along the axis and
-at the same distance $d$, but within the 'V' (see figure).
-The following points shall be added:
+Calculate the magnetic field $B$ at a point $P^*$ symmetric to $P$ with respect to the vertex, that is, along the axis and at the same distance $d$, but inside the "V" (see figure).
+[2 points]
+
 1 In this problem $\alpha$ is always measured in radians.
-4.
-To measure the magnetic field, we place in $P$ a small magnetic needle with momentum
-d’inerzia $I$ e momento di dipolo magnetico $\mu$; esso oscilla attorno a un punto fisso in un
-Plan containing the direction of $B$. The period of the small oscillations of
-This is the function of $B$.
-The following points shall be added:
-In the same conditions, Biot and Savart had instead hypothesized that the magnetic field in $P$
-fosse (usando la notazione moderna) $B(P) = \dfrac{i\,\mu_0\,\alpha}{\pi^2 d}$, dove $\mu_0$ è la permeabilità magnetica del vuoto.
-In fact, they tried to decide between the two interpretations (Ampère's and Biot's and
-Savart) with an experiment, measuring the period of oscillation of the magnetic field at varying
-The opening of the "V". However, for some values of $\alpha$ the differences are too small to be
-easily measurable.
+To measure the magnetic field, we place a small magnetic needle with moment of inertia $I$ and magnetic dipole moment $\mu$ at $P$; it oscillates about a fixed point in a plane containing the direction of $B$. Calculate the period of small oscillations of this needle as a function of $B$.
+[2.5 points]
+
+Under the same conditions, Biot and Savart instead assumed that the magnetic field at $P$ was (using modern notation) $B(P) = \dfrac{i\,\mu_0\,\alpha}{\pi^2 d}$, where $\mu_0$ is the magnetic permeability of vacuum.
+
+Indeed, they attempted to decide between the two interpretations (Ampère’s and Biot–Savart’s) through an experiment, measuring the oscillation period of the magnetic needle as a function of the opening angle of the "V". However, for some values of $\alpha$, the differences are too small to be easily measurable.
+
 5.
-If, to experimentally distinguish between the two forecasts for the $T$ oscillation period
-If we have a magnetic needle in $P$, we need a difference of at least 10%, that is $T_1 > 1.10\,T_2$
-($T_1$ is Ampère's prediction and $T_2$ is Biot and Savart's), let's say in which case
-interval, approximately, we have to choose the half-opening $\alpha$ of the "V" so we can
-The Commission will be able to draw up a draft directive on the protection of workers' rights.
-The following points shall be added:
-Suggestion
-Depending on the path you take in the solution, the following trigonometric equation could be
-be useful:
+If, in order to experimentally discriminate between the two predictions for the oscillation period $T$ of the magnetic needle at $P$, we require a difference of at least 10%, i.e., $T_1 > 1.10\,T_2$ (where $T_1$ is Ampère’s prediction and $T_2$ Biot–Savart’s), determine approximately in which interval we must choose the semi-opening angle $\alpha$ of the "V" in order to distinguish between the two interpretations.
+[3 points]
+
+Hint
+Depending on the approach you take in solving, the following trigonometric equation might be useful:
 $\tan\left(\dfrac{\alpha}{2}\right) = \dfrac{\sin\alpha}{1 + \cos\alpha}$
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is the list of the countries of the European Union:
-Paper-reactions
-In this problem, write the results in the form of analytical expressions, not results.
-The Commission shall adopt the following measures:
+
+NAME____________________________
+TEAM_____________________________
+CODE______________________________
+Answer Sheet
+In this problem, write the results in analytical expression form, not as numerical values, unless explicitly required.
+
 1.
-Using the following diagram, the direction and direction of the $B$ field (length) are drawn
-The carrier is not important). The sketch is from a spatial perspective.
+Using the following sketch, draw the direction and sense of the field $B$ (the vector length is irrelevant). The sketch is in spatial perspective view.
+
 2.
-Fattore di proporzionalità $k$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+Proportionality factor $k$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+
 3.
-Intensity (absolute value) of the magnetic field in $P^*$ described
-in $\dots\dots\dots\dots\dots\dots\dots\dots\dots$, the direction of $B$ is drawn in the previous diagram.
+Magnitude (absolute value) of the magnetic field at point $P^*$ described in the text $\dots\dots\dots\dots\dots\dots\dots\dots\dots$. Draw on the previous sketch the direction of $B$.
+
 4.
-Period of small magnetic field oscillations $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+Period of small oscillations of the magnetic needle $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
+
 5.
-Write in which range of values of $\alpha$ (indicating here the numerical values of the extremes)
-The ratio between the periods of oscillation, according to Ampère's forecasts, is the
-and of Biot and Savart, it's greater than 1.10:
+Write in which interval of values of $\alpha$ (indicating here the numerical values of the endpoints of the interval) the ratio between the oscillation periods, according to Ampère's and Biot–Savart’s predictions, is greater than 1.10:
 $\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
 
 <!--fig:start-->
-**p.5** — Filo a V con punto P, distanza d, angolo alfa
+**p.5** — V-shaped wire with point P, distance d, angle alpha
 ![[_attachments/TEOSTU_I/TEOSTU_I_p5_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  V-string with points P and P asterisk
+**p.6** — V-shaped wire with points P and P asterisk
 ![[_attachments/TEOSTU_I/TEOSTU_I_p6_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7** — Vista prospettica spaziale del filo a V
+**p.7** — Spatial perspective view of the V-shaped wire
 ![[_attachments/TEOSTU_I/TEOSTU_I_p7_f3.png]]
 <!--fig:end-->
-
-**Topic:** [[Magnetism]], [[Oscillations & Waves]], [[Electromagnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Ampère's Law (metodo)|Ampère's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1RHwzdDm0V1CtnCCDQ6qLK7qXRs3HHoll/view)
 
 
 
@@ -564,152 +532,108 @@ Massa di Giove: $M = 1.901\cdot10^{27}\ \text{kg}$
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 3
-A space probe to Jupiter
-In this problem we consider a method often used to accelerate space probes in the
-The direction you want. The probe passes close to a planet and can greatly increase its own
-speed and/or vary considerably in flight direction, exchanging a very small
-amount of energy with the planet's orbital motion. Let's study this effect for a probe.
-spacecraft that passes near Jupiter.
-The planet Jupiter orbits the Sun along an elliptical trajectory, which we can approximate
-with an average radius of $R$; first, to proceed with the situation analysis
-the physics,
+A spacecraft journeying toward Jupiter
+
+In this problem we consider a method frequently used to accelerate space probes in the desired direction. The spacecraft passes near a planet and can significantly increase its own speed and/or substantially change its flight direction, by exchanging a very small amount of energy with the planet's orbital motion. Here we examine this effect for a spacecraft passing near Jupiter.
+
+The planet Jupiter orbits the Sun along an elliptical trajectory, which we may approximate as a circle of mean radius $R$; first, to proceed with the analysis of the physical situation,
+
 1.
-The planet's speed $V$ is in its orbit around the Sun.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Find the velocity $V$ of the planet in its orbit around the Sun.
+[1.5 points]
+
 2.
-When the probe is between the Sun and Jupiter (in the Sun-Jupiter segment), the distance from the Sun to Jupiter is
-Jupiter where the gravitational pull of the Sun is equal to that of Jupiter.
-The following points shall be added:
-A mass spacecraft $m = 825\ \text{kg}$ passes near Jupiter. For simplicity's sake, let's make the assumption
-that the orbit of the spacecraft is entirely in the plane of Jupiter's orbit; thus
-We're not considering a major case, the one where the spacecraft is ejected from the orbital plane.
-Consider only what is happening in the region where Jupiter's attraction is the
-This is more important than all other gravitational interactions.
-In the solar reference system the initial speed is $v_0 = 1.00\cdot10^4$ m/s (in the direction of the Sun's orbit).
-positive of the $y$ axis) while the velocity of Jupiter is on the negative side of the $x$ axis (see Figure 1);
-By "starting speed" we mean the speed of the probe when it's in interplanetary space.
-It is still far from Jupiter but already in the region where the solar attraction is negligible compared to the
-The one on Jupiter. Let us suppose that the meeting takes place in a short time
-To ignore the change in direction of Jupiter in its orbit around the Sun. Consider the
-In the case where the probe passes behind Jupiter, the $x$ is greater for the probe than for Jupiter
-when the order $y$ is the same.
-Figure 1 Viewed from the solar reference system. Or it's the orbit of Jupiter, or the space probe.
-3.
-Find the direction of motion of the probe (i.e. the angle $\varphi$ between its direction and the axis $x$)
-and its speed $v'$ in the Jupiter reference system, when it is still distant from
-- It's not.
-The following points shall be added:
-4.
-The total energy $E$ of the spacecraft is found in the reference system of Jupiter,
-The value of the energy potential at a distance is zero.
-The speed of the vehicle is very large; in our case when it is moving at a practically constant speed in the
-There are very small gravitational interactions.
-The following points shall be added:
-The trajectory of the space probe in Jupiter's reference system is a branch of hyperbole whose
-the polar coordinate equation in that reference is
-$$\frac{1}{r} = \frac{GM}{v'^2\,b^2}\left(1 + \sqrt{1 + \frac{2E\,v'^2\,b^2}{G^2 M^2 m}}\,\cos\theta\right) \qquad (1)$$
-where $b$ is the distance between one of the asynchronous points and Jupiter (the so-called impact parameter), $E$ is
-The total mechanical energy of the probe in the Jupiter reference system, $G$ is the constant of
-Cavendish, $M$ is the mass of Jupiter, $r$ and $\theta$ are the polar coordinates (the radial distance and the
-The polar angle).
-Figure 2 shows the two branches of the hyperbole, one of which is described by equation (1);
-The asynchronous and polar coordinates are also shown. It should be noted that equation (1) has its origin in the
- Attractive fire  of hyperbole. The trajectory of the space probe is the attractive one (the branch
-The Commission has not yet taken any further action.
-Figure two. The probe's trajectory in the reference to Jupiter and asynchronous hyperbole. Jupiter is Jupiter, Space
-probe = space probe.
+When the spacecraft is located between the Sun and Jupiter (on the segment Sun-Jupiter), find the distance from Jupiter where the gravitational attraction of the Sun equals that of Jupiter.
+[1 point]
+
+A spacecraft of mass $m = 825\ \text{kg}$ passes near Jupiter. For simplicity, assume that the trajectory of the spacecraft lies entirely within the plane of Jupiter's orbit; thus we do not consider an important case, namely that in which the spacecraft is ejected out of the orbital plane.
+
+We consider only what happens in the region where Jupiter's gravitational attraction completely dominates all other gravitational interactions.
+In the Sun's reference frame, the initial velocity is $v_0 = 1.00\cdot10^4$ m/s (in the positive direction of axis $y$), while Jupiter's velocity is in the negative direction of axis $x$ (see Figure 1).
+By "initial velocity" we mean the velocity of the spacecraft when it is in interplanetary space, still far from Jupiter but already in the region where solar gravitational attraction becomes negligible compared to that of Jupiter. We assume the encounter occurs over a sufficiently short time interval so that Jupiter’s orbital direction change can be neglected. We consider the case in which the spacecraft passes behind Jupiter, meaning that coordinate $x$ is larger for the spacecraft than for Jupiter when their coordinate $y$ is equal.
+
+Figure 1: View in the Sun's reference frame. O denotes Jupiter’s orbit, S the spacecraft.
+
+3. Determine the direction of motion of the spacecraft (i.e., angle $\varphi$ between its velocity vector and axis $x$) and its speed $v'$ in Jupiter’s reference frame, when it is still far from Jupiter.
+[2 points]
+
+4. Determine the total energy $E$ of the spacecraft in Jupiter’s reference frame, setting (as usual) the potential energy to zero at very large distances; in our case, when it moves at nearly constant velocity under the influence of negligible gravitational interactions.
+[1 point]
+The trajectory of the space probe in Jupiter's reference frame is a branch of a hyperbola whose equation in polar coordinates, within this reference frame, is
+$$\frac{1}{r} = \frac{GM}{v'^2\,b^2}\left(1 + \sqrt{1 + \frac{2E\,v'^2\,b^2}{G^2 M^2 m}}\,\cos\theta\right) \qquad (1)$$ where $b$ is the distance between one of the asymptotes and Jupiter (the so-called impact parameter), $E$ is the total mechanical energy of the probe in Jupiter's reference frame, $G$ is the gravitational constant (Cavendish constant), $M$ is Jupiter's mass, and $r$ and $\theta$ are the polar coordinates (radial distance and polar angle).
+
+Figure 2 shows the two branches of the hyperbola, one of which is described by equation (1); the asymptotes and polar coordinates are also indicated. Note that equation (1) has its origin at the "attractive focus" of the hyperbola. The trajectory of the space probe is the attractive branch (the highlighted one).
+
+Figure 2. Trajectory of the probe in Jupiter's reference frame and asymptotes of the hyperbola. Jupiter = Giove, Space probe = sonda spaziale.
+
 5.
-Using equation (1) describing the trajectory of the spacecraft, the
-Total angular deviation $\Delta\theta$ in the Jupiter reference system (as shown in Figure 1)
-2) and expressed as the initial speed of the probe $v'$ and the parameter
-The impact of the test is $b$.
-The following points shall be added:
+Using equation (1), which describes the trajectory of the space probe, find the total angular deflection $\Delta\theta$ in Jupiter's reference frame (as indicated in Figure 2), and express it as a function of the probe’s initial velocity $v'$ and impact parameter $b$.
+[2 points]
+
 6.
-The minimum distance the probe can travel from Jupiter is assumed to be
-If you have three Jupiter rays from the center of the planet, you have the minimum possible value of the parameter
-dimpact $b$ and the maximum possible value of the angular deviation $\Delta\theta$.
-The following points shall be added:
+Assuming that the minimum distance at which the probe can pass by Jupiter is three times Jupiter’s radius from the planet's center, determine the minimum possible value of the impact parameter $b$ and the maximum possible value of the angular deflection $\Delta\theta$.
+[1 point]
+
 7.
-A formula for the final speed $v''$ is found in the solar reference system, in
-a function only of the speed of Jupiter $V$, the initial speed of the probe $v_0$, and
-The angle of deflection $\Delta\theta$.
-The following points shall be added:
+Find a formula for the final velocity $v''$ in the Sun's reference frame, as a function solely of Jupiter's velocity $V$, the probe's initial velocity $v_0$, and the deflection angle $\Delta\theta$.
+[1 point]
 8.
-Using the previous results, we find the numerical value of the end speed $v''$ in the
-Solar reference system when the angular deviation is the maximum value
-I'm sure you can.
-The following points shall be added:
-Suggestion
-Depending on the path you choose for the solution, the following trigonometric relationships
-may be useful:
+Using the previous results, find the numerical value of the final velocity $v''$ in the solar reference frame when the angular deflection has the maximum possible value.
+[0.5 points]
+Hint
+Depending on the path you choose for the solution, the following trigonometric relations may be useful to you:
 $$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
 $$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
-The name of the person concerned
-The Commission shall adopt the following measures:
-The following is the list of the countries of the European Union:
-Paper-reactions
-In this problem you have to write your results as both analytical expressions and as
-numerical results with units (e.g. $A = bc = 1.23\ \text{m}^2$), except where required
-I'm not going to say that I'm not going to do it.
-1. The speed $V$ of Jupiter along its orbit $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-2. Distance from Jupiter where the two gravitational attractions are equal.
+NAME________________________________
+TEAM________________________________
+CODE________________________________
+Answer sheet
+In this problem you must write your results both as analytical expressions and as numerical results with units (for example $A = bc = 1.23\ \text{m}^2$), except where it is explicitly required to do otherwise.
+1. Velocity $V$ of Jupiter along its orbit $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+2. Distance from Jupiter at which the two gravitational attractions become equal.
 $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-3. Initial speed $v'$ of the space probe in the reference system of
-Giove $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$... and angle that its direction forms with the axis $x$ as
-defined in Figure 1,
+3. Initial velocity $v'$ of the space probe in the reference frame of
+Jupiter $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$... and the angle that its direction forms with the axis $x$ as defined in figure 1,
 $\dots\dots\dots\dots\dots\dots\dots\dots..\dots\dots\dots$
-4. Total energy $E$ of the spacecraft in the Jupiter reference system $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$...
-5. Write a formula giving the angular deviation of the probe in the reference system of
-Jupiter according to the impact parameter $b$, the initial velocity $v'$ and other known quantities or
-already calculated $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-6. If the distance of the probe from the centre of Jupiter cannot be less than three times the radius of
-Giove, si dia il valore minimo di $b$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$ e il valore massimo di
+4. Total energy $E$ of the space probe in the reference frame of Jupiter $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$...
+5. Write a formula that gives the angular deflection of the probe in the reference frame of
+Jupiter as a function of the impact parameter $b$, of the initial velocity $v'$ and of other known or already calculated quantities $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+6. If the distance of the probe from the center of Jupiter cannot be less than three times the radius of
+Jupiter, give the minimum value of $b$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$ and the maximum value of
 $\Delta\theta$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-7. Write a formula that gives the probe's final speed $v''$ in the solar reference system
-in funzione di $V$, $v_0$ e $\Delta\theta$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots..\dots\dots\dots\dots\dots\dots\dots\dots\dots...\dots\dots\dots$
-8. The number of end speed values in the solar reference system when the deviation is
-angular has the maximum value calculated in point 6. $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+7. Write a formula that gives the final velocity $v''$ of the probe in the reference frame of the Sun as a function of $V$, $v_0$ and $\Delta\theta$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots..\dots\dots\dots\dots\dots\dots\dots\dots\dots...\dots\dots\dots$
+8. Numerical value of the final velocity in the solar reference frame when the angular deviation has the maximum value calculated in point 6. $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
 Physical constants and general data
-In addition to the numerical data provided with the text of the individual problems, knowledge of some of the
-General and universal constant data, which you can find in the following. This data is almost the same as the
-The most accurate figures currently available, and therefore have a high number of significant figures; however, there are
-You're expected to write your results down with the right number of digits for each.
-I'm not sure.
-The speed of light in vacuum: $c = 299792458\ \text{m}\,\text{s}^{-1}$
-The magnetic permeability of the vacuum: $\mu_0 = 4\pi\cdot10^{-7}\ \text{H}\,\text{m}^{-1}$
-Costante dielettrica del vuoto: $\varepsilon_0 = 8.8541878\ \text{pF}\,\text{m}^{-1}$
-Costante di Cavendish: $G = 6.67259\cdot10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$
+In addition to the numerical data provided with the text of the individual problems, knowledge of some general data and universal constants may be useful, which you can find among the following. These data are nearly the most accurate currently available, and therefore have a high number of significant digits; however, you are expected to write your results with a number of digits appropriate for each problem.
+Speed of light in vacuum: $c = 299792458\ \text{m}\,\text{s}^{-1}$
+Magnetic permeability of vacuum: $\mu_0 = 4\pi\cdot10^{-7}\ \text{H}\,\text{m}^{-1}$
+Dielectric constant of vacuum: $\varepsilon_0 = 8.8541878\ \text{pF}\,\text{m}^{-1}$
+Cavendish constant: $G = 6.67259\cdot10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$
 Gas constant: $R = 8.314510\ \text{J/(mol}\cdot\text{K)}$
-The Boltzmann constant is $k = 1.380658\cdot10^{-23}\ \text{J}\,\text{K}^{-1}$
-Costante di Stefan: $\sigma = 56.703\ \text{nW/(m}^2\,\text{K}^4)$
-Carica elementare: $e = 1.60217733\cdot10^{-19}\ \text{C}$
-Mass of the electron: $m_e = 9.1093897\cdot10^{-31}\ \text{kg}$
-Costante di Planck: $h = 6.6260755\cdot10^{-34}\ \text{J}\,\text{s}$
+Boltzmann constant: $k = 1.380658\cdot10^{-23}\ \text{J}\,\text{K}^{-1}$
+Stefan constant: $\sigma = 56.703\ \text{nW/(m}^2\,\text{K}^4)$
+Elementary charge: $e = 1.60217733\cdot10^{-19}\ \text{C}$
+Electron mass: $m_e = 9.1093897\cdot10^{-31}\ \text{kg}$
+Planck constant: $h = 6.6260755\cdot10^{-34}\ \text{J}\,\text{s}$
 Base of the Celsius scale: $T_K = 273.15\ \text{K}$
 Mass of the Sun: $M_S = 1.991\cdot10^{30}\ \text{kg}$
-The mass of the Earth: $M_E = 5.979\cdot10^{24}\ \text{kg}$
-Average radius of the Earth: $r_E = 6.373\ \text{Mm}$
-Half-length greater than the Earth's orbit: $R_E = 1.4957\cdot10^{11}\ \text{m}$
-Giorno sidereo: $d_S = 86.16406\ \text{ks}$
-Anno: $y = 31.558150\ \text{Ms}$
-Standard value of the ground gravitational field at sea level: $g = 9.80665\ \text{m}\,\text{s}^{-2}$
-Standard mean sea level air pressure: $p_0 = 101325\ \text{Pa}$
-The refractive index of the air by visible light, at standard pressure and at $15\ ^\circ\text{C}$: $n_\text{air} = 1.000277$
-The solar constant is $S = 1355\ \text{W}\,\text{m}^{-2}$
-The mass of Jupiter: $M = 1.901\cdot10^{27}\ \text{kg}$
+Mass of the Earth: $M_E = 5.979\cdot10^{24}\ \text{kg}$
+Mean radius of the Earth: $r_E = 6.373\ \text{Mm}$
+Semi-major axis of Earth's orbit: $R_E = 1.4957\cdot10^{11}\ \text{m}$
+Sidereal day: $d_S = 86.16406\ \text{ks}$
+Year: $y = 31.558150\ \text{Ms}$
+Standard value of Earth's gravitational field at sea level: $g = 9.80665\ \text{m}\,\text{s}^{-2}$
+Standard value of atmospheric pressure at sea level: $p_0 = 101325\ \text{Pa}$
+Refractive index of air for visible light, at standard pressure and at $15\ ^\circ\text{C}$: $n_\text{air} = 1.000277$
+Solar constant: $S = 1355\ \text{W}\,\text{m}^{-2}$
+Mass of Jupiter: $M = 1.901\cdot10^{27}\ \text{kg}$
 
 <!--fig:start-->
-**p.9** — Figura 1: orbita ellittica nel sistema del Sole
+**p.9** — Figure 1: elliptical orbit in the Sun's frame
 ![[_attachments/TEOSTU_I/TEOSTU_I_p9_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.10** — Figura 2: traiettoria iperbolica vicino a Giove
+**p.10** — Figure 2: hyperbolic trajectory near Jupiter
 ![[_attachments/TEOSTU_I/TEOSTU_I_p10_f5.png]]
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1RHwzdDm0V1CtnCCDQ6qLK7qXRs3HHoll/view)

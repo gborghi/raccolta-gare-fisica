@@ -310,10 +310,10 @@ Grafico: Vout(Vin)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Experiments
+Experiment
 A1-1
 Italian (Italy)
-Enter the numbers 0 to 9 in the following table:
+Write the numbers from 0 to 9 in the following table:
 0
 1
 2
@@ -324,10 +324,10 @@ Enter the numbers 0 to 9 in the following table:
 7
 8
 9
-Part A: Circuit size (2.5 points)
-A.1 (0.2 pt)
 
-I want to be here.
+Part A: Circuit Sizing (2.5 points)
+A.1 (0.2 pt)
+Vout =
 
 A.2 (0.5 pt)
 #
@@ -337,33 +337,31 @@ RT3
 R
 σR
 
-Experiments
+Experiment
 A1-2
 Italian (Italy)
 A.3 (0.3 pt)
-The following is the list of the samples:
+Proof:
+
 A.4 (0.4 pt)
+R□ = $\pm$
+ρCarbon film = $\pm$
 
-R□=
-$\pm$
-
-Carbon film =
-$\pm$
 A.5 (0.5 pt)
-The following is the list of the samples:
+Proof:
 Measured values:
 R1 =
 R2 =
-κ=
+κ =
 
-Experiments
+Experiment
 A1-3
 Italian (Italy)
 A.6 (0.3 pt)
-The following points are added:
+Points R1
 Rx
 Ry
-The following points are added:
+Points R2
 Rx
 Ry
 Z
@@ -384,6 +382,7 @@ G
 N
 V
 W
+
 A.7 (0.3 pt)
 Points
 Points
@@ -404,16 +403,16 @@ N
 V
 W
 
-Experiments
+Experiment
 A1-4
 Italian (Italy)
-Part B: Curve Characteristics of the JFET transistor (4.5 points)
+Part B: JFET Transistor Characteristic Curves (4.5 points)
 B.1 (0.2 pt)
-The following is the list of the following:
+IDS =
+
 B.2 (0.8 pt)
-The current values of the IDS:
-Base/Collector
-(Gate/Drain)
+IDS values of current:
+Base/Collector (Gate/Drain)
 Z
 H
 I
@@ -432,170 +431,147 @@ E
 F
 G
 V
+
 B.3 (0.2 pt)
+f =
 
-f=
-
-Experiments
+Experiment
 A1-5
 Italian (Italy)
 B.4 (1.2 pt)
-Use the empty columns to enter the correction factors you think are necessary.
+Use the empty columns to insert correction factors you consider necessary.
 Gate A: VGS =
 RDS =
-Points
-of the
-The following information shall be provided:
-I want to
-VL
-out
+Collector/Drain points
+Vout
+VL out
 VDS
-Other
+IDS
+
 Gate B: VGS =
 RDS =
-Points
-of the
-The following information shall be provided:
-I want to
-VL
-out
+Collector/Drain points
+Vout
+VL out
 VDS
-Other
+IDS
 
-Experiments
+Experiment
 A1-6
 Italian (Italy)
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
+B.4 (cont.)
 Gate C: VGS =
 RDS =
 Drain point
-I want to
-VL
-out
+Vout
+VL out
 VDS
-Other
+IDS
+
 Gate D: VGS =
 RDS =
 Drain point
-I want to
-VL
-out
+Vout
+VL out
 VDS
-Other
+IDS
 
-Experiments
+Experiment
 A1-7
 Italian (Italy)
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
+B.4 (cont.)
 Gate E: VGS =
 RDS =
 Drain point
-I want to
-VL
-out
+Vout
+VL out
 VDS
-Other
-The following shall be added to the list of the following:
-RDS =
-Points
-of the
-The following information shall be provided:
-I want to
-VL
-out
-VDS
-Other
+IDS
 
-Experiments
+Base/Gate F: VGS =
+RDS =
+Collector/Drain points
+Vout
+VL out
+VDS
+IDS
+
+Experiment
 A1-8
 Italian (Italy)
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
-The following is the list of the following:
+B.4 (cont.)
+Gate/Base G: VGS =
 RDS =
-Points
-of the
-The following information shall be provided:
-I want to
-VL
-out
+Drain/Collector Points
+Vout
+VL out
 VDS
-Other
-The following shall be added to the list of the following:
+IDS
+Gate/Base V: VGS =
 RDS =
-Points
-of the
-The following information shall be provided:
-I want to
-VL
-out
+Drain/Collector Points
+Vout
+VL out
 VDS
-Other
+IDS
 
-Experiments
+Experiment
 A1-9
 Italian (Italy)
 B.5 (0.5 pt)
-The output curve:
+Output curves:
 
-Experiments
+Experiment
 A1-10
 Italian (Italy)
 B.6 (0.5 pt)
 VGS
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+RDS
+Graph: RDS(VGS)
 
-Experiments
+Experiment
 A1-11
 Italian (Italy)
 B.7 (0.3 pt)
-The following is the list of the following:
+Transfer curve:
 B.8 (0.4 pt)
-The following is the list of the following:
+IDSS =
 VP =
 B.9 (0.4 pt)
-Transconductance measured: g=
-Transconductance calculated from the JFET model: g=
+Measured transconductance: g =
+Transconductance calculated from JFET model: g =
 
-Experiments
+Experiment
 A1-12
 Italian (Italy)
-Part C: The thin-layer transistor of paper (2.0 points)
+Part C: The Thin-Film Transistor on Paper (2.0 points)
 C.1 (0.8 pt)
 
-Inserted
+Iclosed =
 
 t
-I
-t
+I t
 I
 
-Experiments
+Experiment
 A1-13
 Italian (Italy)
 C.2 (1.2 pt)
-The following table shows the number of persons who have been identified as victims of the terrorist attacks:
-Further graph to determine τ1:
+Graph: IDS(t)
+Additional graph to determine τ1:
 τ1 =
 
-Experiments
+Experiment
 A1-14
 Italian (Italy)
-Part D: Inverter circuit (1.0 points)
+Part D: Inverter Circuit (1.0 point)
 D.1 (0.5 pt)
-RL =
-t
-Wine
-I want to
+RL = t
+Vin
+Vout
 
-Experiments
+Experiment
 A1-15
 Italian (Italy)
 D.2 (0.5 pt)
-Graph: V.
-
-**Topic:** [[Circuits]], [[Electromagnetism]], [[Electrostatics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1fjxa0YAcqidh9BCrB29lN-CO5hJmmjgd/view)
+Graph: Vout(Vin)

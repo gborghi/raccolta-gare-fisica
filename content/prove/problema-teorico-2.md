@@ -65,50 +65,45 @@ Scrivi ora le seguenti risposte:
 
 <div class="qlang-split" data-lang="en"></div>
 
-### Laser-mediated cooling effect on double and optical molasses
+### LASER COOLING VIA DOPPLER EFFECT AND OPTICAL MELASSE
 
-The purpose of this problem is to trace a simple theory to explain the so-called **laser cooling** and **optical molasses**. The phenomenon consists in cooling a beam of neutral, mostly alkaline atoms, by hitting them with laser beams that propagate in opposite pairs and have the same frequency. This achievement was recognized in the awarding of the Nobel Prize to S. Chu, P. Phillips and C. The Commission has also adopted a number of measures to combat the use of the 'contracting' mechanism.
+The purpose of this problem is to outline a simple theoretical framework explaining so-called **laser cooling** and **optical molasses**. The phenomenon consists of cooling a beam of neutral atoms, mostly alkali atoms, by irradiating them with pairs of laser light beams propagating in opposite directions and having the same frequency. This achievement was recognized with the Nobel Prize awarded to S. Chu, P. Phillips, and C. Cohen-Tannoudji in 1997.
 
-The image above shows sodium atoms, the clear spot in the center of the figure, trapped at the intersection of three orthogonal pairs of laser beams. The region where the atoms are trapped is called optical melasses because it is a kind of dissipative force of optical nature that resembles the braking force due to viscous friction that acts on a body moving through the melasses.
+The image above shows sodium atoms, with the bright spot at the center of the figure, trapped at the intersection of three orthogonal pairs of laser light beams. The region where atoms are trapped is called optical molasses because it represents a kind of dissipative force of optical nature, resembling the drag force due to viscous friction acting on a body moving through molasses.
 
-In this problem you will consider, in one dimension, the basic lines of the existing link between the phenomenon of a photon incident on an atom and the nature of the dissipative mechanism.
+In this problem, you will consider in one dimension the fundamental principles linking the interaction between an incident photon and an atom to the nature of the dissipative mechanism.
 
 ---
 
-Part I: The basics of laser cooling
+### PART I: FUNDAMENTAL PRINCIPLES OF LASER COOLING
 
-Consider an atom of mass $m$ moving in a direction $+x$ with speed $v$. For simplicity's sake, we will consider a one-dimensional situation, in practice we will ignore the dimensions $y$ and $z$ (see Figure 1). The atom has two levels of internal energy. In the lower energy state the energy value is arbitrarily placed at zero; consequently the excited state energy is expressed as $E_0 = h\nu_0$, where $\nu_0$ is the resonance frequency of the atomic transition. The atom is initially in its state of minimum energy. A single beam of laser light, with a frequency $\nu_L$ relative to a stationary laboratory observer, is directed in the direction $-x$ and the light hits the atom. The laser light is composed of photons, each with energy $h\nu_L$ and motion quantity $-h\nu_L/c$. A photon can be absorbed by the atom and then spontaneously emitted; the emission can occur with the same probability in the direction $+x$ and in the direction $-x$. The atom moves at a nonrelativistic speed, and therefore $v \ll c$ ($c$ indicates the speed of light); for this reason, in the following you will overlook for this ratio all powers greater than the first. Also assume that $mv \gg h\nu_L/c$, which means that the amount of motion of the atom is much greater than the amount of motion of a single photon. Take this information into account and, when you write the answers to the questions, keep only the first-degree terms for both of these amounts.
+Consider an atom of mass $m$ moving in direction $+x$ with velocity $v$. For simplicity, we will consider a one-dimensional situation, practically ignoring dimensions $y$ and $z$ (see Figure 1). The atom has two internal energy levels. In the lower-energy state, the energy value is arbitrarily set to zero; therefore, the energy of the excited state is expressed as $E_0 = h\nu_0$, where $\nu_0$ is the resonance frequency of the atomic transition. The atom initially resides in its minimum energy state. A single beam of laser light, with frequency $\nu_L$ as measured by a laboratory-fixed observer, is directed along direction $-x$ and impinges on the atom. The laser light consists of photons, each with energy $h\nu_L$ and momentum $-h\nu_L/c$. A photon may be absorbed by the atom and subsequently spontaneously emitted; emission can occur with equal probability in direction $+x$ and in direction $-x$. The atom moves at non-relativistic speed, so that $v \ll c$ ($c$ denotes the speed of light); for this reason, in what follows you will neglect all powers higher than first order in this ratio. Also assume that $mv \gg h\nu_L/c$, meaning that the atom's momentum is much larger than that of a single photon. Keep these facts in mind, and when writing answers to questions, retain only first-order terms in both of these quantities.
 
-The following information is provided for in the Annex to this Regulation: Sketch of an atom of mass $m$ and initial velocity $v$ moving in the direction $+x$ and colliding with a photon of energy $h\nu_L$ and quantity of motion $-h\nu_L/c$. The atom has two internal energy levels that differ from each other by $E_0 = h\nu_0$.*
+*Figure 1. Sketch of an atom of mass $m$ and initial velocity $v$ moving in direction $+x$, colliding with a photon of energy $h\nu_L$ and momentum $-h\nu_L/c$. The atom has two internal energy levels differing by $E_0 = h\nu_0$.*
 
-Assume that the laser light frequency $\nu_L$ is fixed so that, when observed in the reference of the moving atom, it is in resonance with the characteristic frequency of the atom's transition from one to the other of its energy levels.
+Assume that the laser light frequency $\nu_L$ is set so that, when observed in the atom's moving reference frame, it is resonant with the characteristic frequency of the atomic transition between its two energy levels.
 
-#### 1. The following table shows the results of the study:
+#### 1. Absorption
 
-Now write down the following answers:
+Now write the following answers:
 
-Write down the resonance condition for which the photon is absorbed.
+**(1a)** Write the resonance condition under which photon absorption occurs.
 
-**(1b) ** Write in the laboratory reference the amount of motion $p_1$ of the atom after absorption.
+**(1b)** In the laboratory reference frame, write the momentum $p_1$ of the atom after photon absorption.
 
-**(1c) ** Write in the laboratory reference the total energy $E_1$ of the atom after absorption.
+**(1c)** In the laboratory reference frame, write the total energy $E_1$ of the atom after photon absorption.
 
 <!--fig:start-->
-**p.1 **  Image of cooled atoms in optical molasses
+**p.1** — Image of atoms cooled in optical molasses
 ![[_attachments/problema teorico 2/problema teorico 2_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
- Atom with energy levels affected by photons
+**p.2** — Atom with energy levels struck by a photon
 ![[_attachments/problema teorico 2/problema teorico 2_p2_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Modern-Quantum Physics]], [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Atom (object)|Atom]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1GIrDtHRA9CfS3L_TDPlQtGBMyisvv5GA/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
 
 
 
@@ -238,24 +233,19 @@ L'emissione spontanea di un fotone in direzione $-x$ o $+x$ ha luogo con la mede
 
 <div class="qlang-split" data-lang="en"></div>
 
-#### 4. Average emissions after absorption
+#### 4. Average emission after absorption
 
-The spontaneous emission of a photon in the direction $-x$ or $+x$ occurs with the same probability. In view of this, answer the following questions:
+Spontaneous emission of a photon in the direction $-x$ or $+x$ occurs with equal probability. Taking this into account, answer the following questions:
 
-**(4a)** Scrivi l'energia media di un fotone, $\langle\varepsilon\rangle$, dopo che è stato emesso.
+**(4a)** Write the average energy of a photon, $\langle\varepsilon\rangle$, after emission.
 
-**(4b) ** Write the mean value of the amount of motion of a photon, $\langle q\rangle$, after it has been emitted.
+**(4b)** Write the average value of the photon's momentum, $\langle q\rangle$, after emission.
 
-**(4c)** Scrivi l'energia totale media di un atomo, $\langle E_2\rangle$, dopo il processo di emissione.
+**(4c)** Write the average total energy of an atom, $\langle E_2\rangle$, after the emission process.
 
-**(4d)** Scrivi la quantità di moto media di un atomo, $\langle p_2\rangle$, dopo il processo di emissione.
+**(4d)** Write the average momentum of an atom, $\langle p_2\rangle$, after the emission process.
 
-**Topic:** [[Modern-Quantum Physics]], [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Atom (object)|Atom]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1GIrDtHRA9CfS3L_TDPlQtGBMyisvv5GA/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
 
 
 
@@ -446,26 +436,21 @@ In base a questo ultimo risultato puoi trovare le condizioni per accelerare gli 
 
 <div class="qlang-split" data-lang="en"></div>
 
-#### 8. Limitations for low speed
+#### 8. Low-speed limit
 
-**(8a)** Supponi ora che la velocità degli atomi sia abbastanza piccola così che puoi approssimare la forza sviluppandola fino al primo ordine in $v$. With these limits and approximations find an expression for the force you determined in point (7a).
+**(8a)** Now suppose the atomic velocity is small enough that you can expand the force up to first order in $v$. Under these limits and approximations, find an expression for the force you determined in part (7a).
 
-Based on this latest result, you can find the conditions to accelerate atoms, slow them down, or not affect them at all by radiation.
+Based on this last result, determine the conditions under which radiation can accelerate atoms, decelerate them, or have no effect at all.
 
-**(8b)** Scrivi la condizione per ottenere una forza positiva, quindi accelerare gli atomi.
+**(8b)** Write the condition for obtaining a positive force, thus accelerating the atoms.
 
-**(8c)** Scrivi la condizione per ottenere una forza nulla.
+**(8c)** Write the condition for obtaining zero force.
 
-**(8d)** Scrivi la condizione per ottenere una forza negativa, quindi rallentare gli atomi.
+**(8d)** Write the condition for obtaining a negative force, thus decelerating the atoms.
 
-**8e) ** Assume now that atoms are moving at $v < 0$ (therefore in $-x$ direction). Write down the condition for obtaining a force that slows down atoms.
+**(8e)** Now assume that the atoms move with velocity $v < 0$ (thus in direction $-x$). Write the condition for obtaining a force that slows down the atoms.
 
-**Topic:** [[Newtonian Mechanics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Atom (object)|Atom]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1GIrDtHRA9CfS3L_TDPlQtGBMyisvv5GA/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16QG-pgXnrzlEs6fq75ownHVG_Dl8HU-8/view)
 
 
 

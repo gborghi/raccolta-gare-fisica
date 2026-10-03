@@ -145,14 +145,7 @@ MSK1/> Due portali rettangolari identici sono disposti orizzontalmente in una ca
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Cosmological GPS.** In a future where humanity is travelling outside of our galaxy, GPS satellites are scattered throughout the Local Group and beyond to provide for the navigational needs of intergalactic travellers. Un viaggiatore nella galassia di Andromeda, $2.5$ a milioni di anni luce di distanza, si collega a un satellite della Via Lattea. Calcola l'errore assoluto di distanza riportato dal satellite causato dall'espansione dell'universo. La costante di Hubble è $2.27 \times 10^{-18}\ \mathrm{s^{-1}}$, e dà una velocità cosmologica $v = H_0 d$ lontano dall'osservatore.
-
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1XNUYuh0_1VRk85vL4MNn2Zs8aHhknH7b/view)
-
-**Topic:** [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]]
+**GPS cosmologico.** In un futuro in cui l'umanità viaggia al di fuori della nostra galassia, i satelliti GPS sono distribuiti nell'ammasso locale e oltre per soddisfare le esigenze di navigazione dei viaggiatori intergalattici. Un viaggiatore nella galassia di Andromeda, a $2.5$ milioni di anni luce di distanza, si collega a un satellite nella Via Lattea. Calcolare l'errore assoluto nella distanza segnalata dal satellite causato dall'espansione dell'universo. La costante di Hubble è $2.27 \times 10^{-18}\ \mathrm{s^{-1}}$, e fornisce una velocità cosmologica $v = H_0 d$ lontano dall'osservatore.
 
 
 

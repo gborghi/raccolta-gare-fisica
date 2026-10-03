@@ -167,27 +167,21 @@ di diffrazione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the following:
+**Diffraction**
 
-4. Turn off the laser source. On the screen, with the springs, a figure detection sheet
-The Commission has not yet adopted a proposal.
+4. Turn off the laser source. Fix on the screen, using clips, a sheet for detecting diffraction patterns.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the weight of the product:
+**p.3** — Diffraction pattern from a cylinder
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p3_f7.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Sets of thin parallel wires
+**p.4** — Array of thin parallel wires
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p4_f8.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Screen (object)|Screen]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yyMLiJDln2-HBOFeSmy38VnN23v_sp00/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
 
 
 
@@ -436,152 +430,141 @@ Determina l’angolo dalla figura a forma di X.
 
 <div class="qlang-split" data-lang="en"></div>
 
-7. You can turn on or off the light in the cabin as you like.
+7. You may turn the cabin light on or off as you prefer.
 
 Experiment
 Part A: Determination of the geometric characteristics of a helical spring
-Sample I is a beam and step helical spring , constructed with a uniform thickness wire
-as shown in Fig. 10(a). Its projection, observed in an orthogonal direction, is equivalent to
-Two sets of parallel wires of the same thickness, separated by a distance and at an angle between
-The Commission has already adopted a number of measures. 10(b)).
 
-Figure 10: (a) The usual view of a helical spring; (b)
-Schematic diagram of normal incidence vision
+Sample I is a helical spring with radius and pitch, made from a wire of uniform thickness as shown in Fig. 10(a). Its projection, observed perpendicularly, is equivalent to two sets of parallel wires, of the same thickness, separated by a distance and with an angle between them (Fig. 10(b)).
 
-Mount the sample I in the sample carrier, making sure the spring is vertical.
+Figure 10: (a) Usual view of a helical spring; (b)
+Schematic diagram of the normal incidence view
 
-You need to get a clear, well-defined X-shaped diffraction figure on the sheet of
-The detection.
+Mount sample I in the holder, ensuring that the spring is vertical.
 
-Figure 9: Together with four strings
+You must obtain a clear and well-defined X-shaped diffraction pattern on the detection sheet.
+
+Figure 9: Array of four wires
 Page 5 of 6
 E-I
 Q
 
-For this purpose, you can adjust
--
-The laser beam focusing (spins the cap with the lens)
--
-The beam orientation (rotates the laser body so that only two are illuminated)
-(Spring breathing)
--
-The laser intensity (high/low power switch)
--
-ambient light (turn on/off the light in the cabin)
-If the center maximum is too bright, you can hang the black stickers on the detection sheet.
-rounded, so as to reduce the spread.
+To achieve this, you may adjust:
+- the laser beam focus (rotate the lens cap)
+- the beam orientation (rotate the laser body so that only two turns of the spring are illuminated)
+- the laser intensity (high/low switch on the power supply)
+- the ambient light (turn the cabin light on or off)
 
-The task
-The following is the list of the following:
+If the central maximum is too bright, you may attach black circular adhesive patches to the detection sheet in order to reduce scattering.
+
+Task
+Description
 Points
+
 A1
-Mark on the survey sheet (using the pencil fitted [13]) the appropriate positions of the
-The maximum intensity to be determined and, on both sides of the central stain.
-Compare the test sheets with P-1, P-2 etc.
+On the recording sheet (using the provided pencil [13]), mark the appropriate positions of the intensity minima to determine and , on both sides of the central spot.
+Label the recording sheets as P-1, P-2, etc.
 0.7
+
 A2
-Using the digital caliber, measure the appropriate distances to determine and report them in the Table
-A1.
+Using the digital caliper, measure the appropriate distances to determine and record them in Table A1.
 0.5
+
 A3
-Draw an appropriate chart, mark it as chart A1 and determine by its
-The slope.
+Draw an appropriate graph, label it as Graph A1, and determine from its slope.
 0.7
+
 A4
-Measure the appropriate distances to determine and report them in Table A2.
+Measure the appropriate distances to determine and record them in Table A2.
 0.8
+
 A5
-Draw an appropriate chart, mark it as A2 and determine by its
-The slope.
+Draw an appropriate graph, label it as Graph A2, and determine from its slope.
 0.6
+
 A6
-Determine the angle from the X-shaped figure
+Determine the angle from the X-shaped figure.
 0.2
+
 A7
-Express in terms of e and calculate the value of .
+Express in terms of and , and calculate the value of .
 0.2
+
 A8
-Express in terms of e and calculate the value of (negligence).
+Express in terms of and , and calculate the value of (neglect ).
 0.2
 
-Part B: Determination of the geometric characteristics of a figure equivalent to a
-Double propellers
-Figure 11 (a) shows two spires of a double propeller. The Fig. 11( (b) is a two-dimensional projection
-of this double helix seen from a normal angle. Each propeller of this thickness has a spire that
-They form an angle; the distance between the spires in the perpendicular direction is . The separation between the
-Two propellers is . The Model II is a double propeller-like pattern printed on a sheet of
-The following table shows the results of the study: 12); its diffraction figure is similar to that of a double propeller. This part you have to
-determine the geometric characteristics of the sample II.
+Part B: Determination of the geometric characteristics of a figure equivalent to a double helix
 
-Figure 11: (a) A usual view of a double propeller spring (b) A diagram of the same, viewed
-with normal incidence.
+Figure 11(a) shows two turns of a double helix. Figure 11(b) is a two-dimensional projection of this double helix viewed at normal incidence. Each helical turn has a thickness such that the turns form an angle ; the distance between the turns in the perpendicular direction is . The separation between the two helices is . Sample II is an equivalent schematic of a double helix printed on a glass slide (Figure 12); its diffraction pattern is similar to that of a double helix. In this part, you will determine the geometric characteristics of Sample II.
+
+Figure 11: (a) Usual view of a double helix spring; (b) Schematic diagram of the same, viewed at normal incidence.
+
 Page 6 of 6
 E-I
-Q
 
-Figure 12: Scheme of the Model II, equivalent to the double propeller
+Figure 12: Schematic of Sample II, equivalent to the double helix.
 
-He's putting the Champion II in the champion car.
+Mount Sample II in the sample holder.
 
-Put another detection sheet on the screen.
+Fix another recording sheet on the screen.
 
-Make sure you have an X-shaped diffraction figure on the screen, clear and sharp.
+Adjust so that a clear and sharp X-shaped diffraction pattern appears on the screen.
 
 Tasks
-The following is the list of the following:
+Description
 Points
+
 B1
-Indicate the appropriate positions of the minima on each side of the centre stain for
-Determine the e . You can use more than one trace sheet.
+Mark the appropriate positions of the minima on each side of the central spot to determine and . You may use more than one recording sheet.
 1.1
+
 B2
-Measure the appropriate distances to determine and report them to Table B1.
+Measure the appropriate distances to determine and record them in Table B1.
 0.5
+
 B3
-Draw an appropriate chart, mark it as Chart B1 and determine by its
-The slope.
+Draw an appropriate graph, label it Graph B1, and determine from its slope.
 0.5
+
 B4
-Measure the appropriate distances to determine and report them to Table B2.
+Measure the appropriate distances to determine and record them in Table B2.
 1.2
+
 B5
-Draw an appropriate chart, mark it as Chart B2 and determine by its
-The slope.
+Draw an appropriate graph, label it Graph B2, and determine from its slope.
 0.5
+
 B6
-Measure the appropriate distances to determine and report them to Table B3.
+Measure the appropriate distances to determine and record them in Table B3.
 1.6
+
 B7
-Draw an appropriate chart, mark it as Chart B3 and determine by its
-The slope.
+Draw an appropriate graph, label it Graph B3, and determine from its slope.
 0.5
+
 B8
 Determine the angle from the X-shaped figure.
 0.2
 
 <!--fig:start-->
-The power supply shall be provided by the manufacturer.
+**p.2** — DC Power Supply
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p2_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4**  View and diagram of the helical spring
+**p.4** — View and diagram of helical spring
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p4_f9.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  Double propeller and diagram
+**p.5** — Double-helix spring and diagram
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p5_f10.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the types of vehicles that are used:
+**p.6** — Equivalent circuit diagram for Sample II (double helix)
 ![[_attachments/FINAL_Question_Paper_E_I_it/FINAL_Question_Paper_E_I_it_p6_f11.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Spring (object)|Spring]], [[Wire (object)|Wire]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1yyMLiJDln2-HBOFeSmy38VnN23v_sp00/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1pg4sO_OpQ-BFblJ01aGG9F4PLkC_hCYx/view)

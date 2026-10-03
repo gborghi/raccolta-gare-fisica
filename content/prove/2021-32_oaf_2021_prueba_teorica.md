@@ -241,63 +241,50 @@ La portata di coppie veramente innamorate.
 <div class="qlang-split" data-lang="en"></div>
 
 P1. Two consecutive sunsets
-A couple in love is at the foot of a luxury hotel.
-on the edge of an idyllic beach located on the equatorial circle
-When they see a beautiful image of the sunset,
-sunset over a calm sea (Fig. 1).
-One of the attractions of this luxurious hotel is the
-The possibility of a second sunset. Stop
-To facilitate this astronomical whim the hotel places the entrance gate
-From an elevator right at the foot of the beach. To fulfill
-satisfaction to this event, the happy couple, immediately after
-From watching the first sunset, take the elevator and head for the
-to the hotel terrace, located at an altitude of $H = 20\ \text{m}$, where they hope to see for the second time so exciting
-The scene. For simplicity, let's consider that the elevator goes up at a constant speed $v = 0{,}8\ \text{m/s}$.
-Because of the Earth's rotation, at angular speed $\omega$, the Earth rotates at a small angle $\theta$ that
-causes, after the first sunset, the appearance of a shadow of height $h$ on the façade of the hotel, such as
-as shown in Figure 2. To simplify the situation described, let's say that the sun's rays affect the
-parallel to the plane of the Earth's equatorial circle.
+
+A romantic couple finds themselves at the base of a luxurious hotel, on the shore of an idyllic beach located on Earth's equatorial circle, when, at sunset, they observe a beautiful scene of the sun setting over a calm sea (Fig. 1).
+
+One of the attractions offered by this luxurious hotel is the possibility of witnessing a second sunset. To facilitate this astronomical whim, the hotel positions the elevator entrance exactly at the base of the beach. In order to fully enjoy this event, the happy couple immediately after observing the first sunset takes the elevator and heads toward the hotel's rooftop terrace, located at a height $H = 20\ \text{m}$, where they hope to witness the same exciting scene for a second time. For simplicity, we assume that the elevator ascends with constant speed $v = 0{,}8\ \text{m/s}$.
+
+Due to Earth's rotation, with angular velocity $\omega$, the Earth rotates through a small angle $\theta$ which causes, after the first sunset, the appearance of a shadow of height $h$ on the hotel's façade, as shown in Fig. 2. To simplify the described situation, assume that sunlight rays are parallel to the plane of Earth's equatorial circle.
+
 a)
-Calculate how long it takes the elevator to reach the building's terrace.
+Calculate the time it takes for the elevator to reach the rooftop terrace of the building.
+
 b)
-Get the expression of the height $h$ of the shadow projected by the Earth over the façade of the hotel in
-The function of $R$, $\omega$ and $t$.
+Obtain the expression for the height $h$ of the shadow projected by Earth onto the hotel's façade, as a function of $R$, $\omega$ and $t$.
+
 c)
-Determine if the couple will arrive on the terrace in time to see a second sunset.
-The hotel's technical team decided to improve the attraction by incorporating a control system for the
-A lift which allows simultaneous ascent to the shade projected over it, so that the
-For those in love, travelers aboard the elevator can enjoy a prolonged sunset that lasts up to
-I want the elevator to get to the terrace.
+Determine whether the couple will arrive in time to see a second sunset from the terrace.
+The hotel's technical team decides to improve the attraction by incorporating an elevator control system that allows the elevator to ascend simultaneously with the shadow projected onto it, so that the enamored travelers aboard the elevator can enjoy an extended sunset lasting until the elevator reaches the terrace.
+
 d)
-From the expression obtained in b, calculate, based on $R$, $\omega$ and $t$, the speed at which it should
-climb the elevator to follow the shadow of the sun over the hotel façade.
+Based on the expression obtained in b), calculate, in terms of $R$, $\omega$ and $t$, the velocity at which the elevator should ascend to follow the sun's shadow on the hotel façade.
 
 Fig. 1
-
 Fig. 2
 
-Dado que el ángulo de giro $\theta$ de la Tierra durante la subida del ascensor es pequeño, las funciones
+Given that the Earth's rotation angle $\theta$ during the elevator’s ascent is small, the functions
 $\text{sen}\,\theta$ and $\cos\theta$ can be approximated as follows:
 $\text{sen}\,\theta \approx \theta$; $\cos\theta \approx 1$.
-e)
-Applies the proposed approach to simplify the expression of the speed obtained in paragraph
-d).
-f)
-From the above result it is deduced at what speed the elevator must ascend to follow the
-Shadow. What kind of movement should the elevator describe?
-g)
-According to the results of paragraphs (e) and (f), how long will the married couple enjoy the
-sunset from the moment the elevator starts to rise until you get to the hotel terrace?
 
-Data: - Radio from the Earth $R_T = 6{,}37 \times 10^6\ \text{m}$.
+e)
+Apply the proposed approximation to simplify the velocity expression obtained in part d).
+
+f)
+From the previous result, deduce with what acceleration the elevator must ascend to follow the shadow. What type of motion should the elevator perform?
+
+g)
+According to the results from parts e) and f), how long will the enamored couple enjoy the sunset, from the moment the elevator begins ascending until they reach the hotel terrace?
+
+Data: - Earth's radius $R_T = 6{,}37 \times 10^6\ \text{m}$.
 
 P1. Solution
-(a) The elevator is going up at a constant speed, so that it will take $t_1$ time to reach the terrace,
+a) The elevator ascends at constant velocity, so it will take a time $t_1$ to reach the terrace,
 
 $$v = \frac{H}{t_1} \quad\Rightarrow\quad t_1 = \frac{H}{v} = \frac{20}{0{,}8} \quad\Rightarrow\quad t_1 = 25\ \text{s}$$
 
-(b) According to Figure 2, the angle $\theta$ of the rectangle having by catheters $R$ and the ray of the Sun tangent to
-the surface of the Earth, it is deduced
+b) According to Figure 2, from the right triangle with angle $\theta$ whose legs are $R$ and the ray of sunlight tangent to Earth's surface, it follows that
 
 $$\cos\theta = \frac{R}{R+h} \quad\Rightarrow\quad h = R\left(\frac{1}{\cos\theta} - 1\right)$$
 
@@ -305,48 +292,36 @@ Substituting $\theta = \omega t$,
 
 $$h = R\left(\frac{1}{\cos\omega t} - 1\right) \quad (1)$$
 
-(c) During the time $t_1$ it takes the elevator to reach the hotel terrace, the shade of the sun will reach a
-Height
+c) During the time $t_1$ that the elevator takes to reach the hotel's rooftop, the shadow of the Sun will have risen to a height
 
 $$h = 6{,}371\cdot10^6\left(\frac{1}{\cos\left(\frac{2\pi}{24\cdot3600}\,25\right)} - 1\right) \quad\Rightarrow\quad h = 10{,}52\ \text{m}$$
 
-This height is lower than the height of the hotel terrace, so the couple will arrive in time for
-observing the second sunset.
-(d) To follow the sunset, the elevator shall ascend at the same speed as the shadow ascends,
-which we can get from equation (1),
+This height is less than the height of the hotel's rooftop, so the couple will indeed arrive in time to observe the second sunset.
+
+d) To follow the sunset, the elevator must ascend at the same speed as the shadow's ascent, which we can obtain from equation (1):
 
 $$v(t) = \frac{dh}{dt} \quad\Rightarrow\quad v(t) = \frac{R\omega\,\text{sen}(\omega t)}{\cos^2(\omega t)}$$
 
-(e) With the proposed approximation we can obtain a simpler expression of velocity,
+e) With the proposed approximation, we can obtain a simpler expression for velocity:
 
 $$v(t) = R\omega^2 t \quad (2)$$
 
-(f) From the expression (2) we can obtain the acceleration as
+f) From equation (2), we can determine acceleration as
 
 $$a(t) = \frac{dv}{dt} \quad\Rightarrow\quad a(t) = R\omega^2$$
 
-The resulting expression indicates that the acceleration is constant, so the elevator must ascend with a
-uniformly accelerated movement.
-g) Como el ascensor sube con movimiento uniformemente acelerado, el tiempo $t_2$ que tarda en subir hasta la
-The building terrace, at a height $H$, shall be determined by:
+The obtained expression indicates that the acceleration is constant, so the elevator must ascend with uniformly accelerated motion.
+
+g) Since the elevator ascends with uniformly accelerated motion, the time $t_2$ it takes to reach the rooftop at height $H$ is determined by
 
 $$H = \frac{1}{2}at_2^2 = \frac{1}{2}R\omega^2 t_2^2 \quad\Rightarrow\quad t_2 = \sqrt{\frac{2H}{R\omega^2}} = \sqrt{\frac{2\cdot20}{6{,}371\cdot10^6\left(\frac{2\pi}{24\cdot3600}\right)^2}} \quad\Rightarrow\quad t_2 = 34{,}45\ \text{s}$$
 
-So the lovers will enjoy a little over half a minute to proceed with their declaration of love,
-The Commission has already taken a number of measures to ensure that the Commission's proposals are implemented in a manner that is consistent with the objectives of the programme. So that this time was
-The Commission has already decided to take the necessary steps to ensure that the
-The reach of truly in love couples.
+Thus, the couple will enjoy more than half a minute to proceed with their declaration of love—time that, from a physical standpoint, cannot be determined as sufficient or not. To extend this time further would require adding more floors to the building or slowing down the Sun's rotation, something only truly in love couples could achieve.
 
 <!--fig:start-->
 ![[_attachments/2021 32_oaf_2021_prueba_teorica/2021 32_oaf_2021_prueba_teorica_p2_f1.png]]
-*geometria ombra Terra-Sole hotel*
+*geometry of Earth-Sun shadow hotel*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Astrophysics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1pD5KB2u80zsdaQa50HV8UM6DFFMHz40X/view)
 
 
 

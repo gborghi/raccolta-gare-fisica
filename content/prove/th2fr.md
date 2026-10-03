@@ -45,27 +45,25 @@ Valore del rapporto carica-massa in Coulomb su chilogrammo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided:
-Country student No. Question No. PageNo Total No.
+IPhO 2000
+Country Student No. Question No. PageNo Total No.
 Of pages
-The Commission has already decided to take the necessary measures to ensure that the Community's financial resources are used in the future.
-2.a
-The following points shall be added:
-Expression of the charge-to-mass ratio of the electron:
-2.b
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Exposure region (script A or B)
-2.c
-The following points shall be added:
-Maximum value of particle energy in eV
-2.d
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Expression of the quantity shown on the horizontal axis (x)
-Expression of the quantity reported on the vertical axis of y
-The value of the load-to-mass ratio in Coulomb per kilogram
 
-**Topic:** [[Electromagnetism]], [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ALPKm-vqFL-jF3TFjGZ2yqzCkA_u-V3E/view)
+ANSWER SHEET: PROBLEM N.2
+2.a
+[3 points]
+Expression for the electron's charge-to-mass ratio:
+
+2.b
+[1.5 points]
+Exposed region (write A or B)
+
+2.c
+[2 points]
+Maximum value of the particle's energy in eV
+
+2.d
+[3.5 points]
+Expression for the quantity plotted on the horizontal axis (x)
+Expression for the quantity plotted on the vertical axis (y)
+Value of the charge-to-mass ratio in Coulomb per kilogram

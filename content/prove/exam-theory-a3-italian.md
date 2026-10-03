@@ -56,32 +56,33 @@ $QN-1 \simeq$
 Theory
 A3-1
 Italian (Italy)
-Physics of living systems (10 points)
-Part A. Physics of blood flow (4.5 hours)
+Physics of Living Systems (10 points)
+
+Part A. Physics of Blood Flow (4.5 points)
 A.1 (1.3 pt)
-Qi=
+Qi =
+
 A.2 (0.5 pt)
-Q0 =
+Q₀ =
+
 A.3 (2.0 pt)
 Pout =
 
 Condition:
 
 A.4 (0.7 pt)
-The maximum of h is h=
-Part B. Growth of a tumor (5.5 points)
+The maximum of h is h =
+
+Part B. Tumor Growth (5.5 points)
 B.1 (1.0 pt)
-v=
+v =
+
 B.2 (1.7 pt)
-The temperature:
+Temperature:
+
 B.3 (0.5 pt)
-The following is the list of the countries of the European Union:
+Pmin =
+
 B.4 (2.3 pt)
 $δQN-1$
 $QN-1 \simeq$
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-a7FQgD79kXYzoeHVdHzsjUeRQOCEOkl/view)

@@ -135,117 +135,98 @@ $\sigma = 5.670\ 367\ (13)\times10^{-8}\ \text{kg}\cdot\text{s}^{-3}\cdot\text{K
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+**English (United States)**
 
 Theory
-Italian (Italy)
+English (United States)
 G0-1
-Genealogy: Theoretical evidence (30 points)
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The theoretical test is 5 hours long and worth 30 points.
-Before the test
-• Do not open the envelope containing the problems before the start of the race.
-• The start and end of the competition will be indicated by an acoustic signal. Even at the expiry of each
-The time spent and similarly 15 minutes before the end of the period of the
-race (before the final sound signal).
-During the test
-• You are provided with answer sheets to write your answers. Enter the answers
-The final results shall be presented in the appropriate frames in the corresponding reply sheet (marked with A). For each
-The problem is that there are additional white papers to carry out the detailed solution (marked with W). Make sure you're using the paperwork for the problem you're solving (check
-the problem number shown at the top of the sheet head. If you wrote something on a piece of paper
-You don't want it evaluated, cancel it by drawing a cross on it. Use only the front facade.
-of every sheet.
-• Try to be as concise as possible in your answers: use equations, logical operators and trace
-I'll use sketches to illustrate your thinking whenever possible. Don't write sentences too much
-long.
-• Write the numerical results with the most appropriate number of significant figures.
-• Is it possible that you can solve later parts of a problem without having already solved those parts?
-previously.
-• A table of physical constants is shown on the following page.
-• You cannot leave your post without permission. If you need assistance (fill with water)
-Your bottle, your calculator broke, need to go to the bathroom, etc.
-An officer applying one of the flags to the appropriate support of your post (Refill my
-water bottle, please, I need to go to the toilet, please, or I need help, please in all the others
-The Commission has not yet adopted a decision.
-At the end of the test
-• At the end of the test, you must immediately stop writing.
-• For each problem, prepare the corresponding sheets in this precise order: cover sheet
-C), questions Q, answer sheets A, worksheets W.
-• Put all the paperwork on a problem in one envelope. Also, the general instructions (G) are placed separately in the remaining envelope. Make sure your student code is
-visible in the window of each envelope. He also returns the unused sheets. It 's not allowed .
-carry any paper outside the test area.
-• Leave the blue calculator on the table that the organizers gave you.
+General Instructions: Theoretical Examination (30 points)
+July 14, 2016
+The theoretical examination lasts 5 hours and is worth 30 points.
+
+Before the exam:
+• Do not open the envelope containing the problems before the acoustic signal indicating the start of the competition.
+• The beginning and end of the competition will be signaled by an acoustic signal. Additionally, time indications will be given every hour and 15 minutes before the end of the competition (before the final acoustic signal).
+
+During the exam:
+• You are provided with answer sheets to write your answers. Enter final answers in the appropriate boxes on the corresponding answer sheet (labeled A). For each problem, additional blank working sheets are provided for detailed solution development (labeled W). Make sure you use only the sheets corresponding to the problem you are solving (check the problem number at the top of each sheet). If you have written something on a sheet that you do not want to be graded, cross it out completely with an X. Use only the front side of each sheet.
+
+• In your answers, strive to be as concise as possible: use equations, logical operators, and sketches whenever feasible to illustrate your reasoning. Avoid writing overly long sentences.
+• Write numerical results with the most appropriate number of significant figures.
+• It may be possible for you to solve later parts of a problem without having already solved the earlier ones.
+• A table of physical constants is provided on the next page.
+• You may not leave your workstation without permission. If you need assistance (refill my water bottle, my calculator has broken, I need to go to the toilet, etc.), raise the attention of an official by placing one of the flags on the designated holder at your workstation (”Refill my water bottle, please”, ”I need to go to the toilet, please”, or ”I need help, please” in all other cases).
+
+At the end of the exam:
+• At the end of the exam, you must immediately stop writing.
+• For each problem, arrange the corresponding sheets in this exact order: cover sheet (C), questions (Q), answer sheets (A), work sheets (W).
+• Place all sheets related to a single problem into the same envelope. Also place the general instructions (G) separately in the remaining envelope. Make sure your Student Code is visible through the window on each envelope. Return any unused sheets as well. It is not permitted to take any sheet out of the examination area.
+
+Leave on your desk the blue calculator provided by the organizers.
 
 Theory
-Italian (Italy)
+Italiano (Italy)
 G0-2
-• Bring the material with you (2 ballpoint pens, 1 pencil, 1 lapis, 1 pair of scissors, 1 ruler, 2 pairs of
-earplugs), together with your calculator (if you have one). Take the water bottle too.
-• Stand at your table until your bags have been collected. At this point a guide will give you
-shall lead outside the test area.
+• Bring with you the materials (2 ballpoint pens, 1 marker pen, 1 pencil, 1 pair of scissors, 1 ruler, 2 pairs of earplugs), along with your calculator (if you have one). Also bring your water bottle.
+• Remain seated at your desk until your envelopes have been collected. At that point, an attendant will guide you out of the examination area.
 
 Theory
-Italian (Italy)
+Italiano (Italy)
 G0-3
 Table of physical constants
 
 Speed of light in vacuum
 $c = 299\ 792\ 458\ \text{m}\cdot\text{s}^{-1}$
 
-The magnetic permeability of the vacuum
+Permeability of free space
 $\mu_0 = 4\pi\times10^{-7}\ \text{kg}\cdot\text{m}\cdot\text{A}^{-2}\cdot\text{s}^{-2}$
 
-The value of the product shall be the value of the product.
+Electric constant (permittivity of vacuum)
 $\varepsilon_0 = 8.854\ 187\ 817\times10^{-12}\ \text{A}^2\cdot\text{s}^4\cdot\text{kg}^{-1}\cdot\text{m}^{-3}$
 
-Basic load
+Elementary charge
 $e = 1.602\ 176\ 620\ 8(98)\times10^{-19}\ \text{A}\cdot\text{s}$
 
-Mass of the electron
+Electron mass
 $m_e = 9.109\ 383\ 56(11)\times10^{-31}\ \text{kg}$
 $= 0.510\ 998\ 946\ 1(31)\ \dfrac{\text{MeV}}{c^2}$
 
-Mass of proton
+Proton mass
 $m_p = 1.672\ 621\ 898(21)\times10^{-27}\ \text{kg}$
 $= 938.272\ 081\ 3(58)\ \dfrac{\text{MeV}}{c^2}$
 
-Mass of the neutron
+Neutron mass
 $m_n = 1.674\ 927\ 471(21)\times10^{-27}\ \text{kg}$
 $= 939.565\ 413\ 3(58)\ \dfrac{\text{MeV}}{c^2}$
 
-Unified atomic mass unit
+Atomic mass unit (unified)
 $u = 1.660\ 539\ 040(20)\times10^{-27}\ \text{kg}$
 
-Rydberg constant is the constant
+Rydberg constant
 $R_\infty = 10\ 973\ 731.568\ 508(65)\ \text{m}^{-1}$
 
-The universal gravitational constant is the
+Universal gravitational constant
 $G = 6.674\ 08(31)\times10^{-11}\ \text{m}^3\cdot\text{kg}^{-1}\cdot\text{s}^{-2}$
 
-The following is the list of the main types of vehicles used:
+Acceleration due to gravity (in Zurich)
 $g = 9.81\ \text{m}\cdot\text{s}^{-2}$
 
 Planck constant
 $h = 6.626\ 070\ 040\ (81)\times10^{-34}\ \text{kg}\cdot\text{m}^2\cdot\text{s}^{-1}$
 
-Avogadro number
+Avogadro's number
 $N_A = 6.022\ 140\ 857\ (74)\times10^{23}\ \text{mol}^{-1}$
 
-Gas molar constant
+Molar gas constant
 $R = 8.314\ 4598(48)\ \text{kg}\cdot\text{m}^2\cdot\text{s}^{-2}\cdot\text{mol}^{-1}\cdot\text{K}^{-1}$
 
-The mass constant of the molar mass
+Molar mass constant
 $M_u = 1\times10^{-3}\ \text{kg}\cdot\text{mol}^{-1}$
 
-The Boltzmann constant is the constant
+Boltzmann constant
 $k_B = 1.380\ 648\ 52(79)\times10^{-23}\ \text{kg}\cdot\text{m}^2\cdot\text{s}^{-2}\cdot\text{K}^{-1}$
 
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first values of the values of the first of the values of the values of the first values of the first
+Stefan-Boltzmann constant
 $\sigma = 5.670\ 367\ (13)\times10^{-8}\ \text{kg}\cdot\text{s}^{-3}\cdot\text{K}^{-4}$
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1hyoi76wbdV-oBFBdRPpklIES4zx5-Ed2/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Ceup2ygIG6iTWFdE8OlJsb-p8yHg3xj5/view)

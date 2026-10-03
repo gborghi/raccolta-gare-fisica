@@ -222,48 +222,29 @@ $2{,}9\cdot10^{-2}\ \text{kg mol}^{-1}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 2: Oscillations (optional) In the Rüchardt experiment (see figure), air is locked at atmospheric pressure ($p$) into a mattress of $V$ volume by means of a length cap.
-$L$ and $S$ section which may oscillate on the neck of the mattress. Push the plug slightly
-a distance much shorter than its length. This shift leads to a decrease in the
-The air pressure of the mattress is increased by $(\Delta V)$ and the air pressure of the mattress $(\Delta p)$ is increased by $(\Delta V)$. After this,
-The cap is released and you see how it describes a harmonic oscillatory motion.
-It's simple. Under certain conditions, the angular velocity of such motion is described by
+Problem 2: Oscillations (optional). In the Rüchardt experiment (see figure), air at atmospheric pressure ($p$) is enclosed in a flask of volume $V$ by means of a stopper of length $L$ and cross-sectional area $S$, which can oscillate within the neck of the flask. The stopper is slightly pushed a distance much smaller than its length. This displacement causes a decrease in volume $(\Delta V)$ and an increase in pressure $(\Delta p)$ of the air enclosed in the flask. After this, the stopper is released and it is observed that the stopper performs simple harmonic motion. Under certain conditions, the angular velocity of this motion is given by
 
 $$\omega = \sqrt{\frac{S\,p\,\gamma}{\rho\,L\,V}}$$
 
 where $\rho$ is the density of air and $\gamma$ is the so-called adiabatic coefficient.
-- **A.** Reason why the cap describes this movement.
-- **B.** Recalling the ideal gas law: $p\,V = n\,R\,T$, where $n$ is the number of moles, $T$
-The temperature and $R$ of the ideal gas constant, shows that the angular frequency
-The movement of the cap is described by
+
+- **A.** Explain why the stopper performs this motion.
+- **B.** Recalling the ideal gas law: $p\,V = n\,R\,T$, where $n$ is the number of moles, $T$ the temperature, and $R$ the ideal gas constant, prove that the angular frequency of the stopper's motion is described by
 
 $$\omega = \sqrt{\frac{S\,R\,T\,\gamma}{p_m\,L\,V}}$$
 
-where $p_m$ is the molecular weight of air.
-c. This experiment allows us to obtain the adiabatic coefficient more or less simply.
-from the air. Determine this by knowing that the oscillations of the cap present a period of
-oscilación de $t = 12{,}82$ ms.
+where $p_m$ is the molar mass of air.
 
-Magnitude
-Value
-$T$
-$300\ \text{K}$
-$V$
-$1{,}0\cdot10^{-3}\ \text{m}^3$
-$S$
-$1{,}0\cdot10^{-4}\ \text{m}^2$
-$L$
-$5{,}0\cdot10^{-2}\ \text{m}$
-$R$
-$8{,}314\ \text{J mol}^{-1}\,\text{K}^{-1}$
-$p_m$
-$2{,}9\cdot10^{-2}\ \text{kg mol}^{-1}$
+c. This experiment allows for a relatively simple determination of the adiabatic coefficient of air. Determine it, knowing that the stopper's oscillations have a period of $t = 12{,}82$ ms.
 
-**Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1DCeC5rBJvzvwKvlsyhaWb9ZWb67gWNSO/view)
+| Magnitude | Value |
+|-----------|-------|
+| $T$     | $300\ \text{K}$ |
+| $V$     | $1{,}0\cdot10^{-3}\ \text{m}^3$ |
+| $S$     | $1{,}0\cdot10^{-4}\ \text{m}^2$ |
+| $L$     | $5{,}0\cdot10^{-2}\ \text{m}$ |
+| $R$     | $8{,}314\ \text{J mol}^{-1}\,\text{K}^{-1}$ |
+| $p_m$     | $2{,}9\cdot10^{-2}\ \text{kg mol}^{-1}$ |
 
 
 

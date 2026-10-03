@@ -787,64 +787,41 @@ h
 
 Q4
 
-Questa domanda riguarda il movimento degli oggetti lungo una pendenza.
+Questo quesito riguarda il moto degli oggetti lungo un pendio.
 
 Figura 4.1.
 
 $\theta$
-(a) La figura 4.1 mostra la sezione trasversale di una pendenza su cui si posa una matita. La matita è
-esagonale in sezione trasversale. Trova l'angolo, $\theta$, della pendenza, alla quale la matita tenderà
-per arrotondare la pendice.
-b) La matita potrebbe scivolare. Trova il valore di $\theta$ al quale la matita scivolerà se il coefficiente
-di attrito tra le superfici è $\mu$.
-(c) Considerate un oggetto cilindrico che ha una sezione trasversale in forma di poligono con N
-parti uguali. Trova la condizione algebrica tale che se $\mu$ è maggiore di un certo valore il
-l'oggetto si rotola piuttosto che scivolare.
+(a) La Figura 4.1 mostra la sezione trasversale di un pendio su cui è appoggiato un pennello. Il pennello ha sezione esagonale. Determinare l'angolo, $\theta$, del pendio per il quale il pennello tende a rotolare lungo di esso.
+(b) Il pennello potrebbe scivolare. Determinare il valore di $\theta$ per cui il pennello comincia a scivolare, sapendo che il coefficiente di attrito tra le superfici è $\mu$.
+(c) Si consideri un oggetto cilindrico con sezione trasversale poligonale avente N lati uguali. Determinare la condizione algebrica affinché, se $\mu$ è maggiore di un certo valore, l'oggetto rotoli invece che scivoli.
 (d)
 
 Figura 4.2
 Figura 4.3
 
-Due strati di sfere identiche sono disposte in modo che ciascuna sfera che forma lo strato superiore si siede
-sopra altre quattro sfere di tocco identiche disposte con i loro centri alle estremità di un
-quadrato, figura 4.2. Calcolare la separazione dei piani attraverso i centri delle sfere,
-h, in termini di diametro delle sfere, d.
-
+Due strati di sfere identiche sono disposti in modo che ogni sfera del livello superiore si appoggi su quattro altre sfere identiche, a contatto tra loro e disposte con i centri ai vertici di un quadrato, come mostrato in Figura 4.2. Calcolare la distanza tra i piani passanti per i centri delle sfere, h, in funzione del diametro delle sfere, d.
 (e)
 
-In pratica si constata che le pile di oggetti grossi sono conico e che l'angolo che la faccia del
-Il cono con l'orizzontale è di circa 33°.
+Nella pratica si osserva che i mucchi di oggetti ruvidi hanno forma conica e l'angolo formato dalla faccia del cono con il piano orizzontale è circa 33°.
 
-Considerate un modello di due strati semplice come mostrato nella lettera d). Una pendenza, (angolo $\theta$ con orizzontale),
-è costituito da due strati di particelle sferiche, figura 4.3. Una particella sferica è
-di un'altra parte del terreno, che si trova in una zona di terra di cui la superficie è di circa un milione di metri,
-particelle, come nella figura 4.3, a velocità v. L'impatto ne fa perdere il 50%. Calcolare il
-il valore più piccolo di v in modo che continui a rimbalzare verso il basso. Che critica può essere
-La Commissione ha adottato una decisione del Consiglio che prevede che il sistema di controllo delle particelle non attraenti sia stato adottato.
+Considera un semplice modello a due strati come mostrato in (d). Un pendio, inclinato di un angolo $\theta$ rispetto all'orizzontale, è formato da due strati di particelle sferiche, come illustrato in Figura 4.3. Una particella sferica viene spostata e cade sul pendio in modo da posizionarsi simmetricamente tra quattro altre particelle, come nella Figura 4.3, con una velocità v. All’impatto essa perde il 50% della sua energia cinetica. Calcola il valore minimo di v affinché essa continui a rimbalzare lungo il pendio. Quali critiche possono essere formulate riguardo a questo modello e alla sua capacità di prevedere il comportamento di particelle non attrattive?
 
-f) Le piste di argilla non sono mai stabili. Suggerisci un motivo.
+(f) I pendii di argilla non sono mai stabili. Suggestione una ragione per questo.
 
 [20]
 
-$\theta$
-h
-
+$\theta$ h
 
 <!--fig:start-->
 ![[_attachments/BPhO_Paper3_2004_QP/BPhO_Paper3_2004_QP_p6_f7.png]]
-* matita esagonale su piano inclinato angolo theta *
+*matita esagonale su piano inclinato angolo theta*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/BPhO_Paper3_2004_QP/BPhO_Paper3_2004_QP_p6_f8.png]]
-* due strati sfere impilate separazione h *
+*due strati sfere impilate separazione h*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/BPhO_Paper3_2004_QP/BPhO_Paper3_2004_QP_p6_f9.png]]
-* sfera su piano inclinato due strati sfera *
+*sfera su piano inclinato due strati sfere*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1qhh7PVXxTDJ9zzDPBL1IbisfHPdpVdFr/view)

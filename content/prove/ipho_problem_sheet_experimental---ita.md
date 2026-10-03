@@ -181,162 +181,111 @@ L’apparecchi
 
 1) where is the relative magnetic permeability.
 
-Write on the Answer Sheet the letter corresponding to the form observed, and also the correct inequality:
- < 1 o > 1.
-The answer is not required in this part.
-The problem
+On the Answer Sheet, write the letter corresponding to the observed shape, and also the correct inequality:
+< 1 o > 1.
+In this section, justification of the answer is not required.
 
-The Commission has already adopted a proposal for a regulation.
+PROBLEM
 
- page 3 of 6 
+Problem E1
 
-Part B. The exact shape of the water surface. (7
-(point)
-The curvature of the surface of the water can be observed
-With great precision measuring the beam deviation
-laser reflected from the surface. This effect is used to
-determine how the thickness of the water layer varies from one
-above the calamity according to the horizontal position.
-i. (1.6 points) Measurement of how the height y of the stain varies
-Laser on the screen according to the x position of the caliber
-(see figure). Use the widest possible displacement x
-The caliber. Complete the first two columns of the table of
-The results are in the Answer Sheet.
-ii. (0.7 points) Draw the graph.
-The Commission shall adopt implementing acts. (0.7 points) Using the graph, determine the angle
-between the beam and the horizontal surface of the water.
-Please note that, knowing the height y of the stain
-the laser on the screen and the corresponding position of the x-caliber,
-si può conoscere l’inclinazioneta tan $\beta$ della superficie dell’acqua, nel punto di riflessione, rispetto all’orizzontale, mediante la formula
+— page 3 of 6 —
 
-where y0 and x0 are the height of the stain, respectively
-The laser on the screen and the caliber position when the
-The reflection takes place on the calamity axis.
-iv. (1.4 points) Calculate the values of this slope and report them
-in the table on the Answer Sheet. Note that calculations can be simplified by replacing certain expressions of the calculations
-The values of the previous values are read on the graph already made.
-v. (1.6 points) Calculate the height of the surface of the water (relative to the surface away from the calamity) in x
-and returns the results to the table in the Answer Sheet.
-vi. (1 point) Draw the corresponding chart. Indicates in
-Graph of the region where the laser beam hits the surface
-above the calamity.
+Part B. Exact shape of the water surface. (7 points)
+The curvature of the water surface can be observed with high precision by measuring the deflection of the laser beam reflected from the surface. This effect is used to determine how the thickness of the water layer above the magnet varies as a function of horizontal position.
 
-Part C. Magnetic permeability (2 points)
-Using the results of Part B, calculate the value of -1
-(called magnetic susceptibility), where is the relative magnetic permeability of water. Report in the Answer Sheet
-the final formula and the numerical value.
-The problem
+i. (1.6 points) Measure how the height y of the laser spot on the screen varies as a function of the horizontal position x of the caliper (see figure). Use the largest possible displacement x of the caliper. Fill in the first two columns of the results table on the Answer Sheet.
 
-The problem is E2.
+ii. (0.7 points) Plot the corresponding graph.
 
- page 4 of 6 
+iii. (0.7 points) Using the graph, determine the angle between the beam and the horizontal surface of the water.
+Keep in mind that, knowing the height y of the laser spot on the screen and the corresponding position x of the caliper, one can determine the slope tan $\beta$ of the water surface at the point of reflection, relative to the horizontal, using the formula
 
-Problem E2. Non-linear black box (10
-(point)
-In simple problems, electrical circuits are considered as
-composed of linear elements, where there is a direct proportionality relationship between the quantities at play (voltage, current and charge). For example, for resistance V = RI, for capacity Q = CV and for inductance V = LI ̇ where R, C and L are constants. In this problem, however, we consider a circuit that
-Contains non-linear elements, closed in a black box, for
-The Commission has already adopted a proposal for a directive on the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States relating to the approximation of the laws of the Member States.
-The material consists of a multimeter (with the label
-IPhO-measure), of a power generator, a black box containing non-linear elements, and four wires of
-The connection. Be careful not to break the label on the
-a black box that acts as a seal.
-The multimeter can measure both voltage and current in the
-I'm going to be there at the same time. It allows you to record up to 2000 measurements, and
-Each comprises: voltage V, current I, power
-P=VI, the local resistance value R=V/I, the derivative
-The time of the voltage V ̇, the time of the current I ̇ and the time
-t. See the manual for more explanations. If you exceed the
-2000 points older data will be overwritten.
+where y₀ and x₀ are, respectively, the height of the laser spot on the screen and the position of the caliper when reflection occurs along the magnet's axis.
 
-The current generator provides a constant current until the voltage to its heads is between -0.6125 V and 0.6125 V
-V. When turned off, the generator behaves like a very large (almost infinite) resistance.
+iv. (1.4 points) Calculate the value of this slope and record it in the table on the Answer Sheet. Note that calculations can be simplified by substituting certain expressions from previous steps with values read directly from the already plotted graph.
 
-The black box contains a double layer condenser of
-The main characteristics of the product are: This can be short-circuited as indicated
-In the pattern. The nonlinear element can be modelled as a resistance in which the relationship between voltage and current is
-current is nonlinear [I is a continuous function of V, with
-I(0)=0]. The differential capacitance of the capacitor is also
-C(V) = dQ/dV is not entirely constant. The tension between the leaders
-The black box is considered positive when the
-The potential of the red connector is greater than that of the
-black connector. When the generator and the black box
-They are connected by respecting the colors you get a voltage
-positive (you can use negative stresses if you want).
-You can discharge the black box capacitor without
-any hazard either by connecting its heads directly to each other or through the multimeter's IN and OUT links:
-The internal resistance of the capacitor is high enough that the current does not damage anything.
-In this problem no calculation of uncertainties is required.
-The problem
+v. (1.6 points) Calculate the height of the water surface (with respect to the surface far from the magnet) as a function of x, and record the results in the table on the Answer Sheet.
 
-The problem is E2.
+vi. (1 point) Draw the corresponding graph. Indicate in the graph the region where the laser beam strikes the surface above the magnet.
 
- page 5 of 6 
+Part C. Magnetic Permeability (2 points)
+Using the results from Part B, calculate the value of -1 (called magnetic susceptibility), where is the relative magnetic permeability of water. Record in the Answer Sheet the final formula and the numerical value.
 
-Part A. The following table shows the results of the calculation:
-In this part the black box switch is left in
-position I so that the inductance is short-circuited.
-Some measures may take considerable time:
-Read Part A in its entirety immediately to avoid unnecessary work.
-i. (1 point) Verify that the output current of the generator is
-Current is approximately 6 mA and determines within
-The current limits vary in the voltage range from 0 to +480 mV. Draw the linkage scheme and
-Indicates the voltage range studied.
-ii. (1.2 points) Shows that the value of the differential capacity
-C(V) used in the black box is approximately 2 F, measuring
-its value C(V0) = C0 for a voltage V0 of your choice.
-Draw the circuit pattern.
-The Commission shall adopt implementing acts. (2.2 points) Without taking into account the nonlinearity of the capacitor [C(V) $\approx$ C0], calculate the current-voltage characteristic
-the non-linear element present in the black box. Trace
-On the Sheet Answer curve I(V) obtained by voltages
-I'm not sure. Draw the circuit pattern.
-iv. (2.6 points) Using measures taken throughout the range
-For the calculation of the values of positive voltages, calculate C(V) and draw the curve on the Answer Sheet. Please note the minimum and maximum value of the differential capacity, Cmin and Cmax. Draw the circuit pattern.
-Part B. The following conditions shall apply:
-Enter the inductance by opening the switch on the black box (go to 0). Using the same method as in point A-iii, measure and chart the current-voltage characteristic of the non-linear element. It illustrates all significant differences between the curves of parts A and B.
-Give a reason using qualitative arguments. Here, you have to
-Know that the nonlinear element also has a capacity
-(approximately 1 nF) in parallel to the non-linear resistance.
-The problem
+PROBLEM
 
-The problem is E2.
+Problem E2
 
- page 6 of 6 
+— page 4 of 6 —
 
-IPhO-measure: small manual used
-The IPhO-measure is a multimeter capable of measuring V voltage and current I simultaneously. He records theirs too.
-The time derivatives V ̇ and I ̇, their product P=VI, their
-R = V/I ratio, and the time interval t of the measurement. The measures
-are stored in separate sets: each measurement is
-Listed with its serial number s and position n
-In the series. All measures are recorded in one
-Internal flash memory and can be retrieved in
-I followed.
+Problem E2. Nonlinear Black Box (10 points)
 
-Electrical behaviour
-The device behaves as an ampere and voltmeter connected as follows.
+In simple problems, electrical circuits are considered to consist of linear elements, in which there is a direct proportional relationship between the quantities involved (voltage, current, and charge). For example, for a resistor V = RI, for a capacitor Q = CV, and for an inductor V = Lİ, where R, C, and L are constants. In this problem, however, a circuit containing nonlinear elements enclosed in a black box is considered, for which the assumption of proportionality no longer holds.
 
-Measurement range Internal resistance
-The voltage
+The setup consists of a multimeter (labeled "IPhO-measure"), a current source, a black box containing nonlinear elements, and four connecting cables. Be careful not to break the label on the black box, which serves as a seal.
+
+The multimeter can measure both voltage and current simultaneously. It allows you to record up to 2000 measurements, each including: the voltage V, the current I, the power P = VI, the local resistance R = V/I, the time derivative of voltage V̇, the time derivative of current İ, and the time t. Refer to the manual for further details. If you exceed 2000 data points, the oldest data will be overwritten.
+
+The current source provides a constant current as long as the voltage across its terminals lies between -0.6125 V and 0.6125 V. When turned off, the current source behaves like a very large resistance (almost infinite).
+
+The black box contains a large-capacity, slightly nonlinear double-layer capacitor, an unknown nonlinear element, and an inductance L = 10 mH with negligible resistance. This inductance can be short-circuited as indicated in the diagram. The nonlinear element may be modeled as a resistor where the relationship between voltage and current is nonlinear [I is a continuous function of V, with I(0) = 0]. Similarly, the differential capacitance of the capacitor C(V) = dQ/dV is not perfectly constant. The voltage across the black box terminals is considered positive when the potential at the red connector is higher than that at the black connector. When the generator and the black box are connected respecting the colors, a positive voltage is obtained (you may use negative voltages if desired).
+
+It is safe to discharge the capacitor inside the black box either by directly connecting its terminals together, or via the IN and OUT connections of the multimeter: the internal resistance of the capacitor is sufficiently high that no damage occurs due to current.
+
+No uncertainty calculations are required in this problem.
+
+PROBLEM
+
+Problem E2
+
+— page 5 of 6 —
+
+Part A. Circuit without inductance (7 points)
+
+In this part, the switch inside the black box is left in position “I” so that the inductance is short-circuited.
+
+Some measurements may require considerable time; therefore, read the entire Part A immediately to avoid unnecessary work.
+i. (1 point) Verify that the output current of the current generator is approximately 6 mA and determine within what limits the current varies over the voltage range from 0 to +480 mV. Draw the circuit connection diagram and indicate the voltage interval studied.
+
+ii. (1.2 points) Show that the value of the differential capacitance
+C(V) used in the black box is approximately 2 F, by measuring its value C(V₀) = C₀ at a voltage V₀ of your choice. Draw the circuit diagram.
+
+iii. (2.2 points) Neglecting the non-linearity of the capacitor [C(V) $\approx$ C₀], calculate the current-voltage characteristic of the non-linear element present in the black box. On the Answer Sheet, plot the I(V) curve obtained for positive voltages. Draw the circuit diagram.
+
+iv. (2.6 points) Using measurements taken across the entire accessible range of positive voltages, calculate C(V) and plot its curve on the Answer Sheet. Record the minimum and maximum values of the differential capacitance, Cmin and Cmax. Draw the circuit diagram.
+
+Part B. Circuit with Inductance (3 points)
+Insert the inductance by opening the switch on the black box (switching to position “0”). Using the same method as in point A-iii, measure and plot the current-voltage characteristic of the non-linear element. Highlight all significant differences between the curves from parts A and B.
+Give a reason using qualitative arguments. Here, you must know that the nonlinear element also has a capacitance (approximately 1 nF) in parallel with the nonlinear resistance.
+
+PROBLEM
+
+Problem E2
+
+— page 6 of 6 —
+
+IPhO-measure: small user manual
+IPhO-measure is a multimeter capable of simultaneously measuring voltage V and current I. It also records their time derivatives ẋ and ġ, the product P = VI, the ratio R = V/I, and the time instant t at which the measurement is taken. The measurements are stored in separate series: each measurement is cataloged by its serial number s and its position n within the series. All measurements are stored in an internal flash memory and can be retrieved later.
+
+Electrical behavior
+The device behaves like an ammeter and a voltmeter connected in the following way.
+
+Measurement range  Internal resistance
+Voltmeter
 0...2 V
 1 $M\Omega$
-The voltage
+Voltmeter
 2...10 V
 57 $k\Omega$
-Other, not further worked than cutting
+Ammeter
 0...1 A
 1 $\Omega$
 
-Fast driving
-Press the POWER button to turn on the device.
-The appliances
+Quick guide
+Press the “POWER” button to turn on the device.
+The instrument
 
-**Topic:** [[Magnetism]], [[Geometric Optics]], [[Circuits]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Magnet (object)|Magnet]], [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/18eqXi8liI14iwJw9ls9RThSBXt2oo0Yr/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1uuJ-o1JU4dxynu7SyLCavauRCGUdboaD/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1uuJ-o1JU4dxynu7SyLCavauRCGUdboaD/view)
 
 
 

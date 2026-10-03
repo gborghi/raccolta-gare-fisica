@@ -273,43 +273,21 @@ XIX OLIMPIADA ESPAÑOLA DE FÍSICA.
 
 <div class="qlang-split" data-lang="it"></div>
 
-6)
-Della regolazione si deducono i valori delle due costanti caratteristiche del generatore3, $k$ e $m_0$.
+6) Dedurre i valori delle due costanti caratteristiche del generatore³, $k$ e $m_0$.
 
-1 Nel nostro montaggio la velocità limite è raggiunta poco dopo il rilascio $m$, come è facile verificare sperimentalmente.
-2 La forza di rottura dinamica (quando c'è uno scivolo relativo) è inferiore alla forza di rottura statica
-massimo (limite di equilibrio, senza scorciatoie). In questo modo, nel nostro sistema, la massa che deve essere sospesa per
-il generatore inizia a girare a partire dal riposo può essere appreziatamente superiore a $m_0$.
-3 Potranno esserci discrepanze dell'ordine del 5% tra i valori di $k$ ottenuti nei paragrafi 3 e 6, a causa di:
-principalmente a la dispersión de los valores reales de $R+r$ en los diversos montajes experimentales. Per calcoli
-Se il valore di $k$ è ottenuto in un secondo momento, è preferibile prendere il valore di $k$ ottenuto in un secondo momento.
-XIX Olimpiada di Fisica spagnola.
-
-**Topic:** [[Electromagnetic Induction]], [[Circuits]], [[Newtonian Mechanics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
+1 Nel nostro montaggio la velocità limite viene raggiunta poco dopo aver rilasciato $m$, come è facile verificare sperimentalmente.
+2 La forza di attrito dinamico (quando c'è scorrimento relativo) è minore della forza di attrito statico massimo (limite di equilibrio, senza scorrimento). Pertanto, nel nostro sistema la massa da appendere perché il generatore inizi a ruotare partendo dal riposo può essere significativamente maggiore di $m_0$.
+3 Potrebbero esserci discrepanze dell'ordine del 5% tra i valori di $k$ ottenuti nei punti 3 e 6, dovute principalmente alla dispersione dei valori reali di $R+r$ nei vari montaggi sperimentali. Per i calcoli successivi, è preferibile utilizzare il valore di $k$ ottenuto nel punto 6.
+XIX OLIMPIADA SPAGNOLA DI FISICA.
 
 <div class="qlang-split" data-lang="en"></div>
 
-6)
-Subtract from this setting the values of the two generator characteristic constants3, $k$ and $m_0$.
+6) Deduce from this adjustment the values of the two characteristic constants of the generator³, $k$ and $m_0$.
 
-1 In our assembly the speed limit is reached at $m$, as is easily verified experimentally.
-2 The dynamic friction force (when there is relative slip) is less than the static friction force
-maximum (balance limit, without slippage). The Commission has therefore decided to extend the scope of the
-The output of the generator starting from the resting position may be significantly higher than $m_0$.
-3 There may be discrepancies of the order of 5% between the values of $k$ obtained in paragraphs 3 and 6, due to the fact that the value of MSK0/> is not
-principalmente a la dispersión de los valores reales de $R+r$ en los diversos montajes experimentales. For calculations
-The value of $k$ obtained in paragraph 6 is preferable.
-19th Spanish Olympics in Physics.
-
-**Topic:** [[Electromagnetic Induction]], [[Circuits]], [[Newtonian Mechanics]]
-**Metodi:** [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
+1 In our setup, the terminal velocity is reached shortly after releasing $m$, as can easily be verified experimentally.
+2 The dynamic friction force (when there is relative sliding) is less than the maximum static friction force (limit of equilibrium, no slipping). Therefore, in our system, the mass that must be hung to make the generator start rotating from rest may be significantly higher than $m_0$.
+3 There may be discrepancies of about 5% between the values of $k$ obtained in sections 3 and 6, mainly due to the spread in actual values of $R+r$ across different experimental setups. For subsequent calculations, it is preferable to use the value of $k$ obtained in section 6.
+XIX SPANISH OLYMPIAD IN PHYSICS.
 
 
 
@@ -769,54 +747,43 @@ XIX Olimpiada di Fisica spagnola.
 
 <div class="qlang-split" data-lang="en"></div>
 
-3)
-The last column of the table above presents the values of the $k = \epsilon / v$ constant obtained in
-every case. The mean value is
+3) In the last column of the previous table, the values of constant $k = \epsilon / v$ obtained in each case are presented. The mean value is
 
 $$\bar{k} = 4{,}71\ \text{Vs/m}$$
 
-A reasonable estimate of the uncertainty of this constant, obtained as an average of $n = 8$
-The Commission's decision to adopt the directive is not a matter for the Commission.
+A reasonable estimate for the uncertainty of this constant, obtained as the average of $n = 8$ measurements, is its standard error⁴
 
 $$\Delta k = \left[ \frac{\sum (\bar{k} - k_i)^2}{n(n-1)} \right]^{1/2}$$
 
-You get it
+It yields
 
 $$\Delta k = 0{,}04\ \text{Vs/m}$$
 
-4 If the typical error is taken as uncertainty, the confidence level is less than 65% because less than 10
-measures. To increase this level to 95%, this margin of error would have to be increased by more than twice. No need to look in
-If the error table is a reasonable result with approximately 95% confidence, it would be $k = (4{,}7 \pm 0{,}1)\ \text{Vs/m}$.
+4 If the standard error is taken as uncertainty, the confidence level is less than 65% because fewer than 10 measurements were made. To increase this level to 95%, the error margin would have to be more than doubled. Without needing to consult a table of errors, a reasonable result with approximately 95% confidence would be $k = (4{,}7 \pm 0{,}1)\ \text{Vs/m}$.
 
 | $m$ (g) | $t_1$ (s) | $t_2$ (s) | $t_3$ (s) | $\bar{t}$ (s) | $\Delta V_\text{max}$ (V) | $\Delta V_\text{min}$ (V) | $\overline{\Delta V}$ (V) |
 |---|---|---|---|---|---|---|---|
-| 17,5 | 14,40 | 14,37 | 14,44 | 14,40 | 0,15 | 0,15 | 0,15 |
-| 23,2 | 8,72 | 8,75 | 8,72 | 8,73 | 0,25 | 0,23 | 0,24 |
-| 29,1 | 6,90 | 6,40 | 6,50 | 6,60 | 0,34 | 0,32 | 0,33 |
-| 34,8 | 5,37 | 5,34 | 5,28 | 5,33 | 0,42 | 0,39 | 0,405 |
-| 40,7 | 4,56 | 4,29 | 4,53 | 4,46 | 0,52 | 0,49 | 0,505 |
-| 46,4 | 3,84 | 3,62 | 3,69 | 3,72 | 0,59 | 0,57 | 0,58 |
-| 52,3 | 3,22 | 3,28 | 3,28 | 3,26 | 0,68 | 0,66 | 0,67 |
-| 58,0 | 2,82 | 2,88 | 2,78 | 2,83 | 0,75 | 0,73 | 0,74 |
+| 17.5 | 14.40 | 14.37 | 14.44 | 14.40 | 0.15 | 0.15 | 0.15 |
+| 23.2 | 8.72 | 8.75 | 8.72 | 8.73 | 0.25 | 0.23 | 0.24 |
+| 29.1 | 6.90 | 6.40 | 6.50 | 6.60 | 0.34 | 0.32 | 0.33 |
+| 34.8 | 5.37 | 5.34 | 5.28 | 5.33 | 0.42 | 0.39 | 0.405 |
+| 40.7 | 4.56 | 4.29 | 4.53 | 4.46 | 0.52 | 0.49 | 0.505 |
+| 46.4 | 3.84 | 3.62 | 3.69 | 3.72 | 0.59 | 0.57 | 0.58 |
+| 52.3 | 3.22 | 3.28 | 3.28 | 3.26 | 0.68 | 0.66 | 0.67 |
+| 58.0 | 2.82 | 2.88 | 2.78 | 2.83 | 0.75 | 0.73 | 0.74 |
 
 | $m$ (g) | $v$ (m/s) | $I$ (A) | $\epsilon$ (V) | $k$ (Vs/m) |
 |---|---|---|---|---|
-| 17,5 | 0,0694 | 0,020 | 0,33 | 4,76 |
-| 23,2 | 0,115 | 0,032 | 0,52 | 4,54 |
-| 29,1 | 0,152 | 0,044 | 0,72 | 4,75 |
-| 34,8 | 0,188 | 0,054 | 0,89 | 4,74 |
-| 40,7 | 0,224 | 0,067 | 1,09 | 4,86 |
-| 46,4 | 0,269 | 0,077 | 1,26 | 4,68 |
-| 52,3 | 0,307 | 0,089 | 1,46 | 4,76 |
-| 58,0 | 0,354 | 0,099 | 1,61 | 4,55 |
+| 17.5 | 0.0694 | 0.020 | 0.33 | 4.76 |
+| 23.2 | 0.115 | 0.032 | 0.52 | 4.54 |
+| 29.1 | 0.152 | 0.044 | 0.72 | 4.75 |
+| 34.8 | 0.188 | 0.054 | 0.89 | 4.74 |
+| 40.7 | 0.224 | 0.067 | 1.09 | 4.86 |
+| 46.4 | 0.269 | 0.077 | 1.26 | 4.68 |
+| 52.3 | 0.307 | 0.089 | 1.46 | 4.76 |
+| 58.0 | 0.354 | 0.099 | 1.61 | 4.55 |
 
-19th Spanish Olympics in Physics.
-
-**Topic:** [[Electromagnetic Induction]], [[Circuits]]
-**Metodi:** [[Statistical Averaging (metodo)|Statistical Averaging]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
+XIX OLIMPIADA ESPAÑOLA DE FÍSICA.
 
 
 
@@ -1077,104 +1044,75 @@ lo que la principal fuente de error para cálculos posteriores es la incertidumb
 <div class="qlang-split" data-lang="it"></div>
 
 7)
-Le incertezze di pendenza e di ordine nella fonte del grafico $v(m)$ possono essere stimate
-tracciando le linee che con pendici massimi e minimi si adattano ragionevolmente ai punti
-La Commissione ha adottato una decisione che non è stata adottata. Nel nostro caso, la dispersione dei punti
-La linea ottimale è piccola, nell'ordine del raggio dei punti disegnati.
-Considerando inoltre che entrambe le linee devono passare per il punto medio degli esperimenti,
-$(\bar{m}, \bar{v})$, il seguente grafico presenta una ragionevole stima di queste rette.
+Le incertezze della pendenza e dell'intercetta all'origine del grafico $v(m)$ possono essere stimati tracciando le rette con pendenza massima e minima che si adattano ragionevolmente ai punti sperimentali, entro il loro margine di incertezza. Nel nostro caso, la dispersione dei punti sperimentali rispetto alla retta ottimale è piccola, dell'ordine del raggio dei punti disegnati.
+Tenendo inoltre conto che entrambe le rette devono passare per il punto medio dei dati sperimentali, $(\bar{m}, \bar{v})$, nella seguente figura è mostrata una stima ragionevole di queste rette.
 
-Guardando sulla grafica le coordinate dei due punti estremisti di ciascuno di questi due rettitudini,
-come previsto al paragrafo 5, le loro pendenti e le loro ordini sono ottenute all'origine
+Osservando sul grafico le coordinate dei due punti estremi di ciascuna delle due rette, come nell'articolo 5, si ottengono le rispettive pendenze e intercette all'origine:
 
 $$p_\text{max} = \frac{(0{,}365 + 0{,}055)\ \text{m/s}}{60{,}0\ \text{g}} = 7{,}00\ \text{m·s}^{-1}\text{kg}^{-1}, \quad c_\text{min} = -0{,}055\ \text{m/s}$$
 
 $$p_\text{min} = \frac{(0{,}359 + 0{,}045)\ \text{m/s}}{60{,}0\ \text{g}} = 6{,}73\ \text{m·s}^{-1}\text{kg}^{-1}, \quad c_\text{max} = -0{,}045\ \text{m/s}$$
 
-Un'estimazione delle incertezze di $p$ e $c$ potrebbe quindi essere6
+Pertanto, una stima delle incertezze di $p$ e $c$ potrebbe essere⁶
 
 $$\Delta p = 0{,}13\ \text{m·s}^{-1}\text{kg}^{-1}, \quad \Delta c = 0{,}005\ \text{m/s}$$
 
-I valori massimi e minimi corrispondenti delle costanti $k$ e $m_0$ sono ottenuti applicando (3) con
-i valori $p$ e $c$ aggiustati per ciascuna di queste due linee
+I valori massimo e minimo delle costanti $k$ e $m_0$ si ottengono applicando (3) con i valori di $p$ e $c$ corrispondenti a ciascuna di queste due rette.
 
-6 Un calcolo statistico porta a che gli errori tipici di $p$ e $c$ sono rispettivamente $0{,}11\ \text{m·s}^{-1}\text{kg}^{-1}$ e $0{,}004\ \text{m/s}$.
+6 Un calcolo statistico conduce al fatto che gli errori quadratici medi di $p$ e $c$ sono rispettivamente $0{,}11\ \text{m·s}^{-1}\text{kg}^{-1}$ e $0{,}004\ \text{m/s}$.
 
-XIX Olimpiada di Fisica spagnola.
+XIX OLIMPIADA SPAGNOLA DI FISICA.
 
 $$k_\text{max} = \left( \frac{g(R + r)}{p_\text{min}} \right)^{1/2} = 4{,}87\ \text{Vs/m}, \quad m_{0,\text{max}} = -\frac{c_\text{min}}{p_\text{max}} = 7{,}9\ \text{g}$$
 
 $$k_\text{min} = \left( \frac{g(R + r)}{p_\text{max}} \right)^{1/2} = 4{,}78\ \text{Vs/m}, \quad m_{0,\text{min}} = -\frac{c_\text{max}}{p_\text{min}} = 6{,}7\ \text{g}$$
 
-I valori massimi e minimi stimati per $m_0$ possono anche essere letti direttamente nel grafico
-Infatti, in base all'equazione (2) della frase precedente, le intersezioni delle
-due righe con la scritta $v = 0$.
+I valori massimo e minimo stimati per $m_0$ possono anche essere letti direttamente dal grafico precedente, poiché, tenendo conto dell'equazione (2) del testo, corrispondono alle intersezioni delle due rette con l'ordinata $v = 0$.
 
-In totale, i risultati per $k$ e $m_0$, compresa una stima delle loro incertezze, sarebbero
+In totale, i risultati per $k$ e $m_0$, compresa una stima delle rispettive incertezze, sarebbero
 
 $$k = (4{,}82 \pm 0{,}05)\ \text{Vs/m}$$
 
 $$m_0 = (7{,}3 \pm 0{,}6)\ \text{g}$$
 
-Si noti che le incertezze relative di $k$ e $m_0$ sono rispettivamente dell'ordine dell'1% e dell'8%, per
-la principale fonte di errore per i successivi calcoli è l'incertezza di $m_0$.
-
-**Topic:** [[Electromagnetic Induction]], [[Circuits]]
-**Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
+Si osservi che le incertezze relative di $k$ e $m_0$ sono dell'ordine del 1% e dell'8%, rispettivamente, per cui la principale fonte di errore per i calcoli successivi è l'incertezza di $m_0$.
 
 <div class="qlang-split" data-lang="en"></div>
 
 7)
-The slope and order uncertainties at the source of the graph $v(m)$ can be estimated
-Drawing the lines which with the highest and lowest slopes reasonably fit the points
-The Commission's proposal for a directive on the protection of workers' rights in the field of social protection is to be adopted by the Council. In our case, the scattering of the points
-The experimental reference to the optimum straight is small, in the order of the radii of the points drawn.
-Whereas, furthermore, both directions must pass through the average point of the experimental ones,
-$(\bar{m}, \bar{v})$, a reasonable estimate of these straight lines is given in the following graph.
+The uncertainties in the slope and y-intercept of the graph $v(m)$ may be estimated by drawing two lines with maximum and minimum reasonable slopes that fit the experimental points within their uncertainty range. In our case, the dispersion of the experimental points around the optimal line is small, on the order of the radius of the plotted points.
 
-Looking at the coordinates of the two extreme points of each of these two rectangles on the graph,
-as in paragraph 5, their earrings and their orders are obtained at the origin
+Additionally, since both lines must pass through the average experimental point $(\bar{m}, \bar{v})$, a reasonable estimation of these two lines is presented in the following graph.
+
+By observing on the graph the coordinates of the two extreme points of each of these two lines, as in part 5, their slopes and y-intercepts are obtained:
 
 $$p_\text{max} = \frac{(0{,}365 + 0{,}055)\ \text{m/s}}{60{,}0\ \text{g}} = 7{,}00\ \text{m·s}^{-1}\text{kg}^{-1}, \quad c_\text{min} = -0{,}055\ \text{m/s}$$
 
 $$p_\text{min} = \frac{(0{,}359 + 0{,}045)\ \text{m/s}}{60{,}0\ \text{g}} = 6{,}73\ \text{m·s}^{-1}\text{kg}^{-1}, \quad c_\text{max} = -0{,}045\ \text{m/s}$$
 
-Therefore, an estimate of the uncertainties of $p$ and $c$ could be6
+Therefore, a reasonable estimate of the uncertainties in $p$ and $c$ could be
 
 $$\Delta p = 0{,}13\ \text{m·s}^{-1}\text{kg}^{-1}, \quad \Delta c = 0{,}005\ \text{m/s}$$
 
-The corresponding maximum and minimum values of the constants $k$ and $m_0$ are obtained by applying (3) to
-the values of $p$ and $c$ adjusted for each of these two straight lines
+The corresponding maximum and minimum values of the constants $k$ and $m_0$ are obtained by applying (3) with the values of $p$ and $c$ adjusted for each of these two lines.
 
-6 A statistical calculation leads to the typical errors of $p$ and $c$ being $0{,}11\ \text{m·s}^{-1}\text{kg}^{-1}$ and $0{,}004\ \text{m/s}$ respectively.
+6 A statistical calculation yields that the standard errors of $p$ and $c$ are, respectively, $0{,}11\ \text{m·s}^{-1}\text{kg}^{-1}$ and $0{,}004\ \text{m/s}$.
 
-19th Spanish Olympics in Physics.
+XIX ESPANISH PHYSICS OLYMPIAD
 
 $$k_\text{max} = \left( \frac{g(R + r)}{p_\text{min}} \right)^{1/2} = 4{,}87\ \text{Vs/m}, \quad m_{0,\text{max}} = -\frac{c_\text{min}}{p_\text{max}} = 7{,}9\ \text{g}$$
 
 $$k_\text{min} = \left( \frac{g(R + r)}{p_\text{max}} \right)^{1/2} = 4{,}78\ \text{Vs/m}, \quad m_{0,\text{min}} = -\frac{c_\text{max}}{p_\text{min}} = 6{,}7\ \text{g}$$
 
-The estimated maximum and minimum values for $m_0$ can also be read directly on the graph
-The following are the intersections of the two points of the
-two straight lines with the order $v = 0$.
+The estimated maximum and minimum values for $m_0$ may also be read directly from the previous graph, since, taking into account equation (2) in the statement, they correspond to the intersections of the two lines with the y-axis $v = 0$.
 
-In total, the results for $k$ and $m_0$, including an estimate of their uncertainties, would be:
+In total, the results for $k$ and $m_0$, including an estimate of their uncertainties, would be
 
 $$k = (4{,}82 \pm 0{,}05)\ \text{Vs/m}$$
 
 $$m_0 = (7{,}3 \pm 0{,}6)\ \text{g}$$
 
-Note that the relative uncertainties of $k$ and $m_0$ are of the order of 1% and 8%, respectively, for
-The main source of error for subsequent calculations is the uncertainty of $m_0$.
-
-**Topic:** [[Electromagnetic Induction]], [[Circuits]]
-**Metodi:** [[Error Propagation (metodo)|Error Propagation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
+Note that the relative uncertainties of $k$ and $m_0$ are on the order of 1% and 8%, respectively, so the main source of error for subsequent calculations is the uncertainty in $m_0$.
 
 
 
@@ -1302,28 +1240,17 @@ Tabla III
 <div class="qlang-split" data-lang="it"></div>
 
 9)
-In particolare, per $m = 23{,}2\ \text{g}$ l'equazione (4) prevede un corrente
+In particolare, per $m = 23{,}2\ \text{g}$ l'equazione (4) prevede un valore di corrente
 
 $$I = 32{,}4\ \text{mA}$$
 
-Propagando le incertezze di $k$ e $m_0$ di cui al paragrafo 7, si ottiene un'incertezza per:
-Questo corrente
+Propagando le incertezze di $k$ e $m_0$ ottenute al punto 7, si ottiene un'incertezza per questa corrente
 
 $$\Delta I = 1{,}2\ \text{mA}.$$
 
-Poiché si dispone di due resistenze di 15 $\Omega$, si possono lavorare sperimentalmente con tre valori della
-resistenza di carico del generatore: $R_1 = 7{,}5\ \Omega$ se collegati in parallelo, $R_2 = 15\ \Omega$ se collegati in singolo
-resistenza e $R_3 = 30\ \Omega$ se collegati in serie. Il tabella III presenta le misure per la diminuzione del
-Potenzialmente $\Delta V$ in ogni caso e dell'intensità dedotta come $I = \Delta V / R$. Potrebbe anche essere misurato
-direttamente l'intensità utilizzando il
-un multimetro come un amperimetro,
-collegato in serie con resistenza e
-Il generatore.
+Poiché si dispone di due resistenze da 15 $\Omega$, è possibile lavorare sperimentalmente con tre valori della resistenza di carico del generatore: $R_1 = 7{,}5\ \Omega$ se collegate in parallelo, $R_2 = 15\ \Omega$ se ne è collegata una sola e $R_3 = 30\ \Omega$ se collegate in serie. Nella tabella III sono riportate le misure della caduta di potenziale $\Delta V$ in ciascun caso e dell'intensità dedotta come $I = \Delta V / R$. Si potrebbe anche misurare direttamente l'intensità usando il multimetro come amperometro, collegato in serie con la resistenza e il generatore.
 
-L'accordo tra le previsioni del
-modello e risultati
-La Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati
-margine di incertezza stimata.
+Il concordanza tra le previsioni del modello e i risultati sperimentali è soddisfacente, entro il margine di incertezza stimato.
 
 | $R$ ($\Omega$) | $\Delta V_\text{max}$ (V) | $\Delta V_\text{min}$ (V) | $\overline{\Delta V}$ (V) | $I$ (mA) |
 |---|---|---|---|---|
@@ -1332,12 +1259,6 @@ margine di incertezza stimata.
 | 30 | 1,01 | 0,97 | 0,99 | 33 |
 
 Tabella III
-
-**Topic:** [[Circuits]], [[Electromagnetic Induction]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1vJ3ILlWMLIf_szJeR6FVLUeh_fmYbl34/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

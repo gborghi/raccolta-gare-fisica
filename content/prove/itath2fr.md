@@ -81,19 +81,13 @@ Esprimere $\alpha$ in funzione di $\mu_{air}$, $g$, $R$, $H$ e trovarne il valor
 
 <div class="qlang-split" data-lang="en"></div>
 
-**(b)** [2 punti] In un esperimento condotto in Corea in un certo giorno d'estate si è trovato che la temperatura dell'aria all'altezza $h$ sul livello del mare variava secondo la legge
-$$T(h) = T_0\left(1 - \frac{h}{H}\right)$$
-in an altitude range of $h \ll H$, with $H = 49\ \text{km}$ and $T_0 = 303\ \text{K}$. The pressure and density of the air at sea level were $P_0 = 1\ \text{atm} = 1.013 \times 10^5\ \text{Pa}$ and $\rho_0 = 1.16\ \text{kg/m}^3$ respectively.
+**(b)** [2 points] In an experiment conducted in Korea on a certain summer day, it was found that the air temperature at height $h$ above sea level varied according to the law
+$$T(h) = T_0\left(1 - \frac{h}{H}\right)$$ over a height interval such that $h \ll H$, with $H = 49\ \text{km}$ and $T_0 = 303\ \text{K}$. The pressure and air density at sea level were, respectively, $P_0 = 1\ \text{atm} = 1.013 \times 10^5\ \text{Pa}$ and $\rho_0 = 1.16\ \text{kg/m}^3$.
 
-In the same height range the pressure trend was of the type
-$$P = P_0 \left(\frac{T}{T_0}\right)^\alpha \quad (2.1)$$
-Express $\alpha$ as a function of $\mu_{air}$, $g$, $R$, $H$ and find the numerical value with two significant digits. Consider the acceleration of gravity constantly, regardless of the change in height.
+Over the same height interval, the variation of pressure followed the form
+$$P = P_0 \left(\frac{T}{T_0}\right)^\alpha \quad (2.1)$$.
 
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1z2do2kH--E8T1CuLgMUfApGhV6w_lo-3/view)
+Express $\alpha$ as a function of $\mu_{air}$, $g$, $R$, and $H$, and determine its numerical value to two significant figures. Assume the acceleration due to gravity is constant, regardless of height variation.
 
 
 

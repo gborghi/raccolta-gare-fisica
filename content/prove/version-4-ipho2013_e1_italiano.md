@@ -248,74 +248,55 @@ E1
 
 Page 1 of 10
 
-Note: All results of measurements and calculated values must be reported in units
-The SI with the appropriate number of significant figures. The experimental uncertainties are
-The Commission shall adopt the following measures:
+Attention: All measured results and calculated values must be reported in SI units with the appropriate number of significant figures. Experimental uncertainties need to be determined only when explicitly requested.
 
-1.0 Introduction to the text
-Experiments with a laser distance measurement (LDM)
+1.0 Introduction
+Experiments using a laser distance meter (LDM)
 
 Figure 1.1 Some materials for the experiment
-A: Laser distance measurement
-B: fibre optic cable (about 1 m)
-C: Self-adhesive black holes with a hole
-D: paper meter
+A: laser distance meter
+B: optical fiber cable (approximately 1 m)
+C: black adhesive felt pads with a hole
+D: paper meter rule
 E: adhesive tape
-F: Scissors
-G: black box cover
-A laser distance measurement (LDM, see Fig. 1.2 and Fig. 1.3) consists of an issuer and an
-The receiver. The emitter is a laser diode that emits a modulated laser beam, i.e. a laser beam at the
+F: scissors
+G: lid of the black box
+
+A laser distance meter (LDM, see Fig. 1.2 and Fig. 1.3) consists of a transmitter and a receiver. The transmitter is a laser diode that emits a modulated laser beam, i.e., a laser beam the
 
 Speed of light
 E1
 
 Page 2 of 10
 
-The amplitude varies with a very high frequency. When the laser beam hits an object, the light is
-It's reflected in all directions by the laser stain. Some of the light is returned to the receiver of the
-instrument which is placed immediately next to the issuer. The objective of the instrument is to
-It focuses on the laser spot and receives the light back from it. The electronics of the
-instrument measuring the time difference in the modulation of the light signal received
-The one that was issued. The delay of modulation is exactly the time it takes for light to
-the number of units of the test chemical used in the test chemical. The measured time is then converted to distance y through the
-formula
+whose amplitude varies at a very high frequency. When the laser beam hits an object, the light is reflected in all directions from the laser spot. A portion of this light returns to the instrument's receiver, which is located immediately next to the emitter. The instrument’s optics are focused on the laser spot and collect the returning light emitted from it. The instrument's electronics measure the time delay in the modulation of the received optical signal compared to the emitted one. The delay in modulation corresponds exactly to the time it takes for light to travel from emitter to receiver. This measured time is then converted into distance y using the formula
 
-This value of is displayed on the instrument screen. Here's the one.
-speed of light. The constant depends on the configuration of the instrument; the instrument is
-the distance from the rear or front of the instrument can be measured. When the
-The laser distance meter is turned on, it is set to measure the distance from the back.
-This configuration shall be maintained during all measurements.
-Due to the parallel error, the LDM cannot measure a distance less than 5 cm. The distance
-maximum measurable distance is approximately 25 m. The shape of the instrument is such that it is the part
-The rear and front axles are perpendicular to the laser beam. When the instrument is supported
-On the table, the polarization is vertical (perpendicular to the screen).
-The diode laser is class 2 with a power of less than 1 mW and a wavelength of 635 nm.
-The measurement uncertainty indicated by the manufacturer is $\pm2$ mm.
-Attention: The diode laser of the instrument can damage vision. Don 't look in the beam .
-laser and don't project it into other people's eyes!
+This value is displayed on the instrument's screen. Here,  is the speed of light. The constant depends on the instrument's configuration; the instrument allows you to choose whether to measure distance from its rear or front face. When the laser distance meter (LDM) is turned on, it is preset to measure from the rear face.
+This configuration must be maintained throughout all measurements.
+Due to parallax error, the LDM cannot measure distances less than 5 cm. The maximum measurable distance is approximately 25 m.
+The instrument's shape ensures that both its rear and front faces are perpendicular to the laser beam. When the instrument is placed on a table, its polarization is vertical (perpendicular to the screen).
+The diode laser is Class 2, with a power below 1 mW and a wavelength of 635 nm.
+The measurement uncertainty, as specified by the manufacturer, is $\pm2$ mm.
+Warning: The instrument's diode laser may cause eye damage. Do not look into the laser beam, and do not direct it toward other people's eyes!
 
-The LDM configuration
-The previous formula for distance assumes that light propagates at speed . For the
-The experimental accuracy level does not require a distinction between the speed of light in the
-vacuum and in air, since the refractive index for dry air at atmospheric pressure and temperature
-Environment is good .
+LDM Configuration
+The previous formula for distance assumes that light propagates at speed . For the required accuracy of this experiment, it is not necessary to distinguish between the speed of light in vacuum and in air, since the refractive index for dry air at atmospheric pressure and room temperature is .
 
 Speed of light
 E1
 
 Page 3 of 10
 
-Figure 1.2 The six unlabeled buttons are not relevant to the measurement (they are used to calculate the
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The key buttons are:
+Figure 1.2 The six unmarked buttons are irrelevant for the measurement (they are used to calculate areas and volumes). The relevant buttons are:
 A: on/off
-B: switch to alternate measurement from the rear or front of the instrument
-C: indicator of the front/rear measurement
-D: laser powering / start of measurement
-E: Continuous measurement
-F: Continuous measurement indicator
+B: switch to toggle measurement from the back or front of the device
+C: indicator for front/back measurement
+D: laser activation / start of measurement
+E: continuous measurement
+F: continuous measurement indicator
 
-Figure 1.3 The laser distance gauge as seen from the front
-A: Receiver: optics focused on the laser spot
+Figure 1.3 Laser distance meter viewed from the front
+A: receiver: optics focused on the laser spot
 B: emitter: do not look into the laser beam!
 
 Speed of light
@@ -323,11 +304,10 @@ E1
 
 Page 4 of 10
 
-1.1 Measurement with a laser distance gauge
-The instrument shall take a measurement by pressing the D button, see Fig. 1.2.
+1.1 Measurement using a laser distance meter
+The instrument will perform a measurement by pressing button D, see Fig. 1.2.
 
-1.1a Use the LDM to measure the distance from the top of the table to the floor. Indication
-The experimental uncertainty . Show how you measure with a drawing.
+1.1a Use the LDM to measure the distance from the top of the table to the floor. Indicate the experimental uncertainty. Show, by means of a sketch, how you perform the measurement.
 0.4
 
 Speed of light
@@ -335,49 +315,30 @@ E1
 
 Page 5 of 10
 
-1.2 Experiment with a fibre optic cable
+1.2 Experiment with an optical fiber cable
 
-Figure 1.4 Schematic representation of a fiber optic cable.
-You were given a fiber optic cable approximately 1 m long and approximately 1 m in diameter.
-di 2 mm. The cable consists of two optical materials. The one in the centre (approximately 1 in diameter)
-mm) is made of a plastic material with a high refractive index. It is surrounded by a
-a coating material consisting of a different plastic material with a refractive index
-The product is a slightly smaller product, which is coated with a protective black plastic layer. The central material
-and the coating acts as a guide for the light entering the cable. In fact, the interface
-between the two causes a total reflection that prevents the light from leaving the central material. This
-occurs until the angle of incidence is greater than the angle of limit for the total reflection. The Light
-Therefore, it will remain inside the central material of the fibre even if the fibre is curved,
-As long as it's not too much.
-The LDM must now be configured for continuous measurement (pulsant E, see Fig. 1.2),
-So the display indicator is updated approximately once a second. Il
-LDM will automatically shut down after a few minutes. It can be reactivated by pressing the button
-Red at the start.
-Carefully and gently cover the optical area of the LDM receiver with a black felt (the other is
-The test is performed in a 2 mm diameter hole (see Fig. A). 1.3). The adhesive side of the
-The fern must be gently pressed against the lens. Insert a fiber optic cable of
-length in the flap hole so as to make it touch the optical of the detector, see Fig. 1.5.
+Figure 1.4 Schematic representation of an optical fiber cable.
+You have been given an optical fiber cable approximately 1 m long and about 2 mm in diameter. The cable consists of two optical materials. The central part (with a diameter of approximately 1 mm) is made of a plastic material with a high refractive index. This core is surrounded by a cladding material made of a different plastic with a slightly lower refractive index, which in turn is covered by a protective black plastic layer. The core and cladding materials act as a waveguide for light injected into the cable. Indeed, the interface between these two materials causes total internal reflection, preventing light from escaping the core material. This occurs as long as the angle of incidence exceeds the critical angle for total internal reflection. Therefore, light remains confined within the core of the fiber, even when the fiber is bent, provided it is not bent too sharply.
 
-Figure 1.5 (a) Feltrin and fibre cable. (b) How to mount the fiber optic cable.
+The LDM must now be set up for continuous measurement (button E pressed, see Fig. 1.2), so that the display reading updates approximately once per second. The LDM will automatically turn off after a few minutes. It can be restarted by pressing the red power-on button.
+Carefully and gently cover the receiver's optics of the LDM with a black felt pad (the other one is a spare), in which a hole of 2 mm diameter has been made (see A Fig. 1.3). Gently press the adhesive side of the felt pad against the lens. Insert an optical fiber cable of appropriate length through the hole in the felt pad so that it touches the receiver's optics, as shown in Fig. 1.5.
+
+Figure 1.5 (a) Felt pad and optical fiber cable. (b) How to mount the optical fiber cable.
 
 Speed of light
 E1
 
 Page 6 of 10
 
-The other end of the cable shall be held against the emitter so that the latter touches the
-The fiber in the middle of the laser beam. Now read the value of the instrument. Scissors placed on
-The device must be used to cut the fibre cable at different lengths .
-Attention: think and plan very carefully for cutting the fibre optic cable, as it does not
-You will be given more of it!
-Note also that the LDM display may display the thermometer icon after a little
-continuous operation time due to overheating of the electronics. In
-This case turns off the LDM for a while to cool the instrument.
+The other end of the cable must be held against the emitter, so that the emitter touches the fiber at the center of the laser beam. Now read the value from the instrument. The scissors provided must be used to cut the optical fiber cable into different lengths.
 
-1.2a Measures the corresponding values of e . Put your values back on a table. Trace a
-graph of the function of .
+Warning: think and plan very carefully before cutting the optical fiber cable, as no additional cable will be provided!
+Also note that after some time of continuous operation, the LDM display might show a thermometer icon due to electronic overheating. In this case, turn off the LDM for a while to allow cooling of the instrument.
+
+1.2a Measure the corresponding values of  and . Record your measurements in a table. Plot a graph of  versus .
 1.8
-1.2b Use the graph to find the refractive index of the central fiber material
-The optical. Calculates the speed of light in the central material of the fiber optic cable.
+
+1.2b Use the graph to determine the refractive index of the central material of the optical fiber. Calculate the speed of light in the central material of the optical fiber cable.
 1.2
 
 Speed of light
@@ -385,83 +346,76 @@ E1
 
 Page 7 of 10
 
-1.3 Laser distance measurement at a certain angle from the vertical
-In this part of the experiment, the instrumentation shown in Fig. 1 is available to you. 1.6.
+1.3 Laser distance meter positioned at a certain angle from the vertical
+In this part of the experiment, you have available the equipment shown in Fig. 1.6.
 
-Figure 1.6 Instrumentation shown in the figure:
-A: water optical experimental vessel and paper meter
-B: Magnets to fix the angled iron profile at the top of the black box. (The magnet is located
-attached to the angled iron profile.)
-C: angled iron profile with self-adhesive tape
-D: Self-adhesive tape
+Figure 1.6 Equipment shown in the figure:
+A: optical experiment container with water and paper ruler
+B: magnet to secure the angled iron profile on top of the black box. (The magnet is attached to the angled iron profile.)
+C: angled iron profile with adhesive strip
+D: adhesive strip
 
-Remove the black felt tampon from the lens. The LDM shall be mounted as follows:
-Self-adhesive fasteners on the angled iron profile as shown in Figure 1.7 in point A.
+Remove the black felt plug from the lens. The LDM must be mounted as follows: attach two adhesive strips to the angled iron profile, as shown in Fig. 1.7, at point A.
 
 Speed of light
 E1
 
 Page 8 of 10
 
-Figure 1.7 Where the self-adhesive bands must be fixed to the angled iron profile.
+Figure 1.7 Where the adhesive strips must be attached to the angled iron profile.
 
-The LDM shall be carefully positioned on the angled iron profile as shown in Fig. 1.8.
+Carefully position the laser distance meter on the angled iron profile as shown in Fig. 1.8.
 
-Figure 1.8 How to set the laser distance gauge on the angled iron profile
+Figure 1.8 How to place the laser distance meter on the angled iron profile
 
 <!--fig:start-->
-**p.1**  Materials for the experiment, labelled A-G
+**p.1** — Experimental materials, labeled A–G
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following information shall be provided:
+**p.3** — Buttons on the laser distance meter
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p3_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Laser distance gauge as seen from the front
+**p.3** — Laser distance meter viewed from the front
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the types of fibre optic cables:
+**p.5** — Fiber optic cable diagram
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p5_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  Folding and cable of optical fibre
+**p.5** — Fiber optic connector and cable
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p5_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the types of equipment used:
+**p.7** — Instrumentation for the angle iron profile
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p7_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the tests:
+**p.8** — Fasteners attached to the angle iron profile
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p8_f7.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.8**  LDM set to the angled profile
+**p.8** — LDM installed inside the angle iron profile
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p8_f8.png]]
 <!--fig:end-->
 
 <!--fig:start-->
- Test apparatus mounted on the box
+**p.9** — Experimental setup mounted on the box
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p9_f9.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.10**  Laser beam pattern in the water container
+**p.10** — Laser beam diagram inside the container with water
 ![[_attachments/Version 4 IPhO2013_E1_italiano/Version 4 IPhO2013_E1_italiano_p10_f10.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]], [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Ysj-d8TiYQJ7guqSswF9v7K3fW-D-LEA/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hzdHAhuYLQgwtcz2OAADmzpCH0pe8QkM/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hzdHAhuYLQgwtcz2OAADmzpCH0pe8QkM/view)

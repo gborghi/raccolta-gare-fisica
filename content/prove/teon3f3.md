@@ -384,19 +384,8 @@ $V_{12}=V_1-V_2$ e $V_{34}=V_3-V_4$ in funzione del tempo per il caso in cui l'e
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 6  In the circuit illustrated below, capacitors 1 and 2 have capacities respectively
-$C_1=20{,}0$ $\mu\text{F}$ and $C_2=10{,}0$ $\mu\text{F}$ and voltage sources equal to $V_0=6{,}00$ V (note that has reverse polarization).
-Initially only the S1 and S3 keys are closed and it is expected that the
-The system is in balance. The Commission has therefore decided to take the necessary measures to ensure that the
-S1 and S3 are opened and S2 and S4 are closed. Draw on the same chart the potential differences
-$V_{12}=V_1-V_2$ and $V_{34}=V_3-V_4$ depending on the time for the case of element X being a $R=300$ $\Omega$ resistor and
-(b) an inducer of $L=2{,}40$ H.
-
-**Topic:** [[Circuits]], [[Electromagnetic Induction]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1n06TVogn3A609pkFCpDzd4v5CU8UIvTi/view)
+Problem 6 – In the circuit illustrated below, capacitors 1 and 2 have capacitances respectively of $C_1=20{,}0$ $\mu\text{F}$ and $C_2=10{,}0$ $\mu\text{F}$, and voltage sources equal to $V_0=6{,}00$ V (note that they have reversed polarity).
+Initially, only switches S1 and S3 are closed, and a sufficiently long time is waited for the system to reach equilibrium. Then, at a certain instant, the switch positions are simultaneously changed: S1 and S3 are opened, and S2 and S4 are closed. Sketch on the same graph the potential differences $V_{12}=V_1-V_2$ and $V_{34}=V_3-V_4$ as functions of time for the case in which element X is (a) a resistor of $R=300$ $\Omega$ and (b) an inductor of $L=2{,}40$ H.
 
 
 

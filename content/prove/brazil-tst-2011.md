@@ -211,101 +211,52 @@ Obs: Vector field written in the cartesian system:
 
 2. Analogia elettrostatica
 
-Le equazioni per molte situazioni fisiche diverse hanno esattamente lo stesso aspetto.
-Ovviamente i simboli possono essere diversi (una lettera sostituita da un'altra), ma la
-La forma matematica delle equazioni è la stessa. E le stesse equazioni hanno
-Le stesse soluzioni! Le equazioni dell'elettrostatica, ad esempio, si trovano in molte altre
-La ricerca è stata condotta in parte dalla fisica e, a causa di questo, è possibile risolvere i problemi di altri settori
-con la stessa facilità (o la stessa difficoltà) di elettrostatica.
+Le equazioni di molti diversi fenomeni fisici hanno esattamente lo stesso aspetto.
+Ovviamente i simboli possono essere diversi (una lettera sostituita da un’altra), ma la forma matematica delle equazioni è identica. E le stesse equazioni hanno le stesse soluzioni! Le equazioni dell’elettrostatica, ad esempio, compaiono in molte altre parti della fisica, e, a causa di questo, è possibile risolvere problemi di altri settori con la stessa facilità (o difficoltà) dell’elettrostatica.
 
-Le equazioni dell'elettrostatica sono:
+Le equazioni dell’elettrostatica sono:
 
-dove $\rho$ è la densità volumetrica della carica in un dato punto dello spazio.
+dove $\rho$ è la densità volumetrica di carica in un dato punto dello spazio.
 
-In questo problema cercheremo di risolvere una situazione di dinamica dei fluidi con un elettrostatico
-- l'analogia. Dobbiamo sottolineare che questo esempio non è il migliore, perché, per questo essere
-E' possibile, dobbiamo considerare un caso quasi ipotetico, facendo approssimazioni
-e ipotesi che raramente sono valide quando studiamo i fluidi reali. Il matematico
-John Von Neumann una volta disse che coloro che studiano le equazioni proposte successivamente sono
-studiare l'acqua secca.
+In questo problema cercheremo di risolvere una situazione della dinamica dei fluidi utilizzando un’analoga elettrostatica. È importante sottolineare che questo esempio non è il migliore, perché per poterlo applicare dobbiamo considerare un caso quasi ipotetico, effettuando approssimazioni e assunzioni che raramente sono valide quando si studiano fluidi reali. Il matematico John Von Neumann disse una volta che coloro che studiano le equazioni qui proposte stanno studiando “acqua secca”.
 
-Infine, la Commissione ha deciso di adottare un regolamento che stabilisce un regime di
-- Il flusso. Per un fluido incompressibile possiamo scrivere:
+Consideriamo un fluido incomprimibile, senza viscosità e in regime di flusso non turbolento. Per un fluido incomprimibile possiamo scrivere:
 
-E per un fluido non turbolento, cioè, nel flusso laminare (chiamato anche irrotativo) abbiamo:
-Si noti che queste sono le stesse equazioni che governano l'elettrostatica per lo spazio libero
-(senza spese, ovvero quando $\rho=0$). Per verificare questo, si veda la tabella seguente:
+E per un fluido non turbolento, ossia in flusso laminare (detto anche irrotazionale), abbiamo:
+Si noti che queste sono le stesse equazioni che reggono l’elettrostatica nello spazio libero (senza cariche, ossia dove $\rho=0$). Per verificare ciò, vedere la tabella riportata di seguito:
 
-Il problema: Considera una palla di raggio R che cade a velocità costante (terminal)
-v_0 in un liquido incompressibile e non viscoso, in modo non turbolento. Se la sfera
-se scende troppo lentamente, le forze viscose, e sono state trascurate, diventeranno
-- È importante. Se, tuttavia, scende con grande velocità, si manifestano turbolenze (turbolenze)
-Il fenomeno di "spazio" (spazio) e la circolazione del liquido, in cui
-. So, we
-dovrà concentrarsi su un regime in cui la palla ha una velocità intermedia tra
-In questo caso, la Commissione ha deciso di adottare un'azione di riforma.
+Il problema: Si consideri una sfera di raggio R che cade con velocità costante (velocità terminale) v₀ in un fluido incomprimibile e non viscoso, in modo da non generare turbolenza. Se la sfera scende troppo lentamente, le forze vischiose, che in questo caso sono trascurate, diventano importanti. Se invece scende con grande velocità, si formano vortici (fenomeno di turbolenza) e si instaura una circolazione del liquido, dove . Pertanto, dobbiamo concentrarci su un regime in cui la sfera si muove con una velocità intermedia tra questi due estremi, in modo che le nostre ipotesi siano accettabili.
 
-Mettiti nel telaio di riferimento della palla, in modo tale che vedi l'acqua
-che scorrono intorno a esso. Useremo l'analogia elettrostatica per determinare che
-è la velocità del liquido
-in ogni punto dello spazio!
+Immaginati nel riferimento della sfera, in modo da vedere l'acqua fluire (verso l’alto) attorno a essa. Useremo l’analogia elettrostatica per determinare quale sia la velocità del liquido in ogni punto dello spazio!
 
-a) Possiamo considerare come analogia elettrostatica un sistema in cui una sfera di raggio R
-è immerso in una regione che ha un campo elettrico uniforme. In questo caso, cosa sarebbe
-teoricamente la costante dielettrica $\kappa$ o la relativa autorizzabilità $\epsilon_r$, del
-- La sfera? 2 punti)
+a) Possiamo considerare come analogia elettrostatica un sistema in cui una sfera di raggio R è immersa in una regione che presenta un campo elettrico uniforme. In questo caso, quale sarebbe teoricamente la costante dielettrica $\kappa$ o la permittività relativa $\epsilon_r$ della sfera? (2 punti)
 
-b) Supponiamo che il campo elettrico generato da questa sfera, per
-, è equivalente
-per il campo elettrico prodotto da un dipolo elettrico puntuale situato al centro della
-- La sfera. Determinazione del campo elettrico
-generati dalla sfera, in polarità
-coordinate, in un punto
-come funzione del momento di dipolo elettrico
-(che
-punti in direzione verticale verso l'alto). Considerate che il mezzo in cui la sfera
-è situato ha una permissività $\epsilon=\epsilon_0$. 2 punti)
+b) Si assuma che il campo elettrico generato da questa sfera, per
+, sia equivalente al campo elettrico prodotto da un dipolo elettrico puntiforme situato nel centro della sfera. Determinare il campo elettrico generato dalla sfera, in coordinate polari, in un punto in funzione del momento dipolo elettrico (che punta nella direzione verticale verso l’alto). Si consideri che il mezzo in cui è situata la sfera ha una permittività $\epsilon=\epsilon_0$. (2 punti)
 
-- Notte:
-e indicare i versori rispettivamente nelle direzioni radial e angolare.
+Osservazione:
+ e indicano i versori nelle direzioni radiale e angolare, rispettivamente.
 
 c) Calcolare il campo totale
-, dove
-è il campo elettrico uniforme in
-La spirazione è immersa nella superficie, e punta verticalmente verso l'alto (la stessa direzione di
-il vettore
-- In figura. 1 punto
+, dove è il campo elettrico uniforme in cui è immersa la sfera, e punta verticalmente verso l’alto (stessa direzione del vettore nella figura). (1 punto)
 
 d) Determinare il valore di
-. 2,5 punti)
+. (2,5 punti)
 
-e) Calcolare
-in coordinate polari (cioè utilizzando i versori
-e
-e
-i quantitativi
-e
+e) Calcolare in coordinate polari (cioè utilizzando i versori e e le quantità e
 ) per
-, in termini di modulo della velocità di discesa
-V_0 e raggio R. 2,5 punti)
+, in termini del modulo della velocità di discesa v_0 e del raggio R. (2,5 punti)
 
-Nota: campo vettoriale scritto nel sistema cartesiano:
+Osservazione: Campo vettoriale espresso nel sistema cartesiano:
 
-• Operatore divergente di un campo vettoriale:
+• Operatore divergenza di un campo vettoriale:
 
-• Operatore di rotazione di un campo vettoriale:
-
+• Operatore rotazionale di un campo vettoriale:
 
 <!--fig:start-->
 ![[_attachments/Brazil-TST-2011/Brazil-TST-2011_p3_f2.png]]
-*Sfera in fluido con linea di flusso *
+*Sfera in fluido con linee di flusso*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Superposition Principle (metodo)|Superposition Principle]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Vt6q_4oK7nF9dDvTlnGE_3B5_ie5u-Za/view)
 
 
 

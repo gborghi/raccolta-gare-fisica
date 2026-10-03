@@ -142,61 +142,53 @@ dove $\epsilon = 1 - b^2/a^2$ è l'escentricità dello spheroide. Raccogli $f(\e
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P2. The rings of Saturn**
+**P2. The Rings of Saturn**
 
-When Galileo pointed his telescope toward Saturn in 1610, he saw something he could not explain: the planet seemed to have "ears". It was fifty years before Huygens recognized that they were rings: a disc of countless ice fragments, each in its own orbit, that extend a distance comparable to that of the Earth from the Moon, but barely ten meters thick.
+When Galileo pointed his telescope toward Saturn in 1610, he saw something he could not explain: the planet appeared to have "ears." It took fifty years until Huygens recognized them as rings— a disk composed of countless ice fragments, each in its own orbit, stretching over a distance comparable to that separating Earth from the Moon, yet only about ten meters thick.
 
-The following information is provided for in the Annex to Implementing Regulation (EU) 2015/2446.
+**Physical constants and data:**
 
 - Gravitational constant: $G = 6{,}67 \times 10^{-11}\,\mathrm{N\,m^2/kg^2}$
-- Average radius of Saturn: $R_S = 58\,232\,\mathrm{km}$
+- Mean radius of Saturn: $R_S = 58\,232\,\mathrm{km}$
 - Average density of Saturn: $\rho_S = 687\,\mathrm{kg/m^3}$
-- Density of porous ice: $\rho_{\text{hielo}} = 600\,\mathrm{kg/m^3}$
+- Porous ice density: $\rho_{\text{hielo}} = 600\,\mathrm{kg/m^3}$
 
-For the whole problem you can use the $(1+x)^n \approx 1 + nx$ approximation when $x \ll 1$.
+In the entire problem, you may use the approximation $(1+x)^n \approx 1 + nx$ when $x \ll 1$.
 
-One of the hypotheses about the origin of the rings is that they formed from the disintegration of a comet that passed very close. For simplicity's sake, instead of a comet, we're going to consider a small spherical satellite made up of loose particles like a pile of debris that's held together by its own gravity and that's in the gravitational field of a planet. The planet attracts more force to the near side of the satellite than to the far side. If the satellite orbits too close, this force difference can break it, scattering the fragments along the orbit to form a ring. The critical distance at which this occurs is the **Roche** limit.
+One hypothesis about the origin of the rings is that they formed from the disintegration of a comet that passed very close. For simplicity, instead of a comet we will consider a small spherical satellite made of loosely packed particles—like a pile of debris—that is held together only by its own gravity and that orbits within the gravitational field of a planet. The planet exerts a stronger pull on the near side of the satellite than on the far side. If the satellite orbits too close, this difference in forces may break it apart, scattering fragments along its orbit and forming a ring. The critical distance at which this occurs is known as the **Roche limit**.
 
-The satellite has mass $m$, radius $r$ and uniform density $\rho_m$, and orbits, without rotating over itself, a planet of mass $M$, radius $R$ and density $\rho_M$ at a centre-to-center distance $d$. Assume $r \ll d$ and simplify the resulting expressions with this approximation whenever possible.
+The satellite has mass $m$, radius $r$, and uniform density $\rho_m$, and orbits a planet of mass $M$, radius $R$, and density $\rho_M$ at a center-to-center distance $d$. Assume that $r \ll d$ and simplify the resulting expressions using this approximation whenever possible.
 
-**(a) ** Consider a test mass $\delta m$ on the surface of the satellite, at the point closest to the planet. What is the gravitational force of the satellite over $\delta m$?
+**(a)** Consider a test mass $\delta m$ on the surface of the satellite, at the point closest to the planet. What is the gravitational force exerted by the satellite on $\delta m$?
 
-**(b) ** Calculates the tidal force of the planet over this test mass, defined as the difference between the gravitational force exerted by the planet over $\delta m$ and over an equal mass at the centre of the satellite.
+**(b)** Compute the tidal force of the planet acting on this test mass, defined as the difference between the attractive force exerted by the planet on $\delta m$ and that on an equal mass located at the center of the satellite.
 
-**(c) ** Find the Roche limit, $d_{\text{Roche}}$: the distance from the centre of the planet to the centre of the satellite at which the test mass stops being attached to the satellite and it begins to break; express it in terms of $R$, $\rho_M$ and $\rho_m$. Calculate its numerical value for a porous ice satellite around Saturn.
+**(c)** Find the Roche limit, $d_{\text{Roche}}$: the distance from the center of the planet to the center of the satellite at which the test mass ceases to be bound to the satellite and the satellite begins to break apart; express it in terms of $R$, $\rho_M$, and $\rho_m$. Compute its numerical value for a porous icy satellite orbiting Saturn.
 
-So far we have ignored both the deformation of the satellite and its possible rotation. It now considers a fluid, incompressible satellite a body without internal rigidity, like a drop of water in space, united only by its own gravity in circular orbit and synchronous rotation (always showing the same face to the planet). Under these conditions, the satellite will extend into a prolate spheroid (like a rugby ball), with its main axis pointing toward the planet.
+Thus far, we have ignored both the deformation of the satellite and its possible rotation. Now consider a fluid, incompressible satellite —a body with no internal rigidity, like a water droplet in space, held together only by its own gravity— in circular orbit and rotating synchronously (always showing the same face to the planet). Under these conditions, the satellite elongates into a prolate spheroid (like a rugby ball), with its major axis pointing toward the planet.
 
-**(d) ** For a fluid satellite that extends under tides, qualitatively deduce whether the Roche limit will be less, equal to or greater than that calculated in (c).
+**(d)** For a fluid satellite that is elongated due to tidal forces, qualitatively deduce whether the Roche limit will be smaller, equal to, or larger than that calculated in (c).
 
-We're going to study the deformation that the fluid satellite suffers. For this, it is easier to work on a non-inertial reference system that rotates with the satellite, at angular speed $\Omega$, around the planet. In this corrosive system the satellite is at rest and the centrifugal acceleration is experienced as a centrifugal acceleration towards the outside.
+We now examine the deformation experienced by the fluid satellite. It is simpler to work in a non-inertial reference frame rotating with the satellite at angular velocity $\Omega$ around the planet. In this corotating frame, the satellite is at rest and the centripetal acceleration is perceived as a centrifugal acceleration — outward.
 
-**(e) ** Determines the centrifugal acceleration of a point located at a distance $x$ from the centre of the satellite, with $x \geq 0$ in the direction away from the planet  in terms of $G$, $M$, $d$ and $x$.
+**(e)** Determine the centrifugal acceleration of a point located at distance $x$ from the center of the satellite, with $x \geq 0$ directed away from the planet — in terms of $G$, $M$, $d$ and $x$.
 
-In the corrosive system, the deformation of the satellite is due to the combination of the planet's gravitational force and centrifugal force.
+In the corotating frame, the deformation of the satellite arises from the combination of the planet's gravitational force and the centrifugal force.
 
-**(f) ** It shows that the net acceleration of a point located at a distance $x$ from the satellite centre, resulting from the combination of gravitational acceleration and centrifugal acceleration, can be derived from a potential of the form
+**(f)** Show that the net acceleration of a point located at distance $x$ from the center of the satellite, resulting from the combination of gravitational and centrifugal accelerations, can be derived from a potential of the form
 $$V_T(x) = Px^2 + \text{const}$$
-It determines $P$ in terms of $G$, $M$ and $d$.
+Determine $P$ in terms of $G$, $M$ and $d$.
 
-The surface of a fluid in equilibrium, as in the case of a satellite, must be equipotencial ($V = \text{cte}$)  otherwise the fluid would flow. As $V_T \propto x^2$, the equilibrium requires that the self-gravitational potential also varies as $x^2$ on the surface. This happens if the satellite is an ellipsoid. Within a uniform ellipsoid with semicircles $a$, $b$, $c$ and density $\rho$, the gravitational potential is
-$$V_S(x,y,z) = -G\pi\rho\left(A_a x^2 + A_b y^2 + A_c z^2\right) + \text{const}$$
-where $A_a$, $A_b$ and $A_c$ are positive coefficients that depend on axle proportions and meet $A_a + A_b + A_c = 2$.
+The surface of a fluid in equilibrium, such as the satellite, must be equipotential ($V = \text{cte}$) — otherwise, the fluid would flow. Since $V_T \propto x^2$, equilibrium requires that the self-gravitational potential also vary as $x^2$ on the surface. This occurs if the satellite is an ellipsoid. Inside a uniform ellipsoid with semi-axes $a$, $b$, $c$ and density $\rho$, the gravitational potential is
+$$V_S(x,y,z) = -G\pi\rho\left(A_a x^2 + A_b y^2 + A_c z^2\right) + \text{const}$$ where $A_a$, $A_b$ and $A_c$ are positive coefficients depending on the ratios of the axes and satisfying $A_a + A_b + A_c = 2$.
 
-**(g) ** Suppose the satellite is elongated into a prolatal spheroid with a larger half-life $a$ (along $x$) and equal smaller half-life, $b = c$ (along $y$ and $z$). Its surface area is:
+**(g)** Assume that the satellite is elongated into a prolate spheroid with major semi-axis $a$ (along $x$) and equal minor semi-axes, $b = c$ (along $y$ and $z$). Its surface satisfies:
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1,\quad b = c$$
-It shows that the self-gravitational potential on the surface can be written as
-$$V_S^{\text{superficie}} = -G\pi\rho_m\, f(\epsilon)\, x^2 + \text{const}$$
-where $\epsilon = 1 - b^2/a^2$ is the eccentricity of the spheroid. Find $f(\epsilon)$ in terms of $A_a$, $A_b$ and $\epsilon$.
+Show that the self-gravitational potential on the surface can be written as
+$$V_S^{\text{superficie}} = -G\pi\rho_m\, f(\epsilon)\, x^2 + \text{const}$$ where $\epsilon = 1 - b^2/a^2$ is the eccentricity of the spheroid. Find $f(\epsilon)$ in terms of $A_a$, $A_b$ and $\epsilon$.
 
-**(h) ** What forms are $\epsilon = 0$ and $\epsilon \to 1$? Calculate $f(0)$ and $f(1)$. Knowing that the function has a single maximum in $\epsilon_c = 0{,}86$ with a value of $f_{\max} = 0{,}14$, draw $f(\epsilon)$.
+**(h)** What forms correspond to $\epsilon = 0$ and $\epsilon \to 1$? Compute $f(0)$ and $f(1)$. Knowing that the function has a unique maximum at $\epsilon_c = 0{,}86$ with value $f_{\max} = 0{,}14$, sketch $f(\epsilon)$.
 
-**(i) ** Derives an expression for the Roche limit of a fluid satellite, $d_{\text{fluido}}$. Calculate its value for a porous ice satellite around Saturn.
+**(i)** Derive an expression for the Roche limit of a fluid satellite, $d_{\text{fluido}}$. Compute its value for a porous icy satellite around Saturn.
 
-**(j) ** It now considers a small opaque spherical particle of the rings, permanently exposed to the Sun and reflecting a fraction $A = 0{,}6$ of the light it receives (the albedo). Like any body at $T$, it also emits thermal radiation with a power per surface unit $e\sigma T^4$, where $\sigma = 5{,}67 \times 10^{-8}\,\mathrm{W\,m^{-2}\,K^{-4}}$ and, in this case, the emissivity is $e \approx 1$. Knowing that Saturn orbits at $d = 9{,}5\,\mathrm{UA}$ from the Sun and that the solar flux at a distance equivalent to the Sun's distance from the Earth (1 AU) is $F_0 = 1{,}36\,\mathrm{kW/m^2}$, it calculates the particle temperature.
-
-**Topic:** [[Gravitation]], [[Astrophysics]], [[Thermodynamics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1tvYn73RN6f3uQh16WKa7EDdWW2ELBeFL/view)
+**(j)** Now consider a small, opaque spherical particle from the rings, permanently exposed to the Sun and reflecting a fraction $A = 0{,}6$ of the incident light (albedo). Like any body at temperature $T$, it also emits thermal radiation with a power per unit area $e\sigma T^4$, where $\sigma = 5{,}67 \times 10^{-8}\,\mathrm{W\,m^{-2}\,K^{-4}}$ and, in this case, the emissivity is $e \approx 1$. Knowing that Saturn orbits at a distance $d = 9{,}5\,\mathrm{UA}$ from the Sun and that the solar flux at a distance equivalent to the Earth-Sun distance (1 AU) is $F_0 = 1{,}36\,\mathrm{kW/m^2}$, calculate the particle's temperature.

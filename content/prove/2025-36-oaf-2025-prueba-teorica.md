@@ -344,56 +344,51 @@ Fase di ARAGON
 
 <div class="qlang-split" data-lang="en"></div>
 
-P1. Gravitational slingshot to Jupiter
-Gravitational maneuvers, also known as slingshots, are fundamental techniques in the
-space exploration used to increase the speed of a spacecraft without the need for fuel
-additional. When passing close to a planet, a spacecraft can use its gravity to gain momentum and
-change its trajectory, allowing it to reach its destination more efficiently.
-This type of maneuver has been used in space missions such as those of the Voyager or Juice probes
-(Jupiter Icy Moons Explorer), and is essential for traveling to distant destinations in the Solar System without depending on
-only the fuel of the ship.
-In this problem, we consider a space probe that launches from Earth with the mission to reach Jupiter. To save fuel, he uses a gravitational assistance maneuver when passing near Venus.
-Suppose the probe (mass $m$) starts its movement towards Venus at point A, with a velocity $v_0$ with respect to the Sun. It also considers that Venus (mass $M_V$) orbits the Sun at a speed $v_V$
-And the direction of the probe's initial velocity with respect to the Sun before the maneuver is the same as the
-The number of species of birds in the world is estimated to be around 1). Sea $d$ minimum distance to the centre of Venus during the assistance maneuver
-It's gravitational.
+P1. Gravitational Slingshot toward Jupiter
+
+Gravitational maneuvers, also known as slingshots, are fundamental techniques in space exploration used to increase a spacecraft's speed without requiring additional fuel. By passing close to a planet, a spacecraft can exploit the planet’s gravity to gain momentum and alter its trajectory, thereby enabling it to reach its destination more energy-efficiently.
+
+Such maneuvers have been employed in space missions such as the Voyager probes or Juice (Jupiter Icy Moons Explorer), and are essential for traveling to distant destinations in the Solar System without relying solely on the spacecraft’s own fuel.
+
+In this problem, we consider a space probe launched from Earth with the mission of reaching Jupiter. To save fuel, it uses a gravitational assist maneuver by passing near Venus.
+
+Assume that the probe (mass $m$) begins its motion toward Venus at point A with a velocity $v_0$ relative to the Sun. Also assume that Venus (mass $M_V$) orbits the Sun with a velocity $v_V$, and that the initial direction of the probe’s velocity relative to the Sun before the maneuver is the same as Venus's (see Figure 1). Let $d$ be the minimum distance from the center of Venus during the gravitational assist maneuver.
+
 a)
-Determines the speed relative to Venus that the probe reaches at points A, B and C.
-(b) Draw the approximate trajectory of the probe in the Venus reference frame during the maneuver.
-After the maneuver, the probe gains a gain in its relative speed to the Sun due to the
- Gravitational aid provided by Venus and experiences a change in the direction of its trajectory.
+Determine the velocity relative to Venus that the probe achieves at points A, B, and C.
+b) Draw the approximate trajectory of the probe in Venus's reference frame during the maneuver.
+After the maneuver, the probe gains relative velocity with respect to the Sun due to the "gravitational assist" provided by Venus and experiences a change in its trajectory direction.
+
 c)
-Calculate the probe's speed with respect to the Sun at point C.
-It considers that, following this maneuver, the probe follows a straight path towards Jupiter, which is
-It's a distance of $d_{V\text{-}J}$ from Venus at that moment.
-(d) Calculate the time of the spacecraft's journey from Venus to Jupiter. What is the percentage reduction
-of travel time thanks to gravitational maneuver on Venus?
-Because of the gravitational influence of the Sun and other planets, it's really complicated that the probe
-Keep a straight path. It considers that a deviation in its path towards Jupiter is detected and
-The propulsion system shall adjust the torque to the torque of the vehicle.
-Perpendicular to the current direction of motion, providing an increase in lateral speed $\Delta v$.
+Calculate the probe’s velocity relative to the Sun at point C.
+Assume that, after this maneuver, the probe follows a straight-line trajectory toward Jupiter, which is located at a distance $d_{V\text{-}J}$ from Venus at that moment.
+
+d)
+Calculate the travel time of the probe from Venus to Jupiter. What is the percentage reduction in travel time due to the gravitational maneuver at Venus?
+
+Due to the gravitational influence of the Sun and other planets, it is actually very difficult for the probe to maintain a perfectly straight-line trajectory. Suppose a deviation in its path toward Jupiter is detected, and to correct this deviation, the propulsion system performs an adjustment that applies a thrust perpendicular to the current direction of motion, providing a lateral velocity increment $\Delta v$.
+
 e)
-Calculates the change in the probe's kinetic energy due to this pulse. Compare this energy to the
-gain of kinetic energy obtained by gravitational maneuver on Venus.
+Calculate the change in kinetic energy of the probe due to this impulse. Compare this energy with the gain in kinetic energy obtained from the gravitational maneuver at Venus.
 
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-It considers that the thrust is carried out by a propulsion system using a chemical fuel
-(propellant) which provides 25 MJ/kg, with an energy conversion efficiency of 85%.
+36th SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL PHASE
+
+Consider that the impulse is provided by a propulsion system using a chemical fuel (propellant) delivering 25 MJ/kg, with an efficiency of 85% in energy conversion.
+
 f)
-Calculates the amount of fuel required to achieve the lateral speed increase $\Delta v$.
-It compares with the amount of fuel that would have been needed to achieve the increase in
-speed provided by the gravitational assistance maneuver.
+Calculate the amount of fuel required to achieve the lateral velocity increment $\Delta v$.
+Compare this with the amount of fuel that would have been needed to achieve the lateral velocity increment provided by the gravitational assist maneuver.
 
-The data:
-The following is the list of the elements used:
+Data:
+Universal gravitational constant
 Mass of the probe
-Initial speed of the probe with respect to the Sun
+Initial velocity of the probe relative to the Sun
 Mass of Venus
-Minimum distance to the centre of Venus
-Venus's speed with respect to the Sun
+Minimum distance from the center of Venus
+Velocity of Venus relative to the Sun
 Distance between Venus and Jupiter
-Increase of lateral speed of the probe
+Lateral velocity increment of the probe
 
 $G = 6{,}67\times10^{-11}\ \text{Nm}^2\text{kg}^{-2}$
 $m = 5000\ \text{kg}$
@@ -403,106 +398,82 @@ $d = 1{,}10\times10^7\ \text{m}$
 $v_V = 35\ \text{km s}^{-1}$
 $d_{V\text{-}J} = 6{,}30\times10^{11}\ \text{m}$
 $\Delta v = 0{,}2\ \text{km s}^{-1}$
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-P1. Solution
-a)
-Before the maneuver, the probe approaches Venus at $\vec{v}_0$ with respect to the Sun. In turn,
-Venus is approaching the probe at $\vec{v}_V$ with respect to the Sun. The Commission has therefore taken the view that the
-From Venus, the probe approaches at point A at a speed $\vec{v}_A$ given by
+
+36th SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL PHASE
+
+P1. Solution a)
+Before the maneuver, the probe approaches Venus with velocity $\vec{v}_0$ relative to the Sun. In turn,
+Venus approaches the probe with velocity $\vec{v}_V$ relative to the Sun. Therefore, from Venus's reference frame, the probe approaches at point A with velocity $\vec{v}_A$ given by
 
 $$\vec{v}_A = \vec{v}_0 - \vec{v}_V \quad\Rightarrow\quad v_A = v_0 + v_V \quad\Rightarrow\quad v_A = 45\ \text{km/s} \quad (1)$$
 
-To calculate the speed of the probe with respect to Venus at point B, $v_B$, we use the principle of
-The Commission will also consider the possibility of a new approach to the protection of the environment. The probe is approaching at $v_A$ speed from a very distant point,
-where its potential energy is zero, so:
+To compute the probe's velocity relative to Venus at point B, $v_B$, we apply the principle of conservation of mechanical energy. The probe approaches with velocity $v_A$ from a point very far away, where its potential energy is zero; thus:
 
 $$E_{cA} = E_{cB} + E_{pB} \quad\Rightarrow\quad \tfrac{1}{2}mv_A^2 = \tfrac{1}{2}mv_B^2 - G\frac{M_V m}{d}, \quad (2)$$
 
-where we can clear $v_B$,
+from which we can solve for $v_B$,
 
 $$v_B = \sqrt{v_A^2 + \frac{2GM_V}{d}} = \sqrt{(45\times10^3)^2 + \frac{2\times6{,}67\times10^{-11}\times4{,}87\times10^{24}}{1{,}10\times10^7}} \quad\Rightarrow\quad v_B = 45{,}7\ \text{km/s}. \quad (3)$$
 
-After the maneuver, when the probe leaves the gravitational field of Venus at point C, it is again
-It cancels its potential energy, so the kinetic energy is back to what it was before it interacted.
-with Venus. That is, the speed of the probe in C with respect to Venus, $v_C$, is
+After the maneuver, when the probe leaves Venus's gravitational field at point C, its potential energy again becomes zero, so its kinetic energy returns to the value it had before interacting with Venus. That is, the probe's velocity relative to Venus at point C, $v_C$, is
 
 $$v_C = v_A \quad\Rightarrow\quad v_C = 45\ \text{km/s} \quad (4)$$
 
-(b) Since at a very large distance from Venus the probe has speed, the energy
-The probe will describe a trajectory in the form of
-hyperbola, as shown in Figure 2. At a great distance from Venus the speeds
-The initial and final will be parallel and opposite, approaching Venus in the
-first case and moving away from Venus in the second.
+b) Since at a very large distance from Venus the probe has velocity, its mechanical energy is positive; therefore, the probe will follow a hyperbolic trajectory, as shown in Figure 2. At a large distance from Venus, the initial and final velocities will be parallel but opposite in direction—approaching Venus in the first case, and receding from Venus in the second.
 
 c)
-To calculate the probe's initial velocity with respect to Venus, we vectorally subtracted the
-speed of Venus. So to calculate the probe's final velocity with respect to the Sun, we have to
-Undo this change by vectorally adding up the velocity of Venus. In this case, both Venus and
-The probe is moving in the same direction, so the module of the final velocity will be the sum of
-Both of them,
+To compute the probe's initial velocity relative to Venus, we subtracted vectorially Venus’s velocity. Therefore, to compute the probe's final velocity relative to the Sun, we must reverse this transformation by vectorially adding Venus’s velocity. In this case, both Venus and the probe move in the same direction; thus, the magnitude of the final velocity will be the sum of both,
 
 $$\vec{v}_f = \vec{v}_C + \vec{v}_V \quad\Rightarrow\quad v_f = v_C + v_V \quad\Rightarrow\quad v_f = 80\ \text{km/s} \quad (5)$$
 
-(d) The travel time from Venus to Jupiter is
+d) The travel time from Venus to Jupiter is
 
 $$t_{\text{post-maniobra}} = \frac{d_{V\text{-}J}}{v_f} = \frac{6{,}3\times10^{11}}{80\times10^3} \quad\Rightarrow\quad t_{\text{post-maniobra}} = 7{,}87\times10^6\ \text{s} = 91{,}1\ \text{días} \quad (6)$$
 
-If, instead of gravitational maneuver, the probe had travelled at the initial speed $v_0$, the time
-It would have taken him long to reach Jupiter.
+If, instead of the gravitational maneuver, the probe had traveled with initial velocity $v_0$, the time it would have taken to reach Jupiter would be
 
 $$t_{\text{sin maniobra}} = \frac{d_{V\text{-}J}}{v_0} = \frac{6{,}3\times10^{11}}{10\times10^3} \quad\Rightarrow\quad t_{\text{sin maniobra}} = 6{,}30\times10^6\ \text{s} = 729{,}2\ \text{días} \quad (7)$$
 
 Figure 2
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-So the percentage of travel time reduced by gravitational maneuver on Venus is
+36 SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
+
+Therefore, the percentage reduction in travel time due to the gravitational maneuver at Venus is
 
 $$\text{Reducción}(\%) = \left(1 - \frac{t_{\text{post-maniobra}}}{t_{\text{sin maniobra}}}\right)\times100 \quad\Rightarrow\quad \text{Reducción}(\%) = 87\ \% \quad (8)$$
 
 e)
-As the $\Delta v$ speed increase occurs in a direction perpendicular to the probe's path,
-the speed vector module after the propulsion adjustment shall be
+Since the velocity increment $\Delta v$ occurs in a direction perpendicular to the probe's trajectory, the magnitude of the velocity vector after the propulsion maneuver will be
 
 $$v^2 = v_f^2 + \Delta v^2 \quad (9)$$
 
-So the change in kinetic energy in the adjustment is
+thus, the change in kinetic energy during the maneuver is
 
 $$\Delta E_c = \tfrac{1}{2}m\Delta v^2 = \tfrac{1}{2}\,5000\times(0{,}2\times10^3)^2 \quad\Rightarrow\quad \Delta E_c = 1{,}00\times10^8\ \text{J} \quad (10)$$
 
-The kinetic energy change obtained by the gravitational maneuver is
+The change in kinetic energy achieved after the gravitational maneuver is
 
 $$E_{cf} - E_{c0} = \tfrac{1}{2}mv_f^2 - \tfrac{1}{2}mv_0^2 = \tfrac{1}{2}\,5000\times\left[(80\times10^3)^2 - (10\times10^3)^2\right] \quad\Rightarrow\quad E_{cf} - E_{c0} = 1{,}58\times10^{13}\ \text{J} \quad (11)$$
 
-Therefore, propulsion adjustment requires only 0.0006% of the kinetic energy gained by manoeuvring.
-Gravitational maneuvers are extremely efficient in
-comparison with the adjustments made by propulsion.
+Therefore, the propulsion maneuver requires only 0.0006% of the kinetic energy gained through the gravitational maneuver, demonstrating that gravitational maneuvers are extraordinarily efficient compared to propulsion-based adjustments.
+
 f)
-In calculating the total energy to be supplied by the fuel, it must be taken into account that the energy
-The total required is greater than the kinetic energy change due to the $\eta$ performance of the system.
-The engine is propelled. The amount of fuel required will be
+To calculate the total energy that must be supplied by the fuel, it should be noted that the total energy required is greater than the change in kinetic energy due to the propulsion system's efficiency $\eta$. The amount of fuel required will be
 
 $$m_{\text{combustible}} = \frac{\Delta E_c/\eta}{E_{\text{combustible}}} = \frac{1{,}00\times10^8\ /\ 0{,}85}{25\times10^6} \quad\Rightarrow\quad m_{\text{combustible}} = 4{,}71\ \text{kg} \quad (12)$$
 
-The amount of fuel needed to achieve the increase in speed provided by the
-gravitational assistance maneuver would have been
+The amount of fuel needed to achieve the velocity increment provided by the gravitational assist maneuver would have been
 
 $$m'_{\text{combustible}} = \frac{(E_{cf} - E_{c0})/\eta}{E_{\text{combustible}}} = \frac{1{,}58\times10^{13}\ /\ 0{,}85}{25\times10^6} \quad\Rightarrow\quad m'_{\text{combustible}} = 7{,}41\times10^5\ \text{kg} = 741\ \text{t} \quad (13)$$
 
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-
+36 SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
 
 <!--fig:start-->
 ![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p2_f1.png]]
-*Manovra slingshot gravitazionale attorno a Venere*
+*Gravitational slingshot maneuver around Venus*
 <!--fig:end-->
-
-**Topic:** [[Gravitation]], [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1JYsFZ8q7JfUgiMR89Ud1kkukswesUpqf/view)
 
 
 
@@ -672,318 +643,240 @@ FASE DE ARAGÓN
 <div class="qlang-split" data-lang="it"></div>
 
 P2. Festival estivo.
-Il Festival Internazionale delle Culture o dei Pirinei del Sud si celebra dal 1992 nella regione oscense del
-Alto Gállego, in particolare nella località di Lanuza, appartenente al comune di Sallent di Gállego. En
-Questo festival lo scenario è galleggiante sopra la palude di Lanuza e il gradorio si trova sul marcia del palude.
-Amici che lavoravano all'organizzazione
-La mia ultima edizione, sapendo il tuo grande interesse per
-La fisica, vogliono che tu li aiuti a capire le cose
-che sono emersi preparando i concerti per
-che non succederà mai più. Per questo, fanno un
-schema di scena e scale. - Cominciamo!
-Uno dei primi compiti che hanno fatto è stato sincronizzare i dispositivi audio presenti nella zona di
-controlli (punto C) e fondo delle scale (punto F). Per questo, hanno considerato che la velocità di diffusione
-il suono in aria è $v = 340\ \text{m/s}$.
+
+Il Festival Internazionale delle Culture o Pirinei Sud si svolge dal 1992 nella comarca aragonese dell'Alto Gállego, precisamente nel paese di Lanuza, appartenente al comune di Sallent de Gállego. A questo festival il palco è galleggiante sul lago artificiale di Lanuza e i posti a sedere si trovano sulla riva del lago.
+
+Alcuni amici che hanno lavorato all'organizzazione della scorsa edizione, conoscendo il tuo grande interesse per la fisica, vorrebbero che li aiutassi a capire alcune cose che si sono presentate preparando i concerti, in modo da non ripetere gli stessi errori. A tale scopo, hanno realizzato uno schizzo del palco e delle gradinate. Iniziamo!
+
+Una delle prime attività svolte è stata la sincronizzazione degli impianti audio presenti nella zona di controllo (punto C) e all'estremità delle gradinate (punto F). A tale scopo, hanno considerato che la velocità di propagazione del suono nell'aria è $v = 340\ \text{m/s}$.
+
 a)
 Se il suono viene emesso dal punto A, quale ritardo c'è nella ricezione tra i punti C e F?
-Alcuni tecnici hanno misurato il ritardo e non hanno ottenuto quel risultato. Quando le chiedo perché, le dico:
-Hanno spiegato che la velocità di diffusione del suono in un gas ideale dipende dalla temperatura assoluta
-con un'espressione che includa la costante dei gas ideali $R = 8{,}314\ \text{J/mol}\cdot\text{K}$, il coefficiente adiabatico $\gamma$
-(dimensionale) e la massa mollare $M$ del gas in kg/mol. Il problema è che i tuoi amici non hanno copiato bene la
-dipendenza e non sanno quale delle seguenti espressioni è corretta:
 
-I) $v = \sqrt{\dfrac{\gamma R}{M}}\,\dfrac{1}{\sqrt{T}}$ ii) $v = \sqrt{\dfrac{\gamma R}{M}}\,\dfrac{1}{T}$ iii) $v = \sqrt{\dfrac{\gamma R}{M}}\,\sqrt{T}$ iv) $v = \sqrt{\dfrac{\gamma R}{M}}\,T$
-
-b) Sulla base dell'espressione che gli tecnici hanno indicato.
-c)
-La prova è stata effettuata a $25\ ^\circ\text{C}$ e, per l'aria, a $\gamma = 1{,}4$ e $M = 28{,}97\ \text{g/mol}$. Che ritardo hanno misurato i tecnici?
-Per le prime prove sonore, hanno messo tutti gli altoparlanti, che insieme danno 10 kW di
-Potenza di suono, al centro dello scenario (punto A), hanno messo una canzone a potenza piena e hanno misurato il
-livello di intensità sonora $\beta$ in punti diversi.
-d) La prima misura è stata effettuata al punto F. Supponiamo emissione semisferale, che valore hanno ottenuto?
-Il punto successivo in cui volevano misurare il livello di intensità sonora era il punto C, ma i tecnici
-Le autorità locali hanno detto che è meglio non avvicinarsi così tanto senza prima ridurre la potenza dei diffusori.
-e)
-I tecnici hanno dato un buon consiglio? giustifica la tua risposta.
-Per il prossimo test, i tuoi amici hanno messo la metà degli altoparlanti a 2,5 metri a destra del punto A.
-e l'altra metà 2,5 m a sinistra (punti a e a). In preparazione, hanno erroneamente fatto suonare un tono di
-una certa frequenza, di cui sono stati avvertiti da alcuni tecnici che stavano lavorando al punto F.
-I tecnici si spostarono fino al punto F, dove smarrirono di sentire il suono anche se il tono continuava a suonare.
-f)
-Spiega perché i tecnici hanno sentito il tono in F ma hanno smesso di sentirlo spostandosi a F.
-g)
-Che frequenza di tono hanno fatto suonare per errore?
-Dati: area della sfera $S = 4\pi R^2$; minima intensità uditiva $I_0 = 10^{-12}\ \text{W/m}^2$; soglia del dolore $\beta_\text{dolor} = 120\ \text{dB}$.
-
-36 Olimpiadi di fisica spagnoli
-Fase di ARAGON
-P2. Soluzione
-a)
-Il suono viene emesso dal punto A e i frunti d'onda si diffondono a velocità costante
-$v = 340\ \text{m/s}$ in tutte le direzioni. In particolare, i punti C e F sono allineati a A e separati
-una distanza $d_{CF} = 80\ \text{m}$, quindi il ritardo $\Delta t$ tra i due punti è:
-
-$$\Delta t = \frac{d_{CF}}{v} \quad\Rightarrow\quad \Delta t = 235\ \text{ms} \quad (1)$$
-
-b) Usando l'analisi dimensionale possiamo determinare quale delle quattro equazioni è corretta. En el
-membro sinistra delle quattro viene mostrata la velocità. Le sue dimensioni fisiche sono
-
-$$[v] = \frac{[L]}{[T]} \quad (2)$$
-
-In tutti i casi nel membro di destra c'è un fattore comune le cui dimensioni sono
-
-$$\left[\sqrt{\frac{\gamma R}{M}}\right] = \frac{[L]}{[T][\Theta]^{1/2}} \quad (3)$$
-
-in cui $[\Theta]$ corrisponde alle dimensioni di temperatura. Per rendere la formula dimensionale
-Se la dimensione è corretta, è necessario moltiplicarla per un elemento con dimensioni $[\Theta]^{1/2}$. La Commissione ha pertanto
-La soluzione corretta è iii),
-
-$$v = \sqrt{\frac{\gamma R}{M}}\,\sqrt{T} \quad (4)$$
-
-c)
-In questo caso, sostituendo i valori di cui all'espressione iii) si ottiene
-
-$$v = 346\ \text{m/s} \quad (5)$$
-
-Il ritardo misurato dai tecnici è quindi
-
-$$\Delta t = 231\ \text{ms} \quad (6)$$
-
-d) La potenza $P$ emessa dagli altoparlanti è distribuita uniformemente su una superficie semisferale,
-in altre parole, è uguale a $2\pi R^2$, essendo $R$ la distanza tra il foco di emissione e il punto di interesse. De
-In questo modo, il livello di intensità sonora misurato al punto F, situato a $d_{AF} = 110\ \text{m}$ da A, è
-
-$$\beta_F = 10\log\frac{I_F}{I_0} = 10\log\frac{P}{2\pi d_{AF}^2\,I_0} \quad\Rightarrow\quad \beta_F = 111{,}2\ \text{dB} \quad (7)$$
-
-e)
-Mantiene l'emissione di 10 kW di potenza in A.
-La distanza tra il foco di emissione e il punto di interesse è stata ridotta a $d_{AC} = 30\ \text{m}$, quindi la
-l'intensità sarà aumentata e di conseguenza il livello di intensità sonora. Il valore che si
-aspettare di misurare in C in queste condizioni è
-
-$$\beta_C = 10\log\frac{I_C}{I_0} = 10\log\frac{P}{2\pi d_{AC}^2\,I_0} \quad\Rightarrow\quad \beta_C = 122{,}5\ \text{dB} \quad (8)$$
-
-Il valore di $\beta_C$ supera i 120 dB che segnano il limite di dolore. Quindi i tecnici hanno dato loro
-un consiglio appropriato.
-36 Olimpiadi di fisica spagnoli
-Fase di ARAGON
-f)
-Se si separano i diffusori in due gruppi situati a 2,5 m da entrambi i lati di A, si sta creando una
-situazione in cui si hanno due emissionari armonici identici e puntuali separati tra loro
-Distanza $d = 5\ \text{m}$. Ciascuno di essi emette onde della stessa frequenza e in fase che viaggiano attraverso il
-La struttura è stata costruita per la costruzione di una struttura di spazio e che, quando si incontrano, si sovrappongono, producendo un fenomeno di interferenza.
-Tale interferenza può essere costruttiva se la differenza di percorsi tra le onde e il
-superposizione è pari a un intero multiple di lunghezza d'onda $\lambda$, e distruttiva se la differenza di
-i percorsi è uguale a un intero multiplo della lunghezza d'onda più la media di lunghezza d'onda (o di forma
-equivalente a un multiplo impar di media lunghezza d'onda).
-Il fatto che i tecnici ascoltino il tono in posizione F e non lo ascoltino nel
-La differenza di frequenza di un'interferenza di F è che la
-La velocità di un'onda di radio è di zero) e in F si produce un'interferenza distruttiva.
-g)
-Se i tecnici si spostano in parallelo al fondo delle scale e non ascoltano (per la prima volta) il
-il tono in F, questo punto corrisponde al primo minimo di interferenza.
-
-Se i due emittenti sono distanti $d_{Aa} = d_{Aa'} = 2{,}5\ \text{m}$ da A, come illustrato nella figura, il loro
-Distanza rispetto al punto F è
-
-$$d_{aF'} = \sqrt{d_{AF}^2 + (d_{FF'} - d_{Aa})^2} \quad (9)$$
-
-$$d_{a'F'} = \sqrt{d_{AF}^2 + (d_{FF'} + d_{Aa'})^2} \quad (10)$$
-
-Quindi, la differenza di percorrenza tra le due onde, $\Delta r$, è
-
-$$\Delta r = \left|d_{a'F'} - d_{aF'}\right| \quad (11)$$
-
-Il primo minimo di interferenza si verifica al punto F, quindi la differenza di percorso deve essere
-essere uguale a metà lunghezza d'onda,
-
-$$\Delta r = \frac{\lambda}{2} \quad (12)$$
-
-Per un'onda il rapporto tra lunghezza d'onda $\lambda$, frequenza $f$ e velocità di diffusione $v$ è
-
-$$v = \lambda f \quad (13)$$
-
-Combinando le equazioni (9) a (13) si ottiene l'espressione della frequenza di emissione della
-onde che producono il primo minimo di interferenza in F,
-
-$$f = \frac{v}{2\left[\sqrt{d_{AF}^2 + (d_{FF'} + d_{Aa'})^2} - \sqrt{d_{AF}^2 + (d_{FF'} - d_{Aa})^2}\right]} \quad\Rightarrow\quad f = 762{,}2\ \text{Hz}$$
-
-36 Olimpiadi di fisica spagnoli
-Fase di ARAGON
-
-
-<!--fig:start-->
-![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p6_f2.png]]
-*Sistema di scenario galleggiante e gradinato*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p8_f3.png]]
-*Geometria di interferenza due altoparlanti a e a'*
-<!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1JYsFZ8q7JfUgiMR89Ud1kkukswesUpqf/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-P2. Summer festival.
-The International Festival of Cultures or Southern Pyrenees has been held since 1992 in the Oscense region of the Netherlands.
-Alto Gállego, specifically in the town of Lanuza, belonging to the municipality of Sallent de Gállego. En
-This festival the stage is floating above the swamp of Lanuza and the gradium is located on the shore of the swamp.
-Friends who worked in the organization
-I'm aware of your great interest in
-Physics, they want you to help them understand things
-They came up with the idea of preparing the concerts for
-Don't let that happen to you again. For this, they make a
-stage layout and stairs. Let's get this started!
-One of the first tasks they did was synchronize the sound equipment in the area.
-control (point C) and the bottom of the stairs (point F). For this reason, they considered that the rate of spread
-the sound in the air is $v = 340\ \text{m/s}$.
-a)
-If the sound is emitted from point A, what is the delay in reception between points C and F?
-Technicians measured that delay and didn't get that result. When I ask them why, they say
-They explained that the speed of propagation of sound in an ideal gas depends on the absolute temperature.
-with an expression including the ideal gas constant $R = 8{,}314\ \text{J/mol}\cdot\text{K}$, the adiabatic coefficient $\gamma$
-(dimensional) and the molar mass $M$ of the gas in kg/mol. The problem is your friends didn't copy it well.
-dependence and don't know which of the following is correct:
+Alcuni tecnici hanno misurato questo ritardo e non hanno ottenuto quel risultato. Al chiedere spiegazioni, ci hanno detto che la velocità di propagazione del suono in un gas ideale dipende dalla temperatura assoluta secondo un'espressione che include la costante dei gas ideali $R = 8{,}314\ \text{J/mol}\cdot\text{K}$, il coefficiente adiabatico $\gamma$ (adimensionale) e la massa molare $M$ del gas in kg/mol. Il problema è che i tuoi amici non hanno copiato correttamente la dipendenza e non sanno quale delle seguenti espressioni sia quella corretta:
 
 i) $v = \sqrt{\dfrac{\gamma R}{M}}\,\dfrac{1}{\sqrt{T}}$ ii) $v = \sqrt{\dfrac{\gamma R}{M}}\,\dfrac{1}{T}$ iii) $v = \sqrt{\dfrac{\gamma R}{M}}\,\sqrt{T}$ iv) $v = \sqrt{\dfrac{\gamma R}{M}}\,T$
 
-(b) The reason given by the technicians.
-c)
-The test was carried out at $25\ ^\circ\text{C}$ and, for air, $\gamma = 1{,}4$ and $M = 28{,}97\ \text{g/mol}$. What delay did the technicians measure?
-For the first sound tests all speakers were placed, which together give 10 kW of sound.
-The sound power, in the middle of the stage (point A), put a song to full power and measured the
-the sound intensity level $\beta$ at different points.
-(d) The first measure was taken at point F. Assuming semispheric emission, what value did they get?
-The next point where they wanted to measure the sound intensity level was the C point, but technicians
-They warned them that it was better not to get too close without first decreasing the power of the speakers.
-e)
-Did the technicians give you any good advice? Justify your answer.
-For the next test, your friends placed half the speakers 2.5 m to the right of point A.
-and the other half 2,5 m to its left (points a and a). In preparation, they mistakenly sounded a tone of
-A certain frequency, which was warned by technicians working at the F point.
-The technicians moved to the F point, where they stopped hearing the sound although the tone was still ringing.
-f)
-It explains why the technicians heard the tone in F but stopped hearing it when they moved to F.
-g)
-How often was the tone they made by mistake?
-Data: Area of the sphere $S = 4\pi R^2$; minimum audible intensity $I_0 = 10^{-12}\ \text{W/m}^2$; threshold of pain $\beta_\text{dolor} = 120\ \text{dB}$.
+b) Spiega qual è l'espressione che ti hanno indicato gli addetti.
 
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-P2. Solution
-a)
-The sound is emitted from point A and the wavefronts are propagating at a constant speed
-$v = 340\ \text{m/s}$ in all directions. In particular, points C and F are aligned with A and separate
-a distance $d_{CF} = 80\ \text{m}$, so the delay $\Delta t$ between the two points is:
+c) L’esperimento è stato effettuato a $25\ ^\circ\text{C}$ e, per l’aria, $\gamma = 1{,}4$ e $M = 28{,}97\ \text{g/mol}$. Quale ritardo hanno misurato gli addetti?
+
+Per le prime prove acustiche, hanno collocato tutti gli altoparlanti, che insieme forniscono 10 kW di potenza acustica, al centro del palcoscenico (punto A), hanno messo una canzone a massimo volume e misurato il livello di intensità sonora $\beta$ in diversi punti.
+
+d) La prima misura è stata effettuata nel punto F. Supponendo una emissione semisferica, quale valore hanno ottenuto?
+
+Il punto successivo in cui volevano misurare il livello di intensità sonora era il punto C, ma gli addetti li hanno avvertiti che sarebbe stato meglio non avvicinarsi troppo senza prima ridurre la potenza emessa dagli altoparlanti.
+
+e) Gli addetti hanno dato un buon consiglio? Giustifica la tua risposta.
+
+Per il successivo esperimento, i tuoi amici hanno collocato metà degli altoparlanti a 2,5 m alla destra del punto A e l’altra metà a 2,5 m alla sua sinistra (punti a e a’). Durante i preparativi, per errore hanno fatto suonare un tono di una certa frequenza, del quale sono stati avvertiti da alcuni addetti che lavoravano nel punto F.
+
+Gli addetti si sono spostati fino al punto F’, dove hanno smesso di sentire il suono anche se il tono continuava a essere emesso.
+
+f) Spiega perché gli addetti hanno sentito il tono in F ma hanno smesso di sentirlo spostandosi in F’.
+
+g) Di quale frequenza era il tono che è stato fatto suonare per errore?
+
+Dati: Area della sfera $S = 4\pi R^2$; intensità minima udibile $I_0 = 10^{-12}\ \text{W/m}^2$; soglia del dolore $\beta_\text{dolor} = 120\ \text{dB}$.
+
+36 OLIMPIADA SPAGNOLA DI FISICA
+FASE DELL'ARAGONA
+P2. Soluzione a)
+Il suono viene emesso dal punto A e i fronti d'onda si propagano con velocità costante $v = 340\ \text{m/s}$ in tutte le direzioni. In particolare, i punti C e F sono allineati con A e separati da una distanza $d_{CF} = 80\ \text{m}$, quindi il ritardo $\Delta t$ tra i due punti è:
 
 $$\Delta t = \frac{d_{CF}}{v} \quad\Rightarrow\quad \Delta t = 235\ \text{ms} \quad (1)$$
 
-(b) Using dimensional analysis we can determine which of the four equations is correct. En el
-Member left of four shows the speed. Its physical dimensions are
+b) Utilizzando l'analisi dimensionale possiamo determinare quale delle quattro equazioni è corretta. Nel membro di sinistra delle quattro compare la velocità. Le sue dimensioni fisiche sono
 
 $$[v] = \frac{[L]}{[T]} \quad (2)$$
 
-In all cases in the right member there is a common factor whose dimensions are
+In tutti i casi, nel membro di destra esiste un fattore comune le cui dimensioni sono
 
 $$\left[\sqrt{\frac{\gamma R}{M}}\right] = \frac{[L]}{[T][\Theta]^{1/2}} \quad (3)$$
 
-where $[\Theta]$ corresponds to temperature dimensions. So the formula is dimensional
-If the value of the data is correct, it must be multiplied by an element having dimensions $[\Theta]^{1/2}$. The Commission therefore
-correct solution is iii),
+dove $[\Theta]$ corrisponde alle dimensioni della temperatura. Affinché la formula sia dimensionalmente corretta, bisogna moltiplicarla per un elemento che abbia come dimensioni $[\Theta]^{1/2}$. Pertanto, la soluzione corretta è la iii),
 
 $$v = \sqrt{\frac{\gamma R}{M}}\,\sqrt{T} \quad (4)$$
 
 c)
-In the case indicated, the values given in expression (iii) are replaced by:
+Nel caso indicato, sostituendo i valori dati nell'espressione iii) si ottiene
 
 $$v = 346\ \text{m/s} \quad (5)$$
 
-The delay measured by technicians is therefore
+Di conseguenza, il ritardo misurato dai tecnici è
 
 $$\Delta t = 231\ \text{ms} \quad (6)$$
 
-(d) The $P$ power emitted by the speakers is evenly distributed over a semispherical surface,
-i.e. equal to $2\pi R^2$, being $R$ the distance between the emission focus and the point of interest. De
-This means that the sound intensity level measured at point F, which is located at a distance $d_{AF} = 110\ \text{m}$ from A, is
+d) La potenza $P$ emessa dagli altoparlanti si distribuisce in modo uniforme su una superficie semisferica, cioè pari a $2\pi R^2$, dove $R$ è la distanza tra il punto emittente e il punto di interesse. In questo modo, il livello di intensità sonora misurato nel punto F, che si trova a una distanza $d_{AF} = 110\ \text{m}$ da A è
 
 $$\beta_F = 10\log\frac{I_F}{I_0} = 10\log\frac{P}{2\pi d_{AF}^2\,I_0} \quad\Rightarrow\quad \beta_F = 111{,}2\ \text{dB} \quad (7)$$
 
-e)
-Keeping the output of 10 kW of power in A our friends came close to the C point,
-The distance between the issuing focus and the point of interest was reduced to $d_{AC} = 30\ \text{m}$, so that the
-The intensity will have increased and consequently the sound intensity level will have increased as well. The value of the
-Expect to measure in C under these conditions is
+e) Mantenendo la emissione di 10 kW di potenza in A, i nostri amici si sono avvicinati al punto C, in modo che la distanza tra il foco emittente e il punto di interesse si è ridotta a $d_{AC} = 30\ \text{m}$, per cui l'intensità sarà aumentata e di conseguenza anche il livello di intensità sonora. Il valore che ci si aspetta misurare in C nelle condizioni date è
 
 $$\beta_C = 10\log\frac{I_C}{I_0} = 10\log\frac{P}{2\pi d_{AC}^2\,I_0} \quad\Rightarrow\quad \beta_C = 122{,}5\ \text{dB} \quad (8)$$
 
-The value of $\beta_C$ exceeds 120 dB which mark the pain threshold. So the technicians gave them
-I'm giving you good advice.
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-f)
-By separating the speakers into two groups located 2.5 m on either side of A, you are creating a
-situation where two identical, spot harmonic emitters are separated from each other
-The distance $d = 5\ \text{m}$. Each of them emits waves of the same frequency and phase that travel through the
-The two interfaces are superimposed, creating an interference phenomenon.
-Such interference can be constructive if the difference in paths travelled by the waves to the
-overlapping is equal to an integer multiple of the wavelength $\lambda$, and destructive if the difference of
-paths is equal to an integer multiple of the wavelength plus half wavelength (or form
-equivalent to an odd multiple of half wavelength).
-Therefore, the fact that technicians hear the tone while they are in F and not in the
-The difference between the two is that the two components are not in the same position.
-The paths between the two waves are zero) and in F there is destructive interference.
-g)
-If the technicians, moving parallel to the bottom of the stairs, stop hearing (for the first time) the
-The first minimum of interference is given by the first point.
+Il valore di $\beta_C$ supera i 120 dB indicati dal limite del dolore. Pertanto, gli addetti hanno dato un consiglio corretto.
 
-If the two emitters are $d_{Aa} = d_{Aa'} = 2{,}5\ \text{m}$ from A, as shown in Figure 1, their
-distance from point F is
+36 OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DI ARAGÓN f)
+Alla separazione degli altoparlanti in due gruppi posti a 2,5 m da entrambi i lati di A, si crea una situazione in cui sono presenti due sorgenti puntiformi armoniche identiche distanti tra loro una distanza $d = 5\ \text{m}$. Ognuna di esse emette onde della stessa frequenza e in fase che si propagano nello spazio e, incontrandosi, si sovrappongono, producendosi un fenomeno di interferenza.
+
+Tale interferenza può essere costruttiva se la differenza dei percorsi percorsi dalle onde al sovrapporsi è uguale a un multiplo intero della lunghezza d'onda $\lambda$, e distruttiva se la differenza dei percorsi è uguale a un multiplo intero della lunghezza d'onda più metà lunghezza d'onda (oppure, in modo equivalente, uguale a un multiplo dispari di metà lunghezza d'onda).
+
+Pertanto, il fatto che gli addetti abbiano sentito il tono quando si trovavano in F e non lo abbiano sentito quando si trovavano in F’ dipende dal fatto che in F si verifica un'interferenza costruttiva (la differenza dei percorsi tra le due onde è nulla) e in F’ si verifica un'interferenza distruttiva.
+
+g)
+Se gli addetti, spostandosi parallelamente al fondo delle gradinate, smettono di sentire (per la prima volta) il tono in F’, questo punto corrisponde al primo minimo di interferenza.
+
+Se i due emettitori si trovano alla distanza $d_{Aa} = d_{Aa'} = 2{,}5\ \text{m}$ da A, come mostrato in figura, la loro distanza rispetto al punto F' è
 
 $$d_{aF'} = \sqrt{d_{AF}^2 + (d_{FF'} - d_{Aa})^2} \quad (9)$$
 
 $$d_{a'F'} = \sqrt{d_{AF}^2 + (d_{FF'} + d_{Aa'})^2} \quad (10)$$
 
-Therefore, the difference in paths travelled by the two waves, $\Delta r$, is
+Di conseguenza, la differenza di cammino percorsa dalle due onde, $\Delta r$, è
 
 $$\Delta r = \left|d_{a'F'} - d_{aF'}\right| \quad (11)$$
 
-The first minimum of interference occurs at point F, so the difference in paths must be
-be equal to half the wavelength,
+Nel punto F' si verifica il primo minimo di interferenza, quindi la differenza di cammino deve essere uguale a metà lunghezza d'onda,
 
 $$\Delta r = \frac{\lambda}{2} \quad (12)$$
 
-For a wave the ratio of wavelength $\lambda$, frequency $f$ and propagation speed $v$ is
+Per un'onda, la relazione tra lunghezza d'onda $\lambda$, frequenza $f$ e velocità di propagazione $v$ è
 
 $$v = \lambda f \quad (13)$$
 
-The expression of the emission frequency of the
-wave that produces the first minimum interference in F,
+Combinando le equazioni (9) fino a (13) si può ottenere l'espressione della frequenza di emissione dell'onda che produce in F' il primo minimo di interferenza,
 
 $$f = \frac{v}{2\left[\sqrt{d_{AF}^2 + (d_{FF'} + d_{Aa'})^2} - \sqrt{d_{AF}^2 + (d_{FF'} - d_{Aa})^2}\right]} \quad\Rightarrow\quad f = 762{,}2\ \text{Hz}$$
 
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-
+36 OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DI ARAGÓN
 
 <!--fig:start-->
 ![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p6_f2.png]]
-*Scenario floating and grid pattern*
+*Schema escenario galleggiante e gradinata*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p8_f3.png]]
 *Geometria interferenza due altoparlanti a e a'*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1JYsFZ8q7JfUgiMR89Ud1kkukswesUpqf/view)
+<div class="qlang-split" data-lang="en"></div>
+
+P2. Summer Festival.
+
+The International Festival of Cultures, or Pirineos Sur, has been held since 1992 in the Alto Gállego region of Huesca, specifically in the town of Lanuza, part of the municipality of Sallent de Gállego. At this festival, the stage floats on the Lanuza reservoir and the stands are located along the reservoir's shore.
+
+Some friends who worked in organizing last year’s edition, knowing your great interest in physics, want you to help them understand some issues that arose while preparing the concerts, so they don’t happen again. To this end, they have drawn a sketch of the stage and stands. Let's begin!
+
+One of their first tasks was to synchronize the sound equipment located in the control area (point C) and at the back of the stands (point F). For this, they assumed that the speed of sound propagation in air is $v = 340\ \text{m/s}$.
+
+a)
+If sound is emitted from point A, what time delay exists in reception between points C and F?
+
+Some technicians measured this delay but did not obtain the expected result. When asked why, they explained that the speed of sound propagation in an ideal gas depends on absolute temperature through an expression involving the universal gas constant $R = 8{,}314\ \text{J/mol}\cdot\text{K}$, the adiabatic coefficient $\gamma$ (dimensionless), and the molar mass $M$ of the gas in kg/mol. The problem is that your friends copied the dependence incorrectly and do not know which of the following expressions is correct:
+
+i) $v = \sqrt{\dfrac{\gamma R}{M}}\,\dfrac{1}{\sqrt{T}}$
+ii) $v = \sqrt{\dfrac{\gamma R}{M}}\,\dfrac{1}{T}$
+iii) $v = \sqrt{\dfrac{\gamma R}{M}}\,\sqrt{T}$
+iv) $v = \sqrt{\dfrac{\gamma R}{M}}\,T$
+
+b) Explain which expression the technicians indicated to them.
+c) The test was conducted at $25\ ^\circ\text{C}$, and for air, $\gamma = 1{,}4$ and $M = 28{,}97\ \text{g/mol}$. What delay did the technicians measure?
+For the initial sound tests, they placed all the speakers—collectively producing 10 kW of acoustic power—at the center of the stage (point A), played a song at maximum volume, and measured the sound intensity level $\beta$ at various points.
+d) The first measurement was taken at point F. Assuming hemispherical emission, what value did they obtain?
+The next point where they wanted to measure the sound intensity level was point C, but the technicians warned them not to get too close without first reducing the power emitted by the speakers.
+e) Did the technicians give good advice? Justify your answer.
+For the next test, your friends placed half of the speakers 2.5 m to the right of point A and the other half 2.5 m to its left (points a and a′). During preparations, they accidentally played a tone of a certain frequency, which prompted some technicians working at point F to intervene.
+The technicians moved to point F′ and stopped hearing the sound, even though the tone continued to play.
+f) Explain why the technicians heard the tone at F but stopped hearing it when they moved to F′.
+g) What was the frequency of the tone that was accidentally played?
+Data: Surface area of a sphere $S = 4\pi R^2$; minimum audible intensity $I_0 = 10^{-12}\ \text{W/m}^2$; pain threshold $\beta_\text{dolor} = 120\ \text{dB}$.
+
+36 SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
+P2. Solution a)
+The sound is emitted from point A and the wavefronts propagate with constant velocity $v = 340\ \text{m/s}$ in all directions. In particular, points C and F are aligned with A and separated by a distance $d_{CF} = 80\ \text{m}$; therefore, the time delay $\Delta t$ between these two points is:
+
+$$\Delta t = \frac{d_{CF}}{v} \quad\Rightarrow\quad \Delta t = 235\ \text{ms} \quad (1)$$
+
+b) Using dimensional analysis, we can determine which of the four equations is correct. On the left-hand side of all four equations, velocity appears. Its physical dimensions are
+
+$$[v] = \frac{[L]}{[T]} \quad (2)$$
+
+In all cases, the right-hand side contains a common factor whose dimensions are
+
+$$\left[\sqrt{\frac{\gamma R}{M}}\right] = \frac{[L]}{[T][\Theta]^{1/2}} \quad (3)$$
+
+where $[\Theta]$ corresponds to the dimensions of temperature. For the formula to be dimensionally correct, it must be multiplied by a quantity having dimensions $[\Theta]^{1/2}$. Therefore, the correct solution is iii),
+
+$$v = \sqrt{\frac{\gamma R}{M}}\,\sqrt{T} \quad (4)$$
+
+c)
+In the case indicated, substituting the given values into expression iii) yields:
+
+$$v = 346\ \text{m/s} \quad (5)$$
+
+Thus, the time delay measured by the technicians is
+
+$$\Delta t = 231\ \text{ms} \quad (6)$$
+
+d) The power $P$ emitted by the speakers is distributed uniformly over a hemispherical surface, i.e., equal to $2\pi R^2$, where $R$ is the distance between the sound source and the point of interest. Thus, the sound intensity level measured at point F, located a distance $d_{AF} = 110\ \text{m}$ from A, is
+
+$$\beta_F = 10\log\frac{I_F}{I_0} = 10\log\frac{P}{2\pi d_{AF}^2\,I_0} \quad\Rightarrow\quad \beta_F = 111{,}2\ \text{dB} \quad (7)$$
+
+e)
+Keeping the power emission at 10 kW from point A, our friends moved closer to point C, so that the distance between the emitting source and the point of interest was reduced to $d_{AC} = 30\ \text{m}$; therefore, the intensity increased and consequently the sound intensity level also rose. The value expected to be measured at point C under these conditions is
+
+$$\beta_C = 10\log\frac{I_C}{I_0} = 10\log\frac{P}{2\pi d_{AC}^2\,I_0} \quad\Rightarrow\quad \beta_C = 122{,}5\ \text{dB} \quad (8)$$
+
+The value of $\beta_C$ exceeds 120 dB, which marks the pain threshold. Therefore, the technicians were given sound advice.
+
+36 SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND f)
+By separating the speakers into two groups located 2.5 m on either side of point A, a situation is created in which there are two identical point harmonic emitters separated by a distance $d = 5\ \text{m}$. Each emits waves of the same frequency and in phase that travel through space, and when they meet, they superpose, producing an interference phenomenon.
+
+This interference may be constructive if the path difference traveled by the waves when superposing is equal to an integer multiple of the wavelength $\lambda$, and destructive if the path difference is equal to an integer multiple of the wavelength plus half a wavelength (or equivalently, equal to an odd multiple of half a wavelength).
+
+Therefore, the fact that the technicians heard the tone when positioned at F and did not hear it when positioned at F’ is due to constructive interference occurring at F (the path difference between the two waves is zero) and destructive interference occurring at F’.
+
+g)
+If, while moving parallel to the back of the stands, the technicians first stop hearing the tone at point F’, this point corresponds to the first interference minimum.
+
+If the two emitters are at distance $d_{Aa} = d_{Aa'} = 2{,}5\ \text{m}$ from point A, as shown in the figure, their distance with respect to point F′ is
+
+$$d_{aF'} = \sqrt{d_{AF}^2 + (d_{FF'} - d_{Aa})^2} \quad (9)$$
+
+$$d_{a'F'} = \sqrt{d_{AF}^2 + (d_{FF'} + d_{Aa'})^2} \quad (10)$$
+
+Therefore, the path difference traveled by the two waves, $\Delta r$, is
+
+$$\Delta r = \left|d_{a'F'} - d_{aF'}\right| \quad (11)$$
+
+At point F′, the first interference minimum occurs, so the path difference must be equal to half a wavelength,
+
+$$\Delta r = \frac{\lambda}{2} \quad (12)$$
+
+For a wave, the relationship between wavelength $\lambda$, frequency $f$, and propagation speed $v$ is
+
+$$v = \lambda f \quad (13)$$
+
+By combining equations (9) to (13), the expression for the emission frequency of the wave that produces the first interference minimum at point F′ can be obtained,
+
+$$f = \frac{v}{2\left[\sqrt{d_{AF}^2 + (d_{FF'} + d_{Aa'})^2} - \sqrt{d_{AF}^2 + (d_{FF'} - d_{Aa})^2}\right]} \quad\Rightarrow\quad f = 762{,}2\ \text{Hz}$$
+
+36 SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
+
+<!--fig:start-->
+![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p6_f2.png]]
+*Floating stage and grandstand diagram*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p8_f3.png]]
+*Interference geometry of two loudspeakers at e a'*
+<!--fig:end-->
 
 
 
@@ -1127,246 +1020,96 @@ Figura 5
 
 <div class="qlang-split" data-lang="it"></div>
 
-P3. Linee di campo elettrostatico1
-Un campo elettrostatico può essere rappresentato graficamente attraverso le sue linee di forza (o di campo).
-Il numero di linee che nascono o muoiono in una carica è proporzionale alla grandezza di tale carica. (La
-L'espressione matematica di questa idea costituisce il teorema di Gauss). Il campo elettrico in ogni punto è
-tangente alla linea di forza che attraversa tale punto, e la sua intensità è proporzionale alla densità di linee
-(numero di linee per unità di superficie) che vi sono nel vostro ambiente.
-La figura 1 mostra le linee di forza che descrivono il campo elettrostatico generato da due
-carichi puntati, $q_1$ e $q_2$, separati da una distanza $d$.
+P3. Linee del campo elettrostatico1
+Un campo elettrostatico può essere rappresentato graficamente mediante le sue linee di forza (o di campo).
+Il numero di linee che "nascono" o "muoiono" in una carica è proporzionale all'intensità di tale carica. (L'espressione matematica di questo concetto costituisce il teorema di Gauss). Il campo elettrico in ogni punto è tangente alla linea di forza che passa per quel punto, e la sua intensità è proporzionale alla densità di linee (numero di linee per unità di superficie) nel suo intorno.
+Nella figura 1 sono mostrate le linee di forza che descrivono il campo elettrostatico generato da due cariche puntiformi, $q_1$ e $q_2$, separate da una distanza $d$.
+
 a)
-Esamina di che segno sono le cariche.
+Spiega di che segno è ciascuna delle cariche.
+
 b)
-Qual è la sua magnitudine relativa, $q_1/q_2$?
+Qual è il loro rapporto di intensità, $q_1/q_2$?
+
 c)
-Raziona, con la massima precisione possibile, in quale punto o punti del piano di figura 1 il campo
-l'elettrostatico $\vec{E}$ creato da entrambe le cariche è nullo.
+Ragiona, con la massima precisione possibile, in quali punti del piano della figura 1 il campo elettrostatico $\vec{E}$ creato dalle due cariche è nullo.
+
 d)
-Determina a quale punto o punti del piano di tale figura il potenziale elettrostatico creato da
-Le due cariche.
-Considera ora la distribuzione di carichi puntuali rappresentata nella figura 2, con $Q_1 = 6\ \mu\text{C}$, $Q_2 = -2\ \mu\text{C}$ e $d = 4\ \text{cm}$.
+Determina in quali punti del piano di tale figura il potenziale elettrostatico creato dalle due cariche è nullo.
+
+Considera ora la distribuzione di cariche puntiformi rappresentata nella figura 2, con $Q_1 = 6\ \mu\text{C}$, $Q_2 = -2\ \mu\text{C}$ e $d = 4\ \text{cm}$.
+
 e)
-Calcola il potenziale elettrostatico, $V$, e il campo elettrico, $\vec{E}$,
-nel punto A della figura, situato a 3 cm di $Q_1$ e a 1 cm di $Q_2$.
+Calcola il potenziale elettrostatico, $V$, e il campo elettrico, $\vec{E}$, nel punto A della figura, situato a 3 cm da $Q_1$ e a 1 cm da $Q_2$.
+
 f)
 Disegna le linee di forza per questa distribuzione di cariche.
 
-Data: $K = \dfrac{1}{4\pi\epsilon_0} = 9\cdot10^9\ \text{N m}^2/\text{C}^2$
+Dato: $K = \dfrac{1}{4\pi\epsilon_0} = 9\cdot10^9\ \text{N m}^2/\text{C}^2$
 
-1 Questo problema è stato proposto nella Fase di Aragone delle 21 Olimpiadi di Fisica (2010) ed è ispirato a uno dei
-Proposte all'OIbF II di Oaxtepec (Messico) nel 1997.
-A
-d
+1 Questo problema è stato proposto nella Fase di Aragona della 21ª Olimpiade di Fisica (2010) ed è ispirato a uno dei problemi presentati alla II OIbF di Oaxtepec (Messico) nel 1997.
+
+A d
 Figura 2
 Figura 1
-36 Olimpiadi di fisica spagnoli
-Fase di ARAGON
+
+36ª OLIMPIADA SPAGNOLA DI FISICA
+FASE DI ARAGONA
 Soluzione P3
 
 a)
-Le linee di campo nascono nelle cariche positive (o infinite) e muoiono nelle cariche negative.
-(o all'infinito). Dalla figura 1 si deduce che la carica $q_1$ è positiva e la carica $q_2$ negativa.
+Le linee del campo "nascono" dalle cariche positive (o dall'infinito) e "terminano" sulle cariche negative (o nell'infinito). Osservando la figura 1, deduciamo che la carica $q_1$ è positiva e la $q_2$ negativa.
+
 b)
-Il numero di linee di campo che nascono o muoiono in un carico è proporzionale alla grandezza di tale carico.
-carica. Nella figura 1, vediamo che 24 linee usciranno da $q_1$ e arrivano a 8 da $q_2$. Quindi,
+Il numero di linee del campo che nascono o terminano su una carica è proporzionale all'intensità di tale carica. Nella figura 1, vediamo che escono 24 linee da $q_1$ e ne arrivano 8 in $q_2$. Pertanto,
 
 $$\frac{q_1}{q_2} = -3 \quad (1)$$
 
 c)
-Per il campo totale $\vec{E}_t = \vec{E}_1 + \vec{E}_2$ creato da entrambi
-cargas sea nulo ha de cumplirse que, o bien $E_1 = E_2 = 0$, lo
-che si verifica in punti infinitamente lontani dai carichi; o
-Bene $\vec{E}_1 = -\vec{E}_2$. In questo ultimo caso entrambi i vettori hanno
-lo stesso modulo, la stessa direzione e sentimenti opposti. Quindi, come $q_1 > q_2$, $\vec{E}$ può solo
-annullare in un punto come il P di figura 3, allineato con le cariche e più lontano da 1 che da 2. La
-l'equità di moduli dei due campi richiede che
+Affinché il campo totale $\vec{E}_t = \vec{E}_1 + \vec{E}_2$ creato dalle due cariche sia nullo, deve verificarsi che oppure $E_1 = E_2 = 0$, il che avviene in punti infinitamente lontani dalle cariche, oppure $\vec{E}_1 = -\vec{E}_2$. In quest'ultimo caso i due vettori hanno lo stesso modulo, la stessa direzione e versi opposti. Poiché $q_1 > q_2$, $\vec{E}$ può annullarsi soltanto in un punto come P della figura 3, allineato con le cariche e più lontano da 1 che da 2. L'uguaglianza dei moduli dei due campi impone che
 
 $$K\frac{q_1}{r_1^2} = K\frac{|q_2|}{r_2^2} \quad\to\quad \frac{3}{(d + r_2)^2} = \frac{1}{r_2^2}$$
 
-Operando, si ottiene che la distanza $r_2$ tra $q_2$ e P è
+Effettuando i calcoli, si ottiene che la distanza $r_2$ tra $q_2$ e P è
 
 $$r_2 = \frac{1 + \sqrt{3}}{2}\,d = 1{,}366\,d$$
 
-d) Per ridurre il totale di $V_t = V_1 + V_2$ creato da entrambi a zero
-di soddisfazione che, o $V_1 = V_2 = 0$, ciò che accade in punti
-infinitamente alejados de las cargas, o bien $V_1 = -V_2$.
-Considerando (1) e con la notazione di figura 4,
-Potenzialmente, il punto P(x, e) è nullo, deve essere soddisfatto che
+d) Affinché il potenziale totale $V_t = V_1 + V_2$ creato dalle due cariche sia nullo, deve verificarsi che oppure $V_1 = V_2 = 0$, situazione che si verifica nei punti infinitamente lontani dalle cariche, oppure $V_1 = -V_2$.
+
+Tenendo conto di (1) e con la notazione della figura 4, affinché il potenziale nel punto P(x, y) sia nullo deve verificarsi che
 
 $$K\frac{q_1}{r_1} = K\frac{|q_2|}{r_2} \quad\Rightarrow\quad \frac{3}{\sqrt{x^2 + y^2}} = \frac{1}{\sqrt{(d - x)^2 + y^2}}$$
 
-E' un'espressione che si sviluppa.
+Elevando al quadrato e sviluppando si ottiene l'espressione
 
 $$\left(x - \frac{9}{8}d\right)^2 + y^2 = \left(\frac{3d}{8}\right)^2$$
 
-che è l'equazione di una circonferenza con centro $C\left(\dfrac{9d}{8}, 0\right)$ e radio $R = \dfrac{3d}{8}$.
+che è l'equazione di una circonferenza con centro $C\left(\dfrac{9d}{8}, 0\right)$ e raggio $R = \dfrac{3d}{8}$.
 
-In particolare, ci sono due punti allineati alle cariche in cui il potenziale è zero (punti A e B in
-Fig. 4), situati rispetto a $q_1$ in
+In particolare, esistono due punti allineati con le cariche nei quali il potenziale è nullo (punti A e B nella figura 4), situati rispetto a $q_1$ in
 
 $$x_A = \frac{9d}{8} - \frac{3d}{8} = \frac{3d}{4} \qquad\text{y}\qquad x_B = \frac{9d}{8} + \frac{3d}{8} = \frac{3d}{2}$$
 
 Figura 3
 Figura 4
-36 Olimpiadi di fisica spagnoli
-Fase di ARAGON
-e)
-Si noti che, con i dati numerici di questo paragrafo, $Q_1/Q_2 = -3$, così che si continua con la
-la stessa distribuzione elettrostatica di cui ai paragrafi precedenti. In particolare, il punto A del regolamento (CEE) n.
-La data di riferimento è stata data da un'intervallo di $x_A = 3\ \text{cm} = 3d/4$ di $Q_1$, in cui abbiamo appena visto che il
-Potenziale è nulla. Questo può essere verificato numericamente immediatamente.
+36 OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN
+
+e) Si osservi che, con i dati numerici di questo punto, $Q_1/Q_2 = -3$, per cui ci troviamo ancora con la stessa distribuzione elettrostatica dei punti precedenti. In particolare, il punto A indicato nel testo si trova a una distanza $x_A = 3\ \text{cm} = 3d/4$ da $Q_1$, in cui abbiamo appena visto che il potenziale è nullo. Ciò può essere verificato immediatamente in modo numerico
 
 $$V_t = V_1 + V_2 = 9\cdot10^9\left(\frac{6\cdot10^{-6}}{3\cdot10^{-2}} + \frac{-2\cdot10^{-6}}{10^{-2}}\right) = 0$$
 
-Il campo elettrostatico creato dalle due cariche in A è
+Il campo elettrostatico creato dalle due cariche nel punto A è
 
 $$\vec{E}_t = \vec{E}_1 + \vec{E}_2$$
 
-I vettori $\vec{E}_1$ e $\vec{E}_2$ hanno la stessa direzione e senso
-il cui $\vec{E}_t$ va dal carico positivo al negativo
-(vedi figura 5). Il suo modulo è
+I vettori $\vec{E}_1$ e $\vec{E}_2$ hanno la stessa direzione e lo stesso verso, per cui $\vec{E}_t$ è diretto dalla carica positiva a quella negativa (vedi figura 5). Il suo modulo è
 
 $$E_t = E_1 + E_2 = 9\cdot10^9\left(\frac{6\cdot10^{-6}}{9\cdot10^{-4}} + \frac{2\cdot10^{-6}}{10^{-4}}\right) = 2{,}4\cdot10^8\ \text{N/C}$$
 
-f)
-Le linee di forza create da queste due cariche puntate sono quelle della figura 1 della frase.
+f) Le linee di forza create da queste due cariche puntiformi sono quelle mostrate nella figura 1 del testo.
 
 Figura 5
-
-
-<!--fig:start-->
-![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p9_f4.png]]
-*Linee di campo elettrostatico due cariche (Figura 1) *
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p9_f5.png]]
-*Posizioni cariche Q1, Q2 e punto A (Figura 2)*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p10_f6.png]]
-*Punto P campo nullo tra le cariche (Figura 3) *
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p10_f7.png]]
-*Sistema coordinato potenziale zero (Figura 4) *
-<!--fig:end-->
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1JYsFZ8q7JfUgiMR89Ud1kkukswesUpqf/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-P3. Electrostatic field lines1
-An electrostatic field can be represented graphically by its force (or field) lines.
-The number of lines that nath or death in a load is proportional to the magnitude of that load. (La
-The mathematical expression of this idea is Gauss's theorem). The electric field at each point is
-tangent to the line of force passing through that point, and its intensity is proportional to the density of lines
-(number of lines per unit area) that are in your environment.
-Figure 1 shows the lines of force describing the electrostatic field generated by two
-cargas puntuales, $q_1$ y $q_2$, separadas una distancia $d$.
-a)
-It justifies what sign each of the charges is.
-b)
-What is its relative magnitude, $q_1/q_2$?
-c)
-Raises, as accurately as possible, at which point or points in the plane of Figure 1 the field is
-The electrostatic $\vec{E}$ created by both charges is zero.
-d)
-Determines at which point or points in the plane of the given figure the electrostatic potential created by the
-the two charges.
-Consider now the spot load distribution as shown in Figure 2, with $Q_1 = 6\ \mu\text{C}$, $Q_2 = -2\ \mu\text{C}$ and $d = 4\ \text{cm}$.
-e)
-Calculates the electrostatic potential, $V$, and the electric field, $\vec{E}$,
-in point A of the figure, located 3 cm from $Q_1$ and 1 cm from $Q_2$.
-f)
-Draw the lines of force for this load distribution.
-
-Dato: $K = \dfrac{1}{4\pi\epsilon_0} = 9\cdot10^9\ \text{N m}^2/\text{C}^2$
-
-1 This problem was proposed in the Aragon Phase of the 21st Physics Olympiad (2010) and is inspired by one of the
-The Commission has also adopted a number of proposals for the second ILOF in Oaxtepec, Mexico, in 1997.
-A
-d
-Figure 2
-Figure 1
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-Solution P3
-
-a)
-Field lines are born on positive (or infinite) charges and die on negative charges.
-(or in infinity). From the figure 1, we deduce that the charge $q_1$ is positive and the charge $q_2$ is negative.
-b)
-The number of field lines born or dying on a load is proportional to the magnitude of the load.
-load. In Figure 1, we see that 24 lines come out of $q_1$ and get 8 to $q_2$. So, what?
-
-$$\frac{q_1}{q_2} = -3 \quad (1)$$
-
-c)
-So that the total field $\vec{E}_t = \vec{E}_1 + \vec{E}_2$ created by both
-cargas sea nulo ha de cumplirse que, o bien $E_1 = E_2 = 0$, lo
-occurring at points infinitely far from the loads; or
-bien $\vec{E}_1 = -\vec{E}_2$. In the latter case, both vectors have
-The same module, the same direction and opposite senses. Therefore, as $q_1 > q_2$, $\vec{E}$ can only be
-be cancelled at a point such as P in Figure 3, aligned with the loads and further away from 1 than 2. La
-The two fields of modules equality requires that
-
-$$K\frac{q_1}{r_1^2} = K\frac{|q_2|}{r_2^2} \quad\to\quad \frac{3}{(d + r_2)^2} = \frac{1}{r_2^2}$$
-
-Operating, the distance $r_2$ between $q_2$ and P is obtained
-
-$$r_2 = \frac{1 + \sqrt{3}}{2}\,d = 1{,}366\,d$$
-
-(d) For the total potential $V_t = V_1 + V_2$ created by both to be zero,
-de cumplirse que, o bien $V_1 = V_2 = 0$, lo que ocurre en puntos
-infinitamente alejados de las cargas, o bien $V_1 = -V_2$.
-Having regard to point (1) and under the notation in figure 4,
-potential at point P(x, and) is zero must be met that
-
-$$K\frac{q_1}{r_1} = K\frac{|q_2|}{r_2} \quad\Rightarrow\quad \frac{3}{\sqrt{x^2 + y^2}} = \frac{1}{\sqrt{(d - x)^2 + y^2}}$$
-
-Raising the square and developing you get to the expression
-
-$$\left(x - \frac{9}{8}d\right)^2 + y^2 = \left(\frac{3d}{8}\right)^2$$
-
-which is the equation of a circle with center $C\left(\dfrac{9d}{8}, 0\right)$ and radius $R = \dfrac{3d}{8}$.
-
-In particular, there are two points aligned with loads where the potential is zero (points A and B in the
-Figure 4), located with respect to $q_1$ in
-
-$$x_A = \frac{9d}{8} - \frac{3d}{8} = \frac{3d}{4} \qquad\text{y}\qquad x_B = \frac{9d}{8} + \frac{3d}{8} = \frac{3d}{2}$$
-
-Figure 3
-Figure 4
-36 Spanish Olympics in Physics
-The following is the list of the categories of products:
-e)
-Please note that, with the numerical data in this section, $Q_1/Q_2 = -3$, so that we continue with the
-the same electrostatic distribution as in the previous paragraphs. In particular, point A of the
-enunciado está situado a una distancia $x_A = 3\ \text{cm} = 3d/4$ de $Q_1$, en el que acabamos de ver que el
-The potential is zero. This can be numerically verified immediately.
-
-$$V_t = V_1 + V_2 = 9\cdot10^9\left(\frac{6\cdot10^{-6}}{3\cdot10^{-2}} + \frac{-2\cdot10^{-6}}{10^{-2}}\right) = 0$$
-
-The electrostatic field created by the two charges in A is
-
-$$\vec{E}_t = \vec{E}_1 + \vec{E}_2$$
-
-The vectors $\vec{E}_1$ and $\vec{E}_2$ have the same direction and direction
-so $\vec{E}_t$ is directed from the positive charge to the negative charge
-(see figure 5). Your module is
-
-$$E_t = E_1 + E_2 = 9\cdot10^9\left(\frac{6\cdot10^{-6}}{9\cdot10^{-4}} + \frac{2\cdot10^{-6}}{10^{-4}}\right) = 2{,}4\cdot10^8\ \text{N/C}$$
-
-f)
-The force lines created by these two point loads are those in figure 1 of the statement.
-
-Figure 5
-
 
 <!--fig:start-->
 ![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p9_f4.png]]
@@ -1385,8 +1128,113 @@ Figure 5
 *Sistema coordinate potenziale nullo (Figura 4)*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1JYsFZ8q7JfUgiMR89Ud1kkukswesUpqf/view)
+<div class="qlang-split" data-lang="en"></div>
+
+P3. Electrostatic field lines
+An electrostatic field can be represented graphically by its force lines (or field lines).
+The number of lines that "originate" or "terminate" at a charge is proportional to the magnitude of that charge. (The mathematical expression of this concept constitutes Gauss's theorem.) The electric field at each point is tangent to the field line passing through that point, and its magnitude is proportional to the density of lines (number of lines per unit area) in its vicinity.
+
+In Figure 1, the field lines describing the electrostatic field generated by two point charges, $q_1$ and $q_2$, separated by a distance $d$, are shown.
+
+a)
+Justify the sign of each charge.
+
+b)
+What is their relative magnitude, $q_1/q_2$?
+
+c)
+With the greatest possible precision, explain at which point or points in the plane of Figure 1 the electrostatic field $\vec{E}$ created by both charges is zero.
+
+d)
+Determine at which point or points in the plane of Figure 1 the electrostatic potential created by the two charges is zero.
+
+Now consider the distribution of point charges shown in Figure 2, with $Q_1 = 6\ \mu\text{C}$, $Q_2 = -2\ \mu\text{C}$ and $d = 4\ \text{cm}$.
+
+e)
+Calculate the electrostatic potential, $V$, and the electric field, $\vec{E}$, at point A in Figure 2, located 3 cm from $Q_1$ and 1 cm from $Q_2$.
+
+f)
+Draw the field lines for this charge distribution.
+
+Data: $K = \dfrac{1}{4\pi\epsilon_0} = 9\cdot10^9\ \text{N m}^2/\text{C}^2$
+
+1 This problem was proposed in the Aragón Phase of the 21st Spanish Physics Olympiad (2010) and is inspired by one presented at the II IBOF in Oaxtepec (Mexico) in 1997.
+
+A d
+Figure 2
+Figure 1
+
+36th SPANISH PHYSICS OLYMPIAD
+ARAGÓN PHASE
+Solution P3
+
+a)
+Field lines "originate" at positive charges (or from infinity) and "terminate" at negative charges (or at infinity). From Figure 1, we deduce that charge $q_1$ is positive and charge $q_2$ is negative.
+
+b)
+The number of field lines originating from or terminating at a charge is proportional to the magnitude of that charge. In Figure 1, we observe that 24 lines emerge from $q_1$ and 8 lines arrive at $q_2$. Therefore,
+
+$$\frac{q_1}{q_2} = -3 \quad (1)$$
+
+c)
+For the total field $\vec{E}_t = \vec{E}_1 + \vec{E}_2$ created by both charges to be zero, either $E_1 = E_2 = 0$ must hold (which occurs at points infinitely far from the charges), or else $\vec{E}_1 = -\vec{E}_2$. In the latter case, both vectors have equal magnitude, the same direction, and opposite senses. Therefore, since $q_1 > q_2$, $\vec{E}$ can only cancel at a point such as P in Figure 3, aligned with the charges and farther from charge 1 than from charge 2. The equality of magnitudes of the two fields requires that
+
+$$K\frac{q_1}{r_1^2} = K\frac{|q_2|}{r_2^2} \quad\to\quad \frac{3}{(d + r_2)^2} = \frac{1}{r_2^2}$$
+
+After performing the algebra, we find that the distance $r_2$ between $q_2$ and point P is
+
+$$r_2 = \frac{1 + \sqrt{3}}{2}\,d = 1{,}366\,d$$
+
+d) For the total potential $V_t = V_1 + V_2$ created by both charges to be zero, either $V_1 = V_2 = 0$ must hold—this occurs at points infinitely far from the charges—or else $V_1 = -V_2$.
+
+Taking (1) into account, and using the notation from Figure 4, for the potential at point P(x, y) to be zero it must hold that
+
+$$K\frac{q_1}{r_1} = K\frac{|q_2|}{r_2} \quad\Rightarrow\quad \frac{3}{\sqrt{x^2 + y^2}} = \frac{1}{\sqrt{(d - x)^2 + y^2}}$$
+
+Squaring both sides and expanding yields the expression
+
+$$\left(x - \frac{9}{8}d\right)^2 + y^2 = \left(\frac{3d}{8}\right)^2$$
+
+which is the equation of a circle with center $C\left(\dfrac{9d}{8}, 0\right)$ and radius $R = \dfrac{3d}{8}$.
+
+In particular, there are two points aligned with the charges at which the potential is zero (points A and B in Figure 4), located relative to $q_1$ as
+
+$$x_A = \frac{9d}{8} - \frac{3d}{8} = \frac{3d}{4} \qquad\text{y}\qquad x_B = \frac{9d}{8} + \frac{3d}{8} = \frac{3d}{2}$$
+
+Figure 3
+Figure 4
+36 SPANISH PHYSICS OLYMPIAD
+ARAGON REGIONAL ROUND
+
+e) Note that, with the numerical values given in this section, $Q_1/Q_2 = -3$, so we maintain the same electrostatic distribution as in previous parts. In particular, point A indicated in the statement lies at a distance $x_A = 3\ \text{cm} = 3d/4$ from $Q_1$, where we have just seen that the potential is zero. This can be immediately verified numerically:
+
+$$V_t = V_1 + V_2 = 9\cdot10^9\left(\frac{6\cdot10^{-6}}{3\cdot10^{-2}} + \frac{-2\cdot10^{-6}}{10^{-2}}\right) = 0$$
+
+The electrostatic field created by the two charges at point A is
+
+$$\vec{E}_t = \vec{E}_1 + \vec{E}_2$$
+
+Vectors $\vec{E}_1$ and $\vec{E}_2$ have the same direction and sense, so $\vec{E}_t$ points from the positive to the negative charge (see Figure 5). Its magnitude is
+
+$$E_t = E_1 + E_2 = 9\cdot10^9\left(\frac{6\cdot10^{-6}}{9\cdot10^{-4}} + \frac{2\cdot10^{-6}}{10^{-4}}\right) = 2{,}4\cdot10^8\ \text{N/C}$$
+
+f) The field lines generated by these two point charges are those shown in Figure 1 of the statement.
+
+Figure 5
+
+<!--fig:start-->
+![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p9_f4.png]]
+*Electrostatic field lines due to two charges (Figure 1)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p9_f5.png]]
+*Positions of charges Q1, Q2 and point A (Figure 2)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p10_f6.png]]
+*Point P where the electric field is zero between the charges (Figure 3)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2025 36 OAF 2025 PRUEBA TEORICA/2025 36 OAF 2025 PRUEBA TEORICA_p10_f7.png]]
+*Coordinate system for zero potential (Figure 4)*
+<!--fig:end-->

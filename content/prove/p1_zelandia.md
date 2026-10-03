@@ -62,24 +62,18 @@ Da una nave si appende una corda alla cui estremità immersa c'è uno scandalo d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**P1. The following information is provided by the Commission:
+**P1. Zealandia** (general context)
 
-In 2017, a team of geologists demonstrated that there is another continent under the waters of the Pacific. It's about Zealand. 94% of its surface is submerged in the ocean, with only the islands of New Zealand and New Caledonia, its highest mountains, topping it. Zealand is bounded by Australia to the north and Antarctica to the south, has an elongated shape and is ten times larger than Spain. About a hundred million years ago, it began to detach itself from the vast continental mass to which it belonged. Her crust stretched and shrunk, like the mass of a pizza, until it was submerged.
+In 2017, a team of geologists demonstrated that another continent lies beneath the waters of the Pacific Ocean. This is Zealandia. 94% of its surface lies submerged in the ocean, with only the islands of New Zealand and New Caledonia visible—these being its highest mountain ranges. Zealandia is connected to Australia in the north and to Antarctica in the south, has an elongated shape, and is ten times larger than Spain. Around a hundred million years ago, it began to break away from the large continental mass it once belonged to. Its crust stretched and thinned, like a pizza dough, until it became fully submerged.
 
-The study of the sea's depths is called batymetry. The first batymetric techniques consisted of unleashing a rope with a weight, called scandal, from the side of a ship until it touched the bottom.
+The study of ocean depths is called bathymetry. The earliest bathymetric techniques involved lowering from the side of a ship a rope with a weight, called an **anchor**, until it touched the seafloor.
 
-A ship is suspended by a rope with a lead scandal at the bottom of it. Knowing that the density of lead is 11 times greater than the density of seawater, calculate the tension of the rope based on the weight of the scandal.
+**(a)** From a ship hangs a rope with a lead weight (the anchor) at its submerged end, which has not yet touched the seafloor. Given that the density of lead is 11 times greater than that of seawater, calculate the tension in the rope as a function of the weight of the anchor.
 
 <!--fig:start-->
 ![[_attachments/P1_Zelandia/P1_Zelandia_p1_f1.png]]
-*Map of the mainland Zealand*
+*Map of the Zealandia continent*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ZJf6H5LIPMvAFWXK7a1NUe_x4tex2-gB/view)
 
 
 

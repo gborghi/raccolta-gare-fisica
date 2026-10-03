@@ -84,66 +84,60 @@ L'attrito dinamico fra il filo e la superficie della bacchetta cilindrica è tra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**A pendulum with a weight falling **
+**A falling-weight pendulum**
 
-A cylindrical rod of radius $R$ shall be held horizontally, high above the ground. A small mass body $m$ is suspended from the top of the cylinder, $A$, with a slender mass wire and length $L$ ($L > 2\pi R$), as shown in Figure 1a. The body is raised to the level of $A$ and then dropped, like a pendulum, from the stillness while the wire is stretched. Trace any stretch of the wire. Assume that the body can be treated as a material point and that it only oscillates in an orthogonal plane to the cylinder's axis. Per queste ragioni chiameremo *particella* il corpo. The gravitational acceleration is $g$.
+A cylindrical rod of radius $R$ is held horizontally, high above the ground. A small body of mass $m$ is suspended from the highest point of the cylinder, $A$, by a massless string of length $L$ ($L > 2\pi R$), as shown in Figure 1a. The body is raised up to the level of $A$ and then released from rest, falling like a pendulum while the string remains taut. Neglect any stretching of the string. Assume that the body may be treated as a point mass and that it oscillates only in a plane perpendicular to the axis of the cylinder. For these reasons, we shall refer to the body as a *particle*. Let the acceleration due to gravity be $g$.
 
-Poniamo in $O$ l'origine di un sistema di coordinate. When the particle is at $P$ the wire is tangent in $Q$ to the surface of the cylinder. The length of the segment $QP$ shall be $s$. The tangent and radial flow rates in $Q$ are $\hat{t}$ and $\hat{r}$ respectively. The angle deviation $\theta$ of the radius $OQ$ shall be considered positive if measured clockwise from the vertical $x$ axis along $OA$.
+Let us place the origin at $O$. When the particle is located at point $P$, the string is tangent to the cylinder's surface at point $Q$. Let $s$ denote the length of segment $QP$. Let $\hat{t}$ and $\hat{r}$ be the tangent and radial unit vectors, respectively, at point $Q$. The angular deviation $\theta$ of radius $OQ$ is considered positive when measured counterclockwise from the vertical axis $x$ along $OA$.
 
-When $\theta = 0$ the length $s$ is equal to $L$ and the gravitational potential energy $U$ of the particle is set to zero. When the particle moves, we indicate with $\dot{\theta}$ and $\dot{s}$ the time derivatives of $\theta$ and $s$ respectively.
+When $\theta = 0$ the length $s$ equals $L$ and the gravitational potential energy $U$ of the particle is set to zero. As the particle moves, denote by $\dot{\theta}$ and $\dot{s}$ respectively the time derivatives of $\theta$ and $s$.
 
-Unless otherwise specified, all speeds and their modules shall be referred to the fixed point $O$.
+Unless otherwise explicitly stated, all velocities and their magnitudes are referred to the fixed point $O$.
 
-## Part A
+### Part A
 
-In Part A, the wire is always stretched during the motion of the particle. Find, according to the quantities defined above (i.e. $s$, $\theta$, $\dot{\theta}$, $\dot{s}$, $R$, $L$, $g$, $\hat{t}$ and $\hat{r}$):
+In part A, the string remains taut throughout the motion of the particle. Find, in terms of the quantities defined previously (i.e., $s$, $\theta$, $\dot{\theta}$, $\dot{s}$, $R$, $L$, $g$, $\hat{t}$ and $\hat{r}$):
 
-**(a)** La relazione fra $\dot{s}$ e $\dot{\theta}$. The following points shall be added:
+**(a)** The relation between $\dot{s}$ and $\dot{\theta}$. [0.5 points]
 
-**(b) ** The speed $v_Q$ of the moving point $Q$ with respect to $O$. The following points shall be added:
+**(b)** The velocity $v_Q$ of the moving point $Q$ relative to $O$. [0.5 points]
 
-**(c) ** The speed $v'$ of the particle when it is in $P$, relative to the movable point $Q$. The following points shall be added:
+**(c)** The velocity $v'$ of the particle when it is located at $P$, relative to the moving point $Q$. [0.7 points]
 
-**(d) ** The $v$ speed of the particle when it is in $P$, relative to the $O$ point. The following points shall be added:
+**(d)** The velocity $v$ of the particle when it is located at $P$, relative to the point $O$. [0.7 points]
 
-**(e) ** The long component $\hat{t}$ of the *acceleration * of the particle when it is in $P$, relative to the $O$ point. The following points shall be added:
+**(e)** The component along $\hat{t}$ of the *acceleration* of the particle when it is located at $P$, relative to the point $O$. [0.7 points]
 
-**(f) ** The gravitational potential energy $U$ of the particle when it is in $P$. The following points shall be added:
+**(f)** The gravitational potential energy $U$ of the particle when it is located at $P$. [0.5 points]
 
-**(g) ** The $v_m$ modulation of the particle velocity at the lowest point of its trajectory. The following points shall be added:
+**(g)** The magnitude $v_m$ of the velocity of the particle at the lowest point of its trajectory. [0.7 points]
 
 ### Part B
 
-In Part B, the ratio between $L$ and $R$ shall be:
+In part B, the ratio between $L$ and $R$ is:
 
 $$\frac{L}{R} = \frac{9\pi}{8} + \frac{2}{3}\cot\frac{\pi}{16} = 3{,}534 + 3{,}352 = 6{,}886$$
 
-**(h) ** What is the $v_s$ modulation of particle velocity in the position where the wire length between $Q$ and $P$ is still straight but $s$ has the minimum value? (expressed in terms of $g$ and $R$) [2,4 points]
+**(h)** What is the magnitude $v_s$ of the velocity of the particle at the position for which the segment of string between $Q$ and $P$ is still straight but $s$ has its minimum value? (Express it in terms of $g$ and $R$) [2.4 points]
 
-**(i) ** What is the $v_H$ modulation of the particle velocity at the highest point $H$ it reaches after oscillating from the other side of the rod relative to the starting point? (expressed in terms of $g$ and $R$) [1,9 points]
+**(i)** What is the magnitude $v_H$ of the velocity of the particle at the highest point $H$ it reaches after oscillating to the other side of the rod relative to the starting point? (Express it in terms of $g$ and $R$) [1.9 points]
 
 ### Part C
 
-In Part C, the mass pendulum $m$, instead of being suspended in $A$, is connected, by a wire passing over the rod, to another mass body $M > m$, as shown in Figure 1b. This second body can also be treated as a particle.
+In part C, the pendulum of mass $m$, instead of being suspended from $A$, is connected via a string passing over the rod to another body of mass $M > m$, as shown in Figure 1b. This second body may also be treated as a point mass.
 
-Initially the pendulum shall be held at the same level as $A$ so that when the mass weight $M$ is below the level of $O$, the wire is stretched with a horizontal length $L$. Then the pendulum is released from the stillness and the weight begins to fall. Suppose the pendulum remains in a vertical plane and can swing freely beyond the weight that descends, without any bumps.
+Initially, the pendulum is held at the same height as $A$ such that when the mass $M$ hangs below the level of $O$, the string is taut with a horizontal segment of length $L$. Then, the pendulum is released from rest and the mass begins to fall. Assume that the pendulum remains in a vertical plane and may freely swing past the falling mass without obstruction.
 
-The dynamic friction between the wire and the cylindrical rod surface is negligible. But it is assumed that static friction is large enough for the weight to remain stationary if, after the fall, its speed is cancelled.
+The dynamic friction between the string and the surface of the cylindrical rod is negligible. However, it is assumed that static friction is sufficiently large so that the mass remains at rest if, after falling, its velocity becomes zero.
 
-**(j)** Fai l'ipotesi che il peso si fermi effettivamente dopo essere sceso di un tratto $D$ e che $(L - D) \gg R$. If the pendulum can then rotate $\theta = 2\pi$ around the rod while both strands of wire that do not touch the rod remain straight, the ratio $\alpha = D/L$ shall not be less than a critical value $\alpha_c$. If the order of $R/L$ or higher is not met, give an estimate of $\alpha_c$ in terms of $M/m$. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**(j)** Assume that the mass actually comes to rest after descending a distance $D$ and that $(L - D) \gg R$. If under these conditions the pendulum can rotate by an angle $\theta = 2\pi$ around the rod while both segments of the string not in contact with the rod remain straight, it is found that the ratio $\alpha = D/L$ cannot be less than a critical value $\alpha_c$. Neglecting terms of order $R/L$ or higher, provide an estimate of $\alpha_c$ in terms of $M/m$. [3,4 points]
 
 <!--fig:start-->
-**p.1**  Figure 1a: pendulum with weight around the cylinder
+**p.1** — Figure 1a: pendulum with mass around the cylinder
 ![[_attachments/IPhO03 ITA TH1/IPhO03 ITA TH1_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.2**  Figure 1b: wire wrapped around the cane
+**p.2** — Figure 1b: wire wrapped around the rod
 ![[_attachments/IPhO03 ITA TH1/IPhO03 ITA TH1_p2_f2.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Pendulum (object)|Pendulum]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1k0L_LJ19tLC57TSjyEaPWOEAJx-ClPso/view)

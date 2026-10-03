@@ -145,113 +145,83 @@ Giving the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Water Jet (problema di scelta multipla)
-(cfr.
-(idea: gruppo problematico della PhysicsOlympiad - Stefan Petersen)
-Il fondo di un contenitore pieno di acqua è situato, come mostrato accanto, ad un'altezza
-di Hunten = 15 cm sopra il pavimento. Il livello di acqua nel
-contenitore è H = 50 cm.
-Un piccolo buco è ora perforato nel contenitore ad un'altezza di h sopra il fondo, in modo che un jet d'acqua versare fuori dal contenitore e inizialmente colpisce il pavimento a
-Distanza x.
-Quale dei grafici rappresenta correttamente la distanza x del punto di impatto come funzione dell'altezza h a cui il foro
-- È drilled?
-Cani
-H
-h
-x
-Fig. 1. Sketch del jet d'acqua.
+Problema 1 Getto d'acqua (problema a scelta multipla)
+(5 punti)
+(Idea: gruppo di problemi della Olimpiade Internazionale di Fisica - Stefan Petersen)
+La base di un contenitore riempito d'acqua si trova, come mostrato accanto, a un'altezza Hunten = 15 cm dal pavimento. Il livello dell'acqua nel contenitore è H = 50 cm.
+Ora viene praticato un piccolo foro nel contenitore a un'altezza h sopra la base, in modo che un getto d'acqua esca dal contenitore e colpisca inizialmente il pavimento a una distanza x.
+Quale dei grafici rappresenta correttamente la distanza x del punto di impatto in funzione dell'altezza h a cui è stato praticato il foro?
+
+Hunten
+H  h  x
+Fig. 1. Schizzo del getto d'acqua.
+
 A
 0
 0
-H
-x
-h
+H  x  h
+
 B
 0
 0
-H
-x
-h
+H  x  h
+
 C
 0
 0
-H
-x
-h
+H  x  h
+
 D
 0
 0
-H
-x
-h
+H  x  h
+
 Soluzione
 Calcoli e spiegazioni
-Il jet d'acqua esce sempre orizzontalmente dal buco. La velocità di uscita v del
-Water jet dipende dal livello dell'acqua sopra il buco. Indicare $\rho$
-54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
-3 / 27
-la densità dell'acqua. Quindi, usando l'equazione di Bernoulli,
-$\rho$ g (H $-h$) = 1
-2 $\rho$ v 2
-or
-v =
-p
-2 g (H $-h$) .
+Il getto d'acqua esce sempre orizzontalmente dal foro. La velocità di uscita v del getto d'acqua dipende dal livello dell'acqua sopra il foro. Sia $\rho$ la densità dell'acqua. Allora, utilizzando l'equazione di Bernoulli,
+$\rho$ g (H $-h$) = 1/2 $\rho$ v² oppure v = √[2 g (H $-h$)].
 (1.1)
-The water jet strikes the floor at a distance x = v t, where t is the time for the free
-- "Fall from the height Hunten + h". Per questo abbiamo
-Cani + h = 1
-2 g t2
-or
-t =
-s
-2 (cinnoni + h)
-g
-.
+
+Il getto d'acqua colpisce il pavimento a una distanza x = v t, dove t è il tempo di caduta libera dall'altezza Hunten + h. Per questo si ha
+Hunten + h = 1/2 g t² oppure t = √[2 (Hunten + h)/g].
 (1.2)
-Da questo finalmente otteniamo per la distanza x del punto di impatto
-x = v t = 2
-p
-(H $-h$) (inferiore + h)
+
+Da questo si ottiene infine per la distanza x del punto di impatto
+x = v t = 2 √[(H $-h$) (Hunten + h)].
 (1.3)
-With $h'$ := h + Hunten this expression can be rewritten as
-x = 2
-p
-(H + buca $-h'$) $h'$ = 2
-s
-(H + le mani) 2
-4
-$-$
-H + cani
+
+Con $h'$ := h + Hunten questa espressione può essere riscritta come
+x = 2 √[(H + Hunten $-h'$) $h'$] = 2 √[(H + Hunten)²/4 $-$]
+H + Hunten
 2
 $-h'$
 2
 .
 (1.4)
-The expression under the square root is a quadratic function in $h'$, which becomes maximal for $h'$ = H+hunt
-2
-.
-Il range massimo del jet d'acqua è quindi raggiunto quando il buco è situato a
-metà dell'altezza totale H + Hunt, cioè, a circa h = H/3. Questo è il caso solo per grafico C.
-Corretta risposta: C
-Nota: Le opzioni di risposta B e D derivano dalle equazioni derivate per il
-special cases Hunten = H e Hunten = 0, rispettivamente. Risposta opzione A non rappresenta una soluzione fisica.
-Schema di marcatura - Water Jet (problema di scelta multipla)
+
+L'espressione sotto la radice quadrata è una funzione quadratica in $h'$, che raggiunge il massimo per $h'$ = H+Hunten
+2.
+
+La gittata massima del getto d'acqua si ottiene quindi quando il foro è posizionato a metà dell'altezza totale H + Hunten, ovvero circa per h = H/3. Questo è il caso solo del grafico C.
+Risposta corretta: C
+
+Osservazione: Le risposte B e D derivano dalle equazioni ottenute nei casi particolari Hunten = H e Hunten = 0, rispettivamente. La risposta A non rappresenta una soluzione fisica.
+
+Criterio di valutazione - Getto d'acqua (problema a scelta multipla)
 Punti
 1
-Riconoscendo che la velocità di uscita dipende dal livello dell'acqua sopra il buco
-e dando un'espressione per la velocità
+Riconoscere che la velocità di uscita dipende dal livello dell'acqua sopra il foro e fornire un'espressione per la velocità
 1.0
-Examining the free fall and giving the fall time (esaminare la caduta libera e dare il tempo della caduta)
+Analizzare il moto di caduta libera e fornire il tempo di caduta
 1.0
-Deriving an expression for the distance of the impact point
+Derivare un'espressione per la distanza del punto di impatto
 1.0
-Giving the correct solution
+Fornire la soluzione corretta
 2.0
 5.0
-54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
-4 / 27
 
+54ª Olimpiade Fisica Internazionale 2024 - Prova del secondo turno - Soluzione - 01.12.2023
+4 / 27
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p2_f1.png]]
@@ -259,124 +229,92 @@ Giving the correct solution
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p2_f2.png]]
-*Grafiche H vs x (a scelta A-D) *
+*Graphs H vs x (choices A-D)*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is that the water jet is a multiple choice problem.
-(five points)
-(Idea: Problem group of the PhysicsOlympic - Stefan Petersen)
-The bottom of a container filled with water is located, as shown alongside, at a height
-of Hunten = 15 cm above the floor. The water level in the
-container is H = 50 cm.
-A small hole is now drilled into the container at a height h above the bottom, so that a water jet pours out of the container and initially strikes the floor at a
-distance x.
-Which of the graphs correctly represents the distance x of the impact point as a function of the height h at which the hole is located.
-Is drilled?
-Hunting
-H
-h
-x
+Problem 1 Water Jet (multiple-choice problem)
+(5 pts.)
+(Idea: Problem group of the PhysicsOlympiad - Stefan Petersen)
+
+The bottom of a container filled with water is located, as shown alongside, at a height of Hunten = 15 cm above the floor. The water level in the container is H = 50 cm.
+A small hole is now drilled into the container at a height h above the bottom, so that a water jet pours out of the container and initially strikes the floor at a distance x.
+Which of the graphs correctly represents the distance x of the impact point as a function of the height h at which the hole is drilled?
+
+Hunten
+H  h  x
 Fig. 1. Sketch of the water jet.
+
 A
 0
 0
-H
-x
-h
+H x h
+
 B
 0
 0
-H
-x
-h
+H x h
+
 C
 0
 0
-H
-x
-h
+H x h
+
 D
 0
 0
-H
-x
-h
-The solution
+H x h
+
+Solution
 Calculations and explanations
-The water jet always exits horizontally from the hole. The exit velocity v of the
-Water jet depends on the water level above the hole. Let $\rho$ indicate
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-3 / 27
-the density of the water. Then, using Bernoulli's equation,
-$\rho$ g (H $-h$) = 1
-2 $\rho$ v 2
-or
-v =
-p
-2 g (H $-h$) .
+
+The water jet always exits horizontally from the hole. The exit velocity v of the water jet depends on the water level above the hole. Let $\rho$ denote
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
+3 / 27 the density of the water. Then, using Bernoulli's equation,
+$\rho$ g (H $-h$) = 1/2 $\rho$ v² or v = √[2 g (H $-h$)].
 (1.1)
-The water jet strikes the floor at a distance x = v t, where t is the time for the free
-fall from the height Hunten + h. For this we have
-Hunting + h = 1
-2 g t2
-or
-t =
-s
-2 (hounds + h)
-g
-.
+
+The water jet strikes the floor at a distance x = v t, where t is the time for the free fall from the height Hunten + h. For this we have
+Hunten + h = 1/2 g t² or t = √[2 (Hunten + h)/g].
 (1.2)
+
 From this we finally obtain for the distance x of the impact point
-x = v t = 2
-p
-(H $-h$) (below + h)
+x = v t = 2 √[(H $-h$) (Hunten + h)].
 (1.3)
-With $h'$:= h + Hunten this expression can be rewritten as
-x = 2
-p
-(H + Hunting $-h'$) $h'$ = 2
-s
-(H + Hunting) 2
-4
-$-$
-H + Hunting
+
+With $h'$ := h + Hunten this expression can be rewritten as
+x = 2 √[(H + Hunten $-h'$) $h'$] = 2 √[(H + Hunten)²/4 $-$]
+H + Hunten
 2
 $-h'$
 2
 .
 (1.4)
-The expression under the square root is a quadratic function in $h'$, which becomes maximal for $h'$ = H+hunt
-2
-.
-The maximum range of the water jet is therefore reached when the hole is located at
-half of the total height H + Hunten, that is, at about h = H/3. This is the case only for graph C.
+
+The expression under the square root is a quadratic function in $h'$, which reaches its maximum when $h'$ = H + Hunten
+2.
+
+Therefore, the maximum range of the water jet is achieved when the hole is located at half the total height H + Hunten, i.e., approximately at h = H/3. This corresponds only to graph C.
 Correct answer: C
-Note: The answer options B and D arise from the derived equations for the
-The following is the list of the types of products used: Answer option A does not represent a physical solution.
-The following information is provided by the Commission in the field of information technology:
+
+Remark: Answer options B and D result from the derived equations in the special cases Hunten = H and Hunten = 0, respectively. Answer option A does not correspond to a physical solution.
+
+Marking scheme – Water Jet (multiple-choice problem)
 Points
 1
-Recognizing that the exit velocity depends on the water level above the hole
-And giving an expression for the velocity
+Recognizing that the exit velocity depends on the water level above the hole and providing an expression for the velocity
 1.0
-Examining the free fall and giving the fall time
+Examining free fall and giving the fall time
 1.0
 Deriving an expression for the distance of the impact point
 1.0
-Giving the correct solution
+Providing the correct solution
 2.0
 5.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-4 / 27
 
+54th IPhO 2024 – 2nd Round Exam – Solution – 01.12.2023
+4 / 27
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p2_f1.png]]
@@ -384,14 +322,8 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p2_f2.png]]
-The following table shows the results of the calculation of the total number of samples:
+*Graphs H vs x (choices A–D)*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
 
 
 
@@ -506,211 +438,161 @@ myopic eye from a photo. Physics Education, 54(6), doi.org/10.1088/1361-6552/ab3
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 2 Two Pictures (problema di scelta multipla)
-A photo of a beautiful drinking bottle is taken with a phone camera; the bottle is located at a distance of about 35 cm from the camera. In foto, sullo sfondo, che è circa
-A 5,8 metri, sembra confuso. Se un obiettivo viene ora posto direttamente davanti alla fotocamera, il fondo appare nitidamente attraverso il obiettivo nella foto.
-Fig. 2. Foto del biberone senza (sinistra) e con (destra) la lente. La lente può essere riconosciuta dal suo bordo ed è situata nella parte sinistra della foto a destra.
+Problema 2 Due immagini (problema a scelta multipla)
+Una foto di un bellissimo bicchiere da bevande viene scattata con la fotocamera dello smartphone; il bicchiere si trova a circa 35 cm dalla telecamera. Nella foto, lo sfondo, che si trova a circa 5,8 m di distanza, appare sfocato. Se ora viene posizionata una lente direttamente davanti alla telecamera, nello scatto la sfocatura dello sfondo scompare e lo sfondo appare nitido attraverso la lente.
+
+Fig. 2. Immagini del bicchiere da bevande senza (sinistra) e con (destra) la lente. La lente è riconoscibile dal suo bordo ed è posizionata nella parte sinistra della foto a destra.
+
 Qual è la lunghezza focale della lente?
-Nota: le lunghezze focali positive indicano lenti convergenti e quelle negative divergenti.
-A
-circa $-35$ cm
-B
-circa $-18$ cm
-C
-circa 35 cm
-D
-circa 58 cm
+Nota: Le lunghezze focali positive indicano lenti convergenti e quelle negative lenti divergenti.
+
+A circa $-35$ cm
+B circa $-18$ cm
+C circa 35 cm
+D circa 58 cm
+
 Soluzione
 Calcoli e spiegazioni
-In entrambi i quadri, la scrittura sulla bottiglia è acuta. In entrambi i casi la fotocamera è quindi focalizzata su di esso e quindi su una distanza di circa 35 cm.
-Per l'immaginamento della bottiglia, assumendo un thin camera lens, l'equazione di imaging contiene
-1
-f = 1
-b + 1
-g ,
-(2.1)
-dove f è la distanza focale del lente della fotocamera, b l'inconosciuta distanza dell'immagine della fotocamera
-e g = 35 cm indica la distanza della bottiglia dalla fotocamera.
-Denote the focal length of the additional lens by f $'$. Quando la lente è collocata direttamente di fronte alla fotocamera, i poteri refrattivi delle lenti aggiungono una buona approssimazione, e la distanza focale totale
-di the two lenses together è (1
-f + 1
-f $' )-1$. Per l'immaginaggio con l'obiettivo, quindi, con il
-54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
-5 / 27
-Distanza $g'$ = 5,8 m al fondo, l'equazione di imaging sostiene
+In entrambe le immagini il testo sul bicchiere è nitido. In entrambi i casi quindi la telecamera è a fuoco su di esso e dunque su una distanza di circa 35 cm.
+Per l’immagine del bicchiere, assumendo una lente sottile della telecamera, vale l’equazione dell’immagine
+1/f = 1/b + 1/g, (2.1)
+dove f è la lunghezza focale della lente della telecamera, b la distanza immagine incognita prodotta dall’immagine della telecamera e g = 35 cm indica la distanza del bicchiere dalla telecamera.
+Indichiamo con f $'$ la lunghezza focale della lente aggiuntiva. Quando la lente è posizionata direttamente davanti alla macchina fotografica, le potenze diottriche delle lenti si sommano approssimativamente, e la lunghezza focale totale delle due lenti insieme è ( 1 f + 1 f $' )-1$. Per l'immagine formata con la lente, quindi, con la distanza $g'$ = 5,8 m dallo sfondo, vale l'equazione dell'immagine
 1
 1
-1
-f + 1
-f $'$
-= 1
-f + 1
-f $'$ = 1
-b + 1
+1 f + 1 f $'$
+= 1 f + 1 f $'$ = 1 b + 1
 $g'$ .
 (2.2)
-Il punto decisivo è che, poiché il focus della fotocamera è invariato, la distanza dell'immagine è la stessa del caso senza l'obiettivo. Solving (2.1) for 1/b and substituting into the above equation gives
-per la ricerca di focal length del lente
-f $'$ =
-g $g'$
-g $-g' \approx-37$ cm .
+Il punto cruciale è che, poiché la messa a fuoco della macchina fotografica non cambia, la distanza immagine è la stessa del caso senza lente. Risolvendo (2.1) rispetto a 1/b e sostituendolo nell'equazione precedente si ottiene per la lunghezza focale cercata della lente f $'$ = g $g'$ g $-g' \approx-37$ cm .
 (2.3)
-Così solo risposta A è possibile.
-In alternativa, la distanza focale può anche essere determinata senza calcolo con il seguente ragionamento:
-Se il fondo può essere visto in modo acuto attraverso la lente, deve apparire alla fotocamera attraverso la lente alla stessa distanza della bottiglia. La macchina appare quindi a (virtual)
-immagine dello sfondo che si trova circa 35 cm dietro la lente sul lato dell'oggetto. Quindi la lente deve essere una lente divergente.
-Poiché lo sfondo è lontano, a quasi sei metri, l'immagine dello sfondo si forma in una buona approssimazione nel piano focale. La distanza focale f $'$ è quindi pari alla distanza dell'immagine e quantità di
-f $' \approx-35$ cm .
-(2.4)
-Risposta corretta: A
-Un obiettivo convergente può anche produrre un'immagine virtuale se la distanza dell'oggetto è inferiore alla distanza focale.
-Quindi la distanza dell'immagine, come per esempio con un bicchiere ingranditore, è sempre maggiore in magnitudo rispetto alla distanza dell'oggetto,
-che non è il caso qui.
-Schema di marcatura - Due immagini (problema di scelta multipla)
-Punti
-2
-Formulare l'equazione di imaging per l'imaging con la macchina fotografica
-1.0
-Usando la combinazione di due lenti vicine
-1.0
-Usando che le distanze dell'immagine sono identiche in entrambi i casi
-1.0
-Stating the correct solution
-2.0
-5.0
-Schema di marcatura alternativa
-Schema di marcatura - Due immagini (problema di scelta multipla)
-Punti
-2
-Riconoscendo che la fotocamera è focalizzata sulla distanza della bottiglia
-1.0
-Riconoscendo che l'immagine dello sfondo deve essere alla stessa distanza
-1.0
-Usando che l'immagine si forma nel piano focale per le grandi distanze di oggetti
-1.0
-Stating the correct solution
-2.0
-5.0
-Nota: L'idea del problema va indietro al seguente articolo: Ruiz, M. J. (2019). Dioptres per a
-occhio miope da una foto. La Commissione ha adottato una proposta di direttiva che modifica la direttiva del Consiglio relativa alla protezione dei consumatori.
-54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
-6 / 27
+Pertanto, solo la risposta A è possibile.
 
+In alternativa, la lunghezza focale può essere determinata anche senza calcoli mediante il seguente ragionamento:
+Se lo sfondo è visibile nitidamente attraverso la lente, deve apparire alla macchina fotografica attraverso la lente alla stessa distanza della bottiglia. La macchina quindi vede un'immagine (virtuale) dello sfondo che si trova a circa 35 cm dietro la lente, sul lato oggetto. La lente deve quindi essere una lente divergente.
+Poiché lo sfondo è molto lontano, a circa sei metri, l'immagine dello sfondo si forma approssimativamente nel piano focale. La lunghezza focale f $'$ è quindi uguale alla distanza immagine e vale f $' \approx-35$ cm .
+(2.4)
+Risposta corretta: A Un obiettivo convergente può produrre anche un'immagine virtuale se la distanza oggetto è minore della lunghezza focale.
+In tal caso, la distanza immagine, come accade ad esempio con una lente d'ingrandimento, è sempre maggiore in modulo rispetto alla distanza oggetto, il che non avviene qui.
+
+Criterio di valutazione - Due immagini (problema a scelta multipla)
+Punti
+2
+Formulazione dell'equazione di formazione dell'immagine per l'imaging con la macchina fotografica
+1,0
+Utilizzo del sistema di due lenti vicine
+1,0
+Utilizzo del fatto che le distanze immagine sono uguali nei due casi
+1,0
+Affermazione della soluzione corretta
+2,0
+5,0
+
+Criterio di valutazione alternativo
+Criterio di valutazione - Due immagini (problema a scelta multipla)
+Punti
+2
+Riconoscimento che la macchina fotografica è a fuoco alla distanza della bottiglia
+1,0
+Riconoscimento che l'immagine del fondo deve trovarsi alla stessa distanza
+1,0
+Utilizzo del fatto che l'immagine si forma nel piano focale per grandi distanze oggetto
+1,0
+Affermazione della soluzione corretta
+2,0
+5,0
+
+Osservazione: L'idea del problema risale all'articolo seguente: Ruiz, M. J. (2019). Diopters for a myopic eye from a photo. Physics Education, 54(6), doi.org/10.1088/1361-6552/ab3c0d.
+54ª Olimpiade Fisica Internazionale 2024 - Prova seconda fase - Soluzione - 01.12.2023
+6 / 27
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p4_f3.png]]
 *Two photos of the bottle with lens effect*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
-
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 2 Two Pictures (multiple choice problem)
-A photo of a beautiful drinking bottle is taken with a phone camera; the bottle is located at a distance of about 35 cm from the camera. In the photo, the background, which is about
-5.8 m away, appears blurred. If a lens is now placed directly in front of the camera, the background appears sharp through the lens in the photo.
-Fig. 2. Photos of the drinking bottle without (left) and with (right) the lens. The lens can be recognized by its rim and is located in the left part of the right-hand photo.
+Problem 2 Two Pictures (multiple-choice problem)
+A photograph of a beautiful drinking bottle is taken with a smartphone camera; the bottle is located approximately 35 cm from the camera. In the photograph, the background, which is about
+5.8 m away, appears blurred. When a lens is now placed directly in front of the camera, the background appears sharp through the lens in the photograph.
+
+Fig. 2. Photographs of the drinking bottle without (left) and with (right) the lens. The lens is recognizable by its rim and is located in the left part of the right-hand photo.
+
 What is the focal length of the lens?
 Note: Positive focal lengths denote converging lenses and negative ones diverging lenses.
-A
-about $-35$ cm
-B
-about $-18$ cm
-C
-about 35 cm
-D
-about 58 cm
-The solution
+A about $-35$ cm
+B about $-18$ cm
+C about 35 cm
+D about 58 cm
+
+Solution
 Calculations and explanations
-In both pictures the writing on the bottle is sharp. In both cases the camera is therefore focused on it and thus on a distance of about 35 cm.
-For the imaging of the bottle, assuming a thin camera lens, the imaging equation holds
-1
-f = 1
-b + 1
-g ,
-(2.1)
-where f is the focal length of the camera lens, b the unknown image distance of the imaging by the camera
-and g = 35 cm denotes the distance of the bottle from the camera.
-Denote the focal length of the additional lens by f $'$. When the lens is placed directly in front of the camera, the refractive powers of the lenses add to a good approximation, and the total focal length
-of the two lenses together is (1
-f + 1
-f $' )-1$. For the imaging with the lens, therefore, with the
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-5 / 27
-distance $g'$ = 5.8 m to the background, the imaging equation holds
-1
-1
-1
-f + 1
-f $'$
-= 1
-f + 1
-f $'$ = 1
-b + 1
-$g'$ .
+In both photographs, the text on the bottle is sharp. In both cases, therefore, the camera is focused on it and thus on a distance of approximately 35 cm.
+
+For imaging the bottle, assuming a thin camera lens, the lens equation applies:
+1/f = 1/b + 1/g , (2.1)
+where f is the focal length of the camera lens, b the unknown image distance due to imaging by the camera, and g = 35 cm denotes the distance of the bottle from the camera.
+Denote the focal length of the additional lens by f $'$. When the lens is placed directly in front of the camera, the refractive powers of the lenses add to a good approximation, and the total focal length of the two lenses together is (1/f + 1/f $' )-1$). For imaging with the lens, therefore, with the distance $g'$ = 5.8 m to the background, the imaging equation holds
+1/f + 1/f $'$ = 1/f + 1/f $'$ = 1/b + 1/$g'$.
 (2.2)
-The decisive point here is that because the camera's focus is unchanged, the image distance is the same as in the case without the lens. Solving (2.1) for 1/b and substituting into the above equation gives
-for the sought focal length of the lens
-f $'$ =
-g $g'$
-g $-g' \approx-37$ cm .
+The decisive point here is that, because the camera's focus is unchanged, the image distance is the same as in the case without the lens. Solving (2.1) for 1/b and substituting into the above equation gives for the sought focal length of the lens f $'$ = g $g'$ g $-g' \approx-37$ cm.
 (2.3)
-So only answer A is possible.
+Thus only answer A is possible.
 Alternatively, the focal length can also be determined without calculation by the following reasoning:
-If the background can be seen sharply through the lens, it must appear to the camera through the lens at the same distance as the bottle. The camera therefore sees a (virtual)
-image of the background that lies about 35 cm behind the lens on the object side. Hence the lens must be a diverging lens.
-Since the background is far away, at almost six meters, the image of the background forms to a good approximation in the focal plane. The focal length f $'$ is therefore equal to the image distance and amounts to
-f $' \approx-35$ cm .
+If the background can be seen sharply through the lens, it must appear to the camera through the lens at the same distance as the bottle. The camera therefore sees a (virtual) image of the background that lies about 35 cm behind the lens on the object side. Hence the lens must be a diverging lens.
+Since the background is far away, at almost six meters, the image of the background forms to a good approximation in the focal plane. The focal length f $'$ is therefore equal to the image distance and amounts to f $' \approx-35$ cm.
 (2.4)
 Correct answer: A
-aA converging lens can also produce a virtual image if the object distance is smaller than the focal length.
-Then the image distance, as for example with a magnifying glass, is always greater in magnitude than the object distance,
-Which is not the case here.
-Marking scheme - Two Pictures (multiple choice problem)
+A converging lens can also produce a virtual image if the object distance is smaller than the focal length.
+Then, as in the case of a magnifying glass, the image distance is always greater in magnitude than the object distance, which does not apply here.
+
+Marking scheme - Two Pictures (multiple-choice problem)
 Points
 2
-Formulation of the imaging equation for the imaging with the camera
+
+Formulating the imaging equation for image formation with the camera
 1.0
-Using the combination of two close lenses
+
+Using the combination of two closely spaced lenses
 1.0
+
 Using that the image distances are identical in both cases
 1.0
+
 Stating the correct solution
 2.0
-5.0
+
+Total: 5.0
+
 Alternative marking scheme
-Marking scheme - Two Pictures (multiple choice problem)
+Marking scheme - Two Pictures (multiple-choice problem)
 Points
 2
+
 Recognizing that the camera is focused on the distance of the bottle
 1.0
+
 Recognizing that the image of the background must be at the same distance
 1.0
+
 Using that the image forms in the focal plane for large object distances
 1.0
+
 Stating the correct solution
 2.0
-5.0
-Remark: The idea for the problem goes back to the following article: Ruiz, M. J. (2019). Dioptres for a
-Myopic eye from a photo. The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-6 / 27
 
+Total: 5.0
+
+Remark: The idea for the problem originates from the following article: Ruiz, M. J. (2019). Dioptres for a myopic eye from a photo. Physics Education, 54(6), doi.org/10.1088/1361-6552/ab3c0d.
+
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
+6 / 27
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p4_f3.png]]
-Two photos of the bottle with lens effect
+*Two photos of the bottle with lens effect*
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
 
 
 
@@ -801,163 +683,125 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Casso magnetico (problema di scelta multipla)
-(cfr.
-Un magnete cilindrico è dropped through three different vertically mounted
-- Tubi. I tubi hanno dimensioni identiche ma sono fatti
-di diverse materie - uno di plexiglas, uno di brass e uno di
-di alluminio.
-Per una distanza di caduta di L = 1,0 m in the tubes, the following fall times
-di magneto sono misurati:
-Cose di plastica
-tPlexiglas = 0,46 s
-Fabbricazione di calcio
-tBrass = 2,15 s
-Alumini
-tAluminio = 3,81 s
-La conductività elettrica del materiale di cui è fatta la tuba in alluminio
-is $\sigma_\text{Aluminium} = 3{,}7\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
-Which value follows from the fall times as an estimate for the electrical
-conductivity $\sigma_\text{Messing}$ of the material of the brass tube?
-A
-$1{,}2\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-B
-$2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-C
-$4{,}9\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-D
-$6{,}6\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+Problema 3 Caduta magnetica (problema a scelta multipla)
+(5 punti)
+
+Un magnete cilindrico viene fatto cadere attraverso tre tubi verticalmente montati. I tubi hanno dimensioni identiche ma sono realizzati in materiali diversi: uno di Plexiglas, uno di ottone e uno di alluminio.
+
+Per un percorso di caduta L = 1,0 m nei tubi, sono stati misurati i seguenti tempi di caduta del magnete:
+Plexiglas tPlexiglas = 0,46 s
+Ottone tOttone = 2,15 s
+Alluminio tAlluminio = 3,81 s
+
+La conducibilità elettrica del materiale di cui è costituito il tubo in alluminio è $\sigma_\text{Aluminium} = 3{,}7\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
+Quale valore si ricava dai tempi di caduta come stima per la conducibilità elettrica $\sigma_\text{Messing}$ del materiale del tubo in ottone?
+
+A $1{,}2\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+B $2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+C $4{,}9\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+D $6{,}6\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+
 Soluzione
 Calcoli e spiegazioni
-Quando il magnete cade all'interno di uno dei tubi metallici, correnti eddy sono indotte nel tubo, che
-producono un campo magnetico che opponga il campo magnetico del magnete e
-- Non è così.
-Per la legge di induzione, la tensione indotta dal magnete in sezioni orizzontali del tubo
-è proporzionale al cambiamento del flusso magnetico attraverso la sezione trasversale sotto
-- la considerazione. Questo è proporzionale alla velocità del magnete.
-La potenza elettrica P dissipato in un tubo cross-section equals il quadrato del tensione U indotta lungo
-la sezione trasversale divisa dalla resistenza della sezione trasversale del tubo: P =
-$U^2/R$. Ora U è proporzionale alla velocità media di caduta $v = L/t$, e P corrisponde alla velocità di caduta media $v = L/t$.
-L'energia totale m g L dissipatata durante il caso diviso dal tempo di caso t.
-Insieme questo produce una proporzionalità di t a 1/R e quindi a $\sigma$.
-Si segue che per la conductività del materiale del tubo di rame
+Quando il magnete cade all'interno di uno dei tubi metallici, si generano correnti parassite nel tubo, che a loro volta producono un campo magnetico opposto a quello del magnete e lo rallentano.
+
+Per la legge dell'induzione, la tensione indotta dal magnete in sezioni orizzontali del tubo è proporzionale alla variazione del flusso magnetico attraverso la sezione considerata. Questa è proporzionale alla velocità del magnete.
+
+La potenza elettrica P dissipata in una sezione del tubo è uguale al quadrato della tensione U indotta lungo la sezione diviso la resistenza elettrica della sezione del tubo: P = $U^2/R$. Ora U è proporzionale alla velocità media di caduta $v = L/t$, e P corrisponde all'energia totale m g L dissipata durante la caduta divisa per il tempo di caduta t.
+Insieme, questo porta a una proporzionalità tra t e 1/R ed è quindi proporzionale a $\sigma$.
+Ne consegue che per la conducibilità del materiale del tubo di ottone vale
 $\sigma_\text{Messing} = \sigma_\text{Aluminium}$
 $t_\text{Messing}$
 $t_\text{Aluminium}$
 $\approx 2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$ .
 (3.1)
 Risposta corretta: B
-54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
+54ª Olimpiade Fisica Internazionale 2024 - Prova del secondo turno - Soluzione - 01.12.2023
 7 / 27
-Schema di marcatura - caso magnetico (problema di scelta multipla)
+Criterio di valutazione - Caduta magnetica (problema a scelta multipla)
 Punti
 3
-Riconoscendo il braking eddy-current
-0.5
-Riconoscendo che la tensione indotta è proporzionale alla velocità di caduta
-1.0
-Esprimendo la potenza in termini di voltage e resistenza o conductività
-0.5
-Deriving a proporzionality between the fall time and the conductivity
-1.0
-(potrebbe essere conferito se solo una relazione "il più, il più" è riconosciuta)
-Stating the correct solution
-2.0
-5.0
-54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
+Riconoscimento del freno elettromagnetico per correnti parassite
+0,5
+Riconoscimento che la tensione indotta è proporzionale alla velocità di caduta
+1,0
+Espressione della potenza in termini di tensione e resistenza o conducibilità
+0,5
+Derivazione della proporzionalità tra il tempo di caduta e la conducibilità
+1,0 (può essere assegnato anche se viene riconosciuta solo una relazione "più grande, più grande")
+Affermazione della soluzione corretta
+2,0
+5,0
+54ª Olimpiade Fisica Internazionale 2024 - Prova del secondo turno - Soluzione - 01.12.2023
 8 / 27
-
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p5_f4.png]]
 *Vertical tubes for the falling magnet*
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
-
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the problems:
-(five points)
-A cylindrical magnet is dropped through three different vertically mounted
-- You know what? The tubes have identical dimensions but are made
-of different materials - one of plexiglass, one of brass and one
-of aluminium.
-For a fall distance of L = 1.0 m in the tubes, the following fall times
-of the magnet are measured:
-Other, of a thickness of not more than 10 mm
-The following table shows the results of the calculation:
-Other, of a kind used for the manufacture of goods
-tBrass = 2.15 s
-Aluminium
-The value of the product shall be calculated on the basis of the following data:
-The electrical conductivity of the material the aluminium tube is made of
-is $\sigma_\text{Aluminium} = 3{,}7\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
-Which value follows from the fall times as an estimate for the electrical
-conductivity $\sigma_\text{Messing}$ of the material of the brass tube?
-A
-$1{,}2\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-B
-$2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-C
-$4{,}9\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-D
-$6{,}6\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-The solution
+Problem 3 Magnetic fall (multiple-choice problem)
+(5 pts.)
+
+A cylindrical magnet is dropped through three different vertically mounted tubes. The tubes have identical dimensions but are made of different materials—one of Plexiglas, one of brass, and one of aluminium.
+
+For a fall distance of L = 1.0 m in the tubes, the following fall times of the magnet are measured:
+Plexiglas tₚₗₑₓᵢgₗₐₛ = 0.46 s
+Brass t_Brass = 2.15 s
+Aluminium t_Aluminium = 3.81 s
+
+The electrical conductivity of the material the aluminium tube is made of is $\sigma_\text{Aluminium} = 3{,}7\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
+Which value follows from the fall times as an estimate for the electrical conductivity $\sigma_\text{Messing}$ of the material of the brass tube?
+
+A $1{,}2\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+B $2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+C $4{,}9\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+D $6{,}6\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
+
+Solution
 Calculations and explanations
-When the magnet falls inside one of the metal tubes, eddy currents are induced in the tube, which
-In turn, they produce a magnetic field that opposes the magnet's magnetic field and
-Brakes it.
-By the law of induction, the voltage induced by the magnet in horizontal cross-sections of the tube
-is proportional to the change of the magnetic flux through the cross-section under
-The Commission will take the necessary measures. This is proportional to the speed of the magnet.
-The electrical power P dissipated in a tube cross-section equals the square of the voltage U induced along
-the cross-section divided by the resistance of the tube cross-section: P =
-$U^2/R$. Now U is proportional to the mean fall speed $v = L/t$, and P corresponds to the
-Total energy m g L dissipated during the fall divided by the fall time t.
+
+When the magnet falls inside one of the metal tubes, eddy currents are induced in the tube, which in turn produce a magnetic field that opposes the magnet's magnetic field and brakes it.
+
+By the law of induction, the voltage induced by the magnet in horizontal cross-sections of the tube is proportional to the change of the magnetic flux through the cross-section under consideration. This is proportional to the speed of the magnet.
+
+The electrical power P dissipated in a tube cross-section equals the square of the voltage U induced along the cross-section divided by the resistance of the tube cross-section: P = $U^2/R$. Now U is proportional to the mean fall speed $v = L/t$, and P corresponds to the total energy m g L dissipated during the fall divided by the fall time t.
 Together this yields a proportionality of t to 1/R and hence to $\sigma$.
 It follows that for the conductivity of the material of the brass tube
 $\sigma_\text{Messing} = \sigma_\text{Aluminium}$
 $t_\text{Messing}$
 $t_\text{Aluminium}$
-$\approx 2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$ .
+$\approx 2{,}1\cdot10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
 (3.1)
 Correct answer: B
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 7 / 27
-The following information is provided by the Commission in the field of information technology:
+
+Marking scheme - Magnetic fall (multiple-choice problem)
 Points
 3
-Recognizing the eddy-current braking
+Recognising the eddy-current braking
 0.5
-Recognizing that the induced voltage is proportional to the fall speed
+Recognising that the induced voltage is proportional to the fall speed
 1.0
 Expressing the power in terms of voltage and resistance or conductivity
 0.5
 Deriving a proportionality between the fall time and the conductivity
-1.0
-(may also be awarded if only a "the more, the more" relationship is recognised)
+1.0 (may also be awarded if only a "the more, the more" relationship is recognised)
 Stating the correct solution
 2.0
 5.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
-8 / 27
 
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
+8 / 27
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p5_f4.png]]
 *Vertical tubes for the falling magnet*
 <!--fig:end-->
-
-**Topic:** [[Electromagnetic Induction]], [[Magnetism]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
 
 
 
@@ -1078,33 +922,28 @@ Foto di una turbina a vento
 
 <div class="qlang-split" data-lang="en"></div>
 
-The power of wind turbines (multiple choice problem)
-(five points)
-Wind turbines generate electrical power by using
-Energy from the wind to drive generators.
-At a moderate wind speed, the power made available by
-the wind to a turbine, and thus the theoretically maximum usable power, is P.
+Problem 4 Power of wind turbines (multiple-choice problem)
+(5 pts.)
+Wind turbines generate electrical power by using energy from the wind to drive generators.
+At a moderate wind speed, the power made available by the wind to a turbine, and thus the theoretically maximum usable power, is P.
 What power is made available by the wind to the turbine if the wind speed is doubled?
-A
-2 P
-B
-3 P
-C
-4 P
-D
-8 P
-The solution
+
+A 2P
+B 3P
+C 4P
+D 8P
+
+Solution
 Calculations and explanations
 It is assumed that the density of the air does not change.
-When the wind speed is doubled, a fixed mass of air has four times the kinetic
-energy, since this scales with the square of the speed.
-In addition, at the same time twice the mass of air passes through the
-Area swept by the blades.
-So if all the other parameters remain identical, the power is eight times the original, and answer D is correct.
-Note: The dependence of wind power on the third power of wind speed
-is part of Betz's law, which describes the upper limit for the usable power of wind turbines.
+When the wind speed is doubled, a fixed mass of air has four times the kinetic energy, since this scales with the square of the speed.
+In addition, in the same time twice the mass of air passes through the area swept by the blades.
+So if all other parameters remain identical, the power is eight times the original, and answer D is correct.
+Remark: The dependence of the wind power on the third power of the wind speed is part of Betz's law, which describes the upper limit for the usable power of wind turbines.
+
 Correct answer: D
-Marking scheme - Power of wind turbines (multiple choice problem)
+
+Marking scheme - Power of wind turbines (multiple-choice problem)
 Points
 4
 Using the kinetic energy of the air mass
@@ -1116,20 +955,14 @@ Recognizing that twice the mass of air flows through the turbine
 Stating the correct solution
 2.0
 5.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
-9 / 27
 
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
+9 / 27
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p6_f5.png]]
 *Photo of a wind turbine*
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
 
 
 
@@ -1777,95 +1610,61 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the LC oscillating circuits:
-(five points)
-(Idea: Problem group of the PhysicsOlympiad - Thomas Hellerl and Rolf Faßbender)
-A circuit consisting of an ideal inductor and an ideal capacitor is called an LC oscillating circuit. The two electrical oscillating circuits shown above, with the same inductance L but different
-Capacities Ci, oscillate completely without resistance at the indicated frequencies.
+Problem 6 LC oscillating circuits (multiple-choice problem)
+(5 pts.)
+(Idea: Problem group of the PhysicsOlympiad - Thomas Hellerl & Rolf Faßbender)
+
+A circuit consisting of an ideal inductor and an ideal capacitor is called an LC oscillating circuit. The two electrical oscillating circuits shown above, with the same inductance L but different capacitances Ci, oscillate completely without resistance at the indicated frequencies.
+
 C1
+L f1 = f
 L
-f1 = f
-L
-C2
-f2 = 4
-3f
+C2 f2 = 4/3 f
+
 What is the oscillation frequency f12 (natural frequency) of the following coupled system?
+
 L
 C2
-C1
-f12 = ???
-A
-2
-3f
-B
-3
-4f
-C
-4
-5f
-D
-5
-4f
-The solution
+C1 f12 = ???
+
+A) 2/3 f
+B) 3/4 f
+C) 4/5 f
+D) 5/4 f
+
+Solution
 Calculations and explanations
+
 The oscillation periods of the upper oscillating circuits are given by Thomson's formula
-Ti = 2 $\pi$
-p
-L Ci .
+Ti = 2 $\pi$ √(L Ci).
 (6.1)
+
 In the lower, coupled oscillating circuit the capacitances add up, since they are connected in parallel.
-C12 = C1 + C2 .
+C12 = C1 + C2.
 (6.2)
+
 Accordingly, for its oscillation period T12 we have
-T12 = 2 $\pi$
-p
-L(C1 + C2)
+T12 = 2 $\pi$ √(L (C1 + C2))
 or
-T 2
-12 = 4 $\pi2$ L (C1 + C2) = T 2
-1 + T 2
-2 .
+T²₁₂ = 4 $\pi2$ L (C1 + C2) = T²₁ + T²₂.
 (6.3)
+
 Thus we obtain
-1
-f 2
-12
-= 1
-f 2
-1
-+ 1
-f 2
-2
-.
+1/f²₁₂ = 1/f²₁ + 1/f²₂.
 (6.4)
+
 From this, using the given values, the sought frequency results as
-f12 =
-1
-q
-1
-f 2
-1 + 1
-f 2
-2
-=
-1
-q 1
-f 2 +
-1
-16
-9 f 2
-=
-1
-q
-1 + 9
-16
-f = 4
-5 f .
+f12 = 1 / √(1/f²₁ + 1/f²₂)
+= 1 / √(1/f² + 1/(16/9 f²))
+= 1 / √(1 + 9/16) f = 4/5 f.
 (6.5)
+
 Correct answer: C
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 13 / 27
-The following table shows the methodology used for calculating the value of the input data:
+
+Marking scheme - LC oscillating circuits (multiple-choice problem)
 Points
 6
 Stating the relationship between oscillation period, inductance and capacitance
@@ -1877,20 +1676,13 @@ Deriving an expression/formula for the frequency in the coupled circuit
 Stating the correct solution
 2.0
 5.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 14 / 27
-
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201/54_IPhO_2024_2Rd_Aufgaben_Lsg_web_20231201_p9_f7.png]]
-*Coupled LC circuits (two schematics) *
+*Coupled LC circuits (two schematics)*
 <!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Circuits]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1IagRpXtllU18oe0cWEJuIH9JukcWDwxH/view)
 
 
 

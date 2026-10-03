@@ -1319,46 +1319,39 @@ To simplify the analysis, assume that the beam is massless. The counterweight an
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il trebuchet è un'arma di guerra medievale, una catapulta alimentata da un contropeso massiccio in caduta e da un braccio oscillante per lanciare un proiettile. In questo problema analizziamo una versione semplificata del trebuchet  il trebuchet di siera (Fig. 1). È apparso in film come *Il Signore degli Anelli: Il ritorno del re*.
+Il manganiere è un'arma da guerra medievale – una catapulta alimentata da un pesante contrappeso che cade e da un braccio oscillante per lanciare un proiettile. In questo problema analizziamo una versione semplificata del manganiere: il manganiere a bilancia (Fig. 1). È apparso in film come *Il Signore degli Anelli: Il ritorno del re*.
 
 <!--fig:start-->
 ![[HKPhO_2018_p21_f1.png]]
-*Figura 1: Immagine sistematica di un traboccetto a scaglie, che mostra proiettile, fascio, pivot, contrapeso e telaio.*
+*Figure 1: Systematic picture of a see-saw trebuchet, showing the projectile, beam, pivot, counterweight and frame.*
 <!--fig:end-->
 
-In questo problema, fissa il pivot all'altezza $h = 2\ \text{m}$ sopra l'origine $O$. E ecco i parametri che ti serviranno:
+In questo problema fissiamo il fulcro ad un'altezza $h = 2\ \text{m}$ rispetto all'origine $O$. Di seguito sono riportati i parametri necessari:
 
- Simbolo  Descrizione del valore 
+| Simbolo | Valore | Descrizione |
 |---|---|---|
-| $m$ | $1\ \text{kg}$ | mass of projectile |
-| $M$ | $500\ \text{kg}$ | mass of counterweight |
-♬ $l_1$ ♬ $0.5\ \text{m}$ ♬ Distanza da pivot a contrapeso ♬
-| $l_2$ | $4\ \text{m}$ | distance from pivot to projectile |
-| $v_1$ | — | speed of counterweight |
-♬ $v_2$ ♬ ♬ velocità del proiettile ♬
-| $\phi$ | — | beam angle |
+| $m$ | $1\ \text{kg}$ | massa del proiettile |
+| $M$ | $500\ \text{kg}$ | massa del contrappeso |
+| $l_1$ | $0.5\ \text{m}$ | distanza dal fulcro al contrappeso |
+| $l_2$ | $4\ \text{m}$ | distanza dal fulcro al proiettile |
+| $v_1$ | — | velocità del contrappeso |
+| $v_2$ | — | velocità del proiettile |
+| $\phi$ | — | angolo della trave |
 
-Per semplificare l'analisi, supponiamo che il fascio sia senza massa. Il contrappeso e il proiettile sono trattati come masse puntate e entrambi vengono rilasciati dal riposo all'angolo iniziale del fascio $\phi_0 = 120^\circ$.
+Per semplificare l'analisi, si assuma che la trave sia priva di massa. Il contrappeso e il proiettile sono trattati come masse puntiformi, e entrambi vengono rilasciati da fermo all'angolo iniziale della trave $\phi_0 = 120^\circ$.
 
 <!--fig:start-->
 ![[HKPhO_2018_p21_f2.png]]
-*Tribùceto di seggiatura parametrizzato: fascio senza massa rotato ad un'altezza $h$ superiore alla fonte $O$, con il proiettile (massa $m$, a distanza $l_2$, velocità $v_2$) e il contrappeso (massa $M$, a distanza $l_1$, velocità $v_1$); il fascio fa angolo $\phi$ con l'orizzontale.*
+*Parametrized see-saw trebuchet: massless beam pivoted at height $h$ above the origin $O$, with the projectile (mass $m$, at distance $l_2$, speed $v_2$) and the counterweight (mass $M$, at distance $l_1$, speed $v_1$); the beam makes angle $\phi$ with the horizontal.*
 <!--fig:end-->
 
-**(a) ** Trovare la relazione tra la velocità del contrappeso ($v_1$) e il proiettile ($v_2$) all'angolo $\phi$.
+**(a)** Trovare la relazione tra la velocità del contrappeso ($v_1$) e quella del proiettile ($v_2$) all'angolo $\phi$.
 
-**(b) ** Calcolare l'energia meccanica totale del sistema all'angolo del fascio $\phi$ in termini di $M$, $m$, $l_1$, $l_2$ e $v_2$. Supponendo che l'energia potenziale gravitazionale delle masse sia zero all'angolo iniziale del fascio $\phi_0$.
+**(b)** Calcolare l'energia meccanica totale del sistema all'angolo della trave $\phi$ in termini di $M$, $m$, $l_1$, $l_2$ e $v_2$. Si assuma che l'energia potenziale gravitazionale delle masse sia nulla all'angolo iniziale della trave $\phi_0$.
 
-**(c)** If the projectile is launched at the beam angle $\phi = 45^\circ$, what is the numerical value of the initial speed ($v_2$) of the projectile?
+**(c)** Se il proiettile viene lanciato all'angolo della trave $\phi = 45^\circ$, qual è il valore numerico della velocità iniziale ($v_2$) del proiettile?
 
-**(d) ** Qual è il valore numerico della gamma orizzontale, $d$, del proiettile rispetto all'origine?
-
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1fyzUg6M6suSjdVS1Qke7IfNCiISP7aBb/view)
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Beam (object)|Beam]], [[Lever (object)|Lever]]
+**(d)** Qual è il valore numerico della gittata orizzontale, $d$, del proiettile rispetto all'origine?
 
 
 

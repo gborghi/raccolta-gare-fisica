@@ -121,103 +121,59 @@ quell'altezza. Scrivere il risultato con due cifre significative. Supporre di po
 
 <div class="qlang-split" data-lang="en"></div>
 
-**L'ascesa del pallone**
+**The Balloon's Ascent**
 
 Theoretical Question 2
-Page 2 and 2
-Theoretical problem n. 2
-The Rise of the Ball
-A balloon inflated with helium and with a rubber envelope, salt and is found away in regions
-The atmosphere where the pressure and temperature decrease with height. In replying
-The question of the question of the question of the
-The shape of the ball remains spherical as it rises. Suppose it is also a fertilizer
-The temperature of the helium inside the ball is always the same as the temperature of the helium inside the ball.
-the air around it. In this problem, all gases must also be considered.
-The perfect gas.
+Page 1/2
+Theoretical Problem No. 2
+The Balloon's Ascent
+
+A balloon filled with helium, enclosed in a rubber envelope, rises and gradually enters atmospheric regions where pressure and temperature decrease with altitude. When answering the questions in this problem, assume that, regardless of its ballast, the balloon maintains a spherical shape as it rises. Also assume that the ballast has negligible volume and that the temperature of the helium inside the balloon is always equal to that of the surrounding air. In this problem, all gases are considered ideal.
+
 The universal gas constant is
-$R = 8.31\ \text{J/mol}\cdot\text{K}$ and the masses of a mole, of helium and air respectively, are
+$R = 8.31\ \text{J/mol}\cdot\text{K}$ and the molar masses of helium and air are respectively
 $M_H = 4.00\times10^{-3}\ \text{kg/mol}$ and
-$M_A = 28.9\times10^{-3}\ \text{kg/mol}$. The acceleration of gravity is
+$M_A = 28.9\times10^{-3}\ \text{kg/mol}$. The acceleration due to gravity is
 $g = 9.8\ \text{m/s}^2$.
-[ Part A ]
-(a) [1.5 points] Indicate with $P$
-the air pressure surrounding the ball and with $T$ the
-the temperature. The pressure inside the ball is higher than its outside at
-The result of the surface tension of the envelope. The ball contains $n$
-Helium mills and the
-The pressure inside it is $P + \Delta P$. Trovare la spinta di Archimede $F_B$ sul pallone
-expressed in terms of $P$
-e $\Delta P$.
-(b) [2 points] In an experiment conducted in Korea on a certain summer day, it was found that
-the temperature $T$
-The average air temperature at $z$ above sea level varied according to the
-Law
-$T(z) = T_0(1 - z/z_0)$ in an altitude range $z$ such that $0\ \text{km} < z < 15\ \text{km}$ with
-$z_0 = 49$ km e
-$T_0 = 303$ K. The pressure and density of the air at sea level were,
-respectively,
-$P_0 = 1\ \text{atm} = 1.01\times10^5$ Pa e
-$\rho_0 = 1.16\ \text{kg/m}^3$. In the same height range the pressure trend was
+
+[Part A]
+(a) [1.5 points] Let $P$ denote the pressure of the surrounding air and $T$ its temperature. The internal pressure of the balloon is higher than the external pressure due to surface tension in the envelope. The balloon contains $n$ moles of helium, and the internal pressure is $P + \Delta P$. Find the buoyant force $F_B$ acting on the balloon, expressed in terms of $P$ and $\Delta P$.
+
+(b) [2 points] In an experiment conducted in Korea on a certain summer day, it was found that the air temperature $T$ at an altitude of $z$ above sea level varied according to the law
+$T(z) = T_0(1 - z/z_0)$ over a height interval $z$ such that $0\ \text{km} < z < 15\ \text{km}$ with
+$z_0 = 49$ km and
+$T_0 = 303$ K. The pressure and density of air at sea level were, respectively,
+$P_0 = 1\ \text{atm} = 1.01\times10^5$ Pa and
+$\rho_0 = 1.16\ \text{kg/m}^3$. In the same height interval, the pressure variation followed the form
 
 $$P(z) = P_0(1 - z/z_0)^\eta\ . \quad (2.1)$$
 
-Expressing
-$\eta$ depending on the
+Express
+$\eta$ as a function of
 $z_0$,
 $\rho_0$,
-$P_0$ e
-$g$, and find the numerical value of the value with two
-The number of people who have been killed is significant. Consider the acceleration of gravity constantly, regardless of the
-the height change.
+$P_0$ and
+$g$, and determine its numerical value with two significant figures. Assume the gravitational acceleration to be constant, independent of height variation.
 
 Theoretical Question 2
-The Commission shall adopt implementing acts in accordance with Article 2 (2) of this Regulation.
-[ Part B ]
-Both
-$r_0$ the radius of a spherical rubber ball when it contains the maximum amount of
-The Commission has already decided to take a decision on the proposal. When the ball is inflated to form a sphere of radius
-$r$ ($r \geq r_0$), its envelope has stored
-elastic energy due to the strain on the tyre. A simple model allows the elastic energy to be expressed at constant temperature $T$ using the formula
+Page 2/2
+[Part B]
+Let
+$r_0$ be the radius of a rubber spherical balloon when it contains the maximum amount of helium such that the envelope is not under any tension. When the balloon is inflated to form a sphere of radius
+$r$ ($r \geq r_0$), its envelope has stored elastic energy due to rubber tension. A simple model allows expressing the elastic energy at constant temperature $T$ by the formula
 
 $$U = 4\pi r_0^2 \kappa RT\left(2\lambda^2 + \frac{1}{\lambda^4} - 3\right) \quad (2.2)$$
 
-Where we'll call with
-$\lambda = r/r_0$ ($\geq 1$) the degree of swelling of the ball and where
-$\kappa$ è
-a constant with a unit of measurement $\text{mol/m}^2$.
-(c) [2 points] Express $\Delta P$
-In terms of the parameters given in equation (2.2) and do one
-The Commission has already adopted a draft
-$\Delta P$ depending on the
-$\lambda = r/r_0$.
-(d) [1.5 points] The constant
-$\kappa$ can be determined by knowing the amount of gas required to inflate the ball. At the temperature
-$T_0 = 303$ K e $P_0 = 1.0$ atm, un pallone
-Unwrought ($\lambda = 1$) contains
-$n_0 = 12.5$ moli di elio. They are found to be necessary
-$n = 3.6\,n_0 = 45$ total helium moles for inflating the ball until it is
-$\lambda = 1.5$, at the same temperature
-$T_0$ e pressione $P_0$. For this ball, express the parameter $a$,
-defined as
-$a = \kappa/\kappa_0$, in termini di
-$n$,
-$n_0$ and $\lambda$, where $\kappa_0 \equiv \dfrac{r_0 P_0}{4RT_0}$. Find the value of
-$a$ with two significant digits
-[Part C]
-A ball has been prepared as described in the previous part (d) at sea level
-(inflated to
-$\lambda = 1.5$ with
-$n = 3.6\,n_0 = 45$ moli di elio a $T_0 = 303$ K e $P_0 = 1\ \text{atm} = 1.01\times10^5$ Pa). The total mass, including the ball, the gas itself and other manure, is
-$M_T = 1.12$ kg. Then he let the ball go up.
-(e) [3 points] Suppose the ball stops at height
-$z_f$ where the push occurs
-The weight of the whole of Archimedes equals the total weight. Find out
-$z_f$ and 'degree of swelling'
-$\lambda_f$ a
-That height. Write the result in two significant digits. Suppose you can ignore gas leaks and air drag effects during the climb.
+where we denote by
+$\lambda = r/r_0$ ($\geq 1$) the degree of inflation of the balloon and where
+$\kappa$ is a constant with units $\text{mol/m}^2$.
 
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]], [[Elasticity & Materials]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1rGQqXfrj4M_9QX_3sHLtzFTUEtZsO6BR/view)
+(c) [2 points] Express $\Delta P$ in terms of the parameters given in equation (2.2) and sketch the behavior of $\Delta P$ as a function of $\lambda = r/r_0$.
+
+(d) [1.5 points] The constant $\kappa$ can be determined knowing the amount of gas required to inflate the balloon. At temperature $T_0 = 303$ K and pressure $P_0 = 1.0$ atm, a non-stretched balloon ($\lambda = 1$) contains $n_0 = 12.5$ moles of helium. It is found that a total of $n = 3.6\,n_0 = 45$ moles of helium are required to inflate the balloon until it reaches $\lambda = 1.5$, at the same temperature $T_0$ and pressure $P_0$. For this balloon, express the parameter $a$, defined as
+$a = \kappa/\kappa_0$, in terms of $n$, $n_0$ and $\lambda$, where $\kappa_0 \equiv \dfrac{r_0 P_0}{4RT_0}$. Determine the value of $a$ with two significant figures.
+
+[Part C]
+A balloon has been prepared as described in the previous part (d) at sea level (inflated to $\lambda = 1.5$ with $n = 3.6\,n_0 = 45$ moles of helium at $T_0 = 303$ K and $P_0 = 1\ \text{atm} = 1.01\times10^5$ Pa). The total mass, including the balloon itself, the gas, and additional ballast, is $M_T = 1.12$ kg. Subsequently, the balloon was released and allowed to rise.
+
+(e) [3 points] Assume that the balloon stops at height $z_f$, where the buoyant force balances the total weight. Find $z_f$ and the "degree of inflation" $\lambda_f$ at that height. Write the result with two significant figures. Assume that gas loss and air drag effects can be neglected during ascent.

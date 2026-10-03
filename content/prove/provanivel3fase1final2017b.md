@@ -600,43 +600,21 @@ afirmar corretamente que:
 
 <div class="qlang-split" data-lang="it"></div>
 
-9. In un esperimento di laboratorio, il professor Physicson ha mostrato ai suoi studenti il suo
-l'arte della fotografia. In un'occasione, ha usato la sua macchina con il flash in modalità multi, per fare molteplici
-esposizioni di una piccola palla spinta verso l'alto da una molla ideale. La mola, con la palla sopra,
-è stato inizialmente compresso fino al punto (P) e rilasciato. La palla ha lasciato la spruce al punto (Q) e ha raggiunto l'altezza
-massimo al punto (R), come indicato nella figura. In questo caso, la Commissione ha deciso di non
-affermare correttamente che:
-- **A.** L'accelerazione della palla è costante in tutti i punti della traiettoria Q a R;
-- **B.** L'accelerazione della palla è stata massima immediatamente prima di raggiungere il punto Q, ancora in contatto con la molla;
-- **C.** L'accelerazione della palla è diminuita quando è passata dal punto Q a R;
-- **D.** L'accelerazione della palla al punto R è zero;
-- **E.** L'accelerazione della palla dopo l'uscita di P è minima.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+9. Durante un'esperienza effettuata in laboratorio, il professor Physicson ha mostrato ai suoi studenti la sua abilità nella fotografia. In quell'occasione, ha utilizzato la macchina fotografica con il flash in modalità multipla per realizzare diverse esposizioni di una piccola sfera lanciata verso l'alto da una molla ideale. La molla, con la sfera appoggiata sopra, è stata inizialmente compressa fino al punto (P) e poi rilasciata. La sfera ha abbandonato la molla nel punto (Q) e ha raggiunto l'altezza massima nel punto (R), come mostrato in figura. Trascurando ogni resistenza durante il processo, si può affermare correttamente che:
+- **A.** L'accelerazione della sfera è costante in tutti i punti del percorso da Q a R;
+- **B.** L'accelerazione della sfera è stata massima immediatamente prima di raggiungere il punto Q, ancora in contatto con la molla;
+- **C.** L'accelerazione della sfera è diminuita quando ha superato il punto Q fino al punto R;
+- **D.** L'accelerazione della sfera nel punto R è nulla;
+- **E.** L'accelerazione della sfera dopo l'uscita dal punto P è minima.
 
 <div class="qlang-split" data-lang="en"></div>
 
-9. During a laboratory experiment, Professor Physicson showed his students his
-Art in photography. On the occasion, he used his flash machine in multi mode to make multiple
-exposures of a small ball pushed upwards by an ideal spring. The spring, with the ball on top,
-was initially compressed to the point (P) and released. The ball left the spring at point (Q) and reached the height
-maximum in point (R), as shown in Figure 1. The Commission has already taken a number of measures to ensure that the
-to state correctly that:
-- **A.** The acceleration of the ball is constant at all points on the trajectory Q to R;
-- **B.** The acceleration of the ball was maximum immediately before it reached the point Q, still in contact with the spring;
-- **C.** The acceleration of the ball slowed when it passed from point Q to point R;
-- **D.** The acceleration of the ball at point R is zero;
-- **E.** The acceleration of the ball after the output of P is minimal.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+9. During a laboratory experiment, Professor Physicson showed his students his skill in photography. At the time, he used his camera with the flash set to multi-mode to take multiple exposures of a small ball launched upward by an ideal spring. The spring, with the ball on top, was initially compressed to point (P) and then released. The ball left the spring at point (Q) and reached maximum height at point (R), as shown in the figure. Neglecting any resistances present in the process, we can correctly state that:
+- **A.** The ball's acceleration is constant at all points along the trajectory from Q to R;
+- **B.** The ball's acceleration was maximum immediately before reaching point Q, while still in contact with the spring;
+- **C.** The ball's acceleration decreased when it moved from point Q to R;
+- **D.** The ball's acceleration at point R is zero;
+- **E.** The ball's acceleration after leaving P is minimum.
 
 
 
@@ -754,26 +732,12 @@ il luogo;
 
 <div class="qlang-split" data-lang="en"></div>
 
-11. In the book Mathematical Principles of Natural Philosophy, written by Isaac Newton and published in 1726
-(Latin version), which relates among its three famous laws of motion, the various measures taken by the
-astronomers, using pendulum clocks to determine the acceleration of gravity, observing
-The same thing happens when the equator is closer to the equator.
-The Commission has already adopted a number of proposals. In one such measure carried out by the expedition of the French astronomer Pierre
-Couplet, who arrived in Paraíba in 1698, found that compared to Paris ($g = 9,81\ \text{m/s}^2$) the oscillations were
-The average daily consumption of the products is 125 kg/ day, which makes $g = 9,78\ \text{m/s}^2$. From this information, we can correctly
-to state that:
-(a) The duration of the pendulums tested is inversely proportional to the square root of gravity acceleration
-the location;
-- **B.** The duration of the test pendulums is proportional to the square root of the local gravity acceleration;
-- **C.** The local temperature does not influence the determination of the period of oscillation;
-- **D.** Doubling the length of a single pendulum, its period quadruples;
-- **E.** The oscillation frequency is inversely proportional to the acceleration of local gravity.
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+11. In the book "Philosophiæ Naturalis Principia Mathematica," written by Isaac Newton and published in 1726 (Latin edition), among his three famous laws of motion, it recounts various measurements carried out by astronomers using pendulum clocks to determine the acceleration due to gravity, noting that they move more slowly near the equator compared to measurements taken in Paris. In one such measurement conducted by the French astronomer Pierre Couplet's expedition, which arrived in Paraíba in 1698, it was found that compared to Paris ($g = 9,81\ \text{m/s}^2$), the oscillations were reduced by 125 per day, resulting in $g = 9,78\ \text{m/s}^2$. Based on these data, we can confidently state that:
+a) The period of the tested pendulums is inversely proportional to the square root of the local acceleration due to gravity;
+- **B.** The period of the tested pendulums is proportional to the square root of the local acceleration due to gravity;
+- **C.** Local temperature does not affect the determination of the oscillation period;
+- **D.** Doubling the length of a simple pendulum causes its period to quadruple;
+- **E.** The oscillation frequency is inversely proportional to the local acceleration due to gravity.
 
 
 
@@ -1097,24 +1061,13 @@ Applicato su di essa, oltre a disprezzare qualsiasi tipo di rotazione in essa.
 
 <div class="qlang-split" data-lang="en"></div>
 
-16. A homogeneous ball of $100\sqrt{3}\ \text{N}$ weight is supported and attached by an unstretchable wire to a
-a flat, rough surface with a static friction coefficient of $0,3$ as shown below. Whereas
-that the same is in static equilibrium and subjected to the action of an F force of equal intensity to
-$50\ \text{N}$ determines the intensity of the normal reaction between the ball and the plane and the static friction force module
-between the surface and the ball, considering the centre of the ball as the intersection of forces
-The Commission has not yet taken any further action.
+16. A homogeneous ball of weight $100\sqrt{3}\ \text{N}$ is resting and held in place by an inextensible string on a flat, rough surface, whose coefficient of static friction is $0,3$, as shown in the figure below. Assuming that the ball is in static equilibrium and subjected to a force F of magnitude $50\ \text{N}$, determine the magnitude of the normal reaction force between the ball and the plane, and the magnitude of the static friction force between the surface and the ball, considering the center of the ball as the point of intersection of all applied forces, and neglecting any kind of rotation in the ball.
 
-- **A.** $300\ \text{N}$ e $45\sqrt{3}\ \text{N}$;
-- **B ** $150\sqrt{3}\ \text{N}$ and Zero;
-- **C.** $300\sqrt{3}\ \text{N}$ e $45\ \text{N}$;
-- **D** $100\ \text{N}$ and Zero;
-- **E.** $200\sqrt{3}\ \text{N}$ e $45\sqrt{3}\ \text{N}$;
-
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+- **A.** $300\ \text{N}$ and $45\sqrt{3}\ \text{N}$;
+- **B.** $150\sqrt{3}\ \text{N}$ and Zero;
+- **C.** $300\sqrt{3}\ \text{N}$ and $45\ \text{N}$;
+- **D.** $100\ \text{N}$ and Zero;
+- **E.** $200\sqrt{3}\ \text{N}$ and $45\sqrt{3}\ \text{N}$;
 
 
 
@@ -1156,65 +1109,29 @@ das bases teórica do eletromagnetismo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-17. Durante una sezione di fisioterapia, la fisioterapista usa un dispositivo chiamato Tens, che si usa per
-un corrente galvanica di bassa intensità, con l'obiettivo di produrre tra due punti fissi del braccio del
-paziente, fibrilazioni muscolari di contrazione e distenza, capace di vascolarizzare l'area, alleviando il dolore
-muscolari. Considerando che l'elettricità prodotta sul posto è dell'ordine di $0,3\ \text{A}$ e che il trattamento
-Durate $10,0$ min, identificare il numero di elettroni che attraversano il muscolo di questo paziente, nell'intervallo di
-tempo considerato.
+17. Durante una sessione di fisioterapia, la fisioterapista utilizza un apparecchio chiamato TENS, che sfrutta una corrente galvanica di bassa intensità, con l'obiettivo di produrre in due punti fissi del braccio del paziente contrazioni e distensioni muscolari, in grado di migliorare la vascolarizzazione dell'area e ridurre il dolore muscolare. Considerando che la corrente elettrica prodotta nel punto sia dell'ordine di $0,3\ \text{A}$ e che il trattamento duri $10,0$ min, identificate il numero di elettroni che attraversano il muscolo del paziente nell'intervallo temporale considerato.
+
 a) $1,25\times10^{-19}$ elettroni
-
 b) $4,12\times10^{18}$ elettroni
-
-(c) $11,25\times10^{20}$ elettroni
+c) $11,25\times10^{20}$ elettroni
 d) $2,45\times10^{18}$ elettroni
-
 e) $5,35\times10^{20}$ elettroni
 
-A partire dal 1820, con la scoperta di Oersted, si è definitivamente rilevato l'azione magnetica
-prodotta dal passaggio del corrente su un filo conduttore su una compassa posta accanto al filo.
-Probabilmente, diversi tentativi di interpretazione concettuale del campo magnetico generato da una corretta
-La Commissione ha adottato una proposta di direttiva che prevede che le misure di protezione delle persone in questione siano state adottate in modo coerente con le disposizioni legislative. Henry e Faraday. Vari lavori
-La Commissione ha adottato una proposta di direttiva che prevede che le misure di sicurezza e di sicurezza utilizzate per la produzione di energia elettrica siano state applicate in tutti i paesi dell'Unione europea.
-con il magnetismo. Le seguenti domande 18 e 19 presentano sistematicamente un dibattito sul tema:
-Le basi teoriche dell'elettromagnetismo.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+A partire dal 1820, con la scoperta effettuata da Oersted, si è definitivamente stabilito l'effetto magnetico prodotto dal passaggio di corrente in un filo conduttore, su una bussola posta accanto al filo.
+Senz'altro, diverse tentativi di interpretazione concettuale del campo magnetico generato da una corrente elettrica sono stati avanzati, a titolo di esempio da Ampère, Biot-Savart, J. Henry e Faraday. Svariati lavori sperimentali e teorici sono stati prodotti e pubblicati, con l'obiettivo di spiegare l'unificazione dell'elettricità con il magnetismo. I quesiti 18 e 19 successivi presentano in modo sistematico una discussione sulle basi teoriche dell'elettromagnetismo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-17. During a physical therapy session, the physical therapist uses a device called Tens, which is used to
-a low-intensity galvanic current to produce between two fixed points of the arm of the
-patient, muscle contractions and distensation, able to vascularize the area, alleviating pain
-Muscle. Whereas the electric current produced at the site is of the order of $0,3\ \text{A}$ and whereas the treatment of
-dure $10,0$ min, identifique o número de elétrons que atravessam o músculo deste paciente, no intervalo de
-time considered.
-(a) $1,25\times10^{-19}$ electrons
+17. During a physiotherapy session, the physiotherapist uses an apparatus called Tens, which employs a low-intensity galvanic current to produce muscle fibrillations—contractions and relaxations—between two fixed points on the patient's arm, aiming to increase blood flow in the area and alleviate muscle pain. Assuming that the electric current produced at the site is of the order of $0,3\ \text{A}$ and that the treatment lasts $10,0$ minutes, determine the number of electrons passing through the patient's muscle during the considered time interval.
 
-(b) $4,12\times10^{18}$ electrons
+a) $1,25\times10^{-19}$ electrons
+b) $4,12\times10^{18}$ electrons
+c) $11,25\times10^{20}$ electrons
+d) $2,45\times10^{18}$ electrons
+e) $5,35\times10^{20}$ electrons
 
-(c) $11,25\times10^{20}$ electrons
-(d) $2,45\times10^{18}$ electrons
-
-(e) $5,35\times10^{20}$ electrons
-
-From 1820, with the discovery made by Oersted, the magnetic action was definitely established
-produced by passing the current on a conductive wire over a compass placed next to the wire.
-Surely, several attempts at conceptual interpretation of the magnetic field generated by a correct
-The Commission has also proposed a number of measures to improve the quality of the electricity sector. Henry and Faraday. Various jobs
-The first is the fact that the electricity sector is a major contributor to the
-with magnetism. Questions 18 and 19 below systematically present a discussion on the
-Theoretical foundations of electromagnetism.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+Since 1820, following Oersted's discovery, it was definitively established that an electric current passing through a conductor produces a magnetic effect on a compass placed near the wire.
+Undoubtedly, various conceptual interpretations of the magnetic field generated by an electric current were proposed—among them those by Ampère, Biot-Savart, J. Henry, and Faraday. Numerous experimental and theoretical studies were carried out and published with the goal of unifying electricity and magnetism. Questions 18 and 19 that follow systematically discuss the theoretical foundations of electromagnetism.
 
 
 
@@ -1283,32 +1200,19 @@ d) Tutti falsi;
 
 <div class="qlang-split" data-lang="en"></div>
 
-18. Biot and Savart published a paper explaining that when two long, straight wires
-And parallel to each other, they were driven by electric currents, there would be an interactive force between them,
-The magnetic fields produced there are produced by the mutual action of the magnetic fields produced there. This is it:
-I. There will be a force of attraction between the wires when an electric current with
-the same meaning;
-II. There will be a repulsion force between the wires when an electric current is circulated in each of them.
-in the same sense;
-The Commission shall adopt implementing acts. The intensity of the magnetic field resulting from point A, equidistant between the wires, is zero if the
-the electric current circulating in each driver has the same direction and intensity;
-IV. The intensity of the magnetic field resulting from point A, equidistant between the wires, is different from zero,
-Because the electric currents circulating in each driver really have senses.
-The reasons given in the proposals correctly suggest that:
-(a) Only I is correct;
+18. Physicists Biot and Savart published a work explaining that when two long, straight, parallel wires carry electric currents, there is an interaction force between them due to the mutual action of the magnetic fields produced at their locations. Thus:
 
-(b) I and IV are correct;
+I. There will be an attractive force between the wires when in each of them an electric current flows in the same direction;
+II. There will be a repulsive force between the wires when in each of them an electric current flows in the same direction;
+III. The magnitude of the resultant magnetic field at point A, equidistant from both wires, is zero if the electric currents in each conductor have the same direction and equal magnitude;
+IV. The magnitude of the resultant magnetic field at point A, equidistant from both wires, is different from zero because the electric currents in each conductor have the same direction.
 
-(c) All are correct;
-(d) All are false;
-
-(e) I and III are correct;
-
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1PwEdt_DyPjjHZw4flY08F6t9VEnVl7s4/view)
+The justifications presented in the statements correctly suggest that:
+a) Only I is correct;
+b) I and IV are correct;
+c) All are correct;
+d) All are false;
+e) I and III are correct.
 
 
 

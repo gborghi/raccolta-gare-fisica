@@ -1131,207 +1131,173 @@ La pressione minima sarà la pressione a una profonda
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
-A cylindrical diving bell, with a height of 2,50 m and a diameter of 1 m,
-It's closed at the top and open at the bottom.
+Problem 3
+A cylindrical diving bell, with a height of 2.50 m and a diameter of 1 m, is closed at the top and open at the bottom.
 The bell is lowered from the surface of the ocean (where the air is at a pressure of
-1 atm and at a temperature of $20^{\circ}C$) to seawater. The bell goes down to one
-depth, measured from the bottom of the bell, 82,3 m. At that depth, the
-The water temperature is $4^{\circ}C$ and the bell is in thermal equilibrium with the water.
-Suppose the air is an ideal gas.
+1 atm and at a temperature of $20^{\circ}C$) into the seawater. The bell descends to a depth, measured from the bottom of the bell, of 82.3 m. At that depth, the water temperature is $4^{\circ}C$ and the bell is in thermal equilibrium with the water.
+Assume the air behaves as an ideal gas.
 
-(a) Determine the number of moles of air inside the bell.
+a) Determine the number of moles of air inside the bell.
 
-(b) At the depth reached: how much water level will rise within the
-The bell?
+b) At the depth reached: how much will the water level rise inside the bell?
 
-(c) Calculate the minimum air pressure necessary inside the bell to remove the
-water that came in.
+c) Calculate the minimum air pressure required, inside the bell, to expel the water that entered.
 
-The data:
+Data:
 Density of seawater
-Theoretical problem 1
-Answering sheet
-Incise
+Theoretical Problem 1
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
-Theoretical problem 2
-Answering sheet
-Incise
+Theoretical Problem 2
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 c)
-Theoretical problem 3
-Answering sheet
-Incise
+Theoretical Problem 3
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
 b)
 
 c)
-Argentine Olympic Games in Physics
+Argentine Physics Olympiad
 
-Preparatory tests
-Second test:
-Thermodynamics, electricity and magnetism
+Preparatory Tests
+Second Test:
+Thermodynamics, Electricity and Magnetism
 
-The following is the list of the countries of the European Union:
+Name: ..................................................................
 
 D.N.I.: ......................................................................
 
-School: ........................... is not a school
+School: .................................................................
 
-- Before you start solving the test read it carefully
-The statement of it.
-- Write your name and D.N.I. number. in the appropriate place. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
+- Before starting to solve the test, carefully read the ENTIRE statement of the test.
+- Write your name and your D.N.I. number in the indicated place. Do not write your name anywhere else on the test.
+- Do not write answers on the statement sheets, as they will not be considered.
+- Write on only one side of the sheets.
 Surface tension
 
-The forces of cohesion between the molecules of a liquid are responsible for the
-phenomenon known as surface tension.
-In a liquid-gas interface, the molecules of the liquid that are right on the surface
-feel forces towards the sides (in directions tangent to the interface) and towards the breast
-of the liquid, but not out of it. The result is that the molecules that are
-They are attracted to the surface and are attracted to the inside of it.
+The cohesive forces between the molecules of a liquid are responsible for the phenomenon known as surface tension.
+At a liquid-gas interface, the liquid molecules that are right at the surface feel forces toward the sides (in directions tangent to the interface) and toward the interior of the liquid, but not outward from it. The result is that the molecules located at the surface are attracted toward the interior of the liquid.
 
-The surface tension coefficient can be determined using the Tensimeter of
-The French are not the same. This pressure gauge, which is outlined in the figure, consists of a ring
-suspended from a scale. By immersing the ring in a liquid, the strength can be measured.
-The need to apply the ring at the same time as the sheet
-It's going to break.
-The surface tension of the liquid () is determined from the ring radius and the value
-of force
-by:
+To determine the coefficient of surface tension, the Lecomte du Noüy tensiometer can be used. This tensiometer, which is schematized in the figure, consists of a ring suspended from a balance. By immersing the ring in a liquid, one can measure the force that must be exerted on the ring just at the moment when the liquid film is about to break.
+The surface tension of the liquid ( ) is determined from the radius of the ring and the value of the force by means of,
 
-Available items
-- The receiver
-- Wire, thread, wire
-- Iced sticks
-- The rule .
-- Pinza, scissor
-- Plastic
+Available elements
+- Container
+- Wire, thread, cable
+- Ice cream stick
+- Ruler
+- Clamp, scissors
+- Modeling clay
 - Water
-- Drying detergent
-- Balance of common use
+- Detergent
+- Common balance
 
 Activities
-(a) Build a pressure gauge with the available elements.
+a) Build a tensiometer with the available elements.
 
-(b) Measure the surface tension of water and a water mixture with detergent.
-The experimental problem
+b) Measure the surface tension of water and of a mixture of water with detergent.
+Experimental Problem
 Answer sheet.
 
-Incise
+Part
 
-Score
-a)
+Score a)
 
 b)
-Theoretical problem 1
-Answering sheet
-Incise
+Theoretical Problem 1
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
-Seven points.
+7 pts.
 b)
 
-Three points.
-Theoretical problem 2
-Answering sheet
-Incise
+3 pts.
+Theoretical Problem 2
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
-It is not possible to build a circuit that complies with the
-requirements
+It is not possible to build a circuit that meets the requirements
 
-Five points.
+5 pts.
 b)
 
-If it were possible to build a circuit, the dissipated power would be
+If it were possible to build a circuit, the power dissipated would be
 
-Three points.
+3 pts.
 c)
 
-Two points.
-Theoretical problem 3
-Answering sheet
-Incise
+2 pts.
+Theoretical Problem 3
+Answer Sheet
+Part
 
-Score
-a)
+Score a)
 
-Two points.
+2 pts.
 b)
 
 The water level inside the bell rises to a height of
 
-the bottom of it.
+with respect to the bottom of the same.
 
-Five points.
+5 pts.
 c)
 
-Three points.
-The experimental problem
+3 pts.
+Experimental Problem
 Answer sheet.
 
-Incise
+Part
 
-Score
-a)
+Score a)
 
-Eight points.
+8 pts.
 b)
 
 (See solution)
 
-12 points.
+12 pts.
 *
 
-* Los 12 ptos. they correspond to:
+* The 12 pts. correspond to:
 
-- Measurement of surface water tension: 6 pts.
+- Measurement of the surface tension of water: 6 pts.
 
-- Measurement of surface tension of water with detergent: 6 pts.
+- Measurement of the surface tension of water with detergent: 6 pts.
 
-For each measurement, points shall be allocated taking into account:
+For each measurement, the points will be distributed taking into account:
 
-- number of measurements made (repeats): maximum 3 points. 0,6 pts.
+ - number of measurements made (repetitions): maximum 3 pts. (0.6 pts.
 
-by measurement)
+ per measurement)
 
-- error spread: 2 points.
+ - error propagation: 2 pts.
 
-- correct use of units: 1 pto.
-SOLUCIÓN AL PROBLEMA TEÓRICO $N^{\circ}$ 1
-a)
-According to the First Principle of Thermodynamics, all mechanical energy is
-The heat will be converted into heat, which will be delivered to the system of the cantimplora, the
-water and ice.
-Just before the impact of the cantimplora with the ground, the mechanical energy of the system
-It's just kinetic energy.
+ - correct use of units: 1 point.
+SOLUTION TO THE THEORETICAL PROBLEM $N^{\circ}$ 1 a)
+According to the First Law of Thermodynamics, all the mechanical energy will be transformed into heat, which will be delivered to the system consisting of the canteen, the water and the ice.
+Just before the impact of the canteen with the ground, the mechanical energy of the system is only kinetic energy
 
-Since the friction with air is depreciative (no energy loss from friction)
-The total kinetic energy of the cantimplora before impact is absorbed by the
-the heat-form system ( ),
+Since the friction with the air is negligible (there is no energy loss due to friction with the air), all the kinetic energy of the canteen before the impact is absorbed by the system in the form of heat ( ),
 
-Initially the aluminium container, ice and water were in thermal equilibrium, by
-The system temperature is $0^{\circ}C$, and the system temperature is
+Initially the aluminum container, the ice and the water were in thermal equilibrium, therefore the initial temperature of the system is $0^{\circ}C$, and the final temperature of the system is
 $25^{\circ}C$
 
 Where
@@ -1339,116 +1305,84 @@ Where
 Then
 
 b)
-Planning a one-dimensional motion with the axis of the coordinate system
-vertical and pointing downwards,
+Setting up a one-dimensional motion with the axis of the coordinate system vertical and pointing downward,
 
-Considering the initial moment as the moment when the cantimplora is released and that the
-The initial speed is zero.
+Considering the initial instant as the moment when the canteen is released and that the initial velocity is zero
 Taking
-, the time the cantimplora reaches the ground is
+, the time at which the canteen reaches the ground is
 
-Taking the height at which the cantimplora is released as the origin of the
-Coordinates
+Taking the height, at which the canteen is released, as the origin of the coordinate system
 
 Then the height of the balloon is
-Solution to the theoretical problem $N^{\circ}$ 2
-a)
-According to the statement, there is a proportionality between the current flowing through the
-the engine coil, and the number of revolutions per minute of it.
-Therefore, for the engine to turn at half its maximum speed, it must
-current
+SOLUTION TO THEORETICAL PROBLEM $N^{\circ}$ 2 a)
+According to the statement, there is a proportionality between the current flowing through the motor winding and the number of revolutions per minute of the same.
+Therefore, for the motor to rotate at half its maximum speed, a current must flow
 
 Using Ohm's law,
 
-The resistance required for the current to circulate
- es
+The resistance necessary for the current to flow is
 
-For the engine to turn at one third of its maximum speed, a current must circulate,
+For the motor to rotate at one third of its maximum speed, a current must flow,
 
 And the resistance is
 
-With the given range of resistance and only making parallel connections, it's impossible
-achieving these resistance values.
-The equivalent resistance of a three-resistance connection in parallel is:
+With the given range of resistances and, only making parallel connections, it is impossible to achieve these resistance values.
+The equivalent resistance of a connection of three resistors in parallel is:
 
-Taking the extreme cases
- y
-, the values of
-equivalent strength are
- y
+Taking the extreme cases and
+, the equivalent resistance values are and
 , respectively.
-Since all possible combinations lead to resistance values
-intermediate between the calculated values
- y
-It 's not possible to build a circuit with
-three resistors that meet the requirements.
-Using only two parallel resistors, we find the extreme values
- y
-In the same way, it is not possible to build a circuit that meets the requirements of the
-requirements.
+Since all possible combinations lead to resistance values intermediate between the calculated values and
+, it is not possible to build a circuit with three resistors that meets the requirements.
+Using only two resistors in parallel, the extreme values are found and
+, and it is also not possible to build a circuit that meets the requirements.
 b)
-The power dissipated in a resistor connected to a potential difference and by the
-which a current is flowing,
+The power dissipated in a resistor connected to a potential difference and through which a current flows is,
 
-When the engine is running at half its maximum speed, the engine is
-The resistance required in the circuit is
+When the motor rotates at a speed equal to half its maximum speed, the necessary resistance in the circuit is
 .
 Then,
 
 c)
-Torque ( ) is given by the power delivered by the motor divided by the speed of the engine.
-It's the same.
+The torque ( ) is given by the power delivered by the motor divided by its speed,
 
-The maximum torque shall be given by the maximum power that the engine can deliver.
+The maximum torque will be given by the maximum power the motor can deliver
 
-And for its maximum speed
+And by its maximum speed
 
 Then,
-SOLUCIÓN AL PROBLEMA TEÓRICO $N^{\circ}$ 3
-a)
-Taking air as ideal gas,
+SOLUTION TO THE THEORETICAL PROBLEM $N^{\circ}$ 3 a)
+Taking the air as an ideal gas,
 
-where
-with
+where with
 ,
 
 Then,
 
 with
-,
- y
+, and
 
 b)
 
-With the bell submerged, the number of moles is kept constant and is met
-which
+With the bell submerged, the number of moles remains constant and it holds that
 
-where now the air volume is
+where now the volume of air is
 .
-Since the bell is in thermal equilibrium with water,
+Since the bell is in thermal equilibrium with the water,
 
-From the hydrostatic equation, the pressure
-is given by
-where
-,
-is the density of seawater and
-It's the acceleration of gravity.
+From the hydrostatic equation, the pressure is given by where
+, is the density of seawater and is the acceleration due to gravity.
 
-Since
-It's constant,
+Since is constant,
 
 Then
 
-By solving the quadratic equation, the possible solutions are
+Solving the quadratic equation, the possible solutions are
 
-The solution
-It doesn't make sense because it's bigger than the height of the bell.
-Then the water level inside the bell rises to a height of
-The Commission
-The bottom of it.
+The solution does not make sense since it is larger than the height of the bell.
+Then, the water level inside the bell rises to a height of with respect to the bottom of the bell.
 c)
-The minimum pressure will be the pressure at a deep
-
+The minimum pressure will be the pressure at a depth
 
 <!--fig:start-->
 
@@ -1520,14 +1454,8 @@ The minimum pressure will be the pressure at a deep
 </figure>
 
 
-*Campana da sub summers with aria and water*
+*Bell submerged with air and water*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/11TflCJFbRc9YqrKvjM8VCBzwJXV8NS0W/view)
 
 ## Figure
 
@@ -1558,21 +1486,21 @@ The minimum pressure will be the pressure at a deep
 ## Figure
 
 <!--fig:start-->
-**p.9** — Tensimetro di Lecomte du Noüy con anello
+**p.9** — Lecomte du Noüy tensiometer with ring
 ![[_attachments/2017_2da_prueba_preparatoria/2017_2da_prueba_preparatoria_p9_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.14**  Photo-tensometer constructed in the laboratory
+**p.14** — Photo of tensiometer built in the laboratory
 ![[_attachments/2017_2da_prueba_preparatoria/2017_2da_prueba_preparatoria_p14_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.21**  Photo-tensimeter with ring and liquid
+**p.21** — Photo of tensiometer with ring and liquid
 ![[_attachments/2017_2da_prueba_preparatoria/2017_2da_prueba_preparatoria_p21_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.22** — Foto misura tensione superficiale acqua
+**p.22** — Photo of surface tension measurement of water
 ![[_attachments/2017_2da_prueba_preparatoria/2017_2da_prueba_preparatoria_p22_f6.png]]
 <!--fig:end-->

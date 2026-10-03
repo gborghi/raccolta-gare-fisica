@@ -110,28 +110,23 @@ In un secondo tempo l'anello conduttore viene sostituito da due anelli concentri
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. 2  Field rings** *(100 Points)*
+**PROBLEM no. 2 — Rings in a field** *(100 points)*
 
-In a region of cylindrical space there is a uniform magnetic field $\vec B$, pointed vertically upwards, whose modulus, initially equal to $B_0$, varies linearly and cancels out over time $\tau$.
+In a cylindrical region of space there is a uniform magnetic field $\vec B$, directed vertically upward, whose magnitude, initially equal to $B_0$, varies linearly, vanishing in a time $\tau$.
 
-A conductive ring of $r$ radius shall be placed in the region, fixed in a plane perpendicular to $\vec B$, with the centre on the axis of the region.
+In the region there is placed a conducting ring of radius $r$, lying at rest in a plane perpendicular to $\vec B$, with its center on the axis of the region.
 
-1. Determine the energy absorbed by a $q$ charge that goes through a full spin in the ring as the magnetic field is varied. Determine the electric field $E$ module acting on the charge.
+1. Determine the energy absorbed by a charge $q$ that travels one complete turn in the ring while the magnetic field is being varied. Then determine the magnitude of the electric field $E$ acting on the charge.
 
-In a second time the conductive ring is replaced by two free-to-spin concentric rings on the same axis: the rings, made of dielectric and homogeneous material, have mass bands $m$, $r_1$ and $r_2$, with $r_2 > r_1$, and are uniformly distributed a module charge $q$, positive on the outer and negative on the inner ring. By varying the magnetic field in the same way as before, the two rings, initially stationary, spin.
+Subsequently, the conducting ring is replaced by two concentric rings free to rotate without friction about the same axis: the rings, made of a homogeneous dielectric material, have the same mass $m$, radii $r_1$ and $r_2$, with $r_2 > r_1$, and on them a charge of magnitude $q$ is distributed uniformly, positive on the outer ring and negative on the inner one. By varying the magnetic field in the same way as before, the two rings, initially at rest, begin to rotate.
 
-2. Determine the angular velocity of the two rings after completing a complete turn.
-3. At what angular velocities and in which direction do the rings turn after $\tau$ time?
-4. In a subsequent test the two rings are rigidly connected by means of dielectric material and of negligible mass. Find the angular velocity acquired by the system at $\tau$ time, when the field is off.
+2. Determine the magnitude of the angular velocities reached by the two rings after they have completed one full turn.
+3. With what angular velocities and in which direction do the rings rotate after the time $\tau$?
+4. In a subsequent test, the two rings are rigidly connected to each other by means of thin rods of dielectric material and negligible mass. Find the angular velocity acquired by the system at time $\tau$, when the field has died out.
 
-*Note: the moment of inertia of a ring of a uniform radius $r$ and mass $m$ is $I = m r^2$.*
+*Note: the moment of inertia of a homogeneous ring of radius $r$ and mass $m$ is $I = m r^2$.*
 
-**Topic:** [[Electromagnetic Induction]], [[Rotational Dynamics]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1SfDPqfj8k3KqIFSZfoZT6S0wSu-Qb9Oq/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_z1tIEy__Jm8JeXmjB5SSGINTq_kPUEo/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_z1tIEy__Jm8JeXmjB5SSGINTq_kPUEo/view)
 
 
 
@@ -188,46 +183,41 @@ c) la densità della stella e del pianeta siano praticamente uguali.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of solar panels in the solar system.
+**Extra-solar planets (transit of HD209458)**
 
-The Commission has already adopted a proposal for a regulation on the protection of the environment. 3  Extrasolar planets** *(100 Points)*
+**Problem no. 3 — Extra-solar planets** *(100 points)*
 
-On May 7, a transit of Mercury will be visible from Italy and on June 8, 2004, the rarest transit of Venus will occur. The two planets will appear as moving dark disks on the solar surface.
+Next May 7 a transit of Mercury will be visible from Italy, and on June 8, 2004 the rarest phenomenon of the transit of Venus; the two planets will appear as dark little disks moving across the solar surface.
 
-For some years it was thought that the existence of planetary systems other than our own and therefore of so-called exoplanets could be inferred from the observation of transits and in 1999 the first such event was announced. Because stars appear as point-like sources, such transits cannot be observed directly, but only through the change in brightness of the star.
+For some years it has been thought that the existence of planetary systems different from ours and therefore of so-called extra-solar planets could be deduced from the observation of transits, and in 1999 the first announcement of such an event was made. Since stars appear as point sources, such transits cannot be observed directly, but only through the variation in the star's brightness.
 
-The chart is fig. 3-1 schematically reports the light curve of a star (called **HD209458**, in the constellation of Pegasus) which by spectral and luminous characteristics can be thought of as having the same mass and radius as the Sun. The decrease in brightness, which is regularly repeated every $3.52$ day, is due to the "transit" of a planet of its own (dark and therefore not visible).
+The graph in fig. 3-1 schematically shows the light curve of a star (called **HD209458**, in the constellation Pegasus) which, by its spectral and luminosity characteristics, can be thought of as having the same mass and the same radius as the Sun. The decrease in luminosity, which repeats regularly every $3.52$ days, is due to the "transit" of one of its planets (dark and therefore not visible).
 
 <!--fig:start-->
 ![[_attachments/naz03t/naz03t_p2_f2.png]]
-The following table shows the results of the evaluation: 3-1: light curve $F/F_{\max}$ in terms of time $t$ (days), with trapezoidal clearance between points A, B, C, D from $1.00$ to approximately $0.985$.*
+*Fig. 3-1: light curve $F/F_{\max}$ as a function of time $t$ (days), with a trapezoidal dip between points A, B, C, D from $1.00$ to about $0.985$.*
 <!--fig:end-->
 
 <!--fig:start-->
 ![[_attachments/naz03t/naz03t_p2_f3.png]]
-The following table shows the results of the evaluation: 3-2: geometric pattern of transit; star S, planet P on orbit track, angle of inclination $i$, Earth to the right.*
+*Fig. 3-2: geometric scheme of the transit; star S, planet P on the orbit track, inclination angle $i$, Earth on the right.*
 <!--fig:end-->
 
 <!--fig:start-->
 ![[_attachments/naz03t/naz03t_p2_f4.png]]
-The following table shows the results of the evaluation: 3-3: a star disc traversed by the planet along a rope, with the orbit (treated) as seen from Earth.
+*Fig. 3-3: stellar disk crossed by the planet along a chord, with the orbit (dashed) as seen from Earth.*
 <!--fig:end-->
 
-The following assumptions are assumed as working assumptions:
-(a) the stellar disc is uniformly luminous;
-(b) the planet's orbit is circular;
-(c) the density of the star and the planet are virtually equal.
+Assume the following hypotheses, as working hypotheses:
+a) the stellar disk is uniformly bright;
+b) the planet's orbit is circular;
+c) the density of the star and of the planet are practically equal.
 
-1. Using the curve of light and planetary data, in Astronomical Units, obtain an estimate of the ratio of the planet's mass to that of Jupiter ($1\,M_{\mathrm G} = 1/1047\,M_\odot$).
-2. Determine the radius of the planet's orbit in Astronomical Units.
-3. Indicate which stages of transit correspond to points A, B, C and D of the chart.
-4. In the further simplified assumption that the Earth is in the fig plane. 3-2, very far to the right, and using transit time data, estimate the angle of inclination $i$ of the orbit plane relative to the Earth-star conjunction (in Fig. 3-3 the planet's orbit as seen from Earth).
+1. Using the light curve and the planet's data, in Astronomical Units, derive an estimate of the ratio between the mass of the planet and that of Jupiter ($1\,M_{\mathrm G} = 1/1047\,M_\odot$).
+2. Determine the radius of the planet's orbit, in Astronomical Units.
+3. Indicate to which phases of the transit the points A, B, C and D of the graph correspond.
+4. Under the further simplifying hypothesis that the Earth lies in the plane of fig. 3-2, very far to the right, and using the time data of the transit, estimate the inclination angle $i$ of the orbital plane with respect to the star-Earth line (in fig. 3-3 the planet's orbit as it would be seen from Earth).
 
-*Suggest: it is recommended, as is traditional in astrophysics, to express masses in units of Solar Mass ($1\,M_\odot = 1.99\times 10^{30}\ \text{kg}$), distances in Astronomical Units (average distance SunEarth: $1\,\text{A} = 1.50\times 10^{11}\ \text{m}$), times in Earth years of $365.24$ days (the units "days" and "years" are indicated by the symbols "d" and "y"; $1\,\text{y} = 365.24\,\text{d}$, $1\,\text{d} = 86400\ \text{s}$ respectively). Finally, it is useful to know the angular diameter of the Sun as seen from Earth: $\delta = 32'$.*
+*Hint: it is advisable, as is traditional in astrophysics, to express masses in units of Solar Mass ($1\,M_\odot = 1.99\times 10^{30}\ \text{kg}$), distances in Astronomical Units (mean Sun–Earth distance: $1\,\text{A} = 1.50\times 10^{11}\ \text{m}$), times in Earth years of $365.24$ days (the units "days" and "years" are denoted respectively by the symbols "d" and "y"; $1\,\text{y} = 365.24\,\text{d}$, $1\,\text{d} = 86400\ \text{s}$). Finally it is useful to know the angular diameter of the Sun as seen from Earth: $\delta = 32'$.*
 
-**Topic:** [[Astrophysics]], [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1SfDPqfj8k3KqIFSZfoZT6S0wSu-Qb9Oq/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_z1tIEy__Jm8JeXmjB5SSGINTq_kPUEo/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_z1tIEy__Jm8JeXmjB5SSGINTq_kPUEo/view)

@@ -34,21 +34,16 @@ Qual è l'ordine di grandezza delle somme che il computer riesce a fare nel temp
 
 <div class="qlang-split" data-lang="en"></div>
 
-A laptop runs about 30 million dollars a second.
+A laptop performs about 30 million additions per second.
 
-What is the order of magnitude of the amounts that the computer can make in the time you have to answer the questionnaire?
+What is the order of magnitude of the additions that the computer can do in the time you have available to answer the questionnaire?
 
 - **A.** $10^{9}$
 - **B.** $10^{11}$
 - **C.** $10^{13}$
 - **D.** $10^{15}$
 - **E.** $10^{17}$
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -81,9 +76,9 @@ Qual è il modulo della velocità $v$ del carrello da 2 kg dopo l'urto?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two wagons move along a straight line and collide. The data are shown in the figure (top). After the collision, the two cars move as shown in the figure below.
+Two carts move along a straight line and collide. The relevant data are shown in the figure (at the top). After the collision the two carts move as shown in the lower part of the figure.
 
-What is the speed $v$ of the 2 kg cart after impact?
+What is the magnitude of the velocity $v$ of the 2 kg cart after the collision?
 
 - **A.** $1.25\text{ m s}^{-1}$
 - **B.** $1.75\text{ m s}^{-1}$
@@ -94,12 +89,7 @@ What is the speed $v$ of the 2 kg cart after impact?
 ![[_attachments/1liv11T/1liv11T_p3_f1.png]]
 *Before/after collision, two carts*
 <!--fig:end-->
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -128,21 +118,16 @@ Trovare a che distanza dall'oggetto si forma l'immagine.
 
 <div class="qlang-split" data-lang="en"></div>
 
-An object is located $p = 10\text{ cm}$ from a convergent lens of focal length $f = 30\text{ cm}$.
+An object is located at a distance $p = 10\text{ cm}$ from a converging lens with focal length $f = 30\text{ cm}$.
 
-Find out how far away from the object the image is formed.
+Find at what distance from the object the image is formed.
 
 - **A.** 5 cm
 - **B.** 10 cm
 - **C.** 15 cm
 - **D.** 20 cm
 - **E.** 25 cm
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -175,9 +160,9 @@ Qual è l'automobile che ha l'accelerazione più grande in modulo, nell'interval
 
 <div class="qlang-split" data-lang="en"></div>
 
-The diagram represents the speed-time trend of five different cars, A, B, C, D and E.
+The diagram represents the velocity-time trend of five different cars, A, B, C, D and E.
 
-What is the car with the highest acceleration in the model, in the time interval from 10 seconds to 15 seconds?
+Which car has the greatest acceleration in magnitude, in the time interval from 10 s to 15 s?
 
 - **A.** A
 - **B.** B
@@ -186,14 +171,9 @@ What is the car with the highest acceleration in the model, in the time interval
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p3_f2.png]]
-The speed-time graph for five cars
+*Velocity-time graph for five cars*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -226,9 +206,9 @@ Quale dei grafici seguenti rappresenta meglio la sua velocità in funzione del t
 
 <div class="qlang-split" data-lang="en"></div>
 
-A balloon, after being blown in, is dropped from the ceiling of a school gym to the floor, 10 meters below.
+A balloon, after being inflated by mouth, is dropped from the ceiling of a school gymnasium to the floor, 10 meters below.
 
-Which of the following graphs best represents its speed with respect to time?
+Which of the following graphs best represents its velocity as a function of time?
 
 - **A.** A
 - **B.** B
@@ -237,14 +217,9 @@ Which of the following graphs best represents its speed with respect to time?
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p3_f3.png]]
-The following table shows the number of samples taken from the sample.
+*Five v(t) graphs for falling balloon*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -271,19 +246,14 @@ Due automobili hanno peso diverso e viaggiano a velocità diverse su un rettilin
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two cars have different weights and travel at different speeds on a flat straight line. To stop the two cars in the same time frame, two different forces are needed. In any case, the force majeure is the request to stop the car that has the most...
+Two cars have different weights and travel at different speeds on a flat straight road. To stop the two cars in the same time interval, two different forces are needed. In any case, the greater force is the one required to stop the car that has greater ...
 
-- **A.** ... The energy of the kinetic energy.
-- **B.** ... The mass.
+- **A.** ... kinetic energy.
+- **B.** ... mass.
 - **C.** ... weight.
-- **D.** ... amount of motorcycle.
-- **E.** ... The speed.
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+- **D.** ... momentum.
+- **E.** ... speed.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -316,9 +286,9 @@ Qual è la velocità della sciatrice nel punto più alto (B) del secondo rilievo
 
 <div class="qlang-split" data-lang="en"></div>
 
-A 50 kg skier is allowed to go from the side of a hill (point A in Figure) to a height of $h_1 = 20.4\text{ m}$, passing a second high ridge $h_2 = 8\text{ m}$ and reaching a plane at point C. In all this, friction can be considered negligible.
+A 50 kg skier lets herself go, from the side of a small hill (point A in the figure), at a height $h_1 = 20.4\text{ m}$, passing over a second rise of height $h_2 = 8\text{ m}$ and arriving on flat ground at point C. Along this entire path, friction can be considered negligible.
 
-What is the speed of the skier at the highest point (B) of the second survey?
+What is the skier's speed at the highest point (B) of the second rise?
 
 - **A.** $9.64\text{ m s}^{-1}$
 - **B.** $11.2\text{ m s}^{-1}$
@@ -329,12 +299,7 @@ What is the speed of the skier at the highest point (B) of the second survey?
 ![[_attachments/1liv11T/1liv11T_p4_f4.png]]
 *Ski slope with points A, B, C*
 <!--fig:end-->
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -363,21 +328,16 @@ Quanto vale il valor medio della forza frenante nel tratto CD?
 
 <div class="qlang-split" data-lang="en"></div>
 
-With reference to the previous question, reached at point C, the skier brakes and stops after 48 m at point D.
+With reference to the previous question, once she has reached point C, the skier brakes and stops after 48 m, at point D.
 
-What is the mean braking force value in the CD-track?
+What is the average value of the braking force over the segment CD?
 
 - **A.** 86.1 N
 - **B.** 208 N
 - **C.** 282 N
 - **D.** 328 N
 - **E.** 490 N
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -457,21 +417,16 @@ Qual è, sullo schermo, la distanza tra il massimo centrale e quello del primo o
 
 <div class="qlang-split" data-lang="en"></div>
 
-A single-ray beam of light, wavelength $5.8\times10^{-7}\text{ m}$, shall be perpendicular to two distant slits $2.0\times10^{-4}\text{ m}$. On a screen 2.0 m from the cracks, parallel to the plane of the cracks, an interference figure is formed.
+A monochromatic light ray, with wavelength $5.8\times10^{-7}\text{ m}$, strikes perpendicularly two slits that are $2.0\times10^{-4}\text{ m}$ apart. On a screen 2.0 m from the slits, placed parallel to the plane of the slits, an interference pattern is formed.
 
-What's the distance on the screen between the center maximum and the first order maximum?
+What is, on the screen, the distance between the central maximum and the first-order one?
 
 - **A.** $5.8\times10^{-11}\text{ m}$
 - **B.** $1.5\times10^{-3}\text{ m}$
 - **C.** $5.8\times10^{-3}\text{ m}$
 - **D.** $1.16\times10^{-1}\text{ m}$
 - **E.** $6.9\times10^{2}\text{ m}$
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -500,21 +455,16 @@ Quanto vale l'intensità della forza risultante che ha agito sull'automobile dur
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass $m = 1.2\times10^{3}\text{ kg}$ car accelerates evenly, on a straight linear stretch of road, from $v_1 = 10\text{ m s}^{-1}$ to $v_2 = 20\text{ m s}^{-1}$ in 5 seconds.
+A car of mass $m = 1.2\times10^{3}\text{ kg}$ accelerates uniformly, on a straight stretch of road, from $v_1 = 10\text{ m s}^{-1}$ to $v_2 = 20\text{ m s}^{-1}$ in 5 s.
 
-What is the intensity of the resulting force acting on the car during this time?
+What is the magnitude of the resultant force that acted on the car during this time interval?
 
 - **A.** $1.2\times10^{3}\text{ N}$
 - **B.** $2.4\times10^{3}\text{ N}$
 - **C.** $4.8\times10^{3}\text{ N}$
 - **D.** $1.2\times10^{4}\text{ N}$
 - **E.** $2.4\times10^{4}\text{ N}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -543,21 +493,16 @@ La valvola entrerebbe in funzione se la bombola raggiungesse una temperatura di 
 
 <div class="qlang-split" data-lang="en"></div>
 
-An air pump used by a plumber is filled at a pressure of 20 MPa, at a temperature of 20°C. The safety valve of the pump is tapered so that it opens when the pressure reaches 24.5 MPa. The full flask is left in the sun.
+An air cylinder used by a diver is filled at a pressure of 20 MPa, at a temperature of 20°C. The safety valve of the cylinder is set to open when the pressure reaches 24.5 MPa. The full cylinder is left in the sun.
 
-The valve would be operational if the pump reached a temperature of ...
+The valve would activate if the cylinder reached a temperature of ...
 
 - **A.** ... 62°C
 - **B.** ... 86°C
 - **C.** ... 104°C
 - **D.** ... 125°C
 - **E.** ... 137°C
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -590,9 +535,9 @@ Quale diagramma mostra correttamente il punto (Im) in cui si forma l'immagine de
 
 <div class="qlang-split" data-lang="en"></div>
 
-An object, represented schematically by an arrow, is placed in front of a concave mirror. Both C the center of curvature of the mirror, and F the fire.
+An object, schematically represented by an arrow, is placed in front of a concave mirror. Let C be the center of curvature of the mirror, and F the focus.
 
-What diagram correctly shows the point (Im) at which the image of the arrowhead is formed?
+Which diagram correctly shows the point (Im) at which the image of the tip of the arrow forms?
 
 - **A.** A
 - **B.** B
@@ -601,14 +546,9 @@ What diagram correctly shows the point (Im) at which the image of the arrowhead 
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p5_f6.png]]
-The following is a list of the types of mirror images that are used:
+*Five concave mirror ray diagrams*
 <!--fig:end-->
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -643,27 +583,22 @@ Quali cambiamenti avvengono alla sua energia potenziale gravitazionale $U$ e al 
 
 <div class="qlang-split" data-lang="en"></div>
 
-An elliptical asteroid, it moves from the nearest point to the Sun (point P: perielio) by traveling, in a certain time interval, a quarter of its orbit to the point Q.
+An asteroid in an elliptical orbit moves from the point closest to the Sun (point P: perihelion), traveling, in a certain time interval, a quarter of its orbit to point Q.
 
-What changes are occurring to its gravitational potential energy $U$ and its angular momentum $L$ (calculated relative to the Sun) between points P and Q?
+What changes occur in its gravitational potential energy $U$ and in the magnitude of its angular momentum $L$ (calculated with respect to the Sun) between points P and Q?
 
 | | $U$ | $L$ |
 |---|---|---|
-- MSK1 is increasing.
-- MSK1 decreases, remains unchanged.
-- MSK1 is unchanged.
-- MSK1 is increasing, it stays the same.
-- MSK1 is decreasing, it's increasing.
+- **A.** | increases | increases |
+- **B.** | decreases | remains unchanged |
+- **C.** | remains unchanged | decreases |
+- **D.** | increases | remains unchanged |
+- **E.** | decreases | increases |
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p5_f7.png]]
-*Elliptical orbits with perihelion P and point Q*
+*Elliptical orbit with perihelion P and point Q*
 <!--fig:end-->
-**Topic:** [[Gravitation]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -690,19 +625,14 @@ La carica elettrica su un oggetto potrebbe assumere uno tra i seguenti valori. Q
 
 <div class="qlang-split" data-lang="en"></div>
 
-The electrical charge on an object could take on one of the following values. What kind of a thing?
+The electric charge on an object could take one of the following values. Which one?
 
 - **A.** $+3.2\times10^{-18}\text{ C}$
 - **B.** $+2.4\times10^{-19}\text{ C}$
 - **C.** $-1.8\times10^{-18}\text{ C}$
 - **D.** $-0.80\times10^{-19}\text{ C}$
 - **E.** $-1.6\times10^{-20}\text{ C}$
-**Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -735,9 +665,9 @@ Quanto vale il modulo $F$ della forza?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A block of 3 kg is bound to another block of 5 kg which is in turn pulled by a horizontal force $\vec{F}$ which moves the two blocks on a frictionless plane. The acceleration of the two blocks is $1.8\text{ m s}^{-2}$.
+A 3 kg block is tied to another 5 kg block which in turn is pulled by a horizontal force $\vec{F}$ that makes the two blocks move on a frictionless plane. The acceleration of the two blocks is $1.8\text{ m s}^{-2}$.
 
-What is the value of the force module $F$?
+What is the magnitude $F$ of the force?
 
 - **A.** 3.6 N
 - **B.** 5.4 N
@@ -748,12 +678,7 @@ What is the value of the force module $F$?
 ![[_attachments/1liv11T/1liv11T_p5_f8.png]]
 *Two blocks connected with horizontal force*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -782,21 +707,16 @@ Quale, tra le affermazioni seguenti, descrive meglio come variano l'energia cine
 
 <div class="qlang-split" data-lang="en"></div>
 
-A solid sample is heated and its temperature is observed to rise, but the solid does not melt.
+A solid sample is heated and its temperature is observed to increase, but the solid does not melt.
 
-Which of the following statements best describes how the mean kinetic energy and the mean potential energy of the sample molecules vary during heating?
+Which of the following statements best describes how the average kinetic energy and the average potential energy of the molecules of the sample vary during heating?
 
-- **A.** Potential energy decreases and kinetic energy increases.
+- **A.** The potential energy decreases and the kinetic energy increases.
 - **B.** The potential energy increases and the kinetic energy remains constant.
 - **C.** The potential energy remains constant and the kinetic energy decreases.
 - **D.** The potential energy remains constant and the kinetic energy increases.
-- **E.** Both potential energy and kinetic energy are decreasing.
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+- **E.** Both the potential energy and the kinetic energy decrease.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -829,9 +749,9 @@ Quale dei seguenti vettori rappresenta meglio la forza elettrostatica agente sul
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two plastic points are equal and both are equally charged with negative charge; they are equally distant from a positively charged sphere, as shown in the figure.
+Two plastic tips are identical and both equally charged with negative charge; they are arranged at equal distance from a positively charged small sphere, as shown in the figure.
 
-Which of the following vectors best represents the electrostatic force of the agent on the sphere?
+Which of the following vectors best represents the electrostatic force acting on the small sphere?
 
 - **A.** A
 - **B.** B
@@ -840,14 +760,9 @@ Which of the following vectors best represents the electrostatic force of the ag
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p6_f9.png]]
-*Two negative charges and positive spheres*
+*Two negative charges and positive sphere*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -876,21 +791,16 @@ Il lavoro di estrazione dello zinco ...
 
 <div class="qlang-split" data-lang="en"></div>
 
-Photons with an energy of 7.9 eV impact a zinc plate, causing the emission of electrons whose kinetic energy has a maximum value of 4.0 eV.
+Photons with an energy of 7.9 eV strike a zinc plate, causing the emission of electrons whose kinetic energy has a maximum value of 4.0 eV.
 
-The zinc mining work ...
+The work function of zinc ...
 
-- **A.** ... è 11.9 eV.
-- **B.** ... è 7.9 eV.
-- **C.** ... è 4.0 eV.
-- **D.** ... è 3.9 eV.
-- **E.** ... can not be determined from the data available.
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+- **A.** ... is 11.9 eV.
+- **B.** ... is 7.9 eV.
+- **C.** ... is 4.0 eV.
+- **D.** ... is 3.9 eV.
+- **E.** ... cannot be determined with the available data.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -919,21 +829,16 @@ Dopo 20 minuti ...
 
 <div class="qlang-split" data-lang="en"></div>
 
-1.5 Water liters are at atmospheric pressure and temperature 20°C. The water is then heated by a boiler that provides 2.2 kJ of energy per second. Suppose you can ignore the scattered heat and evaporation of water below the boiling point.
+1.5 L of water are at atmospheric pressure and at a temperature of 20°C. Subsequently the water is heated by a kettle that supplies it with 2.2 kJ of energy per second. Assume that the heat lost and the evaporation of the water that occurs below the boiling point can be neglected.
 
 After 20 minutes ...
 
-- **A.** ... the water temperature has reached 22.4°C.
-- **B.** ... the water temperature has reached 84.3°C.
-- **C.** ... The water is boiling and there's still about a quarter of an inch of liquid left.
-- **D.** ... The water is boiling and there's 50 cubic centimetres of liquid left.
-- **E.** ... All the water has gone to vapor.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+- **A.** ... the temperature of the water has reached 22.4°C.
+- **B.** ... the temperature of the water has reached 84.3°C.
+- **C.** ... the water is boiling and 550 cm³ of liquid remain.
+- **D.** ... the water is boiling and 50 cm³ of liquid remain.
+- **E.** ... all the water has turned into steam.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -966,9 +871,9 @@ Quale coppia di punti si muove in fase?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a progressive wave on a rope.
+The figure shows a progressive wave on a string.
 
-What pair of points moves in phase?
+Which pair of points moves in phase?
 
 - **A.** A, D
 - **B.** A, G
@@ -979,12 +884,7 @@ What pair of points moves in phase?
 ![[_attachments/1liv11T/1liv11T_p6_f10.png]]
 *Progressive wave on string with labeled points*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1013,21 +913,16 @@ A parità di temperatura dell'ambiente esterno e del forno, la sostituzione ha m
 
 <div class="qlang-split" data-lang="en"></div>
 
-The door of an industrial oven has a thermal conductivity coefficient $K = 46\text{ W m}^{-1}\text{K}^{-1}$ and a thickness of 3 mm. The door is replaced by another heat conductivity door $K' = 109\text{ W m}^{-1}\text{K}^{-1}$ and 9 mm thick.
+The door of an industrial oven has a thermal conductivity coefficient $K = 46\text{ W m}^{-1}\text{K}^{-1}$ and a thickness of 3 mm. The door is replaced by another door with thermal conductivity $K' = 109\text{ W m}^{-1}\text{K}^{-1}$ and thickness 9 mm.
 
-At the same temperature of the outer environment and the furnace, the replacement multiplied the heat power scattered through the door of a factor...
+With the external environment and oven temperature unchanged, the replacement multiplied the thermal power dissipated through the door by a factor of ...
 
 - **A.** ... 0.15
 - **B.** ... 0.79
 - **C.** ... 1
 - **D.** ... 1.38
 - **E.** ... 1.84
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1060,9 +955,9 @@ Sapendo che la tensione del filo è di 70 N, determinare la massa dell'uccello.
 
 <div class="qlang-split" data-lang="en"></div>
 
-A bird lies exactly in the middle of a 6 m long, negligible mass thread, stretched between two supports; at that point, because of its weight, the bird causes the thread to drop by 10 cm.
+A bird lands exactly at the midpoint of a 6 m long wire, of negligible mass, stretched between two supports; at that point, due to its weight, the bird makes the wire sag by 10 cm.
 
-Knowing that the wire voltage is 70 N, determine the mass of the bird.
+Knowing that the tension of the wire is 70 N, determine the mass of the bird.
 
 - **A.** 121 g
 - **B.** 232 g
@@ -1071,14 +966,9 @@ Knowing that the wire voltage is 70 N, determine the mass of the bird.
 - **E.** 554 g
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p7_f11.png]]
-The following is the list of the countries of the European Union:
+*Bird on wire with sag geometry*
 <!--fig:end-->
-**Topic:** [[Rigid Body Statics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1107,21 +997,16 @@ Quale delle seguenti affermazioni è falsa?
 
 <div class="qlang-split" data-lang="en"></div>
 
-It is considered a reversible adiabatic transformation of a system consisting of a certain amount of perfect gas.
+Consider a reversible adiabatic transformation of a system consisting of a certain amount of ideal gas.
 
-Which of the following is false?
+Which of the following statements is false?
 
-- **A.** There is no heat flow from outside the system, nor to the outside.
+- **A.** There is no heat flow from outside the system, nor toward the outside.
 - **B.** The entropy of the initial state is equal to that of the final state.
-- **C.** The change in the internal energy of the gas is $-\int P\,dV$.
+- **C.** The change in internal energy of the gas is equal to $-\int P\,dV$.
 - **D.** The mechanical work done by the gas is given by $\int P\,dV$.
-- The gas temperature remains constant.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+- **E.** The temperature of the gas remains constant.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1154,25 +1039,20 @@ Quando la luce passa dal mezzo A al mezzo B:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a beam of light passing from one medium to another.
+The figure shows a light ray passing from one medium to another.
 
-When the light passes from middle A to middle B:
+When light passes from medium A to medium B:
 
-- **A.** both speed and frequency decrease.
+- **A.** both the speed and the frequency decrease.
 - **B.** the speed decreases, the frequency does not change.
-- **C.** both speed and frequency remain unchanged.
-- **D.** both speed and frequency increase.
+- **C.** both the speed and the frequency remain unchanged.
+- **D.** both the speed and the frequency increase.
 - **E.** the speed increases, the frequency does not change.
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p7_f12.png]]
-*Light ray passing from medium A to B *
+*Light ray passing from medium A to B*
 <!--fig:end-->
-**Topic:** [[Geometric Optics]], [[Wave Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1205,25 +1085,20 @@ Quali, tra le seguenti relazioni di velocità e pressione, nei due punti indicat
 
 <div class="qlang-split" data-lang="en"></div>
 
-A homogeneous non-compressible fluid flows in a stationary mode through a horizontal tube which, as shown in the figure, is constricted.
+A homogeneous and incompressible fluid flows in steady state within a horizontally arranged pipe that, as in the figure, has a narrowing.
 
-Which of the following speed-pressure ratios, in the two points shown in the figure, are both correct?
+Which, among the following relations of velocity and pressure, at the two points indicated in the figure, are both correct?
 
-- **A.** $v_1 < v_2$ e $p_1 = p_2$
-- **B.** $v_1 < v_2$ e $p_1 > p_2$
-- **C.** $v_1 = v_2$ e $p_1 < p_2$
-- **D.** $v_1 > v_2$ e $p_1 = p_2$
-- **E.** $v_1 > v_2$ e $p_1 > p_2$
+- **A.** $v_1 < v_2$ and $p_1 = p_2$
+- **B.** $v_1 < v_2$ and $p_1 > p_2$
+- **C.** $v_1 = v_2$ and $p_1 < p_2$
+- **D.** $v_1 > v_2$ and $p_1 = p_2$
+- **E.** $v_1 > v_2$ and $p_1 > p_2$
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p7_f13.png]]
-The following table shows the results of the tests:
+*Horizontal tube with constriction*
 <!--fig:end-->
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1256,9 +1131,9 @@ Sapendo che la distanza tra gli assi è di 3 m determinare la distanza in orizzo
 
 <div class="qlang-split" data-lang="en"></div>
 
-A truck is weighed on a road scale: the weight is 10000 N and of this 8000 N weigh on the rear axle.
+A small truck is weighed on a road scale: the weight is 10000 N and of this 8000 N bears on the rear axle.
 
-Knowing that the distance between the axles is 3 m, determine the horizontal distance ($x$ in figure) between the rear axle and the centre of mass of the truck.
+Knowing that the distance between the axles is 3 m, determine the horizontal distance ($x$ in the figure) between the rear axle and the center of mass of the small truck.
 
 - **A.** 0.6 m
 - **B.** 0.8 m
@@ -1267,14 +1142,9 @@ Knowing that the distance between the axles is 3 m, determine the horizontal dis
 - **E.** 3.0 m
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p8_f14.png]]
-The vehicle shall be equipped with a single-stage engine.
+*Truck on scale with axle forces*
 <!--fig:end-->
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1301,19 +1171,14 @@ Per costruire un voltmetro si può pensare di utilizzare la bobina di un galvano
 
 <div class="qlang-split" data-lang="en"></div>
 
-To build a voltmeter, one can think of using the coil of a galvanometer (which is used to measure small currents passing through it) along with an appropriate resistance.
+To build a voltmeter, one can consider using the coil of a galvanometer (which is used to measure small currents passing through it) together with a suitable resistance.
 
-- **A.** A large series resistance to the galvanometer is required.
-- **B.** A small series resistance to the galvanometer is required.
-- **C.** A high resistance is required in parallel with the galvanometer.
-- **D.** A small resistance parallel to the galvanometer is required.
-- **E.** A voltmeter cannot be obtained by using a galvanometer.
-**Topic:** [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Galvanometer (object)|Galvanometer]], [[Resistor (object)|Resistor]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+- **A.** A large resistance in series with the galvanometer is needed.
+- **B.** A small resistance in series with the galvanometer is needed.
+- **C.** A large resistance in parallel with the galvanometer is needed.
+- **D.** A small resistance in parallel with the galvanometer is needed.
+- **E.** A voltmeter cannot be obtained using a galvanometer.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1344,7 +1209,7 @@ Quale, tra i grafici mostrati, rappresenta la relazione che sussiste, in un gas 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which of the graphs shown represents the relationship that exists in a perfect gas between the mean kinetic energy value of a molecule, $E_c$, and its absolute temperature, $T$?
+Which, among the graphs shown, represents the relationship that exists, in a perfect gas, between the average value of the kinetic energy of a molecule, $E_c$, and its absolute temperature, $T$?
 
 - **A.** A
 - **B.** B
@@ -1353,14 +1218,9 @@ Which of the graphs shown represents the relationship that exists in a perfect g
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p8_f15.png]]
-The following table shows the results of the calculations:
+*Five graphs of Ec vs temperature*
 <!--fig:end-->
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1393,9 +1253,9 @@ In quale tratto, tra quelli indicati con A, B, C, D od E, la velocità del corpo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph in this figure represents, depending on the time, the position of an object moving along the $x$ axis.
+The graph in the figure represents, as a function of time, the position of an object moving along the $x$ axis.
 
-In which of the A, B, C, D, or E traits is the body's speed positive while its acceleration is negative?
+In which segment, among those indicated with A, B, C, D or E, is the velocity of the body positive while its acceleration is negative?
 
 - **A.** A
 - **B.** B
@@ -1404,14 +1264,9 @@ In which of the A, B, C, D, or E traits is the body's speed positive while its a
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p8_f16.png]]
-The following table shows the position of the data subject in the table:
+*Position vs time graph with labeled segments*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1444,9 +1299,9 @@ Quanto lavoro si compie per allungare questa molla di 40 cm?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph represents the elastic strength of a spring in relation to the length of the spring itself.
+The graph represents the elastic force of a spring as a function of the elongation of the spring itself.
 
-How much work does it take to stretch this spring by 40 centimeters?
+How much work is done to stretch this spring by 40 cm?
 
 - **A.** 4.8 J
 - **B.** 6.0 J
@@ -1455,14 +1310,9 @@ How much work does it take to stretch this spring by 40 centimeters?
 - **E.** 24 J
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p8_f17.png]]
-The following table shows the results of the calculations:
+*Spring force vs elongation graph*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]], [[Conservation of Energy]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1495,7 +1345,7 @@ La densità del liquido è
 
 <div class="qlang-split" data-lang="en"></div>
 
-A student has to determine the density of a liquid. The measures implemented are as follows:
+A student must determine the density of a liquid. The measurements taken are the following:
 
 - Volume of liquid in a beaker: 20.0 mL
 - Mass of the empty beaker: 30.0 g
@@ -1508,12 +1358,7 @@ The density of the liquid is
 - **C.** $7.5\times10^{2}\text{ kg m}^{-3}$
 - **D.** $0.75\text{ kg m}^{-3}$
 - **E.** $3.75\times10^{3}\text{ kg m}^{-3}$
-**Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1542,21 +1387,16 @@ Quanto vale la forza d'attrito tra le ruote e la strada, se l'automobile riesce 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A 900-kg car travels slowly along a curve with a constant radius of 25 m, being the slippery road. Its speed is $5\text{ m s}^{-1}$ while the friction coefficient between the wheels and the road is 0.51.
+A 900 kg car slowly travels around a curve with a constant radius of 25 m, the road being slippery. The magnitude of its speed is equal to $5\text{ m s}^{-1}$ while the coefficient of friction between the wheels and the road is 0.51.
 
-What is the friction between the wheels and the road if the car can complete the curve?
+What is the value of the friction force between the wheels and the road, if the car manages to complete the curve?
 
 - **A.** $1.13\times10^{5}\text{ N}$
 - **B.** $9.80\times10^{4}\text{ N}$
 - **C.** $4.4\times10^{4}\text{ N}$
 - **D.** $4.5\times10^{3}\text{ N}$
 - **E.** $0.9\times10^{3}\text{ N}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1589,9 +1429,9 @@ Quale vettore indica la direzione e il verso in cui si sta muovendo il punto P i
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a transverse pulse moving to the right on a rope. P is a point on the string.
+The figure shows a transverse pulse moving to the right along a string. P is a point on the string.
 
-What vector indicates the direction and direction in which point P is moving at this moment?
+Which vector indicates the direction and sense in which point P is moving at this instant?
 
 - **A.** A
 - **B.** B
@@ -1600,14 +1440,9 @@ What vector indicates the direction and direction in which point P is moving at 
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv11T/1liv11T_p9_f18.png]]
-Transverse pulse on string with point P
+*Transverse pulse on string with point P*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1636,21 +1471,16 @@ Quale, tra i valori indicati, può esprimere la spinta idrostatica sul pallone a
 
 <div class="qlang-split" data-lang="en"></div>
 
-An air balloon, filled with helium and with a total mass of 1.5 kg, is rising rapidly, at constant vertical speed, to a height of 100 m above the ground.
+A helium-filled hot-air balloon, with a total mass of 1.5 kg, is rising quickly, at a constant vertical speed, up to a height of 100 m from the ground.
 
-Which of the values indicated can express the hydrostatic thrust on the ball at 50 m altitude?
+Which of the indicated values can express the buoyant force on the balloon at a height of 50 m?
 
 - **A.** 0 N
 - **B.** 1.47 N
 - **C.** 2.2 N
 - **D.** 14.7 N
 - **E.** 22 N
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1679,21 +1509,16 @@ Se al satellite è applicata solo la forza gravitazionale $F_g$, la sua velocit�
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass satellite $m$ orbiting the Earth. The orbit is circular and has a radius $R$.
+A satellite of mass $m$ orbits around the Earth. The orbit is circular and has radius $R$.
 
-If only the gravitational force $F_g$ is applied to the satellite, its speed shall be given by:
+If only the gravitational force $F_g$ is applied to the satellite, its speed is given by:
 
 - **A.** $\sqrt{\frac{F_g R}{m}}$
 - **B.** $\frac{F_g R}{m}$
 - **C.** $\sqrt{\frac{F_g m}{R}}$
 - **D.** $\frac{F_g m}{R}$
 - **E.** $F_g m R$
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'Settlement of the European Union's financial instruments.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1726,9 +1551,9 @@ Qual è il modulo della velocità $\vec{v}$ delle particelle che attraversano lu
 
 <div class="qlang-split" data-lang="en"></div>
 
-A well-cooled beam of particles, of mass $m$ and electric charge $q$, passes through a furnace, in a chamber of length $L$. Inside the chamber are an electric field $\vec{E}$ and a magnetic field $\vec{B}$ both uniform, constant and oriented as shown in the figure.
+A well-collimated beam of particles, of mass $m$ and electric charge $q$, passes through a small hole, into a chamber of length $L$. Inside the chamber there are an electric field $\vec{E}$ and a magnetic field $\vec{B}$, both uniform, constant and oriented as in the figure.
 
-Qual è il modulo della velocità $\vec{v}$ delle particelle che attraversano lungo una retta tutta la camera ed escono dal secondo forellino posto sulla parete opposta?
+What is the magnitude of the velocity $\vec{v}$ of the particles that travel along a straight line through the entire chamber and exit from the second small hole on the opposite wall?
 
 - **A.** $\sqrt{EqL/m}$
 - **B.** $\sqrt{EqL/m + B^2q^2L^2/m^2}$
@@ -1739,12 +1564,7 @@ Qual è il modulo della velocità $\vec{v}$ delle particelle che attraversano lu
 ![[_attachments/1liv11T/1liv11T_p9_f19.png]]
 *Velocity selector chamber with E and B fields*
 <!--fig:end-->
-**Topic:** [[Electromagnetism]], [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-**Risposta:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1776,9 +1596,9 @@ Si vuol sapere qual è l'accelerazione dell'oggetto dopo essere caduto per 6.0 s
 
 <div class="qlang-split" data-lang="en"></div>
 
-On planet X, without atmosphere, a body has mass $m = 15\text{ kg}$ and weight $W = 60\text{ N}$. You let the body fall free into an area near the surface of the planet.
+On planet X, which has no atmosphere, a body has mass $m = 15\text{ kg}$ and weight $W = 60\text{ N}$. The body is released in free fall in an area near the surface of the planet.
 
-You want to know what the acceleration of the object is after it's fallen for 6.0 seconds.
+We want to know what the acceleration of the object is after it has fallen for 6.0 s.
 
 - **A.** $0.25\text{ m s}^{-2}$
 - **B.** $4.0\text{ m s}^{-2}$
@@ -1786,14 +1606,9 @@ You want to know what the acceleration of the object is after it's fallen for 6.
 - **D.** $15\text{ m s}^{-2}$
 - **E.** $24\text{ m s}^{-2}$
 ![[_attachments/1liv11T/1liv11T_p10_f21.png]]
-The following information is provided by the Commission on the basis of the information provided by the Member States:
+*Hydrogen absorption spectra, 5 options*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Gravitation]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1870,15 +1685,15 @@ Che cosa rappresenta la pendenza di questo grafico?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows the relationship that has been found between the load of a body and the work done by an external force, when the body is moved between two fixed points A and B, in an electrostatic field (in the absence of other types of interaction).
+The graph shows the relationship that was found between the charge of a body and the work done by an external force, when the body is moved between two fixed points A and B, in an electrostatic field (in the absence of other types of interaction).
 
 What does the slope of this graph represent?
 
 - **A.** Power
 - **B.** Electric current
-- **C.** The electrical force module
-- **D.** The intensity of the electric field
-- **E.** The difference in potential
+- **C.** The magnitude of the electric force
+- **D.** The strength of the electric field
+- **E.** The potential difference
 <!--fig:start-->
 
 
@@ -1925,14 +1740,9 @@ What does the slope of this graph represent?
 </figure>
 
 
-The following information is provided for in Article 2 (1) of Regulation (EU) No 1303/2013.
+*Work vs charge in electrostatic field*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the Community's common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)
 
 
 
@@ -1963,20 +1773,15 @@ Tenendo conto che nel disegnare i successivi 5 diagrammi, identificati con le le
 
 <div class="qlang-split" data-lang="en"></div>
 
-The diagram on the right shows four absorption lines obtained with a spectroscope, passing white light through a container containing hydrogen atoms, in a laboratory.
+The diagram on the right shows four absorption lines obtained with a spectroscope, by passing white light through a container containing hydrogen atoms, in a laboratory.
 
-Observing a certain star moving away from the Earth shows an analogue spectrum due to the absorption of light emitted by hydrogen in the atmosphere of that star.
+Observing a certain star that is moving away from the Earth, an analogous spectrum is recorded due to the absorption of the emitted light by the hydrogen present in the atmosphere of that star.
 
-Given that in drawing the following 5 diagrams, identified by the letters A, B, C, D and E, the same wavelength range was considered and the exact same scale (increasing to the left) was used, which of these can represent the observed spectrum of the star?
+Taking into account that in drawing the subsequent 5 diagrams, identified with the letters A, B, C, D and E, the same wavelength interval was considered and exactly the same scale was used (increasing toward the left), which of these can represent the observed spectrum of the star?
 
 - **A.** A
 - **B.** B
 - **C.** C
 - **D.** D
 - **E.** E
-**Topic:** [[Modern-Quantum Physics]], [[Astrophysics]], [[Special Relativity]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Atom (object)|Atom]], [[Star (object)|Star]], [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/12RyqYyBn_UvpYXvbBMP7iZIb8Cgdc_X4/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the prevention of trafficking in human beings'.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1hI2-wZ3R2dihKW6h5tnJjuP4s6Fn_SWW/view)

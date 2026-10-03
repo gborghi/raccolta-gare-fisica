@@ -1348,17 +1348,20 @@ e) R$ 8,00
 
 <div class="qlang-split" data-lang="en"></div>
 
-16. A physics student decides to calculate the electrical energy consumption of some of the more power-dissipating household appliances he owns. To do this, he checks the nameplates on each appliance and records the following values:
-01 electric iron ($400\ \text{W}$–$220\ \text{V}$);
-01 electric shower ($3000\ \text{W}$–$220\ \text{V}$);
-01 toaster ($500\ \text{W}$–$220\ \text{V}$).
+16. A Physics student decides to do the calculations on the electrical energy consumption of some of the most dissipative electrical appliances he has at home. To do this, he consults the nameplates of each appliance he has, noting the following values:
+ 01 electric iron ($400\ \text{W}$–$220\ \text{V}$);
+ 01 electric shower ($3000\ \text{W}$–$220\ \text{V}$);
+ 01 toaster ($500\ \text{W}$–$220\ \text{V}$).
+Using each of these appliances on average 10 minutes per day, how much will the consumption cost (approximately in reais) over 30 days, if the local electric power company charges R$ 0,25 por 1 kWh?
+a) R$ 2.87
 
-Using each of these appliances on average 10 minutes per day, what will be the approximate cost (in reais) of energy consumption over 30 days, if the local electricity company charges R$ 0.25 per 1 kWh?
-a) R$ 2,87
-b) R$ 10,00
-c) R$ 3,00
-d) R$ 4,87
-e) R$ 8,00
+b) R$ 10.00
+
+c) R$ 3.00
+
+d) R$ 4.87
+
+e) R$ 8.00
 
 
 

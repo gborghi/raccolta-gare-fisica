@@ -427,24 +427,18 @@ Due sfere di masse $M_1 = 4\ \mathrm{kg}$ e $M_2 = 3\ \mathrm{kg}$ e raggi $R_1 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the countries of the European Union:
+**Spheres connected**
 
-Two spheres of mass $M_1 = 4\ \mathrm{kg}$ and $M_2 = 3\ \mathrm{kg}$ and radii $R_1 = 5\ \mathrm{cm}$ and $R_2 = 2\ \mathrm{cm}$ are connected by an ideal rope of unextensible and negligible mass, which passes on a carriage placed at the top of a double-deck slope. Starting from the stands, the spheres roll without slipping on their respective planes, as shown in Figure 1, where the angles are $\alpha = 30^\circ$ and $\beta = 60^\circ$. How much is the rope voltage?
+Two spheres of masses $M_1 = 4\ \mathrm{kg}$ and $M_2 = 3\ \mathrm{kg}$ and radii $R_1 = 5\ \mathrm{cm}$ and $R_2 = 2\ \mathrm{cm}$ are connected by an ideal inextensible rope of negligible mass, which passes over a pulley placed at the vertex of a double inclined plane. Starting from rest, the spheres roll without slipping on their respective planes, as shown in the figure, in which the angles are $\alpha = 30^\circ$ and $\beta = 60^\circ$. What is the tension in the rope?
 
-
-The following is the list of the measurement units: The following information is provided:
+**Units of measurement:** N. **Required precision:** 0.5%.
 
 <!--fig:start-->
 ![[_attachments/allenamento_AlbertiniNola_2026t/allenamento_AlbertiniNola_2026t_p4_f3.png]]
-*Two spheres connected by tilted rope*
+*Two spheres connected by a rope on an inclined plane*
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1m5yyGcN3l8qPP3VGPX8AszsuYlWWQheD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MTNQIk0MrN5Zjtkl8phVm_KfYh9z5Rc-/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MTNQIk0MrN5Zjtkl8phVm_KfYh9z5Rc-/view)
 
 
 
@@ -650,18 +644,13 @@ Il *Large Zenith Telescope* (LZT) è un telescopio canadese molto particolare: s
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Telescopio a specchio**
+**Mirror telescope**
 
-Il *Large Zenith Telescope* (LZT) è un telescopio canadese molto particolare: si tratta di un telescopio a specchio liquido, in cui lo specchio parabolico è ottenuto mettendo in rotazione del mercurio liquido (di densità $13.546\times10^3\ \mathrm{kg/m^3}$) contenuto in un cilindro con asse verticale, in quantità sufficiente a formare completamente la superficie riflettente. Determine the angular velocity $\omega$ at which the cylinder must rotate around its axis for the mirror to have a focal length of $9\ \mathrm{m}$.
+The *Large Zenith Telescope* (LZT) is a very unusual Canadian telescope: it is a liquid-mirror telescope, in which the parabolic mirror is obtained by setting liquid mercury (with density $13.546\times10^3\ \mathrm{kg/m^3}$) contained in a cylinder with a vertical axis into rotation, in an amount sufficient to completely form the reflecting surface. Determine the angular velocity $\omega$ with which the cylinder must rotate about its own axis for the mirror to have a focal length of $9\ \mathrm{m}$.
 
-**Unità di misura:** $\mathrm{rad\,s^{-1}}$. **Precisione richiesta:** 0.5%.
+**Units of measurement:** $\mathrm{rad\,s^{-1}}$. **Required precision:** 0.5%.
 
-**Topic:** [[Fluid Mechanics]], [[Geometric Optics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1m5yyGcN3l8qPP3VGPX8AszsuYlWWQheD/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MTNQIk0MrN5Zjtkl8phVm_KfYh9z5Rc-/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1MTNQIk0MrN5Zjtkl8phVm_KfYh9z5Rc-/view)
 
 
 

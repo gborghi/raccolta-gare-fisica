@@ -59,46 +59,41 @@ Si supponga che tutte le parti in legno della macchina siano fatte con lo stesso
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement to the European Parliament and to the Council.
+**P1 — Milestones 1: ...dedicated to Leonardo** *(40 points)*
 
-The "helical mechanism", of which the photo on the left shows a model built on the basis of Leonardo da Vinci's original studies and drawings (Madrid Code I, sheet 17, versus  shown below), serves to lift an object of mass $M$ by employing a force (applied to the wooden handle at the top right) less than the object's weight; in this sense one can speak of a "useful" machine.
+The "helical mechanism", of which the photo on the left shows a small model built on the basis of the studies and original drawings of Leonardo da Vinci (Madrid Codex I, sheet 17, verso — shown below), is used to lift an object of mass $M$ by employing a force (applied to the wooden crank at the top right) smaller than the weight of the object; in this sense one can speak of a "useful" machine.
 
-A detailed and enlarged diagram of the same machine is given on page 9 (separate sheet) for the measures required below.
+An enlarged schematic drawing of the same machine is shown on page 9 (separate sheet) for the measurements required in the following.
 
-*[Photo: wood model of the mechanism, with vertical frame, a large toothed wheel coupled to a horizontal endless screw driven by a handle; the wheel hangs, via a rope wrapped on a coaxial cylinder, a weight. Next to it is Leonardo's original sketch from the Madrid Code I.
+*[Photo: wooden model of the mechanism, with a vertical frame, a large gear wheel coupled to a horizontal worm screw driven by a crank; from the wheel hangs, by means of a rope wound on a coaxial cylinder, a weight. Beside it, Leonardo's original sketch from the Madrid Codex I.]*
 
-1. After reading the entire text of the problem, and having identified a solving strategy, the device diagram shown on the following page is used to determine all the measurements of the components needed to provide the numerical answers required below. The radius $r$ of the cylinder on which the rope supporting the object is wrapped shall be taken as a unit of measurement.
+1. After reading the entire text of the problem, and having identified a solution strategy, use the diagram of the apparatus shown on the following page to determine all the measurements of the components necessary to provide the numerical answers required in the following. Assume as unit of measurement the radius $r$ of the cylinder on which the rope supporting the object is wound.
 
-Assuming that all friction can be ignored, the work done to move the handle of an infinitesimal $d\ell$ stroke determines the lifting of the object of a $dz$ stroke. Suppose the lift is slow enough to overlook the kinetic energies of the various components.
+Assuming for the moment that all friction can be neglected, the work done to move the crank by an infinitesimal amount $d\ell$ causes the object to be raised by an amount $dz$. Assume that the lifting is sufficiently slow that the kinetic energies of the various components can be neglected.
 
-2. Determine the minimum force to be applied to the handle to lift the object, using the necessary dimensions obtained from the image, and tell why it is a "useful" machine.
+2. Determine the minimum force to be applied to the crank to lift the object, using the necessary quantities obtained from the image, and state why it is a "useful" machine.
 
-3. Assuming that 75 percent of the power used is dissipated in friction and deformation of the parts, say the machine is still "useful".
+3. Assuming now that 75% of the power used is dissipated in friction and deformation of the parts, state whether the machine is still "useful."
 
-Consider now the case of a operation which does not take place very slowly, while the suspended mass is lifted at a constant speed $v$, so that the various parts of the machine have acquired a certain kinetic energy.
+Consider now the case of an operation that does not occur very slowly, while the suspended mass is lifted at constant speed $v$, so that the various parts of the machine have acquired a certain kinetic energy.
 
-Assume that all the wood parts of the machine are made of the same $\rho$ density wood, thought for simplicity as a homogeneous material, that the thickness of the toothed wheel is $1/12$ of its diameter, excluding the teeth. For simplicity's sake, the teeth of the larger wheel are neglected and the shape of the endless screw and the handle are considered cylindrical.
+Assume that all the wooden parts of the machine are made of the same wood with density $\rho$, thought of for simplicity as a homogeneous material, that the thickness of the gear wheel is equal to $1/12$ of its diameter, excluding the teeth. For simplicity, neglect the presence of the teeth of the larger wheel and consider the shape of the worm screw and that of the crank to be cylindrical.
 
-4. It is estimated that which piece between the toothed wheel (without the teeth's contribution), the endless screw and the handle, acquired the most kinetic energy, showing the necessary calculation.
+4. Estimate which part among the gear wheel (without the contribution of the teeth), the worm screw, and the crank has acquired the greatest kinetic energy, showing the necessary calculation.
 
-The following information is provided by the Commission: 9: Scale diagram of the helical mechanism, from which the measurements of the components in units of $r$ are derived.]*
+*[Attachment on p. 9: scaled schematic drawing of the helical mechanism, from which the measurements of the components in units of $r$ can be derived.]*
 
 <!--fig:start-->
-The following table shows the methodology used for the calculation of the value of the samples.
+**p.4** — Model of Leonardo's helical mechanism
 ![[_attachments/Naz19-T/Naz19-T_p4_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the countries of the European Union.
+**p.4** — Original drawing by Leonardo, Madrid Codex
 ![[_attachments/Naz19-T/Naz19-T_p4_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rotational Dynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Gear (object)|Gear]], [[Rope/String (object)|Rope/String]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1MYYzVhVf7ErTL6mmKJhvr2QrvPBKmV3y/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
 
 
 
@@ -368,69 +363,63 @@ Il raggio dell'alone è legato al valore di $\delta_0$ trovato alla domanda 5. P
 
 <div class="qlang-split" data-lang="en"></div>
 
-The light from the ice: one single for the Sun
+**P4 — Light from ice: a halo for the Sun** *(100 points)*
 
-The solar halo, like the one shown in the photo, is a phenomenon that occurs under particular weather conditions. It is a thin ring of light that surrounds the Sun, visible in a clear sky: in the inner area near the ring, the sky appears darker, while in the outer area, a faint brightness is observed that gradually diminishes until it connects with the usual blue color of the clear sky.
+The solar halo, like the one shown in the photo, is a phenomenon that occurs under particular meteorological conditions. It is a thin luminous ring surrounding the Sun, visible in a clear sky: in the inner region near the ring the sky appears darker, while in the outer region a faint luminosity is observed that gradually decreases until it blends with the usual blue color of the clear sky.
 
-This is because there is a cloud of tiny ice crystals in the sky, shaped like hexagonal prisms, which cause partially deflected sunlight to appear when it hits one of the side walls.
+The phenomenon is due to the presence in the sky of a cloud of tiny ice crystals, having the shape of hexagonal prisms, which cause the Sun's rays that strike one of the lateral faces to be able to emerge partly deviated.
 
-The purpose of this problem is to understand how the light ring is formed, corresponding to a particular value of the angle of deflection, and to calculate that value.
+The purpose of this problem is to understand how the formation of the luminous ring occurs, at a particular value of the deviation angle, and to calculate that value.
 
-For simplicity's sake, only those crystals whose axis is perpendicular to the plane defined by an incident and deflected beam reaching the observer will be taken into account, as shown in the figure to the left. The deviation angle $\delta$ is the one shown in the right-hand figure where the angle of incidence $i$, the angle of internal refraction $r$, the angle of internal refraction $i'$ and the angle of external refraction $r'$ are also defined.
+For simplicity, only the crystals whose axis is perpendicular to the plane defined by an incident ray and the deviated one that reaches the observer will be taken into consideration, as shown in the figure on the left. The deviation angle $\delta$ is the one shown in the figure on the right, in which the angle of incidence $i$, the internal refraction angle $r$, the internal incidence angle $i'$ and the external refraction angle $r'$ are also defined.
 
-It is obvious that by normal incidence on a side face "e" all rays emerge from the opposite side face "p", without being deflected. For non-zero angle incidence ($0° < i < 90°$) the rays may emerge from the opposite parallel face ("p") or one of the immediately adjacent faces ("c"), or from one of the faces "s" adjacent to the entrance face "e".
+It is obvious that for normal incidence on a lateral face "e" all rays emerge from the opposite lateral face "p", without being deviated. For non-zero angles of incidence ($0° < i < 90°$) the rays could emerge from the opposite parallel face ("p") or from one of those immediately adjacent ("c"), or from one of the faces "s" adjacent to the entry face "e".
 
+1. Determine the minimum value $n_{\min}$ of the refractive index for which any ray incident on face "e" and refracted toward face "s" does not exit from "s".
 
-1. Determine the minimum $n_{\min}$ of the refractive index for which any incident ray on the face 'e' and refracted to the face 's' does not exit from 's'.
+The rays incident on face "e" are refracted either toward face "s", or toward face "c", or toward face "p". With values of the refractive index greater than $n_{\min}$, the rays refracted toward "s" are then reflected toward "c" and from there exit. The rays refracted toward "c" may exit or be reflected again inside the prism. The rays refracted toward "p" exit the prism.
 
-The incident rays on the "e" face are reflected either towards the "s" face, or towards the "c" face, or towards the "p" face. With refractive index values greater than $n_{\min}$, the rays reflected towards "s" are then reflected towards "c" and exit from there. The rays reflected back toward "c" can either be reflected out or reflected back into the prism. The rays reflected back to "p" come out of the prism.
+2. Considering a uniform beam of light that is incident on face "e" with angle of incidence $i$, calculate the fraction $\eta$ of this that is refracted directly toward face "p" (that is, without undergoing internal reflections on other faces), as a function of the angle of incidence $i$ and of the refractive index $n$.
 
-2. Considering a uniform beam of light that affects the face 'e' with an angle of incidence $i$, calculate the fraction $\eta$ of this that is reflected directly towards the face 'p' (i.e. without internal reflections on other faces), according to the angle of incidence $i$ and the index of refraction $n$.
+To study the phenomenon of the halo we will concern ourselves, from now on, only with the rays refracted toward face "c".
 
-To study the phenomenon of the halo, we will now only deal with rays reflected towards the face "c".
+**ATTENTION:** From here on, determine the value of the angles with an accuracy of $1/100$ of a degree.
 
-**Alert: ** From here on, determine the value of the angles with an accuracy of $1/100$ degree.
+3. Knowing that the refractive index $n$ of ice for visible light of different colors is on average $1.310$, calculate the minimum value of the angle of incidence $i$ for which some ray refracted toward face "c" can emerge from it. Also calculate the corresponding angle of deviation $\delta$.
 
-3. Knowing that the refractive index $n$ of the ice for visible light of different colours is on average $1.310$, calculate the minimum value of the angle of incidence $i$ for which some refractive rays towards the face 'c' can emerge from it. Also calculate the corresponding angle of deviation $\delta$.
+The principle of reversibility of the optical path can be expressed by saying that "if to go from a point $A$ to a point $B$ light follows a certain path, then starting from $B$ it can reach $A$ by traveling the same path in the reverse direction."
 
-The principle of reversibility of the optical path can be expressed by saying that "if to go from a point $A$ to a point $B$ the light follows a certain path, then starting from $B$ it can reach $A$ by going in the opposite direction the same path".
+4. Without the need for further calculations, but by exploiting the principle cited above, determine the angles ($i$, $r'$ and $\delta$) corresponding to the maximum value of the angle of incidence for which some ray can emerge from face "c".
 
-4. Without further calculation, but using the principle mentioned above, determine the angles ($i$, $r'$ and $\delta$) corresponding to the maximum value of the angle of incidence for which some rays can emerge from the face 'c'.
+Given the symmetry related to the reversibility principle stated above, it is easy to understand for which angle of incidence $i_0$ the angle of deviation $\delta$ will have a minimum or maximum value $\delta_0$ which is precisely the angular radius of the halo.
 
-Given the symmetry linked to the principle of reversibility stated above, it is easy to understand for which angle of incidence $i_0$ the angle of deviation $\delta$ will have a minimum or maximum value $\delta_0$ which is exactly the angular radius of the halo.
+5. Determine the values of $i_0$ and $\delta_0$ and say whether it is a maximum or a minimum value.
 
-5. Determine the value of $i_0$ and $\delta_0$ and tell whether it is a maximum or a minimum value.
-
-The $\delta(i)$ function is rather complicated; it is
+The function $\delta(i)$ is rather complicated; in fact it turns out
 $$\delta(i) = i + \arcsin\!\left[\frac{\sqrt 3}{2}\sqrt{n^2 - \sin^2 i} - \frac{1}{2}\sin i\right] - 60°.$$
-For this reason, for the next study, in a fairly wide circle of $\delta_0$ it is convenient to approximate it with the second degree polynomial $y(x) = ax^2 + bx + c$ where $y$ is the angle of deviation and $x$ the angle of incidence, $b = -0.6889$ and $c = 35.93°$.
+For this reason, for the subsequent study, in a sufficiently wide neighborhood of $\delta_0$ it is convenient to approximate it with the second-degree polynomial $y(x) = ax^2 + bx + c$ where $y$ is the angle of deviation and $x$ the angle of incidence, $b = -0.6889$ and $c = 35.93°$.
 
-6. Determine the $a$ coefficient of the given polynomial and verify, for at least two different values of $i$, that the relative approximation error is less than $1\%$ in the $30° \le i \le 55°$ range.
+6. Determine the coefficient $a$ of the given polynomial and verify, for at least two different values of $i$, that the relative error of the approximation is less than $1\%$ in the interval $30° \le i \le 55°$.
 
-The radius of the halo is related to the $\delta_0$ value found in question 5. To understand this, assume that the crystals considered are very large in number $N$ and are randomly oriented so that the statistical distribution of the angle of incidence $i$ is uniform.
+The radius of the halo is related to the value of $\delta_0$ found in question 5. To understand this fact, suppose that the crystals considered are very large in number $N$ and that they are randomly oriented so that the statistical distribution of the angle of incidence $i$ is uniform.
 
-7. Using the polynomial approximation, the ratio between the width of the range of incidence angles for which the deviation differs from $\delta_0$ by less than $0.01°$ and the width of the range for which the deviation differs from $\delta_0$ between $1.0°$ and $1.01°$ is determined.
+7. Using the polynomial approximation, determine the ratio between the width of the interval of angles of incidence for which the deviation differs from $\delta_0$ by less than $0.01°$ and the width of the interval for which the deviation differs from $\delta_0$ between $1.0°$ and $1.01°$.
 
-8. Explain how the halo radius is connected to the minimum value of the angular deviation $\delta_0$.
+8. Explain how the radius of the halo is connected to the minimum value of the angular deviation $\delta_0$.
 
 <!--fig:start-->
-The following is the list of the countries of the European Union and the European Union:
+**p.7** — Photo of the solar halo in the sky
 ![[_attachments/Naz19-T/Naz19-T_p7_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total weight of the product:
+**p.7** — Three-dimensional hexagonal prismatic crystal
 ![[_attachments/Naz19-T/Naz19-T_p7_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7 **  Geometry of the radius deviation in the crystal
+**p.7** — Geometry of the ray deviation in the crystal
 ![[_attachments/Naz19-T/Naz19-T_p7_f6.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1MYYzVhVf7ErTL6mmKJhvr2QrvPBKmV3y/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16NR7JezlH-_z8SJ3G_KFzoWKm2cjRzbl/view)

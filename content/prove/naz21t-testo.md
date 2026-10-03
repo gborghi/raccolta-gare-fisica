@@ -418,43 +418,38 @@ I due fili si muovono ora entrambi con velocità $\vec{v}$ parallela ai fili ste
 
 <div class="qlang-split" data-lang="en"></div>
 
-P4 Two parallel wires loaded  Points 50
+P4 Two parallel charged wires — Points 50
 
-On two insulating wires  straight, parallel and infinite length, at a distance $2a$ from each other  opposite sign loads with uniform linear density $\pm\lambda$ are arranged.
+On two insulating wires – straight, parallel and of infinite length, at distance $2a$ from each other – charges of opposite sign are arranged with uniform linear density $\pm\lambda$.
 
-Consider, on a plane perpendicular to the wires shown in Figure 1, the radius circumference $a$ passing through the intersections with the two wires, as shown in Figure 1.
+Consider, on a plane perpendicular to the wires represented in the figure, the circumference of radius $a$ passing through the intersections with the two wires, as in figure 1.
 
-1. Calculate the electric field modulus at each point P of the circumference (excluding the points of intersection with the wires) and tell which points is the minimum.
+1. Calculate the magnitude of the electric field at every point P of the circumference (excluding the points of intersection with the wires) and state at which points it is minimum.
 
-2. To show that the two semicircular centre O which have as their extremes the intersections of the strings with the plane of the figure are two field lines.
+2. Prove that the two semicircumferences with center O that have as endpoints the intersections of the wires with the plane of the figure are two field lines.
 
-The following is the list of the following:
+Figure 1
 
-A positive charge particle $q$ and mass $m$ is bound to move on a circular guide of radius $2a$ flat and concentric to the previous circumference (see paragraphs 1 and 2). The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The guide is made of an insulating material and the particle can run over it with negligible friction.
+A particle of positive charge $q$ and mass $m$ is constrained to move on a circular guide of radius $2a$ coplanar and concentric with the previous circumference (see figure 2). The guide is made of an insulating material and the particle can slide on it with negligible friction.
 
 Figure 2
 
-3. Determine all the equilibrium points for the particle, indicating whether it is stable or unstable.
+3. Determine all the equilibrium points for the particle, indicating whether it is stable or unstable equilibrium.
 
-4. The particle, initially placed at the point of unstable equilibrium, is moved a small amount and left free. Determine the velocity of the particle as it passes through the stable equilibrium point.
+4. The particle, initially placed at the unstable equilibrium point, is displaced by a small amount and left free. Determine the speed of the particle when it passes through the stable equilibrium point.
 
-The two wires are now moving both at $\vec{v}$ speed parallel to the wires themselves.
+The two wires now both move with speed $\vec{v}$ parallel to the wires themselves.
 
-5. Show that at each point the magnetic field $\vec{B}$ is perpendicular to the electric field $\vec{E}$ and that the ratio between the modules of the fields is $B = vE/c^2$ (i.e. $vB = (v/c)^2 E$).
+5. Show that at every point the magnetic field $\vec{B}$ is perpendicular to the electric field $\vec{E}$ and that the relation $B = vE/c^2$ holds between the magnitudes of the fields (that is, $vB = (v/c)^2 E$).
 
 <!--fig:start-->
-**p.8 **  Two wires loaded and circumference, figure 1
+**p.8** — Two charged wires and a circumference, figure 1
 ![[_attachments/Naz21T-testo/Naz21T-testo_p8_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the number of lines of reference for each line of the reference line:
+**p.8** — Geometry of the wires and the circumference, figure 2
 ![[_attachments/Naz21T-testo/Naz21T-testo_p8_f7.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1PN1czic7q4QAuxIyaU4xNqDt1fTyeIqc/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/19jxRB9knsJL-R7MJcFdpidms0yTohAnu/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/19jxRB9knsJL-R7MJcFdpidms0yTohAnu/view)

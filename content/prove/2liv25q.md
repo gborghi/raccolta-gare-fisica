@@ -379,11 +379,8 @@ La densità superficiale del cartone è $\sigma = 200\ \text{g}\ \text{m}^{-2}$.
 <div class="qlang-split" data-lang="en"></div>
 
 q8
-Un foglio rigido di cartone, di spessore trascurabile, largo $a$ = 50 cm e
-alto $h$ = 80 cm è appoggiato sul lato più corto a una parete liscia. Si
-Observe that the sheet is in balance without slipping on the floor alone
-If the angle $\alpha$ between the sheet plane and the floor is greater than $\alpha_0 = 70^\circ$ (see paragraphs 1 and 2)
-The Commission has not yet adopted a proposal.
+A rigid sheet of cardboard, of negligible thickness, $a$ = 50 cm wide and $h$ = 80 cm high, rests on its shorter side against a smooth wall. It is observed that the sheet stays in equilibrium without sliding on the floor only if the angle $\alpha$ between the plane of the sheet and the floor is greater than $\alpha_0 = 70^\circ$ (see
+figure).
 The surface density of the cardboard is $\sigma = 200\ \text{g}\ \text{m}^{-2}$.
 • Determine the coefficient of static friction between the cardboard and the floor.
 
@@ -411,15 +408,10 @@ The surface density of the cardboard is $\sigma = 200\ \text{g}\ \text{m}^{-2}$.
 </figure>
 
 
-*board supported to the wall at the alpha0 angle*
+*cardboard resting against the wall angle alpha0*
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1xjivKiSf5wl_c5Dau5Vd3A87DYuBaY98/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gXL_kgxazSAfd4aebV-Mi7et7ZlGTXZc/view)
 
 
 

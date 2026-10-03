@@ -203,85 +203,61 @@ d) Calcule la densidad del sólido.
 
 Problema 2
 
-Una lunga colonna verticale è chiusa alla sua estremità inferiore e aperta alla sua estremità
-superiore. Si riempie in parte con un liquido e si raffredda a $-5\ ^\circ\text{C}$. A questa temperatura, il
-il liquido si solidifica al di sotto di un determinato livello, rimanendo liquido al di sopra del
-La Commissione ha adottato una decisione del Consiglio. Se la temperatura scende fino a $-5{,}2\ ^\circ\text{C}$, si osserva che l'interfase
-il liquido solido sale a 40 cm.
+Una lunga colonna vertical è chiusa all'estremità inferiore e aperta all'estremità superiore. Viene riempita parzialmente con un liquido e raffreddata a $-5\ ^\circ\text{C}$. A questa temperatura, il liquido si solidifica al di sotto di un certo livello, rimanendo liquido al di sopra di esso (vedi figura). Se la temperatura diminuisce fino a $-5{,}2\ ^\circ\text{C}$, si osserva che l'interfaccia solido-liquido sale di 40 cm.
 
-È noto che:
-Il calore latente della trasformazione liquido-solido è $L = 2\ \text{cal/g}$
-La densità della fase liquida è $\rho_l = 1\ \text{g/cm}^3$.
-In tali condizioni si risponde che:
+Si sa che:
+ Il calore latente della trasformazione liquido-solido è $L = 2\ \text{cal/g}$
+ La densità della fase liquida è $\rho_l = 1\ \text{g/cm}^3$.
+ In queste condizioni si ha che:
 
 $$\frac{\Delta P}{\Delta T} = \frac{L}{T\left(\dfrac{1}{\rho_l} - \dfrac{1}{\rho_s}\right)}$$
 
-in cui $\Delta P$ rappresenta la variazione di pressione nell'interfase solido-liquido e $T$ la
-temperatura iniziale espressa in gradi Kelvin.
-Gli effetti di espansione termica possono essere trascurati.
+dove $\Delta P$ rappresenta la variazione di pressione sull'interfaccia solido-liquido e $T$ la temperatura iniziale espressa in gradi Kelvin.
+ Si possono trascurare gli effetti di dilatazione termica.
 
-a) Trova un'espressione per $(h_1 - h_2)$.
+a) Trovare un'espressione per $(h_1 - h_2)$.
 
-b) Trova un'espressione per $P_1$ (pressure sull'interfaccia liquido-solido a $T=-5^{\circ}C$)
+b) Trovare un'espressione per $P_1$ (pressione sull'interfaccia liquido-solido a $T=-5^{\circ}C$)
 e $P_2$ (pressione sull'interfaccia liquido-solido a $T=-5{,}2^{\circ}C$)
 
-c) Trova un'espressione per $\Delta P$
+c) Trovare un'espressione per $\Delta P$
 
 d) Calcolare la densità del solido.
 
-
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p3_f2.png]]
-*Collonna liquido-solido a due temperature*
+*Colonna liquido-solido a due temperature*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 2
 
-A long vertical column is closed at its lower end and open at its end
-higher. It is partially filled with a liquid and cooled to $-5\ ^\circ\text{C}$. At this temperature, the
-The liquid is solidified below a given level, remaining liquid above the
-The Commission has not yet adopted a proposal for a regulation. If the temperature decreases to $-5{,}2\ ^\circ\text{C}$, the interphase is observed to be
-solid-liquid is up to 40 cm.
+A long vertical column is closed at its lower end and open at its upper end. It is partially filled with a liquid and cooled to $-5\ ^\circ\text{C}$. At this temperature, the liquid solidifies below a given level, remaining liquid above it (see figure). If the temperature decreases to $-5{,}2\ ^\circ\text{C}$, it is observed that the solid-liquid interface rises 40 cm.
 
 It is known that:
-The latent heat of the liquid-solid transformation is $L = 2\ \text{cal/g}$
-The density of the liquid phase is $\rho_l = 1\ \text{g/cm}^3$.
-Under these conditions:
+ The latent heat of the liquid-solid transformation is $L = 2\ \text{cal/g}$
+ The density of the liquid phase is $\rho_l = 1\ \text{g/cm}^3$.
+ Under these conditions it holds that:
 
 $$\frac{\Delta P}{\Delta T} = \frac{L}{T\left(\dfrac{1}{\rho_l} - \dfrac{1}{\rho_s}\right)}$$
 
-where $\Delta P$ represents the pressure variation in the solid-liquid interface and $T$ the
-The initial temperature is expressed in Kelvin degrees.
-The effects of thermal expansion can be overlooked.
+where $\Delta P$ represents the pressure variation at the solid-liquid interface and $T$ the initial temperature expressed in degrees Kelvin.
+ The effects of thermal expansion can be neglected.
 
-(a) Find an expression for $(h_1 - h_2)$.
+a) Find an expression for $(h_1 - h_2)$.
 
-(b) Find an expression for $P_1$ (pressure on the liquid-solid interface to $T=-5^{\circ}C$)
-and $P_2$ (pressure on the liquid-solid interface to $T=-5{,}2^{\circ}C$)
+b) Find an expression for $P_1$ (pressure on the liquid-solid interface at $T=-5^{\circ}C$)
+and $P_2$ (pressure on the liquid-solid interface at $T=-5{,}2^{\circ}C$)
 
-(c) Find an expression for $\Delta P$
+c) Find an expression for $\Delta P$
 
-(d) Calculate the density of the solid.
-
+d) Calculate the density of the solid.
 
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p3_f2.png]]
-*Liquid-solid colonna at due temperature*
+*Liquid-solid column at two temperatures*
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
 
 
 
@@ -1148,38 +1124,31 @@ Dove $P_o$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem is 3
+Problem 3
 
-An electron, traveling at $V_0 = 1\ \text{m s}^{-1}$, enters a region of space where
-a uniform electric field $E$, of a module equal to $1{,}14\times10^{-11}\ \text{N C}^{-1}$ (see figure).
-After traveling a distance of 1 m, the electron enters a region where the field is
-electrical has disappeared.
-Finally, the electron travels a distance of 20 cm and enters a region where it exists.
-a uniform magnetic field $\vec{B}$, of a modulus equal to $0{,}6\ \mu\text{G}$ (see figure).
+An electron, traveling with velocity $V_0 = 1\ \text{m s}^{-1}$, enters a region of space where there is a uniform electric field $E$, with magnitude equal to $1{,}14\times10^{-11}\ \text{N C}^{-1}$ (see figure).
+After traveling a distance of 1 m, the electron enters a region where the electric field has disappeared.
+Finally, the electron travels a distance of 20 cm and enters a region where there is a uniform magnetic field $\vec{B}$, with magnitude equal to $0{,}6\ \mu\text{G}$ (see figure).
 
-Knowing that the charge-mass ratio of the electron is $-1{,}76\times10^{8}\ \text{C/g}$ and disregarding the
-The effects of gravity.
+Knowing that the charge-to-mass ratio of the electron is $-1{,}76\times10^{8}\ \text{C/g}$ and neglecting the effects of gravity.
 
-(a) Determine the electron speed at position A.
+a) Determine the velocity of the electron at position A.
 
-(b) Determine the vertical distance to point B to which the electron passes.
+b) Determine the vertical distance from point B at which the electron passes.
 
-c) Draw a diagram of the path of the electron for the whole space.
+c) Draw a sketch of the electron's trajectory for all of space.
 
-(d) A uniform electric field is to be applied in the region where the field is located;
-magnetic, so that the electron passes through point B. Determine the
-The magnitude, direction and direction of the electric field required to accomplish this.
+d) It is desired to apply a uniform electric field, in the region where the magnetic field exists, in such a way that the electron passes through point B. Determine the magnitude, direction, and sense of the electric field necessary to accomplish this.
 
 Useful data:
 
 $1\ \text{T} = 10^4\ \text{G}$
 
-Theoretical problem 1
-Answering sheet
+Theoretical Problem 1
+Answer Sheet
 
 Solution
-Score
-a.
+Score a.
 $Q_{12} =$
 
 b.
@@ -1197,14 +1166,13 @@ f.
 $T_1 =$
 
 g.
-Eficiencia $\eta$ =
+Efficiency $\eta$ =
 
-Theoretical problem 2
-Answering sheet
+Theoretical Problem 2
+Answer Sheet
 
 Solution
-Score
-a.
+Score a.
 $h_1 - h_2 =$
 
 b.
@@ -1218,12 +1186,11 @@ $\Delta P =$
 d.
 $\rho_s =$
 
-Theoretical problem 3
-Answering sheet
+Theoretical Problem 3
+Answer Sheet
 
 Solution
-Score
-a.
+Score a.
 $V_A =$
 
 b.
@@ -1234,120 +1201,87 @@ c.
 d.
 $E =$
 
-Argentine Olympic Games in Physics
+Argentine Physics Olympiad
 
-Preparatory tests
-Second test: thermodynamics,
-Electricity and magnetism
-The experimental part
+Preparatory Tests
+Second Test: Thermodynamics,
+Electricity and Magnetism
+Experimental Part
 
-The following is the list of the countries of the European Union:
+Name: ..................................................................
 
-D.N.I.: ......................................................................
+I.D. number: ......................................................................
 
-School: ........................... is not a school
+School: .................................................................
 
-- Before you start solving the test read carefully ALL the
-The Commission has not yet adopted a decision.
-- Write your name and D.N.I. number. in the appropriate place. No
-Write your name anywhere else on the test.
-- Don't write answers on the statement sheets because they won't be
-Considered.
-- Write on one side of the leaves.
-Objective: Determine the saturation concentration of a solution of water and salt
-The table.
+- Before starting to solve the test, carefully read the ENTIRE statement of the same.
+- Write your name and your I.D. number in the indicated place. Do not write your name anywhere else on the test.
+- Do not write answers on the statement sheets since they will not be considered.
+- Write on only one side of the sheets.
+Objective: Determine the saturation concentration of a solution of water and table salt.
 
-Sodium chloride, more commonly known as table salt, is a compound whose
-The chemical formula is NaCl. Sodium chloride is one of the salts responsible for salinity
-The ocean and extracellular fluid of many organisms.
-When a mass of salt is mixed with water, a solution is formed, as the salt (soluted) is
-dissolves in water (solvent). If a new amount of salt is added to the solution, it does not
-The solution is said to have reached the point of
-saturation. This maximum concentration point depends on the temperature of the liquid, so
-as to the chemical nature of the substances involved. The saturation point is
-expressed in grams of solvent (salt) per 100 ml of water.
+Sodium chloride, more commonly known as table salt, is a compound whose chemical formula is NaCl. Sodium chloride is one of the salts responsible for the salinity of the ocean and of the extracellular fluid of many organisms.
+When a mass of salt is mixed in water, a solution is formed, since the salt (solute) dissolves in the water (solvent). If, upon adding a new amount of salt to the solution, it does not dissolve completely, then the solution is said to have reached the saturation point. This point of maximum concentration depends on the temperature of the liquid, as well as on the chemical nature of the substances involved. The saturation point is expressed in grams of solute (salt) per 100 ml of water.
 
-Proposal for a Council Directive
-Determine the saturation point of table salt in water by studying the equilibrium of the
-The force of a body when it is (partially) submerged in water. This is why I
-It proposes the construction of a variable mass densimeter.
+Proposal
+Determine the saturation point of table salt in water by studying the force equilibrium of a body when it is (partially) submerged in water. To this end, the construction of a variable-mass hydrometer is proposed.
 
-Other materials
-For the construction of the densometer:
-- disposable syringe (without needle)
-- Material for sealing and weight (e.g. plastic)
+Materials
+For the construction of the hydrometer:
+- Disposable syringe (without the needle)
+- Material to seal and use as a weight (e.g., modeling clay)
 
-For measurements:
-- Density built by you.
+For the measurements:
+- Hydrometer built by you.
 - Water
-- Get out of the table (as you wish)
-- Graduate recipient
-- A vessel of appropriate size for use in its density meter
-- Salt distiller (e.g. gasket, spoon, etc.)
-- syringe (without the needle)
-- Mixers (e.g. spoon, stick, pencil, etc.)
-- Aultic thermometer.
+- Table salt (whatever you have)
+- Graduated container
+- Container of suitable size to use your hydrometer
+- Salt dispenser (e.g., soda bottle cap, teaspoon, etc.)
+- Syringe (without the needle)
+- Stirrer (e.g., teaspoon, stick, pen, etc.)
+- Classroom thermometer.
 
-NOTE: for water and salt solution we recommend not to use more than 250-300 $\text{cm}^3$ of
-- What?
+NOTE: for the water and salt solution, we recommend not using more than 250-300 $\text{cm}^3$ of water.
 
-Construction of the densometer
-a- Dispose of the syringe plunger and seal the tip of the syringe. Add one
-mass/weight to the syringe so that when it is placed in water, it floats
-The following table shows the results of the study:
+Construction of the hydrometer a- Discard the plunger of the syringe and seal the tip of the syringe. Add a mass/weight to the syringe such that when it is placed in water, it floats vertically (See figure).
 Development of the experiment
-In the graduated container (Rg) place a known amount of water ($V_A$); in this
-container will be the solution.
+In the graduated container (Rg) place a known amount of water ($V_A$); the solution will be made in this container.
 
-b- Put water in container R and place the densometer you made.
-Add a mass of water inside the densimeter so that it stays
-I'm going to dive to a depth you set.
-Determine the volume of water used ($V_\text{agua}$). Repeat this measurement a number
-sufficient times to determine this volume with its corresponding volume
-Uncertainty. Report this value.
+b- In container R, place water and position the hydrometer you made.
+Add a mass of water inside the hydrometer so that it remains submerged to a depth defined by you.
+Determine the volume of water used ($V_\text{agua}$). Repeat this measurement a sufficient number of times to determine said volume with its corresponding uncertainty. Report this value.
 
-Add a dose of salt to the Rg container (containing $V_A$ of water) and mix well.
-Add a volume of this solution to the inside of the densimeter (empty) so that
-The same is dipped to the depth you defined in point b.
-Determine the volume of solution used ($V_\text{sol}$). Repeat this measurement a number
-sufficient times to determine this volume with its corresponding volume
-Uncertainty.
-Repeat measurements for different amounts of salt doses in the solution,
-The salt is then dissolved in the
-water). Make a table showing the number of salt (s) doses and the volume
-The solution ($V_\text{sol}$) used in the measurements with their corresponding uncertainties.
+c- Add a dose of salt to container Rg (which contains $V_A$ of water) and mix well.
+Add a volume of this solution inside the (empty) hydrometer so that it submerges to the depth defined by you in point b-.
+Determine the volume of solution used ($V_\text{sol}$). Repeat this measurement a sufficient number of times to determine said volume with its corresponding uncertainty.
+Repeat the measurements for different amounts of salt doses in the solution, until reaching the saturation point (when the salt no longer dissolves in the water). Make a table recording the number of salt doses (n) and the volume of solution ($V_\text{sol}$) used in the measurements with their corresponding uncertainties.
 
-d- Draw a graph of n vs. $V_\text{agua} / V_\text{sol}$.
+d- Make a graph of n vs. $V_\text{agua} / V_\text{sol}$.
 
-e- Perform a linear adjustment of the above graph and determine the slope and the ordered to the
-the origin of the straight resulting. Report these values with their corresponding uncertainty.
+e- Perform a linear fit of the previous graph and determine the slope and the y-intercept of the resulting line. Report these values with their corresponding uncertainty.
 
-(f) perform a theoretical analysis of the situation and demonstrate that:
+f- Perform a theoretical analysis of the situation and show that,
 
 $$\frac{V_\text{agua}}{V_\text{sol}} = \frac{m_\text{sal}}{V_A\,\rho_\text{agua}}\,n + 1$$
 
-where $m_\text{sal}$ is the salt mass of a dose and $\rho_\text{agua}=(1{,}00 \pm 0{,}01\ \text{g cm}^{-3})$ is the salt mass of the dose.
-density of water. Note that the density of the solution is:
+where $m_\text{sal}$ is the mass of salt in a dose and $\rho_\text{agua}=(1{,}00 \pm 0{,}01\ \text{g cm}^{-3})$ is the density of water. Note that the density of the solution is:
 
 $$\rho_\text{solución} = \frac{M_\text{sal} + M_A}{V_A}$$
 
-where $M_\text{sal}$ and $M_A$ are respectively the salt and water masses used in the
-The solution.
+where $M_\text{sal}$ and $M_A$ are respectively the mass of salt and water used in the solution.
 
 g- Determine $m_\text{sal}$
 
-h- Determine the salt saturation point in water. Determine the temperature at
-The test was conducted and the saturation point was compared with the reported
-I'm not sure what the literature is.
+h- Determine the saturation point of salt in water. Determine the temperature at which the experiment was carried out and compare the saturation point with the one reported by the bibliography available to you.
 
-i- Using the materials provided, apply another method to determine $m_\text{sal}$.
+i- Using the materials provided, implement another method to determine $m_\text{sal}$.
 
-The experimental problem
+Experimental Problem
 Answer sheet.
 
-Score
-a-
-Construction density
+Score a-
+Construction of the hydrometer
 
 b-
 $V_\text{agua} =$
@@ -1356,12 +1290,12 @@ c-
 Table
 
 d-
-Graphic
+Graph
 
 e-
-The pending =
+Slope =
 
-Ordered =
+Intercept =
 
 f-
 Theoretical analysis
@@ -1370,23 +1304,19 @@ g-
 $m_\text{sal} =$
 
 h-
-The following is the list of the following:
+Saturation point =
 
 i-
 $m_\text{sal} =$
 
-The test shall be carried out in accordance with the following conditions:
-Answering sheet
+Experimental Test
+Answer sheet
 
-Score
-a-
-Construction density
-5 points
-b-
+Score a-
+Construction of the hydrometer
+5 pts b-
 $V_\text{agua} = (3{,}6 \pm 0{,}2)\ \text{ml}$
-1 pto
-c-
-n
+1 pt c- n
 $V_\text{sol}$ [ml]
  Error $V_\text{sol}$ [ml]
 1
@@ -1411,98 +1341,76 @@ $V_\text{sol}$ [ml]
 2.9
 0.2
 
-1 pto per
-measurement
-up to one
-maximum
-de 5
-The Commission
-d-
+1 pt per measurement up to a maximum of 5 pts d-
 
-2 points
-e-
-Pendiente = $(0{,}022 \pm 0{,}003)$
+2 pts e-
+Slope = $(0{,}022 \pm 0{,}003)$
 
-Ordenada = $(1{,}01 \pm 0{,}01)$
-2 points
-f-
+Intercept = $(1{,}01 \pm 0{,}01)$
+2 pts f-
 
 $mg = V_\text{sumergido}\, \rho_a\, g$
 
-Where $m$ is the total mass of the densimeter and $V_\text{sumergido}$ the volume of the
-The density of the submerged density.
+Where $m$ is the total mass of the hydrometer and $V_\text{sumergido}$ the volume of the submerged hydrometer.
 
-For water ($V_\text{agua}$): $m = m_d + V_\text{agua}\, \rho_a$
+For the case of water ($V_\text{agua}$): $m = m_d + V_\text{agua}\, \rho_a$
 
 For the salt solution ($V_\text{sol}$): $m = m_d + V_\text{sol}\, \rho_\text{sal}$
 
-Where $m_d$ is the mass of the empty densimeter.
+Where $m_d$ is the mass of the empty hydrometer.
 
-2 points
+2 pts
 Then,
 
 $$V_\text{agua}\, \rho_a = V_\text{sol}\, \rho_\text{sal} = V_\text{sol}\, \frac{M_\text{sal} + M_\text{agua}}{V_A} = V_\text{sol}\, \frac{M_\text{sal}}{V_A} + \rho_a$$
 
-As $M_\text{sal} = n\, m_\text{sal}$, it is obtained,
+Since $M_\text{sal} = n\, m_\text{sal}$, one obtains,
 
 $$\frac{V_\text{agua}}{V_\text{sol}} = \frac{m_\text{sal}}{V_A\,\rho_\text{agua}}\, n + 1$$
 
 g-
 $m_\text{sal} = (6 \pm 2)\ \text{g}$
-1 pto
-h-
-Saturating point = $(20 \pm 10)$ g of salt per 100 ml of water.
-Experiments were conducted at $20^{\circ}C$ and the literature reports a
-saturation point of 36 g of salt per 100 ml of water.
-1 pto
-i-
+1 point h-
+Saturation Point = $(20 \pm 10)$ g of salt per 100 ml of water.
+The experiments were carried out at $20^{\circ}C$ and the literature reports a saturation point of 36 g of salt per 100 ml of water.
+1 point i-
 $m_\text{sal} = (8 \pm 1)\ \text{g}$
-1 pto
-Theoretical problem 1
-Answering sheet
+1 point
+Theoretical Problem 1
+Answer sheet
 
 Solution
-Score
-a.
+Score a.
 $Q_{12} = \tfrac{3}{2} P_1 V_1$
-1 pto
-b.
+1 point b.
 $W_{23} = -\tfrac{3}{2} P_1 V_1$
-1.5 pts
-c.
+1.5 points c.
 $Q_{23} = \tfrac{3}{2} P_1 V_1$
-1.5 pts
-d.
+1.5 points d.
 $W_T = -\tfrac{1}{2} P_1 V_1$
-1.5 pts
-e.
+1.5 points e.
 States 2 and 3 belong to the same isotherm.
-1.5 pts
-f.
+1.5 points f.
 $T_1 = \tfrac{T_2}{2}$
-1 pto
-g
-Eficiencia $\eta = \tfrac{1}{6}$
+1 point g
+Efficiency $\eta = \tfrac{1}{6}$
 2 points
-Theoretical problem 2
-Answering sheet
+Theoretical Problem 2
+Answer sheet
 
 Solution
-Score
-a.
+Score a.
 $h_1 - h_2 = \dfrac{\rho_s d}{\rho_l}$
-2 points
-b.
+2 points b.
 $P_1 = \rho_l g h_1 + P_o$
 
 $P_2 = \rho_l g h_2 + P_o$
 
 Where $P_o$
 
-
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p4_f3.png]]
-*Elettrone in regioni campo E e B*
+*Electron in E and B field regions*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1565,14 +1473,8 @@ Where $P_o$
 </figure>
 
 
-*Schema traiettoria elettrone nelle regioni*
+*Electron trajectory diagram in the regions*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
 
 
 
@@ -2083,7 +1985,7 @@ $\vec{E} = V_A B\,\hat{\jmath} = 1.34\times10^{-10}\ \text{N C}^{-1}\,\hat{\jmat
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three:
+Problem 3:
 a-
 
 $\vec{F}_E = q \vec{E} = m \vec{a}$
@@ -2110,25 +2012,18 @@ $q\vec{E} + q\, \vec{V} \times \vec{B} = 0$
 $q\vec{E} - q V_A B\,\hat{\jmath} = 0$
 $\vec{E} = V_A B\,\hat{\jmath} = 1.34\times10^{-10}\ \text{N C}^{-1}\,\hat{\jmath}$
 
-
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p20_f9.png]]
-The following conditions shall apply:
+*Electron in a uniform electric field E*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p20_f10.png]]
-*Electron in uniform magnetic field B*
+*Electron in a uniform magnetic field B*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p21_f11.png]]
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+*Complete trajectory of the electron in the three regions*
 <!--fig:end-->
-
-**Topic:** [[Electrostatics]], [[Magnetism]], [[Newtonian Mechanics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1nn0K12m6yF3EszoBsSD6WAMsZU7Y_-np/view)
 
 ## Figure
 
@@ -2159,11 +2054,11 @@ The Commission has also adopted a proposal for a regulation on the protection of
 ## Figure
 
 <!--fig:start-->
-Density in water and solution
+**p.9** — Hydrometer in water and solution
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p9_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the evaluation of the results of the evaluation:
+**p.12** — Graph of Va/Vsol as a function of n
 ![[_attachments/2016_2da_prueba_preparatoria/2016_2da_prueba_preparatoria_p12_f5.png]]
 <!--fig:end-->

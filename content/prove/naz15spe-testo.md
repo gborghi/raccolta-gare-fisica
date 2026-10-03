@@ -262,27 +262,22 @@ $$n\lambda = p \sin\theta$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission: Wavelength of IR radiation**
+**PART 3. Wavelength of IR radiation**
 
-**3.1 **  From the positions on the goniometer of the yellow light maximum the $p$ of the reticulum is obtained. Please describe briefly the procedure followed.
+**3.1** – From the positions on the goniometer of the maxima of yellow light, derive the grating spacing $p$. Briefly describe the procedure followed.
 
-Use the transparent diffraction lattice (CD sector) with the source yellow LED. The light masses of order $n$ ($n = 0, 1, 2, \ldots$) are in the directions forming angles $\theta$ with the normal to the lattice, so the ratio is:*
+*(Use the transparent diffraction grating (CD sector) with the yellow LED as the source. The light maxima of order $n$ ($n = 0, 1, 2, \ldots$) are found in directions forming angles $\theta$ with the normal to the grating, so that the relation holds:*
 
 $$n\lambda = p \sin\theta$$
 
-The mean wavelength of the yellow LED is $\lambda_g = (5.90 \pm 0.05) \times 10^{-7}$ m. With a paper-like view, aim for the lattice through the spikes and mark the positions of the maxims on the goniometer.)*
+*The central wavelength of the band emitted by the yellow LED is $\lambda_g = (5.90 \pm 0.05) \times 10^{-7}$ m. With your line of sight grazing the sheet, sight toward the grating through the pins and mark the positions of the maxima on the goniometer.)*
 
 <!--fig:start-->
 ![[_attachments/Naz15Spe-testo/Naz15Spe-testo_p4_f3.png]]
-*Figure 4a/4b: apparatus with diffraction lattice *
+*Figure 4a/4b: apparatus with diffraction grating*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Diffraction Grating (object)|Diffraction Grating]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wbl89jjb0eOfke_BM5Qk56tt5Lhe_XgI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/17QIEg5Rfwzs6j0I4U7B-B0GxDB-iUSMx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/17QIEg5Rfwzs6j0I4U7B-B0GxDB-iUSMx/view)
 
 
 

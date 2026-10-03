@@ -202,121 +202,83 @@ PARTE I – PROPRIEDADES GEOMÉTRICAS
 
 <div class="qlang-split" data-lang="it"></div>
 
-04) La durata di tale prova è di 2 ore e 30 minuti, e il
-rimanere nella stanza per almeno 90 minuti.
+04) La durata di questa prova è di due ore e trenta minuti, e l'alunno deve rimanere in aula per almeno novanta minuti.
 
-La Commissione ha adottato una decisione.
-Alla fine di questo libro troverai una tabella con i valori della funzione seno tra
+Osservazione:
+Alla fine di questo fascicolo puoi trovare una tabella con i valori della funzione seno tra
 $0$ e $90^\circ$.
 
-Proprietà ottiche di elementi acrilici
+PROPRIETÀ OTTICHE DI ELEMENTI IN ACRILICO
 
-Introduzione (leggete attentamente):
-L'acrilico o il metametracrilato è un materiale termoplastico rigido e trasparente. Ha una densità media di
-$1{,}19\ \text{g/cm}^3$. L'acrilico è la plastica più utilizzata per la fabbricazione di elementi ottici di precisione. La sua trasparenza
-è di circa il 92% e superiore a quelli di altri tipi di plastica.
-L'obiettivo di questa pratica è determinare le proprietà ottiche dell'acrilio, più precisamente il suo indice di
-- Rifrazione. Indice di refrazione (n) è il rapporto tra la velocità della luce nel vuoto (c) e la velocità della luce in un
-determinato mezzo (v). La proprietà è descritta dal seguente rapporto:
+Introduzione (leggere attentamente):
+L'acrilico o polimetilmetacrilato è un materiale termoplastico rigido e trasparente. Ha una densità media di
+$1{,}19\ \text{g/cm}^3$. L'acrilico è la plastica più utilizzata nella fabbricazione di elementi ottici di precisione. La sua trasparenza è di circa il 92% ed è superiore a quella di altri tipi di plastica.
+L'obiettivo di questa pratica è determinare le proprietà ottiche dell'acrilico, più precisamente il suo indice di rifrazione. L'indice di rifrazione (n) è il rapporto tra la velocità della luce nel vuoto (c) e la velocità della luce in un determinato mezzo (v). La proprietà è descritta dalla seguente relazione:
 
 $$n = \frac{c}{v}$$
 
-La legge della refrazione, nota come legge di Snell-Descartes, mostra il rapporto tra gli indici di refrazione dei
-i materiali e gli angoli di refrazione di un fascio di luce attraverso l'interfaccia tra due materiali diversi. A
-Relazione è scritta come:
+La Legge della Rifrazione, nota come legge di Snell-Descartes, mostra la relazione tra gli indici di rifrazione dei materiali e gli angoli di rifrazione di un fascio di luce quando attraversa l'interfaccia tra due materiali diversi. La relazione è scritta come:
 
 $$n_1 \times \text{sen}(\theta_1) = n_2 \times \text{sen}(\theta_2)$$
 
-Kit di sperimentazione:
-Il kit di prova è composto dalle seguenti parti:
+Kit sperimentale:
+Il kit sperimentale è composto dalle seguenti parti:
 
-1  Fonte luminosa collimata  composta da un cilindro di alluminio e da un LED (diodo emissione di luce) bianco
-dentro di te. La fonte è alimentata da due batterie AA a 1,5 volt. Per accendere la fonte è necessario che le batterie
-sono messe con le giuste polarità sul supporto delle batterie. La fonte è da usare su una superficie
-il percorso del fascio luminoso può essere abbinato su una foglia di carta bianca. I disegni che
-La richiesta di una risoluzione deve essere fatta su fogli di carta del libro delle risoluzioni.
-Nota: prima di collegare le batterie, verificare la polarità (+ o -) del supporto e delle batterie. Se le pile
-se sono inserite in modo errato, il LED non si accenderà.
-Attenzione: non tirare i fili di alimentazione della fonte perché potrebbero disattivarsi dal supporto e/o dal LED.
+1 – Sorgente di luce collimata – composta da un cilindro di alluminio e un LED (diodo a emissione di luce) bianco al suo interno. La sorgente è alimentata da due pile AA da 1,5 Volt. Per accendere la sorgente è necessario che le pile siano inserite con le polarità corrette nel portapile. La sorgente è destinata all'uso su una superficie piana, ed è possibile seguire il percorso del fascio luminoso su un foglio di carta bianca. I disegni che saranno richiesti devono essere fatti sui fogli di carta del quaderno delle soluzioni.
+Osservazione: Prima di collegare le pile verificate la polarità (+ o -) nel portapile e sulle pile. Se le pile vengono inserite in modo errato il LED non si accenderà.
+Attenzione: Non tirate i fili di alimentazione della sorgente perché potrebbero staccarsi dal portapile e/o dal LED.
 
-2  Instrumenti di misura: una regola di $20$ cm; un trasmettitore di $180^\circ$ e una matita.
+2 – Strumenti di misura: un righello da $20$ cm; un goniometro da $180^\circ$ e una matita.
 
-3  Elemento ottico  Un prisma triangolare acrilico e un semicilindro acrilico.
+3 – Elemento Ottico – Un prisma triangolare di acrilico e un semicilindro di acrilico.
 
-Tutto il materiale è condensato in una pasta di plastica trasparente. Manovra con cura e
-identificare le parti. Alla fine della prova, riporrà tutto il materiale nella cassetta e lo consegnerà al procuratore. É
-Espresso divieto di portare il materiale con sé.
+Tutto il materiale è riposto in una cartelletta di plastica trasparente. Maneggiate con cura e identificate le parti. Al termine della prova riponete tutto il materiale nuovamente dentro la cartelletta e consegnatela al commissario. È espressamente vietato portare via il materiale.
 
-Foto del kit e dell'operazione Fonte
+FOTO DEL KIT E DEL FUNZIONAMENTO DELLA SORGENTE
 
-Sotto il profilo di un'azienda
+SORGENTE DI LUCE
 
-PARTE I  PROPERTIE Geometriche
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Prism (object)|Prism]], [[Cylinder (object)|Cylinder]], [[Slit (object)|Slit]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X84FhDlLZh3A7FY4ZbX-B0lOeOGEA6hI/view)
+PARTE I – PROPRIETÀ GEOMETRICHE
 
 <div class="qlang-split" data-lang="en"></div>
 
-04) The duration of this test is two hours and 30 minutes and the student must:
-remain in the room for at least 90 minutes.
+04) The duration of this exam is two hours and thirty minutes, and the student must remain in the room for at least ninety minutes.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-At the end of this notebook you can find a table with the sine function values between
-$0$ e $90^\circ$.
+Note:
+At the end of this booklet you can find a table with values of the sine function between
+$0$ and $90^\circ$.
 
-The following information shall be provided:
+OPTICAL PROPERTIES OF ACRYLIC ELEMENTS
 
 Introduction (read carefully):
-Acrylic or polymethyl-methacrylate is a rigid, transparent thermoplastic material. It has an average density of
-$1{,}19\ \text{g/cm}^3$. Acrylic is the most widely used plastic in the manufacture of precision optical elements. Its transparency
-It's about 92 percent and higher than other types of plastic.
-The purpose of this practice is to determine the optical properties of acrylic, more precisely its
-The rebound. Refraction index (n) is the ratio of the speed of light in vacuum (c) to the speed of light in a
-a given medium (v). The property is described by the following relation:
+Acrylic or polymethyl methacrylate is a rigid and transparent thermoplastic material. It has an average density of
+$1{,}19\ \text{g/cm}^3$. Acrylic is the plastic most used in the manufacture of precision optical elements. Its transparency is about 92% and higher than other types of plastic.
+The objective of this practice is to determine the optical properties of acrylic, more precisely its refractive index. Refractive index (n) is the ratio between the speed of light in vacuum (c) and the speed of light in a given medium (v). The property is described by the following relation:
 
 $$n = \frac{c}{v}$$
 
-The law of refraction, known as Snell-Descartes' law, shows the relationship between the refractive indices of the
-materials and the angles of refraction of a beam of light as it crosses the interface between two different materials. A
-the relationship is written as:
+The Law of Refraction, known as Snell-Descartes law, shows the relation between the refractive indices of materials and the refraction angles of a light beam when crossing the interface between two different materials. The relation is written as:
 
 $$n_1 \times \text{sen}(\theta_1) = n_2 \times \text{sen}(\theta_2)$$
 
-The test kit:
-The experimental kit shall consist of the following parts:
+Experimental kit:
+The experimental kit consists of the following parts:
 
-1  Collimated light source  composed of an aluminium cylinder and a white LED (light emitting diode)
-inside of you. The source is powered by two 1.5 volt AA batteries. To connect the source, the batteries must be
-be placed with the correct polarities on the battery stand. The source is to be used on a surface
-The light beam is flat, and the path of the beam can be matched on a sheet of white paper. The drawings which
-The resolution will be made on the paper sheets of the Resolution Book.
-Note: Before connecting the batteries, check the polarity (+ or -) on the support and batteries. If the batteries
-If the LED is not properly placed, the LED will not turn on.
-Caution: Do not pull the power wires from the source because they may disconnect from the support and/or LED.
+1 – Collimated light source – consisting of an aluminum cylinder and a white LED (light-emitting diode) inside it. The source is powered by two 1.5 Volt AA batteries. To turn on the source, the batteries must be inserted with the correct polarities in the battery holder. The source is to be used on a flat surface, and it is possible to follow the path of the light beam on a sheet of white paper. The drawings that will be requested must be made on the sheets of paper in the solutions notebook.
+Note: Before connecting the batteries, check the polarity (+ or -) on the holder and on the batteries. If the batteries are inserted incorrectly, the LED will not turn on.
+Caution: Do not pull the power wires of the source because they may become disconnected from the holder and/or the LED.
 
-2  Measuring instruments: a $20$ cm rule; a $180^\circ$ transfer and a pencil.
+2 – Measuring instruments: a $20$ cm ruler; a $180^\circ$ protractor and a pencil.
 
-3  Optical element  A triangular prism of acrylic and a semi-cylinder of acrylic.
+3 – Optical Element – A triangular acrylic prism and an acrylic semi-cylinder.
 
-All the material is packed into a transparent plastic bag. Careful handling and
-identify the parts. At the end of the test, put all the material back in the briefcase and hand it over to the prosecutor. É
-expressly prohibited from carrying the material with you.
+All the material is packed in a transparent plastic folder. Handle with care and identify the parts. At the end of the exam, place all the material back inside the folder and hand it to the invigilator. It is strictly forbidden to take the material with you.
 
-Photos of the kit and the operation of the source
+PHOTOS OF THE KIT AND OF THE OPERATION OF THE SOURCE
 
-The following is the list of the following:
+LIGHT SOURCE
 
-Part I  Geometric properties
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Prism (object)|Prism]], [[Cylinder (object)|Cylinder]], [[Slit (object)|Slit]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1X84FhDlLZh3A7FY4ZbX-B0lOeOGEA6hI/view)
+PART I – GEOMETRICAL PROPERTIES
 
 
 

@@ -57,44 +57,39 @@ Gara di 2° Livello del 25 febbraio 1999 — Parte Prima (10 quesiti, 4 punti ci
 
 <div class="qlang-split" data-lang="en"></div>
 
-The level of 2° Level of 25 February 1999  Part One (10 questions, 4 points each). Data uncertainty at least $1\%$.
+Second Level Competition of 25 February 1999 — Part One (10 questions, 4 points each). Uncertainty of the data at least $1\%$.
 
-**Quesito 1.** Su un treno che parte con accelerazione uniforme, una pallina appesa a un filo forma un angolo $\theta$ con la verticale. Determine the train's speed.
+**Question 1.** On a train that starts with uniform acceleration, a small ball hanging from a string forms an angle $\theta$ with the vertical. Determine the acceleration of the train.
 
-**Quesito 2.** Un aereo deve raggiungere l'aeroporto $B$ a $300\text{ km}$ a Nord di $A$. It's blowing a steady wind of $100\text{ km/h}$ from the NW. The maximum speed of the aircraft is $600\text{ km/h}$. Which way to orient the plane's axis?
+**Question 2.** An airplane must reach the airport $B$ at $300\text{ km}$ North of $A$. A constant wind of $100\text{ km/h}$ blows from the NW. The maximum speed of the airplane is $600\text{ km/h}$. In which direction should the axis of the airplane be pointed?
 
-**Quesito 3.** Le note che differiscono di un'ottava hanno rapporto $2$; il La centrale è a $440\text{ Hz}$. The lowest note of a piano is four octaves below, the highest four octaves above the central Do ($262\text{ Hz}$). The lowest string is $\approx 2\text{ m}$ long. How long should the string of the highest note be, at equal linear density and voltage?
+**Question 3.** Notes that differ by an octave have a ratio $2$; middle A is at $440\text{ Hz}$. The lowest note of a piano is four octaves below, the highest four octaves above middle C ($262\text{ Hz}$). The lowest string is $\approx 2\text{ m}$ long. How long should the string of the highest note be, with the same linear density and tension?
 
-**Quesito 4.** Un miscuglio acqua-ghiaccio di massa $10\text{ kg}$ resta a $0°\text{C}$ per $50\text{ min}$ e poi aumenta di $2°\text{C}$ in $10\text{ min}$ (potenza assorbita costante). Determine the initial mass of the ice.
+**Question 4.** A water-ice mixture of mass $10\text{ kg}$ remains at $0°\text{C}$ for $50\text{ min}$ and then increases by $2°\text{C}$ in $10\text{ min}$ (constant absorbed power). Determine the initial mass of the ice.
 
-**Quesito 5.** Un filo metallico di lunghezza $\ell$ e resistenza $R$ forma un anello. Two $A$, $B$ points are at the ends of a length arc $a$. Determine the resistance between $A$ and $B$.
+**Question 5.** A metal wire of length $\ell$ and resistance $R$ forms a ring. Two points $A$, $B$ are at the ends of an arc of length $a$. Determine the resistance between $A$ and $B$.
 
-**Quesito 6.** Un recipiente di $40\text{ dm}^3$ contiene elio a $18°\text{C}$ e $6{,}0\times10^6\text{ Pa}$. Finally the pressure decreased by $30\%$ and $T = 20°\text{C}$. How much gas was used?
+**Question 6.** A container of $40\text{ dm}^3$ contains helium at $18°\text{C}$ and $6{,}0\times10^6\text{ Pa}$. In the end the pressure has decreased by $30\%$ and $T = 20°\text{C}$. How much gas has been used?
 
-**Question 7.** Two cable cylinders are obtained by rolling two identical sheets $30\times20\text{ cm}$ (along the two sides). The highest cylinder reaches the bottom of the tilted plane (without slipping) with $\omega = 50\text{ s}^{-1}$. What angular velocity does the other one have?
+**Question 7.** Two hollow cylinders are obtained by rolling two identical sheets $30\times20\text{ cm}$ (along the two sides). The taller cylinder reaches the bottom of the inclined plane (without slipping) with $\omega = 50\text{ s}^{-1}$. With what angular velocity does the other one arrive?
 
-**Quesito 8.** Un condensatore $C = 2\text{ nF}$ è caricato a $V = 100\text{ V}$ e scollegato; lo spazio tra le armature è occupato da mica ($\varepsilon_r = 5$). How much work does it take to extract the stake?
+**Question 8.** A capacitor $C = 2\text{ nF}$ is charged to $V = 100\text{ V}$ and disconnected; the space between the plates is occupied by mica ($\varepsilon_r = 5$). How much work is needed to extract the slab?
 
-**Quesito 9.** Un corpo $m = 2\text{ kg}$ fissato a un'asta rigida ruota in un piano verticale ($r = 60\text{ cm}$, $\omega = 5\text{ s}^{-1}$ costante). Determine the force exerted by the arrow on the body at the highest point.
+**Question 9.** A body $m = 2\text{ kg}$ fixed to a rigid rod rotates in a vertical plane ($r = 60\text{ cm}$, $\omega = 5\text{ s}^{-1}$ constant). Determine the force exerted by the rod on the body at the highest point.
 
-**Quesito 10.** In una vasca d'acqua profonda $2\text{ m}$ è piantato un palo verticale che sporge $1\text{ m}$. Calculate the shadow length at the bottom (calm water, Sun at $40°$ on the horizon). [$n_a = 1{,}33$]
+**Question 10.** In a deep water tank $2\text{ m}$ a vertical pole is planted that protrudes $1\text{ m}$. Calculate the length of the shadow on the bottom (calm water, Sun at $40°$ above the horizon). [$n_a = 1{,}33$]
 
 <!--fig:start-->
-**p.2** — diagramma bussola con vettori velocità
+**p.2** — compass diagram with velocity vectors
 ![[_attachments/2lv99s (2 files merged)/2lv99s (2 files merged)_p2_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4** — geometria 3D rifrazione lastra vetro
+**p.4** — 3D geometry refraction glass slab
 ![[_attachments/2lv99s (2 files merged)/2lv99s (2 files merged)_p4_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]], [[Thermodynamics]], [[Circuits]], [[Rotational Dynamics]], [[Electrostatics]], [[Geometric Optics]], [[Kinetic Theory]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Cylinder (object)|Cylinder]], [[Capacitor (object)|Capacitor]], [[Rod (object)|Rod]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1_0eqSoLzDG0fTYIJI_KD5_JfdhB7G6wv/view)
 
 
 

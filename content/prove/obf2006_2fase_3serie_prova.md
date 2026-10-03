@@ -361,75 +361,25 @@ Considerando o calor específico do chumbo como $0{,}03\ \text{cal} \cdot \text{
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 06 - Considerando che
-(joule) e cal (calorie) sono unità
-utilizzati per esprimere valori di
-La Commissione ha adottato una proposta di direttiva che prevede che le misure
-un rapporto tra loro (quello rapporto
-è denominato equivalente meccanico
-di calore). Questo può essere fatto con esperimenti in cui si verifica una conversione di una forma di
-energia solitamente espressa in joule in un altro modo i cui valori di energia coinvolti sono
-di solito espressi in calorie.
-Utilizzando un tubo isolante termico, bolle di piombo, due colletture (un foro) e un termometro,
-si può fare uno di questi esperimenti. Consiste nel mettere le bolle di piombo nel tubo,
-chiudere le estremità, determinare la temperatura delle bolle prima dell'inizio dell'esperimento
-(con il termometro in contatto con essi attraverso la culle perforata) e invertere il tubo veloce e
-successivamente in modo che le bolle di piombo cadano da un'angolo all'altro. Da questa
-La nostra forma di trasformare l'energia potenziale gravitazionale dei bolli in calore,
-Quando cadono, si colpiscono e continuano a colpirsi.
-Infine, dopo un certo numero di inversioni del tubo,
-In precedenza, cioè se si introduce il termometro attraverso la culla perforata, si può verificare che c'è stato un
-un piccolo aumento della temperatura del piombo.
-In un esperimento effettuato secondo le modalità descritte, è stato utilizzato un tubo di lunga durata utile
-interno (lenghezza del tubo meno le dimensioni dei collettori) pari a $50\ \text{cm}$. Tenendo il tubo verticale e
-nele sendo colocadas $200\ \text{g}$ de bolinhas de chumbo, elas atingiram uma altura de $10\ \text{cm}$ no seu interior.
-La temperatura iniziale misurata è stata di $20\ ^\circ\text{C}$ e, dopo 50 inversioni con il tubo, il termometro
-ha dato $21{,}5\ ^\circ\text{C}$ per la nuova temperatura dei bolli.
-Considerando che il calore specifico del piombo come $0{,}03\ \text{cal} \cdot \text{g}^{-1} \cdot {}^\circ\text{C}^{-1}$ si calcola, con i dati del problema,
-- **A ** in joules, l'energia dissipata dalle collisioni tra le bolle di piombo dopo 50 inversioni;
-- **B.** in joules, il valore di 1 caloria (equivalente meccanico del calore).
-
-**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
+Quesito 06 - Considerando che J (joule) e cal (caloria) sono unità utilizzate per esprimere valori di energia, è possibile stabilire una relazione tra esse (tale relazione è denominata equivalente meccanico del calore). Ciò può essere fatto mediante la realizzazione di esperimenti in cui avvenga la conversione di una forma di energia usualmente espressa in joule in un'altra forma i cui valori di energia coinvolti sono abitualmente espressi in caloria.
+Usando un tubo termicamente isolante, palline di piombo, due tappi (uno forato) e un termometro, si può realizzare uno di questi esperimenti. Esso consiste nel mettere le palline di piombo nel tubo, chiudere le sue estremità, determinare la temperatura delle palline prima dell'inizio dell'esperienza (mettendo il termometro in contatto con esse attraverso il tappo forato) e invertire il tubo rapidamente e successivamente in modo che le palline di piombo cadano da un'estremità all'altra. In questo modo, facciamo sì che l'energia potenziale gravitazionale delle palline venga convertita in calore, poiché, cadendo, esse urtano l'una contro l'altra e realizzano continue collisioni anelastiche tra loro.
+Infine, dopo un determinato numero di inversioni del tubo, allo stesso modo di prima, cioè introducendo il termometro attraverso il tappo forato, si può verificare che vi è stato un piccolo aumento della temperatura del piombo.
+In un esperimento realizzato secondo quanto descritto, è stato usato un tubo che aveva una lunghezza utile interna (lunghezza del tubo meno la dimensione dei tappi) pari a $50\ \text{cm}$. Mantenendo verticale il tubo e essendovi state collocate $200\ \text{g}$ di palline di piombo, esse hanno raggiunto un'altezza di $10\ \text{cm}$ al suo interno.
+La temperatura iniziale misurata era di $20\ ^\circ\text{C}$ e, dopo aver realizzato 50 inversioni con il tubo, il termometro ha indicato $21{,}5\ ^\circ\text{C}$ per la nuova temperatura delle palline.
+Considerando il calore specifico del piombo come $0{,}03\ \text{cal} \cdot \text{g}^{-1} \cdot {}^\circ\text{C}^{-1}$ calcola, con i dati del problema,
+- **A.** in joule, l'energia dissipata dagli urti tra le palline di piombo dopo le 50 inversioni;
+- **B.** in joule, il valore di 1 caloria (equivalente meccanico del calore).
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No 06 - Whereas the Commission has not yet adopted a proposal for a regulation on the
-(joule) and (calorie) are units
-used to express values of
-Energy, it is possible to establish
-a relationship between them (that relationship
-is called a mechanical equivalent
-the heat). This can be done by conducting experiments in which there is a conversion of a form of
-energy usually expressed in joules to another form whose energy values are involved
-usually expressed in calories.
-Using a thermal insulating tube, lead bubbles, two cranks (one hole) and a thermometer,
-You can do one of these experiments. It consists of putting the lead bubbles in the tube,
-close their ends, determine the temperature of the bubbles before the start of the experiment
-(by contacting the thermometer with them through the hole crank) and reverse the rapid tube and
-The lead bubbles fall from one end to the other. This
-So we're going to have to convert the gravitational potential energy of the bubbles into heat, because
-When they fall, they hit each other and make continuous non-elastic collisions with each other.
-Finally, after a certain number of tube reversals, the same way as
-In the case of a thermometer, the thermometer is inserted through the perforated crank and the thermometer is inserted through the perforated crank.
-a slight increase in lead temperature.
-In one experiment conducted as described, a tube with a useful length was used.
-internal length (tube length less clutch size) equal to $50\ \text{cm}$. Keeping the tube vertical and
-nele sendo colocadas $200\ \text{g}$ de bolinhas de chumbo, elas atingiram uma altura de $10\ \text{cm}$ no seu interior.
-The initial temperature measured was $20\ ^\circ\text{C}$ and after 50 tube reversals the thermometer
-The new bubble temperature is $21{,}5\ ^\circ\text{C}$.
-Considering the specific heat of lead as $0{,}03\ \text{cal} \cdot \text{g}^{-1} \cdot {}^\circ\text{C}^{-1}$ calculate, with the problem data,
-- **A ** in joules, the energy dissipated by the collisions between the lead balls after 50 reversals;
+Problem 06 - Considering that J (joule) and cal (calorie) are units used to express energy values, it is possible to establish a relationship between them (this relationship is called the mechanical equivalent of heat). This can be done by carrying out experiments in which there is conversion of one form of energy usually expressed in joules to another form whose energy values involved are habitually expressed in calories.
+Using a thermally insulating tube, lead balls, two stoppers (one with a hole) and a thermometer, one of these experiments can be carried out. It consists of placing the lead balls in the tube, closing its ends, determining the temperature of the balls before the start of the experiment (by placing the thermometer in contact with them through the holed stopper) and inverting the tube quickly and successively so that the lead balls fall from one end to the other. In this way, we cause the gravitational potential energy of the balls to be converted into heat, since, as they fall, they hit one another and undergo continuous inelastic collisions among themselves.
+Finally, after a certain number of inversions of the tube, in the same way as before, that is, by inserting the thermometer through the holed stopper, one can verify that there was a small increase in the temperature of the lead.
+In an experiment carried out as described, a tube was used that had a useful internal length (length of the tube minus the size of the stoppers) equal to $50\ \text{cm}$. Keeping the tube vertical and placing $200\ \text{g}$ of lead pellets in it, they reached a height of $10\ \text{cm}$ inside it.
+The initial temperature measured was $20\ ^\circ\text{C}$ and, after performing 50 inversions with the tube, the thermometer registered $21{,}5\ ^\circ\text{C}$ for the new temperature of the pellets.
+Considering the specific heat of lead as $0{,}03\ \text{cal} \cdot \text{g}^{-1} \cdot {}^\circ\text{C}^{-1}$ calculate, with the data of the problem,
+- **A.** in joules, the energy dissipated by the collisions between the lead pellets after the 50 inversions;
 - **B.** in joules, the value of 1 calorie (mechanical equivalent of heat).
-
-**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1h3Y64o79usgMxYHyzWYPxVwBcqAc9AUJ/view)
 
 
 

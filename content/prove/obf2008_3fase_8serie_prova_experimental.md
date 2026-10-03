@@ -89,54 +89,54 @@ Tire todas as arruelas e deslize a presilha de tal forma que o valor de $5{,}0\ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Determinazione della costante elastica della molla e applicazione: Legge di Hooke**
+**Determinazione della costante elastica della molla e un'applicazione: Legge di Hooke**
 
-Questo test è rivolto agli studenti dell'ottavo (9o) anno di scuola elementare. La durata dell'esame è di 2 ore e 30 minuti.
+Questa prova è destinata agli studenti dell'8ª (9ª) classe della scuola secondaria di primo grado. La durata della prova è di 2 h e 30 min.
 
 **Materiale sperimentale fornito:**
-- Una molla a elicoide di estensione
+- Una molla elicoidale di estensione
 - Una base
-- Una canna di alluminio con una retta
-- Un perforazione motonecchio con la sua stessa ruola.
-- Una trappola
-- Un portavoce
-- Un insieme di quattro ruole uniformi
-- Un matita
-- Una regola di cartone
-- Una ruola più grande
+- Un'asta di alluminio filettata
+- Un dado a farfalla con la relativa rondella
+- Una pinza
+- Un portarondelle
+- Un insieme di quattro rondelle uniformi
+- Una matita
+- Un righello di cartone
+- Una rondella più grande
 
-La massa delle minori ruole varia per regione secondo **Table 1**:
+La massa delle rondelle più piccole varia a seconda della regione, secondo la **Tabella 1**:
 
-# Regione # Massa # G
+| Regione | Massa (g) |
 |---|---|
- Nord  7,3 
- Nordest  8,4 
- Centro-Ovest  8.4 
-♬ Sud-est, tranne SP ♬ 7.7 ♬
-# S.Paolo # 8,1
- Il Sud  7,7
+| Nord | 7,3 |
+| Nordest | 8,4 |
+| Centro-Ovest | 8,4 |
+| Sudest, tranne SP | 7,7 |
+| San Paolo (SP) | 8,1 |
+| Sud | 7,7 |
 
-**Procedimenti di montaggio sperimentali: **
+**Procedure sperimentali di montaggio:**
 
-1. Attacca la canna alla base con la ruola e il porco motto.
-2. Fissa la riga di 20 cm, con una cinta crepe, sul bastone nella parte posteriore.
-3. Fissa la presa sul bastone nella stessa direzione della riga di 20 cm.
+1. Fissare l'asta alla base con la rondella e il dado a farfalla.
+2. Fissare il righello da 20 cm, con nastro adesivo, all'asta dalla parte posteriore.
+3. Fissare la pinza all'asta nella stessa direzione del righello da 20 cm.
 
-Nota: Se ritieni che il sistema sia diventato molto instabile, usa il nastro crepe per fissare la base sul tavolo di laboratorio.
+> **Osservazione:** Se ritieni che il sistema sia diventato troppo instabile, usa il nastro adesivo per fissare la base al tavolo del laboratorio.
 
 ---
 
-La Commissione ha deciso di adottare una decisione che non può essere adottata.
+**ESPERIMENTO I**
 
-Per evitare un errore sistematico dovuto alla costruzione della mola, inserire inizialmente la rulla più grande e scivolare la presa sul bastone in modo che la parte inferiore del porta rulla coincida con il valore $7{,}0\ \text{cm}$ della regola. In seguito inserite un'altra scheda nella portavoce e annotate il valore dello spostamento ottenuto nel Registro dei dati sperimentali I. Per aiutarvi, aggiungiamo una matita al set che vi viene consegnato in modo che potete raschiare senza pregiudizio la riga di cartone. Ripeti la procedura successivamente fino a quando non metti le quattro ruole minori.
+Per evitare un errore sistematico dovuto alla costruzione della molla, collocate inizialmente la rondella più grande e fate scorrere la clip sull'asta in modo tale che la parte più bassa del portarondelle coincida con il valore $7{,}0\ \text{cm}$ del righello. Successivamente, mettete un'altra rondella nel portarondelle e annotate il valore dello spostamento ottenuto nel Registro dei Dati Sperimentali I. Per aiutarvi, abbiamo aggiunto una matita al set fornito, in modo che possiate tracciare segni, senza danneggiarlo, sul righello di cartone. Ripetete la procedura, successivamente, fino a mettere le quattro rondelle più piccole.
 
-In una tipica lezione di laboratorio peserai ogni ruola. In questa prova OBF 2008 il valore è già determinato e figura nella tabella 1 sulla copertina di questa prova.*
+> *In una tipica lezione di laboratorio pesereste ogni rondella. In questa prova dell'OBF 2008 il valore è già determinato e si trova nella Tabella 1 sulla copertina di questa prova.*
 
-**Registrazione dei dati sperimentali I**
+**Registro dei Dati Sperimentali I**
 
- Quanti tasse di rottura  La posizione della parte inferiore del portone di rottura 
+| Quantità di rondelle | Posizione della parte inferiore del portarondelle (in cm) |
 |---|---|
-# Il più grande cammino #
+| Rondella più grande | 7,0 |
 | 1 | |
 | 2 | |
 | 3 | |
@@ -144,72 +144,66 @@ In una tipica lezione di laboratorio peserai ogni ruola. In questa prova OBF 200
 
 ---
 
-Il programma di ricerca è stato sviluppato in modo da consentire l'esercizio di un'attività di ricerca.
+**ESPERIMENTO II**
 
-Togliete tutte le ruole e scivolate la grilletta in modo che il valore $5{,}0\ \text{cm}$ della regola sia allineato al portavoce. Prendi ora la rubrica più grande e nota il valore dello spostamento ottenuto nel Registro dei dati sperimentali II.
+Togliete tutte le rondelle e fate scorrere la clip in modo tale che il valore $5{,}0\ \text{cm}$ del righello sia allineato con il portarondelle. Prendete ora la rondella più grande e annotate il valore dello spostamento ottenuto nel Registro dei Dati Sperimentali II.
 
-**Registro dei dati sperimentali II**
+**Registro dei Dati Sperimentali II**
 
-# Il cammino più grande # Il valore di spostamento ottenuto #
+| Rondella più grande | Valore dello spostamento ottenuto (cm) |
 |---|---|
 | 1 | |
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AAkdk_wK-7wUNthC540QUCc0_cKSKr2z/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-** Determination of the spring's elastic constant and an application: Hooke's Law**
+**Determination of the spring constant and one application: Hooke's Law**
 
-This test is intended for students in the 8th (9th) grade of primary school. The duration of the test is 2 hours and 30 minutes.
+This exam is intended for students in the 8th (9th) grade of elementary school. The duration of the exam is 2 h and 30 min.
 
-The test results shall be presented in accordance with the following criteria:
-- A helical spring of length
-- A base .
-- An aluminum rod with a thread
-- A butterfly screw with the equivalent groove
-- A trap
-- A carrier
-- A set of four uniform rows
-- A pencil .
-- A cardboard rule .
-- A bigger routine .
+**Experimental material provided:**
+- A helical extension spring
+- A base
+- An aluminum rod with thread
+- A wing nut with the equivalent washer
+- A clip
+- A washer holder
+- A set of four uniform washers
+- A pencil
+- A cardboard ruler
+- A larger washer
 
-The mass of the smaller rows varies by region according to **Table 1**:
+The mass of the smaller washers varies by region, according to **Table 1**:
 
-♪ The whole world ♪
+| Region | Mass (g) |
 |---|---|
-♪ North is 7.3 ♪
-♪ North East 8,4 ♪
-♬ Midwest ♬ 8.4 ♬
-♪ Southeast, except for SP ♪ 7.7
-This is the first time I've ever seen a video of a guy who was born in a small town.
-♪ South 7,7 ♪
+| North | 7.3 |
+| Northeast | 8.4 |
+| Central-West | 8.4 |
+| Southeast, except SP | 7.7 |
+| São Paulo (SP) | 8.1 |
+| South | 7.7 |
 
-The following information shall be provided:
+**Experimental assembly procedures:**
 
-1. Fix the stem at the base with the shrimp and the butterfly pig.
-2. Fix the 20 cm line with crepe tape on the back of the stem.
-3. Set the barrel in the same direction as the 20 cm rule.
+1. Fix the rod to the base with the washer and the wing nut.
+2. Fix the 20 cm ruler, with masking tape, to the rod on the back side.
+3. Fix the clip to the rod in the same direction as the 20 cm ruler.
 
-Note: If you find the system to be too unstable, use the crepe tape to fix the base on the lab table.
+> **Note:** If you find that the system has become too unstable, use masking tape to fix the base to the laboratory table.
 
 ---
 
-The following is the list of the types of tests that are used:
+**EXPERIMENT I**
 
-To avoid a systematic error due to the construction of the spring, first place the larger rod and slide the rod in such a way that the lower part of the rod holder coincides with the value of $7{,}0\ \text{cm}$ of the rule. Next, place another row in the gateway and write down the value of the displacement obtained in Experimental Data Registry I. To help, we add a pencil to the package so that you can scratch the cardboard line without damaging it. Repeat the procedure, successively, until you place the four minor rows.
+To avoid a systematic error due to the construction of the spring, first place the larger washer and slide the clip on the rod so that the lowest part of the washer holder coincides with the value of $7{,}0\ \text{cm}$ on the ruler. Next, place one more washer on the washer holder and record the displacement value obtained in Experimental Data Record I. To help, we have added a pencil to the set provided so that you can mark the cardboard ruler without damaging it. Repeat the procedure, successively, until you have placed the four smaller washers.
 
-In a typical lab class you would weigh every inch. In this OBF 2008 test the value is already determined and is shown in Table 1 on the cover of this test.*
+> *In a typical laboratory class you would weigh each washer. In this OBF 2008 exam the value is already determined and appears in Table 1 on the cover of this exam.*
 
-The data set shall be kept in the records of the Member State concerned.
+**Experimental Data Record I**
 
-♪ Number of rows ♪ The bottom of the rows ♪
+| Number of washers | Position of the lower part of the washer holder (in cm) |
 |---|---|
-♪ The biggest alleyway ♪
+| Larger washer | 7.0 |
 | 1 | |
 | 2 | |
 | 3 | |
@@ -217,18 +211,12 @@ The data set shall be kept in the records of the Member State concerned.
 
 ---
 
-The Commission has decided to take the necessary measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented in accordance with Article 107 (1) TFEU.
+**EXPERIMENT II**
 
-Remove all the rows and slide the barrel so that the $5{,}0\ \text{cm}$ value of the rule is aligned with the barrel holder. Now take the larger row and write down the displacement value obtained in Experimental Data Registry II.
+Remove all the washers and slide the clip so that the value of $5{,}0\ \text{cm}$ on the ruler is aligned with the washer holder. Now take the larger washer and record the displacement value obtained in Experimental Data Record II.
 
-The following information is provided by the Technical Service:
+**Experimental Data Record II**
 
-♪ The biggest creek ♪ ♪ The value of the displacement ♪
+| Larger washer | Displacement value obtained (cm) |
 |---|---|
 | 1 | |
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1AAkdk_wK-7wUNthC540QUCc0_cKSKr2z/view)

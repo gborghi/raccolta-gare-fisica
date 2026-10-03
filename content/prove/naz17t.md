@@ -231,109 +231,67 @@ più deuterio; per semplicità si studierà questa situazione.
 
 <div class="qlang-split" data-lang="en"></div>
 
-P2 Spectrum of natural hydrogen  Points 100
+P2 Spectrum of natural hydrogen — 100 points
 
-WARNING: In this problem, please note that numerical data that are provided with at least 5
-significant figures should be considered with a relative uncertainty of $10^{-5}$.
-Observation of the lines of the hydrogen spectrum falling into the visible spectrum and measurement of their lengths
-The first wave of nuclear power was the development of models for atomic structure.
-In questo problema ci occuperemo della riga rossa, la cosiddetta riga $H\alpha$, la cui lunghezza d'onda, misurata in aria, vale
+NOTE: In this problem, bear in mind that the numerical data provided with at least 5 significant figures must be considered with a relative uncertainty of $10^{-5}$.
+The observation of the lines of the hydrogen spectrum that fall in the visible range and the measurement of their wavelengths have had a central place in the development of models for atomic structure.
+In this problem we will deal with the red line, the so-called $H\alpha$ line, whose wavelength, measured in air, is
 $\lambda_a = 656.28\ \text{nm}$.
 
-1. Calculate the wavelength $\lambda_0$ of the same line in the vacuum, using for the air refraction index the
-valore $n_a = 1.00027$.
+1. Calculate the wavelength $\lambda_0$ of the same line in vacuum, using for the refractive index of air the value $n_a = 1.00027$.
 
-According to the Bohr model, developed in 1913, the energy levels allowed for the hydrogen atom are given
-The report
-$$E_n = -\frac{1}{8n^2}\,K(\epsilon_0, e, m_e, h) \quad \text{con } n \in \mathbb{N}^+$$
-where $K(\epsilon_0, e, m_e, h)$ is an expression, written in terms of the specified physical quantities ($\epsilon_0$ dielectric constant)
-The value of the electron in the vacuum, $e$ electron charge, $m_e$ electron mass and $h$ Planck constant, with a numerical factor of 1.
+According to Bohr's model, developed in 1913, the allowed energy levels for the hydrogen atom are given by the relation
+$$E_n = -\frac{1}{8n^2}\,K(\epsilon_0, e, m_e, h) \quad \text{con } n \in \mathbb{N}^+$$ where $K(\epsilon_0, e, m_e, h)$ is an expression, written in terms of the physical quantities indicated ($\epsilon_0$ permittivity of vacuum, $e$ electron charge, $m_e$ electron mass and $h$ Planck constant), with numerical factor equal to 1.
 
-2. Using dimensional analysis, determine the expression of $K$ in relation to the physical quantities indicated.
+2. Using dimensional analysis, determine the expression of $K$ as a function of the physical quantities indicated.
 
-The Bohr model provides for $K$ the value $1.7439 \times 10^{-17}\ \text{J}$.
+Bohr's model predicts for $K$ the value $1.7439 \times 10^{-17}\ \text{J}$.
 
-3. Knowing that the $H\alpha$ line is emitted in the transition from $n_i = 3$ to $n_f = 2$ level, calculate the
-Bohr model predicted value for the wavelength of this line in vacuum ($\lambda_\text{th}$) and the difference
-The percentage between this value and that, $\lambda_0$, found in point 1.
+3. Knowing that the $H\alpha$ line is emitted in the transition from level $n_i = 3$ to level $n_f = 2$, calculate the value predicted by the Bohr model for the wavelength of this line in vacuum ($\lambda_\text{th}$) and the percentage difference between this value and the one, $\lambda_0$, found in point 1.
 
-The expression of the energy levels given above is obtained by studying the electron motion in the reference nucleus;
-Considering that this is only a roughly inertial reference, a better agreement with the data
-The experimental results are obtained by selecting the reference centre of mass of the nuclear electron system and reaching the
-the same expression as $K$ in which the mass of the electron is replaced by the so-called "reduced mass"
+The expression for the energy levels given above is obtained by studying the motion of the electron in the reference frame of the nucleus;
+considering that this is only approximately an inertial reference frame, a better agreement with the experimental data is obtained by choosing the reference frame of the center of mass of the nucleus–electron system and arriving at the same expression as $K$ in which, however, the mass of the electron is replaced by the so-called "reduced mass"
 $\mu = m_e\, m_N/(m_e + m_N)$, where $m_N$ is the mass of the nucleus.
 
-4. Verify this statement by recalculating, with this approach, the value provided for in the formula of
-Bohr for the wavelength of the line $H\alpha$ in the vacuum ($\lambda_H$) and determining the difference again in this case
-percentage of the value $\lambda_0$.
+4. Verify this statement by recalculating, with this adjustment, the value predicted by the Bohr formula for the wavelength of the $H\alpha$ line in vacuum ($\lambda_H$) and also determining in this case the percentage difference with respect to the value $\lambda_0$.
 
-The correction made to the previous point suggests that if hydrogen is not completely pure but contains
-a certain part of deuterium (whose core, having a mass $m_D = 3.3436 \times 10^{-27}\ \text{kg}$, is made up of a pair
-Proton-neutron), all the spectral lines should double. In nature there is actually about 0.015 %
-The mixture is called natural hydrogen (1).
-In the following part always use the wavelengths referred to in the vacuum.
+The correction made to the previous point suggests that, if the hydrogen is not completely pure but contains a certain portion of deuterium (whose nucleus, having mass $m_D = 3.3436 \times 10^{-27}\ \text{kg}$, is formed by a proton-neutron pair), all the spectral lines should split into doublets. In nature there is actually about 0.015% deuterium; the mixture that forms is called natural hydrogen (1).
+In the following part, always use the wavelengths referred to vacuum.
 
-5. Calculate the $\Delta\lambda$ separation between the red lines emitted by the two isotopes in natural hydrogen.
+5. Calculate the separation $\Delta\lambda$ between the red lines emitted by the two isotopes in natural hydrogen.
 
-For separating spectral lines of different wavelengths, a diffraction lattice, a component
-The optical system consists of a very large number of parallel and equidistant slits, very close to each other. La
-The law giving the angular position of the $k$-maximum luminous point is
-$$p \sin\theta_k = k\,\lambda$$
-where $p$ is the lattice step, i.e. the distance between two cracks, $\theta_k$ is the angle of deviation of $k$-seventh beam
-$k$ is an integer representing the order of the maximum luminous intensity
-and $\lambda$ wavelength.
-Two parameters that characterise a diffraction lattice are the dispersion $D$ and the resolution power $R$.
+To separate spectral lines of different wavelengths, one can use a diffraction grating, an optical component composed of a very large number of parallel and equidistant slits, very close to each other. The law that gives the angular position of the $k$-th bright maximum is
+$$p \sin\theta_k = k\,\lambda$$ where $p$ is the grating spacing, that is, the distance between two slits, $\theta_k$ is the deviation angle of the $k$-th beam with respect to the direction of the incident beam, $k$ is an integer representing the order of the bright maximum, and $\lambda$ the wavelength.
+Two parameters that characterize a diffraction grating are the dispersion $D$ and the resolving power $R$.
 The dispersion is defined by
 $$D \equiv \Delta\theta/\Delta\lambda$$
 
-(1) There is a third isotope of hydrogen, tritium, in nature, whose nucleus is composed of one proton and two neutrons; it is present in the nucleus of the hydrogen.
-In quantities that can be neglected.
+(1) There exists in nature a third isotope of hydrogen, tritium, whose nucleus is composed of a proton and two neutrons; it is present in quantities that can be neglected.
 
-where $\Delta\theta$ is the angle between the centers of two diffraction masses (of the same order) produced by two lines having
-differenza di lunghezza d'onda $\Delta\lambda$.
-It should be borne in mind that each single maximum, depending on the angle $\theta$, has an intensity profile similar to
-The following figures show the different lines, each with an angular width
+where $\Delta\theta$ is the angle between the centers of two diffraction maxima (of the same order) produced by two lines having a wavelength difference $\Delta\lambda$.
+It must be kept in mind that each individual maximum, as a function of the angle $\theta$, has an intensity profile similar to those shown with different hatching in the following figure, each characterized by an angular width
 $\delta\theta$ given by
-$$\delta\theta = \frac{2\lambda}{N p \cos\theta}$$
-where $N$ is the number of lattice cracks illuminated by the incident beam.
-Resolving power expresses the ability of the lattice to separate
-two spectral lines of wavelengths $\lambda_1$ and $\lambda_2$ very close between
-them, taking into account the width of the corresponding maximum,
-And it's defined as
-$$R \equiv \lambda/\Delta\lambda_\text{min}$$
-where $\lambda \approx \lambda_1 \approx \lambda_2$, and $\Delta\lambda_\text{min}$ is the minimum difference in length
-The wavelength needed to see the two lines separated.
-So that two adjacent lines can be solved (i.e.
-The first is that the two lines are not a single line.
-where their angular separation $\Delta\theta$ from the corresponding maximum
-is large enough to measure their width $\delta\theta$.
-This minimum angular separation is generally given by Rayleigh's criterion, according to which two lines are
-they are considered to be solved when the maximum of one coincides with the first minimum of the other, as shown in Figure (2).
+$$\delta\theta = \frac{2\lambda}{N p \cos\theta}$$ where $N$ is the number of slits of the grating illuminated by the incident beam.
+The resolving power expresses the ability of the grating to separate two spectral lines of wavelengths $\lambda_1$ and $\lambda_2$ very close to each other, taking into account the width of the corresponding maxima, and is defined as
+$$R \equiv \lambda/\Delta\lambda_\text{min}$$ where $\lambda \approx \lambda_1 \approx \lambda_2$, and $\Delta\lambda_\text{min}$ is the minimum wavelength difference necessary to see the two lines separated.
+In order for two nearby lines to be resolved (that is, one can understand that they are two lines and not a single line), their angular separation $\Delta\theta$ of the corresponding maxima must be sufficiently large compared to their width $\delta\theta$.
+This minimum angular separation is generally given by the Rayleigh criterion, according to which two lines are considered resolved when the maximum of one coincides with the first minimum of the other, as shown in figure (2).
 
-6. Determine the $D$ dispersion of a diffraction lattice in terms of step $p$ and order $k$.
-7. Using the Rayleigh criterion, determine the resolution power $R$ of a width diffraction lattice
-$L = 1\ \text{cm}$, with a numerical density of $n = 1200$ crack $\text{mm}^{-1}$, on which a perpendicularly
-a beam of light illuminating a section of $d = 1.25\ \text{mm}$ width.
-8. Show that under the given conditions it is not possible to separate the red line of hydrogen from the red line of hydrogen
-Deuterium is the key.
-9. Say what needs to change in the given conditions so that the two lines can be seen separately with
-This lattice.
+6. Determine the dispersion $D$ of a diffraction grating, in terms of the spacing $p$ and the order $k$.
+7. Applying the Rayleigh criterion, determine the resolving power $R$ of a diffraction grating of width
+$L = 1\ \text{cm}$, with a numerical density of $n = 1200$ slits $\text{mm}^{-1}$, on which a beam of light is incident perpendicularly, illuminating a section of width $d = 1.25\ \text{mm}$.
+8. Show that under the given conditions it is not possible to separate the red line of hydrogen from the red line of deuterium.
+9. State what must be changed in the given conditions so that the two lines can be seen separated with this grating.
 
-(2) In the figure the two masts are represented with the same height, as if the two lines had the same light intensity.
-This clearly does not correspond to the case in question of natural hydrogen, but it could be obtained by enriching the mixture with
-The Commission has already taken a number of measures to ensure that the Community's financial resources are not used to finance the Community's financial resources.
+(2) In the figure the two maxima are represented with the same height, as if the two lines had the same luminous intensity.
+Clearly this does not correspond to the case under examination of natural hydrogen, but it could be obtained by enriching the mixture with more deuterium; for simplicity this situation will be studied.
 
 <!--fig:start-->
-**p.5** — Geometria del reticolo di diffrazione
+**p.5** — Geometry of the diffraction grating
 ![[_attachments/Naz17T/Naz17T_p5_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Modern-Quantum Physics]], [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Atom (object)|Atom]], [[Diffraction Grating (object)|Diffraction Grating]], [[Slit (object)|Slit]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/12KyOqQraYgwIOMistNULd0l0emhEpgCY/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AQkZCZv4MOgmw9lkaMVofEiCpd_6gEhM/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AQkZCZv4MOgmw9lkaMVofEiCpd_6gEhM/view)
 
 
 

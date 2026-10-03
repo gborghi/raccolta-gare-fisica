@@ -295,22 +295,10 @@ e que a temperatura de fusão $\theta_f$ do chumbo seja igual a $327\ ^\circ\tex
 
 <div class="qlang-split" data-lang="it"></div>
 
-Quesito 05) Attualmente a una temperatura di $50{,}0\ ^\circ\text{C}$ e in movimento a 400
-m/s, un proiettile di piombo e rivestito di rame si schianta frontale contro un ostacolo
-non deformabile. Con la collisione, considerata inelastica, il proiettile, accumulato, cessa di muoversi,
-E' stato così che l'energia dissipata dall'impatto è stata completamente trasformata in
-calore che inizialmente viene trattenuto nel proiettile. Come il proiettile è costituito da 50 g di piombo e da
-50 g di rame e considerando che il calore latente di fusione del piombo è $L_f=23000\ \text{J/kg}$, che il calore di fusione del piombo è $L_f=23000\ \text{J/kg}$,
-specifico di piombo solido è $c_{Pb}= 130\ \text{J.kg}^{-1}.^\circ\text{C}^{-1}$, che quello di rame solido è $c_{Cu}=400\ \text{J.kg}^{-1}.^\circ\text{C}^{-1}$
-e la temperatura di fusione $\theta_f$ del piombo sia pari a $327\ ^\circ\text{C}$,
-- **A ** calcola il valore della quantità di calore assorbita dal proiettore in joules.
-- **B.** calcola la massa di piombo del proiettile che si fonde con l'impatto.
-
-**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
+Quesito 05) Trovandosi a una temperatura pari a $50{,}0\ ^\circ\text{C}$ e muovendosi a una velocità di 400 m/s, un proiettile di piombo rivestito di rame urta frontalmente contro un ostacolo indeformabile. Con l'urto, considerato anelastico, il proiettile, ammaccato, arresta il suo moto, potendosi ammettere che l'energia dissipata dall'impatto sia stata totalmente trasformata in calore che, inizialmente, resta trattenuto nel proiettile. Poiché il proiettile è costituito da 50 g di piombo e da
+50 g di rame e considerando che il calore latente di fusione del piombo sia $L_f=23000\ \text{J/kg}$, che il calore specifico del piombo solido sia $c_{Pb}= 130\ \text{J.kg}^{-1}.^\circ\text{C}^{-1}$, che quello del rame solido sia $c_{Cu}=400\ \text{J.kg}^{-1}.^\circ\text{C}^{-1}$ e che la temperatura di fusione $\theta_f$ del piombo sia pari a $327\ ^\circ\text{C}$,
+- **A.** calcoli il valore della quantità di calore assorbita dal proiettile, in joule.
+- **B.** calcoli la massa di piombo del proiettile che fonde con l'impatto.
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -636,34 +624,10 @@ quando viene costretto a frenare con un rallentamento costante e fermarsi esatta
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 09) The truck shown in Figure
-carries a steel coil. The coefficients of
-Static $\mu_E$ and kinematic $\mu_C$ friction between the coil and the
-The vehicle bodywork is equal to 0,18 and 0,15 respectively.
-Consider that the truck is moving with
-a climbing speed of 20 m/s in a
-The Commission has already taken a number of measures to address the problem of the use of the road in the Member States.
-on a horizontal stretch of road which presents
-One
-curve
-circulating
-with
-a
-Trace
-slanted
-The following table shows the following:
-straight and horizontal stretch of road.
-(a) Calculate, in the first case, the minimum value of the radius
-of curvature of track occupied by the truck
-allowing him to complete the curve without his load slipping into the body.
-(b) Calculate, in the second case, the speed at which the steel coil collides with the cab of the
-vehicle when it is forced to brake at a constant slowdown and stop at exactly 10s.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
+Problem 09) The truck shown in the figure transports a steel coil. The coefficients of static friction $\mu_E$ and kinetic friction $\mu_C$ between the coil and the truck bed are respectively equal to 0.18 and 0.15.
+Consider that the truck is moving with a scalar speed equal to 20 m/s on a road in two distinct situations: the first, on a horizontal stretch of the road that has a circular curve with the track banked laterally (fig.1), and the second (fig.2), on a straight and horizontal stretch of the road.
+a) Calculate, in the first case, the smallest value of the radius of curvature of the track occupied by the truck that allows it to complete the curve without its load sliding on the truck bed.
+b) Calculate, in the second case, the speed with which the steel coil collides against the cabin of the vehicle when it is forced to brake with a constant deceleration and stop in exactly 10 s.
 
 
 
@@ -949,23 +913,9 @@ b) la potenza motrice $P_m$ di questo motore in kW.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 14) The device represented consists of an electric motor
-W having a polya P of $r=5{,}0\ \text{cm}$ radius attached to its axis of
-rotation. A leather strap is held out by means of a
-Two springs M1 and M2 so as to keep the strap frictioning
-I'm just going to go with the engine running. Admit the engine is working.
-with a frequency of f stable and equal to 20 Hz and that the springs M1 and M2
-are driven by forces of $F_1=400\ \text{N}$ and $F_2=100\ \text{N}$
-the Commission. From these data, calculate:
-(a) the heat-dispersed energy $E_m$ in joules, from friction
-between the polish and the strap, during a single rotation;
-(b) the engine power $P_m$ of this engine in kW.
-
-**Topic:** [[Conservation of Energy]], [[Rotational Dynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pulley (object)|Pulley]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1j_QQ2X3k1iWS51ViAPfjjb7TPhU9WFVu/view)
+Question 14) The device shown consists of an electric motor "W" that has a pulley "P" of radius $r=5{,}0\ \text{cm}$ attached to its rotation shaft. A leather belt "C" is kept taut by means of two springs "M1" and "M2" so as to keep the belt rubbing against the pulley while the motor is running. Assume that the motor is operating with a stable frequency f equal to 20 Hz and that the springs M1 and M2 are pulled by forces equal to $F_1=400\ \text{N}$ and $F_2=100\ \text{N}$ respectively. From these data, calculate:
+a) the energy $E_m$, in joules, dissipated as heat, arising from the friction between the pulley and the belt, during a single rotation;
+b) the driving power $P_m$ of this motor in kW.
 
 
 

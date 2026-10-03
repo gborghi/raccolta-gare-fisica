@@ -113,97 +113,32 @@ Senigallia
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the countries of the European Union:
+**Zanichelli editore**
 
 1.
-Su
-Each
-paper
-RIP
-o
-Other
-il
-Your
-Name of the person
-e
-Each of us
-in
-High
-a
-- I'm on the left.
+On each sheet, write your name and surname at the top left.
 2.
-Su
-Each
-page
-(laughs)
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Here you go.
-Other
-in
-High
-a
-Right:
-{
-la
-numbering
-of the
-the pages,
-a
-pa
-Other
-da
+On each page (sheet)
+write clearly at the top right:
+{ the page numbering, starting from
 1;
-{
-il
-number
-Total
-di
-Other articles
-use.
+{ the total number of pages used.
 
-Zanichelli publisher
+ Zanichelli editore
 
-L
-a
-Gar
-a
-The national
+The
+National
+Competition
 
-e
-r
-e
-Other, of a kind used for the manufacture of goods
+is realized
 
-on
-il
-Stop
-The Commission shall adopt a decision on the
-di
-Ministry of Foreign Affairs
-of Education,
-The European Parliament
-Other articles of heading No.
-
-a
-e
-of the
-Ri er a
-The Commission
-One of them
-di
-The following is the list of countries:
-Li eo
-The Commission
-ti
- o
+with the support of
+Ministry of Education, University and Research
+Municipality of
+Senigallia
+Scientific High School
 \E.
-Medium"
-di
-The following is the list of countries:
+Medi" of
+Senigallia
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1aIs9MtfCniTEp-LqkUfobmyyO4hMYlAE/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16ZKloqdGV9KbLJDyiTUBsdiZUyRuG0d_/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16ZKloqdGV9KbLJDyiTUBsdiZUyRuG0d_/view)

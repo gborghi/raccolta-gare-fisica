@@ -1019,21 +1019,12 @@ rappresenta il movimento del corpo descritto dall'equazione oraria precedente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-16) A uniformly moving body can be described by the time function: $s(t)=4t$,
-where s represents the position of the body and t represents time, both measured in system units.
-The Commission has also adopted a number of proposals for the Please indicate which of the alternatives below is best
-represents the body motion described by the previous time equation.
+16) A body in uniform motion can be described by the time function: $s(t)=4t$, where s represents the position of the body and t the time, both measured in international system units (meters and seconds). Indicate which of the alternatives below best represents the motion of the body described by the previous time equation.
 - **A.** the body starts ($t=0$) from the origin ($s=0$) of the trajectory.
-- **B.** the average body speed is 4m/s.
-- **C ** in $t=2$s the body is 8m from the source.
-- **D ** in $t=4$s the body is 16m from the source.
-- **E.** all the above alternatives are correct.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1hrx-MUOAFTmXGZiGaIXb3HbEsxs9hFoS/view)
+- **B.** the average velocity of the body is 4m/s.
+- **C.** at $t=2$s the body is 8m from the origin.
+- **D.** at $t=4$s the body is 16m from the origin.
+- **E.** all the previous alternatives are correct.
 
 
 
@@ -1330,36 +1321,34 @@ Para uso do Professor – Total de acertos_________________
 
 <div class="qlang-split" data-lang="it"></div>
 
-20) Un treno da carico lungo 240 m, che ha una velocità costante di
-20 metri al secondo, 30 minuti per attraversare completamente un tunnel. La lunghezza del tunnel è di:
-- **A.** 160m.
-- **B.** 200m.
-- **C.** 240m.
-- **D.** 300m.
-- **E.** 360m.
-Olimpiada brasiliana
-di fisica 2006
+20) Un treno merci lungo 240 m, che ha una velocità costante di
+20 m/s, impiega 30 s per attraversare completamente un tunnel. La lunghezza del tunnel è:
+- **A.** 160 m.
+- **B.** 200 m.
+- **C.** 240 m.
+- **D.** 300 m.
+- **E.** 360 m.
+Olimpiade Brasiliana di Fisica 2006
 
-Fase 1°  8° grado
+FOGLIO RISPOSTE 1a FASE – 8a serie
 
-SEGLIZIONE con lettera di formula
+COMPILARE IN STAMPATELLO
 
-Nome _________________________________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Nome_______________________________________________________Classe_____________
 
-La scuola è stata istituita dal presidente del Consiglio di Stato.
+Scuola________________________________________________________________________
 
-La Commissione ha adottato una decisione che prevede che il sistema di gestione dei servizi di assistenza e assistenza a favore dei cittadini dell'Unione europea sia stato adottato.
+e-mail________________________________________________________________________
 
-Comune di:
+Comune__________________________________________Stato______________________
 
-La firma è stata rilasciata a norma del regolamento (CE) n.
+Firma______________________________________________
 
-Leggi attentamente le istruzioni del quaderno di domande prima di iniziare a compilare
-di questa foglia.
+Nota- Leggere attentamente le istruzioni nel fascicolo delle domande prima di iniziare a compilare questo foglio.
 
-Alternativa
+ Alternativa
 
-La questione
+Quesito
 A
 B
 C
@@ -1405,46 +1394,38 @@ E
 
 20
 
-Per uso del Professore  Total di accetti
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1hrx-MUOAFTmXGZiGaIXb3HbEsxs9hFoS/view)
+Per uso del Docente – Totale delle risposte corrette_________________
 
 <div class="qlang-split" data-lang="en"></div>
 
-20) A 240 m long freight train, which has a constant speed of
-20m/s, it takes 30 seconds to completely cross a tunnel. The length of the tunnel shall be:
+20) A freight train 240m long, which has a constant speed of
+20m/s, takes 30s to completely cross a tunnel. The length of the tunnel is:
 - **A.** 160m.
 - **B.** 200m.
 - **C.** 240m.
 - **D.** 300m.
 - **E.** 360m.
-Brazilian Olympics
-of physics 2006
+Brazilian Physics Olympiad 2006
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+ANSWER SHEET 1st PHASE – 8th grade
 
-FULL with letter of form
+FILL IN WITH BLOCK LETTERS
 
-The name of the product or service
+Name_______________________________________________________Grade_____________
 
-The following is the list of the countries of the European Union:
+School________________________________________________________________________
 
-The following information is provided by the Commission:
+e-mail________________________________________________________________________
 
-The following is the list of the Member States that have the right to participate in the activities of the Union:
+Municipality__________________________________________State______________________
 
-The following is the list of the countries of the European Union:
+Signature______________________________________________
 
-Read the instructions in the questionnaire carefully before filling in
-This page.
+Note- Read the instructions in the question booklet carefully before starting to fill out this sheet.
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+ Alternative
 
-Question No
+Question
 A
 B
 C
@@ -1490,10 +1471,4 @@ E
 
 20
 
-For the use of the Professor  Total accidents
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1hrx-MUOAFTmXGZiGaIXb3HbEsxs9hFoS/view)
+For the Teacher's use – Total correct answers_________________

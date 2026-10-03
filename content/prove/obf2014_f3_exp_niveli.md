@@ -128,19 +128,13 @@ Per ciascuna mola, si ottengono dai dati grafici i valori $k$ e $x_0$. Presente:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission on the basis of the information provided by the Member States:
+**STATIC ANALYSIS — PART II**
 
-With the results obtained in the table in Part I, set two graphs, one for each spring, of the total mass $m$ at the end as a function of the density $x$. Draw the straight line that best represents the points on each graph.
+Using the results obtained in the table from Part I, plot two graphs, one for each spring, of the total mass $m$ at the end as a function of the extension $x$. Draw the line that best represents the points in each graph.
 
-For each spring, obtain from the graph analysis the values of $k$ and $x_0$. The present:
-- the value of the spring constant $k$ at $\text{N/m}$;
-- the values of the free length $x_0$ in centimetres.
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XKfqSayiXbvqY7yWL7GYY51kWr0GP4ws/view)
+For each spring, obtain from the graphical analysis the values of $k$ and $x_0$. Present:
+- the value of the spring constant $k$ in $\text{N/m}$;
+- the values of the free length $x_0$ in centimeters.
 
 
 
@@ -195,25 +189,19 @@ b) Calcolare per ogni molla il periodo di oscillazione medio $\bar{T}$. Presenta
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission to the European Parliament and to the Council:
+**DYNAMIC ANALYSIS — PART III**
 
-If the mass-mole system is removed from equilibrium, it will begin to periodically oscillate around the equilibrium point. The behaviour may be represented by a time-dependent harmonic function $t$:
+If the mass-spring system is displaced from equilibrium, it will begin to oscillate periodically around the equilibrium point. The behavior can be represented by a time-dependent harmonic function $t$:
 
 $$x(t) - x_{eq} = A \cos(\omega t)$$
 
-where $x_{eq}$ is the equilibrium position, $A$ is the maximum oscillation amplitude, $\omega = 2\pi f$ is the angular frequency, with $f = 1/T$ the frequency and $T$ the period of an oscillation.
+where $x_{eq}$ is the equilibrium position, $A$ is the maximum oscillation amplitude, $\omega = 2\pi f$ is the angular frequency, with $f = 1/T$ the frequency and $T$ the period of one oscillation.
 
-Put the four rows at the end of one of the springs. From the equilibrium point, move it by no more than 2 cm and observe the oscillation of the system.
+Place the four washers at the end of one of the springs. From the equilibrium point, displace it by at most 2 cm and observe the oscillation of the system.
 
-(a) Measure the total time it takes the system to perform 50 oscillations. Repeat the procedure 5 times and indicate the values in a table. For each value in the table, get the value of a period of oscillation and indicate it in seconds with two significant algebraic terms after the comma. Repeat the same procedure for the other spring.
+a) Measure the total time the system takes to perform 50 oscillations. Repeat the procedure 5 times and record the values in a table. For each value in the table, obtain the value of one oscillation period and record it in seconds with two significant digits after the decimal point. Repeat the same procedure for the other spring.
 
-(b) For each spring, calculate the average oscillation period $\bar{T}$. Present the result in seconds with two significant algebraic terms after the comma. With the mean period value calculate the frequency $f$ in Hz for both springs (with a significant algebra after the comma).
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1XKfqSayiXbvqY7yWL7GYY51kWr0GP4ws/view)
+b) For each spring, calculate the average oscillation period $\bar{T}$. Present the result in seconds with two significant digits after the decimal point. Using the average period value, calculate the frequency value $f$ in Hz for both springs (with one significant digit after the decimal point).
 
 
 
@@ -256,16 +244,10 @@ Utilizza $\pi^2 \approx 10$ e calcola, con i risultati ottenuti in Parte III, il
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following information is provided by the Commission on the basis of the information provided by the Member States:
+**DYNAMIC ANALYSIS — PART IV**
 
-In the mass-mole oscillator, the frequency value $f$ is given by the expression:
+In the mass-spring oscillator, the value of the frequency $f$ is given by the expression:
 
 $$f = \frac{1}{2\pi}\sqrt{\frac{k}{m}}$$
 
-Use $\pi^2 \approx 10$ and calculate, with the results obtained in Part III, the value of $k$ for each spring in $\text{N/m}$. Compare the figures with those obtained in Part II.
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1XKfqSayiXbvqY7yWL7GYY51kWr0GP4ws/view)
+Use $\pi^2 \approx 10$ and calculate, with the results obtained in Part III, the value of $k$ for each spring in $\text{N/m}$. Compare the values with those obtained in Part II.

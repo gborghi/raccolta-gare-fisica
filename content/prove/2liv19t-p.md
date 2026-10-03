@@ -104,29 +104,18 @@ simmetria.
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-The pendulum dragged
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A paper was found with a few notes relating to an experiment to be tested in
-The lab. It is a mass sphere $m$ suspended from a moving support
-a length of $L$ wire. It is said that while the wire is moving, it is tense and forms a
-the angle $\theta = 45^\circ$ with the vertical and that also the orientation of the vertical plane,
-The wire, shown in the figure, on which the wire lies, remains fixed during the experiment.
-They consider friction negligible.
-Initially, the motion of the system in horizontal direction in the plane shall be considered straight.
-The vertical of the figure.
-1. Explain why the motorcycle must be accelerated, find its acceleration and determine the speed of the motorcycle.
-the voltage of the wire.
-More generally, the condition that the motorcycle must be horizontal, but always running in the
-The system acceleration can be directed to form an angle
-$\alpha$ with the horizontal axis facing right.
-2. Find the wire voltage as a function of the angle $\alpha$. Determine the limits of this angle.
-From now on, we want to find out if there are any possible movements in any direction, in space, with the wire still in the plane.
-The figures are vertical and the conditions above.
-3. In the particular case with $\alpha = 0$, explain whether, from the information in the notes alone, it is possible or not
-To deduce the direction and direction of the velocity.
-4. Demonstrate that the trajectory of the system is generally a flat curve with an axis of symmetry; indicate
-How to identify this plane, what curves are possible and how the curve and axis of the
-The symmetry.
+Dragged pendulum
+20 points
+A sheet of paper has been found with a few notes concerning an experiment to be tried in the laboratory. It concerns a sphere of mass $m$ hanging from a moving support by a thread of length $L$. It is said that during the motion the thread is taut and forms a constant angle $\theta = 45^\circ$ with the vertical, and that the orientation of the vertical plane, shown in the figure, on which the thread lies, also remains fixed during the experiment.
+Friction is considered negligible.
+Initially, the motion of the system is considered rectilinear, in a horizontal direction, in the vertical plane of the figure.
+1. Explain why the motion must be accelerated, find its acceleration and determine the tension of the thread.
+More generally, removing the condition that the motion must be horizontal, but that it always takes place in the same vertical plane of the figure, the acceleration of the system can be directed so as to form an angle
+$\alpha$ with the horizontal axis oriented to the right.
+2. Find the tension of the thread as a function of the angle $\alpha$. Also determine the limits of this angle.
+From now on we want to find out whether motions in every direction, in space, are possible, with the thread still in the vertical plane of the figure and with the conditions given above.
+3. In the particular case with $\alpha = 0$, explain whether, from the information written in the notes alone, it is possible or not to deduce the direction and the sense of the velocity.
+4. Demonstrate that, in general, the trajectory of the system is a plane curve with an axis of symmetry; indicate how this plane can be identified, which curves are possible, and how the curve and the axis of symmetry are oriented.
 
 <!--fig:start-->
 
@@ -178,15 +167,10 @@ The symmetry.
 </figure>
 
 
-The following is the list of the types of equipment used in the manufacture of the product:
+*Pendulum on a movable support, angle θ*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1-zZEfQphj9XPQfUE_A4rDwVHrJSIYCmQ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
 
 
 
@@ -233,37 +217,24 @@ Gara di $2^\circ$ livello – 21 Febbraio 2019
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-Sphere suspended in an electric field
-The Commission shall adopt implementing acts in accordance with Article 18 (1) of this Regulation.
-A flat surface, arranged vertically, of insulating material, is
-loaded with uniform surface density $\sigma$. A sphere of the same
-The material has a mass $m = 0.25\ \text{g}$ and a load $q = 10\ \text{nC}$; it is suspended at
-a wire insulating angle $\alpha = 30^\circ$ with the vertical, as in
-Figure, and located at point P $d = 30\ \text{cm}$ from the plate. La
-lastra ha dimensioni molto maggiori di $d$ e la sferetta è molto lontana
-From the edges of the plate. Everything is in equilibrium.
-1. Determine the electrostatic field generated by the flat plate in the
-point P.
+Small sphere suspended in an electric field
+18 points
+A flat surface, placed vertically, made of insulating material, is charged with uniform surface density $\sigma$. A small sphere made of the same material has mass $m = 0.25\ \text{g}$ and charge $q = 10\ \text{nC}$; it is suspended from an insulating thread that forms an angle $\alpha = 30^\circ$ with the vertical, as in the figure, and is located at point P at distance $d = 30\ \text{cm}$ from the plate. The plate has dimensions much larger than $d$ and the small sphere is very far from the edges of the plate. Everything is in equilibrium conditions.
+1. Determine the electrostatic field generated by the flat plate at point P.
 2. Calculate the density $\sigma$.
-The wire breaks as soon as $t = 0$.
-3. This H is the orthogonal projection of P on the plate, determining a
-The distance $h$ from H the sphere hits the plate.
-4. How fast does the sphere hit the plate?
-Pay it. 2 di 3
-AIF  2019 Olympics in Physics
-Gara di $2^\circ$ livello – 21 Febbraio 2019
+At the instant $t = 0$ the thread breaks.
+3. Let H be the orthogonal projection of P onto the plate, determine at what distance $h$ from H the small sphere hits the plate.
+4. With what speed does the small sphere strike the plate?
+Page 2 of 3
+AIF – Physics Olympiad 2019
+$2^\circ$ level competition – February 21, 2019
 
 <!--fig:start-->
 ![[_attachments/2liv19T-P/2liv19T-P_p2_f2.png]]
-*Sphere hanging near load plate*
+*Small sphere suspended near a charged plate*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1-zZEfQphj9XPQfUE_A4rDwVHrJSIYCmQ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
 
 
 
@@ -326,48 +297,24 @@ indicati con $dT$ e $dt$. Analogamente più avanti si userà la notazione $dQ$
 
 P3
 Heat transfer
-The Commission shall adopt implementing acts in accordance with Article 22 of this Regulation.
-An electric heater shall deliver a power of $P_0 = 150\ \text{W}$. All’istante $t = 0$ esso viene inserito in
-a container containing a mixture of liquid water and ice, at $0\ ^\circ\text{C}$ and at standard pressure;
-The total mass of the mixture is $m_0$ and the initial ice mass $M$.
-The mixture is mixed so that its temperature $T$ is always uniform throughout its mass.
-ATTENTION: in this problem the temperatures are all expressed in $^\circ\text{C}$; they are written with the capital $T$ to distinguish them from the
-tempi ($t$ minuscola). It is recommended that you pay attention to this
-The problem is that the solution is written.
-The system consisting of the mixture with the heater immersed shall initially be assumed to be heat-exchange-free.
-with the external environment, considering that both the thermal capacity of the container and the quantity of water are negligible
-Evaporated before boiling.
-1. Determine, according to $P_0$, $M$, $m_0$ and the necessary constants, the instant $t_0$ in which the ice has melted
-completamente e la successiva variazione di temperatura della miscela $dT$ nel tempo $dt$ (∗). Tracing a
-Qualitative graph of the temperature trend of the mixture $T$ over time $t$, starting from the current $t = 0$
-until boiling, indicating on it the values above: $t_0$, $dT$ and $dt$.
-If the system exchanges heat with the external environment, the temperature change $T$ of the mixture, in
-The time function $t$ is the one shown in the graph attached.
-The heat dispersed outside per unit time is assumed to be proportional to the difference in
-The temperature between the mixture and the external environment, $dQ/dt = \alpha(T - T_a)$, where $T$ is still the temperature of the mixture.
-Mix, $T_a$ is the temperature of the environment and $\alpha$ is a temperature independent parameter. It is assumed that
-the ambient temperature is constant and $T_a = 0\ ^\circ\text{C}$, so that it is more easily
-$$\frac{dQ}{dt} = \alpha T \,,$$
-with $T$ always expressed in $^\circ\text{C}$.
-Considering that both the thermal capacity of the vessel and the amount of water evaporated are still negligible
-Before boiling, answer the following questions by drawing the necessary data from the graph $T(t)$.
+22 points
+An electric heater delivers a power $P_0 = 150\ \text{W}$. At the instant $t = 0$ it is inserted into a container holding a mixture of liquid water and ice, at $0\ ^\circ\text{C}$ and at standard pressure;
+let $m_0$ be the initial mass of ice and $M$ the total mass of the mixture.
+The mixture is stirred in such a way that its temperature $T$ is always uniform throughout its mass.
+WARNING: in this problem the temperatures are all expressed in $^\circ\text{C}$; they are written with a capital $T$ to distinguish them from times (lowercase $t$). It is recommended to pay attention to this fact when writing the solution.
+Initially, assume that the system consisting of the mixture with the heater immersed in it does not exchange heat with the external environment, considering negligible both the heat capacity of the container and the amount of water evaporated before boiling.
+1. Determine, as a function of $P_0$, $M$, $m_0$ and of the necessary constants, the instant $t_0$ at which the ice has completely melted and the subsequent temperature variation of the mixture $dT$ over time $dt$ (∗). Draw a qualitative graph of the trend of the temperature $T$ of the mixture over time $t$, starting from the instant $t = 0$ up to boiling, indicating on it the quantities found above: $t_0$, $dT$ and $dt$.
+If instead the system exchanges heat with the external environment, the trend of the temperature $T$ of the mixture, as a function of time $t$, is the one represented in the attached graph.
+Assume that the heat lost to the outside per unit time is proportional to the temperature difference between the mixture and the external environment, $dQ/dt = \alpha(T - T_a)$, where $T$ is still the temperature of the mixture, $T_a$ is the temperature of the environment, and $\alpha$ is a parameter independent of temperature. Assume that the temperature of the environment is constant and equal to $T_a = 0\ ^\circ\text{C}$, so that it more simply becomes
+$$\frac{dQ}{dt} = \alpha T \,,$$ with $T$ always expressed in $^\circ\text{C}$.
+Still considering both the heat capacity of the container and the amount of water that evaporates before boiling to be negligible, answer the following questions, obtaining the necessary data from the graph $T(t)$.
 2. Determine the initial mass $m_0$ of the ice in the mixture.
 3. Determine the total mass $M$ of the mixture.
 4. Determine the parameter $\alpha$.
-5. Determine the maximum heat output $P_\text{max}$ so that the water does not boil.
-6. By maintaining the same values for masses and the coefficient $\alpha$, determine the time $t^\star$ at which it would start
-The boiling point of water if the power output from the electric heater is $P^\star = 425\ \text{W}$.
-The following table shows the results of the study:
-The Commission will also draw up a proposal for a directive on the approximation of the laws of the Member States relating to the use of the geometric construction.
-The following information is provided by the Commission to the Member States:
-The solution.
+5. Determine the maximum power $P_\text{max}$ of the heater, such that the water does not reach boiling.
+6. Keeping the same values for the masses and for the coefficient $\alpha$, determine the time $t^\star$ at which the boiling of the water would begin if the power emitted by the electric heater were $P^\star = 425\ \text{W}$.
+NOTE: The attached graph may be used to draw geometric constructions useful for obtaining the answers; it must therefore be handed in together with the solution sheets.
 (∗)
-Poiche ́ il rapporto $\Delta T/\Delta t$ in generale non è costante, il valore istantaneo si ottiene considerando intervalli sempre più piccoli,
-indicated by $dT$ and $dt$. Similarly, later the notation $dQ$ will be used.
+Since the ratio $\Delta T/\Delta t$ is in general not constant, the instantaneous value is obtained by considering ever smaller intervals, denoted by $dT$ and $dt$. Similarly, later on the notation $dQ$ will be used
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1-zZEfQphj9XPQfUE_A4rDwVHrJSIYCmQ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1O_110z4xV0xp1_XRb_gJwYkSdk3VO7Nx/view)

@@ -822,6 +822,10 @@ iii. (1.5 points) Calculate the average power required during the acceleration p
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Svizze 2025 — Quesito 23" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/capacitor,object/mirror"></span>
 
+<div class="qlang-switch" data-default="it"></div>
+
+
+
 **Problema lungo 2.2: Cristalli liquidi (16 punti)**
 
 Alcuni finestrini degli aerei possono regolare la loro trasparenza grazie alla tecnologia a cristalli liquidi, che controlla la quantità di luce che passa. Se la luce di intensità $I$ attraversa un polarizzatore lineare, l'intensità della luce trasmessa $I_t$ è generalmente data da:
@@ -882,6 +886,61 @@ ii. (1 pt) Qual è il valore della frazione $\dfrac{V_1}{V_2}$?
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]], [[Mirror (object)|Mirror]]
 **Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1y_EmH1NMQOpekDJQNNsGE7jGZvvxIzSw/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Long Problem 2.2: Liquid Crystals (16 points)**
+
+Some airplane windows can adjust their transparency thanks to liquid crystal technology, which controls the amount of light that passes through. If light of intensity $I$ passes through a linear polarizer, the intensity of the transmitted light $I_t$ is generally given by:
+$$I_t = I\cos^2(\theta),$$ where $\theta$ is the angle between the polarization direction of the incoming light and the transmission axis of the second polarizer.
+
+**Part A. Sketch of the system (4 points)**
+
+First, the light passes through a static linear polarizer. Then, the light passes through a layer of liquid crystals that changes the polarization of the light by an angle $\Delta\varphi$, depending on the applied electric field. At rest (without field), the liquid crystal rotates the polarization by an angle $\Delta\varphi_0$. When an electric field is applied, the rotation angle decreases. Finally, the light passes through a second linear polarizer placed at a distance $d$ and aligned at an angle $\theta=90°$ with respect to the first.
+
+i. (2 pts) Draw the system, mark the distance between the filters and indicate the intensity at each stage.
+
+ii. (1 pt) Describe in your own words the polarization state of the incoming light.
+
+iii. (1 pt) Describe in your own words the polarization state of the outgoing light.
+
+**Part B. Behavior of the capacitor (3 points)**
+
+The liquid crystal layer has a thickness of $d=5\,\mu\text{m}$ and a maximum applied voltage of $V_{\text{max}}=12\,\text{V}$. The relative permittivity of the liquid crystal is $\varepsilon_r=10$.
+
+i. (2 points) Calculate the magnitude of the electric field $E_{\text{max}}$ applied between the two polarizers across the liquid crystal layer when the maximum voltage is applied.
+
+ii. (1 point) Determine the capacitance $C$ of an area $0.125\,\text{m}^2$ of the liquid crystal layer.
+
+**Part C. Intensity regulation (6 points)**
+
+In this system, the angle $\theta$ is determined by the polarization change due to the liquid crystal ($\Delta\varphi$) and by the orientation of the second polarizer. We have:
+$$\theta = \Delta\varphi - \frac{\pi}{2},$$ where the polarization change $\Delta\varphi$ caused by the liquid crystal depends on the applied voltage and is approximated by:
+$$\Delta\varphi = \Delta\varphi_0\left(1-\frac{V}{V_{\text{max}}}\right),$$ where $V_{\text{max}}=12\,\text{V}$ completely eliminates the polarization rotation.
+
+i. (2 points) What is the intensity of the light $I_{LC}$ after the first linear polarizer relative to the intensity of the incoming light $I_0$?
+
+ii. (1 point) We want to have a window with maximum transparency. If you are free to choose the value of $\Delta\varphi_0\in(0,2\pi)$, what value will you set it to?
+
+iii. (3 points) Calculate the voltage $V_1$ that must be applied to reduce the intensity of the transmitted light by $70\%$ relative to the incoming light.
+
+**Part D. Calculator screens (3 points)**
+
+The same technology is used in the displays of many calculators. The only conceptual difference is that a mirror is positioned on one side of the system. The light therefore passes through the system twice.
+
+i. (2 points) In this case, what voltage $V_2$ must be applied to reduce the intensity of $70\%$ relative to the incoming light?
+
+ii. (1 point) What is the value of the fraction $\dfrac{V_1}{V_2}$?
+
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p15_f6.png]]
+*schematic of system with polarizers and liquid crystal*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2nd_round_2025_it/2nd_round_2025_it_p15_f7.png]]
+*liquid crystal capacitor circuit*
+<!--fig:end-->
 
 
 

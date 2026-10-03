@@ -235,217 +235,164 @@ della differenza di potenziale , la formula può essere approssimata come
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the data used for the calculation of the total energy consumption:
+Solar cells
 E2
 
 Page 1 of 9
 
-2.0 Introduction to the
-The instrumentation available for the execution of the experiment is shown in Fig. 2.1.
+2.0 Introduction
+The equipment available for carrying out the experiment is shown in Fig. 2.1.
 
-Figure 2.1 Instrumentation used for the E2 experiment.
+Figure 2.1 Equipment used for experiment E2.
 
-List of instruments (see Fig. 2.1):
-A: Solar cell
-The following is the list of the countries of the European Union:
-C: Box with guides for assembling the light source, solar cells and everything else
-D: LED light source mounted on a lamp holder
-E: power supply for light source D
+List of equipment (see Fig. 2.1):
+A: solar cell
+B: solar cell
+C: box with guides for mounting the light source, the solar cells and everything else
+D: LED light source mounted in a lamp holder
+E: power supply for the light source D
 F: variable resistor
 G: support for mounting a single solar cell in box C
 H: circular opening to be used in box C
-I: Support for mounting two solar cells in box C
-J: Flat screen for use in box C
+I: support for mounting two solar cells in box C
+J: flat screen to be used in box C
 
-The following table shows the data used for the calculation of the total energy consumption:
+Solar cells
 E2
 
 Page 2 of 9
 
-K: Digital multimeter
-L: Digital multimeter
-M: Electrical wires with crocodiles
-N: Optical container (s)
+K: digital multimeter
+L: digital multimeter
+M: electrical wires with crocodile clips
+N: optical vessel (cuvette)
 O: paper meter
-P: Scissors
-The following is the list of the products used:
-A: water to fill the optical container N
-S: Paper handkerchief for drying water that has fallen
-T: Plastic container for draining water from optical container N (not shown in Fig. 2.1)
-U: plastic pipette (not shown in Fig. 2.1)
-V: Box cover C (not shown in Fig. 2.1)
+P: scissors
+Q: adhesive tape
+R: water for filling the optical vessel N
+S: paper tissue for drying spilled water
+T: plastic container for emptying the water from the optical vessel N (not visible in Fig. 2.1)
+U: plastic pipette (not visible in Fig. 2.1)
+V: lid of box C (not visible in Fig. 2.1)
 
 Data sheet: table of fundamental constants
 
 Speed of light in vacuum
 
-Basic load
+Elementary charge
 
-The Boltzmann constant is the constant
+Boltzmann constant
 
-A solar cell converts some of the electromagnetic energy of the incident light into energy
-electrical by separating the electrical charges inside the solar cell itself. This way you can
-generate an electric current. The E2 experiment allows us to study solar cells using the
-the equipment provided. The instrumentation is made up of a box with supports for a
-The Commission has already adopted a proposal for a directive on the protection of the environment. The variable resistor shall be
-installed in the box, as shown in Fig. 2.2. One of the three variable receptor terminals is
-It's been removed because it's not necessary. Electrical wires with crocodiles and two cells are also supplied
-Solar panels with rear terminals (marked by a serial number and the letters A or B). The two
-Solar cells are similar, and they may have slight differences. The two multimeters have terminals.
-The first is the ampereometer and the second is the voltmeter (see Fig.
-2.3). Finally, in the experiment, you'll use an optical container to fill with a bottle of water.
-The plastic.
+A solar cell transforms part of the electromagnetic energy of the incident light into electrical energy by separating the electric charges inside the solar cell itself. In this way an electric current can be generated. Experiment E2 allows solar cells to be studied using the provided instrumentation. The instrumentation consists of a box with supports for a light source and for some solar cells and a lid. The variable resistor must be installed in the box, as shown in Fig. 2.2. One of the three terminals of the variable resistor has been removed because it is not needed. Electrical wires with crocodile clips and two solar cells with the terminals on the back (marked with a serial number and the letters A or B) are also provided. The two solar cells are similar, though they may also have slight differences. The two multimeters have terminals already set up to be used one as an ammeter and the other as a voltmeter (see Fig.
+2.3). Finally, in the experiment you will use an optical vessel to be filled with water from a plastic bottle.
 
-The following table shows the data used for the calculation of the total energy consumption:
+Solar cells
 E2
 
 Page 3 of 9
 
-Figure 2.2 (a) Box with light source and resistor to be mounted. (b) The resistor has been
-It's in the box. Please note that the small metal bolt on the resistor is used as anchorage and
-It must be inserted into the small furnace on the wall of the box, located to the right of the one where
-pass the resistor.
+Figure 2.2 (a) Box with the light source and the resistor to be mounted. (b) The resistor has been mounted in the box. Be careful that the small metal pin on the resistor serves as an anchor and must be inserted into the small hole on the wall of the box, located to the right of the one through which the resistor passes.
 
-Figure 2.3 Multimeter with terminals designed to be used as ampereometers (a)
-left) and as voltmeter (right). You turn on each of the two instruments by pressing the button
-POWER in the upper left corner. The instruments will automatically turn off after a certain
-time when they don't work. Both the current and the continuous voltage () and the current and voltage (the current and voltage) can be measured.
-current that the voltage alternates ( ). The internal resistance of the voltmeter is 10 $M\Omega$ for any
+Figure 2.3 Multimeters with the terminals set up to use them, respectively, as an ammeter (on the left) and as a voltmeter (on the right). Each of the two instruments is turned on by pressing the
+“POWER” button in the top left corner. The instruments turn off automatically after a certain time during which they are not operating. Both direct current and direct voltage ( ) as well as alternating current and alternating voltage ( ) can be measured. The internal resistance of the voltmeter is 10 $M\Omega$ for any
 
-The following table shows the data used for the calculation of the total energy consumption:
+Solar cells
 E2
 
 Page 4 of 9
 
-the bottom of the measuring scale (range). The difference in the potential on the amperometer is 200 mV per
-maximum of the scale, whatever the scale bottom (range) used. In the event of overflow, the display
-The sample size is the same as the sample size. The HOLD button (in the corner in
-It should never be pressed, except when you want to keep a recording.
+measurement full scale (range). The potential difference across the ammeter is 200 mV at the maximum of the scale, whatever full scale (range) is used. In case of overflow, the display shows “l” and a higher measurement range must be selected. The “HOLD” button (in the top right corner) must never be pressed, except when you want to hold a reading.
 
-Caution: Do not use multimeters as solar cell ohmets because the current of the
-measurement could damage the cell. When you change the bottom of the multimeter scale, for
-Please turn the handle carefully: the reading may be unstable and the handle may
-I'm going to break up. So always check that there's a number under the decimal point.
-the bottom of the scale when you make a measurement  if the scale switch was not
-The multimeter would not measure anything even if there were figures on the
-Display.
+WARNING: Do not use the multimeters as ohmmeters on the solar cell because the measurement current could damage the cell. When changing the full scale of the multimeters, please turn the knob carefully: the reading may be unstable and the knob could break. Therefore, always check that there is a number below the decimal point corresponding to the full scale when you take a measurement – if the range selector switch were not completely in place, the multimeter would not measure anything even if there were digits on the display.
 
-Note: never change the voltage of the power supply. It must always be kept at 12 V
-For the whole experiment. (The light source power supply must be connected to the
-network (230 V ~) that's on your desk.)
-Note: Consideration of measurement uncertainties should only be made when explicitly requested.
-Note: all measured and calculated quantities must be expressed in units of the International System.
-Note: for each current and voltage measurement, the LED light shall be switched on.
+Note: never change the voltage of the power supply. It must always be kept at 12 V throughout the experiment. (The power supply of the light source must be connected to the mains socket (230 V ~) on your workbench.)
+Note: considerations on measurement uncertainties should only be made when explicitly requested.
+Note: all measured and calculated quantities must be expressed in International System units.
+Note: in every current and voltage measurement the LED light must be on.
 
-The following table shows the data used for the calculation of the total energy consumption:
+Solar cells
 E2
 
 Page 5 of 9
 
-2.1 The dependence of the solar cell current on the distance from the source
-Light
-On this side, you'll have to measure the current generated by the solar cell connected to a circuit.
-The electrical system is a single-use cell with an ampere meter and determines how it depends on the distance between the cell and the
-The light source. Light is produced within the individual light diodes and therefore must be
-measured as shown in Figure 1. 2.4.
+2.1 The dependence of the solar cell current on the distance from the light source
+For this part, you will have to measure the current generated by the solar cell connected in an electrical circuit with an ammeter and determine how it depends on the distance between the cell and the light source. The light is produced inside the individual light-emitting diodes and must therefore be measured as shown in Fig. 2.4.
 
-Figure 2.4 From the top of the question 2.1. Note that the opening is a
-Right in front of solar cell A. The distance is measured from the inside of the light diode to the
-the surface of the solar cell.
+Figure 2.4 Top view of the arrangement for question 2.1. Note that the aperture a is located immediately in front of the solar cell A. The distance is measured from the inside of the light-emitting diode to the surface of the solar cell.
 
-Don't change the bottom scale of the amperometer during this experiment: internal resistance
-The current of the amperometer depends on the measurement range and affects the current that can be obtained
-from the solar cell.
-Report the serial number of the light source and the solar cell A on the reply sheet.
-Place the light source in the support of U. The light source fits very well with your
-support for which he pays attention when he mounts it. Position the A solar cell in the support for
-Single solar cell and place the circular screen in the housing immediately in front of the
-the solar cell itself. The current as a function of the distance from the light source can be,
-When it's not too small, be approached by the expression
- ( )
+Do not change the full-scale setting of the ammeter during this experiment: the internal resistance of the ammeter depends on the measurement range and influences the current that can be drawn from the solar cell.
+Record the serial number of the light source and of solar cell A on the answer sheet.
+Place the light source in the U-shaped holder. The light source fits very well into its holder, so pay attention when mounting it. Place solar cell A in the holder for a single solar cell and put the circular screen in the slot immediately in front of the solar cell itself. The current as a function of the distance from the light source can, when it is not too small, be approximated by the expression ( )
 
-where they're constant.
-2.1a Measure I in r, and report your measurements in a table.
+where and are constants.
+2.1a Measure I as a function of r, and report your measurements in a table.
 1.0
-2.1b Determine the values of Ia and a using an appropriate graphical method.
+2.1b Determine the values of Ia and a using a suitable graphical method.
 1.0
 
-The following table shows the data used for the calculation of the total energy consumption:
+Solar cells
 E2
 
 Page 6 of 9
 
 2.2 Characteristic of the solar cell
-Take the circular opening. Install the variable resistor in the box as shown in Fig. 2.2.
-Place the light source in room number 0, farther away from the resistor. Put it up .
-Solar cell A in the support for single solar cell without circular opening in housing 10.
-Build a circuit as shown in Fig. 2.5 to measure the characteristic of the solar cell, i.e.
-the difference in potential U to the heads of the solar cell in relation to current I in the circuit
-It's made up of solar cells, resistance and amperometer.
+Remove the circular aperture. Mount the variable resistor in the box as shown in Fig. 2.2.
+Place the light source in housing number 0, the farthest from the resistor. Mount solar cell A in the single solar cell holder without the circular aperture in housing 10.
+Build a circuit as shown in Fig. 2.5 to measure the characteristic of the solar cell, that is, the potential difference U across the solar cell as a function of the current I in the circuit formed by the solar cell, resistor and ammeter.
 
-Figure 2.5 Electrical scheme to measure the characteristic of the application 2.2
+Figure 2.5 Circuit diagram for measuring the characteristic for question 2.2
 
-2.2a Build a table of U and I measures.
+2.2a Build a table of the measurements of U and I.
 0.6
-2.2b With these data, it shows the difference in potential in current.
+2.2b With these data, plot the potential difference as a function of the current.
 0.8
-2.3 Theoretical characteristics of the solar cell
-For the solar cell in this experiment the current as a function of the potential difference is given
-from the expression
- ( (
+2.3 Theoretical characteristic of the solar cell
+For the solar cell in this experiment the current as a function of the potential difference is given by the expression ( (
  ) )
-where the parameters are constant for a given illumination. Let's say it's
- . The fundamental constants are the elementary charge and the constant of the
-Boltzmann. What is it?
-The parameters are assumed to be between 1 and 4. For some values
-The formula can be approximated as
- (
+where the parameters , and are constants for a given illumination. Suppose that
+ . The fundamental constants and are respectively the elementary charge and the Boltzmann constant.
+ It is assumed that, in this case, the parameter has a value between 1 and 4. For some values of the potential difference , the formula can be approximated as (
  )
 2.3b Estimate the possible v
 
 <!--fig:start-->
-**p.1 **  Instrumentation used for the E2 experiment
+**p.1** — Equipment used for experiment E2
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.3 **  Box with source and resistor to be mounted
+**p.3** — Box with source and resistor to be assembled
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p3_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total value of the sampled Union producers:
+**p.3** — Digital multimeters with terminals
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.5 **  View from the source and cell layout
+**p.5** — Top view of the arrangement of source and cell
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p5_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the test:
+**p.6** — Electrical diagram for measuring the cell characteristic
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p6_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7 **  View from the upper source and cells A B
+**p.7** — Top view of source and cells A B
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p7_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
- Ways to connect serial and parallel cells
+**p.8** — Ways of connecting cells in series and parallel
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p8_f7.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following information is provided by the manufacturer:
+**p.9** — Assembly of the experimental apparatus optical vessel
 ![[_attachments/Version 4 IPhO2013_E2_italiano/Version 4 IPhO2013_E2_italiano_p9_f8.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Electrostatics]], [[Geometric Optics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1KnDC74BdGyAcXR_sePqX4ZktkbPifKo1/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hzdHAhuYLQgwtcz2OAADmzpCH0pe8QkM/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hzdHAhuYLQgwtcz2OAADmzpCH0pe8QkM/view)

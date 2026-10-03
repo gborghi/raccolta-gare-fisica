@@ -39,12 +39,7 @@ What is the energy required to change the temperature of 200 g of lead (whose sp
 - **C.** $7.3\,\text{kJ}$
 - **D.** $0.26\,\text{MJ}$
 - **E.** $7.3\,\text{MJ}$
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -77,25 +72,20 @@ La forza risultante applicata al corpo nel tratto DE è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows how the velocity of a body of mass $2\,\text{kg}$ moving over a flat surface varies over time.
+The graph shows how the velocity of a body of mass equal to $2\,\text{kg}$ moved on a flat surface varies over time.
 
-The resulting force applied to the body in the DE-stroke is:
+The resultant force applied to the body in the segment DE is:
 
-- **A ** nothing
+- **A.** zero
 - **B.** $1.0\,\text{N}$
 - **C.** $2.0\,\text{N}$
 - **D.** $4.0\,\text{N}$
 - **E.** $19.6\,\text{N}$
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p3_f1.png]]
-The following is the list of the main types of data that are used in the database:
+*velocity–time graph DE segment*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -128,9 +118,9 @@ La forza risultante applicata alla spira è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-A rectangular spiral is traversed by a continuous current $I'$ that is running counterclockwise. Next to it, in the same plane as the spire and parallel to both sides of the rectangle, is an infinitely long wire traveled by a continuous current $I$ directed upwards, as shown in the figure. The parallel sides of the spire are $a$ and $b$ from the wire, respectively, and have a length $c$.
+A rectangular loop carries a direct current $I'$ circulating counterclockwise. Next to it, in the same plane as the loop and parallel to two sides of the rectangle, there is an infinitely long wire carrying a direct current $I$ directed upward, as shown in the figure. The sides of the loop parallel to the wire are at distances $a$ and $b$ from the wire, respectively, and have length $c$.
 
-The resulting force applied to the propeller shall be:
+The resultant force applied to the loop is:
 
 - **A.** $\dfrac{\mu_0 II' c}{2\pi}\left(\dfrac{1}{a}-\dfrac{1}{b}\right)$ directed to the right
 - **B.** $\dfrac{\mu_0 II' c}{2\pi}\left(\dfrac{1}{a}+\dfrac{1}{b}\right)$ directed to the left
@@ -141,12 +131,7 @@ The resulting force applied to the propeller shall be:
 ![[_attachments/1liv16T/1liv16T_p3_f2.png]]
 *rectangular loop near infinite wire*
 <!--fig:end-->
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Ampère's Law (metodo)|Ampère's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -175,21 +160,16 @@ Ponendo a zero il potenziale a distanza infinita dalle sfere, il potenziale nel 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two spherical conducting shells are concentric and isolated. The innermost sphere has a radius $a_1$ and a net charge $q_1$; the outermost sphere has a radius $a_2$ and a net charge $q_2$. Consider a point P located $a$ from the centre of the two spheres, with $a_1 < a < a_2$.
+Two concentric spherical conducting shells are insulated. The innermost sphere has radius $a_1$ and net charge $q_1$; the outermost sphere has radius $a_2$ and net charge $q_2$. Consider a point P located at distance $a$ from the center of the two spheres, with $a_1 < a < a_2$.
 
-Putting the potential at infinite distance from the spheres to zero, the potential at point P is:
+Setting the potential to zero at an infinite distance from the spheres, the potential at point P is:
 
 - **A.** $k\dfrac{q_1}{a_1}+k\dfrac{q_2}{a_2}$
 - **B.** $k\dfrac{q_1}{a}+k\dfrac{q_2}{a}$
 - **C.** $k\dfrac{q_1}{a}$
 - **D.** $k\dfrac{q_1}{a}+k\dfrac{q_2}{a_2}$
 - **E.** $k\dfrac{q_1}{a}+k\dfrac{q_2}{a}$
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -248,15 +228,15 @@ Nell'intervallo di tempo in cui i due impulsi si sovrappongono, il punto P della
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure represents two pulses of equal length having equal width $A$ and equal wavelength $\lambda$. They spread on a long, homogeneous elastic cord, both towards the point P that is at equal distance from the two impulses.
+The figure represents two pulses of equal length that have equal amplitude $A$ and the same wavelength $\lambda$. They propagate along a long homogeneous elastic cord, both toward point P which is at equal distance from the two pulses.
 
-In the time interval between the two pulses overlapping, the P-point of the rope oscillates with amplitude:
+In the time interval in which the two pulses overlap, point P of the cord oscillates with amplitude:
 
-- **A.** $\lambda/2$ in horizontal
-- **B.** $A/2$ in vertical
-- **C.** $A$ in vertical
-- **D.** $2A$ in vertical
-- **E.** nothing (not oscillating)
+- **A.** $\lambda/2$ horizontally
+- **B.** $A/2$ vertically
+- **C.** $A$ vertically
+- **D.** $2A$ vertically
+- **E.** zero (it does not oscillate)
 <!--fig:start-->
 
 
@@ -287,12 +267,7 @@ In the time interval between the two pulses overlapping, the P-point of the rope
 
 *two wave pulses approaching point P*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -325,9 +300,9 @@ In condizioni stazionarie qual è l'intensità di corrente $I$ nel filo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-In an electrostatic machine a belt of $a$ width, carrying a charge with uniform surface density $\sigma$, moves at $v$ speed. At a certain point the charge distributed on the belt is removed and convected into a conductive wire by a current.
+In an electrostatic machine, a belt of width $a$, which carries charge with uniform surface density $\sigma$, moves at speed $v$. At a certain point the charge distributed on the belt is removed and conveyed into a conducting wire, producing an electric current.
 
-In stationary conditions what is the current intensity $I$ in the wire?
+Under steady-state conditions, what is the current intensity $I$ in the wire?
 
 - **A.** $\sigma a/v$
 - **B.** $\sigma v/a$
@@ -336,14 +311,9 @@ In stationary conditions what is the current intensity $I$ in the wire?
 - **E.** $av/\sigma$
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p4_f4.png]]
-The manufacturer shall ensure that the manufacturer is able to provide the necessary information and that the manufacturer is able to provide the necessary information.
+*belt conveying charge into wire*
 <!--fig:end-->
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -463,9 +433,9 @@ Quale valore si legge, approssimativamente, sul dinamometro?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a horizontal circular platform. On the edge is a mass block $m=2.0\,\text{kg}$ attached to one end of a wire into which a dynamometer is inserted. The other end of the wire is fixed to the center of the platform. The wheel block (with negligible friction) along the edge of the platform, at a distance $r=1.2\,\text{m}$ from the centre, with a constant speed $v=8\,\text{m s}^{-1}$.
+The figure shows a horizontal circular platform. On the edge there is a block of mass $m=2.0\,\text{kg}$ attached to one end of a string in which a dynamometer is inserted. The other end of the string is fixed to the center of the platform. The block rotates (with negligible friction) along the edge of the platform, at a distance $r=1.2\,\text{m}$ from the center, with a constant speed of magnitude $v=8\,\text{m s}^{-1}$.
 
-What is the value read, approximately, on the dynamometer?
+What value is read, approximately, on the dynamometer?
 
 - **A.** $15\,\text{N}$
 - **B.** $20\,\text{N}$
@@ -498,12 +468,7 @@ What is the value read, approximately, on the dynamometer?
 
 *rotating block on circular platform with dynamometer*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -532,21 +497,16 @@ La quantità di calore ceduta al termostato freddo alla temperatura di $300\,\te
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a Carnot cycle $1000\,\text{J}$ energy is drawn from a source at a temperature of $400\,\text{K}$.
+In a Carnot cycle, $1000\,\text{J}$ of energy is taken from a source at a temperature of $400\,\text{K}$.
 
-The amount of heat transferred to the cold thermostat at $300\,\text{K}$ is as follows:
+The amount of heat released to the cold reservoir at a temperature of $300\,\text{K}$ is, in magnitude:
 
 - **A.** $0$
 - **B.** $250\,\text{J}$
 - **C.** $500\,\text{J}$
 - **D.** $750\,\text{J}$
 - **E.** $1000\,\text{J}$
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -598,9 +558,9 @@ Qual è l'energia cinetica totale del sistema dopo l'urto?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two identical discs can rotate without friction around a common axis. At the start the bottom disc rotates at angular speed $\omega_0$ and kinetic energy $E_0$ while the top disc is stationary. The latter is dropped and adheres to the lower one without bouncing back.
+Two identical discs can rotate without friction around a common axis. Initially, the lower disc rotates with angular velocity $\omega_0$ and kinetic energy $E_0$ while the upper disc is stationary. The latter is dropped and sticks to the lower one without bouncing.
 
-What is the total kinetic energy of the system after the impact?
+What is the total kinetic energy of the system after the collision?
 
 - **A.** $\frac{1}{4}E_0$
 - **B.** $\frac{1}{2}E_0$
@@ -630,12 +590,7 @@ What is the total kinetic energy of the system after the impact?
 
 *two coaxial discs before collision*
 <!--fig:end-->
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -664,21 +619,16 @@ Qual è la massima energia cinetica raggiunta dal blocco?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass block $3\,\text{kg}$ is supported on a non-friction horizontal plane and is attached to an ideal spring of constant elasticity $30\,\text{N m}^{-1}$ having the other end fixed. The block is moved by pressing the spring of $20\,\text{cm}$ against the equilibrium position and left.
+A block of mass $3\,\text{kg}$ rests on a frictionless horizontal plane and is attached to an ideal spring with spring constant $30\,\text{N m}^{-1}$ whose other end is fixed. The block is displaced by compressing the spring by $20\,\text{cm}$ relative to the equilibrium position and then released.
 
-What is the maximum kinetic energy achieved by the block?
+What is the maximum kinetic energy reached by the block?
 
 - **A.** $0.6\,\text{J}$
 - **B.** $1.2\,\text{J}$
 - **C.** $1.5\,\text{J}$
 - **D.** $2.4\,\text{J}$
 - **E.** $6000\,\text{J}$
-**Topic:** [[Oscillations & Waves]], [[Conservation of Energy]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -707,21 +657,16 @@ Quale traiettoria segue il mezzo sul ghiaccio? _(le opzioni sono rappresentate g
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mass $M=1200\,\text{kg}$ vehicle travelling at a constant speed (in the form of a module) $v=9.0\,\text{m s}^{-1}$ turned at a cross-section. The vehicle follows a horizontal trajectory along a radius circumference $r=25\,\text{m}$ to the point P. At this point, a sheet of ice completely loses its grip on the ground to the car.
+A car of mass $M=1200\,\text{kg}$ traveling at constant speed (in magnitude) $v=9.0\,\text{m s}^{-1}$ turns at an intersection. The car follows a horizontal trajectory along a circle of radius $r=25\,\text{m}$, arriving at point P. At this point a sheet of ice causes the car to completely lose its grip on the ground.
 
-What trajectory does the middle follow on the ice? The options are shown in the figure.
+Which trajectory does the vehicle follow on the ice? _(the options are represented graphically in the figure)_
 
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p5_f8.png]]
-The following information is provided for in the Annex to Regulation (EU) No 1303/2013.
+*car trajectory options after losing grip*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -750,21 +695,16 @@ Quale dei seguenti grafici rappresenta meglio l'intensità $E$ del campo elettri
 
 <div class="qlang-split" data-lang="en"></div>
 
-A charge is evenly distributed throughout the volume of an infinitely long, non-conductive cylinder with a radius $R$.
+A charge is distributed uniformly throughout the volume of an infinitely long, non-conducting cylinder of radius $R$.
 
-Which of the following graphs best represents the electric field intensity $E$ in relation to the distance $r$ from the cylinder axis? The options are shown in the figure.
+Which of the following graphs best represents the magnitude $E$ of the electric field as a function of the distance $r$ from the axis of the cylinder? _(the options are represented graphically in the figure)_
 
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p5_f9.png]]
-The following table shows the number of units of the vehicle:
+*five E vs r graph options for charged cylinder*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -867,9 +807,9 @@ Quanto vale l'angolo limite sulla superficie di separazione tra i due blocchetti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two blocks of different material, joined together, are traversed by a beam of light, as shown in the figure.
+Two small blocks of different material, joined together, are crossed by a ray of light, as shown in the figure.
 
-What is the boundary angle on the separation surface between the two blocks?
+What is the value of the critical angle at the interface between the two blocks?
 
 - **A.** $60^\circ$
 - **B.** $45^\circ$
@@ -948,14 +888,9 @@ What is the boundary angle on the separation surface between the two blocks?
 </figure>
 
 
-*light rays through two different material blocks*
+*light ray through two different material blocks*
 <!--fig:end-->
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -984,21 +919,16 @@ Nel punto più alto della traiettoria l'accelerazione della palla è:
 
 <div class="qlang-split" data-lang="en"></div>
 
-A ball of mass $m$ is thrown vertically upwards. The friction with air is not negligible and is assumed to be proportional to the speed and to the direction opposite to it.
+A ball of mass $m$ is thrown vertically upward. The friction with the air is not negligible and is assumed to be proportional to the velocity and in the opposite direction to it.
 
-At the highest point of the trajectory, the acceleration of the ball is:
+At the highest point of the trajectory the acceleration of the ball is:
 
 - **A.** $0$
 - **B.** less than $g$
 - **C.** $g$
 - **D.** greater than $g$
-- **E.** inversely proportional to mass
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+- **E.** inversely proportional to the mass
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1074,9 +1004,9 @@ Per quale, fra i seguenti valori di $\Delta L$ l'interferenza è sempre costrutt
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two sources emit waves of the same wavelength $\lambda$ in phase with each other. The two sources shall be placed at a distance $d$ from each other and respectively $L_1$ and $L_2$ from a point P located at a distance $x$ from the axis between the two sources, as shown in Figure 1. The magnitude $\Delta L = L_1 - L_2$ thus expresses the difference between the paths of the waves emitted by the two sources.
+Two sources emit waves of the same wavelength $\lambda$, in phase with each other. The two sources are placed at a distance $d$ from each other and are respectively at distances $L_1$ and $L_2$ from a point P located at a distance $x$ from the axis between the two sources, as shown in the figure. The quantity $\Delta L = L_1 - L_2$ therefore expresses the difference between the paths of the waves emitted by the two sources.
 
-Why is the interference always constructive between the following values of $\Delta L$?
+For which of the following values of $\Delta L$ is the interference always constructive?
 
 - **A.** $d\sin\theta$
 - **B.** $(x/L_1)\,d$
@@ -1130,12 +1060,7 @@ Why is the interference always constructive between the following values of $\De
 
 *two coherent sources and point P geometry*
 <!--fig:end-->
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1168,9 +1093,9 @@ Quanto vale la costante elastica della molla?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph to the right represents the relationship between the force applied to a spring and its length.
+The graph on the right represents the relationship between the force applied to a spring and its length.
 
-How much is the spring's elastic constant worth?
+What is the spring constant of the spring?
 
 - **A.** $0.20\,\text{N m}^{-1}$
 - **B.** $0.40\,\text{N m}^{-1}$
@@ -1179,14 +1104,9 @@ How much is the spring's elastic constant worth?
 - **E.** $2.5\,\text{N m}^{-1}$
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p6_f12.png]]
-The following table shows the results of the calculations:
+*force vs length graph for spring*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1219,25 +1139,20 @@ In quali di queste situazioni la forza risultante sul corpo è uguale a zero?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following situations shall be considered:
+Consider the following situations:
 
-1. A satellite orbiting the Earth at a constant speed.
-2. A car that brakes.
-3. A bicycle that moves at a constant speed on a straight road up the hill.
+1. A satellite moving in a circular orbit at constant speed around the Earth.
+2. A car braking.
+3. A bicycle moving at constant speed on a straight uphill road.
 
-In which of these situations is the resulting force on the body equal to zero?
+In which of these situations is the resultant force on the body equal to zero?
 
 - **A.** Only in the first
 - **B.** Only in the second
 - **C.** Only in the third
-- **D.** In the first and third
-- **E ** In none of the following
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+- **D.** In the first and in the third
+- **E.** In none
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1268,23 +1183,18 @@ Un'asta ST è sospesa orizzontalmente mediante due sottili fili verticali attacc
 
 <div class="qlang-split" data-lang="en"></div>
 
-An ST axle shall be suspended horizontally by two thin vertical wires attached to the ends, as shown in the figure. If the voltages in the wires fixed in S and T are $40\,\text{N}$ and $60\,\text{N}$ respectively, it may be concluded that:
+A rod ST is suspended horizontally by two thin vertical wires attached at its ends, as shown in the figure. If the tensions in the wires fixed at S and at T are respectively $40\,\text{N}$ and $60\,\text{N}$, one can conclude that:
 
-1. the weight of the auction shall be $100\,\text{N}$.
-2. the barrier of the auction is closer to S than to T.
-3. the axle would continue to remain in horizontal equilibrium even if the wires were removed and the axle was hung on another thread fixed at its midpoint X.
+1. the weight of the rod is $100\,\text{N}$.
+2. the center of gravity of the rod is closer to S than to T.
+3. the rod would continue to remain in horizontal equilibrium even if the wires were removed and the rod were hung from another wire fixed at its midpoint X.
 
 - **A.** All three
-- **B.** Only the first and second
-- **C.** Only the second and third
+- **B.** Only the first and the second
+- **C.** Only the second and the third
 - **D.** Only the first
 - **E.** Only the third
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1313,21 +1223,16 @@ Qual è la velocità quadratica media dell'idrogeno alla stessa temperatura?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The mean square velocity of oxygen at room temperature is $v$.
+The root mean square speed of oxygen at room temperature is $v$.
 
-What is the average square velocity of hydrogen at the same temperature?
+What is the root mean square speed of hydrogen at the same temperature?
 
 - **A.** $16v$
 - **B.** $4v$
 - **C.** $v$
 - **D.** $v/4$
 - **E.** $v/16$
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1356,21 +1261,16 @@ Rispetto al punto H, il punto in cui la moneta arriva a terra si trova:
 
 <div class="qlang-split" data-lang="en"></div>
 
-A train is leaving a station at constant speed $a=0.80\,\text{m s}^{-2}$. While moving at $2.0\,\text{m s}^{-1}$ a passenger drops a coin down. The coin touches the floor after $0.50\,\text{s}$. Consider the H-point of the floor of the train, on the vertical of the release point.
+A train is leaving a station with a constant acceleration $a=0.80\,\text{m s}^{-2}$. While it is moving with a speed equal to $2.0\,\text{m s}^{-1}$, a passenger drops a coin downward. The coin touches the floor after $0.50\,\text{s}$. Consider point H on the train floor, on the vertical line through the release point.
 
-Compared to point H, the point where the coin lands is:
+Relative to point H, the point where the coin lands is located:
 
-- **A.** $1.1\,\text{m}$ to the tail of the train
-- **B.** $1.0\,\text{m}$ to the tail of the train
-- **C.** $0.10\,\text{m}$ to the tail of the train
-- **D.** directly at point H
-- **E.** $0.90\,\text{m}$ towards the head of the train
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+- **A.** $1.1\,\text{m}$ toward the rear of the train
+- **B.** $1.0\,\text{m}$ toward the rear of the train
+- **C.** $0.10\,\text{m}$ toward the rear of the train
+- **D.** directly on point H
+- **E.** $0.90\,\text{m}$ toward the front of the train
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1399,21 +1299,16 @@ Quale dei grafici rappresenta una trasformazione isoterma? _(le opzioni sono rap
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following figures represent pressure density $p=f(\delta)$ diagrams corresponding to different thermodynamic transformations of a perfect gas of fixed total mass.
+The following figures show pressure–density diagrams $p=f(\delta)$ corresponding to various thermodynamic transformations of a perfect gas of fixed total mass.
 
-Which of the graphs represents an isothermal transformation? The options are shown in the figure.
+Which of the graphs represents an isothermal transformation? _(the options are represented graphically in the figure)_
 
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p7_f13.png]]
-The following table shows the results of the calculations for the calculation of the total energy consumption of the product:
+*five p-density diagrams for thermodynamic transformations*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1442,21 +1337,16 @@ Quale caratteristica di quest'onda diminuisce col passare del tempo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-When the string of a guitar is pinched, a stationary wave is produced.
+When a guitar string is plucked, a standing wave is produced.
 
-What characteristic of this wave decreases over time?
+Which characteristic of this wave decreases as time passes?
 
 - **A.** Speed
 - **B.** Wavelength
 - **C.** Frequency
 - **D.** Period
-- **E.** Width
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+- **E.** Amplitude
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1483,19 +1373,14 @@ Quanto pesa approssimativamente un sacchetto contenente $100\,\text{€}$ tutti 
 
 <div class="qlang-split" data-lang="en"></div>
 
-What is the weight of a bag containing $100\,\text{€}$ in euro coins of one cent?
+Approximately how much does a bag containing $100\,\text{€}$ weigh, all in one-cent euro coins?
 
 - **A.** $2\,\text{N}$
 - **B.** $20\,\text{N}$
 - **C.** $200\,\text{N}$
 - **D.** $2000\,\text{N}$
 - **E.** $20000\,\text{N}$
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1528,25 +1413,20 @@ Rispetto alla lastra di zinco, quali delle seguenti proposizioni sono vere per l
 
 <div class="qlang-split" data-lang="en"></div>
 
-A monochrome radiation of $\nu$ frequency affects a zinc plate and by photoelectric effect electrons (commonly called "photoelectrons") are emitted. The zinc plate is replaced by another plate, made of a metal with less extraction work and is infused with ultraviolet radiation of $\nu'$ frequency.
+A monochromatic radiation of frequency $\nu$ strikes a zinc plate and, due to the photoelectric effect, electrons (commonly called "photoelectrons") are emitted. The zinc plate is replaced with another plate, made of a metal that has a lower work function, and is struck by ultraviolet radiation of frequency $\nu'$.
 
-Compared with zinc plate, which of the following is true for the second plate?
+Compared with the zinc plate, which of the following statements are true for the second plate?
 
-1. If $\nu' = \nu$ the maximum kinetic energy of the photoelectrons is higher.
-2. If $\nu' > \nu$ the maximum speed of the photoelectrons is higher.
-3. The emission shall occur even if $\nu'$ is less than $\nu$, regardless of the value of $\nu'$.
+1. If $\nu' = \nu$ the maximum kinetic energy of the photoelectrons is greater.
+2. If $\nu' > \nu$ the maximum speed of the photoelectrons is greater.
+3. Emission occurs even if $\nu'$ is less than $\nu$, regardless of the value of $\nu'$.
 
-- **A ** Only the first
+- **A.** Only the first
 - **B.** Only the second
 - **C.** Only the third
-- **D.** Only the first and second
+- **D.** Only the first and the second
 - **E.** All three
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1639,9 +1519,9 @@ Le velocità finali dei carrellini X e Y valgono:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Three trucks can move in a straight line without friction, as shown in the figure. Initially the cart X, which has a mass $m$, moves to the right with speed $v$ while Y and Z, which have mass $m$ and $4m$, respectively, are stationary. In this situation, there are bumps that can be considered elastic. The final speed of Z is $0.4v$ to the right.
+Three carts can move in a straight line without friction, as shown in the figure. Initially, cart X, which has mass $m$, moves to the right with speed $v$ while Y and Z, which have masses $m$ and $4m$ respectively, are stationary. In this situation, collisions occur that can be considered elastic. The final speed of Z is equal to $0.4v$ to the right.
 
-The final speeds of the X and Y wagons shall be:
+The final speeds of carts X and Y are:
 
 - **A.** X: $0.6v$ to the left; Y: stationary
 - **B.** X: $1.4v$ to the left; Y: stationary
@@ -1710,14 +1590,9 @@ The final speeds of the X and Y wagons shall be:
 </figure>
 
 
-*three cards X Y Z on frictionless track*
+*three carts X Y Z on frictionless track*
 <!--fig:end-->
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1746,21 +1621,16 @@ Qual è il valore dell'accelerazione di gravità $g_X$ sulla superficie del pian
 
 <div class="qlang-split" data-lang="en"></div>
 
-Da qualche parte, nell'universo, un pianeta X ha raggio doppio di quello della Terra e densità media $\rho$ uguale a quella della Terra.
+Somewhere in the universe, a planet X has twice the radius of Earth and an average density $\rho$ equal to that of Earth.
 
-What is the value of gravitational acceleration $g_X$ on the surface of planet X, in terms of the Earth value $g$?
+What is the value of the gravitational acceleration $g_X$ on the surface of planet X, in terms of the Earth value $g$?
 
 - **A.** $8g$
 - **B.** $2g$
 - **C.** $g$
 - **D.** $g/2$
 - **E.** $g/8$
-**Topic:** [[Gravitation]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-**Risposta:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1793,25 +1663,20 @@ Fra le alternative seguenti, in quale caso si induce una forza elettromotrice ne
 
 <div class="qlang-split" data-lang="en"></div>
 
-A magnetic bar and wire wrap are placed face to face in the position shown in the figure.
+A magnetic bar and a coil of electrical wire are arranged facing each other in the position shown in the figure.
 
-In which case is an electromotive force induced in the winding?
+Among the following alternatives, in which case is an electromotive force induced in the coil?
 
-1. Remove the magnet from the wrapper.
-2. Bring the magnet closer to the wrapper.
-3. Rotate the winding around a vertical axis.
+1. Moving the magnet away from the coil.
+2. Moving the magnet closer to the coil.
+3. Rotating the coil around a vertical axis.
 
 - **A.** Only in the first
 - **B.** Only in the second
 - **C.** Only in the third
-- **D.** In the first and second
+- **D.** In the first and the second
 - **E.** In all three
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Coil (object)|Coil]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1838,19 +1703,14 @@ A quale altezza – rispetto al piano stradale – un motore con una potenza mas
 
 <div class="qlang-split" data-lang="en"></div>
 
-At what height  relative to the road surface  can an engine with a maximum power output of $1200\,\text{W}$ lift a load of $200\,\text{N}$ in $4\,\text{s}$?
+At what height – relative to the road surface – can an engine with a maximum power of $1200\,\text{W}$ lift a load of $200\,\text{N}$ in $4\,\text{s}$?
 
 - **A.** $0.67\,\text{m}$
 - **B.** $1.5\,\text{m}$
 - **C.** $6.0\,\text{m}$
 - **D.** $24\,\text{m}$
 - **E.** $960\,\text{km}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1879,21 +1739,16 @@ Quale dei circuiti rappresentati dissipa più potenza? _(le opzioni sono rappres
 
 <div class="qlang-split" data-lang="en"></div>
 
-Identical resistors $R$ are connected by means of conductive wires of negligible resistance to the same ideal f.e.m. generator. $\mathcal{E}$.
+Identical resistors of resistance $R$ are connected by conducting wires of negligible resistance to the same ideal generator of electromotive force $\mathcal{E}$.
 
-Which of the circuits represented dissipates more power? The options are shown in the figure.
+Which of the circuits shown dissipates the most power? _(the options are shown graphically in the figure)_
 
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p8_f15.png]]
-The following information is provided for in Part A of Annex I to Regulation (EU) No 1303/2013.
+*five resistor circuit configurations to compare*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Wire (object)|Wire]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1922,21 +1777,16 @@ Supponendo di poter trascurare la resistenza dell'aria, qual è la velocità ini
 
 <div class="qlang-split" data-lang="en"></div>
 
-A bowman points a target placed at $18\,\text{m}$ distance, the center of which is exactly at the same height as the arrow. The archer leaves the arrow horizontally, and it lands at a point $40\,\text{cm}$ below the center of the target.
+An archer aims at a target placed at a distance of $18\,\text{m}$, whose center is exactly at the same height as the arrow. The archer releases the arrow horizontally, and it sticks into a point $40\,\text{cm}$ below the center of the target.
 
-Assuming you can ignore the air resistance, what is the initial speed of the arrow?
+Assuming air resistance can be neglected, what is the initial speed of the arrow?
 
 - **A.** $6.4\,\text{m s}^{-1}$
 - **B.** $15\,\text{m s}^{-1}$
 - **C.** $31\,\text{m s}^{-1}$
 - **D.** $63\,\text{m s}^{-1}$
 - **E.** $220\,\text{m s}^{-1}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -1963,19 +1813,14 @@ Qual è la velocità della luce in un mezzo che ha indice di rifrazione assoluto
 
 <div class="qlang-split" data-lang="en"></div>
 
-What is the speed of light in a medium with an absolute refractive index of $2.3$?
+What is the speed of light in a medium that has an absolute refractive index equal to $2.3$?
 
 - **A.** $0.56\times10^8\,\text{m s}^{-1}$
 - **B.** $1.3\times10^8\,\text{m s}^{-1}$
 - **C.** $2.3\times10^8\,\text{m s}^{-1}$
 - **D.** $3.0\times10^8\,\text{m s}^{-1}$
 - **E.** $6.9\times10^8\,\text{m s}^{-1}$
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2002,19 +1847,14 @@ L'unità di misura $\text{V m}^{-1}$ equivale a:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The unit of measurement $\text{V m}^{-1}$ is equal to:
+The unit of measurement $\text{V m}^{-1}$ is equivalent to:
 
 - **A.** $\text{J V}^{-1}$
 - **B.** $\text{J C}^{-1}$
 - **C.** $\text{N A}^{-1}\text{m}^{-1}$
 - **D.** $\text{N m}^2\text{C}^{-2}$
 - **E.** $\text{N C}^{-1}$
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2041,19 +1881,14 @@ Quali tra le seguenti caratteristiche sono comuni sia alle onde sonore nell'aria
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which of the following characteristics are common to both air and light sound waves?
+Which of the following characteristics are common to both sound waves in air and light?
 
 - **A.** They are longitudinal waves
-- **B ** They are cross wave
+- **B.** They are transverse waves
 - **C.** They transfer energy
-- **D.** They spread in the vacuum
+- **D.** They propagate in a vacuum
 - **E.** They can be polarized
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2245,21 +2080,16 @@ Che direzione e verso ha il campo magnetico prodotto da quella corrente, in un p
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a high-voltage line, at a given moment, the electric current is flowing east.
+In a high-voltage line, at a given instant, the electric current is flowing toward the east.
 
-What direction and direction does the magnetic field produced by that current, at a point on the ground placed just below the line, take?
+What direction and orientation does the magnetic field produced by that current have, at a point on the ground located exactly below the line?
 
-- A. Horizontal to the north.
-- **B ** Horizontal to the east.
-- **C ** Horizontal to the south.
-- **D ** Horizontal to the west.
-- **E.** Vertical downwards.
-**Topic:** [[Magnetism]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Biot-Savart Law (metodo)|Biot-Savart Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+- **A.** Horizontal toward the north.
+- **B.** Horizontal toward the east.
+- **C.** Horizontal toward the south.
+- **D.** Horizontal toward the west.
+- **E.** Vertical downward.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2288,21 +2118,16 @@ Qual è la massa del blocco?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A crane is lifting a stone block at a constant speed, bringing it to $5\,\text{m}$ height. The work done by the crane is $12\,\text{kJ}$.
+A crane is lifting a block of stone at constant speed, bringing it to a height of $5\,\text{m}$. The work done by the crane is $12\,\text{kJ}$.
 
-What's the mass of the block?
+What is the mass of the block?
 
 - **A.** $138\,\text{kg}$
 - **B.** $206\,\text{kg}$
 - **C.** $245\,\text{kg}$
 - **D.** $312\,\text{kg}$
 - **E.** $323\,\text{kg}$
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2331,21 +2156,16 @@ In quale situazione l'acqua ha il più alto punto di ebollizione? _(le opzioni s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following figures show a pressure vessel containing water, with or without a lid inserted.
+In the following figures, a pressure cooker containing water is shown, with or without the lid inserted.
 
-In what situation does water boil at its highest boiling point? The options are shown in the figure.
+In which situation does the water have the highest boiling point? _(the options are represented graphically in the figure)_
 
 <!--fig:start-->
 ![[_attachments/1liv16T/1liv16T_p10_f17.png]]
 *pressure cooker with/without lid configurations*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2382,17 +2202,12 @@ $${}^{27}_{13}\text{Al} + {}^{4}_{2}\text{He} \to {}^{30}_{15}\text{P} + {}^{1}_
 
 What does the symbol $X$ represent?
 
-- A proton
-- **B.** A photon is a photon
-- **C.** A particle $\alpha$
+- **A.** A proton
+- **B.** A photon
+- **C.** A $\alpha$ particle
 - **D.** An electron
 - **E.** A positron
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)
 
 
 
@@ -2421,18 +2236,13 @@ Usando una sola lente, quale disposizione, tra quelle indicate qui sotto, produc
 
 <div class="qlang-split" data-lang="en"></div>
 
-One object and two lenses, a convergent focal $+10\,\text{cm}$ and a divergent focal $-20\,\text{cm}$ are available.
+An object and two lenses are available, one converging with focal length $+10\,\text{cm}$ and one diverging with focal length $-20\,\text{cm}$.
 
-Using a single lens, which arrangement, among those shown below, produces an enlarged virtual image of the object?
+Using only one lens, which arrangement, among those indicated below, produces a magnified virtual image of the object?
 
-- **A.** The object is set to $5\,\text{cm}$ from the convergent lens.
-- **B.** The object is set to $15\,\text{cm}$ from the convergent lens.
-- **C.** The object is set to $25\,\text{cm}$ from the convergent lens.
-- **D.** The object is set to $15\,\text{cm}$ from the divergent lens.
-- **E.** The object is set to $25\,\text{cm}$ from the divergent lens.
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1nDFxGJ6gz8aaZt9qCDWYlQtMd1a7bEGB/view)
-The Commission has also proposed that the Commission should adopt a proposal for a regulation on the protection of the environment and the environment.
+- **A.** The object is placed at $5\,\text{cm}$ from the converging lens.
+- **B.** The object is placed at $15\,\text{cm}$ from the converging lens.
+- **C.** The object is placed at $25\,\text{cm}$ from the converging lens.
+- **D.** The object is placed at $15\,\text{cm}$ from the diverging lens.
+- **E.** The object is placed at $25\,\text{cm}$ from the diverging lens.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1fe0HFcHkmDUEdl4W5LbnsjjwdiwXeof7/view)

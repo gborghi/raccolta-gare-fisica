@@ -86,71 +86,36 @@ mostrare che non può mai essere uguale a uno.
 <div class="qlang-split" data-lang="en"></div>
 
 P1 Ps = Positronium
-The following points shall be added:
-The positron is the antiparticle of the electron: it has a mass equal to that of the electron, but it is charged
-The electron is the opposite of the electron. It can form a bonded state called positronium, similar to the atom of
-Hydrogen is the source of the gas. Positronium (), as the hydrogen atom, is held together by the Colombian force of attraction.
-For a classical two-particle system, the nonrelativistic total energy $E$ can be obtained as sum
-the system transfer energy due to the motion of the centre of mass (CdM) with the internal energy $E_\text{int}$,
-The relative motion of particles and the potential energy associated with their interaction.
-1. Show that the total energy of a system of two particles with masses $m_1$ and $m_2$ and charges $q_1$ and $q_2$ is
-can write, in terms of the speed $\vec{v}_\text{CdM}$ of the CdM and the relative speed $\vec{v}_r$ of the two particles, as
+100 points
+The positron is the antiparticle of the electron: it has the same mass as the electron, but opposite electric charge; together with the electron it can form a "bound state" called positronium, similar to the hydrogen atom. Positronium(1), like the hydrogen atom, is held together by the Coulomb attraction force.
+For a classical system of two particles, the total non-relativistic energy $E$ can be obtained as the sum of the translational energy of the system, due to the motion of the center of mass (CM), and the internal energy $E_\text{int}$, due to the relative motion of the particles and the potential energy associated with their interaction.
+1. Show that the total energy of a system of two charged particles with masses $m_1$ and $m_2$ and charges $q_1$ and $q_2$ can be written, in terms of the velocity $\vec{v}_\text{CdM}$ of the CM and the relative velocity $\vec{v}_r$ of the two particles, as
 
 $$E = \frac{1}{2}Mv_\text{CdM}^2 + \frac{1}{2}\mu v_r^2 + \frac{1}{4\pi\varepsilon_0}\frac{q_1 q_2}{r},$$
 
 where $M$ is the total mass and $\mu = m_1 m_2/M$ is called the reduced mass of the system.
-In nuclear and atomic physics, the electronvolt (eV) and its multiples are used as the unit of energy.
-and as a unit of mass $\text{MeV}/c^2$. The atomic mass unit is $u = 931{.}5\ \text{MeV}/c^2$.
-2. Calculate the reduced hydrogen and positron masses by four significant digits
-In the units suggested. Suppose that the electron's orbit around the proton in hydrogen or around the
-Positrone in positrone is both circular and derive the relationship between the radius of the orbit and the energy module
-It's inside.
-According to nonrelativistic quantum mechanics, the internal energy of a system's fundamental state is the
-consisting of a positive electric charge particle $e$ and a negative charge particle $-e$ is given by $E_\text{int} = -\dfrac{\mu e^4}{8h^2\varepsilon_0^2}$.
-3. Calculate the internal energy of the fundamental state of positronium. Using the classical report obtained
-above, calculate the radius to be associated with a positron in the base state.
-Unlike the hydrogen atom, positronium is unstable because the electron and the positron can be annihilated.
-And then they're going to turn all their energy into photon energy. This process is inherently relativistic.
-Positronium in the base state has an average life of $1{.}24 \times 10^{-10}$ s; the most likely annihilation is
-The two-photon one.
-4. Calculate, in the CdM reference system, the energy of each photon emitted in the decay of the
-The position of the photon is the angle between the emission directions of the photon itself.
-Positrone is not permanently present in our electron-rich world, but it can be produced thanks to
-ai decadimenti $\beta^+$ di alcuni isotopi instabili, come ad esempio l’isotopo $^{18}$F del fluoro che decade in $^{18}$O, un
-Positrone and an electronic neutrinos: $^{18}\text{F} \to {}^{18}\text{O} + e^+ + \nu_e$ . The masses of $^{18}$F and $^{18}$O are $18{.}000937$u respectively.
-and $17{.}999161$ u while the neutrinos are negligible in mass.
-The following is a description of the characteristics of the positron emitted in the decay of a fluorine nucleus at
-The Commission has already taken the necessary steps to ensure that the Community's energy resources are adequately used.
-5. Calculate the minimum value of the energy of the decaying positron.
-6. To show that in the decay of fluorine, the kinetic energy of oxygen is negligible compared to its
-energy at rest.
-SEGUE $\Rightarrow$
-(1)
-Positronium can exist in two different spin states: the singular state ($S = 0$) called para-positronium, in which the spin is
-The electron and the positron are antiparallel and the triplet ($S = 1$) is called ortho-positron. In this
-The problem is the para-positronium.
+In atomic and nuclear physics it is convenient to use the electronvolt (eV) and its multiples as the unit of energy and the $\text{MeV}/c^2$ as the unit of mass. The atomic mass unit is $u = 931{.}5\ \text{MeV}/c^2$.
+2. Calculate the reduced mass of hydrogen and that of positronium, expressing them with four significant figures in the suggested units. Assume that the orbit of the electron around the proton in hydrogen or around the positron in positronium is circular and derive the relation between the radius of the orbit and the magnitude of the internal energy.
+According to non-relativistic quantum mechanics, the internal energy of the ground state of a system consisting of a positive particle with electric charge $e$ and a negative one with charge $-e$ is given by $E_\text{int} = -\dfrac{\mu e^4}{8h^2\varepsilon_0^2}$.
+3. Calculate the internal energy of the ground state of positronium. Using the classical relation derived above, calculate the radius to be associated with a positronium in the ground state.
+Unlike the hydrogen atom, positronium is unstable, because the electron and the positron can annihilate, transforming all their energy into photon energy. This process is intrinsically relativistic.
+Positronium in the ground state has a mean lifetime of $1{.}24 \times 10^{-10}$ s; the most probable annihilation is that into two photons.
+4. Calculate, in the COM reference frame, the energy of each photon emitted in the decay of positronium and the angle between the emission directions of the photons themselves.
+The positron is not stably present in our electron-rich world, but it can be produced thanks to the decays $\beta^+$ of some unstable isotopes, such as for example the isotope $^{18}$F of fluorine which decays into $^{18}$O, a positron and an electron neutrino: $^{18}\text{F} \to {}^{18}\text{O} + e^+ + \nu_e$ . The masses of $^{18}$F and $^{18}$O are respectively $18{.}000937$ u and $17{.}999161$ u while the mass of the neutrino is negligible.
+We now want to analyze the characteristics of the positron emitted in the decay of a fluorine nucleus at rest, in particular its minimum and maximum energy.
+5. Calculate the minimum value of the energy of the positron produced in the decay.
+6. Show that, in the decay of fluorine, the kinetic energy of the oxygen is negligible compared to its rest energy.
+CONTINUES $\Rightarrow$ (1)
+Positronium can exist in two states of different spin: the singlet state ($S = 0$) called para-positronium, in which the spin of the electron and of the positron are antiparallel, and the triplet state ($S = 1$) which takes the name of ortho-positronium. In this problem the para-positronium is discussed.
 
-This means that the speed of oxygen is much less than $c$, so it's not relativistic; because of its energy
-The first is the kinetic and the amount of motion it produces. In addition, the maximum value of energy
-The emission of positron is achieved when the neutrinos are emitted with negligible energy.
-7. Calculate the maximum value of the energy of the positron emitted in decay, having shown that the kinetic energy of oxygen is negligible compared to the relativistic energy of the positron.
-Positronium is not found in nature, but is produced artificially by impacting an electron and a positron:
-In the usual experimental conditions, the electron can be considered stationary, while the positron can have
-High speed too.
-In most cases, positronium forms almost stationary and the two photons produced in annihilation are
-have the characteristics of point 4. Now they want to examine the very different properties of photons.
-The product is the annihilation of a moving positron, possibly relativistic.
-8. Show that the photon directions produced in the annihilation of a moving positron are not collinear,
-Except for one particular case. In questo caso particolare, detto $v$ il modulo della velocità del positronio,
-determine an expression for the energy ratio of the two photons produced, in terms of $\beta = v/c$, and
-To show that he can never be equal to one.
+This means that the speed of the oxygen is much less than $c$, hence it is non-relativistic; for its kinetic energy and its momentum the classical expressions can be used. Moreover, the maximum value of the energy of the emitted positron is obtained when the neutrino is emitted with negligible energy.
+7. Calculate the maximum value of the energy of the positron emitted in the decay, having shown that the kinetic energy of the oxygen is negligible compared with the relativistic energy of the positron.
+Positronium is not found in nature, but is produced artificially by making an electron and a positron collide:
+under the usual experimental conditions, the electron can be considered at rest, while the positron can have even high speed.
+In the largely prevalent case, the positronium forms almost at rest and the two photons produced in the annihilation therefore have the characteristics deduced in point 4. Now we want to examine the very different properties of the photons produced in the annihilation of a positronium in motion, possibly relativistic.
+8. Show that the directions of the photons produced in the annihilation of a positronium in motion are not collinear, except in one particular case. In this particular case, denoting by $v$ the magnitude of the velocity of the positronium, determine an expression for the ratio between the energies of the two photons produced, in terms of $\beta = v/c$, and show that it can never be equal to one.
 
-**Topic:** [[Modern-Quantum Physics]], [[Special Relativity]], [[Nuclear & Particle Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Significant Figures (competenza)|Significant Figures]]
-**Objects:** [[Electron (object)|Electron]], [[Photon (object)|Photon]], [[Nucleus (object)|Nucleus]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/11ktdta7VcNjGZxqMzD8oVzUj1Zd3UwIo/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/15vD1RuN1-E9EIGPKyAOa9LyyiI0ZJ4Pw/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/15vD1RuN1-E9EIGPKyAOa9LyyiI0ZJ4Pw/view)
 
 
 
@@ -311,53 +276,31 @@ si arresti.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Roll with spring
-The following points shall be added:
-A roller consists of a solid cylinder of a homogeneous mass $m$ and radius $r$, resting on
-a horizontal table and is subjected to a horizontal force of $F$, always applied to its axis; and
-perpendicular to it, as shown in the figure below, and to a friction force  static or dynamic  of
-modulo $F_a$.
-1. Assuming that the roller rolls without cracking, it is obtained that it must necessarily be $F = 3F_a$.
-The condition of the forces is therefore necessary for pure rolling, but not sufficient. Suppose that
-the roller is moving and a force $F = 3F_a$ is applied to the roller from a certain moment.
-2. To show that this condition is not enough to have a pure roll and find what other condition
-The motorcycle is required to be fitted with such a motorcycle.
-In the event of friction the roller is launched at $v_0 > 0$ and $\omega_0 = 0$ speeds; as shown above, the roller is
-initially sleighed.
-3. Confirm this result by considering the linear and angular displacement of the roller in an interval
-The time interval $dt$ from the start distance, whatever the values of the speed and coefficient
-I'm sorry. I was just...
-The roller is now connected to a wall through a
-Helical spring of constant elasticity $k$ and length of
-Rest indefinitely but such that the roll never comes
-to hit the wall (v. The Commission has not yet adopted a proposal.
-It is also assumed that the spring has negligible mass and is ideal, i.e. that Hooke's law remains
-The axis of the spring shall always be considered horizontal.
-The roll balance position shall be $x = 0$.
-The roll is moved from the equilibrium position of a quantity $A$ and released from the standstill $t = 0$.
-4. In the negligible friction hypothesis, find the oscillation period $T_0$. How does the situation change if
+Roller with spring
+Points 100
+A roller consists of a homogeneous solid cylinder of mass $m$ and radius $r$, it rests on a horizontal table and is subjected to a horizontal force of magnitude $F$, always applied to its axis and perpendicular to it, as shown in the figure below, and to a friction force – static or kinetic – of magnitude $F_a$.
+1. Assuming that the roller rolls without slipping, show that necessarily $F = 3F_a$.
+The condition on the forces is therefore necessary to have pure rolling but it is not sufficient. Suppose that the roller is moving and that from a certain instant a force $F = 3F_a$ is applied to the roller.
+2. Show that this condition is not sufficient to have pure rolling and find what other condition is required for the establishment of such a motion.
+In the presence of friction the roller is launched with velocity $v_0 > 0$ and $\omega_0 = 0$; for what was seen above, the roller initially slips.
+3. Confirm this result, considering the linear and angular displacement of the roller in an infinitesimal time interval $dt$ from the starting instant, whatever the values of the velocity and of the friction coefficient.
+The roller is now connected to a wall by means of a helical spring of spring constant $k$ and rest length indefinite but such that the roller never comes to hit the wall (see figure).
+It is further assumed that the spring has negligible mass and is ideal, that is, that Hooke's law remains valid even for arbitrarily large deformations; the axis of the spring is always considered horizontal.
+Let $x = 0$ be the equilibrium position of the roller.
+The roller is displaced from the equilibrium position by an amount $A$ and released from rest at the instant $t = 0$.
+4. Under the assumption of negligible friction, find the oscillation period $T_0$. How does the situation change if
 $\omega_0 \neq 0$?
-Now the static friction coefficients $(\mu_s)$ and dynamic $(\mu_d < \mu_s)$ between the roller and the table are no longer zero.
-5. The roller is removed from the equilibrium position and left unchanged; it starts rolling back and forth.
-For small oscillations, there is no slippage between the roller and the surface; find the new period of
-oscillazione $T_1$.
-6. If the initial range of oscillation $A$ is greater than a certain critical value $A^*$, with $v_0 = 0$ and $\omega_0 = 0$, the
-rolling motor without crawling is no longer possible. Esprimere $A^*$ in funzione di $k, m, r, g, \mu_s$ .
-7. Providing that the initial elongation is $A = \gamma A^*$ with $\gamma \gg 1$, prove that the roll can possibly be
-return to rolling without crawl only near the end of the first semi-swing.
-Finally, the roller, always connected to the spring, is launched at $v_0$ speed from the equilibrium position with a force
-horizontal impulse applied to the axis. As you can see from Question 2. The roller starts crawling.
-8. To demonstrate that the condition of pure rolling occurs certainly at a moment $t^*$, before the rolling
-You're going to stop.
+Now the coefficients of static friction $(\mu_s)$ and kinetic friction $(\mu_d < \mu_s)$ between the roller and the table are no longer zero.
+5. The roller is moved away from the equilibrium position and left from rest; it begins to roll back and forth.
+For small oscillations, no slipping occurs between the roller and the surface; find the new oscillation period $T_1$.
+6. If the initial amplitude of the oscillation $A$ is greater than a certain critical value $A^*$, with $v_0 = 0$ and $\omega_0 = 0$, the motion of rolling without slipping is no longer possible. Express $A^*$ as a function of $k, m, r, g, \mu_s$ .
+7. Assuming that the initial displacement is $A = \gamma A^*$ with $\gamma \gg 1$, prove that the roller can eventually return to rolling without slipping only near the end of the first half-oscillation.
+Finally the roller, still connected to the spring, is launched with velocity $v_0$ from the equilibrium position by an impulsive horizontal force applied to its axis. As seen in question 2., the roller starts by slipping.
+8. Show that the condition of pure rolling certainly occurs at an instant $t^*$, before the roller stops.
 
 <!--fig:start-->
-**p.4 **  Cylindrical roll on a table connected to a spring
+**p.4** — Cylindrical roller on a table connected to a spring
 ![[_attachments/Naz25T/Naz25T_p4_f1.png]]
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/11ktdta7VcNjGZxqMzD8oVzUj1Zd3UwIo/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/15vD1RuN1-E9EIGPKyAOa9LyyiI0ZJ4Pw/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/15vD1RuN1-E9EIGPKyAOa9LyyiI0ZJ4Pw/view)

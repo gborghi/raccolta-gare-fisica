@@ -32,19 +32,14 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** Two forces of $3\,\mathrm N$ and $4\,\mathrm N$ are applied to the same body. When the angle between the two forces varies from $0$ to $90°$, the resulting modulus varies between
-- **A.** $1\,\mathrm N$ e $7\,\mathrm N$
-- **B.** $7$ e $1$
-- **C.** $5$ e $7$
-- **D.** $7$ e $5$
-- **E.** does not change.
+**Q1.** Two forces of $3\,\mathrm N$ and $4\,\mathrm N$ are applied to the same body. When the angle between the two forces varies from $0$ to $90°$, the magnitude of the resultant varies between
+- **A.** $1\,\mathrm N$ and $7\,\mathrm N$
+- **B.** $7$ and $1$
+- **C.** $5$ and $7$
+- **D.** $7$ and $5$
+- **E.** it does not vary.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -71,19 +66,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graphs $X$ and $Y$ show the pressure, volume, entropy and temperature of a perfect gas mass in a reversible transformation from state 1 to state 2. What statements are correct? (1) the gas expands according to Boyle's law; (2) the pressure decreases at a constant temperature; (3) the container has insulating walls.
-- **A ** Only 1
-- ** B ** Only 3
+**Q2.** The graphs $X$ and $Y$ show pressure, volume, entropy and temperature of a mass of ideal gas in a reversible transformation from state 1 to state 2. Which statements are correct? (1) the gas expands according to Boyle's law; (2) the pressure decreases at constant temperature; (3) the container has insulating walls.
+- **A.** Only 1
+- **B.** Only 3
 - **C.** Only 1 and 2
 - **D.** Only 1 and 3
-- **E.** None (diabetic transformation: only 3 is true).
+- **E.** None (adiabatic transformation: only 3 is true).
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -154,11 +144,11 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q4.** Two cross-sectional pulses travel at the same speed $v$ in opposite directions along a string; the figure is an instantaneous $t_0$. Assuming $1$ square/s speed, what is the value of the shift of the point $X$ after $3\,\mathrm s$?
+**Q4.** Two transverse pulses travel with the same speed $v$ in opposite directions along a rope; the figure is a snapshot at $t_0$. Assuming a speed of $1$ squares/s, what is the displacement of point $X$ after $3\,\mathrm s$?
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p3_f2.png]]
-*Instantaneous of the two pulses $S$ and $T$ on the string, with the point $X$.*
+*Snapshot of the two pulses $S$ and $T$ on the rope, with point $X$.*
 <!--fig:end-->
 - **A.** $+2$
 - **B.** $+1$
@@ -166,12 +156,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 - **D.** $-1$
 - **E.** $-2$ units
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -203,24 +188,19 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the circuit the two batteries and the amperometer have negligible internal resistance. The measuring ampere
+**Q5.** In the circuit the two batteries and the ammeter have negligible internal resistance. The ammeter measures
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p3_f3.png]]
-*Circuit with batteries from $6\,\mathrm V$ and $2\,\mathrm V$, resistance from $10\,\Omega$ and $5\,\Omega$ and ampere $A$.*
+*Circuit with batteries of $6\,\mathrm V$ and $2\,\mathrm V$, resistors of $10\,\Omega$ and $5\,\Omega$ and ammeter $A$.*
 <!--fig:end-->
-- **A ** zero
+- **A.** zero
 - **B.** $0.4$
 - **C.** $0.6$
 - **D.** $0.8$
 - **E.** $1.2\ \mathrm A$
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -247,19 +227,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q6.** A circuit with the upper stroke $XY$ consisting of a rigid wire that can rotate around the horizontal axis $XY$; magnetic field directed to the right. I'm shutting down the switch, the moving part of the figure plane...
-- **A ** remains stationary
-- **B.** outgoing wheel of $90°$
-- **C.** wheel of $90°$ entering
-- **D.** outgoing wheel of $180°$
-- **E.** wheel of $180°$ inbound
+**Q6.** A circuit with the upper section $XY$ consisting of a rigid wire that can rotate about the horizontal axis $XY$; magnetic field directed to the right. Once the switch is closed, the moving part relative to the plane of the figure...
+- **A.** remains stationary
+- **B.** rotates by $90°$ coming out
+- **C.** rotates by $90°$ going in
+- **D.** rotates by $180°$ coming out
+- **E.** rotates by $180°$ going in
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -286,19 +261,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q7.** Claims on the kinetic theory of perfect gases  what is **false**?
+**Q7.** Statements about the kinetic theory of ideal gases — which one is **false**?
 - **A.** Collisions between molecules are elastic
-- **B.** The speed of molecules decreases gradually between collisions
+- **B.** The speed of the molecules decreases progressively between one collision and the next
 - **C.** The molecules move randomly
-- **D.** Molecules have a negligible volume
-- **E.** $\langle K\rangle$ is proportional to $T$ (in kelvins)
+- **D.** The molecules have negligible volume
+- **E.** $\langle K\rangle$ is proportional to $T$ (in kelvin)
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -325,19 +295,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q8.** Two identical $X$ and $Y$ satellites in circular orbit around the Earth; the radius of $X$'s orbit is twice $Y$. What statements are correct? (1) $U_{grav}$ of $X$ greater; (2) $K$ of $X$ less; (3) the periods are equal.
+**Q8.** Two identical satellites $X$ and $Y$ in circular orbit around the Earth; the orbital radius of $X$ is twice that of $Y$. Which statements are correct? (1) $U_{grav}$ of $X$ greater; (2) $K$ of $X$ less; (3) the periods are equal.
 - **A.** 1,2,3
-- **B.** 1 e 2
-- **C.** 2 e 3
-- **D ** Only 1
-- **E ** Only three
+- **B.** 1 and 2
+- **C.** 2 and 3
+- **D.** Only 1
+- **E.** Only 3
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -413,19 +378,14 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-A cosmonaut weighs $500\,\mathrm N$ on Earth and $25\,\mathrm N$ on an asteroid $X$. The acceleration of gravity over $X$ is approximately
+**Q10.** An astronaut weighs $500\,\mathrm N$ on Earth and $25\,\mathrm N$ on an asteroid $X$. The acceleration of gravity on $X$ is approximately
 - **A.** $0.05$
 - **B.** $0.2$
 - **C.** $0.5$
 - **D.** $1$
 - **E.** $2\ \mathrm{m\,s^{-2}}$
 
-**Topic:** [[Gravitation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -490,7 +450,7 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a photoelectric effect experiment, the stop potential $V_a$ is measured for various wavelengths $\lambda$; the graph below omits the dimensions on the axes $X$ and $Y$. The correct values to be reported on the axes are
+**Q11.** In an experiment on the photoelectric effect, the stopping potential $V_a$ is measured for various wavelengths $\lambda$; the graph shown omits the quantities on the axes $X$ and $Y$. The correct quantities to be shown on the axes are
 - **A.** $(\lambda, V_a)$
 - **B.** $(1/V_a, \lambda)$
 - **C.** $(\lambda, 1/V_a)$
@@ -532,15 +492,10 @@ In a photoelectric effect experiment, the stop potential $V_a$ is measured for v
 </figure>
 
 
-The following table shows the results of the calculation of the total value of the electricity produced by the manufacturer:
+*photoelectric effect graph Va vs lambda*
 <!--fig:end-->
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -567,19 +522,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q12. ** An electron is about to enter a uniform magnetic field zone $\vec B$ entering the plane; velocity $\vec v$ to the right. As soon as you enter, the magnetic force is directed...
-- A. M.S.K. 1 upwards
+**Q12.** An electron is about to enter a region of uniform magnetic field $\vec B$ directed into the plane; velocity $\vec v$ to the right. Just after entering, the magnetic force is directed...
+- **A.** upward
 - **B.** downward
 - **C.** to the left
 - **D.** to the right
-- **E.** perpendicular to the plane, outgoing
+- **E.** perpendicular to the plane, outward
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -606,19 +556,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A person is standing at $5\,\mathrm m$ from a flat mirror; a ball is $3\,\mathrm m$ in front of the man perpendicular to the mirror. The distance between the person and the image of the ball?
+**Q13.** A person is standing at $5\,\mathrm m$ from a plane mirror; a ball is $3\,\mathrm m$ in front of the man, perpendicular to the mirror. Distance between the person and the image of the ball?
 - **A.** $2$
 - **B.** $3$
 - **C.** $5$
 - **D.** $7$
 - **E.** $10\ \mathrm m$
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -645,19 +590,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q14.** A stone is launched vertically upwards with $v_0$ from the lunar surface; it reaches its peak at $h$ and returns to the ground after a time $t$. By doubling $v_0$, the flight time and altitude become
+**Q14.** A stone is thrown vertically upward with $v_0$ from the lunar surface; it reaches its peak at height $h$ and returns to the ground after a time $t$. If $v_0$ is doubled, the flight time and the height become
 - **A.** $t,4h$
 - **B.** $2t,h$
 - **C.** $2t,2h$
 - **D.** $2t,4h$
 - **E.** $4t,2h$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -684,19 +624,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** A candle in front of a concave spherical mirror; two rays emanating from the same point impact the mirror with fire in $F$. After the reflection, the rays...
+**Q15.** A candle in front of a concave spherical mirror; two rays emerging from the same point strike the mirror with focus at $F$. After reflection the rays...
 - **A.** diverge, virtual image
 - **B.** diverge, real image
 - **C.** converge, virtual image
 - **D.** converge, real image
 - **E.** are parallel
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -723,19 +658,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-A radioactive nucleus decays into its isotope as a result of several sequential processes. What combination of particles could be emitted?
-- A ** a $\alpha$ and a $\beta^-$
+**Q16.** A radioactive nucleus decays into one of its isotopes as a result of several processes in sequence. Which combination of particles could be emitted?
+- **A.** one $\alpha$ and one $\beta^-$
 - **B.** one $\alpha$ and two $\beta^-$
-- **C.** a $\beta^-$ and a neutron
+- **C.** one $\beta^-$ and one neutron
 - **D.** one $\beta^-$ and two neutrons
 - **E.** two $\beta^-$ and one neutron (to return to the same $Z$ with $A$ reduced by 4: one $\alpha$ plus two $\beta^-$).
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -762,19 +692,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q17.** A platinum wire has resistance $100\,\Omega$ to ice melting and $140\,\Omega$ to boiling water; used as a thermometer probe. When resistant $116\,\Omega$, the temperature is
+**Q17.** A platinum wire has resistance $100\,\Omega$ at the melting point of ice and $140\,\Omega$ at the boiling point of water; used as a thermometric probe. When it has resistance $116\,\Omega$, the temperature is
 - **A.** $16$
 - **B.** $24$
 - **C.** $40$
 - **D.** $60$
 - **E.** $76\ ^\circ\mathrm C$
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -801,19 +726,14 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-From the top of a cliff a sphere at $15\,\mathrm{m\,s^{-1}}$ is thrown horizontally; it touches the sea after about $2\,\mathrm s$. Approximate height of the cliff (negligible friction)?
+**Q18.** From the top of a cliff, a small sphere is thrown horizontally at $15\,\mathrm{m\,s^{-1}}$; it hits the sea after about $2\,\mathrm s$. Approximate height of the cliff (negligible friction)?
 - **A.** $20$
 - **B.** $30$
 - **C.** $35$
 - **D.** $40$
 - **E.** $80\ \mathrm m$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -840,19 +760,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph represents a transformation in which $1\,\mathrm{kg}$ of substance passes from gas to $160\,^\circ\mathrm C$ to solid to $20\,^\circ\mathrm C$, with heat constantly being given over time. The melting point is a
+**Q19.** The graph represents a transformation in which $1\,\mathrm{kg}$ of substance passes from gas to $160\,^\circ\mathrm C$ to solid at $20\,^\circ\mathrm C$, with heat released constant over time. The melting point is at
 - **A.** $0$
 - **B.** $20$
 - **C.** $70$
 - **D.** $100$
 - **E.** $120\ ^\circ\mathrm C$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -879,19 +794,14 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-A block of mass $m=3\,\mathrm{kg}$ is held firmly on a smooth slanted plane of $30°$, then released. Two seconds later, the slope-parallel weight component ($F$) and the distance travelled ($d$) are approximately *[pair table $(F,d)$]*
+**Q20.** A block of mass $m=3\,\mathrm{kg}$ is held stationary on a smooth plane inclined at $30°$, then released. Two seconds later, the component of the weight parallel to the slope ($F$) and the distance traveled ($d$) are approximately *[table of pairs $(F,d)$]*
 - **A.** $(15;10)$
 - **B.** $(15;5.0)$
 - **C.** $(26;2.5)$
 - **D.** $(26;5.0)$
 - **E.** $(30;5.0)$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -918,19 +828,14 @@ The Commission has also adopted a proposal for a Regulation (EC) laying down the
 
 <div class="qlang-split" data-lang="en"></div>
 
-What circuit (with $A$ ampere) can illustrate the charge and discharge of a DC capacitor (initially discharged capacitor)?
+**Q21.** Which circuit (with $A$ ammeter) can illustrate the charging and discharging of a capacitor in direct current (capacitor initially uncharged)?
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p7_f1.png]]
-*Five circuit patterns (AE) with battery, ampere $A$ and capacitor.*
+*Five circuit diagrams (A–E) with a battery, ammeter $A$ and capacitor.*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** —
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -957,19 +862,14 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q22.** Five identical wagons are stationary on a track; in the event of a collision they are hooked. A sixth identical carriage is launched at $v$ speed. Speed of the six wagons after attachment (negligible friction)?
+**Q22.** Five identical railcars stationary on a track; in the event of a collision they remain coupled. A sixth identical railcar is launched at speed $v$. Speed of the six railcars after coupling (negligible friction)?
 - **A.** $v$
 - **B.** $5v/6$
 - **C.** $v/\sqrt6$
 - **D.** $v/6$
 - **E.** $v/5$
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -996,19 +896,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q23.** A spindle with two rubber strings (Hooke's law) throws a stone at a speed $v$ when each string is stretched by $x$. If each string is extended by $2x$ (all energy transferred), the speed is
+**Q23.** A slingshot with two rubber cords (Hooke's law) launches a stone at speed $v$ when each cord is stretched by $x$. If each cord is stretched by $2x$ (all the energy transferred), the speed is
 - **A.** $v/2$
 - **B.** $v$
 - **C.** $\sqrt2\,v$
 - **D.** $2v$
 - **E.** $4v$
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1035,19 +930,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-What is the order of magnitude of the number of electrons taken up by drinking a glass of water?
+**Q24.** What is the order of magnitude of the number of electrons that one takes in by drinking a glass of water?
 - **A.** $10^{30}$
 - **B.** $10^{26}$
 - **C.** $10^{22}$
 - **D.** $10^{18}$
-- **E.** no electrons because the water is neutral
+- **E.** no electrons because water is neutral
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1074,19 +964,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q25.** It has a convergent $+10\,\mathrm{cm}$ lens and a divergent $-20\,\mathrm{cm}$ lens. The test results are: (i) the object $25\,\mathrm{cm}$ by the divergent; (ii) the divergent $15\,\mathrm{cm}$; (iii) the convergent $25\,\mathrm{cm}$; (iv) the convergent $15\,\mathrm{cm}$; (v) the convergent $5\,\mathrm{cm}$. How many tests can you use to get a shortened image?
+**Q25.** A converging lens $+10\,\mathrm{cm}$ and a diverging lens $-20\,\mathrm{cm}$ are available. Tests: I) object at $25\,\mathrm{cm}$ from the diverging lens; II) at $15\,\mathrm{cm}$ from the diverging lens; III) at $25\,\mathrm{cm}$ from the converging lens; IV) at $15\,\mathrm{cm}$ from the converging lens; V) at $5\,\mathrm{cm}$ from the converging lens. In how many tests is a reduced image obtained?
 - **A.** 1
 - **B.** 2
 - **C.** 3
 - **D.** 4
 - **E.** 5
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1113,19 +998,14 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q26.** A wheeled skater with outstretched arms (negligible friction). Bringing your arms to the body, what quantities remain constant? The first is the moment of inertia, the second is kinetic energy, the third is angular momentum.
-- **A.** 1 e 2
-- **B.** 2 e 3
-- **C ** Only 1
-- ** D ** Only 2
-- **E ** Only three
+**Q26.** A skater spins with arms outstretched (friction negligible). When she brings her arms to her body, which quantities remain constant? (1) moment of inertia; (2) kinetic energy; (3) angular momentum.
+- **A.** 1 and 2
+- **B.** 2 and 3
+- **C.** Only 1
+- **D.** Only 2
+- **E.** Only 3
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1152,19 +1032,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q27.** A proton $p$ moves from $T$ to $S$ near a negatively charged sphere. If the shift requires $6.4\times10^{-19}\,\mathrm J$ work, the d.d.p. Between the two points is
+**Q27.** A proton $p$ moves from $T$ to $S$ near a negatively charged small sphere. If a work of $6.4\times10^{-19}\,\mathrm J$ is required for the displacement, the potential difference between the two points is
 - **A.** $0$
 - **B.** $4.0\times10^{-19}$
 - **C.** $6.4\times10^{-19}$
 - **D.** $4.0$
 - **E.** $6.4\ \mathrm V$ ($V=W/q=4.0\,\mathrm V$).
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1191,19 +1066,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q28.** Two metal blocks of equal length, $10\,\mathrm{cm}$ and $20\,\mathrm{cm}$, conductivity $200$ and $100\,\mathrm{W\,m^{-1}K^{-1}}$, attached. Free extremes at $T_1=50\,^\circ\mathrm C$ and $T_2=20\,^\circ\mathrm C$. In stationary mode the temperature of the junction is
+**Q28.** Two metal blocks of equal cross-section, of length $10\,\mathrm{cm}$ and $20\,\mathrm{cm}$, conductivity $200$ and $100\,\mathrm{W\,m^{-1}K^{-1}}$, attached. Free ends at $T_1=50\,^\circ\mathrm C$ and $T_2=20\,^\circ\mathrm C$. In steady state the temperature of the junction is
 - **A.** $26$
 - **B.** $30$
 - **C.** $35$
 - **D.** $40$
 - **E.** $44\ ^\circ\mathrm C$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1230,19 +1100,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q29.** Un'automobile a $15\,\mathrm{m\,s^{-1}}$ accelera per $5\,\mathrm s$ fino a $25\,\mathrm{m\,s^{-1}}$. Space travel (constantly accelerating)?
+**Q29.** A car at $15\,\mathrm{m\,s^{-1}}$ accelerates for $5\,\mathrm s$ up to $25\,\mathrm{m\,s^{-1}}$. Distance traveled (constant acceleration)?
 - **A.** $50$
 - **B.** $75$
 - **C.** $100$
 - **D.** $125$
 - **E.** $200\ \mathrm m$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1269,19 +1134,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q30.** Two very close parallel slits illuminated by monochrome green light (normal incidence); on one screen there are interference fringes. The distance between the franges can be increased...
-- **A.** decreasing the screen distance
-- **B.** increasing the source distance
-- **C.** increasing the gap between the cracks
-- **D.** increasing the width of the cracks
-- **E.** by replacing the source with a red light
+**Q30.** Two very close parallel slits illuminated by monochromatic green light (normal incidence); interference fringes are observed on a screen. The distance between the fringes can be increased...
+- **A.** by decreasing the distance between the plate and the screen
+- **B.** by increasing the distance between the source and the plate
+- **C.** by increasing the distance between the slits
+- **D.** by increasing the width of the slits
+- **E.** by replacing the source with red light
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1347,19 +1207,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q32.** Two small, identical, long-distance conducting spheres, with loads of $q_1=-2\,\mu\mathrm C$ and $q_2=4\,\mu\mathrm C$; the force between them is $F=1\,\mathrm N$. They are connected by a conductive wire (without moving them) and then the wire is removed. Force module at the finish?
+**Q32.** Two identical small conducting spheres at a large distance, with charges $q_1=-2\,\mu\mathrm C$ and $q_2=4\,\mu\mathrm C$; the force between them has magnitude $F=1\,\mathrm N$. They are connected by a conducting wire (without moving them) and then the wire is removed. Magnitude of the force at the end?
 - **A.** $0$
 - **B.** $0.125$
 - **C.** $0.250$
 - **D.** $1$
-- **E ** $1.125\ \mathrm N$ (final load $1\,\mu\mathrm C$ each).
+- **E.** $1.125\ \mathrm N$ (final charge $1\,\mu\mathrm C$ each).
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1435,7 +1290,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the plane $Oxy$ with orthogonal $Ox, Oy$ axes, which current in a straight conductor produces a magnetic field oriented towards the positive side of the $x$ axis at the point $O$?
+**Q33.** In the plane $Oxy$ with orthogonal axes $Ox, Oy$, which current in a straight conductor produces at point $O$ a magnetic field oriented in the positive direction of the axis $x$?
 
 <!--fig:start-->
 
@@ -1483,20 +1338,15 @@ In the plane $Oxy$ with orthogonal $Ox, Oy$ axes, which current in a straight co
 </figure>
 
 
-*Flat $Oxy$ with the point $P$ on the $y$ axis and the point $Q$ on the $x$ axis.*
+*Plane $Oxy$ with point $P$ on the axis $y$ and point $Q$ on the axis $x$.*
 <!--fig:end-->
-- **A.** for $Q$, incoming
-- **B.** for $Q$, outgoing
-- **C.** for $P$, parallel to $Ox$
-- **D.** for $P$, incoming
-- **E.** for $P$, outgoing
+- **A.** along $Q$, entering
+- **B.** along $Q$, coming out
+- **C.** along $P$, parallel to $Ox$
+- **D.** along $P$, entering
+- **E.** along $P$, coming out
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1523,19 +1373,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q34.** Un'automobile di $800\,\mathrm{kg}$ a $30\,\mathrm{m\,s^{-1}}$ frena e si arresta in $50\,\mathrm m$ sotto una forza costante. The intensity of the braking force?
+**Q34.** A car of $800\,\mathrm{kg}$ at $30\,\mathrm{m\,s^{-1}}$ brakes and comes to a stop in $50\,\mathrm m$ under a constant force. Magnitude of the braking force?
 - **A.** $9$
 - **B.** $240$
 - **C.** $7\,200$
 - **D.** $14\,400$
 - **E.** $28\,800\ \mathrm N$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1637,20 +1482,20 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q35.** A liquid flows steadily through a narrowing duct. What graph shows the mass flow rate as a function of the position along the conduit? (constantly carried).
+**Q35.** A liquid flows in steady state through a duct with a narrowing. Which graph represents the mass flow rate as a function of position along the duct? (constant mass flow rate).
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p10_f1.png]]
-The following table shows the results of the calculation of the total number of samples taken:
+*Five flow rate–position graphs (A–E).*
 <!--fig:end-->
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p3_f1.png]]
-*perfect gas X and Y graphs*
+*graphs X and Y ideal gas*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p6_f11.png]]
-The temperature of the air is the temperature of the air.
+*cooling phase-change graph*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1708,23 +1553,18 @@ The temperature of the air is the temperature of the air.
 </figure>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*two metallic blocks thermal conductors*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p9_f16.png]]
-The following table shows the following:
+*five p-V diagrams ideal gas cycle*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p10_f18.png]]
-*graphs carried by mass by condensation*
+*mass flow rate graphs duct narrowing*
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Continuity Equation (metodo)|Continuity Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in electricity and gas.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -1884,19 +1724,14 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q37. ** A body of $2\,\mathrm{kg}$ moves eastward at $40\,\mathrm{m\,s^{-1}}$. Applying for $6\,\mathrm s$ a constant force of $10\,\mathrm N$ to the north, the final speed is
+**Q37.** A body of $2\,\mathrm{kg}$ moves East at $40\,\mathrm{m\,s^{-1}}$. Applying for $6\,\mathrm s$ a constant force of $10\,\mathrm N$ toward North, the final velocity is
 - **A.** $30$
 - **B.** $45$
 - **C.** $50$
 - **D.** $55$
 - **E.** $70\ \mathrm{m\,s^{-1}}$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment in the Member States of the European Union.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -2058,7 +1893,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q38.** Two boxes $m_1=5\,\mathrm{kg}$, $m_2=7\,\mathrm{kg}$ standing on a smooth surface, connected by a wire; a rope attached to $m_2$ is pulled with force $F$. If the wire resists $15\,\mathrm N$, what is the maximum value of $F$ to keep the blocks connected?
+**Q38.** Two boxes $m_1=5\,\mathrm{kg}$, $m_2=7\,\mathrm{kg}$ at rest on a smooth surface, connected by a thread; a string attached to $m_2$ is pulled with force $F$. If the thread resists up to $15\,\mathrm N$, what is the maximum value of $F$ to keep the blocks connected?
 - **A.** $15$
 - **B.** $26$
 - **C.** $30$
@@ -2067,7 +1902,7 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p3_f2.png]]
-*five graphs s-t increasing speed*
+*five s-t graphs increasing speed*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2141,11 +1976,11 @@ The Commission has also adopted a proposal for a regulation on the protection of
 </figure>
 
 
-The following table shows the acceleration-time decreasing chart:
+*acceleration-time graph decreasing*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p7_f12.png]]
-*slanted plane block 30 degrees*
+*inclined plane block 30 degrees*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2197,15 +2032,10 @@ The following table shows the acceleration-time decreasing chart:
 </figure>
 
 
-*two boxes connected by wire on a flat surface*
+*two boxes connected by a thread on a plane*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -2232,19 +2062,14 @@ The Commission has also adopted a proposal for a regulation on the protection of
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q39.** Express the physical size of the magnetic induction field $B$ in terms of length (L), mass (M), time (T) and current intensity (I).
+**Q39.** Express the physical dimension of the magnetic induction field $B$ in terms of length (L), mass (M), time (T) and current intensity (I).
 - **A.** $MT^{-1}I^{-2}$
 - **B.** $MT^{-2}I^{-1}$
 - **C.** $MTI^{-1}$
 - **D.** $MT^{-1}I$
 - **E.** $MT^{-2}I^{-2}$
 
-**Topic:** [[Electromagnetism]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in electricity and gas.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 
@@ -2557,12 +2382,12 @@ The Commission has also adopted a proposal for a Regulation (EC) on the common o
 
 <div class="qlang-split" data-lang="en"></div>
 
-A positively charged body is balanced in a uniform vertical electric field under the action of weight and field. It's moved slightly downward, stopped and left free. What's he doing after he's released?
-- **A.** returns to the starting position and stops
-- **B.** performs a harmonic motion around the starting position
-- **C.** falls at a constant rate of acceleration
-- **D.** moves upwards at constant acceleration
-- **E.** remains stationary (uniform field: resulting force zero everywhere).
+**Q40.** A positively charged body is in equilibrium in a uniform vertical electric field under the action of its weight and of the field. It is displaced slightly downward, stopped and then released. What does it do after release?
+- **A.** it returns to the initial position and stops
+- **B.** it undergoes harmonic motion about the initial position
+- **C.** it falls with constant acceleration
+- **D.** it moves upward with constant acceleration
+- **E.** it remains at rest (uniform field: net force is zero everywhere).
 
 <!--fig:start-->
 
@@ -2622,7 +2447,7 @@ A positively charged body is balanced in a uniform vertical electric field under
 </figure>
 
 
-* battery and resistor circuit*
+*circuit with batteries and resistors*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2690,7 +2515,7 @@ A positively charged body is balanced in a uniform vertical electric field under
 </figure>
 
 
-*Wire XY rotating circuit in field B *
+*circuit with wire XY rotating in field B*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2794,15 +2619,15 @@ A positively charged body is balanced in a uniform vertical electric field under
 </figure>
 
 
-The electron enters the magnetic field B
+*electron enters magnetic field B*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p7_f13.png]]
-*five circuits with capacitor ampere *
+*five circuits with ammeter capacitor*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv23T/1liv23T_p8_f14.png]]
-*proton p from T to S at low charge sphere*
+*proton p from T to S near a charged small sphere*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -2847,12 +2672,7 @@ The electron enters the magnetic field B
 </figure>
 
 
-*Oxy plane with P and Q points *
+*Oxy plane with points P and Q*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)

@@ -170,94 +170,40 @@ operation period.
 <div class="qlang-split" data-lang="it"></div>
 
 2.
-REACTOR OLO FıssıON (7 punti)
+REATTORE A FISSIONE DI OKLO (7 punti)
 —
-Topi Löytäinen, Jaan Kalda. Basato sulla base delle
-di $^{235}$U e $^{238}$U,
-come pure le abbondanza di isotopi
-La produzione di reazioni nucleari,
-hanno stabilito che le
-I reattori nucleari operati a Oklo circa $T_0 =
-1,8 volte 10^9 anni fa in Gabon, in Africa centrale.
-Per l'esistenza di tali reattori, due condizioni
-deve essere soddisfatta: a) la presenza di depositi con
-concentrazione sufficientemente elevata di uranio;
-sufficientemente elevata abbondanza di 235U in nat-
-uranio urale. I minerali ricchi di uranio sono stati creati in
-- il carbonio di uranio disperso è stato dis-
-solvente in acqua ricca di ossigeno e trasportata
-e poi le piscine sotterranee. Considerabili
-La concentrazione di ossigeno è apparsa nell'atmosfera
-La sfera solo circa 2,5 miliardi di anni fa, quindi
-la prima condizione non è stata soddisfatta prima di
-- Sì, è così. In seguito imparerete che l'abbondanza di
-La velocità di $^{235}$U diminuisce relativamente rapidamente nel tempo,
-la seconda condizione non è più soddisfatta
-- dopo il funzionamento del reattore di Oklo.
-Il funzionamento di Oklos è stato
-l'attore possibile era un afflusso stabile di terra
-acqua che ha mantenuto i depositi di uranio sufficienti
-- Cioccavo. L'acqua è il cosiddetto moderatore
-per il reattore a fissione: rallenta la
-- la fissione di un'energia a base di un'energia di
-- la possibilità di un'infezione di
-• la fissione di un nucleo di un'altra $^{235}$U
-- Leus.
-In quanto segue, oltre a $T_0$,
-può utilizzare i seguenti valori numerici.
+Topi Löytäinen, Jaan Kalda. In base al rapporto degli isotopi dell'uranio $^{235}$U e $^{238}$U, così come alle abbondanze degli isotopi prodotti dai reattori nucleari, i ricercatori hanno stabilito che reattori nucleari naturali auto-sostenentisi operarono a Oklo circa $T_0 =
+1.8 \times 10^9$ anni fa in Gabon, Africa centrale.
+Perché tali reattori esistessero, due condizioni devono essere soddisfatte: (a) presenza di depositi con concentrazione di uranio sufficientemente alta; (b)
+abbondanza sufficientemente alta di 235U nell'uranio naturale. Ricchi minerali di uranio furono creati dalle inondazioni: l'uranio disperso fu disciolto in acqua ricca di ossigeno e trasportato da essa in bacini sotterranei. Una concentrazione significativa di ossigeno apparve nell'atmosfera solo circa 2,5 miliardi di anni fa, quindi la prima condizione non fu soddisfatta prima di allora. Imparerai qui sotto che l'abbondanza di $^{235}$U diminuisce relativamente rapidamente nel tempo, quindi la seconda condizione cessò di essere soddisfatta poco dopo il funzionamento del reattore di Oklo.
+Ciò che rese possibile il funzionamento del reattore di Oklo fu un afflusso stabile di acqua sotterranea che mantenne i depositi di uranio sufficientemente bagnati. L'acqua è il cosiddetto moderatore per il reattore a fissione: rallenta i neutroni emergenti dalle reazioni di fissione, aumentando drasticamente le probabilità che un neutrone inneschi la fissione di un successivo nucleo di $^{235}$U.
+Nel seguito, oltre a $T_0$, puoi usare i seguenti valori numerici.
 Energia rilasciata dalla fissione di un singolo
-$^{235}$U nucleo: $E_0 = 200$ MeV.
-Metadelli di vita $^{235}$U: $\tau_5 \approx 7 \times 10^8$ anni.
-Metadelli di vita $^{238}$U: $\tau_8 \approx 4.5 \times 10^9$ anni.
+Nucleo di $^{235}$U: $E_0 = 200$ MeV.
+Emivita di $^{235}$U: $\tau_5 \approx 7 \times 10^8$ anni.
+Emivita di $^{238}$U: $\tau_8 \approx 4.5 \times 10^9$ anni.
 Calore latente di evaporazione dell'acqua: $L =
-2260 kg.
+2260\ \text{kJ kg}^{-1}$.
 Calore specifico dell'acqua $c = 4200\ \text{J kg}^{-1}\text{K}^{-1}$.
-Abundanza di
-$^{235}$U in natural uranium
-oggi: $R = 0.72\%$. Noi definiamo abbondanza
-come numero di atomi dell'isotopo, né-
-Malized al numero di atomi di un dato
-elemento.
-Abondanza media di $^{235}$U nell'uranio
-oggi: $R_O = 0.62\%$.
-La quantità totale di uranio nella miniera di Oklo
-oggi: $M = 5 \times 10^8$ kg.
-La durata del periodo in cui
-Reattore Oklo operato: $T \approx 1 \times 10^5$ anno.
-Carga elementare: $e = 1.6 \times 10^{-19}$ C.
+Abbondanza di
+$^{235}$U nell'uranio naturale oggi: $R = 0.72\%$. Definiamo l'abbondanza come il numero di atomi dell'isotopo, normalizzato al numero di atomi dell'elemento dato.
+Abbondanza media di $^{235}$U nell'uranio del minerale di uranio di Oklo oggi: $R_O = 0.62\%$.
+La quantità totale di uranio nella miniera di Oklo oggi: $M = 5 \times 10^8$ kg.
+La durata del periodo di tempo durante il quale
+il reattore di Oklo ha funzionato: $T \approx 1 \times 10^5$ anno.
+Carica elementare: $e = 1.6 \times 10^{-19}$ C.
 Unità di massa atomica: $u = 1.66 \times 10^{-27}$ kg.
-Avogadro
-Numero:
+Numero di Avogadro:
 $N_A
 =
 6.02 \times 10^{23}\ \text{mol}^{-1}$.
-Si noti che: a) l'abbondanza di altri
-di uranio, oltre a $^{235}$U e $^{238}$U è
-b) $^{235}$U non è tra le
-prodotti di decomposizione di $^{238}$U; e c) la fissione di
-Nelli diversi dalla fissione di $^{235}$U (es.
-La disgregazione del plutonio può essere
-- Lezione.
-I) (1,5 punti) Qual era l'abbondanza di
-$^{235}$U in natural uranium when the Oklo’s re‐
-- L'attore ha operato?
-(ii) (2 punti) Qual è stata la potenza media di
-Il reattore di Oklo?
-iii) (1,5 punti) Esprimi qualitativamente il motivo per cui è stato
-Reattore Oklo che opera in regime stabile
-E non è esplosa. Variabilità del flusso idrico
-Il reattore è stato ucciso nel corso del tempo.
-quando il tasso di afflusso d'acqua è aumentato di due
-- Le volte?
-iv) (2 punti) Estimare la massa totale dell'acqua
-che è fluito nel reattore Oklo durante il suo
-periodo di funzionamento.
-
-**Topic:** [[Nuclear & Particle Physics]], [[Thermodynamics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation Laws (metodo)|Conservation Laws]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
+Nota che: (a) l'abbondanza degli altri isotopi dell'uranio oltre a $^{235}$U e $^{238}$U è trascurabilmente piccola; (b) $^{235}$U non è tra i prodotti di decadimento di $^{238}$U; e (c) i canali di fissione diversi dalla fissione di $^{235}$U (ad esempio, la sintesi e la fissione del plutonio) possono essere trascurati.
+i) (1,5 punti) Qual era l'abbondanza di
+$^{235}$U nell'uranio naturale quando il reattore di Oklo funzionava?
+ii) (2 punti) Qual era la potenza media del reattore di Oklo?
+iii) (1,5 punti) Spiegate qualitativamente perché il
+reattore di Oklo funzionava in un regime stabile e non esplose. La portata d'acqua in ingresso variava nel tempo; cosa accadeva al reattore quando la portata d'acqua in ingresso aumentava di due volte?
+iv) (2 punti) Stimate la massa totale di acqua che è fluita nel reattore di Oklo durante il suo periodo di funzionamento.
 
 
 
@@ -375,25 +321,25 @@ hood anywhere on Earth.
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. TOTALITÀ (8 punti) — Taavet Kalda, Jaan Kalda.
-Le eclissi solari totali sono un fenomeno raro che si verifica quando la Luna copre completamente il disco del Sole per alcune zone della Terra. Questo non accade durante ogni eclissi solare perché la dimensione apparente della Luna nel cielo è talvolta troppo piccola per coprire interamente il Sole, ma anche perché l'ombra della Luna solitamente manca la Terra a causa dell'inclinazione della sua orbita. Di conseguenza, le eclissi solari totali si verificano in media ogni 18 mesi.
-Consideriamo un'eclissi solare totale in cui, durante il picco, i punti centrali della Terra, della Luna e del Sole giacciono su una retta nello stesso piano dell'equatore. Misuriamo che, subito prima che l'eclissi solare totale termini alla latitudine $\lambda = 28.5^{\circ}$, la totalità dura $t_0 = 2$ min. Il raggio della Terra è $r_e = 6370$ km, il raggio della Luna è $r_m = 1740$ km, il periodo orbitale della Luna $T_m = 27.3$ d, il raggio orbitale della Luna $R_m = 384\,000$ km. Un giorno sulla Terra è $T_0 = 24$ hrs.
-i) (1.5 punti) Per quanto tempo esiste un luogo sulla Terra in cui l'eclissi solare totale è osservabile?
+4. TOTALITÀ (8 punti) — Taavet Kalda, Jaan
+Kalda.
+Le eclissi solari totali sono un fenomeno raro che si verifica quando la Luna copre completamente il disco del Sole per alcune parti della Terra. Ciò non accade durante ogni eclissi solare perché la dimensione apparente della Luna nel cielo a volte è troppo piccola per coprire completamente il Sole, ma anche perché l'ombra della Luna di solito manca la
+Terra a causa della sua inclinazione orbitale. Di conseguenza, le eclissi solari totali si verificano in media ogni 18 mesi.
+Consideriamo un'eclissi solare totale in cui durante il picco, i punti centrali della Terra, della Luna e del Sole giacciono su una linea sullo stesso piano dell'equatore. Misuriamo che subito prima che l'eclissi solare totale termini alla latitudine $\lambda = 28.5^{\circ}$, la totalità dura $t_0 =
+2$ min. Il raggio della Terra è $r_e = 6370$ km, il raggio della Luna è $r_m = 1740$ km, il periodo orbitale della Luna $T_m = 27.3$ d, il raggio orbitale della
+Luna $R_m = 384\,000$ km. Un giorno sulla Terra è
+$T_0 = 24$ ore.
+i) (1.5 punti) Per quanto tempo esiste un luogo sulla
+Terra dove l'eclissi solare totale è osservabile?
 ii) (1 punto) Quanti gradi di longitudine sulla Terra copre l'eclissi solare totale?
 iii) (1.5 punti) Qual è la larghezza della fascia di totalità vicino all'equatore?
-iv) (1.5 punti) Qual è il tempo massimo per cui l'eclissi totale è visibile da un singolo luogo sulla Terra?
+iv) (1.5 punti) Qual è il tempo massimo durante il quale l'eclissi totale è visibile da un singolo luogo sulla Terra?
 v) (1 punto) Per quanto tempo dura l'eclissi totale vicino al luogo descritto in iii), alla distanza di $a = 50$ km dalla linea centrale della fascia dell'eclissi?
-vi) (1.5 punti) Trova l'intervallo di tempo medio tra due eclissi solari totali per un dato luogo sulla Terra facendo le seguenti ipotesi semplificative:
-a) la larghezza media dell'intera fascia dell'eclissi è uguale alla media aritmetica della sua larghezza minima e massima;
-b) la larghezza tipica di un'intera fascia di eclissi è metà della larghezza media dell'eclissi studiata sopra;
-c) la lunghezza tipica di un'intera fascia di eclissi è uguale alla lunghezza della fascia dell'eclissi studiata sopra se la Terra non ruotasse;
+vi) (1,5 punti) Trovare l'intervallo di tempo medio tra due eclissi solari totali per una data località sulla Terra facendo le seguenti assunzioni semplificatrici:
+a) la larghezza media del percorso dell'eclissi totale è uguale alla media aritmetica della sua larghezza minima e massima;
+b) la larghezza tipica di un percorso di eclissi totale è la metà della larghezza media dell'eclissi studiata sopra;
+c) la lunghezza tipica di un percorso di eclissi totale è uguale alla lunghezza del percorso dell'eclissi studiata sopra se la Terra non ruotasse;
 d) le eclissi solari totali si verificano con uguale probabilità in qualsiasi punto della Terra.
-
-**Topic:** [[Astrophysics]], [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1xwIRzHYUJpkZ0CYYKj3Dq7xdjPDJf42y/view)
 
 
 
@@ -603,13 +549,13 @@ ONDE (4 punti)
 — Janis Huns, Jaan
 Kalda. La relazione di dispersione (cioè la di‐ pendenza della frequenza circolare $\omega$ dal vettore d'onda $k = \frac{2\pi}{\lambda}$) delle onde capillari‐gravitazionali è
 $$\omega^2 = gk^\alpha + \frac{\sigma}{\rho}k^\beta,$$ dove $\sigma$ denota la tensione superficiale, $g =
-9.81\ \text{m s}^{-2}$, and $\rho = 1000\ \text{kg m}^{-3}$.
+9.81\ \text{m s}^{-2}$, e $\rho = 1000\ \text{kg m}^{-3}$.
 i) (1 punto) determinare i valori degli espo‐ nenti $\alpha$ e $\beta$.
 F. Moisy, M. Rabaud, PRE 90, 023009 (2014)
 ii) (3 punti) Nell'immagine sopra, possiamo vedere come un oggetto che si muove con velocità costante
 $U
 = 60\ \text{cm s}^{-1}$ genera una scia — un insieme di onde di diverse lunghezze d'onda.
-Presta at‐ tenzione alle onde di corta lunghezza d'onda la cui cresta si estende dall'oggetto quasi fino ai bordi della foto: la presenza di un fronte d'onda molto lungo testimonia che per queste particolari onde, le velocità di fase e di gruppo sono uguali. Determina la tensione superficiale dell'acqua. Puoi prendere misure dalla foto. Nota che mentre la velocità di fase è la velocità di una fase costante dell'onda, la velocità di gruppo $v_g = \frac{d\omega}{dk}$ è la velocità di un pacchetto d'onde (un treno d'onde).
+Presta at‐ tenzione alle onde di corta lunghezza d'onda il cui fronte d'onda si estende dall'oggetto quasi fino ai bordi della foto: la presenza di un fronte d'onda molto lungo testimonia che per queste particolari onde, le velocità di fase e di gruppo sono uguali. Determina la tensione superficiale dell'acqua. Puoi prendere misure dalla foto. Nota che mentre la velocità di fase è la velocità di una fase costante dell'onda, la velocità di gruppo $v_g = \frac{d\omega}{dk}$ è la velocità di un pacchetto d'onda (un treno d'onde).
 
 
 

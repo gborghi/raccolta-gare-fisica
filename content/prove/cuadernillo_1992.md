@@ -740,18 +740,12 @@ Descrivere chiaramente la procedura scelta (parte teorica e parte sperimentale) 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**6. Neuchon (experimental) - Specific weight of lead**
+**6. Neuquen (experimental) - Specific weight of lead**
 
-6. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+6. Neuquen (experimental).
 
-The specific weight of lead is to be determined. Using the materials available: graduated test, lead and water.
-Clearly describe the chosen procedure (theoretical and experimental part) and assess the error of the result.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+It is required to determine the specific weight of lead. Using the available materials: graduated cylinder, piece of lead and water.
+Describe clearly the chosen procedure (theoretical and experimental part) and evaluate the error of the result.
 
 
 
@@ -798,21 +792,15 @@ Determinare il peso del filo indicando anche l'errore stimato.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**7. The Commission has also examined the possible effects of the measures on the environment.
+**7. Mar del Plata, Buenos Aires (experimental) - Weight of the wire**
 
-7. The first is the Mar del Plata, Buenos Aires (experimental).
+7. Mar del Plata, Buenos Aires (experimental).
 
-The data:
-- A copper wire with a density of $\rho = 8.97\ gr/cm^3$.
-- A square sheet of paper whose divisions are every 0.5 cm.
+Data:
+- A copper wire whose density is $\rho = 8.97\ gr/cm^3$.
+- A sheet of graph paper whose divisions are every 0.5 cm.
 - A pencil.
-Determine the weight of the wire and the estimated error.
-
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+Determine the weight of the wire, also indicating the estimated error.
 
 
 
@@ -921,17 +909,11 @@ Data una figura piana di cartone irregolare, in cui è stato marcato un sistema 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**9. The following information is provided by the Commission in the Official Journal of the European Union.
+**9. Mar del Plata, Buenos Aires (experimental) - Center of gravity**
 
-9. The first is the Mar del Plata, Buenos Aires (experimental).
+9. Mar del Plata, Buenos Aires (experimental).
 
-Given an irregular flat cardboard figure, in which a reference system with centimetre scale and a plume have been marked, determine the centre of gravity coordinates indicating the estimated error.
-
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+Given an irregular flat cardboard figure, on which a reference system with a centimeter scale has been marked, and a plumb line, determine the coordinates of the center of gravity, indicating the estimated error.
 
 
 
@@ -1208,19 +1190,13 @@ a) M' equidista di M' e M'; b) M' equidista di M' e M'; c) M' equidista di M' e 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**13. The Commission has not yet adopted a proposal for a regulation on the protection of the environment.
+**13. Navarro, Buenos Aires - Three moving objects M, M', M''**
 
-13. I'm from Navarro, Buenos Aires.
+13. Navarro, Buenos Aires.
 
-Two movements, M and M', start simultaneously from A to B, and at that same instant another M' starts from B to A. The distance AB = 90 km and the speed of the wheels are 6 km/h, 5 km/h and 9 km/h respectively.
-Determine graphically and analytically the times when:
-(a) M' equidistant of M' and M''; (b) M' equidistant of M' and M''; (c) M' equidistant of M' and M'; (d) M is crossed with M''.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+Two moving objects, M and M', start simultaneously from A toward B, and at that same instant another one, M'', starts from B toward A. The distance AB = 90 km and the speeds of the moving objects are 6 km/h, 5 km/h and 9 km/h respectively.
+Determine graphically and analytically the times at which:
+a) M is equidistant from M' and M''; b) M' is equidistant from M and M''; c) M'' is equidistant from M and M'; d) M crosses paths with M''.
 
 
 
@@ -1391,25 +1367,19 @@ Preparare un rapporto contenente le seguenti voci:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**16. Neuken (experimental) - MRU and coef speed. The following table shows the results of the calculation:
+**16. Neuquen (experimental) - Speed in uniform rectilinear motion and coefficient of friction**
 
-16. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+16. Neuquen (experimental).
 
-(a) Speed measurement in uniform straight line motion
-(b) Determination of the coefficient of friction.
-For the purpose of subparagraph (a), an air rail, a metric tape, a timekeeper are provided. For the purpose of subparagraph (b) of a track with a wooden bearing with different surface finishes (acrylic, wood and leather), weights, scales, metric tape and timekeeper.
-Draft a report containing the following items:
-- Objective of the practice
+a) Measurement of speed in uniform rectilinear motion
+b) Determination of the coefficient of friction.
+For part a), an air track, a measuring tape, and a stopwatch are available. For part b), a track with a wooden block with different surface finishes (acrylic, wood, and leather), weights, a balance, a measuring tape, and a stopwatch.
+Prepare a report containing the following items:
+- Objective of the experiment
 - Description of the equipment
 - Mathematical model used
-- Data collection and processing; error handling.
+- Data collection and processing; error treatment.
 - Observations and conclusions.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
 
 
 
@@ -1629,22 +1599,16 @@ L'approccio $g = 10\ m/s^2$ può essere utilizzato per semplificare i calcoli.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**20. The Commission has decided to extend the period of validity of the agreement.
+**20. Santa Rosa, La Pampa - Rocket**
 
-20. Santa Rosa, the Pampa.
+20. Santa Rosa, La Pampa.
 
-A rocket is fired vertically upwards with a constant acceleration of 5 g for 5". The fuel runs out and the engine stops.
-(a) calculate height and speed at 5'
-(b) calculate the maximum height reached
-(c) draw a graph v-t (speed in time function) for all upward movement.
-(d) how long does it take to reach the maximum height? (get this data from the chart- do not count any more)
-You can use the $g = 10\ m/s^2$ approach to simplify the calculations.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+A rocket is fired vertically upward with a constant acceleration of 5 g for 5". The fuel runs out and therefore the engine stops.
+a) calculate the height and velocity at 5"
+b) calculate the maximum height reached
+c) make a v-t graph (velocity as a function of time) for the entire upward motion.
+d) how long does it take to reach the maximum height? (obtain this data from the graph - do not do any more calculations)
+You may use the approximation $g = 10\ m/s^2$ to simplify the calculations.
 
 
 
@@ -1687,19 +1651,13 @@ b) Quanto dura il viaggio?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**21. The Commission has decided to extend the period of validity of the agreement.
+**21. Ibarreta, Formosa - Formosa-Pirane Bus**
 
-21. Ibarreta, the formosa.
+21. Ibarreta, Formosa.
 
-A collective leaves Formosa at 0:30. to Pirane (100 km) at 60 Km/h. Alli stops for 15 minutes and rests with an acceleration of $200\ km/s^2$ to Fontana (81 km) where for 5 minutes and continues the journey to Ibarreta (202 km from Formosa) at 70 km/h.
-(a) What time does he arrive in Ibarreta?
-(b) How long does the trip take?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+A bus leaves Formosa at 0:30 hs. toward Pirane (100 km) at 60 km/h. There it stops for 15 minutes and starts from rest with an acceleration of $200\ km/s^2$ until Fontana (81 km) where it stops for 5 minutes and continues the trip to Ibarreta (202 km from Formosa) at 70 km/h.
+a) What time does it arrive at Ibarreta?
+b) How long does the trip last?
 
 
 
@@ -2350,27 +2308,20 @@ C) Dynamometro sospeso dal tetto, sostenendo in acqua un cilindro di alluminio (
 
 <div class="qlang-split" data-lang="en"></div>
 
-**32. The Commission has decided to extend the period of validity of the agreement.
+**32. Mar del Plata, Buenos Aires - Dynamometer readings**
 
-32. The city of Mar del Plata, Buenos Aires.
+32. Mar del Plata, Buenos Aires.
 
-For each of the following cases, calculate the value indicated by the dynamometer. In all cases, the mass of the strings, pulleys and dynamometer should be neglected. Also, disregard all friction or rubbing. (Figure)
-A) Horizontal dynamometer with 50 Kg suspended from each end by pulley paths.
-B) A horizontal dynamometer on a table with a block of 20 Kg and, by a pulley, a 50 Kg hanging.
-C) Roof suspension dynamometer, holding an aluminium cylinder in water ($\phi = 0.10$ m in diameter; $\delta_{AL} = 2.7\ gr/cm^3$; $\delta_{agua} = 1\ gr/cm^3$; submerged 0.15 m).
-
+For each of the following cases, calculate the value that the dynamometer will indicate. In all cases neglect the mass of the ropes, the pulleys and the dynamometer. Also neglect all friction or rubbing. (figure)
+A) Horizontal dynamometer with 50 kg hanging from each end by separate pulleys.
+B) Horizontal dynamometer on a table with a 20 kg block and, over a pulley, 50 kg hanging.
+C) Dynamometer suspended from the ceiling, holding in water an aluminum cylinder ($\phi = 0.10$ m diameter; $\delta_{AL} = 2.7\ gr/cm^3$; $\delta_{agua} = 1\ gr/cm^3$; submerged 0.15 m).
 
 <!--fig:start-->
 ![[Cuadernillo_1992_p13_f1.png]]
 ![[Cuadernillo_1992_p14_f2.png]]
 ![[Cuadernillo_1992_p14_f3.png]]
 <!--fig:end-->
-
-**Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
 
 
 
@@ -2480,19 +2431,13 @@ b) A che velocità massima può girare senza scivolare
 
 <div class="qlang-split" data-lang="en"></div>
 
-**34. The Commission has also adopted a number of measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented in accordance with Article 107 (1) TFEU.
+**34. Mercedes, Buenos Aires - Child on a rotating platform**
 
-34. Mercedes, from Buenos Aires.
+34. Mercedes, Buenos Aires.
 
-A 43.5-kg child is sitting on a rotating horizontal platform at a distance of 1.22 metres from the rotating axis. If the static friction coefficient is 0.1
-(a) What is the maximum available lateral force to prevent slipping
-(b) What is the maximum speed at which it can spin without slipping
-
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+A 43.5 kg child is sitting on a horizontal rotating platform at a distance of 1.22 m from the axis of rotation. If the coefficient of static friction is 0.1
+a) What is the maximum lateral force available to prevent him from slipping
+b) At what maximum speed can it rotate without slipping
 
 
 
@@ -2711,20 +2656,14 @@ c) A che velocità si sta percorrendo il passeggero?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**38. The following is the list of the official languages of the European Union:
+**38. San Juan - Passenger and train**
 
-38. It's St. John.
+38. San Juan.
 
-A passenger who travels regularly on the train to return home usually arrives at her village station at 5 p.m., exactly the time she arrives to pick her up in her family's car. One day she leaves her job early and takes the train that arrives at the station at 4 p.m., then decides to walk home and leaves immediately along the same route her husband follows. He leaves the house at the usual hour, drives at the usual speed of 45 km/h. They meet on the road, go home at the same speed and arrive 12 minutes earlier than usual.
-(a) How far along is the passenger?
-(b) What time did the husbands meet?
-(c) How fast does the passenger travel?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+A passenger who regularly takes the train to return home usually arrives at her town's station at 5 pm, exactly at the time when her family's car comes to pick her up. One day she leaves work earlier and takes the train that arrives at the station at 4 pm, so she decides to walk toward the house and immediately sets off along the same route her husband follows. He leaves the house at the usual time, driving at the usual speed of 45 km/h. They meet on the way, they go home at the same speed, and they arrive twelve minutes earlier than usual.
+a) What distance did the passenger walk?
+b) At what time did the spouses meet?
+c) At what speed did the passenger walk?
 
 
 
@@ -4340,17 +4279,11 @@ Che volume occupiamo a $30^\circ$C, 96 grammi di ossigeno, alla pressione di 1 a
 
 <div class="qlang-split" data-lang="en"></div>
 
-**65. The Commission has not yet established the conditions for the calculation of the net operating costs.
+**65. Cordoba, Capital - Volume of oxygen**
 
-65. Cordoba, the capital.
+65. Cordoba, Capital.
 
-What volume do they occupy at $30^\circ$C, 96 grams of oxygen, at 1 atmospheric pressure?
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+What volume do 96 grams of oxygen occupy at $30^\circ$C, at a pressure of 1 atmosphere?
 
 
 
@@ -4519,18 +4452,12 @@ Supponendo che l'energia interna passi da 4 kcal/kg a 32 kcal/kg, calcolare la d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**68. The Commission has also adopted a number of measures to improve the quality of the water supply in the Community.
+**68. Navarro, Buenos Aires - Compressor**
 
-68. I'm from Navarro, Buenos Aires.
+68. Navarro, Buenos Aires.
 
-A compressor sucks air at a pressure of 1 atm. and with a specific weight $1.25\ kg/m^3$ and expels it at a pressure of 5 atm. with a specific weight $4\ kg/m^3$.
-Assuming the internal energy goes from 4 kcal/kg to 32 kcal/kg, calculate the enthalpy difference that the air mass experiences.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+A compressor draws in air at a pressure of 1 atm and with specific weight $1.25\ kg/m^3$ and expels it at a pressure of 5 atm with specific weight $4\ kg/m^3$.
+Assuming that the internal energy went from 4 kcal/kg to 32 kcal/kg, calculate the difference in enthalpy experienced by the mass of air.
 
 
 
@@ -4871,32 +4798,25 @@ Termodinamica
 
 <div class="qlang-split" data-lang="en"></div>
 
-**74. Neukene (experimental) - Specific heat of substance**
+**74. Neuquen (experimental) - Specific heat of a substance**
 
-74. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+74. Neuquen (experimental).
 
-OBJECTIVE: To experimentally determine the specific heat of a substance.
-The following is the list of the products:
-Other, of a kind used for the manufacture of textile materials
-A known mass body
-Two cups of precipitate
-The Mechero
-Graduated test
-Other heaters
-1. Armed with a device as shown in the figure. (Figure)
-2. Calculate the specific heat value of the material analytically.
-3. Clearly describe the procedure chosen (theoretical and experimental framework) and evaluate the error of the result, taking into account that the $Ce_{Pb} = 0.31$ cal/g.$^\circ$C
-
+OBJECT: Experimentally determine the specific heat of a substance.
+MATERIALS:
+Styrofoam container with lid
+A body of known mass
+Two beakers
+Burner
+Graduated cylinder
+Thermometer
+1. Set up a device as shown in the figure. (figure)
+2. Analytically calculate the value of the specific heat of the material.
+3. Clearly describe the chosen procedure (theoretical and experimental framework) and evaluate the error of the result, taking into account that $Ce_{Pb} = 0.31$ cal/g.$^\circ$C
 
 <!--fig:start-->
 ![[Cuadernillo_1992_p25_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
 
 
 
@@ -6178,28 +6098,21 @@ e) Indicare le possibili cause di errore delle misure precedenti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**96. The test results of the test are given in the following table:
+**96. Neuquen (experimental) - Verification of Kirchhoff's laws**
 
-96. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+96. Neuquen (experimental).
 
-Testing Kirchoff's laws
-Given the following circuit: (Figure)
-(a) indicate and number the knots
-(b) How would you measure the incoming and outgoing currents of the knots?
-(c) Do the measurement. Is the $\Sigma I = 0$ checked?
-(d) Perform the measurements necessary to verify that the sum ($\Sigma$) of electromotive forces is equal to the sum of voltage drops.
-(e) List the possible causes of error in previous measurements.
-
+Verification of Kirchhoff's laws
+Given the following circuit: (figure)
+a) indicate and number the nodes
+b) How would you measure the currents entering and leaving the nodes?
+c) Carry out the measurement. Is $\Sigma I = 0$ verified?
+d) Carry out the necessary measurements to verify that the sum ($\Sigma$) of electromotive forces is equal to the sum of voltage drops.
+e) Number the possible causes of error in the previous measurements.
 
 <!--fig:start-->
 ![[Cuadernillo_1992_p31_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
 
 
 
@@ -6375,17 +6288,11 @@ Due piccole sfere conducenti identiche che hanno rispettivamente cariche $q_1$ e
 
 <div class="qlang-split" data-lang="en"></div>
 
-**99. The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+**99. Rosario, Santa Fe - Two conducting spheres**
 
 99. Rosario, Santa Fe.
 
-Two identical small conductive spheres with loads $q_1$ and $q_2$, when separated by a distance of 0,30 m, are attracted by a force of 1 N. If you put the two spheres in contact and separate them again at the same distance, you find that they repel with a force of 0.56 N. Calculate the value of the loads $q_1$ and $q_2$.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+Two small identical conducting spheres having respectively charges $q_1$ and $q_2$, when they are separated by a distance of 0.30m, attract each other with a force of 1 N. If the two small spheres are put in contact and separated again to the same distance, it is found that they repel each other with a force of 0.56 N. Calculate the value of the charges $q_1$ and $q_2$.
 
 
 
@@ -6756,26 +6663,19 @@ c. Le due chiavi sono chiuse.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**105. The following information is provided for in the Annex to Implementing Regulation (EU) No 1308/2013:
+**105. San Juan - Resistor network with switches**
 
-105. It's St. John.
+105. San Juan.
 
-(Figure, resistances of $3\ \Omega$ between A and B with keys $L_1$ and $L_2$)
+(figure, resistors of $3\ \Omega$ between A and B with switches $L_1$ and $L_2$)
 Calculate the equivalent resistance between points A and B if:
-a. The two keys (L1 and L2) are open.
-b. One of the keys is locked and the other one is open.
-c. Both keys are locked.
-
+a. Both switches (L1 and L2) are open.
+b. One of the switches is closed and the other is open.
+c. Both switches are closed.
 
 <!--fig:start-->
 ![[Cuadernillo_1992_p33_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
 
 
 
@@ -6863,17 +6763,11 @@ In un circuito R.L.C. $R = 10\ \Omega$ $L = 5$ mHy e $C = 12.5\ \mu$F. Calcolare
 
 <div class="qlang-split" data-lang="en"></div>
 
-**107. Navarro, Buenos Aires - RLC frecuencia de resonancia**
+**107. Navarro, Buenos Aires - RLC resonance frequency**
 
-107. I'm from Navarro, Buenos Aires.
+107. Navarro, Buenos Aires.
 
-On an R.L.C. circuit. $R = 10\ \Omega$ $L = 5$ mHy y $C = 12.5\ \mu$F. Calculate the resonance frequency and total impedance values.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Inductor (object)|Inductor]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+In an R.L.C. circuit $R = 10\ \Omega$ $L = 5$ mHy and $C = 12.5\ \mu$F. Calculate the resonance frequency and the values of total impedance.
 
 
 
@@ -7075,19 +6969,13 @@ Al termine del lavoro il partecipante deve presentare un breve rapporto di quant
 
 <div class="qlang-split" data-lang="en"></div>
 
-**111. The following information is provided by the Commission in the Official Journal of the European Union.
+**111. Mercedes, Buenos Aires (experimental) - Focal length of a converging lens**
 
-111. The Commission has also adopted a number of measures to combat the spread of the virus.
+111. Mercedes, Buenos Aires (experimental).
 
 Objective: Determine the focal length of a converging lens.
-Materials: Lens, support, white paper sheet, screen, candle, graduated rule - Calculator
-At the end of the work, the candidate must provide a brief report on the work carried out. The results obtained and the calculation of the errors committed.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+Materials: Lens, support, white sheet of paper, screen, candle, graduated ruler - Calculator
+At the end of the work the contestant must hand in a brief report on what was done. The results obtained and the calculation of the errors made.
 
 
 
@@ -7187,23 +7075,17 @@ Cintura di misura
 
 <div class="qlang-split" data-lang="en"></div>
 
-**113. The following information is provided by the Commission in the Official Journal of the European Union:
+**113. Capital Federal (experimental) - Focal length of a converging lens**
 
-113. Federal capital (experimental).
+113. Capital Federal (experimental).
 
-Determine the focal length of a convergent lens.
-Elements to be used:
+Determine the focal length of a converging lens.
+Elements to use:
 Light source
-Convergent lens
-Slideshow
+Converging lens
+Slide
 Screen
-Other, of a kind used for the manufacture of goods
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1VikMjHE5GcRO14VweyVt72qm81pdUCvD/view)
+Tape measure
 
 
 

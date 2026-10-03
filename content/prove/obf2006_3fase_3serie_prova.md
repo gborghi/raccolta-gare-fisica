@@ -62,45 +62,10 @@ elétrica.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il dispositivo rappresentato mostra un
-contenenti un contenitore cilindrico contenente un embolsello
-“E”. Entrambi sono isolati termicamente e presentano
-capacità termico irrilevante. Il cesto ha massa
-$m_E=300\ \text{kg}$, si scivola senza attrito e ha una base circolare di
-area $S=100\ \text{cm}^2$. L'ambiente rappresentato dalla lettera A
-c'è 1 mol ($4{,}00\cdot10^{-3}\ \text{kg}$) di gas elio a temperatura
-$T_o=300\ \text{K}$ in grado di bilanciare la pressione esercitata dal peso
-$P_E$
-do
-di cui all'allegato I, punto 1, del regolamento (UE) n.
-superposizione
-à
-pressione
-di natura atmosferica
-$p_\text{atm}=1{,}00\ \text{atm}$, mantenendo così la misura a pari a
-$0{,}600\ \text{m}$. In un istante il socket è collegato a una
-Fonte di tensione costante e uguale a $110\ \text{V}$ per, mediante il
-resistore R, riscaldare il gas citato. Il resistore è tenuto acceso fino al momento in cui il
-L'embolo, grazie all'espansione gassosa, subisce un spostamento totale pari a $2b$. La pietra F, di
-massa $m_F=100\ \text{kg}$, è semplicemente appoggiata sulla parte superiore del recipiente e sarà
-spostato con l'ascesa dell'embolo. Questo pezzo è dotato di un foro per mantenere l'aria,
-ambiente B, sotto pressione pari alla pressione atmosferica. Non è possibile che il valore di $c_P$
-# Che sia il calore #
-specifico del gas elio per le evoluzioni isobariche, che $c_V=3125\ \text{J/(kg}\cdot{}^\circ\text{C)}$ sia il calore
-specifico per le evoluzioni isometriche, che il rapporto $\gamma= c_P/c_V$ sia uguale a $1{,}664$, che la
-misura di b è uguale a $0{,}200\ \text{m}$ e la resistenza elettrica della resistenza R è uguale
-$1210\ \Omega$, calcola:
-a) la quantità di calore $Q_1$ assorbita dalla massa gassosa in modo che l'imbolo E sia solo
-Sostituzione della parte F.
-- **B.** l'intervallo di tempo $\Delta t$ che deve rimanere collegato alla resistenza.
-- **C.** il rendimento $\eta$ del dispositivo considerato il lavoro svolto e il consumo di energia
-elettrica.
-
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Gas (object)|Gas]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1hnQq-trLkJDIQftCBv9dZg7hra9JWm--/view)
+Quesito 01) Il dispositivo rappresentato mostra un recipiente cilindrico che contiene al suo interno uno stantuffo "E". Entrambi sono isolati termicamente e presentano capacità termica trascurabile. Lo stantuffo ha massa $m_E=300\ \text{kg}$, scorre senza attrito e ha una base circolare di area $S=100\ \text{cm}^2$. Nell'ambiente rappresentato dalla lettera "A" esiste 1 mol ($4{,}00\cdot10^{-3}\ \text{kg}$) di gas elio alla temperatura $T_o=300\ \text{K}$ in grado di equilibrare la pressione esercitata dal peso $P_E$ dello stantuffo sovrapposta alla pressione atmosferica $p_\text{atm}=1{,}00\ \text{atm}$, mantenendo, così, la misura "a" uguale a $0{,}600\ \text{m}$. In un dato istante la presa viene collegata a una sorgente di tensione costante e uguale a $110\ \text{V}$ per, tramite il resistore R, riscaldare il gas citato. Il resistore viene mantenuto collegato fino all'istante in cui lo stantuffo, grazie all'espansione gassosa, subisca uno spostamento totale uguale a $2b$. Il pezzo "F", di massa $m_F=100\ \text{kg}$, è semplicemente appoggiato sulla parte superiore del recipiente e sarà spostato con la salita dello stantuffo. Questo pezzo è dotato di un foro per mantenere l'aria, nell'ambiente "B", sotto pressione uguale alla pressione atmosferica. Ammettendo che $c_P$ sia il calore specifico del gas elio per le evoluzioni isobare, che $c_V=3125\ \text{J/(kg}\cdot{}^\circ\text{C)}$ sia il calore specifico per le evoluzioni isometriche, che la relazione $\gamma= c_P/c_V$ sia uguale a $1{,}664$, che la misura di "b" sia uguale a $0{,}200\ \text{m}$ e che la resistenza elettrica del resistore R sia uguale a $1210\ \Omega$, calcola:
+a) la quantità di calore $Q_1$ assorbita dalla massa gassosa affinché lo stantuffo E tocchi appena il pezzo F.
+- **B.** l'intervallo di tempo $\Delta t$ che deve rimanere collegato il resistore.
+- **C.** il rendimento $\eta$ del dispositivo considerando il lavoro svolto e il consumo di energia elettrica.
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -523,30 +488,9 @@ Prezzi $10\ \text{s}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 06) The truck represented in the
-The figure carries a steel coil. Os
-coeficientes de atrito estático $\mu_E$ e cinemático
-$\mu_C$, between the coil and the bodywork are
-respectivamente iguais a $0{,}18$ e $0{,}15$. Consider
-The truck is moving with a
-The speed of the climb is $20\ \text{m/s}$ in a
-The Commission has already taken a number of measures to ensure that the measures are implemented in a manner consistent with the objectives of the programme.
-on a horizontal stretch of road which presents
-a circular curve with the track tilted
-The following table shows the following:
-straight and horizontal stretch of road.
-(a) Calculate, in the first case, the minimum value of the radius of curvature of the track occupied by the
-truck that allows it to complete the curve without its load slipping on
-The body.
-(b) Calculate, in the second case, the speed at which the steel coil collides with the cab
-of the vehicle when it is forced to brake at a constant deceleration and stop at
-exatos $10\ \text{s}$.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1hnQq-trLkJDIQftCBv9dZg7hra9JWm--/view)
+Problem 06 ) The truck shown in the figure transports a steel coil. The coefficients of static friction $\mu_E$ and kinetic friction $\mu_C$ between the coil and the truck bed are respectively equal to $0{,}18$ and $0{,}15$. Consider that the truck is moving with a scalar speed equal to $20\ \text{m/s}$ on a road in two distinct situations: the first, on a horizontal stretch of the road that has a circular curve with the track banked laterally (fig.1), and the second (fig.2), on a straight and horizontal stretch of the road.
+a) Calculate, in the first case, the smallest value of the radius of curvature of the track occupied by the truck that allows it to complete the curve without its load sliding on the truck bed.
+b) Calculate, in the second case, the speed with which the steel coil collides against the cabin of the vehicle when it is forced to brake with a constant deceleration and stop in exactly $10\ \text{s}$.
 
 
 

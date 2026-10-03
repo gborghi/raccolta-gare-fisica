@@ -33,18 +33,11 @@ rimanere appoggiato.
 <div class="qlang-split" data-lang="en"></div>
 
 Q1
-A spherical celestial body has a uniform density $\rho$ and rotates around its axis uniformly. Un
-The rock is placed at a point on the equator.
+A spherical celestial body has uniform density $\rho$ and rotates uniformly about one of its axes. A small stone is placed at a point on the equator.
 •
-Si esprima, in funzione di $\rho$, il periodo minimo di rotazione che il corpo può avere affinche ́ il sassolino possa
-Staying on your back.
+Express, as a function of $\rho$, the minimum rotation period that the body can have in order for the small stone to be able to remain resting on it.
 
-**Topic:** [[Gravitation]], [[Rotational Dynamics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1ZCY5mYY4noa_pN7Nr128TMrqPwoEZInf/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
 
 
 
@@ -192,18 +185,13 @@ su di essi e l’origine nel vertice comune.
 <div class="qlang-split" data-lang="en"></div>
 
 Q4
-The sign of the Full Moon sign is made with an iron scissor which forms a rectangular triangle with sides equal to
-60, 80 and 100 cm and inside a circumference that represents the Moon,
-tangent on three sides. The diameter of the iron scissor is negligible
-The size of the sign.
+The sign of the Osteria della Luna piena is made from an iron rod that forms a right triangle with sides equal to
+60, 80 and 100 cm and, inside, a circle representing the Moon, tangent to the three sides. The diameter of the iron rod is negligible compared to the dimensions of the sign.
 •
-Where on the hypotenuse the sign must be suspended if desired
-That the major catheter is horizontal?
-Suggestions for the following:
-The radius of the circle inscribed in a triangle is given by the ratio between the
-the area of the triangle and its perimeter.
-It is useful to fix a system of Cartesian axes so that the catheters are
-The Commission has already adopted a number of proposals for the implementation of the Community's common agricultural policy.
+At what point of the hypotenuse must the sign be suspended if the longer leg is to be horizontal?
+Hints:
+The radius of the circle inscribed in a triangle is given by the ratio between twice the area of the triangle and its perimeter.
+It is useful to set up a Cartesian coordinate system so that the legs lie on its axes and the origin is at their common vertex.
 
 <!--fig:start-->
 
@@ -219,15 +207,10 @@ The Commission has already adopted a number of proposals for the implementation 
 </figure>
 
 
-*triangle rectangle with inscribed circle*
+*right triangle with inscribed circle*
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ZCY5mYY4noa_pN7Nr128TMrqPwoEZInf/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
 
 
 
@@ -463,28 +446,19 @@ uniforme.
 <div class="qlang-split" data-lang="en"></div>
 
 Q9
-On 12 November 2014 the lander was
-Philae, carried by the Rosetta spacecraft, will land on the comet.
-The Commission has not yet decided whether to proceed with the investigation.
-The lander bounced twice, only stabilizing at third contact with the surface. The trajectory is shown in Figure
-The first bounce and the times are indicated
-The first two contacts with the comet.
+On 12 November 2014 the lander
+Philae, carried by the Rosetta space probe, landed on the comet
+67P/Churyumov-Gerasimenko.
+The lander bounced twice, stabilizing only on the third contact with the surface. The figure shows the trajectory of the first bounce and indicates the times of the first two contacts with the comet.
 •
-Estimate the average gravitational acceleration intensity of comet 67P/Churyumov-Gerasimenko by a model
-(extremely simplified) of gravity
-uniforms.
+Estimate the average magnitude of the gravitational acceleration of comet 67P/Churyumov-Gerasimenko, using an (extremely simplified) model of uniform gravity.
 
 <!--fig:start-->
 ![[_attachments/2liv21T/2liv21T_p4_f5.png]]
-*bounce trajectory Philae x-y with contacts *
+*Philae bounce trajectory x-y with contacts*
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1ZCY5mYY4noa_pN7Nr128TMrqPwoEZInf/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
 
 
 
@@ -902,33 +876,20 @@ Si supponga ora che i due piani siano di materiale conduttore e che vengano coll
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-Two floors loaded
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-On two very long parallel planes, A and B, placed at a distance $a$, it is distributed, so that
-uniform, a negative charge with a surface density of $\sigma$ and $2\sigma$, respectively. Si
-establishes a reference system originating in plane A and the $x$ axis perpendicular to
-It's going to be directed to Plan B, as shown in Figure 1. The following is a list of regions
-of space in a circle of origin O, away from the edges of the planes.
-1. Assuming that the electrostatic potential $V(x)$ is zero in $x = -a$,
-determine the expression of the function; plot the graph of the function $V(x)$, indicating
-The main values on the axes.
-Tip: Remember that potential is a continuous function of position.
-A particle of mass $m$ and charge $q > 0$ is placed in the $x = -a$ and left
-The first step is to go from the ground up. Suppose the planes can be crossed by the particle.
-without any change in the distribution of loads.
-2. Indicate the point at which the particle stops again.
-3. To say at what point the particle reaches its maximum velocity and what that velocity is worth.
-Assume that the two layers are of conductive material and are connected by a resistance wire $R$.
+Two charged planes
+20 points
+On two very extended parallel planes, A and B, placed at a distance $a$, a negative charge is distributed uniformly with surface density $\sigma$ and $2\sigma$, respectively. A reference frame is fixed with origin at plane A and axis $x$ perpendicular to it and directed toward plane B, as in the figure. In what follows, consider the region of space in a neighborhood of the origin O, far from the edges of the planes.
+1. Assuming that the electrostatic potential $V(x)$ is zero at point $x = -a$, determine its expression; draw the graph of the function $V(x)$, indicating the main values on the axes.
+Hint: remember that the potential is a continuous function of position.
+A particle of mass $m$ and charge $q > 0$ is placed at point $x = -a$ and released from rest; assume that the planes can be crossed by the particle without the charge distributions being modified.
+2. State at what point the particle stops again.
+3. State at what point the particle reaches maximum speed and what that speed is.
+Suppose now that the two planes are made of conducting material and are connected with a wire of resistance $R$.
 4. What is the current that initially flows in the wire?
-5. What is the load density in the two planes of equilibrium reached?
+5. What is the charge density in the two planes at equilibrium?
 ———————————
 
-**Topic:** [[Electrostatics]], [[Conservation of Energy]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ZCY5mYY4noa_pN7Nr128TMrqPwoEZInf/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
 
 
 
@@ -964,26 +925,18 @@ Esprimere, in funzione dei dati del problema:
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-The following is the list of the following:
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A mass body $m$ is launched upwards on a sloping plane, with initial speed $v_0$; after
-After a length of $d$ the body stops, starts to descend and passes through the starting point to
-The speed $v_f$.
-The data are used to determine the dynamic friction coefficient $\mu$, the slope $\alpha$ of the plane of respect
-the horizontal and provide an estimate of the static friction coefficient $\mu_s$.
-Explain, depending on the data of the problem:
-1. The $\mathcal{L}$ work done by the dynamic friction force between the initial and final instant.
-2. The body height $h$ from the starting point.
+Rough inclined plane
+20 points
+A body of mass $m$ is launched upward on a rough inclined plane, with initial velocity $v_0$; after traveling a distance of length $d$ the body stops, starts descending and passes through the starting point with velocity $v_f$.
+With these data we want to determine the dynamic friction coefficient $\mu$, the inclination $\alpha$ of the plane with respect to the horizontal, and provide an estimate of the static friction coefficient $\mu_s$.
+Express, as a function of the data of the problem:
+1. The work $\mathcal{L}$ done by the dynamic friction force between the initial and final instants.
+2. The height $h$ reached by the body with respect to the starting point.
 3. The angle $\alpha$ and the dynamic friction coefficient $\mu$.
-4. The extremes of the range in which the static friction coefficient $\mu_s$ is included.
+4. The endpoints of the interval in which the static friction coefficient $\mu_s$ lies.
 ———————————
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1ZCY5mYY4noa_pN7Nr128TMrqPwoEZInf/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
 
 
 
@@ -1081,40 +1034,26 @@ per fini commerciali.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-The Newton rings
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A flat convex lens of glass with a refractive index $n = 1.50$ is fixed
-with vertical axis and downward convexity. Under it
-There is a horizontal glass plane that can be moved vertically
-by means of a micrometer screw of 0,100 mm (see figure). The whole thing
-It is illuminated from above, in a vertical direction, by a spectral lamp
-Sodium (emission wavelength: 589 nm), and rings are formed
-Newton's because of interference between the light reflected from the surface
-The curve of the lens and the one reflected from the glass plane.
-Notes from the book.
-1. For clarity's sake, the lens's curvature radius shown in the figure is much smaller than the actual
-The inter-head gap between the lens and the flat glass is therefore very much exaggerated.
-2. The light rays to be considered are those that are near or parallel to the lens axis.
-Suggestion: keep in mind the approximations in the box on page 1 of 3.
-Initially the lens and the glass plane are in contact, and you notice that the fifth clear border has the radius
+Newton's rings
+20 points
+A plano-convex glass lens with refractive index $n = 1.50$ is fixed with its axis vertical and its convexity facing downward. Below it there is a horizontal glass plane that can be moved vertically by means of a micrometer screw with a pitch of 0.100 mm (see figure). The whole thing is illuminated from above, in the vertical direction, with a sodium spectral lamp (emission wavelength: 589 nm), and Newton's rings form due to interference between the light reflected from the curved surface of the lens and that reflected from the glass plane.
+Notes.
+1. For the sake of clarity, the radius of curvature of the lens shown in the figure is much smaller than the real one, so the air gap between the lens and the flat glass slide appears greatly exaggerated.
+2. The light rays to be considered are the paraxial ones, that is, close and approximately parallel to the axis of the lens.
+Hint: keep in mind the approximations given in the box on page 1 of 3.
+Initially the lens and the glass plane are in contact, and it is observed that the 5th bright fringe has radius
 $r_5 = 5.00$ mm.
-1. After proving that the ratio $r^2 = 2Rd$ is the value of the quantities shown in the figure, the radius of
-curvatura $R$ della lente.
-2. Determine the focal length of the plane lens
-It's used, treated like a thin lens.
-3. Calculate the radius of the third clear fringe.
-Then, by micrometer screw, it moves away
-The glass plane from the lens.
-4. Tell us how you change the ring system by specifying whether the
-The radius of a given fringe increases or decreases.
-5. Pick a point at a distance from the center equal to the radius
-Of the third clear fringe, how many clear fringes cross it as the vines make a full spin?
+1. After proving that among the quantities indicated in the figure the relation $r^2 = 2Rd$ holds, determine the radius of curvature $R$ of the lens.
+2. Determine the focal length of the plano-convex lens used, treating it as a thin lens.
+3. Calculate the radius of the 3rd bright fringe.
+Subsequently, by means of the micrometer screw, the glass plate is moved away from the lens.
+4. State how the ring system changes, specifying whether the radius of a given fringe increases or decreases.
+5. Having chosen a point at a distance from the center equal to the radius of the third bright fringe, how many bright fringes pass through it while the screw makes one complete turn?
 Material prepared by the Group
-BENEFIT: You can use, reproduce, distribute, communicate this material to the public under the following two conditions: cite the source; do not use the material, even partially;
-for commercial purposes.
+NOTE: This material may be used, reproduced, distributed, and communicated to the public under the following two conditions: cite the source; do not use the material, even partially, for commercial purposes.
 <!--fig:start-->
 ![[_attachments/2liv21T/2liv21T_p8_f7.png]]
-* slow-flat Newton ring device*
+*Newton's rings apparatus lens-plate*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -1154,12 +1093,7 @@ for commercial purposes.
 </figure>
 
 
-*schema geometrico anelli di Newton R r d*
+*geometric diagram Newton's rings R r d*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ZCY5mYY4noa_pN7Nr128TMrqPwoEZInf/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kAEvQKETvH33h7bgsmGm8ylbu5pmBNDX/view)

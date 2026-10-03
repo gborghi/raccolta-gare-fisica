@@ -240,99 +240,67 @@ $h = 5\ \text{m}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem one: Ice house.
-In places where ice builds up a lot during the winter, the inhabitants
-They don't have a freezer, they collect the ice in a compound known as the "ice house".
-This one is built with bricks, partially sunk into the ground with walls well
-isolated. The ice house has an outlet for the drainage of water resulting from the
-ice melting and an upper outlet for water vapour (see drawing). The ice that is
-The product is then ground into a glass and then compacted into the glass.
-the corresponding enclosure in the house.
+Problem 1: Ice house.
+In those places where a lot of ice accumulates during the winter, inhabitants who do not have a refrigerator gather the ice in an enclosure known as an "ice house".
+This is built with bricks, partially sunk into the ground with well-insulated walls. The "ice house" has an outlet for draining the water resulting from the melting of the ice and an upper outlet for water vapor (see drawing). The ice that is put into the "ice house" is previously ground and then compacted inside the corresponding enclosure in the house.
 
-The following:
-Consider the air mass within the house and the sublimation of the
-I'll just put some ice on the walls and assume the house walls are perfectly insulating. So, by calling:
-$E$ to the energy per unit time (power) entering the ice house and which is
-absorbed by this,
-$M$ the melting (melting) ice mass per unit of time inside the house,
-$M_v$ to the mass of water vapor evaporated from this water per unit time
-y
-$M_F$ to the water mass that finally flows per unit of time to drainage (drainage),
-the equation of the ice house, this is the mass of ice that melts per unit of
-Time is:
+Instructions:
+Consider negligible the mass of air inside the house and the sublimation of the ice and assume that the walls of the house are perfectly insulating. Thus, calling:
+$E$ the energy per unit time (power) that enters the ice house and is absorbed by it,
+$M$ the mass of ice that melts (thaws) per unit time inside the house,
+$M_v$ the mass of water vapor that evaporates from this water per unit time and
+$M_F$ the mass of water that finally flows per unit time to the drain (drainage),
+"the ice house equation", that is, the mass of ice that melts per unit time is:
 
 $$M = \frac{E - M_v L_v}{L_F} \quad (1)$$
 
-Where $L_v$ and $L_F$ are the heat of water evaporation and ice melting, respectively.
+Where $L_v$ and $L_F$ are the heats of evaporation of water and of fusion of ice, respectively.
 
-(a) Using energy conservation, deduce the equation of the ice house
-(Equation 1)
+a) Using energy conservation, derive the "ice house equation" (equation 1).
 b)
-(b1) Of an expression of ice mass per unit of time ($M_1$) which is
-It would melt if all the power entering the ice house were only
-used in melting ice; $M_v = 0$.
-(b2) Of an expression of ice mass per unit of time ($M_2$) which is
-The Commission has already decided to take the necessary measures to ensure that the Community's
-water; $M_F = 0$.
-(b3) Express the ratio between $M_1$ and $M_2$ in terms of data and calculate its
-The courage.
-(b4) Which of the two situations is less favourable to conservation
-The ice?
-Assuming a $f$ of melted ice mass evaporates, which is
-This is equivalent to saying that the ratio of melting ice mass per unit of
-time ($M$) and evaporated water mass per unit time ($M_v$) are linked
-in the form:
+b1) Give an expression for the mass of ice per unit time ($M_1$) that would melt if all the power entering the ice house were used only to melt ice; $M_v = 0$.
+b2) Give an expression for the mass of ice per unit time ($M_2$) that would melt if all the water produced eventually turned into water vapor; $M_F = 0$.
+b3) Express the ratio between $M_1$ and $M_2$ in terms of the data and calculate its value.
+b4) Which of the two situations is less favorable for the preservation of the ice?
+Assuming that a fraction $f$ of the mass of melted ice evaporates, which is equivalent to saying that the relationship between the mass of ice that melts per unit time ($M$) and the mass of water that evaporates per unit time ($M_v$) are related in the form:
 
 $$M_v = f M \quad (2)$$
 
-(c) Show that equation (1) results in:
+c) Show that equation (1) becomes:
 
 $$M = \frac{E}{L} \qquad \text{donde} \qquad L = L_F + f L_v \quad (3)$$
 
-Consider that the place where the ice is housed, within the ice house, has the
-a cylinder shape of radius $r$ and depth $h$. Suppose the heat exchange with
-The ice is produced through one of the cylinder's circular surfaces; that is, a
-through one of the $A$ area caps, given by:
+Consider that the place where the ice is stored, inside the "ice house", has the shape of a cylinder of radius $r$ and depth $h$. Assume that the heat exchange with the ice occurs through one of the circular surfaces of the cylinder; that is, through one of the end caps of area $A$, given by:
 
 $$A = \pi r^2 \quad (4)$$
 
-Suppose that during the melting process the height $h$ remains constant; it is
-That is, the melting of ice only changes the section of the ice cylinder.
-Under these conditions, the energy per unit time ($E$) entering the ice can be
-expressed as:
+Assume that during the ice melting process, the height $h$ remains constant; that is, the melting of the ice only changes the cross-section of the ice cylinder.
+Under these conditions, the energy per unit time ($E$) that enters the ice can be expressed as:
 
 $$E = -k A \Delta T \quad (5)$$
 
-where $k$ is a constant representing heat exchange with the outside
-(external conduction coefficient) and $\Delta T$ is the temperature difference (thermal jump)
-between the ice and the external environment with which the ice house exchanges heat.
+where $k$ is a constant that represents the heat exchange with the outside (external conduction coefficient) and $\Delta T$ is the temperature difference (thermal gap)
+between the ice and the external medium with which the "ice house" (the ice) exchanges heat.
 
-(d) Using equation (3) and the considerations set out in the preceding paragraph,
-demonstrate that:
+d) Using equation (3) and the considerations expressed in the previous paragraph, show that:
 
 $$M = \frac{-k m \Delta T}{\rho L h} \quad (5)$$
 
-where $m$ is the ice mass present in the ice shed at the time $t$ and $\rho$
-density of the ice.
+where $m$ is the mass of ice present in the "ice house" at time $t$ and $\rho$ is the density of the ice.
 
-From equation (5) the shape of the total ice mass varies
-que hay dentro de la “casa del hielo”, $m$, en función del tiempo. This function is of the
-shape:
+From equation (5) one can obtain the way in which the total mass of ice inside the "ice house", $m$, varies as a function of time. This function has the form:
 
 $$m(t) = m_0\, e^{-bt} \quad (5)$$
 
-where $m_0$ is the initial mass of ice (the one deposited in the ice shed at the start) and $b$
-is a constant given by:
+where $m_0$ is the initial mass of ice (the one deposited in the "ice house" at the beginning) and $b$ is a constant given by:
 
 $$b = \frac{k \Delta T}{\rho L h} \quad (6)$$
 
-(e) From equations (5) and (6) find the time for which the mass of
-ice is halved, under the following conditions:
-e1) When $f = 0$ (no evaporation)
-e2) Cuando $L = 2L_F$. For this situation, also calculate the value
-corresponding to $f$.
+e) From equations (5) and (6), find the time for which the mass of ice is reduced by half, under the following conditions:
+e1) When $f = 0$ (there is no evaporation)
+e2) When $L = 2L_F$. For this situation, in addition, calculate the corresponding value of $f$.
 Express both results in years.
-(e3) Which of the two cases is most favourable for ice conservation?
+e3) Which of the two cases is more favorable for the conservation of the ice?
 
 The values of the constants for the calculations are:
 $k = 2\ \text{W/m}^2\text{K}$
@@ -341,12 +309,6 @@ $L_V = 2{,}26 \times 10^6\ \text{J/kg}$
 $\rho = 800\ \text{kg/m}^3$
 $\Delta T = 20\ \text{K}$
 $h = 5\ \text{m}$
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
 
 
 
@@ -589,119 +551,55 @@ Esprimere tutti i risultati in unità corrispondenti al sistema
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two: Shazam!
-Introduction and Generals.
-The movement of air within the clouds produces a separation of electrical charges
-which are then moved to different parts of the same cell, generating multiple cells or
-loading centres. Because of the presence of these charging centres in the cloud, they generate
-In the earth, the opposite sign loading centers are induction processes as the earth
-He's a good driver. Thus, negative charge centers are generated on the earth as
-image of the positive charge centres in the cloud and vice versa.
-When the concentration of positive and/or negative loads reaches a critical level, the
-electrons are attracted by some of the positive charge cells through the
-The path of less resistance produces an electrical discharge. Sometimes the
-The discharge occurs between the cloud and the ground, and sometimes between charging centres of
-clouds or between centres of the same cloud.
-A lightning strike is a discharge between a cloud's charge center and the charge center on the cloud.
-the earth. When the potential difference between some cloud charging center and the
-The surface of the earth reaches the breakdown voltage of the air $(\Delta V_r)$, the beam is produced.
-The lightning starts as a series of steps or segments about 100 meters
-From the cloud to the earth. These segments do not carry much load and therefore
-They don't emit much light, but they're responsible for generating the channel through which it'll be produced.
-The lightning. As this channel approaches the surface, a second discharge is
-It's spreading from the earth to the cloud. When the two discharges make contact
-The channel is completed by producing a short circuit that lowers most of the load from the
-cloud to earth. This discharge, or short-circuit, lasts a thousandth of a second and can be
-repeat several times through the same channel. What is known as lightning is this
-It is usually composed of several discharges and lasts a fraction of a second.
-When lightning strikes, the electrical discharge deposits a large amount of energy
-In the channel, it reaches a high temperature. This energy is deposited
-The channel section has no
-Time to expand and the pressure increases 10 to 100 times. This great pressure
-It spreads rapidly into the air around the channel producing a wave of
-shock that eventually becomes the sound we call thunder.
+Problem 2: Shazam!
+Introduction and Generalities.
+The movement of air inside clouds produces a separation of electrical charges that are then displaced to different parts of the cloud, generating multiple cells or charge centers. Due to the presence of these charge centers in the cloud, charge centers of opposite sign are generated in the ground by a process of induction, since the ground is a good conductor. Thus, negative charge centers are generated in the ground as an image of the positive charge centers in the cloud and vice versa.
+When the concentration of positive and/or negative charges reaches a critical level, the electrons move, attracted by one of the positive charge cells, through the path of least resistance, producing an electrical discharge. Sometimes the discharge occurs between the cloud and the ground, and other times between charge centers of different clouds or between centers of the same cloud.
+A lightning bolt is a discharge between a charge center of a cloud and the charge center in the ground. When the potential difference between some charge center of the cloud and the Earth's surface reaches the breakdown voltage of air $(\Delta V_r)$, the lightning bolt occurs.
+The lightning begins as a series of steps or segments of about 100 meters from the cloud toward the ground. These segments do not carry much charge and therefore do not emit much light, but they are responsible for generating the channel through which the lightning will occur. As this channel approaches the surface, a second discharge propagates from the ground toward the cloud. When the two discharges make contact, the channel is completed, producing a short circuit that brings most of the charge down from the cloud to the ground. This discharge, or short circuit, lasts one thousandth of a second and can be repeated several times through the same channel. What is known as lightning is generally composed of several discharges and lasts a fraction of a second.
+When lightning occurs, the electrical discharge deposits a large amount of energy in the channel, causing it to reach a high temperature. This energy is deposited very quickly (about a few millionths of a second), so the cross-section of the channel does not have time to expand and the pressure increases between 10 and 100 times. This great pressure rapidly propagates into the air around the channel, producing a shock wave that eventually becomes the sound we call thunder.
 
-The problem
-The height of the base of a storm cloud, relative to land, is approximately
-1000 m. The negative electrical charge located in its lower region can be considered as
-concentrated at a point at an altitude of 5000 m on an axis passing through the
-the centre of the cloud and has a magnitude $Q = -40\ \text{C}$. The presence of this charge induces a
-load density on the earth's surface, which can be modelled by a load
-point $-Q$ located at a distance of 5000 m below ground level.
-1- Determine the electric field, $E$, which produces these charges ($Q$ and $-Q$) on the
-segment connecting them and at a height $h = 4500\ \text{m}$ (A) (see Figure 1).
-2- What is the value $Q$ to be used for the electric field at point A
-reach the break value?
+Problem
+The height of the base of a storm cloud, relative to the ground, is approximately
+1000 m. The negative electric charge located in its lower region can be considered concentrated at a point located at a height of 5000 m on an axis that passes through the center of the cloud and has a magnitude $Q = -40\ \text{C}$. The presence of this charge induces a charge density on the Earth's surface, which can be modeled by a point charge $-Q$ located at a distance of 5000 m below ground level.
+1- Determine the electric field, $E$, that these charges ($Q$ and $-Q$) produce on the segment that joins them and at a height $h = 4500\ \text{m}$ (Point A) (See figure 1).
+2- What value must $Q$ have for the electric field at point A to reach the breakdown value?
 
-Suppose that once $E_r$ is reached at point A, an ionized channel is formed
-between that point and the surface of the earth. This channel behaves like a conductor that
-has an electrical resistance of $50\ \Omega$ cm within the cloud and $350\ \Omega$ cm outside the cloud
-I'm not. Considering that the channel is straight and has a constant diameter of 46
-cm,
-3- Calculate the electrical resistance of the channel in the cloud ($R_{c1}$) and outside the cloud
-misma ($R_{c2}$).
+Assume that once the value $E_r$ is reached at point A, an ionized channel forms between that point and the Earth's surface. This channel behaves as a conductor that has an electrical resistivity of $50\ \Omega$ cm inside the cloud and $350\ \Omega$ cm outside it. Considering that the channel is straight and has a constant diameter of 46 cm,
+3- Calculate the electrical resistance of the channel inside the cloud ($R_{c1}$) and outside it ($R_{c2}$).
 4- Calculate the total electrical resistance of the channel ($R_c$).
 5- Calculate the potential difference $(\Delta V_r)$ between the ends of the channel.
 
-This channel establishes an electric current ($i_r$) that lowers the load from the cloud to the
-the earth. Assuming that the potential difference remains constant during the
-electrical discharge.
-6- Calculate the value of this current.
+In this channel an electric current is established ($i_r$) that carries charge down from the cloud to the ground. Assuming that the potential difference remains constant during the electrical discharge.
+6- Calculate the value of said current.
 
-Suppose the air is an ideal diatomic gas and initially the whole channel has a
-pressure atmosphere and a temperature of $20\ ^\circ\text{C}$.
+Assume the air to be a diatomic ideal gas and that initially the entire channel has an atmosphere of pressure and a temperature of $20\ ^\circ\text{C}$.
 7- Calculate the number of moles ($n$) of gas in the channel.
 
-The flow of current through the conductive channel increases the temperature of the conductive channel. Like the
-The process is extremely fast ($25\ \mu\text{s}$) it can be considered that the heating of the channel
-The volume of the product is not changed. Disregarding the Light Energy
-This is assuming that all the energy received by the channel through the passage of the
-The current is delivered to the gas forming the channel and no energy is lost by conduction
-the gas outside the channel,
+The passage of current through the conducting channel increases its temperature. Since the process is extremely fast ($25\ \mu\text{s}$), it can be considered that the heating of the channel occurs without it changing its volume. Neglecting the radiated light energy, that is, assuming that all the energy received by the channel from the passage of current is delivered to the gas that forms the channel and that no energy is lost by conduction to the gas outside the channel,
 8- Calculate the final temperature ($T_f$) of the channel.
 9- Calculate the final pressure ($P_f$) inside the channel.
 
-The pressure difference between the inside and outside of the channel causes a wave of
-shock, whose audible signal we call thunder. In a good approximation, you can
-Consider that the audible signal we detect travels from its emission (on the channel) to the
-the detector, at the speed of sound.
-Consider a lightning detection and location system consisting of three antennas. The Commission
-The antennas are located at the vertices of an equilateral triangle of 10 km
-side.
-Each antenna detects the light and sound signal produced by the lightning. In good condition
-The signal detected by the antennas is assumed to be emitted
-by lightning at ground level. Each antenna measures the difference in the arrival time of the
-two $(\Delta t)$ signals with an accuracy of $3 \times 10^{-2}\ \text{s}$. If antenna 1 measured a $\Delta t_1 = 24.43\ \text{s}$, the 2
-measured $\Delta t_2 = 15.51\ \text{s}$ and antenna 3 measured $\Delta_3 = 38.85\ \text{s}$,
-10- Determine the distances, above the surface of the earth, between the place where the
-The lightning struck and each of the antennas fell. Express these amounts with your
-Uncertainty.
-11- Graphically identify possible signal locations
-detected by each antenna. For this, use the millimeter sheet
-I'll get you some supplies. On the graph, indicate the position where the lightning struck.
-12- Estimate the value of the error in the position where the lightning fell from the graph.
+The pressure difference between the inside and the outside of the channel causes a shock wave, whose audible signal we call thunder. As a good approximation, it can be considered that the audible signal we detect travels from its emission (in the channel) to the detector at the speed of sound.
+Consider a lightning detection and location system consisting of three antennas. The antennas are located at the vertices of an equilateral triangle with a side of 10 km.
+Each antenna detects the light signal and the sound signal produced by the lightning. As a good approximation, it can be assumed that the signals detected by the antennas are emitted by the lightning at ground level. Each antenna measures the difference in arrival time of the two signals $(\Delta t)$ with a precision of $3 \times 10^{-2}\ \text{s}$. If antenna 1 measured a $\Delta t_1 = 24.43\ \text{s}$, antenna 2 measured a $\Delta t_2 = 15.51\ \text{s}$ and antenna 3 measured a $\Delta_3 = 38.85\ \text{s}$,
+10- Determine the distances, on the surface of the Earth, between the place where the lightning struck and each of the antennas. Express these quantities with their uncertainty.
+11- Graphically determine the possible places of emission of the signals detected by each of the antennas. To do this, use the provided millimeter paper. On the graph, indicate the position where the lightning struck.
+12- Estimate from the graph the value of the error in the position where the lightning struck.
 
-Suppose the air breakage field is $3000\ \text{V/mm}$.
-Suppose the permittivity of the air is equal to the permittivity of the vacuum,
+Assume that the breakdown field of air is $3000\ \text{V/mm}$.
+Assume that the permittivity of air is equal to the permittivity of vacuum,
 $\varepsilon_0 = 8.85 \times 10^{-12}\ \text{C/(V m)}$.
 The universal gas constant is
 $R = 8.32\ \text{J/(mol K)}$.
-Suppose the speed of propagation of the light signal is
-$c = 300000\ \text{km/s}$ y que la
-The speed of sound is
+Assume that the propagation speed of the light signal is
+$c = 300000\ \text{km/s}$ and that the speed of sound is
 $u = 330\ \text{m/s}$.
-For an ideal diatomic gas the molar heat capacity at constant volume is
+For a diatomic ideal gas the molar heat capacity at constant volume is
 $C_v = \frac{5}{2} R$.
 $1\ \text{atm} = 1.01325 \times 10^5\ \text{Pa}$.
 
-Express all your results in units for the system
-The Commission is not a party to the agreement.
-
-**Topic:** [[Electrostatics]], [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Error Propagation (competenza)|Error Propagation]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
+Express all your results in units corresponding to the International System.
 
 
 
@@ -845,92 +743,44 @@ $$\gamma = \omega^2 \alpha.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3: Un pendolo ingravato.
-Mercoledì 24 agosto di quest'anno, la nave spaziale russa Progress M-112M,
-decollato dal cosmodromo di Baikonur in Kazakistan per la stazione
-Spazio spaziale internazionale (ISS). Tuttavia, dopo 325 secondi di volo il razzo russo Soyuz-U
-l'interruzione di un'attesa e il carico di diverse tonnellate con forniture per l'ISS
-si è disintegrata nel cadere. La carica utile distrutta, oltre a cibo, combustibile e
-I materiali per il normale funzionamento della ISS, contenevano diversi esperimenti
-scienziati per essere realizzati nello spazio. La prossima nave con rifornimenti, Progress
-M-13M/Soyuz U, ha previsto il suo volo solo per il prossimo 30 ottobre. Quindi,
-l'equipaggio 29 della ISS in volo, composto da Sergey Volkov, Michael E. Fossum e
-Satoshi Furukawa, non avendo modo di fare gli esperimenti previsti, dispone di più
-tempo libero.
-Per divertirsi nei loro lunghi passaggi di tempo libero, l'equipaggio si è impegnato a progettare un
-pendolo che funziona in condizioni di gravità in cui si trova all'interno di
-l'ISS. Per questo motivo, sono state recuperate una sfera di materiale non radioconduttore $R = 20\ \text{cm}$. Al
-La sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$, la sfera ha acquisito una carica elettrica positiva $Q = 2\ \mu\text{C}$.
-La maggior parte delle regioni del mondo è costituita da regioni di
-la superficie della sfera. Poi hanno saldato una piccola sfera di metallo pesante,
-La massa $m = 50\ \text{g}$ era nota in anticipo, a un filo molto sottile e inestensibile e non
-un conducente di lunghezza $l = 2{,}30\ \text{m}$. Questo filo, per ogni finalità pratica, può essere considerato di massa
-- Desprezioso. Per mettere in piedi il pendolo, hanno attaccato la sfera carica su uno dei muri del
-Colombo modulo, così che rimase immobile e fissato l'estremità libera del filo nel
-punto o, del muro opposto, in modo tale che la piccola sfera metallica rimanga quasi
-toccando la sfera carica (ma senza contatto) quando il filo è completamente stretto,
-come mostrato nel diagramma (A) della figura. In questo modo, la distanza tra il
-punto di fissaggio del filo, o, e il centro della sfera, c, è mantenuto costante uguale a $R +
-l$.
-Infine, per attirare le due sfere, hanno trasferito una carica negativa.
-$q = -1\ \mu\text{C}$ alla sfera metallica. In uno dei laboratori della ISS,
-strumentale per il trasferimento controllato del carico desiderato.
+Problema 3: Un pendolo senza peso.
+Mercoledì 24 agosto di quest'anno, la navicella spaziale russa Progress M-112M è decollata dal cosmodromo di Baikonur in Kazakistan con destinazione la stazione spaziale internazionale (ISS). Tuttavia, dopo 325 s di volo il razzo russo Soyuz-U si è spento in modo imprevisto e il carico di diverse tonnellate con i rifornimenti per la ISS si è disintegrato nella caduta. Il carico utile distrutto, oltre a cibo, combustibile e rifornimenti per il normale funzionamento della ISS, conteneva diversi esperimenti scientifici da realizzare nello spazio. La successiva navicella con i rifornimenti, Progress
+M-13M/Soyuz U, ha previsto il suo volo solo per il prossimo 30 ottobre. Pertanto, l'equipaggio 29 della ISS in volo, composto da Sergey Volkov, Michael E. Fossum e
+Satoshi Furukawa, non avendo modo di realizzare gli esperimenti previsti, dispone di più tempo libero.
+Per divertirsi nei loro ormai lunghi momenti di ozio, l'equipaggio si mise a progettare un pendolo che funzioni nelle condizioni di assenza di gravità in cui si trova all'interno della ISS. A tal fine, recuperarono una sfera di materiale non conduttore di raggio $R = 20\ \text{cm}$. Strofinandola con un panno sintetico, la sfera acquisì una carica elettrica positiva $Q = 2\ \mu\text{C}$, che si può supporre sia distribuita omogeneamente su tutta la superficie della sfera. Poi, saldarono una minuscola sfera, di un metallo pesante, la cui massa $m = 50\ \text{g}$ era nota in anticipo, a un filo molto sottile inestensibile e non conduttore di lunghezza $l = 2{,}30\ \text{m}$. Questo filo, a tutti gli effetti pratici, può considerarsi di massa trascurabile. Per assemblare il pendolo, incollarono la sfera carica a una delle pareti del modulo Columbus, in modo che rimanesse immobile, e fissarono l'estremità libera del filo nel punto o, della parete opposta, in modo tale che la piccola sfera metallica rimanga "quasi" toccando la sfera carica (ma senza contatto) quando il filo è completamente teso, come mostrato nel diagramma (A) della figura. In questo modo, la distanza tra il punto di fissaggio del filo, o, e il centro della sfera, c, rimane costante e uguale a $R + l$.
+Infine, affinché entrambe le sfere si attraggano tra loro, trasferirono una carica negativa
+$q = -1\ \mu\text{C}$ alla sferetta metallica. In uno dei laboratori della ISS, dispongono di strumentazione per trasferire la carica desiderata in modo controllato.
 
 Domande:
 (a)
-Calcolare la tensione del filo in posizione di riposo in equilibrio stabile.
+Calcolare la tensione del filo nella posizione di riposo in equilibrio stabile.
 (b)
-Per calcolare il periodo del pendolo, la prima idea è ricordare la
-similitudine tra la legge di gravitazione universale di Newton e la legge di Coulomb.
-Considerando la relazione tra le due leggi e il fatto che la
-In entrambi i casi l'accelerazione è definita dal rapporto $F = m a$, dove $a = g$
-in caso di gravità e $a = g_e$ in caso elettrico, calcolare il valore della
-la corrispondente accelerazione $g_e$ per il caso elettrico.
-(c) A partire dall'espressione del periodo di un semplice pendolo nel caso gravitazionale,
-calcolare il valore risultante per il periodo di pendolo non gravato corrispondente.
+Per calcolare il periodo del pendolo, la prima idea consiste nel ricordare la somiglianza tra la legge di gravitazione universale di Newton e la legge di Coulomb.
+Tenendo conto della relazione tra le due leggi e del fatto che l'accelerazione in entrambi i casi è definita dalla relazione $F = m a$, dove $a = g$ nel caso gravitazionale e $a = g_e$ nel caso elettrico, calcolare il valore della corrispondente accelerazione $g_e$ per il caso elettrico.
+(c) A partire dall'espressione del periodo di un pendolo semplice nel caso gravitazionale, calcolare il valore risultante per il corrispondente periodo del pendolo senza peso.
 
-Una volta costruito il pendolo, gli astronauti notarono che il periodo calcolato differì
-La misurazione con un cronometro è molto più breve. Con
-Buona scelta, Michael E. Fossum, che ha un master in fisica, ha concluso che
-non sono soddisfatte le condizioni in base alle quali è valida la formula del periodo di un
-un pendolo semplice nel caso del pendolo ingravato costruito. Per trovare la
-La formulazione corretta per questo caso è stata la seguente:
-- dobbiamo riprodurre:
+Una volta costruito il pendolo, gli astronauti notarono che il periodo calcolato differiva parecchio rispetto a quello misurato con un cronometro, il quale risulta bastante più breve. Con buon criterio, Michael E. Fossum, che ha un master in Fisica, concluse che non sono soddisfatte le condizioni sotto le quali è valida la formula del periodo di un pendolo semplice nel caso del pendolo senza peso costruito. Al fine di trovare l'espressione corretta per questo caso, procedette a eseguire i seguenti calcoli che dobbiamo riprodurre:
 (d)
-La sfera di massa $m$ viene spostata in modo che il filo forma una piccola
-L'angolo $\alpha$ rispetto alla linea $\overline{oc}$. Disegnare un diagramma di corpo isolato per la
-massa $m$, tracciando qualitativamente tutti i vettori delle forze che agiscono
-- Su di lei.
+Si sposta la sferetta di massa $m$, in modo che il filo formi un piccolo angolo $\alpha$ rispetto alla linea $\overline{oc}$. Disegnare un diagramma di corpo isolato per la massa $m$, tracciando qualitativamente tutti i vettori delle forze che agiscono su di essa.
 (e)
-In precedenza, scrivere l'espressione analitica per
-l'intensità della forza di attrazione tra le sfere.
-(f) Usando il diagramma di schema (B) della figura, decompone i vettori
-forza in componenti lungo la direzione del filo (componente centripeta)
-e perpendicolare a questa (componente tangenziale).
+Nella situazione del punto precedente, scrivere l'espressione analitica per l'intensità della forza di attrazione tra le sfere.
+(f) Utilizzando il diagramma nello schema (B) della figura, scomporre i vettori forza in componenti lungo la direzione del filo (componente centripeta)
+e perpendicolari a questa (componente tangenziale).
 (g)
-Scrivere la seconda legge di Newton relativa alla direzione del filo e a
-l'indirizzo tangenziale, utilizzando i componenti calcolati nell'articolo precedente.
+Scrivere la seconda legge di Newton corrispondente alla direzione del filo e alla direzione tangenziale, utilizzando le componenti calcolate nel punto precedente.
 (h)
-Ricordiamo che l'accelerazione tangenziale, $a$, è correlata alla
-Accelerazione angolare, $\gamma$, secondo $a = l \gamma$, scrivere la seconda legge di Newton
-corrispondente alla direzione tangenziale per piccole oscillazioni del pendolo;
-in primo ordine (o lineare) all'angolo $\alpha$.
-(i) Scrivere l'espressione per la frequenza angolare di piccole oscillazioni del
-pendolo ingravido.
-(j) Calcolare il valore numerico risultante per il periodo del pendolo, nel caso in cui:
-particolare costruito dagli astronauti.
-(k) Dall'espressione della frequenza angolare calcolata in (i), quale
-condizione deve essere soddisfatta tra $R$ e $L$ per ottenere il risultato
-calcolato nell'articolo (c)?
-(l) Sulla base dell'espressione della frequenza angolare calcolata in (i), analizzare
-come è la dipendenza della frequenza angolare nel caso limite in cui
+Ricordando che l'accelerazione tangenziale, $a$, è legata all'accelerazione angolare, $\gamma$, secondo $a = l \gamma$, scrivere la seconda legge di Newton corrispondente alla direzione tangenziale per piccole oscillazioni del pendolo;
+cioè, al primo ordine (o lineare) nell'angolo $\alpha$.
+(i) Scrivere l'espressione per la frequenza angolare di piccole oscillazioni del pendolo senza peso.
+(j) Calcolare il valore numerico risultante per il periodo del pendolo, nel caso particolare costruito dagli astronauti.
+(k) A partire dall'espressione della frequenza angolare calcolata nel punto (i), quale condizione deve essere soddisfatta tra i valori di $R$ e $L$ per ottenere il risultato calcolato nel punto (c)?
+(l) A partire dall'espressione della frequenza angolare calcolata nel punto (i), analizzare come dipende la frequenza angolare nel caso limite in cui
 $l \gg R$.
 
 Informazioni utili:
 (1)
 La costante di Coulomb è
-$k = (4\pi\varepsilon_0)^{-1}$, dove $\varepsilon_0$ è la costante
-dieletrica del vuoto. Così,
+$k = (4\pi\varepsilon_0)^{-1}$, dove $\varepsilon_0$ è la costante dielettrica del vuoto. Così,
 $k = 9 \times 10^9\ \text{N m}^2/\text{C}^2$.
 (2)
 Le seguenti relazioni trigonometriche sono sempre valide:
@@ -940,130 +790,72 @@ $$\text{sen}(\alpha + \beta) = \text{sen}(\alpha)\cos(\beta) + \cos(\alpha)\,\te
 $$\cos(\theta) = \sqrt{1 - \text{sen}^2(\theta)}.$$
 
 (3)
-Utilizzando le relazioni trigonometriche nel diagramma dello schema (B) della
-figura, si ottiene:
+Utilizzando relazioni trigonometriche nel diagramma dello schema (B) della figura, risulta:
 
 $$\text{sen}(\alpha) = h/l,$$
 
 $$\text{sen}(\beta) = h/r.$$
 
 (4)
-Usando il teorema del coseno nel diagramma dello schema (B) della figura,
-risulta:
+Usando il teorema del coseno nel diagramma dello schema (B) della figura, risulta:
 
 $$r^2 = l^2 + (l + R)^2 - 2l(l + R)\cos(\alpha).$$
 
 (5)
-Se l'angolo $\theta$ è piccolo, ed è espresso in radiani, sono valide le
-le seguenti approcci:
+Se l'angolo $\theta$ è piccolo, ed è espresso in radianti, sono valide le seguenti approssimazioni:
 
 $$\text{sen}(\theta) \approx \theta, \qquad \cos(\theta) \approx 1 - \theta^2/2.$$
 
 (6)
-Se $x \ll 1$, allora vale il seguente approccio:
+Se $x \ll 1$, allora è valida la seguente approssimazione:
 
 $$\sqrt{1 - x^2} \approx 1 - x^2/2.$$
 
 (7)
-L'equazione di movimento di un pendolo per piccole oscillazioni, è
-dire in primo ordine (o lineare) all'angolo $\alpha$, è
+L'equazione del moto di un pendolo per piccole oscillazioni, cioè al primo ordine (o lineare) nell'angolo $\alpha$, è
 
 $$\gamma = \omega^2 \alpha.$$
 
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)
-
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three: a weightless pendulum.
-On Wednesday, August 24th of this year, the Russian spacecraft Progress M-112M,
-It took off from the Baikonur Cosmodrome in Kazakhstan with a destination at the station
-The European Union has also adopted a number of measures to combat the spread of the virus. However, after 325 s of flight the Russian Soyuz-U rocket
-It was unforeseen and the cargo of several tons with supplies to the ISS
-It disintegrated in the fall. The waste payload, in addition to food, fuel and
-Supplies for the normal operation of the ISS, contained several experiments
-scientists to be carried out in space. Next ship with supplies, Progress
-M-13M/Soyuz U, is scheduled to fly only for October 30th. So, what's the point?
-The 29th crew of the ISS in flight, composed of Sergey Volkov, Michael E. Fossum and
-Satoshi Furukawa, who cannot carry out the planned experiments, has more
-Free time.
-To entertain themselves in their now long leisure time, the crew set out to design a
-pendulum operating under the unweight conditions in which it is located within
-The ISS. To this end, they recovered a sphere of radio non-conductive material $R = 20\ \text{cm}$. Al
-The sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge $Q = 2\ \mu\text{C}$, the sphere obtained a positive electrical charge.
-The Commission has therefore decided to adopt a proposal for a regulation on the
-surface of the sphere. Then they welded a small ball of heavy metal,
-The mass $m = 50\ \text{g}$ was known in advance, to a very fine, unextended wire and not to a
-The length of the driver $l = 2{,}30\ \text{m}$. This thread can be considered to be mass for all practical purposes.
-I'm not a big fan of this. To arm the pendulum, they stuck the loaded sphere on one of the walls of the
-The Columbus module, so that it remained motionless and fixed the free end of the thread in the
-point or, of the opposite wall, so that the small metal sphere is left almost
-touching the loaded (but contactless) sphere when the thread is fully stretched,
-as shown in Figure (A) of the figure. In this way, the distance between the
-The thread's grip point, or, and the center of the sphere, c, is kept constant equal to $R +
-l$.
-Finally, to attract both spheres to each other, they transferred a negative charge.
-The metal sphere is $q = -1\ \mu\text{C}$. In one of the ISS laboratories, they have
-instrumental for the controlled transfer of the desired load.
+Problem 3: A weightless pendulum.
+On Wednesday, August 24 of this year, the Russian spacecraft Progress M-112M lifted off from the Baikonur Cosmodrome in Kazakhstan bound for the International Space Station (ISS). However, after 325 s of flight the Russian Soyuz-U rocket shut down unexpectedly and the several-ton payload of supplies for the ISS disintegrated as it fell. The destroyed payload, besides food, fuel and supplies for the normal operation of the ISS, contained several scientific experiments to be carried out in space. The next supply spacecraft, Progress
+M-13M/Soyuz U, is scheduled to fly only on October 30. Therefore, the crew 29 of the ISS in flight, composed of Sergey Volkov, Michael E. Fossum and
+Satoshi Furukawa, having no way to carry out the planned experiments, has more free time.
+To amuse themselves in their now long leisure hours, the crew set about designing a pendulum that would work under the weightless conditions in which they find themselves inside the ISS. To this end, they retrieved a sphere of non-conducting material of radius $R = 20\ \text{cm}$. By rubbing it with a synthetic cloth, the sphere acquired a positive electric charge $Q = 2\ \mu\text{C}$, which can be assumed to be uniformly distributed over the entire surface of the sphere. Then, they welded a tiny sphere, made of a heavy metal, whose mass $m = 50\ \text{g}$ was known beforehand, to a very fine, inextensible, non-conducting wire of length $l = 2{,}30\ \text{m}$. This thread, for all practical purposes, can be considered to have negligible mass. To assemble the pendulum, they glued the charged sphere to one of the walls of the Columbus module, so that it remained motionless, and they fixed the free end of the thread at point o, on the opposite wall, in such a way that the small metal sphere is "almost" touching the charged sphere (but without contact) when the thread is completely stretched, as shown in diagram (A) of the figure. In this way, the distance between the attachment point of the thread, o, and the center of the sphere, c, remains constant and equal to $R + l$.
+Finally, so that the two spheres would attract each other, they transferred a negative charge
+$q = -1\ \mu\text{C}$ to the small metal sphere. In one of the ISS laboratories, they have instruments available to transfer the desired charge in a controlled manner.
 
 Questions:
 (a)
-Calculate the tension of the thread in the resting position in stable equilibrium.
+Calculate the tension of the thread in the position of rest in stable equilibrium.
 (b)
-To calculate the period of the pendulum, the first idea is to recall the
-similarity between Newton's law of universal gravitation and Coulomb's law.
-Given the relationship between the two laws and the fact that the
-acceleration in both cases is defined by the $F = m a$ ratio, where $a = g$
-In the gravitational case and $a = g_e$ in the electrical case, calculate the value of the
-The acceleration $g_e$ for the electrical case shall be the same.
-(c) From the expression of the period of a simple pendulum in the gravitational case,
-calculate the resulting value for the corresponding unweighted pendulum period.
+To calculate the period of the pendulum, the first idea is to recall the similarity between Newton's law of universal gravitation and Coulomb's law.
+Taking into account the relationship between both laws and the fact that the acceleration in both cases is defined by the relation $F = m a$, where $a = g$ in the gravitational case and $a = g_e$ in the electric case, calculate the value of the corresponding acceleration $g_e$ for the electric case.
+(c) From the expression for the period of a simple pendulum in the gravitational case, calculate the resulting value for the corresponding period of the weightless pendulum.
 
-Once the pendulum was built, the astronauts noticed that the calculated period differed
-The Commission has already taken a number of measures to ensure that the Community's financial resources are adequately used. With
-That's a good point, Michael E. Fossum, who has a master's degree in physics, concluded that
-the conditions under which the formula for the period of one year is valid are not met
-simple pendulum in the case of the built-in gravity pendulum. In order to find the
-The Commission's proposal for a regulation on the
-We must reproduce:
+Once the pendulum was built, the astronauts noticed that the calculated period differed considerably from the one measured with a stopwatch, which is considerably shorter. With good judgment, Michael E. Fossum, who holds a master's degree in Physics, concluded that the conditions under which the formula for the period of a simple pendulum is valid are not satisfied in the case of the weightless pendulum that was built. In order to find the correct expression for this case, he proceeded to carry out the following calculations, which we must reproduce:
 (d)
-The mass sphere $m$ is displaced so that the thread forms a small
-angle $\alpha$ with respect to the line $\overline{oc}$. Draw an isolated body diagram for the
-mass $m$, qualitatively mapping all vectors of the forces acting
-about her.
+The small sphere of mass $m$ is displaced, so that the thread forms a small angle $\alpha$ with respect to the line $\overline{oc}$. Draw a free-body diagram for the mass $m$, qualitatively tracing all the force vectors acting on it.
 (e)
-In the situation of the previous item, write the analytical expression for the
-The intensity of the force of attraction between the spheres.
-(f) Using the diagram in Schedule (B) of the figure, break down the vectors
-Strength in components along the direction of the wire (centripet component)
+In the situation of the previous item, write the analytical expression for the magnitude of the attractive force between the spheres.
+(f) Using the diagram in scheme (B) of the figure, decompose the force vectors into components along the direction of the thread (centripetal component)
 and perpendicular to it (tangential component).
 (g)
-Write Newton's second law corresponding to the direction of the thread and a
-tangential direction, using the components calculated in the previous item.
+Write Newton's second law corresponding to the direction of the thread and to the tangential direction, using the components calculated in the previous item.
 (h)
-The tangential acceleration, $a$, is related to the
-angular acceleration, $\gamma$, according to $a = l \gamma$, write Newton's second law
-corresponding to the tangential direction for small oscillations of the pendulum;
-i.e. in the first order (or linear) at the angle $\alpha$.
-(i) Write the expression for the angular frequency of small oscillations of the
-The weightless pendulum.
-(j) Calculate the resulting numerical value for the period of the pendulum, in the case of
-It's a particular one built by astronauts.
-(k) From the expression of the angular frequency calculated in item (i), what
-condition must be met between $R$ and $L$ to obtain the result
-calculated in item (c)?
-(l) From the expression of the angular frequency calculated in item (i), analyse the
-as is the angular frequency dependence in the limit case in which
+Recalling that the tangential acceleration, $a$, is related to the angular acceleration, $\gamma$, according to $a = l \gamma$, write Newton's second law corresponding to the tangential direction for small oscillations of the pendulum;
+that is, to first order (or linear) in the angle $\alpha$.
+(i) Write the expression for the angular frequency of small oscillations of the weightless pendulum.
+(j) Calculate the resulting numerical value for the period of the pendulum, in the particular case built by the astronauts.
+(k) From the expression for the angular frequency calculated in item (i), what condition must be satisfied between the values of $R$ and $L$ to obtain the result calculated in item (c)?
+(l) From the expression for the angular frequency calculated in item (i), analyze how the angular frequency depends in the limiting case in which
 $l \gg R$.
 
 Useful information:
 (1)
 The Coulomb constant is
-$k = (4\pi\varepsilon_0)^{-1}$, where $\varepsilon_0$ is the constant
-The vacuum dielectric. So, this is it.
+$k = (4\pi\varepsilon_0)^{-1}$, where $\varepsilon_0$ is the dielectric constant of vacuum. Thus,
 $k = 9 \times 10^9\ \text{N m}^2/\text{C}^2$.
 (2)
 The following trigonometric relations are always valid:
@@ -1073,22 +865,19 @@ $$\text{sen}(\alpha + \beta) = \text{sen}(\alpha)\cos(\beta) + \cos(\alpha)\,\te
 $$\cos(\theta) = \sqrt{1 - \text{sen}^2(\theta)}.$$
 
 (3)
-Using trigonometric relations in the diagram of the scheme (B) of the
-Figure, it is:
+Using trigonometric relations in the diagram of scheme (B) of the figure, it follows that:
 
 $$\text{sen}(\alpha) = h/l,$$
 
 $$\text{sen}(\beta) = h/r.$$
 
 (4)
-Using the cosine theorem in the diagram of the diagram (B) of the figure,
-The result is:
+Using the law of cosines in the diagram of scheme (B) of the figure, it follows that:
 
 $$r^2 = l^2 + (l + R)^2 - 2l(l + R)\cos(\alpha).$$
 
 (5)
-If the angle $\theta$ is small, and is expressed in radians, the
-the following approaches:
+If the angle $\theta$ is small, and is expressed in radians, the following approximations are valid:
 
 $$\text{sen}(\theta) \approx \theta, \qquad \cos(\theta) \approx 1 - \theta^2/2.$$
 
@@ -1098,13 +887,6 @@ If $x \ll 1$, then the following approximation is valid:
 $$\sqrt{1 - x^2} \approx 1 - x^2/2.$$
 
 (7)
-The motion equation of a pendulum for small oscillations, is
-say in first order (or linear) at the angle $\alpha$, is
+The equation of motion of a pendulum for small oscillations, that is, to first order (or linear) in the angle $\alpha$, is
 
 $$\gamma = \omega^2 \alpha.$$
-
-**Topic:** [[Electrostatics]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1ZTRrVBZl7j7CCKRCR2s9TUxZjM6J5fi1/view)

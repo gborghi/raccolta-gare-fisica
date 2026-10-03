@@ -74,24 +74,18 @@ Unità di misura: rad/s. Precisione richiesta: 0.5%.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages:
+**Shuriken**
 
-A disc of stone $5.0\,\text{kg}$ and radius $20\,\text{cm}$ has two small pieces of lead $20\,\text{g}$ each, in diametrically opposite positions on the side surface, as shown in Figure 1. The disc, with solid-state plumbing, is rotating around its axis at an angular speed of $10\,\text{rad/s}$. If at some point the plumbing suddenly breaks off, what will be the next angular velocity of the single disc?
+A stone disk of mass $5.0\,\text{kg}$ and radius $20\,\text{cm}$ has two small pieces of lead of mass $20\,\text{g}$ each, in diametrically opposite positions on the lateral surface, as in the figure. The disk, with the lead pieces attached, is rotating about its axis with an angular velocity of $10\,\text{rad/s}$. If at a certain instant the lead pieces suddenly detach, what will be the subsequent angular velocity of the disk alone?
 
-
-The unit of measurement: rad/s. Precision required: 0.5%.
+Unit of measurement: rad/s. Required precision: 0.5%.
 
 <!--fig:start-->
 ![[_attachments/all_marinelli2024t/all_marinelli2024t_p3_f1.png]]
-*disc with two lead masses diametrically opposite*
+*disk with two diametrically opposite lead masses*
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1EJFT8hzYV_nJIPsGRLXj5mgZ_Ay1lKTv/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-o-xoIN6r-7UStD3zsEfFEL11-QslvVK/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1-o-xoIN6r-7UStD3zsEfFEL11-QslvVK/view)
 
 
 

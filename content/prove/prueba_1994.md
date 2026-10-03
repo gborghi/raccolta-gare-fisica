@@ -60,83 +60,41 @@ agua.
 
 <div class="qlang-split" data-lang="it"></div>
 
-PROBLEMA 1: Un regnatore notturno per le vacanze.
+PROBLEMA 1: UN IRRIGATORE NOTTURNO PER LE VACANZE.
 
-Quando si va in vacanza e non c'è nessuno in casa, uno dei problemi è
-La cosa che si vuole fare è irrigare le piante con una certa quantità di acqua al giorno. Ci sono molti
-risorse per evitare che le piante in loro vasi si asciugino a causa della mancanza di irrigazione. Uno di loro usa un
-apparecchiato (regatore notturno) (vedi figura), che si avvale della variazione di temperatura tra la notte e il
-giorno. L'acqua che entra dal bottiglio alla lampadina, si diffonde attraverso il cotone umido verso
-la terra del vaso.
+Quando si parte per le vacanze e non rimane nessuna persona in casa, uno dei problemi che si pone è mantenere annaffiate le piante con una certa quantità d'acqua giornaliera. Esistono molti espedienti per evitare che le piante nei loro vasi si secchino per mancanza di irrigazione. Uno di essi utilizza un piccolo dispositivo (irrigatore notturno) (vedi figura), che sfrutta la variazione di temperatura tra la notte e il giorno. L'acqua che entra dal bottiglione al bulbo, si diffonde attraverso il cotone umido verso la terra del vaso.
 
-L'irrigatore è installato durante il giorno in modo tale che la pressione nell'ampolla sia la pressione
-- Atmosferica.
+L'irrigatore si installa durante il giorno in modo tale che la pressione nel bulbo sia la pressione atmosferica.
 
-L'estremità superiore del cotone umido forma un menisco di acqua che, a tensione, si
-superficiale, impedisce l'ingresso di aria nell'ampolla.
+All'estremità superiore del cotone umido si forma un menisco d'acqua che, per tensione superficiale, impedisce l'ingresso dell'aria nel bulbo.
 
-Supponiamo che il volume della lampadina sia abbastanza grande da poter
-La Commissione ha inoltre adottato una decisione che prevede che le misure di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
-l'acqua all'interno della lampadina, o dall'ascesa o dal discesa della colonna d'acqua nel tubo sottile.
-Inoltre, per semplificare i calcoli, supponiamo che durante il giorno la temperatura si mantenga
-costante e pari a $25\ ^\circ\text{C}$, per sei ore di notte a $10\ ^\circ\text{C}$ e che la pressione atmosferica
-rimane costante. In queste condizioni calcoli:
-a) La differenza massima di altezza $h$ per irrigare effettivamente l'impianto per sei
-ore notturne.
-Supponiamo che la goccia all'estremità del tubo sottile, che è all'interno del bulbo, sia stata
-preparato per fornire, in media, una goccia di $2\ \text{mm}$ di diametro per $2\ \text{s}$.
-b) Calcolare la quantità minima di acqua che il bottiglio deve contenere se vogliamo assicurare un'irrigazione
-ogni giorno per 30 giorni.
+Si supponga che il volume dell'ampolla sia sufficientemente grande da poter trascurare le variazioni di volume della massa gassosa dovute alle variazioni della quantità d'acqua all'interno dell'ampolla, o per la salita o discesa della colonna d'acqua nel tubo sottile.
+Inoltre, per semplificare i calcoli, si supponga che durante il giorno la temperatura si mantenga costante e uguale a $25\ ^\circ\text{C}$, durante sei ore della notte scenda a $10\ ^\circ\text{C}$ e che la pressione atmosferica rimanga costante. In queste condizioni calcoli:
+a) La differenza di altezza $h$ massima affinché l'annaffiatoio irrigui effettivamente la pianta durante sei ore notturne.
+Si supponga che il gocciolatore all'estremità del tubo sottile, che si trova all'interno dell'ampolla, sia stato preparato per fornire, in media, una goccia di $2\ \text{mm}$ di diametro ogni $2\ \text{s}$.
+b) Calcoli la quantità minima d'acqua che dovrà contenere il bottiglione se vogliamo assicurare un'irrigazione giornaliera per trenta giorni.
 
-Dati: pressione di vapore di acqua saturazione a $10\ ^\circ\text{C}$ è pari a 9,16 mmHg; idem, a $25\ ^\circ\text{C}$ è pari a
-23,55 mmHg. La pressione atmosferica è equivalente a 760 mmHg o a 10,33 m di una colonna di
-acqua.
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DZYIqKwE6h8G6t-cTxo5I-14JtDiaiP0/view)
+Dati: La pressione di vapore acqueo saturo a $10\ ^\circ\text{C}$ è uguale a 9,16 mmHg; idem, a $25\ ^\circ\text{C}$ è uguale a
+23,55 mmHg. La pressione atmosferica equivale a 760 mmHg oppure a 10,33 m di una colonna d'acqua.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 1: A night rainer for the holidays.
+PROBLEM 1: A NIGHT WATERER FOR VACATIONS.
 
-When you go on vacation and there's no one left in the house, one of the problems is
-The main thing is to keep the plants watered with a certain amount of water every day. There are many
-resources to prevent plants from drying up in their pots due to lack of irrigation. One of them uses a
-The apparatus (night recorder) (see figure) takes advantage of the temperature variation between night and day
-day. The water entering the bottle into the vial is diffused through the wet cotton into the
-the earth of the pot.
+When you go on vacation and no one is left in the house, one of the problems that arises is keeping the plants watered with a certain amount of water daily. There are many resources to prevent plants in their pots from drying out due to lack of watering. One of them uses a small device (night waterer) (see figure), which takes advantage of the temperature variation between night and day. The water that enters from the bottle into the bulb diffuses through the wet cotton into the soil of the pot.
 
-The watering system is installed during the day in such a way that the pressure in the vial is the pressure
-atmospheric.
+The waterer is installed during the day in such a way that the pressure in the bulb is atmospheric pressure.
 
-At the top of the wet cotton is a water meniscus which, by tension, forms a
-It's superficial, it prevents air from entering the vial.
+At the upper end of the wet cotton, a water meniscus forms which, due to surface tension, prevents air from entering the bulb.
 
-Suppose the bulb volume is large enough to be able to
-The Commission has not yet established the possibility of a change in the volume of the gas mass due to changes in the quantity of
-water inside the vial, or by the rise or fall of the water column in the thin tube.
-In addition, to simplify the calculations, suppose that during the day the temperature is maintained
-constant and equal to $25\ ^\circ\text{C}$, for six hours at night below $10\ ^\circ\text{C}$ and that the atmospheric pressure
-It's not going to change. Under these conditions calculate:
-(a) The maximum height difference $h$ for the waterer to effectively irrigate the plant for six
-The night hours.
-Suppose the leak at the end of the thin tube, which is inside the blister, has
-prepared to supply, on average, one drop of $2\ \text{mm}$ in diameter for each $2\ \text{s}$.
-(b) Calculate the minimum water content of the bottle if you want to ensure irrigation
-every day for 30 days.
+Assume that the volume of the bulb is large enough that the volume variations of the gaseous mass due to variations in the amount of water inside the bulb, or due to the rise or fall of the water column in the thin tube, can be neglected.
+Moreover, to simplify the calculations, assume that during the day the temperature remains constant and equal to $25\ ^\circ\text{C}$, that during six hours of the night it drops to $10\ ^\circ\text{C}$, and that the atmospheric pressure remains constant. Under these conditions, calculate:
+a) The maximum height difference $h$ so that the irrigator effectively waters the plant during six nighttime hours.
+Assume that the dripper at the end of the thin tube, which is inside the bulb, has been prepared to supply, on average, one drop of $2\ \text{mm}$ in diameter every $2\ \text{s}$.
+b) Calculate the minimum amount of water that the large bottle must contain if we want to ensure daily watering for thirty days.
 
-Data: saturated water vapour pressure at $10\ ^\circ\text{C}$ is equal to 9.16 mmHg; idem, a $25\ ^\circ\text{C}$ is equal to
-The maximum value of the product shall be: The atmospheric pressure is equivalent to 760 mmHg or 10.33 m of a column of
-- What?
-
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]], [[Droplet (object)|Droplet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1DZYIqKwE6h8G6t-cTxo5I-14JtDiaiP0/view)
+Data: The vapor pressure of saturated water at $10\ ^\circ\text{C}$ is equal to 9.16 mmHg; likewise, at $25\ ^\circ\text{C}$ it is equal to
+23.55 mmHg. The atmospheric pressure is equivalent to 760 mmHg or to 10.33 m of a water column.
 
 
 
@@ -406,84 +364,54 @@ spegnere l'apparecchio e mettere la chiave selezionatrice in OFF.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: A balance of resources.
+PROBLEM 3: A SPRING SCALE.
 
-A spring scale is a similar device
-The diagram in the figure. If a body is suspended
-From it the spring stretches and the force that the same
-Applies to the suspended object directly
-proporcional a dicho estiramiento ($F=k\,\Delta l$; $F$: fuerza
-Exercised by the spring; $k$: elastic spring constant;
-$\Delta l$: estiramiento del resorte).
+A spring scale is a device similar to the one outlined in the figure. If a body is suspended from it, the spring stretches and the force that it applies to the suspended object is directly proportional to said stretching ($F=k\,\Delta l$; $F$: force exerted by the spring; $k$: spring constant of the spring;
+$\Delta l$: stretching of the spring).
 
-Consider a spring scale in the city
-of Cordoba ($31^\circ$ southern latitude); the length of the spring,
-When there's no body placed on his plate, it's
-$L_0$ and the value of the elastic constant is $k=9{,}79\ \text{N/m}$.
+Consider a spring scale in the city of Córdoba ($31^\circ$ south latitude); the length of the spring, when there is no body placed on its pan, is
+$L_0$ and the value of the spring constant is $k=9{,}79\ \text{N/m}$.
 
-It is now placed on the plate of the scale one
-mass body $M$ and once equilibrium is reached
-Note that the spring stretch is $10\ \text{cm}$.
+A body of mass $M$ is now placed on the pan of the scale and once equilibrium is reached it is observed that the stretching of the spring is $10\ \text{cm}$.
 
-It asks:
-(a) Draw a vector diagram with all the forces
-They act on the body.
-(b) Determine the value of $M$ from the measurement
-made with the scale, expressed in kg.
-(c) How much does the body weight value differ, given
-by the balance sheet, of the product $Mg$? ($g$ is the acceleration of
-the gravity of the site).
-(d) What angle forms the spring axis with the direction defined by the land radius of the site;
-The earth is supposed to be spherical.
-(e) Locate the place (s) on Earth where the weight value, measured on the scale, matches the
-the value $Mg$ (justify your answer).
-(f) Locate the place (s) on the Earth where the weight indicated by the scale is minimal (justifique)
-(they are not allowed to enter).
-(g) Locate the place (s) on the Earth where the spring axis matches the defined direction
-by the ground radius of the place (justify your answer).
+It is requested:
+a) Draw a vector diagram with all the forces acting on the body.
+b) Determine the value of $M$ from the measurement made with the balance, expressing it in kg.
+c) How much does the value of the weight of the body, given by the balance, differ from the product $Mg$? ($g$ is the acceleration of gravity at the location).
+d) What angle does the axis of the spring make with the direction defined by the Earth's radius at the location, assuming the Earth to be spherical?
+e) Locate the place or places on the Earth where the value of the weight, measured by the balance, coincides with the value $Mg$ (justify your answer).
+f) Locate the place or places on the Earth where the weight indicated by the balance is minimum (justify your answer).
+g) Locate the place or places on the Earth where the axis of the spring coincides with the direction defined by the Earth's radius at the location (justify your answer).
 
-Data: Radius of the earth = 6,400 km; $g=9{,}79\ \text{m/s}^2$
-This is an experimental test.
+Data: Radius of the Earth = 6,400 km; $g=9{,}79\ \text{m/s}^2$
+EXPERIMENTAL TEST.
 
-Energy from a common battery.
+ENERGY OF A COMMON BATTERY.
 
-The objective:
+Objective:
 
-Determine the energy delivered by a common battery to the given resistance, in use
-Uninterrupted until the pile is exhausted.
+Determine the energy delivered by a common battery to the given resistance, in uninterrupted use until the battery is exhausted.
 
-With the elements provided as necessary, design and equip a device
-The Commission has not yet adopted a proposal for a directive.
+With the elements provided that you consider necessary, design and assemble an experimental device for this purpose.
 
-The following elements:
-• A common stack.
-• A wire resistance.
+Elements:
+• A common battery.
+• A wire resistor.
 • A thermos.
-• A thermometer
-• A graduated probate.
+• A thermometer.
+• A graduated test tube.
 • A common container.
 • Connectors and cables.
-• Millimeter paper.
-• Two multi-meters.
-• Availability of water at room temperature and other temperatures.
+• Graph paper.
+• Two multimeters.
+• Availability of water at room temperature and at other temperatures.
 
-Requirements: You may only use the items provided, paper, pencil or pencil, rule and pencil.
-It's a non-programmable calculator. At the end of the work, a report must be submitted, including the
-the following points:
-• A diagram of the mounted experimental device.
+Requirements: You may only use the provided elements, paper, pencil or pen, a ruler, and a non-programmable calculator. Upon finishing the work, you must submit a report that includes the following points:
+• Diagram of the assembled experimental setup.
 • Description and justification of the experimental design used.
-• Values obtained from the measurements made.
-• Result obtained from the quantity requested.
-• Error in the result.
+• Values obtained in the measurements made.
+• Result obtained for the requested quantity.
+• Error of the result.
 • Comments you wish to make.
 
-NOTE: If you use one of the instruments as an ampere, use the selector key in 10A and the
-10A connection. If you use it as a voltmeter, put the selector key on DCV - 2000m (up to 2000m).
-mV). Do not change the position of the selector key with the instrument connected. When it's over,
-disconnect the instrument and put the selector key on OFF.
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1DZYIqKwE6h8G6t-cTxo5I-14JtDiaiP0/view)
+NOTE: If you use one of the instruments as an ammeter, use the selector switch at 10A and the 10A connection. If you use it as a voltmeter, set the selector switch to DCV - 2000m (up to 2000 mV). Do not change the position of the selector switch while the instrument is connected. When finished, disconnect the instrument and set the selector switch to OFF.

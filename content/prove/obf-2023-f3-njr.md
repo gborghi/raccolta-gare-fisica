@@ -286,25 +286,11 @@ di latitudine $10^\circ$ sud, indicare l'intervallo di tempo di lucidezità in c
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question four.
-If $\theta$ the tilt of the Earth's axis of rotation relative to the plane
-of its orbit around the Sun. The schematic representation of the
-The land given in the figure next to $\theta$ shows the rotation axis
-The Earth passing through the North and South Poles and the
-equator that divides the Earth into two hemispheres. Consider the cases
-hypothetical where:
+Problem 4.
+Let $\theta$ be the inclination of the Earth's rotation axis relative to the plane of its orbit around the Sun. The schematic representation of the Earth given in the figure beside, in addition to $\theta$, shows the Earth's rotation axis passing through the north (N) and south (S) poles and the plane of the equator that divides the Earth into two hemispheres. Consider the hypothetical cases in which:
 - **A.** $\theta = 0^\circ$
 - **B.** $\theta = 90^\circ$
-In each case, draw a diagram showing the position of the Earth around the Sun and its
-The Commission will take the necessary steps to ensure that the information is available. In each diagram, represent the days A, B, C and D, which mark, respectively,
-The beginning of summer, autumn, winter and spring in the Southern Hemisphere. Considering a city
-of latitude $10^\circ$ south, indicate the interval of clarity time on each of these days.
-
-**Topic:** [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ONT2jrsAUbTrXPtsvGfG97gaakoGQfYL/view)
+In each case, draw a diagram that shows the position of the Earth around the Sun and its orientation. In each diagram, represent days A, B, C and D, which mark, respectively, the beginnings of summer, autumn, winter and spring in the Southern Hemisphere. Considering a city at latitude $10^\circ$ south, indicate the time interval of daylight on each of these days.
 
 
 

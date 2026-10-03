@@ -63,89 +63,43 @@ Ensino Médio
 
 <div class="qlang-split" data-lang="it"></div>
 
-Domanda 1 - Nel mezzo del XVII secolo, l'astronomo danese Ole Römer osservò che il periodo di
-L'orbita di Io intorno a Giove aumentava man mano che la Terra si allontanava da Giove. Römer ha attribuito
-la differenza tra la velocità della luce e quella della velocità finita. Il diagramma di seguito, senza scala, rappresenta il
-Sole, Terra, Giove e la sua luna Io. Mentre la Terra si muove da A a B in due mesi, Io, che ha
-Una durata orbitale di 42,46 ore, dà varie orbite attorno a Giove. Questo rimane praticamente in
-la stessa posizione, perché l'anno gioviano è di circa 12 anni terrestri. L'intervallo di tempo di
-L'orbita di Io misurata in B sarebbe 11 minuti più grande della stessa misura fatta in A. Qual è la velocità?
-della luce che Römer avrebbe potuto calcolare? Considera che l'anno ha 360 giorni, con dodici mesi di 30 giorni, e
-che al tempo di Römer la distanza Terra-Sol era stimata in $1{,}40\times10^{11}$ m.
+Quesito 1 - Alla metà del XVII secolo, l'astronomo danese Ole Römer osservò che il periodo orbitale di Io attorno a Giove aumentava man mano che la Terra si allontanava da Giove. Römer attribuì questa discrepanza al fatto che la luce avesse una velocità finita. Nello schema sottostante, fuori scala, sono rappresentati il
+Sole, la Terra, Giove e la sua luna Io. Mentre la Terra si muove da A a B in due mesi, Io, che ha un periodo orbitale di 42,46 h, compie diverse orbite attorno a Giove. Quest'ultimo, praticamente rimane nella stessa posizione, poiché l'anno gioviano è circa 12 anni terrestri. Usando i dati di Römer, il periodo dell'orbita di Io misurato in B sarebbe 11 minuti maggiore della stessa misura fatta in A. Quale velocità della luce avrebbe potuto calcolare Römer? Considera che l'anno ha 360 giorni, con dodici mesi di 30 giorni, e che all'epoca di Römer la distanza Terra-Sole era stimata in $1{,}40\times10^{11}$ m.
 
-Leggi attentamente le istruzioni qui sotto
-1 - Questo test è destinato esclusivamente agli studenti della prima e della seconda serie di istruzione secondaria. Contiene
-dodici domande.
-2 - La prova è composta da due tipi di domande:
-Risposta aperta. In questioni di risposta diretta, la risposta sarà considerata solo nella correzione.
-La Commissione ha adottato una decisione che prevede che le misure adottate per la gestione delle risorse proprie siano state adottate in modo da garantire che le risorse proprie siano adeguate.
-La valutazione del rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di rischio di
-Adotti.
-3 - Gli studenti della prima elementare devono scegliere liberamente un massimo di quattro domande di risposta diretta e
-Quattro domande di risposta aperta.
-4 - Gli studenti della seconda elementare devono rispondere anche a quattro domande di risposta diretta e a quattro domande di risposta diretta.
-domande di risposta aperta non indicate come esclusive per studenti della prima elementare.
-5 - Il Libro delle Risposte contiene istruzioni che devono essere lette con attenzione prima dell'inizio della
-Prova.
-6 - Tutti i risultati numerici devono essere espressi in unità nel Sistema Internazionale e
-seguendo le istruzioni specifiche della questione.
-7 - La durata di questo esame è di quattro ore e il studente deve rimanere nella sala per un minimo di tempo.
-60 minuti.
-Se necessario, e salvo indicazione contraria, utilizzare: velocità di luce in vuoto $= 3{,}0\times10^8$ m/s;
-l'accelerazione gravità $g=10$ m/s$^2$; $1$ atm $= 10^5$ Pa; densità dell'acqua liquida $= 1{,}00$ g/cm$^3$; $\pi = 3$;
+LEGGERE ATTENTAMENTE LE ISTRUZIONI SOTTOSTANTI
+1 - Questa prova è destinata esclusivamente agli studenti delle 1a e 2a serie della Scuola Secondaria Superiore. Essa contiene dodici quesiti.
+2 - La prova è composta da due tipi di quesiti: I) Quesiti a Risposta Diretta e II) Quesiti a
+Risposta Aperta. Nei quesiti a risposta diretta sarà considerata nella correzione solo la risposta finale, mentre nei quesiti a risposta aperta, qualora il risultato finale non fosse corretto, lo svolgimento potrà essere considerato nella valutazione finale, secondo i criteri di correzione adottati.
+3 - Gli studenti della 1a serie devono scegliere liberamente al massimo quattro quesiti a risposta diretta e quattro quesiti a risposta aperta.
+4 - Gli studenti della 2a serie devono inoltre rispondere a quattro quesiti a risposta diretta e quattro quesiti a risposta aperta che non sono indicati come "esclusivi per gli studenti della 1a serie".
+5 - Il Quaderno delle Risposte contiene istruzioni che devono essere lette attentamente prima dell'inizio della prova.
+6 - Tutti i risultati numerici devono essere espressi in unità del Sistema Internazionale e seguendo le istruzioni specifiche del quesito.
+7 - La durata di questa prova è di quattro ore, e lo studente deve rimanere nell'aula per almeno sessanta minuti.
+Se necessario, e salvo indicazione contraria, usare: velocità della luce nel vuoto $= 3{,}0\times10^8$ m/s;
+accelerazione di gravità $g=10$ m/s$^2$; $1$ atm $= 10^5$ Pa; densità dell'acqua liquida $= 1{,}00$ g/cm$^3$; $\pi = 3$;
 $1$ hp $= 750$ W; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$.
-Nivel II
-Istruzione secondaria
+LIVELLO II
+Scuola Secondaria Superiore
 1a e 2a serie
-
-**Topic:** [[Astrophysics]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 1 - In the mid-17th century, Danish astronomer Ole Römer observed that the period between the
-Io's orbit around Jupiter increased as the Earth moved away from Jupiter. Römer has
-This discrepancy to the fact that light has a finite speed. In the diagram below, without scale, the
-The sun, the earth, Jupiter and its moon Io. As the Earth moves from A to B in two months, Io, which has
-It has an orbital period of 42.46 h, giving it several orbits around Jupiter. This is practically the case in the
-The same position, because the Jovian year is about 12 Earth years. The period of the
-orbit of Io measured in B would be 11 minutes longer than the same measurement made in A. What speed
-The light that Römer could have calculated? Consider that the year has 360 days, with 12 months of 30 days, and
-that in Römer's time the distance from the Earth to the Sun was estimated at $1{,}40\times10^{11}$ m.
+Problem 1 - In the mid-17th century, the Danish astronomer Ole Römer observed that the orbital period of Io around Jupiter increased as the Earth moved away from Jupiter. Römer attributed this discrepancy to the fact that light has a finite speed. In the diagram below, not to scale, the Sun, the Earth, Jupiter and its moon Io are represented. While the Earth moves from A to B in two months, Io, which has an orbital period of 42.46 h, completes several orbits around Jupiter. The latter practically remains in the same position, since the Jovian year is about 12 Earth years. Using Römer's data, the period of Io's orbit measured at B would be 11 minutes greater than the same measurement made at A. What speed of light could Römer have calculated? Consider that the year has 360 days, with twelve months of 30 days, and that at the time of Römer the Earth-Sun distance was estimated at $1{,}40\times10^{11}$ m.
 
-Read the instructions carefully below
-1 - This test is intended exclusively for students in the first and second grades of secondary education. It contains
-Twelve questions.
-2 - The evidence consists of two types of questions:
-Answer the question. In direct reply questions, only the answer will be considered in the correction
-The Commission shall, in the event of a failure to provide a final reply to the questions referred to in the opening decision,
-development may be considered in the final score according to the correction criteria
-adopted.
-3 - 1st-graders must choose freely from a maximum of four questions for direct answer and
-Four questions for an open answer.
-4 - Second-graders must also answer four questions for direct answers and four questions for direct answers.
-open-ended questions which are not indicated as exclusive for 1st graders.
-5 - The Answer Book contains instructions which must be read carefully before the start of the
-I'll try that.
-6 - All numerical results shall be expressed in units in the International System and
-following the specific instructions in the matter.
-7 - The duration of this test is four hours and the student must remain in the classroom for at least
-60 minutes.
-If necessary, and unless otherwise stated, use: vacuum light speed $= 3{,}0\times10^8$ m/s;
-aceleração da gravidade $g=10$ m/s$^2$; $1$ atm $= 10^5$ Pa; densidade da água líquida $= 1{,}00$ g/cm$^3$; $\pi = 3$;
+READ THE INSTRUCTIONS BELOW CAREFULLY
+1 - This exam is intended exclusively for students of the 1st and 2nd years of High School. It contains twelve questions.
+2 - The exam consists of two types of questions: I) Direct Answer Questions and II) Open Answer Questions. In direct answer questions, only the final answer will be considered in the grading, while in open answer questions, if the final result is not correct, the work may be considered in the final score, according to the grading criteria adopted.
+3 - Students in the 1st year must freely choose at most four direct-answer questions and four open-answer questions.
+4 - Students in the 2nd year must also answer four direct-answer questions and four open-answer questions that are not indicated as “exclusive for 1st-year students”.
+5 - The Answer Booklet contains instructions that must be read carefully before the start of the exam.
+6 - All numerical results must be expressed in International System units and following the specific instructions of the question.
+7 - The duration of this exam is four hours, and the student must remain in the room for at least sixty minutes.
+If necessary, and unless indicated otherwise, use: speed of light in vacuum $= 3{,}0\times10^8$ m/s;
+acceleration due to gravity $g=10$ m/s$^2$; $1$ atm $= 10^5$ Pa; density of liquid water $= 1{,}00$ g/cm$^3$; $\pi = 3$;
 $1$ hp $= 750$ W; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\text{sen}\,30^\circ = 0{,}5$; $\cos 30^\circ = 0{,}85$.
-Level II
-Secondary education
-1st and 2nd series
-
-**Topic:** [[Astrophysics]], [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
+LEVEL II
+High School
+1st and 2nd years
 
 
 
@@ -192,21 +146,7 @@ Temperatura?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 2 (exclusive to 1st graders) - A student encounters a laboratory located at the
-The Commission has already adopted a proposal for a directive on the protection of the environment.
-lo. Initially, it prepares two systems: (a) liquid water in equilibrium with a certain mass of ice and
-(B) boiling water. Then put the thermometer in contact with system A and wait for the
-the mercury column reaches a balance value which is then marked with a dot. Repeat that.
-procedure with system B. After marking these two points, make marks equally spaced at the
-length of the instrument. The figure below is a representation of this thermometer at the moment it is
-recording the ambient temperature of the laboratory after calibration. In degrees Celsius, what is that?
-What's the temperature?
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
+Question 2 (exclusive for 1st-year students) - A student finds in a laboratory, located at sea level, an old mercury thermometer whose scale has been completely erased, and decides to calibrate it. Initially, he prepares two systems: (A) liquid water in equilibrium with a certain mass of ice and (B) boiling water. Then, he places the thermometer in contact with system A and waits for the mercury column to reach an equilibrium value, which is then marked with a point. He repeats this procedure with system B. After marking these two points, he makes equally spaced marks along the instrument. The figure below is a representation of this thermometer at the moment it is registering the ambient temperature of the laboratory, after being calibrated. In degrees Celsius, what is this temperature?
 
 
 
@@ -232,33 +172,15 @@ efetivo de 120 m. Estime a potência de operação de cada conjunto motobomba em
 
 <div class="qlang-split" data-lang="it"></div>
 
-Questone 3 (esclusiva per i bambini della prima elementare) - Raccogliere acqua in luoghi sempre più lontani
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le reti di consumo di energia elettrica siano utilizzate per superare le grandi disparità topografiche.
-La stazione di sollevamento di Santa Inês è la più grande stazione di pompazione del sistema Cantareira in Gran Bretagna
-E opera con quattro gruppi di bombe motore. Tre gruppi operano contemporaneamente (un
-un gruppo è mantenuto in riserva) producendo un flusso nominale di $33$ m$^3$/s e superando un livello di
-di 120 m. Calcolare la potenza di funzionamento di ogni set di motopompie in HP.
-
-**Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
+Quesito 3 (esclusivo per gli studenti della 1ª serie) - La captazione dell'acqua in luoghi sempre più distanti dai punti di consumo richiede spesso il suo pompaggio per superare grandi dislivelli topografici.
+La stazione di sollevamento di Santa Inês è la più grande stazione di pompaggio del sistema Cantareira nella Grande
+San Paolo e opera con quattro gruppi motopompa. Tre gruppi operano simultaneamente (un gruppo è mantenuto di riserva) producendo una portata nominale di $33$ m$^3$/s e superando un dislivello effettivo di 120 m. Stima la potenza di funzionamento di ciascun gruppo motopompa in HP.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question 3 (exclusive for 1st graders) - Water collection in increasingly remote locations
-The Commission has also proposed a number of measures to be taken to improve the quality of the products and services produced by the Community.
-The Santa Inês lift station is the largest pump station of the Cantareira system in the Grand
-It operates with four sets of motor bombs. Three sets operate simultaneously (one
-conjunto é mantido de reserva) produzindo uma vazão nominal de $33$ m$^3$/s e vencendo um desnível
-effective at 120 m. Estimate the operating power of each pump set in HP.
-
-**Topic:** [[Fluid Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1CNSXpEQPuPYS7mBM8ZNwon0c_d00nU1G/view)
+Question 3 (exclusive for 1st-year students) - Capting water at locations increasingly distant from consumption points often requires pumping it to overcome large topographic differences.
+The Santa Inês pumping station is the largest pumping station of the Cantareira system in Greater
+São Paulo and operates with four motor-pump units. Three units operate simultaneously (one unit is kept in reserve) producing a nominal flow rate of $33$ m$^3$/s and overcoming an effective head of 120 m. Estimate the operating power of each motor-pump unit in HP.
 
 
 

@@ -317,27 +317,11 @@ Le norme di cui al paragrafo 1 sono state applicate in modo che le norme di cui 
 
 <div class="qlang-split" data-lang="en"></div>
 
-04. Two flat, parallel, side-squared driving plates $d$,
-separated by a distance $a$ much smaller than $d$, are arranged
-isolated forming a flat capacitor. One of the plates is landed and
-The other is connected by a conductive wire to a conductive sphere of $R$ radius. A
-Figure 6 shows a sketch of that system.
+04. Two conducting plates, flat, parallel, square with side $d$, separated by a distance $a$ much smaller than $d$, are arranged in isolation forming a parallel-plate capacitor. One of the plates is grounded and the other is connected by a conducting wire to a conducting sphere of radius $R$. Figure 6 shows a sketch of this system.
 
-A positive electric charge $Q$ was placed on the upper plate of the
-The power supply. In the case of electrostatic equilibrium, consider the mean
-the plates as being the vacuum, the edge effects being negligible,
-as well as the electric field intensity of an element (sphere,
-The Commission has not yet taken any further action. Determine:
-- **A.** The fraction of $Q$ remaining on the upper plate.
-- **B.** The intensity of the electric field at a distance $2R$ from the centre of the
-The sphere. Express your results as a function of the quantities quoted in
-The Commission shall adopt implementing acts in accordance with the opinion of the Committee on Budgets.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Coulomb's Law (metodo)|Coulomb's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Conducting Sphere (object)|Conducting Sphere]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TK5nT5WYHxQJNsF02DyowoNtY6qX06qp/view)
+An electric charge $Q$, positive, was placed on the upper plate of the capacitor. In the electrostatic equilibrium situation, consider the medium between the plates to be vacuum, that edge effects are negligible, as well as the intensity of the electric field of one element (sphere, capacitor or ground) on any other. Determine:
+- **A.** The fraction of $Q$ that remains on the upper plate.
+- **B.** The intensity of the electric field at a distance $2R$ from the center of the sphere. Express your results as a function of the quantities mentioned in the statement and universal constants where applicable.
 
 
 

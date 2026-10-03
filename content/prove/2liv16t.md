@@ -39,24 +39,15 @@ che il piano esercita sulla massa M ?
 <div class="qlang-split" data-lang="en"></div>
 
 Q1
-In the system shown in the figure, which is in equilibrium, the angle $\alpha$ is $30^\circ$, the angle $\alpha$ is $30^\circ$.
-The mass of the suspension is $m = M/2$ and the friction coefficient
-The mass of the plane is $\mu_s$; the mass of the plane is $\mu_s$.
-The wire can be neglected.
-• What is the value of the force of friction in the form
-What plan does the M-mass have ?
+In the system shown in the figure, which is in equilibrium, the angle $\alpha$ is $30^\circ$, the suspended mass is $m = M/2$ and the coefficient of static friction between the mass M and the plane is $\mu_s$; the mass of the string can be neglected.
+• What is the magnitude of the friction force that the plane exerts on the mass M?
 
 <!--fig:start-->
 ![[_attachments/2liv16T/2liv16T_p3_f1.png]]
-*sloping plane with carriage and mass*
+*inclined plane with pulley and mass*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 
@@ -249,21 +240,13 @@ quella del rame $m_r = 100$ g.
 <div class="qlang-split" data-lang="en"></div>
 
 Q6
-In a heat-insulated calorimeter, water is in thermal equilibrium with the container at a temperature of
-temperatura $T_a$.
-A copper bulk at $T_r$ and ice at $T_r$ is introduced into the
-temperatura $T_g$. The system is brought to equilibrium at $T_{eq}$.
-The following dates are given: $T_a = 40\ ^\circ\text{C}$, $T_r = 100\ ^\circ\text{C}$, $T_g = -20\ ^\circ\text{C}$ and $T_{eq} = 25\ ^\circ\text{C}$.
-The heat capacity of the calorimeter $C = 184\ \text{J K}^{-1}$, the ice mass $m_g = 25$ g are also known and
-the copper $m_r = 100$ g.
-• Calculate the initial water mass in the calorimeter.
+In a thermally insulated calorimeter, some water is in thermal equilibrium with the container at a temperature $T_a$.
+A copper ingot at temperature $T_r$ and some ice at temperature $T_g$ are introduced into it. The system reaches equilibrium at temperature $T_{eq}$.
+Given: $T_a = 40\ ^\circ\text{C}$, $T_r = 100\ ^\circ\text{C}$, $T_g = -20\ ^\circ\text{C}$ and $T_{eq} = 25\ ^\circ\text{C}$.
+Also known are the heat capacity of the calorimeter $C = 184\ \text{J K}^{-1}$, the mass of ice $m_g = 25$ g and that of the copper $m_r = 100$ g.
+• Calculate the mass of water initially present in the calorimeter.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 
@@ -443,34 +426,22 @@ un unico specchio sferico. Dev’essere concavo o convesso? Quale dev’essere i
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-A mirrored lens
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-On an optical bench there is a thin convergent lens of 20 cm focal length and an object of
-Height h, positioned 32.9 cm from the lens.
-A reference system shall be fixed along the optical axis of the lens originating in the source position.
-oriented so that the lens is on the x > 0 semi-axis.
-1. What is the position of the image of the object in the chosen reference system? Is it real or virtual? The right
-Or the other way around? What is enlargement?
-On the same optical bench, at a distance $d = 30$ cm from the lens and the side opposite the object,
-Place a flat mirror, facing the lens. The mirror is perpendicular to the optical axis of the lens.
-The lens+mirror system now forms two images of the object. One is the one formed by the reflected rays.
-From the flat mirror.
-2. What is the $x_1$ coordinate of this first image in the selected reference system? Is it real or virtual?
-Right or wrong?
-This first image is a source for the lens, which provides a second.
-3. What is the $x_2$ coordinate of the second image?
+A lens to the mirror
+20 points
+On an optical bench there are a thin converging lens with a focal length of 20 cm and an object of height h, placed 32.9 cm from the lens.
+Let a reference frame be fixed along the optical axis of the lens with its origin at the position of the source, oriented so that the lens is on the half-axis x > 0.
+1. What is, in the chosen reference frame, the position of the image of the object? Is it real or virtual? Upright or inverted? What is the magnification?
+On the same optical bench, at a distance $d = 30$ cm from the lens and on the opposite side with respect to the object, a plane mirror is placed, facing the lens. The mirror is perpendicular to the optical axis of the lens.
+The lens+mirror system now forms two images of the object. A first one is that formed by the rays reflected by the plane mirror.
+2. What is, in the chosen reference frame, the coordinate $x_1$ of this first image? Is it real or virtual?
+Upright or inverted?
+This first image in turn constitutes a source for the lens, which provides a second one.
+3. What is the coordinate $x_2$ of the second image?
 Is it real or virtual?
-It is straight or upside down (respective of
-the subject)? What is its magnification (always relative to the object)?
-4. You want to get the first of these two images, in the same position and with the same characteristics, with
-A single spherical mirror. Must it be concave or convex? What should be its radius of curvature?
+Is it upright or inverted (with respect to the object)? What is its magnification (again with respect to the object)?
+4. One wants to obtain the first of these two images, in the same position and with the same characteristics, with a single spherical mirror. Must it be concave or convex? What must its radius of curvature be?
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 
@@ -515,35 +486,22 @@ con la rotaia?
 <div class="qlang-split" data-lang="en"></div>
 
 P2
-On the eight-volt
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-A mass cart m is resting on a rail that
-has negligible friction and is launched at $v_0$ from the point of maximum
-low, as shown in the figure. The railway consists of two arches of
-a circle of equal radius R on a vertical plane, connected at the point
-P. Sia $\alpha$ l’angolo che la normale comune ai due archi di circonferenza
-the point of contact form with the vertical (v. The Commission has not yet adopted a proposal.
-You want the cart to get to the top without detachment.
-Never from the railroad.
-1. Assuming the cart can reach the highest point without
-The railway is not a railway, but a railway is a railway.
-minimum initial speed $v_0$ to be achieved?
-2. It is shown that if the cart is detached from the rail, this happens just after the point P.
-3. What condition must the initial speed $v_0$ satisfy so that the cart does not detach?
-4. For which values of the angle $\alpha$ it is not possible for the cart to reach the highest point while maintaining contact
-With the railroad?
+On the Roller Coaster
+Points 20
+A cart of mass m is placed on a track with negligible friction and launched with speed $v_0$ from the lowest point, as shown in the figure. The track consists of two equal circular arcs of radius R in a vertical plane, joined at point
+P. Let $\alpha$ be the angle that the common normal to the two circular arcs at the joining point makes with the vertical (see figure).
+The cart is required to reach the highest point without ever leaving the track.
+1. Assuming that the cart can reach the highest point without leaving the track, what is – in terms of the given data – the minimum initial speed $v_0$ it must have?
+2. Show that, if the cart leaves the track, this happens just after passing point P.
+3. What condition must the initial speed $v_0$ satisfy so that the cart does not leave the track?
+4. For which values of the angle $\alpha$ is it impossible for the cart to reach the highest point while maintaining contact with the track?
 
 <!--fig:start-->
 ![[_attachments/2liv16T/2liv16T_p6_f3.png]]
-*carriage on curved rail with point P*
+*cart on curved track with point P*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 
@@ -629,14 +587,11 @@ alla carica sull’anello.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Electrical ring
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-A charge $Q = +1.5$ nC is distributed over a thin conductive ring of radius $r = 10$ cm. A charge particle $q = +3.2 \times 10^{-19}$ C
-is thrown towards the centre of the ring from a point P, placed on the axis of
-This, at a distance $d = 2$ m. It is observed that the particle can pass through the centre of the ring only if it has a speed $\vec{v}_0$ of more than
+Electric ring
+10 points
+A charge of $Q = +1.5$ nC is distributed on a thin conducting ring of radius $r = 10$ cm. A particle with charge $q = +3.2 \times 10^{-19}$ C is launched toward the center of the ring from a point P, located on the axis of the ring, at a distance $d = 2$ m. It is observed that the particle manages to pass through the center O of the ring only if it has a speed $\vec{v}_0$ with magnitude greater than
 $1.11 \times 10^5\ \text{m s}^{-1}$.
-1. Indicating by x the distance of a point of the axis from the centre of the ring, calculate the potential $V(x)$ due
-The charge on the ring.
+1. Denoting by x the distance of a point on the axis from the center of the ring, calculate the potential $V(x)$ due to the charge on the ring.
 2. Calculate the mass of the particle.
 
 <!--fig:start-->
@@ -690,15 +645,10 @@ The charge on the ring.
 </figure>
 
 
-*particle-laden ring on the axis*
+*charged ring with particle on the axis*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Conservation of Energy]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
 
 
 
@@ -753,14 +703,9 @@ estratto nessun elettrone (soglia fotoelettrica per il potassio).
 
 P4
 Light on Potassium
-The Commission shall adopt implementing acts in accordance with Article 10 of this Regulation.
-An experiment is being conducted with a photocell with a potassium photocatode. The photocatode
-It is illuminated by monochrome radiation. For certain wavelengths of incident radiation, observed
-The photocathode emits electrons. Some of them can reach the anode even though this comes
-It's a smaller potential than the cathode. However, this is only possible if the D.D.P. between cathode and
-The anode remains below a value called the stop potential difference.
-For some wavelength values $\lambda$ of incident light the d.d.p. is measured. I'm going to arrest you. The results
-are listed in the following table:
+10 points
+An experiment is conducted with a photocell having a potassium photocathode. The photocathode is illuminated with monochromatic radiation. For certain wavelengths of the incident radiation, it is observed that electrons are emitted from the photocathode. Some of them manage to reach the anode even if the latter is brought to a lower potential than that of the cathode. However, this happens as long as the potential difference between cathode and anode remains below a value called the stopping potential difference.
+For some values of the wavelength $\lambda$ of the incident light, the stopping potential difference is measured. The results are listed in the following table:
 Wavelength [nm]
 579
 562
@@ -769,7 +714,7 @@ Wavelength [nm]
 436
 423
 405
-D.d.p. of arrest [V]
+Stopping potential difference [V]
 0.14
 0.20
 0.27
@@ -777,16 +722,8 @@ D.d.p. of arrest [V]
 0.84
 0.91
 1.06
-1. Identify two dimensions x and y, linked to the experimental data, and between which the theory indicates that there is a
-linear relationship, they're shown on a graph.
-2. The minimum energy required to extract an electron from potassium (called the work of
-(Extraction)
-3. Determine the maximum wavelength of incident radiation above which no radiation is received.
-The electron is not extracted (photoelectric threshold for potassium).
+1. Identify two quantities x and y, related to the experimental data and between which theory indicates that a linear relationship exists, and plot them on a graph.
+2. Derive from the graph the minimum energy needed to extract an electron from potassium (called the work function.)
+3. Determine the maximum wavelength of the incident radiation above which no electron is extracted (photoelectric threshold for potassium).
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/18VesFtCCdLT85no0cUenlaZ3UcUvOfBI/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1vvzJ83s7xFWap_v_pOTHJvknTZDS3uYI/view)

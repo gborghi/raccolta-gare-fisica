@@ -30,13 +30,7 @@ tags:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un manometro a tubo U è costituito da un tubo cilindrico di diametro uniforme che è piegato in forma di U. È originariamente riempito di acqua con una densità $\rho_w$. La lunghezza totale della colonna d'acqua è $L$. Ignora la tensione superficiale e la viscosità. L'acqua viene spostata leggermente in modo che un lato si muova in salita a una distanza $x$ e l'altro lato abbassa una distanza $x$. Trova la frequenza di oscillazione.
-
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+**Problema 1** (2015 F = ma). Un manometro a U è costituito da un tubo cilindrico di diametro uniforme piegato a forma di U. Esso è inizialmente riempito con acqua che ha densità $\rho_w$. La lunghezza totale della colonna d'acqua è $L$. Si trascurino la tensione superficiale e la viscosità. L'acqua viene spostata leggermente in modo che un lato salga di una distanza $x$ e l'altro lato scenda di una distanza $x$. Si trovi la frequenza di oscillazione.
 
 
 
@@ -57,13 +51,7 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il problema 2** (2019 F = ma). Una corda uniforme di lunghezza $L$ e di massa $M$ passa su una polla senza attrito e si appende con entrambe le estremità a uguali altezze. Se una estremità viene trascinata a una distanza $x$ e la corda viene rilasciata, quale sarà l'accelerazione della fine di quell'istante?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+**Problema 2** (2019 F = ma). Una corda omogenea di lunghezza $L$ e massa $M$ passa su una carrucola priva di attrito e pende con entrambe le estremità alla stessa altezza. Se un'estremità viene tirata verso il basso di una distanza $x$ e la corda viene rilasciata, quale sarà l'accelerazione dell'estremità in quell'istante?
 
 
 
@@ -89,18 +77,12 @@ Il problema 1 è stato risolto in base al metodo di valutazione del rischio. Un 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**[Krotov, Kalda]** Un piccolo blocco di massa $m$ si trova su un cuneo con angolo $\alpha$ e massa $M$. Il blocco è attaccato a una corda trascinata su una pollice attaccata alla punta della ciglia e fissata a un muro orizzontale (vedere figura). Trova l'accelerazione della cuneo. Tutte le superfici sono scivolose (non c'è attrito).
+**[Krotov, Kalda]** Un piccolo blocco di massa $m$ giace su un cuneo di angolo $\alpha$ e massa $M$. Il blocco è attaccato a una corda tirata su una carrucola fissata alla sommità del cuneo e fissata a una parete orizzontale (vedi la figura). Trova l'accelerazione del cuneo. Tutte le superfici sono scivolose (non c'è attrito).
 
 <!--fig:start-->
 ![[_attachments/Lagrangian_Handout (2)/Lagrangian_Handout (2)_p13_f1.png]]
-*Blocaggio su cucina con corda e pollice*
+*Block on wedge with rope and pulley*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Wedge (object)|Wedge]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
 
@@ -123,15 +105,9 @@ The laser beam makes an angle of $\varphi$ with a radial line at point $P$, whic
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 3. ** Un raggio laser si propaga attraverso un mezzo sfericamente simmetrico che circonda una sfera metallica di raggio $R$. L'indice di refrazione del mezzo varia con la distanza $r$ dal centro $O$ della sfera secondo la legge $\mu(r) \propto r$. Qui $R \ll r < \infty$.
+**Problema 3.** Un raggio laser si propaga attraverso un mezzo a simmetria sferica che circonda una sfera metallica di raggio $R$. L'indice di rifrazione del mezzo varia con la distanza $r$ dal centro $O$ della sfera secondo la legge $\mu(r) \propto r$. Qui $R \ll r < \infty$.
 
-Il fascio laser fa un angolo di $\varphi$ con una linea radial al punto $P$, che è una distanza $r_0$ da $O$. Qual è la distanza minima dalla superficie della sfera che il fascio può raggiungere?
-
-**Topic:** [[Geometric Optics]], [[Newtonian Mechanics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+Il raggio laser forma un angolo di $\varphi$ con una linea radiale nel punto $P$, che si trova a una distanza $r_0$ da $O$. Qual è la distanza minima dalla superficie della sfera che il raggio può raggiungere?
 
 
 
@@ -157,18 +133,12 @@ Il fascio laser fa un angolo di $\varphi$ con una linea radial al punto $P$, che
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 4 (Krotov, Kalda). Due superfici inclinate a forma di cucina ($\mu = 0$) scivolose con angoli di inclinazione uguali sono posizionate in modo tale che i loro lati siano paralleli, le inclinzioni siano rivolte l'una all'altra e vi sia un piccolo spazio tra di loro (vedi figura). In cima alle superfici sono posizionati un cilindro e un blocco a forma di cucina, mentre si posano uno contro l'altro e uno dei lati del blocco è orizzontale. Le masse sono rispettivamente $m$ e $M$. Con quali accelerazioni si muoveranno il cilindro e il blocco? Trova la forza di reazione tra loro.
+**Problema 4** (Krotov, Kalda). Due superfici inclinate a forma di cuneo scivolose ($\mu = 0$) con uguali angoli di inclinazione sono posizionate in modo che i loro lati siano paralleli, le superfici inclinate siano rivolte l'una verso l'altra e ci sia un piccolo spazio tra di esse (vedi fig.). Sopra le superfici sono posizionati un cilindro e un blocco a forma di cuneo, che poggiano l'uno contro l'altro e uno dei lati del blocco è orizzontale. Le masse sono, rispettivamente, $m$ e $M$. Con quali accelerazioni si muoveranno il cilindro e il blocco? Trova la forza di reazione tra di essi.
 
 <!--fig:start-->
 ![[_attachments/Lagrangian_Handout (2)/Lagrangian_Handout (2)_p13_f2.png]]
-*Cilindro e ciglia su superfici inclinate opposte*
+*Cylinder and wedge on opposing inclined surfaces*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Wedge (object)|Wedge]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
 
@@ -189,7 +159,7 @@ Il problema 4 (Krotov, Kalda). Due superfici inclinate a forma di cucina ($\mu =
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 5** (OLIMPIADE INTERNAZIONALE DI FISICA 1984). Problema 2.
+**Problema 5** (IPhO 1984). Problema 2.
 
 
 
@@ -215,18 +185,12 @@ Il problema 4 (Krotov, Kalda). Due superfici inclinate a forma di cucina ($\mu =
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 6** (Kalda). Un cilindro vuoto di massa $M$ ruota senza scivolare lungo una superficie inclinata, il cui angolo di inclinazione è $\alpha = 45^\circ$. La superficie interna può essere liberamente scivolata da un piccolo blocco di massa $m = M/2$. Qual è l'angolo $\beta$ tra la superficie normale e la superficie inclinata e il segmento di linea retta che collega il centro del cilindro e il blocco?
+**Problema 6** (Kalda). Un cilindro vuoto di massa $M$ rotola senza strisciare lungo un piano inclinato, il cui angolo di inclinazione è $\alpha = 45^\circ$. Sulla sua superficie interna può scivolare liberamente un piccolo blocco di massa $m = M/2$. Qual è l'angolo $\beta$ tra la normale al piano inclinato e il segmento di retta che congiunge il centro del cilindro e il blocco?
 
 <!--fig:start-->
 ![[_attachments/Lagrangian_Handout (2)/Lagrangian_Handout (2)_p14_f3.png]]
-*Cilindro rotolato su superficie inclinata con blocco interno *
+*Cylinder rolling on slanted surface with inner block*
 <!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
 
@@ -255,15 +219,15 @@ An equilibrium angle corresponds to the angle with respect to the vertical where
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 7** (2020 OPhO). In questo problema esploreremo il vero modello gravitazionale della Terra, non quello che viene affermato nella maggior parte dei libri di testo. Contrariamente al comune credere, la Terra è un disco piatto di raggio $R$ e ha una massa uniforme per unità di superficie $\sigma$. La Terra ruota con velocità angolare $\omega$.
+**Problema 7** (2020 OPhO). In questo problema esploreremo il vero modello gravitazionale della Terra, non quello che viene sostenuto nella maggior parte dei libri di testo. Contrariamente a quanto comunemente si crede, la Terra è un cerchio piatto di raggio $R$ e ha una massa uniforme per unità di area $\sigma$. La Terra ruota con velocità angolare $\omega$.
 
-(a) Un pendolo di lunghezza $\ell$, vincolato a muoversi solo in un piano, viene posto sul terreno al centro della Terra. Il pendolo ha più di una frequenza angolare per piccole oscillazioni. Trovare il valore di ciascuna frequenza angolare delle piccole oscillazioni $\Omega(0), \Omega_1(0), \ldots$ in termini di $\sigma$, $\omega$, $\ell$ e costanti fisiche, nonché l'angolo di equilibrio $\theta, \theta_1, \ldots$ in cui si verifica tale frequenza. Si assuma per tutte le parti che $\ell \ll R$.
+(a) Un pendolo di lunghezza $\ell$ vincolato a muoversi solo in un piano è posto al suolo al centro della Terra. Il pendolo ha più di una pulsazione di piccole oscillazioni. Trova il valore di ciascuna pulsazione di piccole oscillazioni $\Omega(0), \Omega_1(0), \ldots$ in termini di $\sigma$, $\omega$, $\ell$, e delle costanti fisiche e dell'angolo di equilibrio $\theta, \theta_1, \ldots$ a cui la pulsazione si verifica. Assumi per tutte le parti che $\ell \ll R$.
 
-Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui si ha un punto di equilibrio.
+Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui c'è un punto di equilibrio.
 
-(b) L'intero pendolo viene spostato una distanza orizzontale $r \ll R$ dal centro della Terra. Viene orientato in modo da essere vincolato a muoversi solo nella direzione radiale. Ora, trovare la nuova frequenza angolare $\Omega(r)$ delle piccole oscillazioni attorno al punto di equilibrio più basso, in termini dei parametri dati, assumendo che $\omega^2 r$ sia molto minore dell'accelerazione gravitazionale locale.
+(b) L'intero pendolo viene spostato di una distanza orizzontale $r \ll R$ dal centro della Terra. È orientato in modo da essere vincolato a muoversi solo nella direzione radiale. Ora, trova la nuova pulsazione $\Omega(r)$ di piccole oscillazioni attorno al punto di equilibrio più basso in termini dei parametri dati, assumendo che $\omega^2 r$ sia molto minore dell'accelerazione gravitazionale locale.
 
-*Nota: Le parti che non utilizzano il formalismo lagrangiano sono state escluse.*
+*Nota: Le parti che non usano il formalismo lagrangiano sono state rimosse.*
 
 
 
@@ -289,18 +253,12 @@ Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui si
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 8 è stato risolto con la formulazione di "MSK1/" (1971 IPhO). Un cuneo con massa $M$ e angoli acuti $\alpha_1$ e $\alpha_2$ si trova su una superficie orizzontale. Una corda è stata disegnata su una pollice situata nella parte superiore della cucina, le sue estremità sono legate a blocchi con masse $m_1$ e $m_2$. Qual sarà l'accelerazione della cucina? Non c'è attrito da nessuna parte.
+**Problema 8** (1971 IPhO). Un cuneo di massa $M$ e angoli acuti $\alpha_1$ e $\alpha_2$ giace su una superficie orizzontale. Una corda è stata fatta passare su una carrucola situata sulla sommità del cuneo, e le sue estremità sono legate a blocchi di masse $m_1$ e $m_2$. Quale sarà l'accelerazione del cuneo? Non c'è attrito da nessuna parte.
 
 <!--fig:start-->
 ![[_attachments/Lagrangian_Handout (2)/Lagrangian_Handout (2)_p14_f4.png]]
-*Gli orpi con pollice e masse appese*
+*Wedge with pulley and hanging masses*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wedge (object)|Wedge]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
 
@@ -321,13 +279,7 @@ Il problema 8 è stato risolto con la formulazione di "MSK1/" (1971 IPhO). Un cu
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 9. ** Una massa di punto alla fine di una corda leggera ruota come un pendolo conico con una velocità angolare $\Omega$. La corda è inclinata in un angolo $\varphi$ verso la verticale. Se il movimento è leggermente disturbato, trovare il valore della frequenza angolare di piccole oscillazioni.
-
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+**Problema 9.** Un punto materiale all'estremità di un filo leggero ruota come un pendolo conico con velocità angolare $\Omega$. Il filo è inclinato di un angolo $\varphi$ rispetto alla verticale. Se il moto viene leggermente perturbato, trovare il valore della pulsazione delle piccole oscillazioni.
 
 
 
@@ -348,13 +300,7 @@ Il problema 8 è stato risolto con la formulazione di "MSK1/" (1971 IPhO). Un cu
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 10 (IPhO 1986) Problema 3. (Ricorda che questo problema riguarda oscillatori accoppiati invece di applicare il formalismo lagrangiano.)
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+**Problema 10** (IPhO 1986). Problema 3. (Si noti che questo problema riguarda oscillatori accoppiati invece dell'applicazione del formalismo lagrangiano.)
 
 
 
@@ -379,17 +325,11 @@ $$C, \quad L \quad C \quad L$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 11.** Trova le frequenze naturali del circuito riportate di seguito.
+**Problema 11.** Trovare le frequenze proprie del circuito riportato di seguito.
 
 $$C, \quad L \quad C \quad L$$
 
-(Un circuito costituito da un condensatore $C$ in serie con due rami paralleli, ognuno contenente un induttore $L$ e un condensatore $C$ in serie.)
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+(Un circuito costituito da un condensatore $C$ in serie con due rami in parallelo, ciascuno contenente un induttore $L$ e un condensatore $C$ in serie.)
 
 
 
@@ -415,18 +355,12 @@ $$C, \quad L \quad C \quad L$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 12 è il problema MSK1/ (2012 Physics Cup). Determinare tutte le frequenze proprie (= frequenze naturali) del circuito mostrato nella figura. Si può presumere che tutti i condensatori e le induttanze siano ideali e che siano soddisfatte le seguenti forti disuguaglianze: $C_1 \ll C_2$ e $L_1 \ll L_2$. Si noti che le tue risposte devono essere semplificate in base a queste forti disuguaglianze.
+**Problema 12** (Physics Cup 2012). Determinare tutte le autofrequenze (= frequenze proprie) del circuito mostrato in Figura. Si può assumere che tutti i condensatori e le induttanze siano ideali, e che siano soddisfatte le seguenti forti disuguaglianze: $C_1 \ll C_2$, e $L_1 \ll L_2$. Si noti che le risposte devono essere semplificate in accordo con queste forti disuguaglianze.
 
 <!--fig:start-->
 ![[_attachments/Lagrangian_Handout (2)/Lagrangian_Handout (2)_p15_f5.png]]
-Circuito LC con due condensatori e due induttori
+*LC circuit with two capacitors and two inductors*
 <!--fig:end-->
-
-**Topic:** [[Circuits]], [[Oscillations & Waves]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Inductor (object)|Inductor]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
 
 
 
@@ -449,12 +383,6 @@ Circuito LC con due condensatori e due induttori
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 13 (Copa della Fisica 2021) Trova tutte le frequenze di oscillazione naturale non triviali per un ottagono regolare realizzato da otto barre omogenee di massa $m$ e lunghezza $l$. Mentre le barre sono rigide, i connettori che collegano due barre vicine sono tali che l'angolo $\varphi$ tra le barre può essere modificato senza alcun attrito, ma una coppia di ritorno $T = k\left(\varphi - \frac{3\pi}{4}\right)$ apparirà alla giunta non appena l'angolo si allontana dal suo valore di equilibrio $\frac{3\pi}{4}$. Indicare quante modalità di oscillazione linealmente indipendenti corrispondono a ciascuna di queste frequenze. Considerare solo le modalità di oscillazione pianale, ovvero: modi con cui le barre si muovono solo nel piano dell'ottangolo.
+**Problema 13** (2021 Physics Cup). Trovare tutte le frequenze proprie di oscillazione non banali per un ottagono regolare formato da otto sbarre omogenee di massa $m$ e lunghezza $l$. Mentre le sbarre sono rigide, i connettori che collegano due sbarre vicine sono tali che l'angolo $\varphi$ tra le sbarre può essere cambiato senza alcun attrito, ma una coppia di richiamo $T = k\left(\varphi - \frac{3\pi}{4}\right)$ comparirà nel giunto non appena l'angolo si discosta dal suo valore di equilibrio $\frac{3\pi}{4}$. Indicare quanti modi di oscillazione linearmente indipendenti corrispondono a ciascuna di queste frequenze. Considerare solo modi di oscillazione planari, cioè modi in cui le sbarre si muovono solo nel piano dell'ottagono.
 
-Nota: l'uso del formalismo lagrangiano in questo problema non fa parte della soluzione prevista e richiede un po' di lavoro matematico. Il problema è posto qui, nel caso tu sia interessato a fare le matematica e a risolvere completamente un problema. Sarebbe consigliabile leggere una teoria più avanzata come la costruzione di matrici energetiche per finire in questo modo. In ogni caso, la soluzione prevista a questo problema ha una buona connessione con oscillazioni accoppiate (si veda il problema 5.9), quindi è bello provarlo.*
-
-**Topic:** [[Oscillations & Waves]], [[Rigid Body Statics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Differential Equations (metodo)|Differential Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1IAnPqiAawr-zbbRJxq17s5lfirgVRaw2/view)
+*Nota: L'uso del formalismo lagrangiano in questo problema non fa parte della soluzione prevista, e richiede parecchio lavoro matematico. Il problema è posto qui, nel caso siate interessati a fare i calcoli e risolvere completamente un problema. Si consiglierebbe di leggere teoria più avanzata come la costruzione di matrici energetiche per terminarlo in questo modo. In ogni caso, la soluzione prevista di questo problema ha una buona connessione con le oscillazioni accoppiate (si veda il problema 5.9), quindi è bello provarci.*

@@ -109,93 +109,46 @@ o Carta millimetrata
 
 <div class="qlang-split" data-lang="en"></div>
 
-Resistance and magnetic fields.
+Resistances and magnetic fields.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+EXPLANATORY NOTE
 
-When the available coil pair is crossed by an electric current, a
-a magnetic field whose vector Bb is directed parallel to the coil axis itself, and has a
-The current is directly proportional to the current intensity. In the space between the coils, this
-The magnetic field is with good uniform approximation given the particular distance between the
-coils themselves, which is about equal to their average radius.
-N.B. For the test to be carried out, no formula is required to read the constant
-The magnetic field is proportional to the current, with the geometric characteristics of the
-Coils.
+When the pair of coils available is traversed by electric current, a magnetic field is produced whose vector Bb is directed parallel to the axis of the coils themselves, and has a magnitude directly proportional to the intensity of the current. In the space between the coils, this magnetic field is to a good approximation uniform, given the particular distance between the coils themselves, which is approximately equal to their average radius.
+N.B. To carry out the test it is not necessary to know any formula relating the constant of proportionality between magnetic field and current to the geometric characteristics of the coils.
 
-The available battery has an internal RP resistance which can be considered constant as the
-the current delivered, if the overall resistance of the circuit is not too low, as will be
-as specified in the text in point 2. For the electromotive force of the f.e.m. of the battery, the value of 1,5 V
-It's just indicative.
-The resistance of the connecting cables can be considered negligible; the resistance of the connecting cables is not negligible.
-The length of the copper strands that make up the two winding. In addition, for
-The battery is not equipped with a battery, but with a battery.
-It's not accessible. The resistance of the coils, the additional resistor, the stack, connected in series,
-The resistance of the circuit is equal to a single RT resistance which is an integral part of the circuit. RT is constant if it is
-RP .
+The battery available has an internal resistance RP , which can be considered constant as the delivered current varies, if the overall resistance of the circuit is not too low, as will be specified in the text at point 2. Regarding the electromotive force e.m.f. of the battery, the value 1.5 V is only indicative.
+The resistance of the connecting wires can be considered negligible; however, the resistance of the long copper wires that make up the two windings is not negligible. Moreover, between these, to limit the current delivered by the battery, an additional resistor has been connected in series which is not accessible. The resistances of the coils, of the additional resistor, and of the battery, connected in series, are equivalent to a single resistance RT which is an integral part of the circuit. RT is constant if RP is.
 
-1. (a) Determine the RX resistance of the X resistor with the greatest possible accuracy by means of
-of the material at your disposal. Express the measurement of RX as value $\pm$ uncertainty.
+1. a) Determine the resistance RX of resistor X as accurately as possible using the materials available to you. Express the measurement of RX as "value $\pm$ uncertainty".
 
-(b) Briefly explain the procedure. Draw the pattern of the electrical circuit made.
+b) Briefly explain the procedure. Draw the diagram of the electrical circuit you set up.
 
-(c) Did you follow any criteria in fixing the compass and the coil pair? If so, with
-What motivation?
+c) Did you follow any criteria in positioning the compass and the pair of coils? If so, for what reason?
 
-2. (a) Now leave the X resistor aside. Insert a stretch of nickel-chrome wire into the circuit
-The length of the wire is varied without cutting it, but by moving the
-point of connection. In this way, the value of the resistance Rn of the
-the inserted wire and consequently also the overall resistance of the circuit. Se
-Rn>10Ω, f.e.m. and RP can be considered constant.
-Determines the relationship between the Bb magnetic field Bb vector created by the
-current in the coil space and the input resistance RN. Express the report in the following way:
-as simple as possible with a function of the type Bb = f (Bto, Rn), where Bto indicates the intensity
-of the horizontal component Bto of the Earth's magnetic field. If the formula appears
-Some constant, precise value and unit of measurement.
+2. a) Now set resistor X aside. Insert a length of nichrome wire into the circuit in series with the coils; vary the length of the wire gradually without cutting it, but by moving the connection point. In this way, the value of the resistance Rn of the inserted length of wire will vary gradually and consequently the total resistance of the circuit will also vary. If
+Rn>10Ω, the emf and RP can be considered constant.
+Determine the relationship between the magnitude Bb of the magnetic field vector Bb created by the current in the space between the coils and the inserted resistance RN. Express the relationship in the simplest possible way with a function of the type Bb = f (Bto, Rn), where Bto indicates the magnitude of the horizontal component Bto of the Earth's magnetic field. If any constant appears in the formula, specify its value and unit of measurement.
 
-(b) Briefly explain the procedure, with data processing. Draw the pattern of the
-electrical circuit made.
+b) Briefly explain the procedure, with the data processing. Draw the diagram of the electrical circuit you set up.
 
-(c) Did you follow any criteria in fixing the compass and the coil pair? If so, with
-What motivation?
+c) Did you follow any criteria in positioning the compass and the pair of coils? If so, for what reason?
 
-Materials and indications
+MATERIALS AND INSTRUCTIONS
 
-or Torch-shaped pile. When you assemble the circuit elements, leave the stack
-I'm going to finish. Before closing the circuit, check that there is no path from the
-a pole to the other of the pile made only of connecting cables (short
-circuit), otherwise the battery will discharge early and you cannot continue the test.
-Turn off the circuit only during measurements.
-or X-resistant . Do not tamper in any way with his protective black hood.
-or Nickel-iron wire of a length of approximately 2 m, with a strength per unit length of
-$137\pm1$ Ω/m. Start rolling the wire from the point point indicated by the arrow. Just roll the
-String you need to use, attaching it to the paper meter with the clamps. The sub-meter a
-its turn may be fixed to the table by means of an insulating tape. Leave the rest of the thread
-wrapped in a rocket, possibly blocking it with a piece of insulating tape.
-Try not to twist the wire, so as not to make knots.
-or two copper wire coils in series with additional resistance. Il
-The coil connection shall be made exclusively on the two forked heads. I 'm not .
-The reels are not to be used for the reel lock. The distance between the inner faces of the
-The coil supports shall be 30 mm; if necessary, adjust it yourself.
-or Compass to be inserted between the coils, leaving the side lid to leak.
-or rectangular supporting box for the compass.
-or Paper in polar coordinates, to be placed under the compass to facilitate it
-the reading, or to place the compass between the coils.
-or 6 Paper Locks: 2 are made of electrodes for the battery, 2 can be used for contact
-Fixed or mobile on the nickel-chrome thread, even holding it attached to the
-paper, two are spare. The electrical resistance of the stoppers is negligible.
-or 6 connecting cabs
-or Paper Metro
-or 50 cm Righello
-or Forbics
-or Insulating tape
+o "flashlight" type battery. When assembling the circuit elements, leave the battery for last. Before closing the circuit, check that there is no path from one terminal of the battery to the other made only of connecting wires (short circuit), otherwise the battery will run down very soon and you cannot continue the test.
+Close the circuit only during measurements.
+o Resistor X. Do not tamper in any way with its black protective sheath.
+o Nichrome wire about 2 m long, with resistance per unit length equal to
+$137\pm1$ Ω/m. Begin unwinding the wire from the point indicated by the arrow. Unwind only the length of wire you need to use, fixing it to the paper meter with the clips. The meter can in turn be fixed to the table with insulating tape. Leave the rest of the wire wound on the spool, blocking it if necessary with a piece of insulating tape.
+Try not to twist the wire, so as not to create knots.
+o Two coils of copper wire in series with each other and with an additional resistor. The connection to the coils must be made exclusively to the two fork terminals. Do not tamper in any way with the "coil block". The distance between the inner faces of the coil supports must be 30 mm; if necessary, adjust it yourself.
+o Compass to be inserted between the coils, leaving the small cover protruding to the side.
+o Rectangular cardboard support for the compass.
+o Polar coordinate paper, to be placed if necessary under the compass to make it easier to read, or to position the compass between the coils.
+o 6 paper clips: 2 act as electrodes for the battery, 2 can be used for fixed or movable contact on the nichrome wire, also keeping it adherent to the paper meter, 2 are spare. The electrical resistance of the paper clips is negligible.
+o 6 connecting wires o Paper meter o 50 cm ruler o Scissors o Insulating tape
 
 On the service table:
-or Electric torches
-or Millimeter paper
+o Flashlights o Graph paper
 
-**Topic:** [[Circuits]], [[Magnetism]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Graph Linearization (metodo)|Graph Linearization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Resistor (object)|Resistor]], [[Coil (object)|Coil]], [[Battery (object)|Battery]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1D54TPCVRvbi9a_RRMlp27orkNWjDNt1l/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/16ZKloqdGV9KbLJDyiTUBsdiZUyRuG0d_/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/16ZKloqdGV9KbLJDyiTUBsdiZUyRuG0d_/view)

@@ -209,24 +209,18 @@ Un cilindro cavo, di raggio $r = 10\ \text{cm}$, rotola senza strisciare su una 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Descending from the cylinder**
+**Descent from the cylinder**
 
-A cable cylinder, $r = 10\ \text{cm}$ radius, rolls without slipping on a fixed semicylinder surface, $R = 1\ \text{m}$ radius, under the effect of gravity. The angle formed by the vertical with the connecting centers of the two objects, as shown in Figure 1 shall be $\theta$. Sapendo che quando $\theta = 0$ la velocità del cilindro è molto piccola, qual è il valore di $\theta$ nel momento in cui il cilindro si stacca dalla superficie?
+A hollow cylinder, of radius $r = 10\ \text{cm}$, rolls without slipping on a fixed surface in the shape of a semicylinder, of radius $R = 1\ \text{m}$, under the effect of gravity. Let $\theta$ be the angle formed by the vertical with the line joining the centers of the two objects, as in the figure. Knowing that when $\theta = 0$ the velocity of the cylinder is very small, what is the value of $\theta$ at the moment when the cylinder detaches from the surface?
 
-
-*Unità di misura:* rad. *Precisione richiesta:* $0.5\%$.
+*Unit of measurement:* rad. *Required precision:* $0.5\%$.
 
 <!--fig:start-->
 ![[_attachments/allenamento2023t/allenamento2023t_p4_f2.png]]
-*cable cylinder on a fixed semicircular, angle θ*
+*hollow cylinder on fixed semicylinder, angle θ*
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1R77cF9qrSKliTk4sHoW7OD5zPAH9H9ix/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1UVtLo-tuBRb0CbEDf1ZlsnHMmQ7wY2hV/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1UVtLo-tuBRb0CbEDf1ZlsnHMmQ7wY2hV/view)
 
 
 

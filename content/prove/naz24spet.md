@@ -97,25 +97,15 @@ riga può essere costituito dal bordo squadrato del tavolo di lavoro.
 <div class="qlang-split" data-lang="en"></div>
 
 Q.2
-[20 p.]
-By analysing the results obtained, what can you conclude about the value of the T/T0 ratio that characterizes
-the chains used?
-Part two.
-Small oscillations of a chain suspended at one end and with a load suspended at the other end 
-Now, either mc the mass of each clip, and m = nmc the mass of the entire chain consisting of n clips. We're going to the extreme.
-Free of the chain you can hang loads of mass M which can be varied appropriately using the
-the equipment. The purpose of this second part is to study the T/T0 = f(M/m ratio.
-The length L to be entered in the T0 calculation shall be measured from the chain suspension point to the
-the centre of mass of the swirl load.
-The 60 cm millimeter line should be used to obtain useful information for the calculation of M/m. If used appropriately, the line can perform the same function as the balance-sheet. The Commission's proposal for a directive on the
-The row may consist of the square edge of the work table.
+[20 points]
+Analyzing the results obtained, what can you conclude about the value of the ratio T/T0 that characterizes the chains used?
+PART TWO.
+Small oscillations of a chain suspended at one end and with a load hung from the other end –
+Let, now, mc be the mass of each clip, and m = nmc the mass of the entire chain consisting of n clips. To the free end of the chain you can attach loads of mass M that can be suitably varied using the supplied washers. The objective of this second part is the study of the relation T/T0 = f(M/m).
+The length L to be used in the calculation of T0 must be measured from the suspension point of the chain to the center of mass of the load of washers.
+The 60 cm millimeter ruler must be used to obtain useful information for the calculation of M/m. If suitably used, the ruler can perform the same function as the beam of a balance. For this purpose, the fulcrum of the ruler can be the squared edge of the work table.
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IuagliyUYlWA7KlOH-9IbTTYl3DX0f9B/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G0v69bHntCmPDJLKy_-PE3LqGZ4Klwuw/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G0v69bHntCmPDJLKy_-PE3LqGZ4Klwuw/view)
 
 
 
@@ -163,38 +153,25 @@ corrispondenti periodi di oscillazione della catena varieranno entro pochi cente
 <div class="qlang-split" data-lang="en"></div>
 
 Q.3
-[17 p.]
-Indicating with Mg the mass of a large sponge; Mm the mass of an average sponge; Mp the
-mass of a small spindle, use the millimeter line to measure the Mg/mc, Mm/mc ratios,
+[17 points]
+Denoting by Mg the mass of a large washer; Mm the mass of a medium washer; Mp the mass of a small washer, use the millimeter ruler to measure the ratios Mg/mc, Mm/mc,
 Mp/mc.
-Describe the method used for the measures and the methods used to obtain the maximum
-The exactness.
-Summary the measures taken and the results of their preparation.
-It 's not .
-The Commission has already taken the necessary steps to ensure that the Commission is able to take the necessary measures to ensure that the results of the examination are not compromised.
-It can be shown that the function T/T0 = f(M/m) is valid for a physical pendulum consisting of a thin axle
-rigid, m mass, loaded at one end by a small mass body M is
+Describe the method used for the measurements and the precautions taken to obtain the greatest precision.
+Summarize in a table the measurements performed and the results of their processing.
+Calculation of uncertainties is not required.
+It can be shown that the function T/T0 = f(M/m) valid for a physical pendulum consisting of a thin rigid rod, of mass m, loaded at one end by a small body of mass M is
 T
 T0
 =
 $\sqrt{}$
 2 + 6M/m
-3 + 6M/m
-(1)
-But what can be said about a pendulum made with a mass M body hanging from a mass M chain?
-You are being asked to study the situation from an experimental point of view.
-To do this, you'll use a chain of 12 clips to which you'll apply different loads that will go
-made from available roundings. Indicating with p, m and g, respectively, the small, medium round
-and large, loads consisting of 1p, 2p, 3p, 1m, 2m, 3m, 1g, 2g, 3g shall be made.
-Note: although the quantity of loads of swaddling stock is covered in a relatively wide range, the
-The corresponding chain oscillation periods will vary within a few cents of a second.
+3 + 6M/m (1)
+But what can be stated for a pendulum made with a body of mass M hanging from a chain of mass m?
+You are asked to study the situation from the experimental point of view.
+For this purpose you will use a chain consisting of 12 clips to which you will apply different loads that must be made with the available washers. Denoting by "p", "m" and "g", respectively, the small, medium and large washer, loads consisting of 1p, 2p, 3p, 1m, 2m, 3m, 1g, 2g, 3g must be made.
+Attention: although the size of the washer loads is within a relatively wide range, the corresponding oscillation periods of the chain will vary within a few hundredths of a second.
 
-**Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1IuagliyUYlWA7KlOH-9IbTTYl3DX0f9B/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G0v69bHntCmPDJLKy_-PE3LqGZ4Klwuw/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G0v69bHntCmPDJLKy_-PE3LqGZ4Klwuw/view)
 
 
 
@@ -279,26 +256,16 @@ T0
 <div class="qlang-split" data-lang="en"></div>
 
 Q.5
-[30 p.]
-Report on a single cartesian plane the function T/T0 = f(M/m) valid for
-a simple pendulum, the test points obtained using the chain, and listed in the table
-The figures for the first quarter of the year are: Summary of results in table
-The Commission has also adopted a number of proposals for the
+[30 points]
+Plot on a single Cartesian plane the trend of the function T/T0 = f(M/m) valid for a simple pendulum, the experimental points obtained using the chain, and listed in the table obtained in Q4, and the corresponding points calculated for a rigid rod. Summarize in a table the results relating to the calculation of the latter.
 It is assumed that, in the case of the chain, the function T/T0 = f(M/m) takes the form
 T
 T0
-= a
-(2 + 6M/m
+= a (2 + 6M/m
 3 + 6M/m
-)b
-(2)
+)b (2)
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Curve Fitting (competenza)|Curve Fitting]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1IuagliyUYlWA7KlOH-9IbTTYl3DX0f9B/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G0v69bHntCmPDJLKy_-PE3LqGZ4Klwuw/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1G0v69bHntCmPDJLKy_-PE3LqGZ4Klwuw/view)
 
 
 

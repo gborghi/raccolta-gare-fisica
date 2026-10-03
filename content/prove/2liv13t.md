@@ -659,29 +659,29 @@ Si vuole determinare la corrente misurata dal milliamperometro in queste condizi
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of electrical equipment used in the manufacture of electrical equipment:
+**Problem 3 – Two electrical ones in one** [20 points]
 
-The following information shall be provided:
+**Part A**
 
-Three small charge spheres $S$, $S_1$, $S_2$ are arranged as shown in the figure, at the vertices of a rectangular triangle whose cathetes are in the $3:2$ ratio. Under these conditions, a force of $S$ intensity $F$, oriented to $45°$, acts on the sphere $S$ with respect to the lines of the two cathetes.
+Three small charged spheres $S$, $S_1$, $S_2$ are arranged as in the figure, at the vertices of a right triangle whose legs are in the ratio $3:2$ to each other. Under these conditions, a force of magnitude $F$ acts on sphere $S$, oriented at $45°$ with respect to the lines of the two legs.
 
-1. Determine the ratio of loads present on the $S_2$ and $S_1$ spheres.
+1. Determine the ratio of the charges present on the small spheres $S_2$ and $S_1$.
 
-The positions of the spheres $S_1$ and $S_2$ are exchanged leaving $S$ still.
+The positions of spheres $S_1$ and $S_2$ are swapped while $S$ is kept fixed.
 
-2. Determine the ratio of the force intensity $\vec{F}'$ agent now on the sphere $S$ to that of the force $\vec{F}$.
+2. Determine the ratio between the magnitude of the force $\vec{F}'$ now acting on sphere $S$ and that of force $\vec{F}$.
 
 ---
 
-The following information shall be provided:
+**Part B**
 
-The circuit in the figure is powered by a constant current generator $I_0$; the resistance values are $R_1 = R_3 = R$, $R_2 = 3R$, $R_4 = 2R$ respectively, while the measuring instrument (a milliampereometer) has negligible resistance.
+The circuit in the figure is powered by a constant-current generator $I_0$; the resistances are respectively $R_1 = R_3 = R$, $R_2 = 3R$, $R_4 = 2R$, while the measuring instrument (a milliammeter) has negligible resistance.
 
-You want to determine the current measured by the millimeter under these conditions.
+The goal is to determine the current measured by the milliammeter under these conditions.
 
-1. Why can it be said that the two resistances $R_1$ and $R_2$ behave as if they were in parallel? (and similarly for $R_3$ with $R_4$)
-2. Calculate, according to $I_0$, the values of the currents flowing through the four resistors.
-3. What is the value of the current measured by the milliampereometer, if $I_0 = 360\,\text{mA}$?
+1. Why can it be stated that the two resistances $R_1$ and $R_2$ behave as if they were in parallel? (and similarly for $R_3$ with $R_4$)
+2. Calculate, as a function of $I_0$, the values of the currents flowing in the four resistors.
+3. What then is the value of the current measured by the milliammeter, if $I_0 = 360\,\text{mA}$?
 <!--fig:start-->
 
 
@@ -726,16 +726,11 @@ You want to determine the current measured by the millimeter under these conditi
 </figure>
 
 
-*Rectangle with loaded spheres *
+*Right triangle with charged spheres*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2liv13T/2liv13T_p7_f7.png]]
-*Circuit with four resistors and a milliampeter*
+*Circuit with four resistors and milliammeter*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Circuits]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1zsXpmeQH44RWKKaKePBZBcM8f7fyDyHA/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iWrY46a88P5N15v3VRcizanPQhH8rX8-/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1iWrY46a88P5N15v3VRcizanPQhH8rX8-/view)

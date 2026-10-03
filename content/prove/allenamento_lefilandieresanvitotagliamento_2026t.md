@@ -166,18 +166,13 @@ Giovanni lancia un gavettone contro un muro che si trova davanti a lui. Il gavet
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Gavettone contro un muro**
+**Water balloon against a wall**
 
-John throws a gavel at a wall in front of him. The gauge shall start at a height of $1.60\ \mathrm{m}$ with a speed of $10\ \mathrm{m/s}$ and a launch angle (as compared to the ground) of $35^\circ$ upwards. Sapendo che il muro dista $5\ \mathrm{m}$ dal punto di lancio e che l'attrito con l'aria è trascurabile, a quale altezza il gavettone si scontra con il muro?
+Giovanni throws a water balloon against a wall in front of him. The water balloon starts from a height equal to $1.60\ \mathrm{m}$ with a speed of $10\ \mathrm{m/s}$ and a launch angle (with respect to the ground) of $35^\circ$ upward. Knowing that the wall is $5\ \mathrm{m}$ from the launch point and that air friction is negligible, at what height does the water balloon hit the wall?
 
-**Unità di misura:** m. **Precisione richiesta:** 0.5%.
+**Unit of measurement:** m. **Required precision:** 0.5%.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
 
 
@@ -379,18 +374,13 @@ The following is the list of the measurement units: The following information is
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Termometro sonoro**
+**Sonic thermometer**
 
-You can build a thermometer using a harmonic sound generator and taking advantage of the dependency of sound speed on temperature. Ponendo il generatore all'estremità aperta di un tubo di risonanza, chiuso all'altra estremità, si osserva che, alla temperatura di $20.0\ ^\circ\mathrm{C}$, si produce un'onda stazionaria alla frequenza di $440.0\ \mathrm{Hz}$. On a different day, the same stationary wave is expressed at $452.3\ \mathrm{Hz}$. What is the temperature value in the second case assuming the thermal expansion of the pipe is negligible?
+It is possible to build a thermometer using a generator of harmonic sounds and exploiting the dependence of the speed of sound on temperature. By placing the generator at the open end of a resonance tube, closed at the other end, it is observed that, at the temperature $20.0\ ^\circ\mathrm{C}$, a standing wave is produced at the frequency $440.0\ \mathrm{Hz}$. On a different day, the same standing wave appears at the frequency $452.3\ \mathrm{Hz}$. What is the temperature in the second case, assuming that the thermal expansion of the tube is negligible?
 
-**Unità di misura:** $^\circ\mathrm{C}$. **Precisione richiesta:** 0.5%.
+**Units of measurement:** $^\circ\mathrm{C}$. **Required precision:** 0.5%.
 
-**Topic:** [[Oscillations & Waves]], [[Thermodynamics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1ygj8zXGqhL6vj6hq_nlIQvL8-rwoH3oH/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Shwz7b_nAS3nAc-F0oj22g2gIVazAbg9/view)
 
 
 

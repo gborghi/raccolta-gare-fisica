@@ -535,80 +535,45 @@ non usare il materiale, nemmeno parzialmente, per fini commerciali.
 <div class="qlang-split" data-lang="en"></div>
 
 P3
-Fluid oscillations
-The following points shall be added:
-An ideal fluid (1), contained in a tube
-U-shaped, balanced as shown in Figure 1,
-In the presence of the gravitational field. The length of the tube is $A$, the fluid density $\rho$, the length of the tube $L$.
-The difference between the fluid and the fluid is $h < L/2$
-the distance between the bottom of the tube and the fluid points placed
-higher up.
-In all the figures shown in the problem, the curved parts that
-The length of the tube is much smaller than the diameter of the tube.
-In the game, so you can describe the points in the fluid using a single coordinate. However, these curved parts are
-The Commission shall adopt implementing acts in accordance with the procedure referred to in Article 2 of Regulation (EC) No 1272/2003.
+Oscillations of a fluid
+100 points
+An ideal fluid (1), contained in a U-shaped tube, settles in equilibrium as shown in figure 1, in the presence of the gravitational field. Let $A$ be the cross-section of the tube, $\rho$ the density of the fluid, $L$ the length of the section of tube occupied by the fluid, and $h < L/2$ the difference in height between the lower section of the tube and the highest points of the fluid.
+In all the figures shown in the problem, the curved parts that join the straight sections of the tube have been exaggerated for clarity, but, throughout the problem, it must be assumed that the diameter of the tube is much smaller than the lengths involved, so that the points in the fluid can be described by a single coordinate. Such curved parts, however, are necessary to avoid the formation of turbulence.
 (1)
-The problem for 'ideal fluid' means an incompressible, non-viscous fluid which can be neglected by friction with the
-walls of the conduit where it flows. It is also assumed that the fluid never flows in a turbulent mode.
-1. What is the pressure on the bottom of the tube under equilibrium conditions, as shown in Figure 1, if $p_0$ is the pressure
-The atmosphere?
-The left end of the tube is closed and, by means of a
-The pressure inside the pump is increased.
-up to $p_1$. As a result, the fluid moves to the
-Right, rising slightly $z_0$ above the level
-originally, but without reaching the edge of the tube.
-2. With reference to the new balance configuration
-As shown in Figure 2, what is $z_0$?
-Use only the $z_0$ parameter below and not your
-The expression just found.
-3. The potential energy of the energy is determined by selecting any point in the horizontal line of the
-The system's gravitational potential energy, based on the parameters provided in the
-The Commission has already taken a number of measures.
-The lid is removed instantly and, as a result, the fluid begins to move. In a general moment of
-time, be $z(t)$ the right hair share.
-4. Find the $z = z(t)$ time law that describes the motion of the upper right end of the fluid, where $t$ is
-measured from the moment the lid is removed.
-The situation just studied refers to a fluid that is neither in static conditions nor moving in mode
-The pressure at each point of the fluid cannot be calculated by using either the
-The law of Stevino, nor the Bernoulli theorem in its classical formulation. However, having already determined that the
-The total movement of the fluid, it will be sufficient to study the dynamics of each fluid portion separately for
-Each of the three sections of the U tube.
-In a general moment of time $t$, consider the following:
-extreme points of the fluid (1 and 2 in Figure 3) and all points of the fluid included in these are parameterized
-by the coordinate $s$, which runs from 0 (point 1) to $L$
-(point 2)
-5. Find the pressure gradient $p_z(s)$ as a function of $s$ (between $s = 0$ and $s = L$), for each value
-istantaneo di $z$.
-6. Graphically represent the $p_z(s)$ trend found in the previous point, specifying at which points of the tube the
-pressure is maximum, separately in both cases
-$z > 0$ e $z < 0$.
-If the viscous effects cannot be overlooked, changes to the
-model. Viscosity is described by introducing a friction force, which depends on the mean speed $\langle v\rangle$ of the
-Particles of the fluid:
-$$F_v = 8\pi \mu L\langle v\rangle$$
-where $\mu$ is the viscosity coefficient.
-Of course, it is expected that the
-The new time law $z(t)$ has a dim trend, due to the energy dissipation due to these effects.
-Starting from slightly different initial conditions, a motor of this type is observed.
-$$z(t) = z_0 \cos(\omega t)\, e^{-t/\tau}$$
-with $\tau$ characteristic time of attenuation.
-7. Find the characteristic time $\tau$ and pulse $\omega$ of the oscillating system depending on the viscosity $\mu$ and
-The Commission will examine the other parameters of the problem.
- Page 6 of 8 
-AIF  Physics Championships 2026
-National competition  17 April 2026  Theoretical proof
-Table of physical constants
-Primary physical constants
-The following table shows the total value of the assets of the Union industry as defined in Article 107 (1) of the Treaty:
-The following is a list of the
-I'm going to be a little late.
-The value
-Unity
+In the problem, by "ideal fluid" is meant an incompressible, non-viscous fluid such that friction with the walls of the conduit in which it flows can be neglected. It is also assumed that the fluid never flows in a turbulent regime.
+1. What is the pressure at the bottom of the tube under equilibrium conditions, as in figure 1, if $p_0$ is the atmospheric pressure?
+The left end of the tube is plugged and, by means of an air pump, the pressure inside it is increased to the value $p_1$. Consequently, the fluid moves to the right, rising by a distance $z_0$ above the original level, but without reaching the edge of the tube.
+2. With reference to the new equilibrium configuration shown in figure 2, what is the value of $z_0$?
+In the following, use only the parameter $z_0$ and not its expression just found.
+3. Choosing as the zero of potential energy any point belonging to the horizontal section of the tube, find the gravitational potential energy possessed by the system, as a function of the parameters provided earlier.
+The plug is removed instantaneously and, consequently, the fluid begins to move. At a generic instant of time, let $z(t)$ be the height of the right free surface.
+4. Find the equation of motion $z = z(t)$ that describes the motion of the upper right end of the fluid, where $t$ is measured from the instant at which the plug is removed.
+The situation just studied refers to a fluid that is neither in static conditions nor moving in a steady regime; consequently, to calculate the pressure at every point of the fluid, neither Stevin's law nor Bernoulli's theorem in its classical formulation can be applied. However, having already determined the overall motion of the fluid, it will be sufficient to study the dynamics of each portion of fluid, separately for each of the three sections of the U-shaped tube.
+At a generic instant of time $t$, consider the extreme points of the fluid (1 and 2 in figure 3) and parametrize all the points of the fluid between them by means of the coordinate $s$, which goes from 0 (point 1) to $L$ (point 2).
+5. Find the behavior of the pressure $p_z(s)$ as a function of $s$ (between $s = 0$ and $s = L$), for every instantaneous value of $z$.
+6. Represent graphically, in a qualitative way, the behavior of $p_z(s)$ found in the previous point, specifying at which points of the tube the pressure is maximum, separately in the two cases
+$z > 0$ and $z < 0$.
+In the case in which the viscous effects cannot be neglected, some modifications need to be made to the model. Viscosity is described by introducing a friction force, depending on the average velocity $\langle v\rangle$ of the fluid particles:
+$$F_v = 8\pi \mu L\langle v\rangle$$ where $\mu$ is the viscosity coefficient.
+Naturally, one expects that the new equation of motion $z(t)$ will have a damped behavior, due to the dissipation of energy caused by such effects.
+Starting from initial conditions slightly different from the previous ones, a motion of this type is observed
+$$z(t) = z_0 \cos(\omega t)\, e^{-t/\tau}$$ with $\tau$ characteristic damping time.
+7. Find the characteristic time $\tau$ and the angular frequency $\omega$ of the oscillating system as a function of the viscosity $\mu$ and of the other parameters of the problem.
+— Page 6 of 8 —
+AIF – Physics Championships 2026
+National Competition – 17 April 2026 – Theoretical Test
+Table of Physical Constants
+Primary Physical Constants
+[ Exact values by definition – (26.CGPM/16.11.2018) ]
+CONSTANT
+SYMB.
+VALUE
+UNIT
 Speed of light in vacuum
 $c$
 $2.997\,924\,58\times10^8$
 $\text{m s}^{-1}$
-Basic load
+Elementary charge
 $e$
 $1.602\,176\,634\times10^{-19}$
 C
@@ -616,23 +581,22 @@ Planck constant
 $h$
 $6.626\,070\,15\times10^{-34}$
 J s
-The Boltzmann constant is the constant
+Boltzmann constant
 $k$
 $1.380\,649\times10^{-23}$
 $\text{J K}^{-1}$
-The Avogadro constant is the
+Avogadro constant
 $N_A$
 $6.022\,140\,76\times10^{23}$
 $\text{mol}^{-1}$
 Defined constants
-[ Accurate values by convention ]
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 28 of this Regulation. I'm not going to lie. The following is the list of the countries of the European Union:
+[ Exact values by convention ]
+Astronomical unit
+[ 28th IAU General Assembly (2012) ]
 au
-149 597 870 700
-m
-Acceleration by gravity
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+149 597 870 700 m
+Acceleration of gravity
+[ 3rd CGPM (1901) ]
 $g$
 9.80665
 $\text{m s}^{-2}$
@@ -645,111 +609,98 @@ $p_a$
 $1.01325\times10^5$
 Pa
 Other physical constants
-[Wells rounded with $\varepsilon_r < 10^{-5}$ ] †
-Mass of the electron
+[ Values rounded with $\varepsilon_r < 10^{-5}$ ] †
+Electron mass
 $m_e$
-$9.1094\times10^{-31}$
-kg
+$9.1094\times10^{-31}$ kg
 $= 5.1100\times10^2$
 $\text{keV c}^{-2}$
-Mass of proton
+Proton mass
 $m_p$
-$1.67262\times10^{-27}$
-kg
+$1.67262\times10^{-27}$ kg
 $= 9.3827\times10^2$
 $\text{MeV c}^{-2}$
-Mass of the neutron
+Neutron mass
 $m_n$
-$1.67493\times10^{-27}$
-kg
+$1.67493\times10^{-27}$ kg
 $= 9.3955\times10^2$
 $\text{MeV c}^{-2}$
-The magnetic permeability of the vacuum
+Magnetic permeability of vacuum
 $\mu_0$
 $1.25664\times10^{-6} = 4\pi\times10^{-7}$
 $\text{H m}^{-1}$
-Costante dielettrica del vuoto: $1/(\mu_0 c^2)$
+Dielectric constant of vacuum: $1/(\mu_0 c^2)$
 $\varepsilon_0$
 $8.8542\times10^{-12}$
 $\text{F m}^{-1}$
-Costante elettrostatica: $1/(4\pi\varepsilon_0)$
+Electrostatic constant: $1/(4\pi\varepsilon_0)$
 $k_{es}$
 $8.9876\times10^9 = c^2\times10^{-7}$
 $\text{m F}^{-1}$
-The gas constant is the universal gas constant: $N_A k$
+Universal gas constant: $N_A k$
 $R$
 8.3145
 $\text{J mol}^{-1} \text{K}^{-1}$
-Costante di Faraday: $N_A e$
+Faraday constant: $N_A e$
 $F$
 $9.6485\times10^4$
 $\text{C mol}^{-1}$
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first
+Stefan–Boltzmann constant
 $\sigma$
 $5.6704\times10^{-8}$
 $\text{W m}^{-2} \text{K}^{-4}$
-The universal gravitational constant is the
+Universal gravitational constant
 $G$
 $6.674\times10^{-11}$
 $\text{m}^3 \text{kg}^{-1} \text{s}^{-2}$
-Molar volume of a perfect gas
-in standard conditions ($p_a$, $T_0$)
+Molar volume of an ideal gas under standard conditions ($p_a$, $T_0$)
 $V_m$
 $2.2414\times10^{-2}$
 $\text{m}^3 \text{mol}^{-1}$
-Unit of atomic mass
-u
-$1.66054\times10^{-27}$
-kg
+Atomic mass unit u
+$1.66054\times10^{-27}$ kg
 Table of data that may be needed †
-Density of water (in $4\ ^\circ\text{C}$)
+Density of water (at $4\ ^\circ\text{C}$)⋆
 $\rho_a$
 $1.00000\times10^3$
 $\text{kg m}^{-3}$
-The specific temperature of the water (at $20\ ^\circ\text{C}$)
+Specific heat of water (at $20\ ^\circ\text{C}$)⋆
 $c_a$
 $4.182\times10^3$
 $\text{J kg}^{-1} \text{K}^{-1}$
-The ice density (in $0\ ^\circ\text{C}$)
+Density of ice (at $0\ ^\circ\text{C}$)⋆
 $\rho_{g,0}$
 $0.917\times10^3$
 $\text{kg m}^{-3}$
-Heat of melting ice
+Heat of fusion of ice
 $\lambda_f$
 $3.344\times10^5$
 $\text{J kg}^{-1}$
-Heat of evaporation of water (at $100\ ^\circ\text{C}$)
+Heat of vaporization of water (at $100\ ^\circ\text{C}$)⋆
 $\lambda_v$
 $2.257\times10^6$
 $\text{J kg}^{-1}$
 †
-To be considered accurate in the solution of the Physics Championships tests.
+To be considered exact in the solution of the Physics Olympiad tests.
 ⋆
-Unless otherwise explicitly stated, these data can be used at other temperatures without significant errors.
- Page 7 of 8 
-AIF  Physics Championships 2026
-National competition  17 April 2026  Theoretical proof
-Good note:
-You can use, reproduce, distribute,
-communicate this material to the public
-under the following two conditions:
-the source is given;
-not to use the material, even partially, for commercial purposes.
- Page 8 of 8 
+Unless otherwise explicitly indicated, these data may also be used at other temperatures without significant errors.
+— Page 7 of 8 —
+AIF – Physics Championships 2026
+National Competition – 17 April 2026 – Theoretical test
+NOTE:
+It is possible to use, reproduce, distribute, and communicate this material to the public under the following two conditions:
+cite the source;
+do not use the material, even partially, for commercial purposes.
+— Page 8 of 8 —
 
 <!--fig:start-->
-**p.6 **  U-tube with displaced fluid
+**p.6** — U-tube with displaced fluid
 ![[_attachments/Naz26T/Naz26T_p6_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6 **  U-tube with second fluid
+**p.6** — U-tube with a second fluid
 ![[_attachments/Naz26T/Naz26T_p6_f6.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Differential Equations (metodo)|Differential Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1RWEaN6IQFmgca_7t1c1MnlZ1U9eVaEsS/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1trN4f0o9s734RrgsCyPWkYo39djazXzl/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1trN4f0o9s734RrgsCyPWkYo39djazXzl/view)

@@ -65,50 +65,32 @@ a risalire sulla semisfera; disegnare queste due situazioni.
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-Particles on the hemisphere
-The following points shall be added:
-A hemisphere of mass $M$ and radius $R$ is supported above a horizontal plane. One of them.
-The mass of the particle $m$, which is insignificant compared to that of the hemisphere, can be
-I'm gonna slip on it. All the friction is negligible.
-The position of the particle on the hemisphere is
-defined by the angle $\theta$ shown in Figure 1.
-The hemisphere is held firm by a horizontal cable, which is unobtrusive and of negligible mass, fixed at a point at its base. The particle is placed in the position $\theta_0$ and sliding at a speed
-Initial zero to the point where the cable is fixed. The cable, the center of the hemisphere and the particle are in the same place.
-vertical plane throughout the entire engine.
-1. Draw a diagram of the described situation and represent the free body diagram of $m$.
-2. What is $\theta_0$ if the mass is detached from the hemisphere at the point with $\theta_1 = 60^\circ$?
-3. Now by placing $\theta_0 \approx 0$, express the cable voltage $T$ form as a function of the angle $\theta$ included
-between 0 and $\theta_\text{dist}$, where $\theta_\text{dist}$ indicates the angle of detachment in this new situation.
-4. The graph of $T/(mg) = f(\theta)$ is shown in Figure 1. Complete this by indicating the scale on each axis,
-determining the zeros and coordinates of the maximum $f(\theta)$.
-Now the particle is fixed to the top of the hemisphere with a wire (inextensible and of negligible mass),
-a length of less than $\pi R/2$. The particle is held firm by the thread stretched in contact, without friction, with the
-the surface of the hemisphere.
-At a certain moment the cable holding the hemisphere is removed and a cable is applied to the base of the hemisphere.
-horizontal force $\vec{F}$ in the vertical plane containing both the wire and the particle. The force modulation, initially
-It grows over time.
-5. Draw a diagram of the forces applied to the particle before the $\vec{F}$ force is activated. The Commission
-Then qualitatively, under what conditions can the particle detach from the hemisphere and where can it start
-I'm going to go back to the hemisphere, draw these two situations.
+Particle on a hemisphere
+Points 100
+A hemisphere of mass $M$ and radius $R$ rests on a horizontal plane. A particle of mass $m$, whose dimensions are negligible compared to those of the hemisphere, can slide on it. All friction is negligible.
+The position of the particle on the hemisphere is defined by the angle $\theta$ shown in the figure.
+The hemisphere is held still by a horizontal, inextensible cable of negligible mass, fixed at a point on its base. The particle is placed in the position $\theta_0$ and made to slide with zero initial velocity toward the point where the cable is fixed. The cable, the center of the hemisphere and the particle lie in the same vertical plane throughout the motion.
+1. Draw schematically the situation described and represent the free-body diagram of $m$.
+2. What is $\theta_0$ if the mass detaches from the hemisphere at the point with $\theta_1 = 60^\circ$?
+3. Now setting $\theta_0 \approx 0$, express the magnitude of the tension $T$ of the cable as a function of the angle $\theta$ between 0 and $\theta_\text{dist}$, where $\theta_\text{dist}$ denotes the detachment angle in this new situation.
+4. The figure shows the graph of $T/(mg) = f(\theta)$. Complete it by indicating the scale on each axis, determining the zeros and the coordinates of the maximum of $f(\theta)$.
+Now the particle is fixed to the top of the hemisphere with a string (inextensible and of negligible mass), of given length shorter than $\pi R/2$. The particle is held still by the taut string in contact, without friction, with the surface of the hemisphere.
+At a certain instant the cable that held the hemisphere is removed and a horizontal force $\vec{F}$ is applied at the base of the hemisphere in the vertical plane containing both the string and the particle. The magnitude of the force, initially zero, grows over time.
+5. Draw the free-body diagram of the forces applied to the particle before the force $\vec{F}$ is activated. Then discuss qualitatively under what conditions the particle can detach from the hemisphere and under what conditions it can begin to climb up the hemisphere; draw these two situations.
 6. Determine the minimum force $\vec{F}$ required for the particle to detach from the hemisphere.
-7. Determine the minimum force $\vec{F}$ required for the particle to begin to rise upward along the hemisphere.
+7. Determine the minimum force $\vec{F}$ required for the particle to begin climbing along the hemisphere.
 
 <!--fig:start-->
-**p.4 **  Hemisphere with theta particle and angle
+**p.4** — Hemisphere with particle and angle theta
 ![[_attachments/Naz23T/Naz23T_p4_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the number of samples taken:
+**p.4** — Graph of T/(mg) as a function of theta
 ![[_attachments/Naz23T/Naz23T_p4_f2.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1wwDDkJxD89mfdsRBURMYjAkddC7XWNk6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1mRasVjTYxObNd-qYFug_voSp5UxkJLbg/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1mRasVjTYxObNd-qYFug_voSp5UxkJLbg/view)
 
 
 
@@ -453,63 +435,37 @@ Salvo diversa indicazione esplicita, questi dati si potranno utilizzare anche ad
 
 P3
 Interferometric measurements
-The following points shall be added:
-A source emits a monochrome and isotropic electromagnetic wave. Lungo l'asse $x$, a grande
-distance, the wave can be treated as a flat wave and described by its electric field
-$$E(x, t) = A \operatorname{sen}(kx - \omega t + \phi_0)$$
-with $k = 2\pi/\lambda$ and $\omega = 2\pi/T$, the wavelength and radiation period being $\lambda$ and $T$ and the variable time being $t$;
-$\phi_0$ is a phase constant which, for the choice of the origins of $x$ and $t$, can be assumed to be zero.
-Interference can be produced with only one
-source if it is placed in front of a flat mirror at $s$ distance from this, while
-A detector is placed at $d \gg s$
-As shown in the figure. For the given condition, the amplitude $A$ of the incident wave
-directly and the wave that was reflected in the mirror is pretty much the same on the detector.
-The detector shall measure the radiation power received per unit area over time;
-The size, proportional to the square of the wave electric field, is called the irradiance $I$ and, in this
-If the detector is uniformly positioned on the surface of the detector,
-1. It is shown that the irradiance $I$ in the function of $s$ is written as $I(s) = C \operatorname{sen}^2(2\pi s/\lambda)$ where $C$ is an opportunity
-The time is constant.
-In the figure next to this, an interferometer is shown.
-Mounted on a table, seen from above.
-$L$ is an He-Ne laser that emits a beam of light from
-Wavelength $\lambda = 632.8\ \text{nm}$ to a reflecting mirror of insignificant thickness $T$, placed at a
-angle of $45^\circ$ with the beam of light. When a reflective mirror is hit by radiation,
-Half of it is reflected and half is transmitted. I
-Two beams produced by $T$ then reach the two mirrors $S_1$ and $S_2$, are reflected, meet again
-The mirror $T$ and they arrive, further halved, on the
-rivelatore $R$. The two beams of incident on the detector can be
-be treated as flat waves (collinear beams).
-$S_1$ and $S_2$ shall initially have the same distance $d$ from $T$. $S_2$ can be moved from one stroke $s$, so that the distance between the two
-The result of $T$ is $d + s$.
-2. Draw the radiance graph $I$ on the detector $R$ depending on the time as the mirror $S_2$ is
-Slowly shifted to a constant speed $v$ so that $s$ varies from 0 to $2\lambda$ in 8,437 s.
-3. What relative error should be used to measure the frequency of radiation received in order to
-apprezzare l'effetto Doppler dovuto al fatto che lo specchio $S_2$ è in moto?
-Replace the $L$ laser with a hydrogen vapor lamp that emits radiation at different lengths
-The Commission has already adopted a proposal for a directive on the protection of the environment.
-As before the distance $s$ is slowly increased from 0, at the same speed as point 2.
-so that the irradiance on the $R$ detector varies over time; the following graph shows the function of $I(t)$ in units
-The Commission has not yet adopted a decision.
-4. By taking the necessary measurements on the chart, calculate the two filtered wavelengths between those emitted
-from the lamp.
-The radiation in question is assumed to be first produced by an electron transition from a level
-The energy level $n_1 > 5$ at $n = 5$ and the energy level from this to $n_2 < 5$.
-5. Determine the energy levels $n_1$ and $n_2$ knowing that the radiation composition is that given at
-the following points are added:
-Suggestion: It may be helpful to consult the chart with useful mathematical formulas.
+100 points
+A source emits a monochromatic and isotropic electromagnetic wave. Along the axis $x$, at a great distance, the wave can be treated as a plane wave and described by its electric field
+$$E(x, t) = A \operatorname{sen}(kx - \omega t + \phi_0)$$ with $k = 2\pi/\lambda$ and $\omega = 2\pi/T$, where $\lambda$ and $T$ are the wavelength and the period of the radiation and $t$ is the time variable;
+$\phi_0$ represents a phase constant which, for the choice of the origins of $x$ and $t$, can be assumed to be zero.
+Interference can be produced with a single source if it is placed in front of a plane mirror at a distance $s$ from it, while at a distance $d \gg s$ a detector is placed as shown in the figure. For the given condition, the amplitude $A$ of the wave incident directly and that of the wave that has undergone reflection on the mirror are practically equal on the detector.
+The detector measures the power of the radiation received per unit area averaged over time; this quantity, proportional to the square of the electric field of the wave, is called irradiance $I$ and, in this case, is uniform over the surface of the detector.
+1. Show that the irradiance $I$ as a function of $s$ is written as $I(s) = C \operatorname{sen}^2(2\pi s/\lambda)$ where $C$ is a suitable constant.
+In the figure alongside, an interferometer mounted on a table is shown, viewed from above.
+$L$ is a He-Ne laser that emits a light beam of wavelength $\lambda = 632.8\ \text{nm}$ toward a semi-reflecting mirror $T$, of negligible thickness, placed at an angle of $45^\circ$ with the light beam. When a semi-reflecting mirror is struck by radiation, half of it is reflected and half is transmitted. The two beams produced by $T$ therefore reach the two mirrors $S_1$ and $S_2$, are reflected, meet the mirror $T$ again and arrive, further halved, on the detector $R$. The two beams incident on the detector can be treated as plane waves (collimated beams).
+$S_1$ and $S_2$ initially have the same distance $d$ from $T$. $S_2$ can be translated by a stretch $s$, so that the distance from $T$ is $d + s$.
+2. Draw the graph of the irradiance $I$ on the detector $R$ as a function of time while the mirror $S_2$ is slowly moved at constant speed $v$ so that $s$ varies from 0 to $2\lambda$ in 8.437 s.
+3. With what relative error should the frequency of the received radiation be measurable in order to appreciate the Doppler effect due to the fact that the mirror $S_2$ is in motion?
+The laser $L$ is replaced with a hydrogen vapor lamp which emits radiation at different wavelengths; suitable filters let through only two monochromatic radiations.
+As before, the distance $s$ is increased slowly starting from 0, at the same speed as in point 2., so that on the detector $R$ the irradiance varies over time; the following graph shows the function of $I(t)$ in arbitrary units.
+4. By taking the necessary measurements from the graph, calculate the two filtered wavelengths among those emitted by the lamp.
+Assume that the radiations considered are produced, the first by a transition of electrons from an energy level $n_1 > 5$ to level $n = 5$ and the second from this to a level $n_2 < 5$.
+5. Determine the energy levels $n_1$ and $n_2$ knowing that the composition of the radiation is that given in point 4.
+Hint: it may be useful to consult the table with useful mathematical formulas.
 
-Table of physical constants
-Primary physical constants
-The following table shows the total value of the assets of the Union industry as defined in Article 107 (1) of the Treaty:
-The following is a list of the
-I'm going to be a little late.
-The value
-Unity
+Table of Physical Constants
+Primary Physical Constants
+[ Exact values by definition – (26.CGPM/16.11.2018) ]
+CONSTANT
+SYMB.
+VALUE
+UNIT
 Speed of light in vacuum
 $c$
 $2.997\,924\,58 \times 10^8$
 $\text{m s}^{-1}$
-Basic load
+Elementary charge
 $e$
 $1.602\,176\,634 \times 10^{-19}$
 C
@@ -517,58 +473,55 @@ Planck constant
 $h$
 $6.626\,070\,15 \times 10^{-34}$
 J s
-The Boltzmann constant is the constant
+Boltzmann constant
 $k$
 $1.380\,649 \times 10^{-23}$
 $\text{J K}^{-1}$
-The Avogadro constant is the
+Avogadro constant
 $N_A$
 $6.022\,140\,76 \times 10^{23}$
 $\text{mol}^{-1}$
-Other physical constants †
-Mass of the electron
+Other Physical Constants †
+Electron mass
 $m_e$
-$9.1094 \times 10^{-31}$
-kg
+$9.1094 \times 10^{-31}$ kg
 $= 5.1100 \times 10^2$
 $\text{keV } c^{-2}$
-Mass of proton
+Proton mass
 $m_p$
-$1.67262 \times 10^{-27}$
-kg
+$1.67262 \times 10^{-27}$ kg
 $= 9.3827 \times 10^2$
 $\text{MeV } c^{-2}$
-Mass of the neutron
+Neutron mass
 $m_n$
-$1.67493 \times 10^{-27}$
-kg
+$1.67493 \times 10^{-27}$ kg
 $= 9.3955 \times 10^2$
 $\text{MeV } c^{-2}$
-The magnetic permeability of the vacuum
+Magnetic permeability of vacuum
 $\mu_0$
 $4\pi \times 10^{-7} = 1.25664 \times 10^{-6}$
 $\text{H m}^{-1}$
-Costante dielettrica del vuoto: $1/(\mu_0 c^2)$
+Dielectric constant of vacuum: $1/(\mu_0 c^2)$
 $\varepsilon_0$
 $8.8542 \times 10^{-12}$
 $\text{F m}^{-1}$
-Costante elettrostatica: $1/(4\pi\varepsilon_0)$
+Electrostatic constant: $1/(4\pi\varepsilon_0)$
 $k_\text{es}$
 $c^2 \times 10^{-7} = 8.9876 \times 10^9$
 $\text{m F}^{-1}$
-The gas constant is the universal gas constant: $N_A k$
+Universal gas constant: $N_A k$
 $R$
 $8.3145$
 $\text{J mol}^{-1}\,\text{K}^{-1}$
-Costante di Faraday: $N_A e$
+Faraday constant: $N_A e$
 $F$
 $9.6485 \times 10^4$
 $\text{C mol}^{-1}$
-The following is the list of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first
+Stefan–Boltzmann constant
 $\sigma$
 $5.6704 \times 10^{-8}$
 $\text{W m}^{-2}\,\text{K}^{-4}$
-The universal gravitational constant is the
+Universal gravitational constant
 $G$
 $6.674 \times 10^{-11}$
 $\text{m}^3\,\text{kg}^{-1}\,\text{s}^{-2}$
@@ -580,70 +533,61 @@ Standard temperature ($0\ ^\circ\text{C}$)
 $T_0$
 $273.15$
 K
-Molar volume of a perfect gas
-in standard conditions ($p_0$, $T_0$)
+Molar volume of an ideal gas under standard conditions ($p_0$, $T_0$)
 $V_m$
 $2.2414 \times 10^{-2}$
 $\text{m}^3\,\text{mol}^{-1}$
-Unit of atomic mass
+Atomic mass unit
 $u$
-$1.66054 \times 10^{-27}$
-kg
+$1.66054 \times 10^{-27}$ kg
 Table of data that may be needed †
-The acceleration of gravity (value) is the acceleration of the acceleration of gravity. (Conventional)
+Acceleration of gravity (conventional value)
 $g$
 $9.80665$
 $\text{m s}^{-2}$
-Density of water (in $4\ ^\circ\text{C}$)
+Density of water (at $4\ ^\circ\text{C}$)⋆
 $\rho_a$
 $1.00000 \times 10^3$
 $\text{kg m}^{-3}$
-The specific heat of the water (at $20\ ^\circ\text{C}$)
+Specific heat of water (at $20\ ^\circ\text{C}$)⋆
 $c_a$
 $4.182 \times 10^3$
 $\text{J kg}^{-1}\,\text{K}^{-1}$
-The ice density (in $0\ ^\circ\text{C}$)
+Density of ice (at $0\ ^\circ\text{C}$)⋆
 $\rho_{g,0}$
 $0.917 \times 10^3$
 $\text{kg m}^{-3}$
-Heat of melting ice
+Heat of fusion of ice
 $\lambda_f$
 $3.344 \times 10^5$
 $\text{J kg}^{-1}$
-Heat of water vaporization (at $100\ ^\circ\text{C}$)
+Heat of vaporization of water (at $100\ ^\circ\text{C}$)⋆
 $\lambda_v$
 $2.257 \times 10^6$
 $\text{J kg}^{-1}$
-The basic level of the hydrogen atom (H)
+Ground state of the hydrogen atom (H)
 $E_0$
-$-13.6$
-eV
-(or ionization energy)
+$-13.6$ eV (or ionization energy)
 $= -2.19 \times 10^{-18}$
 J
 †
-Round values to be considered accurate in the solution of the Physics Championships tests.
+Rounded values, to be considered exact in the solution of the Physics Olympiad tests.
 ⋆
-Unless otherwise explicitly stated, these data can be used at other temperatures without significant errors.
+Unless explicitly stated otherwise, these data may also be used at other temperatures without significant errors.
 
 <!--fig:start-->
-**p.6** — Schema sorgente specchio rivelatore lungo x
+**p.6** — Diagram source mirror detector along x
 ![[_attachments/Naz23T/Naz23T_p6_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.6** — Interferometro con specchi S1 S2
+**p.6** — Interferometer with mirrors S1 S2
 ![[_attachments/Naz23T/Naz23T_p6_f5.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.7** — Grafico irradianza I(t) nel tempo
+**p.7** — Graph of irradiance I(t) over time
 ![[_attachments/Naz23T/Naz23T_p7_f6.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]], [[Modern-Quantum Physics]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1wwDDkJxD89mfdsRBURMYjAkddC7XWNk6/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1mRasVjTYxObNd-qYFug_voSp5UxkJLbg/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1mRasVjTYxObNd-qYFug_voSp5UxkJLbg/view)

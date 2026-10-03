@@ -184,167 +184,112 @@ desliza livremente
 
 <div class="qlang-split" data-lang="it"></div>
 
-**questioni**
+**quesiti**
 
-Olimpiada Brasile in Fisica 2008 1a fase 1a e 2a serie
+Olimpiade Brasiliana di Fisica 2008 1a fase 1a e 2a serie
 
-Fase 1
-prova per studenti delle prime e delle seconde serie
-Leggi attentamente le istruzioni qui sotto:
-01) Questo test è rivolto esclusivamente agli studenti delle prime e delle seconde settorie. Ha trent'anni
-- Le domande.
-02) I studenti della prima elementare devono scegliere liberamente 20 domande da risolvere.
-03) Gli studenti della seconda elementare devono scegliere anche 20 domande da risolvere,
-esclusi quelli di 26, 27, 28, 29 e 30.
-04) Ogni domanda contiene cinque alternative, di cui solo una è corretta.
-05 ) L'alternativa ritenuta corretta deve essere indicata nella scheda delle risposte.
-06) La scheda di risposte con l'identificazione del studente si trova all'ultima pagina
-di questo libro e deve essere consegnato alla fine della prova.
-07) La durata di questo esame è di quattro ore e il studentino deve rimanere in sala per il
-almeno 90 minuti.
-09) L'uso di qualsiasi tipo di calcolatore è vietato.
-10) Quando necessario, utilizzare $g=10\ \text{m/s}^2$ per l'accelerazione gravitazionale; $V=(4/3)\cdot\pi\cdot R^3$ per l'accelerazione gravitazionale
-il volume di una sfera; $\text{sen}\,37^\circ=0{,}60$; $\text{sen}\,53^\circ=0{,}80$ e $\pi=3$.
+1a fase prova per gli studenti delle 1a e 2a serie
+LEGGERE ATTENTAMENTE LE ISTRUZIONI SEGUENTI:
+01) Questa prova è destinata esclusivamente agli studenti delle 1a e 2a serie. Contiene trenta quesiti.
+02) Gli studenti della 1a serie devono scegliere liberamente venti quesiti da risolvere.
+03) Gli studenti della 2a serie devono anch'essi scegliere venti quesiti da risolvere, eccettuati quelli numerati 26, 27, 28, 29 e 30.
+04) Ogni quesito contiene cinque alternative, delle quali solo una è corretta.
+05 ) L'alternativa giudicata corretta deve essere contrassegnata sul Foglio delle Risposte.
+06) Il Foglio delle Risposte con l'identificazione dello studente si trova nell'ultima pagina di questo fascicolo e dovrà essere consegnato al termine della prova.
+07) La durata di questa prova è di quattro ore, e lo studente deve rimanere in aula per almeno novanta minuti.
+09) È vietato l'uso di qualsiasi tipo di calcolatrice.
+10) Quando sia il caso, usare $g=10\ \text{m/s}^2$ per l'accelerazione gravitazionale; $V=(4/3)\cdot\pi\cdot R^3$ per il volume di una sfera; $\text{sen}\,37^\circ=0{,}60$; $\text{sen}\,53^\circ=0{,}80$ e $\pi=3$.
 
-01) L'intensità della forza orizzontale applicata a un proiettile che si muove nel tubo di una pistola
-dipende dalla sua posizione x, e viene data da $F = A - B\cdot x^{-1}$, in cui A e B sono due costanti. Da
-le unità di cui sopra, la sola che corrisponde a quella di B, sono:
+01) L'intensità della forza orizzontale applicata a un proiettile che si muove nella canna di un'arma da fuoco dipende dalla sua posizione x, ed è data da $F = A - B\cdot x^{-1}$, in cui A e B sono due costanti. Delle unità citate di seguito l'unica che corrisponde a quella della costante B è:
 - **A.** $\text{kg}^{-1}\cdot\text{m}^2\cdot\text{s}^{-3}$
 - **B.** $\text{kg}\cdot\text{m}\cdot\text{s}^{-2}$
 - **C.** $\text{kg}\cdot\text{m}\cdot\text{s}^{-1}$
 - **D.** $\text{kg}\cdot\text{m}^2\cdot\text{s}^{-2}$
 - **E.** $\text{kg}^{-2}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$
-02) Un'automobile si muove a destra a una velocità pari a $+70\ \text{km/h}$ rispetto al pavimento
-- La strada. Un punto del bordo superiore e un altro del bordo inferiore di un pneumatico di questo veicolo
-presentano rispettivamente velocità istantanee in km/h pari a
-- **A.** $+140$ e $0$ per quanto riguarda il pavimento.
-- **B.** $+140$ e $+70$ per quanto riguarda il pavimento.
-- **C.** $+70$ e $-70$ per quanto riguarda il pavimento.
-- **D.** $0$ e $-70$ per il veicolo.
-- **E.** $+70$ e $+70$ per il veicolo.
-03) Un distributore di merci di un magazzino utilizza un tipo speciale di bicicletta su cui il ruota
-Il diametro del fronte è due volte inferiore al diametro della ruota posteriore, così che, davanti,
-le merci possono essere collocate in un luogo adeguato. Quando questo veicolo è in movimento
-è corretto affermare che:
-- **A.** il periodo di rotazione della gomma maggiore è la metà del periodo di rotazione della gomma minore.
-- **B.** le velocità istantanee relative alla bicicletta, dei punti dei pneumatici in contatto con il suolo,
-Sono uguali
-c) la gomma minore ha una frequenza di rotazione quadruple quella della gomma maggiore.
-d) la gomma minore ha la stessa frequenza di rotazione della gomma maggiore.
-(e) le velocità angolari di rotazione delle gomme sono uguali.
-04) Considerare un punto sulla superficie terrestre che non si trova né all'equatore né all'asse di
-rotazione della Terra. Solo a causa della rotazione terrestre si può affermare che è sottoposto
-a un'accelerazione:
-- **A** nulla, poiché la velocità angolare della Terra è costante.
-- **B** tangente alla superficie terrestre, ma non attraversante l'asse terrestre.
-- MSK1 verso il centro della Terra.
+02) Un'automobile si muove verso destra con una velocità pari a $+70\ \text{km/h}$ rispetto al fondo stradale. Un punto del bordo superiore e un altro del bordo inferiore di un pneumatico di questo veicolo presentano, rispettivamente, velocità istantanee, in km/h, pari a
+- **A.** $+140$ e $0$ rispetto al fondo stradale.
+- **B.** $+140$ e $+70$ rispetto al fondo stradale.
+- **C.** $+70$ e $-70$ rispetto al fondo stradale.
+- **D.** $0$ e $-70$ rispetto al veicolo.
+- **E.** $+70$ e $+70$ rispetto al veicolo.
+03) Un fattorino addetto alle merci di un magazzino utilizza un tipo speciale di bicicletta in cui la ruota anteriore ha un diametro due volte minore del diametro della ruota posteriore affinché, davanti, possano essere collocate merci in un posto adeguato. Quando questo veicolo è in movimento si può affermare correttamente che:
+- **A.** il periodo di rotazione del pneumatico maggiore è la metà del periodo di rotazione del pneumatico minore.
+- **B.** le velocità istantanee, relative alla bicicletta, dei punti dei pneumatici a contatto con il suolo, sono uguali
+c) il pneumatico minore ha frequenza di rotazione quadrupla di quella del maggiore.
+d) il pneumatico minore ha la stessa frequenza di rotazione di quella del pneumatico maggiore.
+e) le velocità angolari di rotazione dei pneumatici sono uguali.
+04) Si consideri un punto sulla superficie terrestre che non si trova né all'equatore né sull'asse di rotazione della Terra. Unicamente a causa della rotazione terrestre è possibile affermare che esso è sottoposto a un'accelerazione:
+- **A.** nulla, poiché la velocità angolare della Terra è costante.
+- **B.** tangente alla superficie della Terra, ma che non passa per l'asse terrestre.
+- **C.** rivolta verso il centro della Terra.
 - **D.** perpendicolare all'asse di rotazione della Terra.
-- MSK1 - EMSK1 - voltato al di fuori del centro della Terra.
-05) La barra rappresentata è di peso irrilevante, articolato
-il punto C, è tenuto orizzontale attraverso un cavo che va
-da A a B e sostiene, con un cavo, un corpo di peso
-pari a $500{,}0\ \text{N}$. Il trazione del cavo da A a B vale:
+- **E.** rivolta verso l'esterno dal centro della Terra.
+05) L'asta rappresentata ha un peso trascurabile, è incernierata nel punto C, è mantenuta in orizzontale per mezzo di un cavo che va da A fino a B e sostiene, per mezzo di un cavo, un corpo di peso pari a $500{,}0\ \text{N}$. La tensione nel cavo che va da A fino a B vale:
 - **A.** 800N
 - **B.** 1200N
 - **C.** 1300N
 - **D.** 750N
 - **E.** 500N
 
-06) Due forze parallele dello stesso modulo e di senso opposto che agiscono in punti diversi di
-un unico corpo che forma quello che si conosce come binario o coppia di torsione congiunta. Su questo
-sistema, considera le seguenti affermazioni:
-I - Il risultato della coppia di forze che agisce in binario è nullo.
-II  Il momento risultante di un binario è zero.
-III  Il binario non contribuisce a modificare lo stato di movimento di traslazione di un corpo in cui è
-applicato.
-IV  Il momento del binario può essere calcolato per il prodotto dei moduli delle due forze moltiplicate
-per la distanza tra i loro punti di applicazione.
-È corretto affermare:
-- **A** II solo.
-- ** B.** I solo.
-- **C.** I e III solo.
-- ** D** II e III solo.
-- **E** II e IV solo.
-07) Il campo gravitazionale sulla superficie di Marte è circa uguale a un terzo del campo
-gravitazionale terrestre. Partendo dal riposo, e cadendo in libertà vicino alla superficie della Terra,
-Un corpo richiede t secondi per arrivare al suolo. Vicino alla superficie marziana, ci vorrà tempo.
-in un esperimento equivalente, un intervallo di tempo pari a:
+06) Due forze parallele di uguale modulo e di versi opposti agenti in punti diversi di uno stesso corpo formano quello che è noto come coppia o coppia di forze. Riguardo a questo sistema, considera le seguenti affermazioni:
+I - La risultante della coppia di forze che agisce nella coppia è nulla.
+II – Il momento risultante di una coppia è nullo.
+III – La coppia non contribuisce ad alterare lo stato di moto di traslazione di un corpo in cui è applicata.
+IV – Il momento della coppia può essere calcolato mediante il prodotto dei moduli delle due forze moltiplicato per la distanza che separa i loro punti di applicazione.
+È/Sono corretta/e l'/le affermazione/i:
+- **A.** II soltanto.
+- **B.** I soltanto.
+- **C.** I e III soltanto.
+- **D.** II e III soltanto.
+- **E.** II e IV soltanto.
+07) Il campo gravitazionale sulla superficie di Marte è approssimativamente uguale a un terzo del campo gravitazionale terrestre. Partendo da fermo, e in caduta libera nelle vicinanze della superficie della Terra, un corpo impiega t secondi per arrivare al suolo. Nelle vicinanze della superficie marziana impiegherà, in un esperimento equivalente, un intervallo di tempo pari a:
 - **A.** $3\,t$
 - **B.** $2^{1/2}\,t$
 - **C.** $6^{1/2}\,t$
 - **D.** $t/6$
 - **E.** $3^{1/2}\,t$
-08) Una vettura da corsa di 800 kg, partendo dal riposo e spostandosi a velocità
-in un percorso piatto e reticolo, dopo 10,0 s, raggiunge una velocità di 216 km/h. A
-la potenza utile media sviluppata dal motore della vettura, in watt, è pari a:
+08) Un'auto da corsa con massa di 800 kg, partendo da ferma e muovendosi con accelerazione costante su una pista piana e rettilinea, dopo 10,0 s, raggiunge la velocità di 216 km/h. La potenza utile media sviluppata dal motore dell'auto, in watt, è pari a:
 - **A.** $1{,}87\cdot10^5$
 - **B.** $1{,}87\cdot10^6$
 - **C.** $2{,}25\cdot10^5$
 - **D.** $3{,}15\cdot10^6$
 - **E.** $1{,}44\cdot10^5$
-Un bambino si appende a mezzo di una corda di 8 metri di lunghezza ad un ramo di albero. In quella
-La situazione oscilla descrivendo un arco lungo 30 centimetri.
-Sono state fatte tre affermazioni sull'evento:
-I) se si oscilla in un arco di 60 cm, il periodo di oscillazione raddoppierà.
-II) se il bambino ha una massa doppia di quella che ha effettivamente, il periodo di
-l'oscillazione sarebbe ridotta di metà.
-III) se la lunghezza della corda è ridotta di metà, il periodo di oscillazione rimarrà di circa due
-Molte volte più grande.
-Da queste affermazioni si può concludere che:
-- **A ** nessuno dei tre è corretto.
+09) Un bambino si appende per mezzo di una corda di 8 m di lunghezza a un ramo d'albero. In questa situazione egli oscilla descrivendo un arco di 30 cm di lunghezza.
+Vengono fatte tre affermazioni riguardo all'evento:
+I) se egli passasse a oscillare secondo un arco di 60 cm, il periodo delle oscillazioni raddoppierebbe.
+II) se il bambino avesse una massa due volte maggiore di quella che effettivamente ha, il periodo di oscillazione risulterebbe ridotto alla metà.
+III) se la lunghezza della corda fosse ridotta alla metà, il periodo di oscillazione diventerebbe circa due volte maggiore.
+Da queste affermazioni è possibile concludere che:
+- **A.** nessuna delle tre è corretta.
 - **B.** solo l'affermazione I è corretta.
 - **C.** solo le affermazioni I e II sono corrette.
 - **D.** solo l'affermazione III è corretta.
 - **E.** solo le affermazioni II e III sono corrette.
-10) Un ancoraggio di una barca che naviga su un lago è fatto di acciaio di densità $8{,}00\ \text{g/cm}^3$ e
-Possono pesare 400 N. Con la barca ferma e l'ancora appoggiata al fondo, la reazione di supporto che il
-il fondo del lago si esercita su questa parte in acqua (considerare la densità pari a $1{,}00\ \text{g/cm}^3$) in N,
-è pari a:
+10) Un'ancora di una barca che naviga in un lago è fatta di acciaio di densità pari a $8{,}00\ \text{g/cm}^3$ e ha un peso di 400 N. Con la barca ferma e l'ancora adagiata sul fondo, la reazione di appoggio che il fondo del lago esercita su questo pezzo sott'acqua (si consideri la densità pari a $1{,}00\ \text{g/cm}^3$) in N, è uguale a:
 - **A.** 400
 - **B.** 350
 - **C.** 150
 - **D.** 200
 - **E.** 250
 
-11) Una sfida pratica e molto comune nelle abitazioni è quella di ottenere una maggiore pressione dell'acqua.
-nei punti dove saranno installati i fogni, le docce, ecc. Per aumentare la pressione idrostatica
-(quando l'acqua non sta ancora uscendo dal rubinetto) molti suggerimenti vengono fatti. Alcune di queste sono
-le seguenti. Esaminate:
-I) sostituire la cassa d'acqua con una più grande, indipendentemente dalla forma o dalle dimensioni della cassa, dal momento che
-che potrebbe contenere un volume di acqua maggiore di prima. Il peso aggiuntivo dell'acqua darà una pressione
-più grande di tutta la tubazione idraulica.
-II) Aumentare la lunghezza del tubo mettendo la cassa d'acqua il più lontano possibile dall'uscita
-di acqua in cui si desidera aumentare la pressione. In questo modo i tubi tratteranno una maggiore massa di
-e poi, aprendo un rubinetto, la sua energia di movimento aumenterà la pressione.
-III) Può usare anche una scatola d'acqua più piccola, ma rimettela al massimo possibile in relazione al
-al punto in cui si desidera aumentare la pressione. In questo modo la pressione idrostatica aumenterà.
-I suggerimenti forniti sono corretti:
-- MSK1/> tutti.
+11) Una sfida pratica e molto comune nelle abitazioni è ottenere una pressione maggiore dell'acqua nei punti in cui verranno installati rubinetti, docce, ecc. Per aumentare la pressione idrostatica (quando l'acqua non sta ancora uscendo dal rubinetto) vengono dati molti suggerimenti. Alcuni di essi sono elencati di seguito. Esaminateli:
+I) Sostituite il serbatoio dell'acqua con uno più grande, non importa la forma o le dimensioni del serbatoio, purché possa contenere un volume d'acqua maggiore di prima. Il peso aggiuntivo dell'acqua darà una pressione maggiore in tutta la tubazione idraulica.
+II) Aumentate la lunghezza della tubazione collocando il serbatoio dell'acqua il più lontano possibile dall'uscita dell'acqua in cui si desidera aumentare la pressione. In questo modo i tubi tratterranno una massa d'acqua maggiore e quindi, all'apertura di un rubinetto, la sua energia di movimento farà aumentare la pressione.
+III) Potete usare anche un serbatoio dell'acqua più piccolo, ma sollevatelo collocandolo il più in alto possibile rispetto al punto in cui si desidera aumentare la pressione. In questo modo la pressione idrostatica aumenterà.
+Delle suggestioni fornite, è/sono corretta/e:
+- **A.** tutte esse.
 - **B.** solo I e II
-- **C ** solo la III.
-- ** D** solo II e III.
-- **E ** solo II.
-12) Si desidera progettare un pallone che deve essere riempito di gas elio per trasportare una persona. A
-massa del materiale del pallone, della struttura dell'alloggio, dell'individuo e degli apparecchi che lo porteranno,
-La Commissione ha adottato una decisione che prevede che il regime di trasporto di gas sia stato applicato in modo da ridurre la quantità di gas contenuto nel gas.
-- Balone. Admetti che il pallone sarà sferico e che le masse specifiche dell'aria e del gas elio siano
-di $1{,}20\ \text{kg/m}^3$ e $0{,}20\ \text{kg/m}^3$ rispettivamente.
-Solo per tenerlo in aria (non salire e non scendere), il diametro di questo pallone, in m,
-deve valere:
+- **C.** solo la III.
+- **D.** solo II e III.
+- **E.** solo la II.
+12) Si desidera progettare un pallone che deve essere riempito con gas elio per trasportare una persona. La massa del materiale del pallone, della struttura di alloggiamento, dell'individuo e degli apparecchi che porterà, totalizzerà 200 kg e i loro volumi saranno considerati irrilevanti rispetto al volume del gas contenuto dal pallone. Si ammetta che il pallone sarà sferico e che le masse specifiche dell'aria e quella del gas elio siano rispettivamente uguali a $1{,}20\ \text{kg/m}^3$ e $0{,}20\ \text{kg/m}^3$.
+Solo per mantenerlo in quiete nell'aria (non sale e non scende), il diametro di questo pallone, in m, dovrà valere:
 - **A.** $3{,}0\cdot(14)^{1/3}$
 - **B.** $2{,}0\cdot(28)^{1/3}$
 - **C.** $2{,}0\cdot(20)^{1/3}$
 - **D.** $2{,}0\cdot(50)^{1/3}$
 - **E.** $2{,}0\cdot(36)^{1/3}$
-13) Le figure rappresentano un dispositivo cilindrico contenente una
-una massa invariata di un gas imprigionato da un embolsito che
-scivola liberamente
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]], [[Oscillations & Waves]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Projectile (object)|Projectile]], [[Wheel (object)|Wheel]], [[Gas (object)|Gas]], [[Piston (object)|Piston]], [[Lever (object)|Lever]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1wm3VdubN3p3GxeCKckYk23qinRXJ_FYa/view)
+13) Le figure rappresentano un dispositivo cilindrico che contiene una certa massa invariabile di un gas imprigionato da un pistone che scorre liberamente
 
 <div class="qlang-split" data-lang="en"></div>
 

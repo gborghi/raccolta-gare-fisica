@@ -167,37 +167,27 @@ Configuri un istogramma con i valori di N ottenuti.
 
 <div class="qlang-split" data-lang="en"></div>
 
-** Determine the density and apparent density of the lens**
+**Determine the density and the apparent density of the lentil**
 
 Proposal 2
-The task
-Determine the density and apparent density of the lens.
-Available items
-- Slow down.
-- Weigh it.
-- Well known volume receiver.
-- Graduate receiver.
-The procedure
-Enrace, with a known number of lenses (N), volume container
-The mass of the lentils is determined by the mass of the lentils. Place in the container
-Graduate a quantity of water and roll the lenses into it. Make sure
-The Commission has decided to take the necessary measures to ensure that the
-more than (V).
+Task
+Determine the density and the apparent density of the lentil.
+Available elements
+- Lentils.
+- Balance.
+- Container of known volume.
+- Graduated container.
+Procedure
+Level, with a known number of lentils (N), the container of known volume (Va) and determine the mass of lentils (m). Place an amount of water in the graduated container and pour the lentils into it. Make sure that all the lentils are submerged and determine their volume (V).
 Repeat the procedure at least 50 times.
 From the measurements made, determine:
-- the apparent density of the lens (ρa = m / Va).
+-the apparent density of the lentil (ρa = m / Va).
 
 9
-- the density of the lens (ρ = m / V).
-- the mass of a lens.
-- the volume of a lens.
-Make a histogram with the N values obtained.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
+-the density of the lentil (ρ = m / V ).
+-the mass of one lentil.
+-the volume of one lentil.
+Prepare a histogram with the values of N obtained.
 
 
 
@@ -429,48 +419,28 @@ cae”, realice mediciones con hojas apiladas.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Il volo di una foglia di carta**
+**Il volo di un foglio di carta**
 
 Proposta 5
 Il volo di un foglio di carta
-Forza di resistenza (F) che un corpo subisce quando si muove a velocità (v)
-L'aria, per esempio, è naturalmente diretta in un fluido.
-La velocità del corpo è la velocità del corpo. Un modo...
-La cosa per questa dipendenza è,
-F = c vγ
-La struttura del corpo è un'area di variazione di variazione.
-la turosità del fluido.
-Tese
-Proporre e attuare un metodo per determinare i valori di c e γ per
-la caduta di foglie di carta in aria.
+La forza di resistenza (F) che un corpo subisce quando si muove con velocità (v)
+all'interno di un fluido (per esempio aria) è diretta naturalmente in senso contrario al movimento e dipende dalla velocità del corpo. Un modello per questa dipendenza è,
+F = c vγ dove c e γ sono costanti che dipendono dalla forma del corpo e dalla natura del fluido.
+Compito
+Proporre e implementare un metodo per determinare i valori di c e γ per la caduta di fogli di carta nell'aria.
 
 12
 Elementi disponibili
-- fogli (A4)
+- Fogli (A4)
 - Cronometro
-- Regola
-- Cintura metrica
+- Righello
+- Metro a nastro
 Suggerimento
-Per ottenere un'atteggiamento di caduta costante, procedete alla seguente
-modo:
-- Falda la foglia in modo che le...
-di cui al capitolo 2 del capitolo 2 del capitolo 2 del capitolo 3 del capitolo 3 del capitolo 3 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 5 del capitolo 6 del capitolo 5 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6 del capitolo 6
-foglio (vedi figura). In questo caso, la Commissione ha deciso di
-dare alla foglia una forma leggermente non piana e con
-Il punto di punta, in modo da poter supporre che l'area
-L'effettiva è quella della foglia.
-- Lascia cadere le foglie con la punta verso il basso e
-determinare la velocità terminale alla quale si precipita in
-aria tranquilla. Per cambiare la massa della foglia che
-se cade, esegue le misurazioni con foglie in pietra.
+Per ottenere che l'assetto di caduta sia costante, procedere nel modo seguente:
+- Piegare il foglio in modo che si marcino le diagonali e le mediane (forma di croce) del foglio (vedi figura). Mediante queste marche cercare di dare al foglio una forma leggermente non piana e con punta, in modo da poter supporre che l'area effettiva rimanga quella del foglio.
+- Lasciar cadere i fogli con la “punta” verso il basso e determinare la velocità terminale alla quale cade in aria ferma. Per cambiare la massa del “foglio che cade”, effettuare misurazioni con fogli sovrapposti.
 
 13
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -602,41 +572,30 @@ Pensate a come si potrebbe implementare un metodo per l'acqua.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Determine the absolute volumetric dilation coefficient of a liquid**
+**Determining the absolute volumetric expansion coefficient of a liquid**
 
 Proposal 6
-The task
-Determine the absolute volumetric dilation coefficient of a liquid.
-Disposable elements
-- Glass receivers.
-- Heating device.
+Task
+Determine the absolute volumetric expansion coefficient of a liquid.
+Available elements
+- Glass containers.
+- Heating apparatus.
 - Cooking oil.
-- Iced water.
-- It's an indelible marker.
-- The rule .
-The procedure
-Using the available elements, determine the coefficient of dilation
-absolute volume of cooking oil with temperature.
-1. Perform a theoretical analysis of the problematic situation
-2. Implement a method for determining the dilation coefficient
-volume of the liquid.
+- Ice.
+- Indelible marker.
+- Ruler
+Procedure
+Using the available elements, determine the absolute volumetric expansion coefficient of cooking oil with temperature.
+1. Carry out a theoretical analysis of the problem situation
+2. Implement a method to determine the volumetric expansion coefficient of the liquid.
 
 14
 Note:
-Suppose the volumetric dilation coefficient with the
-The glass permeability of the containers used (= 10-5 °C-1).
-Recommendations for the Commission
-If you do bathroom heating Maria, remember that the bottom of the container is
-the heating vessel must not touch the vessel receiving the direct flame-
-You're lying.
-The challenge
-Think about how you could implement a method for water.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Curve Fitting (metodo)|Curve Fitting]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
+Assume the volumetric expansion coefficient with temperature of the glass of the containers used is known (= 10-5 °C-1).
+Recommendations
+If you heat in a water bath, remember that the bottom of the container you are heating must not touch the container that receives the flame directly.
+Challenge
+Think about how a method could be implemented for water.
 
 
 
@@ -703,31 +662,23 @@ Supponiamo che usi acqua distillata.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the following:
+**Determining the latent heat of fusion of ice**
 
 Proposal 7
-The task
-Determine the latent heat of ice melting.
-Disposable elements
-- Liquid water (all necessary).
-- Ice (at a temperature below 0°C, all that is necessary).
+Task
+Determine the latent heat of fusion of ice.
+Available elements
+- Liquid water (as much as needed).
+- Ice (at a temperature below 0°C, as much as needed).
 
 15
-- A water heater.
-- Recipients (all required)
-- Graduated receiver for measuring volumes (calibrated at temperature)
-environment)
-The procedure
-Using the elements listed, they implement a method to determine the
-latent heat from ice melting.
-Recommendations for the Commission
-Suppose you're using distilled water.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
+- Apparatus for heating water.
+- Containers (as many as needed)
+- Graduated container for measuring volumes (calibrated at room temperature)
+Procedure
+Using the listed elements, implement a method to determine the latent heat of fusion of ice.
+Recommendations
+Assume that you are using distilled water.
 
 
 
@@ -1099,26 +1050,19 @@ Elementi disponibili
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+**Determining the spring constant of a rubber band**
 
-Proposal for a Council Directive
-The task
-Determine the elastic constant of an elastic bandit at temperature am-
-I'm going to be a good boy. Make a scale.
+Proposal 11
+Task
+Determine the spring constant of a rubber band at room temperature. Build a balance.
 Available items
-- She's a bandit.
-- Weights calibrated.
-- It's a rule.
+- Rubber band.
+- Calibrated weights.
+- Ruler.
 
 20
 
 21
-
-**Topic:** [[Elasticity & Materials]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
 
 
 
@@ -1350,71 +1294,47 @@ fermarla con il valore indicato dal termometro aulico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The manufacturer shall ensure that the gas pressure is measured in accordance with the requirements of this Regulation.
+**Construction of a gas thermometer**
 
 Situation 2
 Construction of a gas thermometer
 Objective
-Build a gas thermometer using easily accessible elements.
-Short description
-A gas thermometer uses a gas as a thermometric substance. The principal
-The operation pio is that if a certain amount of gas is
-Locked in a V1 volume enclosure, at a P1 pressure and a temper-
-T1 torus is exposed to a body at a temperature of T2, with which
-reaches thermal equilibrium, experiences a change in pressure and volume
-(P2 and V2) (see figure).
-The Commission has already decided to adopt a proposal for a directive on the
-The temperature shall meet the ideal gas state equation:
-P V = n R T
-where P is the gas pressure, n is the number of gas moles, V is the volume that
-T is the temperature at which it is located.
-Thus, for a constant number of ideal gas moles, the ratio is satisfied.
+Construct a gas thermometer using easily accessible elements.
+Brief description
+A gas thermometer uses a gas as the thermometric substance. The operating principle lies in the fact that if a certain amount of gas enclosed in a chamber of volume V1, at a pressure P1 and at a temperature T1, is put in contact with a body at a temperature T2, with which it reaches thermal equilibrium, it undergoes a change in pressure and volume (P2 and V2) (see figure).
+Assuming that it is an ideal gas, the change in pressure, volume and temperature will comply with the ideal gas equation of state:
+P V = n R T where P is the pressure of the gas, n the number of moles of gas, V the volume it occupies and T the temperature at which it is found.
+Thus, for a constant number of moles of ideal gas, the relation is satisfied
 
-23
-between the thermodynamic variables corresponding to state (1) and state-
-do (2):
-For the figure, it shall be complied with that:
-Where Patm is the atmospheric pressure (1,013 105 Pa), ρ is the density of water
-(1,0 g cm-3), g is the acceleration of gravity (9,80 m s-2), A is the section
-transverse tube, h1 and h2 with water levels in each state.
-The following approximation can be drawn from the foregoing considerations:
-The following:
-Consigna 1
-To construct a device similar to that shown in the figure.
-It is important to ensure that the system is not "loss-free" (using wax, plastics, etc.).
+23 between the thermodynamic variables corresponding to state (1) and state (2):
+For the case in the figure, the following will hold:
+Where Patm is the atmospheric pressure (1.013 105 Pa), ρ is the density of water (1.0 g cm-3), g is the acceleration due to gravity (9.80 m s-2), A is the cross-sectional area of the small tube, h1 and h2 are the water levels in each state.
+With the above considerations, the following approximation can be reached:
+Task 1
+Build a device similar to the one in the figure.
+It is important to ensure that the system has no "leaks" (using wax, plas-
 
-24
-T-cell, etc.); that is, that the amount of gas contained in the enclosure does not change.
-Elements that may be useful
-• A container with a lid (sterile frosting for analysis)
-• A soft drink or a fine tubing
-• Plastiline (small package)
-• Wax candles and matchesV only under the supervision of the pro-
-- What?
+24 ticine, etc.); that is, that the amount of gas enclosed in the chamber does not change.
+Items that may be useful
+• A container with a lid (sterile jar for analysis)
+• A straw or thin tube
+• Plasticine (small package)
+• Wax candle (candle) and matchesV only under the teacher's supervision!
 • Water
-• Water heater under the supervision of the teacher only!
+• Water heaterV only under the teacher's supervision!
 • Water with ice
-• Auline thermometer
-• Rule
-• Paper adhesive tape (fine)
-• Lapis (may be of indelible ink)
-Consignment 2
-Calibration of the device to function as a thermometer
-between 0°C and 40°C. This calibration can be performed with a fixed point or with a fixed point.
-two known temperature values.
+• Classroom thermometer
+• Ruler
+• Paper tape (thin)
+• Pen (may be indelible ink)
+Task 2
+Calibrate the device so that it works as a thermometer between 0°C and 40°C. This calibration can be done with one fixed point or with two known temperature values.
 
 25
-Consigna 3
-Determine the ambient temperature with the built-in thermometer and
-stop it at the value indicated by the aulic thermometer.
+Task 3
+Determine the ambient temperature with the constructed thermometer and compare it with the value indicated by the classroom thermometer.
 
 26
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Gas (object)|Gas]], [[Manometer (object)|Manometer]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
 
 
 
@@ -1735,158 +1655,92 @@ Il punto di partenza è il punto di partenza.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Electroiman, bruxella and the 1/x3 law of a magnetic dipole**
+**Electromagnet, compass and 1/x3 law of a magnetic dipole**
 
 Situation 3
 Objectives
 - Build an electromagnet.
 - Build a compass.
-- Check whether the induction field module behaves
-magnetic field produced by a magnetic dipole on its axis,
-It's a 1/x3 law.
-Short description
-An electromagnet is a device by which a field of
-magnetic induction B. A typical configuration consists of a high-
-a. Other ferromagnetic material on which any
-number of copper wire turns (see Figure 1).
-When the coil is connected to a voltage source, the electric current
-It's a magnetic induction field. Field B
-The effect of the electromagnetic field depends on the geographic configuration.
-Metric used; in the case described above (key and coil) it is similar to the
-It's a magnetic dipole.
+- Verify whether the behavior of the magnitude of the magnetic induction field produced by a magnetic dipole on its axis follows a law of the type 1/x3.
+Brief description
+An electromagnet is a device by means of which a magnetic induction field B is obtained. A usual configuration consists of an iron nail (or some other ferromagnetic material) on which a certain number of turns of copper wire has been wound (see figure 1).
+When the coil is connected to a voltage source, the electric current flowing through it produces a magnetic induction field. The field B obtained by means of an electromagnet depends on the geometric configuration used; in the case described above (nail and coil) it is similar to that of a magnetic dipole.
 
 27
 Figure 1
-The magnetic induction field module, B, produced by a mag-
-The Pm module is not to be used for the measurement of the distance between the two points.
-and x is given by:
-The direction of the magnetic induction field vector in this case is the direction of the
-x-axis.
-A compass is an instrument by which the
-North-South (N-S) direction over the land surface; generally, it may be used
-The method of determining the direction of a field of in-
-any magnetic duction. It consists of a magnetic needle which can
+The magnitude of the magnetic induction field, B, produced by a magnetic dipole of magnitude Pm along the direction of the dipole axis and at a distance x, is given by:
+The direction of the magnetic induction field vector in this case is that of the x-axis.
+A compass is an instrument by means of which the north-south (N-S) direction can be determined on the Earth's surface; in general, it can be used to determine the direction, at a given point, of any magnetic induction field. It consists of a magnetized needle that can
 
-28
-rotate freely, so that it is oriented in the direction of the induction field
-magnetic.
+28 rotate freely, so it orients itself in the direction of the magnetic induction field.
 Figure 2
-Consigna 1
-(a) To construct an electromagnet similar to that in Figure 1,
-with a coil of at least 30 turns of wire.
-(b) verify its operation! Describe the procedure used.
+Task 1
+a) Carry out the construction of an electromagnet similar to the one in Figure 1, with a coil of at least 30 turns of wire.
+b) Verify its operation! Describe the procedure used.
 Elements that may be useful
-- A nail about five centimeters long.
-- Fine copper wire (wire of electrical wires, wire of a kind used for electrical purposes)
-The following table shows the results of the calculation:
-- It's a paper tape.
-- Cable conductors for electrical connections.
+- A nail about 5 cm long.
+- Thin copper wire (threads from electrical cables, enameled wire from coils, etc.), approximately 1 m.
+- Paper adhesive tape.
+- Conductive cables for electrical connections.
 - 1.5 V battery (if possible type A and new).
 
 29
 Note:
-It is important that the wires that are coiled do not cut short.
-They're not running around with the nail. For this purpose, in the event of non-use of wire-
-The nail is to be covered with an insulator (a strip of
-The use of the wire is not restricted to the use of paper or paper.
-They're not even close to each other.
-Consignment 2
-(a) To construct a compass similar to that in Figure 2.
-(b) verify its operation! Describe the procedure used.
+It is important that the turns of wire that are wound do not short-circuit with each other or with the nail. For this, if enameled wire is not used, it is recommended to cover the nail with an insulator (paper tape or paper) and to ensure that the turns of wire are and remain separated from each other.
+Instruction 2
+a) Carry out the construction of a compass similar to the one in figure 2.
+b) Verify its operation! Describe the procedure used.
 Elements that may be useful
-- A shallow, nonmetallic lid or container (for example,
-The test chemical is a sterile bottle cap for analysis.
+- A shallow, non-metallic lid or container (for example, the lid of a sterile jar for analysis).
 - A magnetized pin.
-- A piece of paper .
-- It's water.
-Notes: Magnetise the pin using the electromagnet. The Commission is therefore prepared to take the necessary measures to ensure that the
-yar the head of the pin above the head of the nail/core of the electrical
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+- A small piece of paper
+- Water.
+Notes: Magnetize the pin using the electromagnet. For this task, you must rest the head of the pin on the head of the nail/core of the electromagnet (with the latter in operation).
 
 30
-It is important that the needle can rotate freely; for this use a
-a piece of paper to set it down, floating on a surface
-of water. Neither the needle nor the boat (papillot) shall touch the edge of the
-The bucket.
-Consigna 3
-- Verify that the magnetic induction field module B at the
-The electromagnet's axis varies with the distance as a dipole.
-magnetic, this is:
+It is important that the needle can rotate freely; for this, use a small piece of paper to seat it, which will float on a water surface. Neither the needle nor the little boat (small paper) should touch the edge of the container.
+Instruction 3
+- Verify that the magnitude of the magnetic induction field B along the axis of the electromagnet varies with distance like that of a magnetic dipole, that is:
 Elements that may be useful
-- The compass built.
-- The built-in electromagnet.
-- It's blank.
-- It's a millimeter piece of paper.
-- It's a rule.
-- A pencil.
+- The compass constructed.
+- The electromagnet constructed.
+- Blank sheets.
+- Graph paper.
+- Ruler.
+- Pencil.
 
 31
-To verify the position of the electromagnet's axis perpendicular to the
-the magnetic field of the Earth and on a plane parallel to the Earth's surface.
-So the presence of the vector-added electromagnetic field--
-The direction of the needle will deviate from the direction of the
-North-South (N-S). The trigonometric tangent of the angle (α) between the needle
-And the north-south direction is proportional to the magnetic induction field pro-
-It's all taken by the electromagnet. Determine the tangent of α for different distances.
-The electromagnet is located between the electromagnet and the compass needle.
-Proposed procedure
-(a) Hold the table on one end of a sheet of paper of this kind
-The short side is aligned with the N-S address. Stick it up,
-With adhesive tape, place the sheet on the table and mark the leaf on the leaf.
-I'm going to turn the cube of the compass.
-(b) Mark a straight line containing the needle and a perpendicular straight line
-Necklace that passes through the center of the needle and is parallel to the long side
-The number of days of the day of the week The intersection point is the origin of the
-the coordinate system to be used.
-(c) Supports the electromagnet over the E-O line, at a distance x from the centre of the
-Pull the needle and turn it on. Make sure the needle is re-directed and
+To carry out the verification, place the axis of the electromagnet perpendicular to the Earth's magnetic field and on a plane parallel to the Earth's surface.
+In this way, the presence of the electromagnet's field added vectorially to the Earth's field will produce a deflection of the needle with respect to the north-south (N-S) direction. The trigonometric tangent of the angle (α) between the needle and the north-south direction is proportional to the magnetic induction field produced by the electromagnet. Determine the tangent of α for different distances x between the electromagnet and the compass needle.
+Suggested procedure
+a) Place the "compass" on one end of a sheet of paper in such a way that the short side is aligned with the N-S direction. Tape the sheet to the table and mark on the sheet the outline of the compass housing.
+b) Mark a line that "contains" the needle and a perpendicular line that passes through the center of the needle and is parallel to the long side of the sheet (E-W direction). The point of intersection is the origin of the coordinate system that will be used.
+c) Place the electromagnet on the E-W line, at a distance x from the center of the needle, and turn it on. Verify that the needle reorients and
 
-32
-mark the position of the electromagnet.
+32 mark the position of the electromagnet.
 Figure 3
-(d) Draw a straight line containing the needle. For this, it supports the rule
-The needle is placed on the bucket in the direction of the needle (does not make any error of
-(Laughs) disconnect the electromagnet, mark the straight on the paper.
-(e) From the cathetes (h and h*) of the triangle determined by the straight
+d) Draw a straight line that "contains" the needle. To do this, rest the ruler on the tray in the direction of the needle (do not make parallax errors), disconnect the electromagnet, mark the line on the paper.
+e) From the legs (h and h*) of the triangle determined by the line
 
-33
-(b) and by the line (d) and a leaf edge, determine the
-people at the angle between the direction of the needle in the presence of the electromagnet
-and the N-S address.
+33 drawn in b) and by the one drawn in d) and an edge of the sheet, determine the tangent of the angle between the direction of the needle in the presence of the electromagnet and the N-S direction.
 Figure 4
-(f) Contain in a table the corresponding tg α and x values.
+f) Record in a table the corresponding values of tg α and of x.
 
 34
-Repeat the procedure in c, d, e and f for different positions (x) of the
-The electromagnetic field.
-g) Draw a graph (1/x3 vs tg α). Check that the behaviour is linear.
-Al, in that case, adjust a straight line.
-Recommendations for the Commission
-- Use a water level of the order of 5 mm above the compass
-The paper sheet level, to consider that the magnetic needle and the
-The electromagnet's axis is on the same plane.
-- Neither the needle nor the barrel (papillot) should touch the edge of the cube-
-ta.
-- To determine the direction of the needle use the rule as a guide and
-Draw the straight line that holds the needle on the base paper.
-- Measure the distances from the nail head to the centre of the al-
-file and leave them settled on the base paper.
-- Keep the stack away from the compass for the entire experiment.
-- Use electromagnetic connecting cables long enough.
+Repeat the procedure from c), d), e) and f), for different positions (x) of the electromagnet.
+g) Make a graph (1/x3 vs tan α). Verify whether the behavior is linear; if so, fit a straight line.
+Recommendations
+- Use a water level on the compass of about 5 mm above the level of the sheet of paper, so that the magnetized needle and the axis of the electromagnet are considered to be in the same plane.
+- Neither the needle nor the small boat (little paper) should touch the edge of the tray.
+- To determine the direction of the needle, use the ruler as a guide and draw the straight line that "contains" the needle on the base paper.
+- Measure the distances from the head of the nail to the center of the pin and leave them marked on the base paper.
+- Keep the battery away from the compass throughout the experiment.
+- Use connecting wires to the electromagnet that are sufficiently long.
 - Disconnect the battery after each measurement.
-- Work on a table that has no ferromagnetic parts, or with
-the electromagnet and compass sufficiently away from those parts.
+- Work on a table that does not have ferromagnetic parts, or with the electromagnet and the compass sufficiently far from such parts.
 
 35
-- After each measurement, check that the compass needle is located in the
-Each in its original position (with the centre at the origin of the coordinate
-- I 'm not sure .
-
-**Topic:** [[Magnetism]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Solenoid (object)|Solenoid]], [[Magnetic Dipole (object)|Magnetic Dipole]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
+- After each measurement, verify that the compass needle is located in the original position (with the center at the origin of coordinates).
 
 
 
@@ -1974,157 +1828,113 @@ dad aparente (abscisa)”.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Determinare l'angolo di riposo di materiali granulati**
+**Determinazione dell'angolo di riposo dei materiali granulari**
 
 Situazione 4
-Determinazione dell'angolo di riposo dei materiali granulati.
+Determinazione dell'angolo di riposo dei materiali granulari.
 Elementi disponibili
-- Acrilico (cassetta di CD).
-- Fascia adesiva di carta.
-- Un marcatore (possibilmente indelebile).
-- Una regola, trasportatore.
-- Foglie bianche, matita.
-- Una trincea o un coltello (per tagliare le macchie acriliche). Re-
-ricordare che l'uso è pericoloso e deve essere con la massima attenzione;
-il più possibile questo compito deve essere supervisionato dal docente.
-- Un piccolo funillio di plastica o carta.
-- Sal finto, interfino e grosso.
+- Acrilico (custodia per CD).
+- Nastro adesivo di carta.
+- Un pennarello (possibilmente indelebile).
+- Una riga, goniometro.
+- Fogli bianchi, matita.
+- Un taglierino o coltello (per tagliare le alette di acrilico). Ricordare che il suo uso è pericoloso e bisogna prestare la massima attenzione; se possibile questo compito deve essere supervisionato dal docente.
+- Un piccolo imbuto di plastica o di carta.
+- Sale fino, medio (da griglia) e grosso.
 
 36
 - Zucchero.
-- Sbalzo (opzionale).
-Consigna 1
-- Armarsi il dispositivo di misurazione.
-Procedura
-1. Sbarazzando la cassetta di CD, rimangendo solo le facce trasparenti...
-La Commissione ha adottato una decisione che non prevede alcuna modifica.
+- Bilancia (opzionale).
+Consegna 1
+- Montare l'apparecchio di misura (cella di Hele-Shaw).
+Procedimento
+1. Smontare la custodia del CD, conservando solo le facce trasparenti (vedi figura 1).
 Figura 1
 
 37
-2. Con la trincea, facendo pressione, taglia le macchie di acrilico
-che c'è dentro di esso (quelli che sostenevano il plastica su cui va
-il CD).
-3. Taglia la fascia delle placche che corrisponde alle lampadine in
-dove sono i bisagri della scatola. Questo compito è difficile e può
-Se è pericoloso, chiedi il consiglio del professore.
-4. Una delle due targhe, come se fosse per riassemblare la scatola. - Non lo so.
-Gugliare e sigillare i bordi (esclusa la bocca) con la cinta adesiva di
-carta (vedi figura 2).
+2. Con il taglierino, facendo pressione, tagliare le alette di acrilico che si trovano al suo interno (quelle che sostenevano la plastica su cui è appoggiato il CD).
+3. Tagliare la striscia delle piastre che corrisponde alle alette dove si trovano le "cerniere" della custodia. Questo compito è difficile e può essere pericoloso, chiedere la consulenza del professore.
+4. Unire entrambe le piastre, come se si dovesse rimontare la custodia. Fissarla e sigillare i bordi (tranne l'apertura) con il nastro adesivo di carta (vedi figura 2).
 Figura 2
 
 38
-Consigna 2
-- Determinare l'angolo di riposo dei materiali granulati.
-Procedura
+Quesito 2
+- Determinare l'angolo di riposo di materiali granulari.
+Procedimento
 Determinare l'angolo di riposo del sale fino.
-5. Caricare la celda con sale sottile (attraverso il funile) fino a circa
-La struttura è di circa la metà della sua altezza (vedi figura 3a).
-6. Non perdendo il contenuto, ruotare la cella fino a che non si
-La superficie di un'area piana è orizzontale (vedi figura 3b).
-7. Ritorna la cella alla posizione di lavoro, girandola delicatamente. (vedere
-figura 3c).
-8. Determina l'angolo di riposo del sale sottile.
-9. Ripeti questa procedura almeno 10 volte.
+5. Caricare la "cella" con sale fino (mediante l'imbuto) fino a circa la metà della sua altezza (vedere figura 3a).
+6. Senza che se ne perda il contenuto, ruotare la cella fino a ottenere che si formi una superficie piana orizzontale (vedere figura 3b).
+7. Riportare la cella nella posizione di lavoro, ruotandola delicatamente. (vedere figura 3c).
+8. Determinare l'angolo di riposo del sale fino.
+9. Ripetere questo procedimento almeno 10 volte.
 
 39
-Consigna 3
-- Determinazione dell'angolo di riposo del sale inter-finale (scalone), sale
-di grassi e di zucchero.
-Consigna 4
-- Determinare la densità apparente di ciascuna delle sale usate
-e anche quella dello zucchero.
-10. Riempire di sale un recipiente di volume noto.
-11. Determina la massa di sale utilizzata per riempire il contenitore.
-12. Calcolare la densità apparente dei materiali granulati che
-ha usato (salute, ecc.).
-Consigna 5
-- Confezionare un grafico angolo di riposo (ordinato) versus densi
-dato apparente (abscisa).
+Quesito 3
+- Determinare l'angolo di riposo del sale semigrosso (da griglia), del sale grosso e dello zucchero.
+Quesito 4
+- Determinare la densità apparente di ciascuno dei "sali" usati e, inoltre, quella dello zucchero.
+10. Riempire con sale un recipiente di volume noto.
+11. Determinare la massa di sale impiegata per riempire il recipiente.
+12. Calcolare la densità apparente dei materiali granulari che ha usato (sale, ecc.).
+Quesito 5
+- Realizzare un grafico "angolo di riposo (ordinata) rispetto alla densità apparente (ascissa)".
 
 40
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
-
 <div class="qlang-split" data-lang="en"></div>
 
-**Determination of the angle of repose of granulated materials**
+**Determination of the angle of repose of granular materials**
 
 Situation 4
-Determination of the angle of repose of granulated materials.
-Available items
-- Acrylic (CD box).
-- It's a paper tape.
-- A marker (if possible indelible).
-- One rule, transporter.
-- White papers, pencil.
-- A trench or knife (to cut acrylic lashes). Re-
-remember that its use is dangerous and must be taken with the utmost care;
-If possible, this task should be supervised by the teacher.
-- A little funnel of plastic or paper.
-- Salt is fine, crisp and thick.
+Determination of the angle of repose of granular materials.
+Available elements
+- Acrylic (CD case).
+- Paper adhesive tape.
+- A marker (preferably indelible).
+- A ruler, protractor.
+- Blank sheets, pencil.
+- A utility knife or knife (to cut the acrylic tabs). Re- member that its use is dangerous and you must take the utmost care; if possible this task should be supervised by the teacher.
+- A small plastic or paper funnel.
+- Fine, medium (grill) and coarse salt.
 
 36
-- Sugar. - What?
-- Balance (optional).
-Consigna 1
-- Arming the measuring device (Hele-Shaw cell).
-The procedure
-1. Unlock the CD box, leaving only the transparent faces...
-The Commission has not yet adopted a proposal for a directive.
+- Sugar.
+- Scale (optional).
+Instruction 1
+- Assemble the measuring device (Hele-Shaw cell).
+Procedure
+1. Disassemble the CD case, keeping only the transparent faces (see figure 1).
 Figure 1
 
 37
-2. With the trench, pressing, cutting the acrylic lashes
-The plastic that is inside it (the ones that held the plastic that goes on it)
-the CD).
-3. Cut the strip of plates corresponding to the lashes in
-where the "bisagras" of the box are. This task is difficult and can
-If it's dangerous, ask the professor for advice.
-4. One of the two plates, like I'm going to reassemble the box. As-
-Glue and seal the edges (except the mouth) with the adhesive tape of
-paper (see figure 2).
+2. With the utility knife, applying pressure, cut the acrylic tabs inside it (the ones that held the plastic on which the CD rests).
+3. Cut the strip of the plates that corresponds to the tabs where the "hinges" of the case are. This task is difficult and can be dangerous, ask the teacher for advice.
+4. Join both plates, as if you were going to reassemble the case. Secure it and seal the edges (except the mouth) with the paper adhesive tape (see figure 2).
 Figure 2
 
 38
-Consignment 2
-- Determine the angle of repose of granulated materials.
-The procedure
+Task 2
+- Determine the angle of repose of granular materials.
+Procedure
 Determine the angle of repose of fine salt.
-5. Load the cellar with fine salt (through the funnel) until approximately
-The average height of the vehicle is only half its height (see Figure 3a).
-6. Without losing its contents, rotate the cell until it is able to
-The surface of the surface is flat and horizontal (see Figure 3b).
-7. Return the cell to its working position, rotating it gently. (see
-the following table is inserted:
+5. Load the "cell" with fine salt (using the funnel) to approximately half its height (see figure 3a).
+6. Without losing its contents, rotate the cell until a flat horizontal surface is formed (see figure 3b).
+7. Return the cell to the working position, rotating it gently. (see figure 3c).
 8. Determine the angle of repose of the fine salt.
 9. Repeat this procedure at least 10 times.
 
 39
-Consigna 3
-- Determine the angle of repose of the salt between the ends (grill), salt
-thick and sugary.
-Consigna 4
-- Determine the apparent density of each of the salts used
-And also, the sugar.
-10. Fill a known volume container with salt.
-11. Determine the salt mass used to fill the container.
-12. Calculate the apparent density of the granulated materials which
-used (salt, etc.).
-Consigna 5
-- Drawing a chart of the angle of repose (ordered) versus the density
-The apparent (abscise)
+Task 3
+- Determine the angle of repose of medium-fine salt (grill salt), coarse salt and sugar.
+Task 4
+- Determine the apparent density of each of the "salts" used and also that of the sugar.
+10. Fill a container of known volume with salt.
+11. Determine the mass of salt used to fill the container.
+12. Calculate the apparent density of the granular materials you used (salt, etc.).
+Task 5
+- Prepare a graph "angle of repose (ordinate) versus apparent density (abscissa)".
 
 40
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
 
 
 
@@ -2315,93 +2125,43 @@ la pendenza con cui è stata messa la lamiera).
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Studying the caloric power of a candle**
+**Studying the heat output of a candle**
 
 Situation 5
 Objective
-- Study the caloric power of a candle.
-Short description
-A candle is a wax cylinder with
-a pavilion on the axis so that it can
-The Commission has already taken a number of measures to ensure that the
-The wax burning radiates light and
-It's hot.
-The flame of the candle has different
-temperature (see figure 1) and radiation
-heat and light in all directions. Without
-However, the mechanism of
-The heat mainly flows through the
-in the vertical direction (towards where
-point the flame).
-The heat flow emitted by the candle in
-The direction of its vertical axis can be studied by the device which
+- Study the heat output of a candle.
+Brief description
+A candle is a cylinder of wax with a wick on the axis so that it can be lit and, as a result of the combustion of the wax, radiate light and heat.
+The flame of the candle has different temperatures (see figure 1) and radiates heat and light in all directions. However, due to the convection mechanism, heat mainly flows in the vertical direction (toward where the flame points).
+The heat flow emitted by the candle in the direction of its axis (vertical) can be studied by means of the device that
 
-41
-The following table shows the number of samples taken from the sample. El
-It consists of a cubit of
-ice, resting on a sheet
-Fine metal, which is light-
-I'm not a man. Below the
-the plate and in conjunction with
-A shaft passing through the centre of the
-I'll cover the candle. The flame
-The latter is a distance from the
-The Commission has not yet taken a decision. At the end
-The lower part of the plate is a
-Graduated syringe, without plunger and
-with the fine end (where the
-needle) covered (can be re-em-
-(Authorised by a Probe).
-Water produced by the fusion
-The ice is collected in the
-The test is performed on the test tube.
-It's going. Determining Goes in fun-
-The time (t) and latent heat of the ice (80 cal/g) can be
+41 is outlined in figure 2. It consists of an ice cube, resting on a thin metal plate, which is slightly inclined. Below the plate and coinciding with an axis that passes through the center of the cube, the candle is placed. The flame of the latter is at a distance d from the plate. At the lower end of the plate there is a graduated syringe, without a plunger and with the narrow end (where the needle goes) capped (it could be replaced by a test tube).
+The water produced by the melting of the ice is collected in the syringe and its volume Va is determined. By determining Va as a function of time (t) and knowing the latent heat of ice (80cal/g), one can
 
-42
-The amount of energy per unit of time (power) that has been delivered to you is estimated by the
-cattle on the ice from the candle.
-Consignments
-(a) Give some of the hypotheses which have been made in the
-previously encrypted and not explicitly stated. Some of them
-They involve the sheet and relate to its dimensions. O-
-After they are related to ambient temperature, ice,
-- What?
-(b) Measure the ambient temperature.
-(c) Implement the proposed device.
-(d) Measure the heat input from the environment. Determine whether it is
-Despicable or not.
-(e) Make measurements of Va based on t for at least three
-different flame-plate distances (d). Each set must be
-composed of not less than ten pairs (t, Va).
-(f) Draw a graph t vs melted ice mass, corresponding to each of the following:
-distance d. Check whether the behaviour is approximately li-
-Neal, in that case, set a straight.
-(g) From the above graphs estimate the power (P) received by
+42 estimate the amount of energy per unit time (power) that has reached the ice from the candle.
+Instructions
+a) State some of the hypotheses that have been made in the previous description and that have not been explicitly stated. Some that involve the plate and are related to its dimensions. Others that are related to the temperature of the environment, of the ice, of the water.
+b) Measure the ambient temperature.
+c) Set up the proposed device.
+d) Measure the heat input coming from the environment. Determine whether it is negligible or not.
+e) Carry out the measurements of Va as a function of t for at least three different plate-flame distances (d). Each set must consist of no fewer than ten pairs (t, Va).
+f) Make a graph of t vs mass of melted ice, corresponding to each distance d. Verify whether the behavior is approximately linear; in that case fit a straight line.
+g) From the previous graphs estimate the power (P) received by
 
-43
-the ice sheet in each case.
-(h) Present these results in a graph (d vs P). Extrapolate these re-
-The value of the substrate is the value of the substrate.
-Elements that may be useful
-- Fine sheet metal (despicable thickness).
+43 the ice cube in each case.
+h) Present these results in a graph (d vs P). Extrapolate these results to the value d=0 and determine a value PM.
+Items that may be useful
+- Thin metal sheet (negligible thickness).
 - Ice cubes (at least 3).
-- Plastiline (to prevent ice from slipping as a result of the
-The pendulum with which the plate is put).
-- Sail (Ranchera mark or equivalent quality).
-- Rule, millimeter paper or square, pencil.
-- Graduated syringe of 10ml or more.
-- It's a timekeeper.
-- Wood pins, wood pins (such as those for hanging clothes).
-- Water receivers.
+- Plasticine (to prevent the ice from sliding as a consequence of the slope at which the sheet has been placed).
+- Candle (Ranchera brand or equivalent quality).
+- Ruler, graph paper or squared paper, pencil.
+- Graduated syringe of 10 ml or more.
+- Stopwatch.
+- Supports, wooden clothespins (type of clothespins used for hanging clothes).
+- Containers for water.
 
 44
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Calorimeter (object)|Calorimeter]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
 
 
 
@@ -2510,67 +2270,43 @@ Tel.: 0351-5353701 (int. 41361) - Correo electrónico: oaf@famaf.unc.edu.ar
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fotometria - fotometro Bunsen**
+**Fotometria - fotometro di Bunsen**
 
 Situazione 6
 Fotometria
-La fotometria è la parte della fisica che si occupa di determinare le intensità di
-- le fonti luminose.
-Un fotometro è un strumento utilizzato per determinare l'intensità di
-la luce emessa da una fonte. In generale, si fa un confronto con il
-una tensione emessa da una fonte di tipo.
-Il fotometro di Bunsen consiste in un sistema sperimentale come quello che si
-indica la figura.
+La fotometria è la parte della fisica che si occupa di determinare le intensità delle sorgenti luminose.
+Un fotometro è uno strumento che si utilizza per determinare l'intensità della luce emessa da una sorgente. In generale, si effettua il confronto con l'intensità emessa da una sorgente campione.
+Il Fotometro di Bunsen consiste in un allestimento sperimentale come quello indicato nella figura.
 
 45
-Tra le sorgenti di luce, sopra la linea che le unisce, si colloca un quadro che
-sopporta un foglio di carta con un macchia di olio. Per mezzo di
-due specchi adeguatamente disposti possono essere osservati in modo che:
-La macchia è un'artigliatura che si trova in un foglio. - della Commissione
-la paratura visiva dell'aspetto di ogni lato della macchia può
-determinare quale lato sta ricevendo più illuminazione.
-Appostando o allontanando dalla macchia la fonte incognita (intensità Ix), è
-La relazione di intensità con la fonte di intensità connessa con la
-la stacca (Ic) situata a distanza da essa. Si tratta di misurare la dis-
-il cui punto è uguale a quello del lato della carta (dx);
-Cioè, quando entrambi i lati del foglio hanno lo stesso aspetto. De-
-Per la fine di quanti dx, è possibile utilizzare l'equazione (1) per calcolare la co-
-Conosciuto tra l'intensità Ix della fonte incognita e l'intensità Ic della fonte
-Conosciuto.
+Tra le sorgenti di luce, sulla linea che le unisce, si colloca un telaio che sostiene un foglio di carta sul quale c'è una macchia d'olio. Mediante due specchi disposti in modo opportuno si possono osservare simultaneamente entrambi i lati della macchia (entrambi i lati del foglio). Dal confronto visivo dell'aspetto di ciascun lato della macchia si può determinare quale sia il lato che riceve maggiore illuminazione.
+Avvicinando o allontanando dalla macchia la sorgente incognita (di intensità Ix), è possibile determinare il suo rapporto di intensità con la sorgente di intensità nota (Ic) situata a una distanza dc dalla macchia. Si tratta di misurare la distanza per la quale entrambi i lati del foglio sono ugualmente illuminati (dx); cioè, quando entrambi i lati del foglio presentano lo stesso aspetto. Determinando la quantità dx, è possibile utilizzare l'equazione (1) per calcolare il quoziente tra l'intensità Ix della sorgente incognita e l'intensità Ic della sorgente nota.
 Elementi disponibili
-- Fonte luminosa nota
-- Fonte di luce incognita
+- Sorgente di luce nota
+- Sorgente di luce incognita
 
 46
-- Cintura metrica
-- Stampo di carta
+- Metro a nastro
+- Nastro di carta
 - Plastilina
-- Papero
-- L'olio
-- Palle di gelato
+- Carta
+- Olio
+- Bastoncini di gelato
 - Specchi
-Sviluppo del lavoro
-Considera l'intensità di una delle due fonti fornite come nota.
-Identifica questa fonte con un'etichetta.
-a) Sulla base dei dati forniti, si applica un fototopo di
-metro di Bunsen. Squamatizza il suo design etichettando ciascuno di
-gli elementi che lo compongono.
-b) Eseguire le misure necessarie per determinare il coefficiente tra
-l'intensità luminosa della fonte incognita e l'intensità luminosa di
-la fonte nota. Rimuovi i risultati in una tabella e segnala il
-valore di intensità determinato.
+Svolgimento del lavoro
+Si consideri nota l'intensità di una delle due sorgenti fornite.
+Identificare questa sorgente mediante un'etichetta.
+a) Utilizzando soltanto gli elementi forniti, realizzare un fotometro di Bunsen. Schematizzare il progetto etichettando ciascuno degli elementi che lo compongono.
+b) Effettuare le misurazioni necessarie per determinare il rapporto tra l'intensità luminosa della sorgente incognita e l'intensità luminosa della sorgente nota. Riportare i risultati in una tabella e indicare il valore di intensità determinato.
 
 47
-A. Maiztegui, J. Sabato, Introduzione alla fisica, Editorial Kapeluz.
-A. Maiztegui, R. Gleiser, introduzione alle misurazioni di laboratorio. - E' stato un'idea.
-Torial Kapeluz, 1980.
-R. Serway, fisica, volumi 1 e 2, editoriale Mc Graw Hill.
-R. Resnick, D. Halliday, K. Krane, fisica, volume 1, 4ta. edizione, Editorial
+A. Maiztegui, J. Sábato, Introducción a la Física, Editorial Kapeluz.
+A. Maiztegui, R. Gleiser, Introducción a las mediciones de laboratorio. Editorial Kapeluz, 1980.
+R. Serway, Física, Tomo 1 y 2, Editorial Mc Graw Hill.
+R. Resnick, D. Halliday, K. Krane, Física, Volumen 1, 4ta. edición, Editorial
 CECSA.
-Sears, Zemansky, Young & Freedman, fisica, 12da. Editorial Addi-
-Sono-Wesley (Educazione Pearson).
-S. Perez, C. Schürrer, G. Stutz. Lavorazione fisica. L'analisi dei dati e l'in-
-Certificati in fisica sperimentale. FaMAF, 2011.
+Sears, Zemansky, Young & Freedman, Física, 12da. edición, Editorial Addison-Wesley (Pearson Educación).
+S. Pérez, C. Schürrer, G. Stutz. Trabajos de Física. Análisis de Datos e Incertidumbres en Física Experimental. FaMAF, 2011.
 -
 -
 -
@@ -2578,97 +2314,55 @@ Certificati in fisica sperimentale. FaMAF, 2011.
 -
 -
 -
-La bibliografia suggerita
+BIBLIOGRAFÍA SUGERIDA
 
-L'Olimpiada Argentina di Fisica (OAF) promuove la partecipazione degli insegnanti e è
-La ricerca è stata condotta da un'attività scientifica extra-scolare che, pur avendo aspetti competitivi, è stata
-Tivos, non perseguita la concorrenza come fine. Si sa che l'OAF è un compito
-La scuola non è più che una scuola, ma è una scuola che si propone da fuori, ma la sua
-La preparazione e lo sviluppo devono servire come elemento di più nelle attività in materia di
-classe di fisica.
-Un'altra caratteristica della Olimpiada di Fisica è la sua decentralizzazione:
-Le regioni del paese, le scuole e gli insegnanti partecipano all'organizzazione con totale
-La Commissione ha adottato una proposta di regolamento che prevede che le regioni di cui trattasi possano essere
-e al proprio livello. Parti da ogni istituzione di istruzione individualmente
-(direttori, docenti, studenti) e poi condividere le esperienze con altri colleghi
-La Commissione ha adottato una proposta di direttiva che prevede che le misure adottate per la protezione dei consumatori siano state applicate a livello nazionale.
-Un'altra caratteristica molto importante è la natura stessa della fisica che fa sì che il
-È indispensabile che le prove siano di una parte di carta e di una parte di carta e di una parte di carta.
-La misurazione è un processo di misurazione.
-Olimpiada Argentina di Fisica
-Facoltà di Matematica, Astronomia e Fisica - Università Nazionale di Cordoba
-Medina Allende s/n - Città universitaria - 5000 - Córdoba - Argentina
-Telefono: 0351-5353701 (int. 41361) - E-mail: oaf@famaf.unc.edu.ar
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Screen (object)|Screen]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
+L'Olimpiade Argentina di Fisica (OAF) promuove la partecipazione di docenti e studenti in un'attività scientifica extrascolastica, che pur avendo aspetti competitivi, non persegue come fine la competizione. Si intende che la OAF è un compito extrascolastico nel senso che viene proposta dall'esterno della scuola, ma la sua preparazione e il suo sviluppo devono servire come un elemento in più nelle attività in aula di Fisica.
+Una caratteristica principale dell'Olimpiade di Fisica è la sua decentralizzazione: in diverse regioni del paese, scuole e docenti partecipano all'organizzazione con totale indipendenza e senza competere tra le regioni, ciascuna entro le proprie possibilità e al proprio livello. Si parte da ogni singolo istituto educativo (dirigenti, professori, studenti), per poi condividere esperienze con altre scuole in competizioni più ampie, fino ad arrivare all'istanza nazionale.
+Un'altra caratteristica molto importante è la natura stessa della Fisica che rende imprescindibile che le prove abbiano una parte carta e penna e anche una parte sperimentale, nella quale il processo di misurazione è centrale.
+Olimpiade Argentina di Fisica
+Facoltà di Matematica, Astronomia e Fisica - Università Nazionale di Córdoba
+Medina Allende s/n - Città Universitaria - 5000 - Córdoba - Argentina
+Tel.: 0351-5353701 (int. 41361) - Posta elettronica: oaf@famaf.unc.edu.ar
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculation of the total value of the sampled Union producers:
+**Photometry - Bunsen photometer**
 
 Situation 6
 Photometry
-Photometry is the part of physics concerned with determining the intensities of the
-The data from the light sources.
-A photometer is an instrument used to determine the intensity of
-the light emitted by a source. The comparison with the
-The voltage emitted by a pattern source.
-The Bunsen Photometer consists of an experimental arrangement such as the
-The figure shows.
+Photometry is the branch of physics that deals with determining the intensities of light sources.
+A photometer is an instrument used to determine the intensity of the light emitted by a source. In general, a comparison is made with the intensity emitted by a standard source.
+The Bunsen photometer consists of an experimental setup such as the one shown in the figure.
 
 45
-Between the light sources, over the line that connects them, there is a frame that
-It holds a sheet of paper with an oil stain on it. By
-Two mirrors arranged properly can be observed in a form if-
-The following table shows the number of pages in the sheet: The Commission
-visual paration of the appearance of each side of the stain can be
-determine which side is getting the most light.
-By approaching or removing the source of the stain from the spot, the source is unknown (Ix intensity).
-The first is that the energy intensity of the energy source is not too high.
-The area of the spotting area shall be the area of the spotting area. It is a matter of measuring the dis-
-the distance to which both sides of the paper are equally illuminated (dx);
-That is, when both sides of the paper have the same appearance. De-
-The first is the number of coefficients.
-between the intensity Ix of the source unknown and the intensity Ic of the source
-I know you.
-Available items
+Among the light sources, on the line joining them, a frame is placed that supports a sheet of paper on which there is an oil stain. By means of two mirrors arranged in a suitable way, both sides of the stain (both sides of the sheet) can be observed simultaneously. From the visual comparison of the appearance of each side of the stain, it is possible to determine which side is receiving greater illumination.
+By moving the unknown source (of intensity Ix) closer to or farther from the stain, it is possible to determine its intensity ratio with the known-intensity source (Ic) located at a distance dc from the stain. The goal is to measure the distance for which both sides of the paper are equally illuminated (dx); that is, when both sides of the paper present the same appearance. By determining the quantity dx, it is possible to use equation (1) to calculate the quotient between the intensity Ix of the unknown source and the intensity Ic of the known source.
+Available elements
 - Known light source
-- Incognito light source
+- Unknown light source
 
 46
-- The tape measure
+- Measuring tape
 - Paper tape
-- Plastic
-- Paper .
+- Modeling clay
+- Paper
 - Oil
-- Iced sticks
+- Ice cream sticks
 - Mirrors
-Development of the workforce
-Consider the intensity of one of the two sources provided as known.
-Identify this source by a label.
-(a) Using only the elements provided, implement a photographic
-Bunsen subway. Sketch your design by labeling each of the
-the elements that make it up.
-(b) Make the measurements necessary to determine the ratio between the
-The intensity of light from the unknown source and the intensity of light from the unknown source
-The known source. Turn your results into a table and report the
-the value of the intensity determined.
+Work development
+Consider the intensity of one of the two provided sources as known.
+Identify this source by means of a label.
+a) Using only the provided elements, implement a Bunsen photometer. Draw a schematic of its design, labeling each of the elements that compose it.
+b) Carry out the necessary measurements to determine the ratio between the light intensity of the unknown source and the light intensity of the known source. Record your results in a table and report the determined intensity value.
 
 47
-A. I'm going to go with you. Saturday, Introduction to physics, published by Kapeluz.
-A. I'm going to go. Gleiser, introduction to the lab measurements. The Commission
-The Commission has not yet adopted a proposal for a regulation.
-R. Serway, Physics, Volumes 1 and 2, Editorial Mc Graw Hill.
-R. Resnick, D. Halliday, K. The first is Krane, Physics, Volume 1, 4th. The following is a list of the
-The Commission has not yet taken a decision.
-Sears, Zemansky, Young and Freedman, Physics, 12th. The Commission has also adopted a number of proposals for the
-I'm sorry, but I'm not sure what you're saying.
-S. Perez, C. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. Stutz. What? Physics work. Data analysis and data acquisition
-Certainties in experimental physics. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+A. Maiztegui, J. Sábato, Introducción a la Física, Editorial Kapeluz.
+A. Maiztegui, R. Gleiser, Introducción a las mediciones de laboratorio. Editorial Kapeluz, 1980.
+R. Serway, Física, Tomo 1 y 2, Editorial Mc Graw Hill.
+R. Resnick, D. Halliday, K. Krane, Física, Volumen 1, 4th edition, Editorial
+CECSA.
+Sears, Zemansky, Young & Freedman, Física, 12th edition, Editorial Addison-Wesley (Pearson Educación).
+S. Pérez, C. Schürrer, G. Stutz. Trabajos de Física. Análisis de Datos e Incertidumbres en Física Experimental. FaMAF, 2011.
 -
 -
 -
@@ -2676,30 +2370,12 @@ Certainties in experimental physics. The Commission shall adopt implementing act
 -
 -
 -
-The Bible is a book.
+SUGGESTED BIBLIOGRAPHY
 
-The Argentine Olympiad of Physics (OAF) promotes the participation of teachers and is the
-The main objective of the programme is to improve the quality of education and training in the field of science.
-Tivos, do not pursue competition as an end. The OAF is understood to be a task
-The main objective of the programme is to promote the development of the European Community's
-The Commission's proposal for a regulation on the
-Physics class.
-The main feature of the Physics Olympiad is its decentralization:
-The Commission's proposal for a regulation on the implementation of the Community's common agricultural policy (CAP) is to be adopted by the Council.
-The Commission has already decided to extend the scope of the programme to the regions.
-And on their own level. It is started from each educational establishment individually
-(directors, teachers, pupils) and then share experiences with other colleagues.
-The Commission's proposal for a regulation on the protection of workers' rights in the Member States is therefore not yet in force.
-Another very important feature is the very nature of physics which makes it possible to
-It is essential that the tests have a pencil and paper part and also a paper part
-The experimental method is central to the measurement process.
-Argentine Olympic Games in Physics
-Faculty of Mathematics, Astronomy and Physics - National University of Cordoba
-The following is a list of the most important projects of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. 41361) - E-mail: oaf@famaf.unc.edu.ar
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Screen (object)|Screen]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1-MEjB1NFR3ThjbvH48C9yMIwWe8sNdjn/view)
+The Argentine Physics Olympiad (OAF) promotes the participation of teachers and students in an extracurricular scientific activity, which although it has competitive aspects, does not pursue competition as its goal. It is understood that the OAF is an extracurricular task in the sense that it is proposed from outside the school, but its preparation and development should serve as one more element in Physics classroom activities.
+A main characteristic of the Physics Olympiad is its decentralization: in different regions of the country, schools and teachers participate in the organization with total independence and without competing among regions, each one within its possibilities and at its own level. It starts from each educational establishment individually (administrators, teachers, students), to then share experiences with other schools in more comprehensive competitions, until reaching the national instance.
+Another very important characteristic is the very nature of Physics, which makes it essential that the tests have a pencil-and-paper part and also an experimental part, in which the measurement process is central.
+Argentine Physics Olympiad
+Faculty of Mathematics, Astronomy and Physics - National University of Córdoba
+Medina Allende s/n - University City - 5000 - Córdoba - Argentina
+Tel.: 0351-5353701 (ext. 41361) - Email: oaf@famaf.unc.edu.ar

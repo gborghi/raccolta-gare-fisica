@@ -481,37 +481,31 @@ $$\tau =$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Oscillazioni Brunt-Väisälä: per studiare il tempo viene utilizzato un pallone contenente gas inerte, l'Elio. Si alza e riposa ad un'altezza di equilibrio nell'atmosfera, dove il suo peso è esattamente bilanciato dalla forza galleggiante ascendente. Supponiamo che la legge dei gas ideali sia valida per tutti i processi e trascureremo la massa del palloncino. Se il palloncino è spostato verticalmente, spesso si trova a oscillare intorno alla posizione di equilibrio. La frequenza di questa oscillazione è chiamata frequenza "Brunt-Väisälä". In questo caso, la Commissione ha deciso di esaminare il fenomeno. [Marchi: 13]
+Oscillazioni di Brunt-Väisälä: Un pallone contenente gas inerte Elio viene usato per studiare il tempo atmosferico. Esso sale e si ferma a un'altezza di equilibrio nell'atmosfera, dove il suo peso è esattamente bilanciato dalla forza di galleggiamento verso l'alto. Assumeremo che la legge dei gas ideali valga per tutti i processi e trascureremo la massa del pallone. Se il pallone viene spostato verticalmente, si osserva spesso che oscilla attorno alla posizione di equilibrio. La frequenza di questa oscillazione è chiamata frequenza di "Brunt-Väisälä". Indagheremo questo fenomeno. [Punti: 13]
 
-(a) Supponiamo che il palloncino sia spostato verso l'alto adiabaticamente dalla posizione di equilibrio. Nella posizione spostata, $T_b$ e $m_b$ sono la temperatura e la massa molare del gas nel palloncino. La temperatura e la massa molare dell'atmosfera esterna devono essere uguali a $T_a$ e $m_a$. Il tasso di variazione della temperatura con l'altezza del gas nel palloncino e dell'aria esterna, rispettivamente, è $dT_b/dz$ e $dT_a/dz$, quando l'asse positivo $z$ è verticalmente verso l'alto e $z$ è l'altezza dal suolo.
-Derivare e calcolare la velocità di scadenza ($\Gamma_a = dT_a/dz$) per l'atmosfera, dato che la massa molare dell'aria è $29\ \text{kg}\cdot\text{kmol}^{-1}$ e la costante del gas è $R = 8.31\ \text{J}\cdot\text{K}^{-1}\cdot\text{mol}^{-1}$. Supponiamo che l'accelerazione dovuta alla gravità ($g$) rimanga costante e che tutti i processi aerei siano adiabatici. [1]
+(a) Supponiamo che il pallone venga spostato verso l'alto adiabaticamente dalla posizione di equilibrio. Nella posizione spostata, siano $T_b$ e $m_b$ la temperatura e la massa molare del gas nel pallone. Siano $T_a$ e $m_a$ la temperatura e la massa molare dell'atmosfera esterna allo stesso livello. Siano $dT_b/dz$ e $dT_a/dz$ il tasso di variazione della temperatura con l'altezza per il gas nel pallone e per l'aria esterna rispettivamente, dove l'asse $z$ positivo è verticale verso l'alto e $z$ è l'altezza dal suolo.
+Derivare e Calcolare il gradiente termico verticale ($\Gamma_a = dT_a/dz$) per l'atmosfera, dato che la massa molare dell'aria è $29\ \text{kg}\cdot\text{kmol}^{-1}$ e la costante dei gas è $R = 8.31\ \text{J}\cdot\text{K}^{-1}\cdot\text{mol}^{-1}$. Assumere che l'accelerazione di gravità ($g$) rimanga costante e che tutti i processi dell'aria siano adiabatici. [1]
 
 $$\Gamma_a =$$
 
-b) Supponendo che la pressione all'interno del palloncino sia la stessa di quella all'esterno, deriviamo un'espressione per $\Gamma_b = dT_b/dz$ in termini di calore specifico molare a pressione costante ($C_b$) del gas nel palloncino. [2]
+(b) Assumendo che la pressione all'interno del pallone sia la stessa di quella esterna, ricavare un'espressione per $\Gamma_b = dT_b/dz$ in termini del calore specifico molare a pressione costante ($C_b$) del gas nel pallone. [2]
 
 $$\Gamma_b =$$
 
-c) Ottenere un'espressione dell'accelerazione verticale ($\ddot{z}$) del palloncino in termini di temperature e di masse molari. [2]
+(c) Ottenere un'espressione per l'accelerazione verticale ($\ddot{z}$) del pallone in termini di temperature e masse molari. [2]
 
 $$\ddot{z} =$$
 
-d) Trovare l'altezza di equilibrio ($z_0$) in termini di masse molari, $C_b$ e quantità rilevanti? Supponiamo che sia per il pallone che per l'aria, $T = T_0$ a $z = 0$. [2]
+(d) Trovare l'altezza di equilibrio ($z_0$) in termini di masse molari, $C_b$ e grandezze rilevanti? Assumere che sia per il pallone sia per l'aria, $T = T_0$ a $z = 0$. [2]
 
 $$z_0 =$$
 
-e) Indicare le condizioni per l'oscillazione armonica del palloncino. Ottenere anche la frequenza di oscillazione ($\omega$) per il palloncino. [4]
+(e) Enunciare la condizione affinché il pallone oscilli in modo armonico semplice. Ottenere inoltre la frequenza di oscillazione ($\omega$) per il pallone. [4]
 
 Condizione:
 
 $$\omega =$$
 
-f) Calcolare approssimativamente il periodo di tempo ($\tau$) del palloncino oscillante se $T_0 = 300\ \text{K}$ in un palloncino costituito da miscela Ar-He nel rapporto di massa 1:1 (Peso atomico di Ar = 36 amu e He = 4 amu). [2]
+(f) Calcolare approssimativamente il periodo di oscillazione ($\tau$) del pallone oscillante se $T_0 = 300\ \text{K}$ in un pallone costituito da una miscela Ar-He in rapporto di massa 1:1 (Pesi Atomici di Ar = 36 amu e He = 4 amu). [2]
 
 $$\tau =$$
-
-**Topic:** [[Thermodynamics]], [[Oscillations & Waves]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1SXp9KcMytqseqvE3QwkcquUhGAgu0kvv/view)

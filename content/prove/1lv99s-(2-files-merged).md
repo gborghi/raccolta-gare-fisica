@@ -42,29 +42,24 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q1.** A golf player throws the ball at a certain angle to the horizontal; two graphs show how the horizontal and vertical components of the speed change over time (constant horizontal $v_x=40\ \text{m s}^{-1}$; linear vertical from $+30$ to $-30\ \text{m s}^{-1}$ in $6\ \text{s}$). With $g=10\ \text{m s}^{-2}$, what is the modulus of the velocity with which the ball hits the ground? A) $10$; B) $30$; C) $40$; D) $50$; E) $70\ \text{m s}^{-1}$.
+**Q1.** A golfer launches the ball at a certain angle with respect to the horizontal; two graphs show how the horizontal and vertical components of the velocity vary over time (horizontal constant $v_x=40\ \text{m s}^{-1}$; vertical linear from $+30$ to $-30\ \text{m s}^{-1}$ in $6\ \text{s}$). With $g=10\ \text{m s}^{-2}$, what is the magnitude of the velocity with which the ball hits the ground? A) $10$; B) $30$; C) $40$; D) $50$; E) $70\ \text{m s}^{-1}$.
 
 <!--fig:start-->
-The following table shows the number of players in the table:
+**p.11** — Parabolic trajectory of the golf ball
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p11_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the number of units in the unit of measurement:
+**p.11** — Graphs of horizontal and vertical velocity
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p11_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
- Car hitting a wall
+**p.20** — Car hitting a wall
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p20_f22.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -91,19 +86,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q2.** A positive charge of $2\ \text{C}$ is shifted from $S$ plate (to $250\ \text{V}$) to $T$ plate (to $750\ \text{V}$). How much energy is needed to move it from $S$ to $T$? A) $0.004\ \text{J}$; B) $250\ \text{J}$; C) $500\ \text{J}$; D) $1000\ \text{J}$; E) $1500\ \text{J}$.
+**Q2.** A positive charge of $2\ \text{C}$ is moved from plate $S$ (at $250\ \text{V}$) to plate $T$ (at $750\ \text{V}$). How much energy must be supplied to move it from $S$ to $T$? A) $0.004\ \text{J}$; B) $250\ \text{J}$; C) $500\ \text{J}$; D) $1000\ \text{J}$; E) $1500\ \text{J}$.
 
 <!--fig:start-->
-**p.11**  S and T plates with different potential
+**p.11** — Plates S and T at different potential
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p11_f3.png]]
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -125,14 +115,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-A space probe at $3\times10^{11}\ \text{m}$ from the Sun has surface solar panels $4\ \text{m}^2$ to receive sufficient energy. What should the panel area be at least if the probe were set at $6\times10^{11}\ \text{m}$ by the Sun? A) $1\ \text{m}^2$; B) $2$; C) $4$; D) $8$; E) $16\ \text{m}^2$.
+**Q3.** A space probe at $3\times10^{11}\ \text{m}$ from the Sun has solar panels with surface area $4\ \text{m}^2$ to receive sufficient energy. What should the minimum area of the panels be if the probe were placed at $6\times10^{11}\ \text{m}$ from the Sun? A) $1\ \text{m}^2$; B) $2$; C) $4$; D) $8$; E) $16\ \text{m}^2$.
 
-**Topic:** [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -213,24 +198,19 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q5.** A single-ray light propagating through air affects $28°$ (from normal) on a face of a glass block of index $n=1.7$. What diagram shows the next path of the beam correctly? *[Five AE diagrams; the radius is refracted by entering ($\hat r=16°$) and, hitting the opposite face at an angle $74°>\alpha_{\lim}=36°$, it undergoes total internal reflection.]*
+**Q5.** A ray of monochromatic light propagating in air strikes at $28°$ (from the normal) one face of a glass block of index $n=1.7$. Which diagram correctly shows the subsequent path of the ray? *[Five diagrams A–E; the ray refracts upon entering ($\hat r=16°$) and, striking the opposite face at angle $74°>\alpha_{\lim}=36°$, undergoes total internal reflection.]*
 
 <!--fig:start-->
-**p.12**  Rage incident on the glass block
+**p.12** — Incident ray on the glass block
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p12_f6.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the following information:
+**p.12** — Five diagrams of the path A-E
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p12_f7.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **B**
 
 
 
@@ -252,14 +232,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The period of small oscillations of a pendulum is independent of small variations... 1  of the acceleration of gravity; 2  of the mass of the pendulum; 3  of the width of the motor. What statements are correct? (a) All three; (b) either 1 or 2; (c) either 2 or 3; (d) only the 1st; (e) only the 3rd.
+**Q6.** The period of small oscillations of a pendulum is independent of small variations... 1 — of the acceleration due to gravity; 2 — of the mass of the pendulum; 3 — of the amplitude of the motion. Which statements are correct? A) All three; B) both 1 and 2; C) both 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -281,14 +256,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The moment of inertia of a sphere of mass $m$ and radius $r$ with respect to a baricentric axis is $\tfrac25 mr^2$. When a sphere rolls without slipping, the ratio of kinetic energy of translation to rotation is... A) $2r/5$; B) $5r/2$; C) $2m/5$; D) $5/2$; E) $2/5$.
+**Q7.** The moment of inertia of a sphere of mass $m$ and radius $r$ about an axis through its center is $\tfrac25 mr^2$. When a sphere rolls without slipping, the ratio between translational and rotational kinetic energy is... A) $2r/5$; B) $5r/2$; C) $2m/5$; D) $5/2$; E) $2/5$.
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -320,24 +290,19 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q8.** A capacitor and resistor are in series with an electrical power generator. $E$. Which graph pairs best represent the trend of $V_C$ (condenser heads) and $V_R$ (resistance heads) during charging? *[Five pairs of AE; corrected: $V_C$ rising to $E$ ($V_C=E(1-e^{-t/RC})$) and $V_R$ decreasing from $E$ to $0$ ($V_R=Ee^{-t/RC}$).]*
+**Q8.** A capacitor and a resistor are in series with an electromotive force generator $E$. Which pair of graphs best represents the behavior of $V_C$ (across the capacitor) and $V_R$ (across the resistor) during charging? *[Five pairs A–E; correct: $V_C$ increasing toward $E$ ($V_C=E(1-e^{-t/RC})$) and $V_R$ decreasing from $E$ to $0$ ($V_R=Ee^{-t/RC}$).]*
 
 <!--fig:start-->
-The manufacturer shall ensure that the manufacturer is able to provide the manufacturer with the necessary information.
+**p.13** — RC circuit in series with generator
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p13_f8.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total number of samples:
+**p.13** — Five pairs of graphs V_C and V_R
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p13_f9.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -364,19 +329,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two mass cars $M$ and $2M$ are left at the $X$ stop and slide along a driveway to the $Y$ point (negligible friction). What statements are correct? 1  Both will have the same kinetic energy in $Y$; 2  that of mass $2M$ travels $XY$ faster; 3  in $Y$ the amount of motor of one car is twice that of the other. (a) All three; (b) either 1 or 2; (c) either 2 or 3; (d) only the 1st; (e) only the 3rd.
+**Q9.** Two toy cars of mass $M$ and $2M$ are left from rest at point $X$ and slide along a track to point $Y$ (negligible friction). Which statements are correct? 1 — Both will have the same kinetic energy at $Y$; 2 — the one of mass $2M$ travels $XY$ more quickly; 3 — at $Y$ the momentum of one toy car is twice that of the other. A) All three; B) both 1 and 2; C) both 2 and 3; D) only 1; E) only 3.
 
 <!--fig:start-->
- X to Y guide for cars
+**p.14** — Track from X to Y for toy cars
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p14_f10.png]]
 <!--fig:end-->
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -403,19 +363,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q10.** A student needs a resistance in the $(15\pm4)\ \Omega$ range and has only resistance from $10\ \Omega$. What combinations (1, 2, 3) can be used? (a) Only 1; (b) is 1 or 2; (c) is 1 or 3; (d) is 2 or 3; (e) all three. *[Schemes: 1 = parallel of two in series with a third; 2 = two in series branches placed in parallel; 3 = two parallel branches of resistance $3R$ and $2R$.]*
+**Q10.** A student needs a resistance in the range $(15\pm4)\ \Omega$ and has only resistors of $10\ \Omega$. Which combinations shown (1, 2, 3) can be used? A) Only 1; B) both 1 and 2; C) both 1 and 3; D) both 2 and 3; E) all three. *[Diagrams: 1 = parallel of two in series with a third; 2 = two branches in series placed in parallel; 3 = two parallel branches of resistors $3R$ and $2R$.]*
 
 <!--fig:start-->
-The following is the list of the types of resistors used:
+**p.14** — Three resistor combinations 1,2,3
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p14_f11.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -437,14 +392,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The total mass of a motorcycle and the rider is $250\ \text{kg}$. A brake reduces the speed from $15\ \text{m s}^{-1}$ to $0$ to $10\ \text{s}$. The maximum amount of energy that can be converted into heat from the brakes is... A) $3.75\ \text{kJ}$; B) $28.1\ \text{kJ}$; C) $37.5\ \text{kJ}$; D) $56.3\ \text{kJ}$; E) $375\ \text{kJ}$.
+**Q11.** The total mass of a motorcycle and its rider is $250\ \text{kg}$. Braking reduces the speed from $15\ \text{m s}^{-1}$ to $0$ in $10\ \text{s}$. The maximum amount of energy convertible into heat by the brakes is... A) $3.75\ \text{kJ}$; B) $28.1\ \text{kJ}$; C) $37.5\ \text{kJ}$; D) $56.3\ \text{kJ}$; E) $375\ \text{kJ}$.
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -505,14 +455,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q13.** A pump of a pigeon has a capacity of $0.06\ \text{m}^3$. A volume of $4.0\ \text{m}^3$ air at $1.44\ \text{kg m}^{-3}$ density is compressed into the pump. What's the density of the air in the pump? A) $0.02$; B) $0.17$; C) $5.76$; D) $6.00$; E) $96.0\ \text{kg m}^{-3}$.
+**Q13.** A diver's air tank has a capacity of $0.06\ \text{m}^3$. A volume of $4.0\ \text{m}^3$ of air with density $1.44\ \text{kg m}^{-3}$ is compressed into the tank. What is the density of the air in the tank? A) $0.02$; B) $0.17$; C) $5.76$; D) $6.00$; E) $96.0\ \text{kg m}^{-3}$.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -539,19 +484,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q14.** A sinusoidal signal is displayed on an oscilloscope: the screen width is $2$ divisions (vertical gain $5\ \text{V/divisione}$) and the period is $4$ divisions (base time $1\ \text{ms/divisione}$). In which row are the correct peak voltage and frequency values reported? A) $10\ \text{V}$, $100\ \text{Hz}$; B) $10\ \text{V}$, $250\ \text{Hz}$; C) $20\ \text{V}$, $250\ \text{Hz}$; D) $10\ \text{V}$, $500\ \text{Hz}$; E) $20\ \text{V}$, $1000\ \text{Hz}$.
+**Q14.** A sinusoidal signal is displayed on an oscilloscope: the amplitude on the screen is $2$ divisions (vertical gain $5\ \text{V/divisione}$) and the period is $4$ divisions (time base $1\ \text{ms/divisione}$). In which row are the correct values of the peak voltage and the frequency given? A) $10\ \text{V}$, $100\ \text{Hz}$; B) $10\ \text{V}$, $250\ \text{Hz}$; C) $20\ \text{V}$, $250\ \text{Hz}$; D) $10\ \text{V}$, $500\ \text{Hz}$; E) $20\ \text{V}$, $1000\ \text{Hz}$.
 
 <!--fig:start-->
-**p.15**  Screening of the oscilloscope with handles
+**p.15** — Oscilloscope screen with knobs
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p15_f13.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -578,19 +518,14 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q15.** A device measuring the speed $v$ of a projectile by $v=m_1 v_1/m$, with $m_1=(2.00\pm0.02)\ \text{kg}$ (target mass after impact), $m=(10.0\pm0.5)\ \text{g}$ (bullet), $v_1=(0.5\pm0.01)\ \text{m s}^{-1}$ (target speed). What is the value of the uncertainty in $v$? A) $1\%$; B) $2\%$; C) $3\%$; D) $8\%$; E) $15\%$.
+**Q15.** A device measures the speed $v$ of a projectile by means of $v=m_1 v_1/m$, with $m_1=(2.00\pm0.02)\ \text{kg}$ (mass of the target after the impact), $m=(10.0\pm0.5)\ \text{g}$ (projectile), $v_1=(0.5\pm0.01)\ \text{m s}^{-1}$ (speed of the target). Which value expresses the uncertainty in the measurement of $v$? A) $1\%$; B) $2\%$; C) $3\%$; D) $8\%$; E) $15\%$.
 
 <!--fig:start-->
-The following information is provided by the Commission:
+**p.16** — Projectile and target device
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p16_f14.png]]
 <!--fig:end-->
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -612,14 +547,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q16.** A bullet of $5\ \text{kg}$ moves horizontally at $200\ \text{m s}^{-1}$, explodes in two pieces continuing in the initial direction and direction. One of the two ($3\ \text{kg}$) goes to $100\ \text{m s}^{-1}$. Speed of the second piece? A) $150$; B) $200$; C) $300$; D) $350$; E) $750\ \text{m s}^{-1}$.
+**Q16.** A projectile of $5\ \text{kg}$ moves horizontally at $200\ \text{m s}^{-1}$, it explodes into two pieces that continue in the initial direction and along the initial line. One of the two ($3\ \text{kg}$) travels at $100\ \text{m s}^{-1}$. Velocity of the second piece? A) $150$; B) $200$; C) $300$; D) $350$; E) $750\ \text{m s}^{-1}$.
 
-**Topic:** [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -646,19 +576,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q17.** Il foro di una pompa da bicicletta è otturato con un tappo che intrappola l'aria nella camera $C$; il pistone è premuto lentamente comprimendo l'aria e la pressione aumenta. What statement explains why pressure increases at constant temperature? 1  Molecules increase the average square velocity; 2  molecules hit the walls more frequently; 3  each molecule hits the walls with greater force. (a) Only 2; (b) only 3; (c) both 1 and 2; (d) both 1 and 3; (e) all three.
+**Q17.** The hole of a bicycle pump is plugged with a stopper that traps the air in the chamber $C$; the piston is pushed slowly, compressing the air, and the pressure increases. Which statement explains why the pressure increases, at constant temperature? 1 — The molecules increase their root-mean-square speed; 2 — the molecules hit the walls more frequently; 3 — each molecule strikes the walls with greater force. A) Only 2; B) only 3; C) both 1 and 2; D) both 1 and 3; E) all three.
 
 <!--fig:start-->
-**p.16** — Pompa da bicicletta con camera C
+**p.16** — Bicycle pump with chamber C
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p16_f15.png]]
 <!--fig:end-->
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Piston (object)|Piston]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-**Risposta:** **A**
+**Answer:** **A**
 
 
 
@@ -685,19 +610,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q18.** Cinque provette identiche contengono liquidi di diversa densità $d$ (in unità $u$): A) $d=2u$, colonna $8\ \text{cm}$; B) $d=3u$, $7\ \text{cm}$; C) $d=4u$, $6\ \text{cm}$; D) $d=5u$, $5\ \text{cm}$; E) $d=6u$, $4\ \text{cm}$ ($X$ al fondo di ciascuna colonna). In which test tube is the pressure at $X$ greater? A; B; C; D; E.
+**Q18.** Five identical test tubes contain liquids of different density $d$ (in units $u$): A) $d=2u$, column $8\ \text{cm}$; B) $d=3u$, $7\ \text{cm}$; C) $d=4u$, $6\ \text{cm}$; D) $d=5u$, $5\ \text{cm}$; E) $d=6u$, $4\ \text{cm}$ ($X$ at the bottom of each column). In which test tube is the pressure at point $X$ greater? A; B; C; D; E.
 
 <!--fig:start-->
-**p.17 **  Five test pieces with liquid A to E
+**p.17** — Five test tubes with liquids A-E
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p17_f16.png]]
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-**Risposta:** **D**
+**Answer:** **D**
 
 
 
@@ -724,19 +644,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q19.** Two objects connected by an unextended wire (negligible mass) on a smooth horizontal plane; the object from $4\ \text{kg}$ is applied a force of $12\ \text{N}$ (the other is $2\ \text{kg}$). Wire tension? A) $2\ \text{N}$; B) $4$; C) $6$; D) $8$; E) $12\ \text{N}$.
+**Q19.** Two objects connected by an inextensible thread (negligible mass) on a smooth horizontal plane; a force of $12\ \text{N}$ is applied to the object with $4\ \text{kg}$ (the other is $2\ \text{kg}$). Tension in the thread? A) $2\ \text{N}$; B) $4$; C) $6$; D) $8$; E) $12\ \text{N}$.
 
 <!--fig:start-->
-**p.17**  Two blocks connected by force 12 N
+**p.17** — Two blocks connected with force 12 N
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p17_f17.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
@@ -758,14 +673,9 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q20.** Nel decadimento $\beta^-$ di un nucleo di $^{45}_{20}\text{Ca}$ il nucleo prodotto... 1  is an isotope of $_{21}\text{Sc}$; 2  contains the same number of nucleons as $^{45}_{20}\text{Ca}$; 3  contains a greater number of protons than $^{45}_{20}\text{Ca}$. These statements are correct. (a) all three; (b) either 1 or 2; (c) either 2 or 3; (d) only 1; (e) only 3.
+**Q20.** In the $\beta^-$ decay of a $^{45}_{20}\text{Ca}$ nucleus, the resulting nucleus... 1 — is an isotope of $_{21}\text{Sc}$; 2 — contains the same number of nucleons as $^{45}_{20}\text{Ca}$; 3 — contains a greater number of protons than $^{45}_{20}\text{Ca}$. Of these statements, the correct ones are... A) all three; B) both 1 and 2; C) both 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-**Risposta:** **A**
+**Answer:** **A**
 
 
 
@@ -792,19 +702,14 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 <div class="qlang-split" data-lang="en"></div>
 
-The battery of the circuit shall deliver $3\ \text{A}$ (negligible internal resistance). The circuit has parallel $6\ \Omega$ and $3\ \Omega$, in series with a resistance $R$; f.e.m. $36\ \text{V}$. The resistance $R$ is equal to... A) $3\ \Omega$; B) $4$; C) $10$; D) $12$; E) $18\ \Omega$.
+**Q21.** The battery of the circuit supplies $3\ \text{A}$ (negligible internal resistance). The circuit has $6\ \Omega$ and $3\ \Omega$ in parallel, in series with a resistor $R$; e.m.f. $36\ \text{V}$. The resistance $R$ equals... A) $3\ \Omega$; B) $4$; C) $10$; D) $12$; E) $18\ \Omega$.
 
 <!--fig:start-->
-**p.18**  Series 6 and 3 ohm circuit with R
+**p.18** — Circuit 6 and 3 ohm in series with R
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p18_f18.png]]
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -826,14 +731,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q22.** A swinging mass at the lower end of a suspended spring. Which statement is NOT correct? (a) The kinetic energy is maximum when the resulting forces are zero; (b) the kinetic energy is proportional to the square of the amplitude; (c) the elastic potential energy is maximum in the two instances where the kinetic energy is zero; (d) the kinetic energy periodically varies at twice the frequency of the motion; (e) the gravitational potential energy periodically varies at the same frequency of the motion.
+**Q22.** A mass oscillates at the lower end of a hanging spring. Which statement is NOT correct? A) The kinetic energy is maximum when the resultant of the forces is zero; B) the kinetic energy is proportional to the square of the amplitude; C) the elastic potential energy is maximum at the two instants in which the kinetic energy is zero; D) the kinetic energy varies periodically with twice the frequency of the motion; E) the gravitational potential energy varies periodically at the same frequency as the motion.
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -860,19 +760,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q23.** A gamma-ray beam passes through three substances of equal thickness ($8\ \text{cm}$) $X$, $Y$, $Z$. The intensity is halved for each $2\ \text{cm}$ in $X$, each $4\ \text{cm}$ in $Y$, each $8\ \text{cm}$ in $Z$. If $I$ is the incident intensity, the output in $P$ shall be... A) $I/8$; B) $I/16$; C) $I/32$; D) $I/64$; E) $I/128$.
+**Q23.** A beam of gamma rays passes through equal thicknesses ($8\ \text{cm}$) of three substances $X$, $Y$, $Z$. The intensity is halved every $2\ \text{cm}$ in $X$, every $4\ \text{cm}$ in $Y$, every $8\ \text{cm}$ in $Z$. If $I$ is the incident intensity, the outgoing intensity at point $P$ will be... A) $I/8$; B) $I/16$; C) $I/32$; D) $I/64$; E) $I/128$.
 
 <!--fig:start-->
-**p.18**  Gamma rays through substances X Y Z
+**p.18** — Gamma rays through substances X Y Z
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p18_f19.png]]
 <!--fig:end-->
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -899,19 +794,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A green filter is placed in front of a white light source; the filtered light passes through a double crack and fringe shape on a screen. What operation decreases the distance between the fringes? 1  Use a blue filter instead of green; 2  use a more distant split pair; 3  use a brighter lamp. (a) Only 1; (b) only 2; (c) only 1 and 2; (d) only 1 and 3;
+**Q24.** A green filter is placed in front of a white light source; the filtered light passes through a double slit and forms fringes on a screen. Which operation decreases the distance between the fringes? 1 — Use a blue filter instead of the green one; 2 — use a pair of slits farther apart; 3 — use a brighter lamp. A) Only 1; B) only 2; C) both 1 and 2; D) both 1 and 3; E) both 2 and 3.
 
 <!--fig:start-->
-The manufacturer shall ensure that the product is not subject to any of the following conditions:
+**p.19** — Source filter double slit screen
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p19_f20.png]]
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Slit (object)|Slit]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -933,14 +823,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q25.** The capacity of a flat capacitor was changed by inserting a plastic sheet into the space (previously empty) between the plates. What operation restores the original capacity? 1  Reducing the overhanging surface; 2  decreasing the distance between the plates; 3  changing the load. (a) All three; (b) either 1 or 2; (c) either 2 or 3; (d) only the 1st; (e) only the 3rd.
+**Q25.** The capacitance of a parallel-plate capacitor was changed by inserting a sheet of plastic into the space (previously empty) between the plates. Which operation restores the original capacitance? 1 — Reduce the facing area; 2 — decrease the distance between the plates; 3 — vary the charge. A) All three; B) both 1 and 2; C) both 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -962,14 +847,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-A perfect gas mass at constant pressure $20\ \text{kPa}$ absorbs $1000\ \text{J}$ and expands reversibly from $0.025\ \text{m}^3$ to $0.050\ \text{m}^3$. The internal energy change is worth... A) $-1000\ \text{J}$; B) $-500$; C) $0$; D) $+500$; E) $+1000\ \text{J}$.
+**Q26.** A mass of ideal gas at constant pressure $20\ \text{kPa}$ absorbs $1000\ \text{J}$ and expands reversibly from $0.025\ \text{m}^3$ to $0.050\ \text{m}^3$. The change in internal energy is... A) $-1000\ \text{J}$; B) $-500$; C) $0$; D) $+500$; E) $+1000\ \text{J}$.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **D**
 
 
 
@@ -991,14 +871,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The result of two forces, of $5\ \text{N}$ and $10\ \text{N}$, may be intensity... 1 — $F=5\ \text{N}$; 2 — $F=10\ \text{N}$; 3 — $F=15\ \text{N}$. What statements are correct? (a) All three; (b) either 1 or 2; (c) either 2 or 3; (d) only the 1st; (e) only the 3rd.
+**Q27.** The resultant of two forces, of $5\ \text{N}$ and $10\ \text{N}$, can have magnitude... 1 — $F=5\ \text{N}$; 2 — $F=10\ \text{N}$; 3 — $F=15\ \text{N}$. Which statements are correct? A) All three; B) both 1 and 2; C) both 2 and 3; D) only 1; E) only 3.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -1025,19 +900,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q28.** Il grafico $T$–$E$ (temperatura vs energia assorbita) rappresenta la curva di riscaldamento di $10\ \text{g}$ di una sostanza, con tratti $AB$ (salita), $BC$ (plateau a $\approx60°$), $CD$ (salita), $DE$ (plateau), $EF$ (salita). In what phase is the substance in liquid form? A) $BC$; B) $BD$; C) $BE$; D) $CD$; E) $AF$.
+**Q28.** The graph $T$–$E$ (temperature vs absorbed energy) represents the heating curve of $10\ \text{g}$ of a substance, with segments $AB$ (rise), $BC$ (plateau at $\approx60°$), $CD$ (rise), $DE$ (plateau), $EF$ (rise). In which segment is the substance in liquid form? A) $BC$; B) $BD$; C) $BE$; D) $CD$; E) $AF$.
 
 <!--fig:start-->
-**p.20** — Curva di riscaldamento temperatura-energia
+**p.20** — Temperature-energy heating curve
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p20_f21.png]]
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-**Risposta:** **C**
+**Answer:** **C**
 
 
 
@@ -1059,14 +929,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The specific heat at constant pressure of a perfect gas is higher than that at constant volume because... (a) at constant volume all heat increases internal energy; (b) at constant volume there is no change in temperature when heat is absorbed; (c) at constant pressure there is no change in internal energy; (d) at constant pressure no work is done; (e) for a fixed temperature increase, the increase in internal energy is greater at constant pressure.
+**Q30.** The specific heat at constant pressure of a perfect gas is greater than that at constant volume because... A) at constant volume all the heat goes to increase the internal energy; B) at constant volume there is no temperature variation when heat is absorbed; C) at constant pressure there is no variation of internal energy; D) at constant pressure no work is performed; E) for a fixed increase in temperature, the increase in internal energy is greater at constant pressure.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -1088,14 +953,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q31.** An elevator moves up or down. In which situation is the tensile strength of the wire more? (a) Rises at a constant speed; (b) descends at a constant speed; (c) slows down; (d) accelerates down; (e) slows up.
+**Q31.** An elevator moves upward or downward. In which situation is the tension in the traction cable greater? A) It goes up at constant speed; B) it goes down at constant speed; C) it slows down while going down; D) it accelerates while going down; E) it slows down while going up.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -1161,19 +1021,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q33.** A photon is emitted when an electron transitions from a higher to a lower level, with $E_0=-3.3\times10^{-19}\ \text{J}$ and $E_1=-2.2\times10^{-19}\ \text{J}$. Quanti fotoni vengono emessi in un impulso di luce laser che trasporta $10\ \text{J}$? A) $\dfrac{10}{5.5\times10^{-19}}$; B) $\dfrac{10}{(1.1+1.6)\times10^{-19}}$; C) $\dfrac{10}{3.3\times10^{-19}}$; D) $\dfrac{10}{2.2\times10^{-19}}$; E) $\dfrac{10}{1.1\times10^{-19}}$.
+**Q33.** A photon is emitted when an electron undergoes a transition from a higher level to a lower one, with $E_0=-3.3\times10^{-19}\ \text{J}$ and $E_1=-2.2\times10^{-19}\ \text{J}$. How many photons are emitted in a laser light pulse carrying $10\ \text{J}$? A) $\dfrac{10}{5.5\times10^{-19}}$; B) $\dfrac{10}{(1.1+1.6)\times10^{-19}}$; C) $\dfrac{10}{3.3\times10^{-19}}$; D) $\dfrac{10}{2.2\times10^{-19}}$; E) $\dfrac{10}{1.1\times10^{-19}}$.
 
 <!--fig:start-->
-**p.22** — Livelli energetici E0 E1 ed emissione fotone
+**p.22** — Energy levels E0 E1 and photon emission
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p22_f24.png]]
 <!--fig:end-->
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-**Risposta:** **E**
+**Answer:** **E**
 
 
 
@@ -1195,14 +1050,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-The pressure of a perfect gas may depend on mass, density, volume and temperature. The pressure is inversely proportional to the volume if... (a) only mass remains constant; (b) only density; (c) only temperature; (d) both mass and density; (e) both mass and temperature.
+**Q34.** The pressure of a perfect gas can depend on mass, density, volume and temperature. The pressure is inversely proportional to the volume if... A) only the mass remains constant; B) only the density; C) only the temperature; D) both mass and density; E) both mass and temperature.
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -1229,19 +1079,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A single-ray light beam passes through the air-glass surface: in air it forms $50°$ with the surface (i.e. $40°$ from normal) and in glass $25°$ from normal. The limit angle for that glass is... A) $33.5°$; B) $41.1°$; C) $45.0°$; D) $45.2°$; E) $65.0°$.
+**Q35.** A ray of monochromatic light crosses the air-glass surface: in air it forms $50°$ with the surface (that is, $40°$ from the normal) and in the glass $25°$ from the normal. The critical angle for that glass is... A) $33.5°$; B) $41.1°$; C) $45.0°$; D) $45.2°$; E) $65.0°$.
 
 <!--fig:start-->
-The following conditions shall apply:
+**p.22** — Refraction of a ray at the air-glass surface
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p22_f25.png]]
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **A**
 
 
 
@@ -1268,19 +1113,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q36.** Two $A_1$ and $A_2$ speakers connected to the same output emit coherent phase waves; a microphone detects sound. The point $P$ is equidistant from $A_1$ and $A_2$; the point $Q$ is more wavelength than $A_2$ from $A_1$. How does the oscilloscope track behave by moving the microphone from $P$ to $Q$? (a) The width remains constant; (b) it is minimum in $P$ and maximum in $Q$; (c) it is maximum in $P$ and minimum in $Q$; (d) it has a minimum in $P$, an intermediate maximum and a minimum in $Q$; (e) it has a maximum in $P$, an intermediate minimum and a maximum in $Q$.
+**Q36.** Two loudspeakers $A_1$ and $A_2$ connected to the same output emit coherent waves in phase; a microphone detects the sound. Point $P$ is equidistant from $A_1$ and $A_2$; point $Q$ is one wavelength farther from $A_1$ than from $A_2$. How does the oscilloscope trace behave when the microphone is moved from $P$ to $Q$? A) The amplitude stays constant; B) it is minimum at $P$ and maximum at $Q$; C) it is maximum at $P$ and minimum at $Q$; D) it has a minimum at $P$, an intermediate maximum and a minimum at $Q$; E) it has a maximum at $P$, an intermediate minimum and a maximum at $Q$.
 
 <!--fig:start-->
- Speakers A1 A2 microphone and oscilloscope
+**p.23** — Loudspeakers A1 A2 microphone and oscilloscope
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p23_f26.png]]
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
@@ -1307,19 +1147,14 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q37.** A block of wood ($2\ \text{kg}$) slides at a constant speed along a sloping plane of $30°$. With $g=10\ \text{m s}^{-2}$, what is the friction force on the block? A) $1.0\ \text{N}$; B) $2.0\ \text{N}$; C) $10\ \text{N}$; D) $17.0\ \text{N}$; E) $20.0\ \text{N}$.
+**Q37.** A wooden block ($2\ \text{kg}$) slides at constant speed along an inclined plane of $30°$. With $g=10\ \text{m s}^{-2}$, what is the friction force on the block? A) $1.0\ \text{N}$; B) $2.0\ \text{N}$; C) $10\ \text{N}$; D) $17.0\ \text{N}$; E) $20.0\ \text{N}$.
 
 <!--fig:start-->
-The following conditions shall apply:
+**p.23** — Block on a 30-degree inclined plane
 ![[_attachments/1lv99s (2 files merged)/1lv99s (2 files merged)_p23_f27.png]]
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -1380,14 +1215,9 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q39.** A lens is placed between an object and a screen at $1.00\ \text{m}$ so that an image of the same size as the object is produced on the screen. What kind of lens do you need? The following conditions shall apply: (a) convergent $f=0.50\ \text{m}$; (b) divergent $f=0.50\ \text{m}$; (c) convergent $f=0.25\ \text{m}$; (d) divergent $f=0.25\ \text{m}$; (e) convergent $f=1.00\ \text{m}$.
+**Q39.** Between an object and a screen placed at $1.00\ \text{m}$ a lens is interposed so as to produce on the screen an image of the same size as the object. Which lens is needed? A) Converging $f=0.50\ \text{m}$; B) diverging $f=0.50\ \text{m}$; C) converging $f=0.25\ \text{m}$; D) diverging $f=0.25\ \text{m}$; E) converging $f=1.00\ \text{m}$.
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**
 
 
 
@@ -1409,11 +1239,6 @@ The Commission shall adopt delegated acts in accordance with Article 21 of Regul
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Q40.** A negatively charged rod is held close to an insulated metal sphere. In this situation, the sphere... (a) it is negatively charged; (b) it is positively charged; (c) it has opposite sign load distributions; (d) it does not feel any effect; (e) it cannot predict what will happen.
+**Q40.** A negatively charged rod is held near an insulated metal sphere. In this situation the sphere... A) becomes negatively charged; B) becomes positively charged; C) exhibits charge distributions of opposite sign; D) feels no effect; E) one cannot predict what happens.
 
-**Topic:** [[Electrostatics]]
-**Metodi:** —
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/15V7yPiVUYWduzbl-0_frkqaTwLE7flRy/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Answer:** **C**

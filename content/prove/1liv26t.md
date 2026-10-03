@@ -34,21 +34,16 @@ Assumere che la resistenza dell'aria sia trascurabile.
 
 <div class="qlang-split" data-lang="en"></div>
 
-In an experiment, a rock is thrown down at a speed of $v_0 = 20\,\text{m s}^{-1}$. If the rock comes to the ground after $1.1\,\text{s}$, from what height, approximately, was it launched?
+In an experiment, a stone is thrown downward with a speed of magnitude $v_0 = 20\,\text{m s}^{-1}$. If the stone reaches the ground after $1.1\,\text{s}$, from what height, approximately, was it thrown?
 
-Assume the air resistance is negligible.
+Assume that air resistance is negligible.
 
 - **A.** $6\,\text{m}$
 - **B.** $17\,\text{m}$
 - **C.** $22\,\text{m}$
 - **D.** $28\,\text{m}$
 - **E.** $34\,\text{m}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -85,9 +80,9 @@ Quale grafico velocità-tempo può essere adoperato per rappresentare l'intero m
 
 <div class="qlang-split" data-lang="en"></div>
 
-A trailer descends, starting from a standstill, along an inclined plane and continues its motion along a horizontal plane as shown in the figure. The air resistance is negligible.
+A cart starts from rest and goes down along an inclined plane, then continues its motion along a horizontal plane as shown in the figure. Air resistance is negligible.
 
-What speed-time graph can be used to represent the entire motion of the cart?
+Which velocity-time graph can be used to represent the entire motion of the cart?
 
 - **A.** A
 - **B.** B
@@ -96,18 +91,13 @@ What speed-time graph can be used to represent the entire motion of the cart?
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p3_f1.png]]
-*trailer on a flat slope then horizontal *
+*cart on an inclined plane then horizontal*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p3_f2.png]]
-*V-t options for the motorcycle *
+*v-t graph options for the motion*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -142,27 +132,22 @@ La forza risultante sul filo Q è orientata come il vettore
 
 <div class="qlang-split" data-lang="en"></div>
 
-In the diagram, the points P, Q, R and S represent the intersections between the plane of the figure and 4 very long, straight and perpendicular strings to the plane itself; these intersections are located at the vertices of a square.
+In the diagram, the points P, Q, R and S represent the intersections between the plane of the figure and 4 very long, straight wires perpendicular to the plane itself; these intersections are located at the vertices of a square.
 
-The wires are run by currents of equal intensity, coming from the figure plane at points P and R, entering at points Q and S.
+The wires carry currents of equal intensity, coming out of the plane of the figure at points P and R, entering at points Q and S.
 
-The resulting force on the Q-wire is oriented as the vector
+The resultant force on wire Q is oriented like vector
 
 - **A.** A
 - **B.** B
 - **C.** C
 - **D.** D
-- It's nothing.
+- **E.** It is zero.
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p3_f3.png]]
 *square of wires with force vectors*
 <!--fig:end-->
-**Topic:** [[Magnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -195,9 +180,9 @@ La velocità $v$ del blocco, nell'istante in cui perde il contatto con la molla,
 
 <div class="qlang-split" data-lang="en"></div>
 
-A spring of constant elasticity $k$, on which a mass block $M$ is supported, shall be compressed by a stroke $\Delta$, as shown in the left figure; the system shall be at rest. Afterward, the spring is released and rests. The block may run with negligible friction on the plane on which it is resting.
+A spring with spring constant $k$, against which a block of mass $M$ is resting, is compressed by a distance $\Delta$, as in the figure on the left; the system is at rest. Subsequently, the spring is released and extends. The block can slide with negligible friction on the surface on which it rests.
 
-The speed $v$ of the block, at the moment it loses contact with the spring, shall be:
+The velocity $v$ of the block, at the instant when it loses contact with the spring, is
 
 - **A.** $\Delta\sqrt{\dfrac{k}{M}}$
 - **B.** $\Delta\sqrt{\dfrac{M}{k}}$
@@ -206,14 +191,9 @@ The speed $v$ of the block, at the moment it loses contact with the spring, shal
 - **E.** $M\Delta\sqrt{\dfrac{k}{k}}$
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p3_f4.png]]
-The manufacturer shall provide the manufacturer with the following information:
+*block on compressed spring*
 <!--fig:end-->
-**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -242,21 +222,16 @@ L'intensità della corrente elettrica che fluisce nel filo è
 
 <div class="qlang-split" data-lang="en"></div>
 
-In an electrostatic machine, a belt of insulating material, of width $w$, flows at a speed $v$; the surface charge density on the belt is $\sigma$. As the belt passes through a certain point, its charge is continuously removed and made to flow along a conductive wire.
+In an electrostatic machine, a belt of insulating material, of width $w$, moves with speed $v$; the surface charge density on the belt is $\sigma$. As the belt passes a certain point, its charge is continuously removed and made to flow along a conducting wire.
 
-The intensity of the electric current flowing through the wire is
+The intensity of the electric current flowing in the wire is
 
 - **A.** $\sigma w v$
 - **B.** $\sigma w / v$
 - **C.** $\sigma v / w$
 - **D.** $\sigma w v^2$
 - **E.** $\dfrac{1}{2}\sigma w v^2$
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -289,9 +264,9 @@ Quanti giri compie approssimativamente una ruota di una carrozza passeggeri?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A train is travelling from Milan to Bologna.
+A train travels the route from Milan to Bologna.
 
-How many laps does a wheel of a passenger carriage make approximately?
+Approximately how many revolutions does a wheel of a passenger carriage make?
 
 - **A.** $10^4$
 - **B.** $10^5$
@@ -300,14 +275,9 @@ How many laps does a wheel of a passenger carriage make approximately?
 - **E.** $10^8$
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p4_f5.png]]
-The Commission has also adopted a number of proposals for the extension of the trans-European network.
+*map Milan-Bologna railway route*
 <!--fig:end-->
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -383,17 +353,17 @@ Mantenendo costante la pressione del gas, quale delle seguenti variazioni provoc
 
 <div class="qlang-split" data-lang="en"></div>
 
-The design depicts the U-tube of a pressure gauge, inside which a liquid is present, which can be used to measure the pressure of domestic gas.
+The drawing represents the U-tube of a manometer, inside which there is a liquid, which can be used to measure the pressure of household gas.
 
-If the gas pressure is maintained constantly, which of the following changes would cause a decrease in the $h$?
+Keeping the gas pressure constant, which of the following changes would cause a decrease in the height difference $h$?
 
 1. An increase in atmospheric pressure.
-2. Use a denser liquid.
-3. Use a tube with a slightly larger diameter.
+2. Using a denser liquid.
+3. Using a tube with a slightly larger diameter.
 
 - **A.** All three
-- **B.** Only the first and second
-- **C.** Only the second and third
+- **B.** Only the first and the second
+- **C.** Only the second and the third
 - **D.** Only the first
 - **E.** Only the third
 <!--fig:start-->
@@ -437,14 +407,9 @@ If the gas pressure is maintained constantly, which of the following changes wou
 </figure>
 
 
-*U tube with liquid manometer*
+*U-tube manometer with liquid*
 <!--fig:end-->
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -477,25 +442,20 @@ Mentre il filo viene avvicinato alla spira, la corrente in quest'ultima…
 
 <div class="qlang-split" data-lang="en"></div>
 
-A long straight wire, traversed by a constant current $I$ flowing in the direction shown in the figure, is located in the plane of a rectangular-shaped metallic spiral.
+A long straight wire, carrying a constant current $I$ flowing in the direction shown in the figure, lies in the plane of a rectangular metal loop.
 
-As the wire is brought closer to the spiral, the current in the spiral is
+While the wire is brought closer to the loop, the current in the latter…
 
-- **A ** … is nothing.
-- **B ** … is running clockwise.
-- **C.** … is flowing counterclockwise.
-- **D.** … is alternated.
-- **E.** … is proportional to the area of the spindle.
+- **A.** … is zero.
+- **B.** … flows clockwise.
+- **C.** … flows counterclockwise.
+- **D.** … is alternating.
+- **E.** … is proportional to the area of the loop.
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p4_f7.png]]
-*rectangular thread with a rectangular spiral *
+*straight wire with rectangular loop*
 <!--fig:end-->
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -595,15 +555,15 @@ In quale zona conviene che il giocatore punti il fucile?
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a trigger, a rifle fires at a moving target. The rifle fires itself, at random intervals. The player must only choose a direction in which to aim the rifle and let it fire, while the target moves from side to side in a simple harmonious motion. The object of the game is to hit the target as many times as possible, in a set time.
+In a shooting gallery, a rifle fires at a moving target. The rifle fires on its own, at random time intervals. The player only has to choose a direction in which to aim the rifle and let it fire, while the target moves from one side to the other in simple harmonic motion. The goal of the game is to hit the target as many times as possible, in a certain fixed time.
 
-Which area is appropriate for the player to aim the rifle at?
+In which zone should the player aim the rifle?
 
-- **A ** zone 3
+- **A.** zone 3
 - **B.** zone 1 or zone 5
 - **C.** zone 2 or zone 4
 - **D.** zone 1 or zone 3 or zone 5
-- **E.** any area: 1, 2, 3, 4 or 5
+- **E.** any zone: 1, 2, 3, 4 or 5
 <!--fig:start-->
 
 
@@ -673,14 +633,9 @@ Which area is appropriate for the player to aim the rifle at?
 </figure>
 
 
-*mobile gearbox harmonic motor areas*
+*moving target simple harmonic motion zones*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -717,9 +672,9 @@ Quale, tra questi, rappresenta meglio il flusso di calore $\phi(x)$ lungo la sba
 
 <div class="qlang-split" data-lang="en"></div>
 
-A conductor consists of two metal bars P and Q of equal size, joined together at one end. The two free ends are kept at $0\,°\text{C}$ and $100\,°\text{C}$, while the side surface of the conductor is heat-insulated. The following graphs show the heat flow in order according to the position $x$ along the bar, in a situation where the thermal conductivity of P is greater than that of Q.
+A conductor consists of two metal bars P and Q, of equal dimensions, joined to each other at one end. The two free ends are maintained at $0\,°\text{C}$ and at $100\,°\text{C}$, while the lateral surface of the conductor is thermally insulated. The following graphs show on the ordinate the heat flux as a function of position $x$ along the bar, in a situation in which the thermal conductivity of P is greater than that of Q.
 
-Which of these best represents the heat flow $\phi(x)$ along the bar under stationary conditions?
+Which of these best represents the heat flux $\phi(x)$ along the bar, under steady-state conditions?
 
 - **A.** A
 - **B.** B
@@ -728,18 +683,13 @@ Which of these best represents the heat flow $\phi(x)$ along the bar under stati
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p5_f9.png]]
-*two P and Q series conductors bars*
+*two bars P and Q conducting in series*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p5_f10.png]]
-The following table shows the results of the calculation of the heat flow rate:
+*heat flux graphs answer options*
 <!--fig:end-->
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -772,9 +722,9 @@ Tra le seguenti, la stima migliore per la sua accelerazione due secondi dopo la 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows speed in terms of time of the athlete Donovan Bailey, during his winning 100m race at the 1996 Olympics.
+The graph shows the speed as a function of time of the athlete Donovan Bailey, during his winning 100 meters race at the 1996 Olympics.
 
-The best estimate of its acceleration two seconds after start is
+Among the following, the best estimate for his acceleration two seconds after the start is
 
 - **A.** $0.5\,\text{m s}^{-2}$
 - **B.** $1.0\,\text{m s}^{-2}$
@@ -783,14 +733,9 @@ The best estimate of its acceleration two seconds after start is
 - **E.** $10.4\,\text{m s}^{-2}$
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p5_f11.png]]
-The following table shows the speed-time chart of Donovan Bailey 100 m
+*speed-time graph Donovan Bailey 100 m*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -819,21 +764,16 @@ Il rapporto tra la pressione in A e quella in B è
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two identical containers, A and B, contain two different perfect gases at the same temperature. The number of moles is also the same. The molar mass of the gas in container A is twice that of container B.
+Two identical containers, A and B, contain two different perfect gases at the same temperature. The number of moles is also the same. The molar mass of the gas in container A is twice that in B.
 
-The ratio of pressure in A to pressure in B is
+The ratio between the pressure in A and that in B is
 
 - **A.** $1/2$
 - **B.** $1/\sqrt{2}$
 - **C.** $1$
 - **D.** $\sqrt{2}$
 - **E.** $2$
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -868,27 +808,22 @@ Per aumentare la separazione fra un massimo e un minimo contiguo occorre…
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two loudspeakers, located at a distance $d$, are connected to the same signal generator. The sound waves emitted by the two speakers reach a microphone that moves in a straight line parallel to the two speakers at a distance much greater than $d$. (Note: the figure is not in scale).
+Two loudspeakers, placed at a distance $d$, are connected to the same signal generator. The sound waves emitted by the two loudspeakers reach a microphone that moves along a straight line parallel to the line joining the two loudspeakers, placed at a distance much greater than $d$. (Warning: the figure is not to scale).
 
-In the section between A and B, a succession of maximum and minimum levels is observed in the sound intensity level perceived by the microphone.
+In the stretch between A and B, a succession of maxima and minima in the level of sound intensity perceived by the microphone is observed.
 
-To increase the separation between a maximum and a minimum adjacent is required…
+To increase the separation between a maximum and an adjacent minimum, one must…
 
-- **A.** … move the speakers closer to the line passing through A and B.
-- **B.** … increase the separation between the two speakers.
+- **A.** … move the loudspeakers closer to the line passing through A and B.
+- **B.** … increase the separation between the two loudspeakers.
 - **C.** … increase the sound intensity.
-- **D.** … decrease the sound frequency.
-- **E.** … increase the frequency of sound.
+- **D.** … decrease the frequency of the sound.
+- **E.** … increase the frequency of the sound.
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p6_f12.png]]
-*two microphone interference speakers*
+*two loudspeakers interference microphone*
 <!--fig:end-->
-**Topic:** [[Wave Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -923,27 +858,22 @@ Quando S è chiuso, il punto luminoso…
 
 <div class="qlang-split" data-lang="en"></div>
 
-A coil is wrapped around a cathode-ray tube in which a beam of electrons is emitted along the direction indicated by the drawing in the figure, going to illuminate a point on the screen placed on the right.
+A coil is wound around a cathode ray tube in which a beam of electrons is emitted along the direction indicated by the dashed line in the figure, illuminating a point on the screen placed to the right.
 
-When the S switch is open, the bright spot is in P.
+When switch S is open, the bright spot is at P.
 
-When S is closed, the light point…
+When S is closed, the bright spot…
 
-- **A.** … is moved upwards from P.
-- **B.** … is moved downward from P.
+- **A.** … is shifted upward relative to P.
+- **B.** … is shifted downward relative to P.
 - **C.** … is below the plane of the figure.
 - **D.** … is above the plane of the figure.
-- **E.** … remains in P.
+- **E.** … remains at P.
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p6_f13.png]]
-*tube cathode ray switch coil*
+*cathode ray tube coil switch*
 <!--fig:end-->
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Biot-Savart Law (metodo)|Biot-Savart Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Coil (object)|Coil]], [[Particle Beam (object)|Particle Beam]], [[Screen (object)|Screen]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -972,21 +902,16 @@ Quanto varrebbe l'energia cinetica di una ruota costituita da un solido geometri
 
 <div class="qlang-split" data-lang="en"></div>
 
-The kinetic energy of a wheel rotating around its axle without moving is $K$.
+The kinetic energy of a wheel that rotates about its axis without translating is $K$.
 
-What would the kinetic energy of a wheel consisting of a solid geometrically similar to the previous one and of the same material, but of double linear dimensions, which wheels with the same angular velocity be worth?
+What would the kinetic energy be of a wheel made of a solid geometrically similar to the previous one and of the same material, but with twice the linear dimensions, rotating with the same angular velocity?
 
 - **A.** $2K$
 - **B.** $4K$
 - **C.** $8K$
 - **D.** $16K$
 - **E.** $32K$
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1019,9 +944,9 @@ Quanto vale approssimativamente la resistenza?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Un condensatore da $10\,\mu\text{F}$ si scarica attraverso una resistenza; il grafico mostra come varia nel tempo $t$ la differenza di potenziale $V$ ai suoi capi.
+A capacitor of $10\,\mu\text{F}$ discharges through a resistor; the graph shows how the potential difference $V$ across its terminals varies over time $t$.
 
-How much is the resistance worth?
+What is approximately the value of the resistance?
 
 - **A.** $2\,\Omega$
 - **B.** $2\,\text{k}\Omega$
@@ -1030,14 +955,9 @@ How much is the resistance worth?
 - **E.** $6\,\text{M}\Omega$
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p6_f14.png]]
-*grafico V(t) scarica condensatore*
+*graph V(t) capacitor discharge*
 <!--fig:end-->
-**Topic:** [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-**Risposta:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1071,12 +991,7 @@ An alternative unit to $\text{kg}\,\text{m}\,\text{s}^{-1}$ is
 - **C.** $\text{N}\,\text{m}$
 - **D.** $\text{N}\,\text{s}$
 - **E.** $\text{W}\,\text{m}^{-1}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1109,9 +1024,9 @@ Se invece la barca si muovesse in verso opposto a quello delle onde, con una vel
 
 <div class="qlang-split" data-lang="en"></div>
 
-A boat of $L$ length is anchored so as to face the waves coming in the direction indicated by the arrow directly. Whether $n$ the number of ridges per unit time that affect the bow of the boat when it is stationary. At a certain moment, as shown in Figure, there are $m$ ridges under the boat, one under the bow and one under the stern (in Figure $m = 5$).
+A boat of length $L$ is anchored so as to face directly the waves that arrive in the direction indicated by the arrow. Let $n$ be the number of crests per unit time that strike the bow of the boat when it is stationary. At a certain instant, represented in the figure, there are $m$ crests under the boat, one of which is under the bow and one under the stern (in the figure $m = 5$).
 
-If the boat were to move in the opposite direction to the wave, at a speed $v$ from the bottom, the number of ridges passing under its bow in the unit of time would be
+If instead the boat were moving in the direction opposite to that of the waves, with a speed $v$ relative to the seabed, the number of crests passing under its bow per unit time would be
 
 - **A.** $n$
 - **B.** $2n$
@@ -1120,14 +1035,9 @@ If the boat were to move in the opposite direction to the wave, at a speed $v$ f
 - **E.** $n + (m-1)\dfrac{v}{L}$
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p7_f15.png]]
-*boat with wave ridges below *
+*boat with wave crests beneath it*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1164,29 +1074,24 @@ In quali dei grafici in figura l'area ombreggiata rappresenta una quantità di e
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graphs are:
+The graphs represent:
 
-1. the difference in the $V$ potential according to the $q$ load of a capacitor.
-2. The $F$ form of the force exerted by a spring by extension $\ell$.
-3. the volume $V$ of a gas as a function of the pressure inverse $p$.
+1. the potential difference $V$ as a function of the charge $q$ of a capacitor.
+2. the magnitude $F$ of the force exerted by a spring as a function of the elongation $\ell$.
+3. the volume $V$ occupied by a gas as a function of the inverse of the pressure $p$.
 
-In which of the graphs is the shaded area an amount of energy?
+In which of the graphs in the figure does the shaded area represent a quantity of energy?
 
 - **A.** In graphs 1 and 2.
 - **B.** In graphs 2 and 3.
-- **C.** Only in Figure 1.
-- **D.** Only in Figure 3.
-- **E ** In all the charts.
+- **C.** Only in graph 1.
+- **D.** Only in graph 3.
+- **E.** In all the graphs.
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p7_f16.png]]
 *three graphs V-q, F-ell, V-1/p energy*
 <!--fig:end-->
-**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Spring (object)|Spring]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1219,9 +1124,9 @@ Qual è il percorso seguito dal raggio di luce attraverso il blocco?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The drawing in the figure represents a block of transparent material (perspex) from which a triangular section of a piece has been removed.
+The drawing in the figure represents a block of transparent material (perspex) from which a piece with a triangular cross-section has been removed.
 
-What is the path followed by the beam of light through the block?
+What is the path followed by the light ray through the block?
 
 - **A.** A
 - **B.** B
@@ -1230,14 +1135,9 @@ What is the path followed by the beam of light through the block?
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p7_f17.png]]
-*block perspex triangular section removed*
+*perspex block with triangular cross-section removed*
 <!--fig:end-->
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1266,21 +1166,16 @@ Se la velocità quadratica media iniziale delle particelle era $v$, quella final
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a closed rigid container containing only one perfect gas, the pressure is increased from $p$ to $3p$.
+In a rigid and closed container, containing only a perfect gas, the pressure is increased from $p$ to $3p$.
 
-If the initial average particle square velocity was $v$, the final velocity is
+If the initial root mean square speed of the particles was $v$, the final one is
 
 - **A.** $\dfrac{v}{3}$
 - **B.** $\dfrac{v}{\sqrt{3}}$
 - **C.** $v\sqrt{3}$
 - **D.** $v\cdot 3$
 - **E.** $3v$
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1313,25 +1208,20 @@ La massima energia potenziale elastica immagazzinata nella molla durante un cicl
 
 <div class="qlang-split" data-lang="en"></div>
 
-An ideal spring is subjected twice to a variable force without ever exceeding its elastic limit. The figures show how the force applied in both cases depends on time.
+An ideal spring is subjected twice to a variable force without ever exceeding its elastic limit. The figures show how the magnitude of the applied force depends on time in the two cases.
 
 The maximum elastic potential energy stored in the spring during a cycle is…
 
-- **A.** … greater in case 1 because the maximum force is reached faster
-- **B.** … greater in case 2 because the curve area is greater;
+- **A.** … greater in case 1 because the maximum force is reached more quickly
+- **B.** … greater in case 2 because the area under the curve is greater;
 - **C.** … greater in case 2 because the force is applied for a longer time;
-- **D.** … the same in both cases because the maximum force is the same;
-- **E.** … the same in both cases because the maximum force is applied at the same time
+- **D.** … the same in the two cases because the maximum force is the same;
+- **E.** … the same in the two cases because the maximum force is applied for the same time
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p8_f18.png]]
-*graphs F(t) two cases of force on spring*
+*F(t) graphs for two cases of force on a spring*
 <!--fig:end-->
-**Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1364,25 +1254,20 @@ Considerando il lavoro compiuto dalla forza elettrica agente sulla carica di pro
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure below shows equipotential lines in the vicinity of two different intensity loads. A small positive test load is moved from point P to point Q following three different paths: X, Y and Z.
+The figure alongside shows equipotential lines near two source charges of different magnitude. A small positive test charge is moved from point P to point Q following three different paths: X, Y and Z.
 
-Taking into account the work done by the electrical force agent on the test charge, it can be stated that …
+Considering the work done by the electric force acting on the test charge, one can state that…
 
-- **A.** … is minimum in path X.
-- **B.** … is maximum in path Z.
-- **C.** … is zero in the path Y.
-- **D.** … that in the path Y is intermediate between that in X and that in Z.
-- **E.** … is the same in all routes.
+- **A.** … it is minimum along path X.
+- **B.** … it is maximum along path Z.
+- **C.** … it is zero along path Y.
+- **D.** … the one along path Y is intermediate between the one along X and the one along Z.
+- **E.** … it is the same along all paths.
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p8_f19.png]]
-The following is the list of the following:
+*equipotential lines paths P→Q*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Conservation Laws (metodo)|Conservation Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1461,7 +1346,7 @@ Quanto lavoro compie la ragazza sull'oggetto tirandolo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A girl pulls an object for $3.0\,\text{m}$ along a horizontal plane at constant speed. The design depicts the components of the force exerted on the block by the girl.
+A girl pulls an object by $3.0\,\text{m}$ along a horizontal plane at constant speed. The drawing represents the components of the force exerted on the block by the girl.
 
 How much work does the girl do on the object by pulling it?
 
@@ -1518,14 +1403,9 @@ How much work does the girl do on the object by pulling it?
 </figure>
 
 
-*girl force components on object*
+*components of the girl's force on the object*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1554,7 +1434,7 @@ La frequenza dell'armonica successiva è
 
 <div class="qlang-split" data-lang="en"></div>
 
-The fundamental note frequency of a thin organ bar open at both ends is $300\,\text{Hz}$.
+The frequency of the fundamental note of a thin organ pipe, open at both ends, is $300\,\text{Hz}$.
 
 The frequency of the next harmonic is
 
@@ -1563,12 +1443,7 @@ The frequency of the next harmonic is
 - **C.** $750\,\text{Hz}$
 - **D.** $900\,\text{Hz}$
 - **E.** $1050\,\text{Hz}$
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1597,21 +1472,16 @@ La velocità media del corridore è approssimativamente
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a $4\,\text{km}$ run, a runner completes the first kilometre in $5.9\,\text{min}$, the second kilometre in $6.2\,\text{min}$, the third in $6.3\,\text{min}$ and the final kilometre in $6.0\,\text{min}$.
+In a $4\,\text{km}$ race a runner completes the first kilometer in $5.9\,\text{min}$, the second kilometer in $6.2\,\text{min}$, the third in $6.3\,\text{min}$ and the final kilometer in $6.0\,\text{min}$.
 
-The average runner speed is approximately
+The runner's average speed is approximately
 
 - **A.** $0.16\,\text{km/min}$
 - **B.** $0.33\,\text{km/min}$
 - **C.** $0.66\,\text{km/min}$
 - **D.** $11\,\text{km/min}$
 - **E.** $24\,\text{km/min}$
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1697,13 +1567,13 @@ Nell'intervallo di tempo fra Q e R, in cui la temperatura rimane costante, si ve
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows the ideal cooling curve of a block of preheated naphthalene to a temperature above the melting point.
+The graph shows the ideal cooling curve of a block of naphthalene previously heated to a temperature above the melting point.
 
-In the time interval between Q and R, when the temperature remains constant, it occurs that…
+In the time interval between Q and R, in which the temperature remains constant, it occurs that…
 
-- **A.** … does not release heat into the environment and the internal energy of the naphthalene does not change.
-- **B.** … heat is released into the environment but the internal energy of the naphthalene does not change.
-- **C.** … heat is released into the environment and the internal energy of the naphthalene decreases.
+- **A.** … no heat is released to the environment and the internal energy of the naphthalene does not change.
+- **B.** … heat is released to the environment but the internal energy of the naphthalene does not change.
+- **C.** … heat is released to the environment and the internal energy of the naphthalene decreases.
 - **D.** … heat is absorbed from the environment and the internal energy of the naphthalene increases.
 - **E.** … the specific heat of the naphthalene is zero.
 <!--fig:start-->
@@ -1761,14 +1631,9 @@ In the time interval between Q and R, when the temperature remains constant, it 
 </figure>
 
 
-The following table shows the results of the analysis of the results of the analysis:
+*naphthalene cooling curve*
 <!--fig:end-->
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1797,21 +1662,16 @@ La potenza elettrica assorbita in totale dalla stufa è
 
 <div class="qlang-split" data-lang="en"></div>
 
-An electric stove has two heating elements, connected in parallel and at the effective voltage $V_\text{eff} = 240\,\text{V}$. Each of these consists of a wrapping of uncovered metal wire, on a cylindrical support of insulating and refractory material. The resistance of each element is $R = 60\,\Omega$.
+An electric heater has two heating elements, connected in parallel and to the effective voltage $V_\text{eff} = 240\,\text{V}$. Each of these consists of a winding of bare metal wire, on a cylindrical support made of insulating and refractory material. The resistance of each element is $R = 60\,\Omega$.
 
-The total electrical power absorbed by the stove is
+The total electrical power absorbed by the heater is
 
 - **A.** $480\,\text{W}$
 - **B.** $720\,\text{W}$
 - **C.** $960\,\text{W}$
 - **D.** $1\,920\,\text{W}$
 - **E.** $2\,880\,\text{W}$
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Coil (object)|Coil]], [[Wire (object)|Wire]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1842,19 +1702,14 @@ Il rapporto tra i campi gravitazionali sulla superficie dei due pianeti, $g_X/g_
 
 Two planets X and Y have the same average density; the radius of planet X is half that of planet Y.
 
-The ratio of gravitational fields on the surface of the two planets, $g_X/g_Y$, is
+The ratio between the gravitational fields on the surface of the two planets, $g_X/g_Y$, is
 
 - **A.** $\dfrac{\sqrt{2}}{2}$
 - **B.** $2$
 - **C.** $\sqrt{2}$
 - **D.** $\dfrac{2}{\sqrt{2}}$
 - **E.** $1/2$
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1883,21 +1738,16 @@ Questa macchina termica…
 
 <div class="qlang-split" data-lang="en"></div>
 
-One inventor proposes to build a heat engine that operates between two sources, one hot at $400\,\text{K}$ and one cold at $300\,\text{K}$. The machine would absorb $100\,\text{J}$ of energy from the hot source and release $25\,\text{J}$ of energy to the cold source, completing a $75\,\text{J}$ cycle of work.
+An inventor proposes to build a heat engine that operates between two reservoirs, a hot one at $400\,\text{K}$ and a cold one at $300\,\text{K}$. The engine would absorb $100\,\text{J}$ of energy from the hot reservoir and release $25\,\text{J}$ of energy to the cold reservoir, performing $75\,\text{J}$ of work in one cycle.
 
-This heat machine
+This heat engine…
 
-- **A.** … would violate the first principle of thermodynamics.
-- **B.** … would violate the second principle of thermodynamics.
-- **C.** … would violate both principles of thermodynamics.
-- **D ** … would not violate any principle of thermodynamics.
-- MSK0/ would not violate any principle, but only if it was a Carnot machine.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+- **A.** … would violate the first law of thermodynamics.
+- **B.** … would violate the second law of thermodynamics.
+- **C.** … would violate both laws of thermodynamics.
+- **D.** … would not violate any law of thermodynamics.
+- **E.** … would not violate any law, but only if it were a Carnot engine.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1930,25 +1780,20 @@ Quale delle seguenti affermazioni relative al tempo di volo $T$ è corretta?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A machine throws a tennis ball at an angle $\theta = 25°$ above the horizontal, from the ground level, at a speed $v_0 = 4.1\,\text{m/s}$. The ball returns to the ground level.
+A machine launches a tennis ball at an angle $\theta = 25°$ above the horizontal, from ground level, at a speed $v_0 = 4.1\,\text{m/s}$. The ball returns to ground level.
 
-Which of the following statements regarding flight time $T$ is correct?
+Which of the following statements regarding the flight time $T$ is correct?
 
-1. $T$ increases if they increase $v_0$ and $\theta$.
+1. $T$ increases if $v_0$ and $\theta$ increase.
 2. $T$ decreases if and only if $v_0$ decreases.
-3. $T$ remains the same whether it increases $v_0$ or decreases $\theta$.
+3. $T$ remains the same however much $v_0$ is increased or $\theta$ is decreased.
 
-- **A.** Only the 1
-- ** B ** Only the 2nd
-- **C ** Only the 3
-- **D.** La 1 e la 2
-- **E.** La 2 e la 3
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+- **A.** Only 1
+- **B.** Only 2
+- **C.** Only 3
+- **D.** 1 and 2
+- **E.** 2 and 3
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -1985,7 +1830,7 @@ Quale diagramma rappresenta meglio le forze che agiscono sul blocco?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure represents a stationary block on a sloping plane. P is the force of gravity, N is the normal force and A is the frictional force between the block and the slope.
+The figure represents a block at rest on an inclined plane. P is the weight force, N is the normal force, and A is the friction force between the block and the inclined plane.
 
 Which diagram best represents the forces acting on the block?
 
@@ -1996,18 +1841,13 @@ Which diagram best represents the forces acting on the block?
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p10_f22.png]]
-*lock on a plane tilted in balance*
+*block on inclined plane in equilibrium*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p10_f23.png]]
-The following table shows the results of the analysis of the results of the analysis.
+*force diagrams answer options*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2083,12 +1923,12 @@ Quale delle seguenti affermazioni è falsa?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The three resistors X, Y and Z shown in the figure are crossed by currents of equal intensity $I$.
+The three resistors X, Y and Z in the figure are traversed by currents of equal intensity $I$.
 
-Which of the following is false?
+Which of the following statements is false?
 
-- **A.** The difference in potential between each resistor's heads is the same.
-- **B.** The resistors have the same strength.
+- **A.** The potential difference across each resistor is the same.
+- **B.** The resistors have the same resistance.
 - **C.** The power dissipated by each resistor is the same.
 - **D.** The current output from the generator is $3I$.
 - **E.** Removing X reduces the resistance of the circuit.
@@ -2137,14 +1977,9 @@ Which of the following is false?
 </figure>
 
 
-*circuit with three parallel resistors*
+*circuit with three resistors in parallel*
 <!--fig:end-->
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2208,9 +2043,9 @@ Quando passa per il punto più basso P, la tensione della fune è pari a
 
 <div class="qlang-split" data-lang="en"></div>
 
-A pointed body of $m$ mass is suspended at a fixed point O with an unextended wire of negligible mass. The body is raised so that the wire is horizontal and stretched; then it is dropped so that it moves along a circle arc as shown in the figure. All the friction in the system is negligible.
+A point mass of mass $m$ is suspended from a fixed point O by an inextensible thread of negligible mass. The body is raised so that the thread is horizontal and taut; then it is let fall so that it moves along a circular arc as shown in the figure. All friction in the system is negligible.
 
-When it passes through the lowest point P, the voltage of the rope is equal to
+When it passes through the lowest point P, the tension of the string is equal to
 
 - **A.** $0$
 - **B.** $mg$
@@ -2250,14 +2085,9 @@ When it passes through the lowest point P, the voltage of the rope is equal to
 </figure>
 
 
-* pendulum released from a horizontal position*
+*pendulum released from horizontal position*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2327,15 +2157,15 @@ Alla distanza $R$ l'energia potenziale è certamente …
 
 In a molecular solid the force $F$ between two molecules varies with their separation $r$ as shown in the graph. Positive values of $F$ represent a repulsive force, while negative values represent an attractive force.
 
-At a distance $R$ the potential energy is certainly …
+At distance $R$ the potential energy is certainly …
 
-- decreasing **A** …
-- **B ** … minimum.
-- **C ** … nothing.
-- Maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum of the maximum.
-- The amount of the increase in the MF/E.
+- **A.** … decreasing.
+- **B.** … minimal.
+- **C.** … zero.
+- **D.** … maximal.
+- **E.** … increasing.
 
-*Note: A function can be said to be increasing (respectively, decreasing) at a point if the tangent line to its graph at that point has a positive (respectively, negative) angular coefficient.*
+*Note: A function can be said to be increasing (respectively, decreasing) at a point if the tangent line to its graph at that point has a positive (respectively, negative) slope.*
 <!--fig:start-->
 
 
@@ -2371,14 +2201,9 @@ At a distance $R$ the potential energy is certainly …
 </figure>
 
 
-The test chemical is then applied to the test chemical.
+*intermolecular force vs distance R*
 <!--fig:end-->
-**Topic:** [[Elasticity & Materials]], [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2415,9 +2240,9 @@ Quale delle figure sottostanti mostra correttamente i fronti d'onda dell'onda ri
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a flat seismic wave that strikes the separation surface between two different rock types. The wave propagation rate in type 2 rock is greater than that in type 1 rock.
+The figure shows a plane seismic wave that strikes the interface between two different types of rock. The propagation speed of the wave in type 2 rock is greater than in type 1 rock.
 
-Which of the figures below correctly shows the wavefronts of the refractory wave?
+Which of the figures below correctly shows the wavefronts of the refracted wave?
 
 - **A.** A
 - **B.** B
@@ -2426,18 +2251,13 @@ Which of the figures below correctly shows the wavefronts of the refractory wave
 - **E.** E
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p11_f27.png]]
-The following is a list of the main rocks in the area of the earthquake:
+*seismic wave incident on rock interface*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p11_f28.png]]
-The following information is provided by the Commission to the Member States:
+*refracted wavefronts answer options*
 <!--fig:end-->
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2466,21 +2286,16 @@ A quale distanza dallo specchio si trova l'immagine della candela?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A candle shall be placed at $0.24\,\text{m}$ distance from a convergent spherical mirror of focal length $0.12\,\text{m}$.
+A candle is placed at a distance of $0.24\,\text{m}$ from a converging spherical mirror with focal length $0.12\,\text{m}$.
 
-How far from the mirror is the image of the candle?
+At what distance from the mirror is the image of the candle located?
 
 - **A.** $0.08\,\text{m}$
 - **B.** $0.12\,\text{m}$
 - **C.** $0.24\,\text{m}$
 - **D.** $0.36\,\text{m}$
 - **E.** $0.48\,\text{m}$
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2513,9 +2328,9 @@ Quale delle seguenti relazioni è corretta?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A sphere A is moving on a horizontal plane with speed $V$, as shown in the figure seen from above, when it hits a sphere B of identical mass and initially stationary. After impact, the balls move at modular speeds $V_A$ and $V_B$, along the directions shown in Figure 1.
+A sphere A is moving on a horizontal plane with velocity $V$, as shown in the top view in the figure, when it collides with a sphere B of identical mass and initially at rest. After the collision, the spheres move with velocity magnitudes $V_A$ and $V_B$, along the directions indicated in the figure.
 
-Which of the following reports is correct?
+Which of the following relations is correct?
 
 - **A.** $V_A \cos\alpha = V_B \cos\beta$
 - **B.** $V = V_A \cos\alpha + V_B \cos\beta$
@@ -2524,14 +2339,9 @@ Which of the following reports is correct?
 - **E.** $V = V_A - V_B$
 <!--fig:start-->
 ![[_attachments/1liv26T/1liv26T_p11_f29.png]]
-*collision of two spheres in the direction of the impact
+*collision of two spheres, post-collision directions*
 <!--fig:end-->
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2560,21 +2370,16 @@ L'attività dello stesso campione, un'ora più tardi, è circa
 
 <div class="qlang-split" data-lang="en"></div>
 
-The isotope of Francium-224 has a half-life (or half-life) of about $20\,\text{min}$. A sample of this isotope, at a given moment, shows an activity of $800\,\text{Bq}$ (i.e. 800 disintegrations per second).
+The isotope Francium-224 has a half-life (or decay time) of about $20\,\text{min}$. A sample of this isotope, at a certain instant, shows an activity of $800\,\text{Bq}$ (that is, 800 disintegrations per second).
 
-The activity of the same sample, an hour later, is about
+The activity of the same sample, one hour later, is approximately
 
 - **A.** $400\,\text{Bq}$
 - **B.** $267\,\text{Bq}$
 - **C.** $200\,\text{Bq}$
 - **D.** $100\,\text{Bq}$
-- **E ** zero.
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+- **E.** zero.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)
 
 
 
@@ -2605,16 +2410,11 @@ Quale, tra le relazioni proposte, lega correttamente $\lambda_1$, $\lambda_2$ e 
 
 In an atom, transitions between three energy levels give rise to three spectral lines; $\lambda_1$, $\lambda_2$ and $\lambda_3$ are, in increasing value, the wavelengths of the three lines.
 
-Which of the proposed reports correctly combines $\lambda_1$, $\lambda_2$ and $\lambda_3$?
+Which, among the proposed relations, correctly relates $\lambda_1$, $\lambda_2$ and $\lambda_3$?
 
 - **A.** $1/\lambda_1 = 1/\lambda_2 + 1/\lambda_3$
 - **B.** $1/\lambda_1 = 1/\lambda_3 - 1/\lambda_2$
 - **C.** $1/\lambda_1 = 1/\lambda_2 - 1/\lambda_3$
 - **D.** $\lambda_1 = \lambda_3 - \lambda_2$
 - **E.** $\lambda_1 = \lambda_2 + \lambda_3$
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1QvsH7752zsBmuW0BUEAAHZnBWlvi3TOO/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/1BjZP-hKnLqRfncec-52UlJ8cNpybMcu5/view)

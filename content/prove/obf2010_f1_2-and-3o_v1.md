@@ -146,19 +146,13 @@ The internal pressure of the ball is higher.
 
 <div class="qlang-split" data-lang="it"></div>
 
-03) Você gostaria de medir a profundidade $h$ de um poço deixando cair uma moeda e medindo o tempo entre o início da queda e o retorno do som devido à colisão com o fundo. Per un tempo misurato di $2\,\text{s}$, quale è la profondità $h$? (non si considera l'effetto della velocità finita del suono)
+03) Vorresti misurare la profondità $h$ di un pozzo lasciando cadere una moneta e misurando il tempo tra l'inizio della caduta e il ritorno del suono dovuto all'urto con il fondo. Per un tempo misurato di $2\,\text{s}$, qual è la profondità $h$? (trascura l'effetto della velocità finita del suono)
 
 - **A.** 10 m
 - **B.** 20 m
 - **C.** 30 m
 - **D.** 40 m
 - **E.** 50 m
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Zq71Qwgp1CoRYdbRs80FaA9zFork_jE1/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

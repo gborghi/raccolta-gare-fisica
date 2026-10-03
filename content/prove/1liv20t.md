@@ -31,18 +31,13 @@ Supponendo di poter trascurare la resistenza dell'aria, il tempo di volo è circ
 
 <div class="qlang-split" data-lang="en"></div>
 
-A ball is dropped from a standstill and touches the ground at $20\,\mathrm{m\,s^{-1}}$ speed.
+A ball is dropped from rest and touches the ground with speed $20\,\mathrm{m\,s^{-1}}$.
 
-Assuming you can ignore the air resistance, the flight time is approximately
+Assuming air resistance can be neglected, the flight time is approximately
 
 (A) $0{,}25\,\mathrm{s}$ (B) $0{,}5\,\mathrm{s}$ (C) $1\,\mathrm{s}$ (D) $2\,\mathrm{s}$ (E) $10\,\mathrm{s}$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -79,9 +74,9 @@ In condizioni di equilibrio, le intensità del campo elettrico nei punti $P_1$ e
 
 <div class="qlang-split" data-lang="en"></div>
 
-A pointed charge $Q$ is placed in the centre of a spherical shell of conductive material, as shown in the figure on the dark side. A charge $-q$ is deposited on the shell.
+A point charge $Q$ is placed at the center of a spherical shell of conducting material, represented in the figure by the dark part. A charge $-q$ is deposited on the shell.
 
-Under equilibrium conditions, the electric field intensities in $P_1$ and $P_2$, at a distance of $r_1$ and $r_2$ from the centre, respectively, are:
+Under equilibrium conditions, the magnitudes of the electric field at points $P_1$ and $P_2$, at distances equal to $r_1$ and $r_2$ from the center respectively, are
 
 | | $E(P_1)$ | $E(P_2)$ |
 |---|---|---|
@@ -96,12 +91,7 @@ Under equilibrium conditions, the electric field intensities in $P_1$ and $P_2$,
 *Spherical shell with charge Q and points P1 P2*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Conducting Sphere (object)|Conducting Sphere]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -130,21 +120,16 @@ Rispetto alle onde che interferiscono, l'onda risultante avrà:
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two sinusoidal waves of the same wavelength, frequency and amplitude propagate in the same direction, in the same direction and in the same medium. They are $\pi/2\,\mathrm{rad}$ stagnant.
+Two sinusoidal waves with the same wavelength, frequency and amplitude propagate in the same direction, the same sense and the same medium. They are out of phase by $\pi/2\,\mathrm{rad}$.
 
-Compared to the interfering waves, the resulting wave shall have:
+Compared to the interfering waves, the resulting wave will have:
 
-- **A ** same width and speed but different wavelength.
-- **B.** same width and wavelength but different speed.
-- **C ** same wavelength and speed but different width.
-- ** D ** same width and frequency but different speed.
-- **E.** same frequency and speed but different wavelength.
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+- **A.** the same amplitude and speed but a different wavelength.
+- **B.** the same amplitude and wavelength but a different speed.
+- **C.** the same wavelength and speed but a different amplitude.
+- **D.** the same amplitude and frequency but a different speed.
+- **E.** the same frequency and speed but a different wavelength.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -175,9 +160,9 @@ Qual è la nuova velocità angolare del sistema?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A negligible mass axis is bound to rotate horizontally around a vertical axis passing through its center. Two identical spheres are fixed on the axis at $r$ as shown in the figure above. Initially the system shall rotate at angular speed $\omega$. One of the two spheres is then moved $r/2$ from the axis of rotation by a direct force along the axis (v. (see figure below).
+A rod of negligible mass is constrained to rotate on a horizontal plane about a vertical axis passing through its center. Two identical small balls are fixed on the rod at a distance $r$ from the axis, as shown in the figure, at the top. Initially the system rotates at angular velocity $\omega$. One of the two balls is then moved to a distance $r/2$ from the rotation axis by a force directed along the rod (see figure at the bottom).
 
-What's the new angular velocity of the system?
+What is the new angular velocity of the system?
 
 (A) $\omega/4$ (B) $\omega/2$ (C) $8\omega/5$ (D) $2\omega$ (E) $4\omega$
 
@@ -186,12 +171,7 @@ What's the new angular velocity of the system?
 *Rod with two balls, before and after shift*
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -217,18 +197,13 @@ Qual è l'intensità del campo magnetico?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A positive charge particle $q$ and mass $m$ describes a circular trajectory of radius $R$ perpendicular to a uniform magnetic field. The rotation frequency is $f$.
+A particle with positive charge $q$ and mass $m$ follows a circular trajectory of radius $R$, perpendicular to a uniform magnetic field. The rotation frequency is $f$.
 
-What's the intensity of the magnetic field?
+What is the magnitude of the magnetic field?
 
 (A) $\dfrac{fm}{q}$ (B) $\dfrac{2\pi fm}{q}$ (C) $\dfrac{m}{2\pi fq}$ (D) $\dfrac{m}{qR}$ (E) $\dfrac{fm}{2\pi q}$
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -313,17 +288,17 @@ Quale riga della seguente tabella descrive correttamente il moto del corpo?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The graph shows how the movement of a body varies over time.
+The graph shows how the displacement of a body changes over time.
 
-Which line in the following table correctly describes the motion of the body?
+Which row of the following table correctly describes the motion of the body?
 
-♪ ♪ The motorcycle from O to P ♪ ♪ The motorcycle from P to Q ♪
+| | motion from O to P | motion from P to Q |
 |---|---|---|
-♪ A] I'm going to be constantly accelerating ♪ ♪ nothing ♪
-♪ B ♪ I'm not getting any constant acceleration ♪
-♪ C] I'm running at a constant speed ♪ ♪ nothing ♪
-♪ D) I'm not moving at speed ♪
-♪ And I'm going at a constant speed, nothing ♪
+|(A)| constant non-zero acceleration | zero velocity |
+|(B)| constant non-zero acceleration | constant non-zero velocity |
+|(C)| constant non-zero velocity | zero velocity |
+|(D)| zero velocity | constant non-zero velocity |
+|(E)| constant non-zero velocity | constant negative acceleration |
 
 <!--fig:start-->
 
@@ -375,15 +350,10 @@ Which line in the following table correctly describes the motion of the body?
 </figure>
 
 
-Displacement vs time graph with O, P, Q
+*Displacement vs time graph with O, P, Q*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -414,7 +384,7 @@ Qual è la lunghezza focale della lente?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The figure shows a high $30\,\mathrm{mm}$ object positioned in the X point at $600\,\mathrm{mm}$ from the centre of a thin lens. (Note: the drawing is not in scale.) The image is formed at the Y point and is $15\,\mathrm{mm}$ high.
+The figure shows an object of height $30\,\mathrm{mm}$ positioned at point X at $600\,\mathrm{mm}$ from the center of a thin lens. (Note: the drawing is not to scale.) The image forms at point Y and has a height of $15\,\mathrm{mm}$.
 
 What is the focal length of the lens?
 
@@ -425,12 +395,7 @@ What is the focal length of the lens?
 *Thin lens with object X and image Y*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -456,18 +421,13 @@ Tale consumo corrisponde a
 
 <div class="qlang-split" data-lang="en"></div>
 
-The light bill for the months of June and July 2019 by Mr Luigi reports $92\,\mathrm{kWh}$.
+Mr. Luigi's electricity bill for the months of June and July 2019 shows $92\,\mathrm{kWh}$.
 
 This consumption corresponds to
 
 (A) $26\,\mathrm{J\,s^{-2}}$ (B) $9{,}2\times10^4\,\mathrm{W}$ (C) $3{,}8\times10^5\,\mathrm{J}$ (D) $3{,}3\times10^8\,\mathrm{J}$ (E) $3{,}3\times10^8\,\mathrm{J\,s^{-1}}$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in electricity and gas.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -540,13 +500,13 @@ Supponendo trascurabili sia la massa del filo che l'attrito con le carrucole, qu
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two objects of the same mass $m$ are connected by a wire passing through two cartridges, as shown in Figure 1.
+Two objects of identical mass $m$ are connected by a thread that passes through two pulleys, as shown in the figure.
 
-Assuming both the mass of the wire and the friction with the cartridges are negligible, how much is the tension of the wire in equilibrium?
+Assuming both the mass of the thread and the friction with the pulleys are negligible, what is the tension of the thread in the equilibrium situation?
 
 - **A.** Less than $mg$
 - **B.** $mg$
-- **C.** More than $mg$ but less than $2mg$
+- **C.** More than $mg$, but less than $2mg$
 - **D.** $2mg$
 - **E.** More than $2mg$
 <!--fig:start-->
@@ -593,12 +553,7 @@ Assuming both the mass of the wire and the friction with the cartridges are negl
 
 *Two equal masses connected via two pulleys*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -625,19 +580,14 @@ Quale grafico rappresenta meglio la relazione tra la potenza elettrica $P$ e la 
 
 <div class="qlang-split" data-lang="en"></div>
 
-Which graph best represents the relationship between the electric power $P$ and the current $I$ in an ohmic conductor or resistor?
+Which graph best represents the relationship between electrical power $P$ and current $I$ in an ohmic conductor or resistor?
 
 <!--fig:start-->
 ![[_attachments/1liv20T/1liv20T_p4_f6.png]]
-The following table shows the results of the study:
+*Five candidate P vs I graphs*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in electricity and gas.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -672,11 +622,11 @@ Qual è l'intensità della forza di attrito sulle ruote nel tratto ghiacciato?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A vehicle of mass $m = 1{,}6\times10^3\,\mathrm{kg}$ shall run a circular curve of radius $48\,\mathrm{m}$ at $28\,\mathrm{km/h}$ speed; the coefficient of static friction between the tyres and the asphalt shall be $\mu_a = 0{,}65$.
+A vehicle of mass $m = 1{,}6\times10^3\,\mathrm{kg}$ travels at a speed of $28\,\mathrm{km/h}$ along a circular curve of radius $48\,\mathrm{m}$; the coefficient of static friction between the tires and the asphalt is $\mu_a = 0{,}65$.
 
-Along the route there is an icy stretch where the friction coefficient drops to $\mu_g = 0{,}15$:
+Along the route there is an icy stretch, where the coefficient of friction drops to $\mu_g = 0{,}15$:
 
-What is the intensity of the friction force on the wheels in the icy stretch?
+What is the magnitude of the friction force on the wheels on the icy stretch?
 
 - **A.** $2{,}35\times10^2\,\mathrm{N}$
 - **B.** $1{,}02\times10^3\,\mathrm{N}$
@@ -687,12 +637,7 @@ What is the intensity of the friction force on the wheels in the icy stretch?
 ![[_attachments/1liv20T/1liv20T_p5_f7.png]]
 *Vehicle on circular curved road*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -724,24 +669,19 @@ Quale delle alternative in tabella può essere corretta per la velocità e l'acc
 
 <div class="qlang-split" data-lang="en"></div>
 
-A man is standing on an electronic weigh-in scale inside an elevator in relative calmness to the ground. The balance sheet shall be $90\,\mathrm{kg}$. At a later moment, $t$, the balance sheet is $100\,\mathrm{kg}$.
+A man is standing on an electronic bathroom scale inside an elevator at rest relative to the ground. The scale reads $90\,\mathrm{kg}$. At a later instant, $t$, the scale reads $100\,\mathrm{kg}$.
 
-Which of the alternatives in the table can be corrected for the speed and acceleration of the elevator at the instant $t$?
+Which of the alternatives in the table can be correct for the velocity and acceleration of the elevator at the instant $t$?
 
-♪ The speed ♪ The acceleration ♪
+| | velocity | acceleration |
 |---|---|---|
-♪ A] I'm going down ♪
-♪ B ♪ Go down ♪ Go down ♪
-♪ I'm going up and down ♪
-♪ I'm going down ♪ ♪ Nothing ♪
-♪ And I'm going up ♪ ♪ Nothing ♪
+|(A)| downward | upward |
+|(B)| downward | downward |
+|(C)| upward | downward |
+|(D)| downward | zero |
+|(E)| upward | zero |
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -768,19 +708,14 @@ In un blog si legge che un inventore ha realizzato un innovativo motore termico 
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a blog post, it is reported that an inventor has created an innovative heat engine that, operating between $90\,°\mathrm{C}$ and $500\,°\mathrm{C}$ temperatures, has a yield of $62\%$.
+A blog states that an inventor has built an innovative heat engine that, operating between the temperatures $90\,°\mathrm{C}$ and $500\,°\mathrm{C}$, has an efficiency of $62\%$.
 
-- MSK0/>A. It is an excellent engine.
-- It's definitely too polluting an engine.
-- **C.** It is an engine with similar performance to common heat engines operating at the same temperatures.
-- It's a very poor engine.
-- It's a fake news.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+- **A.** It is an excellent engine.
+- **B.** It is certainly an overly polluting engine.
+- **C.** It is an engine with an efficiency similar to common heat engines operating between the same temperatures.
+- **D.** It is a very poor engine.
+- **E.** It is fake news.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -812,11 +747,11 @@ Quale riga della tabella seguente è corretta?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A mosquito, flying on the highway, hits the windshield of a truck and stays there. The model of the change in the amount of engine power of the truck and the mean force applied by the truck to the mosquito shall be indicated by $\Delta p_c$ and $F_c$ and, likewise, the model of the change in the amount of engine power of the mosquito and the mean force applied by the mosquito to the truck shall be indicated by $\Delta p_z$ and $F_z$.
+A mosquito, flying on the highway, crashes into the windshield of a truck and remains squashed there. Let $\Delta p_c$ and $F_c$ denote the magnitude of the change in momentum of the truck and of the average force applied by the truck to the mosquito and, similarly, let $\Delta p_z$ and $F_z$ denote the magnitude of the change in momentum of the mosquito and of the average force applied by the mosquito to the truck.
 
-Which line in the following table is correct?
+Which row of the following table is correct?
 
-♪ The intensity of the force ♪ ♪ The variation in the amount of motion ♪
+| | Intensity of the forces | Change in momentum |
 |---|---|---|
 |(A)| $F_c > F_z$ | $\Delta p_c < \Delta p_z$ |
 |(B)| $F_c > F_z$ | $\Delta p_c > \Delta p_z$ |
@@ -824,12 +759,7 @@ Which line in the following table is correct?
 |(D)| $F_c = F_z$ | $\Delta p_c > \Delta p_z$ |
 |(E)| $F_c = F_z$ | $\Delta p_c = \Delta p_z$ |
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]], [[Conservation of Momentum (metodo)|Conservation of Momentum]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -855,18 +785,13 @@ Alla temperatura di $355\,°\mathrm{C}$ quanto vale, approssimativamente, l'ener
 
 <div class="qlang-split" data-lang="en"></div>
 
-The molecules of a gas at $40\,°\mathrm{C}$ have an average kinetic energy of $E_c$.
+The molecules of a gas at the temperature of $40\,°\mathrm{C}$ have an average kinetic energy $E_c$.
 
-At $355\,°\mathrm{C}$, what is the average kinetic energy of the molecules approximately?
+At the temperature of $355\,°\mathrm{C}$, what is, approximately, the average kinetic energy of the molecules?
 
 (A) $2E_c$ (B) $4E_c$ (C) $9E_c$ (D) $30E_c$ (E) $80E_c$
 
-**Topic:** [[Kinetic Theory]]
-**Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -897,9 +822,9 @@ Quando il trattore si muove su una strada, qual è, approssimativamente, il rapp
 
 <div class="qlang-split" data-lang="en"></div>
 
-Consider the tractor shown in the figure (the drawing is in scale).
+Consider the tractor shown in the figure (the drawing is to scale).
 
-When the tractor moves on a road, what is the approximate ratio of the angular velocity of the front wheels to that of the rear wheels?
+When the tractor moves on a road, what is, approximately, the ratio between the angular velocity of the front wheels and that of the rear wheels?
 
 (A) $3/8$ (B) $3/4$ (C) $1$ (D) $4/3$ (E) $8/3$
 
@@ -908,12 +833,7 @@ When the tractor moves on a road, what is the approximate ratio of the angular v
 *Tractor with front and rear wheels*
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in electricity and gas.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -939,18 +859,13 @@ Quale frazione di un certo campione di quei nuclidi decade in un giorno?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The half-life of a particular radioactive nucleid is $6$ hours.
+The half-life of a particular radioactive nuclide is $6$ hours.
 
-How much of a sample of those nuclei decays in a day?
+What fraction of a certain sample of those nuclides decays in one day?
 
 (A) $\dfrac{1}{16}$ (B) $\dfrac{1}{4}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{3}{4}$ (E) $\dfrac{15}{16}$
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -985,27 +900,22 @@ Quali delle seguenti azioni produce una forza elettromotrice indotta nella bobin
 
 <div class="qlang-split" data-lang="en"></div>
 
-They were given a magnetic bar arranged horizontally and a coil.
+A magnetic bar placed horizontally and a coil are given.
 
-Which of the following actions produces an electromotive force induced in the coil?
+Which of the following actions produces an induced electromotive force in the coil?
 
-1  Approach the magnet to the coil.
-2  Remove the coil from the magnet.
-3  Rotate the coil around its vertical axis.
+1 – Bringing the magnet closer to the coil.
+2 – Moving the coil away from the magnet.
+3 – Rotating the coil around its vertical axis.
 
-(A) Only the 1. (B) Only the second. (C) La 1 e la 2. (D) Only the third. (E) All three.
+(A) Only 1. (B) Only 2. (C) 1 and 2. (D) Only 3. (E) All three.
 
 <!--fig:start-->
 ![[_attachments/1liv20T/1liv20T_p6_f9.png]]
-The following table shows the methodology used for calculating the value of the input coil.
+*Bar magnet approaching a coil*
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1034,21 +944,16 @@ Quale delle seguenti immagini rappresenta la posizione della corda al tempo $t =
 
 <div class="qlang-split" data-lang="en"></div>
 
-A string attached to its ends vibrates according to its fundamental frequency harmonic $f$. At the moment $t = 0$ the position of the rope is that shown in Figure 1 and all its points are as far as possible from the equilibrium position.
+A taut string fixed at its ends vibrates according to its fundamental harmonic of frequency $f$. At the instant $t = 0$ the position of the string is the one shown in the figure and all its points are at maximum displacement from the equilibrium position.
 
-Which of the following images represents the position of the rope at $t = \dfrac{1}{4f}$ time?
+Which of the following images represents the position of the string at time $t = \dfrac{1}{4f}$?
 
 <!--fig:start-->
 ![[_attachments/1liv20T/1liv20T_p6_f10.png]]
-The following table shows the number of candidate positions in the list of candidate positions.
+*Five candidate string positions at t=1/4f*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1074,18 +979,13 @@ Supponendo trascurabile l'attrito, il convoglio passerà nel punto B del binario
 
 <div class="qlang-split" data-lang="en"></div>
 
-A convoy passes through point A of a roller coaster at $v_A$ speed.
+A train passes through point A of a roller coaster track with speed $v_A$.
 
-Assuming friction is negligible, the conveyor will pass through the track point B at a height $h$ above the A point at speed
+Assuming friction is negligible, the train will pass through point B of the track at a height $h$ above point A with speed
 
 (A) $\sqrt{v_A^2 - 2gh}$ (B) $v_A - \sqrt{2gh}$ (C) $v_A - 2gh$ (D) $v_A + \sqrt{2gh}$ (E) $\sqrt{v_A^2 + 2gh}$
 
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1116,19 +1016,14 @@ Quale dei seguenti grafici rappresenta meglio l'andamento dell'energia cinetica 
 
 A crystalline solid is at a temperature below its melting point and is heated at a constant rate to a temperature above its melting point.
 
-Which of the following graphs best represents the trend of the average kinetic energy of its particles, $K$, in relation to the heat supplied?
+Which of the following graphs best represents the trend of the average kinetic energy of its particles, $K$, as a function of the heat supplied?
 
 <!--fig:start-->
 ![[_attachments/1liv20T/1liv20T_p7_f11.png]]
-The following table shows the results of the calculation of the total energy consumption of the product:
+*Five candidate K vs heat supplied graphs*
 <!--fig:end-->
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1205,9 +1100,9 @@ Alla fine della sequenza di urti quali sono i valori di $v_A$ e $v_C$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Three carriages are initially located on an air cushion rail as shown in Figure: Carriage C is moving at a speed $v$ straight to the left, carriages A and B are stationary. The mass of the carts B and C is $m$, the mass of A is $9m$. All the bumps between the carts are elastic.
+Three carts are initially on an air track as shown in the figure: cart C is moving with a velocity $v$ directed to the left, carts A and B are stationary. Carts B and C have mass $m$, the mass of A is $9m$. All collisions between the carts are elastic.
 
-At the end of the impact sequence what are the values of $v_A$ and $v_C$?
+At the end of the sequence of collisions, what are the values of $v_A$ and $v_C$?
 
 - **A.** $v_A = 0{,}2v$ to the left and $v_C = 0{,}8v$ to the right
 - **B.** $v_A = 0{,}2v$ to the left and $v_C = 1{,}8v$ to the right
@@ -1260,14 +1155,9 @@ At the end of the impact sequence what are the values of $v_A$ and $v_C$?
 </figure>
 
 
-Three carts A, B, C on air track
+*Three carts A, B, C on air track*
 <!--fig:end-->
-**Topic:** [[Conservation of Momentum]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1293,18 +1183,13 @@ La stessa superficie emette sicuramente fotoelettroni se illuminata da luce
 
 <div class="qlang-split" data-lang="en"></div>
 
-A metal surface emits photoelectrons when illuminated with green light.
+A metal surface emits photoelectrons when it is illuminated with green light.
 
-The same surface will certainly emit photoelectrons when illuminated by light.
+The same surface definitely emits photoelectrons if it is illuminated by light
 
 (A) orange (B) blue (C) yellow (D) infrared (E) red
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Electron (object)|Electron]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1335,9 +1220,9 @@ Il modulo della tensione del secondo filo è pari a
 
 <div class="qlang-split" data-lang="en"></div>
 
-A homogeneous axis of $L$ length and weight $P$ is suspended horizontally by means of two wires as shown in Figure 1. The first wire is attached to one end of the axle and the second at a distance $L/3$ from the other end.
+A homogeneous rod of length $L$ and weight $P$ is suspended horizontally by two strings as in the figure. The first string is attached to one end of the rod and the second at a distance $L/3$ from the other end.
 
-The voltage of the second wire is equal to
+The magnitude of the tension in the second string is equal to
 
 (A) $\dfrac{1}{4}P$ (B) $\dfrac{1}{2}P$ (C) $\dfrac{3}{4}P$ (D) $\dfrac{3}{2}P$ (E) $P$
 
@@ -1346,12 +1231,7 @@ The voltage of the second wire is equal to
 *Horizontal rod suspended by two strings*
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1420,18 +1300,13 @@ Se la caduta di tensione ai capi del resistore da $100\,\Omega$ è di $4{,}0\,\m
 
 <div class="qlang-split" data-lang="en"></div>
 
-Two resistors, one from $100\,\Omega$ and one from incognito, are serial connected to a battery from $10{,}0\,\mathrm{V}$.
+Two resistors, one of $100\,\Omega$ and one unknown, are connected in series to a $10{,}0\,\mathrm{V}$ battery.
 
-If the voltage drop to the resistor heads from $100\,\Omega$ is $4{,}0\,\mathrm{V}$, the resistor resistance of the unknown resistor is
+If the voltage drop across the $100\,\Omega$ resistor is $4{,}0\,\mathrm{V}$, the resistance of the unknown resistor is
 
 (A) $50{,}0\,\Omega$ (B) $66{,}7\,\Omega$ (C) $100\,\Omega$ (D) $150\,\Omega$ (E) $200\,\Omega$
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1463,24 +1338,19 @@ Il modulo $F$ della forza può essere espresso correttamente …
 
 <div class="qlang-split" data-lang="en"></div>
 
-An object of mass $m$ moves on a horizontal plane without friction at initial speed $\vec{v}$. A constant force $\vec{F}$ parallel to the speed is applied to the body, which stops it in a moment $d$.
+An object of mass $m$ moves on a horizontal plane without friction with initial velocity $\vec{v}$. A constant force $\vec{F}$, parallel to the velocity, is applied to the body and stops it over a distance $d$.
 
 Consider these three expressions:
 $$1:\; mv^2/(2d) \qquad 2:\; 2md/t^2 \qquad 3:\; mv/t$$
 
-The force module $F$ can be correctly expressed as …
+The magnitude $F$ of the force can be correctly expressed …
 
-- **A.** … only from the second expression.
-- **B.** … only from the third expression.
-- **C.** … only from the first two expressions.
-- **D ** … only from the last two expressions.
-- **E.** … from all three expressions.
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+- **A.** …only by the second expression.
+- **B.** …only by the third expression.
+- **C.** …only by the first two expressions.
+- **D.** …only by the last two expressions.
+- **E.** …by all three expressions.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1506,18 +1376,13 @@ Quanto vale la costante elastica della molla?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A spring that is $50\,\mathrm{cm}$ long at rest is extended to $1\,\mathrm{m}$ by hanging it with a weight. During the process the spring's elastic potential energy increases by $15\,\mathrm{J}$.
+A spring that at rest is $50\,\mathrm{cm}$ long is stretched to $1\,\mathrm{m}$ by hanging a weight from it. During the process the elastic potential energy of the spring increases by $15\,\mathrm{J}$.
 
-How much is the spring's elastic constant worth?
+What is the spring constant of the spring?
 
 (A) $15\,\mathrm{N\,m^{-1}}$ (B) $30\,\mathrm{N\,m^{-1}}$ (C) $60\,\mathrm{N\,m^{-1}}$ (D) $120\,\mathrm{N\,m^{-1}}$ (E) $240\,\mathrm{N\,m^{-1}}$
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Hooke's Law (metodo)|Hooke's Law]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1550,25 +1415,20 @@ Durante il contatto con l'asta, la pallina…
 
 <div class="qlang-split" data-lang="en"></div>
 
-As shown in the figure, a metal ball suspended by an insulating wire is attracted by a positive-charged conductive material.
+As shown in the figure, a metal ball, suspended by an insulating thread, is attracted by a positively charged rod made of conducting material.
 
-During the auction contact, the ball…
+During contact with the rod, the ball…
 
-- MSK1/>A ** … loses electrons.
-- **B ** … gains electrons.
-- **C ** … loses protons.
-- **D ** … gains protons.
-- **E.** … does not change load.
+- **A.** …loses electrons.
+- **B.** …gains electrons.
+- **C.** …loses protons.
+- **D.** …gains protons.
+- **E.** …does not exchange charge.
 <!--fig:start-->
 ![[_attachments/1liv20T/1liv20T_p8_f14.png]]
 *Metal ball on string attracted to charged rod*
 <!--fig:end-->
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1592,16 +1452,11 @@ Se si potessero appoggiare uno sopra all'altro tutti gli smartphone attivi attua
 
 <div class="qlang-split" data-lang="en"></div>
 
-If all the smartphones currently in operation in the world could be supported one on top of the other without any of them being damaged, which of the following alternatives would be closer to the height of the battery you would get?
+If one could stack all the smartphones currently active in the world one on top of another, without any of them being damaged, which of the following alternatives comes closest to the height of the stack that would be obtained?
 
 (A) $10^5\,\mathrm{m}$ (B) $10^7\,\mathrm{m}$ (C) $10^9\,\mathrm{m}$ (D) $10^{11}\,\mathrm{m}$ (E) $10^{13}\,\mathrm{m}$
 
-**Topic:** [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1634,9 +1489,9 @@ Se $\mu$ è il coefficiente di attrito statico, qual è il minimo valore di $F$ 
 
 <div class="qlang-split" data-lang="en"></div>
 
-A force $\vec{F}$ is applied to hold a block of mass $m$ firmly on an inclined plane of an angle $\theta$ (as shown in Figure) which would otherwise slip downwards. The force $\vec{F}$ is perpendicular to the slope.
+A force $\vec{F}$ is applied to hold a block of mass $m$ on an inclined plane at an angle $\theta$ (as shown in the figure), which would otherwise slide down. The force $\vec{F}$ is perpendicular to the inclined plane.
 
-If $\mu$ is the static friction coefficient, what is the minimum value of $F$ to hold the block?
+If $\mu$ is the coefficient of static friction, what is the minimum value of $F$ to hold the block still?
 
 - **A.** $(mg/\mu)(\cos\theta - \mu\sin\theta)$
 - **B.** $mg\cos\theta$
@@ -1647,12 +1502,7 @@ If $\mu$ is the static friction coefficient, what is the minimum value of $F$ to
 ![[_attachments/1liv20T/1liv20T_p9_f15.png]]
 *Block on inclined plane held by normal force*
 <!--fig:end-->
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **E** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1682,22 +1532,17 @@ Tenendo conto che il coefficiente di dilatazione dell'acciaio è pari a $1{,}2\t
 
 <div class="qlang-split" data-lang="en"></div>
 
-In a pool, plastic handles are attached to the ends of the steel pipes carrying the players' figures. If one of these is to be dismantled, it must be unlocked and for this reason three proposals are made:
+In a foosball table, at the ends of the steel rods that carry the players' figures, plastic handles are fixed. If one of these needs to be removed, it must be loosened, and for this three proposals are made:
 
-1  Heat both the steel pipe and the plastic handle.
-2  Cool both the pipe and the propeller.
-3  Heat only the handle, so that the pipe does not heat up.
+1 – Heat both the steel rod and the plastic handle.
+2 – Cool both the rod and the handle.
+3 – Heat only the handle, doing so in such a way that the rod does not heat up.
 
-Given that the coefficient of dilation of steel is $1{,}2\times10^{-5}\,\mathrm{K^{-1}}$ and that of plastic material is around $10^{-4}\,\mathrm{K^{-1}}$, which of the three previous proposals can work?
+Taking into account that the coefficient of expansion of steel is equal to $1{,}2\times10^{-5}\,\mathrm{K^{-1}}$ and that of the plastic material is around $10^{-4}\,\mathrm{K^{-1}}$, which of the three previous proposals can work?
 
-(A) Only the 1. (B) Only the second. (C) Only the third. (D) Only 1 and 3. (E) Only the 2 and 3.
+(A) Only 1. (B) Only 2. (C) Only 3. (D) Only 1 and 3. (E) Only 2 and 3.
 
-**Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1725,20 +1570,15 @@ Quale delle seguenti relazioni è valida?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The driver of a car rings the horn just before crossing a pedestrian crossing because a pedestrian stopped halfway through.
+The driver of a car sounds the horn shortly before crossing a pedestrian crossing because a pedestrian has stopped in the middle of the crossing.
 
-The frequency of sound emitted by the horn shall be $f_c$ and the frequency of sound perceived by the pedestrian shall be $f_p$.
+Let $f_c$ be the frequency of the sound emitted by the horn and $f_p$ that perceived by the pedestrian.
 
-Which of the following reports is valid?
+Which of the following relations is valid?
 
 (A) $\dfrac{f_p}{f_c} \leq \dfrac{1}{2}$ (B) $\dfrac{1}{2} < \dfrac{f_p}{f_c} < 1$ (C) $\dfrac{f_p}{f_c} = 1$ (D) $1 < \dfrac{f_p}{f_c} < 2$ (E) $\dfrac{f_p}{f_c} \geq 2$
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1764,18 +1604,13 @@ Quanto lavoro occorre fare per spostarla fino a $2\,\mathrm{m}$ di distanza dall
 
 <div class="qlang-split" data-lang="en"></div>
 
-An electrical charge of $-9\,\mu\mathrm{C}$ is initially located at a distance of $1\,\mathrm{m}$ from an electrical charge of $+4\,\mu\mathrm{C}$.
+An electric charge of $-9\,\mu\mathrm{C}$ is initially at a distance of $1\,\mathrm{m}$ from an electric charge of $+4\,\mu\mathrm{C}$.
 
-How much work does it take to move it to $2\,\mathrm{m}$ from the other?
+How much work is required to move it to a distance of $2\,\mathrm{m}$ from the other one?
 
 (A) $-0{,}324\,\mathrm{J}$ (B) $-0{,}081\,\mathrm{J}$ (C) $+0{,}162\,\mathrm{J}$ (D) $+0{,}243\,\mathrm{J}$ (E) $+0{,}486\,\mathrm{J}$
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1801,18 +1636,13 @@ In un tempo di $10\,\mathrm{s}$, che lavoro viene fatto dalla forza $\vec{F}$?
 
 <div class="qlang-split" data-lang="en"></div>
 
-A cart of $15\,\mathrm{kg}$ shall move at a constant speed of $0{,}8\,\mathrm{m\,s^{-1}}$. The force $\vec{F}$ also acting on the cart is constantly $90\,\mathrm{N}$ and always has the same direction and the same speed.
+A cart of $15\,\mathrm{kg}$ moves with a velocity of constant magnitude $0{,}8\,\mathrm{m\,s^{-1}}$. A force $\vec{F}$ acts on the cart, also of constant magnitude $90\,\mathrm{N}$ and always having the same direction and the same sense as the velocity.
 
 In a time of $10\,\mathrm{s}$, what work is done by the force $\vec{F}$?
 
 (A) $0\,\mathrm{J}$ (B) $720\,\mathrm{J}$ (C) $1200\,\mathrm{J}$ (D) $3600\,\mathrm{J}$ (E) $7200\,\mathrm{J}$
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment.
+**Answer:** **B** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1843,23 +1673,18 @@ Che altezza massima raggiungerebbe la palla se si potessero trascurare gli effet
 
 <div class="qlang-split" data-lang="en"></div>
 
-A player hits the ball firmly on the ground, giving it an initial speed of $8{,}5\,\mathrm{m\,s^{-1}}$ at an angle of $35°$ to the horizontal plane, as shown in Figure 1.
+A soccer player kicks the ball, which is stationary on the ground, giving it an initial velocity of $8{,}5\,\mathrm{m\,s^{-1}}$ at an angle of $35°$ with respect to the horizontal plane, as shown in the figure.
 
-What maximum height would the ball reach if the effects of the air could be overlooked?
+What maximum height would the ball reach if the effects due to the air could be neglected?
 
 (A) $1{,}2\,\mathrm{m}$ (B) $2{,}5\,\mathrm{m}$ (C) $4{,}9\,\mathrm{m}$ (D) $8{,}5\,\mathrm{m}$ (E) $17\,\mathrm{m}$
 
 <!--fig:start-->
 ![[_attachments/1liv20T/1liv20T_p10_f16.png]]
-The first time I saw a soccer ball kicked at MSK0/> initial velocity
+*Soccer ball kicked at 35° initial velocity*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Ball (object)|Ball]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -1941,9 +1766,9 @@ Che corrente misura l'amperometro A?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The current in a portion of an electrical circuit is shown in Figure 1.
+The figure shows the currents in a portion of an electrical circuit.
 
-What current does the A-amp?
+What current does ammeter A measure?
 
 (A) $1\,\mathrm{A}$ (B) $2\,\mathrm{A}$ (C) $3\,\mathrm{A}$ (D) $8\,\mathrm{A}$ (E) $13\,\mathrm{A}$
 
@@ -2003,12 +1828,7 @@ What current does the A-amp?
 *Circuit junction with labeled currents and ammeter*
 <!--fig:end-->
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a regulation on the protection of the environment and the environment in the Member States.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -2034,18 +1854,13 @@ Determinare il rapporto tra la velocità di propagazione delle onde sulla corda 
 
 <div class="qlang-split" data-lang="en"></div>
 
-On two strings, A and B, which are homogeneous and identical, elastic waves propagate; the tension of the A string is $T$ while that of the B string is doubled.
+On two taut strings, A and B, homogeneous and identical, elastic waves propagate; the tension of string A is $T$ while that of string B is twice as much.
 
-Determine the ratio of the wave propagation speed on rope B to that on rope A.
+Determine the ratio between the propagation speed of the waves on string B and that on string A.
 
 (A) 0.50 (B) 0.71 (C) 1.00 (D) 1.41 (E) 2.00
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in electricity and gas.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -2110,9 +1925,9 @@ L'intensità della reazione normale esercitata dal piano è all'incirca
 
 <div class="qlang-split" data-lang="en"></div>
 
-A box of $M = 7\,\mathrm{kg}$ mass is pulled at a constant speed on a horizontal plane. As shown in Figure 1, the drag force $\vec{F}$ forms an angle $\theta = 64°$ with the horizontal; the dynamic friction coefficient between the box and the floor is $\mu = 0{,}1$.
+A box of mass $M = 7\,\mathrm{kg}$ is pulled at constant speed on a horizontal plane. As shown in the figure, the pulling force $\vec{F}$ forms an angle $\theta = 64°$ with the horizontal; the coefficient of kinetic friction between the box and the floor is $\mu = 0{,}1$.
 
-The intensity of the normal reaction exerted by the plane is approximately
+The magnitude of the normal reaction exerted by the plane is approximately
 
 (A) $57\,\mathrm{N}$ (B) $69\,\mathrm{N}$ (C) $74\,\mathrm{N}$ (D) $80\,\mathrm{N}$ (E) $83\,\mathrm{N}$
 
@@ -2152,15 +1967,10 @@ The intensity of the normal reaction exerted by the plane is approximately
 </figure>
 
 
-Box pulled at angle on horizontal surface
+*Box pulled at 64° angle on horizontal surface*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a number of proposals for the implementation of the 'European Union's strategy for the protection of the environment.
+**Answer:** **A** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)
 
 
 
@@ -2191,20 +2001,15 @@ In quali di essi l'entropia della sostanza coinvolta diminuisce?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following stages of steady-state shall be considered:
+Consider the following phase transitions that occur at constant temperature:
 
-One, from solid to liquid. Two: from liquid to solid. Three: from gas to liquid.
+1: From solid to liquid. 2: From liquid to solid. 3: From gas to liquid.
 
-In which of these cases does the entropy of the substance involved decrease?
+In which of them does the entropy of the substance involved decrease?
 
 - **A.** Only in 1.
-- **B.** Only in the second.
-- **C ** Only in the third.
-- **D.** In 2 and 3.
-- In none of the three, because entropy always increases.
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1SlMOQlWOkLpd9RMszLdCTs3l-Xfj0PL8/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organisation of the market in electricity and gas.
+- **B.** Only in 2.
+- **C.** Only in 3.
+- **D.** In 2 and in 3.
+- **E.** In none of the three, because entropy always increases.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/14JbyO-Ts5Ho7hAAhcDdiEeVp2cweDoAN/view)

@@ -179,18 +179,13 @@ Un'enorme navicella spaziale ha la forma di un cilindro cavo di raggio $1.00\ \t
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Astronauta giocoliere**
+**Astronaut juggler**
 
-Un'enorme navicella spaziale ha la forma di un cilindro cavo di raggio $1.00\ \text{km}$ e ruota attorno al suo asse a una velocità angolare tale che un astronauta in piedi sulla parete senta un'accelerazione pari a $g$. An astronaut in this position throws a ball upwards at a speed of $10.0\ \text{m/s}$. The ball lands on the spacecraft floor in a different position from the spacecraft. How far does he have to walk, at least, to reach the ball?
+An enormous spacecraft has the shape of a hollow cylinder of radius $1.00\ \text{km}$ and rotates about its axis at an angular velocity such that an astronaut standing on the wall feels an acceleration equal to $g$. An astronaut in such a position throws a small ball upward with a speed of $10.0\ \text{m/s}$. The ball lands on the floor of the spacecraft in a position different from the one in which the astronaut is. How far must he walk, at minimum, to reach the ball?
 
-*Unità di misura:* m. *Precisione richiesta:* $0.5\%$.
+*Unit of measurement:* m. *Required precision:* $0.5\%$.
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
 
 
@@ -413,18 +408,13 @@ Superman tenta di bere l'acqua di un lago usando una cannuccia lunga più di $2\
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Superman e la cannuccia**
+**Superman and the straw**
 
-Superman tenta di bere l'acqua di un lago usando una cannuccia lunga più di $2\ \text{km}$, ma non ci riesce. What is the maximum height above the lake level reached by the water in the straw?
+Superman tries to drink the water of a lake using a straw longer than $2\ \text{km}$, but he fails. What is, at most, the height above the lake level reached by the water in the straw?
 
-*Unità di misura:* m. *Precisione richiesta:* $0.5\%$.
+*Unit of measurement:* m. *Required precision:* $0.5\%$.
 
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1JmbiUk4Kt2bJ4K49BIpjgIc4tBqbzvhZ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1kZILTlQlWrYJqdIwIStqIjlX62mXDgjd/view)
 
 
 

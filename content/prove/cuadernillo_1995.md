@@ -66,26 +66,20 @@ Considerate l'accelerazione della gravità $g=10$ m/s$^2$; il calore latente del
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the establishment of a European Community framework for the development of the internal market.
+**National Theoretical - Problem 1 (Alaska)**
 
-An Eskimo, who has lost his dogs, wants to return to his igloo. To do that, you have to cross a frozen lagoon. As the coast melt approaches, he mounts on his sled and, starting from the rest, is allowed to slide freely towards the lagoon. The thrust between the coast surface and the lagoon is gentle. The mass of the sled plus the mass of the Eskimo and its total load is $M=100$ kg.
-(a) At the surface of the lagoon the speed of the sled is 10 m/s. Determine the height, above the surface of the lagoon, from where the sleigh began to slide. For this, suppose that, for this stretch of the journey, the grating may be considered despicable.
-(b) At 10s of sliding down the horizontal surface of the lagoon (with also despicable gnawing) the Eskimo must throw some of its cargo to approach a bear that is obstructing its path. The projectile, of mass $m=2$ kg, is thrown forward in a horizontal direction and leaves the Eskimo's hand with $v=5$ m/s with respect to the slide.
-Calculate the speed of the slide after the projectile is launched.
-(c) 10 years after the projectile was dropped, the sled reaches the other shore. Calculate the length of the path over the lagoon that the Eskimo traveled. Consider the act of throwing the projectile as instantaneous.
-(d) The splicing between the horizontal surface of the lagoon and this other shore is also smooth. The surface (ice) of the climbing ramp is flat, with a slope of 15°, but now has a friction coefficient of $\mu=0.75$.
-Calculate the maximum height to which you can climb the slide, if the icy ramp is long enough.
-(e) The ramp actually rises only up to 1 m above the surface of the lagoon and then splashes gently with a horizontal surface.
-Considering that the ice temperature of the climb ramp is outside 0°C, calculate the amount of ice melted by the slide pass, assuming that the resulting water temperature is 0°C.
-(f) Finally, calculate the speed at which the sled will start its movement over the final horizontal surface.
-DATES: For points (d), (e) and (f) consider the contributions of the splicing sections between the horizontal surfaces and the ramp to be negligible.
-Consider the gravitational acceleration $g=10$ m/s$^2$; the latent heat of water melting is 80 cal/g and its specific heat is 1 cal/g. The mechanical equivalent of a calorie is equal to 4.2 J.
-
-**Topic:** [[Conservation of Energy]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+An Eskimo, who has lost his dogs, wants to return to his igloo. To do so he must cross a frozen lagoon. As the thaw of the coast approaches, he gets on his sled and, starting from rest, lets himself slide freely toward the lagoon. The transition between the surface of the coast and the lagoon is smooth. The mass of the sled plus that of the Eskimo and all his load is $M=100$ kg.
+a) On reaching the surface of the lagoon the speed of the sled is 10 m/s. Determine the height, above the surface of the lagoon, from which the sled began to slide. For this, assume that, for this stretch of the trip, friction can be considered negligible.
+b) 10 s after sliding along the horizontal surface of the lagoon (with friction also negligible) the Eskimo must throw part of his load to drive away a bear that blocks his path. The projectile, of mass $m=2$ kg, is thrown forward in a horizontal direction and leaves the Eskimo's hand with $v=5$ m/s relative to the sled.
+Calculate the speed of the sled after the projectile is thrown.
+c) 10 s after having thrown the projectile the sled reaches the other coast. Calculate the length of the path, over the lagoon, that the Eskimo traveled. Consider the act of throwing the projectile as instantaneous.
+d) The junction between the horizontal surface of the lagoon and this other shore is also smooth. The surface (ice) of the ascent "ramp" is flat, with a slope of 15°, but now it has friction whose coefficient is $\mu=0.75$.
+Calculate the maximum height to which the sled can climb, if the icy ramp were long enough.
+e) In reality, the ramp rises only up to 1 m above the surface of the lagoon and then smoothly joins a horizontal surface.
+Considering that the temperature of the ice on the ascent ramp were 0°C, calculate the amount of ice that melts due to the passage of the sled, assuming that the temperature of the resulting water is 0°C.
+f) Finally, calculate the speed that the sled will have when it begins its motion on the final horizontal surface.
+DATA: For points d), e) and f) consider negligible the contributions of the junction sections between the horizontal surfaces and the ramp.
+Consider the acceleration of gravity $g=10$ m/s$^2$; the latent heat of fusion of water is 80 cal/g and its specific heat is 1 cal/g. The mechanical equivalent of one calorie is equal to 4.2 J.
 
 
 
@@ -134,22 +128,14 @@ DATI: La densità dell'acqua può essere presunta costante con la temperatura ed
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also proposed a number of measures to improve the quality of the services provided by the Community.
+**National Theoretical - Problem 2 (Tonemon a good mate)**
 
-A sorry gentleman to take mate. In its container he placed a liter of water at 20°C and immersed an electric heater connected to 220 V. As he wanted to heat the water to a temperature of exactly 80°C (because he considered it optimal for taking mate) he calculated the time needed to reach it, for which he measured the resistance of the water-soaked heater and obtained $R=36\Omega$.
-(a) Knowing that the container used loses 20% of the energy supplied, how long did the heater stay connected to the 220 V line for the water temperature to reach the desired 80°C? (The specific heat of the water is $c=1$ cal/g°C)
-(b) Great was the surprise when after the calculated time he found that the water temperature was below 80°C. He thought he had made some mistake in determining the heater's resistance. He then measured $R$ again with the heater submerged in the hot water and found that it had increased. To improve its calculations it again measured the resistance of the heater at three different temperatures and based on these measurements assumed that between 20°C and 40°C, $R=36\Omega$, between 40°C and 60°C, $R=44\Omega$ and between 60°C and 80°C, $R=50\Omega$, and recalculated the time required to submerge the heater to raise the water from 20°C to 80°C. He calculated the new time the gentleman got.
-(c) Repeated the experiment waiting for the time calculated in point (b) and measured the water temperature again to a value less than 80°C. As he had already observed changes in heater resistance with temperature, he decided to make a larger number of measurements, at parts of 20°C, increasing the temperature in small leaps and obtained that the resistance varied with temperature according to the law shown in the graph. It represents, in that same graph, the temperature resistance values used in points (a) and (b).
-(d) From the values of $R$ measured in the previous point, calculate now the exact time to wait to raise the water temperature from 20°C to 80°C, assuming that at each moment the water temperature is equal to the temperature of the heater resistance.
-DATES: The water density can be assumed to be constant with temperature and equal to 1 g/cm$^3$; 1 cal = 4.2 J.
-
-
-
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Curve Fitting (metodo)|Curve Fitting]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Resistor (object)|Resistor]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A desolate man drinking mate. In his container he placed one liter of water at 20°C and immersed in it an electric heater connected to 220 V. Since he wanted to heat the water to a temperature of exactly 80°C (because he considers it optimal for drinking mate), he calculated the time necessary to reach it, for which he measured the resistance of the heater immersed in the water and obtained $R=36\Omega$.
+a) Knowing that the container used loses 20 % of the energy supplied to it, how long did the man leave the heater connected to the 220 V line so that the water temperature reaches the desired 80°C? (The specific heat of water is $c=1$ cal/g°C)
+b) Great was the surprise when, after the calculated time, he verified that the water temperature was lower than 80°C. He thought he had made some error in determining the resistance of the heater. He then measured $R$ again with the heater immersed in the hot water and verified that it had increased. To improve his calculations, he measured the resistance of the heater again at three different temperatures and, based on those measurements, assumed that between 20°C and 40°C, $R=36\Omega$, between 40°C and 60°C, $R=44\Omega$, and between 60°C and 80°C, $R=50\Omega$, and recalculated the necessary time that he should have left the heater immersed to raise the water from 20°C to 80°C. Calculate the new time that the man obtained.
+c) He repeated the experiment waiting the time calculated in point b) and measured the water temperature, obtaining again a value lower than 80°C. Since he had already observed changes in the heater's resistance with temperature, he decided to take a larger number of measurements, in 20°C steps, increasing the temperature in small jumps, and obtained that the resistance varied with temperature according to the law shown in the graph. Represent, on that same graph, the resistance values as a function of temperature used in points a) and b).
+d) From the values of $R$ measured in the previous point, calculate now the exact time that must be waited to raise the water temperature from 20°C to 80°C, assuming that at every moment the water temperature is equal to the temperature of the heater's resistance.
+DATA: The density of water can be assumed constant with temperature and equal to 1 g/cm$^3$; 1 cal = 4.2 J.
 
 
 
@@ -198,22 +184,16 @@ DATI: Nel suo calcolo può supporre che l'indice di refraczione dell'aria dipend
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the establishment of a European Community framework for the development of the information society. Cerro del Lobo)
+**National Theoretical - Problem 3 (Code X, U.F.O. Cerro del Lobo)**
 
-Special agents, in charge of the X-Files, have to describe the riddle of the appearance of an UFO. The Uritorco, in the mountains of Cordoba. On the evening of one of the strong sunny days, a group of tourists located a few miles from the eastern slope of the hill observed a bright disc of silver coloring over it.
-The proposed explanation of the phenomenon is based on the mirage of a small circular lagoon, which forms after the rainy season, a few kilometers from the western slope of Uritorco. The sun's radiation over the hilltop, cleared of vegetation, induces by heating, a strong variation in the density of the air at the site, which causes it to decrease from the base of the hill to a certain height above the summit.
-It is then possible that the light reflected in the lagoon follows a curvilinear path passing over the hill producing an image of the lagoon for the eye of the tourist located east of the hill. This image makes circular suggestion and due to the oscillations of the atmospheric air, it appears to be endowed with an incessant motion associated with those of a manned alien craft.
-(a) Assuming that air is an ideal gas, write the formula expressing the variation in air density with temperature. It can be assumed that the air pressure does not change appreciably from the base to the top of the hill, and that it is equal to an atmosphere.
-b) Tourists spotted the "flying saucer" from a nearby hill, 10 km east of Uritorco, when they were at a level of 7$m$ below the top of that hill. The temperature at the site was $T_0$. If $\rho_0$ is the angle formed by the light rays from the 'O.V.N.I.' with respect to the vertical of the place and $n_0$ is the refractive index of the air in that place, calculate the product $n_0\sin\rho_0$.
-Based on Snell's Law, find an expression that relates the values of the n refractive index of air and the angle $\rho$ that forms a light beam with the vertical, at any point in the path of that beam.
-(c) What is the air temperature at the highest point (over the summit of Uritorco) reached by the light rays, which reach tourists, coming from the lagoon? So is the explanation of the UFO reasonable? Justify your answer.
-DATES: In your calculations you can assume that the refractive index of air depends on its density $\delta$, according to the $n=1+0.0029\frac{\delta}{\delta_n}$ ratio, where $\delta_n$ is the density of air at normal pressure and temperature (pressure = 1 atmosphere and temperature = 288 K). The temperature of the test chemical is $T_0=288$ K (15° C).
-
-**Topic:** [[Geometric Optics]], [[Kinetic Theory]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The special agents in charge of the X files have to describe the enigma of the appearance of a U.F.O. over the Uritorco, in the hills of Córdoba. At dusk on one of the days of strong insolation, a group of tourists located a few kilometers from the East slope of the hill observed a luminous disk of silver coloration over it.
+The proposed explanation of the phenomenon is based on the mirage of a small circular lagoon, which forms after the rainy season, a few kilometers from the West slope of the Uritorco. The solar radiation on the summit of the hill, clear of vegetation, induces by heating a strong variation of the air density in the place, which makes it decrease from the base of the hill up to a certain height above the summit.
+It is then possible that the light reflected in the lagoon follows a curvilinear path passing over the hill, producing an image of the lagoon for the eye of the tourist located to the East of the hill. This image makes it suggestively circular and, due to the oscillations proper to the air of the atmosphere, it appears endowed with an incessant movement associated with those of a manned extraterrestrial ship.
+a) Assuming that air is an ideal gas, write the formula that expresses the variation of air density with temperature. It may be assumed that the air pressure does not change appreciably from the base to the summit of the hill, and that it is equal to one atmosphere.
+b) The tourists sighted the "flying saucer" from a neighboring hill, 10 km East of Uritorco, when they were at a level 7$m$ below the summit of said hill. The temperature at the place was $T_0$. If $\rho_0$ is the angle formed by the light rays coming from the "U.F.O." with respect to the vertical of the place and $n_0$ is the refractive index of the air at that same place, calculate the product $n_0\sin\rho_0$.
+Based on Snell's Law, find an expression that relates the values of the refractive index n of the air and the angle $\rho$ formed by a light ray with the vertical, at any point along the path of said ray.
+c) What is the air temperature at the highest point (above the summit of Uritorco) reached by the light rays that arrive at the tourists, coming from the lagoon? Is the explanation of the U.F.O. then reasonable? Justify your answer.
+DATA: In your calculations you may assume that the refractive index of air depends on its density $\delta$, according to the relation $n=1+0.0029\frac{\delta}{\delta_n}$, where $\delta_n$ is the density of air at normal pressure and temperature (pressure = 1 atmosphere and temperature = 288 K). The temperature $T_0=288$ K (15°C).
 
 
 
@@ -316,17 +296,11 @@ b) Può evitare che le scatole scivolassero? Se sì, quanto tempo ha ancora? Se 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures.
+**Local 1 - Currents (Railway platform)**
 
-A railway platform is loaded with boxes that have a static friction coefficient of 0.25 with the floor. The train travels at 100 km/h while travelling along the straight line. The receiving driver of the train warns the next curve of its journey (of curvature radius $R=50$m) only when 100m away from it.
-(a) Clearly identify the problem presented to the driver and explain what he must do to prevent the boxes from slipping when braking the train. To calculate nothing at this point, just briefly develop the conceptual.
-(b) Will you be able to prevent the boxes from slipping? If so, how much more time did you have? If not, how long before did you have to act?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A railway platform is loaded with boxes that have a coefficient of static friction of 0.25 with the floor. The train travels at 100 km/h while going along the straight section. The train driver notices the next curve on the route (with radius of curvature $R=50$m) only when he is 100 m from it.
+a) Clearly identify the problem facing the driver and justify what he must do to prevent the boxes from sliding while braking the train. To calculate nothing at this point, only briefly develop the conceptual part.
+b) Will he be able to prevent the boxes from sliding? If yes, how much extra time did he have? If no, how much earlier should he have acted?
 
 
 
@@ -361,15 +335,9 @@ Si lancia una pietra di 20 gr. con una gomma. Se la forza elastica della fonda a
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 2 - Capital Federal (Honda - stone)**
 
-A 20 grams stone is thrown. with a gourd. If the elastic force of the honda acts for 0.04 seconds after which the stone acquired a speed of 80 m/s calculate the intensity of the force applied in the three systems.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Momentum]]
-**Metodi:** [[Impulse-Momentum Theorem (metodo)|Impulse-Momentum Theorem]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A 20 g stone is thrown with a sling (rubber band). If the elastic force of the sling acted for 0.04 s, after which the stone acquired a speed of 80 m/s, calculate the magnitude of the force applied in the three systems.
 
 
 
@@ -408,17 +376,9 @@ Il sistema mostrato è composto da una stampa idraulica, con le sezioni indicate
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall, by means of implementing acts, adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+**Local 3 - Mar del Plata (Hydraulic press and lever)**
 
-The system shown is composed of a hydraulic press, with the given sections, and a lever, with the length of arms indicated with respect to the support point. What force is to be applied to the A-end of the figure to balance the body of 800 kgf? What is the meaning of the force applied to A? (Figure, sections 100 cm$^2$ and 16 cm$^2$, arms 0,5 m and 2 m)
-
-
-
-**Topic:** [[Fluid Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lever (object)|Lever]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The system shown consists of a hydraulic press, with the given cross-sections, and a lever, with the arm lengths indicated with respect to the fulcrum. What force must be applied at end A of the figure to balance the 800 kgf body? What is the direction of the force applied at A? (figure, cross-sections 100 cm$^2$ and 16 cm$^2$, arms 0.5 m and 2 m)
 
 
 
@@ -646,23 +606,16 @@ b) La distanza raggiunta R.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall, in accordance with Article 21 of Regulation (EC) No 1272/2009, adopt implementing acts laying down the rules for the application of this Regulation.
+**Local 7 - Capital Federal (Compressed spring, body on inclined plane)**
 
-A body of 1 kg mass, it is located on a horizontal surface at rest and compressing 0,1 m a spring of constant 1000N/m. At that time it is 2.1 m from the base of the sloping plane of 37° slope and 2 m high. When the body is released, it moves along the horizontal surface, rises up the sloping plane and falls behind it at a distance R from the vertical wall.
-If the friction coefficient on all surfaces is 0,1 and the friction with air is neglected, calculate:
-(a) The speed at which it begins to rise above the plane.
-(b) The distance R reaches.
-
+A body of mass 1kg is on a horizontal surface at rest and compressing a spring of constant 1000N/m by 0.1m. At that moment it is 2.1m from the base of the inclined plane of 37° slope and 2m height. When the body is released, it moves along the horizontal surface, ascends the inclined plane and falls behind it at a distance R from the vertical wall.
+If on all surfaces the coefficient of friction is 0.1 and air friction is neglected, calculate:
+a) The speed with which it reaches the start of the ascent along the plane.
+b) The distance R it reaches.
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p07_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Hooke's Law (metodo)|Hooke's Law]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -703,18 +656,12 @@ c) Calcolare lo spazio totale percorso durante il tempo di movimento descritto.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 8 - San Fernando del Valle de Catamarca (Airplane)**
 
-An aircraft with a mass of 980 kg travels in a straight line at 306 km/h for two minutes, after which it encounters a very dense cloud that slowly slows down its speed for 2 minutes, to a value of 241,2 km/h. After the cloud passes, it regains its initial speed in 1 minute.
-(a) Describe the type of movement at each interval.
-(b) Perform the speed-time chart.
-(c) - Calculate the total space travelled during the described time of movement.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+An airplane whose mass is 980 kg travels in a straight line at 306 km/h for two minutes, after which it encounters a very dense cloud that gradually decreases its speed for 2 minutes, down to a value of 241.2 km/h. After passing the cloud it regains its initial speed in 1 minute.
+a) Describe the type of motion in each interval.
+b) - Draw the velocity-time graph.
+c) - Calculate the total distance traveled during the described time of motion.
 
 
 
@@ -1016,20 +963,13 @@ Secondo il grafico, calcolare l'incognito. (Figura: grafico v/t, V(0)=? fino a V
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the scope of the proposal to the Member States.
+**Local 14 - San Nicolas (Graph, find the unknown)**
 
-According to the graph, calculate the unknown. (Figure: graph v/t, V(0) =? The maximum speed of the vehicle shall be:
-
+According to the graph, calculate the unknown. (figure: v/t graph, V(0)=? up to V(8)=20 m/s)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p10_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -1082,24 +1022,17 @@ b) Dopo aver attraversato E a questa velocità, si trova con il blocco B che era
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a new Regulation on the protection of the environment.
+**Local 15 - Capital Federal (Figure track, two blocks)**
 
-In the track of the figure there are 2 blocks, which can move with despicable grinding, except in the CD section.
-(a) Consider the height at which block A must be dropped to pass through point E at the minimum speed without falling off the track.
-b) After passing through E at that speed, it encounters block B that was at rest, and they are hooked together to head towards the spring of constant elasticity of K=1800 N.m. Determine:
-- How fast will they move after they're hooked up?
-- How long will the spring compress? (Figure. Data: m1=8kg; m2=4kg; CE=1m; coef m=0.4; x=1m; g=9.8 m/s$^2$)
-
+On the track in the figure there are 2 blocks, which can move with negligible friction, except in the section CD.
+a) Consider what height block A must be dropped from so that it passes through point E with the minimum speed, without falling off the track.
+b) After it passes through E with that speed, it meets block B which was at rest, and they stick together to move together toward the spring with spring constant K=1800 N.m. Determine:
+- With what speed they will move after sticking together.
+- What length the spring will be compressed. (figure. Data: m1=8kg; m2=4kg; CE=1m; coef m=0.4; x=1m; g=9.8 m/s$^2$)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p10_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Conservation of Momentum]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -1134,15 +1067,9 @@ Nella città di Rio Gallegos un bambino gioca sul ghiaccio; il gioco consiste ne
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the official languages of the European Union:
+**Local 16 - Comodoro Rivadavia (Sled game, Rio Gallegos)**
 
-In the city of Rio Gallegos a child plays on the ice; the game consists of dragging a sled over the ice. If the mass of the sled is 5 kg. And the boy exerts a force of 15 NW. a 30°, to determine the work done by the boy and the final speed of the sled when it has travelled 5m, assuming that part of the rest and there is no friction.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+In the city of Rio Gallegos a child plays on the ice; the game consists of dragging a sled over the ice. If the mass of the sled is 5 kg and the boy exerts a force of 15 Nw at 30°, determine the work done by the boy and the final velocity of the sled when it has traveled 5 m, assuming it starts from rest and there is no friction.
 
 
 
@@ -1177,15 +1104,9 @@ Nella città di Rio Gallegos un bambino gioca sul ghiaccio; il gioco consiste ne
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 17 - Comodoro Rivadavia (Rio Gallegos, ice sled)**
 
-In the city of Rio Gallegos a child plays on the ice; the game consists of dragging a sled over the ice. If the mass of the sled is 5 kg. and the boy exerts a force of 15 NW to 30°, determining the work done by the boy and the final speed of the sled when he has traveled 5m, assuming that part of the rest and there is no friction.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+In the city of Rio Gallegos a child plays on the ice; the game consists of dragging a sled over the ice. If the mass of the sled is 5 kg and the boy exerts a force of 15 Nw at 30°, determine the work done by the boy and the final velocity of the sled when it has traveled 5 m, assuming it starts from rest and there is no friction.
 
 
 
@@ -1238,24 +1159,17 @@ d) Per lo stesso movimento, se la altezza è una terza parte della precedente. Q
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with Article 107 (1) TFEU.
+**Local 18 - San Fernando del Valle de Catamarca (Free fall body, graphs)**
 
-One of the following y-t graphs corresponds to that of a body in free fall, starting from rest. (Figures: graphs (a) and (b))
-a) Which of the two graphs is correct?
-(b) What is the initial speed of the motion?
-(c) You are informed that the body takes 4 seconds to reach the ground. How high did it fall?
-(d) For the same movement, if the height is one third of the previous one. How long would it take to get around it?
-
+One of the following y-t graphs corresponds to that of a body in free fall, starting from rest. (figures: graphs (a) and (b))
+a).- Which of the two graphs is the correct one?
+b).- What is the value of the initial velocity of the motion?
+c) You are informed that the body takes 4s to reach the ground. From what height did it fall?
+d) For the same motion, if the height were one third of the previous one. How long would it take to cover it?
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p11_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -1312,26 +1226,19 @@ Il grafico della figura rappresenta un settore di una montagna russa. Sulla base
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 19 - Villa Carlos Paz (Roller coaster)**
 
-The figure shows a section of a roller coaster. On the data in the figure calculate:
+The figure graph represents a section of a roller coaster. Using the data in the figure, calculate:
 1) The kinetic energy at point A.
 2) The potential energy at point A.
-3) The speed of the mobile at point B.
-4) Total energy at point C.
-5) Kinetic energy at point D.
-6) If the mobile reaches point E. (Figure: 30 m/s, 4 kg, heights in m)
-
+3) The speed of the car at point B.
+4) The total energy at point C.
+5) The kinetic energy at point D.
+6) Whether the car reaches point E. (figure: 30 m/s, 4 kg, heights in m)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p11_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -1482,24 +1389,17 @@ $g=10$ m/s$^2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to take the necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the Commission is able to take all necessary measures to ensure that the measures are implemented in a timely manner.
+**Local 22 - Capital Federal (Ball platform, bullet, collision)**
 
-A 1 kg ball rests on the edge of a 5 m high platform. A 10 g bullet moves parallel to the table in the direction of the center of mass of the ball. The ball collides plastically with the ball and it leaves the table following the path of the figure falling 2 m away from the platform. Calculation of the
-(a) The speed of the ball when it leaves the table.
-(b) The speed of the bullet in the space on the table.
-(c) Energy dissipated as heat at the time of impact.
+A ball of mass 1 kg is at rest at the edge of a platform 5 m high. A 10 g bullet moves parallel to the table in the direction of the ball's center of mass. The bullet collides plastically with the ball and the latter leaves the table following the trajectory in the figure, falling 2 m from the platform. Calculate:
+a) The speed of the ball when leaving the table.
+b) The speed of the bullet in space on the table.
+c) The energy dissipated as heat at the moment of the collision.
 $g=10$ m/s$^2$
-
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p12_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -1586,15 +1486,9 @@ Per un piano inclinato, lungo 6 m e alto 1,5 m, una banda mobile sale cassoni di
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with Article 107 (1) TFEU.
+**Local 24 - Comodoro Rivadavia (Moving belt crates, power)**
 
-On a sloping plane, 6 m long and 1.5 m high, a moving band climbs fruit baskets weighing 20 kg. The band slides at constant speed. If the device's power output is 0.08 hp, how many drawers does it raise per minute?
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Along an inclined plane, 6 m long and 1.5 m high, a moving belt carries up crates of fruit of 20 kg. The belt slides at constant speed. If the useful power of the device is 0.08 hp, how many crates does it lift per minute?
 
 
 
@@ -1633,17 +1527,11 @@ b) Determinare la velocità con cui i corpi raggiungono la base dell'edificio.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken in order to ensure that the measures are implemented in accordance with the objectives of the programme.
+**Local 25 - General Pico (Building under construction, collision)**
 
-From the top of a building under construction, 40m high pieces are released. When a body is dropped the moment it is thrown vertically from the ground and a second body is thrown upwards, the moment they cross they move in the opposite direction and the speed of the first is twice that of the second. Determine at what height of the building the impact occurs.
-(a) Determine the position of the first body at the moment the second reaches its maximum height in the event of a collision with it and is immediately mentioned.
-(b) Determine the speed at which bodies reach the base of the building.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+From the top of a building under construction, pieces are dropped from a height of 40 m. When a body is released at the instant in which a second body is launched vertically upward from the ground, at the moment they cross each other they move in opposite directions and the speed of the first is twice that of the second. Determine at what height of the building the collision occurs.
+a) Determine the position of the first body at the instant in which the second reaches its maximum height in the case that it collides with it, and the aforementioned instant.
+b) Determine the speed with which the bodies reach the base of the building.
 
 
 
@@ -1692,22 +1580,16 @@ g) Esiste un momento t in cui il cellulare passa di nuovo dall'origine del siste
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the use of the 'space-speed' technology in the transport sector.
+**Local 26 - San Fernando del Valle de Catamarca (Velocity-time graph)**
 
-Given the following speed-time graph, and considering that for t=0s the mobile passes through the source of the reference system, calculate:
-(a) At what time intervals is the movement uniform, and why?
-(b) What is the speed of such time intervals?
-(c) At what time interval is the velocity negative?
-(d) Indicate the time intervals with uniformly varying movement.
-(e) Calculate acceleration at the intervals indicated in the previous item.
-(f) Find the space travelled by the mobile phone during the first 9 seconds.
-(g) Is there a time t, when the mobile phone goes back to the source of the reference system? (Figure: graph v-t)
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Given the following velocity-time graph, and considering that for t= 0s the moving object passes through the origin of the reference system, calculate:
+a) In what time intervals is the motion uniform?, and why?
+b) What is the value of the velocity in those time intervals?
+c) In what time interval is the velocity negative?
+d) Indicate the time intervals with uniformly varied motion.
+e) Calculate the acceleration in the intervals indicated in the previous item.
+f) Find the distance traveled by the moving object during the first 9 s.
+g) Is there any instant t at which the moving object passes again through the origin of the reference system? (figure: v-t graph)
 
 
 
@@ -1742,15 +1624,9 @@ Una palla che ruota su un tavolo orizzontale di 75 cm. di altezza cade toccando 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 27 - San Salvador de Jujuy (Ball from a table)**
 
-A ball that rolls over a 75 cm horizontal table. The height of the falls is reached by touching the ground at a point at a horizontal distance of 1,5 m. From the edge of the table. What was the speed of the ball when it left the table?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A ball rolling on a horizontal table 75 cm high falls, touching the ground at a point located at a horizontal distance of 1.5 m from the edge of the table. What was the speed of the ball at the moment it left the table?
 
 
 
@@ -2060,15 +1936,9 @@ Le stazioni di B.S.A. e il Mar del Plata sono distanti circa 400 Km. De Bs. As. 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 33 - Rojas (Buenos Aires Mar del Plata Trains)**
 
-The BsAs stations. and the Silver Sea are about 400 km away. De Bs. As. A train leaves, and it will take 5 hs to reach the Silver Sea. Another one comes out of Mar del Plata and will reach Bs. As. en 3 Hs. Different graphically and analytically the times and meeting places for both trains if the train from Bs.As. The difference is three hours apart from the city of Constitution. If the delay on the Mar del Plata train had been 330', what would have happened?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The stations of Buenos Aires and Mar del Plata are approximately 400 km apart. A train leaves Buenos Aires and will take 5 hours to reach Mar del Plata. Another train leaves Mar del Plata and will arrive in Buenos Aires in 3 hours. Graphically and analytically determine the times and places of meeting for both trains if the Buenos Aires train leaves at three and the difference in hours that separate it from the city of Constitución. If the delay of the Mar del Plata train had been 330', what would have happened?
 
 
 
@@ -2163,16 +2033,10 @@ b) Calcolare l'aumento dell'energia cinetica del blocco e l'aumento dell'energia
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages of the Union:
+**Local 35 - San Salvador de Jujuy (Block inclined plane, force)**
 
-A 50kg block. is pushed upwards by a distance of 6 m up the surface of an inclined plane 37°,by a force F=50Kg parallel to the surface of the plane.The coefficient of friction between the block and the plane is 0.2. (a) What work is done by force F and what has been done against friction?
-(b) Calculate the increase in kinetic energy of the block and the increase in potential energy of the block.
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A 50 kg block is pushed a distance of 6 m up the surface of a plane inclined at 37°, by means of a force F=50Kg parallel to the surface of the plane. The coefficient of friction between the block and the plane is 0.2. a) What work does the force F perform and what has been the work done against friction?.
+b) Calculate the increase in the kinetic energy of the block and the increase in its potential energy.
 
 
 
@@ -2262,15 +2126,9 @@ Il conducente di un treno sotterraneo di 40 metri. di lunghezza che corrisponde 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the categories of vehicles that are subject to the approval of the Commission:
+**Local 37 - Rauch (Subway train, braking acceleration)**
 
-The driver of a 40m subway train. of a length running at 15 m/s, apply the 50 m brakes before entering a station with a platform measuring 100 m. of length. Calculate between which values (minimum and maximum) the braking acceleration should be found, so that the train stops within the platform limits.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The driver of a subway train 40 m long traveling at 15 m/s must apply the brakes 50 m before entering a station whose platform is 100 m long. Calculate between what values (minimum and maximum) the braking acceleration must lie, so that the train stops within the limits of the platform.
 
 
 
@@ -2323,24 +2181,17 @@ d) realizzare i grafici spaziotempo per i segmenti DE, EF e FG. (Figura: grafico
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented in accordance with the common position.
+**Local 38 - Dolores (Space-time graph)**
 
-He studies the graphics and answers:
-(a) What kind of movement does each segment describe? - Why? - I don't know.
-(b) What is the distance travelled in each segment?
-(c) Where. Is there any higher speed?
-(d) To produce the space-time graphs for the DE, EF and FG segments. (Figure: graph v-t)
-
+Study the graph and answer:
+a) What type of motion does each segment describe? Why?
+b) What is the distance traveled in each segment?
+c) At what point is there greater speed?
+d) Draw the space-time graphs for segments DE, EF and FG. (figure: v-t graph)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p15_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -2381,18 +2232,12 @@ c) il lavoro della forza di rottura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official data sources:
+**Local 39 - Mar del Plata (Block force parallel to the floor)**
 
-A 50 kg block shall be subjected to a parallel force to the floor. The kinetic friction coefficient between the floor and the block is 0,4. Starting from rest it reaches a speed of 10 m/s after traveling 10 m. Calculate:
-(a) the change in kinetic energy.
-(b) the force applied to the block.
-c) the work of the friction force.
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A force parallel to the floor is applied to a 50 kg block. The coefficient of kinetic friction between the floor and the block is 0.4. Starting from rest, it reaches a speed of 10 m/s after traveling 10 m. Calculate:
+a ) the change in kinetic energy.
+b ) the force applied to the block.
+c ) the work of the friction force.
 
 
 
@@ -2538,20 +2383,14 @@ b) Se la particella dopo un giro ha acquisito una velocità di 4,10$^5$ m/s e do
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official data protection authorities.
+**Local 42 - San Fernando del Valle de Catamarca (Particle accelerator)**
 
-A device that accelerates atomic particles. The particles, when they leave, after a spin, collide with a wall of a certain material that makes them vibrate. Determine:
-(a) Calculate the length of the particle's path of 20 cm in diameter.
-(b) If the particle after a spin has acquired a speed of 4.10$^5$ m/s and after passing through the sample of 6.10$^{-3}$ m thickness exits at a speed of 2 x 10$^5$ m/s. Determine:
+A device that accelerates atomic particles. Upon leaving it, after traveling one turn, the particles collide with a wall made of a certain material that makes them vibrate. Determine:
+a) Calculate the length of the path of the particle with a diameter of 20 cm.
+b) If the particle, after one turn, has acquired a speed of 4.10$^5$ m/s and then, after passing through the sample of thickness 6.10$^{-3}$ m, exits with a speed of 2 x 10$^5$ m/s. Determine:
 (i) the acceleration,
-(ii) the time it takes to cross the sheet,
-(iii) draw the acceleration with appropriate scale and speed with time.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Particle Beam (object)|Particle Beam]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+ii) the time it takes to pass through the sheet,
+iii) draw, with an appropriate scale, the acceleration as a function of time and the speed as a function of time.
 
 
 
@@ -2590,17 +2429,11 @@ Qual è l'accelerazione del sistema?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. The following table shows the methodology used for calculating the value of the product:
+**Local 43 - D.F. Sarmiento (Block on block, pulley)**
 
-A block of mass of 200 grams. rests on another 800g mass. The assembly is dragged at a constant speed over an unpolished horizontal surface by a 250 gr mass block suspended as shown in Figure (a).
-The first 200gr block is separated and joined to the suspended block as shown in Figure (b).
+A block of mass 200 g rests on another block of mass 800 g. The assembly is dragged at constant velocity over a rough horizontal surface by a block of mass 250 g, suspended as shown in figure (a).
+The first 200 g block is separated and attached to the suspended block as shown in figure (b).
 What will the acceleration of the system be now?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -2635,15 +2468,9 @@ Il fascio uniforme AB è lungo 4 m e pesa 100 kgf. Il viglio si trova su A e pu�
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall, by means of implementing acts, adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+**Local 44 - Mar del Plata (Uniform beam, equilibrium)**
 
-The AB uniform beam is 4 m long and weighs 100 kgf. The beam rests on A and can rotate around the point C. A 75-pound man walks along the beam starting from A. Calculate the maximum distance a man can walk from A while maintaining balance. (Figure, 2.5 m, C, B)
-
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The uniform beam AB is 4 m long and weighs 100 kgf. The beam rests at A and can rotate around point C. A man weighing 75 kgf walks along the beam starting from A. Calculate the maximum distance the man can walk from A while maintaining equilibrium. (figure, 2.5 m, C, B)
 
 
 
@@ -2832,17 +2659,11 @@ Quanto dura il viaggio?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with Article 107 (1) TFEU.
+**Local 48 - Ibarreta (Formosa-Pirane-Ibarreta Bus)**
 
-A collective leaves Formosa at 0:30 to Pirane -100 KM.- at 60 km/h. It arrives for 15 minutes and leaves at an acceleration of 200 km/h$^2$ to commander Fontana -41 km- where for 5 minutes and continues the journey to Ibarreta -202 km from Formosa - at 70 km/h.
-What time does he arrive at Ibarreta?
-How long is the trip?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A bus leaves Formosa at 0:30 toward Pirane -100 KM.- at 60 km/h. It arrives and stays for 15 minutes, then leaves with an acceleration of 200 km/h$^2$ until Comandante Fontana -41 km- where it stops for 5 minutes and continues the trip to Ibarreta -202 km from Formosa- at 70 km/h.
+What time does it arrive at Ibarreta?
+How long does the trip last?
 
 
 
@@ -2885,19 +2706,13 @@ d) A che velocità porta la pietra a 5,5 secondi?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures.
+**Local 49 - Caseros (Honda, vertical stone)**
 
-A child sitting on the floor throws a stone vertically up with a hove with $v=30$m/s to fall at rest into a tree cloud at 50m. of height. (We disregard the length of the honda).
-(a) How high does the stone reach?
-(b) From what height did you throw the stone at him?
-(c) Where is the stone at its maximum height (0.5 sec)?
-(d) What speed does the stone travel at 5.5 seconds?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A boy sitting on the ground launches a stone vertically upward with his sling at $v=30$ m/s so that it comes to a complete rest in a leaf cluster of a tree at 50 m height. (We neglect the length of the sling).
+a) What height does the stone reach?
+b) From what height did he project the stone on the ground?
+c) Where is the stone at its maximum height (0.5 s)?
+d) What speed does the stone have at 5.5 s?
 
 
 
@@ -2936,17 +2751,11 @@ b) Se è necessario inviare provviste a tale popolazione da un aereo che vola ad
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with the objectives of the programme.
+**Local 50 - San Nicolas (Snow, airdrop of supplies)**
 
-In the main, the city of Rio Gallegos was covered in snow. The thermal sensation was 27° below zero. It was declared an emergency zone. The airport was temporarily closed.
-(a) Expresses the temperature in °F.
-(b) If supplies are to be sent to the population by means of an aircraft flying at 2940 m altitude and 200 km/h, how many metres before arriving at the place must the supplies be thrown?
-
-**Topic:** [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+In the mountain range, the city of Rio Gallegos was covered by snow. The wind chill was 27 degrees below zero. It was declared an emergency zone. The airport was temporarily closed.
+a) Express the temperature in °F.
+b) If supplies need to be sent to that population by means of a plane flying at a height of 2940 m and a speed of 200 km/h, how many meters before arriving at the place should it drop the supplies?
 
 
 
@@ -3051,18 +2860,12 @@ c) realizzare grafici di posizione-tempo, velocità-tempo e accelerazione-tempo 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the application of this Regulation to the Member States.
+**Local 52 - Bahia Blanca (Police car, offender)**
 
-A police car is trying to catch a criminal who is moving at a constant speed of 125 km/h. Assuming that the police mobile leaves the rest, at the same moment the offender advances it, with a constant acceleration of 8 km/s until it reaches its maximum speed of 190 km/h, which then keeps constant.
-(a) Determine the time required for the police car to reach the offender.
-(b) Determine the distance travelled by the patrolman to reach the offender.
-(c) To perform position-time, speed-time and acceleration-time charts for both vehicles. Identifying in the first two the magnitude required in the previous questions.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A police car intends to catch an offender who is traveling at a constant speed of 125 km/h. Assuming that the police vehicle starts from rest, at the same instant in which the offender passes it, with a constant acceleration of 8 km/sec until reaching its maximum speed of 190 km/h, which it then maintains constant.
+a) Determine the time required for the police car to catch the offender.
+b) Determine the distance traveled by the patrol car until it catches the offender.
+c) Draw position-time, velocity-time and acceleration-time graphs for both vehicles. Identifying in the first two, the quantities required in the previous questions.
 
 
 
@@ -3155,15 +2958,9 @@ La distanza tra il centro del pianeta Giove e uno dei suoi satelliti è 27 volte
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 54 - Capital Federal (Jupiter, satellite, gravity)**
 
-The distance between the center of Jupiter and one of its satellites is 27 times its radius. The satellite describes a circular orbit with a period $V=100$ m/sec and a launching rate of 30 °. Calculate the acceleration of gravity on the surface of Jupiter, knowing that its radius is 71000 km.
-
-**Topic:** [[Gravitation]]
-**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]], [[Satellite (object)|Satellite]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The distance between the center of the planet Jupiter and one of its satellites is 27 times its radius. Said satellite describes a circular orbit with period $V=100$ m/sec and a throw of 30 °. Calculate the acceleration of gravity on the surface of Jupiter, knowing that its radius is 71000 km.
 
 
 
@@ -3204,18 +3001,10 @@ A che punto deve essere sparo il proiettile per fargli colpire il proiettile?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009.
+**Local 55 - Corrientes (Projectile and antiprojectile)**
 
-From a certain point A a projectile is launched with $V=100$ m/sec and a shooting angle of 30°. From a point B, located in the same horizontal straight as A, and 700 m away from it, a projectile is launched vertically upwards, with $V=60$ m/sec.
-What time should the anti-ballistic be fired so that as it ascends, it hits the projectile?
-
-
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+From a certain point A, a projectile is launched with $V=100$ m/s and a firing angle of 30°. From a point B, located on the same horizontal line as A, and 700 m away from it, an antiprojectile is launched vertically upward with $V=60$ m/s.
+At what instant must the antiprojectile be fired so that, as it ascends, it collides with the projectile?
 
 
 
@@ -3258,19 +3047,10 @@ b) Se il camion attraversa il ponte grande e la cassa è attaccata al camion con
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the agreement.
+**Local 56 - General Pico (Trailer, box, truck)**
 
-The figure trailer shall travel at a speed of 90 km/h if the static friction coefficient ($\mu$) between the trailer and the box is 0,15; determine:
-(a) The minimum distance to be accelerated to prevent the box from running
-(b) If the truck crosses the main bridge and the box is attached to the truck with a rope, what is the tension of the truck? (pictured truck)
-
-
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The trailer in the figure must travel at a speed of 90 km/hour; if the coefficient of static friction ($\mu$) between the trailer and the box is 0.15, determine:
+a) The minimum distance over which it must accelerate to prevent the box from sliding b) If the truck travels across the large bridge and the box is tied to the truck with a rope, what is the tension in it. (figure truck)
 
 
 
@@ -3543,24 +3323,18 @@ h) A che frequenza si farà il risonamento del circuito? y Q?.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall, in accordance with Article 21 of Regulation (EC) No 1272/2009, adopt implementing acts laying down the rules on the application of this Regulation.
+**Local 61 - Capital Federal (Electric motor, power factor)**
 
-An electric motor of 2 HP for 220 V of single-phase alternating current of $f=50$ Hz frequency is used to lift a 50 kg body at a constant speed.
-(a) Find the speed at which the body is lifting.
-(b) A voltage meter connected to the engine terminals indicates 1760 W, what is the engine performance?
-(c) What energy in Kwh will the engine consume when lifting the body 40 meters?
-d) An ampere connected to the circuit gives a reading of 10 A, what is the engine power factor?
-(e) Correction of the power factor $\cos\varphi=0,9$ in arrears by a capacitor battery.
-(f) Find the percentage of line current reduction after the power factor has been corrected.
-(g) To represent an electrical circuit representing the situation in question by connecting the instruments, the load and the capacitor battery accordingly.
-(h) How often will the circuit resonate? y Q?.
-(i) What equality could be achieved by the readings (and corresponding calculations) of the instruments in the previous case? Consider ideal instruments.
-
-**Topic:** [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]], [[Battery (object)|Battery]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A 2 HP electric motor for 220 V single-phase alternating current with frequency $f=50$ Hz is used to lift a 50 kg body at constant speed.
+a) Find the speed at which the body rises.
+b) A voltmeter connected to the motor terminals reads 1760 W; what is the efficiency of the motor?
+c) What energy in kWh will the motor consume when lifting the body 40 meters?
+d) An ammeter connected in the circuit gives a reading of 10 A; what is the power factor of the motor?
+e) Correct the power factor $\cos\varphi=0,9$ lagging by means of a capacitor bank; what should the capacitance be?
+f) Find the percentage reduction of the line current after the power factor has been corrected.
+g) Represent an electrical circuit that represents the situation described, connecting the instruments, the load and the capacitor bank as appropriate.
+h) At what frequency will the circuit resonate? And Q?
+i) What equality could be obtained by means of the readings (and corresponding calculations) of the instruments in the previous case? Consider ideal instruments.
 
 
 
@@ -3718,29 +3492,17 @@ A 12 V battery (with internal R) feeds via cables that have an R=2W to a 16 W po
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 64 - Comodoro Rivadavia (Condensatore piano, dielettrico) **
+**Locale 64 - Comodoro Rivadavia (Condensatore piano, dielettrico)**
 
-¿ Cual será la capacidad de un condensador plano cuyas placas poseen una superficie de 3500 cm$^2$ y están entre sí a una distancia de 4 mm ?
-E se gli viene scambiato un dieletrico di valore 4,2 ?
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Quale sarà la capacità di un condensatore piano le cui armature hanno una superficie di 3500 cm$^2$ e sono tra loro a una distanza di 4 mm?
+Cosa succede se vi si interpone un dielettrico di valore 4,2?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local 64 - Comodoro Rivadavia (Condensador plano, dielectrico)**
+**Local 64 - Comodoro Rivadavia (Parallel-plate capacitor, dielectric)**
 
-¿ Cual será la capacidad de un condensador plano cuyas placas poseen una superficie de 3500 cm$^2$ y están entre sí a una distancia de 4 mm ?
-What happens if you get a 4.2-value dielectric ?
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+What will be the capacitance of a parallel-plate capacitor whose plates have an area of 3500 cm$^2$ and are separated from each other by a distance of 4 mm?
+What happens if a dielectric with a value of 4.2 is inserted between them?
 
 
 
@@ -3775,15 +3537,9 @@ Due sfere di uguali radii e pesi sono sospesi da fili in modo che le loro superf
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with Article 107 (1) TFEU.
+**Local 65 - San Salvador de Jujuy (Charged spheres, threads)**
 
-Two spheres of equal radii and weights are suspended from threads so that their surfaces touch. After communicating a charge of $q=4.10^{-7}$C they have been repelled and distanced forming the threads an angle of 60°. Find the weight of the spheres if the distance from the point of suspension to the center of the sphere is 20 cm.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]], [[Point Charge (object)|Point Charge]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Two spheres of equal radii and weights are suspended by threads in such a way that their surfaces touch. After giving them a charge of $q=4.10^{-7}$C they have repelled and moved apart, with the threads forming an angle of 60°.Find the weight of the spheres if the distance from the suspension point to the center of the sphere is 20 cm.
 
 
 
@@ -3822,17 +3578,11 @@ b) Indicare come inserire nel circuito elettrico le due lampade dei freni anteri
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to ensure that the Commission is able to take appropriate measures to ensure that the measures are implemented in accordance with the objectives of the programme.
+**Local 66 - Capital Federal (Toy electric car, internal resistance)**
 
-They want to design an electric toy car to develop a speed of 0.5 m/s. The dynamic coefficient of friction is 0,1 and the mass 2 kg. The car weighs 0.5 Ω, with an ohmic resistance of 100 W, and has an efficiency of 82%.
-(a) Find the voltage to be delivered by a source with an internal resistance of 9 W, to meet the design requirement.
-(b) indicate how the two lamps of the front brakes would be placed in the electrical circuit, knowing that the resistance is 36 W, so that the speed is altered as little as possible when switched on.
-
-**Topic:** [[Circuits]], [[Newtonian Mechanics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+An electric toy car is to be designed to reach a speed of 0.5 m/s. The coefficient of dynamic friction is 0.1 and the mass is 2 kg. The car has a motor of 0.5 Ω, with an ohmic resistance of 100 W, and has an efficiency of 82%.
+a) Find the voltage that a source with an internal resistance of 9 W must deliver, to meet the design requirement.
+b) Indicate how you would place in the electrical circuit the two front brake lamps, knowing that the resistance is 36 W, so that the speed is altered as little as possible when they are turned on.
 
 
 
@@ -3875,19 +3625,13 @@ e) Se la forza Q1 - Q3 calcolata in d) aumenta 4 volte, la distanza Q1 - Q3 aume
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to cover the costs of the operation of the airport.
+**Local 67 - San Fernando del Valle de Catamarca (Three point charges)**
 
-Three spot electric charges Q1, Q2 and Q3 are placed on an isolated table as shown in the figure. The medium surrounding the loads is air and the distance between them is indicated. Knowing that the force with which Q1 and Q2 loads are attracted is positive:
-(b) If Q1 and Q3 approach each other until they are separated by 16 cm, how many times does the distance between them decrease?
-(c) If the force between Q2 and Q3 is 1.5*10$^{-2}$ N and what will be the value changes the distance by 16 cm.
-(d) Assuming only Q3 varies from 5 x 10$^{-6}$ and for Q2 from 4 x 10$^{-6}$, what value does the force of attraction take between the two?
-(e) If the force Q1 - Q3 calculated in d) increases 4 times, the distance Q1 - Q3 increases or decreases ?, how many times ?, what is then its new value? (Figure, 8 cm, 81 cm, Q1 Q2 Q3)
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Three point electric charges Q1, Q2 and Q3 are placed on an insulated table as shown in the figure. The medium surrounding the charges is air and the distance separating them is indicated. Knowing that the force with which charges Q1 and Q2 attract each other is positive:
+b) If Q1 and Q3 are brought closer until they are separated by 16 cm, by how many times does the distance between them decrease?
+c) If the force between Q2 and Q3 is 1.5*10$^{-2}$ N and what will be the value changes the distance from 16 cm.
+d) Assuming only Q3 varies from 5 x 10$^{-6}$ and for Q2 from 4 x 10$^{-6}$ what value does the force of attraction between them take?
+e) If the force Q1 - Q3 calculated in d) increases 4 times, does the distance Q1 - Q3 increase or decrease?, by how many times?, what is then its new value? (figure, 8 cm, 81 cm, Q1 Q2 Q3)
 
 
 
@@ -3976,17 +3720,9 @@ Dada la siguiente figura, calcular $R_3$. (figura: 600V, $R_1=1\Omega$, $R_2=2\a
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Local 69 - Reds (Hallar R3) **
+**Locale 69 - Rojas (Trovare R3)**
 
-Se si considera che il valore di $R_3$ sia inferiore a quello di $R_3$, calcola la figura seguente: (Figura: 600V, $R_1=1\Omega$, $R_2=2\alpha$, $R_3=$, $E=30$A)
-
-
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Data la seguente figura, calcolare $R_3$. (figura: 600V, $R_1=1\Omega$, $R_2=2\alpha$, $R_3=$?, $E=30$A)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -4047,21 +3783,15 @@ f) Indicare la resistenza del generatore.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local 70 - Capital Federal (DC motor, lamps)**
 
-A C.C. engine . a power output of 736 W and 84% is connected in parallel to 5 25W/200V lamps operating at rated voltage, supplied by an internal resistance fem $\varepsilon=250$V generator r(Ω.
-(a) represent the circuit.
-(b) What current is circulating in the circuit?
-(c) What current is flowing through the engine?
-(d) What current is flowing through each lamp?
-(e) What is the energy absorbed by the engine in 20 minutes and what is delivered?
-(f) Determine the resistance of the generator.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A 736 W DC motor with an efficiency of 84% is connected in parallel with 5 lamps of 25W/200V which operate at nominal voltage, supplied by a generator with emf $\varepsilon=250$V, with internal resistance r(Ω).
+a) Represent the circuit.
+b) What current flows through the circuit?
+c) What current flows through the motor?
+d) What current flows through each lamp?
+e) What is the energy absorbed by the motor in 20 minutes and what is the energy delivered?
+f) Find the resistance of the generator.
 
 
 
@@ -4501,25 +4231,17 @@ d) La temperatura finale del sistema. (fig. cilindro-pistone-risorsa, Q1)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has not yet adopted any new regulatory framework for the provision of electricity to the public.
+**Local 78 - Florida (Gas in cylinder, piston, spring)**
 
-It has a system like that of the figure which is located at P1 = 1atm and T1=27°C and has inside it a mol of air. If we let heat pass 30 centimeters it does not allow the passage through it of mass or heat. Hot air in Q1 added to the system until the mobile is compressed 10cm from its initial position, after which the system state is defined by P2 and P2. The constant "k" of the dock is 20 kg/cm and the atmospheric conditions are P0=1atm and T0=27oC.
-I 'm not going to lie .
-(a) The energy accumulated by the dock
-(b) The work carried out by the system.
-(c) Increased internal energy.
-(d) The final temperature of the system. (Figure cylinder-piston-resort, Q1)
-
+There is a system like the one in the figure, which is at P1 = 1 atm and T1 = 27°C and has one mole of air inside. If we let heat pass through 30 cm, it does not allow the passage of mass or heat through it. The air heat in Q1 added to the system until the movable part is compressed 10 cm with respect to its initial position, after which the state of the system is defined by P2 and P2. The spring constant "k" is 20 kg/cm and the atmospheric conditions are P0 = 1 atm and T0 = 27°C.
+Find:
+a) The energy stored by the spring b) The work done by the system.
+c) The increase in internal energy.
+d) The final temperature of the system. (figure cylinder-piston-spring, Q1)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p26_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]], [[Conservation of Energy]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -4566,21 +4288,15 @@ e) Se la temperatura aumenta 2,33 °K all'ora, quanto tempo avrà la polizia per
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the spread of the virus.
+**Local 79 - San Fernando del Valle de Catamarca (Terrorist, thermometer and explosive)**
 
-Hassan Al Kilo, a known international terrorist, is in Nosolandia, a world power he is a prominent militant for. Their mission is to place a powerful explosive in the Government House to avenge their imprisoned compatriots.
-The explosive is constructed in such a way that it will be activated when the ambient temperature reaches at least 32°C. To accomplish his mission Hassan was only able to get a graduated thermometer from 0 to 250 degrees on a scale that is referred to. Could you please ? control the following questions that torment Hassan?
-(a) What scale was used to grade the thermometer if when placed on mercury-melting ice it is located on mark 32?
-(b) What is the temperature in degrees Celsius of the place if at 0.0900h? The mercury column is located on mark 70?
-(c) A maximum of 95 degrees is forecast in a very small area.
-d) How many degrees Kelvin will the difference in degrees Celsius between the temperature of 0.0900 hrs and the critical temperature be equal?
-(e) If the temperature rises 2,33 °K per hour, how long will the police have to deactivate the explosive?
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Manometer (object)|Manometer]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Hassan Al Kilo, a known international terrorist, is in Nosolandia, a world power of which he is a prominent militant. His mission consists of placing a powerful explosive in the Government House to avenge his imprisoned compatriots.
+The explosive is built in such a way that it will activate when the ambient temperature reaches at least 32°C. To carry out his mission Hassan could only get a thermometer graduated from 0 to 250 degrees on a scale that is referred to. Could you check the following questions that torment Hassan?
+a) What is the scale that was used to graduate the thermometer if when placing it in melting ice the mercury is at the 32 mark?
+b) What is the temperature in degrees Celsius of the place if at 0.0900 hs. the mercury column is at the 70 mark?
+c) In a very early local forecast a maximum of 95 degrees is forecast. Will the operation be able to be carried out that day?
+d) How many Kelvin degrees will the difference in degrees Celsius between the temperature at 0.0900 hs and the critical temperature be equivalent to?
+e)- If the temperature increases 2.33 °K per hour, how much time will the Police have to deactivate the explosive?
 
 
 
@@ -4713,15 +4429,9 @@ Un mol di gas ossigeno viene riscaldato a una temperatura di 20°C e a una press
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with the opinion of the European Parliament and of the Council.
+**Local 82 - Comodoro Rivadavia (Mole of oxygen, heat)**
 
-One mole of oxygen gas is heated from a temperature of 20°C and a pressure of 1 atm. up to a temperature of 100°C. Assuming oxygen gas is an ideal gas: (a) How much heat should be supplied if the volume is kept constant during heating? (b) How much heat should be supplied if the pressure is kept constant ? (c) How much work will the gas do in Part (b)?
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+One mole of oxygen gas is heated from a temperature of 20°C and a pressure of 1 atm to a temperature of 100°C. Assuming that oxygen gas is an ideal gas: a) How much heat must be supplied if the volume is kept constant during heating? b) How much heat must be supplied if the pressure is kept constant? c) How much work will the gas perform in part b)?
 
 
 
@@ -4828,19 +4538,13 @@ Sull'asse ottico di uno specchio sfero concavo di 60 cm di raggio e a 45 cm di d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the official languages of the European Union:
+**Local 84 - Villa Carlos Paz (Concave spherical mirror)**
 
-Above the optical axis of a concave spherical mirror with a radius of 60 cm and 45 cm from the mirror, an object of 20 cm in height is located.
-1) Draw a drawing depicting the situation.
-2) How far from the mirror is the image formed?
-3) How high will the image be?
-4) The image shall be real or virtual. Justify your answer.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+On the optical axis of a concave spherical mirror with a radius of 60 cm and at 45 cm from said mirror, an object 20 cm tall is placed.
+1) Make a drawing representing the situation described.
+2) At what distance from the mirror is the image formed?
+3) What height will the image have?
+4) The image will be real or virtual. Justify your answer.
 
 
 
@@ -5092,21 +4796,15 @@ f) Grafica.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2009. The following table shows the results of the calculation of the total cost of the project:
+**Local 89 - D.F. Sarmiento (Lens, smaller and virtual image)**
 
-A 20 cm object. of a height of 60 cm. It's a smaller image than it is and it's virtual. If the focal length is 30 cm, determine:
-(a) What kind of lens is it and why?
-(b) What is the position of the image?
-(c) What is the height of the image?
-(d) What power does the lens have?
-(e) What is the increase in lens?
-(f) Drawing.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+An object 20 cm tall located 60 cm from a lens produces an image smaller than it and virtual. If the focal length is 30 cm, determine:
+a) What type of lens is it and why?
+b) What is the position of the image?
+c) What is the height of the image?
+d) What power does the lens have?
+e) What is the magnification of the lens?
+f) Graph.
 
 
 
@@ -5151,20 +4849,13 @@ Dato un gioco di vetro, il cui indice di refraczione è di 1,5 e di acqua, il cu
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages: Sarmient (Glass and water, angle of incidence)**
+**Local 90 - D.F. Sarmiento (Glass and water, angle of incidence)**
 
-Given a glass set, whose refractive index is 1.5 and water, whose refractive index is 1.3, surrounded by air, as shown in the figure. Calculate the angle at which the beam must strike the face AB so that it emerges parallel to the upper face CD. (Figure B, C, D, glass, water, air)
-
+Given a set of glass, whose refractive index is 1.5, and water, whose refractive index is 1.3, surrounded by air, as shown in the figure. Calculate the angle at which the ray must be incident on face AB so that it emerges parallel to the upper face CD. (figure B,C,D, glass, water, air)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p30_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -5199,15 +4890,9 @@ L'indice di refraczione di un prisma di un raggio monocromatico determinato ques
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the countries of the European Union and of the countries of the European Union.
+**Local 91 - Mar del Plata (Index of refraction, prism)**
 
-The refractive index of a prism of a monochrome beam determined this beam over the face of the prism, for a given angle of incidence. The angle of the rectangular prism is 60°. At what angle does the lightning beam emerge, measured over the face of the prism, so that after it is transmitted through the other, light is emitted through neither face?
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The index of refraction of a prism for a given monochromatic ray [is determined by directing] this ray onto the face of the prism, for a given angle of incidence. The angle of the rectangular prism is 60°. At what angle does it emerge, measured by the ray on the face of the prism, so that after being transmitted through the other it lets no light out through any of the faces?
 
 
 
@@ -5242,15 +4927,9 @@ Pescare che misura 1,80 m Verticalmente dall'aria, il fondo di una piscina d'acq
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures taken are implemented in accordance with the objectives of the programme.
+**Local 92 - Ibarreta (Oscar, pool depth)**
 
-A fish that measures 1.80 m vertically from the air, the bottom of a pool of water and water, that you're going to be able to enter, because I see that the depth is 1.50 m and it doesn't matter that you don't know how to swim. What 's really going on ?
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+OSCAR, WHO IS 1.80 M TALL, LOOKS VERTICALLY FROM THE AIR AT THE BOTTOM OF A POOL OF WATER AND THINKS, LUCKY ME I'LL BE ABLE TO GET IN, BECAUSE I SEE THAT THE DEPTH IS 1.50 M AND IT DOESN'T MATTER THAT I DON'T KNOW HOW TO SWIM. WHAT ACTUALLY HAPPENS?
 
 
 
@@ -5397,19 +5076,13 @@ Dati: densità del sangue umano: 1,05.10$^3$ Kg.m$^3$. Densità del sangue della
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' national health authorities:
+**Local 95 - Capital Federal (Blood pressure, giraffe)**
 
-A person has a blood pressure of 105 mm/Hg measured in his arm. If you stand upright and your heart is 1.40 meters above your feet, and your head is 40 centimeters above your heart.
-What would your blood pressure be measured in your foot and head?
-What conclusions can you draw?
-A giraffe has a neck so long that it has its head 3 meters above the heart of this animal, and it takes a pressure of 60 mm Hg to move it through the heart to that height.
-The data are based on the data of the human blood density: 1.05.10$^3$ Kg.m$^3$. Density of the giraffe's blood: 1.03.10$^3$ Kg.m$^3$. $g=9,81$ m.s$^2$. 1 mm Hg = 133,3 N.m$^2$.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A person has a blood pressure of 105 mm/Hg measured in their arm. If they remain upright and their heart is 1.40 m above the level of their feet, and their head is 40 cm above the heart.
+What would their blood pressure be measured at the foot and at the head?
+What conclusion can you draw?
+A giraffe has such a long neck that its head is 3 m above the animal's heart; a pressure of 60 mm Hg is needed to move it through the heart up to that height.
+Data: Density of human blood: 1.05×10$^3$ Kg.m$^3$. Density of giraffe blood: 1.03×10$^3$ Kg.m$^3$. $g=9,81$ m.s$^2$. 1 mm Hg = 133.3 N.m$^2$.
 
 
 
@@ -5466,26 +5139,19 @@ d) Calcolare il tempo che il cronometro segnerà.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall, in accordance with Article 21 of Regulation (EC) No 1272/2009, adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+**Local 96 - Capital Federal (Optical system, prism, mirror, chronometer)**
 
-It has an optical system similar to that of the figure. This consists of a laser light source that sends a beam, such that it normally hits the base of a straight prism of 45° and 10cm on the side. The prism is constructed of acrylic material, the refractive index of which is $n=1,5$ and is 60 cm from the light source. At 50 cm from the prism, a mirror with a perpendicular axis is placed, so that it can rotate in the plane of the leaf. A chronometer is placed next to the laser, which is activated when a light beam is detected and deactivated when another light beam is detected (initially activated).
-Find out:
-(a) The speed of light in the prism.
-(b) Indicate the path of lightning within the prism. Justify it.
-(c) Calculate the angle (with respect to the horizontal) that the mirror must have to return the lightning to the same point from which it started.
-(d) Calculate the time to be marked by the chronometer.
-(e) Indicate the full path of the beam. (Figure: 50 cm, 5 cm, $n=1,5$, 40 cm, Axis, Mirror, Laser; Space $C=300000$ Km/s)
-
+An optical system like the one in the figure is available. It consists of a laser light source that sends a ray, such that it strikes normally the base of a right prism of 45° and 10 cm side. The prism is made of acrylic material, whose refractive index is $n=1,5$ and is 60 cm from the light source. At 50 cm from the prism, a mirror is located with a perpendicular axis, such that it can rotate in the plane of the page. Together with the laser, a chronometer is placed that activates when it detects a light ray and deactivates when it detects another light ray (it is initially activated).
+Find:
+a) Speed of light in the prism.
+b) Indicate the path that the ray will follow inside the prism. Justify.
+c) Calculate the angle (with respect to the horizontal) that the mirror must have so that the ray returns to the same point from which it started.
+d) Calculate the time that the chronometer will show.
+e) Indicate the complete path of the ray. (figure: 50 cm, 5 cm, $n=1,5$, 40 cm, Axis, Mirror, Laser; Space $C=300000$ Km/s)
 
 <!--fig:start-->
 ![[Cuadernillo_1995_p31_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]], [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
 
 
 
@@ -5563,15 +5229,9 @@ Una sfera di piombo (calore specifico = 0,03 cal/g °C) di 100 g è a una temper
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the types of waste and the waste and the types of waste and the waste.
+**Local 98 - Resistance (Lead sphere, ice)**
 
-A lead ball (specific heat = 0,03 cal/g °C) of 100 g is at a temperature of 30 °C. It is launched vertically upwards at an initial speed of 400 m/s. On his way back to the starting point, he collided with a mass of ice. What mass of ice did I melt? (assuming all the energy from the shock is converted to heat)
-
-**Topic:** [[Conservation of Energy]], [[Thermodynamics]]
-**Metodi:** [[Conservation of Energy (metodo)|Conservation of Energy]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+A lead sphere (specific heat = 0.03 cal/g °C) of 100 g is at a temperature of 30 °C. It is thrown vertically upward with an initial velocity of 400 m/s. On returning to the starting point it collides with a mass of ice. What mass of ice did it melt? (assume that all the energy of the collision is transformed into heat)
 
 
 
@@ -5835,18 +5495,12 @@ Il materiale da utilizzare per la determinazione è il dado, che consiste in: un
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States that have been granted the right to use the information they have obtained:
+**Local Exp 103 - Mar del Plata (Density of irregular sheet metal)**
 
-Determine for the irregular plate, of a thickness of 0,76 mm, that it has been delivered:
-(a) density.
-(b) the surface.
-The material to be used for determination is the die, which consists of: a scale, a scissor, a rule.
-
-**Topic:** [[Elasticity & Materials]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Determine for the irregular sheet metal, with a thickness of 0.76 mm, that has been given to you:
+a) the density.
+b) the surface area.
+The material to be used for the determination is the one given, which consists of: a balance, scissors, a ruler.
 
 
 
@@ -5970,15 +5624,9 @@ Esperienza: determinare il peso specifico del NAFTA. MATERIALI: RECIPIENTITÀ co
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of samples taken:
+**Local Exp 106 - Ibarreta (Specific weight of gasoline)**
 
-Experience: Determining the specific weight of NAFTA. The Commission has also adopted a number of proposals for the establishment of a European Union-wide network of transport infrastructure providers.
-
-**Topic:** [[Fluid Mechanics]], [[Order-of-Magnitude Estimation]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+EXPERIMENT: DETERMINE THE SPECIFIC WEIGHT OF GASOLINE. MATERIALS: CONTAINERS WITH GASOLINE, WITH WATER, PLASTIC CUPS, TWO-PAN BALANCE, WEIGHTS.
 
 
 
@@ -6083,18 +5731,12 @@ b) Configgere una tabella con i dati che si ottengono e fare un grafico.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' official languages:
+**Local Exp 108 - Gualeguaychu (Uniform motion, graph)**
 
-Elements: ball, rail, timing, rule.
-Make the ball move over the rails with uniform movement.
-(a) How could you verify this?
-b) Make a table with the data you get and draw a graph.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Elements: small ball, metal rail, stopwatch, ruler.
+Make the small ball move along the rail with uniform motion.
+a) How could you verify it?
+b) Prepare a table with the data you obtain and make a graph.
 
 
 
@@ -6180,19 +5822,13 @@ d) Il valore della resistenza contenuta nella scatola rimanente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the measures to be taken to ensure that the measures are implemented in accordance with the conditions laid down in Article 107 (1) of the Treaty.
+**Local Exp 110 - Mar del Plata (Electric circuit, black boxes)**
 
-The electrical circuit delivered has its resistance to the indicated values, and the black boxes indicated by the letters A and B can be a power supply and resistance or vice versa. The digital voltmeter you are given will allow you, after making some measurements:
-(a) Identify the correct letter of the box which is the power supply, indicating the portion of the box.
-b) The power that dissipates each resistance.
-c) The black box that delivers to the battery circuit.
-d) The value of the resistance contained in the remaining box.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+The electric circuit provided has its resistors with the indicated values, and the black boxes indicated with the letters A and B can be a power supply and a resistor or vice versa. The digital voltmeter provided to you will allow you, after making some measurements:
+a ) Identify the correct letter of the box that is the power supply, indicating its potential.
+b ) The power dissipated by each resistor.
+c ) The black box that delivers to the circuit from the battery.
+d ) The value of the resistance contained in the remaining box.
 
 
 
@@ -6239,18 +5875,12 @@ c) Indicare le principali cause di errore sperimentale.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the Member States' national energy efficiency targets:
+**Local Exp 111 - Bahia Blanca (Refractive index, parallel faces)**
 
-Determine the refractive index of a regular parallel-faced body material using the elements provided and detailed below. Finally, a report on the task carried out and the results obtained.
-Foreseen elements: Regular body of parallel faces of transparent material. Millimeter rule and transporter. Pulleys, pencils and polystyrene board.
-Requested information:
-(a) To state the laws of optics which it considers applicable to experience.
-(b) If possible, propose alternative methods for determining the quantity requested.
-(c) To identify the main causes of experimental error.
-(d) To give an estimate of the experimental error of the measurement performed.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1yHQBGSQvLmMG7YYTf4WbgzzP-UmgW4ph/view)
+Determine the refractive index of the material of a regular body with parallel faces using the elements provided and detailed below. Finally, prepare a report on the task carried out and the results obtained.
+Provided Elements: Regular body with parallel faces made of transparent material. Millimeter ruler and Protractor. Pins, Pencil and Polystyrene board.
+Requested Information:
+a) State the laws of optics that you consider applicable to the experiment.
+b) If possible, propose alternative methods for determining the requested quantity.
+c) Mention the main causes of experimental error.
+d) Give an estimate of the experimental error of the measurement performed.

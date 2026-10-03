@@ -237,34 +237,20 @@ Fig. 3
 
 <div class="qlang-split" data-lang="en"></div>
 
-3. A cylindrical container with a straight section area of $300\ \text{cm}^2$ contains 3
-Moles of diatomic ideal gas ($C_V = 5R/2$) at the same pressure
-external. This container contains a piston that can move without friction and
-All walls are adiabatic except one which can be removed to
-The gas is in contact with a source that provides heat at a rate
-The following is the list of the most common types of waste: At a certain moment the gas suffers a
-The thermodynamic process illustrated in the PV diagram below and the piston if
-moves at a constant speed of $16,6\ \text{mm/s}$.
+3. A cylindrical container, with cross-sectional area $300\ \text{cm}^2$, contains 3 moles of an ideal diatomic gas ($C_V = 5R/2$) that is at the same external pressure. This container contains a piston that can move without friction and all the walls are adiabatic, except one that can be removed so that the gas comes into contact with a source that supplies heat at a constant rate (see figure 3). At a certain instant the gas undergoes a thermodynamic process illustrated in the PV diagram below and the piston moves with a constant speed of $16,6\ \text{mm/s}$.
 
-(a) What was the change in gas temperature after the
-$50\ \text{s}$?
+a) What was the temperature variation of the gas after
+$50\ \text{s}$ have elapsed?
 
-(b) Obtain the amount of heat transferred to the gas during that time
-time intervals.
+b) Obtain the amount of heat transferred to the gas during this time interval.
 
-The following is the list of the countries of the European Union:
-1,0
+P(atm)
+1.0
 $V_1$
 $V_2$
 V
 
 Fig. 3
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Cylinder (object)|Cylinder]], [[Piston (object)|Piston]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1A07q59VLu2msft9mG4etbJ61tyT3Qn-j/view)
 
 
 

@@ -108,44 +108,28 @@ $v_o$
 
 Problem 1: A transport problem
 
-A side cube $L$ and mass $M$ is deposited gently, instantly
-$t = 0\ \text{s}$, on a conveyor belt. The tape is in horizontal position.
-and moves, relative to the ground, at a constant speed $v_o$ (see figure). El
-The motor that moves the tape delivers the power needed to maintain its
-constant speed at any time. Between the base of the box and the
-the tape has a friction and its static and dynamic coefficients are $\mu_e$ and $\mu_d$,
-the Commission.
-In the instant $t = t_f$ the box reaches the speed of the tape, i.e. the
-relative speed between the tape and the case is zero.
+A cubic box of side $L$ and mass $M$ is gently deposited, at the instant
+$t = 0\ \text{s}$, onto a conveyor belt. The belt is horizontal and moves, relative to the ground, at constant speed $v_o$ (see figure). The motor that drives the belt delivers the power necessary to keep its speed constant at every instant of time. Between the base of the box and the belt there is friction and its static and dynamic coefficients are $\mu_e$ and $\mu_d$, respectively.
+At the instant $t = t_f$ the box reaches the speed of the belt, that is, the relative speed between the belt and the box is zero.
 
-Datos numéricos: $M = 4\ \text{kg}$, $\mu_d = 0{,}5$ , $v_o = 2\ \text{m/s}$ , $g = 9{,}8\ \text{m/s}^2$
+Numerical data: $M = 4\ \text{kg}$, $\mu_d = 0{,}5$ , $v_o = 2\ \text{m/s}$ , $g = 9{,}8\ \text{m/s}^2$
 
-The following:
+Questions:
 
-(a) Draw a drawing of the box with the forces acting on it when:
+a) Draw a diagram of the box with the forces acting on it when:
 
-(i) The case slides with respect to the conveyor belt. (1pt)
-(ii) The case has already acquired the same speed $v_o$ as the conveyor belt.
+i) The box slides relative to the conveyor belt. (1pt)
+ii) The box has already acquired the same velocity $v_o$ as the conveyor belt.
 (1pt)
-- **B.** Calculate the acceleration of the box.
-- **C.** Calculate the displacement of the box with respect to a fixed reference in
-The Commission has therefore decided to take the necessary measures to ensure that the
-the conveyor belt. The following is the list of the products:
-(d) Calculate the work performed by the dynamic brushing force. (1pt)
-(e) Calculate the power delivered by the engine to allow the tape to be
-Keep moving at constant speed.
-(f) Calculate the energy dissipated in the system.
-(g) Calculate the maximum value that the friction coefficient can have
-dynamic so that the box does not roll.
+- **B.** Calculate the acceleration of the box. (1pt)
+- **C.** Calculate the displacement of the box, with respect to a reference frame fixed to the ground, from when it is placed until it acquires the same velocity as the conveyor belt. (1.5pts)
+d) Calculate the work done by the dynamic friction force. (1pt)
+e) Calculate the power delivered by the motor to allow the belt to keep moving at constant velocity. (1pt)
+f) Calculate the energy dissipated in the system. (1.5pts)
+g) Calculate the maximum value that the coefficient of dynamic friction can have so that the box does not tip over. (2pts)
 
 $M$
 $v_o$
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1k5ibfhENUYxx_S9S9cc1h2ZfbTxpziGT/view)
 
 
 
@@ -264,33 +248,19 @@ $R$
 
 Problem 2: A heater
 
-A circuit is constructed with a voltage source $V = 1{,}5\ \text{V}$ (with
-resistencia interna $r = 2{,}5\ \Omega$), cuatro resistencias iguales de valor $R = 1\ \Omega$, y
-a resistance value of $R' = 2\ \Omega$ (see circuit in figure). On the circuit
-Three $L_1$, $L_2$ and $L_3$ switches connected to a selector are interchanged.
-allows different values of the power delivered by the source to be obtained; and
-dissolved in the five external resistances to the source, according to $L_1$, $L_2$ and $L_3$
-whether they are closed or open.
+A circuit is built with a voltage source $V = 1{,}5\ \text{V}$ (with internal resistance $r = 2{,}5\ \Omega$), four equal resistors of value $R = 1\ \Omega$, and a resistor of value $R' = 2\ \Omega$ (see the circuit in the figure). In the circuit, three switches $L_1$, $L_2$ and $L_3$ are inserted, connected to a selector that allows obtaining different values of the power delivered by the source, and dissipated in the five resistors external to the source, depending on whether $L_1$, $L_2$ and $L_3$ are closed or open.
 
-It asks:
+You are asked to:
 
-(a) With the keys $L_1$ closed and $L_2$ open, type the expression of the
-The potential difference between A and B, in terms of data from the
-problem, and calculate its value. The following is the list of the countries of the European Union:
-(b) Give all possible combinations of the $L_1$ key states,
-$L_2$ and $L_3$ (closed or open) for electrical circuits
-different (not equivalent). Calculate the resistance values
-equivalent of these circuits between points A and B. (including the following)
-(c) For the circuits in point (b) calculate the different values of the
-Total power dissipated in external resistors to the source.
-The following points are added:
-(d) Propose a possible combination of the $L_1$ and $L_2$ key states
-and $L_3$ (closed or open) and a value of $R'$ so that the total power
-Dispersed in external resistance to the source is the maximum
-It's possible. Calculate the value of that power. The following points are added:
+a) With switch $L_1$ closed and $L_2$ open, write the expression for the potential difference between A and B, in terms of the data of the problem, and calculate its value. (2pts)
+b) Give all possible combinations of the states of switches $L_1$,
+$L_2$ and $L_3$ (closed or open) that correspond to different (non-equivalent) electrical circuits. Calculate the values of the equivalent resistance of these circuits between points A and B. (3pts)
+c) For the circuits in point b), calculate the different values of the total power dissipated in the resistors external to the source.
+(2.5pts)
+d) Propose a possible combination of the states of switches $L_1$, $L_2$ and $L_3$ (closed or open) and a value of $R'$ so that the total power dissipated in the resistors external to the source is as large as possible. Calculate the value of said power. (2.5pts)
 
-Suggestion:
-It may be useful to know that the $f(x) = x + 1/x$ function has a minimum value in
+Hint:
+It may be useful to know that the function $f(x) = x + 1/x$ has a minimum value at
 $x = 1$.
 
 $R$
@@ -300,18 +270,11 @@ $R'$
 B
 A
 $V$
-$r$
-The source
+$r$ source
 $L_2$
 $L_3$
 $L_1$
 $R$
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1k5ibfhENUYxx_S9S9cc1h2ZfbTxpziGT/view)
 
 
 
@@ -430,54 +393,38 @@ $g = 9{,}8\ \text{m/s}^2$ ; $M = 29{,}0\ \text{g/mol}$ ; $R = 8{,}31\ \text{J/mo
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem 3: Oh, the balloon has burst!
+Problem 3: Oh no, the balloon burst!
 
-A globular, inflated balloon with a gas density less than that of air,
-rises vertically in the atmosphere for which the temperature $T$ in
-The height function $h$ is:
+A spherical balloon inflated with a gas of lower density than that of air rises vertically in the atmosphere for which the temperature $T$ as a function of height $h$ is:
 
 $$T = T_0 - \lambda h \,,$$
 
-where $T_0$ is the atmospheric temperature, in Kelvin degrees, at the level of
-the floor and $\lambda = 4\times10^{-3}\ \text{K/m}$ (value valid for the day of balloon lifting).
+where $T_0$ is the temperature of the atmosphere, in degrees Kelvin, at ground level and $\lambda = 4\times10^{-3}\ \text{K/m}$ (value valid for the day of the balloon's ascent).
 
-Suppose that:
+Assume that:
 
-1) The balloon is made of such a material that during the lift the pressure is
-The elasticity of this one remains negligible in the face of pressure.
-atmospheric.
-2) The air outside and the gas inside the balloon behave
-They're like ideal gases and they're in thermal equilibrium with each other.
-3) The density of the balloon's material does not depend on its thickness.
-4) The balloon is bent when the thickness of its wall reaches the value
-equal to half the initial thickness, i.e. inflated at ground level.
-5) The air pressure $p$ dependence on the temperature $T$ is
-given by
+1) The balloon is made of a material such that during the ascent its elastic pressure remains negligible compared to the atmospheric pressure.
+2) The air outside and the gas inside the balloon behave as ideal gases and are in thermal equilibrium with each other.
+3) The density of the balloon material does not depend on its thickness.
+4) The balloon bursts when the thickness of its wall reaches a value equal to half the initial thickness, that is, inflated at ground level.
+5) The dependence of the air pressure $p$ on the temperature $T$ is given by
 
 $$p(h) = p_0 \left(T / T_0\right)^{(Mg/R\lambda)} \,,$$
 
 where:
 
-$M$: mean molar mass of air.
-$g$: acceleration of the assumed constant gravity with $h$.
-$R$: universal constant of the ideal gases.
+$M$: average molar mass of air.
+$g$: acceleration of gravity assumed constant with $h$.
+$R$: universal constant of ideal gases.
 $p_0$: value of $p$ at ground level.
 
-It asks:
+Find:
 
-(a) Calculate the supporting force of the balloon. Show that this one doesn't
-It depends on the height you reach. The following is the list of the countries of the European Union:
-(Discount the volume of the balloon material versus the volume of the balloon
-inflated balloon).
-(b) Determine the temperature and height at which the balloon is rolled.
-Other
+a) Calculate the buoyant force on the balloon. Show that it does not depend on the height reached. (4 pts)
+(Neglect the volume of the balloon material compared to the volume of the inflated balloon).
+b) Determine the temperature and the height at which the balloon bursts.
+(6pts)
 
-The following data are available:
+Numerical data:
 
 $g = 9{,}8\ \text{m/s}^2$ ; $M = 29{,}0\ \text{g/mol}$ ; $R = 8{,}31\ \text{J/mol K}$ ; $T_0 = 293\ \text{K}$
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Bubble (object)|Bubble]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1k5ibfhENUYxx_S9S9cc1h2ZfbTxpziGT/view)

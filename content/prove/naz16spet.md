@@ -178,162 +178,157 @@ Per rispondere a questa domanda può essere di aiuto
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the products:
+INSTRUCTIONS:
 
-1. As soon as you are ready to leave, write your name and ID clearly on the card you have received along with the leaves and envelopes, large and small; then insert the card into the small envelope and close it. Put the closed envelope right now in the big one, which you'll eventually use to deliver all the sheets. After that, you won't have to write your name on any paper or envelopes, only your Student Code!
-2. Read the test text carefully.
-3. On each façade, write clearly up on the right:
-- your Student Code .
-- the page number
-- the total number of pages used.
-For example, p. 3 di 7
+1. As soon as you are given the go-ahead, write clearly your NAME and SURNAME on the card you received together with the sheets and the envelopes, large and small; then insert the card into the small envelope and close it. Immediately put the closed envelope into the large one, which you will use at the end to hand in all the sheets. Afterwards, you must NOT write your name on any sheet or on the envelopes, but only your Student Code!
+2. Read the text of the test carefully.
+3. On each page write clearly at the top right:
+   - your Student Code
+   - the page number
+   - the total number of pages used.
+   For example: page 3 of 7
 
-National competition  Experimental test  Thursday 14 April 2016  State High School "Medi", Senigallia (AN)  Time: 4 hours
+National Competition — Experimental Test — Thursday 14 April 2016 — Liceo Statale "Medi", Senigallia (AN) — Time: 4 hours
 
 General instructions
 
-We recommend that you read the following text carefully before you start working with the materials.
-You're not asked for a lab report, just a series of answers.
-Each answer must have its own summary and clear justification, even if it is not explicitly asked in the question.
-If significant measures are taken to improve a measurement, record them on the corresponding answer sheet.
-At the end of the test, insert the answers and the minutes into the appropriate envelope to be delivered.
+We advise you to read carefully all the following text before starting to work with the materials.
+You are not asked for a laboratory report, but only for a series of answers.
+Each answer must have its own concise and clear justification, even if it is not explicitly requested in the question.
+If, in order to improve a measurement, you adopt significant precautions, record them on the corresponding answer sheet.
+At the end of the test, insert the answer sheets and the draft into the appropriate envelope to be handed in.
 
-Latin in balance  Points 200
+CAN IN EQUILIBRIUM — 200 points
 
-The premise
+Preamble
 
-In this test, you're asked to study the balance of a can in different situations.
-Write your answers on the appropriate sheets, reporting the measures with their uncertainties, unless the text explicitly states not to evaluate them.
-Write down the number marked with a pin on the can.
-You're going to have to deal with water containers, not overturn, of course. It occupies a table exclusively with the hardware materials listed below. Put the paper sheets, the calculator, and the writing equipment on the other table. Keep the two tables separate to prevent water from passing from one table to another.
+In this test you are asked to study the equilibrium of a can in different situations.
+Write your answers on the designated sheets, reporting the measurements with their respective uncertainties, unless the text explicitly says not to evaluate the latter.
+Note the number marked with a marker on the can.
+You will be dealing with containers holding water, which you must obviously not spill. Occupy a table exclusively with the hardware materials listed below. Set up the sheets of paper, the calculator, and the writing materials on the other table. Keep the two tables separate to prevent water, inadvertently spilled, from passing from one table to the other.
 
-Other materials
-- Steel plate with wall thickness $s = (0{.}20\pm0{.}05)\ \text{mm}$
-- For the balance sheet:
-- The wooden list
-- Millimeter tape of paper
-- A saw blade .
-- Two dishes
-- 4 steel dice with indication of their mass
-- Transparent adhesive tape
-- For the sloping plane
-- A wood table
-- 1 box of salt of 1 kg to support the tablet
-- 1 angle to lock the tablet
-- 1 handkerchief to fix the corner to the table
-- Glass paper. Be careful not to wet her!
-- Paper adhesive tape
-- 5 rubber bands
-- The siren .
-- Millimeter team .
-- Dry with water
-- Absorbent paper
-- A little drawing dot .
-- about 50 cm of sewing thread
-- Metallic coating
-- It's a 20th. The index of the instrument is zero on the scale engraved on the cursor
-- Millimeter paper
-- It 's a forbidden thing .
+Materials
+- Steel can with walls of thickness $s = (0{.}20\pm0{.}05)\ \text{mm}$
+- For the balance:
+  - Wooden strip
+  - Millimeter paper tape
+  - Saw blade
+  - 2 clothespins
+  - 4 steel nuts with the indication of their respective mass
+  - Transparent adhesive tape
+- For the inclined plane
+  - Wooden board
+  - 1 1 kg box of salt to support the board
+  - 1 angle bracket to block the board
+  - 1 clamp to fix the angle bracket to the table
+  - Sandpaper. Be careful not to wet it!
+  - Paper adhesive tape
+  - 5 rubber bands
+- Syringe
+- Millimeter square
+- Bucket with water
+- Blotting paper
+- Drawing pin
+- About 50 cm of sewing thread
+- Metal die
+- Vernier caliper. The index of the instrument is the zero of the scale engraved on the cursor
+- Graph paper
+- Scissors
 
 ———————————
 
-1  Mass and size of the can (point 40)
+1 – Mass and dimensions of the can (40 points)
 
-Figure 1  Libra
+Figure 1 – Balance
 
-See figure one. Attach a strip of paper to the ribbon with a strip of adhesive tape so that the zero matches one of the two ends. The tape provides a system of axes along the listel, which will form the yoke of the balance. Hold the saw blade on the saw blade held straight with two laundry racks.
-You have metal dice to measure the mass.
-The value of the respective mass is reported on each of the dice, with uncertainty of $\pm 0{.}1\ \text{g}$.
+See figure 1. Fix a section of the millimeter paper tape to the strip with adhesive tape, so that the zero coincides with one of the two ends. The tape provides a system of abscissas along the strip, which will constitute the beam of the balance. Rest the strip on the saw blade kept straight with two clothespins.
+To carry out the mass measurements you have metal nuts available.
+On each of the nuts the value of its respective mass is reported, with an uncertainty equal to $\pm 0{.}1\ \text{g}$ .
 
-1.a  Is the balance of the blade resting on the sole blade stable, unstable, indifferent? Determine the mass of the can. It shall explain the procedure followed, clearly indicating the sequence of operations.
+1.a – Is the equilibrium of the strip resting on the blade alone stable, unstable, or neutral? Determine the mass of the can. Explain the procedure followed, clearly indicating the sequence of operations.
 
-1.b  Measure the size of the can with the caliber which you may find necessary to know from time to time. Write down the measurements, even if obtained later, in the appropriate space on the answer sheet. It clearly indicates what magnitude they refer to.
+1.b – Use the caliper to measure the dimensions of the can that you deem necessary to know each time. Transcribe the measurements, even if obtained later, in the designated space on the answer sheet. Clearly indicate which quantities they refer to.
 
-2  Center of mass of the empty can (points 40)
+2 – Center of mass of the empty can (40 points)
 
-To locate the centre of mass (CM) of the can, a tray of orthogonal Cartesian axes is chosen to be joined to the can itself. The origin is in the center of the base circle of the can, which lies a few millimeters below its flat bottom. The axis $x$ and the axis $y$ belong to the plane of the base circle, the axis $z$ coincides with the longitudinal axis of symmetry of the can (see paragraphs 1 and 2). The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Cut a rectangle of glass paper about two inches long and about the size of a wooden board or less; fasten it with paper tape and rubber to the board, which will tilt it flat so that it adheres perfectly to you.
-Hold the table against the salt box, and push the bottom end against the corner fixed to the counter with the table handle (see. The measurement of the distance between the two points is carried out in accordance with the following formula:
+To locate the center of mass (CM) of the can, a set of three orthogonal Cartesian axes fixed to the can itself is chosen. The origin is at the center of the base circle of the can, which is a few millimeters below its flat bottom. The $x$ axis and the $y$ axis lie in the plane of the base circle, the $z$ axis coincides with the longitudinal axis of symmetry of the can (see figure 2).
+Cut a rectangle of sandpaper about fifteen centimeters long and as wide as the wooden board or slightly less; fix it with paper adhesive tape and rubber bands to the board that will serve as an inclined plane, so that it adheres perfectly.
+Rest the board on the salt box, and push the lower end against the angle bracket fixed to the bench with the table clamp (see figure 3), so that it does not move during the measurements.
 
-Figure 2  Reference system
+Figure 2 – Reference system
 
-Make a lead thread by knotting the seamstring to the steel handle, and attach it to the board with a drawing point.
-If, when you tilt the tablet, you see that the bottom of the can is slightly raised relative to the glass paper on the upper part, you need to estimate how much it is raised and take this into account when determining the actual tilt of the can relative to the horizontal plane.
+Make a plumb line by tying the sewing thread to the steel nut, and fasten it to the board with a drawing pin.
+If, when you tilt the board, you see that the bottom of the can lifts slightly with respect to the sandpaper on the upstream side, you must estimate how much it lifts and take it into account when you determine the actual inclination of the can with respect to the horizontal plane.
 
-Figure 3  Inclined plane
+Figure 3 – Inclined plane
 
-2.a  Determine the coordinates $x = X_0$ and $z = Z_0$ of the center of mass of the empty can, studying its sloping balance. It shall explain the procedure followed, clearly indicating the sequence of operations. The coordinates shall be related to the axis system defined above, with the $x$ axis oriented as shown in Figure 4.
+2.a – Determine the coordinates $x = X_0$ and $z = Z_0$ of the center of mass of the empty can by studying its equilibrium on the inclined plane. Explain the procedure followed, clearly indicating the sequence of operations. The coordinates must be referred to the system of axes defined previously, with the $x$ axis oriented as in figure 4.
 
-2.b  Consider the possibility of placing water in the can, while resting on a horizontal plane. Please describe only qualitatively whether and how you believe the mass centre coordinates of the can+water system should be changed, increasing the amount of water in the can until it is fully filled.
+2.b – Consider the possibility of putting water into the can, kept resting on a horizontal plane. Describe only qualitatively whether, and how, you think the coordinates of the center of mass of the can+water system should change as the amount of water in the can increases until it is completely full.
 
-3  Water bottle with water in equilibrium on a sloping plane (points 80)
+3 – Can with water in equilibrium on an inclined plane (points 80)
 
-If the water can is leaning on an inclined plane, the position of the center of mass of the water + water can system, and consequently its balance, will depend not only on the amount of water but also on the inclination of the can itself.
-When the base of the can is tilted at an angle $\theta$, the geometric shape taken by the water mass deviates from that of a straight cylinder.
-The new shape, outlined in Figure 4, can be thought of as being given by the combination of the straight cylinder (height $z_0$) with two particular solids called cylindrical nails: one (A) added in the lower part and the other (M) missing in the upper part, which in the figure appear in sections as triangles opposite the top.
-Both nails have the same volume.
-In order for water to take the form described for a given slope of the plan, a sufficient amount of water to cover the bottom of the plan must be poured.
+If the can with water is placed on an inclined plane, the position of the center of mass of the can + water system, and consequently its equilibrium, will depend not only on the amount of water but also on the inclination of the can itself.
+When the base of the can is inclined by an angle $\theta$, the geometric shape assumed by the mass of water deviates from that of a right cylinder.
+The new shape, schematized in figure 4, can be thought of as given by the combination of the right cylinder (of height $z_0$) with two particular solids called cylindrical wedges: one (A) added in the downstream part and the other (M) missing in the upstream part, which in the figure appear in cross-section as triangles opposite at the vertex.
+The two wedges have the same volume.
+In order for the water to assume the described shape, for a given inclination of the plane, it is necessary to pour in a sufficient quantity to completely cover the bottom.
 
 Figure 4
 
 Useful formulas:
-Volume of the cylindrical nail
+Volume of the cylindrical wedge
 
 $$V_u = \frac{2}{3}R^3 \tan\theta .$$
 
-Module of the $X_u$ coordinate of the centre of mass of the cylindrical nail
+Modulus of the $X_u$ coordinate of the center of mass of the cylindrical wedge
 
 $$|X_u| = \frac{3}{16}\pi R$$
 
-Figure 4  $z_0$ is the height of the straight cylinder, which is the shape taken by the water for $\theta = 0$. $R$ is the radius of the circular section of the cylinder.
+Figure 4 — $z_0$ is the height of the right cylinder, which is the shape assumed by the water for $\theta = 0$. $R$ is the radius of the circular cross-section of the cylinder.
 
-You put the can on the sloping floor, you change the amount of water inside it by dosing it with the syringe. For each quantity of water, the slope of the support plane is increased with caution until the water can is at the boundary between balance and rolling.
-Be very careful when looking for this critical inclination. Use one hand to move the salt box and thus vary the tilt of the supporting plane, put the other hand a few millimeters from the can, ready to grab it when it starts to turn.
-Check that the bottom of the can is covered with water when it is in a critical position of near-overturning.
-After you have fixed the tablet at the right inclination, remove the can from the inclined plane and leave it resting on the table to avoid unwittingly rolling the water over while you are taking the measurements.
+Place the can on the inclined plane, vary the amount of water inside it by measuring it with the syringe. For each amount of water, carefully increase the inclination of the supporting plane until the can+water system is at the limit between equilibrium and tipping over.
+Be very careful when you look for this critical inclination. Use one hand to move the box of salt and thus vary the inclination of the supporting plane, put the other hand a few millimeters from the can, ready to grab it when it starts to tip over.
+Check whether in the critical position of near tipping over the bottom of the can is covered with water.
+After setting the board at the correct inclination, remove the can from the inclined plane and leave it resting on the table to avoid spilling the water inadvertently while you carry out the measurements.
 
-3.a  For each mass $m$ of water in the can, determine the corresponding critical slope $\theta_\text{max}$ at the balance-to-turn limit. Returns the measurements in a table.
+3.a – For each mass $m$ of water in the can, determine the corresponding critical inclination $\theta_\text{max}$ at the limit between equilibrium and tipping over. Report the measurements in a table.
 
-3.b  Describe how $\theta_\text{max}$ varies with the variation in the mass $m$ of water in the can.
+3.b – Describe how $\theta_\text{max}$ varies as the mass $m$ of water in the can varies.
 
-3.c  From the measurements made, the mass centre of the can system $X$ and $Z$ coordinates + water correspond to the maximum inclinations $\theta_\text{max}$ specified in point 3a. Explain the reasoning for the values of the coordinates $X$ and $Z$. Their uncertainties are not required.
+3.c – From the measurements carried out, derive the coordinates $X$ and $Z$ of the center of mass of the can + water system corresponding to the maximum inclinations $\theta_\text{max}$ determined in point 3a. Explain the reasoning to derive the values of the coordinates $X$ and $Z$. Their uncertainties are not required.
 
-3.d  Graphically represents the positions of the center of mass in the plane $XZ$, returning its coordinates on a scale of 10:1.
+3.d – Graphically represent on the $XZ$ plane the positions of the center of mass, reporting their coordinates on a 10:1 scale.
 
-4  Floating the can with water (point 40)
+4 – Floating of the can with water (40 points)
 
-Pour water into the can in such quantities that it floats into the water of the bucket with the vertical symmetry axis in stable equilibrium. Using the syringe, gradually remove water from the can until the system takes on a balance that you can judge "indifferent": the can can be in balance with either the vertical axis or the oblique axis with any inclination, naturally without putting water in.
+Pour water into the can in an amount such that it floats in the water in the bucket with its axis of symmetry vertical in stable equilibrium. Using the syringe, gradually remove water from the can until reaching the condition in which the system assumes an equilibrium that you can judge as "neutral": the can can be in equilibrium both with its axis vertical and with its axis oblique at any inclination, naturally without taking in water inside.
 
-4.a  What is the water mass for which this 'indifferent' equilibrium situation occurs? How did you measure it?
+4.a – What is the mass of water for which this situation of "neutral" equilibrium occurs? How did you measure it?
 
-4.b  How do you explain the fact that with this amount of water the can is in balance, both with the vertical and the inclined axis?
-To answer this question may be helpful
- consider that the can is immersed in the same liquid as it is contained in it,
- neglect the thickness of the wall and the bottom of the can compared to other dimensions.
+4.b – How do you explain the fact that precisely with this amount of water the can is in equilibrium both with its axis vertical and inclined?
+To answer this question it may be helpful to
+– consider that the can is immersed in the same liquid that it contains inside,
+– neglect the thickness of the wall and the bottom of the can compared to the other dimensions.
 
 <!--fig:start-->
-**p.3 **  Libra with list, millimeter tape and spring
+**p.3** — Balance with strip, millimeter tape and clothespin
 ![[_attachments/Naz16speT/Naz16speT_p3_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the number of units of the vehicle:
+**p.4** — Reference system with cylindrical can
 ![[_attachments/Naz16speT/Naz16speT_p4_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.4 **  Tilted flat panel with syringe
+**p.4** — Can on inclined plane with syringe
 ![[_attachments/Naz16speT/Naz16speT_p4_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculations:
+**p.5** — Geometry of the inclined can, cylindrical nails
 ![[_attachments/Naz16speT/Naz16speT_p5_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Rigid Body Statics]], [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Hb7n8uhsaT30SuU2iObd-9WSNs24GLtJ/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1qpJKXqBWmB7KxoVRDPCIT74ATiViHY2o/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1qpJKXqBWmB7KxoVRDPCIT74ATiViHY2o/view)

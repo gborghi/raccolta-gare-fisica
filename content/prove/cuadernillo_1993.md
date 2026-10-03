@@ -276,28 +276,21 @@ Per le domande seguenti, supponga che la resistenza di ciascuna lampada sia pari
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to ensure that the Commission's proposals are implemented in accordance with the principles laid down in the Directive.
+**National Instance - Blue and Green Theoretical Test - Problem 3: An emergency electrical circuit**
 
-A $12V$ and $45Ampere - hora$ battery (with internal resistance of $0,05\Omega$) is available to assemble an emergency circuit for a rural dwelling. The circuit includes two $40W$ lamps (for the dining room and one room), one $25W$ for the bath and one $60W$ for the outside. All these lamps are for a rated voltage of $12W$. The necessary switches and cable are also provided.
+A battery of $12V$ and $45Ampere - hora$ (with internal resistance of $0,05\Omega$) is available to assemble an emergency circuit for a rural home. The circuit includes two lamps of $40W$ (for the dining room and a bedroom), one of $25W$ for the bathroom and one of $60W$ for the exterior. All these lamps are for a nominal voltage of $12W$. Switches and the necessary cable are also available.
 
-1) Draw (squatically) the circuit corresponding to this house.
+1) Draw (schematically) the circuit corresponding to this house.
 2) $\xi$What is the nominal resistance of each lamp?
-For the following questions, assume that the resistance of each lamp is equal to its face value.
-3) In the circuit outlined in point 1), $\xi$What current is flowing through each lamp when all of them are on?
-4) Suppose there is at least one lamp on. Then calculate the maximum and minimum resistance of the circuit.
-5) Again, with at least one lamp on, $\xi$what is the minimum battery life time, $\xi$ and maximum?
-6) Suppose now that you want to light many environments using the same battery and $40W$ ($12V$) lamps as many as are needed. $\xi$How many environments could be illuminated without overloading the circuit? (i.e. without the line potential difference being less than $10V$).
-
+For the following questions, assume the resistance of each lamp equal to its nominal value.
+3) In the circuit schematized in point 1), $\xi$What current flows through each lamp when they are all turned on?
+4) Assume that there is at least one lamp turned on. Then, calculate the maximum and minimum resistances of the circuit.
+5) Again, with at least one lamp turned on, $\xi$what is the minimum duration time of the battery?, $\xi$and the maximum?.
+6) Assume now that you want to light many rooms using the same aforementioned battery and lamps of $40W$ ($12V$) of which as many as necessary are available. $\xi$How many rooms could be lit without overloading the circuit?, (that is, without the potential difference of the line being less than $10V$).
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p03_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -532,24 +525,17 @@ b) $\xi$Qual è il suo valore quando esso forma un angolo di $45^\circ$ con la o
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. Other, including:
+**Local Instance - 2. Formosa Blue**
 
-A 1 Tn wagon is on an inclined plane $18^\circ$ and balanced by the action of a parallel cable to the plane.
-(a) $\xi$How much is the cable voltage?
-(b) $\xi$What will its value be when it forms an angle of $45^\circ$ with the horizontal?
+A 1-ton mine cart is on an inclined plane $18^\circ$ and in equilibrium due to the action of a cable parallel to the plane.
+a) $\xi$What is the tension in the cable?
+b) $\xi$What will its value be when it forms an angle of $45^\circ$ with the horizontal?
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p05_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -592,19 +578,13 @@ d) La velocità del corpo colpito dal suolo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. Other, including:
+**Local Instance - 3. Formosa Blue**
 
-A 20kg body falls from 30m. Find out:
-(a) Kinetic energy when touching the ground.
-(b) Potential energy at 30 m.
-(c) The kinetic energy and potential energy of the body when it is in the middle of its path.
-(d) The speed of the body when it hits the ground.
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A 20 kg body falls from a height of 30 m. Find:
+a) The kinetic energy when touching the ground.
+b) The potential energy at 30 m height.
+c) The kinetic energy and the potential energy of the body when it is at the midpoint of its trajectory.
+d) The velocity of the body when hitting the ground.
 
 
 
@@ -641,16 +621,10 @@ Il foro di ingresso della scatola si trova al centro del viso mentre quello di u
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Instance - 4. Santa Cruz Verde**
 
-A 3m-wide cubic cardboard box is found drifting in the sea with a Vel. Constant of 4 m/s. A bullet is fired normally at one of the faces, and as the box moves, it crosses it.
-The box entry hole is in the center of the face while the exit hole moves 2 cm. Find out the Vel. from the bullet.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A cubic cardboard box 3 m on a side is floating adrift in the sea with a constant velocity of 4 m/s. A bullet fired perpendicular to one of the faces, and to the motion of the box, passes through it.
+The entry hole in the box is at the center of the face, while the exit hole is displaced 2 cm. Find the velocity of the bullet.
 
 
 
@@ -779,24 +753,17 @@ b) Calcolare dove cade ogni pezzo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 6 of this Regulation. The amount of the loan is EUR 10 million.
+**Local Instance - 6. Federal Capital Green**
 
-A mass grenade $M = 6Kg$ with an initial speed $V_0 = 200 \frac{m}{seg}$ is thrown forming an angle $\alpha = 60^\circ$ with the horizontal. When it reaches maximum height it explodes into three equal pieces whose velocities are shown in Figure 2.
-(a) If $v_1 = 10 \frac{m}{seg}$ and $v_2 = 50 \frac{m}{seg}$ calculate the speed $v_3$ and the angle formed with the horizontal.
-(b) Calculate where each piece falls.
+A grenade of mass $M = 6Kg$ is launched with an initial velocity $V_0 = 200 \frac{m}{seg}$ forming an angle $\alpha = 60^\circ$ with the horizontal. When it reaches its maximum height it explodes into three equal pieces whose velocities are shown in figure 2.
+a) If $v_1 = 10 \frac{m}{seg}$ and $v_2 = 50 \frac{m}{seg}$ calculate the velocity $v_3$ and the angle it forms with the horizontal.
+b) Calculate where each piece falls.
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p06_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Momentum]], [[Newtonian Mechanics]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -849,24 +816,17 @@ Dati: Il momento di inerzia del polo è: $I = \frac{m_2 r^2}{2}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 7. Capital Federal Verde**
 
-Two unknown masses $m_1 = 3Kg$ and $m_3$ are bound by an unextended, massless rope, through a mass pulley $m_2 = 2Kg$ and a radius $r = 10cm$, as shown in Figure 1. There is friction between the masses and the floor with a dynamic coefficient $\mu = 0.2$. It is pulled from $m_1$ with a force $F = 200N$, producing an acceleration $a = 15 \frac{m}{seg^2}$. Calculate $m_3$ and the total torque on the pulley. If the system is now to be balanced, $\xi$which should be $m_3$?.
+Two masses $m_1 = 3Kg$ and $m_3$, unknown, are tied by an inextensible and massless rope, over a pulley of mass $m_2 = 2Kg$ and radius $r = 10cm$, as shown in the figure. There is friction between the masses and the floor with a dynamic coefficient $\mu = 0.2$. A force $F = 200N$ is applied to $m_1$, producing an acceleration $a = 15 \frac{m}{seg^2}$. Calculate $m_3$ and the total torque on the pulley. If now the system is to be in equilibrium, $\xi$ what should $m_3$ be?.
 
 Data: The moment of inertia of the pulley is: $I = \frac{m_2 r^2}{2}$
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pulley (object)|Pulley]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -923,26 +883,19 @@ b) Da che altezza rispetto al punto più basso, deve essere abbassato per far s�
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 8 of Regulation (EC) No 1272/2009. The following table shows the results of the evaluation:
+**Local Instance - 8. Neuquen Verde**
 
-A small block of mass m = 20 grams. It slips in a smooth, crease-like path. Part of the rest from a height h = 5 m.
+A small block of mass m = 20 g slides on a frictionless track in the shape of a loop. It starts from rest from a height h = 5 m.
 
-(Figure)
+(figure)
 
 Determine:
-(a) the resulting force acting on the rail at position 1.
-(b) From what height with respect to the lowest point must the force on the rail at the top of the ridge be dropped to the weight of the block?
-
+a) the resultant force acting on the rail at position 1.
+b) From what height relative to the lowest point must it be dropped so that the force on the rail at the top of the loop is equal to the weight of the block?
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p07_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -1094,17 +1047,11 @@ Determinare l'ora e la distanza dalla casa di Diana. Tracciare un grafico di pos
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Instance - 11. Buenos Aires Verde**
 
-John's house is 900 m (9 sq ft) from Diana's house. Walking at a constant speed, it takes Juan 10 minutes to cover that distance, while Diana does it in 15 minutes.
-One day they both leave at 3 p.m., each from his home and headed for the other's house.
-Determine what time and distance from Diana's house they are. Draw a time-position and speed-time chart.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+Juan's house is 900 m (9 blocks) from Diana's house. Walking at constant speed, Juan takes 10 minutes to cover that distance, while Diana covers it in 15 minutes.
+One day they both leave at 3 PM, each from their own house and heading to the other's house.
+Determine at what time and at what distance from Diana's house they meet. Draw a position-time and velocity-time graph.
 
 
 
@@ -1233,21 +1180,15 @@ c2) Se invece di cadere la scatola fosse appoggiata sulla piattaforma, $\xi$ qua
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Instance - 13. Mendoza Verde**
 
-A man pushes a 4kg box. As a result, it moves at an initial speed of 6 m/s along the horizontal plane. Then it starts to rise up a slope of $30^\circ$. There's a friction between the body and the surface of the inclined plane. For this reason, the body stops at a height of 1.5m instead of stopping higher.
-(a) Calculate the force of friction acting on the body, assuming that it is constant.
-(b) $\xi$What will be the body's speed at the base of the inclined plane when it returns?
-(c) Assuming that the box continues to rise and fall from a height of 2 m on a platform mounted on springs; the platform is pushed down to a maximum distance of 0,2 m below its initial position before bouncing.
-c1) $\xi$What is the speed of the box at the moment the platform has descended 0.1m?
-NOTE: - The height of 2m is with respect to the platform.
-c2) If instead of dropping the box, the box is gently supported on the platform, $\xi$ how much would it have dropped?
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A man pushes a 4 kg box. As a result, it moves with an initial speed of 6 m/s along the horizontal plane. Then it begins to go up an inclined plane of $30^\circ$. There is friction between the body and the surface of the inclined plane. Because of this, the body stops at a height of 1.5 m instead of stopping higher up.
+a) Calculate the friction force acting on the body, assuming it is constant.
+b) $\xi$What will be the speed of the body at the foot of the inclined plane, when it returns?
+c) Assuming that the box keeps going up and falls from a height of 2 m onto a platform mounted on springs; the platform is pushed downward to a maximum distance of 0.2 m below its initial position before rebounding.
+c1) $\xi$What is the speed of the box at the instant when the platform has descended 0.1 m?
+NOTE: - The height of 2 m is with respect to the platform.
+c2) If instead of falling, the box is placed gently on the platform, $\xi$how far would it have descended?
 
 
 
@@ -1290,19 +1231,11 @@ Determinare tra quali valori P può variare in modo che il blocco di 80 kg non s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 14 of this Regulation. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Instance - 14. Buenos Aires Verde**
 
-Determine between which values P can vary so that the 80 kg block does not slide up or down. The static friction coefficient between the block and the slope plane is $\mu = 0,3$.
+Determine between what values P can vary so that the 80 kg block does not slide up or down. The coefficient of static friction between the block and the inclined plane is $\mu = 0,3$.
 
-(Figure)
-
-
-
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -1409,22 +1342,15 @@ Le cime del quadrato sono successivamente messe in massa da 1 - 3 - 5 kg e 7 kg 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. Between the Blue Rivers
+**Local Instance - 16. Entre Rios Azul**
 
-The summits of the square are successively placed with a mass of 1 - 3 - 5 kg and 7 kg. Find the coordinates of the center of gravity.
+At the vertices of the square, masses of 1 - 3 - 5 and 7 kg of weight are placed successively. Find the coordinates of the center of gravity.
 
-(Figure: square with 1 Kg and 3 Kg at the top, 7 Kg and 5 Kg at the bottom, side $l = 3 cm$)
-
+(figure: square with 1 kg and 3 kg at the upper vertices, 7 kg and 5 kg at the lower vertices, side $l = 3 cm$)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p10_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Vector Decomposition (metodo)|Vector Decomposition]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -1489,30 +1415,24 @@ k - calcola la sua pressione se la superficie su cui opera è $1,8 \cdot 10^3 cm
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. Between the Blue Rivers
+**Local Instance - 17. Entre Rios Azul**
 
-(i) It shall be a square base prismatic body measuring: $l = 5 cm$, $h = 16 cm$, $m = 1,2 \cdot 10^4 mg$.
-It is requested to calculate:
-a - Your side area.
+I) Consider a prismatic body with a quadrangular base whose measurements are: $l = 5 cm$, $h = 16 cm$, $m = 1,2 \cdot 10^4 mg$.
+Calculate:
+a - Its lateral area.
 b - Its total area.
 c - Its volume.
-(ii) If we assume that it is subject to a $g = 9,8 m/seg^2$, calculate:
+II) If we assume it is subjected to a $g = 9,8 m/seg^2$; calculate:
 d - Its weight.
-e - Its specific density and weight.
-(iii) If you start to have a uniform straight line movement for 80 seconds. Calculate:
-f - Your final speed if I travel $1,2 \cdot 10^2$ Km during that time.
-IV) Then start to have a varied movement for 10 seconds, calculate:
-g - End speed and space, with acceleration $a = 2 m/seg^2$.
-h - The force acting on the body in all three systems.
-i - The work carried out by the same in that time interval.
-j - Potential energy, kinetic energy and medium energy developed and contained by the body.
-k - calculate its pressure if the surface on which it operates is $1,8 \cdot 10^3 cm^2$ in all three unit systems.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+e - Its density and specific weight.
+III) If it begins to have a uniform rectilinear motion for 80 sec. Calculate:
+f - Its final velocity, if it traveled $1,2 \cdot 10^2$ Km during that time interval.
+IV) Then it begins to have a varied motion for 10 sec, calculate:
+g - Final velocity and distance, with its acceleration being $a = 2 m/seg^2$.
+h - The force acting on the body in the three systems.
+i - The work done by it in that time interval.
+j - The potential energy, kinetic energy and average energy developed and contained by the body.
+k - calculate its pressure if the surface on which it acts is $1,8 \cdot 10^3 cm^2$ in the three systems of units.
 
 
 
@@ -1551,17 +1471,11 @@ Su un pianeta dove l'accelerazione della gravità è $10^m/s^2$, si ha un sistem
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 18 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 18. Federal Capital Green**
 
-On a planet where the acceleration of gravity is $10^m/s^2$, you have a system like the one shown in Figure A. Calculate the tension exerted by the rope at the instant before releasing the mass of 1 Kg so that the spring is compressed to 0,5 m.
+On a planet where the acceleration of gravity is $10^m/s^2$, there is a system like the one shown in figure A. Calculate the tension exerted by the rope at the instant before releasing the 1 kg mass so that the spring compresses 0.5 m.
 
-(Figure A)
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hooke's Law (metodo)|Hooke's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Spring (object)|Spring]], [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure A)
 
 
 
@@ -1608,21 +1522,15 @@ C) Se si apre ora il ciclo nel tratto PM (cioè non ci sono ferrovie in quel tra
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan shall be reported in the following table:
+**Local Instance - 19. Capital Federal Blue**
 
-A "m" mass cart descends through the rails of an inclined plane AB and then forms a "r" radius loop.
-If the carriage is regarded as a pointed body, the carriage is not a carriage.
-(a) From which height 'h' the wagon must descend without initial speed so that it can travel the entire circumference of the loop without separating from it.
-(b) Determine the force exerted by the cart on the track at the point M for which the NOM angle is '$\alpha$'.
-C) If the loop is now opened in the PM section (i.e. there are no rails in that section), find the height h from which the cart must descend without initial speed so that it can travel the entire loop, as well as the value of the angle "$\alpha$" for which this height "h" is minima.
+A cart of mass "m" descends along the rails of an inclined plane AB and then forms a loop of radius "r".
+If friction is neglected and the cart is considered a point mass:
+a) From what height "h" must the cart descend without initial velocity so that it can travel the entire circumference of the loop without separating from it.
+b) Determine the force that the cart exerts on the circular track at point M, for which the angle NOM is "$\alpha$".
+C) If now the loop is opened in the segment PM (that is, there are no rails in that segment), find the height h from which the cart must descend without initial velocity so that it can travel the entire loop, as well as the value of the angle "$\alpha$" for which this height "h" is minimum.
 
-(Figure)
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -1661,17 +1569,11 @@ b) Calcolare l'equazione della velocità in funzione del tempo a partire dal mom
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan shall be reported in the following table:
+**Local Instance - 20. Capital Federal Azul**
 
-A wooden cube of 20 cm of edge and $0,7 g/cm^3$ density is found floating in the water. If we insert it 5cm further below its equilibrium position and let it swing freely:
-(a) Calculate the period of oscillation.
-(b) Calculate the equation of the velocity in function of time from the moment it is left free to oscillate.
-
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A wooden cube with a 20 cm edge and density $0,7 g/cm^3$ is floating in water. If we push it 5 cm further below its equilibrium position and leave it free to oscillate:
+a) Calculate the period of oscillation.
+b) Calculate the equation of the velocity as a function of time from the moment it is left free to oscillate.
 
 
 
@@ -1718,21 +1620,13 @@ d) $\xi$Qual è il momento in cui la granata è passata da un punto situato ad u
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the number of cases of the accident:
+**Local Instance - 21. Cordoba Blue**
 
-An anti-aircraft gun throws a grenade vertically at a speed of 500 m/s.
-Calculate a) The maximum height the grenade would reach.
-(b) The time it would take to reach that height.
-(c) the instantaneous speed at the end of 40 and 60 seconds.
-(d) $\xi$How soon did the grenade pass through a point 10 km high? Air resistance is despised.
-
-
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+An anti-aircraft cannon launches a shell vertically with a speed of 500 m/s.
+Calculate a) The maximum height the shell will reach.
+b) The time it will take to reach that height.
+c) the instantaneous velocity at the end of 40 and 60 seconds.
+d) $\xi$At what instants will the shell pass through a point located at 10 km of height? Air resistance is neglected.
 
 
 
@@ -1771,17 +1665,9 @@ Una pallottola da 15g viene sparata a velocità di 300 m/s su un blocco di legno
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 22 of Regulation (EC) No 1272/2009. The following table shows the number of cases of the accident:
+**Local Instance - 22. Cordoba Azul**
 
-A 15g bullet is fired at a speed of 300 m/s over a block of wood. If the bullet penetrates the wood 5 cm before it stops. Calculate the strength of resistance that the wood has offered.
-
-
-
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A 15 g bullet is fired with a speed of 300 m/s at a wooden block. If the bullet penetrates 5 cm into the wood before stopping. Calculate the resistance force offered by the wood.
 
 
 
@@ -1822,18 +1708,10 @@ Quanto lontano percorre l'uccello fino al momento in cui i treni si incrociano?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2005. The Blue Rioja**
+**Local Instance - 23. La Rioja Azul**
 
-From the stations A and B, 160 km apart, two trains depart at the same time: one from A to B and the other from B to A, both at 40 km/h. A bird that is on the locomotive in A, flies at the moment of departure to which it leaves from B at a speed of 60 Km/h, maintaining that direction and direction.
-How far does the little bird travel to the moment the trains cross?
-
-
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+From stations A and B, 160 km apart, two trains depart at the same time: one from A toward B and the other from B toward A, both at 40 km/h. A little bird that is on the locomotive at A flies at the instant of departure toward the one leaving from B at a rate of 60 km/h, maintaining that direction and sense.
+What distance does the little bird travel until the instant when the trains cross each other?
 
 
 
@@ -1876,19 +1754,13 @@ Si lancia una palla di 200 grammi con una velocità iniziale di 25 metri/secondo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1224/2009. The Blue Rioja**
+**Local Instance - 24. La Rioja Azul**
 
-A 200-gram ball is thrown at an initial speed of 25 meters per second forming a 53-degree angle upwards from the horizontal.
-2.1. - What's the total mechanical energy initially?
-2.2. - What point in the trajectory does it have minimum kinetic energy? How much is it worth?
-2.3. - What point on the trajectory does it have maximum potential energy? How much is it worth?
-2.4. - Applying the principle of energy conservation, find the maximum height.
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Projectile (object)|Projectile]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A 200-gram ball is thrown with an initial velocity of 25 meters/seconds forming an angle of 53 degrees upward with respect to the horizontal.
+2.1. - What is the total mechanical energy initially?
+2.2. - At what point of the trajectory does it have minimum kinetic energy? How much is it worth?
+2.3. - At what point of the trajectory does it have maximum potential energy? How much is it worth?
+2.4. - Applying the principle of conservation of energy, find the maximum height.
 
 
 
@@ -1927,17 +1799,11 @@ Un cubo di legno di 10 cm laterale è all'interno di un recipiente contenente ac
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 25. Federal Capital Green**
 
-A 10 cm side wooden cube is contained within a container containing water ($\delta = 1 g/cm^3$) and other non-miscible liquid ($\delta = 0,6 g/cm^3$). If the bottom side of the cube is 2 cm below the surface between the liquids calculate the mass of the cube. ($g = 10 m/s^2$).
+A wooden cube with a side of 10 cm is inside a container that holds water ($\delta = 1 g/cm^3$) and another immiscible liquid ($\delta = 0,6 g/cm^3$). If the lower face of the cube is 2 cm below the surface between the liquids, calculate the mass of the cube. ($g = 10 m/s^2$).
 
-(Figure)
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -1986,22 +1852,15 @@ Un autito (sottopreparando il ruggine e la massa delle ruote) si solleva da un'a
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 26. Capital Federal Verde**
+**Local Instance - 26. Federal Capital Green**
 
-Un autito (despreciar el rozamiento y la masa de las ruedas) se suelta desde un altura H y luego salta por una rampa a $45^\circ$ de altura h $\xi$ H. $\xi$Cual es la altura maxima que alcanza el autito durante el vuelo?
+A little car (neglect friction and the mass of the wheels) is released from a height H and then jumps off a ramp at $45^\circ$ of height h $\xi$ H. $\xi$What is the maximum height reached by the little car during the flight?
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p15_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -2040,17 +1899,11 @@ Calcolare la tensione del cavo e le forze verticali e orizzontali che agiscono s
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has not yet adopted a proposal for a regulation.
+**Local Instance - 27. Junin, Mendoza Verde**
 
-Calculate the tension of the cable and the vertical and horizontal forces acting on the crane's grip of the figure.
+Calculate the tension of the cable and the vertical and horizontal forces acting on the hinge of the crane in the figure.
 
-(Figure: crane with mast, angle $60^\circ$, arm and weight P = 300 kg)
-
-**Topic:** [[Rigid Body Statics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Beam (object)|Beam]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure: crane with mast, angle of $60^\circ$, boom and weight P = 300 kg)
 
 
 
@@ -2091,18 +1944,12 @@ Resistenza della canna = 1000 $Kg/cm^2$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has not yet adopted a proposal for a regulation.
+**Local Instance - 28. Junin, Mendoza Verde**
 
-A body weighing 10 Kg is attached to a rotor by a rod forming $90^\circ$ with it. This rotor, initially at rest, starts to rotate at a constant acceleration of $1m/s^2$. Calculate the time it takes to cut the rod, disregarding its weight and stretch.
-The length of the rod = 1 m
-The diameter of the rod = 10 mm
-The resistance of the rod = 1000 $Kg/cm^2$.
-
-**Topic:** [[Rotational Dynamics]], [[Elasticity & Materials]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A body weighing 10 kg is attached to a rotor by a rod that forms $90^\circ$ with it. This rotor, initially at rest, begins to rotate with a constant acceleration of $1m/s^2$. Calculate the time necessary for the rod to break, neglecting its weight and stretching.
+Rod length = 1 m
+Rod diameter = 10 mm
+Rod strength = 1000 $Kg/cm^2$.
 
 
 
@@ -2153,23 +2000,16 @@ b) Il tempo necessario per raggiungere tale profondità e tornare in superficie.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1295/2005. The following table shows the results of the evaluation:
+**Local Instance - 29. Jujuy Verde**
 
-A cork object of $Pe = 0,2 \bar{g}/cm^3$ is dropped from a height of 5 m above the surface of a lake.
-Considering that only the water push is opposed to its movement, calculate:
-(a) The depth to which the body sinks in the water.
-(b) The time it takes to reach that depth and return to the surface.
-
+A cork object of $Pe = 0,2 \bar{g}/cm^3$ is dropped from a height of 5 m onto the surface of a lake.
+Considering that only the buoyancy of the water opposes its motion, calculate:
+a) The depth to which the body sinks in the water.
+b) The time it takes to reach that depth and return to the surface.
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p14_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -2222,24 +2062,18 @@ f) Quanto deve valere il coefficiente di rottura per muovere i corpi a velocità
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the results of the evaluation:
+**Local Instance - 30. Jujuy Verde**
 
-Two blocks joined by a rope that passes through a small, unrusted pole, resting on smooth planes.
+Two blocks joined by a rope that passes over a small frictionless pulley are held at rest on smooth planes.
 
-(Figure: 100 kg block on a plane to $37^\circ$, 50 kg block on a plane to $53^\circ$)
+(figure: 100 kg block on a plane at $37^\circ$, 50 kg block on a plane at $53^\circ$)
 
-(a) In what sense did the system move upon being released?
-(b) What is the acceleration of the blocks?
-c) What is the tension on the rope?
-(d) If the planes were rough, would it change the direction of motion?
-(e) Calculate the acceleration if the brake coefficient is $\mu = 0,1$.
-(f) What is the coefficient of friction for bodies to move at a constant speed?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+a) In which direction will the system move when released?
+b) What is the acceleration of the blocks?
+c) What is the tension in the rope?
+d) If the planes were rough, would the direction of motion change?
+e) Calculate the acceleration if the friction coefficient is $\mu = 0,1$.
+f) What must the friction coefficient be for the bodies to move with constant velocity?
 
 
 
@@ -2278,17 +2112,11 @@ b) A che distanza dall'asse può essere posta la moneta, senza scivolare, se il 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2001. The following table shows the results of the evaluation:
+**Local Instance - 31. Jujuy Verde**
 
-A coin placed on a disk that spins at a constant speed of 78 revolutions per minute. remains at rest with respect to the axle when its axis distance is less than 7,5 cm.
-(a) What is the static friction coefficient between the coin and the disc?
-(b) How far from the axis can the coin be placed without slipping if the disc rotates at 45 revolutions per minute?
-
-**Topic:** [[Rotational Dynamics]], [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Disk (object)|Disk]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A coin placed on a disk that rotates at a constant speed of 78 rev/min remains at rest relative to it when its distance from the axis is less than 7.5 cm.
+a) What is the static friction coefficient between the coin and the disk?
+b) At what distance from the axis can the coin be placed, without sliding, if the disk rotates at 45 rev/min?
 
 
 
@@ -2323,15 +2151,9 @@ Un pezzo di ghiaccio scivola giù per una pendice di $45^\circ$ in un tempo dopp
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the results of the evaluation:
+**Local Instance - 32. Jujuy Azul**
 
-A piece of ice slips down a slope of $45^\circ$ in twice the time it takes to slip down a slope of $45^\circ$ without friction. What is the friction coefficient between the ice and the floor of the slope?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A piece of ice slides down a slope of $45^\circ$ in twice the time it takes to slide down a slope of $45^\circ$ without friction. What is the coefficient of friction between the ice and the surface of the slope?
 
 
 
@@ -2370,17 +2192,11 @@ Un recipiente cilindrico di 20 cm di diametro galleggia nell'acqua emergendo 10 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the results of the evaluation:
+**Local Instance - 33. Jujuy Azul**
 
-A cylindrical vessel of 20 cm in diameter floats in water emerging 10 cm from the free surface when a block of iron of 10 Kgr is suspended from its bottom. If the iron block is now placed inside the container. What's the height that's gonna come up? The specific weight of the iron is 7,8 $gr/cm^3$.
+A cylindrical container 20 cm in diameter floats in water with 10 cm emerging above the free surface, when an iron block of 10 kg is hung from its bottom. If the iron block is now placed inside the container. What will be the height that emerges? given that the specific weight of iron is 7.8 $gr/cm^3$.
 
-(Figure)
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -2415,15 +2231,9 @@ Un uomo che corre ha metà dell'energia cinetica di un ragazzo che ha metà di m
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the results of the evaluation:
+**Local Instance - 34. Jujuy Verde**
 
-A man who runs has half the kinetic energy of a boy whose mass is half his own. The man increases his speed by 1 m/s and then he has the same kinetic energy as the boy. What were the initial speeds of the man and the boy?
-
-**Topic:** [[Conservation of Energy]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A running man has half the kinetic energy of a boy whose mass is half of his. The man increases his speed by 1 m/s and then has the same kinetic energy as the boy. What were the initial speeds of the man and the boy?
 
 
 
@@ -2624,22 +2434,15 @@ Per il caso della figura, calcolare ciò che il dinamometro indicherebbe in quel
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Instance - 37. Mar del Plata, Buenos Aires Azul**
 
-For the case of the figure, calculate what the dynamometer would indicate in that situation.
+For the case in the figure, calculate what the dynamometer would indicate in that situation.
 
-(Figure: 2 Kg block on a plane inclined to $37^\circ$, dynamometer with zero mass, force F = 2,5 N, suspended mass 2 Kg)
-
+(figure: 2 kg block on an inclined plane at $37^\circ$, massless dynamometer, force F = 2.5 N, hanging mass of 2 kg)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -2676,16 +2479,10 @@ Calcolare la posizione e l'ora che il orologio segna, quando si trovano.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Instance - 38. Mar del Plata, Buenos Aires Azul**
 
-Two movements move in the opposite direction along a straight path. The A-movement starts from point 1 when the clock goes off at 9 o'clock. and accelerates $a = 0,2 m/s^2$ to 9 h. 15 minutes; then continue at a constant speed. The B-movement moves towards A at a constant speed of 72 Km/h, and passes through a point 2 located at 2000 Km of 1 when the clock is at 10.30 hs.
-Calculate the position and time of the clock when they meet.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+Two mobiles travel in opposite directions along a straight road. Mobile A starts from point 1 when the clock reads 9 a.m. and moves with acceleration $a = 0,2 m/s^2$ until 9:15 a.m.; then it continues with constant velocity. Mobile B travels toward A with a constant velocity of 72 km/h, and passes through a point 2 located 2000 km from 1 when the clock reads 10:30 a.m.
+Calculate the position and the time shown by the clock when they meet.
 
 
 
@@ -2738,24 +2535,17 @@ b) Qual è la forza normale che il binario esercita sul carro quando passa attra
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Instance - 39. Mar del Plata, Buenos Aires Azul**
 
-A car, m = 100 kg, moves through the Russian mountains without a scratch.
-(a) Calculate the speed of the car when passing through points A, B and C.
-(b) What is the normal force exerted by the railway on the wagon when passing through point A?
+A cart, of mass m = 100 kg, moves along the roller coaster without friction.
+a) Calculate the speed of the cart when it passes through points A, B and C.
+b) What is the value of the normal force that the rail exerts on the cart when it passes through point A?
 
-(Figure: $V_0 = 0$, height $H = 10 m$, radius $Q = 5 m$ in A, $h_B = 8 m$, $h_2 = 12 m$ in C)
-
+(figure: $V_0 = 0$, height $H = 10 m$, radius $Q = 5 m$ at A, $h_B = 8 m$, $h_2 = 12 m$ at C)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p16_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -2798,19 +2588,11 @@ Una vasca piena di acqua è appoggiata in equilibrio su un supporto. Se mettiamo
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Instance - 40. Mar del Plata, Buenos Aires Azul**
 
-A water-filled plunge is rested in balance on a support. If we put a block of wood, as shown in the figure, does the plinth fall? - Justify the answer.
+A basin full of water is resting in equilibrium on a support. If we place a block of wood, as shown in the figure, does the basin fall? - Justify the answer.
 
-(Figure)
-
-
-
-**Topic:** [[Fluid Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Block (object)|Block]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -2837,35 +2619,19 @@ El bote de la figura pesa 50 Kgf, y por razones de seguridad no es conveniente q
 
 <div class="qlang-split" data-lang="it"></div>
 
-La Commissione ha adottato una decisione del Consiglio. Rosario, Santa Fe Verde**
+**Istanza Locale - 41. Rosario, Santa Fe Verde**
 
-Il pesante della barca è di 50 Kgf e per motivi di sicurezza non è opportuno che il suo bordo sia a meno di 35 cm dalla superficie dell'acqua. Quante persone di 80 Kgf possono occupare la barca.
+La barca della figura pesa 50 Kgf, e per ragioni di sicurezza non è opportuno che il suo bordo sia a meno di 35 cm dalla superficie dell'acqua. Quante persone di 80 Kgf di peso possono occupare la barca.
 
-(Figura: barca di dimensioni 2,5 m x 1 m x 0,5 m, base 2 m)
-
-
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figura: barca di dimensioni 2,5 m x 1 m x 0,5 m, base 2 m)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Instance - 41. Rosario, Santa Fe Verde**
 
-The figure boat weighs 50 Kgf, and for safety reasons it is not appropriate for its edge to be less than 35 cm from the water surface. How many people weighing 80 kgf can take the boat?
+The boat in the figure weighs 50 Kgf, and for safety reasons it is not advisable for its edge to be less than 35 cm from the water surface. How many people weighing 80 Kgf can occupy the boat.
 
-(Figure: boat of dimensions 2,5 m x 1 m x 0,5 m, base 2 m)
-
-
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure: boat with dimensions 2.5 m x 1 m x 0.5 m, base 2 m)
 
 
 
@@ -2914,22 +2680,14 @@ Misura la distanza $\Delta x$ corrispondente a ciascun intervallo nella figura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Instance - 42. Rosario, Santa Fe Verde**
 
-Measure the $\Delta x$ distance for each interval in the figure.
-(a) What is the speed $\Delta x/\Delta t$ at each interval?
-(b) What are the speed changes $\Delta v$ at each interval?
-(c) What is the $\Delta v/\Delta t$ acceleration at each interval?
+Measure the distance $\Delta x$ corresponding to each interval in the figure.
+(a) What is the velocity $\Delta x/\Delta t$ in each interval?
+(b) What are the changes in velocity $\Delta v$ in each interval?
+(c) What is the acceleration $\Delta v/\Delta t$ in each interval?
 
-(Figure: numbered rule from 1 to 16 with increasing intervals of points. The time interval between each "measurement" of the position is $1/5$ s.)
-
-
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure: numbered ruler from 1 to 16 with points at increasing intervals. The time interval between each "measurement" of position is $1/5$ s.)
 
 
 
@@ -2972,19 +2730,13 @@ Si considera lo stesso sistema, ma ora con il corpo $m_3$ completamente immerso 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 43. Capital Federal Verde**
 
-The mass of the $m_1$ and $m_2$ bodies is 1 kg and the system acceleration is $2.5 m/s^2$ to the right, calculate $m_3$.
+The mass of the bodies $m_1$ and $m_2$ is 1 kg and the acceleration of the system is $2.5 m/s^2$ to the right, calculate $m_3$.
 
-(Figure: three-member system with pulleys, $m_2$ on table, $m_1$ and $m_3$ hangers)
+(figure: system of three masses with pulleys, $m_2$ on table, $m_1$ and $m_3$ hanging)
 
-It is considered the same system, but now with the $m_3$ body completely submerged in a density liquid $0,8 g/cm^3$, the acceleration of the system becomes $2.25 m/s^2$ in the same direction. Considering the body is made of gold and silver. Determine what proportion holds the gold and silver masses. (Gold density = $19,3 g/cm^3$, silver density = $10,5 g/cm^3$)
-
-**Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+The same system is considered, but now with body $m_3$ completely submerged in a liquid of density $0,8 g/cm^3$, the acceleration of the system becomes $2.25 m/s^2$ in the same direction. Taking into account that the body is made of gold and silver. Determine what proportion the masses of gold and silver keep. (Density of gold = $19,3 g/cm^3$, density of silver = $10,5 g/cm^3$)
 
 
 
@@ -3019,15 +2771,9 @@ Due piccoli penduli elettrici sono soggetti allo stesso punto e i loro rispettiv
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the number of cases of the accident:
+**Local Instance - 44. Cordoba Azul**
 
-Two small electric pendulums are subject to the same point and their respective suspension threads, of despicable mass, are of the same length, so that both spheres are in contact. The two are loaded with the same load, reversing until the threads of both pendulums form an angle of $90^\circ$. Determine which fraction of the original load has been lost when the angle between the two is reduced to $60^\circ$.
-
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+Two small electric pendulums are suspended from the same point and their respective suspension threads, of negligible mass, are of the same length, such that both spheres are in contact. Both are charged with the same charge, repelling each other until the threads of both pendulums form an angle of $90^\circ$. Determine what fraction of the original charge they have lost when the angle between them is reduced to $60^\circ$.
 
 
 
@@ -3165,27 +2911,21 @@ liquidatore / 100 w / 5 min.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. Between the Blue Rivers
+**Local Instance - 46. Entre Rios Azul**
 
-In a home, the estimated monthly electricity consumption (in Kw h) and the intensity of each device (in A) is to be calculated, taking into account the following data:
-Artifacts / Potential / Time of use
-Freezer / 200 w / 10 hs.
-TV / 85 w / 6 hs.
-The heat is 800 w / 1 h.
-The following table shows the following:
-The following shall be reported:
-Radio / 4 w / 4 hs.
-Washing clothes / 185 w / 30 min.
-Dry drops / 200 w / 45 min.
-Video game / 4 w / 2 hs.
-The beater / 100 w / 10 min.
-Liquidator / 100 w / 5 min.
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+At a household, the monthly electricity consumption (in kWh) and the current of each appliance (in A) are to be estimated, taking into account the following data:
+APPLIANCES / POWER / DAILY USE TIME
+Refrigerator / 200 w / 10 hrs.
+television / 85 w / 6 hrs.
+heater / 800 w / 1 h.
+iron / 750 w / 10 min.
+lamps / 25w (2)-40w(2)-75w(1) / 6 hrs.
+radio / 4 w / 4 hrs.
+washing machine / 185 w / 30 min.
+dryer / 200 w / 45 min.
+video game / 4 w / 2 hrs.
+mixer / 100 w / 10 min.
+blender / 100 w / 5 min.
 
 
 
@@ -3240,25 +2980,18 @@ b) Si desiderano accendere solo 4 lampade.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan shall be reported in the following table:
+**Local Instance - 47. Capital Federal Blue**
 
-In the following circuit all lamps are equal 40W/220v and S1, S2, S3 and S4 with switches that can be in the closed or open position. Connecting cables are considered to have negligible electrical resistance.
-For each of the following questions, indicate which switches must be closed and open, which lamps are on and off and indicate the ampere in each case.
-(a) Only one lamp is to be lit.
-(b) Only 4 lamps are to be lit.
+In the following circuit all the lamps are identical, 40W/220v, and S1, S2, S3 and S4 are switches that can be in the closed or open position. The connecting wires are considered to have negligible electrical resistance.
+For each of the following questions, indicate which switches must be closed and open, which lamps are on and off, and what the ammeter will indicate in each case.
+a) It is desired to light only one lamp.
+b) It is desired to light only 4 lamps.
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -3313,25 +3046,18 @@ Nel circuito della figura, determinare:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Blue Rioja**
+**Local Instance - 48. La Rioja Azul**
 
-In the figure circuit, determine:
+In the circuit of the figure, determine:
 3.1. In which of the R's is the current minimum?
-3.2. In which of the R's is the current maximal?
-3.1. Which one of them dissipates more energy? How much is it worth in 10 seconds?
+3.2. In which of the R's is the current maximum?
+3.1. Which of them dissipates the most energy? How much is it worth in 10 seconds?
 
-(Figure: 20V source, resistances of $2\Omega$, $3\Omega$, $7\Omega$ and $0,9\Omega$)
-
+(figure: 20V source, resistors of $2\Omega$, $3\Omega$, $7\Omega$ and $0,9\Omega$)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p21_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -3382,23 +3108,15 @@ Ignorare l'interazione delle cariche delle estremità opposte della barra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has not yet adopted a proposal for a regulation.
+**Local Instance - 49. Junin, Mendoza Verde**
 
-The figure shows an isolated, massless, long bar of length l, pivoted in its center and balanced by a weight W that lies at a distance x from its left end. At the left end of the bar is a positive charge q, and at the right another charge of 2 q.
-At a distance h, directly below these charges, two positive Q charges are placed.
-(a) Determine the distance x at which the weight W must be for the bar to be in balance.
-(b) $\xi$What is the value of h so that the bar does not exert any vertical force on the cushion when in balance?
-Ignore the interaction of the charges at the opposite ends of the bar.
+The figure shows a long insulating rod, massless, of length l, pivoted at its center and balanced by a weight W located at a distance x from its left end. At the left end of the rod a positive charge q is placed, and at the right end another of 2 q.
+At a distance h, directly below these charges, two positive charges Q are placed.
+a) Determine the distance x at which the weight W must be for the rod to be in equilibrium.
+b) $\xi$What must the value of h be for the rod to exert no vertical force on the bearing when in equilibrium?
+Ignore the interaction of the charges at the opposite ends of the rod.
 
-(Figure)
-
-
-
-**Topic:** [[Electrostatics]], [[Rigid Body Statics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -3453,25 +3171,18 @@ c) Solo le $L_1$ e $L_2$ sono chiuse.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The following table shows the results of the evaluation:
+**Local Instance - 50. Jujuy Verde**
 
-The figure shows a typical domestic lighting circuit. The focuses involved are marked as: 60 W / 120 V; 100 W / 120 V and 75 W / 120 V. Calculate the magnitude of the currents $I_1$, $I_2$, $I_3$ when:
-(a) All keys are locked
-(b) Only the $L_1$ is closed
-(c) Only $L_1$ and $L_2$ are closed.
+The figure shows a typical domestic lighting circuit. The bulbs involved are marked as: 60 W / 120 V; 100 W / 120 V and 75 W / 120 V. Calculate what magnitude the currents $I_1$, $I_2$, $I_3$ will be when:
+a) All the switches are closed
+b) Only $L_1$ is closed
+c) Only $L_1$ and $L_2$ are closed.
 
-(Figure: 120V source, lamps $L_1$ 60W, $L_2$ 100W, $L_3$ 75W in parallel)
-
+(figure: 120V source, lamps $L_1$ 60W, $L_2$ 100W, $L_3$ 75W in parallel)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p20_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -3538,31 +3249,24 @@ c) Se aggiungiamo ora un capacitore C, di 10 uF, in parallelo alla resistenza R3
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Instance - 51. Mar del Plata, Buenos Aires Azul**
 
-In the figure circuit:
+In the circuit of the figure:
 $R1 = 6 \Omega$
 $R2 = 6 \Omega$
 $R3 = 6 \Omega$
 $R4 = 9 \Omega$
 $E = 4.5 V$
 
-(Figure: with ampere meters A1, A2, A3, A4 and resistors R1, R2, R3, R4)
+(figure: with ammeters A1, A2, A3, A4 and resistors R1, R2, R3, R4)
 
-(a) Indicate the readings of each connected ampere.
-(b) Determine the energy supplied by the source for 10 seconds.
-c) If we now add a capacitor C, of 10 uF, in parallel with the resistance R3, determine its load (after a sufficiently large time).
-
+a) State the reading of each connected ammeter.
+b) Determine the energy supplied by the source during 10 s.
+c) If we now add a capacitor C, of 10 uF, in parallel with resistor R3, determine its charge (after a sufficiently long time).
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p22_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Galvanometer (object)|Galvanometer]], [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -3673,18 +3377,12 @@ i) Calcola la posizione e il tempo in cui si incontreranno
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 53. Capital Federal Verde**
 
-A train leaves the Retiro station and is 50 seconds late to reach a speed of 108 km/h with constant acceleration. Then continue at a constant speed for another 50 seconds. At that moment, it reaches the Belgrano station and instantly puts its engine on the counter with a constant acceleration of $0,5 m/s^2$.
-At the same time, an observer at Nunez station (about 5 km from Retiro station) sees another train passing by a parallel track to Retiro at a constant speed of 54 km/h. At that moment, he looks at his watch and realizes that the first train left 10 seconds ago.
-(i) Calculate the position and time of meeting
-(ii) Calculate the difference between the distances travelled by both trains between the meeting places.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A train departs from Retiro station and takes 50 seconds to reach a speed of 108 km/h with constant acceleration. Then, it continues at constant speed for another 50 seconds. At that moment, it arrives at Belgrano station and instantly puts its motor into reverse with a constant acceleration of $0,5 m/s^2$.
+At the same time, an observer located at Nunez station (5 km away from Retiro station) sees another train passing on a parallel track heading toward Retiro at a constant speed of 54 km/h. At that moment he looks at his watch and realizes that the first train departed 10 seconds ago.
+i) Calculate the position and time where they will meet
+ii) Calculate the difference between the distances traveled by both trains between the meeting places.
 
 
 
@@ -3775,17 +3473,11 @@ Il circuito della figura è formato da: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Instance - 55. Buenos Aires Verde**
 
-The following are in the figure circuit: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R_3 = 20 \Omega$, $R_4 = 20 \Omega$, $R_5 = 40 \Omega$, $R_6 = 15 \Omega$, $R_7 = 25 \Omega$, $E_1 = 40 V$, $E_2 = 30 V$, $E_3 = 25 V$. Calculate I, potential difference between A and B?
+In the circuit of the figure they are: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R_3 = 20 \Omega$, $R_4 = 20 \Omega$, $R_5 = 40 \Omega$, $R_6 = 15 \Omega$, $R_7 = 25 \Omega$, $E_1 = 40 V$, $E_2 = 30 V$, $E_3 = 25 V$. Calculate I, potential difference between A and B?
 
-(Figure)
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -3824,17 +3516,11 @@ Determinare le intensità di corrente che circolano per ogni ramo e la potenza d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The following table shows the results of the evaluation:
+**Local Instance - 56. Neuquen Verde**
 
-Determine the current intensities circulating through each branch and the power dissipated by each resistance.
+Determine the current intensities flowing through each branch and the power dissipated by each resistor.
 
-(Figure: network with resistances $3\Omega$, $5\Omega$, $1\Omega$ and 3V sources with internal resistances of $1\Omega$)
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure: network with resistors $3\Omega$, $5\Omega$, $1\Omega$ and 3V sources with internal resistances of $1\Omega$)
 
 
 
@@ -3928,17 +3614,9 @@ Un corpo omogeneo di materiale, la cui densità è di 1,33 $g/cm^3$ a $0^\circ C
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Instance - 58. Mendoza Azul**
 
-A homogeneous body of material, density 1,33 $g/cm^3$ to $0^\circ C$, floats two waters in a liquid with a temperature of $60^\circ C$ and a specific weight of $12.740 N/m^3$ at that temperature. If the body is considered to be in thermal equilibrium with the liquid, calculate the material's linear dilation coefficient.
-
-
-
-**Topic:** [[Fluid Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+A homogeneous body of material, whose density is 1.33 $g/cm^3$ to $0^\circ C$, floats in water in a liquid whose temperature is $60^\circ C$ and whose specific weight is $12.740 N/m^3$ at said temperature. If the body is considered to be in thermal equilibrium with the liquid, calculate the coefficient of linear expansion of the material.
 
 
 
@@ -3973,15 +3651,9 @@ Nel parametro fondamentale del metabolismo, un paziente respira 52,5 l di aria m
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the number of cases of the accident:
+**Local Instance - 59. Cordoba Azul**
 
-In the fundamental measure of metabolism, a patient breathes 52.5 l of air measured above water at $20^\circ C$ for 6 min. The water vapour pressure at $20^\circ C$ is 17,5 mm of mercury. The pressure indicated by the barometer is 750 mm. Disregarding the solubility of gases in water and the difference in total volume of inhalation and exhaled, find the oxygen flow rate consumed by the patient and express it in $cm^3/min$. (a $0^\circ C$ and 760 mm of mercury).
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+In the fundamental measurement of metabolism, a patient exhales 52.5 l of air measured over water at $20^\circ C$ over a time of 6 min. The water vapor pressure at $20^\circ C$ is 17.5 mm of mercury. The pressure indicated by the barometer is 750 mm. Neglecting the solubility of gases in water and the difference in total volume inspired and expired, find the flow rate of oxygen consumed by the patient, expressing it in $cm^3/min$. (at $0^\circ C$ and 760 mm of mercury).
 
 
 
@@ -4032,23 +3704,16 @@ $C_{l fus hielo} = 80 cal/g$
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 60. Capital Federal Verde**
 
-A 50 g ice cube is removed from the refrigerator at $-10^\circ C$ and dropped into a glass of water at $0^\circ C$. If there is no heat exchange with the outside what is the mass of water that solidifies over the cube.
+A 50g ice cube is taken out of the refrigerator at $-10^\circ C$ and dropped into a glass of water at $0^\circ C$. If there is no heat exchange with the outside, what is the mass of water that solidifies onto the cube.
 $C_{agua} = 1 cal/g^\circ C$
 $C_{hielo} = 0,5 cal/g^\circ C$
 $C_{l fus hielo} = 80 cal/g$
 
-
 <!--fig:start-->
 ![[Cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -4172,29 +3837,23 @@ d) La variazione dell'energia interna nel 3. processo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2005. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Instance - 62. Mendoza Verde**
 
-The A tank in the figure, whose walls are rigid, measures 1.1 m high, 1.5 m wide and 1.5 m long; it contains nitrogen with a density of $3,43 dm^3/gr$ at a temperature of $59^\circ F$.
-The tank is communicated by a piston through a $N_1$ valve. The piston consists of a cylinder 20 cm in diameter and 110 cm in stroke.
-At the end of the cylinder is a second valve $N_2$ which opens when the embolus passes, to which a balloon is connected, the volume of which is zero.
-In a first process, $N_1$ and $N_2$ being closed, a quantity of heat is delivered to the container A such that its pressure increases to double the initial pressure.
-In a second process $N_1$ is opened by moving the embolus, thus obtaining a $L_2$ job.
-Finally, when the $N_2$ opens, the balloon is inflated. The last two processes can be assumed to be isothermal.
-Consider specific heat to P=cte of nitrogen = Cp = 0,2484 K cal/kg$^\circ$k.
-K = 1,4
-Calculation of the
-(a) The final volume of the balloon
-(b) The development in the second. The process
-(c) The heat received by container A
-(d) The variation in internal energy in the third. process.
+Tank A in the figure, whose walls are rigid, has dimensions 1.1 m in height, 1.5 m in width and 1.5 m in length; it contains Nitrogen whose density is $3,43 dm^3/gr$ at a temperature of $59^\circ F$.
+The tank communicates with a piston through a valve $N_1$. The piston consists of a cylinder 20 cm in diameter and 110 cm in stroke.
+At the end of the cylinder there is a second valve $N_2$ that opens when the plunger passes, to which a balloon is connected, whose volume is zero.
+In a first process, with $N_1$ and $N_2$ closed, an amount of heat is supplied to vessel A such that its pressure increases until it reaches twice the initial one.
+In a second process $N_1$ is opened, displacing the plunger, thus obtaining a work $L_2$.
+Finally, when $N_2$ is opened, the balloon inflates. The last two processes can be assumed isothermal.
+Consider specific heat at P=const of Nitrogen = Cp = 0.2484 K cal/kg$^\circ$k.
+K = 1.4
+Calculate:
+a) The final volume of the balloon
+b) The L developed in the 2nd. Process
+c) The heat received by vessel A
+d) The variation of internal energy in the 3rd. process.
 
-(Figure)
-
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Piston (object)|Piston]], [[Cylinder (object)|Cylinder]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -4326,18 +3985,12 @@ Dati: Il calore specifico della Fe è: $c = 0,119 \frac{cal}{g^\circ C}$ e il co
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The amount of the loan is EUR 10 million.
+**Local Instance - 64. Federal Capital Green**
 
-Given the circuit in the figure, with resistances $R_1 = 1\Omega$, $R_2 = 2 \Omega$ and $R_3 = 3 \Omega$ connected to a battery of $12 Volts$. A radius sphere $r = 10cm$ is placed near the circuit. Calculate how much the temperature and volume of the sphere increase as much as possible, 1 minute after the battery has been connected, making the hypotheses and approximations that you consider necessary.
-Data: The specific heat of the Fe is: $c = 0,119 \frac{cal}{g^\circ C}$ and the linear dilation coefficient is: $\lambda = 1,2 \cdot 10^{-5} \frac{1}{^\circ C}$, and the density is: $s = 7,9 g/cm^3$.
+Given the circuit in the figure, with resistors $R_1 = 1\Omega$, $R_2 = 2 \Omega$ and $R_3 = 3 \Omega$ connected to a battery of $12 Volts$. A sphere of radius $r = 10cm$ is placed near the circuit. Calculate how much the temperature and the volume of the sphere increase at most, 1 minute after the battery has been connected, making the hypotheses and approximations you consider necessary.
+Data: The specific heat of Fe is: $c = 0,119 \frac{cal}{g^\circ C}$ and the coefficient of linear expansion is: $\lambda = 1,2 \cdot 10^{-5} \frac{1}{^\circ C}$, and the density is: $s = 7,9 g/cm^3$.
 
-(Figure)
-
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Battery (object)|Battery]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+(figure)
 
 
 
@@ -4386,22 +4039,15 @@ La luce incide normalmente sul lato minore di un prisma i cui angoli sono $30^\c
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Instance - 65. Buenos Aires Verde**
 
-The light normally hits the lower face of a prism whose angles are $30^\circ$, $60^\circ$ and $90^\circ$. A drop of liquid is placed above the hypotenuse of the prism. The refractive index of the prism is 1.5. Determine the maximum index the liquid can have so that the light beam is fully reflected.
+Light is incident normally on the smaller face of a prism whose angles are $30^\circ$, $60^\circ$ and $90^\circ$. A drop of liquid is placed on the hypotenuse of the prism. The refractive index of the prism is 1.5. Determine the maximum index the liquid can have so that the light ray is totally reflected.
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p25_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -4450,22 +4096,15 @@ Trovare il minimo indice di refraczione che il prisma triangolare deve avere per
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. The amount of the loan is EUR 10 million.
+**Local Instance - 66. Federal Capital Green**
 
-Find the minimum refractive index that the triangular prism must have for the light beam emitted by the source in Figure B to reach the photosensitive cell. Calculate how long it takes the lightning to reach it. $c = 3 \cdot 10^8 m/s$.
+Find the minimum refractive index that the triangular prism must have so that the light ray emitted by the source in figure B reaches the photosensitive cell. Calculate the time it takes the ray to reach it. $c = 3 \cdot 10^8 m/s$.
 
-(Figure: consistent light source, triangular prism with angles of $45^\circ$, photosensitive cell, dimensions 4m, 1,4m, $\sqrt{3}/2$, 2,5m, $2\sqrt{2}$, 3m)
-
+(figure: coherent light source, triangular prism with angles of $45^\circ$, photosensitive cell, dimensions 4m, 1.4m, $\sqrt{3}/2$, 2.5 m, $2\sqrt{2}$, 3 m)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p26_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -4609,27 +4248,20 @@ Risolve analiticamente e verifica graficamente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 6 of this Regulation. The amount of the loan is EUR 10 million.
+**Local Instance - 68. Buenos Aires City Green**
 
-An optical instrument consists of two lenses, a convergent and a divergent, both 10 cm from the focal length and 30 cm apart.
-(i) Determine the image obtained from a 4 cm high object located 20 cm from the convergent lens as shown in Figure:
+An optical instrument is made up of two lenses, one converging and one diverging, both with a focal length of 10 cm and separated from each other by 30 cm.
+i) Determine the image obtained from an object 4 cm tall located 20 cm from the converging lens as shown in the figure:
 Give the characteristics of the final image.
-It solves graphically and analytically.
-(ii) If you add another convergent lens (f = 10 cm) to the divergent lens continuously, $\xi$Where should you place it so that the image is real and twice the size of the object?
-It solves analytically and verifies graphically.
+Solve graphically and analytically.
+ii) If you then add another converging lens (f = 10 cm) after the diverging lens, $\xi$Where should it be placed so that the image is real and twice as large as the object?
+Solve analytically and verify graphically.
 
-(Figure)
-
+(figure)
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p27_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -4664,15 +4296,9 @@ Si dispone di una lamina di facce parallele di 3 cm di spessore e di un indice d
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The following table shows the number of cases of the accident:
+**Local Instance - 69. Cordoba Azul**
 
-It has a sheet of parallel faces 3 cm thick and a refractive index of 1.5. Above it is a beam with an angle of incidence of $50^\circ$. Calculate the length of the inner beam and the distance between the incident beam and the emerging beam.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+There is a parallel-sided plate whose thickness is 3 cm and whose refractive index is 1.5. A ray is incident on it with an angle of incidence of $50^\circ$. Calculate the length of the interior ray and the distance between the incident ray and the emerging ray.
 
 
 
@@ -4747,35 +4373,28 @@ Per il regolamento del zero del ponte è ammesso un errore di 40 mV.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the application. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Experimental Instance - 70. Mendoza Verde**
 
-If you encounter a line buried like that in Figure 1, it's been damaged by a fall to the ground. It is represented as a box with three terminals in figure 2.
+If you come across a buried line like the one in figure 1, which has suffered damage by developing a ground fault. It is represented as a box with three terminals, figure 2.
 
-(Figure 1 and Figure 2)
+(figure 1 and figure 2)
 
-You want to know how far you have to drill to repair it using:
-a- Continuous power source.
+You want to know at what distance you have to dig to repair it, with the following available:
+a- Direct current source.
 b- Two known fixed resistors.
-c- Known variable resistance.
-The following information shall be provided:
+c- One known variable resistor.
+d- One digital galvanometer.
 e- Length of the line... m.
-F- Copper resistance of 0.0175.
-g- Line diameter 1 mm.
-Note: The known variable resistance will be measured by the teacher when the student requires it.
-It is suggested for the solution of this practice to use Wheatstone's bridge theory and join one of the ends of the line as shown in Figure 1.
-Warning: Do not exceed 3 volts in the source voltage.
-A 40 mV error is allowed for the zero adjustment of the bridge.
-
+f- Resistivity of copper 0.0175.
+g- Diameter of the line 1 mm.
+Note: The known variable resistor will be measured by the teacher when the student requires it.
+For the solution of this practical exercise, it is suggested to use the theory of the Wheatstone bridge and to connect one of the ends of the line as in figure 1.
+Warning: Do not exceed 3 Volts in the source voltage.
+An error of 40 mV is allowed for the zero adjustment of the bridge.
 
 <!--fig:start-->
 ![[Cuadernillo_1993_p28_f1.png]]
 <!--fig:end-->
-
-**Topic:** [[Circuits]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]], [[Battery (object)|Battery]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -4888,16 +4507,10 @@ Materiali e strumenti disponibili: acqua, prova graduata, base di supporto, pall
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2005. The following table shows the number of cases of the accident:
+**Local Experimental Instance - 72. Cordoba Azul**
 
-The density of a solid and liquid is asked to be determined.
-Materials and instruments available: Water, graduated test, supporting base, screw ball, dynamometer, double nut, support rods, silk thread, alcohol. Clearly describe the procedure chosen (theoretical and experimental part).
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+It is required to determine the density of a solid body and of a liquid.
+Materials and instruments available: Water, graduated cylinder, support base, ball with screw, dynamometer, double clamp, support rods, silk thread, alcohol. Describe clearly the chosen procedure (theoretical and experimental part).
 
 
 
@@ -4962,30 +4575,24 @@ Il rapporto deve contenere:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the application. The following table shows the results of the evaluation:
+**Local Experimental Instance - 73. Jujuy Verde**
 
-OBJECTIVE: Calculate the acceleration of gravity in the city of San Salvador de Jujuy. (Height of S.S. The area of Jujuy is 1289 m above sea level.
-The following elements:
-The time
-The sphere
-Other
-Millimeter rule
-Other, of a width of <= 600 mm
-Support
-The following requirements:
-You can only use the items offered, paper, pencil. It's a calculator.
-The report shall contain:
-1) Analytical approach to the problem
+OBJECTIVE: Calculate the acceleration of gravity in the city of San Salvador de Jujuy. (Altitude of S.S. de Jujuy 1289 m above sea level).
+ELEMENTS:
+Stopwatch
+Sphere
+Caliper
+Millimeter ruler
+Nylon thread
+Stand
+REQUIREMENTS:
+You may only use the elements offered, paper, pencil, calculator.
+The report must consist of:
+1) Analytical formulation of the problem
 2) Experimental method used
-3) Values obtained from measurements made
-4) Error sources and analyses of how they influence the outcome
-5) Experimental result of the requested product.
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Sphere (object)|Sphere]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+3) Values obtained in the measurements made
+4) Sources of error and analysis of how they influence the result
+5) Experimental result of what was requested.
 
 
 
@@ -5022,16 +4629,10 @@ Elementi disponibili: taco, tavola in legno, carta millimetrica.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 74. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Experimental Instance - 74. Mar del Plata, Buenos Aires Azul**
 
-Determine, using a wooden board and a taco, the static friction coefficient between the two materials. Analytically explain the chosen experimental method.
-Available items: taco, wood panel, millimeter paper.
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+Determine, using a wooden board and a block, the coefficient of static friction between both materials. Explain analytically the experimental method chosen.
+Available elements: block, wooden board, graph paper.
 
 
 
@@ -5066,15 +4667,9 @@ Determinare l'indice di refraczione del materiale di una prisma trasparente, uti
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 7 of Regulation (EC) No 1272/2009. The Commission has also adopted a proposal for a regulation on the protection of the environment.
+**Local Experimental Instance - 75. Mar del Plata, Buenos Aires Azul**
 
-Determine the refractive index of a transparent prism material using pins, telgopores, millimeter paper, a prism.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Prism (object)|Prism]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+Determine the refractive index of the material of a transparent prism, using: pins, styrofoam, graph paper, a prism.
 
 
 
@@ -5131,26 +4726,19 @@ Di quante decimali si può essere sicuri?
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of proposals for the establishment of a new European research centre. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Experimental Instance - 76. Rosario, Santa Fe Verde**
 
-It is known that when a small body, suspended from a string of length L, (pendulum), is oscillated, the period of such oscillation is:
+It is known that when a small body is made to oscillate, hanging from a string of length L, (pendulum), the period of said oscillation is:
 $T = 2\pi\sqrt{\frac{L}{g}}$
 L: length of the pendulum
-The following is the list of the countries of origin:
-The following shall be added:
-This formula is true for small-width oscillations (less than $15^\circ$).
-1) Use the materials at your disposal to design and perform an experiment to measure gravitational acceleration.
-2) Explain how I perform the measurements.
-3) Indicate the precision (number of significant figures or decimal places) of each measurement.
-4) You're not going to get an exact value of g.
-How many decimals can you be sure of?
-5) What changes would you make to get a more accurate result if you had to do the experiment again?
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+T: Period g: acceleration of gravity
+This formula is valid for oscillations of small amplitude (less than $15^\circ$).
+1) With the materials available to you, design and carry out an experiment to measure the acceleration of gravity.
+2) Explain how you carried out the measurements.
+3) State what precision (number of significant figures or decimal places) each measurement had.
+4) You will not obtain an exact value of g.
+How many decimal places can you be sure of?
+5) What modifications would you make to obtain a more precise result, if you had to carry out the experiment again?
 
 
 
@@ -5225,35 +4813,22 @@ Presenta un rapporto che includa tabella di valori, grafici, errori stimati, ris
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2006. The amount of the loan is EUR 10 million.
+**Local Experimental Instance - 77. Capital Federal Verde**
 
-The objective:
-Using an experimental system, verify the theoretical model of Newton's laws.
-Other materials:
-1 rail
-1 carriage
-1 pulley
-Wire
-10 pesos
-Other, of a kind used for the manufacture of goods
-The time-meter
-spring
-support
-Balance
-Other, of a thickness of not more than 0,5%
+Objective:
+By means of an experimental system, verify the theoretical model of Newton's Laws.
+Materials:
+1 track
+1 cart
+1 pulley thread
+10 weights measuring tape, millimeter ruler stopwatch spring support balance millimeter graph paper
 Suggestions:
-It presents the equations corresponding to free-body diagrams without forgetting the force of friction.
-Present a report including a table of values, charts, estimated errors, experimental result and conclusions you wish to draw by guiding you with the following questions:
+Set up the equations corresponding to the free-body diagrams without forgetting the friction force.
+Submit a report including a table of values, graphs, estimated errors, experimental result and conclusions you wish to make, guided by the following questions:
 1. The constant you calculated, what mass does it represent in our experimental system?
 2. Under what conditions can the calculated mass be considered constant?
-3. What's the maximum possible acceleration of the system? Can you reach her even while despising the force of the razor?
+3. What is the maximum possible acceleration of the system? Can it be reached even neglecting the friction force?
 4. Is the calculated friction force constant over time?
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cart (object)|Cart]], [[Pulley (object)|Pulley]], [[Rope/String (object)|Rope/String]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
 
 
 
@@ -5304,23 +4879,17 @@ Determinare sperimentalmente il raggio di curvatura di tale specchio.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a number of measures to combat the spread of the virus. The amount of the loan is EUR 10 million.
+**Local Experimental Instance - 78. Green Federal Capital**
 
-The practical problem:
+Practical Problem:
 1) Given the following materials:
-- Lampara
-- The Lamplighter
-- Drilled cover
-- Slide show
-- The rule .
-- A concave mirror
-Experimentally determine the radius of curvature of the mirror.
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+- Lamp
+- Lamp holder
+- Perforated cover
+- Slide
+- Ruler
+- Concave mirror
+Experimentally determine the radius of curvature of said mirror.
 
 
 
@@ -5365,20 +4934,13 @@ acqua
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has decided to extend the period of validity of the application. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Local Experimental Instance - 79. Buenos Aires Green**
 
-The specific weight of a piece of cork (wood) and glycerin is required to be calculated.
-It shall be provided with:
-1 lead
+You are asked to calculate the specific weight of a piece of cork (wood) and of glycerin.
+The following are provided:
+1 plumb bob
 1 balance
-1 container
-water
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)
+1 container of water
 
 
 
@@ -5415,13 +4977,7 @@ Il $\delta$ dell'acqua distillata è di 1 $gr/cm^3$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+**Local Experimental Instance - 80. Santa Cruz Verde**
 
-Determine the volume of an irregular body and the thrust. A graduated vessel, tap water and a thread are available. Draw conclusions from the results obtained.
+Determine the volume of an irregular body and the buoyant force. A graduated container, water from a tap, and a thread are available. Draw conclusions from the results obtained.
 The $\delta$ of distilled water is 1 $gr/cm^3$.
-
-**Topic:** [[Fluid Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1Bx-_DKC8LcZ__VlQdYWe_hirDt6YfzZL/view)

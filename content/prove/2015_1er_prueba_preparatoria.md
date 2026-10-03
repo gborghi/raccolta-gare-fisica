@@ -413,75 +413,68 @@ $$\mu_d= \frac{F_R}{N}= \frac{T-m_2(a+ g\sin 30)}{m_2g\cos 30}= \frac{1}{\sqrt{3
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two:
+Problem 2:
 a.
 
 b.
-Body one.
+Body 1.
 
 $$\vec{T}_1 + \vec{P}_1 = m_1\vec{a}_1$$
 
-According to the coordinate system chosen for the body 1
+According to the coordinate system chosen for body 1
 
 $$T_1 -m_1g= -m_1a$$
 
-Body two.
+Body 2.
 
 $$\vec{T}_2 + \vec{P}_2 + \vec{F}_R + \vec{N} = m_2\vec{a}_2$$
 
 According to the coordinate system chosen for body 2
-In the address x)
+In the x direction)
 $$T_2 -F_R-m_2g\sin 30 = m_2a$$
-In the address y)
+In the y direction)
 $$N-m_2g\cos 30 = 0$$
 
-Since the rope has no mass and no friction in the pulleys,
+Since the rope has no mass and there is no friction in the pulleys,
 
 $$T_1 = T_2 = T$$
 
 c.
-From the equation of motion of the body 1
+From the equation of motion of body 1
 
 $$T= m_1(g-a) = 48\ \text{N}$$
 
 d.
-Of the equation of motion in the direction x) of the body 2
+From the equation of motion in the x direction) of body 2
 
 $$F_R= T-m_2(a+ g\sin 30) = 20\ \text{N}$$
 
-e. As
+e. Since
 $$F_R= \mu_d N$$
 
-Of the equation of motion in the direction y) of the body 2
+From the equation of motion in the y direction) of body 2
 $$N= m_2g\cos 30$$
 
 Then
 
 $$\mu_d= \frac{F_R}{N}= \frac{T-m_2(a+ g\sin 30)}{m_2g\cos 30}= \frac{1}{\sqrt{3}}$$
 
-
 <!--fig:start-->
 ![[_attachments/2015_1er_prueba_preparatoria/2015_1er_prueba_preparatoria_p3_f2.png]]
-The following is the list of the instruments used in the production of the instrument:
+*blocks connected by a rope on a 30° inclined plane*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2015_1er_prueba_preparatoria/2015_1er_prueba_preparatoria_p13_f6.png]]
-The following table shows the results of the evaluation of the results of the evaluation:
+*free-body diagram Body 1 (solution)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2015_1er_prueba_preparatoria/2015_1er_prueba_preparatoria_p13_f7.png]]
-The following table shows the results of the evaluation of the results of the evaluation:
+*free-body diagram Body 2 (solution)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2015_1er_prueba_preparatoria/2015_1er_prueba_preparatoria_p17_f9.png]]
-The Commission has also adopted a draft decision on the implementation of the Community's budget.
+*free-body diagram of both blocks*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Block (object)|Block]], [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Inclined Plane (object)|Inclined Plane]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/1PP1RurRAc-dPxWGq0ro8-XcZjOLM_i45/view)
 
 
 
@@ -810,36 +803,33 @@ $$M= 18.7 \pm 0.6\ \text{g}$$
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three:
+Problem 3:
 
 a. The initial energy of the system is
 
 $$E_0 = \frac{1}{2} mv^2 + mgh_1 = 4\,\text{J}$$
 
-Energy conservation
+By conservation of energy
 $$E_A= \frac{1}{2} mv_A^2 + mgh_2 = 4\,\text{J}$$
 
 $$v_A= 5\ \text{m}\,\text{s}^{-1}$$
 
-b. For energy conservation, when the spring is fully compressed it must be met
-which
+b. By conservation of energy, when the spring was fully compressed it must hold that
 $$E_R= \frac{1}{2} k_1x^2 + mgh_2 = 4\,\text{J}$$
 
 $$x= 0.2\ \text{m}$$
 
-c. For energy conservation, the block velocity in the loop is equal to the magnitude
-but direction contrary to the initial speed,
+c. By conservation of energy, the velocity of the block on the hill has the same magnitude but opposite direction to the initial velocity,
 
 $$v= 4\ \text{m}\,\text{s}^{-1}$$
 
-d. By energy conservation up to point B
+d. By conservation of energy up to point B
 
 $$E_B= \frac{1}{2} mv_B^2 = 4\,\text{J}$$
 
 $$v_B= 6.325\ \text{m}\,\text{s}^{-1}$$
 
-Between points B and C there is dynamic friction so no energy is conserved in that
-I'll take the stretch. The modulus of bridging force is,
+Between points B and C there is dynamic friction, so energy is not conserved in that stretch. The magnitude of the friction force is,
 
 $$F_R= \mu_d N= \mu_d mg$$
 
@@ -852,28 +842,26 @@ $$W= E_C-E_B= \frac{1}{2} mv_C^2 -4\,\text{J}$$
 $$v_C= 5.196\ \text{m}\,\text{s}^{-1}$$
 
 e.
-Energy is conserved from C to spring and from spring to C. Passing the stretch
-Between points C and B, the block loses the same energy -1.3J as when it traveled the
-So at point B the energy of the block is,
+Energy is conserved from C to the spring and from the spring to C. When passing through the stretch between points C and B, the block loses the same energy -1.3J as when it traveled the stretch the first time, so at point B the energy of the block is,
 
 $$E_B= 4\,\text{J}-1.3\,\text{J}-1.3\,\text{J}= 1.4\,\text{J}$$
 
-The minimum energy to reach the $h_1$ elevation is,
+The minimum energy to reach the elevation $h_1$ is,
 
 $$E_\text{min}= mgh_1 = 2.4\,\text{J}$$
 
-Therefore, the block does not reach the $h_1$ elevation. The height $h$ at which the block reaches is,
+Therefore, the block does not reach the elevation $h_1$. The height $h$ at which the block arrives is,
 
 $$E_B= mgh= 1.4\,\text{J}$$
 
 $$h= 0.7\ \text{m}$$
 
-The test shall be carried out in accordance with the following conditions:
+Experimental Test
 Answer sheet.
 
-Scores are 1-7. For each measurement: 1.50 pts.
+Points 1 to 7. For each measurement: 1.50 points.
 
-♪ ♪ Measurement ♪ ♪ D [cm] ♪ D [cm] ♪ D [cm] ♪ M [g] ♪
+| #Measurement | D [cm] | d [cm] | D' [cm] | d' [cm] | M [g] |
 |---|---|---|---|---|---|
 | 1 | 1.8 | 12.2 | 4.1 | 9.9 | 18.7 |
 | 2 | 1.6 | 10.4 | 3.5 | 8.5 | 19.4 |
@@ -886,12 +874,12 @@ Scores are 1-7. For each measurement: 1.50 pts.
 | 9 | 0.8 | 5.2 | 1.8 | 4.2 | 18.2 |
 | 10 | 0.7 | 4.3 | 1.5 | 3.5 | 18.8 |
 
-The point is 8:5.00 p.m.
+Item 8: 5.00 points.
 $$M= \bar{M} \pm \frac{s}{\sqrt{10}}= 18.7 \pm 0.1\ \text{g}$$
 
-The Commission
+SOLUTION
 
-♪ ♪ Measurement ♪ ♪ D [cm] ♪ D [cm] ♪ D [cm] ♪ M [g] ♪
+| #Measurement | D [cm] | d [cm] | D' [cm] | d' [cm] | M [g] |
 |---|---|---|---|---|---|
 | 1 | 1.8 | 12.2 | 4.1 | 9.9 | 18.7 |
 | 2 | 1.6 | 10.4 | 3.5 | 8.5 | 19.4 |
@@ -904,8 +892,7 @@ The Commission
 | 9 | 0.8 | 5.2 | 1.8 | 4.2 | 18.2 |
 | 10 | 0.7 | 4.3 | 1.5 | 3.5 | 18.8 |
 
-Distances are measured with 1 mm of uncertainty and the water mass with 0.2 g if
-the syringe has 5 subdivisions for each $\text{cm}^3$
+The distances are measured with an uncertainty of 1 mm and the mass of water with 0.2 g if the syringe has 5 subdivisions for each $\text{cm}^3$
 
 $$\bar{M} = \sum_i M_i= 18.73\ \text{g}$$
 
@@ -913,24 +900,16 @@ $$s= \sqrt{\frac{\sum_i(M_i-\bar{M})^2}{N}}= 0.36 \quad \text{con } N = 10$$
 
 $$M= \bar{M} \pm \frac{s}{\sqrt{10}}= 18.7 \pm 0.1\ \text{g}$$
 
-Another option is to associate an uncertainty equal to the width of the mass interval.
-the following: In this case:
+Another option is to associate an uncertainty equal to the width of the interval of determined masses divided by 2. In this case:
 
 $$\varepsilon= \frac{M_\text{max}-M_\text{min}}{2}= 0.6\ \text{g}$$
 
 $$M= 18.7 \pm 0.6\ \text{g}$$
 
-
 <!--fig:start-->
-*block its rim with two R1 and R2 springs*
+*block on the incline with two springs R1 and R2*
 <!--fig:end-->
 
-**Topic:** [[Conservation of Energy]], [[Newtonian Mechanics]]
-**Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Statistical Averaging (metodo)|Statistical Averaging]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Block (object)|Block]], [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1PP1RurRAc-dPxWGq0ro8-XcZjOLM_i45/view)
-
 ## Figure
 
 ## Figure
@@ -960,9 +939,9 @@ $$M= 18.7 \pm 0.6\ \text{g}$$
 ## Figure
 
 <!--fig:start-->
-The weight of the weighted arm balances (Figure 1)
+**p.9** — balance with arms and weights (Figure 1)
 <!--fig:end-->
 
 <!--fig:start-->
-The table edge shall be adjusted with a rug (Figure 2)
+**p.9** — ruler on table edge with small cap (Figure 2)
 <!--fig:end-->

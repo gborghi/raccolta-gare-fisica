@@ -61,46 +61,34 @@ Codice Studente: TEO
 <div class="qlang-split" data-lang="en"></div>
 
 P1
-A cylinder that slides and rolls
+Cylinder that slides and rolls
 1
-Distance from point A
-d =
+Distance traveled by point A d =
 2
-P speed and force of friction
+Velocity of P and friction force
 VP =
-Fa =
-with the condition
+Fa = with the condition
 Fa = 0
 $\Leftrightarrow$
 3
-Speed v(t) and u(t); time t1 and graphs
-v(t) =
-t1 =
-u(t) =
-The chart:
+Velocity v(t) and u(t); time t1 and graphs v(t) = t1 = u(t) =
+Graph:
 4
-Completion of the chart
+Completion of the graph
 5
 Calculation of $\omega0$, t0 and d
-$\omega0$ =
-t0 =
-d =
+$\omega0$ = t0 = d =
 6
-Discussion on the final cylinder motion
+Discussion on the final motion of the cylinder
 For $\omega0$ > $\omega0$
 For $\omega0$ < $\omega0$
 7
-Work of the force of friction
+Work of the friction force
 La =
-Theoretical competition: 21.04.2017
-The following is the list of the countries of the European Union:
+PHYSICS OLYMPIADS – National Theoretical Competition: 21.04.2017
+Student Code: TEO
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]], [[Conservation of Energy]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1i-lnW76evtSMoPZ73whUPHw4jA48DJJi/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AQkZCZv4MOgmw9lkaMVofEiCpd_6gEhM/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1AQkZCZv4MOgmw9lkaMVofEiCpd_6gEhM/view)
 
 
 

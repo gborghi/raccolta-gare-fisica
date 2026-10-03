@@ -249,236 +249,52 @@ struttura
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM n.
 1
 {
-T
-re
-Other, of a kind used for the manufacture of goods
-Very much
-The following is the list of the countries of the European Union:
+Three very smooth cylinders
 100
-The Commission
-ti
+Points
 In
 
-Gurus
-a
-Left
-I am
-representing
-Daddy
-s
-I will not be able to accept it.
-te
-three
-Other, of a kind used for the manufacture of goods
-equal,
-Ias one
-di
-Other
+the figure on the left, three identical cylinders are represented schematically, each of mass
 M
-,
-p
-Other
-su
-un
-- It 's not easy .
-The following is the list of the countries:
-such
- on
-le
-Basics
-v
-High wings
-e
-Other, of a kind used for the manufacture of goods
-e
-in
-mo
-do
+, placed on a horizontal plane with vertical and coplanar bases and in such a way
 
-he
-The Commission shall adopt a decision on the
-Other, of a kind used for the manufacture of goods
-have
-la
-Supplementary
-er
- ie
-Other, of a kind used for the manufacture of goods
-Other
-te
-a
-The other two
-of the
-Other
-Two.
-I
-Other, of a kind used for the manufacture of goods
-I am
-Very much
-s iv
-Other, of a kind used for the manufacture of goods
-given
+that each cylinder has its lateral surface tangent to those of the other two.
+The cylinders are very smooth since
 
-he
-Each
-Form
-di
-Friction
-between
-All of them
-le
-Supplementary
-er
- i
-a
- on
-The touch
+every form of friction between all contacting surfaces
 
-e
-I'm not sure.
-So, what?
-p
-er
-Man
-Hold
-in
-Balance
-la
-the structure,
-v
-The following is a list of the following:
-the theses,
-One of them.
-da
-One of them.
-Part
-e
-One of them.
-The other side
-{
-human beings
-si
-v
-Other
-in
+is negligible.
+Therefore, to keep the structure in equilibrium, two inextensible cords of negligible mass are stretched, one from one side and one from the other
+{ as can be seen in the
 
-Gurus
-{,
-two
-Other
-Other, of a kind used for the manufacture of goods
-e
-di
-Other
-Other
-
-he
-other than
-The Commission
-Other, not further worked than hot-rolled
-of the
-two
-Other, of a kind used for the manufacture of goods
-App
-Other
-on the
-- I'm not going to.
+figure
+{, connecting the axes of the two cylinders resting on the plane.
 1.
 What
 
-e
-la
-Minimum
-The following conditions shall apply:
-in
-Ias one
-Other
+is the minimum tension in each cord
 
-he
-onsen
-te
-di
-Man
-Hold
-in
-Balance
-il
-The system?
-In
-followed
-si
-It puts
-in
-Motorcycles
-il
-system
-the application of the code,
-al
-Other, of a kind used for the manufacture of goods
-di
-left,
-One of them.
-- What ?
+that allows the system to be kept in equilibrium?
+Then the system is set in motion by applying, to the left cylinder, a force
 ~
 F
-,
-The following is the list of the countries:
-such,
-human beings
-shown
-In the
+, horizontal, as shown in the
 
-Gurus
-a
-Right,
-e
-Right now.
-after
-o
-si
-They eliminate
-le
-The Horde.
+figure on the right, and immediately afterwards the cords are removed.
 2.
 What
 
-e
-l'in
-Other
-The following is the list of the
-di
-v
-Other
+is the interval of values
 
-he
-pu
-o
-to hire
-la
-- What ?
+that the force can take that accelerates the system without
 
-he
-Other, not further worked than cut
-il
-system
-without
-
-he
-la
-structure
-What's the matter?
+the structure collapsing?
 |||||||||||
 
-**Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1RqrohBHoaNS8_7Tke77qJZUINMwVPDXV/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 
@@ -641,155 +457,48 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 2
 {
-T
-ri- i lo:
+Title:
 :
 :
-term
-Other, of a kind used for the manufacture of goods
+thermodynamic
 35
-The Commission
-ti
-La
+Points
+The
 
-Gurus
-representing
-ta
-un
- i lo
-term
-Other, of a kind used for the manufacture of goods
- ui
+figure represents a thermodynamic cycle to which
+a system of n moles of a perfect monatomic gas is subjected.
+The volume of the gas
 
-e
-The bottom
-Other
-un
-system
-di
-n
-Other
-di
-un
-Gas
-p
-of which:
-The following is the list of the monatomic atoms.
-Il
-v
-Other, of a kind used for the manufacture of foodstuffs
-of the
-Gas
-
-e
-Initially
-te
-doubled
-Median
-te
-One of them.
-the transformation
-Other, of a kind used for the manufacture of goods
-Almost
-The following are the statistics:
-1{2,
-e
-on the exiv
-I will not let you go.
-te
-He 's coming .
-RIP
-Other, not elsewhere specified or included
-al
-v
-Other
-Initial
- on
-One of them.
-Other, not further worked than hot-rolled
-Other, of a kind used for the manufacture of goods
-Almost
-The following are the statistics:
+is initially doubled by means of a quasi-static isothermal transformation
+1{2, and subsequently is brought back to the initial value with a quasi-static isobaric compression
 2{3.
-In
-ne,
- on
-un
-Other articles of heading No 5
-to
-Durand
-te
-il
-which
-il
-v
-Other, of a kind used for the manufacture of foodstuffs
-It stays
-Other
-te,
-il
-system
-He 's coming .
-RIP
-Other, not elsewhere specified or included
-The following is the list of the
-State of the Union
-The first one.
+Finally, with a heating during which the volume remains constant, the system is brought back to the initial state.
 
-Other
-il
-The Commission shall adopt implementing acts.
-to
-di
-un'ip
-The following is the list of
-ma
-Other
-Other
-
-he
-following
-This one.
- i lo
-term
-I'm not going to say.
+Calculate the efficiency of a hypothetical heat engine that follows this thermodynamic cycle.
 |||||||||||
-P
-ag.
-2
-di
+Page
+2 of
 4
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
+Physics Olympiad
 2008
-Ga
-ra
-National team:
-The following is the list of the Member States:
+National Competition:
+PRO
 V
 A
-Theoretical
+THEORETICAL
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]], [[Heat Engine (object)|Heat Engine]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1RqrohBHoaNS8_7Tke77qJZUINMwVPDXV/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 
@@ -1276,479 +985,146 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 3
 {
-The evidence
-di
-You have it
+Elasticity tests
 
 a
 100
-The Commission
-ti
-In
-This one.
-The problem
-si
-He wants to
-studying,
- on
-un
-mo
-of the
-Other
-the act,
-The elastic it
-a
-di
-un
-Other materials
-I'm going to eat.
-Supp
-We are
-di
-a
-v
-The Commission
-un
-Other materials
+Points
+In this problem we want to study, with a simplified model, the elasticity of a crystalline material.
+Suppose we have a material
 
-he,
-in
-Absence
-di
-Forces
-the external,
+that, in the absence of external forces,
 
-e
-The Commission shall adopt implementing acts.
-di
-un
-Networks
-or
-di
-the atoms,
+is made up of a cubic lattice of atoms,
 
-he
-in
-Other
- on
-a power source
-p
-The following information shall be provided:
-in
-The following table shows the results of the tests:
+which interact with an interatomic potential energy
 
-he,
-al
-v
-Airing
-of the
-distance
-in
-The following table shows the results of the tests:
-r
-,
-ha
-This one
-the form:
-U
-(r
+that, as the interatomic distance r
+varies, has this form:
+U (r
 )
 =
 U
-0
-r
+0 r
 4
-0
-r
+0 r
 4
  2
 U
-0
-r
+0 r
 2
-0
-r
-2
- on
+0 r
+2 with
 U
 0
 =
-5
-eV;
+5 eV;
 r
 0
 =
-0:3
-nm
+0:3 nm
 :
-P
-er
-Simplify it
-a,
-si
-Other
-Other
-to
-the interaction
-di
-The Commission shall adopt a decision on the
-atoms
- on
-i
-of its own
-wines
-pi
+For simplicity, consider only the interaction of each atom with its nearest neighbors;
+neglect therefore the interaction between the atoms
 
-u
-the next;
-si
-Other
-So, what do you mean?
-the interaction
-between
-The Commission
-atoms
+that are at the ends of a diagonal of the lattice.
+This
 
-he
-si
-The Commission
-v
-- What?
-to the
-Extreme
-di
-One of them.
-Other, not further worked than hot-rolled
-of the
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-This one
+is a rather drastic simplification because
 
-e
-One of them.
-Other
-Action
-I'm not sure.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-p
-er
-h
+it is precisely the interaction with the second neighbors
 
-e
-
-e
-I mean,
-l'in
-Tanning
- oi
-If you go
-You know,
-
-he
-It is
-together
-il
-It's solid.
+that holds the solid together.
 1.
-Si
-between the two,
-in
-mo
-do
-The quality
-o
-e
-in
-function
-of the
-distance
-in
-The following table shows the results of the tests:
-r
-,
-il
-The following is the list of the
- o
-Energy
-p
-The following information shall be provided:
-U
-(r
+Draw, qualitatively and as a function of the interatomic distance r
+, the graph of the potential energy
+U (r
 )
-e
-That one.
-of the
-Relative
-a
-- What ?
-di
-in
-Tanning
-between
-The Commission
-atoms
-You know,
-f
-(r
+and that of the corresponding interaction force between neighboring atoms f (r
 )
 
-he
-pu
-o
-to be
-of which:
-from
-First of all.
+that can be deduced from the former.
 2.
-Si
-di a
-When
-to
-v
-Other
-la
-distance
-di
-Balance
-between
-The Commission
-the atoms,
-e
-a
-which
-Distance
-la
-- What ?
-The following is the list of the
-attractive
-a
-o
-Rejecting
-a.
-I 'm going to go
-ad
-One of them.
-fa ia
-of the
-food
-One of them.
-- What ?
-di
-Traction
-p
-Other
-Other, of a kind used for the manufacture of goods
-ad
-un
-- It 's not easy .
-the wavelength of the network,
-Men and women
-three
-la
-fa ia
-Op.
-Other
+State what the equilibrium distance between the atoms is, and at what distances the force is attractive or repulsive.
+By applying to one face of the crystal a tensile force perpendicular to a reticular plane, while the opposite face
 
-e
+is
 
-Other
-ad
-un
-Supp
-the vegetable,
-il
-food
-si
-deformation,
-stretching out
-In the
-Direction
-of the
-- I'm going to go.
-Both
-F
-il
-mo
-Other
-of the
-Come on, you guys.
-A
-the area
-of the
-Supplementary
-er
- ie
-a
- ui
-la
-- What ?
+fixed to a support, the crystal deforms, elongating in the direction of the force.
+Let
+F be the modulus of the force,
+A the area of the surface to which the force
 
-e
-the following applies:
-L
-la
-length
-of the
-food
-In the
-Direction
-of the
-Come on, you guys.
-e
- L
-il
-his
-Other
-to
-p
-er
-e
-Other
-of the
-- What ?
-The Commission shall adopt implementing acts.
-Si
-
-Other
-I'm trying.
-la
-size
+and applied,
+L the length of the specimen in the direction of the force, and
+ΔL its elongation due to the applied force.
+One
+calls
+"stress" the quantity
 F
 =
-A
-e
-'deformation'
-the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of the length of
-to
-Relative
-o
- L=L.
-Il
-REP
-vegetable
-between
-These
-two
-the greatness,
-p
-er
-Other
-deformities,
+A and
+"strain" the relative elongation
+ΔL=L.
+The ratio between these two quantities, for small deformations,
 
-e
-Other
-te
-ed
+is constant and
 
-e
-One of them.
-characteristics of a
-of the
-Other materials
-Notes
-human beings
-\mo
-Other
-di
-Y
-the following:
+is a characteristic of the material known as
+"Young's
+modulus":
 E
 =
 
 F
 =
 A
- L=L
+ΔL=L
 
 :
-Si
-for oil:
+Calculate:
 3.
-il
-mo
-Other
-di
-Y
-Oung
-of the
-the material;
+the Young's
+modulus of the material;
 4.
-la
-Deformation
-When
-il
-Other, not further worked than hot-rolled
+the strain when the solid
 
-e
-al
-the following points are added:
-to
-di
-the breakdown;
+is at the breaking point;
 5.
-lo
-The amount of effort
-I am not
-p
-er
-to arrive
-to the
-The first is the breakdown.
+the stress necessary to reach breaking.
 Note:
-Pu
-o
-to be
-Useful
-Re-order
+It may be useful to remember
 
-he
+that
 1
 1
-+
-x
++ x
 
-1
- x
-When
-x
+≈ 1 − x when x
 
-1.
+≪ 1.
 |||||||||||
-P
-ag.
-3
-di
+Page
+3 of
 4
-The following information is provided:
+AIF
 {
-The Olympics
-di
-The following is a list of
+Physics Olympiad
 2008
-Ga
-ra
-National team:
-The following is the list of the Member States:
-V
-A
-Theoretical
+National Competition:
+THEORETICAL
+PROBLEM
 {
-The following is the list of countries:
+Senigallia
 {
 18
-Ap
-Reels
+April
 2008
 
-**Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
-**Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1RqrohBHoaNS8_7Tke77qJZUINMwVPDXV/view)
-**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
+**Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
 
 
@@ -2318,125 +1694,31 @@ di
 
 <div class="qlang-split" data-lang="en"></div>
 
-The problem
-n.
+PROBLEM no.
 4
 {
-Other, of a kind used for the manufacture of goods
-ri
-The Commission shall adopt the following:
-re
-pi
+Condenser always more
 
-u
-Other oils
+u more oils
 65
-The Commission
-ti
-La
-- What?
-a
-di
-un
-Other, of a kind used for the manufacture of goods
-in
- ui
-lo
-sp
-The following is the list of the countries of the European Union:
-d
-of the
-a width of not more than 15 mm
-It's either
-Very much
-Other
-Responsibility
-Other
-The Commission
-Size
-of the
-Other articles of iron or steel
-(la
-the condition
-pu
-o
-to be
-p
-Other
-human beings
-d
+Points
+The capacitance of a capacitor in which the thickness d of the dielectric is much smaller than the dimensions of the plates (the condition can be posed as d
 2
 
 S
-,
-being
-S
-la
-Supplementary
-er
- ie
-of the
-(including armor)
-pu
-o
-to be
-Always
-Other, of a kind used for the manufacture of goods of heading 8106
-human beings
-That one.
-di
-un
-Other, of a kind used for the manufacture of goods
-a
-fa e
-Plans
-e
-parallel to the other.
+, where
+S is the surface area of the plates)
+can always be calculated as that of a capacitor with flat and parallel plates.
 1.
-After
-o
-a
-v
-er
-determined
-the expression
-of the
-- What?
-a
-di
-un
-Other, of a kind used for the manufacture of goods
-spheres or
-In the
-empty
-("
-r
+After having determined the expression of the capacitance of a spherical capacitor in vacuum (" r
 =
 1)
-le
- ui
-Other articles of iron or steel
-Have
-Radiation
+whose plates have radii
 R
-1
-e
+1 and
 R
 2
-,
-v
-You were
-are
-la
-for Eden
-te
-the claim,
-When
-It's either
-so
-Other, of a kind used for the manufacture of goods
-la
-the condition
+, verify the previous assertion, when the condition
 R
 2
  R
@@ -2445,257 +1727,61 @@ R
 R
 1
 .
-Si
-Other
-Now
-un
-Other, of a kind used for the manufacture of goods
-(p
-er
-il
-which
-la
-the condition
-the following:
-It's either
-v
-You were
-the following:
-Other
-h
-
-e
-p
-Other
-to be
-the product is not
-ad
-un
-Other, of a kind used for the manufacture of goods
-(Please)
-in
- ui
-The Commission
-a
-of the
-v
-Other, of a kind used for the manufacture of foodstuffs
-It's either
-The Commission shall adopt implementing acts.
-from
-Other articles of iron or steel
-e
-The Commission
-a
-from
-Other materials
-isolan
-te
-Other, of a width of not more than 30 mm
-from
-Other
-te
-Other, of a kind used for the manufacture of goods
-Relative
-a
-("
-r
+Consider now a capacitor (for which the said condition is satisfied, so that it can be assimilated to a flat capacitor)
+in which half of the volume is constituted by the plates and half by the insulating material characterized by the relative dielectric constant (" r
 >
 1)
-e
-from
-Rigid
-a
-Other, of a kind used for the manufacture of goods
-(E
-m
+and by the dielectric strength (E m
 )
-de
-Notwithstanding
-human beings
-il
-Not more than
-amp
-o
-electrical or
+defined as the maximum electric field
 
-he
-il
-a width of not more than 15 mm
-pu
-o
-Other
-toasting
-without
+that the dielectric can withstand without
 
-he
-v
-The following is the list of the products:
-the following points are added:
-v
-Other
-{
-e
-So, what do you mean?
-Destroyed
-{
-da
-One of them.
-The following is the list of the countries of the European Union:
-Un
-Other, of a kind used for the manufacture of goods
+being crossed
+{ and therefore destroyed
+{ by a discharge.
+A capacitor
 
-e
-a
-his
-v
-- I'm not going to.
-identified
-da
-two
-Parameters
-characteristics i:
-la
-- What?
-a
-C
-e
-la
-The following conditions shall apply:
-maximum
-di
-la
-v
-gold
-V
-Max
+in turn is identified by two characteristic parameters:
+the capacitance
+C and the maximum working voltage
+V max
 .
 N.B.
-P
-er
-Not
-Flooding
-la
-the voltage,
- io
-
-e
-la
-d.d.p.
-V
-Applications for the
-between
-le
-Other articles of iron or steel
- on
-il
-v
-Other, of a kind used for the manufacture of foodstuffs
-of the
-a winding machine,
-The latter
-will be
-a
-Other
-{
-in
-mo
-do
-in
-common
-{
- on
-la
-Letter
+In order not to confuse the voltage, i.e. the p.d.
+V applied between the plates with the volume of the capacitor, the latter will be indicated
+{ in the usual way
+{ with the letter
  .
+
 2.
 Show
 
-he
-il
-v
-Other, of a kind used for the manufacture of foodstuffs
+that the volume
 
-di
-un
-Other, of a kind used for the manufacture of goods
-di
-- What?
-a
-C
-e
-The following conditions shall apply:
-maximum
-di
-la
-v
-gold
-V
-Max
-,
-Not
-pu
-o
-to be
-Other
-ad
-un
-I'm not sure.
-T
-ro
-v
-are
+of a capacitor with capacitance
+C and maximum working voltage
+V max
+, cannot be lower than a minimum.
+Find
 
-Minimum number of days
-in
-function
-of the
-two
-Property
-a
-Other
-he
-of the
-a width of not more than 15 mm
-"
-r
-e
-E
-m
+min as a function of the two characteristic properties of the dielectric
+" r and
+E m
 .
 3.
-What
-of the
-following
-ti
-Other materials
-the following table shows the following:
-onsen
-The following is the list of the countries of the European Union:
-e
-di
-for
-- to be painful
-Other, of a kind used for the manufacture of goods
-di
-v
-Other, of a kind used for the manufacture of foodstuffs
-What's the minimum?
-Other materials
-"
-r
-E
-m
-[
-kV/mm
+Which of the following dielectric materials would allow capacitors of minimum volume to be produced?
+Material
+" r
+E m
+[ kV/mm
 ℄
 1.
-Paper
-- The first
+Carta paraÆnata
 2:5
 50
 2.
-Look at me
+Cerami a
 60
 15
 3.
@@ -2703,174 +1789,59 @@ Mi a
 8
 90
 4.
-P
-Other, of a thickness of not more than 10 mm
+P olistirolo
 2:6
 50
 5.
-P
-or ellana
+P or ellana
 6
 25
 6.
-Other, of a kind used for the manufacture of goods
-ep
-Other, of a kind used for the manufacture of goods
+Resina ep ossidi a
 4
 35
 7.
-T
-e
-on
+T e on
 2:2
 20
-Not
+NOT
 A:
-I
-data
-RIP
-Other articles of heading No.
-in
-tab
-She 's a
-I am
-Puramins
-te
-active
-e
-in
-to the one
-Other
-si
-Reported on
-a
-Other, of a kind used for the manufacture of goods
-Other
-of the
-Div
-Other
-materials;
-p
-er
-Example
-v
-Other
-Type of goods
-di
-Other, of a kind used for the manufacture of goods
-o
-di
-I was
-he
-p
-They are
-a
-v
-The following are the
-Other
-he
-I'm not sure.
-Other
-te
-Div
-Other
-da
-The other two
-Other
-I'm going to get you here.
+I dati rip ortati in tab ella sono puramen te indi ativi e in al uni asi si riferis ono a parti olari ampioni dei div ersi materiali;
+p er esempio v ari tipi di resine o di erami he p ossono a v ere aratteristi he notev olmen te div erse da quelle indi ate qui.
 4.
-T
-ra
-The other
-RIP
-Other articles of heading No.
-above,
-which
-a width of not more than 15 mm
-si
-pu
-o
-to hold
-It's either
-State of the Union
-used
-p
-er
-The Commission shall adopt the following measures:
-un
-Other, of a kind used for the manufacture of goods
-da
+T ra quelli rip ortati sopra, quale dielettri o si pu o ritenere sia stato usato p er realizzare un ondensatore da
 4:7
 F
 
-he
-Other
-Other
-One of them.
-The following conditions shall apply:
-di
-la
-v
-gold
-di
+he sopp orta una tensione di la v oro di
 50
-V
-ed
-ha
-la
-Form
-di
-un
-Other
-Other
-- The following:
-di
+V ed ha la forma di un pi olo parallelepip edo di
 10
 
 10
 
-2
-mm
+2 mm
 3
 ?
-Other materials
-for
-The Commission
-from
-Group
-o
-Olympic Games
-Project
-Project
-Olympic Games
-The Secretariat
-The Olympics
-Italian
-of the
-The following is a list of
-p
-Results
+Materiale pro dotto dal grupp o
+OLIMPIADI
+PROGETTO
+PROGETTO
+OLIMPIADI
+Segreteria
+Olimpiadi
+Italiane della
+Fisi a p resso
 Li eo
-The Commission
- o
+S ienti o
 \U.
-Mo
-the following paragraphs are added:
-The Master
-(VE)
-The fax:
-041.584.1272
-E-mail:
-The following information is provided by:
-P
-ag.
-4
-di
+Mo rin",
+MESTRE (VE)
+fax:
+041.584.1272 e-mail:
+olifis libero.it
+P ag.
+4 di
 4
 
-**Topic:** [[Electrostatics]]
-**Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Capacitor (object)|Capacitor]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1RqrohBHoaNS8_7Tke77qJZUINMwVPDXV/view)
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)

@@ -355,24 +355,18 @@ Determina la densità di una foglia di carta (utilizza foglie di carta di massa 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The test results are presented in the following table:
+**Experimental Problem**
 
-For each task, prepare a brief report containing the following points:
+For each task, write a brief report consisting of the following points:
 - a) Objective
-- description of the measurement method (scheme).
-- (c) measured values (tables, charts, etc.).
-- d) Result
+- b) Description of the measurement method (diagram).
+- c) Measured values (tables, graphs, etc.).
+- d) Result.
 
-The following information is provided by the Commission:
+**Task 1**
 
-Determine the static friction coefficient between a rubber and a rubber.
+Determine the coefficient of static friction between a ruler and an eraser.
 
-The following information is provided by the Commission:
+**Task 2**
 
-Determine the density of a sheet of paper (use sheet of paper of known mass per square metre, e.g. $70\ \text{g/m}^2$).
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1FeEQEzv2rdDu5cL4b_C2abwSnGHzTbFl/view)
+Determine the density of a sheet of paper (use sheets of paper with known mass per square meter, for example $70\ \text{g/m}^2$).

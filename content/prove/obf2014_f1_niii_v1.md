@@ -289,53 +289,31 @@ V
 V
 1
 2
-3
-di cui al capitolo 6
-aerei
-rotore
-Cose di ingranaggi
-Controllo della velocità
-Controllo della direzione del vento
-torre
-Anemometro
+3 generatore eliche rotore scatola degli ingranaggi controllo della velocità controllo della direzione del vento torre anemometro
 
-Il rapporto tra energia fornita e energia prodotta è chiamato efficienza. Per le questioni di cui trattasi
-este texto, considere que a densidade do ar é $1{,}2\ \text{kg/m}^3$, sua velocidade é de 6 m/s, que o comprimento de
-ogni propulsione è di 50 metri e l'efficienza della turbina è pari al 60%.
+il rapporto tra l'energia fornita e l'energia prodotta è chiamato efficienza. Per le domande a cui si riferisce questo testo, considera che la densità dell'aria è $1{,}2\ \text{kg/m}^3$, la sua velocità è di 6 m/s, che la lunghezza di ciascuna elica è 50 m e l'efficienza della turbina è pari al 60%.
 
-9. La figura di cui sopra mostra l'anemometro, installato in un aerogeneratore, usato per misurare la velocità del
-vento. Se l'anemometro è $R = 60$ cm e fa 250 rotazioni in un minuto, qual è la velocità del vento?
+9. La figura a lato mostra l'anemometro, installato in un aerogeneratore, usato per misurare la velocità del vento. Se l'anemometro ha $R = 60$ cm ed esegue 250 rotazioni in un minuto, qual è la velocità del vento?
 - **A.** 5,0 m/s
 - **B.** 8,0 m/s
 - **C.** 10 m/s
 - **D.** 12 m/s
 - **E.** 15 m/s
 
-10. Il rotore del generatore aereo gira il cambio A con un'accelerazione
-angolo costante di $4\ \text{rad/s}^2$. Il cazzo di ingranaggio A è triplo del cazzo di
-Giro B. Se il cambio B è inizialmente a 20 rad/s,
-determinare la velocità angolare del cambio B dopo 2 secondi.
+10. Il rotore dell'aerogeneratore fa girare l'ingranaggio A con un'accelerazione angolare costante di $4\ \text{rad/s}^2$. Il raggio dell'ingranaggio A è il triplo del raggio dell'ingranaggio B. Se l'ingranaggio B inizialmente gira a 20 rad/s, determina la velocità angolare dell'ingranaggio B dopo 2 s.
 - **A.** 44,0 rad/s
 - **B.** 48,3 rad/s
-- **C ** 32,0 rad/s
-- **D ** 24,0 rad/s
+- **C.** 32,0 rad/s
+- **D.** 24,0 rad/s
 - **E.** 5,7 rad/s
 
-11. Durante un vento, le eliche di una turbina eolica vengono accelerate con un'accelerazione angolare.
-costante di $0{,}45\ \text{rad/s}^2$. Qual è il rapporto tra il modulo di accelerazione centripeta e il modulo di accelerazione
-tangenziale di un punto all'estremità dell'elice dopo che questo completare 2 giri se inizialmente gli elici hanno
-velocità angolare di 5 rad/s?
+11. Durante una raffica di vento le eliche di una turbina eolica sono accelerate con accelerazione angolare costante di $0{,}45\ \text{rad/s}^2$. Qual è il rapporto tra il modulo dell'accelerazione centripeta e il modulo dell'accelerazione tangenziale di un punto all'estremità dell'elica dopo che questa ha completato 2 giri se inizialmente le eliche hanno velocità angolare di 5 rad/s?
 - **A.** 80
 - **B.** 60
 - **C.** 40
 - **D.** 20 (e) 10
 
-12. Un'accusa costante da parte di abitanti vicini alle centrali eoliche è stata il livello di rumore di bassa
-la frequenza causata dalle turbine soprattutto in aree in cui altri tipi di rumore sono assenti. Um
-Il fabbricante di turbine eoliche garantisce che a 300 m una delle sue grandi turbine genera
-meno di 50 dB, confrontando tale livello di rumore con il rumore prodotto da un aria condizionata o da un
-- Il frigorifero. Qual è il livello di rumore quando viene installata una seconda turbina di questo tipo? Supponiamo che le
-le abitazioni sono approssimativamente uguali alle due turbine.
+12. Una lamentela costante degli abitanti vicino agli impianti eolici è stata il livello di rumori a bassa frequenza causati dalle turbine, principalmente in aree dove altri tipi di rumori sono assenti. Un produttore di turbine eoliche garantisce che a una distanza di 300 m una delle sue grandi turbine genera meno di 50 dB, confrontando questo livello di rumore con il rumore prodotto da un condizionatore d'aria o da un frigorifero. Qual è il livello di rumore quando viene installata una seconda turbina di questo tipo? Supponete che le abitazioni siano approssimativamente equidistanti dalle due turbine.
 - **A.** 100 dB
 - **B.** 87 dB
 - **C.** 65 dB
@@ -354,9 +332,7 @@ A
 B
 R
 
-14. La luce a lunghezza d'onda di 500 nm con intensità $400\ \text{W/m}^2$ colpisce normalmente un
-un insieme di celle fotovoltaiche. Qual è il numero di fotoni al secondo che raggiungono questo insieme se è
-quadrato con un lato lungo 10 cm?
+14. Luce con lunghezza d'onda di 500 nm con intensità di $400\ \text{W/m}^2$ incide normalmente su un insieme di celle fotovoltaiche. Qual è il numero di fotoni al secondo che raggiungono questo insieme se esso è quadrato con lato che misura 10 cm di lunghezza?
 - **A.** $10^5$
 - **B.** $10^9$
 
@@ -364,48 +340,30 @@ quadrato con un lato lungo 10 cm?
 (d) $10^{16}$
 (e) $10^{19}$
 
-15. La tensione elettrica di una tipica cella fotovoltaica è di
-di ordine 0,5 V. Considerando che il pannello solare P
-La potenza di una cellula di 36 unità è indicata nella figura
-diossido da resistore $R_1$ e il valore indicato dal
-gli amperometri sono approssimativamente uguali a:
+15. La tensione elettrica di una cella fotovoltaica tipica è dell'ordine di 0,5 V. Considerando che il pannello solare P indicato in figura è composto da 36 celle, la potenza dissipata dal resistore $R_1$ e il valore indicato dall'amperometro sono approssimativamente uguali a:
 - **A.** 15 W e 1,5 A
 - **B.** 20 W e 0,75 A
 - **C.** 20 W e 2,25 A
 - **D.** 30 W e 0,75 A
 - **E.** 30 W e 1,5 A
 
-Il testo seguente riguarda le domande 16-18.
-Il principio di base della generazione di energia elettrica a partire da
-un'azione meccanica (convertitore elettromeccanico) è illustrata
-nella figura accanto. Considerate una bobina piana con N spirale
-di zona A, realizzate con filo conduttore. Un agente esterno deve:
-applicare una torsione motoria alla bobina per farla girare. Quando
-la spira è in rotazione a velocità angolare costante $\omega$
-(torque motore uguale a torque resistente) in presenza di
-un campo magnetico, B, anche costante, una forza
-l'elettromotrice è indotta nel spirale. La fonte di questa forza
-l'elettromotrice è la variazione temporale del flusso del campo magnetico attraverso la bobina. Il flusso del campo
-la forza magnetica è data da $\phi = NBA \cos \omega t$ e l'elettromotrice è $\varepsilon = NBA\omega \sin(\omega t)$. Si desidera costruire un generatore
-che produce una tensione alternata con picco di 120 V. Si dispone di magneti che possono produrre un
-campo magnetico approssimativamente costante di 1,6 T, di 250 m di filo di rame calibro 12, diametro di
+Il testo seguente si riferisce ai quesiti da 16 a 18.
+Il principio basilare di generazione di energia elettrica a partire da un'azione meccanica (convertitore elettromeccanico) è illustrato nella figura a lato. Si consideri una bobina piana con N spire di area A fatte con filo conduttore. Un agente esterno deve applicare un momento motore alla bobina per farla ruotare. Quando la spira sta ruotando con velocità angolare $\omega$ costante (il momento motore eguaglia il momento resistente) in presenza di un campo magnetico, B, anch'esso costante, una forza elettromotrice è indotta nella spira. L'origine di questa forza elettromotrice è la variazione temporale del flusso del campo magnetico attraverso la bobina. Il flusso del campo magnetico è dato da $\phi = NBA \cos \omega t$ e la forza elettromotrice è $\varepsilon = NBA\omega \sin(\omega t)$. Si desidera costruire un generatore che produca una tensione alternata con picco di 120 V. Si dispone di magneti che possono produrre un campo magnetico approssimativamente costante di 1,6 T, di 250 m di filo di rame calibro 12, diametro di
 2 mm e resistività $1{,}7\times10^{-8}\ \Omega\text{m}$, per costruire una bobina.
-16. Come è noto la legge fisica che garantisce che la condizione necessaria e sufficiente per un forza
-l'elettromotrice è indotta in un circuito è l'esistenza di flusso magnetico variabile nel tempo?
-- **A.** Legge di Ampere
+16. Come è nota la legge fisica che garantisce che la condizione necessaria e sufficiente affinché una forza elettromotrice sia indotta in un circuito è l'esistenza di un flusso magnetico variabile nel tempo?
+- **A.** Legge di Ampère
 - **B.** Legge di Faraday
-- **C.** Lei de Maxwell
+- **C.** Legge di Maxwell
 - **D.** Legge di Fourier
 (e) Legge di Biot-Savart
-17. La bobina può essere quadrata o circolare. Per una determinata frequenza, qual è il rapporto tra il lato della
-- E la rotola rotonda?
+17. La bobina può essere quadrata o circolare. Per una determinata frequenza, qual è il rapporto tra il lato della bobina quadrata e il raggio della bobina circolare?
 - **A.** 1,0
 - **B.** 2,0
 - **C.** 2,5
 - **D.** 3,0
 - **E.** 3,5
 
-18. Supponendo che la bobina sia circolare a 10 centimetri di raggio, qual è la frequenza minima della tensione generata?
+18. Supponendo che la bobina sia circolare con 10 cm di raggio, qual è la frequenza minima della tensione generata?
 - **A.** 6,0 Hz
 - **B.** 3,0 Hz
 - **C.** 1,0 Hz
@@ -414,66 +372,42 @@ l'elettromotrice è indotta in un circuito è l'esistenza di flusso magnetico va
 $\theta$
 R
 
-Il testo seguente riguarda le domande 19 e 20.
+Il testo seguente si riferisce ai quesiti 19 e 20.
 
-Alcune fonti di energia rinnovabili come il vento e il sole hanno un potenziale energetico molto grande.
-Ma il fatto che siano soggette a fattori non controllabili può indurre l'energia a non essere stabile.
-che è soggetto a variabilità. È importante che la tecnologia di conversione sia più efficace.
-l'energia sono i sistemi di stoccaggio di queste energie. Come il vento non soffia continuamente e il sole
-non brilla tutti i giorni allo stesso modo, alcuni meccanismi devono essere sviluppati per memorizzare
-energia e fornire questa variabilità. Un modo di conservare energia meccanica che può essere convertita
-In energia elettrica, è attraverso le volantine. In pratica un flywheel consiste in un rotore che gira su una
-- Alta velocità. Un flywheel moderno utilizza materiali di fibra di carbonio e i rotori girano nel vuoto in
-un arco che viene sostenuto mediante levitazione magnetica per evitare perdite attraverso lo scatto. Se a
-Se la generazione di energia è elevata, si può usare parte di questa energia per far girare il rotore. La Commissione ha adottato una decisione
-La produzione di energia può essere convertita in energia cinetica di rotazione
-di un rotore a energia elettrica. Un altro modo per conservare energia è utilizzare l'energia prodotta in eccesso per
-pompare gas ad alta pressione in un grande serbatoio. Quando l'energia conservata è necessaria, basta
-rilasciare gas compresso e produrre energia elettrica attraverso le turbine. Alcuni paesi stanno usando
-strutture geologiche vuote come miniere abbandonate o grandi caverne per il deposito.
-19. Un flywheel può essere utilizzato per evitare lo spreco di energia cinetica quando un veicolo si ferma.
-Alcuni esperti suggeriscono che circa il 50% dell'energia cinetica iniziale di un veicolo da 2500 kg potrebbe essere
-essere conservato quando questa riduce la sua velocità di 12 m/s fino al riposo. Supponiamo che questo flywheel
-è un disco di radio 0,60 m, di spessore 0,10 m, di acciaio, di densità $7{,}4\times10^3\ \text{kg/m}^3$, che a
-La velocità angolare in rad/s che dovrebbe avere per raggiungere i dati suggeriti dall'esperto? Data: il
-il momento di inerzia di un disco di raggio R e massa m è $mR^2/2$.
+Alcune fonti di energia rinnovabili come il vento e il sole possiedono un potenziale energetico molto grande, ma poiché sono soggette a fattori non controllabili la fornitura di energia può non essere stabile, essendo soggetta a variabilità. Tanto importante quanto l'aumento dell'efficienza delle macchine convertitrici di energia sono i sistemi di accumulo di tali energie. Poiché il vento non soffia continuamente e il sole non brilla tutti i giorni allo stesso modo, alcuni meccanismi devono essere sviluppati per accumulare energia e sopperire a questa variabilità. Una forma di accumulare energia meccanica, la quale può essere convertita in energia elettrica, è attraverso i flywheels. In pratica un volano consiste in un rotore che gira a una velocità elevata. Un volano moderno utilizza materiali in fibra di carbonio e i rotori girano nel vuoto attorno a un asse che è supportato tramite levitazione magnetica per evitare perdite per attrito. Se la generazione di energia è elevata, si può usare parte di questa energia per far girare il rotore. Man mano che si necessita di energia per sopperire a certe variazioni nella generazione, si può convertire l'energia cinetica di rotazione del rotore in energia elettrica. Un altro modo di immagazzinare energia è usare l'energia prodotta in eccesso per pompare gas ad alta pressione in un grande serbatoio. Quando l'energia immagazzinata è necessaria, basta liberare il gas compresso e produrre energia elettrica tramite turbine. Alcuni paesi stanno usando strutture geologiche vuote come miniere abbandonate o grandi caverne per l'immagazzinamento.
+19. Un volano può essere usato per evitare lo spreco di energia cinetica quando un veicolo frena.
+Alcuni esperti suggeriscono che circa il 50% dell'energia cinetica iniziale di un veicolo di 2500 kg potrebbe essere immagazzinata quando questo diminuisce la sua velocità da 12 m/s fino alla quiete. Supponendo che questo volano sia un disco di raggio 0,60 m, di spessore 0,10 m e fatto di acciaio, con densità di $7{,}4\times10^3\ \text{kg/m}^3$, quale velocità angolare in rad/s dovrebbe avere per raggiungere i dati suggeriti dall'esperto? Dato: il momento d'inerzia di un disco di raggio R e massa m è $mR^2/2$.
 - **A.** 5
 - **B.** 10
 - **C.** 15
 - **D.** 20
 - **E.** 25
-20. Quanta energia può essere conservata in una camera di $500000\ \text{m}^3$ di volume se l'aria è
-compressa da $1\times10^5$ Pa a $50\times10^5$ Pa a temperatura costante? Considera l'aria come il gas ideale.
+20. Quale quantità di energia può essere immagazzinata in una camera di $500000\ \text{m}^3$ di volume se l'aria viene compressa da $1\times10^5$ Pa fino a $50\times10^5$ Pa a temperatura costante? Considera l'aria come gas ideale.
 - **A.** $2{,}5\times10^4 \ln(50)$ GJ
 - **B.** $2{,}5\times10^2 \ln(50)$ MJ
 - **C.** $2{,}5\times10^7 \ln(50)$ kJ
 - **D.** $2{,}5\times10^5 \ln(50)$ GJ
 - **E.** $2{,}5\times10^5 \ln(50)$ MJ
 
-L'Olimpiade di Fisica del Brasile
-L'istruzione media
-Alunni di 3° e 4° anno (insegnamento tecnico)
+OLIMPIADE BRASILIANA DI FISICA
+FOGLIO DELLE RISPOSTE LIVELLO III – SCUOLA SECONDARIA
+Studenti della 3a classe e 4a (istruzione tecnica)
 
-Preencher usando la lettera di formula
+COMPILARE USANDO STAMPATELLO
 
-Nome: (Signore)
+NOME: ____________________________________________________________________________
 
-FONTO P/ CONTatto: (___) _____________E-MAIL: ________________________________________
+TELEFONO PER CONTATTI: (___) _____________E-MAIL: ________________________________________
 
-La scuola è stata istituita per la creazione di un'organizzazione di formazione professionale.
+SCUOLA:___________________________________________________________________________
 
-Il numero di persone che hanno partecipato alla riunione è stato di:
+COMUNE: __________________________________________________STATO: ______________
 
-SINATURA: __________________________________
+FIRMA: ____________________________________________
 
 alternativa
 
-- la questione
-a
-b
-c
-d
-e
+quesito a b c d e
 
 01
 
@@ -486,12 +420,6 @@ e
 05
 
 06
-
-**Topic:** [[Rotational Dynamics]], [[Electromagnetic Induction]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Coil (object)|Coil]], [[Resistor (object)|Resistor]], [[Disk (object)|Disk]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1VTPYvgRaGF443kSzE6qY2J65UYOLWX0u/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -508,53 +436,31 @@ V
 V
 1
 2
-3
-Other electrical equipment
-Other, of a kind used for the manufacture of motor vehicles
-rotor
-Other, of a width of not more than 600 mm
-speed control
-Control of wind direction
-tower
-Other, of a kind used for the manufacture of goods
+3 generator propellers rotor gearbox speed control wind direction control tower anemometer
 
-The ratio between the energy supplied and the energy produced is called efficiency. For the matters referred to
-This text considers that the density of air is $1{,}2\ \text{kg/m}^3$, its speed is 6 m/s, that the length of air is
-Each propeller is 50 m and the efficiency of the turbine is 60%.
+ratio between the energy supplied and the energy produced is called efficiency. For the questions to which this text refers, consider that the air density is $1{,}2\ \text{kg/m}^3$, its speed is 6 m/s, that the length of each propeller is 50 m and the turbine efficiency is equal to 60%.
 
-9. The figure next to the figure shows the anemometer, installed in a wind turbine, used to measure the speed of the
-The wind. Se o anemômetro tem $R = 60$ cm e executa 250 rotações em um minuto, qual é a velocidade do vento?
-- **A.** 5,0 m/s
-- **B.** 8,0 m/s
+9. The figure beside shows the anemometer, installed in a wind turbine, used to measure wind speed. If the anemometer has $R = 60$ cm and performs 250 rotations in one minute, what is the wind speed?
+- **A.** 5.0 m/s
+- **B.** 8.0 m/s
 - **C.** 10 m/s
 - **D.** 12 m/s
 - **E.** 15 m/s
 
-10. The rotor of the wind turbine shall rotate the gear A with an acceleration
-angular constante de $4\ \text{rad/s}^2$. The fucking A gear is triple the fucking A gear.
-gear B. If the gear B is initially rotating at 20 rad/s,
-determine the angular velocity of the gear B after 2 s.
-- **A ** 44,0 rad/s
-- **B ** 48,3 rad/s
-- **C ** 32,0 rad/s
-- ** D ** 24,0 rad/s
-- **E ** 5,7 rad/s
+10. The rotor of the wind turbine turns gear A with a constant angular acceleration of $4\ \text{rad/s}^2$. The radius of gear A is three times the radius of gear B. If gear B is initially rotating at 20 rad/s, determine the angular velocity of gear B after 2 s.
+- **A.** 44.0 rad/s
+- **B.** 48.3 rad/s
+- **C.** 32.0 rad/s
+- **D.** 24.0 rad/s
+- **E.** 5.7 rad/s
 
-11. During a wind guster the propellers of a wind turbine are accelerated with angular acceleration
-constante de $0{,}45\ \text{rad/s}^2$. What is the ratio between the centrifugal acceleration module and the acceleration module
-tangential of a point on the end of the propeller after completing 2 turns if the propellers have initially
-angular velocity of 5 rad/s?
+11. During a gust of wind the propellers of a wind turbine are accelerated with constant angular acceleration of $0{,}45\ \text{rad/s}^2$. What is the ratio between the magnitude of the centripetal acceleration and the magnitude of the tangential acceleration of a point at the tip of the propeller after it completes 2 turns if initially the propellers have an angular velocity of 5 rad/s?
 - **A.** 80
 - **B.** 60
 - **C.** 40
 - **D.** 20 (e) 10
 
-12. A constant complaint from residents near wind farms has been the level of low noise
-The frequency of turbines is mainly in areas where other types of noise are absent. Um
-The manufacturer of wind turbines shall ensure that at a distance of 300 m one of its large turbines generates
-less than 50 dB, compared with noise from an air conditioner or a
-The refrigerator. What is the noise level when a second turbine like this is installed? Suppose that the
-The residences are approximately equal to the two turbines.
+12. A constant complaint from residents near wind farms has been the level of low-frequency noise caused by the turbines, mainly in areas where other types of noise are absent. A wind turbine manufacturer guarantees that at a distance of 300 m one of its large turbines generates less than 50 dB, comparing this noise level with the noise produced by an air conditioner or a refrigerator. What is the noise level when a second such turbine is installed? Assume that the residences are approximately equidistant from the two turbines.
 - **A.** 100 dB
 - **B.** 87 dB
 - **C.** 65 dB
@@ -564,18 +470,16 @@ The residences are approximately equal to the two turbines.
 
 13. Most of the energy produced by the sun is due to:
 
-- **A ** nuclear fission
-- **B ** nuclear fusion
+- **A.** nuclear fission
+- **B.** nuclear fusion
 - **C.** chemical reaction
-- **D** gravitational pull
-- **E.** electromotive force associated with the variation in the flow of the magnetic field
+- **D.** gravitational attraction
+- **E.** electromotive force associated with the variation of the magnetic field flux
 A
 B
 R
 
-14. Light with a wavelength of 500 nm with a intensity of $400\ \text{W/m}^2$ normally affects a
-a set of photovoltaic cells. What is the number of photons per second that hit this set if it is
-square with a side measuring 10 cm long?
+14. Light with a wavelength of 500 nm with intensity $400\ \text{W/m}^2$ strikes normally on a set of photovoltaic cells. What is the number of photons per second that hit this set if it is square with a side measuring 10 cm in length?
 - **A.** $10^5$
 - **B.** $10^9$
 
@@ -583,116 +487,74 @@ square with a side measuring 10 cm long?
 (d) $10^{16}$
 (e) $10^{19}$
 
-15. The electrical voltage of a typical photovoltaic cell is
-of a power of 0,5 V. Whereas the P solar panel
-The figure is composed of 36 cells, the power
-dispersed by the resistor $R_1$ and the value indicated by the
-Ampheters are approximately equal to:
-- **A.** 15 W e 1,5 A
-- **B.** 20 W e 0,75 A
-- **C.** 20 W e 2,25 A
-- **D.** 30 W e 0,75 A
-- **E.** 30 W e 1,5 A
+15. The electric voltage of a typical photovoltaic cell is on the order of 0.5 V. Considering that the solar panel P indicated in the figure is composed of 36 cells, the power dissipated by the resistor $R_1$ and the value indicated by the ammeter are approximately equal to:
+- **A.** 15 W and 1.5 A
+- **B.** 20 W and 0.75 A
+- **C.** 20 W and 2.25 A
+- **D.** 30 W and 0.75 A
+- **E.** 30 W and 1.5 A
 
-The following text relates to questions 16 to 18.
-The basic principle of electricity generation from
-a mechanical action (electromechanical converter) is illustrated
-in the figure next to it. Consider a flat coil with N spins
-of area A made of conductive wire. An external agent must:
-apply a torque to the coil to make it spin. When
-the spindle is rotating at constant angular speed $\omega$
-(motor torque equal to the resistance torque) in the presence of
-A magnetic field, B, also constant, a force
-The electromotive force is induced in the spindle. The origin of this force
-electromotive is the temporal variation of the flow of the magnetic field through the coil. The flow of the field
-The magnetic field is given by $\phi = NBA \cos \omega t$ and the electromotive force is $\varepsilon = NBA\omega \sin(\omega t)$. You want to build a generator
-which produces a peak alternating current of 120 V. It has magnets that can produce a
-a magnetic field of approximately constant 1,6 T, 250 m of 12 caliber copper wire, diameter of
-2 mm and resistivity $1{,}7\times10^{-8}\ \Omega\text{m}$, to construct a coil.
-16. As is known the law of physics that ensures that the necessary condition is sufficient for a force to
-Is electromotive induced in a circuit the existence of a magnetic flux variable over time?
-- **A ** Law of Ampère
-- **B ** Faraday's law
-- **C.** Lei de Maxwell
-- **D ** Law of Fourier
-(e) Biot-Savart Law
-17. The coil may be square or circular. For a given frequency, what is the ratio between the side of the
-square coil and the fucking circular coil?
-- **A.** 1,0
-- **B.** 2,0
-- **C.** 2,5
-- **D.** 3,0
-- **E.** 3,5
+The following text refers to questions 16 to 18.
+The basic principle of generating electrical energy from a mechanical action (electromechanical converter) is illustrated in the figure beside. Consider a flat coil with N turns of area A made with conducting wire. An external agent must apply a driving torque to the coil to make it rotate. When the turn is rotating with constant angular velocity $\omega$ (driving torque equals the resistive torque) in the presence of a magnetic field, B, also constant, an electromotive force is induced in the turn. The origin of this electromotive force is the temporal variation of the magnetic field flux through the coil. The magnetic field flux is given by $\phi = NBA \cos \omega t$ and the electromotive force is $\varepsilon = NBA\omega \sin(\omega t)$. It is desired to build a generator that produces an alternating voltage with a peak of 120 V. Magnets are available that can produce an approximately constant magnetic field of 1.6 T, 250 m of 12-gauge copper wire, diameter of
+2 mm and resistivity $1{,}7\times10^{-8}\ \Omega\text{m}$, to build a coil.
+16. What is the physical law known as the one that guarantees that the necessary and sufficient condition for an electromotive force to be induced in a circuit is the existence of a magnetic flux varying in time?
+- **A.** Ampère's law
+- **B.** Faraday's law
+- **C.** Maxwell's law
+- **D.** Fourier's law
+(e) Biot-Savart law
+17. The coil can be square or circular. For a given frequency, what is the ratio between the side of the square coil and the radius of the circular coil?
+- **A.** 1.0
+- **B.** 2.0
+- **C.** 2.5
+- **D.** 3.0
+- **E.** 3.5
 
-18. Assuming the coil is circular with a radius of 10 cm, what is the minimum frequency of the voltage generated?
-- **A.** 6,0 Hz
-- **B.** 3,0 Hz
-- **C.** 1,0 Hz
-- **D.** 0,7 Hz
-- **E.** 0,3 Hz
+18. Assuming the coil is circular with a radius of 10 cm, what is the minimum frequency of the generated voltage?
+- **A.** 6.0 Hz
+- **B.** 3.0 Hz
+- **C.** 1.0 Hz
+- **D.** 0.7 Hz
+- **E.** 0.3 Hz
 $\theta$
 R
 
 The following text refers to questions 19 and 20.
 
-Some renewable energy sources like wind and sun have a very large energy potential.
-But because they are subject to uncontrollable factors, the energy supply may not be stable.
-subject to variability. As important as increasing the efficiency of conversion machines
-energy are the systems that store that energy. As the wind does not blow continuously and the sun
-It doesn't shine the same way every day, some mechanisms have to be developed to store
-energy and supply that variability. A way of storing mechanical energy, which can be converted
-In electrical energy, it's through flywheels. Basically a flywheel consists of a rotor that rotates at a
-High speed. A modern flywheel uses carbon fiber materials and rotors rotate in the vacuum at
-a rotor of an axle which is supported by magnetic levitation to prevent losses through friction. Se a
-If the power generation is high, you can use some of that energy to turn the rotor. As the
-The energy required to supply certain variations in generation can be converted to rotational kinetic energy
-the rotor in electrical energy. Another way to store energy is to use the surplus energy produced to
-Pump high pressure gas into a large tank. When the stored energy is needed, it is enough
-release compressed gas and produce electricity through turbines. Some countries are using
-empty geological structures such as abandoned mines or large caves for storage.
-19. A flywheel can be used to prevent the waste of kinetic energy when a vehicle brakes.
-Some experts suggest that about 50% of the initial kinetic energy of a 2,500-kilogram vehicle could be
-be stored when it slows down by 12 m/s until rest. Assuming that flywheel
-a disc of a radius of 0,60 m, a thickness of 0,10 m and made of steel, with a density of $7{,}4\times10^3\ \text{kg/m}^3$, as
-angular velocity in rad/s that it should have to reach the data suggested by the expert? Date: the
-The moment of inertia of a disc of radius R and mass m is $mR^2/2$.
+Some renewable energy sources such as wind and sun have a very large energy potential, but because they are subject to uncontrollable factors, the energy supply may not be stable, being subject to variability. As important as increasing the efficiency of energy conversion machines are the storage systems for these energies. Since the wind does not blow continuously and the sun does not shine every day in the same way, some mechanisms must be developed to store energy and compensate for this variability. One way to store mechanical energy, which can be converted into electrical energy, is through flywheels. Basically a flywheel consists of a rotor that spins at high speed. A modern flywheel uses carbon fiber materials and the rotors spin in a vacuum around an axis that is supported through magnetic levitation to avoid losses through friction. If the power generation is high, part of that energy can be used to make the rotor spin. As energy is needed to supply certain variations in generation, the rotational kinetic energy of the rotor can be converted into electrical energy. Another way to store energy is to use the surplus energy produced to pump gas at high pressure into a large tank. When the stored energy is needed, it is enough to release the compressed gas and produce electrical energy through turbines. Some countries are using empty geological structures such as abandoned mines or large caverns for storage.
+19. A flywheel can be used to avoid wasting kinetic energy when a vehicle brakes.
+Some experts suggest that about 50% of the initial kinetic energy of a 2500 kg vehicle could be stored when it decreases its speed from 12 m/s to rest. Assuming that this flywheel is a disk of radius 0.60 m, thickness 0.10 m and made of steel, with density $7{,}4\times10^3\ \text{kg/m}^3$, what is the angular velocity in rad/s that it should have to reach the data suggested by the expert? Given: the moment of inertia of a disk of radius R and mass m is $mR^2/2$.
 - **A.** 5
 - **B.** 10
 - **C.** 15
 - **D.** 20
 - **E.** 25
-20. What amount of energy can be stored in a chamber of $500000\ \text{m}^3$ volume if the air is
-comprimido de $1\times10^5$ Pa até $50\times10^5$ Pa à temperatura constante? Consider air as the ideal gas.
+20. What amount of energy can be stored in a chamber of $500000\ \text{m}^3$ volume if the air is compressed from $1\times10^5$ Pa to $50\times10^5$ Pa at constant temperature? Consider the air as an ideal gas.
 - **A.** $2{,}5\times10^4 \ln(50)$ GJ
 - **B.** $2{,}5\times10^2 \ln(50)$ MJ
 - **C.** $2{,}5\times10^7 \ln(50)$ kJ
 - **D.** $2{,}5\times10^5 \ln(50)$ GJ
 - **E.** $2{,}5\times10^5 \ln(50)$ MJ
 
-The Brazilian Olympic Games in Physics
-The Commission shall adopt implementing acts in accordance with the opinion of the Committee on Budgets.
-Students of 3rd and 4th grades (technical education)
+BRAZILIAN PHYSICS OLYMPIAD
+ANSWER SHEET LEVEL III – HIGH SCHOOL
+Students of the 3rd and 4th year (technical education)
 
-PREENCHER using the letter of the form
+FILL IN USING BLOCK LETTERS
 
-The following is the list of the countries of the European Union:
+NAME: ____________________________________________________________________________
 
-The following information shall be provided:
+PHONE FOR CONTACT: (___) _____________E-MAIL: ________________________________________
 
-The following is the list of the countries of the European Union:
+SCHOOL:___________________________________________________________________________
 
-The following is the list of the countries of the European Union and the European Union:
+MUNICIPALITY: __________________________________________________STATE: ______________
 
-The following is the list of the countries of the European Union:
+SIGNATURE: ____________________________________________
 
-Other
+alternative
 
-Question No
-a
-b
-c
-d
-e
+question a b c d e
 
 01
 
@@ -705,9 +567,3 @@ e
 05
 
 06
-
-**Topic:** [[Rotational Dynamics]], [[Electromagnetic Induction]], [[Conservation of Energy]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Gear (object)|Gear]], [[Coil (object)|Coil]], [[Resistor (object)|Resistor]], [[Disk (object)|Disk]], [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1VTPYvgRaGF443kSzE6qY2J65UYOLWX0u/view)

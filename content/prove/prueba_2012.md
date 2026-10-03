@@ -855,28 +855,18 @@ Parte 4.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem two .
+Problem 2: .
 
 Electric furnace with temperature control.
-A body of iron of 1 kg mass ($M$) is desired to be heated to a temperature of
-de $500\ ^\circ\text{C}$. For this purpose an electric oven with temperature control is provided,
-which consists of a closed box which does not allow heat exchange with
-The outside. Inside the oven, the body is placed on a steel support of
-100 g of mass ($m$) as shown in Figure 1.
+It is desired to heat an iron body of 1 kg mass ($M$) to a temperature of $500\ ^\circ\text{C}$. For this purpose, an electric furnace with temperature control is available, which consists of a closed box that does not allow heat exchange with the outside. Inside the furnace, the body is placed on a steel support of
+100 g mass ($m$) as shown in figure 1.
 
-Figure 1 is shown. Electric furnace with temperature control.
+Figure 1. Electric furnace with temperature control.
 
-Heating resistance paths are used to heat the oven.
-connected to a source, at a potential difference of $100\ \text{V}$, through two
-(2) keys. A key (Key 1, On/Off) is controlled by the user
-To turn on and off the oven. The second key (Key 2) is controlled by the
-a thermometer located inside the oven. Both keys don't have
-electrical resistance.
+To heat the furnace, two heating resistors are used, which are connected to a source, at a potential difference of $100\ \text{V}$, through two (2) switches. One switch (Switch 1, On/Off) is controlled by the user to turn the furnace on and off. The second switch (Switch 2) is controlled by a thermometer located inside the furnace. Both switches have no electrical resistance.
 
-Part 1 of the report
-The primary circuit, which includes heating resistors, is
-The following is shown in Figure 2. The resistance values used are:
-the following,
+Part 1
+The primary circuit, of which the heating resistors are part, is shown in figure 2. The values of the resistors used are the following,
 
 $R_1 = R_2 = 60\ \Omega$
 
@@ -884,127 +874,86 @@ $R_3 = R_4 = 100\ \Omega$
 
 $R_5 = R_6 = 60\ \Omega$
 
-Figure two. Primary circuit.
+Figure 2. Primary circuit.
 
 1. What is the equivalent resistance of the circuit?
 
-For the case that both keys are connected,
+For the case in which both switches are closed,
 
-2. What current is flowing through the source?
+2. What current flows through the source?
 
-3. What current is flowing through each of the resistors?
+3. What current flows through each of the resistors?
 
-4. What power dissipates all resistance together?
+4. What power do all the resistors dissipate together?
 
-5. Suppose that when you turn on the oven the initial temperature of everything
-The system (iron furnace-support-body) is $20\ ^\circ\text{C}$, how long does it take
-the system to reach the desired temperature of $500\ ^\circ\text{C}$? Disdain the heat
-absorbed by the air, the resistance and the thermometer. The specific heat of the
-hierro es $c_{p,\text{Fe}} = 0{,}450\ \text{kJ}\,\text{kg}^{-1}\,^\circ\text{C}^{-1}$ y el del acero es $c_{p,\text{acero}} = 0{,}447\ \text{kJ}\,\text{kg}^{-1}\,^\circ\text{C}^{-1}$.
+5. Suppose that when the oven is turned on, the initial temperature of the entire system (oven-support-iron body) is $20\ ^\circ\text{C}$, how long does the system take to reach the desired temperature of $500\ ^\circ\text{C}$? Neglect the heat absorbed by the air, the resistors, and the thermometer. The specific heat of iron is $c_{p,\text{Fe}} = 0{,}450\ \text{kJ}\,\text{kg}^{-1}\,^\circ\text{C}^{-1}$ and that of steel is $c_{p,\text{acero}} = 0{,}447\ \text{kJ}\,\text{kg}^{-1}\,^\circ\text{C}^{-1}$.
 
 Part 2
 
-The thermometer connected to key 2 is a bimetallic made of two laminates
-a width of not more than 30 mm,
-as shown in Figure 3a. One of the ends of the bimetallic is fixed at
-a given position, at a distance $h$ from a connector, the other end is
-He's free.
-A sheet is silver, the coefficient of linear dilation of which is
- $\alpha_1 = 2{,}0\times10^{-5}\ ^\circ\text{C}^{-1}$, y la otra es de invar cuyo coeficiente de dilatación lineal es
- $\alpha_2 = 0{,}4\times10^{-5}\ ^\circ\text{C}^{-1}$. A $20\ ^\circ\text{C}$ temperature, both sheets have a length
- $L_0 = 10\ \text{cm}$, un espesor $e = 1\ \text{mm}$ y un ancho $d = 1\ \text{mm}$. When the temperature of the
-The two-dimensional sheet changes, the sheets bend because they have different
-linear dilation coefficients and which are tightly bound to each other. Each
-The sheet is folded along a radius circumference $R_1$ and $R_2$,
-respectively, as shown in Figure 3b. Suppose the sheets are not
-They experience a change in thickness or width (their dilation is negligible) and
-the dilatation of the centre line of each sheet shall comply with:
+The thermometer connected to switch 2 is a bimetallic strip made of two metal sheets firmly joined to each other by an electrically insulating adhesive, as shown in Figure 3a. One of the ends of the bimetallic strip is fixed in a given position, at a distance $h$ from a connector, and the other end is free.
+One sheet is made of silver, whose coefficient of linear expansion is
+ $\alpha_1 = 2{,}0\times10^{-5}\ ^\circ\text{C}^{-1}$, and the other is made of invar, whose coefficient of linear expansion is
+ $\alpha_2 = 0{,}4\times10^{-5}\ ^\circ\text{C}^{-1}$. At $20\ ^\circ\text{C}$ of temperature, both sheets have a length
+ $L_0 = 10\ \text{cm}$, a thickness $e = 1\ \text{mm}$, and a width $d = 1\ \text{mm}$. When the temperature of the bimetallic strip changes, the sheets bend because they have different coefficients of linear expansion and because they are firmly joined to each other. Each sheet bends along a circumference of radius $R_1$ and $R_2$, respectively, as shown in Figure 3b. Assume that the sheets do not undergo any change in thickness or width (their expansion is negligible) and that the expansion of the central line of each sheet satisfies:
 
 $$L = L_0(1 + \alpha\,\Delta T) \quad (1)$$
 
-Figure 3 is shown. It's a two-dimensional.
+Figure 3. Bimetallic strip.
 
 When the oven has reached the desired temperature of $500\ ^\circ\text{C}$:
 
-6. What is the length of each sheet of bimetallic (centerline) material?
+6. What is the length of each sheet of the bimetallic strip (center line)?
 
-7. What are the values of $R_1$ and $R_2$ radii?
+7. What are the values of the radii $R_1$ and $R_2$?
 
-8. What is the value of the angle $\theta$ (Sustained angle between the ends of the
-Bimetallic)?
+8. What value does the angle $\theta$ take (angle subtended between the ends of the bimetallic strip)?
 
-9. How far ($h$) must the connector A be located to make contact with
-The bimetallic?
+9. At what distance ($h$) must connector A be located so that it makes contact with the bimetallic strip?
 
 Part 3
 
-When the bimetallic touches the connector A, the control circuit that
-the second key is activated, as outlined in Figure 4. The circuit is
-consisting of a battery, with a difference of $\varepsilon = 1\ \text{mV}$ potential, and a coil of
-100 rpm, with a radius $r = 10\ \text{cm}$ and an electrical resistance $R_B = 8{,}5\ \text{m}\Omega$. La
-bobina posee un núcleo de permitividad magnética $\mu = 200\mu_0$ siendo $\mu_0$ la
-magnetic permittivity of the vacuum.
+When the bimetallic strip touches connector A, the control circuit is activated, which operates the second switch schematized in figure 4. The circuit consists of a battery, with a potential difference $\varepsilon = 1\ \text{mV}$, and a coil of
+100 turns, of radius $r = 10\ \text{cm}$ and with an electrical resistance $R_B = 8{,}5\ \text{m}\Omega$. The coil has a core of magnetic permeability $\mu = 200\mu_0$, where $\mu_0$ is the magnetic permeability of vacuum.
 
-Figure 4 is shown. Control circuit.
+Figure 4. Control circuit.
 
-10. Calculate the electrical resistance of the bimetallic between its ends
-when at a temperature of $20\ ^\circ\text{C}$ (assume that the electrical contact is
-(i.e. the product is uniformly produced on each end of the bimetallic material).
+10. Calculate the electrical resistance presented by the bimetallic strip between its ends when it is at a temperature of $20\ ^\circ\text{C}$ (assume that the electrical contact occurs uniformly over each end of the bimetallic strip).
 
-11. Assuming that the electrical resistance between the ends of the bimetallic is not
-changes with temperature, calculates the electric current circulating through the circuit
-The Commission is not responsible for the control.
+11. Assuming that the electrical resistance between the ends of the bimetallic strip does not change with temperature, calculate the electric current flowing through the control circuit.
 
-12. Calculate the magnetic field module $B$ set at the centre of the magnetic field
-the coil
+12. Calculate the magnitude of the magnetic field $B$ that is established at the center of the coil
 
-13. What is the maximum temperature at which the oven can be used without
-The temperature control system is having problems?
+13. What is the maximum temperature at which the oven can be used without the temperature control system having problems?
 
 Part 4
 
-Figure 5 shows a diagram of the mechanical part of the key 2 (the
-The heat resistance circuit is connected to the $B_1$ and $B_2$ terminals.
+Figure 5 shows a schematic of the mechanical part of switch 2 (terminals $B_1$ and $B_2$ are connected to the heating resistor circuit).
 
-The device is made up of a permanent magnet attached to the end of a
-length rod $D = 4\ \text{cm}$, which can rotate with respect to a fixed point p, and by
-a spring of constant elasticity $k = 0{,}2\ \text{N}\,\text{m}^{-1}$, which connects the rod to a
-rigid structure. This spring is attached to the rod at a distance $d = 2\ \text{cm}$
-of point p. Both the magnet and spring move without a scratch inside the
-horizontal guides (ground parallel) that do not allow their
-the direction of movement.
+The device consists of a permanent magnet attached to the end of a rod of length $D = 4\ \text{cm}$, which can rotate about a fixed point p, and a spring with spring constant $k = 0{,}2\ \text{N}\,\text{m}^{-1}$, which connects the rod to a rigid structure. Said spring is attached to the rod at a distance $d = 2\ \text{cm}$ from point p. Both the magnet and the spring move without friction inside horizontal guides (parallel to the ground) that do not allow their directions of motion to change.
 
-When no current is flowing through the coil, the magnet is drawn towards the C connector
-by spring. In this situation (heating factor on), the length of the
-spring is 1% greater than its natural length.
+When no current flows through the coil, the magnet is attracted toward connector C by the spring. In this situation (heater on), the length of the spring is 1% greater than its natural length.
 
-When current is flowing through the coil, the magnetic field $B$ produced by the coil is
-The coil attracts the magnet, overcoming the resistance imposed by the spring. Of this one
-the heating circuit is opened (heating factor off). When this
-If the spring is stretched 1 cm from its natural length.
+When current flows through the coil, the magnetic field $B$ produced by the coil attracts the magnet, overcoming the resistance imposed by the spring. In this way the heating circuit opens (heater off). When this happens, the spring stretches 1 cm with respect to its natural length.
 
-Figure 5 is shown. Key diagram two.
+Figure 5. Schematic of switch 2.
 
-14. Determine the magnitude of the magnetic force between the permanent magnet and the magnetic field.
-coil when the heating circuit is open. Make a diagram of the
-The situation.
+14. Determine the magnitude of the magnetic force between the permanent magnet and the coil when the heating circuit is open. Draw a schematic of the situation.
 
-15. If the battery is reversed in the circuit, is the control of the
-The temperature?
+15. If the battery in the circuit is reversed, does the temperature control still work?
 
-It's a constant.
+Constants.
 
-| Material | Calor específico $C_p$ [$\text{kJ}\,\text{kg}^{-1}\,^\circ\text{C}^{-1}$] | Coef. Dilatación Lineal $\alpha\ [^\circ\text{C}^{-1}]$ | Temp. Fusión $T_f\ [^\circ\text{C}]$ | Resistividad [$\mu\Omega\cdot\text{cm}$] |
+| Material | Specific heat $C_p$ [$\text{kJ}\,\text{kg}^{-1}\,^\circ\text{C}^{-1}$] | Linear expansion coefficient $\alpha\ [^\circ\text{C}^{-1}]$ | Melting temp. $T_f\ [^\circ\text{C}]$ | Resistivity [$\mu\Omega\cdot\text{cm}$] |
 | --- | --- | --- | --- | --- |
-| Hierro | 0.450 | $12{,}0\times10^{-6}$ | 1539 | 9.7 |
-| Acero | 0.447 | $12{,}0\times10^{-6}$ | 1400 | 20 |
-| Plata | 0.235 | $2{,}0\times10^{-6}$ | 962 | 1.6 |
+| Iron | 0.450 | $12{,}0\times10^{-6}$ | 1539 | 9.7 |
+| Steel | 0.447 | $12{,}0\times10^{-6}$ | 1400 | 20 |
+| Silver | 0.235 | $2{,}0\times10^{-6}$ | 962 | 1.6 |
 | Invar | 0.120 | $0{,}4\times10^{-5}$ | 1427 | 80 |
-| Cobre | 0.385 | $1{,}7\times10^{-5}$ | 1084,62 | 1.7 |
+| Copper | 0.385 | $1{,}7\times10^{-5}$ | 1084.62 | 1.7 |
 
-Answering sheet
+Answer Sheet
 
-Part one
+Part 1.
 
 1.
 
@@ -1016,7 +965,7 @@ Part one
 
 5.
 
-Part two.
+Part 2.
 
 6.
 
@@ -1026,7 +975,7 @@ Part two.
 
 9.
 
-Part three.
+Part 3.
 
 10.
 
@@ -1036,17 +985,11 @@ Part three.
 
 13.
 
-Part four.
+Part 4.
 
 14.
 
 15.
-
-**Topic:** [[Circuits]], [[Thermodynamics]], [[Electromagnetism]]
-**Metodi:** [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ampère's Law (metodo)|Ampère's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]], [[Switch (object)|Switch]], [[Battery (object)|Battery]], [[Coil (object)|Coil]], [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1QnVCfOYmrIrg7Y9RLq5lceoAe7J_RulU/view)
 
 
 
@@ -1322,131 +1265,88 @@ Notas:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema tre .
+Problema 3: .
 
-Il salto che è stato un record.
-Qualche giorno fa, il austriaco Felix
-Baumgartner si è proposto di raggiungere la
-velocità
-della
-suono,
-senza
-nessuna
-assistenza meccanica, cioè senza l'uso
-di qualsiasi navi o dispositivi meccanici
-che lo porti a questa velocità. Per questo
-una capsula appesa a un globo
-aerostic
-de
-di h?io,
-in particolare
-Il progetto è stato progettato, lo ha posizionato ad un'altezza di
-sopra la terra, da dove si
-E' stato lanciato (immagine).
+Il salto che fu un record.
+Pochi giorni fa, l'austriaco Félix
+Baumgartner si propose di raggiungere la velocità del suono, senza alcuna assistenza meccanica, cioè senza l'uso di alcun veicolo o dispositivo meccanico che lo portasse a quella velocità. Per questo una capsula appesa a un pallone aerostatico a elio, appositamente progettata, lo collocò a una grande altezza sopra la terra, da dove si lanciò (immagine).
 
-Per il design di questo compito, il signor Baumgartner ha avuto il consiglio
-Diversi specialisti, tra cui una persona che sa la fisica, come te.
-In questo problema ci proponiamo di esaminare alcuni aspetti che si sono verificati
-che si deve tenere in considerazione per il successo di questa avventura.
-L'accelerazione della gravità è un'accelerazione del
-è indipendente dall'altezza e il suo valore è $9{,}8\ \text{m/s}^2$. Supponiamo anche che
-la velocità del suono è costante in tutta l'atmosfera ed è uguale a $340\ \text{m/s}$.
+Per la progettazione di questa impresa il Sig. Baumgartner ebbe la consulenza di vari specialisti, tra cui una persona che conosce la fisica, come Lei.
+In questo problema ci proponiamo di indagare alcuni aspetti che si dovettero tenere in conto per il successo di questa avventura.
+Nel corso di tutto questo problema assumeremo che l'accelerazione di gravità sia indipendente dall'altezza, e il suo valore è $9{,}8\ \text{m/s}^2$. Supporremo anche che la velocità del suono sia costante in tutta l'atmosfera e uguale a $340\ \text{m/s}$.
 
-a) Supponendo che la caduta fosse libera, quanto tempo ci vorrebbe per
-Felix raggiungere la velocità del suono?
+a) Supponendo che la caduta fosse libera, quanto tempo impiegherebbe
+Félix a raggiungere la velocità del suono?
 
-b) Che distanza avrebbe percorso in quel periodo di tempo?
-Tuttavia, su un oggetto che cade nell'atmosfera terrestre agiscono tre
-Forze:
+b) Quale distanza percorrerebbe in quell'intervallo di tempo?
+Tuttavia, su un oggetto che cade nell'atmosfera terrestre agiscono tre forze:
 i)
 La forza di gravità, $F_g$.
 ii)
 la forza di galleggiamento, $F_e$.
-(iii)
-la forza di trazione, $F_d$.
-Le ultime due forze si oppongono alla resistenza alla caduta libera del corpo.
-La forza di fluttuazione è uguale in magnitudo al peso del fluido  in questo caso il
-L'aria dell'atmosfera - dislocata dal corpo (Principio di Archimede).
-D'altra parte, la forza di trazione, che è nella stessa direzione e è di
-senso contrario al movimento dell'oggetto, ha una grandezza
+iii)
+la forza di resistenza, $F_d$.
+Le ultime due forze si oppongono alla caduta libera del corpo.
+La forza di galleggiamento è uguale in modulo al peso del fluido – in questo caso l'aria dell'atmosfera – spostato dal corpo (Principio di Archimede).
+D'altra parte la forza di resistenza, che ha la stessa direzione e verso opposto al moto dell'oggetto, ha modulo
 
 $$F_d = \frac{C_d\,\rho_a\,v^2\,A}{2}$$
 
-in cui:
+dove:
 
-Il $C_d$ è un coefficiente dinamico che dipende dal corpo e dalle
-condizioni del fluido in cui il corpo si muove;
+$C_d$ è un coefficiente dinamico che dipende dal corpo e dalle condizioni del fluido in cui il corpo si muove;
 
 $\rho_a$ è la densità dell'atmosfera;
 
 $v$ è la velocità del corpo in movimento;
 
-$A$ è l'area del corpo trasversale alla direzione di movimento.
-Indicheremo inoltre $\rho$ alla densità del corpo e $m$ alla sua massa.
+$A$ è l'area del corpo trasversale alla direzione del moto.
+Indicheremo inoltre con $\rho$ la densità del corpo e con $m$ la sua massa.
 
-(c) Indicare la forza di galleggiamento $F_e$ in termini di
-densità dell'aria e densità e massa del corpo.
+c) Esprima il modulo della forza di galleggiamento $F_e$, in termini della densità dell'aria e della densità e massa del corpo.
 
-d) Scrivi l'equazione di movimento di un corpo che cade nella
-l'atmosfera.
-Se la densità dell'atmosfera è costante, allora per effetto
-La Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati sia stato adottato in base alle disposizioni del regolamento (CE) n.
-Quando il corpo inizia a cadere, raggiunge una velocità finale, nota come
-come velocità limite.
+d) Scriva l'equazione del moto di un corpo che cade nell'atmosfera.
+Se si suppone che la densità dell'atmosfera sia costante, allora per effetto dell'azione combinata delle tre forze menzionate sopra, e dopo un certo tempo dall'inizio della caduta, il corpo raggiunge una velocità finale, nota come velocità limite.
 
-e) Trova un'espressione per la velocità limite, sotto la supposizione
-che la densità dell'atmosfera è costante.
-Per poter rispondere a alcune delle domande poste da
-l'avventuriero Felix, faremo le seguenti ipotesi:
+e) Trovare un'espressione per la velocità limite, sotto l'ipotesi che la densità dell'atmosfera sia costante.
+Al fine di poter rispondere ad alcune delle domande poste dall'avventuriero Félix, faremo le seguenti ipotesi:
 
 i)
-Felix, indossando il suo abito "spaziale", è geometricamente simile a
-un cilindro di radius $r = 40\ \text{cm}$ e di altezza $l = 1{,}85\ \text{m}$, e che
-la densità è pari a quella dell'acqua: $\rho = 1\ \text{g/cm}^3$.
+Félix, indossando la sua tuta "spaziale", è geometricamente simile a un cilindro di raggio $r = 40\ \text{cm}$, e di altezza $l = 1{,}85\ \text{m}$, e che la sua densità è uguale a quella dell'acqua: $\rho = 1\ \text{g/cm}^3$.
 
 ii)
-Il coefficiente dinamico di Felix è $C_d = 1{,}5$.
+Il coefficiente dinamico di Félix è $C_d = 1{,}5$.
 
-(iii)
-La densità dell'atmosfera è costante in tratti, con
-Valori mostrati nella tabella seguente:
+iii)
+La densità dell'atmosfera è costante a tratti, con i valori mostrati nella seguente tabella:
 
-# Rango di altezza # 0-10 km # 10-20 km 20-30 km 30-40 km
+| Intervallo di altezza | 0-10 (km) | 10-20 (km) | 20-30 (km) | 30-40 (km) |
 | --- | --- | --- | --- | --- |
 | $\rho_a$ (g/cm³) | 0.0012 | 0.0006 | 0.0003 | 0.00002 |
 
 iv)
-La velocità del suono è costante in tutta l'atmosfera e uguale
-a $340\ \text{m/s}$.
+La velocità del suono è costante in tutta l'atmosfera e uguale a $340\ \text{m/s}$.
 
-Considerando tutte queste ipotesi e dati,
+Tenendo conto di tutte queste ipotesi e dati,
 
-(f) Da quali ranghi di altezza di quelli indicati nella tabella, non
-Félix dovrebbe buttarsi fuori se vuole raggiungere il suo obiettivo, cioè superare
-la velocità del suono? giustifica la tua risposta.
-La pressione atmosferica diminuisce con l'altezza in base all'espressione
+f) Da quali intervalli di altezza tra quelli indicati nella tabella non si dovrebbe lanciare Félix se vuole raggiungere il suo obiettivo, cioè superare la velocità del suono? Giustificare la risposta.
+La pressione atmosferica diminuisce con l'altezza secondo l'espressione
 
 $$P(h) = P_0\, e^{-h/H} \quad (1)$$
 
-dove $P_0 = 760\ \text{mmHg} = 760\ \text{Torr}$ è la pressione atmosferica a livello del mare e $H$
-è una costante chiamata scala di altezza e vale $H = 8{,}42\ \text{km}$.
+dove $P_0 = 760\ \text{mmHg} = 760\ \text{Torr}$ è la pressione atmosferica a livello del mare e $H$ è una costante chiamata scala di altezza e vale $H = 8{,}42\ \text{km}$.
 
-La figura allegata rappresenta la pressione di vapore dell'acqua in funzione della
-temperatura. Ricorda che la pressione di vapore è la pressione a cui coesistono
-la fase liquida e la fase gassosa di una sostanza.
+Nella figura allegata è rappresentata la pressione di vapore dell'acqua in funzione della temperatura. Si ricordi che la pressione di vapore è la pressione alla quale coesistono la fase liquida e la fase gassosa di una sostanza.
 
-Pressione di vapore dell'acqua. 1 Torr è pari a 1 mmHg
+Pressione di vapore dell'acqua. 1 Torr equivale a 1 mmHg
 
-Supponiamo che il sangue di Felix sia praticamente acqua e si trovi a
+Supponga che il sangue di Félix sia praticamente acqua e si trovi a
 $36\ ^\circ\text{C}$.
-Sulla base delle informazioni fornite e utilizzando la figura,
-Rispondi
+Sulla base delle informazioni fornite e usando la figura, risponda
 
-(g) che effetto avrebbe il sangue di Felix se non indossasse un costume
-Prossima pressione al momento di lancio
-Capsula?
+g) quale effetto subirebbe il sangue di Félix, se non usasse una tuta adeguatamente pressurizzata al momento di lanciarsi dalla capsula?
 
-Pagina di risposta
+Foglio di Risposta
 
 a)
 
@@ -1462,85 +1362,72 @@ f)
 
 g)
 
-Instanza nazionale
-Prova sperimentale
+Istanza Nazionale
+Prova Sperimentale
 
 Introduzione:
 
-Determinazione della permissibilità elettrica dell'aria
+Determinazione della permettività elettrica dell'aria
 Introduzione
 Un condensatore è un dispositivo che immagazzina energia in un campo elettrico.
-Questo dispositivo è costituito da due superfici conduttrici (Platte)
-separati da un mezzo dielettrico come mostrato in figura 1.
+Questo dispositivo è formato da due superfici conduttrici (Armature)
+separate da un mezzo dielettrico come mostrato nella Figura 1.
 
-Figura 1. Capacitore
+Figura 1. Condensatore
 
-Quando si applica una differenza di potenziale tra i "terminali" di un
-condensatore, le sue schede conduttrici sono caricate con carico $Q$ e $-Q$
-rispettivamente. La grandezza della carica $Q$ è data da:
+Quando si applica una differenza di potenziale tra i "terminali" di un condensatore, le sue armature conduttrici si caricano con carica $Q$ e $-Q$ rispettivamente. Il modulo della carica $Q$ è dato da,
 
  (1)
 
-dove $C$ è una costante denominata capacità la cui unità è il Faradio [F].
-La capacità dipende dalla forma geometrica e dalle dimensioni del
-di condensatore e della capacità elettrica $\epsilon$ del mezzo che separa le plache.
+dove $C$ è una costante denominata capacità la cui unità è il Farad [F].
+La capacità dipende dalla forma geometrica e dalle dimensioni del condensatore, e dalla permettività elettrica $\epsilon$ del mezzo che separa le armature.
 
-Tra le modalità di connessione dei condensatori ci sono due:
+Tra i modi di collegare condensatori ve ne sono due molto usati:
 
--Connezione in serie
+-Collegamento in serie
 
-Figura 2a. Connessione in serie
+Figura 2a. Collegamento in serie
 
-Capacità $C$ di un sistema formato da due capacitori
-e collegati in serie (Figura 2a) è tale che:
+La capacità $C$ di un sistema formato da due condensatori di capacità e collegati in serie (Figura 2a) è tale che:
 
  (2)
 
--Connezione parallela
+-Collegamento in parallelo
 
-Figura 2b. Connessione parallela.
+Figura 2b. Collegamento in parallelo.
 
-Capacità $C$ di un sistema formato da due capacitori
-e collegati in parallelo (Figura 2b) è:
+La capacità $C$ di un sistema formato da due condensatori di capacità e collegati in parallelo (Figura 2b) è:
 
 (3)
 
-Conducitore cilindrico
+Condensatore cilindrico
 
-In questo tipo di condensatore, le plache metalliche sono cilindri posizionati in
-modo coaxial come mostrato in Figura 3.
+In questo tipo di condensatore, le armature metalliche sono cilindri disposti in modo coassiale come mostrato nella Figura 3.
 
-Figura 3 Condensatore cilindrico.
+Figura 3. Condensatore cilindrico.
 
-Capacità di un condensatore cilindrico di altezza $L$ e di raggio interno e
-( ), con un mezzo di permisibilità elettrica $\epsilon$ (vedi Figura 3) è
-data da:
+La capacità di un condensatore cilindrico di altezza $L$ e di raggio interno ed esterno ( ), con un mezzo di permettività elettrica $\epsilon$ (vedi Figura 3) è data da:
 
  (4)
 
 Obiettivi:
 
-- Determinazione della permissività elettrica dell'aria utilizzando un condensatore
-cilindrico di lunghezza variabile.
+- Determinare la permettività elettrica dell'aria utilizzando un condensatore cilindrico di lunghezza variabile.
 
-- Determinazione del valore di induzione $L_B$ di una bobina.
+- Determinare il valore di induttanza $L_B$ di una bobina.
 
-Equipaggiamento:
+Attrezzatura:
 
-Figura 4 Equipe sperimentale.
+Figura 4. Attrezzatura sperimentale.
 
 Parte 1: Calibrazione del trasduttore Capacità-Frequenza.
 
-Il trasduttore capacità-frequenza è un dispositivo con il quale si può
-determinare la capacità ($C$) di un condensatore mediante la misurazione della
-Frequenza del segnale di tensione di uscita ($V_0$).
+Il trasduttore capacità-frequenza è un dispositivo mediante il quale si può determinare la capacità ($C$) di un condensatore attraverso la misurazione della frequenza del segnale di tensione di uscita ($V_0$).
 
-Figura 5 Schema di connessione Trasduttore Capacità - Frequenza
+Figura 5. Schema di collegamento Trasduttore Capacità-Frequenza
 
-Il diagramma del dispositivo di misurazione è mostrato in figura 5. Frequenza
-($f$) che indica il frequentímetro connesso ai bordi di uscita (borni C-
-D) è correlata alla capacità ($C$) del condensatore collegato nei
-i punti di ingresso (punti A-B) utilizzando l'equazione:
+Lo schema del dispositivo di misurazione è mostrato nella Figura 5. La frequenza ($f$) che indica il frequenzimetro collegato ai morsetti di uscita (morsetti C-
+D) è legata alla capacità ($C$) del condensatore collegato ai morsetti di ingresso (morsetti A-B) mediante l'equazione:
 
 (5)
 
@@ -1553,165 +1440,113 @@ Elementi disponibili:
 - 3 Condensatori di capacità nota con un'incertezza relativa del
 10%.
 
-Il colore è la capacità.
+| Colore | Capacità [pF] |
 | --- | --- |
-# Verde 56 #
- Orangetta  82
-♬ Bianco ♬ 120
+| Verde | 56 |
+| Arancione | 82 |
+| Bianco | 120 |
 
-- Connetto
+- Connettore
 
-- Frequenza (Multimetro).
+- Frequenzimetro (Multimetro).
 
-- Folito di millimetro.
+- Foglio millimetrato.
 
-Usando gli elementi forniti , determina le costanti e .
+Utilizzando gli elementi forniti determinare le costanti e .
 
 Procedura:
 
-1.1. Connettere dispositivi di capacità nota all'entrata del trasduttore
-(borne A - B) e determinare la frequenza del segnale di tensione di uscita (borne
-C-D), utilizzando il frequentometro. Ripolte i valori misurati in una tabella
-(Table 1). Per il collegamento dei condensatori all'entrata del trasduttore,
-Usa il connettore fornito.
+1.1. Collegare dispositivi di capacità nota all'ingresso del trasduttore (morsetti A -B) e determinare la frequenza del segnale di tensione di uscita (morsetti
+C-D), utilizzando il frequenzimetro. Riportare i valori misurati in una tabella (Tabella 1). Per il collegamento dei condensatori all'ingresso del trasduttore, utilizzare il connettore fornito.
 
-Nota:
-- Per la connessione del frequentometro, vedere allegato.
+Note:
+- Vedere l'Allegato per il collegamento del frequenzimetro.
 -
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Capacitor (object)|Capacitor]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1QnVCfOYmrIrg7Y9RLq5lceoAe7J_RulU/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three .
+Problem 3: .
 
 The jump that was a record.
 A few days ago, the Austrian Felix
-The Commission has also proposed that the
-speed
-of the
-sound,
-without
-No one
-Mechanical assistance, i.e. without the use of
-of a kind used for the manufacture of goods or services
-I'm not sure what's going on. For that
-a capsule hanging from a balloon
-Air conditioning
-de
-Helium,
-Especially
-designed, placed it at a great height by
-above the earth, from where it is
-He threw it (image).
+Baumgartner set out to reach the speed of sound, without any mechanical assistance, that is, without the use of any craft or mechanical device that would take him to that speed. To do this, a specially designed capsule hanging from a helium hot-air balloon placed him at a great height above the ground, from where he threw himself (image).
 
-For the design of this feat Mr. Baumgartner was advised
-I've been asked by several specialists, including a person who knows physics, like you.
-In this problem we propose to investigate some aspects which have been
-to be taken into account for the successful completion of this adventure.
-Throughout this whole problem we'll assume that gravitational acceleration is
-is independent of height and its value is $9{,}8\ \text{m/s}^2$. We shall also assume that
-the speed of sound is constant throughout the atmosphere and equal to $340\ \text{m/s}$.
+For the design of this feat, Mr. Baumgartner had the advice of several specialists, among them a person who knows physics, like you.
+In this problem we propose to investigate some aspects that had to be taken into account for the successful completion of this adventure.
+Throughout this entire problem we will assume that the acceleration of gravity is independent of height, and its value is $9{,}8\ \text{m/s}^2$. We will also assume that the speed of sound is constant throughout the atmosphere and equal to $340\ \text{m/s}$.
 
-(a) Assuming the fall was free, how long would it take you to
-Felix reach the speed of sound?
+a) Assuming the fall were free, how long would it take
+Felix to reach the speed of sound?
 
-(b) What distance would he travel in that time span?
-However, on an object falling into the Earth's atmosphere three
-force:
+b) What distance would it travel in that time interval?
+However, three forces act on an object falling in the Earth's atmosphere:
 i)
 The force of gravity, $F_g$.
 ii)
-la fuerza de flotación, $F_e$.
-(iii) the following:
-The traction force, $F_d$.
-The last two forces oppose resistance to the free fall of the body.
-The force of floatation is equal in magnitude to the weight of the fluid  in this case the
-Air from the atmosphere - displaced by the body (Archymedes Principle).
-On the other hand, the drag force, which is in the same direction and is of
-The object has a magnitude of
+the buoyant force, $F_e$.
+iii)
+the drag force, $F_d$.
+The last two forces oppose the free fall of the body.
+The buoyant force is equal in magnitude to the weight of the fluid – in this case the air of the atmosphere – displaced by the body (Archimedes' Principle).
+On the other hand, the drag force, which is in the same direction and opposite in sense to the motion of the object, has a magnitude
 
 $$F_d = \frac{C_d\,\rho_a\,v^2\,A}{2}$$
 
 where:
 
-$C_d$ es un coeficiente dinámico que depende del cuerpo y de las
-the fluid conditions in which the body moves;
+$C_d$ is a dynamic coefficient that depends on the body and on the conditions of the fluid in which the body moves;
 
 $\rho_a$ is the density of the atmosphere;
 
-$v$ is the speed of the moving body;
+$v$ is the velocity of the moving body;
 
-$A$ is the area of the body transversally to the direction of movement.
-We'll also denote $\rho$ to body density and $m$ to its mass.
+$A$ is the area of the body transverse to the direction of motion.
+We will also denote by $\rho$ the density of the body and by $m$ its mass.
 
-(c) Express the magnitude of the floating force $F_e$ in terms of the
-density of air and density and mass of body.
+c) Express the magnitude of the buoyant force $F_e$, in terms of the density of the air and of the density and mass of the body.
 
-(d) Write the equation of motion of a body falling into the
-atmosphere.
-If the density of the atmosphere is assumed to be constant, then by effect
-The Commission has already decided to take a decision on the
-By the time the body begins to fall, it reaches a final velocity, known as the
-as speed limit.
+d) Write the equation of motion of a body falling in the atmosphere.
+If the density of the atmosphere is assumed to be constant, then due to the combined action of the three forces mentioned above, and after a certain time from the beginning of its fall, the body reaches a final velocity, known as terminal velocity.
 
-(e) Find an expression for the speed limit, under the assumption
-The density of the atmosphere is constant.
-In order to answer some of the questions raised by the
-The adventurer Felix, we'll make the following assumptions:
+e) Find an expression for the terminal velocity, under the assumption that the density of the atmosphere is constant.
+In order to be able to answer some of the questions posed by the adventurer Félix, we will make the following assumptions:
 
 i)
-Felix, wearing his "space" suit, is geometrically similar to
-a cylinder radius $r = 40\ \text{cm}$ and height $l = 1{,}85\ \text{m}$, and its
-density is equal to that of water: $\rho = 1\ \text{g/cm}^3$.
+Félix, wearing his "space" suit, is geometrically similar to a cylinder of radius $r = 40\ \text{cm}$, and height $l = 1{,}85\ \text{m}$, and that his density is equal to that of water: $\rho = 1\ \text{g/cm}^3$.
 
 ii)
-The dynamic coefficient of Felix is $C_d = 1{,}5$.
+Félix's dynamic coefficient is $C_d = 1{,}5$.
 
-(iii) the following:
-The density of the atmosphere is constant in fractions, with the
-values shown in the following table:
+iii)
+The density of the atmosphere is constant in segments, with the values shown in the following table:
 
-This is the first time I've ever seen a guy who's been in a car.
+| Height range | 0-10 (km) | 10-20 (km) | 20-30 (km) | 30-40 (km) |
 | --- | --- | --- | --- | --- |
 | $\rho_a$ (g/cm³) | 0.0012 | 0.0006 | 0.0003 | 0.00002 |
 
 iv)
-The speed of sound is constant throughout the atmosphere and equal
-a $340\ \text{m/s}$.
+The speed of sound is constant throughout the atmosphere and equal to $340\ \text{m/s}$.
 
-Given all these assumptions and data,
+Taking into account all these assumptions and data,
 
-(f) From which height ranges of the ones shown in the table,
-Felix should throw himself if he wants to achieve his goal, which is to overcome
-the speed of sound? Justify your answer.
-The atmospheric pressure decreases with height according to the expression
+f) From which of the height ranges indicated in the table should Félix not be thrown if he wants to achieve his goal, that is, to exceed the speed of sound? Justify your answer.
+Atmospheric pressure decreases with height according to the expression
 
 $$P(h) = P_0\, e^{-h/H} \quad (1)$$
 
-where $P_0 = 760\ \text{mmHg} = 760\ \text{Torr}$ is the atmospheric pressure at sea level and $H$
-is a constant called the height scale and is $H = 8{,}42\ \text{km}$.
+where $P_0 = 760\ \text{mmHg} = 760\ \text{Torr}$, is the atmospheric pressure at sea level and $H$ is a constant called the scale height and equals $H = 8{,}42\ \text{km}$.
 
-The figure below shows the water vapour pressure in relation to the
-The temperature. Remember, the pressure of steam is the pressure at which they coexist.
-the liquid phase and the gaseous phase of a substance.
+The attached figure represents the vapor pressure of water as a function of temperature. Remember that vapor pressure is the pressure at which the liquid phase and the gaseous phase of a substance coexist.
 
-Water vapor pressure. 1 Torr is equal to 1mmHg
+Water vapor pressure. 1 Torr equals 1 mmHg
 
-Suppose Felix's blood is practically water and is found at
+Assume that Félix's blood is practically water and is at
 $36\ ^\circ\text{C}$.
-Based on the information provided and using the figure,
-Answer me
+Based on the information provided and using the figure, answer
 
-(g) What effect would Felix's blood have if he didn't wear a suit?
-Properly pressurized at launch from the
-- The capsule?
+g) what effect would Félix's blood undergo, if he did not use a properly pressurized suit at the moment of launching himself from the capsule?
 
-Answering sheet
+Answer Sheet
 
 a)
 
@@ -1727,125 +1562,103 @@ f)
 
 g)
 
-National court
-The test shall be carried out in accordance with the following conditions:
+National Instance
+Experimental Test
 
-The following is the list of the countries of the European Union:
+Introduction:
 
-Determination of electrical permittivity of air
-The following is the list of the countries of the European Union:
+Determination of the electric permittivity of air
+Introduction
 A capacitor is a device that stores energy in an electric field.
-This device consists of two conductive surfaces (Plaques)
-The following table shows the number of units of the vehicle:
+This device is formed by two conductive surfaces (Plates)
+separated by a dielectric medium as shown in Figure 1.
 
-Figure 1 is shown. Other, of a kind used for the manufacture of motor vehicles
+Figure 1. Capacitor
 
-When a potential difference is applied between the "terminals" of a
-Condenser, its conductive plates are loaded with $Q$ and $-Q$
-the Commission. The magnitude of the load $Q$ is given by,
+When a potential difference is applied between the "terminals" of a capacitor, its conductive plates become charged with charge $Q$ and $-Q$ respectively. The magnitude of the charge $Q$ is given by,
 
  (1)
 
-where $C$ is a constant called capacity whose unit is the Faradio [F].
-The capacity depends on the geometric shape and dimensions of the
-The electrical conductivity $\epsilon$ of the plate separating medium.
+where $C$ is a constant called capacitance whose unit is the Farad [F].
+The capacitance depends on the geometric shape and the dimensions of the capacitor, and on the electric permittivity $\epsilon$ of the medium that separates the plates.
 
-Among the ways of connecting capacitors are two widely used:
+Among the ways of connecting capacitors, two are very commonly used:
 
--Serial connection
+-Series connection
 
-Figure 2a. Serial connection
+Figure 2a. Series connection
 
-The $C$ capacity of a system consisting of two capacitors
-and connected in series (Figure 2a) is such that:
+The capacitance $C$ of a system formed by two capacitors of capacitance and connected in series (Figure 2a) is such that:
 
  (2)
 
-- Parallel connection
+-Parallel connection
 
 Figure 2b. Parallel connection.
 
-The $C$ capacity of a system consisting of two capacitors
-and connected in parallel (Figure 2b) is:
+The capacitance $C$ of a system formed by two capacitors of capacitance and connected in parallel (Figure 2b) is:
 
 (3)
 
-Other, of a kind used for the manufacture of goods
+Cylindrical capacitor
 
-In this type of capacitor, metal plates are cylinders located on
-Coaxial mode as shown in Figure 3.
+In this type of capacitor, the metal plates are cylinders located coaxially as shown in Figure 3.
 
-Figure 3 is shown. The cylindrical capacitor.
+Figure 3. Cylindrical capacitor.
 
-The capacity of a cylindrical capacitor $L$ and internal radius and
-The external ( ), with an electrical permittivity medium $\epsilon$ (see Figure 3) is
-given by:
+The capacitance of a cylindrical capacitor of height $L$ and of internal and external radius ( ), with a medium of electrical permittivity $\epsilon$ (see Figure 3) is given by:
 
  (4)
 
 Objectives:
 
-- Determine the electrical permittivity of air using a condenser
-a cylinder of variable length.
+- Determine the electrical permittivity of air using a cylindrical capacitor of variable length.
 
-- Determine the inductance value $L_B$ of a coil.
+- Determine the value of inductance $L_B$ of a coil.
 
-Team:
+Equipment:
 
-Figure 4 is shown. Experimental team.
+Figure 4. Experimental equipment.
 
-Part 1: Calibration of the Transducer Capacity-Frequency.
+Part 1: Calibration of the Capacitance-Frequency transducer.
 
-The capacity-frequency transducer is a device by which
-determine the capacity ($C$) of a capacitor by measuring the
-The output voltage signal frequency ($V_0$).
+The capacitance-frequency transducer is a device by means of which the capacitance ($C$) of a capacitor can be determined through the measurement of the frequency of the output voltage signal ($V_0$).
 
-Figure 5 is shown. Connection scheme Transducer Capacity - Frequency
+Figure 5. Connection diagram Capacitance-Frequency Transducer
 
-The measuring device diagram is shown in Figure 5. Frequency
-($f$) indicating the frequency meter connected at the output terminals (C-terminal terminals)
-(d) is related to the capacity ($C$) of the connected capacitor in the
-input boards (boards A-B) by the equation:
+The diagram of the measuring device is shown in Figure 5. The frequency ($f$) indicated by the frequency meter connected to the output terminals (terminals C-
+D) is related to the capacitance ($C$) of the capacitor connected to the input terminals (terminals A-B) by the equation:
 
 (5)
 
 where and are constants that depend on the construction of the transducer.
 
-Available items:
+Available elements:
 
-- Capacity-frequency transducer.
+- Capacitance-Frequency Transducer.
 
-- 3 Condensers of known capacity with relative uncertainty of the
+- 3 Capacitors of known capacitance with a relative uncertainty of
 10%.
 
-♪ Color capacity ♪
+| Color | Capacitance [pF] |
 | --- | --- |
-♪ Green 56 ♪
-♪ Orange ♪ 82 ♪
-♪ White ♪ 120 ♪
+| Green | 56 |
+| Orange | 82 |
+| White | 120 |
 
 - Connector
 
-- Frequency meter (multimeter)
+- Frequency meter (Multimeter).
 
-- It's a millimeter sheet.
+- Millimeter paper.
 
-Using the elements provided , determine the constants and .
+Using the provided elements, determine the constants and .
 
-The procedure:
+Procedure:
 
-1.1. Connect known capacity devices to the transducer input
-(borns A to B) and determine the frequency of the output voltage signal (borns
-C-D), using the frequency meter. Turn the values measured in a table
-(Table 1) is the most important factor. For connecting capacitors to the input of the transducer,
-Use the connector provided.
+1.1. Connect devices of known capacitance to the input of the transducer (terminals A -B) and determine the frequency of the output voltage signal (terminals
+C-D), using the frequency meter. Record the measured values in a table (Table 1). For connecting the capacitors to the input of the transducer, use the provided connector.
 
 Notes:
-- See Annex for connection of the frequency meter.
+- See Annex for frequency meter connection.
 -
-
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]], [[Thermodynamics]]
-**Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Capacitor (object)|Capacitor]], [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.13](https://drive.google.com/file/d/1QnVCfOYmrIrg7Y9RLq5lceoAe7J_RulU/view)

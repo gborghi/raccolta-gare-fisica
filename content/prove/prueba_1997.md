@@ -412,187 +412,128 @@ rojo
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 3.
+PROBLEMA 3.
 
-Nei laboratori della società VIDRIEX, che produce vetri e acrilici,
-Si è scoperto un nuovo materiale le cui proprietà ottiche, termiche e meccaniche sono:
-La Commissione ha adottato una decisione che non è stata adottata. Per evitare che il
-La Commissione ha adottato una decisione che non è stata adottata.
-è stato scolpito in forma di lente convergente equiconvexa (lenti con facce uguali di radius di
-curvatura). La stessa è conservata in una valigia portante insieme ad altri tre obiettivi simili.
-geometria, ma costruite con materiali diversi. Un'espionata che riesce ad accedere a uno dei
-i file sul computer centrale dell'azienda si apprende come il materiale ha
-che il suo indice di refraczione è uguale a $1,7748$. Questa informazione viene venduta alla
-La concorrenza, che mandano un ladro specializzato a rubare quel lente. Per questo entra
-Una notte nei laboratori della società VIDRIEX fornito di un sistema che permette di
-determinare le distanze focali dei lenti in aria e acqua.
-Il ladro, mettendo un oggetto a 1 m da ciascuna delle lenti, ottiene i seguenti valori
-di immagini distanti.
+Nei laboratori dell'azienda VIDRIEX, dedicata alla fabbricazione di vetri e acrilici, è stato scoperto un nuovo materiale le cui proprietà ottiche, termiche e meccaniche sono straordinarie e con insospettate applicazioni tecnologiche. Al fine di evitare lo spionaggio industriale nei suoi laboratori, è stato lasciato un unico campione di questo materiale, il quale è stato tagliato a forma di lente convergente equiconvessa (lenti con facce di uguale raggio di curvatura). Lo stesso è custodito in una valigetta portalentine insieme ad altre tre lenti della stessa geometria ma costruite con materiali diversi. Una spia che riesce ad accedere a uno degli archivi nel computer centrale dell'azienda viene a conoscenza del modo in cui il materiale è stato nascosto e che il suo indice di rifrazione è uguale a $1,7748$. Questa informazione viene venduta alla concorrenza, che invia un ladro specializzato a rubare detta lente. A tal fine, una notte entra nei laboratori dell'azienda VIDRIEX munito di un sistema che gli permette di determinare le distanze focali delle lenti in aria e in acqua.
+Il ladro, ponendo un oggetto a 1 m da ciascuna delle lenti, ottiene i seguenti valori delle distanze immagine.
 
-♬ Dist. Immagine aerea (cm) Dist. Immagine in acqua (cm)
+| | Dist. immagine in aria (cm) | Dist. immagine in acqua (cm) |
 | --- | --- | --- |
-Per questo, ho pensato che sarebbe meglio se non fosse un'altra cosa.
-Per questo, ho pensato che sarebbe meglio se non fosse un'altra cosa.
-♬ Lenti 3 ♬ 14.82 ♬ 43.21 ♬
-♬ Lenti 4 ♬ 12.80 ♬ 32.11 ♬
+| Lente 1 | 21.47 | 134.10 |
+| Lente 2 | 18.38 | 74.98 |
+| Lente 3 | 14.82 | 43.21 |
+| Lente 4 | 12.80 | 32.11 |
 
-a) Sapendo che l'indice di refraczione dell'aria è di 1.000 e dell'acqua di 1.333, si determina la
-Distanza focale di ciascuna lente in aria e in acqua.
+a) Sapendo che l'indice di rifrazione dell'aria è 1.000 e quello dell'acqua è 1.333, determinate la distanza focale di ciascuna delle lenti in aria e in acqua.
 
-b) Con i dati delle distanze focali ottenuti nel punto precedente, potresti
-determinare quale delle lenti il ladro dovrebbe portare?
+b) Con i dati delle distanze focali ottenute nel punto precedente, potreste determinare quale delle lenti dovrebbe portare via il ladro?
 
-Suggerimento: Potrebbe essere utile ricordare la formula:
+Suggerimento: Può esservi utile ricordare la formula:
 
 $$\frac{n_m}{f} = (n_l - n_m) \cdot \frac{2}{R}$$
 
-dove:
+dove :
 
-$n_l$: indice di refrazione della lente
+$n_l$: indice di rifrazione della lente
 
-$n_m$: indice di refrazione del mezzo che circonda la lente
+$n_m$: indice di rifrazione del mezzo che circonda la lente
 
-$R$: radius di curvatura delle facce del lente
+$R$ : raggio di curvatura delle facce della lente
 
-$f_m$: distanza focale della lente (nel mezzo in cui è immersa)
+$f_m$ : distanza focale della lente (nel mezzo in cui è immersa)
 
-Il ladro, con la lente in mano, si trova ora di fronte al problema di portarla fuori dal paese senza
-essere rilevato dai controlli della polizia che hanno già ricevuto un'alerta di furto. Con lo scopo
-Se si vuole nascondere, costruisce un cubo massiccio di 20 cm a lato, di un materiale trasparente di indice.
-di rifrazione pari a $1,5$. La lente è collocata al centro del cubo. Per non farla vedere
-Per far passare il cubo senza che si accorga, occorre coprire parti delle
-diversi volti del cubo.
+Il ladro, con la lente in suo possesso, si trova ora ad affrontare il problema di portarla fuori dal paese senza essere individuato dai controlli di polizia che sono già stati allertati del furto. Allo scopo di nasconderla costruisce un cubo pieno di 20 cm di lato, di un materiale trasparente con indice di rifrazione uguale a $1,5$. La lente è collocata al centro del cubo. Affinché essa non sia visibile dall'esterno del cubo e riesca a passare inosservata, è necessario coprire parti delle diverse facce del cubo.
 
-c) Quali siano le posizioni, le forme e le dimensioni minime dei patch da inserire
-sulle facce del cubo, così che la lente rubata non sia visibile dall'esterno?
+c) Quale posizione, forma e dimensioni minime devono avere le toppe, che saranno applicate sulle facce del cubo, affinché la lente rubata non sia visibile dall'esterno?
 
-d) È possibile utilizzare qualsiasi materiale trasparente (cioè con qualsiasi indice di
-La struttura di un'operazione di rifrazione (refrazione) è stata costruita in modo tale che la condizione di
-invisibilità della lente senza dover coprire completamente i volti del cubo?
+d) È possibile utilizzare qualsiasi materiale trasparente (cioè, con qualsiasi indice di rifrazione) per costruire il cubo, in modo tale che continui a valere la condizione di invisibilità della lente senza dover ricoprire completamente le facce del cubo?
 
-Prova sperimentale.
+PROVA SPERIMENTALE.
 
-Campo elettrico, densità di corrente e resistenza.
+CAMPO ELETTRICO, DENSITÀ DI CORRENTE E RESISTIVITÀ.
 
 1.- Obiettivo:
-L'obiettivo di questa esperienza è determinare la resistenza dell'alluminio facendo
-l'uso dei concetti di campo elettrico e di densità di corrente.
+L'obiettivo di questa esperienza è la determinazione della resistività dell'alluminio facendo uso dei concetti di campo elettrico e densità di corrente.
 
 2.- Introduzione
-In conducenti elettrici si è rispettato il rapporto
+Nei conduttori elettrici vale la relazione
 
 $$E = \rho j, \qquad (1)$$
 
-nota come legge di Ohm; dove $E$ è il modulo del campo elettrico in un punto del
-conductor, $j$ el módulo del vector densidad de corriente en ese punto y $\rho$ es una característica
-intrinseca del materiale, nota come resistenza.
-Il modulo del vettore di densità di corrente è dato da
+nota come legge di Ohm; dove $E$ è il modulo del campo elettrico in un punto del conduttore, $j$ il modulo del vettore densità di corrente in quel punto e $\rho$ è una caratteristica intrinseca del materiale, nota come la sua resistività.
+Il modulo del vettore densità di corrente è dato da
 
 $$j = I/A,$$
 
-dove $I$ è l'intensità del corrente elettrica e $A$ l'area della sezione trasversale del
-- Conduzione.
-Inoltre, in un conduttore lineare e omogeneo con sezione trasversale costante, si verifica
-che la resistenza elettrica $R$, tra due punti separati da una distanza $L$, è
+dove $I$ è l'intensità della corrente elettrica e $A$ l'area della sezione trasversale del conduttore.
+Inoltre, in un conduttore lineare e omogeneo con sezione trasversale costante, si verifica che la resistenza elettrica $R$, tra due punti separati da una distanza $L$, è
 
 $$R = \rho L/A$$
 
-Il modulo del campo elettrico può essere espresso con l'espressione:
+A sua volta, il modulo del campo elettrico può essere espresso per mezzo dell'espressione:
 
 $$E = V/L$$
 
-dove $V$ è la differenza di potenziale tra due punti del conducente separati da una distanza
+dove $V$ è la differenza di potenziale tra due punti del conduttore separati da una distanza
 $L$.
-Dalle espressioni precedenti, è diretto verificare che l'equazione (1) è equivalente alla
-Relazione nota:
+A partire dalle espressioni precedenti, è immediato verificare che l'equazione (1) è equivalente alla nota relazione:
 
 $$V = I R$$
 
-3.- Lista dei materiali
-- una lamina di alluminio montata su una regola di acrilico, su cui si effettueranno
-le misure.
-- Due multimetro digitali.
-- Una fonte di corrente.
+3.- Elenco dei Materiali
+- Una lamina di alluminio, montata su un righello di acrilico, sulla quale verranno effettuate le misurazioni.
+- Due multimetri digitali.
+- Una sorgente di corrente.
 - Due cavi per le connessioni.
-- Un'archiva di coccodrillo.
-- Una regola di millimetro
-- Foli di carta bianca e millimetrica.
+- Una pinza a coccodrillo.
+- Un righello millimetrato
+- Fogli di carta bianca e millimetrata.
 
-4.- Procedura sperimentale
-(i) Pulire la lamiera metallica con un cotone imbevuto di alcool,
-- La rompere.
+4.- Procedura Sperimentale
+i) Pulire la lamina metallica con un batuffolo di cotone imbevuto di alcol, facendo attenzione a non romperla.
 
-(ii) Armati il circuito mostrato nella figura. Fate circolare un flusso attraverso il conducente
-maggiore di $0,5$ A.
-(iii) Misura la differenza di potenziale tra l'estremità della lamina metallica connessa alla
-il terminale negativo della sorgente (cabo nero) e altri punti lungo la sorgente, cioè misura $V$
-in funzione della distanza $\Delta x$ sulla lamina.
+ii) Montare il circuito mostrato in figura. Far circolare attraverso il conduttore una corrente maggiore di $0,5$ A.
+iii) Misurare la differenza di potenziale tra l'estremità della lamina metallica collegata al terminale negativo della sorgente (cavo nero) e altri punti lungo la stessa, ovvero misurare $V$ in funzione della distanza $\Delta x$ sulla lamina.
 
-È necessario:
+Si richiede:
 - **A.** Realizzare un grafico della differenza di potenziale $V$, in funzione della distanza $\Delta x$.
-- **B.** Determinare i valori delle pendenti delle trame rettoriali che osserverete nel grafico
-di $V$ in funzione di $\Delta x$, con i rispettivi errori.
-(c) Analizzare le unità di tali pendenti e spiegare la magnitudo elettrica con cui
-sono direttamente correlati.
-d) Sapendo che lo spessore della foglia è di ($25\pm1$) $\mu\text{m}$ (1 $\mu\text{m} = 10^{-6}$ m), determinare
-la densità di corrente nei diversi tratti di tale lamina, con i rispettivi errori.
-e) Fare un grafico di $E$ in funzione di $j$. Da questo grafico si ottiene il valore di
-resistenza $\rho$ del materiale della lamina metallica, con il relativo errore.
+- **B.** Determinare i valori delle pendenze dei tratti rettilinei che si osserveranno nel grafico di $V$ in funzione di $\Delta x$, con i rispettivi errori.
+c) Analizzare le unità di tali pendenze ed esplicitare la grandezza elettrica con cui sono direttamente correlate.
+d) Sapendo che lo spessore del foglio metallico è di ($25\pm1$) $\mu\text{m}$ (1 $\mu\text{m} = 10^{-6}$ m), determinare la densità di corrente nei diversi tratti di detta lamina, con i rispettivi errori.
+e) Fare un grafico di $E$ in funzione di $j$. A partire da quel grafico ottenere il valore della resistività $\rho$ del materiale della lamina metallica, con il suo corrispondente errore.
 
-Nota: descrive in dettaglio i criteri utilizzati per determinare gli errori.
+Nota: descrivere dettagliatamente i criteri utilizzati nella determinazione degli errori.
 
-- Metti l'Amperimetro sulla scala di 10A di corrente continua.
-- Metti il Voltímetro sulla scala di 200 mV di corrente continua (CDC).
+- Collocare l'Amperometro sulla scala di 10 A di corrente continua.
+- Collocare il Voltmetro sulla scala di 200 mV di Corrente Continua (DCA).
 
-ATTENZIONE: non collegare la fonte alla rete (220 V) fino a quando non si è installato il Voltímetro e
-Amperimetro sulle scale corrispondenti.
+ATTENZIONE: Non collegare la sorgente alla rete (220 V) prima di aver collocato il Voltmetro e
+l'Amperometro sulle scale corrispondenti.
 
 x
-Fonte
-Perimetro
-Voltimetro
-nero
-rosso
-
-**Topic:** [[Geometric Optics]], [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Lens (object)|Lens]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1YT43AxjtEnankdKXa6KM-H-vc29IPyX3/view)
+Sorgente
+Amperometro
+Voltmetro nero rosso
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem three.
+PROBLEM 3.
 
-In the laboratories of the VIDRIEX company, which produces glass and acrylics,
-A new material has been discovered whose optical, thermal and mechanical properties are
-The Commission has already adopted a number of proposals for a new directive. In order to avoid the
-The Commission has already taken a number of measures to ensure that the
-has been carved into the shape of an equiconvex convergent lens (lenses with faces of equal radius of
-curvature). It's in a portent case with three other lenses.
-geometry but built with different materials. A spy who manages to access one of the
-The company's central computer files find out how the material has
-sido ocultado y que su índice de refracción es igual a $1,7748$. This information is sold to the
-Competition, who send a specialist thief to steal that lens. That's why you come in.
-One night to the laboratories of the company VIDRIEX equipped with a system that allows you to
-determine the focal lengths of the lenses in air and water.
-The thief, placing an object 1 m from each lens, obtains the following values
-of the distance images.
+In the laboratories of the company VIDRIEX, dedicated to the manufacture of glass and acrylics, a new material has been discovered whose optical, thermal and mechanical properties are extraordinary and with unsuspected technological applications. In order to prevent industrial espionage in its laboratories, a single sample of this material has been left, which has been cut in the form of an equiconvex converging lens (lenses with faces of equal radius of curvature). It is stored in a lens case together with three other lenses of the same geometry but made of different materials. A spy who manages to access one of the files on the company's central computer learns how the material has been hidden and that its refractive index is equal to $1,7748$. This information is sold to the competition, who send a specialized thief to steal said lens. To that end, he enters the VIDRIEX company laboratories one night provided with a system that allows him to determine the focal lengths of the lenses in air and water.
+The thief, placing an object 1 m from each of the lenses, obtains the following values of the image distances.
 
-♪ I'm not going to be able to tell you ♪ It's a very good thing that we're not going to get a lot of air. water image (cm)
+| | Image dist. in air (cm) | Image dist. in water (cm) |
 | --- | --- | --- |
-This is a very good idea.
-This is the first time I've ever seen a camera.
-This is the first time I've ever seen a video of a man who was a big fan of the movie.
-♪ Lenses four ♪ 12.80 32.11 ♪
+| Lens 1 | 21.47 | 134.10 |
+| Lens 2 | 18.38 | 74.98 |
+| Lens 3 | 14.82 | 43.21 |
+| Lens 4 | 12.80 | 32.11 |
 
-(a) Knowing that the refractive index of air is 1,000 and that of water is 1,333, determine the
-the focal length of each lens in air and water.
+a) Knowing that the refractive index of air is 1.000 and that of water is 1.333, determine the focal length of each of the lenses in air and in water.
 
-(b) With the focal length data obtained in the previous point, could you
-Determine which of the lenses the thief should wear?
+b) With the data of the focal lengths obtained in the previous point, could you determine which of the lenses the thief should take?
 
-Tip: It may be helpful to remember the formula:
+Hint: It may be useful for you to recall the formula:
 
 $$\frac{n_m}{f} = (n_l - n_m) \cdot \frac{2}{R}$$
 
@@ -604,108 +545,77 @@ $n_m$: refractive index of the medium surrounding the lens
 
 $R$: radius of curvature of the faces of the lens
 
-$f_m$: focal length of the lens (in the medium in which it is immersed)
+$f_m$: focal length of the lens (in the medium in which it is submerged)
 
-The thief, with the lens in his hand, now faces the problem of getting her out of the country without
-be detected by police controls that have already been alerted to the theft. For the purpose
-The resulting layer of material is a 20 cm thick side-bucket made of a transparent index material.
-a refractive index equal to $1,5$. The lens is placed in the center of the cube. So she won't be visible
-The first step is to cover the parts of the
-different sides of the cube.
+The thief, with the lens in his possession, now faces the problem of taking it out of the country without being detected by the police checkpoints that have already been alerted to the theft. In order to hide it, he builds a solid cube with a side of 20 cm, made of a transparent material with a refractive index equal to $1,5$. The lens is placed at the center of the cube. So that it is not visible from outside the cube and manages to pass unnoticed, it is necessary to cover parts of the different faces of the cube.
 
-(c) What minimum location, shape and dimensions should be given to the patches to be placed
-over the sides of the cube, so the stolen lens is not visible from the outside?
+c) What location, shape and minimum dimensions must the patches, which will be placed on the faces of the cube, have so that the stolen lens is not visible from the outside?
 
-(d) Is it possible to use any transparent material (i.e. any index of
-The Commission has therefore decided to adopt a decision on the
-The invisibility of the lens without having to cover the faces of the cube completely?
+d) Is it possible to use any transparent material (that is, with any refractive index) to build the cube, in such a way that the lens invisibility condition continues to be satisfied without having to cover the faces of the cube completely?
 
-This is an experimental test.
+EXPERIMENTAL TEST.
 
-Electric field, current density and resistance.
+ELECTRIC FIELD, CURRENT DENSITY AND RESISTIVITY.
 
-1. - Objective:
-The aim of this experiment is to determine the resistivity of aluminium by
-use of the electric field and current density concepts.
+1.- Objective:
+The objective of this experiment is the determination of the resistivity of aluminum using the concepts of electric field and current density.
 
-- Introduction to the proposal
-In electrical conductors the ratio is fulfilled
+2.- Introduction
+In electrical conductors the relation
 
 $$E = \rho j, \qquad (1)$$
 
-known as Ohm's law; where $E$ is the electric field module at a point in the
-conductor, $j$ el módulo del vector densidad de corriente en ese punto y $\rho$ es una característica
-It's inherent in the material, known as its resistivity.
-The current density vector module is given by
+known as Ohm's law is satisfied; where $E$ is the magnitude of the electric field at a point of the conductor, $j$ the magnitude of the current density vector at that point and $\rho$ is an intrinsic characteristic of the material, known as its resistivity.
+The magnitude of the current density vector is given by
 
 $$j = I/A,$$
 
-where $I$ is the electric current intensity and $A$ the cross-sectional area of the
-- The driver.
-In addition, in a linear and homogeneous conductor with a constant cross-section,
-where the electrical resistance $R$ between two points separated by a distance $L$ is
+where $I$ is the intensity of the electric current and $A$ the cross-sectional area of the conductor.
+Furthermore, in a linear and homogeneous conductor with constant cross-section, it is verified that the electrical resistance $R$, between two points separated by a distance $L$, is
 
 $$R = \rho L/A$$
 
-In turn, the electric field module can be expressed by the expression:
+In turn, the magnitude of the electric field can be expressed by means of the expression:
 
 $$E = V/L$$
 
-where $V$ is the difference in potential between two points of the driver separated by a distance
+where $V$ is the potential difference between two points of the conductor separated by a distance
 $L$.
-From the previous expressions, it is straightforward to verify that equation (1) is equivalent to the
-known relationship:
+From the previous expressions, it is straightforward to verify that equation (1) is equivalent to the well-known relation:
 
 $$V = I R$$
 
-3.- List of materials
-- An aluminium sheet, mounted on an acrylic wheel, on which the work will be carried out
-the measurements.
+3.- List of Materials
+- An aluminum sheet, mounted on an acrylic ruler, on which the measurements will be made.
 - Two digital multimeters.
-- A power source.
-- Two wires for connections.
-- It's a crocodile chip.
-- A millimeter rule
-- It's a sheet of white, millimeter paper.
+- A current source.
+- Two cables for connections.
+- A crocodile clip.
+- A millimeter ruler
+- Blank and graph paper sheets.
 
-4.- Experimental procedure
-(i) Clean the sheet with a cotton soaked in alcohol, paying attention to the
-break it.
+4.- Experimental Procedure
+i) Clean the metal sheet with a cotton swab soaked in alcohol, taking care not to break it.
 
-(ii) Arm the circuit shown in the figure. Make a current circulate through the conductor
-a value greater than $0,5$ A.
-(iii) Measure the potential difference between the end of the sheet metal connected to the
-negative end of the source (black cable) and other points along the source, i.e. size $V$
-according to the distance $\Delta x$ on the sheet.
+ii) Assemble the circuit shown in the figure. Make a current greater than $0,5$ A flow through the conductor.
+iii) Measure the potential difference between the end of the metal sheet connected to the negative terminal of the source (black cable) and other points along it, that is, measure $V$ as a function of the distance $\Delta x$ along the sheet.
 
-It is required:
-- **A.** Draw a graph of the potential difference $V$, based on the distance $\Delta x$.
-- **B.** Determine the slope values of the rectangular sections you will observe in the graph
-of $V$ in relation to $\Delta x$, with their respective errors.
-(c) Analyze the units of those slopes and explain the electrical magnitude with which the
-They're directly related.
-(d) Knowing that the thickness of the sheet metal is ($25\pm1$) $\mu\text{m}$ (1 $\mu\text{m} = 10^{-6}$ m), determine
-the current density in the different sections of the sheet, with their respective errors.
-(e) Draw a graph of $E$ according to $j$. From that graph you get the value of the
-Resistivity $\rho$ of the metal sheet material, with its corresponding error.
+Required:
+- **A.** Create a graph of the potential difference $V$, as a function of distance $\Delta x$.
+- **B.** Determine the values of the slopes of the straight segments that you will observe in the graph of $V$ as a function of $\Delta x$, with their respective errors.
+c) Analyze the units of those slopes and specify the electrical quantity with which they are directly related.
+d) Knowing that the thickness of the metal sheet is ($25\pm1$) $\mu\text{m}$ (1 $\mu\text{m} = 10^{-6}$ m), determine the current density in the different segments of said sheet, with their respective errors.
+e) Make a graph of $E$ as a function of $j$. From that graph obtain the value of the resistivity $\rho$ of the material of the metal sheet, with its corresponding error.
 
-Note: describe in detail the criteria used in the determination of errors.
+Note: describe in detail the criteria used in determining the errors.
 
-- Place the perimeter on the 10A DC scale.
-- Place the Voltmeter on the 200 mV DC scale.
+- Place the Ammeter on the 10 A direct current scale.
+- Place the Voltmeter on the 200 mV Direct Current (DCA) scale.
 
-ATTENTION: Do not connect the source to the network (220 V) until the Voltmeter is installed and
-Amperimeter at the corresponding scales.
+WARNING: Do not connect the source to the mains (220 V) until the Voltmeter and
+Ammeter have been placed on the corresponding scales.
 
 x
-The following is the source:
-Other, not further worked than cutting
-Other instruments
-black
-Red
-
-**Topic:** [[Geometric Optics]], [[Circuits]], [[Electromagnetism]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Lens (object)|Lens]], [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1YT43AxjtEnankdKXa6KM-H-vc29IPyX3/view)
+Source
+Ammeter
+Voltmeter black red

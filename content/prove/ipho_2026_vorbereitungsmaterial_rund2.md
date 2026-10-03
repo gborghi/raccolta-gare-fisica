@@ -44,28 +44,21 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il problema 1 è il problema del free fall on an exoplanet (MC).
-(II round towards IPhO 2022, problem group of the PhysicsOlympiad - Thomas Hellerl)
-On the surface of an extrasolar planet - exoplanet for short - the fall time of a body
-from a small height $h$, neglecting all friction effects, is exactly twice as large as
-sulla Terra.
-Which of the following statements is consistent with this, assuming a spherically symmetric
-La struttura dell'esoplaneta?
-Il pianeta è morto . . .
-A . . . metà della massa terrestre e il doppio del raggio terrestre.
-B . . . esattamente la massa della Terra e quattro volte il raggio della Terra.
-C . . . Due volte la massa terrestre e due volte il raggio terrestre.
-D . . . Quattro volte la massa terrestre e quattro volte il raggio terrestre.
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
+Problema 1 Caduta libera su un esopianeta (problema a scelta multipla)
+(2ª fase della selezione per la IPhO 2022, gruppo di problemi della PhysicsOlympiad - Thomas Hellerl)
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
+Sulla superficie di un pianeta extrasolare – per brevità esopianeta – il tempo di caduta di un corpo da una piccola altezza $h$, trascurando tutti gli effetti di attrito, è esattamente il doppio rispetto a quello sulla Terra.
+Quale delle seguenti affermazioni è coerente con questo dato, supponendo una struttura sfericamente simmetrica dell'esopianeta?
 
+L'esopianeta ha...
+A ...metà della massa terrestre e il doppio del raggio terrestre.
+B ...esattamente la stessa massa della Terra e quattro volte il suo raggio.
+C ...il doppio della massa terrestre e il doppio del raggio terrestre.
+D ...quattro volte la massa terrestre e quattro volte il raggio terrestre.
+
+Sezione risposta
+Calcoli ed spiegazioni
+Risposta corretta:
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2026 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/pendulum,object/rope-string,object/pulley"></span>
@@ -168,11 +161,11 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 PENDULO doppio spruzzatore (problema MC)
-(cfr.
-(II round towards IPhO 2023, idea: problem group of the PhysicsOlympiad - Thomas Hellerl)
-In each of the two spring pendulums shown in the figure, a body of mass $m$
-oscilla senza attrito. Tuttavia, le costanti di primavera $D_1$ e $D_2$ delle due Hookean springs sono diverse. Pertanto, i corpi, dopo essere stati spostati, oscillavano con diverse frequenze
+Problema 3 Pendolo con doppia molla (problema a scelta multipla)
+(5 punti)
+(Secondo turno per la IPhO 2023, idea: gruppo dei problemi della PhysicsOlympiad – Thomas Hellerl)
+
+In ciascuno dei due pendoli con molla mostrati nella figura, un corpo di massa $m$ oscilla senza attrito. Tuttavia, le costanti delle molle $D_1$ e $D_2$ dei due sistemi elastici di Hooke sono diverse. Di conseguenza, i corpi, dopo essere stati spostati, oscillano con frequenze diverse
 $f_1$ e $f_2$.
 $m$
 $D_1$
@@ -180,26 +173,21 @@ $f_1 = 1{,}2$ Hz
 $m$
 $D_2$
 $f_2 = 1{,}6$ Hz
-Qual è la frequenza di oscillazione (natural frequency) del sistema mostrato qui sotto, in cui il sistema oscillazione è
-le sorgenti sono accoppiate?
+
+Qual è la frequenza di oscillazione (frequenza naturale) del sistema mostrato qui sotto, in cui le molle sono accoppiate?
 $m$
 $D_1$
 $D_2$
 $f = ?$
-A 1.4 Hz
-B 2.0 Hz
-C 2.4 Hz
-D 2.8 Hz
-Answer section
+
+A 1,4 Hz
+B 2,0 Hz
+C 2,4 Hz
+D 2,8 Hz
+
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Superposition Principle (metodo)|Superposition Principle]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
-
+Risposta corretta:
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="IPhO 2026 — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/inductor,object/capacitor"></span>
@@ -568,11 +556,10 @@ Result for the focal length of the lens:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Immagine spostata
-1o round towards IPhO 2017
+Problema 8 Immagine spostata (1ª fase della IPhO 2017)
 Una lente sottile produce, come mostrato nella figura, un'immagine di un oggetto.
-Lenti
-Object
+Lente
+Oggetto
 Immagine
 -5
 -4
@@ -585,19 +572,13 @@ Immagine
 3
 4
 5
-Ruler
-Determina la lunghezza focale della lente. Usate il rullo disegnato come scala per questo. Inoltre,
-draw the resulting image quando una seconda lente identica viene posta direttamente dietro la prima.
-Answer section
+Righello
+
+Determinare la lunghezza focale della lente. Utilizzare il righello disegnato come scala per questo calcolo. Inoltre, disegnare l'immagine risultante quando una seconda lente identica viene posta direttamente dietro la prima.
+
+Sezione delle risposte
 Calcoli e spiegazioni
-Result for the focal length of the lens:
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
-
+Risultato per la lunghezza focale della lente:
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="IPhO 2026 — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/lens,object/screen"></span>
@@ -647,44 +628,42 @@ Result for the shift of the screen:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 9 In qualche modo spostato
-(Primo round verso l'IPhO 2023, gruppo problematico della PhysicsOlympiad)
-A thin converging lens forms a sharp image of an object $140{,}0$ cm away on a screen
-posizionato a una distanza di $16{,}8$ cm dietro il lente.
-9. (a) Determina la lunghezza focale del lente.
-Ora, come disegnato nella figura, un $3{,}0$ cm spessore, piano parallelo
-la piastra di cristallo con indice di refraczione $n = 1{,}50$ è collocata tra il lente e lo schermo. Per produrre un'immagine acuta sullo schermo di nuovo,
-il schermo è spostato da una distanza $\Delta b$.
+Problema 9 Qualche spostamento (primo turno della IPhO 2023, gruppo di problemi della Olimpiade di Fisica)
+
+Una lente convergente sottile forma un'immagine nitida di un oggetto posto a $140{,}0$ cm di distanza su uno schermo posizionato a una distanza di $16{,}8$ cm dietro la lente.
+
+9.a) Determinare la lunghezza focale della lente.
+
+Ora, come mostrato in figura, viene inserita tra la lente e lo schermo una piastra di vetro piano-parallela spessa $3{,}0$ cm con indice di rifrazione $n = 1{,}50$. Per ottenere nuovamente un'immagine nitida sullo schermo, lo schermo viene spostato di una distanza $\Delta b$.
+
 ?
 $3{,}0$ cm
 $140{,}0$ cm
-Scatto
-Dischi di vetro
-Lenti
-Object
-Fig. 1. Sketch of the setup, non a scala.
-9.b) Spiegare l'effetto che la piastra di vetro ha su un raggio di luce che non lo colpisce perpendicularmente.
-Usare questo per discutere se, per produrre un'immagine acuta, lo schermo deve essere spostato
-più vicino alla lente o più lontano da essa.
-9.c) Determina la magnitudo $\Delta b$ del necessario spostamento dello schermo.
-Per semplicità, si può presumere che solo i raggi parazziali sono coinvolti nel
-processo di imaging.
-Answer section
+Schermo
+Piastra di vetro
+Lente
+Oggetto
+Fig. 1. Schizzo dell’impianto, non in scala.
+
+9.b) Spiegare quale effetto ha la piastra di vetro su un raggio luminoso che non colpisce perpendicolarmente.
+
+Utilizzare questo per argomentare se, al fine di ottenere un'immagine nitida, lo schermo debba essere spostato più vicino alla lente o più lontano da essa.
+
+9.c) Determinare il modulo $\Delta b$ dello spostamento necessario dello schermo.
+
+Per semplicità, si può assumere che nel processo di formazione dell’immagine siano coinvolti solo raggi parassiali.
+
+Sezione delle risposte
 9.a)
 Calcoli e spiegazioni
-Result for the focal length of the lens:
+Risultato per la lunghezza focale della lente:
+
 9.b)
 Calcoli e spiegazioni
+
 9.c)
 Calcoli e spiegazioni
-Result for the shift of the screen:
-
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Lens (object)|Lens]], [[Screen (object)|Screen]]
-**Fonte:** [Testo (PDF) — p.20](https://drive.google.com/file/d/1tG5BAqy-TuNiDM4fbKxWNHu7Xg7FUOdo/view)
-
+Risultato per lo spostamento dello schermo:
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="IPhO 2026 — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Onde e Oscillazioni,object/photon"></span>

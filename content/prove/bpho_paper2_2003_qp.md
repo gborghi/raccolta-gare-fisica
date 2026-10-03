@@ -68,6 +68,30 @@ Domanda compulsoria, composta da brevi quesiti indipendenti:
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Compulsory question, consisting of brief independent sub-questions:
+
+- a) Comment on the necessary corrections for current measurements: (i) the value of current through a resistor $78{,}46\ \text{V}$ and $13{,}56\ \text{mA}$, with only one decimal digit at $1063{,}9\ \text{kW}$ (verification of readings); (ii) the dimensions of a rectangular parallelepiped, measured in mm, $52{,}5\times 35{,}5\times 95{,}0$; with density $0{,}000179525\ \text{m}$ and $0{,}7665336\ \text{kg}$; (iii) current $I = 8{,}03\ \text{A}$ in the circuit of Figure 1.1 (source $12{,}1\ \text{V}$, resistors $12{,}0\ \Omega$, $6{,}00\ \Omega$, $6{,}00\ \Omega$). *[Verify significant figures and recalculate]*
+
+- b) Calculate the number of photons produced in one nanosecond ($10^{-9}\ \text{s}$) by a source emitting radiation with wavelength $659\ \text{nm}$ and power $0{,}5\ \text{mW}$.
+
+- c) A rocket with initial mass $2{,}00\times 10^4\ \text{kg}$ is launched vertically. After time $4{,}0\ \text{s}$, it reaches a velocity of $95{,}0\ \text{m/s}$. It has burned fuel at rates $0{,}0001770525$ (sic) and $0{,}7665336\ \text{kg}$; calculate: (i) initial acceleration, (ii) maximum height, (iii) total flight time, (iv) work done by the engine.
+
+- d) The ion $^{14}_6\text{C}$ has a mass of $12$ atomic mass units. $1\ \text{u}=1{,}660566\times 10^{-27}\ \text{kg}=9{,}315008\times 10^{2}\ \text{MeV}$. Determine for $^{14}_6\text{C}$: (i) the mass in atomic mass units, (ii) the mass in unified atomic mass units, (iii) the binding energy in MeV.
+
+- e) The positive potential energy between charges is determined by: (why does a purely positively charged ion cloud form?); the electric field and potential at a given distance.
+
+- f) A vertical wooden cylinder floats: use conservation of energy to derive the center of mass of gravity $h$, as a function of the liquid height $h$.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p2_f1.png]]
+*Figure 1.1 — circuit with sources $12{,}1\ \text{V}$ and $12{,}0\ \text{V}$ and three resistors $6{,}00\ \Omega$ through which current $I$ flows.*
+<!--fig:end-->
+
+> *Note:* some numerical values in the PDF are difficult to read due to scan quality; refer to the original PDF for exact values.
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2003 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/rod,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -123,6 +147,27 @@ Due barre orizzontali identiche $A$ e $B$, ciascuna di massa $M$, sono poste una
 **Objects:** [[Rod (object)|Rod]], [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+Two identical horizontal bars $A$ and $B$, each of mass $M$, are stacked one above the other; the lower bar $A$ is supported by ideal springs, and the upper bar $B$ is held at a height $h$ above it. The system is released from rest (Figure 2.1).
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p4_f1.png]]
+*Figure 2.1 — upper bar $B$ and lower bar $A$, connected by ideal springs; $l$ indicates the separation.*
+<!--fig:end-->
+
+- a)
+  - (i) How does the separation between the bars change during free fall, before $A$ hits the ground?
+  - (ii) When $A$ hits the ground, the system completely dissipates its energy; transferred to the springs, the collision is perfectly inelastic; sound is produced. Derive an expression for the maximum separation of the springs.
+  - (iii) Express the energy, $E$, of the system in terms of successive spring compressions before sound is produced.
+  - (iv) Deduce an expression for $x_m$.
+
+- b)
+  - (i) Immediately after the springs touch $x_0$, what happens just as $A$ reaches the ground?
+  - (ii) Using energy considerations, deduce an expression for the compression $x_m$ at which the instant $A$ leaves the ground.
+  - (iii) A compression $x_m$ for which $A$ begins to lift off the ground. *(Neglect the thickness of the bars.)*
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2003 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/photon,object/electron"></span>
@@ -210,6 +255,38 @@ c) Il monitor della fotoemissione fra $C$ e l'esposizione finale della griglia $
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) Photons of wavelength $\lambda$ enter the photoemission apparatus (Figure 3.1). The photons strike the cathode $A$ and eject photoelectrons. A voltage $V_a$ exists between the cathode $A$ and the anode.
+- (i) Explain the nature of the cathode.
+- (ii) Why does the wave theory fail to explain the photoelectric effect?
+- (iii) Derive an expression, in terms of $h$, $\lambda$, and $\lambda_o$, for the maximum kinetic energy of the photoelectrons; and for the maximum wavelength $\lambda_o$ that still allows electron emission.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p5_f1.png]]
+*Figure 3.1 — photoelectric effect apparatus: cathode $C$, anode $A$ and incident photon beam.*
+<!--fig:end-->
+
+b) The photoelectrons emerge from $C$ through grids $G1$ and $G2$, which have apertures, and are accelerated by $5\ \text{mm}$ (Figure 3.2). The two electrostatic grids are separated by $500\ \text{nm}$ and all electrons are accelerated to a base potential of $V_b$. The shape of the waveform observed on the CRO is shown in Figure 3.3.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p5_f2.png]]
+*Figure 3.2 — modified photoelectric apparatus with grids $G1$ and $G2$ and oscilloscope (CRO).*
+<!--fig:end-->
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p5_f3.png]]
+*Figures 3.3 and 3.4 — voltage traces $V$ versus time $t/\mu\text{s}$ observed on the CRO.*
+<!--fig:end-->
+
+c) The emission monitor between $C$ and the final grid display $G2$ is determined solely by the potential on the grid. When $G1$ and $G2$ are at $+1{,}00\ \text{V}$:
+  - (i) Draw a graph of the electric field $V$ versus distance $x$ along the tube from $C$ to the end of $G2$.
+  - (ii) Draw the kinetic energy of a photoelectron between $G1$ and $G2$.
+  - (iii) Determine the velocity of a photoelectron between $G1$ and $G2$.
+  - (iv) Explain the shape of the trace $V$ versus $x$.
+  - (v) Estimate the temporal width ($\mu\text{s}$) of the electron pulse emerging from $G2$.
+
+
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2003 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -275,6 +352,30 @@ d) La figura 4.3 contiene una disposizione triangolare di resistori $5\ \Omega$,
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) Determine the currents $i_1$ and $i_2$ in the circuit of Figure 4.1. The cells have electromotive force (emf) $E$, negligible internal resistance, and resistors of resistance $R$.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p6_f1.png]]
+*Figure 4.1 — the two circuits (i) and (ii), each with cells of emf $E$ and resistors $R$, through which currents $i_1$ and $i_2$ flow.*
+<!--fig:end-->
+
+b) Figure 4.2 contains two circuits, each with points labeled $1$, $2$ and $3$, containing these resistors:
+- (i) a star network with resistances $R_1$, $R_2$ and $R_3$;
+- (ii) a delta network with resistances $R_{12}$, $R_{23}$ and $R_{31}$ (the arrows indicate the resistances between points labeled $1$, $2$ and $3$). The two networks carry identical currents $i_1$, $i_2$ and $i_3$ and have identical potentials. For $i_3 = 0$, derive the relations used to evaluate $(2,3)$ for (i) star and (ii) delta, and deduce the equations
+$$(R_2 + R_3)(R_{31} + R_{23}) = R_{23}(R_{31} + R_{12}).$$
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p6_f2.png]]
+*Figure 4.2 — star network (resistors $R_1,R_2,R_3$) and delta network (resistors $R_{12},R_{23},R_{31}$); Figure 4.3 — triangular arrangement of resistors between $A$ and $B$.*
+<!--fig:end-->
+
+c) Derive the relations that connect a star network to a delta network.
+
+d) Figure 4.3 contains a triangular arrangement of $5\ \Omega$, $4\ \Omega$, $1\ \Omega$, $2\ \Omega$, $10\ \Omega$ and $5\ \Omega$ resistors. Verify that the equivalent arrangement yields a circuit with all $5$ resistors. Hence determine the resistance $R_{AB}$ between points $A$ and $B$.
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2003 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/wire,object/magnet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -336,6 +437,30 @@ dove $\gamma$ e $\lambda$ sono costanti. Quando il tappeto è sospeso da un filo
 **Objects:** [[Wire (object)|Wire]], [[Magnet (object)|Magnet]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+a) The magnitude of the magnetic flux density $B$ at a distance $r$ from an infinite straight wire carrying current $I$ is given by
+$$B = \frac{\mu_o I}{2\pi r},$$, where $\mu_o$ is the permeability of free space. Show that the force per unit length $F$ between two infinite parallel wires carrying currents $I_1$ and $I_2$ separated by distance $r$ is
+$$F = \frac{\mu_o I_1 I_2}{2\pi r}.$$.
+Indicate the direction of $F$ with a diagram.
+
+b) Draw the magnetic field (using lines for two parallel wires, each carrying current $I$):
+(i) when currents are in the same direction and
+(ii) when currents are in opposite directions.
+Draw a graph of magnetic flux density $B$ versus distance $x$ along the infinite line passing through both wires, in a plane perpendicular to the wires, for cases (i) and (ii).
+
+c) Parallel wires carrying current are placed on a set of rails at $200\ \text{A}$ in the same direction, separated by distance $0{,}50\ \text{m}$ (Figure 5.1). Determine the force per unit length on each wire. Draw a force diagram.
+
+d) Figure 5.2 shows a cork stopper, of mass floating on a horizontal rod, suspended by a wire in a magnetic field. A small perturbation causes the stopper to oscillate with angular frequency $f$ given by
+$$f^2 = \gamma B + \lambda,$$, where $\gamma$ and $\lambda$ are constants. When the stopper is suspended by a wire in the magnetic field:
+- on which physical properties does $\lambda$ depend? Describe how the wire could be arranged so that the stopper floats freely with given angular frequency $f$, and finally how to vary $r$ ($1/r$) in order to determine $\lambda$.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p7_f1.png]]
+*Figure 5.1 — the two parallel wires separated by $0{,}50\ \text{m}$; Figure 5.2 — magnetic cork stopper (poles $N$, $S$) immersed in the magnetic field $B$.*
+<!--fig:end-->
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2003 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/planet,object/star,object/satellite"></span>
@@ -436,6 +561,22 @@ e) Un aereo bimotore vola a quota bassa verso un osservatore stazionario. La fre
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) Explain, with diagrams, the differences between longitudinal and transverse waves. Give an example of a transverse wave.
+
+b) Explain the following acoustic phenomena:
+- (i) beats between two sound waves;
+- (ii) Doppler effect.
+
+c) If a sound source emitting a note of frequency $f_o$ moves toward an observer with speed $v_s$, show that, assuming no wind, the frequency $f$ detected by the observer is
+$$f = \frac{f_o}{1 - v_s/c},$$ where $c$ is the speed of sound in air.
+
+d) How does the result in (c) change if the source moves away from the observer? What happens to the speed of sound $v_s$ compared to $c$? Why do transverse acoustic waves not propagate in air?
+
+e) A twin-engine airplane flies at low altitude toward a stationary observer. The beat frequency between the two engines, as observed, changes from $8{,}00\ \text{s}^{-1}$ to $2{,}00\ \text{s}^{-1}$ when it passes directly overhead. If audible, deduce the airplane’s speed. (Speed of sound in air $c = 330\ \text{m/s}$.)
+
+
 <span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2003 Locale Round 1 — Quesito 8" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/diffraction-grating,object/slit,object/screen,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -507,6 +648,32 @@ d) Un impulso è un evento di neutroni stellari adiacenti che cambia l'indice di
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) A band of electromagnetic radiation frequency, such as present in white light, is transmitted through a diffraction grating. Observing the diffracted light beam, the transmitted spectrum allows one to conclude that the refractive index of the medium for visible light is given by the wavelength?
+
+b) A laser beam, wavelength $\lambda$, normally incident on two slits separated by distance $d$, located on a screen at distance $\theta$ from the slits (Figure 8.1).
+- (i) What are the conditions for constructive and destructive interference?
+- (ii) Show that, for the first-order fringe, when $\theta$ is less than $1$ radians, the refractive index is given by $\lambda$. *[Verify]*
+- (iii) How does the condition in (ii) change if the system is immersed in a medium of refractive index $n$?
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p10_f1.png]]
+*Figure 8.1 — geometry of the double-slit setup: incident and diffracted beams at angle $\theta$.*
+<!--fig:end-->
+
+c) A radio telescope has two antennas separated by $50\ \text{m}$ along an east-west line. A source is directly overhead, at a wavelength of $0{,}75\ \text{m}$. The amplitudes of the diffracted beam as a function of time, Figure 8.2, show the angular interval between adjacent maxima, as a function of time $t$ elapsed after noon $12$.
+- (i) Determine the time interval between adjacent intensity maxima.
+- (ii) How does the recorded result change if performed in Cambridge, England, at latitude $52^\circ\text{N}$?
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2003_QP/BPhO_Paper2_2003_QP_p10_f2.png]]
+*Figure 8.2 — amplitude/intensity $I$ of the received signal as a function of time $t$.*
+<!--fig:end-->
+
+d) An impulse is an event involving adjacent neutron stars that alters the refractive index between neighboring points. How can such a cloud be optically detected? When a cloud of adjacent neutron stars passes in front of the star, the refractive index changes. How can an observer detect such a cloud?
+
+
 <span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2003 Locale Round 1 — Quesito 9" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/electron,object/photon,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -558,6 +725,23 @@ d) Un raggio X di lunghezza d'onda $\lambda$ è diffuso da un elettrone staziona
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) An electron in a hydrogen atom transitions from the ground state, with energy $E_1 = -13{,}60\ \text{eV}$, to the first excited state, energy $E_2 = -3{,}40\ \text{eV}$.
+- (i) Deduce whether a photon was emitted or absorbed.
+- (ii) Determine the wavelength of the photon.
+- (iii) What is the ionization energy of the atom?
+
+b) How do the energy levels of an electron bound in a hydrogen atom differ for a wavelength $\lambda$?
+
+c) A stationary positronium, rest energy $m_e c^2$, decays into two photons of equal wavelength $\lambda$.
+- (i) Why are the wavelengths equal?
+- (ii) What differences arise if the positron is in motion?
+- (iii) Calculate $\lambda$.
+
+d) An X-ray with wavelength $\lambda$ is scattered by a stationary electron, producing a scattered X-ray of wavelength $\lambda_o$. The electron gains non-relativistic energy $5{,}00\ \text{keV}$. Determine the wavelength $\lambda$. *(The momentum of a photon, with frequency $f$, is related to its energy $E$ by $E = pc$.)*
+
+
 <span class="atom-split" id="q10" data-atom="q10" data-title="BPhO 2003 Locale Round 1 — Quesito 10" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/block,object/resistor,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -598,3 +782,16 @@ c) Caffè nero a $70\,^\circ\text{C}$, con una massa di $225\ \text{grammi}$ e c
 **Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
 **Objects:** [[Block (object)|Block]], [[Resistor (object)|Resistor]], [[Calorimeter (object)|Calorimeter]]
 **Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1WnjTd_aDh0aJn6gW7M1YXa4XQnF9s7jA/view)
+<div class="qlang-split" data-lang="en"></div>
+
+a) An isolated container holds an ice block at $-20\,^\circ\text{C}$. A constant heating resistor and a temperature probe are inserted into the ice; the heater is turned on, and the temperature rises slowly so as to maintain heating at a constant rate. The temperature increases from $-20\,^\circ\text{C}$ to $120\,^\circ\text{C}$, as shown in the following temperature graph, $T$, versus time, $t$. Explain the molecular arrangement in the different temperature regions.
+
+b) A Dewar flask contains a boiling liquid and a heating resistor. The heater has resistance $2{,}00\ \Omega$ and draws a current of $0{,}90\ \text{A}$. The equilibrium temperature is recorded at a uniform rate of $0{,}40\,^\circ\text{C}$ per minute. The heater is turned on, and the recorded result is provided below. Determine the specific latent heat of vaporization of the liquid.
+
+| Temperature/min | 0.00 | 2.00 | 4.00 | 6.00 | 8.00 | 10.00 | 12.00 | 14.00 | 16.00 |
+|---|---|---|---|---|---|---|---|---|---|
+| Mass/grams | 73.0 | 72.5 | 72.0 | 71.5 | 70.5 | 68.5 | 66.5 | 64.5 | 62.5 |
+
+c) Black coffee at $70\,^\circ\text{C}$, with a mass of $225\ \text{grammi}$ and specific heat capacity of coffee $4200\ \text{J kg}^{-1}\,^\circ\text{C}^{-1}$, is followed by the addition of $15\ \text{grammi}$ of cream at $5\,^\circ\text{C}$, with specific heat capacity $4000\ \text{J kg}^{-1}\,^\circ\text{C}^{-1}$. Determine the final equilibrium temperature of the coffee-cream mixture. Explain, without calculation, whether the heat required to bring the black coffee from its initial temperature $T/^\circ\text{C}$ to the equilibrium temperature $T_2/^\circ\text{C}$ is greater than or less than the heat released by the cream cooling from its initial temperature $T_1$ to the equilibrium temperature $T_2$.
+
+

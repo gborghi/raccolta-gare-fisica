@@ -117,26 +117,17 @@ Le quantità $d_L$ e $d_V$ rappresentano le distanze medie fra le molecole di ac
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of units of measurement used:
-The quantities $d_L$ and $d_V$ represent the mean distances between water molecules in the liquid phase and vapor phase respectively. Both of these phases are at $100\ °\text{C}$ temperature and at atmospheric pressure; the steam can be treated as a perfect gas. Using the following data, the $d_V / d_L$ ratio is calculated.
+**INTERMOLECULAR DISTANCE**
 
-The following information is provided for in the Annex to Implementing Regulation (EU) No 1303/2013.
+The quantities $d_L$ and $d_V$ represent the average distances between water molecules, respectively in the liquid phase and in the vapor phase. Both phases are at a temperature of $100\ °\text{C}$ and atmospheric pressure; the vapor may be treated as an ideal gas. Using the following data, calculate the ratio $d_V / d_L$.
 
-- Density of water in liquid phase: $\rho_L = 1{,}0 \times 10^3\ \text{kg/m}^3$
+**Data:**
+
+- Density of water in the liquid phase: $\rho_L = 1{,}0 \times 10^3\ \text{kg/m}^3$
 - Molar mass of water: $M = 1{,}8 \times 10^{-2}\ \text{kg/mol}$
-- Air pressure: $P_a = 1{,}0 \times 10^5\ \text{N/m}^2$
+- Atmospheric pressure: $P_a = 1{,}0 \times 10^5\ \text{N/m}^2$
 - Gas constant: $R = 8{,}3\ \text{J/(mol·K)}$
-- Avogadro number: $N_A = 6{,}0 \times 10^{23}\ \text{mol}^{-1}$
-
-
----
-
-**Topic:** [[Kinetic Theory]], [[Thermodynamics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1rqWeeCgKGYUTpoRvetJ6HraSuu5HwfEF/view)
-
+- Avogadro's number: $N_A = 6{,}0 \times 10^{23}\ \text{mol}^{-1}$
 
 
 <span class="atom-split" id="q1c" data-atom="q1c" data-title="IPhO 2001 — Problema 1C" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/circuits,topic/oscillations-e-waves,object/capacitor,object/resistor,object/battery,object/switch"></span>

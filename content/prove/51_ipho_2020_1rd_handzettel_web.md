@@ -439,152 +439,65 @@ tricky problems. S
 
 Problema 4 (10 punti)
 Molto lontano
-La parallassia è uno strumento importante per determinare le distanze di stelle vicino al Sole. A causa di
-Il movimento della Terra lungo la sua orbita intorno al Sole, la posizione di queste stelle rispetto allo sfondo di stelle molto più lontane cambia nel corso dell'anno. Questo spostamento apparente è chiamato parallax. You can also use
-Parallax with a camera at much smaller distances to determine distances. Per farlo, è necessario avere informazioni sui parametri della macchina fotografica che state usando.
-a) Usando una fotocamera digitale o smartphone, fotografare un ruoter a circa 2 o 3 metri di distanza. Usare la foto
-e le informazioni EXIF memorizzate nel file di immagini sulla distanza focale utilizzate per determinare la distanza tra due pixel sul sensore di immagine della fotocamera. Con questo puoi convertire una lunghezza misurata in pixel sul
-Foto in distanza sul sensore della telecamera. Estimare l'incertezza del tuo risultato.
-Quando fate la foto, concentratevi su una regione che è il più lontano possibile.
-b) Prendere due foto di un piccolo oggetto a cinque distanze diverse superiori a 4 m.
-Le foto devono essere prese da posizioni che sono alla stessa distanza dall'oggetto ma
-30 - 60 cm di distanza. Per ciascuna delle distanze scelte, utilizzare parallax
-per determinare la rispettiva distanza dall'oggetto alle foto e confrontare i valori con quelli che si ottengono da un
-misurazione diretta della lunghezza delle distanze.
-c) Supponiamo che l'oggetto che hai fotografato sia ancora riconoscibile nella foto da distanze arbitrarie.
-Estimare fino a che distanza puoi ancora determinare la distanza dall'oggetto con la tua fotocamera usando il metodo parallax.
-Problema minore (10 punti)
-Due più tre = sei?
-Il circuito mostrato è costituito da una voltage source con voltage costante $U = 6{,}0\ \text{V}$ e due resistori con valori di resistenza $R_1 = 3{,}3\ \text{M}\Omega$ e $R_2 = 5{,}0\ \text{M}\Omega$, rispettivamente.
-a) Calcolare le tensioni che cadono attraverso le singole resistori nel circuito.
-Se si misura il flusso di tensione attraverso le singole resistori uno dopo l'altro con un voltmeter, il
-Le tensioni misurate deviano dai risultati teorici. Supponiamo che le tensioni misurate siano
-$2{,}0\ \text{V}$ across resistor $R_1$, $3{,}0\ \text{V}$ across resistor $R_2$ and $6{,}0\ \text{V}$ across the voltage source.
-b) Scopri cosa distingue un voltmeter ideale da un vero, e spiega perché la somma è
-di voltage misurate attraverso le resistori non è uguale alla voltage della batteria.
-Determina il valore della quantità caratteristica del voltmeter che porta ai dati valori di tensione.
-Figura 2: Due foto di un
-ball with pronounced parallax.
-Figura 1: Foto di un ruotere.
+
+La parallasse è uno strumento importante per determinare le distanze delle stelle vicine al Sole. A causa del moto della Terra lungo la sua orbita intorno al Sole, la posizione di queste stelle rispetto allo sfondo di stelle molto più lontane cambia nel corso dell'anno. Questo spostamento apparente è chiamato parallasse. È possibile utilizzare la parallasse anche con una fotocamera a distanze molto più piccole per determinare le distanze. A tale scopo, è necessario conoscere i parametri della fotocamera utilizzata.
+
+a) Utilizza una fotocamera digitale o uno smartphone per scattare una foto di una riga graduata posta a circa 2 - 3 m di distanza. Utilizza la foto e le informazioni EXIF memorizzate nel file dell’immagine riguardanti la lunghezza focale impiegata per determinare la distanza tra due pixel sul sensore dell’immagine della fotocamera. Con questo valore potrai convertire una lunghezza misurata in pixel sulla foto in una distanza effettiva sul sensore della fotocamera. Stimare l’incertezza del tuo risultato.
+
+Suggerimento: quando scatti la foto, metti a fuoco una regione il più lontana possibile.
+
+b) Scatta due foto di un oggetto piccolo da cinque distanze diverse, tutte maggiori di 4 m. Le foto devono essere scattate da posizioni che si trovano alla stessa distanza dall’oggetto, ma separate tra loro di 30 - 60 cm. Per ciascuna delle distanze scelte, utilizza la parallasse per determinare la distanza dell’oggetto dalle foto e confronta i valori ottenuti con quelli ricavati da una misura diretta della lunghezza delle distanze.
+c) Supponi che l’oggetto fotografato sia ancora riconoscibile nella foto da distanze arbitrarie.
+Stima fino a quale distanza puoi ancora determinare la distanza dell’oggetto con la tua fotocamera utilizzando il metodo della parallasse.
+Problema per studenti (10 punti)
+due + tre = sei?
+Il circuito mostrato è composto da una sorgente di tensione con tensione costante $U = 6{,}0\ \text{V}$ e due resistori con valori di resistenza $R_1 = 3{,}3\ \text{M}\Omega$ e $R_2 = 5{,}0\ \text{M}\Omega$ rispettivamente.
+a) Calcola le tensioni che si registrano ai capi dei singoli resistori nel circuito.
+Se misuri le cadute di tensione ai capi dei singoli resistori uno dopo l’altro con un voltmetro, i valori misurati differiscono dai risultati teorici. Supponi che le tensioni misurate siano
+$2{,}0\ \text{V}$ ai capi del resistore $R_1$, $3{,}0\ \text{V}$ ai capi del resistore $R_2$ e $6{,}0\ \text{V}$ ai capi della sorgente di tensione.
+b) Individua ciò che distingue un voltmetro ideale da uno reale, e spiega perché la somma delle tensioni misurate ai capi dei resistori non è uguale alla tensione della batteria.
+Determina il valore della grandezza caratteristica del voltmetro che porta ai valori di tensione dati.
+Figura 2: Due foto di una palla con parallasse evidente.
+Figura 1: Fotografia di una riga.
 $R_1$
 $R_2$
 $-U+$
 V
-A
-sciencesolymppiaden.de
+A scienceolympiaden.de
 Mostra il tuo talento!
-Alunni
-Se sei un allievo,
-L'Ipho e la PhysicsOlympiad in Germania offrono molti
-opportunità di impegnarsi intensamente con la fisica
-Le domande che si possono fare per sperimentare la fisica come un'eccitante
-la disciplina scientifica, per testare il vostro
-- il limite di cui si dispone
-Almeno per incontrare persone interessanti.
-Per i round di competizione ci sono
-materiali di apprendimento e problemi di formazione
-che ti aiuteranno a approfondire le tue conoscenze e
-capacità di risoluzione dei problemi.
-Ai seminari si incontrano molti altri
-Giovani entusiasti della fisica. Prendendo
-Il part is therefore worthwhile in any
-caso, indipendentemente dal fatto che tu lo faccia
-- In un giro più alto. Cosa
-Le questioni sono state prese in considerazione. Successfully
-completando il primo
-Round è già un'impresa speciale e una vera distinzione.
-Allora, abbi coraggio!
-Docenti
-Come insegnante, puoi offrire
-Alunni che sono particolarmente capaci
-o interessato in fisica a challenge with
-i problemi della fisica
-Olimpiadi e incoraggiarli a impegnarsi più profondamente
-con argomenti di fisica.
-Il PhysicsOlympiad può così
-Serve come strumento di sostegno individuale.
-In particolare, i problemi dei
-I primi round sono adatti non solo per:
-Il migliore di una classe.
+Studenti
+Se sei uno studente, l’IPhO e la Olimpiade della Fisica in Germania ti offrono numerose opportunità per approfondire domande di fisica, vivere la fisica come una disciplina scientifica affascinante, metterti alla prova e, non da ultimo, conoscere persone interessanti.
+Per le fasi di gara ci sono materiale didattico e problemi addestrativi che ti aiutano a approfondire le tue conoscenze e le tue capacità di risoluzione dei problemi.
+Ai seminari incontrerai molti altri giovani appassionati di fisica. Partecipare ha quindi senso in ogni caso, indipendentemente dal fatto che tu riesca a superare le fasi successive. Conta la partecipazione stessa. Superare con successo la prima fase è già un risultato speciale e una vera distinzione.
+Allora, sii coraggioso!
 
-Con una vasta gamma di offerte, il
-PhysicsOlympiad mira ad attrarre i giovani interessati
-le persone in modo generale e per ispirarle
-per le scienze naturali.
-Questo è servito da offerte di supporto come l'Orpheus o l'Identiphy
-seminari e i materiali che accompagnano
-il primo round, con il quale vogliamo supportarti
-introducendo argomenti della PhysicsOlympiad.
-Quindi sentitevi liberi di incoraggiare i vostri alunni
-per il
-Solo chi non partecipa può perdere.
+Insegnanti
+Come insegnante, puoi offrire agli alunni particolarmente dotati o interessati alla fisica una sfida con i problemi della Olimpiade di Fisica e incoraggiarli a approfondire maggiormente gli argomenti di fisica.
+La Olimpiade di Fisica può quindi fungere da strumento di sostegno individuale.
+In particolare, i problemi della prima fase sono adatti non solo ai migliori di una classe.
+
+Con un'ampia offerta, la Olimpiade di Fisica mira a coinvolgere in modo ampio giovani interessati e ad ispirarli duraturamente alle scienze naturali.
+Questo obiettivo è favorito da iniziative di sostegno come i seminari Orpheus o Identiphy e dai materiali accompagnatori per la prima fase, con cui vogliamo sostenerti nell'introdurre gli argomenti della Olimpiade di Fisica.
+Non esitare quindi a incoraggiare i tuoi alunni a partecipare; solo chi non partecipa può perdere.
+
 Scuole
-Incoraggiando la partecipazione a competizioni, le scuole
-Can sharpen their profile
-e utilizzare questi, nel senso che
-di enrichment, per completare le offerte scolastiche.
-Le competizioni offrono così diverse,
-ambienti di apprendimento differenziati per gli studenti partecipanti.
-In questo settore, la
-Le Olimpiadi, almeno in seguito
-I round, represent a competition aimed at especially motivated
-e giovani ad alto rendimento. Tuttavia,
-Participazione è utile anche nell'entrata
-I round non solo come ricompensa ma come
-può anche contribuire a una durata
-motivazione per i temi STEM. Offerte come l'Orpheus o
-I seminari di identificazione consentono quindi di
-Il sostegno di un gran numero di partecipanti.
-In molti stati federali, comunque,
-La partecipazione può essere riconosciuta come un special learning
-paper of your achievement or subject/seminar paper of your
-Alcune delle quali sono state prese in considerazione.
-Interessato in più di
-- La fisica?
-L'IPhO è uno dei sei centri scientifici nazionali
-Le competizioni scolastiche organizzate dall'IPN
-Scienza olimpiadi. Accanto alla selezione
-Competitions for the International
-Olimpiadi in biologia (IBO), chimica
-(IChO) e fisica (IPhO), questi includono
-La Commissione ha inoltre adottato una proposta di regolamento (UE) n.
-Concorrenza (BUW). Insieme si rivolge a
-pupils from the start
-di scuola secondaria inferiore fino alla fine
-di anni scolastici e, con
-La rete, offrono la possibilità di
-sostenere duratamente le capacità e gli interessi scientifici.
-Ulteriori informazioni sono disponibili a:
-www.scienceolympiaden.de
-Molti buoni motivi per partecipare al PhysicsOlympiad
+Incentivando la partecipazione alle gare, le scuole possono rafforzare il proprio profilo e utilizzare queste iniziative, nel senso dell’arricchimento, per integrare le proposte scolastiche.
+Le competizioni offrono così ambienti di apprendimento diversificati e differenziati per gli studenti partecipanti.
+Nel settore delle materie STEM, le Olimpiadi rappresentano, almeno nelle fasi successive, una competizione rivolta a giovani particolarmente motivati e di alto livello. Tuttavia, anche le fasi iniziali risultano utili da affrontare, non solo come riconoscimento ma anche perché possono contribuire a una motivazione duratura verso gli argomenti STEM. Iniziative come i seminari Orpheus o Identiphy offrono così un sostegno a un gran numero di partecipanti.
+In molti stati federali, inoltre, la partecipazione può essere riconosciuta come un'attività formativa speciale o una tesina di materia/semestre per gli studenti che conseguono il diploma (Abitur).
+Interessati anche a qualcosa oltre la fisica?
+L'IPhO è una delle sei competizioni nazionali di scienze scolastiche organizzate dall'IPN — le Olimpiadi della Scienza. A fianco delle selezioni per le olimpiadi internazionali di Biologia (IBO), Chimica (IChO) e Fisica (IPhO), queste includono anche l'International Junior Science Olympiad (IJSO), l'European Science Olympiad (EUSO) e il BundesUmwelt Wettbewerb (BUW). Insieme, esse coinvolgono gli studenti dal primo anno della scuola secondaria di primo grado fino alla fine del percorso scolastico, offrendo con una rete di collegamenti stretta la possibilità di un sostegno duraturo delle capacità e degli interessi scientifici.
+Ulteriori informazioni sono disponibili su www.scienceolympiaden.de.
+Molte buone ragioni per partecipare all'Olimpiade di Fisica
 Cari studenti, cari genitori, cari insegnanti,
 
-"Gli scienziati hanno il futuro nel loro sangue", come il
-Scienziato e scrittore britannico Charles Percy Snow
-- Una volta. In effetti, i risultati della
-Le scienze naturali influiranno significativamente sul nostro futuro. Quelli che
-Conoscere molto sulle scienze naturali, molto sulla chimica, la fisica,
-La biologia e l'ambiente, quindi, hanno il miglior
-opportunità di plasmare le loro vite e di far progredire il nostro Paese.
-Perché il mondo sta cambiando rapidamente.
-Abbiamo bisogno di conoscenze e di persone entusiaste della scienza e della ricerca. Per questo motivo, il Ministero federale di
-Education and Research ha per molti anni been committed
-per garantire che anche i giovani possano scoprire il mondo del naturale
-Scienze. Noi supportiamo vari
-Concorsi scolastici e giovani su argomenti STEM  su matematica, informatica, scienze naturali e tecnologia.
-In questo modo vogliamo risvegliare la curiosità. E rendere il nostro Paese adatto
-Il futuro.
-Le competizioni scientifiche organizzate dall'Istituto Leibniz per la ricerca e la ricerca
-Scienza e matematica (IPN) a Kiel 
-La Commissione ha inoltre presentato una proposta di direttiva che prevede che le attività di ricerca e di ricerca siano state effettuate in modo che le attività di ricerca e di ricerca siano più efficaci. In merito
-Diecimila studenti già dal quinto
-grad in avanti  partecipare ogni anno. L'Olimpiade
-Il motto è: "Taking part is everything". In questo modo, gli studenti risolvono
-- Problemi complicati. S
+«Gli scienziati hanno il futuro nel sangue», come una volta disse lo scienziato e scrittore britannico Charles Percy Snow. Infatti, i risultati delle scienze naturali modelleranno in modo significativo il nostro futuro. Coloro che conoscono bene le scienze naturali, la chimica, la fisica, la biologia e anche l’ambiente, hanno quindi le migliori opportunità per plasmare la propria vita e far progredire il nostro paese.
 
-**Topic:** [[Geometric Optics]], [[Circuits]]
-**Metodi:** [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]], [[Error Propagation (metodo)|Error Propagation]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Measurement & Instrumentation (competenza)|Measurement & Instrumentation]]
-**Objects:** [[Lens (object)|Lens]], [[Resistor (object)|Resistor]], [[Battery (object)|Battery]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1E1BJr3xSzyjKaNsOSybdeK2T3zsA3OBC/view)
+Il mondo sta cambiando rapidamente.
+Abbiamo bisogno di conoscenza — e di persone appassionate dalla scienza e dalla ricerca. Per questo motivo, il Ministero federale dell’Educazione e della Ricerca da molti anni si impegna perché anche i giovani possano scoprire il mondo delle scienze naturali. Sosteniamo diverse gare scolastiche e per giovani su tematiche STEM — matematica, informatica, scienze naturali e tecnologia.
+
+In questo modo vogliamo suscitare la curiosità. E rendere il nostro paese pronto per il futuro.
+
+Le gare scientifiche organizzate dall’Istituto Leibniz per l’Educazione delle Scienze e della Matematica (IPN) di Kiel — le ScienceOlympiads e il BundesUmweltWettbewerb — fanno anch’esse parte di questo impegno. Ogni anno vi partecipano circa diecimila alunni — già a partire dalla quinta elementare. Vale il motto olimpico: Partecipare è tutto! In questo modo, gli alunni risolvono problemi intricati. S
+
 

@@ -102,6 +102,51 @@ Domanda obbligatoria, con brevi quesiti indipendenti:
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Mandatory question, with brief independent sub-questions:
+
+- a) Six identical cubes, numbered and each of mass $m$, are arranged in a straight line on a smooth horizontal table, touching each other. A constant force $F$ is applied along the line of cubes. Determine: (i) the acceleration of the system; (ii) the net force on each cube; (iii) the force exerted by the fourth cube on the fifth cube.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p2_f1.png]]
+*Figure 1.a — six numbered cubes in a row with force $F$ applied*
+<!--fig:end-->
+
+- b) The circuit contains a battery with electromotive force $E$, and all resistors have resistance $r$. Determine the current $I$ through the battery.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p2_f2.png]]
+*Figure 1.b — circuit with battery emf $E$ and resistors of resistance $r$*
+<!--fig:end-->
+
+- c) Two identical thin rods are rigidly joined at their ends to form a right angle. A string is attached to one end, and the other end is connected to a support such that the system hangs in equilibrium under gravity. Determine, using a scaled drawing on millimeter paper: (i) the position of the center of gravity $G$; (ii) the magnitude of the angle between the vertical and the direction of the upper rod, using only a ruler and calculator.
+
+- d) A pond filled with water of density $\rho$ is covered by a layer of oil of density $2\rho/3$ up to a depth $b$. A long rod of square cross-section $4b\times 4b$, with the same density as the oil, floats in the pond. What fraction of the rod is submerged?
+- e) Make the following estimates: (i) the contribution of the Sun's gravitational attraction to the acceleration due to free fall on Earth; (ii) the energy required for a man of mass $m$ to jump $1\ \text{m}$ high on Earth, and the size of the smallest body in the solar system from which a man would be unable to escape by jumping; (iii) the rate of work performed by a student’s heart if it beats at $72$ beats per minute, pumping $7{,}5\times 10^{-5}\ \text{m}^3$ of blood with each beat against a pressure of $19\ \text{kPa}$.
+
+- f) *[Table 1.f]*. A long, thin strip of copper with width $w$ is inserted between two insulating sheets, each of thickness $t$ and thermal conductivity $\kappa$, in an environment at $0\,^\circ\text{C}$. The electrical resistance per unit length of the strip, $R$, at temperature $\theta\,^\circ\text{C}$ is given by $R = a(1 + b\theta)$, where $a$ and $b$ are constants. (i) What is the rate of heat generation per unit length in the copper strip due to a current $I$? (ii) Show that, if the current $I$ increases, a critical current $I_c$ is reached beyond which the temperature rises indefinitely. (iii) Calculate $I_c$ using the given data ($w = 5{,}00\ \text{mm}$, $t = 1{,}00\ \text{mm}$, $\kappa = 1{,}30\times 10^{-1}\ \text{W m}^{-1}\text{K}^{-1}$, $a = 2{,}20\times 10^{-2}\ \Omega\text{m}^{-1}$, $b = 4{,}30\times 10^{-3}\ \text{K}^{-1}$).
+- g) Use millimeter paper and a ruler to draw accurate ray diagrams for: (i) a point object reflected in a plane mirror (two rays); (ii) a point object located between two plane mirrors forming a right angle (one ray reflected by both mirrors); (iii) if in (ii) the incident ray strikes the first mirror at an angle $\theta$, determine the rotation angle of the ray after two reflections.
+
+- h) (i) A sound wave source emits energy radially in all directions. It is just detectable at $0{,}50\ \text{km}$, where the intensity is $1{,}00\ \text{pW m}^{-2}$. What is the source's power? (ii) What is meant by the principle of superposition of two traveling waves? The two waveforms in Figure 1.h travel in opposite directions. Draw three diagrams showing the resultant waveforms when point $O$ reaches $A$, $B$, and $C$.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p4_f3.png]]
+*Figure 1.h — two opposing square waveforms; points $C$, $B$, $A$ on the left and $O$ at center*
+<!--fig:end-->
+
+- j) (i) Rain falls vertically at $8{,}0\ \text{m/s}$. The raindrops leave streaks on the side window of a car at an angle of $30^\circ$ below the horizontal. Calculate the car's speed, with complete explanation.
+(ii) Calculate the maximum speed at which a car can cross a bridge shaped like a convex arc (dorsal of an ass), with radius of curvature $40{,}0\ \text{m}$, without losing contact with the road at the top.
+(iii) A rope of length $45\ \text{m}$, mass $15\ \text{kg}$, hangs over a smooth horizontal peg. One side of the rope is $5\ \text{m}$ longer than the other. The system is released from rest. When it no longer contacts the peg and has not yet reached the ground, calculate the change in gravitational potential energy and the rope's speed. What effect does doubling the rope’s mass have on its speed?
+
+- k) *[Table 1.k]*. Using the data from Table 1.k, calculate the change in mass and the energy released when $10{,}0\ \text{kg}$ of $^{235}_{92}\text{U}$ undergo fission reaction ($1\ \text{u} = 931\ \text{MeV}$): $^{235}_{92}\text{U} + {}^1_0 n \rightarrow {}^{141}_{56}\text{Ba} + {}^{92}_{36}\text{Kr} + 3{}^1_0 n$. Masses: $^{235}_{92}\text{U}: 235{,}04$; $^{141}_{56}\text{Ba}: 140{,}91$; $^{92}_{36}\text{Kr}: 91{,}91$; $^1_0 n: 1{,}01$ (in atomic mass units, u).
+
+- l) An optical fiber, surrounded by air with refractive index $n_a$, consists of a glass core with refractive index $n_g$ enclosed in a cladding with refractive index $n_c$.
+(i) Explain, using a diagram, how light is transmitted along the fiber with minimal intensity loss.
+(ii) What are the limitations on possible light paths?
+m) An automobile starts from rest at $t=0$ and travels with constant acceleration $a_1$ for a time $t_1$. From $t_1$ to $t_2$, it travels at constant velocity $u$. After $t_2$, a deceleration of initial magnitude $a_2$ is applied, which decreases linearly to zero at time $t_3$ when the automobile comes to a stop. Draw the graphs: (i) acceleration versus time; (ii) velocity versus time; (iii) distance versus time.
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2006 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -151,6 +196,32 @@ d) Indicare graficamente come l'intensità $I$ del segnale ricevuto in $R$ varia
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+A small sound transmitter $T$ radiates uniformly in all directions and has four times the power of each of the two similar transmitters $S_1$ and $S_2$, located at distance $l = 0{,}25\ \text{m}$ on both sides of $T$ along a north-south line. $T$ is connected so as to be $180^\circ$ out of phase with $S_1$ and $S_2$. All three transmitters emit a signal at frequency $200\ \text{kHz}$. A small receiver $R$ is placed at distance $d = 10{,}0\ \text{m}$ east of $T$ and slowly moved further east; in general, at distance $x$ from $T$, with $x \geq 10{,}0\ \text{m}$. The speed of sound is $330\ \text{m/s}$.
+
+a)
+- (i) How does the intensity $I$ of a simple point sound source vary with distance $r$ from the source?
+- (ii) Show that the path difference $p = S_1 R - TR$ is approximately given by $p = \dfrac{1}{32\,x}$, for $x \geq 10$.
+
+b) When all transmitters are turned on, determine the condition for the signal intensity at $R$ to be:
+(i) a maximum;
+(ii) a minimum;
+(iii) where these maxima and minima occur;
+(iv) draw the variation of intensity $I$ as a function of $x$, for $x \geq 10$, with all transmitters on.
+
+c) At positions of maximum signal intensity, determine by what factor the received power decreases when the following transmitters are turned off:
+(i) $S_1$ and $S_2$;
+(ii) $T$.
+Explain your reasoning.
+
+d) Indicate graphically how the signal intensity $I$ received at $R$ varies with $x$ when:
+(i) $T$ is off;
+(ii) $S_2$ is off.
+
+*Note:* $(1+y)^{1/2} \approx 1 + \tfrac12 y$ for $y \ll 1$.
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2006 Locale Round 1 — Quesito 3" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/battery,object/resistor"></span>
@@ -210,6 +281,31 @@ d) (i) Le modifiche qualitative, se non sono necessarie, sono richieste a tutte 
 **Objects:** [[Battery (object)|Battery]], [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Circuit with two cells and three resistors: superposition principle, power, a.c. sources**
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p7_f4.png]]
+*Figure 3.1 — circuit with resistors $2{,}0\ \Omega$, $4{,}0\ \Omega$, $6{,}0\ \Omega$ and sources $6{,}0\ \text{V}$ and $2{,}0\ \text{V}$, with currents $i_1$ and $i_2$*
+<!--fig:end-->
+
+a) In the circuit of Figure 3.1, calculate the currents when a conductor replaces:
+(i) the source $6{,}0\ \text{V}$ ($i_{16}$ and $i_{26}$ replacing $i_1$ and $i_2$);
+(ii) the source $2{,}0\ \text{V}$ ($i_{12}$ and $i_{22}$ replacing $i_1$ and $i_2$).
+
+b) It can be shown that the currents in Figure 3.1 are given by $i_1 = i_{16} + i_{12}$ and $i_2 = i_{26} + i_{22}$.
+- (i) Determine, using this result, $i_1$ and $i_2$.
+- (ii) Deduce the current through resistor $4{,}0\ \Omega$.
+- (iii) Verify that $i_1$ and $i_2$ satisfy Kirchhoff’s equations for the circuit.
+
+c) (i) Calculate the power dissipated in resistor $4{,}0\ \Omega$.
+(ii) Determine the rate of energy conversion for cell $6{,}0\ \text{V}$.
+
+d) (i) What changes, if any, are required in the solutions to (b)(i) if the batteries are replaced by a.c. sources with, respectively, amplitudes of $6{,}0\ \text{V}$ and $2{,}0\ \text{V}$ and a common phase and angular frequency $\omega$?
+(ii) Comment on the case in which the a.c. voltage sources in (i) differ in phase by $\pi$.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2006 Locale Round 1 — Quesito 4" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/ball,object/spring"></span>
@@ -273,6 +369,26 @@ b) Considerare il moto successivo di $A$ e $B$ nel loro sistema del centro di ma
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Two identical balls $A$ and $B$, each of mass $m$, are connected by a massless spring with spring constant $k$. They are at rest on a smooth horizontal surface. A third ball $C$, of mass $M$ and velocity $V_0$, collides with $B$. All balls are constrained to move along a straight line.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p8_f5.png]]
+*Figure 4.1 — balls $A$ and $B$ (mass $m$) connected by a spring, ball $C$ (mass $M$) approaching with velocity $V_0$*
+<!--fig:end-->
+
+a)
+(i) Write the energy and momentum conservation equations for the collision, in which immediately after impact, the velocities of the balls are $V_A$, $V_B$ and $V_C$ in the direction of $V_0$.
+(ii) Verify, by substitution into the equations, that there are two solutions:
+$$V_C = V_0,\quad V_B = 0,\quad V_A = 0$$ and
+$$V_C = \frac{M - m}{M + m}V_0,\quad V_B = \frac{2M}{M + m}V_0,\quad V_A = 0.$$
+(iii) Why must the first solution be rejected? Explain why $V_A = 0$.
+(iv) Deduce, after the collision, the velocity of the center of mass of the system composed of $A$ and $B$.
+
+b) Consider the subsequent motion of $A$ and $B$ in their center-of-mass frame. Assume that their displacements, in the center-of-mass frame, from their initial positions right after impact are given by $x = A\sin\omega t$, where $x$ is measured along the direction of the center of mass, $A$ is the amplitude, $\omega$ the angular frequency, and $t$ is time measured from the instant of collision. Determine: (i) $\omega$; (ii) $A$; (iii) write the position of $B$ and $x_B$ in the laboratory frame coordinates, measured from the instant of collision.
+
+
 <span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2006 Locale Round 1 — Quesito 5" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -332,6 +448,28 @@ Spiegare come, da un grafico, se potrebbe: (i) verificare che i dati della tabel
 **Objects:** [[Resistor (object)|Resistor]]
 **Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
 
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+a) *[Table 5.1(a)]* In an experiment to determine the self-heating of a platinum resistance thermometer, current values $I$ and voltage readings $V$ (Table 5.1(a)) were copied from a laboratory notebook. The uncertainties in $V$ are on the order of $1\ \mu\text{V}$, and the values of $I$ were measured with much higher accuracy.
+
+| $I$/mA | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|
+| $V$/$\mu$V | 2201 | 3302 | 4428 | 5514 | 6624 |
+
+- (i) Identify and explain any anomalous results in Table 5.1(a).
+- (ii) What should be done regarding this?
+- (iii) Show graphically that the resistance $R$ of the thermometer increases linearly with $I^2$ due to self-heating.
+- (iv) Determine the parameters, and their accuracy, that define the relationship between $R$ and $I^2$. Explicitly give the equation relating $R$ and $I^2$.
+
+b) *[Table 5.1(b)]* An atmospheric nuclear explosion produces a spherical fireball of radius $R(t)$ at time $t$ after detonation. The constant energy $E$ released at that instant depends on $R$, $t$ and $\rho$, where $\rho$ is the atmospheric density. The relationship among these parameters is $E = \rho R^\alpha t^{-2}$, where $\alpha$ and $\rho$ are constants.
+
+| $t$/ms | 0,24 | 0,66 | 1,22 | 4,61 | 15,00 |
+|---|---|---|---|---|---|
+| $R$/m | 19,9 | 31,9 | 41,0 | 67,3 | 106,5 |
+
+Explain how, from a graph, one could: (i) verify that the data in Table 5.1(b) satisfy this relation; (ii) deduce the relationship between $E$ and $\rho$; (iii) obtain the value of $\alpha$ from the graph. Determine the theoretical value of $\alpha$ obtained by equating units or dimensions in the equation.
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2006 Locale Round 1 — Quesito 6" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/particle-beam,object/nucleus"></span>
@@ -409,6 +547,35 @@ c)
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) A uniform parallel beam of alpha particles, with number density $\rho$ and velocity $u$, each consisting of two protons and two neutrons, travels along the $z$ axis. Consider a plane perpendicular to the $z$ axis, composed of concentric circles centered on the $z$ axis, with radius $nt$, where constant $t$ is the radial distance between adjacent circles and $n$ is an integer ($0, 1, 2, 3, \dots$).
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p10_f6.png]]
+*Figure 6.1 — beam of alpha particles directed along the $z$ axis onto a plane with concentric rings*
+<!--fig:end-->
+
+- (i) Determine the number $N$ of alpha particles per second that pass through a ring between the $n$-th and $(n+1)$-th circle.
+- (ii) Draw the graph of $N$ as a function of $n$.
+
+b) The alpha particle beam encounters a fixed gold nucleus along the $z$ axis, consisting of $79$ protons and $118$ neutrons.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2006_QP/BPhO_Paper2_2006_QP_p10_f7.png]]
+*Figure 6.2 — three alpha particles incident on a fixed gold nucleus along the $z$ axis*
+<!--fig:end-->
+
+- (i) Draw the trajectories of the three alpha particles indicated in Figure 6.2.
+- (ii) Why are relatively few particles scattered at large angles?
+- (iii) What is the maximum angle through which a particle can be scattered?
+- (iv) Why do the bound electrons, orbiting around the gold nucleus, have negligible influence on the trajectories of the alpha particles?
+
+c)
+(i) Determine the distance of closest approach $r_1$ of an alpha particle to the nucleus.
+(ii) If the gold nucleus is free to move and initially at rest, what is the velocity of an alpha particle *relative* to the gold nucleus at the distance of closest approach $r_2$? Determine $r_2$ in this case. *(Assume that the masses of neutron and proton are both equal to $m$.)*
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2006 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
@@ -449,3 +616,16 @@ c) Determinare il lavoro fatto *sulla* massa durante il suo moto: (i) dalla posi
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Projectile (object)|Projectile]]
 **Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1eJRVEYiIEYmYmLL-bah9C0ueQoxXqdK_/view)
+<div class="qlang-split" data-lang="en"></div>
+
+a) A projectile of mass $m$ is launched vertically upward with initial velocity $v$. Calculate: (i) the maximum height $H$ reached; (ii) the time $T$ taken to return to the ground.
+
+b) A horizontal wind exerts a horizontal force on the projectile of $\alpha mg$, where $\alpha$ is a constant. The projectile has initial vertical and horizontal velocity components of $v$ and $u$, respectively; $u$ is taken in the same direction as the wind.
+- (i) What is the resultant force acting on the mass?
+- (ii) Determine the horizontal range $R$ of the projectile.
+- (iii) Sketch the trajectory, indicating any axis of symmetry and giving its direction.
+- (iv) Under what initial condition, with the wind present, will the trajectory be a straight line? Give the elevation of this trajectory.
+
+c) Determine the work done *on* the mass during its motion: (i) from the initial position to maximum height in the case of a straight-line trajectory; (ii) for the general trajectory, from launch to return to ground.
+
+

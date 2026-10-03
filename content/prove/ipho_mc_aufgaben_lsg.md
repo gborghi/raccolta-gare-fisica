@@ -163,24 +163,19 @@ To bring the balance back into equilibrium, one must …
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 3  Pietra in un bicchiere di acqua**
+**Problema 3 – Pietra in un bicchiere d'acqua**
 
-Un bicchiere pieno di acqua di densità $1000\,\text{kg\,m}^{-3}$ è in equilibrio. Mettendo un peso su di esso, il equilibrio viene portato in equilibrio.
+Un bicchiere pieno di acqua con densità $1000\,\text{kg\,m}^{-3}$ è posto su una bilancia. Aggiungendo un peso, la bilancia viene portata in equilibrio.
 
-Ora una pietra con un volume di $300\,\text{cm}^3$ e una densità di $3000\,\text{kg\,m}^{-3}$ è immersa nell'acqua, appesa a un filo sottile attaccato a un stand, senza toccare il fondo.
+Ora si immerge una pietra di volume $300\,\text{cm}^3$ e densità $3000\,\text{kg\,m}^{-3}$ nell'acqua, appesa a un sottile filo fissato a un supporto, senza toccare il fondo.
 
-Per riportare l'equilibrio, bisogna
+Per ripristinare l'equilibrio della bilancia, si deve...
 
-- **A ** … non fare nulla, poiché il saldo rimane in equilibrio.
-- **B.** … place a weight of mass $0{,}3\,\text{kg}$ on the left side of the balance.
-- **C.** … place a weight of mass $0{,}6\,\text{kg}$ on the left side of the balance.
-- **D.** … place a weight of mass $0{,}9\,\text{kg}$ on the left side of the balance.
+- **A.** … non fare nulla, poiché la bilancia rimane in equilibrio.
+- **B.** … aggiungere un peso di massa $0{,}3\,\text{kg}$ sul lato sinistro della bilancia.
+- **C.** … aggiungere un peso di massa $0{,}6\,\text{kg}$ sul lato sinistro della bilancia.
+- **D.** … aggiungere un peso di massa $0{,}9\,\text{kg}$ sul lato sinistro della bilancia.
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -295,22 +290,17 @@ By what distance has the ruler moved relative to the table when the can has comp
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 5  Dislocazione dei ruoli **
+**Problema 5 – Spostamento della riga**
 
-L'estremità di un ruoter si trova su un cilindrico, che a sua volta si trova su un tavolo. Il ruoter è spostato orizzontalmente in modo che il can ruota attraverso il tavolo. Né il ruotatore né il can scivolare nel processo.
+L'estremità di una riga poggia su un barattolo cilindrico, che a sua volta poggia su un tavolo. La riga viene spostata orizzontalmente in modo che il barattolo rotoli sul tavolo. Durante il processo né la riga né il barattolo scivolano.
 
-Per quale distanza si è spostato il rucker rispetto al tavolo quando il can ha completato una rivoluzione completa?
+Di quale distanza si è spostata la riga rispetto al tavolo quando il barattolo ha compiuto un giro completo?
 
-- **A.** Half the circumference of the can
-- **B.** The circumference of the can
-- **C.** Twice the circumference of the can
-- **D.** More than twice the circumference of the can
+- **A.** La metà della circonferenza del barattolo
+- **B.** La circonferenza del barattolo
+- **C.** Il doppio della circonferenza del barattolo
+- **D.** Più del doppio della circonferenza del barattolo
 
-**Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Cylinder (object)|Cylinder]], [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -359,22 +349,17 @@ Which of the following graphs correctly represents the velocity $v$ of the body 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problem 6 – Motion!**
+**Problema 6 – Moto!**
 
-The graph alongside shows the acceleration $a$ of a body in one-dimensional motion as a function of time $t$.
+Il grafico accanto mostra l'accelerazione $a$ di un corpo in moto unidimensionale in funzione del tempo $t$.
 
-Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo come funzione di tempo?
+Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo in funzione del tempo?
 
 - **A.** Grafico A
 - **B.** Grafico B
 - **C.** Grafico C
 - **D.** Grafico D
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -623,24 +608,19 @@ The exoplanet has …
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problem 10 – Fall on an Exoplanet**
+**Problema 10 – Caduta su un esopianeta**
 
-On the surface of an extrasolar planet (exoplanet), the fall time of a body from a small height $h$, neglecting all friction effects, is exactly twice as large as on Earth.
+Sulla superficie di un pianeta extrasolare (esopianeta), il tempo di caduta di un corpo da un’altezza piccola $h$, trascurando tutti gli effetti di attrito, è esattamente il doppio rispetto a quello sulla Terra.
 
-Quali delle seguenti affermazioni sono coerenti con questo, assumendo una struttura sfericamente simmetrica dell'esoplaneta?
+Quale delle seguenti affermazioni è coerente con questo fatto, supponendo una struttura sfericamente simmetrica dell’esopianeta?
 
-Il pianeta esoplanet ha …
+L’esopianeta ha…
 
-- **A ** … metà della massa terrestre e due volte il raggio terrestre.
-- **B.** … exactly the Earth's mass and four times the Earth's radius.
-- **C ** … due volte la massa della Terra e due volte il raggio della Terra.
-- **D ** … 4 volte la massa della Terra e 4 volte il raggio della Terra.
+- **A.** … metà della massa terrestre e il doppio del raggio terrestre.
+- **B.** … esattamente la massa terrestre e quattro volte il raggio terrestre.
+- **C.** … il doppio della massa terrestre e il doppio del raggio terrestre.
+- **D.** … quattro volte la massa terrestre e quattro volte il raggio terrestre.
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -696,11 +676,11 @@ What is the corresponding moment of inertia of a cube made of the same material 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 11  Rotating Cube**
+**Problema 11 – Cubo in rotazione**
 
-Let $I$ denota il momento di inerzia del cubo mostrato per rotazione circa l'asse indicato attraverso i centri di due facce opposte.
+Sia $I$ il momento d'inerzia del cubo mostrato rispetto all'asse indicato che passa per i centri di due facce opposte.
 
-What is the corresponding moment of inertia of a cube made of the same material but with twice the edge length $a$?
+Qual è il momento d'inerzia corrispondente di un cubo realizzato dello stesso materiale ma con il lato doppio rispetto a quello originale $a$?
 
 - **A.** $2\,I$
 - **B.** $4\,I$
@@ -712,11 +692,6 @@ What is the corresponding moment of inertia of a cube made of the same material 
 *Cube with axis of rotation*
 <!--fig:end-->
 
-**Topic:** [[Rotational Dynamics]]
-**Metodi:** [[Torque & Angular Momentum Analysis (metodo)|Torque & Angular Momentum Analysis]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -772,24 +747,19 @@ How must the length $\ell'$ of the string pendulum in the left cabin be chosen s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 12  Pendolo in ascensore**
+**Problema 12 – Pendolo in un ascensore**
 
-Due elevator cabins di masse $m_A$ e $m_B$ con $m_A < m_B$ hang from the ends of a long rope that runs over a fixed pulley. La massa della polla e della corda può essere trascurata. In quella cabina sinistra è appeso un pendolo di string di lunghezza $\ell$. Quando le cabine sono a riposo e per piccoli spostamenti, il periodo del pendolo è $T$.
+Due cabine dell'ascensore di masse $m_A$ e $m_B$ con $m_A < m_B$ sono appese agli estremi di una lunga fune che passa sopra una carrucola fissa. La massa della carrucola e della fune può essere trascurata. Nella cabina di sinistra è appeso un pendolo semplice di lunghezza $\ell$. Quando le cabine sono ferme e per piccole oscillazioni, il periodo del pendolo è $T$.
 
-Quando le cabine sono rilasciate, si muovono senza attrito sotto l'influenza della gravità.
+Quando le cabine vengono rilasciate, si muovono senza attrito sotto l'azione della gravità.
 
-How must the length $\ell'$ of the string pendulum in the left cabin be chosen so that, after the cabin is released, it oscillates with period $T$?
+Come deve essere scelta la lunghezza $\ell'$ del pendolo nella cabina di sinistra affinché, dopo il rilascio della cabina, esso oscilli con periodo $T$?
 
 - **A.** $\ell' = \dfrac{m_A}{m_B}\,\ell$
 - **B.** $\ell' = \dfrac{2m_A}{m_A+m_B}\,\ell$
 - **C.** $\ell' = \dfrac{2m_B}{m_A+m_B}\,\ell$
 - **D.** $\ell' = \dfrac{m_B}{m_A}\,\ell$
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Free-Body Diagram (metodo)|Free-Body Diagram]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rope/String (object)|Rope/String]], [[Pulley (object)|Pulley]], [[Pendulum (object)|Pendulum]]
-**Fonte:** [Testo (PDF) — p.17](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -976,24 +946,19 @@ Which of the following figures shows the position of the ball $1{,}5\,\text{s}$ 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 15  Oscillazione con un ostacolo**
+**Problema 15 – Oscillazione con un ostacolo**
 
-A small metal ball hangs from the ceiling on a thin string of length $L$. Quando questo pendolo è spostato leggermente verso il lato e rilasciato, oscilla in parallelo al muro con un periodo di oscillazione $T = 1{,}0\,\text{s}$.
+Una piccola sfera metallica è appesa al soffitto da un filo sottile di lunghezza $L$. Quando questo pendolo viene spostato leggermente di lato e rilasciato, oscilla parallelamente al muro con un periodo $T = 1{,}0\,\text{s}$.
 
-Ora un unghie è spinto saldamente nel muro a una distanza di $\tfrac{3}{4}L$ dal soffitto. Mentre si svinge a destra, la corda del pendolo colpisce il chiodo ed è ostruita da esso. La palla viene rilasciata dalla posizione mostrata nella figura a destra.
+Ora viene piantato un chiodo nel muro a una distanza $\tfrac{3}{4}L$ dal soffitto. Mentre oscilla verso destra, il filo del pendolo colpisce il chiodo e viene bloccato da esso. La sfera viene rilasciata dalla posizione mostrata nella figura a destra.
 
-Which of the following figures shows the position of the ball $1{,}5\,\text{s}$ after release?
+Quale delle seguenti figure mostra la posizione della sfera $1{,}5\,\text{s}$ dopo il rilascio?
 
-- **A.** voce A
-- **B.** voce B
-- **C.** C
-- **D.** voce D
+- **A.** Posizione A
+- **B.** Posizione B
+- **C.** Posizione C
+- **D.** Posizione D
 
-**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]]
-**Fonte:** [Testo (PDF) — p.21](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1250,24 +1215,19 @@ What is the voltage $U$ with which the particle was initially accelerated?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 19  Fields**
+**Problema 19 – Campi**
 
-Una particella molto leggera è accelerata attraverso una tensione $U$. Poi vola in una regione permeata da un campo magnetico costante perpendicolare alla direzione del movimento della particella. In questa regione la particella descrive un arco circolare con un raggio di $r = 1{,}50\,\text{cm}$.
+Una particella leggera carica viene accelerata attraverso una differenza di potenziale $U$. Successivamente penetra in una regione permeata da un campo magnetico costante, perpendicolare alla direzione del moto della particella. In questa regione la particella descrive un arco circolare di raggio $r = 1{,}50\,\text{cm}$.
 
-Now an electric field of constant field strength $E = 4{,}40 \cdot 10^4\,\text{V\,m}^{-1}$ is switched on, oriented perpendicular to both the magnetic field and the instantaneous direction of motion of the particle. Di conseguenza, la particella continua a muoversi in linea retta.
+Ora viene acceso un campo elettrico di intensità costante $E = 4{,}40 \cdot 10^4\,\text{V\,m}^{-1}$, orientato perpendicolarmente sia al campo magnetico che alla direzione istantanea del moto della particella. Di conseguenza, la particella continua a muoversi in linea retta.
 
-What is the voltage $U$ with which the particle was initially accelerated?
+Qual è il valore della differenza di potenziale $U$ con cui la particella era inizialmente accelerata?
 
 - **A.** $110\,\text{V}$
 - **B.** $220\,\text{V}$
 - **C.** $330\,\text{V}$
 - **D.** $440\,\text{V}$
 
-**Topic:** [[Electromagnetism]], [[Electrostatics]]
-**Metodi:** [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.26](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1382,22 +1342,17 @@ How do the voltages $U_a$ to $U_d$ induced in the loops directly upon entering t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 21  Induzione in conducting loops**
+**Problema 21 – Induzione in anelli conduttori**
 
-I quattro circuiti che conducono mostrati (a a d) hanno lunghezze di bordo $\ell$ o $2\ell$. Si muovono con velocità costante $v$ in una regione nettamente limitata con un campo magnetico omogeneo di densità di flusso $B$, orientato verso il piano del disegno.
+I quattro anelli conduttori mostrati (a a d) hanno ciascuno lunghezze di spigolo $\ell$ o $2\ell$. Essi si muovono con velocità costante $v$ in una regione nettamente delimitata con un campo magnetico omogeneo di densità di flusso $B$, orientato verso il piano del disegno.
 
-How do the voltages $U_a$ to $U_d$ induced in the loops directly upon entering the region with the magnetic field compare to one another?
+Come si confrontano tra loro le tensioni $U_a$ e $U_d$ indotte negli anelli immediatamente all’entrata nella regione con il campo magnetico?
 
 - **A.** $|U_a| = |U_b| = |U_c| = |U_d|$
 - **B.** $|U_a| < |U_b| < |U_c| < |U_d|$
 - **C.** $|U_a| = |U_b| < |U_c| = |U_d|$
 - **D.** $|U_a| < |U_b| = |U_c| < |U_d|$
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Coil (object)|Coil]]
-**Fonte:** [Testo (PDF) — p.29](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1461,21 +1416,21 @@ What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained a
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 22  Magnete cadente**
+**Problema 22 – Magnete in caduta**
 
-Un magnete cilindrico viene scaricato attraverso tre diversi tubi montati verticalmente. I tubi hanno dimensioni identiche ma sono fatti di materiali diversi. Uno di plexiglas, uno di rame e uno di alluminio.
+Un magnete cilindrico viene fatto cadere attraverso tre tubi verticalmente orientati. I tubi hanno dimensioni identiche ma sono realizzati con materiali diversi: uno in Plexiglas, uno in ottone e uno in alluminio.
 
-Per una distanza di caduta di $L = 1{,}0\,\text{m}$ nei tubi, sono misurati i seguenti tempi di caduta del magnete:
+Per un percorso di caduta di $L = 1{,}0\,\text{m}$ nei tubi, vengono misurati i seguenti tempi di caduta del magnete:
 
-♬ Materiale ♬ Tempo di caso ♬
+| Materiale | Tempo di caduta |
 |---|---|
 | Plexiglas | $t_\text{Plexiglas} = 0{,}46\,\text{s}$ |
-| Brass | $t_\text{Messing} = 2{,}15\,\text{s}$ |
-| Aluminium | $t_\text{Aluminium} = 3{,}81\,\text{s}$ |
+| Ottone | $t_\text{Messing} = 2{,}15\,\text{s}$ |
+| Alluminio | $t_\text{Aluminium} = 3{,}81\,\text{s}$ |
 
-La conductività elettrica dell'alluminio è $\sigma_\text{Aluminium} = 3{,}7 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$.
+La conducibilità elettrica dell’alluminio è $\sigma_\text{Aluminium} = 3{,}7 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$.
 
-What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained as an estimate from the fall times?
+Quale valore per la conducibilità elettrica $\sigma_\text{Messing}$ viene ottenuto come stima dai tempi di caduta?
 
 - **A.** $1{,}2 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$
 - **B.** $2{,}1 \cdot 10^7\,\text{A\,V}^{-1}\,\text{m}^{-1}$
@@ -1487,11 +1442,6 @@ What value for the electrical conductivity $\sigma_\text{Messing}$ is obtained a
 *Magnet falls in three tubes*
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]], [[Circuits]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.30](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1749,24 +1699,19 @@ Which resistance values best match the measured values shown?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 26  Diode and Resistors**
+**Problema 26 – Diodo e resistori**
 
-Un diodo è un componente elettronico che, in termini semplificati, agisce come un isolatore completo in una direzione (direzione inversa). In direzione opposta (forward direction) il diodo lascia quasi nessun passaggio di corrente fino a una certa voltage; sopra questa voltage si comporta approximately like an ideal conductor.
+Un diodo è un componente elettronico che, in termini semplificati, agisce come un isolante completo in una direzione (direzione inversa). Nella direzione opposta (direzione diretta) il diodo lascia passare quasi nessuna corrente fino a una certa tensione; al di sopra di tale tensione si comporta approssimativamente come un conduttore ideale.
 
-Un circuito contiene un diodo e due resistori con valori di resistenza $R_1$ e $R_2$. Il grafico lungo mostra i valori misurati del corrente $I$ nel circuito come funzione del tensione applicata $U$.
+Un circuito contiene un diodo e due resistori con valori di resistenza $R_1$ e $R_2$. Il grafico accanto mostra i valori misurati della corrente $I$ nel circuito in funzione della tensione applicata $U$.
 
 Quali valori di resistenza corrispondono meglio ai valori misurati mostrati?
 
-- **A.** $R_1 = 220\,\Omega$ and $R_2 = 670\,\Omega$
-- **B.** $R_1 = 220\,\Omega$ and $R_2 = 330\,\Omega$
-- **C.** $R_1 = 470\,\Omega$ and $R_2 = 220\,\Omega$
-- **D.** $R_1 = 470\,\Omega$ and $R_2 = 150\,\Omega$
+- **A.** $R_1 = 220\,\Omega$ e $R_2 = 670\,\Omega$
+- **B.** $R_1 = 220\,\Omega$ e $R_2 = 330\,\Omega$
+- **C.** $R_1 = 470\,\Omega$ e $R_2 = 220\,\Omega$
+- **D.** $R_1 = 470\,\Omega$ e $R_2 = 150\,\Omega$
 
-**Topic:** [[Circuits]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.36](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2021,22 +1966,17 @@ Which temperature in $°\text{C}$ corresponds most closely to $0\,\text{Nups}$?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 30  Temperature Units**
+**Problema 30 – Unità di temperatura**
 
-Il fictitious temperature unit Nups è definito per impostazione $0\,\text{K} = 1000\,\text{Nups}$, $0\,°\text{C} = 400\,\text{Nups}$, and a linear variation with temperature.
+L'unità di temperatura fittizia Nups è definita fissando $0\,\text{K} = 1000\,\text{Nups}$, $0\,°\text{C} = 400\,\text{Nups}$ e una variazione lineare con la temperatura.
 
-Qual è la temperatura in $°\text{C}$ che corrisponde più strettamente a $0\,\text{Nups}$?
+Quale temperatura in $°\text{C}$ corrisponde più da vicino a $0\,\text{Nups}$?
 
 - **A.** $120\,°\text{C}$
 - **B.** $150\,°\text{C}$
 - **C.** $180\,°\text{C}$
 - **D.** $210\,°\text{C}$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Unit Conversion (competenza)|Unit Conversion]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.42](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2085,22 +2025,17 @@ Which substance has the highest specific heat capacity?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 31  Capacità di calore**
+**Problema 31 – Calore specifico**
 
-La stessa quantità di energia termica viene fornita a quattro campioni di sostanze diverse. La temperatura di $3\,\text{g}$ di sostanza A rises by $8\,\text{K}$, la temperatura di $4\,\text{g}$ di sostanza B by $5\,\text{K}$, la temperatura di $6\,\text{g}$ di sostanza C by $9\,\text{K}$, e la temperatura di $7\,\text{g}$ di sostanza D by $4\,\text{K}$.
+La stessa quantità di energia termica viene fornita a quattro campioni di sostanze diverse. La temperatura di $3\,\text{g}$ di sostanza A aumenta di $8\,\text{K}$, la temperatura di $4\,\text{g}$ di sostanza B aumenta di $5\,\text{K}$, la temperatura di $6\,\text{g}$ di sostanza C aumenta di $9\,\text{K}$, e la temperatura di $7\,\text{g}$ di sostanza D aumenta di $4\,\text{K}$.
 
-Quale sostanza ha la più alta capacità di calore specifica?
+Quale sostanza ha la capacità termica specifica più alta?
 
 - **A.** A
 - **B.** B
 - **C.** C
 - **D.** D
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.43](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2149,22 +2084,17 @@ What was the mass of the ice cube when it was dropped into the water?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 32  Kettle with Ice Cube**
+**Problema 32 – Bollitore con cubetto di ghiaccio**
 
-L'acqua è riscaldata in una bombola. Durante il riscaldamento, un cubo di ghiaccio a temperatura $\vartheta_0 = 0\,°\text{C}$ viene scaricato nell'acqua. La figura 7 mostra la temperatura dell'acqua in funzione del tempo. Il potere di riscaldamento del pozzolo è $900\,\text{W}$. The specific heat capacity of water is $c = 4{,}2\,\text{kJ\,kg}^{-1}\,\text{K}^{-1}$ and the specific latent heat of fusion of ice is $h = 335\,\text{kJ\,kg}^{-1}$.
+L'acqua viene riscaldata in un bollitore. Durante il riscaldamento, un cubetto di ghiaccio alla temperatura $\vartheta_0 = 0\,°\text{C}$ viene gettato nell'acqua. La Figura 7 mostra la temperatura dell'acqua in funzione del tempo. La potenza di riscaldamento del bollitore è $900\,\text{W}$. Il calore specifico dell'acqua è $c = 4{,}2\,\text{kJ\,kg}^{-1}\,\text{K}^{-1}$ e il calore latente di fusione del ghiaccio è $h = 335\,\text{kJ\,kg}^{-1}$.
 
-Qual era la massa del cubo di ghiaccio quando è stato gettato in acqua?
+Qual era la massa del cubetto di ghiaccio al momento in cui è stato gettato nell'acqua?
 
 - **A.** $16\,\text{g}$
 - **B.** $26\,\text{g}$
 - **C.** $56\,\text{g}$
 - **D.** $145\,\text{g}$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.44](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2215,24 +2145,19 @@ Which of the following statements is then correct for the melting of the ice in 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 33  Melting Ice**
+**Problema 33 – Ghiaccio che si scioglie**
 
-In un giorno di inverno freddo, tre scatole di legno identiche e non isolate erano fuori casa, ciascuna piena della stessa quantità di ghiaccio a temperatura $0{,}0\,°\text{C}$. Per fondere il ghiaccio, un elemento di riscaldamento elettrico viene posto in ciascuna delle scatole. I calori sono identici ma operano a tensioni diverse.
+In un freddo giorno invernale, tre scatole di legno identiche e non isolate si trovano all'esterno della casa, ognuna riempita con la stessa quantità di ghiaccio alla temperatura $0{,}0\,°\text{C}$. Per fondere il ghiaccio, in ciascuna scatola è inserito un elemento riscaldante elettrico. Gli elementi riscaldanti sono identici, ma funzionano a tensioni diverse.
 
-In the first box, the heating element is operated at a voltage of $80\,\text{V}$. All of the ice then melts in $20{,}0\,\text{min}$. Un voltage di $120\,\text{V}$ viene applicato all'elemento di riscaldamento della seconda casella, dopo il quale il ghiaccio si melta completamente in only $4{,}0\,\text{min}$. In the third box, a voltage of $40\,\text{V}$ is used for the heating element.
+Nella prima scatola, l'elemento riscaldante è alimentato con una tensione di $80\,\text{V}$. Tutto il ghiaccio si scioglie in $20{,}0\,\text{min}$. Una tensione di $120\,\text{V}$ viene applicata all'elemento riscaldante della seconda scatola, dopo di che il ghiaccio si scioglie completamente in soli $4{,}0\,\text{min}$. Nella terza scatola, viene utilizzata una tensione di $40\,\text{V}$ per l'elemento riscaldante.
 
-Quale delle seguenti affermazioni è corretta per il melting of the ice in the third box?
+Quale delle seguenti affermazioni è corretta per lo scioglimento del ghiaccio nella terza scatola?
 
-- Melting all of the ice in the third box takes about $80\,\text{min}$.
-- **B.** Melting all of the ice in the third box takes about $100\,\text{min}$.
-- Melting all of the ice in the third box takes about $130\,\text{min}$.
-- **D.** Con la voltage utilizzata, non è possibile fondere tutto l'ice.
+- **A.** Lo scioglimento di tutto il ghiaccio nella terza scatola richiede circa $80\,\text{min}$.
+- **B.** Lo scioglimento di tutto il ghiaccio nella terza scatola richiede circa $100\,\text{min}$.
+- **C.** Lo scioglimento di tutto il ghiaccio nella terza scatola richiede circa $130\,\text{min}$.
+- **D.** Con la tensione utilizzata, non è possibile sciogliere tutto il ghiaccio.
 
-**Topic:** [[Thermodynamics]], [[Circuits]]
-**Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.46](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2287,26 +2212,21 @@ How do the heat powers $P_\text{I}$, $P_\text{II}$, and $P_\text{III}$ transmitt
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 34  Calore di condotta**
+**Problema 34 – Conduzione del calore**
 
-Le estremità di tre barre di metallo rotondo fatte di materiale identico sono ciascuna tenuta a temperature costanti:
+Gli estremi di tre barre metalliche cilindriche realizzate con lo stesso materiale vengono mantenuti a temperature costanti:
 
-- Rod I: diametro $2{,}0\,\text{cm}$, lunghezza $20\,\text{cm}$, temperature: $50\,°\text{C}$ e $20\,°\text{C}$
-- Rod II: diametro $3{,}0\,\text{cm}$, lunghezza $50\,\text{cm}$, temperature: $60\,°\text{C}$ e $30\,°\text{C}$
-- Rod III: diametro $4{,}0\,\text{cm}$, lunghezza $80\,\text{cm}$, temperature: $70\,°\text{C}$ e $40\,°\text{C}$
+- Barra I: diametro $2{,}0\,\text{cm}$, lunghezza $20\,\text{cm}$, temperature: $50\,°\text{C}$ e $20\,°\text{C}$
+- Barra II: diametro $3{,}0\,\text{cm}$, lunghezza $50\,\text{cm}$, temperature: $60\,°\text{C}$ e $30\,°\text{C}$
+- Barra III: diametro $4{,}0\,\text{cm}$, lunghezza $80\,\text{cm}$, temperature: $70\,°\text{C}$ e $40\,°\text{C}$
 
-How do the heat powers $P_\text{I}$, $P_\text{II}$, and $P_\text{III}$ transmitted through the rods by heat conduction compare to one another?
+Come si confrontano le potenze termiche $P_\text{I}$, $P_\text{II}$ e $P_\text{III}$ trasmesse attraverso le barre per conduzione termica?
 
 - **A.** $P_\text{I} < P_\text{II} = P_\text{III}$
 - **B.** $P_\text{I} = P_\text{II} < P_\text{III}$
 - **C.** $P_\text{II} < P_\text{I} = P_\text{III}$
 - **D.** $P_\text{III} < P_\text{II} < P_\text{I}$
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.48](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2364,27 +2284,22 @@ What are the approximate values of the two resistors?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 35  Resistor Heating**
+**Problema 35 – Riscaldamento di un resistore**
 
-Due resistori di design identico sono collegati in parallelo a una fonte di tensione con una tensione di $2{,}6\,\text{V}$. A total current of $310\,\text{mA}$ flows. Un'immagine del circuito è stata scattata con una fotocamera infrarossa. La macchina misura le temperature di superficie dei due resistori per essere $33\,°\text{C}$ e $67\,°\text{C}$. La temperatura ambiente è $21\,°\text{C}$.
+Due resistori di identica costruzione sono collegati in parallelo a una sorgente di tensione con tensione $2{,}6\,\text{V}$. Il valore complessivo della corrente che fluisce è di $310\,\text{mA}$. Una foto del circuito viene scattata con una telecamera a infrarossi. La telecamera misura le temperature superficiali dei due resistori rispettivamente di $33\,°\text{C}$ e $67\,°\text{C}$. La temperatura ambiente è di $21\,°\text{C}$.
 
-Quali sono i valori approssimativi dei due resistori?
+Quali sono i valori approssimati dei due resistori?
 
-- **A.** $1{,}7\,\Omega$ and $6{,}7\,\Omega$
-- **B.** $12\,\Omega$ and $30\,\Omega$
-- **C.** $10\,\Omega$ and $45\,\Omega$
-- **D.** $20\,\Omega$ and $80\,\Omega$
+- **A.** $1{,}7\,\Omega$ e $6{,}7\,\Omega$
+- **B.** $12\,\Omega$ e $30\,\Omega$
+- **C.** $10\,\Omega$ e $45\,\Omega$
+- **D.** $20\,\Omega$ e $80\,\Omega$
 
 <!--fig:start-->
 ![[_attachments/IPhO_MC_Aufgaben_Lsg/IPhO_MC_Aufgaben_Lsg_p49_f3.png]]
-*Immagine infrarossa dei resistori*
+*Infrared image of the resistors*
 <!--fig:end-->
 
-**Topic:** [[Circuits]], [[Thermodynamics]]
-**Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Resistor (object)|Resistor]]
-**Fonte:** [Testo (PDF) — p.49](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2502,22 +2417,17 @@ By approximately how much could the mean temperature $T$ at the Earth's surface,
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 37  Stopping Global Warming**
+**Problema 37 – Fermare il riscaldamento globale**
 
-Il scienziato pazzo Knox ha trovato un metodo per fermare il riscaldamento globale. Per fare questo, vuole aumentare il raggio $r$ dell'orbita terrestre, presunto circolare, da $1{,}0\,\%$.
+Il folle scienziato Knox ha trovato un metodo per fermare il riscaldamento globale. A questo scopo, vuole aumentare il raggio $r$ dell'orbita terrestre, supposta circolare, di un valore $1{,}0\,\%$.
 
-By approximately how much could the mean temperature $T$ at the Earth's surface, which is currently about $15\,°\text{C}$, decrease as a result?
+Di circa quanto potrebbe diminuire la temperatura media $T$ alla superficie terrestre, che attualmente è di circa $15\,°\text{C}$, come conseguenza?
 
 - **A.** circa $0{,}7\,\text{K}$
 - **B.** circa $1{,}4\,\text{K}$
 - **C.** circa $2{,}8\,\text{K}$
 - **D.** circa $5{,}6\,\text{K}$
 
-**Topic:** [[Thermodynamics]], [[Astrophysics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.52](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2638,24 +2548,19 @@ How much water vapour (in $\text{g\,m}^{-3}$) is present in the air in the bathr
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 39  Umido aria del bagno**
+**Problema 39 – Aria umida nel bagno**
 
-Dopo un lungo bagno, la temperatura in bagno è $28\,°\text{C}$ e l'umidità relativa è $80\,\%$.
+Dopo un lungo doccia, la temperatura nel bagno è $28\,°\text{C}$ e l'umidità relativa è $80\,\%$.
 
-La figura adiacente mostra la curva di pressione di saturazione del vapore per il vapore acqueo. It gives the maximum water vapour pressure $p_\text{sat}$ that is possible at a temperature $\vartheta$ before the water vapour in the air condenses.
+La figura accanto mostra la curva della pressione di saturazione del vapore acqueo. Essa fornisce la massima pressione parziale di vapore acqueo $p_\text{sat}$ possibile a una temperatura $\vartheta$ prima che il vapore acqueo nell'aria si condensi.
 
-Quanto vapore d'acqua (in $\text{g\,m}^{-3}$) è presente nell'aria del bagno? Usare il valore $M_\text{Wasser} = 18{,}0\,\text{g\,mol}^{-1}$ per la massa molare di acqua.
+Quanta quantità di vapore acqueo (in $\text{g\,m}^{-3}$) è presente nell'aria del bagno? Utilizzare il valore $M_\text{Wasser} = 18{,}0\,\text{g\,mol}^{-1}$ per la massa molare dell'acqua.
 
 - **A.** circa $22\,\text{g\,m}^{-3}$
 - **B.** circa $27\,\text{g\,m}^{-3}$
 - **C.** circa $2{,}3 \cdot 10^2\,\text{g\,m}^{-3}$
 - **D.** circa $3{,}0 \cdot 10^3\,\text{g\,m}^{-3}$
 
-**Topic:** [[Thermodynamics]], [[Kinetic Theory]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]]
-**Fonte:** [Testo (PDF) — p.54](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -3188,24 +3093,19 @@ At what rate does the thickness $d$ of the water layer on the glass decrease?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 46  Reflection from a Water Layer**
+**Problema 46 – Riflessione da uno strato d'acqua**
 
-La superficie di una piastra di vetro liscia e orizzontale è coperta da un sottile e piatto strato d'acqua. La luce monocromatica di lunghezza d'onda $680\,\text{nm}$ cade da sopra sulla superficie dell'acqua ad un angolo $\alpha = 30°$ sulla superficie normale. L'indice di refraczione della piastra è $1{,}50$ e quello dell'acqua è $1{,}33$.
+La superficie di una lastra di vetro liscia e orizzontale è ricoperta da uno strato sottile e piano d'acqua. Una luce monocromatica di lunghezza d'onda $680\,\text{nm}$ incide dall'alto sulla superficie dell'acqua con un angolo $\alpha = 30°$ rispetto alla normale alla superficie. L'indice di rifrazione della lastra di vetro è $1{,}50$ e quello dell'acqua è $1{,}33$.
 
-A causa dell'evaporazione dell'acqua, l'intensità della luce riflessa cambia periodicamente. A time of $15\,\text{min}$ elapses between the occurrence of two intensity maxima.
+A causa dell'evaporazione dell'acqua, l'intensità della luce riflessa varia periodicamente. Tra due massimi di intensità si verifica un intervallo di tempo $15\,\text{min}$.
 
-At what rate does the thickness $d$ of the water layer on the glass decrease?
+A quale velocità diminuisce lo spessore $d$ dello strato d'acqua sul vetro?
 
 - **A.** circa $0{,}3\,\mu\text{m\,h}^{-1}$
 - **B.** circa $1\,\mu\text{m\,h}^{-1}$
 - **C.** circa $3\,\mu\text{m\,h}^{-1}$
 - **D.** circa $9\,\mu\text{m\,h}^{-1}$
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.65](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -3388,26 +3288,21 @@ Which of the spectra shown below, scaled linearly in wavelength, correctly repre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 49  Spectra**
+**Problema 49 – Spettri**
 
-Gli atomi di un elemento fittizio occupano stati a livelli energetici
+Gli atomi di un elemento fittizio occupano stati ai livelli energetici
 
 $$E_n = -\frac{C}{n^2} \quad \text{mit} \quad n = 1, 2, \ldots$$
 
-dove $C$ è una costante. Only the lines of the series of transitions to the ground state $n = 1$ lie in the optical range, but these lie entirely within it.
+dove $C$ è una costante. Solo le righe della serie di transizioni allo stato fondamentale $n = 1$ si trovano nell'intervallo ottico, ma queste giacciono interamente al suo interno.
 
-Quale dei spettrini mostrati di seguito, scalato linearmente in lunghezza d'onda, rappresenta correttamente le linee di emissione dell'elemento descritto?
+Quale degli spettri mostrati qui sotto, opportunamente scalato in lunghezza d'onda, rappresenta correttamente le righe di emissione dell'elemento descritto?
 
 - **A.** Spettro A
 - **B.** Spettro B
 - **C.** Spettro C
 - **D.** Spettro D
 
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.69](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -3831,22 +3726,17 @@ Which of the following expressions could be a suitable expression for the force 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema 55  Due piastre in vuoto**
+**Problema 55 – Due lastre nel vuoto**
 
-Due conducenti, plates parallele di area $A$ sono situate a distanza $d$ separate in vuoto. A causa dell'effetto quantomeccanico di Casimir, una forza agisce tra le piastre che dipende dalla velocità di luce $c$ in vuoto e sulla costante di Planck ridotta $\hbar = \dfrac{h}{2\pi}$.
+Due lastre conduttrici parallele di area $A$ si trovano a una distanza $d$ l'una dall'altra nel vuoto. A causa dell’effetto Casimir quantistico-meccanico, tra le lastre agisce una forza che dipende dalla velocità della luce $c$ nel vuoto e dalla costante di Planck ridotta $\hbar = \dfrac{h}{2\pi}$.
 
-Which of the following expressions could be a suitable expression for the force $F$ with which the plates are pushed together?
+Quale delle seguenti espressioni potrebbe essere un'espressione adeguata per la forza $F$ con cui le lastre sono spinte insieme?
 
 - **A.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^3\, A}$
 - **B.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^3\, A^2}$
 - **C.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^4\, A}$
 - **D.** $F = \dfrac{\pi^2\, \hbar c}{240\, d^4\, A^2}$
 
-**Topic:** [[Modern-Quantum Physics]], [[Electrostatics]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.77](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -3866,3 +3756,5 @@ Which of the following expressions could be a suitable expression for the force 
 **Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.77](https://drive.google.com/file/d/19divT9ssqQuKVOuxd3AOHpBdHXfIT7JH/view)
+
+

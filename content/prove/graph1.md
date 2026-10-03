@@ -55,3 +55,17 @@ tags:
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Curve Fitting (competenza)|Curve Fitting]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1Qgmh8mX97g5iMGlYDzZzYPycpx2Zau0G/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Figure 1 — Resistivity of tungsten (data sheet)**
+
+> ⚠️ This PDF is a *data sheet/figure* supporting the theoretical problem of the IPhO 2000 (on the incandescent filament of a tungsten lamp). It does not contain the problem statement, which is found in documents `th1`/`th2`/`th3` from the same folder (not in this chunk).
+
+**Figure 1: Resistivity of tungsten.**
+
+<!--fig:start-->
+![[_attachments/graph1/graph1_p1_f1.png]]
+*Figure 1 — Resistivity of tungsten (in $\mathrm{\mu\Omega\,cm}$) as a function of temperature (in K).*
+<!--fig:end-->
+
+

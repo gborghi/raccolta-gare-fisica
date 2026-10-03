@@ -975,66 +975,64 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 Risoluzione del problema del riscaldamento del mare
-(cfr.
-(Problema group of the PhysicsOlympiad - Tim Pokart)
-Sebbene un'épace strata di ghiaccio rifletta la maggior parte dell'incidente di luce solare sulla luna di Saturno Enceladus, la sonda spaziale Cassini è stata in grado di fotografare fonti d'acqua diverse centinaia di chilometri di altezza sulla sua superficie. La luna ottiene l'energia necessaria per questo da
-Le forze di marea, che lo calano attraverso la loro conversione in lavoro fratturoso.
-Consider a celestial body with radius $r$ that orbits a planet of mass $M_P$ on a path
-con semi-major axis $a$ e eccentricità $e$. The eccentricity is, for closed
-Orbit, un valore con $0 \leq e < 1$ che indica quanto forte l'orbita deviasse da un'orbita circolare.
-Il potere di riscaldamento che il corpo sperimenta può essere espresso da
+Problema 5 Riscaldamento mareale (problema a scelta multipla)
+(5 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Tim Pokart)
+
+Anche se uno spesso strato di ghiaccio riflette la maggior parte della luce solare incidente sulla luna Encelado di Saturno, la sonda spaziale Cassini è riuscita a riprendere fontane di acqua alte alcune centinaia di chilometri sulla sua superficie. La luna ottiene l'energia necessaria per questo processo dalle forze mareali, che la riscaldano attraverso la loro conversione in lavoro dissipativo dovuto all'attrito.
+
+Considera un corpo celeste di raggio $r$ che orbita intorno a un pianeta di massa $M_P$ su un'orbita con semiasse maggiore $a$ e eccentricità $e$. L'eccentricità, per orbite chiuse, è un valore con $0 \leq e < 1$ che indica quanto l'orbita si discosta da una circolare.
+
+La potenza di riscaldamento che il corpo subisce può essere espressa da
 $$P \approx \frac{21}{100} r^5 e^2 \frac{G^\alpha M_P^\beta}{a^\gamma} .$$
 Quali valori hanno gli esponenti $\alpha$, $\beta$ e $\gamma$?
 A $\alpha = -3/2$, $\beta = 5/2$ e $\gamma = -15/2$.
 B $\alpha = 3/2$, $\beta = 5/2$ e $\gamma = -15/2$.
 C $\alpha = 3/2$, $\beta = -5/2$ e $\gamma = 15/2$.
 D $\alpha = -3/2$, $\beta = 5/2$ e $\gamma = 15/2$.
+
 Soluzione
-Calcoli e spiegazioni
-Il risultato può essere derivato da un'analisi dimensionale. Denote by $M$, $L$ and $T$ the dimensions mass, length and time. Quindi le quantità nella formula hanno le seguenti dimensioni:
+Calcoli ed spiegazioni
+Il risultato può essere derivato da un'analisi dimensionale. Indichiamo con $M$, $L$ e $T$ le dimensioni massa, lunghezza e tempo. Allora le grandezze nella formula hanno le seguenti dimensioni:
 $$[P] = M L^2 T^{-3}$$
 $$[G] = L^3 T^{-2} M^{-1}$$
 $$[M_P] = M$$
 $$[r] = L$$
-$$[a] = L .$$
-(5.1)
-Pertanto, per le dimensioni nella formula data si ritiene che
+$$[a] = L .$$ (5.1)
+
+Di conseguenza, per le dimensioni nella formula data vale che
 $$M L^2 T^{-3} = L^5\, L^{3\alpha}\, T^{-2\alpha}\, M^{-\alpha}\, M^\beta\, L^\gamma = M^{\beta-\alpha}\, L^{5+3\alpha+\gamma}\, T^{-2\alpha} .$$
-Per gli esponenti questo rende il sistema di equazioni
+
+Per gli esponenti si ottiene il sistema di equazioni
 $$1 = \beta - \alpha$$
 $$2 = 5 + 3\alpha + \gamma$$
-$$-3 = -2\alpha .$$
-(5.2)
-This is solved by
-$$\alpha = 3/2 \qquad \beta = 5/2 \qquad \gamma = -15/2 .$$
-(5.3)
+$$-3 = -2\alpha .$$ (5.2)
+
+La cui soluzione è
+$$\alpha = 3/2 \qquad \beta = 5/2 \qquad \gamma = -15/2 .$$ (5.3)
+
 Risposta corretta: B
-Nota: Per una soluzione alternativa, si può usare il comportamento fisico atteso della formula
-Per il potere. Il potere di riscaldamento dovrebbe aumentare con l'aumento del massa del pianeta
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-- parametri costanti. Pertanto $\beta > 0$ must hold. Invece, il potere di riscaldamento dovrebbe essere
-decrease with increasing semi-major axis, which requires $\gamma < 0$. L'unica risposta che
-"che soddisfa queste due condizioni è B".
-Classificazione - riscaldamento del mare (problema MC)
+Osservazione: per una soluzione alternativa, si può utilizzare il comportamento fisico atteso della formula per la potenza. La potenza di riscaldamento dovrebbe aumentare con la massa del pianeta, mantenendo costanti gli altri parametri. Pertanto deve valere $\beta > 0$. Al contrario, la potenza di riscaldamento dovrebbe diminuire con l'aumentare del semiasse maggiore, il che richiede $\gamma < 0$. L'unica opzione tra quelle proposte che soddisfa queste due condizioni è la B.
+
+Valutazione - Riscaldamento mareale (problema a scelta multipla)
 Punti
 5
-Stating the relevant units/dimensions
-1.0
-Usando un'analisi dimensionale
-1.0
-Setting up and solving the system of equations (5.2)
-1.0
-Stating the correct solution
-2.0
-5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
 
-**Topic:** [[Astrophysics]], [[Gravitation]]
-**Metodi:** [[Dimensional Analysis (metodo)|Dimensional Analysis]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
+Indicare le unità di misura/dimensioni pertinenti
+1,0
+
+Utilizzare un'analisi dimensionale
+1,0
+
+Impostare e risolvere il sistema di equazioni (5.2)
+1,0
+
+Indicare la soluzione corretta
+2,0
+
+Totale
+5,0
+
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1175,19 +1173,14 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6 Cable coaxial (problema MC)
-(cfr.
-(Problema group of the PhysicsOlympiad - Arne Wolf)
-Un cavo coaxial è costituito, come mostrato nel
-di un lungo
-cilindro con resistenza specifica
-$\rho_1$ incassato da un cilindro vuoto con resistenza specifica $\rho_2 > \rho_1$. Attraverso il cavo
-flussi a corrente di magnitudo $I$.
-Un secondo cavo coaxial, mostrato sulla destra,
-Sembra lo stesso dall'esterno come il primo, ma sul
-inside è composto da un solo materiale. La resistenza specifica di questo materiale è $\rho$ e
-il corrente nel secondo cavo è
-di tipo simile $I$.
+Problema 6 Cavo coassiale (problema a scelta multipla)
+(5 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Arne Wolf)
+
+Un cavo coassiale è costituito, come mostrato nella sezione trasversale a sinistra accanto, da un lungo cilindro sottile con resistività specifica $\rho_1$ avvolto da un cilindro cavo con resistività specifica $\rho_2 > \rho_1$. Nel cavo circola una corrente di intensità $I$.
+
+Un secondo cavo coassiale, mostrato a destra, ha lo stesso aspetto esterno del primo, ma al suo interno è costituito da un solo materiale. La resistività specifica di questo materiale è $\rho$ e la corrente nel secondo cavo è anch'essa $I$.
+
 $\rho_1$
 $\rho_2$
 A
@@ -1197,48 +1190,41 @@ $\rho$
 A
 B
 C
-Fig. 2. Sezione trasversale del primo (sinistra) e del secondo
-(destra) cavo coaxial.
-A how many of the marked points A, B e C fanno i campi magnetici prodotti dal rispettivo
-- Cable differ?
+
+Fig. 2. Sezione trasversale del primo (a sinistra) e del secondo (a destra) cavo coassiale.
+
+In quanti dei punti contrassegnati A, B e C i campi magnetici prodotti dai rispettivi cavi differiscono?
+
 A 0
 B 1
 C 2
 D 3
+
 Soluzione
 Calcoli e spiegazioni
-Dal momento che la corrente totale è la stessa in entrambi i cavi e la resistenza specifica del nucleo
-in primo cavo è più piccolo di quello della sua tenda, più corrente scorre nel nucleo del primo cavo che
-- In secondo. Secondo la legge di Ampere, il campo magnetico generato da un filo dritto
-a distance $r$ from the wire axis is proportional to the current that flows at a distance less than or equal to $r$ from the
-- Il filo.
-Poiché questo corrente è aumentato per i punti A e B nel primo cavo ed è uguale al punto C per entrambi
-I cavi, il campo magnetico differisce ai punti A e B. Quindi C è il corretto
-- Risposta.
-Corretta risposta: C
-Cable a coassi (problema MC)
+
+Poiché la corrente totale è la stessa nei due cavi e la resistività specifica del nucleo nel primo cavo è minore di quella della guaina, in esso passa una corrente maggiore rispetto al secondo cavo. Secondo la legge di Ampère, il campo magnetico generato da un filo rettilineo a distanza $r$ dall'asse del filo è proporzionale alla corrente che fluisce a distanza minore o uguale di $r$ dall'asse del filo.
+
+Poiché questa corrente è maggiore nei punti A e B nel primo cavo, mentre risulta uguale al punto C nei due cavi, il campo magnetico differisce nei punti A e B. Pertanto la risposta corretta è C.
+
+Risposta corretta: C
+Valutazione - Cavo coassiale (problema a scelta multipla)
 Punti
 6
-Riconoscere dove più corrente scorre
-1.5
-Usando la legge di Ampere
-1.5
-Stating the correct solution
-2.0
-5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-
+Riconoscere dove scorre più corrente
+1,5
+Applicare la legge di Ampère
+1,5
+Affermare la soluzione corretta
+2,0
+5,0
+53ª Olimpiade Fisica Internazionale 2023 - Prova seconda fase - Soluzione campione - 07.12.2022
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p10_f4.png]]
-Sezione trasversale cavi coassiali (Fig. 2)*
+*Sezione trasversale cavi coassiali (Abb. 2)*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1400,23 +1386,22 @@ that it is easy to follow but not unnecessarily long. If, for example, you use t
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Blocco di vetro
-(cfr.
-(idea: gruppo di problemi della PhysicsOlympiad - Thomas Hellerl & Titus Bornträger)
-Un fascio laser che corre nel piano del disegno colpisce un blocco di vetro (indice refraettivo $n = 1{,}5$) con lunghezze laterali $a$ e $4a$ da sinistra all'angolo di incidenza $\alpha = 30^\circ$.
-Come indicato nello schema non a scala nella figura 3, infine colpisce esattamente il
-Cortile inferiore a destra all'interno del blocco di vetro.
+Problema 7 Blocco di vetro (5 punti)
+(Idea: gruppo di problemi della Olimpiade di Fisica - Thomas Hellerl & Titus Bornträger)
+Un fascio laser che si muove nel piano del disegno colpisce un blocco di vetro (indice di rifrazione $n = 1{,}5$) con lunghezze dei lati $a$ e $4a$ da sinistra con l'angolo di incidenza $\alpha = 30^\circ$.
+Come indicato nello schizzo non in scala nella Figura 3, esso colpisce esattamente l'angolo inferiore destro all'interno del blocco di vetro.
 $4a$
 $a$
 $n = 1,5$
 $\alpha$
 $x$
-Fig. 3. Sketch non a scala del raggio laser nel blocco di vetro in vista laterale.
-Qual è la distanza $x$ del punto di ingresso dalla superficie di confine superiore del blocco?
+Fig. 3. Schizzo non in scala del percorso del fascio laser nel blocco di vetro in vista laterale.
+Qual è la distanza $x$ del punto di entrata dalla superficie superiore del blocco?
 A $a \cdot \left( \sqrt{2} - 1 \right)$
 B $a \cdot \left( 2 - \sqrt{3} \right)$
 C $a \cdot \left( 1 - \frac{\sqrt{2}}{2} \right)$
 D $a \cdot \left( 1 - \frac{\sqrt{3}}{3} \right)$
+
 Soluzione
 Calcoli e spiegazioni
 $a$
@@ -1426,46 +1411,37 @@ $x$
 $y$
 $4a - y$
 $\alpha'$
-Fig. 4. Complete sketch of the beam path in the glass block in side view
-Per la legge della refrazione:
-$$\sin \alpha = n \cdot \sin \alpha' .$$
-(7.1)
-Il fascio che corre all'interno del vetro è totalmente riflesso internamente sul lato superiore. In quello sinistro e
-il triangolo destro, uno trova a causa della somiglianza
-$$\frac{a}{4a - y} = \frac{x}{y} = \tan \alpha' .$$
-(7.2)
-Il valore di $\tan \alpha'$ può essere determinato direttamente
-$$\tan \alpha' = \frac{\sin \alpha'}{\cos \alpha'} = \frac{\frac{1}{n} \cdot \sin \alpha}{\sqrt{1 - \frac{\sin^2 \alpha}{n^2}}} = \frac{\frac{1}{1,5} \cdot \sin 30^\circ}{\sqrt{1 - \frac{\sin^2 30^\circ}{1,5^2}}} = \frac{1}{2\sqrt{2}} .$$
-(7.3)
-Here $\sin \alpha = \sin 30^\circ = 0{,}5$ was used. Il seguente è stato risposto immediatamente a (7.2):
-$$y = 2\sqrt{2}\, x .$$
-(7.4)
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-Substituing into equation (7.2) and solving for $x$ dà:
-$$\frac{a}{4a - 2\sqrt{2}\, x} = \frac{1}{2\sqrt{2}} \quad \text{bzw.} \quad 2\sqrt{2}\, a = 4a - 2\sqrt{2}\, x$$
-(7.5)
-e così
-$$x = 2\sqrt{2}\, a - a = a \cdot \left( \sqrt{2} - 1 \right) .$$
-(7.6)
+Fig. 4. Schizzo completo del percorso del fascio nel blocco di vetro in vista laterale
+Per la legge della rifrazione:
+$$\sin \alpha = n \cdot \sin \alpha' .$$ (7.1)
+Il fascio che si muove all'interno del vetro subisce una riflessione totale interna sulla superficie superiore. Nei triangoli a sinistra e a destra, per similitudine si ha:
+$$\frac{a}{4a - y} = \frac{x}{y} = \tan \alpha' .$$ (7.2)
+Il valore di $\tan \alpha'$ può essere determinato direttamente mediante:
+$$\tan \alpha' = \frac{\sin \alpha'}{\cos \alpha'} = \frac{\frac{1}{n} \cdot \sin \alpha}{\sqrt{1 - \frac{\sin^2 \alpha}{n^2}}} = \frac{\frac{1}{1,5} \cdot \sin 30^\circ}{\sqrt{1 - \frac{\sin^2 30^\circ}{1,5^2}}} = \frac{1}{2\sqrt{2}} .$$ (7.3)
+È stato usato $\sin \alpha = \sin 30^\circ = 0{,}5$. Si ricava immediatamente da (7.2):
+$$y = 2\sqrt{2}\, x .$$ (7.4)
+53ª IPhO 2023 - Prova del secondo turno - Soluzione campione - 07.12.2022
+Sostituendo in (7.2) e risolvendo per $x$ si ottiene:
+$$\frac{a}{4a - 2\sqrt{2}\, x} = \frac{1}{2\sqrt{2}} \quad \text{bzw.} \quad 2\sqrt{2}\, a = 4a - 2\sqrt{2}\, x$$ (7.5)
+e quindi
+$$x = 2\sqrt{2}\, a - a = a \cdot \left( \sqrt{2} - 1 \right) .$$ (7.6)
 Risposta corretta: A
-Grading - Blocco di vetro
+
+Valutazione - Blocco di vetro
 Punti
 7
-Usando la similitudine dei triangoli (7.2)
-1.0
-Usando il valore corretto per $\tan \alpha'$ with (7.3)
-1.0
-Deriving the result for $x$ from (7.2)
-1.0
-Stating the correct solution
+Utilizzo della similitudine dei triangoli (7.2)
+1,0
+Utilizzo del valore corretto per $\tan \alpha'$ con (7.3)
+1,0
+Derivazione del risultato per $x$ da (7.2)
+1,0
+Stabilire la soluzione corretta
 2.0
 5.0
-53° IPhO 2023 - 2° Round Exam - Sample Solution - 07.12.2022
-Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione. Un'altra cosa è la
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il metodo di soluzione in un modo simile
-che è facile da seguire ma non troppo lungo. Se, per esempio, usi la legge della conservazione dell'energia, scrivi questo brevemente.
-
+53ª Olimpiade Fisica Internazionale 2023 - Prova di seconda fase - Soluzione campione - 07.12.2022
+Problemi a risposta lunga
+Lavora sui seguenti tre problemi nello spazio apposito fornito. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivi il metodo utilizzato per la soluzione in modo chiaro ma non eccessivamente prolisso. Se, ad esempio, utilizzi la conservazione dell'energia, menzionalo brevemente.
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben_Lsg_web/53_IPhO_2023_2Rd_Aufgaben_Lsg_web_p11_f5.png]]
@@ -1476,11 +1452,6 @@ che è facile da seguire ma non troppo lungo. Se, per esempio, usi la legge dell
 *Percorso completo raggio laser vetro (Abb. 4)*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1UjowBl2NmEisJn9N-RI0S3gXTW0fLVn9/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

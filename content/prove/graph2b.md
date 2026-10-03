@@ -55,3 +55,17 @@ Grafico 2 (b)  Curva di Planck per 2750 K, 3000 K, 3250 K: intensità per unità
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1IHbcnz2X0RozebdvJYAeU32s8N4DXhY3/view)
+<div class="qlang-split" data-lang="en"></div>
+
+**Graph 2 — Planck Curves 2750/3000/3250 K (data sheet)**
+
+> ⚠️ This PDF is a *data sheet/figure* supporting the theoretical problem of the IPhO 2000 (black body / incandescent filament). It does not contain the problem statement (present in sheets `th1`/`th2`/`th3` of the same folder, not in this chunk).
+
+**Graph: Planck Curves for 2750 K, 3000 K, 3250 K.**
+
+<!--fig:start-->
+![[_attachments/graph2b/graph2b_p1_f1.png]]
+*Graph 2(b) — Planck Curves for 2750 K, 3000 K, 3250 K: intensity per unit of wavelength as a function of wavelength (m).*
+<!--fig:end-->
+
+

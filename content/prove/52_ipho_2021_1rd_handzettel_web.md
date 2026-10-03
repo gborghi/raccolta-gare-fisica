@@ -791,28 +791,26 @@ to develop further
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 4 (10 punti)
-Quasi come il suono
-Il suono si propaga in un mezzo con una velocità finita, la velocità del suono. Con uno smartphone o computer e
-In questo modo si può determinare la velocità del suono in aria sperimentalmente con molta precisione. Come funziona? In primo luogo
-Come utilizzare lo smartphone o un computer per generare un tono seno con frequenza regolabile e anche registrare l'ampiezza di pressione sonora o la larghezza di un segnale acustico 1. Poi ottenere un ragionevolmente
-tubo stabile di almeno 50 cm di lunghezza, per esempio fatto di cartone. Chiudere una fine del tubo con un pezzo di cartone o qualcosa di simile. Ora tenete il microfono aperto
-fine del tubo, generare un tono seno e registrare il segnale acustico misurato dal microfono.
-a) Investigare qualitativamente come l'ampiezza di pressione sonora misurata all'aperto fine del tubo cambia con frequenza e descrivere il tuo
-- le osservazioni.
-b) derivare in teoria una relazione tra le caratteristiche osservate della curva di amplitudine della pressione sonora e la velocità del suono in
-- Non è vero.
-c) Usare questo per determinare sperimentalmente la velocità del suono in aria a temperatura ambiente. Descrivere come hai proceduto, e stimare il
-l'incertezza del tuo risultato. Finalmente, confrontare la velocità del suono determinata con un valore letterario.
-Problema minore (10 punti)
-latte crudo in un bicchiere di vetro
-Il flacone di vetro mostrato al fianco contiene latte crudo. Se il latte è lasciato a riposo per un po', la crema
-del latte si separa fuori, mentre il restante latte scremato rimane in fondo. Si può supporre che il volume totale del liquido
-rimane costante nel processo.
-Indicare se la pressione al fondo del flacone diminuisce, aumenta o rimane la stessa. Giustifica la tua risposta.
+Velocità del suono
+
+Il suono si propaga in un mezzo con una velocità finita, detta velocità del suono. Con uno smartphone o un computer e alcuni materiali aggiuntivi è possibile determinare sperimentalmente la velocità del suono nell'aria con un’accuratezza ragionevole. Come funziona? Innanzitutto, scopri come usare lo smartphone o un computer per generare un tono sinusoidale con frequenza regolabile e registrare l’ampiezza della pressione acustica o il livello di intensità di un segnale acustico. 1. Successivamente, reperisci un tubo abbastanza stabile lungo almeno 50 cm, ad esempio in cartone. Chiudi un’estremità del tubo con un pezzo di cartone o qualcosa di simile. Ora posiziona il microfono all’estremità aperta del tubo, genera un tono sinusoidale e registra il segnale acustico misurato dal microfono.
+
+a) Esamina qualitativamente come varia l’ampiezza della pressione acustica misurata all’estremità aperta del tubo al variare della frequenza e descrivi le tue osservazioni.
+
+b) Deriva teoricamente una relazione tra le caratteristiche osservate della curva dell’ampiezza della pressione acustica e la velocità del suono nell’aria.
+
+c) Utilizza questo metodo per determinare sperimentalmente la velocità del suono nell’aria alla temperatura ambiente. Descrivi il procedimento seguito e stimane l’incertezza del risultato. Infine, confronta il valore della velocità del suono determinato con un valore riportato in letteratura.
+
+Problema per giovani (10 punti)
+Latte crudo in un flacone di vetro
+Il flacone di vetro mostrato qui accanto contiene latte crudo. Se il latte viene lasciato in quiete per un certo tempo, la panna si separa, mentre il latte scremato rimane in fondo. Si può assumere che il volume totale del liquido resti costante nel processo.
+
+Stabilire se la pressione alla base del flacone diminuisce, aumenta o rimane invariata. Giustificare la risposta.
+
 Stazione 1
 Stazione 2
 Terra
-Navetta
+Shuttle
 0
 100
 200
@@ -840,117 +838,51 @@ R / Ω
 70
 $\vartheta$ / ̊C
 P / mW
-Sketch of the orbits of the space stations
-(dashed) e dello shuttle spaziale.
-Temperatura di dipendenza del termistor e sua dissipazione di potenza termico.
-Tutti i dati sono disponibili in alta risoluzione sul sito IPhO.
-Fossilo di vetro con
-latte crudo.
-1 Per entrambi i fini ci sono un certo numero di app o programmi gratuiti per smartphone per il computer. Per tone generation a
-programma che consente una variazione manuale o automatica della frequenza nel tempo, un cosiddetto sweep. Il
-Sito IPhO abbiamo compilato alcune applicazioni adatte e offerto un file audio con un sweep per il download. Se dovrebbe
-non essere possibile eseguire la produzione e la registrazione di tono simultaneamente su un dispositivo, utilizzare un secondo dispositivo in parallelo.
-sciencesolymppiaden.de
+
+Schizzo delle orbite delle stazioni spaziali (tratteggiate) e della navetta spaziale.
+Dipendenza dalla temperatura del termistore e della sua potenza dissipata.
+
+Tutte le figure sono disponibili in risoluzione più alta sul sito web dell'IPhO.
+
+Flacone di vetro con latte crudo.
+1 Per entrambi gli scopi esistono numerose app gratuite per smartphone o programmi per computer. Per la generazione del tono è necessario un programma che consenta una variazione manuale o automatica della frequenza nel tempo, detta appunto "sweep". Sul sito web dell'IPhO abbiamo raccolto alcune app adatte e offriamo un file audio con uno sweep scaricabile. Se non fosse possibile generare il tono e registrare contemporaneamente su un solo dispositivo, usare un secondo dispositivo in parallelo.
+
+scienceolympiaden.de
 Mostra il tuo talento!
-Alunni
-Se sei un allievo,
-L'IPhO e l'Olimpico di Fisica in Germania offrono diversi tipi di
-opportunità di impegnarsi intensamente con
-le domande fisiche, per sperimentare la fisica come un eccitante
-disciplina scientifica, per testare
-i vostri limiti e
-Non per niente per incontrare persone interessanti.
-Per i round di competizione ci sono
-materiali di apprendimento e problemi di formazione
-che ti aiuteranno a approfondire le tue conoscenze e
-capacità di risoluzione dei problemi. Ai seminari si incontrano molti altri
-Giovani entusiasti della fisica. Prendendo
-Il part is therefore worthwhile in every
-caso e indipendentemente dal fatto che tu faccia
-- E' in un giro superiore. Cosa
-Le cose che interessano sono le parti. Successfully
-completando il primo
-Round è già un'impresa speciale e una vera distinzione.
-Allora, prendi il cuore!
-Docenti
-Come insegnante puoi
-offer pupils who are particularly capable
-o interessato a fisica a challenge
-con i problemi della fisica
-L'Olimpico e incoraggiarli verso un profondo
-coinvolgimento con argomenti fisici. Il PhysicsOlympiad può così
-Serve come strumento di sostegno individuale. In particolare, i problemi della
-1st round are suitable not only for
-Il migliore di una classe.
+Studenti
+Se sei uno studente, l'IPhO e la FisicaOlimpiade in Germania ti offrono numerose opportunità per impegnarti intensamente con questioni di fisica, sperimentare la fisica come una disciplina scientifica affascinante, metterti alla prova e non da ultimo conoscere persone interessanti.
 
-Con diverse offerte
-PhysicsOlympiad vuole rivolgersi a giovani interessati
-La gente in modo generale e duraturo
-ispirare loro le scienze naturali. Per questo ci sono offerte di supporto come i seminari di Orpheus e
-i materiali che accompagnano il primo round,
-con cui vogliamo supportarti nell'introduzione
-- E' un'occasione per i nostri studenti.
-Quindi incoraggi i tuoi alunni
-per partecipare; solo coloro che non partecipano possono perdere.
+Per le varie fasi della competizione sono disponibili materiale didattico e problemi di allenamento che ti aiutano a approfondire le tue conoscenze e le tue abilità risolutive. Nei seminari incontrerai molti altri giovani appassionati di fisica. Partecipare è quindi sempre utile, indipendentemente dal fatto che tu riesca a superare le fasi successive. Ciò che conta è partecipare. Superare con successo la prima fase rappresenta già un risultato speciale e una vera distinzione.
+
+Allora, non scoraggiarti!
+
+Insegnanti
+Come insegnante puoi offrire agli studenti particolarmente dotati o interessati alla fisica una sfida con i problemi della FisicaOlimpiade e incoraggiarli a impegnarsi in modo più approfondito con gli argomenti fisici. La FisicaOlimpiade può quindi fungere da strumento di sostegno individuale. In particolare, i problemi della prima fase sono adatti non solo ai migliori di una classe.
+
+Con le numerose proposte, la FisicaOlimpiade vuole raggiungere in modo ampio e duraturo giovani interessati, ispirandoli alle scienze naturali. A questo scopo sono disponibili offerte di sostegno, come i seminari Orpheus e i materiali accompagnatori per la prima fase, con cui vogliamo aiutarti a presentare gli argomenti della FisicaOlimpiade.
+Perciò incoraggiate i vostri studenti a partecipare; soltanto chi non partecipa può perdere.
 Scuole
-Le scuole possono aumentare il loro profilo incoraggiando la partecipazione a competizioni
-e utilizzare questi, nel senso che
-di un'enrichment, come complemento delle offerte della scuola.
-Le competizioni offrono così diverse,
-ambienti di apprendimento differenziati per gli studenti partecipanti.
-In questo settore, il settore STEM
-le Olimpiadi, almeno in seguito
-I round, represent a competition aimed at especially motivated
-e giovani di alto livello. Tuttavia,
-La partecipazione ai round di entrata non è solo utile, ma è anche importante.
-può anche contribuire a una duratura
-motivazione per i temi STEM.
-Offerte come i seminari di Orpheus
-consent the support of a
-Numero di partecipanti.
-In molti stati federali, comunque,
-Il documento di partecipazione può essere riconosciuto come un particolare risultato di apprendimento o come un documento di tema/seminario del vostro corso.
-Alcune delle quali sono state prese in considerazione.
-Interessato in più della fisica?
-L'IPhO è uno dei sei concorsi nazionali di scienza organizzati dall'IPN
-Scienza olimpiadi. Oltre alle competizioni di selezione per il
-I campioni di biologia (IBO), chimica
-(IChO) e fisica (IPhO), questi includono
-La Commissione europea ha adottato una proposta di regolamento (UE) n.
-Competenza (BUW). Insieme si indirizzano
-Pupils from the beginning (Studenti dall'inizio)
-di scuola secondaria all'anno successivo
-di anni scolastici e, attraverso close
-La rete, offrono la possibilità di
-La promozione duratura delle capacità e degli interessi scientifici.
-Ulteriori informazioni sono disponibili a:
-www.scienceolympiaden.de
-Molti buoni motivi per partecipare al PhysicsOlympiad
-Cari studenti, cari insegnanti,
-Cari genitori,
-Alexander von Humboldt era convinto che le idee e le conoscenze possono essere utilizzate solo quando vengono in vita
-in molti sensi". Come in tempo di Humboldt, oggi anche è necessario svegliarsi e far crescere presto in
-giovani, il fascino che deriva dalla scienza e dalla ricerca.
-Sappiamo che proprio i risultati delle scienze naturali influiranno in modo significativo sul nostro futuro e sono la base del progresso sociale. Più che mai
-Un'intesa scientifica è necessaria per
-correctly assess the consequences of scientific and technical progress
-e per trovare risposte al grande
-- domande del futuro.
-Il Ministero federale dell'istruzione e della ricerca è stato impegnato per molti anni in numerosi modi per ispirare i giovani
-"People for the World of the Natural Sciences".
-Supportamo, per esempio, varie competizioni di studenti e giovani su argomenti STEM:
-Scienze naturali e tecnologia. Le competizioni scientifiche organizzate dall'Istituto Leibniz
-per l'istruzione scientifica e matematica,
-Le Olimpiadi di Scienza e il concorso federale per l'ambiente sono parte di questi. Ogni anno, circa 10.000 studenti in tutto il paese, dal registro della quinta elementare. Per eccitante e
-I problemi difficili offrono l'opportunità di sfidare se stessi oltre
-la vita scolastica quotidiana, per scoprire i propri talenti e
-per sviluppare ulteriormente
+Le scuole possono rafforzare il proprio profilo incoraggiando la partecipazione alle competizioni e utilizzarle, nel senso di un arricchimento, come complemento alle offerte scolastiche.
+Le competizioni offrono così ambienti di apprendimento diversificati e differenziati per gli studenti partecipanti.
+Nel settore delle materie STEM, le olimpiadi rappresentano, almeno nelle fasi successive, una competizione rivolta a giovani particolarmente motivati e di alto livello. Tuttavia, anche la partecipazione alle fasi iniziali non è soltanto utile, ma può anche contribuire a una motivazione duratura per gli argomenti STEM.
+Iniziative come i seminari Orpheus consentono di sostenere un gran numero di partecipanti.
+In molti stati federali, inoltre, la partecipazione può essere riconosciuta come un risultato formativo speciale o una tesina/relazione di materia per l’Abitur dei vostri studenti.
+Interessati anche a qualcosa oltre la fisica?
+L’IPhO è una delle sei competizioni nazionali di scienze per studenti organizzate dall’IPN — le Olimpiadi della Scienza. Oltre alle selezioni per le olimpiadi internazionali di Biologia (IBO), Chimica (IChO) e Fisica (IPhO), queste includono anche l’International JuniorScienceOlympiad (IJSO), l’European ScienceOlympiad (EUSO) nonché il Federal Environment
+Concorso (BUW). Si rivolge agli studenti dal primo anno della scuola secondaria superiore fino al termine degli studi e, grazie alla stretta collaborazione tra le istituzioni, offre la possibilità di promuovere in modo duraturo le capacità e gli interessi scientifici.
+Ulteriori informazioni sono disponibili al sito www.scienceolympiaden.de.
 
-**Topic:** [[Oscillations & Waves]], [[Fluid Mechanics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
+Molte buone ragioni per partecipare alla Olimpiade della Fisica
+
+Cari studenti, cari insegnanti, cari genitori,
+
+Alexander von Humboldt era convinto che le idee e la conoscenza possano essere utili soltanto "quando vivono in tanti cervelli". Così come nell'epoca di Humboldt, anche oggi è necessario suscitare e coltivare fin da giovani la fascinazione che emana dalla scienza e dalla ricerca.
+
+Sappiamo che proprio i risultati delle scienze naturali modelleranno in modo significativo il nostro futuro e costituiscono la base del progresso sociale. Più che mai è necessaria una comprensione scientifica per valutare correttamente le conseguenze del progresso scientifico e tecnologico e trovare risposte alle grandi domande del futuro.
+
+Il Ministero federale dell'Istruzione e della Ricerca da molti anni si impegna in numerosi modi per ispirare i giovani al mondo delle scienze naturali.
+Sosteniamo, ad esempio, diverse competizioni per studenti e giovani in ambito STEM — matematica, scienze informatiche, scienze naturali e tecnologia. Le competizioni scientifiche organizzate dall'Istituto Leibniz per l'Insegnamento della Scienza e della Matematica, le ScienceOlympiads e il concorso nazionale per l'ambiente sono parte di queste. Ogni anno circa 10.000 studenti in tutta la Germania, provenienti dalla quinta classe, si iscrivono. Per problemi stimolanti e intricati offrono l'opportunità di mettersi alla prova al di là della vita scolastica quotidiana, scoprire le proprie capacità e svilupparle ulteriormente.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1115,3 +1047,5 @@ to develop further
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
 **Objects:** [[Pipe/Tube (object)|Pipe/Tube]], [[Tank/Container (object)|Tank/Container]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
+
+

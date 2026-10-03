@@ -287,62 +287,58 @@ In this case the point for the expression of the final falling distance should n
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 Pietra cadente (problema MC)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-Una pietra cade verticalmente verso il basso. Nei primi tre secondi del caso copre la stessa distanza
-Come nell'ultimo secondo prima dell'impatto. La friczione durante il caso deve essere trascurata.
-A che velocità la pietra colpisce il terreno?
+Problema 2 Pietra in caduta (problema a scelta multipla)
+(5.0 punti)
+(Gruppo di problemi della FisicaOlimpiade - Stefan Petersen)
+
+Una pietra cade verticalmente verso il basso. Nello spazio dei primi tre secondi di caduta percorre la stessa distanza che nell'ultimo secondo prima dell'impatto. Si trascura l’attrito durante la caduta.
+
+A quale velocità la pietra colpisce il suolo?
 A circa 50 $\text{km h}^{-1}$
 B circa 120 $\text{km h}^{-1}$
 C circa 140 $\text{km h}^{-1}$
 D circa 180 $\text{km h}^{-1}$
+
 Soluzione
 Calcoli e spiegazioni
-La distanza di caduta $s$ coperta nei primi tre secondi è, con $t = 1{,}0$ s, data da
-$$s = \frac{1}{2} g (3 t)^2 .$$
-(2.1)
-Questa distanza deve essere pari alla distanza percorsa nell'ultimo secondo del caso. Pertanto,
-si sostiene che
-$$s = \frac{1}{2} g \left( T^2 - (T - t)^2 \right) ,$$
-(2.2)
-dove $T$ denota il tempo totale del caso. Equating (2.1) and (2.2) gives for the fall time
-$$9 t^2 = 2 t T - t^2$$
-e così
-$$T = 5 t = 5{,}0 \text{ s} .$$
-(2.3)
-From this follows for the speed after the fall time $T$ at impact
-$$v = g T = 9{,}81\ \text{m s}^{-2} \cdot 5{,}0\ \text{s} \approx 49\ \text{m s}^{-1} \approx 177\ \text{km h}^{-1} .$$
-(2.4)
-Il tempo di impatto corrisponde quindi più strettamente, tra le alternative di risposta date, a
-180 $\text{km h}^{-1}$.
-Risposta corretta: D
-Remark: Answer option A results if the impact speed is given in $\text{m s}^{-1}$.
-Answer option B segue come il valore dal formula sbagliato $v = \frac{1}{2} g T^2$ without conversion to
-$\text{km h}^{-1}$. Risposta opzione C è il valore della velocità di impatto per un tempo di caduta di $3\text{ s} + 1\text{ s} = 4\text{ s}$.
-Grading - Falling Stone (problema MC)
-Punti
-Stating an expression for the initial falling distance (2.1)
-1.0
-Stating an expression for the final falling distance (2.2)
-1.0
-Equating the falling distances and determining the fall time (2.3)
-1.0
-Stating an expression for the speed in (2.4)
-1.0
-Stating the correct solution
-1.0
-5.0
-Nota su grading: Se la distanza determinata in (2.1) è usata per determinare la velocità
-senza accounting for the acceleration in the last second before impact, via $v = s/t$,
-uno ottiene circa 160 $\text{km h}^{-1}$ e i partecipanti potrebbero anche arrivare a answer option D.
-In questo caso non si dovrebbe assegnare il punto per l'espressione della distanza finale.
 
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
+La distanza percorsa in caduta $s$ nei primi tre secondi, con $t = 1{,}0$ s, è data da
+$$s = \frac{1}{2} g (3 t)^2 .$$ (2.1)
+
+Questa distanza deve essere uguale alla distanza percorsa nell’ultimo secondo della caduta. Pertanto vale anche
+$$s = \frac{1}{2} g \left( T^2 - (T - t)^2 \right) ,$$ (2.2)
+dove $T$ indica il tempo totale di caduta. Uguagliando (2.1) e (2.2) si ottiene per il tempo di caduta
+$$9 t^2 = 2 t T - t^2$$ e quindi
+$$T = 5 t = 5{,}0 \text{ s} .$$ (2.3)
+
+Da questo segue per la velocità dopo il tempo di caduta $T$ all’impatto
+$$v = g T = 9{,}81\ \text{m s}^{-2} \cdot 5{,}0\ \text{s} \approx 49\ \text{m s}^{-1} \approx 177\ \text{km h}^{-1} .$$ (2.4)
+
+La velocità all’impatto corrisponde quindi più da vicino, tra le opzioni fornite, a
+180 $\text{km h}^{-1}$.
+
+Risposta corretta: D
+
+Osservazione: L’opzione A si ottiene se la velocità all’impatto viene espressa in $\text{m s}^{-1}$.
+L’opzione B deriva dal valore ottenuto con la formula errata $v = \frac{1}{2} g T^2$ senza conversione in $\text{km h}^{-1}$.
+L’opzione C è il valore della velocità all’impatto per un tempo di caduta di $3\text{ s} + 1\text{ s} = 4\text{ s}$.
+
+Valutazione - Pietra in caduta (problema a scelta multipla)
+Punti
+Formulazione di un’espressione per la distanza iniziale percorsa (2.1)
+1.0
+Formulazione di un’espressione per la distanza finale percorsa (2.2)
+1.0
+Uguaglianza delle distanze e determinazione del tempo di caduta (2.3)
+1.0
+Espressione della velocità in (2.4)
+1,0
+Soluzione corretta
+1,0
+5,0
+Osservazione sulla valutazione: Se viene utilizzata la distanza determinata in (2.1) per calcolare la velocità senza tenere conto dell'accelerazione nell'ultimo secondo prima dell'impatto, tramite $v = s/t$, si ottiene circa 160 $\text{km h}^{-1}$ e i partecipanti potrebbero arrivare anche alla scelta D.
+In questo caso, il punto relativo all'espressione della distanza finale di caduta non deve essere assegnato.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -489,18 +485,15 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Forza magnetica (problema MC)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-In un esperimento, l'interazione di forza tra
-Un magnetino anello e un magnetino a barre è investigato. I poli dei due magneti sono, come visto in
-la figura, orientata nella stessa direzione. Il magnete a barre può essere spostato lungo il disegno
-- L'asse. Il grafico mostra la forza sul
-bar magnet as a function of its position $x$ on
-l'asse.
-Magnete di ferro
+Problema 3 Forza magnetica (problema a scelta multipla)
+(5,0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Stefan Petersen)
+
+In un esperimento viene studiata l'interazione delle forze tra un magnete anulare e un magnete a barra. I poli dei due magneti sono, come mostrato nella figura, orientati nello stesso senso. Il magnete a barra può muoversi lungo l'asse disegnato. Il grafico mostra la forza sul magnete a barra in funzione della sua posizione $x$ sull'asse.
+
+Magnete a barra
 40 mm
-Magnete ad anello
+Magnete anulare
 0
 $x$
 $-60$
@@ -517,52 +510,42 @@ $-5$
 15
 $x$ / mm
 $F$ / N
-Fig. 1. Grafico della forza sul magnete di barra come funzione di posizione $x$.
-Dal grafico, le posizioni di equilibrio del magnete a barre lungo l'asse
-- Si può leggere. Una posizione di equilibrio è chiamata stabile se il magnete ritorna a questo punto.
-posizioni sotto un piccolo spostamento. Ora il magnete di barra è girato, così che i poli
-I magneti sono orientati in modo opposto.
-Come sono molte posizioni di equilibrio stabile lungo l'asse sono lì per il magnete di barra in
-- Questo orientamento?
+
+Fig. 1. Grafico della forza sul magnete a barra in funzione della posizione $x$.
+
+Dal grafico si possono leggere le posizioni di equilibrio del magnete a barra lungo l'asse. Una posizione di equilibrio si definisce stabile se il magnete ritorna a tale posizione dopo una piccola perturbazione. Ora il magnete a barra viene capovolto, in modo che i poli dei due magneti siano orientati in senso opposto.
+
+Quante posizioni di equilibrio stabile lungo l'asse ci sono per il magnete a barra in questa configurazione?
+
 A 1
 B 2
 C 3
 D 5
+
 Soluzione
 Calcoli e spiegazioni
-Una posizione di equilibrio si verifica quando la forza sul magnete di barra è uguale a zero. In
-data grafica per la configurazione originale, this is the case at about $x = -26$ mm, $-12$ mm,
-0 mm, 12 mm e 26 mm. Stable are only those equilibria in which a change of the $x$-coordinate in the positive direction leads to a force in the negative $x$-direction and a
-Il dislocamento nella direzione negativa porta a una forza nella direzione positiva. Questo è il caso solo per i tre
-Le posizioni di equilibrio sono $\pm 26$ mm e 0 mm. Le due posizioni di equilibrio a $\pm 12$ mm sono instabili.
-Se il magnete di barra è ora girato, il segno della forza si inversa. Così
-Le posizioni di equilibrio stabile diventano instabili e quelle instabili diventano stabili. Ci sono quindi due stabili
-equilibrio posizioni lungo l'asse per il caso dei magneti orientati in opposite.
-Quindi la risposta B è corretta.
+Una posizione di equilibrio si ha quando la forza sul magnete a barra è nulla. Nel grafico fornito per la configurazione iniziale, ciò avviene circa a $x = -26$ mm, $-12$ mm,
+0 mm, 12 mm e 26 mm. Sono stabili solo gli equilibri in cui una variazione della coordinata $x$ nella direzione positiva produce una forza nella direzione negativa $x$ e uno spostamento nella direzione negativa produce una forza nella direzione positiva. Ciò avviene solo per le tre posizioni di equilibrio a $\pm 26$ mm e a 0 mm. Le due posizioni di equilibrio a $\pm 12$ mm sono instabili.
+Se ora si capovolge il magnete a barra, anche il segno della forza cambia. Di conseguenza, gli equilibri stabili diventano instabili e quelli instabili diventano stabili. Esistono pertanto due posizioni di equilibrio stabile sull'asse nel caso in cui i magneti abbiano orientamenti opposti.
+Pertanto la risposta B è corretta.
 Risposta corretta: B
-Grading - Forza magnetica (problema MC)
+Valutazione - Forza magnetica (problema a scelta multipla)
 Punti
-Identificando i zero del grafico con posizioni di equilibrio
+Riconoscere gli zeri del grafico come posizioni di equilibrio
 1.0
-Linking the (in) stability with the shape or slope of the graph
+Collegare la (in)stabilità alla forma o al coefficiente angolare del grafico
 2.0
-Riconoscere che il flipping porta a un segno di cambiamento di forza
+Riconoscere che capovolgere il magnete comporta un cambiamento del segno della forza
 1.0
-Stating the correct solution
+Affermare la soluzione corretta
 1.0
 5.0
-
 
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p5_f1.png]]
 *Force on magnet vs position x*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Magnet (object)|Magnet]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -974,15 +957,14 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 Immagine di un anello luminoso (problema MC)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-Un anello luminoso è immaginato con l'aiuto di una lente sottile. La posizione e la dimensione del ring
-sono indicati nella figura di scala. La lunghezza focale $f$ della lente è di 15 cm e la lunghezza focale $f$ della lente è di 15 cm.
-lo spessore dell'anello può essere trascurato.
-20.0 cm
-Lenti
-a) Axi ottica
+Problema 5 Immagine di un anello luminoso (problema a scelta multipla)
+(5.0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Stefan Petersen)
+
+Un anello luminoso viene immaginato con l'aiuto di una lente sottile. La posizione e le dimensioni dell'anello sono indicate nella figura in scala. La lunghezza focale $f$ della lente è 15 cm e lo spessore dell'anello può essere trascurato.
+
+20,0 cm
+Asse ottico della lente
 $f$
 $f$
 Anello
@@ -990,30 +972,30 @@ A
 B
 C
 D
+
 Il rapporto tra la lunghezza del segmento da B a D e la lunghezza del segmento da A a C è 1.
-Qual è il rapporto tra i punti corrispondenti nell'immagine del segmento
-- Un anello?
-A 0.6
-B 1.0
-C 1.8
-D 2.0
+Qual è il rapporto tra le lunghezze dei segmenti corrispondenti nell'immagine dell'anello?
+A 0,6
+B 1,0
+C 1,8
+D 2,0
+
 Soluzione
 Calcoli e spiegazioni
-Per la soluzione, viene utilizzato il comportamento di imaging di lenti sottili per i raggi parazziali.
-Solution Variant 1 - One way to solve this is the construction of the image points of A, B, C
-e D. Per questo, come illustrato in Figura 2 per la costruzione del punto di immagine di A, il
-le tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tracce di tra tra tra tracce di tra tra tracce di tracce di tra tracce di tracce di tra tracce di tra tracce di tracce di tra tra tra tra tracce di tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra tra di quelle possono:
-• i raggi attraverso il centro della lente non sono deflessi,
-• Raggi che corrono paralleli all'asse ottico sul lato dell'oggetto passano attraverso il
-punto focale dopo la lente,
-• I raggi che passano attraverso il punto focale prima della lente correntano parallele all'asse ottico sul lato dell'immagine.
-Con almeno due raggi di questo tipo, il corrispondente punto di immagine può essere costruito per ogni punto sull'anello. La figura 2 mostra l'immagine dell'anello costruito in questo modo.
-The sought segment ratio $|B'D'|/|A'C'|$ can then be read off from the scale sketch as
-$$\frac{|B'D'|}{|A'C'|} \approx \frac{40 \text{ cm}}{20 \text{ cm}} = 2{,}0 .$$
-(5.1)
-20.0 cm
-Lenti
-a) Axi ottica
+
+Per la risoluzione si utilizza il comportamento di imaging delle lenti sottili per raggi parassiali.
+
+Variante della soluzione 1 - Un modo per risolverlo è costruire i punti immagine di A, B, C e D. Per questo, come mostrato nella Figura 2 per la costruzione del punto immagine di A, si possono utilizzare i percorsi dei seguenti raggi distintivi:
+• I raggi che passano per il centro della lente non sono deviati,
+• I raggi paralleli all'asse ottico sul lato oggetto passano per il fuoco dopo la lente,
+• I raggi che passano per il fuoco prima della lente proseguono paralleli all'asse ottico sul lato immagine.
+
+Con almeno due di questi raggi, si può costruire il punto immagine corrispondente per ciascun punto dell'anello. La Figura 2 mostra l'immagine dell'anello costruita in questo modo.
+
+Il rapporto tra i segmenti cercato $|B'D'|/|A'C'|$ può quindi essere letto dalla figura in scala come
+$$\frac{|B'D'|}{|A'C'|} \approx \frac{40 \text{ cm}}{20 \text{ cm}} = 2{,}0 .$$ (5.1)
+20,0 cm
+Asse ottico della lente
 $f$
 $f$
 Anello
@@ -1025,50 +1007,46 @@ $A'$
 $B'$
 $C'$
 $D'$
-Fig. 2. Solution sketch per l'immaginaggio dell'anello. Lo spessore del ring non è
-Le immagini sono state prese in considerazione.
-Se noto, si può inoltre incorporare nella costruzione che punta a
-Distanza di doppio della distanza focale dal piano dell'obiettivo sono immaginate dalla lente su punti la cui distanza dal piano dell'obiettivo è altrettanto doppia della distanza focale.
-Quindi, per il teorema dell'intercettazione, la lunghezza del segmento verticale $A'C'$ deve essere uguale alla lunghezza di
-segmento AC.
-Solution Variant 2 - Alternativamente, l'equazione di imaging per thin lenses insieme con il
-E' possibile usare un'equazione di ingrandimento. Let $(x, y)$ denote le coordinate di un punto oggetto nel sistema di coordinate del numero nel problema e $(x', y')$ le coordinate del
-punto di immagine corrispondente. Lasciate che l'origine del sistema di coordinate sia al centro della lente
-e l'asse $x$ corre lungo l'asse ottico da sinistra a destra.
-Poi, con la distanza focale $f$ del lente, le equazioni di imaging e magnificazione si tengono
-$$\frac{1}{f} = -\frac{1}{x} + \frac{1}{x'} \quad \text{and} \quad \frac{y'}{y} = \frac{x'}{x} .$$
-(5.2)
-Il segno meno nell'equazione di immagine è dovuto alla scelta del sistema di coordinate,
-in which points on the ring have a negative $x$-coordinate despite a positive object distance. From (5.2) follows for the image coordinates
-$$x' = \frac{f x}{f + x} \quad \text{and} \quad y' = \frac{f y}{f + x} .$$
-(5.3)
-Con questo, le coordinate delle immagini dei quattro punti A: $(-30{,}0,\ 17{,}5)$, B: $(-40{,}0,\ 7{,}5)$,
-C: $(-30{,}0,\ -2{,}5)$ and D: $(-20{,}0,\ 7{,}5)$ in cm can be determined as
-$$A' : (30{,}0,\ -17{,}5) \quad B' : (24{,}0,\ -4{,}5) \quad C' : (30{,}0,\ 2{,}5) \quad D' : (60{,}0,\ -22{,}5) .$$
-(5.4)
-Per il rapporto ricercato dei segmenti, questo dà
-$$\frac{|B'D'|}{|A'C'|} \approx \frac{\sqrt{(60{,}0 - 24{,}0)^2 + (22{,}5 - 4{,}5)^2}}{20{,}0} \approx 2{,}0 .$$
-(5.5)
+Fig. 2. Schizzo della soluzione per l'immagine dell'anello. Lo spessore dell'anello non è stato considerato nell'immagine.
+
+Se noto, si può aggiungere alla costruzione il fatto che i punti situati a una distanza doppia della lunghezza focale dal piano della lente vengono immaginati dalla lente in punti la cui distanza dal piano della lente è anch'essa doppia della lunghezza focale.
+
+Così, per il teorema del taglio, la lunghezza del segmento verticale $A'C'$ deve essere uguale alla lunghezza del segmento AC.
+
+Variante della soluzione 2 - Alternativamente, si possono utilizzare l'equazione dell’immagine per lenti sottili insieme all’equazione del ingrandimento. Sia $(x, y)$ la coordinata di un punto oggetto nel sistema di coordinate della figura del problema e $(x', y')$ la coordinata del punto immagine corrispondente. Sia l’origine del sistema di coordinate nel centro della lente e l’asse $x$ diretto lungo l’asse ottico da sinistra a destra.
+
+Allora, con la lunghezza focale $f$ della lente, valgono le equazioni dell’immagine e del ingrandimento
+
+$$\frac{1}{f} = -\frac{1}{x} + \frac{1}{x'} \quad \text{and} \quad \frac{y'}{y} = \frac{x'}{x} .$$ (5.2)
+
+Il segno meno nell’equazione dell’immagine è dovuto alla scelta del sistema di coordinate, in cui i punti sull’anello hanno una coordinata $x$ negativa nonostante la distanza oggetto positiva. Dalla (5.2) si ricava per le coordinate dell’immagine
+
+$$x' = \frac{f x}{f + x} \quad \text{and} \quad y' = \frac{f y}{f + x} .$$ (5.3)
+
+Con questo, si possono determinare le coordinate delle immagini dei quattro punti A: $(-30{,}0,\ 17{,}5)$, B: $(-40{,}0,\ 7{,}5)$,
+C: $(-30{,}0,\ -2{,}5)$ e D: $(-20{,}0,\ 7{,}5)$ in cm come
+
+$$A' : (30{,}0,\ -17{,}5) \quad B' : (24{,}0,\ -4{,}5) \quad C' : (30{,}0,\ 2{,}5) \quad D' : (60{,}0,\ -22{,}5) .$$ (5.4)
+
+Per il rapporto cercato tra i segmenti, si ottiene infine
+$$\frac{|B'D'|}{|A'C'|} \approx \frac{\sqrt{(60{,}0 - 24{,}0)^2 + (22{,}5 - 4{,}5)^2}}{20{,}0} \approx 2{,}0 .$$ (5.5)
 Risposta corretta: D
-Nota: Risposta opzione A risultati se solo il cambiamento di ingrandimento al punto B è preso in considerazione. Risposta opzione B corrisponde al cambiamento di ingrandimento (non esistente) di un
-molto piccolo oggetto situato a una distanza di due volte la distanza focale di fronte alla lente.
-Risposta opzione C segue se in immagine solo il spostamento orizzontale dei punti di immagine è
-Il numero di modifiche è stato risolto in modo che la direzione di ingrandimento di $y$ non fosse considerata.
-Grading - Image of a Glowing Ring (problema MC)
+Osservazione: L'opzione A si ottiene considerando soltanto la variazione del ingrandimento nel punto B. L'opzione B corrisponde alla (inesistente) variazione dell’ingrandimento di un oggetto molto piccolo posto a una distanza pari al doppio della lunghezza focale davanti alla lente.
+L'opzione C deriva dal considerare soltanto lo spostamento orizzontale dei punti immagine, trascurando la variazione dell’ingrandimento nella direzione $y$.
+
+Valutazione - Immagine di un anello luminoso (problema a scelta multipla)
 Punti
-Usando le proprietà di imaging del thin lens (construzione metodo)
-(in inglese)
+Utilizzo delle proprietà di formazione dell’immagine della lente sottile (metodo costruttivo o formule)
 1.0
-Determinare i punti di immagine di B e D
+Determinazione dei punti immagine di B e D
 1.0
-Determinare i punti di immagine di A e C o affermare che $|A'C'| = |AC|$
+Determinazione dei punti immagine di A e C oppure affermazione che $|A'C'| = |AC|$
 1.0
 Calcolo del rapporto di lunghezza (5.1) o (5.5)
 1.0
-Stating the correct solution
+Affermazione della soluzione corretta
 1.0
 5.0
-
 
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p9_f3.png]]
@@ -1079,11 +1057,6 @@ Stating the correct solution
 *Longitudinal section of ring image*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Ray Tracing (metodo)|Ray Tracing]], [[Thin Lens & Mirror Equation (metodo)|Thin Lens & Mirror Equation]]
-**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Lens (object)|Lens]]
-**Fonte:** [Testo (PDF) — p.9](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1310,53 +1283,45 @@ Stating the correct solution
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6 Twigli su un viaggio (problema MC)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Thomas Hellerl)
-Max e Sepp sono gemelli. Il loro comune ventesimo compleanno, Max parte dalla Terra
-on a journey into space at the constant speed $\beta c$, where $c$ is the speed of light
-e $0 < \beta < 1$. Esattamente cinque anni dopo, suo fratello gemello Sepp anche parte e vola dopo Max a
-$v = 0{,}8 c$.
-Il giorno in cui Sepp raggiunge suo fratello Max, scoprono che entrambi possono ancora celebrare
-il loro compleanno insieme, ma sono confusi. Max festeggia il suo 36° compleanno.
-Che compleanno celebra Sepp?
-Un Sepp celebra il suo 30° compleanno.
-B. Sepp celebra il suo 32° compleanno.
-C Sepp celebra il suo 34° compleanno.
-D Sepp celebra il suo 40° compleanno.
+Problema 6 Gemelli in viaggio (problema a scelta multipla)
+(5,0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Thomas Hellerl)
+
+Max e Sepp sono gemelli. Nel loro comune ventesimo compleanno, Max parte dalla Terra verso lo spazio con velocità costante $\beta c$, dove $c$ è la velocità della luce e $0 < \beta < 1$. Esattamente cinque anni dopo, suo fratello gemello Sepp parte anch'egli e lo insegue con velocità $v = 0{,}8 c$.
+
+Nel giorno in cui Sepp raggiunge suo fratello Max, scoprono entrambi di poter nuovamente festeggiare insieme il compleanno, ma sono sorpresi. Max festeggia il suo trentaseiesimo compleanno.
+
+Quale compleanno festeggia Sepp?
+A Sepp festeggia il suo trentesimo compleanno.
+B Sepp festeggia il suo trendicesimo compleanno.
+C Sepp festeggia il suo trentaquattresimo compleanno.
+D Sepp festeggia il suo quarantesimo compleanno.
+
 Soluzione
 Calcoli e spiegazioni
-Let $t$ denota il tempo di distanza tra la partenza di Max e l'evento di cattura misurato nel frame terrestre.
-$t' = 16$ a è la durata corrispondente che Max registra nel suo frame.
-I seguenti calcoli sono effettuati nell'unità a (anni). A causa della dilatazione del tempo
-che contiene:
-$$t' = t \sqrt{1 - \beta^2} = \sqrt{t^2 - (\beta t)^2} \quad \text{i.e.} \quad t'^2 = 256 = t^2 - (\beta t)^2 .$$
-(6.1)
+Sia $t$ il lasso di tempo tra la partenza di Max e l'evento del raggiungimento, misurato nel sistema di riferimento della Terra.
+Sia $t' = 16$ la durata corrispondente registrata da Max nel suo sistema di riferimento.
+I seguenti calcoli vengono effettuati nell'unità a (anni). A causa della dilatazione del tempo vale:
+$$t' = t \sqrt{1 - \beta^2} = \sqrt{t^2 - (\beta t)^2} \quad \text{i.e.} \quad t'^2 = 256 = t^2 - (\beta t)^2 .$$ (6.1)
 $t$
 $x$
-World line of Max
-World line of Sepp
-Evento di cattura
-Fig. 3. World lines of the twins as seen from earth (rappresentazione qualitativa)
-Nella figura 3, le linee del mondo dei due gemelli viste dalla Terra, I loro rispettivi
-Le distanze dalla Terra in funzione del tempo sono mostrate qualitativamente. Quando Sepp si incontra con suo fratello,
-Entrambi devono essere alla stessa distanza dalla Terra.
-Per il luogo dell'evento catch-up, deve quindi tenere che:
-$$\beta c t = 0{,}8 c (t - 5) \quad \text{i.e.} \quad \beta t = 0{,}8 t - 4 .$$
-(6.2)
-Inserting (6.2) into (6.1) produce un'equazione quadratica da cui $t$ può essere determinata. It
-- Teniamo
-$$256 = t^2 - (0{,}8 t - 4)^2 = t^2 - 0{,}64 t^2 + 6{,}4 t - 16$$
-e così
-$$0 = 0{,}36 t^2 + 6{,}4 t - 272 .$$
-(6.3)
-Come la soluzione di questa equazione quadrata si ottiene
-$$t = \frac{-6{,}4 \pm \sqrt{6{,}4^2 + 4 \cdot 0{,}36 \cdot 272}}{0{,}72} = \frac{-6{,}4 \pm 20{,}8}{0{,}72} = 20 .$$
-(6.4)
-La soluzione matematicamente possibile negativa non è fisicamente significativa qui. Per Sepp's
-age at the catch-up event, one therefore obtains, again because of time dilation,
-$$20 + 5 + (20 - 5) \sqrt{1 - 0{,}8^2} = 25 + 15 \cdot 0{,}6 = 25 + 9 = 34 .$$
-(6.5)
+
+Linea di mondo di Max
+Linea di mondo di Sepp
+Evento del raggiungimento
+
+Fig. 3. Linee di mondo dei gemelli viste dalla Terra (rappresentazione qualitativa).
+
+Nella Figura 3 sono mostrate qualitativamente le linee di mondo dei due gemelli viste dalla Terra, ovvero la rispettiva distanza dalla Terra in funzione del tempo. Quando Sepp raggiunge suo fratello, entrambi devono trovarsi alla stessa distanza dalla Terra.
+Per la posizione dell'evento di incontro vale pertanto che:
+$$\beta c t = 0{,}8 c (t - 5) \quad \text{i.e.} \quad \beta t = 0{,}8 t - 4 .$$ (6.2)
+Sostituendo (6.2) in (6.1) si ottiene un'equazione quadratica da cui può essere determinato $t$. Vale infatti
+$$256 = t^2 - (0{,}8 t - 4)^2 = t^2 - 0{,}64 t^2 + 6{,}4 t - 16$$ e quindi
+$$0 = 0{,}36 t^2 + 6{,}4 t - 272 .$$ (6.3)
+Come soluzione di questa equazione quadratica si ottiene
+$$t = \frac{-6{,}4 \pm \sqrt{6{,}4^2 + 4 \cdot 0{,}36 \cdot 272}}{0{,}72} = \frac{-6{,}4 \pm 20{,}8}{0{,}72} = 20 .$$ (6.5)
+La soluzione matematicamente anch'essa possibile ma negativa non ha significato fisico in questo contesto. L'età di Sepp all'evento di incontro è quindi, ancora una volta a causa della dilatazione del tempo,
+$$20 + 5 + (20 - 5) \sqrt{1 - 0{,}8^2} = 25 + 15 \cdot 0{,}6 = 25 + 9 = 34 .$$ (6.5)
 2
 4
 6
@@ -1373,43 +1338,37 @@ $$20 + 5 + (20 - 5) \sqrt{1 - 0{,}8^2} = 25 + 15 \cdot 0{,}6 = 25 + 9 = 34 .$$
 8
 10
 12
-$t$ in a
-$x$ in ly
-World line of Max
-World line of Sepp
-Evento di cattura
-Fig. 4. World lines of the twins as seen from earth (rappresentazione quantitativa)
-Sepp quindi celebra solo il suo 34° compleanno, anche se suo fratello gemello ha già il suo 36° compleanno.
-Corretta risposta: C
-Grading - Twins on a Journey (problema MC)
+$t$ in un
+$x$ in anni luce
+Linea mondiale di Max
+Linea mondiale di Sepp
+Evento di incontro
+Fig. 4. Linee mondiali dei gemelli viste dalla Terra (rappresentazione quantitativa).
+Sepp celebra pertanto soltanto il suo 34º compleanno, anche se il fratello gemello ha già compiuto 36 anni.
+Risposta corretta: C
+Valutazione - Gemelli in viaggio (problema a scelta multipla)
 Punti
-Using time dilation as in (6.1)
-1.0
-Comparando le distanze percorse (6.2)
-1.0
-Solving the system of equations for $\beta$ and $t$
-1.0
-Corretto approccio per determinare l'età di Sepp (6,5)
-1.0
-Stating the correct solution
-1.0
-5.0
-
+Utilizzo della dilatazione del tempo come in (6.1)
+1,0
+Confronto delle distanze percorse (6.2)
+1,0
+Risoluzione del sistema di equazioni per $\beta$ e $t$
+1,0
+Approccio corretto per determinare l'età di Sepp (6.5)
+1,0
+Affermazione della soluzione corretta
+1,0
+5,0
 
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p12_f5.png]]
-*World lines of twins from Earth (qualitativo) *
+*World lines of twins from Earth (qualitative)*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p13_f6.png]]
-*World lines of twins from Earth (quantitative) *
+*World lines of twins from Earth (quantitative)*
 <!--fig:end-->
 
-**Topic:** [[Special Relativity]]
-**Metodi:** [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.12](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1638,103 +1597,82 @@ law of conservation of energy, state this briefly.
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Campo magnetico di un filo battuto (problema MC)
-(5,0 p. d.)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-Da un pezzo di filo a quadrato
-il conduttore è bent che, come mostrato, può essere
-understood as the edges of one face of a cube with edge length $a$. Una fonte di tensione con una tensione $U$ è
-collegato alle estremità del conduttore. Come risultato, un corrente di forza corrente $I$ fluisce attraverso il conduttore.
+Problema 7 Campo magnetico di un filo piegato (problema a scelta multipla)
+(5,0 punti)
+(Gruppo di problemi della Olimpiade di Fisica - Stefan Petersen)
+
+Da un pezzo di filo viene piegato un conduttore quadrato che, come mostrato accanto, può essere interpretato come gli spigoli di una faccia di un cubo con lunghezza del lato $a$. Un generatore di tensione con tensione $U$ viene collegato agli estremi del conduttore. Di conseguenza, una corrente di intensità $I$ fluisce nel conduttore.
+
 $I$
 $U$
 $B$
 $a$
-La corrente genera un campo magnetico nelle vicinanze del conduttore. Al centro del cubo
-questo ha una densità di flusso magnetico di magnitudo $B$. La densità del flusso magnetico è un
-misura della forza del campo magnetico.
-Un altro pezzo del filo è ora bent così
-che corre lungo i bordi del cubo mostrato
-- Accanto. A voltage source with a voltage $U$
-è anche collegato alle estremità del filo. Come risultato, un corrente $I'$ fluisce attraverso il
-- Conductor.
-La resistenza dei lead può essere trascurata in entrambe le configurazioni.
+
+La corrente genera un campo magnetico nelle vicinanze del conduttore. Nel centro del cubo, questo ha una densità di flusso magnetico di modulo $B$. La densità di flusso magnetico è una misura dell'intensità del campo magnetico.
+
+Un altro pezzo di filo viene ora piegato in modo da seguire gli spigoli del cubo mostrato accanto. Un generatore di tensione con tensione $U$ viene collegato in modo analogo agli estremi del filo. Di conseguenza, una corrente $I'$ fluisce nel conduttore.
+
+La resistenza dei cavi di collegamento può essere trascurata in entrambe le configurazioni.
+
 $I'$
 $U$
 $B' = ?$
 $a$
-What is now the magnitude $B'$ of the magnetic flux density of the magnetic field generated by the current
-- Al centro del cubo?
+
+Qual è ora il modulo $B'$ della densità di flusso magnetico del campo magnetico generato dalla corrente nel centro del cubo?
 A 0
 B $\frac{2}{\sqrt{3}} B$
 C $\frac{3}{2} B$
 D $\sqrt{3} B$
+
 Soluzione
 Calcoli e spiegazioni
-Un conduttore diretto che porta una corrente genera intorno a esso un campo magnetico la cui densità di flusso magnetico è proporzionale alla forza corrente e le cui linee di campo magnetico sono cerchi concentrici
-- intorno al conduttore. Quando sono presenti diversi conduttori di corrente, il
-superposizione dei campi magnetici - una superposizione si svolge.
-In prima configurazione considerata, questa superposizione conduce al centro del cubo a
-a magnetic field$^1$ oriented perpendicular to the face bounded by the conductor.
-A prima vista, la seconda configurazione sembra considerabilmente più complicata. Con le seguenti
-Tuttavia, questa situazione può essere ridotta al primo.
-La corrente nei bordi del cubo non cambia
-se immaginiamo correnti aggiuntive e
-Considerare la configurazione mostrata insieme a tre quadrati di conduttori, ognuno portando
-a current of strength $I'$. Le correnti in
-le estremità sono direttamente collegate al basso angolo sinistro
-cancel out, in modo che il flusso di corrente in
-Cube edges è identico alla seconda configurazione
-- Non è un problema.
-Ora, tuttavia, ci sono tre circuiti di conduttore come nel primo caso,
-per il quale conosciamo già la densità del flusso magnetico.
-Si deve notare che le densità di flusso sono
-perpendicolare ai loops conduttori e quindi perpendicolare
-- E' un'altra cosa. Pertanto, la magnitudo dei risultati di
-a vector addition of identical, perpendicular vectors as $\sqrt{3}$ of the flux density of one conductor loop.
+Un conduttore rettilineo percorso da corrente genera intorno a sé un campo magnetico la cui densità del flusso magnetico è proporzionale all'intensità della corrente e le cui linee del campo magnetico sono circonferenze concentriche rispetto al conduttore. Quando sono presenti diversi conduttori percorsi da corrente, i campi magnetici si sovrappongono – avviene una sovrapposizione.
+
+Nella prima configurazione considerata, tale sovrapposizione porta al centro del cubo un campo magnetico $^1$ orientato perpendicolarmente alla faccia delimitata dal conduttore.
+
+Alla prima vista, la seconda configurazione sembra notevolmente più complessa. Tuttavia, con il seguente ragionamento, questa situazione può essere ridotta alla prima.
+
+La corrente nei lati del cubo non cambia se immaginiamo correnti aggiuntive e consideriamo la configurazione mostrata accanto, con tre anelli conduttori quadrati, ciascuno percorso da una corrente di intensità $I'$. Le correnti nei lati direttamente collegati all'angolo in basso a sinistra si annullano, per cui il flusso di corrente nei lati del cubo è identico alla seconda configurazione del problema.
+
+Ora, tuttavia, ci sono tre anelli conduttori come nel primo caso, per i quali già conosciamo la densità del flusso magnetico.
+
+Si deve osservare che le densità del flusso sono ciascuna perpendicolari agli anelli conduttori e quindi perpendicolari tra loro. La grandezza risulta pertanto da un'addizione vettoriale di vettori uguali e mutuamente perpendicolari, come indicato in $\sqrt{3}$ della densità del flusso di un singolo anello conduttore.
+
 $I'$
 $I'$
 $I'$
 $B' = ?$
 $a$
-Fig. 5. Sketch of the equivalent configuration for
-Il secondo conduttore con correnti uguali nei bordi del cubo. I singoli circuiti di conduttore sono colorati in modo diverso e
-leggermente allontanati l'uno dall'altro per una migliore chiarezza.
-Inoltre, il corrente nei conduttori è, a causa dell'aumento della lunghezza del filo e del risultante
-maggiore resistenza totale del filo, inferiore a $I$. In prima configurazione il
-la lunghezza del filo è $4 a$, mentre ora è $6 a$. Questo porta a una resistenza che è $3/2$ come grande
-Come prima. Poiché la volta applicata è identica in entrambi i casi, la corrente $I'$
-è, secondo la legge di Ohm, solo $2/3\ I$. Ma poiché la densità del flusso magnetico è proporzionale al
-La forza corrente, anche essa è solo $2/3$ grande come a una forza corrente $I$.
-In generale, questo dà per la grandezza ricercata della densità del flusso magnetico
-$$B' = \frac{2}{3} \sqrt{3} B = \frac{2}{\sqrt{3}} B .$$
-(7.1)
-La densità di flusso è orientata lungo uno spazio diagonale del cubo verso il retro, superiore
-Corno destro.
-Risposta corretta: B
-Grading - Magnetic Field of a Bent Wire (problema MC)
-Punti
-Recognizing the superposition of the magnetic fields of individual straight conductors
-0.5
-Using a suitable equivalent configuration or another fruitful idea to
-determinare $B'$
-2.0
-Accounting for the vector addition of the contributions to the flux density
-0.5
-Contabilità della proporzionalità della densità di flusso alla forza corrente
-0.5
-Recognizing that the current strength is reduced to $\frac{2}{3} I$
-0.5
-Stating the correct solution
-1.0
-5.0
-$^1$The magnetic flux density $B$ can also be computed explicitly with the help of the Biot-Savart law and is
-$B = \frac{2 \mu_0 I}{\pi a} \sin \arctan \sqrt{2}$. Tuttavia, questo non è né necessario né richiesto per questo problema.
-Long problemi
-La Commissione ha inoltre presentato una serie di proposte di risoluzione sulle misure di sicurezza e di sicurezza. A differenza di
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivi la tua soluzione in questo modo:
-che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si utilizza il
-Legge di conservazione dell'energia, state brevemente.
+Fig. 5. Schizzo della configurazione equivalente per il secondo conduttore con correnti uguali sui bordi del cubo. I singoli anelli conduttori sono colorati diversamente e leggermente spostati l'uno rispetto all'altro per una migliore chiarezza.
 
+Inoltre, la corrente nei conduttori è minore rispetto a $I$, poiché la lunghezza del filo è aumentata e con essa la resistenza totale del filo. Nella prima configurazione, la lunghezza del filo è $4 a$, mentre ora è $6 a$. Ciò porta a una resistenza che risulta $3/2$ volte maggiore di prima. Poiché la tensione applicata è identica nei due casi, la corrente $I'$ risulta, per la legge di Ohm, soltanto $2/3\ I$. Ma poiché la densità del flusso magnetico è proporzionale all'intensità di corrente, anche essa risulta soltanto $2/3$ volte più grande rispetto al valore corrispondente a un'intensità di corrente $I$.
+
+Complessivamente, si ottiene per l'entità cercata della densità del flusso magnetico
+$$B' = \frac{2}{3} \sqrt{3} B = \frac{2}{\sqrt{3}} B .$$ (7.1)
+La densità del flusso è orientata lungo una diagonale spaziale del cubo verso l'angolo posteriore in alto a destra.
+
+Risposta corretta: B
+Valutazione - Campo magnetico di un filo piegato (problema a scelta multipla)
+Punti
+Riconoscere il sovrapporsi dei campi magnetici prodotti da singoli conduttori rettilinei
+0,5
+Utilizzare una configurazione equivalente idonea o un'altra idea fruttuosa per determinare $B'$
+2,0
+Tenere conto dell'addizione vettoriale dei contributi alla densità del flusso
+0,5
+Tenere conto della proporzionalità tra densità del flusso e intensità di corrente
+0,5
+Riconoscere che l'intensità di corrente si riduce a $\frac{2}{3} I$
+0,5
+Affermare la soluzione corretta
+1,0
+5,0
+$^1$La densità del flusso magnetico $B$ può essere calcolata esplicitamente con l'aiuto della legge di Biot-Savart ed è
+$B = \frac{2 \mu_0 I}{\pi a} \sin \arctan \sqrt{2}$. Tuttavia, ciò non è né necessario né richiesto per questo problema.
+
+Problemi lunghi
+Lavora sui seguenti tre problemi anche negli spazi appositi. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivi la tua soluzione in modo chiaro ma senza eccessi di lunghezza. Quindi, se per esempio utilizzi la legge di conservazione dell'energia, menzionala brevemente.
 
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p14_f7.png]]
@@ -1742,14 +1680,9 @@ Legge di conservazione dell'energia, state brevemente.
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p15_f8.png]]
-*Equivalente configurazione di conduttori in cubo*
+*Equivalent configuration of conductors in the cube*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Superposition Principle (metodo)|Superposition Principle]], [[Symmetry Argument (metodo)|Symmetry Argument]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wire (object)|Wire]]
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -2124,39 +2057,28 @@ Using the behavior of a spring and stating
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 8 Oscillazioni di ascensore
-(% di 20%)
-(Problema group of the PhysicsOlympiad - Stefan Petersen)
-Sophia e Alexander usano l'ascensore di un edificio alto per esperimenti di fisica. Quando l'ascensore arriva a una fermata a
-Scalda, saltano insieme dentro la cabina. Scoprono che la cabina dell'ascensore oscilla verticalmente immediatamente
-dopo l'atterraggio. Vogliono indagare più da vicino e utilizzare un sensore di accelerazione per determinare il periodo di tempo.
-di questa oscillazione. In tal modo, trovano che il
-Il periodo di oscillazione $T$ dipende dal livello di oscillazione
-L'ascensore è attualmente in funzione.
-Dovete indagare su questo comportamento con un modello semplice. Per questo, supponiamo che la cabina dell'ascensore appenda solo a un cavo di acciaio che si comporta come una molla elastica. The spring constant $k$ of the cable can be expressed by
-$$k = \frac{E A}{l} .$$
-(8.1)
-Qui $E$ denotes the elastic modulus of the steel cable, $A$ its
-area di sezione trasversale e $l$ la lunghezza del cavo. La massa del cavo
-è da trascurare rispetto al massa della cabina.
-Inoltre, supponiamo che la ruota di guida e il cavo siano
-completamente bloccato dal freno e che la friczione può altrimenti
-- Non lo so.
-8. (a) Determinazione di un'espressione per la forza di ripristino
-the elevator cabin when it is displaced by a small distance $x$
-con $|x| \ll l$ dalla sua rispettiva posizione di riposo nella direzione verticale. (punto 2.0)
-Counterweight
-Cappella
-Rottura di guida
-Cable
-Brake
-Fig. 6. Sketch dell'ascensore
-con sospensione.
-La forza di restauro porta ad un'oscillazione verticale della cabina dell'ascensore
-8.b) Indicare il periodo $T$ di questa oscillazione e esprimerlo in termini di quantità $E$, $A$, $l$
-and the total mass $m$ of the elevator cabin with the people inside. (Punto di riferimento)
-La tabella seguente mostra i periodi di oscillazione $T$ determinati da Sophia e Alexander per
-Una tappa a vari piani. Il piano terra (GF) è circa a livello del terreno e ogni piano è alto circa 3,0 m.
+Problema 8 Oscillazioni dell'ascensore (20,0 punti)
+(Gruppo di problemi della FisicaOlimpiade - Stefan Petersen)
+
+Sophia e Alexander utilizzano l'ascensore di un edificio alto per esperimenti di fisica. Quando l'ascensore si ferma al piano, saltano insieme all'interno della cabina. Scoprono che la cabina dell'ascensore oscilla verticalmente immediatamente dopo l'arresto. Vogliono studiare più da vicino questo fenomeno e usano un sensore di accelerazione per determinare il periodo di queste oscillazioni. In questo modo, scoprono che il periodo delle oscillazioni $T$ dipende dal piano in cui si trova attualmente l'ascensore.
+
+Devi investigare questo comportamento con un semplice modello. Per questo, supponi che la cabina dell'ascensore sia appesa soltanto a un cavo d'acciaio che si comporta come una molla elastica. La costante elastica $k$ del cavo può essere espressa da
+$$k = \frac{E A}{l} .$$ (8.1)
+dove $E$ rappresenta il modulo di elasticità del cavo d'acciaio, $A$ l'area della sezione trasversale del cavo e $l$ la lunghezza del cavo. La massa del cavo deve essere trascurata rispetto alla massa della cabina.
+
+Inoltre, supponi che la ruota motrice e il cavo siano completamente bloccati dal freno e che l'attrito possa essere trascurato in ogni altro caso.
+
+8.a) Determina un'espressione per la forza di richiamo sulla cabina dell'ascensore quando viene spostata di una piccola distanza $x$ con $|x| \ll l$ dalla rispettiva posizione di equilibrio nella direzione verticale. (2,0 punti)
+
+Contrappeso
+Cabina
+Ruota motrice
+Cavo
+Freno
+Fig. 6. Schizzo dell'ascensore con sospensione.
+La forza di richiamo determina un'oscillazione verticale della cabina dell'ascensore.
+8.b) Scrivere il periodo $T$ di quest'oscillazione e esprimerlo in termini delle grandezze $E$, $A$, $l$ e della massa totale $m$ della cabina dell'ascensore con le persone all'interno. (3,0 punti)
+La tabella seguente mostra i periodi di oscillazione $T$ determinati da Sofia e Alessandro per una fermata a vari piani. Il piano terra (GF) si trova approssimativamente al livello del suolo e ogni piano è alto circa 3,0 m.
 Piano
 18
 16
@@ -2190,52 +2112,38 @@ $T'$ / s
 0,48
 0,50
 0,53
-La riga inferiore della tabella con valori per $T'$ è necessaria solo nell'ultima parte del problema.
-8.c) Create a graph of $T^2$ as a function of the floor. Da questo, determinare il
-- l'altezza approssimativa dell'edificio. (6,0 p.p.)
-Anche i rapporti di Alexander e Sophie motivano il loro circolo di amici. Ripetono il
-esperimento in un altro giorno con un ulteriore peso di 500 kg nella cabina dell'ascensore
-- I due hanno molti amici. I periodi di oscillazione determinati in questo modo sono elencati come $T'$ nella tabella sopra.
-8.d) Usando i dati, determinare circa la massa $m$ della cabina dell'ascensore con Sophia
-E Alexander dentro. (7,0 p.s.)
-Il modello considerato è solo un approximato più o meno buono alla realtà.
-8.e) Indicare almeno due aspetti fisici che in realtà probabilmente portano a deviazioni dal modello. (punto 2.0)
+La riga inferiore della tabella con i valori per $T'$ è necessaria soltanto nell'ultima parte del problema.
+8.c) Costruire un grafico di $T^2$ in funzione del piano. Da questo, determinare l'altezza approssimativa dell'edificio. (6,0 punti)
+I resoconti di Alessandro e Sofia stimolano anche il loro cerchio di amici. Ripetono l'esperimento un altro giorno con una massa aggiuntiva di 500 kg nella cabina dell'ascensore
+- i due evidentemente hanno molti amici. I periodi di oscillazione determinati in questo modo sono riportati come $T'$ nella tabella sopra.
+8.d) Utilizzando i dati, determinare in modo approssimato la massa $m$ della cabina dell'ascensore con Sofia e Alessandro all'interno. (7,0 punti)
+Il modello considerato è soltanto un'approximazione più o meno buona della realtà.
+8.e) Indicare almeno due aspetti fisici che nella realtà probabilmente causano deviazioni dal modello. (2,0 punti)
 Soluzione
 8.a)
 Calcoli e spiegazioni
-In posizione di riposo, la forza di tensione del cavo e la forza gravitazionale sulla cabina
-- Esattamente equilibrio. La forza di restauro $F$ under a small displacement $x$ from the rest position is
-Pertanto causato solely by the stretching or relief of the cable e è, come con
-di sprucio elastico,
-$$F = -k x = -\frac{E A}{l} x .$$
-(8.2)
-Il cable length $l$ non indica la lunghezza totale del cable between cabin and counterweight, ma solo la lunghezza della parte verticale tra il freno della ruota di guida
-e la cabina dell'ascensore.
+Nella posizione di riposo, la forza di tensione del cavo e la forza gravitazionale agente sulla cabina si bilanciano esattamente. La forza di richiamo $F$ dovuta a una piccola perturbazione $x$ rispetto alla posizione di riposo è quindi causata esclusivamente dall'allungamento o dalla riduzione della tensione del cavo ed è, come in una molla elastica,
+$$F = -k x = -\frac{E A}{l} x .$$ (8.2)
+La lunghezza del cavo $l$ indica qui non la lunghezza totale del cavo tra cabina e contrappeso, ma soltanto la lunghezza della parte verticale compresa tra il freno della ruota motrice e la cabina dell'ascensore.
+
 8.b)
 Calcoli e spiegazioni
-La forza accelera la cabina di massa totale $m$ according to the equation of motion
-$$F = m \ddot{x} = -k x$$
-e così
-$$\ddot{x} = -\frac{E A}{m l} x .$$
-(8.3)
-This is the equation of motion of a harmonic oscillation with angular frequency
-$$\omega = \sqrt{\frac{E A}{m l}} .$$
-(8.4)
-Per il periodo $T$ dell'oscillazione, questo dà
-$$T = \frac{2 \pi}{\omega} = 2 \pi \sqrt{\frac{m l}{E A}} .$$
-(8.5)
+La forza accelera la cabina di massa totale $m$ secondo l'equazione del moto
+$$F = m \ddot{x} = -k x$$ e quindi
+$$\ddot{x} = -\frac{E A}{m l} x .$$ (8.3)
+Questa è l'equazione del moto di un'oscillazione armonica con frequenza angolare
+$$\omega = \sqrt{\frac{E A}{m l}} .$$ (8.4)
+Per il periodo $T$ dell'oscillazione si ottiene allora
+$$T = \frac{2 \pi}{\omega} = 2 \pi \sqrt{\frac{m l}{E A}} .$$ (8.5)
+
 8.c)
 Calcoli e spiegazioni
-Per la lunghezza del cavo $l = 0$, il periodo $T$ secondo (8.5) diventa 0 s. Questo è approssimativamente,
-tipicamente fino a pochi metri per l'ascensore macchina stanza, il caso all'ultimo
-dell'edificio. Per stimare l'altezza del edificio, la posizione
-di cui la lunghezza del cavo è pari a zero è quindi ricercata. Questo può essere determinato
-Graficamente.
-Dal punto di vista dell'equazione (8.5), uno ottiene per il quadrato del periodo
-$$T^2 = \frac{4 \pi^2 m l}{E A} .$$
-(8.6)
-La quantità $T^2$ dipende quindi linearmente (affinamente) dalla lunghezza del cavo e quindi anche dal pavimento.
-La tabella seguente dà i quadrati dei periodi $T$ e $T'$.
+Per la lunghezza del cavo $l = 0$, il periodo $T$ secondo (8.5) diventa 0 s. Ciò è approssimativo, tipicamente fino a pochi metri per la sala macchine dell'ascensore, nel caso estremo in cima all’edificio. Per stimare l'altezza dell'edificio, si cerca quindi la posizione della cabina per cui la lunghezza del cavo è nulla. Tale posizione può essere determinata graficamente.
+Dall’equazione (8.5) si ottiene per il quadrato del periodo
+$$T^2 = \frac{4 \pi^2 m l}{E A} .$$ (8.6)
+La grandezza $T^2$ dipende quindi (affinamente) linearmente dalla lunghezza del cavo e, di conseguenza, anche dal piano.
+La seguente tabella fornisce i quadrati dei periodi $T$ e $T'$.
+
 Piano
 18
 16
@@ -2246,7 +2154,8 @@ Piano
 6
 4
 2
-GF
+P.G.
+
 $T$ / s
 0,21
 0,23
@@ -2258,6 +2167,7 @@ $T$ / s
 0,38
 0,40
 0,42
+
 $T^2$ / s$^2$
 0,043
 0,052
@@ -2269,6 +2179,7 @@ $T^2$ / s$^2$
 0,141
 0,162
 0,18
+
 $T'$ / s
 0,24
 0,30
@@ -2280,6 +2191,7 @@ $T'$ / s
 0,48
 0,50
 0,53
+
 $T'^2$ / s$^2$
 0,059
 0,092
@@ -2291,7 +2203,9 @@ $T'^2$ / s$^2$
 0,231
 0,25
 0,276
-La figura 7 mostra i dati di conseguenza.
+
+La Figura 7 mostra i dati di conseguenza.
+
 2
 4
 6
@@ -2302,59 +2216,49 @@ La figura 7 mostra i dati di conseguenza.
 0,20
 0,25
 0,30
+
 $n$
-$T^2$ / s$^2$ or $T'^2$ / s$^2$
-Fig. 7. grafico dei periodi quadrati $T^2$ (blu) e $T'^2$ (orange) dell'oscillazione della cabina dell'ascensore come funzione del pavimento $n$ in cui l'ascensore è situato,
-con linee di miglior forma.
-La linea blu best-fit per i valori di $T^2$ intersecta l'asse $x$ al pavimento
-$n = 23 \pm 1$. Con la data altezza del pavimento di $h = 3{,}0$ m, questo dà come un
-estimate for the building height $H$
-$$H = (23 \pm 1) \cdot h \approx (69 \pm 3) \text{ m} .$$
-(8.7)
-Non ci sono ulteriori altezze per la camera dell'ascensore che sono state prese in considerazione. Questo
-Questo è un dato che può portare ad altre stime.
+$T^2$ / s$^2$ o $T'^2$ / s$^2$
+
+Fig. 7. Grafico dei quadrati dei periodi $T^2$ (blu) e $T'^2$ (arancione) delle oscillazioni della cabina dell’ascensore in funzione del piano $n$ su cui si trova l’ascensore, con le rette di adattamento ottimale.
+
+La retta di adattamento ottimale blu per i valori di $T^2$ interseca l’asse $x$ al piano $n = 23 \pm 1$. Con l’altezza del piano data da $h = 3{,}0$ m, si ottiene come stima per l’altezza dell’edificio $H$
+$$H = (23 \pm 1) \cdot h \approx (69 \pm 3) \text{ m} .$$ (8.7)
+
+Non è stata considerata alcuna altezza aggiuntiva per la sala macchine dell’ascensore. Questo può portare anche a stime diverse.
+
 8.d)
 Calcoli e spiegazioni
-Secondo il problema, la massa oscillante cambia di $m' = 500$ kg a causa del
-- Altri persone nell'ascensore. Secondo (8.6), questo cambia anche la slope $b$
-di comportamento lineare del periodo quadrato. Per questo si dice:
-$$b = -\frac{4 \pi^2 m}{E A} \quad \text{and with additional mass} \quad b' = -\frac{4 \pi^2 (m + m')}{E A} .$$
-(8.8)
-Dal rapporto tra le due piste si ottiene
-$$\frac{b'}{b} = \frac{m + m'}{m} \quad \text{i.e.} \quad m = m' \frac{b}{b' - b} .$$
-(8.9)
-Le due piste possono essere determinate dal grafico come
-$$b = \frac{-0{,}175\ \text{s}^2}{22{,}6 \cdot h} \approx -0{,}774 \cdot 10^{-2}\ \text{s}^2/\text{h}$$
-e
-$$b' = \frac{-0{,}270\ \text{s}^2}{22{,}6 \cdot h} \approx -1{,}21 \cdot 10^{-2}\ \text{s}^2/\text{h} .$$
-(8.10)
-Per la massa dell'ascensore con Sophie e Alexander, questo finalmente dà
-$$m = m' \frac{b}{b' - b} = 500 \text{ kg} \cdot \frac{7{,}74 \cdot 10^{-3}}{4{,}37 \cdot 10^{-3}} \approx 890 \text{ kg} .$$
-(8.11)
-A causa delle incertezze nel determinare la pendenza e la sua grande influenza,
-In particolare, sulla differenza nel denominatore di (8.11), i risultati possono deviare notevolmente
-dal valore di questo.
+
+Secondo il problema, la massa in oscillazione varia di $m' = 500$ kg a causa delle persone aggiuntive nell’ascensore. Secondo (8.6), questo modifica anche la pendenza $b$ del comportamento lineare del quadrato del periodo. Per questo vale:
+$$b = -\frac{4 \pi^2 m}{E A} \quad \text{and with additional mass} \quad b' = -\frac{4 \pi^2 (m + m')}{E A} .$$ (8.8)
+
+Dal rapporto delle due pendenze si ottiene
+$$\frac{b'}{b} = \frac{m + m'}{m} \quad \text{i.e.} \quad m = m' \frac{b}{b' - b} .$$ (8.9)
+
+Le due pendenze possono essere determinate dal grafico come
+$$b = \frac{-0{,}175\ \text{s}^2}{22{,}6 \cdot h} \approx -0{,}774 \cdot 10^{-2}\ \text{s}^2/\text{h}$$ e
+$$b' = \frac{-0{,}270\ \text{s}^2}{22{,}6 \cdot h} \approx -1{,}21 \cdot 10^{-2}\ \text{s}^2/\text{h} .$$ (8.10)
+Per la massa dell'ascensore con Sophie e Alexander, si ottiene infine
+$$m = m' \frac{b}{b' - b} = 500 \text{ kg} \cdot \frac{7{,}74 \cdot 10^{-3}}{4{,}37 \cdot 10^{-3}} \approx 890 \text{ kg} .$$ (8.11)
+A causa delle incertezze nel determinare la pendenza e del suo forte impatto, in particolare sulla differenza al denominatore della (8.11), i risultati possono discostarsi notevolmente da questo valore.
+
 8.e)
 Calcoli e spiegazioni
-Il modello riflette la realtà solo in un modo fortemente semplificato e trascura una serie di aspetti
-La Commissione ha adottato una decisione che non è stata adottata. Questi includono:
-• Il sistema oscillatore è più complesso di un'oscillazione di massa rigida su un singolo
-Salta. Sia la cabina dell'ascensore che l'attaccamento alla ruota di guida
-Non sono completamente rigide, ma possono oscillare.
-• L'oscillazione è effettivamente vaporizzata, che cambia anche il periodo.
-• Modellare il cavo come completamente elastico e quasi senza massa
-La realtà non è necessariamente accurata.
-• L'oscillazione non deve essere completamente verticale.
-Nota: Parts of the problem can be found in similar form in the article Vogt, P., Kuhn, J., Müller,
-A. (2014). Considerare l'ascensore come un pendolo di piuma. Lezione di fisica n. 140. In particolare, il
-I dati sono basati su quelli forniti in quel articolo.
-Classificazione - Oscillazioni di ascensore
+Il modello riflette la realtà soltanto in modo fortemente semplificato e trascura numerosi aspetti rilevanti in pratica. Tra questi figurano:
+• Il sistema oscillante è più complesso di una massa rigida che oscilla su una singola molla. Sia la cabina dell'ascensore sia il collegamento con la ruota motrice non sono completamente rigidi, ma possono anch'essi oscillare.
+• L’oscillazione è in realtà smorzata, il che modifica anche il periodo.
+• Modellare il cavo come completamente elastico e quasi privo di massa nella realtà non è necessariamente accurato.
+• L’oscillazione non sarà completamente verticale.
+
+Nota: Parti del problema sono presenti in forma simile nell’articolo Vogt, P., Kuhn, J., Müller, A. (2014). Betrachtung des Aufzugs als Federpendel. Unterricht Physik Nr. 140. In particolare, i dati si basano su quelli forniti in tale articolo.
+
+Valutazione - Oscillazioni dell'ascensore
 Punti
 8.a)
-Riconoscendo che la forza gravitazionale non gioca alcun ruolo
-1.0
-Using the behavior of a spring and stating
-
+Riconoscere che la forza gravitazionale non ha alcun ruolo
+1,0
+Utilizzare il comportamento di una molla e affermare
 
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p16_f9.png]]
@@ -2362,14 +2266,9 @@ Using the behavior of a spring and stating
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126/55_IPhO_2025_2Rd_Aufg_Lsg_web_20241126_p19_f10.png]]
-*Grafico T2 di periodi di oscillazione di ascensore*
+*Graph T² of elevator oscillation periods*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Elasticity & Materials]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Graph Linearization (metodo)|Graph Linearization]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Graph Linearization (competenza)|Graph Linearization]], [[Experimental Data Analysis (competenza)|Experimental Data Analysis]]
-**Objects:** [[Spring (object)|Spring]]
-**Fonte:** [Testo (PDF) — p.16](https://drive.google.com/file/d/1vB4HmSUJ5GCTMHpfaqizNQMAsWSWC2yB/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

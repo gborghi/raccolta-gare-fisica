@@ -630,18 +630,12 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 6 Cable coaxial (problema MC)
-(cfr.
-Come mostrato nella sezione incrociata sinistra adiacente,
-un cavo coaxial è costituito da un lungo
-cilindro con resistività
-$\rho_1$ surrounded by a hollow cylinder with resistivity $\rho_2 > \rho_1$. A corrente
-di magnitudo $I$ fluisce attraverso il cavo.
-Un secondo cavo coaxial, mostrato sulla destra,
-Sembra lo stesso dall'esterno come il primo, ma sul
-inside è composto da un solo materiale. La resistività di questo materiale è $\rho$ e
-il corrente nel secondo cavo è
-di tipo simile $I$.
+Problema 6 Cavo coassiale (problema a scelta multipla)
+(5 punti)
+
+Come mostrato nella sezione trasversale a sinistra, un cavo coassiale è costituito da un lungo cilindro sottile con resistività $\rho_1$ circondato da un cilindro cavo con resistività $\rho_2 > \rho_1$. Una corrente di intensità $I$ fluisce attraverso il cavo.
+Un secondo cavo coassiale, mostrato a destra, ha lo stesso aspetto esterno del primo, ma all'interno è formato da un solo materiale. La resistività di questo materiale è $\rho$ e la corrente nel secondo cavo è anch'essa $I$.
+
 $\rho_1$
 $\rho_2$
 A
@@ -651,29 +645,24 @@ $\rho$
 A
 B
 C
-Fig. 2. Cross-section of the first (left) and second
-(destra) cavo coaxial.
-A how many of the marked points A, B, and C do the magnetic fields
-produciti dal rispettivo cavo differ?
+
+Fig. 2. Sezione trasversale del primo (a sinistra) e del secondo (a destra) cavo coassiale.
+
+In quanti dei punti contrassegnati A, B e C i campi magnetici prodotti dai rispettivi cavi differiscono?
 A 0
 B 1
 C 2
 D 3
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
 
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben/53_IPhO_2023_2Rd_Aufgaben_p7_f4.png]]
 *Cross-section of two coaxial cables*
 <!--fig:end-->
 
-**Topic:** [[Magnetism]], [[Electromagnetism]]
-**Metodi:** [[Ampère's Law (metodo)|Ampère's Law]], [[Symmetry Argument (metodo)|Symmetry Argument]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Wire (object)|Wire]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1mon2WlFqN_uAImAm2fKQgcKMJdtVCjbP/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -778,50 +767,31 @@ that it is easy to follow but not unnecessarily long. So if, for example, you us
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Blocco di vetro
-(cfr.
-Un laser beam running in the plane of the drawing strikes a glass block (refractive index $n = 1{,}5$)
-con lunghezze laterali $a$ e $4a$ dalla sinistra ad un angolo di incidenza $\alpha = 30^\circ$. Come indicato nella not-to-scale
-Sketch in Figura 3, all'interno del blocco di vetro, finalmente colpisce esattamente
-- Il lato inferiore destro.
+Problema 7 Blocco di vetro (5 punti)
+Un fascio laser che si muove nel piano del disegno colpisce un blocco di vetro (indice di rifrazione $n = 1{,}5$) con lunghezze dei lati $a$ e $4a$ da sinistra con un angolo di incidenza $\alpha = 30^\circ$. Come indicato nello schizzo non in scala nella Figura 3, all'interno del blocco di vetro esso colpisce esattamente l'angolo in basso a destra.
 $4a$
 $a$
 $n = 1{,}5$
 $\alpha$
 $x$
-Fig. 3. Sketch non a scala del raggio laser nel blocco di vetro, vista laterale.
-Qual è la distanza $x$ del punto di ingresso dalla superficie di confine superiore del blocco?
-A
-$a \cdot \left( \sqrt{2} - 1 \right)$
+Fig. 3. Schizzo non in scala del fascio laser nel blocco di vetro, vista laterale.
+Qual è la distanza $x$ del punto di entrata dalla superficie superiore del blocco?
+A $a \cdot \left( \sqrt{2} - 1 \right)$
+B $a \cdot \left( 2 - \sqrt{3} \right)$
+C $a \cdot \dfrac{1 - \sqrt{2}}{2}$
+D $a \cdot \dfrac{1 - \sqrt{3}}{3}$
 
-B
-$a \cdot \left( 2 - \sqrt{3} \right)$
-
-C
-$a \cdot \dfrac{1 - \sqrt{2}}{2}$
-
-D
-$a \cdot \dfrac{1 - \sqrt{3}}{3}$
-
-Answer section
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivi il tuo metodo di soluzione in questo modo:
-che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si usa la legge della conservazione dell'energia, scrivete brevemente.
-
+Risposta corretta:
+Problemi a risposta lunga
+Svolgere i seguenti tre problemi anche negli spazi forniti. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivere brevemente il metodo risolutivo in modo chiaro ma non eccessivamente lungo. Ad esempio, se si utilizza la legge di conservazione dell'energia, indicarlo brevemente.
 
 <!--fig:start-->
 ![[_attachments/53_IPhO_2023_2Rd_Aufgaben/53_IPhO_2023_2Rd_Aufgaben_p8_f5.png]]
 *Laser beam in the glass block*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1mon2WlFqN_uAImAm2fKQgcKMJdtVCjbP/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

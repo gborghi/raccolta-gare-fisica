@@ -304,35 +304,37 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Oscillazione con un ostacolo (problema MC)
-(cfr.
-Un piccolo metal ball hangs, come disegnato
-alongside, from a thin string of length $L$ from
-Il soffitto. Quando questo pendolo di corda è deflected leggermente al lato e rilasciato, si svinge con
-a periodo di oscillazione $T = 1{,}0\ \text{s}$ in parallelo
-- Al muro.
-Now a nail is driven firmly into the wall at a distance of $\frac{3}{4}L$ from
-Il soffitto. Mentre swinging a destra, il pendolo di corda colpisce il
-nail and is obstructed by it. Il ballo
-è ora rilasciato dalla posizione mostrata sulla destra nella figura 2.
+Problema 3 Oscillazione con un ostacolo (problema a scelta multipla)
+(5 punti)
+
+Una piccola sfera metallica è appesa, come mostrato nel disegno accanto, a un filo sottile di lunghezza $L$ dal soffitto. Quando questo pendolo viene spostato leggermente di lato e rilasciato, oscilla con un periodo $T = 1{,}0\ \text{s}$ parallelo al muro.
+
+Ora viene piantato un chiodo nel muro a una distanza $\frac{3}{4}L$ dal soffitto. Durante la oscillazione verso destra, il pendolo colpisce il chiodo e ne viene ostacolato. La sfera viene ora rilasciata dalla posizione mostrata a destra nella Figura 2.
+
 $L$
-Nail
+Chiodo
 $\frac{3}{4}L$
-Figura 2: Sketch of the pendulum without (sinistra)
-e con il chiodo nel muro.
-Which of the following figures shows the position of the ball $1{,}5\ \text{s}$ after release?
+
+Figura 2: Disegno del pendolo senza (a sinistra) e con il chiodo nel muro (a destra).
+
+Quale delle seguenti figure mostra la posizione della sfera $1{,}5\ \text{s}$ dopo il rilascio?
+
 A
-Nail
+Chiodo
+
 B
-Nail
+Chiodo
+
 C
-Nail
+Chiodo
+
 D
-Nail
-Answer section
+Chiodo
+
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2020 - 2° round exam
+Risposta corretta:
+51ª IPhO 2020 - Esame della seconda fase
 Codice: Codice
 
 <!--fig:start-->
@@ -344,11 +346,6 @@ Codice: Codice
 *Four pendulum positions A-D*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]]
-**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Pendulum (object)|Pendulum]], [[Ball (object)|Ball]], [[Rope/String (object)|Rope/String]]
-**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1s177_CI0-6JKTkZHhfKpHXtxrCvEPfNt/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -695,18 +692,17 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 5 Decadimento radioattivo (problema MC)
-(cfr.
-In seguito, tre campioni radioattivi sono considerati. Inizialmente, a tempo $t = 0$,
-Sono costituiti al 100% da un singolo isotopo radioattivo, il rispettivo nucleide genitore. La prima
-attività of the samples is denoted by $A_0$ in each case. I prodotti di decadimento diretto,
-I nuclidi della figlia sono radioattivi e si decompongono. Any further subsequent decays are no longer
-considerato. I nuclidi genitori e figli dei tre campioni sono:
-Sample 1 : $^{226}\text{Ra}$ ($T_\text{Mutter} = 1600\ \text{a}$) $\to {}^{222}\text{Rn}$ ($T_\text{Tochter} = 3{,}8\ \text{d}$)
-Esemplare 2: $^{211}\text{Pb}$ ($T_\text{Mutter} = 36{,}1\ \text{min}$) $\to {}^{211}\text{Bi}$ ($T_\text{Tochter} = 2{,}14\ \text{min}$)
-Esemplare 3: $^{214}\text{Pb}$ ($T_\text{Mutter} = 26{,}8\ \text{min}$) $\to {}^{214}\text{Bi}$ ($T_\text{Tochter} = 19{,}9\ \text{min}$)
-Qui, $T_\text{Mutter}$ e $T_\text{Tochter}$ indicano le half-lives dei rispettivi nuclidi. The following graphs show the time evolution of the activities $A$ of both the parent nuclide and
-il daughter nuclide e l'attività totale dei tre campioni.
+Problema 5 Decadimento radioattivo (problema a scelta multipla)
+(5 punti)
+
+Nel seguito si considerano tre campioni radioattivi. Inizialmente, al tempo $t = 0$, essi sono costituiti al 100 % da un singolo isotopo radioattivo, il rispettivo nuclide madre. L'attività iniziale dei campioni è indicata con $A_0$ in ciascun caso. I prodotti di decadimento diretti, i nuclidi figli, sono a loro volta radioattivi e si decadono anch'essi. Ulteriori decadimenti successivi non sono più considerati. I nuclidi madre e figlio dei tre campioni sono:
+
+Campione 1 : $^{226}\text{Ra}$ ($T_\text{Mutter} = 1600\ \text{a}$) $\to {}^{222}\text{Rn}$ ($T_\text{Tochter} = 3{,}8\ \text{d}$)
+Campione 2 : $^{211}\text{Pb}$ ($T_\text{Mutter} = 36{,}1\ \text{min}$) $\to {}^{211}\text{Bi}$ ($T_\text{Tochter} = 2{,}14\ \text{min}$)
+Campione 3 : $^{214}\text{Pb}$ ($T_\text{Mutter} = 26{,}8\ \text{min}$) $\to {}^{214}\text{Bi}$ ($T_\text{Tochter} = 19{,}9\ \text{min}$)
+
+Qui, $T_\text{Mutter}$ e $T_\text{Tochter}$ indicano i rispettivi tempi di dimezzamento dei nuclidi. Le seguenti figure mostrano l'evoluzione temporale delle attività $A$ del nuclide madre, del nuclide figlio e dell'attività totale per i tre campioni.
+
 10
 20
 30
@@ -746,9 +742,11 @@ $t$
 $T_\text{Tochter}$
 $A$
 $A_0$
-Figura 4: Evoluzione temporale delle attività $A$ di entrambi i nuclidi genitori e dei nuclidi figli e dell'attività totale dei campioni rispetto all'attività iniziale del nuclide genitore. Il
-time axes are scaled in multiples of the half-life $T_\text{Tochter}$ of the respective daughter nuclide.
-Quale delle tre coppie di nuclidi appartiene a quale diagramma?
+
+Figura 4: Evoluzione temporale delle attività $A$ del nuclide madre, del nuclide figlio e dell'attività totale dei campioni rispetto all'attività iniziale del nuclide madre. Gli assi temporali sono scalati in multipli del tempo di dimezzamento $T_\text{Tochter}$ del rispettivo nuclide figlio.
+
+A quale diagramma appartiene ciascuna delle tre coppie di nuclidi?
+
 A
 1
 2
@@ -756,6 +754,7 @@ A
 I
 II
 III
+
 B
 1
 2
@@ -763,6 +762,7 @@ B
 II
 III
 I
+
 C
 1
 2
@@ -770,6 +770,7 @@ C
 III
 II
 I
+
 D
 1
 2
@@ -777,10 +778,11 @@ D
 III
 I
 II
-Answer section
+
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2020 - 2° round exam
+Risposta corretta:
+51ª Olimpiade Fisica Internazionale 2020 - Prova del secondo turno
 Codice: Codice
 
 <!--fig:start-->
@@ -788,11 +790,6 @@ Codice: Codice
 *Three graphs of radioactive activity vs time*
 <!--fig:end-->
 
-**Topic:** [[Nuclear & Particle Physics]]
-**Metodi:** [[Radioactive Decay Law (metodo)|Radioactive Decay Law]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Nucleus (object)|Nucleus]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1s177_CI0-6JKTkZHhfKpHXtxrCvEPfNt/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1114,38 +1111,29 @@ that it is easy to follow but not unnecessarily long. So, for example, if you us
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Conduzione del calore (problema MC)
-(cfr.
-Le estremità di tre barre di metallo rotondo made of identical material are each kept at constant
-- le temperature. I seguenti dati sono noti per le barre:
-Rod I - diametro: $2{,}0\ \text{cm}$, lunghezza: $20\ \text{cm}$, temperature delle estremità del rod: $50\ ^\circ\text{C}$ e $20\ ^\circ\text{C}$
-Rod II - diametro: $3{,}0\ \text{cm}$, lunghezza: $50\ \text{cm}$, temperature delle estremità del rod: $60\ ^\circ\text{C}$ e $30\ ^\circ\text{C}$
-Rod III - diametro: $4{,}0\ \text{cm}$, lunghezza: $80\ \text{cm}$, temperature delle estremità del rod: $70\ ^\circ\text{C}$ e $40\ ^\circ\text{C}$
-Come si trasferiscono i poteri del calore attraverso le barre per conduzione del calore,
-$P_\text{I}$, $P_\text{II}$ e $P_\text{III}$, si riferiscono a vicenda (i poteri possono essere tutti presunti positivi)?
-A
-$P_\text{I} < P_\text{II} = P_\text{III}$
-B
-$P_\text{I} = P_\text{II} < P_\text{III}$
-C
-$P_\text{II} < P_\text{I} = P_\text{III}$
-D
-$P_\text{III} < P_\text{II} < P_\text{I}$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-51° IPhO 2020 - 2° round exam
-Codice: Codice
-Long problemi
-La Commissione ha inoltre presentato una serie di proposte di risoluzione sulle misure di sicurezza e di sicurezza. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il metodo di soluzione in un modo simile
-che è facile da seguire ma non troppo lungo. Quindi, per esempio, se usi la legge della conservazione dell'energia, scrivi questo brevemente.
+Problema 7 Conduzione del calore (problema a scelta multipla)
+(5 punti)
 
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Rod (object)|Rod]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1s177_CI0-6JKTkZHhfKpHXtxrCvEPfNt/view)
+Gli estremi di tre bacchette metalliche cilindriche realizzate con lo stesso materiale sono mantenuti a temperature costanti. Sono noti i seguenti dati per le bacchette:
+Bacchetta I – diametro: $2{,}0\ \text{cm}$, lunghezza: $20\ \text{cm}$, temperature degli estremi: $50\ ^\circ\text{C}$ e $20\ ^\circ\text{C}$
+Bacchetta II – diametro: $3{,}0\ \text{cm}$, lunghezza: $50\ \text{cm}$, temperature degli estremi: $60\ ^\circ\text{C}$ e $30\ ^\circ\text{C}$
+Bacchetta III – diametro: $4{,}0\ \text{cm}$, lunghezza: $80\ \text{cm}$, temperature degli estremi: $70\ ^\circ\text{C}$ e $40\ ^\circ\text{C}$
+
+Come si relazionano tra loro le potenze termiche trasferite attraverso le bacchette per conduzione termica, $P_\text{I}$, $P_\text{II}$ e $P_\text{III}$ (si può assumere che tutte le potenze siano positive)?
+
+A $P_\text{I} < P_\text{II} = P_\text{III}$
+B $P_\text{I} = P_\text{II} < P_\text{III}$
+C $P_\text{II} < P_\text{I} = P_\text{III}$
+D $P_\text{III} < P_\text{II} < P_\text{I}$
+
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
+51ª Olimpiade Fisica Internazionale 2020 - Prova del secondo turno
+Codice: Codice
+Problemi lunghi
+Lavora sui seguenti tre problemi nello stesso modo, utilizzando gli spazi appositi. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivi il metodo risolutivo in modo chiaro ma non eccessivamente lungo. Ad esempio, se utilizzi la legge di conservazione dell'energia, menzionala brevemente.
+
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1382,52 +1370,38 @@ Code: Code
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 9 Più veloce del vento
-(cfr.
-La foto sulla destra mostra il veicolo sperimentale
-- Il nero. Il veicolo non ha magazzino di energia di suo
-come batterie o combustibile,
-ma è solo guidato dal vento.
-Per la propulsione, il veicolo contiene solo una gearbox che
-Can transfer energy between the wheels
-e la propeller.
-Con il Blackbird, test run sono stati effettuati su terra a livello a costante direzione e velocità del vento - sia con che con
-Direttamente contro il vento. La velocità $\vec{v}$ del
-Il sistema di controllo è stato quindi il tutto tempo parallelo
-O antiparallel to the wind velocity $\vec{v}_W$. Tu
-può assumere che nel test corre una costante
-velocità raggiunta in ogni caso.
-Figura 5: Foto del Blackbird a vento. (Source en.wikipedia.org; Stephen Morris; CC BY-SA 3.0)
-I progettisti del Blackbird sostenevano che in corsa nella direzione della velocità del vento avevano viaggiato più velocemente del vento, cioè a velocità costante $\vec{v}$ per il quale
-$|\vec{v}| > |\vec{v}_W|$. Questo è stato criticato da alcune persone come non fisico e quindi impossibile.
-Ma è?
-9. (a) Justify why, at constant wind speed $v_W$, it is in principle possible to travel with
-a velocità costante $v > v_W$ nella direzione del vento. Stato se,
-In questo modo, l'energia viene trasferita dal propellore alle ruote o viceversa. (8,0 pts.)
-Per una stima della velocità raggiungibile, supponiamo che nel trasferimento di
-energia tra l'aria circostante e il terreno e viceversa, una frazione $\alpha$ del
-Potenza perduta per ulteriori utilizzi. Quindi se, per esempio, l'energia viene trasferita dall'aria circostante attraverso il propellente, la casella di ingranaggi e le ruote al suolo, allora
-only a fraction $1-\alpha$ of the energy transferred to the vehicle by the wind can be used for propulsion.
-9.b) Determina la velocità $v$ che il veicolo può raggiungere quando viaggia nella direzione del vento.
-Esprimere il tuo risultato in termini di $v_W$ e $\alpha$. (6,0 p.p.)
-9.c) Determina la velocità raggiungibile per viaggiare direttamente contro il vento. Esprimi anche questo
-in terms of $v_W$ and $\alpha$, and justify whether in this case as well it is possible to be faster
-- più del vento. (6,0 p.p.)
-Answer section
+Problema 9 Più veloce del vento (20 punti)
+La foto a destra mostra il veicolo sperimentale Blackbird. Il veicolo non possiede alcun serbatoio di energia proprio, come batterie o carburante, ma è trainato esclusivamente dal vento.
+Per la propulsione, il veicolo contiene soltanto una scatola del cambio che può trasferire energia tra le ruote e la elica.
+Con il Blackbird sono state effettuate prove in condizioni di terreno piano, con direzione e velocità del vento costanti – sia in condizioni di vento da dietro che controvento. La velocità $\vec{v}$ del veicolo era quindi sempre parallela o antiparallela alla velocità del vento $\vec{v}_W$. Si può assumere che durante le prove si sia raggiunta una velocità costante in ogni caso.
+Figura 5: Foto del Blackbird spinto dal vento. (Fonte en.wikipedia.org; Stephen Morris; CC BY-SA 3.0).
+I progettisti del Blackbird hanno affermato che durante i percorsi nella direzione della velocità del vento si era viaggiato più veloci del vento, ovvero a una velocità costante $\vec{v}$ tale che
+$|\vec{v}| > |\vec{v}_W|$. Questa affermazione è stata criticata da alcune persone come non fisica e quindi impossibile.
+Ma è davvero così?
+
+9.a) Giustificare perché, a velocità del vento costante $v_W$, è in linea di principio possibile viaggiare a una velocità costante $v > v_W$ nella direzione del vento. Indicare se, in tale situazione, l'energia viene trasferita dall'elica alle ruote o viceversa. (8,0 punti)
+Per una stima della velocità raggiungibile, si assuma che nella trasferimento di energia tra l'aria circostante e il terreno, e viceversa, una frazione $\alpha$ della potenza disponibile venga persa per ulteriore utilizzo. Così, se ad esempio l'energia viene trasferita dall'aria circostante tramite la elica, il riduttore e le ruote al terreno, allora solo una frazione $1-\alpha$ dell'energia trasferita al veicolo dal vento può essere utilizzata per la propulsione.
+
+9.b) Determinare la velocità $v$ che il veicolo può raggiungere quando si muove nella direzione del vento.
+Esprimere il risultato in termini di $v_W$ e $\alpha$. (6,0 punti)
+
+9.c) Determinare la velocità raggiungibile quando ci si muove direttamente contro il vento. Esprimere anche questo risultato in termini di $v_W$ e $\alpha$, e giustificare se in questo caso è ugualmente possibile viaggiare più veloci del vento. (6,0 punti)
+
+Sezione risposta
 9.a)
 Calcoli e spiegazioni
-51° IPhO 2020 - 2° round exam
+51ª Olimpiade Fisica Internazionale 2020 - Esame seconda fase
 Codice: Codice
-Calcoli e spiegazioni (continuato)
+Calcoli e spiegazioni (continuazione)
 9.b)
 Calcoli e spiegazioni
-Result for the speed when travelling in the wind direction:
-51° IPhO 2020 - 2° round exam
+Risultato per la velocità quando ci si muove nella direzione del vento:
+51ª Olimpiade Fisica Internazionale 2020 - Esame seconda fase
 Codice: Codice
 9.c)
 Calcoli e spiegazioni
-Risultato per la velocità quando si viaggia contro la direzione del vento:
-51° IPhO 2020 - 2° round exam
+Risultato per la velocità quando ci si muove contro la direzione del vento:
+51ª Olimpiade Fisica Internazionale 2020 - Esame seconda fase
 Codice: Codice
 
 <!--fig:start-->
@@ -1435,11 +1409,6 @@ Codice: Codice
 *Photo of the wind-powered Blackbird vehicle*
 <!--fig:end-->
 
-**Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Conservation Laws (metodo)|Conservation Laws]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Wheel (object)|Wheel]]
-**Fonte:** [Testo (PDF) — p.11](https://drive.google.com/file/d/1s177_CI0-6JKTkZHhfKpHXtxrCvEPfNt/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

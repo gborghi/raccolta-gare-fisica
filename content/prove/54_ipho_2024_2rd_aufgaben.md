@@ -80,20 +80,16 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 Water Jet (problema MC)
-(cfr.
-L'insieme di un contenitore pieno di acqua è situato, come mostrato accanto, ad un'altezza
-di $H_\text{unten}$ = 15 cm above the floor. L'altezza dell'acqua nel
-contenitore is $H$ = 50 cm.
-Un piccolo buco è ora perforato nel contenitore ad un'altezza $h$ sopra il lato inferiore, in modo che un jet d'acqua versare fuori del contenitore, che inizialmente colpisce il pavimento a
-Distanza $x$.
-Which of the graphs correctly shows the distance $x$ of the impact point as a function of the height $h$ at which the hole
-- È drilled?
+Problema 1 Getto d'acqua (problema a scelta multipla)
+(5 punti)
+La superficie inferiore di un contenitore riempito d'acqua si trova, come mostrato accanto, ad un'altezza di $H_\text{unten}$ = 15 cm dal pavimento. L'altezza dell'acqua nel contenitore è di $H$ = 50 cm.
+Ora viene praticato un piccolo foro nel contenitore ad un'altezza $h$ sopra la superficie inferiore, in modo che un getto d'acqua esca dal contenitore e colpisca inizialmente il pavimento ad una distanza $x$.
+Quale dei grafici rappresenta correttamente la distanza $x$ del punto di impatto in funzione dell'altezza $h$ a cui viene praticato il foro?
 $H_\text{unten}$
 $H$
 $h$
 $x$
-Fig. 1. Sketch del jet d'acqua.
+Fig. 1. Schizzo del getto d'acqua.
 A
 0
 0
@@ -118,25 +114,19 @@ D
 $H$
 $x$
 $h$
-Answer section
+Sezione risposta
 Calcoli e spiegazioni
-Corretta risposta:
-
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben/54_IPhO_2024_2Rd_Aufgaben_p2_f1.png]]
-Il programma di ricerca è stato sviluppato in un'area di ricerca e sviluppo. 1: serbatoio cilindrico con getto*
+*Abb. 1: serbatoio cilindrico con getto*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben/54_IPhO_2024_2Rd_Aufgaben_p2_f2.png]]
 *grafici A-D: x vs h del getto*
 <!--fig:end-->
 
-**Topic:** [[Fluid Mechanics]], [[Newtonian Mechanics]]
-**Metodi:** [[Bernoulli's Equation (metodo)|Bernoulli's Equation]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Conservation of Energy (metodo)|Conservation of Energy]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Tank/Container (object)|Tank/Container]], [[Projectile (object)|Projectile]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -363,24 +353,23 @@ Correct answer:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Magnete cadente (problema MC)
-(cfr.
-Un magnete cilindrico è stato scaricato attraverso tre differenti posizioni verticali
-- Tubi. I tubi hanno dimensioni identiche ma sono fatti
-di diverse materie - uno di plexiglas, uno di brass e uno di
-di alluminio.
-Per una distanza di caduta di $L$ = 1,0 m in the tubes, the following fall times
-di magneto sono misurati:
-Cose di plastica
-$t_\text{Plexiglas}$ = 0.46 s
-Fabbricazione di calcio
-$t_\text{Messing}$ = 2.15 s
-Alumini
-$t_\text{Aluminium}$ = 3.81 s
-La conductività elettrica del materiale da cui è fatto il tubo di alluminio
-is $\sigma_\text{Aluminium}$ = $3{,}7 \cdot 10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
-What value is obtained from the fall times as an estimate for the electrical
-conductivity $\sigma_\text{Messing}$ of the material of the brass tube?
+Problema 3 Magnete in caduta (problema a scelta multipla)
+(5 punti)
+
+Un magnete cilindrico viene fatto cadere attraverso tre tubi verticalmente posizionati. I tubi hanno dimensioni identiche ma sono realizzati con materiali diversi: uno in Plexiglas, uno in ottone e uno in alluminio.
+
+Per un percorso di caduta di $L$ = 1,0 m nei tubi, sono state misurate le seguenti durate di caduta del magnete:
+Plexiglas
+$t_\text{Plexiglas}$ = 0,46 s
+Ottone
+$t_\text{Messing}$ = 2,15 s
+Alluminio
+$t_\text{Aluminium}$ = 3,81 s
+
+La conducibilità elettrica del materiale di cui è costituito il tubo in alluminio è $\sigma_\text{Aluminium}$ = $3{,}7 \cdot 10^7\ \text{A V}^{-1}\,\text{m}^{-1}$.
+
+Qual è il valore ottenuto dalle durate di caduta come stima della conducibilità elettrica $\sigma_\text{Messing}$ del materiale del tubo in ottone?
+
 A
 $1{,}2 \cdot 10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
 B
@@ -389,21 +378,16 @@ C
 $4{,}9 \cdot 10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
 D
 $6{,}6 \cdot 10^7\ \text{A V}^{-1}\,\text{m}^{-1}$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
 
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben/54_IPhO_2024_2Rd_Aufgaben_p5_f4.png]]
-*fotografia tubi Magnetico caso verticali*
+*fotografia tubi Magnetfall verticali*
 <!--fig:end-->
 
-**Topic:** [[Electromagnetic Induction]]
-**Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lenz's Law (metodo)|Lenz's Law]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Magnet (object)|Magnet]], [[Pipe/Tube (object)|Pipe/Tube]], [[Cylinder (object)|Cylinder]]
-**Fonte:** [Testo (PDF) — p.5](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -920,51 +904,39 @@ that it is easy to follow but not unnecessarily long. So if, for example, you us
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 7 Riflezione da un livello di acqua (problema MC)
-(cfr.
-La superficie di una piastra di vetro liscia e orizzontale
-è coperto da un sottile e piatto strato d'acqua.
-Luce monocromatica di lunghezza d'onda
-680 nm cade da sopra sulla superficie dell'acqua ad un angolo $\alpha = 30^\circ$ alla superficie normale. Il tasso di refrazione del
-La piastra di vetro è di 1,50 e quella dell'acqua di 1,33.
-A causa dell'evaporazione dell'acqua, il
-l'intensità della luce riflessa cambia periodicamente. Tra
-l'occurrenza di due intensità massime, a
-tempo di 15 minuti di elapses.
+Problema 7 Riflessione da uno strato d'acqua (problema a scelta multipla)
+(5 punti)
+
+La superficie di una lastra di vetro liscia e orizzontale è ricoperta da uno strato sottile e piano d'acqua.
+Luce monocromatica di lunghezza d’onda 680 nm incide dall'alto sulla superficie dell'acqua con un angolo $\alpha = 30^\circ$ rispetto alla normale alla superficie. L'indice di rifrazione della lastra di vetro è 1,50 e quello dell’acqua è 1,33.
+
+A causa dell'evaporazione dell’acqua, l’intensità della luce riflessa varia periodicamente. Tra due massimi di intensità si osserva un intervallo temporale di 15 minuti.
+
 $\alpha$
 $d$
-Air
+Aria
 Acqua
-La luce
-Fig. 4. Sketch dell'incidenza della luce.
-At what rate does the thickness $d$ of the water layer on the glass decrease?
-A
-about $0{,}3\ \mu\text{m h}^{-1}$
-B
-about $1\ \mu\text{m h}^{-1}$
-C
-about $3\ \mu\text{m h}^{-1}$
-D
-about $9\ \mu\text{m h}^{-1}$
-Answer section
-Calcoli e spiegazioni
-Corretta risposta:
-Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione sulle misure di sicurezza e di sicurezza. A differenza dei
-problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il metodo di soluzione in un modo simile
-che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si usa la legge della conservazione dell'energia, scrivete brevemente.
+Vetro
+Fig. 4. Schizzo dell’incidenza della luce.
 
+A quale velocità diminuisce lo spessore $d$ dello strato d’acqua sul vetro?
+A circa $0{,}3\ \mu\text{m h}^{-1}$
+B circa $1\ \mu\text{m h}^{-1}$
+C circa $3\ \mu\text{m h}^{-1}$
+D circa $9\ \mu\text{m h}^{-1}$
+
+Sezione risposta
+Calcoli e spiegazioni
+Risposta corretta:
+
+Problemi a risposta lunga
+Svolgere i seguenti tre problemi negli spazi appositi. A differenza dei problemi a scelta multipla, non sono fornite opzioni di risposta. Descrivere il metodo risolutivo in modo chiaro ma non eccessivamente lungo. Quindi, se si utilizza la legge di conservazione dell’energia, indicarlo brevemente.
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben/54_IPhO_2024_2Rd_Aufgaben_p10_f9.png]]
 *Abb. 4: riflessione luce strato d'acqua su vetro*
 <!--fig:end-->
 
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Snell's Law (metodo)|Snell's Law]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.10](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1273,48 +1245,41 @@ Estimate for the time:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 9 Up and Away
-15 punti)
-Un pallone a aria calda con un volume di $3700\ \text{m}^3$ è pieno sul terreno con aria calda a una temperatura
-of $100\ ^\circ\text{C}$. Il balloon envelope and the basket, filled with burner, gas bottles and daredevil balloonists, together have a mass of 900 kg. La temperatura ambiente è
-$20\ ^\circ\text{C}$, e la pressione dell'aria è circa $1{,}01 \cdot 10^5$ Pa.
-9. (a) Calcolare la forza con cui il pallone deve essere tenuto a terra e indicare se si
-sarebbe in grado di tenere il pallone giù o se si dovrebbe piuttosto lasciare andare così che non essere
-- Si è tirato in aria. (4,0 p.)
-Supponiamo per semplicità che la temperatura ambiente non cambia con l'altitudine e che
-la pressione dell'aria diminuisce di 1,2 per cento per ogni variazione di altitudine di 100 m.
-9.b) Determina l'accelerazione con cui il pallone sale immediatamente dopo essere stato rilasciato.
-Calcolare l'altitudine raggiunta dal pallone se la temperatura all'interno del pallone rimane costante.
-(6,0 p.p.)
-In realtà, l'aria nel pallone si raffredda lentamente se il bruciatore non è acceso.
-Come risultato, la buoyancy del pallone diminuisce a un ritmo costante di $10\ \text{N s}^{-1}$.
-9.c) Estimare quanto tempo il pallone può mantenere l'altitudine al massimo, accendendo regolarmente il burner,
-se porta un approvvigionamento di gas di 80 kg di propano in totale,
-che ha un valore calorico di $50\ \text{MJ kg}^{-1}$. (5,0 p. d.)
-Per il calcolo si possono utilizzare i seguenti dati per l'aria:
-Density at temperature $20\ ^\circ\text{C}$ and air pressure $1{,}01 \cdot 10^5$ Pa
+Problema 9 Su e via (15 punti)
+Un pallone aerostatico con un volume di $3700\ \text{m}^3$ è riempito a terra con aria calda alla temperatura di $100\ ^\circ\text{C}$. L'involucro del pallone e la cesta, riempiti rispettivamente con il bruciatore, le bombole di gas e i pallonari temerari, hanno insieme una massa di 900 kg. La temperatura ambiente è $20\ ^\circ\text{C}$, e la pressione atmosferica è di circa $1{,}01 \cdot 10^5$ Pa.
+
+9.a) Calcolare la forza con cui il pallone deve essere trattenuto al suolo, e indicare se riterresti di poterlo tenere giù o convenga invece lasciarlo andare per non essere sollevati in aria. (4,0 punti)
+
+Si assuma per semplicità che la temperatura ambiente non vari con l’altitudine e che la pressione atmosferica diminuisca del 1,2 % per ogni variazione di altitudine di 100 m.
+
+9.b) Determinare l’accelerazione con cui il pallone sale immediatamente dopo essere stato rilasciato.
+Calcolare l’altitudine raggiunta dal pallone se la temperatura all’interno del pallone rimane costante. (6,0 punti)
+
+In realtà, l’aria all’interno del pallone si raffredda lentamente se il bruciatore non viene acceso.
+Di conseguenza, la spinta di galleggiamento del pallone diminuisce a un tasso costante di $10\ \text{N s}^{-1}$.
+
+9.c) Stimare per quanto tempo al massimo il pallone può mantenere la propria altitudine accendendo regolarmente il bruciatore, se trasporta un rifornimento totale di 80 kg di gas propano, il cui potere calorifico è di $50\ \text{MJ kg}^{-1}$. (5,0 punti)
+
+Per il calcolo si possono utilizzare i seguenti dati per l’aria:
+Densità alla temperatura $20\ ^\circ\text{C}$ e pressione atmosferica $1{,}01 \cdot 10^5$ Pa
 $\rho_0 = 1{,}20\ \text{kg m}^{-3}$
-Specific heat capacity at constant pressure
+Calore specifico a pressione costante
 $c_\text{Luft} = 1{,}0\ \text{kJ kg}^{-1}\,\text{K}^{-1}$
-Answer section
+
+Sezione risposta
 9.a)
 Calcoli e spiegazioni
-Calcoli e spiegazioni (continuato)
-Result for the force:
+Calcoli e spiegazioni (continuazione)
+Risultato per la forza:
 9.b)
 Calcoli e spiegazioni
-Calcoli e spiegazioni (continuato)
-Risultato dell'accelerazione:
-Result for the altitude:
+Calcoli e spiegazioni (continuazione)
+Risultato per l'accelerazione:
+Risultato per l'altezza:
 9.c)
 Calcoli e spiegazioni
-Estimate for the time:
+Stima per il tempo:
 
-**Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
-**Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** [[Gas (object)|Gas]], [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.15](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1427,60 +1392,53 @@ Graph paper
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 10 Approach o Repel?
+Problema 10 Avvicinamento o repulsione?
 (12 punti)
-Due particelle a punto con masse $m$ e $M$ ($m < M$)
-e equal positive charge $q$ are located, as
-sketched alongside, initially at a separation $r_0$ in
-un campo elettrico infinitamente esteso e omogeneo $E$.
-All'inizio, entrambe le accuse sono in sospeso.
-Supponiamo che in ciò che segue le particelle si muovono
-Solo lungo la linea che li unisce.
+
+Due particelle puntiformi di masse $m$ e $M$ ($m < M$) e carica positiva uguale $q$ si trovano, come mostrato nel disegno accanto, inizialmente a una distanza $r_0$ in un campo elettrico infinitamente esteso ed omogeneo $E$.
+All'inizio, entrambe le cariche sono ferme.
+Si assuma che nel seguito le particelle si muovano soltanto lungo la retta che le congiunge.
 $\vec{E}$
 $q, m$
 $q, M$
 $r_0$
 Fig. 7. Cariche nel campo elettrico.
-10.a) Determine the relative acceleration $a$ of the particles as a function of their separation $r$
-da uno all'altro. Mostra che questo può essere scritto come un'equazione di forza in forma
-$$F = m'\,a = \frac{1}{4\pi\varepsilon_0}\,\frac{q\,q'}{r^2} - q\,E'$$
-e esprimere le quantità $m'$, $q'$ e $E'$ in termini delle quantità indicate.
-(4,0 p.)
-The force equation describes the motion of an effective particle of mass $m'$ and charge
+
+10.a) Determinare l'accelerazione relativa $a$ delle particelle in funzione della loro distanza reciproca $r$. Dimostrare che questa può essere scritta come un'equazione forza nella forma
+$$F = m'\,a = \frac{1}{4\pi\varepsilon_0}\,\frac{q\,q'}{r^2} - q\,E'$$ e esprimere le quantità $m'$, $q'$ e $E'$ in termini delle grandezze date.
+(4,0 punti)
+
+L'equazione forza descrive il moto di una particella efficace di massa $m'$ e carica
 $q$ in un potenziale $U(r)$, che è prodotto dalla carica $q'$ e dal campo elettrico $E'$.
 Il potenziale qui è l'energia potenziale della particella efficace divisa per la sua carica.
-10.b) Sketch the shape of the potential $U(r)$ as a function of the separation $r$ and state
-La separazione minima del potenziale è situata. (4,0 p.)
-10.c) Determina la massima separazione delle particelle durante il loro movimento e esprima
-In termini di quantità indicate. (4,0 p.)
-Answer section
+
+10.b) Rappresentare graficamente la forma del potenziale $U(r)$ in funzione della distanza $r$ e indicare a quale distanza si trova il minimo del potenziale. (4,0 punti)
+
+10.c) Determinare la massima distanza raggiunta dalle particelle durante il loro moto e esprimerla in termini delle grandezze date. (4,0 punti)
+
+Sezione risposta
 10.a)
 Calcoli e spiegazioni
-Calcoli e spiegazioni (continuato)
+Calcoli e spiegazioni (continuazione)
 Espressioni per le quantità:
+
 10.b)
-Sketch
+Rappresentazione grafica
 Calcoli e spiegazioni
-Result for the separation of the minimum:
+Risultato per la separazione del minimo:
 10.c)
 Calcoli e spiegazioni
-Risultato per la separazione massima:
-Ulteriori fogli di lavoro
-Ulteriori fogli di lavoro
-Ulteriori fogli di lavoro
-Carta grafica
-
+Risultato per la massima separazione:
+Foglio aggiuntivo
+Foglio aggiuntivo
+Foglio aggiuntivo
+Carta millimetrata
 
 <!--fig:start-->
 ![[_attachments/54_IPhO_2024_2Rd_Aufgaben/54_IPhO_2024_2Rd_Aufgaben_p19_f12.png]]
-*Abb. 7: cariche ±q nel campo elettrico *
+*Abb. 7: cariche ±q nel campo elettrico*
 <!--fig:end-->
 
-**Topic:** [[Electrostatics]], [[Newtonian Mechanics]]
-**Metodi:** [[Coulomb's Law (metodo)|Coulomb's Law]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Electric Potential Method (metodo)|Electric Potential Method]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Point Charge (object)|Point Charge]]
-**Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1538,3 +1496,5 @@ Graph paper
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Point Charge (object)|Point Charge]]
 **Fonte:** [Testo (PDF) — p.19](https://drive.google.com/file/d/1TazLsNpSu3l4XuyC9hMCo9QpXYSC-7XO/view)
+
+

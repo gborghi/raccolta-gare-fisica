@@ -553,6 +553,49 @@ body[data-slug="index"] {
   .home-hero { grid-template-columns: 1fr; gap: 1.6rem; padding: 1.6rem 1.2rem; }
 }
 
+// ─── Homepage link cards vs Quartz's `a.internal` ───
+// CrawlLinks gives every card <a> the class "internal", and `a.internal` (0,1,1) /
+// `a.internal:hover` (0,2,1) out-rank the single-class card rules above: the cards
+// were getting the inline-link pill (highlight background, 0.18em padding, 5px
+// radius, tertiary hover colour) -> white text on a near-white tile. Re-assert the
+// card look at higher specificity, scoped to the index so inline links elsewhere
+// keep the a.internal style untouched.
+body[data-slug="index"] {
+  a.internal.home-area,
+  a.internal.home-mode,
+  a.internal.home-searchcta {
+    background-image: none; line-height: inherit; text-decoration: none;
+  }
+  a.internal.home-area {
+    background: var(--light); padding: 1.6rem 1.35rem 1.4rem; border-radius: 16px; color: var(--ink);
+  }
+  a.internal.home-mode {
+    background: var(--panel); padding: 1.7rem 1.6rem; border-radius: 16px; color: var(--ink);
+  }
+  a.internal.home-mode--graph { background: #14163a; color: #fff; }
+  a.internal.home-searchcta {
+    background: var(--light); padding: 0.85rem 1rem; border-radius: 14px; color: inherit;
+  }
+  a.internal.home-area:hover,
+  a.internal.home-mode:hover { color: var(--ink); }
+  a.internal.home-mode--graph:hover { color: #fff; }
+  a.internal.home-searchcta:hover { color: inherit; }
+}
+[saved-theme="dark"] body[data-slug="index"] {
+  a.internal.home-mode--graph { background: #16113b; color: #fff; border: 1px solid rgba(143, 162, 255, 0.28); }
+}
+// Readability (WCAG AA >= 4.5:1) of the small card labels, both themes: the muted
+// --gray labels were ~3.1:1 on the light tiles; in dark mode the deep-blue kicker
+// (--accent-deep on --panel) and the light --ink on the cyan "Ricerca multi-tag"
+// pill were ~1.3:1.
+body[data-slug="index"] {
+  .home-area-m, .home-searchcta-ph, .home-stat-l:not(.home-stat--accent *) { color: var(--darkgray); }
+  .home-searchcta-go { color: #14163a; }
+}
+[saved-theme="dark"] body[data-slug="index"] {
+  .home-mode-k, .home-eyebrow { color: var(--accent-cyan); }
+}
+
 // ─── Landing: dimmed physics background (gemini-cheap art) ───
 // Base-colour veil over the artwork -> "un po' dimmed"; fixed so it stays put.
 body[data-slug="index"] {

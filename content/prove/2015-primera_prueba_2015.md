@@ -2118,73 +2118,26 @@ entero, por lo que es tentador redondear al entero más próximo y responder que
 <div class="qlang-split" data-lang="it"></div>
 
 P3. Il laser1.
-Nell'Anno Internazionale della Luce, non poteva mancare all'OAF un problema
-sobre la $luz\dots$ láser. Dal suo invento nel 1960, il laser ha rivoluzionato le tecnologie di
-comunicazioni, industria, medicina e molti altri settori della vita
-la scienza e la tecnologia. In alcune applicazioni si approfitta dell'alta
-La direzionalità e la concentrazione energetica della luce laser, che si presenta come un
-un fascio quasi cilindrico con pochi millimetri di diametro e piccolo
-divergenza.
-En
-altri
-Applicazioni
-interessato
-in particolare
-la
-alta
-la luce laser può avere una monocromaticità, in modo che è un'onda quasi
-La maggior parte dei fenomeni sono armonici, come quelli che vengono utilizzati per studiare i fenomeni.
-- Le ondulazioni. Le due proprietà, la direzionalità e la monocromaticità, sono:
-intimamente legati alla cosiddetta cavità risonante del dispositivo,
-formata da due specchi di fronte, in modo che la luce viaggia ripetutamente in percorsi di andata e ritorno,
-si riflette normalmente in entrambi i specchi. Quindi, come avete già capito, le onde stazionarie
-che gioca un ruolo importante nel funzionamento di un laser, e di questo ci parleremo in questo problema.
-La regione tra i due specchi è piena di un materiale, chiamato medio attivo, che amplifica la luce che
-Il fascio di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di velocità di un'onda di velocità di un'onda di velocità di un'onda di velocità di velocità di un'onda di velocità di velocità di un'onda di velocità di velocità di un'onda di velocità di velocità di un'onda di velocità di velocità di un'onda di velocità di velocità di velocità di un'onda di velocità di velocità di velocità di velocità di un'onda di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità di velocità
-passi di luce ripetuti attraverso tale mezzo attivo. Come in ogni sistema fisico reale, ci sono sempre perdite.
-La politica di sviluppo del settore energetico è un'ottica di sviluppo.
-alta densità di energia luminosa all'interno della cavità. Proprio una delle perdite del sistema è dovuta
-La percentuale di trasmissione di uno degli specchi è molto bassa, e questo lascia uscire un po' fuori dalla parte di testa.
-luce che lo colpisce. Questo è il raggio di luce laser che emerge dal dispositivo.
-L'effetto amplificatore dell'ambiente attivo è dovuto al fenomeno noto come emissione stimolata,
-che quando un atomo emette radiazioni (un fotone) può indurre l'emissione di altri atomi
-di cui sopra:
-Le radiazioni si superponono in fase e si produce un'interferenza costruttiva tra di loro. Se vuoi saperne di più
-In questo tema, cerca informazioni sul processo di pompazione per ottenere investimenti di popolazione tra due
-i livelli di atomi dell'ambiente attivo.
+Nell'Anno Internazionale della Luce, non poteva mancare all'OAF un problema sul $luz\dots$ laser. Dalla sua invenzione nel 1960, il laser ha rivoluzionato le comunicazioni, l'industria, la medicina e molte altre branche della vita quotidiana, della scienza e della tecnologia. In alcune applicazioni si sfrutta l'alta direzionalità e concentrazione energetica della luce laser, che si presenta come un intenso fascio quasi cilindrico con pochi millimetri di diametro e piccola divergenza.
+In altre applicazioni interessa principalmente l'alta monocromaticità che può avere la luce laser, di modo che è un'onda quasi armonica, come quelle che si maneggiano abitualmente nello studiare fenomeni ondulatori. Le due proprietà, direzionalità e monocromaticità, sono intimamente legate alla cosiddetta cavità risonante del dispositivo, formata da due specchi affrontati, di modo che la luce viaggia ripetutamente in tragitti di andata e ritorno, riflettendosi normalmente su entrambi gli specchi. Pertanto, come avrai già compreso, le onde stazionarie giocheranno un importante ruolo nel funzionamento di un laser, e su questo tratteremo in questo problema.
+La regione tra i due specchi è piena di un materiale, chiamato mezzo attivo, che amplifica la luce che viaggia attraverso di esso, cosicché, idealmente, l'intensità del fascio all'interno della cavità tenderebbe all'infinito a causa dei ripetuti passaggi della luce attraverso tale mezzo attivo. Come in ogni sistema fisico reale, ci sono sempre perdite energetiche che limitano il processo, ma si giunge a raggiungere un equilibrio tra guadagni e perdite con una densità energetica luminosa molto elevata all'interno della cavità. Precisamente una delle perdite del sistema è dovuta alla piccola percentuale di trasmittanza che ha uno degli specchi, che lascia uscire all'esterno "un po'" della luce che incide su di esso. Questo è il fascio di luce laser che emerge dal dispositivo.
+L'effetto amplificatore del mezzo attivo è dovuto al fenomeno noto come emissione stimolata, consistente nel fatto che quando un atomo emette radiazione (un fotone) può indurre l'emissione di altri atomi eccitati (che immagazzinano energia assorbita precedentemente per altra via), con la particolarità che entrambe le radiazioni si sovrappongono in fase e si produce un'interferenza costruttiva tra esse. Se vuoi sapere di più su questo tema, cerca informazioni sul processo di pompaggio per ottenere inversione di popolazione tra due livelli degli atomi del mezzo attivo.
 Ma torniamo al tema centrale del nostro problema:
-La luce (onda elettromagnetica transversale) viaggia ripetutamente tra gli specchi della cavità risonante e la
-l'interferenza tra le onde che viaggiano in entrambe le direzioni è
-La struttura è limitata a determinati valori di lunghezza.
-di onde (o frequenze) di radiazione, corrispondenti a
-Le "moduli normali" della cavità (onde)
-- le stazioni di lavoro. Distribuzione di larghezza del campo
-l'elettricità all'interno della cavità è del tipo che conosci per le onde stazionarie transversali in una
-una corda tensa con le sue due estremità fisse, cioè con nodi alle estremità, come schematizzato nella figura 1.
-a) Considerando che la frequenza della luce è la stessa in qualsiasi mezzo e che la cavità laser è
-riempimento di un mezzo di indice di refraczione n, deduce il rapporto tra la lunghezza d'onda della luce all'interno di
-La cavità, e la lunghezza d'onda di quella stessa luce nel vuoto, 0.
-b) Ottenere un'espressione per le frequenze dei modi in una cavità di lunghezza L. Il risultato è che la
-la separazione di frequenza tra due modi consecutivi è
-nL
-c
-f
+la luce (onda elettromagnetica trasversale) viaggia ripetutamente tra gli specchi della cavità risonante e l'interferenza tra le onde che viaggiano nei due sensi è costruttiva solo per alcuni valori concreti della lunghezza d'onda (o frequenza) della radiazione, corrispondenti ai cosiddetti modi normali della cavità (onde stazionarie). La distribuzione di ampiezza del campo elettrico all'interno della cavità è dello stesso tipo che conosci per le onde stazionarie trasversali in una corda tesa con i suoi due estremi fissi, cioè con nodi agli estremi, come schematizzato nella figura 1.
+a) Tenendo conto che la frequenza della luce è la stessa in qualsiasi mezzo e che la cavità laser è riempita di un mezzo di indice di rifrazione n, deduci la relazione tra la lunghezza d'onda della luce all'interno della cavità, , e la lunghezza d'onda di quella stessa luce nel vuoto, 0.
+b) Ottieni un'espressione per le frequenze dei modi in una cavità di lunghezza L. Dimostra che la separazione in frequenza tra due modi consecutivi è nL c f
 2
 /
 
-, dove c è la velocità della luce in
-il vuoto.
+, dove c è la velocità della luce nel vuoto.
 
-1 Il termine laser è formato da una sigla in inglese del processo responsabile del suo funzionamento: Light Amplification by
-Stimulated Emission of Radiation (amplificazione della luce mediante emissione stimolata di radiazioni).
-- Come?
-Fig. 1. Modalità di cavità
-L'Olimpiade di Fisica di Spagna
-Fase di ARAGON
-olimpiada_de_fisica.unizzare.es
-Considereremo in seguito un laser di rubino (come il primo laser che funzionò nel 1960) con indice
-di rifrazione n = 1,760 e una cavità di lunghezza L = 200,0 mm. La velocità della luce nel vuoto è
-m/s
+1 La parola laser è formata dalle sigle in inglese del processo responsabile del suo funzionamento: “Light Amplification by
+Stimulated Emission of Radiation” (amplificazione di luce mediante emissione stimolata di radiazione).
+m ventri
+ Fig. 1. Modo m della cavità
+OLIMPIADA ESPAÑOLA DE FÍSICA
+FASE DE ARAGÓN olimpiada_de_fisica.unizar.es
+Consideriamo d'ora in poi un laser a rubino (come il primo laser che funzionò nel 1960) con indice di rifrazione n = 1,760 e una cavità di lunghezza L = 200,0 mm. La velocità della luce nel vuoto è m/s
 10
 998
 ,
@@ -2193,28 +2146,17 @@ m/s
 
 c
 .
-c) Calcola la frequenza del modo fondamentale di questa cavità, f1, e la separazione tra due modi
-consecutive,
-f
+c) Calcola la frequenza del modo fondamentale di questa cavità, f1, e la separazione tra due modi consecutivi, f
 
 .
-d) Se il laser rubino emette luce con spettro incentrato su una lunghezza d'onda nel vuoto 0 = 694,3 nm, quale
-è il numero di ordine, m, del modo implicito?
-Il mezzo attivo può amplificare solo la luce all'interno di un
-stretta gamma di frequenze, definita dalla sua curva di
-Il profitto () (fig. 2), in cui è il profitto e la
-frequenza della luce. Frequenze per le quali non si supera
-un certo valore di margine di profitto non è amplificato, poiché
-Le perdite superano i guadagni, e in pratica non
-si presentano nei raggi laser. La curva di guadagno tipica
-Il metodo di riproduzione del medio attivo è una funzione lorentziana,
+d) Se il laser a rubino emette luce con spettro centrato su una lunghezza d'onda nel vuoto 0 = 694,3 nm, qual è il numero d'ordine, m, del modo implicato?
+Il mezzo attivo può amplificare luce solo all'interno di uno stretto intervallo di frequenze, definito dalla sua curva di guadagno ( ) (figura 2), in cui è il guadagno e la frequenza della luce. Le frequenze per le quali non si supera un certo valore soglia di guadagno non sono amplificate, poiché le perdite superano i guadagni, e in pratica non compaiono nella radiazione del laser. La curva di guadagno tipica del mezzo attivo è una funzione lorentziana, della forma
 2
 2
 0
 )
 2
-/
-(
+/ (
 )
 (
 )
@@ -2223,41 +2165,28 @@ Il metodo di riproduzione del medio attivo è una funzione lorentziana,
  A
 
 (1)
-dove, come è facile da verificare, 0
-è la frequenza per la quale si ottiene il massimo guadagno, max, ed è
-La larghezza della curva a metà della sua altezza (vedere figura 2). Per il nostro laser di rubin, il massimo della curva
-corrisponde alla lunghezza d'onda già menzionata, = 694,3 nm, e la larghezza è
+dove, come è facile verificare, 0 è la frequenza per la quale si raggiunge il massimo guadagno, max , ed è la larghezza della curva a metà della sua altezza (vedi la figura 2). Per il nostro laser a rubino, il massimo della curva corrisponde alla lunghezza d'onda già menzionata, = 694,3 nm, e la larghezza è
 Hz
 10
 0
 ,8
 8
 
-. A è una
-costante il cui valore non avrai bisogno.
-(e) Se si amplificano efficacemente solo le frequenze con un guadagno superiore al 10% del max , quante frequenze sono più elevate di quelle di cui sopra ?
-Le modalità appariranno nella luce emessa dal laser? Per semplicità, supponiamo che uno dei modi coinvolti sia
-è perfettamente focalizzato sulla curva di profitto.
-(f) Supponendo che la curva di guadagno non dipenda dalla lunghezza della cavità, si calcola la lunghezza massima
-che può avere solo una modalità per apparire nella luce del laser3.
+. A è una costante il cui valore non ti servirà.
+e) Se vengono amplificate efficientemente solo le frequenze con guadagno superiore al 10 % di max , quanti modi appariranno nella luce emessa dal laser2? Per semplicità, supponi che uno dei modi coinvolti sia perfettamente centrato sulla curva di guadagno.
+f) Supponendo che la curva di guadagno non dipenda dalla lunghezza della cavità, calcola la lunghezza massima che può avere perché nella luce del laser3 appaia un solo modo.
 
-2 Se più di un modo è amplificato in modo efficiente, la luce emessa dal laser contiene radiazioni in un peine di frequenze
-all'interno della curva di guadagno, e si dice che il laser sia multimodo. Questi laser sono utilizzati in applicazioni che interessano la
-La tecnologia è molto potente e non è necessaria la monocromaticità.
-3 I laser monomodi emettono luce molto monocromatica. Questo è necessario, ad esempio, per la registrazione di hologrammi o
-le comunicazioni a fibra ottica.
+2 Se più di un modo viene amplificato efficientemente, la luce emessa dal laser contiene radiazione in un "pettine" di frequenze all'interno della curva di guadagno, e si dice che il laser è multimodo. Questi laser si usano in applicazioni dove interessa l'alta potenza e non è necessaria la monocromaticità.
+3 I laser monomodo emettono luce molto monocromatica. Ciò è necessario, per esempio, per la registrazione di ologrammi o le comunicazioni su fibra ottica.
 Fig. 2.
 
  0
 
-Max
-Max/2
-L'Olimpiade di Fisica di Spagna
-Fase di ARAGON
-olimpiada_de_fisica.unizzare.es
+ max max/2
+OLIMPIADA SPAGNOLA DI FISICA
+FASE DI ARAGONA olimpiada_de_fisica.unizar.es
 P3 Soluzione
-a) Come è noto, la lunghezza d'onda, la frequenza, f, e la velocità di diffusione, v, di qualsiasi
-onda armonica soddisfa
+a) Come è ben noto, la lunghezza d'onda, , la frequenza, f, e la velocità di propagazione, v, di qualsiasi onda armonica soddisfano
 
 f
 
@@ -2265,18 +2194,12 @@ v
 
 (2)
 
-In particolare, la velocità di diffusione di un'onda elettromagnetica nel vuoto è
-f
-c
+In particolare, la velocità di propagazione di un'onda elettromagnetica nel vuoto è f c
 0
 
-, y en un
-media materiale indice di rifrazione n velocità è
+, e in un mezzo materiale di indice di rifrazione n la velocità è
 
-n
-f
-n
-c
+n f n c
 0
 
 v
@@ -2289,7 +2212,7 @@ n
 0
 
 (4)
-b) La condizione nota di onda stazionaria in uno spazio di lunghezza L, con nodi alle due estremità, è
+b) La nota condizione di onda stazionaria in uno spazio di lunghezza L, con nodi ai due estremi, è
 
 2
 
@@ -2298,34 +2221,22 @@ L
 
 (5)
 
-dove m è un intero. Combinando questa equazione con (4) e (3) e chiarendo la frequenza si
-ottengono le frequenze possibili,
-m
-f
+dove m è un numero intero. Combinando questa equazione con (4) e (3) e ricavando la frequenza si ottengono le possibili frequenze, m f
 , dei modi della cavità laser
 
-L
-n
-c
-m
-fm
+L n c m fm
 2
 
 (6)
 
-Quindi, la separazione di frequenza tra due modi consecutivi, di ordine m e m+1, è
+Pertanto, la separazione in frequenza tra due modi consecutivi, di ordini m e m+1, è
 
-L
-n
-c
-f
+L n c f
 2
 
 (7)
-c) Sulla base di (6) e (7), si deduce che la frequenza di
-1f della modalità fondamentale, corrispondente a m = 1,
-coincide con
-f
+c) Osservando (6) e (7), si deduce che la frequenza
+1f del modo fondamentale, corrispondente a m = 1, coincide con f
 
 . Operando con i dati si ottiene
 
@@ -2337,288 +2248,16 @@ Hz
 8
 1
 
-f
-f
+f f
 
 (8)
-d) Si potrebbe calcolare la frequenza della luce per la lunghezza d'onda = 694,3 nm, portarla a (6) e chiarire m,
-La Commissione ha adottato una decisione che prevede che il sistema di controllo dei dati sia stato adottato in base a criteri di cui all'articolo 4 del regolamento (CE) n.
+d) Si potrebbe calcolare la frequenza della luce per la lunghezza d'onda = 694,3 nm, portarla in (6) e ricavare m, ma è più rapido e diretto tenere conto di (4) e (5), da cui si deduce che
 
 0
 2
-L
-n
-m
+L n m
 
-Il risultato che viene visualizzato sullo schermo della calcolatrice è 1 013 970,90595. Ma è supposto che m deve essere
-l'insieme, quindi è tentativo di arrotondare l'insieme più vicino e rispondere che l'ordine del modo implica
-
-
-<!--fig:start-->
-![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p7_f5.png]]
-*Modo m in cavità laser, m ventri*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p8_f6.png]]
-*Curva di guadagno lorentziana gamma(nu)*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p10_f7.png]]
-*Curva di guadagno con semiampiezza Delta*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p10_f8.png]]
-*Spettro modi emessi, Fig. 4*
-<!--fig:end-->
-<!--fig:start-->
-![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p10_f9.png]]
-*Spettro modi emessi, Fig. 5*
-<!--fig:end-->
-
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Photon (object)|Photon]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view)
-
-<div class="qlang-split" data-lang="en"></div>
-
-P3. The laser1.
-In the International Year of Light, there could be no problem at the OAF.
-sobre la $luz\dots$ láser. Since its invention in 1960, the laser has revolutionized the
-communications, industry, medicine and many other branches of life
-The world of science and technology. In some applications the high
-The directional and energy concentration of the laser light, which is presented as a
-The main feature is a very intense almost cylindrical beam with a few millimeters in diameter and small
-The difference.
-En
-Other
-Applications
-Interested
-mainly
-la
-High
-The monochromaticity that laser light can have, so it's a wave almost
-The main objective of the programme is to improve the quality of the
-The following is the list of the types of equipment used: The two properties, directionality and monochromaticity, are
-closely related to the so-called resonant cavity of the device,
-It is made up of two mirrors facing each other, so that the light travels repeatedly in round-trip paths.
-It's usually reflected in both mirrors. So, as you may have already understood, stationary waves
-They're going to play a big role in how a laser works, and that's what we're going to talk about in this problem.
-The region between the two mirrors is filled with a material, called an active medium, which amplifies the light that
-The radius travels through it, so that ideally the intensity of the beam inside the cavity would tend to infinity due to the
-repeated light steps through that active medium. As in any real physical system, there are always losses.
-The Commission has already established a number of energy efficiency measures which limit the process, but a balance between gains and losses is reached with a very high level of efficiency.
-high energy density of light inside the cavity. One of the losses of the system is due
-The small percentage of transmission that one of the mirrors has, which lets out a little bit of the
-light that hits him. This is the laser beam of light that emerges from the device.
-The amplifying effect of the active medium is due to a phenomenon known as stimulated emission,
-This is the case for the electron emission of radiation from a given atom.
-Excited (storage of previously absorbed energy by another route), with the particularity that both
-radiation overlap in phase and constructive interference occurs between them. If you want to know more
-In this regard, it seeks information on the pumping process to achieve population investment between two
-levels of atoms in the active medium.
-But let's get back to the core of our problem:
-The light (transversal electromagnetic wave) travels repeatedly between the mirrors of the resonant cavity and the
-interference between the waves traveling in both directions is
-The value of the measured length is the sum of the values of the measured lengths.
-radiation wave (or frequency) corresponding to
-The so-called normal cavity modes (waves)
-(a) the number of vehicles Field width distribution
-The electrical inside the cavity is the same type you know for transverse stationary waves in a
-The two ends of the string are fixed, i.e. with nodes at the ends, as shown in Figure 1.
-(a) Considering that the frequency of light is the same in any medium and that the laser cavity is
-The refractive index of a medium n is the ratio of the wavelength of light within
-The cavity, and the wavelength of that same light in the vacuum, 0.
-(b) Get an expression for the modes frequencies in a cavity of length L. It shows that the
-frequency separation between two consecutive modes is
-nL
-c
-f
-2
-/
-
-, where c is the speed of light in
-The void.
-
-1 The word laser is formed by the English acronyms for the process responsible for its operation: Light Amplification by
-Stimulated Emission of Radiation (amplification of light by stimulated emission of radiation).
-Come on in .
-Fig. 1. The cavity mode m
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
-We'll consider a ruby laser (like the first laser that worked in 1960) with index
-a refractive index of n = 1,760 and a cavity length L = 200,0 mm. The speed of light in a vacuum is
-m/s
-10
-998
-,
-2
-8
-
-c
-.
-(c) Calculate the frequency of the fundamental mode of this cavity, f1, and the separation between two modes
-consecutive,
-f
-
-.
-(d) If the ruby laser emits light with a spectrum centered on a wavelength in the vacuum 0 = 694.3 nm, what
-is the order number, m, of the mode involved?
-The active medium can only amplify light within a
-narrow frequency range, defined by its curve of
-The value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net present value of the net
-frequency of light. Frequency not exceeded
-a certain profit threshold value are not amplified, because
-Losses outweigh profits, and in practice they do not.
-They appear in the laser radiation. The typical profit curve
-The active medium is a Lorentzian function, as
-2
-2
-0
-)
-2
-/
-(
-)
-(
-)
-(
-
- A
-
-(1)
-where, as is easy to verify, 0
-is the frequency at which the maximum gain is reached, max, and is
-the width of the curve at half its height (see Figure 2). For our ruby laser, the maximum of the curve
-corresponds to the wavelength already mentioned, = 694,3 nm, and the width is
-Hz
-10
-0
-,8
-8
-
-. A is a
-constant whose value you won't need.
-(e) If only efficiently amplified frequencies with a gain of more than 10% of max , how many
-Will the modes appear in the light emitted by the laser? For simplicity's sake, suppose that one of the ways involved is to
-It's perfectly focused on the profit curve.
-(f) Assuming that the gain curve does not depend on the length of the cavity, calculate the maximum length
-It can have only one mode to appear in the laser light.
-
-2 If more than one mode is efficiently amplified, the light emitted by the laser contains radiation at a frequency range
-within the profit curve, and the laser is said to be multimodal. These lasers are used in applications where the
-The Commission has already adopted a number of proposals for a new directive.
-3 The single-mode lasers emit very monochrome light. This is necessary, for example, for the registration of holograms or
-the communication by optical fiber.
-Fig. 2.
-
- 0
-
-Max
-Max/2
-Spanish Olympics in Physics
-The following is the list of the categories of products:
-The European Union has a number of important objectives:
-P3 Solution
-(a) As is well known, the wavelength, frequency, f, and propagation speed, v, of any
-The harmonic wave is
-
-f
-
-v
-
-(2)
-
-In particular, the propagation rate of an electromagnetic wave in vacuum is
-f
-c
-0
-
-, y en un
-The mean material refractive index n speed is
-
-n
-f
-n
-c
-0
-
-v
-
-(3)
-
-Comparing (2) and (3) is obtained
-
-n
-0
-
-(4)
-(b) The known stationary wave condition in a space of L length, with nodes at both ends, is
-
-2
-
-m
-L
-
-(5)
-
-where m is an integer. Combining this equation with (4) and (3) and clearing the frequency is
-They get the possible frequencies,
-m
-f
-, of the laser cavity modes
-
-L
-n
-c
-m
-fm
-2
-
-(6)
-
-Therefore, the frequency separation between two consecutive modes of order m and m+1 is
-
-L
-n
-c
-f
-2
-
-(7)
-(c) From (6) and (7), it follows that the frequency of
-1f of the fundamental mode, corresponding to m = 1,
-It coincides with
-f
-
-. Operating with the data is obtained
-
-Hz
-10
-259
-,
-4
-8
-1
-
-f
-f
-
-(8)
-(d) The frequency of light for the wavelength = 694.3 nm could be calculated, taken to (6) and cleared m,
-But it is faster and more direct to take into account (4) and (5), where it follows that
-
-0
-2
-L
-n
-m
-
-The result that appears on the calculator screen is 1 013 970,90595. But it's supposed to be m
-whole, so it's tempting to round off the nearest whole and answer that order of the mode implies
-
+Il risultato che appare sullo schermo della calcolatrice è 1 013 970,90595. Ma si suppone che m debba essere intero, per cui è tentante arrotondare all'intero più vicino e rispondere che l'ordine del modo implica
 
 <!--fig:start-->
 ![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p7_f5.png]]
@@ -2641,8 +2280,123 @@ whole, so it's tempting to round off the nearest whole and answer that order of 
 *Spettro modi emessi, Fig. 5*
 <!--fig:end-->
 
-**Topic:** [[Oscillations & Waves]], [[Wave Optics]], [[Modern-Quantum Physics]]
-**Metodi:** [[Wave Equation (metodo)|Wave Equation]], [[Superposition Principle (metodo)|Superposition Principle]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Mirror (object)|Mirror]], [[Photon (object)|Photon]], [[Atom (object)|Atom]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1dzyhxcHOg84Bi4KclhO5VRXfwU4Gtq_W/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+P3. The laser.
+
+In the International Year of Light, it was inevitable that the Brazilian Physics Olympiad would include a problem about the $luz\dots$ laser. Since its invention in 1960, the laser has revolutionized communications, industry, medicine, and many other aspects of everyday life, science, and technology. In some applications, the high directionality and energy concentration of laser light are exploited; this light appears as a nearly cylindrical beam, a few millimeters in diameter and with very low divergence.
+
+In other applications, the main interest lies in the high monochromaticity that laser light can achieve, so that it behaves like a nearly harmonic wave—similar to those commonly used when studying wave phenomena. These two properties, directionality and monochromaticity, are intimately related to what is known as the laser's resonant cavity, formed by two facing mirrors such that light travels repeatedly back and forth between them, normally reflecting off both mirrors. Therefore, as you have already understood, standing waves will play a crucial role in laser operation—and on this topic we will focus in this problem.
+The region between the two mirrors is filled with a material called active medium, which amplifies light traveling through it, so that ideally the intensity of the beam inside the cavity would tend toward infinity due to repeated passages of light through this active medium. As in any real physical system, there are always energy losses that limit the process, but an equilibrium is eventually reached between gains and losses, resulting in a very high luminous energy density within the cavity. One of these system losses is due to the small transmittance percentage of one of the mirrors, which allows a "small" portion of the incident light to exit outward. This is the laser beam emerging from the device.
+
+The amplifying effect of the active medium arises from a phenomenon known as stimulated emission, in which when an atom emits radiation (a photon), it can trigger the emission of other excited atoms (which store energy previously absorbed via another route), with the characteristic that both radiations overlap in phase and produce constructive interference between them. If you wish to learn more about this topic, look up information on the pumping process required to achieve population inversion between two energy levels of the atoms in the active medium.
+
+But let us return now to the central topic of our problem:
+Light (a transverse electromagnetic wave) repeatedly travels back and forth between the mirrors of a resonant cavity, and the interference between waves traveling in opposite directions is constructive only for certain specific values of wavelength (or frequency) of the radiation, corresponding to what are known as the cavity's normal modes (standing waves). The amplitude distribution of the electric field inside the cavity is of the same type as that known for transverse standing waves on a taut string with both ends fixed, i.e., with nodes at the ends, as schematically shown in Figure 1.
+
+a) Taking into account that the frequency of light is the same in any medium and that the laser cavity is filled with a medium of refractive index n, deduce the relationship between the wavelength of light inside the cavity, λ, and the wavelength of that same light in vacuum, λ₀.
+
+b) Derive an expression for the frequencies of the modes in a cavity of length L. Show that the frequency separation between two consecutive modes is Δf = c/(2nL), where c is the speed of light in vacuum.
+
+1 The word "laser" is formed from the English initials of the process responsible for its operation: “Light Amplification by Stimulated Emission of Radiation” (light amplification through stimulated emission of radiation).
+
+m antinodes
+Fig. 1. Mode m of the cavity
+
+SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND olimpiada_de_fisica.unizar.es
+
+We will now consider a ruby laser (like the first laser to operate in 1960) with refractive index n = 1.760 and a cavity length L = 200.0 mm. The speed of light in vacuum is c = 2.998 × 10⁸ m/s.
+
+c) Calculate the frequency of the fundamental mode of this cavity, f₁, and the separation between two consecutive modes, Δf.
+
+d) If the ruby laser emits light with a spectrum centered at a vacuum wavelength λ₀ = 694.3 nm, what is the mode order number, m, involved?
+
+The active medium can only amplify light within a narrow frequency range defined by its gain curve G(ν) (Figure 2), where G is the gain and ν is the frequency of light. Frequencies for which the gain does not exceed a certain threshold are not amplified, since losses surpass gains, and in practice do not appear in the laser radiation. The typical gain curve of the active medium is a Lorentzian function, of the form
+G(ν) = A / [ (ν - ν₀)² + (Δν/2)² ]
+where A is a constant, ν₀ is the central frequency, and Δν is the full width at half maximum.
+
+(1)
+where, as is easily verified, 0 is the frequency at which maximum gain max is achieved, and Δν is the width of the curve at half its maximum height (see Figure 2). For our ruby laser, the peak of the curve corresponds to the previously mentioned wavelength λ = 694.3 nm, and the width is
+Δν = 8.0 × 10¹⁰ Hz.
+A is a constant whose value you will not need.
+
+e) If only frequencies with gain exceeding 10% of max are efficiently amplified, how many modes will appear in the light emitted by the laser? For simplicity, assume that one of the involved modes is perfectly centered on the gain curve.
+
+f) Assuming the gain curve does not depend on cavity length, calculate the maximum possible length of the cavity such that only a single mode appears in the laser light.
+
+2 If more than one mode is efficiently amplified, the emitted laser light contains radiation in a "comb" of frequencies within the gain curve, and the laser is said to be multimode. These lasers are used in applications where high power is desired and monochromaticity is not required.
+
+3 Single-mode lasers emit highly monochromatic light. This is necessary, for example, in holographic recording or fiber-optic communications.
+
+Figure 2.
+0
+
+ max max/2
+SPANISH PHYSICS OLYMPIAD
+ARAGÓN REGIONAL ROUND olimpiada_de_fisica.unizar.es
+P3 Solution
+
+a) As is well known, the wavelength λ, frequency f, and propagation velocity v of any harmonic wave satisfy
+
+v = fλ  (2)
+
+In particular, the propagation velocity of an electromagnetic wave in vacuum is
+
+c₀ = fλ₀  (3)
+
+and in a material medium with refractive index n, the velocity is
+
+v = c₀ / (n f)  (4)
+
+Comparing (2) and (4), one obtains
+
+λ = λ₀ / n  (5)
+
+b) The well-known condition for a standing wave in a region of length L, with nodes at both ends, is
+
+L = mλ / 2  (6)
+
+where m is an integer. Combining this equation with (5) and (4), and solving for frequency, one obtains the possible frequencies fₘ of the laser cavity modes:
+
+fₘ = m n c₀ / (2L)  (7)
+
+Therefore, the frequency separation between two consecutive modes of orders m and m+1 is
+
+Δf = n c₀ / (2L)  (8)
+
+c) Observing equations (7) and (8), it follows that the frequency f₁ of the fundamental mode, corresponding to m = 1, coincides with Δf. Using the given data:
+
+f₁ = 4.259 × 10¹⁴ Hz  (9)
+
+d) One could compute the frequency of light for wavelength λ = 694.3 nm, substitute into (7), and solve for m; however, it is faster and more direct to use equations (5) and (6), from which one deduces
+
+m = 2L / (n λ₀)
+
+The result displayed on the calculator is 1,013,970.90595. However, since m must be an integer, it is tempting to round to the nearest integer and answer that the mode order implies
+
+m ≈ 1,013,971
+
+<!--fig:start-->
+![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p7_f5.png]]
+*Transverse mode m in laser cavity, m nodes*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p8_f6.png]]
+*Lorentzian gain curve gamma(nu)*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p10_f7.png]]
+*Gain curve with half-width Delta*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p10_f8.png]]
+*Emitted mode spectrum, Fig. 4*
+<!--fig:end-->
+<!--fig:start-->
+![[_attachments/2015 primera_prueba_2015/2015 primera_prueba_2015_p10_f9.png]]
+*Emitted mode spectrum, Fig. 5*
+<!--fig:end-->
+
+

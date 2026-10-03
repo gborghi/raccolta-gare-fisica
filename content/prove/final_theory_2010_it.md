@@ -257,3 +257,210 @@ uniforme. Il cavaliere di massa $m_1 = 200\ \text{g}$ vien
 **Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]], [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Sphere (object)|Sphere]], [[Lever (object)|Lever]], [[Planet (object)|Planet]], [[Electron (object)|Electron]], [[Droplet (object)|Droplet]]
 **Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1ax1H8qryw8UvJu0gCQxtdA2diD10HP2E/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+**Good luck!**
+
+SwissPhO 2010
+Swiss Physics Olympiad
+National Selection
+Aarau, March 27–28, 2010
+Theoretical Part
+6 Mini-Problems
+Duration: 60 minutes
+Scoring: 6 × 4 points = 24 points
+Name $\dots\dots\dots\dots\dots\dots\dots\dots$ Points $\dots\dots$
+Materials allowed:
+- Hand-held calculator without data storage.
+- Writing and drawing materials.
+
+Good luck!
+
+SwissPho 2010 Theory
+Name:
+Page 2 of 15
+$1^{\circ}$ Mini-Problem
+Mechanics
+Umbrella
+
+During a heavy rainstorm, water droplets fall from the sky with constant velocity $v_p$. A traveler holds an umbrella of radius $R$ at height $h$. He moves in direction $x$ with velocity $v_x$.
+At what distance $D$ in front of himself must he hold the umbrella so that he does not get wet?
+a) In the case of no wind, i.e., rain falls vertically with velocity $v_p = -3.0\ \text{m/s}$, and additionally $v_x = -1.0\ \text{m/s}$
+$h = 2.2\ \text{m}$
+$R = 70\ \text{cm}$.
+[2.5P]
+b) There is an additional wind with velocity $v_v = 0.50\ \text{m/s}$ in direction $x$
+[1.5P]
+
+SwissPho 2010 Theory
+Name:
+Page 3 of 15
+$2^{\circ}$ Mini-Problem
+Gravitation
+Little Prince
+
+The Little Prince from Saint-Exupéry lives on a planet of radius $R$ and mass $M$.
+How much energy must be supplied to a box of sheep of mass $m$ initially at rest on the surface of his planet in order to:
+a) reach a distance $r$ from the center of his planet? (with $r > R$)
+[1.5P]
+b) place it into a circular orbit at distance $r$ from the center of his planet?
+[1.5P]
+c) prevent it from falling back onto the planet? (escape energy)
+[1P]
+
+SwissPho 2010 theory
+Name:
+Page 4 of 15
+$3^{\circ}$ Problem
+Hydrostatics
+A two-arm balance is kept in equilibrium, with a lead sphere on one side and a gold sphere on the other. Both arms have the same length.
+
+a) The two spheres are immersed in two containers completely filled with water. On which side will the balance tilt? Justify your answer.
+[2.5P]
+
+b) What density should the liquid in the container toward which the balance tilts have, to keep the balance in equilibrium?
+[1.5P]
+
+Hint:
+The densities of gold and lead are given reciprocally
+$\rho_{Au} = 19.3\ \text{t/m}^3$ and $\rho_{Pb} = 13.4\ \text{t/m}^3$.
+
+SwissPho 2010 theory
+Name:
+Page 5 of 15
+$4^{\circ}$ Problem
+Thermodynamics
+PET bottle
+An hiker closes his empty PET bottle of 1.5 liters at a temperature of $20\ ^\circ\text{C}$ and a pressure of 1015 mbar.
+Later, he climbs up a mountain, where he opens the bottle after the internal temperature has dropped to the external temperature of $-10\ ^\circ\text{C}$. The external pressure on the mountain is 960 mbar.
+
+a) When he opens the bottle, does air flow out or in? Justify your answer.
+[2P]
+
+b) What is the volume of air that flows out or in?
+[2P]
+
+SwissPho 2010 theory
+Name:
+Page 6 of 15
+$5^{\circ}$ Problemlet
+Magnetism
+Hall probe
+
+You have an electromagnet producing a variable magnetic field $H$ and a Hall probe.
+a) Explain the Hall effect using a sketch, and find the relation giving the magnitude of the measured magnetic field $B$ as a function of the current passing through the probe and the voltage induced across it. Assume the dimensions of the probe, which has a rectangular parallelepiped shape, are known.
+[2.5P]
+
+b) You are given a sample of a magnetic material and asked to determine its remanent magnetization. Propose a method to obtain this value.
+[1.5P]
+
+SwissPho 2010 theory
+Name:
+Page 7 of 15
+$6^{\circ}$ Problemlet
+Electrodynamics
+Electron in an electric field
+
+An electron is placed between two plates separated by 20 cm, with a potential difference of 100 V between them.
+a) Draw a sketch showing the direction of the electric field $E$ and the position of the electron.
+[1P]
+
+b) Calculate the electric field strength.
+[1P]
+
+c) Calculate the wavelength emitted by the electron after it has traversed the full potential difference.
+[2P]
+
+It is assumed that the electron’s speed is non-relativistic.
+$h = 6.6262\cdot10^{-34}\ \text{Js}$
+$m_e = 9.109\cdot10^{-31}\ \text{kg}$
+
+SwissPho 2010 theory
+Name:
+Page 8 of 15
+SwissPhO 2010
+Swiss Physics Olympiad
+National Selection
+Aarau, April 27–28, 2010
+Theory Part
+3 Problems (choose 3)
+
+Name $\dots\dots\dots\dots\dots\dots\dots\dots$ Points $\dots\dots$
+Duration: 150 minutes
+Evaluation: 3 × 16 points = 48 points
+
+Allowed materials:
+Hand-held calculator without data storage.
+Writing and drawing tools.
+
+Good luck!
+
+SwissPho 2010 theory
+Name:
+Page 9 of 15
+
+$1^{\circ}$ Problem
+Mechanics
+Doppler Effect
+
+The first three questions are intended to derive the formula for the frequency shift perceived when the sound source is moving (a), when the receiver is moving (b), and when both are in motion (c).
+
+The speed of sound has the value $c = 343\ \text{m/s}$. It is assumed that transmitter and receiver always move at speeds lower than the speed of sound.
+
+a) The sound source S (emitting spherical waves of frequency $f$ at rest) moves away from the receiver E with radial velocity $v$ (or toward it if $v<0$, see figure). The receiver is at rest in the medium through which sound waves propagate, namely air. What frequency $f'$ is perceived by the receiver?
+[2P]
+
+b) Same question in the case where source S is at rest and receiver E moves toward it with radial velocity $v$ (or away if $v<0$).
+[2P]
+
+c) What frequency is perceived by the receiver if the source moves relative to air with velocity $v_s$ and the receiver moves with velocity $v_e$ relative to air?
+Show that for small velocities, i.e. $v_s \ll c$ and $v_e \ll c$, the frequency change
+$\Delta f = f' - f$ is proportional to $v_r = v_e - v_s$ (use $\dfrac{1}{1+x} \approx 1 - x$ for $x \ll 1$).
+[2P]
+The following two questions are applications of the formulas derived previously.
+d) A person E is at a distance $d$ from a track² along which a Formula 1 car passes
+at constant speed $v$. Ideally it is assumed that the F1 car emits, for a given speed, sound waves of a single frequency $f$.
+At the instant $t=0$ the car is at position $x=0$ (see drawing). Express the analytical expression of the frequency perceived by the receiver as a function of time
+$t$.
+[3P]
+
+SwissPho 2010 theory
+Name:
+Page 10 of 15
+
+e) Two sound sources A and B (for example, the sounds produced by two airplanes) emit sounds of resting frequency $f$ while moving with constant velocity along a straight line $x$. Let $x_A < x_B$. The relative velocity between A and B is
+$v_r = v_B - v_A = 25\ \text{m/s}$, where $v_A$ and $v_B$ are the velocities of emitters A and B in the reference frame of the stationary air³. Both frequencies are equipped with frequency detectors and can measure the frequency perceived by the other source: B receives $f_B$, A measures
+$f_A$. A and B exchange the measurement results and conclude that $\dfrac{f_B}{f_A} = 1.1$.
+Determine $v_A$ and $v_B$.
+[4P]
+
+f)
+Bonus Question:
+Explain why the formulas derived for the Doppler effect for electromagnetic waves are not valid when one is in a situation analogous to question c).
+[3P]
+
+Observations:
+1 Component of velocity along the line connecting transmitter and receiver.
+2 For simplicity, an infinitely long straight line
+3 These may be positive or negative. In the diagram they are for example $v_A>0$ and $v_B<0$.
+
+SwissPho 2010 Theory
+Name:
+Page 11 of 15
+$2^{\circ}$ Problem
+Mechanics
+Air Track
+
+I. Define the physical quantities average velocity, instantaneous velocity, and acceleration.
+Compare average velocity with instantaneous velocity in the case of uniform linear motion and uniformly accelerated linear motion.
+[3P]
+
+II. To determine the instantaneous velocity of the glider along an air track, a photocell is placed at various measurement points. The glider is equipped with a shutter that interrupts the light beam when passing in front of the photocell. An electronic timer records the corresponding duration of shadowing $\Delta t$.
+[2P]
+Explain how, using this method, the instantaneous velocity can be approximately determined at different measurement points, and explain how the width $\Delta s$ of the shutter used affects the result.
+
+III. On the air track, verified to be horizontal, a non-uniform motion is analyzed. The glider of mass $m_1 = 200\ \text{g}$ is
+
+

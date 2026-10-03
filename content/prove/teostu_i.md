@@ -530,152 +530,110 @@ Massa di Giove: $M = 1.901\cdot10^{27}\ \text{kg}$
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 3
-A space probe to Jupiter
-In this problem we consider a method often used to accelerate space probes in the
-The direction you want. The probe passes close to a planet and can greatly increase its own
-speed and/or vary considerably in flight direction, exchanging a very small
-amount of energy with the planet's orbital motion. Let's study this effect for a probe.
-spacecraft that passes near Jupiter.
-The planet Jupiter orbits the Sun along an elliptical trajectory, which we can approximate
-with an average radius of $R$; first, to proceed with the situation analysis
-the physics,
+A spacecraft journeying toward Jupiter
+
+In this problem we consider a method frequently used to accelerate space probes in the desired direction. The spacecraft passes near a planet and can significantly increase its own speed and/or substantially change its flight direction, by exchanging a very small amount of energy with the planet's orbital motion. Here we examine this effect for a spacecraft passing near Jupiter.
+
+The planet Jupiter orbits the Sun along an elliptical trajectory, which we may approximate as a circle of mean radius $R$; first, to proceed with the analysis of the physical situation,
+
 1.
-The planet's speed $V$ is in its orbit around the Sun.
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Find the velocity $V$ of the planet in its orbit around the Sun.
+[1.5 points]
+
 2.
-When the probe is between the Sun and Jupiter (in the Sun-Jupiter segment), the distance from the Sun to Jupiter is
-Jupiter where the gravitational pull of the Sun is equal to that of Jupiter.
-The following points shall be added:
-A mass spacecraft $m = 825\ \text{kg}$ passes near Jupiter. For simplicity's sake, let's make the assumption
-that the orbit of the spacecraft is entirely in the plane of Jupiter's orbit; thus
-We're not considering a major case, the one where the spacecraft is ejected from the orbital plane.
-Consider only what is happening in the region where Jupiter's attraction is the
-This is more important than all other gravitational interactions.
-In the solar reference system the initial speed is $v_0 = 1.00\cdot10^4$ m/s (in the direction of the Sun's orbit).
-positive of the $y$ axis) while the velocity of Jupiter is on the negative side of the $x$ axis (see Figure 1);
-By "starting speed" we mean the speed of the probe when it's in interplanetary space.
-It is still far from Jupiter but already in the region where the solar attraction is negligible compared to the
-The one on Jupiter. Let us suppose that the meeting takes place in a short time
-To ignore the change in direction of Jupiter in its orbit around the Sun. Consider the
-In the case where the probe passes behind Jupiter, the $x$ is greater for the probe than for Jupiter
-when the order $y$ is the same.
-Figure 1 Viewed from the solar reference system. Or it's the orbit of Jupiter, or the space probe.
-3.
-Find the direction of motion of the probe (i.e. the angle $\varphi$ between its direction and the axis $x$)
-and its speed $v'$ in the Jupiter reference system, when it is still distant from
-- It's not.
-The following points shall be added:
-4.
-The total energy $E$ of the spacecraft is found in the reference system of Jupiter,
-The value of the energy potential at a distance is zero.
-The speed of the vehicle is very large; in our case when it is moving at a practically constant speed in the
-There are very small gravitational interactions.
-The following points shall be added:
-The trajectory of the space probe in Jupiter's reference system is a branch of hyperbole whose
-the polar coordinate equation in that reference is
-$$\frac{1}{r} = \frac{GM}{v'^2\,b^2}\left(1 + \sqrt{1 + \frac{2E\,v'^2\,b^2}{G^2 M^2 m}}\,\cos\theta\right) \qquad (1)$$
-where $b$ is the distance between one of the asynchronous points and Jupiter (the so-called impact parameter), $E$ is
-The total mechanical energy of the probe in the Jupiter reference system, $G$ is the constant of
-Cavendish, $M$ is the mass of Jupiter, $r$ and $\theta$ are the polar coordinates (the radial distance and the
-The polar angle).
-Figure 2 shows the two branches of the hyperbole, one of which is described by equation (1);
-The asynchronous and polar coordinates are also shown. It should be noted that equation (1) has its origin in the
- Attractive fire  of hyperbole. The trajectory of the space probe is the attractive one (the branch
-The Commission has not yet taken any further action.
-Figure two. The probe's trajectory in the reference to Jupiter and asynchronous hyperbole. Jupiter is Jupiter, Space
-probe = space probe.
+When the spacecraft is located between the Sun and Jupiter (on the segment Sun-Jupiter), find the distance from Jupiter where the gravitational attraction of the Sun equals that of Jupiter.
+[1 point]
+
+A spacecraft of mass $m = 825\ \text{kg}$ passes near Jupiter. For simplicity, assume that the trajectory of the spacecraft lies entirely within the plane of Jupiter's orbit; thus we do not consider an important case, namely that in which the spacecraft is ejected out of the orbital plane.
+
+We consider only what happens in the region where Jupiter's gravitational attraction completely dominates all other gravitational interactions.
+In the Sun's reference frame, the initial velocity is $v_0 = 1.00\cdot10^4$ m/s (in the positive direction of axis $y$), while Jupiter's velocity is in the negative direction of axis $x$ (see Figure 1).
+By "initial velocity" we mean the velocity of the spacecraft when it is in interplanetary space, still far from Jupiter but already in the region where solar gravitational attraction becomes negligible compared to that of Jupiter. We assume the encounter occurs over a sufficiently short time interval so that Jupiter’s orbital direction change can be neglected. We consider the case in which the spacecraft passes behind Jupiter, meaning that coordinate $x$ is larger for the spacecraft than for Jupiter when their coordinate $y$ is equal.
+
+Figure 1: View in the Sun's reference frame. O denotes Jupiter’s orbit, S the spacecraft.
+
+3. Determine the direction of motion of the spacecraft (i.e., angle $\varphi$ between its velocity vector and axis $x$) and its speed $v'$ in Jupiter’s reference frame, when it is still far from Jupiter.
+[2 points]
+
+4. Determine the total energy $E$ of the spacecraft in Jupiter’s reference frame, setting (as usual) the potential energy to zero at very large distances; in our case, when it moves at nearly constant velocity under the influence of negligible gravitational interactions.
+[1 point]
+The trajectory of the space probe in Jupiter's reference frame is a branch of a hyperbola whose equation in polar coordinates, within this reference frame, is
+$$\frac{1}{r} = \frac{GM}{v'^2\,b^2}\left(1 + \sqrt{1 + \frac{2E\,v'^2\,b^2}{G^2 M^2 m}}\,\cos\theta\right) \qquad (1)$$ where $b$ is the distance between one of the asymptotes and Jupiter (the so-called impact parameter), $E$ is the total mechanical energy of the probe in Jupiter's reference frame, $G$ is the gravitational constant (Cavendish constant), $M$ is Jupiter's mass, and $r$ and $\theta$ are the polar coordinates (radial distance and polar angle).
+
+Figure 2 shows the two branches of the hyperbola, one of which is described by equation (1); the asymptotes and polar coordinates are also indicated. Note that equation (1) has its origin at the "attractive focus" of the hyperbola. The trajectory of the space probe is the attractive branch (the highlighted one).
+
+Figure 2. Trajectory of the probe in Jupiter's reference frame and asymptotes of the hyperbola. Jupiter = Giove, Space probe = sonda spaziale.
+
 5.
-Using equation (1) describing the trajectory of the spacecraft, the
-Total angular deviation $\Delta\theta$ in the Jupiter reference system (as shown in Figure 1)
-2) and expressed as the initial speed of the probe $v'$ and the parameter
-The impact of the test is $b$.
-The following points shall be added:
+Using equation (1), which describes the trajectory of the space probe, find the total angular deflection $\Delta\theta$ in Jupiter's reference frame (as indicated in Figure 2), and express it as a function of the probe’s initial velocity $v'$ and impact parameter $b$.
+[2 points]
+
 6.
-The minimum distance the probe can travel from Jupiter is assumed to be
-If you have three Jupiter rays from the center of the planet, you have the minimum possible value of the parameter
-dimpact $b$ and the maximum possible value of the angular deviation $\Delta\theta$.
-The following points shall be added:
+Assuming that the minimum distance at which the probe can pass by Jupiter is three times Jupiter’s radius from the planet's center, determine the minimum possible value of the impact parameter $b$ and the maximum possible value of the angular deflection $\Delta\theta$.
+[1 point]
+
 7.
-A formula for the final speed $v''$ is found in the solar reference system, in
-a function only of the speed of Jupiter $V$, the initial speed of the probe $v_0$, and
-The angle of deflection $\Delta\theta$.
-The following points shall be added:
+Find a formula for the final velocity $v''$ in the Sun's reference frame, as a function solely of Jupiter's velocity $V$, the probe's initial velocity $v_0$, and the deflection angle $\Delta\theta$.
+[1 point]
 8.
-Using the previous results, we find the numerical value of the end speed $v''$ in the
-Solar reference system when the angular deviation is the maximum value
-I'm sure you can.
-The following points shall be added:
-Suggestion
-Depending on the path you choose for the solution, the following trigonometric relationships
-may be useful:
+Using the previous results, find the numerical value of the final velocity $v''$ in the solar reference frame when the angular deflection has the maximum possible value.
+[0.5 points]
+Hint
+Depending on the path you choose for the solution, the following trigonometric relations may be useful to you:
 $$\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$$
 $$\cos(\alpha + \beta) = \cos\alpha\cos\beta - \sin\alpha\sin\beta$$
-The name of the person concerned
-The Commission shall adopt the following measures:
-The following is the list of the countries of the European Union:
-Paper-reactions
-In this problem you have to write your results as both analytical expressions and as
-numerical results with units (e.g. $A = bc = 1.23\ \text{m}^2$), except where required
-I'm not going to say that I'm not going to do it.
-1. The speed $V$ of Jupiter along its orbit $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-2. Distance from Jupiter where the two gravitational attractions are equal.
+NAME________________________________
+TEAM________________________________
+CODE________________________________
+Answer sheet
+In this problem you must write your results both as analytical expressions and as numerical results with units (for example $A = bc = 1.23\ \text{m}^2$), except where it is explicitly required to do otherwise.
+1. Velocity $V$ of Jupiter along its orbit $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+2. Distance from Jupiter at which the two gravitational attractions become equal.
 $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$.
-3. Initial speed $v'$ of the space probe in the reference system of
-Giove $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$... and angle that its direction forms with the axis $x$ as
-defined in Figure 1,
+3. Initial velocity $v'$ of the space probe in the reference frame of
+Jupiter $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$... and the angle that its direction forms with the axis $x$ as defined in figure 1,
 $\dots\dots\dots\dots\dots\dots\dots\dots..\dots\dots\dots$
-4. Total energy $E$ of the spacecraft in the Jupiter reference system $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$...
-5. Write a formula giving the angular deviation of the probe in the reference system of
-Jupiter according to the impact parameter $b$, the initial velocity $v'$ and other known quantities or
-already calculated $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-6. If the distance of the probe from the centre of Jupiter cannot be less than three times the radius of
-Giove, si dia il valore minimo di $b$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$ e il valore massimo di
+4. Total energy $E$ of the space probe in the reference frame of Jupiter $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$...
+5. Write a formula that gives the angular deflection of the probe in the reference frame of
+Jupiter as a function of the impact parameter $b$, of the initial velocity $v'$ and of other known or already calculated quantities $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+6. If the distance of the probe from the center of Jupiter cannot be less than three times the radius of
+Jupiter, give the minimum value of $b$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$ and the maximum value of
 $\Delta\theta$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
-7. Write a formula that gives the probe's final speed $v''$ in the solar reference system
-in funzione di $V$, $v_0$ e $\Delta\theta$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots..\dots\dots\dots\dots\dots\dots\dots\dots\dots...\dots\dots\dots$
-8. The number of end speed values in the solar reference system when the deviation is
-angular has the maximum value calculated in point 6. $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
+7. Write a formula that gives the final velocity $v''$ of the probe in the reference frame of the Sun as a function of $V$, $v_0$ and $\Delta\theta$ $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots..\dots\dots\dots\dots\dots\dots\dots\dots\dots...\dots\dots\dots$
+8. Numerical value of the final velocity in the solar reference frame when the angular deviation has the maximum value calculated in point 6. $\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots$
 Physical constants and general data
-In addition to the numerical data provided with the text of the individual problems, knowledge of some of the
-General and universal constant data, which you can find in the following. This data is almost the same as the
-The most accurate figures currently available, and therefore have a high number of significant figures; however, there are
-You're expected to write your results down with the right number of digits for each.
-I'm not sure.
-The speed of light in vacuum: $c = 299792458\ \text{m}\,\text{s}^{-1}$
-The magnetic permeability of the vacuum: $\mu_0 = 4\pi\cdot10^{-7}\ \text{H}\,\text{m}^{-1}$
-Costante dielettrica del vuoto: $\varepsilon_0 = 8.8541878\ \text{pF}\,\text{m}^{-1}$
-Costante di Cavendish: $G = 6.67259\cdot10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$
+In addition to the numerical data provided with the text of the individual problems, knowledge of some general data and universal constants may be useful, which you can find among the following. These data are nearly the most accurate currently available, and therefore have a high number of significant digits; however, you are expected to write your results with a number of digits appropriate for each problem.
+Speed of light in vacuum: $c = 299792458\ \text{m}\,\text{s}^{-1}$
+Magnetic permeability of vacuum: $\mu_0 = 4\pi\cdot10^{-7}\ \text{H}\,\text{m}^{-1}$
+Dielectric constant of vacuum: $\varepsilon_0 = 8.8541878\ \text{pF}\,\text{m}^{-1}$
+Cavendish constant: $G = 6.67259\cdot10^{-11}\ \text{m}^3/(\text{kg}\cdot\text{s}^2)$
 Gas constant: $R = 8.314510\ \text{J/(mol}\cdot\text{K)}$
-The Boltzmann constant is $k = 1.380658\cdot10^{-23}\ \text{J}\,\text{K}^{-1}$
-Costante di Stefan: $\sigma = 56.703\ \text{nW/(m}^2\,\text{K}^4)$
-Carica elementare: $e = 1.60217733\cdot10^{-19}\ \text{C}$
-Mass of the electron: $m_e = 9.1093897\cdot10^{-31}\ \text{kg}$
-Costante di Planck: $h = 6.6260755\cdot10^{-34}\ \text{J}\,\text{s}$
+Boltzmann constant: $k = 1.380658\cdot10^{-23}\ \text{J}\,\text{K}^{-1}$
+Stefan constant: $\sigma = 56.703\ \text{nW/(m}^2\,\text{K}^4)$
+Elementary charge: $e = 1.60217733\cdot10^{-19}\ \text{C}$
+Electron mass: $m_e = 9.1093897\cdot10^{-31}\ \text{kg}$
+Planck constant: $h = 6.6260755\cdot10^{-34}\ \text{J}\,\text{s}$
 Base of the Celsius scale: $T_K = 273.15\ \text{K}$
 Mass of the Sun: $M_S = 1.991\cdot10^{30}\ \text{kg}$
-The mass of the Earth: $M_E = 5.979\cdot10^{24}\ \text{kg}$
-Average radius of the Earth: $r_E = 6.373\ \text{Mm}$
-Half-length greater than the Earth's orbit: $R_E = 1.4957\cdot10^{11}\ \text{m}$
-Giorno sidereo: $d_S = 86.16406\ \text{ks}$
-Anno: $y = 31.558150\ \text{Ms}$
-Standard value of the ground gravitational field at sea level: $g = 9.80665\ \text{m}\,\text{s}^{-2}$
-Standard mean sea level air pressure: $p_0 = 101325\ \text{Pa}$
-The refractive index of the air by visible light, at standard pressure and at $15\ ^\circ\text{C}$: $n_\text{air} = 1.000277$
-The solar constant is $S = 1355\ \text{W}\,\text{m}^{-2}$
-The mass of Jupiter: $M = 1.901\cdot10^{27}\ \text{kg}$
+Mass of the Earth: $M_E = 5.979\cdot10^{24}\ \text{kg}$
+Mean radius of the Earth: $r_E = 6.373\ \text{Mm}$
+Semi-major axis of Earth's orbit: $R_E = 1.4957\cdot10^{11}\ \text{m}$
+Sidereal day: $d_S = 86.16406\ \text{ks}$
+Year: $y = 31.558150\ \text{Ms}$
+Standard value of Earth's gravitational field at sea level: $g = 9.80665\ \text{m}\,\text{s}^{-2}$
+Standard value of atmospheric pressure at sea level: $p_0 = 101325\ \text{Pa}$
+Refractive index of air for visible light, at standard pressure and at $15\ ^\circ\text{C}$: $n_\text{air} = 1.000277$
+Solar constant: $S = 1355\ \text{W}\,\text{m}^{-2}$
+Mass of Jupiter: $M = 1.901\cdot10^{27}\ \text{kg}$
 
 <!--fig:start-->
-**p.9** — Figura 1: orbita ellittica nel sistema del Sole
+**p.9** — Figure 1: elliptical orbit in the Sun's frame
 ![[_attachments/TEOSTU_I/TEOSTU_I_p9_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.10** — Figura 2: traiettoria iperbolica vicino a Giove
+**p.10** — Figure 2: hyperbolic trajectory near Jupiter
 ![[_attachments/TEOSTU_I/TEOSTU_I_p10_f5.png]]
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kepler's Laws (metodo)|Kepler's Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Vector Decomposition (metodo)|Vector Decomposition]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1RHwzdDm0V1CtnCCDQ6qLK7qXRs3HHoll/view)
+

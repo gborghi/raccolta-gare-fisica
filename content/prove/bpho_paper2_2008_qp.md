@@ -89,6 +89,45 @@ Domanda compulsoria, con brevi quesiti indipendenti:
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Compulsory question, with short independent sub-questions:
+
+- a) A cricket ball of mass $0{,}167\ \text{kg}$ is thrown vertically upward with initial speed $25{,}0\ \text{m/s}$. If it reaches a maximum height of $20{,}0\ \text{m}$, determine the percentage of energy loss caused by air resistance.
+- b) An earthquake off the coast of Sumatra, Indonesia, in $A$ produces P and S mechanical waves that travel in the Earth's mantle at respective speeds $5{,}50\ \text{km/s}$ and $3{,}00\ \text{km/s}$. If the S wave arrives at the coastal station $B$, across the Indian Ocean near Mombasa, Kenya, $15\ \text{min}\ 17\ \text{s}$ after the P wave, determine: (i) the distance $D$ from $B$ to $A$; (ii) the time $T$ taken by a tsunami, produced by the earthquake, to arrive at $B$ if it travels at $800\ \text{km/h}$; (iii) on what principle a tsunami warning system could be based?
+- c) A class of $11$ students each determined a value of $g$ with a simple pendulum: $9{,}80;\ 9{,}84;\ 9{,}72;\ 9{,}74;\ 9{,}87;\ 9{,}75;\ 9{,}28;\ 9{,}86;\ 9{,}81;\ 9{,}79;\ 9{,}82$. (i) What is the best estimate of $g$? (ii) Estimate the accuracy, based on the deviation from the best value of $g$ in (i).
+- d) A man in a boat, floating on a pond of area $A$, has with him a stone boulder of mass $M_B$ and density $\rho_B$, and a block of wood of mass $M_T$ and density $\rho_T$. The water has density $\rho_w$. By how much does the water level in the pond change if he throws into the pond: (i) the boulder? (ii) the block of wood? Give a complete explanation in each case.
+e) An open cylindrical container, radius $18\ \text{cm}$, contains water of density $1000\ \text{kg m}^{-3}$. It has a hole at the base connected to a horizontal outlet tube. The container is suspended by a spring, spring constant $k$, at a vertical distance $H$ from the water surface. As water flows out of the container, what value of $k$ is required to keep the water surface at the initial distance $H$ below the support?
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p2_f1.png]]
+*vertical cylindrical container with spring and outlet tube*
+<!--fig:end-->
+
+- f) A vehicle travels at $60\ \text{mph}$ along a straight road without slipping. What are the velocities at the "cardinal points" $N$, $S$, $E$, $W$ on the rim of the wheel?
+- g) A pulsed microwave source produces bursts of radiation at $20\ \text{GHz}$. Each burst lasts for $1{,}0\ \text{ns}$. A parabolic reflector of radius $6{,}0\ \text{cm}$ is used to produce a parallel beam. The average output power of each pulse is $25\ \text{kW}$. Determine: (i) the wavelength $\lambda$; (ii) the total energy $E$ of each pulse; (iii) the energy density $U$ propagated by the reflector; (iv) the momentum density $P$ propagated by the reflector.
+- h) A constant horizontal acceleration is applied to a box initially at rest, of mass $1{,}2\ \text{kg}$ for $10{,}0\ \text{s}$. Its final velocity is $0{,}40\ \text{m/s}$. What force $F$ is required? The box is maintained at this constant velocity on a frictionless track while a continuous vertical flow of sand is deposited onto it at a rate of $5{,}0\ \text{g s}^{-1}$, impacting at $10\ \text{m/s}$. Determine the vertical force $F_V$ on the box due to the falling sand and the horizontal force $F_H$ required to maintain constant velocity of the box.
+- j) In the circuit shown in Figure 1.j, all resistors have resistance $r$ and the cells have electromotive force (emf) $E$. Calculate the current $I$ flowing through each cell.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p3_f2.png]]
+*circuit with cells and resistors*
+<!--fig:end-->
+
+- k) *[Table 1.k]* Determine the energy released when a deuterium nucleus $D$ and a tritium nucleus $T$ are fused to produce a neutron $n$ and a helium nucleus $He$. Masses: $D = 2{,}01410\ \text{u}$, $T = 3{,}01605\ \text{u}$, $n = 1{,}00867\ \text{u}$, $He = 4{,}00260\ \text{u}$; $1\ \text{u} = 1{,}66050\times 10^{-27}\ \text{kg}$.
+
+- l) A metal U-shaped bar, inverted, with negligible electrical resistance, is mounted vertically on a bench. A horizontal bar $XY$, of length $L$ equal to the distance between the arms of the U, mass $m$, and electrical resistance $R$, can slide freely along the arms of the U. A uniform magnetic field with flux density $B$ is perpendicular to the plane of the U. (i) If the horizontal bar falls from rest under gravity, it will reach a terminal velocity. Explain why. (ii) Calculate the magnitude and direction of the current $I$ induced after the terminal velocity $v$ of the bar has been reached. (iii) Considering the motion during a small time interval $\Delta t$, show that the loss of gravitational potential energy is equal to the heat dissipated.
+
+<!--fig:start-->
+![[_attachments/BPhO_Paper2_2008_QP/BPhO_Paper2_2008_QP_p4_f3.png]]
+*horizontal bar XY on U-shaped guide in magnetic field B*
+<!--fig:end-->
+
+- m) A sound source emitting a note of frequency $500\ \text{Hz}$ starts from a stationary observer and moves directly toward a wall at speed $v$. The speed of sound is $c_s = 340\ \text{m/s}$; $v$ is much smaller than $c_s$. Derive an expression for the frequency received by the stationary observer: (i) directly from the source; (ii) after reflection from the wall; (iii) determine the value of $v$, small compared to $c_s$, if the observer detects a beat frequency of $30\ \text{Hz}$.
+
+- n) The current abundances of the isotopes $\text{U}^{238}$ and $\text{U}^{235}$ are in the ratio $140:1$. Their half-lives are respectively $4{,}5\times 10^9$ and $7{,}1\times 10^8$ years. Estimate the age of the Earth assuming equal amounts of each isotope were present at the time of Earth's formation.
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2008 Locale Round 1 — Quesito 2" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>

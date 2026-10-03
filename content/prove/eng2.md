@@ -533,214 +533,100 @@ m .
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 2 Propulsione a getto (10 punti)
-In un motore di razzo la spinta è creata dal rilascio di prodotti di combustione del combustibile nella direzione
-- Opposto al suo movimento. È naturale che la Commissione si impegni a
-la massa del razzo diminuisce nell'accelerazione
-processo. Questa idea fu proposta per la prima volta dal grande
-Lo scienziato russo K. Tsiolkovsky per attuare il
-movimento di oggetti in vuoto, ad esempio, in aria esterna
-lo spazio. Oggi i voli spaziali sono diventati un'abitudine.
-È noto che il sito di lancio spaziale,
-Baikonur, è situato sul territorio del Kazakistan.
-Il primo satellite e il primo cosmonauta, Yu. Gagarin,
-Sono stati inviati nello spazio da Baikonur che è ora un
-X Olimpiada internazionale di Zhautykov/concorso teorico Pagina 3/5
-complesso di strutture ad alta tecnologia destinate al lancio nello spazio di navi spaziali dotate di equipaggiamento umano, in particolare per
-La Stazione Spaziale Internazionale.
-- Il razzo classico
-Lascia che un razzo abbia una massa iniziale
-0
-m e lasciare che la velocità del combustibile rispetto al razzo sia
-costante e uguale a U . Supponiamo che nel momento iniziale il razzo sia a riposo nel
-il quadro di riferimento del laboratorio e non vi è alcuna forza esterna.
-1. Trova la velocità del razzo v come funzione della sua massa m . Questa formula si chiama
-dopo K. Tsiolkovsky. Esprimi la tua risposta in termini di
-0
-,
-,
-m m u .
-2. [0,5 punti] Un oggetto di massa
-1000
-m =
-è necessario accelerare il kg alla velocità orbitale.
-Valutare la massa iniziale del razzo
-0
-m , se l' acceleramento della caduta libera è
-9.80
-g =
-m/c2 e il raggio di
-La Terra è
-6400
-R =
-km e
-5,00
-u =
-km/s.
-Lascia che un razzo si muova nel campo gravitazionale della Terra. L'accelerazione di caduta libera g è
-il consumo di combustibile è stato considerato costante, mentre il consumo di combustibile è stato considerato
-( )
-( ) /
-t
-dm t
-dt
+
+Nel motore di un razzo la spinta viene generata dallo scarico dei prodotti della combustione del carburante nella direzione opposta al suo moto. È ovviamente naturale che la massa del razzo diminuisca durante il processo di accelerazione. Quest’idea fu per la prima volta proposta dal grande scienziato russo K. Tsiolkovsky per realizzare il moto di oggetti nel vuoto, ad esempio nello spazio esterno. Oggi i voli spaziali sono diventati abituali.
+
+È ben noto che il sito di lancio spaziale Baikonur si trova sul territorio del Kazakistan. Il primo satellite e il primo cosmonauta, Yu. Gagarin, sono stati mandati nello spazio da Baikonur, che oggi è un complesso di strutture ad alta tecnologia finalizzato al lancio di veicoli spaziali abitati nello spazio, in particolare verso la Stazione Spaziale Internazionale.
+
+Razzo classico
+Sia dato un razzo con massa iniziale m₀ e una velocità del combustibile rispetto al razzo costante ed uguale a u. Si assuma che all’istante iniziale il razzo sia fermo nel sistema di riferimento del laboratorio e che non agiscano forze esterne.
+
+1. [0,5 punti] Determinare la velocità v del razzo in funzione della sua massa m. Tale formula è detta formula di K. Tsiolkovsky. Esprimere la risposta in termini di m₀, m e u.
+
+2. [0,5 punti] Un oggetto di massa m = 1000 kg deve essere accelerato fino alla velocità orbitale.
+Valutare la massa iniziale del razzo m₀, sapendo che l’accelerazione di gravità nel vuoto è...
+9,80 g = m/c² e il raggio della Terra è
+6400 R = km e
+5,00 u = km/s.
+Si consideri un razzo in campo gravitazionale terrestre. L'accelerazione di caduta libera g si assume costante, mentre il consumo di carburante ( )
+( ) / t dm t dt
 $\mu$
-= $-$
-- può dipendere dal tempo.
-3. Scrivi l'equazione del movimento di un razzo nel campo gravitazionale terrestre. Questo
-L'equazione viene chiamata dopo I. - Meshcherskij. Esprimi la tua risposta in termini di
-,v, , ,
-m
-u g $\mu$ .
-Supponiamo che la velocità di scarico del combustibile u sia diretta parallela alla velocità di scarico del combustibile
-Accelerazione di caduta g , e la velocità iniziale del razzo è zero.
-4. [0,75 punti] Trova come il consumo di carburante
-( )
+= $-$ può dipendere dal tempo.
+
+3. [0,75 punti] Scrivere l'equazione del moto di un razzo nel campo gravitazionale terrestre. Tale equazione è nota come equazione di I. Meshcherskij. Esporre la risposta in termini di
+v, , , m u g $\mu$ .
+
+Si assuma nel seguito che la velocità di espulsione del carburante u sia diretta parallelamente all'accelerazione di caduta libera g, e che la velocità iniziale del razzo sia nulla.
+
+4. [0,75 punti] Determinare come deve dipendere dal tempo t il consumo di carburante ( )
 st t
-$\mu$
-La durata di un'operazione deve essere
-un razzo per appendere immobile ad una certa altezza. Esprimi la tua risposta in termini di
-0, , ,
-m u g t .
-Supponiamo che il consumo di carburante $\mu$ sia costante nel tempo in modo tale che
-( ).
+$\mu$ affinché il razzo possa rimanere sospeso in quiete a un certo'altezza. Esporre la risposta in termini di
+0, , , m u g t .
+
+Si assuma ora che il consumo di carburante $\mu$ sia anch'esso costante nel tempo, in modo che ( ).
 st t
 $\mu$
 $\mu$
 >
 
-5. [2,0 punti] In questo caso la dipendenza della velocità del razzo dal tempo t può essere rappresentata come
+5. [2,0 punti] In questo caso la dipendenza della velocità del razzo dal tempo t può essere espressa come
 1
 2
-3
-v( )
-ln(1
-)
+3 v( ) ln(1 )
 t
 At
 A
 A t
 =
 +
-+
++ , dove
+1 2 3, , A A A sono delle costanti opportune.
+Determinare
+1 2 3, , A A A e esprimerle in termini di
+0, , , m u g $\mu$ .
+
+6. [1,0 punto] Supponendo che la massa iniziale del razzo sia uguale a
+0 m , e che la massa finale debba essere m . Determinare l'altezza massima max H raggiungibile dal razzo e il corrispondente consumo ottimo di carburante opt
+$\mu$ . Esporre la risposta in termini di
+0, , , m m u g .
+
+Razzo relativistico
+Nella parte precedente del problema si è supposto che il razzo si muova con una velocità non relativistica. Per realizzare viaggi interstellari è necessario accelerare il razzo fino a velocità prossime a quella della luce, e in tal caso gli effetti relativistici non possono essere trascurati nei calcoli.
+
+Per stabilire le caratteristiche principali del moto del razzo nel caso relativistico, si introduce il concetto di sistema di riferimento proprio. Il sistema di riferimento proprio è un sistema di riferimento inerziale che si muove con la stessa velocità del razzo rispetto al sistema di riferimento laboratorio, ovvero è il sistema di riferimento in cui il razzo è fermo in ogni istante.
+
+7. [2,5 punti] Trovare la relazione tra l'accelerazione del razzo nel sistema di riferimento proprio p a e la sua accelerazione nel sistema di riferimento laboratorio ra quando la velocità del razzo è v, e c rappresenta la velocità della luce. Esporre il risultato in termini di
 ,
-dove
-1
-2
-3
-,
-,
-Un A A sono alcune costanti.
-Trova
-1
-2
-3
-,
-,
-A A A e esprimere le loro
-0, , ,
-m u g $\mu$ .
-6. Supponiamo che la massa iniziale del razzo sia uguale
+,v, p r a a c .
+
+8. [1,5 punti] Sia il razzo in quiete nell'istante iniziale. Allora, utilizzando i risultati della domanda precedente, si può dimostrare che in ogni istante il valore della massa del razzo nel sistema di riferimento proprio è legato alla sua velocità nel sistema di riferimento laboratorio dalla relazione
 0
-m , e la massa finale è
-m . Trova l'altezza massima
-Max
-H
-che il razzo possa raggiungere e determinare il corrispondente
-consumo di carburante ottimale
-opt
-$\mu$
-. Esprimi la tua risposta in termini di
-0,
-, ,
-m m u g .
-Raquete relativistiche
-Nella parte precedente del problema si è ipotizzato che il razzo si muova con un
-velocità non relativistica. Per realizzare viaggi interstellari è necessario accelerare il razzo
-La velocità della luce è molto più elevata rispetto alla velocità della luce e quindi gli effetti della relatività non possono essere ignorati al
-Calcoli.
-Per stabilire le caratteristiche del movimento del razzo in un caso relativistico,
-introdurre il concetto di corretto quadro di riferimento. Il corretto quadro di riferimento è un
-Inerzia di riferimento che si muove con la velocità del razzo stesso rispetto alla velocità del veicolo
-quadro di riferimento di laboratorio, ovvero è il quadro di riferimento in cui il razzo è a riposo in una data
-- Il tempo.
-7. [2,5 punti] Trova la relazione tra l'accelerazione del razzo nel corretto quadro di riferimento
-p
-a
-e la sua accelerazione nel quadro di riferimento di laboratorio
-Ra quando la velocità del razzo è v ,
-e c è la velocità della luce. Esprimi la tua risposta in termini di
-,
-,v,
-p
-r
-a
-a
-c .
-8. Lascia che il razzo sia in riposo al momento iniziale. In seguito, utilizzando i risultati della
-La massa del razzo nel corretto
-il quadro di riferimento è correlato alla sua velocità nel quadro di riferimento di laboratorio come
-0
-1
-v /
-1
-v /
-c
-m
-m
-c
+1 v /
+1 v / c m m c
 $\alpha$
 $-$
 
 =
 
-+
-
 .
-Trova $\alpha$ e esprima in termini di ,u c .
-X Olimpiada internazionale di Zhautykov/concorso teorico Pagina 4/5
+Trovare $\alpha$ e esprimerlo in termini di ,u c .
+X Olimpiade Internazionale Zhautykov/Competizione Teorica Pagina 4/5
 9. [0,25 punti] Un oggetto di massa
-1000
-m =
-il kg deve essere accelerato fino alla metà della velocità di
-luce v
-0.5c
-=
-dove la velocità della luce è
+1000 m = kg deve essere accelerato fino a metà della velocità della luce v
+0,5c = dove la velocità della luce è
 8
-3.00 10
-c =
-$\cdot$
-m/s. Valutare la massa iniziale del razzo
-insieme al combustibile
-0
-m e scriverlo come potenza di 10, se la velocità di scarico del combustibile è
-5,00
-u =
-km/s.
-10. [0,25 punti] Si può dimostrare che dal punto di vista pratico il miglior razzo è quello che
-che sfrutta i fotoni piuttosto che i gas caldi prodotti alla combustione del combustibile. Un oggetto di massa
-1000
-m =
-è necessario accelerare il kg fino alla metà della velocità della luce v
-0.5c
-=
-. Valutare l'inizio
-massa del razzo insieme al combustibile
-0
-m .
-
+3,00 10 c = $\cdot$ m/s. Valutare la massa iniziale del razzo insieme al carburante
+0 m e scriverla come potenza di 10, sapendo che la velocità di espulsione del carburante è
+5,00 u = km/s.
+10. [0,25 punti] Si può dimostrare che dal punto di vista pratico il miglior razzo è quello che sfrutta fotoni invece dei gas caldi prodotti dalla combustione del carburante. Un oggetto di massa
+1000 m = kg deve essere accelerato fino a metà della velocità della luce v
+0,5c = . Valutare la massa iniziale del razzo insieme al carburante
+0 m.
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p2_f3.png]]
 *razzo Sojuz al cosmodromo Baikonur*
 <!--fig:end-->
-
-**Topic:** [[Newtonian Mechanics]], [[Special Relativity]], [[Gravitation]]
-**Metodi:** [[Conservation of Momentum (metodo)|Conservation of Momentum]], [[Differential Equations (metodo)|Differential Equations]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]]
-**Objects:** [[Satellite (object)|Satellite]], [[Photon (object)|Photon]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1JJHBsW4l7iH8mqvmpwWidb0Xemzy48Ft/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Russia na — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/wire"></span>

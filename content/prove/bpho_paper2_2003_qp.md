@@ -330,6 +330,20 @@ c) Questa relazione è valida per ogni possibile orbita ellittica $R$ interpreta
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+a) Explain, using appropriate ray diagrams, solar and lunar eclipses. Why do such eclipses not occur once per month?
+
+b) Assuming a circular orbit, show that the orbital period $T$ of the Moon is related to the radius $R$ by
+$$T^2 = \frac{4\pi^2}{G M_E}R^3,$$, where $M_E$ is the mass of Earth and $R = R_{EM}$ is the distance between the centers of Earth and Moon.
+
+c) This relation holds for any possible elliptical orbit $R$ interpreted as the semi-major axis of the ellipse (half of the major axis); the case of an ellipse for which both foci coincide with the center is a special case. In the limiting case of a "very narrow" ellipse, one focus coincides with the ends of the ellipse. This corresponds to the Moon's orbit falling toward Earth from an initial distance between centers of Earth and Moon; neglecting the effects of Earth and Moon, calculate:
+- (i) the time $t$ it takes for the Moon to collide with Earth;
+- (ii) the average velocity of the Moon during its fall toward Earth;
+- (iii) the maximum velocity of the Moon $V_M$ at a distance $R$ from Earth's center;
+- (iv) the time it takes for a stationary asteroid to fall toward the Sun from $2{,}00\ \text{AU}$ away from the Sun, such that the stationary asteroid collides with another asteroid.
+
+
 <span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2003 Locale Round 1 — Quesito 7" data-tags="kg/prova,paese/UK,comp/BPhO,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="it"></div>

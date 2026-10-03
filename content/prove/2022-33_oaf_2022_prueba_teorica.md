@@ -3486,223 +3486,136 @@ una quantificazione dei possibili angoli di diffusione della luce rispetto all'a
 
 <div class="qlang-split" data-lang="en"></div>
 
-P3. A close-up of the optical fibres0F1.
-Optical fibers have revolutionized the world of telecommunications in recent decades. Su
-The functioning of the system is based on the laws of reflection and refraction (Snell's law), in particular the
-The phenomenon of total reflection. Sketchwise (Figure 1) an optical fiber is a fine material thread
-The translucent, so-called nucleus, through which light propagates under successive total reflections, because it is
-surrounded by another material, called coating, with a lower refractive index.
+P3. An approach to optical fibers0F1.
+Optical fibers have revolutionized the world of telecommunications in recent decades. Their operation is based on the laws of reflection and refraction (Snell's law), in particular on the phenomenon of total reflection. Schematically (figure 1) an optical fiber is a thin thread of transparent material, called the core, through which light propagates undergoing successive total reflections, since it is surrounded by another material, called the cladding, with a lower refractive index.
 a)
-Si
+If
 465
-,1
-NUC =
-n
-y
+,1 nuc = n and
 460
-,1
-The following is the list of the following:
-n
-, determines the maximum angle with respect to the axis,
-Max
+,1 rev = n
+, determine the maximum angle with respect to the axis, max
 $\theta$
-, which you can travel with
-The light inside the core to produce total reflections when it reaches the coating. What's the point?
-angle of illumination,
-Max
+, at which light can travel inside the core so that total reflections occur when it reaches the cladding. To what illumination angle, max
 $\alpha$
 , from the outside (
 000
-,1
-Air =
-n
-) corresponds to this situation?
-All the lightning that hits the entrance of the core with
-Max
+,1 air = n
+) does this situation correspond?
+All rays that strike the entrance of the core with max
 0
 $\alpha$
 $\alpha \leq$
-$\leq$
-They will spread in confinement.
-The fiber is not the same as the fiber, but it takes different paths, and therefore takes different times to reach the end.
-The exit. Date: speed of light in vacuum,
-m/s
+$\leq$ will propagate confined through the fiber, but following different paths, and therefore taking different times to reach the output end. Data: speed of light in vacuum, m/s
 10
 998
 ,
 2
 8
 $\times$
-=
-c
+= c
 .
 b)
 Calculate the lengths,
 0
-L
-y
-Max
-L
-light travel in extreme cases
+L and max
+L traveled by the light in the extreme cases
 0
 =
-$\alpha$
-y
-Max
+$\alpha$ and max
 $\alpha$
 $\alpha$ =
-, and the
-the corresponding transit times,
-0t
-y
-Max
-t
-, for a length of fibre L = 1000 m.
-The light traveling through the fiber is produced by an LED or laser diode that
-illuminates its entry in a wide range of angle of incidence. Signal a
-transmit (e.g. an internet connection or telephone conversation)
-It encodes digitally by a rapid succession of light pulses, bits (figure
-2), according to a pre-established binary code, so that a detector system at the end of the
-The fiber can recognize these luminous pulses and decode the
-message they carry.
-The second paragraph shows that the transit time of light through the fibre depends on the angle of
-The Commission will take the necessary measures to ensure that the information is available to the public. This phenomenon, called dispersion, is undesirable for practical communication purposes.
-The digital detector is designed to amplify the pulses transmitted and tend to overlay two consecutive ones, so that the detector can be used to detect the
-You can't tell them apart and the information gets lost.
+, and the corresponding transit times,
+0t and max t
+, for a fiber length L =1000 m.
+The light that travels through the fiber is produced by an LED or a laser diode that illuminates its input over a wide range of incidence angles. The signal to be transmitted (for example, an internet connection or a telephone conversation) is digitally encoded by a rapid succession of light pulses, "bits" (figure
+2), according to a preestablished binary code, so that a detector system at the end of the fiber can recognize these light pulses and decipher (decode) the message they carry.
+In the second section it has been seen that the transit time of light through the fiber depends on the propagation angle. This phenomenon, called dispersion, is undesirable for the practical purposes of digital communication, since it broadens the transmitted pulses and tends to superimpose two consecutive ones, so that the detector may fail to distinguish them and the information is lost.
 c)
-Suppose the light pulses that strike the fiber cover the entire range of angle of incidence,
-I'm going in.
+Suppose that the light pulses that strike the fiber cover the entire range of incidence angles, between
 0
-=
+= $\alpha$ and max
 $\alpha$
-y
-Max
-$\alpha$
-$\alpha$ =
-. If the initial duration of pulses is
-ns
+$\alpha$ = . If the initial duration of the pulses is ns
 5
 0 =
 T
-, as shown in Figure 2,
-calculates the total duration of the output pulses, T.
+, as indicated in figure 2, calculate the total duration of the output pulses, T.
 d)
-Calculates the maximum frequency of pulse transmission,
-Max
-f
-, so that they can be distinguished by the
-detector to the output of the fiber. In order to increase the transmission capacity of the system, it is important that the
-frequency as high as possible. How would you modify the design data of the fiber to achieve this?
-1 This problem was proposed at the 24th Spanish Olympiad of Physics held in 2013 at the University of Lleida.
+Calculate the maximum pulse transmission frequency, max f
+, so that they can be distinguished by the detector at the output of the fiber. To increase the transmission capacity of the system, it is desirable for this frequency to be as high as possible. How would you modify the fiber design data to achieve this?
+1 This problem was proposed at the 24th Spanish Physics Olympiad held in 2013 at the University of Lleida.
 Fig. 1
 $\theta$
 $\alpha$
-The core
-Coating
+Core
+Cladding
 L
-Fig. 2
-t
-33 Spanish Olympics in Physics
-The following is the list of the categories of products:
+Fig. 2 t
+33rd SPANISH PHYSICS OLYMPIAD
+ARAGON PHASE
 P3. Solution
-When the light is moving from one n-index medium to another n-index medium, Snell's law states
+When light is incident from a medium of index n toward another of index n’, Snell's law states
 $\epsilon$
 $\epsilon$
 $'$
 $'$
-=
-Other
-Other
-n
-n
-(1)
-where $\epsilon$ and $\epsilon'$ are the angle of incidence and refraction, relative to the normal to both surfaces. Si
-n
-n <
+= sen sen n n (1)
+where $\epsilon$ and $\epsilon'$ are the angles of incidence and refraction, with respect to the normal to both surfaces. If n n <
 $'$
-, you 'll have to
+, it will follow that
 $\epsilon$
-$\epsilon$
-Other
-Other
+$\epsilon$ sen sen
 >
 $'$
 , and therefore
 $\epsilon$
 $\epsilon$ >
-$'$
-The Commission has not yet adopted a proposal. The limit angle
-$l\epsilon$ is defined as that
-the maximum angle of refraction is equal to,
+$'$ (figure 3). The critical angle
+$l\epsilon$ is defined as the one corresponding to the maximum angle of refraction,
 2
 /
 $\pi$
 $\epsilon$ =
-$'$
-(Figure 4), that is to say
-n
-n
-l
+$'$ (figure 4), that is n n l
 $'$
 =
-$\epsilon$
-Other
+$\epsilon$ sen
 $\Rightarrow$
 )
-/
-(
-Other
-arc
-n
-n
-l
+/ ( sen arc n n l
 $'$
 =
-$\epsilon$
-(2)
-For incidents with an angle above the limit,
+$\epsilon$ (2)
+For incidence with an angle greater than the critical angle,
 $l\epsilon$
 $\epsilon$ >
-, equation (1) has no real solution for $\epsilon'$, because
-It would be necessary that
-1
-Other
+, equation (1) has no real solution for $\epsilon'$ , since it would be necessary that
+1 sen
 >
 $'$
 $\epsilon$
-. In these circumstances there is no refracted beam; all light energy is
-reflects on the separation surface between the two media, with an angle of reflection equal to that of incidence,
-It's the well-known phenomenon of "total reflection".
+. Under these circumstances there is no refracted ray; all the light energy is reflected at the interface between the two media, with an angle of reflection equal to that of incidence. This is the well-known phenomenon of "total reflection".
 a)
-In our problem, light penetrates from the core to the coating, with
+In our problem, the light is incident from the core toward the cladding, with
 460
 ,1
 465
-,1
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: re: Re: are are are are are are are are not included with the are not included in the are not included in the are not included in the first included in the first included in the first two or
-Other
+,1 rev nuc
 =
 =
 $'$
 >
 =
-=
-n
-n
-n
-n
-Therefore, full reflection will occur when the angle of
-the incidence is greater than the limit, which can be calculated
-having regard to (2). You get it
-o
+= n n n n
+Therefore, total reflection will occur when the angle of incidence is greater than the critical angle, which can be calculated taking into account (2). One obtains o
 265
 ,
 85
 =
 $l\epsilon$
-The angle required, $\theta$, is the complement of $\epsilon$, (figure
-5). In order for total reflection to take place, it must be
-o
+The angle that is asked for, $\theta$, is the complement of $\epsilon$, (figure
+5). For total reflections to occur, it must be either
 265
 ,
 85
@@ -3711,269 +3624,159 @@ o
 $l\epsilon$
 $\epsilon$
 
-$\Rightarrow$
-o
+$\Rightarrow$ or
 735
 ,
-4
-Max =
+4 max =
 $\theta$
-The angle of propagation with respect to the axis, $\theta$, is the angle of refraction with respect to the light input in the
-the core of the fiber, coming from the air. Since the air index is the unit, it will be met
-l
-n
-n
+The propagation angle with respect to the axis, $\theta$, is the refraction angle with respect to the entry of light into the fiber core, coming from the air. Since the index of air is unity, it will hold that l n n
 $\epsilon$
 $\theta$
-$\alpha$
-body
-Other
-Other
-Other
-Max
-Other
-Max
+$\alpha$ cos sen sen nuc max nuc max
 =
 =
-$\Rightarrow$
-o
+$\Rightarrow$ or
 946
 ,
-6
-Max =
+6 max =
 $\alpha$
 Fig. 4
 $\epsilon$
-Refractory beam
-Reflected beam
+Refracted ray
+Reflected ray
 $\epsilon$
-Incident lightning
-Incident lightning
-Reflected beam
+Incident ray
+Incident ray
+Reflected ray
 Fig. 3
-Refractory beam
+Refracted ray
 Fig. 5
 Coating
 Coating
 Air
-The core
-33 Spanish Olympics in Physics
-The following is the list of the categories of products:
-b)
-The rays that strike from the air over the nucleus with
+Core
+33rd SPANISH PHYSICS OLYMPIAD
+ARAGON PHASE b)
+The rays that strike the core from the air with
 0
 =
-$\alpha$
-They'll travel through the fiber with
+$\alpha$ will travel through the fiber with
 0
 =
 $\theta$
-, in parallel
-The product is not covered with any colour or colour. So they have to travel a distance
-m
+, parallel to the axis and without undergoing total reflections in the coating. Therefore, they must travel a distance m
 1000
 0
 =
 = L
 L
-The speed of light propagation within the nucleus is
-Other
-/n
-c
-v =
-, where
-m/s
+The propagation speed of light inside the core is nuc
+/n c v =
+, where m/s
 10
 00
 ,3
 8
 $\times$
-=
-c
-es la
-speed of light in the vacuum. Therefore, the time it will take light rays to travel through the fiber, to
+= c is the speed of light in vacuum. Therefore, the time that the light rays will take to travel through the fiber, for
 0
 =
 $\alpha$
-, es
-c
-n
-L
-v
-L
-t
-Other
+, is c n
+L v
+L t nuc
 0
 0
 =
 =
-$\Rightarrow$
-s
+$\Rightarrow$ s
 887
 ,
 4
 0
 $\mu$
-=
-t
-The rays that strike from the air over the nucleus with
-Max
+= t
+The rays that strike the core from the air with max
 $\alpha$
-$\alpha$ =
-They'll travel through the fiber with
-Max
+$\alpha$ = will travel through the fiber with max
 $\theta$
 $\theta$ =
-, de
-So the length actually travelled is
-L
-n
-n
+, so that the length actually traveled is
+L n n
 L
 L
-L
-l
-Max
-Max
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
-Other
-body
+L l max max rev nuc sen cos
 =
 =
 =
 $\epsilon$
 $\theta$
-$\Rightarrow$
-m
+$\Rightarrow$ m
 4
 ,
-1003
-Max =
+1003 max =
 L
-The time taken to travel through the fibre for
-Max
+The travel time through the fiber for max
 $\alpha$
-$\alpha$ =
-It will, therefore, be
-0
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
-Other
-Max
-Max
-Max
-t
-n
-n
-c
-n
-L
-v
-L
-t
+$\alpha$ = will therefore be
+0 rev nuc nuc max max max t n n c n
+L v
+L t
 =
 =
 =
-$\Rightarrow$
-s
+$\Rightarrow$ s
 903
 ,
-4
-Max
+4 max
 $\mu$
-=
-t
-c)
-Each pulse of light is transmitted by the fibre by beams corresponding to the entire
-admission to the entrance,
-Max
+= t c)
+Each light pulse is transmitted through the fiber by rays corresponding to the entire acceptance range at the input, max
 0
 $\alpha$
 $\alpha \leq$
 $\leq$
-, so that the light that has entered the fiber at a certain instant t
-It comes to an end between
-0t
-t +
-y
-Max
-t
-t +
-, for a period of time
-ns
+, so that the light that entered the fiber at a certain instant t reaches the end between
+0t t + and max t t +
+, during a time interval ns
 16
-0
-Max
+0 max
 $\approx$
 $-$
 =
-$\Delta$
-t
-t
-t
-As the pulses have an initial duration
-ns
+$\Delta$ t t t
+Since the pulses have an initial duration ns
 5
 0 =
 T
-, the fiber output will be much wider,
-with a duration of
-t
+, at the output of the fiber they will be much wider, with a duration t
 T
 T
 $\Delta$
 +
 =
 0
-$\Rightarrow$
-ns
+$\Rightarrow$ ns
 21
 $\approx$
 T
-In addition, they will be less intense, as the injected energy is distributed over a longer time interval.
+Furthermore, they will be less intense, since the injected energy is spread over a longer time interval.
 d)
-The minimum time separation between two consecutive pulses, so that they do not overlap on the detector, is
-It 's T. This corresponds to a maximum pulse transmission frequency
-T
-f
-1
-Max =
+The minimum time separation between two consecutive pulses, so that they do not overlap at the detector, is precisely T . This corresponds to a maximum pulse transmission frequency
+T f
+1 max =
 $\Rightarrow$
 MHz
-47
-max $\approx$
-f
-To increase
-Max
-f
-It is necessary to reduce T , i.e.
-t
+47 max $\approx$ f
+To increase max f it is necessary to reduce T , that is, t
 $\Delta$.
 (
 )
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
+rev nuc rev nuc rev nuc
 0
-0
-Max
-1
-n
-n
-n
-c
-n
-L
-n
-n
-t
-t
-t
-t
+0 max
+1 n n n c n
+L n n t t t t
 $-$
 =
 
@@ -3982,83 +3785,50 @@ $-$
 $-$
 =
 $\Delta$
-Therefore, for a given L, an increase in frequency
-Max
-f
-requires:
-Reducing the index difference between core and coating,
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
-n
-n
+Therefore, for a given L, an increase in the maximum frequency f requires:
+Reducing the difference in indices between the core and cladding, rev nuc n n
 $-$
 .
 In our problem,
 005
 ,
-0
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
+0 rev nuc
 =
-$-n$
-n
-. If, for example, the difference was
+$-n$ n
+. If, for example, the difference were
 001
-0
-Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: are are are are are are not included with the are not included in the are not included in the are not included in the are not included in the included in the included in the included in the first
-Other
-,
-n
-n
+0 rev nuc
+, n n
 =
 $-$
-,
-t
-$\Delta$
-would be reduced by a factor of 5 and,
-Max
-f
-It would increase to about 120 MHz.
-33 Spanish Olympics in Physics
-The following is the list of the categories of products:
-Note: In real fibres light cannot travel confined to any angle
-Max
+, t
+$\Delta$ would be reduced by a factor of 5 and max f would increase to about 120 MHz.
+33 SPANISH PHYSICS OLYMPIAD
+ARAGON PHASE
+Note: In real fibers, light cannot travel confined for any angle max
 $\theta$
 $\theta$ <
-But only for
-Some specific angles corresponding to the so-called modes of propagation of the fibre. Stop
-The problem of the social dimension is not only a question of the social dimension but also of the social dimension.
-An observer traveling parallel to the fiber axis and at the same speed as the speed of light
-length of that axis. This observer would see light traveling in a straight path perpendicular to the axis and
-The main problem is that the number of people who are living in the same area is increasing.
-The following table shows the following: The interference of these waves would only be constructive if a condition of
-stationary wave type for light in the transverse dimensions of the nucleus. This condition leads to
-a quantification of the possible angles of propagation of the light with respect to the axis of the f-beam
-
+, but only for some specific angles, corresponding to the so-called propagation modes of the fiber. To understand this phenomenon qualitatively, it is enough to consider the problem from the point of view of an observer traveling parallel to the fiber axis and with the same speed of light propagation along said axis. This observer would see light traveling in a straight path perpendicular to the axis and undergoing repeated reflections at the core-cladding boundaries (upward and downward in figure 1). The interference of these waves would only be constructive when a standing-wave-type condition were satisfied for the light in the transverse dimensions of the core. This condition leads to a quantization of the possible angles of light propagation with respect to the axis of the f
 
 <!--fig:start-->
 ![[_attachments/2022 33_oaf_2022_prueba_teorica/2022 33_oaf_2022_prueba_teorica_p7_f4.png]]
-*Fibre optical cross-section with angular *
+*Optical fiber cross-section with angles*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2022 33_oaf_2022_prueba_teorica/2022 33_oaf_2022_prueba_teorica_p7_f5.png]]
-*Diagramma temporale impulsi luminosi*
+*Timing diagram of light pulses*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2022 33_oaf_2022_prueba_teorica/2022 33_oaf_2022_prueba_teorica_p8_f6.png]]
-*Rifrazione luce a interfaccia (n<n')*
+*Light refraction at interface (n<n')*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2022 33_oaf_2022_prueba_teorica/2022 33_oaf_2022_prueba_teorica_p8_f7.png]]
-*Riflessione totale a interfaccia (n>n')*
+*Total reflection at interface (n>n')*
 <!--fig:end-->
 <!--fig:start-->
 ![[_attachments/2022 33_oaf_2022_prueba_teorica/2022 33_oaf_2022_prueba_teorica_p8_f8.png]]
-*Riflessione totale interna in fibra ottica*
+*Total internal reflection in optical fiber*
 <!--fig:end-->
 
-**Topic:** [[Geometric Optics]], [[Oscillations & Waves]]
-**Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Small-Angle Approximation (metodo)|Small-Angle Approximation]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Pipe/Tube (object)|Pipe/Tube]]
-**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1YHxsQLC0x15NRB82OW60QvWvOYRAuOqV/view)
+

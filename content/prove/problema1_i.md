@@ -246,138 +246,115 @@ R.S.E.F.
 
 v
 
-0
-v
-0
-r
-F-1
-m
-36th International Olympics in physics. The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2005.
-Theoretical problem n. 1 - A satellite destined to end badly
-The most frequently performed manoeuvres on an orbiting craft consist of:
-to vary the speed along the flight direction, i.e. to produce acceleration
-to reach higher or brake orbits to start reentry into the atmosphere. In
-This problem is instead going to study the variations in orbit when the momentum of the
-The engine shall be applied in the radial direction.
-For numerical calculations use the following data:
-The following is the list of the following:
-, gravity acceleration on the surface
-of the land
+0 v
+0 r
+F-1 m
+
+36th International Physics Olympiad. Salamanca (Spain) 2005
+Theoretical Problem No. 1 – A SATELLITE DESTINED TO END BADLY
+
+The most frequently performed maneuvers on a spacecraft in orbit consist of changing the velocity along the direction of flight, i.e., applying accelerations to reach higher orbits or to brake and initiate atmospheric re-entry. In this problem, however, we will study orbital changes when the engine thrust is applied in a radial direction.
+
+For numerical calculations, use the following data:
+Earth’s radius
+, gravitational acceleration at Earth's surface
 .
-Assume, furthermore, that the duration of a sidereal day is
+Additionally, assume that the duration of a sidereal day is
 .
-Consider a geostationary satellite1 for telecommunications, mass
-m, placed in a radius-circular equatorial orbit
-. These satellites are equipped
-of a dapogeo engine, which should produce the tangential thrust needed to reach the final orbit.
+
+Consider a geostationary1 communication satellite of mass m, located in a circular equatorial orbit of radius
+. These satellites are equipped with an "apogee motor," which should produce the tangential thrust necessary to reach the final orbit.
+
 Part 1
+
 1.1
 Calculate the numerical value of
 .
-1.2
-Write the analytical expression of speed first
-the satellite expressed in g,
- e
-,
-The number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number.
-1.3
-The Commission shall adopt the following measures:
-, m, g e
-, the angular momentum
-and mechanical energy
-.
-Once the geostationary circular orbit has been reached (see Figure F-1), the satellite will be
-The Commission has already established a number of measures to ensure that the
-The ground controllers cause the apogee engine to start again. The impetus that comes
-The data is directed towards the Earth and despite the prompt reaction of ground controllers to shut down
-The engine is running, the speed changes.
-It's printed on the satellite.
-Let's characterize this thrust with the parameter
-. The duration of the lights
-The engine is negligible compared to any characteristic time of the motorcycle, so it can be
-It's considered instantaneous.
-Part 2
-Suppose that it is
-.
-2.1
-Determine, in accordance with
-and , the parameters of the new orbit2: the half-right
-and eccentricity
-.
-2.2
-Calculate the angle between the major axis of the new orbit and the vector position of the point where it occurred for
-Engine power failure.
-2.3
-Provision, in accordance with
-and , an analytical expression of perigee distances
-and the height of the height
-from
-So we're going to calculate the numerical values for the Earth's center.
-.
-2.4
-Determine the period of the new orbit, T, according to
-And then we calculate the numerical value of the
-.
-1 Its period of revolution is
-.
-2 See also suggestion.
-Th 1- Page 1 of 4
-R.S.E.F.
-Image provided by ESA
 
-36th International Olympics in physics. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The following information shall be provided:
+1.2
+First write the analytical expression for the satellite’s velocity in terms of g, and
+; then compute its numerical value.
+
+1.3
+Derive, in terms of
+, m, g, and
+, the expressions for angular momentum and mechanical energy
+.
+After reaching the geostationary circular orbit (see Figure F-1), with the satellite stabilized at the desired position and ready to perform its function, a ground controller error causes the apogee motor to reignite. The thrust applied is directed toward Earth, and despite the prompt corrective action by ground controllers to immediately shut off the motor, an unintended change in velocity
+is imparted to the satellite.
+
+We characterize this thrust by the parameter
+. The duration of motor ignition is negligible compared to any characteristic timescale of the motion, so it may be considered instantaneous.
+
+Part 2
+Assume that
+.
+
+2.1
+Determine, in terms of and , the parameters of the new orbit: the semi-latus rectum and the eccentricity
+.
+
+2.2
+Calculate the angle between the major axis of the new orbit and the position vector at the point where the motor ignition occurred by mistake.
+
+2.3
+Provide, in terms of and , analytical expressions for the distances to perigee and apogee from Earth’s center, then compute their numerical values for
+.
+
+2.4
+Determine the period of the new orbit, T, in terms of and then compute its numerical value for
+.
+
+1 Its orbital period is
+.
+2 See the “hint”.
+
+Th 1 – Page 1 of 4
+R.S.E.F.
+Image: ESA
+
+36th International Physics Olympiad. Salamanca (Spain) 2005
+Part 3
 3.1
-Calculate the minimum value of
-(indicated by:
-) necessary for the satellite to escape the attraction
-The gravitational pull of the Earth.
+Calculate the minimum value of (denoted by
+) required for the satellite to escape the Earth's gravitational attraction.
 3.2
-In such a situation, it is necessary to determine, in accordance with the
+Determine under this condition, as a function of
 , the minimum distance,
-, satellite from the center of the Earth
-along the new trajectory.
+, of the satellite from the center of the Earth along the new trajectory.
 Part 4
-Suppose now
+Assume now
 .
 4.1
-Determine, in accordance with
-and $\beta$, the speed,
-, satellite when you
-It's at infinite distance.
+Determine, as a function of and $\beta$, the velocity,
+, of the satellite when it is at infinite distance.
 4.2
-The Commission shall adopt the following measures:
-and $\beta$, the directional impact parameter  b
-Asynthetic flight. (See Figure F-2).
+Derive, as a function of and $\beta$, the "impact parameter" b of the asymptotic escape direction. (See Figure F-2).
 4.3
-Determine the angle
-the asynchronous direction of escape as a function of;
-Then calculate the numerical value for
+Determine the angle of the asymptotic escape direction as a function of ;
+then calculate its numerical value for
 .
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-By means of a central force inversely proportional to the square of the distance, the
-The body describes trajectories represented by ellipses, parabolas, hyperbolas. In the approximation m
-"M mass M is in one of the two fires. Assuming as origin the coordinates
-This fire, the general polar equation of these curves can be written as (see Figure
+HINT
+Due to a central force inversely proportional to the square of the distance, bodies describe trajectories represented by ellipses, parabolas, hyperbolas. In the approximation m
+<< M the mass M is located at one of the two foci. Assuming this focus as the origin of coordinates
+, the general polar equation of these curves can be written as (see Figure
 F-3)
 
-where l is a positive constant called a semicircular and is the eccentricity of the curve. In operation
-of the motorcycle constants:
- e
-where G is the universal gravitational constant, L is the modulus of angular momentum (or momentum of quantity of motion) of the mass
-The orbiting object is the orbiting object of the coordinates and E is its mechanical energy, assuming that the potential energy is zero at
-It's an infinite distance.
+where l is a positive constant called the semi-latus rectum and e is the eccentricity of the curve. In terms of the constants of motion:
+and where G is the universal gravitational constant, L is the magnitude of the angular momentum (or moment of momentum) of the orbiting mass with respect to the origin of coordinates, and E is its mechanical energy, assuming that the potential energy vanishes at infinite distance.
+
 The following cases may occur:
 i)
-Se
-, the curve is a ellisse (in particular a circumference for
+If
+, the curve is an ellipse (in particular a circle for
 ).
 ii)
-Se
-The curve is a parabola.
-(iii) the following:
-Se
-, the curve is a hyperbole.
+If
+, the curve is a parabola.
+iii)
+If
+, the curve is a hyperbola.
+
 Th 1- Page 2 of 4
 R.S.E.F.
 m
@@ -388,26 +365,22 @@ F-3
 
 v
 
-0
-v
+0 v
 
-v
-b
+v b
 0r
 F-2
 
-36th International Olympics in physics. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-The country code
-The Student Code
-Page number
-Total number of pages
-Theoretical problem n. 1 - FLOW RESPONSED to the Commission
-Question by Mr.
-Forms and ideas
-The following points are added:
-used
-Results in analytical form
-The number of results
+36th International Physics Olympiad. Salamanca (Spain) 2005
+COUNTRY CODE
+STUDENT CODE
+PAGE NUMBER
+TOTAL PAGES
+Theoretical Problem No. 1 - ANSWER SHEET
+Question
+Fundamental formulas and ideas used
+Analytical results
+Numerical results
 Points
 1.1
 0.3
@@ -435,35 +408,33 @@ Points
 1.0
 4.3
 1.2
+
 Th 1- Page 3 of 4
 R.S.E.F.
 
-36th International Olympics in physics. The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EC) No 1290/2005.
+36th International Physics Olympiad. Salamanca (Spain) 2005
+
 Th 1- Page 4 of 4
 R.S.E.F.
 
 <!--fig:start-->
-The following is the list of the satellites in orbit around the Earth:
+**p.1** — Satellite orbit around Earth
 ![[_attachments/problema1_I/problema1_I_p1_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-**p.1 **  Geometry in orbit at speed v0 and r0
+**p.1** — Orbit geometry with velocity v₀ and distance r₀
 ![[_attachments/problema1_I/problema1_I_p1_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following shall be added to the list of the following:
+**p.2** — Velocity change in the gravitational direction
 ![[_attachments/problema1_I/problema1_I_p2_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
- Suggestion: elliptical orbit with fire
+**p.2** — Hint: elliptical orbit with focus
 ![[_attachments/problema1_I/problema1_I_p2_f4.png]]
 <!--fig:end-->
 
-**Topic:** [[Gravitation]], [[Newtonian Mechanics]], [[Conservation of Energy]]
-**Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation Laws (metodo)|Conservation Laws]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Kepler's Laws (metodo)|Kepler's Laws]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** [[Satellite (object)|Satellite]], [[Planet (object)|Planet]]
-**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1YIsq6eg3cYxVkhYPB3c-zl-ctOulcMPJ/view)
+

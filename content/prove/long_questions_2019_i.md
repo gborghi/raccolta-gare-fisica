@@ -83,6 +83,45 @@ una quantit`a di moto e $\text{MeV}/c^2$ per una massa.
 
 
 
+<div class="qlang-split" data-lang="en"></div>
+
+Problem 1: Pion Decay (16 points)
+A pion $(\pi^0)$ is an unstable particle with a rest energy $m_{\pi^0}c^2$ = 135 MeV that typically decays into two photons.
+Its mean lifetime is approximately $\tau$ = 8.52(18) $\times 10^{-17}$ s. To better understand this decay, we first consider a classical analogy.
+
+Part A. Classical Analogy (7 points)
+Consider a projectile made of two identical hemispheres, each with mass m = 10 kg. Inside the projectile there is an explosive charge of negligible mass that delivers a total energy of 0.12 MJ to the hemispheres during explosion.
+
+i. (0.5 pt) What is the energy of each hemisphere after the explosion, in the rest frame of the initial projectile?
+
+ii. (1.5 pt) What is the corresponding momentum?
+
+iii. (0.5 pt) Now consider another reference frame in which the projectile moves at 540 km/h.
+In view of pion decay, we will call this the laboratory reference frame. What must be the relative geometric orientation of the two flying hemispheres in the laboratory frame so that their energies are extreme?
+
+iv. (1.5 pt) What are the minimum and maximum possible energies of one hemisphere?
+
+v. (1 pt) What are the corresponding velocities in the laboratory reference frame?
+vi. (2 pts) The detonation of the explosive charge occurs 15 $\pm$ 1 s after the projectile `e stato sparato. Qual ` and the distance covered in the laboratory reference frame? Draw the probability distribution and label it in the best possible way.
+Part B. The decay of the particle (XX points)
+Let us now consider the actual decay of a pion into two photons:
+$\pi^0 \to \gamma\gamma$
+In this case, we will proceed as before:
+let us first make some considerations in the pion reference frame, and then consider the laboratory reference frame.
+Note: In particle physics, the use of the units
+MeV for energy, MeV/c for momentum`a di moto e $\text{MeV}/c^2$ per la massa ` is legitimate and can simplify the calculations.
+i. (0.5 pts) What energy does each photon receive in the rest reference frame?
+ii. (0.5 pts) To what momentum does it correspond?
+iii. (2 pts) A possible source of $\pi^0$ `e lo scambio di cariche all’interno di un nucleo di idrogeno. In questo caso, ogni $\pi^0$ riceve una quantit` with momentum equal to 28 MeV/c in the laboratory reference frame. Determine the corresponding energy and speed.
+iv. (3 pts) In the laboratory reference frame, let us again consider the case in which the energy of the photons is extreme.
+Determine those extreme energies.
+v. (0.5 pts) Determine the corresponding speed of the photons.
+vi. (2.5 pts) What `e la distanza coperta dai $\pi^0$ tra la loro formazione e il loro decadimento, nel sistema di riferimento di laboratorio? Fai uno schizzo qualitativo della distribuzione di probabilit` and label it in the best possible way.
+1The unit`a di misura elettronvolt ` is defined as the energy of an electron that is accelerated by one volt.
+1 eV =
+1.609 $\times 10^{-19}$ J, 1 MeV = 1.609 $\times 10^{-13}$ J. In particle physics, `e comune usare MeV per un’energia, MeV/c per una quantit` momentum and $\text{MeV}/c^2$ for a mass.
+
+
 <span class="atom-split" id="q02" data-atom="q02" data-title="Svizze 2019 — Quesito 2" data-tags="kg/prova,paese/Svizzera,comp/Svizze,cluster/Meccanica,object/prism,object/droplet"></span>
 
 Esercizio 2 : Nelle nuvole (16 punti)

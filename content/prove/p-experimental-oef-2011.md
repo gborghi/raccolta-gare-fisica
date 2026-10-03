@@ -627,177 +627,126 @@ es en promedio inferior al radio de los puntos dibujados. También es necesario 
 
 <div class="qlang-split" data-lang="it"></div>
 
-3) Disposizione finale e connessioni elettriche (Figura 5).
-Cerca di posizionare l'assemblaggio lontano da elementi di ferro della tavola (pie,
-Traversano ...).
-* Metti la compassa nella zona centrale delle bobine. La compassa segna,
-in equilibrio, la direzione della componente orizzontale del campo
-Magnetico locale,
+3) Disposizione finale e collegamenti elettrici (figura 5).
+* Cercare di collocare il montaggio lontano da elementi in ferro del tavolo (gambe, traverse ...).
+* Collocare la bussola nella zona centrale delle bobine. La bussola indica, in equilibrio, la direzione della componente orizzontale del campo magnetico locale,
 H
 B
-. Orientare le bobine in modo che il loro asse di
-simmetria coincide con questa direzione e il centro della compassa è in
-il centro delle bobine.
-Una volta ottenuta la posizione adeguata del supporto della compassa e
-di bobine, attaccare il sistema alla cartolina e alla tavola con nastro
-adesivo per evitare ulteriori movimenti involontari.
-* Le bobine sono alimentate da una pila di scatola attraverso un
-Potenziometro (resistenza variabile) che consente di regolare la tensione
-applicata ai coil3.
-* Connettere la pila e le bobine al potenziometro con i cavi
-I punti di riferimento sono stati riportati in appendice 6.
-i punti di connessione con le banane sono indicati in nero.
-Attenzione: per ottenere un buon contatto elettrico, le lingue
-I terminali della pila devono essere inseriti tra il metallo e la plastica di
-i connettori (non all'interno del terminale metallico, che è troppo largo).
+. Orientare le bobine in modo che il loro asse di simmetria coincida con questa direzione e il centro della bussola sia al centro delle bobine.
+* Una volta ottenuta la posizione adeguata del supporto della bussola e delle bobine, fissare il sistema al cartoncino e al tavolo con nastro adesivo per evitare successivi movimenti involontari.
+* Le bobine sono alimentate con una pila a pacco attraverso un potenziometro (resistenza variabile) che permette di regolare la tensione applicata alle bobine3.
+* Collegare la pila e le bobine al potenziometro con i cavi forniti, seguendo lo schema della figura 6, dove i punti neri indicano i punti di connessione con banane.
+* Attenzione: per ottenere un buon contatto elettrico, le linguette terminali della pila devono essere inserite tra il metallo e la plastica dei connettori (non dentro il terminale metallico, che è troppo largo).
 
-3 Come potete vedere, il potenziometro ha un'ampia resistenza di protezione per evitare elevate correnti che possono
-sarebbero esauriti rapidamente.
+3 Come si può osservare, il potenziometro porta montata una resistenza di protezione per evitare correnti elevate che esaurirebbero rapidamente la pila.
 Fig. 4
 Fig. 5
-* Il corrente I è misurata con il polimetro che agisce come ampere, collegato in serie al circuito.
-Utilizza la scala di 200 mA.
-Attenzione: per evitare che la pila si esaurisca, mantenere il circuito aperto quando non si sta misurando.
-* Prima di iniziare a misurare, familiarizzatevi con il funzionamento del potenzimetro, del polímetro e del cronometro.
-* Inizialmente si misurerà con
+* La corrente I si misura con il multimetro che funge da amperometro, collegato in serie nel circuito.
+Usa la scala di 200 mA.
+* Attenzione: per evitare che la pila si esaurisca, mantieni il circuito aperto quando non stai misurando.
+* Prima di iniziare a misurare, familiarizza con l'uso del potenziometro, del multimetro e del cronometro.
+* Inizialmente si misura con
 C
-B positivo, cioè nello stesso senso che
+B positivo, cioè nello stesso verso di
 H
 B
-. Considerando che
-(3) e (5), ciò implica che il periodo di oscillazione torzionale della compassa, T, deve essere diminuente con I (è
-(cfr. la maggior parte delle lettere T). Se il suo sistema si verifica il contrario, inverte il senso della corrente,
-scambiando le connessioni della pila con il potenzimetro.
-La situazione precedente, secondo il nostro accordo di segni, corrisponde a
+. Tenendo conto di (3) e (5), ciò implica che il periodo di oscillazione torsionale della bussola, T, deve essere decrescente con I (cioè, maggiore è I minore è T ). Se nel tuo sistema accade il contrario, inverti il verso della corrente, scambiando le connessioni della pila al potenziometro.
+* La situazione precedente, secondo la nostra convenzione dei segni, corrisponde a
 0
 >
 I
-. Se l'ampieometri indica
-un corrente negativa, scambiare i punti di connessione sul polimetro.
-* Successivamente si terranno misure con
+. Se l'amperometro indica una corrente negativa, scambia i punti di connessione nel multimetro.
+* Successivamente si eseguiranno misure con
 0
 <
 I
-, per cui dovrà invertere il senso della corrente.
-Se si trova che T non dipende quasi di I, c'è un problema di montaggio nel circuito:
-corrente non sta circolando attraverso le bobine (rivisite le connessioni), o lo fa in direzioni opposte.
-* Dopo aver effettuato le misure, lasciate il vostro montaggio sperimentale sul tavolo, come l'ha usato
-per la misura, poiché l'equipaggio di correzione la valuta durante la prova. Alla fine, dopo aver consegnato il
-La Commissione ha adottato una decisione che prevede la modifica della direttiva del Consiglio, che prevede l'applicazione di misure di sicurezza e di sicurezza.
+, per cui dovrai invertire il verso della corrente.
+* Se ti trovi che T non dipende quasi da I, c'è un problema di montaggio nel tuo circuito: o la corrente non sta circolando nelle bobine (controlla le connessioni), oppure lo fa in versi opposti.
+* Dopo aver fatto le misure, lascia il tuo montaggio sperimentale sul tavolo, così come lo hai utilizzato per misurare, poiché il team di correttori lo valuterà durante la prova. Alla fine, dopo aver consegnato l'esercizio, smonta il sistema e raccogli i suoi diversi elementi nelle scatole corrispondenti.
 Misure e domande.
 a)
-Misura il periodo T di piccole oscillazioni torsionali della compassa attorno alla sua orientamento di
-equilibrio per un minimo di 10 valori di I, tra
+Misurare il periodo T di piccole oscillazioni torsionali della bussola attorno al suo orientamento di equilibrio per un minimo di dieci valori di I, tra
 0
 =
-I
- e
-mA
+I e mA
 200
 =
 I
-. Spiega in dettaglio il suo
-Metodo di misurazione e presenta i risultati nella tabella della scheda delle risposte. La tabella
-Valori di
+. Spiegare dettagliatamente il metodo di misura e presentare i risultati nella tabella del foglio di risposte. Tabulare anche i valori di
 2
 /
-1 T, che servirà più avanti.
+1 T , che serviranno più avanti.
 b)
-Invertire il senso del corrente, e fare varie misure di T tra
+Invertire il senso della corrente, e fare diverse misure di T tra
 0
 =
-I
- e
-mA
+I e mA
 80
 $-$
 =
 I
-. Presenta i
-i risultati nella tabella della scheda delle risposte.
+. Presentare i risultati nella tabella del foglio di risposte.
 c)
-Rappresenta graficamente in un foglio di millimetro tutti i punti (
+Rappresentare graficamente su carta millimetrata tutti i punti (
 )
 )
 /
 1
-,
-(
+, (
 ,
 2
 T
-I
-y
-x
+I y x
 =
 .
 d)
-Determina la pendenza, p, e la ordinata all'origine,
-0
-e, la retta che meglio si adatta a questi punti.
+Determinare la pendenza, p, e l'intercetta all'origine,
+0 y , della retta che meglio si adatta a questi punti.
 e)
-Deduce i valori della costante K delle bobine di Helmholtz e del campo magnetico locale
+Dedurre i valori della costante K delle bobine di Helmholtz e del campo magnetico locale
 H
 B
 .
 f)
-Fa' una stima ragionevole dell'incertezza p
-$\Delta$ della pendenza ottenuta a norma del paragrafo (d).
+Fare una stima ragionata dell'incertezza p
+$\Delta$ della pendenza ottenuta nel punto d).
 g)
-Considerando quanto precede e l'incertezza della costante $\alpha$ di cui al punto (4), si fa un'estimazione della
-Incertezza K
-$\Delta$
-di una costante delle bobine ottenuta in e).
+Tenendo conto di quanto sopra e dell'incertezza della costante $\alpha$ data in (4), fare una stima dell'incertezza K
+$\Delta$ della costante delle bobine che ha ottenuto in e).
 h)
-Al paragrafo b) ha misurato T fino a
-mA
+Nel punto b) ha misurato T fino a mA
 80
 $-$
 =
 I
-. Se ha provato a continuare ad aumentare il corrente in
-In questo senso negativo, avrete notato che all'inizio la compassa oscilla molto lentamente, che per una
-corrente sufficientemente alta "perde la direzione", cioè ruota o oscilla in una direzione
-Pietra
+. Se ha provato a continuare ad aumentare la corrente in questo senso negativo, avrà osservato che all'inizio la bussola oscilla molto lentamente, che per una corrente sufficientemente alta "perde la rotta", cioè gira o oscilla attorno a una direzione
+Pila
 A
-R protec.
-Perimetro
-Potenzimetro
+ R protez.
+Amperometro
+Potenziometro
 Fig. 6
-Coichi
-I
-E che, per correnti più alte, la compassa si orienta in direzione opposta all'inizio. Potrebbe...
-spiegare questo comportamento? Considerando i risultati ottenuti dal paragrafo e), da quale punto
-corrente 0
-Teoricamente si prevede l'inversione del senso della compassa? Misura sperimentalmente
-0I y
-controlla se sono approssimativamente corrispondenti.
-Soluzione
-a)
-Il periodo di oscillazione può essere misurato con buona precisione cronometrando il tempo di, per esempio,
-dieci oscillazioni complete della compassa, dopo aver dato un piccolo impulso torsionale. L'incertezza di
-La misurazione può essere stimata in 0,1 s, in modo che l'incertezza del periodo T sia dell'ordine di 0,01 s.
-Questa incertezza può essere ridotta aumentando il numero di oscillazioni della misura o realizzando
-La misurazione è variabile e media.
+Bobine
+I diverso, e che, per correnti più elevate, la bussola si orienta in senso opposto a quello iniziale. Potrebbe spiegare questo comportamento? Tenendo conto dei suoi risultati del punto e), a partire da quale corrente 0
+I si prevede teoricamente l'inversione del senso della bussola? Misuri sperimentalmente
+0I e verifichi se coincidono approssimativamente.
+Soluzione a)
+Il periodo di oscillazione può essere misurato con buona precisione cronometrando il tempo di, per esempio, dieci oscillazioni complete della bussola, dopo averle impresso un piccolo impulso torsionale. L'incertezza di questa misura può essere stimata in 0,1 s, cosicché l'incertezza del periodo T è dell'ordine di 0,01 s.
+Questa incertezza può essere ridotta aumentando il numero di oscillazioni della misura o effettuando più misure e facendone la media.
 
-La tabella seguente rileva i valori di T e
+Nella seguente tabella sono riportati i valori di T e
 2
 1 T
 /
-, che saranno necessarie in seguito, a misura di
-intervalli approssimativamente regolari di 20 mA tra
-mA
+, che serviranno più avanti, misurati a intervalli approssimativamente regolari di 20 mA tra mA
 80
 $-$
 =
-I
- e
-mA
+I e mA
 200
 =
 I
-. Valori
-Le dimensioni di un'oscillazione di 10 oscillazioni sono le dimensioni di 4 oscillazioni.
+. I valori presentati sono la media di quattro misure di dieci oscillazioni.
 
 I (mA)
 -80,5 -59,8 -40,1 -20,4
@@ -811,10 +760,9 @@ T (s)
 1/T 2 (s-2) 0,345 0,499 0,653 0,816 0,952 1,120 1,271 1,480 1,623 1,778 1,918 2,100 2,255 2,411 2,560
 
 b)
-Le misure a intensità negativa sono già state riportate nella tabella precedente.
+Le misure con intensità negative sono già state presentate nella tabella precedente.
 c)
-In seguito, in figura 7 viene mostrato il grafico richiesto, con l'aspetto che avrebbe disegnato su carta
-millimetro.
+Di seguito, nella figura 7 è presentato il grafico richiesto, con l'aspetto che avrebbe disegnato su carta millimetrata.
 0,0
 0,5
 2,0
@@ -824,14 +772,12 @@ millimetro.
 0,05
 0,10
 0,15
-0,20
-(
+0,20 (
 )
 2
 2
 $-$
-$-$
-s
+$-$ s
 T
 2,5
 0,0
@@ -839,21 +785,14 @@ T
 -0,05
 A
 B
-Fig. 7
-d)
-La grafica precedente ha anche tracciato la retta che meglio si adatta ai punti sperimentali. La
-pendiente, p, e ordinata all'origine,
-0
-e , di questa retta possono essere determinati dalle coordinate
-di due punti di tale retta. Per migliorare l'accuratezza del risultato è interessante prendere due punti lontani,
-per esempio i punti A e B indicati nel grafico, scelti vicino alle estremità della retta e
-coincidono con i incroci della rete, per facilitare la lettura precisa delle loro coordinate.
+Fig .7 d)
+Nel grafico precedente è stata tracciata anche la retta che meglio si adatta ai punti sperimentali. La pendenza, p, e l'intercetta all'origine,
+0 e , di questa retta possono essere determinate a partire dalle coordinate di due punti di tale retta. Per migliorare la precisione del risultato conviene prendere due punti distanti, per esempio i punti A e B indicati nel grafico, scelti vicino agli estremi della retta e coincidenti con incroci della griglia, per facilitare la lettura precisa delle loro coordinate.
 
 (
 ) (
 )
-2
-s
+2 s
 075
 ,0
 ;
@@ -864,14 +803,12 @@ A
 $-$
 =
 A
-A y
-x
+A y x
 
 (
 ) (
 )
-2
-s
+2 s
 675
 ,2
 ;
@@ -881,99 +818,74 @@ A
 ;
 =
 B
-B y
-x
+B y x
 
 A
 B
 A
-B
-x
-x
-y
-y
-p
+B x x y y p
 $-$
 $-$
 =
  $\Rightarrow$
 1
--2A
-s
+-2A s
 00
 ,8
 $-$
-=
-p
+= p
 
-L'ordinamento alla origine della retta può essere dedotto dalle coordinate di uno dei punti ausiliari (o
-(Si può anche leggere direttamente sul grafico)
+L'intercetta all'origine della retta può essere dedotta dalle coordinate di uno dei punti ausiliari (o anche può essere letta direttamente nel grafico)
 
-0
-y
-px
-y
+0 y px y
 A
 A
 +
 =
  $\Rightarrow$
 A
-A
-px
-y
-y
+A px y y
 $-$
 =
 0
  $\Rightarrow$
 -2
-0
-s
+0 s
 975
 ,0
-=
-y
+= y
 
-Nota: un aggiustamento analitico con il metodo dei minimi quadrati porta a un risultato molto simile:
+Nota: un aggiustamento analitico con il metodo dei minimi quadrati conduce a un risultato molto simile:
 
 1
--2A
-s
+-2A s
 001
 ,8
 $-$
-=
-p
+= p
 
 -2
-0
-s
+0 s
 9736
 ,0
-=
-y
+= y
 
 e)
-In base alle espressioni (3) e (5) della sentenza, si prevede che la dipendenza da
+In accordo con le espressioni (3) e (5) del testo, ci si aspetta che la dipendenza di
 2
 1 T
-/
-con i sea
-lineare, inclinata e ordinata all'origine
+/ da I sia lineare, con pendenza e intercetta all'origine
 
 R
 N
-K
-p
+K p
 2
 0
 $\mu$
 $\alpha$
 =
  $\Rightarrow$
-N
-pR
+N pR
 K
 $\alpha$
 $\mu0$
@@ -981,19 +893,16 @@ $\mu0$
 =
 
 H
-B
-y
+B y
 $\alpha$
 =
 0
  $\Rightarrow$
 $\alpha$
-0
-y
+0 y
 BH =
 
-Con i dati della frase e il valore del raggio delle spirale4,
-cm
+Con i dati del testo e il valore del raggio delle spire4, cm
 5,4
 =
 R
@@ -1016,16 +925,8 @@ H
 B
 
 f)
-Per fare una stima dell'incertezza della pendenza traccieremo le linee che, con
-Le pendenti massime e minime si adattano ragionevolmente ai punti sperimentali (Figura 8). Per questo
-Dobbiamo tenere conto della dispersione dei punti rispetto alla retta di miglior regolazione, che è il nostro caso
-è in media inferiore al raggio dei punti disegnati. È necessario anche avere in
+Per fare una stima dell'incertezza della pendenza tracceremo le rette che, con pendenza massima e minima, si adattano ragionevolmente ai punti sperimentali (figura 8). Per questo bisogna tenere conto della dispersione dei punti rispetto alla retta di miglior adattamento, che nel nostro caso è in media inferiore al raggio dei punti disegnati. È anche necessario tenere in
 
-**Topic:** [[Magnetism]], [[Oscillations & Waves]], [[Circuits]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Error Propagation (metodo)|Error Propagation]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
-**Objects:** [[Coil (object)|Coil]], [[Magnet (object)|Magnet]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
-**Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1X2x9EfLbZp0tBpAkRSzAj_vHIW09UVlD/view)
 
 <div class="qlang-split" data-lang="en"></div>
 
@@ -1428,3 +1329,5 @@ is on average less than the radius of the points drawn. It is also necessary to 
 **Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Error Propagation (competenza)|Error Propagation]]
 **Objects:** [[Coil (object)|Coil]], [[Magnet (object)|Magnet]], [[Battery (object)|Battery]], [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1X2x9EfLbZp0tBpAkRSzAj_vHIW09UVlD/view)
+
+

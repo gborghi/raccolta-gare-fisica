@@ -162,27 +162,19 @@ Il grafico di $a(t)$ e le quattro opzioni $v(t)$ sono figure embedded nel PDF; f
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Aufgabe 2 — Bewegung! (MC-task) (5%) **
+**Problem 2 — Motion! (MC problem) (5 points)**
 
-**Deutscher.** Der nebenstehende Graph zeigt die Beschleunigung $a$ eines Körpers bei einer eindimensionalen Bewegung als Funktion der Zeit $t$.
+**German.** The graph opposite shows the acceleration $a$ of a body during a one-dimensional motion as a function of time $t$.
 
-Which of the following graphs correctly represents the body's $v$ speed as a function of time?
+Which of the following graphs correctly represents the velocity $v$ of the body as a function of time?
 
 **Problem (English translation).** The graph opposite shows the acceleration $a$ of a body during a one-dimensional movement as a function of time $t$.
 
 Which of the following graphs correctly represents the speed $v$ of the body as a function of time?
 
-*(Il grafico di $a(t)$ e le quattro opzioni $v(t)$ sono figure embedded nel PDF; fare riferimento alla pagina PDF originale.)*
-
+*(The graph of $a(t)$ and the four options $v(t)$ are figures embedded in the PDF; refer to the original PDF page.)*
 
 ---
-
-**Topic:** [[Newtonian Mechanics]]
-**Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]]
-**Competenze:** [[Graph Linearization (competenza)|Graph Linearization]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2019 '' — Quesito 3" data-tags="kg/prova,paese/Germany,comp/Germany"></span>
@@ -840,32 +832,26 @@ $$E = 9.38\ \text{TeV} = 9.38 \times 10^{12}\ \text{eV}.$$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Aufgabe 12 — Supernova in Barnards Galaxie**
+**Quesito 12 — Supernova nella galassia di Barnard**
 
-**Deutscher.** Bei einer Supernova in Barnards Galaxie, einer Nachbargalaxie unserer Milchstraße, gehen ein Photon und ein Proton gleichzeitig auf die Reise zur Erde. Dort wird das Proton $72$ Stunden später registriert als das Photon. L'energia totale del protone è
+**Tedesco.** In una supernova nella galassia di Barnard, una galassia vicina alla nostra Via Lattea, un fotone e un protone partono contemporaneamente verso la Terra. Lì il protone viene registrato $72$ ore più tardi del fotone. L'energia totale del protone è
 
 $$E = 9{,}38\ \text{TeV} = 9{,}38 \times 10^{12}\ \text{eV}.$$
 
-- (A) Indicare che l'energia totale del protone è circa $10\,000$ volte la sua energia di riposo.
-- (B) Calcolare la distanza dalla Terra alla quale si è verificata la supernova. Indica il tuo risultato in anni luce.
-- (C) Determina quanto tempo ha durato il viaggio del protone nel suo sistema di riferimento.
+- (A) Mostra che l'energia totale del protone è circa $10\,000$ volte la sua energia a riposo.
+- (B) Calcola a quale distanza dalla Terra è avvenuta la supernova. Fornisci il tuo risultato in anni luce.
+- (C) Determina quanto è durato il viaggio del protone nel suo sistema di riferimento.
 
-**Problem (English translation).** In the case of a supernova in Barnard's galaxy, a neighboring galaxy to our Milky Way, a photon and a proton travel to Earth at the same time. There the proton is registered $72$ hours later than the photon. L'energia totale del protone è
+**Problema (traduzione inglese).** Nel caso di una supernova nella galassia di Barnard, una galassia vicina alla nostra Via Lattea, un fotone e un protone viaggiano verso la Terra contemporaneamente. Lì il protone viene registrato $72$ ore più tardi del fotone. L'energia totale del protone è
 
 $$E = 9.38\ \text{TeV} = 9.38 \times 10^{12}\ \text{eV}.$$
 
-- (A) Mostra che l'energia totale del protone è circa $10\,000$ volte la sua energia residuale.
-- (B) Calcolare la distanza dalla terra a cui si è verificata la supernova. Date il vostro risultato in anni luce.
-- (C) Determina quanto tempo il viaggio del protone ha impiegato nel suo frame of reference.
-
+- (A) Mostra che l'energia totale del protone è circa $10\,000$ volte la sua energia a riposo.
+- (B) Calcola la distanza dalla Terra a cui è avvenuta la supernova. Fornisci il tuo risultato in anni luce.
+- (C) Determina quanto è durato il viaggio del protone nel suo sistema di riferimento.
 
 ---
 
-**Topic:** [[Special Relativity]], [[Astrophysics]]
-**Metodi:** [[Relativistic Energy-Momentum (metodo)|Relativistic Energy-Momentum]], [[Lorentz Transformation (metodo)|Lorentz Transformation]], [[Mass-Energy Equivalence (metodo)|Mass-Energy Equivalence]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Photon (object)|Photon]], [[Star (object)|Star]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/15cWia_5qcPIIwU_24vuKXL4H1EtGSj0T/view)
 
 <div class="qlang-split" data-lang="en"></div>
 

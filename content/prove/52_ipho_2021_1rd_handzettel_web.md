@@ -156,117 +156,78 @@ competition!
 <div class="qlang-split" data-lang="it"></div>
 
 Problema 1 (10 punti)
-Across and down
-Questo problema riguarda tutti i tipi di termini, soprattutto fisici.
+Orizzontali e verticali
+Questo problema tratta ogni sorta di termini per lo più fisici.
 
-Risolvi il seguente puzzle e trova la parola di soluzione cercata.
-Across: 1 English abbreviation for scanning tunneling microscopy 4 Abbreviation for a laser diode emitting perpendicular to the
-surface 8 Elemento chimico che suona simile a un fisico danese 9 Made with hypotheses
-12 Abbreviation for near infrared 16 Very large
-mammal 17 device for converting medium-wave frequencies into sound 18 lunghezza x larghezza
-20 Collection of weakly interacting
-particelle 21 Grafica interpretativa della derivata di una curva 24 Time rate of change of 25
-25 Read off a speedometer 30 Term
-per la distanza media della Terra dal Sole 32 Nome, ritorno
-a tre persone, di un paradosso di meccanica quantistica 34 Uno dei
-terminali di un transistor 36 circa 86 400 s
-37 Summa dell'energia interna di un sistema e del prodotto di pressione e volume 40 Moderno stargazer 43 Unità di illuminazione 44 L'efficienza è una misura
-di questo 45 fisico intorno al 1800, nome di un
-Lens shape 46 unit of measurement found on
-Beakers 47 Point in space 48 Locomozione
-con slippage 49 Abbreviation for a form of X-ray spectroscopy 50 Chaining of processes that
-può essere usato, per esempio, per amplificare un segnale
-53 Term for a non-crystalline solid,
-che si applica ad esempio a glass 54 Short for memory cards, per esempio: in telecamere 55 18 x altezza 58 alcalini
-metal with only one stable isotope 59 Stati Uniti
-descritto dall'equazione di Schrödinger 63
-65 Small amount of a material to be examined 67 Non molto precise 70 intervallo di tempo
-between two relative solar zenith maxima
-71 Quantity used in room acoustics for the reverberation time, cioè un'acqua fragrante 72 Repetition 73 Used to measure 36
-75 44 compares the portion of this kind with the total energy expenditure 77 Body with the smallest ratio of surface area to volume 78 Between
-peta e zetta
-Down: 1 trasmettitore di forze tensili 2 Consiste di diversi atomi 3 particellare detettore al CERN 4 accoppiamento di due stati di 59
-5 Element with whose help the second is defined 6 English abbreviation for standard deviation 7 indefinite, going to infinity 8 Namesake of a method in X-ray scattering 10 ferromagnetic heavy metal, main constituent of steel 11 Chemical element that
-è stato chiamato per un chimico svedese, quindi per abbreviare per una direzione cardinale 13 View "onto" o "through" an object 14 Large-scale experiment 15 Number
-senza segno o direzione 16 unità di flusso magnetico 19 To really understand something well 20 Occur frequently in physics and in law
-22 Property of fundamental vibration modes of a system 23 radiation-emitting celestial body 26 Vibrazione variabile in tempo e spazio 27 Conservata quantità in collisioni 28 Causa di cambiamenti in movimento 29 what a balance should be before use 31 Change
-in termodinamica spesso circolare 33 Property of 26, also part of a mixture 35 Unit of magnetic flux density
-Quindi un'auto marca 38 In questa direzione si trova un polo sulla Terra 39 Sezione di un grande cerchio 41 lettera comune per denotare 6 o
-42 near-Earth celestial body 51 Unit of current 52 Junction point of conductors in circuiti
-Usato in seafaring 56 Physics of radiation and light 57 Home 60 Part in 73 also the name of an effect in
-Quantum field theory 61 Required for the distribution of current 62 Now 64 Deciduto che Plutone non è più un pianeta 66 Produced with lenses
-68 Control element of a transistor 69 Symbol chimico per un metallo ferromagnetico di transizione 74 Pressure can be given as the rise height of this element 76 Symbol chimico per l'elemento con numero atomico 56
-Soluzione
-La soluzione word è formata dai campi con cerchi nell'ordine appropriato.
-Cercato è un fenomeno per la cui spiegazione un premio Nobel è stato assegnato molto tempo fa.
-Registrare ora a
-www.ipho.info
-per il
-La concorrenza!
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
+Risolvi il seguente cruciverba e trova la parola soluzione cercata.
+Orizzontali: 1 Abbreviazione inglese per microscopia a scansione a effetto tunnel 4 Abbreviazione per un diodo laser che emette perpendicolarmente alla superficie 8 Elemento chimico che suona simile a un fisico danese 9 Fatto con ipotesi
+12 Abbreviazione per infrarosso vicino 16 Mammifero molto grande 17 Dispositivo per convertire frequenze a onde medie in suono 18 Lunghezza x larghezza
+20 Insieme di particelle debolmente interagenti 21 Interpretazione grafica della derivata di una curva 24 Velocità di variazione temporale di ➞25
+25 Leggere su un tachimetro 30 Termine per la distanza media della Terra dal Sole 32 Nome, risalente a tre persone, di un paradosso della meccanica quantistica 34 Uno dei terminali di un transistor 36 circa 86 400 s
+37 Somma dell'energia interna di un sistema e del prodotto di pressione e volume 40 Astrofilo moderno 43 Unità di illuminamento 44 Il rendimento è una misura di questo 45 Fisico intorno al 1800, eponimo di una forma di lente 46 unità di misura presente sui becher 47 Punto nello spazio 48 Locomozione con slittamento 49 Abbreviazione per una forma di spettroscopia a raggi X 50 Concatenamento di processi che può essere usato, per esempio, per amplificare un segnale
+53 Termine per un solido non cristallino, che vale ad esempio per il vetro
+54 Acronimo per schede di memoria, ad esempio nelle fotocamere
+55 ➞18 x altezza
+58 Metallo alcalino con un solo isotopo stabile
+59 Stati descritti dall'equazione di Schrödinger
+63 Momento angolare intrinseco delle particelle elementari
+65 Piccola quantità di materiale da esaminare
+67 Non molto preciso
+70 Intervallo temporale tra due massimi relativi del sole al zenit
+71 Grandezza usata in acustica ambientale per il tempo di riverberazione, anche un'acqua profumata
+72 Ripetizione
+73 Usato per misurare ➞36
+75 ➞44 confronta la frazione di questo tipo con il consumo energetico totale
+77 Corpo con il rapporto più piccolo tra area superficiale e volume
+78 Tra peta e zetta
+
+Giù: 1 Trasmettitore di forze di trazione
+2 Composto da più atomi
+3 Rivelatore di particelle al CERN
+4 Accoppiamento tra due stati di ➞59
+5 Elemento con cui è definita la seconda
+6 Sigla inglese per deviazione standard
+7 Indefinito, che tende all'infinito
+8 Omaggio a un metodo in diffrazione dei raggi X
+10 Metallo pesante ferromagnetico, principale costituente dell'acciaio
+11 Elemento chimico che prende il nome da un chimico svedese, anche abbreviazione per una direzione cardinale
+13 Vista "su" o "attraverso" un oggetto
+14 Esperimento su larga scala
+15 Numero senza segno o direzione
+16 Unità di flusso magnetico
+19 Comprendere veramente qualcosa in profondità
+20 Si verificano spesso nella fisica e nel diritto
+22 Proprietà dei modi fondamentali di vibrazione di un sistema
+23 Corpo celeste emittente radiazione
+26 Vibrazione variabile nel tempo e nello spazio
+27 Quantità conservata nelle collisioni
+28 Causa dei cambiamenti nel moto
+29 Cosa deve essere verificata prima dell’uso di una bilancia
+31 Cambio tra stati, spesso circolare in termodinamica
+33 Proprietà di ➞26, anche parte di un miscuglio
+35 Unità di densità del flusso magnetico, anche nome di un marchio automobilistico
+38 In questa direzione si trova un polo sulla Terra
+39 Sezione di un cerchio massimo
+41 Lettera comune per indicare ➞6 o conducibilità elettrica
+42 Corpo celeste vicino alla Terra
+51 Unità di corrente
+52 Punto di giunzione tra conduttori nei circuiti, anche unità di velocità usata in navigazione
+56 Fisica della radiazione e della luce
+57 Casa
+60 Parte di ➞73, anche nome di un effetto nella teoria dei campi quantistici
+61 Richiesto per la distribuzione della corrente
+62 Ora
+64 Deciso che Plutone non è più un pianeta
+66 Prodotta con lenti
+68 Elemento di controllo di un transistor
+69 Simbolo chimico per un metallo transizionale ferromagnetico
+74 La pressione può essere espressa come altezza di salita di questo elemento
+76 Simbolo chimico per l’elemento con numero atomico 56
+
+Parola soluzione
+La parola soluzione è formata dai campi con cerchi nell’ordine appropriato.
+Cercato è un fenomeno per il cui spiegamento fu assegnato un premio Nobel da molto tempo.
+Iscrizione ora su www.ipho.info per la competizione!
 65
 66
 67
@@ -281,13 +242,6 @@ La concorrenza!
 76
 77
 78
-
-**Topic:** [[Modern-Quantum Physics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
-**Competenze:** [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1TLvj-zK1_aARXiqd8loH1P9wdbaiO2FN/view)
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="IPhO 2021 — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Termodinamica,object/satellite,object/planet"></span>

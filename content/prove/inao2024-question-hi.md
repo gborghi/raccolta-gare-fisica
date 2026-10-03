@@ -308,37 +308,18 @@ $f_{n+1}$ और$f_n$ केबीचएकपुनरावतɁ सूत्�
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. A e B sono due elementi, ′genenessessessamenaltan (volume) V è la quantità di materia (volume)
-In me c'è solo il latte e in me c'è solo l'acqua.
-Trasferimento di un luogo di trasferimento. Un luogo di trasferimento di un luogo di trasferimento.
-है:
-• Fase 1: Prendi un po' di acqua e prendilo, lo mandi e fai un buon lavoro.
-• Fase 2: per il periodo B, per il periodo L, per il periodo di tempo e per il periodo di tempo
-िमलाएँ।
-Ogni trasferimento di dati è effettuato in modo che il volume di trasferimento sia uguale.
-कɃ $n$-वेंस्थानांतरणिक्रयाकेअंतमेंबतर्नA मेंदूधकɃ सांद्रताको$C^A_M(n)$ से˃चȥन्हतिकयाजाताहै।यहाँहमसांद्रता
-In questo modo si fanno:
+3. A e B sono due recipienti che contengono la stessa quantità di liquido (fluido) di volume V. Inizialmente, A contiene solo latte e B contiene solo acqua. Preleviamo una certa quantità di liquido da ciascuno dei due recipienti e, mescolandola, la trasferiamo. Un'operazione di trasferimento è definita come il completamento dei due seguenti passaggi:
+• Passaggio 1: prelevare da A un certo volume definito (L), versarlo in B e mescolare bene.
+• Passaggio 2: prelevare da B la stessa quantità (L) di liquido misto e rimetterlo in A, mescolando bene.
+Alla fine di ogni operazione di trasferimento, la quantità di liquido in entrambi i recipienti è esattamente uguale, cioè V. Supponiamo che alla fine della $n$-esima operazione di trasferimento, la concentrazione del latte nel recipiente A sia indicata con $C^A_M(n)$. Qui definiamo la concentrazione come segue:
 $$C^A_M(n) = \frac{\text{बतर्न A मेंदूधकɃ मात्रा}}{\text{बतर्न A मेंकुलतरलपदाथर्कɃ मात्रा}} \quad (n\ \text{पूणर्स्थानांतरणिक्रयाओंकेबाद})$$
-इसीप्रकार, आप$C^A_W$, $C^B_M$ एवं$C^B_W$ कोभीपȼरभािषतकरसकतेहैं।
-(a) (4 marks) पहलीस्थानांतरणिक्रयाकेअंतमेंबतर्नA मेंदूधकɃ सांद्रतायानी$C^A_M(1)$ काव्यंजक, आयतन
-L e V sono in forma di calcolo.
-b) (8 punti) faremo $\varepsilon$ $\varepsilon = \dfrac{L}{V}$ in forma di paralisi.$\varepsilon$
-Relazione)  composizioni, ʹcome $C^A_M(n)$ e $C^A_M(n-1)$, cioè n e n $-1$ in
-Si tratta di un'attività di ricerca e di ricerca che si svolge in un'area di ricerca e sviluppo.
-c) (3 punti) più volte (in numerosi casi) concentrazione di trasferimento di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di transazioni di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di scorte di
-Il valore di equilibrio è quasi pari a quello raggiunto da una specie, come il $\varepsilon$ in una forma di rilievo.
-कामूल्यक्याहोगा?
-(d) (5 punti) Noi univiazione$f_n$ così faremo,
+Allo stesso modo, potete definire anche $C^A_W$, $C^B_M$ e $C^B_W$.
+(a) (4 punti) Scrivete l'espressione della concentrazione del latte nel recipiente A alla fine della prima operazione di trasferimento, cioè $C^A_M(1)$, in funzione dei volumi L e V.
+(b) (8 punti) Definiremo $\varepsilon$ come $\varepsilon = \dfrac{L}{V}$. Con l'aiuto di $\varepsilon$, costruite una relazione ricorsiva (recursion relation) che mostri la relazione tra $C^A_M(n)$ e $C^A_M(n-1)$, cioè le concentrazioni del latte presenti nel recipiente A dopo n e n $-1$ operazioni.
+(c) (3 punti) Dopo aver eseguito molte operazioni di trasferimento (in numero molto grande), la concentrazione del latte nei due recipienti raggiunge quasi il valore di equilibrio, che può essere scritto come una funzione di $\varepsilon$. Quale sarà il valore di questa concentrazione di equilibrio?
+(d) (5 punti) Definiremo una nuova variabile $f_n$ nel modo seguente,
 $$f_n = C^A_M(n) - 1/2$$
-Tra i $f_{n+1}$ e $f_n$ si ripete la formulazione di un'operazione, e l'aiuto di questa formulazione da $C^A_M(n)$ a $\varepsilon$ e $n$
-Una semplice funzione in forma personale.
-
-**Topic:** [[Thermodynamics]]
-**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Differential Equations (metodo)|Differential Equations]]
-**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]]
-**Objects:** [[Tank/Container (object)|Tank/Container]]
-**Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1AkgADhUSvhljAYBxBdcB-ECIcoXKnCMp/view)
-
+Costruite una relazione ricorsiva tra $f_{n+1}$ e $f_n$, e con l'aiuto di questa relazione esprimete $C^A_M(n)$ come una semplice funzione di $\varepsilon$ e $n$.
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="INAO 2024 — Quesito 4" data-tags="kg/prova,paese/India,comp/INAO,cluster/Onde e Oscillazioni,object/mirror,object/rod,object/star"></span>

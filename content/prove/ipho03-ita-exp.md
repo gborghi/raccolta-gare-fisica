@@ -1035,54 +1035,33 @@ Italy – Experimental problem
 
 <div class="qlang-split" data-lang="en"></div>
 
-p. 14 di 15
-The LC cell
-Homogeneous to
-Alignment
-Other
+p. 14 of 15
+Homogeneous LC cell with parallel alignment
 
-for $T_\parallel$
-for $T_\perp$
-Other, of a kind used for the manufacture of textile materials
-Other, not further worked than cutting
-(Arrow L indicates the direction of the director)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-Since the wavelength of the laser light is 650 nm, the thickness of the laser light is
-LC layer is 7.7 $\mu\text{m}$, and that approximately the value of $\Delta n$ is $\approx 0.25$, and using the
-The test values of $T_\parallel$ and $T_\perp$ first determined, calculates an accurate value of the
-ritardo di fase $\delta$ e un valore accurato del coefficiente di anisotropia ottica $\Delta n$ per
-This cell when $V = 0$.
-3. Similar to the previous experiment, in the configuration with $\theta = 45^\circ$,
-Applies to the electrodes, using the function generator, a difference in the square wave potential at 100 Hz, varying the amplitude ($V_{rms}$) between 0 and 7 V and measuring
-the electro-optical switching curve when the transmission axes of the analyser and the first polarizer are parallel ($T_\parallel$).
-Suggestions for the following:
-Measuring the $T_\perp$ curve also helps to improve data accuracy, but data
-for $T_\perp$ are not necessary to answer the following questions:
-In the most critical areas where things change quickly, you get more data if you're
-necessary (especially in the range of 0.5 to 4.0 V)
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1095/2011.
-Misura, e metti i dati in una tabella e in un grafico, la curva di commutazione elettroottica $T_\parallel$ per questa cella LC ad allineamento parallelo nella configurazione con $\theta =
-- I'm going to be 45 dollars.
-The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
-From the electro-optical switching data, find the value of the potential difference
-The test chemical shall be applied externally $V_\pi$.
-Suggestions for the following:
-$V_\pi$ is the difference of applied potential with which the phase delay of this anisotropic cell becomes $\pi$ (or $180^\circ$).
+for $T_\parallel$ for $T_\perp$
+Polarizer
+Analyzer (The arrow L indicates the direction of the director)
+Question C-(1) (2.5 points)
+Knowing that the wavelength of the laser light is 650 nm, the thickness of the LC layer is 7.7 $\mu\text{m}$, and that approximately the value of $\Delta n$ is $\approx 0.25$, and using the experimental values of $T_\parallel$ and $T_\perp$ determined earlier, calculate an accurate value of the phase retardation $\delta$ and an accurate value of the optical anisotropy coefficient $\Delta n$ for this cell when $V = 0$.
+3. Similarly to the previous experiment, in the configuration with $\theta = 45^\circ$, apply to the electrodes, using the function generator, a square-wave potential difference at 100 Hz, varying its amplitude ($V_{rms}$) between 0 and 7 V and measure the electro-optic switching curve when the transmission axes of the analyzer and of the first polarizer are parallel ($T_\parallel$).
+Hints:
+Measuring also the curve of $T_\perp$ helps to improve the precision of the data, but the data for $T_\perp$ are not necessary to answer the following questions.
+In the most critical regions where things vary rapidly, take more data if necessary (especially in the range 0.5-4.0 V)
+Question C-(2) (3.0 points)
+Measure, and put the data in a table and in a graph, the electro-optic switching curve $T_\parallel$ for this LC cell with parallel alignment in the configuration with $\theta =
+45^\circ$.
+Question C-(3) (2.0 points)
+From the electro-optical switching data, find the value of the externally applied potential difference $V_\pi$.
+Hints:
+$V_\pi$ is the applied potential difference at which the phase retardation of this anisotropic cell becomes $\pi$ (or $180^\circ$).
 Remember that $\Delta n$ is a function of the applied potential difference, and that $\Delta n$ decreases when $V$ increases.
-It is likely that interpolation will be required to find an accurate value of this $V_\pi$.
-The Commission has already adopted a proposal for a directive on the protection of workers' rights.
+It is likely that interpolation will be needed to find an accurate value of this $V_\pi$.
+Italy – Experimental problem
 
 <!--fig:start-->
-**p.14** — Fig. 8 Scheme of experimental assembly
+**p.14** — Fig. 8 Diagram of the experimental setup
 ![[_attachments/IPhO03 ITA EXP/IPhO03 ITA EXP_p14_f11.png]]
 <!--fig:end-->
-
-**Topic:** [[Wave Optics]], [[Geometric Optics]]
-**Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
-**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
-**Objects:** —
-**Fonte:** [Testo (PDF) — p.14](https://drive.google.com/file/d/1ftZ4xXMoqPm6hJ23ToKPsxYE8wkWduZu/view)
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="IPhO 2003 — Sperimentale — Quesito 15" data-tags="kg/prova,paese/International,comp/IPhO,tipo-gara/individuale,livello/internazionale,difficolta/5,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/elettromagnetismo"></span>

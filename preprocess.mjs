@@ -250,6 +250,7 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     if (lines[k].startsWith("# ")) { head = k + 1; break }
   }
   const items = []
+  let dropped = 0   // fuori_corpus rows left out (the note's own "**N** problemi" counts them)
   // alias may itself contain a single "]" ("[CAP-HS 2017 National Prize Exam] · Problema
   // 15"): with a plain [^\]]* those rows were dropped, so the table had fewer rows than
   // the note's own count (Hydrostatic Equilibrium: 1130 in the note, 1121 in the table)
@@ -293,7 +294,7 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     // notes marked `fuori_corpus: true` (chemistry/biology/informatics papers, the
     // Hindi duplicate of INAO2024) keep their own page but not their cluster/topic
     // assignments: no row in any concept list (whole prova, or that single atom)
-    if (outOfCorpus && (outOfCorpus.set.has(h.split("#")[0]) || outOfCorpus.set.has(h))) { outOfCorpus.rows++; continue }
+    if (outOfCorpus && (outOfCorpus.set.has(h.split("#")[0]) || outOfCorpus.set.has(h))) { outOfCorpus.rows++; dropped++; continue }
     let label = (m[3] || target).trim()
     if (h.startsWith("prove/")) {
       const comp = lookupStem(stemComp, target, h) || {}
@@ -310,7 +311,8 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     })
   }
   if (!items.length) return null
-  const kept = lines.slice(0, head + 1).join("\n").replace(/\n+$/, "")
+  let kept = lines.slice(0, head + 1).join("\n").replace(/\n+$/, "")
+  if (dropped) kept = kept.replace(/\*\*(\d+)\*\*(\s*(?:problemi|quesiti)\b)/, (all, n, rest) => `**${Math.max(0, Number(n) - dropped)}**${rest}`)
   const newContent = kept + "\n\n<div class=\"paged-list\" data-src=\"__SRC__\" data-count=\"" + items.length + "\"></div>\n"
   return { newContent, items }
 }

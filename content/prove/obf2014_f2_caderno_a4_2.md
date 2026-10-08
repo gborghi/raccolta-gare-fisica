@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2014 — Fase 2 · Caderno
+title: OBF 2014 · Fase 2 · Caderno
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna · Allegato · esempi di quesiti
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/satellite,object/planet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna · Allegato · esempi di quesiti — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -65,7 +65,7 @@ A communications satellite describes a circular orbit around the Earth at a heig
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/point-charge"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna · Allegato · esempi di quesiti — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -117,7 +117,7 @@ The electrical charges of $q$ and $-q$ shall be two equal and opposite-signed ar
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/capacitor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna · Allegato · esempi di quesiti — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -169,7 +169,7 @@ The capacity of a capacitor depends on:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna · Allegato · esempi di quesiti — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -221,7 +221,7 @@ What space would a beam of light have travelled in the vacuum during the time it
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/spring,object/ball,object/projectile"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna · Allegato · esempi di quesiti — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/spring,object/ball,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -276,7 +276,7 @@ A toy shotgun fires rubber balls using a spring that compresses 15 cm. Knowing t
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/inclined-plane,object/block"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna · Allegato · esempi di quesiti — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/inclined-plane,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

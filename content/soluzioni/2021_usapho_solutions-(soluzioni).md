@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2021/2021_USAPhO_Solutions.pdf
-title: Soluzioni — 2021_USAPhO_Solutions.pdf
+title: USAPhO 2021 · Soluzioni
 ---
 
 

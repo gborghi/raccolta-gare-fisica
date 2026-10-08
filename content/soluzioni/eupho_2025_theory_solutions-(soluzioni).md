@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/eupho/teorica/euphoteo25/EuPhO_2025_theory_solutions.pdf
-title: Soluzioni — EuPhO_2025_theory_solutions.pdf
+title: EuPhO 2025 · Teorica · Soluzioni
 ---
 
 

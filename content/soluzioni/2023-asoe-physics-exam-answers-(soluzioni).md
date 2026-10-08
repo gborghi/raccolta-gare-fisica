@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Australia/all/2023-ASOE-Physics-Exam-Answers.pdf
-title: Soluzioni — 2023-ASOE-Physics-Exam-Answers.pdf
+title: ASOE 2023 · Soluzioni
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Russia
+title: Russia 2022 · Soluzioni · F=ma Mock
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,7 +52,7 @@ $$\frac{W'}{W_0} = \frac{3}{2} \implies \boxed{B}$$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,7 +89,7 @@ $$t = \frac{7\pi a}{2v} + \frac{6\pi a}{2v} + \cdots + \frac{2\pi a}{2v} + \frac
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -126,7 +126,7 @@ Dal momento che $h \propto v^2$, $h' = N^2 h \implies \boxed{D}$
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -165,7 +165,7 @@ $\boxed{E}$.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -200,7 +200,7 @@ il cratere sarà $2^{1/4}$ più grande e il suo volume sarà $2^{3/4}$ volte pi�
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -243,7 +243,7 @@ $$\Delta Q = Pt = 0.6t \implies \boxed{A}$$
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -286,7 +286,7 @@ $$a/b \leq 4 \implies \boxed{C}$$
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia — Quesito 8" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 8" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -333,7 +333,7 @@ $$\theta \approx 53^\circ \implies \boxed{B}$$
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia — Quesito 9" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 9" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -370,7 +370,7 @@ $$F = \frac{dp}{dt} = \frac{dm}{dt} v = \rho A v^2 = 2\rho g h A = 12\ \text{N} 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia — Quesito 10" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 10" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -409,7 +409,7 @@ $$\omega = \frac{9}{11}\omega_0 \implies \boxed{E}$$
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Russia — Quesito 11" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 11" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -446,7 +446,7 @@ $$\frac{\rho_g}{\rho_1} = 2\% \implies \boxed{E}$$
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Russia — Quesito 12" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 12" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -503,7 +503,7 @@ $$y = L \sin \theta - x \tan \theta = 0.15\ \text{m} \implies \boxed{A}$$
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Russia — Quesito 13" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 13" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -536,7 +536,7 @@ $$F = PA = \frac{1}{2}\rho g H^2 L \implies \boxed{C}$$
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Russia — Quesito 14" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 14" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -581,7 +581,7 @@ $$H > \frac{mg}{2k} \implies \boxed{C}$$
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Russia — Quesito 15" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 15" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -614,7 +614,7 @@ $$\frac{d\omega}{dt} = -\frac{dI}{dt}\frac{\omega}{I} = -\frac{1}{2}(0.2 \cdot \
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Russia — Quesito 16" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 16" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -657,7 +657,7 @@ sotto la curva nera. Solo da questi due fatti possiamo eliminare tutte le altre 
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Russia — Quesito 17" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 17" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -696,7 +696,7 @@ in seguito diminuire $\implies \boxed{C}$.
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Russia — Quesito 18" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 18" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -745,7 +745,7 @@ $$N = 11 \implies \boxed{D}$$
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Russia — Quesito 19" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/rod"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 19" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -802,7 +802,7 @@ Pertanto $\omega = \omega_0 \implies \boxed{C}$.
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Russia — Quesito 20" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 20" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -871,7 +871,7 @@ Entrambi finiscono con la stessa velocità dopo la prima collisione, la separazi
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Russia — Quesito 21" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 21" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -912,7 +912,7 @@ $$\int \frac{dx}{v} = \int_0^{L_0} \frac{dx}{v_0}\left(1 + \frac{\delta m}{m}\fr
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Russia — Quesito 22" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 22" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -953,7 +953,7 @@ $$T = \frac{L_0}{v} \approx T_0\left(1 + \frac{\delta m}{2m}\right) = 1.01T_0$$
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Russia — Quesito 23" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/satellite,object/planet"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 23" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -988,7 +988,7 @@ che per AM-GM viene ridotta al minimo quando $v = \sqrt{GM/4R} \implies \boxed{A
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Russia — Quesito 24" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 24" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1021,7 +1021,7 @@ $$\frac{2\pi a}{T} = \frac{2\pi \times 1.5 \times 10^{11}\ \text{m}}{365 \times 
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Russia — Quesito 25" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Russia 2022 · Soluzioni · F=ma Mock — Quesito 25" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int19sit/__MACOSX/._Solution_Heat.pdf
-title: Soluzioni — ._Solution_Heat.pdf
+title: IPhO 2019 · Heat · Soluzioni
 ---
 
 

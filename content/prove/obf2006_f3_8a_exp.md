@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 3 · 8ª serie · Sperimentale
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 3 · 8ª serie · Sperimentale — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -65,7 +65,7 @@ v in the corresponding spaces of the table.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 3 · 8ª serie · Sperimentale — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -105,7 +105,7 @@ taking into account the total space travelled and the corresponding total time i
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 3 · 8ª serie · Sperimentale — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -157,7 +157,7 @@ straight lines representing the points on both graphs.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 3 · 8ª serie · Sperimentale — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -193,7 +193,7 @@ Compare it with the value of the average velocity obtained in question 2. Draw a
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 3 · 8ª serie · Sperimentale — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

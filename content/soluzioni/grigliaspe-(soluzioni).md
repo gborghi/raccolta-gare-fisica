@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/NAZ23-Sper/GrigliaSPe.pdf
-title: Soluzioni — GrigliaSPe.pdf
+title: OII 2023 Nazionale Sperimentale · Griglia di valutazione · Soluzioni
 ---
 
 

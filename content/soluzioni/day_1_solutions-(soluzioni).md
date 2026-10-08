@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Russia/izho.kz/day_1_solutions.pdf
-title: Soluzioni — day_1_solutions.pdf
+title: IZhO · Giorno 1 · Soluzioni
 ---
 
 

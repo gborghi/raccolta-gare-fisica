@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2015 USAPhO-2015-Solutions.pdf
-title: Soluzioni — 2015 USAPhO-2015-Solutions.pdf
+title: USAPhO 2015 · Soluzioni
 ---
 
 

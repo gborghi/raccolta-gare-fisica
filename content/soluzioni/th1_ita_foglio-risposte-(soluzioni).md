@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int14tit/TH1_ITA_foglio risposte.pdf
-title: Soluzioni — TH1_ITA_foglio risposte.pdf
+title: IPhO 2014 · Teorica 1 · Foglio risposte · Soluzioni
 ---
 
 

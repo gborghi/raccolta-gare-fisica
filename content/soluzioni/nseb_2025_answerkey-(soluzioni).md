@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/NSEB_2025_AnswerKey.pdf
-title: Soluzioni — NSEB_2025_AnswerKey.pdf
+title: India 2025 · NSEB · Chiave delle risposte · Soluzioni
 ---
 
 

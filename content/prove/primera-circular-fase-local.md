@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2014 · Prima circolare · fase locale
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2014 · Prima circolare · fase locale — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

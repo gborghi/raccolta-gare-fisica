@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/eupho/sperimentale/euphospe22/EuPhO_2022_Solutions_MarkingScheme.pdf
-title: Soluzioni — EuPhO_2022_Solutions_MarkingScheme.pdf
+title: EuPhO 2022 · Griglia di valutazione · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2010 USAPhO-2010-Solutions.pdf
-title: Soluzioni — 2010 USAPhO-2010-Solutions.pdf
+title: USAPhO 2010 · Soluzioni
 ---
 
 

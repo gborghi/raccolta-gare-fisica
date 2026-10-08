@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/eupho/sperimentale/euphospe18/eupho18-exp-solution.pdf
-title: Soluzioni — eupho18-exp-solution.pdf
+title: EuPhO 2018 · Sperimentale · Soluzioni
 ---
 
 

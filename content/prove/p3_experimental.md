@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2020 · Prova 3 · Campo magnetico terrestre
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -52,7 +52,7 @@ funzione di .
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/battery,object/coil"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/battery,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -183,7 +183,7 @@ Helmholtz coil pair
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -220,7 +220,7 @@ Helmholtz coil pair
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -266,7 +266,7 @@ on the order axis.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -303,7 +303,7 @@ on the order axis.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -340,7 +340,7 @@ on the order axis.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/coil"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/coil"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -380,7 +380,7 @@ horizontal magnetic field, BH, at the location where the measurements have been 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -429,7 +429,7 @@ P3 Solution
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna 2020 · Prova 3 · Campo magnetico terrestre — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

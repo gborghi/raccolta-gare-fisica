@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/Answerkey-INBO-2011.pdf
-title: Soluzioni — Answerkey-INBO-2011.pdf
+title: India 2011 · Teorica INBO · Chiave delle risposte · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/INAO2018-Solution-20180213.pdf
-title: Soluzioni — INAO2018-Solution-20180213.pdf
+title: INAO 2018 · Soluzioni
 ---
 
 

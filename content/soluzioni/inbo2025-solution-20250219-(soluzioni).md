@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/INBO2025-Solution-20250219.pdf
-title: Soluzioni — INBO2025-Solution-20250219.pdf
+title: India 2025 · INBO · Soluzioni
 ---
 
 

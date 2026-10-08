@@ -1,11 +1,11 @@
 ---
-title: BPhO 2024
+title: Nordic-Baltic 2024
 tipo: prova
 tags:
   - kg/prova
   - anno/2024
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Gravitazione e Astrofisica
 ---
 <div class="atom-reader" data-prova="nbpho_2024_problems_v1.0"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2024 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/point-charge"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2024 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -70,7 +70,7 @@ una particella?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2024 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/nucleus"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2024 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -207,7 +207,7 @@ iv) (2 punti) Stimate la massa totale di acqua che è fluita nel reattore di Okl
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2024 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/ball,object/droplet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2024 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/ball,object/droplet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,7 +252,7 @@ per la presenza del collo di acqua.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2024 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/planet,object/satellite,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2024 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/planet,object/satellite,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -343,7 +343,7 @@ d) le eclissi solari totali si verificano con uguale probabilità in qualsiasi p
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2024 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2024 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -424,7 +424,7 @@ NORDıC-BALTıC PHYsıCs OLYMPıAD 2024
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2024 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/mirror"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2024 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -498,7 +498,7 @@ iv) (2,5 punti) Ora il cono e la palla vengono trasportati in assenza di gravit�
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2024 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2024 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -559,7 +559,7 @@ Presta at‐ tenzione alle onde di corta lunghezza d'onda il cui fronte d'onda s
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2024 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2024 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -618,7 +618,7 @@ che dell'altro.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2024 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/ball,object/rope-string"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2024 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/ball,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -699,7 +699,7 @@ ii) (1 punto) La rotazione in senso orario o
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="BPhO 2024 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/capacitor"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Nordic-Baltic 2024 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

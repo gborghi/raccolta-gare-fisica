@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/nazionale/sperim/naz15spe/FOGLIO RISPOSTE (con numerazione
   delle
-title: Soluzioni — FOGLIO RISPOSTE (con numerazione delle pagine) 28-03-15.pdf
+title: OII 2015 Nazionale Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

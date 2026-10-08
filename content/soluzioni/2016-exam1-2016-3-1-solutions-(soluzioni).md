@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2016 exam1-2016-3-1-solutions.pdf
-title: Soluzioni — 2016 exam1-2016-3-1-solutions.pdf
+title: USA 2016 · Esame 1 · Soluzioni
 ---
 
 

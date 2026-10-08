@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Nordic-Baltic/all/2020 NBPhO-2020-solutions-grading.pdf
-title: Soluzioni — 2020 NBPhO-2020-solutions-grading.pdf
+title: Nordic-Baltic 2020 · Soluzioni
 ---
 
 

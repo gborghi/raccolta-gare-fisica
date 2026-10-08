@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int15tit/T3-Answersheet-it.pdf
-title: Soluzioni — T3-Answersheet-it.pdf
+title: IPhO 2015 · Teorica 3 · Foglio risposte · Soluzioni
 ---
 
 

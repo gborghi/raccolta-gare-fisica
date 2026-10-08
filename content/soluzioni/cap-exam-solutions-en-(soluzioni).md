@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Canada/all/CAP-exam-solutions-En.pdf
-title: Soluzioni — CAP-exam-solutions-En.pdf
+title: CAP · Soluzioni
 ---
 
 

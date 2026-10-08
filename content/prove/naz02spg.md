@@ -1,5 +1,5 @@
 ---
-title: OII 2002 Nazionale Sperimentale
+title: OII 2002 Nazionale Sperimentale · Griglia di valutazione
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2002 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/onde-e-oscillazioni,object/pendulum"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2002 Nazionale Sperimentale · Griglia di valutazione — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/onde-e-oscillazioni,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

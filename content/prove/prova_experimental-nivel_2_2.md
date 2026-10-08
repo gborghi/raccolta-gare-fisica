@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Gravitazione e Astrofisica
-title: Brasile 2017 — Livello 2 · Sperimentale
+title: Brasile 2017 · Livello 2 · Sperimentale
 ---
 
 

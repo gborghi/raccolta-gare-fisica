@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/IOQP2021-PartII-Solutions-20210217.pdf
-title: Soluzioni — IOQP2021-PartII-Solutions-20210217.pdf
+title: IOQP 2021 (Part II) · Soluzioni
 ---
 
 

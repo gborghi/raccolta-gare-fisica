@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/IOQP2022-PartII-Solutions-20220503.pdf
-title: Soluzioni — IOQP2022-PartII-Solutions-20220503.pdf
+title: IOQP 2022 (Part II) · Soluzioni
 ---
 
 

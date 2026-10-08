@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/teorica/naz2021th/Naz21T-griglia.pdf
-title: Soluzioni — Naz21T-griglia.pdf
+title: OII 2021 Nazionale Teorica · Griglia di valutazione · Soluzioni
 ---
 
 

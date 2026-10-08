@@ -1,5 +1,5 @@
 ---
-title: Argentina
+title: Argentina · Quaderno di meccanica
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina allenamento — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -68,7 +68,7 @@ the distance and the value of that distance.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina allenamento — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -126,7 +126,7 @@ Exercises
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina allenamento — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -175,7 +175,7 @@ Another curve.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina allenamento — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -224,7 +224,7 @@ Another curve.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina allenamento — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -276,7 +276,7 @@ When he's at rest.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina allenamento — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -328,7 +328,7 @@ When its acceleration is zero.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina allenamento — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -374,7 +374,7 @@ Its mass and the square of its volume.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina allenamento — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -426,7 +426,7 @@ The tensor.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina allenamento — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -484,7 +484,7 @@ Ration.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina allenamento — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -530,7 +530,7 @@ Scalar, vector and vector.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina allenamento — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -585,7 +585,7 @@ Its speed by its acceleration.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina allenamento — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-momentum,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -646,7 +646,7 @@ You're gonna get each one of them bodies.
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina allenamento — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -710,7 +710,7 @@ the direction of the force and displacement.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina allenamento — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -756,7 +756,7 @@ Its mass and the square of its velocity.
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina allenamento — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -796,7 +796,7 @@ non-conservative (dissipative) conservative.
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina allenamento — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -866,7 +866,7 @@ from the ground.
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina allenamento — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -915,7 +915,7 @@ body.
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina allenamento — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -967,7 +967,7 @@ The power supply is mechanical.
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina allenamento — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1025,7 +1025,7 @@ associated with a high value of the Rockwell index.
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina allenamento — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1077,7 +1077,7 @@ He's a zero.
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina allenamento — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/lever"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/lever"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1132,7 +1132,7 @@ to save energy.
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina allenamento — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/lever"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/lever"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1193,7 +1193,7 @@ the body that is intended to move.
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina allenamento — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/lever"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/1,multidisciplina/mono,object/lever"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1260,7 +1260,7 @@ Roman spear, scissors, shovel, screw, the door.
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Argentina allenamento — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 24" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1310,7 +1310,7 @@ b) Determine the average velocity of the particle when carrying out said displac
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Argentina allenamento — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 25" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1369,7 +1369,7 @@ PROBLEMATIC SITUATIONS
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Argentina allenamento — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 26" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1432,7 +1432,7 @@ e) Give an expression for the magnitude of the instantaneous velocity of the par
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Argentina allenamento — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 27" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1505,7 +1505,7 @@ e) Give an expression for the position of the particle as a function of time.
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Argentina allenamento — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 28" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1578,7 +1578,7 @@ e) Calculate the average velocity of the particle for the time interval between 
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="Argentina allenamento — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 29" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1628,7 +1628,7 @@ b) Determine the acceleration of the particle.
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Argentina allenamento — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 30" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1698,7 +1698,7 @@ The particle.
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="Argentina allenamento — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 31" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1760,7 +1760,7 @@ d) Determine the change in kinetic energy of the particle.
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="Argentina allenamento — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/lever,object/rod"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 32" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/lever,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1825,7 +1825,7 @@ b) Determine the minimum force that must be exerted to move the object when "the
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="Argentina allenamento — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 33" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1912,7 +1912,7 @@ g) The maximum height reached by the load.
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="Argentina allenamento — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 34" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2009,7 +2009,7 @@ If the player loses, he goes back to point C?
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="Argentina allenamento — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/spring"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 35" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/multi,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2160,7 +2160,7 @@ Data: Radius of the earth = 6,400 km; g = 9,79m/s2
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="Argentina allenamento — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/projectile"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 36" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/conservation-of-energy,argomento/meccanica,difficolta/4,multidisciplina/multi,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2311,7 +2311,7 @@ Consider the acceleration of gravity g = 10 m/s2; the latent heat of fusion of w
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="Argentina allenamento — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 37" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2438,7 +2438,7 @@ Note: Consider the acceleration due to gravity, g, equal to 9.8 m/s2.
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="Argentina allenamento — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/wheel"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 38" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/wheel"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2631,7 +2631,7 @@ the steps indicated above.
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="Argentina allenamento — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 39" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/mono,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2752,7 +2752,7 @@ Note: The tension on a string is the magnitude of the force FT applied at both e
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="Argentina allenamento — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/cylinder,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="Argentina allenamento · Quaderno di meccanica — Quesito 40" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/4,multidisciplina/multi,object/cylinder,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

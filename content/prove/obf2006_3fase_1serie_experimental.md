@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 3 · 1ª serie · Sperimentale
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 3 · 1ª serie · Sperimentale — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -121,7 +121,7 @@ is satisfied experimentally, where $F_i$ is the total force (weight of the hook'
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 3 · 1ª serie · Sperimentale — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -221,7 +221,7 @@ $$F_2\, d_2 = \text{constante} \quad \Rightarrow \quad d_2 \propto \frac{1}{F_2}
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 3 · 1ª serie · Sperimentale — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -327,7 +327,7 @@ where $n_\text{arr}$ is the number of rows, $P_\text{arr} = 0{,}11\ \text{N}$ an
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 3 · 1ª serie · Sperimentale — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

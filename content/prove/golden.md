@@ -1,5 +1,5 @@
 ---
-title: Russia
+title: Russia · Il rapporto aureo
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia · Il rapporto aureo — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -66,7 +66,7 @@ $$\cos\theta = \frac{-1 + \sqrt{5}}{2} \equiv \frac{1}{\phi}$$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia · Il rapporto aureo — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,7 +131,7 @@ che è massimizzata a $\sin\theta = 1/\phi$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia · Il rapporto aureo — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -184,7 +184,7 @@ $\cos\theta = 1/\phi$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Russia · Il rapporto aureo — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -233,7 +233,7 @@ $$\omega = \omega_0\sqrt{\frac{5 \pm 1}{2}}$$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/wheel"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia · Il rapporto aureo — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/spring,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -298,7 +298,7 @@ $$\omega = \omega_0\sqrt{\frac{5 \pm 1}{2}}$$
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Russia · Il rapporto aureo — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -351,7 +351,7 @@ Risoluzione per $h_\text{max}$ produce direttamente $h_\text{max} = \phi H$.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Russia · Il rapporto aureo — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -418,7 +418,7 @@ Problemi di relazione
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia — Quesito 8" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Russia · Il rapporto aureo — Quesito 8" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -471,7 +471,7 @@ Questo valore deve essere inferiore a $c$ in modo da risolvere per $v$ essere: $
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia — Quesito 9" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rope-string,object/tank-container"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Russia · Il rapporto aureo — Quesito 9" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/rope-string,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -522,7 +522,7 @@ Substituendo l'espressione $E(x)$, possiamo massimizzare l'impulso quando: $\ln(
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia — Quesito 10" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/photon"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Russia · Il rapporto aureo — Quesito 10" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -571,7 +571,7 @@ Magnetismo elettrico
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Russia — Quesito 11" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Russia · Il rapporto aureo — Quesito 11" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -618,7 +618,7 @@ La radice è quindi $a = \phi$
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Russia — Quesito 12" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/point-charge,object/conducting-sphere"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Russia · Il rapporto aureo — Quesito 12" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/point-charge,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -663,7 +663,7 @@ che è pari a zero quando $n = \phi$.
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Russia — Quesito 13" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/resistor,object/wire"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Russia · Il rapporto aureo — Quesito 13" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/resistor,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -708,7 +708,7 @@ La soluzione dà $R = \phi r$. La parte b) e l'esempio seguente sono estremament
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Russia — Quesito 14" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Russia · Il rapporto aureo — Quesito 14" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -741,7 +741,7 @@ Soluzione: Ancora una volta, possiamo semplicemente usare il principio di somigl
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Russia — Quesito 15" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Russia · Il rapporto aureo — Quesito 15" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -786,7 +786,7 @@ che sembrano andare nell'ordine della sequenza di Fibonacci. In tal modo il rapp
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Russia — Quesito 16" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Russia · Il rapporto aureo — Quesito 16" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Canada/all/2016-solutions-corrected-2018.pdf
-title: Soluzioni — 2016-solutions-corrected-2018.pdf
+title: CAP · Soluzioni
 ---
 
 

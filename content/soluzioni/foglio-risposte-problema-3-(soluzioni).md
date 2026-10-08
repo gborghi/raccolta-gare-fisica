@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int09tit/foglio risposte problema 3.pdf
-title: Soluzioni — foglio risposte problema 3.pdf
+title: IPhO 2009 · Foglio risposte · Problema 3 · Soluzioni
 ---
 
 

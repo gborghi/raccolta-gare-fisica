@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/Frozen-solutions-INChO-2016.pdf
-title: Soluzioni — Frozen-solutions-INChO-2016.pdf
+title: India 2016 · INChO · Frozen · Soluzioni
 ---
 
 

@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/eupho/teorica/euphoteo19/EuPhO19_theory_solutions_and_marking_schemes_v1.pdf
-title: Soluzioni — EuPhO19_theory_solutions_and_marking_schemes_v1.pdf
+title: EuPhO 2019 · Teorica · Griglia di valutazione · Soluzioni
 ---
 
 

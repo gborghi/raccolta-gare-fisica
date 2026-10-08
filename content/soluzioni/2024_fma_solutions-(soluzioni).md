@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2024/2024_Fma_Solutions.pdf
-title: Soluzioni — 2024_Fma_Solutions.pdf
+title: F=ma 2024 · Soluzioni
 ---
 
 

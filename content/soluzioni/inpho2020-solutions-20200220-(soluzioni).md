@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/INPHO2020-Solutions-20200220.pdf
-title: Soluzioni — INPHO2020-Solutions-20200220.pdf
+title: INPhO 2020 · Soluzioni
 ---
 
 

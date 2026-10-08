@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/INPhO2023-Solution-20230215.pdf
-title: Soluzioni — INPhO2023-Solution-20230215.pdf
+title: INPhO 2023 · Soluzioni
 ---
 
 

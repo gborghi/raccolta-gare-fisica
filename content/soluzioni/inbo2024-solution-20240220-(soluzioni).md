@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/INBO2024-Solution-20240220.pdf
-title: Soluzioni — INBO2024-Solution-20240220.pdf
+title: India 2024 · INBO · Soluzioni
 ---
 
 

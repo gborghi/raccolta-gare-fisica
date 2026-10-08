@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/eupho/teorica/euphoteo20/EuPhO20_Theory_Solutions-7.pdf
-title: Soluzioni — EuPhO20_Theory_Solutions-7.pdf
+title: EuPhO 2020 · Teorica · Soluzioni
 ---
 
 

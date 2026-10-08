@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2009_QtrFinalSolutions.pdf
-title: Soluzioni — 2009_QtrFinalSolutions.pdf
+title: USA 2009 · Quarti di finale · Soluzioni
 ---
 
 

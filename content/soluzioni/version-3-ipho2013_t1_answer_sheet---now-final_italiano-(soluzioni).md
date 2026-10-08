@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/teorica/int13tit/Version 3 IPhO2013_T1_answer_sheet -
   now
-title: Soluzioni — Version 3 IPhO2013_T1_answer_sheet - now final_italiano.pdf
+title: IPhO 2013 · Teorica 1 · Foglio risposte · Soluzioni
 ---
 
 

@@ -17,7 +17,7 @@ tags:
   - cluster/Meccanica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2021 — IOQB Parte II
+title: India 2021 · IOQB Parte II
 ---
 
 

@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/ipho/sperimentale/int12sit/IPhO_Answer_Sheet_Experimental_ITA.pdf
-title: Soluzioni — IPhO_Answer_Sheet_Experimental_ITA.pdf
+title: IPhO 2012 · Foglio risposte · Sperimentale · Soluzioni
 ---
 
 

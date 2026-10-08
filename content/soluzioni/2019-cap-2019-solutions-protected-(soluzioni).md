@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Canada/all/2019 cap-2019-solutions-protected.pdf
-title: Soluzioni — 2019 cap-2019-solutions-protected.pdf
+title: CAP 2019 · Soluzioni
 ---
 
 

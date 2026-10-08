@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/eupho/teorica/euphoteo22/EuPhO_2022_theory_solutions_grading_preliminary.pdf
-title: Soluzioni — EuPhO_2022_theory_solutions_grading_preliminary.pdf
+title: EuPhO 2022 · Teorica · Preliminary · Soluzioni
 ---
 
 

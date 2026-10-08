@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 2 · 3ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -71,7 +71,7 @@ prevents the start of the ladder slide.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/ball,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/ball,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -126,7 +126,7 @@ In these conditions, determine:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -184,7 +184,7 @@ four angularly separated connection terminals of $\pi/2$ radians. Calculate:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -248,7 +248,7 @@ image of the candle formed by the $L_2$ lens.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -318,7 +318,7 @@ How often will these waves reach this wall?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pipe-tube,object/ball"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pipe-tube,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -383,7 +383,7 @@ Considering the specific heat of lead as $0{,}03\ \text{cal} \cdot \text{g}^{-1}
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -441,7 +441,7 @@ infinite between its terminals). Under these conditions, calculate:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 2 · 3ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

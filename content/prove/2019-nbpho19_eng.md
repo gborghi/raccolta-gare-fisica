@@ -1,11 +1,11 @@
 ---
-title: BPhO 2019
+title: Nordic-Baltic 2019
 tipo: prova
 tags:
   - kg/prova
   - anno/2019
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Meccanica
 ---
 <div class="atom-reader" data-prova="2019-nbpho19_eng"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2019 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/satellite,object/star,object/planet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2019 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/satellite,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -78,7 +78,7 @@ Il raggio di radio della Terra $r_\oplus$ e la luminosità del Sole $L_\odot$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2019 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/cylinder,object/spring"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2019 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/cylinder,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,7 +175,7 @@ l'accelerazione del rulli, rispettivamente.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2019 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/point-charge,object/electron,object/screen"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2019 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/point-charge,object/electron,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -318,7 +318,7 @@ effetti gravitazionali e/o relativistici.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2019 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/prism,object/screen"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2019 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/prism,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -483,7 +483,7 @@ v) (3 punti) Determinare il coefficiente di rifrazione del materiale del film.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2019 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2019 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -594,7 +594,7 @@ tempo di viaggio $t_\text{min}$ tra A e B.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2019 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/gas,object/star"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2019 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/gas,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -701,7 +701,7 @@ Nuvola?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2019 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2019 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -770,7 +770,7 @@ $\omega$. Trova $\omega$.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2019 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/resistor,object/battery,object/wire"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2019 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/resistor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

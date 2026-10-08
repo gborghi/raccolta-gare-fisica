@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int10sit/Answer_Sheets_ExpProblem2ITA.pdf
-title: Soluzioni — Answer_Sheets_ExpProblem2ITA.pdf
+title: IPhO 2010 · Foglio risposte · Sperimentale · Problema 2 · Soluzioni
 ---
 
 

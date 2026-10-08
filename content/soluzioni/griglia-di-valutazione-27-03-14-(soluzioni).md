@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/nazionale/sperim/naz14spe/griglia di valutazione 27-03-14
   .pdf
-title: Soluzioni — griglia di valutazione 27-03-14 .pdf
+title: OII 2014 Nazionale Sperimentale · Griglia di valutazione · Soluzioni
 ---
 
 

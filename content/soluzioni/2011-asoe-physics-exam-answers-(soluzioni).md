@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Australia/all/2011-asoe-physics-exam-answers.pdf
-title: Soluzioni — 2011-asoe-physics-exam-answers.pdf
+title: ASOE 2011 · Soluzioni
 ---
 
 

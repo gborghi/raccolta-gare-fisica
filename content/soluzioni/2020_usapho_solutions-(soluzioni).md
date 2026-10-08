@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2020/2020_USAPhO_solutions.pdf
-title: Soluzioni — 2020_USAPhO_solutions.pdf
+title: USAPhO 2020 · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/NSEP_2023_AnswerKey.pdf
-title: Soluzioni — NSEP_2023_AnswerKey.pdf
+title: NSEP 2023 · Chiave delle risposte · Soluzioni
 ---
 
 

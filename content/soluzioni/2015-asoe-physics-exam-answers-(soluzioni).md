@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Australia/all/2015-asoe-physics-exam-answers.pdf
-title: Soluzioni — 2015-asoe-physics-exam-answers.pdf
+title: ASOE 2015 · Soluzioni
 ---
 
 

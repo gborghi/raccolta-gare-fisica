@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/nazionale/sperim/naz17spe/griglia valutazione prova sper
   2017.pdf
-title: Soluzioni — griglia valutazione prova sper 2017.pdf
+title: OII 2017 Nazionale · Griglia di valutazione · Sperimentale · Soluzioni
 ---
 
 

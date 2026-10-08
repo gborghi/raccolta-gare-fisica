@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz16spe/Naz16spe_griglia valutazione.pdf
-title: Soluzioni — Naz16spe_griglia valutazione.pdf
+title: OII 2016 Nazionale Sperimentale · Griglia di valutazione · Soluzioni
 ---
 
 

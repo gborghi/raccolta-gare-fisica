@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int12tit/ipho12t_answersh_ITA.pdf
-title: Soluzioni — ipho12t_answersh_ITA.pdf
+title: IPhO 2012 · Foglio risposte · Soluzioni
 ---
 
 

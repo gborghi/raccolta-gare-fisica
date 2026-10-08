@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Meccanica
-title: OBF 2017 — Fase 2 · Livello II
+title: OBF 2017 · Fase 2 · Livello II
 ---
 
 

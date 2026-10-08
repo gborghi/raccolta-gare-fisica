@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri
   paesi/Svizzera/Nazionale/final_2017_solutions/swisspho2017_solutions/short_radioactivity_solution.pdf
-title: Soluzioni — short_radioactivity_solution.pdf
+title: Svizzera 2017 · Domanda breve · Radioactivity · Soluzioni
 ---
 
 

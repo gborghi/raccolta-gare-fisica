@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/eupho/sperimentale/euphospe20/EuPhO20_experiment_Solutions.pdf
-title: Soluzioni — EuPhO20_experiment_Solutions.pdf
+title: EuPhO 2020 · Sperimentale · Soluzioni
 ---
 
 

@@ -340,7 +340,7 @@ $$
 
 dove $y$ è la distanza della galleria dal centro della Terra.
 
-*(figura nel PDF originale)*
+![[teo10sol_Q05_f1.png]]
 La condizione si esprime ora come
 
 $$
@@ -403,7 +403,7 @@ $$
 
 where $y$ is the distance of the tunnel from the center of the Earth.
 
-*(figure in the original PDF)*
+![[teo10sol_Q05_f1.png]]
 The condition is now expressed as
 
 $$
@@ -593,7 +593,7 @@ La temperatura $T_{\text{B}}$ nello stato B deve essere maggiore o uguale a $T_{
 
 $(T_{\text{B}})_{\text{min}} = T_{\text{C}} = 580 \text{ K}$
 
-*(figura nel PDF originale)*
+![[teo10sol_Q09_f1.png]]
 Al tempo stesso, poiché le adiabatiche reversibili sono curve isoentropiche, il punto B deve stare sotto l'adiabatica reversibile per C dato che l'entropia può solo aumentare o al massimo restare costante (se la trasformazione del gas fosse un'adiabatica reversibile). Il massimo, o meglio, l'estremo superiore per la temperatura $T_{\text{B}}$ può essere calcolato su una trasformazione adiabatica reversibile ove $TV^{\gamma-1} = \text{cost}$, dove $\gamma = c_p/c_V = 7/5$ nel caso di gas biatomico. Quindi
 
 $(T_{\text{B}})_{\text{sup}} = \left(\frac{V_{\text{C}}}{V_{\text{B}}}\right)^{\gamma-1} T_{\text{C}} = 2^{2/5} T_{\text{C}} = 765 \text{ K}$
@@ -646,7 +646,7 @@ The temperature $T_{\text{B}}$ in state B must be greater than or equal to $T_{\
 
 $(T_{\text{B}})_{\text{min}} = T_{\text{C}} = 580 \text{ K}$
 
-*(figure in the original PDF)*
+![[teo10sol_Q09_f1.png]]
 At the same time, since reversible adiabatic processes are isoentropic curves, point B must lie below the reversible adiabatic curve for C because entropy can only increase or at most remain constant (if the gas transformation were a reversible adiabatic process). The maximum, or rather the supremum, for temperature $T_{\text{B}}$ can be computed along a reversible adiabatic transformation where $TV^{\gamma-1} = \text{constant}$, with $\gamma = c_p/c_V = 7/5$ in the case of a diatomic gas. Therefore
 
 $(T_{\text{B}})_{\text{sup}} = \left(\frac{V_{\text{C}}}{V_{\text{B}}}\right)^{\gamma-1} T_{\text{C}} = 2^{2/5} T_{\text{C}} = 765 \text{ K}$
@@ -783,7 +783,7 @@ Si ricava: $\varepsilon(580 \, \text{K}) = 2.5$ ed $\varepsilon(T_B \to 696 \, \
 
 I grafici dei due parametri sono riportati qui sotto.
 
-*(figura nel PDF originale)*
+![[teo10sol_Q11_f1.png]]
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -825,7 +825,7 @@ It is found: $\varepsilon(580 \, \text{K}) = 2.5$ and $\varepsilon(T_B \to 696 \
 
 The graphs of the two parameters are reported below.
 
-*(figure in the original PDF)*
+![[teo10sol_Q11_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -843,7 +843,7 @@ The graphs of the two parameters are reported below.
 
 Si consideri un arbitrario punto A del fondo della vasca, a distanza $x$ dal piede della perpendicolare condotta dal punto di osservazione O, e il raggio di luce che partendo da questo punto arriva nello stesso punto O. A causa della rifrazione subita dalla luce nel passaggio dall'acqua all'aria, esso sembra essere emesso da un punto A', come mostrato in figura.
 
-*(figura nel PDF originale)*
+![[teo10sol_Q12_f1.png]]
 In termini dell'angolo $\varphi$ mostrato in figura, si ha $x = L \operatorname{tg} \varphi$.
 
 Il raggio che parte da A, con un angolo $\varphi$ rispetto alla verticale, passa per O; invece un raggio adiacente che parte con angolo $\varphi + d\varphi$ giunge alla superficie di separazione in un punto distante da O di una quantità $dx$ data da
@@ -917,7 +917,7 @@ Soluzione alternativa
 
 Come prima, oltre al raggio uscente da A e passante per O, si consideri un secondo raggio che forma con il primo un angolo piccolo $\alpha$ e che attraversa la superficie dell'acqua in un punto O'.
 
-*(figura nel PDF originale)*
+![[teo10sol_Q12_f2.png]]
 La profondità $\ell$ di A' si può esprimere in funzione della profondità effettiva $L$, della distanza $x$ e dell'indice di rifrazione $n$ considerando che il segmento OO' è un lato comune dei due triangoli OHO' e OH'O'.
 
 Da semplici considerazioni geometriche si ricava che $\widehat{OO'H} = \varphi$ e $\widehat{OO'H'} = \vartheta$. Dalla geometria del sistema si ricavano successivamente
@@ -1007,7 +1007,7 @@ $$
 
 Consider an arbitrary point A on the bottom of the basin, at a distance $x$ from the foot of the perpendicular drawn from the observation point O, and the light ray originating from this point that arrives at the same point O. Due to the refraction experienced by light in passing from water to air, it appears to be emitted from a point A', as shown in the figure.
 
-*(figure in the original PDF)*
+![[teo10sol_Q12_f1.png]]
 In terms of the angle $\varphi$ shown in the figure, one has $x = L \tan \varphi$.
 
 The ray originating from A, at an angle $\varphi$ with respect to the vertical, passes through O; instead, a neighboring ray originating at angle $\varphi + d\varphi$ reaches the interface surface at a point distant from O by an amount $dx$, given by
@@ -1081,7 +1081,7 @@ Alternative solution
 
 As before, besides the ray emerging from A and passing through O, consider a second ray forming a small angle $\alpha$ with the first one, and crossing the water surface at point O'.
 
-*(figure in the original PDF)*
+![[teo10sol_Q12_f2.png]]
 The depth $\ell$ of A' can be expressed as a function of the actual depth $L$, the distance $x$, and the refractive index $n$, by noting that segment OO' is a common side of triangles OHO' and OH'O'.
 
 From simple geometric considerations, one finds that $\widehat{OO'H} = \varphi$ and $\widehat{OO'H'} = \vartheta$. From the geometry of the system, one successively obtains
@@ -1322,6 +1322,7 @@ For constant current ($I_0$), the maximum potential difference occurs when the e
 
 $$
 R^*_{\text{max}} = \frac{1}{4} \frac{\rho L}{\sigma} = \frac{V_0}{I_0} \quad \Rightarrow \quad \sigma = \frac{\rho L I_0}{4V_0} \quad \text{from which finally} \quad d = 2r = 2\sqrt{\frac{\sigma}{\pi}} = \sqrt{\frac{\rho L I_0}{\pi V_0}} = 0.624 \text{ mm}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -1349,7 +1350,7 @@ $$
 
 Il grafico richiesto di $V(x)$ è riportato a fianco.
 
-*(figura nel PDF originale)*
+![[teo10sol_Q17_f1.png]]
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
@@ -1377,7 +1378,7 @@ $$
 
 The required graph of $V(x)$ is shown alongside.
 
-*(figure in the original PDF)*
+![[teo10sol_Q17_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -1416,7 +1417,7 @@ $$
 
 Anche qui, a fianco è riportato il grafico della funzione $W_1(x)$.
 
-*(figura nel PDF originale)*
+![[teo10sol_Q18_f1.png]]
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -1455,7 +1456,7 @@ $$
 
 Also here, adjacent is the graph of the function $W_1(x)$.
 
-*(figure in the original PDF)*
+![[teo10sol_Q18_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -1503,6 +1504,7 @@ the contribution from the two straight wires is zero because they are aligned wi
 
 $$
 B = \frac{\mu_0 I_1}{2a} \frac{\ell_1}{L} - \frac{\mu_0 I_2}{2a} \frac{\ell_2}{L} = \frac{\mu_0 \pi}{L^2} (\ell_1 I_1 - \ell_2 I_2) \quad \text{but} \quad \ell_1 I_1 - \ell_2 I_2 = 0 \quad \text{as seen in point 2.}
+$$
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 

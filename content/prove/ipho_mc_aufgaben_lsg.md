@@ -1,5 +1,5 @@
 ---
-title: IPhO
+title: IPhO · Soluzioni · scelta multipla
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO · Soluzioni · scelta multipla — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,7 +54,7 @@ Quando un corpo solido di densità $1{,}80\,\text{g\,cm}^{-3}$ si scende a veloc
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO · Soluzioni · scelta multipla — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,7 +99,7 @@ Come si muove il canne rispetto al secchio immediatamente dopo che la corda e il
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/rope-string"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO · Soluzioni · scelta multipla — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,7 +142,7 @@ Per ripristinare l'equilibrio della bilancia, si deve...
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/bubble"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO · Soluzioni · scelta multipla — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container,object/bubble"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -187,7 +187,7 @@ Cosa si può dire dei livelli d'acqua nei bicchieri immediatamente dopo che i cu
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/cylinder,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO · Soluzioni · scelta multipla — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/cylinder,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -226,7 +226,7 @@ Di quale distanza si è spostata la riga rispetto al tavolo quando il barattolo 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO · Soluzioni · scelta multipla — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -265,7 +265,7 @@ Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO · Soluzioni · scelta multipla — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -310,7 +310,7 @@ Le scatole prendono lo stesso tempo per slide down the inclined planes.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO · Soluzioni · scelta multipla — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -359,7 +359,7 @@ Qual è il grafico che rappresenta correttamente la distanza $x$ del punto di im
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/disk,object/rope-string,object/rod"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO · Soluzioni · scelta multipla — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/disk,object/rope-string,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -404,7 +404,7 @@ Come si comporta la velocità orbitale del puck durante il movimento?
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO · Soluzioni · scelta multipla — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -447,7 +447,7 @@ L’esopianeta ha…
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO — Quesito 11" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO · Soluzioni · scelta multipla — Quesito 11" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -496,7 +496,7 @@ Qual è il momento d'inerzia corrispondente di un cubo realizzato dello stesso m
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO — Quesito 12" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/rope-string,object/pulley,object/pendulum"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO · Soluzioni · scelta multipla — Quesito 12" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/rope-string,object/pulley,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -539,7 +539,7 @@ Come deve essere scelta la lunghezza $\ell'$ del pendolo nella cabina di sinistr
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO — Quesito 13" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO · Soluzioni · scelta multipla — Quesito 13" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -584,7 +584,7 @@ Indicare quale delle cifre sia corretta e giustificare la tua risposta.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO — Quesito 14" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/black-hole,object/star"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO · Soluzioni · scelta multipla — Quesito 14" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/black-hole,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -633,7 +633,7 @@ La massa del buco nero corrisponde più strettamente a …
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO — Quesito 15" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/pendulum,object/ball"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO · Soluzioni · scelta multipla — Quesito 15" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/pendulum,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -676,7 +676,7 @@ Quale delle seguenti figure mostra la posizione della sfera $1{,}5\,\text{s}$ do
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="IPhO — Quesito 16" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/spring"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="IPhO · Soluzioni · scelta multipla — Quesito 16" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -725,7 +725,7 @@ Qual è la frequenza di oscillazione (frequenza naturale) del sistema mostrato q
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="IPhO — Quesito 17" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/conducting-sphere"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="IPhO · Soluzioni · scelta multipla — Quesito 17" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -770,7 +770,7 @@ Cosa c'è ora circa la forza tra loro?
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="IPhO — Quesito 18" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/wire,object/cylinder"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="IPhO · Soluzioni · scelta multipla — Quesito 18" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/wire,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -819,7 +819,7 @@ A quanti dei punti segnati A, B e C si differenziano i campi magnetici prodotti 
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="IPhO — Quesito 19" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/point-charge"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="IPhO · Soluzioni · scelta multipla — Quesito 19" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -862,7 +862,7 @@ Qual è il valore della differenza di potenziale $U$ con cui la particella era i
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="IPhO — Quesito 20" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/point-charge"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="IPhO · Soluzioni · scelta multipla — Quesito 20" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -907,7 +907,7 @@ Qual è la velocità di una delle particelle di polvere cariche positivamente ri
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="IPhO — Quesito 21" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/coil"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="IPhO · Soluzioni · scelta multipla — Quesito 21" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -946,7 +946,7 @@ Come si confrontano tra loro le tensioni $U_a$ e $U_d$ indotte negli anelli imme
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="IPhO — Quesito 22" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/magnet,object/pipe-tube"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="IPhO · Soluzioni · scelta multipla — Quesito 22" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/magnet,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1015,7 +1015,7 @@ Quale valore per la conducibilità elettrica $\sigma_\text{Messing}$ viene otten
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="IPhO — Quesito 23" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/coil"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="IPhO · Soluzioni · scelta multipla — Quesito 23" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1060,7 +1060,7 @@ Quale dei grafici mostra un processo fisicamente possibile?
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="IPhO — Quesito 24" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/battery,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="IPhO · Soluzioni · scelta multipla — Quesito 24" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/battery,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1105,7 +1105,7 @@ Qual è la più piccola grandezza di corrente che scorre attraverso l'ammetro in
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="IPhO — Quesito 25" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/battery"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="IPhO · Soluzioni · scelta multipla — Quesito 25" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1150,7 +1150,7 @@ Quale dichiarazione è corretta se due di queste batterie sono usate per operare
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="IPhO — Quesito 26" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="IPhO · Soluzioni · scelta multipla — Quesito 26" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1193,7 +1193,7 @@ Quali valori di resistenza corrispondono meglio ai valori misurati mostrati?
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="IPhO — Quesito 27" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/inductor,object/capacitor"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="IPhO · Soluzioni · scelta multipla — Quesito 27" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/inductor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1242,7 +1242,7 @@ Qual è la frequenza di oscillazione $f_{12}$ (natural frequency) del seguente s
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="IPhO — Quesito 28" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="IPhO · Soluzioni · scelta multipla — Quesito 28" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1291,7 +1291,7 @@ Quale dei seguenti diagrammi di circuito rappresenta correttamente il circuito u
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="IPhO — Quesito 29" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/disk"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="IPhO · Soluzioni · scelta multipla — Quesito 29" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1336,7 +1336,7 @@ Cosa succede durante il riscaldamento?
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="IPhO — Quesito 30" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="IPhO · Soluzioni · scelta multipla — Quesito 30" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1375,7 +1375,7 @@ Quale temperatura in $°\text{C}$ corrisponde più da vicino a $0\,\text{Nups}$?
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="IPhO — Quesito 31" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="IPhO · Soluzioni · scelta multipla — Quesito 31" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1414,7 +1414,7 @@ Quale sostanza ha la capacità termica specifica più alta?
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="IPhO — Quesito 32" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="IPhO · Soluzioni · scelta multipla — Quesito 32" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1453,7 +1453,7 @@ Qual era la massa del cubetto di ghiaccio al momento in cui è stato gettato nel
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="IPhO — Quesito 33" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="IPhO · Soluzioni · scelta multipla — Quesito 33" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1496,7 +1496,7 @@ Quale delle seguenti affermazioni è corretta per lo scioglimento del ghiaccio n
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="IPhO — Quesito 34" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/rod"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="IPhO · Soluzioni · scelta multipla — Quesito 34" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1543,7 +1543,7 @@ Come si confrontano le potenze termiche $P_\text{I}$, $P_\text{II}$ e $P_\text{I
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="IPhO — Quesito 35" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="IPhO · Soluzioni · scelta multipla — Quesito 35" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1592,7 +1592,7 @@ Quali sono i valori approssimati dei due resistori?
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="IPhO — Quesito 36" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="IPhO · Soluzioni · scelta multipla — Quesito 36" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1637,7 +1637,7 @@ Qual è la potenza irradiata quando la temperatura del metallo è sollevata a $1
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="IPhO — Quesito 37" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet,object/star"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="IPhO · Soluzioni · scelta multipla — Quesito 37" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1676,7 +1676,7 @@ Di circa quanto potrebbe diminuire la temperatura media $T$ alla superficie terr
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="IPhO — Quesito 38" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="IPhO · Soluzioni · scelta multipla — Quesito 38" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1725,7 +1725,7 @@ Quali dei seguenti grafici rappresentano correttamente il processo ciclico?
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="IPhO — Quesito 39" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="IPhO · Soluzioni · scelta multipla — Quesito 39" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1768,7 +1768,7 @@ Quanta quantità di vapore acqueo (in $\text{g\,m}^{-3}$) è presente nell'aria 
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="IPhO — Quesito 40" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="IPhO · Soluzioni · scelta multipla — Quesito 40" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1817,7 +1817,7 @@ Angolo di incidenza: $45°$
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="IPhO — Quesito 41" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="IPhO · Soluzioni · scelta multipla — Quesito 41" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1862,7 +1862,7 @@ Qual è la distanza $x$ del punto di ingresso dalla superficie di confine superi
 
 
 
-<span class="atom-split" id="q42" data-atom="q42" data-title="IPhO — Quesito 42" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="IPhO · Soluzioni · scelta multipla — Quesito 42" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1907,7 +1907,7 @@ A che distanza dalla lente si forma l'immagine quando la distanza tra l'oggetto 
 
 
 
-<span class="atom-split" id="q43" data-atom="q43" data-title="IPhO — Quesito 43" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
+<span class="atom-split" id="q43" data-atom="q43" data-title="IPhO · Soluzioni · scelta multipla — Quesito 43" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1972,7 +1972,7 @@ Quali obiettivi sono stati usati in ciascun esperimento?
 
 
 
-<span class="atom-split" id="q44" data-atom="q44" data-title="IPhO — Quesito 44" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="IPhO · Soluzioni · scelta multipla — Quesito 44" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2035,7 +2035,7 @@ Qual è la lunghezza focale della lente? (Lenti di convergenza e di divergenza)
 
 
 
-<span class="atom-split" id="q45" data-atom="q45" data-title="IPhO — Quesito 45" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/diffraction-grating,object/screen"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="IPhO · Soluzioni · scelta multipla — Quesito 45" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/diffraction-grating,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2102,7 +2102,7 @@ Qual è la lunghezza d'onda della luce laser emessa dal secondo laser?
 
 
 
-<span class="atom-split" id="q46" data-atom="q46" data-title="IPhO — Quesito 46" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="IPhO · Soluzioni · scelta multipla — Quesito 46" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2145,7 +2145,7 @@ A quale velocità diminuisce lo spessore $d$ dello strato d'acqua sul vetro?
 
 
 
-<span class="atom-split" id="q47" data-atom="q47" data-title="IPhO — Quesito 47" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q47" data-atom="q47" data-title="IPhO · Soluzioni · scelta multipla — Quesito 47" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2190,7 +2190,7 @@ Qual è la frequenza $f$ della radiazione?
 
 
 
-<span class="atom-split" id="q48" data-atom="q48" data-title="IPhO — Quesito 48" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q48" data-atom="q48" data-title="IPhO · Soluzioni · scelta multipla — Quesito 48" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2235,7 +2235,7 @@ Quanto deve essere spessa la finestra di vetro di piombo in modo che l'intensit�
 
 
 
-<span class="atom-split" id="q49" data-atom="q49" data-title="IPhO — Quesito 49" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/atom"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="IPhO · Soluzioni · scelta multipla — Quesito 49" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2282,7 +2282,7 @@ Quale degli spettri mostrati qui sotto, opportunamente scalato in lunghezza d'on
 
 
 
-<span class="atom-split" id="q50" data-atom="q50" data-title="IPhO — Quesito 50" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/nucleus"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="IPhO · Soluzioni · scelta multipla — Quesito 50" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2339,7 +2339,7 @@ Quale delle tre coppie di nuclidi appartiene a quale diagramma?
 
 
 
-<span class="atom-split" id="q51" data-atom="q51" data-title="IPhO — Quesito 51" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q51" data-atom="q51" data-title="IPhO · Soluzioni · scelta multipla — Quesito 51" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2384,7 +2384,7 @@ Quanto tempo dovranno aspettare gli abitanti della Terra tra il lancio della nav
 
 
 
-<span class="atom-split" id="q52" data-atom="q52" data-title="IPhO — Quesito 52" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q52" data-atom="q52" data-title="IPhO · Soluzioni · scelta multipla — Quesito 52" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2439,7 +2439,7 @@ Che potenza è resa disponibile dal vento alla turbina quando la velocità del v
 
 
 
-<span class="atom-split" id="q53" data-atom="q53" data-title="IPhO — Quesito 53" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q53" data-atom="q53" data-title="IPhO · Soluzioni · scelta multipla — Quesito 53" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2488,7 +2488,7 @@ Quale delle seguenti espressioni potrebbe essere una espressione adatta per la p
 
 
 
-<span class="atom-split" id="q54" data-atom="q54" data-title="IPhO — Quesito 54" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet,object/satellite"></span>
+<span class="atom-split" id="q54" data-atom="q54" data-title="IPhO · Soluzioni · scelta multipla — Quesito 54" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2541,7 +2541,7 @@ Quali sono i valori degli esponenti $\alpha$, $\beta$ e $\gamma$?
 
 
 
-<span class="atom-split" id="q55" data-atom="q55" data-title="IPhO — Quesito 55" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q55" data-atom="q55" data-title="IPhO · Soluzioni · scelta multipla — Quesito 55" data-tags="kg/prova,paese/Germania,comp/IPhO,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

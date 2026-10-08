@@ -17,7 +17,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2025 — Experimento Inercia rodamiento · Soluzioni
+title: Spagna 2025 · Experimento Inercia rodamiento · Soluzioni
 ---
 
 

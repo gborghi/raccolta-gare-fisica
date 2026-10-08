@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/eupho/sperimentale/euphospe21/EuPhO_2021_exp_solutions
   (2).pdf
-title: Soluzioni — EuPhO_2021_exp_solutions (2).pdf
+title: EuPhO 2021 · Sperimentale · Soluzioni
 ---
 
 

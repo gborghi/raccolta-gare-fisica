@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/junior science/INJSO-Solution-20190219.pdf
-title: Soluzioni — INJSO-Solution-20190219.pdf
+title: INJSO · Soluzioni
 ---
 
 

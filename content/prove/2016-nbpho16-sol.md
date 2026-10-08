@@ -2,7 +2,7 @@
 tipo: prova
 prova_id: prova_2016 NBPhO16-sol
 competition: Nordic-Baltic Physics Olympiad
-comp_code: BPhO
+comp_code: Nordic
 country: Nordic-Baltic
 year: '2016'
 level: ''
@@ -13,9 +13,9 @@ tags:
   - kg/prova
   - anno/2016
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Meccanica
-title: BPhO 2016 — Soluzioni
+title: Nordic-Baltic 2016 · Soluzioni
 ---
 
 

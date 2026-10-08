@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Elettromagnetismo
-title: Brasile 2017 — Fase 1 · Livello 3
+title: Brasile 2017 · Fase 1 · Livello 3
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/NSEB_2024_AnswerKey.pdf
-title: Soluzioni — NSEB_2024_AnswerKey.pdf
+title: India 2024 · NSEB · Chiave delle risposte · Soluzioni
 ---
 
 

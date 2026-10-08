@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Canada/all/2026_CAP_Exam_with_solutions.pdf
-title: Soluzioni — 2026_CAP_Exam_with_solutions.pdf
+title: CAP 2026 · Soluzioni
 ---
 
 

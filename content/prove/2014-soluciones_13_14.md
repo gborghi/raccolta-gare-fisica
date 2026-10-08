@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Gravitazione e Astrofisica
-title: Spagna 2014 — Soluzioni
+title: Spagna 2014 · Soluzioni
 ---
 
 

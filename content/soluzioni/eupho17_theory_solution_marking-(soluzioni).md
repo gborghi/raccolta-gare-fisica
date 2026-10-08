@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/eupho/teorica/euphoteo17/EuPhO17_theory_solution_marking.pdf
-title: Soluzioni — EuPhO17_theory_solution_marking.pdf
+title: EuPhO 2017 · Teorica · Griglia di valutazione · Soluzioni
 ---
 
 

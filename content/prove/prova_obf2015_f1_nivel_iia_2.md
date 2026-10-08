@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Meccanica
-title: OBF 2015 — Fase 1 · Livello II
+title: OBF 2015 · Fase 1 · Livello II
 ---
 
 

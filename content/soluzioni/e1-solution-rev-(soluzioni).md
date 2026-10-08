@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int23sit/E1-solution-rev.pdf
-title: Soluzioni — E1-solution-rev.pdf
+title: IPhO 2023 · Sperimentale 1 · Soluzioni
 ---
 
 

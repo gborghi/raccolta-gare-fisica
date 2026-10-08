@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Termodinamica
-title: Brasile 2025 — Fase 1 · Livello 1
+title: Brasile 2025 · Fase 1 · Livello 1
 ---
 
 

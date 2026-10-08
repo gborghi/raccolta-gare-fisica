@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/INPhO2024-Solution-20240220.pdf
-title: Soluzioni — INPhO2024-Solution-20240220.pdf
+title: INPhO 2024 · Soluzioni
 ---
 
 

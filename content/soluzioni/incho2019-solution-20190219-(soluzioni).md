@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/INChO2019-Solution-20190219.pdf
-title: Soluzioni — INChO2019-Solution-20190219.pdf
+title: India 2019 · INChO · Soluzioni
 ---
 
 

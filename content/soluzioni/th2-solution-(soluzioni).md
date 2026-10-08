@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int21tit/Th2-Solution.pdf
-title: Soluzioni — Th2-Solution.pdf
+title: IPhO 2021 · Teorica 2 · Soluzioni
 ---
 
 

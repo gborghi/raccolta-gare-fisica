@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2023/2023_USAPhO_Solutions.pdf
-title: Soluzioni — 2023_USAPhO_Solutions.pdf
+title: USAPhO 2023 · Soluzioni
 ---
 
 

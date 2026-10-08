@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz09spe/griglia finale.pdf
-title: Soluzioni — griglia finale.pdf
+title: OII 2009 Nazionale · Griglia di valutazione · Soluzioni
 ---
 
 

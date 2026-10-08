@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/eupho/sperimentale/euphospe19/EuPhO19_experiment_solution_and_marking_scheme_v1.pdf
-title: Soluzioni — EuPhO19_experiment_solution_and_marking_scheme_v1.pdf
+title: EuPhO 2019 · Sperimentale · Griglia di valutazione · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2022/2022_Theory_TST_Solutions.pdf
-title: Soluzioni — 2022_Theory_TST_Solutions.pdf
+title: USA 2022 · Teorica · TST · Soluzioni
 ---
 
 

@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2017 — Fase 1 · Livello 2
+title: Brasile 2017 · Fase 1 · Livello 2
 ---
 
 

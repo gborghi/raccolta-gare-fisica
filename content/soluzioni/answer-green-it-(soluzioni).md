@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int07sit/Answer-Green-it.pdf
-title: Soluzioni — Answer-Green-it.pdf
+title: IPhO 2007 · Verde · Soluzioni
 ---
 
 

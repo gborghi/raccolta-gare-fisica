@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/INChO2025-Solution-20250219.pdf
-title: Soluzioni — INChO2025-Solution-20250219.pdf
+title: India 2025 · INChO · Soluzioni
 ---
 
 

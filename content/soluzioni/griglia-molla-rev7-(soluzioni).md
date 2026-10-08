@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz22spe/GRIGLIA MOLLA REV7.pdf
-title: Soluzioni — GRIGLIA MOLLA REV7.pdf
+title: OII 2022 Nazionale Sperimentale · Griglia di valutazione · Molla · Soluzioni
 ---
 
 

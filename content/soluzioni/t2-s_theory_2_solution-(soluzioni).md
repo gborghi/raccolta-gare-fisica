@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int16tit/T2-S_Theory_2_Solution.pdf
-title: Soluzioni — T2-S_Theory_2_Solution.pdf
+title: IPhO 2016 · Teorica 2 · Soluzioni
 ---
 
 

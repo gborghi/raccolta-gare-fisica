@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int14tit/Solution Problem 2.pdf
-title: Soluzioni — Solution Problem 2.pdf
+title: IPhO 2014 · Problema 2 · Soluzioni
 ---
 
 

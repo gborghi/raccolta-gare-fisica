@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri paesi/India/junior
   science/IOQJS2021-PartII-Solutions-20210128.pdf
-title: Soluzioni — IOQJS2021-PartII-Solutions-20210128.pdf
+title: IOQJS 2021 (Part II) · Soluzioni
 ---
 
 

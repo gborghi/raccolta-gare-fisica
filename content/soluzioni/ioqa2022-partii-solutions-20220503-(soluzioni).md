@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/IOQA2022-PartII-Solutions-20220503.pdf
-title: Soluzioni — IOQA2022-PartII-Solutions-20220503.pdf
+title: IOQA 2022 (Part II) · Soluzioni
 ---
 
 

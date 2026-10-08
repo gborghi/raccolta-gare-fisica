@@ -1,5 +1,5 @@
 ---
-title: Argentina
+title: Argentina · Quaderno di termodinamica
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina · Quaderno di termodinamica — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -67,7 +67,7 @@ The temperature is a magnitude:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina · Quaderno di termodinamica — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -125,7 +125,7 @@ To build a thermometer, a substance such as:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina · Quaderno di termodinamica — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -183,7 +183,7 @@ For the definition of degree Celsius or degree Celsius ($^\circ\text{C}$) the fo
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina · Quaderno di termodinamica — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -241,7 +241,7 @@ The temperature of a mixture of ice and water in equilibrium, expressed in degre
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina · Quaderno di termodinamica — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -299,7 +299,7 @@ A temperature change of one degree Celsius corresponds to:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina · Quaderno di termodinamica — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -357,7 +357,7 @@ The material can naturally occur in the following phases:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina · Quaderno di termodinamica — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -415,7 +415,7 @@ The change in the aggregate state from liquid to solid is called:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina · Quaderno di termodinamica — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -473,7 +473,7 @@ The change in the aggregate state of the liquid to vapor material is called:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina · Quaderno di termodinamica — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -531,7 +531,7 @@ Il "gas ideale" è un modello fisico semplice che serve a descrivere sistemi for
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina · Quaderno di termodinamica — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -589,7 +589,7 @@ The thermodynamic variables of a system are those quantities from which:
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina · Quaderno di termodinamica — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -647,7 +647,7 @@ A reversible transformation is one in which:
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina · Quaderno di termodinamica — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -705,7 +705,7 @@ An isothermal transformation is one in which:
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina · Quaderno di termodinamica — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -763,7 +763,7 @@ An isobaric transformation is one in which:
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina · Quaderno di termodinamica — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -821,7 +821,7 @@ An isocoric transformation is one in which:
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina · Quaderno di termodinamica — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -879,7 +879,7 @@ When a system composed of $n$ moles of an "ideal gas" undergoes, while maintaini
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina · Quaderno di termodinamica — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -937,7 +937,7 @@ When a system composed of $n$ moles of an "ideal gas" experiences, while maintai
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina · Quaderno di termodinamica — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -995,7 +995,7 @@ When a system composed of $n$ moles of an "ideal gas" experiences, while maintai
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina · Quaderno di termodinamica — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1053,7 +1053,7 @@ A system composed of $n$ moles of an "ideal gas" undergoes any transformation wh
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina · Quaderno di termodinamica — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1111,7 +1111,7 @@ For a system composed of $n$ moles of an "ideal gas", the product $\dfrac{PV}{T}
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina · Quaderno di termodinamica — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1169,7 +1169,7 @@ When you talk about heat in physics, you're thinking:
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina · Quaderno di termodinamica — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1227,7 +1227,7 @@ The first principle of thermodynamics states that the variation in internal ener
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina · Quaderno di termodinamica — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1285,7 +1285,7 @@ The internal energy of an ideal gas system is a function that depends on the mas
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina · Quaderno di termodinamica — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Canada/all/2023_CAP_solution.pdf
-title: Soluzioni — 2023_CAP_solution.pdf
+title: CAP 2023 · Soluzioni
 ---
 
 

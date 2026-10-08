@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 1 · 3ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -104,7 +104,7 @@ The correct sequence is given by:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -159,7 +159,7 @@ The correct sequence is given by:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -226,7 +226,7 @@ In this respect, it can be stated that:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -281,7 +281,7 @@ In this respect, it can be stated that:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -342,7 +342,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pendulum,object/electron"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pendulum,object/electron"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -397,7 +397,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/heat-engine"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -452,7 +452,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -507,7 +507,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cart"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cart"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -577,7 +577,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -632,7 +632,7 @@ In fact, when the balloon rises, its gravitational potential energy is reduced b
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -693,7 +693,7 @@ The terms used are respectively:
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -748,7 +748,7 @@ The terms used are respectively:
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/lever"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -821,7 +821,7 @@ The minimum pressure cutting a particular wire by crushing is $1,3 \times 10^9$ 
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -909,7 +909,7 @@ The following table shows the results of the calculation of the CO2 emissions fr
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1003,7 +1003,7 @@ The following table shows the results of the calculation of the total value of t
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1076,7 +1076,7 @@ This is not correct and is not affirmative
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1134,7 +1134,7 @@ From this observation and taking the speed of propagation of sound as 340 m/s, t
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1192,7 +1192,7 @@ The expressions correctly filling the gaps are respectively:
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1247,7 +1247,7 @@ The expressions correctly filling the gaps are respectively:
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 · Fase 1 · 3ª serie — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

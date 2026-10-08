@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int05sit/foglio risposte sperimentale.pdf
-title: Soluzioni — foglio risposte sperimentale.pdf
+title: IPhO 2005 · Foglio risposte · Sperimentale · Soluzioni
 ---
 
 

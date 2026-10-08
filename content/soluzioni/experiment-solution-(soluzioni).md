@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/sperimentale/int08sit/Documents and
   Settings/Dennis/Desktop/ipho2008/ipho08spe/Sperimentale_originale/Experiment-Solution.pdf
-title: Soluzioni — Experiment-Solution.pdf
+title: IPhO 2008 · Sperimentale · Soluzioni
 ---
 
 

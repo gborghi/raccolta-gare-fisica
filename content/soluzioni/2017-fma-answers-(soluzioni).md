@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2017 Fma-Answers.pdf
-title: Soluzioni — 2017 Fma-Answers.pdf
+title: F=ma 2017 · Soluzioni
 ---
 
 

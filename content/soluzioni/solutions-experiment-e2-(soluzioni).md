@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int24sit/solutions-experiment-E2.pdf
-title: Soluzioni — solutions-experiment-E2.pdf
+title: IPhO 2024 · Sperimentale 2 · Soluzioni
 ---
 
 

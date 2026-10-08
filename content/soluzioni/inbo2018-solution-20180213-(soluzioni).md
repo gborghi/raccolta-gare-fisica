@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/INBO2018-Solution-20180213.pdf
-title: Soluzioni — INBO2018-Solution-20180213.pdf
+title: India 2018 · INBO · Soluzioni
 ---
 
 

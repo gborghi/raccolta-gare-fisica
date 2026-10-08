@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/nazionale/sperim/naz15spe/griglia valutazione prova
   sperimentale
-title: Soluzioni — griglia valutazione prova sperimentale 28-03-15.pdf
+title: OII 2015 Nazionale Sperimentale · Griglia di valutazione · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/INPhO2025/INPhO2025_Solution.pdf
-title: Soluzioni — INPhO2025_Solution.pdf
+title: INPhO 2025 · Soluzioni
 ---
 
 

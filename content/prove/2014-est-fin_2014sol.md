@@ -6,6 +6,7 @@ comp_code: Nordic
 country: Nordic-Baltic
 year: '2014'
 level: ''
+etichetta: Soluzioni
 pdf: gare di altri paesi/Nordic-Baltic/all/2014 est-fin_2014sol.pdf
 cluster: Meccanica
 n_problemi: '10'
@@ -15,7 +16,7 @@ tags:
   - paese/Nordic-Baltic
   - comp/Nordic
   - cluster/Meccanica
-title: Nordic-Baltic 2014
+title: Nordic-Baltic 2014 · Soluzioni
 ---
 
 

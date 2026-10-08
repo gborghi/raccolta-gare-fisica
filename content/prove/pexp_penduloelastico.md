@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2024 · Prova sperimentale · Pendolo elastico
 tipo: prova
 tags:
   - kg/prova
@@ -12,7 +12,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -52,7 +52,7 @@ $\Delta l$, from which the value of g can be obtained. (one point)
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -104,7 +104,7 @@ length, $l_0$, between the two ends of the dock (Figure 4b).
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -234,7 +234,7 @@ to the extent that it has not been able to measure
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -283,7 +283,7 @@ the length L for this case. (two points)
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -323,7 +323,7 @@ It's better suited. (three points)
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -360,7 +360,7 @@ It's better suited. (three points)
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -400,7 +400,7 @@ It's better suited. (three points)
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -440,7 +440,7 @@ The following is the list of the following: (a) the number of days
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -489,7 +489,7 @@ hanging harandals from the dock, will not now be taken into account its mass, wh
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Spagna — Quesito 10" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Spagna 2024 · Prova sperimentale · Pendolo elastico — Quesito 10" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/spring,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

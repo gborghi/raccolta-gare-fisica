@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/INAO2024-Solution-20240220.pdf
-title: Soluzioni — INAO2024-Solution-20240220.pdf
+title: INAO 2024 · Soluzioni
 ---
 
 

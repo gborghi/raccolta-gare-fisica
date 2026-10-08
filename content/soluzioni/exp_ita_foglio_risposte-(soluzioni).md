@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int14sit/EXP_ITA_foglio_risposte.pdf
-title: Soluzioni — EXP_ITA_foglio_risposte.pdf
+title: IPhO 2014 · Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int21sit/Exp2_Solution.pdf
-title: Soluzioni — Exp2_Solution.pdf
+title: IPhO 2021 · Sperimentale 2 · Soluzioni
 ---
 
 

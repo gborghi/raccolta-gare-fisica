@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/eupho/teorica/euphoteo23/EuPhO_2023_Th_solutions_marking
   scheme.pdf
-title: Soluzioni — EuPhO_2023_Th_solutions_marking scheme.pdf
+title: EuPhO 2023 · Teorica · Griglia di valutazione · Soluzioni
 ---
 
 

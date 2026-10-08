@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri
   paesi/Svizzera/Nazionale/Final_2019_Solutions/Final_2019_Solutions/experiment_measurements_final_2019.pdf
-title: Soluzioni — experiment_measurements_final_2019.pdf
+title: Svizzera 2019 · Sperimentale · Misure · Soluzioni
 ---
 
 

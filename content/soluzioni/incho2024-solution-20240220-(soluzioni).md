@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/INChO2024-Solution-20240220.pdf
-title: Soluzioni — INChO2024-Solution-20240220.pdf
+title: India 2024 · INChO · Soluzioni
 ---
 
 

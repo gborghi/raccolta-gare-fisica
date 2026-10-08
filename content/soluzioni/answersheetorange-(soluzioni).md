@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int07tit/AnswerSheetorange.pdf
-title: Soluzioni — AnswerSheetorange.pdf
+title: IPhO 2007 · Foglio risposte · Arancione · Soluzioni
 ---
 
 

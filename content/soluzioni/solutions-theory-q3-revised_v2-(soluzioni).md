@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int23tit/solutions-theory-Q3-revised_v2.pdf
-title: Soluzioni — solutions-theory-Q3-revised_v2.pdf
+title: IPhO 2023 · Teorica · Problema 3 · Soluzioni
 ---
 
 

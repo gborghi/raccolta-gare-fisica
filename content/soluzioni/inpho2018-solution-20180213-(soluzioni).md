@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/INPhO2018-Solution-20180213.pdf
-title: Soluzioni — INPhO2018-Solution-20180213.pdf
+title: INPhO 2018 · Soluzioni
 ---
 
 

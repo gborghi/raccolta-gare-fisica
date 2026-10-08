@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2021/2021_Fma_Solutions.pdf
-title: Soluzioni — 2021_Fma_Solutions.pdf
+title: F=ma 2021 · Soluzioni
 ---
 
 

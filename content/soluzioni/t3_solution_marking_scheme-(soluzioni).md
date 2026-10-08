@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int16tit/T3_solution_marking_scheme.pdf
-title: Soluzioni — T3_solution_marking_scheme.pdf
+title: IPhO 2016 · Teorica 3 · Griglia di valutazione · Soluzioni
 ---
 
 

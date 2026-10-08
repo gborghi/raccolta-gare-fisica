@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Meccanica
-title: OBF 2014 — Fase 3 · Livello II · Sperimentale
+title: OBF 2014 · Fase 3 · Livello II · Sperimentale
 ---
 
 

@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri
   paesi/Svizzera/Nazionale/final_2017_solutions/swisspho2017_solutions/Cherry_picker_Parallelschwingkreis.pdf
-title: Soluzioni — Cherry_picker_Parallelschwingkreis.pdf
+title: Svizzera 2017 · Cherry picker parallelschwingkreis · Soluzioni
 ---
 
 

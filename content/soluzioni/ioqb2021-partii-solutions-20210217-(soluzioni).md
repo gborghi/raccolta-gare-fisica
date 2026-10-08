@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/IOQB2021-PartII-Solutions-20210217.pdf
-title: Soluzioni — IOQB2021-PartII-Solutions-20210217.pdf
+title: India 2021 · IOQB Parte II · Soluzioni
 ---
 
 

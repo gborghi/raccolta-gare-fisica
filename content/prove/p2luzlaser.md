@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2018 · Prova 2 · Luce laser
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/mirror,object/photon,object/atom"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2018 · Prova 2 · Luce laser — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/mirror,object/photon,object/atom"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

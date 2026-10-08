@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Gravitazione e Astrofisica
-title: Brasile 2025 — Fase 1 · Livello 3
+title: Brasile 2025 · Fase 1 · Livello 3
 ---
 
 

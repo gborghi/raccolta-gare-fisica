@@ -17,7 +17,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2021 — 2021 Experimento Inercia rodamiento resuelto.pdf
+title: Spagna 2021 — Experimento Inercia rodamiento · Soluzioni
 ---
 
 

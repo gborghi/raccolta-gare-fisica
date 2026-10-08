@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII 2018 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2018 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -104,7 +104,7 @@ While it is easy to measure the starting altitude, it is extremely difficult to 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2018 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -183,7 +183,7 @@ From the size of the circular tracks, the duration of contact can be traced, ass
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/capacitor,object/resistor,object/battery,object/switch"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2018 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/capacitor,object/resistor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -317,7 +317,7 @@ Take at least 20 measurements of p.d. corresponding to successful launches. You 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2018 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

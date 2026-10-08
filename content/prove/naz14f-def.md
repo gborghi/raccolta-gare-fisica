@@ -1,5 +1,5 @@
 ---
-title: OII 2014 Nazionale Teorica — Naz14F def.pdf
+title: OII 2014 Nazionale Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2014 Nazionale Teorica — Naz14F def.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/conservation-of-energy,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2014 Nazionale Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/rotational-dynamics,topic/conservation-of-energy,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -90,7 +90,7 @@ In some cases, it is noted that when the right end of the bar hits the floor, it
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2014 Nazionale Teorica — Naz14F def.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/gas,object/cylinder,object/piston,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2014 Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/thermodynamics,topic/fluid-mechanics,argomento/meccanica,object/gas,object/cylinder,object/piston,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -169,7 +169,7 @@ The heater is turned off, and the service mechanism is shut down when the volume
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2014 Nazionale Teorica — Naz14F def.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/circuits,argomento/meccanica,object/pendulum,object/sphere,object/battery,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2014 Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electrostatics,topic/circuits,argomento/meccanica,object/pendulum,object/sphere,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

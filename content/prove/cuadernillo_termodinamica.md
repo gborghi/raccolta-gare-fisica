@@ -1,5 +1,5 @@
 ---
-title: Argentina na
+title: Argentina
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina na — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -67,7 +67,7 @@ The temperature is a magnitude:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina na — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -125,7 +125,7 @@ To build a thermometer, a substance such as:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina na — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -183,7 +183,7 @@ For the definition of degree Celsius or degree Celsius ($^\circ\text{C}$) the fo
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina na — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -241,7 +241,7 @@ The temperature of a mixture of ice and water in equilibrium, expressed in degre
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina na — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -299,7 +299,7 @@ A temperature change of one degree Celsius corresponds to:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina na — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -357,7 +357,7 @@ The material can naturally occur in the following phases:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina na — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -415,7 +415,7 @@ The change in the aggregate state from liquid to solid is called:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina na — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -473,7 +473,7 @@ The change in the aggregate state of the liquid to vapor material is called:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina na — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -531,7 +531,7 @@ Il "gas ideale" è un modello fisico semplice che serve a descrivere sistemi for
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina na — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -589,7 +589,7 @@ The thermodynamic variables of a system are those quantities from which:
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina na — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -647,7 +647,7 @@ A reversible transformation is one in which:
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina na — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -705,7 +705,7 @@ An isothermal transformation is one in which:
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina na — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -763,7 +763,7 @@ An isobaric transformation is one in which:
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina na — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -821,7 +821,7 @@ An isocoric transformation is one in which:
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina na — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -879,7 +879,7 @@ When a system composed of $n$ moles of an "ideal gas" undergoes, while maintaini
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina na — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -937,7 +937,7 @@ When a system composed of $n$ moles of an "ideal gas" experiences, while maintai
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina na — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -995,7 +995,7 @@ When a system composed of $n$ moles of an "ideal gas" experiences, while maintai
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina na — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Argentina — Quesito 18" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1053,7 +1053,7 @@ A system composed of $n$ moles of an "ideal gas" undergoes any transformation wh
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina na — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Argentina — Quesito 19" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1111,7 +1111,7 @@ For a system composed of $n$ moles of an "ideal gas", the product $\dfrac{PV}{T}
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina na — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Argentina — Quesito 20" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1169,7 +1169,7 @@ When you talk about heat in physics, you're thinking:
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina na — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Argentina — Quesito 21" data-tags="kg/prova,paese/Argentina,comp/Argent"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1227,7 +1227,7 @@ The first principle of thermodynamics states that the variation in internal ener
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina na — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Argentina — Quesito 22" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1285,7 +1285,7 @@ The internal energy of an ideal gas system is a function that depends on the mas
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina na — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Argentina — Quesito 23" data-tags="kg/prova,paese/Argentina,comp/Argent,object/gas"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2369,7 +2369,7 @@ The place is a cylindrical iron container containing $2\,\text{g}$ helium inside
 
 (b) Determine, by explicit calculations, whether McGyver is effectively released using the method you have used. He suggested. If necessary, include any additional, duly justified assumptions.
 
-**Datos:**
+**Data:**
 
 - Gas constant: $R = 0{,}082\,\text{L}\cdot\text{atm}/(\text{mol}\cdot\text{K})$
 - Specific heat of helium at constant volume: $C_V = 0{,}75\,\text{cal}/(\text{g}\cdot\text{K})$
@@ -2404,7 +2404,7 @@ A drip adds one drop of mercury each $2\,\text{s}$ into the space between the pl
 
 Assuming that the air inside the inflator behaves as an ideal gas and the temperature remains constant, calculate the maximum drop size so that contact does not close before $20\,000\,\text{s}$ (5 h 33 min 20 s) has elapsed since the first drop was deposited.
 
-**Datos:**
+**Data:**
 
 - Acceleration by gravity: $g = 9{,}80\,\text{m/s}^2$
 - $1\,\text{atm} = 760\,\text{mmHg}$
@@ -2447,7 +2447,7 @@ Calculate the height to which the balloon rose.
 
 (e) While on the way over the Channel, a malfunction in the heating system occurred which resulted in a $5\,\text{K}$ decrease in the temperature of the balloon's air. How high would it go? Did the officer have to do something to stay up?
 
-**Datos:**
+**Data:**
 
 - $\delta_0 = 1{,}2256\,\text{kg/m}^3$ (air density at $15\,^\circ\text{C}$ and at ground level)
 - $R = 8{,}314\,\text{J}/(\text{mol}\cdot\text{K})$
@@ -2488,7 +2488,7 @@ Suppose that the drip at the end of the thin tube (which is inside the vial) has
 
 (b) Calculate the minimum water content of the bottle if you want to ensure daily irrigation for 30 days.
 
-**Datos:**
+**Data:**
 
 - saturated water vapour pressure at $10\,^\circ\text{C}$: $9{,}16\,\text{mmHg}$; idem at $25\,^\circ\text{C}$: $23{,}55\,\text{mmHg}$.
 - The atmospheric pressure is $760\,\text{mmHg}$ or $10{,}33\,\text{m}$ of water column.
@@ -2539,7 +2539,7 @@ where $Y$ is the Young module of the material and $R$ is the radius of the non-d
 
 (g) Suppose that the pressure of the gas is the maximum pressure that allows the load to be kept at rest. Under these conditions the gas cavity is perfectly sealed, leaving a volume equal to $1\,\text{L}$ locked. By keeping the whole system at a constant working temperature, how much can the bulk be moved upward so that, when released, the load is at rest? Consider that gas behaves like an ideal gas.
 
-**Datos:**
+**Data:**
 
 ♪ Property ♪ Lead ♪ Steel ♪
 |---|---|---|
@@ -2585,7 +2585,7 @@ where $\Delta S$ is the difference between the areas of the embolus.
 
 (e) Under these conditions, to what temperature can the thermometer be used?
 
-**Datos:**
+**Data:**
 
 - $R = 8{,}31\,\text{J}/(\text{mol}\cdot\text{K})$
 - $P_0 = 1{,}013 \times 10^5\,\text{N/m}^2$
@@ -2625,7 +2625,7 @@ Suppose that the air inside the bell behaves like an ideal gas, that it quickly 
 
 First perform the calculations without assigning numerical values; then replace the following data to give the numerical answer.
 
-**Datos numéricos:**
+**Numerical data:**
 
 - Air pressure at sea level: $p_0 = 1{,}033 \times 10^5\,\text{Pa}$
 - $a = 2{,}0\,\text{m}$

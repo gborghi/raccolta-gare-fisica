@@ -1,5 +1,5 @@
 ---
-title: OII 1997 2° Livello Teorica — reg97 (2 files merged).pdf
+title: OII 1997 2° Livello Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1997 2° Livello Teorica — reg97 (2 files merged).pdf — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/newtonian-mechanics,topic/thermodynamics,topic/electrostatics,topic/oscillations-e-waves,topic/geometric-optics,topic/circuits,topic/rigid-body-statics,argomento/meccanica,object/heat-engine,object/prism,object/rod,object/spring,object/mirror"></span>
+<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1997 2° Livello Teorica — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/newtonian-mechanics,topic/thermodynamics,topic/electrostatics,topic/oscillations-e-waves,topic/geometric-optics,topic/circuits,topic/rigid-body-statics,argomento/meccanica,object/heat-engine,object/prism,object/rod,object/spring,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -73,7 +73,7 @@ Regional Competition of 22 February 1997 — Part One (10 questions, 4 points ea
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1997 2° Livello Teorica — reg97 (2 files merged).pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1997 2° Livello Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,7 +120,7 @@ Two balls of equal radius and mass $m_1 = 5{,}0\text{ g}$ and $m_2 = 20\text{ g}
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1997 2° Livello Teorica — reg97 (2 files merged).pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1997 2° Livello Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,7 +159,7 @@ A cylinder closed by a moving piston contains helium. With a slow transformation
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1997 2° Livello Teorica — reg97 (2 files merged).pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/point-charge"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1997 2° Livello Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -189,14 +189,14 @@ Con N= 3, eseguire le misurazioni necessarie per calcolare l’indice di ri
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the following:
+**Optics measurements**
 
 Experiments
 Q1-1
 Italian (Italy)
 Optical measurements
 In this experiment, the optical properties of physical systems will be measured with the utmost precision.
-The Commission will be able to take the necessary steps to ensure that the information provided is available.
+possible using the available equipment.
 Note: under the table are two water bottles that will be used in the second experiment - you don't have to
 I'm going to eat.
 In Part A, two different methods will be used to measure the refractive index of a transparent disc. The first method is traditional, while the second is more original and allows a higher level of
@@ -332,17 +332,17 @@ With N=3, perform the measurements necessary to calculate the RII
 <!--fig:end-->
 
 <!--fig:start-->
-The following information is provided by the Commission:
+**p.3** — Components and materials available
 ![[_attachments/exam-experiment-Q1-italiano/exam-experiment-Q1-italiano_p3_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the types of light refraction systems used:
+**p.4** — Diagram of light refraction in a disk
 ![[_attachments/exam-experiment-Q1-italiano/exam-experiment-Q1-italiano_p4_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculation of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of the net loss of net loss of the net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net loss of net net loss of net net loss of net loss of net loss of net net net loss of net net loss of net net loss of net loss of net net net net loss of net net loss of net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net net
+**p.6** — Geometry of diffraction by a grating
 ![[_attachments/exam-experiment-Q1-italiano/exam-experiment-Q1-italiano_p6_f4.png]]
 <!--fig:end-->
 

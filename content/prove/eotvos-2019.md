@@ -1,5 +1,5 @@
 ---
-title: Russia 2019
+title: Hungary 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2019 — Quesito 1" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Termodinamica,object/piston,object/cylinder,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Hungary 2019 — Quesito 1" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Termodinamica,object/piston,object/cylinder,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,7 +52,7 @@ fluire attraverso il cilindro per unità di tempo.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2019 — Quesito 2" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Termodinamica,object/wire,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Hungary 2019 — Quesito 2" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Termodinamica,object/wire,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,7 +85,7 @@ se il vettore di induzione magnetica forma un angolo acuto $\alpha$, $\beta$ e $
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2019 — Quesito 3" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Termodinamica,object/rope-string"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Hungary 2019 — Quesito 3" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Termodinamica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

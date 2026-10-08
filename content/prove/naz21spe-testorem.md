@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII 2021 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2021 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -130,7 +130,7 @@ The vehicle shall be equipped with a single control unit.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2021 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,7 +179,7 @@ The size of the sample.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2021 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -246,7 +246,7 @@ $$\Delta\theta = -4\,k \quad (1)$$
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2021 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -331,7 +331,7 @@ from the driver.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/rotational-dynamics,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2021 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/conservation-of-energy,topic/rotational-dynamics,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -382,7 +382,7 @@ verticali delle velocità in uscita $(v'_y)$ e in ingresso $(v_y)$ nell’urto, 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2021 Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -413,7 +413,7 @@ compatible with the two above assumptions. Describe the procedure and the result
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2021 Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

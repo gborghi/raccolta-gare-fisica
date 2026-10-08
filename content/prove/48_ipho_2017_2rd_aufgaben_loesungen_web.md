@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Germania/Rund2/48_IPhO_2017_2Rd_Aufgaben_Loesungen_web.
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE-2Rd 2017 Round 2] — 48_IPhO_2017_2Rd_Aufgaben_Loesungen_web.pdf'
+title: '[IPhO-DE-2Rd 2017 Round 2]'
 ---
 
 

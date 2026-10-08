@@ -21162,41 +21162,40 @@ Problemi sperimentali
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problem with the heart**
+**Problem made with the heart**
 
-PT138. City of Buenos Aires. Green, please. 
-A problem with the heart. 
-Our heart is one of the wonders of our human body. Its operation is very 
-It took tens of millions of years to design it, but it has done a job.
-It's really magnificent. 
-The heart is made up of two upper chambers called atoms and two lower chambers.
-They're called ventricles. It's called the septum to divide the heart into left and right halves. Two .
-arteries and six veins form the main conduits. The heart muscle mass is called 
-myocardium (from Greek mios, muscle). 
-The heart 's function is to pump blood into the body and performs it through the contractility of the muscles .
-cells that form the myocardium. 
-Each cell (spherical modelled) has a diameter of 
+PT138. City of Buenos Aires. Green.
+A problem made with the heart.
+Our heart is one of the wonders of our human body. Its functioning is very
+complex and nature took tens of millions of years to design it, but it has done a truly magnificent job.
+The heart is formed by two upper chambers called atria and two lower chambers
+called ventricles. The division of the heart into left and right halves is called the Septum. Two
+arteries and six veins form the main ducts. The muscular mass of the heart is called the
+myocardium (from the Greek mios, muscle).
+The function of the heart is to pump blood to the body and it carries this out thanks to the contractility of the
+cells that form the myocardium.
+Each cell (modeled as spherical) has a diameter of
 m
 µ
 10
-And it works like a chemical stack. En 
-Under normal conditions, the interior of a cell is at a potential difference of 
+and works as a chemical battery. Under
+normal conditions, the interior of a cell is at a potential difference of
 
 - 116 - 
 mV
 80
 −
-about its exterior. The potential difference corresponds to the ion distribution in the
-cell. 
- 
-1) (a) Model these cells as a solid conductive sphere and draw a drawing in which they are
-Look at the distribution of ions. 
-(b) Calculate the average value of the electric field inside a cell. 
-Heart contractions allow blood to pump and are the result of certain activity.
-The electrical activity starts in the conduction cells located in a very small area (of the order 
+with respect to its exterior. The potential difference corresponds to the distribution of ions in the
+cell.
+
+1) a) Model these cells as a solid conducting sphere and make a drawing in which the
+distribution of ions is observed.
+b) Calculate the mean value of the electric field inside a cell.
+The contractions of the heart allow the pumping of blood and are the result of a certain electrical
+activity that begins in the conduction cells located in a very small area (of the order of
 de
 2
-1 mm) near the right atrium. These cells change their potential for
+1mm ) near the right atrium. These cells change their potential from
 mV
 80
 −
@@ -21205,114 +21204,107 @@ mV
 20
 +
 . 
-When they reach the
+When they reach
 mV
 20
 +
-Neighbouring cells begin to change their own potential and the
-The process spreads from top to bottom to reach the cells of the ventricles. The process 
-It responds to a wave behavior and is known as a wave wave.
-The Commission has already adopted a proposal for a regulation on the The reverse process in which cells recover the relative potential of
+the neighboring cells begin to change their own potential and the
+process propagates from top to bottom until reaching the cells of the ventricles. The process
+responds to a wave-like behavior and this wave is known by the name of "depolarization wave". The inverse process in which the cells recover the relative potential of
 mV
 80
 −
 se 
-It's called repolarization and it starts in the ventricles after all the cells are together.
-The world is polarized. 
-The process of depolarization and cell repolarization determines how our myocardium behaves.
-Every moment like an electric dipole. This results in the diagnosis by electrocardiograms.
-(ECG) To carry out an ECG, 12 electrodes are usually placed throughout the
-The body to sense potential and compare them to the typical expected values for each point. 
-2) Modeling the heart like a straight cylinder and making a diagram of electric field lines.
-Indicating the direction of flow when a repolarization wave propagates. 
-There are various diseases that affect the heart and various techniques for treating them. In one case .
-Extreme and fatal, a heart can stop working. This is because the electrical activity of the
-My myocardium is stopped. The cells stop the process of depolarization-repolarization and then the
-The heart muscle no longer performs the contractions necessary for pumping blood. In this one .
+is called repolarization and begins in the ventricles after all the cells are
+depolarized.
+The process of cell depolarization and repolarization determines that our myocardium behaves at
+every instant as an electric dipole. This gives rise to diagnosis by means of electrocardiograms
+(ECG). To carry out an ECG, 12 electrodes are generally placed, distributed throughout the
+body in order to sense potentials and compare them with the typical values expected for each point.
+2) Model the heart as a right cylinder and draw a diagram of electric field lines
+indicating the direction of flow when a repolarization wave propagates.
+There are various diseases that attack the heart and various techniques to treat them. In an extreme
+and fatal case, a heart can stop working. This is because the electrical activity of the
+myocardium ceases. The cells stop the depolarization-repolarization process and then the cardiac
+muscle no longer performs the contractions necessary for pumping blood. In this
 
 - 117 - 
-The situation is that the system needs to be restarted. For this, doctors use a device.
-called a defibrillator which basically consists of a pulse generator delivering the output.
-a voltage whose peak value can be adjusted to a maximum approximate of kV
+situation, it is necessary to start the system again. To do this, doctors [use] a device
+called a defibrillator, which basically consists of a pulse generator that delivers at its output
+a voltage whose peak value can be adjusted up to a maximum of approximately kV
 5
-. 
-The basic electrical scheme of a defibrillator is shown in Figure 2. The C capacitor is charging 
-when the S-switch is in position 1. Once loaded, the contacts of the 
-The patient's chest defibrillator and a key is pressed that puts the S switch in position 2. 
-The capacitor is then discharged through a circuit of which the patient is a part by the
+.  
+Figure 2 shows the basic electrical schematic of a defibrillator. The capacitor C charges
+when the switch S is in position 1. Once charged, the defibrillator contacts are placed
+on the patient's chest and a key is pressed that places switch S in position 2.
+Then the capacitor discharges through a circuit of which the patient forms part by means of the
 resistance
 T
-R is called transtoratic resistance and is patient-specific. Its average value is 
+R, which is called transthoracic resistance and is specific to the patient. Its average value is 
 de
 Ω
 100
 . 
-On the circuit .
-1T is a variable self-transformer of
+In the circuit
+1T is a variable autotransformer of
 V
 220
 0 −
 , 
 2
-T is a transformer with a core.
-Torus and transformation ratio 0,044. The primary transformer consists of 125 spires.
-The radiation is distributed evenly around the nucleus. 
- 
-Consider a patient who requires the use of a defibrillator. The auto-transformer is fixed so that 
-its exit is from
+T is a transformer with a toroidal core and transformation ratio 0.044. The primary of this transformer consists of 125 turns distributed uniformly around the core.
+
+Consider a patient who requires the use of a defibrillator. The autotransformer is set so that its output is
 V
 190
-. 
-3) Determine the reading 
+.  
+3) Determine the reading
 E
-V of the voltmeter 
-4) Find the number of secondary springs of the
+V of the voltmeter
+4) Find the number of turns of the secondary of
 2
 T  
-5) Determine the voltage at the secondary end of the
+5) Determine the voltage at the terminals of the secondary of
 2
 T  
-The capacitor must have a capacity
+The capacitor must have a capacitance
 F
 C
 µ
 30
 =
-for a kV defibrillator
+for a defibrillator of kV
 5
-The maximum voltage. 
-Suppose it is an effective area parallel plate capacitor 
+of maximum voltage.
+Assume that it is a parallel-plate capacitor with effective area
 2
 2500cm
 S =
-. You can .
-Choose from two possible dielectric to fill the space between the plates: 
-Option 1: oil of dielectric constant 
+. One can choose between two possible dielectrics to fill the space between the plates:
+Option 1: oil with dielectric constant
 5
 =
 d
 k
-and dielectric rigidity 
+and dielectric strength
 mm
 kV /
 80
-  
-Option 2: ceramic with a dielectric constant 
+
+Option 2: ceramic with dielectric constant
 800
 =
 d
 k
-and dielectric rigidity 
+and dielectric strength
 cm
 kV /
 900
 . 
-6) Determine the most appropriate dielectric. You justify it. 
+6) Determine the most appropriate dielectric. Justify.
 
 - 118 - 
-The capacitor discharge circuit is an RLC circuit. This configuration determines that at a rate of
-The capacitor is discharged, a variable current is passed through the circuit in the time of the
-shape: 
+The discharge circuit of the capacitor is an RLC circuit. This configuration determines that as the capacitor discharges, there is through the circuit a time-varying current of the form:
 ( )
 (
 )
@@ -21336,7 +21328,7 @@ i
 2
 1
  
-Where ?
+Where
 [
 ]
 1
@@ -21375,8 +21367,8 @@ s
 s
 LC
 ω
- 
-At the same time, the voltage depending on the time for this circuit is: 
+
+At the same time, the voltage as a function of time for this circuit is:
 ( )
 (
 )
@@ -21416,44 +21408,44 @@ v
 2
 1
 1
- 
-The defibrillator inductor has an autoinduction
+
+The defibrillator's inductor has a self-inductance
 H
 L
 1,0
 =
-And as mentioned earlier, a capacitor.
+and, as already mentioned, a capacitor
 F
 C
 µ
 30
 =
-. Suppose you use the defibrillator after you have charged the capacitor with 
+. Suppose the defibrillator is used after having charged the capacitor with
 J
 360
 , en 
-a patient whose transtoratic resistance is constant
+a patient whose transthoracic resistance has a constant value
 Ω
 = 150
 T
 R
-. 
-7) Get the value of the constants 
+.  
+7) Obtain the value of the constants
 1
 A  y 
 2
 A . 
- 
- 
+
+
 
 - 119 - 
- 
- 
-Local authorities 
-Experimental problems 
- 
- 
- 
+
+
+LOCAL INSTANCES
+EXPERIMENTAL PROBLEMS
+
+
+
 
 - 120 -
 

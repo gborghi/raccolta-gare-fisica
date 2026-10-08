@@ -1,5 +1,5 @@
 ---
-title: OII 2015 1° Livello — 1liv15T def.pdf
+title: OII 2015 1° Livello
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 1" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/geometric-optics,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2015 1° Livello — Quesito 1" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/geometric-optics,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,7 +60,7 @@ Which of the following is constant to the variation of the distance $d$?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/projectile,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2015 1° Livello — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/gravitation,topic/newtonian-mechanics,argomento/meccanica,object/projectile,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,7 +98,7 @@ Which of the following graphs best describes the relationship between the mass $
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2015 1° Livello — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -141,7 +141,7 @@ If $m = 0.010\,\text{kg}$ and $Q = 0.032\,\text{kJ}$, what is the specific heat 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2015 1° Livello — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -180,7 +180,7 @@ Which of the following combinations of units of measurement is equivalent to the
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/block"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2015 1° Livello — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -231,7 +231,7 @@ If the lifting speed is constant, the time taken is $5\,\text{s}$ and the case w
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/slit,object/screen"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2015 1° Livello — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/meccanica,object/slit,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -282,7 +282,7 @@ Which of the above statements is correct?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2015 1° Livello — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -333,7 +333,7 @@ Which of the above statements is true?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2015 1° Livello — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -376,7 +376,7 @@ What is the intensity of each of the two forces?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/spring"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OII 2015 1° Livello — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/conservation-of-energy,argomento/meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -419,7 +419,7 @@ What is the potential energy stored in the compressed spring?
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/tuning-fork"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OII 2015 1° Livello — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/meccanica,object/tuning-fork"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -462,7 +462,7 @@ What observer, at the moment the figure is being referred to, hears the lowest f
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/projectile"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OII 2015 1° Livello — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball,object/projectile"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -505,7 +505,7 @@ The total distance travelled horizontally from the ball during its flight time i
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 12" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OII 2015 1° Livello — Quesito 12" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-momentum,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -548,7 +548,7 @@ Compared to the impulse of the first egg in the impact with the ground, the impu
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OII 2015 1° Livello — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -591,7 +591,7 @@ How much time must the winner give to correct his mistake?
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/cart"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OII 2015 1° Livello — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica,object/cart"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -634,7 +634,7 @@ The overall work done by force is
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OII 2015 1° Livello — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,7 +683,7 @@ This is a very good idea.
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/electromagnetic-induction,topic/circuits,argomento/meccanica,object/coil,object/wire"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OII 2015 1° Livello — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/electromagnetic-induction,topic/circuits,argomento/meccanica,object/coil,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -726,7 +726,7 @@ How much current is flowing in the primary circuit?
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OII 2015 1° Livello — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -765,7 +765,7 @@ If you double the speed of an object, what other quantity doubles?
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OII 2015 1° Livello — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -808,7 +808,7 @@ The time it takes the B bullet to touch the ground is
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/conservation-of-momentum,topic/newtonian-mechanics,argomento/meccanica,object/cart"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OII 2015 1° Livello — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/conservation-of-momentum,topic/newtonian-mechanics,argomento/meccanica,object/cart"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -851,7 +851,7 @@ What is the mass of cart B?
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/meccanica,object/cylinder"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OII 2015 1° Livello — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -902,7 +902,7 @@ If the force of friction between an adult of $60\,\text{kg}$ and the cylinder wa
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/mirror"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="OII 2015 1° Livello — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -953,7 +953,7 @@ Where does the image of the candle form?
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/heat-engine"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="OII 2015 1° Livello — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -992,7 +992,7 @@ Between all heat exchanging machines with two fixed temperature sources $T_1$ an
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="OII 2015 1° Livello — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1035,7 +1035,7 @@ Which graph best represents the relationship between the field intensity $E$ bet
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/magnetism,topic/modern-quantum-physics,argomento/meccanica,object/point-charge"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="OII 2015 1° Livello — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/magnetism,topic/modern-quantum-physics,argomento/meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1078,7 +1078,7 @@ What is the minimum value of the radius of the machine if protons with a maximum
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="OII 2015 1° Livello — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1129,7 +1129,7 @@ The modulus of friction between the block and the plane is approximately
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="OII 2015 1° Livello — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1172,7 +1172,7 @@ What is the force exerted by the block on the dynamometer?
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 27" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="OII 2015 1° Livello — Quesito 27" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1215,7 +1215,7 @@ What is the mass of a second object accelerating with acceleration $7\vec{a}$ wh
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="OII 2015 1° Livello — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/wave-optics,topic/electromagnetism,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1258,7 +1258,7 @@ If the intensity of the beam of light coming out of the second polarizer is $12.
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="OII 2015 1° Livello — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1309,7 +1309,7 @@ Which of the above statements is always correct?
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="OII 2015 1° Livello — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1348,7 +1348,7 @@ Heat can flow from a lower-temperature region to a higher-temperature region if.
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="OII 2015 1° Livello — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1391,7 +1391,7 @@ What mass will the peset have to have now to be added to the test to make it go 
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="OII 2015 1° Livello — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1434,7 +1434,7 @@ For which of these is the mean acceleration in the $6\,\text{s}$ range greater?
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="OII 2015 1° Livello — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1477,7 +1477,7 @@ If, after $15\,\text{h}$, $10\,\text{g}$ remains, what was the initial amount of
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/prism"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="OII 2015 1° Livello — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica,object/prism"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1528,7 +1528,7 @@ The student's figure is wrong because...
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="OII 2015 1° Livello — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1571,7 +1571,7 @@ How much ammonia must be evaporated to remove $6850\,\text{kJ}$ heat from the sy
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/modern-quantum-physics,argomento/meccanica"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="OII 2015 1° Livello — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/newtonian-mechanics,topic/modern-quantum-physics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1625,7 +1625,7 @@ Which of the following statements are true?
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/battery"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="OII 2015 1° Livello — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/meccanica,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1672,7 +1672,7 @@ In which of the following circuits does the generator deliver less current?
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/order-of-magnitude-estimation,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="OII 2015 1° Livello — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/order-of-magnitude-estimation,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1711,7 +1711,7 @@ Pierino wonders how much a page torn from a school book weighs, but without ruin
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/thermodynamics,topic/circuits,argomento/meccanica,object/calorimeter,object/battery"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="OII 2015 1° Livello — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/thermodynamics,topic/circuits,argomento/meccanica,object/calorimeter,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1762,7 +1762,7 @@ The thermal capacity $C$ of the system (calorometer+liquid) is approximately
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="OII 2015 1° Livello — 1liv15T def.pdf — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/astrophysics,topic/gravitation,argomento/meccanica,object/star,object/planet"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="OII 2015 1° Livello — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/bi,topic/astrophysics,topic/gravitation,argomento/meccanica,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

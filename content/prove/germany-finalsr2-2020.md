@@ -1,5 +1,5 @@
 ---
-title: Russia 2020
+title: Germany 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2020 — Quesito 1" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/tank-container,object/bubble"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Germany 2020 — Quesito 1" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/tank-container,object/bubble"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,7 +52,7 @@ Cosa si può dire direttamente del livello dell'acqua nei bicchieri?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2020 — Quesito 2" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Germany 2020 — Quesito 2" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -97,7 +97,7 @@ L'Olimpiade di Fisica tedesca 2021 11° Final Round 2
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2020 — Quesito 3" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Germany 2020 — Quesito 3" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,7 +131,7 @@ Olimpiade Italiana di Fisica 2021, Finalissima 11ª classe
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2020 — Quesito 4" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/diffraction-grating,object/screen"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Germany 2020 — Quesito 4" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/diffraction-grating,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -170,7 +170,7 @@ Quanto è grande la lunghezza d'onda della luce laser emessa dal secondo laser?
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2020 — Quesito 5" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/nucleus"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Germany 2020 — Quesito 5" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -221,7 +221,7 @@ Quale delle tre coppie di nuclidi appartiene a quale diagramma?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2020 — Quesito 6" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/resistor"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Germany 2020 — Quesito 6" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -258,7 +258,7 @@ Quali valori di resistenza corrispondono meglio ai valori misurati mostrati?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2020 — Quesito 7" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/rod"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Germany 2020 — Quesito 7" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -301,7 +301,7 @@ L'Olimpiade di Fisica tedesca 2021 11° Final Round 2
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2020 — Quesito 8" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/lens"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Germany 2020 — Quesito 8" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -362,7 +362,7 @@ migliore effetto anti-riflessione alla lunghezza d'onda in questione.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia 2020 — Quesito 9" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/cart,object/wheel"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Germany 2020 — Quesito 9" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/cart,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -433,7 +433,7 @@ Questo è stato fatto da $v_w$ e $\alpha$ e giustificare se è anche possibile i
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia 2020 — Quesito 10" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/nucleus"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Germany 2020 — Quesito 10" data-tags="kg/prova,paese/Germany,comp/Germany,cluster/Onde e Oscillazioni,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

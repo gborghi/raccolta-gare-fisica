@@ -1,5 +1,5 @@
 ---
-title: Russia na
+title: F=ma
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/manometer,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="F=ma — Quesito 1" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/manometer,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -34,7 +34,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia na — Quesito 2" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="F=ma — Quesito 2" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -55,7 +55,7 @@ tags:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia na — Quesito 3" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/block,object/wedge,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="F=ma — Quesito 3" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/block,object/wedge,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,7 +86,7 @@ tags:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia na — Quesito 4" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="F=ma — Quesito 4" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -111,7 +111,7 @@ Il raggio laser forma un angolo di $\varphi$ con una linea radiale nel punto $P$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia na — Quesito 5" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/cylinder,object/wedge,object/inclined-plane"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="F=ma — Quesito 5" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/cylinder,object/wedge,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,7 +142,7 @@ Il raggio laser forma un angolo di $\varphi$ con una linea radiale nel punto $P$
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia na — Quesito 6" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="F=ma — Quesito 6" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -163,7 +163,7 @@ Il raggio laser forma un angolo di $\varphi$ con una linea radiale nel punto $P$
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia na — Quesito 7" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="F=ma — Quesito 7" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/cylinder,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -194,7 +194,7 @@ Il raggio laser forma un angolo di $\varphi$ con una linea radiale nel punto $P$
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia na — Quesito 8" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="F=ma — Quesito 8" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -231,7 +231,7 @@ Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui c'
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia na — Quesito 9" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/wedge,object/pulley,object/rope-string,object/block"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="F=ma — Quesito 9" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/wedge,object/pulley,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -262,7 +262,7 @@ Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui c'
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia na — Quesito 10" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="F=ma — Quesito 10" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -283,7 +283,7 @@ Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui c'
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Russia na — Quesito 11" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="F=ma — Quesito 11" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -304,7 +304,7 @@ Un angolo di equilibrio corrisponde all'angolo rispetto alla verticale in cui c'
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Russia na — Quesito 12" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="F=ma — Quesito 12" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -333,7 +333,7 @@ $$C, \quad L \quad C \quad L$$
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Russia na — Quesito 13" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="F=ma — Quesito 13" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -364,7 +364,7 @@ $$C, \quad L \quad C \quad L$$
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Russia na — Quesito 14" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="F=ma — Quesito 14" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

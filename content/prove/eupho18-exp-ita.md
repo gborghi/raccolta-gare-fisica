@@ -55,7 +55,7 @@ $$\frac{1}{n_2^2} = \frac{\cos^2\beta_2}{n_o^2} + \frac{\sin^2\beta_2}{n_e^2}.$$
 
 Si può dimostrare che la differenza di cammino ottico tra i raggi vale $\delta = h(n_1\cos\beta_1 - n_2\cos\beta_2)$.
 
-**Compito.** Determina la differenza $\Delta n = |n_e - n_o|$ della membrana. Trova la porosità $p$ usando il grafico fornito di $\Delta n(p)$ (il grafico non è riprodotto qui: vedi il PDF originale).
+**Compito.** Determina la differenza $\Delta n = |n_e - n_o|$ della membrana. Trova la porosità $p$ usando il grafico fornito di $\Delta n(p)$ (riportato in fondo, dal testo ufficiale EuPhO 2018).
 
 **D. Conclusioni (2 punti)**
 
@@ -74,6 +74,11 @@ Si può dimostrare che la differenza di cammino ottico tra i raggi vale $\delta 
 <!--fig:start-->
 **p.1** — Birifrangenza: raggi 1 e 2, indici n1 n2, angoli beta
 ![[_attachments/eupho18-exp-ITA/eupho18-exp-ITA_p1_f3.png]]
+<!--fig:end-->
+
+<!--fig:start-->
+**p.2 (testo ufficiale EN)** — Grafico di Δn in funzione della porosità p
+![[_attachments/eupho18-exp-ITA/eupho18-experiment_p2_f1.png]]
 <!--fig:end-->
 
 **Topic:** [[Wave Optics]], [[Kinetic Theory]], [[Fluid Mechanics]]
@@ -139,7 +144,12 @@ $$\frac{1}{n_2^2} = \frac{\cos^2\beta_2}{n_o^2} + \frac{\sin^2\beta_2}{n_e^2}.$$
 
 One can show that the optical path difference between the beams $\delta = h(n_1\cos\beta_1 - n_2\cos\beta_2)$.
 
-**Task.** Determine the difference $\Delta n = |n_e - n_o|$ of the membrane. Find the porosity $p$ using the given plot of $\Delta n(p)$ (the plot is not reproduced here: see the original PDF).
+**Task.** Determine the difference $\Delta n = |n_e - n_o|$ of the membrane. Find the porosity $p$ using the given plot of $\Delta n(p)$.
+
+<!--fig:start-->
+![[_attachments/eupho18-exp-ITA/eupho18-experiment_p2_f1.png]]
+*Plot of $\Delta n$ as a function of the porosity $p$ (official EuPhO 2018 text, p.2)*
+<!--fig:end-->
 
 **D. Coda (2 pts)**
 

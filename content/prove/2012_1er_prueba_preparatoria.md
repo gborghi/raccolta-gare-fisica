@@ -281,7 +281,7 @@ A mass body $M$, initially resting at a height $H$, descends along the curved su
 
 (h) How far does the mass $M$ go after leaving the spring?
 
-**Datos:**
+**Data:**
 
 ♪ Magnitude ♪ Value ♪
 |---|---|

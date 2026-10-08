@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/cart,object/resistor,object/battery,object/spring,object/galvanometer"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/cart,object/resistor,object/battery,object/spring,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

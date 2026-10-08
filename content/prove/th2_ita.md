@@ -187,8 +187,8 @@ che non bagna le pareti
 
 **2)(V−b )=RT**
 
-Theoretical competition. The Commission's decision on the application of this Regulation
-The Commission shall adopt the following: 2. The following table shows the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the statistical data of the data of the statistical data.
+Theoretical competition. Tuesday, 15 July 2014 1/3
+Problem no. 2. Van der Waals equation of state (11 points)
 In the well-known perfect gas model, whose equation of state obeys Clapeyron's law
 Mendeleev, the following important physical effects are overlooked. First, the molecules of a real gas have a
 The two dimensions are finite and, second, they interact with each other. In this problem, we consider a mole
@@ -225,14 +225,14 @@ As the temperature increases, the AB segment in the isotherm shrinks to become a
 point where the temperature and pressure reach T c and PLG=Pc respectively. The parameters Pc
 The results of the experiment are described as 'critical' and can be measured experimentally with a high degree of accuracy.
 A2
-Express the Van der Waals constants a and b, as a function of T c and Pc. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Express the Van der Waals constants, a and b, as functions of Tc and Pc. (1.3 points)
 A3
 For water T c=647 K and $Pc=2.2\cdot10$
 7Pa. Calculate aw and bw for water. (0.2 points)
 A4
 Estimate the diameter of the water molecule dw. (0.2 points)
 
-Theoretical competition. The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Theoretical competition. Tuesday, 15 July 2014 2/3
 Part B. Property of gases and liquids (6 points)
 This part of the problem deals with the properties of water in the gaseous and liquid state in the
 temperatura $T=100^{\circ}C$. It is known that the saturated vapor pressure at this temperature is
@@ -283,9 +283,9 @@ $\Delta T$ using some of the terms of a,b,R.
 Calculate its value, then. (0.6 points)
 B7
 Express the latent heat of water vaporization L using some of the terms $\mu,a,b,R$.
-Calculate its value, then. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Calculate, therefore, its value. (1.1 points)
 B8
-Consider a mono-molecular layer of water and estimate its surface tension $\sigma$. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Consider a monomolecular layer of water and estimate its surface tension $\sigma$. (1.2 points)
 Part C. Liquid-gas system (3 points)
 From Maxwell's rule and Van der Waals' equation, that is, taking into account equality
 The results of the analysis of the data are presented in the following table:
@@ -300,7 +300,7 @@ $2)-1$,
 $B=-a$
 bR .
 
-Theoretical competition. The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Theoretical competition. Tuesday, 15 July 2014 3/3
 W. Thomson showed that saturated vapor pressure depends on
 the curvature of the surface of the liquid. It is considered a liquid that does not
 wash the walls of a capillary (angle of contact equal to $180^{\circ}$). When the
@@ -310,8 +310,8 @@ The surface tension is due to a certain level (see Figure 3).
 Find the (small) pressure change $\Delta pT$ of the saturated vapor
 It is located above the curved surface of the liquid. Expressing
 The result in terms of the steam density, $\rho s$, of the density of the
-liquido, $\rho L$, della tensione superficiale, $\sigma$, e del raggio di curvatura r
-of the surface. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+liquid, $\rho L$, of the surface tension, $\sigma$, and of the radius of curvature r
+of the surface. (1.3 points)
 Metastable states, considered in Part B3, are broadly
 For the purposes of this Regulation, the following definitions shall apply:
 I'm going to pick up the elementary particles. They also occur in nature, for example in training.

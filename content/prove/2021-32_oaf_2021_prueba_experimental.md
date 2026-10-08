@@ -83,7 +83,7 @@ En la siguiente tabla se recogen los valores de iluminancia, $E$, medidos para d
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema experimental. La legge del quadrato della distanza in fotometria.**
+**Problema sperimentale. La legge del quadrato della distanza in fotometria.**
 
 **Modello teorico.**
 
@@ -146,9 +146,9 @@ b) Aggiusta i punti sperimentali in una linea retta.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. The law of the square of distance in photometry.**
+**Experimental problem. The law of the square of distance in photometry.**
 
-**Modelo teórico.**
+**Theoretical model.**
 
 Photometry is the field of physics that determines the ability of light to be perceived by the human eye, that is, it studies the ability of electromagnetic radiation to stimulate the visual system.
 
@@ -166,7 +166,7 @@ That is, the illuminance decreases with the square of the distance to the source
 
 The objective of this practice is to determine the luminous intensity of a point source (led) from the measurement of illuminance on a surface placed at different distances from the source.
 
-**Montaje experimental.**
+**Experimental setup.**
 
 In the lab we have a light source made up of a single LED. The size of such LED is small enough to be considered a point source when viewed at a distance of the order of centimetres.
 
@@ -174,7 +174,7 @@ A device called **luxometre** is used to measure the illuminance (Fig. 2). It ha
 
 The LED light source is located at one end of an optical bench. At the same height as the source, and at an initial distance of 50 cm, a screen with a signal in its center is placed and the source is oriented so that the light distribution is centered with the signal from the center of the screen. This ensures that the light emitted on the source axis is received with an intensity $I(0)$. The screen is moved along the bank, moving it away from the source to check that the system is well aligned. Once the system is aligned, the luxometer detector is placed on the display signal and the illuminance for different screen positions is measured.
 
-**Preguntas.**
+**Questions.**
 
 The following table summarizes the illuminance values, $E$, measured for different detector positions at different distances $d$ from the source.
 

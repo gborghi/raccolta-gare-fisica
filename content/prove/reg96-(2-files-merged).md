@@ -1,5 +1,5 @@
 ---
-title: OII 1996 2° Livello Teorica — reg96 (2 files merged).pdf
+title: OII 1996 2° Livello Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1996 2° Livello Teorica — reg96 (2 files merged).pdf — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/wave-optics,topic/oscillations-e-waves,topic/nuclear-e-particle-physics,topic/newtonian-mechanics,topic/electrostatics,topic/circuits,topic/thermodynamics,topic/fluid-mechanics,topic/gravitation,argomento/ottica,object/slit,object/screen,object/resistor,object/battery,object/gas"></span>
+<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1996 2° Livello Teorica — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/wave-optics,topic/oscillations-e-waves,topic/nuclear-e-particle-physics,topic/newtonian-mechanics,topic/electrostatics,topic/circuits,topic/thermodynamics,topic/fluid-mechanics,topic/gravitation,argomento/ottica,object/slit,object/screen,object/resistor,object/battery,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,7 +98,7 @@ Regional competition of 26 February 1996  Part One. For each correct and clearly
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1996 2° Livello Teorica — reg96 (2 files merged).pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/ottica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1996 2° Livello Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/ottica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -139,7 +139,7 @@ At a certain moment a car leaves a lane, while a second vehicle arrives on the l
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1996 2° Livello Teorica — reg96 (2 files merged).pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/thermodynamics,argomento/ottica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1996 2° Livello Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/thermodynamics,argomento/ottica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,7 +179,7 @@ Air is said to be saturated with water vapor when it is in thermodynamic equilib
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1996 2° Livello Teorica — reg96 (2 files merged).pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens,object/screen"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1996 2° Livello Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

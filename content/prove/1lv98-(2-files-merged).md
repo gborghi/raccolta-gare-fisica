@@ -1,5 +1,5 @@
 ---
-title: OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf
+title: OII 1998 1° Livello Quiz
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 1" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1998 1° Livello Quiz — Quesito 1" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -33,7 +33,7 @@ tags:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1998 1° Livello Quiz — Quesito 2" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -57,7 +57,7 @@ tags:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/sphere,object/satellite,object/ball"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1998 1° Livello Quiz — Quesito 3" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/sphere,object/satellite,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -95,7 +95,7 @@ tags:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 1998 1° Livello Quiz — Quesito 4" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,11 +120,11 @@ tags:
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Spring (object)|Spring]]
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 1998 1° Livello Quiz — Quesito 5" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -148,7 +148,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/nucleus"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 1998 1° Livello Quiz — Quesito 6" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/nuclear-e-particle-physics,argomento/fisica-moderna,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -188,7 +188,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/modern-quantum-physics,argomento/fisica-moderna,object/photon,object/electron"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 1998 1° Livello Quiz — Quesito 7" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/modern-quantum-physics,argomento/fisica-moderna,object/photon,object/electron"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -212,7 +212,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII 1998 1° Livello Quiz — Quesito 8" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -236,7 +236,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/tank-container,object/rope-string"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OII 1998 1° Livello Quiz — Quesito 9" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/tank-container,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -260,7 +260,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OII 1998 1° Livello Quiz — Quesito 10" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -284,7 +284,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,object/gas"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OII 1998 1° Livello Quiz — Quesito 11" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -308,7 +308,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OII 1998 1° Livello Quiz — Quesito 13" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -337,7 +337,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OII 1998 1° Livello Quiz — Quesito 14" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -361,7 +361,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/point-charge"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OII 1998 1° Livello Quiz — Quesito 15" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -385,7 +385,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/rigid-body-statics,argomento/meccanica,object/rope-string"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OII 1998 1° Livello Quiz — Quesito 16" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/rigid-body-statics,argomento/meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -409,7 +409,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/capacitor"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OII 1998 1° Livello Quiz — Quesito 17" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -434,11 +434,11 @@ Three thin metal plates $L$, $M$, $N$ parallel; $M$ (central) is grounded, on $L
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Capacitor (object)|Capacitor]]
 **Fonte:** [Testo (PDF) — p.6](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+**Answer:** **E**
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OII 1998 1° Livello Quiz — Quesito 18" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -462,7 +462,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/tank-container"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OII 1998 1° Livello Quiz — Quesito 19" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -486,7 +486,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OII 1998 1° Livello Quiz — Quesito 20" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -510,7 +510,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="OII 1998 1° Livello Quiz — Quesito 21" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -534,7 +534,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="OII 1998 1° Livello Quiz — Quesito 22" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -558,7 +558,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/spring"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="OII 1998 1° Livello Quiz — Quesito 23" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -582,7 +582,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="OII 1998 1° Livello Quiz — Quesito 24" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -606,7 +606,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="OII 1998 1° Livello Quiz — Quesito 25" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -630,7 +630,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="OII 1998 1° Livello Quiz — Quesito 26" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -655,11 +655,11 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Rope/String (object)|Rope/String]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1BDRYsFiUmzbLr1vtkF-vBiRQM9wCzuZa/view)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1290/2003.
+**Answer:** **B**
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/capacitor,object/switch"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="OII 1998 1° Livello Quiz — Quesito 28" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/capacitor,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,7 +683,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/conducting-sphere"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="OII 1998 1° Livello Quiz — Quesito 29" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -707,7 +707,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="OII 1998 1° Livello Quiz — Quesito 30" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -731,7 +731,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="OII 1998 1° Livello Quiz — Quesito 31" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -755,7 +755,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/ottica,object/slit,object/screen"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="OII 1998 1° Livello Quiz — Quesito 32" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/wave-optics,argomento/ottica,object/slit,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -779,7 +779,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="OII 1998 1° Livello Quiz — Quesito 33" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -829,7 +829,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="OII 1998 1° Livello Quiz — Quesito 34" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/thermodynamics,argomento/termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -853,7 +853,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/battery"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="OII 1998 1° Livello Quiz — Quesito 35" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/circuits,argomento/elettromagnetismo,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1055,7 +1055,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica,object/inclined-plane,object/block"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="OII 1998 1° Livello Quiz — Quesito 36" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/conservation-of-energy,argomento/meccanica,object/inclined-plane,object/block"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1079,7 +1079,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/planet,object/pendulum,object/spring"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="OII 1998 1° Livello Quiz — Quesito 37" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/planet,object/pendulum,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1103,7 +1103,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/satellite"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="OII 1998 1° Livello Quiz — Quesito 38" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/gravitation,argomento/gravitazione-e-astrofisica,object/satellite"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1127,7 +1127,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="OII 1998 1° Livello Quiz — Quesito 39" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1156,7 +1156,7 @@ The Commission shall adopt implementing acts in accordance with Article 21 of Re
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="OII 1998 1° Livello Quiz — 1lv98 (2 files merged).pdf — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="OII 1998 1° Livello Quiz — Quesito 40" data-tags="nazione/italia,tipo-gara/individuale,livello/1-livello,difficolta/1,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

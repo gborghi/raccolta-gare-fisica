@@ -1,5 +1,5 @@
 ---
-title: Nordic-Baltic na
+title: Nordic-Baltic
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic na — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/rope-string,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -68,7 +68,7 @@ Le fibre in gomma elastica possono essere estese fino a lunghezze $l$, molto pi�
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic na — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,7 +121,7 @@ Due pianeti si muovono in orbite circolari intorno a una stella di massa $M = 2.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic na — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -170,7 +170,7 @@ Due pianeti si muovono in orbite circolari intorno a una stella di massa $M = 2.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic na — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -211,7 +211,7 @@ Una piastra di vetro spessa è rivestita da un sottile film trasparente. Lo spet
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic na — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -264,7 +264,7 @@ Un'ellisse di quarto ordine è definita con l'equazione $\dfrac{x^4}{a^4} + \dfr
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic na — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/magnet,object/sphere"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/magnet,object/sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -325,7 +325,7 @@ Alcuni tipi di giocattoli magnetici sono costituiti da sfere ferromagnetiche e m
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic na — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/pipe-tube,object/gas"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/pipe-tube,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -386,7 +386,7 @@ Considerate un sistema di raffreddamento passivo. L'aria fredda (a condizioni no
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic na — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale — COPOLI14Sp def.pdf
+title: OII 2014 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — COPOLI14Sp def.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2014 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,7 +50,7 @@ Take the two protective film out of the lock. Choose two parallel lines on the m
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — COPOLI14Sp def.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2014 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,7 +119,7 @@ where $\theta_2$ is the angle of view with the normal at the exit face.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — COPOLI14Sp def.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,object/lens,object/mirror,object/sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2014 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,object/lens,object/mirror,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

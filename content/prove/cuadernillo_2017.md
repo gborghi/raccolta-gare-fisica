@@ -7068,83 +7068,64 @@ Figura 2
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT21. Fray Mamerto Esquiu Pre-university School
- 
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009. Vicente Aguilera - College of the Carmen and San José
- 
-Secondary school N° 3 Gustavo G. Levene - Father Ramón de la Quintana College is located in the city of Quintana 
- 
-The Spanish language is spoken by the Spanish language.
- 
-Private Institute Enrique G. Hood - Munich School. N° 1 Fray Mamerto Esquiu 
- 
-San Fernando del Valle, Catamarca. It was a great day. 
- 
-In the packaging plant of a furniture factory there is a ramp which
-It allows the necessary furniture packages to be raised to a 3m high mezzanine. La 
-The ramp is built on the same principles as a running machine, a motor.
-It turns a rubber conveyor belt. The dimensions of the ramp and the
+PT21. Fray Mamerto Esquiu Pre-University School
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-The arrangement of the belt and engine are shown in Figure (1). It seeks to cover the
-Packages with the appropriate material so that they do not slip down to the
-to be high. Use g = 10 m.s-2. 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 1 
- 
-(a) Suppose the engine is switched off so that the conveyor belt is
-At rest and a block resting on the ramp. Build a diagram of 
-and establish the equations valid for this problem. Then choose.
-One of the following materials to cover the block and thus prevent a
-Sliding down: canvas, concrete, wood. 
- 
-Static friction coefficients: 
- 
- 
-Rubber  cloth = 0,5 
- 
- 
-Rubber  wood = 0,75 
- 
- 
-Rubber  concrete = 0,9 
- 
-(b) Calculate the work to be done against gravity in order to lift
-up to the floor between blocks of 7,5 kg, 37,5 kg and 112,5 kg. 
-(c) If the expected time for a block of any mass to rise to 
-between floor is set in 5 (five) seconds, determine the power to which 
-the engine shall be operated in each of the cases referred to in point (b). 
-(d) The power supply circuit of the motor moving the conveyor belt counts 
-with a continuous voltage source of 15 V and the maximum working current of the 
-engine is 50 A. Will it be necessary to disarm any of the packages in the section?
-b. So you don't damage the engine? 
-(e) Establish the minimum current values necessary to move through the
-ramp to the intersection of each block of subparagraph (b). (from one to 
-The power supply shall be at least 15 V. 
-(f) Ernesto, the ramming manager, could well maintain the
-The engine operating current at 50 A, regardless of the weight of the blocks 
-furniture that you should take to the front. However, Ernesto wants the engine
-It is designed to run without waste of energy and to do so it is proposed to connect it to the circuit.
-The resistance between the source of 
-power and the motor to limit the flow of current to it. 
-Indicate the value of the resistance required for each of the cases in the subsection 
-e. If Ernesto has a lot of resistance, all of them 2, 
-establish the number and type of connection of the resistors required. Use the 
-Figure (2) to outline each of the circuits. 
- 
- 
-Figure 2 
+ ENET No. 1 Prof. Vicente Aguilera - Colegio del Carmen y San José
 
+ Secondary No. 3 Gustavo G. Levene - Colegio Padre Ramón de la Quintana
+
+ Instituto Pía Didoménico - Instituto Superior FASTA Catamarca
+
+ Instituto Privado Enrique G. Hood - Munic. School No. 1 Fray Mamerto Esquiu
+
+ San Fernando del Valle, Catamarca.
+
+In the packaging plant of a furniture factory there is a ramp that
+allows raising the necessary packages of furniture to a mezzanine elevated 3 m. The
+ramp is built on the same principles as a treadmill, a motor rotates a rubber conveyor belt. The dimensions of the ramp and the
+
+
+OAF 2017 - 49
+arrangement of the belt and the motor are shown in Figure (1). The aim is to cover the
+packages with the appropriate material so that they do not slide down when
+being raised. Use g = 10 m.s-2.
+
+
+
+
+
+
+
+
+Figure (1)
+
+a) Suppose that the motor is off so that the conveyor belt is
+at rest and that a block rests on the ramp. Construct a free-body diagram and establish the equations valid in this problem. Then, choose
+one of the following materials to cover the block and thus prevent
+sliding down: canvas, concrete, wood.  
  
-50 - OAF 2017
+Static friction coefficients:
+
+
+rubber – canvas = 0.5
+
+
+rubber – wood = 0.75
+
+
+rubber – concrete = 0.9
+
+b) Calculate the work that must be done against gravity in order to lift 7.5 kg, 37.5 kg and 112.5 kg blocks up to the mezzanine.
+c) If the time foreseen for a block of any mass to ascend to the mezzanine is set at 5 (five) seconds, determine the power at which the motor must work in each of the cases of part b.
+d) The power supply circuit of the motor that moves the conveyor belt has a 15 V direct voltage source and the maximum working current of the motor is 50 A. Will it be necessary to disassemble any of the packages from part b. in order not to damage the motor?
+e) Establish the values of the minimum current necessary to move each of the blocks from part b up the ramp to the mezzanine (one at a time), assuming that the power supply always remains fixed at 15 V.
+f) Ernesto, the person in charge of operating the ramp, could very well keep the motor's working current at 50 A, without caring about the weight of the furniture blocks that he must take to the mezzanine. However, Ernesto wants the motor to work without wasting energy and for this purpose he intends to connect in the supply circuit the necessary resistors between the power supply and the motor to limit the current flow to it. Indicate the value of the resistance necessary for each of the cases of part e. If Ernesto has a large quantity of 2 resistors, establish the number and type of connection of the resistors necessary. Use Figure (2) to schematize each of the circuits. 
+ 
+ 
+Figure (2)
+
+
+  50 - OAF 2017
 
 **Topic:** [[Newtonian Mechanics]], [[Circuits]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]

@@ -83,7 +83,7 @@ e) Teniendo en cuenta lo anterior, haz una estimación de la incertidumbre $\Del
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema experimental. La costante di Planck**
+**Problema sperimentale. La costante di Planck**
 
 L'anno 2025 è stato dichiarato dall'UNESCO come l'Anno internazionale della scienza e della tecnologia quantistica per commemorare il centenario della meccanica quantistica e diffondere i suoi progressi e le sue applicazioni alla società. Tuttavia, le origini della teoria quantistica risalgono all'inizio del XX secolo, quando Max Planck propose che la radiazione elettromagnetica si scambiasse sotto forma di quanti di energia, il cui valore è proporzionale alla frequenza della radiazione. Fu Albert Einstein che nel 1905 dimostrò l'esistenza dei quanti di luce, chiamati fotoni, la cui energia è data dall'equazione $E = hf$, dove $f$ è la frequenza dell'onda elettromagnetica e $h$ la costante di Planck, una costante fisica universale. Il rapporto fra frequenza e lunghezza d'onda della radiazione elettromagnetica è dato da $c = \lambda f$, dove $c$ è la velocità della luce.
 
@@ -146,13 +146,13 @@ e) Considerando quanto precede, si deve calcolare l'incertezza $\Delta h$ sul va
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. The Planck constant**
+**Experimental problem. The Planck constant**
 
 The year 2025 has been declared by UNESCO as the International Year of Quantum Science and Technology to commemorate the centenary of quantum mechanics and to disseminate its advances and applications to society. However, the origins of quantum theory go back to the early 20th century, when Max Planck proposed that electromagnetic radiation be exchanged in the form of quantum energies, the value of which is proportional to the frequency of radiation. Fue Albert Einstein quien, en 1905, demostró la existencia de los cuantos de luz, llamados fotones, cuya energía está dada por la ecuación $E = hf$, donde $f$ es la frecuencia de la onda electromagnética y $h$ la constante de Planck, una constante física universal. The frequency-wavelength ratio of electromagnetic radiation is given by $c = \lambda f$, where $c$ is the speed of light.
 
 In this experimental problem, the value of the Planck constant $h$ is proposed to be determined by an optoelectronic device called a LED (Light-Emitting Diode).
 
-**Modelo teórico.**
+**Theoretical model.**
 
 An LED is a device that is formed by connecting a P-type region and an N-type region of a semiconductor. By applying a potential difference $V_0$ sufficiently large between their terminals, electrons from the conduction band of region N are obtained to pass to the conduction band of region P, generating an electric current $I$, the value of which depends exponentially on the potential difference $V$ between P and N. Electrons passing through the N-zone can fall to locations in the P-zone, becoming desiccated and emitting photon energy $E = hf$ in the process.
 
@@ -162,11 +162,11 @@ $$E = eV_0 + C$$
 
 where $C$ depends on the temperature and doping of regions N and P, although it can be considered practically constant. Thus, by determining $V_0$ for different coloured LEDs, the ratio between $E$ and the frequency $f$ can be established, allowing the Planck constant to be calculated.
 
-**Montaje experimental.**
+**Experimental setup.**
 
 The LED is connected to two multimeters: one to measure the current and another to measure the potential difference through it. The battery provides a constant potential difference, but by means of a potentiometer (a variable resistance) connected in parallel with the LED, it is possible to adjust $V$. By measuring $I$ for different values of $V$, the device characteristic curve $I(V)$ can be plotted, which will allow the determination of $V_0$.
 
-**Preguntas.**
+**Questions.**
 
 The following table summarizes the values of $V_0$ obtained for LEDs using different semiconductor materials:
 

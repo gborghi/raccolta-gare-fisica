@@ -605,7 +605,7 @@ Il numero zero posto a sinistra del valore principale o dell'errore non è un'al
 significativo, ma messo a destra è un'algoritma significativa del numero.
 7°.
 Per il calcolo, abbiamo lavorato su tutti i numeri disponibili nel
-La Commissione ha adottato una decisione che non può essere adottata.
+strumento, ma la rappresentazione finale deve sempre obbedire alle regole di cui sopra.
 
 Propagazione degli errori in calcolo matematico
 
@@ -666,12 +666,12 @@ The zero number placed to the left of the main value or error is not an algebra
 significant, but placed on the right is a significant number algebra.
 the following points are added:
 For the purpose of calculating, we work with all the figures available in the
-The Commission has not yet adopted a proposal for a directive on the protection of workers' rights.
+instrument, but the final representation must always obey the rules above.
 
 Propagation of errors in a mathematical calculation
 
 When we get any experimental measurement, we will always have the involvement of the
-error of measurement. The Commission has already taken a number of measures to ensure that the
+measurement error. When we perform calculations with these measurements, we will have a propagation of these
 errors and the result must also be represented by an error.
 
 If we have two measurements of the type, x $\pm \Delta x$, and y $\pm \Delta y$, and we do an operation

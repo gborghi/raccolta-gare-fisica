@@ -14,7 +14,7 @@ tags:
   - anno/2019
   - paese/Spagna
   - comp/Spagna
-title: Spagna 2019 — 2019 Experimento-plano inclinado resuelto.pdf
+title: Spagna 2019 — Experimento plano inclinado · Soluzioni
 ---
 
 

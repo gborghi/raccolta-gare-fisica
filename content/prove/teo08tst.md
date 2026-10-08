@@ -15,229 +15,16 @@ tags:
 
 
 
-PROBLEMA
-n.
-1
-{
-T
-re
- ilindri
-molto
-s ivolosi
-100
-Pun
-ti
-In
+**PROBLEMA n. 1 – Tre cilindri molto scivolosi** (100 Punti)
 
-gura
-a
-sinistra
-sono
-rappresen
-tati
-s
-hemati amen
-te
-tre
- ilindri
-uguali,
- ias uno
-di
-massa
-M
-,
-p
-osti
-su
-un
-piano
-orizzon
-tale
- on
-le
-basi
-v
-erti ali
-e
- omplanari
-e
-in
-mo
-do
+In figura a sinistra sono rappresentati schematicamente tre cilindri uguali, ciascuno di massa $M$, posti su un piano orizzontale con le basi verticali e complanari e in modo che ciascun cilindro abbia la superficie laterale tangente a quelle degli altri due. I cilindri sono molto scivolosi dato che ogni forma di attrito fra tutte le superfici a contatto è trascurabile. Allora, per mantenere in equilibrio la struttura, vengono tese, una da una parte e una dall’altra – come si vede in figura –, due corde inestensibili e di massa trascurabile che collegano gli assi dei due cilindri appoggiati sul piano.
 
-he
- ias un
- ilindro
-abbia
-la
-sup
-er
- ie
-laterale
-tangen
-te
-a
-quelle
-degli
-altri
-due.
-I
- ilindri
-sono
-molto
-s iv
-olosi
-dato
+*(figura nel PDF originale)*
+1. Qual è la minima tensione in ciascuna corda che consente di mantenere in equilibrio il sistema?
 
-he
-ogni
-forma
-di
-attrito
-fra
-tutte
-le
-sup
-er
- i
-a
- on
-tatto
+In seguito si mette in moto il sistema applicando, al cilindro di sinistra, una forza $\vec{F}$, orizzontale, come mostrato nella figura a destra, e subito dopo si eliminano le corde.
 
-e
-tras urabile.
-Allora,
-p
-er
-man
-tenere
-in
-equilibrio
-la
-struttura,
-v
-engono
-tese,
-una
-da
-una
-parte
-e
-una
-dall'altra
-{
- ome
-si
-v
-ede
-in
-
-gura
-{,
-due
- orde
-inestensibili
-e
-di
-massa
-tras urabile
-
-he
- ollegano
-gli
-assi
-dei
-due
- ilindri
-app
-oggiati
-sul
-piano.
-1.
-Qual
-
-e
-la
-minima
-tensione
-in
- ias una
- orda
-
-he
- onsen
-te
-di
-man
-tenere
-in
-equilibrio
-il
-sistema?
-In
-seguito
-si
-mette
-in
-moto
-il
-sistema
-appli ando,
-al
- ilindro
-di
-sinistra,
-una
-forza
-~
-F
-,
-orizzon
-tale,
- ome
-mostrato
-nella
-
-gura
-a
-destra,
-e
-subito
-dop
-o
-si
-eliminano
-le
- orde.
-2.
-Qual
-
-e
-l'in
-terv
-allo
-di
-v
-alori
-
-he
-pu
-o
-assumere
-la
-forza
-
-he
-a elera
-il
-sistema
-senza
-
-he
-la
-struttura
- ollassi?
-|||||||||||
+2. Qual è l'intervallo di valori che può assumere la forza che accelera il sistema senza che la struttura collassi?
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -249,50 +36,17 @@ struttura
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM n.
-1
-{
-Three very smooth cylinders
-100
-Points
-In
+**PROBLEM no. 1 – Three Very Slippery Cylinders** (100 Points)
 
-the figure on the left, three identical cylinders are represented schematically, each of mass
-M
-, placed on a horizontal plane with vertical and coplanar bases and in such a way
+In the figure on the left, three identical cylinders are schematically represented, each of mass $M$, placed on a horizontal plane with their bases vertical and coplanar, arranged so that each cylinder has its lateral surface tangent to those of the other two. The cylinders are very slippery because any form of friction between all contacting surfaces is negligible. To maintain the structure in equilibrium, two inextensible and massless ropes are pulled—one from one side and one from the other—as shown in the figure—connecting the axes of the two cylinders resting on the plane.
 
-that each cylinder has its lateral surface tangent to those of the other two.
-The cylinders are very smooth since
+*(figure in the original PDF)*
 
-every form of friction between all contacting surfaces
+1. What is the minimum tension in each rope that allows maintaining equilibrium of the system?
 
-is negligible.
-Therefore, to keep the structure in equilibrium, two inextensible cords of negligible mass are stretched, one from one side and one from the other
-{ as can be seen in the
+Subsequently, the system is set into motion by applying to the leftmost cylinder a horizontal force $\vec{F}$, as shown in the figure on the right, and immediately after removing the ropes.
 
-figure
-{, connecting the axes of the two cylinders resting on the plane.
-1.
-What
-
-is the minimum tension in each cord
-
-that allows the system to be kept in equilibrium?
-Then the system is set in motion by applying, to the left cylinder, a force
-~
-F
-, horizontal, as shown in the
-
-figure on the right, and immediately afterwards the cords are removed.
-2.
-What
-
-is the interval of values
-
-that the force can take that accelerates the system without
-
-the structure collapsing?
-|||||||||||
+2. What is the range of values that the force accelerating the system can assume without causing the structure to collapse?
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
@@ -304,148 +58,15 @@ the structure collapsing?
 
 
 
-PROBLEMA
-n.
-2
-{
-T
-ri- i lo:
-:
-:
-termo
-dinami o
-35
-Pun
-ti
-La
+**PROBLEMA n. 2 – Tri-ciclo…termodinamico** (35 Punti)
 
-gura
-rappresen
-ta
-un
- i lo
-termo
-dinami o
- ui
+La figura rappresenta un ciclo termodinamico cui è sottoposto un sistema di $n$ moli di un gas perfetto monoatomico.
 
-e
-sottop
-osto
-un
-sistema
-di
-n
-moli
-di
-un
-gas
-p
-erfetto
-monoatomi o.
-Il
-v
-olume
-del
-gas
+Il volume del gas è inizialmente raddoppiato mediante una trasformazione isoterma quasi statica 1–2, e successivamente viene riportato al valore iniziale con una compressione isobara quasi statica 2–3. Infine, con un riscaldamento durante il quale il volume rimane costante, il sistema viene riportato allo stato iniziale.
 
-e
-inizialmen
-te
-raddoppiato
-median
-te
-una
-trasformazione
-isoterma
-quasi
-stati a
-1{2,
-e
-su essiv
-amen
-te
-viene
-rip
-ortato
-al
-v
-alore
-iniziale
- on
-una
- ompressione
-isobara
-quasi
-stati a
-2{3.
-In
-ne,
- on
-un
-ris aldamen
-to
-duran
-te
-il
-quale
-il
-v
-olume
-rimane
- ostan
-te,
-il
-sistema
-viene
-rip
-ortato
-allo
-stato
-iniziale.
+- Calcolare il rendimento di un’ipotetica macchina termica che segua questo ciclo termodinamico.
 
-Cal olare
-il
-rendimen
-to
-di
-un'ip
-oteti a
-ma
-hina
-termi a
-
-he
-segua
-questo
- i lo
-termo
-dinami o.
-|||||||||||
-P
-ag.
-2
-di
-4
-AIF
-{
-Olimpiadi
-di
-Fisi a
-2008
-Ga
-ra
-Nazionale:
-PRO
-V
-A
-TEORICA
-{
-Senigallia
-{
-18
-Ap
-rile
-2008
+*(figura nel PDF originale)*
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -457,46 +78,15 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM no.
-2
-{
-Title:
-:
-:
-thermodynamic
-35
-Points
-The
+**PROBLEM no. 2 – Tri-cycle…thermodynamic** (35 Points)
 
-figure represents a thermodynamic cycle to which
-a system of n moles of a perfect monatomic gas is subjected.
-The volume of the gas
+The figure shows a thermodynamic cycle to which a system of $n$ moles of a perfect monatomic gas is subjected.
 
-is initially doubled by means of a quasi-static isothermal transformation
-1{2, and subsequently is brought back to the initial value with a quasi-static isobaric compression
-2{3.
-Finally, with a heating during which the volume remains constant, the system is brought back to the initial state.
+The volume of the gas is initially doubled through a quasi-static isothermal transformation 1–2, and subsequently returned to its initial value via a quasi-static isobaric compression 2–3. Finally, by heating during which the volume remains constant, the system is brought back to its initial state.
 
-Calculate the efficiency of a hypothetical heat engine that follows this thermodynamic cycle.
-|||||||||||
-Page
-2 of
-4
-AIF
-{
-Physics Olympiad
-2008
-National Competition:
-PRO
-V
-A
-THEORETICAL
-{
-Senigallia
-{
-18
-April
-2008
+- Calculate the efficiency of a hypothetical heat engine that follows this thermodynamic cycle.
+
+*(figure in the original PDF)*
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
@@ -508,472 +98,38 @@ April
 
 
 
-PROBLEMA
-n.
-3
-{
-Prove
-di
-elasti it
+**PROBLEMA n. 3 – Prove di elasticità** (100 Punti)
 
-a
-100
-Pun
-ti
-In
-questo
-problema
-si
-vuole
-studiare,
- on
-un
-mo
-dello
-sempli
- ato,
-l'elasti it
-a
-di
-un
-materiale
- ristallino.
-Supp
-oniamo
-di
-a
-v
-ere
-un
-materiale
+In questo problema si vuole studiare, con un modello semplificato, l'elasticità di un materiale cristallino.
+Supponiamo di avere un materiale che, in assenza di forze esterne, è costituito di un reticolo cubico di atomi, che interagiscono con un'energia potenziale interatomica che, al variare della distanza interatomica $r$, ha questa forma:
 
-he,
-in
-assenza
-di
-forze
-esterne,
+$$
+U(r) = U_0 \frac{r_0^4}{r^4} - 2 U_0 \frac{r_0^2}{r^2}
+$$
 
-e
- ostituito
-di
-un
-reti olo
- ubi o
-di
-atomi,
+con $U_0 = 5 \text{ eV}$; $r_0 = 0.3 \text{ nm}$.
+Per semplicità, si consideri soltanto l'interazione di ciascun atomo con i suoi vicini più prossimi; si trascuri quindi l'interazione fra gli atomi che si trovano agli estremi di una diagonale del reticolo. Questa è una semplificazione piuttosto drastica perché è proprio l'interazione coi secondi vicini che tiene insieme il solido.
 
-he
-in
-teragis ono
- on
-un'energia
-p
-otenziale
-in
-teratomi a
+1. Si traccino, in modo qualitativo e in funzione della distanza interatomica $r$, il grafico dell'energia potenziale $U(r)$ e quello della relativa forza di interazione tra gli atomi vicini $f(r)$ che può essere dedotto dal primo.
+2. Si dica quanto vale la distanza di equilibrio fra gli atomi, e a quali distanze la forza risulta attrattiva o repulsiva.
 
-he,
-al
-v
-ariare
-della
-distanza
-in
-teratomi a
-r
-,
-ha
-questa
-forma:
-U
-(r
-)
-=
-U
-0
-r
-4
-0
-r
-4
- 2
-U
-0
-r
-2
-0
-r
-2
- on
-U
-0
-=
-5
-eV;
-r
-0
-=
-0:3
-nm
-:
-P
-er
-sempli it
-a,
-si
- onsideri
-soltan
-to
-l'interazione
-di
- ias un
-atomo
- on
-i
-suoi
-viini
-pi
+Applicando ad una faccia del cristallo una forza di trazione perpendicolare ad un piano reticolare, mentre la faccia opposta è fissata ad un supporto, il cristallo si deforma, allungandosi nella direzione della forza. Sia $F$ il modulo della forza, $A$ l'area della superficie a cui la forza è applicata, $L$ la lunghezza del cristallo nella direzione della forza, e $\Delta L$ il suo allungamento per effetto della forza applicata.
 
-u
-prossimi;
-si
-tras uri
-quindi
-l'interazione
-fra
-gli
-atomi
+Si chiama “sforzo” la grandezza $F/A$ e “deformazione” l'allungamento relativo $\Delta L/L$. Il rapporto tra queste due grandezze, per piccole deformazioni, è costante ed è una caratteristica del materiale nota come “modulo di Young”:
 
-he
-si
-tro
-v
-ano
-agli
-estremi
-di
-una
-diagonale
-del
-reti olo.
-Questa
+$$
+E = \left| \frac{F/A}{\Delta L/L} \right|.
+$$
 
-e
-una
-sempli
- azione
-piuttosto
-drasti a
-p
-er
-h
+Si calcoli:
 
-e
+3. il modulo di Young del materiale;
+4. la deformazione quando il solido è al punto di rottura;
+5. lo sforzo necessario per giungere alla rottura.
 
-e
-proprio
-l'in
-terazione
- oi
-se ondi
-vi ini
+Nota: Può essere utile ricordare che $\frac{1}{1+x} \approx 1 - x$ quando $x \ll 1$.
 
-he
-tiene
-insieme
-il
-solido.
-1.
-Si
-tra ino,
-in
-mo
-do
-qualitativ
-o
-e
-in
-funzione
-della
-distanza
-in
-teratomi a
-r
-,
-il
-gra
- o
-dell'energia
-p
-otenziale
-U
-(r
-)
-e
-quello
-della
-relativ
-a
-forza
-di
-in
-terazione
-tra
-gli
-atomi
-vi ini
-f
-(r
-)
-
-he
-pu
-o
-essere
-dedotto
-dal
-primo.
-2.
-Si
-di a
-quan
-to
-v
-ale
-la
-distanza
-di
-equilibrio
-fra
-gli
-atomi,
-e
-a
-quali
-distanze
-la
-forza
-risulta
-attrattiv
-a
-o
-repulsiv
-a.
-Appli ando
-ad
-una
-fa ia
-del
- ristallo
-una
-forza
-di
-trazione
-p
-erp
-endi olare
-ad
-un
-piano
-reti olare,
-men
-tre
-la
-fa ia
-opp
-osta
-
-e
-
-ssata
-ad
-un
-supp
-orto,
-il
- ristallo
-si
-deforma,
-allungandosi
-nella
-direzione
-della
-forza.
-Sia
-F
-il
-mo
-dulo
-della
-forza,
-A
-l'area
-della
-sup
-er
- ie
-a
- ui
-la
-forza
-
-e
-appli ata,
-L
-la
-lunghezza
-del
- ristallo
-nella
-direzione
-della
-forza,
-e
- L
-il
-suo
-allungamen
-to
-p
-er
-e
-etto
-della
-forza
-appli ata.
-Si
-
-hiama
-\sforzo"
-la
-grandezza
-F
-=
-A
-e
-\deformazione"
-l'allungamen
-to
-relativ
-o
- L=L.
-Il
-rapp
-orto
-tra
-queste
-due
-grandezze,
-p
-er
-pi ole
-deformazioni,
-
-e
- ostan
-te
-ed
-
-e
-una
- aratteristi a
-del
-materiale
-nota
- ome
-\mo
-dulo
-di
-Y
-oung":
-E
-=
-
-F
-=
-A
- L=L
-
-:
-Si
- al oli:
-3.
-il
-mo
-dulo
-di
-Y
-oung
-del
-materiale;
-4.
-la
-deformazione
-quando
-il
-solido
-
-e
-al
-pun
-to
-di
-rottura;
-5.
-lo
-sforzo
-ne essario
-p
-er
-giungere
-alla
-rottura.
-Nota:
-Pu
-o
-essere
-utile
-ri ordare
-
-he
-1
-1
-+
-x
-
-1
- x
-quando
-x
-
-1.
-|||||||||||
-P
-ag.
-3
-di
-4
-AIF
-{
-Olimpiadi
-di
-Fisi a
-2008
-Ga
-ra
-Nazionale:
-PRO
-V
-A
-TEORICA
-{
-Senigallia
-{
-18
-Ap
-rile
-2008
+*(figura nel PDF originale)*
 
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -985,144 +141,39 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM no.
-3
-{
-Elasticity tests
+**PROBLEM no. 3 – Elasticity Tests** (100 Points)
 
-a
-100
-Points
-In this problem we want to study, with a simplified model, the elasticity of a crystalline material.
-Suppose we have a material
+In this problem, a simplified model is used to study the elasticity of a crystalline material.  
+We suppose that in the absence of external forces, the material consists of a cubic lattice of atoms which interact via an interatomic potential energy that, as a function of the interatomic distance $r$, has this form:
 
-that, in the absence of external forces,
+$$
+U(r) = U_0 \frac{r_0^4}{r^4} - 2 U_0 \frac{r_0^2}{r^2}
+$$
 
-is made up of a cubic lattice of atoms,
+with $U_0 = 5 \text{ eV}$; $r_0 = 0.3 \text{ nm}$.  
+For simplicity, only the interaction of each atom with its nearest neighbors is considered; thus, interactions between atoms located at opposite ends of a lattice diagonal are neglected. This is a rather drastic simplification, since it is precisely the interaction with second nearest neighbors that holds the solid together.
 
-which interact with an interatomic potential energy
+1. Draw, in a qualitative manner and as a function of the interatomic distance $r$, the graph of the potential energy $U(r)$ and that of the corresponding interatomic force between neighboring atoms $f(r)$, which can be deduced from the first.
 
-that, as the interatomic distance r
-varies, has this form:
-U (r
-)
-=
-U
-0 r
-4
-0 r
-4
- 2
-U
-0 r
-2
-0 r
-2 with
-U
-0
-=
-5 eV;
-r
-0
-=
-0:3 nm
-:
-For simplicity, consider only the interaction of each atom with its nearest neighbors;
-neglect therefore the interaction between the atoms
+2. State what is the equilibrium distance between atoms, and for which distances the force becomes attractive or repulsive.
 
-that are at the ends of a diagonal of the lattice.
-This
+By applying a tensile force perpendicular to a crystal plane, while the opposite face is fixed to a support, the crystal deforms by elongating in the direction of the force. Let $F$ be the magnitude of the force, $A$ the area of the surface to which the force is applied, $L$ the length of the crystal in the direction of the force, and $\Delta L$ the elongation caused by the applied force.
 
-is a rather drastic simplification because
+The quantity $F/A$ is called "stress", and the relative elongation $\Delta L/L$ is called "strain". The ratio between these two quantities, for small deformations, is constant and represents a material property known as the "Young's modulus":
 
-it is precisely the interaction with the second neighbors
+$$
+E = \left| \frac{F/A}{\Delta L/L} \right|.
+$$
 
-that holds the solid together.
-1.
-Draw, qualitatively and as a function of the interatomic distance r
-, the graph of the potential energy
-U (r
-)
-and that of the corresponding interaction force between neighboring atoms f (r
-)
+Compute:
 
-that can be deduced from the former.
-2.
-State what the equilibrium distance between the atoms is, and at what distances the force is attractive or repulsive.
-By applying to one face of the crystal a tensile force perpendicular to a reticular plane, while the opposite face
+3. the Young's modulus of the material;  
+4. the strain when the solid is at the point of fracture;  
+5. the stress required to reach fracture.
 
-is
+Note: It may be useful to recall that $\frac{1}{1+x} \approx 1 - x$ when $x \ll 1$.
 
-fixed to a support, the crystal deforms, elongating in the direction of the force.
-Let
-F be the modulus of the force,
-A the area of the surface to which the force
-
-and applied,
-L the length of the specimen in the direction of the force, and
-ΔL its elongation due to the applied force.
-One
-calls
-"stress" the quantity
-F
-=
-A and
-"strain" the relative elongation
-ΔL=L.
-The ratio between these two quantities, for small deformations,
-
-is constant and
-
-is a characteristic of the material known as
-"Young's
-modulus":
-E
-=
-
-F
-=
-A
-ΔL=L
-
-:
-Calculate:
-3.
-the Young's
-modulus of the material;
-4.
-the strain when the solid
-
-is at the breaking point;
-5.
-the stress necessary to reach breaking.
-Note:
-It may be useful to remember
-
-that
-1
-1
-+ x
-
-≈ 1 − x when x
-
-≪ 1.
-|||||||||||
-Page
-3 of
-4
-AIF
-{
-Physics Olympiad
-2008
-National Competition:
-THEORETICAL
-PROBLEM
-{
-Senigallia
-{
-18
-April
-2008
+*(figure in the original PDF)*
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
@@ -1134,555 +185,41 @@ April
 
 
 
-PROBLEMA
-n.
-4
-{
-Condensato
-ri
-semp
-re
-pi
+**PROBLEMA n. 4 – Condensatori sempre più piccoli** (65 Punti)
 
-u
-pi oli
-65
-Pun
-ti
-La
- apa it
-a
-di
-un
- ondensatore
-in
- ui
-lo
-sp
-essore
-d
-del
-dielettri o
-sia
-molto
-pi olo
-risp
-etto
-alle
-dimensioni
-delle
-armature
-(la
- ondizione
-pu
-o
-essere
-p
-osta
- ome
-d
-2
+La capacità di un condensatore in cui lo spessore $d$ del dielettrico sia molto piccolo rispetto alle dimensioni delle armature (la condizione può essere posta come $d^2 \ll S$, essendo $S$ la superficie delle armature) può essere sempre calcolata come quella di un condensatore a facce piane e parallele.
 
-S
-,
-essendo
-S
-la
-sup
-er
- ie
-delle
-armature)
-pu
-o
-essere
-sempre
- al olata
- ome
-quella
-di
-un
- ondensatore
-a
-fa e
-piane
-e
-parallele.
-1.
-Dop
-o
-a
-v
-er
-determinato
-l'espressione
-della
- apa it
-a
-di
-un
- ondensatore
-sferi o
-nel
-vuoto
-("
-r
-=
-1)
-le
- ui
-armature
-abbiano
-raggi
-R
-1
-e
-R
-2
-,
-v
-eri
- are
-la
-pre eden
-te
-asserzione,
-quando
-sia
-so
-ddisfatta
-la
- ondizione
-R
-2
- R
-1
+1. Dopo aver determinato l'espressione della capacità di un condensatore sferico nel vuoto ($\varepsilon_r = 1$) le cui armature abbiano raggi $R_1$ e $R_2$, verificare la precedente affermazione, quando sia soddisfatta la condizione $R_2 - R_1 \ll R_1$.
 
-R
-1
-.
-Si
- onsideri
-ora
-un
- ondensatore
-(p
-er
-il
-quale
-la
- ondizione
-detta
-sia
-v
-eri
- ata,
- osi
-h
+Si consideri ora un condensatore (per il quale la condizione detta sia verificata, cosicché possa essere assimilato ad un condensatore piano) in cui metà del volume sia costituito dalle armature e metà dal materiale isolante caratterizzato dalla costante dielettrica relativa ($\varepsilon_r > 1$) e dalla rigidità dielettrica ($E_m$) definita come il massimo campo elettrico che il dielettrico può sopportare senza che venga attraversato – e quindi distrutto – da una scarica.
 
-e
-p
-ossa
-essere
-assimilato
-ad
-un
- ondensatore
-piano)
-in
- ui
-met
-a
-del
-v
-olume
-sia
- ostituito
-dalle
-armature
-e
-met
-a
-dal
-materiale
-isolan
-te
- aratterizzato
-dalla
- ostan
-te
-dielettri a
-relativ
-a
-("
-r
->
-1)
-e
-dalla
-rigidit
-a
-dielettri a
-(E
-m
-)
-de
-nita
- ome
-il
-massimo
- amp
-o
-elettri o
+Un condensatore è a sua volta individuato da due parametri caratteristici: la capacità $C$ e la tensione massima di lavoro $V_{\text{max}}$.
 
-he
-il
-dielettri o
-pu
-o
-sopp
-ortare
-senza
+N.B. Per non confondere la tensione, cioè la d.d.p. $V$ applicata tra le armature con il volume del condensatore, quest'ultimo sarà indicato – in modo inusuale – con la lettera $\Delta$.
 
-he
-v
-enga
-attra
-v
-ersato
-{
-e
-quindi
-distrutto
-{
-da
-una
-s ari a.
-Un
- ondensatore
+2. Mostrare che il volume $\Delta$ di un condensatore di capacità $C$ e tensione massima di lavoro $V_{\text{max}}$, non può essere inferiore ad un minimo. Trovare $\Delta_{\text{min}}$ in funzione delle due proprietà caratteristiche del dielettrico $\varepsilon_r$ e $E_m$.
 
-e
-a
-sua
-v
-olta
-individuato
-da
-due
-parametri
- aratteristi i:
-la
- apa it
-a
-C
-e
-la
-tensione
-massima
-di
-la
-v
-oro
-V
-max
-.
-N.B.
-P
-er
-non
- onfondere
-la
-tensione,
- io
+3. Quali dei seguenti materiali dielettrici consentirebbe di produrre condensatori di volume minimo?
 
-e
-la
-d.d.p.
-V
-appli ata
-tra
-le
-armature
- on
-il
-v
-olume
-del
- ondensatore,
-quest'ultimo
-sar
-a
-indi ato
-{
-in
-mo
-do
-in
-usuale
-{
- on
-la
-lettera
- .
-2.
-Mostrare
+| Materiale | $\varepsilon_r$ | $E_m$ [kV/mm] |
+| :--- | :--- | :--- |
+| 1. Carta paraffinata | 2.5 | 50 |
+| 2. Ceramica | 60 | 15 |
+| 3. Mica | 8 | 90 |
+| 4. Polistirolo | 2.6 | 50 |
+| 5. Porcellana | 6 | 25 |
+| 6. Resina epossidica | 4 | 35 |
+| 7. Teflon | 2.2 | 20 |
 
-he
-il
-v
-olume
+NOTA: I dati riportati in tabella sono puramente indicativi e in alcuni casi si riferiscono a particolari campioni dei diversi materiali; per esempio vari tipi di resine o di ceramiche possono avere caratteristiche notevolmente diverse da quelle indicate qui.
 
-di
-un
- ondensatore
-di
- apa it
-a
-C
-e
-tensione
-massima
-di
-la
-v
-oro
-V
-max
-,
-non
-pu
-o
-essere
-inferiore
-ad
-un
-minimo.
-T
-ro
-v
-are
+4. Tra quelli riportati sopra, quale dielettrico si può ritenere sia stato usato per realizzare un condensatore da $4.7\ \mu\text{F}$ che supporta una tensione di lavoro di $50\ \text{V}$ ed ha la forma di un piccolo parallelepipedo di $10 \times 10 \times 2\ \text{mm}^3$?
 
-min
-in
-funzione
-delle
-due
-propriet
-a
- aratteristi
-he
-del
-dielettri o
-"
-r
-e
-E
-m
-.
-3.
-Quali
-dei
-seguen
-ti
-materiali
-dielettri i
- onsen
-tirebb
-e
-di
-pro
-durre
- ondensatori
-di
-v
-olume
-minimo?
-Materiale
-"
-r
-E
-m
-[
-kV/mm
-℄
-1.
-Carta
-paraÆnata
-2:5
-50
-2.
-Cerami a
-60
-15
-3.
-Mi a
-8
-90
-4.
-P
-olistirolo
-2:6
-50
-5.
-P
-or ellana
-6
-25
-6.
-Resina
-ep
-ossidi a
-4
-35
-7.
-T
-e
-on
-2:2
-20
-NOT
-A:
-I
-dati
-rip
-ortati
-in
-tab
-ella
-sono
-puramen
-te
-indi ativi
-e
-in
-al uni
- asi
-si
-riferis ono
-a
-parti olari
- ampioni
-dei
-div
-ersi
-materiali;
-p
-er
-esempio
-v
-ari
-tipi
-di
-resine
-o
-di
- erami
-he
-p
-ossono
-a
-v
-ere
- aratteristi
-he
-notev
-olmen
-te
-div
-erse
-da
-quelle
-indi ate
-qui.
-4.
-T
-ra
-quelli
-rip
-ortati
-sopra,
-quale
-dielettri o
-si
-pu
-o
-ritenere
-sia
-stato
-usato
-p
-er
-realizzare
-un
- ondensatore
-da
-4:7
-F
+Materiale prodotto dal gruppo
 
-he
-sopp
-orta
-una
-tensione
-di
-la
-v
-oro
-di
-50
-V
-ed
-ha
-la
-forma
-di
-un
-pi olo
-parallelepip
-edo
-di
-10
-
-10
-
-2
-mm
-3
-?
-Materiale
-pro
-dotto
-dal
-grupp
-o
-OLIMPIADI
-PROGETTO
-PROGETTO
-OLIMPIADI
-Segreteria
-Olimpiadi
-Italiane
-della
-Fisi a
-p
-resso
-Li eo
-S ienti
- o
-\U.
-Mo
-rin",
-MESTRE
-(VE)
-fax:
-041.584.1272
-e-mail:
-olifis libero.it
-P
-ag.
-4
-di
-4
+Segreteria Olimpiadi Italiane della Fisica
+presso Liceo Scientifico “U. Morin”, MESTRE (VE)
+fax: 041.584.1272 e-mail: olifis@libero.it
 
 **Topic:** [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -1694,154 +231,40 @@ di
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM no.
-4
-{
-Condenser always more
+**PROBLEM no. 4 – Ever-smaller Capacitors** (65 Points)
 
-u more oils
-65
-Points
-The capacitance of a capacitor in which the thickness d of the dielectric is much smaller than the dimensions of the plates (the condition can be posed as d
-2
+The capacitance of a capacitor in which the thickness $d$ of the dielectric is very small compared to the dimensions of the plates (the condition may be stated as $d^2 \ll S$, with $S$ being the surface area of the plates) can always be calculated as that of a parallel-plate capacitor.
 
-S
-, where
-S is the surface area of the plates)
-can always be calculated as that of a capacitor with flat and parallel plates.
-1.
-After having determined the expression of the capacitance of a spherical capacitor in vacuum (" r
-=
-1)
-whose plates have radii
-R
-1 and
-R
-2
-, verify the previous assertion, when the condition
-R
-2
- R
-1
+1. After having determined the expression for the capacitance of a spherical capacitor in vacuum ($\varepsilon_r = 1$) whose plates have radii $R_1$ and $R_2$, verify the previous statement when the condition $R_2 - R_1 \ll R_1$ is satisfied.
 
-R
-1
-.
-Consider now a capacitor (for which the said condition is satisfied, so that it can be assimilated to a flat capacitor)
-in which half of the volume is constituted by the plates and half by the insulating material characterized by the relative dielectric constant (" r
->
-1)
-and by the dielectric strength (E m
-)
-defined as the maximum electric field
+Now consider a capacitor (for which the aforementioned condition holds, so that it may be regarded as a parallel-plate capacitor) in which half the volume is occupied by the plates and half by an insulating material characterized by a relative permittivity ($\varepsilon_r > 1$) and dielectric strength ($E_m$), defined as the maximum electric field that the dielectric can withstand without being punctured—and thus destroyed—by a discharge.
 
-that the dielectric can withstand without
+A capacitor is in turn identified by two characteristic parameters: the capacitance $C$ and the maximum operating voltage $V_{\text{max}}$.
 
-being crossed
-{ and therefore destroyed
-{ by a discharge.
-A capacitor
+N.B. To avoid confusion between the voltage, i.e., the potential difference $V$ applied across the plates, and the volume of the capacitor, the latter will be indicated—uncommonly—with the letter $\Delta$.
 
-in turn is identified by two characteristic parameters:
-the capacitance
-C and the maximum working voltage
-V max
-.
-N.B.
-In order not to confuse the voltage, i.e. the p.d.
-V applied between the plates with the volume of the capacitor, the latter will be indicated
-{ in the usual way
-{ with the letter
- .
+2. Show that the volume $\Delta$ of a capacitor with capacitance $C$ and maximum operating voltage $V_{\text{max}}$, cannot be less than a minimum value. Find $\Delta_{\text{min}}$ as a function of the two dielectric’s characteristic properties $\varepsilon_r$ and $E_m$.
 
-2.
-Show
+3. Which of the following dielectric materials would allow for the production of capacitors with minimum volume?
 
-that the volume
+| Material | $\varepsilon_r$ | $E_m$ [kV/mm] |
+| :--- | :--- | :--- |
+| 1. Paraffined paper | 2.5 | 50 |
+| 2. Ceramic | 60 | 15 |
+| 3. Mica | 8 | 90 |
+| 4. Polystyrene | 2.6 | 50 |
+| 5. Porcelain | 6 | 25 |
+| 6. Epoxy resin | 4 | 35 |
+| 7. Teflon | 2.2 | 20 |
 
-of a capacitor with capacitance
-C and maximum working voltage
-V max
-, cannot be lower than a minimum.
-Find
+NOTE: The data reported in the table are purely indicative and, in some cases, refer to particular samples of different materials; for example, various types of resins or ceramics may have characteristics significantly different from those indicated here.
 
-min as a function of the two characteristic properties of the dielectric
-" r and
-E m
-.
-3.
-Which of the following dielectric materials would allow capacitors of minimum volume to be produced?
-Material
-" r
-E m
-[ kV/mm
-℄
-1.
-Carta paraÆnata
-2:5
-50
-2.
-Cerami a
-60
-15
-3.
-Mi a
-8
-90
-4.
-P olistirolo
-2:6
-50
-5.
-P or ellana
-6
-25
-6.
-Resina ep ossidi a
-4
-35
-7.
-T e on
-2:2
-20
-NOT
-A:
-I dati rip ortati in tab ella sono puramen te indi ativi e in al uni asi si riferis ono a parti olari ampioni dei div ersi materiali;
-p er esempio v ari tipi di resine o di erami he p ossono a v ere aratteristi he notev olmen te div erse da quelle indi ate qui.
-4.
-T ra quelli rip ortati sopra, quale dielettri o si pu o ritenere sia stato usato p er realizzare un ondensatore da
-4:7
-F
+4. Among those listed above, which dielectric material could be considered to have been used in the fabrication of a capacitor with capacitance $4.7\ \mu\text{F}$, able to withstand an operating voltage of $50\ \text{V}$, and having the shape of a small rectangular prism measuring $10 \times 10 \times 2\ \text{mm}^3$?
 
-he sopp orta una tensione di la v oro di
-50
-V ed ha la forma di un pi olo parallelepip edo di
-10
+Material produced by the group
 
-10
-
-2 mm
-3
-?
-Materiale pro dotto dal grupp o
-OLIMPIADI
-PROGETTO
-PROGETTO
-OLIMPIADI
-Segreteria
-Olimpiadi
-Italiane della
-Fisi a p resso
-Li eo
-S ienti o
-\U.
-Mo rin",
-MESTRE (VE)
-fax:
-041.584.1272 e-mail:
-olifis libero.it
-P ag.
-4 di
-4
+Secretariat of the Italian Physics Olympiad  
+at Liceo Scientifico “U. Morin”, MESTRE (VE)  
+fax: 041.584.1272 e-mail: olifis@libero.it
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)

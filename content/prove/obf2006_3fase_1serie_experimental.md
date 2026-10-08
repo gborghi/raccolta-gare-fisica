@@ -96,7 +96,7 @@ Consider $P_\text{arruela} = 0{,}11\ \text{N}$ and $P_\text{gancho} = 0{,}04\ \t
 4. With the rule, measure the hooks' distances (up to a millimeter) to the central hole: $d_1$ (side 1) and $d_2$ (side 2). Register in Table 1.
 5. Change the amounts of rows according to Table 1 and repeat steps 34.
 
-**Tabela 1**
+**Table 1**
 
 | $n^\circ$ arruelas (lado 1) | $d_1\ (\text{m})$ | $n^\circ$ arruelas (lado 2) | $d_2\ (\text{m})$ |
 |:---:|:---:|:---:|:---:|
@@ -190,7 +190,7 @@ $$F_2\, d_2 = \text{constante} \quad \Rightarrow \quad d_2 \propto \frac{1}{F_2}
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Procedimento experimental II — Verificação das condições de equilíbrio II**
+**Experimental procedure II — Verification of the equilibrium conditions II**
 
 1. Remove the hooks, but keep the hooks on the cross.
 2. Fix the hook on side 1 at $d_1 = 5{,}0\ \text{cm}$ of the centre hole and maintain this position throughout the sequence.
@@ -198,7 +198,7 @@ $$F_2\, d_2 = \text{constante} \quad \Rightarrow \quad d_2 \propto \frac{1}{F_2}
 4. Place 2 rows on the hook on side 2 and move it until horizontal balance is achieved; register $d_2$ in Table 2.
 5. Keeping 4 rows on side 1, repeat step 4 to 4, and then 6 rows on side 2.
 
-**Tabela 2**
+**Table 2**
 
 | $n^\circ$ arruelas (lado 1) | $d_1\ (\text{m})$ | $n^\circ$ arruelas (lado 2) | $d_2\ (\text{m})$ |
 |:---:|:---:|:---:|:---:|
@@ -302,7 +302,7 @@ dove $n_\text{arr}$ è il numero di rubriche, $P_\text{arr} = 0{,}11\ \text{N}$ 
 4. In the balance, measure: $d_1$ (distance from the hook of the rows to the central hole) and $d_2$ (distance from the hook of the punch to the central hole).
 5. Register in Table 3. Repeat the steps 34 plus twice with different amounts of rows.
 
-**Tabela 3**
+**Table 3**
 
 | $n^\circ$ arruelas colocadas | $d_1\ (\text{m})$ | $d_2\ (\text{m})$ |
 |:---:|:---:|:---:|

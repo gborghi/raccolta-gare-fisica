@@ -240,7 +240,7 @@ dN
 (d) depends on the
 The electron is the electron emitted by the electron by the transition period.
 of the order $d\simeq el$, where the elementary charge is) as well as the dielectric constant ε0 and the constant
-The Commission has not yet adopted a proposal for a regulation.
+of Planck h.
 
 Theory
 Q3-3
@@ -252,8 +252,8 @@ is k=16
 0.7pt
 B.4
 For the molecule Cy5, $d\approx2.4el$. Evaluate the average fluorescence duration of the fluorescent medium
-The cyclic cyclic rate of the cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic cyclic
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EC) No 1272/2009.
+lowest excited state of the Cy5 molecule, τCy5 which is the reciprocal of the rate of the
+its emissive transition to the ground state.
 0.2pt
 Part C. The total value of the input data shall be the sum of the input data.
 This part is not directly related to Parts A and B. We're going to study collective behavior here.
@@ -291,7 +291,7 @@ atomic mass equal to 87
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculations:
+**p.4** — Hexagonal lattice, vectors and energy surface
 ![[_attachments/exam-theory-Q3-italiano_2/exam-theory-Q3-italiano_2_p4_f2.png]]
 <!--fig:end-->
 

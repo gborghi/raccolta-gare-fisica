@@ -13,7 +13,7 @@ import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
-import { fixCompTitle } from "./scripts/comp-label.mjs"
+import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear } from "./scripts/comp-label.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -154,6 +154,7 @@ function sluggify(s) {
   ).join("/").replace(/\/$/, "")
 }
 const lookupStem = (map, target, h) => lookupStemRaw(map, target, h, sluggify)
+const topDirOf = (rel) => rel.split(path.sep)[0].toLowerCase()
 function slugFromRel(rel) {
   return sluggify(rel.replace(/\.md$/, "").split(path.sep).join("/"))
 }
@@ -238,7 +239,7 @@ function anchorSlug(s) {
 // with a lightweight placeholder div. Returns { newContent, items } or null.
 // Concept lists are big (a Skill can have 6000+) — moving them to JSON + client
 // pagination keeps the page HTML tiny and fast to load.
-function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLevel, stemYear) {
+function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus) {
   const lines = content.split(/\r?\n/)
   const firstBullet = lines.findIndex((l) => /^- \[\[/.test(l))
   if (firstBullet < 0) return null
@@ -249,7 +250,11 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     if (lines[k].startsWith("# ")) { head = k + 1; break }
   }
   const items = []
-  const RE = /^- \[\[([^\]|#]+)(#[^\]|]*)?(?:\|([^\]]*))?\]\]\s*(?:[—-]\s*(.*))?$/
+  let dropped = 0   // fuori_corpus rows left out (the note's own "**N** problemi" counts them)
+  // alias may itself contain a single "]" ("[CAP-HS 2017 National Prize Exam] · Problema
+  // 15"): with a plain [^\]]* those rows were dropped, so the table had fewer rows than
+  // the note's own count (Hydrostatic Equilibrium: 1130 in the note, 1121 in the table)
+  const RE = /^- \[\[([^\]|#]+)(#[^\]|]*)?(?:\|((?:[^\]]|\](?!\]))*))?\]\]\s*(?:[—-]\s*(.*))?$/
   for (let k = head; k < lines.length; k++) {
     const m = lines[k].match(RE)
     if (!m) continue
@@ -284,9 +289,20 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     // doubles to "prove/prove/<stem>#..." and 404s. Container pages emit at
     // prove/<stem-basename>, matching atomFrag's `prove/${stem}#${atomId}`.
     if (am && (dir === "prove" || dir == null)) h = `prove/${am[1].split("/").pop()}#${am[2]}`
+    // prova rows: same title rule as the prova pages (full competition name, missing
+    // year/level omitted: "Russia na · Problema 1" -> "Russia · Problema 1")
+    // notes marked `fuori_corpus: true` (chemistry/biology/informatics papers, the
+    // Hindi duplicate of INAO2024) keep their own page but not their cluster/topic
+    // assignments: no row in any concept list (whole prova, or that single atom)
+    if (outOfCorpus && (outOfCorpus.set.has(h.split("#")[0]) || outOfCorpus.set.has(h))) { outOfCorpus.rows++; dropped++; continue }
+    let label = (m[3] || target).trim()
+    if (h.startsWith("prove/")) {
+      const comp = lookupStem(stemComp, target, h) || {}
+      label = fixCompTitle(fillYear(label, comp.year), comp.code, comp.country, comp.fy)
+    }
     items.push({
       h,
-      l: (m[3] || target).trim(),
+      l: label,
       s: (m[4] || "").trim(),
       f: lookupStem(stemFlag, target, h),   // ISO-2 for flagcdn; "" -> globe
       c: lookupStem(stemCountry, target, h),
@@ -295,7 +311,8 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     })
   }
   if (!items.length) return null
-  const kept = lines.slice(0, head + 1).join("\n").replace(/\n+$/, "")
+  let kept = lines.slice(0, head + 1).join("\n").replace(/\n+$/, "")
+  if (dropped) kept = kept.replace(/\*\*(\d+)\*\*(\s*(?:problemi|quesiti)\b)/, (all, n, rest) => `**${Math.max(0, Number(n) - dropped)}**${rest}`)
   const newContent = kept + "\n\n<div class=\"paged-list\" data-src=\"__SRC__\" data-count=\"" + items.length + "\"></div>\n"
   return { newContent, items }
 }
@@ -491,6 +508,10 @@ async function main() {
   const stemCountry = {}   // stem -> English country name (tooltip on the flag column)
   const stemLevel = {}     // stem -> competition level (from `livello/<x>` tag, fallback frontmatter level)
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
+  const stemComp = {}      // stem -> { code, country } (frontmatter comp_code/country) for cl labels
+  const outOfCorpus = { set: new Set(), rows: 0 }   // prove/<slug>[#<atom>] of `fuori_corpus: true` notes
+  const provaHead = new Map() // prova stem-slug -> { head, source, meta } (see retitle)
+  const derivedYear = {}      // stem -> year derived from the source path when the vault says `year: na`
   // Bilingual: default-stem -> Map(lang -> {lang, body, mtime, rel}) hidden `secondary` translation siblings
   // (emitted by graphify-out/emit_siblings.py). Merged into their default quesito
   // page below; never emitted as their own page / indexed / graphed.
@@ -558,8 +579,43 @@ async function main() {
     if (!lv || lv === "''" || lv.toLowerCase() === "na") lv = deriveLevel(g("pdf"), stem, g("comp_code"))
     stemLevel[stem] = lv
     const yr = g("year")
-    stemYear[stem] = /^\d{4}$/.test(yr) ? yr : ""
+    // year missing (`na`): derived only from unambiguous source-path evidence (deriveYear)
+    const dy = /^\d{4}$/.test(yr) ? "" : deriveYear(g("comp_code"), g("pdf"))
+    if (dy) derivedYear[stem] = dy
+    stemYear[stem] = /^\d{4}$/.test(yr) ? yr : dy
+    if (/^true$/i.test(g("fuori_corpus")) && rel.split(path.sep)[0].toLowerCase() === "prove") {
+      const am = stem.match(/^(.*)__([A-Za-z0-9]+)$/)
+      outOfCorpus.set.add(am ? `prove/${sluggify(am[1])}#${am[2].toLowerCase()}` : `prove/${sluggify(stem)}`)
+    }
+    if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy, fy: dy || yr }
+    // prova parents: title head without the source-file segment, for retitle() below
+    if (rel.split(path.sep)[0].toLowerCase() === "prove" && !stem.includes("__")) {
+      const h1 = (raw.slice(fm[0].length).match(/^#\s+(.+?)\s*$/m) || [, ""])[1].trim()
+      const { title, source } = splitSourceName(h1)
+      provaHead.set(sluggify(stem), {
+        head: fixCompTitle(fillYear(title, dy), g("comp_code"), g("country"), dy || yr), source, meta: { code: g("comp_code"), year: dy || g("year") },
+      })
+    }
   }
+  // A title never shows the raw source file name ("OII 2015 2° Livello — 2liv15T Def.pdf",
+  // "… — 1lv98 (2 files merged).pdf"): the segment is dropped, and only when the remaining
+  // head is shared by another prova a clean label from the file name disambiguates
+  // ("India 2012 — INBO" / "India 2012 — INChO"). Slugs and page paths are unchanged.
+  const headCount = new Map()
+  for (const v of provaHead.values()) headCount.set(v.head, (headCount.get(v.head) || 0) + 1)
+  const provaLabel = new Map()   // stem-slug -> label ("" = none)
+  for (const [k, v] of provaHead)
+    if (v.source) provaLabel.set(k, headCount.get(v.head) > 1 ? headLabel(v.head, v.source, v.meta) : "")
+  const retitle = (t, stemSlug) => {
+    const { title, source } = splitSourceName(t)
+    if (!source) return t
+    const label = provaLabel.get(stemSlug) || ""
+    if (!label) return title
+    const parts = title.split(" — ")
+    parts.splice(1, 0, label)
+    return parts.join(" — ")
+  }
+
   // basename-slug -> folder-slug, so concept-list wikilinks resolve to the right
   // folder (Prove atoms vs Topics/Methods/Skills/Clusters notes). Mirrors Quartz's
   // "shortest" link resolution by last path segment.
@@ -639,8 +695,10 @@ async function main() {
         content = content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")
       }
     }
-    // full competition name instead of a 6-char cut comp_code ("Svizze 2011")
-    if (data.title && data.comp_code) data.title = fixCompTitle(data.title, data.comp_code, data.country)
+    // full competition name instead of a 6-char cut comp_code ("Svizze 2011"); a missing
+    // year/level (`na`, `''`) is omitted ("Russia na" -> "Russia"), with or without comp_code
+    if (data.title) data.title = fixCompTitle(fillYear(data.title, derivedYear[path.basename(rel, ".md")]), data.comp_code, data.country, derivedYear[path.basename(rel, ".md")] || data.year)
+    if (data.title && topDirOf(rel) === "prove") data.title = retitle(data.title, sluggify(path.basename(rel, ".md").split("__")[0]))
     let outContent = transform(content)
     // Big concept lists -> JSON + client pagination (tiny page HTML).
     const topDir = rel.split(path.sep)[0]
@@ -648,7 +706,7 @@ async function main() {
       // decorative concept icon (sober vector) at the top of the page, if one exists
       const iconFile = ICON_MANIFEST[path.basename(rel, ".md")]
       if (iconFile) outContent = `<img class="concept-icon" src="../static/concept-icons/${iconFile}" alt="" loading="lazy">\n\n` + outContent
-      const ex = extractConceptList(outContent, stemFlag, noteFolder, stemCountry, stemLevel, stemYear)
+      const ex = extractConceptList(outContent, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus)
       if (ex) {
         const srcRel = "cl/" + clIdx + ".json"
         await fs.writeFile(path.join(CL_DIR, clIdx + ".json"), JSON.stringify(ex.items))
@@ -682,10 +740,12 @@ async function main() {
       // (Task 6.4, Part B) -- avoids re-running metaLinks()/tagVal() twice.
       const topicsV = metaLinks(content, "Topic")
       const objectsV = metaLinks(content, "Objects")
-      const levelV = data.level ? String(data.level) : ""
+      // missing year/level: the vault writes `na` (year) or `''`; never shown as a value
+      const noVal = (v) => ["", "na", "''"].includes(String(v ?? "").trim().toLowerCase())
+      const levelV = noVal(data.level) ? "" : String(data.level)
       const difficoltaV = tagVal(tags, "difficolta/")
       const tipoGaraV = tagVal(tags, "tipo-gara/")
-      const yearV = data.year ?? ""
+      const yearV = noVal(data.year) ? (derivedYear[path.basename(rel, ".md")] || "") : data.year
       const countryV = data.country ?? ""
       const compCodeV = data.comp_code ?? ""
       quesiti.push({
@@ -736,7 +796,7 @@ async function main() {
       if (pf.data.title) title = pf.data.title
       const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       if (!pf.data.title && h1) title = h1[1].trim()
-      title = fixCompTitle(title, pf.data.comp_code, pf.data.country)
+      title = fixCompTitle(fillYear(title, derivedYear[path.basename(parentRel, ".md")]), pf.data.comp_code, pf.data.country, derivedYear[path.basename(parentRel, ".md")] || pf.data.year)
       if (Array.isArray(pf.data.tags)) ptags = pf.data.tags
     }
     const blocks = []
@@ -746,7 +806,8 @@ async function main() {
       // atom title: frontmatter title, else atom body's own H1 (captured before
       // it's stripped below), else fall back to the raw atomId.
       const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
-      const atomTitle = fixCompTitle(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), pf.data.comp_code, pf.data.country)
+      const atomYear = derivedYear[a.base] || (parentRel ? derivedYear[path.basename(parentRel, ".md")] : "")
+      const atomTitle = retitle(fixCompTitle(fillYear(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), atomYear), pf.data.comp_code, pf.data.country, atomYear || pf.data.year), stemSlug)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)
@@ -774,10 +835,11 @@ async function main() {
     }
     const mount = `<div class="atom-reader" data-prova="${esc(stemSlug)}"></div>\n`
     // parent without comp_code/country: fix its title from the first atom's
-    if (atoms.length && title === fixCompTitle(title, "", "")) {
+    if (atoms.length && title === fixCompCode(title, "", "")) {
       const first = parseFrontmatter(await fs.readFile(vaultPath(atoms[0].rel), "utf8")).data
-      title = fixCompTitle(title, first.comp_code, first.country)
+      title = fixCompTitle(title, first.comp_code, first.country, first.year)
     }
+    title = retitle(fixCompTitle(title, "", ""), stemSlug)   // no parent / no comp_code: still drop `na` / `''`
     const data = { title, tipo: "prova", tags: ptags }
     const body = mount + "\n\n" + blocks.join("\n\n")
     const dest = path.join(CONTENT, "prove", `${stemSlug}.md`)
@@ -918,5 +980,8 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
 
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists, merged ${sibStats.merged} translation siblings (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`)
+  console.log(`translation back-links [[<translation_of>]] dropped: ${sibStats.backlinkBlocks} blocks, ${sibStats.backlinkLines} lines (${sibStats.backlinkNew} blocks changed vs the trailing-only rule)`)
+  console.log(`fuori_corpus notes: ${outOfCorpus.set.size} (prove/atoms), ${outOfCorpus.rows} concept-list rows dropped`)
+  console.log(`source file names dropped from ${provaLabel.size} prova titles (${[...provaLabel.values()].filter(Boolean).length} with a clean label)`)
 }
 main()

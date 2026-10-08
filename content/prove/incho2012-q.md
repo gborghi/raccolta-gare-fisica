@@ -17,7 +17,7 @@ tags:
   - cluster/Fisica Moderna
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (chimica)
-title: India 2012 — incho2012-Q.pdf
+title: India 2012 — INChO
 ---
 
 

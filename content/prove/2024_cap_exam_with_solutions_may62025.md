@@ -16,7 +16,7 @@ tags:
   - paese/Canada
   - comp/CAP
   - cluster/Meccanica
-title: CAP 2024 Nazionale — 2024_CAP_Exam_with_solutions_May62025.pdf
+title: CAP 2024 Nazionale
 ---
 
 

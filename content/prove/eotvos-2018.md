@@ -1,5 +1,5 @@
 ---
-title: Russia 2018
+title: Hungary 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2018 — Quesito 1" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Meccanica,object/bubble,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Hungary 2018 — Quesito 1" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Meccanica,object/bubble,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -48,7 +48,7 @@ della bolla. La tensione superficiale dell'acqua è $\alpha = 0.07\ \text{N/m}$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2018 — Quesito 2" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Meccanica,object/tank-container,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Hungary 2018 — Quesito 2" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Meccanica,object/tank-container,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,7 +85,7 @@ la conduzione del serbatoio!)
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2018 — Quesito 3" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Meccanica,object/solenoid,object/cylinder"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Hungary 2018 — Quesito 3" data-tags="kg/prova,paese/Hungary,comp/Hungary,cluster/Meccanica,object/solenoid,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII 2005 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/onde-e-oscillazioni,object/mirror"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2005 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/onde-e-oscillazioni,object/mirror"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -44,7 +44,7 @@ Can you explain it? In the explanation you can consider the mirror flat in a sig
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/geometric-optics,topic/rotational-dynamics,topic/conservation-of-energy,argomento/onde-e-oscillazioni,object/mirror,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2005 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/geometric-optics,topic/rotational-dynamics,topic/conservation-of-energy,argomento/onde-e-oscillazioni,object/mirror,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -107,7 +107,7 @@ $$E_1/E_2 = 5/2$$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/mirror,object/sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2005 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/mirror,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +138,7 @@ They can consider it isocrone. How much is the duration of these oscillations?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/rotational-dynamics,argomento/onde-e-oscillazioni,object/pendulum,object/mirror,object/sphere"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2005 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/rotational-dynamics,argomento/onde-e-oscillazioni,object/pendulum,object/mirror,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -173,7 +173,7 @@ Different? How do you explain their equality or their diversity?
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/conservation-of-energy,argomento/onde-e-oscillazioni,object/mirror,object/sphere"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2005 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/conservation-of-energy,argomento/onde-e-oscillazioni,object/mirror,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

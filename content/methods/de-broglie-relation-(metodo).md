@@ -9,7 +9,7 @@ tags:
 
 
 
-*Method* — **62** problemi/quesiti.
+*Method* — **60** problemi/quesiti.
 
 ## Problemi e quesiti
 

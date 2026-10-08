@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII 2007 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/elasticity-e-materials,topic/oscillations-e-waves,argomento/meccanica,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2007 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/newtonian-mechanics,topic/elasticity-e-materials,topic/oscillations-e-waves,argomento/meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -554,7 +554,7 @@ The two are joined without stretching.1
 It's better to count the spires first.
 The first is to deform the latter to make the
 Hook, as recommended
-The Commission has already taken a number of measures to ensure that the
+in the text; one can appreciate up to
 a quarter or a fifth of a spire.
 Total number of spires
 It'll be used to find the mass of the spring.
@@ -595,12 +595,12 @@ Notwithstanding the provisions of this Article,
 N-third spiral
 Metro of
 paper
-The following is the list of the following:
+Figure 1
 Other axes
 y
 
 2
-The following table shows the following:
+Table I
 
 with weight: mass of 12 round 1 = 38,2 g; mass of 12 round 2 = 42,7 g; mass of spring = 103,62 g
 Number n
@@ -626,7 +626,7 @@ $\Delta y$
 (Rounds 2)
 (mm)
 
-The following is the list of the official languages of the European Union:
+Uncertainty (mm)
 $\pm$ 0,5
 $\pm$ 0,5
 $\pm$ 0,5
@@ -987,7 +987,7 @@ Example of results for a spring of mass 103,62 g (measured by weight), and 87,5 
 The following procedure (I):
 
 From the y positions the lengths $\Delta y$ (= elongation + thickness) of each individual spire or of groups of spires are obtained
-The following is the list of the following: 5 spires) for both the discharge spring and the spring loaded with 12 cylinders
+consecutive (e.g. 5 turns) both for the unloaded spring and for the spring loaded with 12 washers. Using the same axes, the
 
 3
 two graphs of length $\Delta y$ according to the number n of underlying spires and the figure suggests how to count these
@@ -1014,7 +1014,7 @@ Or with the calculator, you do the two linear regressions of $\Delta y$ as a fun
 The result is unique if the lines are parallel, that is, if B1 = B0.
 
 I'll give you an example.
-The following is the list of the following:
+Spring unloaded : A0 = -2.5627 ; B0 = 0.30115
 Loaded bag with type 1: A1 = 6,8088; B1 = 0,28864
 (Low load with type 2 and type 3 swirls; A2 = 7,9126; B2 = 0,2880; A3 = 7,157; B3 = 0,3037)
 

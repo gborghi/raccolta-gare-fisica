@@ -7523,48 +7523,48 @@ OAF 2011 - 41
 
 **Anello e asse**
 
-PT42. Scuola Nicola Avellaneda 
- 
-Scuola media di Rio Chico 
- 
-Scuola di istruzione integrale Sarmiento 
-Aguilares  Río Chico  Juan Bautista Alberdi 
-Provincia di Tucumán. 
- 
-In un laboratorio di ferro si deve mettere un anello di alluminio su un asse di rame.
-Il sistema di controllo delle macchine è stato sviluppato in modo che il sistema di controllo delle macchine di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di controllo di.
-deve conferire molta sicurezza. In questo caso , i tecnici scelgono di usare
-un anello di diametro inferiore all'asse. 
-L'asse è cilindrico di 5,05 cm di diametro a 20°C e l'anello è di latone.
-construito in alluminio- ha un diametro interno di 5,00 cm a temperatura uguale 
-e una massa di 40 grammi. 
-a) a che temperatura deve essere riscaldato l'alluminio per far entrare il
-- L'asse? 
-Nota: si tenga conto delle costanti fisiche che si registrano alla fine del 
-- La frase. 
-b) Determina la densità dell'alluminio a quella temperatura. (si no 
-Se non è possibile risolvere il punto precedente, si utilizza la temperatura di fusione). 
-(c) Calcolare il calore necessario per aumentare la temperatura dell'alluminio, 
-ottenuto in a). 
-d) a che temperatura devono essere sollevate le due metalli, in modo che l'anello 
-- Si può scivolare dentro sull'asse? (Visto che si riscaldano in forma)
-(Sito di cui al capitolo 1. 
-(e) Dal punto di vista fisico è possibile il procedimento di cui al punto (a) 
-e del punto d)? giustifica la risposta. 
-f) Il lavoratore che si occupa del forno, lo prepara per aumentare la produzione.
-Temperatura dell ' alluminio in circa 2 . 103 K. Determina la quantità di 
+PT42. Scuola Nicolás Avellaneda
+
+  Scuola Media di Río Chico
+
+  Scuola di Educazione Integrale Sarmiento
+  Aguilares – Río Chico – Juan Bautista Alberdi
+  Provincia di Tucumán.
+
+In un'officina di fabbro si deve collocare un anello di alluminio su un asse di ottone
+che sostiene pezzi che ruotano ad alti numeri di giri; per tale motivo l'incastro
+deve conferire molta sicurezza. Di fronte a questa situazione i tecnici optano per usare
+un anello di un diametro inferiore all'asse.
+L'asse –costruito in ottone- è cilindrico di 5,05cm di diametro a 20°C e l'anello
+–costruito in alluminio- ha un diametro interno di 5,00cm alla stessa temperatura
+e una massa di 40g.
+a) a quale temperatura si deve riscaldare l'alluminio, affinché entri nell'
+asse? 
+Nota: tenere conto delle costanti fisiche che sono indicate alla fine del
+testo.
+b) Determinare la densità che avrà l'alluminio a quella temperatura. (se non
+si è potuto risolvere il punto precedente, utilizzare la temperatura di fusione).
+c) Calcolare il calore necessario per aumentare la temperatura dell'alluminio,
+ottenuta in a).
+d) a quale temperatura si devono elevare entrambi i metalli, affinché l'anello
+si possa far scorrere dentro l'asse? (Cioè si riscaldano in forma
+simultanea entrambi i metalli).
+e) Dal punto di vista fisico è possibile il procedimento del punto a)
+e del punto d)? Giustificare la risposta.
+f) L'operaio che sorveglia il forno, lo prepara per incrementare la
+temperatura dell'alluminio di circa 2 . 103 K. Determinare la quantità di
 calore che fornirà in questo processo. 
  
-Costanti fisiche: 
-Coefficiente di espansione lineare del latone L = 0,000019°C-1. 
-Datos dell'alluminio: 
-Coefficiente di espansione lineare di Al = 0,000024°C-1. 
-Densità a 0°C  = 2700kg/m3. 
-Calore specifico in stato solido: CE= 0,215 cal/g °C 
-Punto di fusione 600°C - Punto di ebollizione: 2.450°C. 
-Calore di fusione CF = 3,97 . 105 J/Kg 
-Calore di vaporizzazione Cv = 1,14 . 107 J/Kg  
-Calore specifico in stato liquido 400J/Kg K 
+Costanti Fisiche:
+Coefficiente di dilatazione lineare dell'ottone  L = 0,000019°C-1.
+Dati dell'alluminio:
+Coefficiente di dilatazione lineare dell'Al = 0,000024°C-1.
+Densità a 0°C  = 2700kg/m3.
+Calore specifico allo stato solido:  CE= 0,215cal/g °C
+Punto di fusione 600°C - Punto di ebollizione: 2.450°C.
+Calore di fusione CF = 3,97 . 105 J/Kg
+Calore di vaporizzazione Cv= 1,14 . 107 J/Kg
+Calore specifico allo stato liquido 400J/Kg K
 R 
 12 kΩ 
 12 V 
@@ -7576,7 +7576,7 @@ R
 A 
 V 
 
- 
+
 OAF 2011 - 41
 
 **Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
@@ -7587,50 +7587,48 @@ OAF 2011 - 41
 
 <div class="qlang-split" data-lang="en"></div>
 
-The value of the underlying assets shall be reported in the relevant information document.
+**Ring and shaft**
 
-PT42. School of Nicholas Avellaneda 
+PT42. Nicolás Avellaneda School
+
+  Río Chico Middle School
+
+  Sarmiento Comprehensive Education School
+  Aguilares – Río Chico – Juan Bautista Alberdi
+  Province of Tucumán.
+
+In a blacksmith's workshop, an aluminum ring must be fitted onto a brass shaft
+that supports parts rotating at high revolutions; for this reason the fit
+must provide great safety. Faced with this situation, the technicians choose to use
+a ring with a diameter smaller than the shaft.
+The shaft –made of brass– is cylindrical, 5.05 cm in diameter at 20°C, and the ring
+–made of aluminum– has an internal diameter of 5.00 cm at the same temperature
+and a mass of 40 g.
+a) At what temperature must the aluminum be heated, so that it fits into the
+shaft? 
+Note: take into account the physical constants given at the end of the
+statement.
+b) Determine the density that the aluminum will have at that temperature. (If you could not solve the previous point, use the melting temperature).
+c) Calculate the heat necessary to increase the temperature of the aluminum,
+obtained in a).
+d) At what temperature must both metals be raised, so that the ring
+can slide inside the shaft? (That is, both metals are heated simultaneously).
+e) From the physical point of view, is the procedure of point a)
+and of point d) possible? Justify the answer.
+f) The worker who tends the furnace prepares it to increase the
+temperature of the aluminum by about 2 . 103 K. Determine the amount of
+heat that will be delivered in this process. 
  
-Rio Chico High School 
- 
-The school of comprehensive education Sarmiento 
-The first is the "Rio Chico"
-Province of Tucumán. 
- 
-In a blacksmith shop, an aluminum ring should be placed on a brass axis.
-The main purpose of the system is to support high-velocity rotating parts.
-It should give you a lot of security. In this situation , technicians choose to use
-a ring of a diameter less than the axis. 
-The axis built in brass- is cylindrical with a diameter of 5.05 cm at 20°C and the ring 
-built in aluminium- has an internal diameter of 5,00cm at the same temperature 
-and a 40g mass. 
-(a) at what temperature the aluminium must be heated to enter the
-Axis? 
-Note: take into account the physical constants recorded at the end of the year 
-The statement. 
-(b) Determine the density of aluminium at that temperature. (si no 
-You can solve the previous point, use the melting temperature. 
-(c) Calculate the heat required to increase the temperature of the aluminium, 
-obtained from a). 
-(d) at what temperature both metals must be raised, so that the ring 
-Can you slide in on the shaft? (I mean they heat up in shape 
-simultaneously both metals). 
-(e) Is the procedure under (a) physically possible?
-and point (d)? Justify the answer. 
-(f) The worker who works in the oven prepares it to increase the quantity of the oven.
-Aluminum temperature in about 2 . 103 K. Determine the amount of 
-heat that will deliver in this process. 
- 
-Physical constants: 
-The brass linear expansion coefficient L = 0,000019°C-1. 
-Aluminium data: 
-The coefficient of linear expansion of Al = 0,000024°C-1. 
-The following is the list of the types of products that are used in the manufacture of the product: 
-The heat content of the product shall be determined by the following formulae:
-The following is the list of the products of the product concerned: 
-Heat of fusion CF = 3.97 . 105 J/Kg 
-Heat of vaporization Cv = 1.14 . 107 J/Kg  
-Specific heat in liquid state 400J/Kg K 
+Physical Constants:
+Coefficient of linear expansion of brass  ⟦L⟧ = 0.000019°C-1.
+Aluminium data:
+Coefficient of linear expansion of ⟦Al⟧ = 0.000024°C-1.
+Density at 0°C ⟦⟧ = 2700kg/m3.
+Specific heat in solid state:  CE= 0.215cal/g °C
+Melting point 600°C - Boiling point: 2,450°C.
+Heat of fusion CF = 3.97 . 105 J/Kg
+Heat of vaporization Cv= 1.14 . 107 J/Kg
+Specific heat in liquid state 400J/Kg K
 R 
 12 kΩ 
 12 V 
@@ -7642,8 +7640,8 @@ R
 A 
 V 
 
- 
-The following is the list of the countries of the European Union:
+
+OAF 2011 - 41
 
 **Topic:** [[Thermodynamics]], [[Elasticity & Materials]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]

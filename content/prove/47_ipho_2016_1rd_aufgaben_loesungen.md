@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Germania/Rund1/47_IPhO_2016_1Rd_Aufgaben_Loesungen.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE 2016 Round 1] — 47_IPhO_2016_1Rd_Aufgaben_Loesungen.pdf'
+title: '[IPhO-DE 2016 Round 1]'
 ---
 
 

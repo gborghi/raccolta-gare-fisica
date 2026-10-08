@@ -134,7 +134,7 @@ Determina:
 - **D** Disegna un diagramma P x V di questo processo. (7, punti)
 3
 
-La Commissione ha adottato una decisione che prevede che il programma di valutazione dei rischi di cui all'articolo 1, paragrafo 1, del regolamento (UE) n.
+Valutazione Teorica I Selezione Finale 2016
 Olimpiadi Internazionali di Fisica
 12 aprile 2016
 
@@ -162,9 +162,9 @@ Determine:
 - **D** Draw a diagram P x V of this process. (Seven points)
 3
 
-The following is the list of the countries of the European Union and the European Union:
+Theoretical Assessment I Final Selection 2016
 International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+April 12, 2016
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]]

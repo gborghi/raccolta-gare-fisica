@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2015 — Prova NÃviel3 OBF 2015 fase2.pdf
+title: OBF 2015 — Fase 2 · Livello 3
 ---
 
 

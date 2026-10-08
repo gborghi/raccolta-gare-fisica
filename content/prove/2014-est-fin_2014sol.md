@@ -15,7 +15,7 @@ tags:
   - paese/Nordic-Baltic
   - comp/Nordic
   - cluster/Meccanica
-title: Nordic-Baltic 2014 — 2014 est-fin_2014sol.pdf
+title: Nordic-Baltic 2014
 ---
 
 

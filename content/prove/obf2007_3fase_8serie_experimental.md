@@ -86,7 +86,7 @@ Repeat the procedure using the 60 cm and 90 cm length pendulum and note the resu
 
 > ** Important note: ** You should make the angle $\theta$ as small as possible.
 
-**Registro dos dados experimentais I**
+**Experimental data record I**
 
 | Comprimento do pêndulo | $t_1$ (s) | $t_2$ (s) | $t_3$ (s) |
 |---|---|---|---|
@@ -183,7 +183,7 @@ L'obiettivo di questo procedimento è di verificare se il periodo $T$ dipende da
 
 (c) Copy in the table below the data from the previous table (Experimental Data Record I) for the length $l = 90\,\text{cm}$ (one row).
 
-**Registro dos dados experimentais II**
+**Experimental data record II**
 
 | Comprimento do pêndulo | $t_1$ (s) | $t_2$ (s) | $t_3$ (s) |
 |---|---|---|---|

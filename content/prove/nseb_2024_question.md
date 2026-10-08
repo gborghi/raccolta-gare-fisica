@@ -12,7 +12,7 @@ tags:
   - kg/prova
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2024 — NSEB_2024_Question.pdf
+title: India 2024 — NSEB
 ---
 
 

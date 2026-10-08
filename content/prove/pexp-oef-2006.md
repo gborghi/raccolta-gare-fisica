@@ -234,7 +234,7 @@ Combinando i pesi in modo appropriato si può ottenere una serie di masse cresce
 
 **Experimental test  Characteristics of a small engine.**
 
-**Objetivo y fundamento.**
+**Objective and background.**
 
 It is a question of determining some characteristics of a small DC motor, of the type used in toy trade.
 
@@ -244,7 +244,7 @@ From an energy standpoint, the motor receives electrical energy by the current p
 
 While the theoretical basis is simple, practical realization is subject to a large number of conditions, including the geometry of the set, to optimize its characteristics, especially its energy performance.
 
-**Materiales suministrados.**
+**Materials provided.**
 
 - It's a direct current engine.
 - Motor pulley (pressurised on the motor axle). Its diameter is $6{,}0 \pm 0{,}1$ mm.

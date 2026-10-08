@@ -1,5 +1,5 @@
 ---
-title: Russia 2020
+title: Azerbaijan 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2020 — Quesito 1" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/battery,object/resistor,object/capacitor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Azerbaijan 2020 — Quesito 1" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/battery,object/resistor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,7 +58,7 @@ Figura 1: Problema 1
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2020 — Quesito 2" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/gas,object/heat-engine"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Azerbaijan 2020 — Quesito 2" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/gas,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -105,7 +105,7 @@ Figura 2: Problema 2
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2020 — Quesito 3" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Azerbaijan 2020 — Quesito 3" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,7 +150,7 @@ Figura 3: Problema 3
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2020 — Quesito 4" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/nucleus"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Azerbaijan 2020 — Quesito 4" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -181,7 +181,7 @@ massa della nuova particella. (Ricorda che $m_p$ è la massa di riposo del proto
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2020 — Quesito 5" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/planet"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Azerbaijan 2020 — Quesito 5" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Termodinamica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

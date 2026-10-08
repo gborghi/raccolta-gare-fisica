@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Germania/Rund1/54_IPhO_2024_1Rd_Aufgaben_Loesungen.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE 2024 Round 1] — 54_IPhO_2024_1Rd_Aufgaben_Loesungen.pdf'
+title: '[IPhO-DE 2024 Round 1]'
 ---
 
 

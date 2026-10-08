@@ -436,26 +436,10 @@ A baixa de 45,0 cm.
 <div class="qlang-split" data-lang="it"></div>
 
 Domanda 8.
-Em
-Una
-officina
-si utilizza
-um
-dispositivo
-- Un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta, un'altra volta,
-Il dispositivo è costituito da due pistoni che sono
-a) di un'azionistica di cui all'articolo 2, paragrafo 1, del regolamento (UE) n.
-figura, fuori scala, accanto. L'olio può essere
-visto come agente che trasmette e moltiplica
-la forza di intensità FA applicata al pistone A
-che viene usata per sollevare un carico molto più alto
-pesante (più di FA) che viene inserita
-sulla piattaforma B.
-Sapendo che i cilindri con pistoni A e B hanno rispettivamente raggi rA = 10,0 cm
-e rB = 60,0 cm, determina la variazione di altezza $\Delta h$ della piattaforma B, in cm, quando il cilindro
-Il basso di 45 centimetri.
-(L'olio può essere considerato una sostanza incompressibile, cioè ha una densità costante.)
-4
+In un'officina si utilizza un dispositivo idraulico per sollevare alcuni pezzi.
+Il dispositivo è formato da due pistoni accoppiati a cilindri comunicanti riempiti di olio, come illustrato nella figura accanto (non in scala). L'olio può essere visto come l'agente che trasmette e moltiplica la forza di intensità FA applicata al pistone A, usata per sollevare un carico molto più pesante (con peso maggiore di FA) posto sulla piattaforma B.
+Sapendo che i cilindri accoppiati ai pistoni A e B hanno rispettivamente raggi rA = 10,0 cm e rB = 60,0 cm, determina la variazione di altezza $\Delta h$ della piattaforma B, in cm, quando il cilindro A si abbassa di 45,0 cm.
+(L'olio può essere considerato una sostanza incompressibile, cioè con densità costante.)
 
 **Topic:** [[Fluid Mechanics]]
 **Metodi:** [[Continuity Equation (metodo)|Continuity Equation]], [[Hydrostatic Equilibrium (metodo)|Hydrostatic Equilibrium]]

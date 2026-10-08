@@ -180,9 +180,9 @@ L'equazione (1) indica che $T$ è atteso proporzionale a $L^{1/2}$. Immaginate o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba experimental. Determination of the copper cutting module.**
+**Experimental test. Determination of the copper cutting module.**
 
-**Objetivo**
+**Objective**
 
 The cutting module (also called cutting, rigidity or transverse elasticity) is a constant of each elastic material that characterizes the deformation that the material undergoes when subjected to cutting stress, i.e. applied in a tangent direction to the surface on which it acts.
 
@@ -199,7 +199,7 @@ The main objective of this test is to experimentally determine the copper shear 
 - It's a timekeeper.
 - It's a caliber.
 
-**Modelo teórico**
+**Theoretical model**
 
 It is shown that for small torsional deformations of the yarn, the oscillation period of a torsion pendulum, $T$, is given by
 
@@ -211,7 +211,7 @@ $$I = \frac{M}{4}\left(r_1^2 + r_2^2\right) \quad (2)$$
 
 where $M$ is the mass of the claw, and $r_1$ and $r_2$ are its inner and outer radii (Figure 1).
 
-**Procedimiento experimental**
+**Experimental procedure**
 
 *Determinación de $I$.*
 

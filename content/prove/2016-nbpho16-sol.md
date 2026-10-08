@@ -15,7 +15,7 @@ tags:
   - paese/Nordic-Baltic
   - comp/BPhO
   - cluster/Meccanica
-title: BPhO 2016 — 2016 NBPhO16-sol.pdf
+title: BPhO 2016 — Soluzioni
 ---
 
 

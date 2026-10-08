@@ -16,7 +16,7 @@ tags:
   - paese/Deutschland
   - comp/IPhO-DE-2Rd-2018
   - cluster/Fluidi
-title: IPhO-DE-2Rd-2018 2018 Round 2 — 49_IPhO_2018_2Rd_Aufgaben_Loesungen_web.pdf
+title: IPhO-DE-2Rd-2018 2018 Round 2
 ---
 
 

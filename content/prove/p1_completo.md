@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/droplet,object/sphere"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/droplet,object/sphere"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -134,7 +134,7 @@ The tower of Perdigones of Seville, 58 m
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -195,7 +195,7 @@ where $\rho_a$ is the density of the air and $R$ the radius of the perdigon.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -256,7 +256,7 @@ $$F_r = \frac{1}{4}\pi R^2 \rho_a v^2$$
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna na — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -347,7 +347,7 @@ $$V = \frac{v_0 + v_L}{2} = \frac{v_L}{2}, \qquad T = \frac{T_i + T_f}{2}$$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna na — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/sphere,object/droplet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

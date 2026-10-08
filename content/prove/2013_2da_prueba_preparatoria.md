@@ -356,7 +356,7 @@ The heat flow emitted by the candle in the direction of its (vertical) axis can 
 
 The water produced by the melting of the ice is collected in the syringe and its volume $V_a$ is determined. Determining $V_a$ by time $t$ and knowing the latent heat of the ice ($80\ \text{cal/g}$), the amount of energy per unit of time (power) that has reached the ice from the sail can be estimated.
 
-**Consignas**
+**Tasks**
 
 (a) State some of the hypotheses which have been made in the previous description and which have not been explicitly stated. Some involve the plate and relate to its dimensions. Other factors related to ambient temperature, ice, water.
 

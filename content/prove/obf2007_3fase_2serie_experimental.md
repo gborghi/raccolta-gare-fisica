@@ -184,7 +184,7 @@ where $\ell$ is the position of the 'person' along the ladder (measured from the
 
 ---
 
-**Material experimental fornecido:**
+**Experimental material provided:**
 
 - A galvanized L-shaped steel profile (simulated to a vertical wall);
 - A piece of wood coated as a base (simulated 'floor'  two sides: smooth and rough);
@@ -195,7 +195,7 @@ where $\ell$ is the position of the 'person' along the ladder (measured from the
 
 ---
 
-**Procedimento experimental I:**
+**Experimental procedure I:**
 
 1. Measure with the rule the length $L$ of the 'staircase' and the lengths $\ell_i$ ($i=1,2,3,4$) of each hole at the foot of the staircase. Record the values.
 
@@ -205,7 +205,7 @@ where $\ell$ is the position of the 'person' along the ladder (measured from the
 
 4. Turn the plate by placing the **sharp side ** upwards and repeat the procedure, obtaining four more pairs $(x_{0i},\, y_{0i})$.
 
-**Dados fornecidos:**
+**Data provided:**
 
 ♪ Greatness and Value ♪
 |---|---|
@@ -216,7 +216,7 @@ where $\ell$ is the position of the 'person' along the ladder (measured from the
 
 ---
 
-**Procedimento experimental II:**
+**Experimental procedure II:**
 
 With the **rule hanging ** on the "staircase" by the hook (instead of a crepe-tape grip), repeat Procedure I for the four holes, using only the ** smooth ** side of the base as the "floor". For each hole, record the values of $x_0$ and $y_0$.
 

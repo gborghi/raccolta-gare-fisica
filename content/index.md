@@ -14,7 +14,7 @@ title: Raccolta Gare di Fisica
 </a>
 </div>
 <div class="home-stats">
-<div class="home-stat home-stat--accent"><div class="home-stat-n">16898</div><div class="home-stat-l">quesiti classificati</div></div>
+<div class="home-stat home-stat--accent"><div class="home-stat-n">16892</div><div class="home-stat-l">quesiti classificati</div></div>
 <div class="home-stat"><div class="home-stat-n">1302</div><div class="home-stat-l">prove atomizzate</div></div>
 <div class="home-stat"><div class="home-stat-n">8</div><div class="home-stat-l">aree tematiche</div></div>
 <div class="home-stat"><div class="home-stat-n">40+</div><div class="home-stat-l">enti e paesi</div></div>
@@ -38,7 +38,7 @@ title: Raccolta Gare di Fisica
 <section class="home-section">
 <div class="home-section-head"><h2>Modi di esplorare</h2></div>
 <div class="home-modes">
-<a class="home-mode home-mode--graph" href="cerca"><div class="home-mode-k">Ricerca</div><div class="home-mode-t">Ricerca per più tag</div><div class="home-mode-d">Filtra i 16898 quesiti combinando gara, anno, livello, difficoltà, area, argomento, metodo e abilità.</div></a>
+<a class="home-mode home-mode--graph" href="cerca"><div class="home-mode-k">Ricerca</div><div class="home-mode-t">Ricerca per più tag</div><div class="home-mode-d">Filtra i 16892 quesiti combinando gara, anno, livello, difficoltà, area, argomento, metodo e abilità.</div></a>
 <a class="home-mode" href="topics"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Argomenti</div><div class="home-mode-d">Naviga per argomento fisico specifico, dal generale al particolare.</div></a>
 <a class="home-mode" href="methods"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Metodi risolutivi</div><div class="home-mode-d">Le tecniche e le strategie ricorrenti per risolvere i problemi.</div></a>
 <a class="home-mode" href="skills"><div class="home-mode-k">Concetti</div><div class="home-mode-t">Abilità</div><div class="home-mode-d">Le competenze allenate da ciascun quesito.</div></a>

@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII 2026 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2026 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -76,7 +76,7 @@ Determine the value of the coefficients $c_i$ that characterize the oscillations
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2026 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -121,7 +121,7 @@ Performs the period measurements necessary to find the $c_2 = f_1(d)$ function. 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2026 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -158,7 +158,7 @@ Set the $\ell_z$ value set in Q.1.2, and using the information thus obtained, de
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2026 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -203,7 +203,7 @@ It shall check the formula (2) by arranging the apparatus so that $L = (40{,}0 \
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2026 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -248,7 +248,7 @@ Start the system by moving the pilot pendulum from its resting position while ke
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2026 Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -307,7 +307,7 @@ Transform the formula (3) to obtain an equation of the type $\omega_f^2 = f_3(R)
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2026 Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

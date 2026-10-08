@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/battery,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -268,7 +268,7 @@ $$V_n = T^n V_0 \quad (3)$$
 
 The experimental system consists of two circuits: the first is made up of a stack, a resistor and an LED that acts as a light emitting device; the second is another LED that acts as a photodetector, connected to a polymer in the function of voltmeter (Fig. 3). The two circuits are optically coupled by a tube with a transverse groove where the filters are placed (Fig. 4).
 
-**Primer procedimiento para determinar $T$.**
+**First procedure to determine $T$.**
 
 Without any filter in the tube groove ($n = 0$) enter the value indicated by the voltmeter, $V_0$. Place a filter in the slot ($n = 1$) and take the measurement of the voltmeter, $V_1$. Add a second filter ($n = 2$) and measure $V_2$, etc., until all eight filters are accumulated in the slot. The data is presented in a table with columns: N° of filters $n$, $V_n$ (mV), function of $V_n$, $V_{n+1}/V_n$. (2 p.)
 
@@ -368,7 +368,7 @@ Without any filter in the tube groove ($n = 0$) enter the value indicated by the
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -417,7 +417,7 @@ for the purpose of deriving a linear dependence between a function of $V_n$ and 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -454,7 +454,7 @@ Write down the values of that $V_n$ function in the third column of the table ab
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna na — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -491,7 +491,7 @@ Graphically represent the points corresponding to the expected linear dependence
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna na — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -546,7 +546,7 @@ Therefore the slope is $p = \ln T$, and the transmittance is $T = e^p$.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna na — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -595,7 +595,7 @@ $$\Delta T = \frac{T_\mathrm{max} - T_\mathrm{min}}{2}$$
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna na — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -650,7 +650,7 @@ Applying (4) to consecutive pairs of its nine measurements $V_0, V_1 \ldots V_8$
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna na — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

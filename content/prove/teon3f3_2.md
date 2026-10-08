@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Elettromagnetismo
-title: Brasile 2016 — TeoN3f3.pdf
+title: Brasile 2016 — Fase 3 · Livello 3 · Teorica
 ---
 
 

@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Germania/Rund2/46_IPhO_2015_2Rd_Aufgaben_Loesungen.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE 2015 Round 2] — 46_IPhO_2015_2Rd_Aufgaben_Loesungen.pdf'
+title: '[IPhO-DE 2015 Round 2]'
 ---
 
 

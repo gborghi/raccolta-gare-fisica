@@ -9,7 +9,7 @@ tags:
 
 
 
-*Topic* — **1079** problemi/quesiti.
+*Topic* — **1069** problemi/quesiti.
 
 ## Problemi e quesiti
 

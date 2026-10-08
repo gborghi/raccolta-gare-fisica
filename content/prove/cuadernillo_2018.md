@@ -17295,169 +17295,88 @@ L'aumento della luminosità di una luce laser (Nd-YAG):  1,06 μm
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT128. The most holy Rosary. 
-Rosario, Santa Fe. 
- 
-Gravitational waves .
-On 11 February 2016 the collaboration ALIGO (advanced Laser Interferometer) was launched.
-Gravitational-wave Observatory) announced the world's first direct wave detection.
-Gravitational forces, predicted a century ago by the General Theory of Relativity of 
-Einstein. What is it? The signal with the code GW150914 (Figure 1) was detected on 14 December 
-September 2015 at the Hanford and Livingston Observatories as a oscillation of 
-about 40 Hz of initial frequency, which increased to about 250 Hz in less than 20 seconds. El 
-The analysis of the signal, which took several months, led to the conclusion that the wave had been
-produced over a billion light-years from Earth during the fusion process of
-Two black holes moving in spiral orbits, that is, of decreasing radius.
-This is precisely due to the loss of energy from the emission of a powerful wave.
-gravitational (Figure 2), until the system collapsed into a single black hole of mass.
-The mass of the two original black holes is appreciably less than the sum of the masses. 
- 
- 
- 
-As you know, a black hole is a massive object that creates in its environment a
-gravitational field so intense that no particle, including a photon traveling to Earth
-speed of light c, you can escape its attraction if it is at a distance from its 
-centre less than Rs (Radio Schwarzschild). In the first approximation, we can 
-Imagine the black hole as a massive sphere of Rs. 
-(a) Proving that the escape velocity from the distance Rs is c, prove 
-that the Schwarzschild radius of a black hole of mass M is Rs = 2GM /c2, 
-where G is the universal gravitational constant. 
- 
-We will then study the orbital motion of two 
-black holes of equal mass M interacting 
-It's gravitationally. Suppose they both describe a
-Circular path around the geometric centre O of the 
-system (mass center), where R is the distance between its 
-The Commission has already adopted a number of proposals. 
-(b) Determine the angular speed at which they turn 
-both bodies, based on G, M and R. 
- 
-Let's do some approximate calculations, when the black holes are.
-close to touch, i.e. when the distance between their centers is slightly greater than 
-2 Rs  . Consider specifically Rs  3Rs . The frequency of the oscillating signal detected at 
-Earth. Note that in every complete revolution of the binary system,
-They emit two crests of gravitational waves, so that the frequency of the signal 
+PT128. EESOPI No. 8053 Santísimo Rosario.
+   Rosario, Santa Fe.
 
+Gravitational waves
+On February 11, 2016 the ALIGO collaboration (advanced Laser Interferometer
+Gravitational-wave Observatory) announced to the world the first direct detection of
+gravitational waves, predicted a century ago by Einstein's Theory of General Relativity.
+The signal with the code GW150914 (figure 1) had been detected on September 14,
+2015 at the Hanford and Livingston observatories as an oscillation of about 40 Hz initial
+frequency, which increased to about 250 Hz in less than 20 ms. The analysis of the
+signal, which took several months, made it possible to deduce that the wave had been
+produced more than a billion light years from Earth during the merger process of
+two black holes moving in spiral orbits, that is, of decreasing radius,
+precisely due to the loss of energy from the emission of a powerful gravitational wave
+(figure 2), until the system collapsed into a single black hole of mass
+appreciably less than the sum of the masses of the two original black holes.
+
+
+
+As you will know, a black hole is an object of enormous mass that creates in its surroundings a
+gravitational field so intense that no particle, including a photon traveling at
+the speed of light c, can escape its attraction if it is at a distance from its
+center less than Rs (Schwarzschild radius). As a first approximation, we can
+imagine the black hole as a massive sphere of radius Rs .
+a) By positing that the escape velocity from the distance Rs is c, show
+that the Schwarzschild radius of a black hole of mass M is Rs = 2GM /c2,
+where G is the universal gravitational constant.  
  
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-detected on Earth is twice the frequency of the black hole's orbit;
-These circumstances were signalled at  200 Hz (situation at t ≈ 0.42 ms on the scale of the figure 
-1). 
-(c) Get an expression for  in this case, based on G, M and c. 
-(d) Calculate the mass M of each black hole. Express your result in kg and in 
-Masses of the Sun 
+Next we will study the orbital motion of two black holes of equal mass M that interact gravitationally. Assume that both describe a circular trajectory around the geometric center O of the system (center of mass), with R being the distance between their centers (figure 3).
+b) Determine the angular velocity  with which both bodies rotate, as a function of G, M, and R.
+
+We will now make some approximate calculations, when the black holes are close to touching, that is, when the distance between their centers is slightly greater than 2 Rs. Consider specifically Rs  3Rs. The frequency of the oscillating signal detected on Earth (Take into account that in each complete revolution of the binary system two crests of gravitational waves are emitted, so that the frequency of the signal
+
+  94 - OAF 2018
+detected on Earth is twice the frequency of the orbit of the black holes); under these circumstances it was fsignal  200 Hz (situation at t ≈ 0.42 ms on the scale of figure 1). 
+c) Obtain an expression for  in this case, as a function of G, M, and c.
+d) Calculate the mass M of each black hole. Express your result in kg and in
+masses of the Sun  
  
-The general theory of relativity allows the determination of the power P emitted in the form of 
-Gravitational waves by a two-mass system orbiting under gravity.
-We're looking at the same gravitational pull as we're looking at. Assuming the two masses 
-are equal and that the orbit is circular, you get: 
- 
+General Relativity allows determining the power P emitted in the form of gravitational waves by a system of two masses orbiting under their mutual gravitational attraction, such as the one we are considering. Assuming that the two masses are equal and that the orbit is circular, we obtain:
+
 𝑃= 64
 5
 𝐺4
 𝐶5
 𝑀5
 𝑅5 
- 
-The actual orbit is spiral, with a decreasing radius, but estimates can be made.
-Considering the same circular orbit with R = 3Rs of the previous paragraphs. En la 
-Figure 1 shows that the gravitational wave was mainly emitted for a brief period.
-time interval, of the order t = 10 ms. 
-(e) Assuming that all energy emitted during the interaction process and
-The collapse of black holes results in a loss of mass in the system.
-Make an estimate of this loss, M. Express your result in kg and in 
-Masses of the Sun 
- 
-Let's talk about the detection system now. 
-A Michelson interferometer has been used.
-which is outlined in Figure 4. A beam of light .
-laser, wavelength , inclines at 45o over 
-a semi-split sheet (beam divider, D) 
-where it divides into two beams, 1 and 2, that travel 
-in perpendicular directions. Every beam is .
-normally reflects in a flat mirror, E1 and 
-E2, and back to D. Part of beam 1 is reflected and 
-Part 2 is transmitted, so that in the beam 
-3 
-se 
-overlap 
-(interfering) 
-The 
-Waves
-luminous 1 and 2 that have gone back and forth for each 
-One of the arms of the interferometer. La 
-The intensity of the resulting wave depends on the phase difference between these two.
-Waves. For example, if they overlap in the counterphase (=) the resulting intensity I3 is 
-The following is the list of the relevant technical specifications: Any slight variation in arm length 
-It produces a change in the interferential state and therefore in I3 , which is measured with a 
-The photo-detector, F. 
- 
-Following the example above, if starting from an interferential minimum the length of 
-One arm increases by /4, the total path taken by light in that arm (i.e.
-The waveforms are then added to the waveforms, which then increase by /2, so that the waves interfere in phase and you have a 
-The maximum interference. If the length increase were /2, a new minimum would be reached 
-Null, in the interference order following the initial. In the interferometer of the observatory of 
-Livingston the two arms have the same length L0 = 4.0 km. In Figure 5 it is
-He sketches, very exaggeratedly, what happens when a gravitational wave
-It reaches the Earth's surface. These waves periodically shorten and lengthen the factory .
-The length of the interferometer's arms is between 
-L0  A and L0  A, with the particularity that these oscillations are in contrast, is 
-So when arm 1 reaches its maximum length L0 A, arm 2 has its minimum, L0 
-A, and vice versa. 
 
+The real orbit is a spiral, with decreasing radius, but estimative calculations can be made by considering the same circular orbit with R = 3Rs from the previous sections. In figure 1 it can be observed that the gravitational wave was emitted mainly during a brief time interval, on the order of t = 10 ms.
+e) Assuming that all the energy emitted during the process of interaction and collapse of the black holes translates into a loss of mass of the system, make an estimate of this loss, M. Express your result in kg and in solar masses
+
+Let us now talk about the detection system.
+A Michelson interferometer has been used, which is schematized in figure 4. A laser light beam, of wavelength , strikes at 45º a semi-silvered plate (beam splitter, D) where it is divided into two beams, 1 and 2, which travel in perpendicular directions. Each beam is reflected normally by a plane mirror, E1 and E2, and returns toward D. Part of beam 1 is reflected and part of beam 2 is transmitted, so that in beam 3 
+se  the light waves 1 and 2 that have gone and returned along each of the arms of the interferometer superpose (interfere) las . The intensity of the resulting wave depends on the phase difference, , between these two waves. For example, if they superpose in antiphase ( = ) the resulting intensity I3 is zero (interference minimum). Any small variation in the length of the arms produces a change in the interference state and therefore in I3, which is measured with a photodetector, F.  
  
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Continuing with the previous example, if starting from an interference minimum the length of one of the arms increases by /4, the total path traveled by the light in that arm (round trip) increases by /2, so that the waves come to interfere in phase and there is an interference maximum. If the increase in length were /2, a new null minimum would be reached, at the interference order following the initial one. In the interferometer of the Livingston observatory the two arms have the same length L0 = 4.0 km. Figure 5 schematically shows, in a very exaggerated way, what happens when a gravitational wave reaches the surface of the Earth. These waves periodically shorten and lengthen the fabric of spacetime so that the length L of the interferometer arms oscillates between L0  A and L0 A, with the particularity that these oscillations are in antiphase, that is, when arm 1 reaches its maximum length L0 A, arm 2 has the minimum, L0 A, and vice versa.
+
+
+OAF 2018 - 95
+
+It is usually worked in terms of the unit deformation ("strain" in English) defined as h= L/L0 , where L is the difference between the lengths of the two arms. This dimensionless quantity h is the one that appears on the ordinate axis of the graph in figure 1, in which the oscillations of h produced by the arrival of the gravitational wave are clearly observed. The amplitude of this oscillation reaches the value hmax  10-21 when the black holes begin to merge.
+f) Make an estimate of the maximum oscillation amplitude of the arms of the Livingston interferometer, Amax , when it received this signal. Compare your result with the radius of a proton. 
  
-It is usually worked on the basis of the unit deformation (strain in English) defined as 
-h= L/L0, where L is the difference between the lengths of the two arms. This magnitude .
-The dimension h is the one shown in the order of the graph in Figure 1, in which it is 
-They clearly observe the h-spacing produced by the wave 's arrival .
-It's gravitational. The amplitude of this oscillation reaches the hmax value  10-21 when 
-The black holes begin to merge. 
-(f) Estimate the maximum range of oscillation of the arms of the
-Livingston's interferometer, Amax, when you received this signal. Compare your 
-The result is the radius of a proton. 
- 
-The deformation to be detected is in practice so small that it has been necessary 
-extraordinary technical efforts to prevent it from being masked by noise
-produced by microsisms or small thermal variations. 
- 
-To detect very faint waves it is necessary to
-It's as big as possible. But the length before 
-The Commission has already decided to adopt a proposal for a directive on the approximation of the laws of the Member States relating to the use of the electricity sector.
-to detect the waves produced by the
-Most of the predictable cosmic events. For 
-The Commission has therefore decided to extend the period of time for the implementation of the programme.
-mirror inside each arm, between the beam divider and 
-The original mirror of Michelson (Figure 6). These .
-mirrors have a small transmittance, like 
-That, on average, light makes about N  280 trips 
-Back and forth between the two mirrors facing .
-before you reach the beam divider again and 
-contribute to interference in beam 3. With this one .
-The procedure is achieved by increasing the length 
-Effective from the arms of Michelson up to 
- 
+The deformation to be detected is in practice so small that extraordinary technical efforts have been necessary to prevent it from being masked by the "noise" produced by microseisms or small thermal variations.
+
+In order to detect very weak waves, it is convenient that
+L0 be as large as possible. But the length indicated above, L0 = 4.0 km, would not be sufficient in practice to be able to detect the waves produced by most foreseeable cosmic events. To increase the length, another mirror has been placed inside each arm, between the beam splitter and the original Michelson mirror (figure 6). These mirrors have a small transmittance, so that, on average, the light makes about N 280 round trips between the two facing mirrors before again reaching the beam splitter and contributing to the interference in beam 3. With this procedure it is possible to increase the effective length of the Michelson arms up to
+
 L ef = NL0 1100 km. 
- 
-Finally, we will characterize the extraordinary sensitivity of the apparatus. 
-The system is capable of detecting the
-deformations, not masked by noise, with a minimum amplitude of 10-22 h min. 
-(g) Express the sensitivity of the instrument in fractions of interferential order
-Each new interference order corresponds to even a change of 2π in the difference 
-phase  between the two waves that overlap in beam 3) ,  min /2 . 
- 
-Data from the report 
-Universal gravity constant, G=6.67 10-11 Nm2 / kg2 
-The speed of light in vacuum, c= 3,0 108 m/s 
-Mass of the Sun, MSol  2,0 1030 kg 
-Radius of a proton, rp  0.88 10-15 m 
-Wavelength of laser light (Nd-YAG):  1,06 μm 
 
+Finally, we are going to characterize the extraordinary sensitivity of the apparatus. Observing the graph in figure 1, it follows that the system is capable of detecting deformations, not masked by noise, with a minimum amplitude h min 10-22 .
+g) Express the sensitivity of the instrument in fractions of an interference order (each new interference order corresponds to a change of 2π in the phase difference  between the two waves that are superimposed in beam 3),  min /2 . 
  
-The following is the list of the countries of the European Union:
+Data
+Universal gravitational constant, G= 6.67 10-11 Nm2 / kg2
+Speed of light in vacuum, c= 3.0 108 m/s
+Mass of the Sun, MSun   2.0 1030 kg
+Radius of a proton, rp   0.88 10-15 m
+Wavelength of the laser light (Nd-YAG):  1.06 μm
 
 
+  96 - OAF 2018
 
 **Topic:** [[Gravitation]], [[Astrophysics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Conservation of Energy (metodo)|Conservation of Energy]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]
@@ -41979,7 +41898,7 @@ Calore specifico dell'acqua: $c_{agua}$ = 4180 J/(kg K)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Segunda Prueba Preparatoria: Termodinamica, Electricidad y Magnetismo - Problema Teorico 1**
+**Second Preparatory Test: Thermodynamics, Electricity and Magnetism - Theoretical Problem 1**
 
 An 890 g iron sphere has a diameter of 6 cm and is 0.05 mm larger than the diameter of a hole found in an 89 g copper plate. Both masses are at a temperature of 30 oC.
 
@@ -42352,9 +42271,9 @@ Considera $g = 10\ \frac{m}{s^2}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Segunda Prueba Preparatoria: Termodinamica, Electricidad y Magnetismo - Problema Experimental (Determinacion de la densidad del aire)**
+**Second Preparatory Test: Thermodynamics, Electricity and Magnetism - Experimental Problem (Determination of air density)**
 
-**Determinación de la densidad del aire**
+**Determination of air density**
 
 When a body falls into a fluid, it suffers a friction force $F_D$ that opposes motion and depends on the speed of the body. If the body falls by gravity, this force can equal the weight of the body, and it reaches a constant velocity (we have disregarded the force due to the thrust) called *terminal velocity*. This situation can be described by the following equation:
 $$F_D = \tfrac{1}{2}C_D\rho_a A v^2 = Mg \qquad (1)$$
@@ -42362,7 +42281,7 @@ where $\rho_a$ is the density of air, $A$ and $M$ are the area the body provides
 
 **Objetivo:** Determinar la densidad del aire ($\rho_a$)
 
-**Elementos:**
+**Equipment:**
 - A4 sheets of known grammatical paper.
 - The time-meter
 - The rule .
@@ -42372,7 +42291,7 @@ where $\rho_a$ is the density of air, $A$ and $M$ are the area the body provides
 - Shearer
 - Metric tape (commonly used)
 
-**Procedimiento**
+**Procedure**
 *Arm of paper cones: *
 On a known sheet of grass paper, draw a radius circle $r = 10\ cm$. Above this circle, draw an angle $\beta$ as shown in the left panel of the figure.
 

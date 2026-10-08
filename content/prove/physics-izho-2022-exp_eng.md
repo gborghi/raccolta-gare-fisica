@@ -4,7 +4,7 @@ tipo: prova
 tags:
   - kg/prova
   - anno/2022
-  - paese/Russia
+  - paese/Kazakhstan
   - comp/IZhO
   - cluster/Gravitazione e Astrofisica
 ---

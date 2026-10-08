@@ -11,7 +11,12 @@
 
 import { nfc } from "./vault-paths.mjs"
 
-export const newSiblingStats = () => ({ merged: 0, sameLang: 0, dupes: 0, noLang: 0 })
+export const newSiblingStats = () => ({
+  merged: 0, sameLang: 0, dupes: 0, noLang: 0,
+  // vault back-link lines `[[<translation_of>]]` dropped (stripLoneBacklink): blocks touched,
+  // lines removed, and blocks whose output changed vs the trailing-only rule
+  backlinkBlocks: 0, backlinkLines: 0, backlinkNew: 0,
+})
 
 const normLang = (l) =>
   String(l ?? "")
@@ -77,6 +82,25 @@ export function stripSelfBacklink(body, targets) {
   return body.slice(0, m.index) + m[1]
 }
 
+// The vault puts a back-link to the original on its own line inside each translation
+// sibling, often right after "**Answer:** …" rather than at the end, e.g.
+// `[[src_kangourou_2018_ecolier_finale__QE3]]`. Kept in the vault (Obsidian navigation),
+// dropped on the site, where it showed the raw internal code under «Answer». Only a line
+// whose ENTIRE content (after trimming) is exactly `[[<translation_of>]]` goes: no alias,
+// no heading, nothing else on the line, never any other link. Returns { body, removed }.
+export function stripLoneBacklink(body, translationOf) {
+  const want = `[[${nfc(String(translationOf ?? ""))}]]`
+  let removed = 0
+  const out = String(body ?? "")
+    .split("\n")
+    .filter((line) => {
+      if (nfc(line.trim()) !== want) return true
+      removed++
+      return false
+    })
+  return { body: removed ? out.join("\n") : body, removed }
+}
+
 const ORDER = { it: 0, en: 1, es: 2, pt: 3, de: 4, fr: 5 }
 export function mergeSiblings(base, body, nativeLang, siblings, transform, stats = null, warn = console.warn) {
   const byLang = siblings.get(nfc(base))
@@ -99,7 +123,13 @@ export function mergeSiblings(base, body, nativeLang, siblings, transform, stats
   for (const s of sibs) {
     // strip the trailing self-backlink on the RAW body (before transform() rewrites
     // atom links to prove/<slug>#qNN), then drop the translated H1
-    const b = transform(stripSelfBacklink(s.body, [base, s.rel]))
+    const lone = stripLoneBacklink(s.body, base)
+    if (stats && lone.removed) {
+      stats.backlinkBlocks++
+      stats.backlinkLines += lone.removed
+      if (stripSelfBacklink(lone.body, [base, s.rel]) !== stripSelfBacklink(s.body, [base, s.rel])) stats.backlinkNew++
+    }
+    const b = transform(stripSelfBacklink(lone.body, [base, s.rel]))
       .replace(/^\s*#\s+.+?(?:\r?\n|$)/m, "") // drop translated H1 (title comes from frontmatter)
     merged += `\n\n<div class="qlang-split" data-lang="${s.lang}"></div>\n\n` + b.trim()
   }

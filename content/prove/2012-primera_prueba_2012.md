@@ -108,7 +108,7 @@ As mentioned above, to pass into elliptical orbit the rocket engine is activated
 
 **c) ** Determine $v_J$ so that the speed of the satellite at the start of the elliptical orbit is the $V_2$ indicated, and calculate its value.
 
-**Datos:**
+**Data:**
 - Radio of the Earth: $R_T = 6{,}37 \times 10^6\ \text{m}$
 - Acceleration by gravity: $g = 9{,}81\ \text{m/s}^2$
 - Mass of the satellite with its fuel: $M = 1{,}25 \times 10^3\ \text{kg}$

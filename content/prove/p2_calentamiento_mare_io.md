@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet,object/satellite"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -113,7 +113,7 @@ The following is a list of the types of water-soluble gases used in the producti
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -165,7 +165,7 @@ Hint: obtain from equation (1) the unit elongation $\varepsilon(x)$ and note tha
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -208,7 +208,7 @@ Help: the linear dilation for a temperature increase $\Delta T$ is given by the 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna na — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet,object/satellite"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -266,7 +266,7 @@ Now orbital motion is considered, without the pivot. The rod has its center at $
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna na — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -318,7 +318,7 @@ The following table shows the results of the calculations:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna na — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet,object/satellite"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -364,7 +364,7 @@ Se Io è supposto da una barra di lunghezza $L_0$ pari al suo diametro, calcola 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna na — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -431,7 +431,7 @@ The following table shows the results of the tests:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna na — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/satellite"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -474,7 +474,7 @@ Calculate the work along an orbit and the power dissipated.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna na — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/satellite,object/planet"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

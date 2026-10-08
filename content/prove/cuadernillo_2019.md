@@ -15978,108 +15978,102 @@ tempo necessario.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Trapped in space**
+**Trapped in Space**
 
-PT145. Philips School 
-The Autonomous City of Buenos Aires. 
- 
-Trapped in space .
-The year is 2167. The fearless and intelligent astronaut Thomas wakes up from his cryogenic chamber .
-In which he had slept for several years, aboard his spaceship, the Renaissance. 
-Tom is currently on a space mission alone to gather information.
-of distant galaxies. However, upon waking up and seeing the ship's records, he realizes
-It's gone off course and has fallen into orbit on a star.
-Unknown. With the help of his ship, Thomas must find a way to escape from the
-gravitational field that keeps it in orbit, so it can continue its mission. 
- 
-Part 1: Data collection 
-Realizing this star has a
-A small planet orbiting a radius smaller than the Earth .
-The first thing he decides to do is calculate his 
-The orbiting radius itself. For that, wait till the
-Just moment and sends a beam of light towards the
-planet, in the same direction it moves.
-the planet at that time, what can 
-to be determined by the ship's sensors. The beam .
-It bounces off the planet and is absorbed by the Earth 's sensor .
-The ship a time t1=5 minutes later. In this one .
-Now, Thomas observes that the angular distance 
-The distance between the planet and the star is =. The situation 
-is shown in Figure 1 (not in scale). 
+PT145. Philips School
+   Autonomous City of Buenos Aires.
+
+Trapped in Space
+Year 2167. The intrepid and intelligent astronaut Tomás wakes up from his cryogenic chamber
+in which he had slept for several years, aboard his spaceship, La Renassance.
+Tomás is currently alone on a space mission to collect information
+from distant galaxies. However, upon waking and seeing the ship's logs, he realizes
+that he has deviated from his original course and has fallen into orbit around an unknown
+star. With the help of his ship, Tomás must find a way to escape the
+gravitational field that keeps him in orbit, so that he can continue with his mission.
+
+Part 1: Data collection
+Upon realizing that this star has a
+small planet orbiting at a smaller radius than
+his own, the first thing he decides to do is calculate his
+own orbital radius. To do this, he waits until the right
+moment and sends a beam of light toward the
+planet, in the same direction in which the planet is moving
+at that moment, which can be determined with the ship's sensors. The beam
+bounces off the planet and is absorbed by the ship's sensor a time t1=5 min later. At
+this moment, Tomás observes that the angular distance
+between the planet and the star is = . The situation
+is shown in Figure 1 (not to scale). 
 
  
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-(a) With the data given and knowing that the speed of the
-the light in the vacuum is constant and is c = 299792458 m/s, 
-calculate the orbital radius of the spacecraft and the planet. 
-(b) Having observed (with due protection) that:
-From the ship the star covers an angular region.
-=, as shown in Figure 2, calculate the radius of the 
-Star, which Thomas believes may be useful to him at some point 
-Just a moment. 
- 
-To be able to plan his escape, Tom needs to know too.
-The mass of the star. For this he decides to take advantage of the third.
-Kepler's law and measure its spin period. But I can 't .
-Find a good reference to determine when you gave a
-Turn around, decide instead to measure the time between the 
-First and second time you've crossed the planet, being this one.
-The time t=240 days approximately. 
-(c) Whereas all movements occur on the same plane and that both 
-The planet as the ship orbits in a clockwise direction, calculating the mass of the 
-The star. 
- 
+  100 - OAF 2019
+a) With the given data and knowing that the speed of
+light in vacuum is constant and equals c = 299792458 m/s,
+calculate the orbital radius of the spacecraft and of the planet.
+b) Having observed (with due protection) that
+from the spacecraft the star spans an angular region
+=, as seen in figure 2, calculate the radius of the
+star, which Tomás believes may be useful to him at some
+point.
+
+In order to plan his escape, Tomás also needs to know
+the mass of the star. For this he decides to take advantage of Kepler's third
+law and measure its rotation period. But since he cannot
+find a good reference to determine when it completed one
+revolution, he decides instead to measure the time between
+the first and second time it crosses with the planet, this time
+being te=240 days approximately.
+c) Considering that all motions occur in the same plane and that both
+the planet and the spacecraft orbit in the clockwise direction, calculate the mass of the
+star.
+
 Part 2: the escape
-(d) With the data found, calculate the speed required for the vessel to escape.
-the gravitational field of the star, that is, the escape velocity. Take it .
-ME = 1.72x1031kg if he could not solve point c). 
+d) With the data found, calculate the necessary speed of the spacecraft to escape
+the gravitational field of the star, that is, the escape speed. Take
+ME = 1.72x1031kg if you could not solve point c). 
  
-Now that Tom knows how fast he has to go to escape, he wants to know.
-how much energy it needs to get to that speed. The basic principle of the
-The propellant of the ship is to expel a gas at high speed, thus increasing the
-The speed of the ship in the opposite direction (you can think of it as an explosive shock)
-where both masses, the ship and the gas, begin together and separate in directions.
-the opposite). The mass of the Renaissance is M=500,000 kg (not counting the gas being
-The maximum mass of gas that can be propelled is m = 1000 kg. Assume that 
-The propellants can accelerate the gas almost instantly at any speed.
-(as long as it's less than the speed of light, obviously). 
-(e) Calculate the energy required to bring the craft to escape speed. 
-Take Vesc =160 km/s if you couldn't solve point d. 
- 
+Now that Tomás knows the speed at which he has to go in order to escape, he wants to know
+how much energy he needs to reach that speed. The basic principle of the ship's
+thrusters is to expel a gas at high speed, in order to increase the
+speed of the ship in the opposite direction (you can think of it as an explosive collision
+where both masses, the ship and the gas, begin together and separate in opposite
+directions). The mass of La Renassance is M=500,000 kg (not counting the gas that will
+be expelled) and the maximum mass of gas that can be propelled is m =1000 kg. Assume that
+the thrusters can accelerate the gas almost instantaneously to any speed
+(as long as it is less than the speed of light, obviously).
+e) Calculate the energy needed for the ship to reach escape velocity.
+Take Vesc =160 km/s if you could not solve part d).
+
 Part 3: Energy
-The spacecraft has enough capacity to store the necessary energy, but 
-You need to charge your batteries through 10 solar panels with an area of A=100m3. For 
-Knowing how long it takes to charge enough, the first thing you do.
-Tom is determining the temperature of the star, using the law of displacement of 
-Wein, which relates the temperature of an object to the preferred wavelength that 
-emits as follows: 
+The spacecraft has enough capacity to store the necessary energy, but
+it needs to charge its batteries by means of 10 solar panels of area A=100m3. To
+know how much time it needs for them to charge enough, the first thing Tomás does is determine the temperature of the star, using Wien's displacement law,
+which relates the temperature of an object to the preferred wavelength it
+emits, as follows:
 𝜆= 𝑏
 𝑇 
-Where b = 2.898x10−3 m⋅K is Wein's displacement constant. 
-(f) The vessel's sensors shall indicate a preferential wavelength of =300 nm. 
-Calculate the temperature of the star. 
-(g) Calculate the radiation power reaching the solar panels. Suppose 
-an emissivity of 1 for the star and an absorption of 1 for the panels. 
-(h) The panels are positioned so that the power of the previous point is 
-It's constant. Calculate the time it takes to get enough energy to
-escape the gravitational field of the star. 
+Where b = 2.898x10−3 m⋅K is Wien's displacement constant.
+f) The ship's sensors register a preferred wavelength of =300 nm.
+Calculate the temperature of the star.
+g) Calculate the radiation power that reaches the solar panels. Assume
+an emissivity of 1 for the star and an absorption of 1 for the panels.
+h) The panels are positioned so that the power from the previous point is
+constant. Calculate the time needed to obtain enough energy to
+escape the star's gravitational field. 
  
  
 
  
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-Notes 
-- Consider circular orbits at all times. 
-- Consider the ship, the planet and the star as point masses.
-- He always despises the gravitational effect of the planet. 
-- During the explosive shock, the contribution of the
-gravity of the star. 
-- In point (a), you can disregard the orbital movement since it was issued.
-until the beam of light absorbed. 
-- Newton's gravitational constant: G = 6.674 ×10−11 N⋅m2/kg2 
-- The Stefan-Boltzmann constant:  = 5.67 × 10−8 W/(m2⋅K4) 
-- Don't worry, Tom has enough air, water and food to survive the storm.
-time needed.
+OAF 2019- 101
+Notes
+- Consider circular orbits at all times.
+- Consider the ship, the planet and the star as point masses
+- Neglect at all times the gravitational effect of the planet.
+- During the “explosive collision” the contribution of the star's gravity may also be neglected.
+- In point a), the orbital motion from the moment the light beam was emitted until it was absorbed may be neglected.
+- Newton's gravitational constant: G = 6.674 ×10−11 N⋅m2/kg2
+- Stefan-Boltzmann constant:  = 5.67 × 10−8 W/(m2⋅K4)
+- Do not worry, Tomás has enough air, water and food to survive the necessary time.
 
 
 <!--fig:start-->
@@ -31019,153 +31013,129 @@ OAF 2019- 173
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Radiation of a filament lamp**
+**Radiation from an incandescent lamp**
 
-PE34. The Commission has also adopted a proposal for a regulation on the protection of the environment.
-Port Madryn, Chubut. 
- 
-Radiation from an incandescent lamp 
-The objective 
-The radiation emitted by the filament of a
-incandescent lamp and its dependence on temperature. 
- 
-Materials 
-It's a small incandescent lamp. 
-9 V battery 
-- You got a handgun. 
-Multi-rotor power meter of 1 k. 
-Protective strength of 22 . 
-It's a test plate. 
-Two multimeters, with test points and four clamp (crocodiles) 
-Cable for connection. 
-Screw it. 
-Manuals for the multimeter
- 
-Theoretical model 
-Radiated power and temperature. 
-Bodies can transfer energy to other bodies that are different.
-The temperature is measured by three pathways: conduction, convection and radiation. The radiation is .
-It consists of electromagnetic waves, with a spectral distribution that depends on 
-the temperature. 
+PE34. ESETP No. 703 José Toschke
+ Puerto Madryn, Chubut.
 
+Radiation from an incandescent lamp
+Objective
+The radiation emitted by the filament of an incandescent lamp and its dependence on temperature will be studied experimentally.
+
+Materials
+Small incandescent lamp.
+9 V battery.
+Battery holder.
+1 k multi-turn potentiometer.
+22  protective resistor.
+Breadboard.
+Two multimeters, with test probes and four clips (crocodile clips).
+Connecting wires.
+Screwdriver.
+Multimeter manuals.
+
+Theoretical model
+Radiated power and temperature.
+Bodies can transfer energy to other bodies that are at a different temperature through three mechanisms: conduction, convection and radiation. Radiation consists of electromagnetic waves, with a spectral distribution that depends on temperature.
+
+
+OAF 2019- 171
+Let us consider a conventional light bulb through which an increasing electric current flows, so that the temperature of its tungsten filament gradually increases from room temperature until it reaches incandescence. At low temperatures the energy loss of the bulb occurs mainly by conduction and convection. However, at high temperatures the dissipation of energy by radiation is dominant and the losses by conduction and convection can be neglected. In this experimental problem we will assume that we are in this latter case. 
  
-The following is the list of the countries of the European Union:
-Consider a conventional bulb through which an electric current flows.
-The temperature of your tungsten filament increases.
-gradually from room temperature to incandescence. A 
-Low temperatures the loss of energy from the bulb occurs mainly by
-the conduction and convection. However, at high temperatures the dissipation of 
-Radiation energy is dominant and losses can be neglected by
-the conduction and convection. In this experimental problem we're going to assume that we're
-We find in this last case. 
- 
-We'll assume that the power of the radiation emitted by the hot filament, P, is 
-proportional to the n-th power of absolute temperature T 
+We will assume that the power of the radiation emitted by the hot filament, P, is proportional to the n-th power of the absolute temperature T
 P = aT n 
 (1) 
-where n is supposed to be an integer. The constant a can be factored into the
-shape 
+where n is assumed to be an integer. The constant a can be factored in the form
 a = S   
 (2) 
-where S is the area of the emitting surface,  is a constant, called Stefan-
-Boltzmann, and  is a characteristic dimensional coefficient of each body, known 
-as 'emissivity'. 
-The specific objectives of our experimental problem are: 
-- Determine the value of n. 
-- Get the emissivity value of the filament d of a bulb, . 
- 
-Electrical resistance and temperature. 
-The electrical resistance, R, of a tungsten filament increases with temperature, T. 
-An experimental study allows the dependence between these variables to be adjusted to the
-The following empirical relationship: 
+where S is the area of the emitting surface,  is a constant, called the Stefan-Boltzmann constant, and  is a dimensionless coefficient characteristic of each body, known as "emissivity".
+The specific objectives of our experimental problem are:
+- Determine the value of n.
+- Obtain the value of the emissivity of the filament of a light bulb, .
+
+Electrical resistance and temperature.
+The electrical resistance, R, of a tungsten filament increases with temperature, T. An experimental study allows the dependence between these variables to be fitted to the following empirical relationship:
 𝑇
 𝑇0 = (
 𝑅
 𝑅0)
 0,83
     (3) 
- 
- 
-where R0 and T0 are the values at room temperature. 
- 
-Electric power 
-The electrical power supplied to the filament is 
+
+
+where R0 and T0 are the values at room temperature.
+
+Electrical power
+The electrical power supplied to the filament is
 P =V I (4) 
-where V is the potential difference between the filament terminals and I the intensity 
-It's a circle that's going through it. As already mentioned, in our work (filament 
-The electrical energy supplied is transformed.
-It's entirely radiation energy. 
+where V is the potential difference between the terminals of the filament and I is the current flowing through it. As already indicated, in our work (incandescent filament), we will assume that the electrical energy supplied is transformed entirely into radiation energy. 
  
-Experimental procedure and measures 
-Measure the resistance of the filament of the bulb, R0, at room temperature. Use it .
-For this purpose, the multimeter and the probe with crocodile clamps. The value of the 
-temperature in the classroom. If the value of R0 is not between 10 and 15 , 
-communicate it to a test authority. 
- 
-In the small potentiometer you are going to use (Figure 1) the centre of the grid is the
-A cursor that moves by rotating the upper face screw, and the side pads to the sides.
-The following conditions shall apply: Use the screwdriver to initially set the 
-The cursor is approximately at the center of its path, i.e. the resistance between 
-The number of the pairs of the pairs of the pairs of pairs is less than or equal to the number of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs 
- 
-Read the ANNEX carefully, with the instructions for use of the test plate. A 
-Then mount the circuit in Figure 2 on the board, but do not connect the circuit yet.
-pile to pile. Be careful not to use the power meter or the light bulb .
-do not bend when inserted into the plate. 
+Experimental procedure and measurements
+Measure the resistance of the bulb filament, R0, at room temperature. Use
+the multimeter and the probes with crocodile clips for this. You will be told the value of the
+temperature T0 in the classroom. If the value of R0 is not between 10 and 15 ,
+report it to a person responsible for the test.
 
- 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
-Adjust the millimeter on the 200 mA scale and the voltmeter on the 20 V scale. (see Figure 1 
-and Figure 2). 
- 
- 
- 
-Check the assembly and make sure the connections on the board are correct. 
-Then connect the battery and check that the polymers indicate voltage and current not
-The power meter is not a power meter, and when the screw is rotated, the voltage, current and current change.
-The light intensity of the bulb. 
-  
-Adjust the potentiometer until the voltage on the bulb is approximately,
-V = 1,5 V. After waiting a few seconds for the readings of the multimeter to be
-stabilize, write down the values of V and I. For increasing values of V, up to 
-approximately Vmax = 5,0 V, measured a series of values pairs1 of V and I. Avoid it .
-The difference in the potential of the two electrons is approximately 6 V.
-maximum strength that the filament can withstand without melting. 
-Presented in a table like the one shown below: 
-V and I values you have obtained experimentally. 
-The successive values of the filament resistance R obtained using the law of 
-Oh, my God. 
-The values of the corresponding T-temperatures of the filament, calculated with the 
-The expression. 
-The power supplied to the filament in each case, taking into account: 
+In the small potentiometer that you are going to use (figure 1) the central pin corresponds to the
+wiper that moves when turning the screw on the upper face, and the side pins to the
+ends of the 1 k resistance. Use the screwdriver to initially set the
+wiper at approximately the center of its travel, that is, so that the resistance between
+pins 1 and 2 (or 2 and 3) is about 500 .
+
+Read the ANNEX carefully, with the instructions for use of the breadboard. Then,
+assemble the circuit of figure 2 on the board, but do not yet connect the battery to the battery holder. Be careful that the pins of the potentiometer or of the bulb
+do not bend when inserting them into the board.
+
+
+  172 - OAF 2019
+Set the milliammeter to the 200 mA scale and the voltmeter to the 20 V scale.  (see fig 1
+and fig 2). 
  
  
+ 
+Review the setup and make sure the connections on the board are correct.
+Then connect the battery and check that the multimeters indicate non-zero voltage and current,
+and that turning the potentiometer screw changes the voltage, the current and the
+luminous intensity of the bulb.
+
+Adjust the potentiometer until the voltage across the bulb is approximately
+V = 1.5 V. After waiting a few seconds until the multimeter readings
+stabilize, record the values of V and I. For increasing values of V, up to
+approximately Vmax = 5.0 V, measure a series of pairs of values1 of V and I. Avoid
+accidentally exceeding a potential difference of 6 V, which is the
+maximum that the filament can withstand without melting.
+Present in a table such as the one shown below:
+The values of V and I that you have obtained experimentally.
+The successive values of the resistance R of the filament, obtained using Ohm's law.
+The values of the corresponding temperatures T of the filament, calculated with the
+expression.
+The power supplied to the filament in each case, taking into account:
+
+
 V (V) 
- 
-I (A) 
- 
-R () 
- 
-T (K) 
- 
-P (W) 
- 
-Transform the expression (1), to obtain a linear dependence between a function of P and 
-a function of T. Write down the values of these in two columns of the table above 
-P and T functions. 
-Graphically display the points corresponding to this in millimetre paper 
-linear dependence. 
-Determine the slope, p, of the straight line that best fits those points and deduce
-the value of the integer exponent n of the equation (1). 
-If the exponent n is known, determine the value of the constant a of equation (1). 
-Knowing that, in SI units,  = 5,6710 −8 and that the area of the emission surface 
-is S = (9,1 0,7 )10 −7 m 2, calculate the emissivity value of the tungsten filament, . 
-Estimate the uncertainty of . Suppose the main source of 
-The error in this experiment is the uncertainty of the emission surface given in the
-the previous paragraph. 
 
- 
-The following is the list of the countries of the European Union:
+I (A) 
+
+R () 
+
+T (K) 
+
+P (W) 
+
+Transform expression (1), to obtain a linear dependence between a function of P and
+a function of T. Write in two columns of the previous table the values of these
+functions of P and T.
+Graphically represent on the millimeter paper the points corresponding to this linear
+dependence.
+Determine the slope, p, of the line that best fits those points and deduce
+the value of the integer exponent n of equation (1).
+Once the exponent n is known, determine the value of the constant a of equation (1).
+Knowing that, in SI units,  = 5.6710 −8 and that the area of the emitting surface
+is S = (9.1 0.7 )10 −7 m 2, calculate the value of the emissivity of the tungsten filament, .  
+Make an estimate of the uncertainty of . Assume that the main source of error in this experiment is the uncertainty of the emitting surface, given in the previous section.
+
+
+OAF 2019- 173
 
 
 <!--fig:start-->

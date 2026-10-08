@@ -186,9 +186,9 @@ La tabella seguente rileva i valori di lunghezza libera del tubo, $L_n$, misurat
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. Ondas estacionarias en un tubo**
+**Experimental problem. Standing waves in a tube**
 
-**Modelo teórico.**
+**Theoretical model.**
 
 A sound wave in a gaseous medium is a longitudinal disturbance of the local pressure of the medium, in this case air, which is transmitted at a speed $v$, which depends, inter alia, on the temperature at which the air is located. If the gas is confined in a tube, when such a disturbance reaches one end of the tube, a reflected wave originates at that end and spreads in the opposite direction. The resulting motion of a thin layer of gas is determined by the overlap principle, which states that the actual displacement of the gas layer at any moment is obtained by adding the displacement that the layer would have experienced if only the first wave had been present, and the displacement due only to the second wave. In mathematical terms, the principle of superposition states that the function describing the resulting wave is obtained by adding the functions corresponding to two primitive waves, giving rise to certain frequencies to the phenomenon of stationary waves.
 
@@ -210,7 +210,7 @@ The objectives of this practice are to determine the wavelength and speed of the
 
 ---
 
-**Montaje experimental.**
+**Experimental setup.**
 
 In the laboratory a simple system for producing stationary waves in tubes with the assembly shown in Figure 2 can be reproduced. A glass tube is taken and a speaker connected to a sinusoidal signal generator is placed at one end. A piston is used to close one end of the tube, which allows the position of the closed end to be varied by inserting it with a rod attached to it. The different lengths $L_n$ of the tube for which a stationary wave is produced can thus be determined at a fixed frequency.
 
@@ -230,7 +230,7 @@ We're slowly introducing the piston with the microphone tangled to its surface (
 
 ---
 
-**Preguntas.**
+**Questions.**
 
 The following table summarizes the tube free length values, $L_n$, measured for a series of correlative modes, $n$:
 

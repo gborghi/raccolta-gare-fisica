@@ -1,5 +1,5 @@
 ---
-title: Russia 2016
+title: China 2016
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2016 — Quesito 1" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/cylinder,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="China 2016 — Quesito 1" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/cylinder,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,7 +86,7 @@ b. $\sin(x) \approx x$, quando $x \ll 1$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2016 — Quesito 2" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/tank-container,object/pipe-tube,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="China 2016 — Quesito 2" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/tank-container,object/pipe-tube,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -159,7 +159,7 @@ lo zero assoluto è $-273.15\ ^\circ\text{C}$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2016 — Quesito 3" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="China 2016 — Quesito 3" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -208,7 +208,7 @@ dati di (1) nonché di: $m_s \approx 2.0 \times 10^{30}\ \text{kg}$, $m_j \appro
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2016 — Quesito 4" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/rope-string,object/block"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="China 2016 — Quesito 4" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -269,7 +269,7 @@ e trovare la velocità massima e l'accelerazione raggiunte dal blocco.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2016 — Quesito 5" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/cylinder,object/coil"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="China 2016 — Quesito 5" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/cylinder,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -372,7 +372,7 @@ che $b \neq 0$.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2016 — Quesito 6" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/photon,object/electron"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="China 2016 — Quesito 6" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/photon,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -463,7 +463,7 @@ Schema fotomoltiplicatore fotocatodo amplificatori anodo (Figura a)
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2016 — Quesito 7" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="China 2016 — Quesito 7" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -636,7 +636,7 @@ l'accelerazione di entrambe le barre e la forza esercitata tra loro.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2016 — Quesito 8" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/particle-beam,object/photon"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="China 2016 — Quesito 8" data-tags="kg/prova,paese/China,comp/China,cluster/Meccanica,object/particle-beam,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

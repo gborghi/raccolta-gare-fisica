@@ -351,7 +351,7 @@ tags:
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** —
 **Fonte:** [Testo (PDF) — p.3](https://drive.google.com/file/d/1jHbqcJe1Ek8H7qaUoXGTo5JnSAWqsYBP/view)
-The Commission has also adopted a proposal for a Regulation (EC) on the common organization of the market in milk and milk products.
+**Answer:** **C** · [Soluzioni (PDF)](https://drive.google.com/file/d/1reJcoebFGQz_1u6gV4rhSYkR0QivcL7h/view)
 
 
 

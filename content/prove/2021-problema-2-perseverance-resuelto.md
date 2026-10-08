@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Onde e Oscillazioni
-title: Spagna 2021 — 2021 Problema 2 perseverance resuelto.pdf
+title: Spagna 2021 — Problema 2 perseverance · Soluzioni
 ---
 
 

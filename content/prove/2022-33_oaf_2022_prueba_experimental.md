@@ -80,7 +80,7 @@ En la siguiente tabla se recogen los valores de velocidad de rotación media de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema experimental. Peso del Sole.**
+**Problema sperimentale. Pesare il Sole.**
 
 Vera Rubin è nata a Filadelfia, negli Stati Uniti, nel 1928 e è morta nel 2016. È stata nominata a più volte al premio Nobel per la fisica. Ha avuto una lunga carriera nel campo dell'astronomia e dell'astrofisica. In particolare, fu responsabile, insieme al suo collega Kent Ford, della misurazione delle velocità di rotazione delle stelle negli bracci di numerose galassie a spirale. Queste velocità sono determinate dall'effetto Doppler sulle linee spettrali osservate.
 
@@ -140,7 +140,7 @@ La tabella seguente raccoglie i valori di velocità di rotazione media di ogni p
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. Pesar el Sol.**
+**Experimental problem. Weighing the Sun.**
 
 Vera Rubin was born in Philadelphia, USA, in 1928 and died in 2016. She was nominated several times for the Nobel Prize in Physics. He had a long career in the field of Astronomy and Astrophysics. In particular, he was responsible, along with his colleague Kent Ford, for measuring the rotational speeds of stars in the arms of numerous spiral galaxies. These velocities are determined by the Doppler effect on the spectral lines observed.
 
@@ -148,7 +148,7 @@ Their measurements in the visible range, along with those of Albert Bosma in rad
 
 Inspired by the work of Vera Rubin, a first-year student in the Physics Degree decides to determine the mass of the Sun by herself from the measurement of the rotational speeds of the planets of the Solar System.
 
-**Modelo teórico.**
+**Theoretical model.**
 
 If the dynamics of all the planets in the Solar System are considered to be dominated by the effect of the Sun, we can use Kepler's third law for circular orbits, or the relationship between gravitational force and centrifugal force, to obtain the relationship between a planet's average orbital speed, $v$, and its average distance from the Sun, $r$, such as:
 
@@ -162,7 +162,7 @@ $$v(r) = \sqrt{GM} \cdot r^{-1/2} \quad (2)$$
 
 The slope of this straight line is $\sqrt{GM}$, from which we can get the mass value of the Sun, $M$.
 
-**Preguntas.**
+**Questions.**
 
 The following table summarizes the mean rotational speed values of each planet around the Sun, $v$, together with its mean distance from the Sun, $r$, expressed in Astronomical Units (UA).
 
@@ -188,7 +188,7 @@ This is the first time that I've ever seen a planet.
 
 (e) In view of the above, estimate the uncertainty $\Delta M$ in the Sun mass value obtained in (c).
 
-**Datos:**
+**Data:**
 - Universal gravity constant: $G = 6{,}67 \times 10^{-11}\,\text{N}\cdot\text{m}^2/\text{kg}^2$
 - Astronomical unit (average distance from Earth to the Sun): $1\,\text{UA} = 1{,}5 \times 10^{11}\,\text{m}$
 

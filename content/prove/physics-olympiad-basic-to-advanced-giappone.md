@@ -1,5 +1,5 @@
 ---
-title: Giappone na
+title: Giappone
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Giappone na — Quesito 1" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/point-charge,topic/mathematics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Giappone — Quesito 1" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/point-charge,topic/mathematics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -68,7 +68,7 @@ Esprimere le seguenti quantità fisiche in unità SI (unità MKSA razionalizzate
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Giappone na — Quesito 2" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Giappone — Quesito 2" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -111,7 +111,7 @@ Esprimere le seguenti quantità fisiche in unità SI (unità MKSA razionalizzate
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Giappone na — Quesito 3" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/fluid-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Giappone — Quesito 3" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/fluid-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,7 +154,7 @@ Densità dell'acqua di mare: $\rho_{\text{sea}} = 1.03 \times 10^3\,\text{kg/m}^
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Giappone na — Quesito 4" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Giappone — Quesito 4" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -201,7 +201,7 @@ Al mezzogiorno del solstizio estivo, l'angolo di altitudine del Sole (angolo sop
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Giappone na — Quesito 5" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/sphere,topic/mathematics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Giappone — Quesito 5" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/sphere,topic/mathematics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -264,7 +264,7 @@ Al mezzogiorno del solstizio estivo, l'angolo di altitudine del Sole (angolo sop
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Giappone na — Quesito 6" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/droplet"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Giappone — Quesito 6" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/droplet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -311,7 +311,7 @@ Le gocce di nuvole sono piccole gocce d'acqua sospese nell'atmosfera. Per una go
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Giappone na — Quesito 7" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Giappone — Quesito 7" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -358,7 +358,7 @@ Una persona in bicicletta che si muove a velocità orizzontale costante $v_0$ la
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Giappone na — Quesito 8" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,object/projectile,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Giappone — Quesito 8" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,object/projectile,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -403,7 +403,7 @@ Una pallina viene lanciata orizzontalmente dalla cima di un dirupo alto $H$ con 
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Giappone na — Quesito 9" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,object/projectile,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Giappone — Quesito 9" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball,object/projectile,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -458,7 +458,7 @@ Una palla viene lanciata con velocità iniziale $v_0$ all'angolo $\theta$ sopra 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Giappone na — Quesito 10" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Giappone — Quesito 10" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -513,7 +513,7 @@ Un secondo treno di lunghezza $L$ passa attraverso una piattaforma di stazione d
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Giappone na — Quesito 11" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Giappone — Quesito 11" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -564,7 +564,7 @@ Un paracadutista di massa $m$ cade attraverso l'aria con una forza di trazione p
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Giappone na — Quesito 12" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/inclined-plane,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Giappone — Quesito 12" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/inclined-plane,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -615,7 +615,7 @@ Due piani a inclinazione liscia hanno la stessa altezza $h$. Il piano A ha un an
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Giappone na — Quesito 13" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/block,object/inclined-plane,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Giappone — Quesito 13" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/block,object/inclined-plane,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -662,7 +662,7 @@ Un blocco di massa $m$ è situato su un piano inclinato di angolo $\theta$. Il c
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Giappone na — Quesito 14" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/satellite,object/planet,object/star"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Giappone — Quesito 14" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/satellite,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -717,7 +717,7 @@ Date: Distanza Terra  Sole $r_E = 1.50 \times 10^{11}\,\text{m}$; Distanza Giove
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Giappone na — Quesito 15" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/pulley,object/rope-string,object/disk,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Giappone — Quesito 15" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/pulley,object/rope-string,object/disk,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -764,7 +764,7 @@ Una macchina Atwood è composta da due masse $m_1$ e $m_2$ ($m_1 > m_2$) collega
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Giappone na — Quesito 16" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/rod,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Giappone — Quesito 16" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/rod,topic/rotational-dynamics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -823,7 +823,7 @@ Ora consideriamo due bastone identiche collegate da un punto all'altro in una ce
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Giappone na — Quesito 17" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/star,topic/astrophysics,argomento/gravitazione-e-astrofisica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Giappone — Quesito 17" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/star,topic/astrophysics,argomento/gravitazione-e-astrofisica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -874,7 +874,7 @@ La legge di Hubble afferma che le galassie lontane si allontanano da noi con vel
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Giappone na — Quesito 18" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/rope-string,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Giappone — Quesito 18" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/rope-string,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -929,7 +929,7 @@ Un'onda sinusoidale trasversale su una stringa è descritta da $y(x,t) = A\sin(k
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Giappone na — Quesito 19" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Giappone — Quesito 19" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,topic/oscillations-and-waves,argomento/onde-e-oscillazioni,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -980,7 +980,7 @@ Due microfoni sono posizionati a distanza $d = 1.0\,\text{m}$ a distanza lungo u
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Giappone na — Quesito 20" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Giappone — Quesito 20" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1031,7 +1031,7 @@ Considerate le onde gravitazionali superficiali in acque profonde. La velocità 
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Giappone na — Quesito 21" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/prism,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Giappone — Quesito 21" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/prism,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1082,7 +1082,7 @@ L'indice di rifrazione $n$ del vetro dipende dalla lunghezza d'onda (dispersione
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Giappone na — Quesito 22" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/battery,object/resistor"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Giappone — Quesito 22" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1137,7 +1137,7 @@ Un circuito contiene due batterie con FEM $\varepsilon_1 = 12\,\text{V}$ (resist
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Giappone na — Quesito 23" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/resistor"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Giappone — Quesito 23" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1184,7 +1184,7 @@ Dodici resistitori uguali, ciascuno di resistenza $R$, sono collegati lungo i bo
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Giappone na — Quesito 24" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/coil"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Giappone — Quesito 24" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1239,7 +1239,7 @@ Un generatore a mano (dynamo) è costituito da una bobina rettangolare di giri $
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Giappone na — Quesito 25" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/wire,object/coil,object/solenoid"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Giappone — Quesito 25" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/wire,object/coil,object/solenoid"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1302,7 +1302,7 @@ Il problema 4.4. Legge di Biot e Savart**
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Giappone na — Quesito 26" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Giappone — Quesito 26" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1357,7 +1357,7 @@ Le equazioni di Maxwell nel vuoto prevedono onde elettromagnetiche.
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Giappone na — Quesito 27" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Giappone — Quesito 27" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1404,7 +1404,7 @@ Una particella carica di massa $m$, carica $q > 0$, entra in una regione di camp
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Giappone na — Quesito 28" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Giappone — Quesito 28" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1447,7 +1447,7 @@ Il problema 5.1. Proprietà della temperatura**
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="Giappone na — Quesito 29" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Giappone — Quesito 29" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1498,7 +1498,7 @@ Quando una palla di massa $m$ cade da un'altezza $h$ e si riposa (collissione in
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Giappone na — Quesito 30" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/gas"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Giappone — Quesito 30" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1549,7 +1549,7 @@ Un mole di un gas monatomo ideale subisce il seguente ciclo: (A→B) espansione 
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="Giappone na — Quesito 31" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="Giappone — Quesito 31" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1596,7 +1596,7 @@ Un termo contiene $m_1 = 200\,\text{g}$ di tè a $T_1 = 80°\text{C}$. Aggiungi 
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="Giappone na — Quesito 32" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/atom"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Giappone — Quesito 32" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1695,7 +1695,7 @@ Relazione Einstein Smoluchowski.
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="Giappone na — Quesito 33" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Giappone — Quesito 33" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1786,7 +1786,7 @@ Supponiamo che le molecole di gas $N$ di massa $m$ siano in una scatola di volum
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="Giappone na — Quesito 34" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/nucleus,object/photon,topic/special-relativity,argomento/fisica-moderna,difficolta/4,multidisciplina/mono"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Giappone — Quesito 34" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/nucleus,object/photon,topic/special-relativity,argomento/fisica-moderna,difficolta/4,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1841,7 +1841,7 @@ Nota: nel 1960, Pound e Rebka misurarono questo spostamento gravitazionale al ro
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="Giappone na — Quesito 35" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cart,object/mirror,object/satellite"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Giappone — Quesito 35" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cart,object/mirror,object/satellite"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1978,7 +1978,7 @@ Due satelliti si muovono a velocità $v = 3.8 \times 10^3\,\text{m/s}$ nella ste
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="Giappone na — Quesito 36" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/4,multidisciplina/mono,object/atom,object/electron"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Giappone — Quesito 36" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/4,multidisciplina/mono,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2105,7 +2105,7 @@ In un ammasso di sodio di atomi $N$, gli elettroni sono confinati in una sfera d
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="Giappone na — Quesito 37" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/star,object/electron"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Giappone — Quesito 37" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/star,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2196,7 +2196,7 @@ Trova gli esponenti $a$ e $b$ in ciascun caso.
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="Giappone na — Quesito 38" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cylinder,object/piston,object/gas,object/manometer"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Giappone — Quesito 38" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cylinder,object/piston,object/gas,object/manometer"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2273,7 +2273,7 @@ Incertezza del prodotto: $\Delta c = \sqrt{(P \cdot \Delta V)^2 + (V \cdot \Delt
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="Giappone na — Quesito 39" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cylinder,object/gas"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="Giappone — Quesito 39" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cylinder,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2344,7 +2344,7 @@ Una quantità fissa di aria è contenuta in un cilindro chiuso da un tappo di go
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="Giappone na — Quesito 40" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="Giappone — Quesito 40" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Meccanica,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2423,7 +2423,7 @@ Usando la legge di Boyle $P \cdot V = c$: $f = cS/V - P_0 S$.
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="Giappone na — Quesito 41" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/3,multidisciplina/multi,object/diffraction-grating,object/photon,object/screen"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="Giappone — Quesito 41" data-tags="kg/prova,paese/Giappone,comp/Giappo,cluster/Fisica Moderna,topic/modern-quantum-physics,argomento/fisica-moderna,difficolta/3,multidisciplina/multi,object/diffraction-grating,object/photon,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/star"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -224,7 +224,7 @@ We wondered if the orbital velocity of the stars in the Milky Way was enough for
 
 ---
 
-**Datos:**
+**Data:**
 - A kpc is a "kilo parsec", where 1 parsec (pc) = 3.26 light-years
 - $G = 6{,}67 \times 10^{-11}\,\text{N}\cdot\text{m}^2\cdot\text{kg}^{-2}$
 - $M_{\odot} = 1{,}99 \times 10^{30}\,\text{kg}$

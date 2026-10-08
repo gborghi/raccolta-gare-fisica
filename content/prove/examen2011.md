@@ -361,7 +361,7 @@ walk 1 m horizontally without any bruising, climb up a sloping slope
 - **A.** Do an energy study of the process.
 - **B.** Rationally calculate the spring elastic constant.
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+DYNAMICS-GRAVITY
 The Court of Justice
 Questions
 
@@ -371,7 +371,7 @@ character has the acceleration that produces the gravitational, tangential or
 centrifuge? What is the period of revolution T based on the orbital radius R?
 
 2.- What is the value of the work done by the gravitational force on a body to the
-The Commission has already taken a number of measures to ensure that the Community's financial resources are used in the implementation of the programme. Justify your answer.
+length of a closed path? Justify your answer.
 
 3.- Why, if a body has twice as much mass as another, it takes the same time to
 Get to the ground when you're both released from the top of the tower of Pisa?
@@ -382,7 +382,7 @@ Local phase. Cordoba, 22 February 2011
 
 Family name:
 
-The Commission has already adopted a proposal for a regulation on the
+PROBLEM EXERCISE
 
 The problem is:
 
@@ -432,7 +432,7 @@ Local phase. Cordoba, 22 February 2011
 
 Family name:
 
-The Commission has already adopted a proposal for a regulation on the
+PROBLEM EXERCISE
 
 The problem
 
@@ -453,7 +453,7 @@ Questions
 
  :
 1.- There is a transverse harmonic wave propagating on a tense string. Si se
-The Commission's proposal for a directive on the protection of workers from the risks of the use of the drug is to be based on the following principles:
+halve its frequency, reason about what happens to: a) the period; b) the
 (c) the wavelength; (d) the amplitude.
 
 2.- Consider the following wave equation y(x,t) = A sen (bt  cx).

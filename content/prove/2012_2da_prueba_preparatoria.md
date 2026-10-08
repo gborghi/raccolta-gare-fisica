@@ -320,7 +320,7 @@ Elementi che possono risultare utili:
 - Fascia adesiva di carta (fina)
 - Lapicera (può essere di inchiostro indelebile)
 
-**Consigna 2**
+**Consegna 2**
 
 Calcolare il dispositivo per funzionare come termometro tra $0\ {}^\circ\text{C}$ e $40\ {}^\circ\text{C}$. Questa calibrazione può essere effettuata con un punto fisso o con due valori di temperatura noti.
 

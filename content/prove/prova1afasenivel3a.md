@@ -1329,7 +1329,7 @@ che dispone, con la seguente notazione:
 01 doccia elettrica ($3000\ \text{W}$–$220\ \text{V}$);
 01 torte ($500\ \text{W}$–$220\ \text{V}$).
 Usando ciascuno di questi apparecchi per una media di 10 minuti al giorno, quanto costerà (circa in reali) il
-La Commissione ha adottato una decisione che prevede che il consumo di energia elettrica sia limitato a 30 giorni, se la società elettrica locale richiede R$ 0,25 per 1 kWh?
+consumo in 30 giorni, se la compagnia elettrica locale addebita R$ 0,25 per 1 kWh?
 a) R$ 2,87
 
 b) R$ 10,00

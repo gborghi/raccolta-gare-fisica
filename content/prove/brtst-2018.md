@@ -1,5 +1,5 @@
 ---
-title: Russia 2018
+title: Brazil 2018
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2018 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/rod,object/wire"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brazil 2018 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/rod,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -66,7 +66,7 @@ Figura 1: Problema 1
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2018 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brazil 2018 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,7 +153,7 @@ l'asse principale dell'ellipsoide. Esprimete i risultati in base all'energia pot
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2018 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/lens"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brazil 2018 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -208,7 +208,7 @@ Gli assi che provengono dall'infinito dovrebbero incontrarsi.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2018 — Quesito 4" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/magnet,object/rope-string"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brazil 2018 — Quesito 4" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/magnet,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -269,7 +269,7 @@ Magnete A sospeso su filo con magnete B
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2018 — Quesito 5" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Brazil 2018 — Quesito 5" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -328,7 +328,7 @@ Perla su filo circolare con dipolo elettrico
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2018 — Quesito 6" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/electron,object/wire"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Brazil 2018 — Quesito 6" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/electron,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -439,7 +439,7 @@ Figura 5: Problema 6
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2018 — Quesito 7" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/photon,object/electron,object/battery,object/diffraction-grating"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Brazil 2018 — Quesito 7" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/photon,object/electron,object/battery,object/diffraction-grating"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

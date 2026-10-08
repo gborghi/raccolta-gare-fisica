@@ -274,7 +274,7 @@ b) Verificare il funzionamento! Descrivere la procedura utilizzata.
 
 ---
 
-**Consigna 2**
+**Consegna 2**
 
 a) Costruire una compassa simile a quella di cui alla figura 2.
 

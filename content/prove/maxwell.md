@@ -1,5 +1,5 @@
 ---
-title: Russia na
+title: Russia
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -68,7 +68,7 @@ $$I_5 = \int_0^\infty x^5 e^{-ax^2}\,dx = \frac{1}{a^3} \quad (16)$$
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia na — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -103,7 +103,7 @@ $$\langle v\rangle \left\langle \frac{1}{v}\right\rangle = \frac{4}{\pi}$$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia na — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -140,7 +140,7 @@ Trova le costanti $a$ e $b$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia na — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Russia — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,7 +185,7 @@ Poi trovare le costanti $a$, $b$ e $c$.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia na — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -220,7 +220,7 @@ Suggerimento: prima prova un problema semplificato e poi prova a generalizzare i
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia na — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Russia — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -251,7 +251,7 @@ e temperatura $T$.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia na — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Russia — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -296,7 +296,7 @@ Supponiamo che nessuno degli atomi torni indietro.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia na — Quesito 8" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas,object/particle-beam,object/tank-container"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Russia — Quesito 8" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Termodinamica,object/gas,object/particle-beam,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

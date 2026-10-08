@@ -238,7 +238,7 @@ The test is carried out in accordance with the following conditions:
 The experimental problem
 Determination of the energy gap of a thin layer of
 a diameter of not more than 30 mm
-I. The Commission
+I. Introduction
 Semiconductors can, in broad terms, be characterised as materials of which:
 Electrical properties are somehow between conductors and
 the insulation. In order to understand the electronic properties of semiconductors, one can
@@ -312,7 +312,7 @@ Note: Do not touch the optical surface of any of these components
 
 In the Fig. 3 you see a general scheme of the experiment:
 Figure 3 is shown. General scheme of the experimental apparatus.
-The Commission shall adopt implementing acts. Theory
+III. Theory
 To achieve the thin layer transmission according to the wavelength
 , the following formula may be used:
  (1)

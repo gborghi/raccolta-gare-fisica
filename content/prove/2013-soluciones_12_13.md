@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/OEF
   - cluster/Meccanica
-title: OEF 2013 Locale Teorica — 2013 soluciones_12_13.pdf
+title: OEF 2013 Locale Teorica
 ---
 
 

@@ -17,7 +17,7 @@ tags:
   - cluster/Termodinamica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (chimica)
-title: India 2018 — INChO2018-Question.pdf
+title: India 2018 — INChO
 ---
 
 

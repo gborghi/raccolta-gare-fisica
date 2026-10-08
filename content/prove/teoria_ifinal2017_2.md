@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Termodinamica
-title: Brasile 2017 — Teoria_IFinal2017.pdf
+title: Brasile 2017 — Teorica I
 ---
 
 

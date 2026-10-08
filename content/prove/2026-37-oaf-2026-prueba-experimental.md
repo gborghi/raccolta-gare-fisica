@@ -126,13 +126,13 @@ f) Considerando quanto sopra, si deve calcolare l'incertezza $\Delta K$ nel valo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. Ballistic pendulum**
+**Experimental problem. Ballistic pendulum**
 
 We have a pendulum made of a $M$ mass plastic block suspended from a thread, of despicable mass in front of $M$, so that the distance between the point of attachment and the centre of the block is $L$ (Figure 1). When the pendulum is in vertical equilibrium, a mass ball $m$ traveling at horizontal speed $v$ is embedded in the centre of the mass $M$. After this impact, the masses rise to a maximum height $h$. This system is known as a ballistic pendulum.
 
 For the mass ball $m$, a dock of unknown constant $K$ is provided, not shown in the figure. With this dock it is possible to "shoot" the ball in a fairly simple way: the spring is compressed a distance $\Delta x$, which is measured with a rule, the ball is supported at its end and the dock is released. The higher the initial spring compression, $\Delta x$, the higher the speed, $v$, with which the ball is fired and the higher the height $h$ reaching the pendulum after the impact. Since $h$ is not easy to measure, an angular scale is placed next to the wire to measure with reasonable accuracy the maximum angle, $\theta$, which forms the pendulum with the vertical after the impact. The ratio between $h$ and $\theta$ is easily obtained from the geometry of the problem.
 
-**Preguntas.**
+**Questions.**
 
 In an experiment with the ballistic pendulum, the values of the maximum angle $\theta$ are measured when the mass $m$ is thrown for various spring compression values, $\Delta x$:
 

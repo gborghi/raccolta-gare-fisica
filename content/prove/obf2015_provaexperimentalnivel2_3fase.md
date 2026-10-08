@@ -359,7 +359,7 @@ But the final representation must always follow the above rules.
 Propagation of errors in a mathematical calculation
 
 When we get any experimental measurement, we'll always have the error involved.
-of the measure. The Commission has already taken a number of measures to ensure that the
+of the measurement. When we perform calculations with these measurements, there will be a propagation of these errors and the
 The result must also be represented by an error.
 
 If we have two measurements of the type, x $\pm \Delta x$, and y $\pm \Delta y$, and we do an operation

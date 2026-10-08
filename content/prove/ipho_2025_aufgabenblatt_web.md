@@ -565,7 +565,7 @@ offerte. Competitions provide
 ambienti di apprendimento diversificati per gli studenti partecipanti.
 In questo settore, la
 Le Olimpiadi, almeno in seguito
-La Commissione ha inoltre adottato una proposta di direttiva che prevede che le parti sociali, quali le parti sociali, le parti sociali e le parti sociali, siano
+turni, rappresentano una competizione rivolta a studenti particolarmente motivati e
 Giovani ad alto rendimento. Tuttavia, la partecipazione
 non è solo utile anche nei round di entrata,
 ma può anche contribuire a
@@ -673,8 +673,8 @@ layered system.
 Sketch of the points and their images produced by a lens.
 You can also find the figures for the problems on the IPhO website.
 Register now at
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
-The Commission has also adopted a proposal for a regulation on the protection of the environment.
+www.ipho.info
+www.ipho.info
 for the
 Competition!
 $\Delta R$ = RA $-$ RB
@@ -682,7 +682,7 @@ RA RA
 F = 1 A cW $\rho Luft$ v 2
 
 2
-The European Commission has also adopted a proposal for a directive on the protection of the environment.
+scienceolympiaden.de
 Show your talent!
 The students
 If you are a student, the IPhO and the PhysicsOlympic in
@@ -705,7 +705,7 @@ As a teacher, you can offer a challenge in physics
 to particularly capable or interested students with the
 The problem of the PhysicsOlympiad and encourage them to engage more deeply
 with physics
-The Commission's proposal for a directive on the protection of workers' rights The PhysicsOlympiad can
+topics. The PhysicsOlympiad can
 This is a tool for individual support.
 The problems of the 1st
 The following are the main reasons for the
@@ -725,7 +725,7 @@ Schools
 By encouraging participation in competitions, schools
 Can sharpen their profile
 and use them, in the sense of enrichment, as a complement to school
-The Commission will take the necessary measures to ensure that the Commission is able to take all necessary measures. Competitions provide
+offerings. Competitions provide
 The aim is to create a diverse and differentiated learning environment for participating students.
 In the area of STEM subjects, the
 The Olympic Games, at least in the later
@@ -748,14 +748,14 @@ selection competitions for the international Olympiads in Biology (IBO),
 Chemistry (IChO) and Physics (IPhO), they also include
 The International JuniorScience
 The European Olympic Games (OILs), the European Olympic Games and the
-The European Commission has also launched a programme of research on the
+of Experimental Science (EOES), and the
 The Federal Environmental Competition (BUW). Together they address students
 From the beginning
 of secondary school until after the end
 The aim is to improve the quality of education and, through close networking, offer the possibility of
-The Commission shall, in accordance with Article 4 of Regulation (EC) No 1272/2009, adopt delegated acts in accordance with Article 5 of this Regulation.
+lasting support of scientific abilities and interests.
 Further information at:
-The European Commission has also adopted a proposal for a directive on the protection of workers' rights.
+www.scienceolympiaden.de
 Many good reasons to take part in the PhysicsOlympiad
 Words of greeting
 The Federal Minister for Education and Research and the President of the Standing Conference of the Ministers of Education
@@ -767,7 +767,7 @@ Dear parents and teachers,
 STEM makes it possible. That sounds like a magic formula and has
 Something of one about it. After all, mathematics, computer science, the natural sciences and technology are our livers for mastering the greatest tasks of
 Humanity, such as climate change, the energy question
-The European Union is also a key player in the fight against climate change and the protection of the environment in all its diversity, but also feeding the world and digitalisation. That young people get
+for the protection of the environment in all its diversity, but also feeding the world and digitalisation. That young people get
 excited about STEM is one of the most important goals of our ministry and
 of the supported student competitions. For it is this next generation
 The most important thing is that we need it urgently in STEM training and study professions.

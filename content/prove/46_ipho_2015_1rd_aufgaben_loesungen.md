@@ -16,7 +16,7 @@ tags:
   - paese/Germany
   - comp/IPhO-DE-R1
   - cluster/Meccanica
-title: IPhO-DE-R1 2015 Round 1 — 46_IPhO_2015_1Rd_Aufgaben_Loesungen.pdf
+title: IPhO-DE-R1 2015 Round 1
 ---
 
 

@@ -571,11 +571,11 @@ t
 x
 E
 
-Il Consiglio ha adottato una decisione che prevede la modifica del regolamento (CEE) n.
+viene chiamata direzione di polarizzazione.
 La luce del sole o di una lampada alogena non è polarizzata. Questo significa che tutte le direzioni
 di polarizzazione intervenono nel piano perpendicolare alla direzione della propagazione. Il motivo
 sta nella molteplicità degli atomi della sorgente luminosa, quali emettono indipendentemente l'uno
-Il Consiglio ha adottato una decisione che prevede che il Consiglio non possa prendere decisioni in merito a tale decisione. Luce non polarizzata consiste quindi
+dall'altro radiazione con direzione di polarizzazione casuale. Luce non polarizzata consiste quindi
 Nella sovrapposizione di onde partiziali polarizzate diversamente.
 Invece la luce di un laser (come quello utilizzato qui) è polarizzata a causa del modo in cui il diodo
 Il laser è costruito: cioè, esiste solo una direzione di polarizzazione.

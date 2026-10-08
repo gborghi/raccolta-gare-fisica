@@ -248,9 +248,9 @@ Italian (Italy)
 A.3 (0.5 pt)
 Graphically represent δin function of α on the millimeter paper in the kit.
 
-The following is the list of the following:
+δmin =
 
-The following is the list of the following:
+αmin =
 
 A.4 (0.7 pt)
 Equations used to find the refractive index using some preferred angle of incidence:
@@ -317,7 +317,7 @@ Analysis and results:
 Experiments
 A1-11
 Italian (Italy)
-The Commission shall adopt implementing acts in accordance with Article 21 of the Treaty.
+B.1 (cont.)
 Measurements carried out for m= 2:
 
 Analysis and results:

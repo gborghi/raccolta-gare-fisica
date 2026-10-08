@@ -200,7 +200,7 @@ Experiments
 Q1-1
 English (Official)
 Earth's magnetic field measurement (10 points)
-The Commission
+Introduction
 This problem aims to measure the horizontal component of the Earth's magnetic field. A magnet will
 first be characterized using a so called Gouy balance, before being used to measure this magnetic field.
 In the whole problem, uncertainties are expected to be determined only from the fits and not from the
@@ -329,7 +329,7 @@ where za is not necessarily the geometric center of the magnet, and where μ0 = 
 A.5
 Measure the magnetic field Bzalong the revolution axis of the free magnet, as
 a function of distance z. Draw a curve to verify the model given Eq. (3) showing
-The Commission is not prepared to accept the proposal. It deduces a new value for mm, with uncertainty.
+its experimental deviations. Deduce a new value for mm, with uncertainty.
 1.3pt
 A.6
 Given the two results obtained in A.4 and A.5, he proposed a final experimental value

@@ -135,7 +135,7 @@ The following information shall be provided:
 This experiment is designed to investigate the electrical and thermal properties of LEDs. For the measurements of the temperature of the PCB, the coefficients obtained in Experiment-1 should be used.
 B.1. The electrical circuit used in this experiment is shown in Fig. 2.1. For use in instrumentation
 See the description of problem 1.
-The following is the list of the countries of the European Union: Experimental apparatus for the experimental study of LEDs. The LED is powered by
+Figure 2.1. Experimental apparatus for the experimental study of the LED. The LED is powered with
 A continuous current (continuous or pulsed) at a direct potential measured by a voltmeter at
 high impedance. The parts of the experiment relating to heating and temperature measurement are conducted as in Experiment 1. The thermal balance is maintained between all
 the printed circuit board (PCB) components.
@@ -156,7 +156,7 @@ In the latter case, the pulse duration is assumed to be short enough to avoid ov
 It is assumed that in this mode of supply TJ = TPCB . Operating in continuous mode TJ > TPCB and
 The heat resistance $\Delta T$
 It can be calculated.
-Part A. The following is the list of the main characteristics of the engine:
+Part A. Voltage-Current characteristic at different temperatures (5.0 points)
 The approximate ratio of the potential difference to the temperature is as follows:
 3500
 $9.9-ln($ 1
@@ -206,7 +206,7 @@ The electrical power function (at 3, 10, 20, and 40 mA). Calculate (by approxima
 P, and write the value in
 The answer sheet.
 Note: Assume that all electrical energy consumed by the LED is converted to
-The Commission has already decided to adopt a proposal for a directive on the protection of the environment.
+heat and that the luminous energy emitted is negligible.
 1.5pt
 Part C. Calculation of the LED drift current due to temperature. (a) the number of persons who are not members of the
 The introduction stated that LEDs are typically powered by a constant current, but not by a

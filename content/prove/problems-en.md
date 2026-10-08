@@ -1,11 +1,11 @@
 ---
-title: Russia na
+title: IZhO 2011
 tipo: prova
 tags:
   - kg/prova
-  - anno/na
-  - paese/Russia
-  - comp/Russia
+  - anno/2011
+  - paese/Kazakhstan
+  - comp/IZhO
   - cluster/Gravitazione e Astrofisica
 ---
 <div class="atom-reader" data-prova="problems-en"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Gravitazione e Astrofisica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IZhO 2011 — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Gravitazione e Astrofisica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

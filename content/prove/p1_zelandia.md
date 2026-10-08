@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/rope-string,object/block"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -77,7 +77,7 @@ The study of ocean depths is called bathymetry. The earliest bathymetric techniq
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -135,7 +135,7 @@ The ship has a sonar that emits sound waves of 12 kHz frequency. When navigating
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/disk"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -190,7 +190,7 @@ For simplicity, consider Zeelandia to be a flat disk located at a depth equivale
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna na — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/disk"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/disk"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -239,7 +239,7 @@ Dato: $G = 6{,}67 \times 10^{-11}$ N·m²/kg².
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna na — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/pendulum"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -282,7 +282,7 @@ Date: standard gravity $g_0 = 9{,}80665$ m/s2.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna na — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/planet"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/planet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -325,7 +325,7 @@ It shows that if the Earth were perfectly spherical and uniformly densely popula
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna na — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -383,7 +383,7 @@ Para entender cómo las irregularidades de la corteza oceánica perturban la sup
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna na — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -420,7 +420,7 @@ Draw a rough shape of the new sea surface $\Sigma'$, taking into account how the
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna na — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -469,7 +469,7 @@ where $V_P$ is the perturbing potential, which in our case is the gravitational 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Spagna na — Quesito 10" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/satellite"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Spagna — Quesito 10" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Onde e Oscillazioni,object/satellite"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

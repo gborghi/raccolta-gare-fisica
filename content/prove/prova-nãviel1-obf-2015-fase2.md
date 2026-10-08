@@ -1,5 +1,5 @@
 ---
-title: OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf
+title: OBF 2015 — Fase 2 · Livello 1
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -140,7 +140,7 @@ $g = 10\ \text{m/s}^2$; 1hp = 750W; $\sqrt{2} = 1{,}4$; $\sqrt{3} = 1{,}7$; $\sq
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/spring,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/spring,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -258,7 +258,7 @@ The following table shows the following:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -298,7 +298,7 @@ Is the smartphone in free fall?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -365,7 +365,7 @@ Part II  Questions for an open answer
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -411,7 +411,7 @@ How far, in a straight line, do the two students live in relation to each other?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/disk,object/rope-string"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/disk,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -472,7 +472,7 @@ less in the instant the wire completes two turns on the main disc?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/planet,object/star,object/satellite"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/planet,object/star,object/satellite"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -539,7 +539,7 @@ In the Römer era the distance from the Earth to the Sun was estimated at $1{,}4
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2015 — Prova NÃviel1 OBF 2015 fase2.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/ball,object/inclined-plane"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2015 — Fase 2 · Livello 1 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/ball,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

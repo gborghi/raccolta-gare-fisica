@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Termodinamica
-title: Spagna 2011 — 2011 soluciones_10_11.pdf
+title: Spagna 2011 — Soluzioni
 ---
 
 

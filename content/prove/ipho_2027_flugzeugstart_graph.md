@@ -49,25 +49,25 @@ From the graph, the phases of the aircraft take-off (taxiing, accelerating, rota
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema  Aeroporto di partenza (grafico di accompagnamento) **
+**Problema — Decollo di un aereo (grafico allegato)**
 
-Questo documento di una pagina contiene solo il grafico di misurazione per il problema di "aeromobile di decollo" del primo round del concorso di selezione per l'IPhO 2027. Il testo completo del problema è trovato nel libro principale (`IPhO_2027_taskblatt_Rund1.pdf`).
+Questo documento di una sola pagina contiene soltanto il grafico delle misure per il problema «Decollo di un aereo» del primo turno della selezione per le IPhO 2027. Il testo completo del problema si trova nel fascicolo principale (`IPhO_2027_Aufgabenblatt_Rund1.pdf`).
 
-Un smartphone è stato secured on board during an aircraft take-off and, using its accelerometer sensor app, recorded the three spatial components of the acceleration $a$ as a function of time $t$. I dati di misurazione sono disponibili nel file CSV (`IPhO_2027_aeroplanestart_accelerometer_data.csv`) che accompagna le colonne `nr; time; ax; ay; az` (all accelerations in $\mathrm{m\,s^{-2}}$, time in $\mathrm{s}$).
+Uno smartphone è stato fissato a bordo durante il decollo di un aereo e, con un'app per il sensore accelerometrico, ha registrato le tre componenti spaziali dell'accelerazione $a$ in funzione del tempo $t$. I dati di misura sono disponibili nel file CSV allegato (`IPhO_2027_flugzeugstart_accelerometer_data.csv`) con le colonne `nr; time; ax; ay; az` (tutte le accelerazioni in $\mathrm{m\,s^{-2}}$, il tempo in $\mathrm{s}$).
 
-Il grafico mostra tre serie di dati nel tempo che vanno da $t = 0$ a $t \approx 92{,}5\,\mathrm{s}$:
+Il grafico mostra tre serie di dati nell'intervallo di tempo da $t = 0$ a $t \approx 92{,}5\,\mathrm{s}$:
 
-- **Componente verticale $a_z$ (brown series, top): ** Initially fluctuates around $\approx 9{,}81\,\mathrm{m\,s^{-2}}$ (gravitational acceleration at rest). Durante la rotazione a $t \approx 60$–$63\,\mathrm{s}$ risce a $\approx 13\,\mathrm{m\,s^{-2}}$ (lift-off). In the climb it then drops to $\approx 8{,}2\,\mathrm{m\,s^{-2}}$, che corrisponde al componente di gravità ridotto dall'angolo di salita.
+- **Componente verticale $a_z$ (serie marrone, in alto):** inizialmente oscilla intorno a $\approx 9{,}81\,\mathrm{m\,s^{-2}}$ (accelerazione di gravità a riposo). Durante la rotazione, a $t \approx 60$–$63\,\mathrm{s}$, sale a $\approx 13\,\mathrm{m\,s^{-2}}$ (distacco da terra). Nella salita scende poi a $\approx 8{,}2\,\mathrm{m\,s^{-2}}$, che corrisponde alla componente della gravità ridotta dall'angolo di salita.
 
-- **Longitudinal component $a_y$ (green series, middle):** Stays near zero until $t \approx 6{,}5\,\mathrm{s}$ (standstill). Il motore si accelera continuamente fino a un plateau di $\approx 3\,\mathrm{m\,s^{-2}}$ (accelerazione del motore sulla pista). It reaches a maximum of $\approx 4\,\mathrm{m\,s^{-2}}$ at $t \approx 60$–$63\,\mathrm{s}$ (rotation). In the climb stabilisce a $\approx 2{,}9\,\mathrm{m\,s^{-2}}$.
+- **Componente longitudinale $a_y$ (serie verde, al centro):** resta vicina a zero fino a $t \approx 6{,}5\,\mathrm{s}$ (aereo fermo). Poi cresce con continuità fino a un plateau di $\approx 3\,\mathrm{m\,s^{-2}}$ (accelerazione dei motori sulla pista). Raggiunge un massimo di $\approx 4\,\mathrm{m\,s^{-2}}$ a $t \approx 60$–$63\,\mathrm{s}$ (rotazione). Nella salita si stabilizza a $\approx 2{,}9\,\mathrm{m\,s^{-2}}$.
 
-- **Componente trasversale $a_x$ (blue series, bottom):** Remains near zero throughout the entire measurement.
+- **Componente trasversale $a_x$ (serie blu, in basso):** resta vicina a zero per tutta la durata della misura.
 
-Dal grafico, le fasi del decollo dell'aeromobile (taxiing, accelerating, rotation, lift-off, climb) possono essere identificate e quantitativi fisici come l'accelerazione della pista, la velocità di decollo e l'angolo di salita possono essere determinati.
+Dal grafico si possono riconoscere le fasi del decollo (rullaggio, accelerazione, rotazione, distacco da terra, salita) e determinare grandezze fisiche come l'accelerazione sulla pista, la velocità di decollo e l'angolo di salita.
 
 <!--fig:start-->
 ![[_attachments/IPhO_2027_flugzeugstart_graph/IPhO_2027_flugzeugstart_graph_p1_f1.png]]
-*Accelerazione dei componenti durante il decollo degli aerei*
+*Componenti dell'accelerazione ax ay az durante il decollo dell'aereo*
 <!--fig:end-->
 
 **Topic:** [[Newtonian Mechanics]], [[Order-of-Magnitude Estimation]]

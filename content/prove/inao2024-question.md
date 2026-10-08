@@ -355,32 +355,32 @@ The maximum brightness of a source that can be observed with a telescope of a gi
 
 <div class="qlang-split" data-lang="it"></div>
 
-La differenza nelle magnitudini $m_1$ e $m_2$ di due oggetti celesti con flusso (energia ricevuta dall'oggetto per unità di area per unità di tempo) $F_1$ e $F_2$, rispettivamente, è data dalla relazione di Pogson come
+La differenza tra le magnitudini $m_1$ e $m_2$ di due oggetti celesti, i cui flussi (energia ricevuta dall'oggetto per unità di area e per unità di tempo) sono rispettivamente $F_1$ e $F_2$, è data dalla relazione di Pogson:
 
 $$\Delta m = m_1 - m_2 = -2.5 \log_{10} \left(\frac{F_1}{F_2}\right)$$
 
-(a) **[3]** Calcolare l'energia totale per unità di tempo ricevuta allo specchio primario di diametro 6 pollici (1 pollice = 2,54 cm) di un telescopio dalla stella Sirio (magnitude $m_\text{sirius} = -1.46$). Il flusso della stella Vega, che ha una magnitudine $m_\text{vega} = +0.03$, è uguale a $2.19\times10^{-8}\ \text{W/m}^2$.
+(a) **[3]** Calcolare l'energia totale per unità di tempo ricevuta dalla stella Sirio (magnitudine $m_\text{sirius} = -1.46$) sullo specchio primario, di diametro 6 pollici (1 pollice = 2.54 cm), di un telescopio. Il flusso della stella Vega, che ha magnitudine $m_\text{vega} = +0.03$, è uguale a $2.19\times10^{-8}\ \text{W/m}^2$.
 
-Considera un telescopio riflettente newtoniano ((a) lato, (b) vista superiore e (c) visione inferiore mostrata nella figura di seguito) con uno specchio primario concavo di diametro di 6 pollici. Uno specchio secondario, montato su un disco piatto di diametro $d_\text{disc} = 3.7$ cm, è tenuto sullo spessore del tubo del telescopio da tre sottili bastone di spessore $b_\text{rod} = 0.3$ cm, come mostrato nella figura b) di seguito.
+Si consideri un telescopio riflettore newtoniano (nella figura sotto sono mostrate le viste (a) laterale, (b) dall'alto e (c) dal basso) con uno specchio primario concavo di diametro 6 pollici. Uno specchio secondario, montato su un disco piano di diametro $d_\text{disc} = 3.7$ cm, è tenuto in posizione sull'asse del tubo del telescopio da tre sottili aste di spessore $b_\text{rod} = 0.3$ cm, come mostrato nella figura (b).
 
 <!--fig:start-->
 **Quesito 4**
 ![[INAO2024-Question_p7_f1.png]]
 <!--fig:end-->
 
-b) **[3]** Calcolare la riduzione percentuale del flusso allo specchio primario a causa della struttura di supporto dello specchio secondario.
+(b) **[3]** Calcolare la riduzione percentuale del flusso sullo specchio primario dovuta alla struttura di sostegno dello specchio secondario.
 
-Si prevede che l'asse ottico dello specchio primario e l'asse del tubo del telescopio siano coincidenze. Ma a volte, possono essere disallineati a causa di un maltrattamento o di altri problemi.
+L'asse ottico dello specchio primario e l'asse del tubo del telescopio dovrebbero coincidere. A volte, però, possono disallinearsi per un uso scorretto o per altri motivi.
 
-c) **[3]** Supponiamo che a causa di un disallineamento, l'angolo tra i due assi sia $\theta = 5^\circ$. Calcolare la variazione percentuale del flusso ricevuto nella prima a causa di questo guasto. Per questo motivo, si ignorano gli effetti dello specchio secondario e della sua struttura di supporto. Supponiamo che il diametro dello specchio primario sia molto vicino a quello del tubo del telescopio.
+(c) **[3]** Si supponga che, a causa di un disallineamento, l'angolo tra i due assi sia $\theta = 5^\circ$. Calcolare la variazione percentuale del flusso ricevuto dallo specchio primario dovuta a questo difetto. In questa parte si trascurino gli effetti dello specchio secondario e della sua struttura di sostegno. Si assuma che il diametro dello specchio primario sia molto vicino a quello del tubo del telescopio.
 
-L'allineamento dell'asse dello specchio primario è effettuato con tre viti di livellamento, $S_1$, $S_2$ e $S_3$, nella parte inferiore del telescopio. Come si vede nella vista inferiore (figura (c)), queste viti formano un triangolo equilaterale di pollici laterali $l = 3$. L'asse ottico dello specchio primario è perpendicolare al piano della carta nella figura (c) e passa attraverso il centroide O di questo triangolo.
+L'allineamento dell'asse dello specchio primario si regola con tre viti di livellamento, $S_1$, $S_2$ e $S_3$, poste sul fondo del telescopio. Come si vede nella vista dal basso (figura (c)), queste viti formano un triangolo equilatero di lato $l = 3$ pollici. Nella figura (c) l'asse ottico dello specchio primario è perpendicolare al piano del foglio e passa per il baricentro O del triangolo.
 
-d) **[4]** Supponiamo che l'inclinazione $5^\circ$ dell'asse dello specchio descritto sopra si sia verificata nel piano contenente l'asse del tubo e la linea $OS_1$ (vedere figura c)). Pertanto, dovrebbe essere possibile correggere l'inclinazione e riallineare gli assi spostando la vite $S_1$ da sola, senza disturbare $S_2$ o $S_3$. Se la viscosità $S_1$ è di 1,15 mm, quante volte di questa vite sono necessarie per riportare lo specchio in armonia?
+(d) **[4]** Si supponga che l'inclinazione di $5^\circ$ dell'asse dello specchio descritta sopra sia avvenuta nel piano che contiene l'asse del tubo e la retta $OS_1$ (vedi figura (c)). Deve quindi essere possibile correggere l'inclinazione e riallineare gli assi agendo soltanto sulla vite $S_1$, senza toccare $S_2$ o $S_3$. Se il passo della vite $S_1$ è 1.15 mm, quanti giri di questa vite servono per riallineare lo specchio?
 
-La massima luminosità di una sorgente che può essere osservata con un telescopio di una data apertura è limitata dalla tolleranza dell'occhio umano alla luce brillante. L'oggetto più luminoso che si può osservare in modo sicuro con il nostro telescopio (il diametro dello specchio primario è di 6 pollici) è di magnitudo $-10.50$. Per osservare una fonte più luminosa di questo limite, la quantità di luce che raggiunge lo specchio primario deve essere limitata riducendo l'apertura effettiva del telescopio. Questo viene realizzato coprendo la parte superiore del telescopio con un coperchio che ha un buco (apertura) più piccolo della dimensione appropriata.
+La luminosità massima di una sorgente osservabile con un telescopio di data apertura è limitata dalla tolleranza dell'occhio umano alla luce intensa. L'oggetto più luminoso che si può osservare in sicurezza con il nostro telescopio (specchio primario di diametro 6 pollici) ha magnitudine $-10.50$. Per osservare una sorgente più luminosa di questo limite occorre ridurre la quantità di luce che arriva allo specchio primario, diminuendo l'apertura efficace del telescopio. Lo si fa coprendo l'imboccatura del telescopio con un coperchio provvisto di un foro (apertura) più piccolo, di dimensione opportuna.
 
-e) **[4]** Calcolare la dimensione di questa piccola apertura circolare sul coperchio in modo da poter osservare in modo sicuro una supernova di magnitudo $-12.525$. Ancora una volta, ignori lo specchio secondario e la sua struttura di supporto.
+(e) **[4]** Calcolare il diametro di questa apertura circolare più piccola nel coperchio in modo che si possa osservare in sicurezza una supernova di magnitudine $-12.525$. Anche in questo caso si trascurino lo specchio secondario e la sua struttura di sostegno.
 
 **Topic:** [[Astrophysics]], [[Geometric Optics]]
 **Metodi:** [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Physical Modeling (metodo)|Physical Modeling]]

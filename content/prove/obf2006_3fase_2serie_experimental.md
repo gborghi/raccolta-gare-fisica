@@ -380,7 +380,7 @@ Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pi
 2. Identify each of the rows by writing $A_1,\, A_2,\, \ldots,\, A_{10}$ in pencil.
 3. Suspenda cada arruela com o dinamômetro e registre os respectivos pesos na **Tabela 1**.
 
-**Tabela 1**
+**Table 1**
 
 ♪ The clutch ♪ The weight ♪ The clutch ♪
 |-----------|----------|------------|----------|
@@ -403,7 +403,7 @@ Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pi
 5. With the rule, measure (in millimeters) the distances $d_1$ (side hook 1 to the centre hole) and $d_2$ (side hook 2 to the centre hole). Record in meters in Table 2.
 6. Change the amounts of rows as indicated and repeat steps 4 and 5.
 
-**Tabela 2**
+**Table 2**
 
 | Sequência | $n_1$ (lado 1) | Códigos lado 1 | $d_1\ (\text{m})$ | $n_2$ (lado 2) | Códigos lado 2 | $d_2\ (\text{m})$ |
 |-----------|----------------|----------------|-------------------|----------------|----------------|-------------------|
@@ -426,7 +426,7 @@ Set up two base-fist-fist sets. Grab the rods at the bases with the butterfly pi
 3. Measure the $d_2$ distance from the hook to the rotating axis and register in Table 3.
 4. Repeat with **three rows** and then with **four rows**.
 
-**Tabela 3**
+**Table 3**
 
 ♪ Sequence ♪ Qtd. arruelas | Códigos | $P_2\ (\text{N})$ | $d_2\ (\text{m})$ |
 |-----------|---------------|---------|-------------------|-------------------|
@@ -456,7 +456,7 @@ Before assembling, mark on the pencil the points $5\ \text{cm}$, $10\ \text{cm}$
 6. Place the **side 2 ** hook (linked to the dynamometer) to $d_2 = 5\ \text{cm}$; adjust the claws until the cross is horizontal and register $F_\text{DIN}$ in Table 4.
 7. Repeat with $d_2 = 10\ \text{cm}$ and $d_2 = 15\ \text{cm}$.
 
-**Tabela 4**
+**Table 4**
 
 | Sequência | $d_1\ (\text{m})$ | $d_2\ (\text{m})$ | $F_\text{DIN}\ (\text{N})$ |
 |-----------|-------------------|-------------------|---------------------------|
@@ -478,7 +478,7 @@ Before assembling, mark on the pencil the points $5\ \text{cm}$, $10\ \text{cm}$
 4. Adjust the claws to new horizontal balance. Record $F_\text{DIN}$ (sequence 2).
 5. Add the rows $A_3$ and $A_4$ to the same hook and repeat the adjustment. Registre $F_\text{DIN}$ (sequência 3).
 
-**Tabela 5**
+**Table 5**
 
 ♪ Sequence ♪ Qtd. arruelas no gancho central | $F_\text{DIN}\ (\text{N})$ |
 |-----------|---------------------------------|---------------------------|

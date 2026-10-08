@@ -262,13 +262,13 @@ Utilizzate come bussola la coppia di magneti B appesa al supporto, come la coppi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba Experimental. Campo magnético de un imán y campo magnético terrestre.**
+**Experimental test. Magnetic field of a magnet and the Earth's magnetic field.**
 
-**Objetivos**
+**Objectives**
 
 As you know, the gravitational field created by a particle decreases with the square of the distance. But do you know how far away the magnetic field created by a magnet decreases? In the first part of this test, we will experimentally determine what this dependence is like. In the second part, the intensity of the earth's magnetic field and the magnetic moment of the magnet used are obtained.
 
-**Materiales**
+**Materials**
 
 - Four identical magnets.
 - Paper with a printed angle conveyor.
@@ -282,7 +282,7 @@ As you know, the gravitational field created by a particle decreases with the sq
 - Rubber to wipe.
 - It's a timekeeper.
 
-**Montaje**
+**Setup**
 
 (a) First, a compass must be mounted, which will indicate the direction of the magnetic field. For this purpose two cylindrical magnets, connected longitudinally and suspended by a thread of a support constructed with a pipe and a PVC bar, as indicated in Figure 1 shall be used. From now on, we'll call this pair of magnets "A".
 
@@ -299,7 +299,7 @@ To measure the direction of the compass in the conveyor, place under the A magne
 
 c) Finally, a longitudinally the other two magnets (hereinafter pair 'B') and pegels with rubber tape to be erased (Figure 2), so that their height is similar to that of the compass magnets. To facilitate subsequent measurements, lines should be drawn on the rubber that cross the centre of the magnets, as shown in Figure 2.
 
-**Procedimiento experimental**
+**Experimental procedure**
 
 With the previous assembly, the compass is initially oriented in the direction of the horizontal component of the Earth's magnetic field (direction NS). If the pair of magnets B is placed perpendicular (EO direction), the compass rotates until it is oriented in the direction of the total magnetic field, sum of the ground and the magnetic field produced by the magnets B.
 

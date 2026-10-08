@@ -1,5 +1,5 @@
 ---
-title: Russia 2019
+title: Romania 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2019 — Quesito 1" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Romania 2019 — Quesito 1" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,7 +114,7 @@ Università, Ias, i
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2019 — Quesito 2" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/heat-engine"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Romania 2019 — Quesito 2" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -167,7 +167,7 @@ Facoltà di Fisica, Università Occidentale di Timis, Oara
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2019 — Quesito 3" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil,object/battery"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Romania 2019 — Quesito 3" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -196,7 +196,7 @@ Problema 3. Un esperimento analizzato approfonditamente negli ultimi due decenni
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2019 — Quesito 4" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil,object/switch,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Romania 2019 — Quesito 4" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil,object/switch,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -237,7 +237,7 @@ C. Cosa succede se l'anello ha un piccolo gap, come è raffigurato nella seconda
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2019 — Quesito 5" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Romania 2019 — Quesito 5" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -288,7 +288,7 @@ ring, calcola le forze che agiscono su di esso, nonché le forze medie per un pe
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2019 — Quesito 6" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Romania 2019 — Quesito 6" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -339,7 +339,7 @@ Cluj-Napoca
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2019 — Quesito 7" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/magnet,object/magnetic-dipole,object/wire,object/coil"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Romania 2019 — Quesito 7" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/magnet,object/magnetic-dipole,object/wire,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -422,7 +422,7 @@ $A$, $\phi$ possono essere determinati dalle condizioni iniziali.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2019 — Quesito 8" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/magnetic-dipole,object/coil"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Romania 2019 — Quesito 8" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/magnetic-dipole,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -485,7 +485,7 @@ e determinare il valore della costante $c$.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia 2019 — Quesito 9" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/magnet,object/spring,object/disk"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Romania 2019 — Quesito 9" data-tags="kg/prova,paese/Romania,comp/Romania,cluster/Meccanica,object/magnet,object/spring,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

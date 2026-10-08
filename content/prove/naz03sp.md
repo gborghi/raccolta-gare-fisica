@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII 2003 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2003 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

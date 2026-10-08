@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Gravitazione e Astrofisica
-title: Spagna 2009 — 2009 soluciones_08_09.pdf
+title: Spagna 2009 — Soluzioni
 ---
 
 

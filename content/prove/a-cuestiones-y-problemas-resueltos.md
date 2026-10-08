@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Spagna/Jaen/A-Cuestiones y problemas resueltos.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[OFJaen] — A-Cuestiones y problemas resueltos.pdf'
+title: '[OFJaen]'
 ---
 
 

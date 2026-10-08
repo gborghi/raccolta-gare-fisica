@@ -414,7 +414,7 @@ Instructions
 • In the experiment, the signal generator is used as a continuous voltage source. In
 This mode , the signal generator gives a constant voltage output between the voltage input
 (5) and land acquisition GND (7) . The numbers refer to the photograph shown in the instructions for
-The Commission's proposal is not yet adopted.
+general character.
 • The voltage (range: 0-5 V) can be adjusted with the left power meter labeled adjust
 voltage (3) using the screwdriver .
 • When performing this experiment, make sure that the signal generator section that
@@ -474,7 +474,7 @@ Determine the resistance R=V
 The data can be obtained from Chart A.1.
 0.2pt
 A.3
-Usa il Grafico A.1 per determinare l’incertezza $\Delta Rsul$ valore di R nella misura
+Use Graph A.1 to determine the uncertainty $\Delta Rsul$ value of R in the measurement
 with 4PP technique
 0.4pt
 Experiments
@@ -506,7 +506,7 @@ using the laminar resistivity $\rho□≡\rho/t$ (rho box). Its unit is given in
 I'm not sure. 2 is valid only for a homogeneous current density and a constant potential on
 normal sections of the driver. In the case of pointed contact on a surface, this does not hold.
 The resistance of the sheet is related to the resistance in this case by the
-Report by the Commission
+report
 ρ□=
 π
 ln(2) $\cdot R$
@@ -564,7 +564,7 @@ Calculate f(w/s) for each of these measures
 Experiments
 Italian (Italy)
 Q1-9
-The following is the list of the following: Geometric correction factor: law of scale (1.9 points).
+Part D. Geometric correction factor: scaling law (1.9 points).
 It was seen in Part C that the measured resistivity depends on the ratio of sample width
 and the distance between the w/s probes. Based on the data in Part C, we choose the following function:
 Generic to describe data in the measurement range:
@@ -577,7 +577,7 @@ Note that for high values of w/s, f(w/s) must be equal to 1.0.
 D.1
 For the purpose of making the curve fit using the Eq. 6 and data f(w/s), taken
 In Part C, choose the most appropriate chart paper (linear Chart D.1a,
-The following table shows the number of units of the unit of measurement used:
+semi-logarithmic Graph D.1b, or log-log Graph D1.c) to represent
 The data.
 1.0pt
 D.2

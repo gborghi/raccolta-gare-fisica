@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2020 — 2020 soluciones_2020_0.pdf
+title: Spagna 2020 — Soluzioni
 ---
 
 

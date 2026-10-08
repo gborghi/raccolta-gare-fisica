@@ -944,7 +944,7 @@ $$T_\perp = \sin^2 2\theta \sin^2\frac{\delta}{2}$$
 dove $\parallel$ e $\perp$ indicano che l’asse di trasmissione dell’analizzatore è rispettivamente
 parallelo od ortogonale a quello del primo polarizzatore.
 II. Esperimento
-1. Togli dal suo sostegno la cella NT e sostituiscila con la cella LC ad allineamento
+1. Togli dal suo sostegno la cella TN e sostituiscila con la cella LC ad allineamento
 parallelo.
 2. Disponi la configurazione con $\theta = 45^\circ$ lasciando $V = 0$, com’è mostrato in Fig. 8.
 Metti l’asse di trasmissione dell’analizzatore ortogonale a quello del polarizzatore, poi ruota la cella LC ad allineamento parallelo finché l’intensità della luce

@@ -21284,27 +21284,25 @@ TEMPERATURA PER IL TUNGSTENO.") Il file digitale della figura non è stato forni
 
 <div class="qlang-split" data-lang="en"></div>
 
-The radiation law of the black body
+**Blackbody radiation law**
 
-PE4. The city of Mar del Plata, Buenos Aires. Blue, please. 
-The law of radiation states that a hot body emits a power .
-(energy per unit time) in the form of electromagnetic waves. 
-When the radiating body is called the black body (a body that emits and
-The law states that the power is proportional to the
-area and at some power of the temperature at which it is located: 
+PE4. Mar del Plata, Buenos Aires. Azul.
+The radiation law establishes that a hot body emits power
+(energy per unit time) in the form of electromagnetic waves.
+When the radiating body is the so-called blackbody (a body that emits and
+absorbs ideally) the law establishes that the power is proportional to the
+area and to some power of the temperature at which it is found:
 
 T
 A
 P
 .
 
- 
-When the body is not ideal, it emits a fraction of the given power.
-By the law. Then write a factor ε called  on the second member.
-emissivity which is characteristic of body and temperature, this factor 
-Takes values between 0 and 1. 
-Furthermore, the constant that relates the quantities is called the constant of 
-The Commission has already adopted a number of proposals. The law then remains:
+
+When, on the other hand, the body is not ideal, it emits a fraction of the power given
+by the law. A factor ε called "emissivity" is then written on the right-hand side, which is characteristic of the body and of the temperature; this factor
+takes values between 0 and 1.
+Furthermore, the constant that relates the quantities is the so-called Stefan-Boltzmann constant σ. The law then becomes:
 
 
 
@@ -21315,35 +21313,35 @@ P
 .
 .
 
- 
-In this experiment you're going to try to find the value of the power α to which you're going to
-Find the filament of a lamplighter raised. 
- 
-The experimental procedure. 
-To make such a measurement we shall use the following circuit. 
- 
- 
- 
 
+In this experiment you will try to find the value of the power α to which the
+filament of a small lamp is raised.
+
+Experimental procedure.
+To carry out such a measurement we will use the following circuit.
+
+
+
+
+
+OAF 2010 - 96
+
+
+
+
+
+
+
+
+
+The value of the variable resistor is changed and the voltage and the current
+flowing through the lamp are measured. 
  
-The following points shall be added:
- 
- 
- 
- 
- 
- 
- 
- 
- 
-The value of the variable resistance is changed and the voltage and current are measured.
-It's circling through the lamp. 
- 
-The lamp is made of a tungsten filament that is heated.
-when the current is flowing through it. If we consider that at the temperature of 
-All the energy dissipated is by radiation (that is, there is no convection 
-The radiant energy that the body receives from the environment is 
-The radiation is disdainful in the face of what he radiates.
+The lamp is composed of a tungsten filament that heats up
+when current flows through it. If we consider that at the working
+temperature all the dissipated energy is by radiation (that is, there is no convection
+or conduction) and the radiant energy that the body receives from the environment is
+negligible compared to the energy it radiates, then we write the energy balance:
 
 
 
@@ -21355,9 +21353,9 @@ V
 P
 P
 P
-Radiated
+radiated
 electrical
-Radiated
+radiated
 electrical
 .
 .
@@ -21366,25 +21364,25 @@ electrical
 
 
 
- 
- 
-It 's finally here .
+
+
+Finally we have
 
 
 
 T
 A
-Electrical
+Pelectrical
 .
 .
 .
 
- 
- 
-To determine the value of α, we take the logarithm of both sides of the equation.
+
+
+To determine the value of α we take the logarithm of both sides of the equation
 T
 A
-Electrical
+Pelectrical
 ln
 )
 .
@@ -21396,68 +21394,69 @@ ln
 
 
 
- 
- 
-That is, just graph the power logarithm values in 
-function of the logarithm values of temperature and slope will be the value 
-de α. 
- 
-The procedure: 
-II. 
-Arm the figure's circuit with the elements in your table. 
-The Commission shall adopt the following: 
-Before you start measuring, warn the teacher to give you the
-The team's approval. 
-IV. 
-Measure the resistance of the lamp before connecting the circuit. 
-V. 
-Set the source value to a value and take the readings from 
-The voltage at the voltmeter and the intensity at the amperemeter. Before .
-If you read the values, you should wait a few seconds for the value to be read.
-The temperature of the lamp is stabilized. 
-VI. 
-Change the variable resistance value and take the readings 
-I'm going again. You'll have to take five measures in total. The measures of 
-The power should not be less than 5 V and not exceed 9 V.
-V. 
- 
-It asks: 
-1. 
-Arms the table at the bottom where V and  values are shown
-I with your mistake. 
-2. 
-In the same table, complete a column with the values of 
-The Commission has also been asked to provide a detailed explanation of the results of the analysis.
-power. 
 
+
+That is, it is enough to plot the values of the logarithm of the power as
+a function of the values of the logarithm of the temperature, and the slope will be the value
+de α.  
+
+Procedure:
+II. 
+Set up the circuit shown in the figure with the elements on your bench.
+III.
+Before starting to measure, notify the instructor so that they can give you the
+approval of the equipment.
+IV. 
+Measure the resistance of the small lamp before connecting the circuit.
+V. 
+Set the value of the source to a value and take the readings of
+current on the ammeter and of voltage on the voltmeter. Before
+reading the values you must wait a few seconds for the
+temperature of the lamp to stabilize.
+VI. 
+Change the value of the variable resistance and take the readings
+again. You must take 5 measurements in total. The potential measurements
+must not be less than 5 V and must not exceed 9
+V. 
  
-The following points shall be added:
+It is requested:
+1. 
+Prepare the table below where the values of V and
+I are shown with their error.
+2. 
+In the same table, complete a column with the values of the
+power with its error, briefly explain how you calculated the error of the
+power.
+
+
+OAF 2010 - 97
 3. 
-Add another column to the same table, with the values of 
-The focus resistance with its error, explain briefly how to calculate 
-This mistake. 
+Add in the same table another column, with the values of the
+resistance of the bulb with its error, briefly explain how to calculate
+this error.
 4. 
-With the room temperature resistance value, which it has, 
-Add another column to the table with the R/RTamb coefficient value with 
-It's your mistake. 
+With the value of resistance at room temperature, which you have,
+add another column to the table with the value of the ratio R / RTamb with
+its error.
 5. 
-With the R/RTamb value and the graph1 on the next sheet of this 
-The value of the filament temperature is given by its error. 
-Explain how you found this error value. 
+With the value of R / RTamb and graph 1 on the next sheet of this
+statement find the value of the filament temperature with its error.
+Explain how you found this error value.
 6. 
-Add one column with the power log and another with the 
-The logarithm of the temperature. Both numbers must have their own error,
-Explain how to calculate them. 
+Add a column with the logarithm of the power and another with the
+logarithm of the temperature. Both numbers must have their error,
+explain how you calculate them.
 7. 
-Draw on the paper supplied the logarithm of P vs the logarithm of 
+Plot on the supplied paper the logarithm of P vs the logarithm of
 T  
 8. 
-Find the ring with his mistake. 
+Find the slope with its error.
 9. 
-Briefly describe the procedure carried out, indicate the calculations 
-The Commission's proposals for a directive on the protection of workers' rights and the protection of workers' rights and rights 
- 
-Measures 
+Briefly describe the procedure carried out, indicate the calculations
+made and results obtained.
+
+
+Measurements 
  
  
  
@@ -21467,54 +21466,54 @@ Measures
  
  
 1ª 
- 
- 
-  
-  
-  
-  
-  
- 
+
+
+
+
+
+
+
+
 2ª 
- 
- 
-  
-  
-  
-  
-  
- 
+
+
+
+
+
+
+
+
 3ª 
- 
- 
-  
- 
-  
-  
-  
- 
+
+
+
+
+
+
+
+
 4ª 
- 
- 
-  
-  
-  
-  
-  
- 
+
+
+
+
+
+
+
+
 5ª 
- 
- 
-  
-  
-  
-  
-  
- 
- 
-One figure is missing (Graph 1. R/RTMB and R/RTMB
-The digital file of the figure was not
-Provided by the school.
+
+
+
+
+
+
+
+
+
+A FIGURE IS MISSING ("GRAPH 1. RELATIONSHIP BETWEEN R/RTAMB AND
+TEMPERATURE FOR TUNGSTEN.")  The digital file of the figure was not
+provided by the school.
 
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Curve Fitting (metodo)|Curve Fitting]]

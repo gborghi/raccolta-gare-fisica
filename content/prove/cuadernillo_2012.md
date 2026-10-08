@@ -584,70 +584,69 @@ OAF 2012 - 8
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem number one. 
- 
-A mass body M1, initially resting at a height of H,
-descends down the curved surface as shown in Figure 1 and continues 
-moving over the horizontal surface and colliding with another mass body M2, 
-It's resting at point C. 
- 
-Consider that: 
- 
+Problem 1.
+
+A body of mass M1, which is initially at rest at a height H,
+descends along the curved surface shown in Figure 1 and continues
+moving along the horizontal surface and collides with another body of mass M2,
+which is at rest at point C.
+
+Consider that:
+
 i) 
-All movements are made in a vertical plane described by the
-xy plane (of the sheet) in Figure 1. 
+all motions take place in a vertical plane described by the
+xy plane (of the sheet) in Figure 1.
 ii) 
-only friction occurs between M1 and the track in the marked area of 
-length d (the same for M2); 
-(iii) 
-the masses are pointed; 
+friction only occurs between M1 and the track in the marked region of
+length d (the same for M2);
+iii) 
+the masses are point masses;
 iv) 
-All impacts are elastic; 
+all collisions are elastic;
 v) 
  M1 = M2. 
- 
-Study the decline of mass M1 before reaching point C: 
- 
-(a) Draw the chart of the individual body forces corresponding to the
-instant where M1 is in point A and the instant corresponding to it 
-where it is at point B. 
- 
-(b) Is the total acceleration vector when M1 passes through point A equal to 
-What is it? If your answer is negative, draw a vector.
-the acceleration possible. 
- 
+
+Study the descent of mass M1 before reaching point C:
+
+a) Draw the free-body force diagram corresponding to the
+instant when M1 is at point A and the one corresponding to the instant
+when it is at point B.
+
+b) Is the total acceleration vector when M1 passes through point A equal to
+zero? If your answer is negative, draw a possible acceleration vector.
+
 c) 
-Is the total acceleration vector when M1 passes through point B equal to 
-What is it? If your answer is negative, calculate the vector 
-Full acceleration. 
- 
-(d) Calculate the work done on M1 by the friction force, 
+Is the total acceleration vector when M1 passes through point B equal to
+zero? If your answer is negative, calculate the total acceleration
+vector.
+
+d) Calculate the work done on M1 by the friction force,
 before reaching point C. 
  
-(e) What is the kinetic energy of M1 immediately before 
-What's the deal? 
- 
-f) 
-Calculate the velocity vector of M1 just before you reach the point C and 
-Hit the M2. 
- 
-Study the impact between mass M1 and mass M2 and its results: 
- 
-(g) What is the kinetic energy of M1 immediately after that?
-What's the deal? 
-  
-(h) Describe the movement of M1 after impact. 
- 
-(i) What is the total energy of the mass M2 immediately before impact?
-against the spring? 
- 
-(j) What is the kinetic energy of mass M2 immediately before 
-crash into the spring? 
- 
-k) How much does M2 mass compress at spring? 
+e) What is the kinetic energy of M1 immediately before the
+collision?
 
- 
-The following is the list of the Member States' financial statements:
+f) 
+  Calculate the velocity vector of M1 just before reaching point C and
+colliding with M2.
+
+Study the collision between mass M1 and mass M2 and its results:
+
+g) What is the kinetic energy of M1 immediately after that
+collision?
+
+h)  Describe the motion of M1 after the collision.
+
+i) What is the total energy of mass M2 immediately before colliding
+with the spring?
+
+j)  What is the kinetic energy of mass M2 immediately before
+colliding with the spring?
+
+k) How much does mass M2 compress the spring?
+
+
+OAF 2012 - 4
 H 
 M2
 c 
@@ -661,85 +660,85 @@ k
 x 
 y 
 0 
- 
-(l) How far does M2 go after separating from the spring? 
- 
- 
-Study the second collision between mass M1 and mass M2 and its results: 
- 
- 
-(m) Describe the movement of M2 after impact. 
- 
-(n) Describe the movement of M1 after impact. How far does M1 go? 
- 
-(o) Calculate the total work done on M1 by the friction force. 
- 
- 
+
+l) How far does M2 go after separating from the spring?
+
+
+Study the second collision between mass M1 and mass M2 and its results:
+
+
+m)  Describe the motion of M2 after the collision.
+
+n) Describe the motion of M1 after the collision. How far does M1 go?
+
+o) Calculate the total work done on M1 by the friction force.
+
+
 More questions:
+
+p) Below what maximum value of the friction coefficient c would
+mass M1 manage to collide with mass M2 for the first time?
+
+q) If the value of the spring constant k is changed to any
+other value k´, how far will mass M1 go after the second
+collision? 
  
-(p) Below what maximum value of the coefficient of friction c the
-M1 mass would reach to hit M2 mass for the first time? 
- 
-q) If the value of the spring elastic constant k is changed by a value 
-Any other k' how far will mass M1 go after the second?
-What's the deal? 
- 
-Aid: 
- 
-The energy stored by a spring undergoing compression x 
-is given by Er = (1/2) k(x) 2 
- 
-The dynamic brake force is given by Fd = cN where N is the force 
-of normal reaction to the movement surface, applied to the body. 
- 
- 
-In an elastic shock the linear momentum and kinetic energy of the system of
-bodies are preserved. 
- 
-The data: 
- 
+Hints:
+
+The energy "stored" by a spring that undergoes a compression x
+is given by Er = (1/2)k(x)2
+
+The dynamic friction force is given by Fd = cN where N is the
+normal reaction force to the surface of motion, applied to the body.
+
+
+In an elastic collision the linear momentum and the kinetic energy of the system of
+bodies are conserved.
+
+Data:
+
 M1 = M2 = 1 kg 
 H = 5 m 
-c = 0.1 (dynamic friction coefficient) 
+c = 0.1 (coefficient of dynamic friction)
 d = 30 m 
-The following is the list of the following:
-The following conditions shall apply:
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Figure 1 
+g = 9.8 m/s2 (acceleration of gravity)
+k = 784 N/m (spring constant)
 
- 
-The following is the list of the Member States' financial statements:
-Answering sheet 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1
+
+
+OAF 2012 - 5
+Answer Sheet
+
+
+
 a)  
- 
- 
- 
+
+
+
 b)  
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
 c)  
- 
- 
- 
+
+
+
 H 
 M2
 c 
@@ -767,90 +766,90 @@ x
 y 
 0 
 
- 
-The following is the list of the Member States' financial statements:
+
+OAF 2012 - 6
 d)  
- 
- 
- 
+
+
+
 e)  
- 
- 
- 
+
+
+
 f) 
- 
- 
- 
- 
+
+
+
+
 g)  
- 
- 
- 
+
+
+
 h)  
- 
- 
- 
+
+
+
 i) 
- 
- 
- 
- 
+
+
+
+
 j) 
- 
- 
- 
- 
- 
+
+
+
+
+
 k)  
- 
- 
- 
+
+
+
 l) 
- 
- 
- 
 
- 
-The following is the list of the Member States' financial statements:
- 
- 
+
+
+
+
+OAF 2012 - 7
+
+
 m)  
- 
- 
- 
-n)  
- 
- 
- 
-o)  
- 
- 
- 
-p)  
- 
- 
- 
-q)  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
-The following is the list of the Member States' financial statements:
+
+
+n)  
+
+
+
+o)  
+
+
+
+p)  
+
+
+
+q)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OAF 2012 - 8
 
 
 <!--fig:start-->
@@ -3084,100 +3083,99 @@ OAF 2012 - 45
 
 <div class="qlang-split" data-lang="it"></div>
 
-Il salto che è stato un record
+**Il salto che fu un record**
 
-Problema tre . 
- 
-Il salto che è stato un record. 
-Qualche giorno fa, l'austriaco Felix
-Baumgartner si è impegnato a raggiungere il
-velocità 
-di cui al
-suono,
-senza 
-Nessuna .
-- il controllo delle macchine, cioè senza l'uso
-di nessuna nave o dispositivo meccanico 
-che lo porti a questa velocità. Per questo.
-una capsula appesa a un pallone.
-aerostatico 
+Problema 3: .
+
+Il salto che fu un record.
+Pochi giorni fa, l'austriaco Félix
+Baumgartner si propose di raggiungere la
+velocità
+del 
+del suono,
+sin 
+nessuna
+assistenza meccanica, cioè senza l'uso
+di alcun veicolo o dispositivo meccanico
+che lo portasse a quella velocità. Per questo
+una capsula appesa a un pallone
+aerostatico
 de 
-di h?io, 
-specialmente
-Il suo design lo ha messo a un'altezza di circa 40 metri.
-sopra la terra, da dove si è
-E' stato lanciato (immagine). 
- 
-Per il design di questo gesto, il signor Baumgartner ha avuto il suo consiglio.
-Diversi specialisti, tra cui una persona che sa la fisica, come te. 
-In questo problema ci proponiamo di indagare su alcuni aspetti che si sono verificati.
-che si deve tenere in considerazione per il successo di questa avventura. 
-Lungo tutto questo problema si presumerebbe che l'accelerazione della gravità
-è indipendente dall'altezza, e il suo valore è di 9,8 m/s2. Supponiamo anche che
-La velocità del suono è costante in tutta l'atmosfera e pari a 340m/s. 
- 
-a) Supponendo che la caduta fosse libera, quanto tempo ci vorrebbe per
-Felix raggiungere la velocità del suono? 
- 
-b) Che distanza avrebbe percorso in quel periodo di tempo? 
-Tuttavia, su un oggetto che cade nell'atmosfera terrestre agiscono tre.
-Forze: 
+elio,
+appositamente
+progettata, lo collocò a una grande altezza al di sopra
+della terra, da dove si
+lanciò (immagine).
+
+Per il progetto di questa impresa il sig. Baumgartner ebbe la consulenza
+di vari specialisti, tra cui una persona che sa di fisica, come Lei.
+In questo problema ci proponiamo di indagare alcuni aspetti che si dovettero
+tener conto per il compimento riuscito di questa avventura.
+Nel corso di tutto questo problema assumeremo che l'accelerazione di gravità
+sia indipendente dall'altezza, e il suo valore è 9.8 m/s2. Supporremo anche che
+la velocità del suono sia costante in tutta l'atmosfera e uguale a 340m/s.
+
+a) Supponendo che la caduta fosse libera, quanto tempo impiegherebbe
+Félix a raggiungere la velocità del suono?
+
+b) Quale distanza percorrerebbe in quell'intervallo di tempo?
+Tuttavia, su un oggetto che cade nell'atmosfera terrestre agiscono tre
+forze:
 i) 
-La forza della gravità, Fg. 
+La forza di gravità, Fg.
 ii) 
-La forza di galleggiamento, Fede. 
-(iii) 
-la forza di trazione, Fd. 
-Le ultime due forze si oppongono alla resistenza alla caduta libera del corpo. 
-La forza di galleggiamento è uguale in magnitudo al peso del fluido  in questo caso il 
-L'aria dell'atmosfera - dislocata dal corpo (Principio di Archimede). 
-Dall'altra parte la forza di trazione, che è nella stessa direzione ed è di
-In senso contrario al movimento dell'oggetto, ha una grandezza.
+la forza di galleggiamento, Fe.
+iii) 
+la forza di trascinamento, Fd.
+Le ultime due forze oppongono resistenza alla caduta libera del corpo.
+La forza di galleggiamento è uguale in modulo al peso del fluido – in questo caso l'
+aria dell'atmosfera- spostato dal corpo (Principio di Archimede).
+D'altra parte la forza di trascinamento, che è nella stessa direzione ed è di
+verso contrario al moto dell'oggetto, ha un modulo 
           
  
  
-in cui: 
+dove:
  
 Cd è un coefficiente dinamico che dipende dal corpo e dalle
-condizioni del fluido in cui il corpo si muove; 
+condizioni del fluido in cui il corpo si muove;
  
-ρa è la densità dell'atmosfera; 
+ρa è la densità dell'atmosfera;
  
-v è la velocità del corpo in movimento; 
+v è la velocità del corpo in movimento;
  
-A è l'area del corpo trasversale alla direzione del movimento. 
-Indicheremo inoltre ρ alla densità del corpo e m alla sua massa. 
- 
-(c) Indicare la grandezza della forza di fluttuazione F, in termini di
-densità dell'aria e densità e massa del corpo. 
+A è l'area del corpo trasversale alla direzione del moto.
+Indicheremo inoltre con ρ la densità del corpo e con m la sua massa.
 
- 
+c) Esprimere il modulo della forza di galleggiamento Fe, in termini della
+densità dell'aria e della densità e massa del corpo.
+
 OAF 2012 - 15
-d) Scrivi l'equazione di movimento di un corpo che cade in
-l'atmosfera. 
+d) Scrivere l'equazione del moto di un corpo che cade nell'
+atmosfera.
 Se si suppone che la densità dell'atmosfera sia costante, allora per effetto
-La Commissione ha adottato una decisione che prevede che le misure di sicurezza e di sicurezza siano state adottate in base alle misure di sicurezza e di sicurezza.
-Quando il corpo inizia a cadere, raggiunge una velocità finale, nota.
-come velocità limite. 
- 
-e) Trova un'espressione per la velocità limite, sotto l'ipotesi 
-che la densità dell'atmosfera è costante. 
-Per poter rispondere ad alcune delle domande poste da
-l'avventuriero Felix, faremo le seguenti ipotesi:
- 
+dell'azione combinata delle tre forze menzionate sopra, e dopo un certo
+tempo dall'inizio della caduta, il corpo raggiunge una velocità finale, nota
+come velocità limite.
+
+e) Trovare un'espressione per la velocità limite, sotto l'ipotesi
+che la densità dell'atmosfera sia costante.
+Al fine di poter rispondere ad alcune delle domande poste dall'
+avventuriero Félix, faremo le seguenti supposizioni:
+
 i) 
-Felix, indossando il suo abito spaziale, è geometricamente simile a 
-un cilindro di radio r = 40 cm, e di altezza l = 1,85 m, e che il suo 
-la densità è pari a quella dell'acqua: ρ = 1 g/cm3. 
+Félix, indossando la sua tuta "spaziale", è geometricamente simile a
+un cilindro di raggio r = 40 cm, e di altezza l=1.85 m, e che la sua
+densità è uguale a quella dell'acqua: ρ = 1 g/cm3. 
  
 ii) 
-Il coefficiente dinamico di Felix è Cd = 1.5. 
- 
-(iii) 
-La densità dell'atmosfera è costante in tratti, con i
-Valori mostrati nella tabella seguente: 
- 
-Rango di altezza 
+Il coefficiente dinamico di Félix è Cd = 1.5.
+
+iii) 
+La densità dell'atmosfera è costante a tratti, con i
+valori mostrati nella seguente tabella:
+
+Intervallo di altezza
 0-10 (km) 
 10-20 (km) 
 20-30 (km) 
@@ -3187,536 +3185,537 @@ Rango di altezza
 0.0006 
 0.0003 
 0.00002 
- 
+
 iv) 
-La velocità del suono è costante in tutta l'atmosfera e uguale.
+La velocità del suono è costante in tutta l'atmosfera e uguale
 a 340m/s. 
- 
-Considerando tutte queste ipotesi e dati,
- 
-f) Da quali ranghi di altezza sono indicati nella tabella, no 
-Felix dovrebbe lanciarsi se vuole raggiungere il suo obiettivo, cioè superare.
-la velocità del suono? giustifica la tua risposta. 
-La pressione atmosferica diminuisce con l'altezza in base all'espressione 
- 
-                                                             
+
+Tenendo conto di tutte queste ipotesi e dati,
+
+f) Da quali intervalli di altezza tra quelli indicati nella tabella, non
+si dovrebbe lanciare Félix se vuole raggiungere il suo obiettivo, cioè superare
+la velocità del suono? Giustifica la tua risposta.
+La pressione atmosferica diminuisce con l'altezza secondo l'espressione
+
+
           (1) 
- 
-dove P0 = 760 mmHg = 760 Torr, è la pressione atmosferica a livello del mare e H 
-è una costante che si chiama scala di altezza e vale H=8.42km. 
- 
-La figura allegata rappresenta la pressione di vapore dell'acqua in funzione della
-temperatura. Ricorda che la pressione di vapore è la pressione alla quale coesistono.
-la fase liquida e la fase gassosa di una sostanza. 
-  
- 
- 
- 
- 
- 
 
- 
+dove  P0 =760 mmHg = 760 Torr, è la pressione atmosferica a livello del mare e H
+è una costante che si chiama scala di altezza e vale H=8.42km.
+
+Nella figura allegata è rappresentata la pressione di vapore dell'acqua in funzione della
+temperatura.  Ricorda che la pressione di vapore è la pressione alla quale coesistono
+la fase liquida e la fase gassosa di una sostanza.
+
+
+
+
+
+
+
+
 OAF 2012 - 16
-  
- 
- 
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Pressione di vapore dell'acqua. 1 Torr è pari a 1 mmHg 
- 
-Supponiamo che il sangue di Felix sia praticamente acqua e si trovi a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pressione di vapore dell'acqua. 1 Torr equivale a 1mmHg
+
+Supponi che il sangue di Félix sia praticamente acqua e si trovi a
 36ºC. 
-Basandosi sulle informazioni fornite e utilizzando la figura, 
-Rispondi
+Sulla base delle informazioni fornite e usando la figura,
+rispondi 
  
-(g) che effetto avrebbe avuto il sangue di Felix se non indossava un vestito.
-Presione adeguata al momento del lancio
-Capsula? 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+g) quale effetto subirebbe il sangue di Félix, se non usasse una tuta adeguatamente pressurizzata al momento del lancio dalla capsula?
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 OAF 2012 - 17
-Pagina di risposta 
- 
-a)  
- 
- 
-b)  
- 
- 
-c)  
- 
- 
-d)  
- 
- 
-e)  
- 
- 
-f) 
- 
- 
- 
+Foglio di Risposta
 
- 
+a)  
+
+
+b)  
+
+
+c)  
+
+
+d)  
+
+
+e)  
+
+
+f) 
+
+
+
+
+
 OAF 2012 - 18
 g)  
- 
- 
- 
- 
- 
- 
 
- 
+
+
+
+
+
+
+
 OAF 2012 - 19
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Instanza nazionale 
-Prova sperimentale 
- 
- 
 
- 
+
+
+
+
+
+
+
+
+Istanza Nazionale
+Prova Sperimentale
+
+
+
+
 OAF 2012 - 20
-Introduzione: 
- 
-Determinazione della permissività elettrica dell'aria 
-Introduzione 
-Un condensatore è un dispositivo che immagazzina energia in un campo elettrico. 
-Questo dispositivo è costituito da due superfici conduttrici (Platte) 
-separati da un mezzo dielettrico come mostrato in figura 1. 
- 
-Figura 1. Condensatore 
- 
-Quando si applica una differenza di potenziale tra i terminal di un
-- il condensatore, le sue placche conduttrici sono caricate con carico Q e -Q
-rispettivamente. La grandezza della carica Q è data da, 
- 
+Introduzione:
+
+Determinazione della permettività elettrica dell'aria
+Introduzione
+Un condensatore è un dispositivo che immagazzina energia in un campo elettrico.
+Questo dispositivo è formato da due superfici conduttrici (Armature)
+separate da un mezzo dielettrico come mostrato nella Figura 1.
+
+Figura 1. Condensatore
+
+Quando si applica una differenza di potenziale    tra i “terminali” di un
+condensatore, le sue armature conduttrici si caricano con carica Q e -Q
+rispettivamente. Il modulo della carica Q è dato da,
+
        (1) 
- 
-dove C è una costante denominata capacità la cui unità è il Faradio [F]. 
+
+dove C è una costante denominata capacità la cui unità è il Farad [F].
 La capacità dipende dalla forma geometrica e dalle dimensioni del
-Il condensatore, e la capacità elettrica ε del mezzo che separa le plache. 
+condensatore, e dalla permettività elettrica ε del mezzo che separa le armature.
+
+Tra i modi di collegare i condensatori ce ne sono due molto usati: 
  
-Tra i modi di connettere i condensatori ci sono due molto utilizzati: 
- 
--Connezione in serie.
- 
-Figura 2a. Connessione in serie 
- 
-Capacità C di un sistema formato da due capacitori di capacità 
-e collegati in serie (Figura 2a) è tale che: 
- 
- 
-  
- 
-   
- 
+-Collegamento in serie
+
+Figura 2a. Collegamento in serie
+
+La capacità C di un sistema formato da due condensatori di capacità
+e     collegati in serie (Figura 2a) è tale che:
+
+
+
+
+
+
     (2) 
- 
--Connezione parallela.
- 
-Figura 2b. Connessione parallela. 
 
- 
+-Collegamento in parallelo
+
+Figura 2b. Collegamento in parallelo.
+
+
 OAF 2012 - 21
-Capacità C di un sistema formato da due capacitori di capacità 
-e collegati in parallelo (Figura 2b) è: 
- 
-         
-(3) 
- 
-Condensatore cilindrico 
- 
-In questo tipo di condensatore, le plache metalliche sono cilindri posizionati in
-modo coaxial come mostrato in Figura 3. 
- 
- 
-Figura 3 Condensatore cilindrico. 
- 
-Capacità di un condensatore cilindrico di altezza L e di raggio interno e 
-L'interfaccia di un'elettrica è un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di un'elettrica di
-data da: 
-  
-   
-     
-      (4) 
- 
-Obiettivi: 
- 
-- Determinazione della permissività elettrica dell'aria utilizzando un condensatore 
-cilindrico di lunghezza variabile. 
- 
-- Determinare il valore di induzione LB di una bobina. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+La capacità C di un sistema formato da due condensatori di capacità
+e     collegati in parallelo (Figura 2b) è:
 
- 
+
+(3) 
+
+Condensatore cilindrico
+
+In questo tipo di condensatore, le armature metalliche sono cilindri disposti in
+modo coassiale come mostrato nella Figura 3.
+
+
+Figura 3. Condensatore cilindrico.
+
+La capacità di un condensatore cilindrico di altezza L e di raggio interno    ed
+esterno    (     ), con un mezzo di permettività elettrica ε (vedi Figura 3)  è
+data da:
+
+
+
+      (4) 
+
+Obiettivi:
+
+- Determinare la permettività elettrica dell'aria   utilizzando un condensatore
+cilindrico di lunghezza variabile.
+
+- Determinare il valore di induttanza LB di una bobina.
+
+
+
+
+
+
+
+
+
+
+
+
+
 OAF 2012 - 22
-Equipaggiamento: 
- 
-Figura 4 Equipe sperimentale. 
- 
-Parte 1: Calibrazione del trasduttore Capacità-Frequenza. 
- 
-Il trasduttore capacità-frequenza è un dispositivo con il quale si può 
-determinare la capacità (C) di un condensatore attraverso la misurazione della
+Attrezzatura:
+
+Figura 4. Attrezzatura sperimentale.
+
+Parte 1: Calibrazione del trasduttore Capacità-Frequenza.
+
+Il trasduttore capacità-frequenza è un dispositivo mediante il quale si può
+determinare la capacità (C) di un condensatore  attraverso  la misurazione della
 frequenza del segnale di tensione di uscita (V0). 
  
-Figura 5 Schema di connessione Trasduttore Capacità - Frequenza 
- 
-Il diagramma del dispositivo di misurazione è mostrato in figura 5. Frequenza 
-(f) che indica il frequentometro collegato ai bordi di uscita (borni C-
-D) è correlata alla capacità (C) del condensatore collegato nei
-I punti di ingresso (punti A-B) utilizzando l'equazione: 
- 
-  
- 
-      
-(5) 
- 
-dove e sono costanti che dipendono dalla costruzione del trasduttore. 
- 
-Elementi disponibili: 
- 
-- Trasduttore Capacità-Frequenza. 
- 
+Figura 5. Schema di connessione Trasduttore Capacità -Frequenza
 
- 
+Lo schema del dispositivo di misurazione è mostrato nella Figura 5. La frequenza
+(f) che indica il frequenzimetro collegato ai morsetti dell'uscita (morsetti C-
+D) è legata alla capacità (C) del condensatore collegato ai
+morsetti d'ingresso (morsetti A-B) mediante l'equazione:
+
+
+
+
+(5) 
+
+dove   e    sono costanti che dipendono dalla costruzione del trasduttore.
+
+Elementi disponibili:
+
+- Trasduttore Capacità-Frequenza.
+
+
+
 OAF 2012 - 23
-- 3 condensatori di capacità nota con un'incertezza relativa del
+- 3 Condensatori di capacità nota con un'incertezza relativa del
 10%. 
 Colore
-Capacità [pF] 
+Capacità [pF]
 Verde
 56 
-- L'arancia .
+Arancione
 82 
-Bianco .
+Bianco
 120 
+
+- Connettore
+
+- Frequenzimetro (Multimetro).
+
+- Foglio millimetrato.
+
+Utilizzando gli elementi forniti determinate le costanti   e   .
+
+Procedimento:
+
+1.1. Collegate dispositivi di capacità nota all'ingresso del trasduttore
+(morsetti A -B) e determinate la frequenza del segnale di tensione d'uscita (morsetti
+C-D), utilizzando il frequenzimetro. Riportate i valori misurati in una tabella
+(Tabella 1). Per il collegamento dei condensatori all'ingresso del trasduttore,
+utilizzate il connettore fornito. 
  
-- Conector 
- 
-- Frequenza (Multimetro). 
- 
-- Folito di millimetro. 
- 
-Usando gli elementi forniti , determina le costanti e . 
- 
-Procedura: 
- 
-1.1. Connettere dispositivi di capacità nota all'entrata del trasduttore 
-(borne A - B) e determina la frequenza del segnale di tensione di uscita (borne 
-C-D), utilizzando il frequentometro. Roldare i valori misurati in una tabella 
-(Table 1). Per il collegamento dei condensatori all'entrata del trasduttore, 
-Usa il connettore fornito. 
- 
-Nota: 
-- Per la connessione del frequentometro, vedere allegato. 
-- Il trasduttore ha un pulsatore per l'accensione e una luce di indicazione di
-accesa. 
-- In caso di spegnimento del frequentometro, riattivalo usando 
-il pulsante di accensione del medesimo. 
- 
-1.2. Sulla base dei dati misurati, elabora un grafico 1/f vs C. 
- 
-1.3. A partire dal grafico, determina i valori delle costanti dell'equazione 
+Note:
+- Vedi l'Allegato per il collegamento del frequenzimetro.
+- Il trasduttore possiede un pulsante per la sua accensione e una luce di indicazione di
+accensione.
+- Nel caso in cui il frequenzimetro si spenga, riaccenderlo utilizzando il
+pulsante di accensione dello stesso.
+
+1.2. A partire dai dati misurati, elaborare un grafico 1/f vs C.
+
+1.3. A partire dal grafico determinare i valori delle costanti dell'equazione
 (5). 
- 
-Parte 2: Determinazione della capacità elettrica dell'aria 
- 
-Elementi disponibili: 
- 
--Condensatore cilindrico di lunghezza variabile. 
- 
-- Trasduttore Capacità-Frequenza. 
- 
-- Frequenza (Multimetro). 
- 
-- Regola. 
- 
-- Figlia millimetrica. 
- 
 
- 
+Parte 2: Determinazione della permettività elettrica dell'aria
+
+Elementi disponibili:
+
+-Condensatore cilindrico di lunghezza variabile.
+
+-Trasduttore Capacità-Frequenza.
+
+-Frequenzimetro (Multimetro).
+
+-Righello.
+
+-Foglio millimetrato.
+
+
+
 OAF 2012 - 24
- 
-Figura 6. Schema di connessione per il condensatore variabile. 
- 
-Usando gli elementi forniti , si determina il valore di . 
- 
-Procedura: 
- 
-2.1. Determina la frequenza del segnale di voltazione di uscita del trasduttore 
-Capacità-Frequenza (borni C-D) per le diverse posizioni (x) del cilindro 
-interno del condensatore cilindrico. Roldare i valori misurati in una tabella 
-(Tabella 2). 
- 
-Nota: 
-- Per la connessione del frequentometro, vedere allegato. 
-- Il trasduttore ha un pulsatore per l'accensione e una luce di indicazione di
-accesa. 
-- In caso di spegnimento del frequentometro, riattivalo usando 
-il pulsante di accensione del medesimo. 
- 
-2.2. Determina i valori di capacità (C) corrispondenti ai valori di 
-frequenza misurata al punto precedente. 
- 
-2.3. Elaborare un grafico di x vs C. 
- 
-2.4. Aggiusta i valori graficati con una retta e determina la pendenza 
-(m) della stessa. 
- 
-2.5. Misura i diametri interni (a) e esterni (b) delle schede del condensatore 
-cilindrico. 
- 
-2.6. A partire dall'equazione (4) e utilizzando i valori di m, a e b, determinare la 
-- Permito elettrico dell ' aria . 
- 
-Aiuto: 
-   
- 
-               
- 
-Parte 3: Determinazione della costante di induzione (LB) di una bobina. 
- 
-Una bobina è un elemento in grado di immagazzinare energia in un campo.
-Magnetico. Quando la bobina è collegata a una fonte di tensione alternativa, questa si 
-Oppone al cambiamento del corrente. Questa opposizione è caratterizzata da un 
 
+Figura 6. Schema di collegamento per il condensatore variabile.
+
+Utilizzando gli elementi forniti determinare il valore di  .
+
+Procedura:
+
+2.1. Determinare la frequenza del segnale di tensione di uscita del trasduttore
+Capacità-Frequenza (morsetti C-D) per diverse posizioni (x) del cilindro
+interno del condensatore cilindrico. Riportare i valori misurati in una tabella
+(Tabella 2).
+
+Note:
+- Vedi l'Allegato per il collegamento del frequenzimetro.
+- Il trasduttore possiede un pulsante per la sua accensione e una luce di indicazione di
+accensione.
+- Nel caso in cui il frequenzimetro si spenga, riaccenderlo utilizzando il
+pulsante di accensione dello stesso. 
  
+2.2. Determinare i valori di capacità (C) corrispondenti ai valori di
+frequenza misurati nel punto precedente.
+
+2.3. Elaborare un grafico di x in funzione di C.
+
+2.4. Approssimare i valori rappresentati graficamente mediante una retta e determinare il coefficiente angolare
+(m) della stessa.
+
+2.5. Misurare i diametri interno (a) ed esterno (b) delle armature del condensatore
+cilindrico.
+
+2.6. A partire dall'equazione (4) e usando i valori di m, a e b, determinare
+la permettività elettrica dell'aria  .
+
+Suggerimento:
+
+
+
+
+
+Parte 3: Determinazione della costante di induttanza (LB) di una bobina.
+
+Una bobina è un elemento in grado di immagazzinare energia in un campo
+magnetico. Quando la bobina viene collegata a una sorgente di tensione alternata, essa si
+oppone alla variazione della corrente. Questa opposizione è caratterizzata da un
+
+
 OAF 2012 - 25
-parametro denominato inductance (LB) che caratterizza la bobina. L'unità 
-di induzione è il Henrio (H). 
- 
-Un circuito RLC (Figura 7) è costituito da una resistenza R, un condensatore di 
-Capacità C e una bobina di induzione LB collegata in serie e alimentata 
-per una fonte di tensione alternativa V. 
- 
- 
-   
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
+parametro denominato induttanza (LB) che caratterizza la bobina. L'unità
+dell'induttanza è l'Henry (H).
+
+Un circuito RLC (Figura 7) è formato da una resistenza R, un condensatore di
+capacità C e una bobina di induttanza LB collegati in serie e alimentati
+da una sorgente di tensione alternata V.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Figura 7. Circuito RLC serie. 
  
-Quando la frequenza della fonte corrisponde al valore di risonanza (f0), la 
-corrente i che circola nel circuito ha l'ampiezza massima. Il valore di f0 è 
-data da, 
- 
-   
- 
-       
- 
-  
+Quando la frequenza della sorgente corrisponde al valore di risonanza (f0), la
+corrente i che circola nel circuito ha ampiezza massima. Il valore di f0 è
+dato da,
+
+
+
+
+
+
 (6) 
- 
-Elementi disponibili: 
- 
--Fonte di tensione a frequenza variabile (Condensatore a lunghezza variabile + 
-Capacità-Frequenza). 
- 
-- Resistenza.
- 
-- Condensatore.
- 
-- Un'inducenza sconosciuta. 
- 
--Amperimetro (Multimetro) 
- 
-L'induttanza LB della 
-- Il coil. 
- 
-Procedura: 
- 
-3.1. Connettere il condensatore cilindrico (capacità variabile) nei bordi A-
-B del trasduttore Capacità-Frequenza, i terminali C-D del trasduttore 
-funzionano come quelle di uscita di una fonte di tensione di corrente alternativa. 
-Implementa questa  fonte di tensione a frequenza variabile e collegala al circuito 
-RLC fornito. 
- 
 
- 
+Elementi disponibili:
+
+-Sorgente di tensione a frequenza variabile (Condensatore di lunghezza variabile +
+trasduttore Capacità-Frequenza).
+
+-Resistenza
+
+-Condensatore
+
+-Bobina di induttanza incognita.
+
+-Amperometro (Multimetro)
+
+Utilizzando gli elementi forniti determinate il valore dell'induttanza LB della
+bobina.
+
+Procedura:
+
+3.1. Collegando il condensatore cilindrico (capacità variabile) ai morsetti A-
+B del trasduttore Capacità-Frequenza, i morsetti C-D del trasduttore
+funzionano come quelli di uscita di una sorgente di tensione in corrente alternata.
+Realizzate questa "sorgente di tensione a frequenza variabile" e collegatela al circuito
+RLC fornito.
+
+
+
 OAF 2012 - 26
-3.2. Collegare l'ampiecatore in modo da poter misurare il corrente che circola per 
-il circuito. Ricorda che l'ampiecatore si collega in serie e che il corrente 
-che si vuole misurare è alternativo. 
- 
-Nota: 
-- Vedi allegato per la connessione dell'ampiezza. 
-- Il trasduttore ha un pulsatore per l'accensione e una luce di indicazione di
-accesa. 
-- In caso di spegnimento dell'ampiecatore, riattivalo usando il 
-il pulsante di accensione del medesimo. 
- 
-3.3. Varia la frequenza della fonte della fonte di tensione (variegando la 
-capacità del condensatore cilindrico). A partire dai valori di corrente che 
-circolano nel circuito, corrispondenti a valori di frequenza diversi, 
-Configgere una tabella con i risultati delle misurazioni e determinare il valore 
-de f0. Especifica i criteri utilizzati per la determinazione. 
- 
-3.4. Determina il valore di LB. 
- 
- 
+3.2. Collegate l'amperometro in modo da poter misurare la corrente che circola nel
+circuito. Ricordate che l'amperometro si collega in serie e che la corrente
+che si vuole misurare è alternata.
 
+Note:
+- Vedere l'Appendice per il collegamento dell'amperometro.
+- Il trasduttore possiede un pulsante per la sua accensione e una luce di indicazione
+dell'accensione.
+- Nel caso in cui l'amperometro si spenga, riaccendetelo utilizzando il
+pulsante di accensione dello stesso. 
  
+3.3. Variare la frequenza della sorgente della sorgente di tensione (variando la
+capacità del condensatore cilindrico). A partire dai valori delle correnti che
+circolano nel circuito, corrispondenti a diversi valori di frequenza,
+compilare una tabella con i risultati delle misurazioni e determinare il valore
+di f0. Esplicitare i criteri utilizzati nella determinazione.
+
+3.4. Determinare il valore di LB.
+
+
+
+
 OAF 2012 - 27
-Anexo: Uso di multimetro 
- 
-Multimetro come Frequencimetro. 
- 
- 
- 
- 
-Multimetro come Amperimetro in Alterna. 
- 
- 
- 
- 
+Allegato: Uso del Multimetro
 
- 
+Multimetro come Frequenzimetro.
+
+
+
+
+Multimetro come Amperometro in Alternata.
+
+
+
+
+
+
 OAF 2012 - 28
-Pagina di risposta 
-Parte 1. 
- 
-Tabella: foglio da parte. 
- 
-Grafico: foglio da parte. 
- 
-    
- 
- 
-   
- 
- 
-Parte 2. 
- 
-Tabella: foglio da parte. 
- 
-Grafico: foglio da parte 
- 
-   
- 
- 
-   
- 
- 
-   
- 
- 
-   
- 
- 
-Parte 3. 
- 
-Tabella: foglio da parte. 
- 
-    
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Foglio di Risposta
+Parte 1.
 
- 
+Tabella: Foglio a parte.
+
+Grafico: Foglio a parte.
+
+
+
+
+
+
+
+Parte 2.
+
+Tabella: Foglio a parte.
+
+Grafico: Foglio a parte
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parte 3.
+
+Tabella: Foglio a parte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 OAF 2012 - 29
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Primo test preparativo 
-Cinematica e Meccanica 
- 
- 
 
- 
+
+
+
+
+
+
+
+
+Prima Prova Preparatoria
+Cinematica e Meccanica
+
+
+
+
 OAF 2012 - 30
-Problema teorico 1 
- 
-Le funzioni di movimento di due auto A e B sono rispettivamente: 
- 
- 
+Problema Teorico 1
+
+Le funzioni di moto di due auto A e B sono, rispettivamente:
+
+
 1
 (
 / )
@@ -3737,186 +3736,186 @@ m
 
 
 
- 
- 
-a) Determinare la distanza tra le due mobili in t = 2 s; in 
-t = 3,2 minuti e t = 0,7 ore. 
- 
-b) Determinare la posizione del mobile B, quando il mobile A si trova in 
+
+
+a) Determinare la distanza che separa i due mobili in t = 2 s; in
+t = 3.2 min e in       t = 0.7 h.
+
+b) Determinare la posizione del mobile B, quando il mobile A si trova in
 x = 4.5 m. 
   
 c) 
-Per quale valore di t e a quale punto x si verifica l'incontro dei 
-- Automobili? 
- 
-Risolvere b) e c) in modo grafico e analitico. 
- 
- 
- 
-Problema teorico 2 
- 
-La funzione di movimento è mostrata in figura 1.
-x t , di un cellulare, che si 
-trova in x = 0 m per t = -1.3 s. 
-Figura 1 
- 
-a) Determinare la lunghezza totale del percorso in:
-Intervalli di tempo: [ -1.3; 3 ] s; [ 3; 10 ] s; [ 10 ; 14 ] s; [-1.3; 14 ] s 
- 
-b) Determinare la velocità media v negli stessi intervalli di tempo 
-del precedente punto. 
+Per quale valore di t e in quale punto x avviene l'incontro delle
+auto?
 
- 
+Risolvere i punti b) e c) in forma grafica e analitica.
+
+
+
+Problema Teorico 2
+
+Nella Figura 1 è mostrata la funzione di moto, ( )
+x t , di un mobile, il quale si
+trova in   x = 0 m per t = -1.3 s.
+Figura 1
+
+a) Determinare la lunghezza totale del cammino percorso nei seguenti
+intervalli di tempo: [ -1.3; 3 ] s; [ 3; 10 ] s ; [ 10 ; 14 ] s ; [-1.3; 14 ] s
+
+b) Determinare la velocità media v  negli stessi intervalli di tempo
+del punto precedente.
+
+
 OAF 2012 - 31
- 
+
 c) 
-Usando la velocità media ottenuta nell'intervallo [-1.3; 14] s, 
-determinare la lunghezza totale del percorso percorso dal cellulare in
-lo stesso intervallo di tempo, supponendo che la posizione sia una funzione 
-lineare del tempo. Compare questo valore con quello ottenuto in a) per il 
-intervallo [-1.3; 14] s. Spiegare il risultato ottenuto. 
- 
- 
-d) Calcolare la velocità media v negli intervalli di tempo [0.6; 6] s; 
-[2; 4] s; [2.5; 3.5] s. 
- 
-e) Determinare graficamente la velocità istantanea del cellulare nei 
-i seguenti istanti: t = 0 s; t = 9 s; t = 14 s. 
- 
+Usando la velocità media ottenuta nell'intervallo [-1.3; 14] s,
+determinare la lunghezza totale del cammino che percorrerebbe il mobile nello
+stesso intervallo di tempo, supponendo che la posizione sia una funzione
+lineare del tempo. Confrontare questo valore con quello ottenuto in a) per
+l'intervallo [-1.3; 14] s. Spiegare il risultato ottenuto.
+
+
+d) Calcolare la velocità media v negli intervalli di tempo [0.6; 6] s;
+[2; 4] s; [2.5; 3.5] s.  
+
+e) Determinare graficamente la velocità istantanea del mobile nei
+seguenti istanti: t = 0 s; t  = 9 s; t  = 14 s.
+
 f) 
-Per quali valori di t il cellulare si trova a x = 50 m? 
+Per quali valori di t il mobile si trova in x = 50 m? 
  
-g) Per quali valori di t il mobile: 
-i- sta spostando nella direzione di x positivo? 
-ii- si sta spostando nella direzione di x negativo? 
-iii- ha velocità zero? 
- 
- 
- 
-Problema teorico 3 
- 
-Un corpo di massa M, che si trova inizialmente a riposo ad un'altezza H, 
-scende per la superficie curva mostrata in Figura 2. Tutti i 
-i movimenti sono realizzati a piano verticale. Considera che la pista è libera da 
-il taglio, eccetto nella zona segnata di lunghezza d. Supponiamo che la massa M sia 
-puntuale. 
- 
-g) Sviluppa il diagramma del corpo isolato passando per i punti A e B. 
- 
-h) In quei punti il vettore di accelerazione totale è uguale o diverso da 
-- Zero? 
- 
+g) Per quali valori di t il mobile:
+i- si sta spostando nella direzione positiva di x?
+ii- si sta spostando nella direzione negativa di x?
+iii- ha velocità nulla?
+
+
+
+Problema Teorico 3
+
+Un corpo di massa M, che si trova inizialmente in quiete a un'altezza H,
+scende lungo la superficie curva mostrata nella Figura 2. Tutti i
+movimenti avvengono nel piano verticale. Si consideri che la pista è priva di
+attrito, tranne nella zona contrassegnata di lunghezza d. Si supponga che la massa M sia
+puntuale.
+
+g) Si faccia il diagramma del corpo isolato al passaggio per i punti A e B.
+
+h) In quei punti il vettore accelerazione totale è uguale o diverso da
+zero?
+
 i) 
-Disegna un vettore di accelerazione totale possibile quando passa attraverso A. 
- 
+Si disegni un possibile vettore accelerazione totale quando passa per A.
+
 j) 
-Calcola il vettore di accelerazione totale al punto B. 
- 
+Si calcoli il vettore accelerazione totale nel punto B.
+
 k) 
-Supponiamo che la massa M sia arrivata al punto C.
-effettuato dalla forza di ruggine sulla massa M? 
- 
+Si supponga che la massa M sia arrivata al punto C. Quanto vale il lavoro
+compiuto dalla forza di attrito sulla massa M?
+
 l) 
-Calcola il vettore di velocità al punto C. 
- 
-m) Quanto compressa la massa M alla primavera? 
- 
-n) Quanto raggiunge la massa M dopo aver lasciato la primavera? 
- 
-Datati: 
+Si calcoli il vettore velocità nel punto C.
+
+m) Quanto comprime la massa M la molla?
+
+n) Fino a dove arriva la massa M dopo aver lasciato la molla?
+
+Dati:
 M = 1 kg 
 H = 5 m 
-c = 0,1 (coefficiente di rasatura dinamica) 
+c = 0,1 (coefficiente di attrito dinamico)
 d = 30 m 
-g = 9,8 m/s2 (accelerazione da gravità) 
-k = 784 N/m. (constante elastica della primavera) 
+g = 9,8 m/s2 (accelerazione di gravità)
+k = 784 N/m. (costante elastica della molla) 
 
  
 OAF 2012 - 32
- 
-Figura 2 
- 
- 
- 
-Problema sperimentale 
- 
-Per ciascun compito si deve compiere un breve rapporto che contiene i seguenti punti: 
-a) Obiettivo 
-b) Descrizione del metodo di misurazione (schema). 
-c) Valori misurati (tabelle, grafici, ecc.). 
-d) Risultato. 
- 
-Tese 1 
-- Determina il coefficiente di rottura statica tra una regola e una
-gomma. 
- 
-- Tese 2
-- Determina la densità di un foglio di carta (utilizza fogli di carta di
-massa per metro quadrato conosciuto, ad esempio 70 gr/m2). 
- 
- 
- 
- 
- 
 
- 
+Figura 2
+
+
+
+Problema Sperimentale
+
+Per ogni compito realizzare un breve rapporto che consti dei seguenti punti:
+a) Obiettivo
+b) Descrizione del metodo di misura (schema).
+c) Valori misurati (tabelle, grafici, ecc.).
+d) Risultato.
+
+Compito 1
+- Determinare il coefficiente di attrito statico tra una riga e una
+gomma.
+
+Compito 2
+- Determinare la densità di un foglio di carta (utilizzare fogli di carta di
+massa per metro quadrato nota, per esempio 70 gr/m2).
+
+
+
+
+
+
+
 OAF 2012 - 33
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Secondo test preparatorio 
-Termodinamica 
- 
- 
 
- 
+
+
+
+
+
+
+
+
+Seconda Prova Preparatoria
+Termodinamica
+
+
+
+
 OAF 2012 - 34
-Problema teorico 1 
+Problema Teorico 1
+
+Una delle prime stime del numero di Avogadro fu realizzata da
+Lord Rayleigh nel 1890. Egli osservò che quantità molto piccole di alcuni
+oli si spargono su aree molto ampie quando vengono depositate sulla
+superficie di uno stagno d'acqua. In condizioni di quiete la "macchia di
+olio" è approssimativamente circolare, cosicché la superficie coperta può essere
+calcolata misurandone il diametro. In particolare, si osserva che un milligrammo di
+acido oleico (olio), la cui densità è 0.9 g/cm3, copre una superficie
+approssimativa di 0.9 m2.
+
+a) Qual è lo spessore dello strato di olio? 
  
-Una delle prime stime del numero di Avogadro fu fatta da 
-Lord Rayleigh nel 1890. Ha osservato che quantitativi molto piccoli di alcuni
-Le oli si diffondono in aree molto ampie quando vengono depositate sulla superficie del
-superficie di un stagno d'acqua. In condizioni di riposo la macchia di
-l'olio" è circolare circa, in modo che la superficie coperta può 
-si calcola misurando il diametro. In particolare, si osserva che un miligramma di
-acido oleico (olio), densità 0,9 g/cm3, copre una superficie 
-circa 0,9 m2. 
- 
-a) Qual è lo spessore dell'olio? 
- 
-b) Supponendo che il spessore dell'olio corrisponda al
-diametro molecolare, che le molecole sono sferiche alla fine del
-stima e che sono in contatto tra loro nel film olio, 
-Qual è il volume stimato per una molecola? 
- 
-c) Estimare la costante di Avogadro (numero di molecole per mol di 
-La sostanza) a partire dai dati dell'esperimento, considerando che un
-Mol di acido oleico ha una massa di 282,5 g/mol. 
- 
- 
- 
-Problema teorico 2 
- 
-Storicamente, la temperatura T è stata definita empiricamente a partire da
-una magnitudine termometrica x sperimentalmente accessibile. Il caso più
-nota nella vita quotidiana, per esempio, è quando x rappresenta l'altezza di una
-colonna di mercurio all'interno di un capillario. Quello che conosciamo come termometro.
-di mercurio. Una definizione empirica (esperimentare) della temperatura è: 
- 
-i) Partiamo da due punti fissi (x1 , x2), ai quali vengono assegnati 
-- determinati arbitrariamente (T1 , T2) sulla scala termometrica che viene
-sta definendo. Poi si stabilisce una relazione lineare tra la
-Maggiorità termometrica misurata e temperatura (T = A (x x1) + B), utilizzando i 
-punti (x1 , T1) e (x2 , T2). Per chiarezza, facciamo in figura 1 un 
-Rappresentazione grafica per il caso 
-di scala termometrica Celsius 
-e Fahrenheit.
+b) Assumendo che lo spessore dello strato di olio corrisponda al
+diametro molecolare, che le molecole siano sferiche ai fini della
+stima e che siano in contatto tra loro nel film di olio,
+qual è il volume stimato per una molecola?
+
+c) Stimare la costante di Avogadro (numero di molecole per mole di
+sostanza) a partire dai dati dell'esperimento, considerando che una
+mole di acido oleico ha una massa di 282,5 g/mol.
+
+
+
+Problema Teorico 2
+
+Storicamente la temperatura T è stata definita in modo empirico a partire da
+una grandezza termometrica x accessibile sperimentalmente. Il caso più
+noto nella vita quotidiana, per esempio, è quando x rappresenta l'altezza di una
+colonna di mercurio all'interno di un capillare. Ciò che conosciamo come termometro
+a mercurio. Una definizione empirica (sperimentale) della temperatura è:
+
+i) Partiamo da due punti fissi (x1 , x2), ai quali vengono assegnati
+arbitrariamente determinati valori (T1 , T2) nella scala termometrica che si
+sta definendo. Poi, si stabilisce "a priori" una relazione lineare tra la
+grandezza termometrica misurata e la temperatura (T = A (x –x1) + B), utilizzando i
+punti (x1 , T1) e (x2 , T2). Per maggiore chiarezza, facciamo nella figura 1 una
+rappresentazione grafica per il caso
+delle scale termometriche Celsius
+e Fahrenheit 
  
  
  
@@ -3942,153 +3941,146 @@ T oF
 T oC 
 cm 
 
- 
+
 OAF 2012 - 35
-a) Determinare i valori delle costanti A e B quando la definizione i) è
-applicabile alla costruzione di qualsiasi scala termometrica. 
- 
-b) Usando la tabella seguente, trovare le espressioni che permettono 
-Convertire i gradi Celsius a ciascuna delle altre scale: 
- 
- 
+a) Determinare i valori delle costanti A, B quando la definizione i) si
+applica nella costruzione di una scala termometrica qualsiasi.
+
+b) Utilizzando la seguente tabella, trovare le espressioni che permettano
+di convertire i gradi Celsius in ciascuna delle altre scale:
+
+
 oC 
 oF 
-O Ra 
+oRa 
 K 
-Temperatura di fusione del 
+Temperatura di fusione del
 ghiaccio
 0 
 32 
 492 
 273 
-Temperatura di 
-evaporazione dell'acqua 
+Temperatura di
+evaporazione dell'acqua
 100 
 212 
 672 
 373 
- 
-dove oC rappresenta la scala di gradi Celsius o quella di gradi Fahrenheit,
-O la di gradi Rankine, K la di gradi Kelvin. 
- 
- 
- 
-Problema teorico 3 
- 
-Un recipiente, che può essere considerato adiabatico (non scambiano calore con il
-Il contenuto di 1 kg di acqua a temperatura ambiente. Un 
-Il termometro di mercurio, immerso nell'acqua, indica che il
-La temperatura del sistema è di 27°C. Nel recipiente si versa acqua in stato di 
-Boiling (100°C) e, quando la temperatura dell'acqua si stabilizza, il termometro 
-indica che la temperatura del sistema è di 50°C. Il trasferimento di calore al 
-il contenitore può essere considerato disprezzo. 
- 
-a) Qual è la massa di acqua in stato di ebollizione che è stata aggiunta al 
-contenitore? Si noti che il calore specifico dell'acqua è 
-acqua = 1 cal/(oC g), e massa di acqua equivalente per il termometro 
-di mercurio è meq=10 g. 
- 
-b) Ora vengono estratti da un congelatore tre cubetti di ghiaccio, di 20 g di
-La massa di ciascuna è di -20 °C, e si aggiungono alla temperatura di -20 °C.
-contenitore. Calcolare la temperatura che il termometro indica quando il 
-Il sistema raggiunge l'equilibrio. 
- 
-Data: Calore latente di fusione del ghiaccio ghiaccio = 80 cal/g, calore specifico del ghiaccio: 
-il calcio = 0,53 cal/(oC g), 
- 
- 
- 
-Problema sperimentale: costruzione di un termometro a gas 
- 
-Obiettivo: costruire un termometro a gas utilizzando elementi facilmente accessibili. 
- 
-Breve descrizione 
-Un termometro a gas usa come sostanza termometrica un gas. Il principio 
-La funzione è che se una determinata quantità di gas è innescata 
-in un recinto di volume V1, a una pressione P1 e a una temperatura T1, si pone 
-in contatto con un corpo a una temperatura T2, con cui raggiunge il
-equilibrio termico, si verifica un cambiamento di pressione e di volume (P2 e V2). Vedi
-- Figura. 
- 
 
+dove oC rappresenta la scala dei gradi Celsius, oF quella dei gradi Fahrenheit,
+oRa quella dei gradi Rankine, K quella dei gradi Kelvin.
+
+
+
+Problema Teorico 3
+
+Un recipiente, che può essere considerato adiabatico (non scambia calore con
+l'ambiente), contiene 1 Kg di acqua a temperatura ambiente. Un
+termometro a mercurio, che si trova immerso nell'acqua, indica che la
+temperatura del sistema è di 27oC. Nel recipiente si versa acqua in stato di
+ebollizione (100oC) e, quando la temperatura dell'acqua si stabilizza, il termometro
+indica che la temperatura del sistema è di 50oC. Il trasferimento di calore al
+recipiente può essere considerato trascurabile.
+
+a) Qual è la massa di acqua in stato di ebollizione che è stata aggiunta al
+recipiente? Si tenga conto che il calore specifico dell'acqua è
+cacqua = 1 cal/(oC g), e la massa d'acqua equivalente per il termometro
+a mercurio è meq=10 g. 
  
+b) Ora si estraggono da un congelatore tre cubetti di ghiaccio, di 20 g di
+massa ciascuno e a una temperatura di -20 °C, e si aggiungono al
+recipiente. Calcolare la temperatura che indicherà il termometro quando il
+sistema raggiungerà l'equilibrio.
+
+Dati: Calore latente di fusione del ghiaccio ghiaccio = 80 cal/g, calore specifico del ghiaccio:
+cghiaccio = 0.53 cal/(°C g),
+
+
+
+Problema Sperimentale: Costruzione di un termometro a gas
+
+Obiettivo: costruire un termometro a gas utilizzando elementi di facile accesso.
+
+Breve descrizione
+Un termometro a gas utilizza come sostanza termometrica un gas. Il principio
+di funzionamento risiede nel fatto che se una determinata quantità di gas racchiusa
+in un ambiente di volume V1, a una pressione P1 e a una temperatura T1, viene messa
+in contatto con un corpo a una temperatura T2, con il quale raggiunge
+l'equilibrio termico, subisce un cambiamento di pressione e volume (P2 e V2). Vedi
+figura.
+
+
+
 OAF 2012 - 36
-Supponendo che si tratti di un gas ideale, la pressione, il volume e il
-la temperatura soddisfa l'equazione di stato dei gas ideali: 
-, dove P è la pressione del gas, n il numero di molli di gas, V il 
-volume che occupa e T la temperatura a cui si trova. 
+Supponendo che si tratti di un gas ideale, il cambiamento di pressione, volume e
+temperatura soddisferà l'equazione di stato dei gas ideali:
+           , dove P è la pressione del gas, n il numero di moli di gas, V il
+volume che occupa e T la temperatura alla quale si trova. 
  
-Quindi, per un numero costante di molli di gas ideale, si ottengono i rapporti 
-tra le variabili termodinamiche corrispondenti allo stato (1) e al 
-stato (2): 
- 
-     
-  
-       
-   
- 
-Per il caso della figura si risponde che: 
- 
-               
-               
-                 
- 
-Dove Patm è la pressione atmosferica (1,013 105 Pa),  è la densità dell'acqua 
-(1,0 g cm-3), g è l'accelerazione della gravità (9,80 m s-2), A è la sezione 
-il tubo, h1 e h2 con i livelli di acqua in ogni stato. 
- 
-Con le considerazioni precedenti, si può arrivare alla seguente 
-Approximamento: 
- 
-  
-         
-    
-  
-           
- 
- 
-Consigna 1 
-Realizzare la costruzione di un dispositivo simile a quello riportato nella figura. 
-È importante che il sistema non abbia perdite (usando cera,
-La plastilina, ecc.); cioè non cambia la quantità di gas contenuto nel
-- Il recinto. 
- 
-Elementi che possono risultare utili: 
- Un contenitore con copertura (frasco sterile per analisi) 
- Una sorbetta o un tubo fino 
- Plastilina (pacco piccolo) 
- Candela di cera e mattassi… solo sotto la supervisione del professore! 
- Acqua 
- Scaldabagno … solo sotto la supervisione del professore! 
- Acqua con ghiaccio 
- termometro aulico 
- Regola 
- Fascia adesiva di carta (fina) 
- Lapicera (può essere di inchiostro indelebile) 
- 
-Consigna 2 
-Per effettuare il calibrazione del dispositivo per funzionare come termometro tra 
-0°C y 40°C. Questa calibrazione può essere effettuata con un punto fisso o con due punti.
-valori di temperatura noti. 
- 
- 
+Così, per un numero costante di moli di gas ideale, vale la relazione
+tra le variabili termodinamiche corrispondenti allo stato (1) e allo
+stato (2):
 
+
+
+
+Per il caso della figura si avrà che:
+
+
+
+
+Dove Patm è la pressione atmosferica (1,013 105 Pa),  è la densità dell'acqua
+(1,0 g cm-3), g è l'accelerazione di gravità (9,80 m s-2), A è la sezione
+trasversale del tubicino, h1 e h2 sono i livelli dell'acqua in ciascuno stato.
+
+Con le considerazioni precedenti, si può giungere alla seguente
+approssimazione:
+
+
+
+
+Consegna 1
+Realizzare la costruzione di un dispositivo simile a quello della figura.
+È importante fare in modo che il sistema non abbia "perdite" (utilizzando cera,
+plastilina, ecc.); cioè, che non cambi la quantità di gas racchiusa nel
+recipiente.
+
+Elementi che possono risultare utili:
+ Un recipiente con coperchio (flacone sterile per analisi)
+ Una cannuccia o tubicino sottile
+ Plastilina (pacchetto piccolo)
+ Candela di cera (candela) e fiammiferi… solo sotto la supervisione dell'insegnante!
+ Acqua
+ Riscaldatore d'acqua… solo sotto la supervisione dell'insegnante!
+ Acqua con ghiaccio
+ Termometro da aula
+ Righello
+ Nastro adesivo di carta (sottile)
+ Penna (può essere a inchiostro indelebile) 
  
+Quesito 2
+Realizzare la calibrazione del dispositivo affinché funzioni come termometro tra
+0°C e 40°C. Questa calibrazione può essere realizzata con un punto fisso o con due
+valori di temperatura noti.
+
+
+
+
 OAF 2012 - 37
-Consegna 3 
-Determinare la temperatura ambiente con il termometro costruito e confrontarla 
-con il valore indicato dal termometro aulico. 
- 
- 
-Figura di problema sperimentale 
- 
- 
- 
- 
- 
- 
- 
- 
+Quesito 3
+Determinare la temperatura ambiente con il termometro costruito e confrontarla
+con il valore indicato dal termometro dell'aula.
+
+
+Figura problema sperimentale
+
+
+
+
+
+
+
+
 h2-h1 
 Patm 
 V2 
@@ -4099,310 +4091,286 @@ T2
 V1 
 h1 
 h2 
-Stato 1 
-Stato 2 
+Stato 1
+Stato 2
 
- 
+
 OAF 2012 - 38
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Terzo test preparatorio 
-L'elettricità e il magnetismo 
- 
- 
 
- 
+
+
+
+
+
+
+
+
+Terza Prova Preparatoria
+Elettricità e Magnetismo
+
+
+
+
 OAF 2012 - 39
-Problema teorico 1 
- 
-La figura 1 mostra un circuito i cui elementi hanno i seguenti valori: 
+Problema Teorico 1
+
+La Figura 1 mostra un circuito i cui elementi hanno i seguenti valori:
 1 = 2.1 V, 2 = 6.3 V, R1 =1.7 Ω, R2 = 3.5 Ω. 
- 
-Trova le correnti nei tre rami del circuito. 
- 
-Figura 1 
- 
-Le frecce nelle fonti indicano il senso in cui aumenta il potenziale 
-elettrico. 
- 
- 
- 
-Problema teorico 2 
- 
-Un filo orizzontale lungo, sostenuto rigidamente, conduce un corrente di
-96 A. Proprio sopra e parallelo a lui c' è un filo sottile di peso.
-per metro 0,73 N/m e che conduce un corrente ib di 23 A. 
- 
-a) In che senso devono circolare le correnti per avere ripulsione 
-Magnetismo tra i fili? 
- 
-b) A che altezza sul filo inferiore dovrebbe essere esteso il secondo?
-Se speriamo di sopportarlo con la repulsione magnetica? 
- 
- 
- 
-Problema teorico 3 
- 
-Nel modello atomico di Bohr dell'atomo di idrogeno, l'elettrone gira intorno.
-Il nucleo è in una traiettoria circolare di 5,29 x 10-11 m di raggio e a una
-Frequenza di 6,63 x 1015 Hz (o rivoluzioni/secondo). 
- 
-a) Quale valore di campo magnetico B viene generato al centro dell'orbita? 
- 
-b) Qual è il momento di dipolarità magnetica equivalente? 
- 
- 
- 
-Prova sperimentale 
-Obiettivi: 
-- Costruire un elettromagneto. 
 
+Trovare le correnti nei tre rami del circuito.
+
+Figura 1
+
+Le frecce nei generatori indicano il verso in cui aumenta il potenziale
+elettrico.
+
+
+
+Problema Teorico 2
+
+Un lungo filo orizzontale, sostenuto rigidamente, conduce una corrente ia, di
+96 A. Direttamente sopra di esso e parallelo ad esso c'è un filo sottile di peso
+per metro 0.73 N/m e che conduce una corrente ib di 23 A.
+
+a) In quale verso devono circolare le correnti affinché ci sia repulsione
+magnetica tra i fili?
+
+b) A quale altezza sopra il filo inferiore bisognerebbe tendere il secondo
+filo se speriamo di sostenerlo mediante repulsione magnetica? 
  
+ 
+ 
+Problema Teorico 3
+
+Nel modello atomico di Bohr dell'atomo di idrogeno, l'elettrone ruota attorno
+al nucleo su una traiettoria circolare di raggio 5.29 x 10-11 m e a una
+frequenza  di 6.63 x 1015 Hz (o giri/secondo).
+
+a) Quale valore di campo magnetico B si genera al centro dell'orbita?
+
+b) Qual è il momento di dipolo magnetico equivalente?
+
+
+
+Prova Sperimentale
+Obiettivi:
+- Costruire un elettromagnete.
+
+
 OAF 2012 - 40
-- Costruire una compassa. 
-- Verificare il comportamento del modulo del campo di induzione
-Magnetico prodotto da un dipolo magnetico sull'asse di esso, 
-risponde a una legge del tipo 1/x3. 
- 
-Breve descrizione 
-Un elettromagnetico è un dispositivo per ottenere un campo di
-Induzione magnetica B. Una configurazione comune consiste in un chiodo di ferro.
-(o qualsiasi altro materiale ferromagnetico) su cui è stato ripiegato un qualche
-numero di giri di filo di rame (vedere figura 1). 
-Quando la bobina è collegata a una fonte di tensione, il corrente elettrica che
-circola attraverso di essa produce un campo di induzione magnetica. Il campo B che si
-- Si ottiene con un elettromagneto dipende dalla configurazione geometrica.
-in cui è utilizzato; nel caso di quanto sopra descritto (chiodo e bobina) è simile a quello di un 
-dipolo magnetico. 
- 
- 
- 
- 
- 
- 
- 
- 
-Figura 1 
- 
-Il modulo del campo di induzione magnetica, B, prodotto da un dipolo 
-Magnetico modulo Pm lungo la direzione dell'asse del dipolo e a una 
-Distanza x, è data da: 
- 
-          
-         
-     
- 
-La direzione del vettore di campo di induzione magnetica in questo caso è quella di 
-L'asse x. 
- 
-Una compassa è un strumento per determinare la direzione.
-Nord-sud (N-S) sulla superficie terrestre; in generale, può essere usato per 
-determinare la direzione, a un determinato punto, di un campo di induzione 
-Qualsiasi magnetico. Consiste in un ago magnetico che può girare.
-liberamente, quindi orientandosi nella direzione del campo di induzione 
-Magnetico. 
- 
- 
- 
- 
- 
- 
- 
-Figura 2 
- 
-L'asse dell'elettromane 
+- Costruire una bussola.
+- Verificare se il comportamento del modulo del campo di induzione
+magnetica prodotto da un dipolo magnetico sul suo asse,
+risponde a una legge del tipo 1/x3.
 
+Breve descrizione
+Un elettromagnete è un dispositivo mediante il quale si ottiene un campo di
+induzione magneti-ca B. Una configurazione usuale consiste in un chiodo di ferro
+(o qualche altro materiale ferromagnetico) sul quale è stato avvolto un certo
+numero di spire di filo di rame (vedi figura 1).
+Quando la bobina viene collegata a una sorgente di tensione, la corrente elettrica che
+vi circola produce un campo di induzione magnetica. Il campo B che si ottiene mediante un elettromagnete dipende dalla configurazione geometrica
+utilizzata; nel caso di quello descritto sopra (chiodo e bobina) è simile a quello di un
+dipolo magnetico.  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1
+
+Il modulo del campo di induzione magnetica, B, prodotto da un dipolo
+magnetico di modulo Pm lungo la direzione dell'asse del dipolo e a una
+distanza x, è dato da:
+
+
+
+
+
+La direzione del vettore campo di induzione magnetica in questo caso è quella dell'
+asse x.
+
+Una bussola è uno strumento mediante il quale si può determinare la direzione
+nord-sud (N-S) sulla superficie terrestre; in generale, può essere usata per
+determinare la direzione, in un punto determinato, di un campo di induzione
+magnetica qualsiasi. Consiste di un ago magnetizzato che può ruotare
+liberamente, per cui si orienta nella direzione del campo di induzione
+magnetica.
+
+
+
+
+
+
+
+Figura 2
+
+Asse dell'elettromagnete
+
+
 OAF 2012 - 41
-Consigna 1 
+Quesito 1
+
+a) Realizzare la costruzione di un elettromagnete simile a quello della figura 1, con
+una bobina di almeno 30 spire di filo.
+
+b) Verificarne il funzionamento! Descrivere il procedimento utilizzato.
+
+Elementi che possono risultare utili:
+- Un chiodo di circa 5cm di lunghezza.
+- Filo sottile di rame (fili di cavi elettrici, filo smaltato di bobine, ecc.), circa 1m.
+- Nastro adesivo di carta.
+- Cavi conduttori per connessioni elettriche.
+- Pila da 1,5 V (possibilmente tipo A e nuova). 
  
-a) Costruire un elettromagneto simile a quello di cui alla figura 1, con 
-una bobina di almeno 30 giri di filo. 
- 
-b) Verificare il funzionamento! Descrivere la procedura utilizzata. 
- 
-Elementi che possono risultare utili: 
-- Un chiodo lungo circa 5 centimetri. 
-- fine fili di rame (filamenti di fili elettrici, fili di fiocco)
-di coil smaltato, ecc.), circa 1 m. 
-- Fascia adesiva di carta. 
-- Cable conduttori per le connessioni elettriche. 
-- Batteria di 1,5 V (possibile tipo A e nuova). 
- 
-Nota: è importante che le rotte di filo che si rotolano non si
-non si corteggiano tra loro né con il chiodo. Per questo, in caso di non usare il filo 
-smaltato, si consiglia di coprire il chiodo con un isolante (cassetta di carta o carta) 
-e assicurarsi che le rotte di filo siano e restino separate tra loro. 
- 
-Consigna 2 
- 
-a) Costruire una compassa simile a quella di cui alla figura 2. 
- 
-b) Verificare il funzionamento! Descrivere la procedura utilizzata. 
- 
-Elementi che possono risultare utili: 
-- Un coperchio o un recipiente di scarsa profondità non metallico (ad esempio:
-copertura di bottiglia sterile per analisi). 
-- Un pincino magnetizzato. 
-- Un pezzo di carta .
-- L'acqua. 
- 
-Nota: 
-- Magnetizza la pinna usando l'elettromagnetico. Per questo dovrà sostenere la
-testa del colpo sopra la testa del clavo/nucleo dell'elettromagnetico (con questo 
-ultimo in funzione). 
-- È importante che la ago possa ruotare liberamente; per questo, utilizzare un piccolo pezzo 
-La sua superficie è di acqua. Ni la 
-Neppure il pesce (papillone) deve toccare il bordo del cubo. 
- 
-Consegna 3 
- 
-Verificare che il modulo del campo di induzione magnetica B lungo l'asse del 
-L'elettromagnetismo varia a distanza come quello di un dipolo magnetico, cioè:
+Nota: È importante che le spire di filo che vengono avvolte non si cortocircuitino tra loro né con il chiodo. Per questo, nel caso non si usi filo smaltato, si raccomanda di coprire il chiodo con un isolante (nastro di carta o carta) e di fare attenzione che le spire di filo siano e rimangano separate tra loro.
+
+Consegna 2
+
+a) Realizzare la costruzione di una bussola simile a quella della figura 2.
+
+b) Verificarne il funzionamento! Descrivere il procedimento utilizzato.
+
+Elementi che possono risultare utili:
+- Un coperchio o recipiente di poca profondità e non metallico (per esempio, coperchio di un barattolo sterile per analisi).
+- Uno spillo magnetizzato.
+- Un pezzetto di carta
+- Acqua.
+
+Note:
+- Magnetizzare lo spillo utilizzando l'elettromagnete. Per questo compito si deve appoggiare la testa dello spillo sulla testa del chiodo/nucleo dell'elettromagnete (con quest'ultimo in funzione).
+- È importante che l'ago possa ruotare liberamente; per questo, utilizzare un pezzetto di carta per appoggiarlo, lo stesso galleggerà su una superficie d'acqua. Né l'ago né la barchetta (pezzetto di carta) devono toccare il bordo della vaschetta.
+
+Consegna 3
+
+Verificare che il modulo del campo di induzione magnetica B lungo l'asse dell'elettromagnete varia con la distanza come quello di un dipolo magnetico, cioè: 
  
       
      
  
-Elementi che possono risultare utili: 
-- La compassa costruita. 
-- L'elettromagneto costruito. 
-- Foglie bianche. 
-- Papero millimetrico. 
+Elementi che possono risultare utili:
+- La bussola costruita.
+- L'elettromagnete costruito.
+- Fogli bianchi.
+- Carta millimetrata.
 
- 
+
 OAF 2012 - 42
-- Regola. 
-- Una penna. 
+- Righello.
+- Matita.
+
+Per effettuare la verifica, posizionare l'asse dell'elettromagnete perpendicolare al campo
+magnetico terrestre e su un piano parallelo alla superficie terrestre. In questo
+modo, la presenza del campo dell'elettromagnete sommato vettorialmente a quello
+terrestre produrrà una deviazione dell'ago rispetto alla direzione nord-sud
+(N-S). La tangente trigonometrica dell'angolo ( ) tra l'ago e la direzione
+nord-sud è proporzionale al campo di induzione magnetica prodotto
+dall'elettromagnete. Determinare la tangente di α per diverse distanze x tra
+l'elettromagnete e l'ago della bussola.
+
+Procedura suggerita
+
+a) Appoggiare la "bussola" su un'estremità di un foglio di carta in modo
+che il lato corto sia allineato con la direzione N-S. Fissare, con nastro
+adesivo, il foglio al tavolo e segnare sul foglio il contorno della vaschetta della bussola.
+
+b) Tracciare una retta che "contenga" l'ago e una retta perpendicolare
+che passi per il centro dell'ago e sia parallela al lato lungo del foglio
+(direzione E-O). Il punto di intersezione è l'origine del sistema di
+coordinate che verrà utilizzato.  
  
-Per verificare , localizza l' asce dell' elettromagnetico perpendicolare al campo .
-Magnetico terrestre e su un piano parallelo alla superficie terrestre. Di questa .
-la presenza del campo elettromagnetico,
-La terra terra produrrà una deviazione del ago rispetto alla direzione nord-sud.
-(N-S). La tangenza trigonometrica dell'angolo ( ) tra l'ago e la direzione 
-Il campo di induzione magnetica prodotto dal
-- Un elettromagnetico. Determina la tangenza di α per differenti distanze x tra il 
-l'elettromagnetico e l'ago della compassa. 
- 
-Procedura suggerita 
- 
-a) appoggiare la scheda su un'estremità di una foglia di carta in questo modo
-il lato corto sia allineato all'indirizzo N-S. Collegare, con nastri.
-Appiccica la foglia al tavolo e segna sulla foglia il contorno della
-la cucchiaio della compassa. 
- 
-b) Segna un retto che contiene  la ago e un retto perpendicolare 
-che passa attraverso il centro dell'ago e sia parallela al lato lungo della foglia
-(indirizzo E-O). Il punto di intersezione è l'origine del sistema di
-le coordinate da utilizzare. 
- 
-Figura 3 
- 
-c) appoggia l'elettromagnetico sulla linea E-O, a una distanza x dal centro di 
-Il filo e accendilo. Verificare che l' ago si sia reorientato e segnalare la
-posizione dell'elettromagnetico. 
- 
-d) Tracciare una retta che contiene l'ago. Per questo supporta la regola.
-sulla cucina nella direzione dell' ago (non commettere errori di
-Parallaggio), spegni l'elettromagnetico, segna la retta sulla carta. 
- 
-e) A partire dai cateti (h e h*) del triangolo determinato dalla retta 
-tracciato in b) e tracciato in d) e un bordo della foglia, determinare la 
-tangente dell'angolo tra la direzione dell'ago in presenza del 
-l'elettromagnetico e l'indirizzo N-S. 
- 
-Lettera di carta 
-- Brugola
-- Un elettromanico.
+Figura 3
+
+c) Appoggi l'elettromagnete sulla linea E-O, a una distanza x dal centro dell'ago e lo accenda. Verifichi che l'ago si riorienta e segni la posizione dell'elettromagnete.
+
+d) Tracci una retta che "contenga" l'ago. Per questo appoggi il righello sulla vaschetta nella direzione dell'ago (non commetta errori di parallasse), scolleghi l'elettromagnete, segni la retta sul foglio.
+
+e) A partire dai cateti (h e h*) del triangolo determinato dalla retta tracciata in b) e da quella tracciata in d) e da un bordo del foglio, determini la tangente dell'angolo tra la direzione dell'ago in presenza dell'elettromagnete e la direzione N-S.
+
+Foglio di carta
+Bussola
+Elettromagnete
 E            O 
 N 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
 S 
 X 
 
- 
+
 OAF 2012 - 43
-Figura 4 
- 
-f) Contiene in una tabella i valori di tg α e di x corrispondenti. 
- 
-Ripetere la procedura di c), d), e) e f) per le diverse posizioni (x) del
-- Un elettromagnetico. 
- 
-g) Fate un grafico (1/x3 vs tg α). Verifica se il comportamento è lineare,
-In tal caso, aggiusta una retta. 
- 
-Raccomandazioni: 
-- Utilizzare sul compasso un livello di acqua dell'ordine di 5 mm sopra il
-La superficie della foglia di carta è di circa un milione di metri.
-L'elettromagnetico è nello stesso piano. 
-- Neppure l'ago neppure il pesce (papillone) devono toccare il bordo del cubo. 
-- Per determinare la direzione della ago, usa la regola come guida e 
-traccia la retta che contiene l'ago sulla base. 
-- Misura le distanze dalla testa del clavo al centro del pin e 
-Lasciateli appoggiati sul foglio di base. 
-- Tieni la pila lontana dalla compassa per tutto l'esperimento. 
-- Usa cavi di connessione all'elettromagnetico abbastanza lunghi. 
-- Smettila di attaccare la pila dopo ogni misurazione. 
-- Lavoro su un tavolo che non ha parti ferromagnetiche, o con il
-l'elettromagnetico e la compassa abbastanza lontani da tali parti. 
-- Dopo ogni misura, controlla che il punto della compassa sia
-situato nella posizione originale (con il centro all'origine di 
-coordinate). 
- 
- 
- 
-Lettera di carta 
-- Un elettromanico.
+Figura 4
+
+f) Registri in una tabella i valori di tg α e di x corrispondenti.
+
+Ripeta la procedura di c), d), e) e f), per diverse posizioni (x) dell'elettromagnete.
+
+g) Faccia un grafico (1/x3 vs tg α). Verifichi se il comportamento è lineare, in tal caso aggiusti una retta.
+
+Raccomandazioni:
+- Utilizzi nella bussola un livello d'acqua dell'ordine di 5 mm al di sopra del livello del foglio di carta, per considerare che l'ago magnetizzato e l'asse dell'elettromagnete siano nello stesso piano.
+- Né l'ago né il galleggiante (fogliettino) devono toccare il bordo della vaschetta.
+- Per determinare la direzione dell'ago utilizzi il righello come guida e tracci la retta che "contiene" l'ago sul foglio di base.
+- Misuri le distanze dalla testa del chiodo fino al centro dello spillo e le lasci riportate sul foglio di base.
+- Mantenga la pila lontana dalla bussola durante tutto l'esperimento.
+- Utilizzi cavi di collegamento all'elettromagnete sufficientemente lunghi.
+- Scolleghi la pila dopo ogni misurazione.
+- Lavori su un tavolo che non abbia parti ferromagnetiche, o con l'elettromagnete e la bussola sufficientemente lontani da tali parti. 
+- Dopo ogni misurazione verifica che l'ago della bussola sia
+posizionato nella posizione originale (con il centro nell'origine delle
+coordinate).
+
+
+
+
+
+Foglio di carta
+Elettromagnete
 E            O 
 N 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
 S 
 x 
 
 h 
  h* 
 
- 
+
 OAF 2012 - 44
- 
- 
- 
- 
- 
- 
- 
- 
- 
-I servizi locali 
-Problemi teorici 
 
- 
+
+
+
+
+
+
+
+
+
+Istanze Locali
+Problemi Teorici
+
+
 OAF 2012 - 45
-
-
 
 **Topic:** [[Newtonian Mechanics]], [[Fluid Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Differential Equations (metodo)|Differential Equations]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -15650,24 +15618,13 @@ A
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT71. The Carlos Pellegrini School of Commerce
-City of Buenos Aires. 
- 
-Maglev train. 
-Maglev (for magnetic levitation, magnetic levitation in English) is a system 
-The new technology is being developed in the field of high-technology mass transport, which was implemented experimentally in
-Some cities around the world, which uses magnetic levitation as a form of
-train propulsion and guidance. His idea is to lift the train by force .
-electromagnetic so that it does not touch the rail, and thus avoid the force of 
-The use of the same means of transportation is not limited to the use of the same means of transportation. 
- 
-For example, a Maglev system consists of 10 wagon trains of 9
-tons and 50 meters each. Suppose these travel over a railroad.
-which has a long cable, approximately 
-straight line, with an electric current I as 
-You see in the figure. Remember that one 
-Current in this way generates its 
-around a module magnetic field
+PT71. Escuela Superior de Comercio Carlos Pellegrini
+ City of Buenos Aires.
+
+Maglev Train.
+Maglev (from magnetic levitation) is a high-tech mass transportation system, implemented experimentally in some cities around the world, which uses magnetic levitation as a means of propulsion and guidance for trains. Its idea is based on lifting the train by means of electromagnetic forces so that it does not touch the rail, and thus avoid the friction force, in order to achieve higher speeds and lower energy consumption.
+
+For example, a Maglev system consists of trains of 10 cars of 9 tons and 50 meters each. Suppose that these travel over a rail that has a long, approximately straight cable, with an electric current I as shown in the figure. Remember that a current in this way generates around it a magnetic field of magnitude
 0 .
 ,
 2
@@ -15677,67 +15634,60 @@ around a module magnetic field
 I
 B
 R
-where R is the distance to the wire. 
- 
-(a) Calculate the current to be passed through the cable if the current is to be
-magnetic field intensity at a height of h = 3 mm have module 
-0,1 T. What direction and direction will the magnetic field take? 
- 
-In turn each carriage has a circuit that 
-It 's passing through the floor of the car .
-current of I = 400 A as shown in the 
-I draw. 
+where R is the distance to the cable.
+
+a) Calculate the current that must pass through the cable, if it is desired that the intensity of the magnetic field at a height of h = 3 mm have magnitude 0.1 T. What direction and sense will the magnetic field have?
+
+In turn, each car has a circuit that makes a current of I = 400 A pass through the floor of the car as shown in the drawing.
 Al 
-There are 
+there being
 un 
-driver 
-with 
-current within a magnetic field, 
+conductor
+con 
+current within a magnetic field,
 se 
-It produces 
-One .
-Force 
+produces
+una 
+force
 de 
-Module 
+magnitude
 . . .
 
 F
 I L B  
-(b) Calculate the force that the levitating magnetic field must make to 
-Hold the train. 
-(c) Calculate the distance from the railway to which the train can take off. 
+b) Calculate the force that the levitating magnetic field must exert to hold up the train.
+c) Calculate at what distance from the rail the train can “levitate”. 
  
-In addition, the train has another system that allows it to propel itself and accelerate. 
-(d) To accelerate the train from rest to a speed of 450 km/h 
-How much energy will it take? 
-(e) If you want to achieve this in 1 min, what will be the propulsion force 
-- What? 
- 
-If you had a traditional train, there would be a roughing in the internal operation.
-The wheels. To simplify, let's assume a point mass that has a
-The coefficient of friction of 
+In addition, the train has another system that allows it to propel itself and accelerate.
+d) To accelerate the train from rest to a speed of 450 km/h
+how much energy will be needed?
+e) If this is to be achieved in 1 min, what will be the necessary propulsion force?
+
+If there were a traditional train, there would be friction in the internal operation
+of the wheels. To simplify, we will assume a point mass that has a
+friction coefficient of
 0,2
 
-with the floor. 
-(f) To achieve the same as in points (c) and (d), with the same energy and
-The same acceleration. How fast would it go? 
- 
-Let's say a train works this way. A passenger gets on the train,
-with a load of 
+with the ground.
+f) To achieve the same as in points c) and d), with the same energy and
+the same acceleration, what speed would be reached?
+
+Let us suppose that a train works in this way. A passenger boards the train,
+with a charge of —
 2
 10 C
 
-(which can be generated by electrostatic means). Si el 
-Man is six feet tall. 
-(g) What will happen to it when the train reaches 450 km/h? 
- 
+ (which can be generated by electrostatics). If the
+man is 1.6 meters tall.
+g) What will happen to him when the train reaches 450 km/h?
 
- 
-The following is the list of the countries of the European Union:
-In addition, the World Health Organization does not recommend exposure.
-human to magnetic fields greater than 100 μT. 
-(h) How far should the railway be kept from the rails, in order not to
-to take a risk? 
+
+
+OAF 2012 - 95
+In addition, the World Health Organization does not recommend human
+exposure to magnetic fields greater than 100 µT.
+h) At what distance would one have to stay from the rails, in order not to
+be exposed to a risk?
 7
 0
 4 .10
@@ -28406,47 +28356,44 @@ E qualsiasi informazione che ritenga rilevante
 
 <div class="qlang-split" data-lang="en"></div>
 
-PE28. The Carlos Pellegrini School of Commerce
-City of Buenos Aires. 
- 
-Fractals and paper cupcakes. 
- 
-The objective 
-A fractal is a geometric object whose basic structure is fragmented or
-It's irregular, repeated at different scales. The term was proposed by the
-Mandelbrot mathematician in 1975 and derived from the Latin fractus, which means
-broken or fractured. 
-These objects are very useful for modeling various phenomena in nature. 
-Wrinkle-formed paper sheets have properties of fractal models. El 
-The objective of this experiment is to measure the fractal size of the bulbs of
-paper, and its dependence on density. 
- 
-Materials 
-- Sheets of different densities 
-- Weigh it .
-- Rule .
-- Millimeter sheet .
-- Scissors .
- 
-General comments: 
-1. Before you start , read all the instructions .
-2. Add to the report the comments clarifying the procedure 
-Exactly what he used at every step. If possible, include a drawing 
-The Commission has not yet adopted a proposal. 
-3. Write in tables the data obtained from the measurements together with their 
-I'm not sure. 
-4. Please clarify any changes or deviations from the instructions, together with 
-with a brief explanation of why. 
-5. Try to be prolific. 
- 
-Theoretical introduction 
+PE28. Carlos Pellegrini Higher School of Commerce
+ City of Buenos Aires.
 
+Fractals and paper balls.
+
+Objective
+A fractal is a geometric object whose basic structure, fragmented or
+irregular, repeats itself at different scales. The term was proposed by the
+mathematician Mandelbrot in 1975 and derives from the Latin fractus, which means
+broken or fractured.
+These objects are very useful for modeling various natural phenomena.
+Crumpled sheets of paper have properties of fractal models. The
+objective of this experiment will be to measure the "fractal dimension" of paper
+balls, and their dependence on density.
+
+Materials
+- Sheets of different densities
+- Balance
+- Ruler
+- Graph paper
+- Scissors
+
+General comments:
+1. Before starting, read all the instructions
+2. Add to the report the comments that clarify the exact
+procedure you used in each step. If possible, also include a clarifying
+drawing.
+3. Write the data obtained in the measurements in tables together with their
+errors.
+4. Clarify any change or deviation from the instructions, together
+with a brief explanation of its reason.
+5. Try to be neat. 
  
-The following points shall be added:
-To get familiar with the idea of fractal, let's look at a classic example of an object.
-Fractal that is Koch's star. This one is built starting with a triangle.
-Equilateral, and each iteration involves adding another equilateral triangle to each 
-side. This way in iteration number n the perimeter will be: 
+Theoretical introduction
+
+
+OAF 2012 - 155
+To familiarize ourselves with the idea of a fractal, let us look at a classic example of a fractal object, which is the Koch snowflake. It is constructed starting with an equilateral triangle, and each iteration involves adding another equilateral triangle on each side. In this way, at iteration number n the perimeter will be:
 4
 3
 n
@@ -28454,95 +28401,83 @@ np
 D
 
  (en 
-Every step on each side gets a perimeter one third larger than the
-(see also paragraphs 1 and 2). By repeating this procedure infinitely , we get a figure that 
-It has the property of enclosing finite area in infinite perimeter. 
- 
-For these types of figures and geometric objects a new concept of 
-dimension, called Fractal dimension (d). One way to understand this.
-The concept is to calculate for each object the mass (M), based on the diameter 
-(D) the original object 
+each step on each side yields a perimeter one third larger than the previous one). Iterating this procedure infinitely yields a figure that has the property of enclosing finite area within infinite perimeter.
+
+For this type of figures and geometric objects, a new concept of dimension appears, called "Fractal Dimension" (d). One way to understand this concept is by calculating for each object the mass (M), as a function of the diameter (D) of the original object
 .
 d
 M
-Ct D
+cte D
 
 . 
-This concept corresponds to natural notions in straight lines in R, areas in 
-R2 and volumes in R3. In R, where mass is proportional to length, if a 
-long line D is tripled the new dimension will be Mtot=3Min=3.D1=31D1, and 
-So the dimension of space will be 1. In R2, the mass of an object 
-It depends on a constant and
+This concept corresponds to the natural notions in lines in R, areas in R2 and volumes in R3. In R, where mass is proportional to length, if a line of length D is tripled, the new dimension will be Mtot=3Min=3.D1=31D1, and therefore the dimension of the space will be 1. In R2, the mass of an object will depend on a constant and
 2
-D , and therefore the fractal dimension will be 2 (for 
-For example, when you tripled Mtot=9Min=9.D2=32.D2.) However, for fractal objects 
-the dimensions may not be complete. In the example of Koch's stars,
-When you triple it, you get 4 times the initial perimeter. Therefore 
-Pertot = 4Perin = 4.D d = 3 d.D d And the fractal dimension of Koch's star will be 
+D , and therefore the fractal dimension will be 2 (for example, when tripled, Mtot=9Min=9.D2=32.D2.) However, for fractal objects non-integer dimensions can appear. In the example of the Koch snowflake, when tripled, 4 times the initial perimeter is obtained. Therefore
+Pertot = 4Perin=4.D d =3 d.D d. And the fractal dimension of the Koch snowflake will be
 d= ln 4
 1,2618...
 ln3 
  
-When you wrinkle a paper, you dismiss its thickness.
-dimension 2, it occupies a place in space, which has
-Dimension three. So it acquires a fractal dimension, not 
-The whole, which will be between the dimension of the plane and the dimension.
-of space: 2<d<3 and which depends on the paper density 
-according to the formula 
+When a paper is crumpled, which disregarding its thickness has
+dimension 2, it comes to occupy a place in space, which has
+dimension 3. Therefore it acquires a fractal dimension, not
+an integer one, which will be between the dimension of the plane and the dimension
+of space: 2<d<3 and which depends on the density  of the paper
+according to the formula
 0,11
 .
 d c
 
 
  (1)  
- 
-Part 1 
-1. Take one of the papers and measure its area. 
-2. Weigh it to get M and calculate its density. 
-3. Do it .
-un 
-- I 'm not .
-with 
-el 
-paper, 
-pressing
-uniformly, spherically and measuring its diameter 
-(D). 
-4. Cut the sheet in half and repeat the previous points 
-with measurements, or calculations of being impossible. The next step .
-cuts and sizes for at least 10 different sizes 
-paper. 
-5. Draw a graph with the data obtained, comparing 
-The following table shows the results of the calculations: 
 
- 
-The following points shall be added:
-6. Calculate the fractal dimension of the paper wrinkle from the graph. 
-Help: if M = cte*Dd, then log(M) = log(cte) + d.log(D) 
-Part 2 
-1. Repeat the measurements in Part 1 with different papers 
-densities. 
-2. Graph the fractal dimension of the paper balls according to the
-paper density 
-3. Calculate c of the formula (1) 
- 
-Part 3: Preparation of a report (take this into account when preparing Part 1 and 
+Part 1
+1. Take one of the papers and measure its area.
+2. Weigh it to obtain M and calculate its density.
+3. Make
+un 
+ball
+con 
+el 
+paper,
+pressing
+uniformly, in a spherical shape and measure its diameter
+(D). 
+4. Cut the sheet in half and repeat the previous points
+with measurements, or calculations if impossible. Continue
+the cuts and measure for at least 10 different sizes
+of paper.
+5. Make a graph with the data obtained, comparing
+log(M) vs log(D).
+
+
+OAF 2012 - 156
+6. Calculate from the graph the fractal dimension of the paper crumpling.
+Hint: if M = cte*Dd, then log(M) = log(cte) + d.log(D)
+Part 2
+1. Repeat the measurements of part 1 with papers of different
+densities.
+2. Graph the fractal dimension of the paper balls as a function of the
+density of the paper
+3. Calculate c from formula (1)
+
+Part 3: Preparation of a report (keep it in mind when carrying out part 1 and
 2) 
-Write a report of the experience you have gained from the following:
-The following information: 
-Title
- Introduction (short) 
- Hypotheses 
- Description of the experimental device (text and drawing) 
- Details of how the measurements were made (text and drawing) 
- Measurements / Tables 
- Graphics (in millimetres) 
- Calculations 
- Error calculations 
-• Results obtained
- Final comments 
- Conclusions 
-And any information you deem relevant
+Write a report of the experiment carried out that has the following
+information:
+ Title
+ Introduction (brief)
+ Hypothesis
+ Description of the experimental setup (text and drawing)
+ Details about how the measurements were made (text and drawing)
+ Measurements / Tables
+ Graphs (on graph paper)
+ Calculations
+ Error calculations
+ Results obtained
+ Final comments
+ Conclusions
+And any information you consider relevant
 
 **Topic:** [[Order-of-Magnitude Estimation]], [[Mathematics]]
 **Metodi:** [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]], [[Dimensional Analysis (metodo)|Dimensional Analysis]]

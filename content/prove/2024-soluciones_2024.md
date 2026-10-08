@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Termodinamica
-title: Spagna 2024 — 2024 Soluciones_2024.pdf
+title: Spagna 2024 — Soluzioni
 ---
 
 

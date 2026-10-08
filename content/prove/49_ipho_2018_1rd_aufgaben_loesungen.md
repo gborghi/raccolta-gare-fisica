@@ -12,7 +12,7 @@ pdf: gare di altri paesi/Germania/Rund1/49_IPhO_2018_1Rd_Aufgaben_Loesungen.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE-1Rd 2018 Round 1] — 49_IPhO_2018_1Rd_Aufgaben_Loesungen.pdf'
+title: '[IPhO-DE-1Rd 2018 Round 1]'
 ---
 
 

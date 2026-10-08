@@ -947,7 +947,7 @@ The $X$ point of the circuit is connected to one of the $A,B,C,D,E$ points, but 
 **Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]]
 **Objects:** [[Resistor (object)|Resistor]], [[Galvanometer (object)|Galvanometer]]
 **Fonte:** [Testo (PDF) — p.2](https://drive.google.com/file/d/1k41P3QrVIfhjDCUGPcRQ_M9wf0JNDhX4/view)
-The Commission has also adopted a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy.
+**Answer:** **D** · [Soluzioni (PDF)](https://drive.google.com/file/d/16qs9IOjDlpUzqIVaGCqDPbkFgCVmfid_/view)
 
 
 

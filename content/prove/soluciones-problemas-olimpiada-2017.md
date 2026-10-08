@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2017 — Soluciones problemas Olimpiada 2017.pdf
+title: Spagna 2017 — Problemas Olimpiada · Soluzioni
 ---
 
 

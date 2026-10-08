@@ -14,7 +14,7 @@ tags:
   - anno/2018
   - paese/Argentina
   - comp/Argent
-title: Argentina 2018 — juegos_2018_final_1_resuelta.pdf
+title: Argentina 2018 — Juegos 1 · Soluzioni
 ---
 
 

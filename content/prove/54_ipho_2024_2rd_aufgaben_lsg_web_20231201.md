@@ -1196,12 +1196,12 @@ $c(\vartheta' -\vartheta0$) + h $\approx26$ g .
 $\Delta\vartheta$
 t / s
 $\vartheta$ / $^\circ$C
-Fig. 4. Temperatura $\vartheta$ in kettle as a function of the heating time t, with quantities constructed
+Fig. 4. Temperatura $\vartheta$ nel bollitore in funzione del tempo di riscaldamento t, con grandezze costruite
 per la soluzione.
 Risposta corretta: B
-Remark: Answer option A results when the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as about the temperature jump is determined as about 5.5 K without extrapolation of the temperature jump is determined as the temperature jump is determined as the temperature jump is the temperature jump is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the temperature is the
+Osservazione: l'opzione di risposta A si ottiene quando il salto di temperatura viene determinato come circa 5,5 K senza estrapolazione della
 dati. Risposta opzione C è il risultato senza accounting for the
-latent heat, and answer option D follows from the temperature of $88\ ^\circ\text{C}$ after 250 s of heating, assuming
+calore latente, e l'opzione di risposta D segue dalla temperatura di $88\ ^\circ\text{C}$ dopo 250 s di riscaldamento, assumendo
 che l'intero potere di riscaldamento va in riscaldamento dell'acqua e fusione
 il ghiaccio, cioè il calore rilasciato all'ambiente non è preso in considerazione.
 54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
@@ -1213,7 +1213,7 @@ Recognizing the temperature jump
 0.5
 Determinando il salto di temperatura causato dal cubo di ghiaccio
 0.5
-Setting up an energy balance for the temperature jump (5.1)
+Impostazione di un bilancio energetico per il salto di temperatura (5.1)
 1.0
 Determinare la massa di acqua nel cottura (5.3)
 1.0
@@ -1280,7 +1280,7 @@ by mEis the mass of the ice cube and by mW the similarly unknown mass of the wat
 Initially in the kettle.
 From the graph, a water temperature of $\vartheta' = 68{,}5\ ^\circ\text{C}$ can be read off for the time $t' = 160\ \text{s}$.
 Comparing this temperature with the continuation of the heating curve without the addition of the
-The following table shows the results of the study: Fig. 4), a temperature difference between the two curves of $\Delta\vartheta \approx$
+ice cube (cf. Fig. 4), a temperature difference between the two curves of $\Delta\vartheta \approx$
 $76{,}5\ ^\circ\text{C} - 68{,}5\ ^\circ\text{C} = 9{,}0\ \text{K}$ can be seen. The energy released as the water cools by this temperature
 is used to melt the ice cube and to heat the resulting
 meltwater up to the temperature $\vartheta'$. Therefore:
@@ -1293,7 +1293,7 @@ c mW $\Delta\vartheta$ =
 I 'm sorry .
 (5.1)
 To determine the still-unknown mass mW of the water, the behavior of the heating curve
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 10 / 27
 at small temperatures can be examined. At the start of the heating, only little heat is given off to the
 The heating power PHeiz is used almost exclusively to heat the water. In a small time $\delta t$ the water warms by a temperature $\delta\vartheta$, for which:
@@ -1307,7 +1307,7 @@ $\delta t$
 $\approx0,43$ kg .
 (5.3)
 From this, finally, for the mass of the ice cube it follows that
-The following is the list of the following:
+mIce = mWater
 c $\Delta\vartheta$
 $c(\vartheta' -\vartheta0$) + h $\approx26$ g .
 (5.4)
@@ -1336,7 +1336,7 @@ data. Answer option C is the result without accounting for the
 latent heat, and answer option D follows from the temperature of $88\ ^\circ\text{C}$ after 250 s of heating, assuming
 That the entire heating power goes into warming the water and melting
 the ice, i.e. the heat given off to the surroundings is not taken into account.
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 11 / 27
 Marking scheme - Kettle with an ice cube (multiple choice problem)
 Points
@@ -1352,7 +1352,7 @@ Determining the mass of water in the kettle (5.3)
 Stating the correct solution
 2.0
 5.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 12 / 27
 
 
@@ -1861,7 +1861,7 @@ $\alpha$
 $\beta$
 Acqua
 La luce
-Fig. 6. Sketch of the origin of the interference
+Fig. 6. Schema dell'origine dell'interferenza
 con angoli di incidenza esagerati.
 Qui n = 1,33 indica l'indice refraettivo di acqua. I raggi di luce riflessi sia alla superficie dell'acqua che nel
 At the glass surface subendo a phase jump upon reflection
@@ -1913,7 +1913,7 @@ Risposta corretta: B
 Schema di marcatura - riflessione a livello di acqua (problema di scelta multipla)
 Punti
 7
-Stating the condition on the path-length difference for constructive interference
+Enunciare la condizione sulla differenza di cammino ottico per l'interferenza costruttiva
 0.5
 Considerando la geometria e derivando l'espressione (7.1)
 1.0
@@ -1927,7 +1927,7 @@ Stating the correct solution
 54° IPhO 2024 - 2° Round Exam - Soluzione - 01.12.2023
 16 / 27
 Problemi di risposta lunga
-La Commissione ha inoltre presentato una serie di proposte di risoluzione sulle misure di sicurezza e di sicurezza. A differenza di
+Lavora sui seguenti tre problemi analogamente negli spazi a essi riservati. A differenza di quanto fatto con il
 problemi di scelta multipla, non sono state indicate le opzioni di risposta. Descrivere il tuo approccio alla soluzione
 che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si usa la legge della conservazione dell'energia, scrivete brevemente.
 
@@ -1945,14 +1945,14 @@ che è facile da seguire ma non troppo lungo. Quindi se, per esempio, si usa la 
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following is the list of the types of water-layer reflection (Multiple-choice problem)
+Problem 7 Water-layer reflection (multiple-choice problem)
 (five points)
 The surface of a smooth, horizontal glass plate
 is covered with a thin, flat water layer.
 From above, monochromatic light of wavelength
 680 nm falls onto the water surface at an angle $\alpha = 30^\circ$ to the surface normal. The refractive index of the
 glass plate is 1.50 and that of the water is 1.33.
-The Commission has already adopted a proposal for a regulation on the
+Due to the evaporation of the water, the
 The intensity of the reflected light changes periodically. Between
 the occurrence of two intensity maxima, a
 time of 15 minutes elapses.
@@ -2023,7 +2023,7 @@ q
 n2
 (7.3)
 For the rate of change of the water-layer thickness per unit time, this yields, with the given value
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 15 / 27
 $\Delta t$ = 15 minutes, finally
 $\Delta d$
@@ -2036,7 +2036,7 @@ n2
 $\approx 0{,}31\ \text{nm s}^{-1} \approx 1{,}1\ \mu\text{m h}^{-1}$ .
 (7.4)
 Correct answer: B
-The following is the list of the types of water-layer reflection (Multiple-choice problem)
+Bewertungsschema - Wasserfilmreflexion (Multiple-Choice-Aufgabe)
 Points
 7
 Stating the condition on the path-length difference for constructive interference
@@ -2050,7 +2050,7 @@ Considering consecutive maxima and computing the rate of decrease (7.4)
 Stating the correct solution
 2.0
 5.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 16 / 27
 Long-response problems
 Work on the following three problems also in the boxes provided for them. Unlike with the
@@ -2541,7 +2541,7 @@ Result for length with l= (17 $\pm$ 3) cm
 <div class="qlang-split" data-lang="en"></div>
 
 Problem 8 cylinders in water
-The Commission's proposal for a directive on the protection of workers' rights
+(18 pts.)
 (Idea: Problem group of the Physics Olympiad - Stefan Petersen)
 A cylindrical tube closed at the bottom is partially filled with water of density $1000\ \text{kg m}^{-3}$. The inner diameter of the tube
 is (5.6 $\pm$ 0.1) cm. In the water there are, as shown
@@ -2581,7 +2581,7 @@ In the tube.
 h / cm
 F / N
 Fig. 8. Force F required for raising as a function of the lifting height h.
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 17 / 27
 The solution
 8.a)
@@ -2604,7 +2604,7 @@ At a lifting height of about 36 cm the second cylinder has also been lifted out 
 And the curve runs horizontally again until the end. The pulling force then corresponds to the
 weight of the two cylinders.
 There are therefore 2 cylinders in the tube.
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 18 / 27
 8.b)
 Calculations and explanations
@@ -2659,7 +2659,7 @@ $F_3$
 $F_3 - F_1$
 $\approx 1{,}2\cdot\rho_W = 1{,}2\cdot10^3\ \text{kg m}^{-3}$ .
 (8.3)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 19 / 27
 Radius r of the cylinders
 When a part of a cylinder protrudes from the water, the water level changes,
@@ -2677,11 +2677,11 @@ $\Delta h$ .
 (8.5)
 From the graph, the change in pulling force $\Delta F$ required per change in height
 $\Delta h$ can be read off as the slope on the linearly rising segments. We have
-The following is the list of the following:
+Segment 1
 $b_1 := \dfrac{F_2 - F_1}{h_2 - h_1}$
 $\approx 0{,}26\ \text{N cm}^{-1} = 26\ \text{N m}^{-1}$ ,
 (8.6)
-The following is the list of the following:
+Segment 2
 $b_2 := \dfrac{F_3 - F_2}{h_4 - h_3}$
 $\approx 0{,}26\ \text{N cm}^{-1} = 26\ \text{N m}^{-1}$ .
 (8.7)
@@ -2702,7 +2702,7 @@ l= F2 $-F1$
 $\pi \rho W$ r 2 g = F3 $-F2$
 $\pi \rho W$ r 2 g $\approx17$ cm .
 (8.9)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 20 / 27
 Marking scheme - cylinder in water
 Points
@@ -2750,7 +2750,7 @@ Formulating an idea for the determination and deriving a formula for the length
 Result for length with l= (17 $\pm$ 3) cm
 1.0
 18.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 21 / 27
 
 
@@ -3255,7 +3255,7 @@ The hot-air balloon flies because of the buoyancy force that the hot air inside 
 balloon experiences in the cooler surroundings.
 Denote by VB the volume of air in the balloon, assumed to be constant. The volume
 Of the thin balloon envelope and the filled basket are much smaller and are not
-The Commission has already taken into account the The mass of the air in the balloon is denoted in the following by mB, and the
+berücksichtigt. Die Masse der Luft im Ballon wird im Folgenden mit mB bezeichnet, und die
 mass of the balloon envelope and basket by mLast.
 Under normal conditions, air can be considered to a good approximation as an ideal gas.
 For the pressure p, the volume V , the amount of substance n, the mass m, and the thermodynamic
@@ -3266,7 +3266,7 @@ Air
 R T ,
 (9.1)
 where $R \approx 8{,}314\ \text{kg m}^2\,\text{s}^{-2}\,\text{mol}^{-1}\,\text{K}^{-1}$ is the gas constant and $M_\text{Luft}$ the molar mass of
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 22 / 27
 The air. For the density $\rho$ of the air this gives
 $\rho$ = m
@@ -3328,7 +3328,7 @@ The air pressure decreases by about 1.2 % per 100 m of height difference. At a h
 h0:= 100 m it is therefore only p(100 m) = 0.988 p0, and at a height of 200 m only
 $p(200\ \text{m}) = 0{,}988\,p(100\ \text{m}) = 0{,}988^2\,p_0$. The implied exponential relationshipa can be formulated for a height h as $p(h) = 0{,}988^{h/h_0}\,p_0$. With this, and with the help
 of equations (9.2) and (9.4), the required force balance can be formulated
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 23 / 27
 as
 mLast = $\rho0$ VB
@@ -3398,7 +3398,7 @@ $\Delta t$ t = mPropan HPropan .
 Here $\Delta t = 1\ \text{s}$ and $H_\text{Propan} = 50\ \text{MJ kg}^{-1}$ denotes the calorific value of the propane gas.
 From equation (9.10) one finally obtains for the time t for which the balloon can maintain
 the height
-The following table shows the results of the calculation of the risk of the product:
+t = mPropane HPropane
 mB cLuft $\Delta T$
 $\Delta t$
 $\approx 9{,}9\cdot10^3\ \text{s} \approx 2{,}7\ \text{h}$ .
@@ -3407,7 +3407,7 @@ This value is certainly estimated too optimistically, since not all of the energ
 The fuel is heated by the balloon and the propane in the cylinders.
 So it can't be used up completely. The estimate further neglected the fact that the load on the balloon decreases as the gas is burned. On the other hand, this
 I'm going to be a little bit long.
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 24 / 27
 Marking scheme - Up and away
 Points
@@ -3436,7 +3436,7 @@ Setting up the energy balance (9.10)
 Estimating the time for which the balloon can maintain its height (9.11)
 1
 15.0
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 25 / 27
 
 **Topic:** [[Thermodynamics]], [[Fluid Mechanics]]
@@ -3868,7 +3868,7 @@ M + m a = k q2
 r 2 $-q$ E M $-m$
 M + m .
 (10.3)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011.'
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 26 / 27
 For the sought effective quantities one therefore obtains
 $m'$ =
@@ -3924,7 +3924,7 @@ r 2 $-U0$
 $E'$ r + k q
 $E'$ = 0 .
 (10.7)
-The Commission shall adopt implementing acts in accordance with Article 21 of Regulation (EU) No 182/2011 of the European Parliament and of the Council [3].
+54th IPhO 2024 - 2nd Round Exam - Solution - 01.12.2023
 27 / 27
 The initial distance r0 is one of the solutions of this equation. The second solution is
  ̃r 2/r0.

@@ -58,7 +58,7 @@ Angolo di deflessione = $\dots\dots\dots\dots\dots\dots\dots\dots rad$.
 The following information is provided:
 Country student No. Question No. PageNo Total No.
 Of pages
-The Commission has already decided to take a decision on the proposal.
+ANSWER SHEET: PROBLEM No. 3
 Part A
 a) m $=\dots\dots\dots\dots\dots\dots\dots s-1$.
 [0.1]
@@ -75,7 +75,7 @@ Dl $=\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dotsm$.
 [0.3]
 Part B
 a)
-The following is the list of the categories of persons who have been identified as being in the Union:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [1.0]
 b)
 a = $\dots\dots\dots\dots$

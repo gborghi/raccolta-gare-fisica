@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Fisica Moderna
-title: Spagna 2021 — 2021 Problema 3 espectrografo resuelto.pdf
+title: Spagna 2021 — Problema 3 espectrografo · Soluzioni
 ---
 
 

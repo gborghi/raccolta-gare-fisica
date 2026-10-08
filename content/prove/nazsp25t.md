@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/bubble,object/pipe-tube"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/bubble,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -222,7 +222,7 @@ The following table shows the number of days in which the time limit for the per
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,7 +269,7 @@ The following table shows the following information:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -308,7 +308,7 @@ National competition  10 April 2025  Experimental test
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/conservation-of-energy,argomento/meccanica,object/bubble,object/pipe-tube"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/conservation-of-energy,argomento/meccanica,object/bubble,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -353,7 +353,7 @@ linear. It quantifies the constant parameters that characterize it.
 The ratio t = f2(L) highlights the effects of viscosity on the flow of fluid into the straw.
 If there were no energy losses caused by viscosity, all the potential energy initially stored on the surface of the bubble would gradually be transferred to the outgoing air in the form of kinetic energy.
 This would happen at the limit if the bubble were allowed to deflate through a thin ring (L = 0) of radius.
-r equal to the inner radius of the straw. The Commission's proposal for a regulation on the
+r equal to the inner radius of the straw. Under this assumption it is possible to demonstrate that the relation linking the
 The time of deflation and the initial radius of the bubble R is the type
 t0 = $\epsilon R7/2$
 (2)
@@ -369,7 +369,7 @@ the gas coming out of the bubble and the inner radius of the straw.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/conservation-of-energy,argomento/meccanica,object/bubble,object/pipe-tube"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/conservation-of-energy,argomento/meccanica,object/bubble,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -406,7 +406,7 @@ R = 3.0 cm and in particular for the R values used in Q.2 measurements.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -441,7 +441,7 @@ of a radius R defined in Q.2.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII na Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica,object/bubble"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -482,7 +482,7 @@ p = k R a
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII na Nazionale Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII Nazionale Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/fluid-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -517,7 +517,7 @@ involved. Build a graph that lets you get the k and a parameters.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII na Nazionale Sperimentale — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/conservation-of-energy,argomento/meccanica,object/bubble,object/pipe-tube"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OII Nazionale Sperimentale — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/conservation-of-energy,argomento/meccanica,object/bubble,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

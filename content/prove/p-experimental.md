@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/magnet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -176,7 +176,7 @@ Place the two magnets on opposite sides of the free end of the rod (Figure 3). U
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/magnet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/rod,object/magnet"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -228,7 +228,7 @@ Using the same procedure, determine $T$ for different positions of the magnets, 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -280,7 +280,7 @@ $$T = 4\sqrt{\frac{L^3}{Yba^3}\left(\frac{m\,d^3}{L^3} + 0{,}243\,M\right)}, \qq
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna na — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -323,7 +323,7 @@ Graphically represent on millimeter paper the points corresponding to this linea
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna na — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -366,7 +366,7 @@ Determine the slope, $p$, and the ordered at the origin, $c$, of the straight li
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna na — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -418,7 +418,7 @@ $$p = \frac{157{,}9\,m}{Y\,a^3 b}, \qquad c = \frac{38{,}37\,L^4}{Y\,a^2}$$
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna na — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -461,7 +461,7 @@ Estimate the slope uncertainties, $\Delta p$, and the originally ordered uncerta
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna na — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Spagna — Quesito 8" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -504,7 +504,7 @@ Taking into account only $\Delta p$ and $\Delta c$ as sources of uncertainty, es
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna na — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Spagna — Quesito 9" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Termodinamica
-title: Spagna 2016 — 2016 soluciones_2016.pdf
+title: Spagna 2016 — Soluzioni
 ---
 
 

@@ -16,7 +16,7 @@ tags:
   - paese/Canada
   - comp/CAP2025
   - cluster/Elettromagnetismo
-title: CAP2025 2025 Nazionale — 2025_CAP_Exam_with_solutions.pdf
+title: CAP2025 2025 Nazionale
 ---
 
 

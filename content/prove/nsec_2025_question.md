@@ -17,7 +17,7 @@ tags:
   - cluster/Meccanica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (chimica)
-title: India 2025 — NSEC_2025_Question.pdf
+title: India 2025 — NSEC
 ---
 
 

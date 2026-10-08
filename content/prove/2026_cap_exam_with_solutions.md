@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Canada/all/2026_CAP_Exam_with_solutions.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[CAP 2026 National] — 2026_CAP_Exam_with_solutions.pdf'
+title: '[CAP 2026 National]'
 ---
 
 

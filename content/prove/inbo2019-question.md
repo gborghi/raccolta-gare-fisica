@@ -17,7 +17,7 @@ tags:
   - cluster/Meccanica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2019 — INBO2019-Question.pdf
+title: India 2019 — INBO
 ---
 
 

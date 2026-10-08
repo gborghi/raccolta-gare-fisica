@@ -1,5 +1,5 @@
 ---
-title: OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf
+title: OBF 2017 — Fase 2 · Livello II
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/inclined-plane,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/inclined-plane,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -74,7 +74,7 @@ Determine:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -135,7 +135,7 @@ the volume of the cube.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/piston"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/piston"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -187,7 +187,7 @@ displacement in centimetres, suffered by the brake lining. Disdain for friction.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/heat-engine,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/heat-engine,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -248,7 +248,7 @@ during the operation of a cycle.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -294,7 +294,7 @@ La distanza, a seconda luce, tra la Terra e la Luna.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -349,7 +349,7 @@ Part II  Questions for an open answer
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/rope-string"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -404,7 +404,7 @@ its body at point P.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -453,7 +453,7 @@ drawn below. Knowing that the waves in the water were spreading with
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -517,7 +517,7 @@ passes through point A.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -581,7 +581,7 @@ the ship (Vb).
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -642,7 +642,7 @@ bright red.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2017 — NIVEL II FASE 2  OBF 2017 I.pdf — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2017 — Fase 2 · Livello II — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

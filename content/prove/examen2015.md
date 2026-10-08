@@ -284,7 +284,7 @@ c) Forza per unità di lunghezza di ciascun filo
 esercita sull'altro filo.
 d) Se dal vertice A viene lanciato un elettrone con una
 energia cinetica di 1 eV nella direzione dell'asse e
-In questo caso, la Commissione ha deciso di
+positivo, quale sarà l'accelerazione acquisita dal
 - Un elettrone? Disegna un schema che rappresenti i
 Vettori di campo magnetico, velocità e forza che
 agisce sull'elettrone.
@@ -303,7 +303,7 @@ Domande:
 
 1. Two parallel long metal threads, through which 3A and 4A currents circulate, pass through the
 the vertices B and D of a 2 m square side, situated in a plane perpendicular to the
-The following is the list of the types of wire used in the calculation of the value of the wire: The direction of the currents is indicated by the
+wires, as illustrated in the figure. The direction of the currents is indicated by the
 The symbols $\times$ = enters the paper, • = leaves the paper.
 
 Calculate:
@@ -318,7 +318,7 @@ Would you find it?
 It's on the other thread.
 (d) If an electron is thrown from vertex A with a
 kinetic energy of 1 eV in the axis direction and
-The Commission will also be able to take into account the
+positive, what will be the acceleration acquired by the
 What is the electron? Draw a diagram representing the
 Magnetic field vectors, speed and force which
 It acts on the electron.

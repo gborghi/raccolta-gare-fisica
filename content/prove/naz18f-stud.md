@@ -81,7 +81,7 @@ yc =
 [Expression]
 [Number value]
 3
-Piston release forces. The following is the list of the types of vehicles used:
+Forces on release on the piston. Wedge: Fc; Spring: Fm; Guide: Fg
 Fc =
 Fc =
 Fm =
@@ -101,7 +101,7 @@ Vmax =
 [Expression]
 [Number value]
 Theoretical national competition: 13.04.2018
-The following is the list of the countries of the European Union:
+Student Code: TEO
 
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Hooke's Law (metodo)|Hooke's Law]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
@@ -166,7 +166,7 @@ Smax
 in
 $\Delta S$ =
 Theoretical national competition: 13.04.2018
-The following is the list of the countries of the European Union:
+Student Code: TEO
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -259,7 +259,7 @@ $\Delta\lambda'$ =
 [Expression]
 [Number value]
 Theoretical national competition: 13.04.2018
-The following is the list of the countries of the European Union:
+Student Code: TEO
 
 **Topic:** [[Kinetic Theory]], [[Oscillations & Waves]], [[Special Relativity]]
 **Metodi:** [[Kinetic Theory of Gases (metodo)|Kinetic Theory of Gases]], [[Statistical Averaging (metodo)|Statistical Averaging]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]

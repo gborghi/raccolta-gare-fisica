@@ -14,7 +14,7 @@ tags:
   - anno/2021
   - paese/Spagna
   - comp/Spagna
-title: Spagna 2021 — 2021 Problema 1 hilo vuelta resuelto.pdf
+title: Spagna 2021 — Problema 1 hilo vuelta · Soluzioni
 ---
 
 

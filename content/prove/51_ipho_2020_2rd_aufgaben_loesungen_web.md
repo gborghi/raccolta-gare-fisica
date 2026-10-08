@@ -16,7 +16,7 @@ tags:
   - paese/Germany
   - comp/IPhO-DE-2Rd-2020
   - cluster/Ottica
-title: IPhO-DE-2Rd-2020 2020 Round 2 — 51_IPhO_2020_2Rd_Aufgaben_Loesungen_web.pdf
+title: IPhO-DE-2Rd-2020 2020 Round 2
 ---
 
 

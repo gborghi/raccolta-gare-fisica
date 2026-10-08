@@ -218,7 +218,7 @@ A thin, superconducting ring (zero resistance) is positioned above a cylindrical
 magnetized as shown in Figure 1. The symmetry axis of the ring is the same as the bar
 The cylinder. The magnetic field in the ring region can be described approximately in terms of
 of a vertical magnetic field BZ = B0 (1- $\alpha$ z), and radial Br = $B0\cdot\beta\cdot r$, where B0, $\alpha$, and $\beta$ are
-The values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the values of the first of the first are are are are, respectively, are: At first there is none
+constants and are worth 0.01 T, 2 m-1 , and 32 m-1 , respectively. Initially there is no
 current flowing in the ring, and when the same is released it starts if a falling motion due to
 gravity, without losing the symmetry axis. Considering that the ring has a mass of 50 mg,
 0,5 cm, and inductance of 1,3 x 10-8 H, and that the center of the ring is the center of the coordinates, z = 0 and
@@ -236,9 +236,9 @@ e)
 The frequency of oscillation and the amplitude of the movement. (05)
 4
 
-The following is the list of the countries of the European Union and of the countries of Central and Eastern Europe:
+Theoretical Assessment II Final Selection 2015
 International Physics Olympiads
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+April 16, 2015
 
 **Topic:** [[Electromagnetic Induction]], [[Oscillations & Waves]], [[Magnetism]]
 **Metodi:** [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Lorentz Force Analysis (metodo)|Lorentz Force Analysis]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]

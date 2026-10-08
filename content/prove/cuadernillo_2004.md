@@ -3662,57 +3662,43 @@ Per farla
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table summarizes the results of the calculations:
+**Transforming the fields**
 
-PT19. City of Buenos Aires. Green, please. 
- 
-Transforming the fields. 
-An inertial reference system is one in which a body free of interactions (forces), is
-It's moving at a constant speed. It is very useful to find a series of equations that relate the two
-The measurement of the magnitude of the measured quantities in different systems. 
-Two inertial reference systems, 1 and 2, with a relative speed 
-Other
-vv
-As shown by the 
-The following table shows the following: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-a. What is the relationship between 
-r
+PT19. City of Buenos Aires. Green.
+
+Transforming the fields.
+An inertial reference frame is one in which a body free of interactions (forces) moves at constant velocity. It is very useful to find a series of equations that relate the quantities measured in different systems.
+Let two inertial reference frames, 1 and 2, with a relative velocity rel
+vv as shown in figure 1.
+
+
+
+
+
+
+
+
+
+
+
+
+a. What is the relation between r
 r
 ′v
 v,
 y 
-Other
+rel
 rv ? 
-To find a relationship between the speeds and accelerations measured in each system, you can 
-The time measured in each system is the same. This claim is valid for 
-The speed involved is much lower than the speed of light. Relationships between the
-position, speed and acceleration measured in both systems, which is known as the transformed 
-It's from Galileo. 
- 
-b. Assume t=t' and get the Galileo transform. 
-Newton's laws are only valid in inertial systems (and even only for
-(Visible speeds of light are much lower than those of light). 
- 
-c. Suppose that some forces are acting on the body under study, so that in each system
-You get a net force. From Newton's laws, the relationship between accelerations.
-So if we're going to find the same mass in both systems, how should the two systems be?
-Net forces in each system? 
+To find a relation between the velocities and accelerations measured in each system, it can be postulated that the time measured in each system is the same. This postulate is valid for velocities involved much smaller than the speed of light. Relations are thus obtained between the position, velocity and acceleration measured in both systems, which is known as the Galileo transformation.
+
+b. Assume that t=t' and obtain the Galileo transformation.
+Newton's laws are only valid in inertial systems (and even then only for velocities much smaller than that of light).
+
+c. Suppose that some forces act on the body under study, so that in each system net forces are obtained. From Newton's laws, from the relation between the accelerations found in b and assuming that the mass in both systems is the same, how must the net forces in each system be? 
  
 A charge q in an electric field E
 v
-, suffers an electrical force
+, experiences an electric force
 E
 q
 Fe
@@ -3720,10 +3706,10 @@ v
 v
 ⋅
 =
-In a magnetic field .
+; in a magnetic field
 B
 v
-It feels a force that depends on its velocity, and it's normal to this and the field; equal to 
+ it feels a force that depends on its velocity, and is normal to this and to the field; equal to
 B
 v
 q
@@ -3734,17 +3720,17 @@ v
 ×
 ⋅
 =
-. In both forces all magnitudes are referred to the reference system in 
-The Commission has already taken a number of measures. 
- 
-d. In a given reference system, there is a constant electric field in the direction xˆ , a 
-a magnetic field constant in the direction zˆ and a charge q travelling at constant speed at 
-The address and . What must be the relationship between the fields for this to happen? 
+. In both forces all magnitudes are referred to the reference system under
+consideration.
+
+d. In a given reference system, there exists a constant electric field in the xˆ direction, a constant
+magnetic field in the zˆ direction and a charge q traveling at constant velocity in
+the yˆ direction. What must be the relation between the fields for this to occur?
 rv
 r′v
-Other
+rel
 rv
-System 1 
+System 1
 System 2
 xˆ
 yˆ
@@ -3753,24 +3739,23 @@ zˆ
 y′ˆ
 z′ˆ
 
-e. If the electric field goes away, what kind of path will the charge describe, and if it goes off?
-The magnet? 
- 
-The load situation described in d can be analysed using a fixed system as a reference 
-to the load (this system is inertial as the load moves at a constant speed). 
-It is experimentally verified that the load quantity does not depend on the reference system used, 
-So that's q=q. 
- 
-f. Check that if fields E
+e. If the electric field disappears, what type of trajectory will the charge describe? And if the
+magnetic field is turned off?
+
+The situation of the charge described in d can be analyzed using as reference a system fixed
+to the charge (this system is inertial since the charge moves at constant velocity).
+Experimentally it is verified that the amount of charge does not depend on the reference system used,
+that is, q=q’.
+
+f. Verify that if the fields E
 v
  y B
 v
-The new reference system does not change the 
-The Galileo transform is invalid. 
- 
-g. What is the value of the electric field in the new reference system E′v
-So that you can 
-Does it meet the Galileo transform?
+ do not change in the new reference system, the
+Galilean transformation is not valid.
+
+g. What must the electric field in the new reference system E′v be worth
+for the Galilean transformation to hold?
 
 
 <!--fig:start-->
@@ -14992,14 +14977,14 @@ e) Grafico Temperatura  Calore per i punti b) e c)
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission has also adopted a proposal for a Regulation on the approximation of the laws of the Member States relating to the use of the electricity sector in the electricity sector.
+**Lucas Cordoba Bridge (expansion and solar heat)**
 
-PT87. It's good grass, Tucumán. Blue, please. 
- 
-The length of the Lucas Córdoba bridge, which connects the city of San Miguel de Tucumán with the city of 
-Banda del Río Salí, has a length of 220 m and a width of 24 m. 
-On a winter day the temperature is 270°C and on a summer day 42°C. 
-Knowing that the linear dilation coefficient is 
+PT87. Yerba Buena, Tucumán. Blue.
+
+The length of the Lucas Córdoba bridge, which connects the city of San Miguel de Tucumán with the city of
+Banda del Río Salí, has a length of 220 m and a width of 24 m.
+On a winter day the temperature is 270º K and on a summer day 42ºC.
+Knowing that the coefficient of linear expansion is
 C
 x
 º
@@ -15009,18 +14994,18 @@ x
 6
 −
 : 
-(a) Calculate the difference in its surface area between a winter day and a summer day. 
-Solar power determines how much heat per m2 and every minute reaches the Earth's surface. 
-According to numerous measurements, it was determined that the solar radiation in Tucumán is 10,850 cal per day.
-every square foot and every minute. It is also known that water boils at 98.6 degrees Celsius. 
-Assuming that after a summer storm and because the drains have been blocked, you 
-has deposited 5 cm of water on its entire surface and if 100% of the solar radiation could be collected,
-Then: 
-(b) Assuming that after the storm the temperature is 20°C, how much heat will be 
-necessary to bring it to boiling temperature? 
-(c) Calculate the amount of heat required to evaporate all water. 
-(d) When will it evaporate? 
-(e) Graphing Temperature  Heat for points (b) and (c)
+a) Calculate the difference in its surface area between a winter day and a summer day.
+Solar power determines how much heat arrives per m2 and in each minute to the Earth's surface.
+According to numerous measurements, it was determined that the solar radiation in Tucumán is 10,850 cal per
+each m2 and in each minute. It is also known that water boils at 98.6ºC.
+Assuming that after a summer storm and because the drains have become clogged,
+5 cm of water has settled over its entire surface and if 100% of the solar radiation could be collected,
+then:
+b) Assuming that after the storm the temperature is 20ºC, what amount of heat will be
+necessary to bring it to the boiling temperature?
+c) Calculate the amount of heat necessary to evaporate all the water.
+d) In what time will it evaporate?
+e) Graph Temperature – Heat for points b) and c)
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]

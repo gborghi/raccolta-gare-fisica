@@ -255,7 +255,7 @@ Viscoelasticity of a polymer wire (10 points)
 Note: The wire must not be stretched before the start of the experiment!
 Turn on the balance immediately (heating time is about 10 minutes). Do not change the
 the balance sheet.
-The Commission
+Introduction
 When a solid material is subjected to an external force, it deforms. For small force
 The deformation is proportional to the force (Hooke's law) and is reversible, so the material returns
 It's going to be in its original form if you remove the force.
@@ -441,12 +441,12 @@ The upper support in the pedestal (Figure 4).
 2. At the same time, start the
 
 <!--fig:start-->
-The following is the list of the types of solids used:
+**p.2** — Standard linear model of the solid
 ![[_attachments/exam-experiment-Q2-italian/exam-experiment-Q2-italian_p2_f1.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the analysis of the data and the results of the analysis.
+**p.3** — Generalized model of multiviscoelastic processes
 ![[_attachments/exam-experiment-Q2-italian/exam-experiment-Q2-italian_p3_f2.png]]
 <!--fig:end-->
 

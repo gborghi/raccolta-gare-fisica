@@ -289,7 +289,7 @@ Pendenza della retta per F(x) = A+ Bx:
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the calculations:
+**Diode**
 
 Experiments
 A2-1
@@ -531,8 +531,8 @@ A2-12
 Italian (Italy)
 The following information shall be provided:
 The following information shall be provided:
-The Commission shall adopt implementing acts.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+RCRE
+LEV
 RC/RE
 RC/V
 RC/LE

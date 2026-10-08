@@ -1,5 +1,5 @@
 ---
-title: Russia na
+title: Russia
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Gravitazione e Astrofisica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Gravitazione e Astrofisica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

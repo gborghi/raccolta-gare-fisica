@@ -1,5 +1,5 @@
 ---
-title: OII 1998 2° Livello Teorica — 2lv98 (2 files merged).pdf
+title: OII 1998 2° Livello Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1998 2° Livello Teorica — 2lv98 (2 files merged).pdf — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/fluid-mechanics,topic/geometric-optics,topic/thermodynamics,argomento/termodinamica,object/block,object/lens,object/cylinder,object/slit,object/projectile"></span>
+<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1998 2° Livello Teorica — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/fluid-mechanics,topic/geometric-optics,topic/thermodynamics,argomento/termodinamica,object/block,object/lens,object/cylinder,object/slit,object/projectile"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,7 +91,7 @@ Gara di 2° Livello del 26 febbraio 1998 — Parte Prima (10 quesiti, 4 punti ci
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1998 2° Livello Teorica — 2lv98 (2 files merged).pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,argomento/termodinamica,object/gas,object/manometer,object/pipe-tube,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1998 2° Livello Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/kinetic-theory,topic/thermodynamics,argomento/termodinamica,object/gas,object/manometer,object/pipe-tube,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -134,7 +134,7 @@ The tap is then closed and $B$ is put into thermal contact with a source at $T_1
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1998 2° Livello Teorica — 2lv98 (2 files merged).pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/termodinamica,object/projectile"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1998 2° Livello Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/newtonian-mechanics,topic/conservation-of-energy,argomento/termodinamica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -189,7 +189,7 @@ The following shall be added to the list of the following:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1998 2° Livello Teorica — 2lv98 (2 files merged).pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/termodinamica,object/capacitor,object/battery,object/switch"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 1998 2° Livello Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/termodinamica,object/capacitor,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

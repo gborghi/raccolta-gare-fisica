@@ -320,7 +320,7 @@ For your results, use table C.1.
 Experiments
 Italian (Italy)
 A1-4
-The following is the list of the following: The following table shows the results of the calculation of the weighted average weight of the product:
+Part D. Geometric correction factor (1.9 points)
 D.1 (1.0 pt)
 Report your data on the appropriate paper: linear (Chart D.1a), semilogarithmic (D.1b) or
 The following pages list the following statistics:
@@ -333,12 +333,12 @@ b=
 Experiments
 Italian (Italy)
 A1-5
-The following is the list of the following:
+Graph D.1a: linear scale:
 
 Experiments
 Italian (Italy)
 A1-6
-The following table shows the number of samples taken:
+Graph D.1b: semilogarithmic scale:
 
 1
 2
@@ -372,7 +372,7 @@ The following table shows the number of samples taken:
 Experiments
 Italian (Italy)
 A1-7
-The following table shows the number of samples taken:
+Graph D1c: log-log scale:
 
 1
 2
@@ -474,12 +474,12 @@ A1-12
 E.8 (0.4 pt)
 Calculation:
 
-The following is the list of the countries of the European Union:
+ρ□(vdP) =
 
 E.9 (0.1 pt)
 
 $\Deltaρ□$
-The following is the list of the countries of the European Union:
+ρ□(vdP) =
 =
 %
 

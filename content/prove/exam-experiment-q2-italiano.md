@@ -192,13 +192,13 @@ which binds these amounts to the metals we've considered.
 
 In this experiment, no error calculation is required.
 It is noted that in Parts B and D there is a phase requiring a 15 minute wait. All the
-The Commission shall take into account the procedures.
+procedure taking it into account.
 The following information shall be provided:
 Do not connect any unauthorised cable or instrument directly to the 220 V/25 A network outlet. È
 Only supplied power supplies are allowed to be connected to the power supply, without the power supplies being
 the amendments.
 Other materials
-The following is the list of the following:
+Figure 1
 1. The branch. Cylindrical tube, length 200,0 mm, inner diameter 6,0 mm, outer diameter 20,0 mm
 2. I'm going to get it. Cylindrical tube, length 200,0 mm, inner diameter 6,0 mm, outer diameter 19,0 mm
 
@@ -226,9 +226,9 @@ black foaming material and insulating material.
 It's also used as a timekeeper.
 11. Cables for connecting the temperature sensors of the bar to the digital interface
 12. I'm going to go back. The voltmeter selector shall be set to 20 V DC (continuous current). See ?
-The following table shows the results of the study:
+figure 3.
 13. I'm going to get a meter. The amperometer shall be set to 10 DC (continuous current) amperes. See ?
-The following table shows the results of the study:
+figure 3.
 14. Electrical wires
 15. 9 V DC power for the heater with banana connectors.
 Attention
@@ -244,7 +244,7 @@ Figure 2.a. Schema of the Barret #1.
 The distances shall be provided in mm with an accuracy of 0,1 mm.
 (A) Heater connected to red wires. (B) Bar of copper. (C) Eight temperature sensors represented by a header such as that shown in Figure (D) Threaded for the mail screw
 on the lid of the water container.
-The following table shows the following: Schedule of Barrett 2.
+Figure 2.b. Diagram of Rod 2.
 The distances shall be provided in mm with an accuracy of 0,1 mm.
 (A) Heater connected to red wires. (B) Bar of copper. (C) Eight temperature sensors represented by a height like that shown in the figure. (D) Filed for life
 placed on the lid of the water container. (E) Brass rod. (F) Aluminum rod.
@@ -288,12 +288,12 @@ temperature, sorted by row.
 Part A: Electrical conductivity of copper, aluminium and brass (1.5 points)
 Theoretical premises
 When a permanent magnet falls into a conductive cylindrical tube, a force acts on it
-The Commission has already established that the Commission is not in a position to adopt a decision on the application of the provisions of this Regulation. As a result, the magnet reaches a speed of
+dissipative due to the induced eddy currents. Consequently, the magnet reaches a speed
 The limit. In this situation the speed limit can be expressed as:
 I'm not sure.
-The following table shows the results of the evaluation:
+8πmga2
 μ2
-The following table shows the results of the evaluation:
+0(πr2mM)2σwf( da)
 .
 (1)
 where the mass of the magnet is σ is the electrical conductivity of the tube material, i.e. the inner radius of the tube.
@@ -307,22 +307,22 @@ f(2) $\approx1.75$ . As a result, the time taken by the magnet to fall attract
 <!--fig:end-->
 
 <!--fig:start-->
-The following is the list of the types of the type of the vehicle:
+**p.3** — Diagram of Rod number one
 ![[_attachments/exam-experiment-Q2-italiano/exam-experiment-Q2-italiano_p3_f2.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the number of the number of the number of the bar.
+**p.3** — Diagram of Rod number two
 ![[_attachments/exam-experiment-Q2-italiano/exam-experiment-Q2-italiano_p3_f3.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following table shows the results of the calculations:
+**p.3** — Ammeter and voltmeter
 ![[_attachments/exam-experiment-Q2-italiano/exam-experiment-Q2-italiano_p3_f4.png]]
 <!--fig:end-->
 
 <!--fig:start-->
-The following information is provided by the Commission:
+**p.5** — Digital interface
 ![[_attachments/exam-experiment-Q2-italiano/exam-experiment-Q2-italiano_p5_f5.png]]
 <!--fig:end-->
 

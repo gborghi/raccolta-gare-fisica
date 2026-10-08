@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2015 — OIFTeoria2.pdf
+title: Brasile 2015 — OIF Teorica 2
 ---
 
 

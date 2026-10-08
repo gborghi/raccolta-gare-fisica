@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Termodinamica
-title: Spagna 2025 — 2025 Examen resuelto.pdf
+title: Spagna 2025 — Examen · Soluzioni
 ---
 
 

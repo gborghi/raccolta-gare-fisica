@@ -1,5 +1,5 @@
 ---
-title: OII 2015 2° Livello — 2liv15T Def.pdf
+title: OII 2015 2° Livello
 tipo: prova
 tags:
   - graph/prova
@@ -9,22 +9,26 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2015 2° Livello — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/geometric-optics,argomento/meccanica,object/screen"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 
+1 – Giochi d’ombra
+[Punti 10]
+Una sorgente di luce rettangolare, di lati b e c con $b > c$, è fissata al soffitto di una stanza di altezza $L = 3.00\ \text{m}$. Uno schermo opaco quadrato di lato $a = 10\ \text{cm}$, disposto orizzontalmente, è collocato sotto la lampada ad un’altezza h rispetto al pavimento (v. figura a sinistra). I lati della sorgente sono paralleli a quelli dello schermo.
+La figura a destra mostra schematicamente la forma e le dimensioni dell’ombra gettata dallo schermo sul
+pavimento della stanza, costituita da un’ombra vera e propria circondata da una zona di penombra; per motivi
+di chiarezza, i confini tra le varie zone sono stati rappresentati in maniera molto più netta di quanto appaiano
+nella realtà.
 1. Determinare le dimensioni della sorgente di luce, b e c, e l’altezza h dello schermo.
+2. Specificare l’orientazione della lampada chiarendo se il suo lato lungo (b) è parallelo all’asse x o a quello y
+della figura a destra.
 
 <!--fig:start-->
 ![[_attachments/2liv15T Def/2liv15T Def_p6_f4.png]]
 *sorgente rettangolare e ombra sul pavimento*
-<!--fig:end-->
-
-<!--fig:start-->
-**p.4** — traccia positrone in camera a nebbia
-![[_attachments/2liv15T Def/2liv15T Def_p4_f2.png]]
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -37,16 +41,16 @@ tags:
 
 <div class="qlang-split" data-lang="en"></div>
 
+1 – Shadow games
+[10 points]
+A rectangular light source, with sides b and c where $b > c$, is fixed to the ceiling of a room of height $L = 3.00\ \text{m}$. A square opaque screen of side $a = 10\ \text{cm}$, placed horizontally, is positioned below the lamp at a height h above the floor (see figure on the left). The sides of the source are parallel to those of the screen.
+The figure on the right schematically shows the shape and dimensions of the shadow cast by the screen on the floor of the room, consisting of a true shadow (umbra) surrounded by a penumbra region; for clarity, the boundaries between the various regions are drawn much sharper than they appear in reality.
 1. Determine the dimensions of the light source, b and c, and the screen height h.
+2. Specify the orientation of the lamp by clarifying whether its long side (b) is parallel to the x-axis or to the y-axis of the figure on the right.
 
 <!--fig:start-->
 ![[_attachments/2liv15T Def/2liv15T Def_p6_f4.png]]
-*rectangular source and shade on the floor*
-<!--fig:end-->
-
-<!--fig:start-->
-The following table shows the results of the test:
-![[_attachments/2liv15T Def/2liv15T Def_p4_f2.png]]
+*rectangular source and shadow on the floor*
 <!--fig:end-->
 
 **Topic:** [[Geometric Optics]]
@@ -58,14 +62,12 @@ The following table shows the results of the test:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/cylinder,object/battery"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2015 2° Livello — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/electrostatics,argomento/meccanica,object/cylinder,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 
-2. Specificare l’orientazione della lampada chiarendo se il suo lato lungo (b) è parallelo all’asse x o a quello y
-della figura a destra.
 2 – Riscaldatore elettrico
 [Punti 10]
 Un riscaldatore elettrico di acqua è formato da due cilindri coassiali metallici di lunghezza L. Il raggio del
@@ -91,7 +93,6 @@ Si consideri un sottile tratto d’acqua di larghezza $\Delta x$. In funzione de
 
 <div class="qlang-split" data-lang="en"></div>
 
-2. Specify the orientation of the lamp by clarifying whether its long side (b) is parallel to the x-axis or to the y-axis of the figure on the right.
 2 – Electric heater
 [10 points]
 An electric water heater consists of two coaxial metal cylinders of length L. The radius of the inner cylinder is r and s is the distance between the two cylinders, with $s \ll r$.
@@ -105,7 +106,7 @@ Consider a thin section of water of width $\Delta x$. As a function of the given
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/thermodynamics,argomento/meccanica,object/cylinder"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2015 2° Livello — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/circuits,topic/thermodynamics,argomento/meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,7 +145,7 @@ The following table shows the manufacturer's technical specifications for the ma
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/circuits,argomento/meccanica,object/membrane"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2015 2° Livello — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/circuits,argomento/meccanica,object/membrane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,7 +180,7 @@ To study her motion, let us consider her center of mass (CoM) C. Let us fix a re
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rod,object/membrane"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2015 2° Livello — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/newtonian-mechanics,argomento/meccanica,object/rod,object/membrane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -230,7 +231,7 @@ Capriola (death leap) in the air, but he realizes that if he stays rigid that's 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/rotational-dynamics,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2015 2° Livello — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/rotational-dynamics,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,7 +270,7 @@ The value of the input data is the value of the input data. Its angular velocity
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/rotational-dynamics,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2015 2° Livello — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/rotational-dynamics,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -304,7 +305,7 @@ During his jump, he spent half the time in a rancid position.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/rotational-dynamics,topic/conservation-of-momentum,argomento/meccanica,object/rod,object/membrane"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2015 2° Livello — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/rotational-dynamics,topic/conservation-of-momentum,argomento/meccanica,object/rod,object/membrane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -351,7 +352,7 @@ its centre is $I = m\ell^2/12$.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/rotational-dynamics,topic/conservation-of-momentum,argomento/meccanica,object/rod"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OII 2015 2° Livello — Problema 9" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/rotational-dynamics,topic/conservation-of-momentum,argomento/meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -404,7 +405,7 @@ ATTENTION: On a separate sheet, the graphs of the black-body spectral intensity 
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OII 2015 2° Livello — Problema 10" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -461,7 +462,7 @@ The black body spectrum T2=1300 K
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OII 2015 2° Livello — Problema 11" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -500,7 +501,7 @@ The first is the universal constant, called the Stefan-Boltzmann constant.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica,object/star"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OII 2015 2° Livello — Problema 12" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/modern-quantum-physics,argomento/meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -535,7 +536,7 @@ $\lambda_m = 0.48\ \mu\text{m}$.
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OII 2015 2° Livello — 2liv15T Def.pdf — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/astrophysics,topic/thermodynamics,argomento/meccanica,object/star"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OII 2015 2° Livello — Problema 13" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/astrophysics,topic/thermodynamics,argomento/meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

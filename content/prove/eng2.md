@@ -1,5 +1,5 @@
 ---
-title: Russia na
+title: Russia
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/piston,object/gas,object/capacitor,object/resistor,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/piston,object/gas,object/capacitor,object/resistor,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -314,7 +314,7 @@ Circuito con batterie, resistori e condensatore
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia na — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/satellite,object/photon,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/satellite,object/photon,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -630,7 +630,7 @@ X Olimpiade Internazionale Zhautykov/Competizione Teorica Pagina 4/5
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia na — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

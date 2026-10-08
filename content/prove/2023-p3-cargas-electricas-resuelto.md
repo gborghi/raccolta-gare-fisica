@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Termodinamica
-title: Spagna 2023 — 2023 P3-Cargas electricas resuelto.pdf
+title: Spagna 2023 — Problema 3 Cargas electricas · Soluzioni
 ---
 
 

@@ -16,7 +16,7 @@ tags:
   - paese/Germany
   - comp/IPhO-DE-R1
   - cluster/Meccanica
-title: IPhO-DE-R1 2020 Round 1 — 51_IPhO_2020_1Rd_Aufgaben_Loesungen.pdf
+title: IPhO-DE-R1 2020 Round 1
 ---
 
 

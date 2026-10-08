@@ -18723,74 +18723,55 @@ C e
 
 <div class="qlang-split" data-lang="en"></div>
 
-PT118. The school of the apostle Paul1 - College of the sun2 
- 
-We're going to get a new one. 
- 
-The Classic Atom and its Problems. 
-In the early days of atomic research,
-In the early 20th century, it was thought that this one had a
-structure similar to a planetary system with a nucleus in the
-center, very heavy and positively charged, and the lighter ones 
-electrons spinning around them, bound by the attraction of 
-The Commission has not yet adopted a proposal for a regulation. 1  Classic view of the hydrogen atom, with 
-A proton in the nucleus and a single electron orbiting, located at 
-a distance r). 
-It soon became clear that things couldn 't be as simple as this:
-electrical charges when moving at acceleration, 
-As electrons orbiting around the nucleus (centipede acceleration), they lose.
-energy in the form of electromagnetic radiation, called laughter radiation, so 
-atomic electrons would rush into the nucleus in a spiral path at a time.
-The following table shows the results of the study: 2). It's obviously not like that, since normal matter is
-stable and we're all here. 
-The idea of this problem is to make an estimate.
-The classical and non-relativist of the time it would take in 
-Theories are there to destroy a hydrogen atom.
-The classics of mechanics and electromagnetism, 
-The first is that the energy from ionization (ionization) is not a
-energy needed to start the electron from an atom.
+PT118. Colegio Pablo Apóstol1 - Colegio del Sol2
+
+    Yerba Buena1 - San Miguel2, Tucumán.
+
+The Classical Atom and Its Problems.
+At the dawn of research on the atom, at
+the beginning of the 20th century, it was thought that it had a
+structure similar to a planetary system with a nucleus at the
+center, very heavy and positively charged, and the light
+electrons revolving around it, bound by Coulomb attraction (Fig. 1 – Classical view of the Hydrogen atom, with
+a proton in the nucleus and a single electron orbiting, located at
+a distance r ).
+It was soon discovered that things could not be so simple:
+electric charges when they move with acceleration,
+like electrons orbiting around the nucleus (centripetal acceleration), lose
+energy in the form of electromagnetic radiation, called Larmor Radiation, so
+the atomic electrons would precipitate toward the nucleus in a spiral trajectory in a very
+short time (see Fig. 2). It is clear that this does not happen, since normal matter is
+stable and we are all here.
+The idea of this problem is to make a classical and non-relativistic estimate
+of the time it would take for a hydrogen atom to annihilate itself according to the classical
+theories of mechanics and electromagnetism,
+starting from the fact that the ionization energy (the
+energy necessary to remove the electron) of a
 de 
-Hydrogen
+hydrogen atom
 en 
 su 
-State of the Union
-The key 
+ground state
 es 
 13
 eV
 .6
-Other
+Ioniz
 E
 . 
  
-(a) Assuming that the electron's orbit is circular from 
-Radio r , get the expressions of the total energy of the 
-electron E , its velocity v , its acceleration a and of 
-its rotation period T , depending on the total energy 
-0
-And the hydrogen atom in the fundamental state, and the radio.
-0r of orbit 
-circulating in that state. 
- 
-Help: to solve this incision we recommend first writing mechanical energy 
-total electron in a radio orbit r , then use that gravitational force 
-Newtonian is the centrifugal force and so they're going to come up with an expression for E. The energy
-0
-And that 's what you get for particularizing .
-0
+a) Assuming that the electron's orbit is circular with radius r, obtain the expressions for the total energy of the electron E, its speed v, its acceleration a, and its period of rotation T, as a function of the total energy 0 E of the Hydrogen atom in the ground state, and of the radius 0r of the circular orbit in said state.
+
+Hint: to solve this part we recommend first writing the total mechanical energy of the electron in an orbit of radius r, then using the fact that the Newtonian attractive Force is the Centripetal Force and thus arrive at an expression for E. The energy 0 E is the one obtained by particularizing 0
 r
 r
 
-. 
-Because the ionization energy is the minimum energy that you have to deliver to the atom.
-To start the electron, we can write:
-0
+.  Since the ionization energy is the minimum energy that must be given to the atom to tear the electron away, we can write: 0
 0
 13.6e
 0
-V
-Other
-Other
+V Ioniz
+Ioniz
 E
 E
 E
@@ -18800,18 +18781,13 @@ E
 
 
 
- 
- 
-Fig 2  In the atomic model of 
-Rutherford, the electrons should be
-gradually lose energy and
-Falling on the positive core 
 
- 
-The following points shall be added:
-(b) Determining and calculating 
-0r as well as the speed, acceleration and period in this
-orbit 
+
+Fig 2 – In Rutherford's atomic model, electrons should gradually lose energy and fall onto the positive nucleus
+
+
+OAF 2015 - 105
+b) Determine and calculate 0r as well as the speed, acceleration and period in this orbit
 0
 0
 0
@@ -18819,9 +18795,8 @@ orbit
  y 
 v a
 T . 
- 
-When an electron moves with acceleration to , the radiant power it emits comes .
-given by the Lacrimal formula: 
+
+When an electron moves with acceleration a, the radiant power it emits is given by Larmor's Formula:
 2
 2
 3
@@ -18833,18 +18808,18 @@ P
 a
 
  
-where k is Coulomb's constant, c is the speed of light and e is the charge of 
-electron. 
- 
-c) As the electron loses energy, it will describe ever smaller radio orbits. 
-Find the expression of the emitted power P in terms of the radius r of the orbit 
-The electron cycle, of 0r and of 
+where k is Coulomb's constant, c is the speed of light and e is the charge of the
+electron.
+
+c) Upon losing energy, the electron will describe orbits of ever smaller radius.
+Find the expression for the emitted power P as a function of the radius r of the
+circular orbit of the electron, of 0r and of
 0
 E . 
- 
-From the results obtained in (a) and (c) it is possible to find an expression for the
-time  that would take an electron to fall over the nucleus from the fundamental state 
-0r radio: 
+
+From the results obtained in a) and c) it is possible to find an expression for the
+time  that it would take an electron to ―fall‖ onto the nucleus from the ground state
+of radius 0r :
 3
 2
 0
@@ -18856,18 +18831,18 @@ e
 c m r
 E
 
- 
- 
-d) What time would it take an electron to fall over the nucleus from the
-orbit of the fundamental radio 0r stage ? 
- 
-Conclusion: if you got to the end of the problem, you could test that the life of an atom
-According to classical theory, it's very short. The classic atom is a failure. The quantum theory .
-It is the one that correctly describes the stability of matter, and also predicts the
-properties of atoms. 
- 
-The data: 
-- Correlation between eV and J 
+
+
+d) What is the time  that it would take an electron to ―fall‖ onto the nucleus from the
+orbit of the ground state of radius 0r ?
+
+Conclusion: if you reached the end of the problem, you were able to verify that the life of an atom
+according to classical theory is very short. The classical atom is a failure. Quantum Theory
+is the one that correctly describes the stability of matter, additionally predicting the
+properties of atoms.
+
+Data:
+- Correlation between eV and J
 19
 eV
 1,60x10
@@ -18875,8 +18850,8 @@ J
 1
 
 
- 
-- Mass of the electron 
+
+- Mass of the electron
 31
 x10
 k
@@ -18887,8 +18862,8 @@ e
 m
 
 
- 
-- Coulomb constant .
+
+- Coulomb's constant
 9
 2
 2
@@ -18896,8 +18871,8 @@ x10 Nm C
 8,99
 /
 k 
- 
-- Speed of light .
+
+- Speed of Light
 8
 x10
 3,
@@ -18905,8 +18880,8 @@ x10
 00
 m s
 c 
- 
-- Elemental charge of the electron 
+
+- Elementary charge of the electron
 19
 x10
 1,60

@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/circuits,topic/geometric-optics,topic/electromagnetism,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/circuits,topic/geometric-optics,topic/electromagnetism,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -274,7 +274,7 @@ The manufacturer shall ensure that the manufacturer is able to provide the manuf
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -323,7 +323,7 @@ The following table shows the results of the tests:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -366,7 +366,7 @@ The LED.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII na Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -407,7 +407,7 @@ National competition  13 April 2023 Experimental Test
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII na Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -444,7 +444,7 @@ consider that it is verified and calculate constants a and b.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII na Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/circuits,topic/geometric-optics,argomento/elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

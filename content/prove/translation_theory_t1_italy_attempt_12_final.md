@@ -143,7 +143,7 @@ r
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the evaluation:
+**vrms**
 
 Theory
 Italy
@@ -160,7 +160,7 @@ i
 fi
 i = 1 $\dots$ N
 f0
-The Commission shall adopt implementing acts.
+Vcr
 fi
 i = 1 $\dots$ N f0
 N

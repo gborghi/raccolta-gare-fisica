@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Spagna/Jaen/Problemas con soluciones.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[OlimpFis-Jaen 2014 Fase Local] — Problemas con soluciones.pdf'
+title: '[OlimpFis-Jaen 2014 Fase Local]'
 ---
 
 

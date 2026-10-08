@@ -16,7 +16,7 @@ tags:
   - paese/Germany
   - comp/IPhO-DE-2Rd-2021
   - cluster/Meccanica
-title: IPhO-DE-2Rd-2021 2021 Round 2 — 51_IPhO_2021_2Rd_Aufgaben_Loesungen_web.pdf
+title: IPhO-DE-2Rd-2021 2021 Round 2
 ---
 
 

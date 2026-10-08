@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -46,7 +46,7 @@ I'm going to get it.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -79,7 +79,7 @@ The path of light rays is significant.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/geometric-optics,argomento/ottica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

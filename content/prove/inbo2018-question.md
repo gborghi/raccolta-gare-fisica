@@ -16,7 +16,7 @@ tags:
   - comp/India
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2018 — INBO2018-Question.pdf
+title: India 2018 — INBO
 ---
 
 

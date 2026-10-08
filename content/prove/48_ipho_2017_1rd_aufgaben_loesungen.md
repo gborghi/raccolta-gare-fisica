@@ -16,7 +16,7 @@ tags:
   - paese/Germany
   - comp/IPhO-DE-2017-R1
   - cluster/Termodinamica
-title: IPhO-DE-2017-R1 2017 Round 1 — 48_IPhO_2017_1Rd_Aufgaben_Loesungen.pdf
+title: IPhO-DE-2017-R1 2017 Round 1
 ---
 
 

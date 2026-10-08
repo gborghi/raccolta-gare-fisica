@@ -137,8 +137,8 @@ Trovare Lcr ed esprimerlo in funzione di $Zext,\alpha ,\gamma$ ,e, L,S. (0.5 pun
 
 <div class="qlang-split" data-lang="en"></div>
 
-Theoretical competition. The Commission's decision on the application of this Regulation
-The Commission shall adopt the following: 3. The simplest model of discharge into a gas (10 points)
+Theoretical competition. Tuesday, 15 July 2014 1/3
+Problem no. 3. The simplest model of discharge in a gas (10 points)
 The physical phenomenon of electric current flowing into a gas is called discharge into a gas. There are many
 types of discharges in a gas, including incandescent discharge in a lamp, arc discharge in
 The welding process and the well-known phenomenon of discharge of electric particles between clouds and ground
@@ -152,7 +152,7 @@ I'm going to grow up. The unlimited increase in the density of the number of ele
 Recombination process in which a free electron recombines with an ion to form an atom
 Neutral. The number of Zrec recombination events occurring in gas per unit volume and per unit volume of
 Time is given by the report
-The following is the list of the countries of the European Union:
+Zrec=r ne ni
 where r is a constant called the recombination coefficient and n and n are respectively the
 density of the number of electrons and density of the number of ions.
 Suppose that the external ionizer is started at time t=0 and that the density of the number
@@ -161,7 +161,7 @@ The electron ne (t) depends on the time t as follows:
 the value of the product concerned shall be the sum of the values of the product concerned.
 where n0,a and b are constants and tanh x is the hyperbolic tangent of x .
 A1
-Find the expression of the quantities n0,a,b and express them as a function of Zext andr. The Commission shall adopt implementing acts in accordance with Article 8 (1) of Regulation (EC) No 1272/2009.
+Find the expression for the quantities n0, a, b and express them as functions of Zext and r. (1.8 points)
 It is now assumed that two external ionizers are available. When only the first external ionizer comes in
 When the gas is put into operation, the density of the free electrons in the gas reaches its equilibrium value of
 $ne1=12\cdot10$
@@ -186,14 +186,14 @@ $v=\beta E$
 where $\beta$ is a constant called the electrical charge mobility.
 A3
 Express the electric current flowing through the tube as a function of U,b,L,S,Zext,r and where
-The latter is the elementary charge. The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+the latter is the elementary charge. (1.7 points)
 A4
 Find the resistivity $\rho gas$ of the gas for sufficiently small values of the applied electrical voltage
 
-Theoretical competition. The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Theoretical competition. Tuesday, 15 July 2014 2/3
 And then we can express it as a function of b, L, Zext, r and e. (0.7 points)
 
-Theoretical competition. The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Theoretical competition. Tuesday, 15 July 2014 3/3
 Part B. Discharge in a self-supporting gas (5.2 points)
 In this part of the problem, the ignition of discharge in a self-sustaining gas is considered to show how the electric current flowing through the pipe becomes self-sustaining.
 - Watch your step! In this part it is assumed that the external ionizer continues to operate at the same

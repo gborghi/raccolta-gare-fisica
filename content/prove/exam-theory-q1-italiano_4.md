@@ -266,7 +266,7 @@ The amount $\langle\Delta x(t)2\rangle viene$ called average squared displacemen
 Square Displacement MSD). It is an observable characteristic quantity of brownian motion, corresponding to the limit case where $δ\to0$. This is the way to go.
 to show that $C\proptoδαe \langle\Delta x(t)2\rangle\propto tβ$. The values of αe β are determined.
 0.8pt
-Part C. The following table shows the results of the calculation:
+Part C. Electrophoresis (2.7 points)
 The problem is that the electric field is the transport of charged particles. A colloidal particle suspension with mass Me charge Q(> 0) is placed in a narrow channel having
 a cross section A(Fig. 1(a)). We ignore the interaction between particles, the effects of walls, ions.
 It's there and gravity.
@@ -275,7 +275,7 @@ Applying a uniform electric field in the direction x, the particles are affected
 Electrical and their concentration n(x) (number of particles per unit volume) becomes non-uniform
 (Fig. 1 (b)) If Eviene is removed, this non-uniformity will gradually disappear. This is because of the bike.
 Brownish particles. If n(x) is not uniform, the number of particles moving to the right
-The resulting particle size is the same as the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle size of the particle of the particle of the particle size of the particle of the particle of the left. This gives rise to a
+it may be different from that of the particles moving to the left (Fig.1(c)). This gives rise to a
 Particle flow JD(x), defined as the average number of particles per unit area crossed and for
 units of time at the point x that move along the x-axis. This flow satisfies the report
 JD(x) = $-Ddn$
@@ -335,7 +335,7 @@ C.5
 The flow balance equation implies JD(x) + JQ(x) = 0. The following is the
 Diffusion coefficient Din function of k, γ, and T.
 0.5pt
-The following is the list of the following: Average square displacement (2.4 points)
+Part D. Mean squared displacement (2.4 points)
 Suppose we observe the Brownian motion of an isolated, spherical colloidal particle with a radius of a=
 5.0 μm in water. Figure 3 shows histograms of the $\Delta xmisurati$ movements in the xa direction
 intervalli regolari $\Delta t=$ 60 s . The friction coefficient is given by γ= 6πaηcon viscosity of the water η=
@@ -349,7 +349,7 @@ D.1
 From Fig.3, estimate the value of NAf in two significant digits without
 So we're going to use the fact that this is Avogadro's constant. The gas constant is
 R= 8.31 J/K $\cdot mol$. Do not use the value of the Boltzmann constant given in the General Instructions. As for Avogadro's constant, you could
-The Commission shall, in particular, examine the results of the studies and the results of the studies.
+obtain a value different from the one in the General Instructions.
 1.0pt
 Now we extend the model of Part B to describe the motion of a charged particle Qsotto
 The action of an electric field E. The velocity of the particle v(t) taken into account in Eq.

@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Meccanica
-title: OBF 2024 Locale Round 1 — fase1_gab_v2.pdf
+title: OBF 2024 Locale Round 1
 ---
 
 

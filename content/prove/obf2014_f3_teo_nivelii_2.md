@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2014 — OBF2014_F3_TEO_NivelII.pdf
+title: OBF 2014 — Fase 3 · Livello II · Teorica
 ---
 
 

@@ -16,7 +16,7 @@ tags:
   - paese/Deutschland
   - comp/IPhO-DE-R2
   - cluster/Meccanica
-title: IPhO-DE-R2 2022 Round 2 — 52_IPhO_2022_2Rd_Aufgaben_Loesungen_web.pdf
+title: IPhO-DE-R2 2022 Round 2
 ---
 
 

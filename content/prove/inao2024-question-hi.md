@@ -383,49 +383,31 @@ aperture) कोकमकरकेमुख्यदपर्णतकपहु�
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. PogsonKesuत्राperdorazione di un'artiglione o di un'artiglione (magnitude) $m_1$ e $m_2$ in relazione a un'artiglione
-- Lo so.
+4. La differenza tra le magnitudini $m_1$ e $m_2$ di due oggetti celesti, i cui flussi (energia ricevuta dall'oggetto per unità di area e per unità di tempo) sono rispettivamente $F_1$ e $F_2$, è data dalla relazione di Pogson:
+
 $\Delta m = m_1 - m_2 = -2.5 \log_{10}\!\left(\dfrac{F_1}{F_2}\right)$
-यहाँ$F_1$ और$F_2$ प्रवाह(Flux) िनदǼʺशतकरतेहैजो, प्र˃तइकाईक्षेत्रप्र˃तइकाईसमयिंपडसेप्राप्तऊजार्कामापहै।
-(a) (3 punti) 6 pollici (< 1 pollice) di diametro ($= 2.54\ \text{cm}$) di un'ottica di vista a distanza (primaria, specchio primario)
-Per la sua storia, Sirius ha ottenuto tutte le sue stelle.
-Aभजीत(Vega) stelle vistaprt magnitude) è $m_\text{vega} = +0.03$, e il suo flusso è
-$2.19 \times 10^{-8}\ \text{W/m}^2$ है।
-Noi useremo un'intera rete di 6 pollici di lunghezza per il nuovo dispositivo di controllo.
-Distante visione di una composizione di diverse condizioni
-b) di cui al capitolo 2
-C) davanti e c) dietro.
-Distanza di vista per il principale accioccio$d_\text{disc} = 3.7\ \text{cm}$ diametro UnconsensualRetactorRettactorRettactorRettactorRettactorRettactorRettactorRettactorRettactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorRetactorReta
-(specchio secondario), da lontano, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altra parte, da un'altro.
-- **B.** मेंिदखायागयाहै।छड़ोंकɃ मोटाई$b_\text{rod} = 0.3\ \text{cm}$ है।
-- **B.** (3 marchi) II secondo processo di approvazione del proprio posto di lavoro
-L'inquinamento di acqua è un fattore di aumento del flusso.
-L'axi ottico è un'axi di luce (a) e di luce (a) e di luce (a) e di luce (a) e di luce (a) e di luce (a) (b).
-A volte, la telescopia non è disponibile per l'uso o per altri motivi.
-Questioni in materia di cassa-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pulizia-pu-pulizia-pu-pu-pu-pulizia-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu-pu
-Il principale di questi due aspetti è il leggo distante.
-(c) (3 marks) la manliʹja'eicic distantebiin nli e la principale piattaforma di espressione di un'acciaio tra un angolo è $\theta = 5^\circ$.
-Questo è il motivo per cui il principale fattore di flusso ottenuto è il calcolo del tasso di cambio.
-MainDepartment di accettazione di visione distante e di controllo delle parti in posizione di controllo della vite di levelling), $S_1$,
-$S_2$ e $S_3$ da parte di un'autore.
-(c) in un'area di cui sono stati trattati tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre tre
-Quando si fa, ogni angolo ha una lunghezza $l = 3\ \text{inches}$.
-c) nei principali documenti di pubblicazione
-E' il centro della vita e della vita.
-(d) (4 punti) Manli'ja'ikupperv'n'tadaparnke'aक्षka$5^\circ$ झुकावनलीके'aक्षऔररेखा$OS_1$ वालेसमतल
-In questo modo, $S_2$ o $S_3$ covchltickajeibnazuqavkoosehikarelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelelele
-$S_1$ co-stazione रतकरकेअक्षोंकोइफर्ससेसमरेखीयकरनासंभवहोनाचाहीहीहे.यिदपेंच$S_1$ क िपच(pitch)
-$1.15\ \text{mm}$ è, quindi, il numero di punti di vista
-(cfr.
-CasibileRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRivisioneRRRRivisioneRRRRRivisioneRRRRRRivisioneRRRRivisioneRRRRRRivisioneRRRRRivisioneRRRRRivisioneRRRRRRivisioneRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRVRRRVRVRVRRVRVRVRRRRVR
-(Sicurezza, dimensione dell'apertura) E la tolleranza per gli uomini è molto elevata.
-La nostra vista remota (maggiore di 6 pollici) con la protezione di una visibile visibilità di tutti i prodotti
-$-10.50$ है।इससेअ˃धकउʓवलिकसीभीस्रोतकािनरीक्षणकरनेकेǺलएदूरबीनकेप्रभावीएपचर्र(effective
-aperture) per almeno il principale dispositivo di accesso all'espictor  quantità di trasmissione.
-Un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' più di un po' di un po' più di un po' più di un po' più di un po' di un po' più di un po' di un po' più di un po' di un po' più di un po' di un po' più di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di un po' di più.
-(e) (4 marks) ढक्कनपरबनेइसगोलाकारʺछद्रकेव्यासकɃ गणनाकरेंतािक $-12.525$ दृश्यप्र˃त(magnitude)
-La Commissione ha adottato una decisione che prevede che le misure di sicurezza e di sicurezza siano state adottate in modo coerente.
-Non si vede.
+
+(a) (3 punti) Calcolare l'energia totale per unità di tempo ricevuta dalla stella Sirio (magnitudine $m_\text{sirius} = -1.46$) sullo specchio primario, di diametro 6 pollici (1 pollice $= 2.54\ \text{cm}$), di un telescopio. Il flusso della stella Vega, che ha magnitudine $m_\text{vega} = +0.03$, è $2.19 \times 10^{-8}\ \text{W/m}^2$.
+
+Si consideri un telescopio riflettore newtoniano (nella figura sotto sono mostrate le viste (a) laterale, (b) dall'alto e (c) dal basso) con uno specchio primario concavo di diametro 6 pollici. Uno specchio secondario, montato su un disco piano di diametro $d_\text{disc} = 3.7\ \text{cm}$, è tenuto in posizione sull'asse del tubo del telescopio da tre sottili aste di spessore $b_\text{rod} = 0.3\ \text{cm}$, come mostrato nella figura (b).
+
+<!--fig:start-->
+![[INAO2024-Question_p7_f1.png]]
+<!--fig:end-->
+
+(b) (3 punti) Calcolare la riduzione percentuale del flusso sullo specchio primario dovuta alla struttura di sostegno dello specchio secondario.
+
+L'asse ottico dello specchio primario e l'asse del tubo del telescopio dovrebbero coincidere. A volte, però, possono disallinearsi per un uso scorretto o per altri motivi. Nelle domande seguenti si trascurino gli effetti dello specchio secondario e della sua struttura di sostegno, e si assuma che il diametro dello specchio primario sia praticamente uguale a quello del tubo.
+
+(c) (3 punti) Si supponga che, a causa di un disallineamento, l'angolo tra i due assi sia $\theta = 5^\circ$. Calcolare la variazione percentuale del flusso ricevuto dallo specchio primario dovuta a questo difetto.
+
+L'allineamento dell'asse dello specchio primario si regola con tre viti di livellamento, $S_1$, $S_2$ e $S_3$, poste sul fondo del telescopio. Come si vede nella vista dal basso (figura (c)), queste viti formano un triangolo equilatero di lato $l = 3\ \text{inches}$ (3 pollici). Nella figura (c) l'asse ottico dello specchio primario è perpendicolare al piano del foglio e passa per il baricentro O del triangolo.
+
+(d) (4 punti) Si supponga che l'inclinazione di $5^\circ$ dell'asse dello specchio descritta sopra sia avvenuta nel piano che contiene l'asse del tubo e la retta $OS_1$ (figura (c)). Deve quindi essere possibile correggere l'inclinazione e riallineare gli assi agendo soltanto sulla vite $S_1$, senza toccare $S_2$ o $S_3$. Se il passo della vite $S_1$ è $1.15\ \text{mm}$, quanti giri di questa vite servono per riallineare lo specchio?
+
+La luminosità massima di una sorgente osservabile con un telescopio di data apertura è limitata dalla tolleranza dell'occhio umano alla luce intensa. L'oggetto più luminoso che si può osservare in sicurezza con il nostro telescopio (specchio primario di diametro 6 pollici) ha magnitudine $-10.50$. Per osservare una sorgente più luminosa di questo limite occorre ridurre la quantità di luce che arriva allo specchio primario, diminuendo l'apertura efficace del telescopio. Lo si fa coprendo l'imboccatura del telescopio con un coperchio provvisto di un foro (apertura) più piccolo, di dimensione opportuna.
+
+(e) (4 punti) Calcolare il diametro di questo foro circolare nel coperchio in modo che si possa osservare in sicurezza una supernova di magnitudine $-12.525$. Anche in questo caso si trascurino lo specchio secondario e la sua struttura di sostegno.
 
 **Topic:** [[Astrophysics]], [[Geometric Optics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ray Tracing (metodo)|Ray Tracing]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]

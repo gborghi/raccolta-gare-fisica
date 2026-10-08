@@ -16,7 +16,7 @@ tags:
   - paese/Deutschland
   - comp/IPhO-DE-R1
   - cluster/Ottica
-title: IPhO-DE-R1 2025 Round 1 — 55_IPhO_2025_1Rd_Aufgaben_Loesungen.pdf
+title: IPhO-DE-R1 2025 Round 1
 ---
 
 

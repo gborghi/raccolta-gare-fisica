@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/rigid-body-statics,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/rigid-body-statics,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

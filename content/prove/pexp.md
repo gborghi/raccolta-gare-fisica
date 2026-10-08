@@ -1,5 +1,5 @@
 ---
-title: Spagna na
+title: Spagna
 tipo: prova
 tags:
   - kg/prova
@@ -12,7 +12,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna na — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -55,7 +55,7 @@ You can get it by finding the mean of the OA and OB distances. Present the data 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna na — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -92,7 +92,7 @@ You can get it by finding the mean of the OA and OB distances. Present the data 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna na — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -138,7 +138,7 @@ $\delta max$ for the red colour. (3 p.)
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna na — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -175,7 +175,7 @@ $\delta max$ for the red colour. (3 p.)
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna na — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -221,7 +221,7 @@ gently through these points. (2 p.)
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna na — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -261,7 +261,7 @@ for the red. If possible, try to get n with three decimals. (2 p.)
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna na — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,object/prism"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

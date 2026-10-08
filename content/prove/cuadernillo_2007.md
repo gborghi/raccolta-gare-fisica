@@ -2071,34 +2071,33 @@ h) Si la corriente en cada parlante fuese de 12A. ¿Cuál sería la tensión en 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Calificazione delle aule con stufe**
+**Riscaldamento delle aule con stufe**
 
-17. Aguilar, Tucumán. Blu e verde. 
-In una scuola si vogliono riscaldare 10 aule con stufe elettriche. Tutte le aule possiedono
-tutte le stesse dimensioni: 5 metri di lunghezza, 4 metri di larghezza e 3 metri di altezza, le quali hanno due 
-finestre, ognuna. 
-Le stufe sono costituite da 2 candele di quarzo collegate in parallelo e da 60 OHM di resistenza 
-ognuno di essi, che si collegano a una tensione di 220 V. Sono utilizzati per riscaldare l'aria contenuta 
+17. Aguilares, Tucumán. Azul y Verde. 
+In una scuola si vogliono riscaldare 10 aule con stufe elettriche. Tutte le aule hanno 
+le stesse dimensioni: 5m di lunghezza, 4m di larghezza e 3m di altezza, e ciascuna ha due 
+finestre. 
+Le stufe sono formate da 2 tubi al quarzo collegati in parallelo, ciascuno con una resistenza 
+di 60 OHM, e sono collegate a una tensione di 220V. Servono a riscaldare l'aria contenuta 
 
-nella stanza la cui densità e calore specifici sono: δ = 1,3 Kg. / m3 e Ce = 0,20 cal / g o C, 
-rispettivamente. 
+nella stanza, la cui densità e il cui calore specifico sono rispettivamente: δ = 1,3 Kg. / m3 e Ce = 0.20 cal / g º C. 
 Calcolare: 
-a) Potenza fornita da ciascun stufa in forma di calore all'ambiente. 
-b) Il calore che deve assorbire l'aria per elevarne la temperatura di 10°C. 
-c) Sapendo che il calore trasferito da ogni finestra, verso l'esterno, e per unità di tempo 
-è di 20 cal/ s, trovare il tempo necessario per accendere il stufa 
-ambiente a 10°C. 
-d) Che potenza avrebbe fornito il stufa se fosse stata tolta una delle candele di quarzo? 
-e) Qual è la spesa mensile che l'università avrà se per mese si sono tenuti 20 giorni di servizio?
-per 4 ore al giorno? Il valore di kwh = 0,1088 dollari. 
-f) Disegna il circuito quando le stufe di tutti i corsi sono accese con
-le due candele. 
+a) La potenza ceduta da ciascuna stufa all'ambiente sotto forma di calore. 
+b) Il calore che deve assorbire l'aria per aumentare la sua temperatura di 10º C. 
+c) Sapendo che il calore trasferito verso l'esterno da ciascuna finestra, per unità di tempo, 
+è di 20 cal / s, trovare per quanto tempo deve restare accesa la stufa per riscaldare 
+l'ambiente di 10º C. 
+d) Che potenza fornirebbe la stufa se si togliesse uno dei tubi al quarzo? 
+e) Quanto spenderà ogni mese la scuola se le stufe restano accese 20 giorni al mese, 
+per 4 ore al giorno? Il prezzo del kwh è 0.1088\$. 
+f) Disegnare lo schema del circuito quando le stufe di tutte le aule sono accese con 
+entrambi i tubi. 
  
-In un corso, gli studenti decidono di connettere una squadra musicale a due persone che parlano la stessa lingua.
+In una classe, gli studenti decidono di collegare un impianto stereo a due altoparlanti, alla stessa 
 tensione: 
-g) Di che diametro dovrebbe essere il cavo di rame affinché la resistenza non superi 0,10 Ω? 
-se ogni cavo deve avere 20 metri di lunghezza. (Resività del rame 1,7 . 10 -8 Ω m) 
-h) Se il corrente su ogni altoparlante fosse di 12A. Qual è la tensione di ogni cavo?
+ g) Che diametro dovrebbe avere il cavo di rame perché la sua resistenza non superi 0,10 Ω, 
+se ciascun cavo deve essere lungo 20m? (Resistività del rame 1,7 . 10 -8 Ω m) 
+h) Se la corrente in ciascun altoparlante fosse di 12A, quale sarebbe la tensione ai capi di ciascun cavo?
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
@@ -2110,23 +2109,22 @@ h) Se il corrente su ogni altoparlante fosse di 12A. Qual è la tensione di ogni
 
 **Heating classrooms with heaters**
 
-17. Aguilares, Tucumán. Blue and Green.
-At a school they want to heat 10 classrooms with electric heaters. All the classrooms have the same dimensions: 5 m long, 4 m wide and 3 m high, and each has two windows.
-The heaters consist of 2 quartz rods connected in parallel and with a resistance of 60 OHM each, which are connected to a voltage of 220V. They are used to heat the air contained
+17. Aguilares, Tucumán. Azul y Verde.
+A school wants to heat 10 classrooms with electric heaters. All the classrooms have the same dimensions: 5 m long, 4 m wide and 3 m high, and each has two windows.
+The heaters consist of 2 quartz rods connected in parallel, with a resistance of 60 OHM each, and are connected to a voltage of 220V. They are used to heat the air contained
 
-in the room whose density and specific heat are: δ = 1.3 Kg. / m3 and Ce = 0.20 cal / g º C, respectively.
+in the room, whose density and specific heat are, respectively: δ = 1.3 Kg. / m3 and Ce = 0.20 cal / g º C.
 Calculate:
-a) The power delivered by each heater in the form of heat to the environment.
+a) The power delivered by each heater to the surroundings in the form of heat.
 b) The heat that the air must absorb to raise its temperature by 10º C.
-c) Knowing that the heat transferred by each window, to the outside, and per unit of time is 20 cal / s, find the time necessary for the heater to be on to heat the environment by 10º C.
-d) What power will the heater deliver if one of the quartz rods is removed?
-e) What will be the monthly expense for the school if for a month they are on 20 days for 4 hours daily? The value of kwh = 0.1088\$.
-f) Draw the circuit diagram, when the heaters of all the classes are on with both rods.
+c) Knowing that the heat transferred to the outside by each window, per unit time, is 20 cal / s, find how long the heater must stay on to heat the room by 10º C.
+d) What power would the heater deliver if one of the quartz rods were removed?
+e) What will the school's monthly cost be if the heaters are on 20 days a month, 4 hours a day? The price of one kwh = 0.1088\$.
+f) Draw the circuit diagram when the heaters of all the classrooms are on with both rods.
  
-In a course, the students decide to connect a music system to two speakers, at the same voltage:
- g) What diameter should the copper wire be so that the resistance does not exceed 0.10 Ω?
-if each wire must be 20 m long. (Resistivity of copper 1.7 . 10 -8 Ω m)
-h) If the current in each speaker were 12 A. What would be the voltage in each wire?
+In one class, the students decide to connect a music system to two speakers, at the same voltage:
+ g) What diameter should the copper wire have so that its resistance does not exceed 0.10 Ω, if each wire must be 20 m long? (Resistivity of copper 1.7 . 10 -8 Ω m)
+h) If the current in each speaker were 12 A, what would be the voltage across each wire?
 
 
 

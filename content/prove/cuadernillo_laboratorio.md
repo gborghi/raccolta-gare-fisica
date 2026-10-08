@@ -1,5 +1,5 @@
 ---
-title: Argentina na
+title: Argentina
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina na allenamento — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Argentina allenamento — Quesito 1" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Metodi-Trasversali,topic/order-of-magnitude-estimation,argomento/metodi-trasversali,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -92,7 +92,7 @@ Exercises
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina na allenamento — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Argentina allenamento — Quesito 2" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -191,7 +191,7 @@ Prepare a histogram with the values of N obtained.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina na allenamento — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Argentina allenamento — Quesito 3" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -273,7 +273,7 @@ determine the material of the same.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina na allenamento — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Argentina allenamento — Quesito 4" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -367,7 +367,7 @@ water (1 g m-3) and ethyl alcohol (0.7 g m-3).
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina na allenamento — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Argentina allenamento — Quesito 5" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono,object/projectile"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -489,7 +489,7 @@ fall, make measurements with stacked leaves.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina na allenamento — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Argentina allenamento — Quesito 6" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -599,7 +599,7 @@ Think about how a method could be implemented for water.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina na allenamento — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Argentina allenamento — Quesito 7" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/2,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -682,7 +682,7 @@ Assume that you are using distilled water.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina na allenamento — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/tank-container"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Argentina allenamento — Quesito 8" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/2,multidisciplina/mono,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -773,7 +773,7 @@ determining the refractive index of water and oil
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina na allenamento — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Argentina allenamento — Quesito 9" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/2,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -921,7 +921,7 @@ The opposite.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina na allenamento — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/lever,object/rod"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Argentina allenamento — Quesito 10" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/rigid-body-statics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/lever,object/rod"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -997,7 +997,7 @@ Available items
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina na allenamento — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Argentina allenamento — Quesito 11" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/elasticity-and-materials,argomento/meccanica,difficolta/2,multidisciplina/mono,object/spring"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1066,7 +1066,7 @@ Available items
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina na allenamento — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Argentina allenamento — Quesito 12" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/2,multidisciplina/mono,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1151,7 +1151,7 @@ Problematic situations
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina na allenamento — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/manometer,object/tank-container"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Argentina allenamento — Quesito 13" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/3,multidisciplina/mono,object/gas,object/manometer,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1338,7 +1338,7 @@ Determine the ambient temperature with the constructed thermometer and compare i
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina na allenamento — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/solenoid,object/magnetic-dipole,object/battery"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Argentina allenamento — Quesito 14" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Elettromagnetismo,topic/magnetism,argomento/elettromagnetismo,difficolta/4,multidisciplina/mono,object/solenoid,object/magnetic-dipole,object/battery"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1744,7 +1744,7 @@ Recommendations
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina na allenamento — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Argentina allenamento — Quesito 15" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/3,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -1938,7 +1938,7 @@ Task 5
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina na allenamento — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Argentina allenamento — Quesito 16" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/4,multidisciplina/mono,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -2165,7 +2165,7 @@ Items that may be useful
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina na allenamento — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/screen,object/mirror"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Argentina allenamento — Quesito 17" data-tags="kg/prova,paese/Argentina,comp/Argent,cluster/Ottica,topic/geometric-optics,argomento/ottica,difficolta/3,multidisciplina/mono,object/screen,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

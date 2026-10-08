@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/elasticity-e-materials,argomento/meccanica,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/elasticity-e-materials,argomento/meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -286,7 +286,7 @@ Notwithstanding the provisions of this Article,
 N-third spiral
 Metro of
 paper
-The following is the list of the following:
+Figure 1
 Other axes
 y
 In the n spiral is
@@ -297,7 +297,7 @@ N.B. This paper must be delivered together with the report
 
 Name of the table number
 
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+SUMMARY TABLE
 
 Results
 1 a

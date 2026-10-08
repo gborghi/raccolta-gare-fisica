@@ -182,7 +182,7 @@ The two red lines cannot be solved
 9
 Condition for solving the two red lines
 Theoretical competition: 21.04.2017
-The following is the list of the countries of the European Union:
+Student Code: TEO
 
 **Topic:** [[Modern-Quantum Physics]], [[Wave Optics]]
 **Metodi:** [[Bohr Model & Quantization (metodo)|Bohr Model & Quantization]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Interference & Diffraction Analysis (metodo)|Interference & Diffraction Analysis]]

@@ -77,7 +77,7 @@ ns
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the number of Member States that have participated in the programme:
+**Italy**
 
 Theory
 Italy

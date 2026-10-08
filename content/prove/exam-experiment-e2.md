@@ -241,7 +241,7 @@ Assuming
 
 <div class="qlang-split" data-lang="en"></div>
 
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+Diffraction from Phase Steps (10 points)
 The Equipment Box
 Our first: The equipment box
 ♪ Inside the box, upview ♪

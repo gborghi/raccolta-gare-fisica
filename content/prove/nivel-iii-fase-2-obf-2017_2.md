@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Elettromagnetismo
-title: OBF 2017 — NIVEL III FASE 2 OBF 2017 .pdf
+title: OBF 2017 — Fase 2 · Livello III
 ---
 
 

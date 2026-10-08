@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2017 — 2017 soluciones_2017.pdf
+title: Spagna 2017 — Soluzioni
 ---
 
 

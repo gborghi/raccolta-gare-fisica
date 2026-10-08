@@ -1,5 +1,5 @@
 ---
-title: Russia na
+title: Russia
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -44,7 +44,7 @@ A hole with an area of $S$ has been made in the bottom of a half-liter bottle. T
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia na — Quesito 2" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -75,7 +75,7 @@ Cheburashka è seduto sul tetto dell'ultimo vagone del treno e sta gettando noci
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia na — Quesito 3" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -106,7 +106,7 @@ Una vettura con velocità $v = 90$ km/h si sposta attraverso una curva di raggio
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia na — Quesito 4" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Russia — Quesito 4" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -137,7 +137,7 @@ La pista di salto di sci è situata su una pendice con un angolo di $\alpha$. La
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia na — Quesito 5" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/sphere"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia — Quesito 5" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -168,7 +168,7 @@ Juku ha trovato una roccia emisfera che si appicciava dal terreno. Misurando la 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia na — Quesito 6" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Russia — Quesito 6" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -193,7 +193,7 @@ Il tempo impiegato da un bambino per scendere con lo slittino lungo una collina 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia na — Quesito 7" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Russia — Quesito 7" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -234,7 +234,7 @@ Madis studiò un'archipazione audio di una palla che rimbalzava con un programma
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia na — Quesito 8" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Russia — Quesito 8" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -277,7 +277,7 @@ Non tenere conto della resistenza all'aria.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia na — Quesito 9" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pipe-tube,object/ball,object/membrane"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Russia — Quesito 9" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pipe-tube,object/ball,object/membrane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -428,7 +428,7 @@ Nella foto qui sotto c'è un cosiddetto cannone a vuoto. Per caricarla, una pall
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia na — Quesito 10" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball,object/inclined-plane,object/projectile"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Russia — Quesito 10" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball,object/inclined-plane,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -469,7 +469,7 @@ Una palla di gomma viene sparata da un cannone da giocattoli in modo che la pall
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Russia na — Quesito 11" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Russia — Quesito 11" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -500,7 +500,7 @@ Eero e Oleg si competono in un tirocinio di guerra in modo che durante tutta la 
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Russia na — Quesito 12" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Russia — Quesito 12" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -541,7 +541,7 @@ Juss trovò una collina per Fastelavn (una tradizione di carnevale e festa nell'
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Russia na — Quesito 13" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rope-string,object/spring"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Russia — Quesito 13" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rope-string,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -572,7 +572,7 @@ Un alpinista di massa $m = 75$ kg è fissato a una corda elastica di $L = 6$ m d
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Russia na — Quesito 14" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Russia — Quesito 14" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -603,7 +603,7 @@ Juku con una massa $m = 60$ kg e suo padre Juhan con una massa $M = 90$ kg decis
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Russia na — Quesito 15" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Russia — Quesito 15" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -634,7 +634,7 @@ Juku vuole attraversare un fiume ricoperto di ghiaccio su una slitta. Si parte d
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Russia na — Quesito 16" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Russia — Quesito 16" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -665,7 +665,7 @@ Una macchina guida su una strada, il cambiamento di altezza della strada per lun
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Russia na — Quesito 17" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile,object/planet"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Russia — Quesito 17" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -696,7 +696,7 @@ Juku calcolatore durante una lezione di scuola che l'altezza massima di una pall
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Russia na — Quesito 18" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Russia — Quesito 18" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -727,7 +727,7 @@ Un pendolo fatto di una corda e di un peso si oscilla in modo tale che, nella po
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Russia na — Quesito 19" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/wheel,object/gear"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Russia — Quesito 19" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/wheel,object/gear"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -762,7 +762,7 @@ Qual è l'angolo massimo di inclinazione $\alpha$ di una montagna in modo da pot
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Russia na — Quesito 20" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Russia — Quesito 20" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -797,7 +797,7 @@ Nota: il camion accelera uniformemente, grazie al quale il liquido non si sta sp
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Russia na — Quesito 21" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cart"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Russia — Quesito 21" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cart"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -838,7 +838,7 @@ La pista di una macchina da gioco è mostrata nella figura. L'auto parte da una 
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Russia na — Quesito 22" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Russia — Quesito 22" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -879,7 +879,7 @@ Nella figura seguente è riportata una foto di un pulsante d'acqua che scorre da
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Russia na — Quesito 23" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Russia — Quesito 23" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -910,7 +910,7 @@ In un campo di tiro interno un bersaglio viene colpito con un fucile, la velocit
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Russia na — Quesito 24" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Russia — Quesito 24" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -951,7 +951,7 @@ Un cilindro di massa $m$ e di raggio $R$ si scivola su un piano con velocità $v
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Russia na — Quesito 25" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Russia — Quesito 25" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -982,7 +982,7 @@ Un camion guida a velocità uniforme su una rotonda di raggio $R$. Trova la velo
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Russia na — Quesito 26" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/photon,object/atom"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Russia — Quesito 26" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/photon,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1013,7 +1013,7 @@ La molecola di cloro, che si muove a velocità $v = 600$ m/s, assorbe un fotone 
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Russia na — Quesito 27" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/lever,object/block"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Russia — Quesito 27" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/lever,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1044,7 +1044,7 @@ In una estremità dello swing, a una lunghezza $l_1$ dall'asse di rotazione dell
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Russia na — Quesito 28" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/atom,object/electron"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Russia — Quesito 28" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/atom,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1075,7 +1075,7 @@ Qual è la più piccola energia cinetica $K_0$ di un protone libero in grado di 
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="Russia na — Quesito 29" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Russia — Quesito 29" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1116,7 +1116,7 @@ Un tubo d'acqua di lunghezza $L$ è fissato a una parete in modo che possa girar
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Russia na — Quesito 30" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rod,object/ball"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Russia — Quesito 30" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rod,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1147,7 +1147,7 @@ Una barra di riposo iniziale di massa $M$ e lunghezza $L$ è appesa al soffitto 
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="Russia na — Quesito 31" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="Russia — Quesito 31" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1182,7 +1182,7 @@ Un ciclista di massa $m = 100$ kg si sposta senza pedalare su una collina con un
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="Russia na — Quesito 32" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/spring,object/ball"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Russia — Quesito 32" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/spring,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1213,7 +1213,7 @@ Le piccole palle sono fissate alle entrambe estremità di una molla, la massa de
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="Russia na — Quesito 33" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Russia — Quesito 33" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1244,7 +1244,7 @@ Un treno passeggeri si sposta sulla sezione circolare di una ferrovia mentre ral
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="Russia na — Quesito 34" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pendulum,object/rope-string,object/rod"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Russia — Quesito 34" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pendulum,object/rope-string,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1285,7 +1285,7 @@ Un filo di lunghezza $l$ è fissato a un punto $O$ e un piccolo pallone è appes
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="Russia na — Quesito 35" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Russia — Quesito 35" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1326,7 +1326,7 @@ Si taglia da una piastrella un pezzo semicilindrico di raggio $R$. La piastrella
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="Russia na — Quesito 36" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Russia — Quesito 36" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1357,7 +1357,7 @@ Un corpo di massa $M$ cade liberamente con un'accelerazione $g$. Cercando di cam
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="Russia na — Quesito 37" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Russia — Quesito 37" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1382,7 +1382,7 @@ Robin Hood si trova in una gara di tiro con l'arco, dove deve colpire un bersagl
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="Russia na — Quesito 38" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Russia — Quesito 38" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1413,7 +1413,7 @@ Trova la massima accelerazione di un'auto a trazione anteriore. La massa della v
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="Russia na — Quesito 39" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="Russia — Quesito 39" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1444,7 +1444,7 @@ Una lunga canna che si trova in un piano orizzontale viene spinta da un'estremit
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="Russia na — Quesito 40" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/sphere,object/rope-string"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="Russia — Quesito 40" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/sphere,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1475,7 +1475,7 @@ Il Juku ha una sfera di ferro ($\varrho_{Fe} = 7.9$ g/cm3) di raggio $r = 10$ cm
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="Russia na — Quesito 41" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile,object/ball"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="Russia — Quesito 41" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/projectile,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1506,7 +1506,7 @@ Due calciatori hanno provato una mossa truccata, dove due palle si schierano in 
 
 
 
-<span class="atom-split" id="q42" data-atom="q42" data-title="Russia na — Quesito 42" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="Russia — Quesito 42" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1547,7 +1547,7 @@ Diamo un'occhiata a una chiave che può essere regolata. Quanto grande deve esse
 
 
 
-<span class="atom-split" id="q43" data-atom="q43" data-title="Russia na — Quesito 43" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pulley,object/block,object/rope-string"></span>
+<span class="atom-split" id="q43" data-atom="q43" data-title="Russia — Quesito 43" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/pulley,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1588,7 +1588,7 @@ Nella figura è raffigurato un sistema composto da due blocchi e tre pesi di mas
 
 
 
-<span class="atom-split" id="q44" data-atom="q44" data-title="Russia na — Quesito 44" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="Russia — Quesito 44" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1623,7 +1623,7 @@ Il piano orizzontale inizia a muoversi avanti e indietro con una alta frequenza.
 
 
 
-<span class="atom-split" id="q45" data-atom="q45" data-title="Russia na — Quesito 45" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="Russia — Quesito 45" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1664,7 +1664,7 @@ Una palla di argilla di massa di 10 g è caduta verticalmente su un terreno lisc
 
 
 
-<span class="atom-split" id="q46" data-atom="q46" data-title="Russia na — Quesito 46" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="Russia — Quesito 46" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1695,7 +1695,7 @@ Studiamo un modello di orologio di sabbia. Il cerchio di sabbia è costituito da
 
 
 
-<span class="atom-split" id="q47" data-atom="q47" data-title="Russia na — Quesito 47" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cylinder,object/tank-container"></span>
+<span class="atom-split" id="q47" data-atom="q47" data-title="Russia — Quesito 47" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/cylinder,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1736,7 +1736,7 @@ Un recipiente cilindrico di raggio interno $R = 30$ mm è riempito di acqua. Un 
 
 
 
-<span class="atom-split" id="q48" data-atom="q48" data-title="Russia na — Quesito 48" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q48" data-atom="q48" data-title="Russia — Quesito 48" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1775,7 +1775,7 @@ b) La scatola è stata scartata da un'altezza $h \approx h_m$ riportata nella se
 
 
 
-<span class="atom-split" id="q49" data-atom="q49" data-title="Russia na — Quesito 49" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="Russia — Quesito 49" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1816,7 +1816,7 @@ Nella figura riportata è rappresentata una costruzione a biscotti, costituita d
 
 
 
-<span class="atom-split" id="q50" data-atom="q50" data-title="Russia na — Quesito 50" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/battery"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="Russia — Quesito 50" data-tags="kg/prova,paese/Estonia,comp/Estonia,cluster/Meccanica,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

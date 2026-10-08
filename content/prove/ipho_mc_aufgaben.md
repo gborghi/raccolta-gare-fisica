@@ -1,5 +1,5 @@
 ---
-title: IPhO na
+title: IPhO
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO na — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IPhO — Quesito 1" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,7 +56,7 @@ D … la forza buoyant sul corpo equivale alla forza di trazione.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO na — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container,object/rope-string"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IPhO — Quesito 2" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -107,7 +107,7 @@ D Il canne si scende al fondo del secchio.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO na — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container,object/rope-string"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IPhO — Quesito 3" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -156,7 +156,7 @@ D … posizionare un peso di massa $0{,}9\ \mathrm{kg}$ sul lato sinistro della 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO na — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,object/bubble,object/tank-container"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IPhO — Quesito 4" data-tags="kg/prova,paese/Germania,comp/IPhO,object/bubble,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -207,7 +207,7 @@ D I livelli di acqua in tutti i bicchieri sono invariati.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO na — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,object/cylinder,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IPhO — Quesito 5" data-tags="kg/prova,paese/Germania,comp/IPhO,object/cylinder,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -258,7 +258,7 @@ D Più di due volte la circonferenza del contenitore
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO na — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IPhO — Quesito 6" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -287,7 +287,7 @@ Quale dei seguenti grafici rappresenta correttamente la velocità $v$ del corpo 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO na — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IPhO — Quesito 7" data-tags="kg/prova,paese/Germania,comp/IPhO,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -338,7 +338,7 @@ D Al fondo dei piani inclinati entrambe le scatole hanno la stessa velocità.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO na — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="IPhO — Quesito 8" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -377,7 +377,7 @@ Qual è il grafico che rappresenta correttamente la distanza $x$ del punto di im
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO na — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,object/rope-string,object/rod"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="IPhO — Quesito 9" data-tags="kg/prova,paese/Germania,comp/IPhO,object/rope-string,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -428,7 +428,7 @@ D Questo non può essere risposto come indicato.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO na — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="IPhO — Quesito 10" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -477,7 +477,7 @@ D … quattro volte la massa terrestre e quattro volte il raggio terrestre.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO na — Quesito 11" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="IPhO — Quesito 11" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -528,7 +528,7 @@ D $32\,I$
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO na — Quesito 12" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="IPhO — Quesito 12" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -557,7 +557,7 @@ Indicate quale delle figure (A–D) è corretta e giustificate la vostra rispost
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO na — Quesito 13" data-tags="kg/prova,paese/Germania,comp/IPhO,object/black-hole,object/star"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="IPhO — Quesito 13" data-tags="kg/prova,paese/Germania,comp/IPhO,object/black-hole,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -612,7 +612,7 @@ D … $8 \times 10^8$ masse solari.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO na — Quesito 14" data-tags="kg/prova,paese/Germania,comp/IPhO,object/pendulum,object/rope-string,object/pulley"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="IPhO — Quesito 14" data-tags="kg/prova,paese/Germania,comp/IPhO,object/pendulum,object/rope-string,object/pulley"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -649,7 +649,7 @@ $$A\quad \ell' = \frac{m_A}{m_B}\,\ell \qquad B\quad \ell' = \frac{2\,m_A}{m_A +
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO na — Quesito 15" data-tags="kg/prova,paese/Germania,comp/IPhO,object/pendulum,object/ball"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="IPhO — Quesito 15" data-tags="kg/prova,paese/Germania,comp/IPhO,object/pendulum,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -688,7 +688,7 @@ Quale delle seguenti cifre (AD) mostra la posizione della palla $1{,}5\ \mathrm{
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="IPhO na — Quesito 16" data-tags="kg/prova,paese/Germania,comp/IPhO,object/spring,object/block"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="IPhO — Quesito 16" data-tags="kg/prova,paese/Germania,comp/IPhO,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -743,7 +743,7 @@ D $2{,}8\ \mathrm{Hz}$
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="IPhO na — Quesito 17" data-tags="kg/prova,paese/Germania,comp/IPhO,object/conducting-sphere"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="IPhO — Quesito 17" data-tags="kg/prova,paese/Germania,comp/IPhO,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -794,7 +794,7 @@ D La forza rimane la stessa.
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="IPhO na — Quesito 18" data-tags="kg/prova,paese/Germania,comp/IPhO,object/wire,object/cylinder"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="IPhO — Quesito 18" data-tags="kg/prova,paese/Germania,comp/IPhO,object/wire,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -849,7 +849,7 @@ D 3
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="IPhO na — Quesito 19" data-tags="kg/prova,paese/Germania,comp/IPhO,object/point-charge"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="IPhO — Quesito 19" data-tags="kg/prova,paese/Germania,comp/IPhO,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -898,7 +898,7 @@ D $440\ \mathrm{V}$
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="IPhO na — Quesito 20" data-tags="kg/prova,paese/Germania,comp/IPhO,object/point-charge"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="IPhO — Quesito 20" data-tags="kg/prova,paese/Germania,comp/IPhO,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -949,7 +949,7 @@ D about $13\ \mathrm{m\,s^{-1}}$
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="IPhO na — Quesito 21" data-tags="kg/prova,paese/Germania,comp/IPhO,object/wire"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="IPhO — Quesito 21" data-tags="kg/prova,paese/Germania,comp/IPhO,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -994,7 +994,7 @@ D $|U_a| < |U_b| = |U_c| < |U_d|$
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="IPhO na — Quesito 22" data-tags="kg/prova,paese/Germania,comp/IPhO,object/magnet,object/pipe-tube"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="IPhO — Quesito 22" data-tags="kg/prova,paese/Germania,comp/IPhO,object/magnet,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1059,7 +1059,7 @@ D $6{,}6 \times 10^7\ \mathrm{A\,V^{-1}\,m^{-1}}$
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="IPhO na — Quesito 23" data-tags="kg/prova,paese/Germania,comp/IPhO,object/wire"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="IPhO — Quesito 23" data-tags="kg/prova,paese/Germania,comp/IPhO,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1094,7 +1094,7 @@ Quale dei grafici mostra un processo fisicamente possibile?
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="IPhO na — Quesito 24" data-tags="kg/prova,paese/Germania,comp/IPhO,object/battery,object/resistor,object/galvanometer"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="IPhO — Quesito 24" data-tags="kg/prova,paese/Germania,comp/IPhO,object/battery,object/resistor,object/galvanometer"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1145,7 +1145,7 @@ D $2{,}3\ \mathrm{A}$
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="IPhO na — Quesito 25" data-tags="kg/prova,paese/Germania,comp/IPhO,object/battery"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="IPhO — Quesito 25" data-tags="kg/prova,paese/Germania,comp/IPhO,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1190,7 +1190,7 @@ D Se le batterie sono collegate in parallelo e le lampadine sono anch'esse colle
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="IPhO na — Quesito 26" data-tags="kg/prova,paese/Germania,comp/IPhO,object/resistor"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="IPhO — Quesito 26" data-tags="kg/prova,paese/Germania,comp/IPhO,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1245,7 +1245,7 @@ D $R_1 = 470\ \Omega$ e $R_2 = 150\ \Omega$
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="IPhO na — Quesito 27" data-tags="kg/prova,paese/Germania,comp/IPhO,object/inductor,object/capacitor"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="IPhO — Quesito 27" data-tags="kg/prova,paese/Germania,comp/IPhO,object/inductor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1288,7 +1288,7 @@ $$A\quad \tfrac{2}{3}\,f \qquad B\quad \tfrac{3}{4}\,f \qquad C\quad \tfrac{4}{5
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="IPhO na — Quesito 28" data-tags="kg/prova,paese/Germania,comp/IPhO,object/resistor,object/capacitor,object/inductor"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="IPhO — Quesito 28" data-tags="kg/prova,paese/Germania,comp/IPhO,object/resistor,object/capacitor,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1323,7 +1323,7 @@ Quale dei seguenti diagrammi di circuito (AD) rappresenta correttamente il circu
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="IPhO na — Quesito 29" data-tags="kg/prova,paese/Germania,comp/IPhO,object/disk"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="IPhO — Quesito 29" data-tags="kg/prova,paese/Germania,comp/IPhO,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1374,7 +1374,7 @@ D Questa domanda non può essere risolta senza ulteriori informazioni.
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="IPhO na — Quesito 30" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="IPhO — Quesito 30" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1419,7 +1419,7 @@ D $210\ ^\circ\mathrm{C}$
 
 
 
-<span class="atom-split" id="q31" data-atom="q31" data-title="IPhO na — Quesito 31" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q31" data-atom="q31" data-title="IPhO — Quesito 31" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1458,7 +1458,7 @@ A   B   C   D
 
 
 
-<span class="atom-split" id="q32" data-atom="q32" data-title="IPhO na — Quesito 32" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="IPhO — Quesito 32" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1507,7 +1507,7 @@ D $145\ \mathrm{g}$
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="IPhO na — Quesito 33" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container,object/resistor"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="IPhO — Quesito 33" data-tags="kg/prova,paese/Germania,comp/IPhO,object/tank-container,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1556,7 +1556,7 @@ D Con la tensione utilizzata, non è possibile fondere tutto il ghiaccio.
 
 
 
-<span class="atom-split" id="q34" data-atom="q34" data-title="IPhO na — Quesito 34" data-tags="kg/prova,paese/Germania,comp/IPhO,object/rod"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="IPhO — Quesito 34" data-tags="kg/prova,paese/Germania,comp/IPhO,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1609,7 +1609,7 @@ D $P_\mathrm{III} < P_\mathrm{II} < P_\mathrm{I}$
 
 
 
-<span class="atom-split" id="q35" data-atom="q35" data-title="IPhO na — Quesito 35" data-tags="kg/prova,paese/Germania,comp/IPhO,object/resistor"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="IPhO — Quesito 35" data-tags="kg/prova,paese/Germania,comp/IPhO,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1660,7 +1660,7 @@ D $20\ \Omega$ e $80\ \Omega$
 
 
 
-<span class="atom-split" id="q36" data-atom="q36" data-title="IPhO na — Quesito 36" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="IPhO — Quesito 36" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1711,7 +1711,7 @@ D about $16\,P$
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="IPhO na — Quesito 37" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="IPhO — Quesito 37" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1756,7 +1756,7 @@ D circa $5{,}6\ \mathrm{K}$
 
 
 
-<span class="atom-split" id="q38" data-atom="q38" data-title="IPhO na — Quesito 38" data-tags="kg/prova,paese/Germania,comp/IPhO,object/gas"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="IPhO — Quesito 38" data-tags="kg/prova,paese/Germania,comp/IPhO,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1811,7 +1811,7 @@ D Tutti e tre i grafici.
 
 
 
-<span class="atom-split" id="q39" data-atom="q39" data-title="IPhO na — Quesito 39" data-tags="kg/prova,paese/Germania,comp/IPhO,object/gas"></span>
+<span class="atom-split" id="q39" data-atom="q39" data-title="IPhO — Quesito 39" data-tags="kg/prova,paese/Germania,comp/IPhO,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1860,7 +1860,7 @@ D circa $3{,}0 \times 10^3\ \mathrm{g\,m^{-3}}$
 
 
 
-<span class="atom-split" id="q40" data-atom="q40" data-title="IPhO na — Quesito 40" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q40" data-atom="q40" data-title="IPhO — Quesito 40" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1895,7 +1895,7 @@ Quale delle seguenti immagini mostra il percorso del raggio di luce refratto dop
 
 
 
-<span class="atom-split" id="q41" data-atom="q41" data-title="IPhO na — Quesito 41" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q41" data-atom="q41" data-title="IPhO — Quesito 41" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1928,7 +1928,7 @@ $$A\quad a\!\left(\sqrt{2}-1\right) \qquad B\quad a\!\left(2-\sqrt{3}\right) \qq
 
 
 
-<span class="atom-split" id="q42" data-atom="q42" data-title="IPhO na — Quesito 42" data-tags="kg/prova,paese/Germania,comp/IPhO,object/lens"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="IPhO — Quesito 42" data-tags="kg/prova,paese/Germania,comp/IPhO,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1979,7 +1979,7 @@ D about $2\,d$
 
 
 
-<span class="atom-split" id="q43" data-atom="q43" data-title="IPhO na — Quesito 43" data-tags="kg/prova,paese/Germania,comp/IPhO,object/lens"></span>
+<span class="atom-split" id="q43" data-atom="q43" data-title="IPhO — Quesito 43" data-tags="kg/prova,paese/Germania,comp/IPhO,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2050,7 +2050,7 @@ D Esperimento 2: II & III · Sperimento 3: II · Sperimento 4: I & II · Sperime
 
 
 
-<span class="atom-split" id="q44" data-atom="q44" data-title="IPhO na — Quesito 44" data-tags="kg/prova,paese/Germania,comp/IPhO,object/lens"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="IPhO — Quesito 44" data-tags="kg/prova,paese/Germania,comp/IPhO,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2101,7 +2101,7 @@ D about $58\ \mathrm{cm}$
 
 
 
-<span class="atom-split" id="q45" data-atom="q45" data-title="IPhO na — Quesito 45" data-tags="kg/prova,paese/Germania,comp/IPhO,object/diffraction-grating,object/screen"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="IPhO — Quesito 45" data-tags="kg/prova,paese/Germania,comp/IPhO,object/diffraction-grating,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2150,7 +2150,7 @@ D circa $690\ \mathrm{nm}$
 
 
 
-<span class="atom-split" id="q46" data-atom="q46" data-title="IPhO na — Quesito 46" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="IPhO — Quesito 46" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2199,7 +2199,7 @@ D circa $9\ \mathrm{\mu m\,h^{-1}}$
 
 
 
-<span class="atom-split" id="q47" data-atom="q47" data-title="IPhO na — Quesito 47" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q47" data-atom="q47" data-title="IPhO — Quesito 47" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2250,7 +2250,7 @@ D $6{,}0\ \mathrm{GHz}$
 
 
 
-<span class="atom-split" id="q48" data-atom="q48" data-title="IPhO na — Quesito 48" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q48" data-atom="q48" data-title="IPhO — Quesito 48" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2301,7 +2301,7 @@ D about $9{,}2\ \mathrm{cm}$
 
 
 
-<span class="atom-split" id="q49" data-atom="q49" data-title="IPhO na — Quesito 49" data-tags="kg/prova,paese/Germania,comp/IPhO,object/atom"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="IPhO — Quesito 49" data-tags="kg/prova,paese/Germania,comp/IPhO,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2338,7 +2338,7 @@ Quale degli spettri mostrati qui sotto (A–D), rappresentato con scala lineare 
 
 
 
-<span class="atom-split" id="q50" data-atom="q50" data-title="IPhO na — Quesito 50" data-tags="kg/prova,paese/Germania,comp/IPhO,object/nucleus"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="IPhO — Quesito 50" data-tags="kg/prova,paese/Germania,comp/IPhO,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2405,7 +2405,7 @@ D $1\!\to\!\mathrm{III}$, $2\!\to\!\mathrm{I}$, $3\!\to\!\mathrm{II}$
 
 
 
-<span class="atom-split" id="q51" data-atom="q51" data-title="IPhO na — Quesito 51" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q51" data-atom="q51" data-title="IPhO — Quesito 51" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2456,7 +2456,7 @@ D about $525\ \mathrm{h}$
 
 
 
-<span class="atom-split" id="q52" data-atom="q52" data-title="IPhO na — Quesito 52" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q52" data-atom="q52" data-title="IPhO — Quesito 52" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2507,7 +2507,7 @@ D $8\,P$
 
 
 
-<span class="atom-split" id="q53" data-atom="q53" data-title="IPhO na — Quesito 53" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
+<span class="atom-split" id="q53" data-atom="q53" data-title="IPhO — Quesito 53" data-tags="kg/prova,paese/Germania,comp/IPhO"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2540,7 +2540,7 @@ $$A\quad P = \frac{32}{5}\,\frac{G^5\,m^5}{c^5\,r^4} \qquad B\quad P = \frac{32}
 
 
 
-<span class="atom-split" id="q54" data-atom="q54" data-title="IPhO na — Quesito 54" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet,object/satellite"></span>
+<span class="atom-split" id="q54" data-atom="q54" data-title="IPhO — Quesito 54" data-tags="kg/prova,paese/Germania,comp/IPhO,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2599,7 +2599,7 @@ D $\alpha = -3/2$, $\beta = 5/2$, $\gamma = 15/2$
 
 
 
-<span class="atom-split" id="q55" data-atom="q55" data-title="IPhO na — Quesito 55" data-tags="kg/prova,paese/Germania,comp/IPhO,object/capacitor"></span>
+<span class="atom-split" id="q55" data-atom="q55" data-title="IPhO — Quesito 55" data-tags="kg/prova,paese/Germania,comp/IPhO,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

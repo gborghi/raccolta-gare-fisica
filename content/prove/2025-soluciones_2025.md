@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Gravitazione e Astrofisica
-title: Spagna 2025 — 2025 Soluciones_2025.pdf
+title: Spagna 2025 — Soluzioni
 ---
 
 

@@ -1170,7 +1170,7 @@ The total number of images of the object formed by the mirrors will be:
 
 <div class="qlang-split" data-lang="it"></div>
 
-Due specchi OA e OB si formano un angolo di 50° tra loro. Un oggetto C è posizionato sul bisettore angolare dell'angolo AOB.
+Due specchi OA e OB formano tra loro un angolo di 50°. Un oggetto C è posto sulla bisettrice dell'angolo AOB.
 
 ```tikz
 \begin{document}
@@ -1189,7 +1189,7 @@ Due specchi OA e OB si formano un angolo di 50° tra loro. Un oggetto C è posiz
 \end{document}
 ```
 
-Il numero totale di immagini dell'oggetto formato dagli specchi sarà:
+Il numero totale di immagini dell'oggetto formate dagli specchi è:
 
 - (A) 5
 - (B) 6

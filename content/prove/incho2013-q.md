@@ -17,7 +17,7 @@ tags:
   - cluster/Termodinamica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (chimica)
-title: India 2013 — incho2013-Q.pdf
+title: India 2013 — INChO
 ---
 
 

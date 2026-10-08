@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Germania/Rund1/53_IPhO_2023_1Rd_Aufgaben_Loesungen.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE 2023 Round 1] — 53_IPhO_2023_1Rd_Aufgaben_Loesungen.pdf'
+title: '[IPhO-DE 2023 Round 1]'
 ---
 
 

@@ -86,7 +86,7 @@ page 5 of 5
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following table shows the results of the evaluation:
+**Kave**
 
 Theory
 Italy
@@ -96,7 +96,7 @@ U
 Other
 Kave
 $\gamma$
-The Commission shall adopt implementing acts.
+Mdm
 
 Theory
 Italy

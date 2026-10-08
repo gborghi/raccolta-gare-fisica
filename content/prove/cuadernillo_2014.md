@@ -25552,35 +25552,22 @@ i componenti necessari per ottenere i toni appropriati.
 
 <div class="qlang-split" data-lang="en"></div>
 
-The following shall be added to the list of the following:
+**Vibrating String Frequencies**
 
-PE14. School of Agriculture 
- 
-General Alvear, Mendoza, please. 
- 
-Learning music 
-Objectives 
-- Determine the frequencies of sounds emitted by a string 
-I'm going to be vibrating. 
-Brief description: 
- 
-As you may have already observed, a stretched rope emits a
-sound when you make it vibrate. This is because the string vibrates and causes
-a compression in the air. These compression are spread in the air and are
-They are, in a longitudinal wave, which, according to their frequency value, can be
-sensitize our ears. The frequency of the sound wave is determined by 
-the frequency of the string and is equal to it. So the vibrating rope is the
-source of the sound produced. The modes of string vibration 
-occur by superposition of incident and reflected waves between 
-the fixed ends. This can vibrate as shown in the figure below.
-The fundamental mode in the same is called the midpoint between fixed ends 
-oscillates at the maximum amplitude. 
- 
- 
- 
-When the string vibrates in the indicated way it is oscillating with the minor.
-The frequency is called the fundamental frequency and is thus called 
-Harmonic one. This frequency is determined by the following equation: 
+PE14. School of Agriculture
+
+General Alvear, Mendoza.
+
+Learning Music
+Objectives
+- Determine the frequencies of the sounds emitted by a vibrating string.
+Brief Description:
+
+As you must have already observed, a stretched string emits a sound when it is made to vibrate. This occurs because the string, when vibrating, causes a compression in the air. These compressions propagate through the air and constitute a longitudinal wave that, depending on the value of its frequency, will be able to stimulate our ear. The frequency of the sound wave is determined by the frequency of the string and is equal to it. Therefore the vibrating string is the generating source of the sound produced. The vibration modes of the string occur by virtue of the superposition of the incident and reflected waves between the fixed ends. It can vibrate as shown in the figure, which is called the fundamental mode; in it, the midpoint between the fixed ends oscillates with maximum amplitude.
+
+
+
+When the string vibrates in the indicated mode, it is oscillating with the lowest frequency, which is called the fundamental frequency, and such a mode is called the 1st harmonic. Said frequency is determined with the following equation:  
  
                                   
 
@@ -25590,48 +25577,48 @@ f
 2
 1
 1 
- 
-ƒ=frequency 
-μ=mass per unit length 
-T = voltage 
-L=length of the rope 
- 
-The following figures show other modes of vibration which 
-They correspond to the 2nd harmonic and 3rd harmonic. 
 
- 
-The following is the list of the Member States' financial statements:
- 
- 
-Consigna 1 
-(a) Determine μ of the guitar string. 
-(b) Make a similar assembly as shown in the figure. 
- 
- 
- 
-(c) verify its operation. Act the rope in such a way that 
-I can vibrate freely .
-Elements 
+ƒ=frequency
+µ=mass per unit length
+T=tension
+L=length of the string
+
+The following figures show other modes of vibration which
+correspond to the 2nd harmonic and 3rd harmonic.
+
+
+OAF 2014 - 137
+
+
+Task 1
+a) Determine µ of the guitar string.
+b) Set up an assembly similar to the one in the figure.
+
+
+
+c) Verify its operation. Pluck the string in such a way that
+it can vibrate freely
+Elements
  
-Guitar string .
+Guitar string
  
-Metal support 
+Metal support
  
-Caliber 
+Caliper
  
-Other, not further worked than hot-rolled
+Adhesive tape
  
-Tanza 
+Fishing line
  
-Counterweights 
+Counterweights
  
-Weighing 
- 
- 
-Consigna 2 
-(a) Change the length between supports A and B from a higher to a lower value. 
-(b) Using the following equation, determine the frequency for 
-different lengths of the rope between the support points. 
+Balance
+
+
+Task 2
+a) Change the length between supports A and B from a larger to a smaller value.
+b) Using the following equation, determine the frequency for
+different lengths of the string between the support points.
 
 T
 L
@@ -25639,38 +25626,37 @@ f
 2
 1
 1 
- 
-(c) Draw a graph of the length between the supports in relation to the
-frequency. 
-(d) On the basis of the results obtained, it explains the relationship between the
-The frequency and tone of the vibrational string. 
-Notes: The vibrating string oscillating at a given frequency will emit a 
-sound of equal frequency. It can be seen in the figure that the length L is
-It takes between the support points A and B, and the tension T that stretches the rope is 
-produced by counterweights. 
- 
-Consigna 3 
-(a) Change the counterweight so that the voltage increases 
-proportionally 
-(b) Determine the frequency value for each of the counterweights 
-used. 
-(c) Draw a voltage chart based on frequency. 
-(d) Based on the results obtained, it explains the relationship between the voltage.
-And the tone of the vibrating string. 
- 
-Consigna 4 
-(a) On the basis of experience, try to explain the purpose of 
-The following components of a guitar 
 
+c) Make a graph of the length between the supports as a function of the
+frequency.
+d) Based on the results obtained, explain the relationship between the
+frequency and the pitch emitted by the vibrating string.
+Notes: the vibrating string, when oscillating at a given frequency, will emit a
+sound of the same frequency. It can be observed in the figure that the length L is
+taken between the support points A and B, and the tension T that stretches the string is
+produced by the counterweights.  
  
-The following is the list of the Member States' financial statements:
- Keypads 
- String thickness 
- Traste 
-Note: The guitar is one of the instruments that has a string for 
-to emit different sounds. It can be used to obtain different notes which are:
-They vary in frequency. To modify this frequency, the same applies to the
-necessary components to obtain the appropriate tones.
+Instruction 3
+a) Change the counterweight in such a way that the tension increases
+proportionally
+b) Determine the value of the frequency for each of the counterweights
+used.
+c) Make a graph of the tension as a function of the frequency.
+d) Based on the results obtained, explain the relationship between the tension
+and the tone emitted by the vibrating string.
+
+Instruction 4
+a) Based on the experiment carried out, try to explain the purpose of
+the following components of a guitar
+
+
+OAF 2014 - 138
+ Tuning pegs
+ Thickness of the strings
+ Fret
+Note: The guitar is one of the instruments that has a string to
+emit different sounds. On it, different notes can be obtained which
+vary in their frequency. To modify said frequency, it has the necessary components that allow obtaining the appropriate tones.
 
 
 <!--fig:start-->
@@ -28557,89 +28543,89 @@ Nota: Se ci fosse una discrepanza significativa tra il valore sperimentale e que
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Mechanical equivalent of heat (Joule) **
+**Mechanical equivalent of heat (Joule)**
 
-PE28. Ernesto National School Saturday 
- 
-College Tomás Landivar 
- 
-Holy Family College .
- 
-I'm going to Tandil, Buenos Aires. 
- 
-The objective: 
-Study the relationship between electrical work and heat. Determine 
-The quantity of Joules and calories. Experimental study of a
-mixtures calorimeter. 
-Brief description 
-The principle of energy conservation states that if a given amount of energy is
-energy (no matter the type) is completely transformed into heat, the variation 
-The resulting thermal energy must be equivalent to the amount of energy 
-delivered. This experiment attempts to demonstrate the equivalence between the
-The energy delivered to a system and the heat it converts into.
-measured in Joules and heat in calories, we will also propose to find the
-the equivalence between these units. The quantitative ratio between Joules and 
-Calories are called Je, the electrical (or mechanical) equivalent of heat. 
-Electrical equivalent of heat 
-The principle of the experiment is to supply electrical energy to a
-conductor (electrical resistance) surrounded by water within a calorimeter, and 
-The temperature developed in the test is measured. As the electrical power delivered to a 
-system is given by, 
+PE28.  Escuela Nacional Ernesto Sábato
+
+  Colegio Tomás Landivar
+
+  Colegio Sagrada Familia
+
+  Tandil, Buenos Aires.
+
+Objective:
+Study the relationship between electrical work and heat. Determine
+quantitatively the relationship between Joules and calories. Experimental study of a
+mixing calorimeter.
+Brief description
+The principle of conservation of energy indicates that if a given amount of
+energy (regardless of type) is completely transformed into heat, the variation
+of the resulting thermal energy must be equivalent to the amount of energy
+supplied. In this experiment we attempt to demonstrate the equivalence between the
+energy supplied to a system and the heat into which it is converted. If energy is
+measured in Joules and heat in
+calories, we will also set out to find the equivalence between these units. The quantitative relationship between Joules and
+calories is called Je, the electrical (or mechanical) equivalent of heat.
+Electrical equivalent of heat
+The principle of the experiment consists of supplying electrical energy to a
+conductor (electrical resistance) surrounded by water inside a calorimeter, and
+measuring the heat developed in it. Since the electrical power supplied to a
+system is given by,
 P = i.V 
-Where, 
-The current is the current of the current.
-V = difference in potential [Volt] 
-P = power [ ampere . The value of the input data shall be the value of the input data.
-The energy supplied to the resistance in a texp time shall be: 
-Electrical = P . The Commission
-Where we assume that I and V are approximately constant 
-If we express the electrical energy in Joules we can deduce the
-value required to generate a calorie. The number of calories delivered to the
-water is calculated by measuring the temperature variation T of the 
-itself and its mass (magua) 
-by: 
-Q is water. The magician . ∆𝑇 
-If we assume that all the electrical energy delivered is converted to heat,
-We can write equality.
-Electrical J = Equivalent Q(cal) 
-I 'm giving it away .
-Complete the thermos with water at room temperature. Measure the temperature
-T1 water environment in the thermos. 
-Put the heater in the water, while leaving the thermometer submerged. 
-Connect the heater to a circuit with a couple of multimeters, so that you can 
-Measure current and voltage at the same time. In case you have a single multimeter 
-You can measure the voltage at first and then leave it connected to measure.
-current. 
-Connect the circuit to the 220 V line at the same time as it starts to
-measuring the time when the water starts to heat. 
-Elements that may be useful: 
-- A thermos. 
-• A mercury thermometer or temperature sensor (thermocouple) 
-connected to a multimeter that can be measured in the range 0-100°C. 
+Where,
+i= current [Ampère]
+V= potential difference [Volt]
+P = power [Ampère . Volt = Watt = Joule / second)]
+The energy supplied to the resistance in a time texp, will be:
+𝑊𝑒𝑙é𝑐𝑡𝑟𝑖𝑐𝑜= 𝑃 . 𝑡𝑒𝑥𝑝 
+Where we assume that I and V remain approximately constant
+If we express the electrical energy Weléctrico in Joules we can deduce the
+value required to generate one calorie. The amount of calories supplied to the
+water is calculated through the measurement of the temperature variation T of the
+same and its mass (magua)
+by:
+𝑄= 𝑐𝑎𝑔𝑢𝑎. 𝑚𝑎𝑔𝑢𝑎 . ∆𝑇 
+If we assume that all the electrical energy supplied is converted into heat, 
+we can write the equality
+𝑊𝑒𝑙é𝑐𝑡𝑟𝑖𝑐𝑜 𝐽 = 𝐽𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒. 𝑄(𝑐𝑎𝑙) 
+Instructions
+Fill the thermos with water at room temperature. Measure the room
+temperature T1 of the water in the thermos.
+Place the heater in the water, while leaving the thermometer submerged.
+Connect the heater to a circuit with a pair of multimeters, such that current and voltage can be
+measured at the same time. If only one multimeter is available,
+the voltage can be measured at the beginning and then it can be left connected to measure
+current.
+Connect the circuit to the 220 V mains at the same time as you start
+measuring the time at which the heating of the water begins.
+Elements that may be useful:
+- A thermos.
+- A mercury thermometer or temperature sensor (thermocouple)
+connected to a multimeter that can measure in the range 0-100°C.
 
- 
-The following points shall be added:
- A scale (or a way to measure volume). 
-• A timekeeper. 
-Suggestions 
-(a) Every once in a while, which shall be chosen appropriately, 
-disconnect the heater and measure the temperature reached in the water. 
-Repeat this step by adding the times of each interval. 
-(b) Using the values of maguay cagua, electrical calculator and Q. 
-(c) Finally, graphically represent the T measured for each interval 
-texp, based on texp. 
-According to the above equations, the slope of the straight line you would get would be: 
-Equivalent to
-Pellec
-- It 's water . Magus
+
+OAF 2014 - 155
+- A balance (or a way to measure volume).
+- A stopwatch.
+Suggestions
+a) Every certain time, which should be chosen appropriately,
+disconnect the heater and measure the temperature reached in the water.
+Repeat this step adding the times of each interval.
+b) Using the values of mwater and cwater, Calculate Welectric and Q.
+c) Finally, plot the measured T for each interval
+texp,         as a function of texp.
+According to the previous equations, the slope of the line that would be obtained would be:
+𝐽𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑒= 
+𝑃𝑒𝑙𝑒𝑐
+𝑐𝑎𝑔𝑢𝑎 . 𝑚𝑎𝑔𝑢𝑎
 = 
 𝐼 . 𝑉
-- It 's water . Magus
+𝑐𝑎𝑔𝑢𝑎 . 𝑚𝑎𝑔𝑢𝑎
  
  
-Comparison of the result with the accepted value Je=4.186J/cal 
-Note: If there is a significant discrepancy between the experimental value and the
-The Commission will also examine the possible causes of such discrepancy.
+Compare the result with the accepted value Je=4.186J/cal
+Note: If there were a significant discrepancy between the experimental value and the
+accepted one, analyze the possible causes of such a discrepancy.
 
 **Topic:** [[Thermodynamics]], [[Circuits]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -29509,190 +29495,157 @@ La frequenza corrisponde a quella che suona più ampie. Registra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Electromagnetic induction with coil **
+**Electromagnetic induction with a coil**
 
-PE30. National College of Buenos Aires 
- 
-City of Buenos Aires. 
- 
-Hearing pills 
-Brief description 
-It 's been around 200 years since the discovery of the
-The following is a list of the types of electrical induction phenomena. 
-When a magnet moves away or approaches a coil, it induces
-In the latter a f.e.m. (electro-motor force) and one 
-electric current in the circuit. This discovery opened up the world.
-I'm moving to building electricity generators.
-transformers, microphones and it's one of the foundations 
-of our technological society. 
-In this experience we propose that you make use of this.
-phenomenon for studying the vibrations of a string of
-electric guitar. 
-Electric guitars, unlike Creoles, are not.
-They have an resonance box, so,
-When we play them in the air, the sound is very 
-I'm not a big fan of it. However, it is clear and intense when 
-We connect them to the amplifier. And then,
-What is its principle of operation? 
-These strings are ferromagnetic, which means,
-They have .
-la 
-Property
-de 
-Magnetizing
-temporarily when they are approached by a
-I'm going to go. In turn, the body of the guitar is 
-They find the pills, which are small.
-Microphones
-capable of
-de 
-detecting
-The 
-variations 
-of the 
-field 
-Magnetic
-That 
-Figure 2 
+PE30.  Colegio Nacional de Buenos Aires
+
+  City of Buenos Aires.
+
+Hearing aids
+Brief description
+It has been about 200 years since the phenomena of electromagnetic induction were discovered.
+When a magnet moves away from or approaches a coil, it induces in the latter an e.m.f. (electromotive force) and an electric current in the circuit. This discovery opened the way to the construction of electricity generators, transformers, microphones, and is one of the foundations of our technological society.
+In this experiment we propose that you make use of this phenomenon to study the vibrations of a string of an electric guitar.
+Electric guitars, unlike criollas, do not have a sound box, so when we play them open, the sound is very weak. However, it is clear and intense when we connect them to the amplifier. And then, what is their operating principle?
+These strings are ferromagnetic, that is, they have la  property de  magnetize temporarily when a magnet is brought near them. In turn, in the body of the guitar are the pickups, which are small "microphones" capable de  detect las  variations del  magnetic field que 
+Figure 2
 Figure 1 
 
  
-The following is the list of the Member States' financial statements:
-It will produce the magnetic rope. 
-The electric guitar pills are made up of tiny magnets.
-(one for each string) that are coiled by a enamelled copper thread. El 
-The magnetic pulse magnet temporarily magnetizes the rope, and when it vibrates,
-It produces a variable magnetic field that induces a f.e.m. in the coil. 
-(differential potential) 
-Finally, the pills are connected to the amplifier, which transforms the current.
-electrical in a powerful sound. 
-When a string vibrates, it forms a stationary wave whose frequency of 
-vibration is directly linked to its length and to the rate of propagation of
-That rope. On the other hand, the propagation speed of an elastic wave,
-It depends exclusively on the characteristics of the medium and in the particular case 
-It 's a rope .
+OAF 2014 - 158
+the magnetized string will produce.
+The pickups of electric guitars are made up of small magnets
+(one for each string) that are wound with enameled copper wire. The
+magnet of the pickup temporarily magnetizes the string, and when it vibrates,
+it produces a variable magnetic field that induces an e.m.f. in the coil
+(potential difference).
+Finally, the pickups are connected to the amplifier, which transforms the electric
+current into a powerful sound.
+When a string vibrates, it forms a standing wave whose vibration frequency is
+directly linked to its length and to the propagation speed of that string. On the other hand, the propagation speed of an elastic wave
+depends exclusively on the characteristics of the medium, and in the particular
+case of a string it will be
 
 T
 v 
- 
-Equation 1 
-Where T is the tension of the string and μ its linear mass density. This last one .
-refers to the mass of the rope per unit length. 
+
+Equation 1
+Where T is the tension of the string and μ its linear mass density. The latter
+refers to the mass of the string per unit length.
 l
 m
 
 
-  
-Equation 2 
-Another method for determining the propagation rate of a wave is to
-through the determination of its wavelength () and frequency (f). 
+
+Equation 2
+Another method to establish the propagation speed of a wave is
+through the determination of its wavelength () and its frequency (f).
 f.
 
 
+
+Equation 3
+A string fixed at its ends that is plucked at its midpoint will vibrate
+forming a standing wave, with the intensity corresponding to the first harmonic predominating (see figure 3).  
  
-Equation 3 
-A rope held at its ends that is pulsed at its midpoint, will vibrate.
-The waveforms are stationary, with the intensity corresponding to the
-The first harmonic (see Figure 3). 
- 
-Figure 3 
-Under these conditions, it is fulfilled that
+Figure 3
+Under these conditions, it holds that
 L
 .2
 
 
-  
-Equation 4 
-Being L, the length of the rope between its fixed ends. 
-Materials 
- Electric guitar string 
- Rare earth magnet 
- Coil attached to a cable with mini-plug
- Wood support with keypad 
- Netbook 
- Metric tape 
- Plastiline 
- Weights 
-Consigns 
-1) Using the digital scale and the tape measure, calculate its density of 
-Linear mass, determining the total mass and length of the 
-The rope .
+
+Equation 4
+Where L is the length of the string between its fixed ends.
+Materials
+ Electric guitar string
+ Rare earth magnet
+ Coil attached to a cable with a miniplug connector
+ Wooden support with a peg
+ Netbook
+ Measuring tape
+ Modeling clay
+ Weights
+Instructions
+1) Using the digital scale and the measuring tape, calculate its linear
+mass density, determining the mass and total length of the
+string
 
 
- 
-2) Place the rope on the support, gently adjusting it.
-with the key. Leave the voltage fixed throughout the day.
-I'm going to try it. 
-Arm the pill, inserting the magnet inside the body of 
-the coil. 
-Place the tablet under the rope with the help of a
-Figure 4 
 
- 
-The following is the list of the Member States' financial statements:
-little bit of mascara, about in its midpoint. 
-Connect the chip to the tablet, to the microphone input of the
-It's a netbook. 
-Using audio editing software (see Annex Audacity), you can
-determine the predominant frequency of vibration of the
-The rope. 
-3) With their fingers, guitarists press the strings against the tray,
-Changing the length of the string vibrating. This way, they get it.
-to make the strings sound at different frequencies. 
-Use any small object between the support and the rope, which you can use to
-allowing it to be pressed and its length and frequency modified. 
-Complete a table, with a dozen frequencies, for several 
-string lengths, establishing wavelength and uncertainties of 
-the variables. 
-4) Determine the spread rate for each pair of values  and f. 
-Compare the speed values found and determine if it is possible 
-or not to state that the rate of spread does not depend on either  or 
+2) Place the string on the support, adjusting it gently
+with the peg. Keep the tension fixed throughout the
+experiment.
+Assemble the pickup, inserting the magnet inside the body of
+the coil.
+Place the pickup under the string with the help of a
+Figure 4
+
+
+OAF 2014 - 159
+little modeling clay, approximately at its midpoint.
+Connect the plug attached to the pickup to the microphone input of the
+Netbook.
+Using audio editing software (See Audacity annex), you will be able to
+determine the predominant frequency of the vibration of the
+string.
+3) With their fingers, guitarists press the strings against the fretboard,
+modifying the length of the string that vibrates. In this way, they manage
+to make the strings sound at different frequencies.
+Use any small object between the support and the string, that allows you
+to press it and modify its length and frequency.
+Complete a table, with about ten frequencies, for various
+string lengths, establishing the wavelength and uncertainties of
+the variables.
+4) Determine the propagation velocity for each pair of values  and f.
+Compare the velocity values found and determine whether or not it is possible
+to state that the propagation velocity does not depend on either  or
 the frequency 
  
-5) Calculate the tension of the rope. One possible strategy is hanging one.
-Weighs from the center point. Break the stand and use the weights and theirs 
-Static knowledge to determine the tension of the rope (see 
-Figure 
-5). 
-Attention: Remember to determine the stress you are subjected to 
-the rope without the weight suspended. 
- 
- 
- 
- 
- 
- 
- 
-6) With the voltage and linear mass obtained, determine again the 
-The speed of the wave propagation and compare it to the values 
-the information contained in point 4. 
-Draw conclusions and findings and method 
-It's experimental. 
-Annex Audacity 
-It's a free audio editing software. The upper portion of your 
-interface, has a toolbar and a button that simulates a
-The recorder. 
- 
- 
- 
- 
- 
- 
-To record a sound, press the red circle. With the brown square, stop.
-The recording. 
-To determine the predominant frequency of the
-Sound recorded, select the portion with the cursor 
-of sound you want to analyze and then,
-Select from the toolbar: 
-Analysis  Spectrum analysis 
-Select the logarithmic frequency. 
-Figure 5 
+5) Calculate the tension of the string. A possible strategy is by hanging a
+weight from the central point. Rotate the support and use the weights and your
+knowledge of statics to determine the tension of the string (see
+figure
+5).   
+Attention: Remember that you must determine the tension to which the
+string is subjected without the suspended weight.
 
- 
-The following is the list of the Member States' financial statements:
-You'll be observing a set of peaks. Put the cursor on top of the top. You can .
-observe the value of the peak where the area highlighted in red is located. That one .
-The frequency corresponds to the one that sounds the most wide. - I'll record it.
+
+
+
+
+
+
+6) With the tension obtained and the linear mass, determine again the
+propagation velocity of the wave and compare it with the values
+found in point 4.
+Draw conclusions from the results found and from the experimental
+method.
+Appendix Audacity
+It is a free-use audio editing software. The upper portion of its
+interface has a toolbar and a button panel that simulates that of a
+recorder.
+
+
+
+
+
+
+To record a sound press the red circle.   With the brown square, stop
+the recording.
+To determine the predominant frequency of the
+recorded sound, select with the cursor the portion
+of sound you wish to analyze and then,
+select in the toolbar:
+Analyze  Spectrum analysis
+Select logarithmic frequency.
+Figure 5
+
+
+OAF 2014 - 160
+You will observe a set of peaks. Position the cursor over the highest one. You will
+be able to observe the value of the peak where the area highlighted in red is located. That
+frequency corresponds to the one that sounds with the greatest amplitude. Record it
 
 
 <!--fig:start-->

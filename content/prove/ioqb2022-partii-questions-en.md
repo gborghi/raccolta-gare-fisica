@@ -17,7 +17,7 @@ tags:
   - cluster/Fisica Moderna
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2022 — IOQB2022-PartII-Questions-en.pdf
+title: India 2022 — IOQB Parte II
 ---
 
 

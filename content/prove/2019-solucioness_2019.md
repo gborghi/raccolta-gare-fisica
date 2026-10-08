@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Gravitazione e Astrofisica
-title: Spagna 2019 — 2019 solucioness_2019.pdf
+title: Spagna 2019 — Soluzioni
 ---
 
 

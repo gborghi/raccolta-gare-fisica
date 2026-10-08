@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2006 — OBF2006_F3_8a_gab.pdf
+title: OBF 2006
 ---
 
 

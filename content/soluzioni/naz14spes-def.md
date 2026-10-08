@@ -16,7 +16,7 @@ tags:
   - paese/Italia
   - comp/OII
   - cluster/Ottica
-title: OII na Nazionale Sperimentale — Naz14SpeS def.pdf
+title: OII Nazionale Sperimentale — Naz14SpeS def.pdf
 ---
 
 

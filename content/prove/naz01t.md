@@ -62,7 +62,7 @@ L'angolo tra la sbarretta e il campo di induzione magnetica è $\alpha = 30^\cir
 
 Two in one!
 
-The Commission has also adopted a proposal for a regulation on the protection of the environment. Composed of two independent parts.)*
+*(National Competition, Senigallia 20 April 2001 — Problem 1, 100 points. Composed of two independent parts.)*
 
 ### A. Cylinder with piston (35 points)
 A cylinder of $A = 100\,\mathrm{cm^2}$ section and length $\ell = 100\,\mathrm{cm}$ shall be placed horizontally. Its walls are thermal insulating and of negligible thermal capacity. Inside, as shown in the figure, a piston of $m = 0.13\,\mathrm{kg}$ mass and negligible thickness can flow. The specific heat of the substance from which the piston is made is $c = 390\,\mathrm{J\,kg^{-1}K^{-1}}$.

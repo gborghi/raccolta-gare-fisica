@@ -1,5 +1,5 @@
 ---
-title: OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf
+title: OBF 2017 — Fase 2 · Livello I
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -55,7 +55,7 @@ The mass of a homogeneous cubic solid with an edge $1\ \text{m}$ is evenly distr
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -101,7 +101,7 @@ The following figure shows the motion graph of two particles $A$ and $B$, in a r
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block,object/inclined-plane"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -147,7 +147,7 @@ The figure below shows an abandoned block from the top of a slope plane $30°$, 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block,object/rope-string"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -199,7 +199,7 @@ A truck moves in a MRU (Uniform Retinal Movement) on a flat, horizontal road. A 
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -266,7 +266,7 @@ In scientific work, physics uses units of the International System based on the 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/cart"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,object/cart"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -312,7 +312,7 @@ A cart, $500\ \text{g}$ in mass, was moving on a flat, horizontal surface at a c
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -358,7 +358,7 @@ Consider two thermometers, one graduated in Celsius ($°\text{C}$) and one gradu
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2017 — NIVEL I  FASE 2 OBF 2017 .pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2017 — Fase 2 · Livello I — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

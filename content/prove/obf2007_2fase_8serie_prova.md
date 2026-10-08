@@ -873,7 +873,7 @@ In the instant, and the y function of the free fall ball, relative to the
 time, is y = 5,0 - 5 $t^2$. According to this equation:
 (b) How long will it take the gray ball to reach the ground?
 In strobe photography, we only have one shot of a ball.
-The Commission has already taken a number of measures to ensure that the
+several times, that is, stroboscopic photographs are those in which the
 film or ccd (occupies the place of the digital machine film) are exposed
 in a longer time than usual and the subject is illuminated
 Sometimes resulting in a photo where multiple images appear to exist.
@@ -928,10 +928,10 @@ projecting its shadow onto the surface of our planet. The Astronomers
 calculate very accurately, among other quantities, the duration
 of the eclipse in a certain city.
 
-The following is the list of the following:
+SOL
 The Lunar
-The following is the list of the countries:
-The Commission has already adopted a proposal for a directive.
+EARTH
+ECLIPSE
 
 Fig. 8
 
@@ -990,7 +990,7 @@ g
 J
 $^{\circ}$
 ,
-the Commission. The graph shows that to increase from 1 oC to
+respectively. In the graph it can be noted that, to increase by 1 oC to
 a temperature of a quantity of water or soil equal to 1,0 g, is
 The energy required is 4,18 J or 0,80 J, respectively. Whereas
 This chart:
@@ -1020,7 +1020,7 @@ T (oC)
 1,0
 0,8
 
-The following table shows the following:
+Fig.11
 
 (b) Adding the amount of heat of 1.0 J to the same
 quantity m of water and soil, what will be the temperature difference
@@ -1034,7 +1034,7 @@ mathematics was done by Isaac Newton. He suggested a law of attraction
 The force of the bodies as a force directly proportional to the product of the
 mass and inversely proportional to the square of the distance between them.
 
-The following table shows the following:
+Fig.12
 
 In the illustration in Figure 13, you have the Earth, mass M, attracting an object
 any m mass The mathematical expression that translates this attraction is
@@ -1044,7 +1044,7 @@ r
 GMm
 F =
 , where G is the so-called gravitational constant
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation. If the object is on the surface of the Earth, and M and
+universal. If the object is on the surface of the Earth, and M and
 are,
 The mass and radius of the Earth, respectively, the term
 Tr

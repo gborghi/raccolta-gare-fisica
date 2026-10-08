@@ -274,7 +274,7 @@ The input signal is expressed by
 i
  e
 All of them
-The following is the list of the conditions for the calculation of the value of the
+positive constants given, find the condition that must be satisfied
 > 0 in such a way
 That a continuous output signal never goes off. How can we express ourselves in the
 frequency first found the amplitude of the continuous output signal?
@@ -335,7 +335,7 @@ In accordance with
 .
 
 Theoretical Question 3
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
+Page 3/3
 (f) [2.5 points] While the surface scan is performed by moving the sample horizontally, the tip of the balancer that has a load
 It encounters a charged electron.
 , trapped (located in space) at a certain distance below the surface. During the scan around the electron, it is observed that the maximum
@@ -364,7 +364,7 @@ It's not worth it. Note that
  C.
 
 <!--fig:start-->
-The following table shows the results of the calculation of the total value of the samples:
+**p.1** — Scanning field microscope diagram
 ![[_attachments/itath3txt/itath3txt_p1_f1.png]]
 <!--fig:end-->
 

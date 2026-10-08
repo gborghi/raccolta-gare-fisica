@@ -639,25 +639,17 @@ Q5
 
 xe
 Figura 5.1
-È noto che la maggior parte delle stelle forma sistemi binari. Un tipo di sistema binario consiste
-una stella ordinaria con massa mo e raggio R, e una stella di neutroni più massiccia e compatta con
-massa M, che ruotano intorno a sé. In tutti i seguenti ignori il movimento della Terra.
-Le osservazioni di un tale sistema binario rivelano le seguenti informazioni:
+È noto che la maggior parte delle stelle forma sistemi binari. Un tipo di sistema binario è costituito da una stella ordinaria di massa mo e raggio R e da una stella di neutroni compatta, di massa maggiore M, che ruotano l'una attorno all'altra. In tutto ciò che segue trascura il moto della Terra.
+Le osservazioni di un tale sistema binario forniscono le seguenti informazioni:
 
-(i) Il spostamento angolare massimo della stella ordinaria è $\Delta\theta$, mentre quello della stella ordinaria è $\Delta\theta$.
-stella di neutroni è $\Delta\phi$ (vedere figura 5.1).
+(i) Lo spostamento angolare massimo della stella ordinaria è $\Delta\theta$, mentre quello della stella di neutroni è $\Delta\phi$ (vedi Figura 5.1).
 
-- il tempo necessario per tali spostamenti massimi è $\tau$.
+(ii) Il tempo impiegato per questi spostamenti massimi è $\tau$.
 
-- Le caratteristiche di radiazione della stella ordinaria indicano che la sua superficie è assoluta
-la temperatura è T e l'incidente di energia irradiata su un'area unitaria sulla superficie terrestre
-per unità di tempo è E.
+(iii) Le caratteristiche della radiazione della stella ordinaria indicano che la temperatura assoluta della sua superficie è T e che l'energia irradiata che incide sull'unità di area della superficie terrestre nell'unità di tempo è E.
 
-(iv) Una linea di calcio in questa radiazione differisce dalla sua lunghezza d'onda normale $\lambda o$ di una quantità
-$\delta\lambda$, dovuto solo al campo gravitazionale della stella ordinaria. Per questo calcolo, la
-si può considerare che il fotone abbia una massa effettiva di $h/\lambda c$.
-Trova un'espressione per la distanza xe dalla Terra a questo sistema in termini di
-le quantità e le costanti universali.
+(iv) Una riga del calcio in questa radiazione differisce dalla sua lunghezza d'onda normale $\lambda o$ di una quantità $\delta\lambda$, dovuta esclusivamente al campo gravitazionale della stella ordinaria. Per questo calcolo si può considerare che il fotone abbia una massa efficace $h/\lambda c$.
+Trova un'espressione per la distanza xe della Terra da questo sistema in funzione delle grandezze osservate e delle costanti universali.
 
 **Topic:** [[Astrophysics]], [[Gravitation]], [[Modern-Quantum Physics]]
 **Metodi:** [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Photon Energy Relation (metodo)|Photon Energy Relation]], [[Physical Modeling (metodo)|Physical Modeling]]

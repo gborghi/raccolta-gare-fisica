@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Teorica
+title: OII Nazionale Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/modern-quantum-physics,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/meccanica,object/electron,object/photon,object/nucleus,object/atom"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/modern-quantum-physics,topic/special-relativity,topic/nuclear-e-particle-physics,argomento/meccanica,object/electron,object/photon,object/nucleus,object/atom"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,7 +119,7 @@ In the largely prevalent case, the positronium forms almost at rest and the two 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/magnetism,topic/conservation-of-momentum,topic/electrostatics,argomento/meccanica,object/sphere"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/magnetism,topic/conservation-of-momentum,topic/electrostatics,argomento/meccanica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -214,7 +214,7 @@ The point is placed at the centre of the sphere; the demonstration is not requir
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/rotational-dynamics,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/cylinder,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/rotational-dynamics,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica,object/cylinder,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

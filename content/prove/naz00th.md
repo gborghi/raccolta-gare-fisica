@@ -83,7 +83,7 @@ A continuous flow of water with initial speed $v_0$ descends from a circular sec
 
 - Find the $r = r(h, v_0)$ relationship between the $r$ radius of the water flow, the $h$ distance from the tap edge and the initial speed $v_0$.
 
-### C. The Commission has also examined the possible effects of the measures on the environment.
+### C. A thermodynamic transformation (35 points)
 A mole of a perfect biatomic gas undergoes a reversible cyclic transformation described in the $T$–$V^2$ plane in the line shown in Figure 1 and starting at point 1.
 
 <!--fig:start-->

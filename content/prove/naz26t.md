@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Teorica
+title: OII Nazionale Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -122,7 +122,7 @@ The distance $L$ between them.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII na Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/electrostatics,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/capacitor,object/resistor,object/conducting-sphere,object/point-charge,object/wire"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/electrostatics,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/capacitor,object/resistor,object/conducting-sphere,object/point-charge,object/wire"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -305,7 +305,7 @@ mass and $R$ is the radius. The density of the conductive material shall be $\de
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII na Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Teorica — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/fluid-mechanics,topic/oscillations-e-waves,argomento/meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

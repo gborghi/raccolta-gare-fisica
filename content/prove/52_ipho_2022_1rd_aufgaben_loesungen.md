@@ -10,7 +10,7 @@ pdf: gare di altri paesi/Germania/Rund1/52_IPhO_2022_1Rd_Aufgaben_Loesungen.pdf
 generator: llm-extracted
 tags:
   - kg/prova
-title: '[IPhO-DE 2022 Round 1] — 52_IPhO_2022_1Rd_Aufgaben_Loesungen.pdf'
+title: '[IPhO-DE 2022 Round 1]'
 ---
 
 

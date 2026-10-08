@@ -1,5 +1,5 @@
 ---
-title: Russia na
+title: Russia
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia na — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -46,7 +46,7 @@ hours.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia na — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -73,7 +73,7 @@ hours.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia na — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -102,7 +102,7 @@ Se ne avete uno, per favore chiedeteli agli organizzatori delle Olimpiadi.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia na — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Russia — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -135,7 +135,7 @@ La maggior parte delle persone utilizza equazioni, numeri, figure e grafici.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia na — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Russia — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,7 +162,7 @@ La maggior parte delle persone utilizza equazioni, numeri, figure e grafici.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia na — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Russia — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,7 +197,7 @@ l'intero foglio e non lo inserire nel numero.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia na — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,object/pendulum,object/magnet,object/coil,object/battery,object/switch"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Russia — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,object/pendulum,object/magnet,object/coil,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf
+title: OBF 2015 — Fase 2 · Livello 2
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/planet,object/star,object/satellite"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/planet,object/star,object/satellite"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -103,7 +103,7 @@ High School
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -150,7 +150,7 @@ Question 2 (exclusive for 1st-year students) - A student finds in a laboratory, 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -184,7 +184,7 @@ São Paulo and operates with four motor-pump units. Three units operate simultan
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -230,7 +230,7 @@ Can you bend that fiber without letting light escape to the outside?
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/gas,object/heat-engine"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/gas,object/heat-engine"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -276,7 +276,7 @@ The work at the expense of the heat absorbed determines its efficiency.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/spring,object/block"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -376,7 +376,7 @@ Part II  Questions for an open answer
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/ball,object/inclined-plane"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/ball,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -434,7 +434,7 @@ The following table shows the following:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/rope-string,object/disk"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/rope-string,object/disk"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -507,7 +507,7 @@ friction) over the plane as the wire rolls over the larger disk.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/disk,object/rope-string"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/disk,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -547,7 +547,7 @@ What is the position of the minor disc the moment the wire completes two turns o
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/disk,object/rope-string"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/disk,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -587,7 +587,7 @@ minor disc the moment the wire completes two turns on the major disc.
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/block"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -645,7 +645,7 @@ Don't slip on the treadmill.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2015 — Prova Nivel2 OBF 2015 fase2.pdf — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/tank-container,object/block"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2015 — Fase 2 · Livello 2 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/tank-container,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

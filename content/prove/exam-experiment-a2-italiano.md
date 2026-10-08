@@ -187,7 +187,7 @@ Italiano (Italy)
 Experiments
 A2-1
 Italian (Italy)
-The Commission has already adopted a number of proposals for a new directive.
+Wiedemann-Franz Law - Answer Sheet
 Part A. Electrical conductivity of copper, aluminium and brass (1.5 points)
 A.1 (1.0 pt)
 Time of fall of the magnet:
@@ -257,22 +257,22 @@ Expression:
 
 cp=
 
-The following is the list of the countries of the European Union:
+Ploss=
 
 The value:
 
 cp=
 
-The following is the list of the countries of the European Union:
+Ploss=
 
 C.4 (1.0 pt)
 Expression:
 
-The following is the list of the countries of the European Union:
+κCopper=
 
 The value:
 
-The following is the list of the countries of the European Union:
+κCopper=
 
 Part D: Thermal conductivity of brass and aluminium (1,0 points)
 D.1 (0.1 pt)

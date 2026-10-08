@@ -17,7 +17,7 @@ tags:
   - cluster/Termodinamica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (chimica)
-title: India 2021 — IOQC2021-PartII-Questions-en.pdf
+title: India 2021 — IOQC Parte II
 ---
 
 

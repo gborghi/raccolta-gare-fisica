@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2023 — 2023 P-EXPERIMENTAL-Varilla resuelto.pdf
+title: Spagna 2023 — Problema sperimentale Varilla · Soluzioni
 ---
 
 

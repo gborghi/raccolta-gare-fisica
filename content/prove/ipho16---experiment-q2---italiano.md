@@ -260,7 +260,7 @@ each half of the container for different AD amplitudes.
 A.2
 Calculate the standard deviation of your measurements of N1 and N2 and report the result
 in Table A.1. In Chart A.2 build a functional chart of N1 and N2
-The Commission's proposal for a directive on the approximation of the laws of the Member States on the approximation of the laws of the Member States relating to the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the Member States on the approximation of the laws of the law of the Member States on the approximation of the laws of the law of the Member States on the approximation of the law of the law of the law of the Member States on the
+of the amplitude shown AD, including their experimental uncertainties.
 1.1pt
 A.3
 Based on your chart, determine the critical display width AD, written for the

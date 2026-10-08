@@ -1,5 +1,5 @@
 ---
-title: OII 1999 2° Livello Teorica — 2lv99s (2 files merged).pdf
+title: OII 1999 2° Livello Teorica
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1999 2° Livello Teorica — 2lv99s (2 files merged).pdf — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/thermodynamics,topic/circuits,topic/rotational-dynamics,topic/electrostatics,topic/geometric-optics,topic/kinetic-theory,argomento/elettromagnetismo,object/pendulum,object/cylinder,object/capacitor,object/rod,object/gas"></span>
+<span class="atom-split" id="q00" data-atom="q00" data-title="OII 1999 2° Livello Teorica — Problema 0" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/multi,topic/newtonian-mechanics,topic/oscillations-e-waves,topic/thermodynamics,topic/circuits,topic/rotational-dynamics,topic/electrostatics,topic/geometric-optics,topic/kinetic-theory,argomento/elettromagnetismo,object/pendulum,object/cylinder,object/capacitor,object/rod,object/gas"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -93,7 +93,7 @@ Second Level Competition of 25 February 1999 — Part One (10 questions, 4 point
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1999 2° Livello Teorica — 2lv99s (2 files merged).pdf — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/elettromagnetismo,object/gas,object/piston,object/tank-container"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 1999 2° Livello Teorica — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/bi,topic/thermodynamics,topic/kinetic-theory,argomento/elettromagnetismo,object/gas,object/piston,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -162,7 +162,7 @@ The following table shows the results of the calculation of the total emissions 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1999 2° Livello Teorica — 2lv99s (2 files merged).pdf — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 1999 2° Livello Teorica — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/2-livello,difficolta/3,multidisciplina/mono,topic/electrostatics,argomento/elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

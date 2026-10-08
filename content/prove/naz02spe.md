@@ -1,5 +1,5 @@
 ---
-title: OII na Nazionale Sperimentale
+title: OII Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,248 +9,91 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII na Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics"></span>
 
-**CD0EF8=/%;B**
+<div class="qlang-switch" data-default="it"></div>
 
- !"
 
-#%$
-&
- '&$
 
-(
+*(AIF – Olimpiadi di Fisica 2002 — Gara Nazionale, Senigallia, 18 aprile 2002 — Problema sperimentale)*
 
- *)+ ,
+**Pendolo composto usato come bilancia** — 130 punti
 
-&
--!.0/2103!4
-3653
-798230:;<36=%:>%;<3?53
-7*.A@0B
-4
->/25%B
->
-CD0EF8=/%;B
-GIHJK%L<MONP Q%ROSTP,TU L<H%LVQ%ROSQ2SMONOS
-W%U%K%NOU X U Y<YPROL
-K%H2P ROU ZP,SMO[<U X X
-PHNOL
-U HTL<RONOU [PX L\[<S] L
-K%H Q2L<H%W%SX S2\Q2L<R
-W%L<NOL<RO] U H2PROL
-X
-P ]^PMOMP U H%[<SZH%U NP W%U2K%H W2PW%S W2P
-_%K%X X SH%L`!a!ROU ]^P,Q2L<ROS
-b W%L<TU2L<MOL<ZK%U ROL
-PX [<K%H%L Q2PRONOU2U HNOROSW%K%NONOU TL c
-[<SROROU MOQ2SH%W%L<HNOU
-PU0Q%K%HNOUVdOef<\0dhgfVL dhifhj!Q2L<R,Q%ROL<H%W%L<ROL[<SHk2W%L<H%YP [<SH^U X0W%U MOQ2SMOU NOU TSMOQ2L<ROU ] L<HNPX L`
-l2m n
-L<NOL<RO] U H2P
-MOQ2L<ROU ] L<HNPX ] L<HNOLVU X2Q2L<ROU SW%So6W%L<X0Q2L<H%W%SX S[<S] Q2SMONOS ROLPX U Y<YPNOS[<SH K%H2P ROU ZP
-W2P
-W%U MOL<ZH%SL
-[<SH
-U X2W2PW%S W2P
-_%K%X X SH%L,[<SHNORPMOMOL<ZH2PNOSU H _%U
-PH%[<S2\PX2TPROU
-PROL,W%L<X X
-P
-W%U MONPH%YP p W%L<X0MOK%W%W%L<NONOSW2PW%S ROU MOQ2L<NONOS PX XIq
-PMOMOL
-W%U!MOSMOQ2L<H%MOU SH%LW%L<X X
-PROU ZP*d
-[<SH%MOU W%L<RP PX ] L<H%S r Q%K%HNOUI\2U TU[<S] Q%ROL<MOUJK%L<X X UQ%U K
-bMOU ZH%U
-k2[PNOU TU
-f<`,s,U Q2SRONPUW2PNOU
-MOQ2L<ROU ] L<HNPX U0MOK^K%H^ZRPk2[<S [PRONOL<MOU
-PH%S o d pf<\%NORP[<[<U
-PH%W%S X
-P [<K%ROTPU HNOL<ROQ2SX
-PHNOL
-U0MOK%W%W%L<NONOU!W2PNOUÌ
-aL<R X L W%K%L W%S]^PH%W%L,[t%L MOL<ZK%SH%S Q%K%S
-b
-L<MOMOL<ROLK%NOU X L
-NOL<H%L<R Q%ROL<MOL<HNOLX
-P MOL<ZK%L<HNOL H%SNPNOL<SROU [P%`
-u!v wxyhvz<{
-|}2x ~h|}22v^x}0Ivy
-x
-%xy yhv { }0v {
-v%xy y
-x w|%Ivz<{
-|}%{
-x
-O
-^
-%|x
-w<v<%2wxx}0Iv
-{ y
-^|^x}0h| wO{ yIIv}0hx %xy y
-x~h|wOzx xhxwO}2x^v<%2y {
-vhx vy!O{ hx*v wO{
-{
-%|^<|}%O{
-%xw<vh|
-*x
-,{ y,vy
-|wx
-%xy0^|^x}0h|
+In questa prova viene proposto di utilizzare una riga oscillante in verticale, come un pendolo, per determinare la massa incognita di un dado da bullone. Prima però devi eseguire alcune parti introduttive [corrispondenti ai punti (1), (2) e (3)] per prendere confidenza con il dispositivo sperimentale.
 
-{ }2xwOz<{hv %xy y<
-{ }0hxw|
-O{ hx*v  O{
-hx}2v 2wxx}0hxO2x,x
-2x
-yI
-{ ^| ~h|Ox
-<|
-{IO{Ih|
-|y
-|2vA}0v**vO<v^!}0
-{ ~h|wO^x |O{ z<{
-|}0vIvv{ Iv}%zv*2vy y<
-vOx {,w|%Ivz<{
-|}2xVO{ vwx%x
- F^%{ }%%}2x
-9x
-!y<
-v<<xy
-xw<vz<{
-|}2x v}%|yhvwx %xyO{ hx*v
-¡0m ¢
-SH%MOU W%L<RPU X2ZRPk2[<SQ%ROL<[<L<W%L<HNOLL
-W%L<NOL<RO] U H2P U X2TPX SROL W%U0o6[t%L
-MOUSNONOU L<H%L
-U HNOL<ROMOL<[PH%W%S XIq
-PMOMOL W%L<X X L
-SROW%U H2PNOL
-[<SHX
-P [<K%ROTP U TURPQ%Q%ROL<MOL<HNPNP%\Q2SU![<SH£hROSHNP JK%L<MONOS^TPX SROL [<SHJK%L<X X S W%L<X
-Q2L<ROU SW%S o0¤W%L<X X
-P ROU ZP MO[PROU [P%\
-W%L<NOL<RO] U H2PNOS MOQ2L<ROU ] L<HNPX ] L<HNOL`¥SH%S
-K%ZK2PX UI\SQ%Q%K%ROL,H%S¦ § UL
-bVK%H] SNOU TS,NOL<SROU [<S
-Q2L<R
-[<K%U%W%STROL<_%_2L<ROS L<MOMOL<ROL
-K%ZK2PX U
-¦
- ̈0m ¢
-SH%MOU W%L<RP^PH%[<SRP^U X!ZRPk2[<S^Q%ROL<[<L<W%L<HNOL`
-n
-P L<MOMOS*ROU MOK%X NP [t%L [q
-L
-b K%H2P W%U MONPH%YP p© U H[<SROROU MOQ2SH%W%L<H%YP^W%L<X X
-P
-JK2PX LVU XQ2L<ROU SW%S
-t2P K%HTPX SROL
-o©V6o0¤`
-¢
-SHNOROSX X
-P,MOQ2L<ROU ] L<HNPX ] L<HNOL![t%L,MOLVQ2SH%U%U XW2PW%S
-_%U
-PH%[<S
-PX X
-P,W%U MONPH%YP
-p©VW2PX XIq
-PMOMOLVW%U2SMO[<U X X
-PY<U SH%LVU X%Q2L<ROU SW%S W%L<X2Q2L<H%W%SX S ROU MOK%X NP
-K%ZK2PX L,P
-o0¤`a!ROSTP MOQ2L<ROU ] L<HNPX ] L<HNOLVJK2PHNOS
-TPX L
-U XQ2L<ROU SW%S^W%L<X!Q2L<H%W%SX S JK2PH%W%S k2MOMOUVPX X
-PMONOL<MOMP W%U MONPH%YP p©
-K%HPX NOROS W2PW%S2\2W%U!]^PMOMPW%U TL<ROMP W2P JK%L<X X
-P W%L<X
-W2PW%S _%U
-PH%[<S2`!«
-U K%MONOU
-k2[P NOL<SROU [P] L<HNOL
-JK2PHNOS t2PU0NOROSTPNOS[<SH^JK%L<MONOL W%K%L Q%ROSTL`
-¬
-RP [t%L t2PU!Q%ROL<MOS^[<SHk2W%L<H%YP^[<SHU X!Q2L<H%W%SX S k2MOU [<S^[t%LNOU
-L
-b MONPNOS £hSROH%U NOS2\2Q%K%SU!MOL<ROTU RONOL<H%L Q2L<R
-ROLPX U Y<YPROL K%H2P
-­
-{ yhv}2{hv® MOL<ZK%L<H%W%S X L
-U H%W%U [PY<U SH%U2MOSNONOS ROU Q2SRONPNOL`
- ̄m
-¥L<ROTL<H%W%SNOUW%L<X X
-P ROU ZP SMO[<U X X
-PHNOL
-PMOMOU L<] L
-PU2JK2PNONOROS W2PW%U0W%U0]^PMOMP
-H%SNP [t%L
-NOUMOSH%SMONPNOU2£hSROH%U NOUI\W%L<NOL<RO] U H2P
-K%H2P SQ%Q2SRONOK%H2P [<K%ROTP W%U!NPRPNOK%RP o dh f [t%L NOU!Q2L<RO] L<NONP W%U!ROU [PTPROL
-[<SHX
-P] U ZX U SROL,Q%ROL<[<U MOU SH%L[<SH%MOL<HNOU NP
-X
-P ]^PMOMP U H%[<SZH%U NP W%L<XW2PW%S[<SHNORPMOMOL<ZH2PNOS U H TL<ROW%L`
-$^{\circ}\pm$
-$^22^3 ́I}?|}%{V~Ivx$ %|w<v{
-%
-{ y { z<zvwx*O%O
-{Vy {,v<<|wI{ ^x}0
-{Vv<v{ {,{  { }0{ wx
-y {VxwOw|wO{,IxwO{ ^x}0Ivy {h!{ y $\mu$
-yI
-w<v}2%|y {V{
-|yIIv { }6|yIIv }2xy yhv wxyhvz<{
-|}2x *¶,{
-<|w2v
-{,v}2O2x {,<|wOwx<2vwx^|}%{ vy
-|wx IxwO{ ^x}0Ivy
-x <|}9yhv
-vyI%Ivz<{
-|}2x %xy yhv
-v { }2<xwhxz<zv
-$\cdot ̧ ̧^1o»»1⁄4% ̧1⁄2!^11⁄4^1⁄4 ̧1⁄2!1⁄43⁄4¿IÀ<Á$
-Â0À<¿h»¿hÂ2Ã!o
-Ä
-s,U ZP W2PW%U MOL<ZH%S2\2[<SH^MOK%Q%Q2SRONOS Q2L<R
-MOSMOQ2L<H%W%L<ROX
-P PX
-_2SROW%S W%L<XNPTSX S
-ÄÆÅ
-HW2PW%S^W2P _%K%X X SH%LW%U!]^PMOMP U H%[<SZH%U NP^d
-[<SHNORPMIÇ
-MOL<ZH2PNOS U H TL<ROW%Lf
-Ä
-¥JK2PW%ROL<NONPW2PW%U MOL<ZH%S L £hSRO_%U [<U
-ÄÉÈ
-K2PNONOROSW2PW%UVW2P*_%K%X X SH%L\K%ZK2PX UVP*W%K%L^P^W%K%L\
-W%U
-]^PMOMP?eÊ%Ëgg!ZLAgÌ%ËrÍ!Z?d
-K%H%S9W%U JK%L<MONOU
-K%X NOU ] U,L
-b
-[<SHNORPMOMOL<ZH2PNOS U H^_%U
-PH%[<Sf
-ÄÉÎ
-L<NOROS Ï2L<MOMOU _%U X L
-ÄÆÅ
-H^Q2L<H%H2PROL<X X S U H%W%L<X L<_%U X L
-ÄÆÅ
-H2PMONOROU MO[<U
-PW%UH2PMONOROS _%U
-PW%L<MOU TS
-ÄÆÅ
-H2PMONOROU MO[<U
-P W%U0H2PMONOROS PW%L<MOU TS
-Ä
-n
-K%L £hSZX U2W%U[PRONP] U X X U ]L<NORPNP,£hSRO]^PNOS Ð
-i
-ÄÆÅ
-H^[<ROSH%S] L<NOROS ]^PHK2PX L PX0[<L<HNOL<MOU ] SW%UMOL<[<SH%W%S
-Ñ2(2Ò
-2
+**1.** Determina sperimentalmente il periodo $T$ del pendolo composto realizzato con una riga da disegno e con il dado da bullone contrassegnato in bianco, al variare della distanza $\ell$ del suddetto dado rispetto all'asse di sospensione della riga (considera almeno 7 punti, ivi compresi quelli più significativi). Riporta i dati sperimentali su un grafico cartesiano $T(\ell)$, tracciando la curva interpolante i suddetti dati.
+
+Per le due domande che seguono può essere utile tener presente la seguente nota teorica.
+
+> *La relazione fondamentale della dinamica delle rotazioni è: $M = I \times \alpha$, dove $M$ rappresenta il momento risultante delle forze esterne applicate al sistema rigido considerato, $I$ è il valore del momento d'inerzia dell'intero sistema (si tenga presente che se quest'ultimo fosse costituito solo da una massa $m$ puntiforme posizionata a distanza $r$ dall'asse di rotazione, si avrebbe $I = m \times r^2$); infine $\alpha$ è l'accelerazione angolare del sistema.*
+
+**2.** Considera il grafico precedente e determina il valore di $T$ che si ottiene intersecando l'asse delle ordinate con la curva ivi rappresentata, poi confronta questo valore con quello del periodo $T_0$ della riga scarica, determinato sperimentalmente. Sono uguali, oppure no? Vi è un motivo teorico per cui dovrebbero essere uguali?
+
+**3.** Considera ancora il grafico precedente. Da esso risulta che c'è una distanza $\ell_1$ in corrispondenza della quale il periodo ha un valore $T_1 = T_0$. Controlla sperimentalmente che se poni il dado bianco alla distanza $\ell_1$ dall'asse di oscillazione il periodo del pendolo risulta uguale a $T_0$. Trova sperimentalmente quanto vale il periodo del pendolo quando fissi alla stessa distanza $\ell_1$ un altro dado, di massa diversa da quella del dado bianco. Giustifica teoricamente quanto hai trovato con queste due prove.
+
+Ora che hai preso confidenza con il pendolo fisico che ti è stato fornito, puoi servirtene per realizzare una “*bilancia*” seguendo le indicazioni sotto riportate.
+
+**4.** Servendoti della riga oscillante assieme ai quattro dadi di massa nota che ti sono stati forniti, determina una opportuna curva di taratura $T(m)$ che ti permetta di ricavare con la migliore precisione consentita la massa incognita del dado contrassegnato in verde.
+
+*NOTA: In ogni fase dovrai utilizzare tutti gli accorgimenti capaci di diminuire gli errori sperimentali, illustrandoli di volta in volta nella relazione. Ricordati anche di corredare ogni valore sperimentale con la valutazione della sua incertezza.*
+
+**Attrezzatura a tua disposizione**
+
+- Riga da disegno, con supporto per sospenderla al bordo del tavolo
+- Squadretta da disegno e forbici
+- Metro flessibile
+- Una striscia di nastro biadesivo
+- Due fogli di carta millimetrata formato A3
+- Un dado da bullone di massa incognita (contrassegnato in verde)
+- Quattro dadi da bullone, uguali a due a due, di massa $10{,}22\,\text{g}$ e $29{,}75\,\text{g}$ (uno di questi ultimi è contrassegnato in bianco)
+- Un pennarello indelebile
+- Una striscia di nastro adesivo
+- Un cronometro manuale al centesimo di secondo
+
+**Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
+**Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]
+**Competenze:** [[Experimental Data Analysis (competenza)|Experimental Data Analysis]], [[Graph Linearization (competenza)|Graph Linearization]], [[Mathematical Modeling (competenza)|Mathematical Modeling]]
+**Objects:** —
+**Fonte:** [Testo (PDF) — p.1](https://drive.google.com/file/d/1GAMaiFCjpGb7OSco57EaFGyqNvPcyRhU/view)
+**Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1jT-qp-FVJg6KFHvfBHE-VsjkGJp0ZkHw/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+*(AIF – Italian Physics Olympiad 2002 — National Competition, Senigallia, 18 April 2002 — Experimental problem)*
+
+**Compound pendulum used as a balance** — 130 points
+
+In this task you are asked to use a ruler oscillating in a vertical plane, like a pendulum, to determine the unknown mass of a bolt nut. First, however, you must carry out some introductory parts [corresponding to points (1), (2) and (3)] to become familiar with the experimental apparatus.
+
+**1.** Determine experimentally the period $T$ of the compound pendulum made of a drawing ruler and the bolt nut marked in white, as the distance $\ell$ of that nut from the suspension axis of the ruler is varied (take at least 7 points, including the most significant ones). Plot the experimental data on a Cartesian graph $T(\ell)$, drawing the curve that interpolates them.
+
+For the next two questions it may be useful to keep in mind the following theoretical note.
+
+> *The fundamental law of rotational dynamics is: $M = I \times \alpha$, where $M$ is the resultant moment (torque) of the external forces applied to the rigid system considered, $I$ is the moment of inertia of the whole system (bear in mind that if the system consisted only of a point mass $m$ placed at a distance $r$ from the rotation axis, one would have $I = m \times r^2$); finally, $\alpha$ is the angular acceleration of the system.*
+
+**2.** Consider the previous graph and determine the value of $T$ obtained by intersecting the vertical axis with the curve drawn there; then compare this value with the experimentally determined period $T_0$ of the unloaded ruler. Are they equal or not? Is there a theoretical reason why they should be equal?
+
+**3.** Consider the previous graph again. It shows that there is a distance $\ell_1$ at which the period has the value $T_1 = T_0$. Check experimentally that, if you place the white nut at the distance $\ell_1$ from the oscillation axis, the period of the pendulum is equal to $T_0$. Find experimentally the period of the pendulum when you fix, at the same distance $\ell_1$, another nut with a mass different from that of the white nut. Justify theoretically what you have found with these two tests.
+
+Now that you are familiar with the physical pendulum provided, you can use it to build a “*balance*” by following the instructions below.
+
+**4.** Using the oscillating ruler together with the four nuts of known mass that you have been given, determine a suitable calibration curve $T(m)$ that allows you to obtain, with the best precision possible, the unknown mass of the nut marked in green.
+
+*NOTE: At every stage you must use all the precautions able to reduce experimental errors, describing them each time in your report. Remember also to give every experimental value together with an estimate of its uncertainty.*
+
+**Equipment available**
+
+- Drawing ruler, with a support to hang it from the edge of the table
+- Set square and scissors
+- Flexible tape measure
+- A strip of double-sided tape
+- Two sheets of A3 graph paper
+- A bolt nut of unknown mass (marked in green)
+- Four bolt nuts, equal in pairs, of mass $10{,}22\,\text{g}$ and $29{,}75\,\text{g}$ (one of the latter is marked in white)
+- An indelible marker
+- A strip of adhesive tape
+- A manual stopwatch reading to hundredths of a second
 
 **Topic:** [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]], [[Graph Linearization (metodo)|Graph Linearization]]

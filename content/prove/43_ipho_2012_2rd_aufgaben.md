@@ -296,7 +296,7 @@ $\rho Cu$ = 8920 kg $m-3$
 
 Problem 1 is
 Eddy current braking
-The Commission's proposal for a directive on the protection of workers
+(19 points)
 Eddy currents induced by magnetic fields can be used to brake mechanical systems and are applied, for example, in modern
 trains as braking systems. In this problem you are to investigate a simple model system for braking a mechanical system by means of
 I'm not going to be able to get you to the next level.
@@ -325,7 +325,7 @@ Specific conductivity of copper
 $\sigma Cu$ = 58,0 $\cdot$ 106 $Ω-1 m-1$
 Density of copper
 $\rho Cu$ = 8920 kg $m-3$
-43. The Commission will also be able to take into account the specificities of the new rules. Round
+43rd IPhO 2012 - Problems of the 2nd Round
 3 / 8
 
 
@@ -526,7 +526,7 @@ la slope della funzione y(x) ha in questo caso. 7 punti)
 
 Problem 2
 Fermat's principle
-The Commission's proposal for a directive on the protection of workers
+(19 points)
 (Ideas: Manuel Bärenz)
 Fermat's principle, named after Pierre de Fermat, forms the basis of the laws of reflection and
 refraction in ray optics and states, in simplified form, that light rays
@@ -556,7 +556,7 @@ at the point (0, d) with d $\geq y0$ behind the lens.
 Finally consider the case d = y0 and state what physical meaning
 the slope of the function y(x) has in this case. (seventh and final points)
 1The exact formulation states that the light path is a stationary point of the time functional.
-43. The Commission will also be able to take into account the various aspects of the project. Round
+43rd IPhO 2012 - Problems of the 2nd Round
 4 / 8
 
 **Topic:** [[Geometric Optics]]
@@ -1193,7 +1193,7 @@ $\sigma$ = $\Delta E$
 $\Delta A$ .
 Similarly, for every interface between a liquid and another material (solid, liquid or gas) there exists an interfacial tension $\sigma G$ that is defined in the same way
 and depends on the adjoining materials; it can be either positive or negative. The surface tension is then the interfacial tension to vacuum (or to a
-The following table shows the following:
+thin gas).
 43rd IPhO 2012 - Problems of the 2nd Round
 7 / 8
 In weightlessness, liquids form spherical
@@ -1218,9 +1218,9 @@ Sketch
 of the
 contact angle
 (after
-The Commission shall adopt implementing acts in accordance with Article 21 of this Regulation.
-The following is the list of the countries of the European Union:
-The following is the list of the categories of products:
+http://de.wikipedia.org/
+w/index.php?title=File:Contact_angle
+_-_Typen.svg).
 The total mechanical energy of the puddle now consists of the potential energy and the
 energy of the surface and interface. In the static case the puddle takes on a shape
 That minimizes the total energy. In the following you are to investigate drops or small puddles with fixed

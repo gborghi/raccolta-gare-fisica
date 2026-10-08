@@ -1006,7 +1006,7 @@ A-5
 Make a semi-logarithmic plot of your data in part A-4. Then don 't .
 0.7 pt
 The insulator around the rod causes the resistors to reach thermal equilibrium sooner, and, the
-The Commission has also proposed that the measures be taken to ensure that the
+rod to have a more uniform temperature profile.
 A-6
 Measure and record the resistance
 of Thermistor 9 in terms of
@@ -1027,7 +1027,7 @@ Wait for the rod to reach a steady state i.e. the measured temperatures at all p
 constant, and then answer the following questions. We shall indicate the temperatures of
 Thermistors 1-7 by
 through
-The Commission shall adopt the following measures: The location of Thermistor 1 corresponds to
+respectively. The location of Thermistor 1 corresponds to
 .
 B-1
 When the rod reaches steady state, measure and record the temperature
@@ -1120,7 +1120,7 @@ Draw a new diagram to obtain the values for
 and
 Denote them by
 and
-The Commission shall adopt the following measures:
+respectively.
 1.0 pt
 To obtain accurate approximations, the corrections should be repeated many times, but at the end,
 We'll find that the nal answer is close to

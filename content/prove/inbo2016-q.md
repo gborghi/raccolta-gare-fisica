@@ -17,7 +17,7 @@ tags:
   - cluster/Fisica Moderna
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2016 — inbo2016-Q.pdf
+title: India 2016 — INBO
 ---
 
 

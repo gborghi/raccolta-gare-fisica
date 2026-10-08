@@ -319,7 +319,7 @@ Cohen-Tannoudji, and William Daniel Phillips "for developments of methods to coo
 laser light".
 A. The Paul Trap
 It is known that with electrostatic
-The Commission has already decided to take a decision on the
+fields, it is not possible to create a stable equilibrium for a
 charged particles. Therefore, creating a stable equilibrium point for ions requires more
 sophisticated techniques. The Paul trap is one of those techniques.
 Consider a ring of charge with a radius
@@ -382,7 +382,7 @@ is a small-amplitude rapidly-varying component with a mean
 The value of zero. In other words,
 may be assumed constant over a few oscillations of
 (see
-The following table shows the results of the study:
+Figure 2).
 (x, y, z)
 x/R
 y/R
@@ -423,7 +423,7 @@ A-4
 and ective equation of motion for
 .
 (b) Investigate the stability of the equilibrium point and the condition
-The Commission will take the necessary measures to ensure that the measures taken are in a stable equilibrium.
+for a stable equilibrium.
 1.5 pt
 Assumes that
 and
@@ -577,7 +577,7 @@ Page 10 of 16
 B-4
 Consider the force calculated in Task B-2 and calculate the output power.
 Then, calculate the average value of
-The Commission is not in a position to take any further action. Using your
+at equilibrium. Using your
 knowledge of the kinetic theory of gases estimate the temperature of the
 The atomic number is not a single atom.
 0.8 pt

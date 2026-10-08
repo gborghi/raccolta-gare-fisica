@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Termodinamica
-title: Spagna 2026 — 2026 Soluciones_2026.pdf
+title: Spagna 2026 — Soluzioni
 ---
 
 

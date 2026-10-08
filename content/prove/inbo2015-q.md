@@ -17,7 +17,7 @@ tags:
   - cluster/Meccanica
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2015 — inbo2015-Q.pdf
+title: India 2015 — INBO
 ---
 
 

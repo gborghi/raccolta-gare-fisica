@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Ottica
-title: Spagna 2023 — 2023 Soluciones_2023.pdf
+title: Spagna 2023 — Soluzioni
 ---
 
 

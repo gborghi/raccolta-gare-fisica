@@ -353,7 +353,7 @@ h) Ottieni un'espressione per la tensione sul condensatore in funzione del
 tempo.
 
 Se in una determinata situazione si rileva che la tensione nel condensatore è cambiata di segno (se
-La Commissione ha inoltre deciso di aumentare la portata del valore massimo fino a 100 V.
+invertì) e che l'ampiezza del valore massimo è aumentata fino a 100 V.
 
 i) Determina il modulo, la direzione e il senso del campo elettrico
 atmosferica.
@@ -388,7 +388,7 @@ positive charges and end up in negative charges, equally the direction of the fi
 From the positive to the negative. The magnitude of the induced load on the
 a conductor and the flow of electric field that reaches the conductor are directly
 Proportional (the permittivity or dielectric constant of the vacuum y0 is the constant of
-The Commission will examine the The flow of a uniform electric field of magnitude E through a
+proportionality). The flux of a uniform electric field of magnitude E through a
 area A (perpendicular to vector field E), is given by: where is the module
 of field E. If the flow to the driver will induce negative loads; that is, if the
 The induced charges are negative.
@@ -417,7 +417,7 @@ C= 40
 
 pF= 40 10-12F
  0 = 8,85 10-12 C2 $N-1\cdot m-2$.
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+OAF 2018 - 7
 In the equilibrium position the cart has its left end just below the edge
 open from the box.
 
@@ -855,8 +855,8 @@ di essere inserito nel tubo di alluminio per farli fluttuare
 The problem is 3
 Black Holes and White Dwarfs
 
-The following is the list of the categories of products:
-The following is the list of the types of locks:
+PART A.
+Black holes
 The Black Holes, one of the most fascinating predictions of the
 Einstein's theory of general relativity, they are objects.
 extremely dense, so much so, that if something falls into the hole: no more
@@ -916,7 +916,7 @@ The equilibrium system is known as the White Dwarf.
 If the mass of the star is greater than the mass of Chandrasekhar, the pressure of
 degeneration is insufficient to stop the collapse and the final state, much denser,
 It could be a neutron star or a black hole.
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+OAF 2018 - 9
 The goal of this part of the problem is to estimate the kinetic energy of atoms.
 which make up the white dwarf.
 
@@ -968,7 +968,7 @@ The following shall be added to the list of the categories of vehicles:
 
 Flotability of hollow body
 
-The following is the list of the countries of the European Union:
+Introduction
 When a body is immersed in the breast of a liquid, if its average density is
 smaller than the liquid, it will float. Any body that floats is subject to two forces
 vertical and opposite: one is the body weight P̅ which is directed downwards and the other is
@@ -986,7 +986,7 @@ The wave action, etc.) causing the centre of thrust to shift to a new
 EC position' as shown in Figures 2a and 2b. This causes the forces that
 They act on the body, they generate torque on the body.
 
-The following is the list of the countries of the European Union:
+Figure 2a Figure 2b
 
 If the point Q, defined by the intersection of the body axis and the line of action of the
 P̅ and E̅ will produce a moment in the direction of the
@@ -1001,9 +1001,9 @@ The mass center is the mass of the cylinder. This is achieved, for example, by
 Adding uniform mass m until the cylinder floats straight as it is
 the sample in Figure 3. In this condition, the volume immersed Vs verifies the equation:
 
-The following is the list of the countries of the European Union:
+Mtg= δliqVsg= δliq A hsg
  (1)
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+OAF 2018 - 11
 where Mt is the total mass of the body, δliq is the
 density of the liquid and A is the cross-sectional area. Si n
 is the number of masses added, it is satisfied
@@ -1448,7 +1448,7 @@ q) Ottieni un'espressione per la tensione sul condensatore in funzione del
 tempo.
 
 Se in una determinata situazione si rileva che la tensione nel condensatore è cambiata di segno (se
-La Commissione ha inoltre deciso di aumentare la portata del valore massimo fino a 100 V.
+invertì) e che l'ampiezza del valore massimo è aumentata fino a 100 V.
 
 r) Determina il modulo, la direzione e il senso del campo elettrico
 atmosferica.
@@ -1503,8 +1503,8 @@ positive charges and end up in negative charges, equally the direction of the fi
 From the positive to the negative. The magnitude of the induced load on the
 a conductor and the flow of electric field that reaches the conductor are directly
 Proportional (the permittivity or dielectric constant of the vacuum 0 is the constant of
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
-The Commission will examine the The flow of a uniform electric field of magnitude E through a
+OAF 2018 - 13
+proportionality). The flux of a uniform electric field of magnitude E through a
 area A (perpendicular to vector field E), is given by: where is the module
 of field E. If the flow to the driver will induce negative loads; that is, if the
 The induced charges are negative.
@@ -1590,7 +1590,7 @@ and that a small amount of charge has flowed from the plate q:
 (s) Write a balance equation for the electrical charge, considering
 The loads entering the qc condenser and flowing through the
 resistance giving rise to an electric current going.
-The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+OAF 2018 - 15
 Knowing that the input of a quantity of qc charge into the capacitor produces a
 Vc variation of the potential difference between their plates and recalling that the
 The resistance and the capacitor are connected in parallel:
@@ -2041,8 +2041,8 @@ Se il punto Q, sfide
 
 Problem 3: Black Holes and White Dwarfs
 
-The following is the list of the categories of products:
-The following is the list of the types of locks:
+PART A.
+Black holes
 The Black Holes, one of the most fascinating predictions of the
 Einstein's theory of general relativity, they are objects.
 extremely dense, so much so, that if something falls into the hole: no more
@@ -2139,7 +2139,7 @@ Suppose there's an electron in every cubic volume on the λ-side where
 λ=
 ħ
 pe 2)
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+OAF 2018 - 17
 B4. Write the linear momentum pe in terms of the number of electrons per unit
 of volume, ne and ħ.
 
@@ -2203,7 +2203,7 @@ l, where j, k, l are constants to determine.
 
 B9. Using dimensional analysis, find j, k, l and write the functional form
 of Renana in terms of ħ, c, G, mp and me.
-The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+18 - OAF 2018
 The following is a list of the physical constants:
 •
 The mass of the solar mass Msol = 2 $\times$ 1030 kg.
@@ -2222,7 +2222,7 @@ The following shall be added to the list of the following:
 
 Flotability of hollow body
 
-The following is the list of the countries of the European Union:
+Introduction
 When a body is immersed in the breast of a liquid, if its average density is
 smaller than the liquid, it will float. Any body that floats is subject to two forces
 vertical and opposite: one is the body weight P̅ which is directed downwards and the other is
@@ -2239,8 +2239,8 @@ The wave action, etc.) causing the centre of thrust to shift to a new
 EC position' as shown in Figures 2a and 2b. This causes the forces that
 They act on the body, they generate torque on the body.
 
-The following is the list of the countries of the European Union:
-The Commission shall adopt implementing acts in accordance with Article 21 of the Financial Regulation.
+Figure 2a Figure 2b
+OAF 2018 - 19
 If the Q point, challenge
 
 **Topic:** [[Astrophysics]], [[Gravitation]], [[Modern-Quantum Physics]]

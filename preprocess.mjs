@@ -827,7 +827,9 @@ async function main() {
     const stemSlug = sluggify(stem)
     // parent frontmatter (title/tags) from <stem>.md if present, else derive
     let title = stem, ptags = ["graph/prova"]
-    const parentRel = proveParents.get(stemSlug)
+    // "<stem>___Q01" atoms split at the FIRST "__", so a parent "<stem>_.md" (2022_PhODS_Mock_F_ma_)
+    // is not found under the shortened stem: use it for the title/tags only (page paths unchanged)
+    const parentRel = proveParents.get(stemSlug) || proveParents.get(stemSlug + "_")
     if (parentRel) {
       const praw = await fs.readFile(vaultPath(parentRel), "utf8")
       const pf = parseFrontmatter(praw)

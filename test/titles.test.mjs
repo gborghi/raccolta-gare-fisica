@@ -133,5 +133,6 @@ test("concept-list alias with a stale competition code follows the note's own co
   assert.equal(alignCompWord("BPhO 2024 · Problema 1", "Nordic", "Nordic-Baltic", "Nordic", codes), "Nordic-Baltic 2024 · Problema 1")
   assert.equal(alignCompWord("OII 2003 · Problema 1", "IPhO", "International", "OII", codes), "OII 2003 · Problema 1")
   assert.equal(alignCompWord("BPhO 2010", "BPhO", "United Kingdom", "BPhO", codes), "BPhO 2010")
+  assert.equal(alignCompWord("OII 2016 Teorica · Problema 02", "IPhO", "International", "IPhO", codes), "OII 2016 Teorica · Problema 02")
   assert.equal(alignCompWord("Spagna 2019 — Quesito 1", "Spagna", "Spain", "Spagna", codes), "Spagna 2019 — Quesito 1")
 })

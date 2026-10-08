@@ -388,12 +388,14 @@ export function solFolderHead(pdf, fileYear = "") {
  * aliases still "BPhO 2024 · Problema 1"). When the note's own H1 agrees with its
  * frontmatter comp_code and the alias starts with a DIFFERENT competition code, the alias's
  * first word becomes the note's competition. Evidence: the note's frontmatter and H1 only;
- * an H1 that disagrees with its comp_code (e.g. "OII 2003" under IPhO) leaves the alias alone.
+ * an H1 that disagrees with its comp_code (e.g. "OII 2003" under IPhO) leaves the alias alone,
+ * and so do international papers (country International): their "OII …" aliases are the
+ * vault's Italian-selection labels, a content question for the vault, not the generator.
  */
 export function alignCompWord(label, code, country, h1Word, knownCodes) {
   const t = String(label ?? "")
   const c = String(code ?? "").trim()
-  if (!c || !h1Word) return t
+  if (!c || !h1Word || /^international$/i.test(String(country ?? "").trim())) return t
   const full = compLabel(c, country)
   const own = new Set([c, full, String(country ?? "").trim()].filter(Boolean).map((x) => x.toLowerCase()))
   if (!own.has(String(h1Word).toLowerCase())) return t

@@ -2,7 +2,7 @@
 // file name; translation siblings drop the vault's lone `[[<translation_of>]]` line.
 import test from "node:test"
 import assert from "node:assert/strict"
-import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear } from "../scripts/comp-label.mjs"
+import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear, addLabel, insertLabel, solLabel, solFolderHead } from "../scripts/comp-label.mjs"
 import { stripLoneBacklink, mergeSiblings, newSiblingStats } from "../scripts/siblings.mjs"
 
 test("na / '' placeholders are dropped from the title head only", () => {
@@ -84,4 +84,46 @@ test("double-space separator before Quesito/Problema becomes an em dash", () => 
   assert.equal(fixCompTitle("Spagna 2021  Quesito 1", "Spagna", "Spagna", "2021"), "Spagna 2021 — Quesito 1")
   assert.equal(fixCompTitle("Argent 2019 Locale  Quesito 3", "Argent", "Argentina", "2019"), "Argentina 2019 Locale — Quesito 3")
   assert.equal(fixCompTitle("Soluzioni — fogli risposte bis  SPE19.pdf", "", ""), "Soluzioni — fogli risposte bis  SPE19.pdf")
+})
+
+test("etichetta: one format, after the head, before the quesito part, never twice", () => {
+  assert.equal(addLabel("OII 2014 Nazionale Teorica", "Foglio risposte"), "OII 2014 Nazionale Teorica · Foglio risposte")
+  assert.equal(addLabel("Spagna — Quesito 1", "La gota"), "Spagna · La gota — Quesito 1")
+  assert.equal(addLabel("Spagna 2019 — Quesito 1", "Prova 1 · La goccia"), "Spagna 2019 · Prova 1 · La goccia — Quesito 1")
+  assert.equal(addLabel("OBF 2006 · Fase 3 · Soluzioni", "Fase 3"), "OBF 2006 · Fase 3 · Soluzioni")
+  assert.equal(addLabel("IPhO 2015", ""), "IPhO 2015")
+})
+
+test("etichetta in concept-list Gara labels", () => {
+  assert.equal(insertLabel("OII 2014 Nazionale · Problema 3", "Foglio risposte"), "OII 2014 Nazionale · Foglio risposte · Problema 3")
+  assert.equal(insertLabel("Spagna — Quesito 2", "Prova 1 · La goccia"), "Spagna · Prova 1 · La goccia — Quesito 2")
+  assert.equal(insertLabel("Argentina 2018", "Quaderno"), "Argentina 2018 · Quaderno")
+  assert.equal(insertLabel("Argentina 2018 · Quaderno", "quaderno"), "Argentina 2018 · Quaderno")
+})
+
+test("fillYear only takes a real 4-digit year", () => {
+  assert.equal(fillYear("Spagna na — Quesito 1", "2019"), "Spagna 2019 — Quesito 1")
+  assert.equal(fillYear("Spagna na — Quesito 1", "na"), "Spagna na — Quesito 1")
+  assert.equal(fillYear("Spagna na", "''"), "Spagna na")
+})
+
+test("soluzioni: label from the file name with a fixed vocabulary, never the raw name", () => {
+  assert.equal(solLabel("E1-S_Experiment_1_Solution", "IPhO 2016"), "Sperimentale 1")
+  assert.equal(solLabel("solutions-experiment-E2", "IPhO 2024"), "Sperimentale 2")
+  assert.equal(solLabel("T1_solution_marking_scheme", "IPhO 2016"), "Teorica 1 · Griglia di valutazione")
+  assert.equal(solLabel("2018 Fma-2018-A-Solutions", "F=ma 2018"), "Esame A")
+  assert.equal(solLabel("2008-asoe-physics-exam-a-answers", "ASOE 2008"), "Esame A")
+  assert.equal(solLabel("IOQA2022-PartII-Solutions-20220503", "IOQA 2022 (Part II)"), "")
+  assert.equal(solLabel("NSEC_2025_AnswerKey", "India 2025"), "NSEC · Chiave delle risposte")
+  assert.equal(solLabel("2020 NBPhO-2020-solutions-grading", "Nordic-Baltic 2020"), "")
+  assert.equal(solLabel("Naz21T-fogliorispostecompilato", "OII 2021 Nazionale Teorica"), "Foglio risposte · Compilato")
+  assert.equal(solLabel("1liv15S def", "OII 2015 1° Livello"), "")
+  assert.equal(solLabel("Solution_Heat", "IPhO 2019"), "Heat")
+})
+
+test("soluzioni without a linked prova: competition from the PDF folder", () => {
+  assert.equal(solFolderHead("gare di altri paesi/Svizzera/Nazionale/final_2017_solutions/x/Martian_solution.pdf"), "Svizzera 2017")
+  assert.equal(solFolderHead("Gara individuale/ipho/sperimentale/int16sit/__MACOSX/._E1.pdf"), "IPhO 2016")
+  assert.equal(solFolderHead("Gara individuale/nazionale/sperim/naz19spe/fogli.pdf"), "OII 2019 Nazionale Sperimentale")
+  assert.equal(solFolderHead("altro/x.pdf"), "")
 })

@@ -13,7 +13,7 @@ import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
-import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear } from "./scripts/comp-label.mjs"
+import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear, sourceLabel, addLabel, insertLabel, solLabel, solFolderHead } from "./scripts/comp-label.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -239,7 +239,7 @@ function anchorSlug(s) {
 // with a lightweight placeholder div. Returns { newContent, items } or null.
 // Concept lists are big (a Skill can have 6000+) — moving them to JSON + client
 // pagination keeps the page HTML tiny and fast to load.
-function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus) {
+function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus, provaLabelOf) {
   const lines = content.split(/\r?\n/)
   const firstBullet = lines.findIndex((l) => /^- \[\[/.test(l))
   if (firstBullet < 0) return null
@@ -298,7 +298,10 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     let label = (m[3] || target).trim()
     if (h.startsWith("prove/")) {
       const comp = lookupStem(stemComp, target, h) || {}
-      label = fixCompTitle(fillYear(label, comp.year), comp.code, comp.country, comp.fy)
+      label = fixCompTitle(fillYear(label, comp.fy), comp.code, comp.country, comp.fy)
+      // the prova's label (etichetta, or the clean source label) right after the head:
+      // "OII 2014 Nazionale Teorica · Foglio risposte · Problema 1"
+      if (provaLabelOf) label = provaLabelOf(h, label)
     }
     items.push({
       h,
@@ -509,7 +512,13 @@ async function main() {
   const stemLevel = {}     // stem -> competition level (from `livello/<x>` tag, fallback frontmatter level)
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
   const stemComp = {}      // stem -> { code, country } (frontmatter comp_code/country) for cl labels
-  const outOfCorpus = { set: new Set(), rows: 0 }   // prove/<slug>[#<atom>] of `fuori_corpus: true` notes
+  const outOfCorpus = { set: new Set(), rows: 0 }
+  // `etichetta:` (optional, vault 08/10 round 4): a clean human label for a prova that
+  // the competition + year + level alone don't tell apart ("Foglio risposte", "Prova 1 ·
+  // La goccia", "Griglia di valutazione"). Read from the parent prova note; its quesiti
+  // inherit it unless they carry their own. Never a facet (not in level/filters).
+  const provaEti = new Map()   // stem-slug -> etichetta of the parent prova note
+  const atomEti = new Map()    // "prove/<stem-slug>#<atomid>" -> the atom's own etichetta   // prove/<slug>[#<atom>] of `fuori_corpus: true` notes
   const provaHead = new Map() // prova stem-slug -> { head, source, meta } (see retitle)
   const derivedYear = {}      // stem -> year derived from the source path when the vault says `year: na`
   // Bilingual: default-stem -> Map(lang -> {lang, body, mtime, rel}) hidden `secondary` translation siblings
@@ -587,15 +596,29 @@ async function main() {
       const am = stem.match(/^(.*)__([A-Za-z0-9]+)$/)
       outOfCorpus.set.add(am ? `prove/${sluggify(am[1])}#${am[2].toLowerCase()}` : `prove/${sluggify(stem)}`)
     }
+    const eti = g("etichetta").replace(/^''$/, "").trim()
+    if (eti && rel.split(path.sep)[0].toLowerCase() === "prove") {
+      const am = stem.match(/^(.*)__([A-Za-z0-9]+)$/)
+      if (am) atomEti.set(`prove/${sluggify(am[1])}#${am[2].toLowerCase()}`, eti)
+      else provaEti.set(sluggify(stem), eti)
+    }
     if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy, fy: dy || yr }
     // prova parents: title head without the source-file segment, for retitle() below
     if (rel.split(path.sep)[0].toLowerCase() === "prove" && !stem.includes("__")) {
       const h1 = (raw.slice(fm[0].length).match(/^#\s+(.+?)\s*$/m) || [, ""])[1].trim()
       const { title, source } = splitSourceName(h1)
       provaHead.set(sluggify(stem), {
-        head: fixCompTitle(fillYear(title, dy), g("comp_code"), g("country"), dy || yr), source, meta: { code: g("comp_code"), year: dy || g("year") },
+        head: fixCompTitle(fillYear(title, stemYear[stem]), g("comp_code"), g("country"), dy || yr), source, meta: { code: g("comp_code"), year: dy || g("year") },
       })
     }
+  }
+  // quesiti whose own note says `year: na` inherit their prova's year (frontmatter or
+  // derived): the prova title and its quesito titles then name the same year
+  for (const st of Object.keys(stemYear)) {
+    const i = st.indexOf("__")
+    if (i < 0 || stemYear[st]) continue
+    const py = stemYear[st.slice(0, i)]
+    if (py) { stemYear[st] = py; if (stemComp[st]) stemComp[st].fy = stemComp[st].fy && /^\d{4}$/.test(stemComp[st].fy) ? stemComp[st].fy : py }
   }
   // A title never shows the raw source file name ("OII 2015 2° Livello — 2liv15T Def.pdf",
   // "… — 1lv98 (2 files merged).pdf"): the segment is dropped, and only when the remaining
@@ -606,15 +629,18 @@ async function main() {
   const provaLabel = new Map()   // stem-slug -> label ("" = none)
   for (const [k, v] of provaHead)
     if (v.source) provaLabel.set(k, headCount.get(v.head) > 1 ? headLabel(v.head, v.source, v.meta) : "")
-  const retitle = (t, stemSlug) => {
-    const { title, source } = splitSourceName(t)
-    if (!source) return t
-    const label = provaLabel.get(stemSlug) || ""
-    if (!label) return title
-    const parts = title.split(" — ")
-    parts.splice(1, 0, label)
-    return parts.join(" — ")
+  // One format for every disambiguating label (etichetta, or the clean label made from
+  // the source name when two prove share a head): "<competition year level> · <label>",
+  // then " — Quesito N" on quesito titles. Without a year it still reads naturally:
+  // "Spagna · Prova 1 · Torre di perdigoni".
+  const labelOf = (stemSlug, ownEti = "") => ownEti || provaEti.get(stemSlug) || provaLabel.get(stemSlug) || ""
+  const retitle = (t, stemSlug, ownEti = "") => addLabel(splitSourceName(t).title, labelOf(stemSlug, ownEti))
+  // concept-list label: insert the prova's label after the head (before " · Problema N")
+  const clLabel = (h, label) => {
+    const [base, frag] = h.replace(/^prove\//, "").split("#")
+    return insertLabel(label, labelOf(base, frag ? atomEti.get(`prove/${base}#${frag}`) || "" : ""))
   }
+  const provaTitleOut = new Map()   // stem-slug -> final prova page title (for soluzioni titles)
 
   // basename-slug -> folder-slug, so concept-list wikilinks resolve to the right
   // folder (Prove atoms vs Topics/Methods/Skills/Clusters notes). Mirrors Quartz's
@@ -697,8 +723,12 @@ async function main() {
     }
     // full competition name instead of a 6-char cut comp_code ("Svizze 2011"); a missing
     // year/level (`na`, `''`) is omitted ("Russia na" -> "Russia"), with or without comp_code
-    if (data.title) data.title = fixCompTitle(fillYear(data.title, derivedYear[path.basename(rel, ".md")]), data.comp_code, data.country, derivedYear[path.basename(rel, ".md")] || data.year)
-    if (data.title && topDirOf(rel) === "prove") data.title = retitle(data.title, sluggify(path.basename(rel, ".md").split("__")[0]))
+    if (data.title) data.title = fixCompTitle(fillYear(data.title, stemYear[path.basename(rel, ".md")]), data.comp_code, data.country, stemYear[path.basename(rel, ".md")] || data.year)
+    if (data.title && topDirOf(rel) === "prove") {
+      const b = path.basename(rel, ".md"), ps = sluggify(b.split("__")[0])
+      data.title = retitle(data.title, ps, b.includes("__") ? atomEti.get(`prove/${ps}#${b.split("__")[1].toLowerCase()}`) : "")
+      if (!b.includes("__")) provaTitleOut.set(ps, data.title)
+    }
     let outContent = transform(content)
     // Big concept lists -> JSON + client pagination (tiny page HTML).
     const topDir = rel.split(path.sep)[0]
@@ -706,7 +736,7 @@ async function main() {
       // decorative concept icon (sober vector) at the top of the page, if one exists
       const iconFile = ICON_MANIFEST[path.basename(rel, ".md")]
       if (iconFile) outContent = `<img class="concept-icon" src="../static/concept-icons/${iconFile}" alt="" loading="lazy">\n\n` + outContent
-      const ex = extractConceptList(outContent, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus)
+      const ex = extractConceptList(outContent, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus, clLabel)
       if (ex) {
         const srcRel = "cl/" + clIdx + ".json"
         await fs.writeFile(path.join(CL_DIR, clIdx + ".json"), JSON.stringify(ex.items))
@@ -745,7 +775,9 @@ async function main() {
       const levelV = noVal(data.level) ? "" : String(data.level)
       const difficoltaV = tagVal(tags, "difficolta/")
       const tipoGaraV = tagVal(tags, "tipo-gara/")
-      const yearV = noVal(data.year) ? (derivedYear[path.basename(rel, ".md")] || "") : data.year
+      const yearV = noVal(data.year) ? (stemYear[path.basename(rel, ".md")] || "") : data.year
+      const hrefStem = String(href).replace(/^prove\//, "").split("#")[0]
+      const etichettaV = labelOf(hrefStem, atomEti.get(href) || "")
       const countryV = data.country ?? ""
       const compCodeV = data.comp_code ?? ""
       quesiti.push({
@@ -767,6 +799,7 @@ async function main() {
         tipo_gara: tipoGaraV,
         year: yearV,
         country: countryV,
+        etichetta: etichettaV,   // display/search text only, never a facet
       })
       buildTagMap(tagVotes, tags, {
         topics: topicsV, objects: objectsV, country: countryV,
@@ -796,7 +829,7 @@ async function main() {
       if (pf.data.title) title = pf.data.title
       const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       if (!pf.data.title && h1) title = h1[1].trim()
-      title = fixCompTitle(fillYear(title, derivedYear[path.basename(parentRel, ".md")]), pf.data.comp_code, pf.data.country, derivedYear[path.basename(parentRel, ".md")] || pf.data.year)
+      title = fixCompTitle(fillYear(title, stemYear[path.basename(parentRel, ".md")]), pf.data.comp_code, pf.data.country, stemYear[path.basename(parentRel, ".md")] || pf.data.year)
       if (Array.isArray(pf.data.tags)) ptags = pf.data.tags
     }
     const blocks = []
@@ -806,8 +839,8 @@ async function main() {
       // atom title: frontmatter title, else atom body's own H1 (captured before
       // it's stripped below), else fall back to the raw atomId.
       const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
-      const atomYear = derivedYear[a.base] || (parentRel ? derivedYear[path.basename(parentRel, ".md")] : "")
-      const atomTitle = retitle(fixCompTitle(fillYear(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), atomYear), pf.data.comp_code, pf.data.country, atomYear || pf.data.year), stemSlug)
+      const atomYear = stemYear[a.base] || (parentRel ? stemYear[path.basename(parentRel, ".md")] : "")
+      const atomTitle = retitle(fixCompTitle(fillYear(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), atomYear), pf.data.comp_code, pf.data.country, atomYear || pf.data.year), stemSlug, atomEti.get(`prove/${stemSlug}#${a.atomId}`) || "")
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)
@@ -840,12 +873,92 @@ async function main() {
       title = fixCompTitle(title, first.comp_code, first.country, first.year)
     }
     title = retitle(fixCompTitle(title, "", ""), stemSlug)   // no parent / no comp_code: still drop `na` / `''`
+    provaTitleOut.set(stemSlug, title)
     const data = { title, tipo: "prova", tags: ptags }
     const body = mount + "\n\n" + blocks.join("\n\n")
     const dest = path.join(CONTENT, "prove", `${stemSlug}.md`)
     await fs.mkdir(path.dirname(dest), { recursive: true })
     await fs.writeFile(dest, matter.stringify(body, data))
     mdWritten++
+  }
+
+  // --- soluzioni titles: never the raw file name ("Soluzioni — 1liv15S def.pdf") ---
+  // The linked prova, in order of evidence: the soluzione's own `solves:`, a prova whose
+  // "**Soluzioni:**" line links it, else its "## Prove collegate (stessa cartella)" list
+  // (narrowed to the prove of the year named in its file name, when that matches any).
+  // One prova -> "<prova title> · Soluzioni"; several -> their common words
+  // (competition [+ year]) + the clean label of the file name, if any, + "Soluzioni".
+  const solStats = { total: 0, single: 0, common: 0, folder: 0, none: 0 }
+  {
+    const wl = (txt) => [...String(txt).matchAll(/\[\[([^\]|#]+)/g)].map((m) => m[1].trim())
+    const directSol = new Map()   // nfc(soluzione basename) -> [prova stem-slug]
+    for (const rel of files) {
+      if (topDirOf(rel) !== "prove" || !rel.endsWith(".md") || path.basename(rel).includes("__")) continue
+      const raw = await fs.readFile(vaultPath(rel), "utf8")
+      for (const line of raw.match(/^\*\*Soluzioni:\*\*.*$/gm) || [])
+        for (const t of wl(line)) {
+          const k = nfc(path.basename(t))
+          if (!directSol.has(k)) directSol.set(k, [])
+          directSol.get(k).push(sluggify(path.basename(rel, ".md")))
+        }
+    }
+    const compWords = new Map()   // lower-case competition word of a prova head -> as shown
+    for (const t of provaTitleOut.values()) { const w = t.split(" — ")[0].split(" · ")[0].split(" ")[0]; if (w) compWords.set(w.toLowerCase(), w) }
+    for (const rel of files) {
+      if (topDirOf(rel) !== "soluzioni" || !rel.endsWith(".md")) continue
+      const dest = path.join(CONTENT, sluggify(rel.split(path.sep).join("/")))
+      if (!existsSync(dest)) continue
+      const raw = await fs.readFile(vaultPath(rel), "utf8")
+      const { data: sd, content: sc } = parseFrontmatter(raw)
+      const base = path.basename(rel, ".md")
+      let linked = sd.solves ? [sluggify(String(sd.solves))] : directSol.get(nfc(base)) || []
+      if (!linked.length) {
+        const sec = sc.split(/^## Prove collegate.*$/m)[1]
+        if (sec) linked = wl(sec.split(/^## /m)[0]).map((t) => sluggify(path.basename(t)))
+      }
+      linked = [...new Set(linked)].filter((k) => provaTitleOut.has(k))
+      const pdfBase = path.basename(String(sd.pdf || base)).replace(/\.pdf$/i, "")
+      const yrs = [...new Set(pdfBase.match(/(?<!\d)(?:19|20)\d{2}(?!\d)/g) || [])]
+      const fy = yrs.length === 1 ? yrs[0] : ""
+      const headOf = (k) => provaTitleOut.get(k).split(" — ")[0]
+      const firstOf = (k) => headOf(k).split(" ")[0].toLowerCase()
+      // a competition named in the file name ("INAO2017-…", "2010_FmaSolutions") picks its prove
+      const fileComps = solLabel(pdfBase).split(" · ").map((p) => p.split(" ")[0].toLowerCase()).filter((w) => compWords.has(w))
+      if (linked.length > 1 && fileComps.length) {
+        const byComp = linked.filter((k) => fileComps.includes(firstOf(k)))
+        if (byComp.length) linked = byComp
+      }
+      if (linked.length > 1 && yrs.length) {
+        const sameYear = linked.filter((k) => yrs.some((y) => headOf(k).split(" · ")[0].split(" ").includes(y)))
+        if (sameYear.length) linked = sameYear
+      }
+      let head = ""
+      if (linked.length === 1) {
+        head = headOf(linked[0])
+        solStats.single++
+      } else if (linked.length) {
+        const heads = linked.map((k) => headOf(k).split(" · ")[0].split(" "))
+        const lcp = []
+        for (let i = 0; heads.every((h) => h[i] !== undefined && h[i] === heads[0][i]); i++) lcp.push(heads[0][i])
+        if (lcp.length && fy && !lcp.some((w) => /^\d{4}$/.test(w))) lcp.splice(1, 0, fy)
+        head = lcp.join(" ")
+        if (head) solStats.common++
+      }
+      if (!head) {
+        // no linked prova, or linked prove of different competitions: the competition the
+        // file name names, else the one its PDF folder names (solFolderHead)
+        head = fileComps.length ? [compWords.get(fileComps[0]), fy].filter(Boolean).join(" ") : solFolderHead(sd.pdf, fy)
+        if (head) solStats.folder++
+        else solStats.none++
+      }
+      const lab = solLabel(pdfBase, head)
+      let t = [head, lab].filter(Boolean).join(" · ")
+      t = t ? (/(^| · )Soluzioni( · |$)/.test(t) ? t : t + " · Soluzioni") : "Soluzioni"
+      const cur = matter(await fs.readFile(dest, "utf8"))
+      cur.data.title = t
+      await fs.writeFile(dest, matter.stringify(cur.content, cur.data))
+      solStats.total++
+    }
   }
 
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
@@ -981,6 +1094,7 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
 
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists, merged ${sibStats.merged} translation siblings (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`)
   console.log(`translation back-links [[<translation_of>]] dropped: ${sibStats.backlinkBlocks} blocks, ${sibStats.backlinkLines} lines (${sibStats.backlinkNew} blocks changed vs the trailing-only rule)`)
+  console.log(`etichetta: ${provaEti.size} prove, ${atomEti.size} quesiti with their own; soluzioni titles: ${solStats.total} (${solStats.single} from one prova, ${solStats.common} from shared words, ${solStats.folder} from the competition in the file name or PDF folder, ${solStats.none} with no competition)`)
   console.log(`fuori_corpus notes: ${outOfCorpus.set.size} (prove/atoms), ${outOfCorpus.rows} concept-list rows dropped`)
   console.log(`source file names dropped from ${provaLabel.size} prova titles (${[...provaLabel.values()].filter(Boolean).length} with a clean label)`)
 }

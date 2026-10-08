@@ -2,7 +2,7 @@
 // file name; translation siblings drop the vault's lone `[[<translation_of>]]` line.
 import test from "node:test"
 import assert from "node:assert/strict"
-import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel } from "../scripts/comp-label.mjs"
+import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear } from "../scripts/comp-label.mjs"
 import { stripLoneBacklink, mergeSiblings, newSiblingStats } from "../scripts/siblings.mjs"
 
 test("na / '' placeholders are dropped from the title head only", () => {
@@ -58,4 +58,14 @@ test("mergeSiblings counts the dropped back-link lines", () => {
   assert.equal(stats.backlinkBlocks, 1)
   assert.equal(stats.backlinkLines, 1)
   assert.equal(stats.backlinkNew, 1)
+})
+
+test("missing OII year only from the naz<yy> source folder", () => {
+  assert.equal(deriveYear("OII", "Gara individuale/nazionale/sperim/naz02spd/naz02spe.pdf"), "2002")
+  assert.equal(deriveYear("OII", "Gara individuale/nazionale/teorica/Naz25-TEO/Naz25T.pdf"), "2025")
+  assert.equal(deriveYear("OII", "Gara individuale/nazionale/teorica/naz2014th/Naz14F def.pdf"), "")
+  assert.equal(deriveYear("Spagna", "gare di altri paesi/Spagna/RSF/P1_Lagota.pdf"), "")
+  assert.equal(fillYear("OII na Nazionale Sperimentale — Problema 1", "2002"), "OII 2002 Nazionale Sperimentale — Problema 1")
+  assert.equal(fillYear("OII 2015 2° Livello", "2002"), "OII 2015 2° Livello")
+  assert.equal(fillYear("Russia na", ""), "Russia na")
 })

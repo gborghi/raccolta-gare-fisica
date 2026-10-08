@@ -190,3 +190,27 @@ export function headLabel(head, source, meta = {}) {
     .map((p) => p.split(" ").filter((w, i, ws) => !(ws.length > 1 && /^(Sperimentale|Teorica)$/.test(w) && h.includes(w.toLowerCase()))).join(" "))
     .join(" · ")
 }
+
+// ---------------------------------------------------------------------------
+// Missing year. The OII national papers of the "naz*spe" series carry `year: na`, but
+// their source path names the year unambiguously: ".../nazionale/sperim/naz02spd/…",
+// ".../nazionale/teorica/Naz25-TEO/…" (two digits after "naz", always 2000-2099 here).
+// Only that evidence is used, only for comp_code OII, and only when the year is missing;
+// a real year in the vault always wins. Anything else stays without a year (omitted).
+export function deriveYear(code, pdf) {
+  if (String(code ?? "").trim() !== "OII") return ""
+  const m = String(pdf ?? "").match(/(?:^|\/)nazionale\/(?:sperim|teorica)\/naz(\d{2})(?![\d])/i)
+  return m ? "20" + m[1] : ""
+}
+
+/** Put a derived year in place of the `na` placeholder right after the competition ("OII na Nazionale" -> "OII 2002 Nazionale"). */
+export function fillYear(title, year) {
+  const t = String(title ?? "")
+  if (!year) return t
+  const m = HEAD_END.exec(t)
+  const cut = m ? m.index : t.length
+  const words = t.slice(0, cut).split(" ")
+  if (words.length < 2 || words[1] !== "na") return t
+  words[1] = String(year)
+  return words.join(" ") + t.slice(cut)
+}

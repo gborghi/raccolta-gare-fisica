@@ -13,7 +13,7 @@ import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
-import { fixCompTitle, fixCompCode, splitSourceName, headLabel } from "./scripts/comp-label.mjs"
+import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear } from "./scripts/comp-label.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -293,7 +293,7 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     let label = (m[3] || target).trim()
     if (h.startsWith("prove/")) {
       const comp = lookupStem(stemComp, target, h) || {}
-      label = fixCompTitle(label, comp.code, comp.country)
+      label = fixCompTitle(fillYear(label, comp.year), comp.code, comp.country)
     }
     items.push({
       h,
@@ -504,6 +504,7 @@ async function main() {
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
   const stemComp = {}      // stem -> { code, country } (frontmatter comp_code/country) for cl labels
   const provaHead = new Map() // prova stem-slug -> { head, source, meta } (see retitle)
+  const derivedYear = {}      // stem -> year derived from the source path when the vault says `year: na`
   // Bilingual: default-stem -> Map(lang -> {lang, body, mtime, rel}) hidden `secondary` translation siblings
   // (emitted by graphify-out/emit_siblings.py). Merged into their default quesito
   // page below; never emitted as their own page / indexed / graphed.
@@ -571,14 +572,17 @@ async function main() {
     if (!lv || lv === "''" || lv.toLowerCase() === "na") lv = deriveLevel(g("pdf"), stem, g("comp_code"))
     stemLevel[stem] = lv
     const yr = g("year")
-    stemYear[stem] = /^\d{4}$/.test(yr) ? yr : ""
-    if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country") }
+    // year missing (`na`): derived only from unambiguous source-path evidence (deriveYear)
+    const dy = /^\d{4}$/.test(yr) ? "" : deriveYear(g("comp_code"), g("pdf"))
+    if (dy) derivedYear[stem] = dy
+    stemYear[stem] = /^\d{4}$/.test(yr) ? yr : dy
+    if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy }
     // prova parents: title head without the source-file segment, for retitle() below
     if (rel.split(path.sep)[0].toLowerCase() === "prove" && !stem.includes("__")) {
       const h1 = (raw.slice(fm[0].length).match(/^#\s+(.+?)\s*$/m) || [, ""])[1].trim()
       const { title, source } = splitSourceName(h1)
       provaHead.set(sluggify(stem), {
-        head: fixCompTitle(title, g("comp_code"), g("country")), source, meta: { code: g("comp_code"), year: g("year") },
+        head: fixCompTitle(fillYear(title, dy), g("comp_code"), g("country")), source, meta: { code: g("comp_code"), year: dy || g("year") },
       })
     }
   }
@@ -682,7 +686,7 @@ async function main() {
     }
     // full competition name instead of a 6-char cut comp_code ("Svizze 2011"); a missing
     // year/level (`na`, `''`) is omitted ("Russia na" -> "Russia"), with or without comp_code
-    if (data.title) data.title = fixCompTitle(data.title, data.comp_code, data.country)
+    if (data.title) data.title = fixCompTitle(fillYear(data.title, derivedYear[path.basename(rel, ".md")]), data.comp_code, data.country)
     if (data.title && topDirOf(rel) === "prove") data.title = retitle(data.title, sluggify(path.basename(rel, ".md").split("__")[0]))
     let outContent = transform(content)
     // Big concept lists -> JSON + client pagination (tiny page HTML).
@@ -730,7 +734,7 @@ async function main() {
       const levelV = noVal(data.level) ? "" : String(data.level)
       const difficoltaV = tagVal(tags, "difficolta/")
       const tipoGaraV = tagVal(tags, "tipo-gara/")
-      const yearV = noVal(data.year) ? "" : data.year
+      const yearV = noVal(data.year) ? (derivedYear[path.basename(rel, ".md")] || "") : data.year
       const countryV = data.country ?? ""
       const compCodeV = data.comp_code ?? ""
       quesiti.push({
@@ -781,7 +785,7 @@ async function main() {
       if (pf.data.title) title = pf.data.title
       const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       if (!pf.data.title && h1) title = h1[1].trim()
-      title = fixCompTitle(title, pf.data.comp_code, pf.data.country)
+      title = fixCompTitle(fillYear(title, derivedYear[path.basename(parentRel, ".md")]), pf.data.comp_code, pf.data.country)
       if (Array.isArray(pf.data.tags)) ptags = pf.data.tags
     }
     const blocks = []
@@ -791,7 +795,8 @@ async function main() {
       // atom title: frontmatter title, else atom body's own H1 (captured before
       // it's stripped below), else fall back to the raw atomId.
       const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
-      const atomTitle = retitle(fixCompTitle(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), pf.data.comp_code, pf.data.country), stemSlug)
+      const atomYear = derivedYear[a.base] || (parentRel ? derivedYear[path.basename(parentRel, ".md")] : "")
+      const atomTitle = retitle(fixCompTitle(fillYear(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), atomYear), pf.data.comp_code, pf.data.country), stemSlug)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)

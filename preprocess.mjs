@@ -13,7 +13,7 @@ import matter from "gray-matter"
 import { stripLocalPdfLinks } from "./scripts/pdf-links.mjs"
 import { addSibling, mergeSiblings, newSiblingStats } from "./scripts/siblings.mjs"
 import { nationInfo } from "./scripts/nation.mjs"
-import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear, sourceLabel, addLabel, insertLabel, solLabel, solFolderHead } from "./scripts/comp-label.mjs"
+import { fixCompTitle, fixCompCode, splitSourceName, headLabel, fillYear, deriveYear, sourceLabel, addLabel, insertLabel, solLabel, solFolderHead, alignCompWord } from "./scripts/comp-label.mjs"
 
 const NUL = String.fromCharCode(0)
 
@@ -155,6 +155,7 @@ function sluggify(s) {
 }
 const lookupStem = (map, target, h) => lookupStemRaw(map, target, h, sluggify)
 const topDirOf = (rel) => rel.split(path.sep)[0].toLowerCase()
+const knownCodes = new Set()   // every comp_code in the vault (alignCompWord)
 function slugFromRel(rel) {
   return sluggify(rel.replace(/\.md$/, "").split(path.sep).join("/"))
 }
@@ -298,7 +299,7 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     let label = (m[3] || target).trim()
     if (h.startsWith("prove/")) {
       const comp = lookupStem(stemComp, target, h) || {}
-      label = fixCompTitle(fillYear(label, comp.fy), comp.code, comp.country, comp.fy)
+      label = fixCompTitle(alignCompWord(fillYear(label, comp.fy), comp.code, comp.country, comp.h1w, knownCodes), comp.code, comp.country, comp.fy)
       // the prova's label (etichetta, or the clean source label) right after the head:
       // "OII 2014 Nazionale Teorica · Foglio risposte · Problema 1"
       if (provaLabelOf) label = provaLabelOf(h, label)
@@ -602,7 +603,11 @@ async function main() {
       if (am) atomEti.set(`prove/${sluggify(am[1])}#${am[2].toLowerCase()}`, eti)
       else provaEti.set(sluggify(stem), eti)
     }
-    if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy, fy: dy || yr }
+    if (g("comp_code")) {
+      const h1w = ((raw.slice(fm[0].length).match(/^#\s+(\S+)/m) || [])[1] || "")
+      stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy, fy: dy || yr, h1w }
+      knownCodes.add(g("comp_code"))
+    }
     // prova parents: title head without the source-file segment, for retitle() below
     if (rel.split(path.sep)[0].toLowerCase() === "prove" && !stem.includes("__")) {
       const h1 = (raw.slice(fm[0].length).match(/^#\s+(.+?)\s*$/m) || [, ""])[1].trim()

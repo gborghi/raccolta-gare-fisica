@@ -381,3 +381,23 @@ export function solFolderHead(pdf, fileYear = "") {
   if (!y) { const m = p.match(/\/(?:int|naz)(\d{2})(?!\d)/i); if (m) y = (Number(m[1]) > 60 ? "19" : "20") + m[1] }
   return [comp, y, rest].filter(Boolean).join(" ")
 }
+
+/**
+ * Concept-list aliases are written in the topic notes and are not rewritten when a prova's
+ * competition is corrected (NBPhO notes: comp_code BPhO -> Nordic, H1 "Nordic 2024", the
+ * aliases still "BPhO 2024 · Problema 1"). When the note's own H1 agrees with its
+ * frontmatter comp_code and the alias starts with a DIFFERENT competition code, the alias's
+ * first word becomes the note's competition. Evidence: the note's frontmatter and H1 only;
+ * an H1 that disagrees with its comp_code (e.g. "OII 2003" under IPhO) leaves the alias alone.
+ */
+export function alignCompWord(label, code, country, h1Word, knownCodes) {
+  const t = String(label ?? "")
+  const c = String(code ?? "").trim()
+  if (!c || !h1Word) return t
+  const full = compLabel(c, country)
+  const own = new Set([c, full, String(country ?? "").trim()].filter(Boolean).map((x) => x.toLowerCase()))
+  if (!own.has(String(h1Word).toLowerCase())) return t
+  const w = t.split(" ")[0]
+  if (!w || own.has(w.toLowerCase()) || !knownCodes?.has(w)) return t
+  return full + t.slice(w.length)
+}

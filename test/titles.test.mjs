@@ -2,7 +2,7 @@
 // file name; translation siblings drop the vault's lone `[[<translation_of>]]` line.
 import test from "node:test"
 import assert from "node:assert/strict"
-import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear, addLabel, insertLabel, solLabel, solFolderHead } from "../scripts/comp-label.mjs"
+import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear, addLabel, insertLabel, solLabel, solFolderHead, alignCompWord } from "../scripts/comp-label.mjs"
 import { stripLoneBacklink, mergeSiblings, newSiblingStats } from "../scripts/siblings.mjs"
 
 test("na / '' placeholders are dropped from the title head only", () => {
@@ -126,4 +126,12 @@ test("soluzioni without a linked prova: competition from the PDF folder", () => 
   assert.equal(solFolderHead("Gara individuale/ipho/sperimentale/int16sit/__MACOSX/._E1.pdf"), "IPhO 2016")
   assert.equal(solFolderHead("Gara individuale/nazionale/sperim/naz19spe/fogli.pdf"), "OII 2019 Nazionale Sperimentale")
   assert.equal(solFolderHead("altro/x.pdf"), "")
+})
+
+test("concept-list alias with a stale competition code follows the note's own comp_code + H1", () => {
+  const codes = new Set(["BPhO", "Nordic", "OII", "IPhO"])
+  assert.equal(alignCompWord("BPhO 2024 · Problema 1", "Nordic", "Nordic-Baltic", "Nordic", codes), "Nordic-Baltic 2024 · Problema 1")
+  assert.equal(alignCompWord("OII 2003 · Problema 1", "IPhO", "International", "OII", codes), "OII 2003 · Problema 1")
+  assert.equal(alignCompWord("BPhO 2010", "BPhO", "United Kingdom", "BPhO", codes), "BPhO 2010")
+  assert.equal(alignCompWord("Spagna 2019 — Quesito 1", "Spagna", "Spain", "Spagna", codes), "Spagna 2019 — Quesito 1")
 })

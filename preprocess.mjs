@@ -239,7 +239,7 @@ function anchorSlug(s) {
 // with a lightweight placeholder div. Returns { newContent, items } or null.
 // Concept lists are big (a Skill can have 6000+) — moving them to JSON + client
 // pagination keeps the page HTML tiny and fast to load.
-function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp) {
+function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus) {
   const lines = content.split(/\r?\n/)
   const firstBullet = lines.findIndex((l) => /^- \[\[/.test(l))
   if (firstBullet < 0) return null
@@ -290,6 +290,10 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     if (am && (dir === "prove" || dir == null)) h = `prove/${am[1].split("/").pop()}#${am[2]}`
     // prova rows: same title rule as the prova pages (full competition name, missing
     // year/level omitted: "Russia na · Problema 1" -> "Russia · Problema 1")
+    // notes marked `fuori_corpus: true` (chemistry/biology/informatics papers, the
+    // Hindi duplicate of INAO2024) keep their own page but not their cluster/topic
+    // assignments: no row in any concept list (whole prova, or that single atom)
+    if (outOfCorpus && (outOfCorpus.set.has(h.split("#")[0]) || outOfCorpus.set.has(h))) { outOfCorpus.rows++; continue }
     let label = (m[3] || target).trim()
     if (h.startsWith("prove/")) {
       const comp = lookupStem(stemComp, target, h) || {}
@@ -503,6 +507,7 @@ async function main() {
   const stemLevel = {}     // stem -> competition level (from `livello/<x>` tag, fallback frontmatter level)
   const stemYear = {}      // stem -> competition year (frontmatter `year`)
   const stemComp = {}      // stem -> { code, country } (frontmatter comp_code/country) for cl labels
+  const outOfCorpus = { set: new Set(), rows: 0 }   // prove/<slug>[#<atom>] of `fuori_corpus: true` notes
   const provaHead = new Map() // prova stem-slug -> { head, source, meta } (see retitle)
   const derivedYear = {}      // stem -> year derived from the source path when the vault says `year: na`
   // Bilingual: default-stem -> Map(lang -> {lang, body, mtime, rel}) hidden `secondary` translation siblings
@@ -576,6 +581,10 @@ async function main() {
     const dy = /^\d{4}$/.test(yr) ? "" : deriveYear(g("comp_code"), g("pdf"))
     if (dy) derivedYear[stem] = dy
     stemYear[stem] = /^\d{4}$/.test(yr) ? yr : dy
+    if (/^true$/i.test(g("fuori_corpus")) && rel.split(path.sep)[0].toLowerCase() === "prove") {
+      const am = stem.match(/^(.*)__([A-Za-z0-9]+)$/)
+      outOfCorpus.set.add(am ? `prove/${sluggify(am[1])}#${am[2].toLowerCase()}` : `prove/${sluggify(stem)}`)
+    }
     if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy, fy: dy || yr }
     // prova parents: title head without the source-file segment, for retitle() below
     if (rel.split(path.sep)[0].toLowerCase() === "prove" && !stem.includes("__")) {
@@ -695,7 +704,7 @@ async function main() {
       // decorative concept icon (sober vector) at the top of the page, if one exists
       const iconFile = ICON_MANIFEST[path.basename(rel, ".md")]
       if (iconFile) outContent = `<img class="concept-icon" src="../static/concept-icons/${iconFile}" alt="" loading="lazy">\n\n` + outContent
-      const ex = extractConceptList(outContent, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp)
+      const ex = extractConceptList(outContent, stemFlag, noteFolder, stemCountry, stemLevel, stemYear, stemComp, outOfCorpus)
       if (ex) {
         const srcRel = "cl/" + clIdx + ".json"
         await fs.writeFile(path.join(CL_DIR, clIdx + ".json"), JSON.stringify(ex.items))
@@ -970,6 +979,7 @@ Seleziona uno o più tag per filtrare i ${quesiti.length} quesiti classificati. 
 
   console.log(`md written ${mdWritten}, assets copied ${assetsCopied}, indexed ${quesiti.length} quesiti, paginated ${pagedLists} concept lists, merged ${sibStats.merged} translation siblings (skipped: ${sibStats.sameLang} same-lang, ${sibStats.dupes} duplicate-lang, ${sibStats.noLang} no-lang)`)
   console.log(`translation back-links [[<translation_of>]] dropped: ${sibStats.backlinkBlocks} blocks, ${sibStats.backlinkLines} lines (${sibStats.backlinkNew} blocks changed vs the trailing-only rule)`)
+  console.log(`fuori_corpus notes: ${outOfCorpus.set.size} (prove/atoms), ${outOfCorpus.rows} concept-list rows dropped`)
   console.log(`source file names dropped from ${provaLabel.size} prova titles (${[...provaLabel.values()].filter(Boolean).length} with a clean label)`)
 }
 main()

@@ -62,8 +62,12 @@ export function dropPlaceholders(title) {
  * Idempotent.
  */
 export function fixCompTitle(title, code, country, year) {
-  return dropPlaceholders(fixCompCode(alignHead(title, code, country, year), code, country))
+  return dropPlaceholders(fixCompCode(alignHead(title, code, country, year), code, country)).replace(DOUBLE_SPACE_SEP, "$1 — ")
 }
+// The translation siblings' H1s ("# Spagna 2021  Quesito 1", "# Spain 2021  Quesito 1")
+// lost their " — " to a double space. Those H1s are dropped by mergeSiblings, but a
+// title or alias of that shape anywhere gets its separator back.
+const DOUBLE_SPACE_SEP = /(\S) {2,}(?=(?:Quesito|Problema|Question|Problem) \d)/g
 
 // The H1s and concept-list aliases were written by the vault backport from an older
 // country/comp_code, and were not rewritten when a note's frontmatter was corrected

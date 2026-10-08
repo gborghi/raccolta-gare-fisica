@@ -10,7 +10,7 @@ test("na / '' placeholders are dropped from the title head only", () => {
   assert.equal(fixCompTitle("OII na Nazionale Sperimentale", "OII", "Italia"), "OII Nazionale Sperimentale")
   assert.equal(fixCompTitle("Giappo na · Problema 5", "Giappo", "Giappone"), "Giappone · Problema 5")
   assert.equal(fixCompTitle("IPhO na '' · Problema 3", "IPhO", ""), "IPhO · Problema 3")
-  assert.equal(fixCompTitle("I.P.O. na '  Quesito 4", "", ""), "I.P.O.  Quesito 4")
+  assert.equal(fixCompTitle("I.P.O. na '  Quesito 4", "", ""), "I.P.O. — Quesito 4")
   assert.equal(fixCompTitle("Argent na allenamento — Problem 2", "Argent", "Argentina"), "Argentina allenamento — Problem 2")
   assert.equal(fixCompTitle("OBF 2011 ''", "OBF", ""), "OBF 2011")
   // body text after the head is never touched; the competition word is never dropped
@@ -78,4 +78,10 @@ test("stale country head rebuilt from the note's own frontmatter (never from the
   assert.equal(fixCompTitle("Russia na", "Russia", "Russia", "na"), "Russia")
   assert.equal(fixCompTitle("OII 2003 · Problema 1", "IPhO", "International", "2003"), "OII 2003 · Problema 1")
   assert.equal(fixCompTitle("Spagna 2021 — Quesito 1", "Spagna", "Spain", "2021"), "Spagna 2021 — Quesito 1")
+})
+
+test("double-space separator before Quesito/Problema becomes an em dash", () => {
+  assert.equal(fixCompTitle("Spagna 2021  Quesito 1", "Spagna", "Spagna", "2021"), "Spagna 2021 — Quesito 1")
+  assert.equal(fixCompTitle("Argent 2019 Locale  Quesito 3", "Argent", "Argentina", "2019"), "Argentina 2019 Locale — Quesito 3")
+  assert.equal(fixCompTitle("Soluzioni — fogli risposte bis  SPE19.pdf", "", ""), "Soluzioni — fogli risposte bis  SPE19.pdf")
 })

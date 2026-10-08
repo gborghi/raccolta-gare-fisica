@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale
+title: OII 2022 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2022 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -126,7 +126,7 @@ $$m = \frac{M}{\alpha \tan \alpha} \quad \text{con} \quad \alpha = \frac{\pi T_M
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2022 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -183,7 +183,7 @@ $$T = 2\pi\sqrt{\frac{m + M/c}{k}}\,. \quad (3)$$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2022 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -225,7 +225,7 @@ approximates well the experimental measurements of the period.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2022 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -278,7 +278,7 @@ are compatible within the measurement uncertainties.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2022 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/elasticity-e-materials,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -362,7 +362,7 @@ Take the measurements using the four combinations of the heaviest washers that t
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/conservation-of-energy,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2022 Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/conservation-of-energy,topic/oscillations-e-waves,argomento/onde-e-oscillazioni,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

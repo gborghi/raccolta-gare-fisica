@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale
+title: OII 2015 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/geometric-optics,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/resistor,object/battery,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2015 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/geometric-optics,topic/circuits,topic/electromagnetic-induction,argomento/meccanica,object/resistor,object/battery,object/lens"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +56,7 @@ The following information is provided: Voltage and flow of radiant energy**
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/electrostatics,argomento/meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2015 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/electrostatics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -89,7 +89,7 @@ The following information is provided: Voltage and flow of radiant energy**
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2015 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -136,7 +136,7 @@ The following information is provided for in Part II: Energy flow through glass*
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2015 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/geometric-optics,topic/wave-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -165,7 +165,7 @@ The following information is provided for in Part II: Energy flow through glass*
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2015 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,7 +202,7 @@ Each window has two faces, each of which reflects 4% of the incident flow, thus 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2015 Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -231,7 +231,7 @@ Each window has two faces, each of which reflects 4% of the incident flow, thus 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2015 Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/geometric-optics,argomento/meccanica,object/diffraction-grating"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -281,7 +281,7 @@ $$n\lambda = p \sin\theta$$
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII Nazionale Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/modern-quantum-physics,argomento/meccanica,object/diffraction-grating"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2015 Nazionale Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/wave-optics,topic/modern-quantum-physics,argomento/meccanica,object/diffraction-grating"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

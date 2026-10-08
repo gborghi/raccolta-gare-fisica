@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale
+title: OII 2017 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/inclined-plane,object/disk"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2017 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,argomento/meccanica,object/inclined-plane,object/disk"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,7 +64,7 @@ The following table shows the results of the calculation of the total value of t
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetic-induction,topic/newtonian-mechanics,argomento/meccanica,object/magnet,object/inclined-plane"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2017 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetic-induction,topic/newtonian-mechanics,argomento/meccanica,object/magnet,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -123,7 +123,7 @@ $$k\,v_{\text{regime}} = m_m g (\sin\theta - \mu_m \cos\theta)$$
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2017 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -168,7 +168,7 @@ $$T = 2\pi\sqrt{\frac{I}{M B}}\quad (1)$$ where $I$ is the moment of inertia of 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2017 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -212,7 +212,7 @@ $$\frac{B_m}{B_T} = 1 + \frac{T_0^2}{T^2}$$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2017 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/magnetism,topic/oscillations-e-waves,argomento/meccanica,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale — Testo finale
+title: OII 2009 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Testo finale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/magnetism,argomento/meccanica,object/magnet"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2009 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/magnetism,argomento/meccanica,object/magnet"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,7 +70,7 @@ b. Does the Earth's magnetic field affect the measurement? The answer must be re
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Testo finale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/magnetism,argomento/meccanica,object/magnet,object/pendulum"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2009 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/magnetism,argomento/meccanica,object/magnet,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -149,7 +149,7 @@ Experimental test – National Competition Physics Olympiad 2009 2
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Testo finale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/conservation-of-energy,topic/magnetism,argomento/meccanica,object/magnet,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2009 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/conservation-of-energy,topic/magnetism,argomento/meccanica,object/magnet,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -196,7 +196,7 @@ alla situazione iniziale: $\phi =10^{\circ}$; $\theta$ =0.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Testo finale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/electromagnetic-induction,argomento/meccanica,object/magnet,object/inclined-plane"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2009 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/electromagnetic-induction,argomento/meccanica,object/magnet,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

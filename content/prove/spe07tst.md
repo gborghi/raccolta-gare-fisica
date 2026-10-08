@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale
+title: OII 2007 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/elasticity-e-materials,argomento/meccanica,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2007 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/multi,topic/oscillations-e-waves,topic/rotational-dynamics,topic/elasticity-e-materials,argomento/meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

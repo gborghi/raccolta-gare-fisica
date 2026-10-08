@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale
+title: OII 2008 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/meccanica,object/inclined-plane"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2008 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/rotational-dynamics,argomento/meccanica,object/inclined-plane"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

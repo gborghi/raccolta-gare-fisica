@@ -1,5 +1,5 @@
 ---
-title: OII Nazionale Sperimentale
+title: OII 2024 Nazionale Sperimentale
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2024 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -66,7 +66,7 @@ The following shall be added to the list of the following:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/fisica-moderna,object/pendulum"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2024 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/fisica-moderna,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -109,7 +109,7 @@ The 60 cm millimeter ruler must be used to obtain useful information for the cal
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum,object/rod"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2024 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -175,7 +175,7 @@ Attention: although the size of the washer loads is within a relatively wide ran
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/fisica-moderna,object/pendulum"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2024 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/oscillations-e-waves,topic/newtonian-mechanics,argomento/fisica-moderna,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -224,7 +224,7 @@ National competition  11 April 2024 Experimental Test
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2024 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum,object/rod"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,7 +269,7 @@ T0
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2024 Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -320,7 +320,7 @@ Figure 3
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2024 Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/oscillations-e-waves,argomento/fisica-moderna,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

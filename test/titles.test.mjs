@@ -2,7 +2,7 @@
 // file name; translation siblings drop the vault's lone `[[<translation_of>]]` line.
 import test from "node:test"
 import assert from "node:assert/strict"
-import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear, addLabel, insertLabel, solLabel, solFolderHead, alignCompWord } from "../scripts/comp-label.mjs"
+import { fixCompTitle, dropPlaceholders, splitSourceName, sourceLabel, headLabel, deriveYear, fillYear, addLabel, insertLabel, solLabel, solFolderHead, alignCompWord, fixCompTitleNoAlign } from "../scripts/comp-label.mjs"
 import { stripLoneBacklink, mergeSiblings, newSiblingStats } from "../scripts/siblings.mjs"
 
 test("na / '' placeholders are dropped from the title head only", () => {
@@ -135,4 +135,11 @@ test("concept-list alias with a stale competition code follows the note's own co
   assert.equal(alignCompWord("BPhO 2010", "BPhO", "United Kingdom", "BPhO", codes), "BPhO 2010")
   assert.equal(alignCompWord("OII 2016 Teorica · Problema 02", "IPhO", "International", "IPhO", codes), "OII 2016 Teorica · Problema 02")
   assert.equal(alignCompWord("Spagna 2019 — Quesito 1", "Spagna", "Spain", "Spagna", codes), "Spagna 2019 — Quesito 1")
+})
+
+test("build-time pass never re-aligns a head from stale tags (Romania 2019 stays)", () => {
+  assert.equal(fixCompTitleNoAlign("Romania 2019", "Russia", "Russia"), "Romania 2019")
+  assert.equal(fixCompTitleNoAlign("Estonia 2018 · 200 problemi · 2012–2018", "Russia", "Russia"), "Estonia 2018 · 200 problemi · 2012–2018")
+  assert.equal(fixCompTitleNoAlign("Svizze 2011", "Svizze", "Svizzera"), "Svizzera 2011")
+  assert.equal(fixCompTitleNoAlign("OBF 2011 ''", "OBF", "Brasile"), "OBF 2011")
 })

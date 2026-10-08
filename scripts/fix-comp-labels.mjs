@@ -4,12 +4,12 @@
 //   - the data-title="" of each atom marker (from that marker's own data-tags)
 //   - the atom titles of staticgen/atoms_fullindex.json (search results; read by
 //     scripts/make-search-index.mjs after the Quartz build)
-// using fixCompTitle() (scripts/comp-label.mjs): "Svizze 2011" -> "Svizzera 2011",
+// using fixCompTitleNoAlign() (scripts/comp-label.mjs): "Svizze 2011" -> "Svizzera 2011",
 // "OBF 2011 ''" -> "OBF 2011". Idempotent; content/ in git is not touched by CI.
 // preprocess.mjs applies the same rule, so regenerated content is already fixed.
 import { readdirSync, readFileSync, writeFileSync, statSync, existsSync } from "node:fs"
 import path from "node:path"
-import { fixCompTitle, compFromTags } from "./comp-label.mjs"
+import { fixCompTitleNoAlign as fixCompTitle, compFromTags } from "./comp-label.mjs"
 
 const ROOT = process.env.RGF_BUILD || "."
 const CONTENT = path.join(ROOT, "content")

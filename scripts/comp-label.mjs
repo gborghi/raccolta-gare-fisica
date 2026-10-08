@@ -64,6 +64,17 @@ export function dropPlaceholders(title) {
 export function fixCompTitle(title, code, country, year) {
   return dropPlaceholders(fixCompCode(alignHead(title, code, country, year), code, country)).replace(DOUBLE_SPACE_SEP, "$1 — ")
 }
+/**
+ * The build-time pass (scripts/fix-comp-labels.mjs) only knows a page's TAGS, and the
+ * comp/ and paese/ tags of some notes are stale (comp/Russia + paese/Russia on RoPhO,
+ * EuPhO-style national papers, …) while the frontmatter is right. preprocess already
+ * aligned the head from the frontmatter, so that pass must not re-align it from tags
+ * (it turned "Romania 2019" back into "Russia 2019"): code expansion, placeholders and
+ * the double-space separator only.
+ */
+export function fixCompTitleNoAlign(title, code, country) {
+  return dropPlaceholders(fixCompCode(title, code, country)).replace(DOUBLE_SPACE_SEP, "$1 — ")
+}
 // The translation siblings' H1s ("# Spagna 2021  Quesito 1", "# Spain 2021  Quesito 1")
 // lost their " — " to a double space. Those H1s are dropped by mergeSiblings, but a
 // title or alias of that shape anywhere gets its separator back.

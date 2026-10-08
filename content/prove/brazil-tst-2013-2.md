@@ -1,5 +1,5 @@
 ---
-title: Russia 2013
+title: Brazil 2013
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2013 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/spinning-top,object/sphere,object/disk,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brazil 2013 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/spinning-top,object/sphere,object/disk,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -214,7 +214,7 @@ che si verificherà?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2013 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/solenoid,object/magnet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brazil 2013 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/solenoid,object/magnet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -437,7 +437,7 @@ massa m e momento magnetico
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2013 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/electron,object/magnet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brazil 2013 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/electron,object/magnet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

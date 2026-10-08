@@ -64,7 +64,7 @@ $$\ln(t_n) = -\frac{1}{\gamma}\ln(n) - \frac{1}{\gamma}\ln\!\left(\frac{g\,m_0}{
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prueba experimental. Il volo del capriccio**
+**Prova sperimentale. Il volo del capriccio**
 
 Quando un corpo si muove nel seno di un fluido a velocità $v$, il suo movimento viene frenato da una forza, chiamata resistenza. Supponiamo che questa forza dipenda da $v$ nella forma
 
@@ -108,7 +108,7 @@ $$\ln(t_n) = -\frac{1}{\gamma}\ln(n) - \frac{1}{\gamma}\ln\!\left(\frac{g\,m_0}{
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba experimental. The flight of the cape**
+**Experimental test. The flight of the cape**
 
 When a body moves within a fluid at $v$ speed, its motion is held back by a force, called resistance. Suppose this force depends on $v$ in the form
 
@@ -137,7 +137,7 @@ $$\ln(t_n) = -\frac{1}{\gamma}\ln(n) - \frac{1}{\gamma}\ln\!\left(\frac{g\,m_0}{
 - Una arandela de masa $M$ desconocida.
 - It's the tape.
 
-**Comentarios y sugerencias:**
+**Comments and hints:**
 - It has four overlapping and well-packed headgear initially. Start by measuring the time of fall of this set and then go on to remove them one by one.
 - The shape of the caps significantly influences the value of the resistance strength, through the constant $c$. You must be especially careful not to distort them during the measurements.
 - Drop the caps with the open part up (in reverse as a parachute).

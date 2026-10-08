@@ -1,5 +1,5 @@
 ---
-title: Russia 2020
+title: Taiwan 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2020 — Quesito 1" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/coil"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Taiwan 2020 — Quesito 1" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -250,7 +250,7 @@ y
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2020 — Quesito 2" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Taiwan 2020 — Quesito 2" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -361,7 +361,7 @@ la lunghezza originale.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2020 — Quesito 3" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/disk,object/coil"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Taiwan 2020 — Quesito 3" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/disk,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -870,7 +870,7 @@ t = 0
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2020 — Quesito 4" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Taiwan 2020 — Quesito 4" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1149,7 +1149,7 @@ $\pi$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2020 — Quesito 5" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Taiwan 2020 — Quesito 5" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1544,7 +1544,7 @@ Test simulato APhO - Tempo: 5 ore 150 marks totali
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2020 — Quesito 6" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/planet,object/photon"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Taiwan 2020 — Quesito 6" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/planet,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2103,7 +2103,7 @@ a
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2020 — Quesito 7" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron,object/photon,object/atom"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Taiwan 2020 — Quesito 7" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron,object/photon,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2472,7 +2472,7 @@ Z-direzione, la sua massa è
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2020 — Quesito 8" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Taiwan 2020 — Quesito 8" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -2523,7 +2523,7 @@ molto vicino alla velocità della luce
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Russia 2020 — Quesito 9" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron,object/particle-beam"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Taiwan 2020 — Quesito 9" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron,object/particle-beam"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -3470,7 +3470,7 @@ L'efficienza di ferro e il potenziale di U) nel metallo
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Russia 2020 — Quesito 10" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/photon"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Taiwan 2020 — Quesito 10" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -3973,7 +3973,7 @@ $\phi$
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Russia 2020 — Quesito 11" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Taiwan 2020 — Quesito 11" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/electron"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -4258,7 +4258,7 @@ Rxy in funzione di B
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Russia 2020 — Quesito 12" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/spring,object/capacitor"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Taiwan 2020 — Quesito 12" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/spring,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -4717,7 +4717,7 @@ Mass su piattaforma con piastre condensatore, angolo phi
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Russia 2020 — Quesito 13" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Taiwan 2020 — Quesito 13" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -5170,7 +5170,7 @@ $c'$
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Russia 2020 — Quesito 14" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/diffraction-grating,object/atom"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Taiwan 2020 — Quesito 14" data-tags="kg/prova,paese/Taiwan,comp/Taiwan,cluster/Meccanica,object/diffraction-grating,object/atom"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

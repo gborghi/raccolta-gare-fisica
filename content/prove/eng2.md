@@ -1,11 +1,11 @@
 ---
-title: Russia
+title: IZhO 2014
 tipo: prova
 tags:
   - kg/prova
-  - anno/na
-  - paese/Russia
-  - comp/Russia
+  - anno/2014
+  - paese/Kazakhstan
+  - comp/IZhO
   - cluster/Meccanica
 ---
 <div class="atom-reader" data-prova="eng2"></div>
@@ -13,99 +13,39 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/piston,object/gas,object/capacitor,object/resistor,object/lens"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IZhO 2014 — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Meccanica,object/piston,object/gas,object/capacitor,object/resistor,object/lens"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 
-Problem 1 (10 points)
+**Problem 1 (10 points)**
+
 This problem consists of three independent parts.
 
-Problem 1A (3.0 points)
-Steam engine consists of a vertical cylindrical
-vessel, in which a piston can move without
-friction. There is some water in the vessel
-with an electrical heater located inside. Steam
-engine cycle consists of four stages, as shown
-in the figure on the right:
-1. A load is placed on the piston, the heater is
-switched on making the water boiling and the
-vapor lifts up the piston with the load.
-2. Once the piston has risen to some height,
-the load is quickly removed and the heater is
-immediately switched off.
-3. The vapor under the piston cools down and condenses, the piston moves down slowly .
+**Problem 1A (3.0 points)**
+
+Steam engine consists of a vertical cylindrical vessel, in which a piston can move without friction. There is some water in the vessel with an electrical heater located inside. Steam engine cycle consists of four stages, as shown in the figure on the right:
+
+1. A load is placed on the piston, the heater is switched on making the water boiling and the vapor lifts up the piston with the load.
+
+2. Once the piston has risen to some height, the load is quickly removed and the heater is immediately switched off.
+
+3. The vapor under the piston cools down and condenses, the piston moves down slowly.
+
 4. Once the piston has come down to some other height, the load is again put on the piston.
-Draw a (
-)
-V
-P,
- diagram schematically showing the cycle of the steam engine and find its
-efficiency.
-The atmospheric pressure is
-5
-0
-1.0 10
-P
-Pa
-=
-$\cdot$
-, the piston mass is
-2.0
-M
-kg
-=
-, the piston area is
-2
-10см
-S =
-, the load mass is
-1.0
-m
-kg
-=
-, and the free fall acceleration is
-2
-9.8
-/
-g
-m s
-=
-. Assume
-that there is nothing under the piston except for the water vapor, and the dependence of the
-pressure of the saturated water vapor in the temperature range under consideration is
-approximated by the formula
-b
-at
-P
-$-$
-=
-, where
-4,85
-/
-a
-kPa K
-=
-,
-384
-b
-kPa
-=
-, t is the
-temperature in degrees Celsius.
-Problem 1B (5.0 points)
-In the circuit shown in the figure on the right, all the electrical
-components are ideal and their parameters are assumed to be given.
-Before switching on the key, the capacitor has been discharged. Find an
-amount of heat releasing in the resistor R after the key has been switched
-on.
 
-Problem 1C (2.0 points)
-Thin lens gives an image of the object, located perpendicular to its optical axis. The image size is
-1 cm. If the distance from the object to the lens is increased by 5 cm, the image size remains 1
-cm. Find the image size if the distance from the object to the lens is increased by another 5 cm.
+Draw a $(P,V)$ diagram schematically showing the cycle of the steam engine and find its efficiency.
 
+The atmospheric pressure is $P_0 = 1.0 \cdot 10^5 \text{ Pa}$, the piston mass is $M = 2.0 \text{ kg}$, the piston area is $S = 10 \text{ cm}^2$, the load mass is $m = 1.0 \text{ kg}$, and the free fall acceleration is $g = 9.8 \text{ m/s}^2$. Assume that there is nothing under the piston except for the water vapor, and the dependence of the pressure of the saturated water vapor in the temperature range under consideration is approximated by the formula $P = at - b$, where $a = 4.85 \text{ kPa/K}$, $b = 384 \text{ kPa}$, $t$ is the temperature in degrees Celsius.
+
+**Problem 1B (5.0 points)**
+
+In the circuit shown in the figure on the right, all the electrical components are ideal and their parameters are assumed to be given. Before switching on the key, the capacitor has been discharged. Find an amount of heat releasing in the resistor $R$ after the key has been switched on.
+
+**Problem 1C (2.0 points)**
+
+Thin lens gives an image of the object, located perpendicular to its optical axis. The image size is $1 \text{ cm}$. If the distance from the object to the lens is increased by $5 \text{ cm}$, the image size remains $1 \text{ cm}$. Find the image size if the distance from the object to the lens is increased by another $5 \text{ cm}$.
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p2_f1.png]]
@@ -167,97 +107,37 @@ cm. Find the image size if the distance from the object to the lens is increased
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 1 (10 punti)
-Questo problema è costituito da tre parti indipendenti.
+**Problema 1 (10 punti)**
 
-Problema 1A (3,0 punti)
-Motore a vapore costituito da un cilindro verticale
-contenitore in cui un pistone può muoversi senza
-- Friccio. C' è dell' acqua nella nave .
-con un riscaldatore elettrico all'interno. Fumo
-ciclo del motore è composto da quattro fasi, come mostrato
-nella figura a destra:
-1. Un carico viene posto sul pistone, il riscaldatore è
-accesa, facendo bollire l'acqua e
-il vapore solleva il pistone con il carico.
-2. Una volta che il pistone è salito ad un'altezza,
-il carico viene rapidamente rimosso e il riscaldatore è
-immediatamente spento.
-3. Il vapore sotto il pistone si raffredda e si condensa, il pistone si muove lentamente.
-4. Una volta che il pistone è scesa ad un'altra altezza, il carico viene di nuovo messo sul pistone.
-Disegnare un (
-)
-V
-P,
-diagramma che mostra schematicamente il ciclo del motore a vapore e trova il suo
-- l'efficienza.
-La pressione atmosferica è
-5
-0
-1.0 10
-P
-Pa
-=
-$\cdot$
-, la massa del pistone è
-2.0
-M
-kg
-=
-, la zona del pistone è
-2
-10см
-S =
-, la massa del carico è
-1.0
-m
-kg
-=
-, e l' accelerata caduta libera è
-2
-9.8
-/
-g
-m s
-=
-. Supponiamo
-che non c'è nulla sotto il pistone, tranne il vapore d'acqua, e la dipendenza del
-la pressione del vapore idrico saturo nella fascia di temperatura in esame è
-approssimati con la formula
-b
-at
-P
-$-$
-=
-, dove
-4,85
-/
-a
-KPa K
-=
-,
-384
-b
-KPa
-=
-, t è il
-temperatura in gradi Celsius.
-Problema 1B (5,0 punti)
-Nel circuito illustrato nella figura a destra, tutte le
-i componenti sono ideali e si presuppone che siano dati i loro parametri.
-Prima di accendere la chiave, il condensatore è stato scaricato. Trova un
-quantità di calore rilasciato nella resistenza R dopo aver commesso il cambio della chiave
-on.
+Questo problema è composto da tre parti indipendenti.
 
-Problema 1C (2,0 punti)
-L'obiettivo sottile dà un'immagine dell'oggetto, posizionato perpendicolare al suo asse ottico. La dimensione dell'immagine è
-1 cm. Se la distanza dall'oggetto alla lente è aumentata di 5 cm, la dimensione dell'immagine rimane 1
-cm. Trova la dimensione dell'immagine se la distanza dall'oggetto alla lente è aumentata di altri 5 cm.
+**Problema 1A (3.0 punti)**
 
+Il motore a vapore è costituito da un recipiente cilindrico verticale, nel quale può muoversi senza attrito un pistone. All'interno del recipiente è presente acqua con un riscaldatore elettrico inserito. Il ciclo del motore a vapore è composto da quattro fasi, come mostrato nella figura a destra:
+
+1. Un carico viene posto sul pistone, il riscaldatore viene acceso facendo bollire l'acqua e il vapore solleva il pistone con il carico.
+
+2. Una volta che il pistone ha raggiunto un certo livello, il carico viene rapidamente rimosso e immediatamente dopo il riscaldatore viene spento.
+
+3. Il vapore sotto il pistone si raffredda e si condensa, il pistone scende lentamente.
+
+4. Una volta che il pistone è disceso fino a un altro livello, viene nuovamente posto sul pistone il carico.
+
+Rappresenta schematicamente un diagramma $(P,V)$ del ciclo del motore a vapore e determinane il rendimento.
+
+La pressione atmosferica è $P_0 = 1.0 \cdot 10^5 \text{ Pa}$, la massa del pistone è $M = 2.0 \text{ kg}$, l'area del pistone è $S = 10 \text{ cm}^2$, la massa del carico è $m = 1.0 \text{ kg}$, e l'accelerazione di gravità è $g = 9.8 \text{ m/s}^2$. Si assuma che sotto il pistone non ci sia nulla tranne vapore acqueo, e la dipendenza della pressione del vapore saturo nell'intervallo di temperatura considerato sia approssimata dalla formula $P = at - b$, dove $a = 4.85 \text{ kPa/K}$, $b = 384 \text{ kPa}$, e $t$ è la temperatura in gradi Celsius.
+
+**Problema 1B (5.0 punti)**
+
+Nel circuito mostrato nella figura a destra, tutti i componenti elettrici sono ideali e i loro parametri si assumono noti. Prima dell'apertura dell'interruttore, il condensatore è scarico. Determina l’energia termica rilasciata nel resistore $R$ dopo aver chiuso l’interruttore.
+
+**Problema 1C (2.0 punti)**
+
+Una lente sottile forma un'immagine di un oggetto posto perpendicolarmente all’asse ottico. La dimensione dell'immagine è $1 \text{ cm}$. Se la distanza tra l’oggetto e la lente viene aumentata di $5 \text{ cm}$, la dimensione dell’immagine rimane $1 \text{ cm}$. Determina la dimensione dell'immagine se la distanza tra l’oggetto e la lente viene aumentata di altri $5 \text{ cm}$.
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p2_f1.png]]
-* motore a vapore: 4 fasi del ciclo *
+*motore a vapore: 4 fasi del ciclo*
 <!--fig:end-->
 <!--fig:start-->
 
@@ -303,7 +183,7 @@ cm. Trova la dimensione dell'immagine se la distanza dall'oggetto alla lente è 
 </figure>
 
 
-Circuito con batterie, resistori e condensatore
+*circuito con batteria, resistori e condensatore*
 <!--fig:end-->
 
 **Topic:** [[Thermodynamics]], [[Circuits]], [[Geometric Optics]]
@@ -314,209 +194,67 @@ Circuito con batterie, resistori e condensatore
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/satellite,object/photon,object/planet"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IZhO 2014 — Quesito 2" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Meccanica,object/satellite,object/photon,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 
-Problem 2 Jet propulsion (10 points)
-In a rocket engine thrust is created by the release of products of fuel combustion in the direction
-opposite to its motion. It is, of course, natural that the
-mass of the rocket decreases in the acceleration
-process. This idea was first proposed by the great
-Russian scientist K. Tsiolkovsky to implement the
-motion of objects in a vacuum, for example, in outer
-space. Nowadays space flights have become habitual.
-It is widely known that the space launching site,
-Baikonur, is situated on the territory of Kazakhstan.
-The first satellite and the first cosmonaut, Yu. Gagarin,
-were sent into space from Baikonur which is now a
-X International Zhautykov Olympiad/Theoretical Competition Page 3/5
-complex of high-tech facilities intended to launch manned spacecraft into space, in particular, to
-the International Space Station.
-Classical rocket
-Let a rocket have an initial mass
-0
-m and let a fuel velocity relative to the rocket be
-constant and equal u . Assume that at the initial time moment the rocket is at rest in the
-laboratory frame of reference and no external force is present.
-1. [0.5 points] Find the rocket velocity v as a function of its mass m . This formula is called
-after K. Tsiolkovsky. Express your answer in terms of
-0
-,
-,
-m m u .
-2. [0.5 points] An object of mass
-1000
-m =
-kg is required to be accelerated to the orbital velocity.
-Evaluate the initial rocket mass
-0
-m , if the free fall acceleration is
-9.80
-g =
-m/c2 and the radius of
-the Earth is
-6400
-R =
-km and
-5,00
-u =
-km/s.
-Let a rocket move in the gravitational field of the Earth. The free fall acceleration g is
-assumed to be constant, whereas the fuel consumption
-( )
-( ) /
-t
-dm t
-dt
-$\mu$
-= $-$
- may depend on time.
-3. [0.75 points] Write down the equation of motion of a rocket in Earth's gravitational field. This
-equation is called after I. Meshcherskij. Express your answer in terms of
-,v, , ,
-m
-u g $\mu$ .
-Assume in the following that the fuel exhaust velocity u is directed parallel to the free
-fall acceleration g , and the initial velocity of the rocket is zero.
-4. [0.75 points] Find how the fuel consumption
-( )
-st t
-$\mu$
- should depend on time t in order for the
-rocket to hung motionless at some height. Express your answer in terms of
-0, , ,
-m u g t .
-Assume now that the fuel consumption $\mu$ is also constant over time such that
-( ).
-st t
-$\mu$
-$\mu$
->
+**Problem 2 Jet propulsion (10 points)**
 
-5. [2.0 points] In this case the rocket velocity dependence on time t can be represented as
-1
-2
-3
-v( )
-ln(1
-)
-t
-At
-A
-A t
-=
-+
-+
-,
-where
-1
-2
-3
-,
-,
-A A A are some constants.
-Find
-1
-2
-3
-,
-,
-A A A and express them in terms of
-0, , ,
-m u g $\mu$ .
-6. [1.0 points] Suppose that the initial mass of the rocket is equal
-0
-m , and the final mass is to be
-m . Find the maximum height
-max
-H
- that the rocket can reach and determine the corresponding
-optimum fuel consumption
-opt
-$\mu$
-. Express your answer in terms of
-0,
-, ,
-m m u g .
-Relativistic rocket
-In the previous part of the problem it has been assumed that the rocket moves with a
-nonrelativistic velocity. To implement interstellar travels it is necessary to accelerate the rocket
-to the speed close to that of light and, then, relativity effects cannot be ignored at the
-calculations.
-To establish the characteristic features of the rocket motion in a relativistic case, we
-introduce the concept of the proper frame of reference. The proper frame of reference is an
-inertial frame of reference which moves with the speed of the rocket itself relative to the
-laboratory reference frame, i.e. it is the reference frame in which the rocket is at rest at any given
-time.
-7. [2.5 points] Find the relation between the rocket acceleration in the proper reference frame
-p
-a
-and its acceleration in the laboratory frame of reference
-ra when the velocity of the rocket is v ,
-and c stands for the speed of light. Express your answer in terms of
-,
-,v,
-p
-r
-a
-a
-c .
-8. [1.5 points] Let the rocket be at rest at the initial time moment. Then, using the results of the
-previous question it can be shown that at any time moment the rocket mass in the proper
-reference frame is related to its speed in the laboratory reference frame as
-0
-1
-v /
-1
-v /
-c
-m
-m
-c
-$\alpha$
-$-$
+In a rocket engine thrust is created by the release of products of fuel combustion in the direction opposite to its motion. It is, of course, natural that the mass of the rocket decreases in the acceleration process. This idea was first proposed by the great Russian scientist K. Tsiolkovsky to implement the motion of objects in a vacuum, for example, in outer space. Nowadays space flights have become habitual. It is widely known that the space launching site, Baikonur, is situated on the territory of Kazakhstan. The first satellite and the first cosmonaut, Yu. Gagarin, were sent into space from Baikonur which is now a
 
-=
+complex of high-tech facilities intended to launch manned spacecraft into space, in particular, to the International Space Station.
 
-+
+**Classical rocket**
 
-.
-Find $\alpha$ and express it in terms of ,u c .
-X International Zhautykov Olympiad/Theoretical Competition Page 4/5
-9. [0.25 points] An object of mass
-1000
-m =
-kg is required to be accelerated to half the speed of
-light v
-0.5c
-=
- where the speed of light is
-8
-3.00 10
-c =
-$\cdot$
-m/s. Evaluate the initial rocket mass
-together with the fuel
-0
-m and write it down as a power of 10, if the fuel exhaust velocity is
-5,00
-u =
-km/s.
-10. [0.25 points] It can be shown that from the practical point of view the best rocket is the one
-that exploits photons rather than hot gases produced at the fuel combustion. An object of mass
-1000
-m =
-kg is required to be accelerated to half the speed of light v
-0.5c
-=
-. Evaluate the initial
-rocket mass together with the fuel
-0
-m .
+Let a rocket have an initial mass $m_0$ and let a fuel velocity relative to the rocket be constant and equal $u$. Assume that at the initial time moment the rocket is at rest in the laboratory frame of reference and no external force is present.
 
+1. [0.5 points] Find the rocket velocity $v$ as a function of its mass $m$. This formula is called after K. Tsiolkovsky. Express your answer in terms of $m, m_0, u$.
+
+2. [0.5 points] An object of mass $m = 1000 \text{ kg}$ is required to be accelerated to the orbital velocity. Evaluate the initial rocket mass $m_0$, if the free fall acceleration is $g = 9.80 \text{ m}/\text{c}^2$ and the radius of the Earth is $R = 6400 \text{ km}$ and $u = 5.00 \text{ km}/\text{s}$.
+
+Let a rocket move in the gravitational field of the Earth. The free fall acceleration $g$ is assumed to be constant, whereas the fuel consumption $\mu(t) = -dm(t)/dt$ may depend on time.
+
+3. [0.75 points] Write down the equation of motion of a rocket in Earth's gravitational field. This equation is called after I. Meshcherskij. Express your answer in terms of $m, v, u, g, \mu$.
+
+Assume in the following that the fuel exhaust velocity $u$ is directed parallel to the free fall acceleration $g$, and the initial velocity of the rocket is zero.
+
+4. [0.75 points] Find how the fuel consumption $\mu_{st}(t)$ should depend on time $t$ in order for the rocket to hung motionless at some height. Express your answer in terms of $m_0, u, g, t$.
+
+Assume now that the fuel consumption $\mu$ is also constant over time such that $\mu > \mu_{st}(t)$.
+
+5. [2.0 points] In this case the rocket velocity dependence on time $t$ can be represented as
+
+$$
+v(t) = A_1 t + A_2 \ln(1 + A_3 t),
+$$
+
+where $A_1, A_2, A_3$ are some constants.
+
+Find $A_1, A_2, A_3$ and express them in terms of $m_0, u, g, \mu$.
+
+6. [1.0 points] Suppose that the initial mass of the rocket is equal $m_0$, and the final mass is to be $m$. Find the maximum height $H_{\text{max}}$ that the rocket can reach and determine the corresponding optimum fuel consumption $\mu_{opt}$. Express your answer in terms of $m_0, m, u, g$.
+
+**Relativistic rocket**
+
+In the previous part of the problem it has been assumed that the rocket moves with a nonrelativistic velocity. To implement interstellar travels it is necessary to accelerate the rocket to the speed close to that of light and, then, relativity effects cannot be ignored at the calculations.
+
+To establish the characteristic features of the rocket motion in a relativistic case, we introduce the concept of the proper frame of reference. The proper frame of reference is an inertial frame of reference which moves with the speed of the rocket itself relative to the laboratory reference frame, i.e. it is the reference frame in which the rocket is at rest at any given time.
+
+7. [2.5 points] Find the relation between the rocket acceleration in the proper reference frame $a_p$ and its acceleration in the laboratory frame of reference $a_r$ when the velocity of the rocket is $v$, and $c$ stands for the speed of light. Express your answer in terms of $a_p, a_r, v, c$.
+
+8. [1.5 points] Let the rocket be at rest at the initial time moment. Then, using the results of the previous question it can be shown that at any time moment the rocket mass in the proper reference frame is related to its speed in the laboratory reference frame as
+
+$$
+m = m_0 \left( \frac{1 - v/c}{1 + v/c} \right)^\alpha.
+$$
+
+Find $\alpha$ and express it in terms of $u, c$.
+
+9. [0.25 points] An object of mass $m=1000\,\mathrm{kg}$ is required to be accelerated to half the speed of light $v=0.5c$ where the speed of light is $c=3.00\cdot10^{8}\,\mathrm{m/s}$. Evaluate the initial rocket mass together with the fuel $m_{0}$ and write it down as a power of 10, if the fuel exhaust velocity is $u=5,00\,\mathrm{km/s}$.
+
+10. [0.25 points] It can be shown that from the practical point of view the best rocket is the one that exploits photons rather than hot gases produced at the fuel combustion. An object of mass $m=1000\,\mathrm{kg}$ is required to be accelerated to half the speed of light $v=0.5c$. Evaluate the initial rocket mass together with the fuel $m_{0}$.
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p2_f3.png]]
@@ -532,96 +270,59 @@ m .
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 2 Propulsione a getto (10 punti)
+**Problema 2 Propulsione a getto (10 punti)**
 
-Nel motore di un razzo la spinta viene generata dallo scarico dei prodotti della combustione del carburante nella direzione opposta al suo moto. È ovviamente naturale che la massa del razzo diminuisca durante il processo di accelerazione. Quest’idea fu per la prima volta proposta dal grande scienziato russo K. Tsiolkovsky per realizzare il moto di oggetti nel vuoto, ad esempio nello spazio esterno. Oggi i voli spaziali sono diventati abituali.
+Nel motore di un razzo la spinta viene generata dallo scarico dei prodotti della combustione del carburante nella direzione opposta al suo moto. È ovviamente naturale che la massa del razzo diminuisca durante il processo di accelerazione. Questa idea fu per prima volta proposta dal grande scienziato russo K. Tsiolkovsky per realizzare il moto di oggetti nel vuoto, ad esempio nello spazio esterno. Oggi i voli spaziali sono diventati abituali. È ampiamente noto che il sito di lancio spaziale Baikonur si trova sul territorio del Kazakistan. Il primo satellite e il primo cosmonauta, Yu. Gagarin, sono stati mandati nello spazio da Baikonur che oggi è un complesso di impianti ad alta tecnologia finalizzate al lancio di veicoli spaziali abitati nello spazio, in particolare verso la Stazione Spaziale Internazionale.
 
-È ben noto che il sito di lancio spaziale Baikonur si trova sul territorio del Kazakistan. Il primo satellite e il primo cosmonauta, Yu. Gagarin, sono stati mandati nello spazio da Baikonur, che oggi è un complesso di strutture ad alta tecnologia finalizzato al lancio di veicoli spaziali abitati nello spazio, in particolare verso la Stazione Spaziale Internazionale.
+**Razzo classico**
 
-Razzo classico
-Sia dato un razzo con massa iniziale m₀ e una velocità del combustibile rispetto al razzo costante ed uguale a u. Si assuma che all’istante iniziale il razzo sia fermo nel sistema di riferimento del laboratorio e che non agiscano forze esterne.
+Sia dato un razzo con massa iniziale $m_0$ e velocità del carburante rispetto al razzo costante ed uguale a $u$. Si assuma che all’istante iniziale il razzo sia fermo nel sistema di riferimento del laboratorio e non agisca alcuna forza esterna.
 
-1. [0,5 punti] Determinare la velocità v del razzo in funzione della sua massa m. Tale formula è detta formula di K. Tsiolkovsky. Esprimere la risposta in termini di m₀, m e u.
+1. [0.5 punti] Trovare la velocità del razzo $v$ in funzione della sua massa $m$. Questa formula è detta di K. Tsiolkovsky. Esporre la risposta in termini di $m, m_0, u$.
 
-2. [0,5 punti] Un oggetto di massa m = 1000 kg deve essere accelerato fino alla velocità orbitale.
-Valutare la massa iniziale del razzo m₀, sapendo che l’accelerazione di gravità nel vuoto è...
-9,80 g = m/c² e il raggio della Terra è
-6400 R = km e
-5,00 u = km/s.
-Si consideri un razzo in campo gravitazionale terrestre. L'accelerazione di caduta libera g si assume costante, mentre il consumo di carburante ( )
-( ) / t dm t dt
-$\mu$
-= $-$ può dipendere dal tempo.
+2. [0.5 punti] Un oggetto di massa $m = 1000 \text{ kg}$ deve essere accelerato alla velocità orbitale. Stimare la massa iniziale del razzo $m_0$, sapendo che l’accelerazione di gravità è $g = 9.80 \text{ m}/\text{s}^2$, il raggio della Terra è $R = 6400 \text{ km}$ e $u = 5.00 \text{ km}/\text{s}$.
 
-3. [0,75 punti] Scrivere l'equazione del moto di un razzo nel campo gravitazionale terrestre. Tale equazione è nota come equazione di I. Meshcherskij. Esporre la risposta in termini di
-v, , , m u g $\mu$ .
+Sia ora un razzo in moto nel campo gravitazionale terrestre. L’accelerazione di caduta libera $g$ è assunta costante, mentre il consumo del carburante $\mu(t) = -dm(t)/dt$ può dipendere dal tempo.
 
-Si assuma nel seguito che la velocità di espulsione del carburante u sia diretta parallelamente all'accelerazione di caduta libera g, e che la velocità iniziale del razzo sia nulla.
+3. [0.75 punti] Scrivere l’equazione del moto di un razzo nel campo gravitazionale terrestre. Questa equazione è detta di I. Meshcherskij. Esporre la risposta in termini di $m, v, u, g, \mu$.
 
-4. [0,75 punti] Determinare come deve dipendere dal tempo t il consumo di carburante ( )
-st t
-$\mu$ affinché il razzo possa rimanere sospeso in quiete a un certo'altezza. Esporre la risposta in termini di
-0, , , m u g t .
+Si assuma nel seguito che la velocità di scarico del carburante $u$ sia diretta parallelamente all’accelerazione di gravità $g$, e che la velocità iniziale del razzo sia nulla.
 
-Si assuma ora che il consumo di carburante $\mu$ sia anch'esso costante nel tempo, in modo che ( ).
-st t
-$\mu$
-$\mu$
->
+4. [0.75 punti] Determinare come deve dipendere dal tempo $t$ il consumo del carburante $\mu_{st}(t)$ affinché il razzo possa restare sospeso in quiete a un’altezza fissata. Esporre la risposta in termini di $m_0, u, g, t$.
 
-5. [2,0 punti] In questo caso la dipendenza della velocità del razzo dal tempo t può essere espressa come
-1
-2
-3 v( ) ln(1 )
-t
-At
-A
-A t
-=
-+
-+ , dove
-1 2 3, , A A A sono delle costanti opportune.
-Determinare
-1 2 3, , A A A e esprimerle in termini di
-0, , , m u g $\mu$ .
+Si assuma ora che il consumo del carburante $\mu$ sia anch’esso costante nel tempo, con $\mu > \mu_{st}(t)$.
 
-6. [1,0 punto] Supponendo che la massa iniziale del razzo sia uguale a
-0 m , e che la massa finale debba essere m . Determinare l'altezza massima max H raggiungibile dal razzo e il corrispondente consumo ottimo di carburante opt
-$\mu$ . Esporre la risposta in termini di
-0, , , m m u g .
+5. [2.0 punti] In questo caso la dipendenza della velocità del razzo dal tempo $t$ può essere espressa come
 
-Razzo relativistico
-Nella parte precedente del problema si è supposto che il razzo si muova con una velocità non relativistica. Per realizzare viaggi interstellari è necessario accelerare il razzo fino a velocità prossime a quella della luce, e in tal caso gli effetti relativistici non possono essere trascurati nei calcoli.
+$$
+v(t) = A_1 t + A_2 \ln(1 + A_3 t),
+$$
 
-Per stabilire le caratteristiche principali del moto del razzo nel caso relativistico, si introduce il concetto di sistema di riferimento proprio. Il sistema di riferimento proprio è un sistema di riferimento inerziale che si muove con la stessa velocità del razzo rispetto al sistema di riferimento laboratorio, ovvero è il sistema di riferimento in cui il razzo è fermo in ogni istante.
+dove $A_1, A_2, A_3$ sono delle costanti.
 
-7. [2,5 punti] Trovare la relazione tra l'accelerazione del razzo nel sistema di riferimento proprio p a e la sua accelerazione nel sistema di riferimento laboratorio ra quando la velocità del razzo è v, e c rappresenta la velocità della luce. Esporre il risultato in termini di
-,
-,v, p r a a c .
+Trovare $A_1, A_2, A_3$ e esprimerli in termini di $m_0, u, g, \mu$.
 
-8. [1,5 punti] Sia il razzo in quiete nell'istante iniziale. Allora, utilizzando i risultati della domanda precedente, si può dimostrare che in ogni istante il valore della massa del razzo nel sistema di riferimento proprio è legato alla sua velocità nel sistema di riferimento laboratorio dalla relazione
-0
-1 v /
-1 v / c m m c
-$\alpha$
-$-$
+6. [1.0 punto] Supponendo che la massa iniziale del razzo sia $m_0$ e che la massa finale debba essere $m$, determinare l’altezza massima $H_{\text{max}}$ che il razzo può raggiungere e trovare il corrispondente consumo ottimale di carburante $\mu_{opt}$. Esporre la risposta in termini di $m_0, m, u, g$.
 
-=
+**Razzo relativistico**
 
-.
-Trovare $\alpha$ e esprimerlo in termini di ,u c .
-X Olimpiade Internazionale Zhautykov/Competizione Teorica Pagina 4/5
-9. [0,25 punti] Un oggetto di massa
-1000 m = kg deve essere accelerato fino a metà della velocità della luce v
-0,5c = dove la velocità della luce è
-8
-3,00 10 c = $\cdot$ m/s. Valutare la massa iniziale del razzo insieme al carburante
-0 m e scriverla come potenza di 10, sapendo che la velocità di espulsione del carburante è
-5,00 u = km/s.
-10. [0,25 punti] Si può dimostrare che dal punto di vista pratico il miglior razzo è quello che sfrutta fotoni invece dei gas caldi prodotti dalla combustione del carburante. Un oggetto di massa
-1000 m = kg deve essere accelerato fino a metà della velocità della luce v
-0,5c = . Valutare la massa iniziale del razzo insieme al carburante
-0 m.
+Nella parte precedente del problema si è assunto che il razzo si muova con velocità non relativistica. Per realizzare viaggi interstellari è necessario accelerare il razzo fino a velocità prossime a quella della luce, e in tal caso gli effetti relativistici non possono essere trascurati nei calcoli.
+
+Per stabilire le caratteristiche fondamentali del moto del razzo nel caso relativistico, si introduce il concetto di sistema di riferimento proprio. Il sistema di riferimento proprio è un sistema inerziale che si muove con la velocità del razzo rispetto al sistema di riferimento del laboratorio, ovvero è il sistema in cui il razzo è fermo ad ogni istante.
+
+7. [2.5 punti] Trovare la relazione tra l’accelerazione del razzo nel sistema di riferimento proprio $a_p$ e la sua accelerazione nel sistema di riferimento del laboratorio $a_r$, quando la velocità del razzo è $v$, e $c$ rappresenta la velocità della luce. Esporre la risposta in termini di $a_p, a_r, v, c$.
+
+8. [1.5 punti] Sia il razzo in quiete all’istante iniziale. Allora, utilizzando i risultati della domanda precedente, si può mostrare che in ogni istante la massa del razzo nel sistema di riferimento proprio è legata alla sua velocità nel sistema di riferimento del laboratorio da
+
+$$
+m = m_0 \left( \frac{1 - v/c}{1 + v/c} \right)^\alpha.
+$$
+
+Trovare $\alpha$ e esprimerlo in termini di $u, c$.
+
+9. [0.25 punti] Un oggetto di massa $m=1000\,\mathrm{kg}$ deve essere accelerato alla velocità metà di quella della luce $v=0.5c$, dove la velocità della luce è $c=3.00\cdot10^{8}\,\mathrm{m/s}$. Stimare la massa iniziale del razzo insieme al carburante $m_{0}$ e scriverla come potenza di 10, sapendo che la velocità di scarico del carburante è $u=5.00\,\mathrm{km/s}$.
+
+10. [0.25 punti] Si può mostrare che dal punto di vista pratico il miglior razzo è quello che utilizza fotoni invece dei gas caldi prodotti dalla combustione del carburante. Un oggetto di massa $m=1000\,\mathrm{kg}$ deve essere accelerato alla velocità metà di quella della luce $v=0.5c$. Stimare la massa iniziale del razzo insieme al carburante $m_{0}$.
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p2_f3.png]]
@@ -630,200 +331,65 @@ X Olimpiade Internazionale Zhautykov/Competizione Teorica Pagina 4/5
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IZhO 2014 — Quesito 3" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 
-Problem 3 Metamaterials (10 points)
-Metamaterials are composite materials whose properties are due
-not so much to the properties of its constituent elements but due
-to artificially tailored periodic structures. Metamaterials are
-synthesized in modern nanolaboratories by implantation different
-periodic structures with a variety of geometric shapes into the
-original natural material, which substantially modifies its
-physical properties. In a very rough approximation, those
-implants can be treated as artificially made atoms of extremely
-large size immersed into the original material. While synthesizing
-the metamaterial Ddveloper has the opportunity of varying
-various free parameters (structure sizes and constant or varying
-period between them, etc.).
-In one nanolaboratory the metamaterial has been manufactured in the form of a wire of
-the length
-5.00
-L
-cm
-=
- and radius
-1.00
-R
-mm
-=
-, whose conductivity depends on the distance
-from its axis according to the law
-0
-r
-$\sigma$
-$\beta$
-=
-. Physical properties of the wire have been
-experimentally measured and are presented in the following table:
+**Problem 3 Metamaterials (10 points)**
 
-1. [1.0 points] Find an analytic formula for the total resistance
-0
-R of the wire, and calculate its
-numerical value.
-An electric current
-1
-I
-А
-=
- is made to pass through the wire. It is known that the heat
-exchange with the environment obeys the Newton-Richman law,
-0
-(
-)
-ext
-s
-P
-T
-T
-$\alpha$
-=
-$-$
-,
-where
-ext
-P stands for the power loss per unit surface of the wire with the surface temperature
-sT ,
-0
-293
-T
-К
-=
- denotes the ambient temperature and $\alpha$ is a constant, called the heat transfer
-coefficient.
-2. [1.0 points] Find an analytic formula for the surface temperature
-sT of the wire and calculate
-its numerical value.
-The wire temperature varies with the depth due to the phenomenon known as thermal
-conductivity, which is described by the Fourier law
-PHYSICAL PROPERTY
-NUMERICAL VALUE
-Conductivity
-0
-r
-$\sigma$
-$\beta$
-=
+Metamaterials are composite materials whose properties are due not so much to the properties of its constituent elements but due to artificially tailored periodic structures. Metamaterials are synthesized in modern nanolaboratories by implantation different periodic structures with a variety of geometric shapes into the original natural material, which substantially modifies its physical properties. In a very rough approximation, those implants can be treated as artificially made atoms of extremely large size immersed into the original material. While synthesizing the metamaterial Ddeveloper has the opportunity of varying various free parameters (structure sizes and constant or varying period between them, etc.).
 
-9
-2
-1.00 1
-/
-0 S m
-$\beta$ =
-$\times$
+In one nanolaboratory the metamaterial has been manufactured in the form of a wire of the length $L=5.00\,\mathrm{cm}$ and radius $R=1.00\,\mathrm{mm}$, whose conductivity depends on the distance from its axis according to the law $\sigma_{0}=\beta r$. Physical properties of the wire have been experimentally measured and are presented in the following table:
 
-Heat transfer coefficient
-2
-20
-/ (
-)
-W
-m
-K
-$\alpha$ =
-$\cdot$
+| PHYSICAL PROPERTY | NUMERICAL VALUE |
+| :--- | :--- |
+| Conductivity $\sigma_{0}=\beta r$ | $\beta=1.00\times10^{9}\,\mathrm{S/m^{2}}$ |
+| Heat transfer coefficient | $\alpha=20\,\mathrm{W/(m^{2}\cdot K)}$ |
+| Thermal conductivity coefficient | $\kappa=0,01\,\mathrm{W/(m\cdot K)}$ |
+| Young's modulus | $E=1.00\times10^{7}\,\mathrm{Pa}$ |
+| Linear expansion coefficient | $\gamma=1.00\times10^{-6}\,\mathrm{K^{-1}}$ |
 
-Thermal conductivity coefficient
-0,01
-/ (
-)
-W
-m K
-$\kappa$ =
-$\cdot$
+1. [1.0 points] Find an analytic formula for the total resistance $R_{0}$ of the wire, and calculate its numerical value.
 
-Young's modulus
-7
-1.00 10
-E
-Pa
-=
-$\times$
+An electric current $I=1\,\mathrm{A}$ is made to pass through the wire. It is known that the heat exchange with the environment obeys the Newton-Richman law,
 
-Linear expansion coefficient
-6
-1
-1.00 10 K
-$\gamma$
-$-$
-$-$
-=
-$\times$
-X International Zhautykov Olympiad/Theoretical Competition Page 5/5
-T
-P
-S
-x
-$\kappa$
-$\Delta$
-= $-$
-$\Delta$
-,
-where P designates the power of the heat flow between the opposite faces of the parallelepiped
-with the square S ,
-T
-$\Delta$
- is the temperature difference between the faces of the parallelepiped
-situated at a distance x
-$\Delta$ from each other, and $\kappa$ is called the heat transfer coefficient.
-3. [2.5 points] Find an analytic formula for the temperature
-max
-T
- in the center of the wire, and
-calculate its numerical value.
-4. [0.5 points] Find an analytic formula for the change
-T
-R
-$\delta$
- of the wire radius due to its thermal
-expansion and calculate its numerical value.
-Attention! In all further calculations assume that the wire is infinitely long.
-5. [0.5 points] Find an analytic formula for the magnetic induction inside the wire as a function
-of the distance r from its axis.
-6. [1.0 points] Find an analytic formula for the energy of the magnetic field inside the wire, and
-calculate its numerical value.
-7. [1.0 points] The electric current causes an appearance of mechanical stress in the wire. Find
-an analytic formula for the pressure
-( )
-p r inside the wire as a function of the distance r from its
-axis.
-8. [1.0 points] Find an analytic formula for the mechanical stress energy $W\sigma$ of the wire, and
-calculate its numerical value.
-9. [1.0 points] Find an analytic formula for the change
-$R\sigma$
-$\delta$
- of the wire radius due to its
-mechanical stress, and calculate its numerical value.
-10. [0.5 points] Find the value of the thermal expansion coefficient $\gamma$ such that the total change
-of the wire radius would be zero when an electric current was passing through it.
-Help! The value of the magnetic constant is
-7
-0
-4
-10
-/
-Гн м
-$\mu$
-$\pi$
-$-$
-=
-$\cdot$
-.
+$$
+P_{\mathrm{ext}}=\alpha(T_{s}-T_{0})\,,
+$$
 
+where $P_{\mathrm{ext}}$ stands for the power loss per unit surface of the wire with the surface temperature $T_{s}$, $T_{0}=293\,\mathrm{K}$ denotes the ambient temperature and $\alpha$ is a constant, called the heat transfer coefficient.
+
+2. [1.0 points] Find an analytic formula for the surface temperature $T_{s}$ of the wire and calculate its numerical value.
+
+The wire temperature varies with the depth due to the phenomenon known as thermal conductivity, which is described by the Fourier law
+
+$$
+P = -\kappa S \frac{\Delta T}{\Delta x},
+$$
+
+where $P$ designates the power of the heat flow between the opposite faces of the parallelepiped with the square $S$, $\Delta T$ is the temperature difference between the faces of the parallelepiped situated at a distance $\Delta x$ from each other, and $\kappa$ is called the heat transfer coefficient.
+
+**Problem 3. [2.5 points]** Find an analytic formula for the temperature $T_{\text{max}}$ in the center of the wire, and calculate its numerical value.
+
+**Problem 4. [0.5 points]** Find an analytic formula for the change $\delta R_{T}$ of the wire radius due to its thermal expansion and calculate its numerical value.
+
+*Attention! In all further calculations assume that the wire is infinitely long.*
+
+**Problem 5. [0.5 points]** Find an analytic formula for the magnetic induction inside the wire as a function of the distance $r$ from its axis.
+
+**Problem 6. [1.0 points]** Find an analytic formula for the energy of the magnetic field inside the wire, and calculate its numerical value.
+
+**Problem 7. [1.0 points]** The electric current causes an appearance of mechanical stress in the wire. Find an analytic formula for the pressure $p(r)$ inside the wire as a function of the distance $r$ from its axis.
+
+**Problem 8. [1.0 points]** Find an analytic formula for the mechanical stress energy $W_{\sigma}$ of the wire, and calculate its numerical value.
+
+**Problem 9. [1.0 points]** Find an analytic formula for the change $\delta R_{\sigma}$ of the wire radius due to its mechanical stress, and calculate its numerical value.
+
+**Problem 10. [0.5 points]** Find the value of the thermal expansion coefficient $\gamma$ such that the total change of the wire radius would be zero when an electric current was passing through it.
+
+*Help! The value of the magnetic constant is $\mu_{0} = 4\pi \cdot 10^{-7} \, \text{H/m}$.*
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p4_f4.png]]
@@ -839,194 +405,59 @@ $\cdot$
 
 <div class="qlang-split" data-lang="it"></div>
 
-Problema 3 Metamateriali (10 punti)
-Metamateriali sono materiali composti le cui proprietà sono dovute
-non tanto per le proprietà dei suoi elementi costituenti, ma dovute
-a strutture periodiche su misura artificiale. I metamateriali sono
-La produzione di prodotti di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di base di
-La struttura di un'area di
-La produzione di materiali naturali originali, che modificano sostanzialmente la loro
-proprietà fisiche. In una approssimazione molto approssimativa,
-Gli impianti possono essere trattati come atomi artificiali di
-grandezza immersa nel materiale originale. Mentre sintetizziamo
-il metamateriale Dd sviluppatore ha la possibilità di variare
-vari parametri liberi (dimensioni di struttura e costanti o variabili)
-periodo tra di loro, ecc.).
-In un laboratorio nano il metamateriale è stato prodotto sotto forma di filo di
-la lunghezza
-5.00
-L
-cm
-=
-e raggio
-1.00
-R
-mm
-=
-, la cui conducibilità dipende dalla distanza
-dal suo asse secondo la legge
-0
-r
-$\sigma$
-$\beta$
-=
-. Le proprietà fisiche del filo sono state
-sono state misurate sperimentalmente e sono presentate nella tabella seguente:
+**Problema 3 Metamateriali (10 punti)**
 
-1. [1,0 punti] Trova una formula analitica per la resistenza totale
-0
-R del filo, e calcolare il suo
-valore numerico.
-Un corrente elettrica
-1
-I
-А
-=
-è fatto passare attraverso il filo. È noto che il calore
-il commercio con l'ambiente obbedisce alla legge di Newton-Richman,
-0
-(
-)
-Ext
-s
-P
-T
-T
-$\alpha$
-=
-$-$
-,
-dove
-Ext
-P è la perdita di potenza per unità di superficie del filo con la temperatura superficiale
-sT ,
-0
-293
-T
-К
-=
-indica la temperatura ambiente e $\alpha$ è una costante, chiamata trasferimento di calore
-il coefficiente.
-2. [1,0 punti] Trovare una formula analitica per la temperatura superficiale
-ST del filo e calcolo
-il suo valore numerico.
-La temperatura del filo varia con la profondità a causa del fenomeno noto come termico
-la conducibilità, che è descritta dalla legge di Fourier
-PREPARITA' FISIICA
-VALORE NUMERICO
-Conduttività
-0
-r
-$\sigma$
-$\beta$
-=
+I metamateriali sono materiali composti le cui proprietà non dipendono tanto dalle proprietà dei suoi elementi costitutivi quanto da strutture periodiche artificialmente progettate. I metamateriali vengono sintetizzati in laboratori nanotecnologici moderni mediante l'incorporazione di strutture periodiche diverse con una varietà di forme geometriche nel materiale naturale originario, modificando in modo sostanziale le sue proprietà fisiche. In un'approssimazione molto grezza, tali strutture integrate possono essere considerate come atomi artificiali di dimensione estremamente grande immersi nel materiale originario. Durante la sintesi del metamateriale, il progettista ha la possibilità di variare diversi parametri liberi (dimensioni delle strutture e periodo costante o variabile tra di esse, ecc.).
 
-9
-2
-1.00 1
-/
-0 S m
-$\beta$ =
-$\times$
+In un laboratorio nanotecnologico il metamateriale è stato realizzato nella forma di un filo della lunghezza $L=5.00\,\mathrm{cm}$ e raggio $R=1.00\,\mathrm{mm}$, la cui conducibilità dipende dalla distanza dall'asse secondo la legge $\sigma_{0}=\beta r$. Le proprietà fisiche del filo sono state misurate sperimentalmente e riportate nella seguente tabella:
 
-Coefficiente di trasferimento di calore
-2
-20
-/ (
-)
-W
-m
-K
-$\alpha$ =
-$\cdot$
+| PROPRIETÀ FISICA | VALORE NUMERICO |
+| :--- | :--- |
+| Conducibilità $\sigma_{0}=\beta r$ | $\beta=1.00\times10^{9}\,\mathrm{S/m^{2}}$ |
+| Coefficiente di scambio termico | $\alpha=20\,\mathrm{W/(m^{2}\cdot K)}$ |
+| Coefficiente di conducibilità termica | $\kappa=0,01\,\mathrm{W/(m\cdot K)}$ |
+| Modulo di Young | $E=1.00\times10^{7}\,\mathrm{Pa}$ |
+| Coefficiente di dilatazione lineare | $\gamma=1.00\times10^{-6}\,\mathrm{K^{-1}}$ |
 
-Coefficiente di conduttività termica
-0,01
-/ (
-)
-W
-m K
-$\kappa$ =
-$\cdot$
+1. [1,0 punti] Determinare una formula analitica per la resistenza totale $R_{0}$ del filo, e calcolarne il valore numerico.
 
-Modulo di Young
-7
-1.00 10
-E
-Pa
-=
-$\times$
+Un'intensità di corrente elettrica $I=1\,\mathrm{A}$ viene fatta passare attraverso il filo. È noto che lo scambio termico con l'ambiente segue la legge di Newton-Richman,
 
-Coefficiente di espansione lineare
-6
-1
-1.00 10 K
-$\gamma$
-$-$
-$-$
-=
-$\times$
-X Olimpiada internazionale di Zhautykov/concorso teorico Pagina 5/5
-T
-P
-S
-x
-$\kappa$
-$\Delta$
-= $-$
-$\Delta$
-,
-dove P indica la potenza del flusso di calore tra le facce opposte del parallelepiped
-con il quadrato S ,
-T
-$\Delta$
-è la differenza di temperatura tra le facce del parallelepiped
-situato a una distanza x
-$\Delta$ tra loro e $\kappa$ è chiamato coefficiente di trasferimento di calore.
-3. [2,5 punti] Trova una formula analitica per la temperatura
-Max
-T
-al centro del filo, e
-calcolare il suo valore numerico.
-4. [0,5 punti] Trova una formula analitica per il cambiamento
-T
-R
-$\delta$
-di radius del filo a causa della sua temperatura
-l'espansione e calcolare il suo valore numerico.
-Attenzione! In tutti i calcoli successivi si assume che il filo sia infinitamente lungo.
-5. [0,5 punti] Trovare una formula analitica per l'induzione magnetica all'interno del filo come funzione
-della distanza r dal suo asse.
-6. [1,0 punti] Trovare una formula analitica per l'energia del campo magnetico all'interno del filo, e
-calcolare il suo valore numerico.
-7. La corrente elettrica provoca l'apparenza di tensioni meccaniche nel filo. Trova
-formula analitica per la pressione
-( )
-p r all'interno del filo in funzione della distanza r da esso
-- L'asse.
-8. [1,0 punti] Trovare una formula analitica per l'energia di tensione meccanica $W\sigma$ del filo, e
-calcolare il suo valore numerico.
-9. [1,0 punti] Trova una formula analitica per il cambiamento
-$R\sigma$
-$\delta$
-di radius del filo a causa della sua
-la tensione meccanica e calcolare il suo valore numerico.
-10. [0,5 punti] Trova il valore del coefficiente di espansione termica $\gamma$ in modo tale che la variazione totale
-di radio del filo sarebbe zero quando una corrente elettrica passava attraverso di esso.
-- Aiutami! Il valore della costante magnetica è
-7
-0
-4
-10
-/
-Гн м
-$\mu$
-$\pi$
-$-$
-=
-$\cdot$
-.
+$$
+P_{\mathrm{est}}=\alpha(T_{s}-T_{0})\,,
+$$
 
+dove $P_{\mathrm{est}}$ rappresenta la potenza persa per unità di superficie del filo con temperatura superficiale $T_{s}$, $T_{0}=293\,\mathrm{K}$ indica la temperatura ambiente e $\alpha$ è una costante, detta coefficiente di scambio termico.
+
+2. [1,0 punti] Determinare una formula analitica per la temperatura superficiale $T_{s}$ del filo e calcolarne il valore numerico.
+
+La temperatura del filo varia in profondità a causa del fenomeno noto come conducibilità termica, descritto dalla legge di Fourier
+
+$$
+P = -\kappa S \frac{\Delta T}{\Delta x},
+$$
+
+dove $P$ indica la potenza del flusso termico tra le facce opposte di un parallelepipedo di superficie quadrata $S$, $\Delta T$ è la differenza di temperatura tra le facce del parallelepipedo distanti $\Delta x$ l'una dall'altra, e $\kappa$ è detto coefficiente di conducibilità termica.
+
+**Problema 3. [2,5 punti]** Determinare una formula analitica per la temperatura $T_{\text{max}}$ nel centro del filo, e calcolarne il valore numerico.
+
+**Problema 4. [0,5 punti]** Determinare una formula analitica per la variazione $\delta R_{T}$ del raggio del filo dovuta alla sua espansione termica e calcolarne il valore numerico.
+
+*Attenzione! In tutti i calcoli successivi si assuma che il filo sia infinitamente lungo.*
+
+**Problema 5. [0,5 punti]** Determinare una formula analitica per l'induzione magnetica all'interno del filo come funzione della distanza $r$ dal suo asse.
+
+**Problema 6. [1,0 punti]** Determinare una formula analitica per l'energia del campo magnetico all'interno del filo, e calcolarne il valore numerico.
+
+**Problema 7. [1,0 punti]** La corrente elettrica provoca l'apparizione di una tensione meccanica nel filo. Determinare una formula analitica per la pressione $p(r)$ all'interno del filo come funzione della distanza $r$ dall'asse.
+
+**Problema 8. [1,0 punti]** Determinare una formula analitica per l'energia di tensione meccanica $W_{\sigma}$ del filo, e calcolarne il valore numerico.
+
+**Problema 9. [1,0 punti]** Determinare una formula analitica per la variazione $\delta R_{\sigma}$ del raggio del filo dovuta alla sua tensione meccanica, e calcolarne il valore numerico.
+
+**Problema 10. [0,5 punti]** Determinare il valore del coefficiente di dilatazione termica $\gamma$ tale che la variazione totale del raggio del filo sia nulla quando attraverso di esso passa una corrente elettrica.
+
+*Aiuto! Il valore della costante magnetica è $\mu_{0} = 4\pi \cdot 10^{-7} \, \text{H/m}$.*
 
 <!--fig:start-->
 ![[_attachments/eng2/eng2_p4_f4.png]]

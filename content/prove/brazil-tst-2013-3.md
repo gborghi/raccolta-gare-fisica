@@ -1,5 +1,5 @@
 ---
-title: Russia 2013
+title: Brazil 2013
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2013 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/nucleus"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brazil 2013 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -216,7 +216,7 @@ p) Come definiresti l'efficienza di tale reazione? Con la tua definizione, calco
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2013 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/black-hole,object/piston"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brazil 2013 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/black-hole,object/piston"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -381,7 +381,7 @@ Ciclo di Carnot con due buchi e pistone
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2013 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brazil 2013 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -420,7 +420,7 @@ Ciclo di Carnot con due buchi e pistone
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2013 — Quesito 4" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/black-hole,object/piston,object/electron,object/star"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Brazil 2013 — Quesito 4" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/black-hole,object/piston,object/electron,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

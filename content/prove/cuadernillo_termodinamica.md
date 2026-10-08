@@ -2369,7 +2369,7 @@ The place is a cylindrical iron container containing $2\,\text{g}$ helium inside
 
 (b) Determine, by explicit calculations, whether McGyver is effectively released using the method you have used. He suggested. If necessary, include any additional, duly justified assumptions.
 
-**Datos:**
+**Data:**
 
 - Gas constant: $R = 0{,}082\,\text{L}\cdot\text{atm}/(\text{mol}\cdot\text{K})$
 - Specific heat of helium at constant volume: $C_V = 0{,}75\,\text{cal}/(\text{g}\cdot\text{K})$
@@ -2404,7 +2404,7 @@ A drip adds one drop of mercury each $2\,\text{s}$ into the space between the pl
 
 Assuming that the air inside the inflator behaves as an ideal gas and the temperature remains constant, calculate the maximum drop size so that contact does not close before $20\,000\,\text{s}$ (5 h 33 min 20 s) has elapsed since the first drop was deposited.
 
-**Datos:**
+**Data:**
 
 - Acceleration by gravity: $g = 9{,}80\,\text{m/s}^2$
 - $1\,\text{atm} = 760\,\text{mmHg}$
@@ -2447,7 +2447,7 @@ Calculate the height to which the balloon rose.
 
 (e) While on the way over the Channel, a malfunction in the heating system occurred which resulted in a $5\,\text{K}$ decrease in the temperature of the balloon's air. How high would it go? Did the officer have to do something to stay up?
 
-**Datos:**
+**Data:**
 
 - $\delta_0 = 1{,}2256\,\text{kg/m}^3$ (air density at $15\,^\circ\text{C}$ and at ground level)
 - $R = 8{,}314\,\text{J}/(\text{mol}\cdot\text{K})$
@@ -2488,7 +2488,7 @@ Suppose that the drip at the end of the thin tube (which is inside the vial) has
 
 (b) Calculate the minimum water content of the bottle if you want to ensure daily irrigation for 30 days.
 
-**Datos:**
+**Data:**
 
 - saturated water vapour pressure at $10\,^\circ\text{C}$: $9{,}16\,\text{mmHg}$; idem at $25\,^\circ\text{C}$: $23{,}55\,\text{mmHg}$.
 - The atmospheric pressure is $760\,\text{mmHg}$ or $10{,}33\,\text{m}$ of water column.
@@ -2539,7 +2539,7 @@ where $Y$ is the Young module of the material and $R$ is the radius of the non-d
 
 (g) Suppose that the pressure of the gas is the maximum pressure that allows the load to be kept at rest. Under these conditions the gas cavity is perfectly sealed, leaving a volume equal to $1\,\text{L}$ locked. By keeping the whole system at a constant working temperature, how much can the bulk be moved upward so that, when released, the load is at rest? Consider that gas behaves like an ideal gas.
 
-**Datos:**
+**Data:**
 
 ♪ Property ♪ Lead ♪ Steel ♪
 |---|---|---|
@@ -2585,7 +2585,7 @@ where $\Delta S$ is the difference between the areas of the embolus.
 
 (e) Under these conditions, to what temperature can the thermometer be used?
 
-**Datos:**
+**Data:**
 
 - $R = 8{,}31\,\text{J}/(\text{mol}\cdot\text{K})$
 - $P_0 = 1{,}013 \times 10^5\,\text{N/m}^2$
@@ -2625,7 +2625,7 @@ Suppose that the air inside the bell behaves like an ideal gas, that it quickly 
 
 First perform the calculations without assigning numerical values; then replace the following data to give the numerical answer.
 
-**Datos numéricos:**
+**Numerical data:**
 
 - Air pressure at sea level: $p_0 = 1{,}033 \times 10^5\,\text{Pa}$
 - $a = 2{,}0\,\text{m}$

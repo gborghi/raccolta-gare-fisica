@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="_q01" data-atom="_q01" data-title="Russia 2022 — Quesito 1" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="_q01" data-atom="_q01" data-title="F=ma 2022 — Quesito 1" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,7 +60,7 @@ $k$
 
 
 
-<span class="atom-split" id="_q02" data-atom="_q02" data-title="Russia 2022 — Quesito 2" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rope-string"></span>
+<span class="atom-split" id="_q02" data-atom="_q02" data-title="F=ma 2022 — Quesito 2" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -107,7 +107,7 @@ O
 
 
 
-<span class="atom-split" id="_q03" data-atom="_q03" data-title="Russia 2022 — Quesito 3" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
+<span class="atom-split" id="_q03" data-atom="_q03" data-title="F=ma 2022 — Quesito 3" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,7 +150,7 @@ l'altezza massima possibile raggiunta dall'acqua quando tutti i fori della sprin
 
 
 
-<span class="atom-split" id="_q04" data-atom="_q04" data-title="Russia 2022 — Quesito 4" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/pipe-tube"></span>
+<span class="atom-split" id="_q04" data-atom="_q04" data-title="F=ma 2022 — Quesito 4" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,7 +213,7 @@ Guardando da sopra?
 
 
 
-<span class="atom-split" id="_q05" data-atom="_q05" data-title="Russia 2022 — Quesito 5" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="_q05" data-atom="_q05" data-title="F=ma 2022 — Quesito 5" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -272,7 +272,7 @@ cratere iniziale
 
 
 
-<span class="atom-split" id="_q06" data-atom="_q06" data-title="Russia 2022 — Quesito 6" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="_q06" data-atom="_q06" data-title="F=ma 2022 — Quesito 6" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -327,7 +327,7 @@ a causa di attrito dopo un tempo $t$?
 
 
 
-<span class="atom-split" id="_q07" data-atom="_q07" data-title="Russia 2022 — Quesito 7" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="_q07" data-atom="_q07" data-title="F=ma 2022 — Quesito 7" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -372,7 +372,7 @@ $b$
 
 
 
-<span class="atom-split" id="_q08" data-atom="_q08" data-title="Russia 2022 — Quesito 8" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="_q08" data-atom="_q08" data-title="F=ma 2022 — Quesito 8" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -427,7 +427,7 @@ $\vec{g}$
 
 
 
-<span class="atom-split" id="_q09" data-atom="_q09" data-title="Russia 2022 — Quesito 9" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/tank-container"></span>
+<span class="atom-split" id="_q09" data-atom="_q09" data-title="F=ma 2022 — Quesito 9" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -470,7 +470,7 @@ sulla nave appena dopo che la nastro si è rotto.
 
 
 
-<span class="atom-split" id="_q10" data-atom="_q10" data-title="Russia 2022 — Quesito 10" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/disk,object/rod"></span>
+<span class="atom-split" id="_q10" data-atom="_q10" data-title="F=ma 2022 — Quesito 10" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/disk,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -513,7 +513,7 @@ Supponiamo che il disco sia sdraiato su una superficie senza attrito
 
 
 
-<span class="atom-split" id="_q11" data-atom="_q11" data-title="Russia 2022 — Quesito 11" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
+<span class="atom-split" id="_q11" data-atom="_q11" data-title="F=ma 2022 — Quesito 11" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -556,7 +556,7 @@ che ha una densità di $10\ \text{kg/m}^3$?
 
 
 
-<span class="atom-split" id="_q12" data-atom="_q12" data-title="Russia 2022 — Quesito 12" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/lever"></span>
+<span class="atom-split" id="_q12" data-atom="_q12" data-title="F=ma 2022 — Quesito 12" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/lever"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -597,7 +597,7 @@ Qual è l'altezza massima possibile che il lavoratore di costruzione può avere 
 
 
 
-<span class="atom-split" id="_q13" data-atom="_q13" data-title="Russia 2022 — Quesito 13" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
+<span class="atom-split" id="_q13" data-atom="_q13" data-title="F=ma 2022 — Quesito 13" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -636,7 +636,7 @@ dam. How much compressive force acts from the water on the dam? The density of w
 
 
 
-<span class="atom-split" id="_q14" data-atom="_q14" data-title="Russia 2022 — Quesito 14" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="_q14" data-atom="_q14" data-title="F=ma 2022 — Quesito 14" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -681,7 +681,7 @@ abbastanza che la massa interna non colpisca le pareti.
 
 
 
-<span class="atom-split" id="_q15" data-atom="_q15" data-title="Russia 2022 — Quesito 15" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/disk"></span>
+<span class="atom-split" id="_q15" data-atom="_q15" data-title="F=ma 2022 — Quesito 15" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -730,7 +730,7 @@ l'accelerazione nei radiani al secondo quadrato del carosello subito dopo che la
 
 
 
-<span class="atom-split" id="_q16" data-atom="_q16" data-title="Russia 2022 — Quesito 16" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
+<span class="atom-split" id="_q16" data-atom="_q16" data-title="F=ma 2022 — Quesito 16" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -819,7 +819,7 @@ A
 
 
 
-<span class="atom-split" id="_q17" data-atom="_q17" data-title="Russia 2022 — Quesito 17" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="_q17" data-atom="_q17" data-title="F=ma 2022 — Quesito 17" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -880,7 +880,7 @@ $t$
 
 
 
-<span class="atom-split" id="_q18" data-atom="_q18" data-title="Russia 2022 — Quesito 18" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring,object/block"></span>
+<span class="atom-split" id="_q18" data-atom="_q18" data-title="F=ma 2022 — Quesito 18" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -923,7 +923,7 @@ Se la lunghezza di una sorgente rilassata è di 50 cm, quante sorgenti sono nece
 
 
 
-<span class="atom-split" id="_q19" data-atom="_q19" data-title="Russia 2022 — Quesito 19" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="_q19" data-atom="_q19" data-title="F=ma 2022 — Quesito 19" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -990,7 +990,7 @@ B
 
 
 
-<span class="atom-split" id="_q20" data-atom="_q20" data-title="Russia 2022 — Quesito 20" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/wheel"></span>
+<span class="atom-split" id="_q20" data-atom="_q20" data-title="F=ma 2022 — Quesito 20" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/wheel"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1041,7 +1041,7 @@ $v_2$
 
 
 
-<span class="atom-split" id="_q21" data-atom="_q21" data-title="Russia 2022 — Quesito 21" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/satellite"></span>
+<span class="atom-split" id="_q21" data-atom="_q21" data-title="F=ma 2022 — Quesito 21" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/satellite"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1104,7 +1104,7 @@ tempo trascorso dalla nave spaziale attraverso la nube di polvere?
 
 
 
-<span class="atom-split" id="_q22" data-atom="_q22" data-title="Russia 2022 — Quesito 22" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/satellite,object/planet"></span>
+<span class="atom-split" id="_q22" data-atom="_q22" data-title="F=ma 2022 — Quesito 22" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1151,7 +1151,7 @@ Nota: La spinta di una nave spaziale è anche conosciuta come la forza necessari
 
 
 
-<span class="atom-split" id="_q23" data-atom="_q23" data-title="Russia 2022 — Quesito 23" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/satellite,object/sphere"></span>
+<span class="atom-split" id="_q23" data-atom="_q23" data-title="F=ma 2022 — Quesito 23" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/satellite,object/sphere"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1198,7 +1198,7 @@ a velocità angolare $n\omega_0$ dove $0 \ll n < 1$?
 
 
 
-<span class="atom-split" id="_q24" data-atom="_q24" data-title="Russia 2022 — Quesito 24" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/planet,object/star"></span>
+<span class="atom-split" id="_q24" data-atom="_q24" data-title="F=ma 2022 — Quesito 24" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1241,7 +1241,7 @@ effetti che si verificano quando le velocità sono vicine alla velocità della l
 
 
 
-<span class="atom-split" id="_q25" data-atom="_q25" data-title="Russia 2022 — Quesito 25" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="_q25" data-atom="_q25" data-title="F=ma 2022 — Quesito 25" data-tags="kg/prova,paese/USA,comp/F=ma,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

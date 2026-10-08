@@ -1,5 +1,5 @@
 ---
-title: Russia 2017
+title: China 2017
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2017 — Quesito 1" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/ball,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="China 2017 — Quesito 1" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/ball,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -64,7 +64,7 @@ di piccole oscillazioni del sistema.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2017 — Quesito 2" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/star"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="China 2017 — Quesito 2" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -115,7 +115,7 @@ Olimpiada cinese di fisica
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2017 — Quesito 3" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/pendulum"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="China 2017 — Quesito 3" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,7 +252,7 @@ e hn+1, la distanza per la (n + 1) prima volta; e
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2017 — Quesito 4" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/wire"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="China 2017 — Quesito 4" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -355,7 +355,7 @@ Olimpiada cinese di fisica
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2017 — Quesito 5" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/disk"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="China 2017 — Quesito 5" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -480,7 +480,7 @@ Olimpiada cinese di fisica
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2017 — Quesito 6" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/pipe-tube"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="China 2017 — Quesito 6" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -529,7 +529,7 @@ Possiamo supporre che l'angolo $\theta$ tra l'interfaccia superiore e la parete 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2017 — Quesito 7" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/planet,object/photon"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="China 2017 — Quesito 7" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/planet,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -634,7 +634,7 @@ c = 3.00 $\times$ 108 m $s-1$.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2017 — Quesito 8" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/rope-string"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="China 2017 — Quesito 8" data-tags="kg/prova,paese/China,comp/China,cluster/Gravitazione e Astrofisica,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

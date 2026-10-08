@@ -292,13 +292,13 @@ Riattacca il tubo in U al bastone di legno. Inserire $60\text{ cm}^3$ di acqua e
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba experimental. Damping oscillations of a water pendulum.**
+**Experimental test. Damping oscillations of a water pendulum.**
 
-**Objetivos**
+**Objectives**
 
 The experimental study will examine the oscillations of the water column contained in a U-shaped, cylindrical tube. Because of the friction of the water with the walls of the tube, this oscillation is cushioned and after a few oscillations the balance is reached. In particular, the effective radius of the tube and the buffer coefficient will be experimentally determined.
 
-**Materiales**
+**Materials**
 
 - A rubber tube, about two inches long.
 - A wooden bar.
@@ -322,7 +322,7 @@ The experimental study will examine the oscillations of the water column contain
 - Attention: when blowing from one end of the tube, water should not be poured from the other. If this were to happen, it would be necessary to empty the pipe and start measuring again as the volume of water remaining inside the pipe would be unknown.
 - Before taking measurements, it is advisable to acquire practice in the method of forcing the oscillation of water and in the use of the chronometer.
 
-**Modelo teórico**
+**Theoretical model**
 
 In equilibrium, the water level on both sides of the tube is the same (Figure 3a). When one end of the tube is blown the system is unbalanced (Figure 3b) and, when the system is released, the $x$ water level oscillates around the equilibrium level. It is not difficult to prove that, in the absence of friction, this oscillation is harmonic:
 
@@ -358,7 +358,7 @@ In the first part of this experimental test a series of measurements will be car
 
 ---
 
-**Medidas y preguntas.**
+**Measurements and questions.**
 
 **1ª parte. Determination of $R_{ef}$ and $R$.**
 

@@ -268,7 +268,7 @@ $$V_n = T^n V_0 \quad (3)$$
 
 The experimental system consists of two circuits: the first is made up of a stack, a resistor and an LED that acts as a light emitting device; the second is another LED that acts as a photodetector, connected to a polymer in the function of voltmeter (Fig. 3). The two circuits are optically coupled by a tube with a transverse groove where the filters are placed (Fig. 4).
 
-**Primer procedimiento para determinar $T$.**
+**First procedure to determine $T$.**
 
 Without any filter in the tube groove ($n = 0$) enter the value indicated by the voltmeter, $V_0$. Place a filter in the slot ($n = 1$) and take the measurement of the voltmeter, $V_1$. Add a second filter ($n = 2$) and measure $V_2$, etc., until all eight filters are accumulated in the slot. The data is presented in a table with columns: N° of filters $n$, $V_n$ (mV), function of $V_n$, $V_{n+1}/V_n$. (2 p.)
 

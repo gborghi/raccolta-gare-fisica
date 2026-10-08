@@ -90,7 +90,7 @@ f) Determina el valor de la constante $\alpha$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema experimental. Misurare la massa di un astronauta**
+**Problema sperimentale. Misurare la massa di un astronauta**
 
 In una nave che orbita intorno alla Terra non si può usare una bilancia per pesare gli astronauti, perché si prova una sensazione di ingravidità. Per questo, la massa degli astronauti della stazione spaziale ISS viene misurata con un apparecchio che si basa sul movimento vibratorio armono, chiamato Body Mass Measurement Device. Quando l'astronauta si mette su di esso, l'apparecchio inizia un movimento vibratorio e misura il periodo di oscillazione, a partire dal quale viene determinata la massa dell'astronauta.
 
@@ -160,11 +160,11 @@ f) Determina il valore della costante $\alpha$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. Measuring the mass of an astronaut**
+**Experimental problem. Measuring the mass of an astronaut**
 
 On a spacecraft orbiting the Earth, you can't use a scale to weigh astronauts because you experience a feeling of weightlessness. Therefore, the mass of astronauts at the ISS space station is measured with a device based on the harmonic vibrational movement, called the Body Mass Measurement Device. When the astronaut is placed on it, the apparatus initiates a vibrational movement and measures the oscillation period, from which the astronaut's mass is determined.
 
-**Modelo teórico.**
+**Theoretical model.**
 
 If a mass $M$ is placed on an ideal spring (without mass) of elastic constant $k$ and given a small vertical push, $M$ oscillates harmoniously with a period of time
 
@@ -182,7 +182,7 @@ $$T = 2\pi\sqrt{\frac{M + \alpha m}{k}}, \quad (3)$$
 
 where $\alpha$ is a constant less than the unit, unknown in principle.
 
-**Montaje experimental.**
+**Experimental setup.**
 
 Figure 1 shows a photograph of the body mass measuring device provided by the ISS, showing how the astronaut must hold up due to the absence of gravity. A simplified model of the device is also shown: a mass platform $M_p$ is subjected to a mass dock $m$. The mass $M_a$ of the astronaut is attached to this platform, so that the suspended mass will be $M = M_p + M_a$.
 
@@ -190,7 +190,7 @@ The platform is separated from the equilibrium position and released, producing 
 
 $$M_a = \frac{k}{4\pi^2}T^2 - (M_p + \alpha m). \quad (4)$$
 
-**Preguntas.**
+**Questions.**
 
 In a Body Mass Measurement Device calibration experiment, the values of the oscillation period $T$ are measured when mass bodies $M_a$ are placed on the device:
 

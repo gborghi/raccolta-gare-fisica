@@ -9,8 +9,8 @@ tags:
 
 
 
-*Method* — **209** problemi/quesiti.
+*Method* — **207** problemi/quesiti.
 
 ## Problemi e quesiti
 
-<div class="paged-list" data-src="cl/15.json" data-count="209"></div>
+<div class="paged-list" data-src="cl/15.json" data-count="207"></div>

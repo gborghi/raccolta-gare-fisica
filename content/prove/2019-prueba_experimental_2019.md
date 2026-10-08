@@ -176,7 +176,7 @@ g) Calcola con un trattamento statistico il valore più affidabile della trasmis
 
 **Experimental test: Light absorption by a neutral filter**
 
-**Objetivo**
+**Objective**
 
 It is sometimes useful to reduce the intensity of a beam of light, for which a commercial gelatin filter may be used. When a beam of light of $I_0$ intensity hits one of the flat faces of the filter, some of the light is transmitted and emerges from the other face with a lower intensity $I_1$.
 
@@ -186,7 +186,7 @@ $$T = \frac{I_1}{I_0} \quad (1)$$
 
 The objective of this experimental test is to determine the transmittance of a neutral filter (with $T$ approximately independent of the wavelength in the visible medium) by two different procedures.
 
-**Modelo teórico**
+**Theoretical model**
 
 Whereas (1) when the beam of light passes through a set of $n$ identical filters, the final transmitted intensity is:
 
@@ -198,11 +198,11 @@ $$V_n = T^n V_0 \quad (3)$$
 
 where $V_n$ is the read of the voltmeter when $n$ filters are intercepted.
 
-**Procedimiento experimental**
+**Experimental procedure**
 
 The system consists of two circuits: the first is made up of a battery, a resistor and an LED that acts as a light emitting device, and the second is another LED, which acts as a photodetector, connected to a polymer in terms of voltmeter. The two circuits are optically coupled by a tube to maintain the distance between the emitter and detector and to screen the ambient light. The tube has a transverse groove into which the filters are placed.
 
-**Primer procedimiento para determinar $T$**
+**First procedure to determine $T$**
 
 Without any filter in the tube groove ($n = 0$) the value indicated by the voltmeter, $V_0$ is noted. A filter is placed in the slot ($n = 1$) and the measurement $V_1$ is taken, etc. I'm going to build up eight filters. The results are:
 
@@ -220,7 +220,7 @@ Without any filter in the tube groove ($n = 0$) the value indicated by the voltm
 
 (e) Estimate the uncertainty of $T$.
 
-**Segundo procedimiento para determinar $T$**
+**Second procedure to determine $T$**
 
 The transmittance of a filter can also be determined from two consecutive measurements with $n$ and $n+1$ filters. In view of (3), it is clear that:
 

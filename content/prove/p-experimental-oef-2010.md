@@ -70,7 +70,7 @@ Misura il percorso della palla, $s$, e la distanza tra i punti di supporto del p
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba experimental: Plano inclinado**
+**Experimental test: Inclined plane**
 
 The descent of a steel sphere that rolls without slipping through an aluminium track with a U profile, tilted at an angle $\alpha$ to the horizontal, is studied. The sphere runs a distance $s$ between two tips; the ends of the bar are separated by a distance $L$ (horizontal projection). The $h$ deviation can be varied by rotating a screw passing through the $d = 0{,}70\text{ mm}$ thread. If the starting height is $h_0$ and $n$ turns upwards, the height is
 $$h_n = h_0 + nd \quad (3)$$

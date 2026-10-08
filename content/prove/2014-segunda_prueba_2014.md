@@ -104,7 +104,7 @@ e) Suppone che la principale fonte di errore in questo ultimo risultato sia il v
 
 <div class="qlang-split" data-lang="en"></div>
 
-**PROBLEMA EXPERIMENTAL. Fall of a ball in a fluid**
+**EXPERIMENTAL PROBLEM. Fall of a ball in a fluid**
 
 The figure shows a photograph, with multiple exposures, of a small sphere falling into the breast of a viscous liquid. The radius of the sphere $R = 1{,}00$ mm has been left without initial velocity at $t = 0$ (instant of the first photo), and subsequent exposures have been taken at regular and accurate intervals of $0{,}02$ s. The positions at each instant can be determined by the scale also shown in the figure.
 

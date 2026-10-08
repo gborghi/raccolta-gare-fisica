@@ -48,9 +48,9 @@ Datos: $n_1 = 1.6$; $n_2 = 1.4$; $e = 3$ cm; $\alpha = 30^\circ$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prova Teoretica Blu/Verde - Problema 1**
+**Prova teorica Blu/Verde - Problema 1**
 
-- Instanza nazionale. Prova Teoretica. Blu e verde.
+- Fase nazionale. Prova Teoretica. Blu e verde.
 
 Problema 1:
 
@@ -76,7 +76,7 @@ Data: $n_1 = 1.6$; $n_2 = 1.4$; $e = 3$ cm; $\alpha = 30^\circ$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba Teorica Azul/Verde - Problema 1**
+**Theoretical Test Blue/Green - Problem 1**
 
 The National Court. Theoretical proof. Blue and green.
 
@@ -126,7 +126,7 @@ Cual o cuales son las partes defectuosas?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prova Teoretica Blu/Verde - Problema 2**
+**Prova teorica Blu/Verde - Problema 2**
 
 Il problema 2:
 
@@ -187,7 +187,7 @@ Datos numericos: aceleracion de la gravedad $g = 9.80\ m/s^2$; 1 atmosfera = 760
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prova Teoretica Blu/Verde - Problema 3**
+**Prova teorica Blu/Verde - Problema 3**
 
 Problema 3:
 
@@ -211,7 +211,7 @@ Dati numerici: accelerazione gravitazionale $g = 9.80\ m/s^2$; 1 atmosfera = 760
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba Teorica Azul/Verde - Problema 3**
+**Theoretical Test Blue/Green - Problem 3**
 
 Problem three:
 
@@ -573,9 +573,9 @@ n) Los CV; HP; Kwh y watt empleados. (figura)
 
 <div class="qlang-split" data-lang="it"></div>
 
-**4. Generale Galarza, Tra i Fiumi - Sfera e Cubo
+**4. General Galarza, Entre Rios - Sfera e Cubo
 
-4. Generale Galarza, Tra i Rios.
+4. General Galarza, Tra i Rios.
 
 (i) Si dispone di una sfera di 5 cm di radio sostenuta da un cubo di 20 cm di bordo. Si chiede di calcolare:
 a) Il volume della sfera
@@ -1697,9 +1697,9 @@ Escala: 1 cm = 5 segundos; 1 cm = 20 m/seg
 
 <div class="qlang-split" data-lang="it"></div>
 
-**22. Generale Galarza, Tra i Fiumi - Grafico spazio-tempo**
+**22. General Galarza, Entre Rios - Grafico spazio-tempo**
 
-22. Generale Galarza, Tra i Rios.
+22. General Galarza, Tra i Rios.
 
 Date le seguenti figure, calcolare: (figura, grafico e-t con punti A,B,C,D,E,F,G,H,I,J)
 a) In quali intervalli di tempo il movimento è uniforme? E perché?
@@ -2903,9 +2903,9 @@ A che ora dopo le 4 corrispondono le posizioni delle aghe orarie e delle aghe mi
 
 <div class="qlang-split" data-lang="en"></div>
 
-**42. Five leaps, Rio Negro - Clock needles
+**42. Cinco Saltos, Rio Negro - Clock needles
 
-42. Five jumps, the black river.
+42. Cinco Saltos, the black river.
 
 What time after 4 o'clock does the position of the clock and the minute needle match? Find a generic expression in function of h-time, so you can calculate the number of minutes from h-time, in which the positions of the two needles match.
 
@@ -3967,9 +3967,9 @@ La risposta precedente dipende dalla forma del cubo? Fondamentalmente la sua ris
 
 <div class="qlang-split" data-lang="en"></div>
 
-**60. Five leaps, Rio Negro - Cube floating in mercury
+**60. Cinco Saltos, Rio Negro - Cube floating in mercury
 
-60. Five jumps, the black river.
+60. Cinco Saltos, the black river.
 
 A cube that's floating in mercury has a quarter of its volume submerged. If enough water is added to cover the cube, what fraction of its volume will be submerged in the mercury?
 The answer above, depends on the shape of the cube? Basically his answer.
@@ -4857,9 +4857,9 @@ Descrivere chiaramente la procedura (parte teorica e parte pratica) e valutare l
 
 <div class="qlang-split" data-lang="en"></div>
 
-**75. Five leaps, Rio Negro (experimental) - Heating capacity of cylinder**
+**75. Cinco Saltos, Rio Negro (experimental) - Heating capacity of cylinder**
 
-75. Five jumps, Rio Negro (experimental)
+75. Cinco Saltos, Rio Negro (experimental)
 
 It is a matter of determining the heating capacity of a solid cylinder of known material. For this purpose, a calorimeter, a heater, a thermometer and a scale are provided.
 Describe the procedure clearly (theoretical and practical) and assess the error of the result.
@@ -5453,11 +5453,11 @@ $q_1 = 100$ nC; $q_2 = -5\ \mu$C; $q_3 = ?$ (figura, $q_1$ a 3 cm da $q_2$, $q_3
 
 <div class="qlang-split" data-lang="en"></div>
 
-**85. Capital Federal - Carga en equilibrio sobre eje**
+**85. Capital Federal - Charge in equilibrium on an axis**
 
 85. Federal capital.
 
-Calculate the value and sign of the load $q_3$ so that the load $q_2$ is in balance. Is there any other point on the shaft where the electric field is cancelled with the $q_3$ included in the system?
+Calculate the value and sign of the charge $q_3$ so that the charge $q_2$ is in balance. Is there any other point on the axis where the electric field is cancelled with the $q_3$ included in the system?
 $q_1 = 100$ nC; $q_2 = -5\ \mu$C; $q_3 = ?$ (figura, $q_1$ a 3 cm de $q_2$, $q_3$ a 8 cm de $q_2$)
 
 
@@ -5595,9 +5595,9 @@ Supongamos un circuito formado por una pila cuya fuerza electromotriz (FEM) es d
 
 <div class="qlang-split" data-lang="it"></div>
 
-**88. Generale Galarza, Tra i fiumi - Resistenza del filo**
+**88. General Galarza, Tra i fiumi - Resistenza del filo**
 
-88. Generale Galarza, Tra i Rios.
+88. General Galarza, Tra i Rios.
 
 Supponiamo un circuito costituito da una pila la cui forza elettromotrice (FEM) è di 3 volt e un filo di resistenza di 6 ohmi. Calcolare l'intensità che circola nel circuito. Se sostituendo il filo con un altro della stessa materia e sezione, si osserva che l'intensità di corrente è di 0,25 amperi, si trova la resistenza del nuovo circuito e si indica quale è la lunghezza del filo rispetto al primo.
 
@@ -5695,9 +5695,9 @@ Procedimiento: a) Construccion de bobinado. b) Construccion de rotor. c) Armado 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**90. Generale Galarza, Entre Rios (esperimento) - Principio del motore elettrico**
+**90. General Galarza, Entre Rios (esperimento) - Principio del motore elettrico**
 
-90. Generale Galarza, Entre Rios (esperimento).
+90. General Galarza, Entre Rios (esperimento).
 
 Obiettivo dell'esperienza: Verificare il principio del motore elettrico
 Materiali da utilizzare: un pezzo di legno (15 cm x 15 cm), foglie di fleche, cavo conduttore, cinta isolante, chiodi, martello, filo fino (10 cm), batterie di 1,5 V.
@@ -6233,9 +6233,9 @@ Descrivere ciò che accade con la carica, la capacità e la differenza di potenz
 
 <div class="qlang-split" data-lang="en"></div>
 
-**98. Five jumps, Rio Negro - Condensers with dielectric **
+**98. Cinco Saltos, Rio Negro - Condensers with dielectric **
 
-98. Five jumps, the black river.
+98. Cinco Saltos, the black river.
 
 Two identical capacitors are connected as shown in the figure. A layer of dielectric is inserted between the plates of one of the capacitors while the battery is connected. (Figure)
 Describe what happens with the load, capacity, and potential difference of each capacitor. Basing the answer.
@@ -6450,7 +6450,7 @@ En el circuito, calcular la intensidad que circula por cada resistencia, la caid
 
 <div class="qlang-split" data-lang="it"></div>
 
-**102. Gualeguaychu, Tra i Fiumi - Circuito 3 resistenze**
+**102. Gualeguaychu, Entre Rios - Circuito 3 resistenze**
 
 102. Gualeguaychu, tra i fiumi.
 
@@ -6714,7 +6714,7 @@ Un mercoledì sera tre studenti lavorano per presentare un circuito il giorno do
 
 <div class="qlang-split" data-lang="en"></div>
 
-**106. Gualeguaychu, Between Rivers - Resistance available
+**106. Gualeguaychu, Entre Rios - Resistance available
 
 106. Gualeguaychu, between the rivers.
 
@@ -7014,7 +7014,7 @@ Una persona di altezza h si trova davanti a uno specchio piatto posizionato vert
 
 <div class="qlang-split" data-lang="en"></div>
 
-**112. Gualeguaychu, Between Rivers - Flat mirror minimum height**
+**112. Gualeguaychu, Entre Rios - Flat mirror minimum height**
 
 112. Gualeguaychu, between the rivers.
 
@@ -7333,7 +7333,7 @@ Cuando se arma el dispositivo, accidentalmente una mosca de 0.4 cm se posa sobre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**118. Parana, Tra i Fiumi - Specchio sferica convexa con mosca**
+**118. Parana, Entre Rios - Specchio sferica convexa con mosca**
 
 118. Parana, tra i fiumi.
 
@@ -7350,7 +7350,7 @@ Quando il dispositivo viene armato, accidentalmente una mosca di 0,4 cm si posa 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**118. Parana, Between Rivers - Convex spherical mirror with fly**
+**118. Parana, Entre Rios - Convex spherical mirror with fly**
 
 118. Parana, between Rios.
 
@@ -7620,7 +7620,7 @@ Comprobar experimentalmente la ley de reflexion especular: "El angulo de inciden
 
 <div class="qlang-split" data-lang="it"></div>
 
-**123. Parana, Tra i Fiumi (esperimento) - Legge della riflessione speculare**
+**123. Parana, Entre Rios (esperimento) - Legge della riflessione speculare**
 
 123. Parana, Entre Rios (esperimento).
 
@@ -7634,7 +7634,7 @@ Provare sperimentalmente la legge della riflessione speculare: "L'angolo di inci
 
 <div class="qlang-split" data-lang="en"></div>
 
-**123. Parana, Between Rivers (experimental) - Specular reflection law
+**123. Parana, Entre Rios (experimental) - Specular reflection law
 
 123. Parana, Entre Rios (experimental) is the first of its kind.
 

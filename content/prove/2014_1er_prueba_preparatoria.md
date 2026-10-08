@@ -408,7 +408,7 @@ where $a$ and $b$ are the dimensions of the cross section of the beam (being $b$
 
 **Consigns.** Implement a device similar to that shown in the figure, using as beam a plastic rule of at least 30 cm in length. Using different known masses, determine the arrow $z$ corresponding to different "flying" lengths $L$. Determine the elasticity coefficient for the plastic with which the rule is constructed.
 
-**Elementos disponibles:**
+**Available equipment:**
 - One or two plastic rules.
 - Fine and durable yarn or fishing linen, approximately 0.5 m.
 - It's a paper tape.
@@ -417,7 +417,7 @@ where $a$ and $b$ are the dimensions of the cross section of the beam (being $b$
 
 **Nota:** Es importante garantizar que las reglas (la usada como viga y la de referencia) estén siempre al mismo nivel en ausencia de carga.
 
-**Sugerencias:**
+**Hints:**
 
 (a) Measure the arrow $z$ when subjecting the beam to different forces; use 5 different forces. Build a table with the results.
 

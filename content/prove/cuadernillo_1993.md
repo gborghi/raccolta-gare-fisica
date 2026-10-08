@@ -59,7 +59,7 @@ $g = 9,8 m/s^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza nazionale - Prova teorica blu e verde - Problema 1: fuga rischiosa**
+**Fase nazionale - Prova teorica blu e verde - Problema 1: fuga rischiosa**
 
 Alla fine del secolo scorso, un funzionario della corte britannica abbandona il suo compito portando con sé quattro lingotti d'oro, di 10 Kg ciascuno, che appartenevano al tesoro reale. Il suo piano prevedeva di attraversare il canale della Mancha utilizzando un pallone aerosstatico (a aria calda). Il peso del globo, compreso il sistema di riscaldamento e la canastella, era di 100 Kg e il volume di aria contenuto, quando era gonfiato, di $1.200 m^3$. Il giorno della fuga la temperatura ambiente era di $T_a = 288,16K$ ($15^\circ C$) e il sistema di riscaldamento gli permetteva di riscaldare l'aria del pallone fino a $333,16K$ ($16^\circ C$).
 
@@ -98,7 +98,7 @@ $g = 9,8 m/s^2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Nacional - Prueba Teorica Azul y Verde - Problema 1: Una huida riesgosa**
+**National Round - Blue and Green Theoretical Test - Problem 1: A risky escape**
 
 At the end of the last century, a British court official leaves his duties carrying with him four gold bullion, each 10 kg, belonging to the royal treasury. His plan was to cross the Channel using an aerostatic balloon. The mass of the balloon, including the heating system and the canister, was 100 kg and the volume of air contained, when inflated, was $1.200 m^3$. On the day of the flight the ambient temperature was $T_a = 288,16K$ ($15^\circ C$) and the heating system allowed him to heat the balloon air to $333,16K$ ($16^\circ C$).
 
@@ -169,7 +169,7 @@ Datos: $\alpha_c = 30^\circ$; $m = 0,2 kg$; $R = 1 m$; $d = 0,5 m$; $g = 9,8 m/s
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza nazionale - Prova teorica blu e verde - Problema 2: Un gioco interessante**
+**Fase nazionale - Prova teorica blu e verde - Problema 2: Un gioco interessante**
 
 Un posto del "Cordoba Shopping Center" aveva un gioco consistente in un pista, con "lomo di asino" e ramp, come schematizzato nella figura. Il gioco consisteva nel lanciare una tela da A, in modo tale che fosse intrappolata nel pozzo CD. Un giocatore con conoscenze di fisica, ispirato al gioco, decise di fare alcuni calcoli come quelli che vengono richiesti in continuazione, supponendo la pista senza ragionamento, tranne nel tratto HG:
 
@@ -194,7 +194,7 @@ I dati: $\alpha_c = 30^\circ$; $m = 0,2 kg$; $R = 1 m$; $d = 0,5 m$; $g = 9,8 m/
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Nacional - Prueba Teorica Azul y Verde - Problema 2: Un juego interesante**
+**National Round - Blue and Green Theoretical Test - Problem 2: An interesting game**
 
 One place in the "Cordoba Shopping Center" had a consistent game on a track, with "assle's lip" and ramps, as outlined in the figure. The game consisted of throwing a weave from A, so that it would be trapped in the CD well. A player with knowledge of physics, inspired by the game, decided to make some calculations like those asked for continuously, assuming the track without reasoning, except in the HG section:
 
@@ -251,7 +251,7 @@ Para las preguntas siguientes, suponga la resistencia de cada lampara igual a su
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza nazionale - Prova teorica blu e verde - Problema 3: Un circuito elettrico di emergenza**
+**Fase nazionale - Prova teorica blu e verde - Problema 3: Un circuito elettrico di emergenza**
 
 Una batteria $12V$ e $45Ampere - hora$ (con resistenza interna $0,05\Omega$) è disponibile per montare un circuito di emergenza, per una casa rurale. Il circuito comprende due lampadine $40W$ (per il salotto da pranzo e una camera), una $25W$ per il bagno e una $60W$ per l'esterno. Tutti questi lampi sono per una tensione nominale $12W$. Sono inoltre disponibili gli interruttori e il cavo necessario.
 
@@ -335,7 +335,7 @@ Solo podra utilizar los elementos provistos, papel, lapiz o boligrafo y calculad
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza nazionale - Prova sperimentale blu e verde: ...e può essere utilizzata anche come ohmetro**
+**Fase nazionale - Prova sperimentale blu e verde: ...e può essere utilizzata anche come ohmetro**
 
 E può essere usato anche come O'Hammetro.
 
@@ -369,7 +369,7 @@ Può utilizzare solo gli elementi forniti, carta, penna o penna e calcolatore no
 
 <div class="qlang-split" data-lang="en"></div>
 
-**National Authority - Blue and Green Experimental Test: ... and may also be used as an ohmetre**
+**National Round - Blue and Green Experimental Test: ... and may also be used as an ohmetre**
 
 ...and can also be used as a metric.
 
@@ -432,7 +432,7 @@ h) $\xi$En que instantes el movil esta sujeto al Principio de Masa o al de Inerc
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 1. Formosa azzurra**
+**Fase locale - 1. Formosa azzurra**
 
 Un veicolo cammina su una strada rettilinea a velocità di 20 m/s, per 5 secondi. A partire da quel momento, acquista un'accelerazione di $2m/s^2$ e per 4 secondi, procede in quelle condizioni. All'inizio del quinto secondo, applica i freni e la sua velocità diminuisce a ragione di 2m/s ogni secondo, fino a fermarsi. Si chiede:
 a) $\xi$Che tipo di movimento ha il motore nei primi 5 secondi?
@@ -454,7 +454,7 @@ h) $\xi$In quali momenti il veicolo è soggetto al principio di massa o di inerz
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 1. Formosa Azul**
+**Local Round - 1. Formosa Blue**
 
 A mobile vehicle travels on a straight road at a speed of 20 m/s for 5 seconds. From that moment on, it gains an acceleration of $2m/s^2$ and for 4 seconds, it runs under those conditions. At the start of the fifth second, the brakes are applied and the speed decreases by 2 m/s every second until it stops. He wonders:
 a) $\xi$Que tipo de movimiento posee el movil en los primeros 5 segundos?
@@ -504,7 +504,7 @@ b) $\xi$Cual sera su valor cuando aquel forme un angulo de $45^\circ$ con la hor
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 2. Formosa azzurra**
+**Fase locale - 2. Formosa azzurra**
 
 Un vagone di 1 Tn, è su un piano inclinato $18^\circ$ e in equilibrio per l'azione di un cavo parallelo al piano.
 a) $\xi$Qual è il valore della tensione del cavo?
@@ -525,7 +525,7 @@ b) $\xi$Qual è il suo valore quando esso forma un angolo di $45^\circ$ con la o
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 2. Formosa Blue**
+**Local Round - 2. Formosa Blue**
 
 A 1-ton mine cart is on an inclined plane $18^\circ$ and in equilibrium due to the action of a cable parallel to the plane.
 a) $\xi$What is the tension in the cable?
@@ -562,7 +562,7 @@ d) La velocidad del cuerpo al chocar contra el suelo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 3. Formosa azzurra**
+**Fase locale - 3. Formosa azzurra**
 
 Un corpo di 20 kg cade da 30 metri di altezza. Scopri:
 a) L'energia cinetica che tocca il suolo.
@@ -578,7 +578,7 @@ d) La velocità del corpo colpito dal suolo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 3. Formosa Blue**
+**Local Round - 3. Formosa Blue**
 
 A 20 kg body falls from a height of 30 m. Find:
 a) The kinetic energy when touching the ground.
@@ -608,7 +608,7 @@ El orificio de entrada de la caja se encuentra en el centro de la cara mientras 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 4. Santa Cruz Verde**
+**Fase locale - 4. Santa Cruz Verde**
 
 Una scatola di cartone cubo di 3 metri laterali si trova galleggiando in mare con una Vel. Costante di 4 m/sec. Una pallottola viene sparata in modo normale in una delle facce, e al movimento della scatola, la attraversa.
 Il foro di ingresso della scatola si trova al centro del viso mentre quello di uscita si sposta 2 cm. Scoprire la Vel. della pallottola.
@@ -621,7 +621,7 @@ Il foro di ingresso della scatola si trova al centro del viso mentre quello di u
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 4. Santa Cruz Verde**
+**Local Round - 4. Santa Cruz Green**
 
 A cubic cardboard box 3 m on a side is floating adrift in the sea with a constant velocity of 4 m/s. A bullet fired perpendicular to one of the faces, and to the motion of the box, passes through it.
 The entry hole in the box is at the center of the face, while the exit hole is displaced 2 cm. Find the velocity of the bullet.
@@ -658,7 +658,7 @@ Datos: $\delta_{alum} = 2,7 g/cm^3$; $\delta_{agua} = 1 g/cm^3$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 5. Santa Cruz Verde**
+**Fase locale - 5. Santa Cruz Verde**
 
 Per ciascun dei seguenti casi calcolare il valore indicato dal dinamometro.
 
@@ -681,7 +681,7 @@ Data: $\delta_{alum} = 2,7 g/cm^3$; $\delta_{agua} = 1 g/cm^3$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 5. Santa Cruz Verde**
+**Local Round - 5. Santa Cruz Green**
 
 For each of the following cases calculate the value indicated by the dynamometer.
 
@@ -753,7 +753,7 @@ b) Calcolare dove cade ogni pezzo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 6. Federal Capital Green**
+**Local Round - 6. Federal Capital Green**
 
 A grenade of mass $M = 6Kg$ is launched with an initial velocity $V_0 = 200 \frac{m}{seg}$ forming an angle $\alpha = 60^\circ$ with the horizontal. When it reaches its maximum height it explodes into three equal pieces whose velocities are shown in figure 2.
 a) If $v_1 = 10 \frac{m}{seg}$ and $v_2 = 50 \frac{m}{seg}$ calculate the velocity $v_3$ and the angle it forms with the horizontal.
@@ -795,7 +795,7 @@ Datos: El momento de inercia de la polea es: $I = \frac{m_2 r^2}{2}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 7. Capitale federale verde**
+**Fase locale - 7. Capitale federale verde**
 
 Due masse $m_1 = 3Kg$ e $m_3$ non conosciute sono legate da una corda inestensibile e senza massa, attraverso un polea di massa $m_2 = 2Kg$ e un raggio $r = 10cm$, come mostrato nella figura. C'è un abbattimento tra le masse e il pavimento con un coefficiente dinamico $\mu = 0.2$. Si tira da $m_1$ con una forza $F = 200N$, producendo un'accelerazione $a = 15 \frac{m}{seg^2}$. Calcolare $m_3$ e la torsione totale sul pollice. Si ahora se desea que el sistema este en equilibrio, $\xi$cual debe ser $m_3$?.
 
@@ -816,7 +816,7 @@ Dati: Il momento di inerzia del polo è: $I = \frac{m_2 r^2}{2}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 7. Capital Federal Verde**
+**Local Round - 7. Capital Federal Green**
 
 Two masses $m_1 = 3Kg$ and $m_3$, unknown, are tied by an inextensible and massless rope, over a pulley of mass $m_2 = 2Kg$ and radius $r = 10cm$, as shown in the figure. There is friction between the masses and the floor with a dynamic coefficient $\mu = 0.2$. A force $F = 200N$ is applied to $m_1$, producing an acceleration $a = 15 \frac{m}{seg^2}$. Calculate $m_3$ and the total torque on the pulley. If now the system is to be in equilibrium, $\xi$ what should $m_3$ be?.
 
@@ -860,7 +860,7 @@ b) Desde que altura respecto del punto mas bajo, debera dejarse caer para que la
 
 <div class="qlang-split" data-lang="it"></div>
 
-L'autorità locale - 8. Neocene Verde**
+L'autorità locale - 8. Neuquen Verde**
 
 Un piccolo blocco di massa m = 20 gr. scivola in una via senza rughe in forma di riscia. Parte del riposo da un'altezza h = 5 m.
 
@@ -883,7 +883,7 @@ b) Da che altezza rispetto al punto più basso, deve essere abbassato per far s�
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 8. Neuquen Verde**
+**Local Round - 8. Neuquen Green**
 
 A small block of mass m = 20 g slides on a frictionless track in the shape of a loop. It starts from rest from a height h = 5 m.
 
@@ -918,7 +918,7 @@ Una esfera hueca, construida con un material de densidad 7 $gr/cm^3$ y peso 10 k
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 9. Neocene Verde**
+**Fase locale - 9. Neuquen Verde**
 
 Una sfera vuota, costruita con un materiale di densità 7 $gr/cm^3$ e peso 10 kg. fluttuare in acqua in modo che la linea di galleggiamento attraversare il centro della sfera. $\xi$Que espesor tiene la esfera?
 
@@ -930,7 +930,7 @@ Una sfera vuota, costruita con un materiale di densità 7 $gr/cm^3$ e peso 10 kg
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 9. Neuquen Verde**
+**Local Round - 9. Neuquen Green**
 
 A hollow sphere, constructed with a material of density 7 $gr/cm^3$ and weight 10 kg. floats in water so that the floating line passes through the center of the sphere. $\xi$Que espesor tiene la esfera?
 
@@ -970,7 +970,7 @@ Datos: $m_1 = 150 Kg$; $m_2 = 200 Kg$; $m_3 = 800 Kg$; $m_4 = 100 Kg$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 10. Buenos Aires Verde**
+**Fase locale - 10. Buenos Aires Verde**
 
 Per il sistema dei corpi della figura, calcolare la sua accelerazione e la tensione su ogni corda, assumendo sconsiderati gli arruggi. Ripetere il problema se tra ogni corpo e il pavimento c'è un coefficiente di rottura $N = 0,2$.
 
@@ -991,7 +991,7 @@ I dati: $m_1 = 150 Kg$; $m_2 = 200 Kg$; $m_3 = 800 Kg$; $m_4 = 100 Kg$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 10. Buenos Aires Verde**
+**Local Round - 10. Buenos Aires Green**
 
 For the body system in the figure, calculate its acceleration and tension on each string, assuming the friction is negligible. Repeat the problem if there is a friction coefficient $N = 0,2$ between each body and the floor.
 
@@ -1033,7 +1033,7 @@ Determinar a que hora y a que distancia de la casa de Diana se encuentran. Traza
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 11. Buenos Aires Verde**
+**Fase locale - 11. Buenos Aires Verde**
 
 La casa di Giovanni si trova a 900 m (9 quadri) dalla casa di Diana. Camminando a velocità costante, Juan percorre quella distanza in 10 minuti, mentre Diana la percorre in 15 minuti.
 Un giorno entrambi uscivano alle 15:00, ognuno dalla casa e si dirigeva all'altra casa.
@@ -1047,7 +1047,7 @@ Determinare l'ora e la distanza dalla casa di Diana. Tracciare un grafico di pos
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 11. Buenos Aires Verde**
+**Local Round - 11. Buenos Aires Green**
 
 Juan's house is 900 m (9 blocks) from Diana's house. Walking at constant speed, Juan takes 10 minutes to cover that distance, while Diana covers it in 15 minutes.
 One day they both leave at 3 PM, each from their own house and heading to the other's house.
@@ -1087,7 +1087,7 @@ c3) $\xi$Cual es la presion absoluta en la cara inferior del bloque en Pa?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 12. Mendoza Verde**
+**Fase locale - 12. Mendoza Verde**
 
 Il blocco A della figura è sospeso con una corda, di un dinamometro D e si trova immerso in un liquido C contenuto nel vaso B. Il peso del vaso è di 8,9 N e quello del liquido è di 13,35 N. Il dinamometro D indica 22,25N e il dinamometro di compressione E 66,78N. Sapendo che l'orlo del blocco cubico è di 10 cm:
 a) $\xi$Qual è il peso per unità di volume del liquido?
@@ -1112,7 +1112,7 @@ c3) $\xi$Qual è la pressione assoluta sul lato inferiore del blocco in Pa?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 12. Mendoza Verde**
+**Local Round - 12. Mendoza Green**
 
 The block A of the figure is suspended by a rope, a dynamometer D and is submerged in a liquid C contained in the glass B. The weight of the glass is 8.9N and that of the liquid is 13.35N. The dynamometer D indicates 22,25N and the compression dynamometer E 66,78N. Knowing that the edge of the cube block is 10 cm:
 (a) $\xi$What is the weight per unit volume of liquid?
@@ -1162,7 +1162,7 @@ c2) Si en lugar de caer la caja, se apoya la misma suavemente sobre la plataform
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 13. Mendoza Verde**
+**Fase locale - 13. Mendoza Verde**
 
 Un uomo spinge una scatola di 4 kg. Di conseguenza, si sposta con una velocità iniziale di 6 m/s per il piano orizzontale. Comincia poi a salire per un piano inclinato di $30^\circ$. C'è un'acciaio tra il corpo e la superficie del piano inclinato. Per questo il corpo si ferma ad un'altezza di 1,5 metri invece di fermarsi più in alto.
 a) Calcolare la forza di ruggine che agisce sul corpo, supponendo che sia costante.
@@ -1180,7 +1180,7 @@ c2) Se invece di cadere la scatola fosse appoggiata sulla piattaforma, $\xi$ qua
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 13. Mendoza Verde**
+**Local Round - 13. Mendoza Green**
 
 A man pushes a 4 kg box. As a result, it moves with an initial speed of 6 m/s along the horizontal plane. Then it begins to go up an inclined plane of $30^\circ$. There is friction between the body and the surface of the inclined plane. Because of this, the body stops at a height of 1.5 m instead of stopping higher up.
 a) Calculate the friction force acting on the body, assuming it is constant.
@@ -1215,7 +1215,7 @@ Determinara entre que valores puede variar P para que el bloque de 80 kg no se d
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 14. Buenos Aires Verde**
+**Fase locale - 14. Buenos Aires Verde**
 
 Determinare tra quali valori P può variare in modo che il blocco di 80 kg non scenda verso l'alto o verso il basso. Il coefficiente di rottura statica tra il blocco e il piano inclinato è $\mu = 0,3$.
 
@@ -1231,7 +1231,7 @@ Determinare tra quali valori P può variare in modo che il blocco di 80 kg non s
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 14. Buenos Aires Verde**
+**Local Round - 14. Buenos Aires Green**
 
 Determine between what values P can vary so that the 80 kg block does not slide up or down. The coefficient of static friction between the block and the inclined plane is $\mu = 0,3$.
 
@@ -1263,7 +1263,7 @@ Datos: M: 8 Kg. V: 6 m/s. $\alpha = 20^\circ$. $\beta = 30^\circ$. L: 2,66 m Ce 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 15. Mendoza Azul**
+**Fase locale - 15. Mendoza Blu**
 
 Una palla di massa M si muove a velocità V costante in un piano orizzontale, fino a raggiungere un piano inclinato di angolo $\alpha$ e L di lunghezza, per il quale scende passando a un piano orizzontale. Alla fine arriva ad un altro piano inclinato il cui angolo è $\beta$ da cui sale. Considera nulla il ruggine. Calcule: la distancia que correra la bola por el segundo plano inclinado antes de detenerse completamente, y si volviera al punto de partida, $\xi$con que energia cinetica lo haria?. Se la palla è di piombo $\xi$, qual è la variazione di temperatura che subisce, al ritorno alla posizione iniziale, supponendo che il piano attraverso il quale si sposta non assorba calore? Vedi grafico 1.
 Dati: M: 8 kg. V: 6 m/s. $\alpha = 20^\circ$. $\beta = 30^\circ$. L: 2,66 m Ce Pb: 0,030 cal/g $^\circ$c.
@@ -1280,7 +1280,7 @@ Dati: M: 8 kg. V: 6 m/s. $\alpha = 20^\circ$. $\beta = 30^\circ$. L: 2,66 m Ce P
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 15. Mendoza Azul**
+**Local Round - 15. Mendoza Blue**
 
 A ball of mass M moves at constant V velocity in a horizontal plane, until it reaches an inclined angle plane $\alpha$ and L long, through which it descends passing to a horizontal plane. Finally it reaches another sloping plane whose angle is $\beta$ from which it rises. Consider the friction null. Calcule: la distancia que correra la bola por el segundo plano inclinado antes de detenerse completamente, y si volviera al punto de partida, $\xi$con que energia cinetica lo haria?. If the ball is lead $\xi$ what is the temperature change it is going to experience, when it returns to its initial position, assuming that the plane through which it is moving does not absorb heat? See chart 1.
 The data is available for the following purposes: V: 6 m/s. $\alpha = 20^\circ$. $\beta = 30^\circ$. L: 2,66 m Ce Pb: 0,030 cal/g $^\circ$c.
@@ -1323,7 +1323,7 @@ En los vertices del cuadrado se colocan sucesivamente masa de 1 - 3 - 5 y 7 Kg d
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 16. Tra i Fiumi Azul**
+**Fase locale - 16. Entre Rios Blu**
 
 Le cime del quadrato sono successivamente messe in massa da 1 - 3 - 5 kg e 7 kg di peso. Trovare le coordinate del centro di gravità.
 
@@ -1342,7 +1342,7 @@ Le cime del quadrato sono successivamente messe in massa da 1 - 3 - 5 kg e 7 kg 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 16. Entre Rios Azul**
+**Local Round - 16. Entre Rios Blue**
 
 At the vertices of the square, masses of 1 - 3 - 5 and 7 kg of weight are placed successively. Find the coordinates of the center of gravity.
 
@@ -1388,7 +1388,7 @@ k - calcule su presion si la superficie sobre la que actua es de $1,8 \cdot 10^3
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 17. Tra i Fiumi Azul**
+**Fase locale - 17. Entre Rios Blu**
 
 I) Si tratta di un corpo prismatico di base quadrangolare, le cui misure sono: $l = 5 cm$, $h = 16 cm$, $m = 1,2 \cdot 10^4 mg$.
 Si chiede di calcolare:
@@ -1415,7 +1415,7 @@ k - calcola la sua pressione se la superficie su cui opera è $1,8 \cdot 10^3 cm
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 17. Entre Rios Azul**
+**Local Round - 17. Entre Rios Blue**
 
 I) Consider a prismatic body with a quadrangular base whose measurements are: $l = 5 cm$, $h = 16 cm$, $m = 1,2 \cdot 10^4 mg$.
 Calculate:
@@ -1457,7 +1457,7 @@ En un planeta donde la aceleracion de la gravedad es de $10^m/s^2$, se tiene un 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 18. Capitale federale verde**
+**Fase locale - 18. Capitale federale verde**
 
 Su un pianeta dove l'accelerazione della gravità è $10^m/s^2$, si ha un sistema come quello indicato nella figura A. Calcolare la tensione che la corda esercita all'istante prima di rilasciare la massa di 1 Kg per comprimere la molla a 0,5 m.
 
@@ -1471,7 +1471,7 @@ Su un pianeta dove l'accelerazione della gravità è $10^m/s^2$, si ha un sistem
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 18. Federal Capital Green**
+**Local Round - 18. Federal Capital Green**
 
 On a planet where the acceleration of gravity is $10^m/s^2$, there is a system like the one shown in figure A. Calculate the tension exerted by the rope at the instant before releasing the 1 kg mass so that the spring compresses 0.5 m.
 
@@ -1504,7 +1504,7 @@ C) Si ahora se abre el bucle en el tramo PM (es decir que no hay rieles en ese t
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 19. Capitale federale azzurro**
+**Fase locale - 19. Capitale federale azzurro**
 
 Un carrello di massa "m" scende lungo i binari di un piano inclinato AB e poi forma un ciclo di radio "r".
 Se si disprezza il ruggine e si considera il carrello un corpo puntuale:
@@ -1522,7 +1522,7 @@ C) Se si apre ora il ciclo nel tratto PM (cioè non ci sono ferrovie in quel tra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 19. Capital Federal Blue**
+**Local Round - 19. Capital Federal Blue**
 
 A cart of mass "m" descends along the rails of an inclined plane AB and then forms a loop of radius "r".
 If friction is neglected and the cart is considered a point mass:
@@ -1555,7 +1555,7 @@ b) Calcular la ecuacion de la velocidad en funcion del tiempo a partir del momen
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 20. Capitale federale azzurro**
+**Fase locale - 20. Capitale federale azzurro**
 
 Un cubo di legno di 20 cm di aristo e $0,7 g/cm^3$ di densità è stato trovato galleggiando nell'acqua. Se lo mettiamo 5 cm più sotto la sua posizione di equilibrio e lo lasciamo oscillare liberamente:
 a) Calcolare il periodo di oscillazione.
@@ -1569,7 +1569,7 @@ b) Calcolare l'equazione della velocità in funzione del tempo a partire dal mom
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 20. Capital Federal Azul**
+**Local Round - 20. Capital Federal Blue**
 
 A wooden cube with a 20 cm edge and density $0,7 g/cm^3$ is floating in water. If we push it 5 cm further below its equilibrium position and leave it free to oscillate:
 a) Calculate the period of oscillation.
@@ -1602,7 +1602,7 @@ d) $\xi$En que instantes pasara la granada por un punto situado a 10 Km de altur
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 21. Cordoba Azul**
+**Fase locale - 21. Cordoba Blu**
 
 Un cannone antiaereo lancia una granata verticalmente a una velocità di 500 m/s.
 Calcolare a) La massima altezza raggiunta dalla granata.
@@ -1620,7 +1620,7 @@ d) $\xi$Qual è il momento in cui la granata è passata da un punto situato ad u
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 21. Cordoba Blue**
+**Local Round - 21. Cordoba Blue**
 
 An anti-aircraft cannon launches a shell vertically with a speed of 500 m/s.
 Calculate a) The maximum height the shell will reach.
@@ -1651,7 +1651,7 @@ Una bala de 15g se dispara con una velocidad de 300 m/s sobre un bloque de mader
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 22. Cordoba Azul**
+**Fase locale - 22. Cordoba Blu**
 
 Una pallottola da 15g viene sparata a velocità di 300 m/s su un blocco di legno. Se la pallottola penetra nel legno 5 cm prima di fermarsi. Calcolare la forza di resistenza offerta dal legno.
 
@@ -1665,7 +1665,7 @@ Una pallottola da 15g viene sparata a velocità di 300 m/s su un blocco di legno
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 22. Cordoba Azul**
+**Local Round - 22. Cordoba Blue**
 
 A 15 g bullet is fired with a speed of 300 m/s at a wooden block. If the bullet penetrates 5 cm into the wood before stopping. Calculate the resistance force offered by the wood.
 
@@ -1693,7 +1693,7 @@ Que distancia recorre el pajarito hasta el instante en que los trenes se cruzan?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 23. La Rioja Azul**
+**Fase locale - 23. La Rioja Blu**
 
 Dalle stazioni A e B, distanti 160 Km, partono contemporaneamente due treni: uno da A a B e l'altro da B a A, entrambi a 40 Km/h. Un uccellino che è sulla locomotiva in A vola all'istante della partenza verso la quale esce da B a velocità di 60 Km/h, mantenendo quella direzione e direzione.
 Quanto lontano percorre l'uccello fino al momento in cui i treni si incrociano?
@@ -1708,7 +1708,7 @@ Quanto lontano percorre l'uccello fino al momento in cui i treni si incrociano?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 23. La Rioja Azul**
+**Local Round - 23. La Rioja Blue**
 
 From stations A and B, 160 km apart, two trains depart at the same time: one from A toward B and the other from B toward A, both at 40 km/h. A little bird that is on the locomotive at A flies at the instant of departure toward the one leaving from B at a rate of 60 km/h, maintaining that direction and sense.
 What distance does the little bird travel until the instant when the trains cross each other?
@@ -1738,7 +1738,7 @@ Se lanza una pelota de 200 gramos con una velocidad inicial de 25 metros/segundo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 24. La Rioja Azul**
+**Fase locale - 24. La Rioja Blu**
 
 Si lancia una palla di 200 grammi con una velocità iniziale di 25 metri/secondo formando un angolo di 53 gradi verso l'alto rispetto all'orizzontale.
 2.1. - Qual è l'energia meccanica totale inizialmente?
@@ -1754,7 +1754,7 @@ Si lancia una palla di 200 grammi con una velocità iniziale di 25 metri/secondo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 24. La Rioja Azul**
+**Local Round - 24. La Rioja Blue**
 
 A 200-gram ball is thrown with an initial velocity of 25 meters/seconds forming an angle of 53 degrees upward with respect to the horizontal.
 2.1. - What is the total mechanical energy initially?
@@ -1785,7 +1785,7 @@ Un cubo de madera de 10 cm de lado se encuentra dentro de un recipiente que cont
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 25. Capitale federale verde**
+**Fase locale - 25. Capitale federale verde**
 
 Un cubo di legno di 10 cm laterale è all'interno di un recipiente contenente acqua ($\delta = 1 g/cm^3$) e un altro liquido ($\delta = 0,6 g/cm^3$) non miscibili. Se la parte inferiore del cubo è 2 cm sotto la superficie tra i liquidi, calcolare la massa del cubo. ($g = 10 m/s^2$).
 
@@ -1799,7 +1799,7 @@ Un cubo di legno di 10 cm laterale è all'interno di un recipiente contenente ac
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 25. Federal Capital Green**
+**Local Round - 25. Federal Capital Green**
 
 A wooden cube with a side of 10 cm is inside a container that holds water ($\delta = 1 g/cm^3$) and another immiscible liquid ($\delta = 0,6 g/cm^3$). If the lower face of the cube is 2 cm below the surface between the liquids, calculate the mass of the cube. ($g = 10 m/s^2$).
 
@@ -1833,7 +1833,7 @@ Un autito (despreciar el rozamiento y la masa de las ruedas) se suelta desde un 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 26. Capitale federale verde**
+**Fase locale - 26. Capitale federale verde**
 
 Un autito (sottopreparando il ruggine e la massa delle ruote) si solleva da un'altezza H e poi salta per un ramp a $45^\circ$ di altezza h $\xi$ H. $\xi$Cual es la altura maxima que alcanza el autito durante el vuelo?
 
@@ -1852,7 +1852,7 @@ Un autito (sottopreparando il ruggine e la massa delle ruote) si solleva da un'a
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 26. Federal Capital Green**
+**Local Round - 26. Federal Capital Green**
 
 A little car (neglect friction and the mass of the wheels) is released from a height H and then jumps off a ramp at $45^\circ$ of height h $\xi$ H. $\xi$What is the maximum height reached by the little car during the flight?
 
@@ -1885,7 +1885,7 @@ Calcular la tension del cable y las fuerzas vertical y horizontal que actuan sob
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 27. Junin, Mendoza Verde
+**Fase locale - 27. Junin, Mendoza Verde
 
 Calcolare la tensione del cavo e le forze verticali e orizzontali che agiscono sul giosso della gru della figura.
 
@@ -1899,7 +1899,7 @@ Calcolare la tensione del cavo e le forze verticali e orizzontali che agiscono s
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 27. Junin, Mendoza Verde**
+**Local Round - 27. Junin, Mendoza Green**
 
 Calculate the tension of the cable and the vertical and horizontal forces acting on the hinge of the crane in the figure.
 
@@ -1929,7 +1929,7 @@ Resistencia de la varilla = 1000 $Kg/cm^2$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 28. Junin, Mendoza Verde
+**Fase locale - 28. Junin, Mendoza Verde
 
 Un corpo di 10 Kg è legato a un rotore da un bastone che forma $90^\circ$ con esso. Questo rotore, inizialmente a riposo, inizia a girare con un'accelerazione costante di $1m/s^2$. Calcolare il tempo necessario per tagliare la bacchetta disprezzando il suo peso e la sua estensione.
 Lunghezza della canna = 1 m
@@ -1944,7 +1944,7 @@ Resistenza della canna = 1000 $Kg/cm^2$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 28. Junin, Mendoza Verde**
+**Local Round - 28. Junin, Mendoza Green**
 
 A body weighing 10 kg is attached to a rotor by a rod that forms $90^\circ$ with it. This rotor, initially at rest, begins to rotate with a constant acceleration of $1m/s^2$. Calculate the time necessary for the rod to break, neglecting its weight and stretching.
 Rod length = 1 m
@@ -1980,7 +1980,7 @@ b) El tiempo que tarda en llegar a esa profundidad y volver a la superficie.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 29. Giuggiolo Verde**
+**Fase locale - 29. Jujuy Verde**
 
 Un oggetto di cork $Pe = 0,2 \bar{g}/cm^3$ viene abbassato da un'altezza di 5 m, sopra la superficie di un lago.
 Considerando che il suo movimento è opposto solo alla spinta dell'acqua, calcolare:
@@ -2000,7 +2000,7 @@ b) Il tempo necessario per raggiungere tale profondità e tornare in superficie.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 29. Jujuy Verde**
+**Local Round - 29. Jujuy Green**
 
 A cork object of $Pe = 0,2 \bar{g}/cm^3$ is dropped from a height of 5 m onto the surface of a lake.
 Considering that only the buoyancy of the water opposes its motion, calculate:
@@ -2041,7 +2041,7 @@ f) Cuanto debe valer el coeficiente de roce para que los cuerpos se muevan con v
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 30. Giuggiolo Verde**
+**Fase locale - 30. Jujuy Verde**
 
 Due blocchi uniti da una corda che passa attraverso una piccola pollea senza rughe, si mantiene a riposo su piani lisci.
 
@@ -2062,7 +2062,7 @@ f) Quanto deve valere il coefficiente di rottura per muovere i corpi a velocità
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 30. Jujuy Verde**
+**Local Round - 30. Jujuy Green**
 
 Two blocks joined by a rope that passes over a small frictionless pulley are held at rest on smooth planes.
 
@@ -2098,7 +2098,7 @@ b) A que distancia del eje puede colocar la moneda, sin que deslice, si el disco
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 31. Giuggiolo Verde**
+**Fase locale - 31. Jujuy Verde**
 
 Una moneta posta su un disco che ruota a velocità costante di 78 rv/min. rimane a riposo rispetto a quest'ultimo quando la sua distanza dall'asse è inferiore a 7,5 cm.
 a) Qual è il coefficiente di rottura statico tra moneta e disco?
@@ -2112,7 +2112,7 @@ b) A che distanza dall'asse può essere posta la moneta, senza scivolare, se il 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 31. Jujuy Verde**
+**Local Round - 31. Jujuy Green**
 
 A coin placed on a disk that rotates at a constant speed of 78 rev/min remains at rest relative to it when its distance from the axis is less than 7.5 cm.
 a) What is the static friction coefficient between the coin and the disk?
@@ -2139,7 +2139,7 @@ Un trozo de hielo resbala hacia abajo por una pendiente de $45^\circ$ en un tiem
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 32. Giuggiolo Azul**
+**Fase locale - 32. Jujuy Blu**
 
 Un pezzo di ghiaccio scivola giù per una pendice di $45^\circ$ in un tempo doppio rispetto al tempo necessario per scivolare per una pendice di $45^\circ$ senza attrito. Qual è il coefficiente di attrito tra il ghiaccio e il pavimento della pendenza?
 
@@ -2151,7 +2151,7 @@ Un pezzo di ghiaccio scivola giù per una pendice di $45^\circ$ in un tempo dopp
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 32. Jujuy Azul**
+**Local Round - 32. Jujuy Blue**
 
 A piece of ice slides down a slope of $45^\circ$ in twice the time it takes to slide down a slope of $45^\circ$ without friction. What is the coefficient of friction between the ice and the surface of the slope?
 
@@ -2178,7 +2178,7 @@ Un recipiente cilindrico de 20 cm de diametro flota en el agua emergiendo 10 cm 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 33. Giuggiolo Azul**
+**Fase locale - 33. Jujuy Blu**
 
 Un recipiente cilindrico di 20 cm di diametro galleggia nell'acqua emergendo 10 cm dalla superficie libera, quando dal fondo è appeso un blocco di ferro di 10 Kgr. Se il blocco di ferro viene inserito dentro il recipiente. Qual è l'altezza che emerge? 7,8 $gr/cm^3$ è il peso specifico del ferro.
 
@@ -2192,7 +2192,7 @@ Un recipiente cilindrico di 20 cm di diametro galleggia nell'acqua emergendo 10 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 33. Jujuy Azul**
+**Local Round - 33. Jujuy Blue**
 
 A cylindrical container 20 cm in diameter floats in water with 10 cm emerging above the free surface, when an iron block of 10 kg is hung from its bottom. If the iron block is now placed inside the container. What will be the height that emerges? given that the specific weight of iron is 7.8 $gr/cm^3$.
 
@@ -2219,7 +2219,7 @@ Un hombre que corre tiene la mitad de la energia cinetica que tiene un muchacho 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 34. Giuggiolo Verde**
+**Fase locale - 34. Jujuy Verde**
 
 Un uomo che corre ha metà dell'energia cinetica di un ragazzo che ha metà di massa. L'uomo aumenta la sua velocità di 1 m/s e quindi ha la stessa energia cinetica del ragazzo. Quali erano le velocità iniziali dell'uomo e del ragazzo?
 
@@ -2231,7 +2231,7 @@ Un uomo che corre ha metà dell'energia cinetica di un ragazzo che ha metà di m
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 34. Jujuy Verde**
+**Local Round - 34. Jujuy Green**
 
 A running man has half the kinetic energy of a boy whose mass is half of his. The man increases his speed by 1 m/s and then has the same kinetic energy as the boy. What were the initial speeds of the man and the boy?
 
@@ -2269,7 +2269,7 @@ Suponga que el proyectil y el misil se mueven en un mismo plano.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 35. Rio Segundo, Cordoba Verde**
+**Fase locale - 35. Rio Segundo, Cordoba Verde**
 
 Un gruppo di spionaggio vuole distruggere un edificio del governo che ha un'altezza L, per questo lancia un proiettile da una distanza di 70 metri. con velocità $V_0$ che forma orizzontalmente un angolo $\alpha = 75^\circ$; è noto che la metà del raggio di raggiungimento del proiettile è di 50 m.
 L'edificio del governo ha un dispositivo di sicurezza alla base, che lancia un missile, non guidato, in forma verticale, che può distruggere qualsiasi proiettile che si incrocia nel suo cammino.
@@ -2294,7 +2294,7 @@ Supponiamo che il proiettile e il missile si muovano nello stesso piano.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 35. Rio Segundo, Cordoba Verde**
+**Local Round - 35. Rio Segundo, Cordoba Green**
 
 A spy group wants to destroy an L-height government building, so it launches a projectile from a distance of 70 meters. with a speed $V_0$ that horizontally forms an angle $\alpha = 75^\circ$; half the projectile range is known to be 50 m.
 The government building has a security device at its base, which launches an unguided missile, vertically, that can destroy any projectile that crosses its path.
@@ -2347,7 +2347,7 @@ $G = 6,673 \cdot 10^{-11} N \cdot m^2/kg^2$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 36. Rio Segundo, Cordoba Verde**
+**Fase locale - 36. Rio Segundo, Cordoba Verde**
 
 Si desidera posizionare un satellite meteorologico in orbita a 970 Km. della superficie terrestre.
 (a) Calcola la velocità da stampare sul satellite. $\xi$que sucederia si ella fuese menor que el valor encontrado, y si fuese mayor?.
@@ -2368,7 +2368,7 @@ $G = 6,673 \cdot 10^{-11} N \cdot m^2/kg^2$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 36. Rio Segundo, Cordoba Verde**
+**Local Round - 36. Rio Segundo, Cordoba Green**
 
 A meteorological satellite is to be placed in orbit at 970 km. of the earth's surface.
 (a) Calculate the speed to be printed on the satellite. $\xi$que sucederia si ella fuese menor que el valor encontrado, y si fuese mayor?.
@@ -2415,7 +2415,7 @@ Para el caso de la figura, calcular que es lo que indicaria el dinamometro en es
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 37. Mar del Plata, Buenos Aires Azul**
+**Fase locale - 37. Mar del Plata, Buenos Aires Blu**
 
 Per il caso della figura, calcolare ciò che il dinamometro indicherebbe in quella situazione.
 
@@ -2434,7 +2434,7 @@ Per il caso della figura, calcolare ciò che il dinamometro indicherebbe in quel
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 37. Mar del Plata, Buenos Aires Azul**
+**Local Round - 37. Mar del Plata, Buenos Aires Blue**
 
 For the case in the figure, calculate what the dynamometer would indicate in that situation.
 
@@ -2466,7 +2466,7 @@ Calcular la posicion y la hora que marca el reloj, cuando se encuentran.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 38. Mar del Plata, Buenos Aires Azul**
+**Fase locale - 38. Mar del Plata, Buenos Aires Blu**
 
 Due motori si spostano in direzione opposta per un sentiero retto. Il motore A parte dal punto 1 quando il orologio fa 9 ore. e si avanza con $a = 0,2 m/s^2$ fino alle 9 h. 15 minuti, poi continua a velocità costante. Il motore B si muove verso A a velocità costante di 72 Km/h, e passa attraverso un punto 2 situato a 2000 Km di 1 quando l'orologio marca le 10.30 hs.
 Calcolare la posizione e l'ora che il orologio segna, quando si trovano.
@@ -2479,7 +2479,7 @@ Calcolare la posizione e l'ora che il orologio segna, quando si trovano.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 38. Mar del Plata, Buenos Aires Azul**
+**Local Round - 38. Mar del Plata, Buenos Aires Blue**
 
 Two mobiles travel in opposite directions along a straight road. Mobile A starts from point 1 when the clock reads 9 a.m. and moves with acceleration $a = 0,2 m/s^2$ until 9:15 a.m.; then it continues with constant velocity. Mobile B travels toward A with a constant velocity of 72 km/h, and passes through a point 2 located 2000 km from 1 when the clock reads 10:30 a.m.
 Calculate the position and the time shown by the clock when they meet.
@@ -2514,7 +2514,7 @@ b) Cuanto vale la fuerza normal que el riel ejerce sobre el carro cuando pasa po
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 39. Mar del Plata, Buenos Aires Azul**
+**Fase locale - 39. Mar del Plata, Buenos Aires Blu**
 
 Un carro, di massa m = 100 Kg, si muove sulla montagna russa senza rottura.
 a) Calcolare la velocità del carro quando passa attraverso i punti A, B e C.
@@ -2535,7 +2535,7 @@ b) Qual è la forza normale che il binario esercita sul carro quando passa attra
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 39. Mar del Plata, Buenos Aires Azul**
+**Local Round - 39. Mar del Plata, Buenos Aires Blue**
 
 A cart, of mass m = 100 kg, moves along the roller coaster without friction.
 a) Calculate the speed of the cart when it passes through points A, B and C.
@@ -2572,7 +2572,7 @@ Una palangana llena de agua esta apoyada en equilibrio sobre un soporte. Si colo
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 40. Mar del Plata, Buenos Aires Azul**
+**Fase locale - 40. Mar del Plata, Buenos Aires Blu**
 
 Una vasca piena di acqua è appoggiata in equilibrio su un supporto. Se mettiamo un blocco di legno, come indica la figura, la pianta cade? - Giustificare la risposta.
 
@@ -2588,7 +2588,7 @@ Una vasca piena di acqua è appoggiata in equilibrio su un supporto. Se mettiamo
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 40. Mar del Plata, Buenos Aires Azul**
+**Local Round - 40. Mar del Plata, Buenos Aires Blue**
 
 A basin full of water is resting in equilibrium on a support. If we place a block of wood, as shown in the figure, does the basin fall? - Justify the answer.
 
@@ -2619,7 +2619,7 @@ El bote de la figura pesa 50 Kgf, y por razones de seguridad no es conveniente q
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Istanza Locale - 41. Rosario, Santa Fe Verde**
+**Fase locale - 41. Rosario, Santa Fe Verde**
 
 La barca della figura pesa 50 Kgf, e per ragioni di sicurezza non è opportuno che il suo bordo sia a meno di 35 cm dalla superficie dell'acqua. Quante persone di 80 Kgf di peso possono occupare la barca.
 
@@ -2627,7 +2627,7 @@ La barca della figura pesa 50 Kgf, e per ragioni di sicurezza non è opportuno c
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 41. Rosario, Santa Fe Verde**
+**Local Round - 41. Rosario, Santa Fe Green**
 
 The boat in the figure weighs 50 Kgf, and for safety reasons it is not advisable for its edge to be less than 35 cm from the water surface. How many people weighing 80 Kgf can occupy the boat.
 
@@ -2661,7 +2661,7 @@ Mida la distancia $\Delta x$ correspondiente a cada intervalo en la figura.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 42. Rosario, Santa Fe Verde**
+**Fase locale - 42. Rosario, Santa Fe Verde**
 
 Misura la distanza $\Delta x$ corrispondente a ciascun intervallo nella figura.
 (a) Qual è la velocità $\Delta x/\Delta t$ in ogni intervallo?
@@ -2680,7 +2680,7 @@ Misura la distanza $\Delta x$ corrispondente a ciascun intervallo nella figura.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 42. Rosario, Santa Fe Verde**
+**Local Round - 42. Rosario, Santa Fe Green**
 
 Measure the distance $\Delta x$ corresponding to each interval in the figure.
 (a) What is the velocity $\Delta x/\Delta t$ in each interval?
@@ -2714,7 +2714,7 @@ Se considera el mismo sistema, pero ahora con el cuerpo $m_3$ completamente sume
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 43. Capitale federale verde**
+**Fase locale - 43. Capitale federale verde**
 
 Al massaggio dei corpi $m_1$ e $m_2$ è di 1 kg e l'accelerazione del sistema è di $2.5 m/s^2$ a destra, calcolare $m_3$.
 
@@ -2730,7 +2730,7 @@ Si considera lo stesso sistema, ma ora con il corpo $m_3$ completamente immerso 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 43. Capital Federal Verde**
+**Local Round - 43. Capital Federal Green**
 
 The mass of the bodies $m_1$ and $m_2$ is 1 kg and the acceleration of the system is $2.5 m/s^2$ to the right, calculate $m_3$.
 
@@ -2759,7 +2759,7 @@ Dos pequenos pendulos electricos estan sujetos del mismo punto y sus respectivos
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 44. Cordoba Azul**
+**Fase locale - 44. Cordoba Blu**
 
 Due piccoli penduli elettrici sono soggetti allo stesso punto e i loro rispettivi fili di sospensione, di massa sconsiderata, sono della stessa lunghezza, in modo che le due sfere sono in contatto. Entrambi si caricano con la stessa carica, rinviandosi fino a che le fili di entrambi i pendoli formano un angolo di $90^\circ$. Determinare quale frazione della carica originale è stata persa quando l'angolo tra i due è ridotto a $60^\circ$.
 
@@ -2771,7 +2771,7 @@ Due piccoli penduli elettrici sono soggetti allo stesso punto e i loro rispettiv
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 44. Cordoba Azul**
+**Local Round - 44. Cordoba Blue**
 
 Two small electric pendulums are suspended from the same point and their respective suspension threads, of negligible mass, are of the same length, such that both spheres are in contact. Both are charged with the same charge, repelling each other until the threads of both pendulums form an angle of $90^\circ$. Determine what fraction of the original charge they have lost when the angle between them is reduced to $60^\circ$.
 
@@ -2808,7 +2808,7 @@ r = 0,01 ohm
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 45. Mendoza Azul**
+**Fase locale - 45. Mendoza Blu**
 
 Due studenti hanno tre resistenze e una batteria, la collegano secondo la figura. Ma ora non sanno calcolare l'energia calorica che dissipa la resistenza R3, né quanti KW-H consumano il circuito, durante le 3 ore di funzionamento. $\xi$Podrias ayudarlos?
 R1 = 2 OHM
@@ -2832,7 +2832,7 @@ R = 0,01 ohm
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 45. Mendoza Azul**
+**Local Round - 45. Mendoza Blue**
 
 Two students have three resistors and a battery, they connect it according to the figure. But now they can't calculate the calorie energy that dissipates R3 resistance, or how many KW-H the circuit consumes, during the three hours of operation. $\xi$Podrias ayudarlos?
 R1 = 2 OHM
@@ -2887,7 +2887,7 @@ licuadora / 100 w / 5 min.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 46. Tra i Fiumi Azul**
+**Fase locale - 46. Entre Rios Blu**
 
 In una casa si vuole calcolare, in misura stimata, il consumo di energia elettrica mensile (in Kw h) e l'intensità di ogni dispositivo (in A); tenendo conto dei seguenti dati:
 Artefatti / Potenza / Tempo di utilizzo giornaliero
@@ -2911,7 +2911,7 @@ liquidatore / 100 w / 5 min.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 46. Entre Rios Azul**
+**Local Round - 46. Entre Rios Blue**
 
 At a household, the monthly electricity consumption (in kWh) and the current of each appliance (in A) are to be estimated, taking into account the following data:
 APPLIANCES / POWER / DAILY USE TIME
@@ -2958,7 +2958,7 @@ b) Se desea encender solo 4 lamparas.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 47. Capitale federale azzurro**
+**Fase locale - 47. Capitale federale azzurro**
 
 Nel circuito successivo tutte le lampade sono uguali di 40W/220v e S1, S2, S3 e S4 con interruttori che possono essere in posizione chiusa o aperta. I cavi di connessione sono considerati con una resistenza elettrica scarsa.
 Per ciascuna delle seguenti domande, indicare che interruttori devono essere chiusi e aperti, che lampade sono accese e spente e indicare l'ampiezzatore in ogni caso.
@@ -2980,7 +2980,7 @@ b) Si desiderano accendere solo 4 lampade.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 47. Capital Federal Blue**
+**Local Round - 47. Capital Federal Blue**
 
 In the following circuit all the lamps are identical, 40W/220v, and S1, S2, S3 and S4 are switches that can be in the closed or open position. The connecting wires are considered to have negligible electrical resistance.
 For each of the following questions, indicate which switches must be closed and open, which lamps are on and off, and what the ammeter will indicate in each case.
@@ -3024,7 +3024,7 @@ En el circuito de la figura, determinar:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 48. La Rioja Azul**
+**Fase locale - 48. La Rioja Blu**
 
 Nel circuito della figura, determinare:
 3.1. In quale delle R il corrente è minimo?
@@ -3046,7 +3046,7 @@ Nel circuito della figura, determinare:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 48. La Rioja Azul**
+**Local Round - 48. La Rioja Blue**
 
 In the circuit of the figure, determine:
 3.1. In which of the R's is the current minimum?
@@ -3088,7 +3088,7 @@ Ignorar la interaccion de las cargas de los extremos opuestos de la barra.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 49. Junin, Mendoza Verde
+**Fase locale - 49. Junin, Mendoza Verde
 
 La figura mostra una barra lunga, isolante, senza massa, di lunghezza l, pivotata al centro e sbalzata da un peso W che si trova a una distanza x dal suo estremo sinistro. All'estremità sinistra della barra si pone una carica positiva q, e alla destra un'altra di 2 q.
 A distanza h, direttamente sotto queste cariche, vengono poste due cariche Q positive.
@@ -3108,7 +3108,7 @@ Ignorare l'interazione delle cariche delle estremità opposte della barra.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 49. Junin, Mendoza Verde**
+**Local Round - 49. Junin, Mendoza Green**
 
 The figure shows a long insulating rod, massless, of length l, pivoted at its center and balanced by a weight W located at a distance x from its left end. At the left end of the rod a positive charge q is placed, and at the right end another of 2 q.
 At a distance h, directly below these charges, two positive charges Q are placed.
@@ -3149,7 +3149,7 @@ c) Sola las $L_1$ y $L_2$ estan cerradas.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 50. Giuggiolo Verde**
+**Fase locale - 50. Jujuy Verde**
 
 La figura mostra un circuito tipico di illuminazione domestica. I foci coinvolti sono segnalati come: 60 W / 120 V; 100 W / 120 V e 75 W / 120 V. Calcolare la magnitudine dei correnti $I_1$, $I_2$, $I_3$ quando:
 a) Tutte le chiavi sono chiuse
@@ -3171,7 +3171,7 @@ c) Solo le $L_1$ e $L_2$ sono chiuse.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 50. Jujuy Verde**
+**Local Round - 50. Jujuy Green**
 
 The figure shows a typical domestic lighting circuit. The bulbs involved are marked as: 60 W / 120 V; 100 W / 120 V and 75 W / 120 V. Calculate what magnitude the currents $I_1$, $I_2$, $I_3$ will be when:
 a) All the switches are closed
@@ -3221,7 +3221,7 @@ c) Si ahora agregamos un capacitor C, de 10 uF, en paralelo con la resistencia R
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 51. Mar del Plata, Buenos Aires Azul**
+**Fase locale - 51. Mar del Plata, Buenos Aires Blu**
 
 Nel circuito della figura:
 $R1 = 6 \Omega$
@@ -3249,7 +3249,7 @@ c) Se aggiungiamo ora un capacitore C, di 10 uF, in parallelo alla resistenza R3
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 51. Mar del Plata, Buenos Aires Azul**
+**Local Round - 51. Mar del Plata, Buenos Aires Blue**
 
 In the circuit of the figure:
 $R1 = 6 \Omega$
@@ -3298,7 +3298,7 @@ Datos (de la figura): $\varepsilon_1 = 6V$, $\sigma_1 = 2\Omega$; $\varepsilon_2
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 52. Capitale federale verde**
+**Fase locale - 52. Capitale federale verde**
 
 Nel circuito della figura calcolare:
 i) L'intensità di corrente in ogni resistenza.
@@ -3319,7 +3319,7 @@ Dati (della figura): $\varepsilon_1 = 6V$, $\sigma_1 = 2\Omega$; $\varepsilon_2 
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 52. Capital Federal Verde**
+**Local Round - 52. Capital Federal Green**
 
 In the circuit of the figure calculate:
 (i) The current intensity at each resistance.
@@ -3362,7 +3362,7 @@ ii) Calcula la diferencia entre las distancias recorridas por ambos trenes entre
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 53. Capitale federale verde**
+**Fase locale - 53. Capitale federale verde**
 
 Un treno parte dalla stazione di Retiro e tarda 50 secondi a raggiungere una velocità di 108 km/h con costante accelerazione. Poi continua a velocità costante per altri 50 secondi. A quel punto arriva alla stazione di Belgrano e mette immediatamente il suo motore in contrarresto con un'accelerazione costante di $0,5 m/s^2$.
 Allo stesso tempo, un osservatore situato nella stazione Nunez (a 5 Km dalla stazione Retiro) vede passare per una via parallela ad un altro treno che si sposta verso Retiro a una velocità costante di 54 km/h. A quel punto guarda il suo orologio e si rende conto che il primo treno è partito 10 secondi fa.
@@ -3377,7 +3377,7 @@ i) Calcola la posizione e il tempo in cui si incontreranno
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 53. Capital Federal Verde**
+**Local Round - 53. Capital Federal Green**
 
 A train departs from Retiro station and takes 50 seconds to reach a speed of 108 km/h with constant acceleration. Then, it continues at constant speed for another 50 seconds. At that moment, it arrives at Belgrano station and instantly puts its motor into reverse with a constant acceleration of $0,5 m/s^2$.
 At the same time, an observer located at Nunez station (5 km away from Retiro station) sees another train passing on a parallel track heading toward Retiro at a constant speed of 54 km/h. At that moment he looks at his watch and realizes that the first train departed 10 seconds ago.
@@ -3408,7 +3408,7 @@ Nota: despreciar el peso de la tabla.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 54. Capitale federale verde**
+**Fase locale - 54. Capitale federale verde**
 
 Nel cavo, che attraversa un bordo di una tavola appoggiata su un supporto come si vede nel disegno, circola un corrente di 2 A, mentre è sottoposta a un campo magnetico B di 1 T nella direzione indicata. $\xi$Cual sera el estado (estirado o comprimido) del resorte de k = 30 N/m, y cuanto?
 Nota: disprezzi il peso della tavola.
@@ -3423,7 +3423,7 @@ Nota: disprezzi il peso della tavola.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 54. Capital Federal Verde**
+**Local Round - 54. Capital Federal Green**
 
 In the cable, which runs along a board edge supported on a support as shown in the drawing, a current of 2 A circulates, while it is subjected to a magnetic field B of 1 T in the indicated direction. $\xi$Cual sera el estado (estirado o comprimido) del resorte de k = 30 N/m, y cuanto?
 Note: disregard the weight of the table.
@@ -3459,7 +3459,7 @@ En el circuito de la figura son: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R_3 = 20
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 55. Buenos Aires Verde**
+**Fase locale - 55. Buenos Aires Verde**
 
 Il circuito della figura è formato da: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R_3 = 20 \Omega$, $R_4 = 20 \Omega$, $R_5 = 40 \Omega$, $R_6 = 15 \Omega$, $R_7 = 25 \Omega$, $E_1 = 40 V$, $E_2 = 30 V$, $E_3 = 25 V$. Calcolare I, differenza di potenziale tra A e B?
 
@@ -3473,7 +3473,7 @@ Il circuito della figura è formato da: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 55. Buenos Aires Verde**
+**Local Round - 55. Buenos Aires Green**
 
 In the circuit of the figure they are: $R_1 = 24 \Omega$, $R_2 = 30 \Omega$, $R_3 = 20 \Omega$, $R_4 = 20 \Omega$, $R_5 = 40 \Omega$, $R_6 = 15 \Omega$, $R_7 = 25 \Omega$, $E_1 = 40 V$, $E_2 = 30 V$, $E_3 = 25 V$. Calculate I, potential difference between A and B?
 
@@ -3502,7 +3502,7 @@ Determinar las intensidades de corriente que circulan por cada rama y la potenci
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 56. Neocene Verde**
+**Fase locale - 56. Neuquen Verde**
 
 Determinare le intensità di corrente che circolano per ogni ramo e la potenza dissipata per ogni resistenza.
 
@@ -3516,7 +3516,7 @@ Determinare le intensità di corrente che circolano per ogni ramo e la potenza d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 56. Neuquen Verde**
+**Local Round - 56. Neuquen Green**
 
 Determine the current intensities flowing through each branch and the power dissipated by each resistor.
 
@@ -3547,7 +3547,7 @@ $C lat. vapor = 540 \frac{kcal}{kg}$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Fase Locale - 57. Buenos Aires Verde**
+**Fase locale - 57. Buenos Aires Verde**
 
 In un calorimetro isolato si mescolano 100 g di ghiaccio a $-10^\circ C$ con 100 g di acqua a $20^\circ C$ e 100 g di vapore acqueo a $100^\circ C$. Se la miscela avviene a pressione atmosferica, calcolare la composizione e la temperatura finali. (Supporre equivalente in acqua = 0).
 $C_{hielo} = 0,5 \frac{kcal}{kg^\circ C}$
@@ -3563,7 +3563,7 @@ $C lat. vapor = 540 \frac{kcal}{kg}$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Round - 57. Buenos Aires Verde**
+**Local Round - 57. Buenos Aires Green**
 
 In an insulated calorimeter, 100 g of ice at $-10^\circ C$ are mixed with 100 g of water at $20^\circ C$ and 100 g of water vapour at $100^\circ C$. If the mixing takes place at atmospheric pressure, calculate the final composition and temperature. (Assume water equivalent = 0).
 $C_{hielo} = 0,5 \frac{kcal}{kg^\circ C}$
@@ -3600,7 +3600,7 @@ Un cuerpo homogeneo de material, cuya densidad es de 1,33 $g/cm^3$ a $0^\circ C$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 58. Mendoza Azul**
+**Fase locale - 58. Mendoza Blu**
 
 Un corpo omogeneo di materiale, la cui densità è di 1,33 $g/cm^3$ a $0^\circ C$, galleggia su due acque in un liquido la cui temperatura è di $60^\circ C$ e il cui Peso specifico è di $12.740 N/m^3$ a tale temperatura. Se il corpo è considerato in equilibrio termico con il liquido, calcola il coefficiente di dilatazione lineare del materiale.
 
@@ -3614,7 +3614,7 @@ Un corpo omogeneo di materiale, la cui densità è di 1,33 $g/cm^3$ a $0^\circ C
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 58. Mendoza Azul**
+**Local Round - 58. Mendoza Blue**
 
 A homogeneous body of material, whose density is 1.33 $g/cm^3$ to $0^\circ C$, floats in water in a liquid whose temperature is $60^\circ C$ and whose specific weight is $12.740 N/m^3$ at said temperature. If the body is considered to be in thermal equilibrium with the liquid, calculate the coefficient of linear expansion of the material.
 
@@ -3639,7 +3639,7 @@ En la medida fundamental del metabolismo, un paciente espira 52,5 l de aire medi
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 59. Cordoba Azul**
+**Fase locale - 59. Cordoba Blu**
 
 Nel parametro fondamentale del metabolismo, un paziente respira 52,5 l di aria misurata su acqua a $20^\circ C$ per un tempo di 6 minuti. La tensione di vapore d'acqua a $20^\circ C$ vale 17,5 mm di mercurio. La pressione indicata dal barometro è di 750 mm. Scommetendo la solubilità dei gas in acqua e la differenza di volume totale di inisorazione ed espirazione, trovare il flusso di ossigeno consumato dal paziente esprimendolo in $cm^3/min$. (a $0^\circ C$ e 760 mm di mercurio).
 
@@ -3651,7 +3651,7 @@ Nel parametro fondamentale del metabolismo, un paziente respira 52,5 l di aria m
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 59. Cordoba Azul**
+**Local Round - 59. Cordoba Blue**
 
 In the fundamental measurement of metabolism, a patient exhales 52.5 l of air measured over water at $20^\circ C$ over a time of 6 min. The water vapor pressure at $20^\circ C$ is 17.5 mm of mercury. The pressure indicated by the barometer is 750 mm. Neglecting the solubility of gases in water and the difference in total volume inspired and expired, find the flow rate of oxygen consumed by the patient, expressing it in $cm^3/min$. (at $0^\circ C$ and 760 mm of mercury).
 
@@ -3684,7 +3684,7 @@ $C_{l fus hielo} = 80 cal/g$
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 60. Capitale federale verde**
+**Fase locale - 60. Capitale federale verde**
 
 Un cubetto di ghiaccio di 50 g viene estratto dal frigorifero a $-10^\circ C$ e lasciato cadere in un bicchiere con acqua a $0^\circ C$. Se non c'è scambio di calore con l'esterno quale è la massa di acqua che si solidifica sul cubo.
 $C_{agua} = 1 cal/g^\circ C$
@@ -3704,7 +3704,7 @@ $C_{l fus hielo} = 80 cal/g$
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 60. Capital Federal Verde**
+**Local Round - 60. Capital Federal Green**
 
 A 50g ice cube is taken out of the refrigerator at $-10^\circ C$ and dropped into a glass of water at $0^\circ C$. If there is no heat exchange with the outside, what is the mass of water that solidifies onto the cube.
 $C_{agua} = 1 cal/g^\circ C$
@@ -3742,7 +3742,7 @@ Calor latente de fusion = 80 cal/gr
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 61. Capitale federale verde**
+**Fase locale - 61. Capitale federale verde**
 
 In un calometro, il cui peso equivalente di acqua è di 4 gr, ci sono 8 gr di ghiaccio a una temperatura di $-15^\circ C$, si colloca un gruppo di resistenze alle quali si alimenta con una fonte di tensione di 12V, e dopo un tempo di 1 minuto 20 seg si ottiene acqua a una temperatura di $20^\circ C$.
 Dati tre resistenze di 1, 3, 4 ohm $\xi$, qual è il gruppo immerso?
@@ -3760,7 +3760,7 @@ Calore latente di fusione = 80 cal/gr
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 61. Capital Federal Verde**
+**Local Round - 61. Capital Federal Green**
 
 In a calorimeter, the equivalent mass of which is 4 g of water, there is 8 g of ice at a temperature of $-15^\circ C$, a grouping of resistors is placed to which they are fed by a 12 V voltage source, and after a time of 1 minute 20 seconds water is obtained at a temperature of $20^\circ C$.
 Given three resistors of values 1, 3, 4 ohm $\xi$ what is the submerged grouping?
@@ -3811,7 +3811,7 @@ d) La variacion de energia interna en el 3er. proceso.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 62. Mendoza Verde**
+**Fase locale - 62. Mendoza Verde**
 
 Il serbatoio A della figura, i cui muri sono rigidi, ha come misure 1,1 m di altezza, 1,5 m di larghezza e 1,5 m di lunghezza; contiene azoto la cui densità è di $3,43 dm^3/gr$ a una temperatura di $59^\circ F$.
 Il serbatoio si comunica con un pistone attraverso una valvola $N_1$. Il pistone è costituito da un cilindro di 20 cm di diametro e 110 cm di corsa.
@@ -3837,7 +3837,7 @@ d) La variazione dell'energia interna nel 3. processo.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 62. Mendoza Verde**
+**Local Round - 62. Mendoza Green**
 
 Tank A in the figure, whose walls are rigid, has dimensions 1.1 m in height, 1.5 m in width and 1.5 m in length; it contains Nitrogen whose density is $3,43 dm^3/gr$ at a temperature of $59^\circ F$.
 The tank communicates with a piston through a valve $N_1$. The piston consists of a cylinder 20 cm in diameter and 110 cm in stroke.
@@ -3892,7 +3892,7 @@ Datos: $c_{p AIRE} = 993 J/Kg^\circ K$; $c_{v AIRE} = 710 J/Kg^\circ K$; $\delta
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 63. Capitale federale verde**
+**Fase locale - 63. Capitale federale verde**
 
 Un forno elettrico, utilizzato per la sterilizzazione, che opera a 200 V e che ha un rendimento del 73,5%, deve elevare la temperatura all'interno (il cui volume è di 835 $dm^3$) da $20^\circ C$ (temperatura ambiente e pressione normale) a $160^\circ C$ in cui un termostato bimetalico apre il circuito alimentato da un generatore di C.C. di fem $E = 250 V$ situata a 580 m dal forno e collegata a esso mediante conduttori di 4 $mm^2$.
 Si prende il tempo dal momento in cui si accende il forno (con la porta chiusa e l'interno pieno solo di aria) fino a quando si spegne il bimetallico registrandosi $t = 2$ minuti 16,05 secondi.
@@ -3920,7 +3920,7 @@ Data: $c_{p AIRE} = 993 J/Kg^\circ K$; $c_{v AIRE} = 710 J/Kg^\circ K$; $\delta_
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 63. Capital Federal Verde**
+**Local Round - 63. Capital Federal Green**
 
 An electric furnace, used for sterilisation, operating at 200 V and having a performance of 73.5%, shall raise the temperature inside (volume 835 $dm^3$) from $20^\circ C$ (normal ambient temperature and pressure) to $160^\circ C$ where a bimetallic thermostat opens the circuit fed by a C.C. generator. a fem $E = 250 V$ located 580 m from the furnace and connected to it by conductors of 4 $mm^2$.
 It takes the time from the time the oven is lit (with its door closed and its interior filled only with air) until the bimetallic is disconnected and $t = 2$ minutes 16.05 seconds.
@@ -3970,7 +3970,7 @@ Datos: El calor especifico del Fe es: $c = 0,119 \frac{cal}{g^\circ C}$ y el coe
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 64. Capitale federale verde**
+**Fase locale - 64. Capitale federale verde**
 
 Dato il circuito della figura, con resistenze $R_1 = 1\Omega$, $R_2 = 2 \Omega$ e $R_3 = 3 \Omega$ collegate a una batteria $12 Volts$. Si colloca una sfera radio $r = 10cm$ vicino al circuito. Calcola quanto la temperatura e il volume della sfera aumentano al massimo, 1 minuto dopo che la batteria è stata collegata, facendo le ipotesi e le approssimazioni che ritiene necessarie.
 Dati: Il calore specifico della Fe è: $c = 0,119 \frac{cal}{g^\circ C}$ e il coefficiente di dilatazione lineare è: $\lambda = 1,2 \cdot 10^{-5} \frac{1}{^\circ C}$, e la densità è: $s = 7,9 g/cm^3$.
@@ -3985,7 +3985,7 @@ Dati: Il calore specifico della Fe è: $c = 0,119 \frac{cal}{g^\circ C}$ e il co
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 64. Federal Capital Green**
+**Local Round - 64. Federal Capital Green**
 
 Given the circuit in the figure, with resistors $R_1 = 1\Omega$, $R_2 = 2 \Omega$ and $R_3 = 3 \Omega$ connected to a battery of $12 Volts$. A sphere of radius $r = 10cm$ is placed near the circuit. Calculate how much the temperature and the volume of the sphere increase at most, 1 minute after the battery has been connected, making the hypotheses and approximations you consider necessary.
 Data: The specific heat of Fe is: $c = 0,119 \frac{cal}{g^\circ C}$ and the coefficient of linear expansion is: $\lambda = 1,2 \cdot 10^{-5} \frac{1}{^\circ C}$, and the density is: $s = 7,9 g/cm^3$.
@@ -4020,7 +4020,7 @@ La luz incide normalmente sobre la cara menor de un prisma cuyos angulos son $30
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 65. Buenos Aires Verde**
+**Fase locale - 65. Buenos Aires Verde**
 
 La luce incide normalmente sul lato minore di un prisma i cui angoli sono $30^\circ$, $60^\circ$ e $90^\circ$. Sopra l'ipotenuza del prisma si colloca una goccia di liquido. L'indice di refraczione del prisma è di 1,5. Determinare l'indice massimo che il liquido può avere per far riflettere completamente il raggio luminoso.
 
@@ -4039,7 +4039,7 @@ La luce incide normalmente sul lato minore di un prisma i cui angoli sono $30^\c
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 65. Buenos Aires Verde**
+**Local Round - 65. Buenos Aires Green**
 
 Light is incident normally on the smaller face of a prism whose angles are $30^\circ$, $60^\circ$ and $90^\circ$. A drop of liquid is placed on the hypotenuse of the prism. The refractive index of the prism is 1.5. Determine the maximum index the liquid can have so that the light ray is totally reflected.
 
@@ -4077,7 +4077,7 @@ Hallar el minimo indice de refraccion que debe tener el prisma triangular para q
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 66. Capitale federale verde**
+**Fase locale - 66. Capitale federale verde**
 
 Trovare il minimo indice di refraczione che il prisma triangolare deve avere per far raggiungere la cellula fotosensibile il raggio di luce emesso dalla fonte della figura B. Calcolare il tempo che ci vuole per raggiungere il raggio. $c = 3 \cdot 10^8 m/s$.
 
@@ -4096,7 +4096,7 @@ Trovare il minimo indice di refraczione che il prisma triangolare deve avere per
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 66. Federal Capital Green**
+**Local Round - 66. Federal Capital Green**
 
 Find the minimum refractive index that the triangular prism must have so that the light ray emitted by the source in figure B reaches the photosensitive cell. Calculate the time it takes the ray to reach it. $c = 3 \cdot 10^8 m/s$.
 
@@ -4141,7 +4141,7 @@ La figura no esta realizada a escala.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 67. Rio Segundo, Cordoba Verde**
+**Fase locale - 67. Rio Segundo, Cordoba Verde**
 
 Il microscopio illustrato nella figura è costituito da un obiettivo di 20 dioptree e da un occhio di 10 dioptree, separati a una distanza di 20 cm.
 En un microscopio, el objeto normalmente se coloca muy cerca del objetivo, $\xi$Pero la distancia del objeto a esta lente, debe ser mayor, menor o igual a su distancia focal?, $\xi$por que?.
@@ -4167,7 +4167,7 @@ La figura non è realizzata su scala.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Instancia Local - 67. Rio Segundo, Cordoba Verde**
+**Local Round - 67. Rio Segundo, Cordoba Green**
 
 The microscope shown in the figure consists of a lens of 20 dioptrias and an eyepiece of 10 dioptrias, separated by a distance of 20 cm.
 En un microscopio, el objeto normalmente se coloca muy cerca del objetivo, $\xi$Pero la distancia del objeto a esta lente, debe ser mayor, menor o igual a su distancia focal?, $\xi$por que?.
@@ -4224,7 +4224,7 @@ Resuelve analiticamente y verifica graficamente.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 68. Capitale federale verde**
+**Fase locale - 68. Capitale federale verde**
 
 Un strumento ottico è costituito da due obiettivi, convergente e divergente, entrambi a 10 cm di distanza focale e separati tra loro di 30 cm.
 i) Determina l'immagine ottenuta da un oggetto di 4 cm di altezza situato a 20 cm dalla lente convergente come si vede nella figura:
@@ -4248,7 +4248,7 @@ Risolve analiticamente e verifica graficamente.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 68. Buenos Aires City Green**
+**Local Round - 68. Buenos Aires City Green**
 
 An optical instrument is made up of two lenses, one converging and one diverging, both with a focal length of 10 cm and separated from each other by 30 cm.
 i) Determine the image obtained from an object 4 cm tall located 20 cm from the converging lens as shown in the figure:
@@ -4284,7 +4284,7 @@ Se tiene una lamina de caras paralelas cuyo espesor es de 3 cm y cuyo indice de 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale - 69. Cordoba Azul**
+**Fase locale - 69. Cordoba Blu**
 
 Si dispone di una lamina di facce parallele di 3 cm di spessore e di un indice di refraczione di 1,5. Su di essa incide un raggio con un angolo di incidenza di $50^\circ$. Calcolare la lunghezza del raggio interno e la distanza tra il raggio incidente e il raggio emergente.
 
@@ -4296,7 +4296,7 @@ Si dispone di una lamina di facce parallele di 3 cm di spessore e di un indice d
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Instance - 69. Cordoba Azul**
+**Local Round - 69. Cordoba Blue**
 
 There is a parallel-sided plate whose thickness is 3 cm and whose refractive index is 1.5. A ray is incident on it with an angle of incidence of $50^\circ$. Calculate the length of the interior ray and the distance between the incident ray and the emerging ray.
 
@@ -4341,7 +4341,7 @@ Se admite para el ajuste del cero del puente un error de 40 mV.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 70. Mendoza Verde**
+**Fase locale sperimentale - 70. Mendoza Verde**
 
 Se si trova una linea sepolta come quella della figura 1, che ha subito un guasto, gettandosi a terra. La stessa è rappresentata come una scatola con tre terminali in figura 2.
 
@@ -4373,7 +4373,7 @@ Per il regolamento del zero del ponte è ammesso un errore di 40 mV.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 70. Mendoza Verde**
+**Local Experimental Round - 70. Mendoza Green**
 
 If you come across a buried line like the one in figure 1, which has suffered damage by developing a ground fault. It is represented as a box with three terminals, figure 2.
 
@@ -4428,7 +4428,7 @@ d- Anote todas las observaciones mientras trabaja y redacte prolijamente un brev
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 71. Tra i Fiumi Azul**
+**Fase locale sperimentale - 71. Entre Rios Blu**
 
 Oggetto del lavoro: studiare il movimento di un corpo.
 MATERIAL: canale, rampa di lancio, carta millimetrica, cronometro, bolla o acciaio.
@@ -4451,7 +4451,7 @@ d- Notare tutte le osservazioni mentre si lavora e redigere con facilità un bre
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Round - 71. Entre Rios Azul**
+**Local Experimental Round - 71. Entre Rios Blue**
 
 OBJECTIVE OF THE WORK: study of the motion of a body.
 MATERIALS TO BE USED: channel track, launch ramp, graph paper, stopwatch, ball or steel ball.
@@ -4494,7 +4494,7 @@ Materiales e instrumentos disponibles: Agua, probeta graduada, base soporte, bol
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 72. Cordoba Azul**
+**Fase locale sperimentale - 72. Cordoba Blu**
 
 Si chiede di determinare la densità di un corpo solido e di un liquido.
 Materiali e strumenti disponibili: acqua, prova graduata, base di supporto, palla con tornino, dinamometro, doppio noce, bastone di supporto, filo di seta, alcol. Descrivere chiaramente la procedura scelta (parte teorica e parte sperimentale).
@@ -4507,7 +4507,7 @@ Materiali e strumenti disponibili: acqua, prova graduata, base di supporto, pall
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 72. Cordoba Azul**
+**Local Experimental Round - 72. Cordoba Blue**
 
 It is required to determine the density of a solid body and of a liquid.
 Materials and instruments available: Water, graduated cylinder, support base, ball with screw, dynamometer, double clamp, support rods, silk thread, alcohol. Describe clearly the chosen procedure (theoretical and experimental part).
@@ -4548,7 +4548,7 @@ El informe debe constar de:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 73. Giuggiolo Verde**
+**Fase locale sperimentale - 73. Jujuy Verde**
 
 OGITIVO: Calcolare l'accelerazione della gravità nella città di San Salvador de Jujuy. (Altezza di S.S. di Jujuy a 1289 m.
 I seguenti elementi:
@@ -4575,7 +4575,7 @@ Il rapporto deve contenere:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 73. Jujuy Verde**
+**Local Experimental Round - 73. Jujuy Green**
 
 OBJECTIVE: Calculate the acceleration of gravity in the city of San Salvador de Jujuy. (Altitude of S.S. de Jujuy 1289 m above sea level).
 ELEMENTS:
@@ -4616,7 +4616,7 @@ Elementos disponibles: taco, tabla de madera, papel milimetrado.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 74. Mar del Plata, Buenos Aires Azul**
+**Fase locale sperimentale - 74. Mar del Plata, Buenos Aires Blu**
 
 Determinare, utilizzando una tavola di legno e un palo, il coefficiente di rottura statica tra i due materiali. Esprimi analiticamente il metodo sperimentale scelto.
 Elementi disponibili: taco, tavola in legno, carta millimetrica.
@@ -4629,7 +4629,7 @@ Elementi disponibili: taco, tavola in legno, carta millimetrica.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 74. Mar del Plata, Buenos Aires Azul**
+**Local Experimental Round - 74. Mar del Plata, Buenos Aires Blue**
 
 Determine, using a wooden board and a block, the coefficient of static friction between both materials. Explain analytically the experimental method chosen.
 Available elements: block, wooden board, graph paper.
@@ -4655,7 +4655,7 @@ Determinar el indice de refraccion del material de un prisma transparente, utili
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 75. Mar del Plata, Buenos Aires Azul**
+**Fase locale sperimentale - 75. Mar del Plata, Buenos Aires Blu**
 
 Determinare l'indice di refraczione del materiale di una prisma trasparente, utilizzando: pinze, telgopore, carta millimetrica, una prisma.
 
@@ -4667,7 +4667,7 @@ Determinare l'indice di refraczione del materiale di una prisma trasparente, uti
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 75. Mar del Plata, Buenos Aires Azul**
+**Local Experimental Round - 75. Mar del Plata, Buenos Aires Blue**
 
 Determine the refractive index of the material of a transparent prism, using: pins, styrofoam, graph paper, a prism.
 
@@ -4703,7 +4703,7 @@ De cuantos decimales puede estar seguro?
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 76. Rosario, Santa Fe Verde**
+**Fase locale sperimentale - 76. Rosario, Santa Fe Verde**
 
 Si sa che quando si oscilla un piccolo corpo, appeso a una corda di lunghezza L, (pendolo), il periodo di tale oscillazione è:
 $T = 2\pi\sqrt{\frac{L}{g}}$
@@ -4726,7 +4726,7 @@ Di quante decimali si può essere sicuri?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 76. Rosario, Santa Fe Verde**
+**Local Experimental Round - 76. Rosario, Santa Fe Green**
 
 It is known that when a small body is made to oscillate, hanging from a string of length L, (pendulum), the period of said oscillation is:
 $T = 2\pi\sqrt{\frac{L}{g}}$
@@ -4781,7 +4781,7 @@ Presenta un informe incluyendo tabla de valores, graficos, errores estimados, re
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 77. Capitale federale verde**
+**Fase locale sperimentale - 77. Capitale federale verde**
 
 Obiettivo:
 Attraverso un sistema sperimentale, verificare il modello teorico delle leggi di Newton.
@@ -4813,7 +4813,7 @@ Presenta un rapporto che includa tabella di valori, grafici, errori stimati, ris
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 77. Capital Federal Verde**
+**Local Experimental Round - 77. Capital Federal Green**
 
 Objective:
 By means of an experimental system, verify the theoretical model of Newton's Laws.
@@ -4859,7 +4859,7 @@ Determinar experimentalmente el radio de curvatura de dicho espejo.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 78. Capitale federale verde**
+**Fase locale sperimentale - 78. Capitale federale verde**
 
 Problema pratico:
 1) Dati i seguenti materiali:
@@ -4879,7 +4879,7 @@ Determinare sperimentalmente il raggio di curvatura di tale specchio.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 78. Green Federal Capital**
+**Local Experimental Round - 78. Green Federal Capital**
 
 Practical Problem:
 1) Given the following materials:
@@ -4934,7 +4934,7 @@ acqua
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 79. Buenos Aires Green**
+**Local Experimental Round - 79. Buenos Aires Green**
 
 You are asked to calculate the specific weight of a piece of cork (wood) and of glycerin.
 The following are provided:
@@ -4964,7 +4964,7 @@ La $\delta$ del agua destilada es de 1 $gr/cm^3$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Instanza locale sperimentale - 80. Santa Cruz Verde**
+**Fase locale sperimentale - 80. Santa Cruz Verde**
 
 Determinare il volume di un corpo irregolare e la spinta. Si dispone di un recipiente graduato, acqua da un rubinetto e un filo. Scommettere i risultati ottenuti.
 Il $\delta$ dell'acqua distillata è di 1 $gr/cm^3$.
@@ -4977,7 +4977,7 @@ Il $\delta$ dell'acqua distillata è di 1 $gr/cm^3$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Local Experimental Instance - 80. Santa Cruz Verde**
+**Local Experimental Round - 80. Santa Cruz Green**
 
 Determine the volume of an irregular body and the buoyant force. A graduated container, water from a tap, and a thread are available. Draw conclusions from the results obtained.
 The $\delta$ of distilled water is 1 $gr/cm^3$.

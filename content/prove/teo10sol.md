@@ -15,113 +15,23 @@ tags:
 
 
 
-PROBLEMA
-n.
-1
-{
-Viaggio
-in
-galleria
-90
-Pun
-ti
-Quesito
-n.
-1.
-Nel
- aso
-elettrostati o,
-dal
-T
-eorema
-di
-Gauss,
-si
-ottiene
+**PROBLEMA n. 1 – Viaggio in galleria** (90 Punti)
 
-he
-il
- amp
-o
-in
-terno
-alla
-distribuzione
-uniforme
-di
- ari a
-negativ
-a
-v
-ale
-~
-E
-(r
-)
-=
- E
-0
-R
-~
-r
-do
-v
-e
-E
-0
+**Quesito n. 1.**
 
-e
-il
-mo
-dulo
-del
- amp
-o
-p
-er
-r
-=
-R
-:
-In
-analogia
-a
-vremo
-~
-g
-(r
-)
-=
- g
-0
-R
-~
-r
-do
-v
-e
-R
+Nel caso elettrostatico, dal Teorema di Gauss, si ottiene che il campo interno alla distribuzione uniforme di carica negativa vale
 
-e
-il
-raggio
-della
-T
-erra
-e
-g
-0
-l'a elerazione
-di
-gra
-vit
-a
-standard
-(a
-liv
-ello
-del
-mare).
+$$
+\vec{E}(r) = -\frac{E_0}{R} \vec{r} \quad \text{dove} \quad E_0 \quad \text{è il modulo del campo per} \quad r = R.
+$$
+
+In analogia avremo
+
+$$
+\vec{g}(r) = -\frac{g_0}{R} \vec{r}
+$$
+
+dove $R$ è il raggio della Terra e $g_0$ l'accelerazione di gravità standard (a livello del mare).
 
 **Topic:** [[Gravitation]], [[Electrostatics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -133,45 +43,23 @@ mare).
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM no.
-1
-{
-Journey in a tunnel
-90
-Points
-Question no.
-1.
-In the electrostatic case, from
-Gauss's theorem, one obtains
+**PROBLEM no. 1 – Tunnel Journey** (90 Points)
 
-that the field inside the uniform distribution of negative charge is
-~
-E (r
-)
-=
- E
-0
-R
-~ r where
-E
-0
+**Question no. 1.**
 
-is the modulus of the field for r
-=
-R
-:
-By analogy we will have
-~ g (r
-)
-= g
-0
-R
-~ r where
-R
+In the electrostatic case, from Gauss's Theorem, it follows that the internal field within the uniformly distributed negative charge is given by
 
-is the radius of the
-Earth and g
-0 the standard gravitational acceleration (at sea level).
+$$
+\vec{E}(r) = -\frac{E_0}{R} \vec{r} \quad \text{where} \quad E_0 \quad \text{is the magnitude of the field at} \quad r = R.
+$$
+
+In analogy, we will have
+
+$$
+\vec{g}(r) = -\frac{g_0}{R} \vec{r}
+$$
+
+where $R$ is the radius of the Earth and $g_0$ the standard gravitational acceleration (at sea level).
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -183,112 +71,19 @@ Earth and g
 
 
 
-Quesito
-n.
-2.
-Detta
-x
-la
-proiezione
-del
-v
-ettore
-~
-r
-lungo
-la
-galleria,
-l'equazione
-di
-moto
+**Quesito n. 2.**
 
-e
-quella
-di
-un
-moto
-armoni o:
-m
+Detta $x$ la proiezione del vettore $\vec{r}$ lungo la galleria, l'equazione di moto è quella di un moto armonico:
 
-x
-=
- m
-g
-0
-R
-x
-)
+$$
+m\ddot{x} = -m\frac{g_0}{R}x \quad \Rightarrow \quad \ddot{x} + \omega^2 x = 0 \quad \text{con} \quad \omega^2 = \frac{g_0}{R} \quad \Rightarrow \quad T_0 = 2\pi\sqrt{\frac{R}{g_0}}
+$$
 
-x
-+
-!
-2
-x
-=
-0
- on
-!
-2
-=
-g
-0
-R
-)
-T
-o
-=
-2
-s
-R
-g
-0
-essendo
-T
-o
-il
-p
-erio
-do
-di
-un'os illazione
- ompleta.
-La
-durata
-del
-viaggio
-(T
-)
+essendo $T_0$ il periodo di un'oscillazione completa. La durata del viaggio ($T$) è metà del periodo:
 
-e
-met
-a
-del
-p
-erio
-do:
-T
-=
-
-p
-R
-=g
-0
-=
-2:53
-
-10
-3
-s
-
-42
-min
-(indip
-enden
-te
-dalla
-latitudine
-'
-!)
+$$
+T = \pi\sqrt{R/g_0} = 2.53 \times 10^3 \, \text{s} \approx 42 \, \text{min} \quad \text{(indipendente dalla latitudine $\varphi$!)}
+$$
 
 **Topic:** [[Newtonian Mechanics]], [[Oscillations & Waves]]
 **Metodi:** [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -300,59 +95,19 @@ latitudine
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-2.
-Let x be the projection of the vector
-~ r along the tunnel, the equation of motion
+**Question no. 2.**
 
-is that of a harmonic motion:
-m
+Let $x$ be the projection of the vector $\vec{r}$ along the tunnel, the equation of motion is that of a harmonic oscillation:
 
-x
-= m g
-0
-R x
-)
+$$
+m\ddot{x} = -m\frac{g_0}{R}x \quad \Rightarrow \quad \ddot{x} + \omega^2 x = 0 \quad \text{with} \quad \omega^2 = \frac{g_0}{R} \quad \Rightarrow \quad T_0 = 2\pi\sqrt{\frac{R}{g_0}}
+$$
 
-x
-+
-!
-2 x
-=
-0 with
-!
-2
-= g
-0
-R
-)
-T o
-=
-2 s
-R g
-0
-where
-T o is the period of one complete oscillation.
-The duration of the trip (T
-)
+where $T_0$ is the period of a complete oscillation. The duration of the journey ($T$) is half of the period:
 
-is half of the period:
-T
-=
-
-p
-R
-=g
-0
-=
-2:53
-
-10
-3 s
-
-42 min (independent of latitude
-'
-!)
+$$
+T = \pi\sqrt{R/g_0} = 2.53 \times 10^3 \, \text{s} \approx 42 \, \text{min} \quad \text{(independent of the latitude $\varphi$!)}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -364,245 +119,39 @@ R
 
 
 
-Quesito
-n.
-3.
-La
-v
-elo
- it
-a
-massima
-si
-tro
-v
-a
- on
-la
- onserv
-azione
-dell'energia
-o
- on
-la
-legge
-oraria:
-1
-2
-mv
-2
-max
-=
-U
-max
- U
-min
-do
-v
-e,
-p
-er
-simmetria,
-l'energia
-p
-otenziale
-U
+**Quesito n. 3.**
 
-e
-funzione
-solo
-di
-r
-:
-U
-(r
-)
-=
-U
-(0)
- Z
-r
-0
-m
-~
-g
-(r
-)
+La velocità massima si trova con la conservazione dell'energia o con la legge oraria:
 
-~
-dr
-=
- Z
-r
-0
-m
-g
-(r
-)
-dr
-=
-m(g
-0
-=2R
-)r
-2
-a
-v
-endo
-p
-osto
-~
-g
-(r
-)
-=
-g
-(r
-)
-^
-r
-=
- (g
-0
-=R
-)
-~
-r
-e
-U
-(0)
-=
-0
-:
-Essendo
-p
-oi
-r
-max
-=
-R
-ed
-r
-min
-=
-R
-sen
-'
-si
-tro
-v
-a
- U
-=
-U
-max
- U
-min
-=
-m
-g
-0
-2R
- R
-2
- R
-2
-sen
-2
-'
+$$
+\frac{1}{2}mv_{\text{max}}^2 = U_{\text{max}} - U_{\text{min}} \quad \text{dove, per simmetria, l'energia potenziale $U$ è funzione solo di $r$:}
+$$
 
-=
-1
-2
-mg
-0
-R
- os
-2
-'
-e
-quindi
-v
-max
-=
-p
-2 U
-=m
-=
-p
-g
-0
-R
- os
-'
-=
-3:95
-km=s
-:
+$$
+U(r) = U(0) - \int_0^r m\vec{g}(r) \cdot d\vec{r} = -\int_0^r m\,g(r)\,dr = m(g_0/2R)r^2
+$$
+
+avendo posto $\vec{g}(r) = g(r)\,\hat{r} = -(g_0/R)\,\vec{r}$ e $U(0) = 0$.
+
+Essendo poi $r_{\text{max}} = R$ ed $r_{\text{min}} = R\operatorname{sen}\varphi$ si trova
+
+$$
+\Delta U = U_{\text{max}} - U_{\text{min}} = m\frac{g_0}{2R}\left(R^2 - R^2\operatorname{sen}^2\varphi\right) = \frac{1}{2}mg_0R\cos^2\varphi \quad \text{e quindi}
+$$
+
+$$
+v_{\text{max}} = \sqrt{2\Delta U/m} = \sqrt{g_0R}\,\cos\varphi = 3.95 \, \text{km/s}.
+$$
+
 Oppure
-x(t)
-=
-A
- os
-!
-t
- on
-A
-=
-R
- os
-'
-)
-v
-(t)
-=
- R
-!
- os
-'
-sen
-!
-t
-)
-)
-v
-max
-=
-R
-!
- os
-'
-=
-p
-g
-0
-R
- os
-'
-P
-ag.
-1
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
+
+$$
+x(t) = A\cos\omega t \quad \text{con} \quad A = R\cos\varphi \quad \Rightarrow \quad v(t) = -R\omega\cos\varphi\operatorname{sen}\omega t \quad \Rightarrow
+$$
+
+$$
+\Rightarrow \quad v_{\text{max}} = R\omega\cos\varphi = \sqrt{g_0R}\,\cos\varphi
+$$
 
 **Topic:** [[Conservation of Energy]], [[Oscillations & Waves]], [[Newtonian Mechanics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -614,137 +163,39 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-3.
-The maximum velocity is found with the conservation of energy or with the equation of motion:
-1
-2 mv
-2 max
-=
-U max
- U min where, by symmetry, the potential energy
-U
+**Question no. 3.**
 
-is a function only of r
-:
-U (r
-)
-=
-U (0)
- Z r
-0 m
-~ g (r
-)
+The maximum velocity is found using energy conservation or the time-dependent equation:
 
-~ dr
-=
- Z r
-0 m g (r
-)
-dr
-= m(g
-0
-=2R
-)r
-2 having set
-~ g (r
-)
-= g (r
-)
-^ r
-= (g
-0
-=R
-)
-~ r and
-U (0)
-=
-0
-:
-Since moreover r max
-=
-R and r min
-=
-R sin
-' one finds
- U
-=
-U max
- U min
-= m g
-0
-2R
- R
-2
- R
-2 sin
-2
-'
+$$
+\frac{1}{2}mv_{\text{max}}^2 = U_{\text{max}} - U_{\text{min}} \quad \text{where, by symmetry, the potential energy $U$ depends only on $r$:}
+$$
 
-=
-1
-2 mg
-0
-R cos
-2
-' and therefore v max
-= p
-2 U
-=m
-= p g
-0
-R cos
-'
-=
-3:95 km=s
-:
-Alternatively x(t)
-=
-A cos
-!
-t with
-A
-=
-R cos
-'
-)
-v (t)
-=
- R
-!
- cos
-' sin
-!
-t
-)
-)
-v max
-=
-R
-!
- cos
-'
-= p g
-0
-R cos
-'
-P ag.
-1
-AIF
-{
-Olympiad of
-Physics
-Ga ra
-National:
-SOLUTION of the
-T eo ry
-T est
-{
-Senigallia
-{
-9
-April
-2010
+$$
+U(r) = U(0) - \int_0^r m\vec{g}(r) \cdot d\vec{r} = -\int_0^r m\,g(r)\,dr = m(g_0/2R)r^2
+$$
+
+having set $\vec{g}(r) = g(r)\,\hat{r} = -(g_0/R)\,\vec{r}$ and $U(0) = 0$.
+
+Since $r_{\text{max}} = R$ and $r_{\text{min}} = R\sin\varphi$, we find
+
+$$
+\Delta U = U_{\text{max}} - U_{\text{min}} = m\frac{g_0}{2R}\left(R^2 - R^2\sin^2\varphi\right) = \frac{1}{2}mg_0R\cos^2\varphi \quad \text{and therefore}
+$$
+
+$$
+v_{\text{max}} = \sqrt{2\Delta U/m} = \sqrt{g_0R}\,\cos\varphi = 3.95 \, \text{km/s}.
+$$
+
+Alternatively,
+
+$$
+x(t) = A\cos\omega t \quad \text{with} \quad A = R\cos\varphi \quad \Rightarrow \quad v(t) = -R\omega\cos\varphi\sin\omega t \quad \Rightarrow
+$$
+
+$$
+\Rightarrow \quad v_{\text{max}} = R\omega\cos\varphi = \sqrt{g_0R}\,\cos\varphi
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -756,308 +207,39 @@ April
 
 
 
-Quesito
-n.
-4.
-La
-rotazione
-terrestre
-nel
-riferimen
-to
-(non
-inerziale)
-della
-T
-erra
-determina
-una
-forza
- en
-trifuga
-opp
-osta
-alla
- omp
-onen
-te
-del
- amp
-o
-parallela
-alla
-galleria:
-F
+**Quesito n. 4.**
 
-=
-m
+La rotazione terrestre nel riferimento (non inerziale) della Terra determina una forza centrifuga opposta alla componente del campo parallela alla galleria: $F_c = m \Omega^2 x$. Questa dunque non altera l'equazione ma ne modifica solo un coefficiente.
 
-2
-x.
-Questa
-dunque
-non
-altera
-l'equazione
-ma
-ne
-mo
-di
- a
-solo
-un
- o
-eÆ ien
-te.
-m
+$$
+m\ddot{x} = -m[(g_0/R) - \Omega^2)]x \quad \Rightarrow \quad \omega'^2 = (g_0/R) - \Omega^2 \quad \Rightarrow \quad T'_o = \frac{2\pi}{\sqrt{(g_0/R) - \Omega^2}}
+$$
 
-x
-=
- m[(g
-0
-=R
-)
+Numericamente
 
-2
-)℄x
-)
-!
-0
-2
-=
-(g
-0
-=R
-)
+$$
+g_0/R = 1.54 \times 10^{-6} \, \text{s}^{-2} \quad \text{e} \quad \Omega^2 = \frac{4\pi^2}{T_g^2} = (7.29 \times 10^{-5})^2 = 5.32 \times 10^{-9} \, \text{s}^{-2}
+$$
 
-2
-)
-T
-0
-o
-=
-2
-p
-(g
-0
-=R
-)
+essendo $T_g$ la durata del giorno.
 
-2
-Numeri amen
-te
-g
-0
-=R
-=
-1:54
+Si può quindi approssimare la soluzione ponendo
 
-10
- 6
-s
- 2
-e
+$$
+\frac{g_0}{R} - \Omega^2 = \left(1 - \frac{R\Omega^2}{g_0}\right)\frac{g_0}{R} \quad \Rightarrow \quad \left(\frac{g_0}{R} - \Omega^2\right)^{-1/2} = \left(1 + \frac{R\Omega^2}{2g_0}\right)\left(\frac{g_0}{R}\right)^{-1/2}
+$$
 
-2
-=
-4
-2
-T
-2
-g
-=
-(7:29
+$$
+T' = \frac{1}{2} T_o' = \pi \left(\frac{g_0}{R} - \Omega^2\right)^{-1/2} \approx \left(1 + \frac{R\Omega^2}{2g_0}\right)\pi\sqrt{\frac{g_0}{R}} = \left(1 + \frac{R\Omega^2}{2g_0}\right)T
+$$
 
-10
- 5
-)
-2
-=
-5:32
+La variazione (positiva) è quindi
 
-10
- 9
-s
- 2
-essendo
-T
-g
-la
-durata
-del
-giorno.
-Si
-pu
-o
-quindi
-approssimare
-la
-soluzione
-p
-onendo
-g
-0
-R
+$$
+\delta T = \frac{R\Omega^2}{2g_0}T \approx 4 \, \text{s}
+$$
 
-2
-=
-
-1
- R
-
-2
-g
-0
-
-g
-0
-R
-)
-
-g
-0
-R
-
-2
-
- 1
-=
-2
-=
-
-1
-+
-R
-
-2
-2g
-0
-
-g
-0
-R
-
- 1
-=
-2
-T
-0
-=
-1
-2
-T
-0
-o
-=
-
-g
-0
-R
-
-2
-
- 1
-=
-2
-
-1
-+
-R
-
-2
-2g
-0
-
-r
-g
-0
-R
-=
-
-1
-+
-R
-
-2
-2g
-0
-
-T
-La
-v
-ariazione
-(p
-ositiv
-a)
-
-e
-quindi
-Æ
-T
-=
-R
-
-2
-2g
-0
-T
-
-4
-s
-Si
-osservi
-
-he
-nel
-riferimen
-to
-non
-inerziale
-si
-do
-vrebb
-e
- onsiderare
-an
-he
-la
-forza
-di
-Coriolis
-(F
-Cor
-=
- 2m
-~
-!
-
-~
-v
-);
-questa
-p
-er
-o
-risulta
-sempre
-p
-erp
-endi olare
-alla
-direzione
-del
-moto
-e
-in
-questo
- aso
-
-e
-ann
-ullata
-dalla
-reazione
-vin olare.
+Si osservi che nel riferimento non inerziale si dovrebbe considerare anche la forza di Coriolis ($F_{\text{Cor}} = -2m\vec{\omega} \times \vec{v}$); questa però risulta sempre perpendicolare alla direzione del moto e in questo caso è annullata dalla reazione vincolare.
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -1069,308 +251,39 @@ vin olare.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
-4.
-La
-rotation
-of the land
-In the
-References
-to
-(not
-(Inert)
-of the
-T
-error
-determines the
-One of them.
-- What ?
- en
-the trifuge
-Op.
-Other
-to the
-The Commission shall adopt implementing acts.
-Other
-te
-of the
-amp
-o
-Other
-to the
-Gallery:
-F
+**Question no. 4.**
 
-=
-m
+The Earth's rotation in the reference frame (non-inertial) of the Earth generates a centrifugal force opposite to the component of the field parallel to the tunnel: $F_c = m \Omega^2 x$. This does not alter the equation but only modifies one of its coefficients.
 
-2
-x.
-This one
-So, what?
-Not
-change
-The equation
-ma
-ne
-mo
-di
- a
-only
-un
- o
-It is
-te.
-m
+$$
+m\ddot{x} = -m[(g_0/R) - \Omega^2)]x \quad \Rightarrow \quad \omega'^2 = (g_0/R) - \Omega^2 \quad \Rightarrow \quad T'_o = \frac{2\pi}{\sqrt{(g_0/R) - \Omega^2}}
+$$
 
-x
-=
- m[(g
-0
-=R
-)
+Numerically
 
-2
-)℄x
-)
-!
-0
-2
-=
-(g
-0
-=R
-)
+$$
+g_0/R = 1.54 \times 10^{-6} \, \text{s}^{-2} \quad \text{and} \quad \Omega^2 = \frac{4\pi^2}{T_g^2} = (7.29 \times 10^{-5})^2 = 5.32 \times 10^{-9} \, \text{s}^{-2}
+$$
 
-2
-)
-T
-0
-o
-=
-2
-p
-(g
-0
-=R
-)
+where $T_g$ is the duration of a day.
 
-2
-Number of the
-te
-g
-0
-=R
-=
-1:54
+One can therefore approximate the solution by setting
 
-10
- 6
-s
- 2
-e
+$$
+\frac{g_0}{R} - \Omega^2 = \left(1 - \frac{R\Omega^2}{g_0}\right)\frac{g_0}{R} \quad \Rightarrow \quad \left(\frac{g_0}{R} - \Omega^2\right)^{-1/2} = \left(1 + \frac{R\Omega^2}{2g_0}\right)\left(\frac{g_0}{R}\right)^{-1/2}
+$$
 
-2
-=
-4
-2
-T
-2
-g
-=
-(7:29
+$$
+T' = \frac{1}{2} T_o' = \pi \left(\frac{g_0}{R} - \Omega^2\right)^{-1/2} \approx \left(1 + \frac{R\Omega^2}{2g_0}\right)\pi\sqrt{\frac{g_0}{R}} = \left(1 + \frac{R\Omega^2}{2g_0}\right)T
+$$
 
-10
- 5
-)
-2
-=
-5:32
+The (positive) variation is therefore
 
-10
- 9
-s
- 2
-being
-T
-g
-la
-Duration of the operation
-of the
-I'm going to be a day.
-Si
-pu
-o
-So, what do you mean?
-Approaching
-la
-The solution
-p
-by the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight of the weight
-g
-0
-R
+$$
+\delta T = \frac{R\Omega^2}{2g_0}T \approx 4 \, \text{s}
+$$
 
-2
-=
-
-1
- R
-
-2
-g
-0
-
-g
-0
-R
-)
-
-g
-0
-R
-
-2
-
- 1
-=
-2
-=
-
-1
-+
-R
-
-2
-2g
-0
-
-g
-0
-R
-
- 1
-=
-2
-T
-0
-=
-1
-2
-T
-0
-o
-=
-
-g
-0
-R
-
-2
-
- 1
-=
-2
-
-1
-+
-R
-
-2
-2g
-0
-
-r
-g
-0
-R
-=
-
-1
-+
-R
-
-2
-2g
-0
-
-T
-La
-v
-Air conditioning
-(p
-Other
-a)
-
-e
-So, what do you mean?
-Æ
-T
-=
-R
-
-2
-2g
-0
-T
-
-4
-s
-Si
-Watch out
-
-he
-In the
-References
-to
-Not
-Inertial
-si
-do
-The Commission shall adopt implementing acts.
-e
-to be considered
-an
-he
-la
-- What ?
-di
-Coriolis
-(F
-The Cor
-=
- 2m
-~
-!
-
-~
-v
-);
-This one
-p
-er
-o
-The following is the list of the
-Always
-p
-Other
-Other, of a kind used for the manufacture of goods
-to the
-Direction
-of the
-Motorcycles
-e
-in
-This one.
-Other
-
-e
-The Commission
-Oiled
-from
-reaction
-I'm going to have a drink.
+Note that in the non-inertial reference frame one should also consider the Coriolis force ($F_{\text{Cor}} = -2m\vec{\omega} \times \vec{v}$); however, this is always perpendicular to the direction of motion and in this case it is canceled by the constraint reaction.
 
 **Topic:** [[Newtonian Mechanics]], [[Rotational Dynamics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -1387,359 +300,58 @@ I'm going to have a drink.
 
 
 
-Quesito
-n.
-5.
-Sia
+**Quesito n. 5.**
 
-la
-frazione
-di
-energia
-p
-ersa
-in
-un
-viaggio
-(semi-os illazione
- ompleta).
-La
- ondizione
+Sia $\eta$ la frazione di energia persa in un viaggio (semi-oscillazione completa). La condizione è che
 
-e
+$$
+\delta U = -\eta \Delta U \quad \text{con} \quad \eta = 0.01
+$$
 
-he
-Æ
-U
-=
+Ma dall'espressione $U(r)$ vista al punto 3. si ricava
 
- U
- on
+$$
+\frac{\delta U}{U(r)} = 2\frac{\delta r}{r}
+$$
 
-=
-0:01
-Ma
-dall'espressione
-U
-(r
-)
-vista
-al
-pun
-to
-3.
-si
-ri a
-v
-a
-Æ
-U
-U
-(r
-)
-=
-2
-Æ
-r
-r
-P
-er
-r
-=
-R
-si
-ha
-Æ
-r
-=
-R
-2
-Æ
-U
-U
-(R
-)
-=
- R
-2
+Per $r = R$ si ha $\delta r = \frac{R}{2}\frac{\delta U}{U(R)} = -\frac{R}{2}\frac{\eta \Delta U}{U(R)}$
 
- U
-U
-(R
-)
-Æ
-r
-=
+$$
+\delta r = -\frac{\eta R}{2}\frac{mg_0R\cos^2\varphi}{2}\frac{2}{mg_0R} = -\frac{1}{2}\eta R\cos^2\varphi
+$$
 
-R
-2
-mg
-0
-R
- os
-2
-'
-2
-2
-mg
-0
-R
-=
- 1
-2
+La distanza dalla stazione di arrivo si ottiene infine come
 
-R
- os
-2
-'
-La
-distanza
-dalla
-stazione
-di
-arriv
-o
-si
-ottiene
-in
-ne
- ome
-D
-=
+$$
+D = \left|\frac{\delta r}{\cos\varphi}\right| = \frac{1}{2}\eta R\cos\varphi \approx 15.9 \, \text{km}
+$$
 
-Æ
-r
- os
-'
+Anche qui, in alternativa, si poteva considerare come energia potenziale quella legata al moto armonico (come nel caso di una molla) data da
 
-=
-1
-2
+$$
+U' = \frac{1}{2}kx^2 \quad \text{con} \quad k = \frac{m g_0}{R}
+$$
 
-R
- os
-'
+Si vede subito che questa differisce da quella gravitazionale – calcolata sopra – solo per un termine costante che quindi risulta ininfluente:
 
-15:9
-km
-An
-he
-qui,
-in
-alternativ
-a,
-si
-p
-otev
-a
- onsiderare
- ome
-energia
-p
-otenziale
-quella
-legata
-al
-moto
-armoni o
-( ome
-nel
- aso
-di
-una
-molla)
-data
-da
-U
-0
-=
-1
-2
-k
-x
-2
- on
-k
-=
-m
-g
-0
-R
-Si
-v
-ede
-subito
+$$
+U(r) = \frac{1}{2}\frac{m g_0}{R}r^2 = \frac{1}{2}\frac{m g_0}{R}x^2 + \frac{1}{2}\frac{m g_0}{R}y^2 = U'(x) + \text{cost}
+$$
 
-he
-questa
-di
-eris e
-da
-quella
-gra
-vitazionale
-{
- al olata
-sopra
-{
-solo
-p
-er
-un
-termine
- ostan
-te
+dove $y$ è la distanza della galleria dal centro della Terra.
 
-he
-quindi
-risulta
-inin
-uen
-te:
-U
-(r
-)
-=
-1
-2
-m
-g
-0
-R
-r
-2
-=
-1
-2
-m
-g
-0
-R
-x
-2
-+
-1
-2
-m
-g
-0
-R
-y
-2
-=
-U
-0
-(x)
-+
- ost
-do
-v
-e
-y
+*(figura nel PDF originale)*
+La condizione si esprime ora come
 
-e
-la
-distanza
-della
-galleria
-dal
- en
-tro
-della
-T
-erra.
-P
-ag.
-2
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
-La
- ondizione
-si
-esprime
-ora
- ome
-Æ
-U
-0
-=
+$$
+\delta U' = -\eta \Delta U' \quad \text{e} \quad \frac{\delta U'}{U'(x)} = 2 \frac{\delta x}{x} \quad \Rightarrow \quad \delta x = -\frac{\eta}{2} \frac{x}{U'(x)} \Delta U'
+$$
 
- U
-0
-e
-Æ
-U
-0
-U
-0
-(x)
-=
-2
-Æ
-x
-x
-)
-Æ
-x
-=
+Per $x = R \cos \varphi$ e $\Delta U' = U'(R \cos \varphi)$ si ritrova
 
-x
-2
- U
-0
-U
-0
-(x)
-P
-er
-x
-=
-R
- os
-'
-e
- U
-0
-=
-U
-0
-(R
- os
-')
-si
-ritro
-v
-a
-D
-=
-jÆ
-xj
-=
-1
-2
-
-R
- os
-'
+$$
+D = |\delta x| = \frac{1}{2} \eta R \cos \varphi
+$$
 
 **Topic:** [[Conservation of Energy]], [[Oscillations & Waves]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -1751,196 +363,58 @@ R
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-5.
-Let
+**Question no. 5.**
 
-be the fraction of energy lost in one trip (half-oscillation complete).
-The condition
+Let $\eta$ be the fraction of energy lost in a journey (complete semi-oscillation). The condition is that
 
-and
+$$
+\delta U = -\eta \Delta U \quad \text{with} \quad \eta = 0.01
+$$
 
-that
-Æ
-U
-=
+But from the expression $U(r)$ seen in point 3., it follows that
 
- U on
+$$
+\frac{\delta U}{U(r)} = 2\frac{\delta r}{r}
+$$
 
-=
-0:01
-But from the expression
-U (r
-)
-seen at point
-3.
-one obtains
-Æ
-U
-U (r
-)
-=
-2
-Æ r r
-For r
-=
-R one has
-Æ r
-=
-R
-2
-Æ
-U
-U (R
-)
-=
- R
-2
+For $r = R$ we have $\delta r = \frac{R}{2}\frac{\delta U}{U(R)} = -\frac{R}{2}\frac{\eta \Delta U}{U(R)}$
 
- U
-U (R
-)
-Æ r
-=
+$$
+\delta r = -\frac{\eta R}{2}\frac{mg_0R\cos^2\varphi}{2}\frac{2}{mg_0R} = -\frac{1}{2}\eta R\cos^2\varphi
+$$
 
-R
-2 mg
-0
-R cos
-2
-'
-2
-2 mg
-0
-R
-=
- 1
-2
-
-R cos
-2
-'
 The distance from the arrival station is finally obtained as
-D
-=
 
-Æ r cos
-'
+$$
+D = \left|\frac{\delta r}{\cos\varphi}\right| = \frac{1}{2}\eta R\cos\varphi \approx 15.9 \, \text{km}
+$$
 
-=
-1
-2
+Here too, alternatively, one could consider as potential energy that associated with harmonic motion (as in the case of a spring) given by
 
-R cos
-'
+$$
+U' = \frac{1}{2}kx^2 \quad \text{with} \quad k = \frac{m g_0}{R}
+$$
 
-15:9 km
-Here too, alternatively, one could consider as potential energy the one related to harmonic motion (as in the case of a spring)
-given by
-U
-0
-=
-1
-2 k x
-2 where k
-= m g
-0
-R
-One immediately sees
+It is immediately seen that this differs from the gravitational potential energy—calculated above—only by a constant term, which therefore proves irrelevant:
 
-that this differs from the gravitational one
-{ calculated above
-{ only by a constant term
+$$
+U(r) = \frac{1}{2}\frac{m g_0}{R}r^2 = \frac{1}{2}\frac{m g_0}{R}x^2 + \frac{1}{2}\frac{m g_0}{R}y^2 = U'(x) + \text{cost}
+$$
 
-which therefore turns out to be irrelevant:
-U (r
-)
-=
-1
-2 m g
-0
-R r
-2
-=
-1
-2 m g
-0
-R x
-2
-+
-1
-2 m g
-0
-R y
-2
-=
-U
-0 (x)
-+ const where y
+where $y$ is the distance of the tunnel from the center of the Earth.
 
-is the distance of the tunnel from the center of the
-Earth.
-Pag.
-2
-AIF
-{
-Physics Olympiads
-National
-Competition:
-SOLUTION of the
-Theory
-Test
-{
-Senigallia
-{
-9
-April
-2010
+*(figure in the original PDF)*
 The condition is now expressed as
-Æ
-U
-0
-=
 
- U
-0 and
-Æ
-U
-0
-U
-0 (x)
-=
-2
-Æ x x
-)
-Æ x
-=
+$$
+\delta U' = -\eta \Delta U' \quad \text{and} \quad \frac{\delta U'}{U'(x)} = 2 \frac{\delta x}{x} \quad \Rightarrow \quad \delta x = -\frac{\eta}{2} \frac{x}{U'(x)} \Delta U'
+$$
 
-x
-2
- U
-0
-U
-0 (x)
-For x
-=
-R cos
-' and
- U
-0
-=
-U
-0 (R cos
-')
-one finds again
-D
-= jÆ xj
-=
-1
-2
+For $x = R \cos \varphi$ and $\Delta U' = U'(R \cos \varphi)$ we recover
 
-R cos
-'
+$$
+D = |\delta x| = \frac{1}{2} \eta R \cos \varphi
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -1952,171 +426,31 @@ R cos
 
 
 
-Quesito
-n.
-6.
-Se
-l'os illazione
-si
-dimezza
-in
-ampiezza,
-l'energia
-totale
-div
-en
-ta
-1/4
-di
-quella
-iniziale,
-men
-tre
-il
-p
-erio
-do
-di
-os illazione
-non
- am
-bia.
-Si
-pu
-o
-quindi
-s riv
-ere
-n
-uo
-v
-amen
-te
-Æ
-U
-=
+**Quesito n. 6.**
 
-U
-)
-Æ
-U
-T
-=
+Se l'oscillazione si dimezza in ampiezza, l'energia totale diventa 1/4 di quella iniziale, mentre il periodo di oscillazione non cambia. Si può quindi scrivere nuovamente
 
-U
-T
-Se
-la
-v
-ariazione
-di
-energia
+$$
+\delta U = -\eta U \quad \Rightarrow \quad \frac{\delta U}{T} = -\eta \frac{U}{T}
+$$
 
-e
-len
-ta
-si
-pu
-o
- onfondere
-il
-rapp
-orto
-in remen
-tale
- on
-la
-deriv
-ata
-(v
-edi
-suggerimen
-to
-in
-termini
-di
-p
-otenza
-media
-e
-istan
-tanea)
-e
-s riv
-ere
-dU
-dt
-=
+Se la variazione di energia è lenta si può confondere il rapporto incrementale con la derivata (vedi suggerimento in termini di potenza media e istantanea) e scrivere
 
-T
-U
-)
-U
-(t)
-=
-U
-0
-e
- t=
+$$
+\frac{dU}{dt} = -\frac{\eta}{T} U \quad \Rightarrow \quad U(t) = U_0 e^{-t/\tau} \quad \text{con} \quad \tau = T/\eta \quad \text{e} \quad U_0 = U(R)
+$$
 
- on
+La condizione da imporre è
 
-=
-T
-=
-e
-U
-0
-=
-U
-(R
-)
-La
- ondizione
-da
-imp
-orre
+$$
+U(NT) = \frac{1}{4} U_0 \quad \Rightarrow \quad e^{-NT/(T/\eta)} = \frac{1}{4} \quad \Rightarrow \quad \eta N = \ln 4
+$$
 
-e
-U
-(N
-T
-)
-=
-1
-4
-U
-0
-)
-e
- N
-T
-=(T
-=
-)
-=
-1
-4
-)
+L'ampiezza si sarà dimezzata dopo
 
-N
-=
-ln
-4
-L'ampiezza
-si
-sar
-a
-dimezzata
-dop
-o
-N
-=
-ln
-4
-
-139
-viaggi.
+$$
+N = \frac{\ln 4}{\eta} \approx 139 \quad \text{viaggi.}
+$$
 
 **Topic:** [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Differential Equations (metodo)|Differential Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
@@ -2128,171 +462,31 @@ viaggi.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
-6.
-Se
-The bone is insulated
-si
-half
-in
-the width,
-energy
-Total
-Div
-en
-ta
-1/4
-di
-That one.
-the initial,
-Men and women
-three
-il
-p
-the air
-do
-di
-Other
-Not
- am
-I'm not going to lie.
-Si
-pu
-o
-So, what do you mean?
-The following is the list of the
-The Commission
-n
-uo
-v
-I will not let you go.
-te
-Æ
-U
-=
+**Question no. 6.**
 
-U
-)
-Æ
-U
-T
-=
+If the oscillation amplitude is halved, the total energy becomes one-fourth of the initial value, while the oscillation period remains unchanged. One can therefore write again
 
-U
-T
-Se
-la
-v
-Air conditioning
-di
-energy
+$$
+\delta U = -\eta U \quad \Rightarrow \quad \frac{\delta U}{T} = -\eta \frac{U}{T}
+$$
 
-e
-Other
-ta
-si
-pu
-o
-Flooding
-il
-REP
-vegetable
-in remen
-such
- on
-la
-derivatives
-Other
-(v
-The Commission shall adopt implementing acts.
-Suggestions
-to
-in
-the terms
-di
-p
-the authorisation
-average
-e
-Other
-(including
-e
-The following is the list of the
-The Commission
-dU
-dt
-=
+If the energy variation is slow, one can identify the incremental ratio with the derivative (see hint in terms of average and instantaneous power) and write
 
-T
-U
-)
-U
-(t)
-=
-U
-0
-e
- t=
+$$
+\frac{dU}{dt} = -\frac{\eta}{T} U \quad \Rightarrow \quad U(t) = U_0 e^{-t/\tau} \quad \text{with} \quad \tau = T/\eta \quad \text{and} \quad U_0 = U(R)
+$$
 
- on
+The condition to impose is
 
-=
-T
-=
-e
-U
-0
-=
-U
-(R
-)
-La
-the condition
-da
-Employment
-Horrors
+$$
+U(NT) = \frac{1}{4} U_0 \quad \Rightarrow \quad e^{-NT/(T/\eta)} = \frac{1}{4} \quad \Rightarrow \quad \eta N = \ln 4
+$$
 
-e
-U
-(N
-T
-)
-=
-1
-4
-U
-0
-)
-e
- N
-T
-=(T
-=
-)
-=
-1
-4
-)
+The amplitude will have halved after
 
-N
-=
-ln
-4
-The width
-si
-will be
-a
-half
-after
-o
-N
-=
-ln
-4
-
-139
-travel.
+$$
+N = \frac{\ln 4}{\eta} \approx 139 \quad \text{trips.}
+$$
 
 **Topic:** [[Oscillations & Waves]], [[Conservation of Energy]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Differential Equations (metodo)|Differential Equations]], [[Simple Harmonic Motion Analysis (metodo)|Simple Harmonic Motion Analysis]]
@@ -2309,191 +503,11 @@ travel.
 
 
 
-Quesito
-n.
-7.
-Nel
-mo
-dello
-della
-T
-erra
-a
-due
-strati,
- on
-n
-u leo
-p
-esan
-te,
-il
- amp
-o
-gra
-vitazione
-nel
-n
-u leo
- res e
-linearmen
-te
- on
-r
-ed
+**Quesito n. 7.**
 
-e
-o
-vviamen
-te
-maggiore
+Nel modello della Terra a due strati, con nucleo pesante, il campo gravitazione nel nucleo cresce linearmente con $r$ ed è ovviamente maggiore che nel caso visto prima. Questo è vero anche nel mantello; infatti la densità del mantello è necessariamente minore di quella della Terra omogenea e di conseguenza, fissata una superficie sferica di raggio $r$ nella regione del mantello, la massa esterna è certamente minore rispetto al caso della Terra omogenea. Di conseguenza la massa della parte interna alla superficie è sempre maggiore ed è quindi maggiore anche il campo gravitazionale; dunque il viaggio durera` meno.
 
-he
-nel
- aso
-visto
-prima.
-Questo
-
-e
-v
-ero
-an
-he
-nel
-man
-tello;
-infatti
-la
-densit
-a
-del
-man
-tello
-
-e
-ne essariamen
-te
-minore
-di
-quella
-della
-T
-erra
-omogenea
-e
-di
- onseguenza,
-
-ssata
-una
-sup
-er
- ie
-sferi a
-di
-raggio
-r
-nella
-regione
-del
-man
-tello,
-la
-massa
-esterna
-
-e
- ertamen
-te
-minore
-risp
-etto
-al
- aso
-della
-T
-erra
-omogenea.
-Di
- onseguenza
-la
-massa
-della
-parte
-in
-terna
-alla
-sup
-er
- ie
-
-e
-sempre
-maggiore
-ed
-
-e
-quindi
-maggiore
-an
-he
-il
- amp
-o
-gra
-vitazionale;
-dunque
-il
-viaggio
-durer
-a
-meno.
-Il
-moto
-p
-er
-o
-non
-
-e
-pi
-
-u
-armoni o
-dato
-
-he,
-solo
-p
-er
-una
-distribuzione
-omogenea,
-v
-ale
-la
-dip
-endenza
-lineare
-tra
- amp
-o
-e
-distanza
-dal
- en
-tro.
-PROBLEMA
-n.
-2
-{
-Ci lo
-termo
-dinami o
-90
-Pun
-ti
+Il moto però non è più armonico dato che, solo per una distribuzione omogenea, vale la dipendenza lineare tra campo e distanza dal centro.
 
 **Topic:** [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Gauss's Law (metodo)|Gauss's Law]], [[Physical Modeling (metodo)|Physical Modeling]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -2505,42 +519,11 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-7.
-In the two-layer model of the Earth, with a heavy core, the gravitational field in the core is linearly dependent
+**Question no. 7.**
 
-and obviously greater
+In the two-layer Earth model, with a heavy core, the gravitational field inside the core increases linearly with $r$ and is obviously greater than in the previous case. This is also true in the mantle; indeed, the density of the mantle must necessarily be less than that of a homogeneous Earth, and therefore, for a fixed spherical surface of radius $r$ in the mantle region, the external mass is certainly smaller than in the case of a homogeneous Earth. Consequently, the mass inside the surface is always greater and thus the gravitational field is also greater; therefore, the journey will take less time.
 
-than in the case seen previously.
-This
-
-is also true in the mantle;
-in fact the density of the mantle
-
-is necessarily less than that of the
-homogeneous Earth and consequently,
-
-once a spherical surface of radius r in the mantle region is fixed, the external mass
-
-is certainly less compared to the case of the
-homogeneous Earth.
-Consequently the mass of the part inside the surface
-
-is always greater and
-
-therefore the gravitational field is also greater;
-hence the journey will last less.
-The motion, however, is no
-
-longer harmonic since
-
-only for a homogeneous distribution does the linear dependence between field and distance from the center hold.
-PROBLEM no.
-2
-{
-Thermodynamic cycle
-90
-Points
+However, the motion is no longer harmonic because only for a uniform distribution does the linear dependence between field and distance from the center hold.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -2552,91 +535,21 @@ Points
 
 
 
-Quesito
-n.
-1.
-P
-er
-la
-trasformazione
-isobara:
-T
-A
-V
-A
-=
-T
-C
-V
-C
-)
-T
-C
-=
-2T
-A
-=
-580
-K
-Q
-C!A
-=
-n
-p
-(T
-A
- T
-C
-)
-=
-7
-2
-nR
-T
-A
-=
- 7
-2
-8:31
-J
-K
- 1
-290
-K
-=
- 8:43
-kJ
-v
-alido
-qualunque
-sia
-lo
-stato
-B.
-P
-ag.
-3
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
+**PROBLEMA n. 2 – Ciclo termodinamico** (90 Punti)
+
+**Quesito n. 1.**
+
+Per la trasformazione isobara:
+
+$$
+\frac{T_A}{V_A} = \frac{T_C}{V_C} \quad \Rightarrow \quad T_C = 2 T_A = 580 \text{ K}
+$$
+
+$$
+Q_{C \to A} = n c_p (T_A - T_C) = \frac{7}{2} n R T_A = -\frac{7}{2} 8.31 \text{ J K}^{-1} 290 \text{ K} = -8.43 \text{ kJ}
+$$
+
+valido qualunque sia lo stato B.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Ideal Gas Law (metodo)|Ideal Gas Law]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]]
@@ -2648,68 +561,21 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem no.
-1.
+**PROBLEM no. 2 – Thermodynamic Cycle** (90 Points)
+
+**Question no. 1.**
+
 For the isobaric transformation:
-T
-A
-V
-A
-=
-T
-C
-V
-C
-)
-T
-C
-=
-2T
-A
-=
-580
-K
-Q
-C!A
-= n p (T
-A
- T
-C
-)
-=
-7
-2 nR
-T
-A
-=
- 7
-2
-8:31
-J
-K
- 1
-290
-K
-=
- 8:43 kJ valid whatever the state
-B.
-Pag.
-3
-AIF
-{
-Olympiads of
-Physics
-National
-Competition:
-SOLUTION of the
-Theory
-Test
-{
-Senigallia
-{
-9
-April
-2010
+
+$$
+\frac{T_A}{V_A} = \frac{T_C}{V_C} \quad \Rightarrow \quad T_C = 2 T_A = 580 \text{ K}
+$$
+
+$$
+Q_{C \to A} = n c_p (T_A - T_C) = \frac{7}{2} n R T_A = -\frac{7}{2} 8.31 \text{ J K}^{-1} 290 \text{ K} = -8.43 \text{ kJ}
+$$
+
+valid for any state B.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -2721,646 +587,48 @@ April
 
 
 
-Quesito
-n.
-2.
-La
-temp
-eratura
-T
-B
-nello
-stato
-B
-dev
-e
-essere
-maggiore
-o
-uguale
-a
-T
-C
-,
-o
-vv
-ero,
-nel
-piano
-p
- V
-,
-B
-dev
-e
-stare
-sopra
-l'isoterma
-p
-er
-C.
-Infatti
-nell'espansione
-adiabati a
-il
-la
-v
-oro
+**Quesito n. 2.**
 
-e
-p
-ositiv
-o
-a
-sp
-ese
-dell'energia
-in
-terna
-e
-dunque
-la
-temp
-eratura
-pu
-o
-solo
-dimin
-uire
-o
-restare
-uguale
-(p
-er
-la
-v
-oro
-n
-ullo,
- ome
- aso
-estremo).
-Ne
-segue
+La temperatura $T_{\text{B}}$ nello stato B deve essere maggiore o uguale a $T_{\text{C}}$, ovvero, nel piano $p-V$, B deve stare sopra l'isoterma per C. Infatti nell'espansione adiabatica il lavoro è positivo a spese dell'energia interna e dunque la temperatura può solo diminuire o restare uguale (per lavoro nullo, come caso estremo). Ne segue che
 
-he
-(T
-B
-)
-min
-=
-T
-C
-=
-580
-K
-Al
-temp
-o
-stesso,
-p
-oi
-h
+$(T_{\text{B}})_{\text{min}} = T_{\text{C}} = 580 \text{ K}$
 
-e
-le
-adiabati
-he
-rev
-ersibili
-sono
- urv
-e
-iso
-en
-tropi
-he,
-il
-pun
-to
-B
-dev
-e
-stare
-sotto
-l'adiabati a
-rev
-ersibile
-p
-er
-C
-dato
+*(figura nel PDF originale)*
+Al tempo stesso, poiché le adiabatiche reversibili sono curve isoentropiche, il punto B deve stare sotto l'adiabatica reversibile per C dato che l'entropia può solo aumentare o al massimo restare costante (se la trasformazione del gas fosse un'adiabatica reversibile). Il massimo, o meglio, l'estremo superiore per la temperatura $T_{\text{B}}$ può essere calcolato su una trasformazione adiabatica reversibile ove $TV^{\gamma-1} = \text{cost}$, dove $\gamma = c_p/c_V = 7/5$ nel caso di gas biatomico. Quindi
 
-he
-l'en
-tropia
-pu
-o
-solo
-aumen
-tare
-o
-al
-massimo
-restare
- ostan
-te
-(se
-la
-trasformazione
-del
-gas
-fosse
-un'adiabati a
-rev
-ersibile).
-Il
-massimo,
-o
-meglio,
-l'estremo
-sup
-eriore
-p
-er
-la
-temp
-eratura
-T
-B
-pu
-o
-essere
- al olato
-su
-una
-trasformazione
-adiabati a
-rev
-ersibile
-o
-v
-e
-T
-V
+$(T_{\text{B}})_{\text{sup}} = \left(\frac{V_{\text{C}}}{V_{\text{B}}}\right)^{\gamma-1} T_{\text{C}} = 2^{2/5} T_{\text{C}} = 765 \text{ K}$
 
- 1
-=
- ost,
-do
-v
-e
+Il ragionamento svolto sopra può essere sviluppato a partire dalle stesse premesse discutendo i diversi contributi di calore e lavoro per determinare il valore minimo di $T_{\text{B}}$ e calcolando la variazione di entropia per il valore massimo. Nel seguito si indicheranno con $c_p$ e $c_V$ i calori molari, rispettivamente a pressione e volume costante.
 
-=
+Per un ciclo termodinamico $\Delta U = 0 \quad \Rightarrow \quad Q = L$
 
-p
-=
-V
-=
-7=5
-nel
- aso
-di
-gas
-biatomi o.
-Quindi
-(T
-B
-)
-sup
-=
+$Q_{\text{A} \to \text{B}} = n c_V (T_{\text{B}} - T_{\text{A}}) = \frac{5}{2} n R (T_{\text{B}} - T_{\text{A}}) \quad \text{assorbito durante l'isocora}$
 
-V
-C
-V
-B
+$Q_{\text{B} \to \text{C}} = 0 \quad \text{essendo un'adiabatica}$
 
- 1
-T
-C
-=
-2
-2=5
-T
-C
-=
-765
-K
-Il
-ragionamen
-to
-sv
-olto
-sopra
-pu
-o
-essere
-sviluppato
-a
-partire
-dalle
-stesse
-premesse
-dis utendo
-i
-div
-ersi
- on
-tributi
-di
- alore
-e
-la
-v
-oro
-p
-er
-determinare
-il
-v
-alore
-minimo
-di
-T
-B
-e
- al olando
-la
-v
-ariazione
-di
-en
-tropia
-p
-er
-il
-v
-alore
-massimo.
-Nel
-seguito
-si
-indi
-heranno
- on
+$Q_{\text{C} \to \text{A}} = n c_p (T_{\text{A}} - T_{\text{C}}) = \frac{7}{2} n R (T_{\text{A}} - T_{\text{C}}) \quad \text{ceduto durante l'isobara}$
 
-p
-e
+$L_{\text{A} \to \text{B}} = 0 \quad \text{perché non c'è variazione di volume}$
 
-V
-i
- alori
-molari,
-risp
-ettiv
-amen
-te
-a
-pressione
-e
-v
-olume
- ostan
-te.
-P
-er
-un
- i lo
-termo
-dinami o
- U
-=
-0
-)
-Q
-=
-L
-Q
-A!B
-=
-n
-V
-(T
-B
- T
-A
-)
-=
-5
-2
-nR
-(T
-B
- T
-A
-)
-assorbito
-duran
-te
-l'iso
- ora
-Q
-B!C
-=
-0
-essendo
-un'adiabati a
-Q
-C!A
-=
-n
-p
-(T
-A
- T
-C
-)
-=
-7
-2
-nR
-(T
-A
- T
-C
-)
- eduto
-duran
-te
-l'isobara
-L
-A!B
-=
-0
-p
-er
-h
+$L_{\text{B} \to \text{C}} \geq 0 \quad \text{lavoro fatto verso l'esterno nell'adiabatica irreversibile}$
 
-e
-non
- '
+$L_{\text{C} \to \text{A}} = p \Delta V = n R (T_{\text{A}} - T_{\text{C}}) < 0 \quad \text{perché il gas viene compresso}$
 
-e
-v
-ariazione
-di
-v
-olume
-L
-B!C
+Per il primo principio si ha dunque
 
-0
-la
-v
-oro
-fatto
-v
-erso
-l'esterno
-nell'abiabati a
-irrev
-ersibile
-L
-C!A
-=
-p
- V
-=
-nR
-(T
-A
- T
-C
-)
-<
-0
-p
-er
-h
+$Q_{\text{A} \to \text{B}} + Q_{\text{C} \to \text{A}} = L_{\text{B} \to \text{C}} + L_{\text{C} \to \text{A}} \quad \Rightarrow \quad L_{\text{B} \to \text{C}} = n c_V (T_{\text{B}} - T_{\text{A}}) + n c_p (T_{\text{A}} - T_{\text{C}}) - n R (T_{\text{A}} - T_{\text{C}}) = n c_V T_{\text{B}} + n (-c_V + c_p - R) T_{\text{A}} - n (c_p - R) T_{\text{C}} = n c_V (T_{\text{B}} - T_{\text{C}})$
 
-e
-il
-gas
-viene
- ompresso
-P
-er
-il
-primo
-prin ipio
-si
-ha
-dunque
-Q
-A!B
-+
-Q
-C!A
-=
-L
-B!C
-+
-L
-C!A
-)
-L
-B!C
-=
-n
-V
-(T
-B
- T
-A
-)
-+
-n
-p
-(T
-A
- T
-C
-)
- nR
-(T
-A
- T
-C
-)
-=
-=
-n
-V
-T
-B
-+
-n(
-V
-+
+Trattandosi di un'espansione il lavoro deve essere non negativo per cui
 
-p
- R
-)T
-A
- n(
-p
- R
-)T
-C
-=
-n
-V
-(T
-B
- T
-C
-)
-T
-rattandosi
-di
-un'espansione
-il
-la
-v
-oro
-dev
-e
-essere
-non
-negativ
-o
-p
-er
- ui
-(T
-B
- T
-C
-)
+$(T_{\text{B}} - T_{\text{C}}) \geq 0 \quad \Rightarrow \quad T_{\text{B}} \geq T_{\text{C}}$
 
-0
-)
-T
-B
+Per l'espansione adiabatica irreversibile deve essere $\Delta S > 0$, ovvero
 
-T
-C
-P
-er
-l'espansione
-adiabati a
-irrev
-ersibile
-dev
-e
-essere
- S
->
-0,
-o
-vv
-ero
- S
-B!C
-=
-nR
-ln
-V
-C
-V
-B
-+
-n
-V
-ln
-T
-C
-T
-B
-=
-nR
+$\Delta S_{\text{B} \to \text{C}} = n R \ln \frac{V_{\text{C}}}{V_{\text{B}}} + n c_V \ln \frac{T_{\text{C}}}{T_{\text{B}}} = n R \left( \ln 2 + \frac{5}{2} \ln \frac{T_{\text{C}}}{T_{\text{B}}} \right) > 0 \quad \Rightarrow \quad \ln \frac{T_{\text{C}}}{T_{\text{B}}} > -\frac{2}{5} \ln 2 \quad \Rightarrow \quad T_{\text{B}} < 2^{2/5} T_{\text{C}}$
 
-ln
-2
-+
-5
-2
-ln
-T
-C
-T
-B
+In definitiva, per la temperatura dello stato B valgono le condizioni
 
->
-0
-)
-)
-ln
-T
-C
-T
-B
->
- 2
-5
-ln
-2
-)
-T
-B
-<
-2
-2=5
-T
-C
-In
-de
-nitiv
-a,
-p
-er
-la
-temp
-eratura
-dello
-stato
-B
-v
-algono
-le
- ondizioni
-580
-K
-
-T
-B
-<
-765
-K
-P
-ag.
-4
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
+$580 \text{ K} \leq T_{\text{B}} < 765 \text{ K}$
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -3372,297 +640,48 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-2.
-The temperature
-T
-B in state
-B must be greater than or equal to
-T
-C
-, that is, in the p
- V
-plane,
-B must lie above the isotherm for
-C.
-Indeed, in an adiabatic expansion the work
+**Question no. 2.**
 
-is positive at the expense of internal energy and therefore the temperature can only decrease or remain equal (for zero work, as an extreme case).
-It follows
+The temperature $T_{\text{B}}$ in state B must be greater than or equal to $T_{\text{C}}$, that is, in the $p-V$ plane point B must lie above the isotherm for C. Indeed, in an adiabatic expansion, work is positive at the expense of internal energy and thus temperature can only decrease or remain equal (in the extreme case of zero work). It follows that
 
-that (T
-B
-)
-min
-=
-T
-C
-=
-580
-K
-At the same time, moreover, since
+$(T_{\text{B}})_{\text{min}} = T_{\text{C}} = 580 \text{ K}$
 
-the reversible adiabatic curves are isentropic curves, point
-B must lie below the reversible adiabatic curve for
-C given
+*(figure in the original PDF)*
+At the same time, since reversible adiabatic processes are isoentropic curves, point B must lie below the reversible adiabatic curve for C because entropy can only increase or at most remain constant (if the gas transformation were a reversible adiabatic process). The maximum, or rather the supremum, for temperature $T_{\text{B}}$ can be computed along a reversible adiabatic transformation where $TV^{\gamma-1} = \text{constant}$, with $\gamma = c_p/c_V = 7/5$ in the case of a diatomic gas. Therefore
 
-that entropy can only increase or at most remain constant (if the gas transformation were a reversible adiabatic).
-The maximum, or rather, the upper extreme for the temperature
-T
-B can be calculated for a reversible adiabatic transformation where
-T
-V
+$(T_{\text{B}})_{\text{sup}} = \left(\frac{V_{\text{C}}}{V_{\text{B}}}\right)^{\gamma-1} T_{\text{C}} = 2^{2/5} T_{\text{C}} = 765 \text{ K}$
 
- 1
-= const, where
+The reasoning above can be developed starting from the same premises by discussing the different contributions of heat and work to determine the minimum value of $T_{\text{B}}$ and computing the entropy change for the maximum value. In what follows, $c_p$ and $c_V$ will denote molar heat capacities at constant pressure and volume, respectively.
 
-=
+For a thermodynamic cycle $\Delta U = 0 \quad \Rightarrow \quad Q = L$
 
-p
-=
-V
-=
-7=5 in the case of a diatomic gas.
-Therefore (T
-B
-)
-sup
-=
+$Q_{\text{A} \to \text{B}} = n c_V (T_{\text{B}} - T_{\text{A}}) = \frac{5}{2} n R (T_{\text{B}} - T_{\text{A}}) \quad \text{absorbed during the isochore}$
 
-V
-C
-V
-B
+$Q_{\text{B} \to \text{C}} = 0 \quad \text{being an adiabatic process}$
 
- 1
-T
-C
-=
-2
-2=5
-T
-C
-=
-765
-K
-The reasoning developed above can be developed starting from the same premises by discussing the various contributions of heat and work to determine the minimum value of
-T
-B and by calculating the entropy variation for the maximum value.
-In what follows,
+$Q_{\text{C} \to \text{A}} = n c_p (T_{\text{A}} - T_{\text{C}}) = \frac{7}{2} n R (T_{\text{A}} - T_{\text{C}}) \quad \text{released during the isobar}$
 
-p and
+$L_{\text{A} \to \text{B}} = 0 \quad \text{because there is no volume change}$
 
-will denote
+$L_{\text{B} \to \text{C}} \geq 0 \quad \text{work done on the outside in the irreversible adiabatic expansion}$
 
-Molar values, respectively at constant pressure and volume.
-For an ideal thermodynamic [system]
- U
-=
-0
-)
-Q
-=
-L
-Q
-A!B
-= n
-V (T
-B
- T
-A
-)
-=
-5
-2 nR (T
-B
- T
-A
-)
-absorbed during the isochoric [process]
-Q
-B!C
-=
-0 being an adiabatic [process]
-Q
-C!A
-= n p (T
-A
- T
-C
-)
-=
-7
-2 nR (T
-A
- T
-C
-)
- released during the isobaric [process]
-L
-A!B
-=
-0 because
+$L_{\text{C} \to \text{A}} = p \Delta V = n R (T_{\text{A}} - T_{\text{C}}) < 0 \quad \text{because the gas is compressed}$
 
-e no
- '
+Thus, from the first law,
 
-e variation of volume
-L
-B!C
+$Q_{\text{A} \to \text{B}} + Q_{\text{C} \to \text{A}} = L_{\text{B} \to \text{C}} + L_{\text{C} \to \text{A}} \quad \Rightarrow \quad L_{\text{B} \to \text{C}} = n c_V (T_{\text{B}} - T_{\text{A}}) + n c_p (T_{\text{A}} - T_{\text{C}}) - n R (T_{\text{A}} - T_{\text{C}}) = n c_V T_{\text{B}} + n (-c_V + c_p - R) T_{\text{A}} - n (c_p - R) T_{\text{C}} = n c_V (T_{\text{B}} - T_{\text{C}})$
 
-0 the work done toward the outside in the irreversible adiabatic [process]
-L
-C!A
-= p
- V
-= nR (T
-A
- T
-C
-)
-<
-0 because the gas is compressed
-For the first principle one therefore has
-Q
-A!B
-+
-Q
-C!A
-=
-L
-B!C
-+
-L
-C!A
-)
-L
-B!C
-= n
-V (T
-B
- T
-A
-)
-+ n p (T
-A
- T
-C
-)
- nR (T
-A
- T
-C
-)
-=
-= n
-V
-T
-B
-+ n(
-V
-+
+Since it is an expansion, work must be non-negative, so
 
-p
- R
-)T
-A n( p
- R
-)T
-C
-= n
-V (T
-B
- T
-C
-)
-Since this is an expansion the work must be non-negative for which (T
-B
- T
-C
-)
+$(T_{\text{B}} - T_{\text{C}}) \geq 0 \quad \Rightarrow \quad T_{\text{B}} \geq T_{\text{C}}$
 
-0
-)
-T
-B
+For the irreversible adiabatic expansion, it must be $\Delta S > 0$, that is,
 
-T
-C
-For the irreversible adiabatic expansion one must have
- S
->
-0, that is
- S
-B!C
-= nR ln
-V
-C
-V
-B
-+ n
-V ln
-T
-C
-T
-B
-= nR
+$\Delta S_{\text{B} \to \text{C}} = n R \ln \frac{V_{\text{C}}}{V_{\text{B}}} + n c_V \ln \frac{T_{\text{C}}}{T_{\text{B}}} = n R \left( \ln 2 + \frac{5}{2} \ln \frac{T_{\text{C}}}{T_{\text{B}}} \right) > 0 \quad \Rightarrow \quad \ln \frac{T_{\text{C}}}{T_{\text{B}}} > -\frac{2}{5} \ln 2 \quad \Rightarrow \quad T_{\text{B}} < 2^{2/5} T_{\text{C}}$
 
-ln
-2
-+
-5
-2 ln
-T
-C
-T
-B
+In conclusion, for the temperature in state B the following conditions hold:
 
->
-0
-)
-)
-ln
-T
-C
-T
-B
->
- 2
-5 ln
-2
-)
-T
-B
-<
-2
-2=5
-T
-C
-Ultimately, for the temperature of state
-B the conditions hold
-580
-K
-
-T
-B
-<
-765
-K
-Pag.
-4
-AIF
-{
-Olympiad of
-Physics
-National Competition:
-SOLUTION of the
-Theory Test
-{
-Senigallia
-{
-9
-April
-2010
+$580 \text{ K} \leq T_{\text{B}} < 765 \text{ K}$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -3674,321 +693,25 @@ April
 
 
 
-Quesito
-n.
-3.
-Il
- i lo
-sv
-olto
-dal
-gas
+**Quesito n. 3.**
 
-e
-stato
-de
-nito
-termi o
-se
-il
-gas
- ompie
-la
-v
-oro
-sull'esterno:
-L
->
-0
-e
-quindi
-an
-he
-Q
->
-0;
-in
-altre
-parole
-il
-gas
-assorb
-e
-pi
+Il ciclo svolto dal gas è stato definito termico se il gas compie lavoro sull'esterno: $L > 0$ e quindi anche $Q > 0$; in altre parole il gas assorbe più calore di quanto ne cede; al contrario se il lavoro è fatto sul gas dall'esterno ($L < 0$ e $Q < 0$) allora esegue un ciclo frigorifero.
 
-u
- alore
-di
-quan
-to
-ne
- ede;
-al
- on
-trario
-se
-il
-la
-v
-oro
+Il valore particolare di $T_B$ per cui il ciclo cambia da frigorifero a termico si ottiene quindi imponendo che $Q = Q_{A \to B} + Q_{C \to A} = 0$ ovvero $Q_{A \to B} = -Q_{C \to A}$
 
-e
-fatto
-sul
-gas
-dall'esterno
-(L
-<
-0
-e
-Q
-<
-0)
-allora
-esegue
-un
- i lo
-frigorifero.
-Il
-v
-alore
-parti olare
-di
-T
-B
-p
-er
- ui
-il
- i lo
- am
-bia
-da
-frigorifero
-a
-termi o
-si
-ottiene
-quindi
-imp
-onendo
+$$
+\frac{5}{2} nR (T_B - T_A) = \frac{7}{2} nR (T_C - T_A) \quad \Rightarrow \quad 2T_A + 5T_B - 7T_C = 0 \quad \Rightarrow \quad T_B = \frac{12}{5} T_A = 696 \, \text{K} \,.
+$$
 
-he
-Q
-=
-Q
-A!B
-+
-Q
-C!A
-=
-0
-o
-vv
-ero
-Q
-A!B
-=
- Q
-C!A
-5
-2
-nR
-(T
-B
- T
-A
-)
-=
-7
-2
-nR
-(T
-C
- T
-A
-)
-)
-2T
-A
-+
-5T
-B
- 7T
-C
-=
-0
-)
-T
-B
-=
-12
-5
-T
-A
-=
-696
-K
-:
-Alternativ
-amen
-te:
-n
-V
-(T
-B
- T
-A
-)
-=
-n
-p
-(T
-C
- T
-A
-)
-)
-T
-B
-=
-1
+Alternativamente:
 
-V
+$$
+n c_V (T_B - T_A) = n c_p (T_C - T_A) \quad \Rightarrow \quad T_B = \frac{1}{c_V} \left( c_V T_A + c_p T_A \right) = (1 + \gamma) T_A = \frac{12}{5} T_A
+$$
 
-V
-T
-A
-+
+detta $T_0$ tale temperatura, si ha che per $T_B < T_0$ il ciclo è frigorifero, mentre per $T_B > T_0$ il ciclo è termico.
 
-p
-T
-A
-
-=
-(
-1
-+
-
-)
-T
-A
-=
-12
-5
-T
-A
-detta
-T
-0
-tale
-temp
-eratura,
-si
-ha
-
-he
-p
-er
-T
-B
-<
-T
-0
-il
- i lo
-
-e
-frigorifero,
-men
-tre
-p
-er
-T
-B
->
-T
-0
-il
- i lo
-
-e
-termi o.
-Come
- aso
-sup
-eriore
-estremo
-si
-ha
-quello
-di
-un'adiabati a
-rev
-ersibile
-
-he
-rende
-rev
-ersibile
-l'in
-tero
- i lo:
-notare
-
-he
-solo
-in
-questo
- aso
-il
-la
-v
-oro
-
-e
- al olabile
-attra
-v
-erso
-l'area
-del
-piano
-p
- V
-delimitata
-dalla
- urv
-a
-
-he
-rappresen
-ta
-il
- i lo
-e
-solo
-in
-questo
- aso
-il
-v
-erso
-orario
-di
-p
-er orrenza
-del
- i lo
- onferma
-
-he
-si
-tratta
-di
-un
- i lo
-termi o.
+Come caso superiore estremo si ha quello di un'adiabatica reversibile che rende reversibile l'intero ciclo: notare che solo in questo caso il lavoro è calcolabile attraverso l'area del piano $p-V$ delimitata dalla curva che rappresenta il ciclo e solo in questo caso il verso orario di percorrenza del ciclo conferma che si tratta di un ciclo termico.
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -4000,153 +723,25 @@ termi o.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-3.
-The cycle performed by the gas
+**Question no. 3.**
 
-was defined as thermal if the gas does work on the surroundings:
-L
->
-0 and therefore also
-Q
->
-0;
-in other words the gas absorbs more heat than it gives off;
-on the contrary, if the work
+The cycle performed by the gas is defined as thermal if the gas does work on the outside: $L > 0$ and therefore also $Q > 0$; in other words, the gas absorbs more heat than it releases. Conversely, if work is done on the gas from outside ($L < 0$ and $Q < 0$), then it performs a refrigeration cycle.
 
-is done on the gas from the outside (L
-<
-0 and
-Q
-<
-0)
-then it performs a refrigerator cycle.
-The particular value of
-T
-B for which the cycle changes from refrigerator to thermal is therefore obtained by imposing
+The particular value of $T_B$ for which the cycle changes from refrigeration to thermal is obtained by imposing that $Q = Q_{A \to B} + Q_{C \to A} = 0$, i.e., $Q_{A \to B} = -Q_{C \to A}$
 
-that
-Q
-=
-Q
-A!B
-+
-Q
-C!A
-=
-0 or rather
-Q
-A!B
-=
- Q
-C!A
-5
-2 nR (T
-B
- T
-A
-)
-=
-7
-2 nR (T
-C
- T
-A
-)
-)
-2T
-A
-+
-5T
-B
- 7T
-C
-=
-0
-)
-T
-B
-=
-12
-5
-T
-A
-=
-696
-K
-:
+$$
+\frac{5}{2} nR (T_B - T_A) = \frac{7}{2} nR (T_C - T_A) \quad \Rightarrow \quad 2T_A + 5T_B - 7T_C = 0 \quad \Rightarrow \quad T_B = \frac{12}{5} T_A = 696 \, \text{K} \,.
+$$
+
 Alternatively:
-n
-V (T
-B
- T
-A
-)
-= n p (T
-C
- T
-A
-)
-)
-T
-B
-=
-1
 
-V
+$$
+n c_V (T_B - T_A) = n c_p (T_C - T_A) \quad \Rightarrow \quad T_B = \frac{1}{c_V} \left( c_V T_A + c_p T_A \right) = (1 + \gamma) T_A = \frac{12}{5} T_A
+$$
 
-V
-T
-A
-+
+Let $T_0$ be this temperature; then for $T_B < T_0$ the cycle is refrigeration, while for $T_B > T_0$ the cycle is thermal.
 
-p
-T
-A
-
-= (
-1
-+
-
-)
-T
-A
-=
-12
-5
-T
-A called
-T
-0 that temperature, one has
-
-that for
-T
-B
-<
-T
-0 the cycle
-
-is a refrigerator, while for
-T
-B
->
-T
-0 the cycle
-
-is thermal.
-As a higher extreme case one has that of a reversible adiabatic
-
-which makes the entire cycle reversible:
-note
-
-that only in this case the work
-
-is calculable through the area of the p
- V plane bounded by the curve
-
-that represents the cycle and only in this case the clockwise direction of traversal of the cycle confirms
-
-that it is a thermal cycle.
+As an extreme upper case, there is a reversible adiabatic process that makes the entire cycle reversible: note that only in this case is the work calculable through the area of the $p-V$ plane bounded by the curve representing the cycle, and only in this case does the clockwise direction of traversal confirm that it is a thermal cycle.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -4158,334 +753,37 @@ that it is a thermal cycle.
 
 
 
-Quesito
-n.
-4.
-Il
-rendimen
-to
-di
-un
- i lo
-termi o
+**Quesito n. 4.**
 
-e
+Il rendimento di un ciclo termico è
 
-=
-L
-Q
-1
-=
-Q
-Q
-1
-=
-Q
-1
-+
-Q
-2
-Q
-1
-=
-Q
-1
- jQ
-2
-j
-Q
-1
-=
-1
- jQ
-2
-j
-Q
-1
-do
-v
-e
-Q
+$$
+\eta = \frac{L}{Q_1} = \frac{Q}{Q_1} = \frac{Q_1 + Q_2}{Q_1} = \frac{Q_1 - |Q_2|}{Q_1} = 1 - \frac{|Q_2|}{Q_1}
+$$
 
-e
-il
- alore
- omplessiv
-amen
-te
-s am
-biato,
-men
-tre
-Q
-1
-e
-Q
-2
-sono
-quelli
-e
-ettiv
-amen
-te
-assorbito
-e
- eduto
-(Q
-1
->
-0;
-Q
-2
-<
-0).
-Il
-rendimen
-to
+dove $Q$ è il calore complessivamente scambiato, mentre $Q_1$ e $Q_2$ sono quelli effettivamente assorbito e ceduto ($Q_1 > 0$, $Q_2 < 0$). Il rendimento è quindi una funzione della temperatura $T_B$:
 
-e
-quindi
-una
-funzione
-della
-temp
-eratura
-T
-B
-:
+$$
+\eta(T_B) = 1 - \frac{Q_{C \to A}}{Q_{A \to B}} = 1 - \frac{n \, c_p (T_C - T_A)}{n \, c_V (T_B - T_A)} = 1 - \frac{c_p T_A}{c_V (T_B - T_A)} = 1 - \gamma \frac{1}{T_B / T_A - 1}
+$$
 
-(T
-B
-)
-=
-1
- Q
-C!A
-Q
-A!B
-=
-1
- n
+L'espressione del rendimento, valida per $696 \, \text{K} < T_B < 765 \, \text{K}$, è una funzione monotona crescente di $T_B$. Numericamente risulta: $\eta(696 \, \text{K}) = 0$ ed $\eta(765 \, \text{K}) = 0.15$
 
-p
-(T
-C
- T
-A
-)
-n
+L'efficienza frigorifera
 
-V
-(T
-B
- T
-A
-)
-=
-1
+$$
+\varepsilon = \frac{Q_1}{|L|} = \frac{Q_1}{|Q|} = \frac{Q_1}{|Q_2| - Q_1} = \frac{1}{|Q_2| / Q_1 - 1} \quad \text{è pure una funzione monotona crescente di } T_B:
+$$
 
-p
-T
-A
+$$
+\varepsilon(T_B) = \frac{1}{|Q_{C \to A}| / Q_{A \to B} - 1} = \left( \frac{n \, c_p T_A}{n \, c_V (T_B - T_A)} - 1 \right)^{-1} = \left( \frac{\gamma}{T_B / T_A - 1} - 1 \right)^{-1}
+$$
 
-V
-(T
-B
- T
-A
-)
-=
-1
+Si ricava: $\varepsilon(580 \, \text{K}) = 2.5$ ed $\varepsilon(T_B \to 696 \, \text{K}) \to \infty$.
 
-1
-T
-B
-=T
-A
- 1
-L'espressione
-del
-rendimen
-to,
-v
-alida
-p
-er
-696
-K
-<
-T
-B
-<
-765
-K,
+I grafici dei due parametri sono riportati qui sotto.
 
-e
-una
-funzione
-monotona
- res en
-te
-di
-T
-B
-.
-Numeri amen
-te
-risulta:
-
-(696
-K)
-=
-0
-ed
-
-(765
-K)
-=
-0:15
-L'eÆ ienza
-frigorifera
-"
-=
-Q
-1
-jLj
-=
-Q
-1
-j
-Qj
-=
-Q
-1
-jQ
-2
-j
- Q
-1
-=
-1
-jQ
-2
-j
-=Q
-1
- 1
-
-e
-pure
-una
-funzione
-monotona
- res en
-te
-di
-T
-B
-:
-"(T
-B
-)
-=
-1
-jQ
-C!A
-j
-=Q
-A!B
- 1
-=
-
-n
-
-p
-T
-A
-n
-
-V
-(T
-B
- T
-A
-)
- 1
-
- 1
-=
-
-T
-B
-=T
-A
- 1
- 1
-
- 1
-Si
-ri a
-v
-a:
-"(580
-K)
-=
-2:5
-ed
-"(T
-B
-!
-696
-K)
-!
-1
-:
-I
-gra
- i
-dei
-due
-parametri
-sono
-rip
-ortati
-qui
-sotto.
-P
-ag.
-5
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
-PROBLEMA
-n.
-3
-{
-Esplo
-rando
-il
-fondo
-50
-Pun
-ti
+*(figura nel PDF originale)*
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -4497,225 +795,37 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-4.
-The efficiency of a heat engine
+**Question no. 4.**
 
-=
-L
-Q
-1
-=
-Q
-Q
-1
-=
-Q
-1
-+
-Q
-2
-Q
-1
-=
-Q
-1 jQ
-2 j
-Q
-1
-=
-1 jQ
-2 j
-Q
-1 where
-Q
+The efficiency of a thermodynamic cycle is
 
-is the total heat exchanged, while
-Q
-1 and
-Q
-2 are those actually absorbed and released (Q
-1
->
-0;
-Q
-2
-<
-0).
-The efficiency
+$$
+\eta = \frac{L}{Q_1} = \frac{Q}{Q_1} = \frac{Q_1 + Q_2}{Q_1} = \frac{Q_1 - |Q_2|}{Q_1} = 1 - \frac{|Q_2|}{Q_1}
+$$
 
-is therefore a function of temperature
-T
-B
-:
+where $Q$ is the total heat exchanged, while $Q_1$ and $Q_2$ are those actually absorbed and released ($Q_1 > 0$, $Q_2 < 0$). The efficiency is therefore a function of the temperature $T_B$:
 
-(T
-B
-)
-=
-1
- Q
-C!A
-Q
-A!B
-=
-1 n
+$$
+\eta(T_B) = 1 - \frac{Q_{C \to A}}{Q_{A \to B}} = 1 - \frac{n \, c_p (T_C - T_A)}{n \, c_V (T_B - T_A)} = 1 - \frac{c_p T_A}{c_V (T_B - T_A)} = 1 - \gamma \frac{1}{T_B / T_A - 1}
+$$
 
-p (T
-C
- T
-A
-)
-n
+The expression for efficiency, valid for $696 \, \text{K} < T_B < 765 \, \text{K}$, is a monotonic increasing function of $T_B$. Numerically it results: $\eta(696 \, \text{K}) = 0$ and $\eta(765 \, \text{K}) = 0.15$
 
-V (T
-B
- T
-A
-)
-=
-1
-
-p
-T
-A
-
-V (T
-B
- T
-A
-)
-=
-1
-
-1
-T
-B
-=T
-A
- 1
-The expression for the efficiency, valid for
-696
-K
-<
-T
-B
-<
-765
-K,
-
-is a monotonically increasing function of
-T
-B
-.
-Numerically it turns out:
-
-(696
-K)
-=
-0 and
-
-(765
-K)
-=
-0:15
 The refrigeration efficiency
-"
-=
-Q
-1 jLj
-=
-Q
-1 j
-Qj
-=
-Q
-1 jQ
-2 j
- Q
-1
-=
-1 jQ
-2 j
-=Q
-1
- 1
 
-is also a monotonically increasing function of
-T
-B
-:
-"(T
-B
-)
-=
-1 jQ
-C!A j
-=Q
-A!B
- 1
-=
+$$
+\varepsilon = \frac{Q_1}{|L|} = \frac{Q_1}{|Q|} = \frac{Q_1}{|Q_2| - Q_1} = \frac{1}{|Q_2| / Q_1 - 1} \quad \text{is also a monotonic increasing function of } T_B:
+$$
 
-n
+$$
+\varepsilon(T_B) = \frac{1}{|Q_{C \to A}| / Q_{A \to B} - 1} = \left( \frac{n \, c_p T_A}{n \, c_V (T_B - T_A)} - 1 \right)^{-1} = \left( \frac{\gamma}{T_B / T_A - 1} - 1 \right)^{-1}
+$$
 
-p
-T
-A n
+It is found: $\varepsilon(580 \, \text{K}) = 2.5$ and $\varepsilon(T_B \to 696 \, \text{K}) \to \infty$.
 
-V (T
-B
- T
-A
-)
- 1
+The graphs of the two parameters are reported below.
 
- 1
-=
-
-T
-B
-=T
-A
- 1
- 1
-
- 1
-One obtains:
-"(580
-K)
-=
-2:5 and
-"(T
-B
-!
-696
-K)
-!
-1
-:
-The graphs of the two parameters are shown below.
-Pag.
-5
-AIF
-{
-Olympiad of
-Physics
-National Competition:
-SOLUTION of the
-Theoretical
-Test
-{
-Senigallia
-{
-9
-April
-2010
-PROBLEM no.
-3
-{
-Exploring the bottom
-50
-Points
+*(figure in the original PDF)*
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -4727,1146 +837,159 @@ Points
 
 
 
-Quesito
-n.
-1.
-Si
- onsideri
-un
-arbitrario
-pun
-to
-A
-del
-fondo
-della
-v
-as a,
-a
-distanza
-x
-dal
-piede
-della
-p
-erp
-endi olare
- ondotta
-dal
-pun
-to
-di
-osserv
-azione
-O,
-e
-il
-raggio
-di
-lu e
+**PROBLEMA n. 3 – Esplorando il fondo** (50 Punti)
 
-he
-partendo
-da
-questo
-pun
-to
-arriv
-a
-nello
-stesso
-pun
-to
-O.
-A
- ausa
-della
-rifrazione
-subita
-dalla
-lu e
-nel
-passaggio
-dall'a qua
-all'aria,
-esso
-sem
-bra
-essere
-emesso
-da
-un
-pun
-to
-A
-0
-,
- ome
-mostrato
-in
+**Quesito n. 1.**
 
-gura.
-In
-termini
-dell'angolo
-'
-mostrato
-in
+Si consideri un arbitrario punto A del fondo della vasca, a distanza $x$ dal piede della perpendicolare condotta dal punto di osservazione O, e il raggio di luce che partendo da questo punto arriva nello stesso punto O. A causa della rifrazione subita dalla luce nel passaggio dall'acqua all'aria, esso sembra essere emesso da un punto A', come mostrato in figura.
 
-gura,
-si
-ha
-x
-=
-L
-tg
-'.
-Il
-raggio
+*(figura nel PDF originale)*
+In termini dell'angolo $\varphi$ mostrato in figura, si ha $x = L \operatorname{tg} \varphi$.
 
-he
-parte
-da
-A,
- on
-un
-angolo
-'
-risp
-etto
-alla
-v
-erti ale,
-passa
-p
-er
-O;
-in
-v
-e e
-un
-raggio
-adia en
-te
+Il raggio che parte da A, con un angolo $\varphi$ rispetto alla verticale, passa per O; invece un raggio adiacente che parte con angolo $\varphi + d\varphi$ giunge alla superficie di separazione in un punto distante da O di una quantità $dx$ data da
 
-he
-parte
- on
-angolo
-'
-+
-d'
-giunge
-alla
-sup
-er
- ie
-di
-separazione
-in
-un
-pun
-to
-distan
-te
-da
-O
-di
-una
-quan
-tit
-a
-dx
-data
-da
-x
-+
-dx
-=
-L
-tg
-('
-+
-d')
-)
-dx
-=
-L
-[tg
-('
-+
-d')
- tg
-'℄
-)
-dx
-=
-L
+$$
+x + dx = L \operatorname{tg}(\varphi + d\varphi) \quad \Rightarrow \quad dx = L \left[ \operatorname{tg}(\varphi + d\varphi) - \operatorname{tg} \varphi \right] \quad \Rightarrow \quad dx = L \left[ \frac{\operatorname{tg}(\varphi + d\varphi) - \operatorname{tg} \varphi}{d\varphi} \right] d\varphi
+$$
 
-tg
-('
-+
-d')
- tg
-'
-d'
+e, considerando che per $d\varphi \to 0$ l'espressione tra parentesi quadra è la derivata della funzione $\operatorname{tg} \varphi$, si ha
 
-d'
-e,
- onsiderando
+$$
+dx = \frac{L}{\cos^2 \varphi} d\varphi \quad \text{(1)}
+$$
 
-he
-p
-er
-d'
-!
-0
-l'espressione
-tra
-paren
-tesi
-quadra
+Nota: Si poteva giungere allo stesso risultato differenziando l'espressione iniziale:
 
-e
-la
-deriv
-ata
-della
-funzione
-tg
-',
-si
-ha
-dx
-=
-L
- os
-2
-'
-d'
-(1)
-Nota:
-Si
-p
-otev
-a
-giungere
-allo
-stesso
-risultato
-di
-erenziando
-l'espressione
-iniziale:
-x
-=
-L
-tg
-'
-)
-dx
-=
-L
-d(tg
-')
-)
-dx
-=
-L
-1
- os
-2
-'
-d'
-Analogamen
-te,
-indi ando
- on
-`
-la
-profondit
-a
-del
-pun
-to
-A
-0
-,
-si
-ha
+$$
+x = L \operatorname{tg} \varphi \quad \Rightarrow \quad dx = L \, d(\operatorname{tg} \varphi) \quad \Rightarrow \quad dx = L \frac{1}{\cos^2 \varphi} d\varphi
+$$
 
-he
-x
-=
-`
- os
-2
-#
-d#
-(2)
-Di
-erenziando
-la
-Legge
-di
-Snell,
-sen
-#
-=
-n
-sen
-',
-si
-ottiene
-d
-(sen
-#)
-=
-nd
-(sen
-')
-)
- os
-#
-d#
-=
-n
- os
-'
-d'
-)
-d'
-=
-1
-n
- os
-#
- os
-'
-d#
-:
-Sostituendo
-nella
-(1)
-l'espressione
-p
-er
-d'
-app
-ena
-otten
-uta,
-si
-ri a
-v
-a
-dx
-=
-L
-n
- os
-#
- os
-3
-'
-d#
-(3)
-ed
-uguagliando
-le
-espressioni
-(2)
-e
-(3)
-si
-ottiene
-in
-ne
-`
-=
-L
-n
+Analogamente, indicando con $\ell$ la profondità del punto A', si ha che
 
- os
-#
- os
-'
+$$
+x = \frac{\ell}{\cos^2 \vartheta} d\vartheta \quad \text{(2)}
+$$
 
-3
-(4)
-Sempre
-da
-x
-=
-L
-tg
-'
-si
-ri a
-v
-a
+Differenziando la Legge di Snell, $\operatorname{sen} \vartheta = n \operatorname{sen} \varphi$, si ottiene
 
-he
-x
-L
-=
-p
-1
- os
-2
-'
- os
-'
-)
- os
-2
-'
-=
-1
-1
-+
-(x=L)
-2
-P
-ag.
-6
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
-D'altra
-parte,
-appli ando
-la
-Legge
-di
-Snell,
-si
-pu
-o
-an
-he
-s riv
-ere
-x
-L
-=
-sen
-#=n
-p
-1
- (sen
-#=n)
-2
-)
+$$
+d(\operatorname{sen} \vartheta) = n d(\operatorname{sen} \varphi) \quad \Rightarrow \quad \cos \vartheta \, d\vartheta = n \cos \varphi \, d\varphi \quad \Rightarrow \quad d\varphi = \frac{1}{n} \frac{\cos \vartheta}{\cos \varphi} d\vartheta \,.
+$$
 
-x
-L
+Sostituendo nella (1) l'espressione per $d\varphi$ appena ottenuta, si ricava
 
-2
-=
-1
- os
-2
-#
-n
-2
- 1
-+
- os
-2
-#
-)
- os
-2
-#
-=
-1
-+
-(1
- n
-2
-)(x=L)
-2
-1
-+
-(x=L)
-2
-In
-ultima
-analisi
+$$
+dx = \frac{L}{n} \frac{\cos \vartheta}{\cos^3 \varphi} d\vartheta \quad \text{(3)}
+$$
 
- os
-#
- os
-'
+ed uguagliando le espressioni (2) e (3) si ottiene infine
 
-2
-=
-1
- (n
-2
- 1)
+$$
+\ell = \frac{L}{n} \left( \frac{\cos \vartheta}{\cos \varphi} \right)^3 \quad \text{(4)}
+$$
 
-x
-L
+Sempre da $x = L \operatorname{tg} \varphi$ si ricava che
 
-2
+$$
+\frac{x}{L} = \frac{\sqrt{1 - \cos^2 \varphi}}{\cos \varphi} \quad \Rightarrow \quad \cos^2 \varphi = \frac{1}{1 + (x/L)^2}
+$$
 
-he
-sostituita
-nella
-(4)
-fornis e
-`
-=
-L
-n
-"
-r
-1
- (n
-2
- 1)
+D'altra parte, applicando la Legge di Snell, si può anche scrivere
 
-x
-L
+$$
+\frac{x}{L} = \frac{\operatorname{sen} \vartheta / n}{\sqrt{1 - (\operatorname{sen} \vartheta / n)^2}} \quad \Rightarrow \quad \left(\frac{x}{L}\right)^2 = \frac{1 - \cos^2 \vartheta}{n^2 - 1 + \cos^2 \vartheta} \quad \Rightarrow \quad \cos^2 \vartheta = \frac{1 + (1 - n^2)(x/L)^2}{1 + (x/L)^2}
+$$
 
-2
-#
-3
-(5)
-|||||||||||
-Soluzione
-alternativ
-a
-Come
-prima,
-oltre
-al
-raggio
-us en
-te
-da
-A
-e
-passan
-te
-p
-er
-O,
-si
- onsideri
-un
-se ondo
-raggio
+In ultima analisi
 
-he
-forma
- on
-il
-primo
-un
-angolo
-pi olo
+$$
+\left(\frac{\cos \vartheta}{\cos \varphi}\right)^2 = 1 - (n^2 - 1) \left(\frac{x}{L}\right)^2
+$$
 
-e
+che sostituita nella (4) fornisce
 
-he
-attra
-v
-ersa
-la
-sup
-er
- ie
-dell'a qua
-in
-un
-pun
-to
-O
-0
-.
-La
-profondit
-a
-`
-di
-A
-0
-si
-pu
-o
-esprimere
-in
-funzione
-della
-profondit
-a
-e
-ettiv
-a
-L,
-della
-distanza
-x
-e
-dell'indi e
-di
-rifrazione
-n
- onsiderando
+$$
+\ell = \frac{L}{n} \left[\sqrt{1 - (n^2 - 1) \left(\frac{x}{L}\right)^2}\right]^3
+\tag{5}
+$$
 
-he
-il
-segmen
-to
-OO
-0
+Soluzione alternativa
 
-e
-un
-lato
- om
-une
-dei
-due
-triangoli
-OHO
-0
-e
-OH
-0
-O
-0
-.
-Da
-sempli i
- onsiderazioni
-geometri
-he
-si
-ri a
-v
-a
+Come prima, oltre al raggio uscente da A e passante per O, si consideri un secondo raggio che forma con il primo un angolo piccolo $\alpha$ e che attraversa la superficie dell'acqua in un punto O'.
 
-he
-d
-OO
-0
-H
-=
-'
-e
-d
-OO
-0
-H
-0
-=
-#
-:
-Dalla
-geometria
-del
-sistema
-si
-ri a
-v
-ano
-su essiv
-amen
-te
-A
-0
-O
-0
-=
-`
- os
-(#
+*(figura nel PDF originale)*
+La profondità $\ell$ di A' si può esprimere in funzione della profondità effettiva $L$, della distanza $x$ e dell'indice di rifrazione $n$ considerando che il segmento OO' è un lato comune dei due triangoli OHO' e OH'O'.
 
-)
-;
-O
-0
-H
-0
-=
-A
-0
-O
-0
-sen
+Da semplici considerazioni geometriche si ricava che $\widehat{OO'H} = \varphi$ e $\widehat{OO'H'} = \vartheta$. Dalla geometria del sistema si ricavano successivamente
 
-=
-`
-sen
+$$
+\overline{A'O'} = \frac{\ell}{\cos(\vartheta - \beta)}; \quad \overline{O'H'} = \overline{A'O'} \operatorname{sen} \beta = \ell \frac{\operatorname{sen} \beta}{\cos(\vartheta - \beta)}; \quad \overline{OO'} = \frac{\overline{O'H'}}{\cos \vartheta} = \ell \frac{\operatorname{sen} \beta}{\cos(\vartheta - \beta) \cos \vartheta}.
+\tag{1'}
+$$
 
- os
-(#
+Analogamente
 
-)
-;
-OO
-0
-=
-O
-0
-H
-0
- os
-#
-=
-`
-sen
+$$
+\overline{AO'} = \frac{L}{\cos(\varphi - \alpha)}; \quad \overline{O'H} = \overline{AO'} \operatorname{sen} \alpha = L \frac{\operatorname{sen} \alpha}{\cos(\varphi - \alpha)}; \quad \overline{OO'} = \frac{\overline{O'H}}{\cos \varphi} = L \frac{\operatorname{sen} \alpha}{\cos(\varphi - \alpha) \cos \varphi}.
+\tag{2'}
+$$
 
- os
-(#
+Uguagliando la (1') e la (2') si ottiene
 
-)
- os
-#
-:
-(1
-0
-)
-Analogamen
-te
-A
-O
-0
-=
-L
- os
-('
+$$
+\ell = L \frac{\operatorname{sen} \alpha \cos \vartheta \cos(\vartheta - \beta)}{\operatorname{sen} \beta \cos \varphi \cos(\varphi - \alpha)}.
+$$
 
-)
-;
-O
-0
-H
-=
-A
-O
-0
-sen
+Ricordando che la divergenza del fascio è molto piccola si può approssimare $\operatorname{sen} \alpha \approx \alpha$, $\operatorname{sen} \beta \approx \beta$ e $\cos \alpha \approx \cos \beta \approx 1$; pertanto l'espressione precedente diventa
 
-=
-L
-sen
+$$
+\ell = L \left(\frac{\cos \vartheta}{\cos \varphi}\right)^2 \frac{\alpha}{\beta}.
+\tag{3'}
+$$
 
- os
-('
+La legge di Snell applicata nei punti O e O' fornisce rispettivamente
 
-)
-;
-OO
-0
-=
-O
-0
-H
- os
-'
-=
-L
-sen
+$$
+\frac{\operatorname{sen} \vartheta}{\operatorname{sen} \varphi} = n, \quad \text{e} \quad \frac{\operatorname{sen} (\vartheta - \beta)}{\operatorname{sen} (\varphi - \alpha)} = n.
+$$
 
- os
-('
+Con l'approssimazione introdotta e tenendo presente la prima espressione, dalla seconda si ottiene
 
-)
- os
-'
-:
-(2
-0
-)
-Uguagliando
-la
-(1
-0
-)
-e
-la
-(2
-0
-)
-si
-ottiene
-`
-=
-L
-sen
+$$
+\operatorname{sen} \vartheta - \beta \cos \vartheta = n \operatorname{sen} \varphi - n\alpha \cos \varphi \quad \Rightarrow \quad \beta \cos \vartheta = n\alpha \cos \varphi \quad \Rightarrow \quad \frac{\beta}{\alpha} = n \frac{\cos \varphi}{\cos \vartheta}.
+$$
 
- os
-#
- os
-(#
+Sostituendo quest'ultima nella (3') si ottiene
 
-)
-sen
+$$
+\ell = \frac{L}{n} \left( \frac{\cos \vartheta}{\cos \varphi} \right)^3
+\tag{4'}
+$$
 
- os
-'
- os
-('
+che coincide con la (4). La legge di Snell, espressa in termini dei coseni degli angoli si può scrivere
 
-)
-:
-Ri ordando
+$$
+\frac{1 - \cos^2 \vartheta}{1 - \cos^2 \varphi} = n^2 \quad \Rightarrow \quad \cos^2 \vartheta = 1 - n^2 (1 - \cos^2 \varphi) = n^2 \cos^2 \varphi - (n^2 - 1)
+$$
 
-he
-la
-div
-ergenza
-del
-fas io
-
-e
-molto
-pi ola
-si
-pu
-o
-approssimare
-sen
-
-,
-sen
-
-e
- os
-
- os
-
-1;
-p
-ertan
-to
-l'espressione
-pre eden
-te
-div
-en
-ta
-`
-=
-L
-
- os
-#
- os
-'
-
-2
-
-:
-(3
-0
-)
-P
-ag.
-7
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
-La
-legge
-di
-Snell
-appli ata
-nei
-pun
-ti
-O
-e
-O
-0
-fornis e
-risp
-ettiv
-amen
-te
-sen
-#
-sen
-'
-=
-n
-;
-e
-sen
-(#
-
-)
-sen
-('
-
-)
-=
-n
-:
-Con
-l'approssimazione
-in
-tro
-dotta
-e
-tenendo
-presen
-te
-la
-prima
-espressione,
-dalla
-se onda
-si
-ottiene
-sen
-#
-
- os
-#
-=
-n
-sen
-'
- n
-
- os
-'
-)
-
- os
-#
-=
-n
-
- os
-'
-)
-
-=
-n
- os
-'
- os
-#
-:
-Sostituendo
-quest'ultima
-nella
-(3')
-si
-ottiene
-`
-=
-L
-n
-
- os
-#
- os
-'
-
-3
-(4
-0
-)
-
-he
- oin ide
- on
-la
-(4).
-La
-legge
-di
-Snell,
-espressa
-in
-termini
-dei
- oseni
-degli
-angoli
-si
-pu
-o
-s riv
-ere
-1
- os
-2
-#
-1
- os
-2
-'
-=
-n
-2
-)
- os
-2
-#
-=
-1
- n
-2
-(1
- os
-2
-')
-=
-n
-2
- os
-2
-'
- (n
-2
- 1)
 Dunque
 
- os#
- os
-'
+$$
+\left( \frac{\cos \vartheta}{\cos \varphi} \right)^2 = n^2 - \frac{n^2 - 1}{\cos^2 \varphi} = n^2 - (n^2 - 1)(1 + \operatorname{tg}^2 \varphi) = 1 - (n^2 - 1) \operatorname{tg}^2 \varphi
+$$
 
-2
-=
-n
-2
- n
-2
- 1
- os
-2
-'
-=
-n
-2
- (n
-2
- 1)(1
-+
-tg
-2
-')
-=
-1
- (n
-2
- 1)
-tg
-2
-'
-In
-ne,
-ri ordando
+Infine, ricordando che $\operatorname{tg} \varphi = x/L$, dall'espressione precedente si ha
 
-he
-tg
-'
-=
-x=L,
-dall'espressione
-pre eden
-te
-si
-ha
- os
-#
- os
-'
-=
-r
-1
- (n
-2
- 1)
-+
+$$
+\frac{\cos \vartheta}{\cos \varphi} = \sqrt{1 - (n^2 - 1) + \left( \frac{x}{L} \right)^2}
+$$
 
-x
-L
+e la (4') – in funzione di $L$, $n$ ed $x$ – si scrive come
 
-2
-e
-la
-(4')
-{
-in
-funzione
-di
-L,
-n
-ed
-x
-{
-si
-s riv
-e
- ome
-`
-=
-L
-n
-"
-r
-1
- (
-n
-2
- 1)
-
-x
-L
-
-2
-#
-3
-:
-(5
-0
-)
+$$
+\ell = \frac{L}{n} \left[ \sqrt{1 - (n^2 - 1) \left( \frac{x}{L} \right)^2} \right]^3.
+\tag{5'}
+$$
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -5878,1146 +1001,159 @@ L
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
-1.
-Si
-Other
-un
-the amount of the contribution
-the following points are added:
-to
-A
-of the
-Fund
-of the
-v
-as a,
-a
-distance
-x
-from
-foot
-of the
-p
-Other
-Other, of a kind used for the manufacture of goods
-Wavy
-from
-the following points are added:
-to
-di
-See also
-Action
-O,
-e
-il
-Radius
-di
-lu e
-
-he
-I 'm leaving
-da
-This one.
-the following points are added:
-to
-I 'm coming
-a
-In the
-of the same
-the following points are added:
-to
-O.
-A
-Other
-of the
-the refraction
-Subtitles
-from
-lu e
-In the
-Passage
-From here.
-in the air,
-It
-We are
-Good .
-to be
-issued
-da
-un
-the following points are added:
-to
-A
-0
-,
-human beings
-shown
-in
-
-I'm going to go.
-In
-the terms
-of the corner
-'
-shown
-in
-
-the mouth,
-si
-ha
-x
-=
-L
-tg
-'.
-Il
-Radius
-
-he
-Part
-da
-A,
- on
-un
-angle
-'
-Responsibility
-Other
-to the
-v
-high-winged,
-Go ahead .
-p
-er
-O;
-in
-v
-e e
-un
-Radius
-The Commission shall adopt the following measures:
-te
-
-he
-Part
- on
-angle
-'
-+
-d'
-It comes
-to the
-Supplementary
-er
- ie
-di
-Separation
-in
-un
-the following points are added:
-to
-Distance
-te
-da
-O
-di
-One of them.
-When
-Title
-a
-dx
-Date of the date
-da
-x
-+
-dx
-=
-L
-tg
-('
-+
-d')
-)
-dx
-=
-L
-[tg
-('
-+
-d')
- tg
-'℄
-)
-dx
-=
-L
-
-tg
-('
-+
-d')
- tg
-'
-d'
-
-d'
-e,
-and weighing
-
-he
-p
-er
-d'
-!
-0
-the expression
-between
-the following points are added:
-The Commission
-Court
-
-e
-la
-derivatives
-Other
-of the
-function
-tg
-',
-si
-ha
-dx
-=
-L
- os
-2
-'
-d'
-(1)
-Note:
-Si
-p
-Other
-a
-to arrive
-The following is the list of the
-of the same
-result
-di
-by herring
-the expression
-the initial:
-x
-=
-L
-tg
-'
-)
-dx
-=
-L
-d(tg
-')
-)
-dx
-=
-L
-1
- os
-2
-'
-d'
-Other
-te,
-Indians
- on
-`
-la
-depth
-a
-of the
-the following points are added:
-to
-A
-0
-,
-si
-ha
-
-he
-x
-=
-`
- os
-2
-#
-d#
-(2)
-Di
-by herring
-la
-Law
-di
-I'm going to get you.
-Other
-#
-=
-n
-Other
-',
-si
-The result is
-d
-(without
-#)
-=
-nd
-(without
-')
-)
- os
-#
-d#
-=
-n
- os
-'
-d'
-)
-d'
-=
-1
-n
- os
-#
- os
-'
-d#
-:
-Substituting
-In the
-(1)
-the expression
-p
-er
-d'
-App
-Other
-obtained
-the following:
-si
-ri a
-v
-a
-dx
-=
-L
-n
- os
-#
- os
-3
-'
-d#
-(3)
-ed
-Equalizing
-le
-Expressions
-(2)
-e
-(3)
-si
-The result is
-in
-ne
-`
-=
-L
-n
-
- os
-#
- os
-'
-
-3
-(4)
-Always
-da
-x
-=
-L
-tg
-'
-si
-ri a
-v
-a
-
-he
-x
-L
-=
-p
-1
- os
-2
-'
- os
-'
-)
- os
-2
-'
-=
-1
-1
-+
-(x=L)
-2
-P
-ag.
-6
-The following information is provided:
-{
-The Olympics
-di
-The following
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
-{
-The following is the list of countries:
-{
-9
-Ap
-Reels
-2010
-Other
-part,
-The following is a list of the
-la
-Law
-di
-I'm going to get you.
-si
-pu
-o
-an
-he
-The following is the list of the
-The following are the
-x
-L
-=
-Other
-#=n
-p
-1
-(without
-#=n)
-2
-)
-
-x
-L
-
-2
-=
-1
- os
-2
-#
-n
-2
- 1
-+
- os
-2
-#
-)
- os
-2
-#
-=
-1
-+
-(1
- n
-2
-)(x=L)
-2
-1
-+
-(x=L)
-2
-In
-Last of the
-The following table shows the results of the analysis:
-
- os
-#
- os
-'
-
-2
-=
-1
- (n
-2
- 1)
-
-x
-L
-
-2
-
-he
-Replaced
-In the
-(4)
-supplies and
-`
-=
-L
-n
-"
-r
-1
- (n
-2
- 1)
-
-x
-L
-
-2
-#
-3
-(5)
-|||||||||||
-The solution
-Other
-a
-How
-Before that,
-Other
-al
-Radius
-us en
-te
-da
-A
-e
-Other
-te
-p
-er
-O,
-si
-Other
-un
-If the wave
-Radius
-
-he
-Form
- on
-il
-first
-un
-angle
-Other
-
-e
-
-he
-the following points are added:
-v
-Other
-la
-Supplementary
-er
- ie
-I'm not sure.
-in
-un
-the following points are added:
-to
-O
-0
-.
-La
-depth
-a
-`
-di
-A
-0
-si
-pu
-o
-to express
-in
-function
-of the
-depth
-a
-e
-Other
-a
-L,
-of the
-distance
-x
-e
-of the Indian and
-di
-the refraction
-n
-by weeping
-
-he
-il
-segmentation
-to
-OO
-0
-
-e
-un
-side
- om
-One of them
-of the
-two
-Triangles
-OHO
-0
-e
-OH
-0
-O
-0
-.
-Da
-The following is the list of the
-The Commission shall adopt the following measures:
-Other geometric
-he
-si
-ri a
-v
-a
-
-he
-d
-OO
-0
-H
-=
-'
-e
-d
-OO
-0
-H
-0
-=
-#
-:
-From her
-The following is the list of the following:
-of the
-system
-si
-ri a
-v
-- What?
-on the exiv
-I will not let you go.
-te
-A
-0
-O
-0
-=
-`
- os
-(#
-
-)
-;
-O
-0
-H
-0
-=
-A
-0
-O
-0
-Other
-
-=
-`
-Other
-
- os
-(#
-
-)
-;
-OO
-0
-=
-O
-0
-H
-0
- os
-#
-=
-`
-Other
-
- os
-(#
-
-)
- os
-#
-:
-(1
-0
-)
-Other
-te
-A
-O
-0
-=
-L
- os
-('
-
-)
-;
-O
-0
-H
-=
-A
-O
-0
-Other
-
-=
-L
-Other
-
- os
-('
-
-)
-;
-OO
-0
-=
-O
-0
-H
- os
-'
-=
-L
-Other
-
- os
-('
-
-)
- os
-'
-:
-(2
-0
-)
-Equalizing
-la
-(1
-0
-)
-e
-la
-(2
-0
-)
-si
-The result is
-`
-=
-L
-Other
-
- os
-#
- os
-(#
-
-)
-Other
-
- os
-'
- os
-('
-
-)
-:
-I 'm ordering again .
-
-he
-la
-Div
-emergency
-of the
-I do .
-
-e
-Very much
-Other
-si
-pu
-o
-Approaching
-Other
-
-,
-Other
-
-e
- os
-
- os
-
-1;
-p
-Other
-to
-the expression
-for Eden
-te
-Div
-en
-ta
-`
-=
-L
-
- os
-#
- os
-'
-
-2
-
-:
-(3
-0
-)
-P
-ag.
-7
-The following information is provided:
-{
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
-{
-The following is the list of countries:
-{
-9
-Ap
-Reels
-2010
-La
-Law
-di
-The following is the list of the countries:
-Applications for the
-In the
-the following points are added:
-ti
-O
-e
-O
-0
-supplies and
-Responsibility
-Other
-I will not let you go.
-te
-Other
-#
-Other
-'
-=
-n
-;
-e
-Other
-(#
-
-)
-Other
-('
-
-)
-=
-n
-:
-With
-the approximation
-in
-The Commission
-Other
-e
-holding
-the present
-te
-la
-Before
-the expression,
-from
-If it flows
-si
-The result is
-Other
-#
-
- os
-#
-=
-n
-Other
-'
- n
-
- os
-'
-)
-
- os
-#
-=
-n
-
- os
-'
-)
-
-=
-n
- os
-'
- os
-#
-:
-Substituting
-This last one
-In the
-(3')
-si
-The result is
-`
-=
-L
-n
-
- os
-#
- os
-'
-
-3
-(4
-0
-)
-
-he
-The Commission shall adopt a decision on the
- on
-la
-(4).
-La
-Law
-di
-I'm going to get you.
-expressed
-in
-the terms
-of the
-You dare to
-of the
-Corners
-si
-pu
-o
-The following is the list of the
-The Commission
-1
- os
-2
-#
-1
- os
-2
-'
-=
-n
-2
-)
- os
-2
-#
-=
-1
- n
-2
-(1
- os
-2
-')
-=
-n
-2
- os
-2
-'
- (n
-2
- 1)
-So, what?
-
- os#
- os
-'
-
-2
-=
-n
-2
- n
-2
- 1
- os
-2
-'
-=
-n
-2
- (n
-2
- 1)(1
-+
-tg
-2
-')
-=
-1
- (n
-2
- 1)
-tg
-2
-'
-In
-ne,
-Re-ordering
-
-he
-tg
-'
-=
-x=L,
-from the expression
-for Eden
-te
-si
-ha
- os
-#
- os
-'
-=
-r
-1
- (n
-2
- 1)
-+
-
-x
-L
-
-2
-e
-la
-(4')
-{
-in
-function
-di
-L,
-n
-ed
-x
-{
-si
-The following is the list of the
-e
-human beings
-`
-=
-L
-n
-"
-r
-1
- (
-n
-2
- 1)
-
-x
-L
-
-2
-#
-3
-:
-(5
-0
-)
+**PROBLEM no. 2 – Exploring the Bottom** (50 Points)
+
+**Question no. 3.**
+
+Consider an arbitrary point A on the bottom of the basin, at a distance $x$ from the foot of the perpendicular drawn from the observation point O, and the light ray originating from this point that arrives at the same point O. Due to the refraction experienced by light in passing from water to air, it appears to be emitted from a point A', as shown in the figure.
+
+*(figure in the original PDF)*
+In terms of the angle $\varphi$ shown in the figure, one has $x = L \tan \varphi$.
+
+The ray originating from A, at an angle $\varphi$ with respect to the vertical, passes through O; instead, a neighboring ray originating at angle $\varphi + d\varphi$ reaches the interface surface at a point distant from O by an amount $dx$, given by
+
+$$
+x + dx = L \tan(\varphi + d\varphi) \quad \Rightarrow \quad dx = L \left[ \tan(\varphi + d\varphi) - \tan \varphi \right] \quad \Rightarrow \quad dx = L \left[ \frac{\tan(\varphi + d\varphi) - \tan \varphi}{d\varphi} \right] d\varphi
+$$
+
+and, considering that as $d\varphi \to 0$ the expression within square brackets is the derivative of the function $\tan \varphi$, one obtains
+
+$$
+dx = \frac{L}{\cos^2 \varphi} d\varphi \quad \text{(1)}
+$$
+
+Note: The same result could have been obtained by differentiating the initial expression:
+
+$$
+x = L \tan \varphi \quad \Rightarrow \quad dx = L \, d(\tan \varphi) \quad \Rightarrow \quad dx = L \frac{1}{\cos^2 \varphi} d\varphi
+$$
+
+Similarly, denoting by $\ell$ the depth of point A', one has that
+
+$$
+x = \frac{\ell}{\cos^2 \vartheta} d\vartheta \quad \text{(2)}
+$$
+
+Differentiating Snell's Law, $\sin \vartheta = n \sin \varphi$, one obtains
+
+$$
+d(\sin \vartheta) = n d(\sin \varphi) \quad \Rightarrow \quad \cos \vartheta \, d\vartheta = n \cos \varphi \, d\varphi \quad \Rightarrow \quad d\varphi = \frac{1}{n} \frac{\cos \vartheta}{\cos \varphi} d\vartheta \,.
+$$
+
+Substituting the expression for $d\varphi$ just obtained into (1), one finds
+
+$$
+dx = \frac{L}{n} \frac{\cos \vartheta}{\cos^3 \varphi} d\vartheta \quad \text{(3)}
+$$
+
+and equating expressions (2) and (3), one finally obtains
+
+$$
+\ell = \frac{L}{n} \left( \frac{\cos \vartheta}{\cos \varphi} \right)^3 \quad \text{(4)}
+$$
+
+From $x = L \tan \varphi$ one also derives that
+
+$$
+\frac{x}{L} = \frac{\sqrt{1 - \cos^2 \varphi}}{\cos \varphi} \quad \Rightarrow \quad \cos^2 \varphi = \frac{1}{1 + (x/L)^2}
+$$
+
+On the other hand, applying Snell's Law, one can also write
+
+$$
+\frac{x}{L} = \frac{\sin \vartheta / n}{\sqrt{1 - (\sin \vartheta / n)^2}} \quad \Rightarrow \quad \left(\frac{x}{L}\right)^2 = \frac{1 - \cos^2 \vartheta}{n^2 - 1 + \cos^2 \vartheta} \quad \Rightarrow \quad \cos^2 \vartheta = \frac{1 + (1 - n^2)(x/L)^2}{1 + (x/L)^2}
+$$
+
+Finally,
+
+$$
+\left(\frac{\cos \vartheta}{\cos \varphi}\right)^2 = 1 - (n^2 - 1) \left(\frac{x}{L}\right)^2
+$$
+
+which, when substituted into (4), yields
+
+$$
+\ell = \frac{L}{n} \left[\sqrt{1 - (n^2 - 1) \left(\frac{x}{L}\right)^2}\right]^3
+\tag{5}
+$$
+
+Alternative solution
+
+As before, besides the ray emerging from A and passing through O, consider a second ray forming a small angle $\alpha$ with the first one, and crossing the water surface at point O'.
+
+*(figure in the original PDF)*
+The depth $\ell$ of A' can be expressed as a function of the actual depth $L$, the distance $x$, and the refractive index $n$, by noting that segment OO' is a common side of triangles OHO' and OH'O'.
+
+From simple geometric considerations, one finds that $\widehat{OO'H} = \varphi$ and $\widehat{OO'H'} = \vartheta$. From the geometry of the system, one successively obtains
+
+$$
+\overline{A'O'} = \frac{\ell}{\cos(\vartheta - \beta)}; \quad \overline{O'H'} = \overline{A'O'} \sin \beta = \ell \frac{\sin \beta}{\cos(\vartheta - \beta)}; \quad \overline{OO'} = \frac{\overline{O'H'}}{\cos \vartheta} = \ell \frac{\sin \beta}{\cos(\vartheta - \beta) \cos \vartheta}.
+\tag{1'}
+$$
+
+Similarly,
+
+$$
+\overline{AO'} = \frac{L}{\cos(\varphi - \alpha)}; \quad \overline{O'H} = \overline{AO'} \sin \alpha = L \frac{\sin \alpha}{\cos(\varphi - \alpha)}; \quad \overline{OO'} = \frac{\overline{O'H}}{\cos \varphi} = L \frac{\sin \alpha}{\cos(\varphi - \alpha) \cos \varphi}.
+\tag{2'}
+$$
+
+Equating (1') and (2'), one obtains
+
+$$
+\ell = L \frac{\sin \alpha \cos \vartheta \cos(\vartheta - \beta)}{\sin \beta \cos \varphi \cos(\varphi - \alpha)}.
+$$
+
+Recalling that the beam divergence is very small, one may approximate $\sin \alpha \approx \alpha$, $\sin \beta \approx \beta$, and $\cos \alpha \approx \cos \beta \approx 1$; thus, the previous expression becomes
+
+$$
+\ell = L \left(\frac{\cos \vartheta}{\cos \varphi}\right)^2 \frac{\alpha}{\beta}.
+\tag{3'}
+$$
+
+Snell's Law applied at points O and O' respectively yields
+
+$$
+\frac{\sin \vartheta}{\sin \varphi} = n, \quad \text{and} \quad \frac{\sin (\vartheta - \beta)}{\sin (\varphi - \alpha)} = n.
+$$
+
+With the approximation introduced and keeping in mind the first expression, from the second one it follows that
+
+$$
+\sin \vartheta - \beta \cos \vartheta = n \sin \varphi - n\alpha \cos \varphi \quad \Rightarrow \quad \beta \cos \vartheta = n\alpha \cos \varphi \quad \Rightarrow \quad \frac{\beta}{\alpha} = n \frac{\cos \varphi}{\cos \vartheta}.
+$$
+
+Substituting this last result into (3') yields
+
+$$
+\ell = \frac{L}{n} \left( \frac{\cos \vartheta}{\cos \varphi} \right)^3
+\tag{4'}
+$$
+
+which coincides with (4). Snell's Law, expressed in terms of the cosines of the angles, can be written as
+
+$$
+\frac{1 - \cos^2 \vartheta}{1 - \cos^2 \varphi} = n^2 \quad \Rightarrow \quad \cos^2 \vartheta = 1 - n^2 (1 - \cos^2 \varphi) = n^2 \cos^2 \varphi - (n^2 - 1)
+$$
+
+Therefore,
+
+$$
+\left( \frac{\cos \vartheta}{\cos \varphi} \right)^2 = n^2 - \frac{n^2 - 1}{\cos^2 \varphi} = n^2 - (n^2 - 1)(1 + \tan^2 \varphi) = 1 - (n^2 - 1) \tan^2 \varphi
+$$
+
+Finally, recalling that $\tan \varphi = x/L$, from the previous expression one has
+
+$$
+\frac{\cos \vartheta}{\cos \varphi} = \sqrt{1 - (n^2 - 1) + \left( \frac{x}{L} \right)^2}
+$$
+
+and (4') — expressed as a function of $L$, $n$, and $x$ — becomes
+
+$$
+\ell = \frac{L}{n} \left[ \sqrt{1 - (n^2 - 1) \left( \frac{x}{L} \right)^2} \right]^3.
+\tag{5'}
+$$
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -7034,115 +1170,11 @@ L
 
 
 
-Quesito
-n.
-2.
-Come
-si
-pu
-o
-an
-he
- omprendere
-dalla
+**Quesito n. 2.**
 
-gura,
-la
-p
-osizione
-geometri a
-`
-dell'immagine
-A
-0
-dimin
-uis e
-al
- res ere
-di
-#,
-quindi
-si
-ha
-`
-min
-quando
-#
-=
-90
-Æ
-e
-`
-max
-quando
-#
-=
-0
-Æ
-.
-P
-er
-#
-=
-90
-Æ
-,
- os
-#
-=
-0,
-sen
-'
-=
-1=n
-e
- os
-'
-=
-p
-n
-2
- 1=n,
-p
-er
- ui
-dalla
-(4)
-si
-ha
-`
-min
-=
-0.
-P
-er
-#
-=
-0
-Æ
-an
-he
-'
-=
-0
-Æ
-o
-vv
-ero
-x
-=
-0,
-p
-er
- ui
-dalla
-(5)
-si
-ha
-`
-max
-=
-L=n.
+Come si può anche comprendere dalla figura, la posizione geometrica $\ell$ dell'immagine A' diminuisce al crescere di $\vartheta$, quindi si ha $\ell_{\min}$ quando $\vartheta = 90^\circ$ e $\ell_{\max}$ quando $\vartheta = 0^\circ$.
+Per $\vartheta = 90^\circ$, $\cos \vartheta = 0$, $\operatorname{sen} \varphi = 1/n$ e $\cos \varphi = \sqrt{n^2 - 1}/n$, per cui dalla (4) si ha $\ell_{\min} = 0$.
+Per $\vartheta = 0^\circ$ anche $\varphi = 0^\circ$ ovvero $x = 0$, per cui dalla (5) si ha $\ell_{\max} = L/n$.
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
@@ -7154,61 +1186,11 @@ L=n.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-2.
-As can also be understood from the
+**Question no. 2.**
 
-figure, the geometric position
-` of the image
-A
-0 decreases as
-# increases,
-therefore one has
-` min when
-#
-=
-90
-Æ and
-` max when
-#
-=
-0
-Æ
-.
-For
-#
-=
-90
-Æ, cos
-#
-=
-0, sin
-'
-=
-1=n and cos
-'
-= p n
-2
- 1=n, so from (4)
-one has
-` min
-=
-0.
-For
-#
-=
-0
-Æ also
-'
-=
-0
-Æ i.e. x
-=
-0, so from (5)
-one has
-` max
-=
-L=n.
+As can also be understood from the figure, the geometric position $\ell$ of the image A' decreases as $\vartheta$ increases, therefore $\ell_{\min}$ occurs when $\vartheta = 90^\circ$ and $\ell_{\max}$ when $\vartheta = 0^\circ$.
+For $\vartheta = 90^\circ$, $\cos \vartheta = 0$, $\sin \varphi = 1/n$ and $\cos \varphi = \sqrt{n^2 - 1}/n$, so from (4) it follows that $\ell_{\min} = 0$.
+For $\vartheta = 0^\circ$, also $\varphi = 0^\circ$ i.e. $x = 0$, so from (5) it follows that $\ell_{\max} = L/n$.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -7220,105 +1202,19 @@ L=n.
 
 
 
-Quesito
-n.
-3.
-Il
-massimo
-v
-alore
-di
-x
-si
-ha
-quando
-il
-v
-alore
-sotto
-la
-radi e
-quadrata
-nella
-(5)
-si
-ann
-ulla
-(non
-pu
-o
-essere
-negativ
-o
-p
-er
-`
-reale)
-quindi
-x
-max
-=
-L
-p
-n
-2
- 1
-e
-l'area
-della
-sup
-er
- ie
- omplessiv
-a
-del
-fondale
+**Quesito n. 3.**
 
-he
-pu
-o
-essere
-osserv
-ata
+Il massimo valore di $x$ si ha quando il valore sotto la radice quadrata nella (5) si annulla (non può essere negativo per $\ell$ reale) quindi
 
-e
-S
-=
+$$
+x_{\max} = \frac{L}{\sqrt{n^2 - 1}}
+$$
 
-x
-2
-max
-=
+e l'area della superficie complessiva del fondale che può essere osservata è
 
-L
-2
-n
-2
- 1
-P
-ag.
-8
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
+$$
+S = \pi x_{\max}^2 = \frac{\pi L^2}{n^2 - 1}
+$$
 
 **Topic:** [[Geometric Optics]]
 **Metodi:** [[Snell's Law (metodo)|Snell's Law]], [[Ray Tracing (metodo)|Ray Tracing]]
@@ -7330,46 +1226,19 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-3.
-The maximum value of x is obtained when the value under the square root in (5)
-vanishes (it cannot be negative for
-` real)
-therefore x max
-=
-L p n
-2
- 1 and the area of the overall seabed surface
+**Question no. 3.**
 
-that can be observed
+The maximum value of $x$ occurs when the expression under the square root in (5) vanishes (it cannot be negative for real $\ell$), therefore
 
-is
-S
-=
+$$
+x_{\max} = \frac{L}{\sqrt{n^2 - 1}}
+$$
 
-x
-2 max
-=
+and the area of the total bottom surface that can be observed is
 
-L
-2 n
-2
- 1
-Page
-8
-AIF
-{
-Olympiad of
-Physics
-National Competition:
-SOLUTION of the
-Theoretical Test
-{
-Senigallia
-{
-9
-April
-2010
+$$
+S = \pi x_{\max}^2 = \frac{\pi L^2}{n^2 - 1}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -7381,18 +1250,7 @@ April
 
 
 
-PROBLEMA
-n.
-4
-{
-Co
-rrenti
-in
-un
-anello
-70
-Pun
-ti
+**PROBLEMA n. 4 – Correnti in un anello** (70 Punti)
 
 **Topic:** [[Circuits]], [[Magnetism]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]]
@@ -7404,12 +1262,7 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM no.
-4
-{
-Currents in a ring
-70
-Points
+**PROBLEM no. 4 – Currents in a Ring** (70 Points)
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -7421,167 +1274,25 @@ Points
 
 
 
-Quesito
-n.
-1.
-La
-resistenza
-equiv
-alen
-te
-tra
-i
-pun
-ti
-A
-e
-B
+**Quesito n. 1.**
 
-e
-data
-da
-R
-?
-=
-R
-1
-R
-2
-R
-1
-+
-R
-2
- on
-R
-i
-=
-`
-i
+La resistenza equivalente tra i punti A e B è data da
 
-essendo
+$$
+R^* = \frac{R_1 R_2}{R_1 + R_2} \quad \text{con} \quad R_i = \frac{\rho \ell_i}{\sigma}
+$$
 
-l'area
-della
-sezione
-del
+essendo $\sigma$ l'area della sezione del filo; essendo $R_1 + R_2 = \rho L / \sigma$ si ha
 
-lo;
-essendo
-R
-1
-+
-R
-2
-=
-L=
-si
-ha
-R
-?
-=
+$$
+R^* = \frac{\rho}{\sigma} \frac{\ell_1 \ell_2}{L} = x(1-x) \frac{\rho L}{\sigma}
+$$
 
-`
-1
-`
-2
-L
-=
-x(1
- x)
-L
+A corrente costante ($I_0$) la massima d.d.p. si ha quando è massima la resistenza equivalente cioè per $x = 1/2$, ovvero quando B è diametralmente opposto ad A. Si ha
 
-A
- orren
-te
- ostan
-te
-(I
-0
-)
-la
-massima
-d.d.p.
-si
-ha
-quando
-
-e
-massima
-la
-resistenza
-equiv
-alen
-te
- io
-
-e
-p
-er
-x
-=
-1=2,
-o
-vv
-ero
-quando
-B
-
-e
-diametralmen
-te
-opp
-osto
-ad
-A.
-Si
-ha
-R
-?
-max
-=
-1
-4
-
-L
-
-=
-V
-0
-I
-0
-)
-
-=
-
-L
-I
-0
-4V
-0
-da
- ui
-in
-ne
-d
-=
-2r
-=
-2
-r
-
-=
-r
-
-L
-I
-0
-
-V
-0
-=
-0:624
-mm
+$$
+R^*_{\text{max}} = \frac{1}{4} \frac{\rho L}{\sigma} = \frac{V_0}{I_0} \quad \Rightarrow \quad \sigma = \frac{\rho L I_0}{4V_0} \quad \text{da cui infine} \quad d = 2r = 2\sqrt{\frac{\sigma}{\pi}} = \sqrt{\frac{\rho L I_0}{\pi V_0}} = 0.624 \text{ mm}
+$$
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
@@ -7593,108 +1304,24 @@ mm
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-1.
-The equivalent resistance between points
-A and
-B
+**Question no. 1.**
 
-is given by
-R
-?
-=
-R
-1
-R
-2
-R
-1
-+
-R
-2 where
-R i
-=
-` i
+The equivalent resistance between points A and B is given by
 
-being
+$$
+R^* = \frac{R_1 R_2}{R_1 + R_2} \quad \text{with} \quad R_i = \frac{\rho \ell_i}{\sigma}
+$$
 
-the cross-sectional area of the
+where $\sigma$ is the cross-sectional area of the wire; since $R_1 + R_2 = \rho L / \sigma$ we have
 
-wire;
-since
-R
-1
-+
-R
-2
-=
-L, one has
-R
-?
-=
+$$
+R^* = \frac{\rho}{\sigma} \frac{\ell_1 \ell_2}{L} = x(1-x) \frac{\rho L}{\sigma}
+$$
 
-`
-1
-`
-2
-L
-= x(1 x)
-L
+For constant current ($I_0$), the maximum potential difference occurs when the equivalent resistance is maximized, i.e., for $x = 1/2$, or when B is diametrically opposite to A. We have
 
-For constant current (I
-0
-)
-the maximum potential difference
-occurs when
-
-the equivalent resistance is maximum, that is
-
-and for x
-=
-1=2, that is when
-B
-
-is diametrically opposite to
-A.
-One has
-R
-?
-max
-=
-1
-4
-
-L
-
-=
-V
-0
-I
-0
-)
-
-=
-
-L
-I
-0
-4V
-0 whence finally d
-=
-2r
-=
-2 r
-
-= r
-
-L
-I
-0
-
-V
-0
-=
-0:624 mm
+$$
+R^*_{\text{max}} = \frac{1}{4} \frac{\rho L}{\sigma} = \frac{V_0}{I_0} \quad \Rightarrow \quad \sigma = \frac{\rho L I_0}{4V_0} \quad \text{from which finally} \quad d = 2r = 2\sqrt{\frac{\sigma}{\pi}} = \sqrt{\frac{\rho L I_0}{\pi V_0}} = 0.624 \text{ mm}
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -7706,104 +1333,23 @@ V
 
 
 
-Quesito
-n.
-2.
-La
-d.d.p.
+**Quesito n. 2.**
 
-e
-prop
-orzionale
-alla
-resistenza
-equiv
-alen
-te:
-V
-(x)
-=
-I
-0
-R
-?
-(x)
-=
-x(1
- x)I
-0
-R
- on
-R
-=
-R
-1
-+
-R
-2
-=
-L=
-=
-1:6
+La d.d.p. è proporzionale alla resistenza equivalente:
 
-Notare
+$$
+V(x) = I_0 R^*(x) = x(1-x) I_0 R \quad \text{con} \quad R = R_1 + R_2 = \rho L / \sigma = 1.6 \, \Omega
+$$
 
-he
-la
-d.d.p.
-pu
-o
-essere
-v
-alutata
-in
-due
-mo
-di
-equiv
-alen
-ti
-V
-=
-R
-1
-I
-1
-=
-R
-2
-I
-2
-da
- ui
-`
-1
-I
-1
-=
-`
-2
-I
-2
-(servir
-a
-dop
-o)
-Il
-gra
- o
-ri
-hiesto
-di
-V
-(x)
+Notare che la d.d.p. può essere valutata in due modi equivalenti
 
-e
-rip
-ortato
-a
+$$
+V = R_1 I_1 = R_2 I_2 \quad \text{da cui} \quad \ell_1 I_1 = \ell_2 I_2 \quad \text{(servirà dopo)}
+$$
 
-an o.
+Il grafico richiesto di $V(x)$ è riportato a fianco.
+
+*(figura nel PDF originale)*
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]]
@@ -7815,63 +1361,23 @@ an o.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem no.
-2.
-The potential difference
+**Question no. 2.**
 
-is proportional to the equivalent resistance:
-V (x)
-=
-I
-0
-R
-?
-(x)
-= x(1 x)I
-0
-R on
-R
-=
-R
-1
-+
-R
-2
-=
-L=
-=
-1:6
+The potential difference is proportional to the equivalent resistance:
 
-Note
+$$
+V(x) = I_0 R^*(x) = x(1-x) I_0 R \quad \text{with} \quad R = R_1 + R_2 = \rho L / \sigma = 1.6 \, \Omega
+$$
 
-that the potential difference
-can be evaluated in two equivalent ways
-V
-=
-R
-1
-I
-1
-=
-R
-2
-I
-2 from which
-`
-1
-I
-1
-=
-`
-2
-I
-2 (will be useful later)
-The requested graph of
-V (x)
+Note that the potential difference can be evaluated in two equivalent ways
 
-is shown in
+$$
+V = R_1 I_1 = R_2 I_2 \quad \text{from which} \quad \ell_1 I_1 = \ell_2 I_2 \quad \text{(will be useful later)}
+$$
 
-the appendix.
+The required graph of $V(x)$ is shown alongside.
+
+*(figure in the original PDF)*
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -7883,187 +1389,34 @@ the appendix.
 
 
 
-Quesito
-n.
-3.
-P
-osto
+**Quesito n. 3.**
 
-he
-R
-1
-=
-xR
-ed
-R
-2
-=
-(1
- x)R
-,
-la
-p
-otenza
-dissipata
-nel
-primo
-ar o
+Posto che $R_1 = xR$ ed $R_2 = (1-x)R$, la potenza dissipata nel primo arco è
 
-e
-W
-1
-=
-R
-1
-I
-2
-1
- on
-I
-1
-=
-I
-0
-R
-2
-R
-1
-+
-R
-2
-=
-I
-0
-R
-2
-R
-(partitore
-di
- orren
-te).
+$$
+W_1 = R_1 I_1^2 \quad \text{con} \quad I_1 = I_0 \frac{R_2}{R_1 + R_2} = I_0 \frac{R_2}{R} \quad \text{(partitore di corrente)}.
+$$
+
 Dunque
-W
-1
-(x)
-=
-xR
-I
-2
-0
-(1
- x)
-2
-R
-2
-R
-2
-=
-x(1
- x)
-2
-I
-2
-0
-R
-Notare
 
-he
-W
-1
-(x)
-non
+$$
+W_1(x) = xR \, I_0^2 \frac{(1-x)^2 R^2}{R^2} = x(1-x)^2 \, I_0^2 R
+$$
 
-e
-simmetri a
-risp
-etto
-a
-x
-=
-1=2.
-Il
-massimo
-di
-W
-1
-si
-tro
-v
-a
-deriv
-ando
-dW
-1
-(x)
-dx
-=
+Notare che $W_1(x)$ non è simmetrica rispetto a $x = 1/2$.
+Il massimo di $W_1$ si trova derivando
 
-(1
- x)
-2
- 2x(1
- x)
+$$
+\frac{dW_1(x)}{dx} = \left[(1-x)^2 - 2x(1-x)\right] I_0^2 R = (1-x)(1-3x) I_0^2 R = 0 \quad \text{per} \quad x = \frac{1}{3}
+$$
 
-I
-2
-0
-R
-=
-(1
- x)(1
- 3x)I
-2
-0
-R
-=
-0
-p
-er
-x
-=
-1
-3
-W
-1;max
-=
-4
-27
-I
-2
-0
-R
-=
-14:8
-mW
-quando
-i
+$$
+W_{1,\text{max}} = \frac{4}{27} I_0^2 R = 14.8 \text{ mW} \quad \text{quando i fili formano un angolo di } 120^\circ.
+$$
 
-li
-formano
-un
-angolo
-di
-120
-Æ
-.
-An
-he
-qui,
-a
+Anche qui, a fianco è riportato il grafico della funzione $W_1(x)$.
 
-an o
-
-e
-rip
-ortato
-il
-gra
- o
-della
-funzione
-W
-1
-(x).
+*(figura nel PDF originale)*
 
 **Topic:** [[Circuits]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -8075,118 +1428,34 @@ W
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem no.
-3.
-Given
+**Question no. 3.**
 
-that
-R
-1
-= xR and
-R
-2
-= (1 x)R
-, the power dissipated in the first branch
+Given that $R_1 = xR$ and $R_2 = (1-x)R$, the power dissipated in the first arc is
 
-is
-W
-1
-=
-R
-1
-I
-2
-1 where
-I
-1
-=
-I
-0
-R
-2
-R
-1
-+
-R
-2
-=
-I
-0
-R
-2
-R (current divider).
-Therefore
-W
-1 (x)
-= xR
-I
-2
-0 (1 x)
-2
-R
-2
-R
-2
-= x(1 x)
-2
-I
-2
-0
-R
-Note
+$$
+W_1 = R_1 I_1^2 \quad \text{with} \quad I_1 = I_0 \frac{R_2}{R_1 + R_2} = I_0 \frac{R_2}{R} \quad \text{(current divider)}.
+$$
 
-that
-W
-1 (x)
-is not symmetric with respect to x
-=
-1=2.
-The maximum of
-W
-1 is found by differentiating dW
-1 (x)
-dx
-=
+Therefore,
 
-(1 x)
-2
- 2x(1 x)
+$$
+W_1(x) = xR \, I_0^2 \frac{(1-x)^2 R^2}{R^2} = x(1-x)^2 \, I_0^2 R
+$$
 
-I
-2
-0
-R
-= (1 x)(1
- 3x)I
-2
-0
-R
-=
-0 for x
-=
-1
-3
-W
-1;max
-=
-4
-27
-I
-2
-0
-R
-=
-14:8 mW when the
+Note that $W_1(x)$ is not symmetric with respect to $x = 1/2$.
+The maximum of $W_1$ is found by differentiation
 
-wires form an angle of
-120
-Æ
-.
-Also here, below
+$$
+\frac{dW_1(x)}{dx} = \left[(1-x)^2 - 2x(1-x)\right] I_0^2 R = (1-x)(1-3x) I_0^2 R = 0 \quad \text{for} \quad x = \frac{1}{3}
+$$
 
-is shown the graph of the function
-W
-1 (x).
+$$
+W_{1,\text{max}} = \frac{4}{27} I_0^2 R = 14.8 \text{ mW} \quad \text{when the wires form an angle of } 120^\circ.
+$$
+
+Also here, adjacent is the graph of the function $W_1(x)$.
+
+*(figure in the original PDF)*
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8198,189 +1467,19 @@ W
 
 
 
-Quesito
-n.
-4.
-Il
- amp
-o
-magneti o
-al
- en
-tro
-dell'anello
+**Quesito n. 4.**
 
-e
-n
-ullo
-in
-ogni
- aso.
-Infatti,
-ri ordando
-l'espressione
-di
-Lapla e
-p
-er
-il
- al olo
-del
- amp
-o
-magneti o,
-~
-B
-=
+Il campo magnetico al centro dell'anello è nullo in ogni caso. Infatti, ricordando l'espressione di Laplace per il calcolo del campo magnetico,
 
-0
-I
-4
-Z
+$$
+\vec{B} = \frac{\mu_0 I}{4\pi} \int_\gamma \frac{d\vec{\ell} \times \hat{r}}{r^2}
+$$
 
-~
-d`
+il contributo dei due fili rettilinei è nullo essendo questi allineati col centro dell'anello (e quindi $\vec{d\ell} \times \hat{r} = 0$) e per i due archi percorsi da correnti in verso opposto, detto $a$ il raggio dell'anello [$a = L/(2\pi)$], si ha
 
-^
-r
-r
-2
-il
- on
-tributo
-dei
-due
-
-li
-rettilinei
-
-e
-n
-ullo
-essendo
-questi
-allineati
- ol
- en
-tro
-dell'anello
-(e
-quindi
-~
-d`
-
-^
-r
-=
-0)
-e
-p
-er
-i
-due
-ar
-hi
-p
-er orsi
-da
- orren
-ti
-in
-v
-erso
-opp
-osto,
-detto
-a
-il
-raggio
-dell'anello
-[
-a
-=
-L=(2
-)
-℄,
-si
-ha
-B
-=
-
-0
-I
-1
-2a
-`
-1
-L
-
-0
-I
-2
-2a
-`
-2
-L
-=
-
-0
-
-L
-2
-(
-`
-1
-I
-1
- `
-2
-I
-2
-)
-ma
-`
-1
-I
-1
- `
-2
-I
-2
-=
-0
- ome
-si
-
-e
-visto
-al
-pun
-to
-2.
-P
-ag.
-9
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-9
-Ap
-rile
-2010
+$$
+B = \frac{\mu_0 I_1}{2a} \frac{\ell_1}{L} - \frac{\mu_0 I_2}{2a} \frac{\ell_2}{L} = \frac{\mu_0 \pi}{L^2} (\ell_1 I_1 - \ell_2 I_2) \quad \text{ma} \quad \ell_1 I_1 - \ell_2 I_2 = 0 \quad \text{come si è visto al punto 2.}
+$$
 
 **Topic:** [[Magnetism]], [[Circuits]]
 **Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -8392,105 +1491,18 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-4.
-The magnetic field at the center of the ring
+**Question no. 4.**
 
-is null in every case.
-In fact, recalling the expression of
-Laplace for the calculation of the magnetic field,
-~
-B
-=
+The magnetic field at the center of the ring is zero in every case. Indeed, recalling Laplace's expression for calculating the magnetic field,
 
-0
-I
-4
-Z
+$$
+\vec{B} = \frac{\mu_0 I}{4\pi} \int_\gamma \frac{d\vec{\ell} \times \hat{r}}{r^2}
+$$
 
-~ d`
+the contribution from the two straight wires is zero because they are aligned with the center of the ring (and therefore $\vec{d\ell} \times \hat{r} = 0$), and for the two arcs carrying currents in opposite directions, denoting by $a$ the radius of the ring [$a = L/(2\pi)$], one has
 
-^ r r
-2 the contribution of the two
-
-straight segments
-
-is null since these are aligned with the center of the ring (and therefore
-~ d`
-
-^ r
-=
-0)
-and for the two arcs traversed by currents in opposite directions, given a the radius of the ring
-[ a
-=
-L=(2
-)
-℄, si ha
-B
-=
-
-0
-I
-1
-2a
-`
-1
-L
-
-0
-I
-2
-2a
-`
-2
-L
-=
-
-0
-
-L
-2 (
-`
-1
-I
-1
- `
-2
-I
-2
-)
-ma
-`
-1
-I
-1
- `
-2
-I
-2
-=
-0 ome si
-
-e visto al pun to
-2.
-P ag.
-9
-AIF
-{
-Olimpiadi di
-Fisi a
-Ga ra
-Nazionale:
-SOLUZIONE della
-Prova
-T eo ri a
-{
-Senigallia
-{
-9
-Ap rile
-2010
+$$
+B = \frac{\mu_0 I_1}{2a} \frac{\ell_1}{L} - \frac{\mu_0 I_2}{2a} \frac{\ell_2}{L} = \frac{\mu_0 \pi}{L^2} (\ell_1 I_1 - \ell_2 I_2) \quad \text{but} \quad \ell_1 I_1 - \ell_2 I_2 = 0 \quad \text{as seen in point 2.}
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)
 
@@ -8502,207 +1514,25 @@ Ap rile
 
 
 
-Quesito
-n.
-5.
-Le
-risp
-oste
-1,
-2
-e
-3
-non
- am
-biano;
- am
-bia
-in
-v
-e e
-il
- amp
-o
-magneti o
-al
- en
-tro
-dell'anello.
-Adesso
-esso
+**Quesito n. 5.**
 
-e
-do
-vuto
-al
+Le risposte 1, 2 e 3 non cambiano; cambia invece il campo magnetico al centro dell'anello.
 
-lo
-p
-erp
-endi olare
-ed
+Adesso esso è dovuto al filo perpendicolare ed è quindi nel piano dell'anello; il suo modulo è comunque indipendente dalla posizione di B (quindi da $x$) e può essere ricavato dall'espressione di Laplace data sopra, o più semplicemente con considerazioni di simmetria, osservando che due tratti infinitesimi di filo disposti simmetricamente rispetto ad un piano ortogonale al filo stesso, danno uguali contributi al campo calcolato in un punto qualunque del piano.
 
-e
-quindi
-nel
-piano
-dell'anello;
-il
-suo
-mo
-dulo
+Dunque il modulo del campo è metà di quello di un filo rettilineo indefinito e vale
 
-e
- om
-unque
-indip
-enden
-te
-dalla
-p
-osizione
-di
-B
-(quindi
-da
-x)
-e
-pu
-o
-essere
-ri a
-v
-ato
-dall'espressione
-di
-Lapla e
-data
-sopra,
-o
-pi
+$$
+B = \frac{1}{2} \frac{\mu_0 I_0}{2\pi a} = \frac{\mu_0 I_0}{2L} = 0.157\ \mu\text{T}
+$$
 
-u
-sempli emen
-te
- on
- onsiderazioni
-di
-simmetria,
-osserv
-ando
+Materiale prodotto dal gruppo
 
-he
-due
-tratti
-in
-nitesimi
-di
-
-lo
-disp
-osti
-simmetri amen
-te
-risp
-etto
-ad
-un
-piano
-ortogonale
-al
-
-lo
-stesso,
-danno
-uguali
- on
-tributi
-al
- amp
-o
- al olato
-in
-un
-pun
-to
-qualunque
-del
-piano.
-Dunque
-il
-mo
-dulo
-del
- amp
-o
-
-e
-met
-a
-di
-quello
-di
-un
-
-lo
-rettilineo
-inde
-nito
-e
-v
-ale
-B
-=
-1
-2
-
-0
-I
-0
-2
-a
-=
-
-0
-I
-0
-2L
-=
-0:157
-T
-Materiale
-pro
-dotto
-dal
-grupp
-o
-OLIMPIADI
-PROGETTO
-PROGETTO
-OLIMPIADI
-Segreteria
-Olimpiadi
-Italiane
-della
-Fisi a
-p
-resso
-Li eo
-S ienti
- o
-\U.
-Mo
-rin"
-VENEZIA
-MESTRE
-fax:
-041.584.1272
-e-mail:
-olifis libero.i
-t
-P
-ag.
-10
+Segreteria Olimpiadi Italiane della Fisica
+presso Liceo Scientifico “U. Morin”
+VENEZIA MESTRE
+fax: 041.584.1272
+e-mail: olifis@libero.it
 
 **Topic:** [[Magnetism]]
 **Metodi:** [[Biot-Savart Law (metodo)|Biot-Savart Law]], [[Symmetry Argument (metodo)|Symmetry Argument]]
@@ -8714,73 +1544,24 @@ ag.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-5.
-Answers
-1,
-2 and
-3 do not change;
-what changes is the magnetic field inside the ring.
-Now it
+**Question no. 5.**
 
-is due to the
+Answers 1, 2 and 3 do not change; what changes is the magnetic field at the center of the ring.
 
-perpendicular and
+Now it is due to the perpendicular wire and therefore lies in the plane of the ring; its magnitude remains independent of the position of B (thus from $x$) and can be obtained either from the Laplace expression given above, or more simply by symmetry considerations, observing that two infinitesimal segments of wire arranged symmetrically with respect to a plane orthogonal to the wire itself give equal contributions to the field calculated at any point on the plane.
 
-therefore in the plane of the ring;
-its magnitude
+Thus, the magnitude of the field is half that of an infinite straight wire and equals
 
-is however independent of the position of
-B (therefore of x)
-and can be obtained from the expression of
-Laplace given above, or more
+$$
+B = \frac{1}{2} \frac{\mu_0 I_0}{2\pi a} = \frac{\mu_0 I_0}{2L} = 0.157\ \mu\text{T}
+$$
 
-simply from symmetry considerations, observing
-
-that two infinitesimal stretches of
-
-wire arranged symmetrically with respect to a plane orthogonal to the
-
-wire itself give equal contributions to the field calculated at any point of the plane.
-Therefore the magnitude of the field
-
-is half that of an
-
-infinite straight wire and equals
-B
-=
-1
-2
-
-0
-I
-0
-2 a
-=
-
-0
-I
-0
-2L
-=
-0:157
-T
 Material produced by the group
-OLIMPIADI
-PROGETTO
-PROGETTO
-OLIMPIADI
-Secretariat
-Italian Olympiads of
-Physics at Liceo
-Scientifico
-\U.
-Morin"
-VENICE
-MESTRE fax:
-041.584.1272 e-mail:
-olifis libero.it
-Pag.
-10
+
+Secretariat of the Italian Physics Olympiad  
+at Liceo Scientifico “U. Morin”  
+VENEZIA MESTRE  
+fax: 041.584.1272  
+e-mail: olifis@libero.it
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1Va7qk65pw4KhrSHqk3FDwxTrntCKkWuT/view)

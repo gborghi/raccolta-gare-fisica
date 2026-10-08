@@ -85,7 +85,7 @@ Restableciendo cada vez el potenciómetro a su posición inicial, repita la medi
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Prueba experimental. Costante di Planck e comportamento di un LED**
+**Prova sperimentale. Costante di Planck e comportamento di un LED**
 
 **Objective.** Si costruirà un circuito elettrico per alimentare LED di diversi colori e ottenere un valore approssimativo della costante di Planck. Inoltre, per uno di questi LED, si determinerà il valore di una caratteristica costante chiamata fattore di idealità.
 
@@ -150,11 +150,11 @@ Ristabilire ogni volta il potenziometro alla sua posizione iniziale, ripete la m
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba experimental. Planck constant and behavior of an LED**
+**Experimental test. Planck constant and behaviour of an LED**
 
 **Objetivo.** Se va a construir un circuito eléctrico para alimentar LEDs de diferentes colores y obtener un valor aproximado de la constante de Planck. In addition, for one of these LEDs, the value of a constant characteristic called the ideal factor will be determined.
 
-**Materiales.**
+**Materials.**
 - Five LEDs, different colors.
 - Nine-volt battery .
 - Power meter and resistance protection.
@@ -178,7 +178,7 @@ $$I \approx I_s \, e^{\frac{qV}{\eta kT}} \quad (2)$$
 
 where $I_s$ is the so-called saturation current, $k$ the Boltzmann constant, $T$ the absolute temperature and $\eta$ is known as the LED's ideal factor.
 
-**Datos:**
+**Data:**
 - Room temperature: $T = (295 \pm 3)\,\text{K}$
 - Basic load: $q = 1{,}60 \times 10^{-19}\,\text{C}$
 - Light speed in vacuum: $c = 3{,}00 \times 10^{8}\,\text{m/s}$

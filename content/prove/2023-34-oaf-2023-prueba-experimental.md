@@ -81,7 +81,7 @@ f) Determina el valor de la frecuencia umbral, $f_o$, y de la función trabajo, 
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema experimental. Fatto fotoelettrico**
+**Problema sperimentale. Effetto fotoelettrico**
 
 Sebbene Albert Einstein sia principalmente conosciuto per la sua teoria della relatività, ha ricevuto il premio Nobel nel 1921 per l'esposizione dell'effetto fotoelettrico, per il quale la luce è in grado di strappare elettroni dalla superficie di un metallo.
 
@@ -142,11 +142,11 @@ f) Determina il valore della frequenza soglia, $f_o$, e della funzione di lavoro
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. Efecto fotoeléctrico**
+**Experimental problem. Photoelectric effect**
 
 Although Albert Einstein is primarily known for his Theory of Relativity, he received the Nobel Prize in 1921 for his explanation of the photoelectric effect, by which light is capable of plucking electrons from the surface of a metal.
 
-**Modelo teórico.**
+**Theoretical model.**
 The originality of Einstein's 1905 theory was to assume that, when it interacts with matter, light can be considered as a set of particles, called photons, each of which has an energy of $E = h \cdot f$, where $f$ is the frequency of light and $h$ the Planck constant, a universal constant. When the surface of a metal is illuminated, a photon interacts with an electron in the metal, gives it all its energy, and if that's enough, it pulls it out of the atom. If it does not have enough energy, it cannot start the electron, no matter how much the intensity of the light increases (i.e. the number of photons).
 
 If the incident photon energy is greater than the energy needed to start the electron, the rest of the energy provides it with kinetic energy, so the maximum energy with which the electron exits the metal is given by
@@ -159,12 +159,12 @@ The photoelectric effect only occurs if the photon frequency exceeds the thresho
 
 $$(E_c)_{\max} = h(f - f_o) \quad (2)$$
 
-**Montaje experimental.**
+**Experimental setup.**
 The figure shows a diagram of the device used to study the photoelectric effect. The metal plate on which the light hits is inside a tube in which the vacuum has been made, at one of its ends. The other one is a metal plate. Both are electrically connected via an ampere, which allows the current intensity in the circuit to be measured, and a variable voltage (or potential difference) source, with a value of $\Delta V$. The electrons produced by the photoelectric effect exit the metal plate with a maximum kinetic energy given by (2) and can reach the plate at the other end by closing the circuit. By varying the potential difference $\Delta V$ electrons can be held back, preventing them from reaching the plate, and thus making the intensity zero. The smallest $\Delta V$ value for which the amperage intensity is zero is called braking potential, $V_f$, and corresponds to
 
 $$V_f = \frac{h}{e}(f - f_o) \quad (3)$$
 
-**Preguntas.**
+**Questions.**
 The following table shows the braking potential values $V_f$ when the metal is illuminated with different frequencies:
 
 | Color de la luz | $f$ ($\times 10^{14}$ Hz) | $V_f$ (V) |

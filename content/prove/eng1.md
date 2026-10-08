@@ -1,11 +1,11 @@
 ---
-title: Russia
+title: IZhO 2014
 tipo: prova
 tags:
   - kg/prova
-  - anno/na
-  - paese/Russia
-  - comp/Russia
+  - anno/2014
+  - paese/Kazakhstan
+  - comp/IZhO
   - cluster/Elettromagnetismo
 ---
 <div class="atom-reader" data-prova="eng1"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia — Quesito 1" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="IZhO 2014 — Quesito 1" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -46,7 +46,7 @@ hours.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia — Quesito 2" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="IZhO 2014 — Quesito 2" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -73,7 +73,7 @@ hours.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia — Quesito 3" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="IZhO 2014 — Quesito 3" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -102,7 +102,7 @@ Se ne avete uno, per favore chiedeteli agli organizzatori delle Olimpiadi.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia — Quesito 4" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="IZhO 2014 — Quesito 4" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -135,7 +135,7 @@ La maggior parte delle persone utilizza equazioni, numeri, figure e grafici.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia — Quesito 5" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="IZhO 2014 — Quesito 5" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,7 +162,7 @@ La maggior parte delle persone utilizza equazioni, numeri, figure e grafici.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia — Quesito 6" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="IZhO 2014 — Quesito 6" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,topic/electromagnetism,argomento/elettromagnetismo,difficolta/1,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,7 +197,7 @@ l'intero foglio e non lo inserire nel numero.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia — Quesito 7" data-tags="kg/prova,paese/Russia,comp/Russia,cluster/Elettromagnetismo,object/pendulum,object/magnet,object/coil,object/battery,object/switch"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="IZhO 2014 — Quesito 7" data-tags="kg/prova,paese/Kazakhstan,comp/IZhO,cluster/Elettromagnetismo,object/pendulum,object/magnet,object/coil,object/battery,object/switch"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -209,8 +209,6 @@ l'intero foglio e non lo inserire nel numero.
 • Unused sheets and the printed question.
 Place the papers inside the envelope and leave everything on your desk. You are not allowed to
 take any paper or equipment out of the room
-X International Zhautykov Olimpiad/ Experimental Competition
-Page 2/3
 Magnetic interactions (15 points)
 
 Instruments and equipment: tripod, pendulum with a bead magnet, clay, ruler, magnetic beads,
@@ -247,8 +245,6 @@ measurements.
 current in the coil. Plot the corresponding graph.
 1.4. Based on the experimental data obtained prove that the force, acting on
 the magnetic bead, is proportional to the current in the coil. Justify your conclusion graphically.
-X International Zhautykov Olimpiad/ Experimental Competition
-Page 3/3
 Part 2. Pointlike interactions
 
 Place the magnetized bead fixed on a piece of clay right under the
@@ -307,7 +303,6 @@ your answer graphically.
 Metti i documenti dentro la busta e lascia tutto sulla scrivania. Non ti è permesso
 portate fuori dalla stanza qualsiasi carta o attrezzatura
 X Olimpiada internazionale di Zhautykov/concorso sperimentale
-Pagina 2/3
 Interazioni magnetiche (15 punti)
 
 Strumenti e attrezzature: tripod, pendolo con magnete per perle, argilla, reggente, perle magnetiche,
@@ -345,7 +340,6 @@ corrente nella bobina. Tracciare il grafico corrispondente.
 1.4. In base ai dati sperimentali ottenuti, si dimostra che la forza che agisce su
 la perla magnetica, è proporzionale alla corrente della bobina. Giustifica la tua conclusione in modo grafico.
 X Olimpiada internazionale di Zhautykov/concorso sperimentale
-Pagina 3/3
 Parte 2. Interazioni puntuali
 
 Metti la perla magnetica fissata su un pezzo di argilla proprio sotto il

@@ -41898,7 +41898,7 @@ Calore specifico dell'acqua: $c_{agua}$ = 4180 J/(kg K)
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Segunda Prueba Preparatoria: Termodinamica, Electricidad y Magnetismo - Problema Teorico 1**
+**Second Preparatory Test: Thermodynamics, Electricity and Magnetism - Theoretical Problem 1**
 
 An 890 g iron sphere has a diameter of 6 cm and is 0.05 mm larger than the diameter of a hole found in an 89 g copper plate. Both masses are at a temperature of 30 oC.
 
@@ -42271,9 +42271,9 @@ Considera $g = 10\ \frac{m}{s^2}$.
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Segunda Prueba Preparatoria: Termodinamica, Electricidad y Magnetismo - Problema Experimental (Determinacion de la densidad del aire)**
+**Second Preparatory Test: Thermodynamics, Electricity and Magnetism - Experimental Problem (Determination of air density)**
 
-**Determinación de la densidad del aire**
+**Determination of air density**
 
 When a body falls into a fluid, it suffers a friction force $F_D$ that opposes motion and depends on the speed of the body. If the body falls by gravity, this force can equal the weight of the body, and it reaches a constant velocity (we have disregarded the force due to the thrust) called *terminal velocity*. This situation can be described by the following equation:
 $$F_D = \tfrac{1}{2}C_D\rho_a A v^2 = Mg \qquad (1)$$
@@ -42281,7 +42281,7 @@ where $\rho_a$ is the density of air, $A$ and $M$ are the area the body provides
 
 **Objetivo:** Determinar la densidad del aire ($\rho_a$)
 
-**Elementos:**
+**Equipment:**
 - A4 sheets of known grammatical paper.
 - The time-meter
 - The rule .
@@ -42291,7 +42291,7 @@ where $\rho_a$ is the density of air, $A$ and $M$ are the area the body provides
 - Shearer
 - Metric tape (commonly used)
 
-**Procedimiento**
+**Procedure**
 *Arm of paper cones: *
 On a known sheet of grass paper, draw a radius circle $r = 10\ cm$. Above this circle, draw an angle $\beta$ as shown in the left panel of the figure.
 

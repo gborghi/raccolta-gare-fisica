@@ -1,5 +1,5 @@
 ---
-title: Russia 2020
+title: Indonesia 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2020 — Quesito 1" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Indonesia 2020 — Quesito 1" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -50,7 +50,7 @@ che l'oggetto è in posizione stabile!
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2020 — Quesito 2" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Indonesia 2020 — Quesito 2" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,7 +94,7 @@ Se nel quarto giorno camminasse con una velocità costante di 100 metri al minut
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2020 — Quesito 3" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/ball,object/projectile"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Indonesia 2020 — Quesito 3" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/ball,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -135,7 +135,7 @@ $t_B$)!
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2020 — Quesito 4" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/wire"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Indonesia 2020 — Quesito 4" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -184,7 +184,7 @@ la particella al punto B che è $v'$
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2020 — Quesito 5" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Indonesia 2020 — Quesito 5" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -243,7 +243,7 @@ il volume dell'oggetto è molto piccolo rispetto alla distanza percorsa.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2020 — Quesito 6" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Indonesia 2020 — Quesito 6" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -304,7 +304,7 @@ $\int \cos x \, dx = \sin x + C$
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2020 — Quesito 7" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Indonesia 2020 — Quesito 7" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/pendulum,object/rope-string,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -351,7 +351,7 @@ b. Il valore massimo della tensione e della velocità in quel punto.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2020 — Quesito 8" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Indonesia 2020 — Quesito 8" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

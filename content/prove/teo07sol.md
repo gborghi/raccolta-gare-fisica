@@ -15,118 +15,15 @@ tags:
 
 
 
-PROBLEMA
-n.
-1
-{
-Equilib
-rismi:
-:
-:
-100
-Pun
-ti
-Quesito
-n.
-1.
-In
-assenza
-di
-attriti,
-le
-forze
-appli ate
-al
-blo
- o
-di
-massa
-m
-2
-sono:
-il
-p
-eso
-(v
-erti ale),
-la
-reazione
-vin olare
-~
-N
-dal
-piano
-orizzon
-tale
-(v
-erti ale),
-la
-reazione
-vin olare
-~
-N
-0
-da
-parte
-del
-blo
- o
-di
-massa
-m
-1
-(obliqua)
-e
-la
-forza
-~
-F
-(orizzon
-tale).
-Le
-forze
-appli ate
-al
-blo
- o
-di
-massa
-m
-1
-sono:
-il
-p
-eso
-(v
-erti ale),
-la
-reazione
-vin olare
-~
-N
-00
-dal
-piano
-v
-erti ale
-(orizzon
-tale),
-la
-reazione
-vin olare
- ~
-N
-0
-da
-parte
-del
-blo
- o
-di
-massa
-m
-2
-(obliqua).
+**PROBLEMA n. 1 – Equilibrismi…** (100 Punti)
+
+**Quesito n. 1.**
+
+In assenza di attriti, le forze applicate al blocco di massa $m_2$ sono: il peso (verticale), la reazione vincolare $\vec{N}$ dal piano orizzontale (verticale), la reazione vincolare $\vec{N}'$ da parte del blocco di massa $m_1$ (obliqua) e la forza $\vec{F}$ (orizzontale).
+
+Le forze applicate al blocco di massa $m_1$ sono: il peso (verticale), la reazione vincolare $\vec{N}''$ dal piano verticale (orizzontale), la reazione vincolare $-\vec{N}'$ da parte del blocco di massa $m_2$ (obliqua).
+
+*(figura nel PDF originale)*
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -138,38 +35,15 @@ m
 
 <div class="qlang-split" data-lang="en"></div>
 
-PROBLEM no.
-1
-{
-Equilibria:
-:
-:
-100
-Points
-Question no.
-1.
-In the absence of friction, the forces applied to the block of mass m
-2 are:
-the weight (vertical), the constraint reaction
-~
-N from the horizontal plane (vertical), the constraint reaction
-~
-N
-0 from the block of mass m
-1 (oblique)
-and the force
-~
-F (horizontal).
-The forces applied to the block of mass m
-1 are:
-the weight (vertical), the constraint reaction
-~
-N
-00 from the vertical plane (horizontal), the constraint reaction
- ~
-N
-0 from the block of mass m
-2 (oblique).
+**PROBLEM no. 1 – Equilibrismi…** (100 Points)
+
+**Question no. 1.**
+
+In the absence of friction, the forces acting on the block of mass $m_2$ are: its weight (vertical), the normal reaction force $\vec{N}$ from the horizontal plane (vertical), the normal reaction force $\vec{N}'$ due to the block of mass $m_1$ (oblique), and the force $\vec{F}$ (horizontal).
+
+The forces acting on the block of mass $m_1$ are: its weight (vertical), the normal reaction force $\vec{N}''$ from the vertical plane (horizontal), and the normal reaction force $-\vec{N}'$ due to the block of mass $m_2$ (oblique).
+
+*(figure in the original PDF)*
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -181,132 +55,31 @@ N
 
 
 
-Quesito
-n.
-2.
-All'equilibrio
-le
-forze
-su
- ias un
-blo
- o
-dev
-ono
-a
-v
-ere
-risultan
-te
-n
-ulla.
-In
- omp
-onen
-ti,
-prendendo
-l'asse
-x
-orizzon
-tale
-da
-sinistra
-a
-destra
-e
-l'asse
-y
-v
-erti ale
-dal
-basso
-v
-erso
-l'alto,
-e
-indi ando
- on
-F
-0
-l'in
-tensit
-a
-di
-~
-F
-in
- ondizioni
-di
-equilibrio,
-si
-ha:
-F
-0
- N
-0
-sen
+**Quesito n. 2.**
 
-=
-0
-N
- m
-2
-g
- N
-0
- os
+All'equilibrio le forze su ciascun blocco devono avere risultante nulla. In componenti, prendendo l'asse $x$ orizzontale da sinistra a destra e l'asse $y$ verticale dal basso verso l'alto, e indicando con $F_0$ l'intensità di $\vec{F}$ in condizioni di equilibrio, si ha:
 
-=
-0
-N
-0
-sen
+$$
+F_0 - N' \operatorname{sen} \theta = 0
+$$
 
- N
-00
-=
-0
-N
-0
- os
+$$
+N - m_2 g - N' \cos \theta = 0
+$$
 
- m
-1
-g
-=
-0
-Dalla
-prima
-e
-la
-quarta
-di
-queste
-equazioni,
- on
-fa ili
-sostituzioni,
-si
-ha
-N
-0
-=
-m
-1
-g
- os
+$$
+N' \operatorname{sen} \theta - N'' = 0
+$$
 
-F
-0
-=
-m
-1
-g
-tan
+$$
+N' \cos \theta - m_1 g = 0
+$$
 
-=
-28:3
-N
+Dalla prima e la quarta di queste equazioni, con facili sostituzioni, si ha
+
+$$
+N' = \frac{m_1 g}{\cos \theta} \quad F_0 = m_1 g \tan \theta = 28.3\,\mathrm{N}
+$$
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -318,56 +91,31 @@ N
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-2.
-At equilibrium the forces on each block must have zero resultant.
-In components, taking the x-axis horizontal from left to right and the y-axis vertical from bottom to top, and denoting by
-F
-0 the magnitude of
-~
-F under equilibrium conditions, we have:
-F
-0
- N
-0 sen
+**Question no. 2.**
 
-=
-0
-N m
-2 g
- N
-0 cos
+At equilibrium, the net force on each block must be zero. In components, taking the $x$-axis horizontal from left to right and the $y$-axis vertical from bottom to top, and denoting by $F_0$ the magnitude of $\vec{F}$ under equilibrium conditions, one obtains:
 
-=
-0
-N
-0 sen
+$$
+F_0 - N' \sin \theta = 0
+$$
 
- N
-00
-=
-0
-N
-0 cos
+$$
+N - m_2 g - N' \cos \theta = 0
+$$
 
- m
-1 g
-=
-0
-From the first and the fourth of these equations, with easy substitutions, we get
-N
-0
-= m
-1 g cos
+$$
+N' \sin \theta - N'' = 0
+$$
 
-F
-0
-= m
-1 g tan
+$$
+N' \cos \theta - m_1 g = 0
+$$
 
-=
-28:3
-N
+From the first and fourth of these equations, by simple substitutions, one obtains:
+
+$$
+N' = \frac{m_1 g}{\cos \theta} \quad F_0 = m_1 g \tan \theta = 28.3\,\mathrm{N}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -379,273 +127,39 @@ N
 
 
 
-Quesito
-n.
-3.
-Con
-una
-forza
-maggiore,
-pari
-a
-2F
-0
-,
-non
-si
-ha
-pi
+**Quesito n. 3.**
 
-u
-equilibrio;
-il
- orp
-o
-di
-massa
-m
-2
-si
-m
-uo
-v
-e
- on
-a elerazione
-a
-2
-orizzon
-tale
-e
-il
- orp
-o
-di
-massa
-m
-1
-si
-m
-uo
-v
-e
- on
-a elerazione
-a
-1
-v
-erti ale.
-Le
-equazioni
-pre eden
-ti,
-p
-ertan
-to,
-si
-mo
-di
- ano
- os
+Con una forza maggiore, pari a $2F_0$, non si ha più equilibrio; il corpo di massa $m_2$ si muove con accelerazione $a_2$ orizzontale e il corpo di massa $m_1$ si muove con accelerazione $a_1$ verticale. Le equazioni precedenti, pertanto, si modificano così:
 
-:
-2F
-0
- N
-0
-sen
+$$
+2F_0 - N' \operatorname{sen} \theta = m_2 a_2
+$$
 
-=
-m
-2
-a
-2
-N
- m
-2
-g
- N
-0
- os
+$$
+N - m_2 g - N' \cos \theta = 0
+$$
 
-=
-0
-N
-0
-sen
+$$
+N' \operatorname{sen} \theta - N'' = 0
+$$
 
- N
-00
-=
-0
-N
-0
- os
+$$
+N' \cos \theta - m_1 g = m_1 a_1
+$$
 
- m
-1
-g
-=
-m
-1
-a
-1
-P
-ag.
-1
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-18
-Ap
-rile
-2007
-Inoltre,
-p
-er
- onsiderazioni
-geometri
-he,
-fra
-gli
-sp
-ostamen
-ti,
-e
-quindi
-le
-a elerazioni,
-dei
-due
-blo
+Inoltre, per considerazioni geometriche, fra gli spostamenti, e quindi le accelerazioni, dei due blocchi vale la relazione $a_1 : a_2 = \operatorname{sen} \theta : \cos \theta$, cioè $a_2 = a_1 / \tan \theta$. Sostituendo nella prima e quarta equazione qui sopra, si ricava:
 
-hi
-v
-ale
-la
-relazione
-a
-1
-:
-a
-2
-=
-sen
+$$
+N' = \frac{2F_0}{\operatorname{sen} \theta} - \frac{m_2 a_1}{\operatorname{sen} \theta \tan \theta} = \frac{2m_1 g}{\cos \theta} - \frac{m_2 a_1}{\operatorname{sen} \theta \tan \theta}
+$$
 
-:
- os
+$$
+a_1 = \frac{N' \cos \theta}{m_1} - g = g - \frac{m_2 a_1}{m_1 \tan^2 \theta}
+$$
 
-,
- io
-
-e
-a
-2
-=
-a
-1
-=
-tan
-
-.
-Sostituendo
-nella
-prima
-e
-quarta
-equazione
-qui
-sopra,
-si
-ri a
-v
-a:
-N
-0
-=
-2F
-0
-sen
-
- m
-2
-a
-1
-sen
-
-tan
-
-=
-2m
-1
-g
- os
-
- m
-2
-a
-1
-sen
-
-tan
-
-a
-1
-=
-N
-0
- os
-
-m
-1
- g
-=
-g
- m
-2
-a
-1
-m
-1
-tan
-2
-
-a
-1
-=
-g
-m
-1
-tan
-2
-
-m
-1
-tan
-2
-
-+
-m
-2
-=
-3:50
-m
-s
- 2
+$$
+a_1 = g \frac{m_1 \tan^2 \theta}{m_1 \tan^2 \theta + m_2} = 3.50 \, \mathrm{m \, s^{-2}}
+$$
 
 **Topic:** [[Newtonian Mechanics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -657,134 +171,39 @@ s
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-3.
-With a greater force, equal to
-2F
-0
-, there is no longer equilibrium;
-the body of mass m
-2 moves with acceleration a
-2 horizontally and the body of mass m
-1 moves with acceleration a
-1 vertically.
-The previous equations, therefore, are modified as
+**Question no. 3.**
 
-:
-2F
-0
- N
-0 sen
+With a greater force, equal to $2F_0$, equilibrium is no longer maintained; the body of mass $m_2$ moves with horizontal acceleration $a_2$, and the body of mass $m_1$ moves with vertical acceleration $a_1$. The previous equations therefore change as follows:
 
-= m
-2 a
-2
-N m
-2 g
- N
-0 cos
+$$
+2F_0 - N' \sin \theta = m_2 a_2
+$$
 
-=
-0
-N
-0 sen
+$$
+N - m_2 g - N' \cos \theta = 0
+$$
 
- N
-00
-=
-0
-N
-0 cos
+$$
+N' \sin \theta - N'' = 0
+$$
 
- m
-1 g
-= m
-1 a
-1
-Pag.
-1
-AIF
-{
-Olympiad of
-Physics
-National Race:
-SOLUTION of the
-Theory
-Test
-{
-Senigallia
-{
-18
-April
-2007
-Moreover, from geometric considerations, between the displacements, and therefore the accelerations, of the two blocks the relation holds a
-1
-:
-a
-2
-= sen
+$$
+N' \cos \theta - m_1 g = m_1 a_1
+$$
 
-: cos
+Moreover, from geometric considerations, the relationship between the displacements, and therefore the accelerations, of the two blocks is $a_1 : a_2 = \sin \theta : \cos \theta$, that is $a_2 = a_1 / \tan \theta$. Substituting into the first and fourth equations above, we obtain:
 
-, i.e. a
-2
-= a
-1
-= tan
+$$
+N' = \frac{2F_0}{\sin \theta} - \frac{m_2 a_1}{\sin \theta \tan \theta} = \frac{2m_1 g}{\cos \theta} - \frac{m_2 a_1}{\sin \theta \tan \theta}
+$$
 
-.
-Substituting into the first and fourth equation above, one obtains:
-N
-0
-=
-2F
-0 sen
+$$
+a_1 = \frac{N' \cos \theta}{m_1} - g = g - \frac{m_2 a_1}{m_1 \tan^2 \theta}
+$$
 
- m
-2 a
-1 sen
-
-tan
-
-=
-2m
-1 g cos
-
- m
-2 a
-1 sen
-
-tan
-
-a
-1
-=
-N
-0 cos
-
-m
-1 g
-= g m
-2 a
-1 m
-1 tan
-2
-
-a
-1
-= g m
-1 tan
-2
-
-m
-1 tan
-2
-
-+ m
-2
-=
-3:50 m s
- 2
+$$
+a_1 = g \frac{m_1 \tan^2 \theta}{m_1 \tan^2 \theta + m_2} = 3.50 \, \mathrm{m \, s^{-2}}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -796,144 +215,11 @@ m
 
 
 
-Quesito
-n.
-4.
-Il
-blo
- o
-di
-massa
-m
-2
-ha
-un'a elerazione
-a
-2
-=
-a
-1
-=
-tan
+**Quesito n. 4.**
 
-e
-p
-ertan
-to,
-a
-partire
-dall'istan
-te
-t
-=
-0
-in
- ui
-la
-forza
-~
-F
-raddoppia
-l'in
-tensit
-a,
-ha
-una
-v
-elo
- it
-a
-v
-=
-a
-2
-t.
-La
-p
-otenza
-da
-appli are,
-p
-ertan
-to,
+Il blocco di massa $m_2$ ha un'accelerazione $a_2 = a_1 / \tan \theta$ e pertanto, a partire dall'istante $t = 0$ in cui la forza $\vec{F}$ raddoppia l'intensità, ha una velocità $v = a_2 t$. La potenza da applicare, pertanto, è $W = 2F_0 v = 2m_1 g a_1 t$. Essa cresce linearmente nel tempo con un coefficiente $2m_1 g a_1 = 344 \, \mathrm{W \, s^{-1}}$.
 
-e
-W
-=
-2F
-0
-v
-=
-2m
-1
-g
-a
-1
-t.
-Essa
- res e
-linearmen
-te
-nel
-temp
-o
- on
-un
- o
-eÆ ien
-te
-2m
-1
-g
-a
-1
-=
-344
-W
-s
- 1
-.
-Nota:
-Sostituendo
-ad
-a
-1
-il
-v
-alore
-gi
-a
-arrotondato,
- os
-
- ome
-
-e
-stato
-rip
-ortato
-sopra
-al
-pun
-to
-3,
-si
-otterrebb
-e
-W
-=t
-=
-343
-W
-s
- 1
-
-he
-
-e
-ugualmen
-te
-a ettabile.
+Nota: Sostituendo ad $a_1$ il valore già arrotondato, così come è stato riportato sopra al punto 3, si otterrebbe $W/t = 343 \, \mathrm{W \, s^{-1}}$ che è ugualmente accettabile.
 
 **Topic:** [[Newtonian Mechanics]], [[Conservation of Energy]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -945,58 +231,11 @@ a ettabile.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-4.
-The block of mass m
-2 has an acceleration a
-2
-= a
-1
-= tan
+**Question no. 4.**
 
-and therefore, starting from the instant t
-=
-0 at which the force
-~
-F doubles its magnitude, has a speed v
-= a
-2 t.
-The power to be applied, therefore,
+The block of mass $m_2$ has an acceleration $a_2 = a_1 / \tan \theta$ and therefore, starting from the instant $t = 0$ when the force $\vec{F}$ doubles in magnitude, it has a velocity $v = a_2 t$. The power to be applied is thus $W = 2F_0 v = 2m_1 g a_1 t$. It increases linearly with time, with a coefficient $2m_1 g a_1 = 344 \, \mathrm{W \, s^{-1}}$.
 
-is
-W
-=
-2F
-0 v
-=
-2m
-1 g a
-1 t.
-It increases linearly with time with a coefficient
-2m
-1 g a
-1
-=
-344
-W s
- 1
-.
-Note:
-By substituting into a
-1 the already rounded value, as
-
-was reported above at point
-3, one would obtain
-W
-=t
-=
-343
-W s
- 1
-
-which
-
-is equally acceptable.
+Note: Substituting $a_1$ with the already rounded value, as reported above in point 3, would yield $W/t = 343 \, \mathrm{W \, s^{-1}}$, which is equally acceptable.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -1008,453 +247,51 @@ is equally acceptable.
 
 
 
-Quesito
-n.
-5.
-In
-presenza
-di
-forze
-di
-attrito,
-~
-A
-e
-~
-A
-00
-(risp
-ettiv
-amen
-te),
-sulle
-sup
-er
- i
-orizzon
-tale
-e
-v
-erti ale
+**Quesito n. 5.**
 
-he
-si
-aggiungono
-alle
-altre
-forze
-gi
-a
- onsiderate,
-la
-forza
-F
-minima
-p
-er
-ottenere
-l'equilibrio
-dev'essere
-minore
-di
-F
-0
-,
-p
-er
- ui
-l'attrito
-orizzon
-tale
-dev'essere
-riv
-olto
-nel
-v
-erso
-p
-ositiv
-o
-delle
-x
-p
-er
-osta olare
-il
-moto
-del
-blo
- o
-di
-massa
-m
-2
-v
-erso
-sinistra,
-e
-quello
-v
-erti ale
-v
-erso
-l'alto
-p
-er
-osta olare
-il
-moto
-del
-blo
- o
-di
-massa
-m
-1
-v
-erso
-il
-basso,
-moti
+In presenza di forze di attrito, $\vec{A}$ e $\vec{A}''$ (rispettivamente), sulle superfici orizzontale e verticale che si aggiungono alle altre forze già considerate, la forza $F$ minima per ottenere l'equilibrio dev'essere minore di $F_0$, per cui l'attrito orizzontale dev'essere rivolto nel verso positivo delle $x$ per ostacolare il moto del blocco di massa $m_2$ verso sinistra, e quello verticale verso l'alto per ostacolare il moto del blocco di massa $m_1$ verso il basso, moti che si avrebbero in assenza di $\vec{F}$ e di attriti.
 
-he
-si
-a
-vrebb
-ero
-in
-assenza
-di
-~
-F
-e
-di
-attriti.
-Quindi
-le
-equazioni
-pre eden
-ti
-si
-mo
-di
- ano
- os
+Quindi le equazioni precedenti si modificano così:
 
-:
-F
-+
-A
- N
-0
-sen
+$$
+F + A - N' \operatorname{sen} \theta = 0
+$$
 
-=
-0
-N
- m
-2
-g
- N
-0
- os
+$$
+N - m_2 g - N' \cos \theta = 0
+$$
 
-=
-0
-N
-0
-sen
+$$
+N' \operatorname{sen} \theta - N'' = 0
+$$
 
- N
-00
-=
-0
-N
-0
- os
+$$
+N' \cos \theta + A'' - m_1 g = 0
+$$
 
-+
-A
-00
- m
-1
-g
-=
-0
-I
-v
-alori
-massimi
-p
-ossibili
-di
-A
-e
-A
-00
-sono
-risp
-ettiv
-amen
-te
-A
-=
-N
-e
-A
-00
-=
-N
-00
-.
-Indi
-hiamo
-i
-loro
-v
-alori
-e
-ettivi
- on
-A
-=
-N
-e
-A
-00
-=
+I valori massimi possibili di $A$ e $A''$ sono rispettivamente $A = \mu N$ e $A'' = \mu N''$. Indichiamo i loro valori effettivi con $A = \rho N$ e $A'' = \rho'' N''$. Questa volta servono tutte e quattro le equazioni precedenti; si ricava
 
-00
-N
-00
-.
-Questa
-v
-olta
-serv
-ono
-tutte
-e
-quattro
-le
-equazioni
-pre eden
-ti;
-si
-ri a
-v
-a
-N
-00
-=
-N
-0
-sen
+$$
+N'' = N' \operatorname{sen} \theta
+$$
 
-N
-0
- os
+$$
+N' \cos \theta + \rho'' N' \operatorname{sen} \theta - m_1 g = 0 \quad \Rightarrow \quad N' = \frac{m_1 g}{\cos \theta + \rho'' \operatorname{sen} \theta}
+$$
 
-+
+$$
+N = \left( \frac{m_1 \cos \theta}{\cos \theta + \rho'' \operatorname{sen} \theta} + m_2 \right) g
+$$
 
-00
-N
-0
-sen
+$$
+F = \frac{m_1 \operatorname{sen} \theta - \rho (m_1 + m_2) \cos \theta - \rho \rho'' m_2 \operatorname{sen} \theta}{\cos \theta + \rho'' \operatorname{sen} \theta} g
+$$
 
- m
-1
-g
-=
-0
-)
-N
-0
-=
-m
-1
-g
- os
+Il valore di $F$ decresce in modo monotono al crescere sia di $\rho$ che di $\rho''$, per cui per minimizzare $F$ (finché esso è positivo, naturalmente) occorre assumere i valori massimi possibili sia di $\rho$ che di $\rho''$. L'ultima formula diviene pertanto:
 
-+
-
-00
-sen
-
-N
-=
-
-m
-1
- os
-
- os
-
-+
-
-00
-sen
-
-+
-m
-2
-
-g
-F
-=
-m
-1
-sen
-
- (m
-1
-+
-m
-2
-)
- os
-
-00
-m
-2
-sen
-
- os
-
-+
-
-00
-sen
-
-g
-Il
-v
-alore
-di
-F
-de res e
-in
-mo
-do
-monotono
-al
- res ere
-sia
-di
-
-he
-di
-
-00
-,
-p
-er
- ui
-p
-er
-minimizzare
-F
-(
-n
-h
-
-e
-esso
-
-e
-p
-ositiv
-o,
-naturalmen
-te)
-o
- orre
-assumere
-i
-v
-alori
-massimi
-p
-ossibili
-sia
-di
-
-he
-di
-
-00
-.
-L'ultima
-form
-ula
-diviene
-p
-ertan
-to:
-F
-min
-=
-m
-1
-sen
-
- (m
-1
-+
-m
-2
-)
- os
-
-2
-m
-2
-sen
-
- os
-
-+
-
-sen
-
-g
-=
-10:7
-N
-P
-ag.
-2
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-18
-Ap
-rile
-2007
-PROBLEMA
-n.
-2
-{
-O hio
-alle
-induttanze!
-50
-Pun
-ti
+$$
+F_{\min} = \frac{m_1 \operatorname{sen} \theta - \mu (m_1 + m_2) \cos \theta - \mu^2 m_2 \operatorname{sen} \theta}{\cos \theta + \mu \operatorname{sen} \theta} g = 10.7 \, \mathrm{N}
+$$
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1466,217 +303,51 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-5.
-In the presence of friction forces,
-~
-A and
-~
-A
-00 (respectively), on the horizontal and vertical surfaces
+**Question no. 5.**
 
-which are added to the other forces already considered, the minimum force
-F to obtain equilibrium must be less than
-F
-0
-, so the horizontal friction must be directed in the positive x direction to oppose the motion of the block of mass m
-2 toward the left, and the vertical one upward to oppose the motion of the block of mass m
-1 downward, motions
+In the presence of friction forces, $\vec{A}$ and $\vec{A}''$ (respectively) on the horizontal and vertical surfaces that are added to the other forces already considered, the minimum force $F$ required to achieve equilibrium must be less than $F_0$, so that the horizontal friction must act in the positive direction of $x$ to hinder the motion of the block of mass $m_2$ toward the left, and the vertical friction must act upward to hinder the motion of the block of mass $m_1$ downward, motions that would occur in the absence of $\vec{F}$ and friction.
 
-that would occur in the absence of
-~
-F and of friction.
-Therefore the preceding equations are modified as
+Therefore, the previous equations are modified as follows:
 
-:
-F
-+
-A
- N
-0 sen
+$$
+F + A - N' \sin \theta = 0
+$$
 
-=
-0
-N m
-2 g
- N
-0 cos
+$$
+N - m_2 g - N' \cos \theta = 0
+$$
 
-=
-0
-N
-0 sen
+$$
+N' \sin \theta - N'' = 0
+$$
 
- N
-00
-=
-0
-N
-0 cos
+$$
+N' \cos \theta + A'' - m_1 g = 0
+$$
 
-+
-A
-00 m
-1 g
-=
-0
-The maximum possible values of
-A and
-A
-00 are respectively
-A
-=
-N and
-A
-00
-=
-N
-00
-.
-We denote their effective values by
-A
-=
-N and
-A
-00
-=
+The maximum possible values of $A$ and $A''$ are respectively $A = \mu N$ and $A'' = \mu N''$. We denote their actual values by $A = \rho N$ and $A'' = \rho'' N''$. This time all four of the previous equations are needed; it follows that
 
-00
-N
-00
-.
-This time all four preceding equations are needed;
-one obtains
-N
-00
-=
-N
-0 sen
+$$
+N'' = N' \sin \theta
+$$
 
-N
-0 cos
+$$
+N' \cos \theta + \rho'' N' \sin \theta - m_1 g = 0 \quad \Rightarrow \quad N' = \frac{m_1 g}{\cos \theta + \rho'' \sin \theta}
+$$
 
-+
+$$
+N = \left( \frac{m_1 \cos \theta}{\cos \theta + \rho'' \sin \theta} + m_2 \right) g
+$$
 
-00
-N
-0 sen
+$$
+F = \frac{m_1 \sin \theta - \rho (m_1 + m_2) \cos \theta - \rho \rho'' m_2 \sin \theta}{\cos \theta + \rho'' \sin \theta} g
+$$
 
- m
-1 g
-=
-0
-)
-N
-0
-= m
-1 g cos
+The value of $F$ decreases monotonically with increasing $\rho$ and $\rho''$, so to minimize $F$ (as long as it remains positive, naturally) one must assume the maximum possible values for both $\rho$ and $\rho''$. The last formula therefore becomes:
 
-+
-
-00 sen
-
-N
-=
-
-m
-1 cos
-
- cos
-
-+
-
-00 sen
-
-+ m
-2
-
-g
-F
-= m
-1 sen
-
- (m
-1
-+ m
-2
-)
- cos
-
-00 m
-2 sen
-
- cos
-
-+
-
-00 sen
-
-g
-The value of
-F decreases monotonically as either
-
-or
-
-00
-increases, so to minimize
-F (which
-
-is positive, naturally)
-one must take the maximum possible values of both
-
-and
-
-00
-.
-The last formula therefore becomes:
-F min
-= m
-1 sen
-
- (m
-1
-+ m
-2
-)
- cos
-
-2 m
-2 sen
-
- cos
-
-+
-
-sen
-
-g
-=
-10:7
-N
-Page
-2
-AIF
-{
-Physics
-Olympiad
-National
-Competition:
-SOLUTION of the
-Theoretical
-Test
-{
-Senigallia
-{
-18
-April
-2007
-PROBLEM no.
-2
-{
-Watch out for inductances!
-50
-Points
+$$
+F_{\min} = \frac{m_1 \sin \theta - \mu (m_1 + m_2) \cos \theta - \mu^2 m_2 \sin \theta}{\cos \theta + \mu \sin \theta} g = 10.7 \, \mathrm{N}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -1688,222 +359,33 @@ Points
 
 
 
-Quesito
-n.
-1.
-Alla
+**PROBLEMA n. 2 – Occhio alle induttanze!** (50 Punti)
 
-hiusura
-dell'in
-terruttore
-la
- orren
-te
-p
-er
-l'induttanza
-si
-man
-tiene
-istan
-taneamen
-te
-n
-ulla
-e
-l'equazione
-della
-maglia
-attiv
-a
-d
-a
-3R
-I
-0
-=
-E
-)
-E
-=
-3
-(2:5
-k
+**Quesito n. 1.**
 
-)
-(5
-mA)
-=
-37:5
-V
-A
-regime
-in
-v
-e e
-la
-f.e.m.
-ai
- api
-dell'induttanza
+Alla chiusura dell'interruttore la corrente per l'induttanza si mantiene istantaneamente nulla e l'equazione della maglia attiva dà
 
-e
-n
-ulla,
-dunque
-la
-resistenza
-vista
-dal
-generatore
+$$
+3RI_0 = \mathcal{E} \quad \Rightarrow \quad \mathcal{E} = 3 \, (2.5 \, \text{k}\Omega) \, (5 \, \text{mA}) = 37.5 \, \text{V}
+$$
 
-e
-R
-?
-=
-R
-+
-(R
-2
-k
-R
-1
-)
-;
-p
-er
- ui
-l'equazione
-del
- ir uito
-equiv
-alen
-te
-d
-a
-R
-?
-I
-1
-=
-E
-)
+A regime invece la f.e.m. ai capi dell'induttanza è nulla, dunque la resistenza vista dal generatore è $R^* = R + (R_2 \parallel R_1)$, per cui l'equazione del circuito equivalente dà
 
-R
-+
-2R
-R
-1
-2R
-+
-R
-1
+$$
+R^* I_1 = \mathcal{E} \quad \Rightarrow \quad \left( R + \frac{2R \, R_1}{2R + R_1} \right) I_1 = \frac{2R^2 + 3R R_1}{2R + R_1} I_1 = \frac{2R + 3R_1}{2R + R_1} R I_1 = \mathcal{E}
+$$
 
-I
-1
-=
-2R
-2
-+
-3R
-R
-1
-2R
-+
-R
-1
-I
-1
-=
-2R
-+
-3R
-1
-2R
-+
-R
-1
-R
-I
-1
-=
-E
+che, sostituendo l'espressione precedente di $\mathcal{E}$, si riduce a
 
-he,
-sostituendo
-l'espressione
-pre eden
-te
-di
-E
-,
-si
-ridu e
-a
-(2R
-+
-3R
-1
-)I
-1
-=
-3
-(2R
-+
-R
-1
-)I
-0
-)
-3
-(I
-1
- I
-0
-)
-R
-1
-=
-2
-(3I
-0
- I
-1
-)
-R
-da
- ui
-R
-1
-=
-2
-(3I
-0
- I
-1
-)
-3
-(I
-1
- I
-0
-)
-R
-=
-2
-(15
- 9)
-mA
-3
-(9
- 5)
-mA
-R
-=
-R
-=
-2:5
-k
+$$
+(2R + 3R_1) I_1 = 3 \, (2R + R_1) I_0 \quad \Rightarrow \quad 3 \, (I_1 - I_0) \, R_1 = 2 \, (3I_0 - I_1) \, R
+$$
+
+da cui
+
+$$
+R_1 = \frac{2 \, (3I_0 - I_1)}{3 \, (I_1 - I_0)} \, R = \frac{2 \, (15 - 9) \, \text{mA}}{3 \, (9 - 5) \, \text{mA}} \, R = R = 2.5 \, \text{k}\Omega
+$$
 
 **Topic:** [[Circuits]], [[Electromagnetic Induction]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -1915,147 +397,33 @@ k
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-1.
-At the
+**PROBLEM no. 2 – Watch out for inductances!** (50 Points)
 
-opening of the switch, the current through the inductance remains instantaneously zero and the equation of the active loop gives
-3R
-I
-0
-=
-E
-)
-E
-=
-3 (2:5 k
+**Question no. 1.**
 
-)
-(5 mA)
-=
-37:5
-V
-In steady state the f.e.m.
-across the inductance
+At the closing of the switch, the current through the inductance remains instantaneously zero and the equation for the active mesh gives
 
-is zero, therefore the resistance seen by the generator
+$$
+3RI_0 = \mathcal{E} \quad \Rightarrow \quad \mathcal{E} = 3 \, (2.5 \, \text{k}\Omega) \, (5 \, \text{mA}) = 37.5 \, \text{V}
+$$
 
-is
-R
-?
-=
-R
-+ (R
-2 k
-R
-1
-)
-;
-hence the equation of the equivalent circuit gives
-R
-?
-I
-1
-=
-E
-)
+In steady state, instead, the electromotive force across the inductance is zero, so the resistance seen by the generator is $R^* = R + (R_2 \parallel R_1)$, hence the equation for the equivalent circuit gives
 
-R
-+
-2R
-R
-1
-2R
-+
-R
-1
+$$
+R^* I_1 = \mathcal{E} \quad \Rightarrow \quad \left( R + \frac{2R \, R_1}{2R + R_1} \right) I_1 = \frac{2R^2 + 3R R_1}{2R + R_1} I_1 = \frac{2R + 3R_1}{2R + R_1} R I_1 = \mathcal{E}
+$$
 
-I
-1
-=
-2R
-2
-+
-3R
-R
-1
-2R
-+
-R
-1
-I
-1
-=
-2R
-+
-3R
-1
-2R
-+
-R
-1
-R
-I
-1
-=
-E
+which, substituting the previous expression for $\mathcal{E}$, reduces to
 
-which, substituting the previous expression for
-E
-, reduces to (2R
-+
-3R
-1
-)I
-1
-=
-3 (2R
-+
-R
-1
-)I
-0
-)
-3 (I
-1
- I
-0
-)
-R
-1
-=
-2 (3I
-0
- I
-1
-)
-R whence
-R
-1
-=
-2 (3I
-0
- I
-1
-)
-3 (I
-1
- I
-0
-)
-R
-=
-2 (15
- 9)
-mA
-3 (9
- 5)
-mA
-R
-=
-R
-=
-2:5 k
+$$
+(2R + 3R_1) I_1 = 3 \, (2R + R_1) I_0 \quad \Rightarrow \quad 3 \, (I_1 - I_0) \, R_1 = 2 \, (3I_0 - I_1) \, R
+$$
+
+from which
+
+$$
+R_1 = \frac{2 \, (3I_0 - I_1)}{3 \, (I_1 - I_0)} \, R = \frac{2 \, (15 - 9) \, \text{mA}}{3 \, (9 - 5) \, \text{mA}} \, R = R = 2.5 \, \text{k}\Omega
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -2067,238 +435,27 @@ R
 
 
 
-Quesito
-n.
-2.
-L'energia
-magneti a
-immagazzinata
-nel
- ir uito
+**Quesito n. 2.**
 
-e
-U
-L
-=
-1
-=
-2
-LI
-2
-L
-,
-essendo
-I
-L
-la
- orren
-te
-nel
-ramo
-dell'induttanza.
-A
-regime
-la
-d.d.p.
-ai
- api
-dell'induttanza
+L'energia magnetica immagazzinata nel circuito è $U_L = \frac{1}{2} L I_L^2$, essendo $I_L$ la corrente nel ramo dell'induttanza. A regime la d.d.p. ai capi dell'induttanza è nulla e dunque basta considerare il parallelo delle resistenze $R_1 = R$ ed $R_2 = 2R$: ne segue immediatamente che la corrente in $R_1$ è doppia dell'altra e pari a $2/3$ della corrente totale.
 
-e
-n
-ulla
-e
-dunque
-basta
- onsiderare
-il
-parallelo
-delle
-resistenze
-R
-1
-=
-R
-ed
-R
-2
-=
-2R
-:
-ne
-segue
-immediatamen
-te
+Più formalmente tale corrente è determinata dalle equazioni (dette del partitore di corrente):
 
-he
-la
- orren
-te
-in
-R
-1
+$$
+\begin{cases}
+I_L + I_{R_2} = I_1 \\
+R \, I_L = 2R \, I_{R_2}
+\end{cases}
+\quad \Rightarrow \quad I_L = \frac{2R}{3R} \, I_1 = \frac{2}{3} \, I_1 = 6 \, \text{mA}
+$$
 
-e
-doppia
-dell'altra
-e
-pari
-a
-2/3
-della
- orren
-te
-totale.
-Pi
+Appena riaperto l'interruttore l'energia magnetica viene dissipata dalle resistenze $R_1$ ed $R_2$, in parti proporzionali ai valori delle due resistenze, dato che la corrente è la stessa in ogni punto della maglia: dunque $W_1 = R_1 \, I^2$; $W_2 = R_2 \, I^2$.
 
-u
-formalmen
-te
-tale
- orren
-te
+Nella resistenza $R_1$ si dissipa quindi $1/3$ dell'energia immagazzinata: dunque
 
-e
-determinata
-dalle
-equazioni
-(dette
-del
-partitore
-di
- orren
-te):
-(
-I
-L
-+
-I
-R
-2
-=
-I
-1
-R
-I
-L
-=
-2R
-I
-R
-2
-)
-I
-L
-=
-2R
-3R
-I
-1
-=
-2
-3
-I
-1
-=
-6
-mA
-App
-ena
-riap
-erto
-l'in
-terruttore
-l'energia
-magneti a
-viene
-dissipata
-dalle
-resistenze
-R
-1
-ed
-R
-2
-,
-in
-parti
-prop
-orzionali
-ai
-v
-alori
-delle
-due
-resistenze,
-dato
-
-he
-la
- orren
-te
-
-e
-la
-stessa
-in
-ogni
-pun
-to
-della
-maglia:
-dunque
-W
-1
-=
-R
-1
-I
-2
-;
-W
-2
-=
-R
-2
-I
-2
-.
-Nella
-resistenza
-R
-1
-si
-dissipa
-quindi
-1/3
-dell'energia
-imagazzinata:
-dunque
-U
-=
-1
-3
-U
-L
-=
-1
-3
-1
-2
-L
-I
-2
-L
-)
-L
-=
-6U
-I
-2
-L
-=
-6:67
-mH
+$$
+U = \frac{1}{3} \, U_L = \frac{1}{3} \, \frac{1}{2} \, L \, I_L^2 \quad \Rightarrow \quad L = \frac{6U}{I_L^2} = 6.67 \, \text{mH}
+$$
 
 **Topic:** [[Circuits]], [[Electromagnetic Induction]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Equivalent Circuit Reduction (metodo)|Equivalent Circuit Reduction]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -2310,137 +467,27 @@ mH
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-2.
-The magnetic energy stored in the circuit
+**Question no. 2.**
 
-is
-U
-L
-=
-1
-=
-2
-LI
-2
-L
-, where
-I
-L is the current in the branch of the inductance.
-In steady state the potential difference
-across the inductance
+The magnetic energy stored in the circuit is $U_L = \frac{1}{2} L I_L^2$, where $I_L$ is the current in the inductance branch. At steady state, the voltage across the inductance is zero and thus it suffices to consider the parallel combination of the resistances $R_1 = R$ and $R_2 = 2R$: it immediately follows that the current in $R_1$ is double the other and equal to $2/3$ of the total current.
 
-is zero and therefore it is enough to consider the parallel of the resistances
-R
-1
-=
-R and
-R
-2
-=
-2R:
-it follows immediately
+More formally, this current is determined by the equations (known as the current divider equations):
 
-that the current in
-R
-1
+$$
+\begin{cases}
+I_L + I_{R_2} = I_1 \\
+R \, I_L = 2R \, I_{R_2}
+\end{cases}
+\quad \Rightarrow \quad I_L = \frac{2R}{3R} \, I_1 = \frac{2}{3} \, I_1 = 6 \, \text{mA}
+$$
 
-is double the other and equal to
-2/3 of the total current.
-More
+Immediately after the switch is reopened, the magnetic energy is dissipated by the resistances $R_1$ and $R_2$, in parts proportional to their resistance values, since the current is the same at every point of the loop: thus $W_1 = R_1 \, I^2$; $W_2 = R_2 \, I^2$.
 
-formally, this current
+Therefore, in resistance $R_1$, one-third of the stored energy is dissipated: hence
 
-is determined by the equations (known as the current divider):
-(
-I
-L
-+
-I
-R
-2
-=
-I
-1
-R
-I
-L
-=
-2R
-I
-R
-2
-)
-I
-L
-=
-2R
-3R
-I
-1
-=
-2
-3
-I
-1
-=
-6 mA
-As soon as the switch is reopened, the magnetic energy is dissipated by the resistances
-R
-1 and
-R
-2
-, in parts proportional to the values of the two resistances, since
-
-the current
-
-is the same at every point of the loop:
-therefore
-W
-1
-=
-R
-1
-I
-2
-;
-W
-2
-=
-R
-2
-I
-2
-.
-In the resistance
-R
-1 there is therefore dissipated
-1/3 of the stored energy:
-therefore
-U
-=
-1
-3
-U
-L
-=
-1
-3
-1
-2
-L
-I
-2
-L
-)
-L
-=
-6U
-I
-2
-L
-=
-6.67 mH
+$$
+U = \frac{1}{3} \, U_L = \frac{1}{3} \, \frac{1}{2} \, L \, I_L^2 \quad \Rightarrow \quad L = \frac{6U}{I_L^2} = 6.67 \, \text{mH}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -2452,214 +499,33 @@ L
 
 
 
-Quesito
-n.
-3.
-La
-tensione
-ai
- api
-dell'induttanza,
-V
-L
-,
-app
-ena
-si
-apre
-il
- ir uito,
-quando
-la
- orren
-te
+**Quesito n. 3.**
 
-e
-I
-L
-si
-determina
-dall'equazione
-di
-maglia
-(2R
-+
-R
-1
-)I
-L
- V
-L
-=
-0
-)
-V
-L
-=
-3R
-I
-L
-=
-3
-(2:5
-k
+La tensione ai capi dell'induttanza, $V_L$, appena si apre il circuito, quando la corrente è $I_L$ si determina dall'equazione di maglia
 
-)
-(6
-mA)
-=
-45
-V
+$$
+(2R + R_1) I_L - V_L = 0 \quad \Rightarrow \quad V_L = 3R \, I_L = 3 \, (2.5 \, \text{k}\Omega) \, (6 \, \text{mA}) = 45 \, \text{V}
+$$
 
-he
+che è maggiore della f.e.m. del generatore.
 
-e
-maggiore
-della
-f.e.m.
-del
-generatore.
-Osserv
-azione:
-Nel
- aso
-in
-esame,
- on
-R
-2
-=
-2R
-,
-si
-ha
+Osservazione: Nel caso in esame, con $R_2 = 2R$, si ha che
 
-he
-V
-L
-=
-(2R
-+
-R
-1
-)
-I
-L
-=
-(2R
-+
-R
-1
-)
-2R
-2R
-+
-R
-1
-I
-1
-=
-2R
-I
-1
-men
-tre
-si
+$$
+V_L = (2R + R_1) \, I_L = (2R + R_1) \, \frac{2R}{2R + R_1} \, I_1 = 2R \, I_1
+$$
 
-e
-visto
+mentre si è visto che
 
-he
-E
-=
-2R
-+
-3R
-1
-2R
-+
-R
-1
-R
-I
-1
-La
- ondizione
-su
-R
-1
-p
-er
- ui
-sar
-a
-V
-L
->
-E
-all'ap
-ertura
-del
- ir uito
+$$
+\mathcal{E} = \frac{2R + 3R_1}{2R + R_1} \, R I_1
+$$
 
-e
-data
-da
-V
-L
-E
-=
-2
-(2R
-+
-R
-1
-)
-2R
-+
-3R
-1
->
-1
-)
-R
-1
-<
-2R
-P
-ag.
-3
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-18
-Ap
-rile
-2007
-PROBLEMA
-n.
-3
-{
-Che
- aldo
-quest'estate!
-100
-Pun
-ti
+La condizione su $R_1$ per cui sarà $V_L > \mathcal{E}$ all'apertura del circuito è data da
+
+$$
+\frac{V_L}{\mathcal{E}} = \frac{2 \, (2R + R_1)}{2R + 3R_1} > 1 \quad \Rightarrow \quad R_1 < 2R
+$$
 
 **Topic:** [[Circuits]], [[Electromagnetic Induction]]
 **Metodi:** [[Kirchhoff's Laws (metodo)|Kirchhoff's Laws]], [[Faraday's Law of Induction (metodo)|Faraday's Law of Induction]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -2671,148 +537,33 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-3.
-The voltage across the inductance,
-V
-L
-, appears when the circuit opens, when the current
+**Question no. 3.**
 
-e
-I
-L is determined from the mesh equation (2R
-+
-R
-1
-)I
-L
- V
-L
-=
-0
-)
-V
-L
-=
-3R
-I
-L
-=
-3 (2:5 k
+The voltage across the inductance, $V_L$, just after the circuit is opened, when the current is $I_L$, is determined from the loop equation
 
-)
-(6 mA)
-=
-45
-V
+$$
+(2R + R_1) I_L - V_L = 0 \quad \Rightarrow \quad V_L = 3R \, I_L = 3 \, (2.5 \, \text{k}\Omega) \, (6 \, \text{mA}) = 45 \, \text{V}
+$$
 
-which
+which is greater than the electromotive force of the generator.
 
-is greater than the e.m.f.
-of the generator.
-Observation:
-In the case under examination, with
-R
-2
-=
-2R
-, one has
+Observation: In the case under consideration, with $R_2 = 2R$, it holds that
 
-that
-V
-L
-= (2R
-+
-R
-1
-)
-I
-L
-= (2R
-+
-R
-1
-)
-2R
-2R
-+
-R
-1
-I
-1
-=
-2R
-I
-1
-while it
+$$
+V_L = (2R + R_1) \, I_L = (2R + R_1) \, \frac{2R}{2R + R_1} \, I_1 = 2R \, I_1
+$$
 
-has been seen
+while it has been shown that
 
-that
-E
-=
-2R
-+
-3R
-1
-2R
-+
-R
-1
-R
-I
-1
-The condition on
-R
-1 for which there will be
-V
-L
->
-E at the opening of the circuit
+$$
+\mathcal{E} = \frac{2R + 3R_1}{2R + R_1} \, R I_1
+$$
 
-is given by
-V
-L
-E
-=
-2 (2R
-+
-R
-1
-)
-2R
-+
-3R
-1
->
-1
-)
-R
-1
-<
-2R
-Pag.
-3
-AIF
-{
-Olympiad of
-Physics
-National Competition:
-SOLUTION of the
-Theory
-Test
-{
-Senigallia
-{
-18
-April
-2007
-PROBLEM no.
-3
-{
-What a summer!
-100
-Points
+The condition on $R_1$ for which it will be $V_L > \mathcal{E}$ at the opening of the circuit is given by
+
+$$
+\frac{V_L}{\mathcal{E}} = \frac{2 \, (2R + R_1)}{2R + 3R_1} > 1 \quad \Rightarrow \quad R_1 < 2R
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -2824,163 +575,15 @@ Points
 
 
 
-Quesito
-n.
-1.
-Il
+**PROBLEMA n. 3 – Che caldo quest'estate!** (100 Punti)
 
-usso
-di
-energia
+**Quesito n. 1.**
 
-he
-en
-tra
-nell'appartamen
-to,
-sotto
-forma
-di
- alore,
-p
-er
- onduzione
+Il flusso di energia che entra nell'appartamento, sotto forma di calore, per conduzione è dato da $\Phi_{\text{in}} = K \left( T_{\text{e}} - T \right)$. Il flusso di energia che il condizionatore estrae dall'appartamento è dato da $\Phi_{\text{out}} = \alpha \varepsilon P$ dove $\varepsilon$ è l'efficienza di un frigorifero ideale (cioè di un frigorifero che utilizza il ciclo di Carnot). Dal momento che il condizionatore funziona tra due sorgenti, l'appartamento a temperatura $T$ e l'ambiente esterno a temperatura $T_{\text{e}}$, l'efficienza di un frigorifero di Carnot che funziona tra le stesse sorgenti è data da $\varepsilon = T / (T_{\text{e}} - T)$ per cui, ricomponendo la relazione del flusso in uscita, si ha
 
-e
-dato
-da
-
-in
-=
-K
-(
-T
-e
- T
-).
-Il
-
-usso
-di
-energia
-
-he
-il
- ondizionatore
-estrae
-dall'appartamen
-to
-
-e
-dato
-da
-
-out
-=
-
-"
-P
-do
-v
-e
-"
-
-e
-l'eÆ ienza
-di
-un
-frigorifero
-ideale
-( io
-
-e
-di
-un
-frigorifero
-
-he
-utilizza
-il
- i lo
-di
-Carnot).
-Dal
-momen
-to
-
-he
-il
- ondizionatore
-funziona
-tra
-due
-sorgen
-ti,
-l'appartamen
-to
-a
-temp
-eratura
-T
-e
-l'am
-bien
-te
-esterno
-a
-temp
-eratura
-T
-e
-,
-l'eÆ ienza
-di
-un
-frigorifero
-di
-Carnot
-
-he
-funziona
-tra
-le
-stesse
-sorgen
-ti
-
-e
-data
-da
-"
-=
-T
-=(T
-e
- T
-)
-p
-er
- ui,
-ri omp
-onendo
-la
-relazione
-del
-
-usso
-in
-us ita,
-si
-ha
-
-out
-=
-
-T
-T
-e
- T
-P
+$$
+\Phi_{\text{out}} = \alpha \frac{T}{T_{\text{e}} - T} P
+$$
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -2992,43 +595,15 @@ P
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-1.
-The energy flow entering the apartment, in the form of heat, by conduction is given by
-in
-=
-K (
-T e
- T
-).
-The energy flow that the air conditioner extracts from the apartment is given by
-out
-=
+**PROBLEM no. 3 – What a hot summer this year!** (100 Points)
 
-"
-P where
-"
+**Question no. 1.**
 
-is the efficiency of an ideal refrigerator (that is, of a refrigerator that uses the Carnot cycle).
-Since the air conditioner operates between two sources, the apartment at temperature
-T and the external environment at temperature
-T e
-, the efficiency of a Carnot refrigerator operating between the same sources is given by
-"
-=
-T
-=(T e
- T
-)
-therefore, recomposing the relation for the outgoing flow, we have
+The energy flux entering the apartment, in the form of heat due to conduction, is given by $\Phi_{\text{in}} = K \left( T_{\text{e}} - T \right)$. The energy flux extracted by the air conditioner from the apartment is given by $\Phi_{\text{out}} = \alpha \varepsilon P$, where $\varepsilon$ is the efficiency of an ideal refrigerator (i.e., a refrigerator that uses the Carnot cycle). Since the air conditioner operates between two reservoirs, the apartment at temperature $T$ and the external environment at temperature $T_{\text{e}}$, the efficiency of a Carnot refrigerator operating between the same reservoirs is given by $\varepsilon = T / (T_{\text{e}} - T)$, so that, substituting back into the expression for the outgoing flux, one obtains
 
-out
-=
-
-T
-T e
- T
-P
+$$
+\Phi_{\text{out}} = \alpha \frac{T}{T_{\text{e}} - T} P
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -3040,134 +615,25 @@ P
 
 
 
-Quesito
-n.
-2.
-In
- ondizioni
-stazionarie,
-il
+**Quesito n. 2.**
 
-usso
-in
-ingresso
+In condizioni stazionarie, il flusso in ingresso è uguale al flusso in uscita. Dunque si ha
 
-e
-uguale
-al
+$$
+K \left( T_{\text{e}} - T \right) = \alpha \frac{T}{T_{\text{e}} - T} P
+$$
 
-usso
-in
-us ita.
-Dunque
-si
-ha
-K
-(T
-e
- T
-)
-=
+$$
+K T^2 - \left( 2 K T_{\text{e}} + \alpha P \right) T + K T_{\text{e}}^2 = 0 \quad \Rightarrow \quad T^2 - \left( 2 T_{\text{e}} + \theta \right) T + T_{\text{e}}^2 = 0
+$$
 
-T
-T
-e
- T
-P
-K
-T
-2
- (2K
-T
-e
-+
+con $T_{\text{e}} = 305 \, \text{K}$ e avendo posto $\theta = \alpha P / K = 0.84 \, \text{K}$.
 
-P
-)
-T
-+
-K
-T
-2
-e
-=
-0
-)
-T
-2
- (2T
-e
-+
+$$
+T = \frac{2 T_{\text{e}} + \theta \pm \sqrt{4 T_{\text{e}} \theta + \theta^2}}{2}
+$$
 
-)
-T
-+
-T
-2
-e
-=
-0
- on
-T
-e
-=
-305
-K
-e
-a
-v
-endo
-p
-osto
-
-=
-
-P
-=K
-=
-0:84
-K.
-T
-=
-2
-T
-e
-+
-
-p
-4
-T
-e
-
-+
-
-2
-2
-Delle
-due
-radi i,
-una
-sola
-
-e
-minore
-della
-temp
-eratura
-esterna,
-p
-er
- ui
-si
-ha
-T
-=
-289
-K
-=
-16
-Æ
-C.
+Delle due radici, una sola è minore della temperatura esterna, per cui si ha $T = 289 \, \text{K} = 16^\circ \text{C}$.
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]]
@@ -3179,134 +645,25 @@ C.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
-2.
-In
-Other articles of heading No.
-stationary,
-il
+**Question no. 2.**
 
-the outer
-in
-The entry
+In steady-state conditions, the incoming flux is equal to the outgoing flux. Therefore one has
 
-e
-equal to
-al
+$$
+K \left( T_{\text{e}} - T \right) = \alpha \frac{T}{T_{\text{e}} - T} P
+$$
 
-the outer
-in
-The United States.
-So, what?
-si
-ha
-K
-(T
-e
- T
-)
-=
+$$
+K T^2 - \left( 2 K T_{\text{e}} + \alpha P \right) T + K T_{\text{e}}^2 = 0 \quad \Rightarrow \quad T^2 - \left( 2 T_{\text{e}} + \theta \right) T + T_{\text{e}}^2 = 0
+$$
 
-T
-T
-e
- T
-P
-K
-T
-2
- (2K
-T
-e
-+
+with $T_{\text{e}} = 305 \, \text{K}$ and having set $\theta = \alpha P / K = 0.84 \, \text{K}$.
 
-P
-)
-T
-+
-K
-T
-2
-e
-=
-0
-)
-T
-2
- (2T
-e
-+
+$$
+T = \frac{2 T_{\text{e}} + \theta \pm \sqrt{4 T_{\text{e}} \theta + \theta^2}}{2}
+$$
 
-)
-T
-+
-T
-2
-e
-=
-0
- on
-T
-e
-=
-305
-K
-e
-a
-v
-Other
-p
-Other
-
-=
-
-P
-=K
-=
-0:84
-K.
-T
-=
-2
-T
-e
-+
-
-p
-4
-T
-e
-
-+
-
-2
-2
-Of the following:
-two
-the radius i,
-One of them.
-alone
-
-e
-Minor
-of the
-Temp
-Other
-the external,
-p
-er
- ui
-si
-ha
-T
-=
-289
-K
-=
-16
-Æ
-C.
+Of the two roots, only one is lower than the external temperature, so one has $T = 289 \, \text{K} = 16^\circ \text{C}$.
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]]
@@ -3323,172 +680,31 @@ C.
 
 
 
-Quesito
-n.
-3.
-Quando
-si
-sp
-egne
-il
- ondizionatore
-d'aria
- '
+**Quesito n. 3.**
 
-e
-soltan
-to
-il
+Quando si spegne il condizionatore d'aria c'è soltanto il flusso di energia dall'esterno verso l'interno dell'appartamento. Si ha
 
-usso
-di
-energia
-dall'esterno
-v
-erso
-l'in
-terno
-dell'appartamen
-to.
-Si
-ha
- Q
- t
-=
-K
-(
-T
-e
- T
-(t))
-e
- Q
-=
-C
- T
-Ad
-ogni
-in
-terv
-allo
-di
-temp
-o
- t,
-si
-ha
-una
-v
-ariazione
-di
-temp
-eratura
-data
-da
- T
-=
+$$
+\frac{\Delta Q}{\Delta t} = K \left( T_{\text{e}} - T(t) \right) \quad \text{e} \quad \Delta Q = C \, \Delta T
+$$
 
-(T
-e
- T
-)
- t
-a
-v
-endo
-p
-osto
+Ad ogni intervallo di tempo $\Delta t$, si ha una variazione di temperatura data da
 
-=
-K
-=C
-:
-Con
-questa
-espressione,
-partendo
-dal
-v
-alore
-iniziale
-di
-(T
-e
- T
-),
-si
-p
-ossono
- al olare
- T
-e
-T
-ogni
-15
-min
-uti
-,
- ome
-mostrato
-nella
-seguen
-te
-tab
-ella.
-T
-emp
-o
-t
-[min℄
-T
-e
- T
-(t)
-[
-Æ
-C℄
- T
-[
-Æ
-C℄
-T
-(t)
-[
-Æ
-C℄
-0
-18.0
-15
-14.0
-3.4
-21.4
-30
-10.6
-2.6
-24.0
-45
-8.0
-1.9
-25.9
-60
-6.1
-1.5
-27.4
-La
-temp
-eratura
-(approssimata)
-dell'appartamen
-to
-dop
-o
-un'ora
+$$
+\Delta T = \beta \left( T_{\text{e}} - T \right) \Delta t \quad \text{avendo posto} \quad \beta = K / C \,.
+$$
 
-e
-di
-27:4
-Æ
-C.
+Con questa espressione, partendo dal valore iniziale di $(T_{\text{e}} - T)$, si possono calcolare $\Delta T$ e $T$ ogni 15 minuti, come mostrato nella seguente tabella.
+
+| Tempo $t$ [min] | $T_{\text{e}} - T(t)$ [$^\circ$C] | $\Delta T$ [$^\circ$C] | $T(t)$ [$^\circ$C] |
+|:----------------:|:----------------------------------:|:------------------------:|:--------------------:|
+|        0         |                                    |                          |        18.0          |
+|       15         |               14.0                 |          3.4             |        21.4          |
+|       30         |               10.6                 |          2.6             |        24.0          |
+|       45         |                8.0                 |          1.9             |        25.9          |
+|       60         |                6.1                 |          1.5             |        27.4          |
+
+La temperatura (approssimata) dell'appartamento dopo un'ora è di $27.4^\circ \text{C}$.
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Differential Equations (metodo)|Differential Equations]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -3500,85 +716,31 @@ C.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-3.
-When the air conditioner is turned off
- '
+**Question no. 3.**
 
-and only the
+When the air conditioner is turned off, there is only energy flow from outside to inside the apartment. One has
 
-flow of energy from the outside towards the inside of the apartment.
-We have
- Q t
-=
-K (
-T e
- T (t))
-and
- Q
-=
-C
- T
-At each time interval t, there is a temperature variation given by
- T
-=
+$$
+\frac{\Delta Q}{\Delta t} = K \left( T_{\text{e}} - T(t) \right) \quad \text{and} \quad \Delta Q = C \, \Delta T
+$$
 
-(T e
- T
-)
- t having set
+At each time interval $\Delta t$, the temperature variation is given by
 
-=
-K
-=C
-:
-With this expression, starting from the initial value of (T e
- T
-), one can calculate
- T e
-T every
-15 minutes
-, as shown in the following table.
-Time t
-[min℄
-T e
- T (t)
-[
-Æ
-C℄
- T
-[
-Æ
-C℄
-T (t)
-[
-Æ
-C℄
-0
-18.0
-15
-14.0
-3.4
-21.4
-30
-10.6
-2.6
-24.0
-45
-8.0
-1.9
-25.9
-60
-6.1
-1.5
-27.4
-La temp eratura (approssimata)
-dell'appartamen to dop o un'ora
+$$
+\Delta T = \beta \left( T_{\text{e}} - T \right) \Delta t \quad \text{having set} \quad \beta = K / C \,.
+$$
 
-e di
-27:4
-Æ
-C.
+With this expression, starting from the initial value of $(T_{\text{e}} - T)$, $\Delta T$ and $T$ can be calculated every 15 minutes, as shown in the following table.
+
+| Time $t$ [min] | $T_{\text{e}} - T(t)$ [$^\circ$C] | $\Delta T$ [$^\circ$C] | $T(t)$ [$^\circ$C] |
+|:----------------:|:----------------------------------:|:------------------------:|:--------------------:|
+|        0         |                                    |                          |        18.0          |
+|       15         |               14.0                 |          3.4             |        21.4          |
+|       30         |               10.6                 |          2.6             |        24.0          |
+|       45         |                8.0                 |          1.9             |        25.9          |
+|       60         |                6.1                 |          1.5             |        27.4          |
+
+The (approximate) temperature of the apartment after one hour is $27.4^\circ \text{C}$.
 
 **Soluzione:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -3590,200 +752,27 @@ C.
 
 
 
-Quesito
-n.
-4.
-Si
- onsiderino
-due
-termini
- onse utivi
-della
-su essione:
-F
-k
-=
-T
-e
- T
-(t
-k
-)
-e
-il
-seguen
-te
-F
-k
-+1
-=
-T
-e
- T
-(t
-k
-+1
-)
-Op
-erando
- ome
-sopra,
-si
-pu
-o
-s riv
-ere
+**Quesito n. 4.**
 
-he
-T
-(t
-k
-+1
-)
- T
-(t
-k
-)
-=
- T
-=
+Si considerino due termini consecutivi della successione: $F_k = T_{\text{e}} - T(t_k)$ e il seguente $F_{k+1} = T_{\text{e}} - T(t_{k+1})$
 
-[T
-e
- T
-(t
-k
-)℄
- t
-o
-vv
-ero,
-sostituendo
-in
-termini
-di
-F
-k
-e
-F
-k
-+1
-(T
-e
- F
-k
-+1
-)
- (T
-e
- F
-k
-)
-=
-F
-k
- F
-k
-+1
-=
+Operando come sopra, si può scrivere che
 
-F
-k
- t
-)
-F
-k
-+1
-=
-(1
+$$
+T(t_{k+1}) - T(t_k) = \Delta T = \beta \left[ T_{\text{e}} - T(t_k) \right] \Delta t
+$$
 
- t)
-F
-k
-)
-F
-k
-+1
-F
-k
-=
-1
+ovvero, sostituendo in termini di $F_k$ e $F_{k+1}$
 
- t
-P
-ag.
-4
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-18
-Ap
-rile
-2007
-La
-su essione
-F
-k
+$$
+(T_{\text{e}} - F_{k+1}) - (T_{\text{e}} - F_k) = F_k - F_{k+1} = \beta F_k \Delta t \quad \Rightarrow \quad F_{k+1} = (1 - \beta \Delta t) F_k \quad \Rightarrow \quad \frac{F_{k+1}}{F_k} = 1 - \beta \Delta t
+$$
 
-e
-quindi
-una
-progressione
-geometri a
-di
-ragione
-(
-1
+La successione $F_k$ è quindi una progressione geometrica di ragione $(1 - \beta \Delta t)$ per cui
 
- t)
-p
-er
- ui
-F
-(t
-k
-)
-=
-F
-(t
-0
-)
-(1
-
- t)
-k
-)
-T
-e
- T
-(t
-k
-)
-=
-(T
-e
- T
-0
-)
-(
-1
-
- t)
-k
+$$
+F(t_k) = F(t_0) (1 - \beta \Delta t)^k \quad \Rightarrow \quad T_e - T(t_k) = (T_e - T_0) (1 - \beta \Delta t)^k
+$$
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -3795,200 +784,27 @@ k
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question No
-n.
-4.
-Si
-Other, not further worked than cutting
-two
-the terms
-Useful
-of the
-by way of derogation:
-F
-k
-=
-T
-e
- T
-(t
-k
-)
-e
-il
-following
-te
-F
-k
-+1
-=
-T
-e
- T
-(t
-k
-+1
-)
-Op
-by the time
-human beings
-above,
-si
-pu
-o
-The following is the list of the
-The Commission
+**Question no. 4.**
 
-he
-T
-(t
-k
-+1
-)
- T
-(t
-k
-)
-=
- T
-=
+Consider two consecutive terms of the sequence: $F_k = T_{\text{e}} - T(t_k)$ and the following one $F_{k+1} = T_{\text{e}} - T(t_{k+1})$
 
-[T
-e
- T
-(t
-k
-)℄
- t
-o
-vv
-I was,
-by replacing
-in
-the terms
-di
-F
-k
-e
-F
-k
-+1
-(T
-e
- F
-k
-+1
-)
- (T
-e
- F
-k
-)
-=
-F
-k
- F
-k
-+1
-=
+Proceeding as above, one can write that
 
-F
-k
- t
-)
-F
-k
-+1
-=
-(1
+$$
+T(t_{k+1}) - T(t_k) = \Delta T = \beta \left[ T_{\text{e}} - T(t_k) \right] \Delta t
+$$
 
- t)
-F
-k
-)
-F
-k
-+1
-F
-k
-=
-1
+that is, substituting in terms of $F_k$ and $F_{k+1}$
 
- t
-P
-ag.
-4
-The following information is provided:
-{
-The Olympics
-di
-The following is a list of
-Ga
-ra
-National team:
-The Commission
-of the
-Try it .
-T
-eo
-ri a
-{
-The following is the list of countries:
-{
-18
-Ap
-Reels
-2007
-La
-on exemption
-F
-k
+$$
+(T_{\text{e}} - F_{k+1}) - (T_{\text{e}} - F_k) = F_k - F_{k+1} = \beta F_k \Delta t \quad \Rightarrow \quad F_{k+1} = (1 - \beta \Delta t) F_k \quad \Rightarrow \quad \frac{F_{k+1}}{F_k} = 1 - \beta \Delta t
+$$
 
-e
-So, what do you mean?
-One of them.
-The following is the list of the following:
-Geometers a
-di
-Right
-(
-1
+The sequence $F_k$ is therefore a geometric progression with ratio $(1 - \beta \Delta t)$, so that
 
- t)
-p
-er
- ui
-F
-(t
-k
-)
-=
-F
-(t
-0
-)
-(1
-
- t)
-k
-)
-T
-e
- T
-(t
-k
-)
-=
-(T
-e
- T
-0
-)
-(
-1
-
- t)
-k
+$$
+F(t_k) = F(t_0) (1 - \beta \Delta t)^k \quad \Rightarrow \quad T_e - T(t_k) = (T_e - T_0) (1 - \beta \Delta t)^k
+$$
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -4005,146 +821,21 @@ k
 
 
 
-Quesito
-n.
-5.
-Si
-p
-one
-adesso
- t
-=
-t=n
-e
-dop
-o
-n
-in remen
-ti
-temp
-orali,
- io
+**Quesito n. 5.**
 
-e
-al
-temp
-o
-t
-si
-ha
-F
-(t
-n
-)
-=
-T
-e
- T
-(t
-n
-)
-=
-(T
-e
- T
-0
-)
+Si pone adesso $\Delta t = t/n$ e dopo $n$ incrementi temporali, cioè al tempo $t$ si ha
 
-1
+$$
+F(t_n) = T_e - T(t_n) = (T_e - T_0) \left(1 - \frac{\beta t}{n}\right)^n
+$$
 
-t
-n
+Per $n \to \infty$ posto $x = -\frac{n}{\beta t}$ si ha che $x \to -\infty$, e ci si riconduce al *limite notevole* $\lim_{x \to -\infty} \left(1 + \frac{1}{x}\right)^x = e$.
 
-n
-P
-er
-n
-!
-1
-p
-osto
-x
-=
- n
-
-t
-si
-ha
-
-he
-x
-!
- 1,
-e
- i
-si
-ri ondu e
-al
-limite
-notev
-ole
-lim
-x! 1
-
-1
-+
-1
-x
-
-x
-=
-e
-:
 Infatti
-F
-(t)
-=
-T
-e
- T
-(t)
-=
-lim
-x! 1
-(T
-e
- T
-0
-)
 
-1
-+
-1
-x
-
-t
-x
-=
-(T
-e
- T
-0
-)
-lim
-x! 1
-
-1
-+
-1
-x
-
-x
-
-t
-=
-(T
-e
- T
-0
-)
-e
-
-t
+$$
+F(t) = T_e - T(t) = \lim_{x \to -\infty} (T_e - T_0) \left(1 + \frac{1}{x}\right)^{-\beta t\, x} = (T_e - T_0) \lim_{x \to -\infty} \left[\left(1 + \frac{1}{x}\right)^x\right]^{-\beta t} = (T_e - T_0)\, e^{-\beta t}
+$$
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]], [[Calculus-Integration (metodo)|Calculus-Integration]]
@@ -4156,81 +847,21 @@ t
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-5.
-Assume now t
-= t=n and after n time intervals, and
+**Question no. 5.**
 
-at time t we have
-F (t n
-)
-=
-T e
- T (t n
-)
-= (T e
- T
-0
-)
+One now sets $\Delta t = t/n$ and after $n$ time increments, that is at time $t$, one obtains
 
-1
+$$
+F(t_n) = T_e - T(t_n) = (T_e - T_0) \left(1 - \frac{\beta t}{n}\right)^n
+$$
 
-t n
+For $n \to \infty$, setting $x = -\frac{n}{\beta t}$, one has that $x \to -\infty$, and one reduces to the *well-known limit* $\lim_{x \to -\infty} \left(1 + \frac{1}{x}\right)^x = e$.
 
-n
-For n
-!
-1 set x
-= n
-
-t we have
-
-that x
-!
- 1, and we reduce to the notable limit lim x! 1
-
-1
-+
-1 x
-
-x
-= e
-:
 Indeed
-F (t)
-=
-T e
- T (t)
-= lim x! 1 (T e
- T
-0
-)
 
-1
-+
-1 x
-
-t x
-= (T e
- T
-0
-)
-lim x! 1
-
-1
-+
-1 x
-
-x
-
-t
-= (T e
- T
-0
-)
-e
-
-t
+$$
+F(t) = T_e - T(t) = \lim_{x \to -\infty} (T_e - T_0) \left(1 + \frac{1}{x}\right)^{-\beta t\, x} = (T_e - T_0) \lim_{x \to -\infty} \left[\left(1 + \frac{1}{x}\right)^x\right]^{-\beta t} = (T_e - T_0)\, e^{-\beta t}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -4242,84 +873,15 @@ t
 
 
 
-Quesito
-n.
-6.
-Il
-temp
-o
- aratteristi o
-del
-pro
- esso
+**Quesito n. 6.**
 
-e
-dato
-dalla
- ostan
-te
-temp
-o
+Il tempo caratteristico del processo è dato dalla costante tempo $\tau = 1/\beta = C/K = 3.7 \times 10^3$ s.
 
-=
-1=
+La temperatura dell'appartamento dopo un'ora (ovvero per $t = 3600$ s) risulta quindi
 
-=
-C
-=K
-=
-3:7
-
-10
-3
-s.
-La
-temp
-eratura
-dell'appartamen
-to
-dop
-o
-un'ora
-(o
-vv
-ero
-p
-er
-t
-=
-3600
-s)
-risulta
-quindi
-T
-(t)
-=
-T
-e
- (T
-e
- T
-0
-)
-e
- t=
-
-=
-26:7
-Æ
-C
-PROBLEMA
-n.
-4
-{
-Una
-misura
-al
-volo.
-50
-Pun
-ti
+$$
+T(t) = T_e - (T_e - T_0)\, e^{-t/\tau} = 26.7^\circ\text{C}
+$$
 
 **Topic:** [[Thermodynamics]], [[Conservation of Energy]]
 **Metodi:** [[Differential Equations (metodo)|Differential Equations]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -4331,45 +893,15 @@ ti
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-6.
-The characteristic time of the process
+**Question no. 6.**
 
-is given by the time constant
+The characteristic time of the process is given by the time constant $\tau = 1/\beta = C/K = 3.7 \times 10^3$ s.
 
-=
-1=
+The temperature of the apartment after one hour (i.e., for $t = 3600$ s) therefore results in
 
-=
-C
-=K
-=
-3:7
-
-10
-3 s.
-The temperature of the apartment after one hour (that is, for t
-=
-3600 s)
-is therefore
-T (t)
-=
-T e (T e
- T
-0
-)
-e t=
-
-=
-26:7
-Æ
-C
-PROBLEM no.
-4
-{
-A measurement on the fly.
-50
-points
+$$
+T(t) = T_e - (T_e - T_0)\, e^{-t/\tau} = 26.7^\circ\text{C}
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -4381,116 +913,17 @@ points
 
 
 
-Quesito
-n.
-1.
-P
-oi
-h
+**PROBLEMA n. 4 – Una misura al volo.** (50 Punti)
 
-e
-il
- amp
-o
-elettri o
+**Quesito n. 1.**
 
-e
-uniforme,
-la
-forza
+Poiché il campo elettrico è uniforme, la forza che agisce su un elettrone (o su uno ione) è costante, di modulo pari a $eE$; inoltre il moto avviene nella direzione e nel verso del campo. In un generico istante $t < t_e$ ciascun elettrone avrà percorso una distanza $v_e t$. Ne segue che il lavoro fatto su un singolo elettrone, in funzione del tempo, risulta:
 
-he
-agis e
-su
-un
-elettrone
-(o
-su
-uno
-ione)
+$$
+\mathcal{L}_e = eE v_e t
+$$
 
-e
- ostan
-te,
-di
-mo
-dulo
-pari
-a
-eE
-;
-inoltre
-il
-moto
-a
-vviene
-nella
-direzione
-e
-nel
-v
-erso
-del
- amp
-o.
-In
-un
-generi o
-istan
-te
-t
-<
-t
-e
- ias un
-elettrone
-a
-vr
-a
-p
-er orso
-una
-distanza
-v
-e
-t.
-Ne
-segue
-
-he
-il
-la
-v
-oro
-fatto
-su
-un
-singolo
-elettrone,
-in
-funzione
-del
-temp
-o,
-risulta:
-L
-e
-=
-eE
-v
-e
-t
-Un'espressione
-analoga
-v
-ale
-o
-vviamen
-te
-p
-er
-gli
-ioni.
+Un'espressione analoga vale ovviamente per gli ioni.
 
 **Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -4502,20 +935,17 @@ ioni.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-1.
-Since the electric field is uniform, the force acting on an electron (or on an ion) is constant, with magnitude equal to eE
-;
-moreover, the motion takes place in the direction and sense of the field.
-At a generic instant t
-<
-t each electron will have traveled a distance v e t.
-It follows
+**PROBLEM no. 4 – A flight measurement.** (50 Points)
 
-that the work done on a single electron, as a function of time, is:
-L e
-= eE v e t
-An analogous expression obviously holds for the ions.
+**Question no. 1.**
+
+Since the electric field is uniform, the force acting on an electron (or on an ion) is constant and has a magnitude equal to $eE$; furthermore, the motion occurs in the direction and sense of the field. At a generic time $t < t_e$, each electron will have traveled a distance $v_e t$. It follows that the work done on a single electron, as a function of time, is:
+
+$$
+\mathcal{L}_e = eE v_e t
+$$
+
+An analogous expression clearly holds for the ions.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -4527,207 +957,29 @@ An analogous expression obviously holds for the ions.
 
 
 
-Quesito
-n.
-2.
-P
-oi
-h
+**Quesito n. 2.**
 
-e
-il
-riv
-elatore
-pu
-o
-essere
- onsiderato
- ome
-un
- ondensatore
-isolato,
-l'energia
-o
- orren
-te
-p
-er
-far
-migrare
-elettroni
-e
-ioni
-viene
-prelev
-ata
-da
-quella
-immagazzinata
-nel
- ondensatore.
-P
-otremo
-dunque
-s riv
-ere:
-1
-2
-C
-V
-2
-0
-=
-N
-eE
-v
-i
-t
-+
-N
-eE
-v
-e
-t
-+
-1
-2
-C
-V
-2
+Poiché il rivelatore può essere considerato come un condensatore isolato, l'energia occorrente per far migrare elettroni e ioni viene prelevata da quella immagazzinata nel condensatore. Potremo dunque scrivere:
 
-Da
-qui:
-1
-2
-C
-(V
-2
-0
- V
-2
+$$
+\frac{1}{2} C V_0^2 = N e E v_i t + N e E v_e t + \frac{1}{2} C V_c^2
+$$
 
-)
-=
-N
-eE
-(v
-i
-+
-v
-e
-)
-t
-1
-2
-C
-(V
-0
-+
-V
+Da qui:
 
-)(V
-0
- V
+$$
+\frac{1}{2} C (V_0^2 - V_c^2) = N e E (v_i + v_e) t
+$$
 
-)
-=
-1
-2
-C
-(V
-0
-+
-V
+$$
+\frac{1}{2} C (V_0 + V_c)(V_0 - V_c) = \frac{1}{2} C (V_0 + V_c)\, V(t) = N e \frac{V_c}{d} (v_i + v_e) t
+$$
 
-)
-V
-(t)
-=
-N
-e
-V
+Poiché il segnale $V(t)$ è molto minore di $V_0$, potremo porre, con buona approssimazione, $V_c = V_0$ nell'espressione precedente, ottenendo infine:
 
-d
-(v
-i
-+
-v
-e
-)
-t
-P
-oi
-h
-
-e
-il
-segnale
-V
-(t)
-
-e
-molto
-minore
-di
-V
-0
-,
-p
-otremo
-p
-orre,
- on
-buona
-approssimazione,
-V
-
-=
-V
-0
-nell'espressione
-pre eden
-te,
-ottenendo
-in
-ne:
-V
-(t)
-=
-N
-e
-C
-d
-(v
-i
-+
-v
-e
-)
-t
-P
-ag.
-5
-AIF
-{
-Olimpiadi
-di
-Fisi a
-Ga
-ra
-Nazionale:
-SOLUZIONE
-della
-Prova
-T
-eo
-ri a
-{
-Senigallia
-{
-18
-Ap
-rile
-2007
+$$
+V(t) = \frac{N e}{C d} (v_i + v_e)\, t
+$$
 
 **Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Electric Potential Method (metodo)|Electric Potential Method]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -4739,107 +991,29 @@ rile
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-2.
-Since the detector can be considered as an isolated capacitor, the energy or current needed to make electrons and ions migrate is drawn from that stored in the capacitor.
-We can therefore write:
-1
-2
-C
-V
-2
-0
-=
-N eE v i t
-+
-N eE v e t
-+
-1
-2
-C
-V
-2
+**Question no. 2.**
 
-From here:
-1
-2
-C (V
-2
-0
- V
-2
+Since the detector can be considered as an isolated capacitor, the energy required to move electrons and ions is drawn from that stored in the capacitor. We can therefore write:
 
-)
-=
-N eE (v i
-+ v e
-)
-t
-1
-2
-C (V
-0
-+
-V
+$$
+\frac{1}{2} C V_0^2 = N e E v_i t + N e E v_e t + \frac{1}{2} C V_c^2
+$$
 
-)(V
-0
- V
+From this:
 
-)
-=
-1
-2
-C (V
-0
-+
-V
+$$
+\frac{1}{2} C (V_0^2 - V_c^2) = N e E (v_i + v_e) t
+$$
 
-)
-V (t)
-=
-N e
-V
+$$
+\frac{1}{2} C (V_0 + V_c)(V_0 - V_c) = \frac{1}{2} C (V_0 + V_c)\, V(t) = N e \frac{V_c}{d} (v_i + v_e) t
+$$
 
-d (v i
-+ v e
-)
-t
-Since the signal
-V (t)
+Since the signal $V(t)$ is much smaller than $V_0$, we can approximate, with good accuracy, $V_c = V_0$ in the previous expression, obtaining finally:
 
-is much smaller than
-V
-0
-, we can set, with good approximation,
-V
-
-=
-V
-0 in the previous expression, finally obtaining:
-V (t)
-=
-N e
-C d (v i
-+ v e
-)
-t
-Pag.
-5
-AIF
-{
-Olympiad of
-Physics
-National Competition:
-SOLUTION of the
-Theory
-Test
-{
-Senigallia
-{
-18
-April
-2007
+$$
+V(t) = \frac{N e}{C d} (v_i + v_e)\, t
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -4851,60 +1025,13 @@ April
 
 
 
-Quesito
-n.
-3.
-Nell'istan
-te
-t
-e
-=
-x=v
-e
-gli
-elettroni
-raggiungono
-l'ano
-do,
-e
-da
-quel
-momen
-to
-in
-p
-oi
-non
-assorb
-ono
-pi
+**Quesito n. 3.**
 
-u
-energia.
-Il
-segnale
-V
- res e
-an ora,
-ma
- on
-tribuis ono
-solamen
-te
-gli
-ioni:
-V
-(t)
-=
-N
-e
-C
-d
-(v
-i
-t
-+
-x)
+Nell'istante $t_e = x/v_e$ gli elettroni raggiungono l'anodo, e da quel momento in poi non assorbono più energia. Il segnale $V$ cresce ancora, ma contribuiscono solamente gli ioni:
+
+$$
+V(t) = \frac{Ne}{Cd}(v_i t + x)
+$$
 
 **Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Kinematic Equations (metodo)|Kinematic Equations]], [[Physical Modeling (metodo)|Physical Modeling]], [[Energy Conservation Method (metodo)|Energy Conservation Method]]
@@ -4916,19 +1043,13 @@ x)
 
 <div class="qlang-split" data-lang="en"></div>
 
-Problem no.
-3.
-At the instant t
-= x=v the electrons reach the anode, and from that moment on they no longer absorb any
+**Question no. 3.**
 
-energy.
-The signal
-V remains as before, but now only the ions contribute:
-V (t)
-=
-N e
-C d (v i t
-+ x)
+At the instant $t_e = x/v_e$ electrons reach the anode, and from that moment onward they no longer absorb energy. The signal $V$ continues to increase, but only the ions contribute:
+
+$$
+V(t) = \frac{Ne}{Cd}(v_i t + x)
+$$
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -4940,145 +1061,17 @@ C d (v i t
 
 
 
-Quesito
-n.
-4.
-All'istan
-te
-t
-i
-=
-(d
- x)=v
-i
-gli
-ioni
-raggiungono
-il
- ato
-do.
-A
-quel
-pun
-to
-il
-segnale
-div
-en
-ta:
-V
-(t)
-=
-N
-e
-C
-d
-(d
- x
-+
-x)
-=
-N
-e
-C
-Come
-si
-pu
-o
-v
-edere,
-il
-v
-alore
+**Quesito n. 4.**
 
-nale
-dip
-ende
-solamen
-te
-dalla
- apa it
-a
-del
- ondensatore
-e
-dal
-n
-umero
-di
- oppie
-elettroni{ioni
-pro
-dotte
-dal
-passaggio
-della
-parti ella
-ionizzan
-te.
-Si
-noti
+All'istante $t_i = (d - x)/v_i$ gli ioni raggiungono il catodo. A quel punto il segnale diventa:
 
-he
-a
-questo
-risultato
-si
-pu
-o
-arriv
-are
-molto
-fa ilmen
-te
-osserv
-ando
+$$
+V(t) = \frac{Ne}{Cd}(d - x + x) = \frac{Ne}{C}
+$$
 
-he,
-dop
-o
+Come si può vedere, il valore finale dipende solamente dalla capacità del condensatore e dal numero di coppie elettroni-ioni prodotte dal passaggio della particella ionizzante.
 
-he
-tutta
-la
- ari a
-\pro
-dotta"
-dalla
-ionizzazione,
-
-e
-stata
-ra olta,
-la
- ari a
-sulle
-armature
-dimin
-uis e
-di
-una
-quan
-tit
-a
-N
-e,
-e
-il
-p
-otenziale
-V
-0
-dimin
-uis e
-di
-una
-quan
-tit
-a
-N
-e=C
-.
+Si noti che a questo risultato si può arrivare molto facilmente osservando che, dopo che tutta la carica “prodotta” dalla ionizzazione, è stata raccolta, la carica sulle armature diminuisce di una quantità $Ne$, e il potenziale $V_0$ diminuisce di una quantità $Ne/C$.
 
 **Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Electric Potential Method (metodo)|Electric Potential Method]], [[Physical Modeling (metodo)|Physical Modeling]], [[Conservation Laws (metodo)|Conservation Laws]]
@@ -5090,37 +1083,17 @@ e=C
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-4.
-At the instant t i
-= (d x)=v i the ions reach the plate.
-At that point the signal becomes:
-V (t)
-=
-N e
-C d (d x
-+ x)
-=
-N e
-C
-As can be seen, the value
+**Question no. 4.**
 
-signal depends only on the capacitance of the capacitor and on the number of electron{ion pairs produced by the passage of the ionizing particle.
-Note
+At the instant $t_i = (d - x)/v_i$ the ions reach the cathode. At that point, the signal becomes:
 
-that this result can be arrived at very easily by observing
+$$
+V(t) = \frac{Ne}{Cd}(d - x + x) = \frac{Ne}{C}
+$$
 
-that, after
+As can be seen, the final value depends only on the capacitance of the capacitor and on the number of electron-ion pairs produced by the passage of the ionizing particle.
 
-all the charge
-\produced" by the ionization,
-
-has been collected, the charge on the plates decreases by an amount
-N e, and the potential
-V
-0 decreases by an amount
-N e=C
-.
+Note that this result can be reached very easily by observing that, after all the charge “produced” by ionization has been collected, the charge on the plates decreases by an amount $Ne$, and the potential $V_0$ decreases by an amount $Ne/C$.
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -5132,55 +1105,18 @@ N e=C
 
 
 
-Quesito
-n.
-5.
-Il
-gra
- o
-qualitativ
-o
-del
-segnale
-ra olto
-dal
-riv
-elatore
-risulta
-allora:
-Materiale
-pro
-dotto
-dal
-grupp
-o
-OLIMPIADI
-PROGETTO
-PROGETTO
-OLIMPIADI
-Segreteria
-Olimpiadi
-Italiane
-della
-Fisi a
-p
-resso
-Li eo
-S ienti
- o
-\U.
-Mo
-rin"
-VENEZIA
-MESTRE
-fax:
-041.584.1272
-e-mail:
-olifis libero.i
-t
-P
-ag.
-6
+**Quesito n. 5.**
+
+Il grafico qualitativo del segnale raccolto dal rivelatore risulta allora:
+
+*(figura nel PDF originale)*
+Materiale prodotto dal gruppo
+
+Segreteria Olimpiadi Italiane della Fisica
+presso Liceo Scientifico “U. Morin”
+VENEZIA MESTRE
+fax: 041.584.1272
+e-mail: olifis@libero.it
 
 **Topic:** [[Electrostatics]], [[Modern-Quantum Physics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -5192,25 +1128,17 @@ ag.
 
 <div class="qlang-split" data-lang="en"></div>
 
-Question no.
-5.
-The qualitative graph of the signal detected by the detector is then:
+**Question no. 5.**
+
+The qualitative graph of the signal collected by the detector then becomes:
+
+*(figure in the original PDF)*
 Material produced by the group
-OLYMPIADS
-PROJECT
-PROJECT
-OLYMPIADS
-Secretariat
-Italian Olympiads
-of Physics at
-Scientific High School
-\U.
-Morin"
-VENICE
-MESTRE fax:
-041.584.1272 e-mail:
-olifis libero.it
-Pag.
-6
+
+Secretariat of the Italian Physics Olympiad  
+located at Liceo Scientifico “U. Morin”  
+VENEZIA MESTRE  
+fax: 041.584.1272  
+e-mail: olifis@libero.it
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)

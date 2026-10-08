@@ -1,5 +1,5 @@
 ---
-title: Russia 2020
+title: Azerbaijan 2020
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2020 — Quesito 1" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Azerbaijan 2020 — Quesito 1" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,7 +122,7 @@ In seguito alla sua rotta in campo B
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2020 — Quesito 2" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Azerbaijan 2020 — Quesito 2" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -251,7 +251,7 @@ in termini di $\alpha$, h, L e v.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2020 — Quesito 3" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/mirror"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Azerbaijan 2020 — Quesito 3" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/mirror"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -284,7 +284,7 @@ i vettori sono paralleli).
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2020 — Quesito 4" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/gas"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Azerbaijan 2020 — Quesito 4" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -329,7 +329,7 @@ Trova l'efficienza di questo ciclo.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2020 — Quesito 5" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Azerbaijan 2020 — Quesito 5" data-tags="kg/prova,paese/Azerbaijan,comp/Azerbaijan,cluster/Elettromagnetismo,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

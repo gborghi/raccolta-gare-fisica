@@ -1,5 +1,5 @@
 ---
-title: Russia 2011
+title: Brazil 2011
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2011 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/sphere,object/rod,object/rope-string"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Brazil 2011 — Quesito 1" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/sphere,object/rod,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -102,7 +102,7 @@ Sfera che colpisce barra appesa, angolo
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2011 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/sphere,object/point-charge"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Brazil 2011 — Quesito 2" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/sphere,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -260,7 +260,7 @@ Osservazione: Campo vettoriale espresso nel sistema cartesiano:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2011 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/photon"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Brazil 2011 — Quesito 3" data-tags="kg/prova,paese/Brazil,comp/Brazil,cluster/Meccanica,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

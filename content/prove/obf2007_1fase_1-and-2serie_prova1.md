@@ -600,7 +600,7 @@ $$ma = F_{\text{Motor Híbrido}} + F_{\text{atrito}} + F_{\text{ar}}$$
 
 La resistenza all'aria $F_{\text{ar}}$ ha il fattore $\tfrac{1}{4}$ nelle costanti semplificate, e è proporzionale a $A v^2$ (dove $A$ è l'area virtuale frontale e $v$ la velocità).
 
-**Questão 8**
+**Quesito 8**
 
 Considere, por simplicidade, que o Prius tem uma área $A$ virtual de 3 m². Supponiamo di aumentare la sua velocità da 20 m/s a 40 m/s. In questo contesto, la forza di resistenza all'aria sarà aumentata a:
 
@@ -624,7 +624,7 @@ $$ma = F_{\text{Motor Híbrido}} + F_{\text{atrito}} + F_{\text{ar}}$$
 
 The air resistance force $F_{\text{ar}}$ has the factor $\tfrac{1}{4}$ in the simplified constants, and is proportional to $A v^2$ (where $A$ is the frontal virtual area and $v$ the speed).
 
-**Questão 8**
+**Question 8**
 
 Considere, por simplicidade, que o Prius tem uma área $A$ virtual de 3 m². Suppose we increase its speed from 20 m/s to 40 m/s. In this context, the air resistance force shall be increased by:
 
@@ -996,7 +996,7 @@ Un'auto sta saliendo a velocità costante su un inclinato inclinato $\theta$, us
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Questão 14**
+**Question 14**
 
 Um automóvel está subindo com velocidade constante uma ladeira íngreme de inclinação $\theta$, usando o MCI e o MEG. Disregarding dissipative forces, what is the value of the motor force of the car on the wheels due to slope slope?
 
@@ -1301,7 +1301,7 @@ Um dos aspectos de direção de curvas que gostaríamos de chamar atenção é q
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questão 19**
+**Quesito 19**
 
 Uno degli aspetti della direzione delle curve che vorremmo richiamare l'attenzione è che, per evitare squilibri quando si entra in curva a grande velocità, si costruiscono curve inclinate (peralte). Digam qual é a expressão da força centrípeta devido à inclinação $\theta$ da curva?
 
@@ -1319,7 +1319,7 @@ Uno degli aspetti della direzione delle curve che vorremmo richiamare l'attenzio
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Questão 19**
+**Question 19**
 
 One of the aspects of curve direction that we would like to draw attention to is that to avoid imbalances when entering the curve at too high speed, slanted curves (beams) are constructed. Digam qual é a expressão da força centrípeta devido à inclinação $\theta$ da curva?
 
@@ -1589,7 +1589,7 @@ Em relação a estas afirmativas dizemos que:
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Questão 23**
+**Quesito 23**
 
 Nel testo 5 abbiamo imparato come funzionano i quattro tempi del ciclo reale Otto. È comune semplificare questo ciclo in modo che il processo di combustione si svolga a volume costante ($3 \to 4$), seguita da un'espansione ($4 \to 5$) e le fasi di esaurimento anche a volume costante ($5 \to 6$), seguite da un'altra compressione ($6 \to 1$) con la stessa pressione del tempo di ammissione ($1 \to 2$). Inoltre, si suppone che le fasi di compressione ($2 \to 3$) e di espansione ($4 \to 5$) siano adiabatiche, cioè il processo è così veloce che non vi è scambio di calore con l'ambiente. Questi procedimenti sono anche chiamati:
 
@@ -1615,7 +1615,7 @@ In relazione a queste affermazioni, diciamo che:
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Questão 23**
+**Question 23**
 
 In text 5, we learn how the four times of the real Otto cycle work. It is common to simplify this cycle so that the combustion process occurs at a constant volume ($3 \to 4$), followed by an expansion ($4 \to 5$) and the exhaust phases also at a constant volume ($5 \to 6$), followed by another compression ($6 \to 1$) with the same pressure as the intake time ($1 \to 2$). In addition, the compression ($2 \to 3$) and expansion ($4 \to 5$) phases are assumed to be adiabatic, i.e. the process is so fast that there is no heat exchange with the environment. These processes are also called:
 

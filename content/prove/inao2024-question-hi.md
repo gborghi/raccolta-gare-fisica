@@ -15,92 +15,68 @@ tags:
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="INAO 2024 — Quesito 1" data-tags="kg/prova,paese/India,comp/INAO,cluster/Onde e Oscillazioni,object/planet,object/star,object/satellite"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="hi"></div>
 
 
 
-1. िनम्नǺलǺखतप्रत्येकउप-प्रश्नोंकासं˃क्षप्तऔरउ˃चततकर्केसाथउत्तरदें।
-(a) (2 marks) १७जुलाई२०२३कोसूयार्स्तकेतुरंतबाद, फा˃तमानेप˃श्चमी˃क्ष˃तजकेबहुतिनकटएक
-आकाशीयिंपडकोअपनीआँखोंसे(िबनािकसीउपकरणके) देखा।उसनेप्र˃तिदनउसीसमयपर४ʹसतम्बर
-२०२३तकउसीिंपडकाअवलोकनजारीरखा।उसनेिनम्नǺलǺखतअवलोकनिकए-
-• १७जुलाईसेसूयर्सेिंपडकɃ दूरीबढ़नेलगतीहै।
-• ११अगस्तकेबादसूयर्सेिंपडकɃ दूरीघटनेलगतीहै।
-• उसनेयहभीदेखािकउसपूरेवषर्सूयार्स्तकेसमययहिंपडकभीभीआकाशमेंठीकऊपर(zenith के
-पास) नहींिदखा।
-अगरवहखगोलीयिंपडधूमकेतुनहीहै, िकसीएकऐसेिंपडकानामबताएंजोफा˃तमाद्वारािकयेगएइन
-अवलोकनोंकेिवचारसेउपयुक्तहों।
-(b) (2 marks) नीचेिदयेहुएछिवमें, आपउज्जैनशहरसेिकसीएकिदनप˃श्चमी˃क्ष˃तजकेऊपरसूयर्कोदेख
-सकतेहैं।छिवमेंक्रां˃तवृत्त(एिक्लȥप्टक, ecliptic), नक्षत्रीयिवषुवत(सेलेȥस्टयलइक्वेटर, celestial equator)
-औरप˃श्चमिदशासूचकिंबदु(W) ˃चिह्नतहैं।छिवपर˃चिह्नतपथों(1 से6) मेंसेकौनसापथउसिदन˃क्ष˃तज
-कɃ ओरजातेसमयसूयर्द्वाराअनुसरणिकएजानेवालेपथकोसबसेअ˃धकिनकटतासेदशार्ताहै।
-W
-Ecliptic
-Celestial Equator
-2
-3
-4
-5
-6
-1
-(c) (2 marks) तीनपयर्वेक्षकA, B औरC क्रमशःचंद्रमा, शुक्रऔरमंगलपरȥस्थतहैं।इनपयर्वेक्षकोंमेंसेकौनसे
-पयर्वेक्षकपृथ्वीकɃ लगभगसभीकलाएँदेखसकतेहैं- अमावस्यासमानपृथ्वीकɃ कला(पृथ्वीिदखाईनदें),
-चंद्रकोरी(crescent) जैसीपृथ्वीकɃ कला, आधीपृथ्वीकɃ कला, िगब्बस(gibbous) पृथ्वीकɃ कलाआिद।
-(d) (4 marks) एकिकसीतारेकोएकपूरेिदनकेǺलयेहमेशा˃क्ष˃तजकेऊपरपायागया।इसअव˃धकेदौरान
-इसकɃ ˃क्षतीजसेअ˃धकतमऊँचाई $50^\circ$ औरन्यूनतमऊँचाई $20^\circ$ थी।अवलोकनकेस्थानका/केअक्षांश
-(लैिटट्यूड, latitude) क्याहै/हैं?
-(e) (2 marks) वषर्केिकसमहीने/महीनोंमेंअमावस्याकेिदनचंद्रमाyसहराʺशमेंपायाजाएगा?
-- **A.** अगस्त
-- **B.** नवंबर
-- **C.** फरवरी
-- **D.** मई
-(f) (4 marks) िनम्नǺलǺखतकथनोंमेंसेकौनसा/सेकेप्लरकेग˃तकेिनयमोंसेिनष्कȺषतनहींिकयाजासकता
-है/ सकतेहैं?
-- **A.** कोईभीग्रहसूयर्केचारोंओरएकअंडाकारकक्षामेंघूमताहै।
-- **B.** सौरमंडलकेसभीग्रहोंकɃ कक्षाओंकɃ िवकेंद्रता(eccentricity) बहुतकमहै।
-- **C.** कोईभीसौरमंडलकाग्रहअपनेउच्चतमस्पशर्रेखीयवेग(tangential velocity) परतबहोताहै,
-जबवहसूयर्केसबसेिनकटहोताहै।
-D. सभीग्रहसूयर्केचारोंओरलगभगएकहीतलमेंअंडाकारकक्षाओंमेंचलतेहैं।
-(g) (5 marks) एकदूरस्थखगोलीयिंपडमेंिवʺभन्नरासायिनकतत्वोंकɃ उपȥस्थ˃तकाअनुमानउसकɃ िमट्टीके
-उत्सजर्नवणर्क्रम(स्पेक्टर्म, spectrum) मेंिवʺशष्टतरंगदैध्यʢ परपाएजानेवालीउत्सजर्नरेखाओंसेलगाया
-जाताहै, जोप्रत्येकतत्वकɃ िवशेषताहोतीहै।भिवष्यमेंएकदूरस्थएक्सोप्लैनेट(exoplanet, िकसीअन्यतारे
-केचारोंओरघूमनेवालाग्रह) काचक्करलगानेवालेएकउपग्रह(नािमतसोमा314-बी-1) कɃ सतहपरएक
-काल्पिनकिमशनचंद्रयान-300 उतराऔरउसनेवहॉंकɃ िमट्टीकाऐसाहीएकवणर्क्र(spectrum) मापǺलया,
-जोनीचेिदखायागयाहै।स्पेक्टर्ोमीटरशोरयुक्तहैअथार्त्छोटेछोटेयादृȥच्छकउतार-चढ़ाववास्तिवकसंकेतके
-ऊपरअ˃धरोिपतहोजातेहैं।नीचेिदएगएआलेखमेंदोनोंअक्षोंपरसंख्यामेंिकन्हीिवʺशष्टइकाईयोमेंदीगईहैं।
-िवʺभन्नकाल्पिनकरासायिनकतत्वोंकɃ उत्सजर्नरेखाओंकɃ एकपूणर्सारणी(उपरोक्त˃चत्रमेंइस्तमालिकए
-गएतरंगदैध्यʢ कɃ उसीिवʺशष्टइकाईमें) नीचेदीगईहै।यहमानलीʹजएिकताǺलकामेंिदखाईदेनेवालीसभी
-रेखाओंकɃ तीव्रतापयार्प्तरूपसेअ˃धकहैतािकयिदस्रोतमेंसंबं˃धततत्वमौजूदहोतोउपरोक्तिदखाएगए
-स्पेक्टर्ममेंउसेआसानीदेखाजासके।
-सोमा314-बी-1 कɃ सतहकɃ िमट्टीमेंजोरासायिनकतत्वहैं, उनकɃ पहचानकरें।
-तȶव
-तरंगदैध्यर्1
-तरंगदैध्यर्2
-तरंगदैध्यर्3
-Fh
-193.44
-–
-–
-Dz
-149.18
-159.73
-–
-Ab
-111.71
-122.87
-177.94
-Hm
-132.67
-139.56
-–
-Cw
-119.55
-139.32
-–
-Xy
-148.90
-159.69
-–
-Table 1: उत्सजर्नरेखांए
+1. निम्नलिखित प्रत्येक उप-प्रश्नों का संक्षिप्त और उचित तर्क के साथ उत्तर दें।
+
+(a) (2 marks) १७ जुलाई २०२३ को सूर्यास्त के तुरंत बाद, फातिमा ने पश्चिमी क्षितिज के बहुत निकट एक आकाशीय पिंड को अपनी आँखों से (बिना किसी उपकरण के) देखा। उसने प्रतिदिन उसी समय पर ४ सितम्बर २०२३ तक उसी पिंड का अवलोकन जारी रखा। उसने निम्नलिखित अवलोकन किए-
+
+- १७ जुलाई से सूर्य से पिंड की दूरी बढ़ने लगती है।
+
+- ११ अगस्त के बाद सूर्य से पिंड की दूरी घटने लगती है।
+
+- उसने यह भी देखा कि उस पूरे वर्ष सूर्यास्त के समय यह पिंड कभी भी आकाश में ठीक ऊपर (zenith के पास) नहीं दिखा।
+
+अगर वह खगोलीय पिंड धूमकेतु नहीं है, किसी एक ऐसे पिंड का नाम बताएं जो फातिमा द्वारा किये गए इन अवलोकनों के विचार से उपयुक्त हों।
+
+(b) (2 marks) नीचे दिये हुए छवि में, आप उज्जैन शहर से किसी एक दिन पश्चिमी क्षितिज के ऊपर सूर्य को देख सकते हैं। छवि में क्रांतिवृत्त (एक्लिप्टिक, ecliptic), नक्षत्रीय विषुवत (सेलेस्टियल इक्वेटर, celestial equator) और पश्चिम दिशा सूचक बिंदु (W) चिह्नित हैं। छवि पर चिह्नित पथों (1 से 6) में से कौन सा पथ उस दिन क्षितिज की ओर जाते समय सूर्य द्वारा अनुसरण किए जाने वाले पथ को सबसे अधिक निकटता से दर्शाता है।
+
+<!--fig:start-->
+**Quesito 1**
+![[INAO2024-Question_p2_f1.png]]
+<!--fig:end-->
+
+(c) (2 marks) तीन पर्यवेक्षक A, B और C क्रमशः चंद्रमा, शुक्र और मंगल पर स्थित हैं। इन पर्यवेक्षकों में से कौन से पर्यवेक्षक पृथ्वी की लगभग सभी कलाएँ देख सकते हैं – अमावस्या समान पृथ्वी की कला (पृथ्वी दिखाई न दें), चंद्रकोरी (crescent) जैसी पृथ्वी की कला, आधी पृथ्वी की कला, गिब्बस (gibbous) पृथ्वी की कला आदि।
+
+(d) (4 marks) एक किसी तारे को एक पूरे दिन के लिये हमेशा क्षितिज के ऊपर पाया गया। इस अवधि के दौरान इसकी क्षितिज से अधिकतम ऊँचाई 50° और न्यूनतम ऊँचाई 20° थी। अवलोकन के स्थान का/के अक्षांश (लैटिट्यूड, latitude) क्या है/हैं?
+
+(e) (2 marks) वर्ष के किस महीने /महीनों में अमावस्या के दिन चंद्रमा सिंह राशि में पाया जाएगा?
+
+A. अगस्त B. नवंबर C. फरवरी D. मई
+
+(f) (4 marks) निम्नलिखित कथनों में से कौन सा/से केप्लर के गति के नियमों से निष्कर्षित नहीं किया जा सकता है / सकते हैं?
+
+A. कोई भी ग्रह सूर्य के चारों ओर एक अंडाकार कक्षा में घूमता है।
+
+B. सौर मंडल के सभी ग्रहों की कक्षाओं की विकेंद्रता (eccentricity) बहुत कम है।
+
+C. कोई भी सौर मंडल का ग्रह अपने उच्चतम स्पर्शरेखीय वेग (tangential velocity) पर तब होता है, जब वह सूर्य के सबसे निकट होता है।
+
+D. सभी ग्रह सूर्य के चारों ओर लगभग एक ही तल में अंडाकार कक्षाओं में चलते हैं।
+
+(g) (5 marks) एक दूरस्थ खगोलीय पिंड में विभिन्न रासायनिक तत्वों की उपस्थिति का अनुमान उसकी मिट्टी के उत्सर्जन वर्णक्रम (स्पेक्ट्रम, spectrum) में विशिष्ट तरंगदैर्घ्यों पर पाए जाने वाली रेखाओं से लगाया जाता है, जो प्रत्येक तत्व की विशेषता होती है। भविष्य में एक दूरस्थ एक्सोप्लैनेट (exoplanet, किसी अन्य तारे के चारों ओर घूमने वाला ग्रह) का चक्कर लगाने वाले एक उपग्रह (नामित सोमा314-बी-1) की सतह पर एक काल्पनिक मिशन चंद्रयान-300 उतरा और उसने वहाँ की मिट्टी का ऐसा ही एक वर्णक्रम (spectrum) माप लिया, जो नीचे दिखाया गया है। स्पेक्ट्रोमीटर शोरयुक्त है अर्थात् छोटे छोटे यादृच्छिक उतार-चढ़ाव वास्तविक संकेत के ऊपर अधिरोपित हो जाते हैं। नीचे दिए गए आलेख में दोनों अक्षों पर संख्या में किन्हीं विशिष्ट इकाइयोंमें दी गई हैं।
+
+<!--fig:start-->
+**Quesito 1**
+![[INAO2024-Question_p3_f2.png]]
+<!--fig:end-->
+
+विभिन्न काल्पनिक रासायनिक तत्वों की उत्सर्जन रेखाओं की एक पूर्ण सारणी (उपरोक्त चित्र में इस्तमाल किए गए तरंगदैर्घ्यों की उसी विशिष्ट इकाई में) नीचे दी गई है। यह मान लीजिए कि तालिका में दिखाई देने वाली सभी रेखाओं की तीव्रता पर्याप्त रूप से अधिक है ताकि यदि स्रोत में संबंधित तत्व मौजूद हो तो उपरोक्त दिखाए गए स्पेक्ट्रम में उसे आसानी देखा जा सके।
+
+सोमा314-बी-1 की सतह की मिट्टी में जो रासायनिक तत्व हैं, उनकी पहचान करें।
+
+| तत्त्व | तरंगदैर्ध्य 1 | तरंगदैर्ध्य 2 | तरंगदैर्ध्य 3 |
+| :--- | :--- | :--- | :--- |
+| Fh | 193.44 | – | – |
+| Dz | 149.18 | 159.73 | – |
+| Ab | 111.71 | 122.87 | 177.94 |
+| Hm | 132.67 | 139.56 | – |
+| Cw | 119.55 | 139.32 | – |
+| Xy | 148.90 | 159.69 | – |
+
+Table 1: उत्सर्जन रेखाएँ
 
 **Topic:** [[Astrophysics]]
 **Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Physical Modeling (metodo)|Physical Modeling]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -111,112 +87,169 @@ Table 1: उत्सजर्नरेखांए
 
 <div class="qlang-split" data-lang="it"></div>
 
-1. Rispondi brevemente e in modo conciso a ciascuna delle seguenti domande.
+Rispondi a ciascuna delle seguenti sottodomande con una breve giustificazione —
 
-(a) (2 punti) Il 17 luglio 2023, subito dopo il tramonto del Sole, un osservatore ha visto con i propri occhi (senza strumenti) un oggetto celeste molto luminoso. Ha osservato lo stesso oggetto ogni giorno, sempre alla stessa ora, fino al 4 settembre 2023. Le sue osservazioni sono state le seguenti:
-• Dopo il 17 luglio, la distanza tra l’oggetto e il Sole è aumentata.
-• Dopo l'11 agosto, la distanza tra l’oggetto e il Sole è diminuita.
-• Ha notato inoltre che per tutto l’anno, l’oggetto non è mai apparso direttamente sopra la testa (vicino al zenit) nel cielo.
+(a) **[2]** Fatima ha osservato un oggetto celeste, a occhio nudo, molto vicino all'orizzonte occidentale subito dopo il tramonto del 17 luglio 2023. Ha continuato a osservare lo stesso oggetto alla stessa ora ogni giorno fino al 4 settembre 2023. Ha effettuato le seguenti osservazioni:
 
-Se l’oggetto non è un cometa solare, indica il nome di uno tra i seguenti oggetti che risulta compatibile con queste osservazioni.
+- La separazione dell'oggetto dal Sole aumenta a partire dal 17 luglio.
+- La separazione dell'oggetto dal Sole diminuisce dopo l'11 agosto.
+- Ha inoltre osservato che l'oggetto non è mai stato visto sopra la testa al tramonto durante quell'anno.
 
-(b) (2 punti) Nella figura qui sotto, puoi vedere il Sole sopra l’orizzonte di una città (Ujjain) in un certo giorno dell’anno. Nella figura sono indicati: il piano dell’eclittica (ecliptic), l’equatore celeste (celestial equator) e il punto W che indica la direzione dell’ovest. Tra i percorsi numerati da 1 a 6, quale rappresenta più accuratamente il cammino che il Sole segue nel cielo in quel giorno, quando si alza sopra l’orizzonte?
+Indica un oggetto, che non sia una cometa, che soddisfi queste osservazioni effettuate da Fatima.
 
-W
-Ecliptic
-Celestial Equator
-2
-3
-4
-5
-6
-1
+(b) **[2]** Nella figura qui sotto, si vede il Sole appena sopra l'orizzonte occidentale in un certo giorno, osservato dalla città di Ujjain. L'eclittica, l'equatore celeste e il punto estremo a ovest (W) sono indicati nella figura. Quale dei percorsi contrassegnati con i numeri da 1 a 6 nella figura rappresenta più da vicino il cammino che il Sole seguirà nel suo percorso verso l'orizzonte in quel giorno.
 
-(c) (2 punti) Tre osservatori A, B e C si trovano rispettivamente sulla Luna, su Venere e su Marte. Quale di questi osservatori può vedere praticamente tutte le fasi della Terra – dalle fasi crescenti (come la luna crescente), alla metà, alle fasi gibbosa e fino all’ultima fase (piena Terra)?
+<!--fig:start-->
+**Quesito 1**
+![[INAO2024-Question_p2_f1.png]]
+<!--fig:end-->
 
-(d) (4 punti) Una stella è sempre visibile sopra l’orizzonte per un intero giorno. Durante questo periodo, la sua altezza massima sopra l’orizzonte è $50^\circ$ e il valore minimo è $20^\circ$. Qual è (o quali sono) la(latitudine) del luogo di osservazione?
+(c) **[2]** Tre osservatori A, B e C sono posizionati rispettivamente sulla Luna, su Venere e su Marte. Quale di questi osservatori può vedere quasi tutte le fasi della Terra [nuova (nessuna terra), crescente, metà, gibbosa, ecc.]?
 
-(e) (2 punti) In quale mese o mesi dell’anno la luna nuova si troverà nella costellazione del Leone?
-- **A.** Agosto
-- **B.** Novembre
-- **C.** Febbraio
-- **D.** Maggio
+(d) **[4]** Una certa stella è stata osservata rimanere sempre sopra l'orizzonte per tutta la durata di un giorno completo. Durante questo periodo, l'altezza massima della stella era $50^\circ$ e l'altezza minima era $20^\circ$. Qual è/quali sono la/o latitudine/i del luogo di osservazione?
 
-(f) (4 punti) Quale delle seguenti affermazioni NON può essere dedotta dalle leggi di Keplero?
-- **A.** Qualsiasi pianeta orbita intorno al Sole su un'orbita ellittica o circolare.
-- **B.** L'eccentricità delle orbite di tutti i pianeti del sistema solare è molto piccola.
-- **C.** Qualsiasi pianeta del sistema solare raggiunge la massima velocità tangenziale quando si trova più vicino al Sole.
-- **D.** Tutti i pianeti orbitano intorno al Sole in orbite quasi circolari e approssimativamente nel medesimo piano.
+Nota: L'altezza è la distanza angolare di una stella dall'orizzonte, misurata lungo un arco circolare perpendicolare all'orizzonte.
 
-(g) (5 punti) L'analisi dei componenti chimici presenti nella polvere di un lontano oggetto sferico viene effettuata osservando le righe spettrali emesse nella sua emissione, che sono caratteristiche di ciascun elemento chimico. In futuro, un satellite (Nome: Somma 314-B-1) si poserà su una superficie lontana, e un modulo lunare (Chandrayaan-300) atterrerà sulla superficie, dove misurerà uno spettro (come mostrato qui sotto). Lo strumento spettrale è dotato di piccole irregolarità (piccoli rilievi e avvallamenti) che generano segnali reali, ma piccoli. Le due assi del grafico mostrato qui sotto sono espresse in unità numeriche, con valori indicati. Di seguito è riportata una tabella completa delle righe spettrali emesse da vari elementi chimici, con le lunghezze d'onda espresse nella stessa unità usata nel grafico sopra. Si assuma che, se un elemento è presente nella sorgente, le sue righe spettrali appaiono con intensità significativamente più elevate rispetto al fondo, e quindi possono essere facilmente identificate nello spettro mostrato.
-Identificare gli elementi chimici presenti nella polvere della superficie di Somma 314-B-1.
+(e) **[2]** In quale/i mese/i dell’anno ci sarà una Luna Nuova nella costellazione del Leone?
 
-| Lunghezza d'onda 1 | Lunghezza d'onda 2 | Lunghezza d'onda 3 | Elemento |
-|---------------------|--------------------|--------------------|--------|
-| 193.44              | –                  | –                  | Fh     |
-|                     |                    |                    | Dz     |
-149,18
-159,73
-–
-Ab
-111,71
-122,87
-177,94
-Hm
-132,67
-139,56
-–
-Cw
-119,55
-139,32
-–
-Xy
-148,90
-159,69
-–
-Tabella 1: linee di flusso
+- (A) Agosto
+- (B) Novembre
+- (C) Febbraio
+- (D) Maggio
+
+(f) **[4]** Quale/i delle seguenti affermazioni NON può/possono essere dedotte dalle leggi del moto di Keplero?
+
+- (A) Un pianeta si muove su un'orbita ellittica attorno al Sole.
+- (B) L'eccentricità delle orbite di tutti i pianeti del sistema solare è piccola.
+- (C) Un pianeta del sistema solare ha la massima velocità tangenziale quando si trova più vicino al Sole.
+- (D) Tutti i pianeti si muovono su orbite ellittiche in un piano approssimativamente identico attorno al Sole.
+
+(g) **[5]** La presenza di diversi elementi in un oggetto astronomico lontano viene dedotta dai picchi nello spettro di emissione del suo suolo, a determinate lunghezze d'onda caratteristiche per ciascun elemento. Uno di tali spettri per un satellite (chiamato $Soma314\text{-}b\text{-}1$) attorno a un esopianeta lontano osservato dalla missione ipotetica $Chandrayaan\text{-}300$, che è atterrata sulla superficie di $Soma314\text{-}b\text{-}1$ in un futuro remoto, è mostrato qui sotto. Lo spettrometro è rumoroso, cioè piccole fluttuazioni casuali si sovrappongono al segnale reale. Le unità di entrambi gli assi nella figura qui sotto sono arbitrarie.
+
+<!--fig:start-->
+**Quesito 1**
+![[INAO2024-Question_p3_f2.png]]
+<!--fig:end-->
+
+Una tabella completa dei picchi di emissione (nella stessa unità arbitraria di lunghezza usata nella figura precedente) per vari elementi ipotetici è fornita qui sotto. Si assume che l'intensità di tutti i picchi indicati nella tabella sia sufficientemente alta da essere osservata nello spettro mostrato sopra, qualora l'elemento corrispondente fosse presente nella sorgente. Identifica gli elementi presenti sulla superficie di $Soma314\text{-}b\text{-}1$.
+
+| Elemento | Lunghezza d'onda 1 | Lunghezza d'onda 2 | Lunghezza d'onda 3 |
+| --- | --- | --- | --- |
+| Fh | 193.44 | – | – |
+| Dz | 149.18 | 159.73 | – |
+| Ab | 111.71 | 122.87 | 177.94 |
+| Hm | 132.67 | 139.56 | – |
+| Cw | 119.55 | 139.32 | – |
+| Xy | 148.90 | 159.69 | – |
+
+*Tabella 1: Linee di emissione*
+
+<div class="qlang-split" data-lang="en"></div>
+
+Answer each of the following sub-questions with a brief justification —
+
+(a) **[2]** Fatima observed a celestial object, with her unaided eyes, very near to the western horizon immediately after sunset on 17 July 2023. She continued to observe the same object at the same time everyday till 4 September 2023. She made the following observations —
+
+- Object's separation from the Sun increases starting from 17 July.
+- Object's separation from the Sun decreases after 11 August.
+- She also made an observation that the object was never seen overhead at sunset within that year.
+
+Name one object, which is not a comet, that fits these observations made by Fatima.
+
+(b) **[2]** In the image below, you see the Sun just above the western horizon on some day as seen from the city of Ujjain. The ecliptic, celestial equator and due west point (W) are marked in the image. Which of the paths marked (1 to 6) on the image closely represents the path that Sun will follow on its way to the horizon on that day.
+
+<!--fig:start-->
+**Quesito 1**
+![[INAO2024-Question_p2_f1.png]]
+<!--fig:end-->
+
+(c) **[2]** Three observers A, B and C are stationed on Moon, Venus and Mars respectively. Which of these observer(s) can see almost all the phases of Earth [new (no earth), crescent, half, gibbous, etc.].
+
+(d) **[4]** A certain star was observed to remain always above horizon over the course of one full day. During this period its maximum altitude was $50^\circ$ and minimum altitude was $20^\circ$. What is/are the latitude/s for the place of observation?
+
+Note: Altitude is the angular distance of a star from the horizon measured along a circular arc perpendicular to the horizon.
+
+(e) **[2]** In which month/s of the year, will there be a New Moon in the constellation of Leo?
+
+- (A) August
+- (B) November
+- (C) February
+- (D) May
+
+(f) **[4]** Which of the following statement(s) CANNOT be inferred from Kepler's laws of motion?
+
+- (A) A planet moves in an elliptical orbit around the Sun.
+- (B) The eccentricity of the orbits of all solar system planets is small.
+- (C) A solar system planet has its highest tangential velocity when it is closest to the Sun.
+- (D) All the planets move in elliptical orbits in roughly the same plane around the Sun.
+
+(g) **[5]** The presence of different elements in a distant astronomical object is inferred from the peaks in the emission spectrum of its soil, at certain wavelengths, characteristic to each element. One such spectrum for a moon (named $Soma314\text{-}b\text{-}1$) around a distant exoplanet observed by the hypothetical mission $Chandrayaan\text{-}300$, that landed on the surface of $Soma314\text{-}b\text{-}1$ in the future is shown below. The spectrometer is noisy i.e., small random fluctuations get superimposed on top of the actual signal. The units of both the axes in the figure below are arbitrary.
+
+<!--fig:start-->
+**Quesito 1**
+![[INAO2024-Question_p3_f2.png]]
+<!--fig:end-->
+
+A complete table of emission peaks (in same arbitrary length unit as in the above figure) of various hypothetical elements is given below. It is assumed that the strength of all the peaks indicated in the table is sufficiently high to be observed in the spectrum shown above if the corresponding element is present in the source. Identify the elements present on the surface of $Soma314\text{-}b\text{-}1$.
+
+| Element | Wavelength 1 | Wavelength 2 | Wavelength 3 |
+| --- | --- | --- | --- |
+| Fh | 193.44 | – | – |
+| Dz | 149.18 | 159.73 | – |
+| Ab | 111.71 | 122.87 | 177.94 |
+| Hm | 132.67 | 139.56 | – |
+| Cw | 119.55 | 139.32 | – |
+| Xy | 148.90 | 159.69 | – |
+
+*Table 1: Emission lines*
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="INAO 2024 — Quesito 2" data-tags="kg/prova,paese/India,comp/INAO,cluster/Onde e Oscillazioni,object/star,object/planet"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="hi"></div>
 
 
 
-2. इसप्रश्नमेंहमएकतारे(S) केचारोंओरमेंघूमरहेदोग्रहों, $P_1$ एवं$P_2$, काअध्ययनकरेंगे।जैसािकनीचेिदखाया
-गयाहै, दोनोंग्रहक्रमशः$r_1$ और$r_2$ ित्रज्याकɃ वृत्ताकारसमतलीयकक्षाओंमेंएकहीिदशामेंघूमरहेहैं।तारे(S) का
-द्रव्यमान$M$ है, जोदोनोंग्रहोंकेद्रव्यमानकɃ तुलनामेंबहुतबड़ाहै।हमारेिमत्रअिनलेशबाहरीग्रह$P_2$ परफ़साहुआ
-हैं।
-$P_1$ और$P_2$ कɃ कक्षीयग˃तकेकारणवश, तारा$S$ एवंग्रह$P_1$ कोअिनलेशद्वारातारकɃयपृष्ठभूिमपरचलतेहुएदेखा
-जाताहै।$S$ कɃ ग˃तकɃ िदशाकोधनात्मकमानतेहुए, तारकɃयपृष्ठभूिमकेसंदभर्में$P_1$ केकोणीयवेग($\omega$) कोअिनलेश
-मापताहै।उसीसमयवह$P_1$ केदृिष्टकɃ रेखाकेसमांतरवेग(रे˃डयलग˃त, radial velocity, $v_\text{radial}$) कोभीमापता
-है।रे˃डयलग˃तकोभीऊपरिदएगए˃चत्रमेंिदखायागयाहै।
-उसकेिनरीक्षणोंद्वारा$\omega$ (˃डग्रीप्र˃तिदनमें, ʹजसमें1 िदन24 घंटेकाहोगा) बनाम$v_\text{radial}$ (िकमीप्र˃तसेकंडमें) कɃ
-ʺभन्नतादशार्ताहुआआलेखमेंिदखायागयावक्रप्राप्तहुआ।
-$-40$
-$-20$
-0
-20
-40
-$v_\text{radial}$ [km/s]
-$-0.4$
-$-0.2$
-0.0
-0.2
-0.4
-0.6
-$\omega$ [degrees/day]
-B
-A
-$\omega$ बनाम$v_\text{radial}$ काआलेख
-(a) (3 marks) िनम्नǺलǺखत˃चत्रमेंअंिकत$P_2$ कɃ ȥस्थ˃तकेǺलए; $P_1$ कɃ कक्षापरउ˃चतरूपसेिनशानलगाकर
-िंबदु$A$ और$B$ (ऊपरिदएगए˃चत्रकोदेखें) केअनुरूप$P_1$ कɃ ȥस्थ˃तउत्तरपित्रकामेंिदएखं˃डतवृत्तिदखाएं।
-- **B.** (7 marks) $r_1/r_2$ काअनुपातज्ञातकरें।
-- **C.** (8 marks) $v(r)$ केव्यंजकको$\beta$ केएकफलनकेरूपमेंǺलखें(ऊपरिदएगए˃चत्रकोदेखें)।$\theta$ केउसमान
-कɃ गणनाकरें, ʹजसकेǺलए$v_\text{radial}$ अ˃धकतमहै।
-संकेत: यहांज्याकिनयम(साइनरूल, sine rule) उपयोगीहोसकताहै।
-(d) (8 marks) $M$, $r_1$ और$r_2$ काआकलनकरें।
+2. इस प्रश्न में हम एक तारे (S) के चारों ओर में घूम रहे दो ग्रहों, P₁ एवं P₂, का अध्ययन करेंगे। जैसा कि नीचे दिखाया गया है, दोनों ग्रह क्रमशः r₁ और r₂ त्रिज्या की वृत्ताकार समतलीय कक्षाओं में एक ही दिशा में घूम रहे हैं। तारे (S) का द्रव्यमान M है, जो दोनों ग्रहों के द्रव्यमान की तुलना में बहुत बड़ा है। हमारे मित्र अनिलेश बाहरी ग्रह P₂ पर फँसा हुआ हैं।
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p4_f1.png]]
+<!--fig:end-->
+
+P₁ और P₂ की कक्षीय गति के कारणवश, तारा S एवं ग्रह P₁ को अनिलेश द्वारा तारकीय पृष्ठभूमि पर चलते हुए देखा जाता है। S की गति की दिशा को धनात्मक मानते हुए, तारकीय पृष्ठभूमि के संदर्भ में P₁ के कोणीय वेग (ω) को अनिलेश मापता है। उसी समय वह P₁ के दृष्टि की रेखा के समांतर वेग (रेडियल गति, radial velocity, v_radial) को भी मापता है। रेडियल गति को भी ऊपर दिए गए चित्र में दिखाया गया है।
+
+उसके निरीक्षणों द्वारा ω (डिग्री प्रति दिन में, जिसमें 1 दिन 24 घंटे का होगा) बनाम v_radial (किमी प्रति सेकंड में) की भिन्नता दर्शाता हुआ आलेख में दिखाया गया वक्र प्राप्त हुआ।
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p4_f2.png]]
+<!--fig:end-->
+
+ω बनाम $v_{\text{radial}}$ का आलेख
+
+(a) (3 marks) निम्नलिखित चित्र में आंकित $P_2$ की स्थिति के लिए; $P_1$ की कक्षा पर उचित रूप से निशान लगाकर बिंदु A और B (ऊपर दिए गए चित्र को देखें) के अनुरूप $P_1$ की स्थिति उत्तरपत्रिका में दिए खंडित वृत्त दिखाएं।
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p5_f3.png]]
+<!--fig:end-->
+
+(b) (7 marks) $r_1/r_2$ का अनुपात ज्ञात करें।
+
+(c) (8 marks) $v(r)$ के व्यंजक को $\beta$ के एक फलन के रूप में लिखें (ऊपर दिए गए चित्र को देखें)। $\theta$ के उस मान
+
+की गणना करें, जिसके लिए $v_{\text{radial}}$ अधिकतम है।
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p5_f4.png]]
+<!--fig:end-->
+
+संकेत: यहां ज्याक नियम (साइन रूल, sine rule) उपयोगी हो सकता है।
+
+(d) (8 marks) $M$, $r_1$ और $r_2$ का आकलन करें।
 
 **Topic:** [[Astrophysics]], [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -227,39 +260,81 @@ $\omega$ बनाम$v_\text{radial}$ काआलेख
 
 <div class="qlang-split" data-lang="it"></div>
 
-2. इसप्रश्नमेंहमएकतारे(S) केचारोंओरमेंघूमरहेदोग्रहों, $P_1$ एवं$P_2$, काअध्ययनकरेंगे।जैसािकनीचेिदखाया
-Infatti, entrambi i due pianeti sono: $r_1$ e $r_2$.
-द्रव्यमान$M$ है, जोदोनोंग्रहोंकेद्रव्यमानकɃ तुलनामेंबहुतबड़ाहै।हमारेिमत्रअिनलेशबाहरीग्रह$P_2$ परफ़साहुआ
-हैं।
-$P_1$ और$P_2$ कɃ कक्षीयग˃तकेकारणवश, तारा$S$ एवंग्रह$P_1$ कोअिनलेशद्वारातारकɃयपृष्ठभूिमपरचलतेहुएदेखा
-जाताहै।$S$ कɃ ग˃तकɃ िदशाकोधनात्मकमानतेहुए, तारकɃयपृष्ठभूिमकेसंदभर्में$P_1$ केकोणीयवेग($\omega$) कोअिनलेश
-Misurazione.Usi tempoवह$P_1$ qualunque tipo di linea di velocità intercalare, velocità radial, $v_\text{radial}$)
-Il sistema di controllo dei dati è stato completato.
-उसकेिनरीक्षणोंद्वारा$\omega$ (˃डग्रीप्र˃तिदनमें, ʹजसमें1 िदन24 घंटेकाहोगा) बनाम$v_\text{radial}$ (िकमीप्र˃तसेकंडमें) कɃ
-Bhannatadshartatahuauaauarchiviatiadkhayaagyaavcruprathuua.
-$-40$
-$-20$
-0
-20
-40
-$v_\text{radial}$ [km/s]
-$-0.4$
-$-0.2$
-0.0
-0.2
-0.4
-0.6
-$\omega$ [gradi/giorno]
-B
-A
-$\omega$ बनाम$v_\text{radial}$ काआलेख
-(a) (3 marks) Innumnumlखतchatraमेंअंकित$P_2$ क स्थतकेलए; $P_1$ क कक्षापरउचतरूपसेिनशानलगाकर
-िंबदु$A$ और$B$ (ऊपरिदएगए˃चत्रकोदेखें) केअनुरूप$P_1$ कɃ ȥस्थ˃तउत्तरपित्रकामेंिदएखं˃डतवृत्तिदखाएं।
-- **B.** (7 punti) $r_1/r_2$ di connessione con i dati.
-- **C.** (8 marchi) $v(r)$ Kevyaanjakko$\beta$ Keyaf function in formlkhene(upperidagààchitrakooke) $\theta$ Keysman
-कɃ गणनाकरें, ʹजसकेǺलए$v_\text{radial}$ अ˃धकतमहै।
-Segnale: qui, si può usare il signo, la regola del seno.
-(d) (8 marchi) $M$, $r_1$ e $r_2$ di calcolo.
+Considera un sistema formato da due pianeti P1 e P2, come mostrato qui sotto, entrambi in orbita circolare complanare nello stesso verso attorno a una stella S di massa $M$, molto maggiore delle masse dei pianeti. Anilesh si trova intrappolato sul pianeta esterno P2. Sia la stella S che il pianeta P1 appaiono muoversi rispetto al fondo stellare secondo Anilesh a causa del moto orbitale di P1 e P2. Considerando come positiva la direzione del movimento di S, egli misura la velocità angolare $\omega$ di P1 rispetto al fondo stellare. Egli misura anche la velocità di P1 lungo la linea di vista (chiamata "velocità radiale", $v_\text{radial}$ in astronomia), come mostrato nella figura qui sotto.
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p4_f1.png]]
+<!--fig:end-->
+
+Ha ottenuto la seguente curva per la variazione di $\omega$ (in gradi/giorno, 1 giorno equivalente a 24 ore) in funzione di $v_\text{radial}$ (in km/s).
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p4_f2.png]]
+<!--fig:end-->
+
+(a) **[3]** Per la posizione data di P2 come indicato nella figura seguente; mostrare le posizioni di P1 corrispondenti ai punti A e B sul grafico precedente, segnando opportunamente sulla traiettoria di P1 (cerchio tratteggiato nella figura della tua scheda risposte).
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p5_f3.png]]
+<!--fig:end-->
+
+(b) **[7]** Determinare il rapporto $r_1/r_2$.
+
+(c) **[8]** Scrivere l'espressione per $v(r)$ in funzione di $\beta$ (vedi figura qui sotto). Calcolare il valore di $\theta$ per cui $v_\text{radial}$ è massima.
+
+Aiuto: Potrebbe essere utile utilizzare qui la regola del seno.
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p5_f4.png]]
+<!--fig:end-->
+
+(d) **[8]** Determinare $M$, $r_1$ e $r_2$.
+
+**Topic:** [[Astrophysics]], [[Gravitation]], [[Newtonian Mechanics]]
+**Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Physical Reasoning (competenza)|Physical Reasoning]], [[Graph Linearization (competenza)|Graph Linearization]]
+**Objects:** [[Star (object)|Star]], [[Planet (object)|Planet]]
+**Fonte:** [Testo (PDF) — p.4](https://drive.google.com/file/d/1AkgADhUSvhljAYBxBdcB-ECIcoXKnCMp/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+Consider a system of two planets P1 and P2, as shown below, both revolving in the same direction in circular coplanar orbits of radii $r_1$ and $r_2$, respectively, around a star S of mass $M$ much larger than the masses of the planets. Anilesh is stranded on the outer planet P2. Both the star S and the planet P1 are seen to move against the stellar background by Anilesh due to the orbital motions of P1 and P2. Taking the direction of motion of S as positive, he measures the angular velocity $\omega$ of P1 against the stellar background. He also measures the velocity of P1 along the line of sight (called the "radial velocity", $v_\text{radial}$ in astronomy) as shown in the figure below.
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p4_f1.png]]
+<!--fig:end-->
+
+He obtained the following curve for the variation of the $\omega$ (in degrees/day, 1 day being 24 hours) versus $v_\text{radial}$ (in km/s).
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p4_f2.png]]
+<!--fig:end-->
+
+(a) **[3]** For the given position of P2 as marked in the following figure; show the positions of P1 corresponding to the points A and B on the graph above by marking appropriately on the orbit of P1 (dashed circle in the figure in your answersheet).
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p5_f3.png]]
+<!--fig:end-->
+
+(b) **[7]** Find the ratio $r_1/r_2$.
+
+(c) **[8]** Write the expression for $v(r)$ as a function of $\beta$ (see figure below). Calculate the value of $\theta$ for which $v_\text{radial}$ is maximum.
+
+Hint: You may find it useful to use the sine rule here.
+
+<!--fig:start-->
+**Quesito 2**
+![[INAO2024-Question_p5_f4.png]]
+<!--fig:end-->
+
+(d) **[8]** Determine $M$, $r_1$ and $r_2$.
 
 **Topic:** [[Astrophysics]], [[Gravitation]], [[Newtonian Mechanics]]
 **Metodi:** [[Kepler's Laws (metodo)|Kepler's Laws]], [[Newton's Law of Gravitation (metodo)|Newton's Law of Gravitation]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -271,34 +346,33 @@ Segnale: qui, si può usare il signo, la regola del seno.
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="INAO 2024 — Quesito 3" data-tags="kg/prova,paese/India,comp/INAO,cluster/Onde e Oscillazioni,object/tank-container"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="hi"></div>
 
 
 
-3. A औरB ऐसेदोबतर्नहैं, ʹजनमेंसमानआयतन(volume) V कɃ मात्रामेंद्रव्य(तरलपदाथर्) है।शुरुआतमें, A
-मेंकेवलदूधहैऔरB मेंकेवलपानीहै।हमदोबतर्नोकबीचतरलपदाथर्कɃ कुचमात्राकोिनकलकरऔरिमलकर
-स्थानांतȼरतकरतेहैं।एकस्थानांतरणिक्रयाकोिनम्नǺलǺखतदोनोंचरणोंकेपूराहोनेकेरूपमेंपȼरभािषतिकयागया
-है:
-• चरण1: बतर्नA सेकुछिन˃श्चतआयतनमात्रा(L) लें, उसेB मेंडालेंऔरअच्छीतरहिमलाएँ।
-• चरण2: बतर्नB सेसमानमात्रा(L) मेंिमʺश्रततरलपदाथर्लेंऔरइसेवापसA मेंडालेंऔरअच्छीतरह
-िमलाएँ।
-प्रत्येकस्थानांतरणिक्रयाकेअंतमेंदोनोंबतर्नोंमेंतरलपदाथर्कɃ मात्रािबल्कुलसमानयानीV होतीहै।मानलीʹजए
-कɃ $n$-वेंस्थानांतरणिक्रयाकेअंतमेंबतर्नA मेंदूधकɃ सांद्रताको$C^A_M(n)$ से˃चȥन्हतिकयाजाताहै।यहाँहमसांद्रता
-कोइसप्रकारपȼरभािषतकरतेहैं:
-$$C^A_M(n) = \frac{\text{बतर्न A मेंदूधकɃ मात्रा}}{\text{बतर्न A मेंकुलतरलपदाथर्कɃ मात्रा}} \quad (n\ \text{पूणर्स्थानांतरणिक्रयाओंकेबाद})$$
-इसीप्रकार, आप$C^A_W$, $C^B_M$ एवं$C^B_W$ कोभीपȼरभािषतकरसकतेहैं।
-(a) (4 marks) पहलीस्थानांतरणिक्रयाकेअंतमेंबतर्नA मेंदूधकɃ सांद्रतायानी$C^A_M(1)$ काव्यंजक, आयतन
-L औरV केफलनकेरूपमेंǺलखें।
-(b) (8 marks) हम $\varepsilon$ को $\varepsilon = \dfrac{L}{V}$ केरूपमेंपȼरभािषतकरेंगे।$\varepsilon$ कɃ सहायतालेकर, एकपुनरावतɁ सूत्र(recursion
-relation) कɃ रचनाकरें, ʹजसमें$C^A_M(n)$ एवं$C^A_M(n-1)$, यानीn एवंn $-1$ िक्रयाओंकेबादबतर्नA में
-पायेजानेवालेदूधकɃ सांद्रताओं, केबीचकेसंबंधकोदशार्यागयाहै।
-(c) (3 marks) अनेकबार(बहुतबड़ीसंख्यामें) स्थानांतरणिक्रयाएंकरनेकेबाददोनोबतर्नोंमेंदूधकɃ सांद्रता
-लगभगसंतुलनमूल्यतकपहुंचजातीहैʹजसे $\varepsilon$ केएकफलनरूपमेंǺलखाजासकताहै।इससंतुलनसांद्रता
-कामूल्यक्याहोगा?
-(d) (5 marks) हमएकनयाचर$f_n$ इसतरहपȼरभािषतकरेंगे,
-$$f_n = C^A_M(n) - 1/2$$
-$f_{n+1}$ और$f_n$ केबीचएकपुनरावतɁ सूत्रकɃ रचनाकरें, औरइससूत्रकɃ सहायतासे$C^A_M(n)$ को $\varepsilon$ और$n$ के
-एकसरलफलनकेरूपमेंव्यक्तकरें।
+3. $A$ और $B$ ऐसे दो बर्तन हैं, जिनमें समान आयतन (volume) $V$ की मात्रा में द्रव्य (तरल पदार्थ) है। शुरुआत में, $A$ में केवल दूध है और $B$ में केवल पानी है। हम दो बर्तनों के बीच तरल पदार्थ की कुछ मात्रा को निकालकर और मिलकर स्थानांतरित करते हैं। एक स्थानांतरण क्रिया को निम्नलिखित दोनों चरणों के पूरा होने के रूप में परिभाषित किया गया है :
+
+- चरण 1: बर्तन $A$ से कुछ निश्चित आयतन मात्रा ($L$) लें, उसे $B$ में डालें और अच्छी तरह मिलाएँ।
+
+- चरण 2: बर्तन $B$ से समान मात्रा ($L$) में मिश्रित तरल पदार्थ लें और इसे वापस $A$ में डालें और अच्छी तरह मिलाएँ।
+
+प्रत्येक स्थानांतरण क्रिया के अंत में दोनों बर्तनों में तरल पदार्थ की मात्रा बिल्कुल समान यानी $V$ होती है। मान लीजिए की $n$-वें स्थानांतरण क्रिया के अंत में बर्तन $A$ में दूध की सांद्रता को $C_M^A(n)$ से चिन्हित किया जाता है। यहाँ हम सांद्रता को इस प्रकार परिभाषित करते हैं :
+
+$C_M^A(n) = \frac{\text{बर्तन } A \text{ में दूध की मात्रा}}{\text{बर्तन } A \text{ में कुल तरल पदार्थ की मात्रा}} \quad \text{(n पूर्ण स्थानांतरण क्रियाओं के बाद)}$
+
+इसी प्रकार, आप $C_W^A$, $C_M^B$ एवं $C_W^B$ को भी परिभाषित कर सकते हैं।
+
+(a) (4 marks) पहली स्थानांतरण क्रिया के अंत में बर्तन $A$ में दूध की सांद्रता यानी $C_M^A(1)$ का व्यंजक, आयतन $L$ और $V$ के फलन के रूप में लिखें।
+
+(b) (8 marks) हम $\epsilon$ को $\epsilon = \frac{L}{V}$ के रूप में परिभाषित करेंगे। $\epsilon$ की सहायता लेकर, एक पुनरावर्ती सूत्र (recursion relation) की रचना करें, जिस में $C_M^A(n)$ एवं $C_M^A(n - 1)$, यानी $n$ एवं $n - 1$ क्रियाओं के बाद बर्तन $A$ में पाये जाने वाले दूध की सांद्रताओं, के बीच के संबंध को दर्शाया गया है।
+
+(c) (3 marks) अनेक बार (बहुत बड़ी संख्या में) स्थानांतरण क्रियाएं करने के बाद दोनो बर्तनों में दूध की सांद्रता लगभग संतुलन मूल्य तक पहुंच जाती है जिसे $\epsilon$ के एक फलन रूप में लिखा जा सकता है। इस संतुलन सांद्रता का मूल्य क्या होगा?
+
+(d) (5 marks) हम एक नया चर $f_n$ इस तरह परिभाषित करेंगे,
+
+$f_n = C_M^A(n) - 1/2$
+
+$f_{n+1}$ और $f_n$ के बीच एक पुनरावर्ती सूत्र की रचना करें, और इस सूत्र की सहायता से $C_M^A(n)$ को $\epsilon$ और $n$ के एक सरल फलन के रूप में व्यक्त करें।
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Differential Equations (metodo)|Differential Equations]]
@@ -309,70 +383,90 @@ $f_{n+1}$ और$f_n$ केबीचएकपुनरावतɁ सूत्�
 
 <div class="qlang-split" data-lang="it"></div>
 
-3. A e B sono due recipienti che contengono la stessa quantità di liquido (fluido) di volume V. Inizialmente, A contiene solo latte e B contiene solo acqua. Preleviamo una certa quantità di liquido da ciascuno dei due recipienti e, mescolandola, la trasferiamo. Un'operazione di trasferimento è definita come il completamento dei due seguenti passaggi:
-• Passaggio 1: prelevare da A un certo volume definito (L), versarlo in B e mescolare bene.
-• Passaggio 2: prelevare da B la stessa quantità (L) di liquido misto e rimetterlo in A, mescolando bene.
-Alla fine di ogni operazione di trasferimento, la quantità di liquido in entrambi i recipienti è esattamente uguale, cioè V. Supponiamo che alla fine della $n$-esima operazione di trasferimento, la concentrazione del latte nel recipiente A sia indicata con $C^A_M(n)$. Qui definiamo la concentrazione come segue:
-$$C^A_M(n) = \frac{\text{बतर्न A मेंदूधकɃ मात्रा}}{\text{बतर्न A मेंकुलतरलपदाथर्कɃ मात्रा}} \quad (n\ \text{पूणर्स्थानांतरणिक्रयाओंकेबाद})$$
-Allo stesso modo, potete definire anche $C^A_W$, $C^B_M$ e $C^B_W$.
-(a) (4 punti) Scrivete l'espressione della concentrazione del latte nel recipiente A alla fine della prima operazione di trasferimento, cioè $C^A_M(1)$, in funzione dei volumi L e V.
-(b) (8 punti) Definiremo $\varepsilon$ come $\varepsilon = \dfrac{L}{V}$. Con l'aiuto di $\varepsilon$, costruite una relazione ricorsiva (recursion relation) che mostri la relazione tra $C^A_M(n)$ e $C^A_M(n-1)$, cioè le concentrazioni del latte presenti nel recipiente A dopo n e n $-1$ operazioni.
-(c) (3 punti) Dopo aver eseguito molte operazioni di trasferimento (in numero molto grande), la concentrazione del latte nei due recipienti raggiunge quasi il valore di equilibrio, che può essere scritto come una funzione di $\varepsilon$. Quale sarà il valore di questa concentrazione di equilibrio?
-(d) (5 punti) Definiremo una nuova variabile $f_n$ nel modo seguente,
+Considera due contenitori A e B, entrambi con la stessa quantità di liquido di volume $V$. Inizialmente, A contiene solo latte e B contiene solo acqua. Si trasferiscono i liquidi avanti e indietro tra i due contenitori. Un trasferimento è definito come l'esecuzione completa di entrambi i seguenti passi:
+
+- **Passo 1:** Prendere un volume fisso $L$ dal contenitore A, versarlo nel B e mescolare bene.
+- **Passo 2:** Prendere lo stesso volume $L$ del liquido mescolato dal contenitore B e versarlo nuovamente nel A, mescolando bene.
+
+Al termine di ogni trasferimento, entrambi i contenitori contengono liquidi con esattamente lo stesso volume $V$. Indichiamo con $C^A_M(n)$ la concentrazione di latte nel contenitore A al termine del $n$-esimo trasferimento. Qui definiamo la concentrazione come
+
+$$C^A_M(n) = \frac{\text{Volume di latte nel contenitore A}}{\text{Volume totale nel contenitore A}} \quad \text{dopo } n \text{ trasferimenti completi}$$
+
+In modo analogo, è possibile definire $C^A_W$, $C^B_M$ e $C^B_W$.
+
+(a) **[4]** Scrivere l'espressione per la concentrazione di latte nel contenitore A al termine del primo trasferimento. Esporre la concentrazione $C^A_M(1)$, dopo il primo trasferimento, in termini dei volumi $L$ e $V$.
+
+(b) **[8]** Sia $\varepsilon = \dfrac{L}{V}$. Scrivere la relazione di ricorrenza per $C^A_M(n)$, in termini della concentrazione al termine del $(n-1)$-esimo trasferimento, cioè $C^A_M(n-1)$ e $\varepsilon$.
+
+(c) **[3]** Se si effettua un numero abbastanza grande di trasferimenti, la concentrazione di latte in uno qualsiasi dei contenitori raggiungerà un valore praticamente costante, che è una funzione di $\varepsilon$. Qual è il valore di questa concentrazione all’equilibrio?
+
+(d) **[5]** Definire una nuova variabile $f_n$ tale che,
+
 $$f_n = C^A_M(n) - 1/2$$
-Costruite una relazione ricorsiva tra $f_{n+1}$ e $f_n$, e con l'aiuto di questa relazione esprimete $C^A_M(n)$ come una semplice funzione di $\varepsilon$ e $n$.
+
+e semplificare la relazione di ricorrenza tra $f_{n+1}$ e $f_n$ per esprimere $C^A_M(n)$ come funzione di $\varepsilon$ e $n$.
+
+<div class="qlang-split" data-lang="en"></div>
+
+Consider two containers A and B both with the same amount of liquid of volume $V$. Initially, A only has milk and B only has water. We transfer liquids back and forth between the two containers. One transfer is defined as completion of both the following steps:
+
+- **Step 1:** Take some fixed volume $L$ from container A, put it in B and mix it well.
+- **Step 2:** Take the same volume $L$ of the mixed fluid from container B and put it back in A and mix it well.
+
+At the end of each transfer, both containers have liquids with exactly the same volume $V$. Let $C^A_M(n)$ denote the concentration of milk in container A at the end of the $n$-th transfer. Here we define concentration as
+
+$$C^A_M(n) = \frac{\text{Volume of milk in container A}}{\text{Total Volume in container A}} \quad \text{after } n \text{ complete transfers}$$
+
+Similarly, you may define $C^A_W$, $C^B_M$ and $C^B_W$.
+
+(a) **[4]** Write down the expression for the concentration of milk in container A at the end of the first transfer. Express the concentration $C^A_M(1)$, after the first transfer, in terms of volumes $L$ and $V$.
+
+(b) **[8]** Let us define $\varepsilon$ as, $\varepsilon = \dfrac{L}{V}$. Write down the recursion relation for $C^A_M(n)$, in terms of the concentration at the end of the $(n-1)$th transfer i.e., $C^A_M(n-1)$ and $\varepsilon$.
+
+(c) **[3]** If one does fairly large number of transfers, then the concentration of milk in either of the container will reach almost equilibrium value which is a function of $\varepsilon$. What will be the value of this equilibrium concentration?
+
+(d) **[5]** Define a new variable $f_n$ such that,
+
+$$f_n = C^A_M(n) - 1/2$$
+
+and simplify the recursion relation between $f_{n+1}$ and $f_n$ to express $C^A_M(n)$ as a function of $\varepsilon$ and $n$.
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="INAO 2024 — Quesito 4" data-tags="kg/prova,paese/India,comp/INAO,cluster/Onde e Oscillazioni,object/mirror,object/rod,object/star"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="hi"></div>
 
 
 
-4. पोगसनकेसूत्रद्वारादोखगोलीयिंपडोंकेदृश्यप्र˃त(magnitude) $m_1$ और$m_2$ मेंसंबंधकोिनचेिदएगएतरीकेसे
-Ǻलखाजाताहै।
-$\Delta m = m_1 - m_2 = -2.5 \log_{10}\!\left(\dfrac{F_1}{F_2}\right)$
-यहाँ$F_1$ और$F_2$ प्रवाह(Flux) िनदǼʺशतकरतेहैजो, प्र˃तइकाईक्षेत्रप्र˃तइकाईसमयिंपडसेप्राप्तऊजार्कामापहै।
-(a) (3 marks) 6 इंच(1 इंच$= 2.54\ \text{cm}$) व्यासकɃ एकदूरबीनकेमुख्यदपर्ण(प्राथिमक, primary mirror)
-परव्याध(Sirius) तारेसेप्राप्तकुलऊजार्कɃ गणनाकरें।
-अʺभजीत(Vega) तारेकɃ दृश्यप्र˃त(magnitude) $m_\text{vega} = +0.03$ है, औरउससेप्राप्तप्रवाह(Flux)
-$2.19 \times 10^{-8}\ \text{W/m}^2$ है।
-हमएक6 इंचव्यासकेअवतलमुख्यदपर्णवालेन्यूटोिनयनपरवतɁ दूरबीनकाउपयोगकरेंगे।नीचेिदये˃चत्रमेंइस
-दूरबीनकɃ रचनाअलगअलगिदशाओंसे((a)
-बगलसे, (b)
-सामनेसेऔर(c) पीछेसे) िदखाईगयीहै।
-दूरबीनकेमुख्यअक्षपर$d_\text{disc} = 3.7\ \text{cm}$ व्यासकɃ एकसमतलवृत्ताकारपिट्टकापरलगायागयाएकिद्वतीयकदपर्ण
-(secondary mirror), दूरबीनकɃ नलीसेतीनपतलीछड़ों(rod) द्वाराजोड़ागयाहै, जैसािकनीचेिदएगए˃चत्र
-- **B.** मेंिदखायागयाहै।छड़ोंकɃ मोटाई$b_\text{rod} = 0.3\ \text{cm}$ है।
-- **B.** (3 marks) िद्वतीयकदपर्णकोअपनेस्थानपरपकड़ेरहनेवालीसहायकसंरचनाकेकारणप्राथिमकदपर्णको
-िमलनेवालेप्रवाह(flux) मेंिकतनेप्र˃तशतकमीआएगीउसकɃ गणनाकरें।
-मुख्यदपर्णकेप्रकाशीयअक्ष(optic axis) औरदूरबीनकɃ नालीकेअक्षकासमरेखीयहोनाअपे˃क्षतहै।लेिकन
-कभी-कभी, दूरबीनकागलततरीकेसेइस्तमालयाकुछअन्यकारणोंसेवेसमरेखीयनहींरहपाते।नीचेिदयेगये
-प्रश्नोंमेंिद्वतीयकदपर्णएवंउसेस्थानपरȥस्थररखनेवालीसहायकसंरचनाकेप्रभावोंकोअनदेखाकरें।मानलेंिक
-मुख्यदपर्णकाव्यासलगभगदूरबीनकेनलीव्यासʹजतनाहीहै।
-(c) (3 marks) मानलीʹजएिकदूरबीनकɃ नलीऔरमुख्यदपर्णकेप्रकाशीयअक्षकेबीचकाकोण$\theta = 5^\circ$ है।
-इसदोषकेकारणमुख्यदपर्णमेंप्राप्तप्रवाह(flux) मेंिकतनेप्र˃तशतकमीआएगीउसकɃ गणनाकरें।
-मुख्यदपर्णकेप्रकाशीयअक्षकासंरेखणदूरबीनकेिनचलेभागमेंȥस्थततीनसमतलनपेंच(levelling screw), $S_1$,
-$S_2$ और$S_3$ द्वारािकयाजाताहै।जैसाउपरिदयेगए˃चत्र
-(c) मेंिदखायागयाहै।यहतीनपेंचएकसमबाहुित्रभुज
-बनातेहैं, ʹजसकɃ प्रत्येकभुजाकɃ लम्बाई$l = 3\ \text{inches}$ है।˃चत्र
-(c) मेंमुख्यदपर्णकाप्रकाशीयअक्षकागजके
-तलकेलंबवतहैऔरइसित्रभुजकेकेन्द्रकO सेगुजरताहै।
-(d) (4 marks) मानलीʹजएिकऊपरवʻणतदपर्णकेअक्षका$5^\circ$ झुकावनलीकेअक्षऔररेखा$OS_1$ वालेसमतल
-मेंहुआहै(˃चत्र(c))।इसǺलए, $S_2$ या$S_3$ कोिवचǺलतिकयेिबनाझुकावकोसहीकरनेकेǺलयेअकेलेपेंच
-$S_1$ कोस्थानांतȼरतकरकेअक्षोंकोिफरसेसमरेखीयकरनासंभवहोनाचािहए।यिदपेंच$S_1$ कɃ िपच(pitch)
-$1.15\ \text{mm}$ है, तोदपर्णकेअक्षकोसंरेǺखतकरनेकेǺलएइसपेंचकोिकतनेबारघुमानापड़ेगा(number of
-turns)?
-िकसीभीदूरबीनसेिकसीस्रोतकोदेखतेवक्तउसस्रोतकɃ अ˃धकतमचमकिकतनीहोयहदूरबीनकेव्यासकेमाप
-(एपचर्रसाइज,aperture size) औरउʓवलप्रकाशकेǺलएमानवआँखकɃ सहनशीलतासेसीिमतहै।यहमानलेंकɃ
-हमारेदूरबीन(मुख्यदपर्णव्यास6 इंच) केसाथसुर˃क्षतरूपसेदेखेजानेवालीसबसेचमकɃलीवस्तुकɃ दृश्यप्र˃त
-$-10.50$ है।इससेअ˃धकउʓवलिकसीभीस्रोतकािनरीक्षणकरनेकेǺलएदूरबीनकेप्रभावीएपचर्र(effective
-aperture) कोकमकरकेमुख्यदपर्णतकपहुंचनेवालेप्रकाशकɃ मात्राकोसीिमतिकयाजानाचािहए।यहकामदूरबीन
-कोएकढक्कनकेसाथढककर, उसमेंउ˃चतआकारकाएकबड़ाʺछद्रबनाकरपूरािकयाजाताहै।
-(e) (4 marks) ढक्कनपरबनेइसगोलाकारʺछद्रकेव्यासकɃ गणनाकरेंतािक $-12.525$ दृश्यप्र˃त(magnitude)
-कासुपरनोवासुर˃क्षतरूपसेदेखाजासके।एकबारिफर, िद्वतीयकदपर्णऔरइसकɃ सहायकसंरचनाको
-अनदेखाकरें।
+4. पोगसन के सूत्र द्वारा दो खगोलीय पिंडों के दृश्यप्रति (magnitude) $m_1$ और $m_2$ में संबंध को निचे दिए गए तरीके से लिखा जाता है।
+
+$\Delta m = m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right)$
+
+यहाँ $F_1$ और $F_2$ प्रवाह (Flux) निर्देशित करते है जो, प्रति इकाई क्षेत्र प्रति इकाई समय पिंड से प्राप्त ऊर्जा का माप है।
+
+(a) (3 marks) 6 इंच (1 इंच = 2.54 cm) व्यास की एक दूरबीन के मुख्य दर्पण (प्राथमिक, primary mirror) पर व्याध (Sirius) तारे से प्राप्त कुल ऊर्जा की गणना करें। अभिजीत (Vega) तारे की दृश्यप्रति (magnitude) $m_{\text{vega}} = +0.03$ है, और उससे प्राप्त प्रवाह (Flux) $2.19 \times 10^{-8} \text{ W/m}^2$ है।
+
+हम एक 6 इंच व्यास के अवतल मुख्य दर्पण वाले न्यूटोनियन परवर्ती दूरबीन का उपयोग करेंगे। नीचे दिये चित्र में इस दूरबीन की रचना अलग अलग दिशाओं से ((a) बगल से, (b) सामने से और (c) पीछे से) दिखाई गयी है। दूरबीन के मुख्य अक्ष पर $d_{\text{disc}} = 3.7 \text{ cm}$ व्यास की एक समतल वृत्ताकार पट्टिका पर लगाया गया एक द्वितीयक दर्पण (secondary mirror), दूरबीन की नली से तीन पतली छड़ें (rod) द्वारा जोड़ा गया है, जैसा कि नीचे दिए गए चित्र (b) में दिखाया गया है। छड़ों की मोटाई $b_{\text{rod}} = 0.3 \text{ cm}$ है।
+
+<!--fig:start-->
+**Quesito 4**
+![[INAO2024-Question_p7_f1.png]]
+<!--fig:end-->
+
+(b) (3 marks) द्वितीयक दर्पण को अपने स्थान पर पकड़े रहने वाली सहायक संरचना के कारण प्राथमिक दर्पण को मिलने वाले प्रवाह (flux) में कितने प्रतिशत कमी आएगी उसकी गणना करें।
+
+मुख्य दर्पण के प्रकाशीय अक्ष (optic axis) और दूरबीन की नाली के अक्ष का समरेखीय होना अपेक्षित है। लेकिन कभी-कभी, दूरबीन का गलत तरीके से इस्तमाल या कुछ अन्य कारणों से वे समरेखीय नहीं रह पाते। नीचे दिये गये प्रश्नों में द्वितीयक दर्पण एवं उसे स्थान पर स्थिर रखने वाली सहायक संरचना के प्रभावों को अनदेखा करें। मान लें कि मुख्य दर्पण का व्यास लगभग दूरबीन के नली व्यास जितना ही है।
+
+(c) (3 marks) मान लीजिए कि दूरबीन की नली और मुख्य दर्पण के प्रकाशीय अक्ष के बीच का कोण $\theta = 5^{\circ}$ है। इस दोष के कारण मुख्य दर्पण में प्राप्त प्रवाह (flux) में कितने प्रतिशत कमी आएगी उसकी गणना करें।
+
+मुख्य दर्पण के प्रकाशीय अक्ष का संरेखण दूरबीन के निचले भाग में स्थित तीन समतलन पेंच (levelling screw), $S_1$, $S_2$ और $S_3$ द्वारा किया जाता है। जैसा उपर दिये गए चित्र (c) में दिखाया गया है। यह तीन पेंच एक समबाहु त्रिभुज बनाते हैं, जिसकी प्रत्येक भुजा की लम्बाई $l = 3$ inches है । चित्र (c) में मुख्य दर्पण का प्रकाशीय अक्ष कागज के तल के लंबवत है और इस त्रिभुज के केन्द्रक O से गुजरता है।
+
+(d) (4 marks) मान लीजिए कि ऊपर वर्णित दर्पण के अक्ष का $5^{\circ}$ झुकाव नली के अक्ष और रेखा $OS_1$ वाले समतल में हुआ है (चित्र (c))। इसलिए, $S_2$ या $S_3$ को विचलित किये बिना झुकाव को सही करने के लिये अकेले पेंच $S_1$ को स्थानांतरित करके अक्षों को फिर से समरेखीय करना संभव होना चाहिए। यदि पेंच $S_1$ की पिच (pitch) 1.15 mm है, तो दर्पण के अक्ष को संरेखित करने के लिए इस पेंच को कितने बार घुमाना पड़ेगा (number of turns)?
+
+किसी भी दूरबीन से किसी स्रोत को देखते वक्त उस स्रोत की अधिकतम चमक कितनी हो यह दूरबीन के व्यास के माप (एपर्चर साइज़, aperture size) और उज्ज्वल प्रकाश के लिए मानव आँख की सहनशीलता से सीमित है। यह मान लें की हमारे दूरबीन (मुख्य दर्पण व्यास 6 इंच ) के साथ सुरक्षित रूप से देखे जाने वाली सबसे चमकीली वस्तु की दृश्यप्रति $-10.50$ है। इस से अधिक उज्ज्वल किसी भी स्रोत का निरीक्षण करने के लिए दूरबीन के प्रभावी एपर्चर (effective aperture) को कम करके मुख्य दर्पण तक पहुँचने वाले प्रकाश की मात्रा को सीमित किया जाना चाहिए। यह काम दूरबीन को एक दक्षन के साथ ढक कर, उसमें उचित आकार का एक बड़ा छिद्र बनाकर पूरा किया जाता है।
+
+(e) (4 marks) दक्षिण पर बने इस गोलाकार छिद्र के व्यास की गणना करें ताकि $-12.525$ दृश्यप्रति (magnitude) का सुपरनोवा सुरक्षित रूप से देखा जा सके। एक बार फिर, द्वितीयक दर्पण और इसकी सहायक संरचना को अनदेखा करें।
 
 **Topic:** [[Astrophysics]], [[Geometric Optics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ray Tracing (metodo)|Ray Tracing]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -383,31 +477,67 @@ aperture) कोकमकरकेमुख्यदपर्णतकपहु�
 
 <div class="qlang-split" data-lang="it"></div>
 
-4. La differenza tra le magnitudini $m_1$ e $m_2$ di due oggetti celesti, i cui flussi (energia ricevuta dall'oggetto per unità di area e per unità di tempo) sono rispettivamente $F_1$ e $F_2$, è data dalla relazione di Pogson:
+La differenza di magnitudini $m_1$ e $m_2$ di due oggetti celesti con flusso (energia ricevuta dall'oggetto per unità di superficie per unità di tempo) rispettivamente $F_1$ e $F_2$, è data dalla relazione di Pogson come
 
-$\Delta m = m_1 - m_2 = -2.5 \log_{10}\!\left(\dfrac{F_1}{F_2}\right)$
+$$\Delta m = m_1 - m_2 = -2.5 \log_{10} \left(\frac{F_1}{F_2}\right)$$
 
-(a) (3 punti) Calcolare l'energia totale per unità di tempo ricevuta dalla stella Sirio (magnitudine $m_\text{sirius} = -1.46$) sullo specchio primario, di diametro 6 pollici (1 pollice $= 2.54\ \text{cm}$), di un telescopio. Il flusso della stella Vega, che ha magnitudine $m_\text{vega} = +0.03$, è $2.19 \times 10^{-8}\ \text{W/m}^2$.
+(a) **[3]** Calcolare l'energia totale per unità di tempo ricevuta nel primo specchio principale di diametro 6 pollici (1 pollice = 2,54 cm) di un telescopio dalla stella Sirio (magnitudine $m_\text{sirius} = -1.46$). Il flusso della stella Vega, che ha magnitudine $m_\text{vega} = +0.03$, è pari a $2.19\times10^{-8}\ \text{W/m}^2$.
 
-Si consideri un telescopio riflettore newtoniano (nella figura sotto sono mostrate le viste (a) laterale, (b) dall'alto e (c) dal basso) con uno specchio primario concavo di diametro 6 pollici. Uno specchio secondario, montato su un disco piano di diametro $d_\text{disc} = 3.7\ \text{cm}$, è tenuto in posizione sull'asse del tubo del telescopio da tre sottili aste di spessore $b_\text{rod} = 0.3\ \text{cm}$, come mostrato nella figura (b).
+Si consideri un telescopio newtoniano a riflessione ((a) vista laterale, (b) vista dall'alto e (c) vista dal basso mostrate nella figura qui sotto), con uno specchio primario concavo di diametro 6 pollici. Uno specchio secondario, montato su un disco piano di diametro $d_\text{disc} = 3.7$ cm, è mantenuto in posizione sull'asse del tubo del telescopio da tre aste sottili di spessore $b_\text{rod} = 0.3$ cm, come mostrato nella figura (b) qui sotto.
 
 <!--fig:start-->
+**Quesito 4**
 ![[INAO2024-Question_p7_f1.png]]
 <!--fig:end-->
 
-(b) (3 punti) Calcolare la riduzione percentuale del flusso sullo specchio primario dovuta alla struttura di sostegno dello specchio secondario.
+(b) **[3]** Calcolare la riduzione percentuale del flusso al primo specchio dovuta alla struttura di sostegno dello specchio secondario.
 
-L'asse ottico dello specchio primario e l'asse del tubo del telescopio dovrebbero coincidere. A volte, però, possono disallinearsi per un uso scorretto o per altri motivi. Nelle domande seguenti si trascurino gli effetti dello specchio secondario e della sua struttura di sostegno, e si assuma che il diametro dello specchio primario sia praticamente uguale a quello del tubo.
+L'asse ottico dello specchio primario e l'asse del tubo del telescopio dovrebbero coincidere. A volte, però, possono allinearsi in modo errato a causa di maneggiamenti impropri o altri problemi.
 
-(c) (3 punti) Si supponga che, a causa di un disallineamento, l'angolo tra i due assi sia $\theta = 5^\circ$. Calcolare la variazione percentuale del flusso ricevuto dallo specchio primario dovuta a questo difetto.
+(c) **[3]** Supponiamo che a causa di un'allineamento errato, l'angolo tra i due assi sia $\theta = 5^\circ$. Calcolare la variazione percentuale del flusso ricevuto allo specchio primario dovuta a questo difetto. Per questo punto si trascurino gli effetti dello specchio secondario e della sua struttura di sostegno. Si assuma che il diametro dello specchio primario sia molto vicino a quello del tubo del telescopio.
 
-L'allineamento dell'asse dello specchio primario si regola con tre viti di livellamento, $S_1$, $S_2$ e $S_3$, poste sul fondo del telescopio. Come si vede nella vista dal basso (figura (c)), queste viti formano un triangolo equilatero di lato $l = 3\ \text{inches}$ (3 pollici). Nella figura (c) l'asse ottico dello specchio primario è perpendicolare al piano del foglio e passa per il baricentro O del triangolo.
+L'allineamento dell'asse dello specchio primario viene effettuato tramite tre viti di livellamento, $S_1$, $S_2$ e $S_3$, nella parte inferiore del telescopio. Come mostrato nella vista dal basso (figura (c)), queste viti formano un triangolo equilatero di lato $l = 3$ pollici. L'asse ottico dello specchio primario è perpendicolare al piano del foglio nella figura (c) e passa per il baricentro O di questo triangolo.
 
-(d) (4 punti) Si supponga che l'inclinazione di $5^\circ$ dell'asse dello specchio descritta sopra sia avvenuta nel piano che contiene l'asse del tubo e la retta $OS_1$ (figura (c)). Deve quindi essere possibile correggere l'inclinazione e riallineare gli assi agendo soltanto sulla vite $S_1$, senza toccare $S_2$ o $S_3$. Se il passo della vite $S_1$ è $1.15\ \text{mm}$, quanti giri di questa vite servono per riallineare lo specchio?
+(d) **[4]** Supponiamo che il tilt di $5^\circ$ dell'asse dello specchio descritto sopra avvenga nel piano contenente l'asse del tubo e la linea $OS_1$ (vedi figura (c)). È quindi possibile correggere il tilt e riallineare gli assi spostando soltanto la vite $S_1$, senza disturbare $S_2$ o $S_3$. Se il passo della vite $S_1$ è 1,15 mm, quanti giri di questa vite sono necessari per riportare lo specchio in allineamento?
 
-La luminosità massima di una sorgente osservabile con un telescopio di data apertura è limitata dalla tolleranza dell'occhio umano alla luce intensa. L'oggetto più luminoso che si può osservare in sicurezza con il nostro telescopio (specchio primario di diametro 6 pollici) ha magnitudine $-10.50$. Per osservare una sorgente più luminosa di questo limite occorre ridurre la quantità di luce che arriva allo specchio primario, diminuendo l'apertura efficace del telescopio. Lo si fa coprendo l'imboccatura del telescopio con un coperchio provvisto di un foro (apertura) più piccolo, di dimensione opportuna.
+La luminosità massima di una sorgente che può essere osservata con un telescopio di dato diametro è limitata dalla tolleranza dell'occhio umano alla luce intensa. L'oggetto più luminoso che può essere osservato in sicurezza con il nostro telescopio (diametro dello specchio primario di 6 pollici) ha magnitudine $-10.50$. Per osservare qualsiasi sorgente più luminosa di questo limite, la quantità di luce che raggiunge lo specchio primario deve essere ridotta diminuendo il diametro efficace del telescopio. Ciò viene realizzato coprendo la parte superiore del telescopio con un coperchio che ha un foro (apertura) più piccolo di dimensione opportuna.
 
-(e) (4 punti) Calcolare il diametro di questo foro circolare nel coperchio in modo che si possa osservare in sicurezza una supernova di magnitudine $-12.525$. Anche in questo caso si trascurino lo specchio secondario e la sua struttura di sostegno.
+(e) **[4]** Calcolare la dimensione di questo foro circolare più piccolo sul coperchio in modo che una supernova di magnitudine $-12.525$ possa essere osservata in sicurezza. Una volta ancora, si trascurino lo specchio secondario e la sua struttura di sostegno.
+
+**Topic:** [[Astrophysics]], [[Geometric Optics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ray Tracing (metodo)|Ray Tracing]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
+**Competenze:** [[Mathematical Modeling (competenza)|Mathematical Modeling]], [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Mirror (object)|Mirror]], [[Rod (object)|Rod]], [[Star (object)|Star]]
+**Fonte:** [Testo (PDF) — p.7](https://drive.google.com/file/d/1AkgADhUSvhljAYBxBdcB-ECIcoXKnCMp/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The difference in magnitudes $m_1$ and $m_2$ of two celestial objects with flux (energy received from the object per unit area per unit time) $F_1$ and $F_2$, respectively, is given by Pogson's relation as
+
+$$\Delta m = m_1 - m_2 = -2.5 \log_{10} \left(\frac{F_1}{F_2}\right)$$
+
+(a) **[3]** Calculate the total energy per unit time received at the primary mirror of diameter 6 inches (1 inch = 2.54 cm) of a telescope from the star Sirius (magnitude $m_\text{sirius} = -1.46$). The flux of the star Vega, which has a magnitude $m_\text{vega} = +0.03$, is equal to $2.19\times10^{-8}\ \text{W/m}^2$.
+
+Consider a Newtonian reflecting telescope ((a) side, (b) top and (c) bottom views shown in the figure below) with a concave primary mirror of diameter 6 inches. A secondary mirror, mounted on a flat disc of diameter $d_\text{disc} = 3.7$ cm, is held in place on the axis of the telescope tube by three thin rods of thickness $b_\text{rod} = 0.3$ cm, as shown in the figure (b) below.
+
+<!--fig:start-->
+**Quesito 4**
+![[INAO2024-Question_p7_f1.png]]
+<!--fig:end-->
+
+(b) **[3]** Calculate the percentage reduction in flux at the primary mirror due to the supporting structure of the secondary mirror.
+
+The optic axis of the primary mirror and the axis of the telescope tube are expected to be coincident. But sometimes, they may get misaligned due to mishandling or some other issues.
+
+(c) **[3]** Suppose that due to a misalignment, the angle between the two axes is $\theta = 5^\circ$. Calculate the percentage change in the flux received at the primary due to this fault. For this part ignore the effects of the secondary mirror and its supporting structure. Assume that the diameter of the primary mirror is very close to that of the telescope tube.
+
+The alignment of the axis of the primary mirror is done by three levelling screws, $S_1$, $S_2$ and $S_3$ at the bottom of the telescope. As seen in the bottom view (figure (c)), these screws form an equilateral triangle of side $l = 3$ inches. The optic axis of the primary mirror is perpendicular to the plane of the paper in figure (c) and passes through the centroid O of this triangle.
+
+(d) **[4]** Suppose that the $5^\circ$ tilt of the axis of the mirror described above has happened in the plane containing the axis of the tube and the line $OS_1$ (see figure (c)). Therefore, it should be possible to correct the tilt and realign the axes by moving the screw $S_1$ alone, without disturbing $S_2$ or $S_3$. If the pitch of the screw $S_1$ is 1.15 mm, how many turns of this screw are needed to bring the mirror back in alignment?
+
+The maximum brightness of a source that can be observed with a telescope of a given aperture is limited by the tolerance of the human eye to bright light. The brightest object that can be observed safely with our telescope (primary mirror diameter of 6 inches) is of magnitude $-10.50$. To observe any source brighter than this limit the amount of light that reaches the primary mirror must be restricted by reducing the effective aperture of the telescope. This is accomplished by covering the top of the telescope with a lid that has a smaller hole (aperture) of appropriate size.
+
+(e) **[4]** Calculate the size of this smaller circular aperture on the lid so that a supernova of magnitude $-12.525$ can be safely observed. Once again, ignore the secondary mirror and its supporting structure.
 
 **Topic:** [[Astrophysics]], [[Geometric Optics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Ray Tracing (metodo)|Ray Tracing]], [[Experimental Data Analysis (metodo)|Experimental Data Analysis]]
@@ -419,84 +549,100 @@ La luminosità massima di una sorgente osservabile con un telescopio di data ape
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="INAO 2024 — Quesito 5" data-tags="kg/prova,paese/India,comp/INAO,cluster/Onde e Oscillazioni,object/star"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="hi"></div>
 
 
 
-5. नीचेिदयागया˃चत्रउत्तरीगोलाधर्मेंिकसीस्थानसे, प˃श्चमी˃क्ष˃तजकेपास, आकाशकेएकिहस्सेकोिदखाताहै।
-˃चत्रकेनीचेकेिहस्सेमें˃क्ष˃तजकोहरेरंगमेंिदखायागयाहैऔरअक्षर'W' प˃श्चमीिदशािंबदुको˃चिह्नतकरताहै।
-आकाशपरिदखरहालगभगआयताकारजालRA (िवषूवाशं) औरDec (क्रांती) िनदǼशांकदशार्ताहै।प्रत्येकछोटे
-आयताकारRA में $10^\text{m}$ औरDec में $5^\circ$ केसमानहै।'R' अक्षरद्वारािनदǼʺशतएकतारा, ˃चत्रमें, अपनेसहीखगोलीय
-िनदǼशांक(RA: $23^\text{h}\ 04^\text{m}$ & Dec: $+15^\circ 12'$) पर˃चȥन्हतगयाहै।आपकेउत्तरोंको˃चिह्नतकरनेकेǺलएआपकɃ
-उत्तरपुȥस्तकामेंभीये˃चत्रिदयागयाहै।ऊपरदीगईजानकारीकेसाथिनम्नǺलǺखतप्रश्नोंकेउत्तरदीʹजए।
-- **A.** (2 marks) ˃चत्रपरनक्षत्रीयिवषुवत(celestial equator) कोपहचानेंऔर˃चिह्नतकरें।
-- **B.** (3 marks) स्थानकेभौगोǺलकअक्षांशकाअनुमानलगाएं।
-- **C.** (4 marks) नीचेकɃ ताǺलकामेंचारʹसतारोंकेखगोलीयिनदǼशांक( RA एवंDec) िदयेगयेहै।इनʹसतारोंको
-आपकɃ उत्तरपुȥस्तकामेंिदये˃चत्रपर˃चिह्नतकरें।
-˃चन्हाक्षर
-तारेकानाम
-िवषूवाशं
-क्रांती
-A
-70 Peg
-$23^\text{h}\ 29^\text{m}$
-$+12^\circ 45'$
-B
-$\beta$ Psc
-$23^\text{h}\ 4^\text{m}$
-$+3^\circ 49'$
-C
-$\iota$ Cet
-$0^\text{h}\ 19^\text{m}$
-$-8^\circ 49'$
-D
-71 Aqr
-$23^\text{h}\ 16^\text{m}$
-$-9^\circ 5'$
-(d) (2 marks) ताǺलकासेउनतारोंकɃ पहचानकरेंजोद˃क्षणीध्रुवपरȥस्थतपयर्वेक्षककेǺलएदृश्यमाननहीं
-होंगे।अपनेउत्तरकेसमथर्नमेंकारणदीʹजये।
-(e) (3 marks) िनȺदष्ट˃तʺथऔरसमयपर, सूयर्के(केंद्रके) िनदǼशांकइसप्रकारहैं: RA $23^\text{h}\ 54^\text{m}$ एवंDec:
-$-0^\circ 36'$।अपनीउत्तरपुȥस्तकामेंिदये˃चत्रमें, सहीजगहपरसूयर्कोसू˃चतकरनेवालाउ˃चतआकारकाएक
-वृत्तसटीकरूपसेबनाएं।
-(f) (2 marks) यिदिदएगएस्थानसेदेखतेहुए, ताǺलकामेंB ˃चन्हाक्षरवालाʹसताराअगरस्थानीयसमय18:01
-बजेढलताहै, तोअन्यएकʹसतारे, ʹजसकेखगोलीयिनदǼशांकRA: $23^\text{h}\ 17^\text{m}$ and Dec: $3^\circ 49'$ हैं, केढलनेके
-स्थानीयसमयकाअनुमानलगाए।
+5. नीचे दिया गया चित्र उत्तरी गोलार्ध में किसी स्थान से, पश्चिमी क्षितिज के पास, आकाश के एक हिस्से को दिखाता है। चित्र के नीचे के हिस्से में क्षितिज को हरे रंग में दिखाया गया है और अक्षर 'W' पश्चिमी दिशा बिंदु को चिह्नित करता है। आकाश पर दिख रहा लगभग आयताकार जाल RA (विषुवाशं) और Dec (क्रांती) निर्देशांक दर्शाता है। प्रत्येक छोटे आयताकार RA में $10^{\text{m}}$ और Dec में $5^{\circ}$ के समान है। 'R' अक्षर द्वारा निर्देशित एक तारा, चित्र में, अपने सही खगोलीय निर्देशांक (RA: $23^{\text{h}} 04^{\text{m}}$ & Dec: $+15^{\circ}12'$) पर चिन्हित गया है। आपके उत्तरों को चिह्नित करने के लिए आपकी उत्तरपुस्तिका में भी ये चित्र दिया गया है। ऊपर दी गई जानकारी के साथ निम्नलिखित प्रश्नों के उत्तर दीजिए।
+
+*(figura nel PDF originale)*
+
+(a) (2 marks) चित्र पर नक्षत्रीय विषुवत (celestial equator) को पहचानें और चिह्नित करें।
+
+(b) (3 marks) स्थान के भौगोलिक अक्षांश का अनुमान लगाएं।
+
+(c) (4 marks) नीचे की तालिका में चार सितारों के खगोलीय निर्देशांक (RA एवं Dec) दिये गये हैं। इन सितारों को आपकी उत्तरपुस्तिका में दिये चित्र पर चिह्नित करें।
+
+| चिन्हाक्षर | तारे का नाम | विषुवांश | क्रांति |
+| :--- | :--- | :--- | :--- |
+| A | 70 Peg | 23ʰ 29ᵐ | +12°45′ |
+| B | β Psc | 23ʰ 4ᵐ | +3°49′ |
+| C | ι Cet | 0ʰ 19ᵐ | –8°49′ |
+| D | 71 Aqr | 23ʰ 16ᵐ | –9°5′ |
+
+(d) (2 marks) तालिका से उन तारों की पहचान करें जो दक्षिणी ध्रुव पर स्थित पर्यवेक्षक के लिए दृश्यमान नहीं होंगे। अपने उत्तर के समर्थन में कारण दीजिये।
+
+(e) (3 marks) निर्दिष्ट तिथि और समय पर, सूर्य के (केंद्र के) निर्देशांक इस प्रकार हैं: RA 23ʰ 54ᵐ एवं Dec: –0°36′। अपनी उत्तर पुस्तिका में दिये चित्र में, सही जगह पर सूर्य को सूचित करने वाला उचित आकार का एक वृत्त सटीक रूप से बनाएं।
+
+(f) (2 marks) यदि दिए गए स्थान से देखते हुए, तालिका में B चिन्हाक्षर वाला सितारा अगर स्थानीय समय 18:01 बजे ढलता है, तो अन्य एक सितारे, जिसके खगोलीय निर्देशांक RA: 23ʰ 17ᵐ and Dec: 3°49′ हैं, के ढलने के स्थानीय समय का अनुमान लगाएं।
+
 Notes: Celestial Coordinate System
+
 The Celestial Sphere is a representation of the sky as a huge imaginary sphere, with its centre
+
 at the centre of the Earth, on which all the celestial objects can be seen. The Celestial Equator
+
 is the circle marking the intersection of the Earth’s equatorial plane with the celestial sphere.
+
 Thus, for an observer standing on the Earth’s equator, the Celestial Equator will be a circle
+
 passing through the cardinal points East and West, and the Zenith (overhead point). The North
+
 and South Celestial Poles are the intersection points of the rotational axis of the Earth with the
+
 Celestial Sphere.
-Diagram depicting the celestial sphere with Earth at its
-center.
-Representation of a star’s celestial coordinates (RA and
-Dec) on the celestial sphere.
+
+*(figura nel PDF originale)*
+
+*(figura nel PDF originale)*
+
 With the equator and the poles thus defined, we can now define two celestial coordinates to
+
 describe the position of any celestial object on the Celestial Sphere, namely Right Ascension
+
 (RA) and Declination (Dec). These celestial coordinates are analogous to the longitude and
+
 latitude on the Earth, respectively.
+
 Right Ascension (RA) is the celestial analogue of the terrestrial longitude. The zero of RA passes
+
 through the Vernal Equinox, which marks the point where the Sun crosses the Celestial Equator
+
 into the northern part of the sky around 21 March every year. The corresponding terrestrial
-equivalent is the prime meridian, i.e., $0^{\circ}$ longitude, which passes through Greenwich, UK.
+
+equivalent is the prime meridian, i.e., 0° longitude, which passes through Greenwich, UK.
+
 As we trace celestial equator in our sky from west to east, the RA value keeps increasing.
+
 Although RA can be expressed in degrees (like longitude), it is customary to express it in
-hours, minutes, and seconds of time — from 00h 00m 00s to 24h 00m 00s — thus “fixing” the
+
+hours, minutes, and seconds of time — from 00ʰ 00ᵐ 00ˢ to 24ʰ 00ᵐ 00ˢ — thus “fixing” the
+
 RA grid to the sky, as the sky appears to rotate due to the diurnal rotation of the Earth around
-its axis. The entire celestial sphere completes a full $360^{\circ}$ rotation in approximately 24 hours,
-equating to about $15^{\circ}$ per hour. Therefore, in one hour, the sky rotates by about one hour of
-RA. (Conversion: 1h = 60m = 3600s).
+
+its axis. The entire celestial sphere completes a full 360° rotation in approximately 24 hours,
+
+equating to about 15° per hour. Therefore, in one hour, the sky rotates by about one hour of
+
+RA. (Conversion: 1ʰ = 60ᵐ = 3600°).
+
 Declination (Dec) functions as the celestial counterpart of the terrestrial latitude, measured in
+
 degrees, arcminutes and arcseconds. Similar to latitude, positive and negative values indicate
+
 positions north and south of the Celestial Equator, respectively. The Celestial Equator has a
-declination of $0^{\circ}$, while the North and the South celestial poles have declinations of $+90^{\circ}$ and
-$-90^{\circ}$, respectively. (Conversion: $1^{\circ}$ = $60'$ = $3600''$).
+
+declination of 0°, while the North and the South celestial poles have declinations of +90° and
+
+–90°, respectively. (Conversion: 1° = 60′ = 3600″).
+
 Using these “equatorial coordinates”, we can define the position of any object in the sky in
+
 much the same way as we use longitude and latitude to describe the location of any place on
+
 the Earth.
-prepared using LATEX
+
+prepared using छाए
 
 **Topic:** [[Astrophysics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
@@ -507,80 +653,65 @@ prepared using LATEX
 
 <div class="qlang-split" data-lang="it"></div>
 
-5. In basso, la catena del nord del mondo è di dimensioni medie, a ovest, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud, a sud.
-La figura "W" è il simbolo di un'altra parte del sud.
-Il cielo è un luogo di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita, di vita.
-आयताकारRA में $10^\text{m}$ औरDec में $5^\circ$ केसमानहै।'R' अक्षरद्वारािनदǼʺशतएकतारा, ˃चत्रमें, अपनेसहीखगोलीय
-INDSHANK(RA: $23^\text{h}\ 04^\text{m}$ & Dec: $+15^\circ 12'$) su CCHNATGYAY.
-Il libro contiene anche le informazioni più dettagliate.
-- **A.** (2 punti) Citrapernksatriaivivesवतcelestial equator)
-- **B.** (3 marchi) Inserire il posto di un'inclinazione.
-- **C.** (4 punti) sotto la tabella di riferimento di un numero di punti di riferimento (RA e Dec)
-I vostri libri di risposta sono stati illustrati.
-˃चन्हाक्षर
-तारेकानाम
-िवषूवाशं
-क्रांती
-A
-70 Peg
-$23^\text{h}\ 29^\text{m}$
-$+12^\circ 45'$
-B
-$\beta$ Psc
-$23^\text{h}\ 4^\text{m}$
-$+3^\circ 49'$
-C
-$\iota$ Cet
-$0^\text{h}\ 19^\text{m}$
-$-8^\circ 49'$
-D
-71 Acre
-$23^\text{h}\ 16^\text{m}$
-$-9^\circ 5'$
-d) (2 punti) Identificazione dei personaggi di accoglienza per il controllo di posizione del controllore
-Dovranno. Rispondi al caso in questo momento.
-(e) (3 punti) Innesto e tempo, suicentro e centro, indice di scadenza: RA $23^\text{h}\ 54^\text{m}$ e Dec:
-$-0^\circ 36'$।अपनीउत्तरपुȥस्तकामेंिदये˃चत्रमें, सहीजगहपरसूयर्कोसू˃चतकरनेवालाउ˃चतआकारकाएक
-Servizi di documentazione.
-(f) (2 punti) Se si è iscritti al posto di riferimento, il numero di persone che hanno iscritto al testo è il numero di persone che hanno iscritto al testo.
-बजेढलताहै, तोअन्यएकʹसतारे, ʹजसकेखगोलीयिनदǼशांकRA: $23^\text{h}\ 17^\text{m}$ and Dec: $3^\circ 49'$ हैं, केढलनेके
-La situazione è stata stabilita nel corso del periodo di lavoro.
-Nota: Sistema di coordinate celesti
-La Sfera Celeste è una rappresentazione del cielo come una enorme sfera immaginaria, con il suo centro
-al centro della Terra, dove tutti gli oggetti celesti possono essere visti. L'Equatore Celeste
-è il cerchio che segna l'intersezione del piano equatoriale della Terra con la sfera celeste.
-Quindi, per un osservatore che sta sull'equatore terrestre, l'equatore celeste sarà un cerchio
-passando attraverso i punti cardinali Est e Ovest e il Zenith (punto di testa). Il Nord
-e i poli celesti meridionali sono i punti di intersezione dell'asse di rotazione della Terra con il
-Sfera celeste.
-Diagramma che raffigura la sfera celeste con la Terra al suo punto di partenza
-centro.
-Rappresentazione delle coordinate celestiali di una stella (RA e
-Dec) sulla sfera celeste.
-Con l'equatore e i poli così definiti, possiamo ora definire due coordinate celestiali per
-descrivere la posizione di qualsiasi oggetto celeste sulla Sfera Celeste, vale a dire l'Ascensione Retta
-(RA) e declinazione (dec). Queste coordinate celesti sono analoghe alla longitudine e
-latitudine sulla Terra, rispettivamente.
-L'Ascensione Retta (RA) è l'analogio celeste della longitudine terrestre. Il zero di RA passa
-attraverso l'Equinox Vernal, che segna il punto in cui il Sole attraversa l'Equatore Celeste
-nella parte settentrionale del cielo intorno al 21 marzo di ogni anno. Il corrispondente sistema terrestre
-L'equivalente è il meridiano primo, cioè la longitudine $0^{\circ}$, che attraversa Greenwich, Regno Unito.
-Mentre tracciamo l'equatore celeste nel nostro cielo da ovest a est, il valore RA continua ad aumentare.
-Sebbene l'AR possa essere espressa in gradi (come la longitudine), è usuale esprimerla in
-ore, minuti e secondi di tempo da 00h00m00s a 24h00m00s
-RA griglia verso il cielo, come il cielo sembra ruotare a causa della rotazione diurna della Terra intorno
-il suo asse. L'intera sfera celeste completa una rotazione completa $360^{\circ}$ in circa 24 ore,
-che equivale a circa $15^{\circ}$ all'ora. Pertanto, in un'ora, il cielo ruota circa un'ora di
-RA. (Conversione: 1h = 60m = 3600s).
-La declinazione (dec) funziona come controparte celeste della latitudine terrestre, misurata in
-gradi, minuti d'arco e secondi d'arco. Come la latitudine, i valori positivi e negativi indicano
-posizioni a nord e a sud dell'Equatore Celeste, rispettivamente. L'Equatore Celeste ha un
-declinazione di $0^{\circ}$, mentre i poli celesti nord e sud hanno declinazioni di $+90^{\circ}$ e
-$-90^{\circ}$ rispettivamente. (Conversione: $1^{\circ}$ = $60'$ = $3600''$).
-Usando queste coordinate ecuatoriali possiamo definire la posizione di qualsiasi oggetto nel cielo in
-molto lo stesso modo in cui usiamo la longitudine e la latitudine per descrivere la posizione di qualsiasi luogo su
-la Terra.
-preparato con LATEX
+L’immagine qui sotto mostra una porzione del cielo vicino all’orizzonte occidentale osservata da un luogo nell'emisfero settentrionale. L’orizzonte è rappresentato come una striscia verde nella parte inferiore dell’immagine, e la lettera 'W' indica il punto cardinale Ovest. La griglia quasi rettangolare inclinata nel cielo corrisponde alle coordinate RA e Dec. Ogni piccolo rettangolo corrisponde a $10^\text{m}$ di RA e $5^\circ$ di declinazione. Una stella, contrassegnata dalla lettera 'R', con le sue coordinate celesti (RA: $23^\text{h}\ 04^\text{m}$ & Dec: $+15^\circ 12'$) è mostrata nell’immagine. La stessa immagine è fornita nel foglio delle risposte per segnare/scrivere le risposte. Rispondi alle domande seguenti utilizzando le informazioni fornite sopra.
+
+<!--fig:start-->
+**Quesito 5**
+![[INAO2024-Question_p8_f1.png]]
+<!--fig:end-->
+
+(a) **[2]** Identifica e segna l’Equatore celeste nell’immagine fornita nel foglio delle risposte.
+
+(b) **[3]** Determina l’approximativa latitudine geografica del luogo.
+
+(c) **[4]** La tabella seguente contiene RA e Dec di quattro stelle. Segna queste stelle nell’immagine del foglio delle risposte.
+
+| Nr. | Nome della stella | Ascensione retta | Declinazione |
+| --- | --- | --- | --- |
+| A | 70 Peg | $23^\text{h}\ 29^\text{m}$ | $+12^\circ 45'$ |
+| B | $\beta$ Psc | $23^\text{h}\ 4^\text{m}$ | $+3^\circ 49'$ |
+| C | $\iota$ Cet | $0^\text{h}\ 19^\text{m}$ | $-8^\circ 49'$ |
+| D | 71 Aqr | $23^\text{h}\ 16^\text{m}$ | $-9^\circ 5'$ |
+
+(d) **[2]** Identifica la stella o le stelle della tabella che NON saranno osservabili da un osservatore situato al Polo Sud. Fornisci una motivazione a sostegno delle tue risposte.
+
+(e) **[3]** All’epoca e all’ora specificate, le coordinate del (centro del) Sole sono RA: $23^\text{h}\ 54^\text{m}$ e Dec: $-0^\circ 36'$. Nell’immagine del foglio delle risposte, disegna con precisione un disco di dimensione adeguata che rappresenti il Sole in queste coordinate.
+
+(f) **[2]** Nel luogo indicato, se la stella B della tabella sopra si immerge alle 18:01 ore tempo locale, determina l’approximativa ora locale alla quale si immerge un’altra stella, identificata dalle coordinate RA: $23^\text{h}\ 17^\text{m}$ e Dec: $3^\circ 49'$.
+
+**Topic:** [[Astrophysics]]
+**Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]
+**Competenze:** [[Diagrammatic Reasoning (competenza)|Diagrammatic Reasoning]], [[Estimation & Approximation (competenza)|Estimation & Approximation]], [[Physical Reasoning (competenza)|Physical Reasoning]]
+**Objects:** [[Star (object)|Star]]
+**Fonte:** [Testo (PDF) — p.8](https://drive.google.com/file/d/1AkgADhUSvhljAYBxBdcB-ECIcoXKnCMp/view)
+
+<div class="qlang-split" data-lang="en"></div>
+
+The image below shows a portion of the sky near the western horizon as observed from some place in the northern hemisphere. The horizon is shown as a green strip at the bottom of the image, and the letter 'W' marks the West cardinal point. The near-rectangular tilted grid on the sky is that of the RA and Dec coordinates. Each small rectangle corresponds to $10^\text{m}$ of RA and $5^\circ$ of declination. A star, designated by the letter 'R', with its celestial coordinates (RA: $23^\text{h}\ 04^\text{m}$ & Dec: $+15^\circ 12'$) is shown in the image. Same image is provided in your answersheet to mark/write your answers. Answer the following questions with the information given above.
+
+<!--fig:start-->
+**Quesito 5**
+![[INAO2024-Question_p8_f1.png]]
+<!--fig:end-->
+
+(a) **[2]** Identify and mark the Celestial Equator on the image provided in the answersheet.
+
+(b) **[3]** Determine the approximate geographic latitude of the location.
+
+(c) **[4]** The table below contains RA and Dec of four stars. Mark these stars on the image in your answersheet.
+
+| Sr. No. | Star name | Right Ascension | Declination |
+| --- | --- | --- | --- |
+| A | 70 Peg | $23^\text{h}\ 29^\text{m}$ | $+12^\circ 45'$ |
+| B | $\beta$ Psc | $23^\text{h}\ 4^\text{m}$ | $+3^\circ 49'$ |
+| C | $\iota$ Cet | $0^\text{h}\ 19^\text{m}$ | $-8^\circ 49'$ |
+| D | 71 Aqr | $23^\text{h}\ 16^\text{m}$ | $-9^\circ 5'$ |
+
+(d) **[2]** Identify the star(s) from the table that will NOT be observable to an observer located at the South Pole. Give reason in support of your answers.
+
+(e) **[3]** At the specified date and time, the coordinates of the (centre of the) Sun are RA: $23^\text{h}\ 54^\text{m}$ and Dec: $-0^\circ 36'$. On the image in your answersheet, accurately draw a disc of appropriate size representing the Sun at these coordinates.
+
+(f) **[2]** At the given location, if the star B in the table above sets at 18:01 hrs local time, determine the approximate local time at which another star, identified by coordinates RA: $23^\text{h}\ 17^\text{m}$ and Dec: $3^\circ 49'$, will set.
 
 **Topic:** [[Astrophysics]]
 **Metodi:** [[Physical Modeling (metodo)|Physical Modeling]], [[Order-of-Magnitude Estimation (metodo)|Order-of-Magnitude Estimation]]

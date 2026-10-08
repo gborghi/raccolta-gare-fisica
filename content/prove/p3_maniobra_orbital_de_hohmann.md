@@ -184,7 +184,7 @@ Determine the $t_{PA}$ time spent by the satellite in the transfer orbit and cal
 
 ---
 
-**Datos:**
+**Data:**
 - Mass of the satellite $m$.
 - Universal gravity constant $G$
 - The mass of the Earth $M_\oplus$, $\;GM_\oplus = 398\,600\ \text{km}^3\,\text{s}^{-2}$.

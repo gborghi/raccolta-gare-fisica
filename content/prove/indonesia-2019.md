@@ -1,5 +1,5 @@
 ---
-title: Russia 2019
+title: Indonesia 2019
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Russia 2019 — Quesito 1" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/pendulum"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Indonesia 2019 — Quesito 1" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,7 +54,7 @@ Il pendolo è riuscito a girare in un cerchio completo. Determina:
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Russia 2019 — Quesito 2" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/cylinder"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Indonesia 2019 — Quesito 2" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,7 +91,7 @@ L'accelerazione della gravità g è nota.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Russia 2019 — Quesito 3" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Indonesia 2019 — Quesito 3" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -140,7 +140,7 @@ A-D-B-C, determinare quando la macchina B si trova esattamente nel mezzo della m
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Russia 2019 — Quesito 4" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Indonesia 2019 — Quesito 4" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,7 +195,7 @@ Seconda incidenza!
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Russia 2019 — Quesito 5" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Indonesia 2019 — Quesito 5" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -237,7 +237,7 @@ b. L’energia che deve essere rilasciata dalle persone per modificare il moment
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Russia 2019 — Quesito 6" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/rope-string,object/spring,object/block"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Indonesia 2019 — Quesito 6" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/rope-string,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -276,7 +276,7 @@ valore di x, $\cos x \approx 1 - x^2/2$),
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Russia 2019 — Quesito 7" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Indonesia 2019 — Quesito 7" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -315,7 +315,7 @@ l'estensione massima della molla durante il movimento.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Russia 2019 — Quesito 8" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/spring"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Indonesia 2019 — Quesito 8" data-tags="kg/prova,paese/Indonesia,comp/Indonesia,cluster/Meccanica,object/spring"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

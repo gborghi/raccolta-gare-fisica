@@ -132,7 +132,7 @@ e) Perché è opportuno introdurre la resistenza $R_0$ nel circuito di misura?
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Problema experimental. Calibration of a reostate.**
+**Experimental problem. Calibration of a rheostat.**
 
 A reostate is a variable resistance, built with a resistant cable rolled evenly in a propeller over an insulating cylindrical support. Figure 1a is a photograph of an ancient reostate and Figure 1b shows its scheme. The terminals of the apparatus, A and B, are respectively connected to one end of the coil and to a sliding cursor, C, which makes contact with the coil. As is easy to understand, the resistance between the terminals of the reostate is directly proportional to the distance, $x$, between the start of the overtaking and the point where the cursor makes contact, i.e. $R(x) = K x$.
 

@@ -316,14 +316,13 @@ distanza dall’origine la sua velocità sarà di nuovo nulla?
 
 <div class="qlang-split" data-lang="en"></div>
 
-Q4
-An electron is located in a region of space where a direct electric field is present along the $x$ axis. The electric potential associated with it, expressed in volts, is
-$V(x) = x^3 - 8x^2 + 19x - 12$
-with $x$ in millimetres, shown in the following table
-In the figure.
-An electron is held stationary at the $A$ coordinate point $x = 3\ \text{mm}$.
-• If, at a certain moment, the electron is left free to move, what
-distance from the origin its speed will again be nothing?
+Q4  
+An electron is located in a region of space where there is an electric field directed along the $x$-axis. The associated electric potential, expressed in volts, is  
+$V(x) = x^3 - 8x^2 + 19x - 12$  
+with $x$ expressed in millimeters, whose graph is shown  
+in the figure.  
+An electron is held stationary at point $A$ with coordinate $x = 3\ \text{mm}$.  
+• If, at a certain instant, the electron is released and allowed to move freely, at what distance from the origin will its velocity again be zero?
 
 <!--fig:start-->
 
@@ -371,7 +370,7 @@ distance from the origin its speed will again be nothing?
 </figure>
 
 
-*grafico potenziale $V(x)$ vs $x$*
+*graph of potential $V(x)$ versus $x$*
 <!--fig:end-->
 
 **Topic:** [[Electrostatics]], [[Conservation of Energy]]

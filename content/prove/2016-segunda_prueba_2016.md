@@ -69,7 +69,7 @@ d) Haz una estimación de las incertidumbres de $\beta$ y $R_0$.
 
 <div class="qlang-split" data-lang="it"></div>
 
-**Problema experimental. Calibro di termistor.**
+**Problema sperimentale. Calibrazione di un termistore.**
 
 Como bien sabes, un *termómetro* es un dispositivo que permite medir la temperatura. I termometri classici si basano sul fenomeno di dilatazione termica di un liquido (mercurio o alcol) che, aumentando la temperatura, sale per una colonna adeguatamente graduata, cioè calibrata.
 

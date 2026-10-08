@@ -91,7 +91,7 @@ Metro di carta, sergente, pletina, bastone di alluminio, magneti, cronometro.
 - Larghezza della canna: $b = (10{,}00 \pm 0{,}05)$ mm
 - Spessore della canna: $a = (1{,}90 \pm 0{,}05)$ mm
 
-**FUNDAMENTO TEORICO**
+**FONDAMENTO TEORICO**
 
 In questo test sperimentale si studierà l'oscillazione di una bacchetta di alluminio di sezione rettangolare, tenuta da un'estremità e libera dall'altra (figura 1). Chiameremo $M$ e $L$ la massa e la lunghezza della porzione libera di bastone. Inoltre, sulla canna è fissata una massa $m$ (due piccoli magneti) a una distanza $d$ dall'estremità fissa. Il periodo di piccole oscillazioni di questo sistema in un piano verticale è dato da
 

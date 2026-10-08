@@ -211,7 +211,7 @@ If, when the saddle oscillates with the astronaut, the oscillation period is thr
 (e) Calculate the amplitude of the oscillation if the maximum acceleration the astronaut is subjected to when 'weighing' is $g/2$ when the oscillation frequency is 1 Hz.
 (f) Under the above conditions, calculate the astronaut's mass, knowing that the oscillator's energy is 221 J.
 
-**Datos:**
+**Data:**
 
 Constante de gravitación universal: $G = 6{,}67 \cdot 10^{-11}$ N m² kg$^{-2}$
 

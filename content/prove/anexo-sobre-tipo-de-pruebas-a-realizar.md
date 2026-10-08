@@ -403,7 +403,7 @@ Rappresentare graficamente una variabile rispetto ad un'altra e ottenere da essa
 
 <div class="qlang-split" data-lang="en"></div>
 
-**Prueba experimental — Plano inclinado**
+**Experimental test — Inclined plane**
 
 In the laboratory, the experimental study of the descent of a body along an inclined plane of variable slope is intended to determine the static friction coefficient between the body and the plane.
 

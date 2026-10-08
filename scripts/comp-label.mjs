@@ -8,6 +8,8 @@
 // are never a strict 6-character prefix of their country, so they are left alone.
 // Mirror for the client (cerca facet chips): quartz/components/scripts/compLabel.ts.
 
+import { COUNTRY } from "./nation.mjs"
+
 /** Full display label for a comp_code ("Svizze", "Svizzera" -> "Svizzera"). */
 export function compLabel(code, country) {
   const c = String(code ?? "").trim()
@@ -59,8 +61,35 @@ export function dropPlaceholders(title) {
  * dropped from the head ("Russia na" -> "Russia", "OBF 2011 ''" -> "OBF 2011").
  * Idempotent.
  */
-export function fixCompTitle(title, code, country) {
-  return dropPlaceholders(fixCompCode(title, code, country))
+export function fixCompTitle(title, code, country, year) {
+  return dropPlaceholders(fixCompCode(alignHead(title, code, country, year), code, country))
+}
+
+// The H1s and concept-list aliases were written by the vault backport from an older
+// country/comp_code, and were not rewritten when a note's frontmatter was corrected
+// (eng1/eng2: frontmatter IZhO / Kazakhstan / 2014, H1 and aliases still "Russia na";
+// RoPhO-2019 atoms: country Romania, H1 "Russia 2019"). When the head's first word is a
+// country (nation.mjs COUNTRY) that is NOT the note's own mapped country, the head is
+// rebuilt from the note's own frontmatter: comp_code (or country), then the year if the
+// head has none. The frontmatter is the only evidence used; the pdf path never is, and
+// a head that already names the note's own country, or a non-country comp (OII, INJSO,
+// IPhO, ...), is left alone.
+const nationName = (c) => (COUNTRY[String(c ?? "").trim()] || [])[1] || ""
+export function alignHead(title, code, country, year) {
+  const t = String(title ?? "")
+  const own = nationName(country)
+  if (!own) return t
+  const m = HEAD_END.exec(t)
+  const cut = m ? m.index : t.length
+  const words = t.slice(0, cut).split(" ")
+  const said = nationName(words[0])
+  if (!said || said === own) return t
+  const c = String(code ?? "").trim()
+  const lead = c && (!nationName(c) || nationName(c) === own) ? c : String(country).trim()
+  const rest = words.slice(1).filter((w) => w && !PLACEHOLDER.has(w))
+  const y = String(year ?? "").trim()
+  if (/^\d{4}$/.test(y) && !rest.some((w) => /^\d{4}$/.test(w))) rest.unshift(y)
+  return [lead, ...rest].join(" ") + t.slice(cut)
 }
 
 /** comp/<code> and paese/<country> from a tag list (array or comma string). */

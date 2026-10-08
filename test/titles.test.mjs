@@ -69,3 +69,13 @@ test("missing OII year only from the naz<yy> source folder", () => {
   assert.equal(fillYear("OII 2015 2° Livello", "2002"), "OII 2015 2° Livello")
   assert.equal(fillYear("Russia na", ""), "Russia na")
 })
+
+test("stale country head rebuilt from the note's own frontmatter (never from the pdf path)", () => {
+  assert.equal(fixCompTitle("Russia na — Quesito 1", "IZhO", "Kazakhstan", 2014), "IZhO 2014 — Quesito 1")
+  assert.equal(fixCompTitle("Russia na · Problema 3", "IZhO", "Kazakhstan", "2014"), "IZhO 2014 · Problema 3")
+  assert.equal(fixCompTitle("Russia 2019 — Quesito 1", "Romania", "Romania", "2019"), "Romania 2019 — Quesito 1")
+  assert.equal(fixCompTitle("Russia", "Russia", "Estonia", "na"), "Estonia")
+  assert.equal(fixCompTitle("Russia na", "Russia", "Russia", "na"), "Russia")
+  assert.equal(fixCompTitle("OII 2003 · Problema 1", "IPhO", "International", "2003"), "OII 2003 · Problema 1")
+  assert.equal(fixCompTitle("Spagna 2021 — Quesito 1", "Spagna", "Spain", "2021"), "Spagna 2021 — Quesito 1")
+})

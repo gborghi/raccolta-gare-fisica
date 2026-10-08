@@ -293,7 +293,7 @@ function extractConceptList(content, stemFlag, noteFolder, stemCountry, stemLeve
     let label = (m[3] || target).trim()
     if (h.startsWith("prove/")) {
       const comp = lookupStem(stemComp, target, h) || {}
-      label = fixCompTitle(fillYear(label, comp.year), comp.code, comp.country)
+      label = fixCompTitle(fillYear(label, comp.year), comp.code, comp.country, comp.fy)
     }
     items.push({
       h,
@@ -576,13 +576,13 @@ async function main() {
     const dy = /^\d{4}$/.test(yr) ? "" : deriveYear(g("comp_code"), g("pdf"))
     if (dy) derivedYear[stem] = dy
     stemYear[stem] = /^\d{4}$/.test(yr) ? yr : dy
-    if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy }
+    if (g("comp_code")) stemComp[stem] = { code: g("comp_code"), country: g("country"), year: dy, fy: dy || yr }
     // prova parents: title head without the source-file segment, for retitle() below
     if (rel.split(path.sep)[0].toLowerCase() === "prove" && !stem.includes("__")) {
       const h1 = (raw.slice(fm[0].length).match(/^#\s+(.+?)\s*$/m) || [, ""])[1].trim()
       const { title, source } = splitSourceName(h1)
       provaHead.set(sluggify(stem), {
-        head: fixCompTitle(fillYear(title, dy), g("comp_code"), g("country")), source, meta: { code: g("comp_code"), year: dy || g("year") },
+        head: fixCompTitle(fillYear(title, dy), g("comp_code"), g("country"), dy || yr), source, meta: { code: g("comp_code"), year: dy || g("year") },
       })
     }
   }
@@ -686,7 +686,7 @@ async function main() {
     }
     // full competition name instead of a 6-char cut comp_code ("Svizze 2011"); a missing
     // year/level (`na`, `''`) is omitted ("Russia na" -> "Russia"), with or without comp_code
-    if (data.title) data.title = fixCompTitle(fillYear(data.title, derivedYear[path.basename(rel, ".md")]), data.comp_code, data.country)
+    if (data.title) data.title = fixCompTitle(fillYear(data.title, derivedYear[path.basename(rel, ".md")]), data.comp_code, data.country, derivedYear[path.basename(rel, ".md")] || data.year)
     if (data.title && topDirOf(rel) === "prove") data.title = retitle(data.title, sluggify(path.basename(rel, ".md").split("__")[0]))
     let outContent = transform(content)
     // Big concept lists -> JSON + client pagination (tiny page HTML).
@@ -785,7 +785,7 @@ async function main() {
       if (pf.data.title) title = pf.data.title
       const h1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       if (!pf.data.title && h1) title = h1[1].trim()
-      title = fixCompTitle(fillYear(title, derivedYear[path.basename(parentRel, ".md")]), pf.data.comp_code, pf.data.country)
+      title = fixCompTitle(fillYear(title, derivedYear[path.basename(parentRel, ".md")]), pf.data.comp_code, pf.data.country, derivedYear[path.basename(parentRel, ".md")] || pf.data.year)
       if (Array.isArray(pf.data.tags)) ptags = pf.data.tags
     }
     const blocks = []
@@ -796,7 +796,7 @@ async function main() {
       // it's stripped below), else fall back to the raw atomId.
       const bodyH1 = pf.content.match(/^#\s+(.+?)\s*$/m)
       const atomYear = derivedYear[a.base] || (parentRel ? derivedYear[path.basename(parentRel, ".md")] : "")
-      const atomTitle = retitle(fixCompTitle(fillYear(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), atomYear), pf.data.comp_code, pf.data.country), stemSlug)
+      const atomTitle = retitle(fixCompTitle(fillYear(pf.data.title || (bodyH1 ? bodyH1[1].trim() : a.atomId), atomYear), pf.data.comp_code, pf.data.country, atomYear || pf.data.year), stemSlug)
       let body = pf.content.replace(/^#\s+.+?[ \t]*(\r?\n|$)/m, "")   // drop leading H1 (title rendered by marker)
       const bodyForIndex = body   // TEXT body (pre-transform), for keywordCounts -- NOT the emitted HTML
       body = transform(body)
@@ -826,7 +826,7 @@ async function main() {
     // parent without comp_code/country: fix its title from the first atom's
     if (atoms.length && title === fixCompCode(title, "", "")) {
       const first = parseFrontmatter(await fs.readFile(vaultPath(atoms[0].rel), "utf8")).data
-      title = fixCompTitle(title, first.comp_code, first.country)
+      title = fixCompTitle(title, first.comp_code, first.country, first.year)
     }
     title = retitle(fixCompTitle(title, "", ""), stemSlug)   // no parent / no comp_code: still drop `na` / `''`
     const data = { title, tipo: "prova", tags: ptags }

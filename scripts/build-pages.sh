@@ -33,6 +33,9 @@ if [ "${PUBLISH:-0}" = 1 ]; then
   W="${RGF_ASSETS_WORKDIR:-$(mktemp -d)/olifis-assets}"
   [ -d "$W/.git" ] || git clone --depth 1 https://github.com/gborghi/olifis-assets.git "$W"
   git -C "$W" pull --ff-only
+  # fresh clone: the workflow's "git identity" step only configured the main checkout
+  git -C "$W" config user.name "github-actions[bot]"
+  git -C "$W" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
   mkdir -p "$W/_attachments" && cp -a public/_attachments/. "$W/_attachments/"
   # prove figures co-located in content/prove/_attachments: same olifis URL after rewrite-asset-urls;
   # never overwrite a content/_attachments file of the same name (cp -n)

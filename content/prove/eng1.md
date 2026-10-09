@@ -302,7 +302,6 @@ your answer graphically.
 • fogli non usati e la domanda stampata.
 Metti i documenti dentro la busta e lascia tutto sulla scrivania. Non ti è permesso
 portate fuori dalla stanza qualsiasi carta o attrezzatura
-X Olimpiada internazionale di Zhautykov/concorso sperimentale
 Interazioni magnetiche (15 punti)
 
 Strumenti e attrezzature: tripod, pendolo con magnete per perle, argilla, reggente, perle magnetiche,
@@ -339,7 +338,6 @@ misurazioni.
 corrente nella bobina. Tracciare il grafico corrispondente.
 1.4. In base ai dati sperimentali ottenuti, si dimostra che la forza che agisce su
 la perla magnetica, è proporzionale alla corrente della bobina. Giustifica la tua conclusione in modo grafico.
-X Olimpiada internazionale di Zhautykov/concorso sperimentale
 Parte 2. Interazioni puntuali
 
 Metti la perla magnetica fissata su un pezzo di argilla proprio sotto il

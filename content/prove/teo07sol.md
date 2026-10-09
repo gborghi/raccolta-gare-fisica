@@ -23,7 +23,7 @@ In assenza di attriti, le forze applicate al blocco di massa $m_2$ sono: il peso
 
 Le forze applicate al blocco di massa $m_1$ sono: il peso (verticale), la reazione vincolare $\vec{N}''$ dal piano verticale (orizzontale), la reazione vincolare $-\vec{N}'$ da parte del blocco di massa $m_2$ (obliqua).
 
-*(figura nel PDF originale)*
+![[teo07sol_Q01_f1.png]]
 
 **Topic:** [[Newtonian Mechanics]], [[Rigid Body Statics]]
 **Metodi:** [[Free-Body Diagram (metodo)|Free-Body Diagram]], [[Vector Decomposition (metodo)|Vector Decomposition]], [[Kinematic Equations (metodo)|Kinematic Equations]]
@@ -43,7 +43,7 @@ In the absence of friction, the forces acting on the block of mass $m_2$ are: it
 
 The forces acting on the block of mass $m_1$ are: its weight (vertical), the normal reaction force $\vec{N}''$ from the vertical plane (horizontal), and the normal reaction force $-\vec{N}'$ due to the block of mass $m_2$ (oblique).
 
-*(figure in the original PDF)*
+![[teo07sol_Q01_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1hoy21j3GWYFtnpzCdep8Bq7x5OUwIC4d/view)
 
@@ -1109,7 +1109,7 @@ Note that this result can be reached very easily by observing that, after all th
 
 Il grafico qualitativo del segnale raccolto dal rivelatore risulta allora:
 
-*(figura nel PDF originale)*
+![[teo07sol_Q19_f1.png]]
 Materiale prodotto dal gruppo
 
 Segreteria Olimpiadi Italiane della Fisica
@@ -1132,7 +1132,7 @@ e-mail: olifis@libero.it
 
 The qualitative graph of the signal collected by the detector then becomes:
 
-*(figure in the original PDF)*
+![[teo07sol_Q19_f1.png]]
 Material produced by the group
 
 Secretariat of the Italian Physics Olympiad  

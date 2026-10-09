@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/Solutions-INChO-2008.pdf
-title: Soluzioni — Solutions-INChO-2008.pdf
+title: India 2008 · INChO · Soluzioni
 ---
 
 

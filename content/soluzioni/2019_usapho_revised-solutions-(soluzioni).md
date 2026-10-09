@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2019_USAPHO_revised-solutions.pdf
-title: Soluzioni — 2019_USAPHO_revised-solutions.pdf
+title: USAPhO 2019 · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/IOQB2022-PartII-Solutions-20220503.pdf
-title: Soluzioni — IOQB2022-PartII-Solutions-20220503.pdf
+title: India 2022 · IOQB Parte II · Soluzioni
 ---
 
 

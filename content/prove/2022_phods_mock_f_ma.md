@@ -1,8 +1,12 @@
 ---
-title: 2022_phods_mock_f_ma
+title: F=ma 2022
 tipo: prova
 tags:
-  - graph/prova
+  - kg/prova
+  - anno/2022
+  - paese/USA
+  - comp/F=ma
+  - cluster/Meccanica
 ---
 <div class="atom-reader" data-prova="2022_phods_mock_f_ma"></div>
 

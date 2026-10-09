@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/teorica/int08tit/Documents and
   Settings/Dennis/Desktop/ipho2008/ipho08th/itath1/Problem
-title: Soluzioni — Problem 1_Risposte.pdf
+title: IPhO 2008 · Problema · Soluzioni
 ---
 
 

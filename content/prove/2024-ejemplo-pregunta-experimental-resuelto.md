@@ -17,7 +17,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Elettromagnetismo
-title: Spagna 2024 — Ejemplo pregunta experimental · Soluzioni
+title: Spagna 2024 · Ejemplo pregunta experimental · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2025/2025_USAPhO_Solutions.pdf
-title: Soluzioni — 2025_USAPhO_Solutions.pdf
+title: USAPhO 2025 · Soluzioni
 ---
 
 

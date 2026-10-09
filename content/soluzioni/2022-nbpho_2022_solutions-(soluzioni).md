@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Nordic-Baltic/all/2022 NBPhO_2022_solutions.pdf
-title: Soluzioni — 2022 NBPhO_2022_solutions.pdf
+title: Nordic-Baltic 2022 · Soluzioni
 ---
 
 

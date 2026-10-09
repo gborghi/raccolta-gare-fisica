@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2019_Fma_A_solution.pdf
-title: Soluzioni — 2019_Fma_A_solution.pdf
+title: F=ma 2019 · Esame A · Soluzioni
 ---
 
 

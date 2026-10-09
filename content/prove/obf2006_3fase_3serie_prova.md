@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 3 · 3ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cylinder,object/piston,object/gas,object/resistor"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cylinder,object/piston,object/gas,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -111,7 +111,7 @@ electrical.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -193,7 +193,7 @@ circuit, the battery is charged safely.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/conducting-sphere"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/conducting-sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -269,7 +269,7 @@ by a point between the drivers located $20{,}0\cdot10^{-2}\ \text{m}$ from their
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -345,7 +345,7 @@ calculate:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -427,7 +427,7 @@ the following information is provided: (left square root indicated)
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cart,object/coil"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/cart,object/coil"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -494,7 +494,7 @@ b) Calculate, in the second case, the speed with which the steel coil collides a
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pulley,object/rod"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/pulley,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -567,7 +567,7 @@ The trajectory intermediate, descending, between the highest and lowest point.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/point-charge"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 3 · 3ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

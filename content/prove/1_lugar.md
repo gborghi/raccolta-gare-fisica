@@ -14,7 +14,7 @@ tags:
   - anno/2006
   - paese/Brasile
   - comp/Brasil
-title: Brasile 2006 — 1° posto
+title: Brasile 2006 · 1° posto
 ---
 
 

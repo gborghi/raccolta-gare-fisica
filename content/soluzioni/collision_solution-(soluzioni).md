@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri
   paesi/Svizzera/Nazionale/final_2017_solutions/swisspho2017_solutions/Collision_Solution.pdf
-title: Soluzioni — Collision_Solution.pdf
+title: Svizzera 2017 · Collision · Soluzioni
 ---
 
 

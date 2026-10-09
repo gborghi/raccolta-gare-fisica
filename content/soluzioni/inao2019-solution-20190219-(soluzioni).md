@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/INAO2019-Solution-20190219.pdf
-title: Soluzioni — INAO2019-Solution-20190219.pdf
+title: INAO 2019 · Soluzioni
 ---
 
 

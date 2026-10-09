@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/INChO2020-Solutions-20200220.pdf
-title: Soluzioni — INChO2020-Solutions-20200220.pdf
+title: India 2020 · INChO · Soluzioni
 ---
 
 

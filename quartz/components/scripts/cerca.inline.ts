@@ -25,6 +25,7 @@ interface Q {
   tipo_gara: string
   year: number | string
   country: string
+  etichetta?: string   // prova label (vault `etichetta:`), display + text search only, never a facet
 }
 
 interface Facet {
@@ -281,7 +282,7 @@ async function init() {
     const tm = textMatcher
     if (textQuery && tm) {
       rows = rows.filter((r) =>
-        tm(String(r.summary || "") + " " + String(r.competition || "") + " " + String(r.comp_code || "") + " " + String(r.quesito || ""), r as unknown as RowFields),
+        tm(String(r.summary || "") + " " + String(r.competition || "") + " " + String(r.etichetta || "") + " " + String(r.comp_code || "") + " " + String(r.quesito || ""), r as unknown as RowFields),
       )
     }
     rows.sort((a, b) => {
@@ -341,7 +342,7 @@ async function init() {
           : `<td class="paged-c-flag"><span class="paged-flag-globe" title="${esc(r.flag_name || "Internazionale")}">\u{1f30d}</span></td>`
         return (
           `<tr>${flag}` +
-          `<td class="paged-c-gara"><a href="${prefix}${esc(r.href)}">${esc(r.competition) || "(gara)"}</a></td>` +
+          `<td class="paged-c-gara"><a href="${prefix}${esc(r.href)}">${esc(r.competition) || "(gara)"}${r.etichetta ? ` <span class="paged-eti">· ${esc(r.etichetta)}</span>` : ""}</a></td>` +
           `<td class="paged-c-liv">${r.level ? esc(r.level) : ""}</td>` +
           `<td class="paged-c-year">${r.year ? esc(r.year) : ""}</td>` +
           `<td class="paged-c-prob">${esc(r.quesito)}</td>` +

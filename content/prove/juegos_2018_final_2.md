@@ -15,7 +15,7 @@ tags:
   - paese/Argentina
   - comp/Argent
   - cluster/Meccanica
-title: Argentina 2018 Locale Quiz — Juegos 2
+title: Argentina 2018 Locale Quiz · Juegos 2
 ---
 
 

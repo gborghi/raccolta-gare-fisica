@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/sperimentale/int09sit/foglio risposte problema
   sperimentale
-title: Soluzioni — foglio risposte problema sperimentale 2.pdf
+title: IPhO 2009 · Foglio risposte · Problema sperimentale · Soluzioni
 ---
 
 

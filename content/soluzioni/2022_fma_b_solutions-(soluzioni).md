@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2022/2022_Fma_B_Solutions.pdf
-title: Soluzioni — 2022_Fma_B_Solutions.pdf
+title: F=ma 2022 · Esame B · Soluzioni
 ---
 
 

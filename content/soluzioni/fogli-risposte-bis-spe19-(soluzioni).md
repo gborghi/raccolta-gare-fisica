@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz19spe/fogli risposte bis  SPE19.pdf
-title: Soluzioni — fogli risposte bis  SPE19.pdf
+title: OII 2019 Nazionale Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

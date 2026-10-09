@@ -21,12 +21,12 @@ tags:
 
 La figura qui sotto rappresenta il sistema di forze agenti sui tre cilindri identificati come n. 1, 2 e 3: ad essa si fa riferimento per i simboli.
 
-*(figura nel PDF originale)*
+![[teo08sol_Q01_f1.png]]
 NOTA: per motivi di chiarezza le intensità delle forze in questa figura non sono riprodotte in scala.
 
 Nelle figure seguenti sono mostrati i diagrammi di corpo libero dei cilindri n.3 e n.1 (quello per il cilindro n.2 è simmetrico del secondo). Le forze $\vec{N}_1$ e $\vec{N}_2$ e le loro reazioni, $\vec{N}_1'$ e $\vec{N}_2'$ (che, per il terzo principio della dinamica, sono rispettivamente uguali in modulo alle prime, con verso opposto) sono inclinate di $60^\circ$ sul piano orizzontale dato che il triangolo che ha per vertici i centri delle sezioni circolari dei cilindri in contatto tra loro è chiaramente equilatero; ne segue che le loro proiezioni, orizzontale e verticale, si ottengono moltiplicando i moduli rispettivamente per $\cos 60^\circ = 1/2$ e $\operatorname{sen} 60^\circ = \sqrt{3}/2$.
 
-*(figura nel PDF originale)*
+![[teo08sol_Q01_f2.png]]
 Detto $\vec{P} = M\vec{g}$ il peso di ogni cilindro, le condizioni di equilibrio del cilindro n.3, tenendo conto che per simmetria $N_1 = N_2$, portano all'equazione seguente, relativa alla componente verticale delle forze
 
 $$
@@ -39,7 +39,7 @@ $$
 N_1 = \frac{P}{\sqrt{3}}.
 $$
 
-*(figura nel PDF originale)*
+![[teo08sol_Q01_f3.png]]
 Per l'equilibrio del sistema basta studiare il cilindro n. 1 essendo il sistema di forze equivalente a quello del cilindro n. 2. La condizione di equilibrio per traslazioni orizzontali è sufficiente per determinare la tensione $T$ in ciascuna delle due corde.
 
 $$
@@ -68,12 +68,12 @@ $$
 
 The figure below shows the system of forces acting on the three cylinders labeled as no. 1, 2 and 3: its symbols are referred to in the following.
 
-*(figure in the original PDF)*
+![[teo08sol_Q01_f1.png]]
 NOTE: for clarity reasons, the magnitudes of the forces in this figure are not drawn to scale.
 
 The following figures show the free-body diagrams for cylinder no. 3 and cylinder no. 1 (the diagram for cylinder no. 2 is symmetric to the second one). The forces $\vec{N}_1$ and $\vec{N}_2$, and their reactions, $\vec{N}_1'$ and $\vec{N}_2'$ (which, by the third law of dynamics, are respectively equal in magnitude to the first ones and opposite in direction), are inclined at $60^\circ$ with respect to the horizontal plane because the triangle whose vertices are the centers of the circular cross-sections of the cylinders in contact with each other is clearly equilateral; it follows that their horizontal and vertical components are obtained by multiplying the magnitudes respectively by $\cos 60^\circ = 1/2$ and $\sin 60^\circ = \sqrt{3}/2$.
 
-*(figure in the original PDF)*
+![[teo08sol_Q01_f2.png]]
 Let $\vec{P} = M\vec{g}$ be the weight of each cylinder. The equilibrium conditions for cylinder no. 3, taking into account that by symmetry $N_1 = N_2$, lead to the following equation, related to the vertical component of the forces
 
 $$
@@ -86,7 +86,7 @@ $$
 N_1 = \frac{P}{\sqrt{3}}.
 $$
 
-*(figure in the original PDF)*
+![[teo08sol_Q01_f3.png]]
 For equilibrium of the system it is sufficient to study cylinder no. 1, since the force system is equivalent to that of cylinder no. 2. The condition for equilibrium in horizontal translations is sufficient to determine the tension $T$ in each of the two strings.
 
 $$
@@ -117,7 +117,7 @@ Poiché si assume che il sistema accelerato non collassi, esso si muove rigidame
 
 Si considerano poi le equazioni di moto, separatamente per ciascun cilindro (per i simboli fare riferimento ai relativi diagrammi di corpo libero), come segue. Rispetto al caso statico studiato prima, il sistema di forze non è più simmetrico: adesso le reazioni vincolari non hanno lo stesso modulo, mentre, per il principio di azione e reazione, resta vero che $N_1 = N_1'$, $N_2 = N_2'$, $N_3 = N_3'$.
 
-*(figura nel PDF originale)*
+![[teo08sol_Q02_f1.png]]
 Per il cilindro n. 1
 
 $$
@@ -127,7 +127,7 @@ N_4 - P - \frac{\sqrt{3}}{2}N_1 = 0
 \end{cases}
 $$
 
-*(figura nel PDF originale)*
+![[teo08sol_Q02_f2.png]]
 Per il cilindro n. 2
 
 $$
@@ -137,7 +137,7 @@ N_5 - P - \frac{\sqrt{3}}{2}N_2 = 0
 \end{cases}
 $$
 
-*(figura nel PDF originale)*
+![[teo08sol_Q02_f3.png]]
 Per il cilindro n. 3
 
 $$
@@ -241,7 +241,7 @@ Since it is assumed that the accelerated system does not collapse, it moves rigi
 
 The equations of motion are then considered separately for each cylinder (for the symbols, refer to the corresponding free-body diagrams), as follows. Compared to the static case studied previously, the force system is no longer symmetric: now the constraint reactions do not have the same magnitude, while, by Newton's third law, it remains true that $N_1 = N_1'$, $N_2 = N_2'$, $N_3 = N_3'$.
 
-*(figure in the original PDF)*
+![[teo08sol_Q02_f1.png]]
 
 For cylinder no. 1
 
@@ -252,7 +252,7 @@ N_4 - P - \frac{\sqrt{3}}{2}N_1 = 0
 \end{cases}
 $$
 
-*(figure in the original PDF)*
+![[teo08sol_Q02_f2.png]]
 
 For cylinder no. 2
 
@@ -263,7 +263,7 @@ N_5 - P - \frac{\sqrt{3}}{2}N_2 = 0
 \end{cases}
 $$
 
-*(figure in the original PDF)*
+![[teo08sol_Q02_f3.png]]
 
 For cylinder no. 3
 
@@ -396,7 +396,7 @@ $$
 
 Il grafico della forza si può quindi ottenere semplicemente considerando la derivata, cioè osservando nel primo grafico la pendenza e i punti di minimo e di flesso, o altrimenti si può utilizzare l'espressione esplicita della forza, in analogia con quanto fatto con quello dell'energia.
 
-*(figura nel PDF originale)*
+![[teo08sol_Q04_f1.png]]
 
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Calculus-Integration (metodo)|Calculus-Integration]], [[Energy Conservation Method (metodo)|Energy Conservation Method]], [[Physical Modeling (metodo)|Physical Modeling]]
@@ -420,7 +420,7 @@ $$
 
 The force graph can therefore be obtained simply by considering the derivative, that is, observing in the first graph the slope and the points of minimum and inflection, or alternatively by using the explicit expression of the force, in analogy with what was done for the potential energy graph.
 
-*(figure in the original PDF)*
+![[teo08sol_Q04_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2018 USAPhO-2018-Solutions.pdf
-title: Soluzioni — 2018 USAPhO-2018-Solutions.pdf
+title: USAPhO 2018 · Soluzioni
 ---
 
 

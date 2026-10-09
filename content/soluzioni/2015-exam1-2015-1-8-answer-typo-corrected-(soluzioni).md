@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2015 exam1-2015-1-8-answer-typo-corrected.pdf
-title: Soluzioni — 2015 exam1-2015-1-8-answer-typo-corrected.pdf
+title: USA 2015 · Esame 1 · Soluzioni
 ---
 
 

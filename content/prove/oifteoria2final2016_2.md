@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Elettromagnetismo
-title: Brasile 2016 — OIF Teorica 2
+title: Brasile 2016 · OIF Teorica 2
 ---
 
 

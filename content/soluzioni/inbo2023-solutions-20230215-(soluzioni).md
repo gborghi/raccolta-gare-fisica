@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/INBO2023-Solutions-20230215.pdf
-title: Soluzioni — INBO2023-Solutions-20230215.pdf
+title: India 2023 · INBO · Soluzioni
 ---
 
 

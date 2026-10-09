@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/junior science/INJSO2023-Solution-20230215.pdf
-title: Soluzioni — INJSO2023-Solution-20230215.pdf
+title: INJSO 2023 · Soluzioni
 ---
 
 

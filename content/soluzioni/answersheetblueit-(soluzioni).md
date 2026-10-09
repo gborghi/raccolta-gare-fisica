@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int07tit/AnswerSheetblueit.pdf
-title: Soluzioni — AnswerSheetblueit.pdf
+title: IPhO 2007 · Foglio risposte · Blu · Soluzioni
 ---
 
 

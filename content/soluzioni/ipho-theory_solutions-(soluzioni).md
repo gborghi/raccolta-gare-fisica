@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int22tit/IPhO-Theory_solutions.pdf
-title: Soluzioni — IPhO-Theory_solutions.pdf
+title: IPhO 2022 · Teorica · Soluzioni
 ---
 
 

@@ -6,6 +6,7 @@ comp_code: OBF
 country: Brasile
 year: '2006'
 level: ''
+etichetta: Fase 3 · 8ª serie · Soluzioni
 pdf: gare di altri paesi/Brasile/2006-2011/OBF2006_F3_8a_gab.pdf
 cluster: Gravitazione e Astrofisica
 n_problemi: '8'
@@ -15,7 +16,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2006
+title: OBF 2006 · Fase 3 · 8ª serie · Soluzioni
 ---
 
 

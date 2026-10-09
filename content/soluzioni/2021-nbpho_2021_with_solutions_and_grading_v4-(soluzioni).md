@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri paesi/Nordic-Baltic/all/2021
   NBPhO_2021_with_solutions_and_grading_v4.pdf
-title: Soluzioni — 2021 NBPhO_2021_with_solutions_and_grading_v4.pdf
+title: Nordic-Baltic 2021 · Soluzioni
 ---
 
 

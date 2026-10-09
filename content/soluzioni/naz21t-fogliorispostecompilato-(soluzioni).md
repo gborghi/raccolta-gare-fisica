@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/nazionale/teorica/naz2021th/Naz21T-fogliorispostecompilato.pdf
-title: Soluzioni — Naz21T-fogliorispostecompilato.pdf
+title: OII 2021 Nazionale Teorica · Foglio risposte · Compilato · Soluzioni
 ---
 
 

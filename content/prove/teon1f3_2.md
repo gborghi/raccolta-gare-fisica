@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Fisica Moderna
-title: Brasile 2016 — Fase 3 · Livello 1 · Teorica
+title: Brasile 2016 · Fase 3 · Livello 1 · Teorica
 ---
 
 

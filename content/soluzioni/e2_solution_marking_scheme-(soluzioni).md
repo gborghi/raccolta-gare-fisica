@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int23sit/E2_solution_marking_scheme.pdf
-title: Soluzioni — E2_solution_marking_scheme.pdf
+title: IPhO 2023 · Sperimentale 2 · Griglia di valutazione · Soluzioni
 ---
 
 

@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri paesi/Canada/all/2017
   CAP-High-School-Prize-Exam-2017-English-solutions.pdf-1.pdf
-title: Soluzioni — 2017 CAP-High-School-Prize-Exam-2017-English-solutions.pdf-1.pdf
+title: CAP 2017 · High school prize · Soluzioni
 ---
 
 

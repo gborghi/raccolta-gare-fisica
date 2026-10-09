@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/junior science/INJSO2020-Solutions-20200220.pdf
-title: Soluzioni — INJSO2020-Solutions-20200220.pdf
+title: INJSO 2020 · Soluzioni
 ---
 
 

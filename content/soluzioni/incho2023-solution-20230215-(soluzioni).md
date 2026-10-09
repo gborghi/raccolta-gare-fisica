@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/INChO2023-Solution-20230215.pdf
-title: Soluzioni — INChO2023-Solution-20230215.pdf
+title: India 2023 · INChO · Soluzioni
 ---
 
 

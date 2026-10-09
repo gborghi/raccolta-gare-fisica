@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/IOQC2022-PartII-Solutions-20220503.pdf
-title: Soluzioni — IOQC2022-PartII-Solutions-20220503.pdf
+title: India 2022 · IOQC Parte II · Soluzioni
 ---
 
 

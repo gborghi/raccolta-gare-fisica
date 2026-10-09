@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2017 — Livello 3
+title: Brasile 2017 · Livello 3
 ---
 
 

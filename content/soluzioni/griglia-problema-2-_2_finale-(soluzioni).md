@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/teorica/naz2015th/griglia-problema-2 _2_finale.pdf
-title: Soluzioni — griglia-problema-2 _2_finale.pdf
+title: OII 2015 Nazionale · Griglia di valutazione · Problema 2 · Soluzioni
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 2 · 8ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -64,7 +64,7 @@ The first films produced on film (photographic plastic film) were made from a se
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -113,7 +113,7 @@ What's the temperature in the lab on the Celsius scale? The entire experiment wa
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -177,7 +177,7 @@ Consider a helium gas balloon to which a small chair that drives a man is attach
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -238,7 +238,7 @@ where $m$ is the mass, $c$ is the specific heat and $\Delta T$ is the temperatur
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -317,7 +317,7 @@ From the information in the chart, determine:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -378,7 +378,7 @@ Write the time equation $x(t)$ describing the body movement in each of the time 
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -427,7 +427,7 @@ Knowing that the actual average speed of the car was $v_{\text{real}} = 100\,\te
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/projectile"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 2 · 8ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

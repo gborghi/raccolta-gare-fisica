@@ -16,7 +16,7 @@ tags:
   - paese/Italia
   - comp/OII
   - cluster/Meccanica
-title: OII 2014 Nazionale Teorica — Naz14S def.pdf
+title: OII 2014 Nazionale Teorica · Soluzioni
 ---
 
 

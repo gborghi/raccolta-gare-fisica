@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2009_F-maSolutions.pdf
-title: Soluzioni — 2009_F-maSolutions.pdf
+title: F=ma 2009 · Soluzioni
 ---
 
 

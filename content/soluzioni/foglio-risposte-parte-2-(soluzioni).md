@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int08sit/Foglio Risposte Parte 2.pdf
-title: Soluzioni — Foglio Risposte Parte 2.pdf
+title: IPhO 2008 · Foglio risposte · Parte 2 · Soluzioni
 ---
 
 

@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Fisica Moderna
-title: OBF 2015 — Fase 2 · Livello 1
+title: OBF 2015 · Fase 2 · Livello 1
 ---
 
 

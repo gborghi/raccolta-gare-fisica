@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna · Prova 3 · Onde gravitazionali
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole,object/photon"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole,object/photon"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -107,7 +107,7 @@ where $G$ is the universal gravitational constant.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -165,7 +165,7 @@ We will then study the orbital motion of two black holes of equal mass $M$ inter
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -214,7 +214,7 @@ Let's do some approximate calculations, when the black holes are close to touchi
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -257,7 +257,7 @@ Datos: $G = 6{,}67 \times 10^{-11}\ \text{N m}^2/\text{kg}^2$, $c = 3{,}0 \times
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/black-hole"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -312,7 +312,7 @@ The actual orbit is spiral, with a decreasing radius, but estimates can be made 
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -388,7 +388,7 @@ Data: radius of a proton $r_p = 0{,}88 \times 10^{-15}\ \text{m}$.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/mirror"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Spagna · Prova 3 · Onde gravitazionali — Quesito 7" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

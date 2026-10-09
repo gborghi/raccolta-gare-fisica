@@ -1,11 +1,11 @@
 ---
-title: BPhO 2020
+title: Nordic-Baltic 2020
 tipo: prova
 tags:
   - kg/prova
   - anno/2020
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Termodinamica
 ---
 <div class="atom-reader" data-prova="2020-nbpho2020_english"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2020 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Termodinamica,object/gas"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2020 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Termodinamica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,7 +122,7 @@ pressione atmosferica.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2020 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Termodinamica,object/battery,object/inductor,object/capacitor,object/switch,object/resistor"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2020 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Termodinamica,object/battery,object/inductor,object/capacitor,object/switch,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -300,7 +300,7 @@ vii) (2 punti) Proseguendo con la domanda precedente, si può dimostrare che il 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2020 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Termodinamica,object/projectile"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2020 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Termodinamica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -343,7 +343,7 @@ Il cono?
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2020 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Termodinamica,object/block,object/rope-string"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2020 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Termodinamica,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -450,7 +450,7 @@ Doni che trascinano cuboide con fune
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2020 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Termodinamica,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2020 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Termodinamica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

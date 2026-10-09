@@ -64,6 +64,17 @@ export function dropPlaceholders(title) {
 export function fixCompTitle(title, code, country, year) {
   return dropPlaceholders(fixCompCode(alignHead(title, code, country, year), code, country)).replace(DOUBLE_SPACE_SEP, "$1 — ")
 }
+/**
+ * The build-time pass (scripts/fix-comp-labels.mjs) only knows a page's TAGS, and the
+ * comp/ and paese/ tags of some notes are stale (comp/Russia + paese/Russia on RoPhO,
+ * EuPhO-style national papers, …) while the frontmatter is right. preprocess already
+ * aligned the head from the frontmatter, so that pass must not re-align it from tags
+ * (it turned "Romania 2019" back into "Russia 2019"): code expansion, placeholders and
+ * the double-space separator only.
+ */
+export function fixCompTitleNoAlign(title, code, country) {
+  return dropPlaceholders(fixCompCode(title, code, country)).replace(DOUBLE_SPACE_SEP, "$1 — ")
+}
 // The translation siblings' H1s ("# Spagna 2021  Quesito 1", "# Spain 2021  Quesito 1")
 // lost their " — " to a double space. Those H1s are dropped by mergeSiblings, but a
 // title or alias of that shape anywhere gets its separator back.
@@ -114,7 +125,8 @@ export function compFromTags(tags) {
 // files merged).pdf", "India 2012 — inbo2012-Q.pdf"). A title never shows a raw file
 // name: the segment goes, and when the remaining "<comp> <year> <level>" head is shared
 // with another prova a clean human label derived from the file name is added instead
-// ("India 2012 — INBO", "OBF 2014 — Fase 1 · Livello II · Soluzioni"). Opaque codes
+// ("India 2012 · INBO", "OBF 2014 · Fase 1 · Livello II · Soluzioni"; see addLabel).
+// A vault `etichetta:` on the prova note replaces that derived label. Opaque codes
 // that cannot be read reliably ("Naz14F") give no label. Page paths/slugs never change.
 
 const SRC_SEG = /\.pdf\s*$|\(\d+ files merged\)/i
@@ -239,11 +251,166 @@ export function deriveYear(code, pdf) {
 /** Put a derived year in place of the `na` placeholder right after the competition ("OII na Nazionale" -> "OII 2002 Nazionale"). */
 export function fillYear(title, year) {
   const t = String(title ?? "")
-  if (!year) return t
+  if (!/^\d{4}$/.test(String(year ?? "").trim())) return t
   const m = HEAD_END.exec(t)
   const cut = m ? m.index : t.length
   const words = t.slice(0, cut).split(" ")
   if (words.length < 2 || words[1] !== "na") return t
   words[1] = String(year)
   return words.join(" ") + t.slice(cut)
+}
+
+// One label format everywhere: "<competition year level> · <label>[ — Quesito N]".
+// The label (vault `etichetta:`, else the clean file-name label) goes after the head and
+// before any " — " part; never twice. It is display/search text, never a level facet.
+// Without a year it still reads naturally: "Spagna · Prova 1 · La goccia — Quesito 1".
+export function addLabel(title, label) {
+  const t = String(title ?? "")
+  if (!label) return t
+  const parts = t.split(" — ")
+  if (parts[0].toLowerCase().includes(String(label).toLowerCase())) return t
+  parts[0] = parts[0] + " · " + label
+  return parts.join(" — ")
+}
+
+/** Concept-list Gara label ("OII 2014 Nazionale · Problema 3"): the label goes in at the first separator. */
+export function insertLabel(text, label) {
+  const t = String(text ?? "")
+  if (!label || t.toLowerCase().includes(String(label).toLowerCase())) return t
+  const m = / · | — /.exec(t)
+  return m ? t.slice(0, m.index) + " · " + label + t.slice(m.index) : t + " · " + label
+}
+
+// ---------------------------------------------------------------------------
+// Soluzioni titles. A soluzione note's H1 is "Soluzioni — <file>.pdf"; its title is
+// rebuilt from the prova it solves (see preprocess) plus a short label read from the
+// file name with a fixed vocabulary. Unknown codes are dropped, never shown raw:
+// "E1-S_Experiment_1_Solution" -> "Sperimentale 1", "2018 Fma-2018-A-Solutions" ->
+// "F=ma A", "NSEA_2023_AnswerKey" -> "NSEA", "Solution_Heat" -> "Heat".
+const SOL_ACR = {
+  fma: "F=ma", usapho: "USAPhO", inao: "INAO", inpho: "INPhO", injso: "INJSO", inbo: "INBO", incho: "INChO",
+  nsea: "NSEA", nsep: "NSEP", nsejs: "NSEJS", nseb: "NSEB", nsec: "NSEC", cap: "CAP", aso: "ASO", asoe: "ASOE",
+  tst: "TST", eupho: "EuPhO", ioqa: "IOQA", ioqp: "IOQP", ioqjs: "IOQJS", swisspho: "SwissPhO", ipho: "IPhO",
+  nbpho: "NBPhO", izho: "IZhO", ioqb: "IOQB", ioqc: "IOQC", incho_: "INChO",
+}
+const SOL_DROP = new Set(["solution", "solutions", "soluzione", "soluzioni", "soluciones", "loesung", "loesungen",
+  "lsg", "answers", "answer", "key", "answerkey", "gab", "gabarito", "sol", "ita", "italiano", "it", "eng", "english",
+  "en", "de", "translated", "final", "rev", "revised", "unlocked", "typo", "corrected", "with", "version", "now",
+  "def", "bis", "pdf", "the", "and", "of", "physics", "exam", "paper", "sheet", "web", "d", "s", "v",
+  "valutazione", "protected", "numerazione", "delle", "con", "prova", "finale", "pagine", "grading", "versione", "del", "naz", "liv", "lv", "loc", "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep",
+  "oct", "nov", "dec"])
+const SOL_COLOR = { pink: "rosa", orange: "arancione", blue: "blu", green: "verde" }
+const SOL_NUM = { experiment: "Sperimentale", experimental: "Sperimentale", exp: "Sperimentale", e: "Sperimentale",
+  theory: "Teorica", theorie: "Teorica", th: "Teorica", t: "Teorica", problem: "Problema", p: "Problema",
+  q: "Problema", problema: "Problema", day: "Giorno", part: "Parte", parte: "Parte", exam: "Esame" }
+// alone (no number) only these say something
+const SOL_ALONE = new Set(["experiment", "experimental", "exp", "theory", "theorie", "th", "problem", "problema"])
+export function solLabel(name, head = "") {
+  const s = String(name ?? "").replace(/\.pdf\s*$/i, "").replace(/^\._/, "")
+    .replace(/(swisspho|usapho|eupho|nbpho|ipho|inpho|izho|incho)/gi, (m) => " " + m.toLowerCase() + " ")
+    .replace(/answer[ _-]?sh(?:eets?)?/gi, " fogliorisp ").replace(/fogli?o?[ _-]?risposte/gi, " fogliorisp ")
+    .replace(/(solutions?|answers?|soluzion[ei])/gi, " $1 ").replace(/f[=_ -]?ma(?![a-z])/gi, " fma ")
+    .replace(/marking(?:[ _-]?schemes?)?/gi, " grid ").replace(/(pink|orange|blue|green)(?:it)?(?![a-z])/gi, " $1 ")
+    .replace(/(^|[^a-z])ita(?=th\d)/gi, "$1ita ")
+    .replace(/(?<=part)(?=i{1,3}\b)/gi, " ").replace(/\bspe(?:r|rim)?\b/gi, " sperim ")
+    .replace(/marking[ _-]?scheme/gi, " grid ").replace(/qtr[ _-]?final/gi, " qtrfinal ")
+    .replace(/([a-z])([A-Z])(?=[a-z])/g, "$1 $2")
+  const toks = s.split(/[\s_.\-()]+|(?<=[A-Za-z])(?=\d)|(?<=\d)(?=[A-Za-z])/).filter(Boolean)
+  const parts = []
+  let free = []
+  const flush = () => { if (free.length) parts.push(free.join(" ").replace(/^./, (c) => c.toUpperCase())); free = [] }
+  const push = (p) => { flush(); parts.push(p) }
+  for (let i = 0; i < toks.length; i++) {
+    const t = toks[i], l = t.toLowerCase(), next = toks[i + 1] ?? ""
+    if (/^\d+$/.test(t) && !(i > 0 && /^(day|part|exam)$/i.test(toks[i - 1]))) continue            // years, dates, edition numbers
+    const ac = Object.keys(SOL_ACR).find((k) => k === l || (l.startsWith(k) && /^\d+$/.test(l.slice(k.length))))
+    if (ac) {
+      let p = SOL_ACR[ac]
+      const ab = /^[ab]$/i.test(next) ? 1 : /^\d+$/.test(next) && /^[ab]$/i.test(toks[i + 2] ?? "") ? 2 : 0
+      if (ac === "fma" && ab) { p += " " + toks[i + ab].toUpperCase(); i += ab }
+      if (ac === "usapho" && /^plus$/i.test(next)) { p += " Plus"; i++ }
+      push(p); continue
+    }
+    if ((l === "problema" || l === "problem") && /^sperimentale|experimental$/i.test(next)) { i++; push("Problema sperimentale"); continue }
+    if (SOL_NUM[l]) {
+      const n = /^\d{1,2}$/.test(next) || /^(i{1,3}|iv)$/i.test(next) || (l === "exam" && /^[ab]$/i.test(next)) ? next.toUpperCase() : ""
+      if (n) i++
+      if (n || SOL_ALONE.has(l)) push(SOL_NUM[l] + (n ? " " + n : ""))
+      continue
+    }
+    if (/^(?:spe|sper|sperim|sperimentale)$/.test(l)) { push("Sperimentale"); continue }
+    if (l === "answer" && /^key$/i.test(next)) { i++; push("Chiave delle risposte"); continue }
+    if (l === "fogliorisp") { push("Foglio risposte"); continue }
+    if (l === "grid" || l.startsWith("griglia")) { push("Griglia di valutazione"); continue }
+    if (l === "qtrfinal") { push("Quarti di finale"); continue }
+    if (l === "short" && /^questions?$/i.test(next)) { i++; push("Domande brevi"); continue }
+    if (l === "short") { push("Domanda breve"); continue }
+    if (l === "measurements") { push("Misure"); continue }
+    if (l === "problems") { push("Problemi"); continue }
+    if (l === "risposte") { push("Risposte"); continue }
+    if (SOL_COLOR[l]) { free.push(SOL_COLOR[l]); continue }
+    if (SOL_DROP.has(l) || t.length < 3 || !/^(?:[A-Z]?[a-zà-ú]+|[A-Z]{4,})$/.test(t)) continue
+    free.push(l)
+  }
+  flush()
+  const h = String(head ?? "").toLowerCase()
+  const hp = h.replace(/\bpart\b/g, "parte")
+  const first = h.split(" ")[0]
+  const SAME = { nbpho: "nordic-baltic", swisspho: "svizzera" }
+  const seen = new Set()
+  return parts.map((p) => {
+    // "F=ma A" under "F=ma 2018" -> "Esame A"; "USAPhO Plus" under "USAPhO 2021" -> "Plus"
+    if (first && p.toLowerCase().startsWith(first + " ")) { const r = p.slice(first.length + 1); return /^[AB]$/.test(r) ? "Esame " + r : r }
+    return p
+  }).filter((p, _, all) => {
+    const k = p.toLowerCase()
+    if (seen.has(k) || h.includes(k) || hp.includes(k) || SAME[k] === first) return false
+    if (all.some((q) => q.toLowerCase().startsWith(k + " "))) return false   // "Sperimentale" next to "Sperimentale 2"
+    seen.add(k); return true
+  }).join(" · ")
+}
+
+/**
+ * Competition head for a soluzione no prova links to, from its PDF folder (the only
+ * evidence it has): "gare di altri paesi/<Paese>/…" -> "<Paese>", "Gara individuale/
+ * ipho|eupho/…" -> "IPhO"/"EuPhO", ".../nazionale/sperim|teorica/nazYY…" -> "OII 20YY
+ * Nazionale Sperimentale|Teorica"; year from the file name or folder ("final_2017",
+ * "int16sit"). "" when the folder says nothing.
+ */
+export function solFolderHead(pdf, fileYear = "") {
+  const p = String(pdf ?? "")
+  const seg = p.split("/")
+  let comp = "", rest = ""
+  if (/^gare di altri paesi$/i.test(seg[0]) && seg[1]) comp = seg[1]
+  else if (/^gara individuale$/i.test(seg[0])) {
+    if (/^ipho$/i.test(seg[1])) comp = "IPhO"
+    else if (/^eupho$/i.test(seg[1])) comp = "EuPhO"
+    else if (/^nazionale$/i.test(seg[1])) { comp = "OII"; rest = /^sperim/i.test(seg[2] ?? "") ? "Nazionale Sperimentale" : /^teorica/i.test(seg[2] ?? "") ? "Nazionale Teorica" : "Nazionale" }
+  }
+  if (!comp) return ""
+  let y = /^\d{4}$/.test(String(fileYear)) ? String(fileYear) : (p.match(/(?<!\d)(?:19|20)\d{2}(?!\d)/) || [])[0] || ""
+  if (!y) { const m = p.match(/\/(?:int|naz)(\d{2})(?!\d)/i); if (m) y = (Number(m[1]) > 60 ? "19" : "20") + m[1] }
+  return [comp, y, rest].filter(Boolean).join(" ")
+}
+
+/**
+ * Concept-list aliases are written in the topic notes and are not rewritten when a prova's
+ * competition is corrected (NBPhO notes: comp_code BPhO -> Nordic, H1 "Nordic 2024", the
+ * aliases still "BPhO 2024 · Problema 1"). When the note's own H1 agrees with its
+ * frontmatter comp_code and the alias starts with a DIFFERENT competition code, the alias's
+ * first word becomes the note's competition. Evidence: the note's frontmatter and H1 only;
+ * an H1 that disagrees with its comp_code (e.g. "OII 2003" under IPhO) leaves the alias alone,
+ * and so do international papers (country International): their "OII …" aliases are the
+ * vault's Italian-selection labels, a content question for the vault, not the generator.
+ */
+export function alignCompWord(label, code, country, h1Word, knownCodes) {
+  const t = String(label ?? "")
+  const c = String(code ?? "").trim()
+  if (!c || !h1Word || /^international$/i.test(String(country ?? "").trim())) return t
+  const full = compLabel(c, country)
+  const own = new Set([c, full, String(country ?? "").trim()].filter(Boolean).map((x) => x.toLowerCase()))
+  if (!own.has(String(h1Word).toLowerCase())) return t
+  const w = t.split(" ")[0]
+  if (!w || own.has(w.toLowerCase()) || !knownCodes?.has(w)) return t
+  return full + t.slice(w.length)
 }

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Russia/izho.kz/Solutions-IZHO-2021.pdf
-title: Soluzioni — Solutions-IZHO-2021.pdf
+title: IZhO 2021 · Soluzioni
 ---
 
 

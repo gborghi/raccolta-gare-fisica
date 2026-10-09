@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2023 — Fase 2 · Soluzioni
+title: Brasile 2023 · Fase 2 · Soluzioni
 ---
 
 

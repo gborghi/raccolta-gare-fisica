@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/INBO2020-Solutions-20200220.pdf
-title: Soluzioni — INBO2020-Solutions-20200220.pdf
+title: India 2020 · INBO · Soluzioni
 ---
 
 

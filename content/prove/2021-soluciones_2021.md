@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Fisica Moderna
-title: Spagna 2021 — Soluzioni
+title: Spagna 2021 · Soluzioni
 ---
 
 

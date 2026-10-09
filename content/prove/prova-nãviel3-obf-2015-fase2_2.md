@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2015 — Fase 2 · Livello 3
+title: OBF 2015 · Fase 2 · Livello 3
 ---
 
 

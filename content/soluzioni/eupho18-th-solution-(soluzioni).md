@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/eupho/teorica/euphoteo18/eupho18-th-solution.pdf
-title: Soluzioni — eupho18-th-solution.pdf
+title: EuPhO 2018 · Teorica · Soluzioni
 ---
 
 

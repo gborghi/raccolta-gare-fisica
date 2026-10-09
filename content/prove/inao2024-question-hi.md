@@ -555,7 +555,7 @@ The maximum brightness of a source that can be observed with a telescope of a gi
 
 5. नीचे दिया गया चित्र उत्तरी गोलार्ध में किसी स्थान से, पश्चिमी क्षितिज के पास, आकाश के एक हिस्से को दिखाता है। चित्र के नीचे के हिस्से में क्षितिज को हरे रंग में दिखाया गया है और अक्षर 'W' पश्चिमी दिशा बिंदु को चिह्नित करता है। आकाश पर दिख रहा लगभग आयताकार जाल RA (विषुवाशं) और Dec (क्रांती) निर्देशांक दर्शाता है। प्रत्येक छोटे आयताकार RA में $10^{\text{m}}$ और Dec में $5^{\circ}$ के समान है। 'R' अक्षर द्वारा निर्देशित एक तारा, चित्र में, अपने सही खगोलीय निर्देशांक (RA: $23^{\text{h}} 04^{\text{m}}$ & Dec: $+15^{\circ}12'$) पर चिन्हित गया है। आपके उत्तरों को चिह्नित करने के लिए आपकी उत्तरपुस्तिका में भी ये चित्र दिया गया है। ऊपर दी गई जानकारी के साथ निम्नलिखित प्रश्नों के उत्तर दीजिए।
 
-*(figura nel PDF originale)*
+![[INAO2024-Question_p8_f1.png]]
 
 (a) (2 marks) चित्र पर नक्षत्रीय विषुवत (celestial equator) को पहचानें और चिह्नित करें।
 
@@ -592,9 +592,9 @@ and South Celestial Poles are the intersection points of the rotational axis of 
 
 Celestial Sphere.
 
-*(figura nel PDF originale)*
+![[INAO2024-Question-hi_Q05_f2.png]]
 
-*(figura nel PDF originale)*
+![[INAO2024-Question-hi_Q05_f3.png]]
 
 With the equator and the poles thus defined, we can now define two celestial coordinates to
 

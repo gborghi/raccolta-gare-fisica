@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int24tit/solutions-theory-T1.pdf
-title: Soluzioni — solutions-theory-T1.pdf
+title: IPhO 2024 · Teorica 1 · Soluzioni
 ---
 
 

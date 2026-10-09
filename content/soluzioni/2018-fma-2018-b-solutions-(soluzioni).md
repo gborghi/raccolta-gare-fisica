@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2018 Fma-2018-B-Solutions.pdf
-title: Soluzioni — 2018 Fma-2018-B-Solutions.pdf
+title: F=ma 2018 · Esame B · Soluzioni
 ---
 
 

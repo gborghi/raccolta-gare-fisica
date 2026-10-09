@@ -14,7 +14,7 @@ tags:
   - anno/2023
   - paese/Spagna
   - comp/Spagna
-title: Spagna 2023 — Problema 5 Electromagnetismo · Soluzioni
+title: Spagna 2023 · Problema 5 Electromagnetismo · Soluzioni
 ---
 
 

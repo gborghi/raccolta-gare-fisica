@@ -19,7 +19,7 @@ tags:
 
 In figura a sinistra sono rappresentati schematicamente tre cilindri uguali, ciascuno di massa $M$, posti su un piano orizzontale con le basi verticali e complanari e in modo che ciascun cilindro abbia la superficie laterale tangente a quelle degli altri due. I cilindri sono molto scivolosi dato che ogni forma di attrito fra tutte le superfici a contatto è trascurabile. Allora, per mantenere in equilibrio la struttura, vengono tese, una da una parte e una dall’altra – come si vede in figura –, due corde inestensibili e di massa trascurabile che collegano gli assi dei due cilindri appoggiati sul piano.
 
-*(figura nel PDF originale)*
+![[teo08tst_Q01_f1.png]]
 1. Qual è la minima tensione in ciascuna corda che consente di mantenere in equilibrio il sistema?
 
 In seguito si mette in moto il sistema applicando, al cilindro di sinistra, una forza $\vec{F}$, orizzontale, come mostrato nella figura a destra, e subito dopo si eliminano le corde.
@@ -40,7 +40,7 @@ In seguito si mette in moto il sistema applicando, al cilindro di sinistra, una 
 
 In the figure on the left, three identical cylinders are schematically represented, each of mass $M$, placed on a horizontal plane with their bases vertical and coplanar, arranged so that each cylinder has its lateral surface tangent to those of the other two. The cylinders are very slippery because any form of friction between all contacting surfaces is negligible. To maintain the structure in equilibrium, two inextensible and massless ropes are pulled—one from one side and one from the other—as shown in the figure—connecting the axes of the two cylinders resting on the plane.
 
-*(figure in the original PDF)*
+![[teo08tst_Q01_f1.png]]
 
 1. What is the minimum tension in each rope that allows maintaining equilibrium of the system?
 
@@ -66,7 +66,7 @@ Il volume del gas è inizialmente raddoppiato mediante una trasformazione isoter
 
 - Calcolare il rendimento di un’ipotetica macchina termica che segua questo ciclo termodinamico.
 
-*(figura nel PDF originale)*
+![[teo08tst_Q02_f1.png]]
 
 **Topic:** [[Thermodynamics]]
 **Metodi:** [[First Law of Thermodynamics (metodo)|First Law of Thermodynamics]], [[Thermodynamic Cycle Analysis (metodo)|Thermodynamic Cycle Analysis]], [[Ideal Gas Law (metodo)|Ideal Gas Law]]
@@ -86,7 +86,7 @@ The volume of the gas is initially doubled through a quasi-static isothermal tra
 
 - Calculate the efficiency of a hypothetical heat engine that follows this thermodynamic cycle.
 
-*(figure in the original PDF)*
+![[teo08tst_Q02_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 
@@ -129,7 +129,7 @@ Si calcoli:
 
 Nota: Può essere utile ricordare che $\frac{1}{1+x} \approx 1 - x$ quando $x \ll 1$.
 
-*(figura nel PDF originale)*
+![[teo08tst_Q03_f1.png]]
 
 **Topic:** [[Elasticity & Materials]], [[Newtonian Mechanics]]
 **Metodi:** [[Stress-Strain Analysis (metodo)|Stress-Strain Analysis]], [[Hooke's Law (metodo)|Hooke's Law]], [[Calculus-Integration (metodo)|Calculus-Integration]], [[Approximation & Series Expansion (metodo)|Approximation & Series Expansion]]
@@ -173,7 +173,7 @@ Compute:
 
 Note: It may be useful to recall that $\frac{1}{1+x} \approx 1 - x$ when $x \ll 1$.
 
-*(figure in the original PDF)*
+![[teo08tst_Q03_f1.png]]
 
 **Solution:** [Soluzioni (PDF)](https://drive.google.com/file/d/1gFi1EOMfBGnilJvRN9Fpt5gjV0OVgCxD/view)
 

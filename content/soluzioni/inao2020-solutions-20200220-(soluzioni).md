@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/INAO2020-Solutions-20200220.pdf
-title: Soluzioni — INAO2020-Solutions-20200220.pdf
+title: INAO 2020 · Soluzioni
 ---
 
 

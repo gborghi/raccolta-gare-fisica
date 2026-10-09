@@ -1,9 +1,9 @@
 ---
 tipo: prova
 prova_id: prova_2022_PhODS_Mock_F_ma_
-competition: Russia Physics Olympiad
-comp_code: Russia
-country: Russia
+competition: USA Physics Olympiad
+comp_code: F=ma
+country: USA
 year: '2022'
 level: ''
 pdf: gare di altri paesi/Russia/ruPho/2022_PhODS_Mock_F_ma_.pdf
@@ -11,10 +11,10 @@ cluster: Meccanica
 tags:
   - kg/prova
   - anno/2022
-  - paese/Russia
-  - comp/Russia
+  - paese/USA
+  - comp/F=ma
   - cluster/Meccanica
-title: Russia 2022
+title: F=ma 2022
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2019 · Prova 3 · Focalizzazione magnetica
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2019 · Prova 3 · Focalizzazione magnetica — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -110,7 +110,7 @@ We consider that all the electrons exit the anode along the tube axis at the sam
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Spagna 2019 · Prova 3 · Focalizzazione magnetica — Quesito 2" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -174,7 +174,7 @@ The following is the list of the types of helical paths with a magnetic field:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Spagna 2019 · Prova 3 · Focalizzazione magnetica — Quesito 3" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -211,7 +211,7 @@ Mettiti dietro lo schermo in modo che gli elettroni si avvicinino a te. Disegna 
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna 2019 · Prova 3 · Focalizzazione magnetica — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -248,7 +248,7 @@ It demonstrates that the electrons with the highest transverse velocity travel i
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Spagna 2019 · Prova 3 · Focalizzazione magnetica — Quesito 5" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 
@@ -279,7 +279,7 @@ It demonstrates that the electrons with the highest transverse velocity travel i
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Spagna 2019 · Prova 3 · Focalizzazione magnetica — Quesito 6" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Elettromagnetismo,object/electron,object/screen"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

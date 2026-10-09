@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Elettromagnetismo
-title: Brasile 2017 — Teorica 2
+title: Brasile 2017 · Teorica 2
 ---
 
 

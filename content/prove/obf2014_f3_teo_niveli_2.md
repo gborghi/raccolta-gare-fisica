@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Onde e Oscillazioni
-title: OBF 2014 — Fase 3 · Livello I · Teorica
+title: OBF 2014 · Fase 3 · Livello I · Teorica
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-title: BPhO 2016
+title: Nordic-Baltic 2016
 tipo: prova
 tags:
   - kg/prova
   - anno/2016
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Gravitazione e Astrofisica
 ---
 <div class="atom-reader" data-prova="2016-nbpho16-eng"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2016 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2016 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -102,7 +102,7 @@ t (s)
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2016 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/photon"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2016 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/photon"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -161,7 +161,7 @@ vetro con la luce laser quando nessuno dei lati
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2016 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/rope-string,object/pipe-tube"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2016 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/rope-string,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -257,7 +257,7 @@ Si assuma che il modulo di Young dell'acciaio sia costante in temperatura.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2016 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/resistor,object/capacitor,object/switch"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2016 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/resistor,object/capacitor,object/switch"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -442,7 +442,7 @@ che la resistenza della lampada non sia cambiata.
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2016 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/screen"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2016 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -489,7 +489,7 @@ e non dirigerla agli occhi degli altri!
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2016 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/point-charge"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2016 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/point-charge"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -562,7 +562,7 @@ questo tipo di forza di attrito agisce sulla particella su
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2016 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/gas"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2016 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -659,7 +659,7 @@ T/K
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2016 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/spring,object/ball,object/pendulum"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2016 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/spring,object/ball,object/pendulum"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -728,7 +728,7 @@ una semplice oscillazione armonica? Perché?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2016 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/ball,object/planet"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2016 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/ball,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -815,7 +815,7 @@ la palla d'acciaio può ancora essere approssimata come parabola.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="BPhO 2016 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,object/resistor,object/wire"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Nordic-Baltic 2016 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,object/resistor,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

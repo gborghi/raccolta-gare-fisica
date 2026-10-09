@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/sperimentale/int06sit/Experimental - Answer
   Sheet-final_ITA.pdf
-title: Soluzioni — Experimental - Answer Sheet-final_ITA.pdf
+title: IPhO 2006 · Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

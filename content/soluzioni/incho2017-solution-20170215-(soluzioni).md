@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/INChO2017-Solution-20170215.pdf
-title: Soluzioni — INChO2017-Solution-20170215.pdf
+title: India 2017 · INChO · Soluzioni
 ---
 
 

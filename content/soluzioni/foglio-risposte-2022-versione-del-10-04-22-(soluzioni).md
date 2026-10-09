@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz22spe/FOGLIO RISPOSTE 2022 versione del
-title: Soluzioni — FOGLIO RISPOSTE 2022 versione del 10-04-22.pdf
+title: OII 2022 Nazionale Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

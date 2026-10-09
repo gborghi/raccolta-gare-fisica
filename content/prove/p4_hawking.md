@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2018 · Prova 4 · Radiazione di Hawking
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/black-hole,object/planet,object/photon"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Spagna 2018 · Prova 4 · Radiazione di Hawking — Quesito 4" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Termodinamica,object/black-hole,object/planet,object/photon"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

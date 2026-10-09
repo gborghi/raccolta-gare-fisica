@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/ipho/sperimentale/int11sit/Q2_Experiment_Answersheet_translated.pdf
-title: Soluzioni — Q2_Experiment_Answersheet_translated.pdf
+title: IPhO 2011 · Problema 2 · Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Spagna
+title: Spagna 2019 · Prova 2 · La materia della Via Lattea
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/star"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Spagna 2019 · Prova 2 · La materia della Via Lattea — Quesito 1" data-tags="kg/prova,paese/Spagna,comp/Spagna,cluster/Meccanica,object/star"></span>
 
 <div class="qlang-switch" data-default="es"></div>
 

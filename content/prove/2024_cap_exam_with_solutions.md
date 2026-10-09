@@ -16,7 +16,7 @@ tags:
   - paese/Canada
   - comp/CAP
   - cluster/Elettromagnetismo
-title: CAP 2024 Nazionale — Soluzioni
+title: CAP 2024 Nazionale · Soluzioni
 ---
 
 

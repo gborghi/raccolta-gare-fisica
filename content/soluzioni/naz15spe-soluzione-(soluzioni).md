@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz15spe/Naz15Spe-soluzione.pdf
-title: Soluzioni — Naz15Spe-soluzione.pdf
+title: OII 2015 Nazionale Sperimentale · Soluzioni
 ---
 
 

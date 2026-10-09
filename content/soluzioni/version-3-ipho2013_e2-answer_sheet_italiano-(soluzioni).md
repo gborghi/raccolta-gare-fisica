@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/sperimentale/int13sit/Version 3 IPhO2013_E2
   ANSWER_SHEET_italiano.pdf
-title: Soluzioni — Version 3 IPhO2013_E2 ANSWER_SHEET_italiano.pdf
+title: IPhO 2013 · Sperimentale 2 · Foglio risposte · Soluzioni
 ---
 
 

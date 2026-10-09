@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2023 — Problema 1 Polea con dinamometro · Soluzioni
+title: Spagna 2023 · Problema 1 Polea con dinamometro · Soluzioni
 ---
 
 

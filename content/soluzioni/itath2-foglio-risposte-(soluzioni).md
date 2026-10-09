@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int08tit/itath2 foglio risposte.pdf
-title: Soluzioni — itath2 foglio risposte.pdf
+title: IPhO 2008 · Teorica 2 · Foglio risposte · Soluzioni
 ---
 
 

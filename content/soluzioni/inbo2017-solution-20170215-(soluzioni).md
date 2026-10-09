@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/biologia/INBO2017-Solution-20170215.pdf
-title: Soluzioni — INBO2017-Solution-20170215.pdf
+title: India 2017 · INBO · Soluzioni
 ---
 
 

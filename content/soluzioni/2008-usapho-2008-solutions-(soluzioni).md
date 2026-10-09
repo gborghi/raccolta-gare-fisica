@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2008 USAPhO-2008-Solutions.pdf
-title: Soluzioni — 2008 USAPhO-2008-Solutions.pdf
+title: USAPhO 2008 · Soluzioni
 ---
 
 

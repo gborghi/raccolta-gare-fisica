@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/eupho/teorica/euphoteo21/EuPhO_2021_Solutions (2).pdf
-title: Soluzioni — EuPhO_2021_Solutions (2).pdf
+title: EuPhO 2021 · Soluzioni
 ---
 
 

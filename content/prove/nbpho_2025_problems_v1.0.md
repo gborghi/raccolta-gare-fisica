@@ -1,11 +1,11 @@
 ---
-title: BPhO 2025
+title: Nordic-Baltic 2025
 tipo: prova
 tags:
   - kg/prova
   - anno/2025
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Elettromagnetismo
 ---
 <div class="atom-reader" data-prova="nbpho_2025_problems_v1.0"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2025 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/ball,object/rod"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2025 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/ball,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,7 +114,7 @@ con cui il centro di massa del manubrio si allontana dal muro.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2025 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/cylinder,object/piston,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2025 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/cylinder,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -249,7 +249,7 @@ temperatura $T = 110\ ^\circ\text{C}$ e $r = 3\%$.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2025 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/nucleus,object/gas"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2025 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/nucleus,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -364,7 +364,7 @@ $R = 8.31\ \text{J mol}^{-1}\text{K}^{-1}$.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2025 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/resistor,object/battery,object/wire"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2025 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/resistor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -425,7 +425,7 @@ raggiunge 1 mA).
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2025 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/projectile,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2025 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/projectile,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -490,7 +490,7 @@ L'accelerazione della caduta libera è $g = 9.8\ \text{m s}^{-2}$.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2025 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/beam"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2025 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/beam"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -537,7 +537,7 @@ sopra l'acqua?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2025 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/rod"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2025 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/rod"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -600,7 +600,7 @@ valore possibile per $t$ ed esprimere il valore corrispondente di $v$ in termini
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2025 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/star"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2025 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -755,7 +755,7 @@ vi) (2 punti) Da quanto tempo si è verificato il disturbo?
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2025 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/resistor"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2025 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/resistor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

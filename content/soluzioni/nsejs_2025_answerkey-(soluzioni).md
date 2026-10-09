@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/junior science/NSEJS_2025_AnswerKey.pdf
-title: Soluzioni — NSEJS_2025_AnswerKey.pdf
+title: NSEJS 2025 · Chiave delle risposte · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/INAO2025-Solution-20250221.pdf
-title: Soluzioni — INAO2025-Solution-20250221.pdf
+title: INAO 2025 · Soluzioni
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 3 · 1ª e 2ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/cylinder"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -83,7 +83,7 @@ cilindro igual a $2{,}00.10^{-4}\ \text{m}^2$ e comprimento $L=8{,}00.10^{-2}\ \
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/lens"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/lens"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -153,7 +153,7 @@ the nature, size and orientation of the lamp.
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/block,object/spring"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/block,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -217,7 +217,7 @@ Considering the masses of the despicable springs:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/gas,object/tank-container"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/gas,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -269,7 +269,7 @@ of water mixed with oxygen at $127{,}0\ ^\circ\text{C}$. Calculate:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/projectile"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -321,7 +321,7 @@ and the melting temperature $\theta_f$ of lead is equal to $327\ ^\circ\text{C}$
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -379,7 +379,7 @@ the following:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -464,7 +464,7 @@ It will be the speed of car B.
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/projectile"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -555,7 +555,7 @@ The following shall be added to the list of the following:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/cart,object/coil"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/cart,object/coil"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -631,7 +631,7 @@ b) Calculate, in the second case, the speed with which the steel coil collides a
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/cylinder,object/pipe-tube,object/spring"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/cylinder,object/pipe-tube,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -704,7 +704,7 @@ square).
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/nucleus"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/nucleus"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -756,7 +756,7 @@ after the collision.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -802,7 +802,7 @@ The aluminium density equal to $2{,}50\ \text{g/cm}^3$ and the gold density equa
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -866,7 +866,7 @@ The electronic lamp must function to be more economically advantageous than the
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/pulley,object/spring"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/pulley,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -919,7 +919,7 @@ b) the driving power $P_m$ of this motor in kW.
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/ball,object/beam"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/ball,object/beam"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -983,7 +983,7 @@ em função da posição x para o intervalo $0{,}00\ \text{m} \leq x \leq 0{,}80
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/block,object/rope-string"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/block,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1080,7 +1080,7 @@ B?
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1135,7 +1135,7 @@ Exclusive issues of the first series
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/beam"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/beam"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1208,7 +1208,7 @@ Stop it, please.
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/planet,object/satellite"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/planet,object/satellite"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1260,7 +1260,7 @@ planet is equal to 10 Earth days (a 24-hour day).
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/rope-string"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 · Fase 3 · 1ª e 2ª serie — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Fisica Moderna,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

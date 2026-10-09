@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/NSEC_2024_AnswerKey.pdf
-title: Soluzioni — NSEC_2024_AnswerKey.pdf
+title: India 2024 · NSEC · Chiave delle risposte · Soluzioni
 ---
 
 

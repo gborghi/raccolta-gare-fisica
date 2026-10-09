@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz06spd/soluzionespe06.pdf
-title: Soluzioni — soluzionespe06.pdf
+title: OII 2006 Nazionale Sperimentale · Soluzioni
 ---
 
 

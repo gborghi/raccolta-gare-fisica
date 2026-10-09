@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int13tit/IPhO2013_T2_foglio_risposte.pdf
-title: Soluzioni — IPhO2013_T2_foglio_risposte.pdf
+title: IPhO 2013 · Teorica 2 · Foglio risposte · Soluzioni
 ---
 
 

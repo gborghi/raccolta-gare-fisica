@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz16spe/Naz16spe_FOGLIO RISPOSTE 2016.pdf
-title: Soluzioni — Naz16spe_FOGLIO RISPOSTE 2016.pdf
+title: OII 2016 Nazionale Sperimentale · Foglio risposte · Soluzioni
 ---
 
 

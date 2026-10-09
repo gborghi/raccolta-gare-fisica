@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2020/2020_Fma_A_Solutions.pdf
-title: Soluzioni — 2020_Fma_A_Solutions.pdf
+title: F=ma 2020 · Esame A · Soluzioni
 ---
 
 

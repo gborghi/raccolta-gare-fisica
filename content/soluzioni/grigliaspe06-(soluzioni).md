@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz06spd/grigliaspe06.pdf
-title: Soluzioni — grigliaspe06.pdf
+title: OII 2006 Nazionale Sperimentale · Griglia di valutazione · Soluzioni
 ---
 
 

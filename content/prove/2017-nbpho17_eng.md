@@ -1,11 +1,11 @@
 ---
-title: BPhO 2017
+title: Nordic-Baltic 2017
 tipo: prova
 tags:
   - kg/prova
   - anno/2017
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Elettromagnetismo
 ---
 <div class="atom-reader" data-prova="2017-nbpho17_eng"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2017 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2017 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -82,7 +82,7 @@ Foto drago sott'acqua a Ciotola
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2017 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/planet,object/star"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2017 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/planet,object/star"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -133,7 +133,7 @@ La distanza della cometa al Sole è inferiore a $R_0$?
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2017 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/battery,object/switch,object/resistor,object/capacitor"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2017 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/battery,object/switch,object/resistor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -198,7 +198,7 @@ Circuito RC con batterie e interruttore
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2017 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/black-hole,object/planet"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2017 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/black-hole,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -260,7 +260,7 @@ $z = z(\epsilon,f)$ dalla Terra alla sorgente delle onde gravitazionali in funzi
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2017 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/ball,object/spring,object/tank-container"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2017 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/ball,object/spring,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -309,7 +309,7 @@ orologio fermo, reggente, contenitore con acqua.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2017 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/wire,object/coil"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2017 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/wire,object/coil"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -406,7 +406,7 @@ Il campo esterno?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2017 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/inductor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2017 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/inductor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -467,7 +467,7 @@ Circuito Zener con caratteristica I-V
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2017 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/beam"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2017 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/beam"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -562,7 +562,7 @@ la formula $F/A = E\,\Delta l/l$, dove $F$ è la forza, $A$
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2017 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/pipe-tube,object/gas"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2017 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/pipe-tube,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -611,7 +611,7 @@ una torre del genere?
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="BPhO 2017 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/battery,object/wire"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Nordic-Baltic 2017 — Quesito 10" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/battery,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/nazionale/sperim/naz09spe/risultati e risposte finale.pdf
-title: Soluzioni — risultati e risposte finale.pdf
+title: OII 2009 Nazionale · Risultati · Risposte · Soluzioni
 ---
 
 

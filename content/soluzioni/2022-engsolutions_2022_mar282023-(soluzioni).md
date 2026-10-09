@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Canada/all/2022 ENGsolutions_2022_Mar282023.pdf
-title: Soluzioni — 2022 ENGsolutions_2022_Mar282023.pdf
+title: CAP 2022 · Soluzioni
 ---
 
 

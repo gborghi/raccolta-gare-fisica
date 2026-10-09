@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int22sit/IPhO-Experiment_solutions.pdf
-title: Soluzioni — IPhO-Experiment_solutions.pdf
+title: IPhO 2022 · Sperimentale · Soluzioni
 ---
 
 

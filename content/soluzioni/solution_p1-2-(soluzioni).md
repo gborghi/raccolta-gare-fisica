@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   gare di altri
   paesi/Svizzera/Nazionale/Final_2019_Solutions/Final_2019_Solutions/solution_P1-2.pdf
-title: Soluzioni — solution_P1-2.pdf
+title: Svizzera 2019 · Problema 1 · Soluzioni
 ---
 
 

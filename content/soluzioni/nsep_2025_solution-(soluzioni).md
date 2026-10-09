@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/fisica/all/NSEP_2025_Solution.pdf
-title: Soluzioni — NSEP_2025_Solution.pdf
+title: NSEP 2025 · Soluzioni
 ---
 
 

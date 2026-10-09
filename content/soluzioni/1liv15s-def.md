@@ -16,7 +16,7 @@ tags:
   - paese/Italia
   - comp/OII
   - cluster/Meccanica
-title: OII 2015 1° Livello — 1liv15S def.pdf
+title: OII 2015 1° Livello · Soluzioni
 ---
 
 

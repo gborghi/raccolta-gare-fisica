@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2016 — Fase 3 · Livello 2 · Teorica
+title: Brasile 2016 · Fase 3 · Livello 2 · Teorica
 ---
 
 

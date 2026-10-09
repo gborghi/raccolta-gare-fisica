@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/junior science/NSEJS_2024_AnswerKey.pdf
-title: Soluzioni — NSEJS_2024_AnswerKey.pdf
+title: NSEJS 2024 · Chiave delle risposte · Soluzioni
 ---
 
 

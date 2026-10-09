@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Meccanica
-title: Spagna 2012 — Soluzioni
+title: Spagna 2012 · Soluzioni
 ---
 
 

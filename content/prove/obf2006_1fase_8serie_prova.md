@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 1 · 8ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -74,7 +74,7 @@ What is the most abundant primary energy source on Earth?
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -138,7 +138,7 @@ direct to which energy form is given below:
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -214,7 +214,7 @@ O) a phenomenon (s) directly related to the position of the Moon relative to the
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -269,7 +269,7 @@ equal to the weight of the fluid displaced by this body. This statement is known
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/rod"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -333,7 +333,7 @@ The heat transfer occurring in these phenomena is respectively:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -391,7 +391,7 @@ It's the same kind of force that makes a fruit fall from a tree.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -452,7 +452,7 @@ It can be stated that in a module, the force A exerts on B is:
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -558,7 +558,7 @@ III - Gold floats in mercury and sinks in water.
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -631,7 +631,7 @@ the formation of seasons throughout the year.
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/projectile"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -686,7 +686,7 @@ of this stone, during the ascent and descent:
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -747,7 +747,7 @@ as on Earth.
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -805,7 +805,7 @@ A ball. The paper that was pulled down first, why?
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -863,7 +863,7 @@ The duration of the classes on this day at the college was:
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -918,7 +918,7 @@ In the event of a collision, it is correct to state that the force exerted by th
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -976,7 +976,7 @@ expenditure from B to C.
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1028,7 +1028,7 @@ rappresenta il movimento del corpo descritto dall'equazione oraria precedente.
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1101,7 +1101,7 @@ e) 125 km/h.
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1162,7 +1162,7 @@ Please indicate the correct alternative to the interpretation of the previous ch
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1229,7 +1229,7 @@ $V_A = 50$m/s e $V_B = 30$m/s. At what point in the trajectory will the two meet
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 · Fase 1 · 8ª serie — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

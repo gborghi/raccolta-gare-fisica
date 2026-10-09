@@ -1,17 +1,17 @@
 ---
-title: NBPhO 2023
+title: Nordic-Baltic 2023
 tipo: prova
 tags:
   - kg/prova
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
 ---
 <div class="atom-reader" data-prova="2023-nbpho_2023_problems"></div>
 
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="NBPhO 2023 - Quesito 1: Curling" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono,object/disk"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2023 — Quesito 1: Curling" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono,object/disk"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -74,7 +74,7 @@ v) (2 punti) Qual è la velocità angolare della pietra poco prima di colpire la
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="NBPhO 2023 - Quesito 2: Nitrogen explosion" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/sphere,object/gas"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2023 — Quesito 2: Nitrogen explosion" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Termodinamica,topic/thermodynamics,argomento/termodinamica,difficolta/5,multidisciplina/multi,object/sphere,object/gas"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -141,7 +141,7 @@ v) (2 punti) Calcolare il tempo necessario per far esplodere la sfera. La capaci
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="NBPhO 2023 - Quesito 3: Wobble" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/5,multidisciplina/mono,object/star,object/planet"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2023 — Quesito 3: Wobble" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Gravitazione e Astrofisica,topic/gravitation,argomento/gravitazione-e-astrofisica,difficolta/5,multidisciplina/mono,object/star,object/planet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -200,7 +200,7 @@ iv) (2 punti) Ora consideriamo una misurazione simile $t = 10$ di un sistema div
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="NBPhO 2023 - Quesito 4: Black box" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/resistor,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2023 — Quesito 4: Black box" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,topic/circuits,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/resistor,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -235,7 +235,7 @@ Quali sono i quattro componenti (oltre ai fili; possono esserci più di uno dell
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="NBPhO 2023 - Quesito 5: Force sensor" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,topic/elasticity--and--materials,argomento/meccanica,difficolta/5,multidisciplina/multi,object/beam,object/resistor,object/wire"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2023 — Quesito 5: Force sensor" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,topic/elasticity--and--materials,argomento/meccanica,difficolta/5,multidisciplina/multi,object/beam,object/resistor,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -302,7 +302,7 @@ iii) (2 punti) Le resistenze sono disposte in una configurazione di ponte Wheats
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="NBPhO 2023 - Quesito 6: String-coupled masses" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Onde e Oscillazioni,topic/oscillations--and--waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/mono,object/rope-string"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2023 — Quesito 6: String-coupled masses" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Onde e Oscillazioni,topic/oscillations--and--waves,argomento/onde-e-oscillazioni,difficolta/4,multidisciplina/mono,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -345,7 +345,7 @@ ii) (3 punti) Trova $\omega_2$, la frequenza angolare delle oscillazioni antifas
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="NBPhO 2023 - Quesito 7: A stack of papers" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2023 — Quesito 7: A stack of papers" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,topic/newtonian-mechanics,argomento/meccanica,difficolta/5,multidisciplina/mono"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -388,7 +388,7 @@ iv) (2 punti) Considerando ancora $u > u_{min}$, qual è la distanza minima $l$ 
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="NBPhO 2023 - Quesito 8: Connected charges" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/point-charge,object/rope-string"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2023 — Quesito 8: Connected charges" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Elettromagnetismo,topic/electrostatics,argomento/elettromagnetismo,difficolta/5,multidisciplina/mono,object/point-charge,object/rope-string"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -431,7 +431,7 @@ iv) (2 punti) Ora, a $t = 0$, la stringa forma un angolo molto piccolo $\varphi$
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="NBPhO 2023 - Quesito 9: Surface tension" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi,object/lens,object/droplet"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2023 — Quesito 9: Surface tension" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Fluidi,topic/fluid-mechanics,argomento/fluidi,difficolta/5,multidisciplina/multi,object/lens,object/droplet"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

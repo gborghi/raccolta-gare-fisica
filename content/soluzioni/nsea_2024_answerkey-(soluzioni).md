@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/NSEA_2024_AnswerKey.pdf
-title: Soluzioni — NSEA_2024_AnswerKey.pdf
+title: NSEA 2024 · Chiave delle risposte · Soluzioni
 ---
 
 

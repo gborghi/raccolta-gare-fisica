@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int11tit/Q2_Theory_Answersheet_translated.pdf
-title: Soluzioni — Q2_Theory_Answersheet_translated.pdf
+title: IPhO 2011 · Problema 2 · Teorica · Foglio risposte · Soluzioni
 ---
 
 

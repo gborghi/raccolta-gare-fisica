@@ -17,7 +17,7 @@ tags:
   - cluster/Onde e Oscillazioni
 fuori_corpus: 'true'
 fuori_corpus_motivo: non-fisica (biologia)
-title: India 2023 — INBO
+title: India 2023 · INBO
 ---
 
 

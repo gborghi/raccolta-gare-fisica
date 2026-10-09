@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/IOQC2021-PartII-Solutions-20210413.pdf
-title: Soluzioni — IOQC2021-PartII-Solutions-20210413.pdf
+title: India 2021 · IOQC Parte II · Soluzioni
 ---
 
 

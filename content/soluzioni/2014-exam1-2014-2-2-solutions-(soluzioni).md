@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2014 exam1-2014-2-2-solutions.pdf
-title: Soluzioni — 2014 exam1-2014-2-2-solutions.pdf
+title: USA 2014 · Esame 1 · Soluzioni
 ---
 
 

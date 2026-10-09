@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2006 — 3° posto
+title: Brasile 2006 · 3° posto
 ---
 
 

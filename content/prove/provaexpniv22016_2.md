@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Elettromagnetismo
-title: Brasile 2016 — Livello 2 · Sperimentale
+title: Brasile 2016 · Livello 2 · Sperimentale
 ---
 
 

@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Meccanica
-title: Brasile 2016 — Livello 1 · Sperimentale
+title: Brasile 2016 · Livello 1 · Sperimentale
 ---
 
 

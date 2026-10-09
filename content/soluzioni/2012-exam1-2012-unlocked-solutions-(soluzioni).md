@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/USA/all/2012 exam1-2012-unlocked-solutions.pdf
-title: Soluzioni — 2012 exam1-2012-unlocked-solutions.pdf
+title: USA 2012 · Esame 1 · Soluzioni
 ---
 
 

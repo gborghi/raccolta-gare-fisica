@@ -1,5 +1,5 @@
 ---
-title: OBF 2006
+title: OBF 2006 · Fase 1 · 1ª e 2ª serie
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -68,7 +68,7 @@ In an industry there is a bench with 10 metal trash cans next to each other. In 
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/gas,object/cylinder"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/gas,object/cylinder"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -123,7 +123,7 @@ The oxygen of a hospital facility is stored in steel cylinders with a capacity o
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/lens,object/prism"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/lens,object/prism"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -202,7 +202,7 @@ The alternative to the request is:
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/ball"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/ball"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -275,7 +275,7 @@ The right alternative is:
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -333,7 +333,7 @@ A car climbs a straight hill while maintaining the maximum speed allowed. Analyz
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/satellite,object/planet"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/satellite,object/planet"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -406,7 +406,7 @@ It is possible to say that it is not correct:
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/pulley,object/block"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/pulley,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -476,7 +476,7 @@ The diagram shows an arrangement with the bodies "A", "B" and "C" of equal masse
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -549,7 +549,7 @@ These statements are incorrect:
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/lens,object/screen"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 9" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/lens,object/screen"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -622,7 +622,7 @@ The lenses are set apart from each other $f/2 + f + f/2$ with the opaque frontal
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 10" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -683,7 +683,7 @@ Using the data provided, indicate the correct alternative:
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/mirror"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 11" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -741,7 +741,7 @@ A square panel with an "A" inscribed is placed in front of a reflective cylindri
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 12" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -817,7 +817,7 @@ It is not correct:
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 13" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -884,7 +884,7 @@ Both vehicles have exceeded the speed limit and their drivers will be fined.
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/calorimeter"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 14" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/calorimeter"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -948,7 +948,7 @@ Analyze the diagrams and indicate which best represents the temperature variatio
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 15" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1003,7 +1003,7 @@ Two students decided to measure the speed of a river's waters using just one tra
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/spring,object/block"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 16" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/spring,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1058,7 +1058,7 @@ To suspend a 4 kg object to the first floor of a building without a rope, a pers
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/block"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 17" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1113,7 +1113,7 @@ While holding a wooden board and squeezing it between his hands, one person noti
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/tank-container,object/pipe-tube"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 18" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/tank-container,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1189,7 +1189,7 @@ It is not correct:
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 19" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1250,7 +1250,7 @@ In the manual of a TV, for example, in standby mode, the power consumption is 5 
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/tank-container"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 20" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/tank-container"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1305,7 +1305,7 @@ A straight parallel-piped tank measures 4 m by 5 m by 3 m and is completely fill
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="OBF 2006 — Quesito 21" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/sphere"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 21" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/sphere"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1375,7 +1375,7 @@ The following is the list of the following:
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="OBF 2006 — Quesito 22" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/block"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 22" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1430,7 +1430,7 @@ Using a dynamometer, a student is trying to suspend a box weighing six pounds th
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="OBF 2006 — Quesito 23" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 23" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1506,7 +1506,7 @@ Only the statements are correct:
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="OBF 2006 — Quesito 24" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/beam"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 24" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/beam"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1576,7 +1576,7 @@ Table as a scaffold supported on A and B
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="OBF 2006 — Quesito 25" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/piston,object/gas"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 25" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/piston,object/gas"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1634,7 +1634,7 @@ A student pulls the plunger from an injection syringe, closes the air outlet wit
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="OBF 2006 — Quesito 26" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/pulley,object/rope-string,object/block"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 26" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/pulley,object/rope-string,object/block"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1704,7 +1704,7 @@ In the system depicted next to it, the mass of the polish and rope is negligible
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="OBF 2006 — Quesito 27" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/wheel,object/lever"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 27" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica,object/wheel,object/lever"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1774,7 +1774,7 @@ A loaded hand cart, with a total weight of $P$, is kept in balance by a worker, 
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="OBF 2006 — Quesito 28" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 28" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1841,7 +1841,7 @@ Please indicate the only correct alternative:
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="OBF 2006 — Quesito 29" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 29" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -1911,7 +1911,7 @@ The following conditions shall apply:
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="OBF 2006 — Quesito 30" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="OBF 2006 · Fase 1 · 1ª e 2ª serie — Quesito 30" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Termodinamica"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

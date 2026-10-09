@@ -17,7 +17,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Fisica Moderna
-title: OBF 2014 — Fase 3 · Livello III · Teorica
+title: OBF 2014 · Fase 3 · Livello III · Teorica
 ---
 
 

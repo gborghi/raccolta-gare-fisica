@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/astronomia/IOQA2021-PartII-Solutions-20210217.pdf
-title: Soluzioni — IOQA2021-PartII-Solutions-20210217.pdf
+title: IOQA 2021 (Part II) · Soluzioni
 ---
 
 

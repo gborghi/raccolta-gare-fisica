@@ -65,7 +65,7 @@ $g = 9.81 \text{ m s}^{-2}$, $m_1 = 5 \text{ kg}$, $m_2 = 3 \text{ kg}$, $\theta
 
 Nel circuito in figura sono noti solo i valori delle resistenze $R = 2.5 \text{ k}\Omega$ e $R_2 = 2R$, mentre $R_1$, la f.e.m $\mathcal{E}$ e l'induttanza $L$ sono incognite. Finché l'interruttore è aperto la corrente nel circuito è nulla ovunque.
 
-*(figura nel PDF originale)*
+![[teo07tst_Q02_f1.png]]
 Alla chiusura dell'interruttore la corrente istantanea erogata dal generatore è $I_0 = 5 \text{ mA}$, mentre a regime la stessa corrente è aumentata a $I_1 = 9 \text{ mA}$.
 
 1. Determinare i valori incogniti che possono essere ricavati da queste due misure.
@@ -87,7 +87,7 @@ Dopo aver riaperto l'interruttore, si misura l'energia $U = 0.040 \ \mu\text{J}$
 
 In the circuit shown in the figure, only the values of the resistances $R = 2.5 \text{ k}\Omega$ and $R_2 = 2R$ are known, while $R_1$, the e.m.f. $\mathcal{E}$, and the inductance $L$ are unknown. As long as the switch is open, the current in the circuit is zero everywhere.
 
-*(figure in the original PDF)*  
+![[teo07tst_Q02_f1.png]]  
 At the moment of closing the switch, the instantaneous current supplied by the generator is $I_0 = 5 \text{ mA}$, while in steady state this same current has increased to $I_1 = 9 \text{ mA}$.
 
 1. Determine the unknown values that can be deduced from these two measurements.

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/junior science/INJSO2017-Solution-20170215.pdf
-title: Soluzioni — INJSO2017-Solution-20170215.pdf
+title: INJSO 2017 · Soluzioni
 ---
 
 

@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara individuale/ipho/sperimentale/int13sit/Version 4
   IPhO2013_E1_foglio_risposte_italiano.pdf
-title: Soluzioni — Version 4 IPhO2013_E1_foglio_risposte_italiano.pdf
+title: IPhO 2013 · Sperimentale 1 · Foglio risposte · Soluzioni
 ---
 
 

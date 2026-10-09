@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/Brasil
   - cluster/Ottica
-title: Brasile 2025 — Fase 1 · Soluzioni
+title: Brasile 2025 · Fase 1 · Soluzioni
 ---
 
 

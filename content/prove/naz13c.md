@@ -1,5 +1,5 @@
 ---
-title: OII 2013 Nazionale Sperimentale
+title: OII 2013 Nazionale Sperimentale · Copertina e istruzioni
 tipo: prova
 tags:
   - graph/prova
@@ -9,7 +9,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2013 Nazionale Sperimentale — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electromagnetism,object/coil"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 1" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/mono,topic/electromagnetism,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -38,7 +38,7 @@ Measure the average distance between the centres of the two discharge-balance co
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2013 Nazionale Sperimentale — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,object/lever"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 2" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/newtonian-mechanics,topic/elasticity-e-materials,object/lever"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -66,7 +66,7 @@ Use the plastic strip as if it were a normal balance scale, and the remaining pa
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2013 Nazionale Sperimentale — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/circuits,object/coil,object/resistor,object/battery"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 3" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/circuits,object/coil,object/resistor,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -95,7 +95,7 @@ Dispose the sample weights on the balance and adjust the current through the reo
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2013 Nazionale Sperimentale — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/magnetism,object/coil"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 4" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/magnetism,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -123,7 +123,7 @@ From your experimental data, derive a formula that represents the relationship b
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2013 Nazionale Sperimentale — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/circuits,object/coil,object/battery"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 5" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/circuits,object/coil,object/battery"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -162,7 +162,7 @@ The following table shows the number of units of the vehicle:
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2013 Nazionale Sperimentale — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/magnetism,object/coil"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 6" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/magnetism,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -191,7 +191,7 @@ Report the current measurements $I$ and the corresponding sample number $n$ in a
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2013 Nazionale Sperimentale — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/newtonian-mechanics,object/coil"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 7" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/newtonian-mechanics,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -220,7 +220,7 @@ You may have noticed that balance of the balance is more difficult to achieve wi
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2013 Nazionale Sperimentale — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/newtonian-mechanics,object/coil"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OII 2013 Nazionale Sperimentale · Copertina e istruzioni — Problema 8" data-tags="nazione/italia,tipo-gara/individuale,livello/nazionale,difficolta/4,multidisciplina/bi,topic/electromagnetism,topic/newtonian-mechanics,object/coil"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 

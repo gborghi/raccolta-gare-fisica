@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int15sit/FINAL_Answer_Sheet_E_I_2_IT.pdf
-title: Soluzioni — FINAL_Answer_Sheet_E_I_2_IT.pdf
+title: IPhO 2015 · Foglio risposte · Sperimentale I · Soluzioni
 ---
 
 

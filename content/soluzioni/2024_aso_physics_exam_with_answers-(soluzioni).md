@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Australia/all/2024_ASO_Physics_Exam_with_Answers.pdf
-title: Soluzioni — 2024_ASO_Physics_Exam_with_Answers.pdf
+title: ASO 2024 · Soluzioni
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/India/chimica/NSEC_2025_Solution.pdf
-title: Soluzioni — NSEC_2025_Solution.pdf
+title: India 2025 · NSEC · Soluzioni
 ---
 
 

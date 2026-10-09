@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/teorica/int07tit/AnswerSheet pink.pdf
-title: Soluzioni — AnswerSheet pink.pdf
+title: IPhO 2007 · Foglio risposte · Rosa · Soluzioni
 ---
 
 

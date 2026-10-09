@@ -15,7 +15,7 @@ tags:
   - paese/Brasile
   - comp/OBF
   - cluster/Gravitazione e Astrofisica
-title: OBF 2015 — Fase 3 · Foglio risposte Teorica
+title: OBF 2015 · Fase 3 · Foglio risposte Teorica
 ---
 
 

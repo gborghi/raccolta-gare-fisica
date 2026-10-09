@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: gare di altri paesi/Australia/all/2008-asoe-physics-exam-a-answers.pdf
-title: Soluzioni — 2008-asoe-physics-exam-a-answers.pdf
+title: ASOE 2008 · Esame A · Soluzioni
 ---
 
 

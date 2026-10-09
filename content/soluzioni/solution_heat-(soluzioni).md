@@ -1,7 +1,7 @@
 ---
 tipo: soluzione
 pdf: Gara individuale/ipho/sperimentale/int19sit/Solution_Heat.pdf
-title: Soluzioni — Solution_Heat.pdf
+title: IPhO 2019 · Heat · Soluzioni
 ---
 
 

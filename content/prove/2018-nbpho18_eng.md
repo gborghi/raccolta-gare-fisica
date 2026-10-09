@@ -1,11 +1,11 @@
 ---
-title: BPhO 2018
+title: Nordic-Baltic 2018
 tipo: prova
 tags:
   - kg/prova
   - anno/2018
   - paese/Nordic-Baltic
-  - comp/BPhO
+  - comp/Nordic
   - cluster/Meccanica
 ---
 <div class="atom-reader" data-prova="2018-nbpho18_eng"></div>
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="BPhO 2018 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Nordic-Baltic 2018 — Quesito 1" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -136,7 +136,7 @@ corpi al punto $O$ alla velocità al punto $P$.
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="BPhO 2018 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Nordic-Baltic 2018 — Quesito 2" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,7 +191,7 @@ $$\cos\alpha\cos\beta = \frac{1}{2}\left[\cos(\alpha+\beta)+\cos(\alpha-\beta)\r
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="BPhO 2018 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Nordic-Baltic 2018 — Quesito 3" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -286,7 +286,7 @@ sono indicati nella figura seguente.
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="BPhO 2018 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/prism,object/screen"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Nordic-Baltic 2018 — Quesito 4" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/prism,object/screen"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -361,7 +361,7 @@ $^1$Cristopher Moore, Phys. Rev. Lett. 70, 3675 (1993)
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="BPhO 2018 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/ball"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Nordic-Baltic 2018 — Quesito 5" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/ball"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -444,7 +444,7 @@ $m$ e $q$)?
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="BPhO 2018 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Nordic-Baltic 2018 — Quesito 6" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -499,7 +499,7 @@ l'orientamento del laser può essere arbitrario?
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="BPhO 2018 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/resistor,object/inductor,object/capacitor"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Nordic-Baltic 2018 — Quesito 7" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/resistor,object/inductor,object/capacitor"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -552,7 +552,7 @@ il valore della tensione di ingresso è $V_0$?
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="BPhO 2018 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/gas,object/bubble"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Nordic-Baltic 2018 — Quesito 8" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/gas,object/bubble"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -607,7 +607,7 @@ iii) (2 punti) Il getto d'acqua che entra nel sottomarino crea turbolenza intern
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="BPhO 2018 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/BPhO,cluster/Meccanica,object/battery,object/capacitor,object/inductor,object/wire"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Nordic-Baltic 2018 — Quesito 9" data-tags="kg/prova,paese/Nordic-Baltic,comp/Nordic,cluster/Meccanica,object/battery,object/capacitor,object/inductor,object/wire"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 

@@ -15,7 +15,7 @@ tags:
   - paese/Spagna
   - comp/Spagna
   - cluster/Gravitazione e Astrofisica
-title: Spagna 2023 — Problema 2 Mision Artemis · Soluzioni
+title: Spagna 2023 · Problema 2 Mision Artemis · Soluzioni
 ---
 
 

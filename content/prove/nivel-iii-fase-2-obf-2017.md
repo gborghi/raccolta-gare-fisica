@@ -1,5 +1,5 @@
 ---
-title: OBF 2017 — Fase 2 · Livello III
+title: OBF 2017 · Fase 2 · Livello III
 tipo: prova
 tags:
   - kg/prova
@@ -13,7 +13,7 @@ tags:
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/block,object/inclined-plane,object/spring"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 1" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/block,object/inclined-plane,object/spring"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -71,7 +71,7 @@ The speed of the block: $V_1 = 4$ m/s, in the ascending and $V_2 = 3$ m/s, in th
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/sphere,object/pipe-tube"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 2" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/sphere,object/pipe-tube"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -122,7 +122,7 @@ b) determine the value of h such that in the collision, the mass $m_1$ comes to 
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/manometer"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 3" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/manometer"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -152,7 +152,7 @@ Problem 3 - Torricelli's Experiment measured, in a pioneering way, the normal at
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/battery,object/resistor"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 4" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/battery,object/resistor"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -216,7 +216,7 @@ Part II  Questions for an open answer
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/mirror"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 5" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/mirror"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -277,7 +277,7 @@ passes through point A.
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 6" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -332,7 +332,7 @@ bright red.
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/battery"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 7" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/resistor,object/capacitor,object/battery"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 
@@ -381,7 +381,7 @@ energy stored in the capacitor
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2017 — Fase 2 · Livello III — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/rod"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="OBF 2017 · Fase 2 · Livello III — Quesito 8" data-tags="kg/prova,paese/Brasile,comp/OBF,cluster/Elettromagnetismo,object/rod"></span>
 
 <div class="qlang-switch" data-default="pt"></div>
 

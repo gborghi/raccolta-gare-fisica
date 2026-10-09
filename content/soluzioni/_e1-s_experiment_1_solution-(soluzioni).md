@@ -3,7 +3,7 @@ tipo: soluzione
 pdf: >-
   Gara
   individuale/ipho/sperimentale/int16sit/__MACOSX/._E1-S_Experiment_1_Solution.pdf
-title: Soluzioni — ._E1-S_Experiment_1_Solution.pdf
+title: IPhO 2016 · Sperimentale 1 · Soluzioni
 ---
 
 

@@ -3,9 +3,8 @@ name: Build GitHub Pages (reference) - single build
 # THE single build of the site: scripts/build-pages.sh on the committed content/ (never
 # preprocess.mjs). On main it publishes public/ to gh-pages (fast-forward, never --force).
 # Cloudflare then mirrors gh-pages byte-for-byte (gborghi/site-fisica, workflow "Deploy").
-# Figures must already be in gborghi/olifis-assets: the job can't push there with
-# GITHUB_TOKEN, so if the build has new figures the olifis step fails BEFORE publishing
-# (run `PUBLISH=1 scripts/build-pages.sh` locally once, or sync olifis-assets by hand).
+# On main, new/changed figures are pushed to gborghi/olifis-assets BEFORE publishing, with the
+# fine-grained PAT secret OLIFIS_ASSETS_TOKEN (GITHUB_TOKEN can't write to another repo).
 on:
   push:
     branches: [main, "ci/**"]
@@ -41,6 +40,7 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=12288
           PUBLISH: ${{ github.ref == 'refs/heads/main' && '1' || '0' }}
+          OLIFIS_ASSETS_TOKEN: ${{ github.ref == 'refs/heads/main' && secrets.OLIFIS_ASSETS_TOKEN || '' }}
         run: bash scripts/build-pages.sh
       - name: Upload public/ (inspection)
         if: always()

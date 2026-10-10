@@ -31,7 +31,14 @@ node scripts/fix-404.mjs
 if [ "${PUBLISH:-0}" = 1 ]; then
   # figures -> olifis-assets (ADD/UPDATE only, never deletes), BEFORE they are stripped
   W="${RGF_ASSETS_WORKDIR:-$(mktemp -d)/olifis-assets}"
-  [ -d "$W/.git" ] || git clone --depth 1 https://github.com/gborghi/olifis-assets.git "$W"
+  # CI: push with the fine-grained PAT secret OLIFIS_ASSETS_TOKEN (GITHUB_TOKEN can't write
+  # to another repo). Never echo it; Actions masks it in logs. Locally: plain https + your creds.
+  if [ -n "${OLIFIS_ASSETS_TOKEN:-}" ]; then
+    ASSETS_URL="https://x-access-token:${OLIFIS_ASSETS_TOKEN}@github.com/gborghi/olifis-assets.git"
+  else
+    ASSETS_URL="https://github.com/gborghi/olifis-assets.git"
+  fi
+  [ -d "$W/.git" ] || git clone -q --depth 1 "$ASSETS_URL" "$W"
   git -C "$W" pull --ff-only
   # fresh clone: the workflow's "git identity" step only configured the main checkout
   git -C "$W" config user.name "github-actions[bot]"
